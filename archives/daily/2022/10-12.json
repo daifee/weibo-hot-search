@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665550096212,
+  "endTime": 1665553765278,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -25,6 +25,14 @@
       "onboard_time": 1665544705,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1554505,
+      "num": 1554505,
+      "word": "高校回应毛概女老师被赞神仙颜值",
+      "onboard_time": 1665548366,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1312681,
@@ -97,6 +105,22 @@
       "onboard_time": 1665502824,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713803,
+      "num": 713803,
+      "word": "游戏王作者因见义勇为去世",
+      "onboard_time": 1665549806,
+      "rank": 33,
+      "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 703830,
+      "num": 703830,
+      "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+      "onboard_time": 1665552085,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 680777,
@@ -203,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443964,
-      "num": 375887,
-      "word": "高校回应毛概女老师被赞神仙颜值",
-      "onboard_time": 1665548366,
-      "rank": 26,
-      "category": "教育,社会新闻"
+      "raw_hot": 443507,
+      "num": 443507,
+      "word": "张译王俊凯殷桃万里归途票房破12亿",
+      "onboard_time": 1665553164,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 442170,
@@ -275,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353964,
+      "num": 353964,
+      "word": "配眼镜前看到真是我的福气",
+      "onboard_time": 1665549629,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350618,
       "num": 350618,
       "word": "网传王凯谭松韵向风而行将Q4播出",
@@ -307,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315929,
+      "num": 315929,
+      "word": "躺平不可取躺赢不可能",
+      "onboard_time": 1665551306,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 311972,
       "num": 311972,
       "word": "今天本来是我的快乐周五",
       "onboard_time": 1665546626,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311744,
+      "num": 311744,
+      "word": "GEN进军王者荣耀世冠KIC",
+      "onboard_time": 1665551547,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 309730,
@@ -323,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306187,
+      "num": 306187,
+      "word": "俞飞鸿说美只有皮囊很快会枯萎",
+      "onboard_time": 1665550707,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299709,
       "num": 277490,
       "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
@@ -331,12 +387,28 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 298943,
+      "num": 298943,
+      "word": "当代人血液里有一半是咖啡",
+      "onboard_time": 1665551606,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296433,
       "num": 296433,
       "word": "张碧晨毛不易终于唱了个He",
       "onboard_time": 1665498207,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295002,
+      "num": 295002,
+      "word": "Jennie特别定制款保时捷公开",
+      "onboard_time": 1665553524,
+      "rank": 14,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 284717,
@@ -361,6 +433,14 @@
       "onboard_time": 1665505224,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275138,
+      "num": 275138,
+      "word": "李聂把玲娜贝儿给了张根源",
+      "onboard_time": 1665552923,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 274004,
@@ -417,6 +497,14 @@
       "onboard_time": 1665547525,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 247596,
+      "num": 247596,
+      "word": "爸爸辅导作业怒拍桌子骨折了",
+      "onboard_time": 1665550873,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243689,
@@ -483,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197729,
+      "num": 197729,
+      "word": "淘宝上线老年人专属人工客服",
+      "onboard_time": 1665549989,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 192699,
       "num": 192699,
       "word": "10月11日新增本土无症状1386例",
@@ -539,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170136,
+      "num": 162375,
+      "word": "宋茜诉网友侵权获赔3万",
+      "onboard_time": 1665553404,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168366,
+      "num": 160648,
+      "word": "李马克芭莎封面",
+      "onboard_time": 1665553524,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159278,
       "num": 159278,
       "word": "底线大结局",
@@ -593,14 +705,6 @@
       "onboard_time": 1665527956,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148462,
-      "num": 148462,
-      "word": "游戏王作者因见义勇为去世",
-      "onboard_time": 1665549806,
-      "rank": 33,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 148273,
@@ -691,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119626,
+      "num": 119626,
+      "word": "谁的被窝里还没有只猫呢",
+      "onboard_time": 1665552205,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "许光汉林柏宏新片先导预告",
@@ -715,20 +827,28 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 101940,
-      "num": 101940,
-      "word": "配眼镜前看到真是我的福气",
-      "onboard_time": 1665549629,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101138,
       "num": 101138,
       "word": "gidle新歌xfile预告",
       "onboard_time": 1665534028,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100378,
+      "num": 100378,
+      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+      "onboard_time": 1665549148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100148,
+      "num": 100148,
+      "word": "原来面包还能埋进地下烤",
+      "onboard_time": 1665550346,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 97068,
@@ -763,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93265,
+      "num": 93265,
+      "word": "一时间我竟分不出谁是主角",
+      "onboard_time": 1665549868,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92445,
       "num": 92445,
       "word": "美国银行预计明年美失业率达5.5%",
@@ -795,27 +923,11 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 80667,
-      "num": 80667,
-      "word": "淘宝上线老年人专属人工客服",
-      "onboard_time": 1665549989,
-      "rank": 45,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 78216,
       "num": 78216,
       "word": "网购必备神图",
       "onboard_time": 1665489563,
       "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 77644,
-      "num": 77644,
-      "word": "一时间我竟分不出谁是主角",
-      "onboard_time": 1665549868,
-      "rank": 46,
       "category": "幽默"
     },
     {
