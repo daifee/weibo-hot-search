@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665571772056,
+  "endTime": 1665573847072,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -40,6 +40,14 @@
       "word": "新娘端庄大方被赞国泰民安脸",
       "onboard_time": 1665562944,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378483,
+      "num": 1378483,
+      "word": "伴娘拿麻将六万随礼看懵记账大爷",
+      "onboard_time": 1665569607,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1665564383,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850510,
+      "num": 272020,
+      "word": "李宇春强直性脊柱炎",
+      "onboard_time": 1665572245,
+      "rank": 10,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 819086,
@@ -331,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508564,
-      "num": 271661,
-      "word": "伴娘拿麻将六万随礼看懵记账大爷",
-      "onboard_time": 1665569607,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 505464,
+      "num": 255760,
+      "word": "二十大召开时间",
+      "onboard_time": 1665570206,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 497720,
@@ -467,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 381466,
+      "num": 381466,
+      "word": "医生悄悄垫付手术费12年后患者归还",
+      "onboard_time": 1665570086,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347108,
+      "num": 347108,
+      "word": "哥哥辅导妹妹作业双双崩溃到哭",
+      "onboard_time": 1665569126,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341736,
       "num": 341736,
       "word": "这退休生活迟早是我的",
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320377,
+      "num": 320377,
+      "word": "一张画证明人不会被AI取代",
+      "onboard_time": 1665566725,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 313052,
       "num": 313052,
       "word": "GEN进军王者荣耀世冠KIC",
@@ -601,6 +641,14 @@
       "onboard_time": 1665494364,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306986,
+      "num": 240561,
+      "word": "什么家庭经得住这么拆家啊",
+      "onboard_time": 1665571345,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 306187,
@@ -643,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293884,
-      "num": 293884,
-      "word": "一张画证明人不会被AI取代",
-      "onboard_time": 1665566725,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 291832,
       "num": 269370,
       "word": "差点忘了梁朝伟也是个歌手",
@@ -665,14 +705,6 @@
       "onboard_time": 1665564684,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290037,
-      "num": 222295,
-      "word": "二十大召开时间",
-      "onboard_time": 1665570206,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 284717,
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 265013,
-      "num": 220161,
+      "num": 226115,
       "word": "北京朝阳新增5例本土感染者",
       "onboard_time": 1665569187,
       "rank": 21,
@@ -811,14 +843,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 247218,
-      "num": 247218,
-      "word": "哥哥辅导妹妹作业双双崩溃到哭",
-      "onboard_time": 1665569126,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244431,
       "num": 199234,
       "word": "NCTUMakeAWish发行两周年",
@@ -833,6 +857,14 @@
       "onboard_time": 1665535767,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238755,
+      "num": 238755,
+      "word": "唐朝诡事录",
+      "onboard_time": 1665572364,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 233809,
@@ -915,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200701,
+      "num": 200701,
+      "word": "昆仑神宫",
+      "onboard_time": 1665572186,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199445,
       "num": 199445,
       "word": "发27篇SCI论文的学霸曾击败NASA",
@@ -984,14 +1024,6 @@
       "word": "小学生捡到50元后组团上交派出所",
       "onboard_time": 1665517690,
       "rank": 14,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 180958,
-      "num": 180958,
-      "word": "医生悄悄垫付手术费12年后患者归还",
-      "onboard_time": 1665570086,
-      "rank": 42,
       "category": "社会正能量"
     },
     {
@@ -1091,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155682,
+      "num": 124547,
+      "word": "Straykids新歌获初一位",
+      "onboard_time": 1665572664,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154088,
       "num": 154088,
       "word": "金晨王安宇新浪扫楼",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1665527956,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149486,
+      "num": 121881,
+      "word": "成毅收官长文三段式",
+      "onboard_time": 1665572486,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 149441,
@@ -1251,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "原来学会做饭这么简单",
+      "onboard_time": 1665572364,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "许光汉林柏宏新片先导预告",
@@ -1355,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90320,
+      "num": 90320,
+      "word": "我要运动跟我要早睡一样难",
+      "onboard_time": 1665572066,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89637,
       "num": 89637,
       "word": "中国女排止步世锦赛八强",
@@ -1385,14 +1449,6 @@
       "onboard_time": 1665487105,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 86516,
-      "num": 86516,
-      "word": "什么家庭经得住这么拆家啊",
-      "onboard_time": 1665571345,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 83623,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1665521530,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72895,
+      "num": 72895,
+      "word": "俄媒称俄对欧输油管道发现泄漏点",
+      "onboard_time": 1665573385,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 72784,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1665500905,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 68743,
+      "num": 68743,
+      "word": "买车一定要知道的事",
+      "onboard_time": 1665573326,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 65864,

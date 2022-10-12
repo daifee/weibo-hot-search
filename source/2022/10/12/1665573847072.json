@@ -1,0 +1,410 @@
+{
+  "runTime": 1665573847072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1378483,
+        "num": 1378483,
+        "word": "伴娘拿麻将六万随礼看懵记账大爷",
+        "onboard_time": 1665569607,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720047,
+        "num": 720047,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55651,
+        "num": 569325,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 554210,
+        "num": 554210,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423885,
+        "num": 423885,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381466,
+        "num": 381466,
+        "word": "医生悄悄垫付手术费12年后患者归还",
+        "onboard_time": 1665570086,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 347108,
+        "num": 347108,
+        "word": "哥哥辅导妹妹作业双双崩溃到哭",
+        "onboard_time": 1665569126,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320377,
+        "num": 320377,
+        "word": "一张画证明人不会被AI取代",
+        "onboard_time": 1665566725,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 306713,
+        "num": 306713,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274298,
+        "num": 274298,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 850510,
+        "num": 272020,
+        "word": "李宇春强直性脊柱炎",
+        "onboard_time": 1665572245,
+        "rank": 10,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 534531,
+        "num": 261727,
+        "word": "六公主评陈哲远沈月我的反派男友",
+        "onboard_time": 1665568344,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505464,
+        "num": 255760,
+        "word": "二十大召开时间",
+        "onboard_time": 1665570206,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 343283,
+        "num": 244976,
+        "word": "王一博檀健次张彬彬十月封面",
+        "onboard_time": 1665569607,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242568,
+        "num": 242568,
+        "word": "一起来看甄嬛雨",
+        "onboard_time": 1665563904,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681269,
+        "num": 242435,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332201,
+        "num": 241272,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306986,
+        "num": 240561,
+        "word": "什么家庭经得住这么拆家啊",
+        "onboard_time": 1665571345,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266534,
+        "num": 239628,
+        "word": "二十大最新消息",
+        "onboard_time": 1665566304,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 238755,
+        "num": 238755,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226115,
+        "num": 226115,
+        "word": "北京朝阳新增5例本土感染者",
+        "onboard_time": 1665569187,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224495,
+        "num": 224495,
+        "word": "95岁老人分别60年后重逢登记结婚",
+        "onboard_time": 1665568225,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202879,
+        "num": 202879,
+        "word": "王鹤棣霸总适配度",
+        "onboard_time": 1665567444,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201154,
+        "num": 201154,
+        "word": "差点忘了梁朝伟也是个歌手",
+        "onboard_time": 1665565944,
+        "rank": 23,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 200701,
+        "num": 200701,
+        "word": "昆仑神宫",
+        "onboard_time": 1665572186,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169156,
+        "num": 169156,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146648,
+        "num": 146648,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134595,
+        "num": 134595,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124755,
+        "num": 124755,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 155682,
+        "num": 124547,
+        "word": "Straykids新歌获初一位",
+        "onboard_time": 1665572664,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150234,
+        "num": 122369,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149486,
+        "num": 121881,
+        "word": "成毅收官长文三段式",
+        "onboard_time": 1665572486,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137523,
+        "num": 120257,
+        "word": "李彩演新歌MV",
+        "onboard_time": 1665569065,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119711,
+        "num": 119711,
+        "word": "原来学会做饭这么简单",
+        "onboard_time": 1665572364,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119227,
+        "num": 119227,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99088,
+        "num": 99088,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91342,
+        "num": 91342,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 37,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 90576,
+        "num": 90576,
+        "word": "刘洋用2米长吸管喝果汁",
+        "onboard_time": 1665565464,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90320,
+        "num": 90320,
+        "word": "我要运动跟我要早睡一样难",
+        "onboard_time": 1665572066,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 89844,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89252,
+        "num": 89252,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86191,
+        "num": 86191,
+        "word": "任嘉伦李沁请君弹幕量站内登顶",
+        "onboard_time": 1665569187,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82399,
+        "num": 82399,
+        "word": "原来小鸭也是要哄的",
+        "onboard_time": 1665565166,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73029,
+        "num": 73029,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72895,
+        "num": 72895,
+        "word": "俄媒称俄对欧输油管道发现泄漏点",
+        "onboard_time": 1665573385,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 68889,
+        "num": 68889,
+        "word": "这小肚腩怕是留不住了",
+        "onboard_time": 1665563724,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68743,
+        "num": 68743,
+        "word": "买车一定要知道的事",
+        "onboard_time": 1665573326,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67933,
+        "num": 67933,
+        "word": "VG无缘TI11正赛",
+        "onboard_time": 1665568705,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67486,
+        "num": 67486,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}

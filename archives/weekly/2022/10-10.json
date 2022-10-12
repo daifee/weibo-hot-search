@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665571772056,
+  "endTime": 1665573847072,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -192,6 +192,14 @@
       "word": "山西运城报告299例新冠阳性",
       "onboard_time": 1665409584,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378483,
+      "num": 1378483,
+      "word": "伴娘拿麻将六万随礼看懵记账大爷",
+      "onboard_time": 1665569607,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1665463229,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 850510,
+      "num": 272020,
+      "word": "李宇春强直性脊柱炎",
+      "onboard_time": 1665572245,
+      "rank": 10,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 833205,
@@ -1227,20 +1243,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 508564,
-      "num": 271661,
-      "word": "伴娘拿麻将六万随礼看懵记账大爷",
-      "onboard_time": 1665569607,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507371,
       "num": 507371,
       "word": "石榴竟然还可以做出甜品",
       "onboard_time": 1665477565,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 505464,
+      "num": 255760,
+      "word": "二十大召开时间",
+      "onboard_time": 1665570206,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 503682,
@@ -1723,6 +1739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 381466,
+      "num": 381466,
+      "word": "医生悄悄垫付手术费12年后患者归还",
+      "onboard_time": 1665570086,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 379524,
       "num": 379524,
       "word": "王鹤棣的片场花絮",
@@ -1955,6 +1979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 347108,
+      "num": 347108,
+      "word": "哥哥辅导妹妹作业双双崩溃到哭",
+      "onboard_time": 1665569126,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346316,
       "num": 346316,
       "word": "近七成晚睡是因为手机",
@@ -2115,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320377,
+      "num": 320377,
+      "word": "一张画证明人不会被AI取代",
+      "onboard_time": 1665566725,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 318361,
       "num": 318361,
       "word": "合肥疫情防控",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1665372263,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306986,
+      "num": 240561,
+      "word": "什么家庭经得住这么拆家啊",
+      "onboard_time": 1665571345,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 306187,
@@ -2267,14 +2315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293884,
-      "num": 293884,
-      "word": "一张画证明人不会被AI取代",
-      "onboard_time": 1665566725,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 293731,
       "num": 293731,
       "word": "迪丽热巴大众电影祝贺VCR",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1665564684,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290037,
-      "num": 222295,
-      "word": "二十大召开时间",
-      "onboard_time": 1665570206,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 288346,
@@ -2548,7 +2580,7 @@
     },
     {
       "raw_hot": 265013,
-      "num": 220161,
+      "num": 226115,
       "word": "北京朝阳新增5例本土感染者",
       "onboard_time": 1665569187,
       "rank": 21,
@@ -2747,14 +2779,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 247218,
-      "num": 247218,
-      "word": "哥哥辅导妹妹作业双双崩溃到哭",
-      "onboard_time": 1665569126,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246939,
       "num": 246939,
       "word": "谁能不心动一个人的快乐",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1665535767,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238755,
+      "num": 238755,
+      "word": "唐朝诡事录",
+      "onboard_time": 1665572364,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 237618,
@@ -3179,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200701,
+      "num": 200701,
+      "word": "昆仑神宫",
+      "onboard_time": 1665572186,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198949,
       "num": 198949,
       "word": "姚琛超低音",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1665403461,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180958,
-      "num": 180958,
-      "word": "医生悄悄垫付手术费12年后患者归还",
-      "onboard_time": 1665570086,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 179522,
@@ -3699,6 +3731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155682,
+      "num": 124547,
+      "word": "Straykids新歌获初一位",
+      "onboard_time": 1665572664,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154088,
       "num": 154088,
       "word": "金晨王安宇新浪扫楼",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1665412766,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149486,
+      "num": 121881,
+      "word": "成毅收官长文三段式",
+      "onboard_time": 1665572486,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 149441,
@@ -4211,6 +4259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "原来学会做饭这么简单",
+      "onboard_time": 1665572364,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "女子刷单被骗15万丈夫带女儿出走",
@@ -4587,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90320,
+      "num": 90320,
+      "word": "我要运动跟我要早睡一样难",
+      "onboard_time": 1665572066,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90218,
       "num": 90218,
       "word": "全职猎人恢复连载",
@@ -4649,14 +4713,6 @@
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86516,
-      "num": 86516,
-      "word": "什么家庭经得住这么拆家啊",
-      "onboard_time": 1665571345,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85662,
@@ -4819,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72895,
+      "num": 72895,
+      "word": "俄媒称俄对欧输油管道发现泄漏点",
+      "onboard_time": 1665573385,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 71247,
       "num": 71247,
       "word": "2023年插混车型不再享免费沪牌",
@@ -4841,6 +4905,14 @@
       "onboard_time": 1665508216,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68743,
+      "num": 68743,
+      "word": "买车一定要知道的事",
+      "onboard_time": 1665573326,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 68684,
