@@ -1,0 +1,410 @@
+{
+  "runTime": 1665584135421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154873,
+        "num": 1154873,
+        "word": "三天肩膀就练薄了",
+        "onboard_time": 1665574465,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780630,
+        "num": 780630,
+        "word": "伴娘拿麻将六万随礼看懵记账大爷",
+        "onboard_time": 1665569607,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58349,
+        "num": 749822,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743742,
+        "num": 743742,
+        "word": "女子网购运动鞋穿一周拆出剪刀",
+        "onboard_time": 1665580223,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666327,
+        "num": 666327,
+        "word": "虞书欣发长文告别虞美人",
+        "onboard_time": 1665582745,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646121,
+        "num": 646121,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496020,
+        "num": 496020,
+        "word": "杭州真的很适合减肥",
+        "onboard_time": 1665574284,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429180,
+        "num": 429180,
+        "word": "男子酒后骑自行车被认定酒驾",
+        "onboard_time": 1665576265,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378020,
+        "num": 378020,
+        "word": "毛豆好笑",
+        "onboard_time": 1665580885,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218811,
+        "num": 338268,
+        "word": "俄媒称俄对欧输油管道发现泄漏点",
+        "onboard_time": 1665573385,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 954719,
+        "num": 334729,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 803857,
+        "num": 334652,
+        "word": "李宇春强直性脊柱炎",
+        "onboard_time": 1665572245,
+        "rank": 11,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 328644,
+        "num": 328644,
+        "word": "进返京人员返京后居家健康监测三天",
+        "onboard_time": 1665579387,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324175,
+        "num": 324175,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 287648,
+        "word": "珍珠奶茶比奶茶更不容易晃出来吗",
+        "onboard_time": 1665583228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525621,
+        "num": 284695,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281027,
+        "num": 281027,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256077,
+        "num": 256077,
+        "word": "原来鼻炎也是要忌口的",
+        "onboard_time": 1665582926,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246527,
+        "num": 246527,
+        "word": "原来泡面和番茄这么配",
+        "onboard_time": 1665583645,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238004,
+        "num": 238004,
+        "word": "什么家庭经得住这么拆家啊",
+        "onboard_time": 1665571345,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239752,
+        "num": 227178,
+        "word": "两个人的小森林大结局你满意吗",
+        "onboard_time": 1665580948,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193408,
+        "num": 193408,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171077,
+        "num": 171077,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156925,
+        "num": 156925,
+        "word": "医生悄悄垫付手术费12年后患者归还",
+        "onboard_time": 1665570086,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149606,
+        "num": 149606,
+        "word": "哥哥辅导妹妹作业双双崩溃到哭",
+        "onboard_time": 1665569126,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144290,
+        "num": 144290,
+        "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
+        "onboard_time": 1665578005,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136536,
+        "num": 136536,
+        "word": "中国U17女足世界杯开门红",
+        "onboard_time": 1665581005,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133138,
+        "num": 133138,
+        "word": "二十大召开时间",
+        "onboard_time": 1665570206,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125450,
+        "num": 125450,
+        "word": "你最近一次大哭是为什么",
+        "onboard_time": 1665575183,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121941,
+        "num": 121941,
+        "word": "刚毕业时花的冤枉钱",
+        "onboard_time": 1665577223,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121059,
+        "num": 121059,
+        "word": "六公主评陈哲远沈月我的反派男友",
+        "onboard_time": 1665568344,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117764,
+        "num": 117764,
+        "word": "关节反复咔咔响注意病理性弹响",
+        "onboard_time": 1665578303,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117639,
+        "num": 117639,
+        "word": "广东男篮抵达杭州赛区",
+        "onboard_time": 1665580765,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116730,
+        "num": 116730,
+        "word": "北京昌平新增3例阳性检测者",
+        "onboard_time": 1665578124,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116674,
+        "num": 116674,
+        "word": "张彬彬说成为庄羽的日子短暂而美好",
+        "onboard_time": 1665577884,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115977,
+        "num": 115977,
+        "word": "小学生们跳绳跳出了舞的感觉",
+        "onboard_time": 1665578964,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109890,
+        "num": 109890,
+        "word": "李斌称蔚来2030年要跻身世界前五",
+        "onboard_time": 1665574704,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107882,
+        "num": 107882,
+        "word": "王一博镜中对视大片",
+        "onboard_time": 1665577884,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100259,
+        "num": 100259,
+        "word": "王鹤棣霸总适配度",
+        "onboard_time": 1665567444,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99493,
+        "num": 99493,
+        "word": "一张画证明人不会被AI取代",
+        "onboard_time": 1665566725,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98615,
+        "num": 98615,
+        "word": "95岁老人分别60年后重逢登记结婚",
+        "onboard_time": 1665568225,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97460,
+        "num": 97460,
+        "word": "原来学会做饭这么简单",
+        "onboard_time": 1665572364,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91196,
+        "num": 91196,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89103,
+        "num": 89103,
+        "word": "电视剧大考真实",
+        "onboard_time": 1665579806,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86579,
+        "num": 86579,
+        "word": "差点忘了梁朝伟也是个歌手",
+        "onboard_time": 1665565944,
+        "rank": 44,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 82624,
+        "num": 82624,
+        "word": "黑猫警长头像的他荣获一等功",
+        "onboard_time": 1665579024,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80942,
+        "num": 80942,
+        "word": "缉毒警14年缴获2吨毒品获一等功",
+        "onboard_time": 1665574942,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76981,
+        "num": 76981,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73589,
+        "num": 73589,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73487,
+        "num": 73487,
+        "word": "荣梓杉发文告别周游和吴家俊",
+        "onboard_time": 1665579864,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}
