@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665559957209,
+  "endTime": 1665560890021,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 763466,
-      "num": 698739,
+      "raw_hot": 773817,
+      "num": 731423,
       "word": "俄称克里米亚大桥恐袭策划者确定",
       "onboard_time": 1665557302,
       "rank": 20,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 752415,
-      "num": 698688,
+      "num": 699911,
       "word": "年轻人有多爱买丑东西",
       "onboard_time": 1665554483,
       "rank": 49,
@@ -147,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731175,
+      "num": 731175,
+      "word": "复联6推迟上映",
+      "onboard_time": 1665556225,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703830,
       "num": 703830,
       "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
       "onboard_time": 1665552085,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 697659,
-      "num": 697659,
-      "word": "复联6推迟上映",
-      "onboard_time": 1665556225,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -243,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497632,
-      "num": 497632,
+      "raw_hot": 497720,
+      "num": 497720,
       "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
       "onboard_time": 1665549148,
       "rank": 42,
@@ -307,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421541,
+      "num": 421541,
+      "word": "研究表明猴子或将很快到地面生活",
+      "onboard_time": 1665557722,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 421242,
       "num": 421242,
       "word": "眼睛对于颜值的影响有多大",
@@ -323,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399003,
+      "num": 399003,
+      "word": "今年冬季会是冷冬吗",
+      "onboard_time": 1665555863,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
       "onboard_time": 1665538166,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371300,
+      "num": 371300,
+      "word": "电视剧追光者",
+      "onboard_time": 1665558683,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 369530,
@@ -443,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305498,
-      "num": 305498,
-      "word": "今年冬季会是冷冬吗",
-      "onboard_time": 1665555863,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300628,
       "num": 300628,
       "word": "李聂把玲娜贝儿给了张根源",
@@ -539,14 +555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264426,
-      "num": 264426,
-      "word": "研究表明猴子或将很快到地面生活",
-      "onboard_time": 1665557722,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 253823,
       "num": 253823,
       "word": "爸爸拿喇叭赶3胞胎回家吃饭",
@@ -568,6 +576,14 @@
       "word": "湖南120米深洞底发现大熊猫化石",
       "onboard_time": 1665542604,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248610,
+      "num": 248610,
+      "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+      "onboard_time": 1665557363,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -611,12 +627,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 230978,
-      "num": 230978,
-      "word": "电视剧追光者",
-      "onboard_time": 1665558683,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 231485,
+      "num": 231485,
+      "word": "这退休生活迟早是我的",
+      "onboard_time": 1665559223,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 216577,
@@ -649,14 +665,6 @@
       "onboard_time": 1665483924,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204155,
-      "num": 204155,
-      "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
-      "onboard_time": 1665557363,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199445,
@@ -763,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165811,
+      "num": 165811,
+      "word": "潘粤明说还有四季四搭",
+      "onboard_time": 1665560724,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159278,
       "num": 159278,
       "word": "底线大结局",
@@ -785,6 +801,22 @@
       "onboard_time": 1665544404,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157804,
+      "num": 157804,
+      "word": "李国庆建议四成大学生毕业后歇一年",
+      "onboard_time": 1665560182,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157456,
+      "num": 157456,
+      "word": "李宇春我怎么能是由你打造的呢",
+      "onboard_time": 1665559763,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 157162,
@@ -817,14 +849,6 @@
       "onboard_time": 1665527956,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149664,
-      "num": 149664,
-      "word": "李宇春我怎么能是由你打造的呢",
-      "onboard_time": 1665559763,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 149441,
@@ -867,6 +891,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 145562,
+      "num": 145562,
+      "word": "金晨王安宇新浪扫楼",
+      "onboard_time": 1665560422,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143981,
       "num": 143981,
       "word": "开拓者vs勇士",
@@ -883,20 +915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138167,
-      "num": 138167,
-      "word": "这退休生活迟早是我的",
-      "onboard_time": 1665559223,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137093,
       "num": 137093,
       "word": "这是邱少云被烧焦的棉衣碎片",
       "onboard_time": 1665541164,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "为什么子女不愿意和父母沟通",
+      "onboard_time": 1665559464,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 129893,
@@ -937,6 +969,14 @@
       "onboard_time": 1665530359,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116654,
+      "num": 116654,
+      "word": "飞机拜拜员实际叫机务",
+      "onboard_time": 1665560063,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114958,
@@ -1043,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87505,
-      "num": 87505,
-      "word": "为什么子女不愿意和父母沟通",
-      "onboard_time": 1665559464,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86851,
       "num": 86851,
       "word": "姚晨庄达菲新浪扫楼",
@@ -1065,6 +1097,22 @@
       "onboard_time": 1665487105,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 83623,
+      "num": 731427,
+      "word": "天宫课堂第三课",
+      "onboard_time": 1665558084,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 80269,
+      "num": 80269,
+      "word": "一张照片读懂了消防员的奋不顾身",
+      "onboard_time": 1665560542,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 78216,
@@ -1107,14 +1155,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 70844,
-      "num": 699712,
-      "word": "天宫课堂第三课",
-      "onboard_time": 1665558084,
-      "rank": 2,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 69947,
       "num": 69947,
       "word": "谁让你们这么教中文的",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1665504083,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64434,
+      "num": 287449,
+      "word": "5人赶海被困民警淤泥里匍匐救人",
+      "onboard_time": 1665558084,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63932,
@@ -1200,14 +1248,6 @@
       "word": "95后小伙吐槽水果刺客价格贵七倍",
       "onboard_time": 1665486863,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52205,
-      "num": 287449,
-      "word": "5人赶海被困民警淤泥里匍匐救人",
-      "onboard_time": 1665558084,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
