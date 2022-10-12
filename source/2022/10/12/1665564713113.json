@@ -1,0 +1,410 @@
+{
+  "runTime": 1665564713113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038012,
+        "num": 1038012,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 557901,
+        "num": 557901,
+        "word": "研究表明猴子或将很快到地面生活",
+        "onboard_time": 1665557722,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 77630,
+        "num": 545314,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1368121,
+        "num": 541145,
+        "word": "李国庆建议四成大学生毕业后歇一年",
+        "onboard_time": 1665560182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534713,
+        "num": 534713,
+        "word": "电视剧追光者",
+        "onboard_time": 1665558683,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534040,
+        "num": 534040,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488850,
+        "num": 488850,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453844,
+        "num": 453844,
+        "word": "潘粤明说还有四季四搭",
+        "onboard_time": 1665560724,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437614,
+        "num": 437614,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 412372,
+        "num": 412372,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406117,
+        "num": 406117,
+        "word": "王一博叶秘手上沾血",
+        "onboard_time": 1665562404,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399756,
+        "num": 399756,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392393,
+        "num": 392393,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361164,
+        "num": 361164,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752,
+        "num": 358706,
+        "word": "微博成为中超社媒平台",
+        "onboard_time": 1665561624,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358348,
+        "num": 358348,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341017,
+        "num": 341017,
+        "word": "飞机拜拜员实际叫机务",
+        "onboard_time": 1665560063,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305843,
+        "num": 305843,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296995,
+        "num": 296995,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 18,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 269847,
+        "num": 269847,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260700,
+        "num": 260700,
+        "word": "腾讯地图PC端将停服",
+        "onboard_time": 1665561804,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260517,
+        "num": 260517,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250876,
+        "num": 250876,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236597,
+        "num": 236597,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210593,
+        "num": 210593,
+        "word": "一起来看甄嬛雨",
+        "onboard_time": 1665563904,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206463,
+        "num": 206463,
+        "word": "李宇春我怎么能是由你打造的呢",
+        "onboard_time": 1665559763,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205978,
+        "num": 205978,
+        "word": "周迅无名造型曝光",
+        "onboard_time": 1665562104,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196313,
+        "num": 196313,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189418,
+        "num": 189418,
+        "word": "今年冬季会是冷冬吗",
+        "onboard_time": 1665555863,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188757,
+        "num": 188757,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182199,
+        "num": 182199,
+        "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+        "onboard_time": 1665552085,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165583,
+        "num": 165583,
+        "word": "白鹿王鹤棣以爱为营班底",
+        "onboard_time": 1665549207,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154088,
+        "num": 154088,
+        "word": "金晨王安宇新浪扫楼",
+        "onboard_time": 1665560422,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146665,
+        "num": 146665,
+        "word": "爸爸辅导作业怒拍桌子骨折了",
+        "onboard_time": 1665550873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139027,
+        "num": 139027,
+        "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+        "onboard_time": 1665557363,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129345,
+        "num": 129345,
+        "word": "躺平不可取躺赢不可能",
+        "onboard_time": 1665551306,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 122283,
+        "num": 122283,
+        "word": "汤唯提名大钟奖最佳女主角",
+        "onboard_time": 1665554784,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112380,
+        "num": 112380,
+        "word": "这小肚腩怕是留不住了",
+        "onboard_time": 1665563724,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111965,
+        "num": 111965,
+        "word": "GEN进军王者荣耀世冠KIC",
+        "onboard_time": 1665551547,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111924,
+        "num": 111924,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110498,
+        "num": 110498,
+        "word": "李聂把玲娜贝儿给了张根源",
+        "onboard_time": 1665552923,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103432,
+        "num": 103432,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100970,
+        "num": 100970,
+        "word": "老师退休前最后一课教学生写人字",
+        "onboard_time": 1665562044,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92419,
+        "num": 92419,
+        "word": "谁的被窝里还没有只猫呢",
+        "onboard_time": 1665552205,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86623,
+        "num": 86623,
+        "word": "欧阳娜娜又双叒叕入股了新cp",
+        "onboard_time": 1665555684,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82664,
+        "num": 82664,
+        "word": "你好二十大",
+        "onboard_time": 1665548666,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82069,
+        "num": 82069,
+        "word": "保时捷卖中国标准菜刀售价1700元",
+        "onboard_time": 1665542724,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291812,
+        "num": 81562,
+        "word": "梁朝伟王一博程耳智族GQ十月封面",
+        "onboard_time": 1665564684,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81047,
+        "num": 81047,
+        "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+        "onboard_time": 1665546567,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80798,
+        "num": 80798,
+        "word": "26岁的她开车样子太帅了",
+        "onboard_time": 1665541644,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}

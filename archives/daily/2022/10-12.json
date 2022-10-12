@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665563580892,
+  "endTime": 1665564713113,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1368121,
+      "num": 1253905,
+      "word": "李国庆建议四成大学生毕业后歇一年",
+      "onboard_time": 1665560182,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312681,
       "num": 217632,
       "word": "工作人员确认王鹤棣将出演错撩",
       "onboard_time": 1665533246,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1253905,
-      "num": 1253905,
-      "word": "李国庆建议四成大学生毕业后歇一年",
-      "onboard_time": 1665560182,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1164939,
@@ -299,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 453844,
+      "num": 453844,
+      "word": "潘粤明说还有四季四搭",
+      "onboard_time": 1665560724,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452378,
       "num": 452378,
       "word": "女子给乞讨老人5角钱被嫌少扔回",
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379446,
-      "num": 379446,
-      "word": "潘粤明说还有四季四搭",
-      "onboard_time": 1665560724,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
@@ -409,6 +409,22 @@
       "onboard_time": 1665551306,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 361164,
+      "num": 361164,
+      "word": "金毛咬破染发膏后被主人染成红毛",
+      "onboard_time": 1665562763,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358348,
+      "num": 358348,
+      "word": "新娘端庄大方被赞国泰民安脸",
+      "onboard_time": 1665562944,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358140,
@@ -451,8 +467,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336245,
-      "num": 336245,
+      "raw_hot": 341017,
+      "num": 341017,
       "word": "飞机拜拜员实际叫机务",
       "onboard_time": 1665560063,
       "rank": 38,
@@ -507,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305843,
+      "num": 305843,
+      "word": "为什么子女不愿意和父母沟通",
+      "onboard_time": 1665559464,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300628,
       "num": 300628,
       "word": "李聂把玲娜贝儿给了张根源",
@@ -523,20 +547,20 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 298203,
-      "num": 298203,
-      "word": "为什么子女不愿意和父母沟通",
-      "onboard_time": 1665559464,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296433,
       "num": 296433,
       "word": "张碧晨毛不易终于唱了个He",
       "onboard_time": 1665498207,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291812,
+      "num": 81562,
+      "word": "梁朝伟王一博程耳智族GQ十月封面",
+      "onboard_time": 1665564684,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284717,
@@ -603,6 +627,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260700,
+      "num": 260700,
+      "word": "腾讯地图PC端将停服",
+      "onboard_time": 1665561804,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 260517,
+      "num": 260517,
+      "word": "3岁截肢男孩爬行跟爸爸相拥",
+      "onboard_time": 1665562104,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253823,
       "num": 253823,
       "word": "爸爸拿喇叭赶3胞胎回家吃饭",
@@ -617,6 +657,14 @@
       "onboard_time": 1665547282,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 250876,
+      "num": 250876,
+      "word": "心动的信号",
+      "onboard_time": 1665563184,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 249724,
@@ -691,12 +739,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210376,
-      "num": 210376,
-      "word": "腾讯地图PC端将停服",
-      "onboard_time": 1665561804,
-      "rank": 21,
-      "category": "科技"
+      "raw_hot": 210593,
+      "num": 210593,
+      "word": "一起来看甄嬛雨",
+      "onboard_time": 1665563904,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206463,
+      "num": 206463,
+      "word": "李宇春我怎么能是由你打造的呢",
+      "onboard_time": 1665559763,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205978,
+      "num": 205978,
+      "word": "周迅无名造型曝光",
+      "onboard_time": 1665562104,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205237,
@@ -739,12 +803,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 197090,
-      "num": 197090,
-      "word": "李宇春我怎么能是由你打造的呢",
-      "onboard_time": 1665559763,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 196313,
+      "num": 196313,
+      "word": "被萧山机场的飞机拜拜员可爱到了",
+      "onboard_time": 1665562705,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192699,
@@ -755,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190301,
-      "num": 190301,
-      "word": "周迅无名造型曝光",
-      "onboard_time": 1665562104,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 188757,
+      "num": 188757,
+      "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+      "onboard_time": 1665563783,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187408,
@@ -793,22 +857,6 @@
       "onboard_time": 1665500905,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179407,
-      "num": 179407,
-      "word": "3岁截肢男孩爬行跟爸爸相拥",
-      "onboard_time": 1665562104,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178311,
-      "num": 178311,
-      "word": "心动的信号",
-      "onboard_time": 1665563184,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 177660,
@@ -883,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154088,
+      "num": 154088,
+      "word": "金晨王安宇新浪扫楼",
+      "onboard_time": 1665560422,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153774,
       "num": 153774,
       "word": "虞美人庄羽吻戏好欲",
@@ -931,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148085,
-      "num": 148085,
-      "word": "金毛咬破染发膏后被主人染成红毛",
-      "onboard_time": 1665562763,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147833,
       "num": 147833,
       "word": "男子为爱吃鱼的妻子囤一冰柜鱼",
@@ -953,14 +1001,6 @@
       "onboard_time": 1665490225,
       "rank": 19,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 145562,
-      "num": 145562,
-      "word": "金晨王安宇新浪扫楼",
-      "onboard_time": 1665560422,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143981,
@@ -1027,14 +1067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 119328,
-      "num": 119328,
-      "word": "新娘端庄大方被赞国泰民安脸",
-      "onboard_time": 1665562944,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "许光汉林柏宏新片先导预告",
@@ -1051,12 +1083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112380,
+      "num": 112380,
+      "word": "这小肚腩怕是留不住了",
+      "onboard_time": 1665563724,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107920,
       "num": 107920,
       "word": "一时间我竟分不出谁是主角",
       "onboard_time": 1665549868,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103432,
+      "num": 103432,
+      "word": "12岁小学生身高1.9米被体育局相中",
+      "onboard_time": 1665564383,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102218,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1665534028,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100970,
+      "num": 100970,
+      "word": "老师退休前最后一课教学生写人字",
+      "onboard_time": 1665562044,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 100148,
@@ -1160,14 +1216,6 @@
       "word": "天宫课堂第三课",
       "onboard_time": 1665558084,
       "rank": 2,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 83257,
-      "num": 83257,
-      "word": "老师退休前最后一课教学生写人字",
-      "onboard_time": 1665562044,
-      "rank": 46,
       "category": "社会新闻,教育"
     },
     {
@@ -1281,14 +1329,6 @@
       "onboard_time": 1665531923,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58453,
-      "num": 58453,
-      "word": "被萧山机场的飞机拜拜员可爱到了",
-      "onboard_time": 1665562705,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57780,
@@ -1452,7 +1492,7 @@
     },
     {
       "raw_hot": 1993,
-      "num": 336609,
+      "num": 358706,
       "word": "微博成为中超社媒平台",
       "onboard_time": 1665561624,
       "rank": 14,
