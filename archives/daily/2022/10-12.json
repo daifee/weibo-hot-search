@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665570635806,
+  "endTime": 1665571772056,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620360,
+      "num": 272301,
+      "word": "六公主评陈哲远沈月我的反派男友",
+      "onboard_time": 1665568344,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581519,
       "num": 322724,
       "word": "错撩",
@@ -289,14 +297,6 @@
       "onboard_time": 1665500609,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 549276,
-      "num": 261135,
-      "word": "六公主评陈哲远沈月我的反派男友",
-      "onboard_time": 1665568344,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 548877,
@@ -328,6 +328,14 @@
       "word": "女婿给岳父塞5千回家发现1万红包",
       "onboard_time": 1665500067,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508564,
+      "num": 271661,
+      "word": "伴娘拿麻将六万随礼看懵记账大爷",
+      "onboard_time": 1665569607,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -403,7 +411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428740,
+      "raw_hot": 430288,
       "num": 290446,
       "word": "孙怡男人装十月封面",
       "onboard_time": 1665566543,
@@ -449,6 +457,14 @@
       "onboard_time": 1665567444,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382282,
+      "num": 270847,
+      "word": "王一博檀健次张彬彬十月封面",
+      "onboard_time": 1665569607,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 379292,
@@ -571,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312459,
-      "num": 252357,
-      "word": "王一博檀健次张彬彬十月封面",
-      "onboard_time": 1665569607,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 311972,
       "num": 311972,
       "word": "今天本来是我的快乐周五",
@@ -635,12 +643,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293884,
+      "num": 293884,
+      "word": "一张画证明人不会被AI取代",
+      "onboard_time": 1665566725,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 291832,
+      "num": 269370,
+      "word": "差点忘了梁朝伟也是个歌手",
+      "onboard_time": 1665565944,
+      "rank": 27,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 291812,
       "num": 81562,
       "word": "梁朝伟王一博程耳智族GQ十月封面",
       "onboard_time": 1665564684,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290037,
+      "num": 222295,
+      "word": "二十大召开时间",
+      "onboard_time": 1665570206,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 284717,
@@ -707,20 +739,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265013,
+      "num": 220161,
+      "word": "北京朝阳新增5例本土感染者",
+      "onboard_time": 1665569187,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263674,
       "num": 263674,
       "word": "3岁截肢男孩爬行跟爸爸相拥",
       "onboard_time": 1665562104,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260789,
-      "num": 250942,
-      "word": "差点忘了梁朝伟也是个歌手",
-      "onboard_time": 1665565944,
-      "rank": 27,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 260700,
@@ -779,6 +811,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 247218,
+      "num": 247218,
+      "word": "哥哥辅导妹妹作业双双崩溃到哭",
+      "onboard_time": 1665569126,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244431,
       "num": 199234,
       "word": "NCTUMakeAWish发行两周年",
@@ -793,14 +833,6 @@
       "onboard_time": 1665535767,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239281,
-      "num": 239281,
-      "word": "一张画证明人不会被AI取代",
-      "onboard_time": 1665566725,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 233809,
@@ -819,6 +851,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 225370,
+      "num": 225370,
+      "word": "95岁老人分别60年后重逢登记结婚",
+      "onboard_time": 1665568225,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216577,
       "num": 216577,
       "word": "姆巴佩与巴黎关系破裂",
@@ -832,14 +872,6 @@
       "word": "白俄罗斯女孩跨越万里远嫁中国",
       "onboard_time": 1665516611,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206699,
-      "num": 206699,
-      "word": "北京朝阳新增5例本土感染者",
-      "onboard_time": 1665569187,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -883,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203008,
-      "num": 210464,
-      "word": "95岁老人分别60年后重逢登记结婚",
-      "onboard_time": 1665568225,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199445,
       "num": 199445,
       "word": "发27篇SCI论文的学霸曾击败NASA",
@@ -905,6 +929,14 @@
       "onboard_time": 1665553765,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198016,
+      "num": 198016,
+      "word": "麦芽糖是外婆的爱",
+      "onboard_time": 1665571166,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 197729,
@@ -928,14 +960,6 @@
       "word": "10月11日新增本土无症状1386例",
       "onboard_time": 1665537505,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187572,
-      "num": 187572,
-      "word": "哥哥辅导妹妹作业双双崩溃到哭",
-      "onboard_time": 1665569126,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -963,6 +987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "医生悄悄垫付手术费12年后患者归还",
+      "onboard_time": 1665570086,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 180150,
       "num": 180150,
       "word": "唐宫夜宴",
@@ -976,14 +1008,6 @@
       "word": "新娘带伴娘团婚礼上跳女团舞",
       "onboard_time": 1665501747,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176997,
-      "num": 176997,
-      "word": "伴娘拿麻将六万随礼看懵记账大爷",
-      "onboard_time": 1665569607,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1251,14 +1275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102594,
-      "num": 102594,
-      "word": "二十大召开时间",
-      "onboard_time": 1665570206,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 102218,
       "num": 102218,
       "word": "东风快递发射大场面帧帧大片",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1665500306,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95460,
-      "num": 95460,
-      "word": "医生悄悄垫付手术费12年后患者归还",
-      "onboard_time": 1665570086,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 94026,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1665487105,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 86516,
+      "num": 86516,
+      "word": "什么家庭经得住这么拆家啊",
+      "onboard_time": 1665571345,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 83623,
