@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665532201053,
+  "endTime": 1665542218596,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346072,
+      "num": 1346072,
+      "word": "突然意识到自己真的很好",
+      "onboard_time": 1665533124,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1324287,
       "num": 1324287,
       "word": "你肯定见过这个床单",
@@ -177,6 +185,14 @@
       "onboard_time": 1665329965,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1312681,
+      "num": 190123,
+      "word": "工作人员确认王鹤棣将出演错撩",
+      "onboard_time": 1665533246,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1253236,
@@ -249,6 +265,14 @@
       "onboard_time": 1665377007,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1031848,
+      "num": 1031848,
+      "word": "邱少云牺牲时手指几乎都插入土中",
+      "onboard_time": 1665532946,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1016382,
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 776236,
+      "num": 776236,
+      "word": "中国取暖设备火到欧洲",
+      "onboard_time": 1665536007,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775319,
       "num": 406470,
       "word": "孙杨无名指上戴戒指",
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694165,
+      "num": 694165,
+      "word": "17岁少年长期熬夜打游戏多病齐发",
+      "onboard_time": 1665538825,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686452,
       "num": 686452,
       "word": "普京称俄军对乌克兰军事目标实施打击",
@@ -585,6 +625,14 @@
       "onboard_time": 1665461664,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680777,
+      "num": 680777,
+      "word": "分手了会删朋友圈吗",
+      "onboard_time": 1665533609,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 679127,
@@ -624,6 +672,14 @@
       "word": "收到这类短信千万别点开",
       "onboard_time": 1665485664,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651781,
+      "num": 651781,
+      "word": "小伙上大学后沉迷游戏20年没回家",
+      "onboard_time": 1665537687,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -817,6 +873,14 @@
       "onboard_time": 1665452964,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 548877,
+      "num": 548877,
+      "word": "10月11日新增本土确诊374例",
+      "onboard_time": 1665537445,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547421,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1665367824,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 452378,
+      "num": 452378,
+      "word": "女子给乞讨老人5角钱被嫌少扔回",
+      "onboard_time": 1665533186,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445809,
@@ -1635,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324368,
+      "num": 324368,
+      "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
+      "onboard_time": 1665531564,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323957,
       "num": 323957,
       "word": "老人公交车上直跺脚被护士看出中风",
@@ -1672,6 +1752,14 @@
       "word": "10月10日新增本土无症状1662例",
       "onboard_time": 1665452663,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316171,
+      "num": 316171,
+      "word": "狗子去邻家蹭饭还把人家桌子掀了",
+      "onboard_time": 1665538166,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1868,7 +1956,7 @@
     },
     {
       "raw_hot": 278365,
-      "num": 173373,
+      "num": 179582,
       "word": "女子用狗狗拉粑粑照给狗办证",
       "onboard_time": 1665505224,
       "rank": 25,
@@ -1889,6 +1977,14 @@
       "onboard_time": 1665459684,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274004,
+      "num": 274004,
+      "word": "陈飞宇周也新片海报氛围感",
+      "onboard_time": 1665539542,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 273325,
@@ -2121,6 +2217,14 @@
       "onboard_time": 1665488725,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243689,
+      "num": 243689,
+      "word": "猫和猫腿果然是两种生物",
+      "onboard_time": 1665535767,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 237618,
@@ -2547,6 +2651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192699,
+      "num": 192699,
+      "word": "10月11日新增本土无症状1386例",
+      "onboard_time": 1665537505,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192327,
       "num": 192327,
       "word": "CBA裁判吹罚尺度",
@@ -2691,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172457,
+      "num": 172457,
+      "word": "许多国宝动物正回到我们身边",
+      "onboard_time": 1665537207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "电影无名有大鹏",
@@ -2827,6 +2947,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 158673,
+      "num": 158673,
+      "word": "欧冠",
+      "onboard_time": 1665538104,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157525,
       "num": 157525,
       "word": "95后小伙靠混凝土砌筑拿世界冠军",
@@ -2880,6 +3008,14 @@
       "word": "你安全吗",
       "onboard_time": 1665493465,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153774,
+      "num": 153774,
+      "word": "虞美人庄羽吻戏好欲",
+      "onboard_time": 1665539485,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3163,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131309,
+      "num": 131309,
+      "word": "这是邱少云被烧焦的棉衣碎片",
+      "onboard_time": 1665541164,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130753,
       "num": 130753,
       "word": "明星古装高马尾造型有多飒",
@@ -3209,14 +3353,6 @@
       "onboard_time": 1665466524,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126371,
-      "num": 126371,
-      "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
-      "onboard_time": 1665531564,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126120,
@@ -3312,6 +3448,14 @@
       "word": "长沙天空惊现龙鳞云",
       "onboard_time": 1665418041,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119665,
+      "num": 119665,
+      "word": "26岁的她开车样子太帅了",
+      "onboard_time": 1665541644,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3427,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107716,
+      "num": 107716,
+      "word": "国产青春校园剧的质量等级",
+      "onboard_time": 1665540323,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107641,
       "num": 107641,
       "word": "梅西为LGD加油",
@@ -3513,6 +3665,14 @@
       "onboard_time": 1665325645,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101138,
+      "num": 101138,
+      "word": "gidle新歌xfile预告",
+      "onboard_time": 1665534028,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 100821,
@@ -3667,6 +3827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89637,
+      "num": 89637,
+      "word": "中国女排止步世锦赛八强",
+      "onboard_time": 1665531142,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88995,
       "num": 88995,
       "word": "gidle新专辑试听",
@@ -3721,14 +3889,6 @@
       "onboard_time": 1665392484,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84617,
-      "num": 84617,
-      "word": "中国女排止步世锦赛八强",
-      "onboard_time": 1665531142,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 84211,

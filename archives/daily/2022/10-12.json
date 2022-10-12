@@ -1,13 +1,37 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665532201053,
+  "endTime": 1665542218596,
   "band_list": [
+    {
+      "raw_hot": 1346072,
+      "num": 1346072,
+      "word": "突然意识到自己真的很好",
+      "onboard_time": 1665533124,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1312681,
+      "num": 190123,
+      "word": "工作人员确认王鹤棣将出演错撩",
+      "onboard_time": 1665533246,
+      "rank": 20,
+      "category": "影视"
+    },
     {
       "raw_hot": 1164939,
       "num": 1164939,
       "word": "老公误把酵母粉当感冒药给老婆喝",
       "onboard_time": 1665497905,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031848,
+      "num": 1031848,
+      "word": "邱少云牺牲时手指几乎都插入土中",
+      "onboard_time": 1665532946,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -19,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 776236,
+      "num": 776236,
+      "word": "中国取暖设备火到欧洲",
+      "onboard_time": 1665536007,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732780,
       "num": 732780,
       "word": "多地政府大手笔回购商品房",
@@ -27,12 +59,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694165,
+      "num": 694165,
+      "word": "17岁少年长期熬夜打游戏多病齐发",
+      "onboard_time": 1665538825,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680777,
+      "num": 680777,
+      "word": "分手了会删朋友圈吗",
+      "onboard_time": 1665533609,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 651781,
+      "num": 651781,
+      "word": "小伙上大学后沉迷游戏20年没回家",
+      "onboard_time": 1665537687,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581519,
+      "num": 322724,
+      "word": "错撩",
+      "onboard_time": 1665535108,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568374,
       "num": 568374,
       "word": "中国女排vs意大利女排",
       "onboard_time": 1665500609,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548877,
+      "num": 548877,
+      "word": "10月11日新增本土确诊374例",
+      "onboard_time": 1665537445,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515341,
@@ -48,6 +120,14 @@
       "word": "男子买药付款时偷换商家收款码",
       "onboard_time": 1665523632,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452378,
+      "num": 452378,
+      "word": "女子给乞讨老人5角钱被嫌少扔回",
+      "onboard_time": 1665533186,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -115,6 +195,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 324368,
+      "num": 324368,
+      "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
+      "onboard_time": 1665531564,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316171,
+      "num": 316171,
+      "word": "狗子去邻家蹭饭还把人家桌子掀了",
+      "onboard_time": 1665538166,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309730,
       "num": 309730,
       "word": "相亲成功上岸是什么体验",
@@ -148,11 +244,19 @@
     },
     {
       "raw_hot": 278365,
-      "num": 173373,
+      "num": 179582,
       "word": "女子用狗狗拉粑粑照给狗办证",
       "onboard_time": 1665505224,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274004,
+      "num": 274004,
+      "word": "陈飞宇周也新片海报氛围感",
+      "onboard_time": 1665539542,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 268859,
@@ -161,6 +265,14 @@
       "onboard_time": 1665504382,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243689,
+      "num": 243689,
+      "word": "猫和猫腿果然是两种生物",
+      "onboard_time": 1665535767,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 233809,
@@ -211,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192699,
+      "num": 192699,
+      "word": "10月11日新增本土无症状1386例",
+      "onboard_time": 1665537505,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181896,
       "num": 181896,
       "word": "小学生捡到50元后组团上交派出所",
@@ -235,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172457,
+      "num": 172457,
+      "word": "许多国宝动物正回到我们身边",
+      "onboard_time": 1665537207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159278,
       "num": 159278,
       "word": "底线大结局",
@@ -243,12 +371,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158673,
+      "num": 158673,
+      "word": "欧冠",
+      "onboard_time": 1665538104,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157162,
       "num": 157162,
       "word": "女排 拦网",
       "onboard_time": 1665507677,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153774,
+      "num": 153774,
+      "word": "虞美人庄羽吻戏好欲",
+      "onboard_time": 1665539485,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 152204,
@@ -291,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131309,
+      "num": 131309,
+      "word": "这是邱少云被烧焦的棉衣碎片",
+      "onboard_time": 1665541164,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127129,
       "num": 127129,
       "word": "张彬彬摘眼镜吻戏",
       "onboard_time": 1665497549,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126371,
-      "num": 126371,
-      "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
-      "onboard_time": 1665531564,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126026,
@@ -331,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119665,
+      "num": 119665,
+      "word": "26岁的她开车样子太帅了",
+      "onboard_time": 1665541644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114706,
       "num": 114706,
       "word": "地理老师都气笑了",
@@ -339,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107716,
+      "num": 107716,
+      "word": "国产青春校园剧的质量等级",
+      "onboard_time": 1665540323,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102218,
       "num": 102218,
       "word": "东风快递发射大场面帧帧大片",
       "onboard_time": 1665521351,
       "rank": 30,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 101138,
+      "num": 101138,
+      "word": "gidle新歌xfile预告",
+      "onboard_time": 1665534028,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 97068,
@@ -387,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89637,
+      "num": 89637,
+      "word": "中国女排止步世锦赛八强",
+      "onboard_time": 1665531142,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87549,
       "num": 87549,
       "word": "收到这类短信千万别点开",
@@ -401,14 +577,6 @@
       "onboard_time": 1665487105,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 84617,
-      "num": 84617,
-      "word": "中国女排止步世锦赛八强",
-      "onboard_time": 1665531142,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 78216,
@@ -587,8 +755,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9418,
-      "num": 563789,
+      "raw_hot": 11423,
+      "num": 861849,
       "word": "180秒看见最可爱的中国",
       "onboard_time": 1665471804,
       "rank": 2,
