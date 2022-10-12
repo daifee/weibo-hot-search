@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665553765278,
+  "endTime": 1665554491133,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1601125,
+      "num": 1601125,
+      "word": "高校回应毛概女老师被赞神仙颜值",
+      "onboard_time": 1665548366,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1596698,
       "num": 1596698,
       "word": "抽检发现有的女装致癌物超标20多倍",
@@ -145,14 +153,6 @@
       "onboard_time": 1665490824,
       "rank": 10,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1554505,
-      "num": 1554505,
-      "word": "高校回应毛概女老师被赞神仙颜值",
-      "onboard_time": 1665548366,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1535241,
@@ -483,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 816806,
+      "num": 816806,
+      "word": "游戏王作者因见义勇为去世",
+      "onboard_time": 1665549806,
+      "rank": 33,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 802432,
       "num": 802432,
       "word": "许家印20亿伦敦豪宅挂牌出售",
@@ -545,6 +553,14 @@
       "onboard_time": 1665388522,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753733,
+      "num": 365435,
+      "word": "Jennie特别定制款保时捷公开",
+      "onboard_time": 1665553524,
+      "rank": 14,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 753302,
@@ -617,14 +633,6 @@
       "onboard_time": 1665373705,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 713803,
-      "num": 713803,
-      "word": "游戏王作者因见义勇为去世",
-      "onboard_time": 1665549806,
-      "rank": 33,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 710669,
@@ -1523,6 +1531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 386153,
+      "num": 386153,
+      "word": "当代人血液里有一半是咖啡",
+      "onboard_time": 1665551606,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379524,
       "num": 379524,
       "word": "王鹤棣的片场花絮",
@@ -1883,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317608,
+      "num": 317608,
+      "word": "躺平不可取躺赢不可能",
+      "onboard_time": 1665551306,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 317058,
       "num": 317058,
       "word": "10月10日新增本土无症状1662例",
@@ -1891,20 +1915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315929,
-      "num": 315929,
-      "word": "躺平不可取躺赢不可能",
-      "onboard_time": 1665551306,
-      "rank": 10,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 313365,
       "num": 313365,
       "word": "内蒙古增本土确诊119例无症状559例",
       "onboard_time": 1665365004,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313052,
+      "num": 313052,
+      "word": "GEN进军王者荣耀世冠KIC",
+      "onboard_time": 1665551547,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 312996,
@@ -1931,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311744,
-      "num": 311744,
-      "word": "GEN进军王者荣耀世冠KIC",
-      "onboard_time": 1665551547,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 311488,
       "num": 311488,
       "word": "汪苏泷一年发两张专辑",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1665550707,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305988,
+      "num": 305988,
+      "word": "爸爸辅导作业怒拍桌子骨折了",
+      "onboard_time": 1665550873,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303630,
@@ -1995,6 +2019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 300628,
+      "num": 300628,
+      "word": "李聂把玲娜贝儿给了张根源",
+      "onboard_time": 1665552923,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300079,
       "num": 300079,
       "word": "董思成赖冠霖胡一天十月刊封面",
@@ -2011,28 +2043,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 298943,
-      "num": 298943,
-      "word": "当代人血液里有一半是咖啡",
-      "onboard_time": 1665551606,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295466,
       "num": 295466,
       "word": "许凯爱的二八定律原声台词",
       "onboard_time": 1665383002,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295002,
-      "num": 295002,
-      "word": "Jennie特别定制款保时捷公开",
-      "onboard_time": 1665553524,
-      "rank": 14,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 293731,
@@ -2153,14 +2169,6 @@
       "onboard_time": 1665470363,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275138,
-      "num": 275138,
-      "word": "李聂把玲娜贝儿给了张根源",
-      "onboard_time": 1665552923,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 274346,
@@ -2443,20 +2451,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 247596,
-      "num": 247596,
-      "word": "爸爸辅导作业怒拍桌子骨折了",
-      "onboard_time": 1665550873,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246939,
       "num": 246939,
       "word": "谁能不心动一个人的快乐",
       "onboard_time": 1665488725,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244431,
+      "num": 199234,
+      "word": "NCTUMakeAWish发行两周年",
+      "onboard_time": 1665553942,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 243689,
@@ -2833,6 +2841,14 @@
       "onboard_time": 1665498389,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198949,
+      "num": 198949,
+      "word": "姚琛超低音",
+      "onboard_time": 1665553765,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 198636,
@@ -3323,6 +3339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152508,
+      "num": 152508,
+      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+      "onboard_time": 1665549148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152415,
       "num": 152415,
       "word": "6名男生就地取材宿舍内健身",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1665395002,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140388,
+      "num": 140388,
+      "word": "谁的被窝里还没有只猫呢",
+      "onboard_time": 1665552205,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 140376,
@@ -3763,14 +3795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119626,
-      "num": 119626,
-      "word": "谁的被窝里还没有只猫呢",
-      "onboard_time": 1665552205,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "女子刷单被骗15万丈夫带女儿出走",
@@ -3891,6 +3915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107920,
+      "num": 107920,
+      "word": "一时间我竟分不出谁是主角",
+      "onboard_time": 1665549868,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107641,
       "num": 107641,
       "word": "梅西为LGD加油",
@@ -3995,14 +4027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100378,
-      "num": 100378,
-      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
-      "onboard_time": 1665549148,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100148,
       "num": 100148,
       "word": "原来面包还能埋进地下烤",
@@ -4081,14 +4105,6 @@
       "onboard_time": 1665380603,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93265,
-      "num": 93265,
-      "word": "一时间我竟分不出谁是主角",
-      "onboard_time": 1665549868,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 92928,
@@ -4361,6 +4377,14 @@
       "onboard_time": 1665508216,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 69082,
+      "num": 69082,
+      "word": "年轻人有多爱买丑东西",
+      "onboard_time": 1665554483,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 68684,

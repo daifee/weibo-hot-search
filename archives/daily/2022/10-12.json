@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665553765278,
+  "endTime": 1665554491133,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1554505,
-      "num": 1554505,
+      "raw_hot": 1601125,
+      "num": 1601125,
       "word": "高校回应毛概女老师被赞神仙颜值",
       "onboard_time": 1665548366,
       "rank": 26,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 816806,
+      "num": 816806,
+      "word": "游戏王作者因见义勇为去世",
+      "onboard_time": 1665549806,
+      "rank": 33,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 776236,
       "num": 776236,
       "word": "中国取暖设备火到欧洲",
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753733,
+      "num": 365435,
+      "word": "Jennie特别定制款保时捷公开",
+      "onboard_time": 1665553524,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 732780,
       "num": 732780,
       "word": "多地政府大手笔回购商品房",
       "onboard_time": 1665502824,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713803,
-      "num": 713803,
-      "word": "游戏王作者因见义勇为去世",
-      "onboard_time": 1665549806,
-      "rank": 33,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 703830,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386153,
+      "num": 386153,
+      "word": "当代人血液里有一半是咖啡",
+      "onboard_time": 1665551606,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
@@ -339,12 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315929,
-      "num": 315929,
+      "raw_hot": 317608,
+      "num": 317608,
       "word": "躺平不可取躺赢不可能",
       "onboard_time": 1665551306,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 313052,
+      "num": 313052,
+      "word": "GEN进军王者荣耀世冠KIC",
+      "onboard_time": 1665551547,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 311972,
@@ -353,14 +377,6 @@
       "onboard_time": 1665546626,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311744,
-      "num": 311744,
-      "word": "GEN进军王者荣耀世冠KIC",
-      "onboard_time": 1665551547,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 309730,
@@ -379,6 +395,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305988,
+      "num": 305988,
+      "word": "爸爸辅导作业怒拍桌子骨折了",
+      "onboard_time": 1665550873,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300628,
+      "num": 300628,
+      "word": "李聂把玲娜贝儿给了张根源",
+      "onboard_time": 1665552923,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299709,
       "num": 277490,
       "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
@@ -387,28 +419,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 298943,
-      "num": 298943,
-      "word": "当代人血液里有一半是咖啡",
-      "onboard_time": 1665551606,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296433,
       "num": 296433,
       "word": "张碧晨毛不易终于唱了个He",
       "onboard_time": 1665498207,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295002,
-      "num": 295002,
-      "word": "Jennie特别定制款保时捷公开",
-      "onboard_time": 1665553524,
-      "rank": 14,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 284717,
@@ -433,14 +449,6 @@
       "onboard_time": 1665505224,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275138,
-      "num": 275138,
-      "word": "李聂把玲娜贝儿给了张根源",
-      "onboard_time": 1665552923,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 274004,
@@ -499,12 +507,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 247596,
-      "num": 247596,
-      "word": "爸爸辅导作业怒拍桌子骨折了",
-      "onboard_time": 1665550873,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 244431,
+      "num": 199234,
+      "word": "NCTUMakeAWish发行两周年",
+      "onboard_time": 1665553942,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 243689,
@@ -569,6 +577,14 @@
       "onboard_time": 1665491846,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198949,
+      "num": 198949,
+      "word": "姚琛超低音",
+      "onboard_time": 1665553765,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 197729,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152508,
+      "num": 152508,
+      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+      "onboard_time": 1665549148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152204,
       "num": 152204,
       "word": "神仙租客回应将房间打扫干净",
@@ -747,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140388,
+      "num": 140388,
+      "word": "谁的被窝里还没有只猫呢",
+      "onboard_time": 1665552205,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137093,
       "num": 137093,
       "word": "这是邱少云被烧焦的棉衣碎片",
@@ -795,14 +827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 119626,
-      "num": 119626,
-      "word": "谁的被窝里还没有只猫呢",
-      "onboard_time": 1665552205,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "许光汉林柏宏新片先导预告",
@@ -816,6 +840,14 @@
       "word": "地理老师都气笑了",
       "onboard_time": 1665505700,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107920,
+      "num": 107920,
+      "word": "一时间我竟分不出谁是主角",
+      "onboard_time": 1665549868,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -833,14 +865,6 @@
       "onboard_time": 1665534028,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 100378,
-      "num": 100378,
-      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
-      "onboard_time": 1665549148,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100148,
@@ -881,14 +905,6 @@
       "onboard_time": 1665496406,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93265,
-      "num": 93265,
-      "word": "一时间我竟分不出谁是主角",
-      "onboard_time": 1665549868,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 92445,
@@ -977,6 +993,14 @@
       "onboard_time": 1665496766,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69082,
+      "num": 69082,
+      "word": "年轻人有多爱买丑东西",
+      "onboard_time": 1665554483,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 68904,

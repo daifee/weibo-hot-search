@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/12 00:38:56 ~ 2022/10/12 13:49:25
+本榜单时间：2022/10/12 00:38:56 ~ 2022/10/12 14:01:31
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%AF%9B%E6%A6%82%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%B5%9E%E7%A5%9E%E4%BB%99%E9%A2%9C%E5%80%BC%23" target="weibo">
-高校回应毛概女老师被赞神仙颜值（热度：1554505）
+高校回应毛概女老师被赞神仙颜值（热度：1601125）
 </a>
 </li>
 
@@ -81,20 +81,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E7%8E%8B%E4%BD%9C%E8%80%85%E5%9B%A0%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%8E%BB%E4%B8%96%23" target="weibo">
+游戏王作者因见义勇为去世（热度：816806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%9A%96%E8%AE%BE%E5%A4%87%E7%81%AB%E5%88%B0%E6%AC%A7%E6%B4%B2%23" target="weibo">
 中国取暖设备火到欧洲（热度：776236）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%A4%A7%E6%89%8B%E7%AC%94%E5%9B%9E%E8%B4%AD%E5%95%86%E5%93%81%E6%88%BF%23" target="weibo">
-多地政府大手笔回购商品房（热度：732780）
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%89%B9%E5%88%AB%E5%AE%9A%E5%88%B6%E6%AC%BE%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%85%AC%E5%BC%80%23" target="weibo">
+Jennie特别定制款保时捷公开（热度：753733）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E7%8E%8B%E4%BD%9C%E8%80%85%E5%9B%A0%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%8E%BB%E4%B8%96%23" target="weibo">
-游戏王作者因见义勇为去世（热度：713803）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%A4%A7%E6%89%8B%E7%AC%94%E5%9B%9E%E8%B4%AD%E5%95%86%E5%93%81%E6%88%BF%23" target="weibo">
+多地政府大手笔回购商品房（热度：732780）
 </a>
 </li>
 
@@ -213,6 +219,12 @@ aespa出镜nylon十月刊（热度：426975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E4%BA%BA%E8%A1%80%E6%B6%B2%E9%87%8C%E6%9C%89%E4%B8%80%E5%8D%8A%E6%98%AF%E5%92%96%E5%95%A1%23" target="weibo">
+当代人血液里有一半是咖啡（热度：386153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E5%8E%BB%E9%82%BB%E5%AE%B6%E8%B9%AD%E9%A5%AD%E8%BF%98%E6%8A%8A%E4%BA%BA%E5%AE%B6%E6%A1%8C%E5%AD%90%E6%8E%80%E4%BA%86%23" target="weibo">
 狗子去邻家蹭饭还把人家桌子掀了（热度：379292）
 </a>
@@ -268,19 +280,19 @@ aespa出镜nylon十月刊（热度：426975）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%BA%E5%B9%B3%E4%B8%8D%E5%8F%AF%E5%8F%96%E8%BA%BA%E8%B5%A2%E4%B8%8D%E5%8F%AF%E8%83%BD%23" target="weibo">
-躺平不可取躺赢不可能（热度：315929）
+躺平不可取躺赢不可能（热度：317608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E8%BF%9B%E5%86%9B%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E5%86%A0KIC%23" target="weibo">
+GEN进军王者荣耀世冠KIC（热度：313052）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%9C%AC%E6%9D%A5%E6%98%AF%E6%88%91%E7%9A%84%E5%BF%AB%E4%B9%90%E5%91%A8%E4%BA%94%23" target="weibo">
 今天本来是我的快乐周五（热度：311972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GEN%E8%BF%9B%E5%86%9B%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E5%86%A0KIC%23" target="weibo">
-GEN进军王者荣耀世冠KIC（热度：311744）
 </a>
 </li>
 
@@ -297,26 +309,26 @@ GEN进军王者荣耀世冠KIC（热度：311744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E6%80%92%E6%8B%8D%E6%A1%8C%E5%AD%90%E9%AA%A8%E6%8A%98%E4%BA%86%23" target="weibo">
+爸爸辅导作业怒拍桌子骨折了（热度：305988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%81%82%E6%8A%8A%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E7%BB%99%E4%BA%86%E5%BC%A0%E6%A0%B9%E6%BA%90%23" target="weibo">
+李聂把玲娜贝儿给了张根源（热度：300628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%9C%A8%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%A4%84%E9%99%84%E8%BF%91%E5%B7%A1%E8%88%AA%23" target="weibo">
 美军舰被拍到在北溪管道泄漏处附近巡航（热度：299709）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E4%BA%BA%E8%A1%80%E6%B6%B2%E9%87%8C%E6%9C%89%E4%B8%80%E5%8D%8A%E6%98%AF%E5%92%96%E5%95%A1%23" target="weibo">
-当代人血液里有一半是咖啡（热度：298943）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AF%9B%E4%B8%8D%E6%98%93%E7%BB%88%E4%BA%8E%E5%94%B1%E4%BA%86%E4%B8%AAHe%23" target="weibo">
 张碧晨毛不易终于唱了个He（热度：296433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%89%B9%E5%88%AB%E5%AE%9A%E5%88%B6%E6%AC%BE%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%85%AC%E5%BC%80%23" target="weibo">
-Jennie特别定制款保时捷公开（热度：295002）
 </a>
 </li>
 
@@ -335,12 +347,6 @@ Jennie特别定制款保时捷公开（热度：295002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%8B%97%E7%8B%97%E6%8B%89%E7%B2%91%E7%B2%91%E7%85%A7%E7%BB%99%E7%8B%97%E5%8A%9E%E8%AF%81%23" target="weibo">
 女子用狗狗拉粑粑照给狗办证（热度：278365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%81%82%E6%8A%8A%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E7%BB%99%E4%BA%86%E5%BC%A0%E6%A0%B9%E6%BA%90%23" target="weibo">
-李聂把玲娜贝儿给了张根源（热度：275138）
 </a>
 </li>
 
@@ -387,8 +393,8 @@ Jennie特别定制款保时捷公开（热度：295002）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E6%80%92%E6%8B%8D%E6%A1%8C%E5%AD%90%E9%AA%A8%E6%8A%98%E4%BA%86%23" target="weibo">
-爸爸辅导作业怒拍桌子骨折了（热度：247596）
+<a href="https://s.weibo.com/weibo?q=%23NCTUMakeAWish%E5%8F%91%E8%A1%8C%E4%B8%A4%E5%91%A8%E5%B9%B4%23" target="weibo">
+NCTUMakeAWish发行两周年（热度：244431）
 </a>
 </li>
 
@@ -437,6 +443,12 @@ Jennie特别定制款保时捷公开（热度：295002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%9127%E7%AF%87SCI%E8%AE%BA%E6%96%87%E7%9A%84%E5%AD%A6%E9%9C%B8%E6%9B%BE%E5%87%BB%E8%B4%A5NASA%23" target="weibo">
 发27篇SCI论文的学霸曾击败NASA（热度：199445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E8%B6%85%E4%BD%8E%E9%9F%B3%23" target="weibo">
+姚琛超低音（热度：198949）
 </a>
 </li>
 
@@ -531,6 +543,12 @@ Jennie特别定制款保时捷公开（热度：295002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AB%98%E7%83%A7%E7%A1%AC%E6%92%912%E5%A4%A9%E6%88%90%E6%9A%B4%E5%8F%91%E6%80%A7%E5%BF%83%E8%82%8C%E7%82%8E%23" target="weibo">
+14岁男孩高烧硬撑2天成暴发性心肌炎（热度：152508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BB%99%E7%A7%9F%E5%AE%A2%E5%9B%9E%E5%BA%94%E5%B0%86%E6%88%BF%E9%97%B4%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%23" target="weibo">
 神仙租客回应将房间打扫干净（热度：152204）
 </a>
@@ -573,6 +591,12 @@ Jennie特别定制款保时捷公开（热度：295002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%9A%84%E8%A2%AB%E7%AA%9D%E9%87%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E5%8F%AA%E7%8C%AB%E5%91%A2%23" target="weibo">
+谁的被窝里还没有只猫呢（热度：140388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%82%B1%E5%B0%91%E4%BA%91%E8%A2%AB%E7%83%A7%E7%84%A6%E7%9A%84%E6%A3%89%E8%A1%A3%E7%A2%8E%E7%89%87%23" target="weibo">
 这是邱少云被烧焦的棉衣碎片（热度：137093）
 </a>
@@ -609,12 +633,6 @@ Jennie特别定制款保时捷公开（热度：295002）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%9A%84%E8%A2%AB%E7%AA%9D%E9%87%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E5%8F%AA%E7%8C%AB%E5%91%A2%23" target="weibo">
-谁的被窝里还没有只猫呢（热度：119626）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E6%9E%97%E6%9F%8F%E5%AE%8F%E6%96%B0%E7%89%87%E5%85%88%E5%AF%BC%E9%A2%84%E5%91%8A%23" target="weibo">
 许光汉林柏宏新片先导预告（热度：114958）
 </a>
@@ -627,6 +645,12 @@ Jennie特别定制款保时捷公开（热度：295002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%B6%E9%97%B4%E6%88%91%E7%AB%9F%E5%88%86%E4%B8%8D%E5%87%BA%E8%B0%81%E6%98%AF%E4%B8%BB%E8%A7%92%23" target="weibo">
+一时间我竟分不出谁是主角（热度：107920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E5%8F%91%E5%B0%84%E5%A4%A7%E5%9C%BA%E9%9D%A2%E5%B8%A7%E5%B8%A7%E5%A4%A7%E7%89%87%23" target="weibo">
 东风快递发射大场面帧帧大片（热度：102218）
 </a>
@@ -635,12 +659,6 @@ Jennie特别定制款保时捷公开（热度：295002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8Cxfile%E9%A2%84%E5%91%8A%23" target="weibo">
 gidle新歌xfile预告（热度：101138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AB%98%E7%83%A7%E7%A1%AC%E6%92%912%E5%A4%A9%E6%88%90%E6%9A%B4%E5%8F%91%E6%80%A7%E5%BF%83%E8%82%8C%E7%82%8E%23" target="weibo">
-14岁男孩高烧硬撑2天成暴发性心肌炎（热度：100378）
 </a>
 </li>
 
@@ -671,12 +689,6 @@ gidle新歌xfile预告（热度：101138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%BD%A0%E5%92%8C%E8%88%8D%E5%8F%8B%E8%BF%98%E6%9C%89%E8%81%94%E7%B3%BB%E5%90%97%23" target="weibo">
 毕业后你和舍友还有联系吗（热度：93636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%B6%E9%97%B4%E6%88%91%E7%AB%9F%E5%88%86%E4%B8%8D%E5%87%BA%E8%B0%81%E6%98%AF%E4%B8%BB%E8%A7%92%23" target="weibo">
-一时间我竟分不出谁是主角（热度：93265）
 </a>
 </li>
 
@@ -743,6 +755,12 @@ gidle新歌xfile预告（热度：101138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
 脱口秀大会（热度：69150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%88%B1%E4%B9%B0%E4%B8%91%E4%B8%9C%E8%A5%BF%23" target="weibo">
+年轻人有多爱买丑东西（热度：69082）
 </a>
 </li>
 
