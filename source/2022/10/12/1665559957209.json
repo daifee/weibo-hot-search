@@ -1,0 +1,410 @@
+{
+  "runTime": 1665559957209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1644464,
+        "num": 1644464,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 737669,
+        "num": 737669,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70844,
+        "num": 699712,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 763466,
+        "num": 698739,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 752415,
+        "num": 698688,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 697659,
+        "num": 697659,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601803,
+        "num": 601803,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502662,
+        "num": 502662,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 7,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 497632,
+        "num": 497632,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431696,
+        "num": 431696,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330952,
+        "num": 330952,
+        "word": "爸爸辅导作业怒拍桌子骨折了",
+        "onboard_time": 1665550873,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323905,
+        "num": 323905,
+        "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+        "onboard_time": 1665552085,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305498,
+        "num": 305498,
+        "word": "今年冬季会是冷冬吗",
+        "onboard_time": 1665555863,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297938,
+        "num": 297938,
+        "word": "梁朝伟王一博程耳悬疑蒙太奇",
+        "onboard_time": 1665556642,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 52205,
+        "num": 287449,
+        "word": "5人赶海被困民警淤泥里匍匐救人",
+        "onboard_time": 1665558084,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283230,
+        "num": 283230,
+        "word": "汤唯提名大钟奖最佳女主角",
+        "onboard_time": 1665554784,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268866,
+        "num": 268866,
+        "word": "躺平不可取躺赢不可能",
+        "onboard_time": 1665551306,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 264426,
+        "num": 264426,
+        "word": "研究表明猴子或将很快到地面生活",
+        "onboard_time": 1665557722,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239670,
+        "num": 239670,
+        "word": "白鹿王鹤棣以爱为营班底",
+        "onboard_time": 1665549207,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230978,
+        "num": 230978,
+        "word": "电视剧追光者",
+        "onboard_time": 1665558683,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206763,
+        "num": 206763,
+        "word": "李聂把玲娜贝儿给了张根源",
+        "onboard_time": 1665552923,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204155,
+        "num": 204155,
+        "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+        "onboard_time": 1665557363,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 186589,
+        "word": "谁的被窝里还没有只猫呢",
+        "onboard_time": 1665552205,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178109,
+        "num": 178109,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171459,
+        "num": 171459,
+        "word": "张译王俊凯殷桃万里归途票房破12亿",
+        "onboard_time": 1665553164,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154459,
+        "num": 154459,
+        "word": "GEN进军王者荣耀世冠KIC",
+        "onboard_time": 1665551547,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149664,
+        "num": 149664,
+        "word": "李宇春我怎么能是由你打造的呢",
+        "onboard_time": 1665559763,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "26岁的她开车样子太帅了",
+        "onboard_time": 1665541644,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138167,
+        "num": 138167,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137693,
+        "num": 137693,
+        "word": "保时捷卖中国标准菜刀售价1700元",
+        "onboard_time": 1665542724,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148998,
+        "num": 136144,
+        "word": "刘宪华新歌大漏勺",
+        "onboard_time": 1665559402,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "俞飞鸿说美只有皮囊很快会枯萎",
+        "onboard_time": 1665550707,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "听见我的声音开播",
+        "onboard_time": 1665557483,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126809,
+        "num": 126809,
+        "word": "分手了会删朋友圈吗",
+        "onboard_time": 1665533609,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 123214,
+        "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+        "onboard_time": 1665546567,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120368,
+        "num": 120368,
+        "word": "欧阳娜娜又双叒叕入股了新cp",
+        "onboard_time": 1665555684,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115346,
+        "num": 115346,
+        "word": "你好二十大",
+        "onboard_time": 1665548666,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102075,
+        "num": 102075,
+        "word": "新娘被接走妈妈独自躲厨房流泪",
+        "onboard_time": 1665545426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92144,
+        "num": 92144,
+        "word": "日本固体燃料火箭埃普西隆发射失败",
+        "onboard_time": 1665547282,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87505,
+        "num": 87505,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104494,
+        "num": 86061,
+        "word": "花噎菜",
+        "onboard_time": 1665545004,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95415,
+        "num": 85846,
+        "word": "aespa出镜nylon十月刊",
+        "onboard_time": 1665548246,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84065,
+        "num": 84065,
+        "word": "17岁少年长期熬夜打游戏多病齐发",
+        "onboard_time": 1665538825,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82644,
+        "num": 82644,
+        "word": "春熙路到底有多少只熊猫",
+        "onboard_time": 1665546806,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 82580,
+        "num": 82580,
+        "word": "中国人民公安大学74周年校庆",
+        "onboard_time": 1665547525,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 82372,
+        "num": 82372,
+        "word": "狗狗丢失月余跑回主人抱狗大哭",
+        "onboard_time": 1665544464,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80572,
+        "num": 80572,
+        "word": "一时间我竟分不出谁是主角",
+        "onboard_time": 1665549868,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75828,
+        "num": 75828,
+        "word": "湖南120米深洞底发现大熊猫化石",
+        "onboard_time": 1665542604,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75636,
+        "num": 75636,
+        "word": "今天本来是我的快乐周五",
+        "onboard_time": 1665546626,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64594,
+        "num": 64594,
+        "word": "淘宝上线老年人专属人工客服",
+        "onboard_time": 1665549989,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}
