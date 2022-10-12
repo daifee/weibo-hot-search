@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665599781585,
+  "endTime": 1665600997357,
   "band_list": [
     {
       "raw_hot": 727659,
@@ -419,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21645,
+      "num": 21645,
+      "word": "北京首批毕业生公寓全装修新房月租2000元起",
+      "onboard_time": 1665600013,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16113,
       "num": 16113,
       "word": "六公主评陈哲远沈月我的反派男友",
       "onboard_time": 1665568344,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9458,
+      "num": 9458,
+      "word": "男子胸口的蓝牙耳机突然喷火",
+      "onboard_time": 1665600732,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
