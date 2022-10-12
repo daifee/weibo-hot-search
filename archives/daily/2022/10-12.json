@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665573847072,
+  "endTime": 1665574930781,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1378483,
-      "num": 1378483,
+      "raw_hot": 1423686,
+      "num": 1423686,
       "word": "伴娘拿麻将六万随礼看懵记账大爷",
       "onboard_time": 1665569607,
       "rank": 24,
@@ -65,6 +65,14 @@
       "onboard_time": 1665533246,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1213588,
+      "num": 272020,
+      "word": "李宇春强直性脊柱炎",
+      "onboard_time": 1665572245,
+      "rank": 10,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 1164939,
@@ -137,14 +145,6 @@
       "onboard_time": 1665564383,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 850510,
-      "num": 272020,
-      "word": "李宇春强直性脊柱炎",
-      "onboard_time": 1665572245,
-      "rank": 10,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 819086,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555513,
+      "num": 555513,
+      "word": "医生悄悄垫付手术费12年后患者归还",
+      "onboard_time": 1665570086,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 548877,
       "num": 548877,
       "word": "10月11日新增本土确诊374例",
@@ -483,19 +491,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 381466,
-      "num": 381466,
-      "word": "医生悄悄垫付手术费12年后患者归还",
-      "onboard_time": 1665570086,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
       "onboard_time": 1665538166,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378943,
+      "num": 378943,
+      "word": "哥哥辅导妹妹作业双双崩溃到哭",
+      "onboard_time": 1665569126,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -571,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347108,
-      "num": 347108,
-      "word": "哥哥辅导妹妹作业双双崩溃到哭",
-      "onboard_time": 1665569126,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 343304,
+      "num": 240561,
+      "word": "什么家庭经得住这么拆家啊",
+      "onboard_time": 1665571345,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 341736,
@@ -593,6 +601,14 @@
       "onboard_time": 1665560063,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338179,
+      "num": 338179,
+      "word": "唐朝诡事录",
+      "onboard_time": 1665572364,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 328223,
@@ -641,14 +657,6 @@
       "onboard_time": 1665494364,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 306986,
-      "num": 240561,
-      "word": "什么家庭经得住这么拆家啊",
-      "onboard_time": 1665571345,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 306187,
@@ -859,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238755,
-      "num": 238755,
-      "word": "唐朝诡事录",
-      "onboard_time": 1665572364,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233809,
       "num": 233809,
       "word": "男子烤紫薯拿出后紫薯爆炸了",
@@ -889,6 +889,22 @@
       "onboard_time": 1665568225,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221986,
+      "num": 221986,
+      "word": "俄媒称俄对欧输油管道发现泄漏点",
+      "onboard_time": 1665573385,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 218689,
+      "num": 205909,
+      "word": "三天肩膀就练薄了",
+      "onboard_time": 1665574465,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 216577,
@@ -1083,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166895,
+      "num": 166895,
+      "word": "杭州真的很适合减肥",
+      "onboard_time": 1665574284,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162375,
       "num": 162375,
       "word": "刘洋用2米长吸管喝果汁",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 155682,
-      "num": 124547,
+      "num": 134345,
       "word": "Straykids新歌获初一位",
       "onboard_time": 1665572664,
       "rank": 30,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 149486,
-      "num": 121881,
+      "num": 131974,
       "word": "成毅收官长文三段式",
       "onboard_time": 1665572486,
       "rank": 32,
@@ -1227,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142826,
+      "num": 142826,
+      "word": "原来学会做饭这么简单",
+      "onboard_time": 1665572364,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "原来小鸭也是要哄的",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1665544285,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129294,
+      "num": 129294,
+      "word": "李斌称蔚来2030年要跻身世界前五",
+      "onboard_time": 1665574704,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 127129,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1665569187,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119711,
-      "num": 119711,
-      "word": "原来学会做饭这么简单",
-      "onboard_time": 1665572364,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 114958,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1665562044,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 100422,
+      "num": 100422,
+      "word": "我要运动跟我要早睡一样难",
+      "onboard_time": 1665572066,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100148,
@@ -1409,14 +1449,6 @@
       "onboard_time": 1665568705,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 90320,
-      "num": 90320,
-      "word": "我要运动跟我要早睡一样难",
-      "onboard_time": 1665572066,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89637,
@@ -1489,14 +1521,6 @@
       "onboard_time": 1665521530,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72895,
-      "num": 72895,
-      "word": "俄媒称俄对欧输油管道发现泄漏点",
-      "onboard_time": 1665573385,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 72784,
