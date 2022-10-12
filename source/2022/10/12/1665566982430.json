@@ -1,0 +1,410 @@
+{
+  "runTime": 1665566982430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168440,
+        "num": 1168440,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926632,
+        "num": 926632,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 75649,
+        "num": 839898,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 805406,
+        "num": 805406,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641693,
+        "num": 641693,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493750,
+        "num": 493750,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478899,
+        "num": 478899,
+        "word": "一起来看甄嬛雨",
+        "onboard_time": 1665563904,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464775,
+        "num": 464775,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464299,
+        "num": 464299,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443744,
+        "num": 443744,
+        "word": "潘粤明说还有四季四搭",
+        "onboard_time": 1665560724,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 893592,
+        "num": 411759,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352258,
+        "num": 352258,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344867,
+        "num": 344867,
+        "word": "王一博叶秘手上沾血",
+        "onboard_time": 1665562404,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339425,
+        "num": 339425,
+        "word": "研究表明猴子或将很快到地面生活",
+        "onboard_time": 1665557722,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 31908,
+        "num": 317092,
+        "word": "老人遗失10万救命钱路人拾金不昧",
+        "onboard_time": 1665565944,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310611,
+        "num": 310611,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310123,
+        "num": 310123,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308011,
+        "num": 308011,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263674,
+        "num": 263674,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263419,
+        "num": 263419,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251877,
+        "num": 251877,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 697254,
+        "num": 249262,
+        "word": "李国庆建议四成大学生毕业后歇一年",
+        "onboard_time": 1665560182,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239298,
+        "num": 239298,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233440,
+        "num": 233440,
+        "word": "腾讯地图PC端将停服",
+        "onboard_time": 1665561804,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215974,
+        "num": 215974,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 24,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 180212,
+        "num": 180212,
+        "word": "电视剧追光者",
+        "onboard_time": 1665558683,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175476,
+        "num": 175476,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174574,
+        "num": 174574,
+        "word": "差点忘了梁朝伟也是个歌手",
+        "onboard_time": 1665565944,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 172817,
+        "num": 172817,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169885,
+        "num": 169885,
+        "word": "这小肚腩怕是留不住了",
+        "onboard_time": 1665563724,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166322,
+        "num": 166322,
+        "word": "周迅无名造型曝光",
+        "onboard_time": 1665562104,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164148,
+        "num": 164148,
+        "word": "二十大最新消息",
+        "onboard_time": 1665566304,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162218,
+        "num": 162218,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151521,
+        "num": 151521,
+        "word": "飞机拜拜员实际叫机务",
+        "onboard_time": 1665560063,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+        "onboard_time": 1665552085,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 137279,
+        "word": "李宇春我怎么能是由你打造的呢",
+        "onboard_time": 1665559763,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134860,
+        "num": 134860,
+        "word": "今年冬季会是冷冬吗",
+        "onboard_time": 1665555863,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128189,
+        "num": 128189,
+        "word": "白鹿王鹤棣以爱为营班底",
+        "onboard_time": 1665549207,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121975,
+        "num": 121975,
+        "word": "刘洋用2米长吸管喝果汁",
+        "onboard_time": 1665565464,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119620,
+        "num": 119620,
+        "word": "原来小鸭也是要哄的",
+        "onboard_time": 1665565166,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117928,
+        "num": 117928,
+        "word": "爸爸辅导作业怒拍桌子骨折了",
+        "onboard_time": 1665550873,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114602,
+        "num": 114602,
+        "word": "唐朝诡事录今晚大结局",
+        "onboard_time": 1665565283,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102094,
+        "num": 102094,
+        "word": "汤唯提名大钟奖最佳女主角",
+        "onboard_time": 1665554784,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97056,
+        "num": 97056,
+        "word": "老师退休前最后一课教学生写人字",
+        "onboard_time": 1665562044,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92884,
+        "num": 92884,
+        "word": "金晨王安宇新浪扫楼",
+        "onboard_time": 1665560422,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91579,
+        "num": 91579,
+        "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+        "onboard_time": 1665557363,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90460,
+        "num": 90460,
+        "word": "GEN进军王者荣耀世冠KIC",
+        "onboard_time": 1665551547,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86879,
+        "num": 86879,
+        "word": "躺平不可取躺赢不可能",
+        "onboard_time": 1665551306,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82122,
+        "num": 82122,
+        "word": "一张画证明人不会被AI取代",
+        "onboard_time": 1665566725,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81308,
+        "num": 81308,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}
