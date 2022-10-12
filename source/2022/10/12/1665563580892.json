@@ -1,0 +1,410 @@
+{
+  "runTime": 1665563580892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253905,
+        "num": 1253905,
+        "word": "李国庆建议四成大学生毕业后歇一年",
+        "onboard_time": 1665560182,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189664,
+        "num": 1189664,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 78039,
+        "num": 715672,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 671115,
+        "num": 671115,
+        "word": "电视剧追光者",
+        "onboard_time": 1665558683,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662982,
+        "num": 662982,
+        "word": "研究表明猴子或将很快到地面生活",
+        "onboard_time": 1665557722,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 549623,
+        "num": 549623,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519693,
+        "num": 519693,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 498599,
+        "num": 498599,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488426,
+        "num": 488426,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459542,
+        "num": 459542,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465357,
+        "num": 446420,
+        "word": "王一博叶秘手上沾血",
+        "onboard_time": 1665562404,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 405328,
+        "num": 405328,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379446,
+        "num": 379446,
+        "word": "潘粤明说还有四季四搭",
+        "onboard_time": 1665560724,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341736,
+        "num": 341736,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1993,
+        "num": 336609,
+        "word": "微博成为中超社媒平台",
+        "onboard_time": 1665561624,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336245,
+        "num": 336245,
+        "word": "飞机拜拜员实际叫机务",
+        "onboard_time": 1665560063,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321078,
+        "num": 321078,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 16,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 304808,
+        "num": 304808,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298203,
+        "num": 298203,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247989,
+        "num": 247989,
+        "word": "今年冬季会是冷冬吗",
+        "onboard_time": 1665555863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223219,
+        "num": 223219,
+        "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+        "onboard_time": 1665552085,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210376,
+        "num": 210376,
+        "word": "腾讯地图PC端将停服",
+        "onboard_time": 1665561804,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197090,
+        "num": 197090,
+        "word": "李宇春我怎么能是由你打造的呢",
+        "onboard_time": 1665559763,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190301,
+        "num": 190301,
+        "word": "周迅无名造型曝光",
+        "onboard_time": 1665562104,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183511,
+        "num": 183511,
+        "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+        "onboard_time": 1665557363,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179407,
+        "num": 179407,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178860,
+        "num": 178860,
+        "word": "爸爸辅导作业怒拍桌子骨折了",
+        "onboard_time": 1665550873,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178311,
+        "num": 178311,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175984,
+        "num": 175984,
+        "word": "白鹿王鹤棣以爱为营班底",
+        "onboard_time": 1665549207,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161049,
+        "num": 161049,
+        "word": "躺平不可取躺赢不可能",
+        "onboard_time": 1665551306,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148085,
+        "num": 148085,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146010,
+        "num": 146010,
+        "word": "欧阳娜娜又双叒叕入股了新cp",
+        "onboard_time": 1665555684,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143783,
+        "num": 143783,
+        "word": "汤唯提名大钟奖最佳女主角",
+        "onboard_time": 1665554784,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138918,
+        "num": 138918,
+        "word": "李聂把玲娜贝儿给了张根源",
+        "onboard_time": 1665552923,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "金晨王安宇新浪扫楼",
+        "onboard_time": 1665560422,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124784,
+        "num": 124784,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121028,
+        "num": 121028,
+        "word": "GEN进军王者荣耀世冠KIC",
+        "onboard_time": 1665551547,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119328,
+        "num": 119328,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107158,
+        "num": 107158,
+        "word": "谁的被窝里还没有只猫呢",
+        "onboard_time": 1665552205,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99102,
+        "num": 99102,
+        "word": "保时捷卖中国标准菜刀售价1700元",
+        "onboard_time": 1665542724,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92678,
+        "num": 92678,
+        "word": "分手了会删朋友圈吗",
+        "onboard_time": 1665533609,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91955,
+        "num": 91955,
+        "word": "张译王俊凯殷桃万里归途票房破12亿",
+        "onboard_time": 1665553164,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90823,
+        "num": 90823,
+        "word": "你好二十大",
+        "onboard_time": 1665548666,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90022,
+        "num": 90022,
+        "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+        "onboard_time": 1665546567,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89966,
+        "num": 89966,
+        "word": "26岁的她开车样子太帅了",
+        "onboard_time": 1665541644,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89229,
+        "num": 89229,
+        "word": "俞飞鸿说美只有皮囊很快会枯萎",
+        "onboard_time": 1665550707,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83257,
+        "num": 83257,
+        "word": "老师退休前最后一课教学生写人字",
+        "onboard_time": 1665562044,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 81970,
+        "num": 81970,
+        "word": "中国人民公安大学74周年校庆",
+        "onboard_time": 1665547525,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 58453,
+        "num": 58453,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49783,
+        "num": 49783,
+        "word": "新娘被接走妈妈独自躲厨房流泪",
+        "onboard_time": 1665545426,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}
