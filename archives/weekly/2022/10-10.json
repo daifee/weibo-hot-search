@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665609866390,
+  "endTime": 1665610973822,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -5563,6 +5563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38940,
+      "num": 28838,
+      "word": "父亲10年为女儿QQ点赞3.7万次",
+      "onboard_time": 1665601991,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38226,
+      "num": 38226,
+      "word": "我国将建立世界最大国家公园体系",
+      "onboard_time": 1665608530,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36811,
       "num": 300535,
       "word": "神奇的太空微重力环境",
@@ -5577,14 +5593,6 @@
       "onboard_time": 1665417623,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35420,
-      "num": 26951,
-      "word": "父亲10年为女儿QQ点赞3.7万次",
-      "onboard_time": 1665601991,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35077,
@@ -5643,8 +5651,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20952,
-      "num": 20952,
+      "raw_hot": 23807,
+      "num": 23807,
       "word": "13岁哥哥教6岁弟弟拼音被气哭",
       "onboard_time": 1665604091,
       "rank": 28,
@@ -5683,12 +5691,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16183,
-      "num": 16183,
-      "word": "我国将建立世界最大国家公园体系",
-      "onboard_time": 1665608530,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 16839,
+      "num": 16839,
+      "word": "战损美学天花板",
+      "onboard_time": 1665609371,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 15865,
@@ -5739,6 +5747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11894,
+      "num": 11894,
+      "word": "醉酒驾驶非机动车也属违法行为",
+      "onboard_time": 1665604510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -5747,36 +5763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10240,
-      "num": 10240,
-      "word": "李彩演今天solo出道",
-      "onboard_time": 1665604450,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 10201,
-      "num": 10201,
+      "raw_hot": 11370,
+      "num": 11370,
       "word": "TI11名单确认",
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
     },
     {
-      "raw_hot": 10170,
-      "num": 10170,
-      "word": "战损美学天花板",
-      "onboard_time": 1665609371,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 10093,
-      "num": 10093,
-      "word": "醉酒驾驶非机动车也属违法行为",
-      "onboard_time": 1665604510,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 10240,
+      "num": 10240,
+      "word": "李彩演今天solo出道",
+      "onboard_time": 1665604450,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 9679,
@@ -5827,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7063,
+      "num": 7063,
+      "word": "这就是皮衣刺客吧",
+      "onboard_time": 1665610691,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 7009,
       "num": 8086,
       "word": "男孩坠井大喊不想离开这个世界",
@@ -5841,6 +5849,14 @@
       "onboard_time": 1665602830,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 6646,
+      "num": 6646,
+      "word": "男子将妈妈38年前做的布鞋当挂件",
+      "onboard_time": 1665609971,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6579,
