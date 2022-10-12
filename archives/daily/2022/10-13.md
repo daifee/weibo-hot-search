@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/13 00:47:30 ~ 2022/10/13 03:42:20
+本榜单时间：2022/10/13 00:47:30 ~ 2022/10/13 04:29:41
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
+父亲10年为女儿QQ点赞3.7万次（热度：33987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%B8%E5%8F%A3%E7%9A%84%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E7%AA%81%E7%84%B6%E5%96%B7%E7%81%AB%23" target="weibo">
 男子胸口的蓝牙耳机突然喷火（热度：30942）
 </a>
@@ -345,14 +351,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
-父亲10年为女儿QQ点赞3.7万次（热度：12374）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
+男子戴网购耳机起火如同放烟花（热度：14681）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
-男子戴网购耳机起火如同放烟花（热度：8730）
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E6%95%996%E5%B2%81%E5%BC%9F%E5%BC%9F%E6%8B%BC%E9%9F%B3%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
+13岁哥哥教6岁弟弟拼音被气哭（热度：13756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%BC%94%E4%BB%8A%E5%A4%A9solo%E5%87%BA%E9%81%93%23" target="weibo">
+李彩演今天solo出道（热度：7642）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E9%A9%BE%E9%A9%B6%E9%9D%9E%E6%9C%BA%E5%8A%A8%E8%BD%A6%E4%B9%9F%E5%B1%9E%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%23" target="weibo">
+醉酒驾驶非机动车也属违法行为（热度：7364）
 </a>
 </li>
 

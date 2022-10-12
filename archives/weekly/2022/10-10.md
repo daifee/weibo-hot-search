@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 03:42:20
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 04:29:41
 </p>
 </blockquote>
 <p>
@@ -4203,6 +4203,12 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
+父亲10年为女儿QQ点赞3.7万次（热度：33987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E4%B8%80%E5%90%8C%E5%85%A5%E4%BC%8D%E6%88%90%E6%B5%B7%E5%86%9B%E6%96%B0%E5%85%B5%23" target="weibo">
 山东双胞胎姐妹一同入伍成海军新兵（热度：32170）
 </a>
@@ -4269,6 +4275,12 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
+男子戴网购耳机起火如同放烟花（热度：14681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%A9%E8%99%B9%E6%8C%82%E5%9C%A8%E4%BA%86%E5%B3%A1%E8%B0%B7%E7%80%91%E5%B8%83%E4%B8%8A%23" target="weibo">
 彩虹挂在了峡谷瀑布上（热度：14202）
 </a>
@@ -4287,14 +4299,14 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%80%81%E9%BC%A0%E7%BB%99%E5%AE%83%E6%89%93%E4%BA%86%23" target="weibo">
-别让老鼠给它打了（热度：13080）
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E6%95%996%E5%B2%81%E5%BC%9F%E5%BC%9F%E6%8B%BC%E9%9F%B3%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
+13岁哥哥教6岁弟弟拼音被气哭（热度：13756）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
-父亲10年为女儿QQ点赞3.7万次（热度：12374）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%80%81%E9%BC%A0%E7%BB%99%E5%AE%83%E6%89%93%E4%BA%86%23" target="weibo">
+别让老鼠给它打了（热度：13080）
 </a>
 </li>
 
@@ -4317,12 +4329,6 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
-男子戴网购耳机起火如同放烟花（热度：8730）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AEvs%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%23" target="weibo">
 北京男篮vs福建男篮（热度：7947）
 </a>
@@ -4335,8 +4341,20 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%BC%94%E4%BB%8A%E5%A4%A9solo%E5%87%BA%E9%81%93%23" target="weibo">
+李彩演今天solo出道（热度：7642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E4%B8%8B%E6%9D%A5%E5%B0%B1%E6%83%B3%E8%B5%B7%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
 闲下来就想起社死瞬间是有原因的（热度：7453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E9%A9%BE%E9%A9%B6%E9%9D%9E%E6%9C%BA%E5%8A%A8%E8%BD%A6%E4%B9%9F%E5%B1%9E%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%23" target="weibo">
+醉酒驾驶非机动车也属违法行为（热度：7364）
 </a>
 </li>
 

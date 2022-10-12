@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665603740316,
+  "endTime": 1665606581213,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -5587,6 +5587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33987,
+      "num": 22120,
+      "word": "父亲10年为女儿QQ点赞3.7万次",
+      "onboard_time": 1665601991,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32170,
       "num": 248415,
       "word": "山东双胞胎姐妹一同入伍成海军新兵",
@@ -5675,6 +5683,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 14681,
+      "num": 14681,
+      "word": "男子戴网购耳机起火如同放烟花",
+      "onboard_time": 1665602530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14202,
       "num": 14202,
       "word": "彩虹挂在了峡谷瀑布上",
@@ -5699,20 +5715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13756,
+      "num": 13756,
+      "word": "13岁哥哥教6岁弟弟拼音被气哭",
+      "onboard_time": 1665604091,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13080,
       "num": 13080,
       "word": "别让老鼠给它打了",
       "onboard_time": 1665428771,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12374,
-      "num": 12374,
-      "word": "父亲10年为女儿QQ点赞3.7万次",
-      "onboard_time": 1665601991,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11443,
@@ -5739,14 +5755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8730,
-      "num": 8730,
-      "word": "男子戴网购耳机起火如同放烟花",
-      "onboard_time": 1665602530,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7947,
       "num": 10006,
       "word": "北京男篮vs福建男篮",
@@ -5763,11 +5771,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7642,
+      "num": 7642,
+      "word": "李彩演今天solo出道",
+      "onboard_time": 1665604450,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 7453,
       "num": 7453,
       "word": "闲下来就想起社死瞬间是有原因的",
       "onboard_time": 1665342912,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7364,
+      "num": 7364,
+      "word": "醉酒驾驶非机动车也属违法行为",
+      "onboard_time": 1665604510,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
