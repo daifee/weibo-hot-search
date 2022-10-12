@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665606581213,
+  "endTime": 1665607578887,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -20307,8 +20307,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33987,
-      "num": 22120,
+      "raw_hot": 34490,
+      "num": 22483,
       "word": "父亲10年为女儿QQ点赞3.7万次",
       "onboard_time": 1665601991,
       "rank": 47,
@@ -20499,6 +20499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16415,
+      "num": 16415,
+      "word": "男子戴网购耳机起火如同放烟花",
+      "onboard_time": 1665602530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15865,
       "num": 15865,
       "word": "九图速览19次党代会极简史",
@@ -20521,14 +20529,6 @@
       "onboard_time": 1665091151,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14681,
-      "num": 14681,
-      "word": "男子戴网购耳机起火如同放烟花",
-      "onboard_time": 1665602530,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14202,
@@ -20635,6 +20635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10240,
+      "num": 10240,
+      "word": "李彩演今天solo出道",
+      "onboard_time": 1665604450,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 10158,
       "num": 292684,
       "word": "百岁老兵雷用香的传奇人生",
@@ -20683,6 +20691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8330,
+      "num": 8330,
+      "word": "醉酒驾驶非机动车也属违法行为",
+      "onboard_time": 1665604510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8324,
       "num": 8324,
       "word": "梅西小腿不适接受治疗",
@@ -20715,14 +20731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7642,
-      "num": 7642,
-      "word": "李彩演今天solo出道",
-      "onboard_time": 1665604450,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 7453,
       "num": 7453,
       "word": "闲下来就想起社死瞬间是有原因的",
@@ -20737,14 +20745,6 @@
       "onboard_time": 1664912351,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 7364,
-      "num": 7364,
-      "word": "醉酒驾驶非机动车也属违法行为",
-      "onboard_time": 1665604510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7315,
@@ -20787,6 +20787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 7019,
+      "num": 7019,
+      "word": "TI11名单确认",
+      "onboard_time": 1665607510,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7009,
       "num": 8086,
       "word": "男孩坠井大喊不想离开这个世界",
@@ -20817,6 +20825,14 @@
       "onboard_time": 1665173049,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6579,
+      "num": 6579,
+      "word": "林书豪广州男篮首秀",
+      "onboard_time": 1665607390,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 6570,

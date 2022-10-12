@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665606581213,
+  "endTime": 1665607578887,
   "band_list": [
     {
       "raw_hot": 727659,
@@ -419,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33987,
-      "num": 22120,
+      "raw_hot": 34490,
+      "num": 22483,
       "word": "父亲10年为女儿QQ点赞3.7万次",
       "onboard_time": 1665601991,
       "rank": 47,
@@ -443,20 +443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16415,
+      "num": 16415,
+      "word": "男子戴网购耳机起火如同放烟花",
+      "onboard_time": 1665602530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16113,
       "num": 16113,
       "word": "六公主评陈哲远沈月我的反派男友",
       "onboard_time": 1665568344,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14681,
-      "num": 14681,
-      "word": "男子戴网购耳机起火如同放烟花",
-      "onboard_time": 1665602530,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13756,
@@ -467,20 +467,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7642,
-      "num": 7642,
+      "raw_hot": 10240,
+      "num": 10240,
       "word": "李彩演今天solo出道",
       "onboard_time": 1665604450,
       "rank": 46,
       "category": "音乐"
     },
     {
-      "raw_hot": 7364,
-      "num": 7364,
+      "raw_hot": 8330,
+      "num": 8330,
       "word": "醉酒驾驶非机动车也属违法行为",
       "onboard_time": 1665604510,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7019,
+      "num": 7019,
+      "word": "TI11名单确认",
+      "onboard_time": 1665607510,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 6792,
@@ -489,6 +497,14 @@
       "onboard_time": 1665602830,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 6579,
+      "num": 6579,
+      "word": "林书豪广州男篮首秀",
+      "onboard_time": 1665607390,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 6440,
