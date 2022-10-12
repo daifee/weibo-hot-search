@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665600997357,
+  "endTime": 1665602840452,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -5515,6 +5515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44049,
+      "num": 21645,
+      "word": "北京首批毕业生公寓全装修新房月租2000元起",
+      "onboard_time": 1665600013,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42632,
       "num": 42632,
       "word": "日产汽车1欧元出售在俄业务",
@@ -5603,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27496,
+      "num": 17086,
+      "word": "男子胸口的蓝牙耳机突然喷火",
+      "onboard_time": 1665600732,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24728,
       "num": 24728,
       "word": "唐朝诡事录公主摆鸿门宴",
@@ -5617,14 +5633,6 @@
       "onboard_time": 1665593357,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21645,
-      "num": 21645,
-      "word": "北京首批毕业生公寓全装修新房月租2000元起",
-      "onboard_time": 1665600013,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17793,
@@ -5715,19 +5723,27 @@
       "category": "美食"
     },
     {
-      "raw_hot": 9458,
-      "num": 9458,
-      "word": "男子胸口的蓝牙耳机突然喷火",
-      "onboard_time": 1665600732,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9037,
       "num": 9037,
       "word": "什么样的疼痛需要去医院",
       "onboard_time": 1665511932,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8003,
+      "num": 8003,
+      "word": "男子戴网购耳机起火如同放烟花",
+      "onboard_time": 1665602530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7971,
+      "num": 7971,
+      "word": "父亲10年为女儿QQ点赞3.7万次",
+      "onboard_time": 1665601991,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5769,6 +5785,14 @@
       "onboard_time": 1665343991,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6792,
+      "num": 7622,
+      "word": "漫画照进现实的心动",
+      "onboard_time": 1665602830,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6570,

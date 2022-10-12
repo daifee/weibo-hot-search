@@ -1,0 +1,410 @@
+{
+  "runTime": 1665602840452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 99156,
+        "num": 99156,
+        "word": "月子中心在鸡汤里加党参被罚",
+        "onboard_time": 1665587845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72274,
+        "num": 72274,
+        "word": "我睡着了连我自己都害怕",
+        "onboard_time": 1665591143,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4790,
+        "num": 62296,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53972,
+        "num": 53972,
+        "word": "南京大学首次跻身世界大学排名百强",
+        "onboard_time": 1665593177,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 50351,
+        "num": 50351,
+        "word": "三天肩膀就练薄了",
+        "onboard_time": 1665574465,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46473,
+        "num": 46473,
+        "word": "12岁女孩看自己5岁视频一脸惊讶",
+        "onboard_time": 1665587304,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33996,
+        "num": 33996,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33421,
+        "num": 33421,
+        "word": "23岁猫咪被众人围观一脸淡定",
+        "onboard_time": 1665587785,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31904,
+        "num": 31904,
+        "word": "原来鼻炎也是要忌口的",
+        "onboard_time": 1665582926,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 29723,
+        "word": "男生经常夸容貌焦虑女友你好漂亮",
+        "onboard_time": 1665590840,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59987,
+        "num": 29053,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47465,
+        "num": 28945,
+        "word": "李宇春强直性脊柱炎",
+        "onboard_time": 1665572245,
+        "rank": 11,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 28156,
+        "num": 28156,
+        "word": "虞书欣发长文告别虞美人",
+        "onboard_time": 1665582745,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27238,
+        "num": 27238,
+        "word": "日产汽车1欧元出售在俄业务",
+        "onboard_time": 1665596774,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26217,
+        "num": 26217,
+        "word": "杭州真的很适合减肥",
+        "onboard_time": 1665574284,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38652,
+        "num": 26060,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24338,
+        "num": 24338,
+        "word": "女子网购运动鞋穿一周拆出剪刀",
+        "onboard_time": 1665580223,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22358,
+        "num": 22358,
+        "word": "带着情绪过夜的人在想什么",
+        "onboard_time": 1665584487,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17541,
+        "num": 17541,
+        "word": "脱口秀大会",
+        "onboard_time": 1665585327,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17115,
+        "num": 17115,
+        "word": "原来泡面和番茄这么配",
+        "onboard_time": 1665583645,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44049,
+        "num": 17110,
+        "word": "北京首批毕业生公寓全装修新房月租2000元起",
+        "onboard_time": 1665600013,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27496,
+        "num": 17086,
+        "word": "男子胸口的蓝牙耳机突然喷火",
+        "onboard_time": 1665600732,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17043,
+        "num": 17043,
+        "word": "男子酒后骑自行车被认定酒驾",
+        "onboard_time": 1665576265,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16525,
+        "num": 16525,
+        "word": "俄媒称俄对欧输油管道发现泄漏点",
+        "onboard_time": 1665573385,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 16198,
+        "num": 16198,
+        "word": "庄羽把虞美人写进论文里",
+        "onboard_time": 1665585807,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15418,
+        "num": 15418,
+        "word": "医生悄悄垫付手术费12年后患者归还",
+        "onboard_time": 1665570086,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 15218,
+        "num": 15218,
+        "word": "伴娘拿麻将六万随礼看懵记账大爷",
+        "onboard_time": 1665569607,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14085,
+        "num": 14085,
+        "word": "你最近一次大哭是为什么",
+        "onboard_time": 1665575183,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13996,
+        "num": 13996,
+        "word": "进返京人员返京后居家健康监测三天",
+        "onboard_time": 1665579387,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13692,
+        "num": 13692,
+        "word": "当世界上有两个我",
+        "onboard_time": 1665587726,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13471,
+        "num": 13471,
+        "word": "张杰像真的一样发行一周年",
+        "onboard_time": 1665585208,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12772,
+        "num": 12772,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12256,
+        "num": 12256,
+        "word": "六公主评陈哲远沈月我的反派男友",
+        "onboard_time": 1665568344,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12182,
+        "num": 12182,
+        "word": "豆豆吐槽大学教务网",
+        "onboard_time": 1665584487,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11950,
+        "num": 11950,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11906,
+        "num": 11906,
+        "word": "95岁老人分别60年后重逢登记结婚",
+        "onboard_time": 1665568225,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11871,
+        "num": 11871,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11243,
+        "num": 11243,
+        "word": "两个人的小森林大结局你满意吗",
+        "onboard_time": 1665580948,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11039,
+        "num": 11039,
+        "word": "什么家庭经得住这么拆家啊",
+        "onboard_time": 1665571345,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9622,
+        "num": 9622,
+        "word": "王鹤棣霸总适配度",
+        "onboard_time": 1665567444,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9134,
+        "num": 9134,
+        "word": "宝可梦朱紫",
+        "onboard_time": 1665589463,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9108,
+        "num": 9108,
+        "word": "李斌称蔚来2030年要跻身世界前五",
+        "onboard_time": 1665574704,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 8719,
+        "num": 8719,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8572,
+        "num": 8572,
+        "word": "原来学会做饭这么简单",
+        "onboard_time": 1665572364,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 8323,
+        "num": 8323,
+        "word": "毛豆好笑",
+        "onboard_time": 1665580885,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8125,
+        "num": 8125,
+        "word": "哥哥辅导妹妹作业双双崩溃到哭",
+        "onboard_time": 1665569126,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8003,
+        "num": 8003,
+        "word": "男子戴网购耳机起火如同放烟花",
+        "onboard_time": 1665602530,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7971,
+        "num": 7971,
+        "word": "父亲10年为女儿QQ点赞3.7万次",
+        "onboard_time": 1665601991,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7627,
+        "num": 7627,
+        "word": "中国U17女足世界杯开门红",
+        "onboard_time": 1665581005,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6792,
+        "num": 7622,
+        "word": "漫画照进现实的心动",
+        "onboard_time": 1665602830,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}
