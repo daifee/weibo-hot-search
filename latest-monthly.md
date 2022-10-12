@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 06:45:33
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 07:30:21
 </p>
 </blockquote>
 <p>
@@ -1007,6 +1007,12 @@ T1战胜EDG（热度：1259172）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%A0%E6%80%9D%E5%BF%B5%E5%A5%B3%E5%84%BF%E9%A9%B1%E8%BD%A6300%E5%85%AC%E9%87%8C%E9%80%81%E5%AE%B5%E5%A4%9C%23" target="weibo">
 父亲因思念女儿驱车300公里送宵夜（热度：1177565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%9C%A8%E9%B8%A1%E6%B1%A4%E9%87%8C%E5%8A%A0%E5%85%9A%E5%8F%82%E8%A2%AB%E7%BD%9A%23" target="weibo">
+月子中心在鸡汤里加党参被罚（热度：1176829）
 </a>
 </li>
 
@@ -2295,12 +2301,6 @@ iPhone15系列仍将采用高通基带（热度：769323）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%9C%A8%E9%B8%A1%E6%B1%A4%E9%87%8C%E5%8A%A0%E5%85%9A%E5%8F%82%E8%A2%AB%E7%BD%9A%23" target="weibo">
-月子中心在鸡汤里加党参被罚（热度：696788）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%97%A0%E6%95%8C%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 萧无敌消失了（热度：696681）
 </a>
@@ -3351,6 +3351,12 @@ TMA（热度：540431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
+我睡着了连我自己都害怕（热度：527932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B5%9E%E5%A4%9A%E5%B0%8F%E9%AC%BC%E8%A1%97%E8%88%9E5%E5%AE%98%E5%AE%A3%23" target="weibo">
 程潇赞多小鬼街舞5官宣（热度：525503）
 </a>
@@ -4389,6 +4395,12 @@ aespaSavage发行一周年（热度：437595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
+父亲10年为女儿QQ点赞3.7万次（热度：428724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E6%AF%9B%E4%B8%8D%E6%98%93%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23" target="weibo">
 孟子义把毛不易李雪琴整不会了（热度：428519）
 </a>
@@ -4835,6 +4847,12 @@ MAMAMOO新歌ILLELLA（热度：398923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E9%9B%AA%E8%8E%89%E6%9D%A8%23" target="weibo">
 张雨绮说这个家不能没有雪莉杨（热度：397032）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%BB%BA%E7%AB%8B%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%BD%93%E7%B3%BB%23" target="weibo">
+我国将建立世界最大国家公园体系（热度：396966）
 </a>
 </li>
 
@@ -5327,6 +5345,12 @@ RNG入围赛淘汰赛对阵DFM（热度：373120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E4%BA%8B%E4%BB%B6%E7%94%B1%E7%82%B8%E8%8D%AF%E7%88%86%E7%82%B8%E5%BC%95%E8%B5%B7%23" target="weibo">
 北溪管道泄漏事件由炸药爆炸引起（热度：366752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9C%8B%E8%87%AA%E5%B7%B15%E5%B2%81%E8%A7%86%E9%A2%91%E4%B8%80%E8%84%B8%E6%83%8A%E8%AE%B6%23" target="weibo">
+12岁女孩看自己5岁视频一脸惊讶（热度：365346）
 </a>
 </li>
 
@@ -5871,12 +5895,6 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
-我睡着了连我自己都害怕（热度：331741）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E4%B8%93%E8%BE%91%E9%A2%84%E5%94%AE%E9%87%8F%E7%AA%81%E7%A0%B470%E4%B8%87%E5%BC%A0%23" target="weibo">
 gidle新专辑预售量突破70万张（热度：331496）
 </a>
@@ -5993,24 +6011,6 @@ WB对战eStar（热度：322529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%88%AB%E4%BA%BA%E4%B8%8D%E8%BF%98%E9%92%B1%E4%BA%86%23" target="weibo">
 再也不怕别人不还钱了（热度：322521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B%E7%AD%89%E5%9B%9B%E5%9C%B0%E5%85%A5%E4%BF%84%E6%9D%A1%E7%BA%A6%23" target="weibo">
-普京签署顿涅茨克等四地入俄条约（热度：322493）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%905%E7%A7%92%E5%89%AA%E5%9D%8F%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%94%B5%E7%BA%BF%E7%81%AB%E8%8A%B1%E7%9B%B4%E5%86%92%23" target="weibo">
-熊孩子5秒剪坏吹风机电线火花直冒（热度：322081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E8%88%9E5%E6%80%BB%E5%86%B3%E8%B5%9B%E5%9C%A8%E6%BE%B3%E9%97%A8%E5%BD%95%E5%88%B6%23" target="weibo">
-街舞5总决赛在澳门录制（热度：322021）
 </a>
 </li>
 
