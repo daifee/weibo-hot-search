@@ -1,0 +1,410 @@
+{
+  "runTime": 1665579177669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178172,
+        "num": 1178172,
+        "word": "伴娘拿麻将六万随礼看懵记账大爷",
+        "onboard_time": 1665569607,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955062,
+        "num": 955062,
+        "word": "杭州真的很适合减肥",
+        "onboard_time": 1665574284,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44031,
+        "num": 772654,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 754032,
+        "num": 754032,
+        "word": "三天肩膀就练薄了",
+        "onboard_time": 1665574465,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472913,
+        "num": 472913,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447883,
+        "num": 447883,
+        "word": "什么家庭经得住这么拆家啊",
+        "onboard_time": 1665571345,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408171,
+        "num": 408171,
+        "word": "俄媒称俄对欧输油管道发现泄漏点",
+        "onboard_time": 1665573385,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 357344,
+        "num": 357344,
+        "word": "医生悄悄垫付手术费12年后患者归还",
+        "onboard_time": 1665570086,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 324500,
+        "num": 324500,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313717,
+        "num": 313717,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158487,
+        "num": 310700,
+        "word": "李宇春强直性脊柱炎",
+        "onboard_time": 1665572245,
+        "rank": 10,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 297050,
+        "num": 297050,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273437,
+        "num": 273437,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260116,
+        "num": 260116,
+        "word": "李斌称蔚来2030年要跻身世界前五",
+        "onboard_time": 1665574704,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252276,
+        "num": 252276,
+        "word": "二十大召开时间",
+        "onboard_time": 1665570206,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 577996,
+        "num": 249721,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224221,
+        "num": 224221,
+        "word": "男子酒后骑自行车被认定酒驾",
+        "onboard_time": 1665576265,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216023,
+        "num": 216023,
+        "word": "张彬彬说成为庄羽的日子短暂而美好",
+        "onboard_time": 1665577884,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195452,
+        "num": 195452,
+        "word": "六公主评陈哲远沈月我的反派男友",
+        "onboard_time": 1665568344,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183889,
+        "num": 183889,
+        "word": "缉毒警14年缴获2吨毒品获一等功",
+        "onboard_time": 1665574942,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177467,
+        "num": 177467,
+        "word": "哥哥辅导妹妹作业双双崩溃到哭",
+        "onboard_time": 1665569126,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166241,
+        "num": 166241,
+        "word": "你最近一次大哭是为什么",
+        "onboard_time": 1665575183,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155561,
+        "num": 155561,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141313,
+        "num": 141313,
+        "word": "原来学会做饭这么简单",
+        "onboard_time": 1665572364,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140344,
+        "num": 140344,
+        "word": "一张画证明人不会被AI取代",
+        "onboard_time": 1665566725,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135193,
+        "num": 135193,
+        "word": "王鹤棣霸总适配度",
+        "onboard_time": 1665567444,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131934,
+        "num": 131934,
+        "word": "95岁老人分别60年后重逢登记结婚",
+        "onboard_time": 1665568225,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124024,
+        "num": 124024,
+        "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
+        "onboard_time": 1665578005,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123867,
+        "num": 123867,
+        "word": "差点忘了梁朝伟也是个歌手",
+        "onboard_time": 1665565944,
+        "rank": 28,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 121108,
+        "num": 121108,
+        "word": "北京朝阳新增5例本土感染者",
+        "onboard_time": 1665569187,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114435,
+        "num": 114435,
+        "word": "一起来看甄嬛雨",
+        "onboard_time": 1665563904,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113753,
+        "num": 113753,
+        "word": "王一博镜中对视大片",
+        "onboard_time": 1665577884,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109456,
+        "num": 109456,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108574,
+        "num": 108574,
+        "word": "黑猫警长头像的他荣获一等功",
+        "onboard_time": 1665579024,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107744,
+        "num": 107744,
+        "word": "刚毕业时花的冤枉钱",
+        "onboard_time": 1665577223,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 106054,
+        "word": "北京昌平新增3例阳性检测者",
+        "onboard_time": 1665578124,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86180,
+        "num": 86180,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85120,
+        "num": 85120,
+        "word": "成毅收官长文三段式",
+        "onboard_time": 1665572486,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83551,
+        "num": 83551,
+        "word": "二十大最新消息",
+        "onboard_time": 1665566304,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81126,
+        "num": 81126,
+        "word": "我要运动跟我要早睡一样难",
+        "onboard_time": 1665572066,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79094,
+        "num": 79094,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78926,
+        "num": 78926,
+        "word": "小学生们跳绳跳出了舞的感觉",
+        "onboard_time": 1665578964,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76583,
+        "num": 76583,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 67232,
+        "num": 67232,
+        "word": "李彩演新歌MV",
+        "onboard_time": 1665569065,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67167,
+        "num": 67167,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66046,
+        "num": 66046,
+        "word": "关节反复咔咔响注意病理性弹响",
+        "onboard_time": 1665578303,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65772,
+        "num": 65772,
+        "word": "原来小鸭也是要哄的",
+        "onboard_time": 1665565166,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 62472,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60298,
+        "num": 60298,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59600,
+        "num": 59600,
+        "word": "任嘉伦李沁请君弹幕量站内登顶",
+        "onboard_time": 1665569187,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}
