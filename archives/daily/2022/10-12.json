@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665554491133,
+  "endTime": 1665556753663,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -19,20 +19,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1708310,
+      "num": 1708310,
+      "word": "高校回应毛概女老师被赞神仙颜值",
+      "onboard_time": 1665548366,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1693346,
       "num": 1693346,
       "word": "8月婴儿误吞香蕉海姆立克法失效",
       "onboard_time": 1665544705,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1601125,
-      "num": 1601125,
-      "word": "高校回应毛概女老师被赞神仙颜值",
-      "onboard_time": 1665548366,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1312681,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 901750,
+      "num": 365435,
+      "word": "Jennie特别定制款保时捷公开",
+      "onboard_time": 1665553524,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 819086,
       "num": 349657,
       "word": "老累 禾野",
@@ -99,20 +107,20 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 794369,
+      "num": 794369,
+      "word": "当代人血液里有一半是咖啡",
+      "onboard_time": 1665551606,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 776236,
       "num": 776236,
       "word": "中国取暖设备火到欧洲",
       "onboard_time": 1665536007,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753733,
-      "num": 365435,
-      "word": "Jennie特别定制款保时捷公开",
-      "onboard_time": 1665553524,
-      "rank": 14,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 732780,
@@ -192,6 +200,14 @@
       "word": "新娘被接走妈妈独自躲厨房流泪",
       "onboard_time": 1665545426,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522175,
+      "num": 522175,
+      "word": "爸爸辅导作业怒拍桌子骨折了",
+      "onboard_time": 1665550873,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386153,
-      "num": 386153,
-      "word": "当代人血液里有一半是咖啡",
-      "onboard_time": 1665551606,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 379292,
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
@@ -305,6 +313,14 @@
       "onboard_time": 1665519191,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363501,
+      "num": 363501,
+      "word": "躺平不可取躺赢不可能",
+      "onboard_time": 1665551306,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 358140,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333842,
+      "num": 333842,
+      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+      "onboard_time": 1665549148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328223,
       "num": 328223,
       "word": "乌克兰大部分地区拉响防空警报",
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317608,
-      "num": 317608,
-      "word": "躺平不可取躺赢不可能",
-      "onboard_time": 1665551306,
-      "rank": 10,
-      "category": "国内要闻"
+      "raw_hot": 321802,
+      "num": 321802,
+      "word": "年轻人有多爱买丑东西",
+      "onboard_time": 1665554483,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 313052,
@@ -393,14 +417,6 @@
       "onboard_time": 1665550707,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 305988,
-      "num": 305988,
-      "word": "爸爸辅导作业怒拍桌子骨折了",
-      "onboard_time": 1665550873,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300628,
@@ -491,6 +507,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 252290,
+      "num": 203681,
+      "word": "汤唯提名大钟奖最佳女主角",
+      "onboard_time": 1665554784,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249724,
       "num": 249724,
       "word": "湖南120米深洞底发现大熊猫化石",
@@ -505,6 +529,14 @@
       "onboard_time": 1665547525,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 248027,
+      "num": 202462,
+      "word": "梁朝伟王一博程耳悬疑蒙太奇",
+      "onboard_time": 1665556642,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 244431,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205529,
+      "num": 205529,
+      "word": "谁的被窝里还没有只猫呢",
+      "onboard_time": 1665552205,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205237,
       "num": 65482,
       "word": "曲江通报小学学生坠亡事件",
@@ -569,6 +609,14 @@
       "onboard_time": 1665483924,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200806,
+      "num": 200806,
+      "word": "复联6推迟上映",
+      "onboard_time": 1665556225,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 199445,
@@ -601,6 +649,14 @@
       "onboard_time": 1665537505,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187408,
+      "num": 165107,
+      "word": "欧阳娜娜又双叒叕入股了新cp",
+      "onboard_time": 1665555684,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 183756,
@@ -707,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152508,
-      "num": 152508,
-      "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
-      "onboard_time": 1665549148,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152204,
       "num": 152204,
       "word": "神仙租客回应将房间打扫干净",
@@ -769,14 +817,6 @@
       "onboard_time": 1665530720,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140388,
-      "num": 140388,
-      "word": "谁的被窝里还没有只猫呢",
-      "onboard_time": 1665552205,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 137093,
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86851,
+      "num": 86851,
+      "word": "姚晨庄达菲新浪扫楼",
+      "onboard_time": 1665555863,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86695,
       "num": 86695,
       "word": "孙杨无名指上戴戒指",
@@ -945,6 +993,14 @@
       "onboard_time": 1665489563,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78042,
+      "num": 78042,
+      "word": "今年冬季会是冷冬吗",
+      "onboard_time": 1665555863,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77275,
@@ -993,14 +1049,6 @@
       "onboard_time": 1665496766,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69082,
-      "num": 69082,
-      "word": "年轻人有多爱买丑东西",
-      "onboard_time": 1665554483,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 68904,
