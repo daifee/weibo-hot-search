@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665684009235,
+  "endTime": 1665686114540,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -7187,6 +7187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38416,
+      "num": 38416,
+      "word": "原来狗看电视也舍不得睡觉",
+      "onboard_time": 1665683234,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37356,
       "num": 743754,
       "word": "中国女足为热爱打call",
@@ -7323,14 +7331,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 17782,
-      "num": 17782,
-      "word": "原来狗看电视也舍不得睡觉",
-      "onboard_time": 1665683234,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 17673,
       "num": 17673,
       "word": "寸头都封印不了的颜值",
@@ -7403,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11880,
+      "num": 11880,
+      "word": "TVB新剧女性群像还是熟悉的味道",
+      "onboard_time": 1665684493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -7423,6 +7431,14 @@
       "num": 9037,
       "word": "什么样的疼痛需要去医院",
       "onboard_time": 1665511932,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8629,
+      "num": 8629,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
       "rank": 49,
       "category": "社会新闻"
     },
