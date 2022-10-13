@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/14 00:39:52 ~ 2022/10/14 03:42:18
+本榜单时间：2022/10/14 00:39:52 ~ 2022/10/14 04:29:17
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%86%B7%E5%86%AC%E8%BF%98%E6%98%AF%E6%9A%96%E5%86%AC%23" target="weibo">
+今年将迎来冷冬还是暖冬（热度：42302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B8%82%E6%AD%A6%E4%BE%AF%E5%8C%BA%E8%B0%83%E6%95%B4%E9%83%A8%E5%88%86%E5%8C%BA%E5%9F%9F%E9%A3%8E%E9%99%A9%E5%8C%BA%E7%AD%89%E7%BA%A7%23" target="weibo">
 成都市武侯区调整部分区域风险区等级（热度：41272）
 </a>
@@ -333,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E9%92%BB%E7%AA%81%E7%84%B6%E5%9C%A8%E8%84%9A%E4%B8%8B%E7%A0%B4%E5%9C%B0%E8%80%8C%E5%87%BA%23" target="weibo">
+电钻突然在脚下破地而出（热度：21706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TVB%E6%96%B0%E5%89%A7%E5%A5%B3%E6%80%A7%E7%BE%A4%E5%83%8F%E8%BF%98%E6%98%AF%E7%86%9F%E6%82%89%E7%9A%84%E5%91%B3%E9%81%93%23" target="weibo">
 TVB新剧女性群像还是熟悉的味道（热度：21148）
 </a>
@@ -341,6 +353,12 @@ TVB新剧女性群像还是熟悉的味道（热度：21148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%96%B9%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%B7%9E%E9%87%8D%E8%A6%81%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 乌方称基辅州重要基础设施发生爆炸（热度：20042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E6%80%BB%E9%99%A2%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23" target="weibo">
+云南省第一人民医院总院静态管理（热度：18680）
 </a>
 </li>
 
@@ -357,20 +375,14 @@ Q4有望播出的古装剧（热度：10820）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E9%92%BB%E7%AA%81%E7%84%B6%E5%9C%A8%E8%84%9A%E4%B8%8B%E7%A0%B4%E5%9C%B0%E8%80%8C%E5%87%BA%23" target="weibo">
-电钻突然在脚下破地而出（热度：8345）
+<a href="https://s.weibo.com/weibo?q=%23GenG%23" target="weibo">
+GenG（热度：10086）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%238000%E5%85%83%E7%8E%B0%E9%87%91%E4%B8%A2%E5%A4%B1%E6%B0%91%E8%AD%A6%E5%8F%91%E7%8E%B0%E5%B0%8F%E7%8C%AB%E4%BD%9C%E6%A1%88%23" target="weibo">
 8000元现金丢失民警发现小猫作案（热度：8280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%86%B7%E5%86%AC%E8%BF%98%E6%98%AF%E6%9A%96%E5%86%AC%23" target="weibo">
-今年将迎来冷冬还是暖冬（热度：6401）
 </a>
 </li>
 
@@ -383,6 +395,54 @@ Q4有望播出的古装剧（热度：10820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%B0%88%E6%AC%A7%E6%B4%B2%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%23" target="weibo">
 普京谈欧洲能源危机（热度：6069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E8%B0%88%E7%BB%8F%E9%94%80%E5%95%86%E5%80%92%E6%88%88%23" target="weibo">
+董明珠谈经销商倒戈（热度：5718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E12%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%85%E5%90%AB3%E4%BE%8B%E7%A4%BE%E4%BC%9A%E9%9D%A2%23" target="weibo">
+北京新增12例本土感染者含3例社会面（热度：5658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%8B%AC%E8%87%AA%E8%BF%87%E7%94%9F%E6%97%A5%E8%80%81%E6%9D%BF%E5%A8%98%E9%80%81%E6%9D%A5%E8%9B%8B%E7%B3%95%23" target="weibo">
+小伙独自过生日老板娘送来蛋糕（热度：5611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%BD%E5%AE%B6%E5%88%97%E4%BC%A0%23" target="weibo">
+世界杯国家列传（热度：5590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BB%9D%E4%B8%8D%E8%AE%A9%E8%A7%82%E4%BC%97%E7%99%BD%E4%B9%B0%E7%A5%A8%23" target="weibo">
+大熊猫绝不让观众白买票（热度：5380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E7%9A%84%E5%8D%97%E5%8C%97%E5%B7%AE%E5%BC%82%23" target="weibo">
+降温后的南北差异（热度：5335）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%AB%99%E5%9C%A8%E7%A9%BA%E8%8D%A1%E6%95%99%E5%AE%A4%E5%AF%B9%E7%9D%80%E7%94%B5%E8%84%91%E4%B8%8A%E7%BD%91%E8%AF%BE%23" target="weibo">
+老师站在空荡教室对着电脑上网课（热度：5322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E6%95%B0%E5%AD%A69%E5%B2%81%E5%84%BF%E5%AD%90%E6%8A%93%E7%8B%82%E5%A4%A7%E5%93%AD%23" target="weibo">
+爸爸辅导数学9岁儿子抓狂大哭（热度：5321）
 </a>
 </li>
 
