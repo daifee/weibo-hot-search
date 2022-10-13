@@ -1,10 +1,18 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665703905111,
+  "endTime": 1665704951539,
   "band_list": [
     {
-      "raw_hot": 1269094,
-      "num": 1269094,
+      "raw_hot": 1856164,
+      "num": 495163,
+      "word": "RNG",
+      "onboard_time": 1665703760,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1493370,
+      "num": 1493370,
       "word": "今年将迎来冷冬还是暖冬",
       "onboard_time": 1665689952,
       "rank": 46,
@@ -19,24 +27,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 930354,
-      "num": 333981,
-      "word": "RNG",
-      "onboard_time": 1665703760,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 781704,
-      "num": 390621,
+      "raw_hot": 964159,
+      "num": 474040,
       "word": "好像突然没那么焦虑了",
       "onboard_time": 1665667467,
       "rank": 5,
       "category": "情感"
     },
     {
-      "raw_hot": 503974,
-      "num": 503974,
+      "raw_hot": 810016,
+      "num": 169251,
+      "word": "RNG八人确诊",
+      "onboard_time": 1665704543,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 507996,
+      "num": 507996,
       "word": "男子与人冲突好友立马上前道歉",
       "onboard_time": 1665677781,
       "rank": 19,
@@ -49,6 +57,22 @@
       "onboard_time": 1665676343,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451979,
+      "num": 451979,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448368,
+      "num": 448368,
+      "word": "爷爷第一次见孙子又放炮又脱衣服",
+      "onboard_time": 1665663144,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399058,
@@ -67,11 +91,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 371396,
-      "num": 371396,
-      "word": "爷爷第一次见孙子又放炮又脱衣服",
-      "onboard_time": 1665663144,
-      "rank": 8,
+      "raw_hot": 366471,
+      "num": 329077,
+      "word": "公公领工资第一时间全塞给儿媳",
+      "onboard_time": 1665672925,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -83,23 +107,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 354712,
-      "num": 329077,
-      "word": "公公领工资第一时间全塞给儿媳",
-      "onboard_time": 1665672925,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337405,
-      "num": 337405,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308802,
+      "raw_hot": 319724,
       "num": 308802,
       "word": "浙江大学位列世界第67名高校",
       "onboard_time": 1665697214,
@@ -115,6 +123,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 249675,
+      "num": 249675,
+      "word": "全国首个抱团养老实验暂停2年",
+      "onboard_time": 1665696491,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232299,
+      "num": 232299,
+      "word": "电钻突然在脚下破地而出",
+      "onboard_time": 1665688812,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228119,
       "num": 228119,
       "word": "喜欢和热爱生活的人在一起",
@@ -123,19 +147,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222918,
-      "num": 222918,
-      "word": "全国首个抱团养老实验暂停2年",
-      "onboard_time": 1665696491,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213857,
-      "num": 213857,
-      "word": "电钻突然在脚下破地而出",
-      "onboard_time": 1665688812,
-      "rank": 48,
+      "raw_hot": 218075,
+      "num": 218075,
+      "word": "苏州拟回购1万套新房",
+      "onboard_time": 1665693250,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -145,6 +161,14 @@
       "onboard_time": 1665673045,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194954,
+      "num": 194954,
+      "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+      "onboard_time": 1665660622,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194074,
@@ -163,12 +187,28 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 180598,
-      "num": 180598,
-      "word": "苏州拟回购1万套新房",
-      "onboard_time": 1665693250,
+      "raw_hot": 188266,
+      "num": 188266,
+      "word": "云南省第一人民医院总院静态管理",
+      "onboard_time": 1665690251,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184940,
+      "num": 168980,
+      "word": "北京新增12例本土感染者含3例社会面",
+      "onboard_time": 1665692051,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178537,
+      "num": 178537,
+      "word": "T1战胜FNC",
+      "onboard_time": 1665704543,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 175727,
@@ -195,28 +235,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157895,
-      "num": 157895,
-      "word": "云南省第一人民医院总院静态管理",
-      "onboard_time": 1665690251,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 167903,
+      "num": 167903,
+      "word": "T1战胜C9",
+      "onboard_time": 1665704421,
+      "rank": 22,
+      "category": "游戏"
     },
     {
-      "raw_hot": 157339,
-      "num": 155240,
-      "word": "北京新增12例本土感染者含3例社会面",
-      "onboard_time": 1665692051,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156789,
-      "num": 156789,
-      "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
-      "onboard_time": 1665660622,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 159661,
+      "num": 159661,
+      "word": "何以笙箫默的长尾效应",
+      "onboard_time": 1665655523,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153414,
@@ -235,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146613,
+      "num": 146613,
+      "word": "EDG战胜FNC",
+      "onboard_time": 1665704361,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "全班43人帮9岁听障女孩练习说话",
@@ -243,12 +283,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 121536,
-      "num": 121536,
-      "word": "何以笙箫默的长尾效应",
-      "onboard_time": 1665655523,
-      "rank": 20,
+      "raw_hot": 129362,
+      "num": 129362,
+      "word": "孔雪儿翻跳ShutDown视频",
+      "onboard_time": 1665702619,
+      "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113790,
+      "num": 113790,
+      "word": "C9战胜FNC",
+      "onboard_time": 1665704722,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 113490,
@@ -275,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101060,
+      "num": 101060,
+      "word": "锡安伤退",
+      "onboard_time": 1665693490,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98110,
       "num": 98110,
       "word": "五官和谐真的很重要",
@@ -299,6 +355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 91665,
+      "num": 91665,
+      "word": "长相思主创核心卖点是主演杨紫",
+      "onboard_time": 1665665426,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 87734,
       "num": 87734,
       "word": "81岁奶奶能连续跳绳1000个",
@@ -315,36 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83233,
-      "num": 83233,
-      "word": "长相思主创核心卖点是主演杨紫",
-      "onboard_time": 1665665426,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 82494,
-      "num": 82494,
-      "word": "锡安伤退",
-      "onboard_time": 1665693490,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81820,
       "num": 81820,
       "word": "90后男老师为毕业生打造治愈教室",
       "onboard_time": 1665693910,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80212,
-      "num": 80212,
-      "word": "孔雪儿翻跳ShutDown视频",
-      "onboard_time": 1665702619,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 79092,
@@ -355,8 +395,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76480,
-      "num": 76480,
+      "raw_hot": 77513,
+      "num": 77513,
       "word": "小伙独自过生日老板娘送来蛋糕",
       "onboard_time": 1665692412,
       "rank": 43,
@@ -369,6 +409,14 @@
       "onboard_time": 1665702619,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73725,
+      "num": 73725,
+      "word": "保安作画300多幅把公园变成动物世界",
+      "onboard_time": 1665693011,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71384,
@@ -403,12 +451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68119,
+      "num": 68119,
+      "word": "你心中的网剧天花板",
+      "onboard_time": 1665655403,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67853,
       "num": 67853,
       "word": "馋猫围观主人煮肉胡子眉毛被烫卷",
       "onboard_time": 1665671065,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67359,
+      "num": 67359,
+      "word": "李盈莹未来可期",
+      "onboard_time": 1665695589,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 65823,
@@ -419,28 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63093,
-      "num": 63093,
-      "word": "保安作画300多幅把公园变成动物世界",
-      "onboard_time": 1665693011,
-      "rank": 43,
+      "raw_hot": 64613,
+      "num": 64613,
+      "word": "老板回应4碗粿条545元被质疑天价",
+      "onboard_time": 1665649344,
+      "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61931,
-      "num": 61931,
-      "word": "你心中的网剧天花板",
-      "onboard_time": 1665655403,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 59180,
-      "num": 59180,
-      "word": "李盈莹未来可期",
-      "onboard_time": 1665695589,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 55953,
@@ -465,14 +513,6 @@
       "onboard_time": 1665662123,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 54477,
-      "num": 54477,
-      "word": "老板回应4碗粿条545元被质疑天价",
-      "onboard_time": 1665649344,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51791,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48727,
+      "num": 737808,
+      "word": "一图读懂十九届七中全会公报",
+      "onboard_time": 1665656363,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 47470,
       "num": 47470,
       "word": "晚八时代",
@@ -523,20 +571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44514,
-      "num": 737808,
-      "word": "一图读懂十九届七中全会公报",
-      "onboard_time": 1665656363,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 41272,
       "num": 41272,
       "word": "成都市武侯区调整部分区域风险区等级",
       "onboard_time": 1665649945,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40186,
+      "num": 40186,
+      "word": "降温后的南北差异",
+      "onboard_time": 1665692230,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 39620,
@@ -561,14 +609,6 @@
       "onboard_time": 1665682395,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 38801,
-      "num": 38801,
-      "word": "降温后的南北差异",
-      "onboard_time": 1665692230,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 36519,

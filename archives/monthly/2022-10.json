@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665703905111,
+  "endTime": 1665704951539,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -483,6 +483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1856164,
+      "num": 495163,
+      "word": "RNG",
+      "onboard_time": 1665703760,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1848333,
       "num": 1848333,
       "word": "女子16年月薪涨60倍存40万回农村",
@@ -856,6 +864,14 @@
       "word": "北大医生称ICU里最能暴露人性",
       "onboard_time": 1665631403,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493370,
+      "num": 1493370,
+      "word": "今年将迎来冷冬还是暖冬",
+      "onboard_time": 1665689952,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1249,14 +1265,6 @@
       "onboard_time": 1665199704,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1269094,
-      "num": 1269094,
-      "word": "今年将迎来冷冬还是暖冬",
-      "onboard_time": 1665689952,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1264688,
@@ -2131,14 +2139,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 930354,
-      "num": 333981,
-      "word": "RNG",
-      "onboard_time": 1665703760,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 929987,
       "num": 929987,
       "word": "老人用钢丝球洗洁精帮儿子洗车",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1664883503,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810016,
+      "num": 169251,
+      "word": "RNG八人确诊",
+      "onboard_time": 1665704543,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 805773,
@@ -5147,6 +5155,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 507996,
+      "num": 507996,
+      "word": "男子与人冲突好友立马上前道歉",
+      "onboard_time": 1665677781,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507856,
       "num": 310156,
       "word": "曹承衍签约EDAM娱乐公司",
@@ -5200,14 +5216,6 @@
       "word": "男子看升旗睡着仪式结束还未醒",
       "onboard_time": 1664764822,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503974,
-      "num": 503974,
-      "word": "男子与人冲突好友立马上前道歉",
-      "onboard_time": 1665677781,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6073,6 +6081,14 @@
       "onboard_time": 1665325825,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451979,
+      "num": 451979,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451415,
@@ -8427,14 +8443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337405,
-      "num": 337405,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336626,
       "num": 336626,
       "word": "美国银行预计明年美失业率达5.5%",
@@ -8787,6 +8795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 319724,
+      "num": 308802,
+      "word": "浙江大学位列世界第67名高校",
+      "onboard_time": 1665697214,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319340,
       "num": 319340,
       "word": "美国9月CPI同比上涨8.2%",
@@ -9009,14 +9025,6 @@
       "onboard_time": 1665195503,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308802,
-      "num": 308802,
-      "word": "浙江大学位列世界第67名高校",
-      "onboard_time": 1665697214,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308598,
@@ -11155,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249675,
+      "num": 249675,
+      "word": "全国首个抱团养老实验暂停2年",
+      "onboard_time": 1665696491,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249641,
       "num": 249641,
       "word": "男童获救时紧紧抓着水底昏迷的爸爸",
@@ -11755,6 +11771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232299,
+      "num": 232299,
+      "word": "电钻突然在脚下破地而出",
+      "onboard_time": 1665688812,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232197,
       "num": 232197,
       "word": "杨幂许凯爱的二八定律OST歌单",
@@ -12243,14 +12267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222918,
-      "num": 222918,
-      "word": "全国首个抱团养老实验暂停2年",
-      "onboard_time": 1665696491,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222744,
       "num": 222744,
       "word": "妈妈带孩子被反锁屋内外婆徒手撕门",
@@ -12459,6 +12475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218075,
+      "num": 218075,
+      "word": "苏州拟回购1万套新房",
+      "onboard_time": 1665693250,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217995,
       "num": 172656,
       "word": "朴灿烈唱Tomorrow",
@@ -12640,14 +12664,6 @@
       "word": "长春新增本土无症状5例",
       "onboard_time": 1665021022,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213857,
-      "num": 213857,
-      "word": "电钻突然在脚下破地而出",
-      "onboard_time": 1665688812,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -13851,6 +13867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188266,
+      "num": 188266,
+      "word": "云南省第一人民医院总院静态管理",
+      "onboard_time": 1665690251,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188198,
       "num": 188198,
       "word": "狗狗火场徘徊提醒消防员救小狗",
@@ -14033,6 +14057,14 @@
       "onboard_time": 1664972065,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184940,
+      "num": 168980,
+      "word": "北京新增12例本土感染者含3例社会面",
+      "onboard_time": 1665692051,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184733,
@@ -14235,14 +14267,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 180598,
-      "num": 180598,
-      "word": "苏州拟回购1万套新房",
-      "onboard_time": 1665693250,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180579,
       "num": 180579,
       "word": "陈哲远说萧无敌行为不要上升到本人",
@@ -14305,6 +14329,14 @@
       "onboard_time": 1664874203,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178537,
+      "num": 178537,
+      "word": "T1战胜FNC",
+      "onboard_time": 1665704543,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 178521,
@@ -14875,6 +14907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167903,
+      "num": 167903,
+      "word": "T1战胜C9",
+      "onboard_time": 1665704421,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167702,
       "num": 167702,
       "word": "詹姆斯半场23分",
@@ -15355,14 +15395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157895,
-      "num": 157895,
-      "word": "云南省第一人民医院总院静态管理",
-      "onboard_time": 1665690251,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157863,
       "num": 157863,
       "word": "邱少云烈士牺牲70周年",
@@ -15424,14 +15456,6 @@
       "word": "95后小伙靠混凝土砌筑拿世界冠军",
       "onboard_time": 1665361644,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157339,
-      "num": 155240,
-      "word": "北京新增12例本土感染者含3例社会面",
-      "onboard_time": 1665692051,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -16033,6 +16057,14 @@
       "onboard_time": 1665273922,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146613,
+      "num": 146613,
+      "word": "EDG战胜FNC",
+      "onboard_time": 1665359965,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 146563,
@@ -17075,6 +17107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129362,
+      "num": 129362,
+      "word": "孔雪儿翻跳ShutDown视频",
+      "onboard_time": 1665702619,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "中国空间站也发迎新视频了",
@@ -18083,6 +18123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113790,
+      "num": 113790,
+      "word": "C9战胜FNC",
+      "onboard_time": 1665704722,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113526,
       "num": 113526,
       "word": "童年就像一个做了很久的梦",
@@ -18457,14 +18505,6 @@
       "onboard_time": 1665579024,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108494,
-      "num": 108494,
-      "word": "EDG战胜FNC",
-      "onboard_time": 1665359965,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 108472,
@@ -18889,6 +18929,14 @@
       "onboard_time": 1665534028,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101060,
+      "num": 101060,
+      "word": "锡安伤退",
+      "onboard_time": 1665693490,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 100970,
@@ -19947,14 +19995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82494,
-      "num": 82494,
-      "word": "锡安伤退",
-      "onboard_time": 1665693490,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82414,
       "num": 82414,
       "word": "DRX战胜GAM",
@@ -20057,14 +20097,6 @@
       "onboard_time": 1665560542,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 80212,
-      "num": 80212,
-      "word": "孔雪儿翻跳ShutDown视频",
-      "onboard_time": 1665702619,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 80141,
@@ -20235,6 +20267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77513,
+      "num": 77513,
+      "word": "小伙独自过生日老板娘送来蛋糕",
+      "onboard_time": 1665692412,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77271,
       "num": 77271,
       "word": "这只黑猩猩也太嘚瑟了吧",
@@ -20257,14 +20297,6 @@
       "onboard_time": 1665041842,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76480,
-      "num": 76480,
-      "word": "小伙独自过生日老板娘送来蛋糕",
-      "onboard_time": 1665692412,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76433,
@@ -20465,6 +20497,14 @@
       "onboard_time": 1665160221,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73725,
+      "num": 73725,
+      "word": "保安作画300多幅把公园变成动物世界",
+      "onboard_time": 1665693011,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73653,
@@ -20755,6 +20795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67359,
+      "num": 67359,
+      "word": "李盈莹未来可期",
+      "onboard_time": 1665695589,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67243,
       "num": 67243,
       "word": "值得收藏的50部纪录片",
@@ -21043,14 +21091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63093,
-      "num": 63093,
-      "word": "保安作画300多幅把公园变成动物世界",
-      "onboard_time": 1665693011,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63003,
       "num": 63003,
       "word": "男子用30万训练币买车送女友",
@@ -21209,14 +21249,6 @@
       "onboard_time": 1665111623,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59180,
-      "num": 59180,
-      "word": "李盈莹未来可期",
-      "onboard_time": 1665695589,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 59097,
@@ -21907,6 +21939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40186,
+      "num": 40186,
+      "word": "降温后的南北差异",
+      "onboard_time": 1665692230,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40106,
       "num": 283442,
       "word": "91岁老战士向国旗敬礼时眼中有光",
@@ -21985,14 +22025,6 @@
       "onboard_time": 1664680882,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38801,
-      "num": 38801,
-      "word": "降温后的南北差异",
-      "onboard_time": 1665692230,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 38161,
