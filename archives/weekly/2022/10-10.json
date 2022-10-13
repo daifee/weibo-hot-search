@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665680990665,
+  "endTime": 1665682999572,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -4395,6 +4395,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 204776,
+      "num": 131198,
+      "word": "男子与人冲突好友立马上前道歉",
+      "onboard_time": 1665677781,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204622,
       "num": 204622,
       "word": "马龙11比1",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1665632727,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199300,
-      "num": 113448,
-      "word": "男子与人冲突好友立马上前道歉",
-      "onboard_time": 1665677781,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198949,
@@ -7035,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51791,
+      "num": 51791,
+      "word": "花海的澜教学",
+      "onboard_time": 1665678139,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51096,
       "num": 315279,
       "word": "袁隆平挂念的海水稻产量创新高",
@@ -7131,14 +7139,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 43758,
-      "num": 43758,
-      "word": "花海的澜教学",
-      "onboard_time": 1665678139,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 42647,
       "num": 262669,
       "word": "75岁奶奶连续4年绣鞋垫送消防员",
@@ -7177,6 +7177,14 @@
       "onboard_time": 1665469824,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39186,
+      "num": 39186,
+      "word": "沈小婷wefresh武术镜头",
+      "onboard_time": 1665682395,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 37356,
