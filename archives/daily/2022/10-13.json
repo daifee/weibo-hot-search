@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665654488027,
+  "endTime": 1665656939935,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 926493,
+      "num": 307250,
+      "word": "何以笙箫默的长尾效应",
+      "onboard_time": 1665655523,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 907081,
       "num": 907081,
       "word": "女生靠闹铃找回静音手机",
@@ -155,12 +163,28 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 766388,
+      "num": 327425,
+      "word": "不能以静默代替管控",
+      "onboard_time": 1665652342,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752162,
       "num": 539253,
       "word": "Canyon确诊新冠",
       "onboard_time": 1665628224,
       "rank": 6,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 738454,
+      "num": 519237,
+      "word": "冬天需要这个手机壳",
+      "onboard_time": 1665652225,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 728968,
@@ -225,14 +249,6 @@
       "onboard_time": 1665632727,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 609214,
-      "num": 327425,
-      "word": "不能以静默代替管控",
-      "onboard_time": 1665652342,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606195,
@@ -345,6 +361,14 @@
       "onboard_time": 1665647665,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 493021,
+      "num": 493021,
+      "word": "罗云熙曾说七年后更精彩哦",
+      "onboard_time": 1665654262,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 482995,
@@ -475,6 +499,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 359204,
+      "num": 278573,
+      "word": "沈小婷回归发布会新闻图",
+      "onboard_time": 1665655704,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358446,
       "num": 290714,
       "word": "北京首批毕业生公寓全装修新房月租2000元起",
@@ -539,12 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314520,
-      "num": 314520,
-      "word": "冬天需要这个手机壳",
-      "onboard_time": 1665652225,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 307821,
+      "num": 307821,
+      "word": "你心中的网剧天花板",
+      "onboard_time": 1665655403,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 307108,
@@ -619,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258229,
+      "num": 258229,
+      "word": "俄称修复北溪管道至少要一年",
+      "onboard_time": 1665651744,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 256328,
       "num": 256328,
       "word": "原来运动会这么容易社死",
@@ -649,6 +689,14 @@
       "onboard_time": 1665590840,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245083,
+      "num": 245083,
+      "word": "首次证明人脑细胞在体外也有智力",
+      "onboard_time": 1665654683,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 244928,
@@ -707,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232625,
+      "num": 232625,
+      "word": "电影放牛班的春天将内地重映",
+      "onboard_time": 1665651325,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230079,
       "num": 230079,
       "word": "鞠婧祎solo版以十洲的名义",
@@ -729,6 +785,14 @@
       "onboard_time": 1665616400,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218789,
+      "num": 218789,
+      "word": "不敢主动也不是丢脸的事",
+      "onboard_time": 1665654081,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 216967,
@@ -755,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211199,
+      "num": 164327,
+      "word": "彭昱畅在密逃4跪了20次",
+      "onboard_time": 1665655944,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210786,
       "num": 210786,
       "word": "披荆斩棘",
@@ -769,14 +841,6 @@
       "onboard_time": 1665649705,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207417,
-      "num": 207417,
-      "word": "罗云熙曾说七年后更精彩哦",
-      "onboard_time": 1665654262,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 207268,
@@ -835,28 +899,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194121,
-      "num": 194121,
-      "word": "俄称修复北溪管道至少要一年",
-      "onboard_time": 1665651744,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 193180,
       "num": 193180,
       "word": "原来泡面和番茄这么配",
       "onboard_time": 1665583645,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 192692,
-      "num": 184673,
-      "word": "电影放牛班的春天将内地重映",
-      "onboard_time": 1665651325,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 188198,
@@ -1075,6 +1123,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 134409,
+      "num": 134409,
+      "word": "王一博街舞5幕后随拍vlog",
+      "onboard_time": 1665654923,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129707,
       "num": 129707,
       "word": "段宇成原型给王安宇打call",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1665635428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120883,
+      "num": 120883,
+      "word": "防翘二郎腿神器",
+      "onboard_time": 1665655523,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 120566,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1665584487,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112145,
+      "num": 112145,
+      "word": "宣璐晒白日梦告白书开机随拍",
+      "onboard_time": 1665656664,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111199,
@@ -1235,6 +1307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89045,
+      "num": 89045,
+      "word": "雷霆杯",
+      "onboard_time": 1665656664,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88890,
       "num": 1451444,
       "word": "中国的十个维度",
@@ -1267,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82312,
-      "num": 82312,
-      "word": "不敢主动也不是丢脸的事",
-      "onboard_time": 1665654081,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80084,
       "num": 80084,
       "word": "二十大召开时间",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79530,
+      "num": 79530,
+      "word": "一图读懂十九届七中全会公报",
+      "onboard_time": 1665656363,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 76995,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1665577223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41166,
+      "num": 305010,
+      "word": "袁隆平挂念的海水稻产量创新高",
+      "onboard_time": 1665655224,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40252,
