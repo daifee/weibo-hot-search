@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 22:00:55
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 22:49:07
 </p>
 </blockquote>
 <p>
@@ -819,6 +819,12 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%BD%93%E6%82%A3%E8%80%85%E9%9D%A2%E7%94%A8%E6%89%8B%E6%9C%BA%E6%9F%A5%E7%99%BE%E5%BA%A6%23" target="weibo">
+医院回应医生当患者面用手机查百度（热度：1352686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%8B%E7%8F%AD%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86%23" target="weibo">
 喜欢下班的有福了（热度：1351199）
 </a>
@@ -1169,12 +1175,6 @@ iPhone14出现首次大幅降价（热度：1129925）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E7%BB%88%E4%BA%8E%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
 国产悬疑剧终于上新了（热度：1094383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%BD%93%E6%82%A3%E8%80%85%E9%9D%A2%E7%94%A8%E6%89%8B%E6%9C%BA%E6%9F%A5%E7%99%BE%E5%BA%A6%23" target="weibo">
-医院回应医生当患者面用手机查百度（热度：1093541）
 </a>
 </li>
 
@@ -1929,6 +1929,12 @@ eStar七冠王（热度：894969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E6%B2%A1%E9%82%A3%E4%B9%88%E7%84%A6%E8%99%91%E4%BA%86%23" target="weibo">
+好像突然没那么焦虑了（热度：806171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%8B%8D%E5%88%B0%E9%BB%91%E7%86%8A%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%9E%97%E4%B8%AD%E6%BC%AB%E6%AD%A5%23" target="weibo">
 重庆拍到黑熊一家三口林中漫步（热度：805773）
 </a>
@@ -2469,6 +2475,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%8A%A8%E7%89%A9%E4%B8%8D%E6%AD%A3%E7%BB%8F%23" target="weibo">
+南宁动物园回应动物不正经（热度：700631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%98%8E%E5%B7%9E%E4%BA%8B%E4%BB%B6%23" target="weibo">
 刘强东回应明州事件（热度：699201）
 </a>
@@ -2915,12 +2927,6 @@ iPhone6二手收购价低至100元（热度：632338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%89%93%E5%A4%A9%E4%BB%B7%E9%98%B2%E7%99%8C%E9%92%88%E8%A2%AB%E9%AA%9721%E4%B8%87%23" target="weibo">
 大妈打天价防癌针被骗21万（热度：621956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%8A%A8%E7%89%A9%E4%B8%8D%E6%AD%A3%E7%BB%8F%23" target="weibo">
-南宁动物园回应动物不正经（热度：621850）
 </a>
 </li>
 
@@ -4935,6 +4941,12 @@ VOGUE 女明星（热度：421757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD43%E4%BA%BA%E5%B8%AE9%E5%B2%81%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%BB%83%E4%B9%A0%E8%AF%B4%E8%AF%9D%23" target="weibo">
+全班43人帮9岁听障女孩练习说话（热度：420641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A1%E5%88%92%E6%8C%89%E5%8E%9F%E4%BB%B7%E6%94%B6%E8%B4%AD%E6%8E%A8%E7%89%B9%23" target="weibo">
 马斯克计划按原价收购推特（热度：418774）
 </a>
@@ -5999,18 +6011,6 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%ADemo%E4%BA%86%E5%90%97%23" target="weibo">
 节后上班emo了吗（热度：351182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%89%8B%E6%8D%A3%E8%8F%A0%E8%8F%9C%E4%B8%BA%E7%88%B1%E7%8B%97%E6%9F%93%E8%89%B2%23" target="weibo">
-主人手捣菠菜为爱狗染色（热度：350756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
-老师婚期临近62名学生偷偷送惊喜（热度：350711）
 </a>
 </li>
 
