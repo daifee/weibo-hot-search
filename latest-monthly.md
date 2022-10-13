@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 21:32:13
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 22:00:55
 </p>
 </blockquote>
 <p>
@@ -1173,6 +1173,12 @@ iPhone14出现首次大幅降价（热度：1129925）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%BD%93%E6%82%A3%E8%80%85%E9%9D%A2%E7%94%A8%E6%89%8B%E6%9C%BA%E6%9F%A5%E7%99%BE%E5%BA%A6%23" target="weibo">
+医院回应医生当患者面用手机查百度（热度：1093541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%BB%A4%E8%B0%83%E6%9F%A5%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%23" target="weibo">
 普京下令调查克里米亚大桥事故原因（热度：1090870）
 </a>
@@ -1647,6 +1653,12 @@ Jennie特别定制款保时捷公开（热度：901750）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%83%AD%E5%BA%A6%23" target="weibo">
+人生大事中国台湾网飞热度（热度：901255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%AE%98%E5%92%8C%E8%B0%90%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
 五官和谐真的很重要（热度：901197）
 </a>
@@ -2021,12 +2033,6 @@ TouchID不太可能回到iPhone（热度：782989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DK%23" target="weibo">
 DK（热度：781704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%83%AD%E5%BA%A6%23" target="weibo">
-人生大事中国台湾网飞热度（热度：781667）
 </a>
 </li>
 
@@ -2909,6 +2915,12 @@ iPhone6二手收购价低至100元（热度：632338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%89%93%E5%A4%A9%E4%BB%B7%E9%98%B2%E7%99%8C%E9%92%88%E8%A2%AB%E9%AA%9721%E4%B8%87%23" target="weibo">
 大妈打天价防癌针被骗21万（热度：621956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%8A%A8%E7%89%A9%E4%B8%8D%E6%AD%A3%E7%BB%8F%23" target="weibo">
+南宁动物园回应动物不正经（热度：621850）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ gidle将完整体出击认哥（热度：351694）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8E%8B%E5%87%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C%E5%B0%86Q4%E6%92%AD%E5%87%BA%23" target="weibo">
-网传王凯谭松韵向风而行将Q4播出（热度：350618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%86%E5%BC%80%E5%A7%8B%E9%85%8D%E9%9F%B3%23" target="weibo">
-刘亦菲去有风的地方将开始配音（热度：350217）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6179,6 +6179,12 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%95%B0%E8%AF%B4%E6%96%87%E6%97%85%E8%BF%99%E5%8D%81%E5%B9%B4%23%23" target="weibo">
 #数说文旅这十年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BD%A0%E9%97%AE%E6%88%91%E7%AD%94%E4%BA%8C%E5%8D%81%E5%A4%A7%23%23" target="weibo">
+#你问我答二十大#
 </a>
 </li>
 
