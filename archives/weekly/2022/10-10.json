@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665682999572,
+  "endTime": 1665684009235,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -7321,6 +7321,14 @@
       "onboard_time": 1665276205,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17782,
+      "num": 17782,
+      "word": "原来狗看电视也舍不得睡觉",
+      "onboard_time": 1665683234,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 17673,
