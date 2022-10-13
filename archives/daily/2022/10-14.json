@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665689245146,
+  "endTime": 1665690138529,
   "band_list": [
     {
       "raw_hot": 781704,
@@ -339,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45873,
+      "num": 23830,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45427,
       "num": 45427,
       "word": "从猫脸上看到了凶狠的表情",
       "onboard_time": 1665659543,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42681,
-      "num": 23830,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41272,
@@ -435,7 +435,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17558,
+      "raw_hot": 20042,
       "num": 17558,
       "word": "乌方称基辅州重要基础设施发生爆炸",
       "onboard_time": 1665686771,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 8345,
+      "num": 8345,
+      "word": "电钻突然在脚下破地而出",
+      "onboard_time": 1665688812,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8280,
       "num": 8280,
       "word": "8000元现金丢失民警发现小猫作案",
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6817,
-      "num": 7265,
-      "word": "电钻突然在脚下破地而出",
-      "onboard_time": 1665688812,
+      "raw_hot": 6401,
+      "num": 6496,
+      "word": "今年将迎来冷冬还是暖冬",
+      "onboard_time": 1665689952,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6113,
+      "num": 6485,
+      "word": "国内首套大丝束碳纤维生产线成功投产",
+      "onboard_time": 1665689650,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6069,
+      "num": 6481,
+      "word": "普京谈欧洲能源危机",
+      "onboard_time": 1665690014,
+      "rank": 49,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
