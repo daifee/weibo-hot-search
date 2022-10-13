@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665647492903,
+  "endTime": 1665650044691,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 994575,
-      "num": 476425,
+      "num": 584916,
       "word": "网传白鹿张凌赫宁安如梦暂定Q4播出",
       "onboard_time": 1665647244,
       "rank": 3,
@@ -203,6 +203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606195,
+      "num": 547761,
+      "word": "才知道懒羊羊活得如此通透",
+      "onboard_time": 1665643163,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 605038,
+      "num": 605038,
+      "word": "王者荣耀世界获登记批准",
+      "onboard_time": 1665645263,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593624,
       "num": 388972,
       "word": "联大紧急特别会议就乌克兰问题通过决议",
@@ -249,6 +265,14 @@
       "onboard_time": 1665642143,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 542448,
+      "num": 542448,
+      "word": "杨洋赵露思且试天下将在日本播出",
+      "onboard_time": 1665647244,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 527932,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408010,
+      "num": 408010,
+      "word": "法国呼吁美国天然气卖便宜些",
+      "onboard_time": 1665647665,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 405022,
       "num": 354335,
       "word": "杨幂密室大逃脱4收官宴剧照",
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372135,
-      "num": 372135,
-      "word": "杨洋赵露思且试天下将在日本播出",
-      "onboard_time": 1665647244,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 368917,
       "num": 368917,
       "word": "EDG",
@@ -411,16 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348989,
-      "num": 348989,
-      "word": "王者荣耀世界获登记批准",
-      "onboard_time": 1665645263,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 345645,
-      "num": 472173,
+      "num": 560957,
       "word": "京外二十大代表团陆续抵京",
       "onboard_time": 1665630985,
       "rank": 16,
@@ -441,14 +457,6 @@
       "onboard_time": 1665572245,
       "rank": 11,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 309635,
-      "num": 309635,
-      "word": "才知道懒羊羊活得如此通透",
-      "onboard_time": 1665643163,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 307108,
@@ -603,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220138,
+      "num": 220138,
+      "word": "要坚决整治层层加码",
+      "onboard_time": 1665648565,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "网传赖冠霖宣璐新剧即将开机",
       "onboard_time": 1665616400,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217912,
+      "num": 208995,
+      "word": "采访阿水记者说翻译是正确的",
+      "onboard_time": 1665648565,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 216967,
@@ -632,6 +656,14 @@
       "word": "披荆斩棘",
       "onboard_time": 1665638605,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209081,
+      "num": 209081,
+      "word": "街舞5节目上线时间调整",
+      "onboard_time": 1665649705,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -664,6 +696,14 @@
       "word": "北京昨日新增本土确诊12例",
       "onboard_time": 1665623306,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203277,
+      "num": 203277,
+      "word": "男子下班遇领导按住电梯要求加班",
+      "onboard_time": 1665648923,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 183241,
-      "num": 154413,
+      "num": 155694,
       "word": "吴克群马頔好久不见全程泪点",
       "onboard_time": 1665645382,
       "rank": 31,
@@ -745,6 +785,14 @@
       "onboard_time": 1665574284,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175741,
+      "num": 175741,
+      "word": "成都市武侯区调整部分区域风险区等级",
+      "onboard_time": 1665649945,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175128,
@@ -779,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166599,
+      "num": 166599,
+      "word": "随意频繁使用眼药水对眼睛无益",
+      "onboard_time": 1665647003,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164755,
       "num": 141142,
       "word": "张若昀纪念法医秦明六周年",
@@ -795,12 +851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160841,
+      "num": 160841,
+      "word": "这张牵手照记录也门撤侨温暖瞬间",
+      "onboard_time": 1665644303,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159335,
       "num": 159335,
       "word": "张云龙Mike仁科披荆斩棘爆料局",
       "onboard_time": 1665637766,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "同曦男篮vs广东男篮",
+      "onboard_time": 1665647843,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 156293,
@@ -843,6 +915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "张智霖张云龙范世錡理想舞台",
+      "onboard_time": 1665648685,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148580,
       "num": 148580,
       "word": "一下子从冬天切换到夏天",
@@ -856,6 +936,14 @@
       "word": "男子戴网购耳机起火如同放烟花",
       "onboard_time": 1665602530,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143932,
+      "num": 143932,
+      "word": "老板回应4碗粿条545元被质疑天价",
+      "onboard_time": 1665649344,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -875,20 +963,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 129707,
+      "num": 129707,
+      "word": "段宇成原型给王安宇打call",
+      "onboard_time": 1665645863,
+      "rank": 37,
+      "category": "影视,体育"
+    },
+    {
       "raw_hot": 124154,
       "num": 124154,
       "word": "13岁哥哥教6岁弟弟拼音被气哭",
       "onboard_time": 1665604091,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123489,
-      "num": 123489,
-      "word": "段宇成原型给王安宇打call",
-      "onboard_time": 1665645863,
-      "rank": 37,
-      "category": "影视,体育"
     },
     {
       "raw_hot": 123293,
@@ -979,12 +1067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105738,
-      "num": 105738,
-      "word": "这张牵手照记录也门撤侨温暖瞬间",
-      "onboard_time": 1665644303,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 104625,
+      "num": 104625,
+      "word": "露营遇到最尴尬的事是什么",
+      "onboard_time": 1665645204,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 103441,
@@ -993,22 +1081,6 @@
       "onboard_time": 1665585208,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103030,
-      "num": 103030,
-      "word": "随意频繁使用眼药水对眼睛无益",
-      "onboard_time": 1665647003,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100563,
-      "num": 100563,
-      "word": "露营遇到最尴尬的事是什么",
-      "onboard_time": 1665645204,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 99344,
@@ -1091,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77759,
+      "num": 77759,
+      "word": "厦门树洞简直是我的嘴替",
+      "onboard_time": 1665649822,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76995,
       "num": 76995,
       "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1665571345,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67683,
+      "num": 597996,
+      "word": "拉祜族女生为爱写的歌好感动",
+      "onboard_time": 1665637704,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66735,
@@ -1163,11 +1251,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54357,
-      "num": 167265,
-      "word": "拉祜族女生为爱写的歌好感动",
-      "onboard_time": 1665637704,
-      "rank": 29,
+      "raw_hot": 52845,
+      "num": 289620,
+      "word": "香格里拉上新深秋滤镜",
+      "onboard_time": 1665648024,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
