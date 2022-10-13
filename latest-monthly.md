@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 06:47:01
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 07:31:45
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ Scout确诊（热度：1288170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%86%B7%E5%86%AC%E8%BF%98%E6%98%AF%E6%9A%96%E5%86%AC%23" target="weibo">
+今年将迎来冷冬还是暖冬（热度：1269094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%90%AD%E5%B8%90%E7%AF%B7%E6%96%B9%E4%BE%BF%E6%99%9A%E9%97%B4%E5%AD%A6%E4%B9%A0%23" target="weibo">
 考研学生校内搭帐篷方便晚间学习（热度：1264688）
 </a>
@@ -995,6 +1001,12 @@ T1战胜EDG（热度：1259172）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E8%A2%AB%E4%BF%9D%E9%80%81%E8%87%B3%E6%B5%99%E5%A4%A7%23" target="weibo">
 18岁奥运冠军被保送至浙大（热度：1224885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23" target="weibo">
+EDG晋级八强（热度：1223009）
 </a>
 </li>
 
@@ -1595,6 +1607,12 @@ iPhone14Plus上市破发（热度：986191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%85%E9%81%AD%E5%88%B0%E8%A2%AD%E5%87%BB%E5%B7%B2%E9%80%A0%E6%88%908%E6%AD%BB24%E4%BC%A4%23" target="weibo">
 基辅遭到袭击已造成8死24伤（热度：930527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
+RNG（热度：930354）
 </a>
 </li>
 
@@ -3897,6 +3915,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E5%A5%BD%E5%8F%8B%E7%AB%8B%E9%A9%AC%E4%B8%8A%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
+男子与人冲突好友立马上前道歉（热度：503974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
 心动的信号（热度：503682）
 </a>
@@ -5253,6 +5277,12 @@ RNG战胜CFO（热度：402485）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%8D%E4%BC%9A%E5%90%91%E9%99%90%E4%BB%B7%E5%9B%BD%E5%AE%B6%E5%87%BA%E5%94%AE%E5%A4%A9%E7%84%B6%E6%B0%94%23" target="weibo">
+普京称不会向限价国家出售天然气（热度：399058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%AD%A3%E4%BC%9A%E6%98%AF%E5%86%B7%E5%86%AC%E5%90%97%23" target="weibo">
 今年冬季会是冷冬吗（热度：399003）
 </a>
@@ -5847,6 +5877,12 @@ EDG（热度：368917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23FNC%E5%AF%B9%E6%88%98EDG%23" target="weibo">
+FNC对战EDG（热度：361568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8E%9F%E5%9E%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23" target="weibo">
 特斯拉人形机器人原型机亮相（热度：361565）
 </a>
@@ -5975,42 +6011,6 @@ S12提莫登场（热度：354274）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%8D%E7%9C%BC%E9%95%9C%E5%89%8D%E7%9C%8B%E5%88%B0%E7%9C%9F%E6%98%AF%E6%88%91%E7%9A%84%E7%A6%8F%E6%B0%94%23" target="weibo">
 配眼镜前看到真是我的福气（热度：353964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B8%82%E6%AD%A6%E4%BE%AF%E5%8C%BA%E8%B0%83%E6%95%B4%E9%83%A8%E5%88%86%E5%8C%BA%E5%9F%9F%E9%A3%8E%E9%99%A9%E5%8C%BA%E7%AD%89%E7%BA%A7%23" target="weibo">
-成都市武侯区调整部分区域风险区等级（热度：353625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E7%9A%84%E6%B0%94%E8%B4%A8%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E9%AB%98%E8%B4%B5%E4%BA%86%23" target="weibo">
-这猫的气质一下子就高贵了（热度：353494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C17%E6%9D%BF%E6%9E%81%E9%99%90%E5%AF%B9%E6%8B%89%23" target="weibo">
-樊振东17板极限对拉（热度：352989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E5%A2%9E%E4%B8%80%E6%84%9F%E6%9F%93%E8%80%85%E5%9C%A8%E4%BA%AC%E6%97%A0%E5%B8%B8%E4%BD%8F%E5%9C%B0%E5%9D%80%23" target="weibo">
-北京丰台增一感染者在京无常住地址（热度：352294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%90%A7%E5%B1%B1%E6%9C%BA%E5%9C%BA%E7%9A%84%E9%A3%9E%E6%9C%BA%E6%8B%9C%E6%8B%9C%E5%91%98%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23" target="weibo">
-被萧山机场的飞机拜拜员可爱到了（热度：352258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E4%BF%AE%E5%A4%8D%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E6%98%AF%E5%AD%98%E5%9C%A8%E7%9A%84%23" target="weibo">
-俄称修复北溪管道的可能性是存在的（热度：352227）
 </a>
 </li>
 

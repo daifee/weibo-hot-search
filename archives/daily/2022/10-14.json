@@ -1,14 +1,46 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665701221884,
+  "endTime": 1665703905111,
   "band_list": [
     {
+      "raw_hot": 1269094,
+      "num": 1269094,
+      "word": "今年将迎来冷冬还是暖冬",
+      "onboard_time": 1665689952,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223009,
+      "num": 1223009,
+      "word": "EDG晋级八强",
+      "onboard_time": 1665702258,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 930354,
+      "num": 333981,
+      "word": "RNG",
+      "onboard_time": 1665703760,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 781704,
-      "num": 196048,
+      "num": 390621,
       "word": "好像突然没那么焦虑了",
       "onboard_time": 1665667467,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503974,
+      "num": 503974,
+      "word": "男子与人冲突好友立马上前道歉",
+      "onboard_time": 1665677781,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456783,
@@ -19,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399058,
+      "num": 399058,
+      "word": "普京称不会向限价国家出售天然气",
+      "onboard_time": 1665676582,
+      "rank": 11,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 374213,
       "num": 374213,
       "word": "工信部通报38款APP侵害用户权益",
@@ -27,20 +67,44 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 371396,
+      "num": 371396,
+      "word": "爷爷第一次见孙子又放炮又脱衣服",
+      "onboard_time": 1665663144,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361568,
+      "num": 361568,
+      "word": "FNC对战EDG",
+      "onboard_time": 1665702797,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 354712,
-      "num": 191919,
+      "num": 329077,
       "word": "公公领工资第一时间全塞给儿媳",
       "onboard_time": 1665672925,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327372,
-      "num": 191337,
-      "word": "普京称不会向限价国家出售天然气",
-      "onboard_time": 1665676582,
-      "rank": 11,
-      "category": "国外要闻,财经"
+      "raw_hot": 337405,
+      "num": 337405,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308802,
+      "num": 308802,
+      "word": "浙江大学位列世界第67名高校",
+      "onboard_time": 1665697214,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287815,
@@ -51,28 +115,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 277230,
-      "num": 153376,
-      "word": "男子与人冲突好友立马上前道歉",
-      "onboard_time": 1665677781,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241722,
-      "num": 97050,
-      "word": "今年将迎来冷冬还是暖冬",
-      "onboard_time": 1665689952,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228119,
       "num": 228119,
       "word": "喜欢和热爱生活的人在一起",
       "onboard_time": 1665674366,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222918,
+      "num": 222918,
+      "word": "全国首个抱团养老实验暂停2年",
+      "onboard_time": 1665696491,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213857,
+      "num": 213857,
+      "word": "电钻突然在脚下破地而出",
+      "onboard_time": 1665688812,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198225,
@@ -91,20 +155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192784,
-      "num": 192784,
-      "word": "爷爷第一次见孙子又放炮又脱衣服",
-      "onboard_time": 1665663144,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190224,
       "num": 190224,
       "word": "诺言恋爱",
       "onboard_time": 1665662123,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 180598,
+      "num": 180598,
+      "word": "苏州拟回购1万套新房",
+      "onboard_time": 1665693250,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175727,
@@ -131,28 +195,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152916,
-      "num": 152916,
-      "word": "创造LPL的时代",
-      "onboard_time": 1665673585,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 157895,
+      "num": 157895,
+      "word": "云南省第一人民医院总院静态管理",
+      "onboard_time": 1665690251,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 138070,
-      "num": 138070,
+      "raw_hot": 157339,
+      "num": 155240,
+      "word": "北京新增12例本土感染者含3例社会面",
+      "onboard_time": 1665692051,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156789,
+      "num": 156789,
       "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
       "onboard_time": 1665660622,
       "rank": 17,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130269,
-      "num": 88688,
+      "raw_hot": 153414,
+      "num": 153414,
       "word": "意大利女航天员用兰亭集序直抒胸臆",
       "onboard_time": 1665695531,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "创造LPL的时代",
+      "onboard_time": 1665673585,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 129517,
@@ -163,28 +243,36 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 126442,
-      "num": 47865,
-      "word": "浙江大学位列世界第67名高校",
-      "onboard_time": 1665697214,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109594,
-      "num": 109594,
+      "raw_hot": 121536,
+      "num": 121536,
       "word": "何以笙箫默的长尾效应",
       "onboard_time": 1665655523,
       "rank": 20,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100758,
-      "num": 100758,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 113490,
+      "num": 113490,
+      "word": "乌方称基辅州重要基础设施发生爆炸",
+      "onboard_time": 1665686771,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108472,
+      "num": 108472,
+      "word": "李宇春去流量化行动",
+      "onboard_time": 1665677541,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101782,
+      "num": 101782,
+      "word": "GenG",
+      "onboard_time": 1665690911,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 98110,
@@ -193,14 +281,6 @@
       "onboard_time": 1665657083,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94209,
-      "num": 47506,
-      "word": "全国首个抱团养老实验暂停2年",
-      "onboard_time": 1665696491,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92831,
@@ -219,28 +299,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 88625,
-      "num": 88625,
-      "word": "电钻突然在脚下破地而出",
-      "onboard_time": 1665688812,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88262,
-      "num": 88262,
-      "word": "苏州拟回购1万套新房",
-      "onboard_time": 1665693250,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88049,
-      "num": 99823,
-      "word": "李宇春去流量化行动",
-      "onboard_time": 1665677541,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 87734,
+      "num": 87734,
+      "word": "81岁奶奶能连续跳绳1000个",
+      "onboard_time": 1665663324,
+      "rank": 34,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 83767,
@@ -251,6 +315,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83233,
+      "num": 83233,
+      "word": "长相思主创核心卖点是主演杨紫",
+      "onboard_time": 1665665426,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82494,
+      "num": 82494,
+      "word": "锡安伤退",
+      "onboard_time": 1665693490,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81820,
+      "num": 81820,
+      "word": "90后男老师为毕业生打造治愈教室",
+      "onboard_time": 1665693910,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80212,
+      "num": 80212,
+      "word": "孔雪儿翻跳ShutDown视频",
+      "onboard_time": 1665702619,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79092,
       "num": 79092,
       "word": "那些一个字的歌名有多绝",
@@ -259,12 +355,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 75433,
-      "num": 46576,
-      "word": "北京新增12例本土感染者含3例社会面",
-      "onboard_time": 1665692051,
-      "rank": 42,
+      "raw_hot": 76480,
+      "num": 76480,
+      "word": "小伙独自过生日老板娘送来蛋糕",
+      "onboard_time": 1665692412,
+      "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74768,
+      "num": 74768,
+      "word": "EDG战胜C9",
+      "onboard_time": 1665702619,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 71384,
@@ -307,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66340,
-      "num": 66340,
-      "word": "长相思主创核心卖点是主演杨紫",
-      "onboard_time": 1665665426,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 65823,
       "num": 65823,
       "word": "高伟光说鹧鸪哨又回来了",
       "onboard_time": 1665664883,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63093,
+      "num": 63093,
+      "word": "保安作画300多幅把公园变成动物世界",
+      "onboard_time": 1665693011,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61931,
@@ -331,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61323,
-      "num": 61323,
-      "word": "81岁奶奶能连续跳绳1000个",
-      "onboard_time": 1665663324,
-      "rank": 34,
-      "category": "体育,社会新闻"
+      "raw_hot": 59180,
+      "num": 59180,
+      "word": "李盈莹未来可期",
+      "onboard_time": 1665695589,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 55953,
@@ -363,8 +467,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 53626,
-      "num": 53626,
+      "raw_hot": 54477,
+      "num": 54477,
       "word": "老板回应4碗粿条545元被质疑天价",
       "onboard_time": 1665649344,
       "rank": 38,
@@ -403,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48414,
-      "num": 42753,
-      "word": "云南省第一人民医院总院静态管理",
-      "onboard_time": 1665690251,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 47470,
+      "num": 47470,
+      "word": "晚八时代",
+      "onboard_time": 1665698232,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 45427,
@@ -419,20 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45346,
-      "num": 45346,
-      "word": "GenG",
-      "onboard_time": 1665690911,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 42891,
-      "num": 42891,
-      "word": "小伙独自过生日老板娘送来蛋糕",
-      "onboard_time": 1665692412,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 44514,
+      "num": 737808,
+      "word": "一图读懂十九届七中全会公报",
+      "onboard_time": 1665656363,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 41272,
@@ -441,14 +537,6 @@
       "onboard_time": 1665649945,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40982,
-      "num": 40982,
-      "word": "乌方称基辅州重要基础设施发生爆炸",
-      "onboard_time": 1665686771,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 39620,
@@ -475,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38801,
+      "num": 38801,
+      "word": "降温后的南北差异",
+      "onboard_time": 1665692230,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36519,
       "num": 36519,
       "word": "1个动作提升腰部肌肉力量",
@@ -483,28 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35215,
-      "num": 35215,
-      "word": "保安作画300多幅把公园变成动物世界",
-      "onboard_time": 1665693011,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34002,
       "num": 34002,
       "word": "看完这个视频需要勇气",
       "onboard_time": 1665659123,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33356,
-      "num": 261568,
-      "word": "一图读懂十九届七中全会公报",
-      "onboard_time": 1665656363,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 32411,
@@ -523,52 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31590,
-      "num": 31590,
-      "word": "90后男老师为毕业生打造治愈教室",
-      "onboard_time": 1665693910,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31469,
-      "num": 31469,
-      "word": "锡安伤退",
-      "onboard_time": 1665693490,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28447,
-      "num": 28447,
-      "word": "李盈莹未来可期",
-      "onboard_time": 1665695589,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22357,
-      "num": 22357,
-      "word": "晚八时代",
-      "onboard_time": 1665698232,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21148,
       "num": 21148,
       "word": "TVB新剧女性群像还是熟悉的味道",
       "onboard_time": 1665684493,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20774,
-      "num": 20774,
-      "word": "降温后的南北差异",
-      "onboard_time": 1665692230,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 12874,
