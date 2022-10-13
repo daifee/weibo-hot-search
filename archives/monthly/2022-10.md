@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 17:29:15
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 17:48:08
 </p>
 </blockquote>
 <p>
@@ -2367,6 +2367,12 @@ Canyon确诊新冠（热度：752162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%944%E7%A2%97%E7%B2%BF%E6%9D%A1545%E5%85%83%E8%A2%AB%E8%B4%A8%E7%96%91%E5%A4%A9%E4%BB%B7%23" target="weibo">
+老板回应4碗粿条545元被质疑天价（热度：706197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%97%A0%E6%95%8C%E5%8D%97%E6%98%9F%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 萧无敌南星结婚了（热度：705311）
 </a>
@@ -2519,12 +2525,6 @@ iPhone6被苹果列入过时产品（热度：691285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B8%E5%A4%B4%E9%83%BD%E5%B0%81%E5%8D%B0%E4%B8%8D%E4%BA%86%E7%9A%84%E9%A2%9C%E5%80%BC%23" target="weibo">
 寸头都封印不了的颜值（热度：683074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%944%E7%A2%97%E7%B2%BF%E6%9D%A1545%E5%85%83%E8%A2%AB%E8%B4%A8%E7%96%91%E5%A4%A9%E4%BB%B7%23" target="weibo">
-老板回应4碗粿条545元被质疑天价（热度：681800）
 </a>
 </li>
 
@@ -2927,6 +2927,12 @@ iPhone14Plus遇冷Pro卖爆（热度：618927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%888%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61307%E4%BE%8B%23" target="weibo">
 10月8日新增本土无症状1307例（热度：609359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E4%BB%A5%E9%9D%99%E9%BB%98%E4%BB%A3%E6%9B%BF%E7%AE%A1%E6%8E%A7%23" target="weibo">
+不能以静默代替管控（热度：609214）
 </a>
 </li>
 
@@ -4427,6 +4433,12 @@ LPL小组赛首轮9胜3负（热度：454232）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%BB%BA%E7%AB%8B%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%BD%93%E7%B3%BB%23" target="weibo">
 我国将建立世界最大国家公园体系（热度：450778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%AF%8C%E5%9B%BD%E5%B7%B2%E9%87%8D%E6%96%B0%E5%9B%9E%E5%88%B0%E6%89%AB%E9%9B%B7%E6%8E%92%E7%88%86%E5%A4%A7%E9%98%9F%23" target="weibo">
+杜富国已重新回到扫雷排爆大队（热度：450533）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%90%E7%9A%84%E4%BA%BA%E5%BA%94%E8%AF%A5%E6%97%A9%E7%82%B9%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
 久坐的人应该早点穿秋裤（热度：345839）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%A4%96%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%99%86%E7%BB%AD%E6%8A%B5%E4%BA%AC%23" target="weibo">
-京外二十大代表团陆续抵京（热度：345645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-西安疫情防控（热度：344538）
 </a>
 </li>
 

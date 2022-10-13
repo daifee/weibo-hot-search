@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665653355231,
+  "endTime": 1665654488027,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 994575,
-      "num": 584916,
+      "num": 592668,
       "word": "网传白鹿张凌赫宁安如梦暂定Q4播出",
       "onboard_time": 1665647244,
       "rank": 3,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706197,
+      "num": 361031,
+      "word": "老板回应4碗粿条545元被质疑天价",
+      "onboard_time": 1665649344,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705111,
       "num": 663658,
       "word": "Viper",
@@ -1040,14 +1048,6 @@
       "word": "公司面试表问能否接受无偿加班",
       "onboard_time": 1665461664,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681800,
-      "num": 361031,
-      "word": "老板回应4碗粿条545元被质疑天价",
-      "onboard_time": 1665649344,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1256,6 +1256,14 @@
       "word": "女子拿行李误被朋友开车压骨折",
       "onboard_time": 1665410844,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609214,
+      "num": 327425,
+      "word": "不能以静默代替管控",
+      "onboard_time": 1665652342,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1937,6 +1945,14 @@
       "onboard_time": 1665608530,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450533,
+      "num": 322301,
+      "word": "杜富国已重新回到扫雷排爆大队",
+      "onboard_time": 1665651802,
+      "rank": 20,
+      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 447883,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333651,
+      "num": 333651,
+      "word": "BLACKPINK世巡演唱会练习花絮",
+      "onboard_time": 1665653904,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332669,
       "num": 332669,
       "word": "男子烤紫薯拿出后紫薯爆炸了",
@@ -2771,14 +2795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320452,
-      "num": 320452,
-      "word": "不能以静默代替管控",
-      "onboard_time": 1665652342,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320377,
       "num": 320377,
       "word": "一张画证明人不会被AI取代",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1665452663,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314520,
+      "num": 314520,
+      "word": "冬天需要这个手机壳",
+      "onboard_time": 1665652225,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 313365,
@@ -3155,20 +3179,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270784,
-      "num": 270784,
-      "word": "杜富国已重新回到扫雷排爆大队",
-      "onboard_time": 1665651802,
-      "rank": 20,
-      "category": "社会正能量,军事"
-    },
-    {
       "raw_hot": 269701,
       "num": 269701,
       "word": "嗜睡也属于睡眠障碍",
       "onboard_time": 1665368122,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269352,
+      "num": 269352,
+      "word": "这真的是猫菜瘾大",
+      "onboard_time": 1665651024,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 268859,
@@ -3539,6 +3563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244736,
+      "num": 244736,
+      "word": "摇滚狂花",
+      "onboard_time": 1665653961,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244431,
       "num": 199234,
       "word": "NCTUMakeAWish发行两周年",
@@ -3569,14 +3601,6 @@
       "onboard_time": 1665647003,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242309,
-      "num": 242309,
-      "word": "这真的是猫菜瘾大",
-      "onboard_time": 1665651024,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 237714,
@@ -3971,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207417,
+      "num": 207417,
+      "word": "罗云熙曾说七年后更精彩哦",
+      "onboard_time": 1665654262,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207268,
       "num": 207268,
       "word": "生日的时候我也要这样拍",
@@ -4195,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194121,
+      "num": 194121,
+      "word": "俄称修复北溪管道至少要一年",
+      "onboard_time": 1665651744,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 193917,
       "num": 193917,
       "word": "小森林今晚大结局",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1665537505,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192692,
+      "num": 184673,
+      "word": "电影放牛班的春天将内地重映",
+      "onboard_time": 1665651325,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 192327,
@@ -4313,14 +4361,6 @@
       "onboard_time": 1665438910,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184673,
-      "num": 184673,
-      "word": "电影放牛班的春天将内地重映",
-      "onboard_time": 1665651325,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 183889,
@@ -4452,7 +4492,7 @@
     },
     {
       "raw_hot": 172457,
-      "num": 554073,
+      "num": 600532,
       "word": "许多国宝动物正回到我们身边",
       "onboard_time": 1665537207,
       "rank": 23,
@@ -4848,14 +4888,6 @@
       "word": "养猫前后生活上发生的变化",
       "onboard_time": 1665486142,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 153072,
-      "num": 153072,
-      "word": "冬天需要这个手机壳",
-      "onboard_time": 1665652225,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -6147,20 +6179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82312,
+      "num": 82312,
+      "word": "不敢主动也不是丢脸的事",
+      "onboard_time": 1665654081,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82196,
       "num": 82196,
       "word": "九图带你了解党的中央组织",
       "onboard_time": 1665477084,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 80843,
-      "num": 80843,
-      "word": "俄称修复北溪管道至少要一年",
-      "onboard_time": 1665651744,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 80269,
@@ -6643,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29604,
+      "num": 353175,
+      "word": "天宫课堂第三课极简版笔记",
+      "onboard_time": 1665651625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
@@ -6681,14 +6721,6 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22899,
-      "num": 353175,
-      "word": "天宫课堂第三课极简版笔记",
-      "onboard_time": 1665651625,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17793,
@@ -7070,6 +7102,9 @@
     },
     {
       "word": "#十九届七中全会公报#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665654488027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115652,
+        "num": 1115652,
+        "word": "要坚决整治层层加码",
+        "onboard_time": 1665648565,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619533,
+        "num": 619533,
+        "word": "女子16年月薪涨60倍存40万回农村",
+        "onboard_time": 1665630803,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124919,
+        "num": 600532,
+        "word": "许多国宝动物正回到我们身边",
+        "onboard_time": 1665650423,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592668,
+        "num": 592668,
+        "word": "网传白鹿张凌赫宁安如梦暂定Q4播出",
+        "onboard_time": 1665647244,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117088,
+        "num": 437797,
+        "word": "京外二十大代表团陆续抵京",
+        "onboard_time": 1665630985,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 427842,
+        "num": 427842,
+        "word": "才知道懒羊羊活得如此通透",
+        "onboard_time": 1665643163,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 386373,
+        "num": 386373,
+        "word": "法国呼吁美国天然气卖便宜些",
+        "onboard_time": 1665647665,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 374385,
+        "num": 374385,
+        "word": "杨洋赵露思且试天下将在日本播出",
+        "onboard_time": 1665647244,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333651,
+        "num": 333651,
+        "word": "BLACKPINK世巡演唱会练习花絮",
+        "onboard_time": 1665653904,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197720,
+        "num": 332368,
+        "word": "青海戈壁开出27000个蓝色向日葵",
+        "onboard_time": 1665641424,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 706197,
+        "num": 330193,
+        "word": "老板回应4碗粿条545元被质疑天价",
+        "onboard_time": 1665649344,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609214,
+        "num": 327425,
+        "word": "不能以静默代替管控",
+        "onboard_time": 1665652342,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580460,
+        "num": 324190,
+        "word": "男子下班遇领导按住电梯要求加班",
+        "onboard_time": 1665648923,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450533,
+        "num": 322301,
+        "word": "杜富国已重新回到扫雷排爆大队",
+        "onboard_time": 1665651802,
+        "rank": 13,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 29604,
+        "num": 319355,
+        "word": "天宫课堂第三课极简版笔记",
+        "onboard_time": 1665651625,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419571,
+        "num": 317982,
+        "word": "IU首登韩版Vogue11月刊",
+        "onboard_time": 1665652584,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345186,
+        "num": 316595,
+        "word": "2人在小区群对骂14个月被判相互道歉",
+        "onboard_time": 1665637526,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314520,
+        "num": 314520,
+        "word": "冬天需要这个手机壳",
+        "onboard_time": 1665652225,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293945,
+        "num": 293945,
+        "word": "王者荣耀世界获登记批准",
+        "onboard_time": 1665645263,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13240,
+        "num": 289112,
+        "word": "一个厨师组的乐队有多酷",
+        "onboard_time": 1665641424,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288394,
+        "num": 288394,
+        "word": "采访阿水记者说翻译是正确的",
+        "onboard_time": 1665648565,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280307,
+        "num": 280307,
+        "word": "成都市武侯区调整部分区域风险区等级",
+        "onboard_time": 1665649945,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269352,
+        "num": 269352,
+        "word": "这真的是猫菜瘾大",
+        "onboard_time": 1665651024,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266186,
+        "num": 266186,
+        "word": "女子接诈骗电话自报余额惊呆骗子",
+        "onboard_time": 1665640764,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244736,
+        "num": 244736,
+        "word": "摇滚狂花",
+        "onboard_time": 1665653961,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234439,
+        "num": 234439,
+        "word": "TFBOYS声乐老师晒新歌歌词本",
+        "onboard_time": 1665638425,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222327,
+        "num": 222327,
+        "word": "檀健次说演甜剧很新鲜",
+        "onboard_time": 1665650605,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207417,
+        "num": 207417,
+        "word": "罗云熙曾说七年后更精彩哦",
+        "onboard_time": 1665654262,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194121,
+        "num": 194121,
+        "word": "俄称修复北溪管道至少要一年",
+        "onboard_time": 1665651744,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 183448,
+        "num": 183448,
+        "word": "买完却不穿的衣服就这么来的",
+        "onboard_time": 1665639444,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192692,
+        "num": 181788,
+        "word": "电影放牛班的春天将内地重映",
+        "onboard_time": 1665651325,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168038,
+        "num": 168038,
+        "word": "乌克兰基辅州遭到俄武装力量攻击",
+        "onboard_time": 1665638486,
+        "rank": 31,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 167578,
+        "num": 167578,
+        "word": "随意频繁使用眼药水对眼睛无益",
+        "onboard_time": 1665647003,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166925,
+        "num": 166925,
+        "word": "kep1er新曲wefresh",
+        "onboard_time": 1665652225,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "Viper",
+        "onboard_time": 1665636929,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136591,
+        "num": 136591,
+        "word": "厦门树洞简直是我的嘴替",
+        "onboard_time": 1665649822,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128349,
+        "num": 128349,
+        "word": "张智霖张云龙范世錡理想舞台",
+        "onboard_time": 1665648685,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142916,
+        "num": 125931,
+        "word": "JackeyLove回应采访争议",
+        "onboard_time": 1665635008,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123450,
+        "num": 123450,
+        "word": "苏有朋说要摆烂来披荆斩棘干嘛",
+        "onboard_time": 1665639505,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121040,
+        "num": 121040,
+        "word": "沈阳浑南区现3例核酸异常",
+        "onboard_time": 1665645621,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120773,
+        "num": 120773,
+        "word": "生日的时候我也要这样拍",
+        "onboard_time": 1665642503,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111834,
+        "num": 111834,
+        "word": "新婚夫妻设计礼金互免卡送朋友",
+        "onboard_time": 1665638005,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105640,
+        "num": 105640,
+        "word": "你会向往低欲望生活吗",
+        "onboard_time": 1665644064,
+        "rank": 42,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 103929,
+        "num": 103929,
+        "word": "同曦男篮vs广东男篮",
+        "onboard_time": 1665647843,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93025,
+        "num": 93025,
+        "word": "鼻子一下子就通了",
+        "onboard_time": 1665642143,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92840,
+        "num": 92840,
+        "word": "休想在小狗眼皮底下偷吃",
+        "onboard_time": 1665641664,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82312,
+        "num": 82312,
+        "word": "不敢主动也不是丢脸的事",
+        "onboard_time": 1665654081,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79199,
+        "num": 79199,
+        "word": "上海拟降低极端通勤人口比例",
+        "onboard_time": 1665635246,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79033,
+        "num": 79033,
+        "word": "男童获救时紧紧抓着水底昏迷的爸爸",
+        "onboard_time": 1665636685,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76843,
+        "num": 76843,
+        "word": "普京称北溪爆炸的受益者是美国",
+        "onboard_time": 1665633865,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
