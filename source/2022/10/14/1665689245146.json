@@ -1,0 +1,410 @@
+{
+  "runTime": 1665689245146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 68219,
+        "num": 68219,
+        "word": "工信部通报38款APP侵害用户权益",
+        "onboard_time": 1665675143,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 47258,
+        "num": 47258,
+        "word": "苏明玉受的气姚晨这次还回来了",
+        "onboard_time": 1665676343,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 5801,
+        "num": 45409,
+        "word": "一图读懂十九届七中全会公报",
+        "onboard_time": 1665656363,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65291,
+        "num": 44511,
+        "word": "男子与人冲突好友立马上前道歉",
+        "onboard_time": 1665677781,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3124,
+        "num": 42207,
+        "word": "党史馆珍藏了一张受困矿工的小纸条",
+        "onboard_time": 1665675443,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105572,
+        "num": 38061,
+        "word": "好像突然没那么焦虑了",
+        "onboard_time": 1665667467,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37453,
+        "num": 37453,
+        "word": "爷爷第一次见孙子又放炮又脱衣服",
+        "onboard_time": 1665663144,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32196,
+        "num": 32196,
+        "word": "原来友情没有真正的be",
+        "onboard_time": 1665657204,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24842,
+        "num": 24842,
+        "word": "喜欢和热爱生活的人在一起",
+        "onboard_time": 1665674366,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23846,
+        "num": 23846,
+        "word": "在家数1万粒米算是奇葩作业吗",
+        "onboard_time": 1665672566,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48372,
+        "num": 23840,
+        "word": "普京称不会向限价国家出售天然气",
+        "onboard_time": 1665676582,
+        "rank": 10,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 42681,
+        "num": 23830,
+        "word": "中国高领毛衣火到欧洲",
+        "onboard_time": 1665685992,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34088,
+        "num": 23820,
+        "word": "公公领工资第一时间全塞给儿媳",
+        "onboard_time": 1665672925,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28434,
+        "num": 23817,
+        "word": "诺言恋爱",
+        "onboard_time": 1665662123,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 25360,
+        "num": 23801,
+        "word": "眉姐姐美貌图鉴",
+        "onboard_time": 1665673045,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24816,
+        "num": 23793,
+        "word": "原来狗看电视也舍不得睡觉",
+        "onboard_time": 1665683234,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23787,
+        "num": 23787,
+        "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+        "onboard_time": 1665660622,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22264,
+        "num": 22264,
+        "word": "李宇春去流量化行动",
+        "onboard_time": 1665677541,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22176,
+        "num": 22176,
+        "word": "人生大事中国台湾网飞热度",
+        "onboard_time": 1665665306,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18721,
+        "num": 18721,
+        "word": "创造LPL的时代",
+        "onboard_time": 1665673585,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 18204,
+        "word": "何以笙箫默的长尾效应",
+        "onboard_time": 1665655523,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17558,
+        "num": 17558,
+        "word": "乌方称基辅州重要基础设施发生爆炸",
+        "onboard_time": 1665686771,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 17538,
+        "num": 17538,
+        "word": "TVB新剧女性群像还是熟悉的味道",
+        "onboard_time": 1665684493,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16055,
+        "num": 16055,
+        "word": "真心话大冒险的高阶玩法",
+        "onboard_time": 1665675265,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15654,
+        "num": 15654,
+        "word": "81岁奶奶能连续跳绳1000个",
+        "onboard_time": 1665663324,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 15245,
+        "num": 15245,
+        "word": "没想到沈腾还有这样一面",
+        "onboard_time": 1665674305,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14904,
+        "num": 14904,
+        "word": "冬天需要这个手机壳",
+        "onboard_time": 1665652225,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14407,
+        "num": 14407,
+        "word": "不能以静默代替管控",
+        "onboard_time": 1665652342,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13985,
+        "num": 13985,
+        "word": "高伟光说鹧鸪哨又回来了",
+        "onboard_time": 1665664883,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13941,
+        "num": 13941,
+        "word": "美国9月CPI同比上涨8.2%",
+        "onboard_time": 1665666743,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13643,
+        "num": 13643,
+        "word": "沈小婷wefresh武术镜头",
+        "onboard_time": 1665682395,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13541,
+        "num": 13541,
+        "word": "大学教授坚持26年手写板书",
+        "onboard_time": 1665668965,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 12156,
+        "num": 12156,
+        "word": "五官和谐真的很重要",
+        "onboard_time": 1665657083,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11898,
+        "num": 11898,
+        "word": "长相思主创核心卖点是主演杨紫",
+        "onboard_time": 1665665426,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11698,
+        "num": 11698,
+        "word": "你心中的网剧天花板",
+        "onboard_time": 1665655403,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11540,
+        "num": 11540,
+        "word": "周深和国风歌曲的适配度",
+        "onboard_time": 1665678381,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11464,
+        "num": 11464,
+        "word": "老板回应4碗粿条545元被质疑天价",
+        "onboard_time": 1665649344,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10804,
+        "num": 10804,
+        "word": "首次证明人脑细胞在体外也有智力",
+        "onboard_time": 1665654683,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 10129,
+        "num": 10129,
+        "word": "从猫脸上看到了凶狠的表情",
+        "onboard_time": 1665659543,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10048,
+        "num": 10048,
+        "word": "原来口红色号可以这么选",
+        "onboard_time": 1665662123,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 10645,
+        "num": 9966,
+        "word": "Q4有望播出的古装剧",
+        "onboard_time": 1665666264,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9778,
+        "num": 9778,
+        "word": "深圳晚霞",
+        "onboard_time": 1665663203,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9072,
+        "num": 9072,
+        "word": "那些一个字的歌名有多绝",
+        "onboard_time": 1665674245,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8791,
+        "num": 8791,
+        "word": "馋猫围观主人煮肉胡子眉毛被烫卷",
+        "onboard_time": 1665671065,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8280,
+        "num": 8280,
+        "word": "8000元现金丢失民警发现小猫作案",
+        "onboard_time": 1665688690,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8009,
+        "num": 8009,
+        "word": "俄称修复北溪管道至少要一年",
+        "onboard_time": 1665651744,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 7908,
+        "num": 7908,
+        "word": "成都市武侯区调整部分区域风险区等级",
+        "onboard_time": 1665649945,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7267,
+        "num": 7267,
+        "word": "近视的主要因素是这6个字",
+        "onboard_time": 1665659963,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6817,
+        "num": 7265,
+        "word": "电钻突然在脚下破地而出",
+        "onboard_time": 1665688812,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6425,
+        "num": 7254,
+        "word": "看完这个视频需要勇气",
+        "onboard_time": 1665659123,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#你问我答二十大#"
+    }
+  }
+}

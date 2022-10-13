@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665687442474,
+  "endTime": 1665689245146,
   "band_list": [
     {
       "raw_hot": 781704,
@@ -347,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42681,
+      "num": 23830,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41272,
       "num": 41272,
       "word": "成都市武侯区调整部分区域风险区等级",
@@ -427,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15960,
-      "num": 15960,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 17558,
+      "num": 17558,
+      "word": "乌方称基辅州重要基础设施发生爆炸",
+      "onboard_time": 1665686771,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 12007,
@@ -451,12 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10277,
-      "num": 9863,
-      "word": "乌方称基辅州重要基础设施发生爆炸",
-      "onboard_time": 1665686771,
-      "rank": 45,
-      "category": "国外要闻"
+      "raw_hot": 8280,
+      "num": 8280,
+      "word": "8000元现金丢失民警发现小猫作案",
+      "onboard_time": 1665688690,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6817,
+      "num": 7265,
+      "word": "电钻突然在脚下破地而出",
+      "onboard_time": 1665688812,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
