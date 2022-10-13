@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665646600809,
+  "endTime": 1665647492903,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 994575,
+      "num": 476425,
+      "word": "网传白鹿张凌赫宁安如梦暂定Q4播出",
+      "onboard_time": 1665647244,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 965783,
       "num": 965783,
       "word": "关系越好回消息越慢",
@@ -107,7 +115,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 816107,
+      "raw_hot": 824312,
       "num": 816107,
       "word": "女子接诈骗电话自报余额惊呆骗子",
       "onboard_time": 1665640764,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 796507,
-      "num": 318178,
+      "num": 332415,
       "word": "2人在小区群对骂14个月被判相互道歉",
       "onboard_time": 1665637526,
       "rank": 15,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543709,
+      "num": 487086,
+      "word": "鼻子一下子就通了",
+      "onboard_time": 1665642143,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 527932,
       "num": 527932,
       "word": "我睡着了连我自己都害怕",
@@ -257,14 +273,6 @@
       "onboard_time": 1665635246,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487086,
-      "num": 487086,
-      "word": "鼻子一下子就通了",
-      "onboard_time": 1665642143,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 482995,
@@ -304,6 +312,14 @@
       "word": "我国将建立世界最大国家公园体系",
       "onboard_time": 1665608530,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438372,
+      "num": 369936,
+      "word": "沈阳浑南区现3例核酸异常",
+      "onboard_time": 1665645621,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372135,
+      "num": 372135,
+      "word": "杨洋赵露思且试天下将在日本播出",
+      "onboard_time": 1665647244,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368917,
       "num": 368917,
       "word": "EDG",
@@ -387,8 +411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348989,
+      "num": 348989,
+      "word": "王者荣耀世界获登记批准",
+      "onboard_time": 1665645263,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345645,
-      "num": 345645,
+      "num": 472173,
       "word": "京外二十大代表团陆续抵京",
       "onboard_time": 1665630985,
       "rank": 16,
@@ -409,6 +441,14 @@
       "onboard_time": 1665572245,
       "rank": 11,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 309635,
+      "num": 309635,
+      "word": "才知道懒羊羊活得如此通透",
+      "onboard_time": 1665643163,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 307108,
@@ -449,30 +489,6 @@
       "onboard_time": 1665629065,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275775,
-      "num": 275775,
-      "word": "沈阳浑南区现3例核酸异常",
-      "onboard_time": 1665645621,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263845,
-      "num": 263845,
-      "word": "才知道懒羊羊活得如此通透",
-      "onboard_time": 1665643163,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 261691,
-      "num": 261691,
-      "word": "王者荣耀世界获登记批准",
-      "onboard_time": 1665645263,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 260503,
@@ -619,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207268,
+      "num": 207268,
+      "word": "生日的时候我也要这样拍",
+      "onboard_time": 1665642503,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206818,
       "num": 206818,
       "word": "男子瘸腿走路流浪狗跟在后面学",
@@ -649,14 +673,6 @@
       "onboard_time": 1665632727,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200135,
-      "num": 200135,
-      "word": "生日的时候我也要这样拍",
-      "onboard_time": 1665642503,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194309,
@@ -697,6 +713,14 @@
       "onboard_time": 1665580223,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183241,
+      "num": 154413,
+      "word": "吴克群马頔好久不见全程泪点",
+      "onboard_time": 1665645382,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 181796,
@@ -795,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154413,
-      "num": 154413,
-      "word": "吴克群马頔好久不见全程泪点",
-      "onboard_time": 1665645382,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154275,
       "num": 154275,
       "word": "张若昀秦明六周年",
@@ -865,6 +881,14 @@
       "onboard_time": 1665604091,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123489,
+      "num": 123489,
+      "word": "段宇成原型给王安宇打call",
+      "onboard_time": 1665645863,
+      "rank": 37,
+      "category": "影视,体育"
     },
     {
       "raw_hot": 123293,
@@ -955,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105738,
+      "num": 105738,
+      "word": "这张牵手照记录也门撤侨温暖瞬间",
+      "onboard_time": 1665644303,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103441,
       "num": 103441,
       "word": "张杰像真的一样发行一周年",
@@ -963,12 +995,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 100331,
-      "num": 100331,
-      "word": "段宇成原型给王安宇打call",
-      "onboard_time": 1665645863,
-      "rank": 37,
-      "category": "影视,体育"
+      "raw_hot": 103030,
+      "num": 103030,
+      "word": "随意频繁使用眼药水对眼睛无益",
+      "onboard_time": 1665647003,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100563,
+      "num": 100563,
+      "word": "露营遇到最尴尬的事是什么",
+      "onboard_time": 1665645204,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 99344,
@@ -1035,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84352,
-      "num": 84352,
-      "word": "露营遇到最尴尬的事是什么",
-      "onboard_time": 1665645204,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80084,
       "num": 80084,
       "word": "二十大召开时间",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77197,
-      "num": 77197,
-      "word": "这张牵手照记录也门撤侨温暖瞬间",
-      "onboard_time": 1665644303,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76995,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1665571345,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66735,
+      "num": 332446,
+      "word": "八旬老人背小音箱爬山顶升旗",
+      "onboard_time": 1665644424,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64513,
@@ -1136,14 +1168,6 @@
       "word": "拉祜族女生为爱写的歌好感动",
       "onboard_time": 1665637704,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52542,
-      "num": 287490,
-      "word": "八旬老人背小音箱爬山顶升旗",
-      "onboard_time": 1665644424,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
