@@ -1,0 +1,410 @@
+{
+  "runTime": 1665680990665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 374213,
+        "num": 374213,
+        "word": "工信部通报38款APP侵害用户权益",
+        "onboard_time": 1665675143,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 332114,
+        "num": 332114,
+        "word": "苏明玉受的气姚晨这次还回来了",
+        "onboard_time": 1665676343,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22527,
+        "num": 219377,
+        "word": "一图读懂十九届七中全会公报",
+        "onboard_time": 1665656363,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149931,
+        "num": 149931,
+        "word": "喜欢和热爱生活的人在一起",
+        "onboard_time": 1665674366,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28182,
+        "num": 130414,
+        "word": "党史馆珍藏了一张受困矿工的小纸条",
+        "onboard_time": 1665675443,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530933,
+        "num": 129872,
+        "word": "好像突然没那么焦虑了",
+        "onboard_time": 1665667467,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158195,
+        "num": 127047,
+        "word": "在家数1万粒米算是奇葩作业吗",
+        "onboard_time": 1665672566,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121857,
+        "num": 121857,
+        "word": "爷爷第一次见孙子又放炮又脱衣服",
+        "onboard_time": 1665663144,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113309,
+        "num": 113309,
+        "word": "人生大事中国台湾网飞热度",
+        "onboard_time": 1665665306,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112936,
+        "num": 112936,
+        "word": "原来友情没有真正的be",
+        "onboard_time": 1665657204,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303991,
+        "num": 111735,
+        "word": "普京称不会向限价国家出售天然气",
+        "onboard_time": 1665676582,
+        "rank": 10,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 199300,
+        "num": 110224,
+        "word": "男子与人冲突好友立马上前道歉",
+        "onboard_time": 1665677781,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173287,
+        "num": 107603,
+        "word": "公公领工资第一时间全塞给儿媳",
+        "onboard_time": 1665672925,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131265,
+        "num": 105558,
+        "word": "诺言恋爱",
+        "onboard_time": 1665662123,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 117885,
+        "num": 103124,
+        "word": "眉姐姐美貌图鉴",
+        "onboard_time": 1665673045,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102033,
+        "num": 102033,
+        "word": "没想到沈腾还有这样一面",
+        "onboard_time": 1665674305,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96303,
+        "num": 96303,
+        "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+        "onboard_time": 1665660622,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95636,
+        "num": 95636,
+        "word": "李庚希为向涵之新剧打call",
+        "onboard_time": 1665675024,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87937,
+        "num": 87937,
+        "word": "创造LPL的时代",
+        "onboard_time": 1665673585,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83128,
+        "num": 83128,
+        "word": "真心话大冒险的高阶玩法",
+        "onboard_time": 1665675265,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73762,
+        "num": 73762,
+        "word": "何以笙箫默的长尾效应",
+        "onboard_time": 1665655523,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72345,
+        "num": 72345,
+        "word": "李宇春去流量化行动",
+        "onboard_time": 1665677541,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67764,
+        "num": 67764,
+        "word": "五官和谐真的很重要",
+        "onboard_time": 1665657083,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66250,
+        "num": 66250,
+        "word": "全班43人帮9岁听障女孩练习说话",
+        "onboard_time": 1665668544,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 57247,
+        "num": 57247,
+        "word": "不能以静默代替管控",
+        "onboard_time": 1665652342,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55620,
+        "num": 55620,
+        "word": "那些一个字的歌名有多绝",
+        "onboard_time": 1665674245,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51105,
+        "num": 51105,
+        "word": "冬天需要这个手机壳",
+        "onboard_time": 1665652225,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48767,
+        "num": 48767,
+        "word": "81岁奶奶能连续跳绳1000个",
+        "onboard_time": 1665663324,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 47044,
+        "num": 47044,
+        "word": "大学教授坚持26年手写板书",
+        "onboard_time": 1665668965,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 44850,
+        "num": 44850,
+        "word": "美国9月CPI同比上涨8.2%",
+        "onboard_time": 1665666743,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45331,
+        "num": 44704,
+        "word": "高伟光说鹧鸪哨又回来了",
+        "onboard_time": 1665664883,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43849,
+        "num": 43849,
+        "word": "你心中的网剧天花板",
+        "onboard_time": 1665655403,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43758,
+        "num": 43758,
+        "word": "花海的澜教学",
+        "onboard_time": 1665678139,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40665,
+        "num": 40665,
+        "word": "馋猫围观主人煮肉胡子眉毛被烫卷",
+        "onboard_time": 1665671065,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40410,
+        "num": 40410,
+        "word": "长相思主创核心卖点是主演杨紫",
+        "onboard_time": 1665665426,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39862,
+        "num": 39862,
+        "word": "老板回应4碗粿条545元被质疑天价",
+        "onboard_time": 1665649344,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38395,
+        "num": 38395,
+        "word": "首次证明人脑细胞在体外也有智力",
+        "onboard_time": 1665654683,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36724,
+        "num": 36724,
+        "word": "原来口红色号可以这么选",
+        "onboard_time": 1665662123,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 36142,
+        "num": 36142,
+        "word": "深圳晚霞",
+        "onboard_time": 1665663203,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34637,
+        "num": 34637,
+        "word": "近视的主要因素是这6个字",
+        "onboard_time": 1665659963,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33953,
+        "num": 33953,
+        "word": "周深和国风歌曲的适配度",
+        "onboard_time": 1665678381,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33064,
+        "num": 33064,
+        "word": "铁三角说再见但没完全再见",
+        "onboard_time": 1665669264,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32555,
+        "num": 32555,
+        "word": "王大陆发文感谢披荆斩棘的兄弟们",
+        "onboard_time": 1665665843,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 30673,
+        "word": "从猫脸上看到了凶狠的表情",
+        "onboard_time": 1665659543,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28674,
+        "num": 28674,
+        "word": "成都市武侯区调整部分区域风险区等级",
+        "onboard_time": 1665649945,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25093,
+        "num": 25093,
+        "word": "看完这个视频需要勇气",
+        "onboard_time": 1665659123,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21664,
+        "num": 21664,
+        "word": "孙铭徽20分",
+        "onboard_time": 1665672446,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21639,
+        "num": 21639,
+        "word": "俄称修复北溪管道至少要一年",
+        "onboard_time": 1665651744,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 21184,
+        "num": 21184,
+        "word": "1个动作提升腰部肌肉力量",
+        "onboard_time": 1665671906,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20835,
+        "num": 20835,
+        "word": "谁看了不想去山东搂席",
+        "onboard_time": 1665663864,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}

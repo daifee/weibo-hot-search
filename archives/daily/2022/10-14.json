@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665679192856,
+  "endTime": 1665680990665,
   "band_list": [
     {
       "raw_hot": 781704,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357050,
-      "num": 357050,
+      "raw_hot": 374213,
+      "num": 374213,
       "word": "工信部通报38款APP侵害用户权益",
       "onboard_time": 1665675143,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1665674366,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199300,
+      "num": 113448,
+      "word": "男子与人冲突好友立马上前道歉",
+      "onboard_time": 1665677781,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198225,
@@ -139,14 +147,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 113448,
-      "num": 113448,
-      "word": "男子与人冲突好友立马上前道歉",
-      "onboard_time": 1665677781,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109594,
       "num": 109594,
       "word": "何以笙箫默的长尾效应",
@@ -193,6 +193,14 @@
       "onboard_time": 1665674245,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 72345,
+      "num": 72345,
+      "word": "李宇春去流量化行动",
+      "onboard_time": 1665677541,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71384,
@@ -267,14 +275,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 57962,
-      "num": 49260,
-      "word": "李宇春去流量化行动",
-      "onboard_time": 1665677541,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 55953,
       "num": 55953,
       "word": "深圳晚霞",
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43758,
+      "num": 43758,
+      "word": "花海的澜教学",
+      "onboard_time": 1665678139,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41272,
       "num": 41272,
       "word": "成都市武侯区调整部分区域风险区等级",
@@ -393,14 +401,6 @@
       "onboard_time": 1665672446,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31392,
-      "num": 31392,
-      "word": "花海的澜教学",
-      "onboard_time": 1665678139,
-      "rank": 49,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

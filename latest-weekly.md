@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/14 00:39:52
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/14 01:09:50
 </p>
 </blockquote>
 <p>
@@ -1959,6 +1959,12 @@ iPhoneSE4或继续保留刘海（热度：378161）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23" target="weibo">
+工信部通报38款APP侵害用户权益（热度：374213）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%AC%E5%BC%80%E4%BF%84%E8%81%94%E9%82%A6%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE%23" target="weibo">
 普京召开俄联邦安全会议（热度：372426）
 </a>
@@ -2039,12 +2045,6 @@ EDG（热度：368917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E4%B8%982%E6%8F%90%E5%89%8D%E4%B8%8A%E6%98%A0%23" target="weibo">
 沙丘2提前上映（热度：358140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23" target="weibo">
-工信部通报38款APP侵害用户权益（热度：357050）
 </a>
 </li>
 
@@ -3375,6 +3375,12 @@ Q4有望播出的古装剧（热度：204303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E5%A5%BD%E5%8F%8B%E7%AB%8B%E9%A9%AC%E4%B8%8A%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
+男子与人冲突好友立马上前道歉（热度：199300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E8%B6%85%E4%BD%8E%E9%9F%B3%23" target="weibo">
 姚琛超低音（热度：198949）
 </a>
@@ -4515,12 +4521,6 @@ JDG战胜G2（热度：121540）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E5%A5%BD%E5%8F%8B%E7%AB%8B%E9%A9%AC%E4%B8%8A%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
-男子与人冲突好友立马上前道歉（热度：113448）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E5%8D%8A%E5%B1%B1%E5%BD%A9%E6%9E%97%E5%8D%8A%E5%B1%B1%E9%9B%AA%23" target="weibo">
 四姑娘山半山彩林半山雪（热度：112306）
 </a>
@@ -5079,6 +5079,12 @@ VogueWorld上海（热度：76016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%BB%E6%B5%81%E9%87%8F%E5%8C%96%E8%A1%8C%E5%8A%A8%23" target="weibo">
+李宇春去流量化行动（热度：72345）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%92%8C%E5%9B%BD%E9%A3%8E%E6%AD%8C%E6%9B%B2%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
 周深和国风歌曲的适配度（热度：71384）
 </a>
@@ -5253,12 +5259,6 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%BB%E6%B5%81%E9%87%8F%E5%8C%96%E8%A1%8C%E5%8A%A8%23" target="weibo">
-李宇春去流量化行动（热度：57962）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%81%97%E5%A4%B110%E4%B8%87%E6%95%91%E5%91%BD%E9%92%B1%E8%B7%AF%E4%BA%BA%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%23" target="weibo">
 老人遗失10万救命钱路人拾金不昧（热度：57357）
 </a>
@@ -5361,6 +5361,12 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E7%9A%84%E6%BE%9C%E6%95%99%E5%AD%A6%23" target="weibo">
+花海的澜教学（热度：43758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2375%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E7%BB%A3%E9%9E%8B%E5%9E%AB%E9%80%81%E6%B6%88%E9%98%B2%E5%91%98%23" target="weibo">
 75岁奶奶连续4年绣鞋垫送消防员（热度：42647）
 </a>
@@ -5435,12 +5441,6 @@ AC米兰0比2切尔西（热度：63822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E4%B8%80%E5%90%8C%E5%85%A5%E4%BC%8D%E6%88%90%E6%B5%B7%E5%86%9B%E6%96%B0%E5%85%B5%23" target="weibo">
 山东双胞胎姐妹一同入伍成海军新兵（热度：32170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E7%9A%84%E6%BE%9C%E6%95%99%E5%AD%A6%23" target="weibo">
-花海的澜教学（热度：31392）
 </a>
 </li>
 

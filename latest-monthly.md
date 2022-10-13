@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 00:39:52
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 01:09:50
 </p>
 </blockquote>
 <p>
@@ -5679,6 +5679,12 @@ TES对战GAM（热度：376826）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23" target="weibo">
+工信部通报38款APP侵害用户权益（热度：374213）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E8%AF%B4%E9%83%BD%E5%88%AB%E6%83%A6%E8%AE%B0%E6%88%91%E7%9A%84%E5%8C%96%E7%9F%B3%E4%BA%86%23" target="weibo">
 张彬彬说都别惦记我的化石了（热度：373282）
 </a>
@@ -5927,12 +5933,6 @@ EDG（热度：368917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E6%89%8D%E8%83%BD%E8%AE%A9%E7%88%B1%E6%9C%89%E6%84%8F%E4%B9%89%23" target="weibo">
 双向奔赴才能让爱有意义（热度：357286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23" target="weibo">
-工信部通报38款APP侵害用户权益（热度：357050）
 </a>
 </li>
 
