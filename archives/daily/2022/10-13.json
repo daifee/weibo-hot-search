@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665640978552,
+  "endTime": 1665642221345,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -91,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840735,
+      "num": 840735,
+      "word": "苏有朋说要摆烂来披荆斩棘干嘛",
+      "onboard_time": 1665639505,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 796507,
-      "num": 306018,
+      "num": 318178,
       "word": "2人在小区群对骂14个月被判相互道歉",
       "onboard_time": 1665637526,
       "rank": 15,
@@ -123,6 +131,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 728968,
+      "num": 728968,
+      "word": "乌克兰基辅州遭到俄武装力量攻击",
+      "onboard_time": 1665638486,
+      "rank": 6,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 705111,
       "num": 663658,
       "word": "Viper",
@@ -145,14 +161,6 @@
       "onboard_time": 1665582267,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 636700,
-      "num": 636700,
-      "word": "乌克兰基辅州遭到俄武装力量攻击",
-      "onboard_time": 1665638486,
-      "rank": 6,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 631602,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561408,
+      "num": 331515,
+      "word": "薄世宁",
+      "onboard_time": 1665640464,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554849,
       "num": 554849,
       "word": "多地支持农民进城购房",
@@ -201,14 +217,6 @@
       "onboard_time": 1665628583,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 545629,
-      "num": 545629,
-      "word": "苏有朋说要摆烂来披荆斩棘干嘛",
-      "onboard_time": 1665639505,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 527932,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424044,
+      "num": 324860,
+      "word": "买完却不穿的衣服就这么来的",
+      "onboard_time": 1665639444,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417573,
       "num": 366397,
       "word": "郑州高新区全民核酸一天两检",
@@ -371,6 +387,22 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 312811,
+      "num": 312811,
+      "word": "女子接诈骗电话自报余额惊呆骗子",
+      "onboard_time": 1665640764,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307108,
+      "num": 307108,
+      "word": "新婚夫妻设计礼金互免卡送朋友",
+      "onboard_time": 1665638005,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300807,
       "num": 300807,
       "word": "看到这张脸很难不怦然心动",
@@ -417,14 +449,6 @@
       "onboard_time": 1665630143,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258984,
-      "num": 258984,
-      "word": "薄世宁",
-      "onboard_time": 1665640464,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256328,
@@ -475,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239100,
-      "num": 239100,
-      "word": "买完却不穿的衣服就这么来的",
-      "onboard_time": 1665639444,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237714,
       "num": 237714,
       "word": "虞书欣说我们下一个角色再见",
@@ -497,14 +513,6 @@
       "onboard_time": 1665631824,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229954,
-      "num": 229954,
-      "word": "新婚夫妻设计礼金互免卡送朋友",
-      "onboard_time": 1665638005,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228858,
@@ -747,6 +755,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 129863,
+      "num": 129863,
+      "word": "张若昀纪念法医秦明六周年",
+      "onboard_time": 1665639384,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124154,
       "num": 124154,
       "word": "13岁哥哥教6岁弟弟拼音被气哭",
@@ -811,14 +827,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 115144,
-      "num": 115144,
-      "word": "张若昀纪念法医秦明六周年",
-      "onboard_time": 1665639384,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 112974,
       "num": 112974,
       "word": "豆豆吐槽大学教务网",
@@ -849,14 +857,6 @@
       "onboard_time": 1665585208,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 102055,
-      "num": 102055,
-      "word": "女子接诈骗电话自报余额惊呆骗子",
-      "onboard_time": 1665640764,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99344,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84727,
+      "num": 324156,
+      "word": "消防员凌晨就餐4名年轻人悄悄买单",
+      "onboard_time": 1665640824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80084,
       "num": 80084,
       "word": "二十大召开时间",
@@ -963,12 +971,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71550,
+      "num": 71550,
+      "word": "休想在小狗眼皮底下偷吃",
+      "onboard_time": 1665641664,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 64693,
+      "num": 64369,
+      "word": "Score确诊新冠",
+      "onboard_time": 1665642083,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64513,
       "num": 64513,
       "word": "孙怡男人装十月封面",
       "onboard_time": 1665566543,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64398,
+      "num": 64398,
+      "word": "鼻子一下子就通了",
+      "onboard_time": 1665642143,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 62289,
@@ -1123,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29319,
+      "num": 339953,
+      "word": "青海戈壁开出27000个蓝色向日葵",
+      "onboard_time": 1665641424,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24570,
       "num": 24570,
       "word": "秦霄贤粉墨江湖杀青路透图",
@@ -1139,12 +1179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18274,
+      "num": 743754,
+      "word": "中国女足为热爱打call",
+      "onboard_time": 1665641484,
+      "rank": 4,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 16113,
       "num": 16113,
       "word": "六公主评陈哲远沈月我的反派男友",
       "onboard_time": 1665568344,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10818,
+      "num": 304457,
+      "word": "一个厨师组的乐队有多酷",
+      "onboard_time": 1665641424,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 7063,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1665602830,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 6765,
-      "num": 314153,
-      "word": "消防员凌晨就餐4名年轻人悄悄买单",
-      "onboard_time": 1665640824,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6579,
