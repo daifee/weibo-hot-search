@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 16:34:04
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 16:52:22
 </p>
 </blockquote>
 <p>
@@ -3801,6 +3801,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8D%96%E4%BE%BF%E5%AE%9C%E4%BA%9B%23" target="weibo">
+法国呼吁美国天然气卖便宜些（热度：501508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E4%BF%84%E5%AE%8C%E5%85%A8%E9%81%B5%E5%AE%88%E4%B8%8D%E5%8F%AF%E5%8F%91%E7%94%9F%E6%A0%B8%E6%88%98%E4%BA%89%E5%A3%B0%E6%98%8E%23" target="weibo">
 俄外交部称俄完全遵守不可发生核战争声明（热度：499325）
 </a>
@@ -3917,6 +3923,12 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CDK%23" target="weibo">
 JDG战胜DK（热度：484636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8B%E7%8F%AD%E9%81%87%E9%A2%86%E5%AF%BC%E6%8C%89%E4%BD%8F%E7%94%B5%E6%A2%AF%E8%A6%81%E6%B1%82%E5%8A%A0%E7%8F%AD%23" target="weibo">
+男子下班遇领导按住电梯要求加班（热度：483701）
 </a>
 </li>
 
@@ -4935,12 +4947,6 @@ T1（热度：412209）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8D%96%E4%BE%BF%E5%AE%9C%E4%BA%9B%23" target="weibo">
-法国呼吁美国天然气卖便宜些（热度：408010）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E5%A4%96%E5%A9%86%E7%BB%9944%E5%B2%81%E5%A4%96%E5%AD%99%E5%BC%BA%E5%A1%9E%E9%9B%B6%E8%8A%B1%E9%92%B1%23" target="weibo">
 90岁外婆给44岁外孙强塞零花钱（热度：407364）
 </a>
@@ -4985,6 +4991,12 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8D%8A%E5%9C%BA%E8%90%BD%E5%90%8E10%E5%88%86%23" target="weibo">
 中国女篮半场落后10分（热度：403804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%944%E7%A2%97%E7%B2%BF%E6%9D%A1545%E5%85%83%E8%A2%AB%E8%B4%A8%E7%96%91%E5%A4%A9%E4%BB%B7%23" target="weibo">
+老板回应4碗粿条545元被质疑天价（热度：403775）
 </a>
 </li>
 
@@ -5625,6 +5637,12 @@ EDG（热度：368917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E5%86%B3%E6%95%B4%E6%B2%BB%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%23" target="weibo">
+要坚决整治层层加码（热度：365843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E6%82%AC%E7%96%91%E8%92%99%E5%A4%AA%E5%A5%87%23" target="weibo">
 梁朝伟王一博程耳悬疑蒙太奇（热度：365150）
 </a>
@@ -5993,24 +6011,6 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%BALGD%E5%8A%A0%E6%B2%B9%23" target="weibo">
 梅西为LGD加油（热度：341824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB%E8%BF%9F%E6%97%A9%E6%98%AF%E6%88%91%E7%9A%84%23" target="weibo">
-这退休生活迟早是我的（热度：341736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E7%94%B7%E5%9B%A2%23" target="weibo">
-中国男团vs斯洛文尼亚男团（热度：341131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E8%A2%AB%E5%90%B5%E9%86%92%E5%90%8E%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
-睡觉被吵醒后的小猫（热度：341103）
 </a>
 </li>
 
