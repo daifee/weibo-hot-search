@@ -1,0 +1,410 @@
+{
+  "runTime": 1665636590059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1848333,
+        "num": 1848333,
+        "word": "女子16年月薪涨60倍存40万回农村",
+        "onboard_time": 1665630803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489471,
+        "num": 1489471,
+        "word": "罗云熙吴倩时隔7年再合作",
+        "onboard_time": 1665631225,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19502,
+        "num": 1433164,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1495092,
+        "num": 1427826,
+        "word": "北大医生称ICU里最能暴露人性",
+        "onboard_time": 1665631403,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413023,
+        "num": 1413023,
+        "word": "JackeyLove回应采访争议",
+        "onboard_time": 1665635008,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 703550,
+        "num": 703550,
+        "word": "女儿让患阿尔茨海默母亲挑豆子",
+        "onboard_time": 1665630085,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631602,
+        "num": 631602,
+        "word": "普京建议转道土耳其向欧洲输送能源",
+        "onboard_time": 1665631106,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 627321,
+        "num": 627321,
+        "word": "唐朝诡事录第二季开篇地狱变",
+        "onboard_time": 1665632727,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587040,
+        "num": 587040,
+        "word": "迪丽热巴龚俊安乐传预计11月播出",
+        "onboard_time": 1665633206,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418281,
+        "num": 418281,
+        "word": "普京称北溪爆炸的受益者是美国",
+        "onboard_time": 1665633865,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 679124,
+        "num": 414217,
+        "word": "Scout确诊",
+        "onboard_time": 1665617721,
+        "rank": 10,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 424307,
+        "num": 408581,
+        "word": "王源任敏新剧操场奔跑花絮",
+        "onboard_time": 1665633927,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400531,
+        "num": 400531,
+        "word": "大闸蟹价格降一半",
+        "onboard_time": 1665624683,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 459953,
+        "num": 397248,
+        "word": "Chovy确诊新冠",
+        "onboard_time": 1665631282,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388972,
+        "num": 388972,
+        "word": "联大紧急特别会议就乌克兰问题通过决议",
+        "onboard_time": 1665629545,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 368076,
+        "num": 368076,
+        "word": "上海拟降低极端通勤人口比例",
+        "onboard_time": 1665635246,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345645,
+        "num": 345645,
+        "word": "京外二十大代表团陆续抵京",
+        "onboard_time": 1665630985,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 337924,
+        "num": 337924,
+        "word": "Canyon确诊新冠",
+        "onboard_time": 1665628224,
+        "rank": 17,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 319147,
+        "num": 319147,
+        "word": "7个迹象发现致命血栓",
+        "onboard_time": 1665632845,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301542,
+        "num": 301542,
+        "word": "男子花4000元网购手机收到手机壳",
+        "onboard_time": 1665624085,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297878,
+        "num": 297878,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259827,
+        "num": 259827,
+        "word": "字母哥脚踢欧文",
+        "onboard_time": 1665630143,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250535,
+        "num": 250535,
+        "word": "4岁孤独症男孩的绝对音感",
+        "onboard_time": 1665631585,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250522,
+        "num": 250522,
+        "word": "女生靠闹铃找回静音手机",
+        "onboard_time": 1665623485,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245696,
+        "num": 245696,
+        "word": "DK",
+        "onboard_time": 1665628103,
+        "rank": 24,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 239900,
+        "num": 239900,
+        "word": "看到这张脸很难不怦然心动",
+        "onboard_time": 1665636028,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230079,
+        "num": 230079,
+        "word": "鞠婧祎solo版以十洲的名义",
+        "onboard_time": 1665631824,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227663,
+        "num": 227663,
+        "word": "郑州高新区全民核酸一天两检",
+        "onboard_time": 1665623906,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220899,
+        "num": 220899,
+        "word": "关系越好回消息越慢",
+        "onboard_time": 1665618502,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 200592,
+        "word": "谁能拒绝彩色玻璃呢",
+        "onboard_time": 1665632727,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180332,
+        "num": 180332,
+        "word": "S12赛事更新",
+        "onboard_time": 1665627442,
+        "rank": 30,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 158557,
+        "num": 158557,
+        "word": "双十一24日晚八点预售",
+        "onboard_time": 1665629065,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157998,
+        "num": 157998,
+        "word": "村民山中捡到13公斤超大松茸菌群",
+        "onboard_time": 1665619226,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148580,
+        "num": 148580,
+        "word": "一下子从冬天切换到夏天",
+        "onboard_time": 1665634225,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "手机APP为何越来越膨胀",
+        "onboard_time": 1665620187,
+        "rank": 34,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 133913,
+        "num": 133913,
+        "word": "猫猫到底能睡得有多死",
+        "onboard_time": 1665618023,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133469,
+        "num": 133469,
+        "word": "月子中心在鸡汤里加党参被罚",
+        "onboard_time": 1665587845,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131902,
+        "num": 131902,
+        "word": "EDG",
+        "onboard_time": 1665618082,
+        "rank": 37,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 123324,
+        "word": "狗狗火场徘徊提醒消防员救小狗",
+        "onboard_time": 1665635727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "追光者定档预告热血救援",
+        "onboard_time": 1665635428,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108633,
+        "num": 108633,
+        "word": "虞书欣说我们下一个角色再见",
+        "onboard_time": 1665620306,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105203,
+        "num": 105203,
+        "word": "张若昀秦明六周年",
+        "onboard_time": 1665630624,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98752,
+        "num": 98752,
+        "word": "追光者定档1014",
+        "onboard_time": 1665628583,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98544,
+        "num": 98544,
+        "word": "父亲10年为女儿QQ点赞3.7万次",
+        "onboard_time": 1665601991,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94756,
+        "num": 94756,
+        "word": "我隔着屏幕都闻到味了",
+        "onboard_time": 1665626905,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93418,
+        "num": 93418,
+        "word": "战损美学天花板",
+        "onboard_time": 1665609371,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90778,
+        "num": 90778,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1665628344,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84639,
+        "num": 84639,
+        "word": "男生经常夸容貌焦虑女友你好漂亮",
+        "onboard_time": 1665590840,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82178,
+        "num": 82178,
+        "word": "多地支持农民进城购房",
+        "onboard_time": 1665622585,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81985,
+        "num": 81985,
+        "word": "12岁女孩看自己5岁视频一脸惊讶",
+        "onboard_time": 1665587304,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}

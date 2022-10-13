@@ -1,7 +1,39 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665630815750,
+  "endTime": 1665636590059,
   "band_list": [
+    {
+      "raw_hot": 1848333,
+      "num": 1848333,
+      "word": "女子16年月薪涨60倍存40万回农村",
+      "onboard_time": 1665630803,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1495092,
+      "num": 1427826,
+      "word": "北大医生称ICU里最能暴露人性",
+      "onboard_time": 1665631403,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1489471,
+      "num": 1489471,
+      "word": "罗云熙吴倩时隔7年再合作",
+      "onboard_time": 1665631225,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1413023,
+      "num": 1413023,
+      "word": "JackeyLove回应采访争议",
+      "onboard_time": 1665635008,
+      "rank": 4,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1376910,
       "num": 1376910,
@@ -75,6 +107,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 703550,
+      "num": 703550,
+      "word": "女儿让患阿尔茨海默母亲挑豆子",
+      "onboard_time": 1665630085,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639263,
       "num": 379259,
       "word": "这就是骨相美人吧",
@@ -83,12 +123,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631602,
+      "num": 631602,
+      "word": "普京建议转道土耳其向欧洲输送能源",
+      "onboard_time": 1665631106,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 627321,
+      "num": 627321,
+      "word": "唐朝诡事录第二季开篇地狱变",
+      "onboard_time": 1665632727,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593624,
-      "num": 340737,
+      "num": 388972,
       "word": "联大紧急特别会议就乌克兰问题通过决议",
       "onboard_time": 1665629545,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 587040,
+      "num": 587040,
+      "word": "迪丽热巴龚俊安乐传预计11月播出",
+      "onboard_time": 1665633206,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 554849,
@@ -131,6 +195,14 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 459953,
+      "num": 397248,
+      "word": "Chovy确诊新冠",
+      "onboard_time": 1665631282,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 450778,
       "num": 450778,
       "word": "我国将建立世界最大国家公园体系",
@@ -145,6 +217,22 @@
       "onboard_time": 1665587304,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424307,
+      "num": 408581,
+      "word": "王源任敏新剧操场奔跑花絮",
+      "onboard_time": 1665633927,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418281,
+      "num": 418281,
+      "word": "普京称北溪爆炸的受益者是美国",
+      "onboard_time": 1665633865,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 417573,
@@ -195,6 +283,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 368076,
+      "num": 368076,
+      "word": "上海拟降低极端通勤人口比例",
+      "onboard_time": 1665635246,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358446,
       "num": 290714,
       "word": "北京首批毕业生公寓全装修新房月租2000元起",
@@ -203,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345645,
+      "num": 345645,
+      "word": "京外二十大代表团陆续抵京",
+      "onboard_time": 1665630985,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 328477,
       "num": 287701,
       "word": "李宇春强直性脊柱炎",
       "onboard_time": 1665572245,
       "rank": 11,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 319147,
+      "num": 319147,
+      "word": "7个迹象发现致命血栓",
+      "onboard_time": 1665632845,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299421,
@@ -243,6 +355,22 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 259827,
+      "num": 259827,
+      "word": "字母哥脚踢欧文",
+      "onboard_time": 1665630143,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250535,
+      "num": 250535,
+      "word": "4岁孤独症男孩的绝对音感",
+      "onboard_time": 1665631585,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245252,
       "num": 245252,
       "word": "男生经常夸容貌焦虑女友你好漂亮",
@@ -267,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239900,
+      "num": 239900,
+      "word": "看到这张脸很难不怦然心动",
+      "onboard_time": 1665636028,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237714,
       "num": 237714,
       "word": "虞书欣说我们下一个角色再见",
       "onboard_time": 1665620306,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "鞠婧祎solo版以十洲的名义",
+      "onboard_time": 1665631824,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 228858,
@@ -329,6 +473,14 @@
       "onboard_time": 1665623306,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200592,
+      "num": 200592,
+      "word": "谁能拒绝彩色玻璃呢",
+      "onboard_time": 1665632727,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 193180,
@@ -411,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161783,
-      "num": 161783,
-      "word": "女儿让患阿尔茨海默母亲挑豆子",
-      "onboard_time": 1665630085,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156293,
       "num": 156293,
       "word": "广州花都三条街道开展全员核酸检测",
@@ -459,12 +603,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148945,
-      "num": 148945,
-      "word": "字母哥脚踢欧文",
-      "onboard_time": 1665630143,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 148580,
+      "num": 148580,
+      "word": "一下子从冬天切换到夏天",
+      "onboard_time": 1665634225,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 145177,
@@ -499,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123324,
+      "num": 123324,
+      "word": "狗狗火场徘徊提醒消防员救小狗",
+      "onboard_time": 1665635727,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "我国成功发射5米S-SAR01星",
       "onboard_time": 1665618984,
       "rank": 34,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 123258,
+      "num": 123258,
+      "word": "追光者定档预告热血救援",
+      "onboard_time": 1665635428,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 120042,
@@ -604,7 +764,7 @@
     },
     {
       "raw_hot": 88890,
-      "num": 864944,
+      "num": 1433164,
       "word": "中国的十个维度",
       "onboard_time": 1665579743,
       "rank": 2,
@@ -656,14 +816,6 @@
       "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
       "onboard_time": 1665563783,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76538,
-      "num": 76538,
-      "word": "女子16年月薪涨60倍存40万回农村",
-      "onboard_time": 1665630803,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
