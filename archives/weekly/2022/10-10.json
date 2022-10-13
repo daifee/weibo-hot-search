@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665637485523,
+  "endTime": 1665640978552,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -257,6 +257,14 @@
       "onboard_time": 1665560182,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1366961,
+      "num": 431043,
+      "word": "TFBOYS声乐老师晒新歌歌词本",
+      "onboard_time": 1665638425,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1350590,
@@ -683,6 +691,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 796507,
+      "num": 306018,
+      "word": "2人在小区群对骂14个月被判相互道歉",
+      "onboard_time": 1665637526,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794369,
       "num": 794369,
       "word": "当代人血液里有一半是咖啡",
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705111,
+      "num": 663658,
+      "word": "Viper",
+      "onboard_time": 1665636929,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 703830,
       "num": 703830,
       "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1665371182,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 636700,
+      "num": 636700,
+      "word": "乌克兰基辅州遭到俄武装力量攻击",
+      "onboard_time": 1665638486,
+      "rank": 6,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 631602,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1665418401,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 545629,
+      "num": 545629,
+      "word": "苏有朋说要摆烂来披荆斩棘干嘛",
+      "onboard_time": 1665639505,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 545148,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1665631282,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 459751,
+      "num": 459751,
+      "word": "王鹤棣密室大逃脱收官宴剧照",
+      "onboard_time": 1665638067,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 459102,
@@ -3131,6 +3179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258984,
+      "num": 258984,
+      "word": "薄世宁",
+      "onboard_time": 1665640464,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "教育局通报中学收20元树叶费",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1665399325,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256328,
+      "num": 256328,
+      "word": "原来运动会这么容易社死",
+      "onboard_time": 1665637826,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 254951,
@@ -3251,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249641,
+      "num": 249641,
+      "word": "男童获救时紧紧抓着水底昏迷的爸爸",
+      "onboard_time": 1665636685,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248610,
       "num": 248610,
       "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
@@ -3315,12 +3387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240789,
-      "num": 240789,
-      "word": "Viper",
-      "onboard_time": 1665636929,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 239100,
+      "num": 239100,
+      "word": "买完却不穿的衣服就这么来的",
+      "onboard_time": 1665639444,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 237714,
@@ -3417,6 +3489,14 @@
       "onboard_time": 1665631824,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229954,
+      "num": 229954,
+      "word": "新婚夫妻设计礼金互免卡送朋友",
+      "onboard_time": 1665638005,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229177,
@@ -3657,6 +3737,14 @@
       "onboard_time": 1665473545,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 210786,
+      "num": 210786,
+      "word": "披荆斩棘",
+      "onboard_time": 1665638605,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 210603,
@@ -4329,6 +4417,14 @@
       "onboard_time": 1665368362,
       "rank": 28,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "张云龙Mike仁科披荆斩棘爆料局",
+      "onboard_time": 1665637766,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 158911,
@@ -5027,14 +5123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122523,
-      "num": 122523,
-      "word": "男童获救时紧紧抓着水底昏迷的爸爸",
-      "onboard_time": 1665636685,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "虞书欣也舍不得小森林大结局",
@@ -5065,6 +5153,14 @@
       "onboard_time": 1665392664,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120566,
+      "num": 120566,
+      "word": "曾可妮被绑架戏好虐",
+      "onboard_time": 1665638785,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 120288,
@@ -5137,6 +5233,14 @@
       "onboard_time": 1665621387,
       "rank": 36,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 115144,
+      "num": 115144,
+      "word": "张若昀纪念法医秦明六周年",
+      "onboard_time": 1665639384,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114958,
@@ -5345,6 +5449,14 @@
       "onboard_time": 1665521351,
       "rank": 30,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "女子接诈骗电话自报余额惊呆骗子",
+      "onboard_time": 1665640764,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101912,
@@ -6019,6 +6131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54357,
+      "num": 167265,
+      "word": "拉祜族女生为爱写的歌好感动",
+      "onboard_time": 1665637704,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
@@ -6361,6 +6481,14 @@
       "onboard_time": 1665602830,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 6765,
+      "num": 314153,
+      "word": "消防员凌晨就餐4名年轻人悄悄买单",
+      "onboard_time": 1665640824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6579,

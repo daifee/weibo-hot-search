@@ -1,0 +1,410 @@
+{
+  "runTime": 1665640978552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322867,
+        "num": 1322867,
+        "word": "女子16年月薪涨60倍存40万回农村",
+        "onboard_time": 1665630803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814246,
+        "num": 814246,
+        "word": "JackeyLove回应采访争议",
+        "onboard_time": 1665635008,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12525,
+        "num": 741973,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922569,
+        "num": 738654,
+        "word": "北大医生称ICU里最能暴露人性",
+        "onboard_time": 1665631403,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680600,
+        "num": 680600,
+        "word": "罗云熙吴倩时隔7年再合作",
+        "onboard_time": 1665631225,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705111,
+        "num": 663658,
+        "word": "Viper",
+        "onboard_time": 1665636929,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 636700,
+        "num": 636700,
+        "word": "乌克兰基辅州遭到俄武装力量攻击",
+        "onboard_time": 1665638486,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 545629,
+        "num": 545629,
+        "word": "苏有朋说要摆烂来披荆斩棘干嘛",
+        "onboard_time": 1665639505,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459751,
+        "num": 459751,
+        "word": "王鹤棣密室大逃脱收官宴剧照",
+        "onboard_time": 1665638067,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437798,
+        "num": 437798,
+        "word": "女儿让患阿尔茨海默母亲挑豆子",
+        "onboard_time": 1665630085,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366961,
+        "num": 431043,
+        "word": "TFBOYS声乐老师晒新歌歌词本",
+        "onboard_time": 1665638425,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413621,
+        "num": 413621,
+        "word": "上海拟降低极端通勤人口比例",
+        "onboard_time": 1665635246,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369505,
+        "num": 369505,
+        "word": "普京称北溪爆炸的受益者是美国",
+        "onboard_time": 1665633865,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 351198,
+        "num": 351198,
+        "word": "唐朝诡事录第二季开篇地狱变",
+        "onboard_time": 1665632727,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6765,
+        "num": 314153,
+        "word": "消防员凌晨就餐4名年轻人悄悄买单",
+        "onboard_time": 1665640824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796507,
+        "num": 306018,
+        "word": "2人在小区群对骂14个月被判相互道歉",
+        "onboard_time": 1665637526,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281377,
+        "num": 281377,
+        "word": "看到这张脸很难不怦然心动",
+        "onboard_time": 1665636028,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258984,
+        "num": 258984,
+        "word": "薄世宁",
+        "onboard_time": 1665640464,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256328,
+        "num": 256328,
+        "word": "原来运动会这么容易社死",
+        "onboard_time": 1665637826,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249641,
+        "num": 249641,
+        "word": "男童获救时紧紧抓着水底昏迷的爸爸",
+        "onboard_time": 1665636685,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239100,
+        "num": 239100,
+        "word": "买完却不穿的衣服就这么来的",
+        "onboard_time": 1665639444,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229954,
+        "num": 229954,
+        "word": "新婚夫妻设计礼金互免卡送朋友",
+        "onboard_time": 1665638005,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210786,
+        "num": 210786,
+        "word": "披荆斩棘",
+        "onboard_time": 1665638605,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207928,
+        "num": 207928,
+        "word": "Chovy确诊新冠",
+        "onboard_time": 1665631282,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207903,
+        "num": 207903,
+        "word": "迪丽热巴龚俊安乐传预计11月播出",
+        "onboard_time": 1665633206,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207709,
+        "num": 207709,
+        "word": "7个迹象发现致命血栓",
+        "onboard_time": 1665632845,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185435,
+        "num": 185435,
+        "word": "普京建议转道土耳其向欧洲输送能源",
+        "onboard_time": 1665631106,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 181492,
+        "num": 181492,
+        "word": "狗狗火场徘徊提醒消防员救小狗",
+        "onboard_time": 1665635727,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175386,
+        "num": 175386,
+        "word": "王源任敏新剧操场奔跑花絮",
+        "onboard_time": 1665633927,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54357,
+        "num": 167265,
+        "word": "拉祜族女生为爱写的歌好感动",
+        "onboard_time": 1665637704,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159335,
+        "num": 159335,
+        "word": "张云龙Mike仁科披荆斩棘爆料局",
+        "onboard_time": 1665637766,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149464,
+        "num": 149464,
+        "word": "4岁孤独症男孩的绝对音感",
+        "onboard_time": 1665631585,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146370,
+        "num": 146370,
+        "word": "大闸蟹价格降一半",
+        "onboard_time": 1665624683,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 129460,
+        "num": 129460,
+        "word": "Scout确诊",
+        "onboard_time": 1665617721,
+        "rank": 33,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "京外二十大代表团陆续抵京",
+        "onboard_time": 1665630985,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 127250,
+        "num": 127250,
+        "word": "字母哥脚踢欧文",
+        "onboard_time": 1665630143,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126692,
+        "num": 126692,
+        "word": "Canyon确诊新冠",
+        "onboard_time": 1665628224,
+        "rank": 36,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 124718,
+        "num": 124718,
+        "word": "男子花4000元网购手机收到手机壳",
+        "onboard_time": 1665624085,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121233,
+        "num": 121233,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120566,
+        "num": 120566,
+        "word": "曾可妮被绑架戏好虐",
+        "onboard_time": 1665638785,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115144,
+        "num": 115144,
+        "word": "张若昀纪念法医秦明六周年",
+        "onboard_time": 1665639384,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112295,
+        "num": 112295,
+        "word": "郑州高新区全民核酸一天两检",
+        "onboard_time": 1665623906,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110104,
+        "num": 110104,
+        "word": "DK",
+        "onboard_time": 1665628103,
+        "rank": 42,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 104864,
+        "num": 104864,
+        "word": "联大紧急特别会议就乌克兰问题通过决议",
+        "onboard_time": 1665629545,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 103387,
+        "num": 103387,
+        "word": "谁能拒绝彩色玻璃呢",
+        "onboard_time": 1665632727,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102055,
+        "num": 102055,
+        "word": "女子接诈骗电话自报余额惊呆骗子",
+        "onboard_time": 1665640764,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93097,
+        "num": 93097,
+        "word": "女生靠闹铃找回静音手机",
+        "onboard_time": 1665623485,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87490,
+        "num": 87490,
+        "word": "关系越好回消息越慢",
+        "onboard_time": 1665618502,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84392,
+        "num": 84392,
+        "word": "鞠婧祎solo版以十洲的名义",
+        "onboard_time": 1665631824,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82578,
+        "num": 82578,
+        "word": "村民山中捡到13公斤超大松茸菌群",
+        "onboard_time": 1665619226,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}

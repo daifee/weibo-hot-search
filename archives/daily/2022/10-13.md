@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/13 00:47:30 ~ 2022/10/13 13:04:45
+本榜单时间：2022/10/13 00:47:30 ~ 2022/10/13 14:02:58
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@ JackeyLove回应采访争议（热度：1462972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%A3%B0%E4%B9%90%E8%80%81%E5%B8%88%E6%99%92%E6%96%B0%E6%AD%8C%E6%AD%8C%E8%AF%8D%E6%9C%AC%23" target="weibo">
+TFBOYS声乐老师晒新歌歌词本（热度：1366961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Scout%E7%A1%AE%E8%AF%8A%23" target="weibo">
 Scout确诊（热度：1288170）
 </a>
@@ -75,6 +81,12 @@ Scout确诊（热度：1288170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E4%BA%BA%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%BE%A4%E5%AF%B9%E9%AA%8214%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%88%A4%E7%9B%B8%E4%BA%92%E9%81%93%E6%AD%89%23" target="weibo">
+2人在小区群对骂14个月被判相互道歉（热度：796507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%80%E5%8D%8A%23" target="weibo">
 大闸蟹价格降一半（热度：788356）
 </a>
@@ -93,6 +105,12 @@ Canyon确诊新冠（热度：752162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Viper%23" target="weibo">
+Viper（热度：705111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AE%A9%E6%82%A3%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E6%AF%8D%E4%BA%B2%E6%8C%91%E8%B1%86%E5%AD%90%23" target="weibo">
 女儿让患阿尔茨海默母亲挑豆子（热度：703550）
 </a>
@@ -101,6 +119,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E9%AA%A8%E7%9B%B8%E7%BE%8E%E4%BA%BA%E5%90%A7%23" target="weibo">
 这就是骨相美人吧（热度：639263）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9F%BA%E8%BE%85%E5%B7%9E%E9%81%AD%E5%88%B0%E4%BF%84%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E6%94%BB%E5%87%BB%23" target="weibo">
+乌克兰基辅州遭到俄武装力量攻击（热度：636700）
 </a>
 </li>
 
@@ -141,6 +165,12 @@ Canyon确诊新冠（热度：752162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%AF%B4%E8%A6%81%E6%91%86%E7%83%82%E6%9D%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%B9%B2%E5%98%9B%23" target="weibo">
+苏有朋说要摆烂来披荆斩棘干嘛（热度：545629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
 我睡着了连我自己都害怕（热度：527932）
 </a>
@@ -173,6 +203,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Chovy%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23" target="weibo">
 Chovy确诊新冠（热度：459953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E6%94%B6%E5%AE%98%E5%AE%B4%E5%89%A7%E7%85%A7%23" target="weibo">
+王鹤棣密室大逃脱收官宴剧照（热度：459751）
 </a>
 </li>
 
@@ -291,8 +327,26 @@ EDG（热度：368917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%84%E4%B8%96%E5%AE%81%23" target="weibo">
+薄世宁（热度：258984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%BF%99%E4%B9%88%E5%AE%B9%E6%98%93%E7%A4%BE%E6%AD%BB%23" target="weibo">
+原来运动会这么容易社死（热度：256328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%AD%A4%E7%8B%AC%E7%97%87%E7%94%B7%E5%AD%A9%E7%9A%84%E7%BB%9D%E5%AF%B9%E9%9F%B3%E6%84%9F%23" target="weibo">
 4岁孤独症男孩的绝对音感（热度：250535）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%8E%B7%E6%95%91%E6%97%B6%E7%B4%A7%E7%B4%A7%E6%8A%93%E7%9D%80%E6%B0%B4%E5%BA%95%E6%98%8F%E8%BF%B7%E7%9A%84%E7%88%B8%E7%88%B8%23" target="weibo">
+男童获救时紧紧抓着水底昏迷的爸爸（热度：249641）
 </a>
 </li>
 
@@ -315,8 +369,8 @@ EDG（热度：368917）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Viper%23" target="weibo">
-Viper（热度：240789）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%AE%8C%E5%8D%B4%E4%B8%8D%E7%A9%BF%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%B0%B1%E8%BF%99%E4%B9%88%E6%9D%A5%E7%9A%84%23" target="weibo">
+买完却不穿的衣服就这么来的（热度：239100）
 </a>
 </li>
 
@@ -329,6 +383,12 @@ Viper（热度：240789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8Esolo%E7%89%88%E4%BB%A5%E5%8D%81%E6%B4%B2%E7%9A%84%E5%90%8D%E4%B9%89%23" target="weibo">
 鞠婧祎solo版以十洲的名义（热度：230079）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E8%AE%BE%E8%AE%A1%E7%A4%BC%E9%87%91%E4%BA%92%E5%85%8D%E5%8D%A1%E9%80%81%E6%9C%8B%E5%8F%8B%23" target="weibo">
+新婚夫妻设计礼金互免卡送朋友（热度：229954）
 </a>
 </li>
 
@@ -353,6 +413,12 @@ Viper（热度：240789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%B4%E5%A8%98%E6%8B%BF%E9%BA%BB%E5%B0%86%E5%85%AD%E4%B8%87%E9%9A%8F%E7%A4%BC%E7%9C%8B%E6%87%B5%E8%AE%B0%E8%B4%A6%E5%A4%A7%E7%88%B7%23" target="weibo">
 伴娘拿麻将六万随礼看懵记账大爷（热度：215567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23" target="weibo">
+披荆斩棘（热度：210786）
 </a>
 </li>
 
@@ -447,6 +513,12 @@ Viper（热度：240789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99Mike%E4%BB%81%E7%A7%91%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%88%86%E6%96%99%E5%B1%80%23" target="weibo">
+张云龙Mike仁科披荆斩棘爆料局（热度：159335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%8A%B1%E9%83%BD%E4%B8%89%E6%9D%A1%E8%A1%97%E9%81%93%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23" target="weibo">
 广州花都三条街道开展全员核酸检测（热度：156293）
 </a>
@@ -519,8 +591,8 @@ Viper（热度：240789）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%8E%B7%E6%95%91%E6%97%B6%E7%B4%A7%E7%B4%A7%E6%8A%93%E7%9D%80%E6%B0%B4%E5%BA%95%E6%98%8F%E8%BF%B7%E7%9A%84%E7%88%B8%E7%88%B8%23" target="weibo">
-男童获救时紧紧抓着水底昏迷的爸爸（热度：122523）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%8F%AF%E5%A6%AE%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%88%8F%E5%A5%BD%E8%99%90%23" target="weibo">
+曾可妮被绑架戏好虐（热度：120566）
 </a>
 </li>
 
@@ -549,6 +621,12 @@ Viper（热度：240789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BA%AA%E5%BF%B5%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E%E5%85%AD%E5%91%A8%E5%B9%B4%23" target="weibo">
+张若昀纪念法医秦明六周年（热度：115144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E8%B1%86%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E6%95%99%E5%8A%A1%E7%BD%91%23" target="weibo">
 豆豆吐槽大学教务网（热度：112974）
 </a>
@@ -569,6 +647,12 @@ Viper（热度：240789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%83%8F%E7%9C%9F%E7%9A%84%E4%B8%80%E6%A0%B7%E5%8F%91%E8%A1%8C%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
 张杰像真的一样发行一周年（热度：103441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E8%87%AA%E6%8A%A5%E4%BD%99%E9%A2%9D%E6%83%8A%E5%91%86%E9%AA%97%E5%AD%90%23" target="weibo">
+女子接诈骗电话自报余额惊呆骗子（热度：102055）
 </a>
 </li>
 
@@ -671,6 +755,12 @@ TI11名单确认（热度：80066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E8%80%851%E6%AF%947%E5%88%A9%E7%89%A9%E6%B5%A6%23" target="weibo">
 流浪者1比7利物浦（热度：59097）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E7%A5%9C%E6%97%8F%E5%A5%B3%E7%94%9F%E4%B8%BA%E7%88%B1%E5%86%99%E7%9A%84%E6%AD%8C%E5%A5%BD%E6%84%9F%E5%8A%A8%23" target="weibo">
+拉祜族女生为爱写的歌好感动（热度：54357）
 </a>
 </li>
 
@@ -791,6 +881,12 @@ TI11名单确认（热度：80066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E7%94%BB%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E7%9A%84%E5%BF%83%E5%8A%A8%23" target="weibo">
 漫画照进现实的心动（热度：6792）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%87%8C%E6%99%A8%E5%B0%B1%E9%A4%904%E5%90%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%82%84%E6%82%84%E4%B9%B0%E5%8D%95%23" target="weibo">
+消防员凌晨就餐4名年轻人悄悄买单（热度：6765）
 </a>
 </li>
 
