@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665672547665,
+  "endTime": 1665674923566,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -65,6 +65,14 @@
       "onboard_time": 1665617721,
       "rank": 11,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1216995,
+      "num": 806171,
+      "word": "好像突然没那么焦虑了",
+      "onboard_time": 1665667467,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 1209397,
@@ -177,14 +185,6 @@
       "onboard_time": 1665640764,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806171,
-      "num": 806171,
-      "word": "好像突然没那么焦虑了",
-      "onboard_time": 1665667467,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 796507,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504037,
+      "num": 212019,
+      "word": "公公领工资第一时间全塞给儿媳",
+      "onboard_time": 1665672925,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501833,
       "num": 358069,
       "word": "IU首登韩版Vogue11月刊",
@@ -473,6 +481,14 @@
       "onboard_time": 1665620187,
       "rank": 7,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 465256,
+      "num": 210900,
+      "word": "眉姐姐美貌图鉴",
+      "onboard_time": 1665673045,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463799,
@@ -513,6 +529,14 @@
       "onboard_time": 1665659963,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454881,
+      "num": 454881,
+      "word": "全班43人帮9岁听障女孩练习说话",
+      "onboard_time": 1665668544,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 450778,
@@ -569,14 +593,6 @@
       "onboard_time": 1665633927,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 420641,
-      "num": 420641,
-      "word": "全班43人帮9岁听障女孩练习说话",
-      "onboard_time": 1665668544,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 417573,
@@ -699,6 +715,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 321967,
+      "num": 321967,
+      "word": "大学教授坚持26年手写板书",
+      "onboard_time": 1665668965,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 319340,
       "num": 319340,
       "word": "美国9月CPI同比上涨8.2%",
@@ -769,14 +793,6 @@
       "onboard_time": 1665662123,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 263358,
-      "num": 263358,
-      "word": "大学教授坚持26年手写板书",
-      "onboard_time": 1665668965,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 260503,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240588,
+      "num": 240588,
+      "word": "铁三角说再见但没完全再见",
+      "onboard_time": 1665669264,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237714,
       "num": 237714,
       "word": "虞书欣说我们下一个角色再见",
@@ -1003,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214787,
+      "num": 214787,
+      "word": "在家数1万粒米算是奇葩作业吗",
+      "onboard_time": 1665672566,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 210786,
       "num": 210786,
       "word": "披荆斩棘",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1665609371,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204314,
+      "num": 204314,
+      "word": "馋猫围观主人煮肉胡子眉毛被烫卷",
+      "onboard_time": 1665671065,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204303,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1665574284,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176444,
-      "num": 176444,
-      "word": "铁三角说再见但没完全再见",
-      "onboard_time": 1665669264,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 175128,
@@ -1307,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150573,
+      "num": 150573,
+      "word": "创造LPL的时代",
+      "onboard_time": 1665673585,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148580,
       "num": 148580,
       "word": "一下子从冬天切换到夏天",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1665656664,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129342,
-      "num": 129342,
-      "word": "馋猫围观主人煮肉胡子眉毛被烫卷",
-      "onboard_time": 1665671065,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124919,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1665640824,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106732,
+      "num": 101254,
+      "word": "没想到沈腾还有这样一面",
+      "onboard_time": 1665674305,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104625,
@@ -1667,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74141,
+      "num": 74141,
+      "word": "孙铭徽20分",
+      "onboard_time": 1665672446,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73400,
       "num": 73400,
       "word": "脱口秀大会",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1665648024,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66789,
+      "num": 66789,
+      "word": "那些一个字的歌名有多绝",
+      "onboard_time": 1665674245,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 66735,
@@ -1739,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61188,
+      "num": 61188,
+      "word": "喜欢和热爱生活的人在一起",
+      "onboard_time": 1665674366,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60259,
       "num": 612171,
       "word": "你镜头下记录的十年变化",
@@ -1760,14 +1824,6 @@
       "word": "流浪者1比7利物浦",
       "onboard_time": 1665617540,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56883,
-      "num": 56883,
-      "word": "孙铭徽20分",
-      "onboard_time": 1665672446,
-      "rank": 49,
       "category": "体育"
     },
     {
