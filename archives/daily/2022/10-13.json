@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665636590059,
+  "endTime": 1665637485523,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1495092,
-      "num": 1427826,
+      "num": 1447842,
       "word": "北大医生称ICU里最能暴露人性",
       "onboard_time": 1665631403,
       "rank": 3,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1413023,
-      "num": 1413023,
+      "raw_hot": 1462972,
+      "num": 1462972,
       "word": "JackeyLove回应采访争议",
       "onboard_time": 1665635008,
       "rank": 4,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511369,
+      "num": 468612,
+      "word": "上海拟降低极端通勤人口比例",
+      "onboard_time": 1665635246,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482995,
       "num": 482995,
       "word": "手机APP为何越来越膨胀",
@@ -195,8 +203,16 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 462464,
+      "num": 462464,
+      "word": "普京称北溪爆炸的受益者是美国",
+      "onboard_time": 1665633865,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 459953,
-      "num": 397248,
+      "num": 470185,
       "word": "Chovy确诊新冠",
       "onboard_time": 1665631282,
       "rank": 13,
@@ -225,14 +241,6 @@
       "onboard_time": 1665633927,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 418281,
-      "num": 418281,
-      "word": "普京称北溪爆炸的受益者是美国",
-      "onboard_time": 1665633865,
-      "rank": 9,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 417573,
@@ -283,14 +291,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 368076,
-      "num": 368076,
-      "word": "上海拟降低极端通勤人口比例",
-      "onboard_time": 1665635246,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358446,
       "num": 290714,
       "word": "北京首批毕业生公寓全装修新房月租2000元起",
@@ -307,6 +307,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 338285,
+      "num": 338285,
+      "word": "7个迹象发现致命血栓",
+      "onboard_time": 1665632845,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328477,
       "num": 287701,
       "word": "李宇春强直性脊柱炎",
@@ -315,12 +323,12 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 319147,
-      "num": 319147,
-      "word": "7个迹象发现致命血栓",
-      "onboard_time": 1665632845,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 300807,
+      "num": 300807,
+      "word": "看到这张脸很难不怦然心动",
+      "onboard_time": 1665636028,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 299421,
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239900,
-      "num": 239900,
-      "word": "看到这张脸很难不怦然心动",
-      "onboard_time": 1665636028,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 240789,
+      "num": 240789,
+      "word": "Viper",
+      "onboard_time": 1665636929,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 237714,
@@ -489,6 +497,14 @@
       "onboard_time": 1665583645,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188198,
+      "num": 188198,
+      "word": "狗狗火场徘徊提醒消防员救小狗",
+      "onboard_time": 1665635727,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186497,
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123324,
-      "num": 123324,
-      "word": "狗狗火场徘徊提醒消防员救小狗",
-      "onboard_time": 1665635727,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "我国成功发射5米S-SAR01星",
@@ -665,6 +673,14 @@
       "onboard_time": 1665635428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122523,
+      "num": 122523,
+      "word": "男童获救时紧紧抓着水底昏迷的爸爸",
+      "onboard_time": 1665636685,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120042,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 88890,
-      "num": 1433164,
+      "num": 1451444,
       "word": "中国的十个维度",
       "onboard_time": 1665579743,
       "rank": 2,

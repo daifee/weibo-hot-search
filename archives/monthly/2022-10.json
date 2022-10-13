@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665636590059,
+  "endTime": 1665637485523,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 1495092,
-      "num": 1427826,
+      "num": 1447842,
       "word": "北大医生称ICU里最能暴露人性",
       "onboard_time": 1665631403,
       "rank": 3,
@@ -897,6 +897,14 @@
       "onboard_time": 1665300503,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1462972,
+      "num": 1462972,
+      "word": "JackeyLove回应采访争议",
+      "onboard_time": 1665635008,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1453694,
@@ -953,14 +961,6 @@
       "onboard_time": 1664810964,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1413023,
-      "num": 1413023,
-      "word": "JackeyLove回应采访争议",
-      "onboard_time": 1665635008,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1412638,
@@ -4803,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511369,
+      "num": 468612,
+      "word": "上海拟降低极端通勤人口比例",
+      "onboard_time": 1665635246,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511113,
       "num": 511113,
       "word": "俄官员警告西方不要触犯俄罗斯红线",
@@ -5491,6 +5499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 462464,
+      "num": 462464,
+      "word": "普京称北溪爆炸的受益者是美国",
+      "onboard_time": 1665633865,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 462391,
       "num": 462391,
       "word": "金秋天NewThing舞蹈挑战",
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 459953,
-      "num": 397248,
+      "num": 470185,
       "word": "Chovy确诊新冠",
       "onboard_time": 1665631282,
       "rank": 13,
@@ -6241,14 +6257,6 @@
       "onboard_time": 1665417383,
       "rank": 10,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 418281,
-      "num": 418281,
-      "word": "普京称北溪爆炸的受益者是美国",
-      "onboard_time": 1665633865,
-      "rank": 9,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 417573,
@@ -7291,14 +7299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368076,
-      "num": 368076,
-      "word": "上海拟降低极端通勤人口比例",
-      "onboard_time": 1665635246,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367923,
       "num": 333693,
       "word": "我军飞行员距离100米驱离外军机",
@@ -7955,6 +7955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338285,
+      "num": 338285,
+      "word": "7个迹象发现致命血栓",
+      "onboard_time": 1665632845,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338147,
       "num": 338147,
       "word": "谷爱凌看秀生图",
@@ -8305,14 +8313,6 @@
       "onboard_time": 1665240566,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319147,
-      "num": 319147,
-      "word": "7个迹象发现致命血栓",
-      "onboard_time": 1665632845,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319128,
@@ -8689,6 +8689,14 @@
       "onboard_time": 1665482004,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300807,
+      "num": 300807,
+      "word": "看到这张脸很难不怦然心动",
+      "onboard_time": 1665636028,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 300628,
@@ -10875,6 +10883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240789,
+      "num": 240789,
+      "word": "Viper",
+      "onboard_time": 1665636929,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240729,
       "num": 240729,
       "word": "这是游戏界的天花板吧",
@@ -10889,14 +10905,6 @@
       "onboard_time": 1665322287,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239900,
-      "num": 239900,
-      "word": "看到这张脸很难不怦然心动",
-      "onboard_time": 1665636028,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 239344,
@@ -13089,6 +13097,14 @@
       "onboard_time": 1664618662,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188198,
+      "num": 188198,
+      "word": "狗狗火场徘徊提醒消防员救小狗",
+      "onboard_time": 1665635727,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188128,
@@ -16571,14 +16587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123324,
-      "num": 123324,
-      "word": "狗狗火场徘徊提醒消防员救小狗",
-      "onboard_time": 1665635727,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "我国成功发射5米S-SAR01星",
@@ -16640,6 +16648,14 @@
       "word": "太原新增确诊病例5例",
       "onboard_time": 1664669421,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122523,
+      "num": 122523,
+      "word": "男童获救时紧紧抓着水底昏迷的爸爸",
+      "onboard_time": 1665636685,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -18556,7 +18572,7 @@
     },
     {
       "raw_hot": 88890,
-      "num": 1433164,
+      "num": 1451444,
       "word": "中国的十个维度",
       "onboard_time": 1665579743,
       "rank": 2,
