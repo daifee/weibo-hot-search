@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665661247468,
+  "endTime": 1665665877723,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -73,6 +73,14 @@
       "onboard_time": 1665648565,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076299,
+      "num": 304382,
+      "word": "诺言恋爱",
+      "onboard_time": 1665662123,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1004231,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562363,
+      "num": 562363,
+      "word": "网购云南菌子盲盒有多绝",
+      "onboard_time": 1665659243,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 561408,
       "num": 331515,
       "word": "薄世宁",
@@ -329,6 +345,14 @@
       "onboard_time": 1665622585,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552521,
+      "num": 473342,
+      "word": "原来友情没有真正的be",
+      "onboard_time": 1665657204,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 550754,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507743,
+      "num": 458358,
+      "word": "人生大事中国台湾网飞热度",
+      "onboard_time": 1665665306,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501833,
       "num": 358069,
       "word": "IU首登韩版Vogue11月刊",
@@ -395,12 +427,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 484064,
+      "num": 484064,
+      "word": "爷爷第一次见孙子又放炮又脱衣服",
+      "onboard_time": 1665663144,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482995,
       "num": 482995,
       "word": "手机APP为何越来越膨胀",
       "onboard_time": 1665620187,
       "rank": 7,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 463799,
+      "num": 301914,
+      "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+      "onboard_time": 1665660622,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462464,
@@ -427,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455122,
+      "num": 455122,
+      "word": "近视的主要因素是这6个字",
+      "onboard_time": 1665659963,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450778,
       "num": 450778,
       "word": "我国将建立世界最大国家公园体系",
@@ -441,14 +497,6 @@
       "onboard_time": 1665651802,
       "rank": 20,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 447435,
-      "num": 397949,
-      "word": "原来友情没有真正的be",
-      "onboard_time": 1665657204,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 444059,
@@ -497,6 +545,14 @@
       "onboard_time": 1665587785,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406873,
+      "num": 406873,
+      "word": "高伟光说鹧鸪哨又回来了",
+      "onboard_time": 1665664883,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 405022,
@@ -651,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288521,
+      "num": 288521,
+      "word": "长相思主创核心卖点是主演杨紫",
+      "onboard_time": 1665665426,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269352,
       "num": 269352,
       "word": "这真的是猫菜瘾大",
@@ -713,14 +777,6 @@
       "onboard_time": 1665636685,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247214,
-      "num": 247214,
-      "word": "网购云南菌子盲盒有多绝",
-      "onboard_time": 1665659243,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 246135,
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203544,
+      "num": 203544,
+      "word": "深圳晚霞",
+      "onboard_time": 1665663203,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202811,
       "num": 202811,
       "word": "吴克群马頔好久不见全程泪点",
@@ -937,6 +1001,14 @@
       "onboard_time": 1665632727,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199495,
+      "num": 199495,
+      "word": "原来口红色号可以这么选",
+      "onboard_time": 1665662123,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 194309,
@@ -985,6 +1057,14 @@
       "onboard_time": 1665580223,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183272,
+      "num": 129117,
+      "word": "我的秘密室友",
+      "onboard_time": 1665665006,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 181796,
@@ -1067,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159944,
+      "num": 159944,
+      "word": "从猫脸上看到了凶狠的表情",
+      "onboard_time": 1665659543,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159335,
       "num": 159335,
       "word": "张云龙Mike仁科披荆斩棘爆料局",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1665648685,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157044,
+      "num": 66492,
+      "word": "王大陆发文感谢披荆斩棘的兄弟们",
+      "onboard_time": 1665665843,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156293,
@@ -1115,12 +1211,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152734,
-      "num": 152734,
-      "word": "从猫脸上看到了凶狠的表情",
-      "onboard_time": 1665659543,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 153150,
+      "num": 128435,
+      "word": "宁安如梦制片人否认Q4上线",
+      "onboard_time": 1665663264,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 151397,
@@ -1187,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131880,
+      "num": 131880,
+      "word": "公交车化身救生垫救下悬空工人",
+      "onboard_time": 1665661402,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 129707,
       "num": 129707,
       "word": "段宇成原型给王安宇打call",
@@ -1203,12 +1307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129164,
-      "num": 129164,
-      "word": "近视的主要因素是这6个字",
-      "onboard_time": 1665659963,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 129220,
+      "num": 129220,
+      "word": "81岁奶奶能连续跳绳1000个",
+      "onboard_time": 1665663324,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 124919,
@@ -1355,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102019,
+      "num": 102019,
+      "word": "谁看了不想去山东搂席",
+      "onboard_time": 1665663864,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99344,
       "num": 99344,
       "word": "当世界上有两个我",
@@ -1392,14 +1504,6 @@
       "word": "中国的十个维度",
       "onboard_time": 1665579743,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88434,
-      "num": 88434,
-      "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
-      "onboard_time": 1665660622,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1491,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67843,
+      "num": 67843,
+      "word": "南宁动物园回应动物不正经",
+      "onboard_time": 1665665485,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67683,
       "num": 597996,
       "word": "拉祜族女生为爱写的歌好感动",
@@ -1512,6 +1624,14 @@
       "word": "八旬老人背小音箱爬山顶升旗",
       "onboard_time": 1665644424,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65237,
+      "num": 65237,
+      "word": "大爷用简陋钓竿在排水管里钓海鱼",
+      "onboard_time": 1665662843,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1691,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34335,
+      "num": 297912,
+      "word": "12组卫星图看中国十年巨变",
+      "onboard_time": 1665662423,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29604,
       "num": 353175,
       "word": "天宫课堂第三课极简版笔记",
@@ -1740,7 +1868,7 @@
     },
     {
       "raw_hot": 12691,
-      "num": 402230,
+      "num": 467455,
       "word": "这十年幸福中国开播",
       "onboard_time": 1665660622,
       "rank": 4,

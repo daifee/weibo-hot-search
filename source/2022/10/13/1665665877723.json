@@ -1,0 +1,410 @@
+{
+  "runTime": 1665665877723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 562363,
+        "num": 562363,
+        "word": "网购云南菌子盲盒有多绝",
+        "onboard_time": 1665659243,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 484064,
+        "num": 484064,
+        "word": "爷爷第一次见孙子又放炮又脱衣服",
+        "onboard_time": 1665663144,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85662,
+        "num": 481905,
+        "word": "许多国宝动物正回到我们身边",
+        "onboard_time": 1665650423,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552521,
+        "num": 473342,
+        "word": "原来友情没有真正的be",
+        "onboard_time": 1665657204,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5029,
+        "num": 467455,
+        "word": "这十年幸福中国开播",
+        "onboard_time": 1665660622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507743,
+        "num": 458358,
+        "word": "人生大事中国台湾网飞热度",
+        "onboard_time": 1665665306,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455122,
+        "num": 455122,
+        "word": "近视的主要因素是这6个字",
+        "onboard_time": 1665659963,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406873,
+        "num": 406873,
+        "word": "高伟光说鹧鸪哨又回来了",
+        "onboard_time": 1665664883,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339934,
+        "num": 339934,
+        "word": "冬天需要这个手机壳",
+        "onboard_time": 1665652225,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307213,
+        "num": 307213,
+        "word": "要坚决整治层层加码",
+        "onboard_time": 1665648565,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076299,
+        "num": 304382,
+        "word": "诺言恋爱",
+        "onboard_time": 1665662123,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 463799,
+        "num": 301914,
+        "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+        "onboard_time": 1665660622,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378628,
+        "num": 301599,
+        "word": "何以笙箫默的长尾效应",
+        "onboard_time": 1665655523,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299218,
+        "num": 299218,
+        "word": "不能以静默代替管控",
+        "onboard_time": 1665652342,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34335,
+        "num": 297912,
+        "word": "12组卫星图看中国十年巨变",
+        "onboard_time": 1665662423,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297812,
+        "num": 297812,
+        "word": "首次证明人脑细胞在体外也有智力",
+        "onboard_time": 1665654683,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288521,
+        "num": 288521,
+        "word": "长相思主创核心卖点是主演杨紫",
+        "onboard_time": 1665665426,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233469,
+        "num": 233469,
+        "word": "五官和谐真的很重要",
+        "onboard_time": 1665657083,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213221,
+        "num": 213221,
+        "word": "老板回应4碗粿条545元被质疑天价",
+        "onboard_time": 1665649344,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203544,
+        "num": 203544,
+        "word": "深圳晚霞",
+        "onboard_time": 1665663203,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266044,
+        "num": 201831,
+        "word": "网传白鹿张凌赫宁安如梦暂定Q4播出",
+        "onboard_time": 1665647244,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225783,
+        "num": 201755,
+        "word": "彭昱畅在密逃4跪了20次",
+        "onboard_time": 1665655944,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220934,
+        "num": 201458,
+        "word": "你心中的网剧天花板",
+        "onboard_time": 1665655403,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199495,
+        "num": 199495,
+        "word": "原来口红色号可以这么选",
+        "onboard_time": 1665662123,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184412,
+        "num": 184412,
+        "word": "万茜万里归途未播镜头",
+        "onboard_time": 1665660204,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164076,
+        "num": 164076,
+        "word": "女子16年月薪涨60倍存40万回农村",
+        "onboard_time": 1665630803,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159944,
+        "num": 159944,
+        "word": "从猫脸上看到了凶狠的表情",
+        "onboard_time": 1665659543,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149159,
+        "num": 149159,
+        "word": "杜富国已重新回到扫雷排爆大队",
+        "onboard_time": 1665651802,
+        "rank": 27,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 131880,
+        "num": 131880,
+        "word": "公交车化身救生垫救下悬空工人",
+        "onboard_time": 1665661402,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129220,
+        "num": 129220,
+        "word": "81岁奶奶能连续跳绳1000个",
+        "onboard_time": 1665663324,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 183272,
+        "num": 129117,
+        "word": "我的秘密室友",
+        "onboard_time": 1665665006,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153150,
+        "num": 128435,
+        "word": "宁安如梦制片人否认Q4上线",
+        "onboard_time": 1665663264,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135273,
+        "num": 124649,
+        "word": "沈小婷回归发布会新闻图",
+        "onboard_time": 1665655704,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119349,
+        "num": 119349,
+        "word": "男子下班遇领导按住电梯要求加班",
+        "onboard_time": 1665648923,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117914,
+        "num": 117914,
+        "word": "2人在小区群对骂14个月被判相互道歉",
+        "onboard_time": 1665637526,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114002,
+        "num": 114002,
+        "word": "采访阿水记者说翻译是正确的",
+        "onboard_time": 1665648565,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 113027,
+        "word": "俄称修复北溪管道至少要一年",
+        "onboard_time": 1665651744,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 112848,
+        "num": 112848,
+        "word": "成都市武侯区调整部分区域风险区等级",
+        "onboard_time": 1665649945,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102019,
+        "num": 102019,
+        "word": "谁看了不想去山东搂席",
+        "onboard_time": 1665663864,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87491,
+        "num": 87491,
+        "word": "看完这个视频需要勇气",
+        "onboard_time": 1665659123,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 85850,
+        "word": "张艺兴说下一站马来西亚准备好了吗",
+        "onboard_time": 1665659543,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83730,
+        "num": 83730,
+        "word": "女子接诈骗电话自报余额惊呆骗子",
+        "onboard_time": 1665640764,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75862,
+        "num": 75862,
+        "word": "这真的是猫菜瘾大",
+        "onboard_time": 1665651024,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70877,
+        "num": 70877,
+        "word": "沈阳浑南区现3例核酸异常",
+        "onboard_time": 1665645621,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70807,
+        "num": 70807,
+        "word": "防翘二郎腿神器",
+        "onboard_time": 1665655523,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67843,
+        "num": 67843,
+        "word": "南宁动物园回应动物不正经",
+        "onboard_time": 1665665485,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67685,
+        "num": 67685,
+        "word": "法国呼吁美国天然气卖便宜些",
+        "onboard_time": 1665647665,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157044,
+        "num": 66492,
+        "word": "王大陆发文感谢披荆斩棘的兄弟们",
+        "onboard_time": 1665665843,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65237,
+        "num": 65237,
+        "word": "大爷用简陋钓竿在排水管里钓海鱼",
+        "onboard_time": 1665662843,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59718,
+        "num": 59718,
+        "word": "王者荣耀世界获登记批准",
+        "onboard_time": 1665645263,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}

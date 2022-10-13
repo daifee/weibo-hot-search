@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 19:40:47
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 20:57:57
 </p>
 </blockquote>
 <p>
@@ -1217,6 +1217,12 @@ RGE战胜TES（热度：1085972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1700%E4%B9%B0%E8%99%8E%E7%9A%AE%E7%8A%AC%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E6%9F%93%E8%89%B2%E7%8B%97%23" target="weibo">
 花700买虎皮犬回家发现是染色狗（热度：1080994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%A8%80%E6%81%8B%E7%88%B1%23" target="weibo">
+诺言恋爱（热度：1076299）
 </a>
 </li>
 
@@ -3303,6 +3309,12 @@ SK（热度：578344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E4%BA%91%E5%8D%97%E8%8F%8C%E5%AD%90%E7%9B%B2%E7%9B%92%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
+网购云南菌子盲盒有多绝（热度：562363）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23" target="weibo">
 难哄第二季开播（热度：561836）
 </a>
@@ -3383,6 +3395,12 @@ RNG战胜SGB（热度：556732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%B9%BB%E5%8D%97%E4%BA%AC%E6%BC%94%E5%87%BA%E7%8E%B0%E5%9C%BA%E9%80%81%E7%B2%89%E4%B8%9D%E6%9D%BF%E9%B8%AD%23" target="weibo">
 某幻南京演出现场送粉丝板鸭（热度：554798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%8B%E6%83%85%E6%B2%A1%E6%9C%89%E7%9C%9F%E6%AD%A3%E7%9A%84be%23" target="weibo">
+原来友情没有真正的be（热度：552521）
 </a>
 </li>
 
@@ -3807,6 +3825,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%83%AD%E5%BA%A6%23" target="weibo">
+人生大事中国台湾网飞热度（热度：507743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E6%A6%B4%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%81%9A%E5%87%BA%E7%94%9C%E5%93%81%23" target="weibo">
 石榴竟然还可以做出甜品（热度：507371）
 </a>
@@ -3989,6 +4013,12 @@ IU首登韩版Vogue11月刊（热度：501833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CDK%23" target="weibo">
 JDG战胜DK（热度：484636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AD%99%E5%AD%90%E5%8F%88%E6%94%BE%E7%82%AE%E5%8F%88%E8%84%B1%E8%A1%A3%E6%9C%8D%23" target="weibo">
+爷爷第一次见孙子又放炮又脱衣服（热度：484064）
 </a>
 </li>
 
@@ -4269,6 +4299,12 @@ SuperM最新练习室（热度：477667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2358%E5%B2%81%E7%88%B8%E7%88%B8%E7%BB%99%E7%8B%97%E4%B9%B0100%E5%A4%9A%E6%9E%9A%E5%8D%A1%E5%AD%90%E6%8C%A8%E4%B8%AA%E8%AF%95%E6%88%B4%23" target="weibo">
+58岁爸爸给狗买100多枚卡子挨个试戴（热度：463799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9B%B4%E6%92%AD%23" target="weibo">
 时代少年团直播（热度：463508）
 </a>
@@ -4401,6 +4437,12 @@ RNG晋级小组赛（热度：455554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9A%84%E4%B8%BB%E8%A6%81%E5%9B%A0%E7%B4%A0%E6%98%AF%E8%BF%996%E4%B8%AA%E5%AD%97%23" target="weibo">
+近视的主要因素是这6个字（热度：455122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%B0%94%E5%A4%A7%E5%90%83%E4%B8%80%E9%A1%BF%E4%B8%8D%E4%BC%9A%E8%83%96%23" target="weibo">
 偶尔大吃一顿不会胖（热度：454925）
 </a>
@@ -4517,12 +4559,6 @@ LPL小组赛首轮9胜3负（热度：454232）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E9%81%93%E6%AD%89%23" target="weibo">
 追梦格林道歉（热度：447725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%8B%E6%83%85%E6%B2%A1%E6%9C%89%E7%9C%9F%E6%AD%A3%E7%9A%84be%23" target="weibo">
-原来友情没有真正的be（热度：447435）
 </a>
 </li>
 
@@ -5033,6 +5069,12 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E8%A1%A3%E6%9C%8D%E8%A2%AB%E6%8B%89%E9%93%BE%E5%8D%A1%E4%BD%8F%E7%9C%BC%E7%9A%AE%23" target="weibo">
 老人穿衣服被拉链卡住眼皮（热度：406886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9F%E5%85%89%E8%AF%B4%E9%B9%A7%E9%B8%AA%E5%93%A8%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+高伟光说鹧鸪哨又回来了（热度：406873）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BE%9A%E4%BF%8Avoguefilm%E5%90%88%E7%85%A7%23" target="weibo">
 赵丽颖龚俊voguefilm合照（热度：350168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E7%AE%80%E5%8D%95%E7%9A%84%E5%9D%8F%E5%BF%83%E6%83%85%23" target="weibo">
-抑郁症不是简单的坏心情（热度：349823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF593.1%E4%B8%87%E4%BA%BA%23" target="weibo">
-我国人口年均增长593.1万人（热度：348838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E7%9D%80%E7%81%AB%E8%BF%91%E7%99%BE%E5%A4%B4%E7%8C%AA%E8%A2%AB%E7%83%A4%E7%86%9F%23" target="weibo">
-货车着火近百头猪被烤熟（热度：348599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23" target="weibo">
-万里归途票房破10亿（热度：348567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8A%A0%E4%BB%B7%E7%82%B9%E8%80%81%E8%99%8E%E6%96%91%E7%AB%AF%E4%B8%8A%E6%9D%A5%E5%8F%98%E9%B2%B3%E9%B1%BC%23" target="weibo">
-女子加价点老虎斑端上来变鲳鱼（热度：348405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%B9%B4%E9%95%BF%E7%9A%84%E7%8B%97%E5%8E%BB%E4%B8%96%E4%BA%AB%E5%B9%B422%E5%B2%81%23" target="weibo">
-全球最年长的狗去世享年22岁（热度：348252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%921%E6%AF%943%E4%B8%8D%E6%95%8C%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
-中国女排1比3不敌意大利（热度：347917）
 </a>
 </li>
 
