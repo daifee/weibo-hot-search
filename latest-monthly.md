@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 23:48:35
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 00:39:52
 </p>
 </blockquote>
 <p>
@@ -4443,6 +4443,12 @@ Chovy确诊新冠（热度：459953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%98%8E%E7%8E%89%E5%8F%97%E7%9A%84%E6%B0%94%E5%A7%9A%E6%99%A8%E8%BF%99%E6%AC%A1%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+苏明玉受的气姚晨这次还回来了（热度：456783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%8591%E4%BE%8B%23" target="weibo">
 新疆新增本土无症状感染者91例（热度：456735）
 </a>
@@ -5925,6 +5931,12 @@ EDG（热度：368917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23" target="weibo">
+工信部通报38款APP侵害用户权益（热度：357050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%99%E5%A4%B1%E7%A7%8B%E5%A4%A9%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%23" target="weibo">
 北京错失秋天一秒入冬（热度：356374）
 </a>
@@ -5999,18 +6011,6 @@ S12提莫登场（热度：354274）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E4%BF%AE%E5%A4%8D%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E6%98%AF%E5%AD%98%E5%9C%A8%E7%9A%84%23" target="weibo">
 俄称修复北溪管道的可能性是存在的（热度：352227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23gidle%E5%B0%86%E5%AE%8C%E6%95%B4%E4%BD%93%E5%87%BA%E5%87%BB%E8%AE%A4%E5%93%A5%23" target="weibo">
-gidle将完整体出击认哥（热度：351694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BA%BA%E7%89%A9%E5%85%89%E5%BD%B1%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
-王鹤棣人物光影氛围感大片（热度：351574）
 </a>
 </li>
 
