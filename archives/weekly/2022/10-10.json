@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665628196504,
+  "endTime": 1665630815750,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 956056,
+      "num": 956056,
+      "word": "男子花4000元网购手机收到手机壳",
+      "onboard_time": 1665624085,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955062,
       "num": 955062,
       "word": "杭州真的很适合减肥",
@@ -619,14 +627,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 825530,
-      "num": 825530,
-      "word": "男子花4000元网购手机收到手机壳",
-      "onboard_time": 1665624085,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 819086,
       "num": 447791,
       "word": "老累 禾野",
@@ -667,12 +667,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 788356,
+      "num": 788356,
+      "word": "大闸蟹价格降一半",
+      "onboard_time": 1665624683,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 786076,
       "num": 786076,
       "word": "上海自来水供应正常有序",
       "onboard_time": 1665500609,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781704,
+      "num": 346285,
+      "word": "DK",
+      "onboard_time": 1665628103,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 779931,
@@ -737,6 +753,14 @@
       "onboard_time": 1665554483,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752162,
+      "num": 539253,
+      "word": "Canyon确诊新冠",
+      "onboard_time": 1665628224,
+      "rank": 6,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 751476,
@@ -1083,14 +1107,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 616436,
-      "num": 616436,
-      "word": "大闸蟹价格降一半",
-      "onboard_time": 1665624683,
-      "rank": 5,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 614250,
       "num": 614250,
       "word": "女子拿行李误被朋友开车压骨折",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1665360984,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593624,
+      "num": 340737,
+      "word": "联大紧急特别会议就乌克兰问题通过决议",
+      "onboard_time": 1665629545,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 590175,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1665622585,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550754,
+      "num": 550754,
+      "word": "追光者定档1014",
+      "onboard_time": 1665628583,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 549318,
@@ -1979,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389348,
+      "num": 326917,
+      "word": "S12赛事更新",
+      "onboard_time": 1665627442,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 388665,
       "num": 388665,
       "word": "村民山中捡到13公斤超大松茸菌群",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1665383002,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295042,
+      "num": 295042,
+      "word": "双十一24日晚八点预售",
+      "onboard_time": 1665629065,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293731,
@@ -3379,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216967,
+      "num": 216967,
+      "word": "我隔着屏幕都闻到味了",
+      "onboard_time": 1665626905,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216180,
       "num": 216180,
       "word": "增强对当前疫情防控政策的信心和耐心",
@@ -3409,14 +3465,6 @@
       "onboard_time": 1665577884,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215960,
-      "num": 189133,
-      "word": "S12赛事更新",
-      "onboard_time": 1665627442,
-      "rank": 21,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 214153,
@@ -3915,14 +3963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171906,
-      "num": 171906,
-      "word": "DK",
-      "onboard_time": 1665628103,
-      "rank": 25,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "电影无名有大鹏",
@@ -4083,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "女儿让患阿尔茨海默母亲挑豆子",
+      "onboard_time": 1665630085,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161722,
       "num": 161722,
       "word": "国乒8人获WTT世界杯决赛资格",
@@ -4219,6 +4267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154996,
+      "num": 154996,
+      "word": "罗云熙罗本明天见",
+      "onboard_time": 1665630563,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154275,
+      "num": 154275,
+      "word": "张若昀秦明六周年",
+      "onboard_time": 1665630624,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154088,
       "num": 154088,
       "word": "金晨王安宇新浪扫楼",
@@ -4337,6 +4401,14 @@
       "onboard_time": 1665559402,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "字母哥脚踢欧文",
+      "onboard_time": 1665630143,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148273,
@@ -4827,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120042,
+      "num": 120042,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1665628344,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119724,
       "num": 119724,
       "word": "长沙天空惊现龙鳞云",
@@ -5211,14 +5291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94573,
-      "num": 94573,
-      "word": "我隔着屏幕都闻到味了",
-      "onboard_time": 1665626905,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94366,
       "num": 94366,
       "word": "爱的二八定律六宫格剧照",
@@ -5241,6 +5313,14 @@
       "onboard_time": 1665357258,
       "rank": 42,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 91825,
+      "num": 91825,
+      "word": "香格里拉的红冠古树",
+      "onboard_time": 1665629065,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 91752,
@@ -5521,6 +5601,14 @@
       "onboard_time": 1665314064,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76538,
+      "num": 76538,
+      "word": "女子16年月薪涨60倍存40万回农村",
+      "onboard_time": 1665630803,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76016,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665628196504,
+  "endTime": 1665630815750,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1947,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 956056,
+      "num": 956056,
+      "word": "男子花4000元网购手机收到手机壳",
+      "onboard_time": 1665624085,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955062,
       "num": 955062,
       "word": "杭州真的很适合减肥",
@@ -2347,14 +2355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 825530,
-      "num": 825530,
-      "word": "男子花4000元网购手机收到手机壳",
-      "onboard_time": 1665624085,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824080,
       "num": 824080,
       "word": "螃蟹也没想到她还有把刷子",
@@ -2507,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788356,
+      "num": 788356,
+      "word": "大闸蟹价格降一半",
+      "onboard_time": 1665624683,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 786076,
       "num": 786076,
       "word": "上海自来水供应正常有序",
@@ -2545,6 +2553,14 @@
       "onboard_time": 1664799442,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 781704,
+      "num": 346285,
+      "word": "DK",
+      "onboard_time": 1665628103,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 780526,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1665554483,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752162,
+      "num": 539253,
+      "word": "Canyon确诊新冠",
+      "onboard_time": 1665628224,
+      "rank": 6,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 751476,
@@ -3691,14 +3715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 616436,
-      "num": 616436,
-      "word": "大闸蟹价格降一半",
-      "onboard_time": 1665624683,
-      "rank": 5,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 615037,
       "num": 530774,
       "word": "老鼠站门框与狗僵持对峙6小时",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1665226347,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 593624,
+      "num": 340737,
+      "word": "联大紧急特别会议就乌克兰问题通过决议",
+      "onboard_time": 1665629545,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 593510,
@@ -4257,6 +4281,14 @@
       "onboard_time": 1665119602,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 550754,
+      "num": 550754,
+      "word": "追光者定档1014",
+      "onboard_time": 1665628583,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 550297,
@@ -6715,6 +6747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 389348,
+      "num": 326917,
+      "word": "S12赛事更新",
+      "onboard_time": 1665627442,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 388665,
       "num": 388665,
       "word": "村民山中捡到13公斤超大松茸菌群",
@@ -8681,6 +8721,14 @@
       "onboard_time": 1665033505,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295042,
+      "num": 295042,
+      "word": "双十一24日晚八点预售",
+      "onboard_time": 1665629065,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294935,
@@ -11643,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216967,
+      "num": 216967,
+      "word": "我隔着屏幕都闻到味了",
+      "onboard_time": 1665626905,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216741,
       "num": 216741,
       "word": "国庆假期第一天",
@@ -11705,14 +11761,6 @@
       "onboard_time": 1665577884,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215960,
-      "num": 189133,
-      "word": "S12赛事更新",
-      "onboard_time": 1665627442,
-      "rank": 21,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 215821,
@@ -13563,14 +13611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171906,
-      "num": 171906,
-      "word": "DK",
-      "onboard_time": 1665628103,
-      "rank": 25,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "电影无名有大鹏",
@@ -14099,6 +14139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "女儿让患阿尔茨海默母亲挑豆子",
+      "onboard_time": 1665630085,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161722,
       "num": 161722,
       "word": "国乒8人获WTT世界杯决赛资格",
@@ -14491,6 +14539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154996,
+      "num": 154996,
+      "word": "罗云熙罗本明天见",
+      "onboard_time": 1665630563,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154275,
+      "num": 154275,
+      "word": "张若昀秦明六周年",
+      "onboard_time": 1665630624,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154192,
       "num": 154192,
       "word": "升旗手拿10斤哑铃每天练展旗超300次",
@@ -14833,6 +14897,14 @@
       "onboard_time": 1664699541,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "字母哥脚踢欧文",
+      "onboard_time": 1665630143,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148924,
@@ -17995,14 +18067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94573,
-      "num": 94573,
-      "word": "我隔着屏幕都闻到味了",
-      "onboard_time": 1665626905,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94490,
       "num": 94490,
       "word": "这是今天的天安门广场",
@@ -18129,6 +18193,14 @@
       "onboard_time": 1665152849,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91825,
+      "num": 91825,
+      "word": "香格里拉的红冠古树",
+      "onboard_time": 1665629065,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 91752,
@@ -18945,6 +19017,14 @@
       "onboard_time": 1665041842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76538,
+      "num": 76538,
+      "word": "女子16年月薪涨60倍存40万回农村",
+      "onboard_time": 1665630803,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76433,

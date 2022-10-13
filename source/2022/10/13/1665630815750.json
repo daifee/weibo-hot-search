@@ -1,0 +1,410 @@
+{
+  "runTime": 1665630815750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 956056,
+        "num": 956056,
+        "word": "男子花4000元网购手机收到手机壳",
+        "onboard_time": 1665624085,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788356,
+        "num": 788356,
+        "word": "大闸蟹价格降一半",
+        "onboard_time": 1665624683,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 38616,
+        "num": 742785,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060048,
+        "num": 725792,
+        "word": "Scout确诊",
+        "onboard_time": 1665617721,
+        "rank": 3,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 697722,
+        "num": 697722,
+        "word": "女生靠闹铃找回静音手机",
+        "onboard_time": 1665623485,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550754,
+        "num": 550754,
+        "word": "追光者定档1014",
+        "onboard_time": 1665628583,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 752162,
+        "num": 539253,
+        "word": "Canyon确诊新冠",
+        "onboard_time": 1665628224,
+        "rank": 6,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 453107,
+        "num": 453107,
+        "word": "关系越好回消息越慢",
+        "onboard_time": 1665618502,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 357714,
+        "num": 357714,
+        "word": "三天肩膀就练薄了",
+        "onboard_time": 1665574465,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348662,
+        "num": 348662,
+        "word": "多地支持农民进城购房",
+        "onboard_time": 1665622585,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781704,
+        "num": 346285,
+        "word": "DK",
+        "onboard_time": 1665628103,
+        "rank": 10,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 593624,
+        "num": 340737,
+        "word": "联大紧急特别会议就乌克兰问题通过决议",
+        "onboard_time": 1665629545,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 428387,
+        "num": 333661,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389348,
+        "num": 326917,
+        "word": "S12赛事更新",
+        "onboard_time": 1665627442,
+        "rank": 13,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 323045,
+        "num": 323045,
+        "word": "郑州高新区全民核酸一天两检",
+        "onboard_time": 1665623906,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295042,
+        "num": 295042,
+        "word": "双十一24日晚八点预售",
+        "onboard_time": 1665629065,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278680,
+        "num": 278680,
+        "word": "手机APP为何越来越膨胀",
+        "onboard_time": 1665620187,
+        "rank": 16,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 246792,
+        "num": 246792,
+        "word": "村民山中捡到13公斤超大松茸菌群",
+        "onboard_time": 1665619226,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216967,
+        "num": 216967,
+        "word": "我隔着屏幕都闻到味了",
+        "onboard_time": 1665626905,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198001,
+        "num": 198001,
+        "word": "父亲10年为女儿QQ点赞3.7万次",
+        "onboard_time": 1665601991,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229317,
+        "num": 193112,
+        "word": "月子中心在鸡汤里加党参被罚",
+        "onboard_time": 1665587845,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184398,
+        "num": 184398,
+        "word": "EDG",
+        "onboard_time": 1665618082,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 171656,
+        "num": 171656,
+        "word": "虞书欣说我们下一个角色再见",
+        "onboard_time": 1665620306,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161783,
+        "num": 161783,
+        "word": "女儿让患阿尔茨海默母亲挑豆子",
+        "onboard_time": 1665630085,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160757,
+        "num": 160757,
+        "word": "战损美学天花板",
+        "onboard_time": 1665609371,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156124,
+        "num": 156124,
+        "word": "猫猫到底能睡得有多死",
+        "onboard_time": 1665618023,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154996,
+        "num": 154996,
+        "word": "罗云熙罗本明天见",
+        "onboard_time": 1665630563,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154275,
+        "num": 154275,
+        "word": "张若昀秦明六周年",
+        "onboard_time": 1665630624,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148945,
+        "num": 148945,
+        "word": "字母哥脚踢欧文",
+        "onboard_time": 1665630143,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148230,
+        "num": 148230,
+        "word": "男生经常夸容貌焦虑女友你好漂亮",
+        "onboard_time": 1665590840,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140814,
+        "num": 140814,
+        "word": "12岁女孩看自己5岁视频一脸惊讶",
+        "onboard_time": 1665587304,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139214,
+        "num": 139214,
+        "word": "10月12日新增本土确诊322例",
+        "onboard_time": 1665624444,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134542,
+        "num": 134542,
+        "word": "我国将建立世界最大国家公园体系",
+        "onboard_time": 1665608530,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128617,
+        "num": 128617,
+        "word": "并非所有人都能做近视手术",
+        "onboard_time": 1665623485,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128047,
+        "num": 128047,
+        "word": "篮网vs雄鹿",
+        "onboard_time": 1665626544,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125448,
+        "num": 125448,
+        "word": "23岁猫咪被众人围观一脸淡定",
+        "onboard_time": 1665587785,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120042,
+        "num": 120042,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1665628344,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 115795,
+        "word": "男子胸口的蓝牙耳机突然喷火",
+        "onboard_time": 1665600732,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "南京大学首次跻身世界大学排名百强",
+        "onboard_time": 1665593177,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "北京昨日新增本土确诊12例",
+        "onboard_time": 1665623306,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108552,
+        "num": 108552,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100417,
+        "num": 100417,
+        "word": "金晨晒扫楼下班随拍",
+        "onboard_time": 1665619766,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91825,
+        "num": 91825,
+        "word": "香格里拉的红冠古树",
+        "onboard_time": 1665629065,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 90990,
+        "num": 90990,
+        "word": "广州花都三条街道开展全员核酸检测",
+        "onboard_time": 1665617602,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89963,
+        "num": 89963,
+        "word": "我国成功发射5米S-SAR01星",
+        "onboard_time": 1665618984,
+        "rank": 44,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 84962,
+        "num": 84962,
+        "word": "原来鼻炎也是要忌口的",
+        "onboard_time": 1665582926,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82671,
+        "num": 82671,
+        "word": "13岁哥哥教6岁弟弟拼音被气哭",
+        "onboard_time": 1665604091,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80393,
+        "num": 80393,
+        "word": "英雄联盟S12",
+        "onboard_time": 1665618144,
+        "rank": 47,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 77182,
+        "num": 77182,
+        "word": "我睡着了连我自己都害怕",
+        "onboard_time": 1665591143,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76538,
+        "num": 76538,
+        "word": "女子16年月薪涨60倍存40万回农村",
+        "onboard_time": 1665630803,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}

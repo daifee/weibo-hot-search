@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665628196504,
+  "endTime": 1665630815750,
   "band_list": [
     {
       "raw_hot": 1376910,
@@ -27,6 +27,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 956056,
+      "num": 956056,
+      "word": "男子花4000元网购手机收到手机壳",
+      "onboard_time": 1665624085,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 928012,
       "num": 928012,
       "word": "三天肩膀就练薄了",
@@ -43,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825530,
-      "num": 825530,
-      "word": "男子花4000元网购手机收到手机壳",
-      "onboard_time": 1665624085,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 788356,
+      "num": 788356,
+      "word": "大闸蟹价格降一半",
+      "onboard_time": 1665624683,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 781704,
+      "num": 346285,
+      "word": "DK",
+      "onboard_time": 1665628103,
+      "rank": 25,
+      "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 752162,
+      "num": 539253,
+      "word": "Canyon确诊新冠",
+      "onboard_time": 1665628224,
+      "rank": 6,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 639263,
@@ -59,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 616436,
-      "num": 616436,
-      "word": "大闸蟹价格降一半",
-      "onboard_time": 1665624683,
-      "rank": 5,
-      "category": "财经,社会新闻"
+      "raw_hot": 593624,
+      "num": 340737,
+      "word": "联大紧急特别会议就乌克兰问题通过决议",
+      "onboard_time": 1665629545,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 554849,
@@ -73,6 +97,14 @@
       "onboard_time": 1665622585,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550754,
+      "num": 550754,
+      "word": "追光者定档1014",
+      "onboard_time": 1665628583,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 527932,
@@ -139,6 +171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 389348,
+      "num": 326917,
+      "word": "S12赛事更新",
+      "onboard_time": 1665627442,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 388665,
       "num": 388665,
       "word": "村民山中捡到13公斤超大松茸菌群",
@@ -184,6 +224,14 @@
       "word": "男子将妈妈38年前做的布鞋当挂件",
       "onboard_time": 1665609971,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295042,
+      "num": 295042,
+      "word": "双十一24日晚八点预售",
+      "onboard_time": 1665629065,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -243,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215960,
-      "num": 189133,
-      "word": "S12赛事更新",
-      "onboard_time": 1665627442,
-      "rank": 21,
-      "category": "游戏,社会新闻"
+      "raw_hot": 216967,
+      "num": 216967,
+      "word": "我隔着屏幕都闻到味了",
+      "onboard_time": 1665626905,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 215567,
@@ -347,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171906,
-      "num": 171906,
-      "word": "DK",
-      "onboard_time": 1665628103,
-      "rank": 25,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 170385,
       "num": 170385,
       "word": "巴萨3比3国米",
@@ -371,12 +411,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "女儿让患阿尔茨海默母亲挑豆子",
+      "onboard_time": 1665630085,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156293,
       "num": 156293,
       "word": "广州花都三条街道开展全员核酸检测",
       "onboard_time": 1665617602,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154996,
+      "num": 154996,
+      "word": "罗云熙罗本明天见",
+      "onboard_time": 1665630563,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154275,
+      "num": 154275,
+      "word": "张若昀秦明六周年",
+      "onboard_time": 1665630624,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151397,
@@ -393,6 +457,14 @@
       "onboard_time": 1665596774,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "字母哥脚踢欧文",
+      "onboard_time": 1665630143,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 145177,
@@ -433,6 +505,14 @@
       "onboard_time": 1665618984,
       "rank": 34,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 120042,
+      "num": 120042,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1665628344,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 118976,
@@ -515,12 +595,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 94573,
-      "num": 94573,
-      "word": "我隔着屏幕都闻到味了",
-      "onboard_time": 1665626905,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 91825,
+      "num": 91825,
+      "word": "香格里拉的红冠古树",
+      "onboard_time": 1665629065,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 88890,
@@ -576,6 +656,14 @@
       "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
       "onboard_time": 1665563783,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76538,
+      "num": 76538,
+      "word": "女子16年月薪涨60倍存40万回农村",
+      "onboard_time": 1665630803,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
