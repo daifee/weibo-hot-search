@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665686114540,
+  "endTime": 1665687442474,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -21755,6 +21755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39620,
+      "num": 38416,
+      "word": "原来狗看电视也舍不得睡觉",
+      "onboard_time": 1665683234,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39338,
       "num": 39338,
       "word": "LLL对战DFM",
@@ -21801,14 +21809,6 @@
       "onboard_time": 1664680882,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38416,
-      "num": 38416,
-      "word": "原来狗看电视也舍不得睡觉",
-      "onboard_time": 1665683234,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 38161,
@@ -22147,6 +22147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21148,
+      "num": 21148,
+      "word": "TVB新剧女性群像还是熟悉的味道",
+      "onboard_time": 1665684493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19434,
       "num": 19434,
       "word": "滑滑梯的小熊猫",
@@ -22169,6 +22177,14 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15960,
+      "num": 15960,
+      "word": "中国高领毛衣火到欧洲",
+      "onboard_time": 1665685992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15865,
@@ -22251,14 +22267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11880,
-      "num": 11880,
-      "word": "TVB新剧女性群像还是熟悉的味道",
-      "onboard_time": 1665684493,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -22307,6 +22315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10277,
+      "num": 9863,
+      "word": "乌方称基辅州重要基础设施发生爆炸",
+      "onboard_time": 1665686771,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 10158,
       "num": 292684,
       "word": "百岁老兵雷用香的传奇人生",
@@ -22343,14 +22359,6 @@
       "num": 9037,
       "word": "什么样的疼痛需要去医院",
       "onboard_time": 1665511932,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8629,
-      "num": 8629,
-      "word": "中国高领毛衣火到欧洲",
-      "onboard_time": 1665685992,
       "rank": 49,
       "category": "社会新闻"
     },
