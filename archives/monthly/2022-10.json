@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665642221345,
+  "endTime": 1665644867265,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1819,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1004231,
+      "num": 1004231,
+      "word": "买完却不穿的衣服就这么来的",
+      "onboard_time": 1665639444,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1000872,
       "num": 687499,
       "word": "iPhone14车祸检测坐过山车会报警",
@@ -2984,6 +2992,14 @@
       "word": "爸爸带娃不小心把女儿摇下吊桥",
       "onboard_time": 1665229885,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720841,
+      "num": 720841,
+      "word": "女子接诈骗电话自报余额惊呆骗子",
+      "onboard_time": 1665640764,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6203,14 +6219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 424044,
-      "num": 324860,
-      "word": "买完却不穿的衣服就这么来的",
-      "onboard_time": 1665639444,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 423617,
       "num": 423617,
       "word": "张雨绮和古早偶像剧的适配度",
@@ -6553,6 +6561,14 @@
       "onboard_time": 1664796441,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405022,
+      "num": 334881,
+      "word": "杨幂密室大逃脱4收官宴剧照",
+      "onboard_time": 1665643088,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 403804,
@@ -8523,14 +8539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 312811,
-      "num": 312811,
-      "word": "女子接诈骗电话自报余额惊呆骗子",
-      "onboard_time": 1665640764,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312693,
       "num": 312693,
       "word": "李一桐金瀚新剧开播4天已循环4次",
@@ -9193,6 +9201,14 @@
       "onboard_time": 1664698224,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285739,
+      "num": 285739,
+      "word": "鼻子一下子就通了",
+      "onboard_time": 1665642143,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 285689,
@@ -10115,6 +10131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 260503,
+      "num": 260503,
+      "word": "你会向往低欲望生活吗",
+      "onboard_time": 1665644064,
+      "rank": 17,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 260315,
       "num": 202431,
       "word": "刘雨昕在街舞当起了月老",
@@ -10819,6 +10843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 244790,
+      "num": 244790,
+      "word": "灿烂灿烂",
+      "onboard_time": 1665643644,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244512,
       "num": 244512,
       "word": "这狗子是真的欠啊",
@@ -11137,6 +11169,14 @@
       "onboard_time": 1665223047,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234458,
+      "num": 354847,
+      "word": "青海戈壁开出27000个蓝色向日葵",
+      "onboard_time": 1665641424,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 234379,
@@ -13571,6 +13611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180283,
+      "num": 180283,
+      "word": "休想在小狗眼皮底下偷吃",
+      "onboard_time": 1665641664,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180197,
       "num": 180197,
       "word": "汪汪打工队",
@@ -13665,6 +13713,14 @@
       "onboard_time": 1665344470,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 178148,
+      "num": 178148,
+      "word": "Score确诊新冠",
+      "onboard_time": 1665642083,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 178138,
@@ -14249,6 +14305,14 @@
       "onboard_time": 1664902457,
       "rank": 7,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 164755,
+      "num": 141142,
+      "word": "张若昀纪念法医秦明六周年",
+      "onboard_time": 1665639384,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164593,
@@ -15643,6 +15707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141317,
+      "num": 141317,
+      "word": "才知道懒羊羊活得如此通透",
+      "onboard_time": 1665643163,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141169,
       "num": 141169,
       "word": "我的秘密室友定档",
@@ -15705,6 +15777,14 @@
       "onboard_time": 1664627903,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140254,
+      "num": 140254,
+      "word": "生日的时候我也要这样拍",
+      "onboard_time": 1665642503,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 140157,
@@ -16225,14 +16305,6 @@
       "onboard_time": 1665544285,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129863,
-      "num": 129863,
-      "word": "张若昀纪念法医秦明六周年",
-      "onboard_time": 1665639384,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129668,
@@ -17683,6 +17755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 106777,
+      "num": 324156,
+      "word": "消防员凌晨就餐4名年轻人悄悄买单",
+      "onboard_time": 1665640824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106643,
       "num": 106643,
       "word": "21岁男子长期熬夜吸出10块血栓",
@@ -18931,14 +19011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84727,
-      "num": 324156,
-      "word": "消防员凌晨就餐4名年轻人悄悄买单",
-      "onboard_time": 1665640824,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84519,
       "num": 84519,
       "word": "陈梦3比0李昱谆",
@@ -19299,6 +19371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77197,
+      "num": 77197,
+      "word": "这张牵手照记录也门撤侨温暖瞬间",
+      "onboard_time": 1665644303,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76567,
       "num": 76567,
       "word": "电影万里归途细节",
@@ -19593,14 +19673,6 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71550,
-      "num": 71550,
-      "word": "休想在小狗眼皮底下偷吃",
-      "onboard_time": 1665641664,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 71292,
@@ -19955,14 +20027,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 64693,
-      "num": 64369,
-      "word": "Score确诊新冠",
-      "onboard_time": 1665642083,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 64640,
       "num": 64640,
       "word": "影视作品中的孤勇者",
@@ -19985,14 +20049,6 @@
       "onboard_time": 1665558084,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64398,
-      "num": 64398,
-      "word": "鼻子一下子就通了",
-      "onboard_time": 1665642143,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 64286,
@@ -20023,6 +20079,14 @@
       "num": 63822,
       "word": "AC米兰0比2切尔西",
       "onboard_time": 1665531923,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63195,
+      "num": 63195,
+      "word": "9个动作练腹部",
+      "onboard_time": 1665643704,
       "rank": 49,
       "category": "体育"
     },
@@ -20931,6 +20995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37356,
+      "num": 743754,
+      "word": "中国女足为热爱打call",
+      "onboard_time": 1665641484,
+      "rank": 4,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 37242,
       "num": 376235,
       "word": "丽水重症病人共享厨房开出第三间",
@@ -21091,14 +21163,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 29319,
-      "num": 339953,
-      "word": "青海戈壁开出27000个蓝色向日葵",
-      "onboard_time": 1665641424,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28918,
       "num": 28918,
       "word": "大妈夜里冒雨帮邻居盖好玉米",
@@ -21195,20 +21259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20404,
+      "num": 287490,
+      "word": "八旬老人背小音箱爬山顶升旗",
+      "onboard_time": 1665644424,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19434,
       "num": 19434,
       "word": "滑滑梯的小熊猫",
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18274,
-      "num": 743754,
-      "word": "中国女足为热爱打call",
-      "onboard_time": 1665641484,
-      "rank": 4,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 17857,
@@ -21233,6 +21297,14 @@
       "onboard_time": 1665434651,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 15670,
+      "num": 304457,
+      "word": "一个厨师组的乐队有多酷",
+      "onboard_time": 1665641424,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 15514,
@@ -21337,14 +21409,6 @@
       "onboard_time": 1664832012,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10818,
-      "num": 304457,
-      "word": "一个厨师组的乐队有多酷",
-      "onboard_time": 1665641424,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 10343,
