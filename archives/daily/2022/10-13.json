@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665674923566,
+  "endTime": 1665676115829,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1322075,
+      "num": 806171,
+      "word": "好像突然没那么焦虑了",
+      "onboard_time": 1665667467,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1288170,
       "num": 847348,
       "word": "Scout确诊",
       "onboard_time": 1665617721,
       "rank": 11,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 1216995,
-      "num": 806171,
-      "word": "好像突然没那么焦虑了",
-      "onboard_time": 1665667467,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 1209397,
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565327,
+      "num": 212019,
+      "word": "公公领工资第一时间全塞给儿媳",
+      "onboard_time": 1665672925,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562363,
       "num": 562363,
       "word": "网购云南菌子盲盒有多绝",
@@ -448,14 +456,6 @@
       "word": "上海拟降低极端通勤人口比例",
       "onboard_time": 1665635246,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504037,
-      "num": 212019,
-      "word": "公公领工资第一时间全塞给儿媳",
-      "onboard_time": 1665672925,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -609,6 +609,14 @@
       "onboard_time": 1665587785,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409337,
+      "num": 214787,
+      "word": "在家数1万粒米算是奇葩作业吗",
+      "onboard_time": 1665672566,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 405022,
@@ -777,6 +785,14 @@
       "onboard_time": 1665629065,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278031,
+      "num": 179167,
+      "word": "李庚希为向涵之新剧打call",
+      "onboard_time": 1665675024,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269352,
@@ -1027,14 +1043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214787,
-      "num": 214787,
-      "word": "在家数1万粒米算是奇葩作业吗",
-      "onboard_time": 1665672566,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 210786,
       "num": 210786,
       "word": "披荆斩棘",
@@ -1163,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185523,
+      "num": 185523,
+      "word": "创造LPL的时代",
+      "onboard_time": 1665673585,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "女子网购运动鞋穿一周拆出剪刀",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1665624444,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173939,
+      "num": 173939,
+      "word": "没想到沈腾还有这样一面",
+      "onboard_time": 1665674305,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172434,
@@ -1339,14 +1363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150573,
-      "num": 150573,
-      "word": "创造LPL的时代",
-      "onboard_time": 1665673585,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148580,
       "num": 148580,
       "word": "一下子从冬天切换到夏天",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1665663864,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141570,
+      "num": 141570,
+      "word": "喜欢和热爱生活的人在一起",
+      "onboard_time": 1665674366,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 138532,
@@ -1483,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119731,
+      "num": 84211,
+      "word": "姚晨新剧强吻李俊墨",
+      "onboard_time": 1665675324,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118976,
       "num": 118976,
       "word": "进返京人员返京后居家健康监测三天",
@@ -1555,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106732,
-      "num": 101254,
-      "word": "没想到沈腾还有这样一面",
-      "onboard_time": 1665674305,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104625,
       "num": 104625,
       "word": "露营遇到最尴尬的事是什么",
@@ -1627,6 +1651,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 86504,
+      "num": 86504,
+      "word": "真心话大冒险的高阶玩法",
+      "onboard_time": 1665675265,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86005,
       "num": 86005,
       "word": "10月12日新增本土无症状1154例",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1665628043,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82182,
+      "num": 82182,
+      "word": "工信部通报38款APP侵害用户权益",
+      "onboard_time": 1665675143,
+      "rank": 34,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 81515,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1665564383,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61188,
-      "num": 61188,
-      "word": "喜欢和热爱生活的人在一起",
-      "onboard_time": 1665674366,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 60259,
@@ -1987,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32991,
+      "num": 40986,
+      "word": "伞兵花式晒奖杯",
+      "onboard_time": 1665675925,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29604,
       "num": 353175,
       "word": "天宫课堂第三课极简版笔记",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22595,
+      "num": 222602,
+      "word": "党史馆珍藏了一张受困矿工的小纸条",
+      "onboard_time": 1665675443,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16113,
