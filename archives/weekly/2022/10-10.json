@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665618443681,
+  "endTime": 1665628196504,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1288170,
+      "num": 847348,
+      "word": "Scout确诊",
+      "onboard_time": 1665617721,
+      "rank": 11,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 1253236,
       "num": 1253236,
       "word": "妻子让丈夫煮筷子结果烧成碳",
@@ -297,14 +305,6 @@
       "onboard_time": 1665449903,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1174155,
-      "num": 294567,
-      "word": "Scout确诊",
-      "onboard_time": 1665617721,
-      "rank": 11,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 1162937,
@@ -451,6 +451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 965783,
+      "num": 965783,
+      "word": "关系越好回消息越慢",
+      "onboard_time": 1665618502,
+      "rank": 0,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 963062,
       "num": 963062,
       "word": "商场回应影院不让带蜜雪冰城",
@@ -504,6 +512,14 @@
       "word": "九寨沟国庆遇冷7天迎客211人",
       "onboard_time": 1665468924,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907081,
+      "num": 907081,
+      "word": "女生靠闹铃找回静音手机",
+      "onboard_time": 1665623485,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -601,6 +617,14 @@
       "onboard_time": 1665375686,
       "rank": 9,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 825530,
+      "num": 825530,
+      "word": "男子花4000元网购手机收到手机壳",
+      "onboard_time": 1665624085,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819086,
@@ -1059,6 +1083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 616436,
+      "num": 616436,
+      "word": "大闸蟹价格降一半",
+      "onboard_time": 1665624683,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 614250,
       "num": 614250,
       "word": "女子拿行李误被朋友开车压骨折",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1665570086,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 554849,
+      "num": 554849,
+      "word": "多地支持农民进城购房",
+      "onboard_time": 1665622585,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549318,
@@ -1467,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482995,
+      "num": 482995,
+      "word": "手机APP为何越来越膨胀",
+      "onboard_time": 1665620187,
+      "rank": 7,
+      "category": "科技,社会议题"
+    },
+    {
       "raw_hot": 482210,
       "num": 416888,
       "word": "陈奕迅香港演唱会加开4场",
@@ -1739,6 +1787,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 417573,
+      "num": 366397,
+      "word": "郑州高新区全民核酸一天两检",
+      "onboard_time": 1665623906,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417142,
       "num": 417142,
       "word": "苏炳添再次起诉新东方子公司侵权",
@@ -1921,6 +1977,14 @@
       "onboard_time": 1665404242,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 388665,
+      "num": 388665,
+      "word": "村民山中捡到13公斤超大松茸菌群",
+      "onboard_time": 1665619226,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387064,
@@ -3067,6 +3131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237714,
+      "num": 237714,
+      "word": "虞书欣说我们下一个角色再见",
+      "onboard_time": 1665620306,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237618,
       "num": 237618,
       "word": "基辅要求民众进入庇护所",
@@ -3339,6 +3411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215960,
+      "num": 189133,
+      "word": "S12赛事更新",
+      "onboard_time": 1665627442,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 214153,
       "num": 214153,
       "word": "演唱会灯海名场面",
@@ -3481,6 +3561,14 @@
       "onboard_time": 1665320962,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203566,
+      "num": 203566,
+      "word": "北京昨日新增本土确诊12例",
+      "onboard_time": 1665623306,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203099,
@@ -3723,6 +3811,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 181796,
+      "num": 181796,
+      "word": "猫猫到底能睡得有多死",
+      "onboard_time": 1665618023,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181569,
       "num": 181569,
       "word": "怎么现在的动物都有点大病",
@@ -3771,6 +3867,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 174424,
+      "num": 174424,
+      "word": "10月12日新增本土确诊322例",
+      "onboard_time": 1665624444,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173907,
       "num": 173907,
       "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
@@ -3801,6 +3905,22 @@
       "onboard_time": 1665537207,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172434,
+      "num": 172434,
+      "word": "并非所有人都能做近视手术",
+      "onboard_time": 1665623485,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171906,
+      "num": 171906,
+      "word": "DK",
+      "onboard_time": 1665628103,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 171784,
@@ -3945,6 +4065,14 @@
       "onboard_time": 1665487705,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162820,
+      "num": 162820,
+      "word": "篮网vs雄鹿",
+      "onboard_time": 1665626544,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 162375,
@@ -4137,6 +4265,14 @@
       "onboard_time": 1665523451,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 151397,
+      "num": 151397,
+      "word": "金晨晒扫楼下班随拍",
+      "onboard_time": 1665619766,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151028,
@@ -4635,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123293,
+      "num": 123293,
+      "word": "我国成功发射5米S-SAR01星",
+      "onboard_time": 1665618984,
+      "rank": 34,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 122948,
       "num": 122948,
       "word": "中国女排0比1落后意大利",
@@ -4729,6 +4873,14 @@
       "onboard_time": 1665578964,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115493,
+      "num": 115493,
+      "word": "祁发宝含泪讲从没有兄弟跟我说戍边苦",
+      "onboard_time": 1665621387,
+      "rank": 36,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 114958,
@@ -5059,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94573,
+      "num": 94573,
+      "word": "我隔着屏幕都闻到味了",
+      "onboard_time": 1665626905,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94366,
       "num": 94366,
       "word": "爱的二八定律六宫格剧照",
@@ -5172,7 +5332,7 @@
     },
     {
       "raw_hot": 88890,
-      "num": 773556,
+      "num": 864944,
       "word": "中国的十个维度",
       "onboard_time": 1665579743,
       "rank": 2,
@@ -5203,12 +5363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86005,
+      "num": 86005,
+      "word": "10月12日新增本土无症状1154例",
+      "onboard_time": 1665626123,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "樊振东表情",
       "onboard_time": 1665318924,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85566,
+      "num": 85566,
+      "word": "6种中老年易发易致盲眼病",
+      "onboard_time": 1665628043,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84868,
@@ -5587,14 +5763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54096,
-      "num": 54096,
-      "word": "猫猫到底能睡得有多死",
-      "onboard_time": 1665618023,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
@@ -5665,6 +5833,14 @@
       "onboard_time": 1665358581,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 42647,
+      "num": 262669,
+      "word": "75岁奶奶连续4年绣鞋垫送消防员",
+      "onboard_time": 1665626484,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41519,

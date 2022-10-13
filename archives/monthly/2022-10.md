@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 07:47:23
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 10:29:56
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ PDD已起诉多人侵犯名誉权（热度：1318290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Scout%E7%A1%AE%E8%AF%8A%23" target="weibo">
+Scout确诊（热度：1288170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%915100%E4%BA%BF%23" target="weibo">
 特斯拉市值一夜蒸发5100亿（热度：1288079）
 </a>
@@ -1025,12 +1031,6 @@ T1战胜EDG（热度：1259172）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E5%BC%80%E5%88%869.6%23" target="weibo">
 万里归途开分9.6（热度：1176261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Scout%E7%A1%AE%E8%AF%8A%23" target="weibo">
-Scout确诊（热度：1174155）
 </a>
 </li>
 
@@ -1449,6 +1449,12 @@ iPhone14Plus上市破发（热度：986191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%B3%BB%E8%B6%8A%E5%A5%BD%E5%9B%9E%E6%B6%88%E6%81%AF%E8%B6%8A%E6%85%A2%23" target="weibo">
+关系越好回消息越慢（热度：965783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E9%87%9C%E6%97%A5%E7%94%B5%E5%BD%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
 汤唯釜日电影奖最佳女主角（热度：964653）
 </a>
@@ -1547,6 +1553,12 @@ iPhone14Plus上市破发（热度：986191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%9B%BD%E5%BA%86%E9%81%87%E5%86%B77%E5%A4%A9%E8%BF%8E%E5%AE%A2211%E4%BA%BA%23" target="weibo">
 九寨沟国庆遇冷7天迎客211人（热度：912623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%9D%A0%E9%97%B9%E9%93%83%E6%89%BE%E5%9B%9E%E9%9D%99%E9%9F%B3%E6%89%8B%E6%9C%BA%23" target="weibo">
+女生靠闹铃找回静音手机（热度：907081）
 </a>
 </li>
 
@@ -1757,6 +1769,12 @@ eStar七冠王（热度：894969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%BB%A5%E4%B8%BA%E6%88%AA%E5%9B%BE%E5%8F%AF%E4%BB%A5%E7%95%99%E4%BD%8F%E4%BA%9B%E4%BB%80%E4%B9%88%23" target="weibo">
 总以为截图可以留住些什么（热度：826367）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B14000%E5%85%83%E7%BD%91%E8%B4%AD%E6%89%8B%E6%9C%BA%E6%94%B6%E5%88%B0%E6%89%8B%E6%9C%BA%E5%A3%B3%23" target="weibo">
+男子花4000元网购手机收到手机壳（热度：825530）
 </a>
 </li>
 
@@ -2763,6 +2781,12 @@ iPhone14Plus遇冷Pro卖爆（热度：618927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%80%E5%8D%8A%23" target="weibo">
+大闸蟹价格降一半（热度：616436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BC%A0%E7%AB%99%E9%97%A8%E6%A1%86%E4%B8%8E%E7%8B%97%E5%83%B5%E6%8C%81%E5%AF%B9%E5%B3%996%E5%B0%8F%E6%97%B6%23" target="weibo">
 老鼠站门框与狗僵持对峙6小时（热度：615037）
 </a>
@@ -3149,6 +3173,12 @@ RNG战胜SGB（热度：556732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E8%BD%A6%E8%BF%9B%E4%BA%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9D%87%E6%84%9F%E6%9F%93%23" target="weibo">
 拼车进京一家四口均感染（热度：554894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%94%AF%E6%8C%81%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%23" target="weibo">
+多地支持农民进城购房（热度：554849）
 </a>
 </li>
 
@@ -3731,6 +3761,12 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CDK%23" target="weibo">
 JDG战胜DK（热度：484636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BAAPP%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%86%A8%E8%83%80%23" target="weibo">
+手机APP为何越来越膨胀（热度：482995）
 </a>
 </li>
 
@@ -4575,6 +4611,12 @@ VOGUE 女明星（热度：421757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E9%AB%98%E6%96%B0%E5%8C%BA%E5%85%A8%E6%B0%91%E6%A0%B8%E9%85%B8%E4%B8%80%E5%A4%A9%E4%B8%A4%E6%A3%80%23" target="weibo">
+郑州高新区全民核酸一天两检（热度：417573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E8%88%B9%E8%89%BA%E4%BA%BA%E5%B0%86%E5%87%BA%E6%BC%94%E5%87%BA%E5%B7%AE%E5%8D%81%E4%BA%94%E5%A4%9C%23" target="weibo">
 星船艺人将出演出差十五夜（热度：417426）
 </a>
@@ -5003,6 +5045,12 @@ felix镜头（热度：390879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E6%B3%84%E6%BC%8F%E5%90%8E%E7%9A%84%E7%94%B2%E7%83%B7%E4%BA%91%E5%87%A0%E5%A4%A9%E5%90%8E%E5%B0%86%E5%88%B0%E5%8C%97%E6%9E%81%23" target="weibo">
 北溪泄漏后的甲烷云几天后将到北极（热度：389532）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E5%B1%B1%E4%B8%AD%E6%8D%A1%E5%88%B013%E5%85%AC%E6%96%A4%E8%B6%85%E5%A4%A7%E6%9D%BE%E8%8C%B8%E8%8F%8C%E7%BE%A4%23" target="weibo">
+村民山中捡到13公斤超大松茸菌群（热度：388665）
 </a>
 </li>
 
@@ -5963,54 +6011,6 @@ gidle新专辑预售量突破70万张（热度：331496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
 乌克兰大部分地区拉响防空警报（热度：328223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%8511%E4%BE%8B%23" target="weibo">
-北京新增本土感染者11例（热度：327564）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%8E%8B%E5%AE%89%E5%AE%87%E7%82%BD%E9%81%93%E5%BC%80%E5%88%867.1%23" target="weibo">
-金晨王安宇炽道开分7.1（热度：326584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%84%BF%E5%AD%90%E5%A4%96%E5%87%BA%E8%81%9A%E9%A4%90%E9%85%92%E9%86%89%E5%80%92%E8%B7%AF%E8%BE%B9%23" target="weibo">
-爸爸带儿子外出聚餐酒醉倒路边（热度：325734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%B6%85%E5%B0%8F%E5%8F%B7%E8%AD%A6%E7%8A%AC%E5%B7%B2%E4%B8%8A%E5%B2%977%E5%A4%A9%23" target="weibo">
-南京超小号警犬已上岗7天（热度：324679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%90%83%E6%B3%A1%E8%8A%99%E5%90%8E%E4%B8%8D%E8%82%AF%E5%90%83%E7%8B%97%E7%B2%AE%E9%A5%BF%E8%84%B1%E6%B0%B4%23" target="weibo">
-狗狗吃泡芙后不肯吃狗粮饿脱水（热度：324368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2393%E5%B2%81%E4%B8%93%E5%AE%B6%E8%B0%A2%E7%BB%9D%E9%89%B4%E5%AE%9D%E4%B8%8D%E6%84%BF%E6%8C%A3%E8%BF%99%E4%B8%AA%E9%92%B1%23" target="weibo">
-93岁专家谢绝鉴宝不愿挣这个钱（热度：324280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E7%9B%B4%E8%B7%BA%E8%84%9A%E8%A2%AB%E6%8A%A4%E5%A3%AB%E7%9C%8B%E5%87%BA%E4%B8%AD%E9%A3%8E%23" target="weibo">
-老人公交车上直跺脚被护士看出中风（热度：323957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A13%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6661%E4%BE%8B%23" target="weibo">
-内蒙古增本土确诊13例无症状661例（热度：323787）
 </a>
 </li>
 
