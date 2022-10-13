@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 20:57:57
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 21:32:13
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ iPhone14Plus上市破发（热度：986191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AD%99%E5%AD%90%E5%8F%88%E6%94%BE%E7%82%AE%E5%8F%88%E8%84%B1%E8%A1%A3%E6%9C%8D%23" target="weibo">
+爷爷第一次见孙子又放炮又脱衣服（热度：970009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%BA%BA%E8%BF%87%E4%B8%96%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8C%96%E8%BA%AB%E8%9D%B4%E8%9D%B6%E5%90%97%23" target="weibo">
 恋人过世真的会化身蝴蝶吗（热度：969576）
 </a>
@@ -2015,6 +2021,12 @@ TouchID不太可能回到iPhone（热度：782989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DK%23" target="weibo">
 DK（热度：781704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%83%AD%E5%BA%A6%23" target="weibo">
+人生大事中国台湾网飞热度（热度：781667）
 </a>
 </li>
 
@@ -3255,6 +3267,12 @@ SK（热度：578344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9F%E5%85%89%E8%AF%B4%E9%B9%A7%E9%B8%AA%E5%93%A8%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+高伟光说鹧鸪哨又回来了（热度：570706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
 电视剧底线（热度：570148）
 </a>
@@ -3825,12 +3843,6 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%83%AD%E5%BA%A6%23" target="weibo">
-人生大事中国台湾网飞热度（热度：507743）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E6%A6%B4%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%81%9A%E5%87%BA%E7%94%9C%E5%93%81%23" target="weibo">
 石榴竟然还可以做出甜品（热度：507371）
 </a>
@@ -4013,12 +4025,6 @@ IU首登韩版Vogue11月刊（热度：501833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CDK%23" target="weibo">
 JDG战胜DK（热度：484636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AD%99%E5%AD%90%E5%8F%88%E6%94%BE%E7%82%AE%E5%8F%88%E8%84%B1%E8%A1%A3%E6%9C%8D%23" target="weibo">
-爷爷第一次见孙子又放炮又脱衣服（热度：484064）
 </a>
 </li>
 
@@ -4755,6 +4761,12 @@ aespaSavage发行一周年（热度：437595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%BB%E5%88%9B%E6%A0%B8%E5%BF%83%E5%8D%96%E7%82%B9%E6%98%AF%E4%B8%BB%E6%BC%94%E6%9D%A8%E7%B4%AB%23" target="weibo">
+长相思主创核心卖点是主演杨紫（热度：429198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E6%AF%9B%E4%B8%8D%E6%98%93%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23" target="weibo">
 孟子义把毛不易李雪琴整不会了（热度：428519）
 </a>
@@ -5069,12 +5081,6 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E8%A1%A3%E6%9C%8D%E8%A2%AB%E6%8B%89%E9%93%BE%E5%8D%A1%E4%BD%8F%E7%9C%BC%E7%9A%AE%23" target="weibo">
 老人穿衣服被拉链卡住眼皮（热度：406886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9F%E5%85%89%E8%AF%B4%E9%B9%A7%E9%B8%AA%E5%93%A8%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-高伟光说鹧鸪哨又回来了（热度：406873）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%86%E5%BC%80%E5%A7%8B%E9%85%8D%E9%9F%B3%23" target="weibo">
 刘亦菲去有风的地方将开始配音（热度：350217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BE%9A%E4%BF%8Avoguefilm%E5%90%88%E7%85%A7%23" target="weibo">
-赵丽颖龚俊voguefilm合照（热度：350168）
 </a>
 </li>
 

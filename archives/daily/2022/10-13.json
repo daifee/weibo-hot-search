@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665665877723,
+  "endTime": 1665667933961,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 970009,
+      "num": 484064,
+      "word": "爷爷第一次见孙子又放炮又脱衣服",
+      "onboard_time": 1665663144,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965783,
       "num": 965783,
       "word": "关系越好回消息越慢",
@@ -177,6 +185,14 @@
       "onboard_time": 1665628103,
       "rank": 25,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 781667,
+      "num": 458358,
+      "word": "人生大事中国台湾网飞热度",
+      "onboard_time": 1665665306,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 766388,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570706,
+      "num": 570706,
+      "word": "高伟光说鹧鸪哨又回来了",
+      "onboard_time": 1665664883,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562363,
       "num": 562363,
       "word": "网购云南菌子盲盒有多绝",
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507743,
-      "num": 458358,
-      "word": "人生大事中国台湾网飞热度",
-      "onboard_time": 1665665306,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 501833,
       "num": 358069,
       "word": "IU首登韩版Vogue11月刊",
@@ -425,14 +441,6 @@
       "onboard_time": 1665647665,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 484064,
-      "num": 484064,
-      "word": "爷爷第一次见孙子又放炮又脱衣服",
-      "onboard_time": 1665663144,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482995,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429198,
+      "num": 288521,
+      "word": "长相思主创核心卖点是主演杨紫",
+      "onboard_time": 1665665426,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427260,
       "num": 427260,
       "word": "12岁女孩看自己5岁视频一脸惊讶",
@@ -545,14 +561,6 @@
       "onboard_time": 1665587785,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406873,
-      "num": 406873,
-      "word": "高伟光说鹧鸪哨又回来了",
-      "onboard_time": 1665664883,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 405022,
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307011,
+      "num": 265815,
+      "word": "南宁动物园回应动物不正经",
+      "onboard_time": 1665665485,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300807,
       "num": 300807,
       "word": "看到这张脸很难不怦然心动",
@@ -707,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288521,
-      "num": 288521,
-      "word": "长相思主创核心卖点是主演杨紫",
-      "onboard_time": 1665665426,
+      "raw_hot": 274956,
+      "num": 264431,
+      "word": "医院回应医生当患者面用手机查百度",
+      "onboard_time": 1665666325,
       "rank": 16,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269352,
@@ -721,6 +737,14 @@
       "onboard_time": 1665651024,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267800,
+      "num": 267800,
+      "word": "原来口红色号可以这么选",
+      "onboard_time": 1665662123,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 260503,
@@ -841,6 +865,14 @@
       "onboard_time": 1665620306,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237548,
+      "num": 237548,
+      "word": "美国9月CPI同比上涨8.2%",
+      "onboard_time": 1665666743,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 234458,
@@ -995,20 +1027,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201843,
+      "num": 201843,
+      "word": "王大陆发文感谢披荆斩棘的兄弟们",
+      "onboard_time": 1665665843,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200592,
       "num": 200592,
       "word": "谁能拒绝彩色玻璃呢",
       "onboard_time": 1665632727,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199495,
-      "num": 199495,
-      "word": "原来口红色号可以这么选",
-      "onboard_time": 1665662123,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 194309,
@@ -1115,12 +1147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171679,
+      "num": 171679,
+      "word": "81岁奶奶能连续跳绳1000个",
+      "onboard_time": 1665663324,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 170385,
       "num": 170385,
       "word": "巴萨3比3国米",
       "onboard_time": 1665616759,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168650,
+      "num": 168650,
+      "word": "Q4有望播出的古装剧",
+      "onboard_time": 1665666264,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 164755,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1665648685,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157044,
-      "num": 66492,
-      "word": "王大陆发文感谢披荆斩棘的兄弟们",
-      "onboard_time": 1665665843,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156293,
@@ -1267,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138254,
+      "num": 138254,
+      "word": "谁看了不想去山东搂席",
+      "onboard_time": 1665663864,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134662,
       "num": 134662,
       "word": "4分钟感受西部战区震撼战斗力",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1665656664,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129220,
-      "num": 129220,
-      "word": "81岁奶奶能连续跳绳1000个",
-      "onboard_time": 1665663324,
-      "rank": 29,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 124919,
@@ -1459,14 +1499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 102019,
-      "num": 102019,
-      "word": "谁看了不想去山东搂席",
-      "onboard_time": 1665663864,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99344,
       "num": 99344,
       "word": "当世界上有两个我",
@@ -1539,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81180,
+      "num": 81180,
+      "word": "好像突然没那么焦虑了",
+      "onboard_time": 1665667467,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80084,
       "num": 80084,
       "word": "二十大召开时间",
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76424,
+      "num": 76424,
+      "word": "大爷用简陋钓竿在排水管里钓海鱼",
+      "onboard_time": 1665662843,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75720,
       "num": 75720,
       "word": "没见过跳舞这么会扭的狗狗",
@@ -1595,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67843,
-      "num": 67843,
-      "word": "南宁动物园回应动物不正经",
-      "onboard_time": 1665665485,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67683,
       "num": 597996,
       "word": "拉祜族女生为爱写的歌好感动",
@@ -1624,14 +1664,6 @@
       "word": "八旬老人背小音箱爬山顶升旗",
       "onboard_time": 1665644424,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65237,
-      "num": 65237,
-      "word": "大爷用简陋钓竿在排水管里钓海鱼",
-      "onboard_time": 1665662843,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1815,6 +1847,14 @@
       "num": 297912,
       "word": "12组卫星图看中国十年巨变",
       "onboard_time": 1665662423,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30825,
+      "num": 265323,
+      "word": "热心邻居教科书式救助受伤阿婆",
+      "onboard_time": 1665666025,
       "rank": 14,
       "category": "社会新闻"
     },
