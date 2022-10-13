@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665651142328,
+  "endTime": 1665653355231,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -361,6 +361,14 @@
       "onboard_time": 1665371182,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1135332,
+      "num": 1135332,
+      "word": "要坚决整治层层加码",
+      "onboard_time": 1665648565,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129925,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 796507,
-      "num": 332415,
+      "num": 352954,
       "word": "2人在小区群对骂14个月被判相互道歉",
       "onboard_time": 1665637526,
       "rank": 15,
@@ -947,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 713524,
+      "num": 367991,
+      "word": "男子下班遇领导按住电梯要求加班",
+      "onboard_time": 1665648923,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712236,
       "num": 712236,
       "word": "唐朝诡事录",
@@ -1024,6 +1040,14 @@
       "word": "公司面试表问能否接受无偿加班",
       "onboard_time": 1665461664,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681800,
+      "num": 361031,
+      "word": "老板回应4碗粿条545元被质疑天价",
+      "onboard_time": 1665649344,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1675,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 501833,
+      "num": 358069,
+      "word": "IU首登韩版Vogue11月刊",
+      "onboard_time": 1665652584,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 501590,
       "num": 501590,
       "word": "中国女篮排名升至世界第二",
@@ -1720,14 +1752,6 @@
       "word": "幼儿园老师用粉笔画出渐变色",
       "onboard_time": 1665487463,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483701,
-      "num": 355842,
-      "word": "男子下班遇领导按住电梯要求加班",
-      "onboard_time": 1665648923,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2155,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403775,
-      "num": 344028,
-      "word": "老板回应4碗粿条545元被质疑天价",
-      "onboard_time": 1665649344,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402485,
       "num": 402485,
       "word": "RNG战胜CFO",
@@ -2403,14 +2419,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 365843,
-      "num": 365843,
-      "word": "要坚决整治层层加码",
-      "onboard_time": 1665648565,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365150,
       "num": 365150,
       "word": "梁朝伟王一博程耳悬疑蒙太奇",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1665549629,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353625,
+      "num": 353625,
+      "word": "成都市武侯区调整部分区域风险区等级",
+      "onboard_time": 1665649945,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352258,
@@ -2611,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342598,
+      "num": 342598,
+      "word": "采访阿水记者说翻译是正确的",
+      "onboard_time": 1665648565,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 341736,
       "num": 341736,
       "word": "这退休生活迟早是我的",
@@ -2672,14 +2696,6 @@
       "word": "2022年诺贝尔经济学奖揭晓",
       "onboard_time": 1665396922,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334367,
-      "num": 334367,
-      "word": "成都市武侯区调整部分区域风险区等级",
-      "onboard_time": 1665649945,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2753,6 +2769,14 @@
       "onboard_time": 1665500905,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320452,
+      "num": 320452,
+      "word": "不能以静默代替管控",
+      "onboard_time": 1665652342,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320377,
@@ -3131,6 +3155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270784,
+      "num": 270784,
+      "word": "杜富国已重新回到扫雷排爆大队",
+      "onboard_time": 1665651802,
+      "rank": 20,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 269701,
       "num": 269701,
       "word": "嗜睡也属于睡眠障碍",
@@ -3248,14 +3280,6 @@
       "word": "RNG状态",
       "onboard_time": 1665375204,
       "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 263324,
-      "num": 263324,
-      "word": "采访阿水记者说翻译是正确的",
-      "onboard_time": 1665648565,
-      "rank": 24,
       "category": "游戏"
     },
     {
@@ -3547,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242309,
+      "num": 242309,
+      "word": "这真的是猫菜瘾大",
+      "onboard_time": 1665651024,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237714,
       "num": 237714,
       "word": "虞书欣说我们下一个角色再见",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1665626905,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216742,
+      "num": 216742,
+      "word": "秦岚人送外号山风姐",
+      "onboard_time": 1665653065,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 216180,
@@ -4259,12 +4299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186608,
+      "num": 186608,
+      "word": "kep1er新曲wefresh",
+      "onboard_time": 1665652225,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185722,
       "num": 185722,
       "word": "女子发寻物视频遭人恶意骚扰",
       "onboard_time": 1665438910,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184673,
+      "num": 184673,
+      "word": "电影放牛班的春天将内地重映",
+      "onboard_time": 1665651325,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 183889,
@@ -4396,7 +4452,7 @@
     },
     {
       "raw_hot": 172457,
-      "num": 547922,
+      "num": 554073,
       "word": "许多国宝动物正回到我们身边",
       "onboard_time": 1665537207,
       "rank": 23,
@@ -4795,6 +4851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153072,
+      "num": 153072,
+      "word": "冬天需要这个手机壳",
+      "onboard_time": 1665652225,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152415,
       "num": 152415,
       "word": "6名男生就地取材宿舍内健身",
@@ -4921,6 +4985,14 @@
       "onboard_time": 1665312502,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146336,
+      "num": 146336,
+      "word": "厦门树洞简直是我的嘴替",
+      "onboard_time": 1665649822,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 145415,
@@ -5289,14 +5361,6 @@
       "onboard_time": 1665488364,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125108,
-      "num": 125108,
-      "word": "厦门树洞简直是我的嘴替",
-      "onboard_time": 1665649822,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 124824,
@@ -6091,6 +6155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 80843,
+      "num": 80843,
+      "word": "俄称修复北溪管道至少要一年",
+      "onboard_time": 1665651744,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 80269,
       "num": 80269,
       "word": "一张照片读懂了消防员的奋不顾身",
@@ -6105,14 +6177,6 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79129,
-      "num": 79129,
-      "word": "这真的是猫菜瘾大",
-      "onboard_time": 1665651024,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 78741,
@@ -6617,6 +6681,14 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22899,
+      "num": 353175,
+      "word": "天宫课堂第三课极简版笔记",
+      "onboard_time": 1665651625,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17793,

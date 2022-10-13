@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665651142328,
+  "endTime": 1665653355231,
   "band_list": [
     {
       "raw_hot": 1848333,
@@ -57,6 +57,14 @@
       "onboard_time": 1665617721,
       "rank": 11,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1135332,
+      "num": 1135332,
+      "word": "要坚决整治层层加码",
+      "onboard_time": 1665648565,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1004231,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 796507,
-      "num": 332415,
+      "num": 352954,
       "word": "2人在小区群对骂14个月被判相互道歉",
       "onboard_time": 1665637526,
       "rank": 15,
@@ -163,6 +171,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 713524,
+      "num": 367991,
+      "word": "男子下班遇领导按住电梯要求加班",
+      "onboard_time": 1665648923,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705111,
       "num": 663658,
       "word": "Viper",
@@ -176,6 +192,14 @@
       "word": "女儿让患阿尔茨海默母亲挑豆子",
       "onboard_time": 1665630085,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681800,
+      "num": 361031,
+      "word": "老板回应4碗粿条545元被质疑天价",
+      "onboard_time": 1665649344,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -299,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501833,
+      "num": 358069,
+      "word": "IU首登韩版Vogue11月刊",
+      "onboard_time": 1665652584,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 501508,
       "num": 501508,
       "word": "法国呼吁美国天然气卖便宜些",
       "onboard_time": 1665647665,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 483701,
-      "num": 355842,
-      "word": "男子下班遇领导按住电梯要求加班",
-      "onboard_time": 1665648923,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482995,
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403775,
-      "num": 344028,
-      "word": "老板回应4碗粿条545元被质疑天价",
-      "onboard_time": 1665649344,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391034,
       "num": 391034,
       "word": "南京大学首次跻身世界大学排名百强",
@@ -443,19 +459,19 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 365843,
-      "num": 365843,
-      "word": "要坚决整治层层加码",
-      "onboard_time": 1665648565,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358446,
       "num": 290714,
       "word": "北京首批毕业生公寓全装修新房月租2000元起",
       "onboard_time": 1665600013,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353625,
+      "num": 353625,
+      "word": "成都市武侯区调整部分区域风险区等级",
+      "onboard_time": 1665649945,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -467,19 +483,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 342598,
+      "num": 342598,
+      "word": "采访阿水记者说翻译是正确的",
+      "onboard_time": 1665648565,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338285,
       "num": 338285,
       "word": "7个迹象发现致命血栓",
       "onboard_time": 1665632845,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334367,
-      "num": 334367,
-      "word": "成都市武侯区调整部分区域风险区等级",
-      "onboard_time": 1665649945,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -489,6 +505,14 @@
       "onboard_time": 1665572245,
       "rank": 11,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 320452,
+      "num": 320452,
+      "word": "不能以静默代替管控",
+      "onboard_time": 1665652342,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318182,
@@ -539,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263324,
-      "num": 263324,
-      "word": "采访阿水记者说翻译是正确的",
-      "onboard_time": 1665648565,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 270784,
+      "num": 270784,
+      "word": "杜富国已重新回到扫雷排爆大队",
+      "onboard_time": 1665651802,
+      "rank": 20,
+      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 260503,
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242309,
+      "num": 242309,
+      "word": "这真的是猫菜瘾大",
+      "onboard_time": 1665651024,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237714,
       "num": 237714,
       "word": "虞书欣说我们下一个角色再见",
@@ -681,6 +713,14 @@
       "onboard_time": 1665626905,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216742,
+      "num": 216742,
+      "word": "秦岚人送外号山风姐",
+      "onboard_time": 1665653065,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 215567,
@@ -779,11 +819,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186608,
+      "num": 186608,
+      "word": "kep1er新曲wefresh",
+      "onboard_time": 1665652225,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186497,
       "num": 186497,
       "word": "唐朝诡事录",
       "onboard_time": 1665572364,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184673,
+      "num": 184673,
+      "word": "电影放牛班的春天将内地重映",
+      "onboard_time": 1665651325,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -923,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153072,
+      "num": 153072,
+      "word": "冬天需要这个手机壳",
+      "onboard_time": 1665652225,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151397,
       "num": 151397,
       "word": "金晨晒扫楼下班随拍",
@@ -944,6 +1008,14 @@
       "word": "一下子从冬天切换到夏天",
       "onboard_time": 1665634225,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146336,
+      "num": 146336,
+      "word": "厦门树洞简直是我的嘴替",
+      "onboard_time": 1665649822,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -977,14 +1049,6 @@
       "onboard_time": 1665645863,
       "rank": 37,
       "category": "影视,体育"
-    },
-    {
-      "raw_hot": 125108,
-      "num": 125108,
-      "word": "厦门树洞简直是我的嘴替",
-      "onboard_time": 1665649822,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 124154,
@@ -1032,6 +1096,14 @@
       "word": "进返京人员返京后居家健康监测三天",
       "onboard_time": 1665579387,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118328,
+      "num": 554073,
+      "word": "许多国宝动物正回到我们身边",
+      "onboard_time": 1665650423,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80843,
+      "num": 80843,
+      "word": "俄称修复北溪管道至少要一年",
+      "onboard_time": 1665651744,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 80084,
       "num": 80084,
       "word": "二十大召开时间",
@@ -1177,14 +1257,6 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79129,
-      "num": 79129,
-      "word": "这真的是猫菜瘾大",
-      "onboard_time": 1665651024,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 76995,
@@ -1323,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43850,
-      "num": 547922,
-      "word": "许多国宝动物正回到我们身边",
-      "onboard_time": 1665650423,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42647,
       "num": 262669,
       "word": "75岁奶奶连续4年绣鞋垫送消防员",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22899,
+      "num": 353175,
+      "word": "天宫课堂第三课极简版笔记",
+      "onboard_time": 1665651625,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16113,
