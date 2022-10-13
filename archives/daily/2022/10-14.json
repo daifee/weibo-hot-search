@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665692957333,
+  "endTime": 1665693950137,
   "band_list": [
     {
       "raw_hot": 781704,
@@ -275,6 +275,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 58234,
+      "num": 17063,
+      "word": "今年将迎来冷冬还是暖冬",
+      "onboard_time": 1665689952,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55953,
       "num": 55953,
       "word": "深圳晚霞",
@@ -355,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42302,
-      "num": 11431,
-      "word": "今年将迎来冷冬还是暖冬",
-      "onboard_time": 1665689952,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41272,
       "num": 41272,
       "word": "成都市武侯区调整部分区域风险区等级",
@@ -435,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22506,
+      "num": 13464,
+      "word": "云南省第一人民医院总院静态管理",
+      "onboard_time": 1665690251,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21706,
-      "num": 13247,
+      "num": 15435,
       "word": "电钻突然在脚下破地而出",
       "onboard_time": 1665688812,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21526,
+      "num": 21526,
+      "word": "GenG",
+      "onboard_time": 1665690911,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 21148,
@@ -459,12 +475,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 18680,
-      "num": 11355,
-      "word": "云南省第一人民医院总院静态管理",
-      "onboard_time": 1665690251,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 13763,
+      "num": 13763,
+      "word": "降温后的南北差异",
+      "onboard_time": 1665692230,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 12007,
@@ -483,19 +499,59 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10086,
-      "num": 10086,
-      "word": "GenG",
-      "onboard_time": 1665690911,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 8280,
       "num": 8280,
       "word": "8000元现金丢失民警发现小猫作案",
       "onboard_time": 1665688690,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7958,
+      "num": 9211,
+      "word": "北京新增12例本土感染者含3例社会面",
+      "onboard_time": 1665692051,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7748,
+      "num": 9185,
+      "word": "世界杯国家列传",
+      "onboard_time": 1665690850,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7345,
+      "num": 9178,
+      "word": "小伙独自过生日老板娘送来蛋糕",
+      "onboard_time": 1665692412,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6904,
+      "num": 9148,
+      "word": "锡安伤退",
+      "onboard_time": 1665693490,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6798,
+      "num": 9068,
+      "word": "90后男老师为毕业生打造治愈教室",
+      "onboard_time": 1665693910,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6663,
+      "num": 9121,
+      "word": "苏州拟回购1万套新房",
+      "onboard_time": 1665693250,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -523,44 +579,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 5658,
-      "num": 5658,
-      "word": "北京新增12例本土感染者含3例社会面",
-      "onboard_time": 1665692051,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5611,
-      "num": 5611,
-      "word": "小伙独自过生日老板娘送来蛋糕",
-      "onboard_time": 1665692412,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5590,
-      "num": 5590,
-      "word": "世界杯国家列传",
-      "onboard_time": 1665690850,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 5380,
       "num": 5526,
       "word": "大熊猫绝不让观众白买票",
       "onboard_time": 1665692171,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5335,
-      "num": 5508,
-      "word": "降温后的南北差异",
-      "onboard_time": 1665692230,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 5322,
@@ -577,6 +601,22 @@
       "onboard_time": 1665692710,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5197,
+      "num": 9059,
+      "word": "这是新品种的鱼吗",
+      "onboard_time": 1665693791,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 5164,
+      "num": 9043,
+      "word": "孙兴慜欧冠进球数超过小罗",
+      "onboard_time": 1665693011,
+      "rank": 49,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
