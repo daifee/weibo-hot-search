@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665752138320,
+  "endTime": 1665754219476,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -83,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1229555,
+      "num": 283110,
+      "word": "鹿晗录制脱口秀大会总决赛",
+      "onboard_time": 1665752604,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1223009,
       "num": 1223009,
       "word": "EDG晋级八强",
@@ -115,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1136120,
+      "num": 306115,
+      "word": "东北一串店禁玩手机每人低消10串",
+      "onboard_time": 1665749843,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113804,
       "num": 1113804,
       "word": "刘恺威披荆斩棘四公淘汰",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 978107,
-      "num": 252949,
+      "num": 279163,
       "word": "真正的美貌从来不存在艳压",
       "onboard_time": 1665746842,
       "rank": 13,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 659616,
-      "num": 276737,
+      "num": 305000,
       "word": "海恩贤圭车内牵手",
       "onboard_time": 1665748162,
       "rank": 5,
@@ -283,16 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600549,
-      "num": 270822,
-      "word": "东北一串店禁玩手机每人低消10串",
-      "onboard_time": 1665749843,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582543,
-      "num": 223771,
+      "num": 277619,
       "word": "日本男子出租自己4年赚近200万",
       "onboard_time": 1665748643,
       "rank": 12,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 476345,
-      "num": 222022,
+      "num": 270349,
       "word": "原来胡歌演过离歌MV男主",
       "onboard_time": 1665750383,
       "rank": 13,
@@ -417,6 +425,14 @@
       "onboard_time": 1665713484,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 408678,
+      "num": 271326,
+      "word": "党的二十大将于16日10时在京举行",
+      "onboard_time": 1665750563,
+      "rank": 20,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 399823,
@@ -603,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302152,
-      "num": 183938,
-      "word": "党的二十大将于16日10时在京举行",
-      "onboard_time": 1665750563,
-      "rank": 20,
-      "category": "国内要闻"
+      "raw_hot": 303325,
+      "num": 303325,
+      "word": "TTG",
+      "onboard_time": 1665752962,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 293739,
@@ -627,11 +643,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283411,
+      "num": 283411,
+      "word": "怎样才能忘掉喜欢的人",
+      "onboard_time": 1665749543,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279670,
-      "num": 279670,
+      "num": 305699,
       "word": "这十年追光之夜",
       "onboard_time": 1665751945,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278810,
+      "num": 179200,
+      "word": "追光者剧情",
+      "onboard_time": 1665753324,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -643,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267977,
+      "num": 267977,
+      "word": "高校通报教师图书馆打电话声音过大出言不逊",
+      "onboard_time": 1665749181,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 262174,
       "num": 262174,
       "word": "宁波市北仑区新增4例确诊病例",
       "onboard_time": 1665737783,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260512,
-      "num": 219330,
-      "word": "高校通报教师图书馆打电话声音过大出言不逊",
-      "onboard_time": 1665749181,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 253193,
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210483,
+      "num": 210483,
+      "word": "民警下夜勤买炒粉巧遇小偷团伙",
+      "onboard_time": 1665748822,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202729,
       "num": 202729,
       "word": "被爱真的有迹可循",
@@ -801,14 +841,6 @@
       "onboard_time": 1665717623,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201798,
-      "num": 201798,
-      "word": "民警下夜勤买炒粉巧遇小偷团伙",
-      "onboard_time": 1665748822,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200952,
@@ -857,14 +889,6 @@
       "onboard_time": 1665744746,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195333,
-      "num": 195333,
-      "word": "怎样才能忘掉喜欢的人",
-      "onboard_time": 1665749543,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 194954,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131561,
+      "num": 131561,
+      "word": "美国俩父亲争吵开枪互射对方女儿",
+      "onboard_time": 1665753505,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "全班43人帮9岁听障女孩练习说话",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1665702619,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122179,
+      "num": 116166,
+      "word": "古装剧里最好嗑的cp",
+      "onboard_time": 1665753865,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 118615,
@@ -1163,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116575,
+      "num": 116575,
+      "word": "90岁老人收到生日礼物笑掉假牙",
+      "onboard_time": 1665750984,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116485,
       "num": 116485,
       "word": "如何看待花大钱省小钱的消费观",
       "onboard_time": 1665727163,
       "rank": 33,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 115385,
+      "num": 115385,
+      "word": "如果孩子问你为什么要读书",
+      "onboard_time": 1665752785,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 113790,
@@ -1241,6 +1297,22 @@
       "onboard_time": 1665714566,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103514,
+      "num": 103514,
+      "word": "冷空气又双叒要来了",
+      "onboard_time": 1665751582,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 102553,
+      "word": "翟子路哭戏感染力",
+      "onboard_time": 1665752483,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 101782,
@@ -1355,20 +1427,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 87442,
+      "num": 87442,
+      "word": "2猫咪校园内吵架20余名同学围观",
+      "onboard_time": 1665753445,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87144,
       "num": 87144,
       "word": "它肯定梦到好吃的了",
       "onboard_time": 1665734965,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86979,
-      "num": 86979,
-      "word": "90岁老人收到生日礼物笑掉假牙",
-      "onboard_time": 1665750984,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86658,
@@ -1449,14 +1521,6 @@
       "onboard_time": 1665702619,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72382,
-      "num": 72382,
-      "word": "冷空气又双叒要来了",
-      "onboard_time": 1665751582,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71958,
