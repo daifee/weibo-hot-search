@@ -1,0 +1,410 @@
+{
+  "runTime": 1665772385556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 244759,
+        "num": 244759,
+        "word": "进化论",
+        "onboard_time": 1665762444,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146825,
+        "num": 146825,
+        "word": "男子心跳停1小时医生持续抢救成功",
+        "onboard_time": 1665755364,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 4172,
+        "num": 137892,
+        "word": "百秒说非凡十年",
+        "onboard_time": 1665755663,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177818,
+        "num": 126151,
+        "word": "哈利波特海格扮演者去世",
+        "onboard_time": 1665768016,
+        "rank": 3,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 18763,
+        "num": 111381,
+        "word": "你心目中的追光者是谁",
+        "onboard_time": 1665761484,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 104137,
+        "word": "一直不谈恋爱会等到很好的人吗",
+        "onboard_time": 1665745104,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98917,
+        "num": 98917,
+        "word": "一到冬天就会得这种病",
+        "onboard_time": 1665761484,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81606,
+        "num": 81606,
+        "word": "英国首相特拉斯解雇财政大臣",
+        "onboard_time": 1665759926,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 56867,
+        "num": 56867,
+        "word": "分享欲本身就是爱和热情",
+        "onboard_time": 1665738323,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52183,
+        "num": 52183,
+        "word": "女子炸糍粑结果全都砰砰蹦出锅",
+        "onboard_time": 1665754884,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131559,
+        "num": 51118,
+        "word": "梵高名画向日葵被泼番茄罐头",
+        "onboard_time": 1665757644,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96705,
+        "num": 50527,
+        "word": "真正的美貌从来不存在艳压",
+        "onboard_time": 1665746842,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85701,
+        "num": 48602,
+        "word": "美国俩父亲争吵开枪互射对方女儿",
+        "onboard_time": 1665753505,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83087,
+        "num": 48150,
+        "word": "日本男子出租自己4年赚近200万",
+        "onboard_time": 1665748643,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82893,
+        "num": 46394,
+        "word": "同事都有对象单身女服务员趴桌大哭",
+        "onboard_time": 1665763463,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76615,
+        "num": 45841,
+        "word": "鹿晗录制脱口秀大会总决赛",
+        "onboard_time": 1665752604,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71871,
+        "num": 43931,
+        "word": "东北一串店禁玩手机每人低消10串",
+        "onboard_time": 1665749843,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57941,
+        "num": 43105,
+        "word": "詹雯婷从我们的爱到诀爱",
+        "onboard_time": 1665758245,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42463,
+        "num": 42463,
+        "word": "怎样才能忘掉喜欢的人",
+        "onboard_time": 1665749543,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42232,
+        "num": 42232,
+        "word": "用淘宝做头像是什么梗",
+        "onboard_time": 1665733042,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52068,
+        "num": 41483,
+        "word": "海恩贤圭车内牵手",
+        "onboard_time": 1665748162,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43605,
+        "num": 41189,
+        "word": "日剧silent",
+        "onboard_time": 1665750563,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43076,
+        "num": 40736,
+        "word": "kcon",
+        "onboard_time": 1665763822,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40258,
+        "num": 40258,
+        "word": "高校通报教师图书馆打电话声音过大出言不逊",
+        "onboard_time": 1665749181,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 38040,
+        "num": 38040,
+        "word": "困难时国家给你应急我们必须还上",
+        "onboard_time": 1665769455,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 36339,
+        "num": 36339,
+        "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+        "onboard_time": 1665735024,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35954,
+        "num": 35954,
+        "word": "党的二十大将于16日10时在京举行",
+        "onboard_time": 1665750563,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33643,
+        "num": 33643,
+        "word": "美国会骚乱又曝新画面",
+        "onboard_time": 1665742344,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 32040,
+        "num": 32040,
+        "word": "00后中专生每天训练5小时逆袭北大",
+        "onboard_time": 1665743303,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28986,
+        "num": 28986,
+        "word": "原来这才是例假叫法的由来",
+        "onboard_time": 1665725364,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37865,
+        "num": 28976,
+        "word": "胡歌繁花从30多岁拍到40岁",
+        "onboard_time": 1665759027,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38436,
+        "num": 28966,
+        "word": "宫胁咲良LoveShot直拍",
+        "onboard_time": 1665758125,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28823,
+        "num": 28823,
+        "word": "已经完全离不开洞洞鞋了",
+        "onboard_time": 1665754344,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28229,
+        "num": 28229,
+        "word": "二手iPhone14贬值速度是13两倍",
+        "onboard_time": 1665719005,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 27703,
+        "num": 27703,
+        "word": "没有学习的人不伤心演我嘴硬",
+        "onboard_time": 1665760287,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27383,
+        "num": 27383,
+        "word": "反复循环杨丞琳和声版暧昧",
+        "onboard_time": 1665757406,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25356,
+        "num": 25356,
+        "word": "这才是龙生九子最有趣的解释",
+        "onboard_time": 1665740243,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24238,
+        "num": 24238,
+        "word": "TTG",
+        "onboard_time": 1665752962,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23927,
+        "num": 23927,
+        "word": "CBA",
+        "onboard_time": 1665755964,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23198,
+        "num": 23198,
+        "word": "俄媒称俄博主冒充美官员与乌外长连线",
+        "onboard_time": 1665740484,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 21499,
+        "word": "浙大女孩14年从电表工成长为劳模",
+        "onboard_time": 1665760407,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 21415,
+        "num": 21415,
+        "word": "2猫咪校园内吵架20余名同学围观",
+        "onboard_time": 1665753445,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 20998,
+        "word": "周深说我们一起向光而行",
+        "onboard_time": 1665764660,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20771,
+        "num": 20771,
+        "word": "如果孩子问你为什么要读书",
+        "onboard_time": 1665752785,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19932,
+        "num": 19932,
+        "word": "遗忘15年股票找回后1万变50万",
+        "onboard_time": 1665726144,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19431,
+        "num": 19431,
+        "word": "连续上七天班的精神状态",
+        "onboard_time": 1665729744,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19262,
+        "num": 19262,
+        "word": "冷空气又双叒要来了",
+        "onboard_time": 1665751582,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17841,
+        "num": 17841,
+        "word": "AG",
+        "onboard_time": 1665757043,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14254,
+        "num": 14254,
+        "word": "这动物园门票算是没白买",
+        "onboard_time": 1665770955,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14217,
+        "num": 14217,
+        "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+        "onboard_time": 1665724402,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦二十大#"
+    }
+  }
+}

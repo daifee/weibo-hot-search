@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665769946924,
+  "endTime": 1665772385556,
   "band_list": [
     {
       "raw_hot": 1434278,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38040,
+      "num": 38040,
+      "word": "困难时国家给你应急我们必须还上",
+      "onboard_time": 1665769455,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 30753,
       "num": 30753,
       "word": "民警下夜勤买炒粉巧遇小偷团伙",
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23159,
-      "num": 23159,
-      "word": "困难时国家给你应急我们必须还上",
-      "onboard_time": 1665769455,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 16879,
       "num": 553638,
       "word": "百秒说非凡十年",
       "onboard_time": 1665755663,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14254,
+      "num": 14254,
+      "word": "这动物园门票算是没白买",
+      "onboard_time": 1665770955,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
