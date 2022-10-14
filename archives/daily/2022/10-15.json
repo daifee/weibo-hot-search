@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665776373794,
+  "endTime": 1665779495387,
   "band_list": [
     {
       "raw_hot": 1434278,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24290,
+      "num": 17965,
+      "word": "男子超市买零食礼包打开全是冒牌货",
+      "onboard_time": 1665776172,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16879,
       "num": 553638,
       "word": "百秒说非凡十年",
@@ -451,6 +459,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 12945,
+      "num": 12945,
+      "word": "被一场电影音乐会整破防了",
+      "onboard_time": 1665778151,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 12086,
+      "num": 12086,
+      "word": "你会因为没有进步而隐瞒努力吗",
+      "onboard_time": 1665776831,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9140,
       "num": 9140,
       "word": "回力回应童鞋藏剪刀",
@@ -459,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7496,
-      "num": 7496,
-      "word": "男子超市买零食礼包打开全是冒牌货",
-      "onboard_time": 1665776172,
+      "raw_hot": 7717,
+      "num": 7717,
+      "word": "16岁少年身故器官全部捐献",
+      "onboard_time": 1665777493,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
