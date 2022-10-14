@@ -1,7 +1,15 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665704951539,
+  "endTime": 1665715314152,
   "band_list": [
+    {
+      "raw_hot": 2263538,
+      "num": 915997,
+      "word": "新冠后遗症可持续数周数月甚至更长时间",
+      "onboard_time": 1665708087,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1856164,
       "num": 495163,
@@ -19,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454425,
+      "num": 786995,
+      "word": "RNG八人确诊",
+      "onboard_time": 1665704543,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1223009,
       "num": 1223009,
       "word": "EDG晋级八强",
       "onboard_time": 1665702258,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1033845,
+      "num": 640976,
+      "word": "iPhone不送充电器被巴西罚款1.4亿",
+      "onboard_time": 1665710784,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 964159,
@@ -35,12 +59,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 810016,
-      "num": 169251,
-      "word": "RNG八人确诊",
-      "onboard_time": 1665704543,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 943304,
+      "num": 943304,
+      "word": "长沙三孩及以上家庭每孩将补贴1万",
+      "onboard_time": 1665710663,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708055,
+      "num": 452102,
+      "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
+      "onboard_time": 1665708383,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612894,
+      "num": 612894,
+      "word": "蒲熠星发长文告别密逃大神版",
+      "onboard_time": 1665712104,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 546529,
+      "num": 451985,
+      "word": "熟食店内老鼠狂炫烤鸭",
+      "onboard_time": 1665713066,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507996,
@@ -49,6 +97,22 @@
       "onboard_time": 1665677781,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503192,
+      "num": 451951,
+      "word": "陈小春说虚名而已但我需要",
+      "onboard_time": 1665709288,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 458492,
+      "num": 458492,
+      "word": "EDG骑士礼空位",
+      "onboard_time": 1665711686,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 456783,
@@ -65,6 +129,14 @@
       "onboard_time": 1665685992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450791,
+      "num": 450791,
+      "word": "法拉利在中国卖风衣售价4.45万",
+      "onboard_time": 1665713484,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 448368,
@@ -99,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363481,
+      "num": 363481,
+      "word": "Jennie登ELLE30周年封面",
+      "onboard_time": 1665712104,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 361568,
       "num": 361568,
       "word": "FNC对战EDG",
       "onboard_time": 1665702797,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 338827,
+      "num": 338827,
+      "word": "孩子打翻酒架父母买单带回喝一宿",
+      "onboard_time": 1665714024,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319724,
@@ -115,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314236,
+      "num": 314236,
+      "word": "特朗普将被传唤",
+      "onboard_time": 1665713484,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 287815,
       "num": 195665,
       "word": "在家数1万粒米算是奇葩作业吗",
@@ -123,11 +219,35 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 252952,
+      "num": 252952,
+      "word": "T1战胜EDG",
+      "onboard_time": 1665706764,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 252508,
+      "num": 252508,
+      "word": "追光者今晚见",
+      "onboard_time": 1665714864,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249675,
       "num": 249675,
       "word": "全国首个抱团养老实验暂停2年",
       "onboard_time": 1665696491,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237069,
+      "num": 237069,
+      "word": "10月13日新增本土无症状1010例",
+      "onboard_time": 1665710183,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -153,6 +273,22 @@
       "onboard_time": 1665693250,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212883,
+      "num": 212883,
+      "word": "网友总结的近十年现象级韩剧",
+      "onboard_time": 1665712141,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202729,
+      "num": 202729,
+      "word": "被爱真的有迹可循",
+      "onboard_time": 1665707786,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 198225,
@@ -251,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157351,
+      "num": 157351,
+      "word": "10月13日新增本土确诊249例",
+      "onboard_time": 1665710067,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153414,
       "num": 153414,
       "word": "意大利女航天员用兰亭集序直抒胸臆",
@@ -307,12 +451,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 110370,
+      "num": 110370,
+      "word": "衣服标签上的符号都代表什么",
+      "onboard_time": 1665707245,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108472,
       "num": 108472,
       "word": "李宇春去流量化行动",
       "onboard_time": 1665677541,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106036,
+      "num": 106036,
+      "word": "阿香终于开麦了",
+      "onboard_time": 1665709288,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105552,
+      "num": 105552,
+      "word": "龚俊新歌小小的肩膀",
+      "onboard_time": 1665714566,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 101782,
@@ -363,12 +531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91332,
+      "num": 91332,
+      "word": "保安作画300多幅把公园变成动物世界",
+      "onboard_time": 1665693011,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87734,
       "num": 87734,
       "word": "81岁奶奶能连续跳绳1000个",
       "onboard_time": 1665663324,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 84733,
+      "num": 84733,
+      "word": "Meiko锤石三连MVP",
+      "onboard_time": 1665705444,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 83767,
@@ -411,12 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73725,
-      "num": 73725,
-      "word": "保安作画300多幅把公园变成动物世界",
-      "onboard_time": 1665693011,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 71958,
+      "num": 71958,
+      "word": "9月CPI同比上涨2.8%",
+      "onboard_time": 1665715225,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 71384,
@@ -548,7 +732,7 @@
     },
     {
       "raw_hot": 48727,
-      "num": 737808,
+      "num": 813032,
       "word": "一图读懂十九届七中全会公报",
       "onboard_time": 1665656363,
       "rank": 2,
@@ -569,6 +753,14 @@
       "onboard_time": 1665659543,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 45086,
+      "num": 700930,
+      "word": "12组卫星图看中国十年巨变",
+      "onboard_time": 1665662423,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41272,
@@ -633,6 +825,14 @@
       "onboard_time": 1665651744,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 31754,
+      "num": 369208,
+      "word": "晨雾笼罩京杭大运河似水墨画卷",
+      "onboard_time": 1665713904,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31752,
