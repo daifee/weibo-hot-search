@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665780523959,
+  "endTime": 1665782692704,
   "band_list": [
     {
       "raw_hot": 1434278,
@@ -419,18 +419,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30753,
-      "num": 30753,
-      "word": "民警下夜勤买炒粉巧遇小偷团伙",
-      "onboard_time": 1665748822,
+      "raw_hot": 37656,
+      "num": 23220,
+      "word": "月球在过去25亿年里不断远离地球",
+      "onboard_time": 1665780130,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31540,
+      "num": 20212,
+      "word": "男子超市买零食礼包打开全是冒牌货",
+      "onboard_time": 1665776172,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30647,
-      "num": 17965,
-      "word": "男子超市买零食礼包打开全是冒牌货",
-      "onboard_time": 1665776172,
+      "raw_hot": 30753,
+      "num": 30753,
+      "word": "民警下夜勤买炒粉巧遇小偷团伙",
+      "onboard_time": 1665748822,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -451,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15113,
+      "num": 15113,
+      "word": "你会因为没有进步而隐瞒努力吗",
+      "onboard_time": 1665776831,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14189,
       "num": 14189,
       "word": "王家卫繁花仍在拍摄中",
@@ -467,20 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12086,
-      "num": 12086,
-      "word": "你会因为没有进步而隐瞒努力吗",
-      "onboard_time": 1665776831,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 9140,
       "num": 9140,
       "word": "回力回应童鞋藏剪刀",
       "onboard_time": 1665774852,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8443,
+      "num": 8443,
+      "word": "追光者的观后感",
+      "onboard_time": 1665781390,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 7717,
@@ -491,20 +507,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 7260,
-      "num": 7260,
-      "word": "月球在过去25亿年里不断远离地球",
-      "onboard_time": 1665780130,
+      "raw_hot": 7360,
+      "num": 7360,
+      "word": "球王梅西将迎谢幕战",
+      "onboard_time": 1665781690,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 6824,
-      "num": 6987,
+      "num": 7357,
       "word": "男子为采摘石榴差点飞出房顶",
       "onboard_time": 1665780011,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6355,
+      "num": 7333,
+      "word": "男子大小包赶车保洁阿姨伸手帮忙",
+      "onboard_time": 1665782110,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
