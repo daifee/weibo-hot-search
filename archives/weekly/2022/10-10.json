@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665717975035,
+  "endTime": 1665723283354,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2263538,
-      "num": 915997,
+      "num": 960593,
       "word": "新冠后遗症可持续数周数月甚至更长时间",
       "onboard_time": 1665708087,
       "rank": 1,
@@ -65,6 +65,14 @@
       "onboard_time": 1665468082,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2020927,
+      "num": 960830,
+      "word": "陈玘",
+      "onboard_time": 1665718946,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1965024,
@@ -89,6 +97,14 @@
       "onboard_time": 1665403764,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1893836,
+      "num": 1893836,
+      "word": "吃辣对身体究竟会有什么影响",
+      "onboard_time": 1665717445,
+      "rank": 33,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1856164,
@@ -619,6 +635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961222,
+      "num": 961222,
+      "word": "韩国宣布对朝鲜实施单边制裁",
+      "onboard_time": 1665719785,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 960398,
+      "num": 960398,
+      "word": "90后姑娘凌晨跳江救回轻生男",
+      "onboard_time": 1665717683,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 958326,
       "num": 546793,
       "word": "错撩",
@@ -729,6 +761,14 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895286,
+      "num": 895286,
+      "word": "二手iPhone14贬值速度是13两倍",
+      "onboard_time": 1665719005,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 883448,
@@ -1361,6 +1401,14 @@
       "onboard_time": 1665632727,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625714,
+      "num": 625714,
+      "word": "终于知道插头上孔的用途了",
+      "onboard_time": 1665716064,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 623900,
@@ -2577,6 +2625,14 @@
       "onboard_time": 1665555863,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398980,
+      "num": 398980,
+      "word": "唐朝诡事录小叫花子是杨志刚儿子",
+      "onboard_time": 1665720985,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398923,
@@ -4051,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241424,
+      "num": 241424,
+      "word": "烈士父母主动帮儿子还助学贷款",
+      "onboard_time": 1665715704,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240588,
       "num": 240588,
       "word": "铁三角说再见但没完全再见",
@@ -4227,14 +4291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227862,
-      "num": 227862,
-      "word": "终于知道插头上孔的用途了",
-      "onboard_time": 1665716064,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227780,
       "num": 227780,
       "word": "连猫猫都穿上了羽绒服",
@@ -4267,12 +4323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226179,
-      "num": 226179,
-      "word": "烈士父母主动帮儿子还助学贷款",
-      "onboard_time": 1665715704,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 226165,
+      "num": 960634,
+      "word": "中国成第二汽车出口大国",
+      "onboard_time": 1665718402,
+      "rank": 4,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 225719,
@@ -4779,6 +4835,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 196771,
+      "num": 196771,
+      "word": "王一博街舞5十三宫格剧照",
+      "onboard_time": 1665718223,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196391,
       "num": 196391,
       "word": "陈哲远沈月直播看自己亲密戏",
@@ -4939,6 +5003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186150,
+      "num": 186150,
+      "word": "杜兰特谈追梦格林普尔冲突",
+      "onboard_time": 1665717983,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185722,
       "num": 185722,
       "word": "女子发寻物视频遭人恶意骚扰",
@@ -5025,6 +5097,14 @@
       "onboard_time": 1665361164,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179393,
+      "num": 179393,
+      "word": "真人版小美人鱼电影海报",
+      "onboard_time": 1665717144,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 178537,
@@ -5491,14 +5571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155589,
-      "num": 155589,
-      "word": "真人版小美人鱼电影海报",
-      "onboard_time": 1665717144,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154996,
       "num": 154996,
       "word": "罗云熙罗本明天见",
@@ -5699,6 +5771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146612,
+      "num": 146612,
+      "word": "马伊琍街角随拍状态",
+      "onboard_time": 1665718103,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "厦门树洞简直是我的嘴替",
@@ -5833,6 +5913,14 @@
       "onboard_time": 1665404784,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140058,
+      "num": 140058,
+      "word": "人类与AI的第三次对决",
+      "onboard_time": 1665721165,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 139758,
@@ -6107,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125881,
+      "num": 125881,
+      "word": "姚晨新剧包饺子梦回郭芙蓉",
+      "onboard_time": 1665719844,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125735,
       "num": 68143,
       "word": "你安全吗大结局",
@@ -6257,14 +6353,6 @@
       "onboard_time": 1665418041,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119236,
-      "num": 119236,
-      "word": "吃辣对身体究竟会有什么影响",
-      "onboard_time": 1665717445,
-      "rank": 33,
-      "category": "社会议题"
     },
     {
       "raw_hot": 118571,
@@ -6433,6 +6521,14 @@
       "onboard_time": 1665482963,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109372,
+      "num": 109372,
+      "word": "走失马驹啃秃派出所门前草皮",
+      "onboard_time": 1665716842,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108925,
@@ -6891,20 +6987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88771,
+      "num": 88771,
+      "word": "老爸半年画16米长百虎图送女儿",
+      "onboard_time": 1665723146,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88671,
       "num": 88671,
       "word": "我的反派男友",
       "onboard_time": 1665324565,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88575,
-      "num": 88575,
-      "word": "走失马驹啃秃派出所门前草皮",
-      "onboard_time": 1665716842,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88016,
@@ -6945,14 +7041,6 @@
       "onboard_time": 1665628043,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85405,
-      "num": 85405,
-      "word": "90后姑娘凌晨跳江救回轻生男",
-      "onboard_time": 1665717683,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 84868,
@@ -7092,7 +7180,7 @@
     },
     {
       "raw_hot": 79530,
-      "num": 813032,
+      "num": 961116,
       "word": "一图读懂十九届七中全会公报",
       "onboard_time": 1665656363,
       "rank": 49,
@@ -8275,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4112,
+      "num": 343354,
+      "word": "Mate50E评测",
+      "onboard_time": 1665720025,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2301,
       "num": 419788,
       "word": "探索城市的一万种方式",
@@ -8327,6 +8423,9 @@
     },
     {
       "word": "#你问我答二十大#"
+    },
+    {
+      "word": "#这十年幸福中国#"
     }
   ]
 }
