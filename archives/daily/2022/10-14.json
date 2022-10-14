@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665757268949,
+  "endTime": 1665759184997,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -65,6 +65,14 @@
       "onboard_time": 1665704543,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1315102,
+      "num": 1315102,
+      "word": "男子心跳停1小时医生持续抢救成功",
+      "onboard_time": 1665755364,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1274336,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 969849,
+      "num": 969849,
+      "word": "女子炸糍粑结果全都砰砰蹦出锅",
+      "onboard_time": 1665754884,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 964159,
       "num": 474040,
       "word": "好像突然没那么焦虑了",
@@ -259,7 +275,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639379,
+      "raw_hot": 646124,
       "num": 283773,
       "word": "美国俩父亲争吵开枪互射对方女儿",
       "onboard_time": 1665753505,
@@ -427,6 +443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 432464,
+      "num": 265304,
+      "word": "宫胁咲良LoveShot直拍",
+      "onboard_time": 1665758125,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 429812,
       "num": 377005,
       "word": "倪妮白鹿邢菲十月封面",
@@ -435,12 +459,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 423212,
-      "num": 423212,
-      "word": "男子心跳停1小时医生持续抢救成功",
-      "onboard_time": 1665755364,
-      "rank": 34,
-      "category": "社会正能量"
+      "raw_hot": 420112,
+      "num": 263589,
+      "word": "梵高名画向日葵被泼番茄罐头",
+      "onboard_time": 1665757644,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415841,
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366389,
-      "num": 366389,
-      "word": "女子炸糍粑结果全都砰砰蹦出锅",
-      "onboard_time": 1665754884,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364401,
       "num": 364401,
       "word": "换乘恋爱",
@@ -569,6 +585,14 @@
       "onboard_time": 1665712104,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 363009,
+      "num": 363009,
+      "word": "詹雯婷从我们的爱到诀爱",
+      "onboard_time": 1665758245,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 361568,
@@ -691,6 +715,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 282647,
+      "num": 252132,
+      "word": "舒淇于和伟互相wink",
+      "onboard_time": 1665755304,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279670,
       "num": 496044,
       "word": "这十年追光之夜",
@@ -699,12 +731,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274148,
+      "num": 251610,
+      "word": "胡歌繁花从30多岁拍到40岁",
+      "onboard_time": 1665759027,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271387,
       "num": 271387,
       "word": "全红婵陈芋汐等出战跳水世界杯",
       "onboard_time": 1665725845,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271002,
+      "num": 124468,
+      "word": "中村一叶LoveShot直拍",
+      "onboard_time": 1665757226,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 267977,
@@ -755,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250120,
+      "num": 250120,
+      "word": "已经完全离不开洞洞鞋了",
+      "onboard_time": 1665754344,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249675,
       "num": 249675,
       "word": "全国首个抱团养老实验暂停2年",
@@ -771,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242025,
+      "num": 242025,
+      "word": "AG",
+      "onboard_time": 1665757043,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241879,
       "num": 180889,
       "word": "王鹤棣陈钰琪浮图缘最新剧照",
@@ -785,14 +849,6 @@
       "onboard_time": 1665715704,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237135,
-      "num": 237135,
-      "word": "舒淇于和伟互相wink",
-      "onboard_time": 1665755304,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 237069,
@@ -891,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205459,
-      "num": 74227,
-      "word": "中村一叶LoveShot直拍",
-      "onboard_time": 1665757226,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 207197,
+      "num": 124068,
+      "word": "彭莱患肿瘤",
+      "onboard_time": 1665758906,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 203668,
@@ -1019,14 +1075,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 189390,
-      "num": 189390,
-      "word": "AG",
-      "onboard_time": 1665757043,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188266,
       "num": 188266,
       "word": "云南省第一人民医院总院静态管理",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1665704421,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165894,
-      "num": 165894,
-      "word": "已经完全离不开洞洞鞋了",
-      "onboard_time": 1665754344,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 163265,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1665702619,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128846,
+      "num": 537690,
+      "word": "电视剧我们这十年",
+      "onboard_time": 1665756684,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 119669,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1665652342,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82205,
-      "num": 431631,
-      "word": "电视剧我们这十年",
-      "onboard_time": 1665756684,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 81820,
@@ -1931,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26165,
+      "num": 789614,
+      "word": "百秒说非凡十年",
+      "onboard_time": 1665755663,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21148,
       "num": 21148,
       "word": "TVB新剧女性群像还是熟悉的味道",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17513,
-      "num": 509637,
-      "word": "百秒说非凡十年",
-      "onboard_time": 1665755663,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12874,
