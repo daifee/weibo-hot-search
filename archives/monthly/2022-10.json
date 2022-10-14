@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665729160887,
+  "endTime": 1665733193194,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -825,6 +825,14 @@
       "onboard_time": 1665491846,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1525793,
+      "num": 1525793,
+      "word": "连续上七天班的精神状态",
+      "onboard_time": 1665729744,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1523532,
@@ -1987,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 991146,
+      "num": 758934,
+      "word": "医疗",
+      "onboard_time": 1665727705,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 989497,
       "num": 989497,
       "word": "北京政务服务禁用语拟入规范",
@@ -2643,6 +2659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 818754,
+      "num": 818754,
+      "word": "遗忘15年股票找回后1万变50万",
+      "onboard_time": 1665726144,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816806,
       "num": 816806,
       "word": "游戏王作者因见义勇为去世",
@@ -2955,14 +2979,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 758934,
-      "num": 758934,
-      "word": "医疗",
-      "onboard_time": 1665727705,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 758384,
       "num": 758384,
       "word": "送儿子上北大的店主曾被北大食堂挽留",
@@ -3089,14 +3105,6 @@
       "onboard_time": 1665566304,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 740424,
-      "num": 740424,
-      "word": "遗忘15年股票找回后1万变50万",
-      "onboard_time": 1665726144,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738926,
@@ -3763,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654994,
+      "num": 654994,
+      "word": "沙特称不接受美国发号施令",
+      "onboard_time": 1665728904,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 653653,
       "num": 653653,
       "word": "北京共存在10条独立传播链",
@@ -4217,6 +4233,14 @@
       "onboard_time": 1665645263,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 604224,
+      "num": 370929,
+      "word": "羊了个羊出逃消防员被迫陪跑追回",
+      "onboard_time": 1665731185,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603644,
@@ -7363,6 +7387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393601,
+      "num": 366318,
+      "word": "白鹿王鹤棣以爱为营超话开通",
+      "onboard_time": 1665728782,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393427,
       "num": 393427,
       "word": "美经济学家直言北溪是美国炸的",
@@ -7569,6 +7601,14 @@
       "onboard_time": 1665655704,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384734,
+      "num": 384734,
+      "word": "CBA要求解说员不要评价吹罚",
+      "onboard_time": 1665727464,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 384170,
@@ -8515,14 +8555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342928,
-      "num": 342928,
-      "word": "CBA要求解说员不要评价吹罚",
-      "onboard_time": 1665727464,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342598,
       "num": 342598,
       "word": "采访阿水记者说翻译是正确的",
@@ -8665,6 +8697,14 @@
       "onboard_time": 1664950581,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337189,
+      "num": 337189,
+      "word": "从校服到婚纱真的存在",
+      "onboard_time": 1665726624,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 336626,
@@ -9289,6 +9329,14 @@
       "onboard_time": 1664553741,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307853,
+      "num": 307853,
+      "word": "LOL新英雄奎桑提",
+      "onboard_time": 1665731243,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 307530,
@@ -10163,14 +10211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276305,
-      "num": 276305,
-      "word": "从校服到婚纱真的存在",
-      "onboard_time": 1665726624,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 276254,
       "num": 276254,
       "word": "济南常态化核酸检测改为两天一检",
@@ -10265,6 +10305,14 @@
       "onboard_time": 1665539542,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273913,
+      "num": 273913,
+      "word": "魏大勋爸爸拒绝和魏大勋同队",
+      "onboard_time": 1665729442,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 273806,
@@ -10416,14 +10464,6 @@
       "word": "IVE红毯主持人笑出猪叫",
       "onboard_time": 1665307942,
       "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271524,
-      "num": 271524,
-      "word": "白鹿王鹤棣以爱为营超话开通",
-      "onboard_time": 1665728782,
-      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -11019,6 +11059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256763,
+      "num": 256763,
+      "word": "张彬彬小森林后三部剧被考古",
+      "onboard_time": 1665732984,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256708,
       "num": 256708,
       "word": "曼城6比3曼联",
@@ -11505,6 +11553,14 @@
       "onboard_time": 1665547525,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "张艺兴晒马来西亚演唱会出行vlog",
+      "onboard_time": 1665730824,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246939,
@@ -18291,6 +18347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118615,
+      "num": 118615,
+      "word": "吴倩追光者人设",
+      "onboard_time": 1665731724,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118216,
       "num": 118216,
       "word": "沸腾校园是大学生相亲大会吧",
@@ -19667,6 +19731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "人造生物肾或将问世",
+      "onboard_time": 1665730044,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 97111,
       "num": 97111,
       "word": "李月汝篮下单打",
@@ -20099,6 +20171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89099,
+      "num": 89099,
+      "word": "4个动作锻炼肩背",
+      "onboard_time": 1665732803,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88995,
       "num": 88995,
       "word": "gidle新专辑试听",
@@ -20211,6 +20291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86889,
+      "num": 86889,
+      "word": "二十大新闻发布会",
+      "onboard_time": 1665732084,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 86851,
       "num": 86851,
       "word": "姚晨庄达菲新浪扫楼",
@@ -20257,6 +20345,14 @@
       "onboard_time": 1665143481,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86184,
+      "num": 86184,
+      "word": "用淘宝做头像是什么梗",
+      "onboard_time": 1665733042,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 86005,
@@ -20401,6 +20497,14 @@
       "onboard_time": 1665387746,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83987,
+      "num": 83987,
+      "word": "打工不如打电话",
+      "onboard_time": 1665730762,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 83924,
@@ -20699,14 +20803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78689,
-      "num": 78689,
-      "word": "沙特称不接受美国发号施令",
-      "onboard_time": 1665728904,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 78431,
       "num": 78431,
       "word": "日本外汇储备大幅下降",
@@ -20937,6 +21033,14 @@
       "onboard_time": 1665124041,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75208,
+      "num": 75208,
+      "word": "多少度你会开始穿秋裤",
+      "onboard_time": 1665732924,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 75021,
@@ -21641,6 +21745,14 @@
       "onboard_time": 1664592923,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 62153,
+      "num": 337248,
+      "word": "路遇走失男孩市民守护女儿陪玩",
+      "onboard_time": 1665730882,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61901,
@@ -22435,6 +22547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40789,
+      "num": 744177,
+      "word": "守护中国高铁神经元",
+      "onboard_time": 1665728481,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40634,
       "num": 112881,
       "word": "不运动的借口有多离谱",
@@ -22929,14 +23049,6 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 16684,
-      "num": 744177,
-      "word": "守护中国高铁神经元",
-      "onboard_time": 1665728481,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15865,

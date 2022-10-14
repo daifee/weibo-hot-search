@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665729160887,
+  "endTime": 1665733193194,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -33,6 +33,14 @@
       "onboard_time": 1665703760,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1525793,
+      "num": 1525793,
+      "word": "连续上七天班的精神状态",
+      "onboard_time": 1665729744,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1493370,
@@ -91,6 +99,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 991146,
+      "num": 758934,
+      "word": "医疗",
+      "onboard_time": 1665727705,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 964159,
       "num": 474040,
       "word": "好像突然没那么焦虑了",
@@ -131,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 818754,
+      "num": 818754,
+      "word": "遗忘15年股票找回后1万变50万",
+      "onboard_time": 1665726144,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816781,
       "num": 816781,
       "word": "爱奇艺认证苍兰诀是爆款剧集",
@@ -139,28 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 758934,
-      "num": 758934,
-      "word": "医疗",
-      "onboard_time": 1665727705,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 740424,
-      "num": 740424,
-      "word": "遗忘15年股票找回后1万变50万",
-      "onboard_time": 1665726144,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 708055,
       "num": 452102,
       "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
       "onboard_time": 1665708383,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654994,
+      "num": 654994,
+      "word": "沙特称不接受美国发号施令",
+      "onboard_time": 1665728904,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 625714,
@@ -185,6 +201,14 @@
       "onboard_time": 1665712104,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604224,
+      "num": 370929,
+      "word": "羊了个羊出逃消防员被迫陪跑追回",
+      "onboard_time": 1665731185,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602833,
@@ -283,6 +307,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 393601,
+      "num": 366318,
+      "word": "白鹿王鹤棣以爱为营超话开通",
+      "onboard_time": 1665728782,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384734,
+      "num": 384734,
+      "word": "CBA要求解说员不要评价吹罚",
+      "onboard_time": 1665727464,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383342,
       "num": 383342,
       "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
@@ -331,12 +371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 342928,
-      "num": 342928,
-      "word": "CBA要求解说员不要评价吹罚",
-      "onboard_time": 1665727464,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 337189,
+      "num": 337189,
+      "word": "从校服到婚纱真的存在",
+      "onboard_time": 1665726624,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 329287,
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307853,
+      "num": 307853,
+      "word": "LOL新英雄奎桑提",
+      "onboard_time": 1665731243,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287815,
       "num": 195665,
       "word": "在家数1万粒米算是奇葩作业吗",
@@ -379,20 +427,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 276305,
-      "num": 276305,
-      "word": "从校服到婚纱真的存在",
-      "onboard_time": 1665726624,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 271524,
-      "num": 271524,
-      "word": "白鹿王鹤棣以爱为营超话开通",
-      "onboard_time": 1665728782,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 273913,
+      "num": 273913,
+      "word": "魏大勋爸爸拒绝和魏大勋同队",
+      "onboard_time": 1665729442,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 271387,
@@ -401,6 +441,14 @@
       "onboard_time": 1665725845,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256763,
+      "num": 256763,
+      "word": "张彬彬小森林后三部剧被考古",
+      "onboard_time": 1665732984,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252952,
@@ -425,6 +473,14 @@
       "onboard_time": 1665696491,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "张艺兴晒马来西亚演唱会出行vlog",
+      "onboard_time": 1665730824,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241424,
@@ -723,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118615,
+      "num": 118615,
+      "word": "吴倩追光者人设",
+      "onboard_time": 1665731724,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117201,
       "num": 117201,
       "word": "不识字奶奶画图给孙子区分饺子馅",
@@ -827,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "人造生物肾或将问世",
+      "onboard_time": 1665730044,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 96010,
       "num": 96010,
       "word": "Meiko锤石三连MVP",
@@ -867,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89099,
+      "num": 89099,
+      "word": "4个动作锻炼肩背",
+      "onboard_time": 1665732803,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87734,
       "num": 87734,
       "word": "81岁奶奶能连续跳绳1000个",
@@ -875,12 +955,36 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 86889,
+      "num": 86889,
+      "word": "二十大新闻发布会",
+      "onboard_time": 1665732084,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 86184,
+      "num": 86184,
+      "word": "用淘宝做头像是什么梗",
+      "onboard_time": 1665733042,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 84623,
       "num": 84623,
       "word": "SNH48十周年全家福",
       "onboard_time": 1665726803,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83987,
+      "num": 83987,
+      "word": "打工不如打电话",
+      "onboard_time": 1665730762,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 83767,
@@ -907,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 78689,
-      "num": 78689,
-      "word": "沙特称不接受美国发号施令",
-      "onboard_time": 1665728904,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 78425,
       "num": 78425,
       "word": "原来浪漫真的触手可及",
@@ -929,6 +1025,14 @@
       "onboard_time": 1665692412,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75208,
+      "num": 75208,
+      "word": "多少度你会开始穿秋裤",
+      "onboard_time": 1665732924,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 74768,
@@ -1024,6 +1128,14 @@
       "word": "老板回应4碗粿条545元被质疑天价",
       "onboard_time": 1665649344,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62153,
+      "num": 337248,
+      "word": "路遇走失男孩市民守护女儿陪玩",
+      "onboard_time": 1665730882,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40789,
+      "num": 744177,
+      "word": "守护中国高铁神经元",
+      "onboard_time": 1665728481,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40186,
       "num": 40186,
       "word": "降温后的南北差异",
@@ -1209,14 +1329,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16684,
-      "num": 744177,
-      "word": "守护中国高铁神经元",
-      "onboard_time": 1665728481,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12874,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 14:32:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 15:39:53
 </p>
 </blockquote>
 <p>
@@ -629,6 +629,12 @@ DRX对战TES（热度：1560379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%9127%E7%AF%87SCI%E8%AE%BA%E6%96%87%E7%9A%84%E5%AD%A6%E9%9C%B8%E6%9B%BE%E5%87%BB%E8%B4%A5NASA%23" target="weibo">
 发27篇SCI论文的学霸曾击败NASA（热度：1535241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E4%B8%8A%E4%B8%83%E5%A4%A9%E7%8F%AD%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
+连续上七天班的精神状态（热度：1525793）
 </a>
 </li>
 
@@ -1503,6 +1509,12 @@ iPhone14车祸检测坐过山车会报警（热度：1000872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
+医疗（热度：991146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E7%A6%81%E7%94%A8%E8%AF%AD%E6%8B%9F%E5%85%A5%E8%A7%84%E8%8C%83%23" target="weibo">
 北京政务服务禁用语拟入规范（热度：989497）
 </a>
@@ -1995,6 +2007,12 @@ eStar七冠王（热度：894969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23" target="weibo">
+遗忘15年股票找回后1万变50万（热度：818754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E7%8E%8B%E4%BD%9C%E8%80%85%E5%9B%A0%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%8E%BB%E4%B8%96%23" target="weibo">
 游戏王作者因见义勇为去世（热度：816806）
 </a>
@@ -2229,12 +2247,6 @@ iPhone15系列仍将采用高通基带（热度：769323）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
-医疗（热度：758934）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E5%84%BF%E5%AD%90%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%9A%84%E5%BA%97%E4%B8%BB%E6%9B%BE%E8%A2%AB%E5%8C%97%E5%A4%A7%E9%A3%9F%E5%A0%82%E6%8C%BD%E7%95%99%23" target="weibo">
 送儿子上北大的店主曾被北大食堂挽留（热度：758384）
 </a>
@@ -2327,12 +2339,6 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23" target="weibo">
 二十大最新消息（热度：743050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23" target="weibo">
-遗忘15年股票找回后1万变50万（热度：740424）
 </a>
 </li>
 
@@ -2835,6 +2841,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E7%A7%B0%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8F%B7%E6%96%BD%E4%BB%A4%23" target="weibo">
+沙特称不接受美国发号施令（热度：654994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%B1%E5%AD%98%E5%9C%A810%E6%9D%A1%E7%8B%AC%E7%AB%8B%E4%BC%A0%E6%92%AD%E9%93%BE%23" target="weibo">
 北京共存在10条独立传播链（热度：653653）
 </a>
@@ -3173,6 +3185,12 @@ T1对战EDG（热度：605094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E8%8E%B7%E7%99%BB%E8%AE%B0%E6%89%B9%E5%87%86%23" target="weibo">
 王者荣耀世界获登记批准（热度：605038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23" target="weibo">
+羊了个羊出逃消防员被迫陪跑追回（热度：604224）
 </a>
 </li>
 
@@ -5535,6 +5553,12 @@ Faker超越Uzi成为世界赛击杀王（热度：397462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B6%85%E8%AF%9D%E5%BC%80%E9%80%9A%23" target="weibo">
+白鹿王鹤棣以爱为营超话开通（热度：393601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%9B%B4%E8%A8%80%E5%8C%97%E6%BA%AA%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%82%B8%E7%9A%84%23" target="weibo">
 美经济学家直言北溪是美国炸的（热度：393427）
 </a>
@@ -5687,6 +5711,12 @@ S12赛事更新（热度：389348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E5%9B%9E%E5%BD%92%E5%8F%91%E5%B8%83%E4%BC%9A%E6%96%B0%E9%97%BB%E5%9B%BE%23" target="weibo">
 沈小婷回归发布会新闻图（热度：385294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CBA%E8%A6%81%E6%B1%82%E8%A7%A3%E8%AF%B4%E5%91%98%E4%B8%8D%E8%A6%81%E8%AF%84%E4%BB%B7%E5%90%B9%E7%BD%9A%23" target="weibo">
+CBA要求解说员不要评价吹罚（热度：384734）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ EDG（热度：368917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E8%B7%9D%E7%A6%BB100%E7%B1%B3%E9%A9%B1%E7%A6%BB%E5%A4%96%E5%86%9B%E6%9C%BA%23" target="weibo">
 我军飞行员距离100米驱离外军机（热度：367923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E5%85%A8%E5%8A%9B%E8%B0%83%E6%9F%A5%E5%86%B2%E7%AA%81%E8%A7%86%E9%A2%91%E5%A6%82%E4%BD%95%E6%B3%84%E9%9C%B2%23" target="weibo">
-勇士全力调查冲突视频如何泄露（热度：367573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%97%8FGQ%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E6%A6%82%E5%BF%B5%E5%B0%81%E9%9D%A2%23" target="weibo">
-智族GQ梁朝伟王一博程耳概念封面（热度：367173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%92%20%E4%B8%80%E4%BC%A0%23" target="weibo">
-女排 一传（热度：366942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E7%BE%BD%E4%B8%80%E9%9B%86%E5%96%8A%E4%BA%86%E8%99%9E%E7%BE%8E%E4%BA%BA10%E6%AC%A1%E8%80%81%E5%A9%86%23" target="weibo">
-庄羽一集喊了虞美人10次老婆（热度：366815）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E4%BA%8B%E4%BB%B6%E7%94%B1%E7%82%B8%E8%8D%AF%E7%88%86%E7%82%B8%E5%BC%95%E8%B5%B7%23" target="weibo">
-北溪管道泄漏事件由炸药爆炸引起（热度：366752）
 </a>
 </li>
 

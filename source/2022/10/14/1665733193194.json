@@ -1,0 +1,410 @@
+{
+  "runTime": 1665733193194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525793,
+        "num": 1525793,
+        "word": "连续上七天班的精神状态",
+        "onboard_time": 1665729744,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818754,
+        "num": 818754,
+        "word": "遗忘15年股票找回后1万变50万",
+        "onboard_time": 1665726144,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11195,
+        "num": 668375,
+        "word": "一图读懂十九届七中全会公报",
+        "onboard_time": 1665656363,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 991146,
+        "num": 665937,
+        "word": "医疗",
+        "onboard_time": 1665727705,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40789,
+        "num": 657744,
+        "word": "守护中国高铁神经元",
+        "onboard_time": 1665728481,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654994,
+        "num": 654994,
+        "word": "沙特称不接受美国发号施令",
+        "onboard_time": 1665728904,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 538374,
+        "num": 538374,
+        "word": "新冠后遗症可持续数周数月甚至更长时间",
+        "onboard_time": 1665708087,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480663,
+        "num": 480663,
+        "word": "刘恺威披荆斩棘四公淘汰",
+        "onboard_time": 1665724823,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468269,
+        "num": 468269,
+        "word": "爱奇艺认证苍兰诀是爆款剧集",
+        "onboard_time": 1665726263,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384734,
+        "num": 384734,
+        "word": "CBA要求解说员不要评价吹罚",
+        "onboard_time": 1665727464,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739089,
+        "num": 373520,
+        "word": "原来这才是例假叫法的由来",
+        "onboard_time": 1665725364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604224,
+        "num": 370929,
+        "word": "羊了个羊出逃消防员被迫陪跑追回",
+        "onboard_time": 1665731185,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393601,
+        "num": 366318,
+        "word": "白鹿王鹤棣以爱为营超话开通",
+        "onboard_time": 1665728782,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338385,
+        "num": 338385,
+        "word": "换乘恋爱",
+        "onboard_time": 1665726803,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62153,
+        "num": 337248,
+        "word": "路遇走失男孩市民守护女儿陪玩",
+        "onboard_time": 1665730882,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337189,
+        "num": 337189,
+        "word": "从校服到婚纱真的存在",
+        "onboard_time": 1665726624,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307853,
+        "num": 307853,
+        "word": "LOL新英雄奎桑提",
+        "onboard_time": 1665731243,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273913,
+        "num": 273913,
+        "word": "魏大勋爸爸拒绝和魏大勋同队",
+        "onboard_time": 1665729442,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266515,
+        "num": 266515,
+        "word": "二手iPhone14贬值速度是13两倍",
+        "onboard_time": 1665719005,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256763,
+        "num": 256763,
+        "word": "张彬彬小森林后三部剧被考古",
+        "onboard_time": 1665732984,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247677,
+        "num": 247677,
+        "word": "吃辣对身体究竟会有什么影响",
+        "onboard_time": 1665717445,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 247521,
+        "num": 247521,
+        "word": "张艺兴晒马来西亚演唱会出行vlog",
+        "onboard_time": 1665730824,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214373,
+        "num": 214373,
+        "word": "Faker超越Uzi成为世界赛击杀王",
+        "onboard_time": 1665723686,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210469,
+        "num": 210469,
+        "word": "韩国宣布对朝鲜实施单边制裁",
+        "onboard_time": 1665719785,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207843,
+        "num": 207843,
+        "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+        "onboard_time": 1665724402,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201192,
+        "num": 201192,
+        "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
+        "onboard_time": 1665726383,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 194196,
+        "word": "被虞书欣许凯笑死",
+        "onboard_time": 1665725603,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165904,
+        "num": 165904,
+        "word": "iPhone不送充电器被巴西罚款1.4亿",
+        "onboard_time": 1665710784,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153527,
+        "num": 153527,
+        "word": "终于知道插头上孔的用途了",
+        "onboard_time": 1665716064,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138206,
+        "num": 138206,
+        "word": "微信上线刷掌支付",
+        "onboard_time": 1665724107,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161197,
+        "num": 136239,
+        "word": "唐朝诡事录小叫花子是杨志刚儿子",
+        "onboard_time": 1665720985,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130314,
+        "num": 130314,
+        "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
+        "onboard_time": 1665708383,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128475,
+        "num": 128475,
+        "word": "RNG八人确诊",
+        "onboard_time": 1665704543,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127446,
+        "num": 127446,
+        "word": "年轻人为什么喜欢运动社交",
+        "onboard_time": 1665726922,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "吴倩追光者人设",
+        "onboard_time": 1665731724,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112328,
+        "num": 112328,
+        "word": "全红婵陈芋汐等出战跳水世界杯",
+        "onboard_time": 1665725845,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104483,
+        "num": 104483,
+        "word": "王一博街舞5玩赛车翻车",
+        "onboard_time": 1665724644,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99941,
+        "num": 99941,
+        "word": "熟食店内老鼠狂炫烤鸭",
+        "onboard_time": 1665713066,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99385,
+        "num": 99385,
+        "word": "孩子打翻酒架父母买单带回喝一宿",
+        "onboard_time": 1665714024,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98286,
+        "num": 98286,
+        "word": "90后姑娘凌晨跳江救回轻生男",
+        "onboard_time": 1665717683,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 97196,
+        "num": 97196,
+        "word": "人造生物肾或将问世",
+        "onboard_time": 1665730044,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 96817,
+        "num": 96817,
+        "word": "饶雪漫离歌影视化",
+        "onboard_time": 1665724644,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 89099,
+        "word": "4个动作锻炼肩背",
+        "onboard_time": 1665732803,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86889,
+        "num": 86889,
+        "word": "二十大新闻发布会",
+        "onboard_time": 1665732084,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86224,
+        "num": 86224,
+        "word": "好像突然没那么焦虑了",
+        "onboard_time": 1665667467,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86184,
+        "num": 86184,
+        "word": "用淘宝做头像是什么梗",
+        "onboard_time": 1665733042,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83987,
+        "num": 83987,
+        "word": "打工不如打电话",
+        "onboard_time": 1665730762,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83448,
+        "num": 83448,
+        "word": "如何看待花大钱省小钱的消费观",
+        "onboard_time": 1665727163,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 76204,
+        "num": 76204,
+        "word": "老爸半年画16米长百虎图送女儿",
+        "onboard_time": 1665723146,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75208,
+        "num": 75208,
+        "word": "多少度你会开始穿秋裤",
+        "onboard_time": 1665732924,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
