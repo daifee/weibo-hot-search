@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665747654700,
+  "endTime": 1665752138320,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1555,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1142998,
+      "num": 795908,
+      "word": "一直不谈恋爱会等到很好的人吗",
+      "onboard_time": 1665745104,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1141818,
       "num": 1141818,
       "word": "国乒女团8连胜强势夺冠",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1664550503,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 978107,
+      "num": 252949,
+      "word": "真正的美貌从来不存在艳压",
+      "onboard_time": 1665746842,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 975768,
@@ -2785,14 +2801,6 @@
       "onboard_time": 1665637526,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795908,
-      "num": 795908,
-      "word": "一直不谈恋爱会等到很好的人吗",
-      "onboard_time": 1665745104,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 794369,
@@ -3811,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659616,
+      "num": 276737,
+      "word": "海恩贤圭车内牵手",
+      "onboard_time": 1665748162,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658735,
       "num": 658735,
       "word": "程潇赞多360度旋转公主抱",
@@ -4315,6 +4331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600549,
+      "num": 270822,
+      "word": "东北一串店禁玩手机每人低消10串",
+      "onboard_time": 1665749843,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599733,
       "num": 599733,
       "word": "LPL小组赛第二日全胜",
@@ -4505,6 +4529,14 @@
       "onboard_time": 1665452064,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582543,
+      "num": 223771,
+      "word": "日本男子出租自己4年赚近200万",
+      "onboard_time": 1665748643,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581427,
@@ -5825,6 +5857,14 @@
       "onboard_time": 1665197542,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476345,
+      "num": 222022,
+      "word": "原来胡歌演过离歌MV男主",
+      "onboard_time": 1665750383,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476247,
@@ -7313,6 +7353,14 @@
       "onboard_time": 1664778801,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399823,
+      "num": 221058,
+      "word": "日剧silent",
+      "onboard_time": 1665750563,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 399704,
@@ -9635,6 +9683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302152,
+      "num": 183938,
+      "word": "党的二十大将于16日10时在京举行",
+      "onboard_time": 1665750563,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 300862,
       "num": 300862,
       "word": "欧阳娜娜黑长直造型封面",
@@ -10233,6 +10289,14 @@
       "onboard_time": 1664543785,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279670,
+      "num": 279670,
+      "word": "这十年追光之夜",
+      "onboard_time": 1665751945,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 279650,
@@ -11035,6 +11099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 260512,
+      "num": 219330,
+      "word": "高校通报教师图书馆打电话声音过大出言不逊",
+      "onboard_time": 1665749181,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 260503,
       "num": 260503,
       "word": "你会向往低欲望生活吗",
@@ -11401,14 +11473,6 @@
       "onboard_time": 1665232647,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252949,
-      "num": 252949,
-      "word": "真正的美貌从来不存在艳压",
-      "onboard_time": 1665746842,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252872,
@@ -11945,6 +12009,14 @@
       "onboard_time": 1664929820,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241879,
+      "num": 180889,
+      "word": "王鹤棣陈钰琪浮图缘最新剧照",
+      "onboard_time": 1665748702,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 241751,
@@ -13771,6 +13843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201798,
+      "num": 201798,
+      "word": "民警下夜勤买炒粉巧遇小偷团伙",
+      "onboard_time": 1665748822,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201468,
       "num": 201468,
       "word": "广汉疫情防控",
@@ -14059,6 +14139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196376,
+      "num": 180115,
+      "word": "追光者",
+      "onboard_time": 1665744746,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196332,
       "num": 196332,
       "word": "孙俪以你为镜",
@@ -14097,6 +14185,14 @@
       "onboard_time": 1665363324,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195333,
+      "num": 195333,
+      "word": "怎样才能忘掉喜欢的人",
+      "onboard_time": 1665749543,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 195255,
@@ -15233,14 +15329,6 @@
       "onboard_time": 1665623485,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172429,
-      "num": 172429,
-      "word": "追光者",
-      "onboard_time": 1665744746,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 172298,
@@ -17513,6 +17601,14 @@
       "onboard_time": 1664808504,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135109,
+      "num": 135109,
+      "word": "暂未考虑将种植牙纳入医保支付范围",
+      "onboard_time": 1665746242,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135038,
@@ -20299,14 +20395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91472,
-      "num": 91472,
-      "word": "暂未考虑将种植牙纳入医保支付范围",
-      "onboard_time": 1665746242,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91457,
       "num": 91457,
       "word": "北伦敦德比",
@@ -20369,6 +20457,14 @@
       "onboard_time": 1664947940,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90603,
+      "num": 135240,
+      "word": "大学生返乡见证山乡巨变",
+      "onboard_time": 1665748222,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90568,
@@ -20593,6 +20689,14 @@
       "onboard_time": 1665734965,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86979,
+      "num": 86979,
+      "word": "90岁老人收到生日礼物笑掉假牙",
+      "onboard_time": 1665750984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86923,
@@ -21499,6 +21603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72382,
+      "num": 72382,
+      "word": "冷空气又双叒要来了",
+      "onboard_time": 1665751582,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72338,
       "num": 72338,
       "word": "檀健次新剧哭戏",
@@ -22035,6 +22147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62968,
+      "num": 864383,
+      "word": "卫星影像看中国脱贫巨变",
+      "onboard_time": 1665738084,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62966,
       "num": 62966,
       "word": "支教11年小伙成全能老师",
@@ -22480,14 +22600,6 @@
       "word": "原来跨代同框可以这么潮",
       "onboard_time": 1664867962,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52402,
-      "num": 864383,
-      "word": "卫星影像看中国脱贫巨变",
-      "onboard_time": 1665738084,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -24533,6 +24645,9 @@
     },
     {
       "word": "#你好二十大#"
+    },
+    {
+      "word": "#二十大时光#"
     }
   ]
 }

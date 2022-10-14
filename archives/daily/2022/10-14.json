@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665747654700,
+  "endTime": 1665752138320,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1142998,
+      "num": 795908,
+      "word": "一直不谈恋爱会等到很好的人吗",
+      "onboard_time": 1665745104,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1113804,
       "num": 1113804,
       "word": "刘恺威披荆斩棘四公淘汰",
@@ -129,6 +137,14 @@
       "onboard_time": 1665710784,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 978107,
+      "num": 252949,
+      "word": "真正的美貌从来不存在艳压",
+      "onboard_time": 1665746842,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 964159,
@@ -187,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 795908,
-      "num": 795908,
-      "word": "一直不谈恋爱会等到很好的人吗",
-      "onboard_time": 1665745104,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 776169,
       "num": 776169,
       "word": "用淘宝做头像是什么梗",
@@ -225,6 +233,14 @@
       "onboard_time": 1665728904,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 659616,
+      "num": 276737,
+      "word": "海恩贤圭车内牵手",
+      "onboard_time": 1665748162,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 625714,
@@ -264,6 +280,22 @@
       "word": "孩子打翻酒架父母买单带回喝一宿",
       "onboard_time": 1665714024,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600549,
+      "num": 270822,
+      "word": "东北一串店禁玩手机每人低消10串",
+      "onboard_time": 1665749843,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582543,
+      "num": 223771,
+      "word": "日本男子出租自己4年赚近200万",
+      "onboard_time": 1665748643,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -323,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476345,
+      "num": 222022,
+      "word": "原来胡歌演过离歌MV男主",
+      "onboard_time": 1665750383,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458492,
       "num": 458492,
       "word": "EDG骑士礼空位",
@@ -377,6 +417,14 @@
       "onboard_time": 1665713484,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 399823,
+      "num": 221058,
+      "word": "日剧silent",
+      "onboard_time": 1665750563,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 399058,
@@ -555,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302152,
+      "num": 183938,
+      "word": "党的二十大将于16日10时在京举行",
+      "onboard_time": 1665750563,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 293739,
       "num": 256763,
       "word": "张彬彬小森林后三部剧被考古",
@@ -569,6 +625,14 @@
       "onboard_time": 1665672566,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 279670,
+      "num": 279670,
+      "word": "这十年追光之夜",
+      "onboard_time": 1665751945,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 271387,
@@ -587,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260512,
+      "num": 219330,
+      "word": "高校通报教师图书馆打电话声音过大出言不逊",
+      "onboard_time": 1665749181,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 253193,
       "num": 247521,
       "word": "张艺兴晒马来西亚演唱会出行vlog",
@@ -601,14 +673,6 @@
       "onboard_time": 1665706764,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252949,
-      "num": 252949,
-      "word": "真正的美貌从来不存在艳压",
-      "onboard_time": 1665746842,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252508,
@@ -633,6 +697,14 @@
       "onboard_time": 1665744264,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241879,
+      "num": 180889,
+      "word": "王鹤棣陈钰琪浮图缘最新剧照",
+      "onboard_time": 1665748702,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 241424,
@@ -731,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201798,
+      "num": 201798,
+      "word": "民警下夜勤买炒粉巧遇小偷团伙",
+      "onboard_time": 1665748822,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200952,
       "num": 200952,
       "word": "罗云熙吴倩追光者台词",
@@ -769,6 +849,22 @@
       "onboard_time": 1665718223,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196376,
+      "num": 180115,
+      "word": "追光者",
+      "onboard_time": 1665744746,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195333,
+      "num": 195333,
+      "word": "怎样才能忘掉喜欢的人",
+      "onboard_time": 1665749543,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 194954,
@@ -865,14 +961,6 @@
       "onboard_time": 1665675024,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172429,
-      "num": 172429,
-      "word": "追光者",
-      "onboard_time": 1665744746,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 172036,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1665719844,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135109,
+      "num": 135109,
+      "word": "暂未考虑将种植牙纳入医保支付范围",
+      "onboard_time": 1665746242,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129517,
@@ -1227,19 +1323,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91472,
-      "num": 91472,
-      "word": "暂未考虑将种植牙纳入医保支付范围",
-      "onboard_time": 1665746242,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91332,
       "num": 91332,
       "word": "保安作画300多幅把公园变成动物世界",
       "onboard_time": 1665693011,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90603,
+      "num": 135240,
+      "word": "大学生返乡见证山乡巨变",
+      "onboard_time": 1665748222,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1361,14 @@
       "onboard_time": 1665734965,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86979,
+      "num": 86979,
+      "word": "90岁老人收到生日礼物笑掉假牙",
+      "onboard_time": 1665750984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86658,
@@ -1345,6 +1449,14 @@
       "onboard_time": 1665702619,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72382,
+      "num": 72382,
+      "word": "冷空气又双叒要来了",
+      "onboard_time": 1665751582,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71958,
@@ -1443,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62968,
+      "num": 864383,
+      "word": "卫星影像看中国脱贫巨变",
+      "onboard_time": 1665738084,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62966,
       "num": 62966,
       "word": "支教11年小伙成全能老师",
@@ -1487,14 +1607,6 @@
       "num": 254617,
       "word": "民警走访时帮独居老人收玉米",
       "onboard_time": 1665741624,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52402,
-      "num": 864383,
-      "word": "卫星影像看中国脱贫巨变",
-      "onboard_time": 1665738084,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1837,6 +1949,9 @@
     },
     {
       "word": "#你好二十大#"
+    },
+    {
+      "word": "#二十大时光#"
     }
   ]
 }
