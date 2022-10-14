@@ -1,0 +1,410 @@
+{
+  "runTime": 1665723924782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1784504,
+        "num": 1784504,
+        "word": "吃辣对身体究竟会有什么影响",
+        "onboard_time": 1665717445,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1220541,
+        "num": 1220541,
+        "word": "韩国宣布对朝鲜实施单边制裁",
+        "onboard_time": 1665719785,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 33470,
+        "num": 1131358,
+        "word": "一图读懂十九届七中全会公报",
+        "onboard_time": 1665656363,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1802441,
+        "num": 1131005,
+        "word": "陈玘",
+        "onboard_time": 1665718946,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221789,
+        "num": 1129685,
+        "word": "中国成第二汽车出口大国",
+        "onboard_time": 1665718402,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1129213,
+        "num": 1129213,
+        "word": "新冠后遗症可持续数周数月甚至更长时间",
+        "onboard_time": 1665708087,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882673,
+        "num": 882673,
+        "word": "二手iPhone14贬值速度是13两倍",
+        "onboard_time": 1665719005,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 838025,
+        "num": 838025,
+        "word": "90后姑娘凌晨跳江救回轻生男",
+        "onboard_time": 1665717683,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 727238,
+        "num": 727238,
+        "word": "RNG八人确诊",
+        "onboard_time": 1665704543,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 583264,
+        "num": 583264,
+        "word": "终于知道插头上孔的用途了",
+        "onboard_time": 1665716064,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512908,
+        "num": 512908,
+        "word": "唐朝诡事录小叫花子是杨志刚儿子",
+        "onboard_time": 1665720985,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416724,
+        "num": 416724,
+        "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
+        "onboard_time": 1665708383,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390858,
+        "num": 390858,
+        "word": "iPhone不送充电器被巴西罚款1.4亿",
+        "onboard_time": 1665710784,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344727,
+        "num": 344727,
+        "word": "熟食店内老鼠狂炫烤鸭",
+        "onboard_time": 1665713066,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342149,
+        "num": 342149,
+        "word": "孩子打翻酒架父母买单带回喝一宿",
+        "onboard_time": 1665714024,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243379,
+        "num": 243379,
+        "word": "今年将迎来冷冬还是暖冬",
+        "onboard_time": 1665689952,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240882,
+        "num": 240882,
+        "word": "长沙三孩及以上家庭每孩将补贴1万",
+        "onboard_time": 1665710663,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223163,
+        "num": 223163,
+        "word": "烈士父母主动帮儿子还助学贷款",
+        "onboard_time": 1665715704,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216117,
+        "num": 216117,
+        "word": "公公领工资第一时间全塞给儿媳",
+        "onboard_time": 1665672925,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206082,
+        "num": 206082,
+        "word": "法拉利在中国卖风衣售价4.45万",
+        "onboard_time": 1665713484,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192767,
+        "num": 192767,
+        "word": "人类与AI的第三次对决",
+        "onboard_time": 1665721165,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188100,
+        "num": 188100,
+        "word": "被爱真的有迹可循",
+        "onboard_time": 1665707786,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187342,
+        "num": 187342,
+        "word": "特朗普将被传唤",
+        "onboard_time": 1665713484,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 179678,
+        "num": 179678,
+        "word": "王一博街舞5十三宫格剧照",
+        "onboard_time": 1665718223,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "真人版小美人鱼电影海报",
+        "onboard_time": 1665717144,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171800,
+        "num": 171800,
+        "word": "EDG骑士礼空位",
+        "onboard_time": 1665711686,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169488,
+        "num": 169488,
+        "word": "Jennie登ELLE30周年封面",
+        "onboard_time": 1665712104,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168762,
+        "num": 168762,
+        "word": "好像突然没那么焦虑了",
+        "onboard_time": 1665667467,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167979,
+        "num": 167979,
+        "word": "陈小春说虚名而已但我需要",
+        "onboard_time": 1665709288,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126879,
+        "num": 164029,
+        "word": "普京称不会向限价国家出售天然气",
+        "onboard_time": 1665676582,
+        "rank": 29,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 164003,
+        "num": 164003,
+        "word": "杜兰特谈追梦格林普尔冲突",
+        "onboard_time": 1665717983,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152347,
+        "num": 152347,
+        "word": "罗云熙吴倩追光者台词",
+        "onboard_time": 1665716603,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140092,
+        "num": 140092,
+        "word": "蒲熠星发长文告别密逃大神版",
+        "onboard_time": 1665712104,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135816,
+        "num": 135816,
+        "word": "姚晨新剧包饺子梦回郭芙蓉",
+        "onboard_time": 1665719844,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134441,
+        "num": 134441,
+        "word": "gidle回归采访",
+        "onboard_time": 1665717623,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132803,
+        "num": 132803,
+        "word": "马伊琍街角随拍状态",
+        "onboard_time": 1665718103,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124439,
+        "num": 124439,
+        "word": "RNG",
+        "onboard_time": 1665703760,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116358,
+        "num": 116358,
+        "word": "58岁爸爸给狗买100多枚卡子挨个试戴",
+        "onboard_time": 1665660622,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106907,
+        "num": 106907,
+        "word": "网友总结的近十年现象级韩剧",
+        "onboard_time": 1665712141,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102642,
+        "num": 102642,
+        "word": "走失马驹啃秃派出所门前草皮",
+        "onboard_time": 1665716842,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2462,
+        "num": 102404,
+        "word": "Mate50E评测",
+        "onboard_time": 1665720025,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102336,
+        "num": 102336,
+        "word": "中国高领毛衣火到欧洲",
+        "onboard_time": 1665685992,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102045,
+        "num": 102045,
+        "word": "不识字奶奶画图给孙子区分饺子馅",
+        "onboard_time": 1665715646,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101634,
+        "num": 101634,
+        "word": "老爸半年画16米长百虎图送女儿",
+        "onboard_time": 1665723146,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99224,
+        "num": 99224,
+        "word": "T1战胜EDG",
+        "onboard_time": 1665706764,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96811,
+        "num": 96811,
+        "word": "浙江大学位列世界第67名高校",
+        "onboard_time": 1665697214,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87747,
+        "num": 87747,
+        "word": "爷爷第一次见孙子又放炮又脱衣服",
+        "onboard_time": 1665663144,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87218,
+        "num": 87218,
+        "word": "电钻突然在脚下破地而出",
+        "onboard_time": 1665688812,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83799,
+        "num": 83799,
+        "word": "10月13日新增本土无症状1010例",
+        "onboard_time": 1665710183,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83183,
+        "num": 83183,
+        "word": "Faker超越Uzi成为世界赛击杀王",
+        "onboard_time": 1665723686,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665723283354,
+  "endTime": 1665723924782,
   "band_list": [
     {
       "raw_hot": 2263538,
-      "num": 960593,
+      "num": 1129213,
       "word": "新冠后遗症可持续数周数月甚至更长时间",
       "onboard_time": 1665708087,
       "rank": 1,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2020927,
-      "num": 960830,
+      "num": 1131005,
       "word": "陈玘",
       "onboard_time": 1665718946,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1220541,
+      "num": 1220541,
+      "word": "韩国宣布对朝鲜实施单边制裁",
+      "onboard_time": 1665719785,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1033845,
       "num": 640976,
       "word": "iPhone不送充电器被巴西罚款1.4亿",
@@ -73,14 +81,6 @@
       "onboard_time": 1665667467,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 961222,
-      "num": 961222,
-      "word": "韩国宣布对朝鲜实施单边制裁",
-      "onboard_time": 1665719785,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 960398,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512908,
+      "num": 512908,
+      "word": "唐朝诡事录小叫花子是杨志刚儿子",
+      "onboard_time": 1665720985,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507996,
       "num": 507996,
       "word": "男子与人冲突好友立马上前道歉",
@@ -217,14 +225,6 @@
       "onboard_time": 1665676582,
       "rank": 11,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 398980,
-      "num": 398980,
-      "word": "唐朝诡事录小叫花子是杨志刚儿子",
-      "onboard_time": 1665720985,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374213,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 226165,
-      "num": 960634,
+      "num": 1129685,
       "word": "中国成第二汽车出口大国",
       "onboard_time": 1665718402,
       "rank": 4,
@@ -409,6 +409,14 @@
       "onboard_time": 1665665306,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192767,
+      "num": 192767,
+      "word": "人类与AI的第三次对决",
+      "onboard_time": 1665721165,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 190224,
@@ -539,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140058,
-      "num": 140058,
-      "word": "人类与AI的第三次对决",
-      "onboard_time": 1665721165,
-      "rank": 34,
-      "category": "科技"
+      "raw_hot": 135816,
+      "num": 135816,
+      "word": "姚晨新剧包饺子梦回郭芙蓉",
+      "onboard_time": 1665719844,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129517,
@@ -560,14 +568,6 @@
       "word": "孔雪儿翻跳ShutDown视频",
       "onboard_time": 1665702619,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125881,
-      "num": 125881,
-      "word": "姚晨新剧包饺子梦回郭芙蓉",
-      "onboard_time": 1665719844,
-      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -643,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101634,
+      "num": 101634,
+      "word": "老爸半年画16米长百虎图送女儿",
+      "onboard_time": 1665723146,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101060,
       "num": 101060,
       "word": "锡安伤退",
@@ -699,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88771,
-      "num": 88771,
-      "word": "老爸半年画16米长百虎图送女儿",
-      "onboard_time": 1665723146,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87734,
       "num": 87734,
       "word": "81岁奶奶能连续跳绳1000个",
@@ -721,6 +721,14 @@
       "onboard_time": 1665652342,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83183,
+      "num": 83183,
+      "word": "Faker超越Uzi成为世界赛击杀王",
+      "onboard_time": 1665723686,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 81820,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 48727,
-      "num": 961116,
+      "num": 1131358,
       "word": "一图读懂十九届七中全会公报",
       "onboard_time": 1665656363,
       "rank": 2,
