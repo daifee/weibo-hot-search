@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665740874546,
+  "endTime": 1665743356477,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449472,
+      "num": 449472,
+      "word": "这才是龙生九子最有趣的解释",
+      "onboard_time": 1665740243,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448368,
       "num": 448368,
       "word": "爷爷第一次见孙子又放炮又脱衣服",
@@ -321,6 +329,14 @@
       "onboard_time": 1665737064,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 417572,
+      "num": 294923,
+      "word": "俄媒称俄博主冒充美官员与乌外长连线",
+      "onboard_time": 1665740484,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 415841,
@@ -369,6 +385,14 @@
       "onboard_time": 1665724402,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382331,
+      "num": 382331,
+      "word": "分享欲本身就是爱和热情",
+      "onboard_time": 1665738323,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 374213,
@@ -507,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265169,
+      "num": 265169,
+      "word": "刘恺威发博告别披荆斩棘",
+      "onboard_time": 1665740604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262174,
       "num": 262174,
       "word": "宁波市北仑区新增4例确诊病例",
@@ -529,14 +561,6 @@
       "onboard_time": 1665706764,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252806,
-      "num": 252806,
-      "word": "分享欲本身就是爱和热情",
-      "onboard_time": 1665738323,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 252508,
@@ -593,6 +617,14 @@
       "onboard_time": 1665718402,
       "rank": 4,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 219465,
+      "num": 219465,
+      "word": "年轻人为什么更爱买国货了",
+      "onboard_time": 1665739464,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218075,
@@ -707,12 +739,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 191087,
-      "num": 191087,
-      "word": "年轻人为什么更爱买国货了",
-      "onboard_time": 1665739464,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 191144,
+      "num": 191144,
+      "word": "三女子用电动车为晕倒老人搭出安全岛",
+      "onboard_time": 1665737966,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 190224,
@@ -747,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179728,
-      "num": 179728,
-      "word": "刘恺威发博告别披荆斩棘",
-      "onboard_time": 1665740604,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179393,
       "num": 179393,
       "word": "真人版小美人鱼电影海报",
@@ -769,14 +793,6 @@
       "onboard_time": 1665704543,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175905,
-      "num": 175905,
-      "word": "三女子用电动车为晕倒老人搭出安全岛",
-      "onboard_time": 1665737966,
-      "rank": 28,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 175727,
@@ -803,12 +819,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168481,
+      "num": 168481,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1665739342,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 167903,
       "num": 167903,
       "word": "T1战胜C9",
       "onboard_time": 1665704421,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165362,
+      "num": 165362,
+      "word": "美国会骚乱又曝新画面",
+      "onboard_time": 1665742344,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 160990,
@@ -819,12 +851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160077,
-      "num": 160077,
+      "raw_hot": 160446,
+      "num": 160446,
       "word": "张雨绮昆仑神宫90秒无声表演",
       "onboard_time": 1665739585,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160212,
+      "num": 160212,
+      "word": "互联网人哪有不疯的",
+      "onboard_time": 1665738745,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 159661,
@@ -849,6 +889,14 @@
       "onboard_time": 1665695531,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153056,
+      "num": 153056,
+      "word": "隔空踩奶的猫咪",
+      "onboard_time": 1665740963,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152916,
@@ -891,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145131,
-      "num": 145131,
-      "word": "互联网人哪有不疯的",
-      "onboard_time": 1665738745,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137143,
       "num": 137143,
       "word": "年轻人为什么喜欢运动社交",
@@ -929,14 +969,6 @@
       "onboard_time": 1665702619,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121977,
-      "num": 121977,
-      "word": "二十大代表是怎么选出来的",
-      "onboard_time": 1665739342,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 118615,
@@ -1027,14 +1059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 107153,
-      "num": 107153,
-      "word": "这才是龙生九子最有趣的解释",
-      "onboard_time": 1665740243,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106036,
       "num": 106036,
       "word": "阿香终于开麦了",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1665675265,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92586,
-      "num": 92586,
-      "word": "俄媒称俄博主冒充美官员与乌外长连线",
-      "onboard_time": 1665740484,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 92549,
@@ -1307,12 +1323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67836,
+      "num": 67836,
+      "word": "7岁萨摩耶骑玩具车遛娃",
+      "onboard_time": 1665743184,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67359,
       "num": 67359,
       "word": "李盈莹未来可期",
       "onboard_time": 1665695589,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67205,
+      "num": 67205,
+      "word": "00后中专生每天训练5小时逆袭北大",
+      "onboard_time": 1665743303,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65823,
@@ -1427,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45258,
+      "num": 242190,
+      "word": "民警走访时帮独居老人收玉米",
+      "onboard_time": 1665741624,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41272,
       "num": 41272,
       "word": "成都市武侯区调整部分区域风险区等级",
@@ -1475,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38949,
+      "num": 587801,
+      "word": "这是属于每个人的非凡十年",
+      "onboard_time": 1665739103,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36519,
       "num": 36519,
       "word": "1个动作提升腰部肌肉力量",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1665672446,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27820,
-      "num": 587801,
-      "word": "这是属于每个人的非凡十年",
-      "onboard_time": 1665739103,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 21148,

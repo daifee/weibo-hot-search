@@ -1,0 +1,410 @@
+{
+  "runTime": 1665743356477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1738384,
+        "num": 1738384,
+        "word": "连续上七天班的精神状态",
+        "onboard_time": 1665729744,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 562915,
+        "num": 562915,
+        "word": "用淘宝做头像是什么梗",
+        "onboard_time": 1665733042,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 7300,
+        "num": 485472,
+        "word": "一图读懂十九届七中全会公报",
+        "onboard_time": 1665656363,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 449472,
+        "num": 449472,
+        "word": "这才是龙生九子最有趣的解释",
+        "onboard_time": 1665740243,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38949,
+        "num": 399692,
+        "word": "这是属于每个人的非凡十年",
+        "onboard_time": 1665739103,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 612761,
+        "num": 395291,
+        "word": "羊了个羊出逃消防员被迫陪跑追回",
+        "onboard_time": 1665731185,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582064,
+        "num": 390943,
+        "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+        "onboard_time": 1665735024,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382331,
+        "num": 382331,
+        "word": "分享欲本身就是爱和热情",
+        "onboard_time": 1665738323,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328134,
+        "num": 328134,
+        "word": "苏有朋又拿第一",
+        "onboard_time": 1665733644,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307291,
+        "num": 307291,
+        "word": "沙特称不接受美国发号施令",
+        "onboard_time": 1665728904,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 417572,
+        "num": 294923,
+        "word": "俄媒称俄博主冒充美官员与乌外长连线",
+        "onboard_time": 1665740484,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 345823,
+        "num": 284529,
+        "word": "iPhone14个别型号价格已低于13官网价",
+        "onboard_time": 1665735504,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265169,
+        "num": 265169,
+        "word": "刘恺威发博告别披荆斩棘",
+        "onboard_time": 1665740604,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252475,
+        "num": 252475,
+        "word": "原来这才是例假叫法的由来",
+        "onboard_time": 1665725364,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45258,
+        "num": 242190,
+        "word": "民警走访时帮独居老人收玉米",
+        "onboard_time": 1665741624,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242100,
+        "num": 242100,
+        "word": "换乘恋爱",
+        "onboard_time": 1665726803,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235479,
+        "num": 235479,
+        "word": "医疗",
+        "onboard_time": 1665727705,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228415,
+        "num": 228415,
+        "word": "倪妮白鹿邢菲十月封面",
+        "onboard_time": 1665737064,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219465,
+        "num": 219465,
+        "word": "年轻人为什么更爱买国货了",
+        "onboard_time": 1665739464,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210690,
+        "num": 210690,
+        "word": "遗忘15年股票找回后1万变50万",
+        "onboard_time": 1665726144,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207641,
+        "num": 207641,
+        "word": "狗狗帮忙抱7旬瘫痪老人上床",
+        "onboard_time": 1665735625,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191144,
+        "num": 191144,
+        "word": "三女子用电动车为晕倒老人搭出安全岛",
+        "onboard_time": 1665737966,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 173152,
+        "num": 173152,
+        "word": "新冠后遗症可持续数周数月甚至更长时间",
+        "onboard_time": 1665708087,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168797,
+        "num": 168797,
+        "word": "宁波市北仑区新增4例确诊病例",
+        "onboard_time": 1665737783,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168481,
+        "num": 168481,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1665739342,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165362,
+        "num": 165362,
+        "word": "美国会骚乱又曝新画面",
+        "onboard_time": 1665742344,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 161387,
+        "num": 161387,
+        "word": "王鹤棣黄明昊王安宇刘耀文看秀后约球",
+        "onboard_time": 1665734785,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160446,
+        "num": 160446,
+        "word": "张雨绮昆仑神宫90秒无声表演",
+        "onboard_time": 1665739585,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160212,
+        "num": 160212,
+        "word": "互联网人哪有不疯的",
+        "onboard_time": 1665738745,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153056,
+        "num": 153056,
+        "word": "隔空踩奶的猫咪",
+        "onboard_time": 1665740963,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 131861,
+        "num": 131861,
+        "word": "王一博街舞5穿鞋穿出跳舞即视感",
+        "onboard_time": 1665736224,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129171,
+        "num": 129171,
+        "word": "CBA要求解说员不要评价吹罚",
+        "onboard_time": 1665727464,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124107,
+        "num": 124107,
+        "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+        "onboard_time": 1665724402,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122313,
+        "num": 122313,
+        "word": "从校服到婚纱真的存在",
+        "onboard_time": 1665726624,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120774,
+        "num": 120774,
+        "word": "Faker超越Uzi成为世界赛击杀王",
+        "onboard_time": 1665723686,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114044,
+        "num": 114044,
+        "word": "张彬彬小森林后三部剧被考古",
+        "onboard_time": 1665732984,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111163,
+        "num": 111163,
+        "word": "LOL新英雄奎桑提",
+        "onboard_time": 1665731243,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107170,
+        "num": 107170,
+        "word": "吃辣对身体究竟会有什么影响",
+        "onboard_time": 1665717445,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 100843,
+        "num": 100843,
+        "word": "爱奇艺认证苍兰诀是爆款剧集",
+        "onboard_time": 1665726263,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94335,
+        "num": 94335,
+        "word": "iPhone不送充电器被巴西罚款1.4亿",
+        "onboard_time": 1665710784,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91831,
+        "num": 91831,
+        "word": "韩国宣布对朝鲜实施单边制裁",
+        "onboard_time": 1665719785,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 90277,
+        "num": 90277,
+        "word": "魏大勋爸爸拒绝和魏大勋同队",
+        "onboard_time": 1665729442,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92411,
+        "num": 89236,
+        "word": "二手iPhone14贬值速度是13两倍",
+        "onboard_time": 1665719005,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82821,
+        "num": 82821,
+        "word": "被虞书欣许凯笑死",
+        "onboard_time": 1665725603,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80261,
+        "num": 80261,
+        "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
+        "onboard_time": 1665726383,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74217,
+        "num": 74217,
+        "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
+        "onboard_time": 1665708383,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72419,
+        "num": 72419,
+        "word": "新冷空气来袭降温或超10摄氏度",
+        "onboard_time": 1665734124,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71349,
+        "num": 71349,
+        "word": "终于知道插头上孔的用途了",
+        "onboard_time": 1665716064,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67836,
+        "num": 67836,
+        "word": "7岁萨摩耶骑玩具车遛娃",
+        "onboard_time": 1665743184,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67205,
+        "num": 67205,
+        "word": "00后中专生每天训练5小时逆袭北大",
+        "onboard_time": 1665743303,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}
