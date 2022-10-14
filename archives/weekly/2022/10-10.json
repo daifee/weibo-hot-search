@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665765505567,
+  "endTime": 1665767122812,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1665375263,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 801764,
+      "num": 801764,
+      "word": "进化论",
+      "onboard_time": 1665762444,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 796507,
@@ -2067,14 +2075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 524247,
-      "num": 524247,
-      "word": "进化论",
-      "onboard_time": 1665762444,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523962,
       "num": 523962,
       "word": "legends never die",
@@ -2624,6 +2624,14 @@
       "word": "沈阳浑南区现3例核酸异常",
       "onboard_time": 1665645621,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437481,
+      "num": 331441,
+      "word": "同事都有对象单身女服务员趴桌大哭",
+      "onboard_time": 1665763463,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -3569,14 +3577,6 @@
       "onboard_time": 1665461186,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331441,
-      "num": 331441,
-      "word": "同事都有对象单身女服务员趴桌大哭",
-      "onboard_time": 1665763463,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331325,
@@ -8137,6 +8137,14 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79954,
+      "num": 74310,
+      "word": "kcon",
+      "onboard_time": 1665763822,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 79701,

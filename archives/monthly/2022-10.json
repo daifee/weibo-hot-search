@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665765505567,
+  "endTime": 1665767122812,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2819,6 +2819,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 801764,
+      "num": 801764,
+      "word": "进化论",
+      "onboard_time": 1665762444,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 799045,
       "num": 799045,
       "word": "同小区3位新郎同名同姓同一天结婚",
@@ -5275,14 +5283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 524247,
-      "num": 524247,
-      "word": "进化论",
-      "onboard_time": 1665762444,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 524082,
       "num": 524082,
       "word": "为什么越来越多老年人变年轻了",
@@ -6745,6 +6745,14 @@
       "onboard_time": 1664962883,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 437481,
+      "num": 331441,
+      "word": "同事都有对象单身女服务员趴桌大哭",
+      "onboard_time": 1665763463,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437209,
@@ -9121,14 +9129,6 @@
       "onboard_time": 1665461186,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331441,
-      "num": 331441,
-      "word": "同事都有对象单身女服务员趴桌大哭",
-      "onboard_time": 1665763463,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331325,
@@ -21417,6 +21417,14 @@
       "onboard_time": 1665292285,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 79954,
+      "num": 74310,
+      "word": "kcon",
+      "onboard_time": 1665763822,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 79701,
