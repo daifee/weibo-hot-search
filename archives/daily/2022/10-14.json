@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665743356477,
+  "endTime": 1665744463728,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2018533,
+      "num": 2018533,
+      "word": "连续上七天班的精神状态",
+      "onboard_time": 1665729744,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1893836,
       "num": 1893836,
       "word": "吃辣对身体究竟会有什么影响",
       "onboard_time": 1665717445,
       "rank": 33,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 1858066,
-      "num": 1858066,
-      "word": "连续上七天班的精神状态",
-      "onboard_time": 1665729744,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1856164,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568411,
+      "num": 568411,
+      "word": "这才是龙生九子最有趣的解释",
+      "onboard_time": 1665740243,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550574,
       "num": 391999,
       "word": "被虞书欣许凯笑死",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483441,
+      "num": 483441,
+      "word": "任嘉伦白鹿周生如故将12月日本播出",
+      "onboard_time": 1665743906,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458492,
       "num": 458492,
       "word": "EDG骑士礼空位",
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449472,
-      "num": 449472,
-      "word": "这才是龙生九子最有趣的解释",
-      "onboard_time": 1665740243,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448368,
       "num": 448368,
       "word": "爷爷第一次见孙子又放炮又脱衣服",
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434681,
+      "num": 434681,
+      "word": "俄媒称俄博主冒充美官员与乌外长连线",
+      "onboard_time": 1665740484,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 429812,
       "num": 377005,
       "word": "倪妮白鹿邢菲十月封面",
       "onboard_time": 1665737064,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 417572,
-      "num": 294923,
-      "word": "俄媒称俄博主冒充美官员与乌外长连线",
-      "onboard_time": 1665740484,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 415841,
@@ -451,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329982,
+      "num": 329982,
+      "word": "美国会骚乱又曝新画面",
+      "onboard_time": 1665742344,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 329287,
       "num": 329287,
       "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
@@ -521,6 +537,14 @@
       "onboard_time": 1665672566,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 286861,
+      "num": 286861,
+      "word": "00后中专生每天训练5小时逆袭北大",
+      "onboard_time": 1665743303,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271387,
@@ -619,8 +643,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 219465,
-      "num": 219465,
+      "raw_hot": 223212,
+      "num": 223212,
       "word": "年轻人为什么更爱买国货了",
       "onboard_time": 1665739464,
       "rank": 34,
@@ -641,6 +665,14 @@
       "onboard_time": 1665736224,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213511,
+      "num": 213511,
+      "word": "正午阳光官博说县委大院档期未定",
+      "onboard_time": 1665743906,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 212883,
@@ -673,6 +705,14 @@
       "onboard_time": 1665717623,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201920,
+      "num": 201920,
+      "word": "第一次租房需要注意哪些",
+      "onboard_time": 1665744264,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 200952,
@@ -803,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172036,
+      "num": 172036,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1665739342,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 171231,
       "num": 192199,
       "word": "原来友情没有真正的be",
@@ -819,28 +867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168481,
-      "num": 168481,
-      "word": "二十大代表是怎么选出来的",
-      "onboard_time": 1665739342,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 167903,
       "num": 167903,
       "word": "T1战胜C9",
       "onboard_time": 1665704421,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165362,
-      "num": 165362,
-      "word": "美国会骚乱又曝新画面",
-      "onboard_time": 1665742344,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 160990,
@@ -883,20 +915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155705,
+      "num": 155705,
+      "word": "隔空踩奶的猫咪",
+      "onboard_time": 1665740963,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 153414,
       "num": 153414,
       "word": "意大利女航天员用兰亭集序直抒胸臆",
       "onboard_time": 1665695531,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153056,
-      "num": 153056,
-      "word": "隔空踩奶的猫咪",
-      "onboard_time": 1665740963,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 152916,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1665693490,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98773,
+      "num": 98773,
+      "word": "7岁萨摩耶骑玩具车遛娃",
+      "onboard_time": 1665743184,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98110,
@@ -1323,28 +1363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67836,
-      "num": 67836,
-      "word": "7岁萨摩耶骑玩具车遛娃",
-      "onboard_time": 1665743184,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67359,
       "num": 67359,
       "word": "李盈莹未来可期",
       "onboard_time": 1665695589,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67205,
-      "num": 67205,
-      "word": "00后中专生每天训练5小时逆袭北大",
-      "onboard_time": 1665743303,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65823,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1665662123,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 54359,
+      "num": 254617,
+      "word": "民警走访时帮独居老人收玉米",
+      "onboard_time": 1665741624,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52402,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1665659543,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45258,
-      "num": 242190,
-      "word": "民警走访时帮独居老人收玉米",
-      "onboard_time": 1665741624,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41272,
