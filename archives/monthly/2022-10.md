@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 22:53:04
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 23:30:17
 </p>
 </blockquote>
 <p>
@@ -789,6 +789,12 @@ C罗（热度：1447248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
+梵高名画向日葵被泼番茄罐头（热度：1409055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%23" target="weibo">
 管泽元（热度：1386518）
 </a>
@@ -909,6 +915,12 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23" target="weibo">
+男子心跳停1小时医生持续抢救成功（热度：1321834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E5%8F%8A%E5%B7%9D%E7%91%9E%E5%9F%BA%23" target="weibo">
 马龙vs及川瑞基（热度：1321816）
 </a>
@@ -923,12 +935,6 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23PDD%E5%B7%B2%E8%B5%B7%E8%AF%89%E5%A4%9A%E4%BA%BA%E4%BE%B5%E7%8A%AF%E5%90%8D%E8%AA%89%E6%9D%83%23" target="weibo">
 PDD已起诉多人侵犯名誉权（热度：1318290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23" target="weibo">
-男子心跳停1小时医生持续抢救成功（热度：1315102）
 </a>
 </li>
 
@@ -1685,6 +1691,12 @@ iPhone14Plus上市破发（热度：986191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E6%92%A9%23" target="weibo">
 错撩（热度：958326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E4%BB%8E%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1%E5%88%B0%E8%AF%80%E7%88%B1%23" target="weibo">
+詹雯婷从我们的爱到诀爱（热度：956682）
 </a>
 </li>
 
@@ -5187,6 +5199,12 @@ aespa出镜nylon十月刊（热度：426975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%23" target="weibo">
+AG（热度：426033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8F%B6%E8%88%92%E5%8D%8E%E6%B3%B0%E5%9B%BD%E6%9D%82%E5%BF%97%E7%94%BB%E6%8A%A5%23" target="weibo">
 宋雨琦叶舒华泰国杂志画报（热度：425851）
 </a>
@@ -5285,12 +5303,6 @@ VOGUE 女明星（热度：421757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D%E7%99%BD%E7%9B%96%E9%B8%A1%E6%B2%B9%E8%8F%8C%23" target="weibo">
 浙江发现新物种白盖鸡油菌（热度：421066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
-梵高名画向日葵被泼番茄罐头（热度：420112）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ iPhoneSE4或继续保留刘海（热度：378161）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98GAM%23" target="weibo">
-TES对战GAM（热度：376826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%86%B7%E7%A9%BA%E6%B0%945%E6%97%A5%E5%88%B0%E8%B4%A7%23" target="weibo">
-广东冷空气5日到货（热度：376776）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6209,6 +6209,12 @@ TES对战GAM（热度：376826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%9C%9F%E7%90%86%E4%B9%8B%E5%85%89%23%23" target="weibo">
 #真理之光#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23%23" target="weibo">
+#二十大新闻发布会#
 </a>
 </li>
 
