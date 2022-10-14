@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 23:30:17
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 23:49:37
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ RNG战胜GEN（热度：2011028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%23" target="weibo">
 莎头（热度：1973112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
+梵高名画向日葵被泼番茄罐头（热度：1966539）
 </a>
 </li>
 
@@ -785,12 +791,6 @@ C罗（热度：1447248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 红气养人是真的（热度：1412638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
-梵高名画向日葵被泼番茄罐头（热度：1409055）
 </a>
 </li>
 
@@ -4887,6 +4887,12 @@ LPL小组赛首轮9胜3负（热度：454232）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%23" target="weibo">
+AG（热度：450461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E5%AE%9A%E9%B8%AD%E9%B8%AD%E6%9A%B4%E9%9B%A8%E4%B8%AD%E9%9B%86%E4%BD%93%E7%AB%99%E7%AB%8B%E6%B7%8B%E9%9B%A8%23" target="weibo">
 淡定鸭鸭暴雨中集体站立淋雨（热度：449693）
 </a>
@@ -5121,6 +5127,12 @@ aespaSavage发行一周年（热度：437595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%A4%E5%BF%83%E6%BC%94%E6%88%91%E5%98%B4%E7%A1%AC%23" target="weibo">
+没有学习的人不伤心演我嘴硬（热度：431265）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%941%E5%8F%8A%E5%B7%9D%E7%91%9E%E5%9F%BA%23" target="weibo">
 马龙3比1及川瑞基（热度：430381）
 </a>
@@ -5195,12 +5207,6 @@ aespa出镜nylon十月刊（热度：426975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%A7%A3%E8%AF%B4%23" target="weibo">
 许昕刘诗雯解说（热度：426042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AG%23" target="weibo">
-AG（热度：426033）
 </a>
 </li>
 
@@ -5703,6 +5709,12 @@ Faker超越Uzi成为世界赛击杀王（热度：397462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E7%89%B9%E6%8B%89%E6%96%AF%E8%A7%A3%E9%9B%87%E8%B4%A2%E6%94%BF%E5%A4%A7%E8%87%A3%23" target="weibo">
+英国首相特拉斯解雇财政大臣（热度：394669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%BA%E5%BD%93%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%80%E5%91%A8%E5%87%8F%E9%87%8D16%E6%96%A4%23" target="weibo">
 快递小哥为当飞行员一周减重16斤（热度：393927）
 </a>
@@ -5999,18 +6011,6 @@ iPhoneSE4或继续保留刘海（热度：378161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%A4%B4%E6%98%8F%E6%B2%89%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A4%A7%E8%84%91%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
 睡不好头昏沉可能是大脑发出警告（热度：377808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%20%E7%A8%B3%23" target="weibo">
-陈梦 稳（热度：377060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%A6%96%E6%AC%A1%E5%AE%8C%E6%88%90%E8%87%AA%E5%88%9B%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
-苏翊鸣首次完成自创新动作（热度：377007）
 </a>
 </li>
 
