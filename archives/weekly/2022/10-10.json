@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665790194072,
+  "endTime": 1665791220688,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2565347,
-      "num": 351198,
+      "num": 392048,
       "word": "哈利波特海格扮演者去世",
       "onboard_time": 1665768016,
       "rank": 3,
@@ -2435,6 +2435,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 461236,
+      "num": 461236,
+      "word": "一到冬天就会得这种病",
+      "onboard_time": 1665761484,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460425,
       "num": 460425,
       "word": "RNG新公司名为软泥怪",
@@ -2569,14 +2577,6 @@
       "onboard_time": 1665757043,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 448503,
-      "num": 448503,
-      "word": "一到冬天就会得这种病",
-      "onboard_time": 1665761484,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 447883,
@@ -3571,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333440,
+      "num": 333440,
+      "word": "浙大女孩14年从电表工成长为劳模",
+      "onboard_time": 1665760407,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 332669,
       "num": 332669,
       "word": "男子烤紫薯拿出后紫薯爆炸了",
@@ -4131,6 +4139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274495,
+      "num": 274495,
+      "word": "月球在过去25亿年里不断远离地球",
+      "onboard_time": 1665780130,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274346,
       "num": 274346,
       "word": "阿根廷驻华大使说梅西是最好大使",
@@ -4273,14 +4289,6 @@
       "onboard_time": 1665468801,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266476,
-      "num": 266476,
-      "word": "浙大女孩14年从电表工成长为劳模",
-      "onboard_time": 1665760407,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 265815,
@@ -5523,6 +5531,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 197245,
+      "num": 197245,
+      "word": "72岁谭咏麟每周踢4场球",
+      "onboard_time": 1665789076,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196771,
       "num": 196771,
       "word": "王一博街舞5十三宫格剧照",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1665673585,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185142,
-      "num": 185142,
-      "word": "月球在过去25亿年里不断远离地球",
-      "onboard_time": 1665780130,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184940,
@@ -6115,12 +6123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163134,
+      "num": 163134,
+      "word": "球王梅西将迎谢幕战",
+      "onboard_time": 1665781690,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162992,
       "num": 162992,
       "word": "两个人的小森林",
       "onboard_time": 1665487705,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162965,
+      "num": 153079,
+      "word": "JDG小组赛四连胜",
+      "onboard_time": 1665790217,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 162820,
@@ -6353,6 +6377,14 @@
       "onboard_time": 1665572664,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155397,
+      "num": 155397,
+      "word": "男子为采摘石榴差点飞出房顶",
+      "onboard_time": 1665780011,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154996,
@@ -6595,14 +6627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145778,
-      "num": 145778,
-      "word": "球王梅西将迎谢幕战",
-      "onboard_time": 1665781690,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145415,
       "num": 145415,
       "word": "北京昌平新增3例阳性检测者",
@@ -6624,6 +6648,14 @@
       "word": "男子戴网购耳机起火如同放烟花",
       "onboard_time": 1665602530,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144587,
+      "num": 144587,
+      "word": "男子超市买零食礼包打开全是冒牌货",
+      "onboard_time": 1665776172,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6827,14 +6859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136345,
-      "num": 136345,
-      "word": "男子为采摘石榴差点飞出房顶",
-      "onboard_time": 1665780011,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135816,
       "num": 135816,
       "word": "姚晨新剧包饺子梦回郭芙蓉",
@@ -6961,14 +6985,6 @@
       "onboard_time": 1665482425,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130023,
-      "num": 130023,
-      "word": "男子超市买零食礼包打开全是冒牌货",
-      "onboard_time": 1665776172,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129984,
@@ -7233,6 +7249,14 @@
       "onboard_time": 1665751582,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118954,
+      "num": 118954,
+      "word": "困难时国家给你应急我们必须还上",
+      "onboard_time": 1665769455,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118615,
@@ -7579,14 +7603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104959,
-      "num": 104959,
-      "word": "困难时国家给你应急我们必须还上",
-      "onboard_time": 1665769455,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 104632,
       "num": 104632,
       "word": "白百何张慧雯万鹏新剧开播",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1665357558,
       "rank": 40,
       "category": "军事,社会正能量"
+    },
+    {
+      "raw_hot": 103841,
+      "num": 103841,
+      "word": "东北人训狗名场面",
+      "onboard_time": 1665789857,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 103626,
@@ -7851,14 +7875,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 92537,
-      "num": 92537,
-      "word": "72岁谭咏麟每周踢4场球",
-      "onboard_time": 1665789076,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 92118,
       "num": 92118,
       "word": "Straykids获音银一位",
@@ -8001,6 +8017,14 @@
       "onboard_time": 1665324565,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88113,
+      "num": 75775,
+      "word": "JDG晋级八强",
+      "onboard_time": 1665790699,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 88016,
@@ -8643,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55974,
+      "num": 55974,
+      "word": "王祖蓝刘恺威李斯丹妮共同家园",
+      "onboard_time": 1665788596,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55969,
       "num": 55969,
       "word": "南忘今萧婚后日常",
@@ -8795,20 +8827,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46966,
-      "num": 46966,
-      "word": "东北人训狗名场面",
-      "onboard_time": 1665789857,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46432,
       "num": 46432,
       "word": "醉酒驾驶非机动车也属违法行为",
       "onboard_time": 1665604510,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45242,
+      "num": 45242,
+      "word": "你会因为没有进步而隐瞒努力吗",
+      "onboard_time": 1665776831,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 44614,
@@ -8825,6 +8857,14 @@
       "onboard_time": 1665626484,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42452,
+      "num": 42452,
+      "word": "DK战胜G2",
+      "onboard_time": 1665791060,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 41519,
@@ -8881,14 +8921,6 @@
       "onboard_time": 1665469824,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39627,
-      "num": 39627,
-      "word": "你会因为没有进步而隐瞒努力吗",
-      "onboard_time": 1665776831,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 39620,
@@ -8993,14 +9025,6 @@
       "onboard_time": 1665651625,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29560,
-      "num": 34491,
-      "word": "王祖蓝刘恺威李斯丹妮共同家园",
-      "onboard_time": 1665788596,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 28216,
