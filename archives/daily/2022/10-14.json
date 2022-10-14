@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665723924782,
+  "endTime": 1665727919937,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -67,12 +67,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1113804,
+      "num": 1113804,
+      "word": "刘恺威披荆斩棘四公淘汰",
+      "onboard_time": 1665724823,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1033845,
       "num": 640976,
       "word": "iPhone不送充电器被巴西罚款1.4亿",
       "onboard_time": 1665710784,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1019723,
+      "num": 394219,
+      "word": "原来这才是例假叫法的由来",
+      "onboard_time": 1665725364,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 964159,
@@ -115,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 776010,
+      "num": 776010,
+      "word": "爱奇艺认证苍兰诀是爆款剧集",
+      "onboard_time": 1665726263,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708055,
       "num": 452102,
       "word": "妈妈信偏方致宝宝毳毛硬如猪毛",
@@ -153,6 +177,14 @@
       "onboard_time": 1665714024,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550574,
+      "num": 391999,
+      "word": "被虞书欣许凯笑死",
+      "onboard_time": 1665725603,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 512908,
@@ -227,6 +259,30 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 397462,
+      "num": 386784,
+      "word": "Faker超越Uzi成为世界赛击杀王",
+      "onboard_time": 1665723686,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 394319,
+      "num": 394319,
+      "word": "遗忘15年股票找回后1万变50万",
+      "onboard_time": 1665726144,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383342,
+      "num": 383342,
+      "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+      "onboard_time": 1665724402,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374213,
       "num": 374213,
       "word": "工信部通报38款APP侵害用户权益",
@@ -259,6 +315,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 340769,
+      "num": 340769,
+      "word": "换乘恋爱",
+      "onboard_time": 1665726803,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 323350,
+      "num": 323350,
+      "word": "微信上线刷掌支付",
+      "onboard_time": 1665724107,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 321291,
+      "num": 321291,
+      "word": "饶雪漫离歌影视化",
+      "onboard_time": 1665724644,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319724,
       "num": 308802,
       "word": "浙江大学位列世界第67名高校",
@@ -267,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306199,
+      "num": 306199,
+      "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
+      "onboard_time": 1665726383,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287815,
       "num": 195665,
       "word": "在家数1万粒米算是奇葩作业吗",
       "onboard_time": 1665672566,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 271387,
+      "num": 271387,
+      "word": "全红婵陈芋汐等出战跳水世界杯",
+      "onboard_time": 1665725845,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 252952,
@@ -379,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198683,
+      "num": 198683,
+      "word": "王一博街舞5玩赛车翻车",
+      "onboard_time": 1665724644,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198225,
       "num": 190269,
       "word": "眉姐姐美貌图鉴",
@@ -467,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "从校服到婚纱真的存在",
+      "onboard_time": 1665726624,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175727,
       "num": 175727,
       "word": "李庚希为向涵之新剧打call",
@@ -547,12 +659,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145918,
+      "num": 145918,
+      "word": "老爸半年画16米长百虎图送女儿",
+      "onboard_time": 1665723146,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135816,
       "num": 135816,
       "word": "姚晨新剧包饺子梦回郭芙蓉",
       "onboard_time": 1665719844,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "医疗",
+      "onboard_time": 1665727705,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 129517,
@@ -579,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116485,
+      "num": 116485,
+      "word": "如何看待花大钱省小钱的消费观",
+      "onboard_time": 1665727163,
+      "rank": 33,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 113790,
       "num": 113790,
       "word": "C9战胜FNC",
@@ -593,6 +729,22 @@
       "onboard_time": 1665686771,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 113267,
+      "num": 113267,
+      "word": "吴建豪用舞蹈讲空空",
+      "onboard_time": 1665724586,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112364,
+      "num": 112364,
+      "word": "年轻人为什么喜欢运动社交",
+      "onboard_time": 1665726922,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 110370,
@@ -643,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101634,
-      "num": 101634,
-      "word": "老爸半年画16米长百虎图送女儿",
-      "onboard_time": 1665723146,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101060,
       "num": 101060,
       "word": "锡安伤退",
@@ -673,6 +817,14 @@
       "onboard_time": 1665705444,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95808,
+      "num": 95808,
+      "word": "CBA要求解说员不要评价吹罚",
+      "onboard_time": 1665727464,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 92831,
@@ -715,20 +867,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 84623,
+      "num": 84623,
+      "word": "SNH48十周年全家福",
+      "onboard_time": 1665726803,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83767,
       "num": 83767,
       "word": "不能以静默代替管控",
       "onboard_time": 1665652342,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83183,
-      "num": 83183,
-      "word": "Faker超越Uzi成为世界赛击杀王",
-      "onboard_time": 1665723686,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 81820,
@@ -745,6 +897,14 @@
       "onboard_time": 1665674245,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 78425,
+      "num": 78425,
+      "word": "原来浪漫真的触手可及",
+      "onboard_time": 1665727762,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 77513,
@@ -1025,6 +1185,14 @@
       "onboard_time": 1665684493,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21105,
+      "num": 385280,
+      "word": "想和许知远学说话",
+      "onboard_time": 1665727224,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 12874,
