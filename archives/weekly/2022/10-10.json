@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665733193194,
+  "endTime": 1665733987637,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -107,6 +107,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1858066,
+      "num": 1858066,
+      "word": "连续上七天班的精神状态",
+      "onboard_time": 1665729744,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1856164,
       "num": 495163,
       "word": "RNG",
@@ -209,14 +217,6 @@
       "onboard_time": 1665491846,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1525793,
-      "num": 1525793,
-      "word": "连续上七天班的精神状态",
-      "onboard_time": 1665729744,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1513811,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183010,
+      "num": 758934,
+      "word": "医疗",
+      "onboard_time": 1665727705,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1172376,
       "num": 447855,
       "word": "原来这才是例假叫法的由来",
@@ -625,14 +633,6 @@
       "onboard_time": 1665473184,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 991146,
-      "num": 758934,
-      "word": "医疗",
-      "onboard_time": 1665727705,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 979920,
@@ -1027,6 +1027,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 769536,
+      "num": 769536,
+      "word": "羊了个羊出逃消防员被迫陪跑追回",
+      "onboard_time": 1665731185,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766388,
       "num": 379240,
       "word": "不能以静默代替管控",
@@ -1355,20 +1363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 661160,
+      "num": 661160,
+      "word": "沙特称不接受美国发号施令",
+      "onboard_time": 1665728904,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 660770,
       "num": 660770,
       "word": "收到这类短信千万别点开",
       "onboard_time": 1665485664,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654994,
-      "num": 654994,
-      "word": "沙特称不接受美国发号施令",
-      "onboard_time": 1665728904,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 651781,
@@ -1569,14 +1577,6 @@
       "onboard_time": 1665645263,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 604224,
-      "num": 370929,
-      "word": "羊了个羊出逃消防员被迫陪跑追回",
-      "onboard_time": 1665731185,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602833,
@@ -2435,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433077,
+      "num": 433077,
+      "word": "苏有朋又拿第一",
+      "onboard_time": 1665733644,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430288,
       "num": 297358,
       "word": "孙怡男人装十月封面",
@@ -2740,7 +2748,7 @@
     },
     {
       "raw_hot": 393601,
-      "num": 366318,
+      "num": 380010,
       "word": "白鹿王鹤棣以爱为营超话开通",
       "onboard_time": 1665728782,
       "rank": 22,
@@ -3419,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314440,
+      "num": 314440,
+      "word": "LOL新英雄奎桑提",
+      "onboard_time": 1665731243,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313365,
       "num": 313365,
       "word": "内蒙古增本土确诊119例无症状559例",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1665372263,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 307853,
-      "num": 307853,
-      "word": "LOL新英雄奎桑提",
-      "onboard_time": 1665731243,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 307108,
@@ -3571,6 +3579,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 297200,
+      "num": 297200,
+      "word": "魏大勋爸爸拒绝和魏大勋同队",
+      "onboard_time": 1665729442,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297162,
       "num": 297162,
       "word": "男子将妈妈38年前做的布鞋当挂件",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1665629065,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293739,
+      "num": 256763,
+      "word": "张彬彬小森林后三部剧被考古",
+      "onboard_time": 1665732984,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293731,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1665539542,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273913,
-      "num": 273913,
-      "word": "魏大勋爸爸拒绝和魏大勋同队",
-      "onboard_time": 1665729442,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 273325,
@@ -4019,14 +4035,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 256763,
-      "num": 256763,
-      "word": "张彬彬小森林后三部剧被考古",
-      "onboard_time": 1665732984,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256671,
       "num": 256671,
       "word": "民警看邻座一心刷手机发现在洗钱",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1665479304,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253193,
+      "num": 247521,
+      "word": "张艺兴晒马来西亚演唱会出行vlog",
+      "onboard_time": 1665730824,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252952,
@@ -4195,12 +4211,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 247521,
-      "num": 247521,
-      "word": "张艺兴晒马来西亚演唱会出行vlog",
-      "onboard_time": 1665730824,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 247883,
+      "num": 247883,
+      "word": "用淘宝做头像是什么梗",
+      "onboard_time": 1665733042,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 246939,
@@ -6683,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112843,
+      "num": 112843,
+      "word": "人造生物肾或将问世",
+      "onboard_time": 1665730044,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 112306,
       "num": 112306,
       "word": "四姑娘山半山彩林半山雪",
@@ -6801,6 +6825,14 @@
       "onboard_time": 1665677541,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108379,
+      "num": 108379,
+      "word": "二十大新闻发布会",
+      "onboard_time": 1665732084,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 108086,
@@ -7043,14 +7075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97196,
-      "num": 97196,
-      "word": "人造生物肾或将问世",
-      "onboard_time": 1665730044,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 97068,
       "num": 97068,
       "word": "李万一郭浩然约会",
@@ -7251,28 +7275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86889,
-      "num": 86889,
-      "word": "二十大新闻发布会",
-      "onboard_time": 1665732084,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 86851,
       "num": 86851,
       "word": "姚晨庄达菲新浪扫楼",
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86184,
-      "num": 86184,
-      "word": "用淘宝做头像是什么梗",
-      "onboard_time": 1665733042,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 86005,
@@ -7587,6 +7595,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 71614,
+      "num": 337248,
+      "word": "路遇走失男孩市民守护女儿陪玩",
+      "onboard_time": 1665730882,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71384,
       "num": 71384,
       "word": "周深和国风歌曲的适配度",
@@ -7759,14 +7775,6 @@
       "num": 386715,
       "word": "凌晨煤气泄漏辅警狂敲门救下一家人",
       "onboard_time": 1665403224,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62153,
-      "num": 337248,
-      "word": "路遇走失男孩市民守护女儿陪玩",
-      "onboard_time": 1665730882,
       "rank": 14,
       "category": "社会新闻"
     },
