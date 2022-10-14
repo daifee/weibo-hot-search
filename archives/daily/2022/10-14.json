@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665756225820,
+  "endTime": 1665757268949,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1229555,
-      "num": 286347,
+      "num": 286561,
       "word": "鹿晗录制脱口秀大会总决赛",
       "onboard_time": 1665752604,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 978107,
-      "num": 279163,
+      "num": 282581,
       "word": "真正的美貌从来不存在艳压",
       "onboard_time": 1665746842,
       "rank": 13,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639379,
+      "num": 283773,
+      "word": "美国俩父亲争吵开枪互射对方女儿",
+      "onboard_time": 1665753505,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625714,
       "num": 625714,
       "word": "终于知道插头上孔的用途了",
@@ -299,16 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592594,
-      "num": 270229,
-      "word": "美国俩父亲争吵开枪互射对方女儿",
-      "onboard_time": 1665753505,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582543,
-      "num": 277619,
+      "num": 280729,
       "word": "日本男子出租自己4年赚近200万",
       "onboard_time": 1665748643,
       "rank": 12,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 476345,
-      "num": 270349,
+      "num": 278767,
       "word": "原来胡歌演过离歌MV男主",
       "onboard_time": 1665750383,
       "rank": 13,
@@ -435,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 423212,
+      "num": 423212,
+      "word": "男子心跳停1小时医生持续抢救成功",
+      "onboard_time": 1665755364,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 415841,
       "num": 415841,
       "word": "特朗普将被传唤",
@@ -444,15 +452,23 @@
     },
     {
       "raw_hot": 411953,
-      "num": 271326,
+      "num": 277287,
       "word": "党的二十大将于16日10时在京举行",
       "onboard_time": 1665750563,
       "rank": 20,
       "category": "国内要闻"
     },
     {
+      "raw_hot": 405701,
+      "num": 405701,
+      "word": "追光者剧情",
+      "onboard_time": 1665753324,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399823,
-      "num": 221058,
+      "num": 266569,
       "word": "日剧silent",
       "onboard_time": 1665750563,
       "rank": 14,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382500,
+      "num": 382500,
+      "word": "我们的歌",
+      "onboard_time": 1665754225,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382331,
       "num": 382331,
       "word": "分享欲本身就是爱和热情",
@@ -520,6 +544,14 @@
       "word": "公公领工资第一时间全塞给儿媳",
       "onboard_time": 1665672925,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366389,
+      "num": 366389,
+      "word": "女子炸糍粑结果全都砰砰蹦出锅",
+      "onboard_time": 1665754884,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1665702797,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358588,
-      "num": 358588,
-      "word": "追光者剧情",
-      "onboard_time": 1665753324,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 337189,
@@ -643,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298970,
-      "num": 179199,
-      "word": "我们的歌",
-      "onboard_time": 1665754225,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297190,
       "num": 297190,
       "word": "怎样才能忘掉喜欢的人",
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256339,
+      "num": 272577,
+      "word": "2猫咪校园内吵架20余名同学围观",
+      "onboard_time": 1665753445,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253193,
       "num": 247521,
       "word": "张艺兴晒马来西亚演唱会出行vlog",
@@ -747,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243184,
-      "num": 243184,
-      "word": "2猫咪校园内吵架20余名同学围观",
-      "onboard_time": 1665753445,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241879,
       "num": 180889,
       "word": "王鹤棣陈钰琪浮图缘最新剧照",
@@ -769,6 +785,14 @@
       "onboard_time": 1665715704,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237135,
+      "num": 237135,
+      "word": "舒淇于和伟互相wink",
+      "onboard_time": 1665755304,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 237069,
@@ -801,6 +825,14 @@
       "onboard_time": 1665718402,
       "rank": 4,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 225611,
+      "num": 137535,
+      "word": "古装剧里最好嗑的cp",
+      "onboard_time": 1665753865,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223212,
@@ -859,6 +891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205459,
+      "num": 74227,
+      "word": "中村一叶LoveShot直拍",
+      "onboard_time": 1665757226,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 203668,
+      "num": 203668,
+      "word": "CBA",
+      "onboard_time": 1665755964,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202729,
       "num": 202729,
       "word": "被爱真的有迹可循",
@@ -881,14 +929,6 @@
       "onboard_time": 1665716603,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198795,
-      "num": 198795,
-      "word": "CBA",
-      "onboard_time": 1665755964,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 198683,
@@ -963,14 +1003,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 191229,
-      "num": 131133,
-      "word": "古装剧里最好嗑的cp",
-      "onboard_time": 1665753865,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191144,
       "num": 191144,
       "word": "三女子用电动车为晕倒老人搭出安全岛",
@@ -985,6 +1017,14 @@
       "onboard_time": 1665662123,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 189390,
+      "num": 189390,
+      "word": "AG",
+      "onboard_time": 1665757043,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 188266,
@@ -1051,12 +1091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171203,
-      "num": 131009,
-      "word": "舒淇于和伟互相wink",
-      "onboard_time": 1665755304,
+      "raw_hot": 170941,
+      "num": 170941,
+      "word": "如果孩子问你为什么要读书",
+      "onboard_time": 1665752785,
       "rank": 32,
-      "category": "综艺"
+      "category": "情感"
     },
     {
       "raw_hot": 170564,
@@ -1075,19 +1115,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165894,
+      "num": 165894,
+      "word": "已经完全离不开洞洞鞋了",
+      "onboard_time": 1665754344,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163265,
       "num": 163265,
       "word": "7岁萨摩耶骑玩具车遛娃",
       "onboard_time": 1665743184,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161052,
-      "num": 161052,
-      "word": "女子炸糍粑结果全都砰砰蹦出锅",
-      "onboard_time": 1665754884,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1163,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151806,
-      "num": 151806,
-      "word": "如果孩子问你为什么要读书",
-      "onboard_time": 1665752785,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146613,
       "num": 146613,
       "word": "EDG战胜FNC",
@@ -1195,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140562,
-      "num": 140562,
-      "word": "已经完全离不开洞洞鞋了",
-      "onboard_time": 1665754344,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 138352,
+      "num": 138352,
+      "word": "辽宁男篮vs北京男篮",
+      "onboard_time": 1665755485,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 137143,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1665702619,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129192,
-      "num": 129192,
-      "word": "男子心跳停1小时医生持续抢救成功",
-      "onboard_time": 1665755364,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 119669,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1665677541,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106729,
-      "num": 106729,
-      "word": "辽宁男篮vs北京男篮",
-      "onboard_time": 1665755485,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 106036,
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82205,
+      "num": 431631,
+      "word": "电视剧我们这十年",
+      "onboard_time": 1665756684,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81820,
       "num": 81820,
       "word": "90后男老师为毕业生打造治愈教室",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1665746543,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 59364,
+      "num": 69307,
+      "word": "赵继伟三分",
+      "onboard_time": 1665756864,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 55953,
@@ -1915,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17513,
+      "num": 509637,
+      "word": "百秒说非凡十年",
+      "onboard_time": 1665755663,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12874,
       "num": 12874,
       "word": "世界杯国家列传",
@@ -1929,14 +1969,6 @@
       "onboard_time": 1665659243,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11041,
-      "num": 509637,
-      "word": "百秒说非凡十年",
-      "onboard_time": 1665755663,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10871,

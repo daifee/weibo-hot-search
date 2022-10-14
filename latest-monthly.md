@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 22:03:45
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 22:21:08
 </p>
 </blockquote>
 <p>
@@ -3027,6 +3027,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BF%A9%E7%88%B6%E4%BA%B2%E4%BA%89%E5%90%B5%E5%BC%80%E6%9E%AA%E4%BA%92%E5%B0%84%E5%AF%B9%E6%96%B9%E5%A5%B3%E5%84%BF%23" target="weibo">
+美国俩父亲争吵开枪互射对方女儿（热度：639379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E5%BD%97%E6%98%9F%E6%89%BF%E8%AE%A4%E9%85%92%E9%A9%BE%23" target="weibo">
 申彗星承认酒驾（热度：638709）
 </a>
@@ -3311,12 +3317,6 @@ LPL小组赛第二日全胜（热度：599733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%89%A7%E7%BB%84%E5%90%88%E5%BD%B1%23" target="weibo">
 赵丽颖林更新与凤行剧组合影（热度：593214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BF%A9%E7%88%B6%E4%BA%B2%E4%BA%89%E5%90%B5%E5%BC%80%E6%9E%AA%E4%BA%92%E5%B0%84%E5%AF%B9%E6%96%B9%E5%A5%B3%E5%84%BF%23" target="weibo">
-美国俩父亲争吵开枪互射对方女儿（热度：592594）
 </a>
 </li>
 
@@ -5217,6 +5217,12 @@ gidle概念预告照（热度：424921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23" target="weibo">
+男子心跳停1小时医生持续抢救成功（热度：423212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98DFM%23" target="weibo">
 RNG对战DFM（热度：423046）
 </a>
@@ -5459,6 +5465,12 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E6%83%85%E7%BB%AA%E8%BF%87%E5%A4%9C%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%23" target="weibo">
 带着情绪过夜的人在想什么（热度：406274）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%E5%89%A7%E6%83%85%23" target="weibo">
+追光者剧情（热度：405701）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TES对战GAM（热度：376826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E7%82%8E%E5%89%96%E4%B8%B9%E7%89%BA%E7%89%B2%23" target="weibo">
 陆炎剖丹牺牲（热度：375920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%94%B1%E6%97%A0%E5%90%8D%E4%B9%8B%E8%BE%88%E7%BF%BB%E8%BD%A6%23" target="weibo">
-虞书欣虞美人唱无名之辈翻车（热度：375826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E6%89%8D%E7%9F%A5%E9%81%93%E5%9B%BE%E5%9B%BE%E7%88%B8%E5%A6%88%E6%9C%89%E5%A4%9A%E5%A5%BD%23" target="weibo">
-长大才知道图图爸妈有多好（热度：375745）
 </a>
 </li>
 
