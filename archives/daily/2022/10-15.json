@@ -1,7 +1,15 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665787547658,
+  "endTime": 1665790194072,
   "band_list": [
+    {
+      "raw_hot": 2565347,
+      "num": 351198,
+      "word": "哈利波特海格扮演者去世",
+      "onboard_time": 1665768016,
+      "rank": 3,
+      "category": "影视,艺人"
+    },
     {
       "raw_hot": 1434278,
       "num": 1434278,
@@ -9,14 +17,6 @@
       "onboard_time": 1665757644,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1360146,
-      "num": 257781,
-      "word": "哈利波特海格扮演者去世",
-      "onboard_time": 1665768016,
-      "rank": 3,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 801764,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583833,
-      "num": 583833,
+      "raw_hot": 583964,
+      "num": 583964,
       "word": "男子心跳停1小时医生持续抢救成功",
       "onboard_time": 1665755364,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266476,
+      "num": 266476,
+      "word": "浙大女孩14年从电表工成长为劳模",
+      "onboard_time": 1665760407,
+      "rank": 16,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 261496,
       "num": 261496,
       "word": "没有学习的人不伤心演我嘴硬",
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239845,
-      "num": 239845,
-      "word": "浙大女孩14年从电表工成长为劳模",
-      "onboard_time": 1665760407,
-      "rank": 16,
-      "category": "社会正能量"
+      "raw_hot": 209562,
+      "num": 209562,
+      "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+      "onboard_time": 1665735024,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200455,
@@ -136,6 +144,14 @@
       "word": "东北一串店禁玩手机每人低消10串",
       "onboard_time": 1665749843,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185142,
+      "num": 185142,
+      "word": "月球在过去25亿年里不断远离地球",
+      "onboard_time": 1665780130,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -155,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145778,
+      "num": 145778,
+      "word": "球王梅西将迎谢幕战",
+      "onboard_time": 1665781690,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139250,
       "num": 139250,
       "word": "高校通报教师图书馆打电话声音过大出言不逊",
       "onboard_time": 1665749181,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 136345,
+      "num": 136345,
+      "word": "男子为采摘石榴差点飞出房顶",
+      "onboard_time": 1665780011,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135654,
@@ -177,6 +209,14 @@
       "onboard_time": 1665763822,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130023,
+      "num": 130023,
+      "word": "男子超市买零食礼包打开全是冒牌货",
+      "onboard_time": 1665776172,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129525,
@@ -219,12 +259,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109117,
-      "num": 109117,
+      "raw_hot": 115321,
+      "num": 115321,
       "word": "00后中专生每天训练5小时逆袭北大",
       "onboard_time": 1665743303,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104959,
+      "num": 104959,
+      "word": "困难时国家给你应急我们必须还上",
+      "onboard_time": 1665769455,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 104548,
@@ -235,20 +283,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 102416,
+      "num": 102416,
+      "word": "采访阿水记者回应翻译错误",
+      "onboard_time": 1665783490,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102232,
       "num": 102232,
       "word": "原来这才是例假叫法的由来",
       "onboard_time": 1665725364,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101040,
-      "num": 59826,
-      "word": "月球在过去25亿年里不断远离地球",
-      "onboard_time": 1665780130,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98715,
@@ -259,12 +307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98378,
-      "num": 59571,
-      "word": "球王梅西将迎谢幕战",
-      "onboard_time": 1665781690,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 97871,
+      "num": 97871,
+      "word": "这才是龙生九子最有趣的解释",
+      "onboard_time": 1665740243,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94670,
@@ -275,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93902,
-      "num": 93902,
-      "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
-      "onboard_time": 1665735024,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 92537,
+      "num": 92537,
+      "word": "72岁谭咏麟每周踢4场球",
+      "onboard_time": 1665789076,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90954,
@@ -347,22 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76949,
-      "num": 76949,
-      "word": "这才是龙生九子最有趣的解释",
-      "onboard_time": 1665740243,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74035,
-      "num": 59003,
-      "word": "男子为采摘石榴差点飞出房顶",
-      "onboard_time": 1665780011,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73132,
       "num": 73132,
       "word": "二手iPhone14贬值速度是13两倍",
@@ -387,32 +419,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62337,
-      "num": 58826,
-      "word": "采访阿水记者回应翻译错误",
-      "onboard_time": 1665783490,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 61685,
-      "num": 47296,
-      "word": "困难时国家给你应急我们必须还上",
-      "onboard_time": 1665769455,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 58720,
-      "num": 58720,
-      "word": "男子超市买零食礼包打开全是冒牌货",
-      "onboard_time": 1665776172,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56989,
-      "num": 56989,
+      "raw_hot": 64264,
+      "num": 64264,
       "word": "俄媒称俄博主冒充美官员与乌外长连线",
       "onboard_time": 1665740484,
       "rank": 45,
@@ -424,6 +432,22 @@
       "word": "冷空气又双叒要来了",
       "onboard_time": 1665751582,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53041,
+      "num": 53041,
+      "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+      "onboard_time": 1665724402,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52842,
+      "num": 52842,
+      "word": "广西天空现棉被云",
+      "onboard_time": 1665783671,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -443,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45831,
-      "num": 45831,
-      "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
-      "onboard_time": 1665724402,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 46966,
+      "num": 46966,
+      "word": "东北人训狗名场面",
+      "onboard_time": 1665789857,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 40783,
@@ -456,6 +480,22 @@
       "word": "你心目中的追光者是谁",
       "onboard_time": 1665761484,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39980,
+      "num": 39980,
+      "word": "追光者",
+      "onboard_time": 1665744746,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39627,
+      "num": 39627,
+      "word": "你会因为没有进步而隐瞒努力吗",
+      "onboard_time": 1665776831,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -467,19 +507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20752,
-      "num": 20752,
-      "word": "广西天空现棉被云",
-      "onboard_time": 1665783671,
+      "raw_hot": 29560,
+      "num": 34491,
+      "word": "王祖蓝刘恺威李斯丹妮共同家园",
+      "onboard_time": 1665788596,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19349,
-      "num": 19349,
-      "word": "你会因为没有进步而隐瞒努力吗",
-      "onboard_time": 1665776831,
-      "rank": 37,
       "category": "综艺"
     },
     {

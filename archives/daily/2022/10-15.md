@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/15 00:38:25 ~ 2022/10/15 06:45:47
+本榜单时间：2022/10/15 00:38:25 ~ 2022/10/15 07:29:54
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,14 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
-梵高名画向日葵被泼番茄罐头（热度：1434278）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+哈利波特海格扮演者去世（热度：2565347）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-哈利波特海格扮演者去世（热度：1360146）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23" target="weibo">
+梵高名画向日葵被泼番茄罐头（热度：1434278）
 </a>
 </li>
 
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23" target="weibo">
-男子心跳停1小时医生持续抢救成功（热度：583833）
+男子心跳停1小时医生持续抢救成功（热度：583964）
 </a>
 </li>
 
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%A5%B3%E5%AD%A914%E5%B9%B4%E4%BB%8E%E7%94%B5%E8%A1%A8%E5%B7%A5%E6%88%90%E9%95%BF%E4%B8%BA%E5%8A%B3%E6%A8%A1%23" target="weibo">
+浙大女孩14年从电表工成长为劳模（热度：266476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%A4%E5%BF%83%E6%BC%94%E6%88%91%E5%98%B4%E7%A1%AC%23" target="weibo">
 没有学习的人不伤心演我嘴硬（热度：261496）
 </a>
@@ -105,14 +111,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%A5%B3%E5%AD%A914%E5%B9%B4%E4%BB%8E%E7%94%B5%E8%A1%A8%E5%B7%A5%E6%88%90%E9%95%BF%E4%B8%BA%E5%8A%B3%E6%A8%A1%23" target="weibo">
-浙大女孩14年从电表工成长为劳模（热度：239845）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E8%87%AA%E8%A1%8C%E5%8F%BC%E8%B5%B0%E6%A9%98%E7%9A%AE%E5%90%83%E6%A9%98%E7%BB%9C%23" target="weibo">
+猫咪咳嗽半月自行叼走橘皮吃橘络（热度：209562）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%B8%80%E4%B8%B2%E5%BA%97%E7%A6%81%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%AF%8F%E4%BA%BA%E4%BD%8E%E6%B6%8810%E4%B8%B2%23" target="weibo">
 东北一串店禁玩手机每人低消10串（热度：200455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%90%83%E5%9C%A8%E8%BF%87%E5%8E%BB25%E4%BA%BF%E5%B9%B4%E9%87%8C%E4%B8%8D%E6%96%AD%E8%BF%9C%E7%A6%BB%E5%9C%B0%E7%90%83%23" target="weibo">
+月球在过去25亿年里不断远离地球（热度：185142）
 </a>
 </li>
 
@@ -129,8 +141,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%83%E7%8E%8B%E6%A2%85%E8%A5%BF%E5%B0%86%E8%BF%8E%E8%B0%A2%E5%B9%95%E6%88%98%23" target="weibo">
+球王梅西将迎谢幕战（热度：145778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%89%93%E7%94%B5%E8%AF%9D%E5%A3%B0%E9%9F%B3%E8%BF%87%E5%A4%A7%E5%87%BA%E8%A8%80%E4%B8%8D%E9%80%8A%23" target="weibo">
 高校通报教师图书馆打电话声音过大出言不逊（热度：139250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E9%87%87%E6%91%98%E7%9F%B3%E6%A6%B4%E5%B7%AE%E7%82%B9%E9%A3%9E%E5%87%BA%E6%88%BF%E9%A1%B6%23" target="weibo">
+男子为采摘石榴差点飞出房顶（热度：136345）
 </a>
 </li>
 
@@ -143,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kcon%23" target="weibo">
 kcon（热度：134218）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B6%85%E5%B8%82%E4%B9%B0%E9%9B%B6%E9%A3%9F%E7%A4%BC%E5%8C%85%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E5%86%92%E7%89%8C%E8%B4%A7%23" target="weibo">
+男子超市买零食礼包打开全是冒牌货（热度：130023）
 </a>
 </li>
 
@@ -178,7 +208,13 @@ kcon（热度：134218）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E6%AF%8F%E5%A4%A9%E8%AE%AD%E7%BB%835%E5%B0%8F%E6%97%B6%E9%80%86%E8%A2%AD%E5%8C%97%E5%A4%A7%23" target="weibo">
-00后中专生每天训练5小时逆袭北大（热度：109117）
+00后中专生每天训练5小时逆袭北大（热度：115321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%9B%BD%E5%AE%B6%E7%BB%99%E4%BD%A0%E5%BA%94%E6%80%A5%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E8%BF%98%E4%B8%8A%23" target="weibo">
+困难时国家给你应急我们必须还上（热度：104959）
 </a>
 </li>
 
@@ -189,14 +225,14 @@ kcon（热度：134218）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E4%BE%8B%E5%81%87%E5%8F%AB%E6%B3%95%E7%9A%84%E7%94%B1%E6%9D%A5%23" target="weibo">
-原来这才是例假叫法的由来（热度：102232）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%87%E8%AE%BF%E9%98%BF%E6%B0%B4%E8%AE%B0%E8%80%85%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%AF%91%E9%94%99%E8%AF%AF%23" target="weibo">
+采访阿水记者回应翻译错误（热度：102416）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%90%83%E5%9C%A8%E8%BF%87%E5%8E%BB25%E4%BA%BF%E5%B9%B4%E9%87%8C%E4%B8%8D%E6%96%AD%E8%BF%9C%E7%A6%BB%E5%9C%B0%E7%90%83%23" target="weibo">
-月球在过去25亿年里不断远离地球（热度：101040）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E4%BE%8B%E5%81%87%E5%8F%AB%E6%B3%95%E7%9A%84%E7%94%B1%E6%9D%A5%23" target="weibo">
+原来这才是例假叫法的由来（热度：102232）
 </a>
 </li>
 
@@ -207,8 +243,8 @@ AG（热度：98715）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%83%E7%8E%8B%E6%A2%85%E8%A5%BF%E5%B0%86%E8%BF%8E%E8%B0%A2%E5%B9%95%E6%88%98%23" target="weibo">
-球王梅西将迎谢幕战（热度：98378）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%BE%99%E7%94%9F%E4%B9%9D%E5%AD%90%E6%9C%80%E6%9C%89%E8%B6%A3%E7%9A%84%E8%A7%A3%E9%87%8A%23" target="weibo">
+这才是龙生九子最有趣的解释（热度：97871）
 </a>
 </li>
 
@@ -219,8 +255,8 @@ AG（热度：98715）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E8%87%AA%E8%A1%8C%E5%8F%BC%E8%B5%B0%E6%A9%98%E7%9A%AE%E5%90%83%E6%A9%98%E7%BB%9C%23" target="weibo">
-猫咪咳嗽半月自行叼走橘皮吃橘络（热度：93902）
+<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E8%B0%AD%E5%92%8F%E9%BA%9F%E6%AF%8F%E5%91%A8%E8%B8%A24%E5%9C%BA%E7%90%83%23" target="weibo">
+72岁谭咏麟每周踢4场球（热度：92537）
 </a>
 </li>
 
@@ -273,18 +309,6 @@ CBA（热度：86278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%BE%99%E7%94%9F%E4%B9%9D%E5%AD%90%E6%9C%80%E6%9C%89%E8%B6%A3%E7%9A%84%E8%A7%A3%E9%87%8A%23" target="weibo">
-这才是龙生九子最有趣的解释（热度：76949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E9%87%87%E6%91%98%E7%9F%B3%E6%A6%B4%E5%B7%AE%E7%82%B9%E9%A3%9E%E5%87%BA%E6%88%BF%E9%A1%B6%23" target="weibo">
-男子为采摘石榴差点飞出房顶（热度：74035）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8BiPhone14%E8%B4%AC%E5%80%BC%E9%80%9F%E5%BA%A6%E6%98%AF13%E4%B8%A4%E5%80%8D%23" target="weibo">
 二手iPhone14贬值速度是13两倍（热度：73132）
 </a>
@@ -303,32 +327,26 @@ CBA（热度：86278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%87%E8%AE%BF%E9%98%BF%E6%B0%B4%E8%AE%B0%E8%80%85%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%AF%91%E9%94%99%E8%AF%AF%23" target="weibo">
-采访阿水记者回应翻译错误（热度：62337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%9B%BD%E5%AE%B6%E7%BB%99%E4%BD%A0%E5%BA%94%E6%80%A5%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E8%BF%98%E4%B8%8A%23" target="weibo">
-困难时国家给你应急我们必须还上（热度：61685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B6%85%E5%B8%82%E4%B9%B0%E9%9B%B6%E9%A3%9F%E7%A4%BC%E5%8C%85%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E5%86%92%E7%89%8C%E8%B4%A7%23" target="weibo">
-男子超市买零食礼包打开全是冒牌货（热度：58720）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E7%A7%B0%E4%BF%84%E5%8D%9A%E4%B8%BB%E5%86%92%E5%85%85%E7%BE%8E%E5%AE%98%E5%91%98%E4%B8%8E%E4%B9%8C%E5%A4%96%E9%95%BF%E8%BF%9E%E7%BA%BF%23" target="weibo">
-俄媒称俄博主冒充美官员与乌外长连线（热度：56989）
+俄媒称俄博主冒充美官员与乌外长连线（热度：64264）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%A9%BA%E6%B0%94%E5%8F%88%E5%8F%8C%E5%8F%92%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 冷空气又双叒要来了（热度：55144）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%B8%90%E5%86%BB%E7%97%87%E6%95%91%E5%91%BD%E8%8D%AF%E5%85%A5%E5%8C%BB%E4%BF%9D70%E4%B8%87%E9%99%8D%E8%87%B33.3%E4%B8%87%23" target="weibo">
+婴幼儿渐冻症救命药入医保70万降至3.3万（热度：53041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%A3%89%E8%A2%AB%E4%BA%91%23" target="weibo">
+广西天空现棉被云（热度：52842）
 </a>
 </li>
 
@@ -345,8 +363,8 @@ TTG（热度：50769）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%B8%90%E5%86%BB%E7%97%87%E6%95%91%E5%91%BD%E8%8D%AF%E5%85%A5%E5%8C%BB%E4%BF%9D70%E4%B8%87%E9%99%8D%E8%87%B33.3%E4%B8%87%23" target="weibo">
-婴幼儿渐冻症救命药入医保70万降至3.3万（热度：45831）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E8%AE%AD%E7%8B%97%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+东北人训狗名场面（热度：46966）
 </a>
 </li>
 
@@ -357,20 +375,26 @@ TTG（热度：50769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%23" target="weibo">
+追光者（热度：39980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E6%9C%89%E8%BF%9B%E6%AD%A5%E8%80%8C%E9%9A%90%E7%9E%92%E5%8A%AA%E5%8A%9B%E5%90%97%23" target="weibo">
+你会因为没有进步而隐瞒努力吗（热度：39627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%8B%E5%A4%9C%E5%8B%A4%E4%B9%B0%E7%82%92%E7%B2%89%E5%B7%A7%E9%81%87%E5%B0%8F%E5%81%B7%E5%9B%A2%E4%BC%99%23" target="weibo">
 民警下夜勤买炒粉巧遇小偷团伙（热度：30753）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%A3%89%E8%A2%AB%E4%BA%91%23" target="weibo">
-广西天空现棉被云（热度：20752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E6%9C%89%E8%BF%9B%E6%AD%A5%E8%80%8C%E9%9A%90%E7%9E%92%E5%8A%AA%E5%8A%9B%E5%90%97%23" target="weibo">
-你会因为没有进步而隐瞒努力吗（热度：19349）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E5%88%98%E6%81%BA%E5%A8%81%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD%23" target="weibo">
+王祖蓝刘恺威李斯丹妮共同家园（热度：29560）
 </a>
 </li>
 
