@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/15 06:26:32
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/15 06:45:47
 </p>
 </blockquote>
 <p>
@@ -861,6 +861,12 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+哈利波特海格扮演者去世（热度：1360146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 陈奕迅演唱会（热度：1356604）
 </a>
@@ -947,12 +953,6 @@ PDD已起诉多人侵犯名誉权（热度：1318290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E8%A7%89%E5%BE%97%E6%99%9A%E4%B8%8A%E4%B9%9D%E7%82%B9%E5%B0%B1%E5%BE%88%E6%99%9A%E4%BA%86%23" target="weibo">
 以前觉得晚上九点就很晚了（热度：1312243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-哈利波特海格扮演者去世（热度：1306223）
 </a>
 </li>
 
