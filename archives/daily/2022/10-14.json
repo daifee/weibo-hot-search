@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665744463728,
+  "endTime": 1665746580186,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918145,
+      "num": 918145,
+      "word": "00后中专生每天训练5小时逆袭北大",
+      "onboard_time": 1665743303,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895286,
       "num": 895286,
       "word": "二手iPhone14贬值速度是13两倍",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564130,
+      "num": 564130,
+      "word": "任嘉伦白鹿周生如故将12月日本播出",
+      "onboard_time": 1665743906,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550574,
       "num": 391999,
       "word": "被虞书欣许凯笑死",
@@ -291,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 483441,
-      "num": 483441,
-      "word": "任嘉伦白鹿周生如故将12月日本播出",
-      "onboard_time": 1665743906,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 472834,
+      "num": 472834,
+      "word": "美国会骚乱又曝新画面",
+      "onboard_time": 1665742344,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 458492,
@@ -369,6 +385,14 @@
       "onboard_time": 1665723686,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 396741,
+      "num": 396741,
+      "word": "一直不谈恋爱会等到很好的人吗",
+      "onboard_time": 1665745104,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 393601,
@@ -451,20 +475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334354,
+      "num": 334354,
+      "word": "刘恺威发博告别披荆斩棘",
+      "onboard_time": 1665740604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330362,
       "num": 330362,
       "word": "王鹤棣黄明昊王安宇刘耀文看秀后约球",
       "onboard_time": 1665734785,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 329982,
-      "num": 329982,
-      "word": "美国会骚乱又曝新画面",
-      "onboard_time": 1665742344,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 329287,
@@ -531,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290970,
+      "num": 290970,
+      "word": "正午阳光官博说县委大院档期未定",
+      "onboard_time": 1665743906,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287815,
       "num": 195665,
       "word": "在家数1万粒米算是奇葩作业吗",
@@ -539,28 +571,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 286861,
-      "num": 286861,
-      "word": "00后中专生每天训练5小时逆袭北大",
-      "onboard_time": 1665743303,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271387,
       "num": 271387,
       "word": "全红婵陈芋汐等出战跳水世界杯",
       "onboard_time": 1665725845,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265169,
-      "num": 265169,
-      "word": "刘恺威发博告别披荆斩棘",
-      "onboard_time": 1665740604,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 262174,
@@ -667,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213511,
-      "num": 213511,
-      "word": "正午阳光官博说县委大院档期未定",
-      "onboard_time": 1665743906,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212883,
       "num": 212883,
       "word": "网友总结的近十年现象级韩剧",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205991,
+      "num": 205991,
+      "word": "第一次租房需要注意哪些",
+      "onboard_time": 1665744264,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202729,
       "num": 202729,
       "word": "被爱真的有迹可循",
@@ -705,14 +721,6 @@
       "onboard_time": 1665717623,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201920,
-      "num": 201920,
-      "word": "第一次租房需要注意哪些",
-      "onboard_time": 1665744264,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 200952,
@@ -843,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "追光者",
+      "onboard_time": 1665744746,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172036,
       "num": 172036,
       "word": "二十大代表是怎么选出来的",
@@ -921,6 +937,14 @@
       "onboard_time": 1665740963,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 155287,
+      "num": 155287,
+      "word": "7岁萨摩耶骑玩具车遛娃",
+      "onboard_time": 1665743184,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153414,
@@ -1123,12 +1147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98773,
-      "num": 98773,
-      "word": "7岁萨摩耶骑玩具车遛娃",
-      "onboard_time": 1665743184,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 98236,
+      "num": 98236,
+      "word": "腰腹赘肉别来沾边",
+      "onboard_time": 1665745582,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 98110,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1665668965,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 92118,
+      "num": 92118,
+      "word": "Straykids获音银一位",
+      "onboard_time": 1665744505,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 91665,
@@ -1331,6 +1363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69791,
+      "num": 69791,
+      "word": "暂未考虑将种植牙纳入医保支付范围",
+      "onboard_time": 1665746242,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68867,
       "num": 68867,
       "word": "冬天需要这个手机壳",
@@ -1387,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62966,
+      "num": 62966,
+      "word": "支教11年小伙成全能老师",
+      "onboard_time": 1665746543,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 55953,
       "num": 55953,
       "word": "深圳晚霞",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1665659963,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55121,
+      "num": 252905,
+      "word": "原神妮露上线",
+      "onboard_time": 1665745225,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 54901,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1665666264,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9805,
+      "num": 599703,
+      "word": "二十大纪念邮票10月16日发行",
+      "onboard_time": 1665668126,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 8280,
