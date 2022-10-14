@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665754219476,
+  "endTime": 1665756225820,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1229555,
-      "num": 283110,
+      "num": 286347,
       "word": "鹿晗录制脱口秀大会总决赛",
       "onboard_time": 1665752604,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1136120,
-      "num": 306115,
+      "num": 503133,
       "word": "东北一串店禁玩手机每人低消10串",
       "onboard_time": 1665749843,
       "rank": 6,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 659616,
-      "num": 305000,
+      "num": 312946,
       "word": "海恩贤圭车内牵手",
       "onboard_time": 1665748162,
       "rank": 5,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592594,
+      "num": 270229,
+      "word": "美国俩父亲争吵开枪互射对方女儿",
+      "onboard_time": 1665753505,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582543,
       "num": 277619,
       "word": "日本男子出租自己4年赚近200万",
@@ -313,6 +321,14 @@
       "onboard_time": 1665743906,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 568457,
+      "num": 568457,
+      "word": "TTG",
+      "onboard_time": 1665752962,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 568411,
@@ -427,7 +443,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 408678,
+      "raw_hot": 411953,
       "num": 271326,
       "word": "党的二十大将于16日10时在京举行",
       "onboard_time": 1665750563,
@@ -531,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358588,
+      "num": 358588,
+      "word": "追光者剧情",
+      "onboard_time": 1665753324,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337189,
       "num": 337189,
       "word": "从校服到婚纱真的存在",
@@ -619,12 +643,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303325,
-      "num": 303325,
-      "word": "TTG",
-      "onboard_time": 1665752962,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 298970,
+      "num": 179199,
+      "word": "我们的歌",
+      "onboard_time": 1665754225,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297190,
+      "num": 297190,
+      "word": "怎样才能忘掉喜欢的人",
+      "onboard_time": 1665749543,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 293739,
@@ -643,27 +675,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 283411,
-      "num": 283411,
-      "word": "怎样才能忘掉喜欢的人",
-      "onboard_time": 1665749543,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279670,
-      "num": 305699,
+      "num": 496044,
       "word": "这十年追光之夜",
       "onboard_time": 1665751945,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 278810,
-      "num": 179200,
-      "word": "追光者剧情",
-      "onboard_time": 1665753324,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -731,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243184,
+      "num": 243184,
+      "word": "2猫咪校园内吵架20余名同学围观",
+      "onboard_time": 1665753445,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241879,
       "num": 180889,
       "word": "王鹤棣陈钰琪浮图缘最新剧照",
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217453,
+      "num": 175684,
+      "word": "张艺兴马来西亚首站彩排花絮照",
+      "onboard_time": 1665755125,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215260,
       "num": 183254,
       "word": "王一博街舞5穿鞋穿出跳舞即视感",
@@ -849,6 +881,14 @@
       "onboard_time": 1665716603,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198795,
+      "num": 198795,
+      "word": "CBA",
+      "onboard_time": 1665755964,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 198683,
@@ -921,6 +961,14 @@
       "onboard_time": 1665732084,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 191229,
+      "num": 131133,
+      "word": "古装剧里最好嗑的cp",
+      "onboard_time": 1665753865,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 191144,
@@ -1003,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171203,
+      "num": 131009,
+      "word": "舒淇于和伟互相wink",
+      "onboard_time": 1665755304,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170564,
       "num": 170564,
       "word": "没想到沈腾还有这样一面",
@@ -1024,6 +1080,14 @@
       "word": "7岁萨摩耶骑玩具车遛娃",
       "onboard_time": 1665743184,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "女子炸糍粑结果全都砰砰蹦出锅",
+      "onboard_time": 1665754884,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151806,
+      "num": 151806,
+      "word": "如果孩子问你为什么要读书",
+      "onboard_time": 1665752785,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146613,
       "num": 146613,
       "word": "EDG战胜FNC",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1665723146,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "已经完全离不开洞洞鞋了",
+      "onboard_time": 1665754344,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 137143,
@@ -1147,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131561,
-      "num": 131561,
-      "word": "美国俩父亲争吵开枪互射对方女儿",
-      "onboard_time": 1665753505,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "全班43人帮9岁听障女孩练习说话",
@@ -1171,12 +1243,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122179,
-      "num": 116166,
-      "word": "古装剧里最好嗑的cp",
-      "onboard_time": 1665753865,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 129192,
+      "num": 129192,
+      "word": "男子心跳停1小时医生持续抢救成功",
+      "onboard_time": 1665755364,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 119669,
+      "num": 119669,
+      "word": "冷空气又双叒要来了",
+      "onboard_time": 1665751582,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118615,
@@ -1217,14 +1297,6 @@
       "onboard_time": 1665727163,
       "rank": 33,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 115385,
-      "num": 115385,
-      "word": "如果孩子问你为什么要读书",
-      "onboard_time": 1665752785,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 113790,
@@ -1283,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106729,
+      "num": 106729,
+      "word": "辽宁男篮vs北京男篮",
+      "onboard_time": 1665755485,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106036,
       "num": 106036,
       "word": "阿香终于开麦了",
@@ -1297,14 +1377,6 @@
       "onboard_time": 1665714566,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103514,
-      "num": 103514,
-      "word": "冷空气又双叒要来了",
-      "onboard_time": 1665751582,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102553,
@@ -1425,14 +1497,6 @@
       "onboard_time": 1665663324,
       "rank": 34,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 87442,
-      "num": 87442,
-      "word": "2猫咪校园内吵架20余名同学围观",
-      "onboard_time": 1665753445,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87144,
@@ -1867,6 +1931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11041,
+      "num": 509637,
+      "word": "百秒说非凡十年",
+      "onboard_time": 1665755663,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10871,
       "num": 599703,
       "word": "二十大纪念邮票10月16日发行",
@@ -2016,6 +2088,9 @@
     },
     {
       "word": "#二十大时光#"
+    },
+    {
+      "word": "#真理之光#"
     }
   ]
 }

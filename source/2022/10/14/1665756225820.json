@@ -1,0 +1,410 @@
+{
+  "runTime": 1665756225820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616423,
+        "num": 616423,
+        "word": "00后中专生每天训练5小时逆袭北大",
+        "onboard_time": 1665743303,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568457,
+        "num": 568457,
+        "word": "TTG",
+        "onboard_time": 1665752962,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11041,
+        "num": 509637,
+        "word": "百秒说非凡十年",
+        "onboard_time": 1665755663,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001880,
+        "num": 503133,
+        "word": "东北一串店禁玩手机每人低消10串",
+        "onboard_time": 1665749843,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84666,
+        "num": 496044,
+        "word": "这十年追光之夜",
+        "onboard_time": 1665751945,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491781,
+        "num": 491781,
+        "word": "一直不谈恋爱会等到很好的人吗",
+        "onboard_time": 1665745104,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358588,
+        "num": 358588,
+        "word": "追光者剧情",
+        "onboard_time": 1665753324,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312946,
+        "num": 312946,
+        "word": "海恩贤圭车内牵手",
+        "onboard_time": 1665748162,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297190,
+        "num": 297190,
+        "word": "怎样才能忘掉喜欢的人",
+        "onboard_time": 1665749543,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289133,
+        "num": 289133,
+        "word": "羊了个羊出逃消防员被迫陪跑追回",
+        "onboard_time": 1665731185,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064892,
+        "num": 286347,
+        "word": "鹿晗录制脱口秀大会总决赛",
+        "onboard_time": 1665752604,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 689233,
+        "num": 278334,
+        "word": "真正的美貌从来不存在艳压",
+        "onboard_time": 1665746842,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592594,
+        "num": 270229,
+        "word": "美国俩父亲争吵开枪互射对方女儿",
+        "onboard_time": 1665753505,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475902,
+        "num": 268869,
+        "word": "原来胡歌演过离歌MV男主",
+        "onboard_time": 1665750383,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425422,
+        "num": 258066,
+        "word": "日本男子出租自己4年赚近200万",
+        "onboard_time": 1665748643,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411953,
+        "num": 250573,
+        "word": "党的二十大将于16日10时在京举行",
+        "onboard_time": 1665750563,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 390813,
+        "num": 246069,
+        "word": "连续上七天班的精神状态",
+        "onboard_time": 1665729744,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243184,
+        "num": 243184,
+        "word": "2猫咪校园内吵架20余名同学围观",
+        "onboard_time": 1665753445,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198795,
+        "num": 198795,
+        "word": "CBA",
+        "onboard_time": 1665755964,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193822,
+        "num": 193822,
+        "word": "高校通报教师图书馆打电话声音过大出言不逊",
+        "onboard_time": 1665749181,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 358257,
+        "num": 186741,
+        "word": "日剧silent",
+        "onboard_time": 1665750563,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298970,
+        "num": 179199,
+        "word": "我们的歌",
+        "onboard_time": 1665754225,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217453,
+        "num": 175684,
+        "word": "张艺兴马来西亚首站彩排花絮照",
+        "onboard_time": 1665755125,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170592,
+        "num": 170592,
+        "word": "用淘宝做头像是什么梗",
+        "onboard_time": 1665733042,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161052,
+        "num": 161052,
+        "word": "女子炸糍粑结果全都砰砰蹦出锅",
+        "onboard_time": 1665754884,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154108,
+        "num": 154108,
+        "word": "这才是龙生九子最有趣的解释",
+        "onboard_time": 1665740243,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151806,
+        "num": 151806,
+        "word": "如果孩子问你为什么要读书",
+        "onboard_time": 1665752785,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148031,
+        "num": 148031,
+        "word": "民警下夜勤买炒粉巧遇小偷团伙",
+        "onboard_time": 1665748822,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140562,
+        "num": 140562,
+        "word": "已经完全离不开洞洞鞋了",
+        "onboard_time": 1665754344,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133022,
+        "num": 133022,
+        "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+        "onboard_time": 1665735024,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191812,
+        "num": 132746,
+        "word": "任嘉伦白鹿周生如故将12月日本播出",
+        "onboard_time": 1665743906,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191229,
+        "num": 131133,
+        "word": "古装剧里最好嗑的cp",
+        "onboard_time": 1665753865,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171203,
+        "num": 131009,
+        "word": "舒淇于和伟互相wink",
+        "onboard_time": 1665755304,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143855,
+        "num": 129824,
+        "word": "王鹤棣陈钰琪浮图缘最新剧照",
+        "onboard_time": 1665748702,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129192,
+        "num": 129192,
+        "word": "男子心跳停1小时医生持续抢救成功",
+        "onboard_time": 1665755364,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127332,
+        "num": 127332,
+        "word": "原来这才是例假叫法的由来",
+        "onboard_time": 1665725364,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 122977,
+        "word": "美国会骚乱又曝新画面",
+        "onboard_time": 1665742344,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119669,
+        "num": 119669,
+        "word": "冷空气又双叒要来了",
+        "onboard_time": 1665751582,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116980,
+        "num": 116980,
+        "word": "二手iPhone14贬值速度是13两倍",
+        "onboard_time": 1665719005,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107183,
+        "num": 107183,
+        "word": "俄媒称俄博主冒充美官员与乌外长连线",
+        "onboard_time": 1665740484,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 107067,
+        "word": "追光者",
+        "onboard_time": 1665744746,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106729,
+        "num": 106729,
+        "word": "辽宁男篮vs北京男篮",
+        "onboard_time": 1665755485,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106441,
+        "num": 106441,
+        "word": "90岁老人收到生日礼物笑掉假牙",
+        "onboard_time": 1665750984,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105226,
+        "num": 105226,
+        "word": "分享欲本身就是爱和热情",
+        "onboard_time": 1665738323,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95179,
+        "num": 95179,
+        "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
+        "onboard_time": 1665724402,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90360,
+        "num": 90360,
+        "word": "狗狗帮忙抱7旬瘫痪老人上床",
+        "onboard_time": 1665735625,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74469,
+        "num": 74469,
+        "word": "遗忘15年股票找回后1万变50万",
+        "onboard_time": 1665726144,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66531,
+        "num": 66531,
+        "word": "年轻人为什么更爱买国货了",
+        "onboard_time": 1665739464,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65560,
+        "num": 65560,
+        "word": "CBA要求解说员不要评价吹罚",
+        "onboard_time": 1665727464,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58849,
+        "num": 58849,
+        "word": "暂未考虑将种植牙纳入医保支付范围",
+        "onboard_time": 1665746242,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#真理之光#"
+    }
+  }
+}

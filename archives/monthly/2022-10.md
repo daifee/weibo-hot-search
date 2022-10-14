@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 21:30:19
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 22:03:45
 </p>
 </blockquote>
 <p>
@@ -3315,6 +3315,12 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BF%A9%E7%88%B6%E4%BA%B2%E4%BA%89%E5%90%B5%E5%BC%80%E6%9E%AA%E4%BA%92%E5%B0%84%E5%AF%B9%E6%96%B9%E5%A5%B3%E5%84%BF%23" target="weibo">
+美国俩父亲争吵开枪互射对方女儿（热度：592594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BA%A6%E4%BC%9A%23" target="weibo">
 心动的信号第二次约会（热度：591463）
 </a>
@@ -3527,6 +3533,12 @@ SK（热度：578344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E8%80%81%E5%AE%B6%E7%82%96%E6%8E%92%E9%AA%A8%E5%B0%86%E7%82%95%E7%83%A7%E6%88%90%E4%BB%99%E5%A2%83%23" target="weibo">
 女子回老家炖排骨将炕烧成仙境（热度：570120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TTG%23" target="weibo">
+TTG（热度：568457）
 </a>
 </li>
 
@@ -5367,6 +5379,12 @@ T1（热度：412209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B0%86%E4%BA%8E16%E6%97%A510%E6%97%B6%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C%23" target="weibo">
+党的二十大将于16日10时在京举行（热度：411953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E6%99%92%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E7%BE%8E%E4%B8%BDlive%E5%9B%BE%23" target="weibo">
 范世錡晒无与伦比的美丽live图（热度：411074）
 </a>
@@ -5399,12 +5417,6 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AE%B6%E6%95%B01%E4%B8%87%E7%B2%92%E7%B1%B3%E7%AE%97%E6%98%AF%E5%A5%87%E8%91%A9%E4%BD%9C%E4%B8%9A%E5%90%97%23" target="weibo">
 在家数1万粒米算是奇葩作业吗（热度：409337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B0%86%E4%BA%8E16%E6%97%A510%E6%97%B6%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C%23" target="weibo">
-党的二十大将于16日10时在京举行（热度：408678）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ TES对战GAM（热度：376826）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E9%87%8D%E5%BB%BA%E6%B5%B7%E5%86%9B%23" target="weibo">
-泽连斯基称乌克兰将重建海军（热度：375131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%8B%8D%E7%85%A7%E6%80%8E%E4%B9%88%E6%91%86pose%E4%BA%86%23" target="weibo">
-终于知道拍照怎么摆pose了（热度：375035）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6203,6 +6203,12 @@ TES对战GAM（热度：376826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23%23" target="weibo">
 #二十大时光#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%9C%9F%E7%90%86%E4%B9%8B%E5%85%89%23%23" target="weibo">
+#真理之光#
 </a>
 </li>
 
