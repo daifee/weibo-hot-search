@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/14 00:39:52 ~ 2022/10/14 16:34:07
+本榜单时间：2022/10/14 00:39:52 ~ 2022/10/14 16:53:19
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@ RNG（热度：1856164）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23" target="weibo">
+羊了个羊出逃消防员被迫陪跑追回（热度：1510344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%86%B7%E5%86%AC%E8%BF%98%E6%98%AF%E6%9A%96%E5%86%AC%23" target="weibo">
 今年将迎来冷冬还是暖冬（热度：1493370）
 </a>
@@ -57,8 +63,8 @@ RNG八人确诊（热度：1454425）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23" target="weibo">
-羊了个羊出逃消防员被迫陪跑追回（热度：1399432）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
+医疗（热度：1266029）
 </a>
 </li>
 
@@ -71,12 +77,6 @@ EDG晋级八强（热度：1223009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%AE%9E%E6%96%BD%E5%8D%95%E8%BE%B9%E5%88%B6%E8%A3%81%23" target="weibo">
 韩国宣布对朝鲜实施单边制裁（热度：1220541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
-医疗（热度：1214772）
 </a>
 </li>
 
@@ -129,6 +129,12 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E8%87%AA%E8%A1%8C%E5%8F%BC%E8%B5%B0%E6%A9%98%E7%9A%AE%E5%90%83%E6%A9%98%E7%BB%9C%23" target="weibo">
+猫咪咳嗽半月自行叼走橘皮吃橘络（热度：823353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23" target="weibo">
 遗忘15年股票找回后1万变50万（热度：818754）
 </a>
@@ -142,7 +148,7 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B7%98%E5%AE%9D%E5%81%9A%E5%A4%B4%E5%83%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23" target="weibo">
-用淘宝做头像是什么梗（热度：748536）
+用淘宝做头像是什么梗（热度：776169）
 </a>
 </li>
 
@@ -195,6 +201,12 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%B8%AA%E5%88%AB%E5%9E%8B%E5%8F%B7%E4%BB%B7%E6%A0%BC%E5%B7%B2%E4%BD%8E%E4%BA%8E13%E5%AE%98%E7%BD%91%E4%BB%B7%23" target="weibo">
+iPhone14个别型号价格已低于13官网价（热度：528716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E5%B0%8F%E5%8F%AB%E8%8A%B1%E5%AD%90%E6%98%AF%E6%9D%A8%E5%BF%97%E5%88%9A%E5%84%BF%E5%AD%90%23" target="weibo">
 唐朝诡事录小叫花子是杨志刚儿子（热度：512908）
 </a>
@@ -237,8 +249,8 @@ EDG骑士礼空位（热度：458492）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E8%87%AA%E8%A1%8C%E5%8F%BC%E8%B5%B0%E6%A9%98%E7%9A%AE%E5%90%83%E6%A9%98%E7%BB%9C%23" target="weibo">
-猫咪咳嗽半月自行叼走橘皮吃橘络（热度：430636）
+<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%99%BD%E9%B9%BF%E9%82%A2%E8%8F%B2%E5%8D%81%E6%9C%88%E5%B0%81%E9%9D%A2%23" target="weibo">
+倪妮白鹿邢菲十月封面（热度：429812）
 </a>
 </li>
 
@@ -405,12 +417,6 @@ T1战胜EDG（热度：252952）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%B8%AA%E5%88%AB%E5%9E%8B%E5%8F%B7%E4%BB%B7%E6%A0%BC%E5%B7%B2%E4%BD%8E%E4%BA%8E13%E5%AE%98%E7%BD%91%E4%BB%B7%23" target="weibo">
-iPhone14个别型号价格已低于13官网价（热度：237484）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8813%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61010%E4%BE%8B%23" target="weibo">
 10月13日新增本土无症状1010例（热度：237069）
 </a>
@@ -431,6 +437,12 @@ iPhone14个别型号价格已低于13官网价（热度：237484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AC%AC%E4%BA%8C%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E5%A4%A7%E5%9B%BD%23" target="weibo">
 中国成第二汽车出口大国（热度：226165）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%AE%E5%BF%99%E6%8A%B17%E6%97%AC%E7%98%AB%E7%97%AA%E8%80%81%E4%BA%BA%E4%B8%8A%E5%BA%8A%23" target="weibo">
+狗狗帮忙抱7旬瘫痪老人上床（热度：218209）
 </a>
 </li>
 
@@ -573,6 +585,12 @@ T1战胜C9（热度：167903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BD%A0%E9%80%82%E5%BA%94%E7%BE%A4%E5%B1%85%E7%94%9F%E6%B4%BB%E4%BA%86%E5%90%97%23" target="weibo">
+开学一个月你适应群居生活了吗（热度：160990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E7%AC%99%E7%AE%AB%E9%BB%98%E7%9A%84%E9%95%BF%E5%B0%BE%E6%95%88%E5%BA%94%23" target="weibo">
 何以笙箫默的长尾效应（热度：159661）
 </a>
@@ -597,6 +615,12 @@ T1战胜C9（热度：167903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%8C%AB%E5%92%AA%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%23" target="weibo">
+沉浸式体验猫咪第一视角（热度：152453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CFNC%23" target="weibo">
 EDG战胜FNC（热度：146613）
 </a>
@@ -611,6 +635,12 @@ EDG战胜FNC（热度：146613）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E5%8D%8A%E5%B9%B4%E7%94%BB16%E7%B1%B3%E9%95%BF%E7%99%BE%E8%99%8E%E5%9B%BE%E9%80%81%E5%A5%B3%E5%84%BF%23" target="weibo">
 老爸半年画16米长百虎图送女儿（热度：145918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD%E9%99%8D%E6%B8%A9%E6%88%96%E8%B6%8510%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
+新冷空气来袭降温或超10摄氏度（热度：137924）
 </a>
 </li>
 
@@ -687,12 +717,6 @@ C9战胜FNC（热度：113790）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD%E9%99%8D%E6%B8%A9%E6%88%96%E8%B6%8510%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
-新冷空气来袭降温或超10摄氏度（热度：110573）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E6%A0%87%E7%AD%BE%E4%B8%8A%E7%9A%84%E7%AC%A6%E5%8F%B7%E9%83%BD%E4%BB%A3%E8%A1%A8%E4%BB%80%E4%B9%88%23" target="weibo">
 衣服标签上的符号都代表什么（热度：110370）
 </a>
@@ -747,6 +771,12 @@ Meiko锤石三连MVP（热度：96010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%BA%A7%E8%8B%B1%E9%9B%84%E9%BB%84%E7%BB%A7%E5%85%89%23" target="weibo">
+特级英雄黄继光（热度：93173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9%E7%9A%84%E9%AB%98%E9%98%B6%E7%8E%A9%E6%B3%95%23" target="weibo">
 真心话大冒险的高阶玩法（热度：92831）
 </a>
@@ -771,12 +801,6 @@ Meiko锤石三连MVP（热度：96010）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%AE%E5%BF%99%E6%8A%B17%E6%97%AC%E7%98%AB%E7%97%AA%E8%80%81%E4%BA%BA%E4%B8%8A%E5%BA%8A%23" target="weibo">
-狗狗帮忙抱7旬瘫痪老人上床（热度：91142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E9%94%BB%E7%82%BC%E8%82%A9%E8%83%8C%23" target="weibo">
 4个动作锻炼肩背（热度：89099）
 </a>
@@ -797,6 +821,12 @@ Meiko锤石三连MVP（热度：96010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AE%B5%E8%A7%86%E9%A2%91%E6%84%9F%E5%8F%97%E5%85%B0%E4%BA%AD%E5%BA%8F%E6%9C%89%E5%A4%9A%E7%BE%8E%23" target="weibo">
 一段视频感受兰亭序有多美（热度：86658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BF%9E%E7%AB%994%E5%B0%8F%E6%97%B6%E6%8D%A2%E5%B2%97%E6%97%B6%E8%85%BF%E8%BD%AF%E8%B7%AA%E5%9C%B0%23" target="weibo">
+消防员连站4小时换岗时腿软跪地（热度：85978）
 </a>
 </li>
 
@@ -891,12 +921,6 @@ EDG战胜C9（热度：74768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BF%9E%E7%AB%994%E5%B0%8F%E6%97%B6%E6%8D%A2%E5%B2%97%E6%97%B6%E8%85%BF%E8%BD%AF%E8%B7%AA%E5%9C%B0%23" target="weibo">
-消防员连站4小时换岗时腿软跪地（热度：68365）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BF%83%E4%B8%AD%E7%9A%84%E7%BD%91%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
 你心中的网剧天花板（热度：68119）
 </a>
@@ -923,12 +947,6 @@ EDG战胜C9（热度：74768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%944%E7%A2%97%E7%B2%BF%E6%9D%A1545%E5%85%83%E8%A2%AB%E8%B4%A8%E7%96%91%E5%A4%A9%E4%BB%B7%23" target="weibo">
 老板回应4碗粿条545元被质疑天价（热度：64613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%BA%A7%E8%8B%B1%E9%9B%84%E9%BB%84%E7%BB%A7%E5%85%89%23" target="weibo">
-特级英雄黄继光（热度：64502）
 </a>
 </li>
 
