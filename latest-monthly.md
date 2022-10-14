@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 17:29:35
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 17:47:54
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ iPhone14Plus遇冷Pro卖爆（热度：618927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%B8%AA%E5%88%AB%E5%9E%8B%E5%8F%B7%E4%BB%B7%E6%A0%BC%E5%B7%B2%E4%BD%8E%E4%BA%8E13%E5%AE%98%E7%BD%91%E4%BB%B7%23" target="weibo">
+iPhone14个别型号价格已低于13官网价（热度：616726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%9F%E9%A3%9F%E5%BA%97%E5%86%85%E8%80%81%E9%BC%A0%E7%8B%82%E7%82%AB%E7%83%A4%E9%B8%AD%23" target="weibo">
 熟食店内老鼠狂炫烤鸭（热度：616321）
 </a>
@@ -3833,12 +3839,6 @@ TMA（热度：540431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AF%9B%E4%B8%8D%E6%98%93%E7%BB%88%E4%BA%8E%E5%94%B1%E4%BA%86%E4%B8%AAHe%23" target="weibo">
 张碧晨毛不易终于唱了个He（热度：528756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E4%B8%AA%E5%88%AB%E5%9E%8B%E5%8F%B7%E4%BB%B7%E6%A0%BC%E5%B7%B2%E4%BD%8E%E4%BA%8E13%E5%AE%98%E7%BD%91%E4%BB%B7%23" target="weibo">
-iPhone14个别型号价格已低于13官网价（热度：528716）
 </a>
 </li>
 
