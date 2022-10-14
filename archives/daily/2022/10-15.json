@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665767122812,
+  "endTime": 1665768879172,
   "band_list": [
     {
       "raw_hot": 1434278,
@@ -41,6 +41,14 @@
       "onboard_time": 1665745104,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 460818,
+      "num": 257781,
+      "word": "哈利波特海格扮演者去世",
+      "onboard_time": 1665768016,
+      "rank": 3,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 448503,
@@ -161,6 +169,14 @@
       "onboard_time": 1665764660,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134218,
+      "num": 74310,
+      "word": "kcon",
+      "onboard_time": 1665763822,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 129525,
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79954,
-      "num": 74310,
-      "word": "kcon",
-      "onboard_time": 1665763822,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 78140,
       "num": 75845,
       "word": "日剧silent",
@@ -425,6 +433,9 @@
     },
     {
       "word": "#你好二十大#"
+    },
+    {
+      "word": "#二十大新闻发布会#"
     }
   ]
 }

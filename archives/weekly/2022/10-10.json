@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665767122812,
+  "endTime": 1665768879172,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2425,6 +2425,14 @@
       "onboard_time": 1665633865,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 460818,
+      "num": 257781,
+      "word": "哈利波特海格扮演者去世",
+      "onboard_time": 1665768016,
+      "rank": 3,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 460425,
@@ -6875,6 +6883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134218,
+      "num": 74310,
+      "word": "kcon",
+      "onboard_time": 1665763822,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "你肯定玩过这个游戏",
@@ -8137,14 +8153,6 @@
       "onboard_time": 1665607510,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79954,
-      "num": 74310,
-      "word": "kcon",
-      "onboard_time": 1665763822,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 79701,

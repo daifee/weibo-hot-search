@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665767122812,
+  "endTime": 1665768879172,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -6233,6 +6233,14 @@
       "onboard_time": 1665140180,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460818,
+      "num": 257781,
+      "word": "哈利波特海格扮演者去世",
+      "onboard_time": 1665768016,
+      "rank": 3,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 460628,
@@ -17971,6 +17979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134218,
+      "num": 74310,
+      "word": "kcon",
+      "onboard_time": 1665763822,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134107,
       "num": 134107,
       "word": "国庆假期偶遇执勤警犬歪头杀",
@@ -21417,14 +21433,6 @@
       "onboard_time": 1665292285,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 79954,
-      "num": 74310,
-      "word": "kcon",
-      "onboard_time": 1665763822,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 79701,

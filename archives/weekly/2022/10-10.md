@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/15 01:05:22
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/15 01:34:39
 </p>
 </blockquote>
 <p>
@@ -1829,6 +1829,12 @@ IU首登韩版Vogue11月刊（热度：501833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8C%97%E6%BA%AA%E7%88%86%E7%82%B8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E6%98%AF%E7%BE%8E%E5%9B%BD%23" target="weibo">
 普京称北溪爆炸的受益者是美国（热度：462464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+哈利波特海格扮演者去世（热度：460818）
 </a>
 </li>
 
@@ -5169,6 +5175,12 @@ EDG战胜FNC（热度：146613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23kcon%23" target="weibo">
+kcon（热度：134218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%82%AF%E5%AE%9A%E7%8E%A9%E8%BF%87%E8%BF%99%E4%B8%AA%E6%B8%B8%E6%88%8F%23" target="weibo">
 你肯定玩过这个游戏（热度：133385）
 </a>
@@ -6113,12 +6125,6 @@ DRX战胜GAM（热度：82414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TI11%E5%90%8D%E5%8D%95%E7%A1%AE%E8%AE%A4%23" target="weibo">
 TI11名单确认（热度：80066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23kcon%23" target="weibo">
-kcon（热度：79954）
 </a>
 </li>
 
