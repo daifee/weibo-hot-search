@@ -1,6 +1,6 @@
 {
   "startTime": 1665679192856,
-  "endTime": 1665733987637,
+  "endTime": 1665736447678,
   "band_list": [
     {
       "raw_hot": 2263538,
@@ -59,6 +59,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1399432,
+      "num": 1399432,
+      "word": "羊了个羊出逃消防员被迫陪跑追回",
+      "onboard_time": 1665731185,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223009,
       "num": 1223009,
       "word": "EDG晋级八强",
@@ -75,8 +83,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1183010,
-      "num": 758934,
+      "raw_hot": 1214772,
+      "num": 818037,
       "word": "医疗",
       "onboard_time": 1665727705,
       "rank": 30,
@@ -163,12 +171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 769536,
-      "num": 769536,
-      "word": "羊了个羊出逃消防员被迫陪跑追回",
-      "onboard_time": 1665731185,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 748536,
+      "num": 748536,
+      "word": "用淘宝做头像是什么梗",
+      "onboard_time": 1665733042,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 708055,
@@ -177,6 +185,14 @@
       "onboard_time": 1665708383,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698102,
+      "num": 698102,
+      "word": "苏有朋又拿第一",
+      "onboard_time": 1665733644,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 661160,
@@ -283,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433077,
-      "num": 433077,
-      "word": "苏有朋又拿第一",
-      "onboard_time": 1665733644,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 430636,
+      "num": 361522,
+      "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+      "onboard_time": 1665735024,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415841,
@@ -387,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330362,
+      "num": 330362,
+      "word": "王鹤棣黄明昊王安宇刘耀文看秀后约球",
+      "onboard_time": 1665734785,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329287,
       "num": 329287,
       "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314843,
+      "num": 314843,
+      "word": "魏大勋爸爸拒绝和魏大勋同队",
+      "onboard_time": 1665729442,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314440,
       "num": 314440,
       "word": "LOL新英雄奎桑提",
       "onboard_time": 1665731243,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297200,
-      "num": 297200,
-      "word": "魏大勋爸爸拒绝和魏大勋同队",
-      "onboard_time": 1665729442,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 293739,
@@ -491,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247883,
-      "num": 247883,
-      "word": "用淘宝做头像是什么梗",
-      "onboard_time": 1665733042,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241424,
       "num": 241424,
       "word": "烈士父母主动帮儿子还助学贷款",
       "onboard_time": 1665715704,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237484,
+      "num": 237484,
+      "word": "iPhone14个别型号价格已低于13官网价",
+      "onboard_time": 1665735504,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 237069,
@@ -545,6 +569,14 @@
       "onboard_time": 1665693250,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215260,
+      "num": 182650,
+      "word": "王一博街舞5穿鞋穿出跳舞即视感",
+      "onboard_time": 1665736224,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 212883,
@@ -625,6 +657,14 @@
       "onboard_time": 1665721165,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191908,
+      "num": 191908,
+      "word": "二十大新闻发布会",
+      "onboard_time": 1665732084,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 190224,
@@ -803,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117658,
+      "num": 117658,
+      "word": "多少度你会开始穿秋裤",
+      "onboard_time": 1665732924,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117201,
       "num": 117201,
       "word": "不识字奶奶画图给孙子区分饺子馅",
@@ -851,6 +899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110573,
+      "num": 110573,
+      "word": "新冷空气来袭降温或超10摄氏度",
+      "onboard_time": 1665734124,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110370,
       "num": 110370,
       "word": "衣服标签上的符号都代表什么",
@@ -873,14 +929,6 @@
       "onboard_time": 1665677541,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 108379,
-      "num": 108379,
-      "word": "二十大新闻发布会",
-      "onboard_time": 1665732084,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 106036,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91142,
+      "num": 91142,
+      "word": "狗狗帮忙抱7旬瘫痪老人上床",
+      "onboard_time": 1665735625,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89099,
       "num": 89099,
       "word": "4个动作锻炼肩背",
@@ -977,6 +1033,22 @@
       "onboard_time": 1665663324,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 87144,
+      "num": 87144,
+      "word": "它肯定梦到好吃的了",
+      "onboard_time": 1665734965,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86658,
+      "num": 86658,
+      "word": "一段视频感受兰亭序有多美",
+      "onboard_time": 1665735864,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84623,
@@ -1033,14 +1105,6 @@
       "onboard_time": 1665692412,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75208,
-      "num": 75208,
-      "word": "多少度你会开始穿秋裤",
-      "onboard_time": 1665732924,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 74768,
@@ -1107,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68365,
+      "num": 289446,
+      "word": "消防员连站4小时换岗时腿软跪地",
+      "onboard_time": 1665734485,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68119,
       "num": 68119,
       "word": "你心中的网剧天花板",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1665649344,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64502,
+      "num": 775237,
+      "word": "特级英雄黄继光",
+      "onboard_time": 1665735204,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 55953,

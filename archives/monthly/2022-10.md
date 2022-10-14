@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 15:53:07
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 16:34:07
 </p>
 </blockquote>
 <p>
@@ -783,6 +783,12 @@ C罗（热度：1447248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23" target="weibo">
+羊了个羊出逃消防员被迫陪跑追回（热度：1399432）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%23" target="weibo">
 管泽元（热度：1386518）
 </a>
@@ -1053,6 +1059,12 @@ EDG晋级八强（热度：1223009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
+医疗（热度：1214772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E%23" target="weibo">
 李宇春强直性脊柱炎（热度：1213588）
 </a>
@@ -1109,12 +1121,6 @@ EDG晋级八强（热度：1223009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E6%A3%89%E8%A2%AB%E8%97%8F8%E4%B8%87%E5%BC%B9%E6%A3%89%E8%8A%B1%E6%97%B6%E5%8F%91%E7%8E%B0%23" target="weibo">
 已故父亲棉被藏8万弹棉花时发现（热度：1190457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
-医疗（热度：1183010）
 </a>
 </li>
 
@@ -2211,12 +2217,6 @@ DK（热度：781704）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23" target="weibo">
-羊了个羊出逃消防员被迫陪跑追回（热度：769536）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E4%BB%8D%E5%B0%86%E9%87%87%E7%94%A8%E9%AB%98%E9%80%9A%E5%9F%BA%E5%B8%A6%23" target="weibo">
 iPhone15系列仍将采用高通基带（热度：769323）
 </a>
@@ -2309,6 +2309,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F90%E5%A4%9A%E5%BC%A0%E5%8D%96%E8%90%8C%E8%87%AA%E6%8B%8D%E9%94%99%E5%8F%91%E7%8F%AD%E7%BA%A7%E7%BE%A4%23" target="weibo">
 女生90多张卖萌自拍错发班级群（热度：748782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B7%98%E5%AE%9D%E5%81%9A%E5%A4%B4%E5%83%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23" target="weibo">
+用淘宝做头像是什么梗（热度：748536）
 </a>
 </li>
 
@@ -2621,6 +2627,12 @@ Viper（热度：705111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%80%BB%E8%A6%81%E5%8E%BB%E4%B8%80%E6%AC%A1%E9%95%BF%E6%B2%99%E5%90%A7%23" target="weibo">
 今年总要去一次长沙吧（热度：698176）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E5%8F%88%E6%8B%BF%E7%AC%AC%E4%B8%80%23" target="weibo">
+苏有朋又拿第一（热度：698102）
 </a>
 </li>
 
@@ -4959,12 +4971,6 @@ aespaSavage发行一周年（热度：437595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E5%8F%88%E6%8B%BF%E7%AC%AC%E4%B8%80%23" target="weibo">
-苏有朋又拿第一（热度：433077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E6%98%8F%E8%BF%B7%E5%84%BF%E5%AD%90%E5%A4%A7%E5%A3%B0%E5%91%BC%E5%96%8A%E5%94%A4%E9%86%92%23" target="weibo">
 妈妈突然昏迷儿子大声呼喊唤醒（热度：432920）
 </a>
@@ -4985,6 +4991,12 @@ aespaSavage发行一周年（热度：437595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E5%B9%B4%E5%90%8E%E6%89%8D%E6%98%8E%E7%99%BD%E7%9A%84%E9%81%93%E7%90%86%E5%90%97%23" target="weibo">
 你有多年后才明白的道理吗（热度：431820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E8%87%AA%E8%A1%8C%E5%8F%BC%E8%B5%B0%E6%A9%98%E7%9A%AE%E5%90%83%E6%A9%98%E7%BB%9C%23" target="weibo">
+猫咪咳嗽半月自行叼走橘皮吃橘络（热度：430636）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ EDG（热度：368917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%82%E5%8A%A0%E5%89%8D%E4%BB%BB%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 参加前任的婚礼是什么体验（热度：368752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A8%83%E6%89%8B%E8%84%8F%E7%9D%80%E6%80%A5%E8%AF%B4%E5%A9%B4%E8%AF%AD%E8%80%81%E5%B8%88%E7%9B%B2%E7%8C%9C%23" target="weibo">
-2岁娃手脏着急说婴语老师盲猜（热度：368722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B3%A2%E5%88%98%E6%B5%B7%E7%95%99%E7%96%A4%23" target="weibo">
-刘波刘海留疤（热度：368291）
 </a>
 </li>
 
