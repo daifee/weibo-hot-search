@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 14:11:59
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/14 14:32:40
 </p>
 </blockquote>
 <p>
@@ -1131,6 +1131,12 @@ EDG晋级八强（热度：1223009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E4%BE%8B%E5%81%87%E5%8F%AB%E6%B3%95%E7%9A%84%E7%94%B1%E6%9D%A5%23" target="weibo">
+原来这才是例假叫法的由来（热度：1172376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E5%A5%B3%E9%AA%91%E6%89%8B%E5%BC%AF%E9%81%93%E5%AF%B9%E6%92%9E%E7%96%91%E8%BA%AB%E4%BA%A1%23" target="weibo">
 摩托车女骑手弯道对撞疑身亡（热度：1171697）
 </a>
@@ -1421,12 +1427,6 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E5%B0%91%E4%BA%91%E7%89%BA%E7%89%B2%E6%97%B6%E6%89%8B%E6%8C%87%E5%87%A0%E4%B9%8E%E9%83%BD%E6%8F%92%E5%85%A5%E5%9C%9F%E4%B8%AD%23" target="weibo">
 邱少云牺牲时手指几乎都插入土中（热度：1031848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E4%BE%8B%E5%81%87%E5%8F%AB%E6%B3%95%E7%9A%84%E7%94%B1%E6%9D%A5%23" target="weibo">
-原来这才是例假叫法的由来（热度：1019723）
 </a>
 </li>
 
@@ -2001,6 +2001,12 @@ eStar七冠王（热度：894969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%AE%A4%E8%AF%81%E8%8B%8D%E5%85%B0%E8%AF%80%E6%98%AF%E7%88%86%E6%AC%BE%E5%89%A7%E9%9B%86%23" target="weibo">
+爱奇艺认证苍兰诀是爆款剧集（热度：816781）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%9A%84%E4%BA%8C%E5%85%AB%E5%AE%9A%E5%BE%8B%E4%B8%8B%E5%91%A8%E6%92%AD%E5%87%BA%23" target="weibo">
 爱的二八定律下周播出（热度：816254）
 </a>
@@ -2163,12 +2169,6 @@ DK（热度：781704）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%AE%A4%E8%AF%81%E8%8B%8D%E5%85%B0%E8%AF%80%E6%98%AF%E7%88%86%E6%AC%BE%E5%89%A7%E9%9B%86%23" target="weibo">
-爱奇艺认证苍兰诀是爆款剧集（热度：776010）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%97%A0%E5%90%8D%E6%8C%87%E4%B8%8A%E6%88%B4%E6%88%92%E6%8C%87%23" target="weibo">
 孙杨无名指上戴戒指（热度：775319）
 </a>
@@ -2225,6 +2225,12 @@ iPhone15系列仍将采用高通基带（热度：769323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E5%BC%82%E5%B8%B8%E5%9D%A0%E8%90%BD%23" target="weibo">
 韩国一枚导弹发射异常坠落（热度：760705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%23" target="weibo">
+医疗（热度：758934）
 </a>
 </li>
 
@@ -2321,6 +2327,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23" target="weibo">
 二十大最新消息（热度：743050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23" target="weibo">
+遗忘15年股票找回后1万变50万（热度：740424）
 </a>
 </li>
 
@@ -5505,12 +5517,6 @@ Faker超越Uzi成为世界赛击杀王（热度：397462）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23" target="weibo">
-遗忘15年股票找回后1万变50万（热度：394319）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%BA%E5%BD%93%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%80%E5%91%A8%E5%87%8F%E9%87%8D16%E6%96%A4%23" target="weibo">
 快递小哥为当飞行员一周减重16斤（热度：393927）
 </a>
@@ -6005,12 +6011,6 @@ EDG（热度：368917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E4%BA%8B%E4%BB%B6%E7%94%B1%E7%82%B8%E8%8D%AF%E7%88%86%E7%82%B8%E5%BC%95%E8%B5%B7%23" target="weibo">
 北溪管道泄漏事件由炸药爆炸引起（热度：366752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E6%82%AC%E7%96%91%E8%92%99%E5%A4%AA%E5%A5%87%23" target="weibo">
-梁朝伟王一博程耳悬疑蒙太奇（热度：365150）
 </a>
 </li>
 
