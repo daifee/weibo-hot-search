@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665762577389,
+  "endTime": 1665765505567,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2067,6 +2067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 524247,
+      "num": 524247,
+      "word": "进化论",
+      "onboard_time": 1665762444,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523962,
       "num": 523962,
       "word": "legends never die",
@@ -2555,6 +2563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 448503,
+      "num": 448503,
+      "word": "一到冬天就会得这种病",
+      "onboard_time": 1665761484,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447883,
       "num": 447883,
       "word": "什么家庭经得住这么拆家啊",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1665323785,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440667,
+      "num": 440667,
+      "word": "英国首相特拉斯解雇财政大臣",
+      "onboard_time": 1665759926,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 438372,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1665723686,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 394669,
-      "num": 394669,
-      "word": "英国首相特拉斯解雇财政大臣",
-      "onboard_time": 1665759926,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 393704,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1665461186,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331441,
+      "num": 331441,
+      "word": "同事都有对象单身女服务员趴桌大哭",
+      "onboard_time": 1665763463,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331325,
@@ -5203,14 +5227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210227,
-      "num": 175904,
-      "word": "进化论",
-      "onboard_time": 1665762444,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209748,
       "num": 209748,
       "word": "男子生气开车突然手指僵硬呼吸困难",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1665397402,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183300,
-      "num": 172935,
-      "word": "一到冬天就会得这种病",
-      "onboard_time": 1665761484,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 183272,
@@ -6809,6 +6817,14 @@
       "onboard_time": 1665328345,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135654,
+      "num": 124611,
+      "word": "周深说我们一起向光而行",
+      "onboard_time": 1665764660,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 135532,
@@ -8739,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40783,
+      "num": 728555,
+      "word": "你心目中的追光者是谁",
+      "onboard_time": 1665761484,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40634,
       "num": 112881,
       "word": "不运动的借口有多离谱",
@@ -8945,14 +8969,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19961,
-      "num": 728555,
-      "word": "你心目中的追光者是谁",
-      "onboard_time": 1665761484,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 17793,
@@ -9502,6 +9518,9 @@
     },
     {
       "word": "#二十大新闻发布会#"
+    },
+    {
+      "word": "#聚焦二十大#"
     }
   ]
 }
