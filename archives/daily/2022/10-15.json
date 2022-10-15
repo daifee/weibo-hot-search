@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665813743898,
+  "endTime": 1665815867231,
   "band_list": [
     {
       "raw_hot": 2704511,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716977,
+      "num": 377663,
+      "word": "罗杰斯称中国将成为21世纪最成功的国家",
+      "onboard_time": 1665811825,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711797,
+      "num": 224022,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1665813980,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 684055,
       "num": 530214,
       "word": "TES",
@@ -131,8 +147,16 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 629866,
+      "num": 323483,
+      "word": "帮别人点外卖时先通知对方",
+      "onboard_time": 1665810924,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 594655,
-      "num": 202587,
+      "num": 220454,
       "word": "二十大最新消息",
       "onboard_time": 1665806122,
       "rank": 20,
@@ -171,28 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527400,
-      "num": 222354,
-      "word": "罗杰斯称中国将成为21世纪最成功的国家",
-      "onboard_time": 1665811825,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 510820,
       "num": 380434,
       "word": "人民日报任仲平",
       "onboard_time": 1665793521,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 505295,
-      "num": 323483,
-      "word": "帮别人点外卖时先通知对方",
-      "onboard_time": 1665810924,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 480803,
@@ -227,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 455807,
+      "num": 222472,
+      "word": "蔡徐坤召集淘汰学员重返沸腾校园",
+      "onboard_time": 1665813502,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444517,
       "num": 444517,
       "word": "奖励优秀生的小猪9月后卖了4000元",
@@ -257,14 +273,6 @@
       "onboard_time": 1665805283,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400171,
-      "num": 216962,
-      "word": "蔡徐坤召集淘汰学员重返沸腾校园",
-      "onboard_time": 1665813502,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 396550,
@@ -331,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319520,
+      "num": 221100,
+      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+      "onboard_time": 1665814102,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295953,
       "num": 295953,
       "word": "美国俩父亲争吵开枪互射对方女儿",
@@ -352,6 +368,14 @@
       "word": "月球在过去25亿年里不断远离地球",
       "onboard_time": 1665780130,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263257,
+      "num": 220623,
+      "word": "意大利女宇航员怎么会知道王羲之",
+      "onboard_time": 1665812903,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -377,6 +401,14 @@
       "onboard_time": 1665735024,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229261,
+      "num": 229261,
+      "word": "谁是今年你最喜欢的角色",
+      "onboard_time": 1665814704,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 215338,
@@ -419,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195806,
+      "num": 435869,
+      "word": "新千里江山图",
+      "onboard_time": 1665803364,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195166,
       "num": 195166,
       "word": "换乘恋爱2",
@@ -441,6 +481,14 @@
       "onboard_time": 1665758125,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169994,
+      "num": 169994,
+      "word": "民警咆哮式劝急症门卫大爷就医",
+      "onboard_time": 1665814342,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163134,
@@ -467,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158927,
+      "num": 158927,
+      "word": "西北大学120周年校庆",
+      "onboard_time": 1665812002,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 155397,
       "num": 155397,
       "word": "男子为采摘石榴差点飞出房顶",
@@ -475,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154848,
-      "num": 154848,
-      "word": "新千里江山图",
-      "onboard_time": 1665803364,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 145390,
+      "num": 145390,
+      "word": "张开泰张楚寒cp感",
+      "onboard_time": 1665814704,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 144587,
@@ -547,12 +603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126570,
-      "num": 126570,
-      "word": "西北大学120周年校庆",
-      "onboard_time": 1665812002,
-      "rank": 38,
-      "category": "教育,社会新闻"
+      "raw_hot": 129389,
+      "num": 129389,
+      "word": "王一博的疑问三连",
+      "onboard_time": 1665814521,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 125875,
@@ -641,6 +697,14 @@
       "onboard_time": 1665810745,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110406,
+      "num": 222012,
+      "word": "医院开低价厨房让患属可自己做饭",
+      "onboard_time": 1665813622,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106901,
@@ -739,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90001,
-      "num": 90001,
-      "word": "意大利女宇航员怎么会知道王羲之",
-      "onboard_time": 1665812903,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88025,
       "num": 88025,
       "word": "用淘宝做头像是什么梗",
@@ -841,6 +897,14 @@
       "onboard_time": 1665719005,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 71043,
+      "num": 71043,
+      "word": "海格依然会在",
+      "onboard_time": 1665814042,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 70760,
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17080,
+      "num": 399077,
+      "word": "二十大代表vlog",
+      "onboard_time": 1665815603,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 16700,
       "num": 16700,
       "word": "王家卫繁花仍在拍摄中",
@@ -987,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15548,
-      "num": 214131,
-      "word": "医院开低价厨房让患属可自己做饭",
-      "onboard_time": 1665813622,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14582,
       "num": 361976,
       "word": "每张被熏黑的脸都是沉甸甸的勋章",
@@ -1016,6 +1080,14 @@
       "word": "回力回应童鞋藏剪刀",
       "onboard_time": 1665774852,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8601,
+      "num": 334392,
+      "word": "巾帼指挥官侯静见证中国海油的十年跨越",
+      "onboard_time": 1665814883,
+      "rank": 4,
       "category": "社会新闻"
     },
     {

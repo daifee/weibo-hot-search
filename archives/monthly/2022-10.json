@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665813743898,
+  "endTime": 1665815867231,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -3459,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716977,
+      "num": 377663,
+      "word": "罗杰斯称中国将成为21世纪最成功的国家",
+      "onboard_time": 1665811825,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715976,
       "num": 389064,
       "word": "罗一舟关晓彤同框",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1665572364,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 711797,
+      "num": 224022,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1665813980,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 710669,
@@ -4241,6 +4257,14 @@
       "onboard_time": 1665237749,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 629866,
+      "num": 323483,
+      "word": "帮别人点外卖时先通知对方",
+      "onboard_time": 1665810924,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 628008,
@@ -5379,14 +5403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 527400,
-      "num": 222354,
-      "word": "罗杰斯称中国将成为21世纪最成功的国家",
-      "onboard_time": 1665811825,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525503,
       "num": 525503,
       "word": "程潇赞多小鬼街舞5官宣",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1665570206,
       "rank": 39,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 505295,
-      "num": 323483,
-      "word": "帮别人点外卖时先通知对方",
-      "onboard_time": 1665810924,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 504948,
@@ -6521,6 +6529,14 @@
       "onboard_time": 1665480145,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455807,
+      "num": 222472,
+      "word": "蔡徐坤召集淘汰学员重返沸腾校园",
+      "onboard_time": 1665813502,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 455554,
@@ -7657,14 +7673,6 @@
       "onboard_time": 1664778801,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400171,
-      "num": 216962,
-      "word": "蔡徐坤召集淘汰学员重返沸腾校园",
-      "onboard_time": 1665813502,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 399823,
@@ -9619,6 +9627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319520,
+      "num": 221100,
+      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+      "onboard_time": 1665814102,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319340,
       "num": 319340,
       "word": "美国9月CPI同比上涨8.2%",
@@ -11403,6 +11419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263257,
+      "num": 220623,
+      "word": "意大利女宇航员怎么会知道王羲之",
+      "onboard_time": 1665812903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263097,
       "num": 263097,
       "word": "成都4亿元消费券来了",
@@ -12889,6 +12913,14 @@
       "onboard_time": 1665053605,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229261,
+      "num": 229261,
+      "word": "谁是今年你最喜欢的角色",
+      "onboard_time": 1665814704,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 229236,
@@ -14635,6 +14667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195806,
+      "num": 435869,
+      "word": "新千里江山图",
+      "onboard_time": 1665803364,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195686,
       "num": 195686,
       "word": "从狗子的眼神中看到了后悔",
@@ -16019,6 +16059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169994,
+      "num": 169994,
+      "word": "民警咆哮式劝急症门卫大爷就医",
+      "onboard_time": 1665814342,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 169664,
       "num": 169664,
       "word": "波士顿动力承诺不将机器人武器化",
@@ -16603,6 +16651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158927,
+      "num": 158927,
+      "word": "西北大学120周年校庆",
+      "onboard_time": 1665812002,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 158911,
       "num": 158911,
       "word": "刚毕业时花的冤枉钱",
@@ -16897,14 +16953,6 @@
       "onboard_time": 1665630563,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154848,
-      "num": 154848,
-      "word": "新千里江山图",
-      "onboard_time": 1665803364,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154275,
@@ -17505,6 +17553,14 @@
       "onboard_time": 1665578124,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145390,
+      "num": 145390,
+      "word": "张开泰张楚寒cp感",
+      "onboard_time": 1665814704,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 145374,
@@ -18515,6 +18571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129389,
+      "num": 129389,
+      "word": "王一博的疑问三连",
+      "onboard_time": 1665814521,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129368,
       "num": 129368,
       "word": "如何看待双标式消费",
@@ -18705,14 +18769,6 @@
       "onboard_time": 1664587222,
       "rank": 28,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 126570,
-      "num": 126570,
-      "word": "西北大学120周年校庆",
-      "onboard_time": 1665812002,
-      "rank": 38,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 126515,
@@ -19913,6 +19969,14 @@
       "onboard_time": 1665050845,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110406,
+      "num": 222012,
+      "word": "医院开低价厨房让患属可自己做饭",
+      "onboard_time": 1665813622,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110370,
@@ -21243,14 +21307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90001,
-      "num": 90001,
-      "word": "意大利女宇航员怎么会知道王羲之",
-      "onboard_time": 1665812903,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89861,
       "num": 89861,
       "word": "马龙团体赛100场里程碑",
@@ -22433,6 +22489,14 @@
       "onboard_time": 1665292884,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 71043,
+      "num": 71043,
+      "word": "海格依然会在",
+      "onboard_time": 1665814042,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 71021,
@@ -24315,6 +24379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17080,
+      "num": 399077,
+      "word": "二十大代表vlog",
+      "onboard_time": 1665815603,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 16700,
       "num": 16700,
       "word": "王家卫繁花仍在拍摄中",
@@ -24345,14 +24417,6 @@
       "onboard_time": 1665770955,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15548,
-      "num": 214131,
-      "word": "医院开低价厨房让患属可自己做饭",
-      "onboard_time": 1665813622,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15514,
@@ -24552,6 +24616,14 @@
       "word": "什么样的疼痛需要去医院",
       "onboard_time": 1665511932,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8601,
+      "num": 334392,
+      "word": "巾帼指挥官侯静见证中国海油的十年跨越",
+      "onboard_time": 1665814883,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
