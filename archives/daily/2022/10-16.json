@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665868988131,
+  "endTime": 1665870074889,
   "band_list": [
     {
       "raw_hot": 915977,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54436,
+      "num": 15619,
+      "word": "DK战胜EG",
+      "onboard_time": 1665862931,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53027,
       "num": 53027,
       "word": "摇滚狂花",
@@ -353,14 +361,6 @@
       "onboard_time": 1665809303,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48968,
-      "num": 15465,
-      "word": "DK战胜EG",
-      "onboard_time": 1665862931,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 47706,
@@ -451,20 +451,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 10885,
-      "num": 10885,
+      "raw_hot": 13402,
+      "num": 13402,
       "word": "乘客公交车上晕倒女护士跪地抢救",
       "onboard_time": 1665835224,
       "rank": 35,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 8736,
-      "num": 8736,
+      "raw_hot": 12007,
+      "num": 12007,
       "word": "南疆军区无人机空中侦察首次实飞",
       "onboard_time": 1665865150,
       "rank": 42,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 10168,
+      "num": 10168,
+      "word": "高校组织采摘活动让学生体验秋收",
+      "onboard_time": 1665865271,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 8662,
@@ -475,16 +483,8 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 7768,
-      "num": 7768,
-      "word": "高校组织采摘活动让学生体验秋收",
-      "onboard_time": 1665865271,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 7111,
-      "num": 7111,
+      "raw_hot": 8315,
+      "num": 8315,
       "word": "库里庆祝后滑倒",
       "onboard_time": 1665862452,
       "rank": 49,
@@ -553,6 +553,14 @@
       "onboard_time": 1665861912,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5098,
+      "num": 5098,
+      "word": "6名大学生紧急救护摔伤男子",
+      "onboard_time": 1665820882,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 4999,

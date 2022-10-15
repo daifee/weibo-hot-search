@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665868988131,
+  "endTime": 1665870074889,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -9891,6 +9891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54436,
+      "num": 15619,
+      "word": "DK战胜EG",
+      "onboard_time": 1665862931,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54359,
       "num": 254617,
       "word": "民警走访时帮独居老人收玉米",
@@ -9993,14 +10001,6 @@
       "onboard_time": 1665666025,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48968,
-      "num": 15465,
-      "word": "DK战胜EG",
-      "onboard_time": 1665862931,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 48787,
@@ -10531,6 +10531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12007,
+      "num": 12007,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -10545,6 +10553,14 @@
       "onboard_time": 1665668126,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10168,
+      "num": 10168,
+      "word": "高校组织采摘活动让学生体验秋收",
+      "onboard_time": 1665865271,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 9679,
@@ -10571,20 +10587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8736,
-      "num": 8736,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 8662,
       "num": 8662,
       "word": "运20生产车间罕见曝光",
       "onboard_time": 1665859333,
       "rank": 47,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 8315,
+      "num": 8315,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 8280,
@@ -10611,14 +10627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7768,
-      "num": 7768,
-      "word": "高校组织采摘活动让学生体验秋收",
-      "onboard_time": 1665865271,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 7717,
       "num": 7717,
       "word": "16岁少年身故器官全部捐献",
@@ -10641,14 +10649,6 @@
       "onboard_time": 1665343631,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7111,
-      "num": 7111,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 7063,
