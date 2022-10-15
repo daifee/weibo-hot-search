@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 05:41:14
+本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 06:25:34
 </p>
 </blockquote>
 <p>
@@ -166,7 +166,7 @@ LGD（热度：149546）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
-爸爸连夜为儿子做课文中的竹节人（热度：108035）
+爸爸连夜为儿子做课文中的竹节人（热度：114032）
 </a>
 </li>
 
@@ -215,6 +215,12 @@ LGD（热度：149546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9A%84%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%9E%AC%E9%97%B4%E7%A0%B4%E9%98%B2%23" target="weibo">
 父母的哪句话让你瞬间破防（热度：67728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
+美国再提供7.25亿美元对乌军事援助（热度：62493）
 </a>
 </li>
 
@@ -285,12 +291,6 @@ DK战胜EG（热度：54436）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
-美国再提供7.25亿美元对乌军事援助（热度：47706）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23" target="weibo">
 姚晨晒照告别摇滚狂花（热度：46662）
 </a>
@@ -339,6 +339,12 @@ DK战胜EG（热度：54436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23" target="weibo">
+乘客公交车上晕倒女护士跪地抢救（热度：24136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EG%E5%AF%B9%E6%88%98DK%23" target="weibo">
 EG对战DK（热度：18287）
 </a>
@@ -351,14 +357,14 @@ EG对战DK（热度：18287）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23" target="weibo">
-乘客公交车上晕倒女护士跪地抢救（热度：13402）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
+南疆军区无人机空中侦察首次实飞（热度：16553）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
-南疆军区无人机空中侦察首次实飞（热度：12007）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23" target="weibo">
+库里庆祝后滑倒（热度：10360）
 </a>
 </li>
 
@@ -375,8 +381,8 @@ EG对战DK（热度：18287）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23" target="weibo">
-库里庆祝后滑倒（热度：8315）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23" target="weibo">
+格威踩爆球鞋（热度：7513）
 </a>
 </li>
 
@@ -388,7 +394,7 @@ EG对战DK（热度：18287）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23" target="weibo">
-施罗德手指受伤（热度：6445）
+施罗德手指受伤（热度：6600）
 </a>
 </li>
 
@@ -461,12 +467,6 @@ EG对战DK（热度：18287）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E5%A4%AB21%E5%88%8620%E7%AF%AE%E6%9D%BF%23" target="weibo">
 利夫21分20篮板（热度：4835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23" target="weibo">
-格威踩爆球鞋（热度：4000）
 </a>
 </li>
 

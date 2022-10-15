@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 05:41:14
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 06:25:34
 </p>
 </blockquote>
 <p>
@@ -6279,6 +6279,12 @@ JDG战胜G2（热度：121540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
+爸爸连夜为儿子做课文中的竹节人（热度：114032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C9%E6%88%98%E8%83%9CFNC%23" target="weibo">
 C9战胜FNC（热度：113790）
 </a>
@@ -6413,12 +6419,6 @@ gidle新歌MV预告（热度：113270）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%8F%AD%E5%B9%95%E6%88%98%23" target="weibo">
 CBA新赛季揭幕战（热度：108086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
-爸爸连夜为儿子做课文中的竹节人（热度：108035）
 </a>
 </li>
 
@@ -7317,6 +7317,12 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
+美国再提供7.25亿美元对乌军事援助（热度：62493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E8%A7%82%E6%B5%8B%E6%9C%88%E4%BA%AE%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E6%9C%88%E4%B8%8A%E9%9B%81%E5%BD%B1%23" target="weibo">
 师生观测月亮意外拍到月上雁影（热度：61901）
 </a>
@@ -7535,12 +7541,6 @@ DK战胜EG（热度：54436）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E4%B8%BE%E8%B5%B7%E6%96%AF%E9%9F%A6%E6%80%9D%E6%9E%97%E6%9D%AF%23" target="weibo">
 国乒男团举起斯韦思林杯（热度：47801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
-美国再提供7.25亿美元对乌军事援助（热度：47706）
 </a>
 </li>
 
@@ -7839,6 +7839,12 @@ EG对战DK（热度：18287）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
+南疆军区无人机空中侦察首次实飞（热度：16553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%E7%9A%84%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
 追光者的观后感（热度：16256）
 </a>
@@ -7911,12 +7917,6 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
-南疆军区无人机空中侦察首次实飞（热度：12007）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232%E4%B8%AA%E5%8A%A8%E4%BD%9C%E5%A2%9E%E5%BC%BA%E8%83%8C%E8%82%8C%23" target="weibo">
 2个动作增强背肌（热度：11443）
 </a>
@@ -7925,6 +7925,12 @@ NH大满贯（热度：13764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E7%BA%AA%E5%BF%B5%E9%82%AE%E7%A5%A810%E6%9C%8816%E6%97%A5%E5%8F%91%E8%A1%8C%23" target="weibo">
 二十大纪念邮票10月16日发行（热度：10871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23" target="weibo">
+库里庆祝后滑倒（热度：10360）
 </a>
 </li>
 
@@ -7959,12 +7965,6 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23" target="weibo">
-库里庆祝后滑倒（热度：8315）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%238000%E5%85%83%E7%8E%B0%E9%87%91%E4%B8%A2%E5%A4%B1%E6%B0%91%E8%AD%A6%E5%8F%91%E7%8E%B0%E5%B0%8F%E7%8C%AB%E4%BD%9C%E6%A1%88%23" target="weibo">
 8000元现金丢失民警发现小猫作案（热度：8280）
 </a>
@@ -7985,6 +7985,12 @@ NH大满贯（热度：13764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%B0%91%E5%B9%B4%E8%BA%AB%E6%95%85%E5%99%A8%E5%AE%98%E5%85%A8%E9%83%A8%E6%8D%90%E7%8C%AE%23" target="weibo">
 16岁少年身故器官全部捐献（热度：7717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23" target="weibo">
+格威踩爆球鞋（热度：7513）
 </a>
 </li>
 
@@ -8019,6 +8025,12 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23" target="weibo">
+施罗德手指受伤（热度：6600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%B9%BF%E5%B7%9E%E7%94%B7%E7%AF%AE%E9%A6%96%E7%A7%80%23" target="weibo">
 林书豪广州男篮首秀（热度：6579）
 </a>
@@ -8045,12 +8057,6 @@ NH大满贯（热度：13764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%B0%E5%BA%95%E7%9C%8B%E4%BA%86%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E7%89%87%23" target="weibo">
 王一博到底看了多少动画片（热度：6457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23" target="weibo">
-施罗德手指受伤（热度：6445）
 </a>
 </li>
 
@@ -8309,12 +8315,6 @@ GDP稳居河南前三的选手（热度：6201）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Mate50E%E8%AF%84%E6%B5%8B%23" target="weibo">
 Mate50E评测（热度：4112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23" target="weibo">
-格威踩爆球鞋（热度：4000）
 </a>
 </li>
 

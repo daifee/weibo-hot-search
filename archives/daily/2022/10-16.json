@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665870074889,
+  "endTime": 1665872734614,
   "band_list": [
     {
       "raw_hot": 915977,
@@ -203,7 +203,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 108035,
+      "raw_hot": 114032,
       "num": 108035,
       "word": "爸爸连夜为儿子做课文中的竹节人",
       "onboard_time": 1665853638,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62493,
+      "num": 34702,
+      "word": "美国再提供7.25亿美元对乌军事援助",
+      "onboard_time": 1665860593,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 61503,
       "num": 61503,
       "word": "未来50年国际关系中最重要的事",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 54560,
-      "num": 15458,
+      "num": 23768,
       "word": "男子躲高铁厕所抽烟被行拘5日",
       "onboard_time": 1665863590,
       "rank": 27,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 54436,
-      "num": 15619,
+      "num": 32573,
       "word": "DK战胜EG",
       "onboard_time": 1665862931,
       "rank": 10,
@@ -361,14 +369,6 @@
       "onboard_time": 1665809303,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47706,
-      "num": 22634,
-      "word": "美国再提供7.25亿美元对乌军事援助",
-      "onboard_time": 1665860593,
-      "rank": 41,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 46662,
@@ -435,6 +435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 24136,
+      "num": 24136,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -451,20 +459,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 13402,
-      "num": 13402,
-      "word": "乘客公交车上晕倒女护士跪地抢救",
-      "onboard_time": 1665835224,
-      "rank": 35,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12007,
-      "num": 12007,
+      "raw_hot": 16553,
+      "num": 16553,
       "word": "南疆军区无人机空中侦察首次实飞",
       "onboard_time": 1665865150,
       "rank": 42,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 10360,
+      "num": 10360,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10168,
@@ -483,11 +491,11 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 8315,
-      "num": 8315,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
+      "raw_hot": 7513,
+      "num": 7513,
+      "word": "格威踩爆球鞋",
+      "onboard_time": 1665864550,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -499,8 +507,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 6445,
-      "num": 6445,
+      "raw_hot": 6600,
+      "num": 6600,
       "word": "施罗德手指受伤",
       "onboard_time": 1665864550,
       "rank": 45,
@@ -600,14 +608,6 @@
       "word": "利夫21分20篮板",
       "onboard_time": 1665865331,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4000,
-      "num": 5085,
-      "word": "格威踩爆球鞋",
-      "onboard_time": 1665864550,
-      "rank": 48,
       "category": "体育"
     }
   ],
