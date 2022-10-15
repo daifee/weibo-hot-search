@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665830753718,
+  "endTime": 1665832847053,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1664981302,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1319302,
+      "num": 559529,
+      "word": "二十大发言人回应疫情防控",
+      "onboard_time": 1665828144,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1318290,
@@ -2625,14 +2633,6 @@
       "onboard_time": 1665459625,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 864507,
-      "num": 275610,
-      "word": "二十大发言人回应疫情防控",
-      "onboard_time": 1665828144,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 863896,
@@ -4115,6 +4115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 652158,
+      "num": 211769,
+      "word": "统一有好处台独是绝路",
+      "onboard_time": 1665830665,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 651845,
       "num": 651845,
       "word": "王一博演我嗑cp",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1665435252,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641856,
+      "num": 620176,
+      "word": "二十大",
+      "onboard_time": 1665825984,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 641448,
@@ -5041,14 +5057,6 @@
       "onboard_time": 1665640464,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560415,
-      "num": 620176,
-      "word": "二十大",
-      "onboard_time": 1665825984,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 560058,
@@ -8649,6 +8657,14 @@
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 366602,
+      "num": 211212,
+      "word": "外卖有头发老板带员工剪寸头",
+      "onboard_time": 1665829524,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365150,
@@ -15171,6 +15187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190977,
+      "num": 190977,
+      "word": "女子投喂流浪猫1年获赠仓鼠",
+      "onboard_time": 1665831622,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190820,
       "num": 190820,
       "word": "退伍军人救落水女童累到无法上岸",
@@ -15987,6 +16011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 173913,
+      "num": 173913,
+      "word": "内娱国风氛围感大赏",
+      "onboard_time": 1665828324,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173907,
       "num": 173907,
       "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
@@ -16528,14 +16560,6 @@
       "word": "广东将加入降温群聊",
       "onboard_time": 1665187642,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163446,
-      "num": 163446,
-      "word": "外卖有头发老板带员工剪寸头",
-      "onboard_time": 1665829524,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -18283,14 +18307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138097,
-      "num": 138097,
-      "word": "内娱国风氛围感大赏",
-      "onboard_time": 1665828324,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "原来小鸭也是要哄的",
@@ -18539,6 +18555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134621,
+      "num": 134621,
+      "word": "周琦NBL新赛季首秀",
+      "onboard_time": 1665827785,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134409,
       "num": 134409,
       "word": "王一博街舞5幕后随拍vlog",
@@ -18688,14 +18712,6 @@
       "word": "辽宁男篮vs深圳男篮",
       "onboard_time": 1665062665,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 131645,
-      "num": 131645,
-      "word": "周琦NBL新赛季首秀",
-      "onboard_time": 1665827785,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -18985,14 +19001,6 @@
       "onboard_time": 1665580765,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127039,
-      "num": 127039,
-      "word": "统一有好处台独是绝路",
-      "onboard_time": 1665830665,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 126851,
@@ -19603,6 +19611,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 118847,
+      "num": 118847,
+      "word": "二十大发言人回应非和平方式统一",
+      "onboard_time": 1665832104,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 118823,
       "num": 118823,
       "word": "李沁晒照告别请君",
@@ -19889,6 +19905,14 @@
       "onboard_time": 1665505700,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114561,
+      "num": 114561,
+      "word": "周琦抓帽",
+      "onboard_time": 1665831445,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 114518,
@@ -21331,6 +21355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92846,
+      "num": 92846,
+      "word": "未来50年国际关系中最重要的事",
+      "onboard_time": 1665832164,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 92831,
       "num": 92831,
       "word": "真心话大冒险的高阶玩法",
@@ -22371,6 +22403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76924,
+      "num": 76924,
+      "word": "小伙航拍杭州酷似数字0到9的建筑",
+      "onboard_time": 1665830785,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76567,
       "num": 76567,
       "word": "电影万里归途细节",
@@ -22721,6 +22761,14 @@
       "onboard_time": 1665730882,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71465,
+      "num": 71465,
+      "word": "羡慕猫咪的睡眠质量",
+      "onboard_time": 1665832345,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 71384,
@@ -23659,6 +23707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53667,
+      "num": 587831,
+      "word": "一支红绸舞串起祖国的大好河山",
+      "onboard_time": 1665828985,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 53455,
       "num": 53455,
       "word": "央视专访钱七虎",
@@ -24515,6 +24571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30554,
+      "num": 177919,
+      "word": "消防员护士夫妻出游遇车祸勇救6人",
+      "onboard_time": 1665831683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -24665,14 +24729,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21033,
-      "num": 587831,
-      "word": "一支红绸舞串起祖国的大好河山",
-      "onboard_time": 1665828985,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 19434,
