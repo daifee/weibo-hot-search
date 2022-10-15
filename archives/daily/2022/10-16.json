@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665858625074,
+  "endTime": 1665859768165,
   "band_list": [
     {
       "raw_hot": 915977,
@@ -211,6 +211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 92961,
+      "num": 40650,
+      "word": "大众宣布168亿在华投资项目",
+      "onboard_time": 1665856634,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90712,
       "num": 83825,
       "word": "京城十二时辰2收官",
@@ -249,14 +257,6 @@
       "onboard_time": 1665824541,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 71643,
-      "num": 40586,
-      "word": "大众宣布168亿在华投资项目",
-      "onboard_time": 1665856634,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70671,
@@ -409,6 +409,22 @@
       "onboard_time": 1665834862,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8963,
+      "num": 8963,
+      "word": "交警30分钟送断指孩子就医",
+      "onboard_time": 1665858313,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 8662,
+      "num": 8662,
+      "word": "运20生产车间罕见曝光",
+      "onboard_time": 1665859333,
+      "rank": 47,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 6679,

@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665858625074,
+  "endTime": 1665859768165,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -8915,6 +8915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92961,
+      "num": 40650,
+      "word": "大众宣布168亿在华投资项目",
+      "onboard_time": 1665856634,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92928,
       "num": 92928,
       "word": "为什么玩游戏也会破防",
@@ -9497,14 +9505,6 @@
       "onboard_time": 1665715225,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 71643,
-      "num": 40586,
-      "word": "大众宣布168亿在华投资项目",
-      "onboard_time": 1665856634,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71614,
@@ -10529,6 +10529,22 @@
       "onboard_time": 1665511932,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8963,
+      "num": 8963,
+      "word": "交警30分钟送断指孩子就医",
+      "onboard_time": 1665858313,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 8662,
+      "num": 8662,
+      "word": "运20生产车间罕见曝光",
+      "onboard_time": 1665859333,
+      "rank": 47,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 8280,
