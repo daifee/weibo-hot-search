@@ -1,7 +1,15 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665809040056,
+  "endTime": 1665809782331,
   "band_list": [
+    {
+      "raw_hot": 2567487,
+      "num": 566092,
+      "word": "林志颖车祸后首次露面",
+      "onboard_time": 1665808764,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2565347,
       "num": 392048,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1799524,
-      "num": 521723,
+      "num": 719891,
       "word": "爸爸给儿子取名因谐音五十亿走红",
       "onboard_time": 1665802944,
       "rank": 25,
@@ -57,14 +65,6 @@
       "onboard_time": 1665799404,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 822948,
-      "num": 315243,
-      "word": "林志颖车祸后首次露面",
-      "onboard_time": 1665808764,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 801764,
@@ -123,7 +123,7 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 586747,
+      "raw_hot": 594655,
       "num": 202587,
       "word": "二十大最新消息",
       "onboard_time": 1665806122,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 475097,
-      "num": 311441,
+      "num": 318937,
       "word": "王俊凯找不到提问的人",
       "onboard_time": 1665804682,
       "rank": 11,
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404263,
-      "num": 404263,
+      "raw_hot": 415690,
+      "num": 415690,
       "word": "流浪猫睡头盔里女子1周未骑车",
       "onboard_time": 1665805283,
       "rank": 6,
@@ -305,6 +305,14 @@
       "onboard_time": 1665794962,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287610,
+      "num": 287610,
+      "word": "鹿晗徐志胜在脱口秀大会拥抱了",
+      "onboard_time": 1665809543,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 274495,
@@ -555,20 +563,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113494,
+      "num": 113494,
+      "word": "湖人vs国王",
+      "onboard_time": 1665802584,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113270,
       "num": 113270,
       "word": "gidle新歌MV预告",
       "onboard_time": 1665793041,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109745,
-      "num": 109745,
-      "word": "湖人vs国王",
-      "onboard_time": 1665802584,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 106901,
@@ -683,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86282,
+      "num": 86282,
+      "word": "哄睡师包月套餐标价1.8万",
+      "onboard_time": 1665809303,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86278,
       "num": 86278,
       "word": "CBA",
@@ -763,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69986,
+      "num": 745935,
+      "word": "神舟五号成功发射19周年",
+      "onboard_time": 1665808764,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60632,
       "num": 60632,
       "word": "婴幼儿渐冻症救命药入医保70万降至3.3万",
@@ -827,8 +851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45952,
-      "num": 489401,
+      "raw_hot": 46092,
+      "num": 514465,
       "word": "十年逐梦向未来晚会节目单",
       "onboard_time": 1665806062,
       "rank": 4,
@@ -841,14 +865,6 @@
       "onboard_time": 1665776831,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43235,
-      "num": 523716,
-      "word": "神舟五号成功发射19周年",
-      "onboard_time": 1665808764,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42452,
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 38578,
-      "num": 656748,
+      "num": 666022,
       "word": "百秒说非凡十年",
       "onboard_time": 1665755663,
       "rank": 2,
@@ -965,6 +981,9 @@
     },
     {
       "word": "#领航#"
+    },
+    {
+      "word": "#二十大#"
     }
   ]
 }
