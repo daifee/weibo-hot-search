@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665841433161,
+  "endTime": 1665842199370,
   "band_list": [
     {
       "raw_hot": 2704511,
@@ -19,6 +19,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 2492057,
+      "num": 540330,
+      "word": "请在乌克兰的中国公民撤离转移",
+      "onboard_time": 1665840083,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1799524,
       "num": 719891,
       "word": "爸爸给儿子取名因谐音五十亿走红",
@@ -27,16 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1518957,
-      "num": 540330,
-      "word": "请在乌克兰的中国公民撤离转移",
-      "onboard_time": 1665840083,
-      "rank": 3,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1497250,
-      "num": 559529,
+      "num": 608922,
       "word": "二十大发言人回应疫情防控",
       "onboard_time": 1665828144,
       "rank": 10,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 664937,
-      "num": 130436,
+      "num": 149264,
       "word": "Jennie新歌舞台",
       "onboard_time": 1665839662,
       "rank": 20,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 510509,
-      "num": 124803,
+      "num": 136198,
       "word": "罗云熙吴倩片场抱娃花絮",
       "onboard_time": 1665840326,
       "rank": 23,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 451808,
-      "num": 114816,
+      "num": 126254,
       "word": "朴彩英Hardtolove舞台",
       "onboard_time": 1665839662,
       "rank": 26,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 416573,
-      "num": 98177,
+      "num": 105205,
       "word": "金智秀solo舞台直拍",
       "onboard_time": 1665839662,
       "rank": 29,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312691,
+      "num": 219019,
+      "word": "还是会相信爱情的",
+      "onboard_time": 1665837205,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311225,
       "num": 233090,
       "word": "一休息就有负罪感",
@@ -555,12 +563,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 303934,
-      "num": 219019,
-      "word": "还是会相信爱情的",
-      "onboard_time": 1665837205,
+      "raw_hot": 309149,
+      "num": 203124,
+      "word": "90后宝妈用尿素袋运动鞋做格格服",
+      "onboard_time": 1665840445,
       "rank": 18,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298220,
@@ -577,6 +585,14 @@
       "onboard_time": 1665753505,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293578,
+      "num": 95789,
+      "word": "赵露思偷偷藏不住片场热身路透",
+      "onboard_time": 1665842187,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292975,
@@ -601,6 +617,14 @@
       "onboard_time": 1665832104,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 283230,
+      "num": 210239,
+      "word": "这段可以在他们婚礼上放吗",
+      "onboard_time": 1665838823,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 282084,
@@ -675,8 +699,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 241371,
-      "num": 86095,
+      "raw_hot": 242244,
+      "num": 89622,
       "word": "虞书欣对于漂亮的看法",
       "onboard_time": 1665839301,
       "rank": 32,
@@ -739,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210239,
-      "num": 210239,
-      "word": "这段可以在他们婚礼上放吗",
-      "onboard_time": 1665838823,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204616,
       "num": 201178,
       "word": "王一博的疑问三连",
@@ -769,6 +785,14 @@
       "onboard_time": 1665749843,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198312,
+      "num": 75805,
+      "word": "摇滚狂花大结局太好哭了",
+      "onboard_time": 1665838823,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 197245,
@@ -811,12 +835,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187641,
-      "num": 74409,
-      "word": "摇滚狂花大结局太好哭了",
-      "onboard_time": 1665838823,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 189142,
+      "num": 189142,
+      "word": "19岁少女每天记忆被重置",
+      "onboard_time": 1665841285,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184639,
@@ -923,20 +947,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 151268,
+      "num": 65187,
+      "word": "LESSERAFIM新歌舞台初公开",
+      "onboard_time": 1665842007,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 149920,
+      "num": 149920,
+      "word": "20多人自费开车送万斤搁浅鱼到赣江",
+      "onboard_time": 1665841165,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 149762,
       "num": 149762,
       "word": "羡慕猫咪的睡眠质量",
       "onboard_time": 1665832345,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 148572,
-      "num": 148572,
-      "word": "90后宝妈用尿素袋运动鞋做格格服",
-      "onboard_time": 1665840445,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145390,
@@ -1355,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77266,
+      "num": 77266,
+      "word": "母亲自学3D建模打印替去世儿子接单",
+      "onboard_time": 1665841766,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76822,
       "num": 76822,
       "word": "俄媒称俄博主冒充美官员与乌外长连线",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1665719005,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 71143,
+      "num": 212809,
+      "word": "货车隧道内故障司机教科书式处置",
+      "onboard_time": 1665838884,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71043,
@@ -1435,26 +1483,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58973,
-      "num": 58973,
-      "word": "20多人自费开车送万斤搁浅鱼到赣江",
-      "onboard_time": 1665841165,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 58419,
       "num": 290318,
       "word": "6名大学生紧急救护摔伤男子",
       "onboard_time": 1665820882,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57639,
-      "num": 212809,
-      "word": "货车隧道内故障司机教科书式处置",
-      "onboard_time": 1665838884,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1499,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 51115,
-      "num": 51115,
-      "word": "19岁少女每天记忆被重置",
-      "onboard_time": 1665841285,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50769,
       "num": 50769,
       "word": "TTG",
@@ -1547,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46394,
+      "num": 266299,
+      "word": "跟随新千里江山图走进时代画卷",
+      "onboard_time": 1665835045,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 46092,
       "num": 514465,
       "word": "十年逐梦向未来晚会节目单",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1665824600,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39594,
-      "num": 266299,
-      "word": "跟随新千里江山图走进时代画卷",
-      "onboard_time": 1665835045,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 38578,
