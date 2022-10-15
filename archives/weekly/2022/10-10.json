@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665833933008,
+  "endTime": 1665838101036,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722970,
+      "num": 420750,
+      "word": "二十大主席团常务委员会成员名单",
+      "onboard_time": 1665833844,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 722607,
       "num": 722607,
       "word": "今年豆瓣7分以上的国产剧",
@@ -1684,7 +1692,7 @@
     },
     {
       "raw_hot": 652158,
-      "num": 241650,
+      "num": 279033,
       "word": "统一有好处台独是绝路",
       "onboard_time": 1665830665,
       "rank": 27,
@@ -2811,6 +2819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453548,
+      "num": 252412,
+      "word": "中国过冬八件套被欧洲买爆",
+      "onboard_time": 1665835405,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452972,
       "num": 452972,
       "word": "杨颖登封ELLE11月刊",
@@ -3563,6 +3579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370000,
+      "num": 240626,
+      "word": "女子投喂流浪猫1年获赠仓鼠",
+      "onboard_time": 1665831622,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369530,
       "num": 369530,
       "word": "许凯虞书欣仙剑六空中吻戏路透",
@@ -4059,14 +4083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321047,
-      "num": 213750,
-      "word": "女子投喂流浪猫1年获赠仓鼠",
-      "onboard_time": 1665831622,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320813,
       "num": 320813,
       "word": "唐宫夜宴",
@@ -4185,6 +4201,14 @@
       "onboard_time": 1665372263,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311225,
+      "num": 233090,
+      "word": "一休息就有负罪感",
+      "onboard_time": 1665833006,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 311096,
@@ -5619,14 +5643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213877,
-      "num": 141242,
-      "word": "二十大主席团常务委员会成员名单",
-      "onboard_time": 1665833844,
-      "rank": 22,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 213540,
       "num": 213540,
       "word": "湖人季前赛47分不敌国王",
@@ -6161,6 +6177,14 @@
       "onboard_time": 1665500728,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191947,
+      "num": 191947,
+      "word": "未来50年国际关系中最重要的事",
+      "onboard_time": 1665832164,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 191908,
@@ -6947,6 +6971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155426,
+      "num": 155426,
+      "word": "党的二十大举行预备会议",
+      "onboard_time": 1665834862,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 155397,
       "num": 155397,
       "word": "男子为采摘石榴差点飞出房顶",
@@ -6969,6 +7001,14 @@
       "onboard_time": 1665630624,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154106,
+      "num": 154106,
+      "word": "还是会相信爱情的",
+      "onboard_time": 1665837205,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 154088,
@@ -7089,6 +7129,14 @@
       "onboard_time": 1665412766,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149762,
+      "num": 149762,
+      "word": "羡慕猫咪的睡眠质量",
+      "onboard_time": 1665832345,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149486,
@@ -7323,6 +7371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141521,
+      "num": 141521,
+      "word": "广东男篮vs深圳男篮",
+      "onboard_time": 1665833243,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141169,
       "num": 141169,
       "word": "我的秘密室友定档",
@@ -7345,14 +7401,6 @@
       "onboard_time": 1665404784,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140169,
-      "num": 140169,
-      "word": "未来50年国际关系中最重要的事",
-      "onboard_time": 1665832164,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 139758,
@@ -8067,14 +8115,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 113334,
-      "num": 113334,
-      "word": "一休息就有负罪感",
-      "onboard_time": 1665833006,
-      "rank": 28,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 113270,
       "num": 113270,
       "word": "gidle新歌MV预告",
@@ -8787,14 +8827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87381,
-      "num": 87381,
-      "word": "羡慕猫咪的睡眠质量",
-      "onboard_time": 1665832345,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 87144,
       "num": 87144,
       "word": "它肯定梦到好吃的了",
@@ -9123,6 +9155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75409,
+      "num": 205544,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74768,
       "num": 74768,
       "word": "EDG战胜C9",
@@ -9289,14 +9329,6 @@
       "onboard_time": 1665486142,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65953,
-      "num": 65953,
-      "word": "广东男篮vs深圳男篮",
-      "onboard_time": 1665833243,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 65864,
@@ -9489,6 +9521,14 @@
       "onboard_time": 1665396085,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56284,
+      "num": 387209,
+      "word": "170秒看十年间中国新坐标崛起",
+      "onboard_time": 1665835045,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 55974,
@@ -9913,6 +9953,14 @@
       "onboard_time": 1665651625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28948,
+      "num": 266299,
+      "word": "跟随新千里江山图走进时代画卷",
+      "onboard_time": 1665835045,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 28216,
