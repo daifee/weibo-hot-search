@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665847617190,
+  "endTime": 1665848743383,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1979,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594372,
+      "num": 121279,
+      "word": "张艺兴演唱会把文化输出玩明白了",
+      "onboard_time": 1665848485,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 593624,
       "num": 388972,
       "word": "联大紧急特别会议就乌克兰问题通过决议",
@@ -2184,6 +2192,14 @@
       "word": "多地支持农民进城购房",
       "onboard_time": 1665622585,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553328,
+      "num": 184872,
+      "word": "研究发现肥胖会在亲友间传染",
+      "onboard_time": 1665846205,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2947,6 +2963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446482,
+      "num": 138616,
+      "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
+      "onboard_time": 1665845067,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445809,
       "num": 445809,
       "word": "姚晨新剧被女儿推下水",
@@ -2984,14 +3008,6 @@
       "word": "母亲穿西装送女儿出嫁被当成闺蜜",
       "onboard_time": 1665323785,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440891,
-      "num": 138616,
-      "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
-      "onboard_time": 1665845067,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3739,6 +3755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 363098,
+      "num": 331483,
+      "word": "大闸蟹这么吃就对了",
+      "onboard_time": 1665844348,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361568,
       "num": 361568,
       "word": "FNC对战EDG",
@@ -4067,14 +4091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 331483,
-      "num": 331483,
-      "word": "大闸蟹这么吃就对了",
-      "onboard_time": 1665844348,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 331325,
       "num": 331325,
       "word": "影帝走红毯是都这么忙吗",
@@ -4097,6 +4113,14 @@
       "onboard_time": 1665759027,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329364,
+      "num": 116597,
+      "word": "安宥真lovedive舞台",
+      "onboard_time": 1665848066,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 329287,
@@ -4353,6 +4377,14 @@
       "onboard_time": 1665559464,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305366,
+      "num": 179086,
+      "word": "女子自购贴纸遮挡违法代孕信息",
+      "onboard_time": 1665846205,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 303630,
@@ -4899,6 +4931,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 263680,
+      "num": 184751,
+      "word": "高校神仙颜值老师上课惊叹学生",
+      "onboard_time": 1665846026,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 263674,
       "num": 263674,
       "word": "3岁截肢男孩爬行跟爸爸相拥",
@@ -5105,14 +5145,6 @@
       "onboard_time": 1665730824,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252955,
-      "num": 184872,
-      "word": "研究发现肥胖会在亲友间传染",
-      "onboard_time": 1665846205,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252952,
@@ -6019,12 +6051,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 205323,
-      "num": 137513,
-      "word": "女子自购贴纸遮挡违法代孕信息",
-      "onboard_time": 1665846205,
-      "rank": 25,
-      "category": "社会正能量"
+      "raw_hot": 205294,
+      "num": 115795,
+      "word": "二十大是个什么会",
+      "onboard_time": 1665847526,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 205237,
@@ -6081,6 +6113,14 @@
       "onboard_time": 1665623306,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203566,
+      "num": 168206,
+      "word": "一只很善良的小猫",
+      "onboard_time": 1665846148,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 203544,
@@ -6505,14 +6545,6 @@
       "onboard_time": 1665692051,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184751,
-      "num": 184751,
-      "word": "高校神仙颜值老师上课惊叹学生",
-      "onboard_time": 1665846026,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 184639,
@@ -7081,14 +7113,6 @@
       "onboard_time": 1665538104,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158505,
-      "num": 158505,
-      "word": "一只很善良的小猫",
-      "onboard_time": 1665846148,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 157863,
@@ -8819,6 +8843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96923,
+      "num": 96923,
+      "word": "父母的哪句话让你瞬间破防",
+      "onboard_time": 1665845485,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96010,
       "num": 96010,
       "word": "Meiko锤石三连MVP",
@@ -8841,14 +8873,6 @@
       "onboard_time": 1665333439,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95408,
-      "num": 95408,
-      "word": "父母的哪句话让你瞬间破防",
-      "onboard_time": 1665845485,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 94754,
@@ -9459,14 +9483,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 71777,
-      "num": 71777,
-      "word": "二十大是个什么会",
-      "onboard_time": 1665847526,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 71614,
       "num": 337248,
       "word": "路遇走失男孩市民守护女儿陪玩",
@@ -9699,6 +9715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61548,
+      "num": 61548,
+      "word": "90后学霸10年参加上百次发射任务",
+      "onboard_time": 1665847886,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 61329,
       "num": 61329,
       "word": "林志炫许靖韵秋意浓",
@@ -9868,7 +9892,7 @@
     },
     {
       "raw_hot": 52420,
-      "num": 47345,
+      "num": 47711,
       "word": "姚晨晒照告别摇滚狂花",
       "onboard_time": 1665844947,
       "rank": 48,
