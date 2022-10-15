@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665819821387,
+  "endTime": 1665822809792,
   "band_list": [
     {
       "raw_hot": 2704511,
@@ -57,6 +57,22 @@
       "onboard_time": 1665798984,
       "rank": 7,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 860722,
+      "num": 314785,
+      "word": "金高银翻跳了HypeBoy",
+      "onboard_time": 1665821060,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 851374,
+      "num": 300358,
+      "word": "东京9个火葬场6个被中国资本控股",
+      "onboard_time": 1665820703,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 837920,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441382,
+      "num": 382163,
+      "word": "96岁老人李小龙式亮相惊呆摄影师",
+      "onboard_time": 1665820100,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440667,
       "num": 440667,
       "word": "英国首相特拉斯解雇财政大臣",
@@ -281,6 +305,14 @@
       "onboard_time": 1665814704,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419358,
+      "num": 381100,
+      "word": "68岁重庆嬢嬢把钩钩针做成了非遗",
+      "onboard_time": 1665816743,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415690,
@@ -307,12 +339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385715,
+      "num": 293858,
+      "word": "BLACKPINK今晚演唱会表演顺序",
+      "onboard_time": 1665821423,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385185,
       "num": 385185,
       "word": "女子炸糍粑结果全都砰砰蹦出锅",
       "onboard_time": 1665754884,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379810,
+      "num": 379810,
+      "word": "LGD",
+      "onboard_time": 1665821360,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 370858,
@@ -379,12 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284064,
-      "num": 284064,
-      "word": "68岁重庆嬢嬢把钩钩针做成了非遗",
-      "onboard_time": 1665816743,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 284181,
+      "num": 284181,
+      "word": "王一博骑摩托艇把街舞导演甩水里了",
+      "onboard_time": 1665821661,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 282084,
@@ -433,6 +481,14 @@
       "onboard_time": 1665735024,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235224,
+      "num": 235224,
+      "word": "活得还没10后小朋友明白",
+      "onboard_time": 1665817942,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 215338,
@@ -531,6 +587,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165119,
+      "num": 165119,
+      "word": "3分钟看懂二十大怎么开",
+      "onboard_time": 1665818361,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "蔡徐坤蒙面造型",
+      "onboard_time": 1665820222,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163134,
       "num": 163134,
       "word": "球王梅西将迎谢幕战",
@@ -563,14 +635,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 156886,
-      "num": 156886,
-      "word": "3分钟看懂二十大怎么开",
-      "onboard_time": 1665818361,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 155397,
       "num": 155397,
       "word": "男子为采摘石榴差点飞出房顶",
@@ -587,20 +651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144617,
-      "num": 144617,
-      "word": "活得还没10后小朋友明白",
-      "onboard_time": 1665817942,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144587,
       "num": 144587,
       "word": "男子超市买零食礼包打开全是冒牌货",
       "onboard_time": 1665776172,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143640,
+      "num": 143640,
+      "word": "将盆栽越坐越歪的猫咪",
+      "onboard_time": 1665820641,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 139334,
@@ -772,7 +836,7 @@
     },
     {
       "raw_hot": 105577,
-      "num": 105577,
+      "num": 386542,
       "word": "二十大知识帖",
       "onboard_time": 1665800062,
       "rank": 42,
@@ -1003,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55924,
+      "num": 55924,
+      "word": "这灯是不是亮的不是时候",
+      "onboard_time": 1665822742,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55144,
       "num": 55144,
       "word": "冷空气又双叒要来了",
@@ -1048,6 +1120,14 @@
       "word": "遗忘15年股票找回后1万变50万",
       "onboard_time": 1665726144,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47261,
+      "num": 290318,
+      "word": "6名大学生紧急救护摔伤男子",
+      "onboard_time": 1665820882,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1107,7 +1187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19201,
+      "raw_hot": 22896,
       "num": 409312,
       "word": "巾帼指挥官侯静见证中国海油的十年跨越",
       "onboard_time": 1665814883,
@@ -1203,6 +1283,9 @@
     },
     {
       "word": "#党的二十大将于16日10时在京举行#"
+    },
+    {
+      "word": "#党的二十大新闻发布会#"
     }
   ]
 }
