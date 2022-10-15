@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665791220688,
+  "endTime": 1665801365635,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2043,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1003208,
+      "num": 623239,
+      "word": "369河道剑魔",
+      "onboard_time": 1665798264,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1000872,
       "num": 687499,
       "word": "iPhone14车祸检测坐过山车会报警",
@@ -2288,6 +2296,14 @@
       "word": "距离下个假期还有85天",
       "onboard_time": 1665146602,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943502,
+      "num": 382096,
+      "word": "10月14日新增900例本土无症状",
+      "onboard_time": 1665797845,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2657,6 +2673,14 @@
       "onboard_time": 1665639505,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837920,
+      "num": 837920,
+      "word": "JDG战胜DK",
+      "onboard_time": 1665285324,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 837615,
@@ -3160,6 +3184,14 @@
       "word": "5岁男孩半夜上完厕所趴狗窝睡觉",
       "onboard_time": 1665299001,
       "rank": 24,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 749814,
+      "num": 547948,
+      "word": "狗狗帮看菜摊遇顾客露假笑",
+      "onboard_time": 1665796043,
+      "rank": 5,
       "category": "社会新闻,幽默"
     },
     {
@@ -3881,6 +3913,14 @@
       "onboard_time": 1665485664,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660534,
+      "num": 660534,
+      "word": "屠呦呦为测青蒿素安全性曾以身试药",
+      "onboard_time": 1665793883,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 659616,
@@ -5107,6 +5147,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 540855,
+      "num": 540855,
+      "word": "废矿井发现140年前牛仔裤拍出62万",
+      "onboard_time": 1665791778,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540431,
       "num": 540431,
       "word": "TMA",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1665196941,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539700,
+      "num": 381406,
+      "word": "TES",
+      "onboard_time": 1665800122,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 539609,
@@ -5483,6 +5539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 510820,
+      "num": 380434,
+      "word": "人民日报任仲平",
+      "onboard_time": 1665793521,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 510146,
       "num": 363607,
       "word": "美国两名幼童被家中两只比特犬咬死",
@@ -5795,12 +5859,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 484636,
-      "num": 451809,
-      "word": "JDG战胜DK",
-      "onboard_time": 1665285324,
-      "rank": 9,
-      "category": "游戏"
+      "raw_hot": 483247,
+      "num": 483247,
+      "word": "总感觉你不太开心",
+      "onboard_time": 1665798984,
+      "rank": 7,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 482995,
@@ -6609,6 +6673,14 @@
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 444517,
+      "num": 444517,
+      "word": "奖励优秀生的小猪9月后卖了4000元",
+      "onboard_time": 1665792502,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444173,
@@ -7931,6 +8003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382977,
+      "num": 382977,
+      "word": "真诚的人真的很加分",
+      "onboard_time": 1665796884,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382331,
       "num": 382331,
       "word": "分享欲本身就是爱和热情",
@@ -9187,6 +9267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329900,
+      "num": 329900,
+      "word": "胡歌繁花从30多岁拍到40岁",
+      "onboard_time": 1665759027,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329287,
       "num": 329287,
       "word": "刘诗诗刘宇宁新剧搭肩撑伞路透",
@@ -10115,6 +10203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291990,
+      "num": 291990,
+      "word": "你们是懂聊天的",
+      "onboard_time": 1665794962,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291975,
       "num": 291975,
       "word": "苹果将修复iPhone14Pro通知延迟",
@@ -10601,14 +10697,6 @@
       "onboard_time": 1665470363,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275917,
-      "num": 251610,
-      "word": "胡歌繁花从30多岁拍到40岁",
-      "onboard_time": 1665759027,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275868,
@@ -12091,6 +12179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244631,
+      "num": 244631,
+      "word": "10月14日新增291例本土确诊",
+      "onboard_time": 1665797905,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244512,
       "num": 244512,
       "word": "这狗子是真的欠啊",
@@ -13457,6 +13553,14 @@
       "onboard_time": 1665033142,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214622,
+      "num": 214622,
+      "word": "倒钩",
+      "onboard_time": 1665800723,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 214153,
@@ -15771,6 +15875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170037,
+      "num": 170037,
+      "word": "换乘恋爱2",
+      "onboard_time": 1665791301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169664,
       "num": 169664,
       "word": "波士顿动力承诺不将机器人武器化",
@@ -17683,6 +17795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139334,
+      "num": 139334,
+      "word": "JDG和DK加赛",
+      "onboard_time": 1665799761,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139313,
       "num": 139313,
       "word": "李一桐哭戏爆发力",
@@ -18081,6 +18201,14 @@
       "onboard_time": 1665170412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133085,
+      "num": 131113,
+      "word": "JDG晋级八强",
+      "onboard_time": 1665790699,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 132359,
@@ -19259,6 +19387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115118,
+      "num": 115118,
+      "word": "东北人训狗名场面",
+      "onboard_time": 1665789857,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "许光汉林柏宏新片先导预告",
@@ -19353,6 +19489,14 @@
       "onboard_time": 1665686771,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 113270,
+      "num": 113270,
+      "word": "gidle新歌MV预告",
+      "onboard_time": 1665793041,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 113267,
@@ -19891,6 +20035,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 105577,
+      "num": 105577,
+      "word": "二十大知识帖",
+      "onboard_time": 1665800062,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 105552,
       "num": 105552,
       "word": "龚俊新歌小小的肩膀",
@@ -20009,14 +20161,6 @@
       "onboard_time": 1664810484,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103841,
-      "num": 103841,
-      "word": "东北人训狗名场面",
-      "onboard_time": 1665789857,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 103626,
@@ -20329,6 +20473,14 @@
       "onboard_time": 1665500905,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 99413,
+      "num": 99413,
+      "word": "炽道",
+      "onboard_time": 1665791599,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 99408,
@@ -20715,6 +20867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92163,
+      "num": 92163,
+      "word": "NBA季前赛",
+      "onboard_time": 1664602760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92135,
       "num": 92135,
       "word": "妈妈紧贴着烈士儿子画像痛哭不止",
@@ -20979,14 +21139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88113,
-      "num": 75775,
-      "word": "JDG晋级八强",
-      "onboard_time": 1665790699,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88085,
       "num": 88085,
       "word": "女篮决赛的国歌大合唱太震撼",
@@ -21225,6 +21377,14 @@
       "onboard_time": 1665392484,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84810,
+      "num": 84810,
+      "word": "胖达人 进化论",
+      "onboard_time": 1665793703,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 84798,
@@ -23507,14 +23667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39242,
-      "num": 39242,
-      "word": "NBA季前赛",
-      "onboard_time": 1664602760,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39186,
       "num": 39186,
       "word": "沈小婷wefresh武术镜头",
@@ -23537,6 +23689,14 @@
       "onboard_time": 1665739103,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 38578,
+      "num": 1004562,
+      "word": "百秒说非凡十年",
+      "onboard_time": 1665755663,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38161,
@@ -23633,6 +23793,14 @@
       "onboard_time": 1665003790,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 35383,
+      "num": 595653,
+      "word": "中国速度奔赴时代之约",
+      "onboard_time": 1665797244,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35077,
@@ -23801,14 +23969,6 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26165,
-      "num": 1004562,
-      "word": "百秒说非凡十年",
-      "onboard_time": 1665755663,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25619,

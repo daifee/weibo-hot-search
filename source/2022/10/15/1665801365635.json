@@ -1,0 +1,410 @@
+{
+  "runTime": 1665801365635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837920,
+        "num": 837920,
+        "word": "JDG战胜DK",
+        "onboard_time": 1665799404,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 660534,
+        "num": 660534,
+        "word": "屠呦呦为测青蒿素安全性曾以身试药",
+        "onboard_time": 1665793883,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 38578,
+        "num": 656748,
+        "word": "百秒说非凡十年",
+        "onboard_time": 1665755663,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003208,
+        "num": 623239,
+        "word": "369河道剑魔",
+        "onboard_time": 1665798264,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35383,
+        "num": 595653,
+        "word": "中国速度奔赴时代之约",
+        "onboard_time": 1665797244,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749814,
+        "num": 547948,
+        "word": "狗狗帮看菜摊遇顾客露假笑",
+        "onboard_time": 1665796043,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 540855,
+        "num": 540855,
+        "word": "废矿井发现140年前牛仔裤拍出62万",
+        "onboard_time": 1665791778,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483247,
+        "num": 483247,
+        "word": "总感觉你不太开心",
+        "onboard_time": 1665798984,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 444517,
+        "num": 444517,
+        "word": "奖励优秀生的小猪9月后卖了4000元",
+        "onboard_time": 1665792502,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382977,
+        "num": 382977,
+        "word": "真诚的人真的很加分",
+        "onboard_time": 1665796884,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1507248,
+        "num": 382760,
+        "word": "哈利波特海格扮演者去世",
+        "onboard_time": 1665768016,
+        "rank": 10,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 943502,
+        "num": 382096,
+        "word": "10月14日新增900例本土无症状",
+        "onboard_time": 1665797845,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539700,
+        "num": 381406,
+        "word": "TES",
+        "onboard_time": 1665800122,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 510820,
+        "num": 380434,
+        "word": "人民日报任仲平",
+        "onboard_time": 1665793521,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 380143,
+        "num": 380143,
+        "word": "梵高名画向日葵被泼番茄罐头",
+        "onboard_time": 1665757644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329900,
+        "num": 329900,
+        "word": "胡歌繁花从30多岁拍到40岁",
+        "onboard_time": 1665759027,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295953,
+        "num": 295953,
+        "word": "美国俩父亲争吵开枪互射对方女儿",
+        "onboard_time": 1665753505,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291990,
+        "num": 291990,
+        "word": "你们是懂聊天的",
+        "onboard_time": 1665794962,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244631,
+        "num": 244631,
+        "word": "10月14日新增291例本土确诊",
+        "onboard_time": 1665797905,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233256,
+        "num": 233256,
+        "word": "男子心跳停1小时医生持续抢救成功",
+        "onboard_time": 1665755364,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 221489,
+        "num": 221489,
+        "word": "真正的美貌从来不存在艳压",
+        "onboard_time": 1665746842,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "倒钩",
+        "onboard_time": 1665800723,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 204724,
+        "num": 204724,
+        "word": "鹿晗录制脱口秀大会总决赛",
+        "onboard_time": 1665752604,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202180,
+        "num": 202180,
+        "word": "日本男子出租自己4年赚近200万",
+        "onboard_time": 1665748643,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201578,
+        "num": 201578,
+        "word": "女子炸糍粑结果全都砰砰蹦出锅",
+        "onboard_time": 1665754884,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189867,
+        "num": 189867,
+        "word": "东北一串店禁玩手机每人低消10串",
+        "onboard_time": 1665749843,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183128,
+        "num": 183128,
+        "word": "一到冬天就会得这种病",
+        "onboard_time": 1665761484,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170037,
+        "num": 170037,
+        "word": "换乘恋爱2",
+        "onboard_time": 1665791301,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165943,
+        "num": 165943,
+        "word": "同事都有对象单身女服务员趴桌大哭",
+        "onboard_time": 1665763463,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154319,
+        "num": 154319,
+        "word": "一直不谈恋爱会等到很好的人吗",
+        "onboard_time": 1665745104,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152342,
+        "num": 152342,
+        "word": "詹雯婷从我们的爱到诀爱",
+        "onboard_time": 1665758245,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139334,
+        "num": 139334,
+        "word": "JDG和DK加赛",
+        "onboard_time": 1665799761,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135593,
+        "num": 135593,
+        "word": "高校通报教师图书馆打电话声音过大出言不逊",
+        "onboard_time": 1665749181,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132117,
+        "num": 132117,
+        "word": "球王梅西将迎谢幕战",
+        "onboard_time": 1665781690,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133085,
+        "num": 131113,
+        "word": "JDG晋级八强",
+        "onboard_time": 1665790699,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129939,
+        "num": 129939,
+        "word": "月球在过去25亿年里不断远离地球",
+        "onboard_time": 1665780130,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123347,
+        "num": 123347,
+        "word": "英国首相特拉斯解雇财政大臣",
+        "onboard_time": 1665759926,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116392,
+        "num": 116392,
+        "word": "浙大女孩14年从电表工成长为劳模",
+        "onboard_time": 1665760407,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 115118,
+        "word": "东北人训狗名场面",
+        "onboard_time": 1665789857,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113356,
+        "num": 113356,
+        "word": "男子超市买零食礼包打开全是冒牌货",
+        "onboard_time": 1665776172,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113270,
+        "num": 113270,
+        "word": "gidle新歌MV预告",
+        "onboard_time": 1665793041,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110850,
+        "num": 110850,
+        "word": "男子为采摘石榴差点飞出房顶",
+        "onboard_time": 1665780011,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105577,
+        "num": 105577,
+        "word": "二十大知识帖",
+        "onboard_time": 1665800062,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100095,
+        "num": 100095,
+        "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
+        "onboard_time": 1665735024,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99413,
+        "num": 99413,
+        "word": "炽道",
+        "onboard_time": 1665791599,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92299,
+        "num": 92299,
+        "word": "00后中专生每天训练5小时逆袭北大",
+        "onboard_time": 1665743303,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92163,
+        "num": 92163,
+        "word": "NBA季前赛",
+        "onboard_time": 1665797484,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89992,
+        "num": 89992,
+        "word": "72岁谭咏麟每周踢4场球",
+        "onboard_time": 1665789076,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84810,
+        "num": 84810,
+        "word": "胖达人 进化论",
+        "onboard_time": 1665793703,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 81090,
+        "word": "困难时国家给你应急我们必须还上",
+        "onboard_time": 1665769455,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大新闻发布会#"
+    }
+  }
+}
