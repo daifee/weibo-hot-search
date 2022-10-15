@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665801365635,
+  "endTime": 1665803745845,
   "band_list": [
     {
       "raw_hot": 2565347,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912895,
+      "num": 483247,
+      "word": "总感觉你不太开心",
+      "onboard_time": 1665798984,
+      "rank": 7,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 837920,
       "num": 837920,
       "word": "JDG战胜DK",
@@ -51,12 +59,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771337,
+      "num": 381622,
+      "word": "SNKRS",
+      "onboard_time": 1665801743,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 749814,
       "num": 547948,
       "word": "狗狗帮看菜摊遇顾客露假笑",
       "onboard_time": 1665796043,
       "rank": 5,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 743606,
+      "num": 743606,
+      "word": "女生清晨推窗发现桂花铺满院",
+      "onboard_time": 1665801442,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684055,
+      "num": 530214,
+      "word": "TES",
+      "onboard_time": 1665800122,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 661402,
@@ -75,20 +107,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 551151,
+      "num": 376349,
+      "word": "倒钩",
+      "onboard_time": 1665800723,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 540855,
       "num": 540855,
       "word": "废矿井发现140年前牛仔裤拍出62万",
       "onboard_time": 1665791778,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539700,
-      "num": 381406,
-      "word": "TES",
-      "onboard_time": 1665800122,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 536661,
@@ -107,14 +139,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 483247,
-      "num": 483247,
-      "word": "总感觉你不太开心",
-      "onboard_time": 1665798984,
-      "rank": 7,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 480803,
       "num": 480803,
       "word": "一直不谈恋爱会等到很好的人吗",
@@ -129,6 +153,14 @@
       "onboard_time": 1665761484,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450623,
+      "num": 450623,
+      "word": "9位发小全考上博士携手返乡创业",
+      "onboard_time": 1665801622,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444517,
@@ -155,20 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396550,
+      "num": 396550,
+      "word": "10月14日新增291例本土确诊",
+      "onboard_time": 1665797905,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389419,
+      "num": 389419,
+      "word": "真诚的人真的很加分",
+      "onboard_time": 1665796884,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385185,
       "num": 385185,
       "word": "女子炸糍粑结果全都砰砰蹦出锅",
       "onboard_time": 1665754884,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382977,
-      "num": 382977,
-      "word": "真诚的人真的很加分",
-      "onboard_time": 1665796884,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 370858,
@@ -243,28 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244631,
-      "num": 244631,
-      "word": "10月14日新增291例本土确诊",
-      "onboard_time": 1665797905,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238757,
       "num": 266832,
       "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
       "onboard_time": 1665735024,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214622,
-      "num": 214622,
-      "word": "倒钩",
-      "onboard_time": 1665800723,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 200455,
@@ -283,20 +307,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195166,
+      "num": 195166,
+      "word": "换乘恋爱2",
+      "onboard_time": 1665791301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185728,
+      "num": 185728,
+      "word": "爸爸给儿子取名因谐音五十亿走红",
+      "onboard_time": 1665802944,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173742,
       "num": 127092,
       "word": "宫胁咲良LoveShot直拍",
       "onboard_time": 1665758125,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170037,
-      "num": 170037,
-      "word": "换乘恋爱2",
-      "onboard_time": 1665791301,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 163134,
@@ -313,6 +345,14 @@
       "onboard_time": 1665790217,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161916,
+      "num": 161916,
+      "word": "千里眼顺风耳让这对双胞胎占全了",
+      "onboard_time": 1665802344,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155397,
@@ -467,6 +507,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 103541,
+      "num": 103541,
+      "word": "湖人vs国王",
+      "onboard_time": 1665802584,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103045,
+      "num": 103045,
+      "word": "新千里江山图",
+      "onboard_time": 1665803364,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102416,
       "num": 102416,
       "word": "采访阿水记者回应翻译错误",
@@ -520,6 +576,14 @@
       "word": "反复循环杨丞琳和声版暧昧",
       "onboard_time": 1665757406,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90078,
+      "num": 90078,
+      "word": "ICE唱的空空",
+      "onboard_time": 1665801983,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -667,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50759,
+      "num": 595653,
+      "word": "中国速度奔赴时代之约",
+      "onboard_time": 1665797244,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48235,
       "num": 48235,
       "word": "遗忘15年股票找回后1万变50万",
@@ -707,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35383,
-      "num": 595653,
-      "word": "中国速度奔赴时代之约",
-      "onboard_time": 1665797244,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30753,
       "num": 30753,
       "word": "民警下夜勤买炒粉巧遇小偷团伙",
@@ -745,6 +809,14 @@
       "onboard_time": 1665770955,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14582,
+      "num": 361976,
+      "word": "每张被熏黑的脸都是沉甸甸的勋章",
+      "onboard_time": 1665802824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12945,

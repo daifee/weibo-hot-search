@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665801365635,
+  "endTime": 1665803745845,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912895,
+      "num": 483247,
+      "word": "总感觉你不太开心",
+      "onboard_time": 1665798984,
+      "rank": 7,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 912623,
       "num": 809256,
       "word": "九寨沟国庆遇冷7天迎客211人",
@@ -1163,6 +1171,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 771337,
+      "num": 381622,
+      "word": "SNKRS",
+      "onboard_time": 1665801743,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 766388,
       "num": 379240,
       "word": "不能以静默代替管控",
@@ -1240,6 +1256,14 @@
       "word": "女子网购运动鞋穿一周拆出剪刀",
       "onboard_time": 1665580223,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743606,
+      "num": 743606,
+      "word": "女生清晨推窗发现桂花铺满院",
+      "onboard_time": 1665801442,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1433,6 +1457,14 @@
       "onboard_time": 1665500067,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684055,
+      "num": 530214,
+      "word": "TES",
+      "onboard_time": 1665800122,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 683966,
@@ -1971,6 +2003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551151,
+      "num": 376349,
+      "word": "倒钩",
+      "onboard_time": 1665800723,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 550754,
       "num": 550754,
       "word": "追光者定档1014",
@@ -2073,14 +2113,6 @@
       "onboard_time": 1665303982,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 539700,
-      "num": 381406,
-      "word": "TES",
-      "onboard_time": 1665800122,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 539609,
@@ -2371,14 +2403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483247,
-      "num": 483247,
-      "word": "总感觉你不太开心",
-      "onboard_time": 1665798984,
-      "rank": 7,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 482995,
       "num": 482995,
       "word": "手机APP为何越来越膨胀",
@@ -2632,6 +2656,14 @@
       "word": "我国将建立世界最大国家公园体系",
       "onboard_time": 1665608530,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450623,
+      "num": 450623,
+      "word": "9位发小全考上博士携手返乡创业",
+      "onboard_time": 1665801622,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3083,6 +3115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 396550,
+      "num": 396550,
+      "word": "10月14日新增291例本土确诊",
+      "onboard_time": 1665797905,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393704,
       "num": 288993,
       "word": "王鹤棣霸总适配度",
@@ -3121,6 +3161,14 @@
       "onboard_time": 1665404242,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389419,
+      "num": 389419,
+      "word": "真诚的人真的很加分",
+      "onboard_time": 1665796884,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 389348,
@@ -3177,14 +3225,6 @@
       "onboard_time": 1665724402,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382977,
-      "num": 382977,
-      "word": "真诚的人真的很加分",
-      "onboard_time": 1665796884,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 382500,
@@ -4779,14 +4819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244631,
-      "num": 244631,
-      "word": "10月14日新增291例本土确诊",
-      "onboard_time": 1665797905,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244431,
       "num": 199234,
       "word": "NCTUMakeAWish发行两周年",
@@ -5267,14 +5299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214622,
-      "num": 214622,
-      "word": "倒钩",
-      "onboard_time": 1665800723,
-      "rank": 21,
-      "category": "其它"
-    },
-    {
       "raw_hot": 214153,
       "num": 214153,
       "word": "演唱会灯海名场面",
@@ -5691,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195166,
+      "num": 195166,
+      "word": "换乘恋爱2",
+      "onboard_time": 1665791301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194400,
       "num": 194400,
       "word": "iPhoneSE4或增加灵动岛",
@@ -5857,6 +5889,14 @@
       "onboard_time": 1665717983,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185728,
+      "num": 185728,
+      "word": "爸爸给儿子取名因谐音五十亿走红",
+      "onboard_time": 1665802944,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185722,
@@ -6147,14 +6187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170037,
-      "num": 170037,
-      "word": "换乘恋爱2",
-      "onboard_time": 1665791301,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169627,
       "num": 169627,
       "word": "降息后杭州有人每个月房贷省2000",
@@ -6280,6 +6312,14 @@
       "word": "刘洋用2米长吸管喝果汁",
       "onboard_time": 1665565464,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161916,
+      "num": 161916,
+      "word": "千里眼顺风耳让这对双胞胎占全了",
+      "onboard_time": 1665802344,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -7795,6 +7835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103541,
+      "num": 103541,
+      "word": "湖人vs国王",
+      "onboard_time": 1665802584,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103045,
+      "num": 103045,
+      "word": "新千里江山图",
+      "onboard_time": 1665803364,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102855,
       "num": 102855,
       "word": "金秋柿子壁纸",
@@ -8129,6 +8185,14 @@
       "onboard_time": 1665361405,
       "rank": 48,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 90078,
+      "num": 90078,
+      "word": "ICE唱的空空",
+      "onboard_time": 1665801983,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 89822,
@@ -8907,6 +8971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50759,
+      "num": 595653,
+      "word": "中国速度奔赴时代之约",
+      "onboard_time": 1665797244,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50151,
       "num": 292699,
       "word": "珍珠奶茶比奶茶更不容易晃出来吗",
@@ -9147,14 +9219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35383,
-      "num": 595653,
-      "word": "中国速度奔赴时代之约",
-      "onboard_time": 1665797244,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35077,
       "num": 35077,
       "word": "张彬彬庄羽晚安三宫格",
@@ -9337,6 +9401,14 @@
       "onboard_time": 1665424694,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 14582,
+      "num": 361976,
+      "word": "每张被熏黑的脸都是沉甸甸的勋章",
+      "onboard_time": 1665802824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14202,
