@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 00:35:28
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 00:59:56
 </p>
 </blockquote>
 <p>
@@ -4971,6 +4971,12 @@ kep1er新曲wefresh（热度：186608）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AD%A6%E9%9C%B810%E5%B9%B4%E5%8F%82%E5%8A%A0%E4%B8%8A%E7%99%BE%E6%AC%A1%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23" target="weibo">
+90后学霸10年参加上百次发射任务（热度：181347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%9B%BD%E9%A3%8E%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E8%B5%8F%23" target="weibo">
 内娱国风氛围感大赏（热度：180301）
 </a>
@@ -5687,12 +5693,6 @@ EDG战胜FNC（热度：146613）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9B%AE%E5%89%8D%E5%AD%98%E5%9C%A815%E6%9D%A1%E4%BC%A0%E6%92%AD%E9%93%BE%23" target="weibo">
 北京目前存在15条传播链（热度：143366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AD%A6%E9%9C%B810%E5%B9%B4%E5%8F%82%E5%8A%A0%E4%B8%8A%E7%99%BE%E6%AC%A1%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23" target="weibo">
-90后学霸10年参加上百次发射任务（热度：143169）
 </a>
 </li>
 
