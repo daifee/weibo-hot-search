@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665823873819,
+  "endTime": 1665826025958,
   "band_list": [
     {
       "raw_hot": 2704511,
@@ -67,6 +67,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 884261,
+      "num": 884261,
+      "word": "二十大会期确定",
+      "onboard_time": 1665824541,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 851374,
       "num": 300358,
       "word": "东京9个火葬场6个被中国资本控股",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718822,
+      "num": 718822,
+      "word": "96岁老人李小龙式亮相惊呆摄影师",
+      "onboard_time": 1665820100,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716977,
       "num": 407619,
       "word": "罗杰斯称中国将成为21世纪最成功的国家",
@@ -140,18 +156,10 @@
     },
     {
       "raw_hot": 710444,
-      "num": 410566,
+      "num": 410706,
       "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
       "onboard_time": 1665814102,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 700236,
-      "num": 412700,
-      "word": "96岁老人李小龙式亮相惊呆摄影师",
-      "onboard_time": 1665820100,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 594655,
-      "num": 235537,
+      "num": 266452,
       "word": "二十大最新消息",
       "onboard_time": 1665806122,
       "rank": 20,
@@ -283,7 +291,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444642,
+      "raw_hot": 453741,
       "num": 293858,
       "word": "BLACKPINK今晚演唱会表演顺序",
       "onboard_time": 1665821423,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380946,
+      "num": 284181,
+      "word": "王一博骑摩托艇把街舞导演甩水里了",
+      "onboard_time": 1665821661,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370858,
       "num": 337762,
       "word": "鹿晗录制脱口秀大会总决赛",
@@ -411,12 +427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 324879,
-      "num": 284181,
-      "word": "王一博骑摩托艇把街舞导演甩水里了",
-      "onboard_time": 1665821661,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 298220,
+      "num": 298220,
+      "word": "将盆栽越坐越歪的猫咪",
+      "onboard_time": 1665820641,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 295953,
@@ -475,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244875,
+      "num": 107760,
+      "word": "朴志晟钟辰乐翻唱youth",
+      "onboard_time": 1665825863,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238757,
       "num": 266832,
       "word": "猫咪咳嗽半月自行叼走橘皮吃橘络",
@@ -515,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212107,
+      "num": 477592,
+      "word": "二十大议程",
+      "onboard_time": 1665825203,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 210666,
       "num": 210666,
       "word": "ive翻跳hypeboy",
       "onboard_time": 1665818181,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210554,
+      "num": 210554,
+      "word": "万里归途",
+      "onboard_time": 1665823582,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 204616,
@@ -585,14 +625,6 @@
       "onboard_time": 1665818361,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 184286,
-      "num": 184286,
-      "word": "将盆栽越坐越歪的猫咪",
-      "onboard_time": 1665820641,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 173742,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137582,
+      "num": 405202,
+      "word": "二十大知识帖",
+      "onboard_time": 1665800062,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 135654,
       "num": 124611,
       "word": "周深说我们一起向光而行",
@@ -731,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127523,
+      "num": 568413,
+      "word": "二十大",
+      "onboard_time": 1665825984,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 125875,
       "num": 97351,
       "word": "海恩贤圭车内牵手",
@@ -753,6 +801,14 @@
       "onboard_time": 1665740243,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122465,
+      "num": 122465,
+      "word": "这灯是不是亮的不是时候",
+      "onboard_time": 1665822742,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 121126,
@@ -833,14 +889,6 @@
       "onboard_time": 1665806181,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105577,
-      "num": 405202,
-      "word": "二十大知识帖",
-      "onboard_time": 1665800062,
-      "rank": 42,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 104548,
@@ -947,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85089,
-      "num": 85089,
-      "word": "这灯是不是亮的不是时候",
-      "onboard_time": 1665822742,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84810,
       "num": 84810,
       "word": "胖达人 进化论",
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82854,
+      "num": 68031,
+      "word": "Jennie演唱会路透",
+      "onboard_time": 1665824243,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82038,
       "num": 82038,
       "word": "美国会骚乱又曝新画面",
@@ -979,12 +1027,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 81892,
-      "num": 81892,
-      "word": "万里归途",
-      "onboard_time": 1665823582,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 81873,
+      "num": 61386,
+      "word": "檀健次沸腾校园蓝色泼墨造型",
+      "onboard_time": 1665825683,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 81516,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1665752785,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62612,
+      "num": 62612,
+      "word": "河南一村庄引来16位博士建研究院",
+      "onboard_time": 1665825863,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 60632,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1665791060,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42270,
+      "num": 288406,
+      "word": "沙漠里走出个航母女兵",
+      "onboard_time": 1665825203,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 40783,
