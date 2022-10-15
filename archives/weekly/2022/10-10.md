@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 01:48:47
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 02:30:25
 </p>
 </blockquote>
 <p>
@@ -6417,6 +6417,12 @@ CBA新赛季揭幕战（热度：108086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
+爸爸连夜为儿子做课文中的竹节人（热度：108035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E4%BB%91%E7%A5%9E%E5%AE%AB%E5%A4%A7%E5%9E%8B%E6%9C%89%E6%B0%A7%E7%8E%B0%E5%9C%BA%23" target="weibo">
 昆仑神宫大型有氧现场（热度：108008）
 </a>
@@ -7005,12 +7011,6 @@ U17女足世界杯（热度：81576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
-爸爸连夜为儿子做课文中的竹节人（热度：80204）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TI11%E5%90%8D%E5%8D%95%E7%A1%AE%E8%AE%A4%23" target="weibo">
 TI11名单确认（热度：80066）
 </a>
@@ -7133,6 +7133,12 @@ EDG战胜C9（热度：74768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A82.8%25%23" target="weibo">
 9月CPI同比上涨2.8%（热度：71958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23" target="weibo">
+大众宣布168亿在华投资项目（热度：71643）
 </a>
 </li>
 
