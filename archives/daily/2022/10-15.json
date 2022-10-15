@@ -1,6 +1,6 @@
 {
   "startTime": 1665765505567,
-  "endTime": 1665832847053,
+  "endTime": 1665833933008,
   "band_list": [
     {
       "raw_hot": 2704511,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1497250,
+      "num": 559529,
+      "word": "二十大发言人回应疫情防控",
+      "onboard_time": 1665828144,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1434278,
       "num": 1434278,
       "word": "梵高名画向日葵被泼番茄罐头",
       "onboard_time": 1665757644,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1319302,
-      "num": 559529,
-      "word": "二十大发言人回应疫情防控",
-      "onboard_time": 1665828144,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1247045,
@@ -211,19 +211,19 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 652158,
-      "num": 211769,
-      "word": "统一有好处台独是绝路",
-      "onboard_time": 1665830665,
-      "rank": 27,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 641856,
+      "raw_hot": 653471,
       "num": 620176,
       "word": "二十大",
       "onboard_time": 1665825984,
       "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 652158,
+      "num": 241650,
+      "word": "统一有好处台独是绝路",
+      "onboard_time": 1665830665,
+      "rank": 27,
       "category": "国内要闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388097,
+      "num": 211212,
+      "word": "外卖有头发老板带员工剪寸头",
+      "onboard_time": 1665829524,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385185,
       "num": 385185,
       "word": "女子炸糍粑结果全都砰砰蹦出锅",
@@ -441,14 +449,6 @@
       "onboard_time": 1665804623,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366602,
-      "num": 211212,
-      "word": "外卖有头发老板带员工剪寸头",
-      "onboard_time": 1665829524,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349211,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321047,
+      "num": 213750,
+      "word": "女子投喂流浪猫1年获赠仓鼠",
+      "onboard_time": 1665831622,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298220,
       "num": 298220,
       "word": "将盆栽越坐越歪的猫咪",
@@ -505,6 +513,14 @@
       "onboard_time": 1665794962,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283603,
+      "num": 204050,
+      "word": "二十大发言人回应非和平方式统一",
+      "onboard_time": 1665832104,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 282084,
@@ -595,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213877,
+      "num": 141242,
+      "word": "二十大主席团常务委员会成员名单",
+      "onboard_time": 1665833844,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 213540,
       "num": 213540,
       "word": "湖人季前赛47分不敌国王",
@@ -675,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190977,
-      "num": 190977,
-      "word": "女子投喂流浪猫1年获赠仓鼠",
-      "onboard_time": 1665831622,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184639,
       "num": 184639,
       "word": "3分钟看懂二十大怎么开",
@@ -691,8 +707,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 173913,
-      "num": 173913,
+      "raw_hot": 180301,
+      "num": 180301,
       "word": "内娱国风氛围感大赏",
       "onboard_time": 1665828324,
       "rank": 31,
@@ -705,6 +721,14 @@
       "onboard_time": 1665758125,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164517,
+      "num": 164517,
+      "word": "周琦抓帽",
+      "onboard_time": 1665831445,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 163826,
@@ -777,6 +801,14 @@
       "onboard_time": 1665776172,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140169,
+      "num": 140169,
+      "word": "未来50年国际关系中最重要的事",
+      "onboard_time": 1665832164,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 139334,
@@ -915,14 +947,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 118847,
-      "num": 118847,
-      "word": "二十大发言人回应非和平方式统一",
-      "onboard_time": 1665832104,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 117722,
       "num": 745935,
       "word": "神舟五号成功发射19周年",
@@ -955,20 +979,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114561,
-      "num": 114561,
-      "word": "周琦抓帽",
-      "onboard_time": 1665831445,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113494,
       "num": 113494,
       "word": "湖人vs国王",
       "onboard_time": 1665802584,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113334,
+      "num": 113334,
+      "word": "一休息就有负罪感",
+      "onboard_time": 1665833006,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 113270,
@@ -1051,20 +1075,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97324,
+      "num": 97324,
+      "word": "小伙航拍杭州酷似数字0到9的建筑",
+      "onboard_time": 1665830785,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94670,
       "num": 94670,
       "word": "王一博祝贺大众电影VCR",
       "onboard_time": 1665760045,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92846,
-      "num": 92846,
-      "word": "未来50年国际关系中最重要的事",
-      "onboard_time": 1665832164,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 92163,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1665824243,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87381,
+      "num": 87381,
+      "word": "羡慕猫咪的睡眠质量",
+      "onboard_time": 1665832345,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 86564,
@@ -1179,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76924,
-      "num": 76924,
-      "word": "小伙航拍杭州酷似数字0到9的建筑",
-      "onboard_time": 1665830785,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76822,
       "num": 76822,
       "word": "俄媒称俄博主冒充美官员与乌外长连线",
@@ -1219,14 +1243,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 71465,
-      "num": 71465,
-      "word": "羡慕猫咪的睡眠质量",
-      "onboard_time": 1665832345,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 71043,
       "num": 71043,
       "word": "海格依然会在",
@@ -1241,6 +1257,22 @@
       "onboard_time": 1665752785,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65953,
+      "num": 65953,
+      "word": "广东男篮vs深圳男篮",
+      "onboard_time": 1665833243,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61292,
+      "num": 182749,
+      "word": "消防员护士夫妻出游遇车祸勇救6人",
+      "onboard_time": 1665831683,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60632,
@@ -1403,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30554,
-      "num": 177919,
-      "word": "消防员护士夫妻出游遇车祸勇救6人",
-      "onboard_time": 1665831683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25442,
       "num": 409312,
       "word": "巾帼指挥官侯静见证中国海油的十年跨越",
@@ -1510,6 +1534,9 @@
     },
     {
       "word": "#党的二十大新闻发布会#"
+    },
+    {
+      "word": "#党的二十大举行预备会议#"
     }
   ]
 }
