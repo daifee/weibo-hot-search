@@ -1,7 +1,15 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665876592880,
+  "endTime": 1665877617844,
   "band_list": [
+    {
+      "raw_hot": 1883132,
+      "num": 487597,
+      "word": "TES确定淘汰",
+      "onboard_time": 1665876136,
+      "rank": 10,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1582714,
       "num": 429250,
@@ -11,16 +19,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1048036,
-      "num": 130928,
-      "word": "TES确定淘汰",
-      "onboard_time": 1665876136,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 915977,
-      "num": 484433,
+      "num": 633840,
       "word": "二十大发言人回应疫情防控",
       "onboard_time": 1665828144,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501047,
+      "num": 501047,
+      "word": "爸爸连夜为儿子做课文中的竹节人",
+      "onboard_time": 1665853638,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 457733,
       "num": 352214,
       "word": "20多人自费开车送万斤搁浅鱼到赣江",
@@ -59,12 +67,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 424743,
-      "num": 424743,
-      "word": "爸爸连夜为儿子做课文中的竹节人",
-      "onboard_time": 1665853638,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 428923,
+      "num": 428923,
+      "word": "二十大",
+      "onboard_time": 1665825984,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 399675,
@@ -75,12 +83,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 391426,
-      "num": 335809,
-      "word": "二十大",
-      "onboard_time": 1665825984,
-      "rank": 5,
-      "category": "国内要闻"
+      "raw_hot": 399669,
+      "num": 147704,
+      "word": "外来媳妇本地郎",
+      "onboard_time": 1665877219,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360694,
+      "num": 360694,
+      "word": "大众宣布168亿在华投资项目",
+      "onboard_time": 1665856634,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359664,
+      "num": 145177,
+      "word": "中国过冬八件套被欧洲买爆",
+      "onboard_time": 1665835405,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335387,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 325804,
-      "num": 139830,
+      "num": 144067,
       "word": "二十大是个什么会",
       "onboard_time": 1665847526,
       "rank": 12,
@@ -104,22 +128,6 @@
       "word": "19岁少女每天记忆被重置",
       "onboard_time": 1665841285,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300204,
-      "num": 139542,
-      "word": "中国过冬八件套被欧洲买爆",
-      "onboard_time": 1665835405,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283794,
-      "num": 283794,
-      "word": "大众宣布168亿在华投资项目",
-      "onboard_time": 1665856634,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -139,8 +147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259023,
+      "num": 558487,
+      "word": "二十大议程",
+      "onboard_time": 1665825203,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 248900,
-      "num": 138284,
+      "num": 143063,
       "word": "高校神仙颜值老师上课惊叹学生",
       "onboard_time": 1665846026,
       "rank": 14,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 241105,
-      "num": 488042,
+      "num": 747164,
       "word": "新一届中央政治局常委将同中外记者见面",
       "onboard_time": 1665827363,
       "rank": 0,
@@ -163,11 +179,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201046,
-      "num": 432212,
-      "word": "二十大议程",
-      "onboard_time": 1665825203,
-      "rank": 2,
+      "raw_hot": 190295,
+      "num": 109459,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188617,
+      "num": 140327,
+      "word": "90后宝妈用尿素袋运动鞋做格格服",
+      "onboard_time": 1665840445,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186609,
+      "num": 139207,
+      "word": "新时代新征程",
+      "onboard_time": 1665877279,
+      "rank": 15,
       "category": "国内要闻"
     },
     {
@@ -179,20 +211,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 165022,
-      "num": 75324,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163450,
-      "num": 137060,
-      "word": "90后宝妈用尿素袋运动鞋做格格服",
-      "onboard_time": 1665840445,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 173677,
+      "num": 108736,
+      "word": "美国再提供7.25亿美元对乌军事援助",
+      "onboard_time": 1665860593,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 155949,
@@ -201,14 +225,6 @@
       "onboard_time": 1665841766,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153456,
-      "num": 75130,
-      "word": "美国再提供7.25亿美元对乌军事援助",
-      "onboard_time": 1665860593,
-      "rank": 41,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 151914,
@@ -235,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 136197,
+      "num": 136197,
+      "word": "TES小组赛三连败",
+      "onboard_time": 1665876615,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133782,
       "num": 133782,
       "word": "女子投喂流浪猫1年获赠仓鼠",
@@ -251,20 +275,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104900,
+      "num": 104900,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 101483,
+      "num": 107359,
+      "word": "走过大江南北的足迹",
+      "onboard_time": 1665876858,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91749,
+      "num": 91749,
+      "word": "交警30分钟送断指孩子就医",
+      "onboard_time": 1665858313,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 90712,
       "num": 83825,
       "word": "京城十二时辰2收官",
       "onboard_time": 1665845847,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87439,
-      "num": 87439,
-      "word": "乘客公交车上晕倒女护士跪地抢救",
-      "onboard_time": 1665835224,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 87140,
@@ -291,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74899,
-      "num": 74899,
-      "word": "交警30分钟送断指孩子就医",
-      "onboard_time": 1665858313,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 74346,
       "num": 74346,
       "word": "罗杰斯称中国将成为21世纪最成功的国家",
@@ -313,6 +345,14 @@
       "onboard_time": 1665824541,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 72578,
+      "num": 72578,
+      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+      "onboard_time": 1665814102,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70671,
@@ -331,12 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64958,
-      "num": 64958,
-      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
-      "onboard_time": 1665814102,
+      "raw_hot": 62602,
+      "num": 62602,
+      "word": "喻言晒蔷薇之巅姐妹篇荆棘玫瑰",
+      "onboard_time": 1665876615,
       "rank": 35,
-      "category": "社会新闻"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 62229,
@@ -395,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52345,
+      "num": 52345,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 51049,
       "num": 51049,
       "word": "帮别人点外卖时先通知对方",
@@ -403,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48777,
-      "num": 48777,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
+      "raw_hot": 50045,
+      "num": 50045,
+      "word": "安徽浙江拿5亿元进行水质对赌",
+      "onboard_time": 1665877518,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49258,
+      "num": 49258,
+      "word": "DOTA2",
+      "onboard_time": 1665877399,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 46662,
@@ -449,6 +505,14 @@
       "onboard_time": 1665842907,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33105,
+      "num": 33105,
+      "word": "原来办狗证还需要采集鼻纹",
+      "onboard_time": 1665877459,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32238,

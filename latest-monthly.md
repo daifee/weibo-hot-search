@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 07:29:52
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 07:46:57
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ iPhone在6人死亡车祸中自动求救（热度：1910204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BE%A3%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%A9%B6%E7%AB%9F%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23" target="weibo">
 吃辣对身体究竟会有什么影响（热度：1893836）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E7%A1%AE%E5%AE%9A%E6%B7%98%E6%B1%B0%23" target="weibo">
+TES确定淘汰（热度：1883132）
 </a>
 </li>
 
@@ -1463,12 +1469,6 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E6%8F%B4%E6%96%B0%E7%96%86%23" target="weibo">
 支援新疆（热度：1048272）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E7%A1%AE%E5%AE%9A%E6%B7%98%E6%B1%B0%23" target="weibo">
-TES确定淘汰（热度：1048036）
 </a>
 </li>
 
@@ -4497,6 +4497,12 @@ IU首登韩版Vogue11月刊（热度：501833）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
+爸爸连夜为儿子做课文中的竹节人（热度：501047）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E4%BF%84%E5%AE%8C%E5%85%A8%E9%81%B5%E5%AE%88%E4%B8%8D%E5%8F%AF%E5%8F%91%E7%94%9F%E6%A0%B8%E6%88%98%E4%BA%89%E5%A3%B0%E6%98%8E%23" target="weibo">
 俄外交部称俄完全遵守不可发生核战争声明（热度：499325）
 </a>
@@ -5559,12 +5565,6 @@ gidle概念预告照（热度：424921）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
-爸爸连夜为儿子做课文中的竹节人（热度：424743）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%BA%BA%E5%9C%A8%E6%B2%88%E6%9C%88%E8%85%BF%E4%B8%8A%E8%8A%B1%E7%B5%AE%E7%85%A7%23" target="weibo">
 陈哲远躺在沈月腿上花絮照（热度：424395）
 </a>
@@ -5979,6 +5979,12 @@ RNG战胜CFO（热度：402485）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%9D%A5%E5%AA%B3%E5%A6%87%E6%9C%AC%E5%9C%B0%E9%83%8E%23" target="weibo">
+外来媳妇本地郎（热度：399669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%B9%E6%BA%90%E6%9D%8E%E8%81%82%E6%AD%A3%E5%BC%8F%E7%BA%A6%E4%BC%9A%23" target="weibo">
 张根源李聂正式约会（热度：399626）
 </a>
@@ -6005,12 +6011,6 @@ RNG战胜CFO（热度：402485）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MAMAMOO%E6%96%B0%E6%AD%8CILLELLA%23" target="weibo">
 MAMAMOO新歌ILLELLA（热度：398923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%97%A7%E9%87%91%E5%B1%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张艺兴旧金山演唱会（热度：398680）
 </a>
 </li>
 

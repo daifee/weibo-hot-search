@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 07:29:52
+本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 07:46:57
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,14 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23GAM%E6%88%98%E8%83%9CTES%23" target="weibo">
-GAM战胜TES（热度：1582714）
+<a href="https://s.weibo.com/weibo?q=%23TES%E7%A1%AE%E5%AE%9A%E6%B7%98%E6%B1%B0%23" target="weibo">
+TES确定淘汰（热度：1883132）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E7%A1%AE%E5%AE%9A%E6%B7%98%E6%B1%B0%23" target="weibo">
-TES确定淘汰（热度：1048036）
+<a href="https://s.weibo.com/weibo?q=%23GAM%E6%88%98%E8%83%9CTES%23" target="weibo">
+GAM战胜TES（热度：1582714）
 </a>
 </li>
 
@@ -51,14 +51,20 @@ TES确定淘汰（热度：1048036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
+爸爸连夜为儿子做课文中的竹节人（热度：501047）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E4%BA%BA%E8%87%AA%E8%B4%B9%E5%BC%80%E8%BD%A6%E9%80%81%E4%B8%87%E6%96%A4%E6%90%81%E6%B5%85%E9%B1%BC%E5%88%B0%E8%B5%A3%E6%B1%9F%23" target="weibo">
 20多人自费开车送万斤搁浅鱼到赣江（热度：457733）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
-爸爸连夜为儿子做课文中的竹节人（热度：424743）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%23" target="weibo">
+二十大（热度：428923）
 </a>
 </li>
 
@@ -69,8 +75,20 @@ TES确定淘汰（热度：1048036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%23" target="weibo">
-二十大（热度：391426）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%9D%A5%E5%AA%B3%E5%A6%87%E6%9C%AC%E5%9C%B0%E9%83%8E%23" target="weibo">
+外来媳妇本地郎（热度：399669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23" target="weibo">
+大众宣布168亿在华投资项目（热度：360694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%86%AC%E5%85%AB%E4%BB%B6%E5%A5%97%E8%A2%AB%E6%AC%A7%E6%B4%B2%E4%B9%B0%E7%88%86%23" target="weibo">
+中国过冬八件套被欧洲买爆（热度：359664）
 </a>
 </li>
 
@@ -93,18 +111,6 @@ TES确定淘汰（热度：1048036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%86%AC%E5%85%AB%E4%BB%B6%E5%A5%97%E8%A2%AB%E6%AC%A7%E6%B4%B2%E4%B9%B0%E7%88%86%23" target="weibo">
-中国过冬八件套被欧洲买爆（热度：300204）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23" target="weibo">
-大众宣布168亿在华投资项目（热度：283794）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BB%E5%B8%AD%E5%9B%A2%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
 二十大主席团常务委员会成员名单（热度：275214）
 </a>
@@ -113,6 +119,12 @@ TES确定淘汰（热度：1048036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E8%9E%83%E8%9F%B9%E5%A4%B9%E6%89%8B%E5%8F%8D%E5%92%AC%E4%B8%80%E5%8F%A3%E6%82%A3%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%23" target="weibo">
 小伙被螃蟹夹手反咬一口患肺吸虫病（热度：275039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AE%AE%E7%A8%8B%23" target="weibo">
+二十大议程（热度：259023）
 </a>
 </li>
 
@@ -135,8 +147,20 @@ TES确定淘汰（热度：1048036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AE%AE%E7%A8%8B%23" target="weibo">
-二十大议程（热度：201046）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23" target="weibo">
+男子躲高铁厕所抽烟被行拘5日（热度：190295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%9D%E5%A6%88%E7%94%A8%E5%B0%BF%E7%B4%A0%E8%A2%8B%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%81%9A%E6%A0%BC%E6%A0%BC%E6%9C%8D%23" target="weibo">
+90后宝妈用尿素袋运动鞋做格格服（热度：188617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E5%BE%81%E7%A8%8B%23" target="weibo">
+新时代新征程（热度：186609）
 </a>
 </li>
 
@@ -147,26 +171,14 @@ TES确定淘汰（热度：1048036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23" target="weibo">
-男子躲高铁厕所抽烟被行拘5日（热度：165022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%9D%E5%A6%88%E7%94%A8%E5%B0%BF%E7%B4%A0%E8%A2%8B%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%81%9A%E6%A0%BC%E6%A0%BC%E6%9C%8D%23" target="weibo">
-90后宝妈用尿素袋运动鞋做格格服（热度：163450）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
+美国再提供7.25亿美元对乌军事援助（热度：173677）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%87%AA%E5%AD%A63D%E5%BB%BA%E6%A8%A1%E6%89%93%E5%8D%B0%E6%9B%BF%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E6%8E%A5%E5%8D%95%23" target="weibo">
 母亲自学3D建模打印替去世儿子接单（热度：155949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23" target="weibo">
-美国再提供7.25亿美元对乌军事援助（热度：153456）
 </a>
 </li>
 
@@ -189,6 +201,12 @@ LGD（热度：149546）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%89%E8%BF%9E%E8%B4%A5%23" target="weibo">
+TES小组赛三连败（热度：136197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%95%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB1%E5%B9%B4%E8%8E%B7%E8%B5%A0%E4%BB%93%E9%BC%A0%23" target="weibo">
 女子投喂流浪猫1年获赠仓鼠（热度：133782）
 </a>
@@ -201,14 +219,26 @@ LGD（热度：149546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B02%E6%94%B6%E5%AE%98%23" target="weibo">
-京城十二时辰2收官（热度：90712）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23" target="weibo">
+乘客公交车上晕倒女护士跪地抢救（热度：104900）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23" target="weibo">
-乘客公交车上晕倒女护士跪地抢救（热度：87439）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%BF%87%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E7%9A%84%E8%B6%B3%E8%BF%B9%23" target="weibo">
+走过大江南北的足迹（热度：101483）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23" target="weibo">
+交警30分钟送断指孩子就医（热度：91749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B02%E6%94%B6%E5%AE%98%23" target="weibo">
+京城十二时辰2收官（热度：90712）
 </a>
 </li>
 
@@ -231,12 +261,6 @@ LGD（热度：149546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23" target="weibo">
-交警30分钟送断指孩子就医（热度：74899）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%9D%B0%E6%96%AF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E4%B8%BA21%E4%B8%96%E7%BA%AA%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E5%9B%BD%E5%AE%B6%23" target="weibo">
 罗杰斯称中国将成为21世纪最成功的国家（热度：74346）
 </a>
@@ -245,6 +269,12 @@ LGD（热度：149546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BC%9A%E6%9C%9F%E7%A1%AE%E5%AE%9A%23" target="weibo">
 二十大会期确定（热度：73479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%85%E8%88%85%E6%8A%B1%E5%A8%83%E6%91%94%E5%80%92%E7%9E%AC%E9%97%B4180%E5%BA%A6%E7%BF%BB%E8%BD%AC%E5%BD%93%E8%82%89%E5%9E%AB%23" target="weibo">
+舅舅抱娃摔倒瞬间180度翻转当肉垫（热度：72578）
 </a>
 </li>
 
@@ -261,8 +291,8 @@ LGD（热度：149546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%85%E8%88%85%E6%8A%B1%E5%A8%83%E6%91%94%E5%80%92%E7%9E%AC%E9%97%B4180%E5%BA%A6%E7%BF%BB%E8%BD%AC%E5%BD%93%E8%82%89%E5%9E%AB%23" target="weibo">
-舅舅抱娃摔倒瞬间180度翻转当肉垫（热度：64958）
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E6%99%92%E8%94%B7%E8%96%87%E4%B9%8B%E5%B7%85%E5%A7%90%E5%A6%B9%E7%AF%87%E8%8D%86%E6%A3%98%E7%8E%AB%E7%91%B0%23" target="weibo">
+喻言晒蔷薇之巅姐妹篇荆棘玫瑰（热度：62602）
 </a>
 </li>
 
@@ -309,14 +339,26 @@ DK战胜EG（热度：54436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
+南疆军区无人机空中侦察首次实飞（热度：52345）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%AE%E5%88%AB%E4%BA%BA%E7%82%B9%E5%A4%96%E5%8D%96%E6%97%B6%E5%85%88%E9%80%9A%E7%9F%A5%E5%AF%B9%E6%96%B9%23" target="weibo">
 帮别人点外卖时先通知对方（热度：51049）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23" target="weibo">
-南疆军区无人机空中侦察首次实飞（热度：48777）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%B5%99%E6%B1%9F%E6%8B%BF5%E4%BA%BF%E5%85%83%E8%BF%9B%E8%A1%8C%E6%B0%B4%E8%B4%A8%E5%AF%B9%E8%B5%8C%23" target="weibo">
+安徽浙江拿5亿元进行水质对赌（热度：50045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
+DOTA2（热度：49258）
 </a>
 </li>
 
@@ -347,6 +389,12 @@ DK战胜EG（热度：54436）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%85%A832%E5%88%86%23" target="weibo">
 顾全32分（热度：34722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%9E%E7%8B%97%E8%AF%81%E8%BF%98%E9%9C%80%E8%A6%81%E9%87%87%E9%9B%86%E9%BC%BB%E7%BA%B9%23" target="weibo">
+原来办狗证还需要采集鼻纹（热度：33105）
 </a>
 </li>
 
