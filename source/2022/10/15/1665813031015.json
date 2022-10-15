@@ -1,0 +1,410 @@
+{
+  "runTime": 1665813031015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117722,
+        "num": 384783,
+        "word": "神舟五号成功发射19周年",
+        "onboard_time": 1665808764,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021671,
+        "num": 383320,
+        "word": "爸爸给儿子取名因谐音五十亿走红",
+        "onboard_time": 1665802944,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17411,
+        "num": 364983,
+        "word": "百秒说非凡十年",
+        "onboard_time": 1665755663,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508024,
+        "num": 345039,
+        "word": "哄睡师包月套餐标价1.8万",
+        "onboard_time": 1665809303,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38595,
+        "num": 324658,
+        "word": "十年逐梦向未来晚会节目单",
+        "onboard_time": 1665806062,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438306,
+        "num": 308468,
+        "word": "帮别人点外卖时先通知对方",
+        "onboard_time": 1665810924,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299360,
+        "num": 299360,
+        "word": "女生清晨推窗发现桂花铺满院",
+        "onboard_time": 1665801442,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285830,
+        "num": 285830,
+        "word": "流浪猫睡头盔里女子1周未骑车",
+        "onboard_time": 1665805283,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243651,
+        "num": 243651,
+        "word": "TES",
+        "onboard_time": 1665800122,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235954,
+        "num": 235954,
+        "word": "9位发小全考上博士携手返乡创业",
+        "onboard_time": 1665801622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2704511,
+        "num": 233757,
+        "word": "林志颖车祸后首次露面",
+        "onboard_time": 1665808764,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776813,
+        "num": 230004,
+        "word": "鹿晗徐志胜在脱口秀大会拥抱了",
+        "onboard_time": 1665809543,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220389,
+        "num": 220389,
+        "word": "王俊凯找不到提问的人",
+        "onboard_time": 1665804682,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203735,
+        "num": 203735,
+        "word": "总感觉你不太开心",
+        "onboard_time": 1665798984,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 75771,
+        "num": 181059,
+        "word": "女童肌腱断裂求助交警抢8分钟时间送医",
+        "onboard_time": 1665810085,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175419,
+        "num": 175419,
+        "word": "人民日报任仲平",
+        "onboard_time": 1665793521,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171596,
+        "num": 171596,
+        "word": "狗狗帮看菜摊遇顾客露假笑",
+        "onboard_time": 1665796043,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 162234,
+        "num": 162234,
+        "word": "千里眼顺风耳让这对双胞胎占全了",
+        "onboard_time": 1665802344,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 157924,
+        "word": "摇滚狂花大结局",
+        "onboard_time": 1665804623,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155936,
+        "num": 155936,
+        "word": "湖人季前赛47分不敌国王",
+        "onboard_time": 1665812063,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385522,
+        "num": 155206,
+        "word": "二十大最新消息",
+        "onboard_time": 1665806122,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 370943,
+        "num": 154682,
+        "word": "罗杰斯称中国将成为21世纪最成功的国家",
+        "onboard_time": 1665811825,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145607,
+        "num": 145607,
+        "word": "梵高名画向日葵被泼番茄罐头",
+        "onboard_time": 1665757644,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144577,
+        "num": 144577,
+        "word": "美国俩父亲争吵开枪互射对方女儿",
+        "onboard_time": 1665753505,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 144168,
+        "word": "罗云熙罗本好会撩",
+        "onboard_time": 1665807082,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135286,
+        "num": 135286,
+        "word": "奖励优秀生的小猪9月后卖了4000元",
+        "onboard_time": 1665792502,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135019,
+        "num": 135019,
+        "word": "真诚的人真的很加分",
+        "onboard_time": 1665796884,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133085,
+        "num": 133085,
+        "word": "林一新剧哭戏",
+        "onboard_time": 1665808764,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129338,
+        "num": 129338,
+        "word": "换乘恋爱2",
+        "onboard_time": 1665791301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129257,
+        "num": 129257,
+        "word": "日本男子出租自己4年赚近200万",
+        "onboard_time": 1665748643,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305683,
+        "num": 128906,
+        "word": "哈利波特海格扮演者去世",
+        "onboard_time": 1665768016,
+        "rank": 30,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 128551,
+        "num": 128551,
+        "word": "废矿井发现140年前牛仔裤拍出62万",
+        "onboard_time": 1665791778,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127935,
+        "num": 127935,
+        "word": "10月14日新增900例本土无症状",
+        "onboard_time": 1665797845,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127695,
+        "num": 127695,
+        "word": "高校通报教师图书馆打电话声音过大出言不逊",
+        "onboard_time": 1665749181,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127132,
+        "num": 127132,
+        "word": "屠呦呦为测青蒿素安全性曾以身试药",
+        "onboard_time": 1665793883,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 111717,
+        "num": 111717,
+        "word": "这是双向奔赴的病情吗",
+        "onboard_time": 1665810745,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 104938,
+        "word": "东北一串店禁玩手机每人低消10串",
+        "onboard_time": 1665749843,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "你们是懂聊天的",
+        "onboard_time": 1665794962,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96830,
+        "num": 96830,
+        "word": "西北大学120周年校庆",
+        "onboard_time": 1665812002,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 93929,
+        "num": 93929,
+        "word": "胡歌繁花从30多岁拍到40岁",
+        "onboard_time": 1665759027,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93705,
+        "num": 93705,
+        "word": "369河道剑魔",
+        "onboard_time": 1665798264,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90021,
+        "num": 90021,
+        "word": "女子炸糍粑结果全都砰砰蹦出锅",
+        "onboard_time": 1665754884,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89258,
+        "num": 89258,
+        "word": "一直不谈恋爱会等到很好的人吗",
+        "onboard_time": 1665745104,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88639,
+        "num": 88639,
+        "word": "虞书欣两个人的小森林茶园plog",
+        "onboard_time": 1665804503,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86506,
+        "num": 86506,
+        "word": "JDG和DK加赛",
+        "onboard_time": 1665799761,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84618,
+        "num": 84618,
+        "word": "不正经动物图鉴",
+        "onboard_time": 1665806181,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76007,
+        "num": 76007,
+        "word": "男子心跳停1小时医生持续抢救成功",
+        "onboard_time": 1665755364,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 73376,
+        "num": 73376,
+        "word": "同事都有对象单身女服务员趴桌大哭",
+        "onboard_time": 1665763463,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62098,
+        "num": 62098,
+        "word": "意大利女宇航员怎么会知道王羲之",
+        "onboard_time": 1665812903,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61152,
+        "num": 61152,
+        "word": "英国首相特拉斯解雇财政大臣",
+        "onboard_time": 1665759926,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
