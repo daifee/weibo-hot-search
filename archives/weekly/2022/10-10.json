@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665866628987,
+  "endTime": 1665868988131,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -9883,6 +9883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54560,
+      "num": 15458,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54359,
       "num": 254617,
       "word": "民警走访时帮独居老人收玉米",
@@ -9985,6 +9993,14 @@
       "onboard_time": 1665666025,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48968,
+      "num": 15465,
+      "word": "DK战胜EG",
+      "onboard_time": 1665862931,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 48787,
@@ -10355,14 +10371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22657,
-      "num": 12683,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21148,
       "num": 21148,
       "word": "TVB新剧女性群像还是熟悉的味道",
@@ -10377,6 +10385,14 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18287,
+      "num": 15460,
+      "word": "EG对战DK",
+      "onboard_time": 1665863470,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 17793,
@@ -10555,6 +10571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8736,
+      "num": 8736,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 8662,
       "num": 8662,
       "word": "运20生产车间罕见曝光",
@@ -10587,6 +10611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7768,
+      "num": 7768,
+      "word": "高校组织采摘活动让学生体验秋收",
+      "onboard_time": 1665865271,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 7717,
       "num": 7717,
       "word": "16岁少年身故器官全部捐献",
@@ -10609,6 +10641,14 @@
       "onboard_time": 1665343631,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7111,
+      "num": 7111,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7063,
@@ -10673,6 +10713,14 @@
       "onboard_time": 1665344230,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6445,
+      "num": 6445,
+      "word": "施罗德手指受伤",
+      "onboard_time": 1665864550,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 6440,
@@ -10899,14 +10947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5406,
-      "num": 5406,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 5380,
       "num": 5526,
       "word": "大熊猫绝不让观众白买票",
@@ -10929,14 +10969,6 @@
       "onboard_time": 1665692710,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5309,
-      "num": 5309,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 5206,
@@ -11019,14 +11051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4840,
-      "num": 5256,
-      "word": "高校组织采摘活动让学生体验秋收",
-      "onboard_time": 1665865271,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 4835,
       "num": 5254,
       "word": "利夫21分20篮板",
@@ -11041,6 +11065,14 @@
       "onboard_time": 1665720025,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4000,
+      "num": 5085,
+      "word": "格威踩爆球鞋",
+      "onboard_time": 1665864550,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 3587,

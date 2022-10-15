@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665866628987,
+  "endTime": 1665868988131,
   "band_list": [
     {
       "raw_hot": 915977,
@@ -323,6 +323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 54560,
+      "num": 15458,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53027,
       "num": 53027,
       "word": "摇滚狂花",
@@ -345,6 +353,14 @@
       "onboard_time": 1665809303,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48968,
+      "num": 15465,
+      "word": "DK战胜EG",
+      "onboard_time": 1665862931,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 47706,
@@ -419,12 +435,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 22657,
-      "num": 12683,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 18287,
+      "num": 15460,
+      "word": "EG对战DK",
+      "onboard_time": 1665863470,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 16954,
@@ -435,6 +451,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 10885,
+      "num": 10885,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 8736,
+      "num": 8736,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 8662,
       "num": 8662,
       "word": "运20生产车间罕见曝光",
@@ -443,12 +475,20 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 8014,
-      "num": 8014,
-      "word": "乘客公交车上晕倒女护士跪地抢救",
-      "onboard_time": 1665835224,
-      "rank": 35,
-      "category": "社会正能量"
+      "raw_hot": 7768,
+      "num": 7768,
+      "word": "高校组织采摘活动让学生体验秋收",
+      "onboard_time": 1665865271,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7111,
+      "num": 7111,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 6679,
@@ -457,6 +497,14 @@
       "onboard_time": 1665797244,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6445,
+      "num": 6445,
+      "word": "施罗德手指受伤",
+      "onboard_time": 1665864550,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 6363,
@@ -507,22 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5406,
-      "num": 5406,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 5309,
-      "num": 5309,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 4999,
       "num": 5272,
       "word": "追梦格林普尔赛前拥抱",
@@ -555,19 +587,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4840,
-      "num": 5256,
-      "word": "高校组织采摘活动让学生体验秋收",
-      "onboard_time": 1665865271,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 4835,
       "num": 5254,
       "word": "利夫21分20篮板",
       "onboard_time": 1665865331,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4000,
+      "num": 5085,
+      "word": "格威踩爆球鞋",
+      "onboard_time": 1665864550,
+      "rank": 48,
       "category": "体育"
     }
   ],

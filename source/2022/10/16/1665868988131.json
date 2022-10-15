@@ -1,0 +1,410 @@
+{
+  "runTime": 1665868988131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 32202,
+        "num": 44394,
+        "word": "新一届中央政治局常委将同中外记者见面",
+        "onboard_time": 1665827363,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 102652,
+        "num": 44106,
+        "word": "二十大发言人回应疫情防控",
+        "onboard_time": 1665828144,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 10389,
+        "num": 43422,
+        "word": "二十大议程",
+        "onboard_time": 1665825203,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 53142,
+        "num": 43193,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 42950,
+        "num": 42950,
+        "word": "爸爸连夜为儿子做课文中的竹节人",
+        "onboard_time": 1665853638,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 32874,
+        "num": 32874,
+        "word": "20多人自费开车送万斤搁浅鱼到赣江",
+        "onboard_time": 1665841165,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 28556,
+        "num": 28556,
+        "word": "罗杰斯称中国将成为21世纪最成功的国家",
+        "onboard_time": 1665811825,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27675,
+        "num": 27675,
+        "word": "二十大主席团常务委员会成员名单",
+        "onboard_time": 1665833844,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24038,
+        "num": 24038,
+        "word": "一只很善良的小猫",
+        "onboard_time": 1665846148,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15465,
+        "num": 15465,
+        "word": "未来50年国际关系中最重要的事",
+        "onboard_time": 1665832164,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 48968,
+        "num": 15465,
+        "word": "DK战胜EG",
+        "onboard_time": 1665862931,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44102,
+        "num": 15465,
+        "word": "中国过冬八件套被欧洲买爆",
+        "onboard_time": 1665835405,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33206,
+        "num": 15463,
+        "word": "美国再提供7.25亿美元对乌军事援助",
+        "onboard_time": 1665860593,
+        "rank": 12,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 31267,
+        "num": 15463,
+        "word": "大众宣布168亿在华投资项目",
+        "onboard_time": 1665856634,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26248,
+        "num": 15463,
+        "word": "高校神仙颜值老师上课惊叹学生",
+        "onboard_time": 1665846026,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26091,
+        "num": 15462,
+        "word": "90后宝妈用尿素袋运动鞋做格格服",
+        "onboard_time": 1665840445,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22537,
+        "num": 15462,
+        "word": "二十大是个什么会",
+        "onboard_time": 1665847526,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 19959,
+        "num": 15461,
+        "word": "母亲自学3D建模打印替去世儿子接单",
+        "onboard_time": 1665841766,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18287,
+        "num": 15460,
+        "word": "EG对战DK",
+        "onboard_time": 1665863470,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15675,
+        "num": 15460,
+        "word": "90后学霸10年参加上百次发射任务",
+        "onboard_time": 1665847886,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 73492,
+        "num": 15459,
+        "word": "请在乌克兰的中国公民撤离转移",
+        "onboard_time": 1665840083,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65312,
+        "num": 15458,
+        "word": "张艺兴演唱会把文化输出玩明白了",
+        "onboard_time": 1665848485,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54560,
+        "num": 15458,
+        "word": "男子躲高铁厕所抽烟被行拘5日",
+        "onboard_time": 1665863590,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39083,
+        "num": 15457,
+        "word": "19岁少女每天记忆被重置",
+        "onboard_time": 1665841285,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37557,
+        "num": 15457,
+        "word": "LGD",
+        "onboard_time": 1665821360,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31161,
+        "num": 15457,
+        "word": "研究发现肥胖会在亲友间传染",
+        "onboard_time": 1665846205,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30027,
+        "num": 15456,
+        "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
+        "onboard_time": 1665845067,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18853,
+        "num": 15455,
+        "word": "摇滚狂花",
+        "onboard_time": 1665839184,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15455,
+        "num": 15454,
+        "word": "哄睡师包月套餐标价1.8万",
+        "onboard_time": 1665809303,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14468,
+        "num": 14468,
+        "word": "还是会相信爱情的",
+        "onboard_time": 1665837205,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12973,
+        "num": 12973,
+        "word": "交警30分钟送断指孩子就医",
+        "onboard_time": 1665858313,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 12615,
+        "num": 12615,
+        "word": "大闸蟹这么吃就对了",
+        "onboard_time": 1665844348,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10885,
+        "num": 10885,
+        "word": "乘客公交车上晕倒女护士跪地抢救",
+        "onboard_time": 1665835224,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 10566,
+        "num": 10566,
+        "word": "统一有好处台独是绝路",
+        "onboard_time": 1665830665,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 9571,
+        "num": 9571,
+        "word": "万里归途",
+        "onboard_time": 1665823582,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9015,
+        "num": 9015,
+        "word": "安宥真lovedive舞台",
+        "onboard_time": 1665848066,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8812,
+        "num": 8812,
+        "word": "女子投喂流浪猫1年获赠仓鼠",
+        "onboard_time": 1665831622,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8736,
+        "num": 8736,
+        "word": "南疆军区无人机空中侦察首次实飞",
+        "onboard_time": 1665865150,
+        "rank": 37,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 8342,
+        "num": 8342,
+        "word": "光与夜之恋",
+        "onboard_time": 1665818840,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8073,
+        "num": 8073,
+        "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+        "onboard_time": 1665814102,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8035,
+        "num": 8035,
+        "word": "八块钱的自行车盒饭",
+        "onboard_time": 1665842366,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7834,
+        "num": 7834,
+        "word": "羡慕猫咪的睡眠质量",
+        "onboard_time": 1665832345,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 7768,
+        "num": 7768,
+        "word": "高校组织采摘活动让学生体验秋收",
+        "onboard_time": 1665865271,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 7111,
+        "num": 7111,
+        "word": "库里庆祝后滑倒",
+        "onboard_time": 1665862452,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6590,
+        "num": 6590,
+        "word": "姚晨晒照告别摇滚狂花",
+        "onboard_time": 1665844947,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6445,
+        "num": 6445,
+        "word": "施罗德手指受伤",
+        "onboard_time": 1665864550,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5092,
+        "num": 5092,
+        "word": "广东男篮vs深圳男篮",
+        "onboard_time": 1665833243,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5820,
+        "num": 5090,
+        "word": "罗云熙罗本脑力在线",
+        "onboard_time": 1665849986,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4000,
+        "num": 5085,
+        "word": "格威踩爆球鞋",
+        "onboard_time": 1665864550,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3796,
+        "num": 5079,
+        "word": "将盆栽越坐越歪的猫咪",
+        "onboard_time": 1665820641,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}
