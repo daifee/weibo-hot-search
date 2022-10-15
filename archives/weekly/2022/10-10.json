@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665853196413,
+  "endTime": 1665855039385,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -9905,6 +9905,14 @@
       "onboard_time": 1665844947,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52159,
+      "num": 52159,
+      "word": "爸爸连夜为儿子做课文中的竹节人",
+      "onboard_time": 1665853638,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 51791,
