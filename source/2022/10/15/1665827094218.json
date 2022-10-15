@@ -1,0 +1,410 @@
+{
+  "runTime": 1665827094218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247045,
+        "num": 1247045,
+        "word": "二十大会期确定",
+        "onboard_time": 1665824541,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 561990,
+        "num": 561990,
+        "word": "二十大议程",
+        "onboard_time": 1665825203,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 439923,
+        "num": 549030,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 541553,
+        "num": 541553,
+        "word": "96岁老人李小龙式亮相惊呆摄影师",
+        "onboard_time": 1665820100,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538042,
+        "num": 538042,
+        "word": "爸爸给儿子取名因谐音五十亿走红",
+        "onboard_time": 1665802944,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419075,
+        "num": 419075,
+        "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+        "onboard_time": 1665814102,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382647,
+        "num": 382647,
+        "word": "河南一村庄引来16位博士建研究院",
+        "onboard_time": 1665825863,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 377879,
+        "num": 377879,
+        "word": "LGD",
+        "onboard_time": 1665821360,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336195,
+        "num": 336195,
+        "word": "帮别人点外卖时先通知对方",
+        "onboard_time": 1665810924,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 277388,
+        "word": "沙漠里走出个航母女兵",
+        "onboard_time": 1665825203,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 276108,
+        "num": 276108,
+        "word": "罗杰斯称中国将成为21世纪最成功的国家",
+        "onboard_time": 1665811825,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247102,
+        "num": 247102,
+        "word": "将盆栽越坐越歪的猫咪",
+        "onboard_time": 1665820641,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202031,
+        "num": 202031,
+        "word": "68岁重庆嬢嬢把钩钩针做成了非遗",
+        "onboard_time": 1665816743,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195102,
+        "num": 195102,
+        "word": "二十大最新消息",
+        "onboard_time": 1665806122,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 190315,
+        "num": 190315,
+        "word": "哄睡师包月套餐标价1.8万",
+        "onboard_time": 1665809303,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188906,
+        "num": 188906,
+        "word": "万里归途",
+        "onboard_time": 1665823582,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165335,
+        "num": 165335,
+        "word": "活得还没10后小朋友明白",
+        "onboard_time": 1665817942,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 160641,
+        "word": "总感觉你不太开心",
+        "onboard_time": 1665798984,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142465,
+        "num": 142465,
+        "word": "TES",
+        "onboard_time": 1665800122,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141021,
+        "num": 141021,
+        "word": "民警咆哮式劝急症门卫大爷就医",
+        "onboard_time": 1665814342,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1012245,
+        "num": 139947,
+        "word": "林志颖车祸后首次露面",
+        "onboard_time": 1665808764,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "海格是魔法世界的领路人",
+        "onboard_time": 1665826462,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "意大利女宇航员怎么会知道王羲之",
+        "onboard_time": 1665812903,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347797,
+        "num": 126393,
+        "word": "BLACKPINK今晚演唱会表演顺序",
+        "onboard_time": 1665821423,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116091,
+        "num": 116091,
+        "word": "9位发小全考上博士携手返乡创业",
+        "onboard_time": 1665801622,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110100,
+        "num": 110100,
+        "word": "3分钟看懂二十大怎么开",
+        "onboard_time": 1665818361,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 306491,
+        "num": 110063,
+        "word": "王一博骑摩托艇把街舞导演甩水里了",
+        "onboard_time": 1665821661,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109034,
+        "num": 109034,
+        "word": "小伙用一片树叶古法捉鸡",
+        "onboard_time": 1665825802,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107996,
+        "num": 107996,
+        "word": "10月14日新增900例本土无症状",
+        "onboard_time": 1665797845,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219826,
+        "num": 107039,
+        "word": "朴志晟钟辰乐翻唱youth",
+        "onboard_time": 1665825863,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103061,
+        "num": 103061,
+        "word": "光与夜之恋",
+        "onboard_time": 1665818840,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102761,
+        "num": 102761,
+        "word": "谁是今年你最喜欢的角色",
+        "onboard_time": 1665814704,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 102216,
+        "word": "哈利波特海格扮演者去世",
+        "onboard_time": 1665768016,
+        "rank": 32,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 100063,
+        "num": 100063,
+        "word": "G2无缘八强",
+        "onboard_time": 1665816682,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86800,
+        "num": 86800,
+        "word": "二十大知识帖",
+        "onboard_time": 1665800062,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90713,
+        "num": 86397,
+        "word": "檀健次沸腾校园蓝色泼墨造型",
+        "onboard_time": 1665825683,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85307,
+        "num": 85307,
+        "word": "千里眼顺风耳让这对双胞胎占全了",
+        "onboard_time": 1665802344,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83440,
+        "num": 83440,
+        "word": "谁能拒绝爱跳舞的小狗呢",
+        "onboard_time": 1665818302,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87415,
+        "num": 83166,
+        "word": "Jennie演唱会路透",
+        "onboard_time": 1665824243,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80584,
+        "num": 80584,
+        "word": "女生清晨推窗发现桂花铺满院",
+        "onboard_time": 1665801442,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80473,
+        "num": 80473,
+        "word": "人民日报任仲平",
+        "onboard_time": 1665793521,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86299,
+        "num": 79859,
+        "word": "蔡徐坤召集淘汰学员重返沸腾校园",
+        "onboard_time": 1665813502,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79241,
+        "num": 79241,
+        "word": "屠呦呦为测青蒿素安全性曾以身试药",
+        "onboard_time": 1665793883,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 74551,
+        "num": 74551,
+        "word": "湖人季前赛47分不敌国王",
+        "onboard_time": 1665812063,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67319,
+        "num": 67319,
+        "word": "真诚的人真的很加分",
+        "onboard_time": 1665796884,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64699,
+        "num": 64699,
+        "word": "流浪猫睡头盔里女子1周未骑车",
+        "onboard_time": 1665805283,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52399,
+        "num": 52399,
+        "word": "狗狗帮看菜摊遇顾客露假笑",
+        "onboard_time": 1665796043,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 50156,
+        "num": 50156,
+        "word": "北控男篮vs新疆男篮",
+        "onboard_time": 1665824962,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44026,
+        "num": 44026,
+        "word": "废矿井发现140年前牛仔裤拍出62万",
+        "onboard_time": 1665791778,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40240,
+        "num": 40240,
+        "word": "钱雷说周深对自己要求很高",
+        "onboard_time": 1665824600,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}
