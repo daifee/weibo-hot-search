@@ -1,10 +1,26 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665873855327,
+  "endTime": 1665876592880,
   "band_list": [
     {
+      "raw_hot": 1582714,
+      "num": 429250,
+      "word": "GAM战胜TES",
+      "onboard_time": 1665875534,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1048036,
+      "num": 130928,
+      "word": "TES确定淘汰",
+      "onboard_time": 1665876136,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 915977,
-      "num": 363550,
+      "num": 484433,
       "word": "二十大发言人回应疫情防控",
       "onboard_time": 1665828144,
       "rank": 1,
@@ -41,6 +57,14 @@
       "onboard_time": 1665841165,
       "rank": 3,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 424743,
+      "num": 424743,
+      "word": "爸爸连夜为儿子做课文中的竹节人",
+      "onboard_time": 1665853638,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 399675,
@@ -83,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300204,
+      "num": 139542,
+      "word": "中国过冬八件套被欧洲买爆",
+      "onboard_time": 1665835405,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283794,
+      "num": 283794,
+      "word": "大众宣布168亿在华投资项目",
+      "onboard_time": 1665856634,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275214,
       "num": 275214,
       "word": "二十大主席团常务委员会成员名单",
@@ -99,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259463,
-      "num": 139542,
-      "word": "中国过冬八件套被欧洲买爆",
-      "onboard_time": 1665835405,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248900,
       "num": 138284,
       "word": "高校神仙颜值老师上课惊叹学生",
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 241105,
-      "num": 368614,
+      "num": 488042,
       "word": "新一届中央政治局常委将同中外记者见面",
       "onboard_time": 1665827363,
       "rank": 0,
@@ -131,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201046,
+      "num": 432212,
+      "word": "二十大议程",
+      "onboard_time": 1665825203,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 181347,
       "num": 133853,
       "word": "90后学霸10年参加上百次发射任务",
@@ -139,12 +179,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 178225,
-      "num": 131113,
-      "word": "爸爸连夜为儿子做课文中的竹节人",
-      "onboard_time": 1665853638,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 165022,
+      "num": 75324,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163450,
@@ -163,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155885,
-      "num": 359187,
-      "word": "二十大议程",
-      "onboard_time": 1665825203,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 153456,
+      "num": 75130,
+      "word": "美国再提供7.25亿美元对乌军事援助",
+      "onboard_time": 1665860593,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 151914,
@@ -211,28 +251,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 110954,
-      "num": 40650,
-      "word": "大众宣布168亿在华投资项目",
-      "onboard_time": 1665856634,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96071,
-      "num": 57598,
-      "word": "美国再提供7.25亿美元对乌军事援助",
-      "onboard_time": 1665860593,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 90712,
       "num": 83825,
       "word": "京城十二时辰2收官",
       "onboard_time": 1665845847,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87439,
+      "num": 87439,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 87140,
@@ -259,20 +291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74899,
+      "num": 74899,
+      "word": "交警30分钟送断指孩子就医",
+      "onboard_time": 1665858313,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 74346,
+      "num": 74346,
+      "word": "罗杰斯称中国将成为21世纪最成功的国家",
+      "onboard_time": 1665811825,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73479,
       "num": 73479,
       "word": "二十大会期确定",
       "onboard_time": 1665824541,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 72196,
-      "num": 34093,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70671,
@@ -291,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64958,
+      "num": 64958,
+      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
+      "onboard_time": 1665814102,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62229,
       "num": 49020,
       "word": "哄睡师包月套餐标价1.8万",
@@ -305,22 +353,6 @@
       "onboard_time": 1665832164,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 60884,
-      "num": 60884,
-      "word": "罗杰斯称中国将成为21世纪最成功的国家",
-      "onboard_time": 1665811825,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59387,
-      "num": 59387,
-      "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
-      "onboard_time": 1665814102,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58767,
@@ -371,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48777,
+      "num": 48777,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 46662,
       "num": 46662,
       "word": "姚晨晒照告别摇滚狂花",
@@ -387,16 +427,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38727,
-      "num": 38727,
-      "word": "乘客公交车上晕倒女护士跪地抢救",
-      "onboard_time": 1665835224,
-      "rank": 35,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 37298,
-      "num": 37298,
+      "raw_hot": 39252,
+      "num": 39252,
       "word": "将盆栽越坐越歪的猫咪",
       "onboard_time": 1665820641,
       "rank": 44,
@@ -417,14 +449,6 @@
       "onboard_time": 1665842907,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33935,
-      "num": 33935,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 32238,
@@ -451,12 +475,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 28377,
-      "num": 28377,
-      "word": "交警30分钟送断指孩子就医",
-      "onboard_time": 1665858313,
-      "rank": 45,
-      "category": "社会正能量"
+      "raw_hot": 19660,
+      "num": 19660,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 18287,
@@ -467,20 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10360,
-      "num": 10472,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 10168,
       "num": 10168,
       "word": "高校组织采摘活动让学生体验秋收",
       "onboard_time": 1665865271,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 9421,
+      "num": 15004,
+      "word": "格威踩爆球鞋",
+      "onboard_time": 1665864550,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 8662,
@@ -491,11 +515,11 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 7513,
-      "num": 10468,
-      "word": "格威踩爆球鞋",
+      "raw_hot": 8047,
+      "num": 15004,
+      "word": "施罗德手指受伤",
       "onboard_time": 1665864550,
-      "rank": 48,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -505,14 +529,6 @@
       "onboard_time": 1665797244,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 6600,
-      "num": 6600,
-      "word": "施罗德手指受伤",
-      "onboard_time": 1665864550,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 6363,

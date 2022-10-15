@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665873855327,
+  "endTime": 1665876592880,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -233,6 +233,14 @@
       "onboard_time": 1665386665,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1582714,
+      "num": 429250,
+      "word": "GAM战胜TES",
+      "onboard_time": 1665875534,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1560379,
@@ -649,6 +657,14 @@
       "onboard_time": 1665565340,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048036,
+      "num": 130928,
+      "word": "TES确定淘汰",
+      "onboard_time": 1665876136,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1037570,
@@ -3131,6 +3147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 424743,
+      "num": 424743,
+      "word": "爸爸连夜为儿子做课文中的竹节人",
+      "onboard_time": 1665853638,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 424307,
       "num": 408581,
       "word": "王源任敏新剧操场奔跑花絮",
@@ -4616,6 +4640,14 @@
       "word": "洗澡护肤有个关键三分钟",
       "onboard_time": 1665410244,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283794,
+      "num": 283794,
+      "word": "大众宣布168亿在华投资项目",
+      "onboard_time": 1665856634,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -6667,14 +6699,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 178225,
-      "num": 131113,
-      "word": "爸爸连夜为儿子做课文中的竹节人",
-      "onboard_time": 1665853638,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 178148,
       "num": 178148,
       "word": "Score确诊新冠",
@@ -6921,6 +6945,14 @@
       "onboard_time": 1665374244,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165022,
+      "num": 75324,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164755,
@@ -7305,6 +7337,14 @@
       "onboard_time": 1665486142,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153456,
+      "num": 75130,
+      "word": "美国再提供7.25亿美元对乌军事援助",
+      "onboard_time": 1665860593,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 153414,
@@ -8459,14 +8499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110954,
-      "num": 40650,
-      "word": "大众宣布168亿在华投资项目",
-      "onboard_time": 1665856634,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110888,
       "num": 110888,
       "word": "中国跳水队公布世界杯参赛名单",
@@ -8875,14 +8907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96071,
-      "num": 57598,
-      "word": "美国再提供7.25亿美元对乌军事援助",
-      "onboard_time": 1665860593,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 96010,
       "num": 96010,
       "word": "Meiko锤石三连MVP",
@@ -9121,6 +9145,14 @@
       "onboard_time": 1665326606,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87439,
+      "num": 205544,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87415,
@@ -9467,12 +9499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75409,
-      "num": 205544,
-      "word": "乘客公交车上晕倒女护士跪地抢救",
-      "onboard_time": 1665835224,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 74899,
+      "num": 74899,
+      "word": "交警30分钟送断指孩子就医",
+      "onboard_time": 1665858313,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 74768,
@@ -9504,14 +9536,6 @@
       "word": "主人地铁落座给找座的导盲犬铺垫子",
       "onboard_time": 1665434469,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72196,
-      "num": 34093,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -10019,6 +10043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48777,
+      "num": 48777,
+      "word": "南疆军区无人机空中侦察首次实飞",
+      "onboard_time": 1665865150,
+      "rank": 42,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 48355,
       "num": 267669,
       "word": "小车坠河交警4分钟救出被困4人",
@@ -10275,14 +10307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 33935,
-      "num": 33935,
-      "word": "南疆军区无人机空中侦察首次实飞",
-      "onboard_time": 1665865150,
-      "rank": 42,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 32991,
       "num": 40986,
       "word": "伞兵花式晒奖杯",
@@ -10321,14 +10345,6 @@
       "onboard_time": 1665651625,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28377,
-      "num": 28377,
-      "word": "交警30分钟送断指孩子就医",
-      "onboard_time": 1665858313,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 28216,
@@ -10401,6 +10417,14 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19660,
+      "num": 19660,
+      "word": "库里庆祝后滑倒",
+      "onboard_time": 1665862452,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 18287,
@@ -10555,14 +10579,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 10360,
-      "num": 10472,
-      "word": "库里庆祝后滑倒",
-      "onboard_time": 1665862452,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 10168,
       "num": 10168,
       "word": "高校组织采摘活动让学生体验秋收",
@@ -10577,6 +10593,14 @@
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9421,
+      "num": 15004,
+      "word": "格威踩爆球鞋",
+      "onboard_time": 1665864550,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 9140,
@@ -10611,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8047,
+      "num": 15004,
+      "word": "施罗德手指受伤",
+      "onboard_time": 1665864550,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7947,
       "num": 10006,
       "word": "北京男篮vs福建男篮",
@@ -10633,14 +10665,6 @@
       "onboard_time": 1665777493,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 7513,
-      "num": 10468,
-      "word": "格威踩爆球鞋",
-      "onboard_time": 1665864550,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 7453,
@@ -10681,14 +10705,6 @@
       "onboard_time": 1665602830,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 6600,
-      "num": 6600,
-      "word": "施罗德手指受伤",
-      "onboard_time": 1665864550,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 6579,

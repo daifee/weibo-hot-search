@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 06:44:15
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 07:29:52
 </p>
 </blockquote>
 <p>
@@ -617,6 +617,12 @@ RNG（热度：1856164）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B9%9D%E6%88%90%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%AF%E6%8C%81%E5%BC%80%E8%AE%BE%E6%81%8B%E7%88%B1%E8%AF%BE%23" target="weibo">
 近九成大学生支持开设恋爱课（热度：1585430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GAM%E6%88%98%E8%83%9CTES%23" target="weibo">
+GAM战胜TES（热度：1582714）
 </a>
 </li>
 
@@ -1457,6 +1463,12 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E6%8F%B4%E6%96%B0%E7%96%86%23" target="weibo">
 支援新疆（热度：1048272）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E7%A1%AE%E5%AE%9A%E6%B7%98%E6%B1%B0%23" target="weibo">
+TES确定淘汰（热度：1048036）
 </a>
 </li>
 
@@ -5547,6 +5559,12 @@ gidle概念预告照（热度：424921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
+爸爸连夜为儿子做课文中的竹节人（热度：424743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%BA%BA%E5%9C%A8%E6%B2%88%E6%9C%88%E8%85%BF%E4%B8%8A%E8%8A%B1%E7%B5%AE%E7%85%A7%23" target="weibo">
 陈哲远躺在沈月腿上花絮照（热度：424395）
 </a>
@@ -5993,24 +6011,6 @@ MAMAMOO新歌ILLELLA（热度：398923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%97%A7%E9%87%91%E5%B1%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张艺兴旧金山演唱会（热度：398680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91330%E4%BA%BF%23" target="weibo">
-海天味业市值蒸发330亿（热度：397547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%B6%85%E8%B6%8AUzi%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E8%B5%9B%E5%87%BB%E6%9D%80%E7%8E%8B%23" target="weibo">
-Faker超越Uzi成为世界赛击杀王（热度：397462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9E%97%E4%B8%80%E6%96%B0%E5%89%A7%E9%A2%84%E5%91%8A%23" target="weibo">
-白百何谭松韵林一新剧预告（热度：397090）
 </a>
 </li>
 
