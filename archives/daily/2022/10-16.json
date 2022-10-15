@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665865619482,
+  "endTime": 1665866628987,
   "band_list": [
     {
       "raw_hot": 915977,
@@ -419,6 +419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 22657,
+      "num": 12683,
+      "word": "男子躲高铁厕所抽烟被行拘5日",
+      "onboard_time": 1665863590,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16954,
       "num": 16954,
       "word": "交警30分钟送断指孩子就医",
@@ -427,20 +435,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 15519,
-      "num": 12683,
-      "word": "男子躲高铁厕所抽烟被行拘5日",
-      "onboard_time": 1665863590,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8662,
       "num": 8662,
       "word": "运20生产车间罕见曝光",
       "onboard_time": 1665859333,
       "rank": 47,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 8014,
+      "num": 8014,
+      "word": "乘客公交车上晕倒女护士跪地抢救",
+      "onboard_time": 1665835224,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 6679,

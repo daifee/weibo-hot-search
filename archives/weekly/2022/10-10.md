@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 04:26:59
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/16 04:43:48
 </p>
 </blockquote>
 <p>
@@ -7779,6 +7779,12 @@ DK战胜G2（热度：42452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23" target="weibo">
+男子躲高铁厕所抽烟被行拘5日（热度：22657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TVB%E6%96%B0%E5%89%A7%E5%A5%B3%E6%80%A7%E7%BE%A4%E5%83%8F%E8%BF%98%E6%98%AF%E7%86%9F%E6%82%89%E7%9A%84%E5%91%B3%E9%81%93%23" target="weibo">
 TVB新剧女性群像还是熟悉的味道（热度：21148）
 </a>
@@ -7835,12 +7841,6 @@ TVB新剧女性群像还是熟悉的味道（热度：21148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%97%A8%E7%A5%A8%E7%AE%97%E6%98%AF%E6%B2%A1%E7%99%BD%E4%B9%B0%23" target="weibo">
 这动物园门票算是没白买（热度：15753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23" target="weibo">
-男子躲高铁厕所抽烟被行拘5日（热度：15519）
 </a>
 </li>
 
