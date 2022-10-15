@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665822809792,
+  "endTime": 1665823873819,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -779,6 +779,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 965761,
+      "num": 314785,
+      "word": "金高银翻跳了HypeBoy",
+      "onboard_time": 1665821060,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 963062,
       "num": 963062,
       "word": "商场回应影院不让带蜜雪冰城",
@@ -985,14 +993,6 @@
       "onboard_time": 1665459625,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 860722,
-      "num": 314785,
-      "word": "金高银翻跳了HypeBoy",
-      "onboard_time": 1665821060,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 858719,
@@ -1488,6 +1488,14 @@
       "word": "南宁动物园回应动物不正经",
       "onboard_time": 1665665485,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700236,
+      "num": 412700,
+      "word": "96岁老人李小龙式亮相惊呆摄影师",
+      "onboard_time": 1665820100,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2443,6 +2451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 496178,
+      "num": 385652,
+      "word": "LGD",
+      "onboard_time": 1665821360,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494013,
       "num": 442075,
       "word": "泽连斯基针对空袭发声",
@@ -2795,6 +2811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444642,
+      "num": 293858,
+      "word": "BLACKPINK今晚演唱会表演顺序",
+      "onboard_time": 1665821423,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 444517,
       "num": 444517,
       "word": "奖励优秀生的小猪9月后卖了4000元",
@@ -2824,14 +2848,6 @@
       "word": "母亲穿西装送女儿出嫁被当成闺蜜",
       "onboard_time": 1665323785,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441382,
-      "num": 382163,
-      "word": "96岁老人李小龙式亮相惊呆摄影师",
-      "onboard_time": 1665820100,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3331,14 +3347,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 385715,
-      "num": 293858,
-      "word": "BLACKPINK今晚演唱会表演顺序",
-      "onboard_time": 1665821423,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 385294,
       "num": 336473,
       "word": "沈小婷回归发布会新闻图",
@@ -3385,14 +3393,6 @@
       "onboard_time": 1665569607,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 379810,
-      "num": 379810,
-      "word": "LGD",
-      "onboard_time": 1665821360,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 379524,
@@ -3939,6 +3939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324879,
+      "num": 284181,
+      "word": "王一博骑摩托艇把街舞导演甩水里了",
+      "onboard_time": 1665821661,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324368,
       "num": 324368,
       "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
@@ -4321,14 +4329,6 @@
       "onboard_time": 1665410244,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284181,
-      "num": 284181,
-      "word": "王一博骑摩托艇把街舞导演甩水里了",
-      "onboard_time": 1665821661,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 283314,
@@ -6171,6 +6171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184639,
+      "num": 184639,
+      "word": "3分钟看懂二十大怎么开",
+      "onboard_time": 1665818361,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 184286,
+      "num": 184286,
+      "word": "将盆栽越坐越歪的猫咪",
+      "onboard_time": 1665820641,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183889,
       "num": 183889,
       "word": "缉毒警14年缴获2吨毒品获一等功",
@@ -6497,14 +6513,6 @@
       "onboard_time": 1665374244,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165119,
-      "num": 165119,
-      "word": "3分钟看懂二十大怎么开",
-      "onboard_time": 1665818361,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 164755,
@@ -7129,14 +7137,6 @@
       "onboard_time": 1665581005,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143640,
-      "num": 143640,
-      "word": "将盆栽越坐越歪的猫咪",
-      "onboard_time": 1665820641,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 143366,
@@ -8124,7 +8124,7 @@
     },
     {
       "raw_hot": 105577,
-      "num": 386542,
+      "num": 405202,
       "word": "二十大知识帖",
       "onboard_time": 1665800062,
       "rank": 42,
@@ -8643,6 +8643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85089,
+      "num": 85089,
+      "word": "这灯是不是亮的不是时候",
+      "onboard_time": 1665822742,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84868,
       "num": 84868,
       "word": "中国研发新战机脚步从未停歇",
@@ -8763,6 +8771,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 81892,
+      "num": 81892,
+      "word": "万里归途",
+      "onboard_time": 1665823582,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81820,
       "num": 81820,
       "word": "90后男老师为毕业生打造治愈教室",
@@ -8843,7 +8859,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77855,
+      "raw_hot": 78114,
       "num": 418053,
       "word": "青绿山水勾画出祖国壮丽山河",
       "onboard_time": 1665816201,
@@ -9243,6 +9259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58419,
+      "num": 290318,
+      "word": "6名大学生紧急救护摔伤男子",
+      "onboard_time": 1665820882,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57357,
       "num": 317092,
       "word": "老人遗失10万救命钱路人拾金不昧",
@@ -9273,14 +9297,6 @@
       "onboard_time": 1665322287,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55924,
-      "num": 55924,
-      "word": "这灯是不是亮的不是时候",
-      "onboard_time": 1665822742,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 55327,
@@ -9433,14 +9449,6 @@
       "onboard_time": 1665698232,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47261,
-      "num": 290318,
-      "word": "6名大学生紧急救护摔伤男子",
-      "onboard_time": 1665820882,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46652,
@@ -9683,6 +9691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25442,
+      "num": 409312,
+      "word": "巾帼指挥官侯静见证中国海油的十年跨越",
+      "onboard_time": 1665814883,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24728,
       "num": 24728,
       "word": "唐朝诡事录公主摆鸿门宴",
@@ -9713,14 +9729,6 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22896,
-      "num": 409312,
-      "word": "巾帼指挥官侯静见证中国海油的十年跨越",
-      "onboard_time": 1665814883,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21148,
