@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 07:30:22
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 07:47:20
 </p>
 </blockquote>
 <p>
@@ -2427,6 +2427,12 @@ DK（热度：781704）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23" target="weibo">
+RNG晋级八强（热度：781244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%B0%86%E4%B9%8C%E9%BE%9F%E5%BD%93%E6%9E%95%E5%A4%B4%E8%BA%BA%E6%B1%9F%E8%BE%B9%E7%86%9F%E7%9D%A1%23" target="weibo">
 大爷将乌龟当枕头躺江边熟睡（热度：780526）
 </a>
@@ -3095,12 +3101,6 @@ TES（热度：684055）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%90%9B%E5%A4%A7%E7%BB%93%E5%B1%80%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23" target="weibo">
 请君大结局太好哭了（热度：678112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23" target="weibo">
-RNG晋级八强（热度：677536）
 </a>
 </li>
 

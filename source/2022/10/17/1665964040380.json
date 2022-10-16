@@ -1,0 +1,410 @@
+{
+  "runTime": 1665964040380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 188867,
+        "num": 188867,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1665893608,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179882,
+        "num": 179882,
+        "word": "二十大报告金句",
+        "onboard_time": 1665895108,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49829,
+        "num": 151623,
+        "word": "你好二十大",
+        "onboard_time": 1665932543,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138680,
+        "num": 138680,
+        "word": "二十大报告寄语广大青年",
+        "onboard_time": 1665923784,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 133146,
+        "num": 133146,
+        "word": "中国永远不称霸永远不搞扩张",
+        "onboard_time": 1665893249,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83153,
+        "num": 83153,
+        "word": "中国粮带给中国人的安全感",
+        "onboard_time": 1665920423,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53750,
+        "num": 53750,
+        "word": "二十大报告",
+        "onboard_time": 1665889830,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38732,
+        "num": 38732,
+        "word": "我们要全面加强练兵备战",
+        "onboard_time": 1665892830,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32085,
+        "num": 32085,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31081,
+        "num": 31081,
+        "word": "二十大报告金句视频版",
+        "onboard_time": 1665900744,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781244,
+        "num": 25913,
+        "word": "RNG晋级八强",
+        "onboard_time": 1665962477,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115356,
+        "num": 23775,
+        "word": "她是首批飞豹战机前舱女飞行员",
+        "onboard_time": 1665948310,
+        "rank": 11,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 108267,
+        "num": 21469,
+        "word": "二十大报告里致青年的话",
+        "onboard_time": 1665963259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18601,
+        "num": 18601,
+        "word": "从现在起中国共产党的中心任务",
+        "onboard_time": 1665889471,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16874,
+        "num": 16874,
+        "word": "乘客公交车上晕倒女护士跪地抢救",
+        "onboard_time": 1665835224,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 392847,
+        "num": 16868,
+        "word": "宝马将把mini电动车型生产线迁至中国",
+        "onboard_time": 1665932543,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 372606,
+        "num": 16860,
+        "word": "蚊子居然还有头发",
+        "onboard_time": 1665932485,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325103,
+        "num": 16855,
+        "word": "女子丢35万手镯2地铁警接力找回",
+        "onboard_time": 1665923723,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297481,
+        "num": 16851,
+        "word": "国人的车厘子自由从河南开始",
+        "onboard_time": 1665930924,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271967,
+        "num": 16840,
+        "word": "顾客以为付款没成功亲自送来现金",
+        "onboard_time": 1665913702,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 320225,
+        "num": 16838,
+        "word": "支付宝已支持给微信QQ好友转账",
+        "onboard_time": 1665896249,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313397,
+        "num": 16828,
+        "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+        "onboard_time": 1665932784,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188573,
+        "num": 16823,
+        "word": "小女孩读妈妈睡了课文泪流满面",
+        "onboard_time": 1665930805,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170887,
+        "num": 16812,
+        "word": "山东一村8090后全部回村就业",
+        "onboard_time": 1665915921,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165967,
+        "num": 16808,
+        "word": "上班后数学题也变合理了",
+        "onboard_time": 1665931646,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155088,
+        "num": 16802,
+        "word": "男子用不锈钢硬核装修全屋",
+        "onboard_time": 1665936083,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149692,
+        "num": 16790,
+        "word": "南京街头刮起一阵柿子风",
+        "onboard_time": 1665932364,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133919,
+        "num": 16782,
+        "word": "8岁男孩喜欢画房子梦想当建筑师",
+        "onboard_time": 1665944710,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129977,
+        "num": 16778,
+        "word": "爆款国民床单背后还有一段甜蜜爱情",
+        "onboard_time": 1665930563,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119026,
+        "num": 16771,
+        "word": "老爸阳台顶上建鱼池满足全家需求",
+        "onboard_time": 1665928884,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155649,
+        "num": 16760,
+        "word": "S12八强名额全部确定",
+        "onboard_time": 1665963138,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113520,
+        "num": 16754,
+        "word": "皇马3比1巴萨",
+        "onboard_time": 1665962598,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 16747,
+        "word": "待售鸭群主动上前供客人挑选",
+        "onboard_time": 1665930145,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 16741,
+        "word": "GEN晋级八强",
+        "onboard_time": 1665962416,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105689,
+        "num": 16739,
+        "word": "110岁母亲和88岁儿子手拉手逛茶会",
+        "onboard_time": 1665921804,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103340,
+        "num": 16730,
+        "word": "因爸爸不让玩女儿抽泣控诉压力大",
+        "onboard_time": 1665904764,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 16723,
+        "word": "Doinb",
+        "onboard_time": 1665920904,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91145,
+        "num": 16710,
+        "word": "选文科真的是因为热爱",
+        "onboard_time": 1665907522,
+        "rank": 37,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 85700,
+        "num": 16706,
+        "word": "怎么会不羡慕白秀珠呢",
+        "onboard_time": 1665905124,
+        "rank": 38,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 111516,
+        "num": 16701,
+        "word": "TES bug",
+        "onboard_time": 1665963620,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78887,
+        "num": 16691,
+        "word": "利物浦vs曼城",
+        "onboard_time": 1665932426,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78824,
+        "num": 16683,
+        "word": "养猫家庭养绿植的方式",
+        "onboard_time": 1665943215,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90314,
+        "num": 16678,
+        "word": "Ming世界赛500助攻",
+        "onboard_time": 1665963259,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67263,
+        "num": 16675,
+        "word": "误入戏台的狗狗",
+        "onboard_time": 1665933804,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67083,
+        "num": 16661,
+        "word": "女子生日被4好友拖行示众",
+        "onboard_time": 1665963801,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84631,
+        "num": 16656,
+        "word": "V社处罚LGD",
+        "onboard_time": 1665931823,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65415,
+        "num": 16653,
+        "word": "猫咪绝育后经历社死瞬间",
+        "onboard_time": 1665916282,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55155,
+        "num": 16646,
+        "word": "皇马vs巴萨",
+        "onboard_time": 1665927445,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49850,
+        "num": 16636,
+        "word": "外卖备注都这么有意思了",
+        "onboard_time": 1665896128,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47746,
+        "num": 16632,
+        "word": "国乒全主力阵容将出战WTT两站比赛",
+        "onboard_time": 1665928464,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
