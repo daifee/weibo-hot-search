@@ -1,0 +1,410 @@
+{
+  "runTime": 1665913495750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047396,
+        "num": 1047396,
+        "word": "二十大报告金句",
+        "onboard_time": 1665895108,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627992,
+        "num": 627992,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1665893608,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115039,
+        "num": 552440,
+        "word": "守江山守的是人民的心",
+        "onboard_time": 1665892048,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 543719,
+        "num": 543719,
+        "word": "二十大报告",
+        "onboard_time": 1665889830,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356506,
+        "num": 356506,
+        "word": "中国永远不称霸永远不搞扩张",
+        "onboard_time": 1665893249,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207593,
+        "num": 207593,
+        "word": "从现在起中国共产党的中心任务",
+        "onboard_time": 1665889471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 159018,
+        "word": "我们要全面加强练兵备战",
+        "onboard_time": 1665892830,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131624,
+        "num": 131624,
+        "word": "国际友人给女儿改名菌草",
+        "onboard_time": 1665886770,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96230,
+        "num": 96230,
+        "word": "十年来我们经历了三件大事",
+        "onboard_time": 1665887850,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95499,
+        "num": 95499,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67291,
+        "num": 67291,
+        "word": "二十大是个什么会",
+        "onboard_time": 1665847526,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54764,
+        "num": 54764,
+        "word": "我国经济实力实现历史性跃升",
+        "onboard_time": 1665891808,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51365,
+        "num": 51365,
+        "word": "故宫博物院院长提出四大愿景",
+        "onboard_time": 1665884847,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 47382,
+        "word": "二十大报告金句视频版",
+        "onboard_time": 1665900744,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42844,
+        "num": 42844,
+        "word": "中国式现代化的含义",
+        "onboard_time": 1665891329,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736878,
+        "num": 42802,
+        "word": "选文科真的是因为热爱",
+        "onboard_time": 1665907522,
+        "rank": 15,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 400776,
+        "num": 42771,
+        "word": "萨摩耶路过学校被学生热情围观",
+        "onboard_time": 1665907880,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337901,
+        "num": 42696,
+        "word": "看手机时下巴微收可减少颈椎压力",
+        "onboard_time": 1665909143,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316409,
+        "num": 42677,
+        "word": "当近视眼镜对着宝宝脸时",
+        "onboard_time": 1665908303,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201031,
+        "num": 42602,
+        "word": "西安电子科技大学91周年校庆",
+        "onboard_time": 1665906263,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 726604,
+        "num": 42539,
+        "word": "支付宝已支持给微信QQ好友转账",
+        "onboard_time": 1665896249,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 435934,
+        "num": 42499,
+        "word": "因爸爸不让玩女儿抽泣控诉压力大",
+        "onboard_time": 1665904764,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309327,
+        "num": 42428,
+        "word": "怎么会不羡慕白秀珠呢",
+        "onboard_time": 1665905124,
+        "rank": 22,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 236490,
+        "num": 42365,
+        "word": "歼20工程师30多年隐秘而伟大",
+        "onboard_time": 1665905723,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 211169,
+        "num": 42360,
+        "word": "白发太姥姥教罕见病女孩用勺子",
+        "onboard_time": 1665906442,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209291,
+        "num": 42300,
+        "word": "师太摸脸蹭头安抚咬她手的独臂猴",
+        "onboard_time": 1665910882,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199426,
+        "num": 42219,
+        "word": "外卖备注都这么有意思了",
+        "onboard_time": 1665896128,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194723,
+        "num": 42149,
+        "word": "万里归途票房破13亿",
+        "onboard_time": 1665907223,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 42127,
+        "word": "山东的食物都是oversize",
+        "onboard_time": 1665891508,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143361,
+        "num": 42083,
+        "word": "小学生撞车留纸条道歉司机免赔偿",
+        "onboard_time": 1665908602,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111531,
+        "num": 41992,
+        "word": "中国射击队世锦赛再夺两金",
+        "onboard_time": 1665912441,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108012,
+        "num": 41936,
+        "word": "JackeyLove哭了",
+        "onboard_time": 1665882752,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98731,
+        "num": 41926,
+        "word": "猫咪串门被邻居大爷灵魂拷问",
+        "onboard_time": 1665896908,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94869,
+        "num": 41834,
+        "word": "妈妈拎锅给儿子全宿舍送饭",
+        "onboard_time": 1665892770,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94678,
+        "num": 41787,
+        "word": "Tian",
+        "onboard_time": 1665879862,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90603,
+        "num": 41714,
+        "word": "罗云熙再演律师",
+        "onboard_time": 1665904583,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69781,
+        "num": 41713,
+        "word": "研究发现肥胖会在亲友间传染",
+        "onboard_time": 1665846205,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83032,
+        "num": 41627,
+        "word": "Mark哭了",
+        "onboard_time": 1665884006,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69589,
+        "num": 41577,
+        "word": "昆山吸引外资最大的底气",
+        "onboard_time": 1665901346,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67072,
+        "num": 41506,
+        "word": "塞尔维亚女排卫冕世锦赛冠军",
+        "onboard_time": 1665899066,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64459,
+        "num": 41454,
+        "word": "TES确定淘汰",
+        "onboard_time": 1665876136,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60921,
+        "num": 41424,
+        "word": "张艺兴演唱会把文化输出玩明白了",
+        "onboard_time": 1665848485,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60671,
+        "num": 41340,
+        "word": "这作业我指定嗷嗷写",
+        "onboard_time": 1665894568,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59162,
+        "num": 41300,
+        "word": "美国再提供7.25亿美元对乌军事援助",
+        "onboard_time": 1665860593,
+        "rank": 43,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 57173,
+        "num": 41241,
+        "word": "这样调滤镜真的很出片",
+        "onboard_time": 1665913042,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57089,
+        "num": 41195,
+        "word": "男子躲高铁厕所抽烟被行拘5日",
+        "onboard_time": 1665863590,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50850,
+        "num": 41164,
+        "word": "安徽浙江拿5亿元进行水质对赌",
+        "onboard_time": 1665877518,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48526,
+        "num": 41092,
+        "word": "大众宣布168亿在华投资项目",
+        "onboard_time": 1665856634,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41067,
+        "num": 41067,
+        "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
+        "onboard_time": 1665845067,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37156,
+        "num": 37156,
+        "word": "田间最赤诚的少年",
+        "onboard_time": 1665912264,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

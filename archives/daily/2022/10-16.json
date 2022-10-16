@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665912415878,
+  "endTime": 1665913495750,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337901,
+      "num": 50151,
+      "word": "看手机时下巴微收可减少颈椎压力",
+      "onboard_time": 1665909143,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335387,
       "num": 335387,
       "word": "一只很善良的小猫",
@@ -387,20 +395,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 316409,
+      "num": 52034,
+      "word": "当近视眼镜对着宝宝脸时",
+      "onboard_time": 1665908303,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 308618,
       "num": 132506,
       "word": "猫咪串门被邻居大爷灵魂拷问",
       "onboard_time": 1665896908,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306018,
-      "num": 52034,
-      "word": "当近视眼镜对着宝宝脸时",
-      "onboard_time": 1665908303,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 301819,
@@ -416,14 +424,6 @@
       "word": "以最大诚意尽最大努力争取和平统一前景",
       "onboard_time": 1665892350,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291319,
-      "num": 50151,
-      "word": "看手机时下巴微收可减少颈椎压力",
-      "onboard_time": 1665909143,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209291,
+      "num": 48267,
+      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
+      "onboard_time": 1665910882,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201344,
       "num": 143801,
       "word": "原来办狗证还需要采集鼻纹",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143361,
+      "num": 50091,
+      "word": "小学生撞车留纸条道歉司机免赔偿",
+      "onboard_time": 1665908602,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142981,
       "num": 142981,
       "word": "王亚平期待和国外同行同上中国空间站",
@@ -683,28 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138236,
-      "num": 48267,
-      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
-      "onboard_time": 1665910882,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136197,
       "num": 136197,
       "word": "TES小组赛三连败",
       "onboard_time": 1665876615,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135273,
-      "num": 50091,
-      "word": "小学生撞车留纸条道歉司机免赔偿",
-      "onboard_time": 1665908602,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133782,
@@ -745,6 +745,14 @@
       "onboard_time": 1665858313,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 111531,
+      "num": 41992,
+      "word": "中国射击队世锦赛再夺两金",
+      "onboard_time": 1665912441,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 110913,
@@ -929,6 +937,14 @@
       "onboard_time": 1665830665,
       "rank": 36,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 57173,
+      "num": 41241,
+      "word": "这样调滤镜真的很出片",
+      "onboard_time": 1665913042,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 55617,
