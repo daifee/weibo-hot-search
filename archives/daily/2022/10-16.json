@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665930263036,
+  "endTime": 1665931353201,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329962,
+      "num": 24803,
+      "word": "老爸阳台顶上建鱼池满足全家需求",
+      "onboard_time": 1665928884,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325791,
       "num": 141920,
       "word": "DRX小组第一",
@@ -497,6 +505,14 @@
       "onboard_time": 1665892350,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288164,
+      "num": 24803,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1665927445,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 285255,
@@ -627,22 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203689,
-      "num": 24803,
-      "word": "皇马vs巴萨",
-      "onboard_time": 1665927445,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201503,
-      "num": 24803,
-      "word": "老爸阳台顶上建鱼池满足全家需求",
-      "onboard_time": 1665928884,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201344,
       "num": 143801,
       "word": "原来办狗证还需要采集鼻纹",
@@ -699,6 +699,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 187318,
+      "num": 24799,
+      "word": "国乒全主力阵容将出战WTT两站比赛",
+      "onboard_time": 1665928464,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186609,
       "num": 139207,
       "word": "新时代新征程",
@@ -731,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179498,
-      "num": 24799,
-      "word": "国乒全主力阵容将出战WTT两站比赛",
-      "onboard_time": 1665928464,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165502,
       "num": 24780,
       "word": "利兹联vs阿森纳比赛中断",
@@ -763,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161718,
+      "num": 24795,
+      "word": "C罗首发",
+      "onboard_time": 1665928643,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160856,
       "num": 26066,
       "word": "萌娃拿奶茶蹲地铁口等妈妈下班",
       "onboard_time": 1665921562,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157359,
-      "num": 24795,
-      "word": "C罗首发",
-      "onboard_time": 1665928643,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 155949,
@@ -907,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127560,
+      "num": 24772,
+      "word": "待售鸭群主动上前供客人挑选",
+      "onboard_time": 1665930145,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124076,
       "num": 690131,
       "word": "守江山守的是人民的心",
@@ -945,6 +953,14 @@
       "onboard_time": 1665900744,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105529,
+      "num": 23662,
+      "word": "爆款国民床单背后还有一段甜蜜爱情",
+      "onboard_time": 1665930563,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 105289,
@@ -1001,6 +1017,22 @@
       "onboard_time": 1665845847,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89231,
+      "num": 23623,
+      "word": "国人的车厘子自由从河南开始",
+      "onboard_time": 1665930924,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88803,
+      "num": 24774,
+      "word": "弗格森拥抱C罗",
+      "onboard_time": 1665929364,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 88090,
@@ -1064,6 +1096,14 @@
       "word": "舅舅抱娃摔倒瞬间180度翻转当肉垫",
       "onboard_time": 1665814102,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72570,
+      "num": 23567,
+      "word": "小女孩读妈妈睡了课文泪流满面",
+      "onboard_time": 1665930805,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1131,14 +1171,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 61477,
-      "num": 24774,
-      "word": "弗格森拥抱C罗",
-      "onboard_time": 1665929364,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60578,
       "num": 23740,
       "word": "秋日的华山云海有多美",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1665862931,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53960,
-      "num": 24772,
-      "word": "待售鸭群主动上前供客人挑选",
-      "onboard_time": 1665930145,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53027,
