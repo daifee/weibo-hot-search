@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665934012068,
+  "endTime": 1665935160624,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405795,
+      "num": 19723,
+      "word": "蚊子居然还有头发",
+      "onboard_time": 1665932485,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399675,
       "num": 141042,
       "word": "女子自购贴纸遮挡违法代孕信息",
@@ -459,14 +467,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 331820,
-      "num": 19723,
-      "word": "蚊子居然还有头发",
-      "onboard_time": 1665932485,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331760,
       "num": 52819,
       "word": "万里归途票房破13亿",
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323739,
+      "num": 19717,
+      "word": "宝马将把mini电动车型生产线迁至中国",
+      "onboard_time": 1665932543,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 320724,
       "num": 227116,
       "word": "19岁少女每天记忆被重置",
@@ -513,6 +521,14 @@
       "onboard_time": 1665908303,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 311501,
+      "num": 19717,
+      "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+      "onboard_time": 1665932784,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308618,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249078,
+      "num": 19715,
+      "word": "32岁李晓旭状态",
+      "onboard_time": 1665932125,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241105,
       "num": 747164,
       "word": "新一届中央政治局常委将同中外记者见面",
@@ -675,22 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203950,
-      "num": 19717,
-      "word": "宝马将把mini电动车型生产线迁至中国",
-      "onboard_time": 1665932543,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 201691,
-      "num": 19717,
-      "word": "男子逗鱼被咬甩手摔下千元鱼苗",
-      "onboard_time": 1665932784,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201344,
       "num": 143801,
       "word": "原来办狗证还需要采集鼻纹",
@@ -707,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194748,
-      "num": 19715,
-      "word": "32岁李晓旭状态",
-      "onboard_time": 1665932125,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194718,
       "num": 82302,
       "word": "昆山吸引外资最大的底气",
@@ -729,6 +729,14 @@
       "onboard_time": 1665863590,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188871,
+      "num": 19715,
+      "word": "上班后数学题也变合理了",
+      "onboard_time": 1665931646,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 188617,
@@ -763,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186966,
-      "num": 19715,
-      "word": "上班后数学题也变合理了",
-      "onboard_time": 1665931646,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186609,
       "num": 139207,
       "word": "新时代新征程",
@@ -793,6 +793,14 @@
       "onboard_time": 1665930563,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 19706,
+      "word": "南京街头刮起一阵柿子风",
+      "onboard_time": 1665932364,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181347,
@@ -849,6 +857,14 @@
       "onboard_time": 1665921562,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158545,
+      "num": 19708,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1665932426,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155949,
@@ -987,22 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127617,
-      "num": 19708,
-      "word": "利物浦vs曼城",
-      "onboard_time": 1665932426,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127094,
-      "num": 19706,
-      "word": "南京街头刮起一阵柿子风",
-      "onboard_time": 1665932364,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124076,
       "num": 690131,
       "word": "守江山守的是人民的心",
@@ -1139,12 +1139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75421,
+      "num": 297529,
+      "word": "你好二十大",
+      "onboard_time": 1665932543,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 74985,
       "num": 32294,
       "word": "DRX晋级八强",
       "onboard_time": 1665918442,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74512,
+      "num": 19694,
+      "word": "误入戏台的狗狗",
+      "onboard_time": 1665933804,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 74346,
@@ -1283,14 +1299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53603,
-      "num": 297529,
-      "word": "你好二十大",
-      "onboard_time": 1665932543,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 53027,
       "num": 53027,
       "word": "摇滚狂花",
@@ -1312,14 +1320,6 @@
       "word": "帮别人点外卖时先通知对方",
       "onboard_time": 1665810924,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 50901,
-      "num": 19694,
-      "word": "误入戏台的狗狗",
-      "onboard_time": 1665933804,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1607,6 +1607,9 @@
     },
     {
       "word": "#学习二十大报告#"
+    },
+    {
+      "word": "#关注党的二十大#"
     }
   ]
 }

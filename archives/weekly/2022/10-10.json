@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665934012068,
+  "endTime": 1665935160624,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -3635,6 +3635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405795,
+      "num": 19723,
+      "word": "蚊子居然还有头发",
+      "onboard_time": 1665932485,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405701,
       "num": 405701,
       "word": "追光者剧情",
@@ -4475,14 +4483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331820,
-      "num": 19723,
-      "word": "蚊子居然还有头发",
-      "onboard_time": 1665932485,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331760,
       "num": 52819,
       "word": "万里归途票房破13亿",
@@ -4601,6 +4601,14 @@
       "onboard_time": 1665842187,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323739,
+      "num": 19717,
+      "word": "宝马将把mini电动车型生产线迁至中国",
+      "onboard_time": 1665932543,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 323350,
@@ -4769,6 +4777,14 @@
       "onboard_time": 1665546626,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311501,
+      "num": 19717,
+      "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+      "onboard_time": 1665932784,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311488,
@@ -5747,6 +5763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249078,
+      "num": 19715,
+      "word": "32岁李晓旭状态",
+      "onboard_time": 1665932125,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248610,
       "num": 248610,
       "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
@@ -6643,14 +6667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203950,
-      "num": 19717,
-      "word": "宝马将把mini电动车型生产线迁至中国",
-      "onboard_time": 1665932543,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 203668,
       "num": 203668,
       "word": "CBA",
@@ -6729,14 +6745,6 @@
       "onboard_time": 1665498389,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201691,
-      "num": 19717,
-      "word": "男子逗鱼被咬甩手摔下千元鱼苗",
-      "onboard_time": 1665932784,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201344,
@@ -6907,14 +6915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194748,
-      "num": 19715,
-      "word": "32岁李晓旭状态",
-      "onboard_time": 1665932125,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194718,
       "num": 82302,
       "word": "昆山吸引外资最大的底气",
@@ -7075,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188871,
+      "num": 19715,
+      "word": "上班后数学题也变合理了",
+      "onboard_time": 1665931646,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188447,
       "num": 135580,
       "word": "穆托姆博接受脑瘤治疗",
@@ -7121,14 +7129,6 @@
       "onboard_time": 1665928464,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186966,
-      "num": 19715,
-      "word": "上班后数学题也变合理了",
-      "onboard_time": 1665931646,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 186609,
@@ -7233,6 +7233,14 @@
       "onboard_time": 1665930563,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 19706,
+      "word": "南京街头刮起一阵柿子风",
+      "onboard_time": 1665932364,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181896,
@@ -7816,6 +7824,14 @@
       "word": "欧冠",
       "onboard_time": 1665538104,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158545,
+      "num": 19708,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1665932426,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -8795,14 +8811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127617,
-      "num": 19708,
-      "word": "利物浦vs曼城",
-      "onboard_time": 1665932426,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127322,
       "num": 127322,
       "word": "阿森纳3比2利物浦",
@@ -8817,14 +8825,6 @@
       "onboard_time": 1665580765,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127094,
-      "num": 19706,
-      "word": "南京街头刮起一阵柿子风",
-      "onboard_time": 1665932364,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126411,
@@ -10363,6 +10363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74512,
+      "num": 19694,
+      "word": "误入戏台的狗狗",
+      "onboard_time": 1665933804,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74141,
       "num": 74141,
       "word": "孙铭徽20分",
@@ -10889,14 +10897,6 @@
       "onboard_time": 1665655224,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50901,
-      "num": 19694,
-      "word": "误入戏台的狗狗",
-      "onboard_time": 1665933804,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 50759,
@@ -12144,6 +12144,9 @@
     },
     {
       "word": "#学习二十大报告#"
+    },
+    {
+      "word": "#关注党的二十大#"
     }
   ]
 }
