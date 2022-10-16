@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665960254528,
+  "endTime": 1665963022111,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -4113,6 +4113,14 @@
       "onboard_time": 1665058104,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 677536,
+      "num": 11514,
+      "word": "RNG晋级八强",
+      "onboard_time": 1665962477,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 677130,
@@ -9595,6 +9603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346987,
+      "num": 19717,
+      "word": "宝马将把mini电动车型生产线迁至中国",
+      "onboard_time": 1665932543,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 346836,
       "num": 346836,
       "word": "万茜拍万里归途时刚拆钢板",
@@ -9769,14 +9785,6 @@
       "onboard_time": 1665930805,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340117,
-      "num": 19717,
-      "word": "宝马将把mini电动车型生产线迁至中国",
-      "onboard_time": 1665932543,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 340033,
@@ -16475,6 +16483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183769,
+      "num": 11509,
+      "word": "男子用不锈钢硬核装修全屋",
+      "onboard_time": 1665936083,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183708,
       "num": 183708,
       "word": "没想到相亲会这么社死",
@@ -17217,14 +17233,6 @@
       "onboard_time": 1665553404,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170096,
-      "num": 7454,
-      "word": "男子用不锈钢硬核装修全屋",
-      "onboard_time": 1665936083,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170052,
@@ -20123,6 +20131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127619,
+      "num": 11508,
+      "word": "GEN晋级八强",
+      "onboard_time": 1665962416,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127593,
       "num": 127593,
       "word": "戏剧学院军训生齐秀一字马",
@@ -20649,6 +20665,14 @@
       "onboard_time": 1665638785,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120471,
+      "num": 11504,
+      "word": "8岁男孩喜欢画房子梦想当建筑师",
+      "onboard_time": 1665944710,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120288,
@@ -21729,6 +21753,14 @@
       "onboard_time": 1665314963,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105693,
+      "num": 22448,
+      "word": "她是首批飞豹战机前舱女飞行员",
+      "onboard_time": 1665948310,
+      "rank": 10,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 105691,
@@ -24395,6 +24427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65903,
+      "num": 11497,
+      "word": "皇马3比1巴萨",
+      "onboard_time": 1665962598,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65864,
       "num": 65864,
       "word": "成毅发长文告别底线",
@@ -24553,6 +24593,14 @@
       "onboard_time": 1665531923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63540,
+      "num": 11497,
+      "word": "养猫家庭养绿植的方式",
+      "onboard_time": 1665943215,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 63195,
@@ -24761,14 +24809,6 @@
       "onboard_time": 1664591962,
       "rank": 45,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 59427,
-      "num": 6487,
-      "word": "8岁男孩喜欢画房子梦想当建筑师",
-      "onboard_time": 1665944710,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59364,
@@ -25547,14 +25587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42788,
-      "num": 10930,
-      "word": "她是首批飞豹战机前舱女飞行员",
-      "onboard_time": 1665948310,
-      "rank": 10,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 42647,
       "num": 262669,
       "word": "75岁奶奶连续4年绣鞋垫送消防员",
@@ -25867,6 +25899,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 35187,
+      "num": 11493,
+      "word": "国产F12芳纶纤维已实现自动化生产",
+      "onboard_time": 1665948310,
+      "rank": 45,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 35077,
       "num": 35077,
       "word": "张彬彬庄羽晚安三宫格",
@@ -26091,14 +26131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23764,
-      "num": 6435,
-      "word": "国产F12芳纶纤维已实现自动化生产",
-      "onboard_time": 1665948310,
-      "rank": 45,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -26169,14 +26201,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18437,
-      "num": 6402,
-      "word": "养猫家庭养绿植的方式",
-      "onboard_time": 1665943215,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 18287,
