@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1665945039347,
+  "endTime": 1665946183720,
   "band_list": [
     {
       "raw_hot": 355787,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18437,
+      "num": 1424,
+      "word": "养猫家庭养绿植的方式",
+      "onboard_time": 1665943215,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17285,
       "num": 17285,
       "word": "守江山守的是人民的心",
@@ -393,14 +401,6 @@
       "onboard_time": 1665887850,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9790,
-      "num": 1424,
-      "word": "养猫家庭养绿植的方式",
-      "onboard_time": 1665943215,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 8184,

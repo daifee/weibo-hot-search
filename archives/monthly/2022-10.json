@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665945039347,
+  "endTime": 1665946183720,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -26147,6 +26147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18437,
+      "num": 1424,
+      "word": "养猫家庭养绿植的方式",
+      "onboard_time": 1665943215,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -26377,14 +26385,6 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9790,
-      "num": 1424,
-      "word": "养猫家庭养绿植的方式",
-      "onboard_time": 1665943215,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 9679,
