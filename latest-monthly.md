@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 16:49:39
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 17:26:55
 </p>
 </blockquote>
 <p>
@@ -1923,6 +1923,12 @@ iPhone14Plus上市破发（热度：986191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23" target="weibo">
+选文科真的是因为热爱（热度：913762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E7%8E%8B%E7%90%B3%E5%87%AF%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E%23" target="weibo">
 小鬼王琳凯这就是街舞（热度：913603）
 </a>
@@ -2117,12 +2123,6 @@ eStar七冠王（热度：894969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E18%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23" target="weibo">
 南京新增18例本土确诊（热度：856788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23" target="weibo">
-选文科真的是因为热爱（热度：854759）
 </a>
 </li>
 
@@ -5805,6 +5805,12 @@ VOGUE 女明星（热度：421757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E6%91%A9%E8%80%B6%E8%B7%AF%E8%BF%87%E5%AD%A6%E6%A0%A1%E8%A2%AB%E5%AD%A6%E7%94%9F%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%23" target="weibo">
+萨摩耶路过学校被学生热情围观（热度：419933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF%E4%BB%8A%E5%B9%B4%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
 谁是今年你最喜欢的角色（热度：419431）
 </a>
@@ -6005,12 +6011,6 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E8%A1%A3%E6%9C%8D%E8%A2%AB%E6%8B%89%E9%93%BE%E5%8D%A1%E4%BD%8F%E7%9C%BC%E7%9A%AE%23" target="weibo">
 老人穿衣服被拉链卡住眼皮（热度：406886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%AE%A3%E4%BC%A0%E5%A7%94%E5%91%98%E9%BB%84%E6%99%AF%E7%91%9C%23" target="weibo">
-内娱宣传委员黄景瑜（热度：406818）
 </a>
 </li>
 
