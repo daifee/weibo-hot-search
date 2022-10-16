@@ -1,0 +1,410 @@
+{
+  "runTime": 1665895317799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3470133,
+        "num": 3470133,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2152456,
+        "num": 2152456,
+        "word": "二十大报告",
+        "onboard_time": 1665889830,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196480,
+        "num": 2141796,
+        "word": "二十大时光",
+        "onboard_time": 1665889471,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2134669,
+        "num": 2134669,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1665893608,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1773563,
+        "num": 1773563,
+        "word": "从现在起中国共产党的中心任务",
+        "onboard_time": 1665889471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186991,
+        "num": 1186991,
+        "word": "中国永远不称霸永远不搞扩张",
+        "onboard_time": 1665893249,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697313,
+        "num": 697313,
+        "word": "我国经济实力实现历史性跃升",
+        "onboard_time": 1665891808,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592992,
+        "num": 592992,
+        "word": "党的二十大的主题",
+        "onboard_time": 1665887370,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490507,
+        "num": 490507,
+        "word": "十年来我们经历了三件大事",
+        "onboard_time": 1665887850,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392063,
+        "num": 392063,
+        "word": "这是今晨天安门广场的升旗仪式",
+        "onboard_time": 1665879684,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595882,
+        "num": 391138,
+        "word": "妈妈拎锅给儿子全宿舍送饭",
+        "onboard_time": 1665892770,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388806,
+        "num": 388806,
+        "word": "把发展经济着力点放在实体经济上",
+        "onboard_time": 1665891447,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363019,
+        "num": 363019,
+        "word": "二十大是个什么会",
+        "onboard_time": 1665847526,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360957,
+        "num": 360957,
+        "word": "安徽浙江拿5亿元进行水质对赌",
+        "onboard_time": 1665877518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305840,
+        "num": 305840,
+        "word": "二十大发言人回应疫情防控",
+        "onboard_time": 1665828144,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664112,
+        "num": 305658,
+        "word": "山东的食物都是oversize",
+        "onboard_time": 1665891508,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295142,
+        "num": 295142,
+        "word": "以最大诚意尽最大努力争取和平统一前景",
+        "onboard_time": 1665892350,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256126,
+        "num": 256126,
+        "word": "中国过冬八件套被欧洲买爆",
+        "onboard_time": 1665835405,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232531,
+        "num": 232531,
+        "word": "中国式现代化的本质要求",
+        "onboard_time": 1665890368,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206741,
+        "num": 206741,
+        "word": "人人都有通过勤奋劳动实现自身发展的机会",
+        "onboard_time": 1665892405,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598896,
+        "num": 205303,
+        "word": "JackeyLove哭了",
+        "onboard_time": 1665882752,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386380,
+        "num": 203554,
+        "word": "请在乌克兰的中国公民撤离转移",
+        "onboard_time": 1665840083,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 291515,
+        "num": 202289,
+        "word": "张艺兴演唱会把文化输出玩明白了",
+        "onboard_time": 1665848485,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236941,
+        "num": 201097,
+        "word": "19岁少女每天记忆被重置",
+        "onboard_time": 1665841285,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200254,
+        "num": 200254,
+        "word": "国际友人给女儿改名菌草",
+        "onboard_time": 1665886770,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "我们要全面加强练兵备战",
+        "onboard_time": 1665892830,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184018,
+        "num": 184018,
+        "word": "二十大开幕会全体唱国歌",
+        "onboard_time": 1665888031,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179685,
+        "num": 179685,
+        "word": "故宫博物院院长提出四大愿景",
+        "onboard_time": 1665884847,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176521,
+        "num": 176521,
+        "word": "大众宣布168亿在华投资项目",
+        "onboard_time": 1665856634,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166016,
+        "num": 166016,
+        "word": "美国再提供7.25亿美元对乌军事援助",
+        "onboard_time": 1665860593,
+        "rank": 29,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 306239,
+        "num": 165699,
+        "word": "Mark哭了",
+        "onboard_time": 1665884006,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164693,
+        "num": 164693,
+        "word": "中国式现代化的含义",
+        "onboard_time": 1665891329,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161296,
+        "num": 161296,
+        "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
+        "onboard_time": 1665845067,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238513,
+        "num": 160305,
+        "word": "Tian",
+        "onboard_time": 1665879862,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158081,
+        "num": 158081,
+        "word": "二十大报告金句",
+        "onboard_time": 1665895108,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141236,
+        "num": 141236,
+        "word": "以零容忍态度反腐惩恶决不姑息",
+        "onboard_time": 1665893909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 141061,
+        "word": "TES确定淘汰",
+        "onboard_time": 1665876136,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140843,
+        "num": 140843,
+        "word": "一图速览二十大报告",
+        "onboard_time": 1665894629,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139750,
+        "num": 139750,
+        "word": "加强家庭家教家风建设",
+        "onboard_time": 1665892048,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132299,
+        "num": 132299,
+        "word": "DRX小组第一",
+        "onboard_time": 1665885447,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128880,
+        "num": 128880,
+        "word": "研究发现肥胖会在亲友间传染",
+        "onboard_time": 1665846205,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127772,
+        "num": 127772,
+        "word": "高校神仙颜值老师上课惊叹学生",
+        "onboard_time": 1665846026,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 108176,
+        "num": 108176,
+        "word": "原来办狗证还需要采集鼻纹",
+        "onboard_time": 1665877459,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100530,
+        "num": 100530,
+        "word": "这作业我指定嗷嗷写",
+        "onboard_time": 1665894568,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99099,
+        "num": 99099,
+        "word": "男子躲高铁厕所抽烟被行拘5日",
+        "onboard_time": 1665863590,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85080,
+        "num": 85080,
+        "word": "守江山守的是人民的心",
+        "onboard_time": 1665892048,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77317,
+        "num": 77317,
+        "word": "二十大权威发布",
+        "onboard_time": 1665887491,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76985,
+        "num": 76985,
+        "word": "乘客公交车上晕倒女护士跪地抢救",
+        "onboard_time": 1665835224,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 75223,
+        "num": 75223,
+        "word": "一只很善良的小猫",
+        "onboard_time": 1665846148,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75116,
+        "num": 75116,
+        "word": "交警30分钟送断指孩子就医",
+        "onboard_time": 1665858313,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面建成社会主义现代化强国的战略安排#"
+    }
+  }
+}

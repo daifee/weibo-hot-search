@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665890618013,
+  "endTime": 1665895317799,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -16,6 +16,22 @@
       "word": "这是今晨天安门广场的升旗仪式",
       "onboard_time": 1665879684,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2152456,
+      "num": 2152456,
+      "word": "二十大报告",
+      "onboard_time": 1665889830,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2134669,
+      "num": 2134669,
+      "word": "解决台湾问题是中国人自己的事",
+      "onboard_time": 1665893608,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,6 +51,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1773563,
+      "num": 1773563,
+      "word": "从现在起中国共产党的中心任务",
+      "onboard_time": 1665889471,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1582714,
       "num": 429250,
       "word": "GAM战胜TES",
@@ -44,15 +68,23 @@
     },
     {
       "raw_hot": 1408174,
-      "num": 333247,
+      "num": 363019,
       "word": "二十大是个什么会",
       "onboard_time": 1665847526,
       "rank": 12,
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1186991,
+      "num": 1186991,
+      "word": "中国永远不称霸永远不搞扩张",
+      "onboard_time": 1665893249,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1186746,
-      "num": 166140,
+      "num": 205303,
       "word": "JackeyLove哭了",
       "onboard_time": 1665882752,
       "rank": 20,
@@ -64,14 +96,6 @@
       "word": "十年来我们经历了三件大事",
       "onboard_time": 1665887850,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1045539,
-      "num": 1045539,
-      "word": "从现在起中国共产党的中心任务",
-      "onboard_time": 1665889471,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -92,35 +116,51 @@
     },
     {
       "raw_hot": 840169,
-      "num": 162395,
+      "num": 202289,
       "word": "张艺兴演唱会把文化输出玩明白了",
       "onboard_time": 1665848485,
       "rank": 20,
       "category": "音乐"
     },
     {
-      "raw_hot": 810586,
-      "num": 810586,
-      "word": "二十大报告",
-      "onboard_time": 1665889830,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 767302,
-      "num": 160031,
+      "num": 165699,
       "word": "Mark哭了",
       "onboard_time": 1665884006,
       "rank": 23,
       "category": "游戏"
     },
     {
+      "raw_hot": 697313,
+      "num": 697313,
+      "word": "我国经济实力实现历史性跃升",
+      "onboard_time": 1665891808,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664112,
+      "num": 305658,
+      "word": "山东的食物都是oversize",
+      "onboard_time": 1665891508,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641548,
-      "num": 163865,
+      "num": 203554,
       "word": "请在乌克兰的中国公民撤离转移",
       "onboard_time": 1665840083,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 595882,
+      "num": 391138,
+      "word": "妈妈拎锅给儿子全宿舍送饭",
+      "onboard_time": 1665892770,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544594,
@@ -132,7 +172,7 @@
     },
     {
       "raw_hot": 529388,
-      "num": 332684,
+      "num": 360957,
       "word": "安徽浙江拿5亿元进行水质对赌",
       "onboard_time": 1665877518,
       "rank": 38,
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 516862,
-      "num": 154309,
+      "num": 160305,
       "word": "Tian",
       "onboard_time": 1665879862,
       "rank": 26,
@@ -195,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388806,
+      "num": 388806,
+      "word": "把发展经济着力点放在实体经济上",
+      "onboard_time": 1665891447,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368761,
       "num": 368761,
       "word": "大众宣布168亿在华投资项目",
@@ -244,10 +292,18 @@
     },
     {
       "raw_hot": 320724,
-      "num": 159626,
+      "num": 201097,
       "word": "19岁少女每天记忆被重置",
       "onboard_time": 1665841285,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295142,
+      "num": 295142,
+      "word": "以最大诚意尽最大努力争取和平统一前景",
+      "onboard_time": 1665892350,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -268,7 +324,7 @@
     },
     {
       "raw_hot": 275039,
-      "num": 152232,
+      "num": 161296,
       "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
       "onboard_time": 1665845067,
       "rank": 23,
@@ -299,6 +355,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 232531,
+      "num": 232531,
+      "word": "中国式现代化的本质要求",
+      "onboard_time": 1665890368,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227181,
       "num": 123776,
       "word": "安宥真lovedive舞台",
@@ -308,11 +372,19 @@
     },
     {
       "raw_hot": 225791,
-      "num": 155800,
+      "num": 166016,
       "word": "美国再提供7.25亿美元对乌军事援助",
       "onboard_time": 1665860593,
       "rank": 41,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 206741,
+      "num": 206741,
+      "word": "人人都有通过勤奋劳动实现自身发展的机会",
+      "onboard_time": 1665892405,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201344,
@@ -320,6 +392,22 @@
       "word": "原来办狗证还需要采集鼻纹",
       "onboard_time": 1665877459,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196480,
+      "num": 2141796,
+      "word": "二十大时光",
+      "onboard_time": 1665889471,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "我们要全面加强练兵备战",
+      "onboard_time": 1665892830,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -355,12 +443,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 184018,
+      "num": 184018,
+      "word": "二十大开幕会全体唱国歌",
+      "onboard_time": 1665888031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181347,
       "num": 133853,
       "word": "90后学霸10年参加上百次发射任务",
       "onboard_time": 1665847886,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 164693,
+      "num": 164693,
+      "word": "中国式现代化的含义",
+      "onboard_time": 1665891329,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158081,
+      "num": 158081,
+      "word": "二十大报告金句",
+      "onboard_time": 1665895108,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155949,
@@ -377,14 +489,6 @@
       "onboard_time": 1665837205,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151414,
-      "num": 1577869,
-      "word": "二十大时光",
-      "onboard_time": 1665889471,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149546,
@@ -409,6 +513,30 @@
       "onboard_time": 1665825863,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 141236,
+      "num": 141236,
+      "word": "以零容忍态度反腐惩恶决不姑息",
+      "onboard_time": 1665893909,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140843,
+      "num": 140843,
+      "word": "一图速览二十大报告",
+      "onboard_time": 1665894629,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139750,
+      "num": 139750,
+      "word": "加强家庭家教家风建设",
+      "onboard_time": 1665892048,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136197,
@@ -443,22 +571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119141,
-      "num": 119141,
-      "word": "二十大开幕会全体唱国歌",
-      "onboard_time": 1665888031,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118368,
-      "num": 118368,
-      "word": "中国式现代化的本质要求",
-      "onboard_time": 1665890368,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117219,
       "num": 117219,
       "word": "交警30分钟送断指孩子就医",
@@ -491,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100530,
+      "num": 100530,
+      "word": "这作业我指定嗷嗷写",
+      "onboard_time": 1665894568,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90712,
       "num": 83825,
       "word": "京城十二时辰2收官",
@@ -521,6 +641,14 @@
       "onboard_time": 1665838823,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 85080,
+      "num": 85080,
+      "word": "守江山守的是人民的心",
+      "onboard_time": 1665892048,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78961,
@@ -903,6 +1031,9 @@
     },
     {
       "word": "#我国经济实力实现历史性跃升#"
+    },
+    {
+      "word": "#全面建成社会主义现代化强国的战略安排#"
     }
   ]
 }
