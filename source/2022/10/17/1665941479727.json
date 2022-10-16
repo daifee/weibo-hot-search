@@ -1,0 +1,410 @@
+{
+  "runTime": 1665941479727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139027,
+        "num": 139027,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1665893608,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69744,
+        "num": 69744,
+        "word": "二十大报告金句",
+        "onboard_time": 1665895108,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21375,
+        "num": 56024,
+        "word": "你好二十大",
+        "onboard_time": 1665932543,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54455,
+        "num": 54455,
+        "word": "二十大报告",
+        "onboard_time": 1665889830,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51050,
+        "num": 51050,
+        "word": "中国粮带给中国人的安全感",
+        "onboard_time": 1665920423,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29733,
+        "num": 29733,
+        "word": "中国永远不称霸永远不搞扩张",
+        "onboard_time": 1665893249,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27531,
+        "num": 27531,
+        "word": "二十大报告寄语广大青年",
+        "onboard_time": 1665923784,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23871,
+        "num": 23871,
+        "word": "我们要全面加强练兵备战",
+        "onboard_time": 1665892830,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21783,
+        "num": 21783,
+        "word": "从现在起中国共产党的中心任务",
+        "onboard_time": 1665889471,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17069,
+        "num": 17069,
+        "word": "二十大报告金句视频版",
+        "onboard_time": 1665900744,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13760,
+        "num": 13760,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9875,
+        "num": 9875,
+        "word": "守江山守的是人民的心",
+        "onboard_time": 1665892048,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 6565,
+        "num": 6565,
+        "word": "中国式现代化的含义",
+        "onboard_time": 1665891329,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6324,
+        "num": 6324,
+        "word": "十年来我们经历了三件大事",
+        "onboard_time": 1665887850,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3309,
+        "num": 3309,
+        "word": "国际友人给女儿改名菌草",
+        "onboard_time": 1665886770,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148905,
+        "num": 3309,
+        "word": "男子用不锈钢硬核装修全屋",
+        "onboard_time": 1665936083,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138566,
+        "num": 3308,
+        "word": "蚊子居然还有头发",
+        "onboard_time": 1665932485,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130920,
+        "num": 3307,
+        "word": "宝马将把mini电动车型生产线迁至中国",
+        "onboard_time": 1665932543,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119691,
+        "num": 3307,
+        "word": "利物浦vs曼城",
+        "onboard_time": 1665932426,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111591,
+        "num": 3306,
+        "word": "女子丢35万手镯2地铁警接力找回",
+        "onboard_time": 1665923723,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161764,
+        "num": 3305,
+        "word": "Doinb",
+        "onboard_time": 1665920904,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137235,
+        "num": 3305,
+        "word": "支付宝已支持给微信QQ好友转账",
+        "onboard_time": 1665896249,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 3304,
+        "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+        "onboard_time": 1665932784,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85537,
+        "num": 3304,
+        "word": "国人的车厘子自由从河南开始",
+        "onboard_time": 1665930924,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83076,
+        "num": 3303,
+        "word": "顾客以为付款没成功亲自送来现金",
+        "onboard_time": 1665913702,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 68750,
+        "num": 3302,
+        "word": "南京街头刮起一阵柿子风",
+        "onboard_time": 1665932364,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68449,
+        "num": 3302,
+        "word": "皇马vs巴萨",
+        "onboard_time": 1665927445,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65166,
+        "num": 3301,
+        "word": "小女孩读妈妈睡了课文泪流满面",
+        "onboard_time": 1665930805,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57440,
+        "num": 3300,
+        "word": "上班后数学题也变合理了",
+        "onboard_time": 1665931646,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53273,
+        "num": 3300,
+        "word": "因爸爸不让玩女儿抽泣控诉压力大",
+        "onboard_time": 1665904764,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92743,
+        "num": 3300,
+        "word": "V社处罚LGD",
+        "onboard_time": 1665931823,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48197,
+        "num": 3299,
+        "word": "110岁母亲和88岁儿子手拉手逛茶会",
+        "onboard_time": 1665921804,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45216,
+        "num": 3298,
+        "word": "老爸阳台顶上建鱼池满足全家需求",
+        "onboard_time": 1665928884,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42809,
+        "num": 3297,
+        "word": "选文科真的是因为热爱",
+        "onboard_time": 1665907522,
+        "rank": 33,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 40926,
+        "num": 3297,
+        "word": "猫咪绝育后经历社死瞬间",
+        "onboard_time": 1665916282,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40692,
+        "num": 3297,
+        "word": "爆款国民床单背后还有一段甜蜜爱情",
+        "onboard_time": 1665930563,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37494,
+        "num": 3296,
+        "word": "怎么会不羡慕白秀珠呢",
+        "onboard_time": 1665905124,
+        "rank": 36,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 37326,
+        "num": 3296,
+        "word": "外卖备注都这么有意思了",
+        "onboard_time": 1665896128,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35821,
+        "num": 3294,
+        "word": "待售鸭群主动上前供客人挑选",
+        "onboard_time": 1665930145,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34602,
+        "num": 3294,
+        "word": "误入戏台的狗狗",
+        "onboard_time": 1665933804,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33018,
+        "num": 3293,
+        "word": "山东一村8090后全部回村就业",
+        "onboard_time": 1665915921,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26470,
+        "num": 3292,
+        "word": "2岁萌娃与金毛拔河被虐嚎啕大哭",
+        "onboard_time": 1665927804,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26432,
+        "num": 3292,
+        "word": "32岁李晓旭状态",
+        "onboard_time": 1665932125,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25386,
+        "num": 3292,
+        "word": "歼20工程师30多年隐秘而伟大",
+        "onboard_time": 1665905723,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20928,
+        "num": 3291,
+        "word": "C罗首发",
+        "onboard_time": 1665928643,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20186,
+        "num": 3291,
+        "word": "看手机时下巴微收可减少颈椎压力",
+        "onboard_time": 1665909143,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18630,
+        "num": 3290,
+        "word": "曼联vs纽卡斯尔联",
+        "onboard_time": 1665926543,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17970,
+        "num": 3289,
+        "word": "弗格森拥抱C罗",
+        "onboard_time": 1665929364,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17760,
+        "num": 3288,
+        "word": "国乒全主力阵容将出战WTT两站比赛",
+        "onboard_time": 1665928464,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13791,
+        "num": 3288,
+        "word": "阿森纳",
+        "onboard_time": 1665927204,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
