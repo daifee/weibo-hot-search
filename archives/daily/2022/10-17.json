@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1665955385320,
+  "endTime": 1665956478912,
   "band_list": [
     {
       "raw_hot": 355787,
@@ -395,8 +395,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 14386,
-      "num": 4359,
+      "raw_hot": 14860,
+      "num": 5042,
       "word": "她是首批飞豹战机前舱女飞行员",
       "onboard_time": 1665948310,
       "rank": 10,
@@ -483,16 +483,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3164,
-      "num": 1324,
+      "raw_hot": 3431,
+      "num": 1521,
       "word": "罗云熙再演律师",
       "onboard_time": 1665904583,
       "rank": 48,
       "category": "影视"
     },
     {
-      "raw_hot": 2262,
-      "num": 2262,
+      "raw_hot": 3106,
+      "num": 3106,
       "word": "乘客公交车上晕倒女护士跪地抢救",
       "onboard_time": 1665835224,
       "rank": 12,
