@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 16:31:59
+本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 16:49:39
 </p>
 </blockquote>
 <p>
@@ -94,7 +94,7 @@ JackeyLove哭了（热度：1186746）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23" target="weibo">
-二十大报告金句（热度：926588）
+二十大报告金句（热度：1073421）
 </a>
 </li>
 
@@ -107,6 +107,12 @@ JackeyLove哭了（热度：1186746）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E9%99%A2%E9%95%BF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%84%BF%E6%99%AF%23" target="weibo">
 故宫博物院院长提出四大愿景（热度：902111）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23" target="weibo">
+选文科真的是因为热爱（热度：854759）
 </a>
 </li>
 
@@ -179,12 +185,6 @@ Tian（热度：516862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23" target="weibo">
 爸爸连夜为儿子做课文中的竹节人（热度：501047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23" target="weibo">
-选文科真的是因为热爱（热度：498777）
 </a>
 </li>
 
@@ -291,6 +291,18 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A691%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
+西安电子科技大学91周年校庆（热度：316820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E6%91%A9%E8%80%B6%E8%B7%AF%E8%BF%87%E5%AD%A6%E6%A0%A1%E8%A2%AB%E5%AD%A6%E7%94%9F%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%23" target="weibo">
+萨摩耶路过学校被学生热情围观（热度：310957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%B2%E9%97%A8%E8%A2%AB%E9%82%BB%E5%B1%85%E5%A4%A7%E7%88%B7%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE%23" target="weibo">
 猫咪串门被邻居大爷灵魂拷问（热度：308618）
 </a>
@@ -315,6 +327,12 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8F%91%E5%A4%AA%E5%A7%A5%E5%A7%A5%E6%95%99%E7%BD%95%E8%A7%81%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%8B%BA%E5%AD%90%23" target="weibo">
+白发太姥姥教罕见病女孩用勺子（热度：278145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BB%E5%B8%AD%E5%9B%A2%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
 二十大主席团常务委员会成员名单（热度：275214）
 </a>
@@ -323,18 +341,6 @@ DRX小组第一（热度：325791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E8%9E%83%E8%9F%B9%E5%A4%B9%E6%89%8B%E5%8F%8D%E5%92%AC%E4%B8%80%E5%8F%A3%E6%82%A3%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%23" target="weibo">
 小伙被螃蟹夹手反咬一口患肺吸虫病（热度：275039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A691%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
-西安电子科技大学91周年校庆（热度：274744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8F%91%E5%A4%AA%E5%A7%A5%E5%A7%A5%E6%95%99%E7%BD%95%E8%A7%81%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%8B%BA%E5%AD%90%23" target="weibo">
-白发太姥姥教罕见病女孩用勺子（热度：274620）
 </a>
 </li>
 
@@ -399,6 +405,12 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%BF%91%E8%A7%86%E7%9C%BC%E9%95%9C%E5%AF%B9%E7%9D%80%E5%AE%9D%E5%AE%9D%E8%84%B8%E6%97%B6%23" target="weibo">
+当近视眼镜对着宝宝脸时（热度：212287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%9E%E7%8B%97%E8%AF%81%E8%BF%98%E9%9C%80%E8%A6%81%E9%87%87%E9%9B%86%E9%BC%BB%E7%BA%B9%23" target="weibo">
 原来办狗证还需要采集鼻纹（热度：201344）
 </a>
@@ -447,8 +459,8 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E6%91%A9%E8%80%B6%E8%B7%AF%E8%BF%87%E5%AD%A6%E6%A0%A1%E8%A2%AB%E5%AD%A6%E7%94%9F%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%23" target="weibo">
-萨摩耶路过学校被学生热情围观（热度：169284）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E4%B8%8B%E5%B7%B4%E5%BE%AE%E6%94%B6%E5%8F%AF%E5%87%8F%E5%B0%91%E9%A2%88%E6%A4%8E%E5%8E%8B%E5%8A%9B%23" target="weibo">
+看手机时下巴微收可减少颈椎压力（热度：170368）
 </a>
 </li>
 
@@ -543,12 +555,6 @@ TES小组赛三连败（热度：136197）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%BF%91%E8%A7%86%E7%9C%BC%E9%95%9C%E5%AF%B9%E7%9D%80%E5%AE%9D%E5%AE%9D%E8%84%B8%E6%97%B6%23" target="weibo">
-当近视眼镜对着宝宝脸时（热度：114029）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%E8%A7%86%E9%A2%91%E7%89%88%23" target="weibo">
 二十大报告金句视频版（热度：110913）
 </a>
@@ -611,6 +617,12 @@ TES战胜DRX（热度：101600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23" target="weibo">
 摇滚狂花大结局太好哭了（热度：85585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23" target="weibo">
+小学生撞车留纸条道歉司机免赔偿（热度：79567）
 </a>
 </li>
 
@@ -737,12 +749,6 @@ DOTA2（热度：49258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23" target="weibo">
 姚晨晒照告别摇滚狂花（热度：46662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23" target="weibo">
-小学生撞车留纸条道歉司机免赔偿（热度：45434）
 </a>
 </li>
 
