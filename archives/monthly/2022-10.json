@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665935160624,
+  "endTime": 1665938137365,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -9771,6 +9771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340117,
+      "num": 19717,
+      "word": "宝马将把mini电动车型生产线迁至中国",
+      "onboard_time": 1665932543,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 340033,
       "num": 340033,
       "word": "俄军正在赫尔松集结准备反击",
@@ -10225,14 +10233,6 @@
       "onboard_time": 1665842187,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323739,
-      "num": 19717,
-      "word": "宝马将把mini电动车型生产线迁至中国",
-      "onboard_time": 1665932543,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 323629,
@@ -13819,6 +13819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230602,
+      "num": 19706,
+      "word": "南京街头刮起一阵柿子风",
+      "onboard_time": 1665932364,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230341,
       "num": 230341,
       "word": "女子落水高校男生害怕仍勇敢下水",
@@ -16569,14 +16577,6 @@
       "onboard_time": 1665238405,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182000,
-      "num": 19706,
-      "word": "南京街头刮起一阵柿子风",
-      "onboard_time": 1665932364,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181970,
@@ -20819,6 +20819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118033,
+      "num": 7454,
+      "word": "男子用不锈钢硬核装修全屋",
+      "onboard_time": 1665936083,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117961,
       "num": 117961,
       "word": "国乒女团王者之师",
@@ -23019,6 +23027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87075,
+      "num": 19694,
+      "word": "误入戏台的狗狗",
+      "onboard_time": 1665933804,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86923,
       "num": 86923,
       "word": "我和国旗合个影",
@@ -23865,14 +23881,6 @@
       "onboard_time": 1664981005,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74512,
-      "num": 19694,
-      "word": "误入戏台的狗狗",
-      "onboard_time": 1665933804,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 74398,
