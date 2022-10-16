@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 15:43:04
+本榜单时间：2022/10/16 00:35:28 ~ 2022/10/16 16:31:59
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@ JackeyLove哭了（热度：1186746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23" target="weibo">
+二十大报告金句（热度：926588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 二十大发言人回应疫情防控（热度：915977）
 </a>
@@ -101,12 +107,6 @@ JackeyLove哭了（热度：1186746）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E9%99%A2%E9%95%BF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%84%BF%E6%99%AF%23" target="weibo">
 故宫博物院院长提出四大愿景（热度：902111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23" target="weibo">
-二十大报告金句（热度：859470）
 </a>
 </li>
 
@@ -131,6 +131,12 @@ Mark哭了（热度：767302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%9A%84%E9%A3%9F%E7%89%A9%E9%83%BD%E6%98%AFoversize%23" target="weibo">
 山东的食物都是oversize（热度：664112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%88%B8%E7%88%B8%E4%B8%8D%E8%AE%A9%E7%8E%A9%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%B3%A3%E6%8E%A7%E8%AF%89%E5%8E%8B%E5%8A%9B%E5%A4%A7%23" target="weibo">
+因爸爸不让玩女儿抽泣控诉压力大（热度：660582）
 </a>
 </li>
 
@@ -177,8 +183,8 @@ Tian（热度：516862）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%88%B8%E7%88%B8%E4%B8%8D%E8%AE%A9%E7%8E%A9%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%B3%A3%E6%8E%A7%E8%AF%89%E5%8E%8B%E5%8A%9B%E5%A4%A7%23" target="weibo">
-因爸爸不让玩女儿抽泣控诉压力大（热度：497820）
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23" target="weibo">
+选文科真的是因为热爱（热度：498777）
 </a>
 </li>
 
@@ -203,6 +209,18 @@ Tian（热度：516862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%A6%81%E5%85%A8%E9%9D%A2%E5%8A%A0%E5%BC%BA%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%23" target="weibo">
 我们要全面加强练兵备战（热度：439344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%BE%A1%E6%85%95%E7%99%BD%E7%A7%80%E7%8F%A0%E5%91%A2%23" target="weibo">
+怎么会不羡慕白秀珠呢（热度：433468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E5%B7%A5%E7%A8%8B%E5%B8%8830%E5%A4%9A%E5%B9%B4%E9%9A%90%E7%A7%98%E8%80%8C%E4%BC%9F%E5%A4%A7%23" target="weibo">
+歼20工程师30多年隐秘而伟大（热度：428727）
 </a>
 </li>
 
@@ -255,6 +273,12 @@ Tian（热度：516862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B413%E4%BA%BF%23" target="weibo">
+万里归途票房破13亿（热度：331760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DRX%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23" target="weibo">
 DRX小组第一（热度：325791）
 </a>
@@ -303,6 +327,18 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A691%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
+西安电子科技大学91周年校庆（热度：274744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8F%91%E5%A4%AA%E5%A7%A5%E5%A7%A5%E6%95%99%E7%BD%95%E8%A7%81%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%8B%BA%E5%AD%90%23" target="weibo">
+白发太姥姥教罕见病女孩用勺子（热度：274620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E8%AE%BA%23" target="weibo">
 人民日报社论（热度：271938）
 </a>
@@ -335,12 +371,6 @@ DRX小组第一（热度：325791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E6%9C%AC%E8%B4%A8%E8%A6%81%E6%B1%82%23" target="weibo">
 中国式现代化的本质要求（热度：232531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%BE%A1%E6%85%95%E7%99%BD%E7%A7%80%E7%8F%A0%E5%91%A2%23" target="weibo">
-怎么会不羡慕白秀珠呢（热度：227306）
 </a>
 </li>
 
@@ -417,6 +447,18 @@ DRX小组第一（热度：325791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E6%91%A9%E8%80%B6%E8%B7%AF%E8%BF%87%E5%AD%A6%E6%A0%A1%E8%A2%AB%E5%AD%A6%E7%94%9F%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%23" target="weibo">
+萨摩耶路过学校被学生热情围观（热度：169284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%86%8D%E6%BC%94%E5%BE%8B%E5%B8%88%23" target="weibo">
+罗云熙再演律师（热度：165444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E5%90%AB%E4%B9%89%23" target="weibo">
 中国式现代化的含义（热度：164693）
 </a>
@@ -459,12 +501,6 @@ LGD（热度：149546）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%86%8D%E6%BC%94%E5%BE%8B%E5%B8%88%23" target="weibo">
-罗云熙再演律师（热度：141054）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%23" target="weibo">
 一图速览二十大报告（热度：140843）
 </a>
@@ -503,6 +539,12 @@ TES小组赛三连败（热度：136197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23" target="weibo">
 交警30分钟送断指孩子就医（热度：117219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%BF%91%E8%A7%86%E7%9C%BC%E9%95%9C%E5%AF%B9%E7%9D%80%E5%AE%9D%E5%AE%9D%E8%84%B8%E6%97%B6%23" target="weibo">
+当近视眼镜对着宝宝脸时（热度：114029）
 </a>
 </li>
 
@@ -569,12 +611,6 @@ TES战胜DRX（热度：101600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23" target="weibo">
 摇滚狂花大结局太好哭了（热度：85585）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E5%B7%A5%E7%A8%8B%E5%B8%8830%E5%A4%9A%E5%B9%B4%E9%9A%90%E7%A7%98%E8%80%8C%E4%BC%9F%E5%A4%A7%23" target="weibo">
-歼20工程师30多年隐秘而伟大（热度：79360）
 </a>
 </li>
 
@@ -701,6 +737,12 @@ DOTA2（热度：49258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23" target="weibo">
 姚晨晒照告别摇滚狂花（热度：46662）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23" target="weibo">
+小学生撞车留纸条道歉司机免赔偿（热度：45434）
 </a>
 </li>
 

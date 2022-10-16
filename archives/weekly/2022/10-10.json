@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665906184559,
+  "endTime": 1665909119734,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -987,6 +987,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 926588,
+      "num": 926588,
+      "word": "二十大报告金句",
+      "onboard_time": 1665895108,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923353,
       "num": 923353,
       "word": "一句话终止聊天",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1665459625,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 859470,
-      "num": 835339,
-      "word": "二十大报告金句",
-      "onboard_time": 1665895108,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 858719,
@@ -1832,6 +1832,14 @@
       "word": "收到这类短信千万别点开",
       "onboard_time": 1665485664,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660582,
+      "num": 61127,
+      "word": "因爸爸不让玩女儿抽泣控诉压力大",
+      "onboard_time": 1665904764,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2747,12 +2755,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 497820,
-      "num": 61127,
-      "word": "因爸爸不让玩女儿抽泣控诉压力大",
-      "onboard_time": 1665904764,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 498777,
+      "num": 52869,
+      "word": "选文科真的是因为热爱",
+      "onboard_time": 1665907522,
+      "rank": 15,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 497720,
@@ -3259,6 +3267,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 433468,
+      "num": 62071,
+      "word": "怎么会不羡慕白秀珠呢",
+      "onboard_time": 1665905124,
+      "rank": 28,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 432464,
       "num": 353725,
       "word": "宫胁咲良LoveShot直拍",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1665665426,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428727,
+      "num": 54256,
+      "word": "歼20工程师30多年隐秘而伟大",
+      "onboard_time": 1665905723,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 428519,
@@ -4339,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331760,
+      "num": 52819,
+      "word": "万里归途票房破13亿",
+      "onboard_time": 1665907223,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331496,
       "num": 331496,
       "word": "gidle新专辑预售量突破70万张",
@@ -5017,6 +5049,22 @@
       "onboard_time": 1665470363,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274744,
+      "num": 52721,
+      "word": "西安电子科技大学91周年校庆",
+      "onboard_time": 1665906263,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 274620,
+      "num": 52395,
+      "word": "白发太姥姥教罕见病女孩用勺子",
+      "onboard_time": 1665906442,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274495,
@@ -5897,14 +5945,6 @@
       "onboard_time": 1665407964,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 227306,
-      "num": 62071,
-      "word": "怎么会不羡慕白秀珠呢",
-      "onboard_time": 1665905124,
-      "rank": 28,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 227018,
@@ -7251,6 +7291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169284,
+      "num": 52263,
+      "word": "萨摩耶路过学校被学生热情围观",
+      "onboard_time": 1665907880,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169277,
       "num": 169277,
       "word": "以前电视上的总裁有多野",
@@ -7297,6 +7345,14 @@
       "onboard_time": 1665374244,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165444,
+      "num": 58859,
+      "word": "罗云熙再演律师",
+      "onboard_time": 1665904583,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 164755,
@@ -8040,14 +8096,6 @@
       "word": "我的秘密室友定档",
       "onboard_time": 1665459024,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 141054,
-      "num": 58859,
-      "word": "罗云熙再演律师",
-      "onboard_time": 1665904583,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -8809,6 +8857,14 @@
       "onboard_time": 1665385163,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114029,
+      "num": 52034,
+      "word": "当近视眼镜对着宝宝脸时",
+      "onboard_time": 1665908303,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 113790,
@@ -9867,14 +9923,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 79360,
-      "num": 54256,
-      "word": "歼20工程师30多年隐秘而伟大",
-      "onboard_time": 1665905723,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 79092,
       "num": 79092,
       "word": "那些一个字的歌名有多绝",
@@ -10633,6 +10681,14 @@
       "onboard_time": 1665806062,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45434,
+      "num": 45434,
+      "word": "小学生撞车留纸条道歉司机免赔偿",
+      "onboard_time": 1665908602,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45242,
