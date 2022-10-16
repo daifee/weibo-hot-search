@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665938137365,
+  "endTime": 1665939633258,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -17219,6 +17219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170096,
+      "num": 7454,
+      "word": "男子用不锈钢硬核装修全屋",
+      "onboard_time": 1665936083,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170052,
       "num": 100035,
       "word": "被万里归途感动到",
@@ -20817,14 +20825,6 @@
       "onboard_time": 1665407004,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 118033,
-      "num": 7454,
-      "word": "男子用不锈钢硬核装修全屋",
-      "onboard_time": 1665936083,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117961,
