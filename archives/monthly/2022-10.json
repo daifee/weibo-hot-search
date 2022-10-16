@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665948116885,
+  "endTime": 1665949070601,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -26099,6 +26099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21904,
+      "num": 3406,
+      "word": "8岁男孩喜欢画房子梦想当建筑师",
+      "onboard_time": 1665944710,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21389,
       "num": 21061,
       "word": "虞书欣反矫达人",
@@ -26153,14 +26161,6 @@
       "onboard_time": 1665943215,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18392,
-      "num": 3406,
-      "word": "8岁男孩喜欢画房子梦想当建筑师",
-      "onboard_time": 1665944710,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18287,
@@ -26835,6 +26835,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 6047,
+      "num": 4359,
+      "word": "她是首批飞豹战机前舱女飞行员",
+      "onboard_time": 1665948310,
+      "rank": 10,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 6043,
       "num": 12667,
       "word": "他们是我们该追的星",
@@ -27409,6 +27417,38 @@
       "onboard_time": 1664655131,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4301,
+      "num": 3099,
+      "word": "国产F12芳纶纤维已实现自动化生产",
+      "onboard_time": 1665948310,
+      "rank": 45,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 4229,
+      "num": 3095,
+      "word": "张琳艳1球1助攻",
+      "onboard_time": 1665948310,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4219,
+      "num": 3094,
+      "word": "7岁女孩学习书法后为学校牌匾写字",
+      "onboard_time": 1665948251,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 4172,
+      "num": 3092,
+      "word": "二十大代表向已故老一辈革命先烈默哀",
+      "onboard_time": 1665948191,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4112,
