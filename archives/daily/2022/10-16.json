@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665913495750,
+  "endTime": 1665916068043,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -113,6 +113,14 @@
       "onboard_time": 1665895108,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038884,
+      "num": 44342,
+      "word": "顾客以为付款没成功亲自送来现金",
+      "onboard_time": 1665913702,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 915977,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229592,
+      "num": 48267,
+      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
+      "onboard_time": 1665910882,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227181,
       "num": 123776,
       "word": "安宥真lovedive舞台",
@@ -536,14 +552,6 @@
       "word": "二十大时光",
       "onboard_time": 1665889471,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209291,
-      "num": 48267,
-      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
-      "onboard_time": 1665910882,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138489,
+      "num": 43974,
+      "word": "中国射击队世锦赛再夺两金",
+      "onboard_time": 1665912441,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136197,
       "num": 136197,
       "word": "TES小组赛三连败",
@@ -723,12 +739,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 129604,
+      "num": 43950,
+      "word": "台风纳沙正逐步移入南海",
+      "onboard_time": 1665914300,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124076,
       "num": 690131,
       "word": "守江山守的是人民的心",
       "onboard_time": 1665892048,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123154,
+      "num": 43918,
+      "word": "这样调滤镜真的很出片",
+      "onboard_time": 1665913042,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 121975,
@@ -745,14 +777,6 @@
       "onboard_time": 1665858313,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 111531,
-      "num": 41992,
-      "word": "中国射击队世锦赛再夺两金",
-      "onboard_time": 1665912441,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 110913,
@@ -809,6 +833,14 @@
       "onboard_time": 1665845847,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89579,
+      "num": 43738,
+      "word": "马斯克称赔钱也会向乌提供星链",
+      "onboard_time": 1665915622,
+      "rank": 36,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 88090,
@@ -939,14 +971,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 57173,
-      "num": 41241,
-      "word": "这样调滤镜真的很出片",
-      "onboard_time": 1665913042,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55617,
       "num": 55617,
       "word": "同时照12000面镜子是什么感觉",
@@ -993,6 +1017,14 @@
       "onboard_time": 1665810924,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49913,
+      "num": 43439,
+      "word": "山东一村8090后全部回村就业",
+      "onboard_time": 1665915921,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49258,

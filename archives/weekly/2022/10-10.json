@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665913495750,
+  "endTime": 1665916068043,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -761,6 +761,14 @@
       "onboard_time": 1665565340,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038884,
+      "num": 44342,
+      "word": "顾客以为付款没成功亲自送来现金",
+      "onboard_time": 1665913702,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1037570,
@@ -5923,6 +5931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229592,
+      "num": 48267,
+      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
+      "onboard_time": 1665910882,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229177,
       "num": 225743,
       "word": "StrayKids独家电台打卡记",
@@ -6369,14 +6385,6 @@
       "onboard_time": 1665386724,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209291,
-      "num": 48267,
-      "word": "师太摸脸蹭头安抚咬她手的独臂猴",
-      "onboard_time": 1665910882,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209081,
@@ -8211,6 +8219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138489,
+      "num": 43974,
+      "word": "中国射击队世锦赛再夺两金",
+      "onboard_time": 1665912441,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138352,
       "num": 138352,
       "word": "辽宁男篮vs北京男篮",
@@ -8483,6 +8499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129604,
+      "num": 43950,
+      "word": "台风纳沙正逐步移入南海",
+      "onboard_time": 1665914300,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129362,
       "num": 129362,
       "word": "孔雪儿翻跳ShutDown视频",
@@ -8641,6 +8665,14 @@
       "onboard_time": 1665635428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123154,
+      "num": 43918,
+      "word": "这样调滤镜真的很出片",
+      "onboard_time": 1665913042,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 122948,
@@ -8985,14 +9017,6 @@
       "onboard_time": 1665810745,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111531,
-      "num": 41992,
-      "word": "中国射击队世锦赛再夺两金",
-      "onboard_time": 1665912441,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 111199,
@@ -9649,6 +9673,14 @@
       "onboard_time": 1665531142,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89579,
+      "num": 43738,
+      "word": "马斯克称赔钱也会向乌提供星链",
+      "onboard_time": 1665915622,
+      "rank": 36,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 89163,
@@ -10459,14 +10491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57173,
-      "num": 41241,
-      "word": "这样调滤镜真的很出片",
-      "onboard_time": 1665913042,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 57165,
       "num": 384331,
       "word": "男子22年献血约10个成人血量",
@@ -10600,6 +10624,14 @@
       "word": "珍珠奶茶比奶茶更不容易晃出来吗",
       "onboard_time": 1665583228,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49913,
+      "num": 43439,
+      "word": "山东一村8090后全部回村就业",
+      "onboard_time": 1665915921,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

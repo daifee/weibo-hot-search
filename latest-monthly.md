@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 17:44:55
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/16 18:27:48
 </p>
 </blockquote>
 <p>
@@ -1571,6 +1571,12 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%83%9F%E5%8F%B0%E8%B5%B6%E6%B5%B7%E5%8F%91%E7%8E%B0%E6%BB%A1%E6%B2%99%E6%BB%A9%E6%B3%B8%E6%B2%BD%E8%99%BE%23" target="weibo">
 女生烟台赶海发现满沙滩泸沽虾（热度：1039183）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%BB%A5%E4%B8%BA%E4%BB%98%E6%AC%BE%E6%B2%A1%E6%88%90%E5%8A%9F%E4%BA%B2%E8%87%AA%E9%80%81%E6%9D%A5%E7%8E%B0%E9%87%91%23" target="weibo">
+顾客以为付款没成功亲自送来现金（热度：1038884）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1（热度：412209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E5%A4%96%E5%A9%86%E7%BB%9944%E5%B2%81%E5%A4%96%E5%AD%99%E5%BC%BA%E5%A1%9E%E9%9B%B6%E8%8A%B1%E9%92%B1%23" target="weibo">
 90岁外婆给44岁外孙强塞零花钱（热度：407364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E8%A1%A3%E6%9C%8D%E8%A2%AB%E6%8B%89%E9%93%BE%E5%8D%A1%E4%BD%8F%E7%9C%BC%E7%9A%AE%23" target="weibo">
-老人穿衣服被拉链卡住眼皮（热度：406886）
 </a>
 </li>
 
