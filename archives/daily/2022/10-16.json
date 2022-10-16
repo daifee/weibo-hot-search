@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665928586296,
+  "endTime": 1665930263036,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 343034,
-      "num": 23874,
+      "num": 24800,
       "word": "阿森纳",
       "onboard_time": 1665927204,
       "rank": 18,
@@ -619,6 +619,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207205,
+      "num": 24806,
+      "word": "2岁萌娃与金毛拔河被虐嚎啕大哭",
+      "onboard_time": 1665927804,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203689,
+      "num": 24803,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1665927445,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201503,
+      "num": 24803,
+      "word": "老爸阳台顶上建鱼池满足全家需求",
+      "onboard_time": 1665928884,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201344,
       "num": 143801,
       "word": "原来办狗证还需要采集鼻纹",
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187434,
+      "num": 363044,
+      "word": "二十大报告寄语广大青年",
+      "onboard_time": 1665923784,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 186609,
       "num": 139207,
       "word": "新时代新征程",
@@ -692,23 +724,23 @@
     },
     {
       "raw_hot": 179805,
-      "num": 23834,
+      "num": 24772,
       "word": "利兹联vs阿森纳",
       "onboard_time": 1665926844,
       "rank": 26,
       "category": "体育"
     },
     {
-      "raw_hot": 175388,
-      "num": 363044,
-      "word": "二十大报告寄语广大青年",
-      "onboard_time": 1665923784,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 179498,
+      "num": 24799,
+      "word": "国乒全主力阵容将出战WTT两站比赛",
+      "onboard_time": 1665928464,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 165502,
-      "num": 23804,
+      "num": 24780,
       "word": "利兹联vs阿森纳比赛中断",
       "onboard_time": 1665927984,
       "rank": 26,
@@ -737,6 +769,14 @@
       "onboard_time": 1665921562,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157359,
+      "num": 24795,
+      "word": "C罗首发",
+      "onboard_time": 1665928643,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 155949,
@@ -860,18 +900,10 @@
     },
     {
       "raw_hot": 131001,
-      "num": 23815,
+      "num": 24793,
       "word": "曼联vs纽卡斯尔联",
       "onboard_time": 1665926543,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 128626,
-      "num": 23788,
-      "word": "皇马vs巴萨",
-      "onboard_time": 1665927445,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 112140,
-      "num": 23798,
+      "num": 24790,
       "word": "青岛男篮vs辽宁男篮",
       "onboard_time": 1665926003,
       "rank": 33,
@@ -993,14 +1025,6 @@
       "onboard_time": 1665838823,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 81544,
-      "num": 23734,
-      "word": "2岁萌娃与金毛拔河被虐嚎啕大哭",
-      "onboard_time": 1665927804,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78961,
@@ -1107,6 +1131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61477,
+      "num": 24774,
+      "word": "弗格森拥抱C罗",
+      "onboard_time": 1665929364,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60578,
       "num": 23740,
       "word": "秋日的华山云海有多美",
@@ -1147,20 +1179,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 54442,
-      "num": 23706,
-      "word": "国乒全主力阵容将出战WTT两站比赛",
-      "onboard_time": 1665928464,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54436,
       "num": 32573,
       "word": "DK战胜EG",
       "onboard_time": 1665862931,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53960,
+      "num": 24772,
+      "word": "待售鸭群主动上前供客人挑选",
+      "onboard_time": 1665930145,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53027,
