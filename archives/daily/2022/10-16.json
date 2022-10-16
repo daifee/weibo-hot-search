@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665920336514,
+  "endTime": 1665924503391,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -121,6 +121,14 @@
       "onboard_time": 1665913702,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 969672,
+      "num": 26378,
+      "word": "Doinb",
+      "onboard_time": 1665920904,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 915977,
@@ -275,6 +283,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 446879,
+      "num": 26657,
+      "word": "110岁母亲和88岁儿子手拉手逛茶会",
+      "onboard_time": 1665921804,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439344,
       "num": 439344,
       "word": "我们要全面加强练兵备战",
@@ -312,6 +328,14 @@
       "word": "萨摩耶路过学校被学生热情围观",
       "onboard_time": 1665907880,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415124,
+      "num": 362374,
+      "word": "中国粮带给中国人的安全感",
+      "onboard_time": 1665920423,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145490,
+      "num": 26066,
+      "word": "萌娃拿奶茶蹲地铁口等妈妈下班",
+      "onboard_time": 1665921562,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143361,
       "num": 50091,
       "word": "小学生撞车留纸条道歉司机免赔偿",
@@ -729,6 +761,14 @@
       "onboard_time": 1665825863,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 141196,
+      "num": 26034,
+      "word": "女子丢35万手镯2地铁警接力找回",
+      "onboard_time": 1665923723,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140843,
@@ -891,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84996,
+      "num": 25438,
+      "word": "10月16日新闻联播",
+      "onboard_time": 1665920842,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78961,
       "num": 78961,
       "word": "万里归途",
@@ -1011,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55390,
+      "num": 363044,
+      "word": "二十大报告寄语广大青年",
+      "onboard_time": 1665923784,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 54824,
       "num": 54824,
       "word": "羡慕猫咪的睡眠质量",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1665820641,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 36263,
+      "num": 24713,
+      "word": "劳塔罗远射破门",
+      "onboard_time": 1665924202,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 36120,
