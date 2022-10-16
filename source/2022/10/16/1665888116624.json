@@ -1,0 +1,410 @@
+{
+  "runTime": 1665888116624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5444939,
+        "num": 6694939,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2709283,
+        "num": 2918567,
+        "word": "这是今晨天安门广场的升旗仪式",
+        "onboard_time": 1665879684,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174021,
+        "num": 1691781,
+        "word": "二十大权威发布",
+        "onboard_time": 1665887491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902111,
+        "num": 902111,
+        "word": "故宫博物院院长提出四大愿景",
+        "onboard_time": 1665884847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737642,
+        "num": 737642,
+        "word": "二十大发言人回应疫情防控",
+        "onboard_time": 1665828144,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494509,
+        "num": 494509,
+        "word": "党的二十大的主题",
+        "onboard_time": 1665887370,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472139,
+        "num": 472139,
+        "word": "首批听太空授课的孩子已成王亚平队友",
+        "onboard_time": 1665881665,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 368761,
+        "num": 368761,
+        "word": "大众宣布168亿在华投资项目",
+        "onboard_time": 1665856634,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361719,
+        "num": 361719,
+        "word": "武大靖说冰场上不只有东北话了",
+        "onboard_time": 1665881845,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 334651,
+        "num": 334651,
+        "word": "二十大议程",
+        "onboard_time": 1665825203,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408174,
+        "num": 333247,
+        "word": "二十大是个什么会",
+        "onboard_time": 1665847526,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529388,
+        "num": 332684,
+        "word": "安徽浙江拿5亿元进行水质对赌",
+        "onboard_time": 1665877518,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346655,
+        "num": 332233,
+        "word": "中国过冬八件套被欧洲买爆",
+        "onboard_time": 1665835405,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331124,
+        "num": 331124,
+        "word": "国际友人给女儿改名菌草",
+        "onboard_time": 1665886770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285255,
+        "num": 285255,
+        "word": "高校神仙颜值老师上课惊叹学生",
+        "onboard_time": 1665846026,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 271938,
+        "num": 271938,
+        "word": "人民日报社论",
+        "onboard_time": 1665882565,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265180,
+        "num": 265180,
+        "word": "十年来我们经历了三件大事",
+        "onboard_time": 1665887850,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264649,
+        "num": 264649,
+        "word": "爸爸连夜为儿子做课文中的竹节人",
+        "onboard_time": 1665853638,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176067,
+        "num": 176067,
+        "word": "90后宝妈用尿素袋运动鞋做格格服",
+        "onboard_time": 1665840445,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142981,
+        "num": 142981,
+        "word": "王亚平期待和国外同行同上中国空间站",
+        "onboard_time": 1665882144,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1186746,
+        "num": 142521,
+        "word": "JackeyLove哭了",
+        "onboard_time": 1665882752,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 514217,
+        "num": 142293,
+        "word": "请在乌克兰的中国公民撤离转移",
+        "onboard_time": 1665840083,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 420320,
+        "num": 141558,
+        "word": "张艺兴演唱会把文化输出玩明白了",
+        "onboard_time": 1665848485,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 767302,
+        "num": 140824,
+        "word": "Mark哭了",
+        "onboard_time": 1665884006,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310066,
+        "num": 139756,
+        "word": "19岁少女每天记忆被重置",
+        "onboard_time": 1665841285,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239640,
+        "num": 139093,
+        "word": "小伙被螃蟹夹手反咬一口患肺吸虫病",
+        "onboard_time": 1665845067,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516862,
+        "num": 138895,
+        "word": "Tian",
+        "onboard_time": 1665879862,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 138094,
+        "word": "美国再提供7.25亿美元对乌军事援助",
+        "onboard_time": 1665860593,
+        "rank": 27,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 201344,
+        "num": 137547,
+        "word": "原来办狗证还需要采集鼻纹",
+        "onboard_time": 1665877459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381563,
+        "num": 136585,
+        "word": "TES确定淘汰",
+        "onboard_time": 1665876136,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193592,
+        "num": 136272,
+        "word": "研究发现肥胖会在亲友间传染",
+        "onboard_time": 1665846205,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188447,
+        "num": 135580,
+        "word": "穆托姆博接受脑瘤治疗",
+        "onboard_time": 1665883945,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325791,
+        "num": 134630,
+        "word": "DRX小组第一",
+        "onboard_time": 1665885447,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187093,
+        "num": 133991,
+        "word": "男子躲高铁厕所抽烟被行拘5日",
+        "onboard_time": 1665863590,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 133664,
+        "word": "武大靖说会继续在赛场为国争光",
+        "onboard_time": 1665883104,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 209190,
+        "num": 132713,
+        "word": "GAM战胜TES",
+        "onboard_time": 1665875534,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 129665,
+        "word": "20多人自费开车送万斤搁浅鱼到赣江",
+        "onboard_time": 1665841165,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125943,
+        "num": 125943,
+        "word": "母亲自学3D建模打印替去世儿子接单",
+        "onboard_time": 1665841766,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120815,
+        "num": 120815,
+        "word": "一只很善良的小猫",
+        "onboard_time": 1665846148,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117219,
+        "num": 117219,
+        "word": "交警30分钟送断指孩子就医",
+        "onboard_time": 1665858313,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116215,
+        "num": 116215,
+        "word": "二十大开幕会全体唱国歌",
+        "onboard_time": 1665888031,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101600,
+        "num": 101600,
+        "word": "TES战胜DRX",
+        "onboard_time": 1665881366,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101504,
+        "num": 101504,
+        "word": "乘客公交车上晕倒女护士跪地抢救",
+        "onboard_time": 1665835224,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 101007,
+        "num": 101007,
+        "word": "大闸蟹这么吃就对了",
+        "onboard_time": 1665844348,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96112,
+        "num": 96112,
+        "word": "新一届中央政治局常委将同中外记者见面",
+        "onboard_time": 1665827363,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91819,
+        "num": 91819,
+        "word": "还是会相信爱情的",
+        "onboard_time": 1665837205,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88090,
+        "num": 88090,
+        "word": "这首歌居然是唱出来的",
+        "onboard_time": 1665878000,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86484,
+        "num": 86484,
+        "word": "女子投喂流浪猫1年获赠仓鼠",
+        "onboard_time": 1665831622,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70376,
+        "num": 70376,
+        "word": "TES状态",
+        "onboard_time": 1665878122,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68715,
+        "num": 68715,
+        "word": "今天的北京人民大会堂",
+        "onboard_time": 1665887069,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}
