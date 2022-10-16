@@ -1,6 +1,6 @@
 {
   "startTime": 1665851728946,
-  "endTime": 1665925889242,
+  "endTime": 1665927790808,
   "band_list": [
     {
       "raw_hot": 6642628,
@@ -163,7 +163,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 782807,
+      "raw_hot": 823530,
       "num": 26504,
       "word": "女子丢35万手镯2地铁警接力找回",
       "onboard_time": 1665923723,
@@ -499,6 +499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283481,
+      "num": 23874,
+      "word": "阿森纳",
+      "onboard_time": 1665927204,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278145,
       "num": 52395,
       "word": "白发太姥姥教罕见病女孩用勺子",
@@ -683,6 +691,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 179805,
+      "num": 23834,
+      "word": "利兹联vs阿森纳",
+      "onboard_time": 1665926844,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175388,
+      "num": 363044,
+      "word": "二十大报告寄语广大青年",
+      "onboard_time": 1665923784,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 165444,
       "num": 58859,
       "word": "罗云熙再演律师",
@@ -787,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139263,
-      "num": 363044,
-      "word": "二十大报告寄语广大青年",
-      "onboard_time": 1665923784,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 138489,
       "num": 43974,
       "word": "中国射击队世锦赛再夺两金",
@@ -835,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131001,
+      "num": 23815,
+      "word": "曼联vs纽卡斯尔联",
+      "onboard_time": 1665926543,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124076,
       "num": 690131,
       "word": "守江山守的是人民的心",
@@ -873,6 +897,14 @@
       "onboard_time": 1665835224,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 102532,
+      "num": 23798,
+      "word": "青岛男篮vs辽宁男篮",
+      "onboard_time": 1665926003,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 101600,
@@ -1011,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70257,
+      "num": 23754,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1665927445,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68715,
       "num": 68715,
       "word": "今天的北京人民大会堂",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1665832164,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 60578,
+      "num": 23740,
+      "word": "秋日的华山云海有多美",
+      "onboard_time": 1665926244,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 59295,

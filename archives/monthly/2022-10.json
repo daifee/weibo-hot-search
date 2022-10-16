@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665925889242,
+  "endTime": 1665927790808,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2971,6 +2971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 823530,
+      "num": 26504,
+      "word": "女子丢35万手镯2地铁警接力找回",
+      "onboard_time": 1665923723,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821733,
       "num": 366091,
       "word": "华春莹推特连发12组对比图",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1664799442,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 782807,
-      "num": 26504,
-      "word": "女子丢35万手镯2地铁警接力找回",
-      "onboard_time": 1665923723,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781704,
@@ -11331,6 +11331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 283481,
+      "num": 23874,
+      "word": "阿森纳",
+      "onboard_time": 1665927204,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283230,
       "num": 283230,
       "word": "汤唯提名大钟奖最佳女主角",
@@ -16563,6 +16571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179805,
+      "num": 23834,
+      "word": "利兹联vs阿森纳",
+      "onboard_time": 1665926844,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179522,
       "num": 179522,
       "word": "湖人vs勇士",
@@ -16761,6 +16777,14 @@
       "onboard_time": 1665303023,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175388,
+      "num": 363044,
+      "word": "二十大报告寄语广大青年",
+      "onboard_time": 1665923784,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 174995,
@@ -19171,14 +19195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139263,
-      "num": 363044,
-      "word": "二十大报告寄语广大青年",
-      "onboard_time": 1665923784,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 139080,
       "num": 139080,
       "word": "话剧舞台上的吴谨言",
@@ -19720,6 +19736,14 @@
       "word": "国乒男团晋级四强",
       "onboard_time": 1665150445,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131001,
+      "num": 23815,
+      "word": "曼联vs纽卡斯尔联",
+      "onboard_time": 1665926543,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -21753,6 +21777,14 @@
       "onboard_time": 1665752483,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102532,
+      "num": 23798,
+      "word": "青岛男篮vs辽宁男篮",
+      "onboard_time": 1665926003,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 102467,
@@ -23923,6 +23955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70257,
+      "num": 23754,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1665927445,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69947,
       "num": 69947,
       "word": "谁让你们这么教中文的",
@@ -24513,6 +24553,14 @@
       "onboard_time": 1664534003,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60578,
+      "num": 23740,
+      "word": "秋日的华山云海有多美",
+      "onboard_time": 1665926244,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 60266,
