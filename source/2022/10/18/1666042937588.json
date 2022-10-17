@@ -1,0 +1,410 @@
+{
+  "runTime": 1666042937588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 37214,
+        "num": 52939,
+        "word": "以零容忍态度惩治腐败",
+        "onboard_time": 1666037229,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11779,
+        "num": 11779,
+        "word": "这是9671.2万分之一的回答",
+        "onboard_time": 1666010604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4930,
+        "num": 11749,
+        "word": "二十大广西代表团讨论",
+        "onboard_time": 1666007660,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149494,
+        "num": 11717,
+        "word": "4个县级市被确定为大城市",
+        "onboard_time": 1666009161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56966,
+        "num": 11701,
+        "word": "金球奖",
+        "onboard_time": 1666017386,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55634,
+        "num": 11662,
+        "word": "清华硕士的社恐被大妈治愈了",
+        "onboard_time": 1666013304,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39641,
+        "num": 11625,
+        "word": "我国最牛县级市2021年GDP超4700亿",
+        "onboard_time": 1666009222,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 38586,
+        "num": 11581,
+        "word": "止痛药不要连续服用超过7天",
+        "onboard_time": 1666018585,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27600,
+        "num": 11547,
+        "word": "圆明园明日免费开放",
+        "onboard_time": 1666013244,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19313,
+        "num": 11490,
+        "word": "女儿第一次骑车上学爸爸偷偷护送",
+        "onboard_time": 1666012164,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47402,
+        "num": 11457,
+        "word": "广东民企百强华为退居第二",
+        "onboard_time": 1666022900,
+        "rank": 10,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 35315,
+        "num": 11404,
+        "word": "迪卡侬以次充好累计被罚18万元",
+        "onboard_time": 1666016726,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 30974,
+        "num": 11368,
+        "word": "突然觉得读书真有用",
+        "onboard_time": 1666012705,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29231,
+        "num": 11337,
+        "word": "中医好像真的有点东西",
+        "onboard_time": 1666000583,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 28509,
+        "num": 11311,
+        "word": "第一次见用奶嘴的小狗",
+        "onboard_time": 1666017985,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23322,
+        "num": 11267,
+        "word": "俄方称对俄天然气限价将导致停供",
+        "onboard_time": 1666031291,
+        "rank": 15,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 21047,
+        "num": 11219,
+        "word": "疼痛成我国第三大健康问题",
+        "onboard_time": 1666021462,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18020,
+        "num": 11209,
+        "word": "头疼也是病",
+        "onboard_time": 1666010424,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16134,
+        "num": 11143,
+        "word": "成都有栋楼可以坐滑梯下班",
+        "onboard_time": 1665987862,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14425,
+        "num": 11113,
+        "word": "苹果即将推出新款iPadPro",
+        "onboard_time": 1665980666,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29142,
+        "num": 11086,
+        "word": "约2000名乌克兰士兵将赴法国培训",
+        "onboard_time": 1666033450,
+        "rank": 20,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 26826,
+        "num": 11035,
+        "word": "这就是女追男天花板吧",
+        "onboard_time": 1666011264,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20732,
+        "num": 11009,
+        "word": "10月16日新增本土无症状534例",
+        "onboard_time": 1666036211,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17886,
+        "num": 10979,
+        "word": "肯德基回应点芙蓉汤外卖只收到干料",
+        "onboard_time": 1665987563,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 14601,
+        "num": 10949,
+        "word": "幼狗被装袋挂树上女子散步时救下",
+        "onboard_time": 1666008621,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14147,
+        "num": 10902,
+        "word": "恋爱真的很难吗",
+        "onboard_time": 1666008442,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13098,
+        "num": 10876,
+        "word": "原来求和也可以这么可爱",
+        "onboard_time": 1666003762,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13050,
+        "num": 10838,
+        "word": "2岁女童突发抽搐消防车秒变救护车",
+        "onboard_time": 1666018826,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12641,
+        "num": 10795,
+        "word": "希望工程大眼睛当了二十大代表",
+        "onboard_time": 1666010002,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12633,
+        "num": 10737,
+        "word": "吴建豪是反焦虑大师吧",
+        "onboard_time": 1666003102,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10728,
+        "num": 10728,
+        "word": "10月16日新增本土确诊182例",
+        "onboard_time": 1666036150,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10634,
+        "num": 10634,
+        "word": "小泰迪行云流水式嗑瓜子还会吐壳",
+        "onboard_time": 1666026134,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10319,
+        "num": 10319,
+        "word": "男子骑车时发病蛇形走位",
+        "onboard_time": 1666028892,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10108,
+        "num": 10108,
+        "word": "东航陆续恢复多条国际航线",
+        "onboard_time": 1666000941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9413,
+        "num": 9413,
+        "word": "做饭真的不能偷懒",
+        "onboard_time": 1665992901,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9103,
+        "num": 9103,
+        "word": "2022年豆瓣评分人数破50万的剧",
+        "onboard_time": 1665998543,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8871,
+        "num": 8871,
+        "word": "碎碎念要分享给有回应的人",
+        "onboard_time": 1666019484,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8723,
+        "num": 8723,
+        "word": "广东受台风和冷空气夹击",
+        "onboard_time": 1665995781,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8229,
+        "num": 8229,
+        "word": "中国首家元宇宙新闻与传播学院在南开推出",
+        "onboard_time": 1666031772,
+        "rank": 38,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 7873,
+        "num": 7873,
+        "word": "白菜居然还能这么吃",
+        "onboard_time": 1666007660,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 6900,
+        "num": 6900,
+        "word": "在重庆不要过度相信导航",
+        "onboard_time": 1666007841,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6753,
+        "num": 6753,
+        "word": "是谁教你们用广角拍手的",
+        "onboard_time": 1666002979,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6424,
+        "num": 6424,
+        "word": "7位中国球员跻身wta前100",
+        "onboard_time": 1666038969,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5285,
+        "num": 5285,
+        "word": "Maybe确诊",
+        "onboard_time": 1665981086,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 4868,
+        "num": 4868,
+        "word": "这是在培养飞行员吗",
+        "onboard_time": 1666039812,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4621,
+        "num": 4621,
+        "word": "李盈莹期待成为顶级球员",
+        "onboard_time": 1666038730,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4460,
+        "num": 4460,
+        "word": "RNG小组赛五连胜",
+        "onboard_time": 1666039870,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2914,
+        "num": 2914,
+        "word": "RNG战队DOTA2分部多人确诊",
+        "onboard_time": 1666011984,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2812,
+        "num": 2812,
+        "word": "二十大新闻中心举办记者招待会",
+        "onboard_time": 1665973102,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2733,
+        "num": 2733,
+        "word": "当姐妹知道你分手了",
+        "onboard_time": 1665994521,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#心往一处想劲往一处使#"
+    }
+  }
+}
