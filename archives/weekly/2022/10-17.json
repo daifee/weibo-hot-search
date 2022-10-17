@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1665983048316,
+  "endTime": 1665986148586,
   "band_list": [
     {
       "raw_hot": 1906376,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 649424,
-      "num": 179501,
+      "num": 204724,
       "word": "张桂梅眼含热泪听完二十大报告",
       "onboard_time": 1665971422,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515594,
+      "num": 515594,
+      "word": "未来中国开放的大门只会越开越大",
+      "onboard_time": 1665979225,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502053,
       "num": 67179,
       "word": "老鼠钻进男生宿舍自动售卖机偷吃",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 497650,
-      "num": 178675,
+      "num": 197563,
       "word": "小朋友与书摊爷爷路灯下默契看书",
       "onboard_time": 1665975802,
       "rank": 14,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 482187,
-      "num": 177444,
+      "num": 194482,
       "word": "孙女每天用监控和93岁奶奶聊家常",
       "onboard_time": 1665979524,
       "rank": 5,
@@ -123,19 +131,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 442305,
-      "num": 442305,
-      "word": "未来中国开放的大门只会越开越大",
-      "onboard_time": 1665979225,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414372,
       "num": 67209,
       "word": "拳头 抽签",
       "onboard_time": 1665975381,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 398503,
+      "num": 58435,
+      "word": "EDG选手身体状态",
+      "onboard_time": 1665982284,
+      "rank": 25,
       "category": "游戏"
     },
     {
@@ -347,19 +355,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 236369,
+      "num": 56454,
+      "word": "广东人的长袖又要派上用场了",
+      "onboard_time": 1665982466,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234181,
       "num": 28723,
       "word": "V社处罚LGD",
       "onboard_time": 1665931823,
       "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 233745,
-      "num": 58435,
-      "word": "EDG选手身体状态",
-      "onboard_time": 1665982284,
-      "rank": 25,
       "category": "游戏"
     },
     {
@@ -395,6 +403,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 190650,
+      "num": 190650,
+      "word": "9岁入行川剧人36年终获梅花奖",
+      "onboard_time": 1665984022,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188573,
       "num": 66516,
       "word": "小女孩读妈妈睡了课文泪流满面",
@@ -417,6 +433,14 @@
       "onboard_time": 1665936083,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182794,
+      "num": 55301,
+      "word": "男子回应帮农户卖菜年年被送特产",
+      "onboard_time": 1665982641,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 181590,
@@ -499,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160201,
+      "num": 49086,
+      "word": "维金斯谈降薪续约",
+      "onboard_time": 1665983663,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155835,
       "num": 66703,
       "word": "电影票的意义不只是票据",
@@ -537,6 +569,14 @@
       "onboard_time": 1665927445,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139389,
+      "num": 209747,
+      "word": "把发展经济的着力点放在实体经济上",
+      "onboard_time": 1665983481,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 139164,
@@ -587,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125678,
+      "num": 49052,
+      "word": "北京教育考试院发布提示",
+      "onboard_time": 1665984263,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 119026,
       "num": 16771,
       "word": "老爸阳台顶上建鱼池满足全家需求",
@@ -603,12 +651,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115497,
+      "num": 49015,
+      "word": "4招催熟一只涩柿子",
+      "onboard_time": 1665984142,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113520,
       "num": 28722,
       "word": "皇马3比1巴萨",
       "onboard_time": 1665962598,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110758,
+      "num": 55684,
+      "word": "S12赛程",
+      "onboard_time": 1665975259,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 48995,
+      "word": "西游记是喜剧片吧",
+      "onboard_time": 1665984802,
+      "rank": 34,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 110305,
@@ -635,19 +707,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105784,
+      "num": 105784,
+      "word": "航拍秋日梯田每一帧都是壁纸",
+      "onboard_time": 1665983063,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105689,
       "num": 56949,
       "word": "110岁母亲和88岁儿子手拉手逛茶会",
       "onboard_time": 1665921804,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104611,
-      "num": 56454,
-      "word": "广东人的长袖又要派上用场了",
-      "onboard_time": 1665982466,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -665,14 +737,6 @@
       "onboard_time": 1665976103,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95392,
-      "num": 55684,
-      "word": "S12赛程",
-      "onboard_time": 1665975259,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 91469,
@@ -731,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83993,
-      "num": 55301,
-      "word": "男子回应帮农户卖菜年年被送特产",
-      "onboard_time": 1665982641,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "二十大",
@@ -784,6 +840,22 @@
       "word": "女子生日被4好友拖行示众",
       "onboard_time": 1665963801,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66535,
+      "num": 48896,
+      "word": "说中国要搞自给自足是错误认知",
+      "onboard_time": 1665985402,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66108,
+      "num": 48891,
+      "word": "世界技能大赛特别赛中国已夺5金",
+      "onboard_time": 1665985881,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
