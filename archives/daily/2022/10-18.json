@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666029901862,
+  "endTime": 1666032327639,
   "band_list": [
     {
       "raw_hot": 1038585,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24386,
+      "num": 20132,
+      "word": "男子骑车时发病蛇形走位",
+      "onboard_time": 1666028892,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14634,
       "num": 20148,
       "word": "收这车得让同行笑话三年",
@@ -419,12 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12186,
-      "num": 20132,
-      "word": "男子骑车时发病蛇形走位",
-      "onboard_time": 1666028892,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 13518,
+      "num": 10250,
+      "word": "俄方称对俄天然气限价将导致停供",
+      "onboard_time": 1666031291,
+      "rank": 33,
+      "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 8467,
+      "num": 10127,
+      "word": "中国首家元宇宙新闻与传播学院在南开推出",
+      "onboard_time": 1666031772,
+      "rank": 46,
+      "category": "教育,科技"
     }
   ],
   "hotgov_list": [

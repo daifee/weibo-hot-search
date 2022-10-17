@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666029901862,
+  "endTime": 1666032327639,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -1747,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24386,
+      "num": 20132,
+      "word": "男子骑车时发病蛇形走位",
+      "onboard_time": 1666028892,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17285,
       "num": 17285,
       "word": "守江山守的是人民的心",
@@ -1771,12 +1779,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12186,
-      "num": 20132,
-      "word": "男子骑车时发病蛇形走位",
-      "onboard_time": 1666028892,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 13518,
+      "num": 10250,
+      "word": "俄方称对俄天然气限价将导致停供",
+      "onboard_time": 1666031291,
+      "rank": 33,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 11973,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1665887850,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8467,
+      "num": 10127,
+      "word": "中国首家元宇宙新闻与传播学院在南开推出",
+      "onboard_time": 1666031772,
+      "rank": 46,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 7552,
