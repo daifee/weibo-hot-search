@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666018444039,
+  "endTime": 1666020718903,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546498,
+      "num": 148176,
+      "word": "迪卡侬以次充好累计被罚18万元",
+      "onboard_time": 1666016726,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 531180,
       "num": 147672,
       "word": "女子帮带货熟肉被职业打假二审胜诉",
@@ -225,6 +233,14 @@
       "onboard_time": 1665975802,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482289,
+      "num": 149742,
+      "word": "金球奖",
+      "onboard_time": 1666017386,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 482187,
@@ -403,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341490,
-      "num": 148176,
-      "word": "迪卡侬以次充好累计被罚18万元",
-      "onboard_time": 1666016726,
-      "rank": 11,
-      "category": "财经,社会新闻"
+      "raw_hot": 338113,
+      "num": 139483,
+      "word": "第一次见用奶嘴的小狗",
+      "onboard_time": 1666017985,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 338048,
@@ -433,14 +449,6 @@
       "onboard_time": 1665975381,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 329039,
-      "num": 149742,
-      "word": "金球奖",
-      "onboard_time": 1666017386,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 325414,
@@ -715,6 +723,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 224890,
+      "num": 145221,
+      "word": "武大设线上面试亭隔音私密俱佳",
+      "onboard_time": 1666016364,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 224619,
       "num": 28733,
       "word": "GEN战胜RNG",
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174434,
+      "num": 141894,
+      "word": "有个摄影师男友是什么体验",
+      "onboard_time": 1666016425,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170887,
       "num": 16812,
       "word": "山东一村8090后全部回村就业",
@@ -995,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152782,
-      "num": 145221,
-      "word": "武大设线上面试亭隔音私密俱佳",
-      "onboard_time": 1666016364,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 152074,
       "num": 92039,
       "word": "龙之家族",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1665989181,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146814,
+      "num": 120561,
+      "word": "止痛药不要连续服用超过7天",
+      "onboard_time": 1666018585,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144426,
@@ -1163,20 +1187,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 121058,
-      "num": 141894,
-      "word": "有个摄影师男友是什么体验",
-      "onboard_time": 1666016425,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120209,
       "num": 140630,
       "word": "希望工程大眼睛当了二十大代表",
       "onboard_time": 1666010002,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119200,
+      "num": 119071,
+      "word": "碎碎念要分享给有回应的人",
+      "onboard_time": 1666019484,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 119026,
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 114009,
-      "num": 96059,
+      "num": 124345,
       "word": "二十大广西代表团讨论",
       "onboard_time": 1666007660,
       "rank": 27,
@@ -1307,15 +1331,7 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 93736,
-      "num": 139483,
-      "word": "第一次见用奶嘴的小狗",
-      "onboard_time": 1666017985,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 93659,
+      "raw_hot": 94436,
       "num": 139218,
       "word": "乌云遇皎月大结局你满意吗",
       "onboard_time": 1666016907,
@@ -1396,7 +1412,7 @@
     },
     {
       "raw_hot": 84580,
-      "num": 84580,
+      "num": 115302,
       "word": "动画复原圆明园昔日景象",
       "onboard_time": 1666013724,
       "rank": 36,
@@ -1417,6 +1433,22 @@
       "onboard_time": 1665981443,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81697,
+      "num": 136530,
+      "word": "敦煌胡杨一半倒影一半真",
+      "onboard_time": 1666017925,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 79412,
+      "num": 116959,
+      "word": "希望小朋友都能遇见这种老师",
+      "onboard_time": 1666018946,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 79178,
@@ -1459,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74527,
-      "num": 136530,
-      "word": "敦煌胡杨一半倒影一半真",
-      "onboard_time": 1666017925,
-      "rank": 43,
-      "category": "旅游"
+      "raw_hot": 72460,
+      "num": 122013,
+      "word": "2岁女童突发抽搐消防车秒变救护车",
+      "onboard_time": 1666018826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71677,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1665927204,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58604,
+      "num": 115375,
+      "word": "一日三餐镜头里的烟火气",
+      "onboard_time": 1666019904,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 57589,
