@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666020718903,
+  "endTime": 1666022066048,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -9931,6 +9931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350160,
+      "num": 139483,
+      "word": "第一次见用奶嘴的小狗",
+      "onboard_time": 1666017985,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349823,
       "num": 349823,
       "word": "抑郁症不是简单的坏心情",
@@ -10249,14 +10257,6 @@
       "onboard_time": 1664950581,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338113,
-      "num": 139483,
-      "word": "第一次见用奶嘴的小狗",
-      "onboard_time": 1666017985,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 338048,
@@ -13065,6 +13065,14 @@
       "onboard_time": 1665202224,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258783,
+      "num": 120561,
+      "word": "止痛药不要连续服用超过7天",
+      "onboard_time": 1666018585,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258470,
@@ -17203,6 +17211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183742,
+      "num": 119071,
+      "word": "碎碎念要分享给有回应的人",
+      "onboard_time": 1666019484,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183708,
       "num": 183708,
       "word": "没想到相亲会这么社死",
@@ -19603,14 +19619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146814,
-      "num": 120561,
-      "word": "止痛药不要连续服用超过7天",
-      "onboard_time": 1666018585,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146613,
       "num": 146613,
       "word": "EDG战胜FNC",
@@ -20851,6 +20859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131041,
+      "num": 124345,
+      "word": "二十大广西代表团讨论",
+      "onboard_time": 1666007660,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131028,
       "num": 131028,
       "word": "国乒男团晋级四强",
@@ -21739,6 +21755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119576,
+      "num": 138483,
+      "word": "侯勇焦俊艳新剧烟火气",
+      "onboard_time": 1666016845,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119512,
       "num": 119512,
       "word": "newjeans获奖感言",
@@ -21753,14 +21777,6 @@
       "onboard_time": 1665047486,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119200,
-      "num": 119071,
-      "word": "碎碎念要分享给有回应的人",
-      "onboard_time": 1666019484,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 119047,
@@ -22129,14 +22145,6 @@
       "onboard_time": 1665385163,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 114009,
-      "num": 124345,
-      "word": "二十大广西代表团讨论",
-      "onboard_time": 1666007660,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113790,
@@ -23515,6 +23523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96863,
+      "num": 122013,
+      "word": "2岁女童突发抽搐消防车秒变救护车",
+      "onboard_time": 1666018826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96546,
       "num": 96546,
       "word": "王楚钦顶住压力",
@@ -24091,14 +24107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87883,
-      "num": 138483,
-      "word": "侯勇焦俊艳新剧烟火气",
-      "onboard_time": 1666016845,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 87830,
       "num": 87830,
       "word": "檀健次沸腾校园牛仔套装造型",
@@ -24169,6 +24177,14 @@
       "onboard_time": 1665933804,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86987,
+      "num": 116959,
+      "word": "希望小朋友都能遇见这种老师",
+      "onboard_time": 1666018946,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 86923,
@@ -24707,14 +24723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79412,
-      "num": 116959,
-      "word": "希望小朋友都能遇见这种老师",
-      "onboard_time": 1666018946,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 79400,
       "num": 79400,
       "word": "乌云遇皎月改编壮鱼结局",
@@ -25193,14 +25201,6 @@
       "onboard_time": 1664978065,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72460,
-      "num": 122013,
-      "word": "2岁女童突发抽搐消防车秒变救护车",
-      "onboard_time": 1666018826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72338,
@@ -25769,6 +25769,14 @@
       "onboard_time": 1664608284,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64565,
+      "num": 101291,
+      "word": "疼痛成我国第三大健康问题",
+      "onboard_time": 1666021462,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64466,
