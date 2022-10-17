@@ -1,0 +1,410 @@
+{
+  "runTime": 1665993691203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210564,
+        "num": 259570,
+        "word": "二十大新闻中心第二场记者招待会",
+        "onboard_time": 1665990681,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 346820,
+        "num": 254311,
+        "word": "未来中国开放的大门只会越开越大",
+        "onboard_time": 1665979225,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42240,
+        "num": 236136,
+        "word": "记者带你见证二十大开幕会",
+        "onboard_time": 1665989241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460297,
+        "num": 231917,
+        "word": "张桂梅眼含热泪听完二十大报告",
+        "onboard_time": 1665971422,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222116,
+        "num": 222116,
+        "word": "二十大报告中的9个数字",
+        "onboard_time": 1665965062,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245354,
+        "num": 217523,
+        "word": "孙女每天用监控和93岁奶奶聊家常",
+        "onboard_time": 1665979524,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194959,
+        "num": 194959,
+        "word": "小朋友与书摊爷爷路灯下默契看书",
+        "onboard_time": 1665975802,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "你好二十大",
+        "onboard_time": 1665932543,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147178,
+        "num": 147178,
+        "word": "9岁入行川剧人36年终获梅花奖",
+        "onboard_time": 1665984022,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142679,
+        "num": 142679,
+        "word": "男子回应帮农户卖菜年年被送特产",
+        "onboard_time": 1665982641,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 542425,
+        "num": 142670,
+        "word": "成都有栋楼可以坐滑梯下班",
+        "onboard_time": 1665987862,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414490,
+        "num": 142422,
+        "word": "小学生捡十万练功券组队交给警察",
+        "onboard_time": 1665991581,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 299926,
+        "num": 142317,
+        "word": "苹果即将推出新款iPadPro",
+        "onboard_time": 1665980666,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243569,
+        "num": 142123,
+        "word": "EDG选手身体状态",
+        "onboard_time": 1665982284,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5015,
+        "num": 142057,
+        "word": "老外眼里的汉服有多美",
+        "onboard_time": 1665993682,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212965,
+        "num": 141807,
+        "word": "爸爸在简陋出租房给女儿搭仙女屋",
+        "onboard_time": 1665973881,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200747,
+        "num": 141698,
+        "word": "卡塔尔成为2023年亚洲杯举办地",
+        "onboard_time": 1665986421,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186804,
+        "num": 141514,
+        "word": "茅台前三季度日赚1.62亿",
+        "onboard_time": 1665979764,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 141398,
+        "word": "影视剧cp售后哪家强",
+        "onboard_time": 1665993142,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155030,
+        "num": 141147,
+        "word": "原来被爱的感觉这么好",
+        "onboard_time": 1665965121,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 772794,
+        "num": 140999,
+        "word": "肯德基回应点芙蓉汤外卖只收到干料",
+        "onboard_time": 1665987563,
+        "rank": 20,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 300703,
+        "num": 140906,
+        "word": "女子野餐中途拍照美食被3只猪炫光",
+        "onboard_time": 1665988280,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 236184,
+        "num": 140704,
+        "word": "中国三季度经济明显回升",
+        "onboard_time": 1665991821,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 236101,
+        "num": 140540,
+        "word": "Maybe确诊",
+        "onboard_time": 1665981086,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143873,
+        "num": 140413,
+        "word": "14岁女孩连续捡2月废品送老奶奶",
+        "onboard_time": 1665976402,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153712,
+        "num": 140332,
+        "word": "女子帮带货熟肉被职业打假二审胜诉",
+        "onboard_time": 1665977965,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153314,
+        "num": 140220,
+        "word": "茅台市值超过腾讯位列第一",
+        "onboard_time": 1665993082,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140068,
+        "num": 140068,
+        "word": "RNG对阵LGD第二场弃赛",
+        "onboard_time": 1665978143,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134580,
+        "num": 134580,
+        "word": "张开泰犬系男友",
+        "onboard_time": 1665989181,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133685,
+        "num": 133685,
+        "word": "老外第一次穿汉服的反应",
+        "onboard_time": 1665992423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101067,
+        "num": 101067,
+        "word": "西游记是喜剧片吧",
+        "onboard_time": 1665984802,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 100848,
+        "num": 100848,
+        "word": "TI11 RNG可惜",
+        "onboard_time": 1665977062,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96540,
+        "num": 96540,
+        "word": "乌云遇皎月30秒神反转",
+        "onboard_time": 1665989181,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92439,
+        "num": 92439,
+        "word": "做饭真的不能偷懒",
+        "onboard_time": 1665992901,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95006,
+        "num": 89573,
+        "word": "TES bug",
+        "onboard_time": 1665963620,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84612,
+        "num": 84612,
+        "word": "4招催熟一只涩柿子",
+        "onboard_time": 1665984142,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79706,
+        "num": 79706,
+        "word": "广东人的长袖又要派上用场了",
+        "onboard_time": 1665982466,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89589,
+        "num": 78722,
+        "word": "S12赛程",
+        "onboard_time": 1665975259,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76962,
+        "num": 76962,
+        "word": "说中国要搞自给自足是错误认知",
+        "onboard_time": 1665985402,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76530,
+        "num": 76530,
+        "word": "历史老师转行教语文有多拼",
+        "onboard_time": 1665977182,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74445,
+        "num": 74445,
+        "word": "RNG八强对阵T1",
+        "onboard_time": 1665975562,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71382,
+        "num": 71382,
+        "word": "曾没公路没电的牧区如今用无人机放牧",
+        "onboard_time": 1665989780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70639,
+        "num": 70639,
+        "word": "龙之家族",
+        "onboard_time": 1665981806,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72408,
+        "num": 70566,
+        "word": "拳头 抽签",
+        "onboard_time": 1665975381,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69453,
+        "num": 69453,
+        "word": "阿联酋愿与中国进行科技合作",
+        "onboard_time": 1665972982,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 67060,
+        "num": 67060,
+        "word": "私家车鸣笛晃大灯求助民警秒懂",
+        "onboard_time": 1665993501,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66771,
+        "num": 66771,
+        "word": "电影票的意义不只是票据",
+        "onboard_time": 1665965603,
+        "rank": 46,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 66531,
+        "num": 66531,
+        "word": "剑网三",
+        "onboard_time": 1665976282,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65553,
+        "num": 65553,
+        "word": "女子丢35万手镯2地铁警接力找回",
+        "onboard_time": 1665923723,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65082,
+        "num": 65082,
+        "word": "老鼠钻进男生宿舍自动售卖机偷吃",
+        "onboard_time": 1665968903,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
