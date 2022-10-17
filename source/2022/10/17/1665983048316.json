@@ -1,0 +1,410 @@
+{
+  "runTime": 1665983048316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 442305,
+        "num": 442305,
+        "word": "未来中国开放的大门只会越开越大",
+        "onboard_time": 1665979225,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384979,
+        "num": 384979,
+        "word": "二十大报告中的9个数字",
+        "onboard_time": 1665965062,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180537,
+        "num": 180537,
+        "word": "你好二十大",
+        "onboard_time": 1665932543,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 649424,
+        "num": 179501,
+        "word": "张桂梅眼含热泪听完二十大报告",
+        "onboard_time": 1665971422,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497650,
+        "num": 178675,
+        "word": "小朋友与书摊爷爷路灯下默契看书",
+        "onboard_time": 1665975802,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482187,
+        "num": 177444,
+        "word": "孙女每天用监控和93岁奶奶聊家常",
+        "onboard_time": 1665979524,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171897,
+        "num": 171897,
+        "word": "二十大新闻中心举办记者招待会",
+        "onboard_time": 1665973102,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 95901,
+        "word": "二十大报告寄语广大青年",
+        "onboard_time": 1665923784,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79095,
+        "num": 79095,
+        "word": "一段视频了解什么是中国式现代化",
+        "onboard_time": 1665976103,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60709,
+        "num": 60709,
+        "word": "二十大报告里致青年的话",
+        "onboard_time": 1665963259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939653,
+        "num": 60647,
+        "word": "Maybe确诊",
+        "onboard_time": 1665981086,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 717449,
+        "num": 60545,
+        "word": "苹果即将推出新款iPadPro",
+        "onboard_time": 1665980666,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 443801,
+        "num": 60395,
+        "word": "茅台前三季度日赚1.62亿",
+        "onboard_time": 1665979764,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 625301,
+        "num": 60158,
+        "word": "RNG对阵LGD第二场弃赛",
+        "onboard_time": 1665978143,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 412220,
+        "num": 60060,
+        "word": "爸爸在简陋出租房给女儿搭仙女屋",
+        "onboard_time": 1665973881,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338048,
+        "num": 59850,
+        "word": "14岁女孩连续捡2月废品送老奶奶",
+        "onboard_time": 1665976402,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347087,
+        "num": 59780,
+        "word": "RNG八强对阵T1",
+        "onboard_time": 1665975562,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319034,
+        "num": 59522,
+        "word": "历史老师转行教语文有多拼",
+        "onboard_time": 1665977182,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290084,
+        "num": 59493,
+        "word": "原来被爱的感觉这么好",
+        "onboard_time": 1665965121,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316284,
+        "num": 59330,
+        "word": "TI11 RNG可惜",
+        "onboard_time": 1665977062,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 531180,
+        "num": 59113,
+        "word": "女子帮带货熟肉被职业打假二审胜诉",
+        "onboard_time": 1665977965,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264195,
+        "num": 59015,
+        "word": "说你没葱高可能真的不是笑话你",
+        "onboard_time": 1665977543,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364967,
+        "num": 58831,
+        "word": "潘飞",
+        "onboard_time": 1665980329,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236321,
+        "num": 58722,
+        "word": "老鼠钻进男生宿舍自动售卖机偷吃",
+        "onboard_time": 1665968903,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227639,
+        "num": 58617,
+        "word": "阿联酋愿与中国进行科技合作",
+        "onboard_time": 1665972982,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 233745,
+        "num": 58435,
+        "word": "EDG选手身体状态",
+        "onboard_time": 1665982284,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 58191,
+        "word": "蚊子居然还有头发",
+        "onboard_time": 1665932485,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 58055,
+        "word": "龙之家族",
+        "onboard_time": 1665981806,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232118,
+        "num": 57980,
+        "word": "拳头 抽签",
+        "onboard_time": 1665975381,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150914,
+        "num": 57865,
+        "word": "女子捡到数万现金归还95岁失主",
+        "onboard_time": 1665975140,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 57594,
+        "word": "女子丢35万手镯2地铁警接力找回",
+        "onboard_time": 1665923723,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183437,
+        "num": 57434,
+        "word": "TES bug",
+        "onboard_time": 1665963620,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 57403,
+        "word": "宝马将把mini电动车型生产线迁至中国",
+        "onboard_time": 1665932543,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118355,
+        "num": 57182,
+        "word": "电影票的意义不只是票据",
+        "onboard_time": 1665965603,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 57038,
+        "word": "剑网三",
+        "onboard_time": 1665976282,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115411,
+        "num": 56920,
+        "word": "英国热水袋销量激增超200%",
+        "onboard_time": 1665972623,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105024,
+        "num": 56795,
+        "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+        "onboard_time": 1665932784,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167275,
+        "num": 56679,
+        "word": "RNG DOTA2",
+        "onboard_time": 1665978024,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104611,
+        "num": 56454,
+        "word": "广东人的长袖又要派上用场了",
+        "onboard_time": 1665982466,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101004,
+        "num": 56374,
+        "word": "顾客以为付款没成功亲自送来现金",
+        "onboard_time": 1665913702,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129374,
+        "num": 56173,
+        "word": "S12淘汰赛抽签",
+        "onboard_time": 1665972503,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92294,
+        "num": 55949,
+        "word": "会斜眼瞪人的猫咪",
+        "onboard_time": 1665966263,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89367,
+        "num": 55913,
+        "word": "国人的车厘子自由从河南开始",
+        "onboard_time": 1665930924,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95392,
+        "num": 55684,
+        "word": "S12赛程",
+        "onboard_time": 1665975259,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88182,
+        "num": 55582,
+        "word": "火葫芦柿子热销",
+        "onboard_time": 1665968423,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 84008,
+        "num": 55408,
+        "word": "8旬老人骑行40里探望5旬女儿",
+        "onboard_time": 1665981443,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83993,
+        "num": 55301,
+        "word": "男子回应帮农户卖菜年年被送特产",
+        "onboard_time": 1665982641,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77638,
+        "num": 55131,
+        "word": "朱婷出席斯坎迪奇球队发布会",
+        "onboard_time": 1665972383,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73720,
+        "num": 55022,
+        "word": "DRX八强对阵EDG",
+        "onboard_time": 1665973581,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71445,
+        "num": 54756,
+        "word": "核桃里也藏着童话世界",
+        "onboard_time": 1665978085,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注党的二十大#"
+    }
+  }
+}
