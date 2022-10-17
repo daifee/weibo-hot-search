@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666035231009,
+  "endTime": 1666036069055,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -27419,6 +27419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25148,
+      "num": 8951,
+      "word": "约2000名乌克兰士兵将赴法国培训",
+      "onboard_time": 1666033450,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 24728,
       "num": 24728,
       "word": "唐朝诡事录公主摆鸿门宴",
@@ -27443,20 +27451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23813,
+      "num": 10127,
+      "word": "中国首家元宇宙新闻与传播学院在南开推出",
+      "onboard_time": 1666031772,
+      "rank": 46,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23353,
-      "num": 10127,
-      "word": "中国首家元宇宙新闻与传播学院在南开推出",
-      "onboard_time": 1666031772,
-      "rank": 46,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 22966,
@@ -27681,14 +27689,6 @@
       "onboard_time": 1665003012,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12255,
-      "num": 8951,
-      "word": "约2000名乌克兰士兵将赴法国培训",
-      "onboard_time": 1666033450,
-      "rank": 46,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 11443,
@@ -28491,12 +28491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5378,
+      "num": 4546,
+      "word": "男子吹口哨附近流浪猫秒集结",
+      "onboard_time": 1666035491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5329,
       "num": 5329,
       "word": "专访中国女篮队长杨力维",
       "onboard_time": 1664828290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 5323,
+      "num": 4542,
+      "word": "影像是千元机下一个赛道吗",
+      "onboard_time": 1666035370,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 5322,
@@ -28587,6 +28603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5155,
+      "num": 4539,
+      "word": "张桂梅说希望多活几年看孩子都毫无阻碍地读书",
+      "onboard_time": 1666036031,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5153,
       "num": 6761,
       "word": "中国是全球最大水产品出口国",
@@ -28601,6 +28625,14 @@
       "onboard_time": 1666035012,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5123,
+      "num": 4530,
+      "word": "小狗模仿主人学说话喊妈妈",
+      "onboard_time": 1666035790,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5121,

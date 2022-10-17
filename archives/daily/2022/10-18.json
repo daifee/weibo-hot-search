@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666035231009,
+  "endTime": 1666036069055,
   "band_list": [
     {
       "raw_hot": 1038585,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25148,
+      "num": 8951,
+      "word": "约2000名乌克兰士兵将赴法国培训",
+      "onboard_time": 1666033450,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 24673,
       "num": 41929,
       "word": "北京医保平台可办理个账家庭共济备案",
@@ -427,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23353,
+      "raw_hot": 23813,
       "num": 10127,
       "word": "中国首家元宇宙新闻与传播学院在南开推出",
       "onboard_time": 1666031772,
@@ -441,14 +449,6 @@
       "onboard_time": 1666028113,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12255,
-      "num": 8951,
-      "word": "约2000名乌克兰士兵将赴法国培训",
-      "onboard_time": 1666033450,
-      "rank": 46,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 5998,
@@ -475,12 +475,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5378,
+      "num": 4546,
+      "word": "男子吹口哨附近流浪猫秒集结",
+      "onboard_time": 1666035491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5323,
+      "num": 4542,
+      "word": "影像是千元机下一个赛道吗",
+      "onboard_time": 1666035370,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 5155,
+      "num": 4539,
+      "word": "张桂梅说希望多活几年看孩子都毫无阻碍地读书",
+      "onboard_time": 1666036031,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5152,
       "num": 5761,
       "word": "这工作确实为难大哥了",
       "onboard_time": 1666035012,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5123,
+      "num": 4530,
+      "word": "小狗模仿主人学说话喊妈妈",
+      "onboard_time": 1666035790,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5121,
