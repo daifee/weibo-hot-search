@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 07:31:23
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 07:48:26
 </p>
 </blockquote>
 <p>
@@ -1319,6 +1319,12 @@ JackeyLove哭了（热度：1186746）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DRX%E6%88%98%E8%83%9CTES%23" target="weibo">
 DRX战胜TES（热度：1162865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%B4%9B%E8%8A%AC%E7%9C%9F%E6%98%AF%E4%B8%87%E8%83%BD%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%90%97%23" target="weibo">
+布洛芬真是万能止痛药吗（热度：1160669）
 </a>
 </li>
 
@@ -2993,6 +2999,12 @@ BLACKPINK演唱会（热度：711797）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Viper%23" target="weibo">
 Viper（热度：705111）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%972030%E5%B9%B4%E5%89%8D%E6%88%96%E5%B0%86%E9%97%AE%E4%B8%96%23" target="weibo">
+癌症疫苗2030年前或将问世（热度：704857）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ gidle概念预告照（热度：424921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%92%8C%E5%8F%A4%E6%97%A9%E5%81%B6%E5%83%8F%E5%89%A7%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
 张雨绮和古早偶像剧的适配度（热度：423617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E6%98%AF%E5%90%A6%E4%BC%9A%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%A4%E7%82%B9%23" target="weibo">
-喝咖啡是否会骨质疏松要看这两点（热度：423556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%BA%E5%AB%81%E5%93%A5%E5%BC%9F%E4%BF%A9%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23" target="weibo">
-女孩出嫁哥弟俩哭成泪人（热度：423378）
 </a>
 </li>
 
