@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665999446483,
+  "endTime": 1666000571288,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -3203,6 +3203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 786298,
+      "num": 92279,
+      "word": "再溜肩就不礼貌了",
+      "onboard_time": 1665997222,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 786076,
       "num": 786076,
       "word": "上海自来水供应正常有序",
@@ -4052,7 +4060,7 @@
     },
     {
       "raw_hot": 690466,
-      "num": 174204,
+      "num": 193079,
       "word": "我国已建成全球最大清洁发电体系",
       "onboard_time": 1665994460,
       "rank": 4,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1665333380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622414,
-      "num": 61567,
-      "word": "再溜肩就不礼貌了",
-      "onboard_time": 1665997222,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 621956,
@@ -11331,6 +11331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295495,
+      "num": 120297,
+      "word": "原来水瓶也能提升气质",
+      "onboard_time": 1665995961,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295466,
       "num": 295466,
       "word": "许凯爱的二八定律原声台词",
@@ -11889,14 +11897,6 @@
       "onboard_time": 1665246860,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 279515,
-      "num": 120297,
-      "word": "原来水瓶也能提升气质",
-      "onboard_time": 1665995961,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 279413,
@@ -12675,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264037,
+      "num": 84169,
+      "word": "2022年豆瓣评分人数破50万的剧",
+      "onboard_time": 1665998543,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263674,
       "num": 263674,
       "word": "3岁截肢男孩爬行跟爸爸相拥",
@@ -13233,6 +13241,14 @@
       "onboard_time": 1664753717,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252310,
+      "num": 83736,
+      "word": "OG",
+      "onboard_time": 1665998543,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 252218,
@@ -15555,6 +15571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206149,
+      "num": 83921,
+      "word": "在海边读大学是种怎样的体验",
+      "onboard_time": 1665998061,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206133,
       "num": 206133,
       "word": "南忘今萧婚后日常",
@@ -16345,6 +16369,14 @@
       "onboard_time": 1665467362,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193199,
+      "num": 83508,
+      "word": "小猫钻进引擎盖交警学猫叫解救",
+      "onboard_time": 1665997703,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193172,
@@ -17955,6 +17987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166485,
+      "num": 83422,
+      "word": "老师查寝时教男生做手工送女友",
+      "onboard_time": 1665995901,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166308,
       "num": 166308,
       "word": "炽道一家三口",
@@ -18057,6 +18097,14 @@
       "onboard_time": 1664777661,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164004,
+      "num": 164004,
+      "word": "八项规定长期有效",
+      "onboard_time": 1665999801,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163826,
@@ -18331,14 +18379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160436,
-      "num": 46424,
-      "word": "2022年豆瓣评分人数破50万的剧",
-      "onboard_time": 1665998543,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160414,
       "num": 160414,
       "word": "街舞5队长嘉宾battle大联欢",
@@ -18401,14 +18441,6 @@
       "onboard_time": 1665387805,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159820,
-      "num": 46280,
-      "word": "小猫钻进引擎盖交警学猫叫解救",
-      "onboard_time": 1665997703,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159819,
@@ -19081,14 +19113,6 @@
       "onboard_time": 1665974183,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149983,
-      "num": 80651,
-      "word": "老师查寝时教男生做手工送女友",
-      "onboard_time": 1665995901,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149869,
@@ -20539,14 +20563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131298,
-      "num": 46168,
-      "word": "OG",
-      "onboard_time": 1665998543,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131178,
       "num": 131178,
       "word": "国庆假期第二天",
@@ -20923,14 +20939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125945,
-      "num": 45936,
-      "word": "在海边读大学是种怎样的体验",
-      "onboard_time": 1665998061,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125843,
       "num": 125843,
       "word": "炽道罗娜帮小兰花拿捏云中君",
@@ -21217,6 +21225,14 @@
       "onboard_time": 1665116005,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122353,
+      "num": 83076,
+      "word": "柿子究竟有什么魅力",
+      "onboard_time": 1665997341,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 122179,
@@ -21587,14 +21603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117295,
-      "num": 45763,
-      "word": "柿子究竟有什么魅力",
-      "onboard_time": 1665997341,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117219,
       "num": 117219,
       "word": "交警30分钟送断指孩子就医",
@@ -21713,6 +21721,14 @@
       "onboard_time": 1664812102,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115571,
+      "num": 82907,
+      "word": "云南老板为外地人操碎了心",
+      "onboard_time": 1665999081,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 115493,
@@ -22939,6 +22955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99423,
+      "num": 82649,
+      "word": "国乒出征澳门冠军赛",
+      "onboard_time": 1665997703,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99413,
       "num": 99413,
       "word": "炽道",
@@ -23172,11 +23196,19 @@
     },
     {
       "raw_hot": 96412,
-      "num": 67381,
+      "num": 82508,
       "word": "看这个比看专业课还认真",
       "onboard_time": 1665996562,
       "rank": 42,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 96332,
+      "num": 82644,
+      "word": "巨魔芋结实长这样",
+      "onboard_time": 1665999682,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96331,
@@ -23289,14 +23321,6 @@
       "onboard_time": 1665380603,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94238,
-      "num": 45308,
-      "word": "国乒出征澳门冠军赛",
-      "onboard_time": 1665997703,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 94204,
@@ -24017,6 +24041,14 @@
       "onboard_time": 1664593581,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 84230,
+      "num": 84230,
+      "word": "60岁女子救起落水学生后拧了拧裤腿离开",
+      "onboard_time": 1665998303,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84211,
@@ -25091,14 +25123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67563,
-      "num": 44961,
-      "word": "云南老板为外地人操碎了心",
-      "onboard_time": 1665999081,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 67359,
       "num": 67359,
       "word": "李盈莹未来可期",
@@ -25377,6 +25401,14 @@
       "onboard_time": 1665994582,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64315,
+      "num": 64315,
+      "word": "五家基金券商巨头自购旗下产品",
+      "onboard_time": 1666000283,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 64286,
@@ -26225,14 +26257,6 @@
       "onboard_time": 1665007031,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 48037,
-      "num": 47524,
-      "word": "60岁女子救起落水学生后拧了拧裤腿离开",
-      "onboard_time": 1665998303,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48028,
