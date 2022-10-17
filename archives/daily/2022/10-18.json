@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666045672051,
+  "endTime": 1666046802246,
   "band_list": [
     {
       "raw_hot": 1038585,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129309,
+      "num": 38212,
+      "word": "约2000名乌克兰士兵将赴法国培训",
+      "onboard_time": 1666033450,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 108539,
       "num": 41981,
       "word": "肯德基回应点芙蓉汤外卖只收到干料",
@@ -171,12 +179,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 86699,
-      "num": 29588,
-      "word": "约2000名乌克兰士兵将赴法国培训",
-      "onboard_time": 1666033450,
-      "rank": 46,
-      "category": "军事,国外要闻"
+      "raw_hot": 90694,
+      "num": 41960,
+      "word": "2岁女童突发抽搐消防车秒变救护车",
+      "onboard_time": 1666018826,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82190,
@@ -203,6 +211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74732,
+      "num": 41931,
+      "word": "女儿第一次骑车上学爸爸偷偷护送",
+      "onboard_time": 1666012164,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74476,
+      "num": 37925,
+      "word": "俄方称对俄天然气限价将导致停供",
+      "onboard_time": 1666031291,
+      "rank": 33,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 73771,
       "num": 41974,
       "word": "女孩被卷入车底数十人抬车救人",
@@ -217,6 +241,14 @@
       "onboard_time": 1666007660,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72233,
+      "num": 37373,
+      "word": "男子骑车时发病蛇形走位",
+      "onboard_time": 1666028892,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67924,
@@ -259,19 +291,43 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 61273,
-      "num": 41960,
-      "word": "2岁女童突发抽搐消防车秒变救护车",
-      "onboard_time": 1666018826,
-      "rank": 32,
+      "raw_hot": 64154,
+      "num": 41952,
+      "word": "成都有栋楼可以坐滑梯下班",
+      "onboard_time": 1665987862,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58083,
-      "num": 130685,
+      "raw_hot": 61694,
+      "num": 196253,
       "word": "以零容忍态度惩治腐败",
       "onboard_time": 1666037229,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58660,
+      "num": 37173,
+      "word": "10月16日新增本土无症状534例",
+      "onboard_time": 1666036211,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55252,
+      "num": 37646,
+      "word": "小泰迪行云流水式嗑瓜子还会吐壳",
+      "onboard_time": 1666026134,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52805,
+      "num": 41942,
+      "word": "希望工程大眼睛当了二十大代表",
+      "onboard_time": 1666010002,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -281,30 +337,6 @@
       "onboard_time": 1665998543,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 51744,
-      "num": 29633,
-      "word": "小泰迪行云流水式嗑瓜子还会吐壳",
-      "onboard_time": 1666026134,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51336,
-      "num": 31309,
-      "word": "俄方称对俄天然气限价将导致停供",
-      "onboard_time": 1666031291,
-      "rank": 33,
-      "category": "财经,国外要闻"
-    },
-    {
-      "raw_hot": 49771,
-      "num": 41931,
-      "word": "女儿第一次骑车上学爸爸偷偷护送",
-      "onboard_time": 1666012164,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48617,
@@ -328,22 +360,6 @@
       "word": "东航陆续恢复多条国际航线",
       "onboard_time": 1666000941,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44339,
-      "num": 41952,
-      "word": "成都有栋楼可以坐滑梯下班",
-      "onboard_time": 1665987862,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43371,
-      "num": 29578,
-      "word": "男子骑车时发病蛇形走位",
-      "onboard_time": 1666028892,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38548,
-      "num": 41942,
-      "word": "希望工程大眼睛当了二十大代表",
-      "onboard_time": 1666010002,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37590,
       "num": 41941,
       "word": "乌云遇皎月大结局你满意吗",
@@ -403,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 36150,
-      "num": 29429,
-      "word": "10月16日新增本土无症状534例",
-      "onboard_time": 1666036211,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 36185,
+      "num": 36185,
+      "word": "这是在培养飞行员吗",
+      "onboard_time": 1666039812,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 36062,
@@ -443,16 +451,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 29522,
-      "num": 29522,
-      "word": "这是在培养飞行员吗",
-      "onboard_time": 1666039812,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 25651,
-      "num": 25651,
+      "raw_hot": 26858,
+      "num": 26858,
       "word": "中国首家元宇宙新闻与传播学院在南开推出",
       "onboard_time": 1666031772,
       "rank": 46,
@@ -475,6 +475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17897,
+      "num": 17897,
+      "word": "10月16日新增本土确诊182例",
+      "onboard_time": 1666036150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16841,
+      "num": 16841,
+      "word": "李盈莹期待成为顶级球员",
+      "onboard_time": 1666038730,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15007,
       "num": 15007,
       "word": "RNG小组赛五连胜",
@@ -489,22 +505,6 @@
       "onboard_time": 1666028113,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13172,
-      "num": 13172,
-      "word": "10月16日新增本土确诊182例",
-      "onboard_time": 1666036150,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10927,
-      "num": 10927,
-      "word": "李盈莹期待成为顶级球员",
-      "onboard_time": 1666038730,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 5998,
