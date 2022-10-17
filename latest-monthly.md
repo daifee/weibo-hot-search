@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 18:54:06
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 19:24:51
 </p>
 </blockquote>
 <p>
@@ -2139,6 +2139,12 @@ eStar七冠王（热度：894969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
+中医好像真的有点东西（热度：862434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%AF%84%E6%A1%83%E9%85%A5%E5%A5%B3%E5%84%BF%E6%94%B6%E5%88%B0%E6%97%B6%E7%A2%8E%E6%88%90%E5%9C%9F%23" target="weibo">
 妈妈寄桃酥女儿收到时碎成土（热度：859002）
 </a>
@@ -3731,12 +3737,6 @@ T1对战EDG（热度：605094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E7%BB%A7%E6%89%BF%E8%80%85%E4%BB%AC%E9%A6%96%E6%92%AD9%E5%91%A8%E5%B9%B4%23" target="weibo">
 韩剧继承者们首播9周年（热度：602418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
-中医好像真的有点东西（热度：601427）
 </a>
 </li>
 
