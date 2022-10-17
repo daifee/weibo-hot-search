@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 16:01:31
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/17 16:41:43
 </p>
 </blockquote>
 <p>
@@ -3207,6 +3207,12 @@ TES（热度：684055）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%85%BE%E8%AE%AF%E4%BD%8D%E5%88%97%E7%AC%AC%E4%B8%80%23" target="weibo">
+茅台市值超过腾讯位列第一（热度：666873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8D%A2%E7%8F%AD%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87%23" target="weibo">
 班主任换班全班学生哭成一片（热度：665444）
 </a>
@@ -6005,12 +6011,6 @@ VOGUE 女明星（热度：421757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%86%8D%E6%AC%A1%E8%B5%B7%E8%AF%89%E6%96%B0%E4%B8%9C%E6%96%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E4%BE%B5%E6%9D%83%23" target="weibo">
 苏炳添再次起诉新东方子公司侵权（热度：417142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA68%E5%B2%81%E5%BC%80%E5%A7%8B%E9%94%BB%E7%82%BC92%E5%B2%81%E7%AC%91%E7%9D%80%E7%88%AC%E5%B1%B1%23" target="weibo">
-老人68岁开始锻炼92岁笑着爬山（热度：416818）
 </a>
 </li>
 

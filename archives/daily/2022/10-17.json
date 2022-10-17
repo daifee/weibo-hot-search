@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1665993691203,
+  "endTime": 1665996103399,
   "band_list": [
     {
       "raw_hot": 1906376,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 939653,
-      "num": 150900,
+      "num": 151759,
       "word": "Maybe确诊",
       "onboard_time": 1665981086,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1665973881,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666873,
+      "num": 153028,
+      "word": "茅台市值超过腾讯位列第一",
+      "onboard_time": 1665993082,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 649424,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 414490,
-      "num": 142422,
+      "num": 152812,
       "word": "小学生捡十万练功券组队交给警察",
       "onboard_time": 1665991581,
       "rank": 11,
@@ -161,6 +169,14 @@
       "onboard_time": 1665975381,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404592,
+      "num": 152981,
+      "word": "老外第一次穿汉服的反应",
+      "onboard_time": 1665992423,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398503,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324905,
+      "num": 169929,
+      "word": "我国已建成全球最大清洁发电体系",
+      "onboard_time": 1665994460,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 320225,
       "num": 16838,
       "word": "支付宝已支持给微信QQ好友转账",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 300703,
-      "num": 149002,
+      "num": 151551,
       "word": "女子野餐中途拍照美食被3只猪炫光",
       "onboard_time": 1665988280,
       "rank": 22,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275860,
+      "num": 152500,
+      "word": "私家车鸣笛晃大灯求助民警秒懂",
+      "onboard_time": 1665993501,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271967,
       "num": 66852,
       "word": "顾客以为付款没成功亲自送来现金",
@@ -387,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252791,
+      "num": 152314,
+      "word": "做饭真的不能偷懒",
+      "onboard_time": 1665992901,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240711,
       "num": 67111,
       "word": "未开箱初代iPhone至少拍出3万美元",
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 236184,
-      "num": 140704,
+      "num": 151435,
       "word": "中国三季度经济明显回升",
       "onboard_time": 1665991821,
       "rank": 23,
@@ -443,6 +483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 219533,
+      "num": 151606,
+      "word": "当姐妹知道你分手了",
+      "onboard_time": 1665994521,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219286,
       "num": 66784,
       "word": "火葫芦柿子热销",
@@ -457,6 +505,14 @@
       "onboard_time": 1665990681,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203828,
+      "num": 151942,
+      "word": "影视剧cp售后哪家强",
+      "onboard_time": 1665993142,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 190650,
@@ -611,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159861,
-      "num": 141398,
-      "word": "影视剧cp售后哪家强",
-      "onboard_time": 1665993142,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155835,
       "num": 89456,
       "word": "电影票的意义不只是票据",
@@ -627,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153314,
-      "num": 140220,
-      "word": "茅台市值超过腾讯位列第一",
-      "onboard_time": 1665993082,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 152074,
       "num": 92039,
       "word": "龙之家族",
       "onboard_time": 1665981806,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151325,
+      "num": 151325,
+      "word": "别拿疼痛不当病",
+      "onboard_time": 1665994582,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149983,
@@ -728,14 +776,6 @@
       "word": "8岁男孩喜欢画房子梦想当建筑师",
       "onboard_time": 1665944710,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133685,
-      "num": 133685,
-      "word": "老外第一次穿汉服的反应",
-      "onboard_time": 1665992423,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -851,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92439,
-      "num": 92439,
-      "word": "做饭真的不能偷懒",
-      "onboard_time": 1665992901,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 94280,
+      "num": 94280,
+      "word": "三季度中国上市企业市值500强",
+      "onboard_time": 1665994882,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 91469,
@@ -905,6 +945,14 @@
       "onboard_time": 1665905124,
       "rank": 37,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 85676,
+      "num": 152552,
+      "word": "老外眼里的汉服有多美",
+      "onboard_time": 1665993682,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84008,
@@ -963,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70871,
+      "num": 70871,
+      "word": "原来水瓶也能提升气质",
+      "onboard_time": 1665995961,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67083,
       "num": 16661,
       "word": "女子生日被4好友拖行示众",
@@ -971,11 +1027,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67060,
-      "num": 67060,
-      "word": "私家车鸣笛晃大灯求助民警秒懂",
-      "onboard_time": 1665993501,
-      "rank": 45,
+      "raw_hot": 66691,
+      "num": 66691,
+      "word": "广东受台风和冷空气夹击",
+      "onboard_time": 1665995781,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -995,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64367,
+      "num": 64367,
+      "word": "乌云遇皎月全员遇见大结局",
+      "onboard_time": 1665994582,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59068,
       "num": 7374,
       "word": "阿森纳",
       "onboard_time": 1665927204,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58529,
+      "num": 58529,
+      "word": "老师查寝时教男生做手工送女友",
+      "onboard_time": 1665995901,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57589,
@@ -1168,14 +1240,6 @@
       "word": "如何领会党的二十大将要完成的历史使命",
       "onboard_time": 1665947770,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5015,
-      "num": 142057,
-      "word": "老外眼里的汉服有多美",
-      "onboard_time": 1665993682,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
