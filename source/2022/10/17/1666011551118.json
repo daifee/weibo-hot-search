@@ -1,0 +1,410 @@
+{
+  "runTime": 1666011551118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 170799,
+        "num": 536734,
+        "word": "八项规定长期有效",
+        "onboard_time": 1665999801,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105205,
+        "num": 105205,
+        "word": "未来中国开放的大门只会越开越大",
+        "onboard_time": 1665979225,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71229,
+        "num": 104986,
+        "word": "二十大新闻中心举办记者招待会",
+        "onboard_time": 1665973102,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1792423,
+        "num": 104532,
+        "word": "4个县级市被确定为大城市",
+        "onboard_time": 1666009161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900165,
+        "num": 104300,
+        "word": "女子水中捞出冻僵老鹰3小时救活",
+        "onboard_time": 1666006939,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637903,
+        "num": 103783,
+        "word": "我国最牛县级市2021年GDP超4700亿",
+        "onboard_time": 1666009222,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 291372,
+        "num": 103689,
+        "word": "2022年豆瓣评分人数破50万的剧",
+        "onboard_time": 1665998543,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232802,
+        "num": 103380,
+        "word": "我国已建成全球最大清洁发电体系",
+        "onboard_time": 1665994460,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 102967,
+        "word": "乘客打车遗落万元新手机的哥归还",
+        "onboard_time": 1666000824,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118224,
+        "num": 102330,
+        "word": "孙女每天用监控和93岁奶奶聊家常",
+        "onboard_time": 1665979524,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420079,
+        "num": 102157,
+        "word": "白菜居然还能这么吃",
+        "onboard_time": 1666007660,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 409486,
+        "num": 101723,
+        "word": "中医好像真的有点东西",
+        "onboard_time": 1666000583,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 267706,
+        "num": 101222,
+        "word": "在重庆不要过度相信导航",
+        "onboard_time": 1666007841,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246283,
+        "num": 101027,
+        "word": "原来求和也可以这么可爱",
+        "onboard_time": 1666003762,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275843,
+        "num": 100829,
+        "word": "大学生2天调制550杯奶茶送新生",
+        "onboard_time": 1666008082,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157084,
+        "num": 100185,
+        "word": "是谁教你们用广角拍手的",
+        "onboard_time": 1666002979,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141044,
+        "num": 99876,
+        "word": "摇滚狂花原剧本结局是be",
+        "onboard_time": 1666008740,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 99441,
+        "word": "苹果即将推出新款iPadPro",
+        "onboard_time": 1665980666,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138358,
+        "num": 99109,
+        "word": "东航陆续恢复多条国际航线",
+        "onboard_time": 1666000941,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 98740,
+        "word": "成都有栋楼可以坐滑梯下班",
+        "onboard_time": 1665987862,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467619,
+        "num": 98330,
+        "word": "恋爱真的很难吗",
+        "onboard_time": 1666008442,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300964,
+        "num": 97948,
+        "word": "吴建豪是反焦虑大师吧",
+        "onboard_time": 1666003102,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249117,
+        "num": 97782,
+        "word": "幼狗被装袋挂树上女子散步时救下",
+        "onboard_time": 1666008621,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180299,
+        "num": 97209,
+        "word": "这就是女追男天花板吧",
+        "onboard_time": 1666011264,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178412,
+        "num": 96934,
+        "word": "肯德基回应点芙蓉汤外卖只收到干料",
+        "onboard_time": 1665987563,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 151507,
+        "num": 96555,
+        "word": "Maybe确诊",
+        "onboard_time": 1665981086,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138933,
+        "num": 96261,
+        "word": "当姐妹知道你分手了",
+        "onboard_time": 1665994521,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114009,
+        "num": 96059,
+        "word": "二十大广西代表团讨论",
+        "onboard_time": 1666007660,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110209,
+        "num": 95524,
+        "word": "这是9671.2万分之一的回答",
+        "onboard_time": 1666010604,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109215,
+        "num": 95289,
+        "word": "六分钟带你看完走近科学",
+        "onboard_time": 1666006521,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108909,
+        "num": 95003,
+        "word": "在海边读大学是种怎样的体验",
+        "onboard_time": 1665998061,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94658,
+        "num": 94658,
+        "word": "老外第一次穿汉服的反应",
+        "onboard_time": 1665992423,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90751,
+        "num": 90751,
+        "word": "14岁女孩连续捡2月废品送老奶奶",
+        "onboard_time": 1665976402,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84783,
+        "num": 84783,
+        "word": "希望工程大眼睛当了二十大代表",
+        "onboard_time": 1666010002,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80217,
+        "num": 80217,
+        "word": "广东受台风和冷空气夹击",
+        "onboard_time": 1665995781,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75413,
+        "num": 75413,
+        "word": "EDG选手身体状态",
+        "onboard_time": 1665982284,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72837,
+        "num": 72837,
+        "word": "影视剧cp售后哪家强",
+        "onboard_time": 1665993142,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72490,
+        "num": 72490,
+        "word": "云南老板为外地人操碎了心",
+        "onboard_time": 1665999081,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 70723,
+        "num": 70723,
+        "word": "小朋友与书摊爷爷路灯下默契看书",
+        "onboard_time": 1665975802,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70566,
+        "num": 70566,
+        "word": "卡塔尔成为2023年亚洲杯举办地",
+        "onboard_time": 1665986421,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70278,
+        "num": 70278,
+        "word": "头疼也是病",
+        "onboard_time": 1666010424,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69890,
+        "num": 69890,
+        "word": "张桂梅眼含热泪听完二十大报告",
+        "onboard_time": 1665971422,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67282,
+        "num": 67282,
+        "word": "巨魔芋结实长这样",
+        "onboard_time": 1665999682,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65475,
+        "num": 65475,
+        "word": "做饭真的不能偷懒",
+        "onboard_time": 1665992901,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61581,
+        "num": 61581,
+        "word": "小学生捡十万练功券组队交给警察",
+        "onboard_time": 1665991581,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 60062,
+        "num": 60062,
+        "word": "老父亲15年为上万新娘化妆",
+        "onboard_time": 1666011203,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59032,
+        "num": 59032,
+        "word": "柿子究竟有什么魅力",
+        "onboard_time": 1665997341,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57703,
+        "num": 57703,
+        "word": "女子帮带货熟肉被职业打假二审胜诉",
+        "onboard_time": 1665977965,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50287,
+        "num": 50287,
+        "word": "杭州水果好吃又便宜的时候到了",
+        "onboard_time": 1666011444,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50279,
+        "num": 50279,
+        "word": "八旬老人为热心女孩连寄5年特产",
+        "onboard_time": 1666003702,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#一段视频了解什么是中国式现代化#"
+    }
+  }
+}
