@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666000571288,
+  "endTime": 1666002755194,
   "band_list": [
     {
       "raw_hot": 1906376,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423703,
+      "num": 91935,
+      "word": "2022年豆瓣评分人数破50万的剧",
+      "onboard_time": 1665998543,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414490,
       "num": 152812,
       "word": "小学生捡十万练功券组队交给警察",
@@ -243,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 366814,
+      "num": 366814,
+      "word": "八项规定长期有效",
+      "onboard_time": 1665999801,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364967,
       "num": 58831,
       "word": "潘飞",
@@ -273,6 +289,14 @@
       "onboard_time": 1665975562,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 338878,
+      "num": 91634,
+      "word": "中医好像真的有点东西",
+      "onboard_time": 1666000583,
+      "rank": 12,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 338048,
@@ -321,6 +345,14 @@
       "onboard_time": 1665896249,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 320011,
+      "num": 91470,
+      "word": "在海边读大学是种怎样的体验",
+      "onboard_time": 1665998061,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 319034,
@@ -403,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285395,
+      "num": 91117,
+      "word": "东航陆续恢复多条国际航线",
+      "onboard_time": 1666000941,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278215,
       "num": 278215,
       "word": "解决台湾问题是中国人自己的事",
@@ -443,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264037,
-      "num": 84169,
-      "word": "2022年豆瓣评分人数破50万的剧",
-      "onboard_time": 1665998543,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260684,
       "num": 16723,
       "word": "Doinb",
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 252310,
-      "num": 83736,
+      "num": 89480,
       "word": "OG",
       "onboard_time": 1665998543,
       "rank": 31,
@@ -555,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206149,
-      "num": 83921,
-      "word": "在海边读大学是种怎样的体验",
-      "onboard_time": 1665998061,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205290,
       "num": 221043,
       "word": "你好二十大",
@@ -579,8 +603,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198138,
+      "num": 90630,
+      "word": "云南老板为外地人操碎了心",
+      "onboard_time": 1665999081,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 193199,
-      "num": 83508,
+      "num": 88823,
       "word": "小猫钻进引擎盖交警学猫叫解救",
       "onboard_time": 1665997703,
       "rank": 29,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 166485,
-      "num": 83422,
+      "num": 87989,
       "word": "老师查寝时教男生做手工送女友",
       "onboard_time": 1665995901,
       "rank": 48,
@@ -729,14 +761,6 @@
       "onboard_time": 1665931646,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164004,
-      "num": 164004,
-      "word": "八项规定长期有效",
-      "onboard_time": 1665999801,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160201,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 122353,
-      "num": 83076,
+      "num": 87639,
       "word": "柿子究竟有什么魅力",
       "onboard_time": 1665997341,
       "rank": 35,
@@ -905,14 +929,6 @@
       "onboard_time": 1665920423,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115571,
-      "num": 82907,
-      "word": "云南老板为外地人操碎了心",
-      "onboard_time": 1665999081,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 113520,
@@ -979,8 +995,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100199,
+      "num": 87025,
+      "word": "巨魔芋结实长这样",
+      "onboard_time": 1665999682,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99423,
-      "num": 82649,
+      "num": 86606,
       "word": "国乒出征澳门冠军赛",
       "onboard_time": 1665997703,
       "rank": 41,
@@ -996,19 +1020,11 @@
     },
     {
       "raw_hot": 96412,
-      "num": 82508,
+      "num": 82774,
       "word": "看这个比看专业课还认真",
       "onboard_time": 1665996562,
       "rank": 42,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 96332,
-      "num": 82644,
-      "word": "巨魔芋结实长这样",
-      "onboard_time": 1665999682,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91469,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82751,
+      "num": 91334,
+      "word": "乘客打车遗落万元新手机的哥归还",
+      "onboard_time": 1666000824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "二十大",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1665943215,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78630,
+      "num": 78630,
+      "word": "这样做的麻辣牛肉你爱了吗",
+      "onboard_time": 1666002442,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 77665,
