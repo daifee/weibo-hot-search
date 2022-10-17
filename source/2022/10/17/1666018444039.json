@@ -1,0 +1,410 @@
+{
+  "runTime": 1666018444039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 461016,
+        "num": 679242,
+        "word": "这是9671.2万分之一的回答",
+        "onboard_time": 1666010604,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151862,
+        "num": 151862,
+        "word": "八项规定长期有效",
+        "onboard_time": 1665999801,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50140,
+        "num": 151803,
+        "word": "二十大新闻中心举办记者招待会",
+        "onboard_time": 1665973102,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2164212,
+        "num": 151167,
+        "word": "4个县级市被确定为大城市",
+        "onboard_time": 1666009161,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067465,
+        "num": 150975,
+        "word": "清华硕士的社恐被大妈治愈了",
+        "onboard_time": 1666013304,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521738,
+        "num": 150657,
+        "word": "圆明园明日免费开放",
+        "onboard_time": 1666013244,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423027,
+        "num": 150365,
+        "word": "我国最牛县级市2021年GDP超4700亿",
+        "onboard_time": 1666009222,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 329039,
+        "num": 149742,
+        "word": "金球奖",
+        "onboard_time": 1666017386,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255170,
+        "num": 149475,
+        "word": "大学生2天调制550杯奶茶送新生",
+        "onboard_time": 1666008082,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236679,
+        "num": 149192,
+        "word": "女儿第一次骑车上学爸爸偷偷护送",
+        "onboard_time": 1666012164,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656133,
+        "num": 148814,
+        "word": "突然觉得读书真有用",
+        "onboard_time": 1666012705,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341490,
+        "num": 148176,
+        "word": "迪卡侬以次充好累计被罚18万元",
+        "onboard_time": 1666016726,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 328050,
+        "num": 147962,
+        "word": "中医好像真的有点东西",
+        "onboard_time": 1666000583,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 220503,
+        "num": 147708,
+        "word": "杭州水果好吃又便宜的时候到了",
+        "onboard_time": 1666011444,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135031,
+        "num": 147083,
+        "word": "女孩被卷入车底数十人抬车救人",
+        "onboard_time": 1666015286,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213295,
+        "num": 146941,
+        "word": "2022年豆瓣评分人数破50万的剧",
+        "onboard_time": 1665998543,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205907,
+        "num": 146526,
+        "word": "原来求和也可以这么可爱",
+        "onboard_time": 1666003762,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183646,
+        "num": 146187,
+        "word": "白菜居然还能这么吃",
+        "onboard_time": 1666007660,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168405,
+        "num": 145866,
+        "word": "是谁教你们用广角拍手的",
+        "onboard_time": 1666002979,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152782,
+        "num": 145221,
+        "word": "武大设线上面试亭隔音私密俱佳",
+        "onboard_time": 1666016364,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 588251,
+        "num": 145002,
+        "word": "这就是女追男天花板吧",
+        "onboard_time": 1666011264,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291505,
+        "num": 144730,
+        "word": "恋爱真的很难吗",
+        "onboard_time": 1666008442,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156465,
+        "num": 144231,
+        "word": "幼狗被装袋挂树上女子散步时救下",
+        "onboard_time": 1666008621,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149023,
+        "num": 143776,
+        "word": "吴建豪是反焦虑大师吧",
+        "onboard_time": 1666003102,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148344,
+        "num": 143548,
+        "word": "老父亲15年为上万新娘化妆",
+        "onboard_time": 1666011203,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 143150,
+        "word": "肯德基回应点芙蓉汤外卖只收到干料",
+        "onboard_time": 1665987563,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 141047,
+        "num": 142989,
+        "word": "RNG战队DOTA2分部多人确诊",
+        "onboard_time": 1666011984,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134466,
+        "num": 142550,
+        "word": "Maybe确诊",
+        "onboard_time": 1665981086,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129144,
+        "num": 142055,
+        "word": "北京医保平台可办理个账家庭共济备案",
+        "onboard_time": 1666015286,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121058,
+        "num": 141894,
+        "word": "有个摄影师男友是什么体验",
+        "onboard_time": 1666016425,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110002,
+        "num": 141426,
+        "word": "TVB新剧上车家族开播全员发车",
+        "onboard_time": 1666012043,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107429,
+        "num": 140964,
+        "word": "东航陆续恢复多条国际航线",
+        "onboard_time": 1666000941,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 140630,
+        "word": "希望工程大眼睛当了二十大代表",
+        "onboard_time": 1666010002,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105763,
+        "num": 140322,
+        "word": "当姐妹知道你分手了",
+        "onboard_time": 1665994521,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105137,
+        "num": 139807,
+        "word": "苹果即将推出新款iPadPro",
+        "onboard_time": 1665980666,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93736,
+        "num": 139483,
+        "word": "第一次见用奶嘴的小狗",
+        "onboard_time": 1666017985,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93659,
+        "num": 139218,
+        "word": "乌云遇皎月大结局你满意吗",
+        "onboard_time": 1666016907,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89729,
+        "num": 138638,
+        "word": "在重庆不要过度相信导航",
+        "onboard_time": 1666007841,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87883,
+        "num": 138483,
+        "word": "侯勇焦俊艳新剧烟火气",
+        "onboard_time": 1666016845,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83132,
+        "num": 138080,
+        "word": "孙女每天用监控和93岁奶奶聊家常",
+        "onboard_time": 1665979524,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82832,
+        "num": 137582,
+        "word": "成都有栋楼可以坐滑梯下班",
+        "onboard_time": 1665987862,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78782,
+        "num": 137289,
+        "word": "头疼也是病",
+        "onboard_time": 1666010424,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76882,
+        "num": 136782,
+        "word": "做饭真的不能偷懒",
+        "onboard_time": 1665992901,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74527,
+        "num": 136530,
+        "word": "敦煌胡杨一半倒影一半真",
+        "onboard_time": 1666017925,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74303,
+        "num": 136275,
+        "word": "广东受台风和冷空气夹击",
+        "onboard_time": 1665995781,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73188,
+        "num": 135841,
+        "word": "我国已建成全球最大清洁发电体系",
+        "onboard_time": 1665994460,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 70761,
+        "num": 135511,
+        "word": "摇滚狂花原剧本结局是be",
+        "onboard_time": 1666008740,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69051,
+        "num": 135062,
+        "word": "电视剧我们这十年",
+        "onboard_time": 1666018167,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66818,
+        "num": 134567,
+        "word": "EDG选手身体状态",
+        "onboard_time": 1665982284,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64368,
+        "num": 134449,
+        "word": "云南老板为外地人操碎了心",
+        "onboard_time": 1665999081,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
