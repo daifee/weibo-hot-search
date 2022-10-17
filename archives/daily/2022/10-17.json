@@ -1,13 +1,21 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1665974635797,
+  "endTime": 1665977517307,
   "band_list": [
     {
       "raw_hot": 1906376,
-      "num": 28743,
+      "num": 67378,
       "word": "S12淘汰赛抽签",
       "onboard_time": 1665972503,
       "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1219093,
+      "num": 67448,
+      "word": "重赛",
+      "onboard_time": 1665973941,
+      "rank": 31,
       "category": "游戏"
     },
     {
@@ -28,23 +36,39 @@
     },
     {
       "raw_hot": 730041,
-      "num": 28741,
+      "num": 67285,
       "word": "S12八强没有LPL内战",
       "onboard_time": 1665973221,
       "rank": 13,
       "category": "游戏"
     },
     {
+      "raw_hot": 685446,
+      "num": 67421,
+      "word": "爸爸在简陋出租房给女儿搭仙女屋",
+      "onboard_time": 1665973881,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502053,
-      "num": 28738,
+      "num": 67179,
       "word": "老鼠钻进男生宿舍自动售卖机偷吃",
       "onboard_time": 1665968903,
       "rank": 20,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414372,
+      "num": 67209,
+      "word": "拳头 抽签",
+      "onboard_time": 1665975381,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 392847,
-      "num": 28738,
+      "num": 66999,
       "word": "宝马将把mini电动车型生产线迁至中国",
       "onboard_time": 1665932543,
       "rank": 16,
@@ -52,15 +76,23 @@
     },
     {
       "raw_hot": 389099,
-      "num": 28742,
+      "num": 67273,
       "word": "张桂梅眼含热泪听完二十大报告",
       "onboard_time": 1665971422,
       "rank": 11,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376720,
+      "num": 67383,
+      "word": "阿联酋愿与中国进行科技合作",
+      "onboard_time": 1665972982,
+      "rank": 12,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 373441,
-      "num": 28740,
+      "num": 55902,
       "word": "RNG和GEN加赛",
       "onboard_time": 1665969680,
       "rank": 16,
@@ -68,23 +100,39 @@
     },
     {
       "raw_hot": 372606,
-      "num": 28737,
+      "num": 67061,
       "word": "蚊子居然还有头发",
       "onboard_time": 1665932485,
       "rank": 15,
       "category": "幽默"
     },
     {
-      "raw_hot": 367851,
-      "num": 28742,
-      "word": "阿联酋愿与中国进行科技合作",
-      "onboard_time": 1665972982,
-      "rank": 12,
-      "category": "科技,社会新闻"
+      "raw_hot": 361228,
+      "num": 361228,
+      "word": "二十大新闻中心举办记者招待会",
+      "onboard_time": 1665973102,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336850,
+      "num": 67139,
+      "word": "DRX八强对阵EDG",
+      "onboard_time": 1665973581,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 332195,
+      "num": 67036,
+      "word": "TI11刀圈春晚",
+      "onboard_time": 1665975381,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 325414,
-      "num": 28741,
+      "num": 67314,
       "word": "原来被爱的感觉这么好",
       "onboard_time": 1665965121,
       "rank": 14,
@@ -92,7 +140,7 @@
     },
     {
       "raw_hot": 325103,
-      "num": 28739,
+      "num": 67015,
       "word": "女子丢35万手镯2地铁警接力找回",
       "onboard_time": 1665923723,
       "rank": 19,
@@ -108,7 +156,7 @@
     },
     {
       "raw_hot": 313397,
-      "num": 28734,
+      "num": 66825,
       "word": "男子逗鱼被咬甩手摔下千元鱼苗",
       "onboard_time": 1665932784,
       "rank": 20,
@@ -116,26 +164,26 @@
     },
     {
       "raw_hot": 311640,
-      "num": 28737,
+      "num": 66886,
       "word": "TES bug",
       "onboard_time": 1665963620,
       "rank": 39,
       "category": "游戏"
     },
     {
-      "raw_hot": 302052,
-      "num": 28735,
-      "word": "DRX八强对阵EDG",
-      "onboard_time": 1665973581,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 297481,
-      "num": 28731,
+      "num": 66658,
       "word": "国人的车厘子自由从河南开始",
       "onboard_time": 1665930924,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290539,
+      "num": 67241,
+      "word": "英国热水袋销量激增超200%",
+      "onboard_time": 1665972623,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -155,11 +203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276525,
+      "num": 66951,
+      "word": "RNG八强对阵T1",
+      "onboard_time": 1665975562,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271967,
-      "num": 28733,
+      "num": 66852,
       "word": "顾客以为付款没成功亲自送来现金",
       "onboard_time": 1665913702,
       "rank": 24,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 268086,
+      "num": 67161,
+      "word": "女子捡到数万现金归还95岁失主",
+      "onboard_time": 1665975140,
+      "rank": 21,
       "category": "社会正能量"
     },
     {
@@ -171,12 +235,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236222,
-      "num": 28740,
-      "word": "英国热水袋销量激增超200%",
-      "onboard_time": 1665972623,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 240711,
+      "num": 67111,
+      "word": "未开箱初代iPhone至少拍出3万美元",
+      "onboard_time": 1665976402,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 234181,
@@ -188,7 +252,7 @@
     },
     {
       "raw_hot": 230602,
-      "num": 28730,
+      "num": 66603,
       "word": "南京街头刮起一阵柿子风",
       "onboard_time": 1665932364,
       "rank": 18,
@@ -212,23 +276,15 @@
     },
     {
       "raw_hot": 219286,
-      "num": 28736,
+      "num": 66784,
       "word": "火葫芦柿子热销",
       "onboard_time": 1665968423,
       "rank": 23,
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 212833,
-      "num": 28732,
-      "word": "重赛",
-      "onboard_time": 1665973941,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188573,
-      "num": 28728,
+      "num": 66516,
       "word": "小女孩读妈妈睡了课文泪流满面",
       "onboard_time": 1665930805,
       "rank": 23,
@@ -252,7 +308,7 @@
     },
     {
       "raw_hot": 181590,
-      "num": 28735,
+      "num": 66910,
       "word": "朱婷出席斯坎迪奇球队发布会",
       "onboard_time": 1665972383,
       "rank": 24,
@@ -292,7 +348,7 @@
     },
     {
       "raw_hot": 166704,
-      "num": 28734,
+      "num": 66923,
       "word": "音乐家做手术时演奏9小时乐器",
       "onboard_time": 1665972262,
       "rank": 27,
@@ -300,7 +356,7 @@
     },
     {
       "raw_hot": 165967,
-      "num": 28728,
+      "num": 66583,
       "word": "上班后数学题也变合理了",
       "onboard_time": 1665931646,
       "rank": 26,
@@ -308,7 +364,7 @@
     },
     {
       "raw_hot": 155835,
-      "num": 28733,
+      "num": 66703,
       "word": "电影票的意义不只是票据",
       "onboard_time": 1665965603,
       "rank": 30,
@@ -323,12 +379,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148018,
+      "num": 66790,
+      "word": "RNG可惜",
+      "onboard_time": 1665977062,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144426,
       "num": 16646,
       "word": "皇马vs巴萨",
       "onboard_time": 1665927445,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143395,
+      "num": 66718,
+      "word": "剑网三",
+      "onboard_time": 1665976282,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140046,
+      "num": 67337,
+      "word": "小朋友与书摊爷爷路灯下默契看书",
+      "onboard_time": 1665975802,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139164,
@@ -356,7 +436,7 @@
     },
     {
       "raw_hot": 133919,
-      "num": 28727,
+      "num": 51612,
       "word": "8岁男孩喜欢画房子梦想当建筑师",
       "onboard_time": 1665944710,
       "rank": 49,
@@ -377,14 +457,6 @@
       "onboard_time": 1665930563,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120323,
-      "num": 28731,
-      "word": "爸爸在简陋出租房给女儿搭仙女屋",
-      "onboard_time": 1665973881,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119026,
@@ -411,8 +483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111589,
+      "num": 66758,
+      "word": "14岁女孩连续捡2月废品送老奶奶",
+      "onboard_time": 1665976402,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110305,
-      "num": 28729,
+      "num": 66646,
       "word": "会斜眼瞪人的猫咪",
       "onboard_time": 1665966263,
       "rank": 36,
@@ -428,7 +508,7 @@
     },
     {
       "raw_hot": 108245,
-      "num": 28729,
+      "num": 66560,
       "word": "张桂梅称燃灯校长不是她一个人",
       "onboard_time": 1665974301,
       "rank": 37,
@@ -436,7 +516,7 @@
     },
     {
       "raw_hot": 105689,
-      "num": 28725,
+      "num": 56949,
       "word": "110岁母亲和88岁儿子手拉手逛茶会",
       "onboard_time": 1665921804,
       "rank": 31,
@@ -451,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94148,
-      "num": 198644,
+      "raw_hot": 97406,
+      "num": 97406,
+      "word": "一段视频了解什么是中国式现代化",
+      "onboard_time": 1665976103,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94925,
+      "num": 221043,
       "word": "你好二十大",
       "onboard_time": 1665932543,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 93784,
-      "num": 93784,
-      "word": "二十大新闻中心举办记者招待会",
-      "onboard_time": 1665973102,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91469,
@@ -476,7 +556,7 @@
     },
     {
       "raw_hot": 91145,
-      "num": 28724,
+      "num": 52536,
       "word": "选文科真的是因为热爱",
       "onboard_time": 1665907522,
       "rank": 34,
@@ -536,6 +616,22 @@
       "word": "猫咪绝育后经历社死瞬间",
       "onboard_time": 1665916282,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76164,
+      "num": 76164,
+      "word": "我国粮食安全保障能力持续提升",
+      "onboard_time": 1665975620,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70450,
+      "num": 66542,
+      "word": "历史老师转行教语文有多拼",
+      "onboard_time": 1665977182,
+      "rank": 44,
       "category": "社会新闻"
     },
     {

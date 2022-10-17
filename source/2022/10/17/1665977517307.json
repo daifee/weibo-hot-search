@@ -1,0 +1,410 @@
+{
+  "runTime": 1665977517307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 361228,
+        "num": 361228,
+        "word": "二十大新闻中心举办记者招待会",
+        "onboard_time": 1665973102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559579,
+        "num": 273547,
+        "word": "二十大报告中的9个数字",
+        "onboard_time": 1665965062,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94925,
+        "num": 221043,
+        "word": "你好二十大",
+        "onboard_time": 1665932543,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 184848,
+        "num": 184848,
+        "word": "二十大报告寄语广大青年",
+        "onboard_time": 1665923784,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160924,
+        "num": 160924,
+        "word": "二十大报告里致青年的话",
+        "onboard_time": 1665963259,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99321,
+        "num": 99321,
+        "word": "她是首批飞豹战机前舱女飞行员",
+        "onboard_time": 1665948310,
+        "rank": 5,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 97406,
+        "num": 97406,
+        "word": "一段视频了解什么是中国式现代化",
+        "onboard_time": 1665976103,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76164,
+        "num": 76164,
+        "word": "我国粮食安全保障能力持续提升",
+        "onboard_time": 1665975620,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70887,
+        "num": 70887,
+        "word": "二十大",
+        "onboard_time": 1665825984,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67464,
+        "num": 67464,
+        "word": "中国粮带给中国人的安全感",
+        "onboard_time": 1665920423,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219093,
+        "num": 67448,
+        "word": "重赛",
+        "onboard_time": 1665973941,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 685446,
+        "num": 67421,
+        "word": "爸爸在简陋出租房给女儿搭仙女屋",
+        "onboard_time": 1665973881,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376720,
+        "num": 67383,
+        "word": "阿联酋愿与中国进行科技合作",
+        "onboard_time": 1665972982,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 622405,
+        "num": 67378,
+        "word": "S12淘汰赛抽签",
+        "onboard_time": 1665972503,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140046,
+        "num": 67337,
+        "word": "小朋友与书摊爷爷路灯下默契看书",
+        "onboard_time": 1665975802,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293933,
+        "num": 67314,
+        "word": "原来被爱的感觉这么好",
+        "onboard_time": 1665965121,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466344,
+        "num": 67285,
+        "word": "S12八强没有LPL内战",
+        "onboard_time": 1665973221,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292125,
+        "num": 67273,
+        "word": "张桂梅眼含热泪听完二十大报告",
+        "onboard_time": 1665971422,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290539,
+        "num": 67241,
+        "word": "英国热水袋销量激增超200%",
+        "onboard_time": 1665972623,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414372,
+        "num": 67209,
+        "word": "拳头 抽签",
+        "onboard_time": 1665975381,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 67179,
+        "word": "老鼠钻进男生宿舍自动售卖机偷吃",
+        "onboard_time": 1665968903,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268086,
+        "num": 67161,
+        "word": "女子捡到数万现金归还95岁失主",
+        "onboard_time": 1665975140,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 336850,
+        "num": 67139,
+        "word": "DRX八强对阵EDG",
+        "onboard_time": 1665973581,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240711,
+        "num": 67111,
+        "word": "未开箱初代iPhone至少拍出3万美元",
+        "onboard_time": 1665976402,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203931,
+        "num": 67061,
+        "word": "蚊子居然还有头发",
+        "onboard_time": 1665932485,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332195,
+        "num": 67036,
+        "word": "TI11刀圈春晚",
+        "onboard_time": 1665975381,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188917,
+        "num": 67015,
+        "word": "女子丢35万手镯2地铁警接力找回",
+        "onboard_time": 1665923723,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180148,
+        "num": 66999,
+        "word": "宝马将把mini电动车型生产线迁至中国",
+        "onboard_time": 1665932543,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276525,
+        "num": 66951,
+        "word": "RNG八强对阵T1",
+        "onboard_time": 1665975562,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157352,
+        "num": 66923,
+        "word": "音乐家做手术时演奏9小时乐器",
+        "onboard_time": 1665972262,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 66910,
+        "word": "朱婷出席斯坎迪奇球队发布会",
+        "onboard_time": 1665972383,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168266,
+        "num": 66886,
+        "word": "TES bug",
+        "onboard_time": 1665963620,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137780,
+        "num": 66852,
+        "word": "顾客以为付款没成功亲自送来现金",
+        "onboard_time": 1665913702,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127221,
+        "num": 66825,
+        "word": "男子逗鱼被咬甩手摔下千元鱼苗",
+        "onboard_time": 1665932784,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148018,
+        "num": 66790,
+        "word": "RNG可惜",
+        "onboard_time": 1665977062,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112862,
+        "num": 66784,
+        "word": "火葫芦柿子热销",
+        "onboard_time": 1665968423,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 111589,
+        "num": 66758,
+        "word": "14岁女孩连续捡2月废品送老奶奶",
+        "onboard_time": 1665976402,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143395,
+        "num": 66718,
+        "word": "剑网三",
+        "onboard_time": 1665976282,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105148,
+        "num": 66703,
+        "word": "电影票的意义不只是票据",
+        "onboard_time": 1665965603,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92804,
+        "num": 66658,
+        "word": "国人的车厘子自由从河南开始",
+        "onboard_time": 1665930924,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89688,
+        "num": 66646,
+        "word": "会斜眼瞪人的猫咪",
+        "onboard_time": 1665966263,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 83654,
+        "num": 66603,
+        "word": "南京街头刮起一阵柿子风",
+        "onboard_time": 1665932364,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80219,
+        "num": 66583,
+        "word": "上班后数学题也变合理了",
+        "onboard_time": 1665931646,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73105,
+        "num": 66560,
+        "word": "张桂梅称燃灯校长不是她一个人",
+        "onboard_time": 1665974301,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70450,
+        "num": 66542,
+        "word": "历史老师转行教语文有多拼",
+        "onboard_time": 1665977182,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66516,
+        "num": 66516,
+        "word": "小女孩读妈妈睡了课文泪流满面",
+        "onboard_time": 1665930805,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56949,
+        "num": 56949,
+        "word": "110岁母亲和88岁儿子手拉手逛茶会",
+        "onboard_time": 1665921804,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114177,
+        "num": 55902,
+        "word": "RNG和GEN加赛",
+        "onboard_time": 1665969680,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52536,
+        "num": 52536,
+        "word": "选文科真的是因为热爱",
+        "onboard_time": 1665907522,
+        "rank": 48,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 51612,
+        "num": 51612,
+        "word": "8岁男孩喜欢画房子梦想当建筑师",
+        "onboard_time": 1665944710,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
