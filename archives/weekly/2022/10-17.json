@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666042937588,
+  "endTime": 1666045672051,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -1427,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86699,
+      "num": 29588,
+      "word": "约2000名乌克兰士兵将赴法国培训",
+      "onboard_time": 1666033450,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 85700,
       "num": 16706,
       "word": "怎么会不羡慕白秀珠呢",
@@ -1627,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 58083,
+      "num": 130685,
+      "word": "以零容忍态度惩治腐败",
+      "onboard_time": 1666037229,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57589,
       "num": 16636,
       "word": "外卖备注都这么有意思了",
@@ -1636,7 +1652,7 @@
     },
     {
       "raw_hot": 51744,
-      "num": 26781,
+      "num": 29633,
       "word": "小泰迪行云流水式嗑瓜子还会吐壳",
       "onboard_time": 1666026134,
       "rank": 39,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1665927804,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51336,
+      "num": 31309,
+      "word": "俄方称对俄天然气限价将导致停供",
+      "onboard_time": 1666031291,
+      "rank": 33,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 48952,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1665928464,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43371,
+      "num": 29578,
+      "word": "男子骑车时发病蛇形走位",
+      "onboard_time": 1666028892,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43142,
@@ -1707,19 +1739,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37214,
-      "num": 52939,
-      "word": "以零容忍态度惩治腐败",
-      "onboard_time": 1666037229,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36690,
       "num": 36690,
       "word": "从现在起中国共产党的中心任务",
       "onboard_time": 1665889471,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36150,
+      "num": 29429,
+      "word": "10月16日新增本土无症状534例",
+      "onboard_time": 1666036211,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1731,14 +1763,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 33448,
-      "num": 14857,
-      "word": "俄方称对俄天然气限价将导致停供",
-      "onboard_time": 1666031291,
-      "rank": 33,
-      "category": "财经,国外要闻"
-    },
-    {
       "raw_hot": 32298,
       "num": 32298,
       "word": "二十大报告金句视频版",
@@ -1747,12 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30349,
-      "num": 13850,
-      "word": "约2000名乌克兰士兵将赴法国培训",
-      "onboard_time": 1666033450,
-      "rank": 46,
-      "category": "军事,国外要闻"
+      "raw_hot": 29522,
+      "num": 29522,
+      "word": "这是在培养飞行员吗",
+      "onboard_time": 1666039812,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 28424,
@@ -1763,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27415,
-      "num": 20132,
-      "word": "男子骑车时发病蛇形走位",
-      "onboard_time": 1666028892,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26431,
       "num": 11493,
       "word": "罗云熙再演律师",
@@ -1779,20 +1795,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23821,
-      "num": 13868,
-      "word": "10月16日新增本土无症状534例",
-      "onboard_time": 1666036211,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23813,
-      "num": 10127,
+      "raw_hot": 25651,
+      "num": 25651,
       "word": "中国首家元宇宙新闻与传播学院在南开推出",
       "onboard_time": 1666031772,
       "rank": 46,
       "category": "教育,科技"
+    },
+    {
+      "raw_hot": 22768,
+      "num": 22768,
+      "word": "7位中国球员跻身wta前100",
+      "onboard_time": 1666038969,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 17285,
@@ -1811,6 +1827,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 15007,
+      "num": 15007,
+      "word": "RNG小组赛五连胜",
+      "onboard_time": 1666039870,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14634,
       "num": 20148,
       "word": "收这车得让同行笑话三年",
@@ -1819,8 +1843,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12374,
-      "num": 11743,
+      "raw_hot": 13172,
+      "num": 13172,
       "word": "10月16日新增本土确诊182例",
       "onboard_time": 1666036150,
       "rank": 30,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1665891329,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10927,
+      "num": 10927,
+      "word": "李盈莹期待成为顶级球员",
+      "onboard_time": 1666038730,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 10891,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1665886770,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6424,
-      "num": 6424,
-      "word": "7位中国球员跻身wta前100",
-      "onboard_time": 1666038969,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 5998,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1666035370,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 5215,
-      "num": 5215,
-      "word": "李盈莹期待成为顶级球员",
-      "onboard_time": 1666038730,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 5170,
@@ -2019,14 +2035,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 4868,
-      "num": 4868,
-      "word": "这是在培养飞行员吗",
-      "onboard_time": 1666039812,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 4865,
       "num": 4865,
       "word": "神十一飞天时景海鹏和陈冬的对话",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1666039270,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4460,
-      "num": 4460,
-      "word": "RNG小组赛五连胜",
-      "onboard_time": 1666039870,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 4229,
