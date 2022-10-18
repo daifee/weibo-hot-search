@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666093254866,
+  "endTime": 1666097802834,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -51,6 +51,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1081945,
+      "num": 52743,
+      "word": "为什么删了最好的朋友",
+      "onboard_time": 1666094544,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1050514,
       "num": 228208,
       "word": "4岁小宝凌晨3点打120救摔倒妈妈",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 837228,
-      "num": 593276,
+      "num": 747392,
       "word": "山西省委强调不能让国家为煤发愁",
       "onboard_time": 1666091423,
       "rank": 0,
@@ -145,6 +153,14 @@
       "onboard_time": 1666084824,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681856,
+      "num": 52804,
+      "word": "刘雁宇受伤",
+      "onboard_time": 1666095142,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 678697,
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508099,
+      "num": 86149,
+      "word": "同单元楼上女孩跳舞楼下女子哄娃",
+      "onboard_time": 1666092263,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491720,
       "num": 451789,
       "word": "7岁女孩商场遇海报神还原自己",
@@ -248,6 +272,14 @@
       "word": "到2035年我国发展的总体目标",
       "onboard_time": 1666050923,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454629,
+      "num": 72261,
+      "word": "全球最大无瑕疵钻石",
+      "onboard_time": 1666093223,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356735,
+      "num": 52776,
+      "word": "200斤男子为备婚减肥7个月瘦40斤",
+      "onboard_time": 1666095803,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346888,
       "num": 120678,
       "word": "李承铉改掉想太多后变舒服了",
@@ -435,6 +475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 304169,
+      "num": 104577,
+      "word": "当老师真的很难不生气",
+      "onboard_time": 1666092681,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303724,
       "num": 155085,
       "word": "我国最牛县级市2021年GDP超4700亿",
@@ -467,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291651,
+      "num": 52733,
+      "word": "Apple",
+      "onboard_time": 1666097424,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 283763,
       "num": 170182,
       "word": "逐渐变成家长信任的样子",
@@ -497,6 +553,14 @@
       "onboard_time": 1666062981,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260553,
+      "num": 52708,
+      "word": "女孩弯腰28次清理超载货车落石",
+      "onboard_time": 1666094422,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259542,
@@ -633,6 +697,14 @@
       "onboard_time": 1666048397,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220593,
+      "num": 87323,
+      "word": "突然就不纠结了",
+      "onboard_time": 1666093044,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 219247,
@@ -867,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146607,
+      "num": 52620,
+      "word": "辽宁男篮vs广州男篮",
+      "onboard_time": 1666095263,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145989,
       "num": 42004,
       "word": "大学生2天调制550杯奶茶送新生",
@@ -921,6 +1001,14 @@
       "onboard_time": 1666019484,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134668,
+      "num": 52593,
+      "word": "真的不想上班呀",
+      "onboard_time": 1666096584,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 134108,
@@ -1019,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109461,
+      "num": 52551,
+      "word": "中国女足U17vs西班牙女足U17",
+      "onboard_time": 1666096285,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108012,
       "num": 101691,
       "word": "小泰迪行云流水式嗑瓜子还会吐壳",
@@ -1035,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106249,
+      "num": 52546,
+      "word": "罗云熙吴倩追光者新救援场景剧照",
+      "onboard_time": 1666096463,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105249,
       "num": 105249,
       "word": "老师如何帮助语文一塌糊涂的学生",
@@ -1049,14 +1153,6 @@
       "onboard_time": 1666065684,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104577,
-      "num": 104577,
-      "word": "当老师真的很难不生气",
-      "onboard_time": 1666092681,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 97401,
@@ -1091,12 +1187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94802,
+      "num": 52526,
+      "word": "男子轿车被划报警一查凶手是条狗",
+      "onboard_time": 1666097004,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93736,
       "num": 92441,
       "word": "苹果即将推出新款iPadPro",
       "onboard_time": 1665980666,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 93657,
+      "num": 52508,
+      "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
+      "onboard_time": 1666096763,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91962,
@@ -1137,22 +1249,6 @@
       "onboard_time": 1666052305,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87323,
-      "num": 87323,
-      "word": "突然就不纠结了",
-      "onboard_time": 1666093044,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 86149,
-      "num": 86149,
-      "word": "同单元楼上女孩跳舞楼下女子哄娃",
-      "onboard_time": 1666092263,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85407,
@@ -1243,14 +1339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 72261,
-      "num": 72261,
-      "word": "全球最大无瑕疵钻石",
-      "onboard_time": 1666093223,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71959,
       "num": 88930,
       "word": "党的二十大代表",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1666072524,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69929,
+      "num": 52420,
+      "word": "中国战队全部晋级TI淘汰赛",
+      "onboard_time": 1666097244,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 67643,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1666049599,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 53485,
+      "num": 52820,
+      "word": "数读二十大",
+      "onboard_time": 1666095803,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52726,
@@ -1749,6 +1853,9 @@
     },
     {
       "word": "#中国之治书写新时代华章#"
+    },
+    {
+      "word": "#党的二十大主席团第二次会议#"
     }
   ]
 }

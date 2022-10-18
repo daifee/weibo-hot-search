@@ -1,0 +1,410 @@
+{
+  "runTime": 1666097802834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747392,
+        "num": 747392,
+        "word": "山西省委强调不能让国家为煤发愁",
+        "onboard_time": 1666091423,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52820,
+        "num": 52820,
+        "word": "二十大广西代表团讨论微镜头",
+        "onboard_time": 1666080982,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53485,
+        "num": 52820,
+        "word": "数读二十大",
+        "onboard_time": 1666095803,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681856,
+        "num": 52804,
+        "word": "刘雁宇受伤",
+        "onboard_time": 1666095142,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651997,
+        "num": 52794,
+        "word": "初二女生被高年级男生认亲叫小姨",
+        "onboard_time": 1666077502,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508099,
+        "num": 52794,
+        "word": "同单元楼上女孩跳舞楼下女子哄娃",
+        "onboard_time": 1666092263,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454629,
+        "num": 52776,
+        "word": "全球最大无瑕疵钻石",
+        "onboard_time": 1666093223,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356735,
+        "num": 52776,
+        "word": "200斤男子为备婚减肥7个月瘦40斤",
+        "onboard_time": 1666095803,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339923,
+        "num": 52762,
+        "word": "学生在老师毕设中发现8年前的自己",
+        "onboard_time": 1666087285,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 304169,
+        "num": 52750,
+        "word": "当老师真的很难不生气",
+        "onboard_time": 1666092681,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1081945,
+        "num": 52743,
+        "word": "为什么删了最好的朋友",
+        "onboard_time": 1666094544,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571843,
+        "num": 52733,
+        "word": "王宝钏挖野菜是什么梗",
+        "onboard_time": 1666090343,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291651,
+        "num": 52733,
+        "word": "Apple",
+        "onboard_time": 1666097424,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280952,
+        "num": 52724,
+        "word": "塔克拉玛干沙漠出现众多湖泊",
+        "onboard_time": 1666082902,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260553,
+        "num": 52708,
+        "word": "女孩弯腰28次清理超载货车落石",
+        "onboard_time": 1666094422,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225865,
+        "num": 52698,
+        "word": "网传黑莲花攻略手册出品方恒星引力",
+        "onboard_time": 1666084824,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220593,
+        "num": 52689,
+        "word": "突然就不纠结了",
+        "onboard_time": 1666093044,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219365,
+        "num": 52689,
+        "word": "7岁女孩商场遇海报神还原自己",
+        "onboard_time": 1666086923,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207503,
+        "num": 52677,
+        "word": "导盲犬带主人做核酸插队后自觉重排",
+        "onboard_time": 1666086683,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159951,
+        "num": 52670,
+        "word": "陪诊员遇白血病家庭大哭不忍收钱",
+        "onboard_time": 1666083203,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172113,
+        "num": 52657,
+        "word": "恋爱脑发作有多可怕",
+        "onboard_time": 1666068324,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 52651,
+        "word": "钢铁侠将于复联6中再次出现",
+        "onboard_time": 1666074681,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156649,
+        "num": 52640,
+        "word": "双十一淘宝支持全程价保",
+        "onboard_time": 1666065745,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 155840,
+        "num": 52628,
+        "word": "陈立农说女生需要宣泄口",
+        "onboard_time": 1666091064,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148985,
+        "num": 52622,
+        "word": "Uzi明凯再度同框",
+        "onboard_time": 1666091545,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146607,
+        "num": 52620,
+        "word": "辽宁男篮vs广州男篮",
+        "onboard_time": 1666095263,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139652,
+        "num": 52605,
+        "word": "心动的信号",
+        "onboard_time": 1666070664,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137808,
+        "num": 52599,
+        "word": "澳宣布不再承认西耶路撒冷为以色列首都",
+        "onboard_time": 1666072665,
+        "rank": 27,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 134668,
+        "num": 52593,
+        "word": "真的不想上班呀",
+        "onboard_time": 1666096584,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129602,
+        "num": 52585,
+        "word": "原来小猫也会装痛",
+        "onboard_time": 1666085962,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115061,
+        "num": 52567,
+        "word": "浮图缘",
+        "onboard_time": 1666085604,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113284,
+        "num": 52560,
+        "word": "常生闷气的女性更容易乳腺增生",
+        "onboard_time": 1666063881,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109461,
+        "num": 52551,
+        "word": "中国女足U17vs西班牙女足U17",
+        "onboard_time": 1666096285,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106249,
+        "num": 52546,
+        "word": "罗云熙吴倩追光者新救援场景剧照",
+        "onboard_time": 1666096463,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103955,
+        "num": 52535,
+        "word": "腾讯宝可梦共同申请游戏专利公布",
+        "onboard_time": 1666088785,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94802,
+        "num": 52526,
+        "word": "男子轿车被划报警一查凶手是条狗",
+        "onboard_time": 1666097004,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94692,
+        "num": 52518,
+        "word": "俄乌进行超200人规模换俘",
+        "onboard_time": 1666068445,
+        "rank": 36,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 93657,
+        "num": 52508,
+        "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
+        "onboard_time": 1666096763,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91090,
+        "num": 52498,
+        "word": "女子赶海意外捡到大量罕见紫房蛤",
+        "onboard_time": 1666072221,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90350,
+        "num": 52493,
+        "word": "这是史上最冤种的剧组吧",
+        "onboard_time": 1666066823,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89138,
+        "num": 52483,
+        "word": "71岁老人摔倒高三学生跪地人工呼吸",
+        "onboard_time": 1666070303,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 88222,
+        "num": 52472,
+        "word": "待播剧全网热度前十榜单",
+        "onboard_time": 1666070004,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83739,
+        "num": 52466,
+        "word": "女子忘带钥匙呼叫家中小猫成功开门",
+        "onboard_time": 1666083501,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78969,
+        "num": 52459,
+        "word": "人均50实现平价泰餐自由",
+        "onboard_time": 1666086562,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74190,
+        "num": 52449,
+        "word": "TaylorSwift将开启世界巡演",
+        "onboard_time": 1666062442,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73316,
+        "num": 52442,
+        "word": "老人回应连续5年给热心女孩寄特产",
+        "onboard_time": 1666090883,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 70644,
+        "num": 52429,
+        "word": "张艺兴黄金瞳将11月日本播出",
+        "onboard_time": 1666078342,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69929,
+        "num": 52420,
+        "word": "中国战队全部晋级TI淘汰赛",
+        "onboard_time": 1666097244,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67809,
+        "num": 52415,
+        "word": "这就是养猫千日用猫一时",
+        "onboard_time": 1666087046,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65284,
+        "num": 52409,
+        "word": "这东西只有卖的人会玩",
+        "onboard_time": 1666081882,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大主席团第二次会议#"
+    }
+  }
+}
