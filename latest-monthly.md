@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 06:46:24
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 07:32:18
 </p>
 </blockquote>
 <p>
@@ -5529,6 +5529,12 @@ M2芯片iPadPro（热度：468462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%80%81%E5%B8%88%E6%AF%95%E8%AE%BE%E4%B8%AD%E5%8F%91%E7%8E%B08%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+学生在老师毕设中发现8年前的自己（热度：465037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2358%E5%B2%81%E7%88%B8%E7%88%B8%E7%BB%99%E7%8B%97%E4%B9%B0100%E5%A4%9A%E6%9E%9A%E5%8D%A1%E5%AD%90%E6%8C%A8%E4%B8%AA%E8%AF%95%E6%88%B4%23" target="weibo">
 58岁爸爸给狗买100多枚卡子挨个试戴（热度：463799）
 </a>
@@ -6005,12 +6011,6 @@ V社处罚LGD（热度：449534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%8A%E9%B8%BF%E4%B8%80%E7%9E%A5%E7%9A%84%E7%BE%8E%E6%99%AF%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23" target="weibo">
 被高铁上惊鸿一瞥的美景惊艳到了（热度：439364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%A6%81%E5%85%A8%E9%9D%A2%E5%8A%A0%E5%BC%BA%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%23" target="weibo">
-我们要全面加强练兵备战（热度：439344）
 </a>
 </li>
 
