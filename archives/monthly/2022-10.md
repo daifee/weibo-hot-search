@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 21:30:28
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 22:04:13
 </p>
 </blockquote>
 <p>
@@ -831,6 +831,12 @@ legends never die（热度：1502829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPad%23" target="weibo">
+iPad（热度：1463295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23JackeyLove%E5%9B%9E%E5%BA%94%E9%87%87%E8%AE%BF%E4%BA%89%E8%AE%AE%23" target="weibo">
 JackeyLove回应采访争议（热度：1462972）
 </a>
@@ -1295,12 +1301,6 @@ EDG晋级八强（热度：1223009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JackeyLove%E5%93%AD%E4%BA%86%23" target="weibo">
 JackeyLove哭了（热度：1186746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPad%23" target="weibo">
-iPad（热度：1186672）
 </a>
 </li>
 
@@ -4437,6 +4437,12 @@ iPod之父支持iPhone改用C口（热度：552071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8A%9D88%E5%B2%81%E6%9B%BE%E7%A5%96%E6%AF%8D%E5%90%83%E9%A5%AD%E5%88%AB%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
+10岁女孩劝88岁曾祖母吃饭别玩手机（热度：548851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%B5%94%E9%92%B1%E4%B9%9F%E4%BC%9A%E5%90%91%E4%B9%8C%E6%8F%90%E4%BE%9B%E6%98%9F%E9%93%BE%23" target="weibo">
 马斯克称赔钱也会向乌提供星链（热度：547915）
 </a>
@@ -4793,6 +4799,12 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%9B%9E%E5%A4%8D%E5%BD%AD%E6%98%B1%E7%95%85%E4%BD%A0%E8%83%86%E5%AD%90%E6%9C%80%E5%A4%A7%E4%BA%86%23" target="weibo">
 许凯回复彭昱畅你胆子最大了（热度：514833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Yagao%E7%A1%AE%E8%AF%8A%23" target="weibo">
+Yagao确诊（热度：514161）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ SuperM出道曲Jopping发行三周年（热度：438493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%80%E5%90%8E%E4%B8%80%E7%90%83%23" target="weibo">
 樊振东最后一球（热度：438184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E4%BA%BA%E6%95%B0%E7%A0%B450%E4%B8%87%E7%9A%84%E5%89%A7%23" target="weibo">
-2022年豆瓣评分人数破50万的剧（热度：437965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23aespaSavage%E5%8F%91%E8%A1%8C%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
-aespaSavage发行一周年（热度：437595）
 </a>
 </li>
 
