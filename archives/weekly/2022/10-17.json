@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666108348610,
+  "endTime": 1666111296518,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -585,6 +585,14 @@
       "onboard_time": 1666050923,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468462,
+      "num": 74389,
+      "word": "M2芯片iPadPro",
+      "onboard_time": 1666107923,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 456564,
@@ -1651,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191355,
+      "num": 74441,
+      "word": "一只鸭子能有多欠",
+      "onboard_time": 1666107203,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190650,
       "num": 190650,
       "word": "9岁入行川剧人36年终获梅花奖",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1666087046,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148978,
+      "num": 74404,
+      "word": "口蘑的正确打开方式",
+      "onboard_time": 1666108043,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 148018,
@@ -2403,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108506,
+      "num": 55288,
+      "word": "gemini幸运杯",
+      "onboard_time": 1666108883,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108245,
       "num": 66560,
       "word": "张桂梅称燃灯校长不是她一个人",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1665921804,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105557,
-      "num": 74441,
-      "word": "一只鸭子能有多欠",
-      "onboard_time": 1666107203,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 105249,
@@ -2755,14 +2779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74612,
-      "num": 74404,
-      "word": "口蘑的正确打开方式",
-      "onboard_time": 1666108043,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 73868,
       "num": 73868,
       "word": "写给十年后的自己",
@@ -2841,14 +2857,6 @@
       "onboard_time": 1666084763,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67636,
-      "num": 74389,
-      "word": "M2芯片iPadPro",
-      "onboard_time": 1666107923,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 67083,

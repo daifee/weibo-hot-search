@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666108348610,
+  "endTime": 1666111296518,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -7280,6 +7280,14 @@
       "word": "马斯克官宣特斯拉电动卡车投产",
       "onboard_time": 1665204085,
       "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 468462,
+      "num": 74389,
+      "word": "M2芯片iPadPro",
+      "onboard_time": 1666107923,
+      "rank": 49,
       "category": "科技"
     },
     {
@@ -17547,6 +17555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191355,
+      "num": 74441,
+      "word": "一只鸭子能有多欠",
+      "onboard_time": 1666107203,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191279,
       "num": 191279,
       "word": "虞书欣两个人的小森林茶园plog",
@@ -20441,6 +20457,14 @@
       "onboard_time": 1665559402,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148978,
+      "num": 74404,
+      "word": "口蘑的正确打开方式",
+      "onboard_time": 1666108043,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 148954,
@@ -23747,6 +23771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108506,
+      "num": 55288,
+      "word": "gemini幸运杯",
+      "onboard_time": 1666108883,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108472,
       "num": 108472,
       "word": "李宇春去流量化行动",
@@ -23929,14 +23961,6 @@
       "onboard_time": 1665330443,
       "rank": 29,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 105557,
-      "num": 74441,
-      "word": "一只鸭子能有多欠",
-      "onboard_time": 1666107203,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 105552,
@@ -26339,14 +26363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74612,
-      "num": 74404,
-      "word": "口蘑的正确打开方式",
-      "onboard_time": 1666108043,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 74398,
       "num": 1350531,
       "word": "多机位打开国庆节氛围感",
@@ -26801,14 +26817,6 @@
       "onboard_time": 1666084763,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67636,
-      "num": 74389,
-      "word": "M2芯片iPadPro",
-      "onboard_time": 1666107923,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 67576,
