@@ -1,0 +1,410 @@
+{
+  "runTime": 1666082367362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 172488,
+        "num": 498339,
+        "word": "到2035年我国发展的总体目标",
+        "onboard_time": 1666050923,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115373,
+        "num": 115373,
+        "word": "二十大报告这些话要牢记",
+        "onboard_time": 1666060701,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67684,
+        "num": 115328,
+        "word": "二十大广西代表团讨论微镜头",
+        "onboard_time": 1666080982,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1384049,
+        "num": 114960,
+        "word": "初二女生被高年级男生认亲叫小姨",
+        "onboard_time": 1666077502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632328,
+        "num": 114801,
+        "word": "双十一淘宝支持全程价保",
+        "onboard_time": 1666065745,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 434801,
+        "num": 114635,
+        "word": "待播剧全网热度前十榜单",
+        "onboard_time": 1666070004,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403830,
+        "num": 114407,
+        "word": "女子赶海意外捡到大量罕见紫房蛤",
+        "onboard_time": 1666072221,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369108,
+        "num": 114256,
+        "word": "日均千万人次收到购物车加满提示",
+        "onboard_time": 1666080501,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 364526,
+        "num": 113894,
+        "word": "女子粉黛花海拍照遇丁达尔效应",
+        "onboard_time": 1666077561,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208637,
+        "num": 113705,
+        "word": "90后妈妈流利背出桃花源记震惊儿子",
+        "onboard_time": 1666064603,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382808,
+        "num": 113650,
+        "word": "没想到摸鱼都摸出体系来了",
+        "onboard_time": 1666075402,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279927,
+        "num": 113390,
+        "word": "这就是传说中的血脉压制",
+        "onboard_time": 1666077742,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233887,
+        "num": 113065,
+        "word": "81岁院士课后被学生排长队要签名",
+        "onboard_time": 1666076422,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194055,
+        "num": 112977,
+        "word": "逐渐变成家长信任的样子",
+        "onboard_time": 1666071141,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182377,
+        "num": 112742,
+        "word": "这是史上最冤种的剧组吧",
+        "onboard_time": 1666066823,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180992,
+        "num": 112449,
+        "word": "71岁老人摔倒高三学生跪地人工呼吸",
+        "onboard_time": 1666070303,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175444,
+        "num": 112373,
+        "word": "布洛芬真是万能止痛药吗",
+        "onboard_time": 1666048338,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170832,
+        "num": 112127,
+        "word": "苏州一地铁站因柿子成网红打卡点",
+        "onboard_time": 1666062381,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166000,
+        "num": 111839,
+        "word": "俄乌进行超200人规模换俘",
+        "onboard_time": 1666068445,
+        "rank": 18,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 149356,
+        "num": 111685,
+        "word": "孙颖莎抽出梁靖崑vs林高远",
+        "onboard_time": 1666070484,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482867,
+        "num": 111433,
+        "word": "钢铁侠将于复联6中再次出现",
+        "onboard_time": 1666074681,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450541,
+        "num": 111216,
+        "word": "张艺兴黄金瞳将11月日本播出",
+        "onboard_time": 1666078342,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368802,
+        "num": 111002,
+        "word": "澳宣布不再承认西耶路撒冷为以色列首都",
+        "onboard_time": 1666072665,
+        "rank": 22,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 306266,
+        "num": 110900,
+        "word": "恋爱脑发作有多可怕",
+        "onboard_time": 1666068324,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244175,
+        "num": 110579,
+        "word": "常生闷气的女性更容易乳腺增生",
+        "onboard_time": 1666063881,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182462,
+        "num": 110360,
+        "word": "TaylorSwift将开启世界巡演",
+        "onboard_time": 1666062442,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140780,
+        "num": 110243,
+        "word": "癌症疫苗2030年前或将问世",
+        "onboard_time": 1666048457,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 139166,
+        "num": 110000,
+        "word": "李承铉改掉想太多后变舒服了",
+        "onboard_time": 1666072820,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138719,
+        "num": 109685,
+        "word": "蹲坑脚麻终于有救了",
+        "onboard_time": 1666073781,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125588,
+        "num": 109470,
+        "word": "研究表明拍照有助记住课件内容",
+        "onboard_time": 1666079601,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117258,
+        "num": 109239,
+        "word": "党旗党徽的使用情形",
+        "onboard_time": 1666082003,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109229,
+        "num": 109229,
+        "word": "心动的信号",
+        "onboard_time": 1666070664,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106894,
+        "num": 106894,
+        "word": "寻梦环游记太奶奶原型去世",
+        "onboard_time": 1666050683,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98312,
+        "num": 98312,
+        "word": "67岁大爷一个猛子救出溺水者",
+        "onboard_time": 1666081163,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94136,
+        "num": 94136,
+        "word": "4岁小宝凌晨3点打120救摔倒妈妈",
+        "onboard_time": 1666053146,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92711,
+        "num": 92711,
+        "word": "讨厌香菜的人是受到遗传影响",
+        "onboard_time": 1666055184,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 92508,
+        "num": 92508,
+        "word": "夫妻坚持办免费盲人影院17年",
+        "onboard_time": 1666069764,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 89782,
+        "num": 89782,
+        "word": "欧洲航天员回应在太空写中国古文",
+        "onboard_time": 1666071623,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 89498,
+        "num": 89498,
+        "word": "澳门冠军赛国乒对阵选手出炉",
+        "onboard_time": 1666080863,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84208,
+        "num": 84208,
+        "word": "依偎在一起的两只猫咪",
+        "onboard_time": 1666068744,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77023,
+        "num": 77023,
+        "word": "南充18岁高中生世锦赛拿下2金",
+        "onboard_time": 1666067366,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 73585,
+        "num": 73585,
+        "word": "这东西只有卖的人会玩",
+        "onboard_time": 1666081882,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72455,
+        "num": 72455,
+        "word": "手机解锁方式哪种好",
+        "onboard_time": 1666082123,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71094,
+        "num": 71094,
+        "word": "写给十年后的自己",
+        "onboard_time": 1666080682,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70587,
+        "num": 70587,
+        "word": "猩猩隔窗亲吻女游客媳妇一来秒怂",
+        "onboard_time": 1666059322,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70510,
+        "num": 70510,
+        "word": "原帅11记三分",
+        "onboard_time": 1666073722,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65923,
+        "num": 65923,
+        "word": "走出大山不应是为了逃离大山",
+        "onboard_time": 1666074142,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65356,
+        "num": 65356,
+        "word": "女子男友与弟弟同姓同名同生日",
+        "onboard_time": 1666049899,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 62267,
+        "num": 62267,
+        "word": "多家航司宣布恢复并增班多条国际航线",
+        "onboard_time": 1666059801,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60176,
+        "num": 60176,
+        "word": "那些影视作品中的高燃画面",
+        "onboard_time": 1666079243,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国之治书写新时代华章#"
+    }
+  }
+}
