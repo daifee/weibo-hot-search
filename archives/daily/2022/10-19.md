@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/19 00:41:36 ~ 2022/10/19 06:27:31
+本榜单时间：2022/10/19 00:41:36 ~ 2022/10/19 06:46:24
 </p>
 </blockquote>
 <p>
@@ -75,6 +75,12 @@ Yagao确诊（热度：265667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%80%81%E5%B8%88%E6%AF%95%E8%AE%BE%E4%B8%AD%E5%8F%91%E7%8E%B08%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+学生在老师毕设中发现8年前的自己（热度：212871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E7%9A%84%E4%B8%80%E7%A2%97%E5%9C%9F%E8%B1%86%E7%84%96%E9%9D%A2%23" target="weibo">
 一定要吃的一碗土豆焖面（热度：201911）
 </a>
@@ -117,20 +123,26 @@ Apple（热度：156148）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E5%96%82%E7%99%BD%E7%8B%90%E5%90%8E%E8%A2%AB%E5%BC%95%E8%A7%81%E7%BB%99%E5%90%8C%E4%BC%B4%23" target="weibo">
+男子投喂白狐后被引见给同伴（热度：127564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E5%87%BA%E7%8E%B0%E4%BC%97%E5%A4%9A%E6%B9%96%E6%B3%8A%23" target="weibo">
 塔克拉玛干沙漠出现众多湖泊（热度：127096）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%80%81%E5%B8%88%E6%AF%95%E8%AE%BE%E4%B8%AD%E5%8F%91%E7%8E%B08%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-学生在老师毕设中发现8年前的自己（热度：125789）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%81%B7%E5%90%83%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%B4%8B%E8%91%B1%E8%87%B4%E5%B0%BF%E8%A1%80%E8%A2%AB%E9%80%81%E5%8C%BB%23" target="weibo">
+狗狗偷吃垃圾桶洋葱致尿血被送医（热度：117066）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%81%B7%E5%90%83%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%B4%8B%E8%91%B1%E8%87%B4%E5%B0%BF%E8%A1%80%E8%A2%AB%E9%80%81%E5%8C%BB%23" target="weibo">
-狗狗偷吃垃圾桶洋葱致尿血被送医（热度：117066）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD17%E5%B2%81%E5%A7%91%E5%A8%98%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%E5%86%9B%23" target="weibo">
+安徽17岁姑娘世锦赛夺冠军（热度：109689）
 </a>
 </li>
 
@@ -171,20 +183,26 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E5%96%82%E7%99%BD%E7%8B%90%E5%90%8E%E8%A2%AB%E5%BC%95%E8%A7%81%E7%BB%99%E5%90%8C%E4%BC%B4%23" target="weibo">
-男子投喂白狐后被引见给同伴（热度：84512）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%80%92%E6%96%A5%E5%B1%B1%E5%AF%A8%E6%95%91%E6%8F%B4%E5%85%AC%E5%8F%B87%E5%8D%87%E6%B2%B9760%E5%85%83%23" target="weibo">
+交警怒斥山寨救援公司7升油760元（热度：84709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BC%AF%E8%85%B028%E6%AC%A1%E6%B8%85%E7%90%86%E8%B6%85%E8%BD%BD%E8%B4%A7%E8%BD%A6%E8%90%BD%E7%9F%B3%23" target="weibo">
+女孩弯腰28次清理超载货车落石（热度：84393）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BE%E7%8B%97%E9%81%8720%E5%A4%9A%E4%B8%AA%E8%90%8C%E5%A8%83%E5%B8%AE%E5%AF%BB4%E5%B0%8F%E6%97%B6%23" target="weibo">
+男子找狗遇20多个萌娃帮寻4小时（热度：81194）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%BB%91%E8%8E%B2%E8%8A%B1%E6%94%BB%E7%95%A5%E6%89%8B%E5%86%8C%E5%87%BA%E5%93%81%E6%96%B9%E6%81%92%E6%98%9F%E5%BC%95%E5%8A%9B%23" target="weibo">
 网传黑莲花攻略手册出品方恒星引力（热度：78099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BC%AF%E8%85%B028%E6%AC%A1%E6%B8%85%E7%90%86%E8%B6%85%E8%BD%BD%E8%B4%A7%E8%BD%A6%E8%90%BD%E7%9F%B3%23" target="weibo">
-女孩弯腰28次清理超载货车落石（热度：77878）
 </a>
 </li>
 
@@ -203,6 +221,12 @@ gemini幸运杯（热度：108506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%A2%AB%E7%94%9F%E6%B4%BB%E8%BE%9C%E8%B4%9F%23" target="weibo">
 努力的人不会被生活辜负（热度：74881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B8%83%E6%88%90%E8%80%81%E5%B9%B4%E4%BA%BA%E9%80%80%E4%BC%91%E5%90%8E%E5%86%8D%E5%B0%B1%E4%B8%9A%E6%84%8F%E6%84%BF%E5%BC%BA%23" target="weibo">
+近七成老年人退休后再就业意愿强（热度：72848）
 </a>
 </li>
 
@@ -231,6 +255,18 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E9%87%8C%E7%9A%84%E4%B8%96%E7%95%8C%E4%B9%8B%E6%9C%80%23" target="weibo">
+盘点中国超级工程里的世界之最（热度：58655）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%82%89%E6%91%8A%E5%89%8D%E8%BF%9E%E7%BB%AD%E4%BD%9C%E6%8F%96%E8%AE%A8%E8%82%89%E5%90%83%23" target="weibo">
+狗子肉摊前连续作揖讨肉吃（热度：57712）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E8%A5%BF%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97%E9%A6%96%E9%83%BD%23" target="weibo">
 澳宣布不再承认西耶路撒冷为以色列首都（热度：55456）
 </a>
@@ -239,18 +275,6 @@ gemini幸运杯（热度：108506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%E5%BE%AE%E9%95%9C%E5%A4%B4%23" target="weibo">
 二十大广西代表团讨论微镜头（热度：55331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%80%92%E6%96%A5%E5%B1%B1%E5%AF%A8%E6%95%91%E6%8F%B4%E5%85%AC%E5%8F%B87%E5%8D%87%E6%B2%B9760%E5%85%83%23" target="weibo">
-交警怒斥山寨救援公司7升油760元（热度：55159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BE%E7%8B%97%E9%81%8720%E5%A4%9A%E4%B8%AA%E8%90%8C%E5%A8%83%E5%B8%AE%E5%AF%BB4%E5%B0%8F%E6%97%B6%23" target="weibo">
-男子找狗遇20多个萌娃帮寻4小时（热度：54508）
 </a>
 </li>
 
@@ -267,20 +291,8 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%82%89%E6%91%8A%E5%89%8D%E8%BF%9E%E7%BB%AD%E4%BD%9C%E6%8F%96%E8%AE%A8%E8%82%89%E5%90%83%23" target="weibo">
-狗子肉摊前连续作揖讨肉吃（热度：48997）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%94%B7%E7%94%9F%E8%AE%A4%E4%BA%B2%E5%8F%AB%E5%B0%8F%E5%A7%A8%23" target="weibo">
 初二女生被高年级男生认亲叫小姨（热度：48933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B8%83%E6%88%90%E8%80%81%E5%B9%B4%E4%BA%BA%E9%80%80%E4%BC%91%E5%90%8E%E5%86%8D%E5%B0%B1%E4%B8%9A%E6%84%8F%E6%84%BF%E5%BC%BA%23" target="weibo">
-近七成老年人退休后再就业意愿强（热度：48519）
 </a>
 </li>
 
@@ -321,8 +333,8 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E9%87%8C%E7%9A%84%E4%B8%96%E7%95%8C%E4%B9%8B%E6%9C%80%23" target="weibo">
-盘点中国超级工程里的世界之最（热度：46033）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E5%9B%9E%E5%90%8C%E5%AD%A6%E7%A0%B4%E6%A0%A1%E6%9C%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E5%B8%AE%E7%BC%9D%23" target="weibo">
+男生穿回同学破校服让妈妈帮缝（热度：45275）
 </a>
 </li>
 
@@ -351,12 +363,6 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD17%E5%B2%81%E5%A7%91%E5%A8%98%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%E5%86%9B%23" target="weibo">
-安徽17岁姑娘世锦赛夺冠军（热度：38475）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A6%BB%E7%A9%BF%E6%83%85%E4%BE%A3%E8%A3%85%E7%89%B5%E6%89%8B%E6%95%A3%E6%AD%A5%23" target="weibo">
 八旬夫妻穿情侣装牵手散步（热度：37990）
 </a>
@@ -369,38 +375,32 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E5%9B%9E%E5%90%8C%E5%AD%A6%E7%A0%B4%E6%A0%A1%E6%9C%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E5%B8%AE%E7%BC%9D%23" target="weibo">
-男生穿回同学破校服让妈妈帮缝（热度：34769）
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BE%E5%8A%9E%E5%B7%A8%E5%B9%85%E7%A7%91%E5%B9%BB%E7%94%BB%E5%B1%95%23" target="weibo">
+12岁男孩举办巨幅科幻画展（热度：30692）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E9%AB%98%E5%B3%B0%E6%8C%A4%E5%9C%B0%E9%93%81%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%AE%B9%E6%98%93%23" target="weibo">
-早高峰挤地铁真的不容易（热度：16728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E5%BA%9E%E9%92%B0%E5%8D%83%E4%B8%96%E9%94%A6%E8%B5%9B%E8%BF%9E%E5%A4%BA4%E9%87%91%23" target="weibo">
-教练回应庞钰千世锦赛连夺4金（热度：11096）
+早高峰挤地铁真的不容易（热度：28629）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%AC%E6%B3%BD%E9%A9%AC%E8%B6%8A%E8%80%81%E8%B6%8A%E5%BC%BA%23" target="weibo">
-为什么本泽马越老越强（热度：10407）
+为什么本泽马越老越强（热度：14573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E5%BA%9E%E9%92%B0%E5%8D%83%E4%B8%96%E9%94%A6%E8%B5%9B%E8%BF%9E%E5%A4%BA4%E9%87%91%23" target="weibo">
+教练回应庞钰千世锦赛连夺4金（热度：13839）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E4%B8%B9%E9%BA%A6%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B%23" target="weibo">
 2022年丹麦羽毛球公开赛（热度：10255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BE%E5%8A%9E%E5%B7%A8%E5%B9%85%E7%A7%91%E5%B9%BB%E7%94%BB%E5%B1%95%23" target="weibo">
-12岁男孩举办巨幅科幻画展（热度：7539）
 </a>
 </li>
 
