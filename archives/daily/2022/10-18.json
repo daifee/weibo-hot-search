@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666097802834,
+  "endTime": 1666099828502,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -43,6 +43,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1186672,
+      "num": 65816,
+      "word": "iPad",
+      "onboard_time": 1666098503,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1111113,
       "num": 212956,
       "word": "讨厌香菜的人是受到遗传影响",
@@ -51,12 +59,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1081945,
-      "num": 52743,
+      "raw_hot": 1096294,
+      "num": 65813,
       "word": "为什么删了最好的朋友",
       "onboard_time": 1666094544,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1071981,
+      "num": 65868,
+      "word": "200斤男子为备婚减肥7个月瘦40斤",
+      "onboard_time": 1666095803,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1050514,
@@ -97,6 +113,14 @@
       "onboard_time": 1666082902,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868948,
+      "num": 65749,
+      "word": "Apple",
+      "onboard_time": 1666097424,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 837228,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 681856,
-      "num": 52804,
+      "num": 65857,
       "word": "刘雁宇受伤",
       "onboard_time": 1666095142,
       "rank": 3,
@@ -379,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356735,
-      "num": 52776,
-      "word": "200斤男子为备婚减肥7个月瘦40斤",
-      "onboard_time": 1666095803,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346888,
       "num": 120678,
       "word": "李承铉改掉想太多后变舒服了",
@@ -449,6 +465,14 @@
       "onboard_time": 1666085604,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311548,
+      "num": 65797,
+      "word": "真的不想上班呀",
+      "onboard_time": 1666096584,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 310571,
@@ -515,12 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291651,
-      "num": 52733,
-      "word": "Apple",
-      "onboard_time": 1666097424,
-      "rank": 12,
-      "category": "科技"
+      "raw_hot": 288532,
+      "num": 65790,
+      "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
+      "onboard_time": 1666096763,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 260553,
-      "num": 52708,
+      "num": 65783,
       "word": "女孩弯腰28次清理超载货车落石",
       "onboard_time": 1666094422,
       "rank": 14,
@@ -593,6 +617,14 @@
       "onboard_time": 1666088785,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253403,
+      "num": 65777,
+      "word": "男子轿车被划报警一查凶手是条狗",
+      "onboard_time": 1666097004,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251741,
@@ -747,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203637,
+      "num": 65756,
+      "word": "杭州一大学保安20年来默默资助学生",
+      "onboard_time": 1666098086,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 198596,
       "num": 119224,
       "word": "喝酒前后不要吃布洛芬",
@@ -817,6 +857,14 @@
       "onboard_time": 1666081163,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 175051,
+      "num": 65734,
+      "word": "韩德君抱急救箱冲进场内",
+      "onboard_time": 1666098144,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 173441,
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 146607,
-      "num": 52620,
+      "num": 65693,
       "word": "辽宁男篮vs广州男篮",
       "onboard_time": 1666095263,
       "rank": 25,
@@ -987,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138792,
+      "num": 65714,
+      "word": "秦霄贤学做缙云烧饼",
+      "onboard_time": 1666098985,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137701,
       "num": 112455,
       "word": "中国空间站年底前完成T字构型建造",
@@ -1001,14 +1057,6 @@
       "onboard_time": 1666019484,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134668,
-      "num": 52593,
-      "word": "真的不想上班呀",
-      "onboard_time": 1666096584,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 134108,
@@ -1035,12 +1083,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 124756,
+      "num": 65675,
+      "word": "罗云熙吴倩追光者新救援场景剧照",
+      "onboard_time": 1666096463,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124324,
       "num": 122369,
       "word": "女儿第一次骑车上学爸爸偷偷护送",
       "onboard_time": 1666012164,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122542,
+      "num": 65670,
+      "word": "中国女足U17vs西班牙女足U17",
+      "onboard_time": 1666096285,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 119185,
@@ -1107,12 +1171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109461,
-      "num": 52551,
-      "word": "中国女足U17vs西班牙女足U17",
-      "onboard_time": 1666096285,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 109433,
+      "num": 65635,
+      "word": "中国战队全部晋级TI淘汰赛",
+      "onboard_time": 1666097244,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 108012,
@@ -1129,14 +1193,6 @@
       "onboard_time": 1666002979,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106249,
-      "num": 52546,
-      "word": "罗云熙吴倩追光者新救援场景剧照",
-      "onboard_time": 1666096463,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 105249,
@@ -1187,28 +1243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94802,
-      "num": 52526,
-      "word": "男子轿车被划报警一查凶手是条狗",
-      "onboard_time": 1666097004,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93736,
       "num": 92441,
       "word": "苹果即将推出新款iPadPro",
       "onboard_time": 1665980666,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 93657,
-      "num": 52508,
-      "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
-      "onboard_time": 1666096763,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91962,
@@ -1257,6 +1297,22 @@
       "onboard_time": 1666008621,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83870,
+      "num": 65593,
+      "word": "八旬夫妻穿情侣装牵手散步",
+      "onboard_time": 1666099405,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82828,
+      "num": 65586,
+      "word": "努力的人不会被生活辜负",
+      "onboard_time": 1666099706,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 82707,
@@ -1347,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71415,
+      "num": 65573,
+      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
+      "onboard_time": 1666099763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71108,
       "num": 71108,
       "word": "WTT澳门冠军赛女单对阵出炉",
@@ -1355,12 +1419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69929,
-      "num": 52420,
-      "word": "中国战队全部晋级TI淘汰赛",
-      "onboard_time": 1666097244,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 70238,
+      "num": 65871,
+      "word": "数读二十大",
+      "onboard_time": 1666095803,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69125,
+      "num": 65552,
+      "word": "一套题来学二十大报告",
+      "onboard_time": 1666098742,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67643,
@@ -1449,14 +1521,6 @@
       "onboard_time": 1666049599,
       "rank": 42,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 53485,
-      "num": 52820,
-      "word": "数读二十大",
-      "onboard_time": 1666095803,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52726,

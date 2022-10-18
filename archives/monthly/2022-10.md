@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 20:56:42
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 21:30:28
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ JackeyLove哭了（热度：1186746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPad%23" target="weibo">
+iPad（热度：1186672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%B0%86%E4%BA%A7%E7%94%9F%E7%81%BE%E9%9A%BE%E6%80%A7%E5%BD%B1%E5%93%8D%23" target="weibo">
 北溪管道泄漏将产生灾难性影响（热度：1177767）
 </a>
@@ -1449,6 +1455,12 @@ iPhone14出现首次大幅降价（热度：1129925）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E4%BA%86%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
+为什么删了最好的朋友（热度：1096294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E7%BB%88%E4%BA%8E%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
 国产悬疑剧终于上新了（热度：1094383）
 </a>
@@ -1497,12 +1509,6 @@ RGE战胜TES（热度：1085972）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E4%BA%86%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
-为什么删了最好的朋友（热度：1081945）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1700%E4%B9%B0%E8%99%8E%E7%9A%AE%E7%8A%AC%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E6%9F%93%E8%89%B2%E7%8B%97%23" target="weibo">
 花700买虎皮犬回家发现是染色狗（热度：1080994）
 </a>
@@ -1529,6 +1535,12 @@ RGE战胜TES（热度：1085972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E6%BB%9E%E7%95%99%E6%B8%B8%E5%AE%A2%E6%98%8E%E5%B9%B4%E5%85%8D%E8%B4%B9%E6%B8%B8%E5%85%A8%E5%8E%BFA%E7%BA%A7%E6%99%AF%E5%8C%BA%23" target="weibo">
 凤凰古城滞留游客明年免费游全县A级景区（热度：1072091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23200%E6%96%A4%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A4%87%E5%A9%9A%E5%87%8F%E8%82%A57%E4%B8%AA%E6%9C%88%E7%98%A640%E6%96%A4%23" target="weibo">
+200斤男子为备婚减肥7个月瘦40斤（热度：1071981）
 </a>
 </li>
 
@@ -2201,6 +2213,12 @@ eStar七冠王（热度：894969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%9B%E6%A6%82%E5%A5%B3%E8%80%81%E5%B8%88%E7%A5%9E%E4%BB%99%E9%A2%9C%E5%80%BC%E7%BE%8E%E5%87%BA%E5%9C%88%23" target="weibo">
 高校毛概女老师神仙颜值美出圈（热度：874091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Apple%23" target="weibo">
+Apple（热度：868948）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ SuperM出道曲Jopping发行三周年（热度：438493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespaSavage%E5%8F%91%E8%A1%8C%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
 aespaSavage发行一周年（热度：437595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%83%BD%E6%9C%89%E5%AF%B9%E8%B1%A1%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B6%B4%E6%A1%8C%E5%A4%A7%E5%93%AD%23" target="weibo">
-同事都有对象单身女服务员趴桌大哭（热度：437481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%B0%86%E6%94%BE%E5%BC%83%E6%BF%80%E8%BF%9B%E5%87%8F%E7%A8%8E%E6%96%B9%E6%A1%88%23" target="weibo">
-英国宣布将放弃激进减税方案（热度：437209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E4%B8%80%E5%87%BA%E7%8E%B0%E5%B0%B1%E6%9C%89%E7%AC%91%E7%82%B9%23" target="weibo">
-再就业男团一出现就有笑点（热度：436908）
 </a>
 </li>
 
