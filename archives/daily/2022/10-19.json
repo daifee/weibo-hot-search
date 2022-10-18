@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666121321723,
+  "endTime": 1666122176536,
   "band_list": [
     {
       "raw_hot": 504852,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44069,
+      "num": 9715,
+      "word": "男子投喂白狐后被引见给同伴",
+      "onboard_time": 1666117451,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42551,
       "num": 55209,
       "word": "刘雁宇受伤",
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36425,
-      "num": 9715,
-      "word": "男子投喂白狐后被引见给同伴",
-      "onboard_time": 1666117451,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35925,
       "num": 55329,
       "word": "数读二十大",
@@ -427,7 +427,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17695,
+      "raw_hot": 29414,
       "num": 7001,
       "word": "交警怒斥山寨救援公司7升油760元",
       "onboard_time": 1666119790,
@@ -443,7 +443,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7898,
+      "raw_hot": 8443,
       "num": 6782,
       "word": "为什么本泽马越老越强",
       "onboard_time": 1666119911,
@@ -457,6 +457,30 @@
       "onboard_time": 1666120810,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 6944,
+      "num": 5381,
+      "word": "狗狗偷亲熟睡小主人为其盖被子",
+      "onboard_time": 1666121472,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6236,
+      "num": 5354,
+      "word": "教练回应庞钰千世锦赛连夺4金",
+      "onboard_time": 1666122071,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6118,
+      "num": 5339,
+      "word": "大姐称在也门的未婚夫退休要缴违约金",
+      "onboard_time": 1666122130,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
