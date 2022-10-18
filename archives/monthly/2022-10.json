@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666102781665,
+  "endTime": 1666104656217,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1787,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1155685,
+      "num": 71761,
+      "word": "Yagao确诊",
+      "onboard_time": 1666101204,
+      "rank": 11,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 1142998,
       "num": 795908,
       "word": "一直不谈恋爱会等到很好的人吗",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1665309262,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1120447,
+      "num": 71594,
+      "word": "考研学生楼道里挑灯夜读",
+      "onboard_time": 1666101145,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 1116169,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1665136642,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1015164,
-      "num": 71761,
-      "word": "Yagao确诊",
-      "onboard_time": 1666101204,
-      "rank": 11,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 1013681,
@@ -4403,6 +4411,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 680874,
+      "num": 71615,
+      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
+      "onboard_time": 1666099763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680777,
       "num": 680777,
       "word": "分手了会删朋友圈吗",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1665323004,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630517,
+      "num": 71494,
+      "word": "付费自习室下沉县城",
+      "onboard_time": 1666101383,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 630036,
@@ -8723,14 +8747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 406587,
-      "num": 71594,
-      "word": "考研学生楼道里挑灯夜读",
-      "onboard_time": 1666101145,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 406274,
       "num": 406274,
       "word": "带着情绪过夜的人在想什么",
@@ -10907,14 +10923,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 331316,
-      "num": 71615,
-      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
-      "onboard_time": 1666099763,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330904,
       "num": 330904,
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
@@ -11641,14 +11649,6 @@
       "onboard_time": 1665638005,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306985,
-      "num": 71494,
-      "word": "付费自习室下沉县城",
-      "onboard_time": 1666101383,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 306882,
@@ -12451,6 +12451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 283416,
+      "num": 71642,
+      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
+      "onboard_time": 1666099945,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283230,
       "num": 283230,
       "word": "汤唯提名大钟奖最佳女主角",
@@ -12553,6 +12561,14 @@
       "onboard_time": 1664945363,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281090,
+      "num": 67607,
+      "word": "辽宁男篮",
+      "onboard_time": 1666101985,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 280907,
@@ -13651,6 +13667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258849,
+      "num": 71692,
+      "word": "努力的人不会被生活辜负",
+      "onboard_time": 1666099706,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258783,
       "num": 154418,
       "word": "止痛药不要连续服用超过7天",
@@ -14145,14 +14169,6 @@
       "onboard_time": 1664886803,
       "rank": 15,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 250754,
-      "num": 71642,
-      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
-      "onboard_time": 1666099945,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250704,
@@ -15225,14 +15241,6 @@
       "onboard_time": 1665492445,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228443,
-      "num": 71692,
-      "word": "努力的人不会被生活辜负",
-      "onboard_time": 1666099706,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 228331,
@@ -18851,6 +18859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170133,
+      "num": 67563,
+      "word": "电动车开了就回不去了吗",
+      "onboard_time": 1666102285,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 170052,
       "num": 100035,
       "word": "被万里归途感动到",
@@ -20283,14 +20299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149858,
-      "num": 67607,
-      "word": "辽宁男篮",
-      "onboard_time": 1666101985,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149803,
       "num": 149803,
       "word": "女排拦网",
@@ -21065,6 +21073,14 @@
       "onboard_time": 1665894629,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140822,
+      "num": 64040,
+      "word": "美国一年内衰退概率达100%",
+      "onboard_time": 1666104025,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140771,
@@ -21971,6 +21987,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 128926,
+      "num": 71536,
+      "word": "八旬夫妻穿情侣装牵手散步",
+      "onboard_time": 1666099405,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128873,
       "num": 128873,
       "word": "国乒男团战胜日本队",
@@ -22761,14 +22785,6 @@
       "onboard_time": 1665286044,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119471,
-      "num": 71536,
-      "word": "八旬夫妻穿情侣装牵手散步",
-      "onboard_time": 1666099405,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119386,
@@ -24056,6 +24072,14 @@
       "word": "为啥一到重要时刻大脑就一片空白",
       "onboard_time": 1665179472,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103480,
+      "num": 64021,
+      "word": "肿瘤晚期主人给猫咖留纸条托付爱猫",
+      "onboard_time": 1666104086,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -25395,14 +25419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86238,
-      "num": 67563,
-      "word": "电动车开了就回不去了吗",
-      "onboard_time": 1666102285,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 86005,
       "num": 86005,
       "word": "10月12日新增本土无症状1154例",
@@ -25867,12 +25883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80028,
+      "num": 63999,
+      "word": "一定要吃的一碗土豆焖面",
+      "onboard_time": 1666104566,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79977,
       "num": 760191,
       "word": "无人机视角瞰大美中国",
       "onboard_time": 1665292285,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 79805,
+      "num": 67546,
+      "word": "如何释怀渐行渐远的友情",
+      "onboard_time": 1666102765,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 79701,
@@ -25904,6 +25936,14 @@
       "word": "乌云遇皎月改编壮鱼结局",
       "onboard_time": 1665149005,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 79126,
+      "num": 63992,
+      "word": "陈哲远沈月我的反派男友泰国播出",
+      "onboard_time": 1666104627,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -26585,14 +26625,6 @@
       "onboard_time": 1665282623,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69683,
-      "num": 67546,
-      "word": "如何释怀渐行渐远的友情",
-      "onboard_time": 1666102765,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 69636,

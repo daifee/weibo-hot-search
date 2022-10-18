@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666102781665,
+  "endTime": 1666104656217,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -51,6 +51,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1155685,
+      "num": 71761,
+      "word": "Yagao确诊",
+      "onboard_time": 1666101204,
+      "rank": 11,
+      "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1120447,
+      "num": 71594,
+      "word": "考研学生楼道里挑灯夜读",
+      "onboard_time": 1666101145,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1116169,
       "num": 71829,
       "word": "200斤男子为备婚减肥7个月瘦40斤",
@@ -81,14 +97,6 @@
       "onboard_time": 1666053146,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1015164,
-      "num": 71761,
-      "word": "Yagao确诊",
-      "onboard_time": 1666101204,
-      "rank": 11,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 989277,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680874,
+      "num": 71615,
+      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
+      "onboard_time": 1666099763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678697,
       "num": 225549,
       "word": "南京黑眼圈门诊开诊1年一号难求",
@@ -233,6 +249,14 @@
       "onboard_time": 1666090343,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 630517,
+      "num": 71494,
+      "word": "付费自习室下沉县城",
+      "onboard_time": 1666101383,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 607641,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406587,
-      "num": 71594,
-      "word": "考研学生楼道里挑灯夜读",
-      "onboard_time": 1666101145,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 402168,
       "num": 173704,
       "word": "俄乌进行超200人规模换俘",
@@ -467,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331316,
-      "num": 71615,
-      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
-      "onboard_time": 1666099763,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329634,
       "num": 154673,
       "word": "约2000名乌克兰士兵将赴法国培训",
@@ -529,14 +537,6 @@
       "onboard_time": 1666021462,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306985,
-      "num": 71494,
-      "word": "付费自习室下沉县城",
-      "onboard_time": 1666101383,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 306186,
@@ -595,12 +595,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283416,
+      "num": 71642,
+      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
+      "onboard_time": 1666099945,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281516,
       "num": 235162,
       "word": "导盲犬带主人做核酸插队后自觉重排",
       "onboard_time": 1666086683,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281090,
+      "num": 67607,
+      "word": "辽宁男篮",
+      "onboard_time": 1666101985,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 280907,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258849,
+      "num": 71692,
+      "word": "努力的人不会被生活辜负",
+      "onboard_time": 1666099706,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255038,
       "num": 318516,
       "word": "这是9671.2万分之一的回答",
@@ -672,14 +696,6 @@
       "word": "2岁女童突发抽搐消防车秒变救护车",
       "onboard_time": 1666018826,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250754,
-      "num": 71642,
-      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
-      "onboard_time": 1666099945,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -761,14 +777,6 @@
       "onboard_time": 1666091545,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228443,
-      "num": 71692,
-      "word": "努力的人不会被生活辜负",
-      "onboard_time": 1666099706,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 226571,
@@ -923,6 +931,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 170133,
+      "num": 67563,
+      "word": "电动车开了就回不去了吗",
+      "onboard_time": 1666102285,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 169897,
       "num": 154232,
       "word": "俄方称对俄天然气限价将导致停供",
@@ -1027,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149858,
-      "num": 67607,
-      "word": "辽宁男篮",
-      "onboard_time": 1666101985,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149485,
       "num": 187868,
       "word": "这就是养猫千日用猫一时",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1666088664,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140822,
+      "num": 64040,
+      "word": "美国一年内衰退概率达100%",
+      "onboard_time": 1666104025,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140192,
@@ -1147,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128926,
+      "num": 71536,
+      "word": "八旬夫妻穿情侣装牵手散步",
+      "onboard_time": 1666099405,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125588,
       "num": 109612,
       "word": "研究表明拍照有助记住课件内容",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1666096285,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119471,
-      "num": 71536,
-      "word": "八旬夫妻穿情侣装牵手散步",
-      "onboard_time": 1666099405,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119185,
@@ -1275,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103480,
+      "num": 64021,
+      "word": "肿瘤晚期主人给猫咖留纸条托付爱猫",
+      "onboard_time": 1666104086,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97401,
       "num": 165962,
       "word": "如何健康讲究地吃火锅",
@@ -1355,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86238,
-      "num": 67563,
-      "word": "电动车开了就回不去了吗",
-      "onboard_time": 1666102285,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 85407,
       "num": 85407,
       "word": "幼狗被装袋挂树上女子散步时救下",
@@ -1401,6 +1417,30 @@
       "onboard_time": 1665981086,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80028,
+      "num": 63999,
+      "word": "一定要吃的一碗土豆焖面",
+      "onboard_time": 1666104566,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 79805,
+      "num": 67546,
+      "word": "如何释怀渐行渐远的友情",
+      "onboard_time": 1666102765,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 79126,
+      "num": 63992,
+      "word": "陈哲远沈月我的反派男友泰国播出",
+      "onboard_time": 1666104627,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 77823,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1666095803,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69683,
-      "num": 67546,
-      "word": "如何释怀渐行渐远的友情",
-      "onboard_time": 1666102765,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 69125,
