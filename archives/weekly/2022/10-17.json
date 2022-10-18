@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666069803030,
+  "endTime": 1666073716238,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -131,6 +131,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 788977,
+      "num": 119436,
+      "word": "待播剧全网热度前十榜单",
+      "onboard_time": 1666070004,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 786298,
       "num": 92279,
       "word": "再溜肩就不礼貌了",
@@ -225,6 +233,14 @@
       "onboard_time": 1666058123,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662471,
+      "num": 119422,
+      "word": "孙颖莎抽出梁靖崑vs林高远",
+      "onboard_time": 1666070484,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 656133,
@@ -387,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 443403,
+      "num": 119267,
+      "word": "恋爱脑发作有多可怕",
+      "onboard_time": 1666068324,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443151,
       "num": 152981,
       "word": "老外第一次穿汉服的反应",
@@ -441,6 +465,14 @@
       "onboard_time": 1666008082,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402168,
+      "num": 119363,
+      "word": "俄乌进行超200人规模换俘",
+      "onboard_time": 1666068445,
+      "rank": 37,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 398503,
@@ -523,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363820,
-      "num": 117020,
-      "word": "恋爱脑发作有多可怕",
-      "onboard_time": 1666068324,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361658,
       "num": 160065,
       "word": "卡塔尔成为2023年亚洲杯举办地",
@@ -585,14 +609,6 @@
       "onboard_time": 1666067366,
       "rank": 19,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 338912,
-      "num": 118258,
-      "word": "俄乌进行超200人规模换俘",
-      "onboard_time": 1666068445,
-      "rank": 37,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 338048,
@@ -763,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281189,
+      "num": 119346,
+      "word": "夫妻坚持办免费盲人影院17年",
+      "onboard_time": 1666069764,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 279350,
       "num": 144968,
       "word": "幼狗被装袋挂树上女子散步时救下",
@@ -857,6 +881,14 @@
       "onboard_time": 1666011203,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252607,
+      "num": 119235,
+      "word": "李承铉改掉想太多后变舒服了",
+      "onboard_time": 1666072820,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 252310,
@@ -995,6 +1027,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224277,
+      "num": 119310,
+      "word": "心动的信号",
+      "onboard_time": 1666070664,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222265,
+      "num": 119290,
+      "word": "71岁老人摔倒高三学生跪地人工呼吸",
+      "onboard_time": 1666070303,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 221987,
       "num": 221987,
       "word": "二十大报告寄语广大青年",
@@ -1067,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207314,
+      "num": 119284,
+      "word": "逐渐变成家长信任的样子",
+      "onboard_time": 1666071141,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205290,
       "num": 221043,
       "word": "你好二十大",
@@ -1075,12 +1131,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 205210,
+      "num": 119276,
+      "word": "女子赶海意外捡到大量罕见紫房蛤",
+      "onboard_time": 1666072221,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203828,
       "num": 151942,
       "word": "影视剧cp售后哪家强",
       "onboard_time": 1665993142,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198596,
+      "num": 119224,
+      "word": "喝酒前后不要吃布洛芬",
+      "onboard_time": 1666067126,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196738,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1665997703,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191596,
+      "num": 119212,
+      "word": "依偎在一起的两只猫咪",
+      "onboard_time": 1666068744,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 190650,
@@ -1144,14 +1224,6 @@
       "word": "济南建地铁太拼了",
       "onboard_time": 1666061722,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185214,
-      "num": 116400,
-      "word": "喝酒前后不要吃布洛芬",
-      "onboard_time": 1666067126,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164583,
+      "num": 119172,
+      "word": "欧洲航天员回应在太空写中国古文",
+      "onboard_time": 1666071623,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 162367,
       "num": 235625,
       "word": "二十大广西代表团讨论",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1666056803,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150869,
+      "num": 119161,
+      "word": "澳宣布不再承认西耶路撒冷为以色列首都",
+      "onboard_time": 1666072665,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 150490,
@@ -1497,14 +1585,6 @@
       "onboard_time": 1665983481,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139375,
-      "num": 115992,
-      "word": "依偎在一起的两只猫咪",
-      "onboard_time": 1666068744,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 139164,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1666016845,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119129,
+      "num": 119129,
+      "word": "WTT澳门冠军赛抽签仪式",
+      "onboard_time": 1666070243,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 119026,
@@ -1907,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84181,
+      "num": 84181,
+      "word": "伊瓜因正式退役",
+      "onboard_time": 1666072788,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84008,
       "num": 55408,
       "word": "8旬老人骑行40里探望5旬女儿",
@@ -2027,20 +2123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67570,
+      "num": 67570,
+      "word": "WTT澳门冠军赛女单对阵出炉",
+      "onboard_time": 1666072524,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67083,
       "num": 16661,
       "word": "女子生日被4好友拖行示众",
       "onboard_time": 1665963801,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66467,
-      "num": 78082,
-      "word": "夫妻坚持办免费盲人影院17年",
-      "onboard_time": 1666069764,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 66108,
@@ -2105,6 +2201,14 @@
       "onboard_time": 1666049840,
       "rank": 38,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 60535,
+      "num": 60535,
+      "word": "常林三双",
+      "onboard_time": 1666072748,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 59068,
@@ -2600,6 +2704,9 @@
     },
     {
       "word": "#同心向党我来说#"
+    },
+    {
+      "word": "#二十大广西代表团讨论#"
     }
   ]
 }
