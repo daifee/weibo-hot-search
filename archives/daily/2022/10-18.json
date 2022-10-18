@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666086757093,
+  "endTime": 1666089057996,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -75,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 884343,
+      "raw_hot": 919010,
       "num": 156186,
       "word": "塔克拉玛干沙漠出现众多湖泊",
       "onboard_time": 1666082902,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584379,
+      "num": 131100,
+      "word": "人均50实现平价泰餐自由",
+      "onboard_time": 1666086562,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 570859,
       "num": 155749,
       "word": "女子赶海意外捡到大量罕见紫房蛤",
@@ -179,7 +187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523542,
+      "raw_hot": 532635,
       "num": 156005,
       "word": "陪诊员遇白血病家庭大哭不忍收钱",
       "onboard_time": 1666083203,
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369527,
+      "num": 155981,
+      "word": "女子忘带钥匙呼叫家中小猫成功开门",
+      "onboard_time": 1666083501,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346888,
       "num": 120678,
       "word": "李承铉改掉想太多后变舒服了",
@@ -339,20 +355,20 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 317130,
-      "num": 155981,
-      "word": "女子忘带钥匙呼叫家中小猫成功开门",
-      "onboard_time": 1666083501,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315743,
       "num": 127864,
       "word": "夫妻坚持办免费盲人影院17年",
       "onboard_time": 1666069764,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 312222,
+      "num": 155805,
+      "word": "浮图缘",
+      "onboard_time": 1666085604,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 310571,
@@ -435,6 +451,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272866,
+      "num": 129267,
+      "word": "7岁女孩商场遇海报神还原自己",
+      "onboard_time": 1666086923,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259187,
+      "num": 584781,
+      "word": "党旗党徽的使用情形",
+      "onboard_time": 1666082003,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258719,
+      "num": 131101,
+      "word": "原来小猫也会装痛",
+      "onboard_time": 1666085962,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255038,
       "num": 318516,
       "word": "这是9671.2万分之一的回答",
@@ -481,14 +521,6 @@
       "onboard_time": 1666028892,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235171,
-      "num": 155805,
-      "word": "浮图缘",
-      "onboard_time": 1666085604,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 233887,
@@ -603,12 +635,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 192753,
-      "num": 564928,
-      "word": "党旗党徽的使用情形",
-      "onboard_time": 1666082003,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 192719,
+      "num": 134997,
+      "word": "普拉提是懂有效塑形的",
+      "onboard_time": 1666084522,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 191596,
@@ -651,6 +683,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172144,
+      "num": 125426,
+      "word": "学生在老师毕设中发现8年前的自己",
+      "onboard_time": 1666087285,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169897,
       "num": 154232,
       "word": "俄方称对俄天然气限价将导致停供",
@@ -673,6 +713,14 @@
       "onboard_time": 1665987563,
       "rank": 22,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 167042,
+      "num": 124850,
+      "word": "导盲犬带主人做核酸插队后自觉重排",
+      "onboard_time": 1666086683,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166316,
@@ -795,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134997,
-      "num": 134997,
-      "word": "普拉提是懂有效塑形的",
-      "onboard_time": 1666084522,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134108,
       "num": 134108,
       "word": "狗狗好像不喜欢过生日",
@@ -819,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131101,
-      "num": 131101,
-      "word": "原来小猫也会装痛",
-      "onboard_time": 1666085962,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125588,
       "num": 109612,
       "word": "研究表明拍照有助记住课件内容",
@@ -841,6 +873,14 @@
       "onboard_time": 1666012164,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124081,
+      "num": 124081,
+      "word": "10年间教资报考人数翻66倍",
+      "onboard_time": 1666086083,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 119185,
@@ -873,6 +913,14 @@
       "onboard_time": 1666073842,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116809,
+      "num": 116809,
+      "word": "这就是养猫千日用猫一时",
+      "onboard_time": 1666087046,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116633,
@@ -939,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95977,
+      "num": 95977,
+      "word": "如何健康讲究地吃火锅",
+      "onboard_time": 1666087883,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95921,
       "num": 95921,
       "word": "甜度满分的元气舞台",
@@ -979,12 +1035,28 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 88433,
+      "num": 88433,
+      "word": "胶片复兴使柯达公司产量翻两番",
+      "onboard_time": 1666087943,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "月曜采访手工耿",
       "onboard_time": 1666052305,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87528,
+      "num": 87528,
+      "word": "这才是我想吃的披萨",
+      "onboard_time": 1666088664,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 85407,
@@ -1027,14 +1099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79370,
-      "num": 79370,
-      "word": "人均50实现平价泰餐自由",
-      "onboard_time": 1666086562,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 77823,
       "num": 93689,
       "word": "被动漫里的美食治愈到了",
@@ -1057,14 +1121,6 @@
       "onboard_time": 1666003102,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75506,
-      "num": 75506,
-      "word": "导盲犬带主人做核酸插队后自觉重排",
-      "onboard_time": 1666086683,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73868,
@@ -1105,14 +1161,6 @@
       "onboard_time": 1666072524,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69115,
-      "num": 69924,
-      "word": "10年间教资报考人数翻66倍",
-      "onboard_time": 1666086083,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 67643,
@@ -1344,6 +1392,14 @@
       "word": "老父亲15年为上万新娘化妆",
       "onboard_time": 1666011203,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35889,
+      "num": 128971,
+      "word": "刘秀祥走村劝学10年骑坏8辆摩托",
+      "onboard_time": 1666087221,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
