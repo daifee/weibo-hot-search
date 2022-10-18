@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666118389478,
+  "endTime": 1666119607046,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -28939,6 +28939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18374,
+      "num": 9715,
+      "word": "男子投喂白狐后被引见给同伴",
+      "onboard_time": 1666117451,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -29155,20 +29163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10706,
-      "num": 9715,
-      "word": "男子投喂白狐后被引见给同伴",
-      "onboard_time": 1666117451,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10343,
       "num": 1293614,
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 9689,
+      "word": "2022年丹麦羽毛球公开赛",
+      "onboard_time": 1666116853,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 10168,
@@ -29201,14 +29209,6 @@
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9672,
-      "num": 9689,
-      "word": "2022年丹麦羽毛球公开赛",
-      "onboard_time": 1666116853,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 9421,
