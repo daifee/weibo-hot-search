@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666082367362,
+  "endTime": 1666083645044,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384049,
+      "raw_hot": 1412752,
       "num": 125447,
       "word": "初二女生被高年级男生认亲叫小姨",
       "onboard_time": 1666077502,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489137,
+      "num": 114256,
+      "word": "日均千万人次收到购物车加满提示",
+      "onboard_time": 1666080501,
+      "rank": 7,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 471962,
       "num": 704271,
       "word": "到2035年我国发展的总体目标",
@@ -249,14 +257,6 @@
       "onboard_time": 1666011264,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369108,
-      "num": 114256,
-      "word": "日均千万人次收到购物车加满提示",
-      "onboard_time": 1666080501,
-      "rank": 7,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 364526,
@@ -355,19 +355,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293522,
+      "num": 119847,
+      "word": "这就是传说中的血脉压制",
+      "onboard_time": 1666077742,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283763,
       "num": 126685,
       "word": "逐渐变成家长信任的样子",
       "onboard_time": 1666071141,
       "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 279927,
-      "num": 119847,
-      "word": "这就是传说中的血脉压制",
-      "onboard_time": 1666077742,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199339,
+      "num": 109771,
+      "word": "苏贞昌确诊新冠",
+      "onboard_time": 1666082424,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198596,
       "num": 119224,
       "word": "喝酒前后不要吃布洛芬",
@@ -593,6 +601,14 @@
       "onboard_time": 1666059983,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167693,
+      "num": 109734,
+      "word": "这东西只有卖的人会玩",
+      "onboard_time": 1666081882,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 167520,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144961,
+      "num": 109645,
+      "word": "67岁大爷一个猛子救出溺水者",
+      "onboard_time": 1666081163,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 140192,
       "num": 140192,
       "word": "二十大报告这些话要牢记",
@@ -688,6 +712,22 @@
       "word": "10月16日新增本土无症状534例",
       "onboard_time": 1666036211,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139066,
+      "num": 115328,
+      "word": "二十大广西代表团讨论微镜头",
+      "onboard_time": 1666080982,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 139027,
+      "num": 109641,
+      "word": "塔克拉玛干沙漠出现众多湖泊",
+      "onboard_time": 1666082902,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -723,8 +763,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129980,
+      "num": 109630,
+      "word": "手机解锁方式哪种好",
+      "onboard_time": 1666082123,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 125588,
-      "num": 109470,
+      "num": 109612,
       "word": "研究表明拍照有助记住课件内容",
       "onboard_time": 1666079601,
       "rank": 49,
@@ -787,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112866,
+      "num": 109591,
+      "word": "澳门冠军赛国乒对阵选手出炉",
+      "onboard_time": 1666080863,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110319,
       "num": 110319,
       "word": "伊瓜因正式退役",
@@ -825,14 +881,6 @@
       "onboard_time": 1666065684,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98312,
-      "num": 98312,
-      "word": "67岁大爷一个猛子救出溺水者",
-      "onboard_time": 1666081163,
-      "rank": 33,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 97041,
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89498,
-      "num": 89498,
-      "word": "澳门冠军赛国乒对阵选手出炉",
-      "onboard_time": 1666080863,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89166,
       "num": 89166,
       "word": "中国首家元宇宙新闻与传播学院在南开推出",
@@ -897,6 +937,14 @@
       "onboard_time": 1666052305,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86414,
+      "num": 86414,
+      "word": "陪诊员遇白血病家庭大哭不忍收钱",
+      "onboard_time": 1666083203,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85407,
@@ -963,20 +1011,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73868,
+      "num": 73868,
+      "word": "写给十年后的自己",
+      "onboard_time": 1666080682,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73771,
       "num": 41974,
       "word": "女孩被卷入车底数十人抬车救人",
       "onboard_time": 1666015286,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73585,
-      "num": 73585,
-      "word": "这东西只有卖的人会玩",
-      "onboard_time": 1666081882,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 72907,
@@ -987,14 +1035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 72455,
-      "num": 72455,
-      "word": "手机解锁方式哪种好",
-      "onboard_time": 1666082123,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 71108,
       "num": 71108,
       "word": "WTT澳门冠军赛女单对阵出炉",
@@ -1003,28 +1043,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71094,
-      "num": 71094,
-      "word": "写给十年后的自己",
-      "onboard_time": 1666080682,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67684,
-      "num": 115328,
-      "word": "二十大广西代表团讨论微镜头",
-      "onboard_time": 1666080982,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 65251,
       "num": 65251,
       "word": "那些影视作品中的高燃画面",
       "onboard_time": 1666079243,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65045,
+      "num": 65045,
+      "word": "女子忘带钥匙呼叫家中小猫成功开门",
+      "onboard_time": 1666083501,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65012,
