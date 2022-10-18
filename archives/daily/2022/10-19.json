@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666128296584,
+  "endTime": 1666129369296,
   "band_list": [
     {
       "raw_hot": 504852,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49761,
+      "num": 11067,
+      "word": "南京鸭血粉丝汤将制定团体标准",
+      "onboard_time": 1666124351,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 48997,
       "num": 21022,
       "word": "狗子肉摊前连续作揖讨肉吃",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 44069,
-      "num": 9715,
+      "num": 11028,
       "word": "男子投喂白狐后被引见给同伴",
       "onboard_time": 1666117451,
       "rank": 43,
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37013,
-      "num": 7609,
-      "word": "南京鸭血粉丝汤将制定团体标准",
-      "onboard_time": 1666124351,
-      "rank": 43,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 35925,
       "num": 55329,
       "word": "数读二十大",
@@ -436,26 +436,42 @@
     },
     {
       "raw_hot": 35064,
-      "num": 7595,
+      "num": 11030,
       "word": "交警怒斥山寨救援公司7升油760元",
       "onboard_time": 1666119790,
       "rank": 18,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31821,
+      "num": 11044,
+      "word": "近七成老年人退休后再就业意愿强",
+      "onboard_time": 1666123690,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26034,
-      "num": 7568,
+      "num": 10980,
       "word": "男子找狗遇20多个萌娃帮寻4小时",
       "onboard_time": 1666122969,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22480,
-      "num": 7585,
-      "word": "近七成老年人退休后再就业意愿强",
-      "onboard_time": 1666123690,
-      "rank": 37,
+      "raw_hot": 14204,
+      "num": 10925,
+      "word": "男生穿回同学破校服让妈妈帮缝",
+      "onboard_time": 1666123749,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11131,
+      "num": 11131,
+      "word": "盘点中国超级工程里的世界之最",
+      "onboard_time": 1666125970,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -475,22 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7638,
-      "num": 7638,
-      "word": "盘点中国超级工程里的世界之最",
-      "onboard_time": 1666125970,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7329,
-      "num": 7508,
-      "word": "男生穿回同学破校服让妈妈帮缝",
-      "onboard_time": 1666123749,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7038,
       "num": 6767,
       "word": "沉浸式当人类幼崽",
@@ -507,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6236,
+      "raw_hot": 6830,
       "num": 7487,
       "word": "教练回应庞钰千世锦赛连夺4金",
       "onboard_time": 1666122071,
@@ -617,6 +617,38 @@
       "onboard_time": 1666125370,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4802,
+      "num": 4802,
+      "word": "早高峰挤地铁真的不容易",
+      "onboard_time": 1666128490,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 4217,
+      "num": 4217,
+      "word": "侯勇新剧台词爆发力",
+      "onboard_time": 1666128490,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4183,
+      "num": 4183,
+      "word": "受助学生毕业后支援藏区基层",
+      "onboard_time": 1666128551,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4099,
+      "num": 4099,
+      "word": "本泽马合照时忘记带金球",
+      "onboard_time": 1666128490,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
