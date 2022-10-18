@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 17:00:45
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/18 17:35:04
 </p>
 </blockquote>
 <p>
@@ -4689,6 +4689,12 @@ BLACKPINK世界巡演视觉预告海报（热度：524663）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E5%87%BA%E7%8E%B0%E4%BC%97%E5%A4%9A%E6%B9%96%E6%B3%8A%23" target="weibo">
+塔克拉玛干沙漠出现众多湖泊（热度：517881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6445%E4%BE%8B%23" target="weibo">
 内蒙古新增本土无症状445例（热度：517693）
 </a>
@@ -5451,6 +5457,12 @@ SuperM最新练习室（热度：477667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%8A%E5%91%98%E9%81%87%E7%99%BD%E8%A1%80%E7%97%85%E5%AE%B6%E5%BA%AD%E5%A4%A7%E5%93%AD%E4%B8%8D%E5%BF%8D%E6%94%B6%E9%92%B1%23" target="weibo">
+陪诊员遇白血病家庭大哭不忍收钱（热度：461217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9B%87%E4%B8%A4%E5%90%8D%E8%BD%BF%E5%A4%AB%E6%8A%AC%E5%93%88%E5%A3%AB%E5%A5%87%E7%88%AC%E5%B1%B1%23" target="weibo">
 女子雇两名轿夫抬哈士奇爬山（热度：460628）
 </a>
@@ -5999,18 +6011,6 @@ aespaSavage发行一周年（热度：437595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E6%A1%83%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%AF%E5%BE%88%E4%B8%93%E6%B3%A8%E7%9A%84%E6%BC%94%E5%91%98%23" target="weibo">
 殷桃说王俊凯是很专注的演员（热度：432405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E5%B9%B4%E5%90%8E%E6%89%8D%E6%98%8E%E7%99%BD%E7%9A%84%E9%81%93%E7%90%86%E5%90%97%23" target="weibo">
-你有多年后才明白的道理吗（热度：431820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%A4%E5%BF%83%E6%BC%94%E6%88%91%E5%98%B4%E7%A1%AC%23" target="weibo">
-没有学习的人不伤心演我嘴硬（热度：431265）
 </a>
 </li>
 
