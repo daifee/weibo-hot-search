@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666114915878,
+  "endTime": 1666115973308,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -3155,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30895,
+      "num": 21061,
+      "word": "减肥期间的PUA行为",
+      "onboard_time": 1666112895,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30557,
       "num": 30557,
       "word": "7位中国球员跻身wta前100",
@@ -3187,12 +3195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19221,
-      "num": 21061,
-      "word": "减肥期间的PUA行为",
-      "onboard_time": 1666112895,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 25169,
+      "num": 21022,
+      "word": "狗子肉摊前连续作揖讨肉吃",
+      "onboard_time": 1666114694,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17285,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1665835224,
       "rank": 12,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 16792,
-      "num": 21022,
-      "word": "狗子肉摊前连续作揖讨肉吃",
-      "onboard_time": 1666114694,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15007,

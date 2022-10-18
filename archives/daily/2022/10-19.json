@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666114915878,
+  "endTime": 1666115973308,
   "band_list": [
     {
       "raw_hot": 504852,
@@ -403,7 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19221,
+      "raw_hot": 30895,
       "num": 21061,
       "word": "减肥期间的PUA行为",
       "onboard_time": 1666112895,
@@ -411,7 +411,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16792,
+      "raw_hot": 25169,
       "num": 21022,
       "word": "狗子肉摊前连续作揖讨肉吃",
       "onboard_time": 1666114694,
