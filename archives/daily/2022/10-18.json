@@ -1,6 +1,6 @@
 {
   "startTime": 1666025146218,
-  "endTime": 1666063214547,
+  "endTime": 1666068894575,
   "band_list": [
     {
       "raw_hot": 1595521,
@@ -35,6 +35,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944289,
+      "num": 120932,
+      "word": "常生闷气的女性更容易乳腺增生",
+      "onboard_time": 1666063881,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933173,
+      "num": 138346,
+      "word": "苏州一地铁站因柿子成网红打卡点",
+      "onboard_time": 1666062381,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869222,
+      "num": 138050,
+      "word": "双十一淘宝支持全程价保",
+      "onboard_time": 1666065745,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 772278,
+      "num": 136553,
+      "word": "光遇",
+      "onboard_time": 1666065384,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 771850,
+      "num": 187622,
+      "word": "TaylorSwift将开启世界巡演",
+      "onboard_time": 1666062442,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 704857,
       "num": 218979,
       "word": "癌症疫苗2030年前或将问世",
@@ -67,11 +107,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478421,
+      "num": 130696,
+      "word": "这是史上最冤种的剧组吧",
+      "onboard_time": 1666066823,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471962,
-      "num": 641926,
+      "num": 704271,
       "word": "到2035年我国发展的总体目标",
       "onboard_time": 1666050923,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471906,
+      "num": 133267,
+      "word": "90后妈妈流利背出桃花源记震惊儿子",
+      "onboard_time": 1666064603,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -81,14 +137,6 @@
       "onboard_time": 1666059801,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387050,
-      "num": 187622,
-      "word": "TaylorSwift将开启世界巡演",
-      "onboard_time": 1666062442,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 382393,
@@ -171,12 +219,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 299820,
+      "num": 176517,
+      "word": "没想到长辈看小说比我还野",
+      "onboard_time": 1666061422,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273778,
       "num": 200419,
       "word": "新款iPadPro或周二发布",
       "onboard_time": 1666059382,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 273629,
+      "num": 125145,
+      "word": "头一次见下班游泳回家",
+      "onboard_time": 1666062981,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 255038,
+      "num": 318516,
+      "word": "这是9671.2万分之一的回答",
+      "onboard_time": 1666010604,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251741,
@@ -195,14 +267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 239289,
-      "num": 318516,
-      "word": "这是9671.2万分之一的回答",
-      "onboard_time": 1666010604,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238763,
       "num": 186136,
       "word": "蕾哈娜为黑豹2录制了两首新歌",
@@ -217,6 +281,14 @@
       "onboard_time": 1666028892,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232556,
+      "num": 122068,
+      "word": "南充18岁高中生世锦赛拿下2金",
+      "onboard_time": 1666067366,
+      "rank": 19,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 232053,
@@ -307,20 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176573,
+      "raw_hot": 186807,
       "num": 176573,
       "word": "济南建地铁太拼了",
       "onboard_time": 1666061722,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176517,
-      "num": 176517,
-      "word": "没想到长辈看小说比我还野",
-      "onboard_time": 1666061422,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 173441,
@@ -379,6 +443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 161445,
+      "num": 116200,
+      "word": "喝酒前后不要吃布洛芬",
+      "onboard_time": 1666067126,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161136,
       "num": 126525,
       "word": "恋爱真的很难吗",
@@ -427,11 +499,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140192,
+      "num": 140192,
+      "word": "二十大报告这些话要牢记",
+      "onboard_time": 1666060701,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "10月16日新增本土无症状534例",
       "onboard_time": 1666036211,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137701,
+      "num": 112455,
+      "word": "中国空间站年底前完成T字构型建造",
+      "onboard_time": 1666062862,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -459,12 +547,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126063,
+      "num": 108878,
+      "word": "恋爱脑发作有多可怕",
+      "onboard_time": 1666068324,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124324,
       "num": 122369,
       "word": "女儿第一次骑车上学爸爸偷偷护送",
       "onboard_time": 1666012164,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117829,
+      "num": 106573,
+      "word": "土豆院士说农民需要啥我们研究啥",
+      "onboard_time": 1666062981,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109327,
+      "num": 102999,
+      "word": "俄乌进行超200人规模换俘",
+      "onboard_time": 1666068445,
+      "rank": 37,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 108012,
@@ -491,11 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98129,
-      "num": 98129,
-      "word": "苏州一地铁站因柿子成网红打卡点",
-      "onboard_time": 1666062381,
-      "rank": 33,
+      "raw_hot": 105002,
+      "num": 127770,
+      "word": "中国人用舞蹈把敦煌壁画演活了",
+      "onboard_time": 1666065684,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -547,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82756,
+      "num": 96563,
+      "word": "依偎在一起的两只猫咪",
+      "onboard_time": 1666068744,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82593,
       "num": 82593,
       "word": "还记得为什么和前任分开吗",
@@ -571,12 +691,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78613,
-      "num": 78613,
-      "word": "中国空间站年底前完成T字构型建造",
-      "onboard_time": 1666062862,
-      "rank": 42,
+      "raw_hot": 78700,
+      "num": 95610,
+      "word": "山海情凌教授原型79岁仍在搞科研",
+      "onboard_time": 1666068084,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77823,
+      "num": 93689,
+      "word": "被动漫里的美食治愈到了",
+      "onboard_time": 1666065626,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 75775,
@@ -595,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74617,
-      "num": 74617,
-      "word": "头一次见下班游泳回家",
-      "onboard_time": 1666062981,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73771,
       "num": 41974,
       "word": "女孩被卷入车底数十人抬车救人",
@@ -617,14 +737,6 @@
       "onboard_time": 1666007660,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67087,
-      "num": 67087,
-      "word": "土豆院士说农民需要啥我们研究啥",
-      "onboard_time": 1666062981,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65012,

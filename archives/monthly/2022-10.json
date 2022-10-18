@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666063214547,
+  "endTime": 1666068894575,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2531,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944289,
+      "num": 120932,
+      "word": "常生闷气的女性更容易乳腺增生",
+      "onboard_time": 1666063881,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 943502,
       "num": 382096,
       "word": "10月14日新增900例本土无症状",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1665128183,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 933173,
+      "num": 138346,
+      "word": "苏州一地铁站因柿子成网红打卡点",
+      "onboard_time": 1666062381,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932511,
@@ -2857,6 +2873,14 @@
       "onboard_time": 1665456803,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 869222,
+      "num": 138050,
+      "word": "双十一淘宝支持全程价保",
+      "onboard_time": 1666065745,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 868800,
@@ -3433,6 +3457,14 @@
       "onboard_time": 1665230427,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 771850,
+      "num": 187622,
+      "word": "TaylorSwift将开启世界巡演",
+      "onboard_time": 1666062442,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 771337,
@@ -6739,6 +6771,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478421,
+      "num": 130696,
+      "word": "这是史上最冤种的剧组吧",
+      "onboard_time": 1666066823,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478135,
       "num": 361451,
       "word": "华春莹连发13张图宣传中国制造",
@@ -6900,10 +6940,18 @@
     },
     {
       "raw_hot": 471962,
-      "num": 641926,
+      "num": 704271,
       "word": "到2035年我国发展的总体目标",
       "onboard_time": 1666050923,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471906,
+      "num": 133267,
+      "word": "90后妈妈流利背出桃花源记震惊儿子",
+      "onboard_time": 1666064603,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9025,14 +9073,6 @@
       "onboard_time": 1665330263,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 387050,
-      "num": 187622,
-      "word": "TaylorSwift将开启世界巡演",
-      "onboard_time": 1666062442,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 386578,
@@ -11483,6 +11523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299820,
+      "num": 176517,
+      "word": "没想到长辈看小说比我还野",
+      "onboard_time": 1666061422,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299806,
       "num": 299806,
       "word": "ITZY舞台",
@@ -12457,6 +12505,14 @@
       "onboard_time": 1664701826,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 273629,
+      "num": 125145,
+      "word": "头一次见下班游泳回家",
+      "onboard_time": 1666062981,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 273536,
@@ -14497,6 +14553,14 @@
       "onboard_time": 1665542364,
       "rank": 19,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 232556,
+      "num": 122068,
+      "word": "南充18岁高中生世锦赛拿下2金",
+      "onboard_time": 1666067366,
+      "rank": 19,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 232531,
@@ -17219,6 +17283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186807,
+      "num": 176573,
+      "word": "济南建地铁太拼了",
+      "onboard_time": 1666061722,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186780,
       "num": 99825,
       "word": "王源新专辑筹备中",
@@ -17889,22 +17961,6 @@
       "onboard_time": 1665221365,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176573,
-      "num": 176573,
-      "word": "济南建地铁太拼了",
-      "onboard_time": 1666061722,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176517,
-      "num": 176517,
-      "word": "没想到长辈看小说比我还野",
-      "onboard_time": 1666061422,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 176057,
@@ -18832,6 +18888,14 @@
       "word": "00后大学生操场带妆唱戏引围观",
       "onboard_time": 1664760022,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161445,
+      "num": 116200,
+      "word": "喝酒前后不要吃布洛芬",
+      "onboard_time": 1666067126,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -20483,6 +20547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140192,
+      "num": 140192,
+      "word": "二十大报告这些话要牢记",
+      "onboard_time": 1666060701,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140177,
       "num": 140177,
       "word": "二十大报告这些提法引人关注",
@@ -20696,6 +20768,14 @@
       "word": "北京新增本土确诊13例",
       "onboard_time": 1665447864,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137701,
+      "num": 112455,
+      "word": "中国空间站年底前完成T字构型建造",
+      "onboard_time": 1666062862,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -21531,6 +21611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126063,
+      "num": 108878,
+      "word": "恋爱脑发作有多可怕",
+      "onboard_time": 1666068324,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126045,
       "num": 126045,
       "word": "周笔畅密逃4画风逐渐跑偏",
@@ -22169,6 +22257,14 @@
       "onboard_time": 1665059604,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 117829,
+      "num": 106573,
+      "word": "土豆院士说农民需要啥我们研究啥",
+      "onboard_time": 1666062981,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117764,
@@ -22851,6 +22947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109327,
+      "num": 102999,
+      "word": "俄乌进行超200人规模换俘",
+      "onboard_time": 1666068445,
+      "rank": 37,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 109130,
       "num": 109130,
       "word": "张彬彬眼神戏好宠溺",
@@ -23185,6 +23289,14 @@
       "onboard_time": 1664722825,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105002,
+      "num": 127770,
+      "word": "中国人用舞蹈把敦煌壁画演活了",
+      "onboard_time": 1666065684,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104926,
@@ -23737,14 +23849,6 @@
       "onboard_time": 1664975065,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98129,
-      "num": 98129,
-      "word": "苏州一地铁站因柿子成网红打卡点",
-      "onboard_time": 1666062381,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98068,
@@ -24867,6 +24971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82756,
+      "num": 96563,
+      "word": "依偎在一起的两只猫咪",
+      "onboard_time": 1666068744,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82748,
       "num": 82748,
       "word": "奥莫尼亚2比3曼联",
@@ -25139,11 +25251,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78613,
-      "num": 78613,
-      "word": "中国空间站年底前完成T字构型建造",
-      "onboard_time": 1666062862,
-      "rank": 42,
+      "raw_hot": 78700,
+      "num": 95610,
+      "word": "山海情凌教授原型79岁仍在搞科研",
+      "onboard_time": 1666068084,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -25209,6 +25321,14 @@
       "onboard_time": 1664707524,
       "rank": 42,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 77823,
+      "num": 93689,
+      "word": "被动漫里的美食治愈到了",
+      "onboard_time": 1666065626,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 77819,
@@ -25465,14 +25585,6 @@
       "onboard_time": 1666004484,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74617,
-      "num": 74617,
-      "word": "头一次见下班游泳回家",
-      "onboard_time": 1666062981,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 74398,
@@ -25904,14 +26016,6 @@
       "word": "值得收藏的50部纪录片",
       "onboard_time": 1665113904,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67087,
-      "num": 67087,
-      "word": "土豆院士说农民需要啥我们研究啥",
-      "onboard_time": 1666062981,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
