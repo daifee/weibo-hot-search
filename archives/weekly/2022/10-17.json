@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666119607046,
+  "endTime": 1666121321723,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -3139,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36425,
+      "num": 9715,
+      "word": "男子投喂白狐后被引见给同伴",
+      "onboard_time": 1666117451,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36185,
       "num": 36185,
       "word": "这是在培养飞行员吗",
@@ -3203,11 +3211,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18374,
-      "num": 9715,
-      "word": "男子投喂白狐后被引见给同伴",
-      "onboard_time": 1666117451,
-      "rank": 43,
+      "raw_hot": 17695,
+      "num": 7001,
+      "word": "交警怒斥山寨救援公司7升油760元",
+      "onboard_time": 1666119790,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3267,12 +3275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7898,
+      "num": 6782,
+      "word": "为什么本泽马越老越强",
+      "onboard_time": 1666119911,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7552,
       "num": 7552,
       "word": "国际友人给女儿改名菌草",
       "onboard_time": 1665886770,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7038,
+      "num": 6767,
+      "word": "沉浸式当人类幼崽",
+      "onboard_time": 1666120810,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 5998,
