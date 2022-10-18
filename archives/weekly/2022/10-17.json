@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666101853195,
+  "endTime": 1666102781665,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -67,6 +67,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1116169,
+      "num": 71829,
+      "word": "200斤男子为备婚减肥7个月瘦40斤",
+      "onboard_time": 1666095803,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111113,
       "num": 212956,
       "word": "讨厌香菜的人是受到遗传影响",
@@ -83,14 +91,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1071981,
-      "num": 71829,
-      "word": "200斤男子为备婚减肥7个月瘦40斤",
-      "onboard_time": 1666095803,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1067465,
       "num": 213098,
       "word": "清华硕士的社恐被大妈治愈了",
@@ -105,6 +105,14 @@
       "onboard_time": 1666053146,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015164,
+      "num": 71761,
+      "word": "Yagao确诊",
+      "onboard_time": 1666101204,
+      "rank": 11,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 989277,
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514161,
-      "num": 71761,
-      "word": "Yagao确诊",
-      "onboard_time": 1666101204,
-      "rank": 11,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 508099,
       "num": 86149,
       "word": "同单元楼上女孩跳舞楼下女子哄娃",
@@ -649,6 +649,14 @@
       "onboard_time": 1665975381,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 406587,
+      "num": 71594,
+      "word": "考研学生楼道里挑灯夜读",
+      "onboard_time": 1666101145,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 405821,
@@ -867,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331316,
+      "num": 71615,
+      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
+      "onboard_time": 1666099763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329634,
       "num": 154673,
       "word": "约2000名乌克兰士兵将赴法国培训",
@@ -889,6 +905,14 @@
       "onboard_time": 1665923723,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322744,
+      "num": 71739,
+      "word": "杭州一大学保安20年来默默资助学生",
+      "onboard_time": 1666098086,
+      "rank": 19,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 320225,
@@ -971,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306985,
+      "num": 71494,
+      "word": "付费自习室下沉县城",
+      "onboard_time": 1666101383,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 306186,
       "num": 181972,
       "word": "71岁老人摔倒高三学生跪地人工呼吸",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1665995961,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294702,
-      "num": 71739,
-      "word": "杭州一大学保安20年来默默资助学生",
-      "onboard_time": 1666098086,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 293522,
@@ -1243,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250754,
+      "num": 71642,
+      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
+      "onboard_time": 1666099945,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246081,
       "num": 206724,
       "word": "比亚迪预计前三季度净利润增近3倍",
@@ -1355,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229743,
+      "num": 71688,
+      "word": "韩德君抱急救箱冲进场内",
+      "onboard_time": 1666098144,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229084,
       "num": 229084,
       "word": "Uzi明凯再度同框",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1665999081,
       "rank": 45,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 228443,
+      "num": 71692,
+      "word": "努力的人不会被生活辜负",
+      "onboard_time": 1666099706,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 226571,
@@ -1451,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213341,
-      "num": 71692,
-      "word": "努力的人不会被生活辜负",
-      "onboard_time": 1666099706,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212585,
       "num": 78630,
       "word": "这样做的麻辣牛肉你爱了吗",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1666058842,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 210747,
-      "num": 71688,
-      "word": "韩德君抱急救箱冲进场内",
-      "onboard_time": 1666098144,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 210564,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1665993142,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201878,
-      "num": 71642,
-      "word": "狗狗偷吃垃圾桶洋葱致尿血被送医",
-      "onboard_time": 1666099945,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198596,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1666006521,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177109,
-      "num": 71615,
-      "word": "哥哥无法到场亲妹代替新郎娶嫂子",
-      "onboard_time": 1666099763,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176158,
@@ -1939,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149858,
+      "num": 67607,
+      "word": "辽宁男篮",
+      "onboard_time": 1666101985,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149485,
       "num": 187868,
       "word": "这就是养猫千日用猫一时",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1666088664,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142246,
-      "num": 71594,
-      "word": "考研学生楼道里挑灯夜读",
-      "onboard_time": 1666101145,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 141837,
@@ -2080,6 +2096,14 @@
       "word": "GEN晋级八强",
       "onboard_time": 1665962416,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136308,
+      "num": 71563,
+      "word": "中国战队全部晋级TI淘汰赛",
+      "onboard_time": 1666097244,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -2179,14 +2203,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 123515,
-      "num": 71563,
-      "word": "中国战队全部晋级TI淘汰赛",
-      "onboard_time": 1666097244,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122542,
       "num": 71432,
       "word": "中国女足U17vs西班牙女足U17",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1666016845,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119471,
+      "num": 71536,
+      "word": "八旬夫妻穿情侣装牵手散步",
+      "onboard_time": 1666099405,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119185,
@@ -2257,14 +2281,6 @@
       "onboard_time": 1666073842,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116889,
-      "num": 71536,
-      "word": "八旬夫妻穿情侣装牵手散步",
-      "onboard_time": 1666099405,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116633,
@@ -2401,14 +2417,6 @@
       "onboard_time": 1665904764,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102111,
-      "num": 71494,
-      "word": "付费自习室下沉县城",
-      "onboard_time": 1666101383,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 99423,
@@ -2561,6 +2569,14 @@
       "onboard_time": 1666018946,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86238,
+      "num": 67563,
+      "word": "电动车开了就回不去了吗",
+      "onboard_time": 1666102285,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 85700,
@@ -2729,6 +2745,14 @@
       "onboard_time": 1666095803,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69683,
+      "num": 67546,
+      "word": "如何释怀渐行渐远的友情",
+      "onboard_time": 1666102765,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 69125,
