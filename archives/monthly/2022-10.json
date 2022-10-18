@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666113032785,
+  "endTime": 1666114915878,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -28923,6 +28923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19221,
+      "num": 21061,
+      "word": "减肥期间的PUA行为",
+      "onboard_time": 1666112895,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -28945,6 +28953,14 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16792,
+      "num": 21022,
+      "word": "狗子肉摊前连续作揖讨肉吃",
+      "onboard_time": 1666114694,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16700,
