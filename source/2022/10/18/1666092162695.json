@@ -1,0 +1,410 @@
+{
+  "runTime": 1666092162695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 339368,
+        "num": 593276,
+        "word": "山西省委强调不能让国家为煤发愁",
+        "onboard_time": 1666091423,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212373,
+        "num": 212373,
+        "word": "党旗党徽的使用情形",
+        "onboard_time": 1666082003,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90866,
+        "num": 211396,
+        "word": "二十大广西代表团讨论微镜头",
+        "onboard_time": 1666080982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192787,
+        "num": 211314,
+        "word": "郭艾伦被停赛6场",
+        "onboard_time": 1666090824,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 759760,
+        "num": 210111,
+        "word": "初二女生被高年级男生认亲叫小姨",
+        "onboard_time": 1666077502,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631875,
+        "num": 209165,
+        "word": "塔克拉玛干沙漠出现众多湖泊",
+        "onboard_time": 1666082902,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491720,
+        "num": 207875,
+        "word": "7岁女孩商场遇海报神还原自己",
+        "onboard_time": 1666086923,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489070,
+        "num": 207102,
+        "word": "人均50实现平价泰餐自由",
+        "onboard_time": 1666086562,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424030,
+        "num": 205961,
+        "word": "网传黑莲花攻略手册出品方恒星引力",
+        "onboard_time": 1666084824,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312119,
+        "num": 204778,
+        "word": "陪诊员遇白血病家庭大哭不忍收钱",
+        "onboard_time": 1666083203,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500376,
+        "num": 203395,
+        "word": "王宝钏挖野菜是什么梗",
+        "onboard_time": 1666090343,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346062,
+        "num": 202906,
+        "word": "学生在老师毕设中发现8年前的自己",
+        "onboard_time": 1666087285,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 281516,
+        "num": 202239,
+        "word": "导盲犬带主人做核酸插队后自觉重排",
+        "onboard_time": 1666086683,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253663,
+        "num": 201023,
+        "word": "腾讯宝可梦共同申请游戏专利公布",
+        "onboard_time": 1666088785,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60743,
+        "num": 199695,
+        "word": "老人回应连续5年给热心女孩寄特产",
+        "onboard_time": 1666090883,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 224325,
+        "num": 198943,
+        "word": "原来小猫也会装痛",
+        "onboard_time": 1666085962,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223170,
+        "num": 197924,
+        "word": "浮图缘",
+        "onboard_time": 1666085604,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 196883,
+        "word": "党的二十大主席团第二次会议",
+        "onboard_time": 1666090404,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195199,
+        "num": 195816,
+        "word": "双十一淘宝支持全程价保",
+        "onboard_time": 1666065745,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 194827,
+        "num": 195282,
+        "word": "澳宣布不再承认西耶路撒冷为以色列首都",
+        "onboard_time": 1666072665,
+        "rank": 19,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 269996,
+        "num": 194218,
+        "word": "恋爱脑发作有多可怕",
+        "onboard_time": 1666068324,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236946,
+        "num": 192858,
+        "word": "钢铁侠将于复联6中再次出现",
+        "onboard_time": 1666074681,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189359,
+        "num": 192046,
+        "word": "女子忘带钥匙呼叫家中小猫成功开门",
+        "onboard_time": 1666083501,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164554,
+        "num": 191317,
+        "word": "常生闷气的女性更容易乳腺增生",
+        "onboard_time": 1666063881,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160916,
+        "num": 190335,
+        "word": "这东西只有卖的人会玩",
+        "onboard_time": 1666081882,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154456,
+        "num": 188519,
+        "word": "陈立农说女生需要宣泄口",
+        "onboard_time": 1666091064,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149485,
+        "num": 187868,
+        "word": "这就是养猫千日用猫一时",
+        "onboard_time": 1666087046,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152044,
+        "num": 187063,
+        "word": "心动的信号",
+        "onboard_time": 1666070664,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140199,
+        "num": 185401,
+        "word": "Uzi明凯再度同框",
+        "onboard_time": 1666091545,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 185205,
+        "word": "没想到摸鱼都摸出体系来了",
+        "onboard_time": 1666075402,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133924,
+        "num": 184036,
+        "word": "10年间教资报考人数翻66倍",
+        "onboard_time": 1666086083,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 118434,
+        "num": 182538,
+        "word": "到2035年我国发展的总体目标",
+        "onboard_time": 1666050923,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129264,
+        "num": 181972,
+        "word": "71岁老人摔倒高三学生跪地人工呼吸",
+        "onboard_time": 1666070303,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 181349,
+        "word": "张艺兴黄金瞳将11月日本播出",
+        "onboard_time": 1666078342,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 179386,
+        "word": "待播剧全网热度前十榜单",
+        "onboard_time": 1666070004,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124097,
+        "num": 179283,
+        "word": "这才是我想吃的披萨",
+        "onboard_time": 1666088664,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115149,
+        "num": 178260,
+        "word": "这是史上最冤种的剧组吧",
+        "onboard_time": 1666066823,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107625,
+        "num": 176382,
+        "word": "TaylorSwift将开启世界巡演",
+        "onboard_time": 1666062442,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106857,
+        "num": 176290,
+        "word": "女子赶海意外捡到大量罕见紫房蛤",
+        "onboard_time": 1666072221,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101066,
+        "num": 174650,
+        "word": "普拉提是懂有效塑形的",
+        "onboard_time": 1666084522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 173704,
+        "word": "俄乌进行超200人规模换俘",
+        "onboard_time": 1666068445,
+        "rank": 40,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 97732,
+        "num": 172424,
+        "word": "苏贞昌确诊新冠",
+        "onboard_time": 1666082424,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95263,
+        "num": 171516,
+        "word": "罗云熙追光者最新碎片日常剧照",
+        "onboard_time": 1666090763,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94009,
+        "num": 171125,
+        "word": "胶片复兴使柯达公司产量翻两番",
+        "onboard_time": 1666087943,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 92787,
+        "num": 170182,
+        "word": "逐渐变成家长信任的样子",
+        "onboard_time": 1666071141,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91073,
+        "num": 169021,
+        "word": "女子粉黛花海拍照遇丁达尔效应",
+        "onboard_time": 1666077561,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90740,
+        "num": 168266,
+        "word": "孙颖莎抽出梁靖崑vs林高远",
+        "onboard_time": 1666070484,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75981,
+        "num": 166585,
+        "word": "日均千万人次收到购物车加满提示",
+        "onboard_time": 1666080501,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 73723,
+        "num": 165962,
+        "word": "如何健康讲究地吃火锅",
+        "onboard_time": 1666087883,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70099,
+        "num": 165090,
+        "word": "苏州一地铁站因柿子成网红打卡点",
+        "onboard_time": 1666062381,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国之治书写新时代华章#"
+    }
+  }
+}
