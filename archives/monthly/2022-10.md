@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 22:53:28
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 23:30:41
 </p>
 </blockquote>
 <p>
@@ -1605,6 +1605,12 @@ RGE战胜TES（热度：1085972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%88%B1%E5%A5%87%E8%89%BA%E7%8B%AC%E6%92%AD%E5%89%A7%E7%83%AD%E5%BA%A6%E6%A6%9C%23" target="weibo">
+今年爱奇艺独播剧热度榜（热度：1072465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E6%BB%9E%E7%95%99%E6%B8%B8%E5%AE%A2%E6%98%8E%E5%B9%B4%E5%85%8D%E8%B4%B9%E6%B8%B8%E5%85%A8%E5%8E%BFA%E7%BA%A7%E6%99%AF%E5%8C%BA%23" target="weibo">
 凤凰古城滞留游客明年免费游全县A级景区（热度：1072091）
 </a>
@@ -2957,12 +2963,6 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23" target="weibo">
 二十大最新消息（热度：743050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%88%B1%E5%A5%87%E8%89%BA%E7%8B%AC%E6%92%AD%E5%89%A7%E7%83%AD%E5%BA%A6%E6%A6%9C%23" target="weibo">
-今年爱奇艺独播剧热度榜（热度：739342）
 </a>
 </li>
 

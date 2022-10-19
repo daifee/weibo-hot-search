@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666191208281,
+  "endTime": 1666193441091,
   "band_list": [
     {
       "raw_hot": 2057786,
@@ -73,6 +73,14 @@
       "onboard_time": 1666176746,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1072465,
+      "num": 650141,
+      "word": "今年爱奇艺独播剧热度榜",
+      "onboard_time": 1666190187,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 999605,
@@ -153,14 +161,6 @@
       "onboard_time": 1666180346,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 739342,
-      "num": 650141,
-      "word": "今年爱奇艺独播剧热度榜",
-      "onboard_time": 1666190187,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 717744,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224084,
+      "num": 519270,
+      "word": "89岁父亲忘记儿子去世每天寻找",
+      "onboard_time": 1666189285,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223711,
       "num": 558080,
       "word": "罗云熙吴倩新剧好紧张",
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170214,
+      "num": 527659,
+      "word": "谭松韵新剧演技",
+      "onboard_time": 1666189525,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170145,
       "num": 490999,
       "word": "山东男篮vs广东男篮",
@@ -1195,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139148,
-      "num": 527659,
-      "word": "谭松韵新剧演技",
-      "onboard_time": 1666189525,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133766,
       "num": 133766,
       "word": "谭松韵我们这十年李心遥明天见",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1666114694,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131725,
+      "num": 499413,
+      "word": "如果你不想被人打扰",
+      "onboard_time": 1666188627,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 130694,
@@ -1243,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127154,
-      "num": 519270,
-      "word": "89岁父亲忘记儿子去世每天寻找",
-      "onboard_time": 1666189285,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 126428,
+      "num": 427329,
+      "word": "富士康CEO称希望代工特斯拉",
+      "onboard_time": 1666192166,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 125862,
@@ -1259,12 +1275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121810,
-      "num": 499413,
-      "word": "如果你不想被人打扰",
-      "onboard_time": 1666188627,
-      "rank": 43,
-      "category": "幽默,情感"
+      "raw_hot": 125767,
+      "num": 420621,
+      "word": "西安即将诞生的全新的交通方式",
+      "onboard_time": 1666192765,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119964,
@@ -1451,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90245,
+      "num": 405404,
+      "word": "山东男篮加时战胜广东男篮",
+      "onboard_time": 1666191505,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88762,
       "num": 88762,
       "word": "用这9个字畅想未来",
@@ -1512,6 +1536,14 @@
       "word": "网传黑莲花攻略手册出品方恒星引力",
       "onboard_time": 1666084824,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76653,
+      "num": 373976,
+      "word": "还是觉得你最好票房破亿",
+      "onboard_time": 1666191265,
+      "rank": 41,
       "category": "影视"
     },
     {
