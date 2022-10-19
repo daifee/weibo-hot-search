@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666204941304,
+  "endTime": 1666206164815,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -4715,6 +4715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14656,
+      "num": 41026,
+      "word": "带女友回家家人收拾10余小时迎接",
+      "onboard_time": 1666204512,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14634,
       "num": 20148,
       "word": "收这车得让同行笑话三年",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1666119911,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14362,
+      "num": 42320,
+      "word": "女生被食堂大叔请客吃饭投喂水果",
+      "onboard_time": 1666204213,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13880,
@@ -4787,20 +4803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8734,
-      "num": 42320,
-      "word": "女生被食堂大叔请客吃饭投喂水果",
-      "onboard_time": 1666204213,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7761,
-      "num": 41026,
-      "word": "带女友回家家人收拾10余小时迎接",
-      "onboard_time": 1666204512,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 8336,
+      "num": 34281,
+      "word": "王宝钏商标已被抢注",
+      "onboard_time": 1666205532,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 7552,
@@ -4811,20 +4819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7336,
+      "num": 40199,
+      "word": "这简直是我的梦中情房",
+      "onboard_time": 1666204572,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 7038,
       "num": 6767,
       "word": "沉浸式当人类幼崽",
       "onboard_time": 1666120810,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 7003,
-      "num": 40199,
-      "word": "这简直是我的梦中情房",
-      "onboard_time": 1666204572,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 6944,
