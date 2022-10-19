@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666207822454,
+  "endTime": 1666208664202,
   "band_list": [
     {
       "raw_hot": 852526,
@@ -411,7 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22618,
+      "raw_hot": 26308,
+      "num": 41026,
+      "word": "带女友回家家人收拾10余小时迎接",
+      "onboard_time": 1666204512,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23635,
       "num": 42320,
       "word": "女生被食堂大叔请客吃饭投喂水果",
       "onboard_time": 1666204213,
@@ -419,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21992,
-      "num": 41026,
-      "word": "带女友回家家人收拾10余小时迎接",
-      "onboard_time": 1666204512,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 12878,
+      "num": 34281,
+      "word": "王宝钏商标已被抢注",
+      "onboard_time": 1666205532,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 12451,
@@ -433,14 +441,6 @@
       "onboard_time": 1666202053,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11997,
-      "num": 34281,
-      "word": "王宝钏商标已被抢注",
-      "onboard_time": 1666205532,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 11290,
@@ -459,6 +459,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 9649,
+      "num": 29397,
+      "word": "范佩西在世界杯上飞起来了",
+      "onboard_time": 1666207152,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8361,
       "num": 41398,
       "word": "谷爱凌获最佳女运动员表现奖",
@@ -475,11 +483,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7575,
-      "num": 29397,
-      "word": "范佩西在世界杯上飞起来了",
-      "onboard_time": 1666207152,
-      "rank": 47,
+      "raw_hot": 6623,
+      "num": 24864,
+      "word": "马拉多纳到底有多强",
+      "onboard_time": 1666208111,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -489,6 +497,14 @@
       "onboard_time": 1666207270,
       "rank": 49,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 6127,
+      "num": 24652,
+      "word": "朱婷与意大利斯坎迪奇签约一个赛季",
+      "onboard_time": 1666208172,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
