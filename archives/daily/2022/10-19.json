@@ -1,7 +1,15 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666170024140,
+  "endTime": 1666172123794,
   "band_list": [
+    {
+      "raw_hot": 1961609,
+      "num": 146787,
+      "word": "民警输错3次密码帮忙保住10多万",
+      "onboard_time": 1666168580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1856621,
       "num": 166179,
@@ -57,14 +65,6 @@
       "onboard_time": 1666149202,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 932805,
-      "num": 146787,
-      "word": "民警输错3次密码帮忙保住10多万",
-      "onboard_time": 1666168580,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867455,
@@ -275,6 +275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 412510,
+      "num": 116733,
+      "word": "林高远心态",
+      "onboard_time": 1666169662,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412117,
       "num": 139436,
       "word": "最高检谈昆山反杀案",
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387564,
+      "num": 140559,
+      "word": "小猫从6层楼高空坠落众人撑床单接住",
+      "onboard_time": 1666166841,
+      "rank": 15,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 380496,
       "num": 140644,
       "word": "为王宝钏重写结局",
       "onboard_time": 1666149263,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366521,
+      "num": 140071,
+      "word": "原来橘猫真的容易认错",
+      "onboard_time": 1666167743,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 357916,
@@ -427,28 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294848,
+      "num": 112040,
+      "word": "已经毕业了但还是害怕",
+      "onboard_time": 1666170562,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 294044,
       "num": 155475,
       "word": "王菲流年发行二十一周年",
       "onboard_time": 1666144459,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291229,
-      "num": 140559,
-      "word": "小猫从6层楼高空坠落众人撑床单接住",
-      "onboard_time": 1666166841,
-      "rank": 15,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 290685,
-      "num": 140071,
-      "word": "原来橘猫真的容易认错",
-      "onboard_time": 1666167743,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 288055,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225447,
+      "num": 127673,
+      "word": "黄柳霜成登上美国货币的首个亚裔",
+      "onboard_time": 1666168222,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 218981,
       "num": 122321,
       "word": "身骑白马改编自王宝钏薛平贵的爱情",
@@ -569,6 +593,14 @@
       "onboard_time": 1666159703,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 110819,
+      "word": "女生用30只笔做花束送医生",
+      "onboard_time": 1666170441,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207582,
@@ -643,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183732,
+      "num": 128767,
+      "word": "中东地区第一家大熊猫馆",
+      "onboard_time": 1666166302,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181852,
       "num": 123151,
       "word": "千年银杏夫妻树遇上金秋滤镜",
       "onboard_time": 1666155206,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 174782,
+      "num": 109525,
+      "word": "你考过的数学最低分是多少",
+      "onboard_time": 1666170803,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 173916,
@@ -699,6 +747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 158989,
+      "num": 126454,
+      "word": "生日当然要好好拍照记录啦",
+      "onboard_time": 1666166423,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157918,
       "num": 157918,
       "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
@@ -713,22 +769,6 @@
       "onboard_time": 1666097424,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 152684,
-      "num": 126454,
-      "word": "生日当然要好好拍照记录啦",
-      "onboard_time": 1666166423,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 150250,
-      "num": 128767,
-      "word": "中东地区第一家大熊猫馆",
-      "onboard_time": 1666166302,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149153,
@@ -753,14 +793,6 @@
       "onboard_time": 1666154425,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 146571,
-      "num": 127673,
-      "word": "黄柳霜成登上美国货币的首个亚裔",
-      "onboard_time": 1666168222,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 144911,
@@ -825,6 +857,14 @@
       "onboard_time": 1666095803,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121148,
+      "num": 106821,
+      "word": "让你逢人便推的高质量小说",
+      "onboard_time": 1666170144,
+      "rank": 31,
+      "category": "其它"
     },
     {
       "raw_hot": 119964,
@@ -931,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97501,
-      "num": 116733,
-      "word": "林高远心态",
-      "onboard_time": 1666169662,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96660,
       "num": 55264,
       "word": "陈哲远沈月我的反派男友泰国播出",
@@ -976,6 +1008,22 @@
       "word": "男生穿回同学破校服让妈妈帮缝",
       "onboard_time": 1666123749,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93032,
+      "num": 113858,
+      "word": "视障女孩手心倒水画圈苦练成咖啡师",
+      "onboard_time": 1666167803,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88762,
+      "num": 88762,
+      "word": "用这9个字畅想未来",
+      "onboard_time": 1666172002,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1019,12 +1067,12 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 79832,
-      "num": 113858,
-      "word": "视障女孩手心倒水画圈苦练成咖啡师",
-      "onboard_time": 1666167803,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 80154,
+      "num": 80154,
+      "word": "古装撑伞氛围感",
+      "onboard_time": 1666171643,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78306,
@@ -1067,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73927,
+      "num": 73927,
+      "word": "无头鱼池塘灵活游动存活7天",
+      "onboard_time": 1666171761,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69862,
       "num": 77879,
       "word": "消防员版腹部燃脂教程",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1666161141,
       "rank": 44,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 68692,
+      "num": 148331,
+      "word": "这些最深情的话语直抵人心",
+      "onboard_time": 1666169721,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 68489,
@@ -1243,12 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17547,
-      "num": 148331,
-      "word": "这些最深情的话语直抵人心",
-      "onboard_time": 1666169721,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 30459,
+      "num": 138799,
+      "word": "护士捐造血干细胞燃生命火种",
+      "onboard_time": 1666170022,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14573,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1666124411,
       "rank": 49,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 5015,
-      "num": 138799,
-      "word": "护士捐造血干细胞燃生命火种",
-      "onboard_time": 1666170022,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4948,
