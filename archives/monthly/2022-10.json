@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666178662487,
+  "endTime": 1666179720932,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -4235,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706161,
+      "num": 90952,
+      "word": "38人挤同一电梯发生故障全被困",
+      "onboard_time": 1666175724,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705311,
       "num": 705311,
       "word": "萧无敌南星结婚了",
@@ -4480,14 +4488,6 @@
       "word": "公司面试表问能否接受无偿加班",
       "onboard_time": 1665461664,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 683938,
-      "num": 90952,
-      "word": "38人挤同一电梯发生故障全被困",
-      "onboard_time": 1666175724,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6337,6 +6337,14 @@
       "onboard_time": 1665218183,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 532847,
+      "num": 97804,
+      "word": "背厚原来不是因为胖",
+      "onboard_time": 1666175123,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 532635,
@@ -8761,14 +8769,6 @@
       "onboard_time": 1665417383,
       "rank": 10,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 418189,
-      "num": 97804,
-      "word": "背厚原来不是因为胖",
-      "onboard_time": 1666175123,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 417573,
@@ -11361,6 +11361,14 @@
       "onboard_time": 1665928884,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329941,
+      "num": 86841,
+      "word": "苹果卖67元USB-C转换器被吐槽",
+      "onboard_time": 1666178124,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 329900,
@@ -15275,6 +15283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239198,
+      "num": 86853,
+      "word": "当茄子遇上鸡蛋",
+      "onboard_time": 1666176804,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 238960,
       "num": 238960,
       "word": "钱七虎院士已捐助584位贫困生",
@@ -16699,6 +16715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214344,
+      "num": 97756,
+      "word": "社死的一生从认错爸妈开始",
+      "onboard_time": 1666175244,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214342,
       "num": 118959,
       "word": "詹姆斯31分14篮板",
@@ -17049,14 +17073,6 @@
       "onboard_time": 1665107063,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207214,
-      "num": 97756,
-      "word": "社死的一生从认错爸妈开始",
-      "onboard_time": 1666175244,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 207205,
@@ -18737,14 +18753,6 @@
       "onboard_time": 1665174070,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183472,
-      "num": 86853,
-      "word": "当茄子遇上鸡蛋",
-      "onboard_time": 1666176804,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 183387,
@@ -20779,6 +20787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153873,
+      "num": 86837,
+      "word": "研究发现黑洞饭后会打嗝",
+      "onboard_time": 1666177705,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153797,
       "num": 288406,
       "word": "沙漠里走出个航母女兵",
@@ -21864,6 +21880,14 @@
       "word": "努力搓球球的小螃蟹",
       "onboard_time": 1665054626,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141474,
+      "num": 90803,
+      "word": "原来这就是社交魅力学",
+      "onboard_time": 1666176146,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -23115,14 +23139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125875,
-      "num": 90803,
-      "word": "原来这就是社交魅力学",
-      "onboard_time": 1666176146,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125843,
       "num": 125843,
       "word": "炽道罗娜帮小兰花拿捏云中君",
@@ -24235,6 +24251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112673,
+      "num": 86834,
+      "word": "被女生之间的善意感动到了",
+      "onboard_time": 1666178244,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112561,
       "num": 112561,
       "word": "辽宁凌源发现一例核酸检测阳性",
@@ -24713,6 +24737,14 @@
       "onboard_time": 1665019763,
       "rank": 39,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 107621,
+      "num": 79702,
+      "word": "马龙vs宇田幸矢",
+      "onboard_time": 1666179626,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 107575,
@@ -25433,14 +25465,6 @@
       "onboard_time": 1665050964,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98627,
-      "num": 86841,
-      "word": "苹果卖67元USB-C转换器被吐槽",
-      "onboard_time": 1666178124,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 98564,
@@ -26185,14 +26209,6 @@
       "onboard_time": 1664925977,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88909,
-      "num": 86837,
-      "word": "研究发现黑洞饭后会打嗝",
-      "onboard_time": 1666177705,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 88890,
@@ -27171,14 +27187,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 76187,
-      "num": 86834,
-      "word": "被女生之间的善意感动到了",
-      "onboard_time": 1666178244,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76172,
       "num": 1289458,
       "word": "太空视角俯瞰祖国大江南北",
@@ -27651,6 +27659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69848,
+      "num": 79623,
+      "word": "猫啃坏3条数据线女子买串珠防护",
+      "onboard_time": 1666179385,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69783,
       "num": 69783,
       "word": "原来狂野是可以遗传的",
@@ -27985,6 +28001,14 @@
       "onboard_time": 1665504083,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65773,
+      "num": 79609,
+      "word": "为什么说情绪价值重要",
+      "onboard_time": 1666179323,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 65614,
@@ -28465,6 +28489,14 @@
       "onboard_time": 1665111623,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59179,
+      "num": 79590,
+      "word": "全职猎人连载再开彩页",
+      "onboard_time": 1666179685,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 59097,
@@ -29331,6 +29363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 42352,
+      "num": 86859,
+      "word": "巩立姣说差点和奥运金牌擦肩而过",
+      "onboard_time": 1666177284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42136,
       "num": 42136,
       "word": "当猫咪看到主人回家",
@@ -29721,14 +29761,6 @@
       "onboard_time": 1665675925,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32861,
-      "num": 86859,
-      "word": "巩立姣说差点和奥运金牌擦肩而过",
-      "onboard_time": 1666177284,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32401,
