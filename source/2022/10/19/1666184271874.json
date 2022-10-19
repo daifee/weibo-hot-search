@@ -1,0 +1,410 @@
+{
+  "runTime": 1666184271874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139965,
+        "num": 579880,
+        "word": "中国共产党国际形象网宣片CPC",
+        "onboard_time": 1666139186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77232,
+        "num": 77232,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12387,
+        "num": 12387,
+        "word": "巩立姣说差点和奥运金牌擦肩而过",
+        "onboard_time": 1666177284,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291393,
+        "num": 12386,
+        "word": "女生校内晕倒2流浪狗舔鼻唤醒",
+        "onboard_time": 1666179866,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775902,
+        "num": 12380,
+        "word": "民警输错3次密码帮忙保住10多万",
+        "onboard_time": 1666168580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717445,
+        "num": 12379,
+        "word": "单身了很久的人在想什么",
+        "onboard_time": 1666180346,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560326,
+        "num": 12377,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1666176746,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 496087,
+        "num": 12371,
+        "word": "真的会被龙葵射箭帅到",
+        "onboard_time": 1666181004,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398620,
+        "num": 12371,
+        "word": "谷爱凌获最佳女运动员表现奖",
+        "onboard_time": 1666181665,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362975,
+        "num": 12364,
+        "word": "38人挤同一电梯发生故障全被困",
+        "onboard_time": 1666175724,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41624,
+        "num": 12361,
+        "word": "这些最深情的话语直抵人心",
+        "onboard_time": 1666169721,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 719255,
+        "num": 12360,
+        "word": "普京宣布决定在顿涅茨克等四地实施战时状态",
+        "onboard_time": 1666183164,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 393845,
+        "num": 12355,
+        "word": "没想到何以琛这么恋爱脑",
+        "onboard_time": 1666183465,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308696,
+        "num": 12353,
+        "word": "猫啃坏3条数据线女子买串珠防护",
+        "onboard_time": 1666179385,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248645,
+        "num": 12351,
+        "word": "孕妇7个月大出血4个派出所生命接力",
+        "onboard_time": 1666180885,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308398,
+        "num": 12345,
+        "word": "网友总结当红女星的代表角色",
+        "onboard_time": 1666182685,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305238,
+        "num": 12343,
+        "word": "马龙vs宇田幸矢",
+        "onboard_time": 1666179626,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243633,
+        "num": 12341,
+        "word": "背厚原来不是因为胖",
+        "onboard_time": 1666175123,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225284,
+        "num": 12337,
+        "word": "为什么说情绪价值重要",
+        "onboard_time": 1666179323,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211476,
+        "num": 12336,
+        "word": "当茄子遇上鸡蛋",
+        "onboard_time": 1666176804,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 706205,
+        "num": 12333,
+        "word": "难哄",
+        "onboard_time": 1666176563,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273095,
+        "num": 12326,
+        "word": "苹果卖67元USB-C转换器被吐槽",
+        "onboard_time": 1666178124,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203578,
+        "num": 12326,
+        "word": "研究发现黑洞饭后会打嗝",
+        "onboard_time": 1666177705,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 12320,
+        "word": "女生用30只笔做花束送医生",
+        "onboard_time": 1666170441,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205846,
+        "num": 12319,
+        "word": "iPad10粉色",
+        "onboard_time": 1666147701,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148226,
+        "num": 12317,
+        "word": "女生求职碰壁遇HR帮改简历",
+        "onboard_time": 1666182805,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142140,
+        "num": 12313,
+        "word": "已经毕业了但还是害怕",
+        "onboard_time": 1666170562,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 139974,
+        "num": 12308,
+        "word": "社死的一生从认错爸妈开始",
+        "onboard_time": 1666175244,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126741,
+        "num": 12307,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121439,
+        "num": 12302,
+        "word": "马龙3比1宇田幸矢",
+        "onboard_time": 1666181665,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120482,
+        "num": 12298,
+        "word": "4岁女童画作被父亲再创后大卖",
+        "onboard_time": 1666163242,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118122,
+        "num": 12296,
+        "word": "山东男篮vs广东男篮",
+        "onboard_time": 1666182325,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115522,
+        "num": 12292,
+        "word": "掌握了买水果好吃的秘诀",
+        "onboard_time": 1666181062,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111728,
+        "num": 12290,
+        "word": "古装撑伞氛围感",
+        "onboard_time": 1666171643,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102205,
+        "num": 12287,
+        "word": "199爱",
+        "onboard_time": 1666172179,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101005,
+        "num": 12284,
+        "word": "被女生之间的善意感动到了",
+        "onboard_time": 1666178244,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95659,
+        "num": 12282,
+        "word": "芋圆cp上线合体发糖",
+        "onboard_time": 1666174464,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93864,
+        "num": 12279,
+        "word": "罗本主动表白展颜",
+        "onboard_time": 1666182025,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90653,
+        "num": 12272,
+        "word": "AI预测S12冠军",
+        "onboard_time": 1666162222,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88049,
+        "num": 12269,
+        "word": "小猫从6层楼高空坠落众人撑床单接住",
+        "onboard_time": 1666166841,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84948,
+        "num": 12268,
+        "word": "你考过的数学最低分是多少",
+        "onboard_time": 1666170803,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82631,
+        "num": 12264,
+        "word": "周杰伦歌词的最后一句充满了遗憾",
+        "onboard_time": 1666147942,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78969,
+        "num": 12260,
+        "word": "原来橘猫真的容易认错",
+        "onboard_time": 1666167743,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74379,
+        "num": 12258,
+        "word": "有点担心出题人的精神状态了",
+        "onboard_time": 1666172241,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73617,
+        "num": 12255,
+        "word": "俄特别军事行动总指挥首次对媒体发声",
+        "onboard_time": 1666151122,
+        "rank": 44,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 68388,
+        "num": 12251,
+        "word": "谭松韵翟子路新剧开播",
+        "onboard_time": 1666162401,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66029,
+        "num": 12249,
+        "word": "让你逢人便推的高质量小说",
+        "onboard_time": 1666170144,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 66000,
+        "num": 12244,
+        "word": "林高远心态",
+        "onboard_time": 1666169662,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64987,
+        "num": 12242,
+        "word": "18岁女孩射击夺冠一摸枪气场就变",
+        "onboard_time": 1666173324,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 63048,
+        "num": 12238,
+        "word": "焦虑时你会对自己说什么",
+        "onboard_time": 1666184125,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
