@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 17:52:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 18:34:23
 </p>
 </blockquote>
 <p>
@@ -2379,6 +2379,12 @@ iPad全线大涨价（热度：851616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E6%AF%95%E4%B8%9A%E4%BA%86%E4%BD%86%E8%BF%98%E6%98%AF%E5%AE%B3%E6%80%95%23" target="weibo">
+已经毕业了但还是害怕（热度：846720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E7%B1%BB%E4%BA%BA%E7%BE%A4%E4%B8%8D%E9%80%82%E5%90%88%E7%A7%8B%E5%86%BB%23" target="weibo">
 3类人群不适合秋冻（热度：842438）
 </a>
@@ -3699,6 +3705,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%80%83%E8%BF%87%E7%9A%84%E6%95%B0%E5%AD%A6%E6%9C%80%E4%BD%8E%E5%88%86%E6%98%AF%E5%A4%9A%E5%B0%91%23" target="weibo">
+你考过的数学最低分是多少（热度：644921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%8E%8C%E5%AD%A6%E7%94%B7%E5%AD%A9%E5%B7%A5%E5%9C%B0%E6%90%AC%E9%92%A2%E7%AD%8B%23" target="weibo">
 爸爸带厌学男孩工地搬钢筋（热度：644470）
 </a>
@@ -4581,6 +4593,12 @@ iPod之父支持iPhone改用C口（热度：552071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23199%E7%88%B1%23" target="weibo">
+199爱（热度：547394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%9B%AD%E6%83%8A%E7%8E%B0%E7%A6%8F%E5%AF%BF%E8%9E%BA%E7%AB%9F%E5%9B%A0%E5%B8%82%E6%B0%91%E6%94%BE%E7%94%9F%E7%A5%88%E7%A6%8F%23" target="weibo">
 荷园惊现福寿螺竟因市民放生祈福（热度：547094）
 </a>
@@ -4835,6 +4853,12 @@ BLACKPINK世界巡演视觉预告海报（热度：524663）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E5%85%B6%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%23" target="weibo">
 朝鲜称其导弹发射针对美国（热度：523465）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%94%A830%E5%8F%AA%E7%AC%94%E5%81%9A%E8%8A%B1%E6%9D%9F%E9%80%81%E5%8C%BB%E7%94%9F%23" target="weibo">
+女生用30只笔做花束送医生（热度：522403）
 </a>
 </li>
 
@@ -5321,12 +5345,6 @@ LGD（热度：496178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%94%BB%E4%BD%9C%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%86%8D%E5%88%9B%E5%90%8E%E5%A4%A7%E5%8D%96%23" target="weibo">
 4岁女童画作被父亲再创后大卖（热度：484435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E6%AF%95%E4%B8%9A%E4%BA%86%E4%BD%86%E8%BF%98%E6%98%AF%E5%AE%B3%E6%80%95%23" target="weibo">
-已经毕业了但还是害怕（热度：484188）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ AG（热度：450461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23V%E7%A4%BE%E5%A4%84%E7%BD%9ALGD%23" target="weibo">
 V社处罚LGD（热度：449534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%BB%BA%E5%86%9B%E8%8A%82%E5%AE%A3%E4%BC%A0%E7%89%87%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%9B%BD%E8%A3%85%E7%94%B2%E8%BD%A6%23" target="weibo">
-韩国建军节宣传片出现中国装甲车（热度：448890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%88%B7%E7%A7%B0%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%90%8D%E5%8D%95%23" target="weibo">
-水爷称自己上了乌克兰的死亡名单（热度：448051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%87%92%E4%BA%BA%E7%98%A6%E8%85%BF%E7%9C%9F%E7%9A%84%E5%BE%88%E7%AE%80%E5%8D%95%23" target="weibo">
-懒人瘦腿真的很简单（热度：447969）
 </a>
 </li>
 

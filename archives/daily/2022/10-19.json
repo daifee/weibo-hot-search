@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666173160754,
+  "endTime": 1666175663669,
   "band_list": [
     {
       "raw_hot": 2057786,
@@ -83,6 +83,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 846720,
+      "num": 112040,
+      "word": "已经毕业了但还是害怕",
+      "onboard_time": 1666170562,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 803914,
       "num": 162603,
       "word": "陈浩民回应王宝钏挖野菜",
@@ -97,6 +105,14 @@
       "onboard_time": 1666134496,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 644921,
+      "num": 110262,
+      "word": "你考过的数学最低分是多少",
+      "onboard_time": 1666170803,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 632962,
@@ -131,6 +147,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 547394,
+      "num": 110233,
+      "word": "199爱",
+      "onboard_time": 1666172179,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544897,
       "num": 156247,
       "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
@@ -161,6 +185,14 @@
       "onboard_time": 1666150821,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 522403,
+      "num": 110819,
+      "word": "女生用30只笔做花束送医生",
+      "onboard_time": 1666170441,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510053,
@@ -201,14 +233,6 @@
       "onboard_time": 1666163242,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484188,
-      "num": 112040,
-      "word": "已经毕业了但还是害怕",
-      "onboard_time": 1666170562,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 468462,
@@ -459,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297117,
-      "num": 110819,
-      "word": "女生用30只笔做花束送医生",
-      "onboard_time": 1666170441,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294044,
       "num": 155475,
       "word": "王菲流年发行二十一周年",
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287331,
-      "num": 110262,
-      "word": "你考过的数学最低分是多少",
-      "onboard_time": 1666170803,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 285122,
       "num": 167222,
       "word": "女孩弯腰28次清理超载货车落石",
@@ -499,11 +507,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278314,
+      "num": 110202,
+      "word": "有点担心出题人的精神状态了",
+      "onboard_time": 1666172241,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276307,
       "num": 136286,
       "word": "当外国女星遇上中国旗袍",
       "onboard_time": 1666162583,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274949,
+      "num": 110230,
+      "word": "古装撑伞氛围感",
+      "onboard_time": 1666171643,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -553,6 +577,14 @@
       "onboard_time": 1666148361,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242287,
+      "num": 97816,
+      "word": "芋圆cp上线合体发糖",
+      "onboard_time": 1666174464,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 241540,
@@ -619,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202752,
+      "num": 97804,
+      "word": "背厚原来不是因为胖",
+      "onboard_time": 1666175123,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201911,
       "num": 55320,
       "word": "一定要吃的一碗土豆焖面",
@@ -633,6 +673,14 @@
       "onboard_time": 1666164982,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200817,
+      "num": 110168,
+      "word": "这是种很新的简历写法",
+      "onboard_time": 1666172179,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 196411,
@@ -683,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184257,
-      "num": 110233,
-      "word": "199爱",
-      "onboard_time": 1666172179,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183732,
       "num": 128767,
       "word": "中东地区第一家大熊猫馆",
@@ -699,20 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182928,
+      "num": 110190,
+      "word": "小青蛙是怎么来的",
+      "onboard_time": 1666172484,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182641,
+      "num": 97799,
+      "word": "18岁女孩射击夺冠一摸枪气场就变",
+      "onboard_time": 1666173324,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 181852,
       "num": 123151,
       "word": "千年银杏夫妻树遇上金秋滤镜",
       "onboard_time": 1666155206,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 175230,
-      "num": 110230,
-      "word": "古装撑伞氛围感",
-      "onboard_time": 1666171643,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173916,
@@ -737,6 +785,14 @@
       "onboard_time": 1666125970,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170033,
+      "num": 97788,
+      "word": "张艺兴大航海2巡演新加坡站预告",
+      "onboard_time": 1666175004,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 168518,
@@ -811,6 +867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 147106,
+      "num": 110181,
+      "word": "让你逢人便推的高质量小说",
+      "onboard_time": 1666170144,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 144911,
       "num": 117350,
       "word": "罗云熙说救人面前工作可以往后稍",
@@ -833,14 +897,6 @@
       "onboard_time": 1666093223,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140516,
-      "num": 110202,
-      "word": "有点担心出题人的精神状态了",
-      "onboard_time": 1666172241,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 133766,
@@ -867,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130640,
-      "num": 110190,
-      "word": "小青蛙是怎么来的",
-      "onboard_time": 1666172484,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130572,
       "num": 108419,
       "word": "86岁爷爷4本日记记录孙女成长",
@@ -889,14 +937,6 @@
       "onboard_time": 1666095803,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124712,
-      "num": 110181,
-      "word": "让你逢人便推的高质量小说",
-      "onboard_time": 1666170144,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 119964,
@@ -921,14 +961,6 @@
       "onboard_time": 1666156885,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117497,
-      "num": 110168,
-      "word": "这是种很新的简历写法",
-      "onboard_time": 1666172179,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 117066,
@@ -1043,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95353,
+      "num": 97759,
+      "word": "199爱人物介绍",
+      "onboard_time": 1666174884,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93963,
       "num": 93963,
       "word": "哈登首节16分",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1666123749,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91651,
+      "num": 97756,
+      "word": "社死的一生从认错爸妈开始",
+      "onboard_time": 1666175244,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 88762,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1666101985,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52527,
+      "num": 97821,
+      "word": "数十名车主移动围挡为消防车开路",
+      "onboard_time": 1666173625,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48933,
