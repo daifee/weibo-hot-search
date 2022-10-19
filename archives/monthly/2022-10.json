@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666155431362,
+  "endTime": 1666156286048,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -5707,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569715,
+      "num": 140795,
+      "word": "中国成为世界最安全国家之一",
+      "onboard_time": 1666152684,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568816,
       "num": 255207,
       "word": "学生在老师毕设中发现8年前的自己",
@@ -6168,14 +6176,6 @@
       "word": "北京五道口购物中心今日暂停营业",
       "onboard_time": 1665196941,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539699,
-      "num": 140795,
-      "word": "中国成为世界最安全国家之一",
-      "onboard_time": 1666152684,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8659,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417392,
+      "num": 141469,
+      "word": "被夸奖时这么回应就对了",
+      "onboard_time": 1666151482,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 417142,
       "num": 417142,
       "word": "苏炳添再次起诉新东方子公司侵权",
@@ -8779,6 +8787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 414326,
+      "num": 139852,
+      "word": "为什么iPad没有计算器",
+      "onboard_time": 1666152924,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 413965,
       "num": 413965,
       "word": "纸片人竟是我自己",
@@ -8817,6 +8833,14 @@
       "onboard_time": 1665275544,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 412117,
+      "num": 139436,
+      "word": "最高检谈昆山反杀案",
+      "onboard_time": 1666153524,
+      "rank": 21,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 411953,
@@ -9987,14 +10011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369042,
-      "num": 139436,
-      "word": "最高检谈昆山反杀案",
-      "onboard_time": 1666153524,
-      "rank": 21,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 368917,
       "num": 368917,
       "word": "EDG",
@@ -10073,14 +10089,6 @@
       "onboard_time": 1665192982,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367259,
-      "num": 139852,
-      "word": "为什么iPad没有计算器",
-      "onboard_time": 1666152924,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 367173,
@@ -10441,14 +10449,6 @@
       "onboard_time": 1665215843,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352829,
-      "num": 141469,
-      "word": "被夸奖时这么回应就对了",
-      "onboard_time": 1666151482,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 352294,
@@ -11659,6 +11659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314130,
+      "num": 139221,
+      "word": "苹果公司削减iPhone14Plus产量",
+      "onboard_time": 1666152324,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 313917,
       "num": 152974,
       "word": "调查称北溪管道泄漏事故为强烈爆炸所致",
@@ -11873,14 +11881,6 @@
       "onboard_time": 1666021462,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307302,
-      "num": 139221,
-      "word": "苹果公司削减iPhone14Plus产量",
-      "onboard_time": 1666152324,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 307295,
@@ -14587,6 +14587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248847,
+      "num": 139713,
+      "word": "双十一首次支持多地址合并下单",
+      "onboard_time": 1666151423,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 248691,
       "num": 248691,
       "word": "S12小组赛开赛",
@@ -15281,14 +15289,6 @@
       "onboard_time": 1664766861,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 232683,
-      "num": 139713,
-      "word": "双十一首次支持多地址合并下单",
-      "onboard_time": 1666151423,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 232625,
@@ -19307,6 +19307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169359,
+      "num": 123476,
+      "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
+      "onboard_time": 1666154903,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169358,
       "num": 132327,
       "word": "央视重阳晚会",
@@ -19361,6 +19369,14 @@
       "onboard_time": 1665155668,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168518,
+      "num": 138384,
+      "word": "来猫咪家串门的小狗",
+      "onboard_time": 1666153703,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168447,
@@ -19441,6 +19457,14 @@
       "onboard_time": 1665208463,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166831,
+      "num": 137795,
+      "word": "小朋友对于朋友的定义",
+      "onboard_time": 1666154186,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 166734,
@@ -20561,14 +20585,6 @@
       "onboard_time": 1665174670,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151583,
-      "num": 138384,
-      "word": "来猫咪家串门的小狗",
-      "onboard_time": 1666153703,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 151473,
@@ -21771,14 +21787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137795,
-      "num": 137795,
-      "word": "小朋友对于朋友的定义",
-      "onboard_time": 1666154186,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "北京新增本土确诊13例",
@@ -22939,6 +22947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123151,
+      "num": 123151,
+      "word": "千年银杏夫妻树遇上金秋滤镜",
+      "onboard_time": 1666155206,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 123134,
       "num": 112679,
       "word": "殷桃无声哭戏演绎最克制的痛苦",
@@ -23393,6 +23409,14 @@
       "onboard_time": 1666073842,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117740,
+      "num": 142733,
+      "word": "二十大报告中这些举措关乎你我",
+      "onboard_time": 1666154425,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 117722,
@@ -24577,14 +24601,6 @@
       "onboard_time": 1664881163,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103206,
-      "num": 103206,
-      "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
-      "onboard_time": 1666154903,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102967,
@@ -26211,6 +26227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83286,
+      "num": 83286,
+      "word": "原来医学生看病真的会显示",
+      "onboard_time": 1666156165,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83252,
       "num": 83252,
       "word": "樊振东3比0户上隼辅",
@@ -26305,6 +26329,14 @@
       "onboard_time": 1665477084,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82182,
+      "num": 82182,
+      "word": "库里三分",
+      "onboard_time": 1666156045,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 81986,
@@ -26425,14 +26457,6 @@
       "onboard_time": 1665292285,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 79881,
-      "num": 79881,
-      "word": "千年银杏夫妻树遇上金秋滤镜",
-      "onboard_time": 1666155206,
-      "rank": 47,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 79701,
@@ -26849,6 +26873,14 @@
       "onboard_time": 1666004484,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74474,
+      "num": 74474,
+      "word": "10月20日众泰汽车将复产",
+      "onboard_time": 1666155984,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 74398,
@@ -27401,14 +27433,6 @@
       "onboard_time": 1664838496,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66364,
-      "num": 142733,
-      "word": "二十大报告中这些举措关乎你我",
-      "onboard_time": 1666154425,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 66331,
