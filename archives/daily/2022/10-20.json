@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666206164815,
+  "endTime": 1666207822454,
   "band_list": [
     {
       "raw_hot": 852526,
@@ -411,19 +411,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14656,
-      "num": 41026,
-      "word": "带女友回家家人收拾10余小时迎接",
-      "onboard_time": 1666204512,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14362,
+      "raw_hot": 22618,
       "num": 42320,
       "word": "女生被食堂大叔请客吃饭投喂水果",
       "onboard_time": 1666204213,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21992,
+      "num": 41026,
+      "word": "带女友回家家人收拾10余小时迎接",
+      "onboard_time": 1666204512,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1666202053,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11997,
+      "num": 34281,
+      "word": "王宝钏商标已被抢注",
+      "onboard_time": 1666205532,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 11290,
@@ -459,20 +467,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8336,
-      "num": 34281,
-      "word": "王宝钏商标已被抢注",
-      "onboard_time": 1666205532,
-      "rank": 48,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 7336,
+      "raw_hot": 8024,
       "num": 40199,
       "word": "这简直是我的梦中情房",
       "onboard_time": 1666204572,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7575,
+      "num": 29397,
+      "word": "范佩西在世界杯上飞起来了",
+      "onboard_time": 1666207152,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6553,
+      "num": 28720,
+      "word": "大学保安17年资助6名学生",
+      "onboard_time": 1666207270,
+      "rank": 49,
+      "category": "社会正能量,教育"
     }
   ],
   "hotgov_list": [
