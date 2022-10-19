@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666146714505,
+  "endTime": 1666149425010,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -17,6 +17,14 @@
       "onboard_time": 1665972503,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1538220,
+      "num": 160116,
+      "word": "iPad10粉色",
+      "onboard_time": 1666147701,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1463295,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 867455,
-      "num": 117070,
+      "num": 159793,
       "word": "夫妻用苹果给女儿做薯条汉堡套餐",
       "onboard_time": 1666140266,
       "rank": 3,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 851616,
-      "num": 113983,
+      "num": 156729,
       "word": "iPad全线大涨价",
       "onboard_time": 1666138466,
       "rank": 10,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 543297,
-      "num": 104518,
+      "num": 135521,
       "word": "全系iPad告别Lightning接口",
       "onboard_time": 1666137203,
       "rank": 30,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 527755,
-      "num": 113200,
+      "num": 156247,
       "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
       "onboard_time": 1666137804,
       "rank": 12,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 507998,
-      "num": 116889,
+      "num": 158430,
       "word": "泰语版苍兰诀太好笑了",
       "onboard_time": 1666142664,
       "rank": 4,
@@ -617,6 +625,14 @@
       "onboard_time": 1666086923,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490438,
+      "num": 159567,
+      "word": "新款iPad包装不再使用塑料外膜",
+      "onboard_time": 1666145481,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 489137,
@@ -673,6 +689,14 @@
       "onboard_time": 1666107923,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 467980,
+      "num": 152475,
+      "word": "周杰伦歌词的最后一句充满了遗憾",
+      "onboard_time": 1666147942,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 456564,
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344554,
+      "num": 157896,
+      "word": "甜饮料危害到底有多大",
+      "onboard_time": 1666146323,
+      "rank": 43,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 341958,
       "num": 159858,
       "word": "广东民企百强华为退居第二",
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 313917,
-      "num": 114761,
+      "num": 152974,
       "word": "调查称北溪管道泄漏事故为强烈爆炸所致",
       "onboard_time": 1666142005,
       "rank": 8,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 309863,
-      "num": 111856,
+      "num": 154285,
       "word": "新款iPadPro售价6799元起",
       "onboard_time": 1666138345,
       "rank": 14,
@@ -1164,7 +1196,7 @@
     },
     {
       "raw_hot": 301057,
-      "num": 111507,
+      "num": 151804,
       "word": "湖勇大战",
       "onboard_time": 1666142542,
       "rank": 15,
@@ -1212,7 +1244,7 @@
     },
     {
       "raw_hot": 294044,
-      "num": 111077,
+      "num": 155475,
       "word": "王菲流年发行二十一周年",
       "onboard_time": 1666144459,
       "rank": 16,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1665972623,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288469,
-      "num": 110592,
-      "word": "新款iPad包装不再使用塑料外膜",
-      "onboard_time": 1666145481,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 287563,
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 271270,
-      "num": 110359,
+      "num": 149159,
       "word": "10月18日新增本土确诊204例",
       "onboard_time": 1666142842,
       "rank": 18,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1666057344,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 245569,
+      "num": 151160,
+      "word": "超鬼王",
+      "onboard_time": 1666148361,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 243695,
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 207582,
-      "num": 108679,
+      "num": 153066,
       "word": "新版天线宝宝预告",
       "onboard_time": 1666143863,
       "rank": 21,
@@ -1795,12 +1827,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 195704,
+      "num": 153607,
+      "word": "阿凡达2片长190分钟",
+      "onboard_time": 1666149202,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193387,
       "num": 188519,
       "word": "陈立农说女生需要宣泄口",
       "onboard_time": 1666091064,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193305,
+      "num": 150401,
+      "word": "男孩拉链卡眼皮面对消防超淡定",
+      "onboard_time": 1666146440,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193199,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1666084522,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192325,
+      "num": 151600,
+      "word": "满大街就属他最忙",
+      "onboard_time": 1666148602,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 191596,
@@ -1995,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173498,
+      "num": 149670,
+      "word": "徐梦桃如何从烤摊到夺冠",
+      "onboard_time": 1666145241,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173441,
       "num": 173441,
       "word": "广东这12所专科将升本",
@@ -2131,6 +2195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 160989,
+      "num": 160989,
+      "word": "二十大新闻中心第三场记者招待会",
+      "onboard_time": 1666145363,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 160258,
       "num": 160258,
       "word": "原来心灵感应是真的存在",
@@ -2233,14 +2305,6 @@
       "onboard_time": 1665989181,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147215,
-      "num": 106125,
-      "word": "徐梦桃如何从烤摊到夺冠",
-      "onboard_time": 1666145241,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 146607,
@@ -2515,6 +2579,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119964,
+      "num": 119964,
+      "word": "塔克拉玛干沙漠现大片罕见湖泊",
+      "onboard_time": 1666145963,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119612,
+      "num": 119612,
+      "word": "哈登高难度三分",
+      "onboard_time": 1666145721,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119576,
       "num": 138483,
       "word": "侯勇焦俊艳新剧烟火气",
@@ -2577,6 +2657,14 @@
       "onboard_time": 1666073722,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114849,
+      "num": 114849,
+      "word": "10年来全国3799名民警牺牲",
+      "onboard_time": 1666148841,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113520,
@@ -2713,6 +2801,14 @@
       "onboard_time": 1666003702,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 103348,
+      "num": 103348,
+      "word": "为王宝钏重写结局",
+      "onboard_time": 1666149263,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103340,
@@ -2875,22 +2971,6 @@
       "category": "教育,科技"
     },
     {
-      "raw_hot": 88365,
-      "num": 88365,
-      "word": "哈登高难度三分",
-      "onboard_time": 1666145721,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88286,
-      "num": 88286,
-      "word": "塔克拉玛干沙漠现大片罕见湖泊",
-      "onboard_time": 1666145963,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "月曜采访手工耿",
@@ -2947,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85419,
-      "num": 85419,
-      "word": "甜饮料危害到底有多大",
-      "onboard_time": 1666146323,
-      "rank": 43,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 84580,
       "num": 115302,
       "word": "动画复原圆明园昔日景象",
@@ -2976,14 +3048,6 @@
       "word": "8旬老人骑行40里探望5旬女儿",
       "onboard_time": 1665981443,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82963,
-      "num": 82963,
-      "word": "男孩拉链卡眼皮面对消防超淡定",
-      "onboard_time": 1666146440,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3017,6 +3081,14 @@
       "onboard_time": 1666017925,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81557,
+      "num": 81557,
+      "word": "金州勇士领取总冠军戒指",
+      "onboard_time": 1666148240,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 79178,
@@ -3073,6 +3145,14 @@
       "onboard_time": 1666004484,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74171,
+      "num": 74171,
+      "word": "哈登35分准三双",
+      "onboard_time": 1666149083,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73868,
@@ -3177,14 +3257,6 @@
       "onboard_time": 1665974301,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65480,
-      "num": 114531,
-      "word": "二十大新闻中心第三场记者招待会",
-      "onboard_time": 1666145363,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 65251,
@@ -3545,6 +3617,14 @@
       "onboard_time": 1666119911,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13880,
+      "num": 155179,
+      "word": "57岁民警船上值班9年救8条生命",
+      "onboard_time": 1666148662,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 13839,
