@@ -1,0 +1,410 @@
+{
+  "runTime": 1666173160754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 228020,
+        "num": 579706,
+        "word": "中国共产党国际形象网宣片CPC",
+        "onboard_time": 1666139186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110312,
+        "num": 110312,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54766,
+        "num": 110312,
+        "word": "这些最深情的话语直抵人心",
+        "onboard_time": 1666169721,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2057786,
+        "num": 110307,
+        "word": "民警输错3次密码帮忙保住10多万",
+        "onboard_time": 1666168580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565777,
+        "num": 110299,
+        "word": "成年人连绝交都是安静的",
+        "onboard_time": 1666134437,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457927,
+        "num": 110297,
+        "word": "林高远心态",
+        "onboard_time": 1666169662,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388103,
+        "num": 110291,
+        "word": "原来橘猫真的容易认错",
+        "onboard_time": 1666167743,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332855,
+        "num": 110290,
+        "word": "小猫从6层楼高空坠落众人撑床单接住",
+        "onboard_time": 1666166841,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 320076,
+        "num": 110284,
+        "word": "AI预测S12冠军",
+        "onboard_time": 1666162222,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315257,
+        "num": 110278,
+        "word": "4岁女童画作被父亲再创后大卖",
+        "onboard_time": 1666163242,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484188,
+        "num": 110278,
+        "word": "已经毕业了但还是害怕",
+        "onboard_time": 1666170562,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 472554,
+        "num": 110271,
+        "word": "iPad10粉色",
+        "onboard_time": 1666147701,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297117,
+        "num": 110267,
+        "word": "女生用30只笔做花束送医生",
+        "onboard_time": 1666170441,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287331,
+        "num": 110262,
+        "word": "你考过的数学最低分是多少",
+        "onboard_time": 1666170803,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36078,
+        "num": 110259,
+        "word": "护士捐造血干细胞燃生命火种",
+        "onboard_time": 1666170022,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279917,
+        "num": 110256,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229685,
+        "num": 110249,
+        "word": "黄柳霜成登上美国货币的首个亚裔",
+        "onboard_time": 1666168222,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 216065,
+        "num": 110247,
+        "word": "梁靖崑3比2林高远",
+        "onboard_time": 1666167202,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208575,
+        "num": 110239,
+        "word": "为什么iPad没有计算器",
+        "onboard_time": 1666152924,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188473,
+        "num": 110239,
+        "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
+        "onboard_time": 1666137804,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184257,
+        "num": 110233,
+        "word": "199爱",
+        "onboard_time": 1666172179,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175230,
+        "num": 110230,
+        "word": "古装撑伞氛围感",
+        "onboard_time": 1666171643,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159437,
+        "num": 110226,
+        "word": "衣服上的油渍算是留不住了",
+        "onboard_time": 1666165403,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 156786,
+        "num": 110218,
+        "word": "WTT",
+        "onboard_time": 1666167322,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156658,
+        "num": 110216,
+        "word": "我国是刑事犯罪率最低的国家之一",
+        "onboard_time": 1666163542,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 110212,
+        "word": "中科大成果或实现秒被重新定义",
+        "onboard_time": 1666164982,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144171,
+        "num": 110208,
+        "word": "中东地区第一家大熊猫馆",
+        "onboard_time": 1666166302,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140516,
+        "num": 110202,
+        "word": "有点担心出题人的精神状态了",
+        "onboard_time": 1666172241,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134439,
+        "num": 110197,
+        "word": "周杰伦歌词的最后一句充满了遗憾",
+        "onboard_time": 1666147942,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131521,
+        "num": 110195,
+        "word": "谭松韵翟子路新剧开播",
+        "onboard_time": 1666162401,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130640,
+        "num": 110190,
+        "word": "小青蛙是怎么来的",
+        "onboard_time": 1666172484,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127511,
+        "num": 110187,
+        "word": "当外国女星遇上中国旗袍",
+        "onboard_time": 1666162583,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 110181,
+        "word": "让你逢人便推的高质量小说",
+        "onboard_time": 1666170144,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 120633,
+        "num": 110175,
+        "word": "保洁阿姨捡15万存单辗转找到失主",
+        "onboard_time": 1666160483,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118034,
+        "num": 110172,
+        "word": "俄特别军事行动总指挥首次对媒体发声",
+        "onboard_time": 1666151122,
+        "rank": 34,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 117497,
+        "num": 110168,
+        "word": "这是种很新的简历写法",
+        "onboard_time": 1666172179,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113508,
+        "num": 110165,
+        "word": "日本环球影城马里奥园区实景",
+        "onboard_time": 1666160601,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 110161,
+        "word": "视障女孩手心倒水画圈苦练成咖啡师",
+        "onboard_time": 1666167803,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107160,
+        "num": 110156,
+        "word": "生日当然要好好拍照记录啦",
+        "onboard_time": 1666166423,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106405,
+        "num": 110153,
+        "word": "iPad全线大涨价",
+        "onboard_time": 1666138466,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 102262,
+        "num": 110147,
+        "word": "甜饮料危害到底有多大",
+        "onboard_time": 1666146323,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 97581,
+        "num": 110143,
+        "word": "陈浩民回应王宝钏挖野菜",
+        "onboard_time": 1666136179,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95333,
+        "num": 110141,
+        "word": "詹姆斯31分14篮板",
+        "onboard_time": 1666159703,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94829,
+        "num": 110135,
+        "word": "阿凡达2片长190分钟",
+        "onboard_time": 1666149202,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92882,
+        "num": 110132,
+        "word": "为王宝钏重写结局",
+        "onboard_time": 1666149263,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91449,
+        "num": 110129,
+        "word": "苹果公司削减iPhone14Plus产量",
+        "onboard_time": 1666152324,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86901,
+        "num": 110124,
+        "word": "最高检谈昆山反杀案",
+        "onboard_time": 1666153524,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82453,
+        "num": 110119,
+        "word": "差点误会了食堂师傅",
+        "onboard_time": 1666156345,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81989,
+        "num": 110112,
+        "word": "中国成为世界最安全国家之一",
+        "onboard_time": 1666152684,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65114,
+        "num": 110107,
+        "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
+        "onboard_time": 1666154903,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
