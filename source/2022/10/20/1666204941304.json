@@ -1,0 +1,410 @@
+{
+  "runTime": 1666204941304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12459,
+        "num": 62995,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46379,
+        "num": 62591,
+        "word": "孕妇7个月大出血4个派出所生命接力",
+        "onboard_time": 1666180885,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3400,
+        "num": 62398,
+        "word": "二十大代表vlog",
+        "onboard_time": 1666184366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140152,
+        "num": 61736,
+        "word": "女生校内晕倒2流浪狗舔鼻唤醒",
+        "onboard_time": 1666179866,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65831,
+        "num": 61454,
+        "word": "今年爱奇艺独播剧热度榜",
+        "onboard_time": 1666190187,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61775,
+        "num": 60650,
+        "word": "民警输错3次密码帮忙保住10多万",
+        "onboard_time": 1666168580,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50747,
+        "num": 60481,
+        "word": "水果店把裂口柿子摆路边免费送",
+        "onboard_time": 1666185864,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49779,
+        "num": 59787,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1666176746,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48539,
+        "num": 59422,
+        "word": "90后父母给儿子硬核取名叫张总",
+        "onboard_time": 1666200254,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45900,
+        "num": 59181,
+        "word": "单身了很久的人在想什么",
+        "onboard_time": 1666180346,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86849,
+        "num": 58414,
+        "word": "男子连夜陪产只睡2小时心脏骤停",
+        "onboard_time": 1666185205,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73662,
+        "num": 57859,
+        "word": "博士回老家发现国内埋藏最深金矿体",
+        "onboard_time": 1666198158,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50591,
+        "num": 57770,
+        "word": "西安即将诞生的全新的交通方式",
+        "onboard_time": 1666192765,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41409,
+        "num": 57237,
+        "word": "再恋爱脑就不礼貌了",
+        "onboard_time": 1666185025,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 36970,
+        "num": 56763,
+        "word": "女生求职碰壁遇HR帮改简历",
+        "onboard_time": 1666182805,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36552,
+        "num": 56219,
+        "word": "男孩花3小时做箭被爸爸折断痛哭",
+        "onboard_time": 1666187127,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35033,
+        "num": 55570,
+        "word": "没想到何以琛这么恋爱脑",
+        "onboard_time": 1666183465,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29493,
+        "num": 55221,
+        "word": "东北大哥开奔驰帮母亲拉300斤白菜",
+        "onboard_time": 1666187367,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28757,
+        "num": 54738,
+        "word": "89岁父亲忘记儿子去世每天寻找",
+        "onboard_time": 1666189285,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27525,
+        "num": 54478,
+        "word": "网友总结当红女星的代表角色",
+        "onboard_time": 1666182685,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27170,
+        "num": 53963,
+        "word": "背厚原来不是因为胖",
+        "onboard_time": 1666175123,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25703,
+        "num": 53600,
+        "word": "陕西两市入列大城市名单",
+        "onboard_time": 1666196720,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25651,
+        "num": 52819,
+        "word": "猫啃坏3条数据线女子买串珠防护",
+        "onboard_time": 1666179385,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23512,
+        "num": 52629,
+        "word": "富士康CEO称希望代工特斯拉",
+        "onboard_time": 1666192166,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 23133,
+        "num": 51898,
+        "word": "人总会反复为男二落泪",
+        "onboard_time": 1666195703,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21484,
+        "num": 51331,
+        "word": "被女生之间的善意感动到了",
+        "onboard_time": 1666178244,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19502,
+        "num": 50890,
+        "word": "马嘉祺我们的歌打架子鼓",
+        "onboard_time": 1666189824,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19275,
+        "num": 50333,
+        "word": "小伙牌桌上偷换麻将用诈胡求婚",
+        "onboard_time": 1666187485,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19135,
+        "num": 50059,
+        "word": "为什么说情绪价值重要",
+        "onboard_time": 1666179323,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18640,
+        "num": 49480,
+        "word": "AI预测S12冠军",
+        "onboard_time": 1666162222,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26297,
+        "num": 48947,
+        "word": "38人挤同一电梯发生故障全被困",
+        "onboard_time": 1666175724,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18567,
+        "num": 48477,
+        "word": "真的会被龙葵射箭帅到",
+        "onboard_time": 1666181004,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16664,
+        "num": 48064,
+        "word": "研究发现黑洞饭后会打嗝",
+        "onboard_time": 1666177705,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 15923,
+        "num": 47579,
+        "word": "原来橘猫真的容易认错",
+        "onboard_time": 1666167743,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15749,
+        "num": 47435,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15689,
+        "num": 46733,
+        "word": "掌握了买水果好吃的秘诀",
+        "onboard_time": 1666181062,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15291,
+        "num": 46518,
+        "word": "4岁女童画作被父亲再创后大卖",
+        "onboard_time": 1666163242,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14740,
+        "num": 45730,
+        "word": "难哄",
+        "onboard_time": 1666176563,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13056,
+        "num": 45372,
+        "word": "张艺兴舞台炎黄子孙开场",
+        "onboard_time": 1666186767,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12920,
+        "num": 44782,
+        "word": "中级会计成绩",
+        "onboard_time": 1666190187,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12490,
+        "num": 44303,
+        "word": "已经毕业了但还是害怕",
+        "onboard_time": 1666170562,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 12460,
+        "num": 43776,
+        "word": "谭松韵新剧演技",
+        "onboard_time": 1666189525,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11649,
+        "num": 43412,
+        "word": "古装撑伞氛围感",
+        "onboard_time": 1666171643,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10811,
+        "num": 43016,
+        "word": "如果你不想被人打扰",
+        "onboard_time": 1666188627,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 10461,
+        "num": 42733,
+        "word": "还是觉得你最好票房破亿",
+        "onboard_time": 1666191265,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8734,
+        "num": 42320,
+        "word": "女生被食堂大叔请客吃饭投喂水果",
+        "onboard_time": 1666204213,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8361,
+        "num": 41398,
+        "word": "谷爱凌获最佳女运动员表现奖",
+        "onboard_time": 1666181665,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7761,
+        "num": 41026,
+        "word": "带女友回家家人收拾10余小时迎接",
+        "onboard_time": 1666204512,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7471,
+        "num": 40491,
+        "word": "王楚钦3比0雨果",
+        "onboard_time": 1666189824,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7003,
+        "num": 40199,
+        "word": "这简直是我的梦中情房",
+        "onboard_time": 1666204572,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
