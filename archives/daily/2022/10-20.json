@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666197934848,
+  "endTime": 1666199828093,
   "band_list": [
     {
       "raw_hot": 852526,
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104067,
+      "num": 272876,
+      "word": "陕西两市入列大城市名单",
+      "onboard_time": 1666196720,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99273,
+      "num": 160917,
+      "word": "博士回老家发现国内埋藏最深金矿体",
+      "onboard_time": 1666198158,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98943,
       "num": 293847,
       "word": "网友总结当红女星的代表角色",
@@ -225,14 +241,6 @@
       "onboard_time": 1666189824,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71829,
-      "num": 272876,
-      "word": "陕西两市入列大城市名单",
-      "onboard_time": 1666196720,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67260,
