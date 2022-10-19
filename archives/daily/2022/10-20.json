@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666208664202,
+  "endTime": 1666211333693,
   "band_list": [
     {
       "raw_hot": 852526,
@@ -411,7 +411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26308,
+      "raw_hot": 30487,
       "num": 41026,
       "word": "带女友回家家人收拾10余小时迎接",
       "onboard_time": 1666204512,
@@ -425,6 +425,14 @@
       "onboard_time": 1666204213,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15039,
+      "num": 29397,
+      "word": "范佩西在世界杯上飞起来了",
+      "onboard_time": 1666207152,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 12878,
@@ -459,11 +467,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 9649,
-      "num": 29397,
-      "word": "范佩西在世界杯上飞起来了",
-      "onboard_time": 1666207152,
-      "rank": 47,
+      "raw_hot": 10459,
+      "num": 24864,
+      "word": "马拉多纳到底有多强",
+      "onboard_time": 1666208111,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -483,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 6623,
-      "num": 24864,
-      "word": "马拉多纳到底有多强",
-      "onboard_time": 1666208111,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6553,
       "num": 28720,
       "word": "大学保安17年资助6名学生",
@@ -505,6 +505,38 @@
       "onboard_time": 1666208172,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5647,
+      "num": 21036,
+      "word": "含糖饮料不能代替日常饮水",
+      "onboard_time": 1666210870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5566,
+      "num": 20659,
+      "word": "大熊猫顺利抵达多哈现场",
+      "onboard_time": 1666210450,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5504,
+      "num": 20409,
+      "word": "男子为迎宝宝出生穿西装演练",
+      "onboard_time": 1666211111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5415,
+      "num": 20152,
+      "word": "我国寒武系筇竹寺组地层勘探重大突破",
+      "onboard_time": 1666211291,
+      "rank": 49,
+      "category": "科技,社会新闻"
     }
   ],
   "hotgov_list": [
