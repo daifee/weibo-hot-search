@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666176779257,
+  "endTime": 1666178662487,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -57,6 +57,14 @@
       "onboard_time": 1666077502,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378279,
+      "num": 90937,
+      "word": "难哄",
+      "onboard_time": 1666176563,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1354465,
@@ -147,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1091791,
+      "num": 90784,
+      "word": "王者荣耀王昭君",
+      "onboard_time": 1666176746,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1067465,
       "num": 213098,
       "word": "清华硕士的社恐被大妈治愈了",
@@ -209,14 +225,6 @@
       "onboard_time": 1665981086,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 934363,
-      "num": 90937,
-      "word": "难哄",
-      "onboard_time": 1666176563,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 933173,
@@ -432,6 +440,14 @@
       "word": "爸爸在简陋出租房给女儿搭仙女屋",
       "onboard_time": 1665973881,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683938,
+      "num": 90952,
+      "word": "38人挤同一电梯发生故障全被困",
+      "onboard_time": 1666175724,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -929,6 +945,14 @@
       "onboard_time": 1666135339,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 418189,
+      "num": 97804,
+      "word": "背厚原来不是因为胖",
+      "onboard_time": 1666175123,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 417392,
@@ -1691,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270087,
-      "num": 97804,
-      "word": "背厚原来不是因为胖",
-      "onboard_time": 1666175123,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268086,
       "num": 67161,
       "word": "女子捡到数万现金归还95岁失主",
@@ -1947,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231604,
+      "num": 97799,
+      "word": "18岁女孩射击夺冠一摸枪气场就变",
+      "onboard_time": 1666173324,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 230602,
       "num": 66603,
       "word": "南京街头刮起一阵柿子风",
@@ -2123,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208757,
-      "num": 97799,
-      "word": "18岁女孩射击夺冠一摸枪气场就变",
-      "onboard_time": 1666173324,
-      "rank": 23,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 207582,
       "num": 153066,
       "word": "新版天线宝宝预告",
       "onboard_time": 1666143863,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207214,
+      "num": 97756,
+      "word": "社死的一生从认错爸妈开始",
+      "onboard_time": 1666175244,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 207029,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1665993142,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202449,
-      "num": 90952,
-      "word": "38人挤同一电梯发生故障全被困",
-      "onboard_time": 1666175724,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201591,
@@ -2217,14 +2233,6 @@
       "onboard_time": 1666071623,
       "rank": 28,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 194696,
-      "num": 90784,
-      "word": "王者荣耀王昭君",
-      "onboard_time": 1666176746,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 193387,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1666166302,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183472,
+      "num": 86853,
+      "word": "当茄子遇上鸡蛋",
+      "onboard_time": 1666176804,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 182928,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1666166423,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156116,
-      "num": 97756,
-      "word": "社死的一生从认错爸妈开始",
-      "onboard_time": 1666175244,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 155835,
@@ -3059,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125875,
+      "num": 90803,
+      "word": "原来这就是社交魅力学",
+      "onboard_time": 1666176146,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125678,
       "num": 111977,
       "word": "北京教育考试院发布提示",
@@ -3379,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98627,
+      "num": 86841,
+      "word": "苹果卖67元USB-C转换器被吐槽",
+      "onboard_time": 1666178124,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 97458,
       "num": 84325,
       "word": "故宫角楼银杏",
@@ -3523,6 +3547,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 88909,
+      "num": 86837,
+      "word": "研究发现黑洞饭后会打嗝",
+      "onboard_time": 1666177705,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 88762,
       "num": 88762,
       "word": "用这9个字畅想未来",
@@ -3577,14 +3609,6 @@
       "onboard_time": 1666018946,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86051,
-      "num": 90803,
-      "word": "原来这就是社交魅力学",
-      "onboard_time": 1666176146,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85879,
@@ -3705,6 +3729,14 @@
       "onboard_time": 1665916282,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76187,
+      "num": 86834,
+      "word": "被女生之间的善意感动到了",
+      "onboard_time": 1666178244,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 76164,
@@ -4169,6 +4201,14 @@
       "onboard_time": 1665948310,
       "rank": 45,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 32861,
+      "num": 86859,
+      "word": "巩立姣说差点和奥运金牌擦肩而过",
+      "onboard_time": 1666177284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32298,
