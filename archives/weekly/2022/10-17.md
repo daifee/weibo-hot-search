@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/17 00:35:37 ~ 2022/10/19 13:11:26
+本榜单时间：2022/10/17 00:35:37 ~ 2022/10/19 14:19:01
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@ Yagao确诊（热度：1155685）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E6%A5%BC%E9%81%93%E9%87%8C%E6%8C%91%E7%81%AF%E5%A4%9C%E8%AF%BB%23" target="weibo">
 考研学生楼道里挑灯夜读（热度：1135720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%97%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E7%A4%BA%23" target="weibo">
+原来医学生看病真的会显示（热度：1118656）
 </a>
 </li>
 
@@ -969,6 +975,12 @@ TES bug（热度：311640）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%93%84%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%A6%B9%E5%A6%B9%E5%8A%A8%E4%BD%9C%E5%A8%B4%E7%86%9F%23" target="weibo">
+十岁哥哥抱哄两个月妹妹动作娴熟（热度：302144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8B%87%E5%A4%A7%E6%88%98%23" target="weibo">
 湖勇大战（热度：301057）
 </a>
@@ -1077,6 +1089,12 @@ S12八强名额全部确定（热度：287563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%E8%8A%92%E6%9E%9CTV%E7%B4%AF%E8%AE%A1%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF%23" target="weibo">
+追光者芒果TV累计播放量破亿（热度：279756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%8B%97%E8%A2%AB%E8%A3%85%E8%A2%8B%E6%8C%82%E6%A0%91%E4%B8%8A%E5%A5%B3%E5%AD%90%E6%95%A3%E6%AD%A5%E6%97%B6%E6%95%91%E4%B8%8B%23" target="weibo">
 幼狗被装袋挂树上女子散步时救下（热度：279350）
 </a>
@@ -1121,6 +1139,12 @@ S12八强名额全部确定（热度：287563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8818%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A204%E4%BE%8B%23" target="weibo">
 10月18日新增本土确诊204例（热度：271270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E6%8E%92%E6%9F%A5%E5%87%8F%E5%88%91%E5%81%87%E9%87%8A%E6%9A%82%E4%BA%88%E7%9B%91%E5%A4%96%E6%89%A7%E8%A1%8C%E6%A1%88%E4%BB%B6%23" target="weibo">
+全面排查减刑假释暂予监外执行案件（热度：270240）
 </a>
 </li>
 
@@ -1275,6 +1299,12 @@ OG（热度：252310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA%23" target="weibo">
+金州勇士战胜湖人（热度：235929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23V%E7%A4%BE%E5%A4%84%E7%BD%9ALGD%23" target="weibo">
 V社处罚LGD（热度：234181）
 </a>
@@ -1307,6 +1337,12 @@ V社处罚LGD（热度：234181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E6%98%8E%E5%87%AF%E5%86%8D%E5%BA%A6%E5%90%8C%E6%A1%86%23" target="weibo">
 Uzi明凯再度同框（热度：229084）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E4%B8%89%E5%88%86%23" target="weibo">
+库里三分（热度：228924）
 </a>
 </li>
 
@@ -1421,6 +1457,12 @@ GEN战胜RNG（热度：224619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E5%89%A7cp%E5%94%AE%E5%90%8E%E5%93%AA%E5%AE%B6%E5%BC%BA%23" target="weibo">
 影视剧cp售后哪家强（热度：203828）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AF%AF%E4%BC%9A%E4%BA%86%E9%A3%9F%E5%A0%82%E5%B8%88%E5%82%85%23" target="weibo">
+差点误会了食堂师傅（热度：199685）
 </a>
 </li>
 
@@ -1653,12 +1695,6 @@ S12（热度：179760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%93%84%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%A6%B9%E5%A6%B9%E5%8A%A8%E4%BD%9C%E5%A8%B4%E7%86%9F%23" target="weibo">
-十岁哥哥抱哄两个月妹妹动作娴熟（热度：169359）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%90%9E%E8%87%AA%E7%BB%99%E8%87%AA%E8%B6%B3%E6%98%AF%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5%23" target="weibo">
 说中国要搞自给自足是错误认知（热度：169128）
 </a>
@@ -1755,6 +1791,12 @@ RNG DOTA2（热度：167275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E5%A4%AB%E5%A6%BB%E6%A0%91%E9%81%87%E4%B8%8A%E9%87%91%E7%A7%8B%E6%BB%A4%E9%95%9C%23" target="weibo">
+千年银杏夫妻树遇上金秋滤镜（热度：157648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%A5%A8%E7%9A%84%E6%84%8F%E4%B9%89%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%A5%A8%E6%8D%AE%23" target="weibo">
 电影票的意义不只是票据（热度：155835）
 </a>
@@ -1805,6 +1847,12 @@ GEN八强对阵DK（热度：149983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%98%91%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 口蘑的正确打开方式（热度：148978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF31%E5%88%8614%E7%AF%AE%E6%9D%BF%23" target="weibo">
+詹姆斯31分14篮板（热度：148428）
 </a>
 </li>
 
@@ -2025,12 +2073,6 @@ TVB新剧上车家族开播全员发车（热度：127364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E5%A4%AB%E5%A6%BB%E6%A0%91%E9%81%87%E4%B8%8A%E9%87%91%E7%A7%8B%E6%BB%A4%E9%95%9C%23" target="weibo">
-千年银杏夫妻树遇上金秋滤镜（热度：123151）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3U17vs%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A5%B3%E8%B6%B3U17%23" target="weibo">
 中国女足U17vs西班牙女足U17（热度：122542）
 </a>
@@ -2079,8 +2121,20 @@ WTT澳门冠军赛抽签仪式（热度：119129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E4%B8%AD%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA%E5%85%B3%E4%B9%8E%E4%BD%A0%E6%88%91%23" target="weibo">
+二十大报告中这些举措关乎你我（热度：118720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B2%AE%E5%B8%A6%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23" target="weibo">
 中国粮带给中国人的安全感（热度：118517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E9%9C%B2%E8%90%A5%E5%88%86%E7%BB%84%23" target="weibo">
+心动的信号露营分组（热度：118036）
 </a>
 </li>
 
@@ -2093,12 +2147,6 @@ WTT澳门冠军赛抽签仪式（热度：119129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%B8%8540%E5%88%86%23" target="weibo">
 原帅40分（热度：117743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E4%B8%AD%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA%E5%85%B3%E4%B9%8E%E4%BD%A0%E6%88%91%23" target="weibo">
-二十大报告中这些举措关乎你我（热度：117740）
 </a>
 </li>
 
@@ -2129,6 +2177,12 @@ WTT澳门冠军赛抽签仪式（热度：119129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%86%A0%E5%86%9B%E8%B5%9B%E5%9B%BD%E4%B9%92%E5%AF%B9%E9%98%B5%E9%80%89%E6%89%8B%E5%87%BA%E7%82%89%23" target="weibo">
 澳门冠军赛国乒对阵选手出炉（热度：112866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E6%9B%BC%E8%B0%B7%E7%AB%99%E8%BF%9E%E5%BC%80%E4%B8%89%E5%9C%BA%23" target="weibo">
+王嘉尔世界巡演曼谷站连开三场（热度：111154）
 </a>
 </li>
 
@@ -2409,12 +2463,6 @@ Ming世界赛500助攻（热度：90314）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%97%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E7%A4%BA%23" target="weibo">
-原来医学生看病真的会显示（热度：83286）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B5%B7%E6%83%85%E5%87%8C%E6%95%99%E6%8E%88%E5%8E%9F%E5%9E%8B79%E5%B2%81%E4%BB%8D%E5%9C%A8%E6%90%9E%E7%A7%91%E7%A0%94%23" target="weibo">
 山海情凌教授原型79岁仍在搞科研（热度：82707）
 </a>
@@ -2423,12 +2471,6 @@ Ming世界赛500助攻（热度：90314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E8%AE%B0%E5%BE%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%92%8C%E5%89%8D%E4%BB%BB%E5%88%86%E5%BC%80%E5%90%97%23" target="weibo">
 还记得为什么和前任分开吗（热度：82593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E4%B8%89%E5%88%86%23" target="weibo">
-库里三分（热度：82182）
 </a>
 </li>
 
@@ -2499,6 +2541,12 @@ Ming世界赛500助攻（热度：90314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2386%E5%B2%81%E7%88%B7%E7%88%B74%E6%9C%AC%E6%97%A5%E8%AE%B0%E8%AE%B0%E5%BD%95%E5%AD%99%E5%A5%B3%E6%88%90%E9%95%BF%23" target="weibo">
+86岁爷爷4本日记记录孙女成长（热度：72198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A3%E8%A1%A8%23" target="weibo">
 党的二十大代表（热度：71959）
 </a>
@@ -2519,6 +2567,12 @@ Ming世界赛500助攻（热度：90314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WTT%E6%BE%B3%E9%97%A8%E5%86%A0%E5%86%9B%E8%B5%9B%E5%A5%B3%E5%8D%95%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%23" target="weibo">
 WTT澳门冠军赛女单对阵出炉（热度：71108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%89%88%E8%85%B9%E9%83%A8%E7%87%83%E8%84%82%E6%95%99%E7%A8%8B%23" target="weibo">
+消防员版腹部燃脂教程（热度：69862）
 </a>
 </li>
 

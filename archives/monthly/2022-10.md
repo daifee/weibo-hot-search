@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 13:11:26
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 14:19:01
 </p>
 </blockquote>
 <p>
@@ -1433,6 +1433,12 @@ iPhone14出现首次大幅降价（热度：1129925）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BD%B1%E9%99%A2%E7%A6%81%E6%AD%A2%E6%90%BA%E5%B8%A6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%85%A5%E5%86%85%23" target="weibo">
 河南一影院禁止携带蜜雪冰城入内（热度：1120733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%97%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E7%A4%BA%23" target="weibo">
+原来医学生看病真的会显示（热度：1118656）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ V社处罚LGD（热度：449534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%96%B0%E5%89%A7%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%8E%A8%E4%B8%8B%E6%B0%B4%23" target="weibo">
 姚晨新剧被女儿推下水（热度：445809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E8%BF%87%E7%A8%8B%E5%92%8C%E6%84%9F%E5%8F%97%23" target="weibo">
-生孩子的过程和感受（热度：445805）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1666160341627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 323902,
+        "num": 542364,
+        "word": "中国共产党国际形象网宣片CPC",
+        "onboard_time": 1666139186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129049,
+        "num": 129049,
+        "word": "青年看二十大",
+        "onboard_time": 1666154786,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118720,
+        "num": 128745,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216782,
+        "num": 127196,
+        "word": "成年人连绝交都是安静的",
+        "onboard_time": 1666134437,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1118656,
+        "num": 126200,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425925,
+        "num": 124824,
+        "word": "阿凡达2片长190分钟",
+        "onboard_time": 1666149202,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308638,
+        "num": 123663,
+        "word": "俄特别军事行动总指挥首次对媒体发声",
+        "onboard_time": 1666151122,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 302144,
+        "num": 122091,
+        "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
+        "onboard_time": 1666154903,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296125,
+        "num": 121848,
+        "word": "甜饮料危害到底有多大",
+        "onboard_time": 1666146323,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 279756,
+        "num": 120650,
+        "word": "追光者芒果TV累计播放量破亿",
+        "onboard_time": 1666157303,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602751,
+        "num": 118525,
+        "word": "iPad10粉色",
+        "onboard_time": 1666147701,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347926,
+        "num": 118482,
+        "word": "陈浩民回应王宝钏挖野菜",
+        "onboard_time": 1666136179,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342758,
+        "num": 116345,
+        "word": "中国成为世界最安全国家之一",
+        "onboard_time": 1666152684,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328805,
+        "num": 115130,
+        "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
+        "onboard_time": 1666137804,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305120,
+        "num": 114173,
+        "word": "为什么iPad没有计算器",
+        "onboard_time": 1666152924,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304116,
+        "num": 112767,
+        "word": "最高检谈昆山反杀案",
+        "onboard_time": 1666153524,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240784,
+        "num": 112245,
+        "word": "被夸奖时这么回应就对了",
+        "onboard_time": 1666151482,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235929,
+        "num": 111244,
+        "word": "金州勇士战胜湖人",
+        "onboard_time": 1666158623,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234035,
+        "num": 109545,
+        "word": "iPad全线大涨价",
+        "onboard_time": 1666138466,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 228924,
+        "num": 108102,
+        "word": "库里三分",
+        "onboard_time": 1666156045,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361319,
+        "num": 107238,
+        "word": "周杰伦歌词的最后一句充满了遗憾",
+        "onboard_time": 1666147942,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270240,
+        "num": 106692,
+        "word": "全面排查减刑假释暂予监外执行案件",
+        "onboard_time": 1666156584,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207243,
+        "num": 105391,
+        "word": "为王宝钏重写结局",
+        "onboard_time": 1666149263,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199685,
+        "num": 103551,
+        "word": "差点误会了食堂师傅",
+        "onboard_time": 1666156345,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193198,
+        "num": 102235,
+        "word": "苹果公司削减iPhone14Plus产量",
+        "onboard_time": 1666152324,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157648,
+        "num": 101341,
+        "word": "千年银杏夫妻树遇上金秋滤镜",
+        "onboard_time": 1666155206,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148428,
+        "num": 100325,
+        "word": "詹姆斯31分14篮板",
+        "onboard_time": 1666159703,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 99485,
+        "word": "韩国考虑申办2036年奥运会",
+        "onboard_time": 1666150821,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128583,
+        "num": 97834,
+        "word": "小朋友对于朋友的定义",
+        "onboard_time": 1666154186,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118036,
+        "num": 96847,
+        "word": "心动的信号露营分组",
+        "onboard_time": 1666156885,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116089,
+        "num": 95841,
+        "word": "来猫咪家串门的小狗",
+        "onboard_time": 1666153703,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115800,
+        "num": 94182,
+        "word": "全系iPad告别Lightning接口",
+        "onboard_time": 1666137203,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111154,
+        "num": 93839,
+        "word": "王嘉尔世界巡演曼谷站连开三场",
+        "onboard_time": 1666156763,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 92303,
+        "word": "夫妻用苹果给女儿做薯条汉堡套餐",
+        "onboard_time": 1666140266,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105196,
+        "num": 90916,
+        "word": "超鬼王",
+        "onboard_time": 1666148361,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102734,
+        "num": 89788,
+        "word": "肿瘤晚期主人给猫咖留纸条托付爱猫",
+        "onboard_time": 1666104086,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102462,
+        "num": 88626,
+        "word": "双十一首次支持多地址合并下单",
+        "onboard_time": 1666151423,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 100708,
+        "num": 87456,
+        "word": "泰语版苍兰诀太好笑了",
+        "onboard_time": 1666142664,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84347,
+        "num": 85988,
+        "word": "新款iPad包装不再使用塑料外膜",
+        "onboard_time": 1666145481,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 79208,
+        "num": 85546,
+        "word": "男子投喂白狐后被引见给同伴",
+        "onboard_time": 1666117451,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77095,
+        "num": 84170,
+        "word": "满大街就属他最忙",
+        "onboard_time": 1666148602,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79756,
+        "num": 82512,
+        "word": "新款iPadPro售价6799元起",
+        "onboard_time": 1666138345,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 72198,
+        "num": 81348,
+        "word": "86岁爷爷4本日记记录孙女成长",
+        "onboard_time": 1666159402,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71781,
+        "num": 80882,
+        "word": "哥哥无法到场亲妹代替新郎娶嫂子",
+        "onboard_time": 1666099763,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69997,
+        "num": 79200,
+        "word": "为什么删了最好的朋友",
+        "onboard_time": 1666094544,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69862,
+        "num": 77879,
+        "word": "消防员版腹部燃脂教程",
+        "onboard_time": 1666160243,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67896,
+        "num": 76696,
+        "word": "女生赴英留学课堂几乎全是中国人",
+        "onboard_time": 1666135339,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65840,
+        "num": 75952,
+        "word": "付费自习室下沉县城",
+        "onboard_time": 1666101383,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64589,
+        "num": 74605,
+        "word": "一只鸭子能有多欠",
+        "onboard_time": 1666107203,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62251,
+        "num": 73912,
+        "word": "金州勇士领取总冠军戒指",
+        "onboard_time": 1666148240,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

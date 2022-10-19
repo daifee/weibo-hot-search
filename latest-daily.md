@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/19 00:41:36 ~ 2022/10/19 13:11:26
+本榜单时间：2022/10/19 00:41:36 ~ 2022/10/19 14:19:01
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPad10%E7%B2%89%E8%89%B2%23" target="weibo">
 iPad10粉色（热度：1538220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%97%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E7%A4%BA%23" target="weibo">
+原来医学生看病真的会显示（热度：1118656）
 </a>
 </li>
 
@@ -243,6 +249,12 @@ iPad（热度：427194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%93%84%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%A6%B9%E5%A6%B9%E5%8A%A8%E4%BD%9C%E5%A8%B4%E7%86%9F%23" target="weibo">
+十岁哥哥抱哄两个月妹妹动作娴熟（热度：302144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8B%87%E5%A4%A7%E6%88%98%23" target="weibo">
 湖勇大战（热度：301057）
 </a>
@@ -261,6 +273,12 @@ iPad（热度：427194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%E8%8A%92%E6%9E%9CTV%E7%B4%AF%E8%AE%A1%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF%23" target="weibo">
+追光者芒果TV累计播放量破亿（热度：279756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B9%B4%E5%86%85%E8%A1%B0%E9%80%80%E6%A6%82%E7%8E%87%E8%BE%BE100%25%23" target="weibo">
 美国一年内衰退概率达100%（热度：272837）
 </a>
@@ -269,6 +287,12 @@ iPad（热度：427194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8818%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A204%E4%BE%8B%23" target="weibo">
 10月18日新增本土确诊204例（热度：271270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E6%8E%92%E6%9F%A5%E5%87%8F%E5%88%91%E5%81%87%E9%87%8A%E6%9A%82%E4%BA%88%E7%9B%91%E5%A4%96%E6%89%A7%E8%A1%8C%E6%A1%88%E4%BB%B6%23" target="weibo">
+全面排查减刑假释暂予监外执行案件（热度：270240）
 </a>
 </li>
 
@@ -297,6 +321,18 @@ Yagao确诊（热度：265667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA%23" target="weibo">
+金州勇士战胜湖人（热度：235929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E4%B8%89%E5%88%86%23" target="weibo">
+库里三分（热度：228924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BE%E7%8B%97%E9%81%8720%E5%A4%9A%E4%B8%AA%E8%90%8C%E5%A8%83%E5%B8%AE%E5%AF%BB4%E5%B0%8F%E6%97%B6%23" target="weibo">
 男子找狗遇20多个萌娃帮寻4小时（热度：225798）
 </a>
@@ -311,6 +347,12 @@ Yagao确诊（热度：265667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E7%9A%84%E4%B8%80%E7%A2%97%E5%9C%9F%E8%B1%86%E7%84%96%E9%9D%A2%23" target="weibo">
 一定要吃的一碗土豆焖面（热度：201911）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AF%AF%E4%BC%9A%E4%BA%86%E9%A3%9F%E5%A0%82%E5%B8%88%E5%82%85%23" target="weibo">
+差点误会了食堂师傅（热度：199685）
 </a>
 </li>
 
@@ -357,12 +399,6 @@ Yagao确诊（热度：265667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%93%84%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%A6%B9%E5%A6%B9%E5%8A%A8%E4%BD%9C%E5%A8%B4%E7%86%9F%23" target="weibo">
-十岁哥哥抱哄两个月妹妹动作娴熟（热度：169359）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E7%8C%AB%E5%92%AA%E5%AE%B6%E4%B8%B2%E9%97%A8%E7%9A%84%E5%B0%8F%E7%8B%97%23" target="weibo">
 来猫咪家串门的小狗（热度：168518）
 </a>
@@ -387,6 +423,12 @@ Yagao确诊（热度：265667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E5%A4%AB%E5%A6%BB%E6%A0%91%E9%81%87%E4%B8%8A%E9%87%91%E7%A7%8B%E6%BB%A4%E9%95%9C%23" target="weibo">
+千年银杏夫妻树遇上金秋滤镜（热度：157648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Apple%23" target="weibo">
 Apple（热度：156148）
 </a>
@@ -401,6 +443,12 @@ Apple（热度：156148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%98%91%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 口蘑的正确打开方式（热度：148978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF31%E5%88%8614%E7%AF%AE%E6%9D%BF%23" target="weibo">
+詹姆斯31分14篮板（热度：148428）
 </a>
 </li>
 
@@ -447,12 +495,6 @@ Apple（热度：156148）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E5%A4%AB%E5%A6%BB%E6%A0%91%E9%81%87%E4%B8%8A%E9%87%91%E7%A7%8B%E6%BB%A4%E9%95%9C%23" target="weibo">
-千年银杏夫妻树遇上金秋滤镜（热度：123151）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E7%8E%B0%E5%A4%A7%E7%89%87%E7%BD%95%E8%A7%81%E6%B9%96%E6%B3%8A%23" target="weibo">
 塔克拉玛干沙漠现大片罕见湖泊（热度：119964）
 </a>
@@ -466,7 +508,13 @@ Apple（热度：156148）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E4%B8%AD%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA%E5%85%B3%E4%B9%8E%E4%BD%A0%E6%88%91%23" target="weibo">
-二十大报告中这些举措关乎你我（热度：117740）
+二十大报告中这些举措关乎你我（热度：118720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E9%9C%B2%E8%90%A5%E5%88%86%E7%BB%84%23" target="weibo">
+心动的信号露营分组（热度：118036）
 </a>
 </li>
 
@@ -485,6 +533,12 @@ Apple（热度：156148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B9%B4%E6%9D%A5%E5%85%A8%E5%9B%BD3799%E5%90%8D%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%23" target="weibo">
 10年来全国3799名民警牺牲（热度：114849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E6%9B%BC%E8%B0%B7%E7%AB%99%E8%BF%9E%E5%BC%80%E4%B8%89%E5%9C%BA%23" target="weibo">
+王嘉尔世界巡演曼谷站连开三场（热度：111154）
 </a>
 </li>
 
@@ -567,20 +621,8 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%97%85%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E7%A4%BA%23" target="weibo">
-原来医学生看病真的会显示（热度：83286）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E8%A5%BF%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97%E9%A6%96%E9%83%BD%23" target="weibo">
 澳宣布不再承认西耶路撒冷为以色列首都（热度：83062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E4%B8%89%E5%88%86%23" target="weibo">
-库里三分（热度：82182）
 </a>
 </li>
 
@@ -611,6 +653,18 @@ gemini幸运杯（热度：108506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8820%E6%97%A5%E4%BC%97%E6%B3%B0%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%A4%8D%E4%BA%A7%23" target="weibo">
 10月20日众泰汽车将复产（热度：74474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2386%E5%B2%81%E7%88%B7%E7%88%B74%E6%9C%AC%E6%97%A5%E8%AE%B0%E8%AE%B0%E5%BD%95%E5%AD%99%E5%A5%B3%E6%88%90%E9%95%BF%23" target="weibo">
+86岁爷爷4本日记记录孙女成长（热度：72198）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%89%88%E8%85%B9%E9%83%A8%E7%87%83%E8%84%82%E6%95%99%E7%A8%8B%23" target="weibo">
+消防员版腹部燃脂教程（热度：69862）
 </a>
 </li>
 
