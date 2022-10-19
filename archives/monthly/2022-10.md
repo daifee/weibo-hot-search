@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 14:43:07
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 15:47:37
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ JDG战胜DK（热度：837920）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%96%E8%85%B9%E4%BA%A7%E5%90%8E%E8%A2%AB%E5%AE%B6%E4%BA%BA%E7%94%A8%E5%90%8A%E7%AF%AE%E6%8A%AC%E4%B8%8A7%E6%A5%BC%23" target="weibo">
+女子剖腹产后被家人用吊篮抬上7楼（热度：820835）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%A6%81%E7%A0%B4%E4%BA%A7%E6%88%91%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%BE%9E%E8%81%8C%23" target="weibo">
 公司要破产我该不该辞职（热度：819530）
 </a>
@@ -4701,6 +4707,12 @@ TMA（热度：540431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8BS12%E5%86%A0%E5%86%9B%23" target="weibo">
+AI预测S12冠军（热度：533074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E5%92%8C%E8%8E%AB%E8%A8%80%E7%9C%8B%E5%AE%8C%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 余华和莫言看完都沉默了（热度：533065）
 </a>
@@ -5999,18 +6011,6 @@ V社处罚LGD（热度：449534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23110%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%92%8C88%E5%B2%81%E5%84%BF%E5%AD%90%E6%89%8B%E6%8B%89%E6%89%8B%E9%80%9B%E8%8C%B6%E4%BC%9A%23" target="weibo">
 110岁母亲和88岁儿子手拉手逛茶会（热度：446879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E8%9E%83%E8%9F%B9%E5%A4%B9%E6%89%8B%E5%8F%8D%E5%92%AC%E4%B8%80%E5%8F%A3%E6%82%A3%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%23" target="weibo">
-小伙被螃蟹夹手反咬一口患肺吸虫病（热度：446482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%96%B0%E5%89%A7%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%8E%A8%E4%B8%8B%E6%B0%B4%23" target="weibo">
-姚晨新剧被女儿推下水（热度：445809）
 </a>
 </li>
 

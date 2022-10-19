@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666161787390,
+  "endTime": 1666165657765,
   "band_list": [
     {
       "raw_hot": 1856621,
@@ -67,6 +67,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 820835,
+      "num": 105832,
+      "word": "女子剖腹产后被家人用吊篮抬上7楼",
+      "onboard_time": 1666162103,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803914,
       "num": 162603,
       "word": "陈浩民回应王宝钏挖野菜",
@@ -121,6 +129,14 @@
       "onboard_time": 1666137203,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 533074,
+      "num": 104978,
+      "word": "AI预测S12冠军",
+      "onboard_time": 1666162222,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 532440,
@@ -251,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357916,
+      "num": 110107,
+      "word": "日本环球影城马里奥园区实景",
+      "onboard_time": 1666160601,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 353958,
       "num": 120650,
       "word": "追光者芒果TV累计播放量破亿",
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308218,
+      "num": 100136,
+      "word": "谭松韵翟子路新剧开播",
+      "onboard_time": 1666162401,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302276,
       "num": 113411,
       "word": "全面排查减刑假释暂予监外执行案件",
@@ -347,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299925,
+      "num": 114464,
+      "word": "差点误会了食堂师傅",
+      "onboard_time": 1666156345,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294044,
       "num": 155475,
       "word": "王菲流年发行二十一周年",
@@ -355,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 293628,
-      "num": 114464,
-      "word": "差点误会了食堂师傅",
-      "onboard_time": 1666156345,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 288557,
+      "num": 102815,
+      "word": "4岁女童画作被父亲再创后大卖",
+      "onboard_time": 1666163242,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285122,
@@ -387,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269973,
+      "num": 102646,
+      "word": "我国是刑事犯罪率最低的国家之一",
+      "onboard_time": 1666163542,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265667,
       "num": 159862,
       "word": "Yagao确诊",
       "onboard_time": 1666101204,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 260307,
+      "num": 104260,
+      "word": "毕业生2个月画废纸箱被美术馆收藏",
+      "onboard_time": 1666161862,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248847,
@@ -435,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227178,
+      "num": 99540,
+      "word": "当外国女星遇上中国旗袍",
+      "onboard_time": 1666162583,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225798,
       "num": 163562,
       "word": "男子找狗遇20多个萌娃帮寻4小时",
@@ -459,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203481,
+      "num": 100879,
+      "word": "身骑白马改编自王宝钏薛平贵的爱情",
+      "onboard_time": 1666161921,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201911,
       "num": 55320,
       "word": "一定要吃的一碗土豆焖面",
@@ -473,14 +545,6 @@
       "onboard_time": 1666107203,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193380,
-      "num": 110107,
-      "word": "日本环球影城马里奥园区实景",
-      "onboard_time": 1666160601,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 193305,
@@ -553,6 +617,14 @@
       "onboard_time": 1666154186,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166225,
+      "num": 112534,
+      "word": "保洁阿姨捡15万存单辗转找到失主",
+      "onboard_time": 1666160483,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160989,
@@ -779,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96590,
+      "num": 94878,
+      "word": "刘宇加盟暖暖的火锅",
+      "onboard_time": 1666162460,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95407,
       "num": 95407,
       "word": "男子轿车被划报警一查凶手是条狗",
@@ -835,6 +915,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 79189,
+      "num": 93376,
+      "word": "中科大成果或实现秒被重新定义",
+      "onboard_time": 1666164982,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 78306,
       "num": 78306,
       "word": "12岁男孩举办巨幅科幻画展",
@@ -875,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71474,
+      "num": 92712,
+      "word": "衣服上的油渍算是留不住了",
+      "onboard_time": 1666165403,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 69862,
       "num": 77879,
       "word": "消防员版腹部燃脂教程",
@@ -897,14 +993,6 @@
       "onboard_time": 1666161141,
       "rank": 44,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 68786,
-      "num": 112534,
-      "word": "保洁阿姨捡15万存单辗转找到失主",
-      "onboard_time": 1666160483,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68489,
@@ -977,6 +1065,14 @@
       "onboard_time": 1666093044,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47238,
+      "num": 102316,
+      "word": "群众结人梯救落水男童",
+      "onboard_time": 1666162881,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47022,

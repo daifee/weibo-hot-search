@@ -1,0 +1,410 @@
+{
+  "runTime": 1666165657765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 345583,
+        "num": 535328,
+        "word": "中国共产党国际形象网宣片CPC",
+        "onboard_time": 1666139186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106683,
+        "num": 106683,
+        "word": "青年看二十大",
+        "onboard_time": 1666154786,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128703,
+        "num": 106460,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986702,
+        "num": 106048,
+        "word": "成年人连绝交都是安静的",
+        "onboard_time": 1666134437,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 820835,
+        "num": 105832,
+        "word": "女子剖腹产后被家人用吊篮抬上7楼",
+        "onboard_time": 1666162103,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738025,
+        "num": 105435,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 533074,
+        "num": 104978,
+        "word": "AI预测S12冠军",
+        "onboard_time": 1666162222,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299925,
+        "num": 104545,
+        "word": "差点误会了食堂师傅",
+        "onboard_time": 1666156345,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260307,
+        "num": 104260,
+        "word": "毕业生2个月画废纸箱被美术馆收藏",
+        "onboard_time": 1666161862,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241223,
+        "num": 104024,
+        "word": "甜饮料危害到底有多大",
+        "onboard_time": 1666146323,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 630420,
+        "num": 103726,
+        "word": "iPad10粉色",
+        "onboard_time": 1666147701,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357916,
+        "num": 103319,
+        "word": "日本环球影城马里奥园区实景",
+        "onboard_time": 1666160601,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 288557,
+        "num": 102815,
+        "word": "4岁女童画作被父亲再创后大卖",
+        "onboard_time": 1666163242,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269973,
+        "num": 102646,
+        "word": "我国是刑事犯罪率最低的国家之一",
+        "onboard_time": 1666163542,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47238,
+        "num": 102316,
+        "word": "群众结人梯救落水男童",
+        "onboard_time": 1666162881,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263093,
+        "num": 101840,
+        "word": "中国成为世界最安全国家之一",
+        "onboard_time": 1666152684,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241385,
+        "num": 101538,
+        "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
+        "onboard_time": 1666137804,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233915,
+        "num": 101297,
+        "word": "为什么iPad没有计算器",
+        "onboard_time": 1666152924,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203481,
+        "num": 100879,
+        "word": "身骑白马改编自王宝钏薛平贵的爱情",
+        "onboard_time": 1666161921,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190612,
+        "num": 100321,
+        "word": "最高检谈昆山反杀案",
+        "onboard_time": 1666153524,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 308218,
+        "num": 100136,
+        "word": "谭松韵翟子路新剧开播",
+        "onboard_time": 1666162401,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227178,
+        "num": 99540,
+        "word": "当外国女星遇上中国旗袍",
+        "onboard_time": 1666162583,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226942,
+        "num": 99484,
+        "word": "周杰伦歌词的最后一句充满了遗憾",
+        "onboard_time": 1666147942,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190034,
+        "num": 98862,
+        "word": "陈浩民回应王宝钏挖野菜",
+        "onboard_time": 1666136179,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185067,
+        "num": 98689,
+        "word": "俄特别军事行动总指挥首次对媒体发声",
+        "onboard_time": 1666151122,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 184082,
+        "num": 98165,
+        "word": "iPad全线大涨价",
+        "onboard_time": 1666138466,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 171272,
+        "num": 97912,
+        "word": "阿凡达2片长190分钟",
+        "onboard_time": 1666149202,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 97391,
+        "word": "詹姆斯31分14篮板",
+        "onboard_time": 1666159703,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166225,
+        "num": 97087,
+        "word": "保洁阿姨捡15万存单辗转找到失主",
+        "onboard_time": 1666160483,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164754,
+        "num": 96703,
+        "word": "追光者芒果TV累计播放量破亿",
+        "onboard_time": 1666157303,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135355,
+        "num": 96592,
+        "word": "为王宝钏重写结局",
+        "onboard_time": 1666149263,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129757,
+        "num": 96007,
+        "word": "苹果公司削减iPhone14Plus产量",
+        "onboard_time": 1666152324,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111810,
+        "num": 95786,
+        "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
+        "onboard_time": 1666154903,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107034,
+        "num": 95482,
+        "word": "86岁爷爷4本日记记录孙女成长",
+        "onboard_time": 1666159402,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96590,
+        "num": 94878,
+        "word": "刘宇加盟暖暖的火锅",
+        "onboard_time": 1666162460,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92686,
+        "num": 94708,
+        "word": "被夸奖时这么回应就对了",
+        "onboard_time": 1666151482,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90191,
+        "num": 94423,
+        "word": "超鬼王",
+        "onboard_time": 1666148361,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86477,
+        "num": 93852,
+        "word": "千年银杏夫妻树遇上金秋滤镜",
+        "onboard_time": 1666155206,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 85335,
+        "num": 93786,
+        "word": "全面排查减刑假释暂予监外执行案件",
+        "onboard_time": 1666156584,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79189,
+        "num": 93376,
+        "word": "中科大成果或实现秒被重新定义",
+        "onboard_time": 1666164982,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 75418,
+        "num": 92961,
+        "word": "全系iPad告别Lightning接口",
+        "onboard_time": 1666137203,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71474,
+        "num": 92712,
+        "word": "衣服上的油渍算是留不住了",
+        "onboard_time": 1666165403,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 71187,
+        "num": 92085,
+        "word": "夫妻用苹果给女儿做薯条汉堡套餐",
+        "onboard_time": 1666140266,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66988,
+        "num": 91815,
+        "word": "新款iPad包装不再使用塑料外膜",
+        "onboard_time": 1666145481,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 66847,
+        "num": 91543,
+        "word": "金州勇士战胜湖人",
+        "onboard_time": 1666158623,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66094,
+        "num": 91161,
+        "word": "小朋友对于朋友的定义",
+        "onboard_time": 1666154186,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65470,
+        "num": 90641,
+        "word": "韩国考虑申办2036年奥运会",
+        "onboard_time": 1666150821,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64900,
+        "num": 90408,
+        "word": "来猫咪家串门的小狗",
+        "onboard_time": 1666153703,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58724,
+        "num": 90005,
+        "word": "泰语版苍兰诀太好笑了",
+        "onboard_time": 1666142664,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57516,
+        "num": 89840,
+        "word": "王嘉尔世界巡演曼谷站连开三场",
+        "onboard_time": 1666156763,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大新闻中心举办记者招待会#"
+    }
+  }
+}
