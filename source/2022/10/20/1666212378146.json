@@ -1,0 +1,410 @@
+{
+  "runTime": 1666212378146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6403,
+        "num": 28900,
+        "word": "二十大报告中这些举措关乎你我",
+        "onboard_time": 1666154425,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11670,
+        "num": 28848,
+        "word": "孕妇7个月大出血4个派出所生命接力",
+        "onboard_time": 1666180885,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457,
+        "num": 28645,
+        "word": "二十大代表vlog",
+        "onboard_time": 1666184366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 61112,
+        "num": 28379,
+        "word": "女生校内晕倒2流浪狗舔鼻唤醒",
+        "onboard_time": 1666179866,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37825,
+        "num": 28278,
+        "word": "民警输错3次密码帮忙保住10多万",
+        "onboard_time": 1666168580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28640,
+        "num": 27971,
+        "word": "90后父母给儿子硬核取名叫张总",
+        "onboard_time": 1666200254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28576,
+        "num": 27832,
+        "word": "水果店把裂口柿子摆路边免费送",
+        "onboard_time": 1666185864,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28136,
+        "num": 27499,
+        "word": "东北大哥开奔驰帮母亲拉300斤白菜",
+        "onboard_time": 1666187367,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19029,
+        "num": 27287,
+        "word": "89岁父亲忘记儿子去世每天寻找",
+        "onboard_time": 1666189285,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 27158,
+        "word": "单身了很久的人在想什么",
+        "onboard_time": 1666180346,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52901,
+        "num": 27019,
+        "word": "男子连夜陪产只睡2小时心脏骤停",
+        "onboard_time": 1666185205,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36262,
+        "num": 26835,
+        "word": "博士回老家发现国内埋藏最深金矿体",
+        "onboard_time": 1666198158,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34701,
+        "num": 26548,
+        "word": "没想到何以琛这么恋爱脑",
+        "onboard_time": 1666183465,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26272,
+        "num": 26294,
+        "word": "西安即将诞生的全新的交通方式",
+        "onboard_time": 1666192765,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25432,
+        "num": 26076,
+        "word": "带女友回家家人收拾10余小时迎接",
+        "onboard_time": 1666204512,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23372,
+        "num": 25983,
+        "word": "男孩花3小时做箭被爸爸折断痛哭",
+        "onboard_time": 1666187127,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19243,
+        "num": 25665,
+        "word": "范佩西在世界杯上飞起来了",
+        "onboard_time": 1666207152,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 25503,
+        "word": "猫啃坏3条数据线女子买串珠防护",
+        "onboard_time": 1666179385,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17582,
+        "num": 25332,
+        "word": "再恋爱脑就不礼貌了",
+        "onboard_time": 1666185025,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 25088,
+        "word": "女生求职碰壁遇HR帮改简历",
+        "onboard_time": 1666182805,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14059,
+        "num": 24947,
+        "word": "女生被食堂大叔请客吃饭投喂水果",
+        "onboard_time": 1666204213,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13970,
+        "num": 24803,
+        "word": "研究发现黑洞饭后会打嗝",
+        "onboard_time": 1666177705,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 13877,
+        "num": 24619,
+        "word": "今年爱奇艺独播剧热度榜",
+        "onboard_time": 1666190187,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12605,
+        "num": 24352,
+        "word": "陕西两市入列大城市名单",
+        "onboard_time": 1666196720,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12254,
+        "num": 24158,
+        "word": "富士康CEO称希望代工特斯拉",
+        "onboard_time": 1666192166,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 12156,
+        "num": 23842,
+        "word": "为什么说情绪价值重要",
+        "onboard_time": 1666179323,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11977,
+        "num": 23784,
+        "word": "掌握了买水果好吃的秘诀",
+        "onboard_time": 1666181062,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11629,
+        "num": 23599,
+        "word": "马拉多纳到底有多强",
+        "onboard_time": 1666208111,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11469,
+        "num": 23263,
+        "word": "中级会计成绩",
+        "onboard_time": 1666190187,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10473,
+        "num": 23007,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1666176746,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10425,
+        "num": 22924,
+        "word": "38人挤同一电梯发生故障全被困",
+        "onboard_time": 1666175724,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9944,
+        "num": 22678,
+        "word": "原来医学生看病真的会显示",
+        "onboard_time": 1666156165,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9543,
+        "num": 22584,
+        "word": "被女生之间的善意感动到了",
+        "onboard_time": 1666178244,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8949,
+        "num": 22272,
+        "word": "马嘉祺我们的歌打架子鼓",
+        "onboard_time": 1666189824,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8780,
+        "num": 22101,
+        "word": "网友总结当红女星的代表角色",
+        "onboard_time": 1666182685,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7849,
+        "num": 21799,
+        "word": "4岁女童画作被父亲再创后大卖",
+        "onboard_time": 1666163242,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7836,
+        "num": 21627,
+        "word": "AI预测S12冠军",
+        "onboard_time": 1666162222,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7686,
+        "num": 21436,
+        "word": "张艺兴舞台炎黄子孙开场",
+        "onboard_time": 1666186767,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 7603,
+        "num": 21319,
+        "word": "原来橘猫真的容易认错",
+        "onboard_time": 1666167743,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7391,
+        "num": 21095,
+        "word": "古装撑伞氛围感",
+        "onboard_time": 1666171643,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6989,
+        "num": 20953,
+        "word": "大熊猫顺利抵达多哈现场",
+        "onboard_time": 1666210450,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6888,
+        "num": 20586,
+        "word": "还是觉得你最好票房破亿",
+        "onboard_time": 1666191265,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6730,
+        "num": 20425,
+        "word": "谷爱凌获最佳女运动员表现奖",
+        "onboard_time": 1666181665,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5642,
+        "num": 20360,
+        "word": "王宝钏商标已被抢注",
+        "onboard_time": 1666205532,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 5363,
+        "num": 19967,
+        "word": "高校教师讲近代史感触落泪",
+        "onboard_time": 1666212310,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5325,
+        "num": 19955,
+        "word": "黄继光弟弟给母亲带回一抔上甘岭弹片泥土",
+        "onboard_time": 1666211649,
+        "rank": 45,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 5274,
+        "num": 19663,
+        "word": "已经毕业了但还是害怕",
+        "onboard_time": 1666170562,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 5247,
+        "num": 19480,
+        "word": "四姑娘山秋日唯美雪景",
+        "onboard_time": 1666211770,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 5145,
+        "num": 19232,
+        "word": "陶汉林隔扣任骏飞",
+        "onboard_time": 1666211890,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5129,
+        "num": 18962,
+        "word": "如何在地下2400米建最纯净的实验室",
+        "onboard_time": 1666211531,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

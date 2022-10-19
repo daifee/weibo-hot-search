@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666211333693,
+  "endTime": 1666212378146,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -30427,6 +30427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19243,
+      "num": 29397,
+      "word": "范佩西在世界杯上飞起来了",
+      "onboard_time": 1666207152,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -30489,14 +30497,6 @@
       "onboard_time": 1665424694,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 15039,
-      "num": 29397,
-      "word": "范佩西在世界杯上飞起来了",
-      "onboard_time": 1666207152,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 15007,
@@ -30643,6 +30643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11629,
+      "num": 24864,
+      "word": "马拉多纳到底有多强",
+      "onboard_time": 1666208111,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -30696,14 +30704,6 @@
       "word": "阿德莱德36人vs太阳",
       "onboard_time": 1664832012,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10459,
-      "num": 24864,
-      "word": "马拉多纳到底有多强",
-      "onboard_time": 1666208111,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -30943,6 +30943,14 @@
       "num": 8086,
       "word": "男孩坠井大喊不想离开这个世界",
       "onboard_time": 1665343991,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6989,
+      "num": 20953,
+      "word": "大熊猫顺利抵达多哈现场",
+      "onboard_time": 1666210450,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -31443,14 +31451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5566,
-      "num": 20659,
-      "word": "大熊猫顺利抵达多哈现场",
-      "onboard_time": 1666210450,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5550,
       "num": 8253,
       "word": "被闫安解说笑死了",
@@ -31587,12 +31587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5363,
+      "num": 19967,
+      "word": "高校教师讲近代史感触落泪",
+      "onboard_time": 1666212310,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 5329,
       "num": 5329,
       "word": "专访中国女篮队长杨力维",
       "onboard_time": 1664828290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 5325,
+      "num": 19955,
+      "word": "黄继光弟弟给母亲带回一抔上甘岭弹片泥土",
+      "onboard_time": 1666211649,
+      "rank": 45,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 5323,
@@ -31641,6 +31657,14 @@
       "onboard_time": 1664919492,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5247,
+      "num": 19480,
+      "word": "四姑娘山秋日唯美雪景",
+      "onboard_time": 1666211770,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 5217,
@@ -31745,6 +31769,22 @@
       "onboard_time": 1666124650,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5145,
+      "num": 19232,
+      "word": "陶汉林隔扣任骏飞",
+      "onboard_time": 1666211890,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5129,
+      "num": 18962,
+      "word": "如何在地下2400米建最纯净的实验室",
+      "onboard_time": 1666211531,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 5123,
