@@ -1,7 +1,15 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666149425010,
+  "endTime": 1666155431362,
   "band_list": [
+    {
+      "raw_hot": 1856621,
+      "num": 166179,
+      "word": "成年人连绝交都是安静的",
+      "onboard_time": 1666134437,
+      "rank": 15,
+      "category": "情感"
+    },
     {
       "raw_hot": 1538220,
       "num": 160116,
@@ -25,6 +33,14 @@
       "onboard_time": 1666101383,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 948834,
+      "num": 153607,
+      "word": "阿凡达2片长190分钟",
+      "onboard_time": 1666149202,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 867455,
@@ -51,20 +67,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 758236,
-      "num": 166179,
-      "word": "成年人连绝交都是安静的",
-      "onboard_time": 1666134437,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 666663,
       "num": 165418,
       "word": "北溪管道遭破坏处水下实景首次曝光",
       "onboard_time": 1666134496,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 601231,
+      "num": 142226,
+      "word": "俄特别军事行动总指挥首次对媒体发声",
+      "onboard_time": 1666151122,
+      "rank": 5,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 568816,
@@ -75,20 +91,44 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 544897,
+      "num": 156247,
+      "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
+      "onboard_time": 1666137804,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543297,
-      "num": 135521,
+      "num": 137955,
       "word": "全系iPad告别Lightning接口",
       "onboard_time": 1666137203,
       "rank": 30,
       "category": "科技"
     },
     {
-      "raw_hot": 527755,
-      "num": 156247,
-      "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
-      "onboard_time": 1666137804,
-      "rank": 12,
+      "raw_hot": 539699,
+      "num": 140795,
+      "word": "中国成为世界最安全国家之一",
+      "onboard_time": 1666152684,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532440,
+      "num": 142003,
+      "word": "韩国考虑申办2036年奥运会",
+      "onboard_time": 1666150821,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 510053,
+      "num": 157896,
+      "word": "甜饮料危害到底有多大",
+      "onboard_time": 1666146323,
+      "rank": 43,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 507998,
@@ -107,20 +147,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 486390,
+      "num": 152475,
+      "word": "周杰伦歌词的最后一句充满了遗憾",
+      "onboard_time": 1666147942,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 468462,
       "num": 160294,
       "word": "M2芯片iPadPro",
       "onboard_time": 1666107923,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 467980,
-      "num": 152475,
-      "word": "周杰伦歌词的最后一句充满了遗憾",
-      "onboard_time": 1666147942,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 444413,
@@ -163,20 +203,52 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405975,
+      "num": 151600,
+      "word": "满大街就属他最忙",
+      "onboard_time": 1666148602,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 380496,
+      "num": 140644,
+      "word": "为王宝钏重写结局",
+      "onboard_time": 1666149263,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369042,
+      "num": 139436,
+      "word": "最高检谈昆山反杀案",
+      "onboard_time": 1666153524,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 367259,
+      "num": 139852,
+      "word": "为什么iPad没有计算器",
+      "onboard_time": 1666152924,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 352829,
+      "num": 141469,
+      "word": "被夸奖时这么回应就对了",
+      "onboard_time": 1666151482,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351007,
       "num": 162024,
       "word": "为什么删了最好的朋友",
       "onboard_time": 1666094544,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 344554,
-      "num": 157896,
-      "word": "甜饮料危害到底有多大",
-      "onboard_time": 1666146323,
-      "rank": 43,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 331868,
@@ -225,6 +297,14 @@
       "onboard_time": 1666099763,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307302,
+      "num": 139221,
+      "word": "苹果公司削减iPhone14Plus产量",
+      "onboard_time": 1666152324,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 301057,
@@ -291,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232683,
+      "num": 139713,
+      "word": "双十一首次支持多地址合并下单",
+      "onboard_time": 1666151423,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 225798,
       "num": 163562,
       "word": "男子找狗遇20多个萌娃帮寻4小时",
@@ -323,28 +411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195704,
-      "num": 153607,
-      "word": "阿凡达2片长190分钟",
-      "onboard_time": 1666149202,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193305,
       "num": 150401,
       "word": "男孩拉链卡眼皮面对消防超淡定",
       "onboard_time": 1666146440,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192325,
-      "num": 151600,
-      "word": "满大街就属他最忙",
-      "onboard_time": 1666148602,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 187762,
@@ -411,6 +483,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 151583,
+      "num": 138384,
+      "word": "来猫咪家串门的小狗",
+      "onboard_time": 1666153703,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 149153,
+      "num": 138198,
+      "word": "金州勇士领取总冠军戒指",
+      "onboard_time": 1666148240,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148978,
       "num": 55292,
       "word": "口蘑的正确打开方式",
@@ -427,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142765,
+      "num": 142765,
+      "word": "青年看二十大",
+      "onboard_time": 1666154786,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141170,
       "num": 139974,
       "word": "全球最大无瑕疵钻石",
       "onboard_time": 1666093223,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137795,
+      "num": 137795,
+      "word": "小朋友对于朋友的定义",
+      "onboard_time": 1666154186,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 133766,
@@ -449,6 +553,14 @@
       "onboard_time": 1666114694,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130694,
+      "num": 130694,
+      "word": "万里归途值得二刷的原因",
+      "onboard_time": 1666153466,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 128689,
@@ -515,12 +627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103348,
-      "num": 103348,
-      "word": "为王宝钏重写结局",
-      "onboard_time": 1666149263,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 103762,
+      "num": 103762,
+      "word": "哈登35分准三双",
+      "onboard_time": 1666149083,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103206,
+      "num": 103206,
+      "word": "十岁哥哥抱哄两个月妹妹动作娴熟",
+      "onboard_time": 1666154903,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101137,
@@ -579,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87066,
+      "num": 87066,
+      "word": "阴阳师",
+      "onboard_time": 1666151604,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85879,
       "num": 169914,
       "word": "数读二十大",
@@ -603,12 +731,12 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 81557,
-      "num": 81557,
-      "word": "金州勇士领取总冠军戒指",
-      "onboard_time": 1666148240,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 79881,
+      "num": 79881,
+      "word": "千年银杏夫妻树遇上金秋滤镜",
+      "onboard_time": 1666155206,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 78306,
@@ -643,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74171,
-      "num": 74171,
-      "word": "哈登35分准三双",
-      "onboard_time": 1666149083,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69783,
       "num": 69783,
       "word": "原来狂野是可以遗传的",
@@ -665,6 +785,14 @@
       "onboard_time": 1666092681,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66364,
+      "num": 142733,
+      "word": "二十大报告中这些举措关乎你我",
+      "onboard_time": 1666154425,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 63127,
@@ -972,6 +1100,9 @@
     },
     {
       "word": "#党的二十大主席团第二次会议#"
+    },
+    {
+      "word": "#二十大新闻中心举办记者招待会#"
     }
   ]
 }
