@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666136968954,
+  "endTime": 1666146714505,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2339,6 +2339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 999605,
+      "num": 999605,
+      "word": "中国共产党国际形象网宣片CPC",
+      "onboard_time": 1666139186,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 997993,
       "num": 997993,
       "word": "杨蓉大山的女儿二登央视黄金档",
@@ -2979,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867455,
+      "num": 117070,
+      "word": "夫妻用苹果给女儿做薯条汉堡套餐",
+      "onboard_time": 1666140266,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866207,
       "num": 866207,
       "word": "90后董事长的婚礼有多会玩",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1664964445,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 851616,
+      "num": 113983,
+      "word": "iPad全线大涨价",
+      "onboard_time": 1666138466,
+      "rank": 10,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 851374,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1664641459,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803914,
+      "num": 162603,
+      "word": "陈浩民回应王宝钏挖野菜",
+      "onboard_time": 1666136179,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 802432,
@@ -6043,6 +6075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543297,
+      "num": 104518,
+      "word": "全系iPad告别Lightning接口",
+      "onboard_time": 1666137203,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 542448,
       "num": 542448,
       "word": "杨洋赵露思且试天下将在日本播出",
@@ -6257,6 +6297,14 @@
       "onboard_time": 1665591143,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527755,
+      "num": 113200,
+      "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
+      "onboard_time": 1666137804,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525503,
@@ -6577,6 +6625,14 @@
       "onboard_time": 1664542403,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 507998,
+      "num": 116889,
+      "word": "泰语版苍兰诀太好笑了",
+      "onboard_time": 1666142664,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 507996,
@@ -8473,6 +8529,14 @@
       "onboard_time": 1665210322,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420067,
+      "num": 162145,
+      "word": "女生赴英留学课堂几乎全是中国人",
+      "onboard_time": 1666135339,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 419933,
@@ -11491,6 +11555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313917,
+      "num": 114761,
+      "word": "调查称北溪管道泄漏事故为强烈爆炸所致",
+      "onboard_time": 1666142005,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313881,
       "num": 313881,
       "word": "清清虽呆但帅",
@@ -11633,6 +11705,14 @@
       "onboard_time": 1665209125,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 309863,
+      "num": 111856,
+      "word": "新款iPadPro售价6799元起",
+      "onboard_time": 1666138345,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 309485,
@@ -11864,6 +11944,14 @@
       "word": "塞尔维亚女排卫冕世锦赛冠军",
       "onboard_time": 1665899066,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301057,
+      "num": 111507,
+      "word": "湖勇大战",
+      "onboard_time": 1666142542,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -12139,6 +12227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294044,
+      "num": 111077,
+      "word": "王菲流年发行二十一周年",
+      "onboard_time": 1666144459,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294036,
       "num": 294036,
       "word": "中方回应美对芯片实施新出口管制",
@@ -12345,6 +12441,14 @@
       "onboard_time": 1665232825,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288469,
+      "num": 110592,
+      "word": "新款iPad包装不再使用塑料外膜",
+      "onboard_time": 1666145481,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 288346,
@@ -13137,6 +13241,14 @@
       "onboard_time": 1665725845,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271270,
+      "num": 110359,
+      "word": "10月18日新增本土确诊204例",
+      "onboard_time": 1666142842,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271180,
@@ -15547,14 +15659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225428,
-      "num": 162603,
-      "word": "陈浩民回应王宝钏挖野菜",
-      "onboard_time": 1666136179,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225370,
       "num": 225370,
       "word": "95岁老人分别60年后重逢登记结婚",
@@ -16459,14 +16563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208368,
-      "num": 162145,
-      "word": "女生赴英留学课堂几乎全是中国人",
-      "onboard_time": 1666135339,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 208103,
       "num": 208103,
       "word": "一人一张明星氛围感神图",
@@ -16497,6 +16593,14 @@
       "onboard_time": 1665287724,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207582,
+      "num": 108679,
+      "word": "新版天线宝宝预告",
+      "onboard_time": 1666143863,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 207467,
@@ -20659,6 +20763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147215,
+      "num": 106125,
+      "word": "徐梦桃如何从烤摊到夺冠",
+      "onboard_time": 1666145241,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146906,
       "num": 146906,
       "word": "追梦格林再次道歉",
@@ -20864,6 +20976,14 @@
       "word": "星星点灯万里归途",
       "onboard_time": 1664622563,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144911,
+      "num": 117350,
+      "word": "罗云熙说救人面前工作可以往后稍",
+      "onboard_time": 1666134797,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -23115,14 +23235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117350,
-      "num": 117350,
-      "word": "罗云熙说救人面前工作可以往后稍",
-      "onboard_time": 1666134797,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117346,
       "num": 95340,
       "word": "刘雨昕暖色系浪漫开启秋日",
@@ -24435,6 +24547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101137,
+      "num": 101137,
+      "word": "当代正确的爱情观是什么",
+      "onboard_time": 1666136900,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101060,
       "num": 101060,
       "word": "锡安伤退",
@@ -24987,6 +25107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93963,
+      "num": 93963,
+      "word": "哈登首节16分",
+      "onboard_time": 1666141825,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93669,
       "num": 93669,
       "word": "男生穿回同学破校服让妈妈帮缝",
@@ -25411,6 +25539,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88365,
+      "num": 88365,
+      "word": "哈登高难度三分",
+      "onboard_time": 1666145721,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88286,
+      "num": 88286,
+      "word": "塔克拉玛干沙漠现大片罕见湖泊",
+      "onboard_time": 1666145963,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "月曜采访手工耿",
@@ -25635,6 +25779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85879,
+      "num": 169914,
+      "word": "数读二十大",
+      "onboard_time": 1666095803,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85752,
       "num": 85752,
       "word": "清融 六冠中单",
@@ -25673,6 +25825,14 @@
       "onboard_time": 1664550378,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85419,
+      "num": 85419,
+      "word": "甜饮料危害到底有多大",
+      "onboard_time": 1666146323,
+      "rank": 43,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 85092,
@@ -25865,6 +26025,14 @@
       "onboard_time": 1665215963,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82963,
+      "num": 82963,
+      "word": "男孩拉链卡眼皮面对消防超淡定",
+      "onboard_time": 1666146440,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82902,
@@ -26499,14 +26667,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 74305,
-      "num": 169914,
-      "word": "数读二十大",
-      "onboard_time": 1666095803,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74141,
       "num": 74141,
       "word": "孙铭徽20分",
@@ -26793,6 +26953,14 @@
       "onboard_time": 1665282623,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69783,
+      "num": 69783,
+      "word": "原来狂野是可以遗传的",
+      "onboard_time": 1666137804,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 69636,
@@ -27145,6 +27313,14 @@
       "onboard_time": 1664820253,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65480,
+      "num": 114531,
+      "word": "二十大新闻中心第三场记者招待会",
+      "onboard_time": 1666145363,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 65446,
@@ -27945,14 +28121,6 @@
       "onboard_time": 1665865150,
       "rank": 42,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 51794,
-      "num": 51794,
-      "word": "当代正确的爱情观是什么",
-      "onboard_time": 1666136900,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 51791,

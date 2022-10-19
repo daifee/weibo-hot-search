@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 07:49:28
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 10:31:54
 </p>
 </blockquote>
 <p>
@@ -1767,6 +1767,12 @@ iPhone14车祸检测坐过山车会报警（热度：1000872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9B%BD%E9%99%85%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87CPC%23" target="weibo">
+中国共产党国际形象网宣片CPC（热度：999605）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%93%89%E5%A4%A7%E5%B1%B1%E7%9A%84%E5%A5%B3%E5%84%BF%E4%BA%8C%E7%99%BB%E5%A4%AE%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3%23" target="weibo">
 杨蓉大山的女儿二登央视黄金档（热度：997993）
 </a>
@@ -2247,6 +2253,12 @@ Apple（热度：868948）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%94%A8%E8%8B%B9%E6%9E%9C%E7%BB%99%E5%A5%B3%E5%84%BF%E5%81%9A%E8%96%AF%E6%9D%A1%E6%B1%89%E5%A0%A1%E5%A5%97%E9%A4%90%23" target="weibo">
+夫妻用苹果给女儿做薯条汉堡套餐（热度：867455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%9C%89%E5%A4%9A%E4%BC%9A%E7%8E%A9%23" target="weibo">
 90后董事长的婚礼有多会玩（热度：866207）
 </a>
@@ -2303,6 +2315,12 @@ Apple（热度：868948）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%AE%A9%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%8F%98%E5%BE%97%E7%94%9F%E7%96%8F%23" target="weibo">
 英语让一家人变得生疏（热度：853186）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPad%E5%85%A8%E7%BA%BF%E5%A4%A7%E6%B6%A8%E4%BB%B7%23" target="weibo">
+iPad全线大涨价（热度：851616）
 </a>
 </li>
 
@@ -2483,6 +2501,12 @@ JDG战胜DK（热度：837920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%8B%8D%E5%88%B0%E9%BB%91%E7%86%8A%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%9E%97%E4%B8%AD%E6%BC%AB%E6%AD%A5%23" target="weibo">
 重庆拍到黑熊一家三口林中漫步（热度：805773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%A9%E6%B0%91%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%AE%9D%E9%92%8F%E6%8C%96%E9%87%8E%E8%8F%9C%23" target="weibo">
+陈浩民回应王宝钏挖野菜（热度：803914）
 </a>
 </li>
 
@@ -4545,6 +4569,12 @@ iPod之父支持iPhone改用C口（热度：552071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%B3%BBiPad%E5%91%8A%E5%88%ABLightning%E6%8E%A5%E5%8F%A3%23" target="weibo">
+全系iPad告别Lightning接口（热度：543297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%92%AD%E5%87%BA%23" target="weibo">
 杨洋赵露思且试天下将在日本播出（热度：542448）
 </a>
@@ -4703,6 +4733,12 @@ TMA（热度：540431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
 我睡着了连我自己都害怕（热度：527932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E5%87%BA%E5%AB%81%E6%9C%AA%E5%A9%9A%E5%A7%90%E5%A7%90%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%B8%8A%E6%A5%BC%E9%A1%B6%E5%9B%9E%E9%81%BF%23" target="weibo">
+妹妹出嫁未婚姐姐第四次上楼顶回避（热度：527755）
 </a>
 </li>
 
@@ -4943,6 +4979,12 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%A5%97%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%23" target="weibo">
 首套个人住房公积金贷款利率下调（热度：508018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%AF%AD%E7%89%88%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23" target="weibo">
+泰语版苍兰诀太好笑了（热度：507998）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ V社处罚LGD（热度：449534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E5%88%9B%E6%96%B0%E6%94%B9%E7%89%88%23" target="weibo">
 天天向上创新改版（热度：443404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%91%E4%BD%9C%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
-恋爱脑发作有多可怕（热度：443403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A9%BF%E6%B1%89%E6%9C%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-老外第一次穿汉服的反应（热度：443151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233D%E6%89%93%E5%8D%B0%E8%82%89%E5%B0%86%E6%8A%95%E5%85%A5%E5%95%86%E4%B8%9A%E9%A2%86%E5%9F%9F%23" target="weibo">
-3D打印肉将投入商业领域（热度：442517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%A9%BF%E8%A5%BF%E8%A3%85%E9%80%81%E5%A5%B3%E5%84%BF%E5%87%BA%E5%AB%81%E8%A2%AB%E5%BD%93%E6%88%90%E9%97%BA%E8%9C%9C%23" target="weibo">
-母亲穿西装送女儿出嫁被当成闺蜜（热度：442288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A8%E6%95%99%E7%BB%83%E5%BA%A7%E4%BD%8D%E8%A2%AB%E6%8B%86%E4%BA%86%23" target="weibo">
-仨教练座位被拆了（热度：441028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%8E%8B%E8%B7%AF%E8%BE%B9%E5%93%84%E5%B0%8F%E5%AD%A9%E7%AA%81%E9%81%AD%E7%94%B7%E5%AD%90%E6%8C%A5%E6%8B%B3%E8%A2%AD%E5%87%BB%23" target="weibo">
-雪王路边哄小孩突遭男子挥拳袭击（热度：440822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E7%89%B9%E6%8B%89%E6%96%AF%E8%A7%A3%E9%9B%87%E8%B4%A2%E6%94%BF%E5%A4%A7%E8%87%A3%23" target="weibo">
-英国首相特拉斯解雇财政大臣（热度：440667）
 </a>
 </li>
 
