@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 07:31:57
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 07:49:25
 </p>
 </blockquote>
 <p>
@@ -2513,6 +2513,12 @@ JDG战胜DK（热度：837920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%A235%E4%B8%87%E6%89%8B%E9%95%AF2%E5%9C%B0%E9%93%81%E8%AD%A6%E6%8E%A5%E5%8A%9B%E6%89%BE%E5%9B%9E%23" target="weibo">
 女子丢35万手镯2地铁警接力找回（热度：823530）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E5%9B%9E%E8%80%81%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%86%85%E5%9F%8B%E8%97%8F%E6%9C%80%E6%B7%B1%E9%87%91%E7%9F%BF%E4%BD%93%23" target="weibo">
+博士回老家发现国内埋藏最深金矿体（热度：823438）
 </a>
 </li>
 
@@ -5241,6 +5247,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%88%B6%E6%AF%8D%E7%BB%99%E5%84%BF%E5%AD%90%E7%A1%AC%E6%A0%B8%E5%8F%96%E5%90%8D%E5%8F%AB%E5%BC%A0%E6%80%BB%23" target="weibo">
+90后父母给儿子硬核取名叫张总（热度：503026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%81%87%E6%9C%9F%E5%90%8E%E8%BF%9E%E4%B8%8A7%E5%A4%A9%E8%AF%BE%E5%A4%A9%E5%A4%A9%E5%93%AD%23" target="weibo">
 小学生因假期后连上7天课天天哭（热度：502932）
 </a>
@@ -5999,18 +6011,6 @@ RNG晋级小组赛（热度：455554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%97%A0%E7%91%95%E7%96%B5%E9%92%BB%E7%9F%B3%23" target="weibo">
 全球最大无瑕疵钻石（热度：454629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LPL%E5%B0%8F%E7%BB%84%E8%B5%9B%E9%A6%96%E8%BD%AE9%E8%83%9C3%E8%B4%9F%23" target="weibo">
-LPL小组赛首轮9胜3负（热度：454232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E8%87%B4%E5%90%BE%E8%BE%88%E8%88%9E%E5%8F%B0%23" target="weibo">
-张杰国庆晚会致吾辈舞台（热度：453871）
 </a>
 </li>
 

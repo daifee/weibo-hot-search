@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/17 00:35:37 ~ 2022/10/20 07:31:57
+本榜单时间：2022/10/17 00:35:37 ~ 2022/10/20 07:49:25
 </p>
 </blockquote>
 <p>
@@ -281,6 +281,12 @@ iPad全线大涨价（热度：851616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E8%AE%A9%E5%9B%BD%E5%AE%B6%E4%B8%BA%E7%85%A4%E5%8F%91%E6%84%81%23" target="weibo">
 山西省委强调不能让国家为煤发愁（热度：837228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E5%9B%9E%E8%80%81%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%86%85%E5%9F%8B%E8%97%8F%E6%9C%80%E6%B7%B1%E9%87%91%E7%9F%BF%E4%BD%93%23" target="weibo">
+博士回老家发现国内埋藏最深金矿体（热度：823438）
 </a>
 </li>
 
@@ -651,6 +657,12 @@ AI预测S12冠军（热度：533074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%88%B6%E6%AF%8D%E7%BB%99%E5%84%BF%E5%AD%90%E7%A1%AC%E6%A0%B8%E5%8F%96%E5%90%8D%E5%8F%AB%E5%BC%A0%E6%80%BB%23" target="weibo">
+90后父母给儿子硬核取名叫张总（热度：503026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BC%A0%E9%92%BB%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E8%87%AA%E5%8A%A8%E5%94%AE%E5%8D%96%E6%9C%BA%E5%81%B7%E5%90%83%23" target="weibo">
 老鼠钻进男生宿舍自动售卖机偷吃（热度：502053）
 </a>
@@ -861,12 +873,6 @@ M2芯片iPadPro（热度：468462）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%88%B6%E6%AF%8D%E7%BB%99%E5%84%BF%E5%AD%90%E7%A1%AC%E6%A0%B8%E5%8F%96%E5%90%8D%E5%8F%AB%E5%BC%A0%E6%80%BB%23" target="weibo">
-90后父母给儿子硬核取名叫张总（热度：410605）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%BF%E7%98%A4%E6%99%9A%E6%9C%9F%E4%B8%BB%E4%BA%BA%E7%BB%99%E7%8C%AB%E5%92%96%E7%95%99%E7%BA%B8%E6%9D%A1%E6%89%98%E4%BB%98%E7%88%B1%E7%8C%AB%23" target="weibo">
 肿瘤晚期主人给猫咖留纸条托付爱猫（热度：406869）
 </a>
@@ -911,12 +917,6 @@ EDG选手身体状态（热度：398503）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%98%AF%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E7%8E%87%E6%9C%80%E4%BD%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80%23" target="weibo">
 我国是刑事犯罪率最低的国家之一（热度：392771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E5%9B%9E%E8%80%81%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%86%85%E5%9F%8B%E8%97%8F%E6%9C%80%E6%B7%B1%E9%87%91%E7%9F%BF%E4%BD%93%23" target="weibo">
-博士回老家发现国内埋藏最深金矿体（热度：391765）
 </a>
 </li>
 
@@ -1001,6 +1001,12 @@ RNG和GEN加赛（热度：373441）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%80%BB%E7%BB%93%E5%BD%93%E7%BA%A2%E5%A5%B3%E6%98%9F%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%A7%92%E8%89%B2%23" target="weibo">
 网友总结当红女星的代表角色（热度：366712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%A7%E5%85%89%E7%89%BA%E7%89%B2%E6%97%B6%E8%83%B8%E8%85%B9%E8%A2%AB%E5%AD%90%E5%BC%B9%E6%89%93%E7%A9%BF%23" target="weibo">
+黄继光牺牲时胸腹被子弹打穿（热度：365552）
 </a>
 </li>
 
@@ -1593,6 +1599,12 @@ OG（热度：252310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%A3%9F%E5%A0%82%E5%A4%A7%E5%8F%94%E8%AF%B7%E5%AE%A2%E5%90%83%E9%A5%AD%E6%8A%95%E5%96%82%E6%B0%B4%E6%9E%9C%23" target="weibo">
+女生被食堂大叔请客吃饭投喂水果（热度：238283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E6%97%B6%E5%8F%91%E7%97%85%E8%9B%87%E5%BD%A2%E8%B5%B0%E4%BD%8D%23" target="weibo">
 男子骑车时发病蛇形走位（热度：237477）
 </a>
@@ -1671,6 +1683,12 @@ V社处罚LGD（热度：234181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9B%E5%85%A5%E8%BF%87%E5%BA%A6%E4%B8%8A%E6%B6%A8%E4%B8%80%E7%BA%A7%E9%A2%84%E8%AD%A6%E5%8C%BA%E9%97%B4%23" target="weibo">
+河南省猪肉价格进入过度上涨一级预警区间（热度：229144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E6%98%8E%E5%87%AF%E5%86%8D%E5%BA%A6%E5%90%8C%E6%A1%86%23" target="weibo">
 Uzi明凯再度同框（热度：229084）
 </a>
@@ -1691,6 +1709,12 @@ Uzi明凯再度同框（热度：229084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BB%E5%B8%AD%E5%9B%A2%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%23" target="weibo">
 党的二十大主席团第二次会议（热度：226571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%9A%E7%B3%96%E7%82%92%E6%9D%BF%E6%A0%97%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B6%88%E9%98%B2%E6%89%BE%E4%B8%8A%E9%97%A8%23" target="weibo">
+大学生做糖炒板栗被举报消防找上门（热度：226553）
 </a>
 </li>
 
@@ -1887,8 +1911,8 @@ GEN战胜RNG（热度：224619）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%A3%9F%E5%A0%82%E5%A4%A7%E5%8F%94%E8%AF%B7%E5%AE%A2%E5%90%83%E9%A5%AD%E6%8A%95%E5%96%82%E6%B0%B4%E6%9E%9C%23" target="weibo">
-女生被食堂大叔请客吃饭投喂水果（热度：194090）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%AE%B6%E5%AE%B6%E4%BA%BA%E6%94%B6%E6%8B%BE10%E4%BD%99%E5%B0%8F%E6%97%B6%E8%BF%8E%E6%8E%A5%23" target="weibo">
+带女友回家家人收拾10余小时迎接（热度：194457）
 </a>
 </li>
 
@@ -2091,12 +2115,6 @@ S12（热度：179760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9B%E5%85%A5%E8%BF%87%E5%BA%A6%E4%B8%8A%E6%B6%A8%E4%B8%80%E7%BA%A7%E9%A2%84%E8%AD%A6%E5%8C%BA%E9%97%B4%23" target="weibo">
-河南省猪肉价格进入过度上涨一级预警区间（热度：175333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%AA%E6%91%84%E5%BD%B1%E5%B8%88%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 有个摄影师男友是什么体验（热度：174434）
 </a>
@@ -2229,12 +2247,6 @@ RNG DOTA2（热度：167275）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%AE%B6%E5%AE%B6%E4%BA%BA%E6%94%B6%E6%8B%BE10%E4%BD%99%E5%B0%8F%E6%97%B6%E8%BF%8E%E6%8E%A5%23" target="weibo">
-带女友回家家人收拾10余小时迎接（热度：165333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%23" target="weibo">
 二十大广西代表团讨论（热度：162367）
 </a>
@@ -2267,6 +2279,12 @@ RNG DOTA2（热度：167275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E7%9A%84%E7%9C%BC%E7%A5%9E%E9%80%8F%E9%9C%B2%E5%87%BA%E5%AE%83%E7%9A%84%E6%9D%83%E5%A8%81%23" target="weibo">
 猫咪的眼神透露出它的权威（热度：160058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2388%E5%B2%81%E8%80%81%E5%A4%AA%E5%90%83%E9%A5%AD%E6%97%B6%E7%97%B4%E8%BF%B7%E7%94%A8%E6%89%8B%E6%9C%BA%E7%9C%8B%E5%89%A7%23" target="weibo">
+88岁老太吃饭时痴迷用手机看剧（热度：159461）
 </a>
 </li>
 
@@ -2373,6 +2391,12 @@ RNG可惜（热度：148018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%A7%8B%E8%91%B5%E5%8F%AF%E4%BB%A5%E7%85%8E%E8%99%BE%E6%BB%91%23" target="weibo">
+原来秋葵可以煎虾滑（热度：146538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AF%B4%E6%95%91%E4%BA%BA%E9%9D%A2%E5%89%8D%E5%B7%A5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%BE%80%E5%90%8E%E7%A8%8D%23" target="weibo">
 罗云熙说救人面前工作可以往后稍（热度：144911）
 </a>
@@ -2447,12 +2471,6 @@ RNG可惜（热度：148018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%AD%A6%E5%81%9A%E7%BC%99%E4%BA%91%E7%83%A7%E9%A5%BC%23" target="weibo">
 秦霄贤学做缙云烧饼（热度：138792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2388%E5%B2%81%E8%80%81%E5%A4%AA%E5%90%83%E9%A5%AD%E6%97%B6%E7%97%B4%E8%BF%B7%E7%94%A8%E6%89%8B%E6%9C%BA%E7%9C%8B%E5%89%A7%23" target="weibo">
-88岁老太吃饭时痴迷用手机看剧（热度：138616）
 </a>
 </li>
 
@@ -2613,6 +2631,12 @@ TVB新剧上车家族开播全员发车（热度：127364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%BD%A9%E8%A5%BF%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
+范佩西在世界杯上飞起来了（热度：121007）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E7%8E%B0%E5%A4%A7%E7%89%87%E7%BD%95%E8%A7%81%E6%B9%96%E6%B3%8A%23" target="weibo">
 塔克拉玛干沙漠现大片罕见湖泊（热度：119964）
 </a>
@@ -2711,12 +2735,6 @@ WTT澳门冠军赛抽签仪式（热度：119129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E7%94%9F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%96%84%E6%84%8F%E6%84%9F%E5%8A%A8%E5%88%B0%E4%BA%86%23" target="weibo">
 被女生之间的善意感动到了（热度：112673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%A7%E5%85%89%E7%89%BA%E7%89%B2%E6%97%B6%E8%83%B8%E8%85%B9%E8%A2%AB%E5%AD%90%E5%BC%B9%E6%89%93%E7%A9%BF%23" target="weibo">
-黄继光牺牲时胸腹被子弹打穿（热度：112301）
 </a>
 </li>
 
@@ -2909,12 +2927,6 @@ gemini幸运杯（热度：108506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E5%9B%9E%E5%90%8C%E5%AD%A6%E7%A0%B4%E6%A0%A1%E6%9C%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E5%B8%AE%E7%BC%9D%23" target="weibo">
 男生穿回同学破校服让妈妈帮缝（热度：93669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%BD%A9%E8%A5%BF%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
-范佩西在世界杯上飞起来了（热度：92588）
 </a>
 </li>
 
@@ -3243,12 +3255,6 @@ WTT澳门冠军赛女单对阵出炉（热度：71108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%9A%E7%B3%96%E7%82%92%E6%9D%BF%E6%A0%97%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B6%88%E9%98%B2%E6%89%BE%E4%B8%8A%E9%97%A8%23" target="weibo">
-大学生做糖炒板栗被举报消防找上门（热度：67499）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E6%97%A5%E8%A2%AB4%E5%A5%BD%E5%8F%8B%E6%8B%96%E8%A1%8C%E7%A4%BA%E4%BC%97%23" target="weibo">
 女子生日被4好友拖行示众（热度：67083）
 </a>
@@ -3399,12 +3405,6 @@ WTT澳门冠军赛女单对阵出炉（热度：71108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%A7%8B%E8%91%B5%E5%8F%AF%E4%BB%A5%E7%85%8E%E8%99%BE%E6%BB%91%23" target="weibo">
-原来秋葵可以煎虾滑（热度：53288）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E8%8E%B7%E5%BE%97%E7%A7%91%E5%B8%95%E5%A5%96%23" target="weibo">
 加维获得科帕奖（热度：52726）
 </a>
@@ -3425,6 +3425,12 @@ WTT澳门冠军赛女单对阵出炉（热度：71108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2366%E5%B2%81%E9%98%BF%E5%A7%A8%E6%92%91%E8%88%B9%E6%95%91%E8%B5%B7200%E6%96%A4%E8%90%BD%E6%B0%B4%E5%B0%8F%E4%BC%99%23" target="weibo">
 66岁阿姨撑船救起200斤落水小伙（热度：49470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%A4%9A%E5%93%88%E7%8E%B0%E5%9C%BA%23" target="weibo">
+大熊猫顺利抵达多哈现场（热度：49463）
 </a>
 </li>
 
@@ -3459,6 +3465,12 @@ WTT澳门冠军赛女单对阵出炉（热度：71108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E7%90%86%E8%A7%A3%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E7%9A%84%E5%AE%A2%E6%9C%8D%E4%BA%86%23" target="weibo">
+开始理解各行各业的客服了（热度：46920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8816%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A182%E4%BE%8B%23" target="weibo">
 10月16日新增本土确诊182例（热度：45436）
 </a>
@@ -3473,12 +3485,6 @@ WTT澳门冠军赛女单对阵出炉（热度：71108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%A7%80%E7%A5%A5%E8%B5%B0%E6%9D%91%E5%8A%9D%E5%AD%A610%E5%B9%B4%E9%AA%91%E5%9D%8F8%E8%BE%86%E6%91%A9%E6%89%98%23" target="weibo">
 刘秀祥走村劝学10年骑坏8辆摩托（热度：43876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%A4%9A%E5%93%88%E7%8E%B0%E5%9C%BA%23" target="weibo">
-大熊猫顺利抵达多哈现场（热度：43474）
 </a>
 </li>
 
