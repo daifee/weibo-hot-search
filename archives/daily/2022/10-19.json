@@ -1,6 +1,6 @@
 {
   "startTime": 1666111296518,
-  "endTime": 1666166373485,
+  "endTime": 1666168920799,
   "band_list": [
     {
       "raw_hot": 1856621,
@@ -91,6 +91,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 632962,
+      "num": 99000,
+      "word": "梁靖崑3比2林高远",
+      "onboard_time": 1666167202,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601231,
       "num": 142226,
       "word": "俄特别军事行动总指挥首次对媒体发声",
@@ -179,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484435,
+      "num": 102815,
+      "word": "4岁女童画作被父亲再创后大卖",
+      "onboard_time": 1666163242,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468462,
       "num": 160294,
       "word": "M2芯片iPadPro",
@@ -209,6 +225,14 @@
       "onboard_time": 1666091423,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421221,
+      "num": 98556,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1666165883,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 420067,
@@ -259,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 392771,
+      "num": 102646,
+      "word": "我国是刑事犯罪率最低的国家之一",
+      "onboard_time": 1666163542,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380496,
       "num": 140644,
       "word": "为王宝钏重写结局",
@@ -289,22 +321,6 @@
       "onboard_time": 1666094544,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346726,
-      "num": 102815,
-      "word": "4岁女童画作被父亲再创后大卖",
-      "onboard_time": 1666163242,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339756,
-      "num": 102646,
-      "word": "我国是刑事犯罪率最低的国家之一",
-      "onboard_time": 1666163542,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331868,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276307,
+      "num": 99540,
+      "word": "当外国女星遇上中国旗袍",
+      "onboard_time": 1666162583,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272837,
       "num": 163986,
       "word": "美国一年内衰退概率达100%",
@@ -449,6 +473,14 @@
       "onboard_time": 1666101204,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 251350,
+      "num": 96907,
+      "word": "小猫从6层楼高空坠落众人撑床单接住",
+      "onboard_time": 1666166841,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 248847,
@@ -491,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227178,
-      "num": 99540,
-      "word": "当外国女星遇上中国旗袍",
-      "onboard_time": 1666162583,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225798,
       "num": 163562,
       "word": "男子找狗遇20多个萌娃帮寻4小时",
@@ -539,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201591,
+      "num": 96501,
+      "word": "中科大成果或实现秒被重新定义",
+      "onboard_time": 1666164982,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196411,
       "num": 161090,
       "word": "一只鸭子能有多欠",
@@ -547,12 +579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195429,
+      "num": 96286,
+      "word": "衣服上的油渍算是留不住了",
+      "onboard_time": 1666165403,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 193305,
       "num": 150401,
       "word": "男孩拉链卡眼皮面对消防超淡定",
       "onboard_time": 1666146440,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189095,
+      "num": 95840,
+      "word": "WTT",
+      "onboard_time": 1666167322,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 187762,
@@ -569,14 +617,6 @@
       "onboard_time": 1666160483,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186187,
-      "num": 92789,
-      "word": "梁靖崑vs林高远",
-      "onboard_time": 1666165883,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 185488,
@@ -643,6 +683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 158799,
+      "num": 94361,
+      "word": "原来橘猫真的容易认错",
+      "onboard_time": 1666167743,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157918,
       "num": 157918,
       "word": "10岁女孩劝88岁曾祖母吃饭别玩手机",
@@ -657,6 +705,14 @@
       "onboard_time": 1666097424,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152684,
+      "num": 93888,
+      "word": "生日当然要好好拍照记录啦",
+      "onboard_time": 1666166423,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 149153,
@@ -683,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144447,
+      "num": 93427,
+      "word": "中东地区第一家大熊猫馆",
+      "onboard_time": 1666166302,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142765,
       "num": 142765,
       "word": "青年看二十大",
@@ -697,14 +761,6 @@
       "onboard_time": 1666093223,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136272,
-      "num": 93376,
-      "word": "中科大成果或实现秒被重新定义",
-      "onboard_time": 1666164982,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 133766,
@@ -753,14 +809,6 @@
       "onboard_time": 1666095803,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123520,
-      "num": 92712,
-      "word": "衣服上的油渍算是留不住了",
-      "onboard_time": 1666165403,
-      "rank": 41,
-      "category": "其它"
     },
     {
       "raw_hot": 119964,
@@ -835,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105464,
+      "num": 91969,
+      "word": "民警输错3次密码帮忙保住10多万",
+      "onboard_time": 1666168580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103762,
       "num": 103762,
       "word": "哈登35分准三双",
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87723,
+      "num": 91476,
+      "word": "6岁女孩饭店里即兴演绎民族舞",
+      "onboard_time": 1666168523,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87066,
       "num": 87066,
       "word": "阴阳师",
@@ -937,6 +1001,14 @@
       "onboard_time": 1666072665,
       "rank": 35,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 78611,
+      "num": 90961,
+      "word": "黄柳霜成登上美国货币的首个亚裔",
+      "onboard_time": 1666168222,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 78306,
@@ -1003,20 +1075,20 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 68534,
+      "num": 90213,
+      "word": "视障女孩手心倒水画圈苦练成咖啡师",
+      "onboard_time": 1666167803,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68489,
       "num": 55244,
       "word": "当老师真的很难不生气",
       "onboard_time": 1666092681,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65612,
-      "num": 85853,
-      "word": "中东地区第一家大熊猫馆",
-      "onboard_time": 1666166302,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63127,
@@ -1064,6 +1136,14 @@
       "word": "初二女生被高年级男生认亲叫小姨",
       "onboard_time": 1666077502,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48916,
+      "num": 97049,
+      "word": "女孩为致谢派出所门前留糖果和感谢信",
+      "onboard_time": 1666166483,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

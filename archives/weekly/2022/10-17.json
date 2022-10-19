@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666166373485,
+  "endTime": 1666168920799,
   "band_list": [
     {
       "raw_hot": 2646321,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632962,
+      "num": 99000,
+      "word": "梁靖崑3比2林高远",
+      "onboard_time": 1666167202,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630916,
       "num": 264015,
       "word": "王宝钏挖野菜是什么梗",
@@ -715,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484435,
+      "num": 102815,
+      "word": "4岁女童画作被父亲再创后大卖",
+      "onboard_time": 1666163242,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484059,
       "num": 163986,
       "word": "美国一年内衰退概率达100%",
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421221,
+      "num": 98556,
+      "word": "梁靖崑vs林高远",
+      "onboard_time": 1666165883,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420067,
       "num": 162145,
       "word": "女生赴英留学课堂几乎全是中国人",
@@ -945,6 +969,14 @@
       "onboard_time": 1665932543,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 392771,
+      "num": 102646,
+      "word": "我国是刑事犯罪率最低的国家之一",
+      "onboard_time": 1666163542,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390321,
@@ -1107,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346726,
-      "num": 102815,
-      "word": "4岁女童画作被父亲再创后大卖",
-      "onboard_time": 1666163242,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341958,
       "num": 159858,
       "word": "广东民企百强华为退居第二",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1666067366,
       "rank": 19,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 339756,
-      "num": 102646,
-      "word": "我国是刑事犯罪率最低的国家之一",
-      "onboard_time": 1666163542,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338048,
@@ -1539,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276307,
+      "num": 99540,
+      "word": "当外国女星遇上中国旗袍",
+      "onboard_time": 1666162583,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273857,
       "num": 152314,
       "word": "做饭真的不能偷懒",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1666018826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251350,
+      "num": 96907,
+      "word": "小猫从6层楼高空坠落众人撑床单接住",
+      "onboard_time": 1666166841,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 248847,
@@ -1851,14 +1883,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 227178,
-      "num": 99540,
-      "word": "当外国女星遇上中国旗袍",
-      "onboard_time": 1666162583,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226571,
       "num": 588181,
       "word": "党的二十大主席团第二次会议",
@@ -2019,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201591,
+      "num": 96501,
+      "word": "中科大成果或实现秒被重新定义",
+      "onboard_time": 1666164982,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 198596,
       "num": 119224,
       "word": "喝酒前后不要吃布洛芬",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1666071623,
       "rank": 28,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 195429,
+      "num": 96286,
+      "word": "衣服上的油渍算是留不住了",
+      "onboard_time": 1666165403,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 193387,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1665984022,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189095,
+      "num": 95840,
+      "word": "WTT",
+      "onboard_time": 1666167322,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 188573,
@@ -2153,14 +2201,6 @@
       "onboard_time": 1666061722,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186187,
-      "num": 92789,
-      "word": "梁靖崑vs林高远",
-      "onboard_time": 1666165883,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 183769,
@@ -2475,6 +2515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158799,
+      "num": 94361,
+      "word": "原来橘猫真的容易认错",
+      "onboard_time": 1666167743,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155835,
       "num": 89456,
       "word": "电影票的意义不只是票据",
@@ -2489,6 +2537,14 @@
       "onboard_time": 1666000824,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152684,
+      "num": 93888,
+      "word": "生日当然要好好拍照记录啦",
+      "onboard_time": 1666166423,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 152074,
@@ -2577,6 +2633,14 @@
       "onboard_time": 1666134797,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144447,
+      "num": 93427,
+      "word": "中东地区第一家大熊猫馆",
+      "onboard_time": 1666166302,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144426,
@@ -2697,14 +2761,6 @@
       "onboard_time": 1666097244,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136272,
-      "num": 93376,
-      "word": "中科大成果或实现秒被重新定义",
-      "onboard_time": 1666164982,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 135085,
@@ -2857,14 +2913,6 @@
       "onboard_time": 1666079601,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 123520,
-      "num": 92712,
-      "word": "衣服上的油渍算是留不住了",
-      "onboard_time": 1666165403,
-      "rank": 41,
-      "category": "其它"
     },
     {
       "raw_hot": 122542,
@@ -3099,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105464,
+      "num": 91969,
+      "word": "民警输错3次密码帮忙保住10多万",
+      "onboard_time": 1666168580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105249,
       "num": 105249,
       "word": "老师如何帮助语文一塌糊涂的学生",
@@ -3307,6 +3363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87723,
+      "num": 91476,
+      "word": "6岁女孩饭店里即兴演绎民族舞",
+      "onboard_time": 1666168523,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87543,
       "num": 28728,
       "word": "二十大记者会聚焦中国式现代化",
@@ -3433,6 +3497,14 @@
       "onboard_time": 1665943215,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78611,
+      "num": 90961,
+      "word": "黄柳霜成登上美国货币的首个亚裔",
+      "onboard_time": 1666168222,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 78306,
@@ -3563,6 +3635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68534,
+      "num": 90213,
+      "word": "视障女孩手心倒水画圈苦练成咖啡师",
+      "onboard_time": 1666167803,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68005,
       "num": 68005,
       "word": "北控男篮vs深圳男篮",
@@ -3600,14 +3680,6 @@
       "word": "土豆院士还带村民在旱地种水稻",
       "onboard_time": 1665974301,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65612,
-      "num": 85853,
-      "word": "中东地区第一家大熊猫馆",
-      "onboard_time": 1666166302,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3760,6 +3832,14 @@
       "word": "我们要全面加强练兵备战",
       "onboard_time": 1665892830,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48916,
+      "num": 97049,
+      "word": "女孩为致谢派出所门前留糖果和感谢信",
+      "onboard_time": 1666166483,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

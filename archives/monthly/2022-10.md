@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 15:59:33
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/19 16:42:00
 </p>
 </blockquote>
 <p>
@@ -3753,6 +3753,12 @@ A股（热度：637753）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%913%E6%AF%942%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
+梁靖崑3比2林高远（热度：632962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone6%E4%BA%8C%E6%89%8B%E6%94%B6%E8%B4%AD%E4%BB%B7%E4%BD%8E%E8%87%B3100%E5%85%83%23" target="weibo">
 iPhone6二手收购价低至100元（热度：632338）
 </a>
@@ -5307,6 +5313,12 @@ LGD（热度：496178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%94%BB%E4%BD%9C%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%86%8D%E5%88%9B%E5%90%8E%E5%A4%A7%E5%8D%96%23" target="weibo">
+4岁女童画作被父亲再创后大卖（热度：484435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B9%B4%E5%86%85%E8%A1%B0%E9%80%80%E6%A6%82%E7%8E%87%E8%BE%BE100%25%23" target="weibo">
 美国一年内衰退概率达100%（热度：484059）
 </a>
@@ -5999,18 +6011,6 @@ V社处罚LGD（热度：449534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E9%81%93%E6%AD%89%23" target="weibo">
 追梦格林道歉（热度：447725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%A6%E5%AE%89%E6%B3%AA%E5%88%AB%E6%B3%95%E5%BA%AD%23" target="weibo">
-周亦安泪别法庭（热度：447069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23110%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%92%8C88%E5%B2%81%E5%84%BF%E5%AD%90%E6%89%8B%E6%8B%89%E6%89%8B%E9%80%9B%E8%8C%B6%E4%BC%9A%23" target="weibo">
-110岁母亲和88岁儿子手拉手逛茶会（热度：446879）
 </a>
 </li>
 
