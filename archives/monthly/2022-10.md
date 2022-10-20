@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 10:31:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 11:14:53
 </p>
 </blockquote>
 <p>
@@ -5799,6 +5799,12 @@ M2芯片iPadPro（热度：468462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E6%8E%88%E4%BA%88%E6%9E%97%E9%9D%92%E9%9C%9E%E5%90%8D%E8%AA%89%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
+香港大学授予林青霞名誉博士学位（热度：467837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9A%9450%E7%B1%B3%E8%AE%A4%E5%87%BA3%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%23" target="weibo">
 4岁女孩隔50米认出3年未见父母（热度：467741）
 </a>
@@ -6005,12 +6011,6 @@ EDG骑士礼空位（热度：458492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8F%AC%E9%9B%86%E6%B7%98%E6%B1%B0%E5%AD%A6%E5%91%98%E9%87%8D%E8%BF%94%E6%B2%B8%E8%85%BE%E6%A0%A1%E5%9B%AD%23" target="weibo">
 蔡徐坤召集淘汰学员重返沸腾校园（热度：455807）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7%E5%B0%8F%E7%BB%84%E8%B5%9B%23" target="weibo">
-RNG晋级小组赛（热度：455554）
 </a>
 </li>
 

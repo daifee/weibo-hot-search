@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666233100081,
+  "endTime": 1666235693678,
   "band_list": [
     {
       "raw_hot": 1555507,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467837,
+      "num": 149240,
+      "word": "香港大学授予林青霞名誉博士学位",
+      "onboard_time": 1666232301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451964,
       "num": 318685,
       "word": "没想到何以琛这么恋爱脑",
@@ -147,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329331,
+      "num": 149020,
+      "word": "中国成功运行世界首个电磁橇",
+      "onboard_time": 1666231943,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 310227,
+      "num": 149670,
+      "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
+      "onboard_time": 1666231822,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308507,
       "num": 261583,
       "word": "赵丽颖讲述大国重器",
@@ -169,6 +193,14 @@
       "onboard_time": 1666187127,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267734,
+      "num": 320196,
+      "word": "再恋爱脑就不礼貌了",
+      "onboard_time": 1666185025,
+      "rank": 13,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 266520,
@@ -211,12 +243,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 215484,
+      "num": 394688,
+      "word": "二十大新闻中心第四场记者招待会",
+      "onboard_time": 1666232422,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215181,
       "num": 215181,
       "word": "北斗导航系统实现信号全球覆盖",
       "onboard_time": 1666230803,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 211915,
+      "num": 168327,
+      "word": "马斯克称特斯拉市值或超4万亿美元",
+      "onboard_time": 1666230803,
+      "rank": 18,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 208312,
@@ -235,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202687,
-      "num": 394688,
-      "word": "二十大新闻中心第四场记者招待会",
-      "onboard_time": 1666232422,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 205973,
+      "num": 148635,
+      "word": "鹈鹕大胜篮网",
+      "onboard_time": 1666233142,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 196396,
@@ -249,14 +297,6 @@
       "onboard_time": 1666228824,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195600,
-      "num": 320196,
-      "word": "再恋爱脑就不礼貌了",
-      "onboard_time": 1666185025,
-      "rank": 13,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194457,
@@ -307,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178995,
+      "num": 148317,
+      "word": "手机扫码怎样更方便",
+      "onboard_time": 1666233262,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 176347,
       "num": 391933,
       "word": "二十大报告中的民生关键词",
       "onboard_time": 1666228165,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 172171,
+      "num": 148221,
+      "word": "奶奶用方言听写孙子一脸懵",
+      "onboard_time": 1666229184,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169149,
@@ -323,20 +379,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 168327,
-      "num": 168327,
-      "word": "马斯克称特斯拉市值或超4万亿美元",
-      "onboard_time": 1666230803,
-      "rank": 18,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 167088,
       "num": 250106,
       "word": "研究发现黑洞饭后会打嗝",
       "onboard_time": 1666177705,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 166236,
+      "num": 148110,
+      "word": "2名男孩陷淤泥男子开挖掘机施救",
+      "onboard_time": 1666232001,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 166182,
@@ -395,36 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137580,
-      "num": 137580,
-      "word": "奶奶用方言听写孙子一脸懵",
-      "onboard_time": 1666229184,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137251,
-      "num": 137251,
-      "word": "中国成功运行世界首个电磁橇",
-      "onboard_time": 1666231943,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 136281,
       "num": 310110,
       "word": "东北大哥开奔驰帮母亲拉300斤白菜",
       "onboard_time": 1666187367,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134538,
-      "num": 134538,
-      "word": "香港大学授予林青霞名誉博士学位",
-      "onboard_time": 1666232301,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 133605,
@@ -435,20 +467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129561,
-      "num": 129561,
-      "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
-      "onboard_time": 1666231822,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126645,
       "num": 126645,
       "word": "鹈鹕vs篮网",
       "onboard_time": 1666224806,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122259,
+      "num": 122259,
+      "word": "谭松韵新剧角色适配度",
+      "onboard_time": 1666231043,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 121007,
@@ -483,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106713,
+      "num": 106713,
+      "word": "萌娃被锁车内成功自救后连说ok",
+      "onboard_time": 1666234042,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104067,
       "num": 272876,
       "word": "陕西两市入列大城市名单",
       "onboard_time": 1666196720,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103780,
-      "num": 106433,
-      "word": "谭松韵新剧角色适配度",
-      "onboard_time": 1666231043,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 100680,
@@ -513,14 +545,6 @@
       "onboard_time": 1666187485,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93938,
-      "num": 105373,
-      "word": "2名男孩陷淤泥男子开挖掘机施救",
-      "onboard_time": 1666232001,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 81414,
@@ -553,6 +577,14 @@
       "onboard_time": 1666224626,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69679,
+      "num": 149955,
+      "word": "国家主权安全发展利益得到有力维护",
+      "onboard_time": 1666234344,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67100,
@@ -603,11 +635,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59123,
+      "num": 59123,
+      "word": "大妈河边跳舞太投入转晕掉河里",
+      "onboard_time": 1666233923,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58464,
       "num": 255169,
       "word": "被女生之间的善意感动到了",
       "onboard_time": 1666178244,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 58388,
+      "num": 58388,
+      "word": "装修时用这人设简直无敌了",
+      "onboard_time": 1666235422,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -625,6 +673,14 @@
       "onboard_time": 1666162222,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51550,
+      "num": 149436,
+      "word": "二十大报告传递中国开放政策新信号",
+      "onboard_time": 1666233801,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50882,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1666235693678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 215484,
+        "num": 346331,
+        "word": "二十大新闻中心第四场记者招待会",
+        "onboard_time": 1666232422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150150,
+        "num": 150150,
+        "word": "二十大报告中的民生关键词",
+        "onboard_time": 1666228165,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43962,
+        "num": 150125,
+        "word": "二十大代表vlog",
+        "onboard_time": 1666184366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 760835,
+        "num": 150042,
+        "word": "黄继光牺牲时胸腹被子弹打穿",
+        "onboard_time": 1666221559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69679,
+        "num": 149955,
+        "word": "国家主权安全发展利益得到有力维护",
+        "onboard_time": 1666234344,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626136,
+        "num": 149858,
+        "word": "女生校内晕倒2流浪狗舔鼻唤醒",
+        "onboard_time": 1666179866,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408080,
+        "num": 149679,
+        "word": "西安即将诞生的全新的交通方式",
+        "onboard_time": 1666192765,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310227,
+        "num": 149670,
+        "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
+        "onboard_time": 1666231822,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249989,
+        "num": 149549,
+        "word": "博士回老家发现国内埋藏最深金矿体",
+        "onboard_time": 1666198158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51550,
+        "num": 149436,
+        "word": "二十大报告传递中国开放政策新信号",
+        "onboard_time": 1666233801,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541576,
+        "num": 149295,
+        "word": "星汉灿烂月升沧海11月将台湾播出",
+        "onboard_time": 1666231342,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467837,
+        "num": 149240,
+        "word": "香港大学授予林青霞名誉博士学位",
+        "onboard_time": 1666232301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349139,
+        "num": 149151,
+        "word": "泪失禁体质也太难了吧",
+        "onboard_time": 1666227386,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 329331,
+        "num": 149020,
+        "word": "中国成功运行世界首个电磁橇",
+        "onboard_time": 1666231943,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286635,
+        "num": 148982,
+        "word": "赵丽颖讲述大国重器",
+        "onboard_time": 1666230086,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267734,
+        "num": 148867,
+        "word": "再恋爱脑就不礼貌了",
+        "onboard_time": 1666185025,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211915,
+        "num": 148781,
+        "word": "马斯克称特斯拉市值或超4万亿美元",
+        "onboard_time": 1666230803,
+        "rank": 16,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 205973,
+        "num": 148635,
+        "word": "鹈鹕大胜篮网",
+        "onboard_time": 1666233142,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197255,
+        "num": 148623,
+        "word": "没想到何以琛这么恋爱脑",
+        "onboard_time": 1666183465,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196541,
+        "num": 148524,
+        "word": "北斗导航系统实现信号全球覆盖",
+        "onboard_time": 1666230803,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 303256,
+        "num": 148365,
+        "word": "大学生做糖炒板栗被举报消防找上门",
+        "onboard_time": 1666222161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178995,
+        "num": 148317,
+        "word": "手机扫码怎样更方便",
+        "onboard_time": 1666233262,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172171,
+        "num": 148221,
+        "word": "奶奶用方言听写孙子一脸懵",
+        "onboard_time": 1666229184,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166236,
+        "num": 148110,
+        "word": "2名男孩陷淤泥男子开挖掘机施救",
+        "onboard_time": 1666232001,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148050,
+        "num": 148050,
+        "word": "张桂梅说她有了新梦想",
+        "onboard_time": 1666228824,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141305,
+        "num": 141305,
+        "word": "C罗提前回更衣室",
+        "onboard_time": 1666225585,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "原来秋葵可以煎虾滑",
+        "onboard_time": 1666221801,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "原来编织过程可以这么治愈",
+        "onboard_time": 1666233022,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138845,
+        "num": 138845,
+        "word": "90后父母给儿子硬核取名叫张总",
+        "onboard_time": 1666200254,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 127350,
+        "word": "孕妇7个月大出血4个派出所生命接力",
+        "onboard_time": 1666180885,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124782,
+        "num": 124782,
+        "word": "特斯拉发布2022年第三季度财报",
+        "onboard_time": 1666227925,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 122259,
+        "num": 122259,
+        "word": "谭松韵新剧角色适配度",
+        "onboard_time": 1666231043,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120178,
+        "num": 120178,
+        "word": "中国LNG船订单5年翻10倍",
+        "onboard_time": 1666224023,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110385,
+        "num": 110385,
+        "word": "今年爱奇艺独播剧热度榜",
+        "onboard_time": 1666190187,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106713,
+        "num": 106713,
+        "word": "萌娃被锁车内成功自救后连说ok",
+        "onboard_time": 1666234042,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106207,
+        "num": 106207,
+        "word": "降温后女子连夜凿柜给流浪猫做窝",
+        "onboard_time": 1666226427,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106016,
+        "num": 106016,
+        "word": "比银河系大20倍的原子气体结构",
+        "onboard_time": 1666224985,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104165,
+        "num": 104165,
+        "word": "女生被食堂大叔请客吃饭投喂水果",
+        "onboard_time": 1666204213,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101312,
+        "num": 101312,
+        "word": "难哄",
+        "onboard_time": 1666176563,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99309,
+        "num": 99309,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1666176746,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80220,
+        "num": 80220,
+        "word": "河南省猪肉价格进入过度上涨一级预警区间",
+        "onboard_time": 1666212850,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 78725,
+        "num": 78725,
+        "word": "民警输错3次密码帮忙保住10多万",
+        "onboard_time": 1666168580,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75212,
+        "num": 75212,
+        "word": "男孩花3小时做箭被爸爸折断痛哭",
+        "onboard_time": 1666187127,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66738,
+        "num": 66738,
+        "word": "水果店把裂口柿子摆路边免费送",
+        "onboard_time": 1666185864,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62312,
+        "num": 62312,
+        "word": "女生求职碰壁遇HR帮改简历",
+        "onboard_time": 1666182805,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61459,
+        "num": 61459,
+        "word": "人总会反复为男二落泪",
+        "onboard_time": 1666195703,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61320,
+        "num": 61320,
+        "word": "原来鱼也会这么拼命",
+        "onboard_time": 1666224626,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59123,
+        "num": 59123,
+        "word": "大妈河边跳舞太投入转晕掉河里",
+        "onboard_time": 1666233923,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58388,
+        "num": 58388,
+        "word": "装修时用这人设简直无敌了",
+        "onboard_time": 1666235422,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57748,
+        "num": 57748,
+        "word": "真的会被龙葵射箭帅到",
+        "onboard_time": 1666181004,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
