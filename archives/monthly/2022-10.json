@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666294177212,
+  "endTime": 1666295092945,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -32019,6 +32019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20071,
+      "num": 27482,
+      "word": "谷爱凌晒首尔plog",
+      "onboard_time": 1666291932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19660,
       "num": 19660,
       "word": "库里庆祝后滑倒",
@@ -32065,14 +32073,6 @@
       "onboard_time": 1666256423,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16713,
-      "num": 27482,
-      "word": "谷爱凌晒首尔plog",
-      "onboard_time": 1666291932,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 16700,
@@ -32331,6 +32331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 10859,
+      "num": 20900,
+      "word": "盖茨称欧洲能源危机长远看是好事",
+      "onboard_time": 1666293552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10821,
       "num": 13619,
       "word": "阿德莱德36人vs太阳",
@@ -32369,6 +32377,14 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9973,
+      "num": 21288,
+      "word": "90后家长回应给儿子取名张总",
+      "onboard_time": 1666287254,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9679,
@@ -32417,14 +32433,6 @@
       "onboard_time": 1665859333,
       "rank": 47,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 8390,
-      "num": 21288,
-      "word": "90后家长回应给儿子取名张总",
-      "onboard_time": 1666287254,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8384,
@@ -32563,14 +32571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 7069,
-      "num": 20900,
-      "word": "盖茨称欧洲能源危机长远看是好事",
-      "onboard_time": 1666293552,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7063,
       "num": 7063,
       "word": "这就是皮衣刺客吧",
@@ -32617,6 +32617,14 @@
       "onboard_time": 1665171311,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6727,
+      "num": 17580,
+      "word": "外资巨头增持中资互联网股",
+      "onboard_time": 1666294390,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 6715,
@@ -32713,6 +32721,14 @@
       "onboard_time": 1665603610,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6440,
+      "num": 17361,
+      "word": "高钙调制奶相当于牛奶配钙片",
+      "onboard_time": 1666294511,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6429,
