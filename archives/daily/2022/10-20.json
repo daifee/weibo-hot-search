@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666235693678,
+  "endTime": 1666239825478,
   "band_list": [
     {
       "raw_hot": 1555507,
@@ -115,7 +115,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435407,
+      "raw_hot": 444016,
       "num": 426505,
       "word": "西安即将诞生的全新的交通方式",
       "onboard_time": 1666192765,
@@ -147,15 +147,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347580,
-      "num": 354624,
-      "word": "孕妇7个月大出血4个派出所生命接力",
-      "onboard_time": 1666180885,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329331,
+      "raw_hot": 354829,
       "num": 149020,
       "word": "中国成功运行世界首个电磁橇",
       "onboard_time": 1666231943,
@@ -163,11 +155,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 310227,
+      "raw_hot": 350107,
       "num": 149670,
       "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
       "onboard_time": 1666231822,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347580,
+      "num": 354624,
+      "word": "孕妇7个月大出血4个派出所生命接力",
+      "onboard_time": 1666180885,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -177,6 +177,22 @@
       "onboard_time": 1666230086,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307556,
+      "num": 142550,
+      "word": "马龙连续七年生日捐赠球台",
+      "onboard_time": 1666239024,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292718,
+      "num": 148317,
+      "word": "手机扫码怎样更方便",
+      "onboard_time": 1666233262,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 289502,
@@ -211,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259569,
+      "num": 142144,
+      "word": "外交部称绝不接受教师爷的颐指气使",
+      "onboard_time": 1666238604,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250754,
+      "num": 141830,
+      "word": "NASA公布天体景象创生之柱新图像",
+      "onboard_time": 1666236144,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243783,
       "num": 322645,
       "word": "人总会反复为男二落泪",
@@ -225,6 +257,14 @@
       "onboard_time": 1666204213,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236142,
+      "num": 141547,
+      "word": "您好北京定档1118",
+      "onboard_time": 1666236683,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 232885,
@@ -267,6 +307,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 211382,
+      "num": 141126,
+      "word": "谭松韵新剧被父亲拿捏",
+      "onboard_time": 1666236501,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208312,
       "num": 277840,
       "word": "特斯拉发布2022年第三季度财报",
@@ -291,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201784,
+      "num": 408452,
+      "word": "国家主权安全发展利益得到有力维护",
+      "onboard_time": 1666234344,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198055,
+      "num": 148221,
+      "word": "奶奶用方言听写孙子一脸懵",
+      "onboard_time": 1666229184,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196396,
       "num": 196396,
       "word": "张桂梅说她有了新梦想",
@@ -313,6 +377,14 @@
       "onboard_time": 1666176746,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187244,
+      "num": 140904,
+      "word": "心跳加速原来是这种感觉",
+      "onboard_time": 1666236144,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 187033,
@@ -347,28 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178995,
-      "num": 148317,
-      "word": "手机扫码怎样更方便",
-      "onboard_time": 1666233262,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 176347,
       "num": 391933,
       "word": "二十大报告中的民生关键词",
       "onboard_time": 1666228165,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 172171,
-      "num": 148221,
-      "word": "奶奶用方言听写孙子一脸懵",
-      "onboard_time": 1666229184,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169149,
@@ -401,6 +457,14 @@
       "onboard_time": 1666176563,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164847,
+      "num": 140182,
+      "word": "萌娃被锁车内成功自救后连说ok",
+      "onboard_time": 1666234042,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159461,
@@ -467,12 +531,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129184,
+      "num": 129184,
+      "word": "云南小熊猫翘班跑进学生宿舍",
+      "onboard_time": 1666239083,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128515,
+      "num": 128515,
+      "word": "杜兰特32分",
+      "onboard_time": 1666236024,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126645,
       "num": 126645,
       "word": "鹈鹕vs篮网",
       "onboard_time": 1666224806,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122360,
+      "num": 122360,
+      "word": "装修时用这人设简直无敌了",
+      "onboard_time": 1666235422,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 122259,
@@ -515,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106713,
-      "num": 106713,
-      "word": "萌娃被锁车内成功自救后连说ok",
-      "onboard_time": 1666234042,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104067,
       "num": 272876,
       "word": "陕西两市入列大城市名单",
@@ -537,6 +617,14 @@
       "onboard_time": 1666190187,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99854,
+      "num": 99854,
+      "word": "大妈河边跳舞太投入转晕掉河里",
+      "onboard_time": 1666233923,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93972,
@@ -579,11 +667,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69679,
-      "num": 149955,
-      "word": "国家主权安全发展利益得到有力维护",
-      "onboard_time": 1666234344,
-      "rank": 4,
+      "raw_hot": 73928,
+      "num": 73928,
+      "word": "民警跳进铁轨寻回女子遗失手机",
+      "onboard_time": 1666235722,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -593,6 +681,14 @@
       "onboard_time": 1666189525,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 66907,
+      "num": 149436,
+      "word": "二十大报告传递中国开放政策新信号",
+      "onboard_time": 1666233801,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66330,
@@ -635,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59123,
-      "num": 59123,
-      "word": "大妈河边跳舞太投入转晕掉河里",
-      "onboard_time": 1666233923,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 59010,
+      "num": 59010,
+      "word": "独行侠vs太阳",
+      "onboard_time": 1666239746,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 58464,
@@ -648,14 +744,6 @@
       "word": "被女生之间的善意感动到了",
       "onboard_time": 1666178244,
       "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 58388,
-      "num": 58388,
-      "word": "装修时用这人设简直无敌了",
-      "onboard_time": 1666235422,
-      "rank": 48,
       "category": "情感"
     },
     {
@@ -673,14 +761,6 @@
       "onboard_time": 1666162222,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51550,
-      "num": 149436,
-      "word": "二十大报告传递中国开放政策新信号",
-      "onboard_time": 1666233801,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50882,
@@ -712,6 +792,14 @@
       "word": "大熊猫顺利抵达多哈现场",
       "onboard_time": 1666210450,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47861,
+      "num": 142497,
+      "word": "高铁司机13年默默助学20个孩子",
+      "onboard_time": 1666238484,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1001,6 +1089,9 @@
     },
     {
       "word": "#画卷中的美美与共#"
+    },
+    {
+      "word": "#二十大新闻中心第四场记者招待会#"
     }
   ]
 }
