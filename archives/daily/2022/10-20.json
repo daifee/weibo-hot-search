@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666272602766,
+  "endTime": 1666274681894,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -51,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1068117,
+      "num": 141601,
+      "word": "maybe",
+      "onboard_time": 1666272444,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1014583,
-      "num": 127209,
+      "num": 139998,
       "word": "特拉斯成英国任期最短的首相",
       "onboard_time": 1666271308,
       "rank": 20,
@@ -81,6 +89,14 @@
       "onboard_time": 1666179866,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854859,
+      "num": 141527,
+      "word": "孙颖莎",
+      "onboard_time": 1666273948,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 852526,
@@ -363,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 431451,
-      "num": 136603,
-      "word": "maybe",
-      "onboard_time": 1666272444,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 428861,
       "num": 208771,
       "word": "为什么这届网红轮到了柿子",
@@ -417,6 +425,14 @@
       "onboard_time": 1666255526,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 382979,
+      "num": 140727,
+      "word": "匿名网友连续800多天向南大捐钱",
+      "onboard_time": 1666271784,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 382479,
@@ -473,6 +489,14 @@
       "onboard_time": 1666244543,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321787,
+      "num": 150329,
+      "word": "大富翁11上线",
+      "onboard_time": 1666270105,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 321037,
@@ -555,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288794,
+      "num": 150427,
+      "word": "辽宁男篮vs山西男篮",
+      "onboard_time": 1666269147,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284014,
       "num": 410193,
       "word": "专家提醒40岁后注重骨密度检测筛查",
@@ -611,14 +643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 254996,
-      "num": 150329,
-      "word": "大富翁11上线",
-      "onboard_time": 1666270105,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250754,
       "num": 428586,
       "word": "NASA公布天体景象创生之柱新图像",
@@ -649,6 +673,14 @@
       "onboard_time": 1666195703,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242439,
+      "num": 139478,
+      "word": "女生到云南吃烤洋芋被蘸料惊呆",
+      "onboard_time": 1666272746,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 242287,
@@ -731,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218908,
+      "num": 139333,
+      "word": "炽道",
+      "onboard_time": 1666273948,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216717,
       "num": 190821,
       "word": "外交部有力回击佩洛西窜台等倒行逆施",
@@ -785,6 +825,14 @@
       "onboard_time": 1666236501,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211128,
+      "num": 139164,
+      "word": "Maybe我的青春结束了",
+      "onboard_time": 1666272507,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 209134,
@@ -881,6 +929,14 @@
       "onboard_time": 1666263983,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194859,
+      "num": 138760,
+      "word": "原来夜礼服假面这么朴素",
+      "onboard_time": 1666274427,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194457,
@@ -995,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173674,
-      "num": 150427,
-      "word": "辽宁男篮vs山西男篮",
-      "onboard_time": 1666269147,
+      "raw_hot": 173712,
+      "num": 138383,
+      "word": "心疼超哥",
+      "onboard_time": 1666274307,
       "rank": 30,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 170973,
@@ -1139,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139462,
-      "num": 109634,
-      "word": "Maybe我的青春结束了",
-      "onboard_time": 1666272507,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139020,
       "num": 139020,
       "word": "22岁义肢男孩工作之余兼职做模特",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1666254206,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 136608,
-      "num": 107741,
-      "word": "匿名网友连续800多天向南大捐钱",
-      "onboard_time": 1666271784,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136281,
@@ -1371,6 +1411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95729,
+      "num": 95729,
+      "word": "商丘的名字是这么来的",
+      "onboard_time": 1666273107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94744,
+      "num": 94744,
+      "word": "跃上高阶职场",
+      "onboard_time": 1666274667,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94042,
       "num": 94042,
       "word": "怎样才是吃柿子的正确方式",
@@ -1555,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 66811,
+      "num": 135215,
+      "word": "黄河三角洲震撼心灵的瞬间",
+      "onboard_time": 1666270824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66330,
       "num": 239289,
       "word": "原来橘猫真的容易认错",
@@ -1675,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50322,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50230,
       "num": 513260,
       "word": "二十大报告中这些举措关乎你我",
@@ -1705,14 +1777,6 @@
       "onboard_time": 1666222943,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46503,
-      "num": 150551,
-      "word": "10年来组织近20次紧急撤离海外公民行动",
-      "onboard_time": 1666268424,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46014,
@@ -1776,14 +1840,6 @@
       "word": "秋天已经抵达广东",
       "onboard_time": 1666190127,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35959,
-      "num": 135215,
-      "word": "黄河三角洲震撼心灵的瞬间",
-      "onboard_time": 1666270824,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1857,6 +1913,14 @@
       "onboard_time": 1666202354,
       "rank": 49,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 10126,
+      "num": 141001,
+      "word": "8勇士闯生命禁区测出中国高度",
+      "onboard_time": 1666274488,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8024,
@@ -2034,6 +2098,9 @@
     },
     {
       "word": "#聚焦中共二十大#"
+    },
+    {
+      "word": "#关注二十大#"
     }
   ]
 }

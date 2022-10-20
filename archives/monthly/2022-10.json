@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666272602766,
+  "endTime": 1666274681894,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1068117,
+      "num": 141601,
+      "word": "maybe",
+      "onboard_time": 1666272444,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1067465,
       "num": 213098,
       "word": "清华硕士的社恐被大妈治愈了",
@@ -2412,7 +2420,7 @@
     },
     {
       "raw_hot": 1014583,
-      "num": 127209,
+      "num": 139998,
       "word": "特拉斯成英国任期最短的首相",
       "onboard_time": 1666271308,
       "rank": 20,
@@ -3225,6 +3233,14 @@
       "onboard_time": 1664943862,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854859,
+      "num": 141527,
+      "word": "孙颖莎",
+      "onboard_time": 1666273948,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 853186,
@@ -8875,14 +8891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 431451,
-      "num": 136603,
-      "word": "maybe",
-      "onboard_time": 1666272444,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 431265,
       "num": 431265,
       "word": "没有学习的人不伤心演我嘴硬",
@@ -10281,6 +10289,14 @@
       "onboard_time": 1665313642,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382979,
+      "num": 140727,
+      "word": "匿名网友连续800多天向南大捐钱",
+      "onboard_time": 1666271784,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 382808,
@@ -12155,6 +12171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 321787,
+      "num": 150329,
+      "word": "大富翁11上线",
+      "onboard_time": 1666270105,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 321705,
       "num": 321705,
       "word": "中国女团vs葡萄牙女团",
@@ -13401,6 +13425,14 @@
       "onboard_time": 1665239607,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288794,
+      "num": 150427,
+      "word": "辽宁男篮vs山西男篮",
+      "onboard_time": 1666269147,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 288473,
@@ -15051,14 +15083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254996,
-      "num": 150329,
-      "word": "大富翁11上线",
-      "onboard_time": 1666270105,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 254954,
       "num": 254954,
       "word": "北京朝阳新增感染者为货车司机",
@@ -15849,6 +15873,14 @@
       "onboard_time": 1664719824,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242439,
+      "num": 139478,
+      "word": "女生到云南吃烤洋芋被蘸料惊呆",
+      "onboard_time": 1666272746,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 242289,
@@ -17323,6 +17355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218908,
+      "num": 139333,
+      "word": "炽道",
+      "onboard_time": 1665791599,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218789,
       "num": 218789,
       "word": "不敢主动也不是丢脸的事",
@@ -17753,6 +17793,14 @@
       "onboard_time": 1664974405,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211128,
+      "num": 139164,
+      "word": "Maybe我的青春结束了",
+      "onboard_time": 1666272507,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 210786,
@@ -18913,6 +18961,14 @@
       "onboard_time": 1666263983,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194859,
+      "num": 138760,
+      "word": "原来夜礼服假面这么朴素",
+      "onboard_time": 1666274427,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194769,
@@ -20459,12 +20515,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 173674,
-      "num": 150427,
-      "word": "辽宁男篮vs山西男篮",
-      "onboard_time": 1666269147,
+      "raw_hot": 173712,
+      "num": 138383,
+      "word": "心疼超哥",
+      "onboard_time": 1666274307,
       "rank": 30,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 173613,
@@ -23283,14 +23339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139462,
-      "num": 109634,
-      "word": "Maybe我的青春结束了",
-      "onboard_time": 1666272507,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139407,
       "num": 139407,
       "word": "文咏珊港风造型",
@@ -23553,14 +23601,6 @@
       "onboard_time": 1664828950,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136608,
-      "num": 107741,
-      "word": "匿名网友连续800多天向南大捐钱",
-      "onboard_time": 1666271784,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136548,
@@ -26803,14 +26843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99413,
-      "num": 99413,
-      "word": "炽道",
-      "onboard_time": 1665791599,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 99408,
       "num": 99408,
       "word": "我们这十年预告",
@@ -27147,6 +27179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95729,
+      "num": 95729,
+      "word": "商丘的名字是这么来的",
+      "onboard_time": 1666273107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95636,
       "num": 95636,
       "word": "这是轻功吧",
@@ -27177,6 +27217,14 @@
       "onboard_time": 1665760225,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94744,
+      "num": 94744,
+      "word": "跃上高阶职场",
+      "onboard_time": 1666274667,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 94490,
@@ -29523,6 +29571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 66811,
+      "num": 135215,
+      "word": "黄河三角洲震撼心灵的瞬间",
+      "onboard_time": 1666270824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66773,
       "num": 305370,
       "word": "6名建筑工人火场救出一家五口",
@@ -30667,6 +30723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50322,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50156,
       "num": 50156,
       "word": "北控男篮vs新疆男篮",
@@ -30945,14 +31009,6 @@
       "onboard_time": 1664552906,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46503,
-      "num": 150551,
-      "word": "10年来组织近20次紧急撤离海外公民行动",
-      "onboard_time": 1666268424,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46432,
@@ -31401,14 +31457,6 @@
       "onboard_time": 1665417623,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35959,
-      "num": 135215,
-      "word": "黄河三角洲震撼心灵的瞬间",
-      "onboard_time": 1666270824,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35511,
@@ -32087,6 +32135,14 @@
       "num": 292684,
       "word": "百岁老兵雷用香的传奇人生",
       "onboard_time": 1665313224,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10126,
+      "num": 141001,
+      "word": "8勇士闯生命禁区测出中国高度",
+      "onboard_time": 1666274488,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -33801,6 +33857,9 @@
     },
     {
       "word": "#聚焦中共二十大#"
+    },
+    {
+      "word": "#关注二十大#"
     }
   ]
 }
