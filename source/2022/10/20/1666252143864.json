@@ -1,0 +1,410 @@
+{
+  "runTime": 1666252143864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027926,
+        "num": 1027926,
+        "word": "连续拿下台湾当局9个所谓邦交国",
+        "onboard_time": 1666247484,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331438,
+        "num": 331438,
+        "word": "外交部称绝不接受教师爷的颐指气使",
+        "onboard_time": 1666238604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85285,
+        "num": 329405,
+        "word": "二十大报告中的民生关键词",
+        "onboard_time": 1666228165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 539832,
+        "num": 324803,
+        "word": "妈妈心疼实习女儿寄16袋自制熟食",
+        "onboard_time": 1666247963,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 324001,
+        "word": "二十大报告给青年的寄语",
+        "onboard_time": 1666247843,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527882,
+        "num": 319991,
+        "word": "成都街头刮起柿子风",
+        "onboard_time": 1666245804,
+        "rank": 5,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 317841,
+        "num": 317841,
+        "word": "云南小熊猫翘班跑进学生宿舍",
+        "onboard_time": 1666239083,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289993,
+        "num": 289993,
+        "word": "特斯拉新车型成本仅Model3一半",
+        "onboard_time": 1666247122,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259653,
+        "num": 259653,
+        "word": "专家提醒40岁后注重骨密度检测筛查",
+        "onboard_time": 1666245145,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194869,
+        "num": 194869,
+        "word": "我们不会输出中国模式",
+        "onboard_time": 1666246404,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365604,
+        "num": 193256,
+        "word": "中国生物武汉研究所成功分离猴痘病毒",
+        "onboard_time": 1666250829,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354054,
+        "num": 190808,
+        "word": "晴儿反恋爱脑鼻祖",
+        "onboard_time": 1666242266,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346939,
+        "num": 186431,
+        "word": "iPhoneSE4将采用刘海全面屏",
+        "onboard_time": 1666246944,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306045,
+        "num": 180410,
+        "word": "长期晚睡即使睡够也会导致黑眼圈",
+        "onboard_time": 1666240585,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73555,
+        "num": 178261,
+        "word": "6岁女孩饭店里即兴演绎民族舞",
+        "onboard_time": 1666249284,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288504,
+        "num": 171975,
+        "word": "LGD不敌Secret",
+        "onboard_time": 1666248806,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269129,
+        "num": 170490,
+        "word": "婚礼上我把手捧花给了新郎",
+        "onboard_time": 1666244543,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166899,
+        "num": 166899,
+        "word": "iPhone14Plus砍单幅度达4成左右",
+        "onboard_time": 1666242086,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164932,
+        "num": 164932,
+        "word": "雷军称小米成电车前五才能成功",
+        "onboard_time": 1666241786,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164159,
+        "num": 164159,
+        "word": "林高远锁定WTT总决赛资格",
+        "onboard_time": 1666247545,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350886,
+        "num": 163432,
+        "word": "吴磊赵露思星汉灿烂已上线网飞",
+        "onboard_time": 1666250123,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178406,
+        "num": 163365,
+        "word": "王俊凯成朗万里归途演技",
+        "onboard_time": 1666250724,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174360,
+        "num": 163007,
+        "word": "已将5200多名同胞安全从乌克兰撤离",
+        "onboard_time": 1666247183,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162615,
+        "num": 162615,
+        "word": "去医院的狗狗能有多紧张",
+        "onboard_time": 1666244904,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149806,
+        "num": 149806,
+        "word": "老师参加考试学生监考",
+        "onboard_time": 1666243824,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "为什么这届网红轮到了柿子",
+        "onboard_time": 1666250784,
+        "rank": 25,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 129022,
+        "num": 129022,
+        "word": "罗云熙吴倩新剧双向奔赴",
+        "onboard_time": 1666246583,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121978,
+        "num": 121978,
+        "word": "谷爱凌晒六宫格首尔随拍",
+        "onboard_time": 1666248684,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115402,
+        "num": 115402,
+        "word": "三悦有了新工作今晚收官",
+        "onboard_time": 1666251806,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113566,
+        "num": 113566,
+        "word": "LNG运输船日租金45万美元",
+        "onboard_time": 1666245444,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515413,
+        "num": 109364,
+        "word": "老人要钱被请吃面却剩下大半",
+        "onboard_time": 1666247005,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104991,
+        "num": 104991,
+        "word": "马龙连续七年生日捐赠球台",
+        "onboard_time": 1666239024,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 95060,
+        "num": 95060,
+        "word": "寂静岭f公开",
+        "onboard_time": 1666243584,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 94159,
+        "word": "中国成功运行世界首个电磁橇",
+        "onboard_time": 1666231943,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 90892,
+        "num": 90892,
+        "word": "黄继光牺牲时胸腹被子弹打穿",
+        "onboard_time": 1666221559,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84379,
+        "num": 87764,
+        "word": "中国建交国达181个",
+        "onboard_time": 1666244063,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87418,
+        "num": 87418,
+        "word": "我国勘探发现首个深水深层大气田",
+        "onboard_time": 1666249464,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 85226,
+        "word": "西安即将诞生的全新的交通方式",
+        "onboard_time": 1666192765,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79182,
+        "num": 79182,
+        "word": "三悦全员告别",
+        "onboard_time": 1666248444,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77587,
+        "num": 77587,
+        "word": "大学生做糖炒板栗被举报消防找上门",
+        "onboard_time": 1666222161,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71505,
+        "num": 71505,
+        "word": "奶奶用方言听写孙子一脸懵",
+        "onboard_time": 1666229184,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67881,
+        "num": 67881,
+        "word": "TI11淘汰赛",
+        "onboard_time": 1666244425,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67068,
+        "num": 67068,
+        "word": "泪失禁体质也太难了吧",
+        "onboard_time": 1666227386,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65284,
+        "num": 65284,
+        "word": "星汉灿烂月升沧海11月将台湾播出",
+        "onboard_time": 1666231342,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63434,
+        "num": 63434,
+        "word": "达米安李绝杀独行侠",
+        "onboard_time": 1666241846,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58954,
+        "num": 58954,
+        "word": "再恋爱脑就不礼貌了",
+        "onboard_time": 1666185025,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58537,
+        "num": 58537,
+        "word": "外交部谈电影万里归途",
+        "onboard_time": 1666241123,
+        "rank": 46,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 57820,
+        "num": 57820,
+        "word": "香港大学授予林青霞名誉博士学位",
+        "onboard_time": 1666232301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57662,
+        "num": 57662,
+        "word": "2名男孩陷淤泥男子开挖掘机施救",
+        "onboard_time": 1666232001,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 55898,
+        "num": 55898,
+        "word": "中国10年增加9个建交国",
+        "onboard_time": 1666251923,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
