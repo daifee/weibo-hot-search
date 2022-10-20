@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 12:42:49
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 13:44:13
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ JDG战胜DK（热度：837920）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%99%9A%E7%9D%A1%E5%8D%B3%E4%BD%BF%E7%9D%A1%E5%A4%9F%E4%B9%9F%E4%BC%9A%E5%AF%BC%E8%87%B4%E9%BB%91%E7%9C%BC%E5%9C%88%23" target="weibo">
+长期晚睡即使睡够也会导致黑眼圈（热度：806380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%8B%8D%E5%88%B0%E9%BB%91%E7%86%8A%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%9E%97%E4%B8%AD%E6%BC%AB%E6%AD%A5%23" target="weibo">
 重庆拍到黑熊一家三口林中漫步（热度：805773）
 </a>
@@ -4851,6 +4857,12 @@ TMA（热度：540431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%8F%E7%86%8A%E7%8C%AB%E7%BF%98%E7%8F%AD%E8%B7%91%E8%BF%9B%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%23" target="weibo">
+云南小熊猫翘班跑进学生宿舍（热度：536288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%B1%B92%E6%96%B0%E9%A2%84%E5%91%8A%23" target="weibo">
 黑豹2新预告（热度：534557）
 </a>
@@ -4907,6 +4919,12 @@ AI预测S12冠军（热度：533074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E4%B8%88%E5%A4%AB%E8%84%91%E8%A2%8B%E6%8E%89%E8%89%B2%E6%9E%95%E5%A4%B4%E7%84%A6%E9%BB%84%23" target="weibo">
 女子吐槽丈夫脑袋掉色枕头焦黄（热度：531884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F%E7%9A%84%E5%85%A8%E6%96%B0%E7%9A%84%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F%23" target="weibo">
+西安即将诞生的全新的交通方式（热度：531476）
 </a>
 </li>
 
@@ -5115,6 +5133,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
+外交部称绝不接受教师爷的颐指气使（热度：514522）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%9B%A2%23" target="weibo">
 中国男团vs泰国男团（热度：513903）
 </a>
@@ -5273,12 +5297,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9C%8B%E5%8D%87%E6%97%97%E7%9D%A1%E7%9D%80%E4%BB%AA%E5%BC%8F%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%AA%E9%86%92%23" target="weibo">
 男子看升旗睡着仪式结束还未醒（热度：504232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
-外交部称绝不接受教师爷的颐指气使（热度：504072）
 </a>
 </li>
 
@@ -5721,6 +5739,12 @@ SuperM最新练习室（热度：477667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14Plus%E7%A0%8D%E5%8D%95%E5%B9%85%E5%BA%A6%E8%BE%BE4%E6%88%90%E5%B7%A6%E5%8F%B3%23" target="weibo">
+iPhone14Plus砍单幅度达4成左右（热度：471641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%82%A9%E5%AE%BD%E6%98%9F%E4%BA%BA%E7%A9%BF%E6%AF%9B%E8%A1%A3%23" target="weibo">
 当肩宽星人穿毛衣（热度：471534）
 </a>
@@ -5987,30 +6011,6 @@ EDG骑士礼空位（热度：458492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
 脱口秀大会（热度：457710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E5%A6%82%E5%8E%95%E5%81%B6%E9%81%87%E5%AD%94%E9%9B%80%E5%AD%A6%E9%95%BF%23" target="weibo">
-云南大学生校内如厕偶遇孔雀学长（热度：457372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%98%8E%E7%8E%89%E5%8F%97%E7%9A%84%E6%B0%94%E5%A7%9A%E6%99%A8%E8%BF%99%E6%AC%A1%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-苏明玉受的气姚晨这次还回来了（热度：456783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%8591%E4%BE%8B%23" target="weibo">
-新疆新增本土无症状感染者91例（热度：456735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%8F%9C%E5%B1%85%E7%84%B6%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E5%90%83%23" target="weibo">
-白菜居然还能这么吃（热度：456564）
 </a>
 </li>
 
