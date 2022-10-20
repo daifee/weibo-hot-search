@@ -1,7 +1,15 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666270571405,
+  "endTime": 1666272602766,
   "band_list": [
+    {
+      "raw_hot": 5399944,
+      "num": 147582,
+      "word": "英国首相特拉斯辞职",
+      "onboard_time": 1666270164,
+      "rank": 5,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 4087916,
       "num": 150542,
@@ -105,6 +113,14 @@
       "onboard_time": 1666048338,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1329447,
+      "num": 150454,
+      "word": "RNG打破TI历史时间记录",
+      "onboard_time": 1666270285,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 1259762,
@@ -233,6 +249,14 @@
       "onboard_time": 1666053146,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014583,
+      "num": 127209,
+      "word": "特拉斯成英国任期最短的首相",
+      "onboard_time": 1666271308,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1004009,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843856,
+      "num": 150539,
+      "word": "RNG告别TI11",
+      "onboard_time": 1666270285,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 837228,
       "num": 747392,
       "word": "山西省委强调不能让国家为煤发愁",
@@ -496,14 +528,6 @@
       "word": "RNG晋级八强",
       "onboard_time": 1665962477,
       "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 775243,
-      "num": 150539,
-      "word": "RNG告别TI11",
-      "onboard_time": 1666270285,
-      "rank": 11,
       "category": "游戏"
     },
     {
@@ -1329,6 +1353,14 @@
       "onboard_time": 1665998543,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431451,
+      "num": 136603,
+      "word": "maybe",
+      "onboard_time": 1666272444,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 430717,
@@ -2163,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290479,
+      "num": 165997,
+      "word": "隔着玻璃晒太阳是无效补钙",
+      "onboard_time": 1666258165,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289993,
       "num": 399707,
       "word": "特斯拉新车型成本仅Model3一半",
@@ -2201,14 +2241,6 @@
       "onboard_time": 1666007841,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 285274,
-      "num": 165997,
-      "word": "隔着玻璃晒太阳是无效补钙",
-      "onboard_time": 1666258165,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285122,
@@ -2449,6 +2481,14 @@
       "onboard_time": 1666011203,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254996,
+      "num": 150329,
+      "word": "大富翁11上线",
+      "onboard_time": 1666270105,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 253663,
@@ -3019,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209134,
+      "num": 150433,
+      "word": "沸腾校园豆瓣8.3分",
+      "onboard_time": 1666268543,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208312,
       "num": 277840,
       "word": "特斯拉发布2022年第三季度财报",
@@ -3153,14 +3201,6 @@
       "onboard_time": 1666067126,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198549,
-      "num": 150454,
-      "word": "RNG打破TI历史时间记录",
-      "onboard_time": 1666270285,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 198055,
@@ -3361,14 +3401,6 @@
       "onboard_time": 1666061722,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186656,
-      "num": 150433,
-      "word": "沸腾校园豆瓣8.3分",
-      "onboard_time": 1666268543,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 185236,
@@ -3587,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173674,
+      "num": 150427,
+      "word": "辽宁男篮vs山西男篮",
+      "onboard_time": 1666269147,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173498,
       "num": 149670,
       "word": "徐梦桃如何从烤摊到夺冠",
@@ -3777,14 +3817,6 @@
       "onboard_time": 1666234042,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164802,
-      "num": 150427,
-      "word": "辽宁男篮vs山西男篮",
-      "onboard_time": 1666269147,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 162367,
@@ -4115,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139462,
+      "num": 109634,
+      "word": "Maybe我的青春结束了",
+      "onboard_time": 1666272507,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139389,
       "num": 209747,
       "word": "把发展经济的着力点放在实体经济上",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1665962416,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136608,
+      "num": 107741,
+      "word": "匿名网友连续800多天向南大捐钱",
+      "onboard_time": 1666271784,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136308,
@@ -5171,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82122,
-      "num": 150329,
-      "word": "大富翁11上线",
-      "onboard_time": 1666270105,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 81986,
       "num": 81986,
       "word": "圆明园今日免费开放",
@@ -5351,6 +5391,14 @@
       "num": 213680,
       "word": "张桂梅讲述她的新梦想",
       "onboard_time": 1666255645,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71973,
+      "num": 162369,
+      "word": "敢于斗争是中国外交的精神品格",
+      "onboard_time": 1666238185,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -5819,6 +5867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46503,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -5832,14 +5888,6 @@
       "word": "刘秀祥走村劝学10年骑坏8辆摩托",
       "onboard_time": 1666087221,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43424,
-      "num": 162369,
-      "word": "敢于斗争是中国外交的精神品格",
-      "onboard_time": 1666238185,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5873,14 +5921,6 @@
       "onboard_time": 1665929364,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39986,
-      "num": 150551,
-      "word": "10年来组织近20次紧急撤离海外公民行动",
-      "onboard_time": 1666268424,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39180,
@@ -5935,6 +5975,14 @@
       "num": 138799,
       "word": "护士捐造血干细胞燃生命火种",
       "onboard_time": 1666170022,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35959,
+      "num": 135215,
+      "word": "黄河三角洲震撼心灵的瞬间",
+      "onboard_time": 1666270824,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -6081,6 +6129,14 @@
       "onboard_time": 1666148662,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 13862,
+      "num": 151766,
+      "word": "祖国各地的二十大时光",
+      "onboard_time": 1666272145,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 13839,

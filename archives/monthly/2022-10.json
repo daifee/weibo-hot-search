@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666270571405,
+  "endTime": 1666272602766,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -33,6 +33,14 @@
       "onboard_time": 1665825984,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 5399944,
+      "num": 147582,
+      "word": "英国首相特拉斯辞职",
+      "onboard_time": 1666270164,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 5104220,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1329447,
+      "num": 150454,
+      "word": "RNG打破TI历史时间记录",
+      "onboard_time": 1666270285,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1324287,
       "num": 1324287,
       "word": "你肯定见过这个床单",
@@ -2395,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014583,
+      "num": 127209,
+      "word": "特拉斯成英国任期最短的首相",
+      "onboard_time": 1666271308,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1013681,
       "num": 1013681,
       "word": "眼睛对于颜值的影响有多大",
@@ -3283,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843856,
+      "num": 150539,
+      "word": "RNG告别TI11",
+      "onboard_time": 1666270285,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 842438,
       "num": 842438,
       "word": "3类人群不适合秋冻",
@@ -3777,14 +3809,6 @@
       "onboard_time": 1665487105,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 775243,
-      "num": 150539,
-      "word": "RNG告别TI11",
-      "onboard_time": 1666270285,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 775119,
@@ -8851,6 +8875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431451,
+      "num": 136603,
+      "word": "maybe",
+      "onboard_time": 1666272444,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 431265,
       "num": 431265,
       "word": "没有学习的人不伤心演我嘴硬",
@@ -13331,6 +13363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290479,
+      "num": 165997,
+      "word": "隔着玻璃晒太阳是无效补钙",
+      "onboard_time": 1666258165,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289993,
       "num": 399707,
       "word": "特斯拉新车型成本仅Model3一半",
@@ -13497,14 +13537,6 @@
       "onboard_time": 1664611464,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285274,
-      "num": 165997,
-      "word": "隔着玻璃晒太阳是无效补钙",
-      "onboard_time": 1666258165,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285255,
@@ -15017,6 +15049,14 @@
       "onboard_time": 1666011203,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254996,
+      "num": 150329,
+      "word": "大富翁11上线",
+      "onboard_time": 1666270105,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 254954,
@@ -17819,6 +17859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209134,
+      "num": 150433,
+      "word": "沸腾校园豆瓣8.3分",
+      "onboard_time": 1666268543,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "洒水车路遇摆摊阿姨精准关水避让",
@@ -18609,14 +18657,6 @@
       "onboard_time": 1666067126,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198549,
-      "num": 150454,
-      "word": "RNG打破TI历史时间记录",
-      "onboard_time": 1666270285,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 198448,
@@ -19531,14 +19571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186656,
-      "num": 150433,
-      "word": "沸腾校园豆瓣8.3分",
-      "onboard_time": 1666268543,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186609,
       "num": 139207,
       "word": "新时代新征程",
@@ -20427,6 +20459,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 173674,
+      "num": 150427,
+      "word": "辽宁男篮vs山西男篮",
+      "onboard_time": 1666269147,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173613,
       "num": 173613,
       "word": "aespa团综将开播",
@@ -21073,14 +21113,6 @@
       "onboard_time": 1666234042,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164802,
-      "num": 150427,
-      "word": "辽宁男篮vs山西男篮",
-      "onboard_time": 1666269147,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 164755,
@@ -23251,6 +23283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139462,
+      "num": 109634,
+      "word": "Maybe我的青春结束了",
+      "onboard_time": 1666272507,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139407,
       "num": 139407,
       "word": "文咏珊港风造型",
@@ -23513,6 +23553,14 @@
       "onboard_time": 1664828950,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136608,
+      "num": 107741,
+      "word": "匿名网友连续800多天向南大捐钱",
+      "onboard_time": 1666271784,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136548,
@@ -28275,14 +28323,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 82122,
-      "num": 150329,
-      "word": "大富翁11上线",
-      "onboard_time": 1666270105,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 81986,
       "num": 81986,
       "word": "圆明园今日免费开放",
@@ -29057,6 +29097,14 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71973,
+      "num": 162369,
+      "word": "敢于斗争是中国外交的精神品格",
+      "onboard_time": 1666238185,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71959,
@@ -30899,6 +30947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46503,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46432,
       "num": 46432,
       "word": "醉酒驾驶非机动车也属违法行为",
@@ -30992,14 +31048,6 @@
       "word": "刘秀祥走村劝学10年骑坏8辆摩托",
       "onboard_time": 1666087221,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43424,
-      "num": 162369,
-      "word": "敢于斗争是中国外交的精神品格",
-      "onboard_time": 1666238185,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -31152,14 +31200,6 @@
       "word": "91岁老战士向国旗敬礼时眼中有光",
       "onboard_time": 1664697682,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39986,
-      "num": 150551,
-      "word": "10年来组织近20次紧急撤离海外公民行动",
-      "onboard_time": 1666268424,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -31361,6 +31401,14 @@
       "onboard_time": 1665417623,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35959,
+      "num": 135215,
+      "word": "黄河三角洲震撼心灵的瞬间",
+      "onboard_time": 1666270824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35511,
@@ -31865,6 +31913,14 @@
       "onboard_time": 1666148662,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 13862,
+      "num": 151766,
+      "word": "祖国各地的二十大时光",
+      "onboard_time": 1666272145,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 13839,
