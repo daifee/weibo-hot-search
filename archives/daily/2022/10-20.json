@@ -1,10 +1,10 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666274681894,
+  "endTime": 1666275678299,
   "band_list": [
     {
       "raw_hot": 5399944,
-      "num": 147582,
+      "num": 149636,
       "word": "英国首相特拉斯辞职",
       "onboard_time": 1666270164,
       "rank": 5,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1414130,
+      "num": 148960,
+      "word": "孙颖莎",
+      "onboard_time": 1666273948,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1329447,
       "num": 150454,
       "word": "RNG打破TI历史时间记录",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1068117,
-      "num": 141601,
+      "num": 148794,
       "word": "maybe",
       "onboard_time": 1666272444,
       "rank": 13,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1014583,
-      "num": 139998,
+      "num": 147376,
       "word": "特拉斯成英国任期最短的首相",
       "onboard_time": 1666271308,
       "rank": 20,
@@ -89,14 +97,6 @@
       "onboard_time": 1666179866,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854859,
-      "num": 141527,
-      "word": "孙颖莎",
-      "onboard_time": 1666273948,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 852526,
@@ -145,6 +145,14 @@
       "onboard_time": 1666221559,
       "rank": 23,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 811328,
+      "num": 148188,
+      "word": "心疼超哥",
+      "onboard_time": 1666274307,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 806763,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399445,
+      "num": 147920,
+      "word": "匿名网友连续800多天向南大捐钱",
+      "onboard_time": 1666271784,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 394860,
       "num": 161906,
       "word": "儿媳出产房婆婆跑着送花亲吻",
@@ -427,14 +443,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 382979,
-      "num": 140727,
-      "word": "匿名网友连续800多天向南大捐钱",
-      "onboard_time": 1666271784,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 382479,
       "num": 382479,
       "word": "iPhoneSE4将采用刘海全面屏",
@@ -449,6 +457,14 @@
       "onboard_time": 1666190187,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368590,
+      "num": 147858,
+      "word": "女生到云南吃烤洋芋被蘸料惊呆",
+      "onboard_time": 1666272746,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 360504,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301433,
+      "num": 146649,
+      "word": "炽道",
+      "onboard_time": 1666273948,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294335,
       "num": 161936,
       "word": "爱犬去世奶奶蹲路边与别家小狗聊天",
@@ -593,6 +617,14 @@
       "onboard_time": 1666245145,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282715,
+      "num": 146143,
+      "word": "易烊千玺半小时学会漂移",
+      "onboard_time": 1666275270,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 271186,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249935,
+      "num": 146378,
+      "word": "原来夜礼服假面这么朴素",
+      "onboard_time": 1666274427,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249605,
       "num": 210016,
       "word": "仪态满分的古装美人",
@@ -673,14 +713,6 @@
       "onboard_time": 1666195703,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242439,
-      "num": 139478,
-      "word": "女生到云南吃烤洋芋被蘸料惊呆",
-      "onboard_time": 1666272746,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 242287,
@@ -739,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230524,
+      "num": 146225,
+      "word": "Maybe我的青春结束了",
+      "onboard_time": 1666272507,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229144,
       "num": 229144,
       "word": "河南省猪肉价格进入过度上涨一级预警区间",
@@ -761,14 +801,6 @@
       "onboard_time": 1666244904,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218908,
-      "num": 139333,
-      "word": "炽道",
-      "onboard_time": 1666273948,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 216717,
@@ -825,14 +857,6 @@
       "onboard_time": 1666236501,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211128,
-      "num": 139164,
-      "word": "Maybe我的青春结束了",
-      "onboard_time": 1666272507,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 209134,
@@ -929,14 +953,6 @@
       "onboard_time": 1666263983,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194859,
-      "num": 138760,
-      "word": "原来夜礼服假面这么朴素",
-      "onboard_time": 1666274427,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194457,
@@ -1051,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173712,
-      "num": 138383,
-      "word": "心疼超哥",
-      "onboard_time": 1666274307,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170973,
       "num": 170973,
       "word": "谷爱凌晒六宫格首尔随拍",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1666234042,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160135,
+      "num": 145712,
+      "word": "全红婵跳水世界杯首秀",
+      "onboard_time": 1666275148,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159461,
@@ -1235,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132582,
+      "num": 132582,
+      "word": "英国在野党要求立刻举行大选",
+      "onboard_time": 1666274786,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 131076,
       "num": 131076,
       "word": "三悦全员告别",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1666207152,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120547,
+      "num": 120547,
+      "word": "我开始在座位上浑水摸鱼了",
+      "onboard_time": 1666274847,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 119926,
@@ -1699,6 +1731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 57015,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56816,
       "num": 241708,
       "word": "AI预测S12冠军",
@@ -1739,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50322,
-      "num": 150551,
-      "word": "10年来组织近20次紧急撤离海外公民行动",
-      "onboard_time": 1666268424,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50230,
       "num": 513260,
       "word": "二十大报告中这些举措关乎你我",
@@ -1767,6 +1799,14 @@
       "num": 150520,
       "word": "老人被困河岸民警大喊踩我身上",
       "onboard_time": 1666267824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48282,
+      "num": 148441,
+      "word": "8勇士闯生命禁区测出中国高度",
+      "onboard_time": 1666274488,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1883,7 +1923,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13862,
+      "raw_hot": 14008,
       "num": 151766,
       "word": "祖国各地的二十大时光",
       "onboard_time": 1666272145,
@@ -1915,14 +1955,6 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 10126,
-      "num": 141001,
-      "word": "8勇士闯生命禁区测出中国高度",
-      "onboard_time": 1666274488,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8024,
       "num": 40199,
       "word": "这简直是我的梦中情房",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1666211770,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 7430,
+      "num": 149074,
+      "word": "中国外汇储备连续17年全球第一",
+      "onboard_time": 1666275509,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 6553,
