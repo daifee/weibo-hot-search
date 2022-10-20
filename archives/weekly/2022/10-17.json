@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666297730875,
+  "endTime": 1666298771478,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -6323,19 +6323,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23191,
+      "num": 20900,
+      "word": "盖茨称欧洲能源危机长远看是好事",
+      "onboard_time": 1666293552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23177,
       "num": 145353,
       "word": "9个字细读党的二十大报告",
       "onboard_time": 1666282222,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21910,
-      "num": 20900,
-      "word": "盖茨称欧洲能源危机长远看是好事",
-      "onboard_time": 1666293552,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6345,6 +6345,14 @@
       "onboard_time": 1666291932,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17649,
+      "num": 21288,
+      "word": "90后家长回应给儿子取名张总",
+      "onboard_time": 1666287254,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17285,
@@ -6377,14 +6385,6 @@
       "onboard_time": 1666215191,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15440,
-      "num": 21288,
-      "word": "90后家长回应给儿子取名张总",
-      "onboard_time": 1666287254,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15007,
@@ -6475,20 +6475,20 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 10901,
+      "num": 17580,
+      "word": "外资巨头增持中资互联网股",
+      "onboard_time": 1666294390,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 10891,
       "num": 10891,
       "word": "十年来我们经历了三件大事",
       "onboard_time": 1665887850,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10027,
-      "num": 17580,
-      "word": "外资巨头增持中资互联网股",
-      "onboard_time": 1666294390,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 9364,
@@ -6521,6 +6521,14 @@
       "onboard_time": 1665886770,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7140,
+      "num": 12030,
+      "word": "谭松韵李心遥接受爱的告白",
+      "onboard_time": 1666298529,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 7038,
