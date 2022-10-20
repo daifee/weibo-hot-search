@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666284065786,
+  "endTime": 1666285879028,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -23603,6 +23603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138058,
+      "num": 116964,
+      "word": "遇见喜欢的人你会主动吗",
+      "onboard_time": 1666283299,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "原来小鸭也是要哄的",
@@ -29473,14 +29481,6 @@
       "onboard_time": 1665878122,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69993,
-      "num": 69993,
-      "word": "遇见喜欢的人你会主动吗",
-      "onboard_time": 1666283299,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 69947,
