@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 13:44:13
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 13:57:17
 </p>
 </blockquote>
 <p>
@@ -2608,7 +2608,7 @@ JDG战胜DK（热度：837920）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%99%9A%E7%9D%A1%E5%8D%B3%E4%BD%BF%E7%9D%A1%E5%A4%9F%E4%B9%9F%E4%BC%9A%E5%AF%BC%E8%87%B4%E9%BB%91%E7%9C%BC%E5%9C%88%23" target="weibo">
-长期晚睡即使睡够也会导致黑眼圈（热度：806380）
+长期晚睡即使睡够也会导致黑眼圈（热度：806763）
 </a>
 </li>
 
@@ -4083,6 +4083,12 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
+外交部称绝不接受教师爷的颐指气使（热度：610193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%888%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61307%E4%BE%8B%23" target="weibo">
 10月8日新增本土无症状1307例（热度：609359）
 </a>
@@ -4481,6 +4487,12 @@ TTG（热度：568457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%BE%99%E7%94%9F%E4%B9%9D%E5%AD%90%E6%9C%80%E6%9C%89%E8%B6%A3%E7%9A%84%E8%A7%A3%E9%87%8A%23" target="weibo">
 这才是龙生九子最有趣的解释（热度：568411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%8F%8D%E6%81%8B%E7%88%B1%E8%84%91%E9%BC%BB%E7%A5%96%23" target="weibo">
+晴儿反恋爱脑鼻祖（热度：567948）
 </a>
 </li>
 
@@ -5129,12 +5141,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%9B%9E%E5%A4%8D%E5%BD%AD%E6%98%B1%E7%95%85%E4%BD%A0%E8%83%86%E5%AD%90%E6%9C%80%E5%A4%A7%E4%BA%86%23" target="weibo">
 许凯回复彭昱畅你胆子最大了（热度：514833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
-外交部称绝不接受教师爷的颐指气使（热度：514522）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG骑士礼空位（热度：458492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BF%83%E6%80%81%23" target="weibo">
 林高远心态（热度：457927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
-脱口秀大会（热度：457710）
 </a>
 </li>
 
