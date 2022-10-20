@@ -1,0 +1,410 @@
+{
+  "runTime": 1666248032674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 713494,
+        "num": 713494,
+        "word": "外交部称绝不接受教师爷的颐指气使",
+        "onboard_time": 1666238604,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162699,
+        "num": 162699,
+        "word": "连续拿下台湾当局9个所谓邦交国",
+        "onboard_time": 1666247484,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97621,
+        "num": 162581,
+        "word": "二十大报告中的民生关键词",
+        "onboard_time": 1666228165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 497201,
+        "num": 162086,
+        "word": "雷军称小米成电车前五才能成功",
+        "onboard_time": 1666241786,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 65533,
+        "num": 161421,
+        "word": "二十大报告给青年的寄语",
+        "onboard_time": 1666247843,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385543,
+        "num": 161108,
+        "word": "云南小熊猫翘班跑进学生宿舍",
+        "onboard_time": 1666239083,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323272,
+        "num": 160500,
+        "word": "女生校内晕倒2流浪狗舔鼻唤醒",
+        "onboard_time": 1666179866,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258860,
+        "num": 159808,
+        "word": "黄继光牺牲时胸腹被子弹打穿",
+        "onboard_time": 1666221559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229973,
+        "num": 159567,
+        "word": "西安即将诞生的全新的交通方式",
+        "onboard_time": 1666192765,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159219,
+        "num": 159219,
+        "word": "中国建交国达181个",
+        "onboard_time": 1666244063,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526946,
+        "num": 159145,
+        "word": "长期晚睡即使睡够也会导致黑眼圈",
+        "onboard_time": 1666240585,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523159,
+        "num": 159025,
+        "word": "晴儿反恋爱脑鼻祖",
+        "onboard_time": 1666242266,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361127,
+        "num": 158887,
+        "word": "iPhone14Plus砍单幅度达4成左右",
+        "onboard_time": 1666242086,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 312303,
+        "num": 158797,
+        "word": "TI11淘汰赛",
+        "onboard_time": 1666244425,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139510,
+        "num": 158675,
+        "word": "中国成功运行世界首个电磁橇",
+        "onboard_time": 1666231943,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 303313,
+        "num": 158565,
+        "word": "婚礼上我把手捧花给了新郎",
+        "onboard_time": 1666244543,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259504,
+        "num": 158446,
+        "word": "老人要钱被请吃面却剩下大半",
+        "onboard_time": 1666247005,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223921,
+        "num": 158349,
+        "word": "寂静岭f公开",
+        "onboard_time": 1666243584,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201229,
+        "num": 158308,
+        "word": "马龙连续七年生日捐赠球台",
+        "onboard_time": 1666239024,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201183,
+        "num": 158119,
+        "word": "iPhoneSE4将采用刘海全面屏",
+        "onboard_time": 1666246944,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 319860,
+        "num": 158051,
+        "word": "老师参加考试学生监考",
+        "onboard_time": 1666243824,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193201,
+        "num": 157923,
+        "word": "成都街头刮起柿子风",
+        "onboard_time": 1666245804,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 193184,
+        "num": 157806,
+        "word": "去医院的狗狗能有多紧张",
+        "onboard_time": 1666244904,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163515,
+        "num": 157643,
+        "word": "专家提醒40岁后注重骨密度检测筛查",
+        "onboard_time": 1666245145,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157642,
+        "num": 157642,
+        "word": "星汉灿烂月升沧海11月将台湾播出",
+        "onboard_time": 1666231342,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34263,
+        "num": 145953,
+        "word": "万张全家福记录乡村十年变迁",
+        "onboard_time": 1666246462,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143335,
+        "num": 143335,
+        "word": "LNG运输船日租金45万美元",
+        "onboard_time": 1666245444,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136324,
+        "num": 136324,
+        "word": "外交部谈电影万里归途",
+        "onboard_time": 1666241123,
+        "rank": 27,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 131444,
+        "num": 131444,
+        "word": "泪失禁体质也太难了吧",
+        "onboard_time": 1666227386,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130400,
+        "num": 130400,
+        "word": "大学生做糖炒板栗被举报消防找上门",
+        "onboard_time": 1666222161,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127246,
+        "num": 127246,
+        "word": "达米安李绝杀独行侠",
+        "onboard_time": 1666241846,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107962,
+        "num": 107962,
+        "word": "香港大学授予林青霞名誉博士学位",
+        "onboard_time": 1666232301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98930,
+        "num": 98930,
+        "word": "罗云熙吴倩新剧双向奔赴",
+        "onboard_time": 1666246583,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98111,
+        "num": 98111,
+        "word": "我们不会输出中国模式",
+        "onboard_time": 1666246404,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90876,
+        "num": 90876,
+        "word": "再恋爱脑就不礼貌了",
+        "onboard_time": 1666185025,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 88824,
+        "num": 88824,
+        "word": "小朋友穿宇航服有多可爱",
+        "onboard_time": 1666242864,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84692,
+        "num": 84692,
+        "word": "特斯拉新车型成本仅Model3一半",
+        "onboard_time": 1666247122,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 78622,
+        "num": 78622,
+        "word": "2名男孩陷淤泥男子开挖掘机施救",
+        "onboard_time": 1666232001,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 78526,
+        "num": 78526,
+        "word": "奶奶用方言听写孙子一脸懵",
+        "onboard_time": 1666229184,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78492,
+        "num": 78492,
+        "word": "装修时用这人设简直无敌了",
+        "onboard_time": 1666235422,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76925,
+        "num": 76925,
+        "word": "中国推动建设一个持久和平的世界",
+        "onboard_time": 1666244063,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76617,
+        "num": 76617,
+        "word": "马龙说年龄绝不是继续向前的阻碍",
+        "onboard_time": 1666240345,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 76521,
+        "num": 76521,
+        "word": "已将5200多名同胞安全从乌克兰撤离",
+        "onboard_time": 1666247183,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74350,
+        "num": 74350,
+        "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
+        "onboard_time": 1666231822,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72022,
+        "num": 72022,
+        "word": "林高远锁定WTT总决赛资格",
+        "onboard_time": 1666247545,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65914,
+        "num": 65914,
+        "word": "90后父母给儿子硬核取名叫张总",
+        "onboard_time": 1666200254,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62574,
+        "num": 62574,
+        "word": "高铁司机13年默默助学20个孩子",
+        "onboard_time": 1666238484,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 58245,
+        "num": 58245,
+        "word": "谭松韵新剧被父亲拿捏",
+        "onboard_time": 1666236501,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57536,
+        "num": 57536,
+        "word": "妈妈心疼实习女儿寄16袋自制熟食",
+        "onboard_time": 1666247963,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51422,
+        "num": 51422,
+        "word": "我国建成世界最大高速铁路网",
+        "onboard_time": 1666248026,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大新闻中心第四场记者招待会#"
+    }
+  }
+}

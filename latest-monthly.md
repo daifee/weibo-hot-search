@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 13:57:17
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 14:40:32
 </p>
 </blockquote>
 <p>
@@ -3207,6 +3207,12 @@ S12八强没有LPL内战（热度：730041）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
+外交部称绝不接受教师爷的颐指气使（热度：713494）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5%E5%B7%B2%E7%94%A8%E5%AE%8C%23" target="weibo">
 2022法定节假日已用完（热度：712944）
 </a>
@@ -4079,12 +4085,6 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%877%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%87%BA%E8%A1%804%E4%B8%AA%E6%B4%BE%E5%87%BA%E6%89%80%E7%94%9F%E5%91%BD%E6%8E%A5%E5%8A%9B%23" target="weibo">
 孕妇7个月大出血4个派出所生命接力（热度：610354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%99%E5%B8%88%E7%88%B7%E7%9A%84%E9%A2%90%E6%8C%87%E6%B0%94%E4%BD%BF%23" target="weibo">
-外交部称绝不接受教师爷的颐指气使（热度：610193）
 </a>
 </li>
 
@@ -5403,6 +5403,12 @@ IU首登韩版Vogue11月刊（热度：501833）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%88%90%E7%94%B5%E8%BD%A6%E5%89%8D%E4%BA%94%E6%89%8D%E8%83%BD%E6%88%90%E5%8A%9F%23" target="weibo">
+雷军称小米成电车前五才能成功（热度：497201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2383%E5%B2%81%E5%A7%A5%E5%A7%A5%E9%9A%8F%E6%89%8B%E5%86%99%E5%87%BA%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E5%BC%8F%E6%83%8A%E5%91%86%E5%A4%96%E5%AD%99%23" target="weibo">
 83岁姥姥随手写出化学结构式惊呆外孙（热度：496563）
 </a>
@@ -6005,12 +6011,6 @@ Chovy确诊新冠（热度：459953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E9%AA%91%E5%A3%AB%E7%A4%BC%E7%A9%BA%E4%BD%8D%23" target="weibo">
 EDG骑士礼空位（热度：458492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BF%83%E6%80%81%23" target="weibo">
-林高远心态（热度：457927）
 </a>
 </li>
 
