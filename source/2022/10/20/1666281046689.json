@@ -1,0 +1,410 @@
+{
+  "runTime": 1666281046689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 272020,
+        "num": 424478,
+        "word": "中国外汇储备连续17年全球第一",
+        "onboard_time": 1666275509,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264960,
+        "num": 264960,
+        "word": "连续拿下台湾当局9个所谓邦交国",
+        "onboard_time": 1666247484,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8722,
+        "num": 264911,
+        "word": "祖国各地的二十大时光",
+        "onboard_time": 1666272145,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943337,
+        "num": 264819,
+        "word": "全红婵跳水世界杯首秀",
+        "onboard_time": 1666275148,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49156,
+        "num": 264632,
+        "word": "10年来组织近20次紧急撤离海外公民行动",
+        "onboard_time": 1666268424,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902930,
+        "num": 264584,
+        "word": "英国首相特拉斯辞职",
+        "onboard_time": 1666270164,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 548721,
+        "num": 264440,
+        "word": "RNG打破TI历史时间记录",
+        "onboard_time": 1666270285,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311073,
+        "num": 264287,
+        "word": "全红婵207C拿到10分",
+        "onboard_time": 1666276229,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228289,
+        "num": 264246,
+        "word": "中国大陆男网排名首进前100",
+        "onboard_time": 1666278210,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8110,
+        "num": 264159,
+        "word": "二十大献礼片单展映",
+        "onboard_time": 1666279408,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850563,
+        "num": 263946,
+        "word": "心疼超哥",
+        "onboard_time": 1666274307,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640036,
+        "num": 263888,
+        "word": "蜜蜂猫出现了",
+        "onboard_time": 1666278869,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495449,
+        "num": 263776,
+        "word": "1条没回的信息救了8旬母亲一命",
+        "onboard_time": 1666255825,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375120,
+        "num": 263711,
+        "word": "停车两年欠费5万的车主回应",
+        "onboard_time": 1666263323,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357137,
+        "num": 263547,
+        "word": "频繁聊天可以理解为喜欢吗",
+        "onboard_time": 1666261764,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318045,
+        "num": 263489,
+        "word": "孙颖莎",
+        "onboard_time": 1666273948,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314538,
+        "num": 263370,
+        "word": "味精真的被误解太久了",
+        "onboard_time": 1666262845,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306845,
+        "num": 263214,
+        "word": "全红婵陈芋汐断层优势晋级",
+        "onboard_time": 1666278390,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294003,
+        "num": 263088,
+        "word": "原来夜礼服假面这么朴素",
+        "onboard_time": 1666274427,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286378,
+        "num": 263000,
+        "word": "女生到云南吃烤洋芋被蘸料惊呆",
+        "onboard_time": 1666272746,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 280300,
+        "num": 262885,
+        "word": "婚礼现场婆婆被宾客误认为是新娘",
+        "onboard_time": 1666255584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262813,
+        "num": 262813,
+        "word": "英国在野党要求立刻举行大选",
+        "onboard_time": 1666274786,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 251592,
+        "num": 251592,
+        "word": "57岁父亲临终告诉子女水缸下有钱",
+        "onboard_time": 1666278629,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232236,
+        "num": 232236,
+        "word": "maybe",
+        "onboard_time": 1666272444,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229778,
+        "num": 229778,
+        "word": "弟弟治好了我的容貌焦虑",
+        "onboard_time": 1666279348,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211771,
+        "num": 211771,
+        "word": "90后舅舅接外甥女放学用英语流畅对话",
+        "onboard_time": 1666277369,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "s12",
+        "onboard_time": 1666274427,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193454,
+        "num": 193454,
+        "word": "特拉斯成英国任期最短的首相",
+        "onboard_time": 1666271308,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189729,
+        "num": 189729,
+        "word": "儿媳出产房婆婆跑着送花亲吻",
+        "onboard_time": 1666263443,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180176,
+        "num": 180176,
+        "word": "炽道",
+        "onboard_time": 1666273948,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164643,
+        "num": 164643,
+        "word": "让别人瞬间不自信的方法",
+        "onboard_time": 1666276413,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 158219,
+        "word": "山西男篮加时战胜辽宁男篮",
+        "onboard_time": 1666275870,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154533,
+        "num": 154533,
+        "word": "长期晚睡即使睡够也会导致黑眼圈",
+        "onboard_time": 1666240585,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131792,
+        "num": 131792,
+        "word": "匿名网友连续800多天向南大捐钱",
+        "onboard_time": 1666271784,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115303,
+        "num": 115303,
+        "word": "Maybe我的青春结束了",
+        "onboard_time": 1666272507,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111630,
+        "num": 111630,
+        "word": "比亚迪唐德国售价比国内高出一倍",
+        "onboard_time": 1666280486,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110204,
+        "num": 110204,
+        "word": "大富翁11上线",
+        "onboard_time": 1666270105,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109271,
+        "num": 109271,
+        "word": "隔着玻璃晒太阳是无效补钙",
+        "onboard_time": 1666258165,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108596,
+        "num": 108596,
+        "word": "张宁27分",
+        "onboard_time": 1666279708,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107525,
+        "num": 107525,
+        "word": "RNG告别TI11",
+        "onboard_time": 1666270285,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104021,
+        "num": 104021,
+        "word": "女子下厨招待朋友被狗子5分钟炫光",
+        "onboard_time": 1666265064,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88817,
+        "num": 101628,
+        "word": "外交部称绝不接受教师爷的颐指气使",
+        "onboard_time": 1666238604,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101151,
+        "num": 101151,
+        "word": "老人要钱被请吃面却剩下大半",
+        "onboard_time": 1666247005,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98644,
+        "num": 98644,
+        "word": "周杰伦明天发新MV",
+        "onboard_time": 1666262544,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95423,
+        "num": 95423,
+        "word": "被李诞的话抚平了职场焦虑",
+        "onboard_time": 1666258944,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94451,
+        "num": 94451,
+        "word": "谭松韵新剧台词力量感",
+        "onboard_time": 1666280846,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93108,
+        "num": 93108,
+        "word": "吃柿子最好去皮",
+        "onboard_time": 1666263205,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87008,
+        "num": 87008,
+        "word": "美经济学家称全世界英美最残暴",
+        "onboard_time": 1666265424,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86366,
+        "num": 86366,
+        "word": "吴磊赵露思星汉灿烂已上线网飞",
+        "onboard_time": 1666250123,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80561,
+        "num": 80561,
+        "word": "沸腾校园豆瓣8.3分",
+        "onboard_time": 1666268543,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
