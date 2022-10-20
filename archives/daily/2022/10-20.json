@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666248032674,
+  "endTime": 1666249396207,
   "band_list": [
     {
       "raw_hot": 1555507,
@@ -8,6 +8,14 @@
       "word": "女子逃离大城市去鹤岗全款1.5万买房",
       "onboard_time": 1666224264,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1061863,
+      "num": 1061863,
+      "word": "连续拿下台湾当局9个所谓邦交国",
+      "onboard_time": 1666247484,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -64,6 +72,14 @@
       "word": "外交部称绝不接受教师爷的颐指气使",
       "onboard_time": 1666238604,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694853,
+      "num": 249561,
+      "word": "老人要钱被请吃面却剩下大半",
+      "onboard_time": 1666247005,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 352093,
+      "num": 249455,
+      "word": "iPhoneSE4将采用刘海全面屏",
+      "onboard_time": 1666246944,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 350107,
       "num": 498772,
       "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
@@ -225,6 +249,14 @@
       "onboard_time": 1666180885,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328773,
+      "num": 476689,
+      "word": "婚礼上我把手捧花给了新郎",
+      "onboard_time": 1666244543,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 319860,
@@ -251,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303313,
-      "num": 476689,
-      "word": "婚礼上我把手捧花给了新郎",
-      "onboard_time": 1666244543,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 298891,
+      "num": 298891,
+      "word": "成都街头刮起柿子风",
+      "onboard_time": 1666245804,
+      "rank": 21,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 292718,
@@ -265,6 +297,14 @@
       "onboard_time": 1666233262,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 292416,
+      "num": 225388,
+      "word": "LGD不敌Secret",
+      "onboard_time": 1666248806,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 289502,
@@ -299,19 +339,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259504,
-      "num": 158446,
-      "word": "老人要钱被请吃面却剩下大半",
-      "onboard_time": 1666247005,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250754,
       "num": 428586,
       "word": "NASA公布天体景象创生之柱新图像",
       "onboard_time": 1666236144,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249312,
+      "num": 391492,
+      "word": "专家提醒40岁后注重骨密度检测筛查",
+      "onboard_time": 1666245145,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -369,6 +409,22 @@
       "onboard_time": 1666212850,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 227593,
+      "num": 227593,
+      "word": "妈妈心疼实习女儿寄16袋自制熟食",
+      "onboard_time": 1666247963,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220511,
+      "num": 440726,
+      "word": "去医院的狗狗能有多紧张",
+      "onboard_time": 1666244904,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 215484,
@@ -435,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201183,
-      "num": 158119,
-      "word": "iPhoneSE4将采用刘海全面屏",
-      "onboard_time": 1666246944,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 200458,
       "num": 521584,
       "word": "达米安李绝杀独行侠",
@@ -473,22 +521,6 @@
       "onboard_time": 1666204512,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193201,
-      "num": 157923,
-      "word": "成都街头刮起柿子风",
-      "onboard_time": 1666245804,
-      "rank": 21,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 193184,
-      "num": 440726,
-      "word": "去医院的狗狗能有多紧张",
-      "onboard_time": 1666244904,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 190032,
@@ -547,6 +579,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 173953,
+      "num": 173953,
+      "word": "林高远锁定WTT总决赛资格",
+      "onboard_time": 1666247545,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170973,
+      "num": 170973,
+      "word": "谷爱凌晒六宫格首尔随拍",
+      "onboard_time": 1666248684,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170385,
       "num": 482294,
       "word": "装修时用这人设简直无敌了",
@@ -595,22 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163515,
-      "num": 391492,
-      "word": "专家提醒40岁后注重骨密度检测筛查",
-      "onboard_time": 1666245145,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162699,
-      "num": 162699,
-      "word": "连续拿下台湾当局9个所谓邦交国",
-      "onboard_time": 1666247484,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159461,
       "num": 159461,
       "word": "88岁老太吃饭时痴迷用手机看剧",
@@ -624,6 +656,14 @@
       "word": "中国建交国达181个",
       "onboard_time": 1666244063,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157893,
+      "num": 157893,
+      "word": "我们不会输出中国模式",
+      "onboard_time": 1666246404,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -667,8 +707,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143335,
-      "num": 143335,
+      "raw_hot": 143658,
+      "num": 143658,
       "word": "LNG运输船日租金45万美元",
       "onboard_time": 1666245444,
       "rank": 26,
@@ -699,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131076,
+      "num": 131076,
+      "word": "三悦全员告别",
+      "onboard_time": 1666248444,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128515,
       "num": 128515,
       "word": "杜兰特32分",
@@ -707,12 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126982,
+      "num": 126982,
+      "word": "罗云熙吴倩新剧双向奔赴",
+      "onboard_time": 1666246583,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126645,
       "num": 126645,
       "word": "鹈鹕vs篮网",
       "onboard_time": 1666224806,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123886,
+      "num": 123886,
+      "word": "已将5200多名同胞安全从乌克兰撤离",
+      "onboard_time": 1666247183,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122259,
@@ -729,6 +793,14 @@
       "onboard_time": 1666207152,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117927,
+      "num": 117927,
+      "word": "特斯拉新车型成本仅Model3一半",
+      "onboard_time": 1666247122,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 113967,
@@ -795,22 +867,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 98930,
-      "num": 98930,
-      "word": "罗云熙吴倩新剧双向奔赴",
-      "onboard_time": 1666246583,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 98111,
-      "num": 98111,
-      "word": "我们不会输出中国模式",
-      "onboard_time": 1666246404,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93972,
       "num": 287883,
       "word": "小伙牌桌上偷换麻将用诈胡求婚",
@@ -841,14 +897,6 @@
       "onboard_time": 1666238484,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84692,
-      "num": 84692,
-      "word": "特斯拉新车型成本仅Model3一半",
-      "onboard_time": 1666247122,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 84647,
@@ -891,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76521,
-      "num": 76521,
-      "word": "已将5200多名同胞安全从乌克兰撤离",
-      "onboard_time": 1666247183,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74547,
       "num": 100419,
       "word": "原来鱼也会这么拼命",
@@ -913,14 +953,6 @@
       "onboard_time": 1666235722,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72022,
-      "num": 72022,
-      "word": "林高远锁定WTT总决赛资格",
-      "onboard_time": 1666247545,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 67100,
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 65533,
-      "num": 161421,
+      "num": 339064,
       "word": "二十大报告给青年的寄语",
       "onboard_time": 1666247843,
       "rank": 4,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1666184366,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 57536,
-      "num": 57536,
-      "word": "妈妈心疼实习女儿寄16袋自制熟食",
-      "onboard_time": 1666247963,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56816,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1666208172,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5792,
+      "num": 249375,
+      "word": "6岁女孩饭店里即兴演绎民族舞",
+      "onboard_time": 1666249284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5647,

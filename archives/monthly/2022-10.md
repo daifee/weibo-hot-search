@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 14:40:32
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 15:03:16
 </p>
 </blockquote>
 <p>
@@ -1661,6 +1661,12 @@ RGE战胜TES（热度：1085972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%A4%87%E5%BF%98%E5%BD%95%E8%A2%AB%E6%9B%9D%E8%8E%AB%E5%90%8D%E6%B8%85%E7%A9%BA%23" target="weibo">
 iPhone备忘录被曝莫名清空（热度：1063622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E6%8B%BF%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%B1%809%E4%B8%AA%E6%89%80%E8%B0%93%E9%82%A6%E4%BA%A4%E5%9B%BD%23" target="weibo">
+连续拿下台湾当局9个所谓邦交国（热度：1061863）
 </a>
 </li>
 
@@ -3383,6 +3389,12 @@ Viper（热度：705111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E9%9B%87%E8%BD%BF%E6%8A%AC%E7%8B%97%E4%B8%8A%E5%B1%B1%23" target="weibo">
 景区回应女子雇轿抬狗上山（热度：695446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A6%81%E9%92%B1%E8%A2%AB%E8%AF%B7%E5%90%83%E9%9D%A2%E5%8D%B4%E5%89%A9%E4%B8%8B%E5%A4%A7%E5%8D%8A%23" target="weibo">
+老人要钱被请吃面却剩下大半（热度：694853）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Chovy确诊新冠（热度：459953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%9A%84%E4%BA%8C%E5%85%AB%E5%AE%9A%E5%BE%8B%E5%AE%9A%E6%A1%A31013%23" target="weibo">
 爱的二八定律定档1013（热度：459102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%8A%E9%BA%A6%E7%AC%91%E6%AD%BB%23" target="weibo">
-被王鹤棣秦霄贤喊麦笑死（热度：458666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E9%AA%91%E5%A3%AB%E7%A4%BC%E7%A9%BA%E4%BD%8D%23" target="weibo">
-EDG骑士礼空位（热度：458492）
 </a>
 </li>
 
