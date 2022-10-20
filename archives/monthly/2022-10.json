@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666292628984,
+  "endTime": 1666294177212,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -32067,6 +32067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16713,
+      "num": 27482,
+      "word": "谷爱凌晒首尔plog",
+      "onboard_time": 1666291932,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16700,
       "num": 16700,
       "word": "王家卫繁花仍在拍摄中",
@@ -32379,14 +32387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9333,
-      "num": 27482,
-      "word": "谷爱凌晒首尔plog",
-      "onboard_time": 1666291932,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 9140,
       "num": 9140,
       "word": "回力回应童鞋藏剪刀",
@@ -32417,6 +32417,14 @@
       "onboard_time": 1665859333,
       "rank": 47,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 8390,
+      "num": 21288,
+      "word": "90后家长回应给儿子取名张总",
+      "onboard_time": 1666287254,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8384,
@@ -32553,6 +32561,14 @@
       "onboard_time": 1665265211,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 20900,
+      "word": "盖茨称欧洲能源危机长远看是好事",
+      "onboard_time": 1666293552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7063,
