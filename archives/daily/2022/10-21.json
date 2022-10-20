@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666302197939,
+  "endTime": 1666304845088,
   "band_list": [
     {
       "raw_hot": 462739,
@@ -331,6 +331,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64551,
+      "num": 64551,
+      "word": "中国女足成为世界杯二档种子",
+      "onboard_time": 1666299612,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63848,
+      "num": 63848,
+      "word": "骨质疏松症也叫静悄悄的流行病",
+      "onboard_time": 1666300331,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57872,
+      "num": 57872,
+      "word": "90后家长回应给儿子取名张总",
+      "onboard_time": 1666287254,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54735,
       "num": 55929,
       "word": "谭松韵饰演的李心遥好励志",
@@ -379,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27952,
-      "num": 21288,
-      "word": "90后家长回应给儿子取名张总",
-      "onboard_time": 1666287254,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23191,
-      "num": 20900,
+      "raw_hot": 31489,
+      "num": 31489,
       "word": "盖茨称欧洲能源危机长远看是好事",
       "onboard_time": 1666293552,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25100,
+      "num": 25100,
+      "word": "泰山五岳独尊石怎么来的",
+      "onboard_time": 1666301170,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 23177,
@@ -403,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20262,
-      "num": 20584,
-      "word": "中国女足成为世界杯二档种子",
-      "onboard_time": 1666299612,
+      "raw_hot": 21766,
+      "num": 21766,
+      "word": "外资巨头增持中资互联网股",
+      "onboard_time": 1666294390,
       "rank": 47,
-      "category": "体育"
+      "category": "财经"
     },
     {
       "raw_hot": 20071,
@@ -419,35 +443,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15942,
-      "num": 18828,
-      "word": "外资巨头增持中资互联网股",
-      "onboard_time": 1666294390,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 9364,
       "num": 15195,
       "word": "狗狗课堂表演滑板引围观",
       "onboard_time": 1666296371,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8334,
-      "num": 17949,
-      "word": "泰山五岳独尊石怎么来的",
-      "onboard_time": 1666301170,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 8032,
-      "num": 17791,
-      "word": "骨质疏松症也叫静悄悄的流行病",
-      "onboard_time": 1666300331,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
