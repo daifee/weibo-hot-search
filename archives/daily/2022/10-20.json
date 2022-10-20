@@ -1,21 +1,21 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666259414771,
+  "endTime": 1666261860771,
   "band_list": [
+    {
+      "raw_hot": 1684353,
+      "num": 214199,
+      "word": "1条没回的信息救了8旬母亲一命",
+      "onboard_time": 1666255825,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1555507,
       "num": 136355,
       "word": "女子逃离大城市去鹤岗全款1.5万买房",
       "onboard_time": 1666224264,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1338154,
-      "num": 214199,
-      "word": "1条没回的信息救了8旬母亲一命",
-      "onboard_time": 1666255825,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 641517,
+      "num": 213282,
+      "word": "王曼昱2比3袁嘉楠",
+      "onboard_time": 1666258524,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 634304,
       "num": 333777,
       "word": "3岁男孩偷酸奶被奶奶坚持送派出所",
@@ -219,12 +227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 516666,
-      "num": 199825,
-      "word": "王曼昱2比3袁嘉楠",
-      "onboard_time": 1666258524,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 511822,
+      "num": 193914,
+      "word": "被李诞的话抚平了职场焦虑",
+      "onboard_time": 1666258944,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 503026,
@@ -241,6 +249,14 @@
       "onboard_time": 1666241786,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 488776,
+      "num": 202042,
+      "word": "王曼昱状态",
+      "onboard_time": 1666259064,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 471641,
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385515,
+      "num": 212883,
+      "word": "淘宝购物车扩容至300",
+      "onboard_time": 1666255526,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 382479,
       "num": 382479,
       "word": "iPhoneSE4将采用刘海全面屏",
@@ -313,14 +337,6 @@
       "onboard_time": 1666190187,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372590,
-      "num": 212883,
-      "word": "淘宝购物车扩容至300",
-      "onboard_time": 1666255526,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 360504,
@@ -361,14 +377,6 @@
       "onboard_time": 1666244543,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324613,
-      "num": 193914,
-      "word": "被李诞的话抚平了职场焦虑",
-      "onboard_time": 1666258944,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 319860,
@@ -553,14 +561,6 @@
       "onboard_time": 1666244904,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219313,
-      "num": 196403,
-      "word": "王曼昱状态",
-      "onboard_time": 1666259064,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 215484,
@@ -867,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151556,
+      "num": 151556,
+      "word": "爆笑课代表挑战赛",
+      "onboard_time": 1666261284,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150922,
       "num": 496413,
       "word": "马龙说年龄绝不是继续向前的阻碍",
@@ -961,6 +969,14 @@
       "onboard_time": 1666236024,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126993,
+      "num": 126993,
+      "word": "隔着玻璃晒太阳是无效补钙",
+      "onboard_time": 1666258165,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126645,
@@ -1099,12 +1115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94667,
-      "num": 94667,
-      "word": "隔着玻璃晒太阳是无效补钙",
-      "onboard_time": 1666258165,
-      "rank": 48,
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "爱犬去世奶奶蹲路边与别家小狗聊天",
+      "onboard_time": 1666261225,
+      "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94042,
+      "num": 94042,
+      "word": "怎样才是吃柿子的正确方式",
+      "onboard_time": 1666258705,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 93972,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1666187485,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91945,
+      "num": 91945,
+      "word": "胶带粘到纸上了怎么办",
+      "onboard_time": 1666259544,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 91784,
@@ -1163,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81322,
+      "num": 81322,
+      "word": "频繁聊天可以理解为喜欢吗",
+      "onboard_time": 1666261764,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78029,
       "num": 281928,
       "word": "真的会被龙葵射箭帅到",
@@ -1203,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72990,
+      "num": 213680,
+      "word": "张桂梅讲述她的新梦想",
+      "onboard_time": 1666255645,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71856,
       "num": 85264,
       "word": "柿子和秋天有多配",
@@ -1219,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66789,
-      "num": 66789,
-      "word": "怎样才是吃柿子的正确方式",
-      "onboard_time": 1666258705,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 66330,
       "num": 239289,
       "word": "原来橘猫真的容易认错",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1666187667,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63596,
+      "num": 207013,
+      "word": "外交部回应中方领导人是否出席G20峰会",
+      "onboard_time": 1666259665,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62312,
@@ -1355,10 +1403,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49307,
-      "num": 213680,
-      "word": "张桂梅讲述她的新梦想",
-      "onboard_time": 1666255645,
+      "raw_hot": 48382,
+      "num": 190821,
+      "word": "外交部有力回击佩洛西窜台等倒行逆施",
+      "onboard_time": 1666261645,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1409,6 +1457,14 @@
       "onboard_time": 1666186767,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39782,
+      "num": 187184,
+      "word": "弯腰28次捡石子的女孩回应走红",
+      "onboard_time": 1666260084,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 38355,
