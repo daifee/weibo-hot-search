@@ -1,0 +1,410 @@
+{
+  "runTime": 1666309816553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 305653,
+        "num": 305653,
+        "word": "连续拿下台湾当局9个所谓邦交国",
+        "onboard_time": 1666247484,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244845,
+        "num": 244845,
+        "word": "中国外汇储备连续17年全球第一",
+        "onboard_time": 1666275509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 244126,
+        "word": "祖国各地的二十大时光",
+        "onboard_time": 1666272145,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495174,
+        "num": 243315,
+        "word": "全红婵跳水世界杯首秀",
+        "onboard_time": 1666275148,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 242689,
+        "word": "二十大献礼片单展映",
+        "onboard_time": 1666279408,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303895,
+        "num": 242297,
+        "word": "骨质疏松症也叫静悄悄的流行病",
+        "onboard_time": 1666300331,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253168,
+        "num": 240918,
+        "word": "全红婵陈芋汐断层优势晋级",
+        "onboard_time": 1666278390,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185655,
+        "num": 240005,
+        "word": "全红婵207C拿到10分",
+        "onboard_time": 1666276229,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 239042,
+        "word": "中国大陆男网排名首进前100",
+        "onboard_time": 1666278210,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44152,
+        "num": 238451,
+        "word": "9个字细读党的二十大报告",
+        "onboard_time": 1666282222,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126081,
+        "num": 237537,
+        "word": "JDG",
+        "onboard_time": 1666307598,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 523838,
+        "num": 236598,
+        "word": "57岁父亲临终告诉子女水缸下有钱",
+        "onboard_time": 1666278629,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436236,
+        "num": 236454,
+        "word": "停车两年欠费5万的车主回应",
+        "onboard_time": 1666263323,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517981,
+        "num": 235062,
+        "word": "RGE对战JDG",
+        "onboard_time": 1666307718,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 431254,
+        "num": 234450,
+        "word": "英国首相特拉斯辞职",
+        "onboard_time": 1666270164,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 372081,
+        "num": 233954,
+        "word": "蜜蜂猫出现了",
+        "onboard_time": 1666278869,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368634,
+        "num": 232910,
+        "word": "1条没回的信息救了8旬母亲一命",
+        "onboard_time": 1666255825,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303615,
+        "num": 232079,
+        "word": "比亚迪唐德国售价比国内高出一倍",
+        "onboard_time": 1666280486,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259485,
+        "num": 230830,
+        "word": "90后家长回应给儿子取名张总",
+        "onboard_time": 1666287254,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252398,
+        "num": 230608,
+        "word": "原来夜礼服假面这么朴素",
+        "onboard_time": 1666274427,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341540,
+        "num": 229310,
+        "word": "婚礼现场婆婆被宾客误认为是新娘",
+        "onboard_time": 1666255584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248317,
+        "num": 228908,
+        "word": "频繁聊天可以理解为喜欢吗",
+        "onboard_time": 1666261764,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228231,
+        "num": 228231,
+        "word": "心疼超哥",
+        "onboard_time": 1666274307,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195847,
+        "num": 195847,
+        "word": "长期晚睡即使睡够也会导致黑眼圈",
+        "onboard_time": 1666240585,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194997,
+        "num": 194997,
+        "word": "味精真的被误解太久了",
+        "onboard_time": 1666262845,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214901,
+        "num": 194583,
+        "word": "RNG打破TI历史时间记录",
+        "onboard_time": 1666270285,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194078,
+        "num": 194078,
+        "word": "儿媳出产房婆婆跑着送花亲吻",
+        "onboard_time": 1666263443,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186047,
+        "num": 186047,
+        "word": "女子下厨招待朋友被狗子5分钟炫光",
+        "onboard_time": 1666265064,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147389,
+        "num": 147389,
+        "word": "90后舅舅接外甥女放学用英语流畅对话",
+        "onboard_time": 1666277369,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134248,
+        "num": 134248,
+        "word": "JDG战胜RGE",
+        "onboard_time": 1666309643,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 134232,
+        "word": "老人要钱被请吃面却剩下大半",
+        "onboard_time": 1666247005,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134113,
+        "num": 134113,
+        "word": "匿名网友连续800多天向南大捐钱",
+        "onboard_time": 1666271784,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126697,
+        "num": 126697,
+        "word": "柯基蹑手蹑脚潜到主人床边睡觉",
+        "onboard_time": 1666308979,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121463,
+        "num": 121463,
+        "word": "女生到云南吃烤洋芋被蘸料惊呆",
+        "onboard_time": 1666272746,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 119590,
+        "num": 119590,
+        "word": "s12",
+        "onboard_time": 1666274427,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 116773,
+        "word": "JDG晋级半决赛",
+        "onboard_time": 1666309703,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115916,
+        "num": 115916,
+        "word": "遇见喜欢的人你会主动吗",
+        "onboard_time": 1666283299,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101184,
+        "num": 101184,
+        "word": "中国女足成为世界杯二档种子",
+        "onboard_time": 1666299612,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100852,
+        "num": 100852,
+        "word": "盖茨称欧洲能源危机长远看是好事",
+        "onboard_time": 1666293552,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97260,
+        "num": 97260,
+        "word": "英国在野党要求立刻举行大选",
+        "onboard_time": 1666274786,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 96362,
+        "num": 96362,
+        "word": "万神殿",
+        "onboard_time": 1666309402,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94310,
+        "num": 94310,
+        "word": "孙颖莎",
+        "onboard_time": 1666273948,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91618,
+        "num": 91618,
+        "word": "吃柿子最好去皮",
+        "onboard_time": 1666263205,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84835,
+        "num": 84835,
+        "word": "RNG告别TI11",
+        "onboard_time": 1666270285,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84508,
+        "num": 84508,
+        "word": "特拉斯成英国任期最短的首相",
+        "onboard_time": 1666271308,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 79233,
+        "num": 79233,
+        "word": "外资巨头增持中资互联网股",
+        "onboard_time": 1666294390,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76294,
+        "num": 76294,
+        "word": "炽道",
+        "onboard_time": 1666273948,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76148,
+        "num": 76148,
+        "word": "maybe",
+        "onboard_time": 1666272444,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70535,
+        "num": 70535,
+        "word": "谷爱凌晒首尔plog",
+        "onboard_time": 1666291932,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64126,
+        "num": 64126,
+        "word": "泰山五岳独尊石怎么来的",
+        "onboard_time": 1666301170,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注二十大#"
+    }
+  }
+}

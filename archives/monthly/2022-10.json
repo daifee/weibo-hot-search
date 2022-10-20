@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666308795454,
+  "endTime": 1666309816553,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1969,6 +1969,14 @@
       "onboard_time": 1665398006,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1126081,
+      "num": 237537,
+      "word": "JDG",
+      "onboard_time": 1666307598,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1124300,
@@ -6875,6 +6883,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 523838,
+      "num": 251592,
+      "word": "57岁父亲临终告诉子女水缸下有钱",
+      "onboard_time": 1666278629,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523465,
       "num": 523465,
       "word": "朝鲜称其导弹发射针对美国",
@@ -6985,6 +7001,14 @@
       "onboard_time": 1664638463,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 517981,
+      "num": 235062,
+      "word": "RGE对战JDG",
+      "onboard_time": 1666307718,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 517693,
@@ -8395,14 +8419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 453093,
-      "num": 200195,
-      "word": "JDG",
-      "onboard_time": 1666307598,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 453016,
       "num": 247627,
       "word": "12岁乖巧女孩突变暴躁确诊脑炎",
@@ -8696,14 +8712,6 @@
       "word": "母亲穿西装送女儿出嫁被当成闺蜜",
       "onboard_time": 1665323785,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442285,
-      "num": 251592,
-      "word": "57岁父亲临终告诉子女水缸下有钱",
-      "onboard_time": 1666278629,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9972,7 +9980,7 @@
     },
     {
       "raw_hot": 394860,
-      "num": 189729,
+      "num": 194078,
       "word": "儿媳出产房婆婆跑着送花亲吻",
       "onboard_time": 1666263443,
       "rank": 27,
@@ -12004,7 +12012,7 @@
     },
     {
       "raw_hot": 329829,
-      "num": 193716,
+      "num": 232079,
       "word": "比亚迪唐德国售价比国内高出一倍",
       "onboard_time": 1666280486,
       "rank": 35,
@@ -12897,6 +12905,14 @@
       "onboard_time": 1666092681,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303895,
+      "num": 242297,
+      "word": "骨质疏松症也叫静悄悄的流行病",
+      "onboard_time": 1666300331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303761,
@@ -14396,7 +14412,7 @@
     },
     {
       "raw_hot": 271186,
-      "num": 162072,
+      "num": 186047,
       "word": "女子下厨招待朋友被狗子5分钟炫光",
       "onboard_time": 1666265064,
       "rank": 37,
@@ -14465,14 +14481,6 @@
       "onboard_time": 1666262125,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270344,
-      "num": 194769,
-      "word": "RGE对战JDG",
-      "onboard_time": 1666307718,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 270310,
@@ -15001,6 +15009,14 @@
       "onboard_time": 1666085962,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259485,
+      "num": 230830,
+      "word": "90后家长回应给儿子取名张总",
+      "onboard_time": 1666287254,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259354,
@@ -15713,14 +15729,6 @@
       "onboard_time": 1665143964,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248630,
-      "num": 204824,
-      "word": "骨质疏松症也叫静悄悄的流行病",
-      "onboard_time": 1666300331,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248610,
@@ -17297,14 +17305,6 @@
       "onboard_time": 1665378143,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222154,
-      "num": 192420,
-      "word": "90后家长回应给儿子取名张总",
-      "onboard_time": 1666287254,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221987,
@@ -23979,6 +23979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134248,
+      "num": 134248,
+      "word": "JDG战胜RGE",
+      "onboard_time": 1666309643,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134237,
       "num": 134237,
       "word": "坚定选择的爱情没有遗憾",
@@ -24569,6 +24577,14 @@
       "onboard_time": 1664587222,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 126697,
+      "num": 126697,
+      "word": "柯基蹑手蹑脚潜到主人床边睡觉",
+      "onboard_time": 1666308979,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126645,
@@ -25489,6 +25505,14 @@
       "onboard_time": 1664724086,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116773,
+      "num": 116773,
+      "word": "JDG晋级半决赛",
+      "onboard_time": 1666309703,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 116633,
@@ -26867,6 +26891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101184,
+      "num": 101184,
+      "word": "中国女足成为世界杯二档种子",
+      "onboard_time": 1666299612,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101161,
       "num": 101161,
       "word": "这对金丝猴是被安了磁铁吗",
@@ -26905,6 +26937,14 @@
       "onboard_time": 1665562044,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 100852,
+      "num": 100852,
+      "word": "盖茨称欧洲能源危机长远看是好事",
+      "onboard_time": 1666293552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100821,
@@ -27313,6 +27353,14 @@
       "onboard_time": 1665996562,
       "rank": 42,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 96362,
+      "num": 96362,
+      "word": "万神殿",
+      "onboard_time": 1666309402,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 96331,
@@ -28379,14 +28427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84348,
-      "num": 84348,
-      "word": "盖茨称欧洲能源危机长远看是好事",
-      "onboard_time": 1666293552,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84314,
       "num": 84314,
       "word": "这一刻是独属中国人的仪式感",
@@ -28683,14 +28723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80303,
-      "num": 80303,
-      "word": "中国女足成为世界杯二档种子",
-      "onboard_time": 1666299612,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80269,
       "num": 80269,
       "word": "一张照片读懂了消防员的奋不顾身",
@@ -28777,6 +28809,14 @@
       "onboard_time": 1665149005,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79233,
+      "num": 79233,
+      "word": "外资巨头增持中资互联网股",
+      "onboard_time": 1666294390,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 79092,
@@ -29339,14 +29379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72747,
-      "num": 72747,
-      "word": "外资巨头增持中资互联网股",
-      "onboard_time": 1666294390,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 72608,
       "num": 72608,
       "word": "脱5躺和卷主题赛在说我",
@@ -29513,6 +29545,14 @@
       "onboard_time": 1665849986,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70535,
+      "num": 70535,
+      "word": "谷爱凌晒首尔plog",
+      "onboard_time": 1666291932,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 70502,
@@ -30635,14 +30675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56448,
-      "num": 56448,
-      "word": "谷爱凌晒首尔plog",
-      "onboard_time": 1666291932,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56434,
       "num": 56434,
       "word": "飞狐外传大结局",
@@ -31363,6 +31395,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44152,
+      "num": 238451,
+      "word": "9个字细读党的二十大报告",
+      "onboard_time": 1666282222,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43943,
       "num": 285080,
       "word": "民警救下挂4楼窗外八旬老人",
@@ -31787,14 +31827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34652,
-      "num": 201815,
-      "word": "9个字细读党的二十大报告",
-      "onboard_time": 1666282222,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34564,
       "num": 34564,
       "word": "军训拉歌还得是音乐学院",
@@ -32099,6 +32131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 19873,
+      "num": 264159,
+      "word": "二十大献礼片单展映",
+      "onboard_time": 1666279408,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19660,
       "num": 19660,
       "word": "库里庆祝后滑倒",
@@ -32265,14 +32305,6 @@
       "onboard_time": 1665256631,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13726,
-      "num": 264159,
-      "word": "二十大献礼片单展映",
-      "onboard_time": 1666279408,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13355,

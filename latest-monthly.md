@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/21 07:33:15
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/21 07:50:16
 </p>
 </blockquote>
 <p>
@@ -1487,6 +1487,12 @@ Yagao确诊（热度：1155685）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
 iPhone14出现首次大幅降价（热度：1129925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%23" target="weibo">
+JDG（热度：1126081）
 </a>
 </li>
 
@@ -5169,6 +5175,12 @@ BLACKPINK世界巡演视觉预告海报（热度：524663）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2357%E5%B2%81%E7%88%B6%E4%BA%B2%E4%B8%B4%E7%BB%88%E5%91%8A%E8%AF%89%E5%AD%90%E5%A5%B3%E6%B0%B4%E7%BC%B8%E4%B8%8B%E6%9C%89%E9%92%B1%23" target="weibo">
+57岁父亲临终告诉子女水缸下有钱（热度：523838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E5%85%B6%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%23" target="weibo">
 朝鲜称其导弹发射针对美国（热度：523465）
 </a>
@@ -5249,6 +5261,12 @@ BLACKPINK世界巡演视觉预告海报（热度：524663）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E7%8E%8B%E5%BF%83%E8%BF%AA%E7%BB%93%E5%A9%9A%E7%85%A7%23" target="weibo">
 徐梦桃王心迪结婚照（热度：518043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RGE%E5%AF%B9%E6%88%98JDG%23" target="weibo">
+RGE对战JDG（热度：517981）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14Plus砍单幅度达4成左右（热度：471641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E5%B7%B2%E9%80%A0%E6%88%903%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 俄称克里米亚大桥事故已造成3人死亡（热度：469027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8D%A1%E6%89%8B%E6%9C%BA%E6%AC%B2%E5%BD%92%E8%BF%98%E7%96%91%E8%A2%AB%E5%A4%A7%E4%BA%BA%E9%98%BB%E6%AD%A2%23" target="weibo">
-女孩捡手机欲归还疑被大人阻止（热度：468772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E6%8A%95%E4%BA%A7%23" target="weibo">
-马斯克官宣特斯拉电动卡车投产（热度：468723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23M2%E8%8A%AF%E7%89%87iPadPro%23" target="weibo">
-M2芯片iPadPro（热度：468462）
 </a>
 </li>
 
