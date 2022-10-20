@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666295092945,
+  "endTime": 1666297730875,
   "band_list": [
     {
       "raw_hot": 462739,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21910,
+      "num": 20900,
+      "word": "盖茨称欧洲能源危机长远看是好事",
+      "onboard_time": 1666293552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20071,
       "num": 27482,
       "word": "谷爱凌晒首尔plog",
@@ -395,19 +403,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10859,
-      "num": 20900,
-      "word": "盖茨称欧洲能源危机长远看是好事",
-      "onboard_time": 1666293552,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9973,
+      "raw_hot": 15440,
       "num": 21288,
       "word": "90后家长回应给儿子取名张总",
       "onboard_time": 1666287254,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10027,
+      "num": 17580,
+      "word": "外资巨头增持中资互联网股",
+      "onboard_time": 1666294390,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 9364,
+      "num": 15195,
+      "word": "狗狗课堂表演滑板引围观",
+      "onboard_time": 1666296371,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -425,14 +441,6 @@
       "onboard_time": 1666279408,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6727,
-      "num": 17580,
-      "word": "外资巨头增持中资互联网股",
-      "onboard_time": 1666294390,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 6440,
