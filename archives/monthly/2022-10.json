@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666249396207,
+  "endTime": 1666251230086,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2067,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1089076,
+      "num": 1089076,
+      "word": "连续拿下台湾当局9个所谓邦交国",
+      "onboard_time": 1666247484,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088402,
       "num": 1088402,
       "word": "00后女孩成为刑警激动向室友报喜",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1665377007,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1061863,
-      "num": 1061863,
-      "word": "连续拿下台湾当局9个所谓邦交国",
-      "onboard_time": 1666247484,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1060584,
@@ -6819,6 +6819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 516508,
+      "num": 432784,
+      "word": "成都街头刮起柿子风",
+      "onboard_time": 1666245804,
+      "rank": 21,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 515594,
       "num": 515594,
       "word": "未来中国开放的大门只会越开越大",
@@ -7689,6 +7697,14 @@
       "onboard_time": 1664684663,
       "rank": 44,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 471180,
+      "num": 385642,
+      "word": "妈妈心疼实习女儿寄16袋自制熟食",
+      "onboard_time": 1666247963,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471113,
@@ -9531,6 +9547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401174,
+      "num": 174985,
+      "word": "吴磊赵露思星汉灿烂已上线网飞",
+      "onboard_time": 1666250123,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399823,
       "num": 266569,
       "word": "日剧silent",
@@ -10081,6 +10105,14 @@
       "onboard_time": 1666075402,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382479,
+      "num": 382479,
+      "word": "iPhoneSE4将采用刘海全面屏",
+      "onboard_time": 1666246944,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 382393,
@@ -10707,6 +10739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360504,
+      "num": 360504,
+      "word": "LGD不敌Secret",
+      "onboard_time": 1666248806,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360208,
       "num": 360208,
       "word": "你好星期六",
@@ -10945,14 +10985,6 @@
       "onboard_time": 1664789902,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 352093,
-      "num": 249455,
-      "word": "iPhoneSE4将采用刘海全面屏",
-      "onboard_time": 1666246944,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 351694,
@@ -12755,14 +12787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298891,
-      "num": 298891,
-      "word": "成都街头刮起柿子风",
-      "onboard_time": 1666245804,
-      "rank": 21,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 298655,
       "num": 237077,
       "word": "母亲自学3D建模打印替去世儿子接单",
@@ -13033,14 +13057,6 @@
       "onboard_time": 1666233262,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 292416,
-      "num": 225388,
-      "word": "LGD不敌Secret",
-      "onboard_time": 1666248806,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 292367,
@@ -13345,6 +13361,14 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284014,
+      "num": 410193,
+      "word": "专家提醒40岁后注重骨密度检测筛查",
+      "onboard_time": 1666245145,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -15235,14 +15259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249312,
-      "num": 391492,
-      "word": "专家提醒40岁后注重骨密度检测筛查",
-      "onboard_time": 1666245145,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249234,
       "num": 249234,
       "word": "爸爸拿水果站路边等女儿回家",
@@ -15569,6 +15585,14 @@
       "onboard_time": 1664959222,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 242287,
+      "num": 171368,
+      "word": "王俊凯成朗万里归途演技",
+      "onboard_time": 1666250724,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 242244,
@@ -16377,14 +16401,6 @@
       "onboard_time": 1665407964,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 227593,
-      "num": 227593,
-      "word": "妈妈心疼实习女儿寄16袋自制熟食",
-      "onboard_time": 1666247963,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227419,
@@ -18219,12 +18235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200122,
+      "num": 200122,
+      "word": "我们不会输出中国模式",
+      "onboard_time": 1666246404,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200112,
       "num": 200112,
       "word": "任嘉伦晒收官剧照告别陆炎",
       "onboard_time": 1665069505,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200103,
+      "num": 405953,
+      "word": "林高远锁定WTT总决赛资格",
+      "onboard_time": 1666247545,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 199910,
@@ -19065,6 +19097,14 @@
       "onboard_time": 1665217405,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187921,
+      "num": 399707,
+      "word": "特斯拉新车型成本仅Model3一半",
+      "onboard_time": 1666247122,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 187795,
@@ -19995,14 +20035,6 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 173953,
-      "num": 173953,
-      "word": "林高远锁定WTT总决赛资格",
-      "onboard_time": 1666247545,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173939,
       "num": 173939,
       "word": "没想到沈腾还有这样一面",
@@ -20867,6 +20899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 162694,
+      "num": 162694,
+      "word": "已将5200多名同胞安全从乌克兰撤离",
+      "onboard_time": 1666247183,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162375,
       "num": 162375,
       "word": "刘洋用2米长吸管喝果汁",
@@ -21281,14 +21321,6 @@
       "onboard_time": 1664685201,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157893,
-      "num": 157893,
-      "word": "我们不会输出中国模式",
-      "onboard_time": 1666246404,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157863,
@@ -22147,6 +22179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147351,
+      "num": 147351,
+      "word": "中国生物武汉研究所成功分离猴痘病毒",
+      "onboard_time": 1666250829,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147106,
       "num": 110181,
       "word": "让你逢人便推的高质量小说",
@@ -22280,6 +22320,14 @@
       "word": "张彬彬小森林粤语表白虞书欣",
       "onboard_time": 1664888123,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "罗云熙吴倩新剧双向奔赴",
+      "onboard_time": 1666246583,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -23891,14 +23939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126982,
-      "num": 126982,
-      "word": "罗云熙吴倩新剧双向奔赴",
-      "onboard_time": 1666246583,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126851,
       "num": 126851,
       "word": "今晚成都一起乒",
@@ -24177,14 +24217,6 @@
       "onboard_time": 1664930420,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123886,
-      "num": 123886,
-      "word": "已将5200多名同胞安全从乌克兰撤离",
-      "onboard_time": 1666247183,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123701,
@@ -24689,14 +24721,6 @@
       "onboard_time": 1665239068,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117927,
-      "num": 117927,
-      "word": "特斯拉新车型成本仅Model3一半",
-      "onboard_time": 1666247122,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 117843,
@@ -27292,7 +27316,7 @@
     },
     {
       "raw_hot": 87723,
-      "num": 249375,
+      "num": 333623,
       "word": "6岁女孩饭店里即兴演绎民族舞",
       "onboard_time": 1666168523,
       "rank": 42,
@@ -27369,6 +27393,14 @@
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86831,
+      "num": 429313,
+      "word": "二十大报告给青年的寄语",
+      "onboard_time": 1666247843,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86658,
@@ -28787,6 +28819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68888,
+      "num": 68888,
+      "word": "为什么这届网红轮到了柿子",
+      "onboard_time": 1666250784,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 68743,
       "num": 68743,
       "word": "买车一定要知道的事",
@@ -29065,14 +29105,6 @@
       "onboard_time": 1664973504,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65533,
-      "num": 339064,
-      "word": "二十大报告给青年的寄语",
-      "onboard_time": 1666247843,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65514,
@@ -29409,6 +29441,14 @@
       "onboard_time": 1664603843,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61587,
+      "num": 61587,
+      "word": "我国勘探发现首个深水深层大气田",
+      "onboard_time": 1666249464,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61568,
