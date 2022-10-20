@@ -1,7 +1,15 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666266134997,
+  "endTime": 1666270571405,
   "band_list": [
+    {
+      "raw_hot": 4087916,
+      "num": 150542,
+      "word": "英国首相特拉斯即将辞职",
+      "onboard_time": 1666270164,
+      "rank": 10,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 1684353,
       "num": 214199,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 775243,
+      "num": 150539,
+      "word": "RNG告别TI11",
+      "onboard_time": 1666270285,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 768818,
       "num": 215037,
       "word": "菜店老板意外去世邻居自发帮清货",
@@ -201,6 +217,14 @@
       "onboard_time": 1666242266,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552837,
+      "num": 150582,
+      "word": "樊振东3比0黄镇廷",
+      "onboard_time": 1666268365,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 547746,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454555,
+      "num": 159146,
+      "word": "张本智和止步澳门赛首轮",
+      "onboard_time": 1666265424,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451964,
       "num": 383920,
       "word": "没想到何以琛这么恋爱脑",
@@ -337,6 +369,14 @@
       "onboard_time": 1666250123,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394860,
+      "num": 161906,
+      "word": "儿媳出产房婆婆跑着送花亲吻",
+      "onboard_time": 1666263443,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385515,
@@ -403,6 +443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321037,
+      "num": 150494,
+      "word": "阿凡达2台湾定档预告",
+      "onboard_time": 1666266442,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 320438,
+      "num": 162984,
+      "word": "法尔克3比1张本智和",
+      "onboard_time": 1666265304,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319860,
       "num": 504491,
       "word": "老师参加考试学生监考",
@@ -425,22 +481,6 @@
       "onboard_time": 1666230086,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308188,
-      "num": 161906,
-      "word": "儿媳出产房婆婆跑着送花亲吻",
-      "onboard_time": 1666263443,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300864,
-      "num": 162984,
-      "word": "法尔克3比1张本智和",
-      "onboard_time": 1666265304,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 294335,
@@ -475,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285274,
+      "num": 165997,
+      "word": "隔着玻璃晒太阳是无效补钙",
+      "onboard_time": 1666258165,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284014,
       "num": 410193,
       "word": "专家提醒40岁后注重骨密度检测筛查",
@@ -483,11 +531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272869,
-      "num": 165997,
-      "word": "隔着玻璃晒太阳是无效补钙",
-      "onboard_time": 1666258165,
-      "rank": 48,
+      "raw_hot": 271186,
+      "num": 158325,
+      "word": "女子下厨招待朋友被狗子5分钟炫光",
+      "onboard_time": 1666265064,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237043,
+      "num": 161890,
+      "word": "吃柿子最好去皮",
+      "onboard_time": 1666263205,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236142,
       "num": 421740,
       "word": "您好北京定档1118",
@@ -640,6 +696,14 @@
       "word": "外交部有力回击佩洛西窜台等倒行逆施",
       "onboard_time": 1666261645,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215696,
+      "num": 156638,
+      "word": "美经济学家称全世界英美最残暴",
+      "onboard_time": 1666265424,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -747,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198549,
+      "num": 150454,
+      "word": "RNG打破TI历史时间记录",
+      "onboard_time": 1666270285,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198055,
       "num": 454641,
       "word": "奶奶用方言听写孙子一脸懵",
@@ -763,20 +835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194930,
+      "num": 161865,
+      "word": "100元实现网购蛋糕自由",
+      "onboard_time": 1666263983,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194457,
       "num": 194457,
       "word": "带女友回家家人收拾10余小时迎接",
       "onboard_time": 1666204512,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191278,
-      "num": 161890,
-      "word": "吃柿子最好去皮",
-      "onboard_time": 1666263205,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 190032,
@@ -787,12 +859,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189188,
+      "num": 157496,
+      "word": "狗狗零食掉玉米堆全家帮寻找",
+      "onboard_time": 1666265782,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187033,
       "num": 273594,
       "word": "比银河系大20倍的原子气体结构",
       "onboard_time": 1666224985,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 186656,
+      "num": 150433,
+      "word": "沸腾校园豆瓣8.3分",
+      "onboard_time": 1666268543,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 185236,
@@ -931,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164802,
+      "num": 150427,
+      "word": "辽宁男篮vs山西男篮",
+      "onboard_time": 1666269147,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159461,
       "num": 159461,
       "word": "88岁老太吃饭时痴迷用手机看剧",
@@ -963,14 +1059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 152572,
-      "num": 161865,
-      "word": "100元实现网购蛋糕自由",
-      "onboard_time": 1666263983,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151556,
       "num": 151556,
       "word": "爆笑课代表挑战赛",
@@ -993,14 +1081,6 @@
       "onboard_time": 1666233022,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146407,
-      "num": 159146,
-      "word": "张本智和止步澳门赛首轮",
-      "onboard_time": 1666265424,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 145698,
@@ -1179,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109529,
-      "num": 158325,
-      "word": "女子下厨招待朋友被狗子5分钟炫光",
-      "onboard_time": 1666265064,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107815,
       "num": 460501,
       "word": "小朋友穿宇航服有多可爱",
@@ -1307,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85048,
+      "num": 150342,
+      "word": "像极了大学时上课的我",
+      "onboard_time": 1666268723,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84647,
       "num": 82138,
       "word": "坚定维护我国公民法人在海外合法权益",
@@ -1323,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82122,
+      "num": 150329,
+      "word": "大富翁11上线",
+      "onboard_time": 1666270105,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81414,
       "num": 81414,
       "word": "李明德追光者演小霸总",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1666260084,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 79695,
+      "num": 150322,
+      "word": "菌草是中国给世界的礼物",
+      "onboard_time": 1666266624,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78029,
@@ -1360,14 +1456,6 @@
       "word": "中国推动建设一个持久和平的世界",
       "onboard_time": 1666244063,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76295,
-      "num": 157496,
-      "word": "狗狗零食掉玉米堆全家帮寻找",
-      "onboard_time": 1666265782,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1433,14 +1521,6 @@
       "onboard_time": 1666187667,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64185,
-      "num": 156638,
-      "word": "美经济学家称全世界英美最残暴",
-      "onboard_time": 1666265424,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62312,
@@ -1563,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49181,
+      "num": 150520,
+      "word": "老人被困河岸民警大喊踩我身上",
+      "onboard_time": 1666267824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46920,
       "num": 46920,
       "word": "开始理解各行各业的客服了",
@@ -1603,12 +1691,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 43424,
+      "num": 162369,
+      "word": "敢于斗争是中国外交的精神品格",
+      "onboard_time": 1666238185,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40610,
       "num": 221428,
       "word": "张艺兴舞台炎黄子孙开场",
       "onboard_time": 1666186767,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39986,
+      "num": 150551,
+      "word": "10年来组织近20次紧急撤离海外公民行动",
+      "onboard_time": 1666268424,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38355,
@@ -1697,14 +1801,6 @@
       "onboard_time": 1666202354,
       "rank": 49,
       "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 11080,
-      "num": 162369,
-      "word": "敢于斗争是中国外交的精神品格",
-      "onboard_time": 1666238185,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8024,

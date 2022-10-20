@@ -1,0 +1,410 @@
+{
+  "runTime": 1666270571405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460736,
+        "num": 460736,
+        "word": "连续拿下台湾当局9个所谓邦交国",
+        "onboard_time": 1666247484,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150591,
+        "num": 150591,
+        "word": "外交部称绝不接受教师爷的颐指气使",
+        "onboard_time": 1666238604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107320,
+        "num": 150586,
+        "word": "二十大报告给青年的寄语",
+        "onboard_time": 1666247843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552837,
+        "num": 150582,
+        "word": "樊振东3比0黄镇廷",
+        "onboard_time": 1666268365,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43424,
+        "num": 150579,
+        "word": "敢于斗争是中国外交的精神品格",
+        "onboard_time": 1666238185,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320438,
+        "num": 150570,
+        "word": "法尔克3比1张本智和",
+        "onboard_time": 1666265304,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285274,
+        "num": 150567,
+        "word": "隔着玻璃晒太阳是无效补钙",
+        "onboard_time": 1666258165,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232206,
+        "num": 150558,
+        "word": "中国生物武汉研究所成功分离猴痘病毒",
+        "onboard_time": 1666250829,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172016,
+        "num": 150554,
+        "word": "王曼昱2比3袁嘉楠",
+        "onboard_time": 1666258524,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39986,
+        "num": 150551,
+        "word": "10年来组织近20次紧急撤离海外公民行动",
+        "onboard_time": 1666268424,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4087916,
+        "num": 150542,
+        "word": "英国首相特拉斯即将辞职",
+        "onboard_time": 1666270164,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 775243,
+        "num": 150539,
+        "word": "RNG告别TI11",
+        "onboard_time": 1666270285,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 731509,
+        "num": 150530,
+        "word": "停车两年欠费5万的车主回应",
+        "onboard_time": 1666263323,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627249,
+        "num": 150527,
+        "word": "1条没回的信息救了8旬母亲一命",
+        "onboard_time": 1666255825,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49181,
+        "num": 150520,
+        "word": "老人被困河岸民警大喊踩我身上",
+        "onboard_time": 1666267824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528994,
+        "num": 150515,
+        "word": "味精真的被误解太久了",
+        "onboard_time": 1666262845,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454555,
+        "num": 150505,
+        "word": "张本智和止步澳门赛首轮",
+        "onboard_time": 1666265424,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394860,
+        "num": 150499,
+        "word": "儿媳出产房婆婆跑着送花亲吻",
+        "onboard_time": 1666263443,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394700,
+        "num": 150499,
+        "word": "频繁聊天可以理解为喜欢吗",
+        "onboard_time": 1666261764,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321037,
+        "num": 150494,
+        "word": "阿凡达2台湾定档预告",
+        "onboard_time": 1666266442,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321458,
+        "num": 150488,
+        "word": "婚礼现场婆婆被宾客误认为是新娘",
+        "onboard_time": 1666255584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271186,
+        "num": 150477,
+        "word": "女子下厨招待朋友被狗子5分钟炫光",
+        "onboard_time": 1666265064,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237043,
+        "num": 150477,
+        "word": "吃柿子最好去皮",
+        "onboard_time": 1666263205,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224207,
+        "num": 150466,
+        "word": "周杰伦明天发新MV",
+        "onboard_time": 1666262544,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215696,
+        "num": 150462,
+        "word": "美经济学家称全世界英美最残暴",
+        "onboard_time": 1666265424,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214748,
+        "num": 150459,
+        "word": "被李诞的话抚平了职场焦虑",
+        "onboard_time": 1666258944,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198549,
+        "num": 150454,
+        "word": "RNG打破TI历史时间记录",
+        "onboard_time": 1666270285,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194930,
+        "num": 150446,
+        "word": "100元实现网购蛋糕自由",
+        "onboard_time": 1666263983,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189188,
+        "num": 150440,
+        "word": "狗狗零食掉玉米堆全家帮寻找",
+        "onboard_time": 1666265782,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186656,
+        "num": 150433,
+        "word": "沸腾校园豆瓣8.3分",
+        "onboard_time": 1666268543,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164802,
+        "num": 150427,
+        "word": "辽宁男篮vs山西男篮",
+        "onboard_time": 1666269147,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159553,
+        "num": 150422,
+        "word": "晴儿反恋爱脑鼻祖",
+        "onboard_time": 1666242266,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145089,
+        "num": 150417,
+        "word": "泸定地震小猪被埋塌房下存活45天",
+        "onboard_time": 1666262125,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135547,
+        "num": 150414,
+        "word": "菜店老板意外去世邻居自发帮清货",
+        "onboard_time": 1666253606,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 128788,
+        "num": 150407,
+        "word": "老人要钱被请吃面却剩下大半",
+        "onboard_time": 1666247005,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123788,
+        "num": 150400,
+        "word": "仪态满分的古装美人",
+        "onboard_time": 1666252583,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115034,
+        "num": 150392,
+        "word": "为什么这届网红轮到了柿子",
+        "onboard_time": 1666250784,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 114618,
+        "num": 150386,
+        "word": "外交部有力回击佩洛西窜台等倒行逆施",
+        "onboard_time": 1666261645,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96682,
+        "num": 150381,
+        "word": "专家提醒40岁后注重骨密度检测筛查",
+        "onboard_time": 1666245145,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110462,
+        "num": 150379,
+        "word": "爱犬去世奶奶蹲路边与别家小狗聊天",
+        "onboard_time": 1666261225,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90729,
+        "num": 150373,
+        "word": "任嘉伦李沁请君在香港播出",
+        "onboard_time": 1666263025,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88838,
+        "num": 150365,
+        "word": "张艺兴将在格莱美博物馆表演",
+        "onboard_time": 1666256844,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107364,
+        "num": 150357,
+        "word": "妈妈心疼实习女儿寄16袋自制熟食",
+        "onboard_time": 1666247963,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86807,
+        "num": 150353,
+        "word": "长期晚睡即使睡够也会导致黑眼圈",
+        "onboard_time": 1666240585,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86686,
+        "num": 150349,
+        "word": "吴磊赵露思星汉灿烂已上线网飞",
+        "onboard_time": 1666250123,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85048,
+        "num": 150342,
+        "word": "像极了大学时上课的我",
+        "onboard_time": 1666268723,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83257,
+        "num": 150337,
+        "word": "iPhone14Plus砍单幅度达4成左右",
+        "onboard_time": 1666242086,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82122,
+        "num": 150329,
+        "word": "大富翁11上线",
+        "onboard_time": 1666270105,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79695,
+        "num": 150322,
+        "word": "菌草是中国给世界的礼物",
+        "onboard_time": 1666266624,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75801,
+        "num": 150316,
+        "word": "特斯拉新车型成本仅Model3一半",
+        "onboard_time": 1666247122,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中共二十大#"
+    }
+  }
+}
