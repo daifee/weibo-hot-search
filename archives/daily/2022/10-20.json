@@ -1,6 +1,6 @@
 {
   "startTime": 1666197934848,
-  "endTime": 1666277584390,
+  "endTime": 1666279843460,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -75,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1015013,
+      "num": 165361,
+      "word": "全红婵跳水世界杯首秀",
+      "onboard_time": 1666275148,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1014583,
       "num": 162420,
       "word": "特拉斯成英国任期最短的首相",
@@ -105,14 +113,6 @@
       "onboard_time": 1666179866,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909323,
-      "num": 165361,
-      "word": "全红婵跳水世界杯首秀",
-      "onboard_time": 1666275148,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 852526,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386111,
+      "num": 162236,
+      "word": "全红婵207C拿到10分",
+      "onboard_time": 1666276229,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385515,
       "num": 212883,
       "word": "淘宝购物车扩容至300",
@@ -515,12 +523,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 340268,
+      "num": 162346,
+      "word": "原来夜礼服假面这么朴素",
+      "onboard_time": 1666274427,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328773,
       "num": 476689,
       "word": "婚礼上我把手捧花给了新郎",
       "onboard_time": 1666244543,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321966,
+      "num": 88428,
+      "word": "蜜蜂猫出现了",
+      "onboard_time": 1666278869,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 321787,
@@ -561,14 +585,6 @@
       "onboard_time": 1666244425,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308805,
-      "num": 162346,
-      "word": "原来夜礼服假面这么朴素",
-      "onboard_time": 1666274427,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308507,
@@ -683,14 +699,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 267029,
-      "num": 162236,
-      "word": "全红婵207C拿到10分",
-      "onboard_time": 1666276229,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266520,
       "num": 286702,
       "word": "猫啃坏3条数据线女子买串珠防护",
@@ -707,7 +715,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 257304,
+      "raw_hot": 263415,
+      "num": 174244,
+      "word": "中国外汇储备连续17年全球第一",
+      "onboard_time": 1666275509,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 260244,
       "num": 162161,
       "word": "s12",
       "onboard_time": 1666274427,
@@ -739,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244616,
+      "num": 87915,
+      "word": "全红婵陈芋汐断层优势晋级",
+      "onboard_time": 1666278390,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243783,
       "num": 322645,
       "word": "人总会反复为男二落泪",
@@ -753,6 +777,14 @@
       "onboard_time": 1666250724,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238482,
+      "num": 161450,
+      "word": "90后舅舅接外甥女放学用英语流畅对话",
+      "onboard_time": 1666277369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238342,
@@ -1003,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189686,
+      "num": 87581,
+      "word": "57岁父亲临终告诉子女水缸下有钱",
+      "onboard_time": 1666278629,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189188,
       "num": 157496,
       "word": "狗狗零食掉玉米堆全家帮寻找",
@@ -1011,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188250,
+      "num": 89663,
+      "word": "中国大陆男网排名首进前100",
+      "onboard_time": 1666278210,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187033,
       "num": 273594,
       "word": "比银河系大20倍的原子气体结构",
       "onboard_time": 1666224985,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185516,
+      "num": 162013,
+      "word": "让别人瞬间不自信的方法",
+      "onboard_time": 1666276413,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 185236,
@@ -1083,20 +1139,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 174743,
+      "num": 161865,
+      "word": "山西男篮加时战胜辽宁男篮",
+      "onboard_time": 1666275870,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174360,
       "num": 163007,
       "word": "已将5200多名同胞安全从乌克兰撤离",
       "onboard_time": 1666247183,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174244,
-      "num": 174244,
-      "word": "中国外汇储备连续17年全球第一",
-      "onboard_time": 1666275509,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 174140,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1666176563,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165220,
-      "num": 162013,
-      "word": "让别人瞬间不自信的方法",
-      "onboard_time": 1666276413,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 164847,
@@ -1259,14 +1307,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 138917,
-      "num": 161865,
-      "word": "山西男篮加时战胜辽宁男篮",
-      "onboard_time": 1666275870,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138124,
       "num": 405660,
       "word": "降温后女子连夜凿柜给流浪猫做窝",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1666263025,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124825,
+      "num": 86869,
+      "word": "弟弟治好了我的容貌焦虑",
+      "onboard_time": 1666279348,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 122259,
@@ -1507,12 +1555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97394,
-      "num": 161450,
-      "word": "90后舅舅接外甥女放学用英语流畅对话",
-      "onboard_time": 1666277369,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 97144,
+      "num": 86197,
+      "word": "张宁27分",
+      "onboard_time": 1666279708,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 95729,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1666272145,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13726,
+      "num": 89518,
+      "word": "二十大献礼片单展映",
+      "onboard_time": 1666279408,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12878,

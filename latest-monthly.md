@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 22:53:04
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/20 23:30:43
 </p>
 </blockquote>
 <p>
@@ -1839,6 +1839,12 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%23" target="weibo">
+全红婵跳水世界杯首秀（热度：1015013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%8B%89%E6%96%AF%E6%88%90%E8%8B%B1%E5%9B%BD%E4%BB%BB%E6%9C%9F%E6%9C%80%E7%9F%AD%E7%9A%84%E9%A6%96%E7%9B%B8%23" target="weibo">
 特拉斯成英国任期最短的首相（热度：1014583）
 </a>
@@ -2237,12 +2243,6 @@ Maybe确诊（热度：939653）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF9671.2%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E5%9B%9E%E7%AD%94%23" target="weibo">
 这是9671.2万分之一的回答（热度：911166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%23" target="weibo">
-全红婵跳水世界杯首秀（热度：909323）
 </a>
 </li>
 
