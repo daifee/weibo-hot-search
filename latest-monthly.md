@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/21 15:03:36
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/21 15:33:33
 </p>
 </blockquote>
 <p>
@@ -3813,6 +3813,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%8E%92%E6%9F%A5%E5%87%BA6%E4%B8%87%E5%A4%9A%E4%B8%AA%E6%8E%92%E6%B1%A1%E5%8F%A3%23" target="weibo">
+长江排查出6万多个排污口（热度：662090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E7%A7%B0%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8F%B7%E6%96%BD%E4%BB%A4%23" target="weibo">
 沙特称不接受美国发号施令（热度：661160）
 </a>
@@ -5079,6 +5085,12 @@ TMA（热度：540431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E6%88%96%E5%B0%86%E5%AD%98%E5%9C%A8%E6%A0%B9%E6%B2%BB%E5%8F%AF%E8%83%BD%23" target="weibo">
+癌症晚期或将存在根治可能（热度：536312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%8F%E7%86%8A%E7%8C%AB%E7%BF%98%E7%8F%AD%E8%B7%91%E8%BF%9B%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%23" target="weibo">
 云南小熊猫翘班跑进学生宿舍（热度：536288）
 </a>
@@ -5805,12 +5817,6 @@ LGD（热度：496178）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%8E%92%E6%9F%A5%E5%87%BA6%E4%B8%87%E5%A4%9A%E4%B8%AA%E6%8E%92%E6%B1%A1%E5%8F%A3%23" target="weibo">
-长江排查出6万多个排污口（热度：484541）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%94%BB%E4%BD%9C%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%86%8D%E5%88%9B%E5%90%8E%E5%A4%A7%E5%8D%96%23" target="weibo">
 4岁女童画作被父亲再创后大卖（热度：484435）
 </a>
@@ -6005,12 +6011,6 @@ SuperM最新练习室（热度：477667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E8%AF%B4%E6%84%9F%E6%83%85%E4%B8%AD%E6%97%B6%E6%9C%BA%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
 李承铉说感情中时机很重要（热度：473648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%20%E5%90%8E%E5%8A%B2%23" target="weibo">
-万里归途 后劲（热度：472274）
 </a>
 </li>
 
