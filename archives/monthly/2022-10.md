@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 07:31:02
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 07:48:12
 </p>
 </blockquote>
 <p>
@@ -2181,6 +2181,12 @@ Doinb（热度：969672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E8%A2%AB%E7%BF%BB%E7%9B%98%23" target="weibo">
+RNG被翻盘（热度：947576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%94%9F%E9%97%B7%E6%B0%94%E7%9A%84%E5%A5%B3%E6%80%A7%E6%9B%B4%E5%AE%B9%E6%98%93%E4%B9%B3%E8%85%BA%E5%A2%9E%E7%94%9F%23" target="weibo">
 常生闷气的女性更容易乳腺增生（热度：944289）
 </a>
@@ -3329,6 +3335,12 @@ S12八强没有LPL内战（热度：730041）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B1%86%E7%93%A37%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
 今年豆瓣7分以上的国产剧（热度：722607）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%E5%9C%A8%E5%B9%B2%E5%98%9B%23" target="weibo">
+小虎在干嘛（热度：722342）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LGD（热度：496178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%A0%E5%BC%804%E5%9C%BA%23" target="weibo">
 陈奕迅香港演唱会加开4场（热度：482210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9B%91%E6%8E%A7%E5%92%8C93%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%81%8A%E5%AE%B6%E5%B8%B8%23" target="weibo">
-孙女每天用监控和93岁奶奶聊家常（热度：482187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8F%91%E8%B6%8A%E5%A4%9A%23" target="weibo">
-诺贝尔奖奖金为什么越发越多（热度：481559）
 </a>
 </li>
 

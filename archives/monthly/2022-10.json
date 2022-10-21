@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666395062835,
+  "endTime": 1666396092930,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2891,6 +2891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 947576,
+      "num": 7792,
+      "word": "RNG被翻盘",
+      "onboard_time": 1666394358,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 944289,
       "num": 191317,
       "word": "常生闷气的女性更容易乳腺增生",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1665397945,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 722342,
+      "num": 7775,
+      "word": "小虎在干嘛",
+      "onboard_time": 1666394598,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 721839,
@@ -10539,14 +10555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390777,
-      "num": 7792,
-      "word": "RNG被翻盘",
-      "onboard_time": 1666394358,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 390321,
       "num": 151606,
       "word": "当姐妹知道你分手了",
@@ -10952,6 +10960,14 @@
       "word": "睡不好头昏沉可能是大脑发出警告",
       "onboard_time": 1665323244,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377335,
+      "num": 7777,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -13297,14 +13313,6 @@
       "onboard_time": 1665049226,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308581,
-      "num": 7777,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308507,
@@ -17683,6 +17691,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 227474,
+      "num": 7767,
+      "word": "初一学生拔河比赛老师被原地弹飞",
+      "onboard_time": 1666390573,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 227419,
       "num": 227419,
       "word": "王一博这就是街舞5运动时刻",
@@ -19579,14 +19595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201090,
-      "num": 7775,
-      "word": "小虎在干嘛",
-      "onboard_time": 1666394598,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "小鬼戴帽子重拾街舞热爱",
@@ -19945,6 +19953,14 @@
       "onboard_time": 1665744746,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196353,
+      "num": 7779,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196332,
@@ -21547,6 +21563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174567,
+      "num": 91672,
+      "word": "RNG BP",
+      "onboard_time": 1664930302,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174434,
       "num": 141894,
       "word": "有个摄影师男友是什么体验",
@@ -21785,6 +21809,14 @@
       "onboard_time": 1664838556,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171216,
+      "num": 7767,
+      "word": "没想到腿疼的人下楼能这么丝滑",
+      "onboard_time": 1666387213,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171117,
@@ -22096,14 +22128,6 @@
       "word": "说中国要搞自给自足是错误认知",
       "onboard_time": 1665985402,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169055,
-      "num": 7779,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -23563,6 +23587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150454,
+      "num": 7760,
+      "word": "义乌市委书记谈取暖神器热销欧洲",
+      "onboard_time": 1666385171,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150235,
       "num": 150235,
       "word": "大张伟官宣加盟我们的歌4",
@@ -23705,14 +23737,6 @@
       "onboard_time": 1665408383,
       "rank": 29,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 149201,
-      "num": 7767,
-      "word": "初一学生拔河比赛老师被原地弹飞",
-      "onboard_time": 1666390573,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149174,
@@ -23985,14 +24009,6 @@
       "onboard_time": 1665324385,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145928,
-      "num": 7767,
-      "word": "没想到腿疼的人下楼能这么丝滑",
-      "onboard_time": 1666387213,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145918,
@@ -25721,14 +25737,6 @@
       "onboard_time": 1664878463,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127393,
-      "num": 7760,
-      "word": "义乌市委书记谈取暖神器热销欧洲",
-      "onboard_time": 1666385171,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127364,
@@ -29099,14 +29107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91672,
-      "num": 91672,
-      "word": "RNG BP",
-      "onboard_time": 1664930302,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91457,
       "num": 91457,
       "word": "北伦敦德比",
@@ -31891,6 +31891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61149,
+      "num": 6301,
+      "word": "伊朗海军宣布俘获两艘美国无人舰艇",
+      "onboard_time": 1666395920,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 61017,
       "num": 61017,
       "word": "嵩山景区冰挂纯天然冰糖葫芦",
@@ -31913,6 +31921,14 @@
       "onboard_time": 1665387865,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60862,
+      "num": 7713,
+      "word": "罗本超市救小孩反应迅速",
+      "onboard_time": 1666389314,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 60855,
@@ -32971,14 +32987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43634,
-      "num": 7713,
-      "word": "罗本超市救小孩反应迅速",
-      "onboard_time": 1666389314,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 43142,
       "num": 236136,
       "word": "记者带你见证二十大开幕会",
@@ -33177,6 +33185,14 @@
       "onboard_time": 1665683234,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39563,
+      "num": 39563,
+      "word": "大美中国将美丽进行到底",
+      "onboard_time": 1666393936,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39338,
@@ -33603,6 +33619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27786,
+      "num": 27786,
+      "word": "党的二十大报告点赞这些科技领域",
+      "onboard_time": 1666393936,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27749,
       "num": 222508,
       "word": "二十大代表共话乡村振兴",
@@ -33683,14 +33707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22634,
-      "num": 22634,
-      "word": "大美中国将美丽进行到底",
-      "onboard_time": 1666393936,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22535,
       "num": 266687,
       "word": "暖心老板掏下水道帮女孩寻回钥匙",
@@ -33729,14 +33745,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20803,
-      "num": 20803,
-      "word": "党的二十大报告点赞这些科技领域",
-      "onboard_time": 1666393936,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
