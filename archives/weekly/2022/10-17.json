@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666364227188,
+  "endTime": 1666366470436,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -67,6 +67,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1630781,
+      "num": 55792,
+      "word": "马龙vs邱党",
+      "onboard_time": 1666363225,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1583737,
       "num": 224210,
       "word": "周杰伦新歌",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1537787,
-      "num": 42253,
+      "num": 54388,
       "word": "陈梦2比3斯佐科斯",
       "onboard_time": 1666362863,
       "rank": 3,
@@ -433,6 +441,14 @@
       "onboard_time": 1666263323,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927468,
+      "num": 54279,
+      "word": "马琳",
+      "onboard_time": 1666364665,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 919010,
@@ -1443,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502668,
-      "num": 42236,
-      "word": "马龙vs邱党",
-      "onboard_time": 1666363225,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 502053,
       "num": 96881,
       "word": "老鼠钻进男生宿舍自动售卖机偷吃",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1666107923,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 468025,
+      "num": 54213,
+      "word": "女子被骗12万一番神操作全额追回",
+      "onboard_time": 1666363765,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467837,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1666361303,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351982,
+      "num": 54196,
+      "word": "陈梦止步澳门赛16强",
+      "onboard_time": 1666365385,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 350160,
@@ -3203,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262754,
+      "num": 53986,
+      "word": "日剧静雪",
+      "onboard_time": 1666361123,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260684,
       "num": 16723,
       "word": "Doinb",
@@ -3561,6 +3593,14 @@
       "onboard_time": 1665982466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236290,
+      "num": 53978,
+      "word": "lulu 金钟奖",
+      "onboard_time": 1666365506,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 236184,
@@ -5995,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113813,
+      "num": 53575,
+      "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+      "onboard_time": 1666366105,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113520,
       "num": 28722,
       "word": "皇马3比1巴萨",
@@ -6033,6 +6081,14 @@
       "onboard_time": 1666178244,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111565,
+      "num": 53569,
+      "word": "周传雄陆虎合唱雪落下的声音",
+      "onboard_time": 1666360584,
+      "rank": 41,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 111154,
@@ -6353,14 +6409,6 @@
       "onboard_time": 1666087883,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 97274,
-      "num": 42043,
-      "word": "女子被骗12万一番神操作全额追回",
-      "onboard_time": 1666363765,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96590,
@@ -7499,6 +7547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54396,
+      "num": 81619,
+      "word": "绿色逐步成为我国高质量发展底色",
+      "onboard_time": 1666357463,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52726,
       "num": 52726,
       "word": "加维获得科帕奖",
@@ -7683,6 +7739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41064,
+      "num": 54291,
+      "word": "党的二十大报告这样谈团结奋斗",
+      "onboard_time": 1666357102,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40704,
       "num": 7355,
       "word": "弗格森拥抱C罗",
@@ -7835,28 +7899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26886,
-      "num": 81619,
-      "word": "绿色逐步成为我国高质量发展底色",
-      "onboard_time": 1666357463,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26431,
       "num": 11493,
       "word": "罗云熙再演律师",
       "onboard_time": 1665904583,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22831,
-      "num": 42222,
-      "word": "党的二十大报告这样谈团结奋斗",
-      "onboard_time": 1666357102,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
