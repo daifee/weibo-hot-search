@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666327411058,
+  "endTime": 1666331477807,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -585,6 +585,14 @@
       "onboard_time": 1666256123,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 798691,
+      "num": 104901,
+      "word": "90后男生全款4万买房移居鹤岗",
+      "onboard_time": 1666327948,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 786298,
@@ -1363,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484541,
+      "num": 104604,
+      "word": "长江排查出6万多个排污口",
+      "onboard_time": 1666327526,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484435,
       "num": 506777,
       "word": "4岁女童画作被父亲再创后大卖",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1666008442,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 474452,
+      "num": 104558,
+      "word": "中国移动日赚3.61亿",
+      "onboard_time": 1666328724,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 471962,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1666059801,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429910,
+      "num": 107251,
+      "word": "威少11投0中",
+      "onboard_time": 1666329266,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 428861,
@@ -1787,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385870,
+      "num": 104392,
+      "word": "你心中顾漫小说改编最成功的剧",
+      "onboard_time": 1666328305,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385515,
       "num": 212883,
       "word": "淘宝购物车扩容至300",
@@ -1843,6 +1883,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 375833,
+      "num": 103948,
+      "word": "李汶翰回不去的乐华",
+      "onboard_time": 1666330165,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375228,
       "num": 212445,
       "word": "女子男友与弟弟同姓同名同生日",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1665980329,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363503,
+      "num": 123173,
+      "word": "5岁男孩在去世奶奶坟前长跪不起",
+      "onboard_time": 1666325964,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363447,
@@ -1979,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350152,
+      "num": 127789,
+      "word": "midnights",
+      "onboard_time": 1666326686,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350107,
       "num": 498772,
       "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
@@ -2035,14 +2099,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 340009,
-      "num": 127789,
-      "word": "midnights",
-      "onboard_time": 1666326686,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 338048,
       "num": 159889,
       "word": "14岁女孩连续捡2月废品送老奶奶",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1666319723,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 336818,
+      "num": 372304,
+      "word": "中国已实现固体废物零进口",
+      "onboard_time": 1666323623,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 335145,
@@ -2763,6 +2827,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265735,
+      "num": 103496,
+      "word": "霉霉 新专",
+      "onboard_time": 1666328847,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264888,
+      "num": 113028,
+      "word": "名校毕业生60岁投资失败失联24年",
+      "onboard_time": 1666327404,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264612,
       "num": 74467,
       "word": "陈哲远沈月我的反派男友泰国播出",
@@ -2857,14 +2937,6 @@
       "onboard_time": 1666088785,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252990,
-      "num": 372304,
-      "word": "中国已实现固体废物零进口",
-      "onboard_time": 1666323623,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 252310,
@@ -3539,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210419,
+      "num": 116401,
+      "word": "女子捡猫主人慷慨相送并附赠1只",
+      "onboard_time": 1666326564,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209134,
       "num": 161653,
       "word": "沸腾校园豆瓣8.3分",
@@ -3779,6 +3859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191084,
+      "num": 102945,
+      "word": "我的恋爱脑和你们脱不了干系",
+      "onboard_time": 1666330464,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190650,
       "num": 190650,
       "word": "9岁入行川剧人36年终获梅花奖",
@@ -3825,6 +3913,14 @@
       "onboard_time": 1665963259,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187866,
+      "num": 102891,
+      "word": "见面吧就现在全员告别",
+      "onboard_time": 1666330825,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 187762,
@@ -3953,14 +4049,6 @@
       "onboard_time": 1666002979,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181960,
-      "num": 123173,
-      "word": "5岁男孩在去世奶奶坟前长跪不起",
-      "onboard_time": 1666325964,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181852,
@@ -4211,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170087,
+      "num": 105547,
+      "word": "快船战胜湖人",
+      "onboard_time": 1666328366,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170033,
       "num": 97788,
       "word": "张艺兴大航海2巡演新加坡站预告",
@@ -4433,6 +4529,14 @@
       "onboard_time": 1665965603,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154883,
+      "num": 102538,
+      "word": "TaylorSwift新专预告视频",
+      "onboard_time": 1666331004,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 153569,
@@ -5451,14 +5555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102428,
-      "num": 116401,
-      "word": "女子捡猫主人慷慨相送并附赠1只",
-      "onboard_time": 1666326564,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101764,
       "num": 101764,
       "word": "大妈河边跳舞太投入转晕掉河里",
@@ -5835,6 +5931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "航天员拍到月亮羞答答溜走",
+      "onboard_time": 1666330944,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 85879,
       "num": 169914,
       "word": "数读二十大",
@@ -5945,14 +6049,6 @@
       "onboard_time": 1666017925,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 81658,
-      "num": 113028,
-      "word": "名校毕业生60岁投资失败失联24年",
-      "onboard_time": 1666327404,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81414,
@@ -6281,6 +6377,14 @@
       "onboard_time": 1666084763,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67623,
+      "num": 67623,
+      "word": "披荆斩棘",
+      "onboard_time": 1666330404,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 67615,

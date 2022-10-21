@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666327411058,
+  "endTime": 1666331477807,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -49,6 +49,14 @@
       "onboard_time": 1666312825,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 798691,
+      "num": 104901,
+      "word": "90后男生全款4万买房移居鹤岗",
+      "onboard_time": 1666327948,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 747884,
@@ -131,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484541,
+      "num": 104604,
+      "word": "长江排查出6万多个排污口",
+      "onboard_time": 1666327526,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474452,
+      "num": 104558,
+      "word": "中国移动日赚3.61亿",
+      "onboard_time": 1666328724,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 445612,
       "num": 126354,
       "word": "梁靖崑无缘澳门赛8强",
@@ -161,6 +185,14 @@
       "onboard_time": 1666263323,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429910,
+      "num": 107251,
+      "word": "威少11投0中",
+      "onboard_time": 1666329266,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 425160,
@@ -195,11 +227,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385870,
+      "num": 104392,
+      "word": "你心中顾漫小说改编最成功的剧",
+      "onboard_time": 1666328305,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 375833,
+      "num": 103948,
+      "word": "李汶翰回不去的乐华",
+      "onboard_time": 1666330165,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368634,
       "num": 232910,
       "word": "1条没回的信息救了8旬母亲一命",
       "onboard_time": 1666255825,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363503,
+      "num": 123173,
+      "word": "5岁男孩在去世奶奶坟前长跪不起",
+      "onboard_time": 1666325964,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -227,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 350152,
+      "num": 127789,
+      "word": "midnights",
+      "onboard_time": 1666326686,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 341540,
       "num": 229310,
       "word": "婚礼现场婆婆被宾客误认为是新娘",
@@ -235,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340009,
-      "num": 127789,
-      "word": "midnights",
-      "onboard_time": 1666326686,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 336848,
       "num": 167367,
       "word": "iPhone老机型更新iOS后FaceID失效",
       "onboard_time": 1666319723,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 336818,
+      "num": 372304,
+      "word": "中国已实现固体废物零进口",
+      "onboard_time": 1666323623,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 335145,
@@ -307,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265735,
+      "num": 103496,
+      "word": "霉霉 新专",
+      "onboard_time": 1666328847,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264888,
+      "num": 113028,
+      "word": "名校毕业生60岁投资失败失联24年",
+      "onboard_time": 1666327404,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259485,
       "num": 230830,
       "word": "90后家长回应给儿子取名张总",
@@ -321,14 +401,6 @@
       "onboard_time": 1666278390,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252990,
-      "num": 372304,
-      "word": "中国已实现固体废物零进口",
-      "onboard_time": 1666323623,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 252398,
@@ -459,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210419,
+      "num": 116401,
+      "word": "女子捡猫主人慷慨相送并附赠1只",
+      "onboard_time": 1666326564,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "味精真的被误解太久了",
@@ -475,19 +555,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191084,
+      "num": 102945,
+      "word": "我的恋爱脑和你们脱不了干系",
+      "onboard_time": 1666330464,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187866,
+      "num": 102891,
+      "word": "见面吧就现在全员告别",
+      "onboard_time": 1666330825,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186047,
       "num": 186047,
       "word": "女子下厨招待朋友被狗子5分钟炫光",
       "onboard_time": 1666265064,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181960,
-      "num": 123173,
-      "word": "5岁男孩在去世奶奶坟前长跪不起",
-      "onboard_time": 1666325964,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -513,6 +601,22 @@
       "onboard_time": 1666310002,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170087,
+      "num": 105547,
+      "word": "快船战胜湖人",
+      "onboard_time": 1666328366,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154883,
+      "num": 102538,
+      "word": "TaylorSwift新专预告视频",
+      "onboard_time": 1666331004,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 151660,
@@ -675,14 +779,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 102428,
-      "num": 116401,
-      "word": "女子捡猫主人慷慨相送并附赠1只",
-      "onboard_time": 1666326564,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "中国女足成为世界杯二档种子",
@@ -755,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "航天员拍到月亮羞答答溜走",
+      "onboard_time": 1666330944,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 84835,
       "num": 84835,
       "word": "RNG告别TI11",
@@ -777,14 +881,6 @@
       "onboard_time": 1666271308,
       "rank": 35,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 81658,
-      "num": 113028,
-      "word": "名校毕业生60岁投资失败失联24年",
-      "onboard_time": 1666327404,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79233,
@@ -849,6 +945,14 @@
       "onboard_time": 1666270105,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67623,
+      "num": 67623,
+      "word": "披荆斩棘",
+      "onboard_time": 1666330404,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 67615,

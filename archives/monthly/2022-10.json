@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666327411058,
+  "endTime": 1666331477807,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -3673,6 +3673,14 @@
       "onboard_time": 1665266651,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798691,
+      "num": 104901,
+      "word": "90后男生全款4万买房移居鹤岗",
+      "onboard_time": 1666327948,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 798397,
@@ -7707,6 +7715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 484541,
+      "num": 104604,
+      "word": "长江排查出6万多个排污口",
+      "onboard_time": 1666327526,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484435,
       "num": 506777,
       "word": "4岁女童画作被父亲再创后大卖",
@@ -7945,6 +7961,14 @@
       "onboard_time": 1665801622,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474452,
+      "num": 104558,
+      "word": "中国移动日赚3.61亿",
+      "onboard_time": 1666328724,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 473830,
@@ -9081,6 +9105,14 @@
       "onboard_time": 1665566543,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 429910,
+      "num": 107251,
+      "word": "威少11投0中",
+      "onboard_time": 1666329266,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 429812,
@@ -10419,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385870,
+      "num": 104392,
+      "word": "你心中顾漫小说改编最成功的剧",
+      "onboard_time": 1666328305,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385852,
       "num": 385852,
       "word": "冷雨夜男子怕违章高速抛下妻子",
@@ -10713,6 +10753,14 @@
       "onboard_time": 1665058884,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375833,
+      "num": 103948,
+      "word": "李汶翰回不去的乐华",
+      "onboard_time": 1666330165,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 375826,
@@ -11048,6 +11096,14 @@
       "word": "姐姐给弟弟冲奶粉自己先干两杯",
       "onboard_time": 1665519191,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363503,
+      "num": 123173,
+      "word": "5岁男孩在去世奶奶坟前长跪不起",
+      "onboard_time": 1666325964,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -11491,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350152,
+      "num": 127789,
+      "word": "midnights",
+      "onboard_time": 1666326686,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350107,
       "num": 498772,
       "word": "猫咪喝鱼缸水被主人训狗子帮送海绵",
@@ -11795,14 +11859,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 340009,
-      "num": 127789,
-      "word": "midnights",
-      "onboard_time": 1666326686,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339825,
       "num": 339825,
       "word": "中国女排vs比利时女排",
@@ -11913,6 +11969,14 @@
       "onboard_time": 1666319723,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 336818,
+      "num": 372304,
+      "word": "中国已实现固体废物零进口",
+      "onboard_time": 1666323623,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 336626,
@@ -14899,6 +14963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 265735,
+      "num": 103496,
+      "word": "霉霉 新专",
+      "onboard_time": 1666328847,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265683,
       "num": 245086,
       "word": "EDG BP",
@@ -14944,6 +15016,14 @@
       "word": "北京朝阳新增5例本土感染者",
       "onboard_time": 1665569187,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264888,
+      "num": 113028,
+      "word": "名校毕业生60岁投资失败失联24年",
+      "onboard_time": 1666327404,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -15569,14 +15649,6 @@
       "onboard_time": 1665155969,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252990,
-      "num": 372304,
-      "word": "中国已实现固体废物零进口",
-      "onboard_time": 1666323623,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 252981,
@@ -18291,6 +18363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210419,
+      "num": 116401,
+      "word": "女子捡猫主人慷慨相送并附赠1只",
+      "onboard_time": 1666326564,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210147,
       "num": 210147,
       "word": "这是中国人国庆独有的浪漫",
@@ -19723,6 +19803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191084,
+      "num": 102945,
+      "word": "我的恋爱脑和你们脱不了干系",
+      "onboard_time": 1666330464,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190820,
       "num": 190820,
       "word": "退伍军人救落水女童累到无法上岸",
@@ -19921,6 +20009,14 @@
       "onboard_time": 1665217405,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187866,
+      "num": 102891,
+      "word": "见面吧就现在全员告别",
+      "onboard_time": 1666330825,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 187795,
@@ -20409,14 +20505,6 @@
       "onboard_time": 1665307704,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181960,
-      "num": 123173,
-      "word": "5岁男孩在去世奶奶坟前长跪不起",
-      "onboard_time": 1666325964,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181896,
@@ -21281,6 +21369,14 @@
       "onboard_time": 1665553404,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170087,
+      "num": 105547,
+      "word": "快船战胜湖人",
+      "onboard_time": 1666328366,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 170052,
@@ -22481,6 +22577,14 @@
       "onboard_time": 1665630563,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154883,
+      "num": 102538,
+      "word": "TaylorSwift新专预告视频",
+      "onboard_time": 1666331004,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 154275,
@@ -27139,14 +27243,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 102428,
-      "num": 116401,
-      "word": "女子捡猫主人慷慨相送并附赠1只",
-      "onboard_time": 1666326564,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102416,
       "num": 102416,
       "word": "采访阿水记者回应翻译错误",
@@ -28635,6 +28731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "航天员拍到月亮羞答答溜走",
+      "onboard_time": 1666330944,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 86005,
       "num": 86005,
       "word": "10月12日新增本土无症状1154例",
@@ -29049,14 +29153,6 @@
       "onboard_time": 1666017925,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 81658,
-      "num": 113028,
-      "word": "名校毕业生60岁投资失败失联24年",
-      "onboard_time": 1666327404,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81576,
