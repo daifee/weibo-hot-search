@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666351421292,
+  "endTime": 1666352513360,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505410,
+      "num": 98300,
+      "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+      "onboard_time": 1666349362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499733,
       "num": 207262,
       "word": "婆婆生日儿媳气球绑600元飘走",
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401800,
+      "num": 98195,
+      "word": "西红柿才是鸡蛋的最佳拍挡",
+      "onboard_time": 1666348104,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 401504,
       "num": 219596,
       "word": "李汶翰回不去的乐华",
       "onboard_time": 1666330165,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391143,
+      "num": 98129,
+      "word": "LGD晋级TI八强",
+      "onboard_time": 1666350801,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 386967,
@@ -331,19 +355,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372449,
+      "num": 98273,
+      "word": "这天气不吃碳水怎么行",
+      "onboard_time": 1666347802,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 368634,
       "num": 232910,
       "word": "1条没回的信息救了8旬母亲一命",
       "onboard_time": 1666255825,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363719,
-      "num": 98300,
-      "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
-      "onboard_time": 1666349362,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -411,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339404,
-      "num": 98273,
-      "word": "这天气不吃碳水怎么行",
-      "onboard_time": 1666347802,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 336848,
       "num": 180148,
       "word": "iPhone老机型更新iOS后FaceID失效",
@@ -441,14 +457,6 @@
       "onboard_time": 1666274307,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 332780,
-      "num": 98195,
-      "word": "西红柿才是鸡蛋的最佳拍挡",
-      "onboard_time": 1666348104,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 329829,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300828,
+      "num": 97335,
+      "word": "周渝民迪丽热巴烈火如歌非洲播出",
+      "onboard_time": 1666352302,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296726,
       "num": 111966,
       "word": "高德地图适配苹果灵动岛",
@@ -521,14 +537,6 @@
       "onboard_time": 1666328847,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288690,
-      "num": 98129,
-      "word": "LGD晋级TI八强",
-      "onboard_time": 1666350801,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 284630,
@@ -569,6 +577,14 @@
       "onboard_time": 1666335262,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254688,
+      "num": 97342,
+      "word": "滕哈格确认C罗拒绝替补出场",
+      "onboard_time": 1666351342,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 253168,
@@ -681,6 +697,14 @@
       "onboard_time": 1666323382,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231671,
+      "num": 97312,
+      "word": "王一博眼中的叶秘",
+      "onboard_time": 1666351882,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228819,
@@ -867,7 +891,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175725,
+      "raw_hot": 176291,
       "num": 97723,
       "word": "我国建成全世界规模最大的基本医疗保障网",
       "onboard_time": 1666348463,
@@ -913,6 +937,14 @@
       "onboard_time": 1666334604,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159408,
+      "num": 97270,
+      "word": "小米客服回应11系列烧WiFi",
+      "onboard_time": 1666351761,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 156349,
@@ -1219,12 +1251,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 98937,
+      "num": 97223,
+      "word": "王楚钦vs奥恰洛夫",
+      "onboard_time": 1666352243,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98752,
       "num": 106986,
       "word": "信鸽遇大风飞偏被女子收留",
       "onboard_time": 1666333405,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96898,
+      "num": 97211,
+      "word": "gidle回归主打曲登日榜一位",
+      "onboard_time": 1666352002,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 96362,
@@ -1291,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85625,
+      "num": 97164,
+      "word": "陈幸同3比0田志希",
+      "onboard_time": 1666351103,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84835,
       "num": 84835,
       "word": "RNG告别TI11",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1666271308,
       "rank": 35,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 80476,
-      "num": 80476,
-      "word": "陈幸同3比0田志希",
-      "onboard_time": 1666351103,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 79233,
@@ -1403,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70755,
+      "num": 102080,
+      "word": "二十大报告透露中国大食物观",
+      "onboard_time": 1666345043,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70535,
       "num": 70535,
       "word": "谷爱凌晒首尔plog",
@@ -1435,28 +1491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66527,
-      "num": 66527,
-      "word": "滕哈格确认C罗拒绝替补出场",
-      "onboard_time": 1666351342,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66516,
       "num": 66516,
       "word": "泰山五岳独尊石怎么来的",
       "onboard_time": 1666301170,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 65311,
-      "num": 102080,
-      "word": "二十大报告透露中国大食物观",
-      "onboard_time": 1666345043,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65286,
@@ -1563,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42505,
+      "num": 98236,
+      "word": "一位85岁老人的升旗仪式",
+      "onboard_time": 1666350081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35329,
       "num": 244126,
       "word": "祖国各地的二十大时光",
@@ -1571,26 +1619,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27749,
-      "num": 222508,
-      "word": "二十大代表共话乡村振兴",
-      "onboard_time": 1666314745,
+      "raw_hot": 34002,
+      "num": 98409,
+      "word": "二十大报告描绘了这样一个强国",
+      "onboard_time": 1666349902,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26222,
-      "num": 98236,
-      "word": "一位85岁老人的升旗仪式",
-      "onboard_time": 1666350081,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24290,
-      "num": 98409,
-      "word": "二十大报告描绘了这样一个强国",
-      "onboard_time": 1666349902,
+      "raw_hot": 27749,
+      "num": 222508,
+      "word": "二十大代表共话乡村振兴",
+      "onboard_time": 1666314745,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1658,6 +1698,9 @@
     },
     {
       "word": "#党的二十大主席团第三次会议#"
+    },
+    {
+      "word": "#这些强国热词是奋斗的方向和目标#"
     }
   ]
 }
