@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666341390206,
+  "endTime": 1666342495666,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -707,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 726158,
+      "num": 726158,
+      "word": "长江排查出6万多个排污口",
+      "onboard_time": 1666327526,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721348,
       "num": 213229,
       "word": "中国生物武汉研究所成功分离猴痘病毒",
@@ -736,14 +744,6 @@
       "word": "外交部称绝不接受教师爷的颐指气使",
       "onboard_time": 1666238604,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 706332,
-      "num": 706332,
-      "word": "长江排查出6万多个排污口",
-      "onboard_time": 1666327526,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477184,
+      "num": 222372,
+      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+      "onboard_time": 1666337545,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471962,
       "num": 704271,
       "word": "到2035年我国发展的总体目标",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1665998543,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433548,
-      "num": 222372,
-      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
-      "onboard_time": 1666337545,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430717,
@@ -2819,6 +2819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274614,
+      "num": 215466,
+      "word": "snow on the beach",
+      "onboard_time": 1666337184,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273857,
       "num": 152314,
       "word": "做饭真的不能偷懒",
@@ -2875,14 +2883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270739,
-      "num": 215466,
-      "word": "snow on the beach",
-      "onboard_time": 1666337184,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 270606,
       "num": 161945,
       "word": "泸定地震小猪被埋塌房下存活45天",
@@ -2905,6 +2905,14 @@
       "onboard_time": 1666262544,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 265041,
+      "num": 111966,
+      "word": "高德地图适配苹果灵动岛",
+      "onboard_time": 1666340544,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 264612,
@@ -3811,6 +3819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203744,
+      "num": 136676,
+      "word": "日本三菱电机因数据造假处罚22名高管",
+      "onboard_time": 1666340005,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 203578,
       "num": 476515,
       "word": "研究发现黑洞饭后会打嗝",
@@ -4128,6 +4144,14 @@
       "word": "中东地区第一家大熊猫馆",
       "onboard_time": 1666166302,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183434,
+      "num": 238176,
+      "word": "中国新能源汽车产销量居世界第一",
+      "onboard_time": 1666335862,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4651,6 +4675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155387,
+      "num": 128317,
+      "word": "真诚是爱情的加分项吗",
+      "onboard_time": 1666338745,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155373,
       "num": 149202,
       "word": "TaylorSwift新专辑Midnights",
@@ -4787,14 +4819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147857,
-      "num": 238176,
-      "word": "中国新能源汽车产销量居世界第一",
-      "onboard_time": 1666335862,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147567,
       "num": 141987,
       "word": "张开泰犬系男友",
@@ -4915,6 +4939,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 139650,
+      "num": 128386,
+      "word": "群众自行灭油锅火怕尴尬拉黑消防",
+      "onboard_time": 1666334785,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "10月16日新增本土无症状534例",
@@ -5001,14 +5033,6 @@
       "onboard_time": 1665962416,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "日本三菱电机因数据造假处罚22名高管",
-      "onboard_time": 1666340005,
-      "rank": 28,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 136308,
@@ -5209,22 +5233,6 @@
       "onboard_time": 1666236024,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128386,
-      "num": 128386,
-      "word": "群众自行灭油锅火怕尴尬拉黑消防",
-      "onboard_time": 1666334785,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128317,
-      "num": 128317,
-      "word": "真诚是爱情的加分项吗",
-      "onboard_time": 1666338745,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 127364,
@@ -5529,14 +5537,6 @@
       "onboard_time": 1666178244,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111966,
-      "num": 111966,
-      "word": "高德地图适配苹果灵动岛",
-      "onboard_time": 1666340544,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 111154,
@@ -5883,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95526,
+      "num": 95526,
+      "word": "宝妈用玉米洋葱皮做开屏孔雀立花枝",
+      "onboard_time": 1666339464,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95263,
       "num": 171516,
       "word": "罗云熙追光者最新碎片日常剧照",
@@ -6195,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84585,
+      "num": 84585,
+      "word": "90后小伙带癌症妈妈卖唱游全国",
+      "onboard_time": 1666341564,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84580,
       "num": 115302,
       "word": "动画复原圆明园昔日景象",
@@ -6216,14 +6232,6 @@
       "word": "8旬老人骑行40里探望5旬女儿",
       "onboard_time": 1665981443,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83269,
-      "num": 83269,
-      "word": "宝妈用玉米洋葱皮做开屏孔雀立花枝",
-      "onboard_time": 1666339464,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6344,6 +6352,14 @@
       "word": "猫咪绝育后经历社死瞬间",
       "onboard_time": 1665916282,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77436,
+      "num": 77436,
+      "word": "中国动漫正学习敦煌文化",
+      "onboard_time": 1666341861,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -7265,6 +7281,14 @@
       "onboard_time": 1666279408,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17936,
+      "num": 197393,
+      "word": "二十大代表话经济",
+      "onboard_time": 1666341861,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 17285,

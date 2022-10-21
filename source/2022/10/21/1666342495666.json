@@ -1,0 +1,410 @@
+{
+  "runTime": 1666342495666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726158,
+        "num": 726158,
+        "word": "长江排查出6万多个排污口",
+        "onboard_time": 1666327526,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244466,
+        "num": 244466,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17936,
+        "num": 197393,
+        "word": "二十大代表话经济",
+        "onboard_time": 1666341861,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 406037,
+        "num": 193063,
+        "word": "女子捐10元4个月后收到还款道谢",
+        "onboard_time": 1666310785,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 183434,
+        "num": 183434,
+        "word": "中国新能源汽车产销量居世界第一",
+        "onboard_time": 1666335862,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219868,
+        "num": 161051,
+        "word": "航天员拍到月亮羞答答溜走",
+        "onboard_time": 1666330944,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 110302,
+        "num": 110302,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105090,
+        "num": 110270,
+        "word": "WTT澳门冠军赛2022",
+        "onboard_time": 1666323382,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94310,
+        "num": 110133,
+        "word": "卡塔尔世界杯倒计时30天",
+        "onboard_time": 1666322181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60823,
+        "num": 110088,
+        "word": "90后消防员成为二十大代表",
+        "onboard_time": 1666338265,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779349,
+        "num": 110033,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 744449,
+        "num": 109925,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530986,
+        "num": 109792,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 477184,
+        "num": 109776,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441181,
+        "num": 109617,
+        "word": "螃蟹上餐桌前成功解绳男子守诺放生",
+        "onboard_time": 1666336583,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382060,
+        "num": 109587,
+        "word": "鹤岗1.5万全款买房女子发声",
+        "onboard_time": 1666316603,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274663,
+        "num": 109460,
+        "word": "中国移动日赚3.61亿",
+        "onboard_time": 1666328724,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274614,
+        "num": 109387,
+        "word": "snow on the beach",
+        "onboard_time": 1666337184,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265041,
+        "num": 109300,
+        "word": "高德地图适配苹果灵动岛",
+        "onboard_time": 1666340544,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242949,
+        "num": 109226,
+        "word": "何以琛挖笋",
+        "onboard_time": 1666318402,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342799,
+        "num": 109142,
+        "word": "周杰伦新歌",
+        "onboard_time": 1666326443,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229751,
+        "num": 109077,
+        "word": "男孩只做对1道题被老师疯狂夸奖",
+        "onboard_time": 1666335262,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203744,
+        "num": 108999,
+        "word": "日本三菱电机因数据造假处罚22名高管",
+        "onboard_time": 1666340005,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 187384,
+        "num": 108923,
+        "word": "沈月猜内娱百灵鸟",
+        "onboard_time": 1666332563,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155856,
+        "num": 108822,
+        "word": "你心中顾漫小说改编最成功的剧",
+        "onboard_time": 1666328305,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155387,
+        "num": 108691,
+        "word": "真诚是爱情的加分项吗",
+        "onboard_time": 1666338745,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143654,
+        "num": 108663,
+        "word": "2岁男孩米饭掉满身妈妈抱着让鸡啄",
+        "onboard_time": 1666325363,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142794,
+        "num": 108503,
+        "word": "5岁男孩在去世奶奶坟前长跪不起",
+        "onboard_time": 1666325964,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139650,
+        "num": 108468,
+        "word": "群众自行灭油锅火怕尴尬拉黑消防",
+        "onboard_time": 1666334785,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139493,
+        "num": 108406,
+        "word": "TES 菜",
+        "onboard_time": 1666312825,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135408,
+        "num": 108298,
+        "word": "TaylorSwift新专辑Midnights",
+        "onboard_time": 1666338444,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126421,
+        "num": 108199,
+        "word": "无名第一个定下的演员是王一博",
+        "onboard_time": 1666332504,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114806,
+        "num": 108084,
+        "word": "李汶翰回不去的乐华",
+        "onboard_time": 1666330165,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112477,
+        "num": 108024,
+        "word": "新娘回门宴上给学生上网课",
+        "onboard_time": 1666334244,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107985,
+        "num": 107985,
+        "word": "iPhone老机型更新iOS后FaceID失效",
+        "onboard_time": 1666319723,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106090,
+        "num": 106090,
+        "word": "我的恋爱脑和你们脱不了干系",
+        "onboard_time": 1666330464,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95526,
+        "num": 95526,
+        "word": "宝妈用玉米洋葱皮做开屏孔雀立花枝",
+        "onboard_time": 1666339464,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94929,
+        "num": 94929,
+        "word": "女子捡猫主人慷慨相送并附赠1只",
+        "onboard_time": 1666326564,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89823,
+        "num": 89823,
+        "word": "马斯克称准备裁掉75%推特员工",
+        "onboard_time": 1666315763,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87701,
+        "num": 87701,
+        "word": "全国男女人均预期寿命差距拉大",
+        "onboard_time": 1666323144,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87629,
+        "num": 87629,
+        "word": "男朋友多少会点P图",
+        "onboard_time": 1666331484,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 87483,
+        "num": 87483,
+        "word": "4岁女孩从同学那儿听说爸爸去世",
+        "onboard_time": 1666325123,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84585,
+        "num": 84585,
+        "word": "90后小伙带癌症妈妈卖唱游全国",
+        "onboard_time": 1666341564,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81831,
+        "num": 81831,
+        "word": "披荆斩棘",
+        "onboard_time": 1666330404,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80997,
+        "num": 80997,
+        "word": "老人2万多烧成焦炭银行还原1.99万",
+        "onboard_time": 1666316123,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 77436,
+        "word": "中国动漫正学习敦煌文化",
+        "onboard_time": 1666341861,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75036,
+        "num": 75036,
+        "word": "这就是公主该穿的裙子吧",
+        "onboard_time": 1666323925,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74789,
+        "num": 74789,
+        "word": "名校毕业生60岁投资失败失联24年",
+        "onboard_time": 1666327404,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72270,
+        "num": 72270,
+        "word": "全红婵207C拿到10分",
+        "onboard_time": 1666276229,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70031,
+        "num": 70031,
+        "word": "青年舞蹈家王迪去世",
+        "onboard_time": 1666317203,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大主席团第三次会议#"
+    }
+  }
+}

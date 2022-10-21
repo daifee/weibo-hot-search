@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666341390206,
+  "endTime": 1666342495666,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706332,
-      "num": 706332,
+      "raw_hot": 726158,
+      "num": 726158,
       "word": "长江排查出6万多个排污口",
       "onboard_time": 1666327526,
       "rank": 13,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477184,
+      "num": 222372,
+      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+      "onboard_time": 1666337545,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445612,
       "num": 126354,
       "word": "梁靖崑无缘澳门赛8强",
@@ -216,14 +224,6 @@
       "word": "停车两年欠费5万的车主回应",
       "onboard_time": 1666263323,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433548,
-      "num": 222372,
-      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
-      "onboard_time": 1666337545,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -443,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270739,
+      "raw_hot": 274614,
       "num": 215466,
       "word": "snow on the beach",
       "onboard_time": 1666337184,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 265041,
+      "num": 111966,
+      "word": "高德地图适配苹果灵动岛",
+      "onboard_time": 1666340544,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 259485,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203744,
+      "num": 136676,
+      "word": "日本三菱电机因数据造假处罚22名高管",
+      "onboard_time": 1666340005,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "味精真的被误解太久了",
@@ -680,6 +696,14 @@
       "word": "女子下厨招待朋友被狗子5分钟炫光",
       "onboard_time": 1666265064,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183434,
+      "num": 238176,
+      "word": "中国新能源汽车产销量居世界第一",
+      "onboard_time": 1666335862,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155387,
+      "num": 128317,
+      "word": "真诚是爱情的加分项吗",
+      "onboard_time": 1666338745,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155373,
       "num": 149202,
       "word": "TaylorSwift新专辑Midnights",
@@ -763,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147857,
-      "num": 238176,
-      "word": "中国新能源汽车产销量居世界第一",
-      "onboard_time": 1666335862,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147820,
       "num": 168461,
       "word": "90后舅舅接外甥女放学用英语流畅对话",
@@ -795,20 +819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139650,
+      "num": 128386,
+      "word": "群众自行灭油锅火怕尴尬拉黑消防",
+      "onboard_time": 1666334785,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138058,
       "num": 180558,
       "word": "遇见喜欢的人你会主动吗",
       "onboard_time": 1666283299,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "日本三菱电机因数据造假处罚22名高管",
-      "onboard_time": 1666340005,
-      "rank": 28,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 134113,
@@ -865,22 +889,6 @@
       "onboard_time": 1666315043,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128386,
-      "num": 128386,
-      "word": "群众自行灭油锅火怕尴尬拉黑消防",
-      "onboard_time": 1666334785,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128317,
-      "num": 128317,
-      "word": "真诚是爱情的加分项吗",
-      "onboard_time": 1666338745,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 125074,
@@ -947,14 +955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111966,
-      "num": 111966,
-      "word": "高德地图适配苹果灵动岛",
-      "onboard_time": 1666340544,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 110749,
       "num": 305614,
       "word": "男子为感谢民警冲进交警队修补墙面",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1666309402,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95526,
+      "num": 95526,
+      "word": "宝妈用玉米洋葱皮做开屏孔雀立花枝",
+      "onboard_time": 1666339464,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94906,
@@ -1083,20 +1091,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84585,
+      "num": 84585,
+      "word": "90后小伙带癌症妈妈卖唱游全国",
+      "onboard_time": 1666341564,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84508,
       "num": 84508,
       "word": "特拉斯成英国任期最短的首相",
       "onboard_time": 1666271308,
       "rank": 35,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 83269,
-      "num": 83269,
-      "word": "宝妈用玉米洋葱皮做开屏孔雀立花枝",
-      "onboard_time": 1666339464,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79233,
@@ -1112,6 +1120,14 @@
       "word": "90后独臂女孩带领全村触网致富",
       "onboard_time": 1666321284,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77436,
+      "num": 77436,
+      "word": "中国动漫正学习敦煌文化",
+      "onboard_time": 1666341861,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1345,14 @@
       "onboard_time": 1666279408,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17936,
+      "num": 197393,
+      "word": "二十大代表话经济",
+      "onboard_time": 1666341861,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 12773,
