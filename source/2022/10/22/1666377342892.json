@@ -1,0 +1,410 @@
+{
+  "runTime": 1666377342892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10002,
+        "num": 35378,
+        "word": "党的二十大报告这样谈团结奋斗",
+        "onboard_time": 1666357102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18451,
+        "num": 18451,
+        "word": "中国是全球森林增长最多国家",
+        "onboard_time": 1666370299,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14391,
+        "num": 14391,
+        "word": "党的二十大报告提到的大国重器",
+        "onboard_time": 1666357165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85515,
+        "num": 14384,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7371,
+        "num": 14378,
+        "word": "二十大代表分享十年菌草治沙成果",
+        "onboard_time": 1666368021,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61900,
+        "num": 14359,
+        "word": "C罗被罚两周薪水",
+        "onboard_time": 1666360824,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 49420,
+        "num": 14356,
+        "word": "滕哈格确认C罗拒绝替补出场",
+        "onboard_time": 1666351342,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19406,
+        "num": 14339,
+        "word": "陈梦2比3斯佐科斯",
+        "onboard_time": 1666362863,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14336,
+        "num": 14336,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14020,
+        "num": 14336,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110574,
+        "num": 14335,
+        "word": "陈梦止步澳门赛16强",
+        "onboard_time": 1666365385,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756,
+        "num": 14332,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97501,
+        "num": 14330,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67224,
+        "num": 14329,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65904,
+        "num": 14328,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65504,
+        "num": 14326,
+        "word": "鹤岗顶楼五六百一平米引火热咨询",
+        "onboard_time": 1666353323,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63717,
+        "num": 14325,
+        "word": "它怎么有点像周杰伦",
+        "onboard_time": 1666369999,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 32852,
+        "num": 14325,
+        "word": "马龙vs邱党",
+        "onboard_time": 1666363225,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61134,
+        "num": 14323,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 58416,
+        "num": 14320,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86819,
+        "num": 14320,
+        "word": "lulu 金钟奖",
+        "onboard_time": 1666365506,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73424,
+        "num": 14317,
+        "word": "请回答1988美食名场面",
+        "onboard_time": 1666368745,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55602,
+        "num": 14317,
+        "word": "第一次吃西餐是什么体验",
+        "onboard_time": 1666367484,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49943,
+        "num": 14315,
+        "word": "上大学后的攀比方式",
+        "onboard_time": 1666374255,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 49849,
+        "num": 14314,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 48314,
+        "num": 14312,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 46914,
+        "num": 14310,
+        "word": "换乘恋爱",
+        "onboard_time": 1666345400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43887,
+        "num": 14309,
+        "word": "狗子帮助主人拿快递还会扫码出库",
+        "onboard_time": 1666368981,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42019,
+        "num": 14307,
+        "word": "大学没谈过恋爱会后悔吗",
+        "onboard_time": 1666352962,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40536,
+        "num": 14305,
+        "word": "出差十五夜星船特辑预告",
+        "onboard_time": 1666371138,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39657,
+        "num": 14304,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36506,
+        "num": 14304,
+        "word": "金钟奖",
+        "onboard_time": 1666354823,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34129,
+        "num": 14302,
+        "word": "日剧静雪",
+        "onboard_time": 1666361123,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33334,
+        "num": 14301,
+        "word": "比特币集团考虑竞标收购德国银行",
+        "onboard_time": 1666357641,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32534,
+        "num": 14298,
+        "word": "外交部回应特拉斯辞职",
+        "onboard_time": 1666356743,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 31545,
+        "num": 14296,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31340,
+        "num": 14296,
+        "word": "马琳",
+        "onboard_time": 1666364665,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30954,
+        "num": 14294,
+        "word": "十七岁喜欢的人怎么样了",
+        "onboard_time": 1666359145,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30459,
+        "num": 14293,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28659,
+        "num": 14291,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28189,
+        "num": 14289,
+        "word": "周渝民迪丽热巴烈火如歌非洲播出",
+        "onboard_time": 1666352302,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27575,
+        "num": 14288,
+        "word": "钓鱼到底有多花钱",
+        "onboard_time": 1666359864,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26920,
+        "num": 14287,
+        "word": "罗云熙白鹿长月烬明过审",
+        "onboard_time": 1666361303,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23502,
+        "num": 14286,
+        "word": "校园虐文男主有了脸",
+        "onboard_time": 1666345463,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22850,
+        "num": 14283,
+        "word": "西红柿才是鸡蛋的最佳拍挡",
+        "onboard_time": 1666348104,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22483,
+        "num": 14282,
+        "word": "虞书欣张彬彬两个人的小森林评分降了",
+        "onboard_time": 1666344442,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22353,
+        "num": 14280,
+        "word": "BLACKPINK将参加海德公园音乐节",
+        "onboard_time": 1666343964,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21642,
+        "num": 14279,
+        "word": "马嘉祺发文感谢杨坤",
+        "onboard_time": 1666366583,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18682,
+        "num": 14278,
+        "word": "上一段恋爱中最遗憾的事",
+        "onboard_time": 1666355724,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18502,
+        "num": 14277,
+        "word": "海恩站起来了",
+        "onboard_time": 1666354823,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大主席团举行第三次会议#"
+    }
+  }
+}
