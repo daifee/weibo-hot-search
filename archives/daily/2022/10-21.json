@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666358928802,
+  "endTime": 1666360942115,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463369,
+      "num": 96681,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 462887,
       "num": 96709,
       "word": "金钟奖",
@@ -409,14 +417,6 @@
       "onboard_time": 1666315703,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386747,
-      "num": 96681,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 385870,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307502,
+      "num": 69085,
+      "word": "十七岁喜欢的人怎么样了",
+      "onboard_time": 1666359145,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305653,
       "num": 305653,
       "word": "连续拿下台湾当局9个所谓邦交国",
@@ -619,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 293542,
+      "num": 81523,
+      "word": "比特币集团考虑竞标收购德国银行",
+      "onboard_time": 1666357641,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 291054,
       "num": 215452,
       "word": "霉霉 新专",
@@ -633,6 +649,14 @@
       "onboard_time": 1666327404,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282094,
+      "num": 96598,
+      "word": "外交部回应特拉斯辞职",
+      "onboard_time": 1666356743,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 274614,
@@ -723,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245851,
+      "num": 69039,
+      "word": "樊振东3比1卡纳克",
+      "onboard_time": 1666360524,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245803,
       "num": 97653,
       "word": "换乘恋爱",
@@ -769,14 +801,6 @@
       "onboard_time": 1666330464,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238247,
-      "num": 96598,
-      "word": "外交部回应特拉斯辞职",
-      "onboard_time": 1666356743,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 236047,
@@ -955,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193401,
-      "num": 81523,
-      "word": "比特币集团考虑竞标收购德国银行",
-      "onboard_time": 1666357641,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193131,
       "num": 97558,
       "word": "女孩被家人拍头式拔牙",
@@ -979,20 +995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188157,
+      "num": 96657,
+      "word": "上一段恋爱中最遗憾的事",
+      "onboard_time": 1666355724,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187866,
       "num": 110252,
       "word": "见面吧就现在全员告别",
       "onboard_time": 1666330825,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187731,
-      "num": 96657,
-      "word": "上一段恋爱中最遗憾的事",
-      "onboard_time": 1666355724,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 186047,
@@ -1041,6 +1057,22 @@
       "onboard_time": 1666328366,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169951,
+      "num": 68926,
+      "word": "陈梦vs斯佐科斯",
+      "onboard_time": 1666360883,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169818,
+      "num": 81470,
+      "word": "泰勒斯威夫特新歌MV",
+      "onboard_time": 1666357343,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 165771,
@@ -1187,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133934,
+      "num": 81437,
+      "word": "三悦年度好哭剧",
+      "onboard_time": 1666356983,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133021,
       "num": 181970,
       "word": "柯基蹑手蹑脚潜到主人床边睡觉",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1666315043,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129826,
+      "num": 81661,
+      "word": "党的二十大报告提到的大国重器",
+      "onboard_time": 1666357165,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125092,
@@ -1291,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121261,
-      "num": 81470,
-      "word": "泰勒斯威夫特新歌MV",
-      "onboard_time": 1666357343,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 119590,
       "num": 119590,
       "word": "s12",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1666309703,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115723,
+      "num": 81388,
+      "word": "里贝里宣布退役",
+      "onboard_time": 1666358782,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 110749,
@@ -1403,20 +1451,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 98826,
-      "num": 81437,
-      "word": "三悦年度好哭剧",
-      "onboard_time": 1666356983,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 98752,
       "num": 106986,
       "word": "信鸽遇大风飞偏被女子收留",
       "onboard_time": 1666333405,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97556,
+      "num": 68945,
+      "word": "钓鱼到底有多花钱",
+      "onboard_time": 1666359864,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 96362,
@@ -1531,20 +1579,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 84318,
+      "num": 81393,
+      "word": "王源透过航拍中国看成长初心",
+      "onboard_time": 1666358724,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83576,
       "num": 96612,
       "word": "StrayKids说中文",
       "onboard_time": 1666353501,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 83467,
-      "num": 81661,
-      "word": "党的二十大报告提到的大国重器",
-      "onboard_time": 1666357165,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79233,
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76577,
+      "num": 68919,
+      "word": "C罗被罚两周薪水",
+      "onboard_time": 1666360824,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 76453,
       "num": 230066,
       "word": "一图了解二十大报告中的民生举措",
@@ -1601,22 +1657,6 @@
       "onboard_time": 1666334063,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 74455,
-      "num": 81393,
-      "word": "王源透过航拍中国看成长初心",
-      "onboard_time": 1666358724,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 73785,
-      "num": 81388,
-      "word": "里贝里宣布退役",
-      "onboard_time": 1666358782,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 72816,
@@ -1779,7 +1819,7 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 46014,
+      "raw_hot": 46880,
       "num": 98409,
       "word": "二十大报告描绘了这样一个强国",
       "onboard_time": 1666349902,
@@ -1819,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26886,
+      "num": 81619,
+      "word": "绿色逐步成为我国高质量发展底色",
+      "onboard_time": 1666357463,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19873,
       "num": 242689,
       "word": "二十大献礼片单展映",
@@ -1848,14 +1896,6 @@
       "word": "狗狗课堂表演滑板引围观",
       "onboard_time": 1666296371,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8004,
-      "num": 81619,
-      "word": "绿色逐步成为我国高质量发展底色",
-      "onboard_time": 1666357463,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
