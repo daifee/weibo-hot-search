@@ -1,0 +1,410 @@
+{
+  "runTime": 1666349348019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 173979,
+        "num": 252604,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97071,
+        "num": 97071,
+        "word": "90后消防员成为二十大代表",
+        "onboard_time": 1666338265,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49555,
+        "num": 96754,
+        "word": "二十大代表话经济",
+        "onboard_time": 1666341861,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 910140,
+        "num": 96123,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392300,
+        "num": 95772,
+        "word": "女子捐10元4个月后收到还款道谢",
+        "onboard_time": 1666310785,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194241,
+        "num": 95613,
+        "word": "航天员拍到月亮羞答答溜走",
+        "onboard_time": 1666330944,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 95151,
+        "num": 95151,
+        "word": "WTT澳门冠军赛2022",
+        "onboard_time": 1666323382,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76911,
+        "num": 76911,
+        "word": "卡塔尔世界杯倒计时30天",
+        "onboard_time": 1666322181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62049,
+        "num": 62049,
+        "word": "二十大报告透露中国大食物观",
+        "onboard_time": 1666345043,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53638,
+        "num": 53638,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811809,
+        "num": 53637,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384527,
+        "num": 53633,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377824,
+        "num": 53630,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 363380,
+        "num": 53627,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19204,
+        "num": 53626,
+        "word": "护飞队队长讲述救助东方白鹳经历",
+        "onboard_time": 1666346483,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333355,
+        "num": 53623,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 318951,
+        "num": 53618,
+        "word": "特斯拉前董事认定比亚迪是唯一挑战者",
+        "onboard_time": 1666343124,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 246998,
+        "num": 53617,
+        "word": "这狗竟然会飞",
+        "onboard_time": 1666346962,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295490,
+        "num": 53611,
+        "word": "鹤岗1.5万全款买房女子发声",
+        "onboard_time": 1666316603,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231629,
+        "num": 53608,
+        "word": "这天气不吃碳水怎么行",
+        "onboard_time": 1666347802,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405238,
+        "num": 53607,
+        "word": "虞书欣张彬彬两个人的小森林评分降了",
+        "onboard_time": 1666344442,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296966,
+        "num": 53601,
+        "word": "BLACKPINK将参加海德公园音乐节",
+        "onboard_time": 1666343964,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284070,
+        "num": 53599,
+        "word": "海恩贤圭托脸杀",
+        "onboard_time": 1666345883,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281749,
+        "num": 53597,
+        "word": "周杰伦新歌",
+        "onboard_time": 1666326443,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230608,
+        "num": 53594,
+        "word": "校园虐文男主有了脸",
+        "onboard_time": 1666345463,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204924,
+        "num": 53590,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193012,
+        "num": 53587,
+        "word": "狗子自己下楼遛弯乘电梯回家",
+        "onboard_time": 1666342883,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183532,
+        "num": 53583,
+        "word": "女孩被家人拍头式拔牙",
+        "onboard_time": 1666343423,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166059,
+        "num": 53582,
+        "word": "中国移动日赚3.61亿",
+        "onboard_time": 1666328724,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161940,
+        "num": 53578,
+        "word": "螃蟹上餐桌前成功解绳男子守诺放生",
+        "onboard_time": 1666336583,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139292,
+        "num": 53577,
+        "word": "StrayKids银行一位",
+        "onboard_time": 1666348702,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137863,
+        "num": 53572,
+        "word": "赵丽颖林更新与凤行实景",
+        "onboard_time": 1666345524,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137317,
+        "num": 53570,
+        "word": "换乘恋爱",
+        "onboard_time": 1666345400,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 53564,
+        "word": "西红柿才是鸡蛋的最佳拍挡",
+        "onboard_time": 1666348104,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125411,
+        "num": 53561,
+        "word": "TES 菜",
+        "onboard_time": 1666312825,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125194,
+        "num": 53558,
+        "word": "高德地图适配苹果灵动岛",
+        "onboard_time": 1666340544,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111087,
+        "num": 53556,
+        "word": "你心中顾漫小说改编最成功的剧",
+        "onboard_time": 1666328305,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97778,
+        "num": 53554,
+        "word": "潘玮柏被认证吉祥物",
+        "onboard_time": 1666342764,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96734,
+        "num": 53552,
+        "word": "90后小伙带癌症妈妈卖唱游全国",
+        "onboard_time": 1666341564,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94289,
+        "num": 53547,
+        "word": "沈月猜内娱百灵鸟",
+        "onboard_time": 1666332563,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93310,
+        "num": 53545,
+        "word": "我国建成全世界规模最大的基本医疗保障网",
+        "onboard_time": 1666348463,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93181,
+        "num": 53540,
+        "word": "长江排查出6万多个排污口",
+        "onboard_time": 1666327526,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92876,
+        "num": 53540,
+        "word": "男孩只做对1道题被老师疯狂夸奖",
+        "onboard_time": 1666335262,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 87496,
+        "num": 53534,
+        "word": "我的恋爱脑和你们脱不了干系",
+        "onboard_time": 1666330464,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85657,
+        "num": 53532,
+        "word": "提拉臀线只需一面墙",
+        "onboard_time": 1666346543,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83752,
+        "num": 53527,
+        "word": "日本三菱电机因数据造假处罚22名高管",
+        "onboard_time": 1666340005,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 80300,
+        "num": 53527,
+        "word": "snow on the beach",
+        "onboard_time": 1666337184,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78570,
+        "num": 53523,
+        "word": "多家品牌果切菌落数堪忧",
+        "onboard_time": 1666347201,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 75557,
+        "num": 53521,
+        "word": "5岁男孩在去世奶奶坟前长跪不起",
+        "onboard_time": 1666325964,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59145,
+        "num": 53517,
+        "word": "王一博智族GQ内页采访",
+        "onboard_time": 1666344621,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

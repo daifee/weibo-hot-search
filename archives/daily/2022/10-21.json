@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666348187741,
+  "endTime": 1666349348019,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -59,12 +59,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 910140,
+      "num": 102216,
+      "word": "坚持跑步10年会有什么变化",
+      "onboard_time": 1666344562,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908888,
       "num": 229196,
       "word": "癌症晚期或将存在根治可能",
       "onboard_time": 1666336463,
       "rank": 11,
       "category": "其它"
+    },
+    {
+      "raw_hot": 811809,
+      "num": 56130,
+      "word": "比王宝钏还恋爱脑的是秦香莲",
+      "onboard_time": 1666346062,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 785860,
@@ -81,14 +97,6 @@
       "onboard_time": 1666317203,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736964,
-      "num": 56130,
-      "word": "比王宝钏还恋爱脑的是秦香莲",
-      "onboard_time": 1666346062,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 726158,
@@ -379,14 +387,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 345066,
-      "num": 102216,
-      "word": "坚持跑步10年会有什么变化",
-      "onboard_time": 1666344562,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343895,
       "num": 305634,
       "word": "航天员拍到月亮羞答答溜走",
@@ -579,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246998,
+      "num": 55993,
+      "word": "这狗竟然会飞",
+      "onboard_time": 1666346962,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245803,
       "num": 58901,
       "word": "换乘恋爱",
@@ -641,6 +649,14 @@
       "onboard_time": 1666323382,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231629,
+      "num": 55961,
+      "word": "这天气不吃碳水怎么行",
+      "onboard_time": 1666347802,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 228819,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176132,
-      "num": 55993,
-      "word": "这狗竟然会飞",
-      "onboard_time": 1666346962,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173523,
       "num": 119623,
       "word": "郑乃馨新歌某一个晴天",
@@ -947,20 +955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143861,
-      "num": 55961,
-      "word": "这天气不吃碳水怎么行",
-      "onboard_time": 1666347802,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 139650,
       "num": 128386,
       "word": "群众自行灭油锅火怕尴尬拉黑消防",
       "onboard_time": 1666334785,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139292,
+      "num": 53577,
+      "word": "StrayKids银行一位",
+      "onboard_time": 1666348702,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 138058,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1666315043,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129802,
+      "num": 55836,
+      "word": "西红柿才是鸡蛋的最佳拍挡",
+      "onboard_time": 1666348104,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 125092,
@@ -1203,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93310,
+      "num": 53545,
+      "word": "我国建成全世界规模最大的基本医疗保障网",
+      "onboard_time": 1666348463,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91618,
       "num": 91618,
       "word": "吃柿子最好去皮",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78570,
+      "num": 55850,
+      "word": "多家品牌果切菌落数堪忧",
+      "onboard_time": 1666347201,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 77185,
       "num": 100839,
       "word": "花木之乡的独臂花木兰",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1666334063,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 74136,
-      "num": 55850,
-      "word": "多家品牌果切菌落数堪忧",
-      "onboard_time": 1666347201,
-      "rank": 47,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 72816,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1666341861,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 68494,
-      "num": 55836,
-      "word": "西红柿才是鸡蛋的最佳拍挡",
-      "onboard_time": 1666348104,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 67615,
@@ -1427,20 +1443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62049,
+      "num": 62049,
+      "word": "二十大报告透露中国大食物观",
+      "onboard_time": 1666345043,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60957,
       "num": 96966,
       "word": "快船考虑让伦纳德打替补",
       "onboard_time": 1666317803,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59856,
-      "num": 59856,
-      "word": "二十大报告透露中国大食物观",
-      "onboard_time": 1666345043,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54735,
@@ -1531,7 +1547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16915,
+      "raw_hot": 19204,
       "num": 56098,
       "word": "护飞队队长讲述救助东方白鹳经历",
       "onboard_time": 1666346483,
