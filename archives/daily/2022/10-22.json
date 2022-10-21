@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666384155574,
+  "endTime": 1666385099112,
   "band_list": [
     {
       "raw_hot": 570425,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42529,
+      "num": 826,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33980,
       "num": 38277,
       "word": "BLACKPINK将参加海德公园音乐节",
@@ -419,11 +427,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28093,
-      "num": 826,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
+      "raw_hot": 23921,
+      "num": 834,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20677,
-      "num": 834,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 10984,
+      "num": 750,
+      "word": "永远icon梦幻联动",
+      "onboard_time": 1666383252,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 10500,
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8455,
-      "num": 750,
-      "word": "永远icon梦幻联动",
-      "onboard_time": 1666383252,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 7213,
       "num": 747,
       "word": "南通绝美火烧云遇见浪漫日出",
       "onboard_time": 1666384030,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7146,
+      "num": 542,
+      "word": "加油啊淳煜",
+      "onboard_time": 1666383551,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 2504,

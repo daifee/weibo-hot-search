@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666384155574,
+  "endTime": 1666385099112,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -32915,6 +32915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42529,
+      "num": 826,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42505,
       "num": 98236,
       "word": "一位85岁老人的升旗仪式",
@@ -33507,14 +33515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28093,
-      "num": 826,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
@@ -33579,6 +33579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23921,
+      "num": 834,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -33641,14 +33649,6 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20677,
-      "num": 834,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
@@ -33955,6 +33955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 10984,
+      "num": 750,
+      "word": "永远icon梦幻联动",
+      "onboard_time": 1666383252,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10871,
       "num": 599703,
       "word": "二十大纪念邮票10月16日发行",
@@ -34065,14 +34073,6 @@
       "onboard_time": 1665859333,
       "rank": 47,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 8455,
-      "num": 750,
-      "word": "永远icon梦幻联动",
-      "onboard_time": 1666383252,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 8384,
@@ -34193,6 +34193,14 @@
       "onboard_time": 1666384030,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7146,
+      "num": 542,
+      "word": "加油啊淳煜",
+      "onboard_time": 1666383551,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 7140,
