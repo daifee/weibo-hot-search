@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666360942115,
+  "endTime": 1666362170168,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -89,6 +89,14 @@
       "onboard_time": 1666346062,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795092,
+      "num": 68926,
+      "word": "陈梦vs斯佐科斯",
+      "onboard_time": 1666360883,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 785860,
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477538,
+      "num": 96681,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 477184,
       "num": 222372,
       "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
@@ -283,15 +299,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463369,
-      "num": 96681,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 462887,
+      "raw_hot": 469564,
       "num": 96709,
       "word": "金钟奖",
       "onboard_time": 1666354823,
@@ -345,6 +353,14 @@
       "onboard_time": 1666343183,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433548,
+      "num": 69085,
+      "word": "十七岁喜欢的人怎么样了",
+      "onboard_time": 1666359145,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 433426,
@@ -579,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307502,
-      "num": 69085,
-      "word": "十七岁喜欢的人怎么样了",
-      "onboard_time": 1666359145,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 305653,
       "num": 305653,
       "word": "连续拿下台湾当局9个所谓邦交国",
@@ -625,6 +633,14 @@
       "onboard_time": 1666340544,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 295076,
+      "num": 63013,
+      "word": "罗云熙白鹿长月烬明过审",
+      "onboard_time": 1666361303,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 293542,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 248557,
-      "num": 311262,
+      "num": 315746,
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 4,
@@ -1019,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178406,
+      "num": 68919,
+      "word": "C罗被罚两周薪水",
+      "onboard_time": 1666360824,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 177340,
       "num": 201661,
       "word": "蹲久后站起头晕或是中风先兆",
@@ -1056,14 +1080,6 @@
       "word": "快船战胜湖人",
       "onboard_time": 1666328366,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169951,
-      "num": 68926,
-      "word": "陈梦vs斯佐科斯",
-      "onboard_time": 1666360883,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148040,
+      "num": 68945,
+      "word": "钓鱼到底有多花钱",
+      "onboard_time": 1666359864,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147820,
       "num": 168461,
       "word": "90后舅舅接外甥女放学用英语流畅对话",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1666247005,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147455,
+      "num": 62988,
+      "word": "静雪",
+      "onboard_time": 1666361123,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 145592,
@@ -1459,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97556,
-      "num": 68945,
-      "word": "钓鱼到底有多花钱",
-      "onboard_time": 1666359864,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96362,
       "num": 96362,
       "word": "万神殿",
@@ -1625,14 +1649,6 @@
       "onboard_time": 1666325603,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76577,
-      "num": 68919,
-      "word": "C罗被罚两周薪水",
-      "onboard_time": 1666360824,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 76453,
