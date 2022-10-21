@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666319824113,
+  "endTime": 1666325884813,
   "band_list": [
     {
       "raw_hot": 1314128,
@@ -17,6 +17,14 @@
       "onboard_time": 1666316603,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1195307,
+      "num": 218252,
+      "word": "何以琛挖笋",
+      "onboard_time": 1666318402,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1126081,
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725792,
-      "num": 218252,
-      "word": "何以琛挖笋",
-      "onboard_time": 1666318402,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 688773,
       "num": 216578,
       "word": "马斯克称准备裁掉75%推特员工",
@@ -65,6 +65,14 @@
       "onboard_time": 1666316123,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545036,
+      "num": 111789,
+      "word": "这就是公主该穿的裙子吧",
+      "onboard_time": 1666323925,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 523838,
@@ -96,6 +104,14 @@
       "word": "全红婵跳水世界杯首秀",
       "onboard_time": 1666275148,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445612,
+      "num": 109232,
+      "word": "梁靖崑无缘澳门赛8强",
+      "onboard_time": 1666323623,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -131,6 +147,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424254,
+      "num": 113777,
+      "word": "卡塔尔世界杯倒计时30天",
+      "onboard_time": 1666322181,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 417002,
+      "num": 171614,
+      "word": "儿子加柠檬汁让妈妈做的粥瞬间变色",
+      "onboard_time": 1666318583,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389731,
+      "num": 110056,
+      "word": "全国男女人均预期寿命差距拉大",
+      "onboard_time": 1666323144,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368634,
       "num": 232910,
       "word": "1条没回的信息救了8旬母亲一命",
@@ -153,6 +193,14 @@
       "onboard_time": 1666255584,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336848,
+      "num": 167367,
+      "word": "iPhone老机型更新iOS后FaceID失效",
+      "onboard_time": 1666319723,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 335145,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 243213,
-      "num": 313113,
+      "num": 331353,
       "word": "党的二十大报告提到了这些精神",
       "onboard_time": 1666281206,
       "rank": 0,
@@ -283,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232308,
+      "num": 113654,
+      "word": "WTT澳门冠军赛2022",
+      "onboard_time": 1666323382,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228819,
       "num": 240005,
       "word": "全红婵207C拿到10分",
@@ -297,6 +353,22 @@
       "onboard_time": 1666319064,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223418,
+      "num": 227995,
+      "word": "快船vs湖人",
+      "onboard_time": 1666315703,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222272,
+      "num": 107994,
+      "word": "狗狗有点胆量但不多",
+      "onboard_time": 1666322483,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 221567,
@@ -323,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211979,
+      "num": 107450,
+      "word": "特斯拉股价重挫6.65%",
+      "onboard_time": 1666320264,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210881,
       "num": 195488,
       "word": "猫咪受了委屈也会找妈妈",
       "onboard_time": 1666310844,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202626,
-      "num": 227995,
-      "word": "快船vs湖人",
-      "onboard_time": 1666315703,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 194997,
@@ -363,12 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175945,
+      "raw_hot": 181631,
+      "num": 107253,
+      "word": "第一次觉得语文听写这么难",
+      "onboard_time": 1666324102,
+      "rank": 27,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 177340,
       "num": 201661,
       "word": "蹲久后站起头晕或是中风先兆",
       "onboard_time": 1666317622,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173523,
+      "num": 106146,
+      "word": "郑乃馨新歌某一个晴天",
+      "onboard_time": 1666323563,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 170925,
@@ -377,6 +465,14 @@
       "onboard_time": 1666310002,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158679,
+      "num": 105623,
+      "word": "4岁女孩从同学那儿听说爸爸去世",
+      "onboard_time": 1666325123,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149259,
@@ -459,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125074,
+      "num": 183818,
+      "word": "推特否认全公司范围内裁员",
+      "onboard_time": 1666318763,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124744,
       "num": 188639,
       "word": "这朵云是懂浪漫的",
       "onboard_time": 1666316783,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121944,
+      "num": 174071,
+      "word": "罗云熙新剧角色适配度",
+      "onboard_time": 1666318043,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 121463,
@@ -483,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118468,
+      "num": 103837,
+      "word": "恩比德状态",
+      "onboard_time": 1666322544,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118234,
       "num": 187200,
       "word": "369奥恩单杀大树",
@@ -499,12 +619,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110379,
-      "num": 183818,
-      "word": "推特否认全公司范围内裁员",
-      "onboard_time": 1666318763,
-      "rank": 37,
-      "category": "科技"
+      "raw_hot": 110272,
+      "num": 102843,
+      "word": "公交司机默默照顾乘客9年后被发现",
+      "onboard_time": 1666324644,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 109723,
+      "num": 102443,
+      "word": "2岁男孩米饭掉满身妈妈抱着让鸡啄",
+      "onboard_time": 1666325363,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107065,
+      "num": 112564,
+      "word": "中国已实现固体废物零进口",
+      "onboard_time": 1666323623,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 104743,
@@ -571,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86766,
-      "num": 174071,
-      "word": "罗云熙新剧角色适配度",
-      "onboard_time": 1666318043,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 84835,
       "num": 84835,
       "word": "RNG告别TI11",
@@ -603,12 +731,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 83920,
+      "num": 114094,
+      "word": "我国生物多样性保护取得扎实成效",
+      "onboard_time": 1666321464,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79233,
       "num": 79233,
       "word": "外资巨头增持中资互联网股",
       "onboard_time": 1666294390,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79138,
+      "num": 101236,
+      "word": "90后独臂女孩带领全村触网致富",
+      "onboard_time": 1666321284,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77185,
+      "num": 100839,
+      "word": "花木之乡的独臂花木兰",
+      "onboard_time": 1666325603,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76453,
@@ -619,11 +771,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73905,
-      "num": 171614,
-      "word": "儿子加柠檬汁让妈妈做的粥瞬间变色",
-      "onboard_time": 1666318583,
-      "rank": 46,
+      "raw_hot": 72816,
+      "num": 100447,
+      "word": "这些年蓝天多了水清了土也净了",
+      "onboard_time": 1666325664,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -665,14 +817,6 @@
       "onboard_time": 1666301170,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 65720,
-      "num": 167367,
-      "word": "iPhone老机型更新iOS后FaceID失效",
-      "onboard_time": 1666319723,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 65157,
@@ -771,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12773,
+      "num": 111189,
+      "word": "3D看北京交通10年发展",
+      "onboard_time": 1666324824,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9364,
       "num": 15195,
       "word": "狗狗课堂表演滑板引围观",
@@ -801,6 +953,9 @@
     },
     {
       "word": "#二十大时光#"
+    },
+    {
+      "word": "#二十大报告#"
     }
   ]
 }

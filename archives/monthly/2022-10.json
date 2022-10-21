@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666319824113,
+  "endTime": 1666325884813,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1665110063,
       "rank": 5,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 1195307,
+      "num": 218252,
+      "word": "何以琛挖笋",
+      "onboard_time": 1666318402,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1195211,
@@ -4291,14 +4299,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 725792,
-      "num": 218252,
-      "word": "何以琛挖笋",
-      "onboard_time": 1666318402,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 724768,
       "num": 724768,
       "word": "三小伙为省钱合租一间房",
@@ -6587,6 +6587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 545036,
+      "num": 111789,
+      "word": "这就是公主该穿的裙子吧",
+      "onboard_time": 1666323925,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544897,
       "num": 156247,
       "word": "妹妹出嫁未婚姐姐第四次上楼顶回避",
@@ -8683,6 +8691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445612,
+      "num": 109232,
+      "word": "梁靖崑无缘澳门赛8强",
+      "onboard_time": 1666323623,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444517,
       "num": 444517,
       "word": "奖励优秀生的小猪9月后卖了4000元",
@@ -9195,6 +9211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424254,
+      "num": 113777,
+      "word": "卡塔尔世界杯倒计时30天",
+      "onboard_time": 1666322181,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423617,
       "num": 423617,
       "word": "张雨绮和古早偶像剧的适配度",
@@ -9393,6 +9417,14 @@
       "onboard_time": 1665337754,
       "rank": 10,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 417002,
+      "num": 171614,
+      "word": "儿子加柠檬汁让妈妈做的粥瞬间变色",
+      "onboard_time": 1666318583,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416818,
@@ -10209,6 +10241,14 @@
       "onboard_time": 1665404242,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389731,
+      "num": 110056,
+      "word": "全国男女人均预期寿命差距拉大",
+      "onboard_time": 1666323144,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389707,
@@ -11817,6 +11857,14 @@
       "onboard_time": 1665973581,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 336848,
+      "num": 167367,
+      "word": "iPhone老机型更新iOS后FaceID失效",
+      "onboard_time": 1666319723,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 336626,
@@ -16100,7 +16148,7 @@
     },
     {
       "raw_hot": 243213,
-      "num": 313113,
+      "num": 331353,
       "word": "党的二十大报告提到了这些精神",
       "onboard_time": 1666281206,
       "rank": 0,
@@ -16673,6 +16721,14 @@
       "onboard_time": 1666236144,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232308,
+      "num": 113654,
+      "word": "WTT澳门冠军赛2022",
+      "onboard_time": 1666323382,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 232307,
@@ -17347,6 +17403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223418,
+      "num": 227995,
+      "word": "快船vs湖人",
+      "onboard_time": 1666315703,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223284,
       "num": 223284,
       "word": "这猫上辈子怕是个超模吧",
@@ -17409,6 +17473,14 @@
       "onboard_time": 1664955199,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222272,
+      "num": 107994,
+      "word": "狗狗有点胆量但不多",
+      "onboard_time": 1666322483,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 222261,
@@ -18057,6 +18129,14 @@
       "onboard_time": 1666058842,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 211979,
+      "num": 107450,
+      "word": "特斯拉股价重挫6.65%",
+      "onboard_time": 1666320264,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 211915,
@@ -18712,14 +18792,6 @@
       "word": "中国女团vs波多黎各女团",
       "onboard_time": 1664698400,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 202626,
-      "num": 227995,
-      "word": "快船vs湖人",
-      "onboard_time": 1666315703,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -20331,6 +20403,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 181631,
+      "num": 107253,
+      "word": "第一次觉得语文听写这么难",
+      "onboard_time": 1666324102,
+      "rank": 27,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 181590,
       "num": 66910,
       "word": "朱婷出席斯坎迪奇球队发布会",
@@ -20643,6 +20723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177340,
+      "num": 201661,
+      "word": "蹲久后站起头晕或是中风先兆",
+      "onboard_time": 1666317622,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "马龙三登出色封面",
@@ -20697,14 +20785,6 @@
       "onboard_time": 1666189525,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175945,
-      "num": 201661,
-      "word": "蹲久后站起头晕或是中风先兆",
-      "onboard_time": 1666317622,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175572,
@@ -20849,6 +20929,14 @@
       "onboard_time": 1665457824,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173523,
+      "num": 106146,
+      "word": "郑乃馨新歌某一个晴天",
+      "onboard_time": 1666323563,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 173498,
@@ -22033,6 +22121,14 @@
       "onboard_time": 1665647843,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158679,
+      "num": 105623,
+      "word": "4岁女孩从同学那儿听说爸爸去世",
+      "onboard_time": 1666325123,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158673,
@@ -24955,6 +25051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125074,
+      "num": 183818,
+      "word": "推特否认全公司范围内裁员",
+      "onboard_time": 1666318763,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124985,
       "num": 124985,
       "word": "这才是我们想要的大女主剧",
@@ -25209,6 +25313,14 @@
       "onboard_time": 1664546665,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 121944,
+      "num": 174071,
+      "word": "罗云熙新剧角色适配度",
+      "onboard_time": 1666318043,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 121853,
@@ -25537,6 +25649,14 @@
       "onboard_time": 1665731724,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118468,
+      "num": 103837,
+      "word": "恩比德状态",
+      "onboard_time": 1666322544,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 118234,
@@ -26315,14 +26435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110379,
-      "num": 183818,
-      "word": "推特否认全公司范围内裁员",
-      "onboard_time": 1666318763,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 110370,
       "num": 110370,
       "word": "衣服标签上的符号都代表什么",
@@ -26347,6 +26459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 110272,
+      "num": 102843,
+      "word": "公交司机默默照顾乘客9年后被发现",
+      "onboard_time": 1666324644,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 110019,
       "num": 110019,
       "word": "要不还是别送礼物了吧",
@@ -26369,6 +26489,14 @@
       "onboard_time": 1666243945,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109723,
+      "num": 102443,
+      "word": "2岁男孩米饭掉满身妈妈抱着让鸡啄",
+      "onboard_time": 1666325363,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109689,
@@ -26625,6 +26753,14 @@
       "onboard_time": 1665497549,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107065,
+      "num": 112564,
+      "word": "中国已实现固体废物零进口",
+      "onboard_time": 1666323623,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 107027,
@@ -28403,14 +28539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 86766,
-      "num": 174071,
-      "word": "罗云熙新剧角色适配度",
-      "onboard_time": 1666318043,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 86658,
       "num": 86658,
       "word": "一段视频感受兰亭序有多美",
@@ -28696,6 +28824,14 @@
       "word": "长春6旬大爷坚持滑雪21年",
       "onboard_time": 1664884103,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83920,
+      "num": 114094,
+      "word": "我国生物多样性保护取得扎实成效",
+      "onboard_time": 1666321464,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -29035,6 +29171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79138,
+      "num": 101236,
+      "word": "90后独臂女孩带领全村触网致富",
+      "onboard_time": 1666321284,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79092,
       "num": 79092,
       "word": "那些一个字的歌名有多绝",
@@ -29193,6 +29337,14 @@
       "onboard_time": 1665208642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77185,
+      "num": 100839,
+      "word": "花木之乡的独臂花木兰",
+      "onboard_time": 1666325603,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76925,
@@ -29515,14 +29667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73905,
-      "num": 171614,
-      "word": "儿子加柠檬汁让妈妈做的粥瞬间变色",
-      "onboard_time": 1666318583,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73868,
       "num": 73868,
       "word": "写给十年后的自己",
@@ -29607,6 +29751,14 @@
       "num": 72862,
       "word": "如何看海天味业否认双标",
       "onboard_time": 1665003550,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72816,
+      "num": 100447,
+      "word": "这些年蓝天多了水清了土也净了",
+      "onboard_time": 1666325664,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -30209,14 +30361,6 @@
       "onboard_time": 1665504083,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 65720,
-      "num": 167367,
-      "word": "iPhone老机型更新iOS后FaceID失效",
-      "onboard_time": 1666319723,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 65614,
@@ -32617,6 +32761,14 @@
       "onboard_time": 1665690850,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12773,
+      "num": 111189,
+      "word": "3D看北京交通10年发展",
+      "onboard_time": 1666324824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12691,
