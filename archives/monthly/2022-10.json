@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666356897999,
+  "endTime": 1666358928802,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -2987,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918940,
+      "num": 96731,
+      "word": "全红婵陈芋汐双人10米台夺冠",
+      "onboard_time": 1666355903,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 917528,
       "num": 155074,
       "word": "肯德基回应点芙蓉汤外卖只收到干料",
@@ -4825,6 +4833,14 @@
       "onboard_time": 1665231985,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687237,
+      "num": 96767,
+      "word": "3男子忘付餐费3小时后专程返回补还",
+      "onboard_time": 1666354702,
+      "rank": 5,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 686452,
@@ -7955,14 +7971,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 478806,
-      "num": 96767,
-      "word": "3男子忘付餐费3小时后专程返回补还",
-      "onboard_time": 1666354702,
-      "rank": 5,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 478135,
       "num": 361451,
       "word": "华春莹连发13张图宣传中国制造",
@@ -10587,6 +10595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386747,
+      "num": 96681,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 386578,
       "num": 386578,
       "word": "你好二十大",
@@ -11065,14 +11081,6 @@
       "onboard_time": 1664793142,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370846,
-      "num": 96731,
-      "word": "全红婵陈芋汐双人10米台夺冠",
-      "onboard_time": 1666355903,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 370784,
@@ -15147,6 +15155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267188,
+      "num": 96699,
+      "word": "海恩站起来了",
+      "onboard_time": 1666354823,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267061,
       "num": 267061,
       "word": "吴谨言为许凯新剧做宣传",
@@ -15753,14 +15769,6 @@
       "onboard_time": 1666335262,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 255530,
-      "num": 96699,
-      "word": "海恩站起来了",
-      "onboard_time": 1666354823,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 254954,
@@ -16825,6 +16833,14 @@
       "onboard_time": 1666204213,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238247,
+      "num": 96598,
+      "word": "外交部回应特拉斯辞职",
+      "onboard_time": 1666356743,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 238124,
@@ -19955,6 +19971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193401,
+      "num": 81523,
+      "word": "比特币集团考虑竞标收购德国银行",
+      "onboard_time": 1666357641,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193387,
       "num": 188519,
       "word": "陈立农说女生需要宣泄口",
@@ -20417,6 +20441,14 @@
       "onboard_time": 1666124351,
       "rank": 43,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 187731,
+      "num": 96657,
+      "word": "上一段恋爱中最遗憾的事",
+      "onboard_time": 1666355724,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 187542,
@@ -20993,14 +21025,6 @@
       "onboard_time": 1664720846,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 180714,
-      "num": 96681,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 180587,
@@ -25291,14 +25315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129135,
-      "num": 96657,
-      "word": "上一段恋爱中最遗憾的事",
-      "onboard_time": 1666355724,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "中国空间站也发迎新视频了",
@@ -26025,6 +26041,14 @@
       "onboard_time": 1664848641,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121261,
+      "num": 81470,
+      "word": "泰勒斯威夫特新歌MV",
+      "onboard_time": 1666357343,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 121215,
@@ -28187,6 +28211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98826,
+      "num": 81437,
+      "word": "三悦年度好哭剧",
+      "onboard_time": 1666356983,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98752,
       "num": 106986,
       "word": "信鸽遇大风飞偏被女子收留",
@@ -29603,6 +29635,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 83576,
+      "num": 96612,
+      "word": "StrayKids说中文",
+      "onboard_time": 1666353501,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83467,
+      "num": 81661,
+      "word": "党的二十大报告提到的大国重器",
+      "onboard_time": 1666357165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83440,
       "num": 83440,
       "word": "国乒男团举起斯韦思林杯",
@@ -30371,20 +30419,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74455,
+      "num": 81393,
+      "word": "王源透过航拍中国看成长初心",
+      "onboard_time": 1666358724,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74398,
       "num": 1350531,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 74184,
-      "num": 96612,
-      "word": "StrayKids说中文",
-      "onboard_time": 1666353501,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 74141,
@@ -30433,6 +30481,14 @@
       "onboard_time": 1666080682,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73785,
+      "num": 81388,
+      "word": "里贝里宣布退役",
+      "onboard_time": 1666358782,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73653,
@@ -31065,14 +31121,6 @@
       "onboard_time": 1664838496,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66362,
-      "num": 96598,
-      "word": "外交部回应特拉斯辞职",
-      "onboard_time": 1666356743,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 66331,
@@ -32555,6 +32603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46014,
+      "num": 98409,
+      "word": "二十大报告描绘了这样一个强国",
+      "onboard_time": 1666349902,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45959,
       "num": 264337,
       "word": "老人为病妻写40万字护理日记",
@@ -32960,14 +33016,6 @@
       "word": "神奇的太空微重力环境",
       "onboard_time": 1665579684,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36464,
-      "num": 98409,
-      "word": "二十大报告描绘了这样一个强国",
-      "onboard_time": 1666349902,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -33817,6 +33865,14 @@
       "onboard_time": 1666204572,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8004,
+      "num": 81619,
+      "word": "绿色逐步成为我国高质量发展底色",
+      "onboard_time": 1666357463,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7982,

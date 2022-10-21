@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666356897999,
+  "endTime": 1666358928802,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918940,
+      "num": 96731,
+      "word": "全红婵陈芋汐双人10米台夺冠",
+      "onboard_time": 1666355903,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 917528,
       "num": 155074,
       "word": "肯德基回应点芙蓉汤外卖只收到干料",
@@ -825,6 +833,14 @@
       "onboard_time": 1666315763,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 687237,
+      "num": 96767,
+      "word": "3男子忘付餐费3小时后专程返回补还",
+      "onboard_time": 1666354702,
+      "rank": 5,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 685446,
@@ -1523,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478806,
-      "num": 96767,
-      "word": "3男子忘付餐费3小时后专程返回补还",
-      "onboard_time": 1666354702,
-      "rank": 5,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 477993,
       "num": 145552,
       "word": "恋爱真的很难吗",
@@ -1987,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386747,
+      "num": 96681,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 386111,
       "num": 305631,
       "word": "全红婵207C拿到10分",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1666347802,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 370846,
-      "num": 96731,
-      "word": "全红婵陈芋汐双人10米台夺冠",
-      "onboard_time": 1666355903,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 369527,
@@ -3083,6 +3091,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 267188,
+      "num": 96699,
+      "word": "海恩站起来了",
+      "onboard_time": 1666354823,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266507,
       "num": 97580,
       "word": "狗子自己下楼遛弯乘电梯回家",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1666335262,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 255530,
-      "num": 96699,
-      "word": "海恩站起来了",
-      "onboard_time": 1666354823,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 253663,
@@ -3433,6 +3441,14 @@
       "onboard_time": 1666204213,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238247,
+      "num": 96598,
+      "word": "外交部回应特拉斯辞职",
+      "onboard_time": 1666356743,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 237477,
@@ -4203,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193401,
+      "num": 81523,
+      "word": "比特币集团考虑竞标收购德国银行",
+      "onboard_time": 1666357641,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193387,
       "num": 188519,
       "word": "陈立农说女生需要宣泄口",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1666124351,
       "rank": 43,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 187731,
+      "num": 96657,
+      "word": "上一段恋爱中最遗憾的事",
+      "onboard_time": 1666355724,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 187542,
@@ -4481,14 +4513,6 @@
       "onboard_time": 1665994882,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180714,
-      "num": 96681,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 180587,
@@ -5539,14 +5563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129135,
-      "num": 96657,
-      "word": "上一段恋爱中最遗憾的事",
-      "onboard_time": 1666355724,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128926,
       "num": 74421,
       "word": "八旬夫妻穿情侣装牵手散步",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1666353802,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121261,
+      "num": 81470,
+      "word": "泰勒斯威夫特新歌MV",
+      "onboard_time": 1666357343,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 121007,
@@ -6195,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98826,
+      "num": 81437,
+      "word": "三悦年度好哭剧",
+      "onboard_time": 1666356983,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98752,
       "num": 106986,
       "word": "信鸽遇大风飞偏被女子收留",
@@ -6627,6 +6659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83576,
+      "num": 96612,
+      "word": "StrayKids说中文",
+      "onboard_time": 1666353501,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83467,
+      "num": 81661,
+      "word": "党的二十大报告提到的大国重器",
+      "onboard_time": 1666357165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82707,
       "num": 95610,
       "word": "山海情凌教授原型79岁仍在搞科研",
@@ -6835,12 +6883,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74184,
-      "num": 96612,
-      "word": "StrayKids说中文",
-      "onboard_time": 1666353501,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 74455,
+      "num": 81393,
+      "word": "王源透过航拍中国看成长初心",
+      "onboard_time": 1666358724,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 73993,
@@ -6873,6 +6921,14 @@
       "onboard_time": 1666080682,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73785,
+      "num": 81388,
+      "word": "里贝里宣布退役",
+      "onboard_time": 1666358782,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72990,
@@ -7065,14 +7121,6 @@
       "onboard_time": 1666301170,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 66362,
-      "num": 96598,
-      "word": "外交部回应特拉斯辞职",
-      "onboard_time": 1666356743,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 66108,
@@ -7483,6 +7531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46014,
+      "num": 98409,
+      "word": "二十大报告描绘了这样一个强国",
+      "onboard_time": 1666349902,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -7584,14 +7640,6 @@
       "word": "从现在起中国共产党的中心任务",
       "onboard_time": 1665889471,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36464,
-      "num": 98409,
-      "word": "二十大报告描绘了这样一个强国",
-      "onboard_time": 1666349902,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7857,6 +7905,14 @@
       "onboard_time": 1666204572,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8004,
+      "num": 81619,
+      "word": "绿色逐步成为我国高质量发展底色",
+      "onboard_time": 1666357463,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7595,
