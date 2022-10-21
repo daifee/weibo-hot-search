@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666362170168,
+  "endTime": 1666364227188,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1666147701,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1537787,
+      "num": 42253,
+      "word": "陈梦2比3斯佐科斯",
+      "onboard_time": 1666362863,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1535241,
@@ -7179,6 +7187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 521413,
+      "num": 69085,
+      "word": "十七岁喜欢的人怎么样了",
+      "onboard_time": 1666359145,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519920,
       "num": 489965,
       "word": "脱口秀大会5官宣王濛",
@@ -7635,6 +7651,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 497804,
+      "num": 96681,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 497720,
       "num": 497720,
       "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
@@ -8017,14 +8041,6 @@
       "onboard_time": 1664973205,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 477538,
-      "num": 96681,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 477184,
@@ -9185,14 +9201,6 @@
       "onboard_time": 1665021201,
       "rank": 22,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 433548,
-      "num": 69085,
-      "word": "十七岁喜欢的人怎么样了",
-      "onboard_time": 1666359145,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 433468,
@@ -11635,6 +11643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353361,
+      "num": 63013,
+      "word": "罗云熙白鹿长月烬明过审",
+      "onboard_time": 1666361303,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352989,
       "num": 352989,
       "word": "樊振东17板极限对拉",
@@ -13771,14 +13787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295076,
-      "num": 63013,
-      "word": "罗云熙白鹿长月烬明过审",
-      "onboard_time": 1666361303,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295042,
       "num": 295042,
       "word": "双十一24日晚八点预售",
@@ -14667,6 +14675,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 275397,
+      "num": 62988,
+      "word": "静雪",
+      "onboard_time": 1666361123,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275341,
       "num": 275341,
       "word": "呼兰躺和卷是不一样的价格",
@@ -14713,6 +14729,14 @@
       "onboard_time": 1666337184,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274561,
+      "num": 68919,
+      "word": "C罗被罚两周薪水",
+      "onboard_time": 1666360824,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 274495,
@@ -16332,7 +16356,7 @@
     },
     {
       "raw_hot": 248557,
-      "num": 315746,
+      "num": 461481,
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 4,
@@ -21211,14 +21235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178406,
-      "num": 68919,
-      "word": "C罗被罚两周薪水",
-      "onboard_time": 1666360824,
-      "rank": 49,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 178402,
       "num": 178402,
       "word": "这羊驼怎么人里人气的",
@@ -21601,6 +21617,14 @@
       "onboard_time": 1665739342,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 171928,
+      "num": 68945,
+      "word": "钓鱼到底有多花钱",
+      "onboard_time": 1666359864,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 171784,
@@ -22747,6 +22771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158766,
+      "num": 81661,
+      "word": "党的二十大报告提到的大国重器",
+      "onboard_time": 1666357165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158673,
       "num": 158673,
       "word": "欧冠",
@@ -23651,14 +23683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148040,
-      "num": 68945,
-      "word": "钓鱼到底有多花钱",
-      "onboard_time": 1666359864,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148018,
       "num": 66790,
       "word": "RNG可惜",
@@ -23704,14 +23728,6 @@
       "word": "张开泰犬系男友",
       "onboard_time": 1665989181,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 147455,
-      "num": 62988,
-      "word": "静雪",
-      "onboard_time": 1666361123,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -23801,6 +23817,14 @@
       "onboard_time": 1665649822,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146292,
+      "num": 42107,
+      "word": "阚清子发文告别沸腾人生",
+      "onboard_time": 1666363408,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 146195,
@@ -25329,14 +25353,6 @@
       "onboard_time": 1665544285,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129826,
-      "num": 81661,
-      "word": "党的二十大报告提到的大国重器",
-      "onboard_time": 1666357165,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129707,
@@ -28424,6 +28440,14 @@
       "word": "小伙航拍杭州酷似数字0到9的建筑",
       "onboard_time": 1665830785,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97274,
+      "num": 42043,
+      "word": "女子被骗12万一番神操作全额追回",
+      "onboard_time": 1666363765,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -33441,6 +33465,14 @@
       "onboard_time": 1665614596,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22831,
+      "num": 42222,
+      "word": "党的二十大报告这样谈团结奋斗",
+      "onboard_time": 1666357102,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22535,
