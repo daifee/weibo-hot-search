@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666385099112,
+  "endTime": 1666387441938,
   "band_list": [
     {
       "raw_hot": 570425,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65017,
+      "num": 1289,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64877,
       "num": 66688,
       "word": "虞书欣张彬彬两个人的小森林评分降了",
@@ -403,11 +411,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42529,
-      "num": 826,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
+      "raw_hot": 34978,
+      "num": 1342,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -427,19 +435,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23921,
-      "num": 834,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22888,
       "num": 66754,
       "word": "中国是全球森林增长最多国家",
       "onboard_time": 1666370299,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19809,
+      "num": 1280,
+      "word": "义乌市委书记谈取暖神器热销欧洲",
+      "onboard_time": 1666385171,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -481,6 +489,22 @@
       "onboard_time": 1666383551,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6797,
+      "num": 1105,
+      "word": "女孩突发昏厥热心人骑车紧急送医",
+      "onboard_time": 1666386971,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 6658,
+      "num": 1102,
+      "word": "没想到腿疼的人下楼能这么丝滑",
+      "onboard_time": 1666387213,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2504,
