@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666372016544,
+  "endTime": 1666373795055,
   "band_list": [
     {
       "raw_hot": 570425,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33980,
+      "num": 38277,
+      "word": "BLACKPINK将参加海德公园音乐节",
+      "onboard_time": 1666343964,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32050,
       "num": 218338,
       "word": "党的二十大报告这样谈团结奋斗",
@@ -403,7 +411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16975,
+      "raw_hot": 18175,
       "num": 66754,
       "word": "中国是全球森林增长最多国家",
       "onboard_time": 1666370299,
