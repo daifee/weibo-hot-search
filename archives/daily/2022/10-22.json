@@ -1,7 +1,15 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666388552535,
+  "endTime": 1666395062835,
   "band_list": [
+    {
+      "raw_hot": 2324975,
+      "num": 7799,
+      "word": "RNG对战T1",
+      "onboard_time": 1666394297,
+      "rank": 10,
+      "category": "游戏"
+    },
     {
       "raw_hot": 570425,
       "num": 66764,
@@ -16,6 +24,14 @@
       "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
       "onboard_time": 1666366105,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505368,
+      "num": 66760,
+      "word": "坚持跑步10年会有什么变化",
+      "onboard_time": 1666344562,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -35,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390777,
+      "num": 7792,
+      "word": "RNG被翻盘",
+      "onboard_time": 1666394358,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 344134,
       "num": 66734,
       "word": "lulu 金钟奖",
@@ -51,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289775,
-      "num": 66760,
-      "word": "坚持跑步10年会有什么变化",
-      "onboard_time": 1666344562,
-      "rank": 6,
+      "raw_hot": 308581,
+      "num": 7777,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258335,
+      "num": 66746,
+      "word": "90后老师出题答案全选A",
+      "onboard_time": 1666355481,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 254436,
@@ -67,20 +99,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248676,
-      "num": 66746,
-      "word": "90后老师出题答案全选A",
-      "onboard_time": 1666355481,
-      "rank": 14,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 241732,
       "num": 66743,
       "word": "第一次吃西餐是什么体验",
       "onboard_time": 1666367484,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217334,
+      "num": 66757,
+      "word": "陈梦2比3斯佐科斯",
+      "onboard_time": 1666362863,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 207215,
@@ -91,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205646,
-      "num": 66757,
-      "word": "陈梦2比3斯佐科斯",
-      "onboard_time": 1666362863,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203398,
       "num": 54331,
       "word": "杨坤马嘉祺唱的自己",
@@ -107,12 +131,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201090,
+      "num": 7775,
+      "word": "小虎在干嘛",
+      "onboard_time": 1666394598,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191404,
+      "num": 66729,
+      "word": "90后男生全款4万买房移居鹤岗",
+      "onboard_time": 1666327948,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 183103,
       "num": 66741,
       "word": "比王宝钏还恋爱脑的是秦香莲",
       "onboard_time": 1666346062,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181527,
+      "num": 66723,
+      "word": "3男子忘付餐费3小时后专程返回补还",
+      "onboard_time": 1666354702,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 173050,
@@ -131,12 +179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159226,
-      "num": 66729,
-      "word": "90后男生全款4万买房移居鹤岗",
-      "onboard_time": 1666327948,
-      "rank": 24,
-      "category": "社会新闻,财经"
+      "raw_hot": 169055,
+      "num": 7779,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163910,
+      "num": 66720,
+      "word": "它怎么有点像周杰伦",
+      "onboard_time": 1666369999,
+      "rank": 28,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 154002,
@@ -155,28 +211,36 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 152667,
-      "num": 66723,
-      "word": "3男子忘付餐费3小时后专程返回补还",
-      "onboard_time": 1666354702,
-      "rank": 26,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 152478,
-      "num": 66720,
-      "word": "它怎么有点像周杰伦",
-      "onboard_time": 1666369999,
-      "rank": 28,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 151116,
       "num": 66723,
       "word": "周杰伦新歌",
       "onboard_time": 1666326443,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149201,
+      "num": 7767,
+      "word": "初一学生拔河比赛老师被原地弹飞",
+      "onboard_time": 1666390573,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 145928,
+      "num": 7767,
+      "word": "没想到腿疼的人下楼能这么丝滑",
+      "onboard_time": 1666387213,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133088,
+      "num": 7765,
+      "word": "谷歌日本造了个1.65米单排键盘",
+      "onboard_time": 1666388351,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 129249,
@@ -195,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127393,
+      "num": 7760,
+      "word": "义乌市委书记谈取暖神器热销欧洲",
+      "onboard_time": 1666385171,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124682,
       "num": 66714,
       "word": "日剧静雪",
@@ -203,11 +275,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116622,
+      "num": 66706,
+      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+      "onboard_time": 1666337545,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113889,
       "num": 66701,
       "word": "狗子帮助主人拿快递还会扫码出库",
       "onboard_time": 1666368981,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112116,
+      "num": 66698,
+      "word": "地震被埋45天小猪见主人非常温顺",
+      "onboard_time": 1666343183,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -267,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96331,
-      "num": 66706,
-      "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
-      "onboard_time": 1666337545,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93145,
       "num": 66736,
       "word": "滕哈格确认C罗拒绝替补出场",
@@ -297,14 +377,6 @@
       "onboard_time": 1666357641,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81456,
-      "num": 66698,
-      "word": "地震被埋45天小猪见主人非常温顺",
-      "onboard_time": 1666343183,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80526,
@@ -340,18 +412,10 @@
     },
     {
       "raw_hot": 66767,
-      "num": 66767,
+      "num": 133764,
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65017,
-      "num": 2613,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -361,6 +425,14 @@
       "onboard_time": 1666344442,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61512,
+      "num": 7718,
+      "word": "T1先下一城",
+      "onboard_time": 1666394418,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 61123,
@@ -403,20 +475,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 43634,
+      "num": 7713,
+      "word": "罗本超市救小孩反应迅速",
+      "onboard_time": 1666389314,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42579,
       "num": 53845,
       "word": "我们的歌",
       "onboard_time": 1666352841,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35547,
-      "num": 2643,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33980,
@@ -435,11 +507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24833,
-      "num": 2604,
-      "word": "义乌市委书记谈取暖神器热销欧洲",
-      "onboard_time": 1666385171,
-      "rank": 22,
+      "raw_hot": 25111,
+      "num": 25111,
+      "word": "我国67%罕见病用药已纳入医保",
+      "onboard_time": 1666312525,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -448,6 +520,22 @@
       "word": "中国是全球森林增长最多国家",
       "onboard_time": 1666370299,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22634,
+      "num": 22634,
+      "word": "大美中国将美丽进行到底",
+      "onboard_time": 1666393936,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20803,
+      "num": 20803,
+      "word": "党的二十大报告点赞这些科技领域",
+      "onboard_time": 1666393936,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -475,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9011,
-      "num": 2512,
-      "word": "没想到腿疼的人下楼能这么丝滑",
-      "onboard_time": 1666387213,
-      "rank": 49,
+      "raw_hot": 7800,
+      "num": 7800,
+      "word": "黄河三角洲震撼心灵的瞬间",
+      "onboard_time": 1666270824,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -505,22 +593,6 @@
       "onboard_time": 1666386971,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 6767,
-      "num": 2495,
-      "word": "谷歌日本造了个1.65米单排键盘",
-      "onboard_time": 1666388351,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 2735,
-      "num": 14332,
-      "word": "我国67%罕见病用药已纳入医保",
-      "onboard_time": 1666312525,
-      "rank": 11,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

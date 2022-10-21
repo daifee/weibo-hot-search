@@ -1,0 +1,410 @@
+{
+  "runTime": 1666395062835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 48894,
+        "num": 133764,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52622,
+        "num": 24937,
+        "word": "党的二十大报告提到的大国重器",
+        "onboard_time": 1666357165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505368,
+        "num": 23869,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22634,
+        "num": 22634,
+        "word": "大美中国将美丽进行到底",
+        "onboard_time": 1666393936,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217334,
+        "num": 21890,
+        "word": "陈梦2比3斯佐科斯",
+        "onboard_time": 1666362863,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107931,
+        "num": 21737,
+        "word": "C罗被罚两周薪水",
+        "onboard_time": 1666360824,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 106200,
+        "num": 21418,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20803,
+        "num": 20803,
+        "word": "党的二十大报告点赞这些科技领域",
+        "onboard_time": 1666393936,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7800,
+        "num": 7800,
+        "word": "黄河三角洲震撼心灵的瞬间",
+        "onboard_time": 1666270824,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2324975,
+        "num": 7799,
+        "word": "RNG对战T1",
+        "onboard_time": 1666394297,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326182,
+        "num": 7795,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258335,
+        "num": 7794,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 390777,
+        "num": 7792,
+        "word": "RNG被翻盘",
+        "onboard_time": 1666394358,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223696,
+        "num": 7789,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191418,
+        "num": 7786,
+        "word": "鹤岗顶楼五六百一平米引火热咨询",
+        "onboard_time": 1666353323,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181527,
+        "num": 7785,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 171530,
+        "num": 7783,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191404,
+        "num": 7780,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 169055,
+        "num": 7779,
+        "word": "33岁男子隔窗陪出租屋萌娃聊天",
+        "onboard_time": 1666381631,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308581,
+        "num": 7777,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201090,
+        "num": 7775,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180342,
+        "num": 7771,
+        "word": "lulu 金钟奖",
+        "onboard_time": 1666365506,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163910,
+        "num": 7769,
+        "word": "它怎么有点像周杰伦",
+        "onboard_time": 1666369999,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 149201,
+        "num": 7767,
+        "word": "初一学生拔河比赛老师被原地弹飞",
+        "onboard_time": 1666390573,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145928,
+        "num": 7767,
+        "word": "没想到腿疼的人下楼能这么丝滑",
+        "onboard_time": 1666387213,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133088,
+        "num": 7765,
+        "word": "谷歌日本造了个1.65米单排键盘",
+        "onboard_time": 1666388351,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127393,
+        "num": 7760,
+        "word": "义乌市委书记谈取暖神器热销欧洲",
+        "onboard_time": 1666385171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 7760,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112116,
+        "num": 7758,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107639,
+        "num": 7755,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95038,
+        "num": 7751,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93092,
+        "num": 7749,
+        "word": "第一次吃西餐是什么体验",
+        "onboard_time": 1666367484,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90554,
+        "num": 7747,
+        "word": "马琳",
+        "onboard_time": 1666364665,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83398,
+        "num": 7746,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 77674,
+        "num": 7745,
+        "word": "马嘉祺发文感谢杨坤",
+        "onboard_time": 1666366583,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77472,
+        "num": 7741,
+        "word": "狗子帮助主人拿快递还会扫码出库",
+        "onboard_time": 1666368981,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74250,
+        "num": 7740,
+        "word": "马龙vs邱党",
+        "onboard_time": 1666363225,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73756,
+        "num": 7737,
+        "word": "金钟奖",
+        "onboard_time": 1666354823,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67217,
+        "num": 7734,
+        "word": "外交部回应特拉斯辞职",
+        "onboard_time": 1666356743,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60264,
+        "num": 7733,
+        "word": "大学没谈过恋爱会后悔吗",
+        "onboard_time": 1666352962,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58357,
+        "num": 7730,
+        "word": "日剧静雪",
+        "onboard_time": 1666361123,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58120,
+        "num": 7729,
+        "word": "十七岁喜欢的人怎么样了",
+        "onboard_time": 1666359145,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57519,
+        "num": 7725,
+        "word": "换乘恋爱",
+        "onboard_time": 1666345400,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55781,
+        "num": 7724,
+        "word": "钓鱼到底有多花钱",
+        "onboard_time": 1666359864,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52761,
+        "num": 7721,
+        "word": "滕哈格确认C罗拒绝替补出场",
+        "onboard_time": 1666351342,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61512,
+        "num": 7718,
+        "word": "T1先下一城",
+        "onboard_time": 1666394418,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46667,
+        "num": 7716,
+        "word": "比特币集团考虑竞标收购德国银行",
+        "onboard_time": 1666357641,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47225,
+        "num": 7716,
+        "word": "陈梦止步澳门赛16强",
+        "onboard_time": 1666365385,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43634,
+        "num": 7713,
+        "word": "罗本超市救小孩反应迅速",
+        "onboard_time": 1666389314,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些强国热词是奋斗的方向和目标#"
+    }
+  }
+}

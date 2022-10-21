@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666388552535,
+  "endTime": 1666395062835,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -25,6 +25,14 @@
       "onboard_time": 1666009161,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2324975,
+      "num": 7799,
+      "word": "RNG对战T1",
+      "onboard_time": 1666394297,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 2057786,
@@ -2043,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 390777,
+      "num": 7792,
+      "word": "RNG被翻盘",
+      "onboard_time": 1666394358,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390321,
       "num": 151606,
       "word": "当姐妹知道你分手了",
@@ -2688,6 +2704,14 @@
       "word": "猫啃坏3条数据线女子买串珠防护",
       "onboard_time": 1666179385,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308581,
+      "num": 7777,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4267,6 +4291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 201090,
+      "num": 7775,
+      "word": "小虎在干嘛",
+      "onboard_time": 1666394598,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200817,
       "num": 110168,
       "word": "这是种很新的简历写法",
@@ -4939,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169055,
+      "num": 7779,
+      "word": "33岁男子隔窗陪出租屋萌娃聊天",
+      "onboard_time": 1666381631,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168518,
       "num": 138384,
       "word": "来猫咪家串门的小狗",
@@ -5033,6 +5073,14 @@
       "onboard_time": 1666234042,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163910,
+      "num": 66720,
+      "word": "它怎么有点像周杰伦",
+      "onboard_time": 1666369999,
+      "rank": 28,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 162367,
@@ -5195,14 +5243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152478,
-      "num": 66720,
-      "word": "它怎么有点像周杰伦",
-      "onboard_time": 1666369999,
-      "rank": 28,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 152074,
       "num": 92039,
       "word": "龙之家族",
@@ -5283,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149201,
+      "num": 7767,
+      "word": "初一学生拔河比赛老师被原地弹飞",
+      "onboard_time": 1666390573,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 149153,
       "num": 138198,
       "word": "金州勇士领取总冠军戒指",
@@ -5353,6 +5401,14 @@
       "onboard_time": 1666363408,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145928,
+      "num": 7767,
+      "word": "没想到腿疼的人下楼能这么丝滑",
+      "onboard_time": 1666387213,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145698,
@@ -5627,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133088,
+      "num": 7765,
+      "word": "谷歌日本造了个1.65米单排键盘",
+      "onboard_time": 1666388351,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 133021,
       "num": 181970,
       "word": "柯基蹑手蹑脚潜到主人床边睡觉",
@@ -5769,6 +5833,14 @@
       "onboard_time": 1666236024,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127393,
+      "num": 7760,
+      "word": "义乌市委书记谈取暖神器热销欧洲",
+      "onboard_time": 1666385171,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127364,
@@ -7347,14 +7419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65017,
-      "num": 2613,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64367,
       "num": 64367,
       "word": "乌云遇皎月全员遇见大结局",
@@ -7489,6 +7553,14 @@
       "onboard_time": 1666242086,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 61512,
+      "num": 7718,
+      "word": "T1先下一城",
+      "onboard_time": 1666394418,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 60957,
@@ -7779,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43634,
+      "num": 7713,
+      "word": "罗本超市救小孩反应迅速",
+      "onboard_time": 1666389314,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43142,
       "num": 236136,
       "word": "记者带你见证二十大开幕会",
@@ -7883,14 +7963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35547,
-      "num": 2643,
-      "word": "33岁男子隔窗陪出租屋萌娃聊天",
-      "onboard_time": 1666381631,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35329,
       "num": 264911,
       "word": "祖国各地的二十大时光",
@@ -7987,19 +8059,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24833,
-      "num": 2604,
-      "word": "义乌市委书记谈取暖神器热销欧洲",
-      "onboard_time": 1666385171,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22888,
       "num": 66754,
       "word": "中国是全球森林增长最多国家",
       "onboard_time": 1666370299,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22634,
+      "num": 22634,
+      "word": "大美中国将美丽进行到底",
+      "onboard_time": 1666393936,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20803,
+      "num": 20803,
+      "word": "党的二十大报告点赞这些科技领域",
+      "onboard_time": 1666393936,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8163,14 +8243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9011,
-      "num": 2512,
-      "word": "没想到腿疼的人下楼能这么丝滑",
-      "onboard_time": 1666387213,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8024,
       "num": 40199,
       "word": "这简直是我的梦中情房",
@@ -8241,14 +8313,6 @@
       "onboard_time": 1666386971,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 6767,
-      "num": 2495,
-      "word": "谷歌日本造了个1.65米单排键盘",
-      "onboard_time": 1666388351,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 6553,

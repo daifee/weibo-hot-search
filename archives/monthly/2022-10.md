@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 05:42:32
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 07:31:02
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%23" target="weibo">
 长津湖首播收视率第一（热度：2341878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+RNG对战T1（热度：2324975）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LGD（热度：496178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8F%91%E8%B6%8A%E5%A4%9A%23" target="weibo">
 诺贝尔奖奖金为什么越发越多（热度：481559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%9C%89%E5%BF%85%E8%A6%81%E4%B9%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%90%97%23" target="weibo">
-广东人有必要买羽绒服吗（热度：481462）
 </a>
 </li>
 
