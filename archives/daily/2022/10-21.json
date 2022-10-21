@@ -1,6 +1,6 @@
 {
   "startTime": 1666284065786,
-  "endTime": 1666344628862,
+  "endTime": 1666345822748,
   "band_list": [
     {
       "raw_hot": 1583737,
@@ -105,6 +105,14 @@
       "onboard_time": 1666343964,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 601575,
+      "num": 63352,
+      "word": "虞书欣张彬彬两个人的小森林评分降了",
+      "onboard_time": 1666344442,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 589474,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413166,
+      "num": 63372,
+      "word": "特斯拉前董事认定比亚迪是唯一挑战者",
+      "onboard_time": 1666343124,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 401504,
       "num": 219596,
       "word": "李汶翰回不去的乐华",
@@ -347,12 +363,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 344862,
-      "num": 63352,
-      "word": "虞书欣张彬彬两个人的小森林评分降了",
-      "onboard_time": 1666344442,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 343895,
+      "num": 305634,
+      "word": "航天员拍到月亮羞答答溜走",
+      "onboard_time": 1666330944,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 342171,
+      "num": 63328,
+      "word": "地震被埋45天小猪见主人非常温顺",
+      "onboard_time": 1666343183,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341540,
@@ -451,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286430,
-      "num": 305634,
-      "word": "航天员拍到月亮羞答答溜走",
-      "onboard_time": 1666330944,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 284630,
       "num": 224627,
       "word": "名校毕业生60岁投资失败失联24年",
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281406,
-      "num": 63372,
-      "word": "特斯拉前董事认定比亚迪是唯一挑战者",
-      "onboard_time": 1666343124,
-      "rank": 18,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 274614,
       "num": 215466,
       "word": "snow on the beach",
       "onboard_time": 1666337184,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266507,
+      "num": 63363,
+      "word": "狗子自己下楼遛弯乘电梯回家",
+      "onboard_time": 1666342883,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259485,
@@ -515,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252056,
+      "num": 58903,
+      "word": "校园虐文男主有了脸",
+      "onboard_time": 1666345463,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248557,
       "num": 305638,
       "word": "一张思维导图了解中国式现代化",
@@ -529,6 +553,14 @@
       "onboard_time": 1666261764,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245803,
+      "num": 58901,
+      "word": "换乘恋爱",
+      "onboard_time": 1666345400,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 244845,
@@ -587,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229152,
-      "num": 63363,
-      "word": "狗子自己下楼遛弯乘电梯回家",
-      "onboard_time": 1666342883,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228819,
       "num": 305631,
       "word": "全红婵207C拿到10分",
@@ -641,6 +665,14 @@
       "onboard_time": 1666324102,
       "rank": 27,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 214872,
+      "num": 84585,
+      "word": "90后小伙带癌症妈妈卖唱游全国",
+      "onboard_time": 1666341564,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214391,
@@ -707,14 +739,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 199220,
-      "num": 63328,
-      "word": "地震被埋45天小猪见主人非常温顺",
-      "onboard_time": 1666343183,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "味精真的被误解太久了",
@@ -752,14 +776,6 @@
       "word": "女子下厨招待朋友被狗子5分钟炫光",
       "onboard_time": 1666265064,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184439,
-      "num": 84585,
-      "word": "90后小伙带癌症妈妈卖唱游全国",
-      "onboard_time": 1666341564,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -843,11 +859,35 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 149463,
+      "num": 63274,
+      "word": "潘玮柏被认证吉祥物",
+      "onboard_time": 1666342764,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149259,
       "num": 189312,
       "word": "10月20日新增本土确诊158例",
       "onboard_time": 1666315465,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149161,
+      "num": 58894,
+      "word": "赵丽颖林更新与凤行实景",
+      "onboard_time": 1666345524,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148848,
+      "num": 63159,
+      "word": "坚持跑步10年会有什么变化",
+      "onboard_time": 1666344562,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -873,6 +913,14 @@
       "onboard_time": 1666278210,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140599,
+      "num": 63233,
+      "word": "女孩被家人拍头式拔牙",
+      "onboard_time": 1666343423,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139650,
@@ -913,14 +961,6 @@
       "onboard_time": 1666308979,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132329,
-      "num": 63274,
-      "word": "潘玮柏被认证吉祥物",
-      "onboard_time": 1666342764,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 131672,
@@ -1035,20 +1075,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111895,
-      "num": 63233,
-      "word": "女孩被家人拍头式拔牙",
-      "onboard_time": 1666343423,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110749,
       "num": 305614,
       "word": "男子为感谢民警冲进交警队修补墙面",
       "onboard_time": 1666332744,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105461,
+      "num": 63199,
+      "word": "袁嘉楠3比1陈思羽",
+      "onboard_time": 1666343484,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 104743,
@@ -1091,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98072,
-      "num": 63199,
-      "word": "袁嘉楠3比1陈思羽",
-      "onboard_time": 1666343484,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96362,
       "num": 96362,
       "word": "万神殿",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1666273948,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92215,
+      "num": 231813,
+      "word": "90后消防员成为二十大代表",
+      "onboard_time": 1666338265,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91618,
@@ -1219,27 +1259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76542,
-      "num": 63159,
-      "word": "坚持跑步10年会有什么变化",
-      "onboard_time": 1666344562,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76453,
       "num": 230066,
       "word": "一图了解二十大报告中的民生举措",
       "onboard_time": 1666315224,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74796,
-      "num": 231813,
-      "word": "90后消防员成为二十大代表",
-      "onboard_time": 1666338265,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1289,6 +1313,14 @@
       "onboard_time": 1666270105,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69308,
+      "num": 197393,
+      "word": "二十大代表话经济",
+      "onboard_time": 1666341861,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 67615,
@@ -1411,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44079,
-      "num": 197393,
-      "word": "二十大代表话经济",
-      "onboard_time": 1666341861,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 35329,
       "num": 244126,
       "word": "祖国各地的二十大时光",
@@ -1431,6 +1455,14 @@
       "num": 222508,
       "word": "二十大代表共话乡村振兴",
       "onboard_time": 1666314745,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19965,
+      "num": 58925,
+      "word": "二十大报告透露中国大食物观",
+      "onboard_time": 1666345043,
       "rank": 9,
       "category": "社会新闻"
     },

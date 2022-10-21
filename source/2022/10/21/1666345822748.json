@@ -1,0 +1,410 @@
+{
+  "runTime": 1666345822748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 215445,
+        "num": 215445,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92215,
+        "num": 92215,
+        "word": "90后消防员成为二十大代表",
+        "onboard_time": 1666338265,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69308,
+        "num": 88842,
+        "word": "二十大代表话经济",
+        "onboard_time": 1666341861,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 480596,
+        "num": 88230,
+        "word": "女子捐10元4个月后收到还款道谢",
+        "onboard_time": 1666310785,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 343895,
+        "num": 87340,
+        "word": "航天员拍到月亮羞答答溜走",
+        "onboard_time": 1666330944,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 86216,
+        "num": 86216,
+        "word": "WTT澳门冠军赛2022",
+        "onboard_time": 1666323382,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77120,
+        "num": 77120,
+        "word": "卡塔尔世界杯倒计时30天",
+        "onboard_time": 1666322181,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60702,
+        "num": 60702,
+        "word": "全红婵207C拿到10分",
+        "onboard_time": 1666276229,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58926,
+        "num": 58926,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 58925,
+        "word": "二十大报告透露中国大食物观",
+        "onboard_time": 1666345043,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494256,
+        "num": 58924,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 482391,
+        "num": 58921,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413166,
+        "num": 58921,
+        "word": "特斯拉前董事认定比亚迪是唯一挑战者",
+        "onboard_time": 1666343124,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 368573,
+        "num": 58919,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 342171,
+        "num": 58917,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311535,
+        "num": 58916,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311539,
+        "num": 58914,
+        "word": "鹤岗1.5万全款买房女子发声",
+        "onboard_time": 1666316603,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266507,
+        "num": 58913,
+        "word": "狗子自己下楼遛弯乘电梯回家",
+        "onboard_time": 1666342883,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265854,
+        "num": 58912,
+        "word": "螃蟹上餐桌前成功解绳男子守诺放生",
+        "onboard_time": 1666336583,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258274,
+        "num": 58911,
+        "word": "高德地图适配苹果灵动岛",
+        "onboard_time": 1666340544,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 601575,
+        "num": 58909,
+        "word": "虞书欣张彬彬两个人的小森林评分降了",
+        "onboard_time": 1666344442,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531308,
+        "num": 58907,
+        "word": "BLACKPINK将参加海德公园音乐节",
+        "onboard_time": 1666343964,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304898,
+        "num": 58905,
+        "word": "周杰伦新歌",
+        "onboard_time": 1666326443,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257358,
+        "num": 58905,
+        "word": "长江排查出6万多个排污口",
+        "onboard_time": 1666327526,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252056,
+        "num": 58903,
+        "word": "校园虐文男主有了脸",
+        "onboard_time": 1666345463,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245803,
+        "num": 58901,
+        "word": "换乘恋爱",
+        "onboard_time": 1666345400,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214872,
+        "num": 58900,
+        "word": "90后小伙带癌症妈妈卖唱游全国",
+        "onboard_time": 1666341564,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195023,
+        "num": 58898,
+        "word": "中国移动日赚3.61亿",
+        "onboard_time": 1666328724,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149463,
+        "num": 58897,
+        "word": "潘玮柏被认证吉祥物",
+        "onboard_time": 1666342764,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149161,
+        "num": 58894,
+        "word": "赵丽颖林更新与凤行实景",
+        "onboard_time": 1666345524,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148848,
+        "num": 58894,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 58892,
+        "word": "日本三菱电机因数据造假处罚22名高管",
+        "onboard_time": 1666340005,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 140599,
+        "num": 58891,
+        "word": "女孩被家人拍头式拔牙",
+        "onboard_time": 1666343423,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140256,
+        "num": 58890,
+        "word": "你心中顾漫小说改编最成功的剧",
+        "onboard_time": 1666328305,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140013,
+        "num": 58887,
+        "word": "snow on the beach",
+        "onboard_time": 1666337184,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139461,
+        "num": 58886,
+        "word": "男孩只做对1道题被老师疯狂夸奖",
+        "onboard_time": 1666335262,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137050,
+        "num": 58885,
+        "word": "TES 菜",
+        "onboard_time": 1666312825,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131156,
+        "num": 58883,
+        "word": "何以琛挖笋",
+        "onboard_time": 1666318402,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129378,
+        "num": 58881,
+        "word": "沈月猜内娱百灵鸟",
+        "onboard_time": 1666332563,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127495,
+        "num": 58881,
+        "word": "王一博智族GQ内页采访",
+        "onboard_time": 1666344621,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126443,
+        "num": 58878,
+        "word": "中国新能源汽车产销量居世界第一",
+        "onboard_time": 1666335862,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 58878,
+        "word": "我的恋爱脑和你们脱不了干系",
+        "onboard_time": 1666330464,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106212,
+        "num": 58876,
+        "word": "5岁男孩在去世奶奶坟前长跪不起",
+        "onboard_time": 1666325964,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105461,
+        "num": 58874,
+        "word": "袁嘉楠3比1陈思羽",
+        "onboard_time": 1666343484,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101910,
+        "num": 58873,
+        "word": "真诚是爱情的加分项吗",
+        "onboard_time": 1666338745,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98750,
+        "num": 58870,
+        "word": "蔡徐坤现象沸腾校园舞台预告",
+        "onboard_time": 1666342703,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98536,
+        "num": 58870,
+        "word": "中国动漫正学习敦煌文化",
+        "onboard_time": 1666341861,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91609,
+        "num": 58869,
+        "word": "群众自行灭油锅火怕尴尬拉黑消防",
+        "onboard_time": 1666334785,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87771,
+        "num": 58866,
+        "word": "2岁男孩米饭掉满身妈妈抱着让鸡啄",
+        "onboard_time": 1666325363,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85832,
+        "num": 58866,
+        "word": "TaylorSwift新专辑Midnights",
+        "onboard_time": 1666338444,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大主席团第三次会议#"
+    }
+  }
+}
