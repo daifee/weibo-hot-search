@@ -1,0 +1,410 @@
+{
+  "runTime": 1666317844868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243213,
+        "num": 313113,
+        "word": "党的二十大报告提到了这些精神",
+        "onboard_time": 1666281206,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171296,
+        "num": 171296,
+        "word": "中国外汇储备连续17年全球第一",
+        "onboard_time": 1666275509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35329,
+        "num": 170035,
+        "word": "祖国各地的二十大时光",
+        "onboard_time": 1666272145,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314128,
+        "num": 169572,
+        "word": "女子捐10元4个月后收到还款道谢",
+        "onboard_time": 1666310785,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 76453,
+        "num": 166806,
+        "word": "一图了解二十大报告中的民生举措",
+        "onboard_time": 1666315224,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 165618,
+        "word": "全红婵207C拿到10分",
+        "onboard_time": 1666276229,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202791,
+        "num": 164330,
+        "word": "骨质疏松症也叫静悄悄的流行病",
+        "onboard_time": 1666300331,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 162061,
+        "word": "快船vs湖人",
+        "onboard_time": 1666315703,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 161747,
+        "word": "全红婵陈芋汐断层优势晋级",
+        "onboard_time": 1666278390,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27749,
+        "num": 159658,
+        "word": "二十大代表共话乡村振兴",
+        "onboard_time": 1666314745,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087684,
+        "num": 157321,
+        "word": "TES 菜",
+        "onboard_time": 1666312825,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 740665,
+        "num": 156743,
+        "word": "鹤岗1.5万全款买房女子发声",
+        "onboard_time": 1666316603,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688773,
+        "num": 154454,
+        "word": "马斯克称准备裁掉75%推特员工",
+        "onboard_time": 1666315763,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 425160,
+        "num": 152663,
+        "word": "宁安如梦预约人数破100万",
+        "onboard_time": 1666317264,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419800,
+        "num": 151434,
+        "word": "老人2万多烧成焦炭银行还原1.99万",
+        "onboard_time": 1666316123,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335145,
+        "num": 150568,
+        "word": "JDG战胜RGE",
+        "onboard_time": 1666309643,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314543,
+        "num": 148350,
+        "word": "1条没回的信息救了8旬母亲一命",
+        "onboard_time": 1666255825,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308359,
+        "num": 147107,
+        "word": "蜜蜂猫出现了",
+        "onboard_time": 1666278869,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298820,
+        "num": 144993,
+        "word": "我国67%罕见病用药已纳入医保",
+        "onboard_time": 1666312525,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245428,
+        "num": 143132,
+        "word": "停车两年欠费5万的车主回应",
+        "onboard_time": 1666263323,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499733,
+        "num": 142822,
+        "word": "婆婆生日儿媳气球绑600元飘走",
+        "onboard_time": 1666314385,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304120,
+        "num": 140541,
+        "word": "孙女养生泡脚奶奶一旁喝酒吹瓶",
+        "onboard_time": 1666312224,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 318824,
+        "num": 138908,
+        "word": "C罗停赛停训后发声",
+        "onboard_time": 1666310544,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249643,
+        "num": 137513,
+        "word": "青年舞蹈家王迪去世",
+        "onboard_time": 1666317203,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240009,
+        "num": 135852,
+        "word": "宋木子木木洗澡呢",
+        "onboard_time": 1666312350,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214391,
+        "num": 134326,
+        "word": "10月20日新增本土无症状638例",
+        "onboard_time": 1666315465,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210881,
+        "num": 133593,
+        "word": "猫咪受了委屈也会找妈妈",
+        "onboard_time": 1666310844,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208676,
+        "num": 131890,
+        "word": "婚礼现场婆婆被宾客误认为是新娘",
+        "onboard_time": 1666255584,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202570,
+        "num": 129088,
+        "word": "频繁聊天可以理解为喜欢吗",
+        "onboard_time": 1666261764,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192248,
+        "num": 128695,
+        "word": "57岁父亲临终告诉子女水缸下有钱",
+        "onboard_time": 1666278629,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170925,
+        "num": 125895,
+        "word": "四川是叠词大省",
+        "onboard_time": 1666310002,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154851,
+        "num": 125788,
+        "word": "味精真的被误解太久了",
+        "onboard_time": 1666262845,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149259,
+        "num": 124101,
+        "word": "10月20日新增本土确诊158例",
+        "onboard_time": 1666315465,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139805,
+        "num": 122093,
+        "word": "原来夜礼服假面这么朴素",
+        "onboard_time": 1666274427,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139381,
+        "num": 120377,
+        "word": "RNG打破TI历史时间记录",
+        "onboard_time": 1666270285,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133021,
+        "num": 119295,
+        "word": "柯基蹑手蹑脚潜到主人床边睡觉",
+        "onboard_time": 1666308979,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130085,
+        "num": 116541,
+        "word": "雄鹿vs76人",
+        "onboard_time": 1666315043,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126159,
+        "num": 114953,
+        "word": "儿媳出产房婆婆跑着送花亲吻",
+        "onboard_time": 1666263443,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124744,
+        "num": 114254,
+        "word": "这朵云是懂浪漫的",
+        "onboard_time": 1666316783,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114226,
+        "num": 112344,
+        "word": "比亚迪唐德国售价比国内高出一倍",
+        "onboard_time": 1666280486,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107803,
+        "num": 110393,
+        "word": "JDG晋级半决赛",
+        "onboard_time": 1666309703,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106540,
+        "num": 109220,
+        "word": "90后舅舅接外甥女放学用英语流畅对话",
+        "onboard_time": 1666277369,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100519,
+        "num": 107044,
+        "word": "遇见喜欢的人你会主动吗",
+        "onboard_time": 1666283299,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89570,
+        "num": 105780,
+        "word": "女生到云南吃烤洋芋被蘸料惊呆",
+        "onboard_time": 1666272746,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 81003,
+        "num": 104211,
+        "word": "90后家长回应给儿子取名张总",
+        "onboard_time": 1666287254,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63688,
+        "num": 103746,
+        "word": "蹲久后站起头晕或是中风先兆",
+        "onboard_time": 1666317622,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220652,
+        "num": 101970,
+        "word": "英国首相特拉斯辞职",
+        "onboard_time": 1666270164,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 63223,
+        "num": 100687,
+        "word": "369奥恩单杀大树",
+        "onboard_time": 1666317082,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62706,
+        "num": 97829,
+        "word": "党的二十大报告100题",
+        "onboard_time": 1666310244,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60957,
+        "num": 96966,
+        "word": "快船考虑让伦纳德打替补",
+        "onboard_time": 1666317803,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

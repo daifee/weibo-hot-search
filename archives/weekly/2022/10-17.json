@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666309816553,
+  "endTime": 1666317844868,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -139,6 +139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1314128,
+      "num": 169572,
+      "word": "女子捐10元4个月后收到还款道谢",
+      "onboard_time": 1666310785,
+      "rank": 3,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1259762,
       "num": 456420,
       "word": "原来医学生看病真的会显示",
@@ -249,6 +257,14 @@
       "onboard_time": 1666247484,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087684,
+      "num": 157321,
+      "word": "TES 菜",
+      "onboard_time": 1666312825,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1072465,
@@ -619,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 740665,
+      "num": 156743,
+      "word": "鹤岗1.5万全款买房女子发声",
+      "onboard_time": 1666316603,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733930,
       "num": 195282,
       "word": "澳宣布不再承认西耶路撒冷为以色列首都",
@@ -713,6 +737,14 @@
       "onboard_time": 1665994460,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 688773,
+      "num": 154454,
+      "word": "马斯克称准备裁掉75%推特员工",
+      "onboard_time": 1666315763,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 685446,
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499733,
+      "num": 142822,
+      "word": "婆婆生日儿媳气球绑600元飘走",
+      "onboard_time": 1666314385,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497650,
       "num": 212830,
       "word": "小朋友与书摊爷爷路灯下默契看书",
@@ -1443,6 +1483,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 425160,
+      "num": 152663,
+      "word": "宁安如梦预约人数破100万",
+      "onboard_time": 1666317264,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421764,
       "num": 143776,
       "word": "吴建豪是反焦虑大师吧",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1666135339,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 419800,
+      "num": 151434,
+      "word": "老人2万多烧成焦炭银行还原1.99万",
+      "onboard_time": 1666316123,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417392,
@@ -1899,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 335145,
+      "num": 150568,
+      "word": "JDG战胜RGE",
+      "onboard_time": 1666309643,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332436,
       "num": 110202,
       "word": "有点担心出题人的精神状态了",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1665977182,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318824,
+      "num": 138908,
+      "word": "C罗停赛停训后发声",
+      "onboard_time": 1666310544,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 316284,
@@ -2195,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304120,
+      "num": 140541,
+      "word": "孙女养生泡脚奶奶一旁喝酒吹瓶",
+      "onboard_time": 1666312224,
+      "rank": 21,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 303895,
       "num": 242297,
       "word": "骨质疏松症也叫静悄悄的流行病",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1666061422,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298820,
+      "num": 144993,
+      "word": "我国67%罕见病用药已纳入医保",
+      "onboard_time": 1666312525,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298380,
@@ -2691,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249643,
+      "num": 137513,
+      "word": "青年舞蹈家王迪去世",
+      "onboard_time": 1666317203,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249605,
       "num": 210016,
       "word": "仪态满分的古装美人",
@@ -2755,6 +2851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243213,
+      "num": 313113,
+      "word": "党的二十大报告提到了这些精神",
+      "onboard_time": 1666281206,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242470,
       "num": 187063,
       "word": "心动的信号",
@@ -2785,6 +2889,14 @@
       "onboard_time": 1665976402,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 240009,
+      "num": 135852,
+      "word": "宋木子木木洗澡呢",
+      "onboard_time": 1666312350,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 239198,
@@ -3195,6 +3307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214391,
+      "num": 134326,
+      "word": "10月20日新增本土无症状638例",
+      "onboard_time": 1666315465,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214344,
       "num": 422698,
       "word": "社死的一生从认错爸妈开始",
@@ -3249,6 +3369,14 @@
       "onboard_time": 1666236501,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210881,
+      "num": 133593,
+      "word": "猫咪受了委屈也会找妈妈",
+      "onboard_time": 1666310844,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 210564,
@@ -3859,6 +3987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170925,
+      "num": 125895,
+      "word": "四川是叠词大省",
+      "onboard_time": 1666310002,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170887,
       "num": 16812,
       "word": "山东一村8090后全部回村就业",
@@ -3961,6 +4097,14 @@
       "onboard_time": 1666154186,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166745,
+      "num": 162061,
+      "word": "快船vs湖人",
+      "onboard_time": 1666315703,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 166704,
@@ -4192,6 +4336,14 @@
       "word": "这就是养猫千日用猫一时",
       "onboard_time": 1666087046,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149259,
+      "num": 124101,
+      "word": "10月20日新增本土确诊158例",
+      "onboard_time": 1666315465,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4467,14 +4619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134248,
-      "num": 134248,
-      "word": "JDG战胜RGE",
-      "onboard_time": 1666309643,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134108,
       "num": 134108,
       "word": "狗狗好像不喜欢过生日",
@@ -4505,6 +4649,14 @@
       "onboard_time": 1666049541,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133021,
+      "num": 126697,
+      "word": "柯基蹑手蹑脚潜到主人床边睡觉",
+      "onboard_time": 1666308979,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132232,
@@ -4579,6 +4731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130085,
+      "num": 116541,
+      "word": "雄鹿vs76人",
+      "onboard_time": 1666315043,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129977,
       "num": 16778,
       "word": "爆款国民床单背后还有一段甜蜜爱情",
@@ -4619,14 +4779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126697,
-      "num": 126697,
-      "word": "柯基蹑手蹑脚潜到主人床边睡觉",
-      "onboard_time": 1666308979,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126645,
       "num": 126645,
       "word": "鹈鹕vs篮网",
@@ -4665,6 +4817,14 @@
       "onboard_time": 1666079601,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 124744,
+      "num": 114254,
+      "word": "这朵云是懂浪漫的",
+      "onboard_time": 1666316783,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 122542,
@@ -5643,6 +5803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76453,
+      "num": 166806,
+      "word": "一图了解二十大报告中的民生举措",
+      "onboard_time": 1666315224,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76164,
       "num": 76164,
       "word": "我国粮食安全保障能力持续提升",
@@ -5931,6 +6099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63688,
+      "num": 103746,
+      "word": "蹲久后站起头晕或是中风先兆",
+      "onboard_time": 1666317622,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63654,
       "num": 97821,
       "word": "数十名车主移动围挡为消防车开路",
@@ -5955,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63223,
+      "num": 100687,
+      "word": "369奥恩单杀大树",
+      "onboard_time": 1666317082,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63142,
       "num": 108963,
       "word": "见过对医生的最高评价",
@@ -5977,6 +6161,14 @@
       "onboard_time": 1666184125,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62706,
+      "num": 97829,
+      "word": "党的二十大报告100题",
+      "onboard_time": 1666310244,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62696,
@@ -6025,6 +6217,14 @@
       "onboard_time": 1666242086,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 60957,
+      "num": 96966,
+      "word": "快船考虑让伦纳德打替补",
+      "onboard_time": 1666317803,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60535,
@@ -6355,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35329,
+      "num": 264911,
+      "word": "祖国各地的二十大时光",
+      "onboard_time": 1666272145,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 35187,
       "num": 11493,
       "word": "国产F12芳纶纤维已实现自动化生产",
@@ -6427,20 +6635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27749,
+      "num": 159658,
+      "word": "二十大代表共话乡村振兴",
+      "onboard_time": 1666314745,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26431,
       "num": 11493,
       "word": "罗云熙再演律师",
       "onboard_time": 1665904583,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20091,
-      "num": 264911,
-      "word": "祖国各地的二十大时光",
-      "onboard_time": 1666272145,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 19873,
