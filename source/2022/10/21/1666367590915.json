@@ -1,0 +1,410 @@
+{
+  "runTime": 1666367590915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115400,
+        "num": 399509,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62585,
+        "num": 399459,
+        "word": "绿色逐步成为我国高质量发展底色",
+        "onboard_time": 1666357463,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 398720,
+        "word": "党的二十大报告提到的大国重器",
+        "onboard_time": 1666357165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237295,
+        "num": 398226,
+        "word": "马龙vs邱党",
+        "onboard_time": 1666363225,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750495,
+        "num": 398097,
+        "word": "陈梦2比3斯佐科斯",
+        "onboard_time": 1666362863,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412196,
+        "num": 397521,
+        "word": "陈梦止步澳门赛16强",
+        "onboard_time": 1666365385,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219794,
+        "num": 397136,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215363,
+        "num": 396680,
+        "word": "C罗被罚两周薪水",
+        "onboard_time": 1666360824,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182591,
+        "num": 396279,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35422,
+        "num": 395965,
+        "word": "党的二十大报告这样谈团结奋斗",
+        "onboard_time": 1666357102,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820890,
+        "num": 395592,
+        "word": "马琳",
+        "onboard_time": 1666364665,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525476,
+        "num": 395007,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394743,
+        "num": 394743,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 355316,
+        "num": 355316,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285802,
+        "num": 285802,
+        "word": "鹤岗顶楼五六百一平米引火热咨询",
+        "onboard_time": 1666353323,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252687,
+        "num": 252687,
+        "word": "十七岁喜欢的人怎么样了",
+        "onboard_time": 1666359145,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237119,
+        "num": 237119,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220463,
+        "num": 220463,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 214507,
+        "word": "滕哈格确认C罗拒绝替补出场",
+        "onboard_time": 1666351342,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213448,
+        "num": 213448,
+        "word": "大学没谈过恋爱会后悔吗",
+        "onboard_time": 1666352962,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423856,
+        "num": 211820,
+        "word": "lulu 金钟奖",
+        "onboard_time": 1666365506,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234774,
+        "num": 210145,
+        "word": "马嘉祺发文感谢杨坤",
+        "onboard_time": 1666366583,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227767,
+        "num": 209108,
+        "word": "罗云熙白鹿长月烬明过审",
+        "onboard_time": 1666361303,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206883,
+        "num": 206883,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206769,
+        "num": 206769,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 205044,
+        "num": 205044,
+        "word": "日剧静雪",
+        "onboard_time": 1666361123,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193549,
+        "num": 193549,
+        "word": "周杰伦新歌",
+        "onboard_time": 1666326443,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190865,
+        "num": 190865,
+        "word": "金钟奖",
+        "onboard_time": 1666354823,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189926,
+        "num": 189926,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166892,
+        "num": 166892,
+        "word": "周渝民迪丽热巴烈火如歌非洲播出",
+        "onboard_time": 1666352302,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156513,
+        "num": 156513,
+        "word": "小米客服回应11系列烧WiFi",
+        "onboard_time": 1666351761,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146807,
+        "num": 146807,
+        "word": "90后男生全款4万买房移居鹤岗",
+        "onboard_time": 1666327948,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137907,
+        "num": 137907,
+        "word": "换乘恋爱",
+        "onboard_time": 1666345400,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120187,
+        "num": 120187,
+        "word": "钓鱼到底有多花钱",
+        "onboard_time": 1666359864,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116007,
+        "num": 116007,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115851,
+        "num": 115851,
+        "word": "外交部回应特拉斯辞职",
+        "onboard_time": 1666356743,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 115192,
+        "num": 115192,
+        "word": "校园虐文男主有了脸",
+        "onboard_time": 1666345463,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115049,
+        "num": 115049,
+        "word": "比特币集团考虑竞标收购德国银行",
+        "onboard_time": 1666357641,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109681,
+        "num": 109681,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105694,
+        "num": 105694,
+        "word": "西红柿才是鸡蛋的最佳拍挡",
+        "onboard_time": 1666348104,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98717,
+        "num": 98717,
+        "word": "我们的歌",
+        "onboard_time": 1666352841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92939,
+        "num": 92939,
+        "word": "上一段恋爱中最遗憾的事",
+        "onboard_time": 1666355724,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93573,
+        "num": 90138,
+        "word": "周传雄陆虎合唱雪落下的声音",
+        "onboard_time": 1666360584,
+        "rank": 42,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 86022,
+        "num": 86022,
+        "word": "孙颖莎vs杨晓欣",
+        "onboard_time": 1666355602,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82287,
+        "num": 82287,
+        "word": "海恩站起来了",
+        "onboard_time": 1666354823,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80699,
+        "num": 80699,
+        "word": "王楚钦vs奥恰洛夫",
+        "onboard_time": 1666352243,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76521,
+        "num": 76521,
+        "word": "虞书欣张彬彬两个人的小森林评分降了",
+        "onboard_time": 1666344442,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68622,
+        "num": 68622,
+        "word": "阚清子发文告别沸腾人生",
+        "onboard_time": 1666363408,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65719,
+        "num": 65719,
+        "word": "第一次吃西餐是什么体验",
+        "onboard_time": 1666367484,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54668,
+        "num": 54668,
+        "word": "90后消防员成为二十大代表",
+        "onboard_time": 1666338265,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
