@@ -1,0 +1,410 @@
+{
+  "runTime": 1666428707162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596814,
+        "num": 596814,
+        "word": "新一届中央政治局常委将同中外记者见面",
+        "onboard_time": 1666419923,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366613,
+        "num": 366613,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929388,
+        "num": 338067,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 298333,
+        "num": 298333,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274486,
+        "num": 274486,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130464,
+        "num": 130464,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116554,
+        "num": 116554,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111217,
+        "num": 111217,
+        "word": "我国将进行载人月球探测",
+        "onboard_time": 1666416387,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 94000,
+        "num": 94000,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88414,
+        "num": 88414,
+        "word": "二十大第二场党代表通道",
+        "onboard_time": 1666418543,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337834,
+        "num": 88356,
+        "word": "马龙vs王楚钦",
+        "onboard_time": 1666425742,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1294245,
+        "num": 88266,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917483,
+        "num": 88228,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273953,
+        "num": 88169,
+        "word": "奶奶假动作盛汤哄宝宝吃辅食",
+        "onboard_time": 1666422082,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231938,
+        "num": 88110,
+        "word": "第一批当老师的95后现在怎样啦",
+        "onboard_time": 1666419444,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 230089,
+        "num": 88011,
+        "word": "被小猫文学整破防了",
+        "onboard_time": 1666424422,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192581,
+        "num": 87962,
+        "word": "这尾巴真是扫我心里去了",
+        "onboard_time": 1666425862,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181456,
+        "num": 87874,
+        "word": "德国总理朔尔茨确认下月初率团访华",
+        "onboard_time": 1666414103,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 161858,
+        "num": 87802,
+        "word": "女足世界杯中国英格兰同组",
+        "onboard_time": 1666426042,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149029,
+        "num": 87727,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 393880,
+        "num": 87602,
+        "word": "伊藤美诚3比2斯佐科斯",
+        "onboard_time": 1666427003,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250639,
+        "num": 87521,
+        "word": "IVE获得音中一位",
+        "onboard_time": 1666427422,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214976,
+        "num": 87468,
+        "word": "11月预排播电视剧",
+        "onboard_time": 1666419745,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196512,
+        "num": 87421,
+        "word": "宋雨琦音中舞台ending",
+        "onboard_time": 1666427003,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153278,
+        "num": 87346,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146650,
+        "num": 87273,
+        "word": "gidle音乐中心舞台",
+        "onboard_time": 1666425501,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 87172,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123751,
+        "num": 87084,
+        "word": "Wei哭了",
+        "onboard_time": 1666406002,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118493,
+        "num": 87001,
+        "word": "一个动作让你远离驼背",
+        "onboard_time": 1666421364,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107375,
+        "num": 86911,
+        "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
+        "onboard_time": 1666411403,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94420,
+        "num": 86862,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114525,
+        "num": 86791,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91009,
+        "num": 86748,
+        "word": "糖吃多了会老得更快",
+        "onboard_time": 1666402284,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86684,
+        "num": 86684,
+        "word": "四姑娘山云海与日出相伴",
+        "onboard_time": 1666426883,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 86058,
+        "num": 86058,
+        "word": "店老板给环卫工水喝被赠橘子感谢",
+        "onboard_time": 1666422443,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82476,
+        "num": 82476,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78798,
+        "num": 78798,
+        "word": "一有机会就去偷玩偶的狗狗",
+        "onboard_time": 1666420823,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70821,
+        "num": 70821,
+        "word": "2023女足世界杯抽签",
+        "onboard_time": 1666425742,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75739,
+        "num": 70450,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66024,
+        "num": 66024,
+        "word": "医生25年献血217次约20个成人血量",
+        "onboard_time": 1666411225,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63620,
+        "num": 63620,
+        "word": "奶爸为照顾妻儿考下月嫂证",
+        "onboard_time": 1666404923,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74784,
+        "num": 63612,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63492,
+        "num": 63492,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61791,
+        "num": 61791,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57255,
+        "num": 57255,
+        "word": "这个码头一个工人也没有",
+        "onboard_time": 1666421063,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56645,
+        "num": 56645,
+        "word": "视力障碍是特点不是缺点",
+        "onboard_time": 1666426342,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56582,
+        "num": 56582,
+        "word": "福建男篮vs辽宁男篮",
+        "onboard_time": 1666428262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52696,
+        "num": 52696,
+        "word": "56岁男英语老师穿豹纹服装上课",
+        "onboard_time": 1666402224,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51001,
+        "num": 51001,
+        "word": "男子做1小时心肺复苏救回小猫",
+        "onboard_time": 1666404262,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47136,
+        "num": 47136,
+        "word": "马嘉祺我们的歌下期打架子鼓",
+        "onboard_time": 1666405224,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二十届中央委员会选举产生#"
+    }
+  }
+}

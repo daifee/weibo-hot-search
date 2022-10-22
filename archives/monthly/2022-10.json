@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666427640109,
+  "endTime": 1666428707162,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1337834,
+      "num": 102922,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1666425742,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1329447,
       "num": 264440,
       "word": "RNG打破TI历史时间记录",
@@ -1547,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1314249,
-      "num": 102922,
-      "word": "马龙vs王楚钦",
-      "onboard_time": 1666425742,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1314128,
       "num": 305642,
       "word": "女子捐10元4个月后收到还款道谢",
@@ -1592,6 +1592,14 @@
       "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
       "onboard_time": 1664627183,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1294245,
+      "num": 102888,
+      "word": "印度一病人输血时错输果汁后死亡",
+      "onboard_time": 1666426223,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3072,14 +3080,6 @@
       "word": "医生提醒3类人慎吃羊肉",
       "onboard_time": 1665495927,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 920724,
-      "num": 102888,
-      "word": "印度一病人输血时错输果汁后死亡",
-      "onboard_time": 1666426223,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -10643,6 +10643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393880,
+      "num": 102710,
+      "word": "伊藤美诚3比2斯佐科斯",
+      "onboard_time": 1666427003,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393704,
       "num": 288993,
       "word": "王鹤棣霸总适配度",
@@ -15131,6 +15139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274486,
+      "num": 274486,
+      "word": "火车5秒通过的隧道花了6年才打通",
+      "onboard_time": 1666424842,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274346,
       "num": 274346,
       "word": "阿根廷驻华大使说梅西是最好大使",
@@ -16603,6 +16619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250639,
+      "num": 102723,
+      "word": "IVE获得音中一位",
+      "onboard_time": 1666427422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250581,
       "num": 250581,
       "word": "詹姆斯半场7中0",
@@ -17033,14 +17057,6 @@
       "onboard_time": 1665535767,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243515,
-      "num": 243515,
-      "word": "火车5秒通过的隧道花了6年才打通",
-      "onboard_time": 1666424842,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243399,
@@ -17827,6 +17843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230089,
+      "num": 102827,
+      "word": "被小猫文学整破防了",
+      "onboard_time": 1666424422,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230079,
       "num": 230079,
       "word": "鞠婧祎solo版以十洲的名义",
@@ -18449,14 +18473,6 @@
       "onboard_time": 1664955199,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222332,
-      "num": 102827,
-      "word": "被小猫文学整破防了",
-      "onboard_time": 1666424422,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 222272,
@@ -20043,14 +20059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200585,
-      "num": 102723,
-      "word": "IVE获得音中一位",
-      "onboard_time": 1666427422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200458,
       "num": 521584,
       "word": "达米安李绝杀独行侠",
@@ -20321,6 +20329,14 @@
       "onboard_time": 1665062726,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196512,
+      "num": 102598,
+      "word": "宋雨琦音中舞台ending",
+      "onboard_time": 1666427003,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 196411,
@@ -20657,6 +20673,14 @@
       "onboard_time": 1666407022,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192581,
+      "num": 102772,
+      "word": "这尾巴真是扫我心里去了",
+      "onboard_time": 1666425862,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 192327,
@@ -22571,14 +22595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168752,
-      "num": 102710,
-      "word": "伊藤美诚3比2斯佐科斯",
-      "onboard_time": 1666427003,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168518,
       "num": 138384,
       "word": "来猫咪家串门的小狗",
@@ -23032,6 +23048,14 @@
       "word": "王楚钦3比2卡尔森",
       "onboard_time": 1665150566,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161858,
+      "num": 102638,
+      "word": "女足世界杯中国英格兰同组",
+      "onboard_time": 1666426042,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -24355,6 +24379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146650,
+      "num": 102644,
+      "word": "gidle音乐中心舞台",
+      "onboard_time": 1666425501,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146613,
       "num": 146613,
       "word": "EDG战胜FNC",
@@ -24923,14 +24955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141541,
-      "num": 102772,
-      "word": "这尾巴真是扫我心里去了",
-      "onboard_time": 1666425862,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141521,
       "num": 141521,
       "word": "广东男篮vs深圳男篮",
@@ -24977,14 +25001,6 @@
       "onboard_time": 1665148823,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140869,
-      "num": 102644,
-      "word": "gidle音乐中心舞台",
-      "onboard_time": 1666425501,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 140843,
@@ -26081,14 +26097,6 @@
       "onboard_time": 1664709444,
       "rank": 30,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 128931,
-      "num": 102638,
-      "word": "女足世界杯中国英格兰同组",
-      "onboard_time": 1666426042,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 128926,
@@ -27417,14 +27425,6 @@
       "onboard_time": 1665578964,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115966,
-      "num": 102598,
-      "word": "宋雨琦音中舞台ending",
-      "onboard_time": 1666427003,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 115924,
@@ -30171,6 +30171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86684,
+      "num": 86684,
+      "word": "四姑娘山云海与日出相伴",
+      "onboard_time": 1666426883,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 86658,
       "num": 86658,
       "word": "一段视频感受兰亭序有多美",
@@ -30945,14 +30953,6 @@
       "onboard_time": 1666127831,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78175,
-      "num": 78175,
-      "word": "四姑娘山云海与日出相伴",
-      "onboard_time": 1666426883,
-      "rank": 39,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 78114,
@@ -32857,6 +32857,14 @@
       "onboard_time": 1664552782,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56582,
+      "num": 56582,
+      "word": "福建男篮vs辽宁男篮",
+      "onboard_time": 1666428262,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 56434,
@@ -36547,6 +36555,9 @@
     },
     {
       "word": "#党的二十大胜利闭幕#"
+    },
+    {
+      "word": "#第二十届中央委员会选举产生#"
     }
   ]
 }
