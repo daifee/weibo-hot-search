@@ -1,0 +1,410 @@
+{
+  "runTime": 1666413801633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2052235,
+        "num": 2052235,
+        "word": "第二十届中央委员会选举产生",
+        "onboard_time": 1666408643,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917286,
+        "num": 917286,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114100,
+        "num": 707352,
+        "word": "为2035年的美好中国团结奋斗",
+        "onboard_time": 1666410863,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683301,
+        "num": 683301,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1666412605,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375393,
+        "num": 375393,
+        "word": "关于十九届中央纪律检查委员会工作报告的决议通过",
+        "onboard_time": 1666412304,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306529,
+        "num": 306529,
+        "word": "二十大闭幕会特别报道",
+        "onboard_time": 1666403304,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189609,
+        "num": 189609,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162373,
+        "num": 162373,
+        "word": "二十大报告与你的生活息息相关",
+        "onboard_time": 1666399944,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82123,
+        "num": 82123,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67197,
+        "num": 67197,
+        "word": "二十大报告中的关键论述",
+        "onboard_time": 1666398744,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978474,
+        "num": 67188,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667639,
+        "num": 67140,
+        "word": "第二十届中央纪律检查委员会产生",
+        "onboard_time": 1666409484,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625869,
+        "num": 67108,
+        "word": "只有洗澡的时候不讨厌洗澡",
+        "onboard_time": 1666410144,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 598546,
+        "num": 67023,
+        "word": "关于十九届中央委员会报告的决议通过",
+        "onboard_time": 1666411524,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106518,
+        "num": 66999,
+        "word": "医生25年献血217次约20个成人血量",
+        "onboard_time": 1666411225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378094,
+        "num": 66934,
+        "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
+        "onboard_time": 1666411403,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356352,
+        "num": 66917,
+        "word": "糖吃多了会老得更快",
+        "onboard_time": 1666402284,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334683,
+        "num": 66851,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281676,
+        "num": 66826,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260898,
+        "num": 66772,
+        "word": "中羽协向世羽联发函投诉",
+        "onboard_time": 1666408403,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45777,
+        "num": 66728,
+        "word": "9个数字来学二十大报告",
+        "onboard_time": 1666399402,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515822,
+        "num": 66699,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475132,
+        "num": 66633,
+        "word": "Wei哭了",
+        "onboard_time": 1666406002,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311351,
+        "num": 66581,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298277,
+        "num": 66574,
+        "word": "樊振东3比0约奇克",
+        "onboard_time": 1666413204,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214718,
+        "num": 66508,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234529,
+        "num": 66484,
+        "word": "mlxg评价RNG比赛",
+        "onboard_time": 1666399524,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214328,
+        "num": 66438,
+        "word": "张远我们的歌唱嘉宾",
+        "onboard_time": 1666413023,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196977,
+        "num": 66368,
+        "word": "56岁男英语老师穿豹纹服装上课",
+        "onboard_time": 1666402224,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219627,
+        "num": 66322,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193831,
+        "num": 66273,
+        "word": "孙颖莎3比0郑怡静",
+        "onboard_time": 1666413263,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187900,
+        "num": 66264,
+        "word": "奶爸为照顾妻儿考下月嫂证",
+        "onboard_time": 1666404923,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 66219,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184611,
+        "num": 66137,
+        "word": "樊振东vs约奇克",
+        "onboard_time": 1666411885,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163882,
+        "num": 66113,
+        "word": "袁嘉楠3比1石川佳纯",
+        "onboard_time": 1666410263,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160702,
+        "num": 66072,
+        "word": "莫兰特49分",
+        "onboard_time": 1666407924,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158870,
+        "num": 66036,
+        "word": "男子做1小时心肺复苏救回小猫",
+        "onboard_time": 1666404262,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152377,
+        "num": 65976,
+        "word": "T1零封战胜RNG",
+        "onboard_time": 1666396584,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140420,
+        "num": 65947,
+        "word": "宁德时代单季净利润暴增188%",
+        "onboard_time": 1666407022,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134502,
+        "num": 65889,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124646,
+        "num": 65862,
+        "word": "丹麦队总教练道歉",
+        "onboard_time": 1666413385,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123930,
+        "num": 65821,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119102,
+        "num": 65744,
+        "word": "樊振东晋级澳门赛4强",
+        "onboard_time": 1666413683,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115950,
+        "num": 65700,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 110476,
+        "num": 65689,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107447,
+        "num": 65636,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107298,
+        "num": 65587,
+        "word": "请回答1988美食名场面",
+        "onboard_time": 1666368745,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102677,
+        "num": 65542,
+        "word": "0713兄弟团隔空合唱雪落下的声音",
+        "onboard_time": 1666413625,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100499,
+        "num": 65511,
+        "word": "伊朗海军宣布俘获两艘美国无人舰艇",
+        "onboard_time": 1666395920,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 97067,
+        "num": 65433,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大闭幕会#"
+    }
+  }
+}
