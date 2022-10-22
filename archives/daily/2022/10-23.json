@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666456584661,
+  "endTime": 1666458067452,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -115,7 +115,7 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 134675,
+      "raw_hot": 141926,
       "num": 9899,
       "word": "切尔西vs曼联",
       "onboard_time": 1666453344,
@@ -147,7 +147,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117675,
+      "raw_hot": 119757,
       "num": 9870,
       "word": "咋样这票买的值吧",
       "onboard_time": 1666454362,
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98188,
+      "num": 9439,
+      "word": "罗本展颜定情之吻",
+      "onboard_time": 1666457358,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96932,
       "num": 9803,
       "word": "狗狗趁主人不注意狂炫41个饺子",
@@ -232,6 +240,14 @@
       "word": "张艺兴演唱会",
       "onboard_time": 1666446384,
       "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 75219,
+      "num": 9344,
+      "word": "gidle无伴奏全开麦版Nxde",
+      "onboard_time": 1666458019,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -379,19 +395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11828,
+      "num": 11828,
+      "word": "二十大关于十九届中央委员会报告的决议",
+      "onboard_time": 1666436004,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 10546,
       "num": 86768,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10329,
-      "num": 10329,
-      "word": "二十大关于十九届中央委员会报告的决议",
-      "onboard_time": 1666436004,
-      "rank": 18,
       "category": "国内要闻"
     },
     {
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#二十大时光#"
+    },
+    {
+      "word": "#二十大在京闭幕#"
     }
   ]
 }

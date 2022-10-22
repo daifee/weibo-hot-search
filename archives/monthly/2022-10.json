@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666456584661,
+  "endTime": 1666458067452,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -25355,6 +25355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141926,
+      "num": 19859,
+      "word": "切尔西vs曼联",
+      "onboard_time": 1666453344,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141837,
       "num": 141837,
       "word": "摇滚狂花原剧本结局是be",
@@ -26041,14 +26049,6 @@
       "onboard_time": 1665243804,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134675,
-      "num": 19859,
-      "word": "切尔西vs曼联",
-      "onboard_time": 1666453344,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 134665,
@@ -27443,6 +27443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119757,
+      "num": 9870,
+      "word": "咋样这票买的值吧",
+      "onboard_time": 1666454362,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119744,
       "num": 119744,
       "word": "底线法与情特辑",
@@ -27697,14 +27705,6 @@
       "onboard_time": 1665808764,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117675,
-      "num": 9870,
-      "word": "咋样这票买的值吧",
-      "onboard_time": 1666454362,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 117658,
@@ -29641,6 +29641,14 @@
       "onboard_time": 1665745582,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98188,
+      "num": 9439,
+      "word": "罗本展颜定情之吻",
+      "onboard_time": 1666457358,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 98146,
@@ -31841,6 +31849,14 @@
       "onboard_time": 1665124041,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75219,
+      "num": 9344,
+      "word": "gidle无伴奏全开麦版Nxde",
+      "onboard_time": 1666458019,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 75021,
