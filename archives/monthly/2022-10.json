@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666459912528,
+  "endTime": 1666460980870,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -35049,6 +35049,14 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20794,
+      "num": 4681,
+      "word": "爸爸射箭帮8岁儿子拔牙",
+      "onboard_time": 1666460894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
