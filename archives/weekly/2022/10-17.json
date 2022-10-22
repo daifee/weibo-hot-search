@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666442936443,
+  "endTime": 1666444308890,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 804799,
-      "num": 61098,
+      "num": 81432,
       "word": "樊振东vs林昀儒",
       "onboard_time": 1666436484,
       "rank": 11,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 719573,
-      "num": 57888,
+      "num": 82383,
       "word": "孙颖莎vs袁嘉楠",
       "onboard_time": 1666439002,
       "rank": 10,
@@ -1763,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499623,
+      "num": 499623,
+      "word": "二十大闭幕会现场视频",
+      "onboard_time": 1666439604,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497804,
       "num": 394743,
       "word": "90后老师出题答案全选A",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1666323623,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445382,
-      "num": 445382,
-      "word": "二十大闭幕会现场视频",
-      "onboard_time": 1666439604,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444413,
@@ -2667,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360653,
+      "num": 41473,
+      "word": "孙颖莎4比0袁嘉楠",
+      "onboard_time": 1666443864,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360504,
       "num": 360504,
       "word": "LGD不敌Secret",
@@ -2753,6 +2761,14 @@
       "onboard_time": 1666404262,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349020,
+      "num": 44023,
+      "word": "尚雯婕107岁佘太君扮相",
+      "onboard_time": 1666440202,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 347087,
@@ -3025,14 +3041,6 @@
       "onboard_time": 1666243824,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319705,
-      "num": 44023,
-      "word": "尚雯婕107岁佘太君扮相",
-      "onboard_time": 1666440202,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 319034,
@@ -3331,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298026,
+      "num": 43941,
+      "word": "在恋爱中男朋友会撒娇吗",
+      "onboard_time": 1666439544,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297481,
       "num": 66658,
       "word": "国人的车厘子自由从河南开始",
@@ -3532,7 +3548,7 @@
     },
     {
       "raw_hot": 282285,
-      "num": 57804,
+      "num": 82037,
       "word": "95后小伙把养老院办成幼儿园",
       "onboard_time": 1666437203,
       "rank": 41,
@@ -3712,6 +3728,14 @@
       "word": "泸定地震小猪被埋塌房下存活45天",
       "onboard_time": 1666262125,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269489,
+      "num": 41441,
+      "word": "男子凌晨买下8旬老人全部蔬菜",
+      "onboard_time": 1666442964,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3945,6 +3969,14 @@
       "onboard_time": 1666427422,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249927,
+      "num": 43684,
+      "word": "樊振东连得10分",
+      "onboard_time": 1666442485,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 249605,
@@ -4331,6 +4363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230343,
+      "num": 43665,
+      "word": "鹤岗买房真的值吗",
+      "onboard_time": 1666442425,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 230089,
       "num": 102827,
       "word": "被小猫文学整破防了",
@@ -4481,14 +4521,6 @@
       "onboard_time": 1666350682,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224369,
-      "num": 43941,
-      "word": "在恋爱中男朋友会撒娇吗",
-      "onboard_time": 1666439544,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224150,
@@ -4867,6 +4899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 204884,
+      "num": 43851,
+      "word": "心疼罗云熙演的罗本",
+      "onboard_time": 1666441283,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203866,
       "num": 203866,
       "word": "比斯利与上海男篮解约",
@@ -4955,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198755,
+      "num": 41374,
+      "word": "王一博街舞5户外运动当裁判",
+      "onboard_time": 1666443502,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198596,
       "num": 119224,
       "word": "喝酒前后不要吃布洛芬",
@@ -4995,14 +5043,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 196576,
-      "num": 43851,
-      "word": "心疼罗云熙演的罗本",
-      "onboard_time": 1666441283,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196512,
       "num": 102598,
       "word": "宋雨琦音中舞台ending",
@@ -5033,6 +5073,14 @@
       "onboard_time": 1666381631,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196002,
+      "num": 41361,
+      "word": "已经很多年没谈恋爱了",
+      "onboard_time": 1666443325,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 195989,
@@ -5153,6 +5201,14 @@
       "onboard_time": 1666265782,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189165,
+      "num": 41347,
+      "word": "特优声2无障碍配音舞台",
+      "onboard_time": 1666443984,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 189095,
@@ -6163,6 +6219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145634,
+      "num": 41321,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1666444104,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144911,
       "num": 117350,
       "word": "罗云熙说救人面前工作可以往后稍",
@@ -6843,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118869,
+      "num": 195270,
+      "word": "二十大报告百余次提及人民",
+      "onboard_time": 1666441763,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 118752,
       "num": 118752,
       "word": "aster晋级ti六强",
@@ -6856,6 +6928,14 @@
       "word": "中国粮带给中国人的安全感",
       "onboard_time": 1665920423,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118384,
+      "num": 81694,
+      "word": "萌娃和奶奶英语方言无碍障交流",
+      "onboard_time": 1666438284,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6881,14 +6961,6 @@
       "onboard_time": 1666062981,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117802,
-      "num": 43684,
-      "word": "樊振东连得10分",
-      "onboard_time": 1666442485,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 117743,
@@ -7161,14 +7233,6 @@
       "onboard_time": 1666274488,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108105,
-      "num": 43665,
-      "word": "鹤岗买房真的值吗",
-      "onboard_time": 1666442425,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 108012,
@@ -7771,14 +7835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85841,
-      "num": 56749,
-      "word": "萌娃和奶奶英语方言无碍障交流",
-      "onboard_time": 1666438284,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85700,
       "num": 16706,
       "word": "怎么会不羡慕白秀珠呢",
@@ -7881,6 +7937,14 @@
       "onboard_time": 1666353501,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82738,
+      "num": 82738,
+      "word": "我们完全有信心有能力创造更大奇迹",
+      "onboard_time": 1666442244,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82707,
@@ -8083,20 +8147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76220,
-      "num": 54846,
-      "word": "我们完全有信心有能力创造更大奇迹",
-      "onboard_time": 1666442244,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76164,
       "num": 76164,
       "word": "我国粮食安全保障能力持续提升",
       "onboard_time": 1665975620,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75761,
+      "num": 41260,
+      "word": "诺丁汉森林vs利物浦",
+      "onboard_time": 1666443802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75648,
@@ -8169,14 +8233,6 @@
       "onboard_time": 1666080682,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73279,
-      "num": 184589,
-      "word": "二十大报告百余次提及人民",
-      "onboard_time": 1666441763,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 72990,
@@ -8707,6 +8763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54112,
+      "num": 54112,
+      "word": "西湖上空朝霞唯美梦幻",
+      "onboard_time": 1666439184,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52726,
       "num": 52726,
       "word": "加维获得科帕奖",
@@ -8721,6 +8785,14 @@
       "onboard_time": 1665927804,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51499,
+      "num": 51499,
+      "word": "我国水运基础设施规模世界第一",
+      "onboard_time": 1666440024,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 51422,
@@ -8843,14 +8915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46188,
-      "num": 46188,
-      "word": "我国水运基础设施规模世界第一",
-      "onboard_time": 1666440024,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -8956,7 +9020,7 @@
     },
     {
       "raw_hot": 38534,
-      "num": 38534,
+      "num": 245204,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 7,
@@ -9820,7 +9884,7 @@
     },
     {
       "raw_hot": 2585,
-      "num": 55312,
+      "num": 81135,
       "word": "获梅花奖川剧人亮相党代表通道",
       "onboard_time": 1666440024,
       "rank": 14,
