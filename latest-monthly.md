@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 21:44:58
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 21:57:38
 </p>
 </blockquote>
 <p>
@@ -4905,6 +4905,12 @@ mlxg评价RNG比赛（热度：576050）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E4%B9%B0%E4%B8%8B8%E6%97%AC%E8%80%81%E4%BA%BA%E5%85%A8%E9%83%A8%E8%94%AC%E8%8F%9C%23" target="weibo">
+男子凌晨买下8旬老人全部蔬菜（热度：572227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%99%BD%E9%B9%BF%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85%E5%B0%8612%E6%9C%88%E6%97%A5%E6%9C%AC%E6%92%AD%E5%87%BA%23" target="weibo">
 任嘉伦白鹿周生如故将12月日本播出（热度：571158）
 </a>
@@ -5789,12 +5795,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A5%AE%E6%96%99%E5%8D%B1%E5%AE%B3%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 甜饮料危害到底有多大（热度：510053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E4%B9%B0%E4%B8%8B8%E6%97%AC%E8%80%81%E4%BA%BA%E5%85%A8%E9%83%A8%E8%94%AC%E8%8F%9C%23" target="weibo">
-男子凌晨买下8旬老人全部蔬菜（热度：510034）
 </a>
 </li>
 

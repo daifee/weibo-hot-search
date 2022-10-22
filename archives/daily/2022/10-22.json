@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666446298470,
+  "endTime": 1666447058281,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -267,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 572227,
+      "num": 41441,
+      "word": "男子凌晨买下8旬老人全部蔬菜",
+      "onboard_time": 1666442964,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570425,
       "num": 66764,
       "word": "陈梦止步澳门赛16强",
@@ -296,14 +304,6 @@
       "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
       "onboard_time": 1666366105,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510034,
-      "num": 41441,
-      "word": "男子凌晨买下8旬老人全部蔬菜",
-      "onboard_time": 1666442964,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431765,
+      "num": 27065,
+      "word": "王楚钦4比0莫雷加德",
+      "onboard_time": 1666446264,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427293,
       "num": 66762,
       "word": "马龙vs邱党",
@@ -409,6 +417,14 @@
       "onboard_time": 1666440923,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396420,
+      "num": 43665,
+      "word": "鹤岗买房真的值吗",
+      "onboard_time": 1666442425,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 393880,
@@ -475,12 +491,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 349789,
-      "num": 43665,
-      "word": "鹤岗买房真的值吗",
-      "onboard_time": 1666442425,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 351384,
+      "num": 41361,
+      "word": "已经很多年没谈恋爱了",
+      "onboard_time": 1666443325,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 349197,
@@ -513,14 +529,6 @@
       "onboard_time": 1666430065,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 334443,
-      "num": 41361,
-      "word": "已经很多年没谈恋爱了",
-      "onboard_time": 1666443325,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 329778,
@@ -625,6 +633,14 @@
       "onboard_time": 1666400123,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 278060,
+      "num": 24171,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1666446384,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 277769,
@@ -755,6 +771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 226941,
+      "num": 24165,
+      "word": "王一博街舞5吹口哨吓到李承铉",
+      "onboard_time": 1666446504,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225749,
       "num": 58551,
       "word": "六小龄童悼念刘惠明",
@@ -809,14 +833,6 @@
       "onboard_time": 1666413023,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212672,
-      "num": 27065,
-      "word": "王楚钦4比0莫雷加德",
-      "onboard_time": 1666446264,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 209260,
@@ -897,6 +913,14 @@
       "onboard_time": 1666327948,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 189622,
+      "num": 24153,
+      "word": "当你把会员借给很多朋友",
+      "onboard_time": 1666445903,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 189460,
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137282,
+      "num": 195270,
+      "word": "二十大报告百余次提及人民",
+      "onboard_time": 1666441763,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 136813,
       "num": 120540,
       "word": "一个动作让你远离驼背",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1666388351,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 129390,
-      "num": 195270,
-      "word": "二十大报告百余次提及人民",
-      "onboard_time": 1666441763,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 129249,
@@ -1171,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124048,
+      "num": 62991,
+      "word": "这里有一个你不知道的十年",
+      "onboard_time": 1666444764,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121776,
       "num": 16730,
       "word": "JDG半决赛对战T1",
@@ -1184,14 +1216,6 @@
       "word": "地震被埋45天小猪见主人非常温顺",
       "onboard_time": 1666343183,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120754,
-      "num": 62991,
-      "word": "这里有一个你不知道的十年",
-      "onboard_time": 1666444764,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1249,6 +1273,14 @@
       "onboard_time": 1666361303,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111664,
+      "num": 24128,
+      "word": "陈幸同vs伊藤美诚",
+      "onboard_time": 1666446924,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 110862,
@@ -1683,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14256,
+      "num": 27178,
+      "word": "塞罕坝给3亿多株树建档案",
+      "onboard_time": 1666446084,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 13064,
       "num": 82531,
       "word": "二十大献礼片单展映",
@@ -1713,14 +1753,6 @@
       "onboard_time": 1666368021,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8411,
-      "num": 27178,
-      "word": "塞罕坝给3亿多株树建档案",
-      "onboard_time": 1666446084,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 7800,
