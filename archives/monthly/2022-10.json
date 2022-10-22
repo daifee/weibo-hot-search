@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666470458995,
+  "endTime": 1666471485489,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -34227,6 +34227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45467,
+      "num": 3088,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -34257,14 +34265,6 @@
       "onboard_time": 1665776831,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45135,
-      "num": 3088,
-      "word": "男孩被训斥深夜到派出所举报母亲",
-      "onboard_time": 1666466231,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44614,
@@ -35099,20 +35099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18301,
+      "num": 504,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
       "onboard_time": 1665863470,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18122,
-      "num": 406,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17857,
@@ -35136,6 +35136,14 @@
       "word": "新车长啥样竟然听网友的",
       "onboard_time": 1666256423,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17046,
+      "num": 3145,
+      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+      "onboard_time": 1666469952,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -35547,14 +35555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 8014,
-      "num": 2998,
-      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
-      "onboard_time": 1666469952,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7982,
       "num": 7982,
       "word": "永康白云水库附近发生山火",
@@ -35801,6 +35801,14 @@
       "onboard_time": 1664913971,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6471,
+      "num": 2969,
+      "word": "空军机务兵为拆故障件跪了近10小时",
+      "onboard_time": 1666471031,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 6463,

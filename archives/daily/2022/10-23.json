@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666470458995,
+  "endTime": 1666471485489,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -339,7 +339,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45135,
+      "raw_hot": 45467,
       "num": 3088,
       "word": "男孩被训斥深夜到派出所举报母亲",
       "onboard_time": 1666466231,
@@ -395,6 +395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 18301,
+      "num": 504,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18255,
       "num": 18255,
       "word": "二十届中央纪律检查委员会委员名单",
@@ -403,19 +411,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18122,
-      "num": 406,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17537,
       "num": 17537,
       "word": "二十大",
       "onboard_time": 1666395078,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17046,
+      "num": 3145,
+      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+      "onboard_time": 1666469952,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8014,
-      "num": 2998,
-      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
-      "onboard_time": 1666469952,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6753,
       "num": 2968,
       "word": "上过学的猫就是不一样",
       "onboard_time": 1666466651,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 6471,
+      "num": 2969,
+      "word": "空军机务兵为拆故障件跪了近10小时",
+      "onboard_time": 1666471031,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 5906,
@@ -483,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488,
-      "num": 488,
+      "raw_hot": 583,
+      "num": 583,
       "word": "二十大报告中的关键论述",
       "onboard_time": 1666398744,
       "rank": 16,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 329,
-      "num": 484,
+      "num": 581,
       "word": "为2035年的美好中国团结奋斗",
       "onboard_time": 1666410863,
       "rank": 17,
