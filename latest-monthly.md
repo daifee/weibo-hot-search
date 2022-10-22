@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 07:30:28
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 07:47:35
 </p>
 </blockquote>
 <p>
@@ -5931,6 +5931,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DK%E5%AF%B9%E6%88%98GEN%23" target="weibo">
+DK对战GEN（热度：502750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81%23" target="weibo">
 美国将继续向乌克兰提供军事支持（热度：502716）
 </a>
@@ -6005,12 +6011,6 @@ IU首登韩版Vogue11月刊（热度：501833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AB%98%E7%83%A7%E7%A1%AC%E6%92%912%E5%A4%A9%E6%88%90%E6%9A%B4%E5%8F%91%E6%80%A7%E5%BF%83%E8%82%8C%E7%82%8E%23" target="weibo">
 14岁男孩高烧硬撑2天成暴发性心肌炎（热度：497720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%82%B9%E6%8B%85%E5%BF%83%E6%83%85%E4%BE%A3%E4%BB%AC%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
-有点担心情侣们的精神状态（热度：497664）
 </a>
 </li>
 

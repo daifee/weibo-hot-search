@@ -1,18 +1,26 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666481428247,
+  "endTime": 1666482455988,
   "band_list": [
     {
       "raw_hot": 1054604,
-      "num": 9996,
+      "num": 10268,
       "word": "长沙发现一例恐龙血血型",
       "onboard_time": 1666448665,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468600,
-      "num": 17382,
+      "raw_hot": 502750,
+      "num": 10256,
+      "word": "DK对战GEN",
+      "onboard_time": 1666480755,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 482430,
+      "num": 21647,
       "word": "新一届中央政治局常委同中外记者见面",
       "onboard_time": 1666480336,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 409357,
-      "num": 9995,
+      "num": 10222,
       "word": "当你在图书馆坐一天后",
       "onboard_time": 1666452024,
       "rank": 21,
@@ -35,32 +43,40 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 290216,
-      "num": 8163,
-      "word": "DK对战GEN",
-      "onboard_time": 1666480755,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 277681,
-      "num": 9983,
-      "word": "印度一病人输血时错输果汁后死亡",
-      "onboard_time": 1666426223,
-      "rank": 22,
+      "raw_hot": 342252,
+      "num": 342252,
+      "word": "党的二十届一中全会",
+      "onboard_time": 1666480336,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264299,
-      "num": 9970,
+      "raw_hot": 297245,
+      "num": 10251,
+      "word": "霜降",
+      "onboard_time": 1666480996,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287216,
+      "num": 10242,
       "word": "女子投简历后发现HR是室友",
       "onboard_time": 1666421302,
       "rank": 23,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277681,
+      "num": 10188,
+      "word": "印度一病人输血时错输果汁后死亡",
+      "onboard_time": 1666426223,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226502,
-      "num": 9962,
+      "num": 10058,
       "word": "原来大家都是晚八人",
       "onboard_time": 1666453225,
       "rank": 24,
@@ -83,84 +99,100 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213020,
-      "num": 8145,
-      "word": "霜降",
-      "onboard_time": 1666480996,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 206027,
+      "num": 10232,
+      "word": "中国17岁小将霹雳舞世锦赛摘银",
+      "onboard_time": 1666477513,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 201709,
-      "num": 9944,
+      "num": 10161,
       "word": "你能接受对象几天不联系你",
       "onboard_time": 1666431023,
       "rank": 26,
       "category": "情感"
     },
     {
-      "raw_hot": 191441,
-      "num": 9938,
-      "word": "预约人数破100万的古偶",
-      "onboard_time": 1666437685,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177503,
-      "num": 9928,
-      "word": "当你把会员借给很多朋友",
-      "onboard_time": 1666445903,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 169224,
-      "num": 9901,
+      "raw_hot": 194121,
+      "num": 10229,
       "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
       "onboard_time": 1666433424,
       "rank": 31,
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 157165,
-      "num": 9927,
-      "word": "陈幸同4比1伊藤美诚",
-      "onboard_time": 1666450587,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156635,
-      "num": 9914,
-      "word": "男子凌晨买下8旬老人全部蔬菜",
-      "onboard_time": 1666442964,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151753,
-      "num": 9838,
+      "raw_hot": 191736,
+      "num": 10213,
       "word": "鹤岗买房真的值吗",
       "onboard_time": 1666442425,
       "rank": 39,
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 191441,
+      "num": 10197,
+      "word": "预约人数破100万的古偶",
+      "onboard_time": 1666437685,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186409,
+      "num": 10201,
+      "word": "男子凌晨买下8旬老人全部蔬菜",
+      "onboard_time": 1666442964,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177503,
+      "num": 10139,
+      "word": "当你把会员借给很多朋友",
+      "onboard_time": 1666445903,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157165,
+      "num": 10131,
+      "word": "陈幸同4比1伊藤美诚",
+      "onboard_time": 1666450587,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153317,
+      "num": 10179,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141926,
-      "num": 9899,
+      "num": 10046,
       "word": "切尔西vs曼联",
       "onboard_time": 1666453344,
       "rank": 32,
       "category": "体育"
     },
     {
-      "raw_hot": 135987,
-      "num": 8103,
-      "word": "中国17岁小将霹雳舞世锦赛摘银",
-      "onboard_time": 1666477513,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 139996,
+      "num": 10173,
+      "word": "尚雯婕107岁佘太君扮相",
+      "onboard_time": 1666440202,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135336,
+      "num": 10170,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132351,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 128208,
-      "num": 9881,
+      "num": 10103,
       "word": "在恋爱中男朋友会撒娇吗",
       "onboard_time": 1666439544,
       "rank": 34,
@@ -187,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120730,
-      "num": 120730,
-      "word": "党的二十届一中全会",
-      "onboard_time": 1666480336,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119757,
       "num": 9870,
       "word": "咋样这票买的值吧",
@@ -203,20 +227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118041,
-      "num": 8076,
-      "word": "男孩被训斥深夜到派出所举报母亲",
-      "onboard_time": 1666466231,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116597,
-      "num": 8073,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 116632,
+      "num": 10154,
+      "word": "炽道",
+      "onboard_time": 1666481537,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 112615,
@@ -235,16 +251,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111674,
-      "num": 9841,
-      "word": "尚雯婕107岁佘太君扮相",
-      "onboard_time": 1666440202,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 111629,
+      "num": 10139,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 106669,
-      "num": 9832,
+      "num": 10109,
       "word": "12岁男孩做饭5年煎炸炒煮全精通",
       "onboard_time": 1666438703,
       "rank": 40,
@@ -259,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103348,
+      "num": 103348,
+      "word": "火车5秒通过的隧道花了6年才打通",
+      "onboard_time": 1666424842,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100570,
       "num": 9816,
       "word": "TI11",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 98188,
-      "num": 9439,
+      "num": 10093,
       "word": "罗本展颜定情之吻",
       "onboard_time": 1666457358,
       "rank": 36,
@@ -276,19 +300,11 @@
     },
     {
       "raw_hot": 96932,
-      "num": 9803,
+      "num": 10122,
       "word": "狗狗趁主人不注意狂炫41个饺子",
       "onboard_time": 1666435345,
       "rank": 43,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 95028,
-      "num": 8052,
-      "word": "老师转发小学生作品被选登杂志",
-      "onboard_time": 1666465693,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 94881,
@@ -308,19 +324,11 @@
     },
     {
       "raw_hot": 81127,
-      "num": 8023,
+      "num": 10090,
       "word": "切尔西1比1曼联",
       "onboard_time": 1666480996,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80764,
-      "num": 80764,
-      "word": "火车5秒通过的隧道花了6年才打通",
-      "onboard_time": 1666424842,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77819,
@@ -337,6 +345,14 @@
       "onboard_time": 1666429583,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66723,
+      "num": 10083,
+      "word": "UFC",
+      "onboard_time": 1666480816,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65842,
@@ -379,11 +395,43 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 61546,
+      "num": 10076,
+      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+      "onboard_time": 1666469952,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60566,
+      "num": 10062,
+      "word": "2022年跳水世界杯",
+      "onboard_time": 1666481537,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60256,
+      "num": 60256,
+      "word": "当上二十大代表的快递员说被叫小哥特亲切",
+      "onboard_time": 1666420281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59687,
       "num": 4681,
       "word": "爸爸射箭帮8岁儿子拔牙",
       "onboard_time": 1666460894,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59427,
+      "num": 59427,
+      "word": "这里有一个你不知道的十年",
+      "onboard_time": 1666444764,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -411,35 +459,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 51720,
-      "num": 7983,
-      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
-      "onboard_time": 1666469952,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50907,
-      "num": 50907,
-      "word": "当上二十大代表的快递员说被叫小哥特亲切",
-      "onboard_time": 1666420281,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45915,
-      "num": 45915,
-      "word": "这里有一个你不知道的十年",
-      "onboard_time": 1666444764,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45286,
-      "num": 7967,
-      "word": "UFC",
-      "onboard_time": 1666480816,
-      "rank": 47,
+      "raw_hot": 45990,
+      "num": 10049,
+      "word": "陈芋汐世界杯女子10米台夺金",
+      "onboard_time": 1666482318,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -459,6 +483,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 29159,
+      "num": 29159,
+      "word": "二十大",
+      "onboard_time": 1666395078,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26069,
       "num": 26069,
       "word": "塞罕坝正在打造智慧林场",
@@ -475,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21025,
+      "num": 21025,
+      "word": "我国水运基础设施规模世界第一",
+      "onboard_time": 1666440024,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 20892,
+      "num": 20892,
+      "word": "二十届中央纪律检查委员会委员名单",
+      "onboard_time": 1666416926,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19685,
       "num": 19685,
       "word": "我们完全有信心有能力创造更大奇迹",
@@ -483,27 +531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19122,
-      "num": 19122,
-      "word": "我国水运基础设施规模世界第一",
-      "onboard_time": 1666440024,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 18255,
-      "num": 18255,
-      "word": "二十届中央纪律检查委员会委员名单",
-      "onboard_time": 1666416926,
+      "raw_hot": 16427,
+      "num": 16427,
+      "word": "二十大报告中的关键论述",
+      "onboard_time": 1666398744,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17537,
-      "num": 17537,
-      "word": "二十大",
-      "onboard_time": 1666395078,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -547,16 +579,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 11005,
-      "num": 11005,
-      "word": "二十大报告中的关键论述",
-      "onboard_time": 1666398744,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10546,
-      "num": 98992,
+      "num": 114761,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 2,
@@ -579,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4396,
-      "num": 8183,
+      "raw_hot": 4492,
+      "num": 10273,
       "word": "为2035年的美好中国团结奋斗",
       "onboard_time": 1666410863,
       "rank": 17,
