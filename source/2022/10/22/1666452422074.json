@@ -1,0 +1,410 @@
+{
+  "runTime": 1666452422074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 388780,
+        "num": 388780,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 182452,
+        "word": "二十大闭幕会现场视频",
+        "onboard_time": 1666439604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16243,
+        "num": 168371,
+        "word": "新征程再出发",
+        "onboard_time": 1666395198,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166468,
+        "num": 166468,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108185,
+        "num": 108185,
+        "word": "代表热议如何提升群众幸福指数",
+        "onboard_time": 1666447285,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 107967,
+        "word": "当希望工程大眼睛女孩成为奉献者",
+        "onboard_time": 1666450764,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107680,
+        "num": 107680,
+        "word": "二十大关于党章修正案的决议",
+        "onboard_time": 1666436904,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95116,
+        "num": 95116,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92736,
+        "num": 92736,
+        "word": "这里有一个你不知道的十年",
+        "onboard_time": 1666444764,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72477,
+        "num": 72477,
+        "word": "10年家访骑坏了8辆摩托车",
+        "onboard_time": 1666447104,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76218,
+        "num": 67852,
+        "word": "二十大报告百余次提及人民",
+        "onboard_time": 1666441763,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 60094,
+        "word": "梦天实验舱本月将发射",
+        "onboard_time": 1666449445,
+        "rank": 11,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 54691,
+        "num": 54691,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32323,
+        "num": 32323,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30569,
+        "num": 30569,
+        "word": "精确到微米只为更贴近战机的心脏",
+        "onboard_time": 1666450764,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 29445,
+        "num": 29445,
+        "word": "我们完全有信心有能力创造更大奇迹",
+        "onboard_time": 1666442244,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 25367,
+        "word": "二十大关于十九届中央委员会报告的决议",
+        "onboard_time": 1666436004,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 24078,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23452,
+        "num": 23452,
+        "word": "我国水运基础设施规模世界第一",
+        "onboard_time": 1666440024,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 22282,
+        "num": 22282,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1736779,
+        "num": 22278,
+        "word": "长沙发现一例恐龙血血型",
+        "onboard_time": 1666448665,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518075,
+        "num": 22268,
+        "word": "陈幸同4比1伊藤美诚",
+        "onboard_time": 1666450587,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459865,
+        "num": 22262,
+        "word": "陈幸同vs伊藤美诚",
+        "onboard_time": 1666446924,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431059,
+        "num": 22255,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374579,
+        "num": 22244,
+        "word": "当你把会员借给很多朋友",
+        "onboard_time": 1666445903,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344189,
+        "num": 22236,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325248,
+        "num": 22234,
+        "word": "预约人数破100万的古偶",
+        "onboard_time": 1666437685,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294206,
+        "num": 22222,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285895,
+        "num": 22219,
+        "word": "男子凌晨买下8旬老人全部蔬菜",
+        "onboard_time": 1666442964,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254010,
+        "num": 22206,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1666446384,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234408,
+        "num": 22197,
+        "word": "王一博街舞5吹口哨吓到李承铉",
+        "onboard_time": 1666446504,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213087,
+        "num": 22194,
+        "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+        "onboard_time": 1666433424,
+        "rank": 31,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 200134,
+        "num": 22183,
+        "word": "gidle完整体出演认哥预告",
+        "onboard_time": 1666451246,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190385,
+        "num": 22176,
+        "word": "王楚钦4比0莫雷加德",
+        "onboard_time": 1666446264,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186563,
+        "num": 22172,
+        "word": "尚雯婕107岁佘太君扮相",
+        "onboard_time": 1666440202,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180266,
+        "num": 22161,
+        "word": "在恋爱中男朋友会撒娇吗",
+        "onboard_time": 1666439544,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 22158,
+        "word": "DOTA2",
+        "onboard_time": 1666449987,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163505,
+        "num": 22146,
+        "word": "12岁男孩做饭5年煎炸炒煮全精通",
+        "onboard_time": 1666438703,
+        "rank": 37,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 158161,
+        "num": 22137,
+        "word": "鹤岗买房真的值吗",
+        "onboard_time": 1666442425,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 148690,
+        "num": 22131,
+        "word": "男生考研二战用零食当书签",
+        "onboard_time": 1666433963,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139643,
+        "num": 22124,
+        "word": "狗狗趁主人不注意狂炫41个饺子",
+        "onboard_time": 1666435345,
+        "rank": 40,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 139357,
+        "num": 22113,
+        "word": "我的秘密室友大结局太好哭了",
+        "onboard_time": 1666451484,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136092,
+        "num": 22109,
+        "word": "刘雨昕学舞的速度",
+        "onboard_time": 1666451603,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134466,
+        "num": 22100,
+        "word": "TI11",
+        "onboard_time": 1666450645,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131303,
+        "num": 22094,
+        "word": "已经很多年没谈恋爱了",
+        "onboard_time": 1666443325,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 22088,
+        "word": "孙颖莎4比0袁嘉楠",
+        "onboard_time": 1666443864,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103083,
+        "num": 22079,
+        "word": "金汤匙",
+        "onboard_time": 1666451844,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102313,
+        "num": 22073,
+        "word": "当你在图书馆坐一天后",
+        "onboard_time": 1666452024,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98444,
+        "num": 22061,
+        "word": "曼城vs布莱顿",
+        "onboard_time": 1666449987,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98249,
+        "num": 22054,
+        "word": "1岁幼童反锁在屋父母监控喊话开门",
+        "onboard_time": 1666429583,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新一届中央政治局常委将同中外记者见面#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666449797631,
+  "endTime": 1666452422074,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -777,6 +777,14 @@
       "onboard_time": 1664869943,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1736779,
+      "num": 27558,
+      "word": "长沙发现一例恐龙血血型",
+      "onboard_time": 1666448665,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1732430,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1666070004,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 986813,
-      "num": 27558,
-      "word": "长沙发现一例恐龙血血型",
-      "onboard_time": 1666448665,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 986191,
@@ -7529,6 +7529,14 @@
       "onboard_time": 1665303683,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518075,
+      "num": 22268,
+      "word": "陈幸同4比1伊藤美诚",
+      "onboard_time": 1666450587,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 518043,
@@ -20395,6 +20403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200134,
+      "num": 22183,
+      "word": "gidle完整体出演认哥预告",
+      "onboard_time": 1666451246,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200122,
       "num": 200122,
       "word": "我们不会输出中国模式",
@@ -23035,6 +23051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166994,
+      "num": 49258,
+      "word": "DOTA2",
+      "onboard_time": 1665877399,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166898,
       "num": 166898,
       "word": "王嘉尔ChampagneCool运镜",
@@ -25531,6 +25555,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 139357,
+      "num": 22113,
+      "word": "我的秘密室友大结局太好哭了",
+      "onboard_time": 1666451484,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139334,
       "num": 139334,
       "word": "JDG和DK加赛",
@@ -25833,6 +25865,14 @@
       "onboard_time": 1665876615,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136092,
+      "num": 22109,
+      "word": "刘雨昕学舞的速度",
+      "onboard_time": 1666451603,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135935,
@@ -26169,6 +26209,14 @@
       "onboard_time": 1666308979,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132972,
+      "num": 107967,
+      "word": "当希望工程大眼睛女孩成为奉献者",
+      "onboard_time": 1666450764,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 132786,
@@ -28595,6 +28643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108185,
+      "num": 149891,
+      "word": "代表热议如何提升群众幸福指数",
+      "onboard_time": 1666447285,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 108137,
       "num": 162603,
       "word": "8勇士闯生命禁区测出中国高度",
@@ -29011,6 +29067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103083,
+      "num": 22079,
+      "word": "金汤匙",
+      "onboard_time": 1666451844,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102967,
       "num": 102967,
       "word": "景区回应游客被梅花鹿踢脸",
@@ -29081,6 +29145,14 @@
       "onboard_time": 1664581342,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102313,
+      "num": 22073,
+      "word": "当你在图书馆坐一天后",
+      "onboard_time": 1666452024,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 102260,
@@ -29515,6 +29587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98444,
+      "num": 22061,
+      "word": "曼城vs布莱顿",
+      "onboard_time": 1666449987,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98366,
       "num": 98366,
       "word": "为万里归途的瓦迪尔流泪",
@@ -29809,14 +29889,6 @@
       "onboard_time": 1664831470,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95129,
-      "num": 149891,
-      "word": "代表热议如何提升群众幸福指数",
-      "onboard_time": 1666447285,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 95017,
@@ -33819,14 +33891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49258,
-      "num": 49258,
-      "word": "DOTA2",
-      "onboard_time": 1665877399,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 49181,
       "num": 150520,
       "word": "老人被困河岸民警大喊踩我身上",
@@ -34745,6 +34809,14 @@
       "onboard_time": 1665543623,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30569,
+      "num": 30569,
+      "word": "精确到微米只为更贴近战机的心脏",
+      "onboard_time": 1666450764,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 30557,
