@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666431938244,
+  "endTime": 1666434451310,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898140,
+      "num": 48604,
+      "word": "你能接受对象几天不联系你",
+      "onboard_time": 1666431023,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 844178,
       "num": 844178,
       "word": "二十大闭幕会特别报道",
@@ -169,6 +177,14 @@
       "onboard_time": 1666402284,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641326,
+      "num": 54968,
+      "word": "刘惠明去世",
+      "onboard_time": 1666429524,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 634788,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367905,
-      "num": 54968,
-      "word": "刘惠明去世",
-      "onboard_time": 1666429524,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349197,
       "num": 149863,
       "word": "男子做1小时心肺复苏救回小猫",
@@ -393,6 +401,14 @@
       "onboard_time": 1666430065,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 329778,
+      "num": 48404,
+      "word": "陈幸同3比0王艺迪",
+      "onboard_time": 1666431922,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 327471,
@@ -475,6 +491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 265857,
+      "num": 37335,
+      "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+      "onboard_time": 1666433424,
+      "rank": 15,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 260161,
       "num": 48606,
       "word": "王艺迪vs陈幸同",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249338,
+      "num": 54637,
+      "word": "1岁幼童反锁在屋父母监控喊话开门",
+      "onboard_time": 1666429583,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241732,
       "num": 66743,
       "word": "第一次吃西餐是什么体验",
@@ -537,14 +569,6 @@
       "onboard_time": 1666362863,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235246,
-      "num": 48604,
-      "word": "你能接受对象几天不联系你",
-      "onboard_time": 1666431023,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 232700,
@@ -595,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215225,
-      "num": 54637,
-      "word": "1岁幼童反锁在屋父母监控喊话开门",
-      "onboard_time": 1666429583,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214328,
       "num": 167868,
       "word": "张远我们的歌唱嘉宾",
@@ -627,20 +643,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205843,
+      "num": 37316,
+      "word": "苏州小树林惊现一梅花鹿",
+      "onboard_time": 1666432704,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203398,
       "num": 54331,
       "word": "杨坤马嘉祺唱的自己",
       "onboard_time": 1666371377,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202213,
-      "num": 48404,
-      "word": "陈幸同3比0王艺迪",
-      "onboard_time": 1666431922,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 198366,
@@ -747,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176067,
+      "num": 54156,
+      "word": "当婚礼偶遇隔壁学校运动会",
+      "onboard_time": 1666430546,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174567,
       "num": 6300,
       "word": "RNG BP",
@@ -771,12 +795,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168045,
+      "num": 37268,
+      "word": "男生考研二战用零食当书签",
+      "onboard_time": 1666433963,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162373,
       "num": 181560,
       "word": "二十大报告与你的生活息息相关",
       "onboard_time": 1666399944,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159066,
+      "num": 37056,
+      "word": "宫脇咲良ANTIFRAGILE909横版直拍",
+      "onboard_time": 1666434444,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 154002,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112847,
+      "num": 37193,
+      "word": "蔡徐坤现象舞蹈教学",
+      "onboard_time": 1666433724,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111834,
       "num": 66714,
       "word": "罗云熙白鹿长月烬明过审",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1666371138,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104859,
-      "num": 54156,
-      "word": "当婚礼偶遇隔壁学校运动会",
-      "onboard_time": 1666430546,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 102677,
@@ -1216,6 +1256,14 @@
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66146,
+      "num": 37046,
+      "word": "5年上千次试验只为让战机心脏妥妥的",
+      "onboard_time": 1666433063,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
