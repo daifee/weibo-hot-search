@@ -1,0 +1,410 @@
+{
+  "runTime": 1666412414026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2006707,
+        "num": 2006707,
+        "word": "第二十届中央委员会选举产生",
+        "onboard_time": 1666408643,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875315,
+        "num": 875315,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49234,
+        "num": 769959,
+        "word": "为2035年的美好中国团结奋斗",
+        "onboard_time": 1666410863,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761506,
+        "num": 761506,
+        "word": "第二十届中央纪律检查委员会产生",
+        "onboard_time": 1666409484,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343993,
+        "num": 343993,
+        "word": "二十大闭幕会特别报道",
+        "onboard_time": 1666403304,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167294,
+        "num": 167294,
+        "word": "关于十九届中央纪律检查委员会工作报告的决议通过",
+        "onboard_time": 1666412304,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "二十大报告与你的生活息息相关",
+        "onboard_time": 1666399944,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100460,
+        "num": 100460,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82991,
+        "num": 82991,
+        "word": "二十大报告中的关键论述",
+        "onboard_time": 1666398744,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54607,
+        "num": 54607,
+        "word": "9个数字来学二十大报告",
+        "onboard_time": 1666399402,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402990,
+        "num": 54577,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541361,
+        "num": 54524,
+        "word": "关于十九届中央委员会报告的决议通过",
+        "onboard_time": 1666411524,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448002,
+        "num": 54436,
+        "word": "只有洗澡的时候不讨厌洗澡",
+        "onboard_time": 1666410144,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 429154,
+        "num": 54420,
+        "word": "糖吃多了会老得更快",
+        "onboard_time": 1666402284,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54865,
+        "num": 54364,
+        "word": "医生25年献血217次约20个成人血量",
+        "onboard_time": 1666411225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41970,
+        "num": 54286,
+        "word": "党的二十大报告提到的大国重器",
+        "onboard_time": 1666357165,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376883,
+        "num": 54263,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324706,
+        "num": 54161,
+        "word": "中羽协向世羽联发函投诉",
+        "onboard_time": 1666408403,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297059,
+        "num": 54144,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313219,
+        "num": 54084,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 634788,
+        "num": 53986,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 566051,
+        "num": 53936,
+        "word": "Wei哭了",
+        "onboard_time": 1666406002,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281099,
+        "num": 53894,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254445,
+        "num": 53825,
+        "word": "袁嘉楠3比1石川佳纯",
+        "onboard_time": 1666410263,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227049,
+        "num": 53791,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260324,
+        "num": 53703,
+        "word": "mlxg评价RNG比赛",
+        "onboard_time": 1666399524,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210793,
+        "num": 53640,
+        "word": "男子做1小时心肺复苏救回小猫",
+        "onboard_time": 1666404262,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207470,
+        "num": 53580,
+        "word": "56岁男英语老师穿豹纹服装上课",
+        "onboard_time": 1666402224,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198366,
+        "num": 53551,
+        "word": "奶爸为照顾妻儿考下月嫂证",
+        "onboard_time": 1666404923,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197365,
+        "num": 53486,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192604,
+        "num": 53441,
+        "word": "宁德时代单季净利润暴增188%",
+        "onboard_time": 1666407022,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189275,
+        "num": 53365,
+        "word": "樊振东vs约奇克",
+        "onboard_time": 1666411885,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187689,
+        "num": 53304,
+        "word": "莫兰特49分",
+        "onboard_time": 1666407924,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172401,
+        "num": 53278,
+        "word": "T1零封战胜RNG",
+        "onboard_time": 1666396584,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156316,
+        "num": 53222,
+        "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
+        "onboard_time": 1666411403,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133534,
+        "num": 53134,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131696,
+        "num": 53073,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130971,
+        "num": 53021,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 125004,
+        "num": 52978,
+        "word": "林昀儒3比2A勒布伦",
+        "onboard_time": 1666408643,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119277,
+        "num": 52914,
+        "word": "伊朗海军宣布俘获两艘美国无人舰艇",
+        "onboard_time": 1666395920,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117517,
+        "num": 52880,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116165,
+        "num": 52777,
+        "word": "请回答1988美食名场面",
+        "onboard_time": 1666368745,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114772,
+        "num": 52740,
+        "word": "王安宇段宇成心思有点野",
+        "onboard_time": 1666407983,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110745,
+        "num": 52663,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101967,
+        "num": 52636,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101814,
+        "num": 52550,
+        "word": "李惠利新剧演入殓师",
+        "onboard_time": 1666400364,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99473,
+        "num": 52499,
+        "word": "马嘉祺我们的歌下期打架子鼓",
+        "onboard_time": 1666405224,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90530,
+        "num": 52474,
+        "word": "谷歌日本造了个1.65米单排键盘",
+        "onboard_time": 1666388351,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87503,
+        "num": 52378,
+        "word": "大学没谈过恋爱会后悔吗",
+        "onboard_time": 1666352962,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74286,
+        "num": 52362,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大闭幕会#"
+    }
+  }
+}
