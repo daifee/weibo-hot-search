@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666435577740,
+  "endTime": 1666437717917,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 703161,
+      "num": 30662,
+      "word": "樊振东vs林昀儒",
+      "onboard_time": 1666436484,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691606,
       "num": 157065,
       "word": "RNG发文告别S12",
@@ -201,6 +209,14 @@
       "onboard_time": 1666410144,
       "rank": 12,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 609905,
+      "num": 37268,
+      "word": "男生考研二战用零食当书签",
+      "onboard_time": 1666433963,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 598546,
@@ -259,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492553,
+      "num": 37335,
+      "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+      "onboard_time": 1666433424,
+      "rank": 15,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 491078,
       "num": 147073,
       "word": "第一批当老师的95后现在怎样啦",
       "onboard_time": 1666419444,
       "rank": 15,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 470379,
-      "num": 37335,
-      "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
-      "onboard_time": 1666433424,
-      "rank": 15,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 469870,
@@ -331,14 +347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 412204,
-      "num": 37268,
-      "word": "男生考研二战用零食当书签",
-      "onboard_time": 1666433963,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 393880,
       "num": 102710,
       "word": "伊藤美诚3比2斯佐科斯",
@@ -393,6 +401,14 @@
       "onboard_time": 1666412304,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354384,
+      "num": 34524,
+      "word": "狗狗趁主人不注意狂炫41个饺子",
+      "onboard_time": 1666435345,
+      "rank": 39,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 349197,
@@ -507,7 +523,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 270206,
+      "raw_hot": 277769,
       "num": 37316,
       "word": "苏州小树林惊现一梅花鹿",
       "onboard_time": 1666432704,
@@ -643,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214351,
+      "num": 30658,
+      "word": "六小龄童悼念刘惠明",
+      "onboard_time": 1666435764,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214328,
       "num": 167868,
       "word": "张远我们的歌唱嘉宾",
@@ -657,6 +681,14 @@
       "onboard_time": 1666415002,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209117,
+      "num": 34538,
+      "word": "男生物理首次及格老师握手鼓励",
+      "onboard_time": 1666434264,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 208834,
@@ -809,6 +841,14 @@
       "onboard_time": 1666352962,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164480,
+      "num": 30657,
+      "word": "二十大关于十九届中央委员会报告的决议",
+      "onboard_time": 1666436004,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162373,
@@ -1035,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110771,
-      "num": 34538,
-      "word": "男生物理首次及格老师握手鼓励",
-      "onboard_time": 1666434264,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 110607,
       "num": 66710,
       "word": "金钟奖",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1666366583,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106990,
+      "num": 30657,
+      "word": "二十大关于党章修正案的决议",
+      "onboard_time": 1666436904,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106371,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1666413625,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102064,
+      "num": 30652,
+      "word": "预约人数破100万的古偶",
+      "onboard_time": 1666437685,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 101837,
@@ -1171,14 +1219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80897,
-      "num": 34524,
-      "word": "狗狗趁主人不注意狂炫41个饺子",
-      "onboard_time": 1666435345,
-      "rank": 39,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 80526,
       "num": 66697,
       "word": "上一段恋爱中最遗憾的事",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1666359864,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68639,
+      "num": 30654,
+      "word": "95后小伙把养老院办成幼儿园",
+      "onboard_time": 1666437203,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67239,

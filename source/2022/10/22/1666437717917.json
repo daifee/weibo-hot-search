@@ -1,0 +1,410 @@
+{
+  "runTime": 1666437717917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 354893,
+        "num": 354893,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333869,
+        "num": 333869,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533407,
+        "num": 316504,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 284399,
+        "num": 284399,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218018,
+        "num": 218018,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96023,
+        "num": 96023,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71441,
+        "num": 71441,
+        "word": "我国将进行载人月球探测",
+        "onboard_time": 1666416387,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 69387,
+        "num": 69387,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54949,
+        "num": 54949,
+        "word": "背母上学的他回乡帮1800多人重返校园",
+        "onboard_time": 1666418962,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30662,
+        "num": 30662,
+        "word": "二十大第二场党代表通道",
+        "onboard_time": 1666418543,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734540,
+        "num": 30662,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 703161,
+        "num": 30662,
+        "word": "樊振东vs林昀儒",
+        "onboard_time": 1666436484,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609905,
+        "num": 30662,
+        "word": "男生考研二战用零食当书签",
+        "onboard_time": 1666433963,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 559888,
+        "num": 30661,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492553,
+        "num": 30661,
+        "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+        "onboard_time": 1666433424,
+        "rank": 14,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 359647,
+        "num": 30661,
+        "word": "王楚钦3比2马龙",
+        "onboard_time": 1666429882,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354384,
+        "num": 30661,
+        "word": "狗狗趁主人不注意狂炫41个饺子",
+        "onboard_time": 1666435345,
+        "rank": 16,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 277769,
+        "num": 30660,
+        "word": "苏州小树林惊现一梅花鹿",
+        "onboard_time": 1666432704,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209117,
+        "num": 30660,
+        "word": "男生物理首次及格老师握手鼓励",
+        "onboard_time": 1666434264,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206420,
+        "num": 30659,
+        "word": "姑娘蹲路边哭泣阿姨掏100元解围",
+        "onboard_time": 1666428801,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627512,
+        "num": 30659,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421468,
+        "num": 30659,
+        "word": "刘惠明去世",
+        "onboard_time": 1666429524,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 30659,
+        "word": "晚上八点是属于自己的",
+        "onboard_time": 1666430065,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 30658,
+        "word": "六小龄童悼念刘惠明",
+        "onboard_time": 1666435764,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175402,
+        "num": 30658,
+        "word": "1岁幼童反锁在屋父母监控喊话开门",
+        "onboard_time": 1666429583,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169910,
+        "num": 30658,
+        "word": "宫脇咲良ANTIFRAGILE909横版直拍",
+        "onboard_time": 1666434444,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164480,
+        "num": 30657,
+        "word": "二十大关于十九届中央委员会报告的决议",
+        "onboard_time": 1666436004,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142561,
+        "num": 30657,
+        "word": "陈幸同3比0王艺迪",
+        "onboard_time": 1666431922,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135953,
+        "num": 30657,
+        "word": "11月预排播电视剧",
+        "onboard_time": 1666419745,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133722,
+        "num": 30657,
+        "word": "蔡徐坤现象舞蹈教学",
+        "onboard_time": 1666433724,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106990,
+        "num": 30657,
+        "word": "二十大关于党章修正案的决议",
+        "onboard_time": 1666436904,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106605,
+        "num": 30656,
+        "word": "当婚礼偶遇隔壁学校运动会",
+        "onboard_time": 1666430546,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103857,
+        "num": 30656,
+        "word": "德国总理朔尔茨确认下月初率团访华",
+        "onboard_time": 1666414103,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 99353,
+        "num": 30656,
+        "word": "被小猫文学整破防了",
+        "onboard_time": 1666424422,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94514,
+        "num": 30655,
+        "word": "第一批当老师的95后现在怎样啦",
+        "onboard_time": 1666419444,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 86416,
+        "num": 30655,
+        "word": "IVE获得音中一位",
+        "onboard_time": 1666427422,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85880,
+        "num": 30655,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85629,
+        "num": 30654,
+        "word": "奶奶假动作盛汤哄宝宝吃辅食",
+        "onboard_time": 1666422082,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84823,
+        "num": 30654,
+        "word": "这尾巴真是扫我心里去了",
+        "onboard_time": 1666425862,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75053,
+        "num": 30654,
+        "word": "伊藤美诚3比2斯佐科斯",
+        "onboard_time": 1666427003,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73046,
+        "num": 30654,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68639,
+        "num": 30654,
+        "word": "95后小伙把养老院办成幼儿园",
+        "onboard_time": 1666437203,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68366,
+        "num": 30653,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65494,
+        "num": 30653,
+        "word": "5年上千次试验只为让战机心脏妥妥的",
+        "onboard_time": 1666433063,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63838,
+        "num": 30653,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63743,
+        "num": 30653,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62443,
+        "num": 30652,
+        "word": "女足世界杯中国英格兰同组",
+        "onboard_time": 1666426042,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102064,
+        "num": 30652,
+        "word": "预约人数破100万的古偶",
+        "onboard_time": 1666437685,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59680,
+        "num": 30652,
+        "word": "宋雨琦音中舞台ending",
+        "onboard_time": 1666427003,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58015,
+        "num": 30651,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大胜利闭幕#"
+    }
+  }
+}
