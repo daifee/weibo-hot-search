@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666458067452,
+  "endTime": 1666459912528,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -29939,6 +29939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94881,
+      "num": 9344,
+      "word": "gidle无伴奏全开麦版Nxde",
+      "onboard_time": 1666458019,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94754,
       "num": 94754,
       "word": "如何看待餐饮企业自曝食品安全问题",
@@ -31849,14 +31857,6 @@
       "onboard_time": 1665124041,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75219,
-      "num": 9344,
-      "word": "gidle无伴奏全开麦版Nxde",
-      "onboard_time": 1666458019,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 75021,

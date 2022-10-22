@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 01:01:07
+本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 01:31:52
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ TI11（热度：100570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%85%A8%E5%BC%80%E9%BA%A6%E7%89%88Nxde%23" target="weibo">
+gidle无伴奏全开麦版Nxde（热度：94881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%85%B3%E4%BA%8E%E5%85%9A%E7%AB%A0%E4%BF%AE%E6%AD%A3%E6%A1%88%E7%9A%84%E5%86%B3%E8%AE%AE%23" target="weibo">
 二十大关于党章修正案的决议（热度：82434）
 </a>
@@ -191,12 +197,6 @@ TI11（热度：100570）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张艺兴演唱会（热度：77819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23gidle%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%85%A8%E5%BC%80%E9%BA%A6%E7%89%88Nxde%23" target="weibo">
-gidle无伴奏全开麦版Nxde（热度：75219）
 </a>
 </li>
 

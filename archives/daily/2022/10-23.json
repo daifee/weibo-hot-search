@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666458067452,
+  "endTime": 1666459912528,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -227,6 +227,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 94881,
+      "num": 9344,
+      "word": "gidle无伴奏全开麦版Nxde",
+      "onboard_time": 1666458019,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82434,
       "num": 82434,
       "word": "二十大关于党章修正案的决议",
@@ -240,14 +248,6 @@
       "word": "张艺兴演唱会",
       "onboard_time": 1666446384,
       "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 75219,
-      "num": 9344,
-      "word": "gidle无伴奏全开麦版Nxde",
-      "onboard_time": 1666458019,
-      "rank": 47,
       "category": "音乐"
     },
     {

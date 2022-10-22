@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/17 00:35:37 ~ 2022/10/23 01:01:07
+本榜单时间：2022/10/17 00:35:37 ~ 2022/10/23 01:31:52
 </p>
 </blockquote>
 <p>
@@ -5835,6 +5835,12 @@ gemini幸运杯（热度：108506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%85%A8%E5%BC%80%E9%BA%A6%E7%89%88Nxde%23" target="weibo">
+gidle无伴奏全开麦版Nxde（热度：94881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%83%E4%B8%8A%E9%AB%98%E9%98%B6%E8%81%8C%E5%9C%BA%23" target="weibo">
 跃上高阶职场（热度：94744）
 </a>
@@ -6317,12 +6323,6 @@ StrayKids说中文（热度：83576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%A4%A9%E5%AE%9E%E9%AA%8C%E8%88%B1%E6%9C%AC%E6%9C%88%E5%B0%86%E5%8F%91%E5%B0%84%23" target="weibo">
 梦天实验舱本月将发射（热度：75415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23gidle%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%85%A8%E5%BC%80%E9%BA%A6%E7%89%88Nxde%23" target="weibo">
-gidle无伴奏全开麦版Nxde（热度：75219）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666458067452,
+  "endTime": 1666459912528,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -7763,6 +7763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94881,
+      "num": 9344,
+      "word": "gidle无伴奏全开麦版Nxde",
+      "onboard_time": 1666458019,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94744,
       "num": 94744,
       "word": "跃上高阶职场",
@@ -8409,14 +8417,6 @@
       "onboard_time": 1666449445,
       "rank": 12,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 75219,
-      "num": 9344,
-      "word": "gidle无伴奏全开麦版Nxde",
-      "onboard_time": 1666458019,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 74635,
