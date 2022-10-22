@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666453554056,
+  "endTime": 1666456584661,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -2331,6 +2331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 409357,
+      "num": 22073,
+      "word": "当你在图书馆坐一天后",
+      "onboard_time": 1666452024,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406869,
       "num": 167328,
       "word": "肿瘤晚期主人给猫咖留纸条托付爱猫",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1665972982,
       "rank": 12,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 376252,
+      "num": 151517,
+      "word": "当希望工程大眼睛女孩成为奉献者",
+      "onboard_time": 1666450764,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 375393,
@@ -3457,14 +3473,6 @@
       "onboard_time": 1665995961,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295131,
-      "num": 22073,
-      "word": "当你在图书馆坐一天后",
-      "onboard_time": 1666452024,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 294335,
@@ -4547,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226502,
+      "num": 19857,
+      "word": "原来大家都是晚八人",
+      "onboard_time": 1666453225,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226356,
       "num": 187177,
       "word": "女子捡猫主人慷慨相送并附赠1只",
@@ -4681,14 +4697,6 @@
       "onboard_time": 1666048397,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221011,
-      "num": 151517,
-      "word": "当希望工程大眼睛女孩成为奉献者",
-      "onboard_time": 1666450764,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 220593,
@@ -6627,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134675,
+      "num": 19859,
+      "word": "切尔西vs曼联",
+      "onboard_time": 1666453344,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134108,
       "num": 134108,
       "word": "狗狗好像不喜欢过生日",
@@ -7115,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117675,
+      "num": 9870,
+      "word": "咋样这票买的值吧",
+      "onboard_time": 1666454362,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117380,
       "num": 63233,
       "word": "蔡徐坤现象沸腾校园舞台预告",
@@ -7515,14 +7539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102653,
-      "num": 19859,
-      "word": "切尔西vs曼联",
-      "onboard_time": 1666453344,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102126,
       "num": 27075,
       "word": "张颜齐抛锤掉落临危不乱",
@@ -7761,14 +7777,6 @@
       "onboard_time": 1666016907,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94049,
-      "num": 19857,
-      "word": "原来大家都是晚八人",
-      "onboard_time": 1666453225,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 94042,
@@ -8777,6 +8785,14 @@
       "onboard_time": 1666357463,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62408,
+      "num": 9758,
+      "word": "郑在玹golddust舞台",
+      "onboard_time": 1666455202,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 62342,

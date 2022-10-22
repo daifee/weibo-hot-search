@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666453554056,
+  "endTime": 1666456584661,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -10315,6 +10315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409357,
+      "num": 22073,
+      "word": "当你在图书馆坐一天后",
+      "onboard_time": 1666452024,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409337,
       "num": 214787,
       "word": "在家数1万粒米算是奇葩作业吗",
@@ -11441,6 +11449,14 @@
       "onboard_time": 1665234507,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 376252,
+      "num": 151517,
+      "word": "当希望工程大眼睛女孩成为奉献者",
+      "onboard_time": 1666450764,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 375989,
@@ -14393,14 +14409,6 @@
       "onboard_time": 1665892350,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295131,
-      "num": 22073,
-      "word": "当你在图书馆坐一天后",
-      "onboard_time": 1666452024,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 295113,
@@ -18451,6 +18459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226502,
+      "num": 19857,
+      "word": "原来大家都是晚八人",
+      "onboard_time": 1666453225,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226484,
       "num": 226484,
       "word": "唐朝诡事录黄梅杀好烧脑",
@@ -18889,14 +18905,6 @@
       "onboard_time": 1665489563,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221011,
-      "num": 151517,
-      "word": "当希望工程大眼睛女孩成为奉献者",
-      "onboard_time": 1666450764,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 220770,
@@ -26035,6 +26043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134675,
+      "num": 19859,
+      "word": "切尔西vs曼联",
+      "onboard_time": 1666453344,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134665,
       "num": 134665,
       "word": "王一博GQ概念封面",
@@ -27683,6 +27699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117675,
+      "num": 9870,
+      "word": "咋样这票买的值吧",
+      "onboard_time": 1666454362,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117658,
       "num": 117658,
       "word": "多少度你会开始穿秋裤",
@@ -29115,14 +29139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102653,
-      "num": 19859,
-      "word": "切尔西vs曼联",
-      "onboard_time": 1666453344,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102652,
       "num": 102652,
       "word": "曼彻斯特德比",
@@ -29993,14 +30009,6 @@
       "onboard_time": 1664615542,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94049,
-      "num": 19857,
-      "word": "原来大家都是晚八人",
-      "onboard_time": 1666453225,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 94042,
@@ -33009,6 +33017,14 @@
       "onboard_time": 1666357463,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62408,
+      "num": 9758,
+      "word": "郑在玹golddust舞台",
+      "onboard_time": 1666455202,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 62342,
