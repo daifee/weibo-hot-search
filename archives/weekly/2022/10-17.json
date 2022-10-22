@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666430845367,
+  "endTime": 1666431938244,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -323,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1125863,
+      "num": 55369,
+      "word": "王楚钦3比2马龙",
+      "onboard_time": 1666429882,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1116169,
       "num": 128689,
       "word": "200斤男子为备婚减肥7个月瘦40斤",
@@ -585,14 +593,6 @@
       "onboard_time": 1666006939,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 895154,
-      "num": 55369,
-      "word": "王楚钦3比2马龙",
-      "onboard_time": 1666429882,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 880576,
@@ -2099,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 417832,
+      "num": 55258,
+      "word": "姑娘蹲路边哭泣阿姨掏100元解围",
+      "onboard_time": 1666428801,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417392,
       "num": 141469,
       "word": "被夸奖时这么回应就对了",
@@ -2507,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367905,
+      "num": 54968,
+      "word": "刘惠明去世",
+      "onboard_time": 1666429524,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366814,
       "num": 536734,
       "word": "八项规定长期有效",
@@ -2691,14 +2707,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 343533,
-      "num": 55258,
-      "word": "姑娘蹲路边哭泣阿姨掏100元解围",
-      "onboard_time": 1666428801,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341958,
       "num": 159858,
       "word": "广东民企百强华为退居第二",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1666067366,
       "rank": 19,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 339966,
+      "num": 54690,
+      "word": "晚上八点是属于自己的",
+      "onboard_time": 1666430065,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 338048,
@@ -3659,6 +3675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260161,
+      "num": 48606,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1666431204,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259542,
       "num": 201958,
       "word": "原来小猫也会装痛",
@@ -4075,6 +4099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235246,
+      "num": 48604,
+      "word": "你能接受对象几天不联系你",
+      "onboard_time": 1666431023,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234774,
       "num": 210145,
       "word": "马嘉祺发文感谢杨坤",
@@ -4137,14 +4169,6 @@
       "onboard_time": 1666048397,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231864,
-      "num": 54968,
-      "word": "刘惠明去世",
-      "onboard_time": 1666429524,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 231671,
@@ -4475,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215225,
+      "num": 54637,
+      "word": "1岁幼童反锁在屋父母监控喊话开门",
+      "onboard_time": 1666429583,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215181,
       "num": 409202,
       "word": "北斗导航系统实现信号全球覆盖",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1666371377,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202213,
+      "num": 48404,
+      "word": "陈幸同3比0王艺迪",
+      "onboard_time": 1666431922,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 201784,
@@ -6307,14 +6347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131465,
-      "num": 54690,
-      "word": "晚上八点是属于自己的",
-      "onboard_time": 1666430065,
-      "rank": 29,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 131325,
       "num": 16691,
       "word": "利物浦vs曼城",
@@ -6512,14 +6544,6 @@
       "word": "90后消防员成为二十大代表",
       "onboard_time": 1666338265,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122617,
-      "num": 54637,
-      "word": "1岁幼童反锁在屋父母监控喊话开门",
-      "onboard_time": 1666429583,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7035,6 +7059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104859,
+      "num": 54156,
+      "word": "当婚礼偶遇隔壁学校运动会",
+      "onboard_time": 1666430546,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104152,
       "num": 65817,
       "word": "八旬老人为热心女孩连寄5年特产",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1666413625,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101837,
+      "num": 48487,
+      "word": "秋日饮品的正确打开方式",
+      "onboard_time": 1666430963,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 101764,
@@ -7723,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79308,
+      "num": 56582,
+      "word": "福建男篮vs辽宁男篮",
+      "onboard_time": 1666428262,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79233,
       "num": 79233,
       "word": "外资巨头增持中资互联网股",
@@ -7736,6 +7784,14 @@
       "word": "90后独臂女孩带领全村触网致富",
       "onboard_time": 1666321284,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78832,
+      "num": 48451,
+      "word": "青海湖裸鲤资源量十年增长42倍",
+      "onboard_time": 1666431323,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -7809,6 +7865,14 @@
       "onboard_time": 1666244063,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76738,
+      "num": 48434,
+      "word": "跳绳真的能跳出花",
+      "onboard_time": 1666431144,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 76653,
@@ -7921,14 +7985,6 @@
       "onboard_time": 1666325664,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72640,
-      "num": 56582,
-      "word": "福建男篮vs辽宁男篮",
-      "onboard_time": 1666428262,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 71973,
@@ -8259,6 +8315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61940,
+      "num": 48390,
+      "word": "1套动作缓解含胸驼背",
+      "onboard_time": 1666431922,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61814,
       "num": 61814,
       "word": "祁连山雪后云海好壮观",
@@ -8369,14 +8433,6 @@
       "onboard_time": 1666263684,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58130,
-      "num": 54156,
-      "word": "当婚礼偶遇隔壁学校运动会",
-      "onboard_time": 1666430546,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 58048,

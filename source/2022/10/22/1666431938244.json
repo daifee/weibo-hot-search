@@ -1,0 +1,410 @@
+{
+  "runTime": 1666431938244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499288,
+        "num": 499288,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334459,
+        "num": 334459,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603524,
+        "num": 298236,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 357334,
+        "num": 235449,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152254,
+        "num": 152254,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97296,
+        "num": 97296,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93336,
+        "num": 93336,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91298,
+        "num": 91298,
+        "word": "我国将进行载人月球探测",
+        "onboard_time": 1666416387,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 57849,
+        "num": 57849,
+        "word": "背母上学的他回乡帮1800多人重返校园",
+        "onboard_time": 1666418962,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48653,
+        "num": 48653,
+        "word": "二十大第二场党代表通道",
+        "onboard_time": 1666418543,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125863,
+        "num": 48650,
+        "word": "王楚钦3比2马龙",
+        "onboard_time": 1666429882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801606,
+        "num": 48645,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417832,
+        "num": 48633,
+        "word": "姑娘蹲路边哭泣阿姨掏100元解围",
+        "onboard_time": 1666428801,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366118,
+        "num": 48631,
+        "word": "马龙vs王楚钦",
+        "onboard_time": 1666425742,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339966,
+        "num": 48626,
+        "word": "晚上八点是属于自己的",
+        "onboard_time": 1666430065,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 296326,
+        "num": 48614,
+        "word": "伊藤美诚3比2斯佐科斯",
+        "onboard_time": 1666427003,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260161,
+        "num": 48606,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1666431204,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235246,
+        "num": 48604,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215225,
+        "num": 48596,
+        "word": "1岁幼童反锁在屋父母监控喊话开门",
+        "onboard_time": 1666429583,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197905,
+        "num": 48590,
+        "word": "这尾巴真是扫我心里去了",
+        "onboard_time": 1666425862,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1032813,
+        "num": 48586,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367905,
+        "num": 48575,
+        "word": "刘惠明去世",
+        "onboard_time": 1666429524,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191394,
+        "num": 48570,
+        "word": "奶奶假动作盛汤哄宝宝吃辅食",
+        "onboard_time": 1666422082,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187396,
+        "num": 48562,
+        "word": "IVE获得音中一位",
+        "onboard_time": 1666427422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173388,
+        "num": 48557,
+        "word": "第一批当老师的95后现在怎样啦",
+        "onboard_time": 1666419444,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 168591,
+        "num": 48546,
+        "word": "11月预排播电视剧",
+        "onboard_time": 1666419745,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 48546,
+        "word": "被小猫文学整破防了",
+        "onboard_time": 1666424422,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153562,
+        "num": 48537,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 48530,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141457,
+        "num": 48520,
+        "word": "女足世界杯中国英格兰同组",
+        "onboard_time": 1666426042,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140159,
+        "num": 48517,
+        "word": "宋雨琦音中舞台ending",
+        "onboard_time": 1666427003,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131791,
+        "num": 48506,
+        "word": "德国总理朔尔茨确认下月初率团访华",
+        "onboard_time": 1666414103,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104859,
+        "num": 48505,
+        "word": "当婚礼偶遇隔壁学校运动会",
+        "onboard_time": 1666430546,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103896,
+        "num": 48494,
+        "word": "gidle音乐中心舞台",
+        "onboard_time": 1666425501,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101837,
+        "num": 48487,
+        "word": "秋日饮品的正确打开方式",
+        "onboard_time": 1666430963,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100758,
+        "num": 48479,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94980,
+        "num": 48473,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94290,
+        "num": 48469,
+        "word": "Wei哭了",
+        "onboard_time": 1666406002,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84691,
+        "num": 48462,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79308,
+        "num": 48451,
+        "word": "福建男篮vs辽宁男篮",
+        "onboard_time": 1666428262,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78832,
+        "num": 48451,
+        "word": "青海湖裸鲤资源量十年增长42倍",
+        "onboard_time": 1666431323,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78932,
+        "num": 48439,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76738,
+        "num": 48434,
+        "word": "跳绳真的能跳出花",
+        "onboard_time": 1666431144,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66203,
+        "num": 48429,
+        "word": "四姑娘山云海与日出相伴",
+        "onboard_time": 1666426883,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 70654,
+        "num": 48424,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65593,
+        "num": 48413,
+        "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
+        "onboard_time": 1666411403,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64664,
+        "num": 48410,
+        "word": "视力障碍是特点不是缺点",
+        "onboard_time": 1666426342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202213,
+        "num": 48404,
+        "word": "陈幸同3比0王艺迪",
+        "onboard_time": 1666431922,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66163,
+        "num": 48397,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61940,
+        "num": 48390,
+        "word": "1套动作缓解含胸驼背",
+        "onboard_time": 1666431922,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大胜利闭幕#"
+    }
+  }
+}
