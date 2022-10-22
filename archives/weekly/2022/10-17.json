@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666396092930,
+  "endTime": 1666405299823,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844178,
+      "num": 844178,
+      "word": "二十大闭幕会特别报道",
+      "onboard_time": 1666403304,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843856,
       "num": 162135,
       "word": "RNG告别TI11",
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 722342,
-      "num": 7775,
+      "num": 16797,
       "word": "小虎在干嘛",
       "onboard_time": 1666394598,
       "rank": 21,
@@ -873,6 +881,14 @@
       "onboard_time": 1665993082,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 691606,
+      "num": 16847,
+      "word": "RNG发文告别S12",
+      "onboard_time": 1666398142,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 690466,
@@ -1163,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576050,
+      "num": 16832,
+      "word": "mlxg评价RNG比赛",
+      "onboard_time": 1666399524,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 570859,
       "num": 176290,
       "word": "女子赶海意外捡到大量罕见紫房蛤",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1666137203,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 537294,
+      "num": 16819,
+      "word": "管泽元 RNG",
+      "onboard_time": 1666400304,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 536288,
@@ -1667,6 +1699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 469870,
+      "num": 16753,
+      "word": "T1零封战胜RNG",
+      "onboard_time": 1666396584,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469564,
       "num": 190865,
       "word": "金钟奖",
@@ -1811,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432293,
+      "num": 16836,
+      "word": "糖吃多了会老得更快",
+      "onboard_time": 1666402284,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430717,
       "num": 220926,
       "word": "多家航司宣布恢复并增班多条国际航线",
@@ -1899,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415916,
+      "num": 16803,
+      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+      "onboard_time": 1666381571,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414878,
       "num": 172424,
       "word": "苏贞昌确诊新冠",
@@ -1921,6 +1977,14 @@
       "onboard_time": 1665991581,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 414413,
+      "num": 16805,
+      "word": "没有uzi的rng",
+      "onboard_time": 1666403240,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 414372,
@@ -2099,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386486,
+      "num": 16830,
+      "word": "56岁男英语老师穿豹纹服装上课",
+      "onboard_time": 1666402224,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 386111,
       "num": 305631,
       "word": "全红婵207C拿到10分",
@@ -2161,14 +2233,6 @@
       "onboard_time": 1666149263,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 377335,
-      "num": 7777,
-      "word": "女子疑因摸狗未洗手眼内长2cm线虫",
-      "onboard_time": 1666381571,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377016,
@@ -2651,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314590,
+      "num": 314590,
+      "word": "二十大",
+      "onboard_time": 1665825984,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314130,
       "num": 139221,
       "word": "苹果公司削减iPhone14Plus产量",
@@ -2761,6 +2833,14 @@
       "onboard_time": 1666278390,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306545,
+      "num": 16781,
+      "word": "RNG连续两年止步S赛八强",
+      "onboard_time": 1666400542,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 306186,
@@ -2883,20 +2963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297478,
-      "num": 297478,
-      "word": "二十大",
-      "onboard_time": 1665825984,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296726,
       "num": 111966,
       "word": "高德地图适配苹果灵动岛",
       "onboard_time": 1666340544,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 295537,
+      "num": 16798,
+      "word": "李惠利新剧演入殓师",
+      "onboard_time": 1666400364,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 295495,
@@ -3081,6 +3161,14 @@
       "onboard_time": 1666356743,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 282034,
+      "num": 16815,
+      "word": "被山东硬核朝天锅馋到了",
+      "onboard_time": 1666400123,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 281516,
@@ -3731,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232700,
+      "num": 16792,
+      "word": "伊朗海军宣布俘获两艘美国无人舰艇",
+      "onboard_time": 1666395920,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 232451,
       "num": 472190,
       "word": "心跳加速原来是这种感觉",
@@ -3961,6 +4057,14 @@
       "onboard_time": 1665923784,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 221913,
+      "num": 66720,
+      "word": "它怎么有点像周杰伦",
+      "onboard_time": 1666369999,
+      "rank": 28,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 221547,
@@ -4396,7 +4500,7 @@
     },
     {
       "raw_hot": 196353,
-      "num": 7779,
+      "num": 16757,
       "word": "33岁男子隔窗陪出租屋萌娃聊天",
       "onboard_time": 1666381631,
       "rank": 19,
@@ -4611,6 +4715,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 185244,
+      "num": 16772,
+      "word": "没想到腿疼的人下楼能这么丝滑",
+      "onboard_time": 1666387213,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185236,
       "num": 217115,
       "word": "14年前带母求学的他成了二十大代表",
@@ -4772,7 +4884,7 @@
     },
     {
       "raw_hot": 177120,
-      "num": 6309,
+      "num": 16767,
       "word": "EDG",
       "onboard_time": 1666395798,
       "rank": 23,
@@ -4897,14 +5009,6 @@
       "onboard_time": 1666359864,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171216,
-      "num": 7767,
-      "word": "没想到腿疼的人下楼能这么丝滑",
-      "onboard_time": 1666387213,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170973,
@@ -5113,14 +5217,6 @@
       "onboard_time": 1666234042,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163910,
-      "num": 66720,
-      "word": "它怎么有点像周杰伦",
-      "onboard_time": 1666369999,
-      "rank": 28,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 162367,
@@ -5332,7 +5428,7 @@
     },
     {
       "raw_hot": 150454,
-      "num": 7760,
+      "num": 16722,
       "word": "义乌市委书记谈取暖神器热销欧洲",
       "onboard_time": 1666385171,
       "rank": 22,
@@ -5505,6 +5601,14 @@
       "onboard_time": 1666352002,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142387,
+      "num": 16759,
+      "word": "陈赫角色反差感",
+      "onboard_time": 1666401923,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 141837,
@@ -5716,7 +5820,7 @@
     },
     {
       "raw_hot": 133088,
-      "num": 7765,
+      "num": 16725,
       "word": "谷歌日本造了个1.65米单排键盘",
       "onboard_time": 1666388351,
       "rank": 49,
@@ -5867,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128004,
+      "num": 128004,
+      "word": "二十大报告中的关键论述",
+      "onboard_time": 1666398744,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127364,
       "num": 153411,
       "word": "TVB新剧上车家族开播全员发车",
@@ -5979,12 +6091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121776,
+      "num": 16730,
+      "word": "JDG半决赛对战T1",
+      "onboard_time": 1666397362,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121319,
       "num": 96650,
       "word": "广东男篮vs上海男篮",
       "onboard_time": 1666353802,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121106,
+      "num": 16730,
+      "word": "男子做1小时心肺复苏救回小猫",
+      "onboard_time": 1666404262,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121007,
@@ -6907,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85620,
+      "num": 16694,
+      "word": "马嘉祺我们的歌下期打架子鼓",
+      "onboard_time": 1666405224,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85100,
       "num": 420593,
       "word": "高铁司机13年默默助学20个孩子",
@@ -7043,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79315,
+      "num": 16687,
+      "word": "奶爸为照顾妻儿考下月嫂证",
+      "onboard_time": 1666404923,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79233,
       "num": 79233,
       "word": "外资巨头增持中资互联网股",
@@ -7097,6 +7241,14 @@
       "onboard_time": 1665916282,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77380,
+      "num": 16680,
+      "word": "梅西助攻",
+      "onboard_time": 1666397302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77185,
@@ -7579,12 +7731,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61149,
-      "num": 6301,
-      "word": "伊朗海军宣布俘获两艘美国无人舰艇",
-      "onboard_time": 1666395920,
-      "rank": 46,
-      "category": "军事"
+      "raw_hot": 61192,
+      "num": 61192,
+      "word": "9个数字来学二十大报告",
+      "onboard_time": 1666399402,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60957,
@@ -7963,6 +8115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38534,
+      "num": 38534,
+      "word": "新征程再出发",
+      "onboard_time": 1666395198,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37862,
       "num": 7334,
       "word": "看手机时下巴微收可减少颈椎压力",
@@ -7992,6 +8152,14 @@
       "word": "护士捐造血干细胞燃生命火种",
       "onboard_time": 1666170022,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35867,
+      "num": 35867,
+      "word": "党的二十大报告点赞这些科技领域",
+      "onboard_time": 1666393936,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8073,14 +8241,6 @@
       "onboard_time": 1665926543,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27786,
-      "num": 27786,
-      "word": "党的二十大报告点赞这些科技领域",
-      "onboard_time": 1666393936,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27749,
@@ -8871,6 +9031,9 @@
     },
     {
       "word": "#党的二十大主席团举行第三次会议#"
+    },
+    {
+      "word": "#二十大闭幕会#"
     }
   ]
 }

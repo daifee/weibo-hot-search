@@ -1,0 +1,410 @@
+{
+  "runTime": 1666405299823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 844178,
+        "num": 844178,
+        "word": "二十大闭幕会特别报道",
+        "onboard_time": 1666403304,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314590,
+        "num": 314590,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128004,
+        "num": 128004,
+        "word": "二十大报告中的关键论述",
+        "onboard_time": 1666398744,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685513,
+        "num": 113118,
+        "word": "坚持跑步10年会有什么变化",
+        "onboard_time": 1666344562,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215905,
+        "num": 106053,
+        "word": "全红婵陈芋汐双人10米台夺冠",
+        "onboard_time": 1666355903,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72166,
+        "num": 72166,
+        "word": "党的二十大报告提到的大国重器",
+        "onboard_time": 1666357165,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61192,
+        "num": 61192,
+        "word": "9个数字来学二十大报告",
+        "onboard_time": 1666399402,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38534,
+        "num": 38534,
+        "word": "新征程再出发",
+        "onboard_time": 1666395198,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35867,
+        "num": 35867,
+        "word": "党的二十大报告点赞这些科技领域",
+        "onboard_time": 1666393936,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16847,
+        "num": 16847,
+        "word": "一张思维导图了解中国式现代化",
+        "onboard_time": 1666332985,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691606,
+        "num": 16847,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451952,
+        "num": 16839,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432293,
+        "num": 16836,
+        "word": "糖吃多了会老得更快",
+        "onboard_time": 1666402284,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576050,
+        "num": 16832,
+        "word": "mlxg评价RNG比赛",
+        "onboard_time": 1666399524,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386486,
+        "num": 16830,
+        "word": "56岁男英语老师穿豹纹服装上课",
+        "onboard_time": 1666402224,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 311926,
+        "num": 16826,
+        "word": "90后老师出题答案全选A",
+        "onboard_time": 1666355481,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 537294,
+        "num": 16819,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282034,
+        "num": 16815,
+        "word": "被山东硬核朝天锅馋到了",
+        "onboard_time": 1666400123,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251351,
+        "num": 16811,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414413,
+        "num": 16805,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415916,
+        "num": 16803,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295537,
+        "num": 16798,
+        "word": "李惠利新剧演入殓师",
+        "onboard_time": 1666400364,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375886,
+        "num": 16797,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232700,
+        "num": 16792,
+        "word": "伊朗海军宣布俘获两艘美国无人舰艇",
+        "onboard_time": 1666395920,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 221913,
+        "num": 16788,
+        "word": "它怎么有点像周杰伦",
+        "onboard_time": 1666369999,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 306545,
+        "num": 16781,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189419,
+        "num": 16778,
+        "word": "比王宝钏还恋爱脑的是秦香莲",
+        "onboard_time": 1666346062,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185244,
+        "num": 16772,
+        "word": "没想到腿疼的人下楼能这么丝滑",
+        "onboard_time": 1666387213,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177438,
+        "num": 16769,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161550,
+        "num": 16767,
+        "word": "EDG",
+        "onboard_time": 1666395798,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142387,
+        "num": 16759,
+        "word": "陈赫角色反差感",
+        "onboard_time": 1666401923,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140640,
+        "num": 16757,
+        "word": "33岁男子隔窗陪出租屋萌娃聊天",
+        "onboard_time": 1666381631,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469870,
+        "num": 16753,
+        "word": "T1零封战胜RNG",
+        "onboard_time": 1666396584,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140474,
+        "num": 16747,
+        "word": "请回答1988美食名场面",
+        "onboard_time": 1666368745,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138210,
+        "num": 16744,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 128811,
+        "num": 16740,
+        "word": "lulu 金钟奖",
+        "onboard_time": 1666365506,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124101,
+        "num": 16734,
+        "word": "大学没谈过恋爱会后悔吗",
+        "onboard_time": 1666352962,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121776,
+        "num": 16730,
+        "word": "JDG半决赛对战T1",
+        "onboard_time": 1666397362,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121106,
+        "num": 16730,
+        "word": "男子做1小时心肺复苏救回小猫",
+        "onboard_time": 1666404262,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114468,
+        "num": 16725,
+        "word": "谷歌日本造了个1.65米单排键盘",
+        "onboard_time": 1666388351,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109867,
+        "num": 16722,
+        "word": "义乌市委书记谈取暖神器热销欧洲",
+        "onboard_time": 1666385171,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102875,
+        "num": 16717,
+        "word": "女儿吃饭磨蹭40分钟妈妈抢过炫干净",
+        "onboard_time": 1666337545,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100833,
+        "num": 16711,
+        "word": "第一次吃西餐是什么体验",
+        "onboard_time": 1666367484,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98196,
+        "num": 16705,
+        "word": "地震被埋45天小猪见主人非常温顺",
+        "onboard_time": 1666343183,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95444,
+        "num": 16705,
+        "word": "癌症晚期或将存在根治可能",
+        "onboard_time": 1666336463,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 87646,
+        "num": 16697,
+        "word": "10岁男孩吞下103颗钢珠",
+        "onboard_time": 1666336763,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85620,
+        "num": 16694,
+        "word": "马嘉祺我们的歌下期打架子鼓",
+        "onboard_time": 1666405224,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82749,
+        "num": 16691,
+        "word": "陈梦2比3斯佐科斯",
+        "onboard_time": 1666362863,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79315,
+        "num": 16687,
+        "word": "奶爸为照顾妻儿考下月嫂证",
+        "onboard_time": 1666404923,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77380,
+        "num": 16680,
+        "word": "梅西助攻",
+        "onboard_time": 1666397302,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大闭幕会#"
+    }
+  }
+}

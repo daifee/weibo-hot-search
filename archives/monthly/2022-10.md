@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 07:48:12
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 10:21:39
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ iPad全线大涨价（热度：851616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E9%97%AD%E5%B9%95%E4%BC%9A%E7%89%B9%E5%88%AB%E6%8A%A5%E9%81%93%23" target="weibo">
+二十大闭幕会特别报道（热度：844178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E5%91%8A%E5%88%ABTI11%23" target="weibo">
 RNG告别TI11（热度：843856）
 </a>
@@ -3629,6 +3635,12 @@ Viper（热度：705111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%85%BE%E8%AE%AF%E4%BD%8D%E5%88%97%E7%AC%AC%E4%B8%80%23" target="weibo">
 茅台市值超过腾讯位列第一（热度：694447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS12%23" target="weibo">
+RNG发文告别S12（热度：691606）
 </a>
 </li>
 
@@ -4719,6 +4731,12 @@ SK（热度：578344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23mlxg%E8%AF%84%E4%BB%B7RNG%E6%AF%94%E8%B5%9B%23" target="weibo">
+mlxg评价RNG比赛（热度：576050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B5%E6%9E%B6%E5%86%85%E5%AE%B9%E9%83%BD%E8%BF%99%E4%B9%88%E9%AB%98%E7%AB%AF%E4%BA%86%E5%90%97%23" target="weibo">
 吵架内容都这么高端了吗（热度：574473）
 </a>
@@ -5195,6 +5213,12 @@ TMA（热度：540431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%9D%E5%A6%88%E7%94%A8%E5%B0%BF%E7%B4%A0%E8%A2%8B%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%81%9A%E6%A0%BC%E6%A0%BC%E6%9C%8D%23" target="weibo">
 90后宝妈用尿素袋运动鞋做格格服（热度：537359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%20RNG%23" target="weibo">
+管泽元 RNG（热度：537294）
 </a>
 </li>
 
@@ -5990,30 +6014,6 @@ LGD（热度：496178）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%9111%E6%8A%950%E4%B8%AD%23" target="weibo">
-威少11投0中（热度：482507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A5%E6%83%8A%E4%BA%91%E7%BB%88%E4%BA%8E%E4%BD%93%E4%BC%9A%E5%BD%93%E7%88%B8%E7%88%B8%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%B9%90%23" target="weibo">
-步惊云终于体会当爸爸有多快乐（热度：482477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%83%E5%A5%96%23" target="weibo">
-金球奖（热度：482289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%A0%E5%BC%804%E5%9C%BA%23" target="weibo">
-陈奕迅香港演唱会加开4场（热度：482210）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6389,6 +6389,12 @@ LGD（热度：496178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BB%E5%B8%AD%E5%9B%A2%E4%B8%BE%E8%A1%8C%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
 #党的二十大主席团举行第三次会议#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E9%97%AD%E5%B9%95%E4%BC%9A%23%23" target="weibo">
+#二十大闭幕会#
 </a>
 </li>
 
