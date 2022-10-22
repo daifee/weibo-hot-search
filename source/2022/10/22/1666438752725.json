@@ -1,0 +1,410 @@
+{
+  "runTime": 1666438752725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415239,
+        "num": 415239,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347666,
+        "num": 347666,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490628,
+        "num": 314745,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254845,
+        "num": 254845,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217064,
+        "num": 217064,
+        "word": "二十大关于十九届中央委员会报告的决议",
+        "onboard_time": 1666436004,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174925,
+        "num": 174925,
+        "word": "二十大关于党章修正案的决议",
+        "onboard_time": 1666436904,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 163615,
+        "num": 163615,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72389,
+        "num": 72389,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62501,
+        "num": 62501,
+        "word": "我国将进行载人月球探测",
+        "onboard_time": 1666416387,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 61182,
+        "num": 61182,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804799,
+        "num": 61098,
+        "word": "樊振东vs林昀儒",
+        "onboard_time": 1666436484,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646849,
+        "num": 60931,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 640152,
+        "num": 60698,
+        "word": "男生考研二战用零食当书签",
+        "onboard_time": 1666433963,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 502565,
+        "num": 60450,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445940,
+        "num": 60294,
+        "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+        "onboard_time": 1666433424,
+        "rank": 14,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 370660,
+        "num": 60086,
+        "word": "预约人数破100万的古偶",
+        "onboard_time": 1666437685,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360283,
+        "num": 59880,
+        "word": "狗狗趁主人不注意狂炫41个饺子",
+        "onboard_time": 1666435345,
+        "rank": 16,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 295996,
+        "num": 59726,
+        "word": "王楚钦3比2马龙",
+        "onboard_time": 1666429882,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263332,
+        "num": 59629,
+        "word": "男生物理首次及格老师握手鼓励",
+        "onboard_time": 1666434264,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 247260,
+        "num": 59332,
+        "word": "苏州小树林惊现一梅花鹿",
+        "onboard_time": 1666432704,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595735,
+        "num": 59113,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419174,
+        "num": 59077,
+        "word": "刘惠明去世",
+        "onboard_time": 1666429524,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243987,
+        "num": 58888,
+        "word": "晚上八点是属于自己的",
+        "onboard_time": 1666430065,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 225749,
+        "num": 58551,
+        "word": "六小龄童悼念刘惠明",
+        "onboard_time": 1666435764,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191760,
+        "num": 58489,
+        "word": "姑娘蹲路边哭泣阿姨掏100元解围",
+        "onboard_time": 1666428801,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155926,
+        "num": 58313,
+        "word": "1岁幼童反锁在屋父母监控喊话开门",
+        "onboard_time": 1666429583,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140469,
+        "num": 58171,
+        "word": "宫脇咲良ANTIFRAGILE909横版直拍",
+        "onboard_time": 1666434444,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 57931,
+        "word": "蔡徐坤现象舞蹈教学",
+        "onboard_time": 1666433724,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116989,
+        "num": 57695,
+        "word": "11月预排播电视剧",
+        "onboard_time": 1666419745,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110638,
+        "num": 57507,
+        "word": "95后小伙把养老院办成幼儿园",
+        "onboard_time": 1666437203,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101699,
+        "num": 57265,
+        "word": "陈幸同3比0王艺迪",
+        "onboard_time": 1666431922,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99145,
+        "num": 57137,
+        "word": "德国总理朔尔茨确认下月初率团访华",
+        "onboard_time": 1666414103,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 88078,
+        "num": 56920,
+        "word": "第一批当老师的95后现在怎样啦",
+        "onboard_time": 1666419444,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 87509,
+        "num": 56764,
+        "word": "被小猫文学整破防了",
+        "onboard_time": 1666424422,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80208,
+        "num": 56552,
+        "word": "当婚礼偶遇隔壁学校运动会",
+        "onboard_time": 1666430546,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75611,
+        "num": 56354,
+        "word": "5年上千次试验只为让战机心脏妥妥的",
+        "onboard_time": 1666433063,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75394,
+        "num": 56185,
+        "word": "IVE获得音中一位",
+        "onboard_time": 1666427422,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75122,
+        "num": 55943,
+        "word": "这尾巴真是扫我心里去了",
+        "onboard_time": 1666425862,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75120,
+        "num": 55730,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71867,
+        "num": 55672,
+        "word": "奶奶假动作盛汤哄宝宝吃辅食",
+        "onboard_time": 1666422082,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68223,
+        "num": 55465,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70487,
+        "num": 55170,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62258,
+        "num": 55160,
+        "word": "伊藤美诚3比2斯佐科斯",
+        "onboard_time": 1666427003,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54972,
+        "num": 54972,
+        "word": "萌娃和奶奶英语方言无碍障交流",
+        "onboard_time": 1666438284,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61361,
+        "num": 54677,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51901,
+        "num": 51901,
+        "word": "宋雨琦音中舞台ending",
+        "onboard_time": 1666427003,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51329,
+        "num": 51329,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54551,
+        "num": 50460,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48608,
+        "num": 48608,
+        "word": "女足世界杯中国英格兰同组",
+        "onboard_time": 1666426042,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47195,
+        "num": 47195,
+        "word": "12岁男孩做饭5年煎炸炒煮全精通",
+        "onboard_time": 1666438703,
+        "rank": 49,
+        "category": "社会新闻,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大胜利闭幕#"
+    }
+  }
+}
