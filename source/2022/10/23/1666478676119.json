@@ -1,0 +1,410 @@
+{
+  "runTime": 1666478676119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67100,
+        "num": 67100,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40108,
+        "num": 40108,
+        "word": "二十大关于党章修正案的决议",
+        "onboard_time": 1666436904,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3324,
+        "num": 30094,
+        "word": "新征程再出发",
+        "onboard_time": 1666395198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64508,
+        "num": 29406,
+        "word": "盛会闭幕张桂梅有句心里话",
+        "onboard_time": 1666473612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26977,
+        "num": 26977,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23579,
+        "num": 23579,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22045,
+        "num": 22045,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 21877,
+        "word": "塞罕坝正在打造智慧林场",
+        "onboard_time": 1666473612,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16362,
+        "num": 16362,
+        "word": "钢铁工人讲述工厂如何变公园",
+        "onboard_time": 1666473612,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13332,
+        "num": 13332,
+        "word": "我国水运基础设施规模世界第一",
+        "onboard_time": 1666440024,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18589,
+        "num": 12588,
+        "word": "二十大报告百余次提及人民",
+        "onboard_time": 1666441763,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11727,
+        "num": 11727,
+        "word": "代表热议如何提升群众幸福指数",
+        "onboard_time": 1666447285,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10995,
+        "num": 10995,
+        "word": "这里有一个你不知道的十年",
+        "onboard_time": 1666444764,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9593,
+        "num": 9593,
+        "word": "我们完全有信心有能力创造更大奇迹",
+        "onboard_time": 1666442244,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8818,
+        "num": 8818,
+        "word": "二十大第二场党代表通道",
+        "onboard_time": 1666418543,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6172,
+        "num": 6172,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3437,
+        "num": 3437,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3376,
+        "num": 3376,
+        "word": "二十大关于十九届中央委员会报告的决议",
+        "onboard_time": 1666436004,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2681,
+        "num": 2681,
+        "word": "为2035年的美好中国团结奋斗",
+        "onboard_time": 1666410863,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438,
+        "num": 438,
+        "word": "二十大报告中的关键论述",
+        "onboard_time": 1666398744,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261128,
+        "num": 438,
+        "word": "长沙发现一例恐龙血血型",
+        "onboard_time": 1666448665,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96284,
+        "num": 432,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93555,
+        "num": 423,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74843,
+        "num": 421,
+        "word": "男孩被训斥深夜到派出所举报母亲",
+        "onboard_time": 1666466231,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74739,
+        "num": 416,
+        "word": "鹤岗买房真的值吗",
+        "onboard_time": 1666442425,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 68305,
+        "num": 408,
+        "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+        "onboard_time": 1666433424,
+        "rank": 25,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 61455,
+        "num": 408,
+        "word": "男子凌晨买下8旬老人全部蔬菜",
+        "onboard_time": 1666442964,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55743,
+        "num": 401,
+        "word": "王一博街舞5吹口哨吓到李承铉",
+        "onboard_time": 1666446504,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48462,
+        "num": 396,
+        "word": "预约人数破100万的古偶",
+        "onboard_time": 1666437685,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47777,
+        "num": 393,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47106,
+        "num": 387,
+        "word": "陈幸同4比1伊藤美诚",
+        "onboard_time": 1666450587,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45006,
+        "num": 379,
+        "word": "老师转发小学生作品被选登杂志",
+        "onboard_time": 1666465693,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 43731,
+        "num": 379,
+        "word": "12岁男孩做饭5年煎炸炒煮全精通",
+        "onboard_time": 1666438703,
+        "rank": 32,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 42604,
+        "num": 370,
+        "word": "当你在图书馆坐一天后",
+        "onboard_time": 1666452024,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41968,
+        "num": 366,
+        "word": "当你把会员借给很多朋友",
+        "onboard_time": 1666445903,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41808,
+        "num": 362,
+        "word": "72岁奶奶体验1200米高空滑翔伞",
+        "onboard_time": 1666467672,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38550,
+        "num": 354,
+        "word": "狗狗趁主人不注意狂炫41个饺子",
+        "onboard_time": 1666435345,
+        "rank": 36,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 34866,
+        "num": 349,
+        "word": "切尔西vs曼联",
+        "onboard_time": 1666453344,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31839,
+        "num": 347,
+        "word": "尚雯婕107岁佘太君扮相",
+        "onboard_time": 1666440202,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 342,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1666446384,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 338,
+        "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+        "onboard_time": 1666469952,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25929,
+        "num": 331,
+        "word": "罗本展颜定情之吻",
+        "onboard_time": 1666457358,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23978,
+        "num": 327,
+        "word": "在恋爱中男朋友会撒娇吗",
+        "onboard_time": 1666439544,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23239,
+        "num": 322,
+        "word": "咋样这票买的值吧",
+        "onboard_time": 1666454362,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 316,
+        "word": "原来大家都是晚八人",
+        "onboard_time": 1666453225,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17876,
+        "num": 310,
+        "word": "已经很多年没谈恋爱了",
+        "onboard_time": 1666443325,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15762,
+        "num": 305,
+        "word": "当希望工程大眼睛女孩成为奉献者",
+        "onboard_time": 1666450764,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13934,
+        "num": 300,
+        "word": "TI11",
+        "onboard_time": 1666450645,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12220,
+        "num": 296,
+        "word": "刘雨昕学舞的速度",
+        "onboard_time": 1666451603,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11722,
+        "num": 294,
+        "word": "中国17岁小将霹雳舞世锦赛摘银",
+        "onboard_time": 1666477513,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

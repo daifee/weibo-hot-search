@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666477544248,
+  "endTime": 1666478676119,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74843,
+      "num": 3088,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74394,
       "num": 9781,
       "word": "1岁幼童反锁在屋父母监控喊话开门",
@@ -265,6 +273,14 @@
       "onboard_time": 1666447285,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64508,
+      "num": 29406,
+      "word": "盛会闭幕张桂梅有句心里话",
+      "onboard_time": 1666473612,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64430,
@@ -331,14 +347,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 47485,
-      "num": 3088,
-      "word": "男孩被训斥深夜到派出所举报母亲",
-      "onboard_time": 1666466231,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45915,
       "num": 45915,
       "word": "这里有一个你不知道的十年",
@@ -347,19 +355,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45006,
+      "num": 3093,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 41808,
+      "num": 1123,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38946,
       "num": 38946,
       "word": "当上二十大代表的快递员说被叫小哥特亲切",
       "onboard_time": 1666420281,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33405,
-      "num": 24798,
-      "word": "盛会闭幕张桂梅有句心里话",
-      "onboard_time": 1666473612,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -379,14 +395,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 30090,
-      "num": 3093,
-      "word": "老师转发小学生作品被选登杂志",
-      "onboard_time": 1666465693,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 29979,
       "num": 29979,
       "word": "梦天实验舱本月将发射",
@@ -395,19 +403,19 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 29203,
-      "num": 1123,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25318,
       "num": 25318,
       "word": "二十届中央委员会候补委员名单",
       "onboard_time": 1666416148,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21877,
+      "num": 21877,
+      "word": "塞罕坝正在打造智慧林场",
+      "onboard_time": 1666473612,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16362,
+      "num": 16362,
+      "word": "钢铁工人讲述工厂如何变公园",
+      "onboard_time": 1666473612,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14758,
       "num": 3096,
       "word": "英超联赛",
@@ -459,20 +475,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 12039,
-      "num": 12039,
-      "word": "塞罕坝正在打造智慧林场",
-      "onboard_time": 1666473612,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11828,
       "num": 11828,
       "word": "二十大关于十九届中央委员会报告的决议",
       "onboard_time": 1666436004,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11722,
+      "num": 696,
+      "word": "中国17岁小将霹雳舞世锦赛摘银",
+      "onboard_time": 1666477513,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10546,
@@ -491,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7009,
-      "num": 696,
-      "word": "中国17岁小将霹雳舞世锦赛摘银",
-      "onboard_time": 1666477513,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6753,
       "num": 2968,
       "word": "上过学的猫就是不一样",
       "onboard_time": 1666466651,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 6158,
-      "num": 9503,
-      "word": "钢铁工人讲述工厂如何变公园",
-      "onboard_time": 1666473612,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5906,
