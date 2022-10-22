@@ -1,0 +1,410 @@
+{
+  "runTime": 1666418287850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2144196,
+        "num": 2144196,
+        "word": "第二十届中央委员会选举产生",
+        "onboard_time": 1666408643,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1930465,
+        "num": 1930465,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83114,
+        "num": 1138823,
+        "word": "为2035年的美好中国团结奋斗",
+        "onboard_time": 1666410863,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681980,
+        "num": 681980,
+        "word": "二十届中央委员会候补委员名单",
+        "onboard_time": 1666416148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75226,
+        "num": 614532,
+        "word": "党代表通道现场直播",
+        "onboard_time": 1666414586,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606303,
+        "num": 606303,
+        "word": "党的二十大胜利闭幕",
+        "onboard_time": 1666413804,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441230,
+        "num": 441230,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400266,
+        "num": 400266,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337500,
+        "num": 337500,
+        "word": "关于党章修正案的决议通过",
+        "onboard_time": 1666412844,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187349,
+        "num": 187349,
+        "word": "我国将进行载人月球探测",
+        "onboard_time": 1666416387,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 480898,
+        "num": 186111,
+        "word": "只有洗澡的时候不讨厌洗澡",
+        "onboard_time": 1666410144,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 417855,
+        "num": 185500,
+        "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
+        "onboard_time": 1666411403,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309963,
+        "num": 183476,
+        "word": "樊振东状态",
+        "onboard_time": 1666410985,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274110,
+        "num": 182972,
+        "word": "小虎在干嘛",
+        "onboard_time": 1666394598,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128491,
+        "num": 181560,
+        "word": "二十大报告与你的生活息息相关",
+        "onboard_time": 1666399944,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266615,
+        "num": 179889,
+        "word": "丹麦队总教练道歉",
+        "onboard_time": 1666413385,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265908,
+        "num": 178782,
+        "word": "糖吃多了会老得更快",
+        "onboard_time": 1666402284,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223093,
+        "num": 177137,
+        "word": "管泽元 RNG",
+        "onboard_time": 1666400304,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208257,
+        "num": 174875,
+        "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
+        "onboard_time": 1666366105,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 173446,
+        "word": "孙颖莎晋级澳门赛4强",
+        "onboard_time": 1666415002,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292785,
+        "num": 172860,
+        "word": "Wei哭了",
+        "onboard_time": 1666406002,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264304,
+        "num": 171106,
+        "word": "吴克群巡演票价最高360",
+        "onboard_time": 1666407503,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427710,
+        "num": 169418,
+        "word": "德国总理朔尔茨确认下月初率团访华",
+        "onboard_time": 1666414103,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 195782,
+        "num": 167868,
+        "word": "张远我们的歌唱嘉宾",
+        "onboard_time": 1666413023,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193545,
+        "num": 166206,
+        "word": "女子疑因摸狗未洗手眼内长2cm线虫",
+        "onboard_time": 1666381571,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170215,
+        "num": 166019,
+        "word": "孙颖莎3比0郑怡静",
+        "onboard_time": 1666413263,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167316,
+        "num": 164434,
+        "word": "奶爸为照顾妻儿考下月嫂证",
+        "onboard_time": 1666404923,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159705,
+        "num": 162653,
+        "word": "mlxg评价RNG比赛",
+        "onboard_time": 1666399524,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 160967,
+        "word": "56岁男英语老师穿豹纹服装上课",
+        "onboard_time": 1666402224,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135419,
+        "num": 159608,
+        "word": "第二十届中央纪律检查委员会产生",
+        "onboard_time": 1666409484,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133362,
+        "num": 157823,
+        "word": "医生25年献血217次约20个成人血量",
+        "onboard_time": 1666411225,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124280,
+        "num": 157065,
+        "word": "RNG发文告别S12",
+        "onboard_time": 1666398142,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117962,
+        "num": 155350,
+        "word": "女子被骗12万一番神操作全额追回",
+        "onboard_time": 1666363765,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 154048,
+        "word": "关于十九届中央纪律检查委员会工作报告的决议通过",
+        "onboard_time": 1666412304,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80533,
+        "num": 152552,
+        "word": "二十大闭幕会特别报道",
+        "onboard_time": 1666403304,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121279,
+        "num": 151323,
+        "word": "3男子忘付餐费3小时后专程返回补还",
+        "onboard_time": 1666354702,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116612,
+        "num": 149863,
+        "word": "男子做1小时心肺复苏救回小猫",
+        "onboard_time": 1666404262,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110712,
+        "num": 149019,
+        "word": "关于十九届中央委员会报告的决议通过",
+        "onboard_time": 1666411524,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109228,
+        "num": 146720,
+        "word": "请回答1988美食名场面",
+        "onboard_time": 1666368745,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107902,
+        "num": 145791,
+        "word": "没有uzi的rng",
+        "onboard_time": 1666403240,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104389,
+        "num": 143436,
+        "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
+        "onboard_time": 1666349362,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94165,
+        "num": 141961,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1666412605,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94345,
+        "num": 140766,
+        "word": "RNG连续两年止步S赛八强",
+        "onboard_time": 1666400542,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82996,
+        "num": 139301,
+        "word": "0713兄弟团隔空合唱雪落下的声音",
+        "onboard_time": 1666413625,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82943,
+        "num": 139052,
+        "word": "莫兰特49分",
+        "onboard_time": 1666407924,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79635,
+        "num": 136962,
+        "word": "T1零封战胜RNG",
+        "onboard_time": 1666396584,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78079,
+        "num": 135135,
+        "word": "袁嘉楠3比1石川佳纯",
+        "onboard_time": 1666410263,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75901,
+        "num": 134412,
+        "word": "马嘉祺我们的歌下期打架子鼓",
+        "onboard_time": 1666405224,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68970,
+        "num": 132457,
+        "word": "王安宇新剧角色适配度",
+        "onboard_time": 1666417944,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58017,
+        "num": 131020,
+        "word": "樊振东vs约奇克",
+        "onboard_time": 1666411885,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#你好二十大#"
+    }
+  }
+}
