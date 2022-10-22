@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666448725272,
+  "endTime": 1666449797631,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054106,
+      "num": 27877,
+      "word": "陈幸同vs伊藤美诚",
+      "onboard_time": 1666446924,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1050514,
       "num": 228208,
       "word": "4岁小宝凌晨3点打120救摔倒妈妈",
@@ -473,6 +481,14 @@
       "onboard_time": 1666070004,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 986813,
+      "num": 27558,
+      "word": "长沙发现一例恐龙血血型",
+      "onboard_time": 1666448665,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 974918,
@@ -977,14 +993,6 @@
       "onboard_time": 1665980666,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 717413,
-      "num": 27877,
-      "word": "陈幸同vs伊藤美诚",
-      "onboard_time": 1666446924,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 713494,
@@ -1875,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 486364,
+      "num": 27835,
+      "word": "当你把会员借给很多朋友",
+      "onboard_time": 1666445903,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485097,
       "num": 224297,
       "word": "螃蟹上餐桌前成功解绳男子守诺放生",
@@ -2121,14 +2137,6 @@
       "onboard_time": 1666343183,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435050,
-      "num": 27835,
-      "word": "当你把会员借给很多朋友",
-      "onboard_time": 1666445903,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 433426,
@@ -4907,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208811,
+      "num": 25394,
+      "word": "华为回应5G新机入网",
+      "onboard_time": 1666448845,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 208312,
       "num": 277840,
       "word": "特斯拉发布2022年第三季度财报",
@@ -6828,7 +6844,7 @@
     },
     {
       "raw_hot": 124048,
-      "num": 62991,
+      "num": 117591,
       "word": "这里有一个你不知道的十年",
       "onboard_time": 1666444764,
       "rank": 11,
@@ -7571,6 +7587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96142,
+      "num": 25293,
+      "word": "广州男篮加时战胜首钢男篮",
+      "onboard_time": 1666449205,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95921,
       "num": 95921,
       "word": "甜度满分的元气舞台",
@@ -7601,6 +7625,14 @@
       "onboard_time": 1666090763,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95129,
+      "num": 149891,
+      "word": "代表热议如何提升群众幸福指数",
+      "onboard_time": 1666447285,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 95017,
@@ -8059,14 +8091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81760,
-      "num": 27558,
-      "word": "长沙发现一例恐龙血血型",
-      "onboard_time": 1666448665,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81697,
       "num": 136530,
       "word": "敦煌胡杨一半倒影一半真",
@@ -8187,6 +8211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77463,
+      "num": 77462,
+      "word": "10年家访骑坏了8辆摩托车",
+      "onboard_time": 1666447104,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 77380,
       "num": 16680,
       "word": "梅西助攻",
@@ -8259,12 +8291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74700,
-      "num": 140682,
-      "word": "代表热议如何提升群众幸福指数",
-      "onboard_time": 1666447285,
-      "rank": 4,
-      "category": "国内要闻"
+      "raw_hot": 75415,
+      "num": 75415,
+      "word": "梦天实验舱本月将发射",
+      "onboard_time": 1666449445,
+      "rank": 12,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 74635,
@@ -9003,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45726,
+      "num": 45726,
+      "word": "塞罕坝给3亿多株树建档案",
+      "onboard_time": 1666446084,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -9073,14 +9113,6 @@
       "onboard_time": 1665929364,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40419,
-      "num": 41710,
-      "word": "10年家访骑坏了8辆摩托车",
-      "onboard_time": 1666447104,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 39563,
@@ -9241,14 +9273,6 @@
       "onboard_time": 1665926543,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27885,
-      "num": 27894,
-      "word": "塞罕坝给3亿多株树建档案",
-      "onboard_time": 1666446084,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 27749,

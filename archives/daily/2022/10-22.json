@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666448725272,
+  "endTime": 1666449797631,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -83,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1054106,
+      "num": 27877,
+      "word": "陈幸同vs伊藤美诚",
+      "onboard_time": 1666446924,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1001442,
       "num": 172860,
       "word": "Wei哭了",
       "onboard_time": 1666406002,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 986813,
+      "num": 27558,
+      "word": "长沙发现一例恐龙血血型",
+      "onboard_time": 1666448665,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 973617,
@@ -176,14 +192,6 @@
       "word": "孙颖莎vs袁嘉楠",
       "onboard_time": 1666439002,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 717413,
-      "num": 27877,
-      "word": "陈幸同vs伊藤美诚",
-      "onboard_time": 1666446924,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 486364,
+      "num": 27835,
+      "word": "当你把会员借给很多朋友",
+      "onboard_time": 1666445903,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 469870,
       "num": 136962,
       "word": "T1零封战胜RNG",
@@ -369,14 +385,6 @@
       "onboard_time": 1666443864,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435050,
-      "num": 27835,
-      "word": "当你把会员借给很多朋友",
-      "onboard_time": 1666445903,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 431765,
@@ -867,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208811,
+      "num": 25394,
+      "word": "华为回应5G新机入网",
+      "onboard_time": 1666448845,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203398,
       "num": 54331,
       "word": "杨坤马嘉祺唱的自己",
@@ -1204,7 +1220,7 @@
     },
     {
       "raw_hot": 124048,
-      "num": 62991,
+      "num": 117591,
       "word": "这里有一个你不知道的十年",
       "onboard_time": 1666444764,
       "rank": 11,
@@ -1363,6 +1379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96142,
+      "num": 25293,
+      "word": "广州男篮加时战胜首钢男篮",
+      "onboard_time": 1666449205,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95129,
+      "num": 149891,
+      "word": "代表热议如何提升群众幸福指数",
+      "onboard_time": 1666447285,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 95017,
       "num": 700435,
       "word": "二十大第二场党代表通道",
@@ -1451,14 +1483,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 81760,
-      "num": 27558,
-      "word": "长沙发现一例恐龙血血型",
-      "onboard_time": 1666448665,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80526,
       "num": 66697,
       "word": "上一段恋爱中最遗憾的事",
@@ -1507,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77463,
+      "num": 77462,
+      "word": "10年家访骑坏了8辆摩托车",
+      "onboard_time": 1666447104,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 77380,
       "num": 16680,
       "word": "梅西助攻",
@@ -1531,12 +1563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74700,
-      "num": 140682,
-      "word": "代表热议如何提升群众幸福指数",
-      "onboard_time": 1666447285,
-      "rank": 4,
-      "category": "国内要闻"
+      "raw_hot": 75415,
+      "num": 75415,
+      "word": "梦天实验舱本月将发射",
+      "onboard_time": 1666449445,
+      "rank": 12,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 74091,
@@ -1667,20 +1699,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 45726,
+      "num": 45726,
+      "word": "塞罕坝给3亿多株树建档案",
+      "onboard_time": 1666446084,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 42579,
       "num": 53845,
       "word": "我们的歌",
       "onboard_time": 1666352841,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40419,
-      "num": 41710,
-      "word": "10年家访骑坏了8辆摩托车",
-      "onboard_time": 1666447104,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 39563,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1666357102,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27885,
-      "num": 27894,
-      "word": "塞罕坝给3亿多株树建档案",
-      "onboard_time": 1666446084,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 25111,
