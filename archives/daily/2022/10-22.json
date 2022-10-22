@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666405299823,
+  "endTime": 1666407733011,
   "band_list": [
     {
       "raw_hot": 2324975,
@@ -8,6 +8,14 @@
       "word": "RNG对战T1",
       "onboard_time": 1666394297,
       "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1001442,
+      "num": 36024,
+      "word": "Wei哭了",
+      "onboard_time": 1666406002,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 722342,
-      "num": 16797,
+      "num": 35964,
       "word": "小虎在干嘛",
       "onboard_time": 1666394598,
       "rank": 21,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 691606,
-      "num": 16847,
+      "num": 36013,
       "word": "RNG发文告别S12",
       "onboard_time": 1666398142,
       "rank": 10,
@@ -51,8 +59,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649183,
+      "num": 36021,
+      "word": "糖吃多了会老得更快",
+      "onboard_time": 1666402284,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576050,
-      "num": 16832,
+      "num": 35984,
       "word": "mlxg评价RNG比赛",
       "onboard_time": 1666399524,
       "rank": 13,
@@ -67,8 +83,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556525,
+      "num": 556525,
+      "word": "二十大",
+      "onboard_time": 1666395078,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537294,
-      "num": 16819,
+      "num": 35996,
       "word": "管泽元 RNG",
       "onboard_time": 1666400304,
       "rank": 16,
@@ -84,19 +108,11 @@
     },
     {
       "raw_hot": 469870,
-      "num": 16753,
+      "num": 35941,
       "word": "T1零封战胜RNG",
       "onboard_time": 1666396584,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 432293,
-      "num": 16836,
-      "word": "糖吃多了会老得更快",
-      "onboard_time": 1666402284,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427293,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 415916,
-      "num": 16803,
+      "num": 35983,
       "word": "女子疑因摸狗未洗手眼内长2cm线虫",
       "onboard_time": 1666381571,
       "rank": 21,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 414413,
-      "num": 16805,
+      "num": 35976,
       "word": "没有uzi的rng",
       "onboard_time": 1666403240,
       "rank": 19,
@@ -132,11 +148,19 @@
     },
     {
       "raw_hot": 386486,
-      "num": 16830,
+      "num": 36009,
       "word": "56岁男英语老师穿豹纹服装上课",
       "onboard_time": 1666402224,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 349197,
+      "num": 35995,
+      "word": "男子做1小时心肺复苏救回小猫",
+      "onboard_time": 1666404262,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344134,
@@ -145,14 +169,6 @@
       "onboard_time": 1666365506,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314590,
-      "num": 314590,
-      "word": "二十大",
-      "onboard_time": 1666395078,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314469,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 306545,
-      "num": 16781,
+      "num": 35953,
       "word": "RNG连续两年止步S赛八强",
       "onboard_time": 1666400542,
       "rank": 25,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 295537,
-      "num": 16798,
+      "num": 35970,
       "word": "李惠利新剧演入殓师",
       "onboard_time": 1666400364,
       "rank": 21,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 282034,
-      "num": 16815,
+      "num": 35948,
       "word": "被山东硬核朝天锅馋到了",
       "onboard_time": 1666400123,
       "rank": 17,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 232700,
-      "num": 16792,
+      "num": 35966,
       "word": "伊朗海军宣布俘获两艘美国无人舰艇",
       "onboard_time": 1666395920,
       "rank": 46,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 215905,
-      "num": 106053,
+      "num": 142143,
       "word": "全红婵陈芋汐双人10米台夺冠",
       "onboard_time": 1666355903,
       "rank": 18,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 196353,
-      "num": 16757,
+      "num": 35891,
       "word": "33岁男子隔窗陪出租屋萌娃聊天",
       "onboard_time": 1666381631,
       "rank": 19,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 185244,
-      "num": 16772,
+      "num": 35911,
       "word": "没想到腿疼的人下楼能这么丝滑",
       "onboard_time": 1666387213,
       "rank": 49,
@@ -307,6 +323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 180237,
+      "num": 35957,
+      "word": "奶爸为照顾妻儿考下月嫂证",
+      "onboard_time": 1666404923,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177438,
       "num": 66718,
       "word": "女生吃螺蛳粉猫咪被熏得睁不开眼睛",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 177120,
-      "num": 16767,
+      "num": 35899,
       "word": "EDG",
       "onboard_time": 1666395798,
       "rank": 23,
@@ -372,15 +396,31 @@
     },
     {
       "raw_hot": 150454,
-      "num": 16722,
+      "num": 35872,
       "word": "义乌市委书记谈取暖神器热销欧洲",
       "onboard_time": 1666385171,
       "rank": 22,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144065,
+      "num": 35930,
+      "word": "篮网战胜猛龙",
+      "onboard_time": 1666406062,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143376,
+      "num": 143376,
+      "word": "二十大报告中的关键论述",
+      "onboard_time": 1666398744,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142387,
-      "num": 16759,
+      "num": 35910,
       "word": "陈赫角色反差感",
       "onboard_time": 1666401923,
       "rank": 30,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 133088,
-      "num": 16725,
+      "num": 35903,
       "word": "谷歌日本造了个1.65米单排键盘",
       "onboard_time": 1666388351,
       "rank": 49,
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128004,
-      "num": 128004,
-      "word": "二十大报告中的关键论述",
-      "onboard_time": 1666398744,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 127065,
+      "num": 35919,
+      "word": "马嘉祺我们的歌下期打架子鼓",
+      "onboard_time": 1666405224,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 124682,
@@ -425,6 +465,14 @@
       "onboard_time": 1666361123,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123524,
+      "num": 123524,
+      "word": "二十大报告与你的生活息息相关",
+      "onboard_time": 1666399944,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121776,
@@ -440,14 +488,6 @@
       "word": "地震被埋45天小猪见主人非常温顺",
       "onboard_time": 1666343183,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121106,
-      "num": 16730,
-      "word": "男子做1小时心肺复苏救回小猫",
-      "onboard_time": 1666404262,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -507,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93550,
+      "num": 35884,
+      "word": "宁德时代单季净利润暴增188%",
+      "onboard_time": 1666407022,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93145,
       "num": 66736,
       "word": "滕哈格确认C罗拒绝替补出场",
@@ -515,20 +563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92480,
+      "num": 35884,
+      "word": "吴克群巡演票价最高360",
+      "onboard_time": 1666407503,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 91962,
       "num": 66703,
       "word": "外交部回应特拉斯辞职",
       "onboard_time": 1666356743,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 85620,
-      "num": 16694,
-      "word": "马嘉祺我们的歌下期打架子鼓",
-      "onboard_time": 1666405224,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 82339,
@@ -553,14 +601,6 @@
       "onboard_time": 1666345463,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79315,
-      "num": 16687,
-      "word": "奶爸为照顾妻儿考下月嫂证",
-      "onboard_time": 1666404923,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77380,
@@ -699,8 +739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35867,
-      "num": 35867,
+      "raw_hot": 36027,
+      "num": 36027,
       "word": "党的二十大报告点赞这些科技领域",
       "onboard_time": 1666393936,
       "rank": 8,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 25111,
-      "num": 25111,
+      "num": 36002,
       "word": "我国67%罕见病用药已纳入医保",
       "onboard_time": 1666312525,
       "rank": 11,
@@ -793,6 +833,14 @@
       "onboard_time": 1666386971,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5015,
+      "num": 36005,
+      "word": "被天鹅和饲养员奶爸的日常治愈了",
+      "onboard_time": 1666407683,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
