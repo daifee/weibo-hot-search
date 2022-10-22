@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666478676119,
+  "endTime": 1666481428247,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -8,6 +8,14 @@
       "word": "长沙发现一例恐龙血血型",
       "onboard_time": 1666448665,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468600,
+      "num": 17382,
+      "word": "新一届中央政治局常委同中外记者见面",
+      "onboard_time": 1666480336,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1666450764,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 290216,
+      "num": 8163,
+      "word": "DK对战GEN",
+      "onboard_time": 1666480755,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 277681,
@@ -67,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213020,
+      "num": 8145,
+      "word": "霜降",
+      "onboard_time": 1666480996,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201709,
       "num": 9944,
       "word": "你能接受对象几天不联系你",
@@ -91,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169224,
+      "num": 9901,
+      "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+      "onboard_time": 1666433424,
+      "rank": 31,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 157165,
       "num": 9927,
       "word": "陈幸同4比1伊藤美诚",
@@ -107,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152690,
-      "num": 9901,
-      "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
-      "onboard_time": 1666433424,
-      "rank": 31,
-      "category": "幽默,社会新闻"
+      "raw_hot": 151753,
+      "num": 9838,
+      "word": "鹤岗买房真的值吗",
+      "onboard_time": 1666442425,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 141926,
@@ -120,6 +152,14 @@
       "word": "切尔西vs曼联",
       "onboard_time": 1666453344,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135987,
+      "num": 8103,
+      "word": "中国17岁小将霹雳舞世锦赛摘银",
+      "onboard_time": 1666477513,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -147,12 +187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120730,
+      "num": 120730,
+      "word": "党的二十届一中全会",
+      "onboard_time": 1666480336,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119757,
       "num": 9870,
       "word": "咋样这票买的值吧",
       "onboard_time": 1666454362,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118041,
+      "num": 8076,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116597,
+      "num": 8073,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -177,14 +241,6 @@
       "onboard_time": 1666440202,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110387,
-      "num": 9838,
-      "word": "鹤岗买房真的值吗",
-      "onboard_time": 1666442425,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 106669,
@@ -227,6 +283,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 95028,
+      "num": 8052,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 94881,
       "num": 9344,
       "word": "gidle无伴奏全开麦版Nxde",
@@ -243,20 +307,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 81127,
+      "num": 8023,
+      "word": "切尔西1比1曼联",
+      "onboard_time": 1666480996,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80764,
+      "num": 80764,
+      "word": "火车5秒通过的隧道花了6年才打通",
+      "onboard_time": 1666424842,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77819,
       "num": 9795,
       "word": "张艺兴演唱会",
       "onboard_time": 1666446384,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74843,
-      "num": 3088,
-      "word": "男孩被训斥深夜到派出所举报母亲",
-      "onboard_time": 1666466231,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74394,
@@ -299,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63693,
-      "num": 63693,
-      "word": "火车5秒通过的隧道花了6年才打通",
-      "onboard_time": 1666424842,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62408,
       "num": 9758,
       "word": "郑在玹golddust舞台",
@@ -347,6 +411,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 51720,
+      "num": 7983,
+      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+      "onboard_time": 1666469952,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50907,
+      "num": 50907,
+      "word": "当上二十大代表的快递员说被叫小哥特亲切",
+      "onboard_time": 1666420281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45915,
       "num": 45915,
       "word": "这里有一个你不知道的十年",
@@ -355,36 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45006,
-      "num": 3093,
-      "word": "老师转发小学生作品被选登杂志",
-      "onboard_time": 1666465693,
+      "raw_hot": 45286,
+      "num": 7967,
+      "word": "UFC",
+      "onboard_time": 1666480816,
       "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 41808,
-      "num": 1123,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38946,
-      "num": 38946,
-      "word": "当上二十大代表的快递员说被叫小哥特亲切",
-      "onboard_time": 1666420281,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32524,
-      "num": 3145,
-      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
-      "onboard_time": 1666469952,
-      "rank": 10,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 32117,
@@ -403,19 +459,19 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 26069,
+      "num": 26069,
+      "word": "塞罕坝正在打造智慧林场",
+      "onboard_time": 1666473612,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25318,
       "num": 25318,
       "word": "二十届中央委员会候补委员名单",
       "onboard_time": 1666416148,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21877,
-      "num": 21877,
-      "word": "塞罕坝正在打造智慧林场",
-      "onboard_time": 1666473612,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -475,6 +531,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12178,
+      "num": 12178,
+      "word": "二十大第二场党代表通道",
+      "onboard_time": 1666418543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11828,
       "num": 11828,
       "word": "二十大关于十九届中央委员会报告的决议",
@@ -483,28 +547,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 11722,
-      "num": 696,
-      "word": "中国17岁小将霹雳舞世锦赛摘银",
-      "onboard_time": 1666477513,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 11005,
+      "num": 11005,
+      "word": "二十大报告中的关键论述",
+      "onboard_time": 1666398744,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10546,
-      "num": 86768,
+      "num": 98992,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10004,
-      "num": 10004,
-      "word": "二十大第二场党代表通道",
-      "onboard_time": 1666418543,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6753,
@@ -524,18 +580,10 @@
     },
     {
       "raw_hot": 4396,
-      "num": 4396,
+      "num": 8183,
       "word": "为2035年的美好中国团结奋斗",
       "onboard_time": 1666410863,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1148,
-      "num": 1148,
-      "word": "二十大报告中的关键论述",
-      "onboard_time": 1666398744,
-      "rank": 16,
       "category": "社会新闻"
     }
   ],
