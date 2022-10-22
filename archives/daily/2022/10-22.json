@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666420523285,
+  "endTime": 1666421723843,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -33,6 +33,14 @@
       "onboard_time": 1666410985,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1164519,
+      "num": 1164519,
+      "word": "新一届中央政治局常委将同中外记者见面",
+      "onboard_time": 1666419923,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1001442,
@@ -123,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671391,
-      "num": 80292,
-      "word": "新一届中央政治局常委将同中外记者见面",
-      "onboard_time": 1666419923,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 649183,
       "num": 178782,
       "word": "糖吃多了会老得更快",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 584689,
-      "num": 79831,
+      "num": 115742,
       "word": "11月预排播电视剧",
       "onboard_time": 1666419745,
       "rank": 11,
@@ -233,6 +233,14 @@
       "onboard_time": 1666411403,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428084,
+      "num": 121327,
+      "word": "第一批当老师的95后现在怎样啦",
+      "onboard_time": 1666419444,
+      "rank": 15,
+      "category": "社会议题"
     },
     {
       "raw_hot": 427293,
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213336,
-      "num": 78524,
-      "word": "第一批当老师的95后现在怎样啦",
-      "onboard_time": 1666419444,
-      "rank": 15,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 209260,
       "num": 173446,
       "word": "孙颖莎晋级澳门赛4强",
@@ -561,6 +561,14 @@
       "onboard_time": 1666354702,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 181194,
+      "num": 118152,
+      "word": "当上二十大代表的快递员说被叫小哥特亲切",
+      "onboard_time": 1666420281,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177438,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128849,
+      "num": 110823,
+      "word": "女子投简历后发现HR是室友",
+      "onboard_time": 1666421302,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127065,
       "num": 134412,
       "word": "马嘉祺我们的歌下期打架子鼓",
@@ -721,6 +737,14 @@
       "onboard_time": 1666361123,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121876,
+      "num": 121876,
+      "word": "背母上学的他回乡帮1800多人重返校园",
+      "onboard_time": 1666418962,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121776,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109624,
+      "num": 109624,
+      "word": "一有机会就去偷玩偶的狗狗",
+      "onboard_time": 1666420823,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106371,
       "num": 66707,
       "word": "换乘恋爱",
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95017,
+      "num": 544882,
+      "word": "二十大第二场党代表通道",
+      "onboard_time": 1666418543,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 93145,
       "num": 66736,
       "word": "滕哈格确认C罗拒绝替补出场",
@@ -843,20 +883,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 86459,
+      "num": 132457,
+      "word": "王安宇新剧角色适配度",
+      "onboard_time": 1666417944,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85518,
       "num": 94707,
       "word": "关注党的二十大",
       "onboard_time": 1666417104,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82805,
-      "num": 485496,
-      "word": "二十大第二场党代表通道",
-      "onboard_time": 1666418543,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 82339,
@@ -873,14 +913,6 @@
       "onboard_time": 1666355724,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80488,
-      "num": 132457,
-      "word": "王安宇新剧角色适配度",
-      "onboard_time": 1666417944,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 79936,
@@ -923,20 +955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71401,
-      "num": 71401,
-      "word": "当上二十大代表的快递员说被叫小哥特亲切",
-      "onboard_time": 1666420281,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70431,
       "num": 66690,
       "word": "钓鱼到底有多花钱",
       "onboard_time": 1666359864,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70338,
+      "num": 70338,
+      "word": "这个码头一个工人也没有",
+      "onboard_time": 1666421063,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67239,
@@ -952,14 +984,6 @@
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65138,
-      "num": 65138,
-      "word": "背母上学的他回乡帮1800多人重返校园",
-      "onboard_time": 1666418962,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1016,6 +1040,14 @@
       "word": "王楚钦vs奥恰洛夫",
       "onboard_time": 1666352243,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53756,
+      "num": 53756,
+      "word": "一个动作让你远离驼背",
+      "onboard_time": 1666421364,
+      "rank": 47,
       "category": "体育"
     },
     {
