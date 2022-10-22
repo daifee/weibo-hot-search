@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666438752725,
+  "endTime": 1666442936443,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 973617,
+      "num": 60086,
+      "word": "预约人数破100万的古偶",
+      "onboard_time": 1666437685,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950216,
       "num": 60931,
       "word": "你能接受对象几天不联系你",
@@ -153,6 +161,14 @@
       "onboard_time": 1666394598,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 719573,
+      "num": 57888,
+      "word": "孙颖莎vs袁嘉楠",
+      "onboard_time": 1666439002,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 691606,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445382,
+      "num": 445382,
+      "word": "二十大闭幕会现场视频",
+      "onboard_time": 1666439604,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427293,
       "num": 66762,
       "word": "马龙vs邱党",
@@ -353,6 +377,14 @@
       "onboard_time": 1666403240,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401335,
+      "num": 44193,
+      "word": "樊振东4比2林昀儒",
+      "onboard_time": 1666440923,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 393880,
@@ -403,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370660,
-      "num": 60086,
-      "word": "预约人数破100万的古偶",
-      "onboard_time": 1666437685,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 366746,
+      "num": 47195,
+      "word": "12岁男孩做饭5年煎炸炒煮全精通",
+      "onboard_time": 1666438703,
+      "rank": 49,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 360283,
@@ -467,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319705,
+      "num": 44023,
+      "word": "尚雯婕107岁佘太君扮相",
+      "onboard_time": 1666440202,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315880,
       "num": 179889,
       "word": "丹麦队总教练道歉",
@@ -521,6 +561,14 @@
       "onboard_time": 1666400364,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282285,
+      "num": 57804,
+      "word": "95后小伙把养老院办成幼儿园",
+      "onboard_time": 1666437203,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282034,
@@ -659,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224369,
+      "num": 43941,
+      "word": "在恋爱中男朋友会撒娇吗",
+      "onboard_time": 1666439544,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224150,
       "num": 166019,
       "word": "孙颖莎3比0郑怡静",
@@ -729,6 +785,14 @@
       "onboard_time": 1666404923,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196576,
+      "num": 43851,
+      "word": "心疼罗云熙演的罗本",
+      "onboard_time": 1666441283,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 196512,
@@ -1043,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117802,
+      "num": 43684,
+      "word": "樊振东连得10分",
+      "onboard_time": 1666442485,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114772,
       "num": 52740,
       "word": "王安宇段宇成心思有点野",
@@ -1091,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110638,
-      "num": 57507,
-      "word": "95后小伙把养老院办成幼儿园",
-      "onboard_time": 1666437203,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110607,
       "num": 66710,
       "word": "金钟奖",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1666366583,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108105,
+      "num": 43665,
+      "word": "鹤岗买房真的值吗",
+      "onboard_time": 1666442425,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 106371,
@@ -1211,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85841,
+      "num": 56749,
+      "word": "萌娃和奶奶英语方言无碍障交流",
+      "onboard_time": 1666438284,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85518,
       "num": 94707,
       "word": "关注党的二十大",
@@ -1291,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76220,
+      "num": 54846,
+      "word": "我们完全有信心有能力创造更大奇迹",
+      "onboard_time": 1666442244,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74091,
       "num": 66693,
       "word": "孙颖莎vs杨晓欣",
       "onboard_time": 1666355602,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73279,
+      "num": 184589,
+      "word": "二十大报告百余次提及人民",
+      "onboard_time": 1666441763,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 72166,
@@ -1395,12 +1491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54972,
-      "num": 54972,
-      "word": "萌娃和奶奶英语方言无碍障交流",
-      "onboard_time": 1666438284,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 57822,
+      "num": 43303,
+      "word": "罗娜大力女金刚",
+      "onboard_time": 1666439963,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 51290,
@@ -1411,12 +1507,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 47195,
-      "num": 47195,
-      "word": "12岁男孩做饭5年煎炸炒煮全精通",
-      "onboard_time": 1666438703,
-      "rank": 49,
-      "category": "社会新闻,社会新闻"
+      "raw_hot": 46188,
+      "num": 46188,
+      "word": "我国水运基础设施规模世界第一",
+      "onboard_time": 1666440024,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 42579,
@@ -1483,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13064,
+      "num": 58893,
+      "word": "二十大献礼片单展映",
+      "onboard_time": 1666441763,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 10984,
       "num": 750,
       "word": "永远icon梦幻联动",
@@ -1545,6 +1649,14 @@
       "onboard_time": 1666407683,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2585,
+      "num": 55312,
+      "word": "获梅花奖川剧人亮相党代表通道",
+      "onboard_time": 1666440024,
+      "rank": 14,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
