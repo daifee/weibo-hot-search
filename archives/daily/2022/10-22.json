@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666418287850,
+  "endTime": 1666420523285,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -19,8 +19,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1930465,
-      "num": 1930465,
+      "raw_hot": 2281402,
+      "num": 2281402,
       "word": "二十届中央委员会委员名单",
       "onboard_time": 1666415365,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 671391,
+      "num": 80292,
+      "word": "新一届中央政治局常委将同中外记者见面",
+      "onboard_time": 1666419923,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649183,
       "num": 178782,
       "word": "糖吃多了会老得更快",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584689,
+      "num": 79831,
+      "word": "11月预排播电视剧",
+      "onboard_time": 1666419745,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 576050,
       "num": 162653,
       "word": "mlxg评价RNG比赛",
@@ -169,6 +185,14 @@
       "onboard_time": 1666365385,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548886,
+      "num": 548886,
+      "word": "二十届中央纪律检查委员会委员名单",
+      "onboard_time": 1666416926,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537294,
@@ -208,14 +232,6 @@
       "word": "夫妻被反锁门外用鱼竿敲醒女儿开门",
       "onboard_time": 1666411403,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441230,
-      "num": 441230,
-      "word": "二十届中央纪律检查委员会委员名单",
-      "onboard_time": 1666416926,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -305,6 +321,14 @@
       "onboard_time": 1666413385,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314987,
+      "num": 314987,
+      "word": "我国将进行载人月球探测",
+      "onboard_time": 1666416387,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 314469,
@@ -443,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213336,
+      "num": 78524,
+      "word": "第一批当老师的95后现在怎样啦",
+      "onboard_time": 1666419444,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 209260,
+      "num": 173446,
+      "word": "孙颖莎晋级澳门赛4强",
+      "onboard_time": 1666415002,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208834,
       "num": 66741,
       "word": "比王宝钏还恋爱脑的是秦香莲",
@@ -499,28 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189271,
-      "num": 173446,
-      "word": "孙颖莎晋级澳门赛4强",
-      "onboard_time": 1666415002,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187689,
       "num": 139052,
       "word": "莫兰特49分",
       "onboard_time": 1666407924,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187349,
-      "num": 187349,
-      "word": "我国将进行载人月球探测",
-      "onboard_time": 1666416387,
-      "rank": 35,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 185244,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82805,
+      "num": 485496,
+      "word": "二十大第二场党代表通道",
+      "onboard_time": 1666418543,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 82339,
       "num": 66700,
       "word": "比特币集团考虑竞标收购德国银行",
@@ -841,6 +873,14 @@
       "onboard_time": 1666355724,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80488,
+      "num": 132457,
+      "word": "王安宇新剧角色适配度",
+      "onboard_time": 1666417944,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 79936,
@@ -883,20 +923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71401,
+      "num": 71401,
+      "word": "当上二十大代表的快递员说被叫小哥特亲切",
+      "onboard_time": 1666420281,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70431,
       "num": 66690,
       "word": "钓鱼到底有多花钱",
       "onboard_time": 1666359864,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68970,
-      "num": 132457,
-      "word": "王安宇新剧角色适配度",
-      "onboard_time": 1666417944,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 67239,
@@ -912,6 +952,14 @@
       "word": "一张思维导图了解中国式现代化",
       "onboard_time": 1666332985,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65138,
+      "num": 65138,
+      "word": "背母上学的他回乡帮1800多人重返校园",
+      "onboard_time": 1666418962,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1122,6 +1170,9 @@
     },
     {
       "word": "#你好二十大#"
+    },
+    {
+      "word": "#党的二十大胜利闭幕#"
     }
   ]
 }
