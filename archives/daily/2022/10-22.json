@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666428707162,
+  "endTime": 1666430845367,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -89,6 +89,14 @@
       "onboard_time": 1666395078,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895154,
+      "num": 55369,
+      "word": "王楚钦3比2马龙",
+      "onboard_time": 1666429882,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 844178,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381276,
+      "num": 334575,
+      "word": "火车5秒通过的隧道花了6年才打通",
+      "onboard_time": 1666424842,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375393,
       "num": 375393,
       "word": "关于十九届中央纪律检查委员会工作报告的决议通过",
@@ -353,6 +369,14 @@
       "onboard_time": 1666365506,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343533,
+      "num": 55258,
+      "word": "姑娘蹲路边哭泣阿姨掏100元解围",
+      "onboard_time": 1666428801,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327471,
@@ -435,14 +459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 274486,
-      "num": 274486,
-      "word": "火车5秒通过的隧道花了6年才打通",
-      "onboard_time": 1666424842,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254445,
       "num": 135135,
       "word": "袁嘉楠3比1石川佳纯",
@@ -457,6 +473,14 @@
       "onboard_time": 1666368745,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253632,
+      "num": 102772,
+      "word": "这尾巴真是扫我心里去了",
+      "onboard_time": 1666425862,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 252658,
@@ -497,6 +521,14 @@
       "onboard_time": 1666395920,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 231864,
+      "num": 54968,
+      "word": "刘惠明去世",
+      "onboard_time": 1666429524,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 230089,
@@ -603,14 +635,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192581,
-      "num": 102772,
-      "word": "这尾巴真是扫我心里去了",
-      "onboard_time": 1666425862,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191404,
       "num": 66729,
       "word": "90后男生全款4万买房移居鹤岗",
@@ -675,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176486,
+      "num": 102638,
+      "word": "女足世界杯中国英格兰同组",
+      "onboard_time": 1666426042,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174567,
       "num": 6300,
       "word": "RNG BP",
@@ -705,14 +737,6 @@
       "onboard_time": 1666399944,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161858,
-      "num": 102638,
-      "word": "女足世界杯中国英格兰同组",
-      "onboard_time": 1666426042,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 154002,
@@ -819,6 +843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 131465,
+      "num": 54690,
+      "word": "晚上八点是属于自己的",
+      "onboard_time": 1666430065,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 129249,
       "num": 66720,
       "word": "10岁男孩吞下103颗钢珠",
@@ -849,6 +881,14 @@
       "onboard_time": 1666361123,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122617,
+      "num": 54637,
+      "word": "1岁幼童反锁在屋父母监控喊话开门",
+      "onboard_time": 1666429583,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121776,
@@ -1083,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72640,
+      "num": 56582,
+      "word": "福建男篮vs辽宁男篮",
+      "onboard_time": 1666428262,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72166,
       "num": 72166,
       "word": "党的二十大报告提到的大国重器",
@@ -1171,12 +1219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56582,
-      "num": 56582,
-      "word": "福建男篮vs辽宁男篮",
-      "onboard_time": 1666428262,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 58130,
+      "num": 54156,
+      "word": "当婚礼偶遇隔壁学校运动会",
+      "onboard_time": 1666430546,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 51290,
@@ -1336,6 +1384,9 @@
     },
     {
       "word": "#第二十届中央委员会选举产生#"
+    },
+    {
+      "word": "#新一届中央政治局常委将同中外记者见面#"
     }
   ]
 }
