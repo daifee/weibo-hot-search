@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666464644789,
+  "endTime": 1666466521753,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -35467,11 +35467,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 9053,
+      "num": 3093,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 9037,
       "num": 9037,
       "word": "什么样的疼痛需要去医院",
       "onboard_time": 1665511932,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8945,
+      "num": 3088,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

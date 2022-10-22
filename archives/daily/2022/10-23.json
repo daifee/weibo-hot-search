@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666464644789,
+  "endTime": 1666466521753,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 14758,
-      "num": 744,
+      "num": 3096,
       "word": "英超联赛",
       "onboard_time": 1666459755,
       "rank": 48,
@@ -432,6 +432,22 @@
       "word": "二十大第二场党代表通道",
       "onboard_time": 1666418543,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9053,
+      "num": 3093,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 8945,
+      "num": 3088,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],
