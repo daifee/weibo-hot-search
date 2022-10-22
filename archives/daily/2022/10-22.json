@@ -1,6 +1,6 @@
 {
   "startTime": 1666370411791,
-  "endTime": 1666423643101,
+  "endTime": 1666424614103,
   "band_list": [
     {
       "raw_hot": 2392101,
@@ -35,19 +35,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1214042,
+      "num": 147552,
+      "word": "女子投简历后发现HR是室友",
+      "onboard_time": 1666421302,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210449,
       "num": 1210449,
       "word": "新一届中央政治局常委将同中外记者见面",
       "onboard_time": 1666419923,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1144013,
-      "num": 147552,
-      "word": "女子投简历后发现HR是室友",
-      "onboard_time": 1666421302,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 385879,
+      "num": 385879,
+      "word": "当上二十大代表的快递员说被叫小哥特亲切",
+      "onboard_time": 1666420281,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381705,
       "num": 381705,
       "word": "关于党章修正案的决议通过",
@@ -329,6 +337,14 @@
       "onboard_time": 1666408403,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323008,
+      "num": 130951,
+      "word": "奶奶假动作盛汤哄宝宝吃辅食",
+      "onboard_time": 1666422082,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315880,
@@ -393,14 +409,6 @@
       "onboard_time": 1666400123,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 273184,
-      "num": 273184,
-      "word": "当上二十大代表的快递员说被叫小哥特亲切",
-      "onboard_time": 1666420281,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254445,
@@ -569,14 +577,6 @@
       "onboard_time": 1666407924,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186344,
-      "num": 128903,
-      "word": "奶奶假动作盛汤哄宝宝吃辅食",
-      "onboard_time": 1666422082,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185244,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120540,
+      "num": 120540,
+      "word": "一个动作让你远离驼背",
+      "onboard_time": 1666421364,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119102,
       "num": 65744,
       "word": "樊振东晋级澳门赛4强",
@@ -875,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99656,
-      "num": 99656,
-      "word": "一个动作让你远离驼背",
-      "onboard_time": 1666421364,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95017,
       "num": 700435,
       "word": "二十大第二场党代表通道",
@@ -920,6 +920,14 @@
       "word": "关注党的二十大",
       "onboard_time": 1666417104,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82350,
+      "num": 82350,
+      "word": "店老板给环卫工水喝被赠橘子感谢",
+      "onboard_time": 1666422443,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1059,20 +1067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57925,
-      "num": 57925,
-      "word": "店老板给环卫工水喝被赠橘子感谢",
-      "onboard_time": 1666422443,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51290,
       "num": 31518,
       "word": "上大学后的攀比方式",
       "onboard_time": 1666374255,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 44646,
+      "num": 44646,
+      "word": "被小猫文学整破防了",
+      "onboard_time": 1666424422,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 42579,
