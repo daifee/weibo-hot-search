@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 12:43:21
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/22 13:44:40
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E9%80%89%E4%B8%BE%E4%BA%A7%E7%94%9F%23" target="weibo">
+第二十届中央委员会选举产生（热度：2392101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E5%81%9C%E8%AF%8A%23" target="weibo">
 郑州人民医院停诊（热度：2357498）
 </a>
@@ -377,12 +383,6 @@ RNG对战T1（热度：2324975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%86%B7%E6%88%90%E4%BA%86%E5%B1%B1%E5%86%BB%23" target="weibo">
 山东冷成了山冻（热度：2052639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E9%80%89%E4%B8%BE%E4%BA%A7%E7%94%9F%23" target="weibo">
-第二十届中央委员会选举产生（热度：2052235）
 </a>
 </li>
 
@@ -503,6 +503,12 @@ TES确定淘汰（热度：1883132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%23" target="weibo">
 国庆天安门广场升旗仪式（热度：1868940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
+二十届中央委员会委员名单（热度：1864637）
 </a>
 </li>
 
@@ -3123,6 +3129,12 @@ Mark哭了（热度：767302）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%80%99%E8%A1%A5%E5%A7%94%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
+二十届中央委员会候补委员名单（热度：758492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E5%84%BF%E5%AD%90%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%9A%84%E5%BA%97%E4%B8%BB%E6%9B%BE%E8%A2%AB%E5%8C%97%E5%A4%A7%E9%A3%9F%E5%A0%82%E6%8C%BD%E7%95%99%23" target="weibo">
 送儿子上北大的店主曾被北大食堂挽留（热度：758384）
 </a>
@@ -3263,6 +3275,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C%E8%BF%9114%25%23" target="weibo">
 美国芯片巨头一夜暴跌近14%（热度：736056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%83%9C%E5%88%A9%E9%97%AD%E5%B9%95%23" target="weibo">
+党的二十大胜利闭幕（热度：734239）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ LGD（热度：496178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%8A%B6%E6%80%81%23" target="weibo">
 王曼昱状态（热度：488776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%883%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6626%E4%BE%8B%23" target="weibo">
-10月3日新增本土无症状626例（热度：488467）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%A7%A6%E7%A2%B0%E4%B8%8D%E4%BA%86%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B%E7%9A%84%E9%80%86%E9%B3%9E%23" target="weibo">
-于和伟触碰不了喜剧大赛的逆鳞（热度：486967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%AD%8C%E8%AF%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A5%E5%85%85%E6%BB%A1%E4%BA%86%E9%81%97%E6%86%BE%23" target="weibo">
-周杰伦歌词的最后一句充满了遗憾（热度：486390）
 </a>
 </li>
 
