@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666466521753,
+  "endTime": 1666467493467,
   "band_list": [
     {
       "raw_hot": 1054604,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20628,
+      "num": 3088,
+      "word": "男孩被训斥深夜到派出所举报母亲",
+      "onboard_time": 1666466231,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19685,
       "num": 19685,
       "word": "我们完全有信心有能力创造更大奇迹",
@@ -419,6 +427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 10660,
+      "num": 3093,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 10546,
       "num": 86768,
       "word": "新征程再出发",
@@ -435,20 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9053,
-      "num": 3093,
-      "word": "老师转发小学生作品被选登杂志",
-      "onboard_time": 1666465693,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 8945,
-      "num": 3088,
-      "word": "男孩被训斥深夜到派出所举报母亲",
-      "onboard_time": 1666466231,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 6753,
+      "num": 2968,
+      "word": "上过学的猫就是不一样",
+      "onboard_time": 1666466651,
+      "rank": 49,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
