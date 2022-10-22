@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/17 00:35:37 ~ 2022/10/23 01:49:40
+本榜单时间：2022/10/17 00:35:37 ~ 2022/10/23 02:31:23
 </p>
 </blockquote>
 <p>
@@ -6771,6 +6771,12 @@ T1先下一城（热度：61512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23" target="weibo">
+爸爸射箭帮8岁儿子拔牙（热度：55621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%A5%B0%E6%BC%94%E7%9A%84%E6%9D%8E%E5%BF%83%E9%81%A5%E5%A5%BD%E5%8A%B1%E5%BF%97%23" target="weibo">
 谭松韵饰演的李心遥好励志（热度：54735）
 </a>
@@ -7085,12 +7091,6 @@ C罗首发（热度：38788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%85%A8%E7%90%83%E6%A3%AE%E6%9E%97%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%9A%E5%9B%BD%E5%AE%B6%23" target="weibo">
 中国是全球森林增长最多国家（热度：22888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23" target="weibo">
-爸爸射箭帮8岁儿子拔牙（热度：20794）
 </a>
 </li>
 

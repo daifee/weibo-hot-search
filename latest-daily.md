@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 01:49:40
+本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 02:31:23
 </p>
 </blockquote>
 <p>
@@ -243,6 +243,12 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23" target="weibo">
+爸爸射箭帮8岁儿子拔牙（热度：55621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E7%99%BE%E4%BD%99%E6%AC%A1%E6%8F%90%E5%8F%8A%E4%BA%BA%E6%B0%91%23" target="weibo">
 二十大报告百余次提及人民（热度：52587）
 </a>
@@ -281,12 +287,6 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%80%99%E8%A1%A5%E5%A7%94%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
 二十届中央委员会候补委员名单（热度：25318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23" target="weibo">
-爸爸射箭帮8岁儿子拔牙（热度：20794）
 </a>
 </li>
 
