@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666471485489,
+  "endTime": 1666473821790,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -9371,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32524,
+      "num": 3145,
+      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
+      "onboard_time": 1666469952,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32298,
       "num": 32298,
       "word": "二十大报告金句视频版",
@@ -9427,6 +9435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27825,
+      "num": 504,
+      "word": "72岁奶奶体验1200米高空滑翔伞",
+      "onboard_time": 1666467672,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27749,
       "num": 222508,
       "word": "二十大代表共话乡村振兴",
@@ -9467,12 +9483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18301,
-      "num": 504,
-      "word": "72岁奶奶体验1200米高空滑翔伞",
-      "onboard_time": 1666467672,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 17357,
+      "num": 3093,
+      "word": "老师转发小学生作品被选登杂志",
+      "onboard_time": 1666465693,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 17285,
@@ -9489,22 +9505,6 @@
       "onboard_time": 1666256423,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17046,
-      "num": 3145,
-      "word": "男子钓鱼偶遇丹顶鹤来蹭饭",
-      "onboard_time": 1666469952,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17018,
-      "num": 3093,
-      "word": "老师转发小学生作品被选登杂志",
-      "onboard_time": 1666465693,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 16874,
@@ -9569,6 +9569,14 @@
       "onboard_time": 1666122071,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13441,
+      "num": 2969,
+      "word": "空军机务兵为拆故障件跪了近10小时",
+      "onboard_time": 1666471031,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 12878,
@@ -9731,19 +9739,19 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 6471,
-      "num": 2969,
-      "word": "空军机务兵为拆故障件跪了近10小时",
-      "onboard_time": 1666471031,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 6440,
       "num": 17361,
       "word": "高钙调制奶相当于牛奶配钙片",
       "onboard_time": 1666294511,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6409,
+      "num": 6409,
+      "word": "盛会闭幕张桂梅有句心里话",
+      "onboard_time": 1666473612,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -9760,6 +9768,14 @@
       "word": "大姐称在也门的未婚夫退休要缴违约金",
       "onboard_time": 1666122130,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6003,
+      "num": 6003,
+      "word": "钢铁工人讲述工厂如何变公园",
+      "onboard_time": 1666473612,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9784,6 +9800,14 @@
       "word": "城市里的星星回来了",
       "onboard_time": 1666470372,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5777,
+      "num": 5777,
+      "word": "塞罕坝正在打造智慧林场",
+      "onboard_time": 1666473612,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
