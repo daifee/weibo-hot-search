@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666452422074,
+  "endTime": 1666453554056,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -14395,6 +14395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295131,
+      "num": 22073,
+      "word": "当你在图书馆坐一天后",
+      "onboard_time": 1666452024,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295113,
       "num": 295113,
       "word": "小沈阳工地搬砖好像在演我",
@@ -18595,6 +18603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224705,
+      "num": 22079,
+      "word": "金汤匙",
+      "onboard_time": 1666451844,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224619,
       "num": 28733,
       "word": "GEN战胜RNG",
@@ -18873,6 +18889,14 @@
       "onboard_time": 1665489563,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221011,
+      "num": 151517,
+      "word": "当希望工程大眼睛女孩成为奉献者",
+      "onboard_time": 1666450764,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 220770,
@@ -26211,14 +26235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132972,
-      "num": 107967,
-      "word": "当希望工程大眼睛女孩成为奉献者",
-      "onboard_time": 1666450764,
-      "rank": 5,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 132786,
       "num": 43918,
       "word": "这样调滤镜真的很出片",
@@ -29067,14 +29083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103083,
-      "num": 22079,
-      "word": "金汤匙",
-      "onboard_time": 1666451844,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102967,
       "num": 102967,
       "word": "景区回应游客被梅花鹿踢脸",
@@ -29105,6 +29113,14 @@
       "onboard_time": 1666413625,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102653,
+      "num": 19859,
+      "word": "切尔西vs曼联",
+      "onboard_time": 1666453344,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102652,
@@ -29145,14 +29161,6 @@
       "onboard_time": 1664581342,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102313,
-      "num": 22073,
-      "word": "当你在图书馆坐一天后",
-      "onboard_time": 1666452024,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 102260,
@@ -29985,6 +29993,14 @@
       "onboard_time": 1664615542,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94049,
+      "num": 19857,
+      "word": "原来大家都是晚八人",
+      "onboard_time": 1666453225,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 94042,
@@ -31059,6 +31075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 83482,
+      "num": 83482,
+      "word": "10年家访骑坏了8辆摩托车",
+      "onboard_time": 1666447104,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 83440,
       "num": 83440,
       "word": "国乒男团举起斯韦思林杯",
@@ -31569,14 +31593,6 @@
       "onboard_time": 1665692412,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77463,
-      "num": 77462,
-      "word": "10年家访骑坏了8辆摩托车",
-      "onboard_time": 1666447104,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 77380,
@@ -33923,6 +33939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 48821,
+      "num": 48821,
+      "word": "精确到微米只为更贴近战机的心脏",
+      "onboard_time": 1666450764,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 48787,
       "num": 222602,
       "word": "党史馆珍藏了一张受困矿工的小纸条",
@@ -34809,14 +34833,6 @@
       "onboard_time": 1665543623,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30569,
-      "num": 30569,
-      "word": "精确到微米只为更贴近战机的心脏",
-      "onboard_time": 1666450764,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 30557,
