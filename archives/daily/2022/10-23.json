@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666529407851,
+  "endTime": 1666530768324,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -35,20 +35,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1531846,
+      "num": 17123,
+      "word": "王楚钦WTT澳门赛夺冠",
+      "onboard_time": 1666529064,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1314441,
       "num": 1314441,
       "word": "新一届中央政治局常委简历",
       "onboard_time": 1666525462,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1216697,
-      "num": 17123,
-      "word": "王楚钦WTT澳门赛夺冠",
-      "onboard_time": 1666529064,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1054604,
@@ -104,6 +104,14 @@
       "word": "樊振东吃香蕉",
       "onboard_time": 1666527082,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 674798,
+      "num": 16679,
+      "word": "王楚钦4比3樊振东",
+      "onboard_time": 1666529184,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1666491321,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 425746,
+      "num": 425746,
+      "word": "二十届中央政治局委员 书记处书记简历",
+      "onboard_time": 1666527082,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 422676,
@@ -307,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 330230,
+      "num": 17129,
+      "word": "明日方舟",
+      "onboard_time": 1666527924,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320106,
       "num": 17805,
       "word": "jankos宣布离队",
@@ -329,14 +353,6 @@
       "onboard_time": 1666511481,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 305042,
-      "num": 17129,
-      "word": "明日方舟",
-      "onboard_time": 1666527924,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 297245,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270691,
+      "num": 16983,
+      "word": "快乐其实是一件很小的事",
+      "onboard_time": 1666525645,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265118,
       "num": 9580,
       "word": "peanut四强见",
@@ -433,14 +457,6 @@
       "onboard_time": 1666502725,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262024,
-      "num": 16983,
-      "word": "快乐其实是一件很小的事",
-      "onboard_time": 1666525645,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 260314,
@@ -555,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198461,
-      "num": 16679,
-      "word": "王楚钦4比3樊振东",
-      "onboard_time": 1666529184,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195858,
       "num": 195858,
       "word": "中国共产党又踏上了新的赶考路",
@@ -675,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165227,
+      "num": 15135,
+      "word": "丈夫做好饭一遍遍趴窗张望等妻子",
+      "onboard_time": 1666529605,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163330,
       "num": 163330,
       "word": "人民永远是我们最强大的底气",
@@ -705,6 +721,14 @@
       "onboard_time": 1666524623,
       "rank": 43,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 145551,
+      "num": 15131,
+      "word": "原神兑换码",
+      "onboard_time": 1666530085,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 141926,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1666455202,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62316,
+      "num": 15091,
+      "word": "心想事成是真的存在吗",
+      "onboard_time": 1666529725,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 61546,

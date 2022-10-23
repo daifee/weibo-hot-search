@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666529407851,
+  "endTime": 1666530768324,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1531846,
+      "num": 17123,
+      "word": "王楚钦WTT澳门赛夺冠",
+      "onboard_time": 1666529064,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1505277,
       "num": 41321,
       "word": "王楚钦vs莫雷加德",
@@ -297,14 +305,6 @@
       "onboard_time": 1665973941,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1216697,
-      "num": 17123,
-      "word": "王楚钦WTT澳门赛夺冠",
-      "onboard_time": 1666529064,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1214042,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1666058123,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674798,
+      "num": 16679,
+      "word": "王楚钦4比3樊振东",
+      "onboard_time": 1666529184,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 666663,
@@ -2355,6 +2363,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 425746,
+      "num": 425746,
+      "word": "二十届中央政治局委员 书记处书记简历",
+      "onboard_time": 1666527082,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 425160,
       "num": 213382,
       "word": "宁安如梦预约人数破100万",
@@ -3275,6 +3291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 330230,
+      "num": 17129,
+      "word": "明日方舟",
+      "onboard_time": 1666527924,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329941,
       "num": 86841,
       "word": "苹果卖67元USB-C转换器被吐槽",
@@ -3633,14 +3657,6 @@
       "onboard_time": 1666179626,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305042,
-      "num": 17129,
-      "word": "明日方舟",
-      "onboard_time": 1666527924,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 304903,
@@ -4203,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270691,
+      "num": 16983,
+      "word": "快乐其实是一件很小的事",
+      "onboard_time": 1666525645,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270606,
       "num": 161945,
       "word": "泸定地震小猪被埋塌房下存活45天",
@@ -4289,14 +4313,6 @@
       "onboard_time": 1666502725,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262024,
-      "num": 16983,
-      "word": "快乐其实是一件很小的事",
-      "onboard_time": 1666525645,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 260684,
@@ -5611,14 +5627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198461,
-      "num": 16679,
-      "word": "王楚钦4比3樊振东",
-      "onboard_time": 1666529184,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198366,
       "num": 164434,
       "word": "奶爸为照顾妻儿考下月嫂证",
@@ -6539,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165227,
+      "num": 15135,
+      "word": "丈夫做好饭一遍遍趴窗张望等妻子",
+      "onboard_time": 1666529605,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164847,
       "num": 140182,
       "word": "萌娃被锁车内成功自救后连说ok",
@@ -6945,6 +6961,14 @@
       "onboard_time": 1666246583,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145551,
+      "num": 15131,
+      "word": "原神兑换码",
+      "onboard_time": 1666530085,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 144911,
@@ -9625,6 +9649,14 @@
       "onboard_time": 1666189107,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 62316,
+      "num": 15091,
+      "word": "心想事成是真的存在吗",
+      "onboard_time": 1666529725,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 62312,
