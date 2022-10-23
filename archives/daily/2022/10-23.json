@@ -1,14 +1,22 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666492323342,
+  "endTime": 1666494766714,
   "band_list": [
     {
       "raw_hot": 1983897,
-      "num": 8421,
+      "num": 8489,
       "word": "三叔",
       "onboard_time": 1666490422,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1075748,
+      "num": 970346,
+      "word": "新一届中央政治局常委同中外记者见面",
+      "onboard_time": 1666480336,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1054604,
@@ -19,16 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 970346,
-      "num": 970346,
-      "word": "新一届中央政治局常委同中外记者见面",
-      "onboard_time": 1666480336,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 940392,
-      "num": 8453,
+      "num": 8719,
       "word": "GEN战胜DK",
       "onboard_time": 1666489762,
       "rank": 20,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 590971,
-      "num": 8449,
+      "num": 8696,
       "word": "南方学子被东北的大学食堂震惊",
       "onboard_time": 1666488262,
       "rank": 22,
@@ -44,10 +44,18 @@
     },
     {
       "raw_hot": 538840,
-      "num": 8445,
+      "num": 8630,
       "word": "霜降是全年预警最少的节气",
       "onboard_time": 1666486700,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527910,
+      "num": 527910,
+      "word": "中国共产党国际形象网宣片12种外语版本",
+      "onboard_time": 1666493002,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -60,10 +68,18 @@
     },
     {
       "raw_hot": 465578,
-      "num": 8439,
+      "num": 8510,
       "word": "管泽元",
       "onboard_time": 1666486821,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 464198,
+      "num": 8647,
+      "word": "DK中野尽力了",
+      "onboard_time": 1666491321,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -89,6 +105,14 @@
       "onboard_time": 1666450764,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 342215,
+      "num": 8665,
+      "word": "西北政法大学85周年校庆",
+      "onboard_time": 1666493422,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 318876,
@@ -139,8 +163,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260314,
+      "num": 8588,
+      "word": "河南23岁小伙菜地里微建高铁",
+      "onboard_time": 1666492882,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231779,
-      "num": 8418,
+      "num": 8459,
       "word": "谢盈萱金钟奖视后",
       "onboard_time": 1666483519,
       "rank": 31,
@@ -304,14 +336,6 @@
       "word": "DK连扳两局",
       "onboard_time": 1666485921,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 128935,
-      "num": 8388,
-      "word": "DK中野尽力了",
-      "onboard_time": 1666491321,
-      "rank": 41,
       "category": "游戏"
     },
     {
@@ -483,12 +507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72500,
+      "num": 72500,
+      "word": "这里有一个你不知道的十年",
+      "onboard_time": 1666444764,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70704,
       "num": 70704,
       "word": "未来中国先导片",
       "onboard_time": 1666485261,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69628,
+      "num": 8054,
+      "word": "马刺战胜76人",
+      "onboard_time": 1666494263,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68999,
+      "num": 8034,
+      "word": "恩比德40分13篮板",
+      "onboard_time": 1666494563,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66723,
@@ -505,14 +553,6 @@
       "onboard_time": 1666447285,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 65474,
-      "num": 65474,
-      "word": "这里有一个你不知道的十年",
-      "onboard_time": 1666444764,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64508,
@@ -611,20 +651,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 31801,
+      "num": 31801,
+      "word": "塞罕坝正在打造智慧林场",
+      "onboard_time": 1666473612,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29979,
       "num": 29979,
       "word": "梦天实验舱本月将发射",
       "onboard_time": 1666449445,
       "rank": 12,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 28273,
-      "num": 28273,
-      "word": "塞罕坝正在打造智慧林场",
-      "onboard_time": 1666473612,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25318,
@@ -635,8 +675,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22277,
-      "num": 22277,
+      "raw_hot": 22659,
+      "num": 22659,
       "word": "我们完全有信心有能力创造更大奇迹",
       "onboard_time": 1666442244,
       "rank": 14,
@@ -657,6 +697,14 @@
       "onboard_time": 1666416926,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20172,
+      "num": 20172,
+      "word": "二十大关于十九届中央委员会报告的决议",
+      "onboard_time": 1666436004,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 16427,
@@ -691,14 +739,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 13272,
-      "num": 13272,
-      "word": "二十大关于十九届中央委员会报告的决议",
-      "onboard_time": 1666436004,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 12178,
       "num": 12178,
       "word": "二十大第二场党代表通道",
@@ -713,6 +753,14 @@
       "onboard_time": 1666395198,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9729,
+      "num": 9729,
+      "word": "这些话全党必须牢记",
+      "onboard_time": 1666494384,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6753,
