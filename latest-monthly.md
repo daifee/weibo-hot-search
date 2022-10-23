@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 14:36:56
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 14:56:49
 </p>
 </blockquote>
 <p>
@@ -3765,6 +3765,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
+男子胃结石医生开药2大瓶可乐（热度：694867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A6%81%E9%92%B1%E8%A2%AB%E8%AF%B7%E5%90%83%E9%9D%A2%E5%8D%B4%E5%89%A9%E4%B8%8B%E5%A4%A7%E5%8D%8A%23" target="weibo">
 老人要钱被请吃面却剩下大半（热度：694853）
 </a>
@@ -6008,12 +6014,6 @@ IU首登韩版Vogue11月刊（热度：501833）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8D%96%E4%BE%BF%E5%AE%9C%E4%BA%9B%23" target="weibo">
-法国呼吁美国天然气卖便宜些（热度：501508）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6425,6 +6425,12 @@ IU首登韩版Vogue11月刊（热度：501833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%80%E4%B8%AD%E5%85%A8%E4%BC%9A%23%23" target="weibo">
 #党的二十届一中全会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%BA%E6%B0%91%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%23%23" target="weibo">
+#人民永远是我们最强大的底气#
 </a>
 </li>
 

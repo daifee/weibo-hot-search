@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666507016659,
+  "endTime": 1666508209363,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -41,6 +41,14 @@
       "onboard_time": 1666489762,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 694867,
+      "num": 16282,
+      "word": "男子胃结石医生开药2大瓶可乐",
+      "onboard_time": 1666506501,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590971,
@@ -163,6 +171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 324272,
+      "num": 324272,
+      "word": "致9671.2万个你",
+      "onboard_time": 1666501287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318876,
       "num": 8430,
       "word": "GEN与DK决胜局",
@@ -241,14 +257,6 @@
       "onboard_time": 1666482318,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271034,
-      "num": 271034,
-      "word": "致9671.2万个你",
-      "onboard_time": 1666501287,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262700,
@@ -371,20 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182881,
+      "num": 16268,
+      "word": "大一新生回应花式跳绳引热议",
+      "onboard_time": 1666505242,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181226,
+      "num": 18950,
+      "word": "你永远可以相信王家卫的金句",
+      "onboard_time": 1666504162,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177503,
       "num": 18947,
       "word": "当你把会员借给很多朋友",
       "onboard_time": 1666445903,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175608,
-      "num": 18950,
-      "word": "你永远可以相信王家卫的金句",
-      "onboard_time": 1666504162,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 174741,
@@ -456,14 +472,6 @@
       "word": "72岁奶奶体验1200米高空滑翔伞",
       "onboard_time": 1666467672,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132718,
-      "num": 16282,
-      "word": "男子胃结石医生开药2大瓶可乐",
-      "onboard_time": 1666506501,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -561,14 +569,6 @@
       "onboard_time": 1666438703,
       "rank": 40,
       "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 105935,
-      "num": 16268,
-      "word": "大一新生回应花式跳绳引热议",
-      "onboard_time": 1666505242,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103779,
@@ -713,6 +713,14 @@
       "onboard_time": 1666429583,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73702,
+      "num": 73702,
+      "word": "一组图看新征程上我们要怎么做",
+      "onboard_time": 1666507702,
+      "rank": 7,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 72500,
@@ -955,6 +963,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 13345,
+      "num": 32579,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 12178,
       "num": 12178,
       "word": "二十大第二场党代表通道",
@@ -977,14 +993,6 @@
       "onboard_time": 1666494384,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6762,
-      "num": 32579,
-      "word": "6分钟沙画传递新征程再出发有你",
-      "onboard_time": 1666505300,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 6753,
@@ -1023,6 +1031,9 @@
     },
     {
       "word": "#党的二十届一中全会#"
+    },
+    {
+      "word": "#人民永远是我们最强大的底气#"
     }
   ]
 }
