@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 15:28:07
+本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 15:44:34
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
-男子胃结石医生开药2大瓶可乐（热度：942753）
+男子胃结石医生开药2大瓶可乐（热度：978139）
 </a>
 </li>
 
@@ -93,6 +93,12 @@ DK中野尽力了（热度：464198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
+致9671.2万个你（热度：422676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%AA%E5%9B%9E%E4%BF%A1%E6%81%AF%E6%9C%8B%E5%8F%8B%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8E%A2%E6%9F%A5%23" target="weibo">
 女子未回信息朋友飞无人机探查（热度：419882）
 </a>
@@ -117,14 +123,14 @@ DK中野尽力了（热度：464198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
-致9671.2万个你（热度：396421）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%80%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
+党的二十届一中全会（热度：389888）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%80%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
-党的二十届一中全会（热度：389888）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
+长风渡（热度：389684）
 </a>
 </li>
 
@@ -137,6 +143,12 @@ DK中野尽力了（热度：464198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%BF%E9%A5%BC%E4%B8%8A%E7%9A%84%E7%99%BD%E9%9C%9C%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83%23" target="weibo">
 柿饼上的白霜能不能吃（热度：362470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD%E5%90%8C%E4%BA%8B%E4%BB%AC%E6%90%AC%E6%A4%85%E5%AD%90%E7%94%B5%E8%84%91%E5%9B%9E%E5%AE%B6%23" target="weibo">
+公司倒闭同事们搬椅子电脑回家（热度：352078）
 </a>
 </li>
 
@@ -167,12 +179,6 @@ GEN与DK决胜局（热度：318876）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8D%E8%A7%86%E9%A2%91%E5%AF%B9%E6%AF%948%E6%97%AC%E5%A5%B6%E5%A5%B6%E8%BF%9B%E5%9F%8E%E5%89%8D%E5%90%8E%23" target="weibo">
 女子拍视频对比8旬奶奶进城前后（热度：294847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
-长风渡（热度：294764）
 </a>
 </li>
 
@@ -339,6 +345,12 @@ LGD对战beastcoast（热度：278228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%883%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+当老师3年的变化有多大（热度：159279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C4%E6%AF%941%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23" target="weibo">
 陈幸同4比1伊藤美诚（热度：157165）
 </a>
@@ -413,12 +425,6 @@ DK止步八强（热度：120719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%BD%E9%81%93%23" target="weibo">
 炽道（热度：119315）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%883%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-当老师3年的变化有多大（热度：115753）
 </a>
 </li>
 
@@ -531,6 +537,12 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9022%E5%B9%B4%E7%85%A7%E6%96%991029%E5%90%8D%E5%AD%A4%E5%BC%83%E5%84%BF%E7%AB%A5%23" target="weibo">
+女子22年照料1029名孤弃儿童（热度：82898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%85%B3%E4%BA%8E%E5%85%9A%E7%AB%A0%E4%BF%AE%E6%AD%A3%E6%A1%88%E7%9A%84%E5%86%B3%E8%AE%AE%23" target="weibo">
 二十大关于党章修正案的决议（热度：82434）
 </a>
@@ -639,8 +651,8 @@ UFC（热度：66723）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9022%E5%B9%B4%E7%85%A7%E6%96%991029%E5%90%8D%E5%AD%A4%E5%BC%83%E5%84%BF%E7%AB%A5%23" target="weibo">
-女子22年照料1029名孤弃儿童（热度：57237）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%914A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%89%9B%23" target="weibo">
+花滑4A到底有多牛（热度：58120）
 </a>
 </li>
 
@@ -735,6 +747,12 @@ UFC（热度：66723）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%88%86%E9%92%9F%E6%B2%99%E7%94%BB%E4%BC%A0%E9%80%92%E6%96%B0%E5%BE%81%E7%A8%8B%E5%86%8D%E5%87%BA%E5%8F%91%E6%9C%89%E4%BD%A0%23" target="weibo">
+6分钟沙画传递新征程再出发有你（热度：15370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E7%85%A7%E4%BA%AE%E6%9C%AA%E6%9D%A5%E5%BE%81%E7%A8%8B%E6%9C%AA%E6%9C%89%E7%A9%B7%E6%9C%9F%23" target="weibo">
 历史照亮未来征程未有穷期（热度：15115）
 </a>
@@ -749,12 +767,6 @@ UFC（热度：66723）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E6%9C%BA%E5%8A%A1%E5%85%B5%E4%B8%BA%E6%8B%86%E6%95%85%E9%9A%9C%E4%BB%B6%E8%B7%AA%E4%BA%86%E8%BF%9110%E5%B0%8F%E6%97%B6%23" target="weibo">
 空军机务兵为拆故障件跪了近10小时（热度：13441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E5%88%86%E9%92%9F%E6%B2%99%E7%94%BB%E4%BC%A0%E9%80%92%E6%96%B0%E5%BE%81%E7%A8%8B%E5%86%8D%E5%87%BA%E5%8F%91%E6%9C%89%E4%BD%A0%23" target="weibo">
-6分钟沙画传递新征程再出发有你（热度：13345）
 </a>
 </li>
 

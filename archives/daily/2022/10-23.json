@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666510087790,
+  "endTime": 1666511074322,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 942753,
+      "raw_hot": 978139,
       "num": 16282,
       "word": "男子胃结石医生开药2大瓶可乐",
       "onboard_time": 1666506501,
@@ -107,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 422676,
+      "num": 422676,
+      "word": "致9671.2万个你",
+      "onboard_time": 1666501287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419882,
       "num": 18981,
       "word": "女子未回信息朋友飞无人机探查",
@@ -139,20 +147,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 396421,
-      "num": 396421,
-      "word": "致9671.2万个你",
-      "onboard_time": 1666501287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389888,
       "num": 389888,
       "word": "党的二十届一中全会",
       "onboard_time": 1666480336,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389684,
+      "num": 11190,
+      "word": "长风渡",
+      "onboard_time": 1666509142,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 376252,
@@ -169,6 +177,14 @@
       "onboard_time": 1666501467,
       "rank": 22,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 352078,
+      "num": 10818,
+      "word": "公司倒闭同事们搬椅子电脑回家",
+      "onboard_time": 1666510341,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342215,
@@ -209,14 +225,6 @@
       "onboard_time": 1666498407,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294764,
-      "num": 11190,
-      "word": "长风渡",
-      "onboard_time": 1666509142,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 288316,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159279,
+      "num": 11186,
+      "word": "当老师3年的变化有多大",
+      "onboard_time": 1666508301,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157165,
       "num": 10131,
       "word": "陈幸同4比1伊藤美诚",
@@ -537,14 +553,6 @@
       "onboard_time": 1666481537,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115753,
-      "num": 11186,
-      "word": "当老师3年的变化有多大",
-      "onboard_time": 1666508301,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82898,
+      "num": 11181,
+      "word": "女子22年照料1029名孤弃儿童",
+      "onboard_time": 1666509981,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 82434,
       "num": 82434,
       "word": "二十大关于党章修正案的决议",
@@ -835,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57237,
-      "num": 11181,
-      "word": "女子22年照料1029名孤弃儿童",
-      "onboard_time": 1666509981,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 58120,
+      "num": 10763,
+      "word": "花滑4A到底有多牛",
+      "onboard_time": 1666510822,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 56720,
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15370,
+      "num": 32579,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 15115,
       "num": 29230,
       "word": "历史照亮未来征程未有穷期",
@@ -985,14 +1009,6 @@
       "onboard_time": 1666471031,
       "rank": 13,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13345,
-      "num": 32579,
-      "word": "6分钟沙画传递新征程再出发有你",
-      "onboard_time": 1666505300,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 12178,

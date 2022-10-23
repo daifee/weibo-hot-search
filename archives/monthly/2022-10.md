@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 15:28:07
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 15:44:34
 </p>
 </blockquote>
 <p>
@@ -2121,6 +2121,12 @@ iPhone14Plus上市破发（热度：986191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
+男子胃结石医生开药2大瓶可乐（热度：978139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BE%8E%E8%B2%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%89%B3%E5%8E%8B%23" target="weibo">
 真正的美貌从来不存在艳压（热度：978107）
 </a>
@@ -2303,12 +2309,6 @@ RNG被翻盘（热度：947576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%89%E5%AD%A9%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%AE%B6%E5%BA%AD%E6%AF%8F%E5%AD%A9%E5%B0%86%E8%A1%A5%E8%B4%B41%E4%B8%87%23" target="weibo">
 长沙三孩及以上家庭每孩将补贴1万（热度：943304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
-男子胃结石医生开药2大瓶可乐（热度：942753）
 </a>
 </li>
 
