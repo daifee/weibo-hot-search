@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666552954586,
+  "endTime": 1666553922667,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -36483,6 +36483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 11103,
+      "num": 4502,
+      "word": "2022F1美国大奖赛排位赛",
+      "onboard_time": 1666552631,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10984,
       "num": 750,
       "word": "永远icon梦幻联动",
@@ -36545,14 +36553,6 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9805,
-      "num": 4502,
-      "word": "2022F1美国大奖赛排位赛",
-      "onboard_time": 1666552631,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 9729,
