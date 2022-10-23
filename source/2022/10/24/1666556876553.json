@@ -1,0 +1,410 @@
+{
+  "runTime": 1666556876553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 47373,
+        "num": 47373,
+        "word": "新一届中央政治局常委简历",
+        "onboard_time": 1666525462,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 14362,
+        "num": 14362,
+        "word": "二十届中央政治局委员 书记处书记简历",
+        "onboard_time": 1666527082,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1522,
+        "num": 12072,
+        "word": "为2035年的美好中国团结奋斗",
+        "onboard_time": 1666410863,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23718,
+        "num": 11922,
+        "word": "中国人把饭碗牢牢端在自己手中",
+        "onboard_time": 1666536505,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 11654,
+        "num": 11654,
+        "word": "二十届一中全会公报",
+        "onboard_time": 1666511481,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 9016,
+        "num": 9016,
+        "word": "我们一起远航",
+        "onboard_time": 1666519401,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8750,
+        "num": 8750,
+        "word": "始终坚持一切为了人民一切依靠人民",
+        "onboard_time": 1666514120,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7727,
+        "num": 7727,
+        "word": "新征程是充满光荣和梦想的远征",
+        "onboard_time": 1666501048,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7593,
+        "num": 7593,
+        "word": "致9671.2万个你",
+        "onboard_time": 1666501287,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6376,
+        "num": 6376,
+        "word": "努力创造更加灿烂的明天",
+        "onboard_time": 1666504762,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 22080,
+        "num": 6307,
+        "word": "王楚钦击败五位世界前十",
+        "onboard_time": 1666537765,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6146,
+        "num": 6146,
+        "word": "直播解读二十大报告",
+        "onboard_time": 1666526720,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 5459,
+        "num": 5459,
+        "word": "始终成为中国人民最可靠最坚强的主心骨",
+        "onboard_time": 1666501887,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18823,
+        "num": 5219,
+        "word": "王楚钦4比3樊振东",
+        "onboard_time": 1666529184,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4836,
+        "num": 4836,
+        "word": "一组数字看中国航天十年发展",
+        "onboard_time": 1666520001,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 4753,
+        "num": 4753,
+        "word": "一组图看新征程上我们要怎么做",
+        "onboard_time": 1666507702,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 16897,
+        "num": 4525,
+        "word": "孙颖莎WTT澳门赛夺冠",
+        "onboard_time": 1666523541,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13443,
+        "num": 4416,
+        "word": "王楚钦说未来还很长继续努力",
+        "onboard_time": 1666540763,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4275,
+        "num": 4275,
+        "word": "6分钟沙画传递新征程再出发有你",
+        "onboard_time": 1666505300,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4023,
+        "num": 4023,
+        "word": "历史照亮未来征程未有穷期",
+        "onboard_time": 1666497686,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 34192,
+        "num": 4023,
+        "word": "女孩回应辞职带84岁爷爷游中国",
+        "onboard_time": 1666536505,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33321,
+        "num": 4008,
+        "word": "父母沉迷看网络小说怎么办",
+        "onboard_time": 1666541183,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 28604,
+        "num": 3997,
+        "word": "谈恋爱真的会快乐吗",
+        "onboard_time": 1666540224,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28090,
+        "num": 3979,
+        "word": "iPhone15Ultra或采用钛金属外壳",
+        "onboard_time": 1666536025,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22902,
+        "num": 3971,
+        "word": "无意中拍到梵高画中的场景",
+        "onboard_time": 1666542560,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19146,
+        "num": 3957,
+        "word": "苏纳克宣布参选英保守党党首和首相",
+        "onboard_time": 1666543998,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 18796,
+        "num": 3946,
+        "word": "男子胃结石医生开药2大瓶可乐",
+        "onboard_time": 1666506501,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18421,
+        "num": 3938,
+        "word": "甄嬛不愧是反恋爱脑大师",
+        "onboard_time": 1666531823,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17434,
+        "num": 3935,
+        "word": "明日方舟",
+        "onboard_time": 1666527924,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16955,
+        "num": 3923,
+        "word": "LGD止步TI六强",
+        "onboard_time": 1666525102,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15748,
+        "num": 3913,
+        "word": "丈夫做好饭一遍遍趴窗张望等妻子",
+        "onboard_time": 1666529605,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15164,
+        "num": 3893,
+        "word": "山东95岁老战士查体发现颈部有子弹",
+        "onboard_time": 1666532363,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15039,
+        "num": 3885,
+        "word": "女老师逛街顺便辅导店家孩子功课",
+        "onboard_time": 1666535604,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13807,
+        "num": 3877,
+        "word": "当老师得会憋笑才行吧",
+        "onboard_time": 1666525763,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13797,
+        "num": 3862,
+        "word": "卧龙保护区拍到四只雪豹同框",
+        "onboard_time": 1666538065,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13647,
+        "num": 3853,
+        "word": "明日方舟 德克萨斯",
+        "onboard_time": 1666536084,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 3837,
+        "word": "2022F1美国大奖赛排位赛",
+        "onboard_time": 1666552631,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13382,
+        "num": 3829,
+        "word": "南京一市民在路边捡到北极狐",
+        "onboard_time": 1666534644,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12273,
+        "num": 3823,
+        "word": "女子未回信息朋友飞无人机探查",
+        "onboard_time": 1666497203,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11399,
+        "num": 3806,
+        "word": "石川佳纯致谢中国粉丝",
+        "onboard_time": 1666539984,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11151,
+        "num": 3803,
+        "word": "姐姐眼里弟弟的形象",
+        "onboard_time": 1666536385,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10088,
+        "num": 3781,
+        "word": "考研人的备考清单有多离谱",
+        "onboard_time": 1666522161,
+        "rank": 41,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 9981,
+        "num": 3772,
+        "word": "Gemini幸运杯",
+        "onboard_time": 1666534583,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9851,
+        "num": 3760,
+        "word": "快乐其实是一件很小的事",
+        "onboard_time": 1666525645,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9805,
+        "num": 3759,
+        "word": "独行月球票房破31亿",
+        "onboard_time": 1666526720,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9784,
+        "num": 3744,
+        "word": "人都是一瞬间长大的",
+        "onboard_time": 1666532846,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9535,
+        "num": 3731,
+        "word": "福建一外卖小哥3年帮72人回家",
+        "onboard_time": 1666520362,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 9469,
+        "num": 3720,
+        "word": "恭喜孙颖莎王楚钦",
+        "onboard_time": 1666532363,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8217,
+        "num": 3710,
+        "word": "原神兑换码",
+        "onboard_time": 1666530085,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7866,
+        "num": 3702,
+        "word": "东北搓澡时的各种暗号",
+        "onboard_time": 1666525763,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切为了人民一切依靠人民#"
+    }
+  }
+}

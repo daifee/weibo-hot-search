@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666553922667,
+  "endTime": 1666556876553,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -36355,6 +36355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13537,
+      "num": 4502,
+      "word": "2022F1美国大奖赛排位赛",
+      "onboard_time": 1666552631,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13441,
       "num": 2969,
       "word": "空军机务兵为拆故障件跪了近10小时",
@@ -36481,14 +36489,6 @@
       "onboard_time": 1664832130,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11103,
-      "num": 4502,
-      "word": "2022F1美国大奖赛排位赛",
-      "onboard_time": 1666552631,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 10984,
