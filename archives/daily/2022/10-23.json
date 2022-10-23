@@ -1,13 +1,53 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666482455988,
+  "endTime": 1666492323342,
   "band_list": [
+    {
+      "raw_hot": 1983897,
+      "num": 8421,
+      "word": "三叔",
+      "onboard_time": 1666490422,
+      "rank": 30,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1054604,
       "num": 10268,
       "word": "长沙发现一例恐龙血血型",
       "onboard_time": 1666448665,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 970346,
+      "num": 970346,
+      "word": "新一届中央政治局常委同中外记者见面",
+      "onboard_time": 1666480336,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 940392,
+      "num": 8453,
+      "word": "GEN战胜DK",
+      "onboard_time": 1666489762,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 590971,
+      "num": 8449,
+      "word": "南方学子被东北的大学食堂震惊",
+      "onboard_time": 1666488262,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 538840,
+      "num": 8445,
+      "word": "霜降是全年预警最少的节气",
+      "onboard_time": 1666486700,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -19,12 +59,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 482430,
-      "num": 21647,
-      "word": "新一届中央政治局常委同中外记者见面",
-      "onboard_time": 1666480336,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 465578,
+      "num": 8439,
+      "word": "管泽元",
+      "onboard_time": 1666486821,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 409357,
@@ -35,20 +75,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389888,
+      "num": 389888,
+      "word": "党的二十届一中全会",
+      "onboard_time": 1666480336,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376252,
-      "num": 86617,
+      "num": 334262,
       "word": "当希望工程大眼睛女孩成为奉献者",
       "onboard_time": 1666450764,
       "rank": 3,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 342252,
-      "num": 342252,
-      "word": "党的二十届一中全会",
-      "onboard_time": 1666480336,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 318876,
+      "num": 8430,
+      "word": "GEN与DK决胜局",
+      "onboard_time": 1666487722,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 297245,
@@ -75,6 +123,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276954,
+      "num": 276954,
+      "word": "人民日报社论",
+      "onboard_time": 1666486280,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272907,
+      "num": 10049,
+      "word": "陈芋汐世界杯女子10米台夺金",
+      "onboard_time": 1666482318,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231779,
+      "num": 8418,
+      "word": "谢盈萱金钟奖视后",
+      "onboard_time": 1666483519,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226502,
       "num": 10058,
       "word": "原来大家都是晚八人",
@@ -99,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211602,
+      "num": 8416,
+      "word": "驾校教练真的很会嘴人",
+      "onboard_time": 1666485681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206027,
       "num": 10232,
       "word": "中国17岁小将霹雳舞世锦赛摘银",
@@ -113,6 +193,14 @@
       "onboard_time": 1666431023,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195858,
+      "num": 195858,
+      "word": "中国共产党又踏上了新的赶考路",
+      "onboard_time": 1666486560,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194121,
@@ -187,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138290,
+      "num": 8405,
+      "word": "浮图缘感情线拉扯感",
+      "onboard_time": 1666482498,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135336,
       "num": 10170,
       "word": "72岁奶奶体验1200米高空滑翔伞",
@@ -201,6 +297,22 @@
       "onboard_time": 1666446504,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132153,
+      "num": 8396,
+      "word": "DK连扳两局",
+      "onboard_time": 1666485921,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128935,
+      "num": 8388,
+      "word": "DK中野尽力了",
+      "onboard_time": 1666491321,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 128208,
@@ -219,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120719,
+      "num": 8379,
+      "word": "DK止步八强",
+      "onboard_time": 1666491083,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119757,
       "num": 9870,
       "word": "咋样这票买的值吧",
@@ -227,7 +347,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116632,
+      "raw_hot": 119315,
       "num": 10154,
       "word": "炽道",
       "onboard_time": 1666481537,
@@ -291,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98269,
+      "num": 98269,
+      "word": "二十大",
+      "onboard_time": 1666395078,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98188,
       "num": 10093,
       "word": "罗本展颜定情之吻",
@@ -313,6 +441,14 @@
       "onboard_time": 1666458019,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90470,
+      "num": 8361,
+      "word": "霜降前后柿子最甜",
+      "onboard_time": 1666492103,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 82434,
@@ -347,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70704,
+      "num": 70704,
+      "word": "未来中国先导片",
+      "onboard_time": 1666485261,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66723,
       "num": 10083,
       "word": "UFC",
@@ -361,6 +505,14 @@
       "onboard_time": 1666447285,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 65474,
+      "num": 65474,
+      "word": "这里有一个你不知道的十年",
+      "onboard_time": 1666444764,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64508,
@@ -427,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59427,
-      "num": 59427,
-      "word": "这里有一个你不知道的十年",
-      "onboard_time": 1666444764,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56720,
       "num": 9751,
       "word": "刘雨昕学舞的速度",
@@ -459,14 +603,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 45990,
-      "num": 10049,
-      "word": "陈芋汐世界杯女子10米台夺金",
-      "onboard_time": 1666482318,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32117,
       "num": 32117,
       "word": "精确到微米只为更贴近战机的心脏",
@@ -483,16 +619,8 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 29159,
-      "num": 29159,
-      "word": "二十大",
-      "onboard_time": 1666395078,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26069,
-      "num": 26069,
+      "raw_hot": 28273,
+      "num": 28273,
       "word": "塞罕坝正在打造智慧林场",
       "onboard_time": 1666473612,
       "rank": 12,
@@ -504,6 +632,14 @@
       "word": "二十届中央委员会候补委员名单",
       "onboard_time": 1666416148,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22277,
+      "num": 22277,
+      "word": "我们完全有信心有能力创造更大奇迹",
+      "onboard_time": 1666442244,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -520,14 +656,6 @@
       "word": "二十届中央纪律检查委员会委员名单",
       "onboard_time": 1666416926,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19685,
-      "num": 19685,
-      "word": "我们完全有信心有能力创造更大奇迹",
-      "onboard_time": 1666442244,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -563,6 +691,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 13272,
+      "num": 13272,
+      "word": "二十大关于十九届中央委员会报告的决议",
+      "onboard_time": 1666436004,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 12178,
       "num": 12178,
       "word": "二十大第二场党代表通道",
@@ -571,16 +707,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11828,
-      "num": 11828,
-      "word": "二十大关于十九届中央委员会报告的决议",
-      "onboard_time": 1666436004,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 10546,
-      "num": 114761,
+      "num": 341217,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 2,

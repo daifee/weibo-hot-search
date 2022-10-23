@@ -1,6 +1,6 @@
 {
   "startTime": 1665938137365,
-  "endTime": 1666482455988,
+  "endTime": 1666492323342,
   "band_list": [
     {
       "raw_hot": 5399944,
@@ -57,6 +57,14 @@
       "onboard_time": 1666168580,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1983897,
+      "num": 8421,
+      "word": "三叔",
+      "onboard_time": 1666490422,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 1906376,
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 970346,
+      "num": 970346,
+      "word": "新一届中央政治局常委同中外记者见面",
+      "onboard_time": 1666480336,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955480,
       "num": 305625,
       "word": "90后男生全款4万买房移居鹤岗",
@@ -545,6 +561,14 @@
       "onboard_time": 1666063881,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 940392,
+      "num": 8453,
+      "word": "GEN战胜DK",
+      "onboard_time": 1666489762,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 939653,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590971,
+      "num": 8449,
+      "word": "南方学子被东北的大学食堂震惊",
+      "onboard_time": 1666488262,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 589474,
       "num": 214030,
       "word": "老人2万多烧成焦炭银行还原1.99万",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1666137203,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 538840,
+      "num": 8445,
+      "word": "霜降是全年预警最少的节气",
+      "onboard_time": 1666486700,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537294,
@@ -1939,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 482430,
-      "num": 21647,
-      "word": "新一届中央政治局常委同中外记者见面",
-      "onboard_time": 1666480336,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482289,
       "num": 160531,
       "word": "金球奖",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1666414103,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 465578,
+      "num": 8439,
+      "word": "管泽元",
+      "onboard_time": 1666486821,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 461268,
@@ -2515,6 +2555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389888,
+      "num": 389888,
+      "word": "党的二十届一中全会",
+      "onboard_time": 1666480336,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388103,
       "num": 415161,
       "word": "原来橘猫真的容易认错",
@@ -2644,7 +2692,7 @@
     },
     {
       "raw_hot": 376252,
-      "num": 151517,
+      "num": 334262,
       "word": "当希望工程大眼睛女孩成为奉献者",
       "onboard_time": 1666450764,
       "rank": 5,
@@ -2915,14 +2963,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 342252,
-      "num": 342252,
-      "word": "党的二十届一中全会",
-      "onboard_time": 1666480336,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341958,
       "num": 159858,
       "word": "广东民企百强华为退居第二",
@@ -3169,6 +3209,14 @@
       "onboard_time": 1665977182,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318876,
+      "num": 8430,
+      "word": "GEN与DK决胜局",
+      "onboard_time": 1666487722,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 318824,
@@ -3763,6 +3811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276954,
+      "num": 276954,
+      "word": "人民日报社论",
+      "onboard_time": 1666486280,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276307,
       "num": 136286,
       "word": "当外国女星遇上中国旗袍",
@@ -3825,6 +3881,14 @@
       "onboard_time": 1666062981,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272907,
+      "num": 10049,
+      "word": "陈芋汐世界杯女子10米台夺金",
+      "onboard_time": 1666482318,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 272020,
@@ -4459,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231779,
+      "num": 8418,
+      "word": "谢盈萱金钟奖视后",
+      "onboard_time": 1666483519,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231671,
       "num": 97312,
       "word": "王一博眼中的叶秘",
@@ -4931,6 +5003,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 211602,
+      "num": 8416,
+      "word": "驾校教练真的很会嘴人",
+      "onboard_time": 1666485681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211382,
       "num": 459129,
       "word": "谭松韵新剧被父亲拿捏",
@@ -5241,6 +5321,14 @@
       "onboard_time": 1666071623,
       "rank": 28,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 195858,
+      "num": 195858,
+      "word": "中国共产党又踏上了新的赶考路",
+      "onboard_time": 1666486560,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195577,
@@ -6603,6 +6691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138290,
+      "num": 8405,
+      "word": "浮图缘感情线拉扯感",
+      "onboard_time": 1666482498,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138124,
       "num": 405660,
       "word": "降温后女子连夜凿柜给流浪猫做窝",
@@ -6779,6 +6875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132153,
+      "num": 8396,
+      "word": "DK连扳两局",
+      "onboard_time": 1666485921,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131725,
       "num": 499413,
       "word": "如果你不想被人打扰",
@@ -6881,6 +6985,14 @@
       "onboard_time": 1666015286,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128935,
+      "num": 8388,
+      "word": "DK中野尽力了",
+      "onboard_time": 1666491321,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 128926,
@@ -7057,6 +7169,14 @@
       "onboard_time": 1666207152,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120719,
+      "num": 8379,
+      "word": "DK止步八强",
+      "onboard_time": 1666491083,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 120547,
@@ -7963,6 +8083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90470,
+      "num": 8361,
+      "word": "霜降前后柿子最甜",
+      "onboard_time": 1666492103,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 90314,
       "num": 16678,
       "word": "Ming世界赛500助攻",
@@ -8617,6 +8745,14 @@
       "onboard_time": 1666072524,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70704,
+      "num": 70704,
+      "word": "未来中国先导片",
+      "onboard_time": 1666485261,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70535,
@@ -9283,14 +9419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45990,
-      "num": 10049,
-      "word": "陈芋汐世界杯女子10米台夺金",
-      "onboard_time": 1666482318,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45726,
       "num": 45726,
       "word": "塞罕坝给3亿多株树建档案",
@@ -9404,7 +9532,7 @@
     },
     {
       "raw_hot": 38534,
-      "num": 245204,
+      "num": 341217,
       "word": "新征程再出发",
       "onboard_time": 1666395198,
       "rank": 7,
@@ -9531,6 +9659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28273,
+      "num": 28273,
+      "word": "塞罕坝正在打造智慧林场",
+      "onboard_time": 1666473612,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27749,
       "num": 222508,
       "word": "二十大代表共话乡村振兴",
@@ -9545,14 +9681,6 @@
       "onboard_time": 1665904583,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26069,
-      "num": 26069,
-      "word": "塞罕坝正在打造智慧林场",
-      "onboard_time": 1666473612,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22888,

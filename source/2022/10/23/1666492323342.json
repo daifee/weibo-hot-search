@@ -1,0 +1,410 @@
+{
+  "runTime": 1666492323342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970346,
+        "num": 970346,
+        "word": "新一届中央政治局常委同中外记者见面",
+        "onboard_time": 1666480336,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389888,
+        "num": 389888,
+        "word": "党的二十届一中全会",
+        "onboard_time": 1666480336,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9592,
+        "num": 341217,
+        "word": "新征程再出发",
+        "onboard_time": 1666395198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334262,
+        "num": 334262,
+        "word": "当希望工程大眼睛女孩成为奉献者",
+        "onboard_time": 1666450764,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276954,
+        "num": 276954,
+        "word": "人民日报社论",
+        "onboard_time": 1666486280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195858,
+        "num": 195858,
+        "word": "中国共产党又踏上了新的赶考路",
+        "onboard_time": 1666486560,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98269,
+        "num": 98269,
+        "word": "二十大",
+        "onboard_time": 1666395078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90414,
+        "num": 90414,
+        "word": "火车5秒通过的隧道花了6年才打通",
+        "onboard_time": 1666424842,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70704,
+        "num": 70704,
+        "word": "未来中国先导片",
+        "onboard_time": 1666485261,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65474,
+        "num": 65474,
+        "word": "这里有一个你不知道的十年",
+        "onboard_time": 1666444764,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43680,
+        "num": 43680,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31952,
+        "num": 31952,
+        "word": "二十大关于党章修正案的决议",
+        "onboard_time": 1666436904,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28273,
+        "num": 28273,
+        "word": "塞罕坝正在打造智慧林场",
+        "onboard_time": 1666473612,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27837,
+        "num": 27837,
+        "word": "当上二十大代表的快递员说被叫小哥特亲切",
+        "onboard_time": 1666420281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26174,
+        "num": 26174,
+        "word": "代表热议如何提升群众幸福指数",
+        "onboard_time": 1666447285,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23477,
+        "num": 23477,
+        "word": "二十大报告百余次提及人民",
+        "onboard_time": 1666441763,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22277,
+        "num": 22277,
+        "word": "我们完全有信心有能力创造更大奇迹",
+        "onboard_time": 1666442244,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17837,
+        "num": 17837,
+        "word": "我国水运基础设施规模世界第一",
+        "onboard_time": 1666440024,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13272,
+        "num": 13272,
+        "word": "二十大关于十九届中央委员会报告的决议",
+        "onboard_time": 1666436004,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8455,
+        "num": 8455,
+        "word": "二十届中央纪律检查委员会委员名单",
+        "onboard_time": 1666416926,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940392,
+        "num": 8453,
+        "word": "GEN战胜DK",
+        "onboard_time": 1666489762,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 596144,
+        "num": 8452,
+        "word": "长沙发现一例恐龙血血型",
+        "onboard_time": 1666448665,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590971,
+        "num": 8449,
+        "word": "南方学子被东北的大学食堂震惊",
+        "onboard_time": 1666488262,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538840,
+        "num": 8445,
+        "word": "霜降是全年预警最少的节气",
+        "onboard_time": 1666486700,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465578,
+        "num": 8439,
+        "word": "管泽元",
+        "onboard_time": 1666486821,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272907,
+        "num": 8436,
+        "word": "陈芋汐世界杯女子10米台夺金",
+        "onboard_time": 1666482318,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237612,
+        "num": 8436,
+        "word": "当你在图书馆坐一天后",
+        "onboard_time": 1666452024,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318876,
+        "num": 8430,
+        "word": "GEN与DK决胜局",
+        "onboard_time": 1666487722,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203937,
+        "num": 8427,
+        "word": "霜降",
+        "onboard_time": 1666480996,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174850,
+        "num": 8423,
+        "word": "当你把会员借给很多朋友",
+        "onboard_time": 1666445903,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1983897,
+        "num": 8421,
+        "word": "三叔",
+        "onboard_time": 1666490422,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231779,
+        "num": 8418,
+        "word": "谢盈萱金钟奖视后",
+        "onboard_time": 1666483519,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211602,
+        "num": 8416,
+        "word": "驾校教练真的很会嘴人",
+        "onboard_time": 1666485681,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153723,
+        "num": 8414,
+        "word": "印度一病人输血时错输果汁后死亡",
+        "onboard_time": 1666426223,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147224,
+        "num": 8408,
+        "word": "猫咪绝育后半夜偷偷放屁踢主人脸",
+        "onboard_time": 1666433424,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 8405,
+        "word": "浮图缘感情线拉扯感",
+        "onboard_time": 1666482498,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136920,
+        "num": 8403,
+        "word": "女子投简历后发现HR是室友",
+        "onboard_time": 1666421302,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 8398,
+        "word": "鹤岗买房真的值吗",
+        "onboard_time": 1666442425,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132153,
+        "num": 8396,
+        "word": "DK连扳两局",
+        "onboard_time": 1666485921,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125994,
+        "num": 8392,
+        "word": "72岁奶奶体验1200米高空滑翔伞",
+        "onboard_time": 1666467672,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122575,
+        "num": 8391,
+        "word": "男子凌晨买下8旬老人全部蔬菜",
+        "onboard_time": 1666442964,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128935,
+        "num": 8388,
+        "word": "DK中野尽力了",
+        "onboard_time": 1666491321,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119361,
+        "num": 8382,
+        "word": "预约人数破100万的古偶",
+        "onboard_time": 1666437685,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119315,
+        "num": 8379,
+        "word": "炽道",
+        "onboard_time": 1666481537,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120719,
+        "num": 8379,
+        "word": "DK止步八强",
+        "onboard_time": 1666491083,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118598,
+        "num": 8372,
+        "word": "尚雯婕107岁佘太君扮相",
+        "onboard_time": 1666440202,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 8369,
+        "word": "你能接受对象几天不联系你",
+        "onboard_time": 1666431023,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105751,
+        "num": 8368,
+        "word": "在恋爱中男朋友会撒娇吗",
+        "onboard_time": 1666439544,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92462,
+        "num": 8363,
+        "word": "DK对战GEN",
+        "onboard_time": 1666480755,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90470,
+        "num": 8361,
+        "word": "霜降前后柿子最甜",
+        "onboard_time": 1666492103,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大在京闭幕#"
+    }
+  }
+}
