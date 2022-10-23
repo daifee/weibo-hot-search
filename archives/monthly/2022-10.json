@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666513945744,
+  "endTime": 1666514972053,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -3035,6 +3035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 947604,
+      "num": 10818,
+      "word": "公司倒闭同事们搬椅子电脑回家",
+      "onboard_time": 1666510341,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 947576,
       "num": 7792,
       "word": "RNG被翻盘",
@@ -3168,14 +3176,6 @@
       "word": "医生提醒3类人慎吃羊肉",
       "onboard_time": 1665495927,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 920674,
-      "num": 10818,
-      "word": "公司倒闭同事们搬椅子电脑回家",
-      "onboard_time": 1666510341,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -21571,6 +21571,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 189850,
+      "num": 189850,
+      "word": "始终坚持一切为了人民一切依靠人民",
+      "onboard_time": 1666514120,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 189836,
       "num": 189836,
       "word": "节后上班第一天冷空气将再发货",
@@ -22291,6 +22299,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 181657,
+      "num": 8978,
+      "word": "我也想要只会捂脚的狗子",
+      "onboard_time": 1666513222,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181590,
       "num": 66910,
       "word": "朱婷出席斯坎迪奇球队发布会",
@@ -22889,6 +22905,14 @@
       "onboard_time": 1666051946,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 173279,
+      "num": 11181,
+      "word": "女子22年照料1029名孤弃儿童",
+      "onboard_time": 1666509981,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 173161,
@@ -23697,14 +23721,6 @@
       "onboard_time": 1665781690,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163072,
-      "num": 11181,
-      "word": "女子22年照料1029名孤弃儿童",
-      "onboard_time": 1666509981,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 163003,
@@ -28635,6 +28651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112201,
+      "num": 8978,
+      "word": "当代人讲话有多高效",
+      "onboard_time": 1666513881,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112145,
       "num": 112145,
       "word": "宣璐晒白日梦告白书开机随拍",
@@ -29081,6 +29105,14 @@
       "onboard_time": 1665138862,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 108340,
+      "num": 8978,
+      "word": "广东男篮vs天津男篮",
+      "onboard_time": 1666512980,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 108245,
@@ -30019,14 +30051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98710,
-      "num": 8978,
-      "word": "广东男篮vs天津男篮",
-      "onboard_time": 1666512980,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98649,
       "num": 98649,
       "word": "万里归途独家幕后记录",
@@ -30169,14 +30193,6 @@
       "onboard_time": 1665830785,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97250,
-      "num": 8978,
-      "word": "我也想要只会捂脚的狗子",
-      "onboard_time": 1666513222,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 97111,
@@ -30729,14 +30745,6 @@
       "onboard_time": 1665328642,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90900,
-      "num": 8978,
-      "word": "当代人讲话有多高效",
-      "onboard_time": 1666513881,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 90777,
@@ -34771,6 +34779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45598,
+      "num": 8722,
+      "word": "中国航天的十年跨越性成就",
+      "onboard_time": 1666514902,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 45436,
       "num": 45436,
       "word": "10月16日新增本土确诊182例",
@@ -34849,6 +34865,14 @@
       "onboard_time": 1665989241,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 43110,
+      "num": 8713,
+      "word": "今日霜降愿好柿成霜",
+      "onboard_time": 1666512142,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42858,
@@ -35659,6 +35683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18477,
+      "num": 32579,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 18287,
       "num": 15460,
       "word": "EG对战DK",
@@ -35681,14 +35713,6 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17543,
-      "num": 32579,
-      "word": "6分钟沙画传递新征程再出发有你",
-      "onboard_time": 1666505300,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 17206,
