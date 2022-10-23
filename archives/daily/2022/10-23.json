@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666517247465,
+  "endTime": 1666518338505,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 375131,
+      "num": 9628,
+      "word": "万里归途票房破14亿",
+      "onboard_time": 1666515501,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362470,
       "num": 18998,
       "word": "柿饼上的白霜能不能吃",
@@ -195,12 +203,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 339326,
-      "num": 9628,
-      "word": "万里归途票房破14亿",
-      "onboard_time": 1666515501,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 320106,
+      "num": 9606,
+      "word": "jankos宣布离队",
+      "onboard_time": 1666515081,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 318876,
@@ -240,6 +248,14 @@
       "word": "女子拍视频对比8旬奶奶进城前后",
       "onboard_time": 1666498407,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291317,
+      "num": 9598,
+      "word": "中国村庄名字从何而来",
+      "onboard_time": 1666515382,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1666482318,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266599,
-      "num": 9606,
-      "word": "jankos宣布离队",
-      "onboard_time": 1666515081,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 265118,
@@ -408,14 +416,6 @@
       "word": "中国共产党又踏上了新的赶考路",
       "onboard_time": 1666486560,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195305,
-      "num": 9598,
-      "word": "中国村庄名字从何而来",
-      "onboard_time": 1666515382,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -761,6 +761,14 @@
       "onboard_time": 1666492103,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 85621,
+      "num": 7702,
+      "word": "林葳三分",
+      "onboard_time": 1666518322,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85252,
