@@ -1,0 +1,410 @@
+{
+  "runTime": 1666525170150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391025,
+        "num": 391025,
+        "word": "新一届中央政治局常委同中外记者见面",
+        "onboard_time": 1666480336,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 318304,
+        "num": 318304,
+        "word": "致9671.2万个你",
+        "onboard_time": 1666501287,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187643,
+        "num": 187643,
+        "word": "二十届一中全会公报",
+        "onboard_time": 1666511481,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124810,
+        "num": 124810,
+        "word": "始终坚持一切为了人民一切依靠人民",
+        "onboard_time": 1666514120,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82700,
+        "num": 82700,
+        "word": "中国共产党国际形象网宣片12种外语版本",
+        "onboard_time": 1666493002,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 71621,
+        "num": 71621,
+        "word": "我们一起远航",
+        "onboard_time": 1666519401,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46341,
+        "num": 46341,
+        "word": "中国共产党又踏上了新的赶考路",
+        "onboard_time": 1666486560,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43815,
+        "num": 43815,
+        "word": "人民日报社论",
+        "onboard_time": 1666486280,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41903,
+        "num": 41903,
+        "word": "努力创造更加灿烂的明天",
+        "onboard_time": 1666504762,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 37995,
+        "num": 37995,
+        "word": "二十大报告对青年提出殷切希望",
+        "onboard_time": 1666497564,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 943214,
+        "num": 33781,
+        "word": "孙颖莎WTT澳门赛夺冠",
+        "onboard_time": 1666523541,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 28323,
+        "word": "一组数字看中国航天十年发展",
+        "onboard_time": 1666520001,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 25880,
+        "num": 25880,
+        "word": "未来中国先导片",
+        "onboard_time": 1666485261,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 399840,
+        "num": 25614,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1666518441,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21737,
+        "num": 21737,
+        "word": "始终成为中国人民最可靠最坚强的主心骨",
+        "onboard_time": 1666501887,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18685,
+        "num": 18685,
+        "word": "新征程是充满光荣和梦想的远征",
+        "onboard_time": 1666501048,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165356,
+        "num": 18541,
+        "word": "孙颖莎4比1陈幸同",
+        "onboard_time": 1666523602,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18104,
+        "num": 18104,
+        "word": "一组图看新征程上我们要怎么做",
+        "onboard_time": 1666507702,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18002,
+        "num": 18002,
+        "word": "二十届中央委员会委员名单",
+        "onboard_time": 1666415365,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110948,
+        "num": 17994,
+        "word": "wtt澳门冠军赛",
+        "onboard_time": 1666518501,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465982,
+        "num": 17965,
+        "word": "考研人的备考清单有多离谱",
+        "onboard_time": 1666522161,
+        "rank": 20,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 423274,
+        "num": 17956,
+        "word": "Ame",
+        "onboard_time": 1666522043,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 972910,
+        "num": 17937,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1666521623,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392043,
+        "num": 17921,
+        "word": "男子胃结石医生开药2大瓶可乐",
+        "onboard_time": 1666506501,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322350,
+        "num": 17909,
+        "word": "福建一外卖小哥3年帮72人回家",
+        "onboard_time": 1666520362,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 232202,
+        "num": 17886,
+        "word": "6岁女孩爱盘发各种造型信手拈来",
+        "onboard_time": 1666520843,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231270,
+        "num": 17863,
+        "word": "LGD止步TI六强",
+        "onboard_time": 1666525102,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146366,
+        "num": 17840,
+        "word": "女子见8旬老人摆摊卖烂柿买10斤",
+        "onboard_time": 1666502247,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127461,
+        "num": 17825,
+        "word": "CBA",
+        "onboard_time": 1666522161,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169943,
+        "num": 17805,
+        "word": "jankos宣布离队",
+        "onboard_time": 1666515081,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405132,
+        "num": 17782,
+        "word": "公司倒闭同事们搬椅子电脑回家",
+        "onboard_time": 1666510341,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107651,
+        "num": 17764,
+        "word": "我也想要只会捂脚的狗子",
+        "onboard_time": 1666513222,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104801,
+        "num": 17740,
+        "word": "女子未回信息朋友飞无人机探查",
+        "onboard_time": 1666497203,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102965,
+        "num": 17729,
+        "word": "长风渡",
+        "onboard_time": 1666509142,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93634,
+        "num": 17712,
+        "word": "万里归途票房破14亿",
+        "onboard_time": 1666515501,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91220,
+        "num": 17702,
+        "word": "同曦男篮绝杀上海男篮",
+        "onboard_time": 1666519041,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88747,
+        "num": 17675,
+        "word": "看到成片的那一刻被惊艳到了",
+        "onboard_time": 1666519581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81479,
+        "num": 17655,
+        "word": "柿饼上的白霜能不能吃",
+        "onboard_time": 1666501467,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 76151,
+        "num": 17643,
+        "word": "南方学子被东北的大学食堂震惊",
+        "onboard_time": 1666488262,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70544,
+        "num": 17615,
+        "word": "老爸先背会课文凡尔赛气哭儿子",
+        "onboard_time": 1666502725,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65392,
+        "num": 17603,
+        "word": "女子22年照料1029名孤弃儿童",
+        "onboard_time": 1666509981,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 65028,
+        "num": 17584,
+        "word": "当老师3年的变化有多大",
+        "onboard_time": 1666508301,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64169,
+        "num": 17567,
+        "word": "中国村庄名字从何而来",
+        "onboard_time": 1666515382,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55915,
+        "num": 17549,
+        "word": "霜降前后多吃萝卜",
+        "onboard_time": 1666524623,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 55688,
+        "num": 17524,
+        "word": "林葳32分",
+        "onboard_time": 1666519821,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54526,
+        "num": 17513,
+        "word": "当代人讲话有多高效",
+        "onboard_time": 1666513881,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49563,
+        "num": 17497,
+        "word": "霜降",
+        "onboard_time": 1666480996,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43600,
+        "num": 17461,
+        "word": "粉笔模考",
+        "onboard_time": 1666495643,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38154,
+        "num": 17459,
+        "word": "霜降是全年预警最少的节气",
+        "onboard_time": 1666486700,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36984,
+        "num": 17424,
+        "word": "你永远可以相信王家卫的金句",
+        "onboard_time": 1666504162,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
