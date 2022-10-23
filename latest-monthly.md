@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 17:45:38
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 18:27:50
 </p>
 </blockquote>
 <p>
@@ -3513,6 +3513,12 @@ S12八强没有LPL内战（热度：730041）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C%23" target="weibo">
+孙颖莎vs陈幸同（热度：720000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%A2%81%E5%98%89%E6%A5%A0%23" target="weibo">
 孙颖莎vs袁嘉楠（热度：719573）
 </a>
@@ -6005,12 +6011,6 @@ DK对战GEN（热度：502750）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E9%A6%96%E7%99%BB%E9%9F%A9%E7%89%88Vogue11%E6%9C%88%E5%88%8A%23" target="weibo">
 IU首登韩版Vogue11月刊（热度：501833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8E%92%E5%90%8D%E5%8D%87%E8%87%B3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%23" target="weibo">
-中国女篮排名升至世界第二（热度：501590）
 </a>
 </li>
 
