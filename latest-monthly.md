@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 06:44:53
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 07:31:16
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8EBF.7%E5%8F%98%E5%BC%82%E6%A0%AA%E5%B7%B2%E5%85%A5%E5%8D%8E%23" target="weibo">
 奥密克戎BF.7变异株已入华（热度：2887521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98DRX%23" target="weibo">
+EDG对战DRX（热度：2849044）
 </a>
 </li>
 
@@ -2147,6 +2153,12 @@ iPhone14Plus上市破发（热度：986191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BE%8E%E8%B2%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%89%B3%E5%8E%8B%23" target="weibo">
 真正的美貌从来不存在艳压（热度：978107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%88%E5%AE%B6%E5%A5%87%E8%BF%B9%23" target="weibo">
+EDG守家奇迹（热度：976671）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E5%A5%BD%E5%8F%8B%E7%AB%8B%E9%A9%AC%E4%B8%8A%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
 男子与人冲突好友立马上前道歉（热度：507996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%89%BF%E8%A1%8D%E7%AD%BE%E7%BA%A6EDAM%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%23" target="weibo">
-曹承衍签约EDAM娱乐公司（热度：507856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8F%AF%E4%BB%A5%E7%A9%BF%E4%B8%8A%E4%BA%86%23" target="weibo">
-西安人的羽绒服可以穿上了（热度：507802）
 </a>
 </li>
 

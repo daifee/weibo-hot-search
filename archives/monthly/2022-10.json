@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666565093257,
+  "endTime": 1666567876380,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -153,6 +153,14 @@
       "onboard_time": 1665111744,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2849044,
+      "num": 22862,
+      "word": "EDG对战DRX",
+      "onboard_time": 1666566857,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 2822226,
@@ -2849,6 +2857,14 @@
       "onboard_time": 1665746842,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 976671,
+      "num": 11338,
+      "word": "EDG守家奇迹",
+      "onboard_time": 1666566978,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 975768,
@@ -20339,6 +20355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208562,
+      "num": 10150,
+      "word": "S12淘汰赛",
+      "onboard_time": 1666567699,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208312,
       "num": 277840,
       "word": "特斯拉发布2022年第三季度财报",
@@ -20409,6 +20433,14 @@
       "onboard_time": 1665642503,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207261,
+      "num": 10132,
+      "word": "EDG手握三个赛点",
+      "onboard_time": 1666567519,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 207221,
@@ -24907,6 +24939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153625,
+      "num": 137496,
+      "word": "中国人把饭碗牢牢端在自己手中",
+      "onboard_time": 1666536505,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 153605,
       "num": 57931,
       "word": "蔡徐坤现象舞蹈教学",
@@ -25001,6 +25041,14 @@
       "onboard_time": 1665736764,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152452,
+      "num": 12758,
+      "word": "女老师逛街顺便辅导店家孩子功课",
+      "onboard_time": 1666535604,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152415,
@@ -26552,14 +26600,6 @@
       "word": "二十大知识帖",
       "onboard_time": 1665800062,
       "rank": 42,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 137496,
-      "num": 137496,
-      "word": "中国人把饭碗牢牢端在自己手中",
-      "onboard_time": 1666536505,
-      "rank": 3,
       "category": "国内要闻"
     },
     {
@@ -28643,6 +28683,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 116456,
+      "num": 12420,
+      "word": "苏纳克宣布参选英保守党党首和首相",
+      "onboard_time": 1666543998,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 116369,
       "num": 207013,
       "word": "外交部回应中方领导人是否出席G20峰会",
@@ -30643,14 +30691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97029,
-      "num": 12758,
-      "word": "女老师逛街顺便辅导店家孩子功课",
-      "onboard_time": 1666535604,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "国乒女团晋级世乒赛4强",
@@ -32043,6 +32083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83422,
+      "num": 10106,
+      "word": "丹麦赛石宇奇夺冠",
+      "onboard_time": 1666566857,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83318,
       "num": 83318,
       "word": "华西教授回家过节帮满屋乡亲看病",
@@ -32787,14 +32835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75669,
-      "num": 12420,
-      "word": "苏纳克宣布参选英保守党党首和首相",
-      "onboard_time": 1666543998,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 75648,
       "num": 435189,
       "word": "秋天已经抵达广东",
@@ -33233,6 +33273,14 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70887,
+      "num": 70887,
+      "word": "场地被占极限运动玩家与家长起冲突",
+      "onboard_time": 1666567818,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70671,
@@ -34923,6 +34971,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 50270,
+      "num": 10044,
+      "word": "层林尽染有多美",
+      "onboard_time": 1666566919,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50156,
       "num": 50156,
       "word": "北控男篮vs新疆男篮",
@@ -35771,6 +35827,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 35162,
+      "num": 10036,
+      "word": "重庆300米高空索道桥上跑货车",
+      "onboard_time": 1666567338,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35077,
       "num": 35077,
       "word": "张彬彬庄羽晚安三宫格",
@@ -35945,6 +36009,14 @@
       "onboard_time": 1666038969,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30460,
+      "num": 30460,
+      "word": "交上不负自己不负时代的答卷",
+      "onboard_time": 1666558989,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 30294,
@@ -36265,14 +36337,6 @@
       "onboard_time": 1665770955,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15554,
-      "num": 15554,
-      "word": "交上不负自己不负时代的答卷",
-      "onboard_time": 1666558989,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 15514,
