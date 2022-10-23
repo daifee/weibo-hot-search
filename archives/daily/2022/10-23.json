@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666521976501,
+  "endTime": 1666524114088,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 978139,
-      "num": 16282,
+      "num": 17735,
       "word": "男子胃结石医生开药2大瓶可乐",
       "onboard_time": 1666506501,
       "rank": 29,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 947604,
-      "num": 10818,
+      "num": 17484,
       "word": "公司倒闭同事们搬椅子电脑回家",
       "onboard_time": 1666510341,
       "rank": 30,
@@ -59,11 +59,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 720000,
-      "num": 9882,
+      "raw_hot": 853973,
+      "num": 32747,
       "word": "孙颖莎vs陈幸同",
       "onboard_time": 1666518441,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 801940,
+      "num": 17854,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1666521623,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 651981,
+      "num": 26120,
+      "word": "孙颖莎WTT澳门赛夺冠",
+      "onboard_time": 1666523541,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -91,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502876,
+      "num": 17816,
+      "word": "Ame",
+      "onboard_time": 1666522043,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 502750,
       "num": 10256,
       "word": "DK对战GEN",
       "onboard_time": 1666480755,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 497014,
+      "num": 17791,
+      "word": "考研人的备考清单有多离谱",
+      "onboard_time": 1666522161,
+      "rank": 22,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 479221,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 389684,
-      "num": 11190,
+      "num": 17270,
       "word": "长风渡",
       "onboard_time": 1666509142,
       "rank": 22,
@@ -188,11 +220,19 @@
     },
     {
       "raw_hot": 375131,
-      "num": 9865,
+      "num": 17543,
       "word": "万里归途票房破14亿",
       "onboard_time": 1666515501,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363424,
+      "num": 17683,
+      "word": "福建一外卖小哥3年帮72人回家",
+      "onboard_time": 1666520362,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 362470,
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 320106,
-      "num": 9872,
+      "num": 17632,
       "word": "jankos宣布离队",
       "onboard_time": 1666515081,
       "rank": 24,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 293616,
-      "num": 9861,
+      "num": 17185,
       "word": "中国村庄名字从何而来",
       "onboard_time": 1666515382,
       "rank": 25,
@@ -347,12 +387,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 233455,
-      "num": 9868,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1666521623,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 240806,
+      "num": 17651,
+      "word": "6岁女孩爱盘发各种造型信手拈来",
+      "onboard_time": 1666520843,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231779,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 218699,
-      "num": 9839,
+      "num": 17387,
       "word": "我也想要只会捂脚的狗子",
       "onboard_time": 1666513222,
       "rank": 35,
@@ -425,6 +465,14 @@
       "onboard_time": 1666431023,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196896,
+      "num": 19588,
+      "word": "wtt澳门冠军赛",
+      "onboard_time": 1666518501,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 195858,
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 189374,
-      "num": 11186,
+      "num": 16972,
       "word": "当老师3年的变化有多大",
       "onboard_time": 1666508301,
       "rank": 33,
@@ -508,7 +556,7 @@
     },
     {
       "raw_hot": 173279,
-      "num": 11181,
+      "num": 17013,
       "word": "女子22年照料1029名孤弃儿童",
       "onboard_time": 1666509981,
       "rank": 49,
@@ -521,22 +569,6 @@
       "onboard_time": 1666503143,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169379,
-      "num": 9845,
-      "word": "wtt澳门冠军赛",
-      "onboard_time": 1666518501,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167156,
-      "num": 9847,
-      "word": "福建一外卖小哥3年帮72人回家",
-      "onboard_time": 1666520362,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 163330,
@@ -620,10 +652,18 @@
     },
     {
       "raw_hot": 127898,
-      "num": 9835,
+      "num": 17881,
       "word": "同曦男篮绝杀上海男篮",
       "onboard_time": 1666519041,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126622,
+      "num": 17456,
+      "word": "CBA",
+      "onboard_time": 1666522161,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -659,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117927,
-      "num": 9822,
-      "word": "6岁女孩爱盘发各种造型信手拈来",
-      "onboard_time": 1666520843,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112615,
       "num": 9864,
       "word": "男生考研二战用零食当书签",
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 112201,
-      "num": 9783,
+      "num": 16919,
       "word": "当代人讲话有多高效",
       "onboard_time": 1666513881,
       "rank": 36,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 107823,
-      "num": 9815,
+      "num": 17311,
       "word": "看到成片的那一刻被惊艳到了",
       "onboard_time": 1666519581,
       "rank": 37,
@@ -777,6 +809,14 @@
       "onboard_time": 1666450645,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99552,
+      "num": 17200,
+      "word": "孙颖莎4比1陈幸同",
+      "onboard_time": 1666523602,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 98734,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 85621,
-      "num": 9776,
+      "num": 16793,
       "word": "林葳三分",
       "onboard_time": 1666518322,
       "rank": 47,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 72967,
-      "num": 9789,
+      "num": 17004,
       "word": "林葳32分",
       "onboard_time": 1666519821,
       "rank": 47,
@@ -1128,6 +1168,14 @@
       "word": "二十届中央委员会候补委员名单",
       "onboard_time": 1666416148,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22109,
+      "num": 17291,
+      "word": "走进生活文艺才能不悬浮",
+      "onboard_time": 1666523900,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
