@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666504811824,
+  "endTime": 1666507016659,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411226,
-      "num": 411226,
+      "raw_hot": 415451,
+      "num": 415451,
       "word": "始终成为中国人民最可靠最坚强的主心骨",
       "onboard_time": 1666501887,
       "rank": 2,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288316,
+      "num": 18991,
+      "word": "女子见8旬老人摆摊卖烂柿买10斤",
+      "onboard_time": 1666502247,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287216,
       "num": 10242,
       "word": "女子投简历后发现HR是室友",
@@ -235,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271034,
+      "num": 271034,
+      "word": "致9671.2万个你",
+      "onboard_time": 1666501287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262700,
+      "num": 18987,
+      "word": "老爸先背会课文凡尔赛气哭儿子",
+      "onboard_time": 1666502725,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260314,
       "num": 18970,
       "word": "河南23岁小伙菜地里微建高铁",
@@ -257,14 +281,6 @@
       "onboard_time": 1666483519,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229683,
-      "num": 18991,
-      "word": "女子见8旬老人摆摊卖烂柿买10斤",
-      "onboard_time": 1666502247,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226502,
@@ -363,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175608,
+      "num": 18950,
+      "word": "你永远可以相信王家卫的金句",
+      "onboard_time": 1666504162,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174741,
       "num": 18976,
       "word": "11岁男孩对墙连续踢足球不落地",
@@ -371,11 +395,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168451,
-      "num": 18987,
-      "word": "老爸先背会课文凡尔赛气哭儿子",
-      "onboard_time": 1666502725,
-      "rank": 36,
+      "raw_hot": 172647,
+      "num": 18974,
+      "word": "当假装说狗狗喜欢听的话",
+      "onboard_time": 1666503143,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163330,
+      "num": 163330,
+      "word": "人民永远是我们最强大的底气",
+      "onboard_time": 1666501225,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -392,22 +424,6 @@
       "word": "男孩被训斥深夜到派出所举报母亲",
       "onboard_time": 1666466231,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152501,
-      "num": 18974,
-      "word": "当假装说狗狗喜欢听的话",
-      "onboard_time": 1666503143,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 146371,
-      "num": 146371,
-      "word": "人民永远是我们最强大的底气",
-      "onboard_time": 1666501225,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -435,19 +451,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138052,
-      "num": 38421,
-      "word": "致9671.2万个你",
-      "onboard_time": 1666501287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135336,
       "num": 17465,
       "word": "72岁奶奶体验1200米高空滑翔伞",
       "onboard_time": 1666467672,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132718,
+      "num": 16282,
+      "word": "男子胃结石医生开药2大瓶可乐",
+      "onboard_time": 1666506501,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 119315,
-      "num": 10154,
+      "num": 16240,
       "word": "炽道",
       "onboard_time": 1666481537,
       "rank": 35,
@@ -547,6 +563,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 105935,
+      "num": 16268,
+      "word": "大一新生回应花式跳绳引热议",
+      "onboard_time": 1666505242,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103779,
       "num": 9819,
       "word": "已经很多年没谈恋爱了",
@@ -561,6 +585,14 @@
       "onboard_time": 1666424842,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103079,
+      "num": 18958,
+      "word": "字母哥44分12篮板",
+      "onboard_time": 1666503683,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100570,
@@ -611,14 +643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93597,
-      "num": 18958,
-      "word": "字母哥44分12篮板",
-      "onboard_time": 1666503683,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90470,
       "num": 8361,
       "word": "霜降前后柿子最甜",
@@ -657,14 +681,6 @@
       "onboard_time": 1666436904,
       "rank": 5,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 82147,
-      "num": 18950,
-      "word": "你永远可以相信王家卫的金句",
-      "onboard_time": 1666504162,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 81127,
@@ -961,6 +977,14 @@
       "onboard_time": 1666494384,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6762,
+      "num": 32579,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 6753,
