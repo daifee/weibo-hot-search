@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 22:44:31
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 23:26:57
 </p>
 </blockquote>
 <p>
@@ -4041,6 +4041,12 @@ TES（热度：684055）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Ultra%E6%88%96%E9%87%87%E7%94%A8%E9%92%9B%E9%87%91%E5%B1%9E%E5%A4%96%E5%A3%B3%23" target="weibo">
+iPhone15Ultra或采用钛金属外壳（热度：669362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E6%88%96%E8%AE%A9%E8%8B%B9%E6%9E%9C%E6%AF%8F%E5%B9%B4%E6%8D%9F%E5%A4%B1%E7%99%BE%E4%BA%BF%23" target="weibo">
 统一充电接口或让苹果每年损失百亿（热度：669006）
 </a>
@@ -5433,6 +5439,12 @@ iPod之父支持iPhone改用C口（热度：552071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%87%BB%E8%B4%A5%E4%BA%94%E4%BD%8D%E4%B8%96%E7%95%8C%E5%89%8D%E5%8D%81%23" target="weibo">
+王楚钦击败五位世界前十（热度：540956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9F%E7%9F%BF%E4%BA%95%E5%8F%91%E7%8E%B0140%E5%B9%B4%E5%89%8D%E7%89%9B%E4%BB%94%E8%A3%A4%E6%8B%8D%E5%87%BA62%E4%B8%87%23" target="weibo">
 废矿井发现140年前牛仔裤拍出62万（热度：540855）
 </a>
@@ -5651,6 +5663,12 @@ AI预测S12冠军（热度：533074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B7%E5%A5%B3%E4%BA%BA%E5%9D%87%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E5%B7%AE%E8%B7%9D%E6%8B%89%E5%A4%A7%23" target="weibo">
 全国男女人均预期寿命差距拉大（热度：527652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E8%BE%9E%E8%81%8C%E5%B8%A684%E5%B2%81%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%23" target="weibo">
+女孩回应辞职带84岁爷爷游中国（热度：526134）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E6%A6%B4%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%81%9A%E5%87%BA%E7%94%9C%E5%93%81%23" target="weibo">
 石榴竟然还可以做出甜品（热度：507371）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%9B%B4%E6%92%AD%E5%9C%BA%E5%9D%87%E9%94%80%E5%94%AE%E9%A2%9D%E4%BB%852500%E5%85%83%23" target="weibo">
-椰树集团直播场均销售额仅2500元（热度：505654）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23" target="weibo">
-二十大召开时间（热度：505464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%8C%AB%E5%92%AA%E8%A2%AB%E7%86%8F%E5%BE%97%E7%9D%81%E4%B8%8D%E5%BC%80%E7%9C%BC%E7%9D%9B%23" target="weibo">
-女生吃螺蛳粉猫咪被熏得睁不开眼睛（热度：505410）
 </a>
 </li>
 
