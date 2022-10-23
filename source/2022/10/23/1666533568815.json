@@ -1,0 +1,410 @@
+{
+  "runTime": 1666533568815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021199,
+        "num": 1021199,
+        "word": "新一届中央政治局常委简历",
+        "onboard_time": 1666525462,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 313031,
+        "num": 313031,
+        "word": "二十届中央政治局委员 书记处书记简历",
+        "onboard_time": 1666527082,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 216332,
+        "word": "二十届一中全会公报",
+        "onboard_time": 1666511481,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136520,
+        "num": 136520,
+        "word": "致9671.2万个你",
+        "onboard_time": 1666501287,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83547,
+        "num": 83547,
+        "word": "直播解读二十大报告",
+        "onboard_time": 1666526720,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54699,
+        "num": 54699,
+        "word": "新一届中央政治局常委同中外记者见面",
+        "onboard_time": 1666480336,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 53467,
+        "num": 53467,
+        "word": "始终坚持一切为了人民一切依靠人民",
+        "onboard_time": 1666514120,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45953,
+        "num": 45953,
+        "word": "中国共产党国际形象网宣片12种外语版本",
+        "onboard_time": 1666493002,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 40088,
+        "num": 40088,
+        "word": "努力创造更加灿烂的明天",
+        "onboard_time": 1666504762,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 32917,
+        "num": 32917,
+        "word": "我们一起远航",
+        "onboard_time": 1666519401,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284125,
+        "num": 32685,
+        "word": "孙颖莎WTT澳门赛夺冠",
+        "onboard_time": 1666523541,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 26991,
+        "word": "二十大报告对青年提出殷切希望",
+        "onboard_time": 1666497564,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18176,
+        "num": 18176,
+        "word": "新征程是充满光荣和梦想的远征",
+        "onboard_time": 1666501048,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121855,
+        "num": 17978,
+        "word": "wtt澳门冠军赛",
+        "onboard_time": 1666518501,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16451,
+        "num": 16451,
+        "word": "一组数字看中国航天十年发展",
+        "onboard_time": 1666520001,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 13583,
+        "num": 13583,
+        "word": "始终成为中国人民最可靠最坚强的主心骨",
+        "onboard_time": 1666501887,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 47966,
+        "num": 12563,
+        "word": "孙颖莎4比1陈幸同",
+        "onboard_time": 1666523602,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11069,
+        "num": 11069,
+        "word": "一组图看新征程上我们要怎么做",
+        "onboard_time": 1666507702,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 9985,
+        "num": 9985,
+        "word": "人民日报社论",
+        "onboard_time": 1666486280,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39200,
+        "num": 9981,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1666518441,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462053,
+        "num": 9977,
+        "word": "丈夫做好饭一遍遍趴窗张望等妻子",
+        "onboard_time": 1666529605,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390445,
+        "num": 9972,
+        "word": "甄嬛不愧是反恋爱脑大师",
+        "onboard_time": 1666531823,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484962,
+        "num": 9961,
+        "word": "王楚钦心态",
+        "onboard_time": 1666531164,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285356,
+        "num": 9953,
+        "word": "男子胃结石医生开药2大瓶可乐",
+        "onboard_time": 1666506501,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239997,
+        "num": 9945,
+        "word": "当老师得会憋笑才行吧",
+        "onboard_time": 1666525763,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482927,
+        "num": 9943,
+        "word": "王楚钦WTT澳门赛夺冠",
+        "onboard_time": 1666529064,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213270,
+        "num": 9935,
+        "word": "独行月球票房破31亿",
+        "onboard_time": 1666526720,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209952,
+        "num": 9927,
+        "word": "明日方舟",
+        "onboard_time": 1666527924,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460632,
+        "num": 9924,
+        "word": "王楚钦4比3樊振东",
+        "onboard_time": 1666529184,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195095,
+        "num": 9914,
+        "word": "快乐其实是一件很小的事",
+        "onboard_time": 1666525645,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277458,
+        "num": 9907,
+        "word": "公司倒闭同事们搬椅子电脑回家",
+        "onboard_time": 1666510341,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658314,
+        "num": 9903,
+        "word": "王楚钦杀疯了",
+        "onboard_time": 1666531823,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 9895,
+        "word": "考研人的备考清单有多离谱",
+        "onboard_time": 1666522161,
+        "rank": 32,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 174913,
+        "num": 9886,
+        "word": "山东95岁老战士查体发现颈部有子弹",
+        "onboard_time": 1666532363,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427674,
+        "num": 9883,
+        "word": "恭喜孙颖莎王楚钦",
+        "onboard_time": 1666532363,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155922,
+        "num": 9876,
+        "word": "明日方舟联动怪物猎人",
+        "onboard_time": 1666533024,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148615,
+        "num": 9867,
+        "word": "原神兑换码",
+        "onboard_time": 1666530085,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285574,
+        "num": 9859,
+        "word": "樊振东吃香蕉",
+        "onboard_time": 1666527082,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128634,
+        "num": 9855,
+        "word": "东北搓澡时的各种暗号",
+        "onboard_time": 1666525763,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126460,
+        "num": 9845,
+        "word": "LGD止步TI六强",
+        "onboard_time": 1666525102,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118439,
+        "num": 9840,
+        "word": "我国在建最北高铁将穿越冻土区",
+        "onboard_time": 1666525823,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107287,
+        "num": 9831,
+        "word": "心想事成是真的存在吗",
+        "onboard_time": 1666529725,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97689,
+        "num": 9828,
+        "word": "2022年丹麦羽毛球公开赛",
+        "onboard_time": 1666531103,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93572,
+        "num": 9824,
+        "word": "6岁女孩爱盘发各种造型信手拈来",
+        "onboard_time": 1666520843,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91475,
+        "num": 9817,
+        "word": "人都是一瞬间长大的",
+        "onboard_time": 1666532846,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87377,
+        "num": 9808,
+        "word": "女子未回信息朋友飞无人机探查",
+        "onboard_time": 1666497203,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81803,
+        "num": 9798,
+        "word": "霜降前后多吃萝卜",
+        "onboard_time": 1666524623,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 81014,
+        "num": 9794,
+        "word": "jankos宣布离队",
+        "onboard_time": 1666515081,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62992,
+        "num": 9785,
+        "word": "女子见8旬老人摆摊卖烂柿买10斤",
+        "onboard_time": 1666502247,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62767,
+        "num": 9783,
+        "word": "长风渡",
+        "onboard_time": 1666509142,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届一中全会#"
+    }
+  }
+}

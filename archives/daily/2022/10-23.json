@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666532828203,
+  "endTime": 1666533568815,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658314,
+      "num": 12536,
+      "word": "王楚钦杀疯了",
+      "onboard_time": 1666531823,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 590971,
       "num": 18989,
       "word": "南方学子被东北的大学食堂震惊",
@@ -203,6 +211,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 462053,
+      "num": 15135,
+      "word": "丈夫做好饭一遍遍趴窗张望等妻子",
+      "onboard_time": 1666529605,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427674,
+      "num": 12472,
+      "word": "恭喜孙颖莎王楚钦",
+      "onboard_time": 1666532363,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425746,
       "num": 425746,
       "word": "二十届中央政治局委员 书记处书记简历",
@@ -251,20 +275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 406287,
-      "num": 15135,
-      "word": "丈夫做好饭一遍遍趴窗张望等妻子",
-      "onboard_time": 1666529605,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400860,
       "num": 18974,
       "word": "粉笔模考",
       "onboard_time": 1666495643,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 390445,
+      "num": 12605,
+      "word": "甄嬛不愧是反恋爱脑大师",
+      "onboard_time": 1666531823,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 389888,
@@ -281,14 +305,6 @@
       "onboard_time": 1666509142,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387317,
-      "num": 12536,
-      "word": "王楚钦杀疯了",
-      "onboard_time": 1666531823,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 376252,
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280259,
-      "num": 12472,
-      "word": "恭喜孙颖莎王楚钦",
-      "onboard_time": 1666532363,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278228,
       "num": 18984,
       "word": "LGD对战beastcoast",
@@ -489,14 +497,6 @@
       "onboard_time": 1666502725,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261654,
-      "num": 12605,
-      "word": "甄嬛不愧是反恋爱脑大师",
-      "onboard_time": 1666531823,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 260314,
@@ -691,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174913,
+      "num": 12406,
+      "word": "山东95岁老战士查体发现颈部有子弹",
+      "onboard_time": 1666532363,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174741,
       "num": 18976,
       "word": "11岁男孩对墙连续踢足球不落地",
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155922,
+      "num": 9876,
+      "word": "明日方舟联动怪物猎人",
+      "onboard_time": 1666533024,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153317,
       "num": 10179,
       "word": "男孩被训斥深夜到派出所举报母亲",
@@ -755,7 +771,7 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 145551,
+      "raw_hot": 148615,
       "num": 15131,
       "word": "原神兑换码",
       "onboard_time": 1666530085,
@@ -939,7 +955,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106771,
+      "raw_hot": 107287,
       "num": 15091,
       "word": "心想事成是真的存在吗",
       "onboard_time": 1666529725,
@@ -1011,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97689,
+      "num": 12392,
+      "word": "2022年丹麦羽毛球公开赛",
+      "onboard_time": 1666531103,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96932,
       "num": 10122,
       "word": "狗狗趁主人不注意狂炫41个饺子",
@@ -1035,20 +1059,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 91475,
+      "num": 9817,
+      "word": "人都是一瞬间长大的",
+      "onboard_time": 1666532846,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90470,
       "num": 8361,
       "word": "霜降前后柿子最甜",
       "onboard_time": 1666492103,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 89970,
-      "num": 12392,
-      "word": "2022年丹麦羽毛球公开赛",
-      "onboard_time": 1666531103,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 85621,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1666480996,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80472,
-      "num": 12406,
-      "word": "山东95岁老战士查体发现颈部有子弹",
-      "onboard_time": 1666532363,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79304,
