@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 14:56:49
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/23 15:28:07
 </p>
 </blockquote>
 <p>
@@ -2307,6 +2307,12 @@ RNG被翻盘（热度：947576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
+男子胃结石医生开药2大瓶可乐（热度：942753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CDK%23" target="weibo">
 GEN战胜DK（热度：940392）
 </a>
@@ -3761,12 +3767,6 @@ Viper（热度：705111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E9%9B%87%E8%BD%BF%E6%8A%AC%E7%8B%97%E4%B8%8A%E5%B1%B1%23" target="weibo">
 景区回应女子雇轿抬狗上山（热度：695446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%BB%93%E7%9F%B3%E5%8C%BB%E7%94%9F%E5%BC%80%E8%8D%AF2%E5%A4%A7%E7%93%B6%E5%8F%AF%E4%B9%90%23" target="weibo">
-男子胃结石医生开药2大瓶可乐（热度：694867）
 </a>
 </li>
 

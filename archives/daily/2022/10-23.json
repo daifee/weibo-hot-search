@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666508209363,
+  "endTime": 1666510087790,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 942753,
+      "num": 16282,
+      "word": "男子胃结石医生开药2大瓶可乐",
+      "onboard_time": 1666506501,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940392,
       "num": 16745,
       "word": "GEN战胜DK",
       "onboard_time": 1666489762,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 694867,
-      "num": 16282,
-      "word": "男子胃结石医生开药2大瓶可乐",
-      "onboard_time": 1666506501,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590971,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396421,
+      "num": 396421,
+      "word": "致9671.2万个你",
+      "onboard_time": 1666501287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389888,
       "num": 389888,
       "word": "党的二十届一中全会",
@@ -171,14 +179,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 324272,
-      "num": 324272,
-      "word": "致9671.2万个你",
-      "onboard_time": 1666501287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318876,
       "num": 8430,
       "word": "GEN与DK决胜局",
@@ -209,6 +209,14 @@
       "onboard_time": 1666498407,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294764,
+      "num": 11190,
+      "word": "长风渡",
+      "onboard_time": 1666509142,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 288316,
@@ -299,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225999,
+      "num": 16268,
+      "word": "大一新生回应花式跳绳引热议",
+      "onboard_time": 1666505242,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219854,
       "num": 9956,
       "word": "金汤匙",
@@ -371,28 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190467,
+      "num": 18950,
+      "word": "你永远可以相信王家卫的金句",
+      "onboard_time": 1666504162,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186409,
       "num": 18952,
       "word": "男子凌晨买下8旬老人全部蔬菜",
       "onboard_time": 1666442964,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182881,
-      "num": 16268,
-      "word": "大一新生回应花式跳绳引热议",
-      "onboard_time": 1666505242,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181226,
-      "num": 18950,
-      "word": "你永远可以相信王家卫的金句",
-      "onboard_time": 1666504162,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 177503,
@@ -529,6 +537,14 @@
       "onboard_time": 1666481537,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115753,
+      "num": 11186,
+      "word": "当老师3年的变化有多大",
+      "onboard_time": 1666508301,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -817,6 +833,14 @@
       "onboard_time": 1666460894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57237,
+      "num": 11181,
+      "word": "女子22年照料1029名孤弃儿童",
+      "onboard_time": 1666509981,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 56720,
