@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666547419316,
+  "endTime": 1666549901021,
   "band_list": [
     {
       "raw_hot": 703451,
@@ -363,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16044,
+      "num": 6005,
+      "word": "明日方舟 德克萨斯",
+      "onboard_time": 1666536084,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15697,
       "num": 15697,
       "word": "新征程是充满光荣和梦想的远征",
       "onboard_time": 1666501048,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 15350,
-      "num": 4394,
-      "word": "明日方舟 德克萨斯",
-      "onboard_time": 1666536084,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 12649,
@@ -419,18 +419,18 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 5929,
-      "num": 13246,
-      "word": "一组图看新征程上我们要怎么做",
-      "onboard_time": 1666507702,
+      "raw_hot": 6106,
+      "num": 6106,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
       "rank": 19,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 4490,
-      "num": 4490,
-      "word": "6分钟沙画传递新征程再出发有你",
-      "onboard_time": 1666505300,
+      "raw_hot": 6006,
+      "num": 13246,
+      "word": "一组图看新征程上我们要怎么做",
+      "onboard_time": 1666507702,
       "rank": 19,
       "category": "国内要闻"
     },
