@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666535182933,
+  "endTime": 1666536271936,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -5316,7 +5316,7 @@
     },
     {
       "raw_hot": 674798,
-      "num": 16679,
+      "num": 35409,
       "word": "王楚钦4比3樊振东",
       "onboard_time": 1666529184,
       "rank": 32,
@@ -7083,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548322,
+      "num": 13179,
+      "word": "甄嬛不愧是反恋爱脑大师",
+      "onboard_time": 1666531823,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547915,
       "num": 43738,
       "word": "马斯克称赔钱也会向乌提供星链",
@@ -8673,14 +8681,6 @@
       "onboard_time": 1665801622,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474369,
-      "num": 13179,
-      "word": "甄嬛不愧是反恋爱脑大师",
-      "onboard_time": 1666531823,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 473830,
@@ -17843,6 +17843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243041,
+      "num": 12586,
+      "word": "南京一市民在路边捡到北极狐",
+      "onboard_time": 1666534644,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242890,
       "num": 242890,
       "word": "随意频繁使用眼药水对眼睛无益",
@@ -18793,6 +18801,14 @@
       "onboard_time": 1666278210,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228243,
+      "num": 12580,
+      "word": "明日方舟 德克萨斯",
+      "onboard_time": 1666536084,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 228235,
@@ -20857,6 +20873,14 @@
       "onboard_time": 1664771181,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 201252,
+      "num": 12994,
+      "word": "人都是一瞬间长大的",
+      "onboard_time": 1666532846,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 201184,
@@ -23553,14 +23577,6 @@
       "onboard_time": 1664572570,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169350,
-      "num": 12994,
-      "word": "人都是一瞬间长大的",
-      "onboard_time": 1666532846,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 169312,
@@ -29459,6 +29475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107871,
+      "num": 12539,
+      "word": "iPhone15Ultra或采用钛金属外壳",
+      "onboard_time": 1666536025,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 107823,
       "num": 17675,
       "word": "看到成片的那一刻被惊艳到了",
@@ -30841,6 +30865,14 @@
       "onboard_time": 1666259544,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93292,
+      "num": 12519,
+      "word": "王楚钦樊振东神仙打架",
+      "onboard_time": 1666535964,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 93286,
