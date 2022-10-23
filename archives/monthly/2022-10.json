@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666511074322,
+  "endTime": 1666513945744,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -3168,6 +3168,14 @@
       "word": "医生提醒3类人慎吃羊肉",
       "onboard_time": 1665495927,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920674,
+      "num": 10818,
+      "word": "公司倒闭同事们搬椅子电脑回家",
+      "onboard_time": 1666510341,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -12355,14 +12363,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 352078,
-      "num": 10818,
-      "word": "公司倒闭同事们搬椅子电脑回家",
-      "onboard_time": 1666510341,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351694,
       "num": 351694,
       "word": "gidle将完整体出击认哥",
@@ -13745,6 +13745,14 @@
       "onboard_time": 1666345883,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315043,
+      "num": 315043,
+      "word": "二十届一中全会公报",
+      "onboard_time": 1666511481,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 314987,
@@ -16225,6 +16233,14 @@
       "onboard_time": 1665025464,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265118,
+      "num": 8982,
+      "word": "peanut四强见",
+      "onboard_time": 1666511121,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 265013,
@@ -21603,6 +21619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189374,
+      "num": 11186,
+      "word": "当老师3年的变化有多大",
+      "onboard_time": 1666508301,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189331,
       "num": 189331,
       "word": "中国女排晋级8强",
@@ -23675,6 +23699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163072,
+      "num": 11181,
+      "word": "女子22年照料1029名孤弃儿童",
+      "onboard_time": 1666509981,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 163003,
       "num": 163003,
       "word": "我的反派男友明天大结局",
@@ -24017,14 +24049,6 @@
       "onboard_time": 1665637766,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159279,
-      "num": 11186,
-      "word": "当老师3年的变化有多大",
-      "onboard_time": 1666508301,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159219,
@@ -28875,6 +28899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109935,
+      "num": 10763,
+      "word": "花滑4A到底有多牛",
+      "onboard_time": 1666510822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109897,
       "num": 411847,
       "word": "罗云熙追光者罗本科普山体滑坡",
@@ -29987,6 +30019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98710,
+      "num": 8978,
+      "word": "广东男篮vs天津男篮",
+      "onboard_time": 1666512980,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98649,
       "num": 98649,
       "word": "万里归途独家幕后记录",
@@ -30129,6 +30169,14 @@
       "onboard_time": 1665830785,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97250,
+      "num": 8978,
+      "word": "我也想要只会捂脚的狗子",
+      "onboard_time": 1666513222,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 97111,
@@ -30681,6 +30729,14 @@
       "onboard_time": 1665328642,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90900,
+      "num": 8978,
+      "word": "当代人讲话有多高效",
+      "onboard_time": 1666513881,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 90777,
@@ -31561,14 +31617,6 @@
       "onboard_time": 1664700624,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82898,
-      "num": 11181,
-      "word": "女子22年照料1029名孤弃儿童",
-      "onboard_time": 1666509981,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 82748,
@@ -33891,14 +33939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58120,
-      "num": 10763,
-      "word": "花滑4A到底有多牛",
-      "onboard_time": 1666510822,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57902,
       "num": 57902,
       "word": "世界技能大赛特别赛中国已夺8金",
@@ -35643,6 +35683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17543,
+      "num": 32579,
+      "word": "6分钟沙画传递新征程再出发有你",
+      "onboard_time": 1666505300,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 17206,
       "num": 210736,
       "word": "新车长啥样竟然听网友的",
@@ -35705,14 +35753,6 @@
       "onboard_time": 1665424694,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 15370,
-      "num": 32579,
-      "word": "6分钟沙画传递新征程再出发有你",
-      "onboard_time": 1666505300,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 15115,
