@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 13:48:06
+本榜单时间：2022/10/23 00:36:24 ~ 2022/10/23 14:00:11
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@ DK中野尽力了（热度：464198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%BB%88%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9C%80%E5%8F%AF%E9%9D%A0%E6%9C%80%E5%9D%9A%E5%BC%BA%E7%9A%84%E4%B8%BB%E5%BF%83%E9%AA%A8%23" target="weibo">
+始终成为中国人民最可靠最坚强的主心骨（热度：411226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%9C%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%9D%90%E4%B8%80%E5%A4%A9%E5%90%8E%23" target="weibo">
 当你在图书馆坐一天后（热度：409357）
 </a>
@@ -118,19 +124,13 @@ DK中野尽力了（热度：464198）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%BF%E9%A5%BC%E4%B8%8A%E7%9A%84%E7%99%BD%E9%9C%9C%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83%23" target="weibo">
-柿饼上的白霜能不能吃（热度：345818）
+柿饼上的白霜能不能吃（热度：362470）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A685%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
 西北政法大学85周年校庆（热度：342215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%BB%88%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9C%80%E5%8F%AF%E9%9D%A0%E6%9C%80%E5%9D%9A%E5%BC%BA%E7%9A%84%E4%B8%BB%E5%BF%83%E9%AA%A8%23" target="weibo">
-始终成为中国人民最可靠最坚强的主心骨（热度：339512）
 </a>
 </li>
 
@@ -207,6 +207,12 @@ LGD对战beastcoast（热度：278228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A7%818%E6%97%AC%E8%80%81%E4%BA%BA%E6%91%86%E6%91%8A%E5%8D%96%E7%83%82%E6%9F%BF%E4%B9%B010%E6%96%A4%23" target="weibo">
+女子见8旬老人摆摊卖烂柿买10斤（热度：229683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E6%99%9A%E5%85%AB%E4%BA%BA%23" target="weibo">
 原来大家都是晚八人（热度：226502）
 </a>
@@ -227,12 +233,6 @@ LGD对战beastcoast（热度：278228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD17%E5%B2%81%E5%B0%8F%E5%B0%86%E9%9C%B9%E9%9B%B3%E8%88%9E%E4%B8%96%E9%94%A6%E8%B5%9B%E6%91%98%E9%93%B6%23" target="weibo">
 中国17岁小将霹雳舞世锦赛摘银（热度：206027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A7%818%E6%97%AC%E8%80%81%E4%BA%BA%E6%91%86%E6%91%8A%E5%8D%96%E7%83%82%E6%9F%BF%E4%B9%B010%E6%96%A4%23" target="weibo">
-女子见8旬老人摆摊卖烂柿买10斤（热度：203310）
 </a>
 </li>
 
@@ -291,6 +291,12 @@ LGD对战beastcoast（热度：278228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E5%85%88%E8%83%8C%E4%BC%9A%E8%AF%BE%E6%96%87%E5%87%A1%E5%B0%94%E8%B5%9B%E6%B0%94%E5%93%AD%E5%84%BF%E5%AD%90%23" target="weibo">
+老爸先背会课文凡尔赛气哭儿子（热度：168451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C4%E6%AF%941%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23" target="weibo">
 陈幸同4比1伊藤美诚（热度：157165）
 </a>
@@ -299,6 +305,18 @@ LGD对战beastcoast（热度：278228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%AE%AD%E6%96%A5%E6%B7%B1%E5%A4%9C%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E4%B8%BE%E6%8A%A5%E6%AF%8D%E4%BA%B2%23" target="weibo">
 男孩被训斥深夜到派出所举报母亲（热度：153317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%81%87%E8%A3%85%E8%AF%B4%E7%8B%97%E7%8B%97%E5%96%9C%E6%AC%A2%E5%90%AC%E7%9A%84%E8%AF%9D%23" target="weibo">
+当假装说狗狗喜欢听的话（热度：152501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%23" target="weibo">
+人民永远是我们最强大的底气（热度：146371）
 </a>
 </li>
 
@@ -321,8 +339,8 @@ LGD对战beastcoast（热度：278228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%23" target="weibo">
-人民永远是我们最强大的底气（热度：137517）
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
+致9671.2万个你（热度：138052）
 </a>
 </li>
 
@@ -357,12 +375,6 @@ DK连扳两局（热度：132153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
-致9671.2万个你（热度：122301）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23DK%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%23" target="weibo">
 DK止步八强（热度：120719）
 </a>
@@ -393,20 +405,14 @@ gidle完整体出演认哥预告（热度：112049）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%81%87%E8%A3%85%E8%AF%B4%E7%8B%97%E7%8B%97%E5%96%9C%E6%AC%A2%E5%90%AC%E7%9A%84%E8%AF%9D%23" target="weibo">
-当假装说狗狗喜欢听的话（热度：111981）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%BD%AC%E5%8F%91%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BD%9C%E5%93%81%E8%A2%AB%E9%80%89%E7%99%BB%E6%9D%82%E5%BF%97%23" target="weibo">
 老师转发小学生作品被选登杂志（热度：111629）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E5%85%88%E8%83%8C%E4%BC%9A%E8%AF%BE%E6%96%87%E5%87%A1%E5%B0%94%E8%B5%9B%E6%B0%94%E5%93%AD%E5%84%BF%E5%AD%90%23" target="weibo">
-老爸先背会课文凡尔赛气哭儿子（热度：110844）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%9B%B4%E5%8A%A0%E7%81%BF%E7%83%82%E7%9A%84%E6%98%8E%E5%A4%A9%23" target="weibo">
+努力创造更加灿烂的明天（热度：108817）
 </a>
 </li>
 
@@ -465,6 +471,12 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A544%E5%88%8612%E7%AF%AE%E6%9D%BF%23" target="weibo">
+字母哥44分12篮板（热度：93597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%9C%E9%99%8D%E5%89%8D%E5%90%8E%E6%9F%BF%E5%AD%90%E6%9C%80%E7%94%9C%23" target="weibo">
 霜降前后柿子最甜（热度：90470）
 </a>
@@ -477,6 +489,12 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%87%AF%E6%88%91%E4%BB%AC%E8%BF%99%E5%8D%81%E5%B9%B4%E9%99%88%E5%AE%87%E6%98%8E%E5%A4%A9%E8%A7%81%23" target="weibo">
+王凯我们这十年陈宇明天见（热度：83985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%9B%AA%E8%B1%B9%E6%97%A5%23" target="weibo">
 国际雪豹日（热度：82970）
 </a>
@@ -485,6 +503,12 @@ gidle无伴奏全开麦版Nxde（热度：94881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%85%B3%E4%BA%8E%E5%85%9A%E7%AB%A0%E4%BF%AE%E6%AD%A3%E6%A1%88%E7%9A%84%E5%86%B3%E8%AE%AE%23" target="weibo">
 二十大关于党章修正案的决议（热度：82434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%9A%84%E9%87%91%E5%8F%A5%23" target="weibo">
+你永远可以相信王家卫的金句（热度：82147）
 </a>
 </li>
 
@@ -581,12 +605,6 @@ UFC（热度：66723）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23" target="weibo">
 爸爸射箭帮8岁儿子拔牙（热度：59687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A544%E5%88%8612%E7%AF%AE%E6%9D%BF%23" target="weibo">
-字母哥44分12篮板（热度：59018）
 </a>
 </li>
 
