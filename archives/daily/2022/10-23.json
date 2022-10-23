@@ -1,6 +1,6 @@
 {
   "startTime": 1666456584661,
-  "endTime": 1666514972053,
+  "endTime": 1666517247465,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -195,6 +195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 339326,
+      "num": 9628,
+      "word": "万里归途票房破14亿",
+      "onboard_time": 1666515501,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318876,
       "num": 8430,
       "word": "GEN与DK决胜局",
@@ -283,8 +291,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266599,
+      "num": 9606,
+      "word": "jankos宣布离队",
+      "onboard_time": 1666515081,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265118,
-      "num": 8982,
+      "num": 9580,
       "word": "peanut四强见",
       "onboard_time": 1666511121,
       "rank": 23,
@@ -347,6 +363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218699,
+      "num": 9541,
+      "word": "我也想要只会捂脚的狗子",
+      "onboard_time": 1666513222,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216172,
+      "num": 216172,
+      "word": "始终坚持一切为了人民一切依靠人民",
+      "onboard_time": 1666514120,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 211602,
       "num": 18942,
       "word": "驾校教练真的很会嘴人",
@@ -376,6 +408,14 @@
       "word": "中国共产党又踏上了新的赶考路",
       "onboard_time": 1666486560,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195305,
+      "num": 9598,
+      "word": "中国村庄名字从何而来",
+      "onboard_time": 1666515382,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -419,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189850,
-      "num": 189850,
-      "word": "始终坚持一切为了人民一切依靠人民",
-      "onboard_time": 1666514120,
-      "rank": 3,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 189374,
       "num": 11186,
       "word": "当老师3年的变化有多大",
@@ -441,14 +473,6 @@
       "onboard_time": 1666442964,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181657,
-      "num": 8978,
-      "word": "我也想要只会捂脚的狗子",
-      "onboard_time": 1666513222,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 177503,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 112201,
-      "num": 8978,
+      "num": 9464,
       "word": "当代人讲话有多高效",
       "onboard_time": 1666513881,
       "rank": 36,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 108340,
-      "num": 8978,
+      "num": 9482,
       "word": "广东男篮vs天津男篮",
       "onboard_time": 1666512980,
       "rank": 34,
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 45598,
-      "num": 8722,
+      "num": 9645,
       "word": "中国航天的十年跨越性成就",
       "onboard_time": 1666514902,
       "rank": 48,
@@ -1027,7 +1051,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18477,
+      "raw_hot": 18755,
       "num": 32579,
       "word": "6分钟沙画传递新征程再出发有你",
       "onboard_time": 1666505300,
