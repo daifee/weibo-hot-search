@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666616225394,
+  "endTime": 1666618122890,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -97,6 +97,14 @@
       "onboard_time": 1665044124,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3439324,
+      "num": 82780,
+      "word": "珀莱雅",
+      "onboard_time": 1666616123,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 3160437,
@@ -2059,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1182358,
+      "num": 82903,
+      "word": "双十一",
+      "onboard_time": 1666613158,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1177767,
       "num": 1177767,
       "word": "北溪管道泄漏将产生灾难性影响",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1665717683,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 958451,
+      "num": 82944,
+      "word": "今晚八点的打工人",
+      "onboard_time": 1666610001,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 958326,
@@ -5323,14 +5347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684551,
-      "num": 82944,
-      "word": "今晚八点的打工人",
-      "onboard_time": 1666610001,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 684502,
       "num": 684502,
       "word": "女婿给岳父塞5千回家发现1万红包",
@@ -5657,14 +5673,6 @@
       "onboard_time": 1665748162,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 659386,
-      "num": 82903,
-      "word": "双十一",
-      "onboard_time": 1666613158,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 658735,
@@ -7075,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561249,
+      "num": 69994,
+      "word": "苏纳克当选英国保守党党首",
+      "onboard_time": 1666617387,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 560728,
       "num": 560728,
       "word": "二十届中央政治局委员书记处书记简历",
@@ -7969,6 +7985,14 @@
       "onboard_time": 1665879862,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 515990,
+      "num": 82773,
+      "word": "男子拒绝体检双脚肿胀查出尿毒症",
+      "onboard_time": 1666614262,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515594,
@@ -10459,6 +10483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 421353,
+      "num": 69696,
+      "word": "周迅王一博合作短片",
+      "onboard_time": 1666617505,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421281,
       "num": 421281,
       "word": "毛豆好笑",
@@ -12723,14 +12755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358495,
-      "num": 82780,
-      "word": "珀莱雅",
-      "onboard_time": 1666616123,
-      "rank": 16,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 358458,
       "num": 358458,
       "word": "95后女孩休学后进山当农民",
@@ -13441,14 +13465,6 @@
       "onboard_time": 1666067366,
       "rank": 19,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 339996,
-      "num": 82773,
-      "word": "男子拒绝体检双脚肿胀查出尿毒症",
-      "onboard_time": 1666614262,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339966,
@@ -14611,6 +14627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311561,
+      "num": 83000,
+      "word": "00后女孩左眼失明练书法走出自卑",
+      "onboard_time": 1666615403,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311548,
       "num": 100013,
       "word": "真的不想上班呀",
@@ -14649,6 +14673,14 @@
       "onboard_time": 1665209125,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 309976,
+      "num": 69942,
+      "word": "双十一电商平台有多内卷",
+      "onboard_time": 1666617565,
+      "rank": 7,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 309863,
@@ -16011,6 +16043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281339,
+      "num": 69473,
+      "word": "成毅告别莲花楼",
+      "onboard_time": 1666617625,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281315,
       "num": 281315,
       "word": "没想到头发还可以这样编",
@@ -16024,6 +16064,14 @@
       "word": "新丽正午耀客柠萌待播剧汇总",
       "onboard_time": 1664945363,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281256,
+      "num": 82671,
+      "word": "2022MAMA最佳女艺人提名",
+      "onboard_time": 1666613722,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -18291,14 +18339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245282,
-      "num": 82671,
-      "word": "2022MAMA最佳女艺人提名",
-      "onboard_time": 1666613722,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245252,
       "num": 245252,
       "word": "男生经常夸容貌焦虑女友你好漂亮",
@@ -19427,6 +19467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228350,
+      "num": 69382,
+      "word": "老乡鸡毛都被薅秃了",
+      "onboard_time": 1666614984,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228331,
       "num": 228331,
       "word": "外婆花7天为宝宝做提篮床",
@@ -20272,6 +20320,14 @@
       "word": "苏州拟回购1万套新房",
       "onboard_time": 1665693250,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218010,
+      "num": 69369,
+      "word": "男子生吞小螃蟹感染寄生虫",
+      "onboard_time": 1666617267,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -22667,6 +22723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189153,
+      "num": 82572,
+      "word": "Lehends带格里芬重聚",
+      "onboard_time": 1666614322,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189095,
       "num": 132892,
       "word": "WTT",
@@ -22745,14 +22809,6 @@
       "onboard_time": 1665217405,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188121,
-      "num": 82572,
-      "word": "Lehends带格里芬重聚",
-      "onboard_time": 1666614322,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 187866,
@@ -25891,6 +25947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 151483,
+      "num": 69152,
+      "word": "英国迎首位印度裔首相",
+      "onboard_time": 1666617686,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "10月17日新增本土无症状587例",
@@ -26473,6 +26537,14 @@
       "onboard_time": 1665131603,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145779,
+      "num": 82383,
+      "word": "牛排还能炒着吃",
+      "onboard_time": 1666614022,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 145741,
@@ -27963,6 +28035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131760,
+      "num": 69040,
+      "word": "演唱会的彩带能有多浪漫",
+      "onboard_time": 1666617505,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131725,
       "num": 499413,
       "word": "如果你不想被人打扰",
@@ -28560,6 +28640,14 @@
       "word": "这就是总裁老了的样子吧",
       "onboard_time": 1664885663,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125524,
+      "num": 68970,
+      "word": "肖顺尧莲花楼面具造型",
+      "onboard_time": 1666617565,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -30003,6 +30091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111873,
+      "num": 72245,
+      "word": "前任送的礼物该如何处理",
+      "onboard_time": 1666615103,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111872,
       "num": 111872,
       "word": "芋圆cp相处细节感",
@@ -30433,14 +30529,6 @@
       "onboard_time": 1665138862,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 108420,
-      "num": 82383,
-      "word": "牛排还能炒着吃",
-      "onboard_time": 1666614022,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 108340,
@@ -31123,14 +31211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101703,
-      "num": 83000,
-      "word": "00后女孩左眼失明练书法走出自卑",
-      "onboard_time": 1666615403,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101600,
       "num": 101600,
       "word": "TES战胜DRX",
@@ -31273,6 +31353,14 @@
       "onboard_time": 1665550346,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100134,
+      "num": 68719,
+      "word": "沙漠之光陈宇宋迪文工作好有意义",
+      "onboard_time": 1666617565,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 100042,
@@ -33123,6 +33211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82623,
+      "num": 68592,
+      "word": "小时候有多期待放学",
+      "onboard_time": 1666616785,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 82593,
       "num": 82593,
       "word": "还记得为什么和前任分开吗",
@@ -33249,6 +33345,14 @@
       "onboard_time": 1666215912,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 81260,
+      "num": 68502,
+      "word": "2023年国考招录应届生占比为近年来最高",
+      "onboard_time": 1666611383,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81127,
@@ -34139,14 +34243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72245,
-      "num": 72245,
-      "word": "前任送的礼物该如何处理",
-      "onboard_time": 1666615103,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 72074,
       "num": 72074,
       "word": "在胜负欲面前没有兄弟",
@@ -34456,14 +34552,6 @@
       "word": "一套题来学二十大报告",
       "onboard_time": 1666098742,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68841,
-      "num": 68841,
-      "word": "老乡鸡毛都被薅秃了",
-      "onboard_time": 1666614984,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -35689,14 +35777,6 @@
       "onboard_time": 1665046944,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 56078,
-      "num": 56078,
-      "word": "2023年国考招录应届生占比为近年来最高",
-      "onboard_time": 1666611383,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55974,
@@ -37353,6 +37433,14 @@
       "onboard_time": 1665727224,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20812,
+      "num": 69631,
+      "word": "保安用沙子树枝作画记录城市发展",
+      "onboard_time": 1666616483,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
