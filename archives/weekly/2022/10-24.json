@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666625488526,
+  "endTime": 1666626705865,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -123,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 918320,
+      "num": 45774,
+      "word": "男子双色球中2.19亿捐500万",
+      "onboard_time": 1666623386,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916129,
       "num": 62404,
       "word": "今天好多明星直播",
@@ -155,20 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 814181,
-      "num": 45774,
-      "word": "男子双色球中2.19亿捐500万",
-      "onboard_time": 1666623386,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 801132,
       "num": 82446,
       "word": "特斯拉官宣降价立即引发维权",
       "onboard_time": 1666595122,
       "rank": 10,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 778542,
+      "num": 45705,
+      "word": "优时颜",
+      "onboard_time": 1666624046,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 760212,
@@ -193,14 +201,6 @@
       "onboard_time": 1666617565,
       "rank": 7,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 727548,
-      "num": 45705,
-      "word": "优时颜",
-      "onboard_time": 1666624046,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 708976,
@@ -363,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467460,
+      "num": 45579,
+      "word": "丝塔芙",
+      "onboard_time": 1666625427,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 466188,
+      "num": 49128,
+      "word": "浙江一学生刮腻子刮成世界冠军",
+      "onboard_time": 1666623087,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 462755,
       "num": 29008,
       "word": "王楚钦击败五位世界前十",
@@ -427,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419284,
+      "num": 53635,
+      "word": "手机备忘录能有多重要",
+      "onboard_time": 1666622846,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 418335,
+      "num": 45654,
+      "word": "娇兰",
+      "onboard_time": 1666625364,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 409522,
       "num": 87229,
       "word": "苹果曾考虑推出塑料版iPad",
@@ -483,14 +515,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 380407,
-      "num": 49128,
-      "word": "浙江一学生刮腻子刮成世界冠军",
-      "onboard_time": 1666623087,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 372503,
       "num": 85572,
       "word": "Steam在线人数突破3000万",
@@ -537,14 +561,6 @@
       "onboard_time": 1666612343,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365086,
-      "num": 53635,
-      "word": "手机备忘录能有多重要",
-      "onboard_time": 1666622846,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 357363,
@@ -633,14 +649,6 @@
       "onboard_time": 1666605623,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315835,
-      "num": 45654,
-      "word": "娇兰",
-      "onboard_time": 1666625364,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 313750,
@@ -769,6 +777,14 @@
       "onboard_time": 1666573224,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261482,
+      "num": 45501,
+      "word": "土狗被扔50公里外一星期后跑回家",
+      "onboard_time": 1666625007,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260234,
@@ -1131,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149198,
-      "num": 45579,
-      "word": "丝塔芙",
-      "onboard_time": 1666625427,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 147541,
       "num": 87690,
       "word": "急救人员澡堂遇晕倒老人现场施救",
@@ -1435,14 +1443,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 101139,
-      "num": 45501,
-      "word": "土狗被扔50公里外一星期后跑回家",
-      "onboard_time": 1666625007,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100501,
       "num": 12793,
       "word": "当老师得会憋笑才行吧",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1666525102,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97088,
+      "num": 45449,
+      "word": "男生用湿巾盖自制开门口罩做核酸",
+      "onboard_time": 1666624947,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96245,
@@ -1651,6 +1659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 69212,
+      "num": 38436,
+      "word": "小狗每天串门找小猫玩耍",
+      "onboard_time": 1666625845,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68829,
       "num": 12723,
       "word": "明日方舟",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1666618405,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66970,
-      "num": 45449,
-      "word": "男生用湿巾盖自制开门口罩做核酸",
-      "onboard_time": 1666624947,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66158,
@@ -2084,6 +2092,9 @@
     },
     {
       "word": "#直播解读二十大报告#"
+    },
+    {
+      "word": "#二十大时政微纪录#"
     }
   ]
 }
