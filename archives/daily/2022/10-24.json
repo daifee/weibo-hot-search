@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666618122890,
+  "endTime": 1666620435361,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -59,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1182358,
+      "raw_hot": 1308785,
       "num": 82903,
       "word": "双十一",
       "onboard_time": 1666613158,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1150166,
+      "num": 69152,
+      "word": "英国迎首位印度裔首相",
+      "onboard_time": 1666617686,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1141362,
@@ -147,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 751938,
+      "num": 62404,
+      "word": "今天好多明星直播",
+      "onboard_time": 1666619364,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749020,
       "num": 82855,
       "word": "小说里的清冷女主有脸了",
@@ -169,6 +185,14 @@
       "onboard_time": 1666540224,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 686602,
+      "num": 69942,
+      "word": "双十一电商平台有多内卷",
+      "onboard_time": 1666617565,
+      "rank": 7,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 650886,
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357363,
+      "num": 83000,
+      "word": "00后女孩左眼失明练书法走出自卑",
+      "onboard_time": 1666615403,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355522,
       "num": 85920,
       "word": "Deft泪洒舞台",
@@ -507,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340495,
+      "num": 62758,
+      "word": "新郎回应婚礼现场送新娘1张彩票",
+      "onboard_time": 1666618644,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336924,
       "num": 89707,
       "word": "Meiko和Deft拥抱",
@@ -531,22 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311561,
-      "num": 83000,
-      "word": "00后女孩左眼失明练书法走出自卑",
-      "onboard_time": 1666615403,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309976,
-      "num": 69942,
-      "word": "双十一电商平台有多内卷",
-      "onboard_time": 1666617565,
-      "rank": 7,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 308480,
       "num": 87300,
       "word": "女生化妆猫咪伸手跃跃欲试",
@@ -561,6 +585,14 @@
       "onboard_time": 1666590141,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301919,
+      "num": 69382,
+      "word": "老乡鸡毛都被薅秃了",
+      "onboard_time": 1666614984,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300208,
@@ -601,6 +633,14 @@
       "onboard_time": 1666578384,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273836,
+      "num": 61424,
+      "word": "泰森",
+      "onboard_time": 1666619965,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 273328,
@@ -703,14 +743,6 @@
       "num": 82645,
       "word": "男子扛600多斤木材下山赚钱养家",
       "onboard_time": 1666610362,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228350,
-      "num": 69382,
-      "word": "老乡鸡毛都被薅秃了",
-      "onboard_time": 1666614984,
       "rank": 42,
       "category": "社会新闻"
     },
@@ -843,6 +875,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 180455,
+      "num": 62621,
+      "word": "晚八文学",
+      "onboard_time": 1666618644,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179579,
       "num": 14696,
       "word": "王楚钦说未来还很长继续努力",
@@ -963,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151483,
-      "num": 69152,
-      "word": "英国迎首位印度裔首相",
-      "onboard_time": 1666617686,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 147541,
       "num": 87690,
       "word": "急救人员澡堂遇晕倒老人现场施救",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1666611921,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139539,
+      "num": 72245,
+      "word": "前任送的礼物该如何处理",
+      "onboard_time": 1666615103,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 139023,
@@ -1187,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111873,
-      "num": 72245,
-      "word": "前任送的礼物该如何处理",
-      "onboard_time": 1666615103,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109762,
       "num": 55804,
       "word": "熊猫宝宝为了钻进窝有多拼",
@@ -1291,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95709,
+      "num": 68502,
+      "word": "2023年国考招录应届生占比为近年来最高",
+      "onboard_time": 1666611383,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93546,
       "num": 93546,
       "word": "二十届中央政治局委员 书记处书记简历",
@@ -1347,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82902,
+      "num": 59236,
+      "word": "友谊一定都是阶段性的吗",
+      "onboard_time": 1666619605,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82623,
       "num": 68592,
       "word": "小时候有多期待放学",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1666613001,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 81260,
-      "num": 68502,
-      "word": "2023年国考招录应届生占比为近年来最高",
-      "onboard_time": 1666611383,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80180,
@@ -1400,6 +1440,14 @@
       "word": "恭喜孙颖莎王楚钦",
       "onboard_time": 1666532363,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77168,
+      "num": 59195,
+      "word": "1个动作改善腰椎曲度不良",
+      "onboard_time": 1666619965,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1443,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67894,
+      "num": 58479,
+      "word": "妈妈其实也很爱美",
+      "onboard_time": 1666618405,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66158,
       "num": 12601,
       "word": "女子未回信息朋友飞无人机探查",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1666534583,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64590,
+      "num": 58421,
+      "word": "把子肉才是下饭届的扛把子",
+      "onboard_time": 1666620325,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 64554,
@@ -1659,6 +1723,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 33580,
+      "num": 69631,
+      "word": "保安用沙子树枝作画记录城市发展",
+      "onboard_time": 1666616483,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27797,
       "num": 27797,
       "word": "新一届中央政治局常委同中外记者见面",
@@ -1681,14 +1753,6 @@
       "onboard_time": 1666504762,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20812,
-      "num": 69631,
-      "word": "保安用沙子树枝作画记录城市发展",
-      "onboard_time": 1666616483,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20722,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1666520001,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 15030,
+      "num": 62001,
+      "word": "老人骑车摔倒男子立刻停车冲去救人",
+      "onboard_time": 1666620026,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13537,
