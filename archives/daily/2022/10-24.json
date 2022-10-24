@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666602095645,
+  "endTime": 1666604254957,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 487238,
+      "num": 60575,
+      "word": "6岁女儿给去世的爸爸折纸元宝",
+      "onboard_time": 1666598124,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481634,
       "num": 481634,
       "word": "新一届中央政治局常委简历",
@@ -251,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 400149,
+      "num": 50171,
+      "word": "大龄程序员都去哪儿了",
+      "onboard_time": 1666599262,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 394897,
       "num": 30228,
       "word": "特斯拉Model3及ModelY降价",
@@ -264,14 +280,6 @@
       "word": "乘客打车200公里没付钱的哥报警",
       "onboard_time": 1666576282,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387530,
-      "num": 60575,
-      "word": "6岁女儿给去世的爸爸折纸元宝",
-      "onboard_time": 1666598124,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -387,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 318457,
-      "num": 50171,
-      "word": "大龄程序员都去哪儿了",
-      "onboard_time": 1666599262,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 313750,
       "num": 30683,
       "word": "研究发现猫和狗也会做梦",
@@ -411,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306957,
+      "num": 50043,
+      "word": "恋爱中为什么越独立越有魅力",
+      "onboard_time": 1666599981,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305749,
       "num": 86337,
       "word": "姚晨和彭莱不是一见钟情",
       "onboard_time": 1666590141,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292947,
+      "num": 49824,
+      "word": "17岁男生百米成绩超过同期苏炳添",
+      "onboard_time": 1666599502,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 275867,
@@ -459,20 +475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260814,
+      "num": 21248,
+      "word": "曼联愿意放C罗冬窗自由身离队",
+      "onboard_time": 1666602683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260234,
       "num": 15536,
       "word": "水晶哥",
       "onboard_time": 1666572380,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260026,
-      "num": 50043,
-      "word": "恋爱中为什么越独立越有魅力",
-      "onboard_time": 1666599981,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 259755,
@@ -489,6 +505,14 @@
       "onboard_time": 1666578088,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 241248,
+      "num": 49899,
+      "word": "才知道猫讨厌狗的原因",
+      "onboard_time": 1666599562,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 236470,
@@ -521,6 +545,14 @@
       "onboard_time": 1666594402,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216836,
+      "num": 21233,
+      "word": "鬼谷子新皮肤",
+      "onboard_time": 1666601662,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 215726,
@@ -563,14 +595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203814,
-      "num": 49899,
-      "word": "才知道猫讨厌狗的原因",
-      "onboard_time": 1666599562,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203663,
       "num": 12972,
       "word": "南京一市民在路边捡到北极狐",
@@ -593,14 +617,6 @@
       "onboard_time": 1666531823,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195727,
-      "num": 49824,
-      "word": "17岁男生百米成绩超过同期苏炳添",
-      "onboard_time": 1666599502,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 183309,
@@ -681,6 +697,14 @@
       "onboard_time": 1666535604,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162593,
+      "num": 49879,
+      "word": "我国建立首个极深地下实验室",
+      "onboard_time": 1666600703,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 161804,
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129111,
+      "num": 49641,
+      "word": "故意不给狗狗说吃饭口令时",
+      "onboard_time": 1666595303,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126242,
       "num": 15165,
       "word": "开拓者准绝杀湖人",
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112383,
+      "num": 21176,
+      "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
+      "onboard_time": 1666603702,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105018,
       "num": 95841,
       "word": "15年前的今天嫦娥一号成功发射",
@@ -881,14 +921,6 @@
       "onboard_time": 1666593141,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103187,
-      "num": 49641,
-      "word": "故意不给狗狗说吃饭口令时",
-      "onboard_time": 1666595303,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 101422,
@@ -979,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83173,
-      "num": 49879,
-      "word": "我国建立首个极深地下实验室",
-      "onboard_time": 1666600703,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 80180,
       "num": 12685,
       "word": "人都是一瞬间长大的",
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 75313,
-      "num": 1666,
+      "num": 21114,
       "word": "特斯拉降价对市场有何影响",
       "onboard_time": 1666601362,
       "rank": 44,
@@ -1067,12 +1091,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66324,
-      "num": 1647,
-      "word": "鬼谷子新皮肤",
-      "onboard_time": 1666601662,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 68444,
+      "num": 21168,
+      "word": "熊猫宝宝为了钻进窝有多拼",
+      "onboard_time": 1666603942,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66158,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1666582043,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 62915,
+      "num": 21096,
+      "word": "宝妈用废纸箱为孩子做1米5毛毡房",
+      "onboard_time": 1666603162,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62894,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1666568419,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 51129,
+      "num": 21163,
+      "word": "你的秋裤啥时候上线",
+      "onboard_time": 1666603942,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50641,
