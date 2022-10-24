@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 16:42:54
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 17:01:35
 </p>
 </blockquote>
 <p>
@@ -4293,6 +4293,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%B1%82%E6%95%91%E5%A3%B0%E5%90%93%E9%86%92%E5%BC%80%E7%AA%97%E7%AC%91%E5%93%AD%23" target="weibo">
+男子深夜被女子求救声吓醒开窗笑哭（热度：650886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E7%94%84%E5%AC%9B%E9%9B%A8%23" target="weibo">
 一起来看甄嬛雨（热度：650864）
 </a>
@@ -4461,12 +4467,6 @@ BLACKPINK将参加海德公园音乐节（热度：637621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%B1%82%E6%95%91%E5%A3%B0%E5%90%93%E9%86%92%E5%BC%80%E7%AA%97%E7%AC%91%E5%93%AD%23" target="weibo">
-男子深夜被女子求救声吓醒开窗笑哭（热度：635631）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B7%A1%E6%BC%94%E7%A5%A8%E4%BB%B7%E6%9C%80%E9%AB%98360%23" target="weibo">
 吴克群巡演票价最高360（热度：634788）
 </a>
@@ -4583,6 +4583,12 @@ RNG对阵LGD第二场弃赛（热度：625301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B49%E4%BA%BF%23" target="weibo">
 王俊凯万里归途票房破9亿（热度：625031）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%809%E6%9C%88%E6%94%B6%E5%85%A51.9%E4%BA%BF%E7%BE%8E%E9%87%91%23" target="weibo">
+王者荣耀9月收入1.9亿美金（热度：624486）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%A4%9C%E5%BC%80%E8%BD%A6400%E9%87%8C%E5%88%B0%E7%83%9F%E5%8F%B0%E6%8D%9E%E6%B5%B7%E8%82%A0%23" target="weibo">
 女子连夜开车400里到烟台捞海肠（热度：512762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2022%E5%BE%85%E6%92%AD%E5%89%A7%E7%BB%BC%23" target="weibo">
-爱奇艺2022待播剧综（热度：512171）
 </a>
 </li>
 

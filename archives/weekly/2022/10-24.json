@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666600974050,
+  "endTime": 1666602095645,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -107,12 +107,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 635631,
+      "raw_hot": 650886,
       "num": 60567,
       "word": "男子深夜被女子求救声吓醒开窗笑哭",
       "onboard_time": 1666597582,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624486,
+      "num": 50300,
+      "word": "王者荣耀9月收入1.9亿美金",
+      "onboard_time": 1666597641,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 580491,
@@ -176,14 +184,6 @@
       "word": "S12四强名额全部确定",
       "onboard_time": 1666579824,
       "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 506201,
-      "num": 50300,
-      "word": "王者荣耀9月收入1.9亿美金",
-      "onboard_time": 1666597641,
-      "rank": 49,
       "category": "游戏"
     },
     {
@@ -264,6 +264,14 @@
       "word": "乘客打车200公里没付钱的哥报警",
       "onboard_time": 1666576282,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387530,
+      "num": 60575,
+      "word": "6岁女儿给去世的爸爸折纸元宝",
+      "onboard_time": 1666598124,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318457,
+      "num": 50171,
+      "word": "大龄程序员都去哪儿了",
+      "onboard_time": 1666599262,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 313750,
       "num": 30683,
       "word": "研究发现猫和狗也会做梦",
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263155,
+      "num": 60654,
+      "word": "为何月球在20亿年前有火山活动",
+      "onboard_time": 1666597523,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 262214,
       "num": 55864,
       "word": "复合后的感情和从前一样吗",
@@ -443,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260026,
+      "num": 50043,
+      "word": "恋爱中为什么越独立越有魅力",
+      "onboard_time": 1666599981,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259755,
       "num": 85726,
       "word": "成都人昨天短袖今天棉衣",
@@ -451,28 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245902,
-      "num": 50171,
-      "word": "大龄程序员都去哪儿了",
-      "onboard_time": 1666599262,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241272,
       "num": 105223,
       "word": "前三季度国内生产总值870269亿元",
       "onboard_time": 1666578088,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 240441,
-      "num": 60654,
-      "word": "为何月球在20亿年前有火山活动",
-      "onboard_time": 1666597523,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 236470,
@@ -547,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203814,
+      "num": 49899,
+      "word": "才知道猫讨厌狗的原因",
+      "onboard_time": 1666599562,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203663,
       "num": 12972,
       "word": "南京一市民在路边捡到北极狐",
@@ -571,12 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190734,
-      "num": 60575,
-      "word": "6岁女儿给去世的爸爸折纸元宝",
-      "onboard_time": 1666598124,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 195727,
+      "num": 49824,
+      "word": "17岁男生百米成绩超过同期苏炳添",
+      "onboard_time": 1666599502,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 183309,
@@ -585,14 +609,6 @@
       "onboard_time": 1666578565,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180686,
-      "num": 50043,
-      "word": "恋爱中为什么越独立越有魅力",
-      "onboard_time": 1666599981,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 179579,
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155145,
+      "num": 60631,
+      "word": "退伍大学生当教官带出全校第一",
+      "onboard_time": 1666598421,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154851,
       "num": 13108,
       "word": "石川佳纯致谢中国粉丝",
@@ -713,22 +737,6 @@
       "onboard_time": 1666506501,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141281,
-      "num": 60631,
-      "word": "退伍大学生当教官带出全校第一",
-      "onboard_time": 1666598421,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140728,
-      "num": 49899,
-      "word": "才知道猫讨厌狗的原因",
-      "onboard_time": 1666599562,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 138483,
@@ -777,14 +785,6 @@
       "onboard_time": 1666578565,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129462,
-      "num": 49824,
-      "word": "17岁男生百米成绩超过同期苏炳添",
-      "onboard_time": 1666599502,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 126242,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103187,
+      "num": 49641,
+      "word": "故意不给狗狗说吃饭口令时",
+      "onboard_time": 1666595303,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101422,
       "num": 84962,
       "word": "库克参加F1活动表情麻木遭嘲笑",
@@ -939,12 +947,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 88586,
-      "num": 49641,
-      "word": "故意不给狗狗说吃饭口令时",
-      "onboard_time": 1666595303,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 89372,
+      "num": 49445,
+      "word": "程序员的各种皮肤",
+      "onboard_time": 1666600581,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 87699,
@@ -969,6 +977,14 @@
       "onboard_time": 1666566919,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83173,
+      "num": 49879,
+      "word": "我国建立首个极深地下实验室",
+      "onboard_time": 1666600703,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 80180,
@@ -1011,6 +1027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 75313,
+      "num": 1666,
+      "word": "特斯拉降价对市场有何影响",
+      "onboard_time": 1666601362,
+      "rank": 44,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 72666,
       "num": 49524,
       "word": "早八人的晚八生活",
@@ -1040,6 +1064,14 @@
       "word": "明日方舟",
       "onboard_time": 1666527924,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 66324,
+      "num": 1647,
+      "word": "鬼谷子新皮肤",
+      "onboard_time": 1666601662,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -1089,14 +1121,6 @@
       "onboard_time": 1666501287,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62763,
-      "num": 49445,
-      "word": "程序员的各种皮肤",
-      "onboard_time": 1666600581,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 60762,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1666567999,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43581,
-      "num": 49879,
-      "word": "我国建立首个极深地下实验室",
-      "onboard_time": 1666600703,
-      "rank": 30,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 41842,
