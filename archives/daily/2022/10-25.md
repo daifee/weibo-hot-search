@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/25 00:40:47 ~ 2022/10/25 06:46:12
+本榜单时间：2022/10/25 00:40:47 ~ 2022/10/25 07:31:46
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%8C%E8%89%B2%E7%90%83%E4%B8%AD2.19%E4%BA%BF%E6%8D%90500%E4%B8%87%23" target="weibo">
-男子双色球中2.19亿捐500万（热度：626283）
+男子双色球中2.19亿捐500万（热度：628626）
 </a>
 </li>
 
@@ -57,14 +57,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E7%94%9F%E5%88%AE%E8%85%BB%E5%AD%90%E5%88%AE%E6%88%90%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+浙江一学生刮腻子刮成世界冠军（热度：368988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%A6%96%E7%9B%B8%23" target="weibo">
 英国迎首位印度裔首相（热度：322947）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E7%94%9F%E5%88%AE%E8%85%BB%E5%AD%90%E5%88%AE%E6%88%90%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
-浙江一学生刮腻子刮成世界冠军（热度：280739）
+<a href="https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E9%80%80%E4%BC%91%E9%98%BF%E5%A7%A8%E4%B8%BA%E5%9C%86%E6%88%8F%E7%98%BE%E7%BF%BB%E6%8B%8D%E7%94%84%E5%AC%9B%E4%BC%A0%23" target="weibo">
+16位退休阿姨为圆戏瘾翻拍甄嬛传（热度：313750）
 </a>
 </li>
 
@@ -81,8 +87,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BA%E5%A5%B3%E5%84%BF%E6%8A%A5%E4%BB%87%E7%94%9F%E5%90%9E%E8%9E%83%E8%9F%B9%E8%85%B0%E8%83%8C%E5%89%A7%E7%97%9B%23" target="weibo">
+父亲为女儿报仇生吞螃蟹腰背剧痛（热度：243936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A4%87%E5%BF%98%E5%BD%95%E8%83%BD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23" target="weibo">
 手机备忘录能有多重要（热度：234780）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E7%BB%99%E5%86%9C%E6%B0%91%E5%B7%A5%E5%85%8D%E8%B4%B9%E7%90%86%E5%8F%91%E5%8D%B4%E8%A2%AB%E8%BF%AB%E6%B6%A8%E4%BB%B7%23" target="weibo">
+理发店给农民工免费理发却被迫涨价（热度：219976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%B9%E8%91%AB%E8%8A%A6%E4%B8%9D%E9%81%AD%E7%8B%97%E7%8B%97%E4%B8%80%E6%8E%8C%E6%8B%8D%E8%90%BD%23" target="weibo">
+8岁女孩吹葫芦丝遭狗狗一掌拍落（热度：208631）
 </a>
 </li>
 
@@ -93,20 +117,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BA%E5%A5%B3%E5%84%BF%E6%8A%A5%E4%BB%87%E7%94%9F%E5%90%9E%E8%9E%83%E8%9F%B9%E8%85%B0%E8%83%8C%E5%89%A7%E7%97%9B%23" target="weibo">
-父亲为女儿报仇生吞螃蟹腰背剧痛（热度：189879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E9%80%80%E4%BC%91%E9%98%BF%E5%A7%A8%E4%B8%BA%E5%9C%86%E6%88%8F%E7%98%BE%E7%BF%BB%E6%8B%8D%E7%94%84%E5%AC%9B%E4%BC%A0%23" target="weibo">
-16位退休阿姨为圆戏瘾翻拍甄嬛传（热度：182809）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E6%B8%85%E5%86%B7%E5%A5%B3%E4%B8%BB%E6%9C%89%E8%84%B8%E4%BA%86%23" target="weibo">
 小说里的清冷女主有脸了（热度：180447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E4%B8%8D%E6%98%AF%E5%B9%B3%E5%9D%87%E4%B8%BB%E4%B9%89%E4%B8%8D%E6%98%AF%E5%8A%AB%E5%AF%8C%E6%B5%8E%E8%B4%AB%23" target="weibo">
+共同富裕不是平均主义不是劫富济贫（热度：177722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%AF%8F%E5%A4%A9%E4%B8%B2%E9%97%A8%E6%89%BE%E5%B0%8F%E7%8C%AB%E7%8E%A9%E8%80%8D%23" target="weibo">
+小狗每天串门找小猫玩耍（热度：176659）
 </a>
 </li>
 
@@ -117,8 +141,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%AF%8F%E5%A4%A9%E4%B8%B2%E9%97%A8%E6%89%BE%E5%B0%8F%E7%8C%AB%E7%8E%A9%E8%80%8D%23" target="weibo">
-小狗每天串门找小猫玩耍（热度：164931）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23" target="weibo">
+梅西最后一舞（热度：164284）
 </a>
 </li>
 
@@ -129,14 +153,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E4%B8%8D%E6%98%AF%E5%B9%B3%E5%9D%87%E4%B8%BB%E4%B9%89%E4%B8%8D%E6%98%AF%E5%8A%AB%E5%AF%8C%E6%B5%8E%E8%B4%AB%23" target="weibo">
-共同富裕不是平均主义不是劫富济贫（热度：163807）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E4%BC%A0%E5%B0%86%E9%83%A8%E5%88%86%E5%8D%AB%E7%94%9F%E9%97%B4%E6%94%B9%E4%B8%BA%E5%A5%B3%E7%94%9F%E4%B8%93%E7%94%A8%23" target="weibo">
+浙传将部分卫生间改为女生专用（热度：162826）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E7%BB%99%E5%86%9C%E6%B0%91%E5%B7%A5%E5%85%8D%E8%B4%B9%E7%90%86%E5%8F%91%E5%8D%B4%E8%A2%AB%E8%BF%AB%E6%B6%A8%E4%BB%B7%23" target="weibo">
-理发店给农民工免费理发却被迫涨价（热度：159164）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E6%96%87%E6%8E%A8%E8%8D%90%E9%87%8D%E5%BA%86%E6%B4%AA%E5%B4%96%E6%B4%9E%23" target="weibo">
+赵立坚发文推荐重庆洪崖洞（热度：156502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23170%E6%96%A4%E7%88%B8%E7%88%B8%E9%99%AA6%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%B2%E7%8C%AB%E7%8C%AB%E8%97%8F%E8%A1%A3%E6%9F%9C%23" target="weibo">
+170斤爸爸陪6岁女儿躲猫猫藏衣柜（热度：141479）
 </a>
 </li>
 
@@ -147,8 +177,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E5%80%BC%E5%BE%97%E4%B9%B0%23" target="weibo">
+双11什么手机值得买（热度：130209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%85%AB%E7%82%B9%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%23" target="weibo">
 今晚八点的打工人（热度：110132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E7%9B%B8%E6%9C%BA%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E9%80%9B%E8%B6%85%E5%B8%82%E8%A7%86%E8%A7%92%23" target="weibo">
+妈妈用相机拍下宝宝逛超市视角（热度：109760）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E8%A7%92%E8%89%B2%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
+成毅新剧角色适配度（热度：104916）
 </a>
 </li>
 
@@ -160,13 +208,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%94%9F%E6%97%A5%E5%90%83%E8%9B%8B%E7%B3%95%E5%A4%B4%E9%A1%B6%E8%A2%AB%E8%9C%A1%E7%83%9B%E7%82%B9%E7%87%83%23" target="weibo">
-狗狗生日吃蛋糕头顶被蜡烛点燃（热度：91023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%B9%E8%91%AB%E8%8A%A6%E4%B8%9D%E9%81%AD%E7%8B%97%E7%8B%97%E4%B8%80%E6%8E%8C%E6%8B%8D%E8%90%BD%23" target="weibo">
-8岁女孩吹葫芦丝遭狗狗一掌拍落（热度：89296）
+狗狗生日吃蛋糕头顶被蜡烛点燃（热度：92367）
 </a>
 </li>
 
@@ -183,14 +225,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E8%A7%92%E8%89%B2%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
-成毅新剧角色适配度（热度：81970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23" target="weibo">
-梅西最后一舞（热度：81551）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%BE%88%E6%88%90%E5%8A%9F%23" target="weibo">
+今晚大家都很成功（热度：79658）
 </a>
 </li>
 
@@ -201,20 +237,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%98%E6%B5%B7%E8%A2%AB%E7%90%86%E5%8F%91%E5%BA%97%E5%89%AA%E5%9D%8F%E5%A4%A7%E5%93%AD%E6%8A%A5%E8%AD%A6%23" target="weibo">
+女子刘海被理发店剪坏大哭报警（热度：78771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022MAMA%E6%9C%80%E4%BD%B3%E5%A5%B3%E8%89%BA%E4%BA%BA%E6%8F%90%E5%90%8D%23" target="weibo">
 2022MAMA最佳女艺人提名（热度：75556）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23170%E6%96%A4%E7%88%B8%E7%88%B8%E9%99%AA6%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%B2%E7%8C%AB%E7%8C%AB%E8%97%8F%E8%A1%A3%E6%9F%9C%23" target="weibo">
-170斤爸爸陪6岁女儿躲猫猫藏衣柜（热度：74367）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Afirstframe%E5%B9%B4%E5%BA%A6%E6%8E%A8%E4%BB%8B%E4%BA%BA%23" target="weibo">
+王一博firstframe年度推介人（热度：74764）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Afirstframe%E5%B9%B4%E5%BA%A6%E6%8E%A8%E4%BB%8B%E4%BA%BA%23" target="weibo">
-王一博firstframe年度推介人（热度：70424）
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%B7%A6%E7%9C%BC%E5%A4%B1%E6%98%8E%E7%BB%83%E4%B9%A6%E6%B3%95%E8%B5%B0%E5%87%BA%E8%87%AA%E5%8D%91%23" target="weibo">
+00后女孩左眼失明练书法走出自卑（热度：72894）
 </a>
 </li>
 
@@ -225,26 +267,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E7%9B%B8%E6%9C%BA%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E9%80%9B%E8%B6%85%E5%B8%82%E8%A7%86%E8%A7%92%23" target="weibo">
-妈妈用相机拍下宝宝逛超市视角（热度：64241）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%84%B6%E8%A6%81%E5%92%8C%E7%88%B1%E7%9A%84%E4%BA%BA%E5%88%86%E4%BA%AB%E6%99%9A%E9%9C%9E%E5%95%8A%23" target="weibo">
 当然要和爱的人分享晚霞啊（热度：62992）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232022MAMA%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83%23" target="weibo">
-2022MAMA提名公布（热度：60945）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E5%90%9E%E5%B0%8F%E8%9E%83%E8%9F%B9%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
+男子生吞小螃蟹感染寄生虫（热度：61296）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E5%90%9E%E5%B0%8F%E8%9E%83%E8%9F%B9%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
-男子生吞小螃蟹感染寄生虫（热度：60661）
+<a href="https://s.weibo.com/weibo?q=%232022MAMA%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83%23" target="weibo">
+2022MAMA提名公布（热度：60945）
 </a>
 </li>
 
@@ -257,6 +293,12 @@ Lehends带格里芬重聚（热度：59587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%AF%E6%9E%81%E7%94%B3%E5%8A%9E2031%E5%B9%B4%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 中国积极申办2031年女足世界杯（热度：56197）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%81%B6%E4%B8%8E%E6%89%87%E5%AD%90%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
+古偶与扇子适配度（热度：54720）
 </a>
 </li>
 
@@ -285,20 +327,20 @@ Lehends带格里芬重聚（热度：59587）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%B7%A6%E7%9C%BC%E5%A4%B1%E6%98%8E%E7%BB%83%E4%B9%A6%E6%B3%95%E8%B5%B0%E5%87%BA%E8%87%AA%E5%8D%91%23" target="weibo">
-00后女孩左眼失明练书法走出自卑（热度：49500）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E7%9C%8B%E7%BB%93%E5%A9%9A%E5%BD%95%E5%83%8F5%E6%AF%9B%E7%89%B9%E6%95%88%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%23" target="weibo">
+女子回看结婚录像5毛特效仿佛穿越（热度：48783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E5%85%AB%E5%92%8C%E6%99%9A%E5%85%AB%E7%9A%84%E5%89%8D%E5%90%8E%E5%B7%AE%E8%B7%9D%23" target="weibo">
+早八和晚八的前后差距（热度：47911）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E5%85%AB%E6%96%87%E5%AD%A6%23" target="weibo">
 晚八文学（热度：45395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E6%96%87%E6%8E%A8%E8%8D%90%E9%87%8D%E5%BA%86%E6%B4%AA%E5%B4%96%E6%B4%9E%23" target="weibo">
-赵立坚发文推荐重庆洪崖洞（热度：42723）
 </a>
 </li>
 
@@ -315,12 +357,6 @@ Lehends带格里芬重聚（热度：59587）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%81%B6%E4%B8%8E%E6%89%87%E5%AD%90%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
-古偶与扇子适配度（热度：37579）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1WTT%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B2022%23" target="weibo">
 新乡WTT世界杯决赛2022（热度：37066）
 </a>
@@ -328,13 +364,7 @@ Lehends带格里芬重聚（热度：59587）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E6%88%90%E4%B8%BA%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E5%92%8C%E6%9D%83%E5%8A%BF%E5%9B%A2%E4%BD%93%E4%BB%A3%E8%A8%80%E4%BA%BA%23" target="weibo">
-防止领导干部成为利益集团和权势团体代言人（热度：28114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E7%9C%8B%E7%BB%93%E5%A9%9A%E5%BD%95%E5%83%8F5%E6%AF%9B%E7%89%B9%E6%95%88%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%23" target="weibo">
-女子回看结婚录像5毛特效仿佛穿越（热度：21984）
+防止领导干部成为利益集团和权势团体代言人（热度：31051）
 </a>
 </li>
 
@@ -370,7 +400,7 @@ Lehends带格里芬重聚（热度：59587）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%9A%84%E8%BF%9C%E5%BE%81%23" target="weibo">
-新的远征（热度：3577）
+新的远征（热度：5760）
 </a>
 </li>
 
