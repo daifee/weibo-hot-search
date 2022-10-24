@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666644399891,
+  "endTime": 1666646715980,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1955,6 +1955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 25620,
+      "num": 6226,
+      "word": "梅西最后一舞",
+      "onboard_time": 1666644550,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24019,
       "num": 29494,
       "word": "时政微视频新征程上",
@@ -2000,6 +2008,14 @@
       "word": "红嘴蓝鹊被乌鸦围殴男子呵斥救下",
       "onboard_time": 1666608862,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17763,
+      "num": 6224,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 12715,
-      "num": 5325,
+      "num": 6220,
       "word": "一代人有一代人的八点回忆",
       "onboard_time": 1666642271,
       "rank": 34,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1666530085,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10752,
+      "num": 6218,
+      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
+      "onboard_time": 1666643771,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9230,
@@ -2089,14 +2113,6 @@
       "onboard_time": 1666609223,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 8061,
-      "num": 5272,
-      "word": "赵立坚发文推荐重庆洪崖洞",
-      "onboard_time": 1666643889,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7549,
