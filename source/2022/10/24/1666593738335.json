@@ -1,0 +1,410 @@
+{
+  "runTime": 1666593738335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523308,
+        "num": 523308,
+        "word": "防止领导干部成为利益集团和权势团体代言人",
+        "onboard_time": 1666592720,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196066,
+        "num": 196066,
+        "word": "未来五年我们这样干",
+        "onboard_time": 1666583183,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33192,
+        "num": 168511,
+        "word": "新的远征",
+        "onboard_time": 1666582043,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166135,
+        "num": 166135,
+        "word": "新一届中央政治局常委简历",
+        "onboard_time": 1666525462,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138483,
+        "num": 138483,
+        "word": "解读中国式现代化的五大特征",
+        "onboard_time": 1666590862,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 105223,
+        "num": 105223,
+        "word": "前三季度国内生产总值870269亿元",
+        "onboard_time": 1666578088,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 96072,
+        "num": 96072,
+        "word": "中共中央新闻发布会",
+        "onboard_time": 1666577786,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81454,
+        "num": 95841,
+        "word": "15年前的今天嫦娥一号成功发射",
+        "onboard_time": 1666583542,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 74660,
+        "num": 93506,
+        "word": "2022前三季度GDP同比增长3.0%",
+        "onboard_time": 1666578565,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 39067,
+        "num": 93279,
+        "word": "奋斗的你我勾勒出非凡中国",
+        "onboard_time": 1666592243,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 480918,
+        "num": 90778,
+        "word": "国考职位表",
+        "onboard_time": 1666582643,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336924,
+        "num": 89707,
+        "word": "Meiko和Deft拥抱",
+        "onboard_time": 1666588703,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244266,
+        "num": 87828,
+        "word": "纪念毛岸英同志诞辰百年",
+        "onboard_time": 1666582703,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87699,
+        "num": 87699,
+        "word": "2023国考共计划招录3.71万人",
+        "onboard_time": 1666593622,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 95257,
+        "num": 87690,
+        "word": "急救人员澡堂遇晕倒老人现场施救",
+        "onboard_time": 1666591283,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194187,
+        "num": 87503,
+        "word": "Viper",
+        "onboard_time": 1666581863,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191501,
+        "num": 87300,
+        "word": "女生化妆猫咪伸手跃跃欲试",
+        "onboard_time": 1666592062,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360037,
+        "num": 87229,
+        "word": "苹果曾考虑推出塑料版iPad",
+        "onboard_time": 1666590503,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189228,
+        "num": 87098,
+        "word": "奶爸带娃加班被弄乱文件崩溃咆哮",
+        "onboard_time": 1666580544,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146450,
+        "num": 86970,
+        "word": "JDG独苗",
+        "onboard_time": 1666580005,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415876,
+        "num": 86782,
+        "word": "男子误吃松鼠过冬板栗后加倍奉还",
+        "onboard_time": 1666583962,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297152,
+        "num": 86631,
+        "word": "溜三胞胎儿子遇另一家溜三胞胎女儿",
+        "onboard_time": 1666584984,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260223,
+        "num": 86454,
+        "word": "王者七周年限定皮肤",
+        "onboard_time": 1666582764,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264561,
+        "num": 86337,
+        "word": "姚晨和彭莱不是一见钟情",
+        "onboard_time": 1666590141,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207076,
+        "num": 86223,
+        "word": "孙燕姿 音乐节",
+        "onboard_time": 1666587866,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250129,
+        "num": 86083,
+        "word": "26岁女子捐肾使尿毒症患者重获新生",
+        "onboard_time": 1666584086,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136569,
+        "num": 85920,
+        "word": "Deft泪洒舞台",
+        "onboard_time": 1666581924,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123007,
+        "num": 85852,
+        "word": "乘客打车200公里没付钱的哥报警",
+        "onboard_time": 1666576282,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 85726,
+        "word": "成都人昨天短袖今天棉衣",
+        "onboard_time": 1666591463,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121823,
+        "num": 85572,
+        "word": "Steam在线人数突破3000万",
+        "onboard_time": 1666592541,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105591,
+        "num": 85392,
+        "word": "圣枪哥",
+        "onboard_time": 1666576882,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 85293,
+        "word": "国考",
+        "onboard_time": 1666576941,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102078,
+        "num": 85109,
+        "word": "苹果又一首席设计师将离职",
+        "onboard_time": 1666576581,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 101422,
+        "num": 84962,
+        "word": "库克参加F1活动表情麻木遭嘲笑",
+        "onboard_time": 1666587983,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179492,
+        "num": 84771,
+        "word": "莫奈画作博物馆内被泼土豆泥",
+        "onboard_time": 1666583304,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84743,
+        "num": 84743,
+        "word": "女孩回应辞职带84岁爷爷游中国",
+        "onboard_time": 1666536505,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82629,
+        "num": 82629,
+        "word": "S12四强名额全部确定",
+        "onboard_time": 1666579824,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185732,
+        "num": 75677,
+        "word": "未定事件簿",
+        "onboard_time": 1666591342,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68155,
+        "num": 68155,
+        "word": "王凯袁弘新剧开播",
+        "onboard_time": 1666583183,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64554,
+        "num": 64554,
+        "word": "龙之家族",
+        "onboard_time": 1666589182,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145391,
+        "num": 63774,
+        "word": "我的乖乖你搁哪弄的花",
+        "onboard_time": 1666584923,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62044,
+        "num": 62044,
+        "word": "谈恋爱真的会快乐吗",
+        "onboard_time": 1666540224,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57004,
+        "num": 57004,
+        "word": "TF家族恭喜你发现了宝藏最终篇",
+        "onboard_time": 1666584203,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134076,
+        "num": 56562,
+        "word": "淘宝伪装者",
+        "onboard_time": 1666586665,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55864,
+        "num": 55864,
+        "word": "复合后的感情和从前一样吗",
+        "onboard_time": 1666573224,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53107,
+        "num": 53107,
+        "word": "iPhone15Ultra或采用钛金属外壳",
+        "onboard_time": 1666536025,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103980,
+        "num": 53041,
+        "word": "打工不如打电话",
+        "onboard_time": 1666593141,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52628,
+        "num": 52628,
+        "word": "EDG止步八强",
+        "onboard_time": 1666578205,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41183,
+        "num": 41183,
+        "word": "金秋时节酒泉胡杨林好美",
+        "onboard_time": 1666593381,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99758,
+        "num": 39492,
+        "word": "女子套圈技术太差老板4次放水",
+        "onboard_time": 1666577848,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
