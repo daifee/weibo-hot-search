@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666607595988,
+  "endTime": 1666608959935,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -59,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1111104,
+      "num": 32789,
+      "word": "举重妖精金福珠是甜剧天花板吧",
+      "onboard_time": 1666608563,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 976671,
       "num": 11637,
       "word": "EDG守家奇迹",
@@ -115,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 749020,
+      "num": 33444,
+      "word": "小说里的清冷女主有脸了",
+      "onboard_time": 1666604362,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703451,
       "num": 62044,
       "word": "谈恋爱真的会快乐吗",
@@ -129,14 +145,6 @@
       "onboard_time": 1666597582,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627729,
-      "num": 33444,
-      "word": "小说里的清冷女主有脸了",
-      "onboard_time": 1666604362,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 624486,
@@ -240,6 +248,14 @@
       "word": "南京地铁",
       "onboard_time": 1666575801,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452166,
+      "num": 33431,
+      "word": "女子回看结婚录像5毛特效仿佛穿越",
+      "onboard_time": 1666604962,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -459,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293786,
+      "num": 33412,
+      "word": "中科院院士彭一刚逝世",
+      "onboard_time": 1666605623,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292947,
       "num": 49824,
       "word": "17岁男生百米成绩超过同期苏炳添",
       "onboard_time": 1666599502,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282049,
-      "num": 33431,
-      "word": "女子回看结婚录像5毛特效仿佛穿越",
-      "onboard_time": 1666604962,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275867,
@@ -659,6 +675,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 186460,
+      "num": 45026,
+      "word": "国乒出征新乡WTT决赛",
+      "onboard_time": 1666606641,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183309,
       "num": 93506,
       "word": "2022前三季度GDP同比增长3.0%",
@@ -705,6 +729,14 @@
       "onboard_time": 1666574064,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170663,
+      "num": 40991,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1666607422,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 170507,
@@ -755,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156774,
-      "num": 33412,
-      "word": "中科院院士彭一刚逝世",
-      "onboard_time": 1666605623,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155145,
       "num": 60631,
       "word": "退伍大学生当教官带出全校第一",
@@ -803,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143449,
-      "num": 45026,
-      "word": "国乒出征新乡WTT决赛",
-      "onboard_time": 1666606641,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139023,
       "num": 49641,
       "word": "故意不给狗狗说吃饭口令时",
@@ -825,6 +841,14 @@
       "onboard_time": 1666590862,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 137932,
+      "num": 33401,
+      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
+      "onboard_time": 1666604542,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137613,
@@ -872,14 +896,6 @@
       "word": "72岁奶奶1分钟剪出路人侧颜",
       "onboard_time": 1666578565,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127850,
-      "num": 33401,
-      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
-      "onboard_time": 1666604542,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98352,
+      "num": 33361,
+      "word": "秋裤是怎么做到全国统一的",
+      "onboard_time": 1666607541,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97411,
       "num": 12914,
       "word": "LGD止步TI六强",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1666600581,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 87929,
+      "num": 33368,
+      "word": "95后小伙用10年从专科逆袭斯坦福",
+      "onboard_time": 1666602504,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 87699,
@@ -1155,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66418,
-      "num": 33368,
-      "word": "95后小伙用10年从专科逆袭斯坦福",
-      "onboard_time": 1666602504,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 66158,
       "num": 12601,
       "word": "女子未回信息朋友飞无人机探查",
@@ -1176,14 +1200,6 @@
       "word": "王楚钦樊振东神仙打架",
       "onboard_time": 1666535964,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65916,
-      "num": 40991,
-      "word": "新乡WTT世界杯决赛2022",
-      "onboard_time": 1666607422,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -1281,14 +1297,6 @@
       "onboard_time": 1666568419,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 53590,
-      "num": 33361,
-      "word": "秋裤是怎么做到全国统一的",
-      "onboard_time": 1666607541,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 51129,
@@ -1400,6 +1408,14 @@
       "word": "乘客突发癫痫车站员工合力救援",
       "onboard_time": 1666587686,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18061,
+      "num": 32787,
+      "word": "红嘴蓝鹊被乌鸦围殴男子呵斥救下",
+      "onboard_time": 1666608862,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
