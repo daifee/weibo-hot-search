@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666593738335,
+  "endTime": 1666594913939,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -65,6 +65,14 @@
       "onboard_time": 1666580005,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 885489,
+      "num": 885489,
+      "word": "防止领导干部成为利益集团和权势团体代言人",
+      "onboard_time": 1666592720,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 862167,
@@ -147,14 +155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 523308,
-      "num": 523308,
-      "word": "防止领导干部成为利益集团和权势团体代言人",
-      "onboard_time": 1666592720,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 481634,
       "num": 481634,
       "word": "新一届中央政治局常委简历",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409522,
+      "num": 87229,
+      "word": "苹果曾考虑推出塑料版iPad",
+      "onboard_time": 1666590503,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 394897,
       "num": 30228,
       "word": "特斯拉Model3及ModelY降价",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 381519,
-      "num": 39492,
+      "num": 53587,
       "word": "女子套圈技术太差老板4次放水",
       "onboard_time": 1666577848,
       "rank": 27,
@@ -251,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 368886,
+      "num": 85572,
+      "word": "Steam在线人数突破3000万",
+      "onboard_time": 1666592541,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 368823,
       "num": 87098,
       "word": "奶爸带娃加班被弄乱文件崩溃咆哮",
@@ -265,14 +281,6 @@
       "onboard_time": 1666583183,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 360037,
-      "num": 87229,
-      "word": "苹果曾考虑推出塑料版iPad",
-      "onboard_time": 1666590503,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 355522,
@@ -331,6 +339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308480,
+      "num": 87300,
+      "word": "女生化妆猫咪伸手跃跃欲试",
+      "onboard_time": 1666592062,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305749,
+      "num": 86337,
+      "word": "姚晨和彭莱不是一见钟情",
+      "onboard_time": 1666590141,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275867,
       "num": 30135,
       "word": "莲花楼杀青",
@@ -347,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264561,
-      "num": 86337,
-      "word": "姚晨和彭莱不是一见钟情",
-      "onboard_time": 1666590141,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 262214,
       "num": 55864,
       "word": "复合后的感情和从前一样吗",
@@ -369,6 +385,14 @@
       "onboard_time": 1666572380,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259755,
+      "num": 85726,
+      "word": "成都人昨天短袖今天棉衣",
+      "onboard_time": 1666591463,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241272,
@@ -403,19 +427,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215726,
+      "num": 75677,
+      "word": "未定事件簿",
+      "onboard_time": 1666591342,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213301,
       "num": 29799,
       "word": "南京地铁故障发迟到证明",
       "onboard_time": 1666581863,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211768,
-      "num": 85726,
-      "word": "成都人昨天短袖今天棉衣",
-      "onboard_time": 1666591463,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -467,22 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191501,
-      "num": 87300,
-      "word": "女生化妆猫咪伸手跃跃欲试",
-      "onboard_time": 1666592062,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185732,
-      "num": 75677,
-      "word": "未定事件簿",
-      "onboard_time": 1666591342,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183309,
       "num": 93506,
       "word": "2022前三季度GDP同比增长3.0%",
@@ -531,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168884,
+      "num": 168884,
+      "word": "奋力走好新征程",
+      "onboard_time": 1666594463,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 166748,
       "num": 12758,
       "word": "女老师逛街顺便辅导店家孩子功课",
@@ -561,6 +577,14 @@
       "onboard_time": 1666539984,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147541,
+      "num": 87690,
+      "word": "急救人员澡堂遇晕倒老人现场施救",
+      "onboard_time": 1666591283,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147021,
@@ -643,12 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121823,
-      "num": 85572,
-      "word": "Steam在线人数突破3000万",
-      "onboard_time": 1666592541,
+      "raw_hot": 123896,
+      "num": 56075,
+      "word": "男生路上被8岁男孩追着喊爸爸",
+      "onboard_time": 1666593981,
       "rank": 29,
-      "category": "游戏"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119805,
@@ -745,14 +769,6 @@
       "onboard_time": 1666531823,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95257,
-      "num": 87690,
-      "word": "急救人员澡堂遇晕倒老人现场施救",
-      "onboard_time": 1666591283,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93546,
@@ -963,6 +979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 41234,
+      "num": 56846,
+      "word": "男童捡东西交给列车员获零食奖励",
+      "onboard_time": 1666594762,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41183,
       "num": 41183,
       "word": "金秋时节酒泉胡杨林好美",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1666505300,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 5036,
+      "num": 57049,
+      "word": "耄耋老夫妻打造小区绿化景观带",
+      "onboard_time": 1666594881,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4903,
