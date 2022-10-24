@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666650437028,
+  "endTime": 1666651572084,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1019,6 +1019,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 182809,
+      "num": 27921,
+      "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
+      "onboard_time": 1666626806,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179579,
       "num": 14696,
       "word": "王楚钦说未来还很长继续努力",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1666620325,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 143866,
-      "num": 27921,
-      "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
-      "onboard_time": 1666626806,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142959,
@@ -1539,6 +1539,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 89296,
+      "num": 16376,
+      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
+      "onboard_time": 1666643771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87929,
       "num": 57554,
       "word": "95后小伙用10年从专科逆袭斯坦福",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1666622846,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81551,
+      "num": 16346,
+      "word": "梅西最后一舞",
+      "onboard_time": 1666644550,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 80180,
@@ -1683,14 +1699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68147,
-      "num": 10934,
-      "word": "梅西最后一舞",
-      "onboard_time": 1666644550,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67894,
       "num": 58479,
       "word": "妈妈其实也很爱美",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1666589182,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64241,
+      "num": 27719,
+      "word": "妈妈用相机拍下宝宝逛超市视角",
+      "onboard_time": 1666628781,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63374,
@@ -1819,22 +1835,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 56682,
-      "num": 27719,
-      "word": "妈妈用相机拍下宝宝逛超市视角",
-      "onboard_time": 1666628781,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54768,
-      "num": 10913,
-      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
-      "onboard_time": 1666643771,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54311,
       "num": 12511,
       "word": "东北搓澡时的各种暗号",
@@ -1883,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42723,
+      "num": 15989,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41842,
       "num": 41842,
       "word": "直播解读二十大报告",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1666593381,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41034,
+      "num": 15958,
+      "word": "刘宇宁直播唱浮生",
+      "onboard_time": 1666631417,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 39067,
@@ -1945,14 +1961,6 @@
       "onboard_time": 1666616483,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32577,
-      "num": 14058,
-      "word": "刘宇宁直播唱浮生",
-      "onboard_time": 1666631417,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 29312,
@@ -2016,14 +2024,6 @@
       "word": "红嘴蓝鹊被乌鸦围殴男子呵斥救下",
       "onboard_time": 1666608862,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17967,
-      "num": 10769,
-      "word": "赵立坚发文推荐重庆洪崖洞",
-      "onboard_time": 1666643889,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
