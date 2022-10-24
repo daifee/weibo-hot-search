@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666623305416,
+  "endTime": 1666625488526,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -35,7 +35,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1455003,
+      "raw_hot": 1985451,
       "num": 82903,
       "word": "双十一",
       "onboard_time": 1666613158,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 814181,
+      "num": 45774,
+      "word": "男子双色球中2.19亿捐500万",
+      "onboard_time": 1666623386,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801132,
       "num": 82446,
       "word": "特斯拉官宣降价立即引发维权",
@@ -187,6 +195,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 727548,
+      "num": 45705,
+      "word": "优时颜",
+      "onboard_time": 1666624046,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 708976,
       "num": 708976,
       "word": "共同富裕不是平均主义不是劫富济贫",
@@ -217,6 +233,14 @@
       "onboard_time": 1666597641,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 617354,
+      "num": 52896,
+      "word": "欧诗漫",
+      "onboard_time": 1666622247,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 614418,
@@ -305,14 +329,6 @@
       "onboard_time": 1666579824,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 543175,
-      "num": 52896,
-      "word": "欧诗漫",
-      "onboard_time": 1666622247,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 515990,
@@ -435,6 +451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 392628,
+      "num": 53760,
+      "word": "理发店给农民工免费理发却被迫涨价",
+      "onboard_time": 1666622127,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387608,
       "num": 85852,
       "word": "乘客打车200公里没付钱的哥报警",
@@ -457,6 +481,14 @@
       "onboard_time": 1666541183,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 380407,
+      "num": 49128,
+      "word": "浙江一学生刮腻子刮成世界冠军",
+      "onboard_time": 1666623087,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 372503,
@@ -505,6 +537,14 @@
       "onboard_time": 1666612343,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365086,
+      "num": 53635,
+      "word": "手机备忘录能有多重要",
+      "onboard_time": 1666622846,
+      "rank": 9,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 357363,
@@ -593,6 +633,14 @@
       "onboard_time": 1666605623,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315835,
+      "num": 45654,
+      "word": "娇兰",
+      "onboard_time": 1666625364,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 313750,
@@ -819,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220333,
+      "num": 56728,
+      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
+      "onboard_time": 1666621465,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218789,
       "num": 69369,
       "word": "男子生吞小螃蟹感染寄生虫",
@@ -907,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199998,
-      "num": 53760,
-      "word": "理发店给农民工免费理发却被迫涨价",
-      "onboard_time": 1666622127,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193953,
       "num": 56778,
       "word": "莲花楼单人海报",
@@ -945,14 +993,6 @@
       "onboard_time": 1666606641,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184786,
-      "num": 56728,
-      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
-      "onboard_time": 1666621465,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183309,
@@ -1051,14 +1091,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 158726,
-      "num": 53635,
-      "word": "手机备忘录能有多重要",
-      "onboard_time": 1666622846,
-      "rank": 9,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 158240,
       "num": 30743,
       "word": "男孩手指被卡少年为消防员带路",
@@ -1089,6 +1121,22 @@
       "onboard_time": 1666539984,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151942,
+      "num": 45582,
+      "word": "王一博firstframe年度推介人",
+      "onboard_time": 1666623504,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149198,
+      "num": 45579,
+      "word": "丝塔芙",
+      "onboard_time": 1666625427,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 147541,
@@ -1275,6 +1323,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 122218,
+      "num": 45540,
+      "word": "莲花楼",
+      "onboard_time": 1666623747,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119805,
       "num": 12855,
       "word": "姐姐眼里弟弟的形象",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1666587983,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 101139,
+      "num": 45501,
+      "word": "土狗被扔50公里外一星期后跑回家",
+      "onboard_time": 1666625007,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100501,
@@ -1587,14 +1651,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 70872,
-      "num": 49128,
-      "word": "浙江一学生刮腻子刮成世界冠军",
-      "onboard_time": 1666623087,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 68829,
       "num": 12723,
       "word": "明日方舟",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1666618405,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66970,
+      "num": 45449,
+      "word": "男生用湿巾盖自制开门口罩做核酸",
+      "onboard_time": 1666624947,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66158,
@@ -1831,6 +1895,14 @@
       "num": 69631,
       "word": "保安用沙子树枝作画记录城市发展",
       "onboard_time": 1666616483,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29312,
+      "num": 45691,
+      "word": "丝塔芙是什么啊",
+      "onboard_time": 1666624107,
       "rank": 14,
       "category": "社会新闻"
     },
