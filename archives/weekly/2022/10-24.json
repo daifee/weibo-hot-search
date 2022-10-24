@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666631221930,
+  "endTime": 1666633232466,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1931,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32386,
+      "num": 14058,
+      "word": "刘宇宁直播唱浮生",
+      "onboard_time": 1666631417,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29312,
       "num": 45691,
       "word": "丝塔芙是什么啊",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1666501887,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 14038,
+      "word": "那位培养大师的大师走了",
+      "onboard_time": 1666632974,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15040,
