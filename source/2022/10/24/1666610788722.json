@@ -1,0 +1,410 @@
+{
+  "runTime": 1666610788722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 708976,
+        "num": 708976,
+        "word": "共同富裕不是平均主义不是劫富济贫",
+        "onboard_time": 1666609042,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1479,
+        "num": 1479,
+        "word": "致9671.2万个你",
+        "onboard_time": 1666501287,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15861,
+        "num": 1475,
+        "word": "新的远征",
+        "onboard_time": 1666582043,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180592,
+        "num": 1466,
+        "word": "防止领导干部成为利益集团和权势团体代言人",
+        "onboard_time": 1666592720,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 59791,
+        "num": 1458,
+        "word": "射击世锦赛中国队拿满8个奥运席位",
+        "onboard_time": 1666595723,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223538,
+        "num": 1457,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1666607422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167991,
+        "num": 1450,
+        "word": "中国积极申办2031年女足世界杯",
+        "onboard_time": 1666609642,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139408,
+        "num": 1442,
+        "word": "国乒出征新乡WTT决赛",
+        "onboard_time": 1666606641,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64668,
+        "num": 1432,
+        "word": "为何月球在20亿年前有火山活动",
+        "onboard_time": 1666597523,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 48307,
+        "num": 1425,
+        "word": "奋力实现建军一百年奋斗目标",
+        "onboard_time": 1666609463,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 931204,
+        "num": 1422,
+        "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
+        "onboard_time": 1666603702,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770281,
+        "num": 1411,
+        "word": "举重妖精金福珠是甜剧天花板吧",
+        "onboard_time": 1666608563,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629768,
+        "num": 1404,
+        "word": "小说里的清冷女主有脸了",
+        "onboard_time": 1666604362,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527977,
+        "num": 1397,
+        "word": "2022MAMA提名公布",
+        "onboard_time": 1666606402,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9194,
+        "num": 1391,
+        "word": "收到请扣1111",
+        "onboard_time": 1666609223,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51833,
+        "num": 1386,
+        "word": "中超联赛",
+        "onboard_time": 1666609402,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468869,
+        "num": 1373,
+        "word": "女子回看结婚录像5毛特效仿佛穿越",
+        "onboard_time": 1666604962,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328891,
+        "num": 1367,
+        "word": "中科院院士彭一刚逝世",
+        "onboard_time": 1666605623,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292721,
+        "num": 1362,
+        "word": "双十一预售今晚8点开启",
+        "onboard_time": 1666595481,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 268254,
+        "num": 1356,
+        "word": "王者荣耀9月收入1.9亿美金",
+        "onboard_time": 1666597641,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210480,
+        "num": 1343,
+        "word": "6岁女儿给去世的爸爸折纸元宝",
+        "onboard_time": 1666598124,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193352,
+        "num": 1341,
+        "word": "大龄程序员都去哪儿了",
+        "onboard_time": 1666599262,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181640,
+        "num": 1336,
+        "word": "男子深夜被女子求救声吓醒开窗笑哭",
+        "onboard_time": 1666597582,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159805,
+        "num": 1323,
+        "word": "吃早八的苦享晚八的福",
+        "onboard_time": 1666596322,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 155990,
+        "num": 1317,
+        "word": "恋爱中为什么越独立越有魅力",
+        "onboard_time": 1666599981,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143995,
+        "num": 1307,
+        "word": "秋裤是怎么做到全国统一的",
+        "onboard_time": 1666607541,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142959,
+        "num": 1304,
+        "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
+        "onboard_time": 1666604542,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115068,
+        "num": 1294,
+        "word": "鬼谷子新皮肤",
+        "onboard_time": 1666601662,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110770,
+        "num": 1293,
+        "word": "曼联愿意放C罗冬窗自由身离队",
+        "onboard_time": 1666602683,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107408,
+        "num": 1280,
+        "word": "才知道猫讨厌狗的原因",
+        "onboard_time": 1666599562,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238811,
+        "num": 1271,
+        "word": "特斯拉官宣降价立即引发维权",
+        "onboard_time": 1666595122,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 104106,
+        "num": 1266,
+        "word": "17岁男生百米成绩超过同期苏炳添",
+        "onboard_time": 1666599502,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 1263,
+        "word": "男生路上被8岁男孩追着喊爸爸",
+        "onboard_time": 1666593981,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96729,
+        "num": 1250,
+        "word": "今晚八点的打工人",
+        "onboard_time": 1666610001,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94513,
+        "num": 1249,
+        "word": "国考职位表",
+        "onboard_time": 1666582643,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85514,
+        "num": 1241,
+        "word": "95后小伙用10年从专科逆袭斯坦福",
+        "onboard_time": 1666602504,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 84785,
+        "num": 1230,
+        "word": "故意不给狗狗说吃饭口令时",
+        "onboard_time": 1666595303,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80059,
+        "num": 1224,
+        "word": "熊猫宝宝为了钻进窝有多拼",
+        "onboard_time": 1666603942,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78785,
+        "num": 1217,
+        "word": "Meiko和Deft拥抱",
+        "onboard_time": 1666588703,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76477,
+        "num": 1206,
+        "word": "男子误吃松鼠过冬板栗后加倍奉还",
+        "onboard_time": 1666583962,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75367,
+        "num": 1206,
+        "word": "Steam在线人数突破3000万",
+        "onboard_time": 1666592541,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74621,
+        "num": 1192,
+        "word": "我国建立首个极深地下实验室",
+        "onboard_time": 1666600703,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 74457,
+        "num": 1185,
+        "word": "男子扛600多斤木材下山赚钱养家",
+        "onboard_time": 1666610362,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73858,
+        "num": 1181,
+        "word": "Viper",
+        "onboard_time": 1666581863,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71595,
+        "num": 1175,
+        "word": "特斯拉降价对市场有何影响",
+        "onboard_time": 1666601362,
+        "rank": 44,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 58673,
+        "num": 1163,
+        "word": "苹果曾考虑推出塑料版iPad",
+        "onboard_time": 1666590503,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55836,
+        "num": 1160,
+        "word": "溜三胞胎儿子遇另一家溜三胞胎女儿",
+        "onboard_time": 1666584984,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51615,
+        "num": 1154,
+        "word": "没想到约个会这么容易社死",
+        "onboard_time": 1666610122,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50317,
+        "num": 1146,
+        "word": "从没看过这么清楚的奥特曼",
+        "onboard_time": 1666600763,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50197,
+        "num": 1138,
+        "word": "女性健康必修课",
+        "onboard_time": 1666609521,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666608959935,
+  "endTime": 1666610788722,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708976,
+      "num": 708976,
+      "word": "共同富裕不是平均主义不是劫富济贫",
+      "onboard_time": 1666609042,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 703451,
       "num": 62044,
       "word": "谈恋爱真的会快乐吗",
@@ -235,6 +243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 468869,
+      "num": 33431,
+      "word": "女子回看结婚录像5毛特效仿佛穿越",
+      "onboard_time": 1666604962,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462755,
       "num": 29008,
       "word": "王楚钦击败五位世界前十",
@@ -248,14 +264,6 @@
       "word": "南京地铁",
       "onboard_time": 1666575801,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452166,
-      "num": 33431,
-      "word": "女子回看结婚录像5毛特效仿佛穿越",
-      "onboard_time": 1666604962,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328891,
+      "num": 33412,
+      "word": "中科院院士彭一刚逝世",
+      "onboard_time": 1666605623,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313750,
       "num": 30683,
       "word": "研究发现猫和狗也会做梦",
@@ -473,14 +489,6 @@
       "onboard_time": 1666602683,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293786,
-      "num": 33412,
-      "word": "中科院院士彭一刚逝世",
-      "onboard_time": 1666605623,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292947,
@@ -593,6 +601,14 @@
       "onboard_time": 1666529605,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223538,
+      "num": 40991,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1666607422,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 222051,
@@ -731,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170663,
-      "num": 40991,
-      "word": "新乡WTT世界杯决赛2022",
-      "onboard_time": 1666607422,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170507,
       "num": 60657,
       "word": "射击世锦赛中国队拿满8个奥运席位",
@@ -753,6 +761,14 @@
       "onboard_time": 1666594463,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 167991,
+      "num": 1450,
+      "word": "中国积极申办2031年女足世界杯",
+      "onboard_time": 1666609642,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 167196,
@@ -827,6 +843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143995,
+      "num": 33361,
+      "word": "秋裤是怎么做到全国统一的",
+      "onboard_time": 1666607541,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142959,
+      "num": 33401,
+      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
+      "onboard_time": 1666604542,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139023,
       "num": 49641,
       "word": "故意不给狗狗说吃饭口令时",
@@ -841,14 +873,6 @@
       "onboard_time": 1666590862,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 137932,
-      "num": 33401,
-      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
-      "onboard_time": 1666604542,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137613,
@@ -1035,20 +1059,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98352,
-      "num": 33361,
-      "word": "秋裤是怎么做到全国统一的",
-      "onboard_time": 1666607541,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97411,
       "num": 12914,
       "word": "LGD止步TI六强",
       "onboard_time": 1666525102,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96729,
+      "num": 1250,
+      "word": "今晚八点的打工人",
+      "onboard_time": 1666610001,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 96245,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1666558989,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 74457,
+      "num": 1185,
+      "word": "男子扛600多斤木材下山赚钱养家",
+      "onboard_time": 1666610362,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72666,
@@ -1299,6 +1331,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51833,
+      "num": 1386,
+      "word": "中超联赛",
+      "onboard_time": 1666609402,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51615,
+      "num": 1154,
+      "word": "没想到约个会这么容易社死",
+      "onboard_time": 1666610122,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51129,
       "num": 21163,
       "word": "你的秋裤啥时候上线",
@@ -1313,6 +1361,22 @@
       "onboard_time": 1666567999,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50197,
+      "num": 1138,
+      "word": "女性健康必修课",
+      "onboard_time": 1666609521,
+      "rank": 49,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 48307,
+      "num": 1425,
+      "word": "奋力实现建军一百年奋斗目标",
+      "onboard_time": 1666609463,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 41842,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1666493002,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9194,
+      "num": 1391,
+      "word": "收到请扣1111",
+      "onboard_time": 1666609223,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 7463,
