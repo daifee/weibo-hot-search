@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666604254957,
+  "endTime": 1666605275121,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -259,7 +259,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 400149,
+      "raw_hot": 406869,
       "num": 50171,
       "word": "大龄程序员都去哪儿了",
       "onboard_time": 1666599262,
@@ -339,6 +339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 356473,
+      "num": 21620,
+      "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
+      "onboard_time": 1666603702,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355522,
       "num": 85920,
       "word": "Deft泪洒舞台",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344805,
+      "num": 50043,
+      "word": "恋爱中为什么越独立越有魅力",
+      "onboard_time": 1666599981,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341054,
       "num": 29677,
       "word": "马斯克身价蒸发超1100亿美元",
@@ -411,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306957,
-      "num": 50043,
-      "word": "恋爱中为什么越独立越有魅力",
-      "onboard_time": 1666599981,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 305749,
       "num": 86337,
       "word": "姚晨和彭莱不是一见钟情",
       "onboard_time": 1666590141,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300208,
+      "num": 21619,
+      "word": "曼联愿意放C罗冬窗自由身离队",
+      "onboard_time": 1666602683,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 292947,
@@ -475,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260814,
-      "num": 21248,
-      "word": "曼联愿意放C罗冬窗自由身离队",
-      "onboard_time": 1666602683,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260234,
       "num": 15536,
       "word": "水晶哥",
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232840,
+      "num": 21616,
+      "word": "鬼谷子新皮肤",
+      "onboard_time": 1666601662,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225930,
       "num": 13900,
       "word": "在公司里开咖啡店是什么体验",
@@ -545,14 +561,6 @@
       "onboard_time": 1666594402,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216836,
-      "num": 21233,
-      "word": "鬼谷子新皮肤",
-      "onboard_time": 1666601662,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 215726,
@@ -617,6 +625,22 @@
       "onboard_time": 1666531823,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200106,
+      "num": 21615,
+      "word": "小说里的清冷女主有脸了",
+      "onboard_time": 1666604362,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189585,
+      "num": 49879,
+      "word": "我国建立首个极深地下实验室",
+      "onboard_time": 1666600703,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 183309,
@@ -699,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162593,
-      "num": 49879,
-      "word": "我国建立首个极深地下实验室",
-      "onboard_time": 1666600703,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 161804,
       "num": 147061,
       "word": "中国人把饭碗牢牢端在自己手中",
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139023,
+      "num": 49641,
+      "word": "故意不给狗狗说吃饭口令时",
+      "onboard_time": 1666595303,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138483,
       "num": 138483,
       "word": "解读中国式现代化的五大特征",
@@ -811,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129111,
-      "num": 49641,
-      "word": "故意不给狗狗说吃饭口令时",
-      "onboard_time": 1666595303,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126242,
       "num": 15165,
       "word": "开拓者准绝杀湖人",
@@ -841,6 +857,14 @@
       "onboard_time": 1666566857,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122687,
+      "num": 21609,
+      "word": "怎样实现电车的选择自由",
+      "onboard_time": 1666605202,
+      "rank": 33,
+      "category": "社会议题"
     },
     {
       "raw_hot": 119805,
@@ -891,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112383,
-      "num": 21176,
-      "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
-      "onboard_time": 1666603702,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 107574,
+      "num": 21609,
+      "word": "特斯拉降价对市场有何影响",
+      "onboard_time": 1666601362,
+      "rank": 44,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 105018,
@@ -945,6 +969,14 @@
       "onboard_time": 1666542560,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98021,
+      "num": 21608,
+      "word": "熊猫宝宝为了钻进窝有多拼",
+      "onboard_time": 1666603942,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97411,
@@ -1003,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85903,
+      "num": 21605,
+      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
+      "onboard_time": 1666604542,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83995,
       "num": 11193,
       "word": "层林尽染有多美",
@@ -1051,14 +1091,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 75313,
-      "num": 21114,
-      "word": "特斯拉降价对市场有何影响",
-      "onboard_time": 1666601362,
-      "rank": 44,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 72666,
       "num": 49524,
       "word": "早八人的晚八生活",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1666527924,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68444,
-      "num": 21168,
-      "word": "熊猫宝宝为了钻进窝有多拼",
-      "onboard_time": 1666603942,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66158,
@@ -1192,6 +1216,14 @@
       "word": "重庆300米高空索道桥上跑货车",
       "onboard_time": 1666567338,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59033,
+      "num": 21600,
+      "word": "女子回看结婚录像5毛特效仿佛穿越",
+      "onboard_time": 1666604962,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
