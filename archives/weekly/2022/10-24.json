@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666643378633,
+  "endTime": 1666644399891,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -2059,20 +2059,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 12715,
+      "num": 5325,
+      "word": "一代人有一代人的八点回忆",
+      "onboard_time": 1666642271,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12649,
       "num": 5809,
       "word": "原神兑换码",
       "onboard_time": 1666530085,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12603,
-      "num": 5292,
-      "word": "一代人有一代人的八点回忆",
-      "onboard_time": 1666642271,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 9230,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1666609223,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8061,
+      "num": 5272,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7549,

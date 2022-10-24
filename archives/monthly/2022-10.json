@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666643378633,
+  "endTime": 1666644399891,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -38035,20 +38035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12715,
+      "num": 5325,
+      "word": "一代人有一代人的八点回忆",
+      "onboard_time": 1666642271,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12691,
       "num": 467455,
       "word": "这十年幸福中国开播",
       "onboard_time": 1665660622,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12603,
-      "num": 5292,
-      "word": "一代人有一代人的八点回忆",
-      "onboard_time": 1666642271,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 12451,
@@ -38272,6 +38272,14 @@
       "word": "8000元现金丢失民警发现小猫作案",
       "onboard_time": 1665688690,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8061,
+      "num": 5272,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
