@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666646715980,
+  "endTime": 1666647807353,
   "band_list": [
     {
       "raw_hot": 912060,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35002,
+      "num": 6723,
+      "word": "梅西最后一舞",
+      "onboard_time": 1666644550,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32386,
       "num": 14058,
       "word": "刘宇宁直播唱浮生",
@@ -403,16 +411,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 25620,
-      "num": 6226,
-      "word": "梅西最后一舞",
-      "onboard_time": 1666644550,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17763,
-      "num": 6224,
+      "num": 6682,
       "word": "赵立坚发文推荐重庆洪崖洞",
       "onboard_time": 1666643889,
       "rank": 45,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15238,
+      "num": 6681,
+      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
+      "onboard_time": 1666643771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13598,
       "num": 10479,
       "word": "莲花楼单人海报",
@@ -443,20 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 12715,
-      "num": 6220,
+      "raw_hot": 13577,
+      "num": 6670,
       "word": "一代人有一代人的八点回忆",
       "onboard_time": 1666642271,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10752,
-      "num": 6218,
-      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
-      "onboard_time": 1666643771,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7549,
