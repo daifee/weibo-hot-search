@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 10:44:04
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/24 11:29:41
 </p>
 </blockquote>
 <p>
@@ -2333,6 +2333,12 @@ Doinb（热度：969672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%87%A1%E8%BE%BE2%E7%89%87%E9%95%BF190%E5%88%86%E9%92%9F%23" target="weibo">
 阿凡达2片长190分钟（热度：948834）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E7%8B%AC%E8%8B%97%23" target="weibo">
+JDG独苗（热度：948215）
 </a>
 </li>
 
@@ -5475,6 +5481,12 @@ iPod之父支持iPhone改用C口（热度：552071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23S12%E5%9B%9B%E5%BC%BA%E5%90%8D%E9%A2%9D%E5%85%A8%E9%83%A8%E7%A1%AE%E5%AE%9A%23" target="weibo">
+S12四强名额全部确定（热度：543841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%BB%E5%AD%90%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E9%80%9A%E4%BA%86%23" target="weibo">
 鼻子一下子就通了（热度：543709）
 </a>
@@ -5999,18 +6011,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%90%8D%E5%B9%BC%E7%AB%A5%E8%A2%AB%E5%AE%B6%E4%B8%AD%E4%B8%A4%E5%8F%AA%E6%AF%94%E7%89%B9%E7%8A%AC%E5%92%AC%E6%AD%BB%23" target="weibo">
 美国两名幼童被家中两只比特犬咬死（热度：510146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A5%AE%E6%96%99%E5%8D%B1%E5%AE%B3%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-甜饮料危害到底有多大（热度：510053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E9%B1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%95%E7%8C%AB%E4%BA%86%23" target="weibo">
-终于明白鱼为什么怕猫了（热度：508946）
 </a>
 </li>
 

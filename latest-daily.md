@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/24 00:36:33 ~ 2022/10/24 10:44:04
+本榜单时间：2022/10/24 00:36:33 ~ 2022/10/24 11:29:41
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@ EDG守家奇迹（热度：976671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E7%8B%AC%E8%8B%97%23" target="weibo">
+JDG独苗（热度：948215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E4%B8%8EDRX%E5%86%B3%E8%83%9C%E5%B1%80%23" target="weibo">
 EDG与DRX决胜局（热度：760212）
 </a>
@@ -77,6 +83,12 @@ EDG与DRX决胜局（热度：760212）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E8%BE%9E%E8%81%8C%E5%B8%A684%E5%B2%81%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%23" target="weibo">
 女孩回应辞职带84岁爷爷游中国（热度：545102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23S12%E5%9B%9B%E5%BC%BA%E5%90%8D%E9%A2%9D%E5%85%A8%E9%83%A8%E7%A1%AE%E5%AE%9A%23" target="weibo">
+S12四强名额全部确定（热度：543841）
 </a>
 </li>
 
@@ -123,6 +135,12 @@ EDG手握三个赛点（热度：428527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A5%97%E5%9C%88%E6%8A%80%E6%9C%AF%E5%A4%AA%E5%B7%AE%E8%80%81%E6%9D%BF4%E6%AC%A1%E6%94%BE%E6%B0%B4%23" target="weibo">
+女子套圈技术太差老板4次放水（热度：381519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%B2%89%E8%BF%B7%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%B0%8F%E8%AF%B4%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 父母沉迷看网络小说怎么办（热度：381462）
 </a>
@@ -141,14 +159,26 @@ iPhone15Ultra或采用钛金属外壳（热度：369195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E7%88%B8%E5%B8%A6%E5%A8%83%E5%8A%A0%E7%8F%AD%E8%A2%AB%E5%BC%84%E4%B9%B1%E6%96%87%E4%BB%B6%E5%B4%A9%E6%BA%83%E5%92%86%E5%93%AE%23" target="weibo">
+奶爸带娃加班被弄乱文件崩溃咆哮（热度：368823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E4%BB%B7%E8%92%B8%E5%8F%91%E8%B6%851100%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
 马斯克身价蒸发超1100亿美元（热度：341054）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A5%97%E5%9C%88%E6%8A%80%E6%9C%AF%E5%A4%AA%E5%B7%AE%E8%80%81%E6%9D%BF4%E6%AC%A1%E6%94%BE%E6%B0%B4%23" target="weibo">
-女子套圈技术太差老板4次放水（热度：272813）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%8C%AB%E5%92%8C%E7%8B%97%E4%B9%9F%E4%BC%9A%E5%81%9A%E6%A2%A6%23" target="weibo">
+研究发现猫和狗也会做梦（热度：313750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9D%80%E9%9D%92%23" target="weibo">
+莲花楼杀青（热度：275867）
 </a>
 </li>
 
@@ -171,8 +201,8 @@ iPhone15Ultra或采用钛金属外壳（热度：369195）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9D%80%E9%9D%92%23" target="weibo">
-莲花楼杀青（热度：251239）
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC870269%E4%BA%BF%E5%85%83%23" target="weibo">
+前三季度国内生产总值870269亿元（热度：241272）
 </a>
 </li>
 
@@ -207,6 +237,12 @@ S12淘汰赛（热度：208562）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Deft%E6%B3%AA%E6%B4%92%E8%88%9E%E5%8F%B0%23" target="weibo">
+Deft泪洒舞台（热度：196451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6GDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF3.0%25%23" target="weibo">
 2022前三季度GDP同比增长3.0%（热度：183309）
 </a>
@@ -221,6 +257,18 @@ S12淘汰赛（热度：208562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A6%88%E4%B8%8D%E6%84%BF%E7%8B%97%E5%B4%BD%E8%A2%AB%E6%8A%B1%E5%85%BB%E5%8F%BC%E8%B5%B0%E8%97%8F%E5%8C%BF%23" target="weibo">
 狗妈不愿狗崽被抱养叼走藏匿（热度：178534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82%23" target="weibo">
+程序员节（热度：177460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E9%81%97%E6%86%BE%23" target="weibo">
+EDG遗憾（热度：174814）
 </a>
 </li>
 
@@ -261,8 +309,8 @@ EDG BP（热度：174076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC870269%E4%BA%BF%E5%85%83%23" target="weibo">
-前三季度国内生产总值870269亿元（热度：140638）
+<a href="https://s.weibo.com/weibo?q=%23Viper%23" target="weibo">
+Viper（热度：138035）
 </a>
 </li>
 
@@ -281,6 +329,12 @@ EDG BP（热度：174076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 王楚钦4比3樊振东（热度：133140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E5%A5%B6%E5%A5%B61%E5%88%86%E9%92%9F%E5%89%AA%E5%87%BA%E8%B7%AF%E4%BA%BA%E4%BE%A7%E9%A2%9C%23" target="weibo">
+72岁奶奶1分钟剪出路人侧颜（热度：132058）
 </a>
 </li>
 
@@ -327,6 +381,12 @@ EDG BP（热度：174076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%95%85%E9%9A%9C%E5%8F%91%E8%BF%9F%E5%88%B0%E8%AF%81%E6%98%8E%23" target="weibo">
+南京地铁故障发迟到证明（热度：102671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E5%BE%97%E4%BC%9A%E6%86%8B%E7%AC%91%E6%89%8D%E8%A1%8C%E5%90%A7%23" target="weibo">
 当老师得会憋笑才行吧（热度：100501）
 </a>
@@ -353,6 +413,12 @@ LGD止步TI六强（热度：97411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%20%E4%B9%A6%E8%AE%B0%E5%A4%84%E4%B9%A6%E8%AE%B0%E7%AE%80%E5%8E%86%23" target="weibo">
 二十届中央政治局委员 书记处书记简历（热度：93546）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%B1%85%E6%B0%91%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A527650%E5%85%83%23" target="weibo">
+前三季度全国居民人均可支配收入27650元（热度：92348）
 </a>
 </li>
 
@@ -393,6 +459,18 @@ LGD止步TI六强（热度：97411）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E4%B8%8A%E4%B8%8D%E8%B4%9F%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%B4%9F%E6%97%B6%E4%BB%A3%E7%9A%84%E7%AD%94%E5%8D%B7%23" target="weibo">
+交上不负自己不负时代的答卷（热度：75555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%89%8B%E6%8C%87%E8%A2%AB%E5%8D%A1%E5%B0%91%E5%B9%B4%E4%B8%BA%E6%B6%88%E9%98%B2%E5%91%98%E5%B8%A6%E8%B7%AF%23" target="weibo">
+男孩手指被卡少年为消防员带路（热度：73024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A53%E5%B9%B4%E5%B8%AE72%E4%BA%BA%E5%9B%9E%E5%AE%B6%23" target="weibo">
 福建一外卖小哥3年帮72人回家（热度：72556）
 </a>
@@ -423,6 +501,12 @@ Gemini幸运杯（热度：64707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%9A%84%E8%BF%9C%E5%BE%81%23" target="weibo">
+新的远征（热度：63374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
 致9671.2万个你（热度：62894）
 </a>
@@ -437,12 +521,6 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E5%B0%8F%E7%9A%84%E4%BA%8B%23" target="weibo">
 快乐其实是一件很小的事（热度：60624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E4%B8%8A%E4%B8%8D%E8%B4%9F%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%B4%9F%E6%97%B6%E4%BB%A3%E7%9A%84%E7%AD%94%E5%8D%B7%23" target="weibo">
-交上不负自己不负时代的答卷（热度：60618）
 </a>
 </li>
 
@@ -491,12 +569,6 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%BB%88%E5%9D%9A%E6%8C%81%E4%B8%80%E5%88%87%E4%B8%BA%E4%BA%86%E4%BA%BA%E6%B0%91%E4%B8%80%E5%88%87%E4%BE%9D%E9%9D%A0%E4%BA%BA%E6%B0%91%23" target="weibo">
 始终坚持一切为了人民一切依靠人民（热度：33937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%8C%AB%E5%92%8C%E7%8B%97%E4%B9%9F%E4%BC%9A%E5%81%9A%E6%A2%A6%23" target="weibo">
-研究发现猫和狗也会做梦（热度：30683）
 </a>
 </li>
 

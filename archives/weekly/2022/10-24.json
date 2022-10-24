@@ -1,10 +1,10 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666579444545,
+  "endTime": 1666582181613,
   "band_list": [
     {
       "raw_hot": 5194566,
-      "num": 30226,
+      "num": 30940,
       "word": "DRX战胜EDG",
       "onboard_time": 1666577848,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3048743,
-      "num": 16361,
+      "num": 30814,
       "word": "EDG止步八强",
       "onboard_time": 1666578205,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1376385,
-      "num": 29750,
+      "num": 30900,
       "word": "国考",
       "onboard_time": 1666576941,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1320858,
-      "num": 16231,
+      "num": 30434,
       "word": "圣枪哥",
       "onboard_time": 1666576882,
       "rank": 23,
@@ -51,6 +51,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 948215,
+      "num": 30645,
+      "word": "JDG独苗",
+      "onboard_time": 1666580005,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 760212,
       "num": 16012,
       "word": "EDG与DRX决胜局",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 703451,
-      "num": 15355,
+      "num": 29982,
       "word": "谈恋爱真的会快乐吗",
       "onboard_time": 1666540224,
       "rank": 20,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 564401,
-      "num": 15888,
+      "num": 29862,
       "word": "天选EDG",
       "onboard_time": 1666571363,
       "rank": 29,
@@ -84,11 +92,19 @@
     },
     {
       "raw_hot": 545102,
-      "num": 15742,
+      "num": 29746,
       "word": "女孩回应辞职带84岁爷爷游中国",
       "onboard_time": 1666536505,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543841,
+      "num": 30264,
+      "word": "S12四强名额全部确定",
+      "onboard_time": 1666579824,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 481634,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 462755,
-      "num": 22024,
+      "num": 29008,
       "word": "王楚钦击败五位世界前十",
       "onboard_time": 1666537765,
       "rank": 10,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 455512,
-      "num": 25713,
+      "num": 30603,
       "word": "南京地铁",
       "onboard_time": 1666575801,
       "rank": 15,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 427349,
-      "num": 16319,
+      "num": 30194,
       "word": "苹果又一首席设计师将离职",
       "onboard_time": 1666576581,
       "rank": 21,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 394897,
-      "num": 27173,
+      "num": 30228,
       "word": "特斯拉Model3及ModelY降价",
       "onboard_time": 1666572262,
       "rank": 14,
@@ -140,15 +156,23 @@
     },
     {
       "raw_hot": 387608,
-      "num": 16258,
+      "num": 30393,
       "word": "乘客打车200公里没付钱的哥报警",
       "onboard_time": 1666576282,
       "rank": 22,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381519,
+      "num": 30510,
+      "word": "女子套圈技术太差老板4次放水",
+      "onboard_time": 1666577848,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381462,
-      "num": 15409,
+      "num": 29252,
       "word": "父母沉迷看网络小说怎么办",
       "onboard_time": 1666541183,
       "rank": 23,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 370401,
-      "num": 24360,
+      "num": 30076,
       "word": "芳心荡漾定档1026",
       "onboard_time": 1666577667,
       "rank": 17,
@@ -164,31 +188,47 @@
     },
     {
       "raw_hot": 369195,
-      "num": 15605,
+      "num": 29569,
       "word": "iPhone15Ultra或采用钛金属外壳",
       "onboard_time": 1666536025,
       "rank": 21,
       "category": "科技"
     },
     {
+      "raw_hot": 368823,
+      "num": 30853,
+      "word": "奶爸带娃加班被弄乱文件崩溃咆哮",
+      "onboard_time": 1666580544,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341054,
-      "num": 16161,
+      "num": 29677,
       "word": "马斯克身价蒸发超1100亿美元",
       "onboard_time": 1666573581,
       "rank": 24,
       "category": "财经"
     },
     {
-      "raw_hot": 272813,
-      "num": 16000,
-      "word": "女子套圈技术太差老板4次放水",
-      "onboard_time": 1666577848,
-      "rank": 27,
+      "raw_hot": 313750,
+      "num": 30683,
+      "word": "研究发现猫和狗也会做梦",
+      "onboard_time": 1666579165,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275867,
+      "num": 30135,
+      "word": "莲花楼杀青",
+      "onboard_time": 1666578384,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271943,
-      "num": 16087,
+      "num": 29639,
       "word": "10月23日新增本土无症状751例",
       "onboard_time": 1666576102,
       "rank": 25,
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 262214,
-      "num": 15944,
+      "num": 29466,
       "word": "复合后的感情和从前一样吗",
       "onboard_time": 1666573224,
       "rank": 28,
@@ -211,12 +251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251239,
-      "num": 15803,
-      "word": "莲花楼杀青",
-      "onboard_time": 1666578384,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 241272,
+      "num": 64674,
+      "word": "前三季度国内生产总值870269亿元",
+      "onboard_time": 1666578088,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 223753,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 203312,
-      "num": 15646,
+      "num": 29290,
       "word": "妈妈陪5岁儿子共绘猜猜绘本",
       "onboard_time": 1666575619,
       "rank": 33,
@@ -252,15 +292,23 @@
     },
     {
       "raw_hot": 201634,
-      "num": 15094,
+      "num": 28942,
       "word": "甄嬛不愧是反恋爱脑大师",
       "onboard_time": 1666531823,
       "rank": 27,
       "category": "影视"
     },
     {
+      "raw_hot": 196451,
+      "num": 30010,
+      "word": "Deft泪洒舞台",
+      "onboard_time": 1666581924,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183309,
-      "num": 28834,
+      "num": 58801,
       "word": "2022前三季度GDP同比增长3.0%",
       "onboard_time": 1666578565,
       "rank": 12,
@@ -276,11 +324,27 @@
     },
     {
       "raw_hot": 178534,
-      "num": 15466,
+      "num": 29234,
       "word": "狗妈不愿狗崽被抱养叼走藏匿",
       "onboard_time": 1666569981,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177460,
+      "num": 30675,
+      "word": "程序员节",
+      "onboard_time": 1666582043,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174814,
+      "num": 29698,
+      "word": "EDG遗憾",
+      "onboard_time": 1666581382,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 174076,
@@ -331,16 +395,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140638,
-      "num": 27555,
-      "word": "前三季度国内生产总值870269亿元",
-      "onboard_time": 1666578088,
-      "rank": 13,
-      "category": "财经,社会新闻"
+      "raw_hot": 138035,
+      "num": 29362,
+      "word": "Viper",
+      "onboard_time": 1666581863,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 137613,
-      "num": 15223,
+      "num": 29101,
       "word": "章鱼哥演我上班心情",
       "onboard_time": 1666572741,
       "rank": 40,
@@ -348,7 +412,7 @@
     },
     {
       "raw_hot": 134436,
-      "num": 15115,
+      "num": 29050,
       "word": "山东95岁老战士查体发现颈部有子弹",
       "onboard_time": 1666532363,
       "rank": 31,
@@ -361,6 +425,14 @@
       "onboard_time": 1666529184,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132058,
+      "num": 29146,
+      "word": "72岁奶奶1分钟剪出路人侧颜",
+      "onboard_time": 1666578565,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126242,
@@ -419,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102671,
+      "num": 29799,
+      "word": "南京地铁故障发迟到证明",
+      "onboard_time": 1666581863,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100501,
       "num": 12793,
       "word": "当老师得会憋笑才行吧",
@@ -457,6 +537,14 @@
       "onboard_time": 1666527082,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92348,
+      "num": 30469,
+      "word": "前三季度全国居民人均可支配收入27650元",
+      "onboard_time": 1666580963,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 87193,
@@ -507,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75555,
+      "num": 75555,
+      "word": "交上不负自己不负时代的答卷",
+      "onboard_time": 1666558989,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 73024,
+      "num": 30743,
+      "word": "男孩手指被卡少年为消防员带路",
+      "onboard_time": 1666580483,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72556,
       "num": 12440,
       "word": "福建一外卖小哥3年帮72人回家",
@@ -547,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63374,
+      "num": 114755,
+      "word": "新的远征",
+      "onboard_time": 1666582043,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 62894,
       "num": 62894,
       "word": "致9671.2万个你",
@@ -569,14 +681,6 @@
       "onboard_time": 1666525645,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60618,
-      "num": 60618,
-      "word": "交上不负自己不负时代的答卷",
-      "onboard_time": 1666558989,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 60585,
@@ -643,14 +747,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 30683,
-      "num": 30683,
-      "word": "研究发现猫和狗也会做梦",
-      "onboard_time": 1666579165,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27797,
       "num": 27797,
       "word": "新一届中央政治局常委同中外记者见面",
@@ -660,7 +756,7 @@
     },
     {
       "raw_hot": 24019,
-      "num": 24019,
+      "num": 29494,
       "word": "时政微视频新征程上",
       "onboard_time": 1666575982,
       "rank": 18,
