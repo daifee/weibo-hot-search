@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666647807353,
+  "endTime": 1666650437028,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -34843,6 +34843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68147,
+      "num": 10934,
+      "word": "梅西最后一舞",
+      "onboard_time": 1666644550,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68005,
       "num": 68005,
       "word": "北控男篮vs深圳男篮",
@@ -36107,6 +36115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54768,
+      "num": 10913,
+      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
+      "onboard_time": 1666643771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54735,
       "num": 55929,
       "word": "谭松韵饰演的李心遥好励志",
@@ -37331,14 +37347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35002,
-      "num": 6723,
-      "word": "梅西最后一舞",
-      "onboard_time": 1666644550,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34833,
       "num": 34833,
       "word": "利物浦3比3布莱顿",
@@ -37403,20 +37411,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32577,
+      "num": 14058,
+      "word": "刘宇宁直播唱浮生",
+      "onboard_time": 1666631417,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
       "onboard_time": 1664913011,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32386,
-      "num": 14058,
-      "word": "刘宇宁直播唱浮生",
-      "onboard_time": 1666631417,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 32170,
@@ -37795,20 +37803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17967,
+      "num": 10769,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17857,
       "num": 17857,
       "word": "你看见的是我为你定制的性格",
       "onboard_time": 1665090250,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 17763,
-      "num": 6682,
-      "word": "赵立坚发文推荐重庆洪崖洞",
-      "onboard_time": 1666643889,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17546,
@@ -37888,14 +37896,6 @@
       "word": "那位培养大师的大师走了",
       "onboard_time": 1666632974,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15238,
-      "num": 6681,
-      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
-      "onboard_time": 1666643771,
-      "rank": 38,
       "category": "社会新闻"
     },
     {

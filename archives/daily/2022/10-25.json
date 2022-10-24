@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666647807353,
+  "endTime": 1666650437028,
   "band_list": [
     {
       "raw_hot": 912060,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68147,
+      "num": 10934,
+      "word": "梅西最后一舞",
+      "onboard_time": 1666644550,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67313,
       "num": 27821,
       "word": "2023年国考招录应届生占比为近年来最高",
@@ -313,6 +321,14 @@
       "onboard_time": 1666609642,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54768,
+      "num": 10913,
+      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
+      "onboard_time": 1666643771,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54644,
@@ -387,15 +403,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35002,
-      "num": 6723,
-      "word": "梅西最后一舞",
-      "onboard_time": 1666644550,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32386,
+      "raw_hot": 32577,
       "num": 14058,
       "word": "刘宇宁直播唱浮生",
       "onboard_time": 1666631417,
@@ -411,20 +419,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 17763,
-      "num": 6682,
-      "word": "赵立坚发文推荐重庆洪崖洞",
-      "onboard_time": 1666643889,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16934,
+      "raw_hot": 18887,
       "num": 14039,
       "word": "苏纳克当选英国保守党党首",
       "onboard_time": 1666617387,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 17967,
+      "num": 10769,
+      "word": "赵立坚发文推荐重庆洪崖洞",
+      "onboard_time": 1666643889,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15271,
@@ -435,16 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15238,
-      "num": 6681,
-      "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
-      "onboard_time": 1666643771,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13598,
-      "num": 10479,
+      "num": 10703,
       "word": "莲花楼单人海报",
       "onboard_time": 1666620506,
       "rank": 49,
@@ -457,6 +457,14 @@
       "onboard_time": 1666642271,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12380,
+      "num": 10715,
+      "word": "女子回看结婚录像5毛特效仿佛穿越",
+      "onboard_time": 1666604962,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7549,
