@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666605275121,
+  "endTime": 1666607595988,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -43,6 +43,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1314313,
+      "num": 33449,
+      "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
+      "onboard_time": 1666603702,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1141362,
       "num": 90778,
       "word": "国考职位表",
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855042,
+      "num": 33445,
+      "word": "2022MAMA提名公布",
+      "onboard_time": 1666606402,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 801132,
       "num": 60640,
       "word": "特斯拉官宣降价立即引发维权",
@@ -113,6 +129,14 @@
       "onboard_time": 1666597582,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627729,
+      "num": 33444,
+      "word": "小说里的清冷女主有脸了",
+      "onboard_time": 1666604362,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 624486,
@@ -339,14 +363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 356473,
-      "num": 21620,
-      "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
-      "onboard_time": 1666603702,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355522,
       "num": 85920,
       "word": "Deft泪洒舞台",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 300208,
-      "num": 21619,
+      "num": 33419,
       "word": "曼联愿意放C罗冬窗自由身离队",
       "onboard_time": 1666602683,
       "rank": 18,
@@ -449,6 +465,14 @@
       "onboard_time": 1666599502,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282049,
+      "num": 33431,
+      "word": "女子回看结婚录像5毛特效仿佛穿越",
+      "onboard_time": 1666604962,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275867,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 232840,
-      "num": 21616,
+      "num": 33419,
       "word": "鬼谷子新皮肤",
       "onboard_time": 1666601662,
       "rank": 47,
@@ -624,14 +648,6 @@
       "word": "甄嬛不愧是反恋爱脑大师",
       "onboard_time": 1666531823,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 200106,
-      "num": 21615,
-      "word": "小说里的清冷女主有脸了",
-      "onboard_time": 1666604362,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156774,
+      "num": 33412,
+      "word": "中科院院士彭一刚逝世",
+      "onboard_time": 1666605623,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155145,
       "num": 60631,
       "word": "退伍大学生当教官带出全校第一",
@@ -777,6 +801,14 @@
       "onboard_time": 1666506501,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143449,
+      "num": 45026,
+      "word": "国乒出征新乡WTT决赛",
+      "onboard_time": 1666606641,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 139023,
@@ -827,11 +859,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132692,
+      "num": 33405,
+      "word": "特斯拉降价对市场有何影响",
+      "onboard_time": 1666601362,
+      "rank": 44,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 132058,
       "num": 29146,
       "word": "72岁奶奶1分钟剪出路人侧颜",
       "onboard_time": 1666578565,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127850,
+      "num": 33401,
+      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
+      "onboard_time": 1666604542,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -915,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107574,
-      "num": 21609,
-      "word": "特斯拉降价对市场有何影响",
-      "onboard_time": 1666601362,
-      "rank": 44,
-      "category": "财经,科技"
+      "raw_hot": 109762,
+      "num": 33387,
+      "word": "熊猫宝宝为了钻进窝有多拼",
+      "onboard_time": 1666603942,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105018,
@@ -969,14 +1017,6 @@
       "onboard_time": 1666542560,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98021,
-      "num": 21608,
-      "word": "熊猫宝宝为了钻进窝有多拼",
-      "onboard_time": 1666603942,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97411,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1666523541,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85903,
-      "num": 21605,
-      "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
-      "onboard_time": 1666604542,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83995,
@@ -1123,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66418,
+      "num": 33368,
+      "word": "95后小伙用10年从专科逆袭斯坦福",
+      "onboard_time": 1666602504,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 66158,
       "num": 12601,
       "word": "女子未回信息朋友飞无人机探查",
@@ -1136,6 +1176,14 @@
       "word": "王楚钦樊振东神仙打架",
       "onboard_time": 1666535964,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65916,
+      "num": 40991,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1666607422,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -1219,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59033,
-      "num": 21600,
-      "word": "女子回看结婚录像5毛特效仿佛穿越",
-      "onboard_time": 1666604962,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54311,
       "num": 12511,
       "word": "东北搓澡时的各种暗号",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1666568419,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 53590,
+      "num": 33361,
+      "word": "秋裤是怎么做到全国统一的",
+      "onboard_time": 1666607541,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 51129,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1666552631,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13530,
+      "num": 33438,
+      "word": "京东预售卖疯了",
+      "onboard_time": 1666605683,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 13246,
