@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666621468857,
+  "endTime": 1666623305416,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -35,20 +35,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1455003,
+      "num": 82903,
+      "word": "双十一",
+      "onboard_time": 1666613158,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1376385,
       "num": 85293,
       "word": "国考",
       "onboard_time": 1666576941,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1354900,
-      "num": 82903,
-      "word": "双十一",
-      "onboard_time": 1666613158,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 1320858,
@@ -89,6 +89,14 @@
       "onboard_time": 1666608563,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1034532,
+      "num": 61424,
+      "word": "泰森",
+      "onboard_time": 1666619965,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 976671,
@@ -145,14 +153,6 @@
       "onboard_time": 1666606402,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 831472,
-      "num": 61424,
-      "word": "泰森",
-      "onboard_time": 1666619965,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 801132,
@@ -217,6 +217,22 @@
       "onboard_time": 1666597641,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 614418,
+      "num": 62758,
+      "word": "新郎回应婚礼现场送新娘1张彩票",
+      "onboard_time": 1666618644,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588538,
+      "num": 56748,
+      "word": "林莉官宣退役",
+      "onboard_time": 1666621225,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 580491,
@@ -291,19 +307,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543175,
+      "num": 52896,
+      "word": "欧诗漫",
+      "onboard_time": 1666622247,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 515990,
       "num": 82773,
       "word": "男子拒绝体检双脚肿胀查出尿毒症",
       "onboard_time": 1666614262,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492064,
-      "num": 62758,
-      "word": "新郎回应婚礼现场送新娘1张彩票",
-      "onboard_time": 1666618644,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1666575801,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454014,
+      "num": 56812,
+      "word": "iPad评测",
+      "onboard_time": 1666620686,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 428527,
@@ -595,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 302385,
-      "num": 56812,
-      "word": "iPad评测",
-      "onboard_time": 1666620686,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 301919,
       "num": 69382,
       "word": "老乡鸡毛都被薅秃了",
@@ -627,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291825,
+      "num": 52046,
+      "word": "陈伟霆电影爆裂点杀青",
+      "onboard_time": 1666623206,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281339,
       "num": 69473,
       "word": "成毅告别莲花楼",
@@ -643,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278765,
+      "num": 62621,
+      "word": "晚八文学",
+      "onboard_time": 1666618644,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 275867,
       "num": 30135,
       "word": "莲花楼杀青",
@@ -657,14 +689,6 @@
       "onboard_time": 1666611921,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272625,
-      "num": 62621,
-      "word": "晚八文学",
-      "onboard_time": 1666618644,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 271943,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226732,
+      "num": 59236,
+      "word": "友谊一定都是阶段性的吗",
+      "onboard_time": 1666619605,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225930,
       "num": 13900,
       "word": "在公司里开咖啡店是什么体验",
@@ -787,7 +819,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218010,
+      "raw_hot": 218789,
       "num": 69369,
       "word": "男子生吞小螃蟹感染寄生虫",
       "onboard_time": 1666617267,
@@ -803,12 +835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215693,
+      "num": 49257,
+      "word": "成毅新剧角色适配度",
+      "onboard_time": 1666623266,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213301,
       "num": 29799,
       "word": "南京地铁故障发迟到证明",
       "onboard_time": 1666581863,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212690,
+      "num": 51653,
+      "word": "刘宇宁直播",
+      "onboard_time": 1666622247,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208949,
@@ -859,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199998,
+      "num": 53760,
+      "word": "理发店给农民工免费理发却被迫涨价",
+      "onboard_time": 1666622127,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193953,
       "num": 56778,
       "word": "莲花楼单人海报",
@@ -889,6 +945,14 @@
       "onboard_time": 1666606641,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184786,
+      "num": 56728,
+      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
+      "onboard_time": 1666621465,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183309,
@@ -987,6 +1051,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 158726,
+      "num": 53635,
+      "word": "手机备忘录能有多重要",
+      "onboard_time": 1666622846,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 158240,
       "num": 30743,
       "word": "男孩手指被卡少年为消防员带路",
@@ -1048,6 +1120,14 @@
       "word": "牛排还能炒着吃",
       "onboard_time": 1666614022,
       "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 144677,
+      "num": 58421,
+      "word": "把子肉才是下饭届的扛把子",
+      "onboard_time": 1666620325,
+      "rank": 48,
       "category": "美食"
     },
     {
@@ -1243,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112282,
-      "num": 59236,
-      "word": "友谊一定都是阶段性的吗",
-      "onboard_time": 1666619605,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109762,
       "num": 55804,
       "word": "熊猫宝宝为了钻进窝有多拼",
@@ -1363,28 +1435,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 92437,
-      "num": 58421,
-      "word": "把子肉才是下饭届的扛把子",
-      "onboard_time": 1666620325,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 92348,
       "num": 30469,
       "word": "前三季度全国居民人均可支配收入27650元",
       "onboard_time": 1666580963,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90712,
-      "num": 56748,
-      "word": "林莉官宣退役",
-      "onboard_time": 1666621225,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 89372,
@@ -1419,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85239,
+      "num": 62001,
+      "word": "老人骑车摔倒男子立刻停车冲去救人",
+      "onboard_time": 1666620026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83995,
       "num": 11193,
       "word": "层林尽染有多美",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1666613001,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82248,
+      "num": 49875,
+      "word": "沉睡千年竹简复原过程太治愈",
+      "onboard_time": 1666622846,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80180,
@@ -1515,6 +1587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 70872,
+      "num": 49128,
+      "word": "浙江一学生刮腻子刮成世界冠军",
+      "onboard_time": 1666623087,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 68829,
       "num": 12723,
       "word": "明日方舟",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1666589182,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 63458,
-      "num": 56728,
-      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
-      "onboard_time": 1666621465,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63374,
@@ -1704,14 +1776,6 @@
       "word": "嫦娥一号发射成功15周年",
       "onboard_time": 1666616123,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44445,
-      "num": 62001,
-      "word": "老人骑车摔倒男子立刻停车冲去救人",
-      "onboard_time": 1666620026,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
