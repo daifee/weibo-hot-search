@@ -1,0 +1,410 @@
+{
+  "runTime": 1666639825778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 31172,
+        "num": 42062,
+        "word": "共同富裕不是平均主义不是劫富济贫",
+        "onboard_time": 1666609042,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 6387,
+        "num": 6387,
+        "word": "防止领导干部成为利益集团和权势团体代言人",
+        "onboard_time": 1666592720,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1602,
+        "num": 6387,
+        "word": "新的远征",
+        "onboard_time": 1666582043,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81855,
+        "num": 6387,
+        "word": "男子双色球中2.19亿捐500万",
+        "onboard_time": 1666623386,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49392,
+        "num": 6386,
+        "word": "土狗被扔50公里外一星期后跑回家",
+        "onboard_time": 1666625007,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56308,
+        "num": 6386,
+        "word": "双十一",
+        "onboard_time": 1666613158,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36940,
+        "num": 6386,
+        "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
+        "onboard_time": 1666626806,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33909,
+        "num": 6386,
+        "word": "新郎回应婚礼现场送新娘1张彩票",
+        "onboard_time": 1666618644,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28286,
+        "num": 6385,
+        "word": "浙江一学生刮腻子刮成世界冠军",
+        "onboard_time": 1666623087,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24664,
+        "num": 6384,
+        "word": "小狗每天串门找小猫玩耍",
+        "onboard_time": 1666625845,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61575,
+        "num": 6384,
+        "word": "泰森",
+        "onboard_time": 1666619965,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47636,
+        "num": 6384,
+        "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
+        "onboard_time": 1666603702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43622,
+        "num": 6383,
+        "word": "英国迎首位印度裔首相",
+        "onboard_time": 1666617686,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 35300,
+        "num": 6383,
+        "word": "珀莱雅",
+        "onboard_time": 1666616123,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27574,
+        "num": 6382,
+        "word": "丝塔芙",
+        "onboard_time": 1666625427,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 24564,
+        "num": 6382,
+        "word": "理发店给农民工免费理发却被迫涨价",
+        "onboard_time": 1666622127,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24127,
+        "num": 6382,
+        "word": "手机备忘录能有多重要",
+        "onboard_time": 1666622846,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 22514,
+        "num": 6382,
+        "word": "今天好多明星直播",
+        "onboard_time": 1666619364,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22185,
+        "num": 6381,
+        "word": "男子生吞小螃蟹感染寄生虫",
+        "onboard_time": 1666617267,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21204,
+        "num": 6381,
+        "word": "娇兰",
+        "onboard_time": 1666625364,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20262,
+        "num": 6380,
+        "word": "刘宇宁直播唱浮生",
+        "onboard_time": 1666631417,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19674,
+        "num": 6380,
+        "word": "优时颜",
+        "onboard_time": 1666624046,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 19211,
+        "num": 6379,
+        "word": "小说里的清冷女主有脸了",
+        "onboard_time": 1666604362,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18755,
+        "num": 6379,
+        "word": "林莉官宣退役",
+        "onboard_time": 1666621225,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18335,
+        "num": 6379,
+        "word": "男子拒绝体检双脚肿胀查出尿毒症",
+        "onboard_time": 1666614262,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18155,
+        "num": 6379,
+        "word": "妈妈用相机拍下宝宝逛超市视角",
+        "onboard_time": 1666628781,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17106,
+        "num": 6378,
+        "word": "成毅新剧角色适配度",
+        "onboard_time": 1666623266,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16386,
+        "num": 6377,
+        "word": "170斤爸爸陪6岁女儿躲猫猫藏衣柜",
+        "onboard_time": 1666612343,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16355,
+        "num": 6377,
+        "word": "苏纳克当选英国保守党党首",
+        "onboard_time": 1666617387,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 15968,
+        "num": 6377,
+        "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
+        "onboard_time": 1666621465,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15864,
+        "num": 6377,
+        "word": "男生用湿巾盖自制开门口罩做核酸",
+        "onboard_time": 1666624947,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15370,
+        "num": 6376,
+        "word": "老乡鸡毛都被薅秃了",
+        "onboard_time": 1666614984,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14967,
+        "num": 6376,
+        "word": "2022MAMA提名公布",
+        "onboard_time": 1666606402,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14953,
+        "num": 6375,
+        "word": "莲花楼",
+        "onboard_time": 1666623747,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14950,
+        "num": 6375,
+        "word": "双十一电商平台有多内卷",
+        "onboard_time": 1666617565,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 13766,
+        "num": 6375,
+        "word": "中国积极申办2031年女足世界杯",
+        "onboard_time": 1666609642,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13538,
+        "num": 6374,
+        "word": "欧诗漫",
+        "onboard_time": 1666622247,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12908,
+        "num": 6374,
+        "word": "2022MAMA最佳女艺人提名",
+        "onboard_time": 1666613722,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12792,
+        "num": 6373,
+        "word": "那位培养大师的大师走了",
+        "onboard_time": 1666632974,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12665,
+        "num": 6373,
+        "word": "00后女孩左眼失明练书法走出自卑",
+        "onboard_time": 1666615403,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12419,
+        "num": 6373,
+        "word": "Lehends带格里芬重聚",
+        "onboard_time": 1666614322,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11854,
+        "num": 6372,
+        "word": "前任送的礼物该如何处理",
+        "onboard_time": 1666615103,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11783,
+        "num": 6372,
+        "word": "今晚八点的打工人",
+        "onboard_time": 1666610001,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11686,
+        "num": 6371,
+        "word": "王一博firstframe年度推介人",
+        "onboard_time": 1666623504,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11289,
+        "num": 6371,
+        "word": "古偶与扇子适配度",
+        "onboard_time": 1666629560,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9601,
+        "num": 6371,
+        "word": "友谊一定都是阶段性的吗",
+        "onboard_time": 1666619605,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9088,
+        "num": 6370,
+        "word": "2023年国考招录应届生占比为近年来最高",
+        "onboard_time": 1666611383,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8628,
+        "num": 6370,
+        "word": "当然要和爱的人分享晚霞啊",
+        "onboard_time": 1666611562,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7767,
+        "num": 6369,
+        "word": "把子肉才是下饭届的扛把子",
+        "onboard_time": 1666620325,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 7631,
+        "num": 6369,
+        "word": "莲花楼单人海报",
+        "onboard_time": 1666620506,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#直播解读二十大报告#"
+    }
+  }
+}
