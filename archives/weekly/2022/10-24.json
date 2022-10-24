@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666620435361,
+  "endTime": 1666621468857,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1354900,
+      "num": 82903,
+      "word": "双十一",
+      "onboard_time": 1666613158,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1320858,
       "num": 85392,
       "word": "圣枪哥",
@@ -57,14 +65,6 @@
       "onboard_time": 1666603702,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1308785,
-      "num": 82903,
-      "word": "双十一",
-      "onboard_time": 1666613158,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 1150166,
@@ -115,6 +115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 916129,
+      "num": 62404,
+      "word": "今天好多明星直播",
+      "onboard_time": 1666619364,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885489,
       "num": 885489,
       "word": "防止领导干部成为利益集团和权势团体代言人",
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 831472,
+      "num": 61424,
+      "word": "泰森",
+      "onboard_time": 1666619965,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 801132,
       "num": 82446,
       "word": "特斯拉官宣降价立即引发维权",
@@ -155,20 +171,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 751938,
-      "num": 62404,
-      "word": "今天好多明星直播",
-      "onboard_time": 1666619364,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 749020,
       "num": 82855,
       "word": "小说里的清冷女主有脸了",
       "onboard_time": 1666604362,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 737346,
+      "num": 69942,
+      "word": "双十一电商平台有多内卷",
+      "onboard_time": 1666617565,
+      "rank": 7,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 708976,
@@ -185,14 +201,6 @@
       "onboard_time": 1666540224,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 686602,
-      "num": 69942,
-      "word": "双十一电商平台有多内卷",
-      "onboard_time": 1666617565,
-      "rank": 7,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 650886,
@@ -288,6 +296,14 @@
       "word": "男子拒绝体检双脚肿胀查出尿毒症",
       "onboard_time": 1666614262,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492064,
+      "num": 62758,
+      "word": "新郎回应婚礼现场送新娘1张彩票",
+      "onboard_time": 1666618644,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -539,14 +555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 340495,
-      "num": 62758,
-      "word": "新郎回应婚礼现场送新娘1张彩票",
-      "onboard_time": 1666618644,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336924,
       "num": 89707,
       "word": "Meiko和Deft拥抱",
@@ -585,6 +593,14 @@
       "onboard_time": 1666590141,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302385,
+      "num": 56812,
+      "word": "iPad评测",
+      "onboard_time": 1666620686,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 301919,
@@ -635,20 +651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273836,
-      "num": 61424,
-      "word": "泰森",
-      "onboard_time": 1666619965,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273328,
       "num": 83107,
       "word": "武磊帽子戏法",
       "onboard_time": 1666611921,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272625,
+      "num": 62621,
+      "word": "晚八文学",
+      "onboard_time": 1666618644,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 271943,
@@ -843,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193953,
+      "num": 56778,
+      "word": "莲花楼单人海报",
+      "onboard_time": 1666620506,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189585,
       "num": 54889,
       "word": "我国建立首个极深地下实验室",
@@ -873,14 +897,6 @@
       "onboard_time": 1666578565,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180455,
-      "num": 62621,
-      "word": "晚八文学",
-      "onboard_time": 1666618644,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 179579,
@@ -1227,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112282,
+      "num": 59236,
+      "word": "友谊一定都是阶段性的吗",
+      "onboard_time": 1666619605,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109762,
       "num": 55804,
       "word": "熊猫宝宝为了钻进窝有多拼",
@@ -1339,12 +1363,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 92437,
+      "num": 58421,
+      "word": "把子肉才是下饭届的扛把子",
+      "onboard_time": 1666620325,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92348,
       "num": 30469,
       "word": "前三季度全国居民人均可支配收入27650元",
       "onboard_time": 1666580963,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90712,
+      "num": 56748,
+      "word": "林莉官宣退役",
+      "onboard_time": 1666621225,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 89372,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1666566919,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82902,
-      "num": 59236,
-      "word": "友谊一定都是阶段性的吗",
-      "onboard_time": 1666619605,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 82623,
@@ -1531,20 +1563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64590,
-      "num": 58421,
-      "word": "把子肉才是下饭届的扛把子",
-      "onboard_time": 1666620325,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 64554,
       "num": 64554,
       "word": "龙之家族",
       "onboard_time": 1666589182,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63458,
+      "num": 56728,
+      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
+      "onboard_time": 1666621465,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63374,
@@ -1672,6 +1704,14 @@
       "word": "嫦娥一号发射成功15周年",
       "onboard_time": 1666616123,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44445,
+      "num": 62001,
+      "word": "老人骑车摔倒男子立刻停车冲去救人",
+      "onboard_time": 1666620026,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1809,14 +1849,6 @@
       "onboard_time": 1666520001,
       "rank": 15,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 15030,
-      "num": 62001,
-      "word": "老人骑车摔倒男子立刻停车冲去救人",
-      "onboard_time": 1666620026,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13537,

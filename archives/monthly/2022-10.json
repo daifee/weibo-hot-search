@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666620435361,
+  "endTime": 1666621468857,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -1523,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1354900,
+      "num": 82903,
+      "word": "双十一",
+      "onboard_time": 1666613158,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1354657,
       "num": 1354657,
       "word": "外公床头抠洞塞钱2年存了3万多",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1665157527,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1308785,
-      "num": 82903,
-      "word": "双十一",
-      "onboard_time": 1666613158,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 1300166,
@@ -3347,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 916129,
+      "num": 62404,
+      "word": "今天好多明星直播",
+      "onboard_time": 1666619364,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913762,
       "num": 52869,
       "word": "选文科真的是因为热爱",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1665375686,
       "rank": 9,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 831472,
+      "num": 61424,
+      "word": "泰森",
+      "onboard_time": 1666619965,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 830237,
@@ -4547,14 +4563,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 751938,
-      "num": 62404,
-      "word": "今天好多明星直播",
-      "onboard_time": 1666619364,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 751491,
       "num": 642732,
       "word": "单身了很久的人在想什么",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1665652225,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 737346,
+      "num": 69942,
+      "word": "双十一电商平台有多内卷",
+      "onboard_time": 1666617565,
+      "rank": 7,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 736056,
@@ -5337,14 +5353,6 @@
       "onboard_time": 1666354702,
       "rank": 5,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 686602,
-      "num": 69942,
-      "word": "双十一电商平台有多内卷",
-      "onboard_time": 1666617565,
-      "rank": 7,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 686452,
@@ -8553,6 +8561,14 @@
       "onboard_time": 1666433424,
       "rank": 15,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 492064,
+      "num": 62758,
+      "word": "新郎回应婚礼现场送新娘1张彩票",
+      "onboard_time": 1666618644,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491791,
@@ -13451,14 +13467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 340495,
-      "num": 62758,
-      "word": "新郎回应婚礼现场送新娘1张彩票",
-      "onboard_time": 1666618644,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340323,
       "num": 340323,
       "word": "最后一次和喜欢的人的对话",
@@ -15043,6 +15051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302385,
+      "num": 56812,
+      "word": "iPad评测",
+      "onboard_time": 1666620686,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 302276,
       "num": 113411,
       "word": "全面排查减刑假释暂予监外执行案件",
@@ -16491,14 +16507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273836,
-      "num": 61424,
-      "word": "泰森",
-      "onboard_time": 1666619965,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273806,
       "num": 273806,
       "word": "自我满足真的很爽",
@@ -16609,6 +16617,14 @@
       "onboard_time": 1665258431,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272625,
+      "num": 62621,
+      "word": "晚八文学",
+      "onboard_time": 1666618644,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 272585,
@@ -22283,6 +22299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193953,
+      "num": 56778,
+      "word": "莲花楼单人海报",
+      "onboard_time": 1666620506,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193923,
       "num": 185607,
       "word": "高卿尘第一部古装新剧开机",
@@ -23505,14 +23529,6 @@
       "onboard_time": 1664995212,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180455,
-      "num": 62621,
-      "word": "晚八文学",
-      "onboard_time": 1666618644,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 180335,
@@ -30083,6 +30099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 112282,
+      "num": 59236,
+      "word": "友谊一定都是阶段性的吗",
+      "onboard_time": 1666619605,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112273,
       "num": 112273,
       "word": "被唐诡弹幕笑死",
@@ -32155,6 +32179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92437,
+      "num": 58421,
+      "word": "把子肉才是下饭届的扛把子",
+      "onboard_time": 1666620325,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92390,
       "num": 413304,
       "word": "陈幸同3比0迪亚兹",
@@ -32321,6 +32353,14 @@
       "onboard_time": 1664947940,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90712,
+      "num": 56748,
+      "word": "林莉官宣退役",
+      "onboard_time": 1666621225,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 90603,
@@ -33225,14 +33265,6 @@
       "onboard_time": 1664700624,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82902,
-      "num": 59236,
-      "word": "友谊一定都是阶段性的吗",
-      "onboard_time": 1666619605,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 82748,
@@ -35043,14 +35075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 64590,
-      "num": 58421,
-      "word": "把子肉才是下饭届的扛把子",
-      "onboard_time": 1666620325,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 64508,
       "num": 29406,
       "word": "盛会闭幕张桂梅有句心里话",
@@ -35136,6 +35160,14 @@
       "word": "数十名车主移动围挡为消防车开路",
       "onboard_time": 1666173625,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63458,
+      "num": 56728,
+      "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
+      "onboard_time": 1666621465,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -36635,6 +36667,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44445,
+      "num": 62001,
+      "word": "老人骑车摔倒男子立刻停车冲去救人",
+      "onboard_time": 1666620026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44152,
       "num": 238451,
       "word": "9个字细读党的二十大报告",
@@ -37655,14 +37695,6 @@
       "num": 29230,
       "word": "历史照亮未来征程未有穷期",
       "onboard_time": 1666497686,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15030,
-      "num": 62001,
-      "word": "老人骑车摔倒男子立刻停车冲去救人",
-      "onboard_time": 1666620026,
       "rank": 14,
       "category": "社会新闻"
     },
