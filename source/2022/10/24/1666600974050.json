@@ -1,0 +1,410 @@
+{
+  "runTime": 1666600974050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 396635,
+        "num": 396635,
+        "word": "防止领导干部成为利益集团和权势团体代言人",
+        "onboard_time": 1666592720,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 108215,
+        "word": "未来五年我们这样干",
+        "onboard_time": 1666583183,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28391,
+        "num": 70700,
+        "word": "新的远征",
+        "onboard_time": 1666582043,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 69407,
+        "num": 69407,
+        "word": "中共中央新闻发布会",
+        "onboard_time": 1666577786,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 50484,
+        "num": 50484,
+        "word": "解读中国式现代化的五大特征",
+        "onboard_time": 1666590862,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240441,
+        "num": 50466,
+        "word": "为何月球在20亿年前有火山活动",
+        "onboard_time": 1666597523,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 139592,
+        "num": 50452,
+        "word": "射击世锦赛中国队拿满8个奥运席位",
+        "onboard_time": 1666595723,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57324,
+        "num": 50417,
+        "word": "前三季度国内生产总值870269亿元",
+        "onboard_time": 1666578088,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 24232,
+        "num": 50409,
+        "word": "奋斗的你我勾勒出非凡中国",
+        "onboard_time": 1666592243,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20056,
+        "num": 50363,
+        "word": "15年前的今天嫦娥一号成功发射",
+        "onboard_time": 1666583542,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 635631,
+        "num": 50349,
+        "word": "男子深夜被女子求救声吓醒开窗笑哭",
+        "onboard_time": 1666597582,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579112,
+        "num": 50333,
+        "word": "双十一预售今晚8点开启",
+        "onboard_time": 1666595481,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 506201,
+        "num": 50300,
+        "word": "王者荣耀9月收入1.9亿美金",
+        "onboard_time": 1666597641,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 749612,
+        "num": 50278,
+        "word": "特斯拉官宣降价立即引发维权",
+        "onboard_time": 1666595122,
+        "rank": 13,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 141281,
+        "num": 50259,
+        "word": "退伍大学生当教官带出全校第一",
+        "onboard_time": 1666598421,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351248,
+        "num": 50220,
+        "word": "吃早八的苦享晚八的福",
+        "onboard_time": 1666596322,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 282459,
+        "num": 50196,
+        "word": "国考职位表",
+        "onboard_time": 1666582643,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245902,
+        "num": 50171,
+        "word": "大龄程序员都去哪儿了",
+        "onboard_time": 1666599262,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196628,
+        "num": 50151,
+        "word": "Steam在线人数突破3000万",
+        "onboard_time": 1666592541,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190734,
+        "num": 50137,
+        "word": "6岁女儿给去世的爸爸折纸元宝",
+        "onboard_time": 1666598124,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264348,
+        "num": 50099,
+        "word": "蓝盈莹扮演黄文秀上演隔空对话",
+        "onboard_time": 1666595781,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237884,
+        "num": 50089,
+        "word": "男生路上被8岁男孩追着喊爸爸",
+        "onboard_time": 1666593981,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231437,
+        "num": 50054,
+        "word": "男子误吃松鼠过冬板栗后加倍奉还",
+        "onboard_time": 1666583962,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180686,
+        "num": 50043,
+        "word": "恋爱中为什么越独立越有魅力",
+        "onboard_time": 1666599981,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168033,
+        "num": 50002,
+        "word": "Meiko和Deft拥抱",
+        "onboard_time": 1666588703,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167196,
+        "num": 49997,
+        "word": "从没看过这么清楚的奥特曼",
+        "onboard_time": 1666600763,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150035,
+        "num": 49954,
+        "word": "溜三胞胎儿子遇另一家溜三胞胎女儿",
+        "onboard_time": 1666584984,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141665,
+        "num": 49949,
+        "word": "狗狗偷吃蜂蜜脸被蜇肿",
+        "onboard_time": 1666594402,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141042,
+        "num": 49924,
+        "word": "苹果曾考虑推出塑料版iPad",
+        "onboard_time": 1666590503,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140728,
+        "num": 49899,
+        "word": "才知道猫讨厌狗的原因",
+        "onboard_time": 1666599562,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43581,
+        "num": 49879,
+        "word": "我国建立首个极深地下实验室",
+        "onboard_time": 1666600703,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 139292,
+        "num": 49831,
+        "word": "Viper",
+        "onboard_time": 1666581863,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129462,
+        "num": 49824,
+        "word": "17岁男生百米成绩超过同期苏炳添",
+        "onboard_time": 1666599502,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129159,
+        "num": 49792,
+        "word": "26岁女子捐肾使尿毒症患者重获新生",
+        "onboard_time": 1666584086,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 49767,
+        "word": "女生化妆猫咪伸手跃跃欲试",
+        "onboard_time": 1666592062,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124017,
+        "num": 49742,
+        "word": "王者七周年限定皮肤",
+        "onboard_time": 1666582764,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107095,
+        "num": 49730,
+        "word": "JDG独苗",
+        "onboard_time": 1666580005,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104722,
+        "num": 49688,
+        "word": "国考",
+        "onboard_time": 1666576941,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99073,
+        "num": 49684,
+        "word": "姚晨和彭莱不是一见钟情",
+        "onboard_time": 1666590141,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88586,
+        "num": 49641,
+        "word": "故意不给狗狗说吃饭口令时",
+        "onboard_time": 1666595303,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86621,
+        "num": 49616,
+        "word": "纪念毛岸英同志诞辰百年",
+        "onboard_time": 1666582703,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81945,
+        "num": 49592,
+        "word": "圣枪哥",
+        "onboard_time": 1666576882,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77342,
+        "num": 49569,
+        "word": "孙燕姿 音乐节",
+        "onboard_time": 1666587866,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72952,
+        "num": 49559,
+        "word": "程序员用旧物为孩子打造科幻屋",
+        "onboard_time": 1666598183,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 72666,
+        "num": 49524,
+        "word": "早八人的晚八生活",
+        "onboard_time": 1666595421,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72139,
+        "num": 49498,
+        "word": "成都人昨天短袖今天棉衣",
+        "onboard_time": 1666591463,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71290,
+        "num": 49486,
+        "word": "新生军训获第一教官送40杯奶茶",
+        "onboard_time": 1666600102,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 62763,
+        "num": 49445,
+        "word": "程序员的各种皮肤",
+        "onboard_time": 1666600581,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58843,
+        "num": 49442,
+        "word": "未定事件簿",
+        "onboard_time": 1666591342,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54418,
+        "num": 49397,
+        "word": "江豚的数量比大熊猫还少",
+        "onboard_time": 1666598001,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
