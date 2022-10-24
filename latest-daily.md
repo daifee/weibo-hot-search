@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/25 00:40:47 ~ 2022/10/25 01:40:32
+本榜单时间：2022/10/25 00:40:47 ~ 2022/10/25 01:59:23
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ Lehends带格里芬重聚（热度：59587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BD%8D%E5%9F%B9%E5%85%BB%E5%A4%A7%E5%B8%88%E7%9A%84%E5%A4%A7%E5%B8%88%E8%B5%B0%E4%BA%86%23" target="weibo">
 那位培养大师的大师走了（热度：15271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8D%95%E4%BA%BA%E6%B5%B7%E6%8A%A5%23" target="weibo">
+莲花楼单人海报（热度：13598）
 </a>
 </li>
 
