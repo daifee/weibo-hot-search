@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/26 00:48:58 ~ 2022/10/26 01:59:02
+本榜单时间：2022/10/26 00:48:58 ~ 2022/10/26 02:25:56
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ gidle新歌nxde一位（热度：54509）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%A5%8B%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B%E4%B8%80%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23%23" target="weibo">
 #奋力实现建军一百年奋斗目标#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%23%23" target="weibo">
+#二十大报告学习笔记#
 </a>
 </li>
 
