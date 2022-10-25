@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666734188113,
+  "endTime": 1666736861830,
   "band_list": [
     {
       "raw_hot": 808856,
@@ -64,6 +64,14 @@
       "word": "男子中2.19亿不告诉老婆孩子怕其膨胀",
       "onboard_time": 1666707446,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296726,
+      "num": 63525,
+      "word": "外交部提醒中国公民近期暂勿前往利比亚",
+      "onboard_time": 1666732391,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136249,
+      "num": 59055,
+      "word": "6岁女孩上网课疯狂举手求答题",
+      "onboard_time": 1666729750,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 134514,
       "num": 134514,
       "word": "女子上门为年轻人代厨4菜1汤66元",
@@ -185,6 +201,14 @@
       "onboard_time": 1666712363,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95643,
+      "num": 56775,
+      "word": "14个月宝宝吃饭全家变气氛组",
+      "onboard_time": 1666729032,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92422,
@@ -235,14 +259,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 75558,
-      "num": 26915,
-      "word": "6岁女孩上网课疯狂举手求答题",
-      "onboard_time": 1666729750,
-      "rank": 42,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 75460,
       "num": 75460,
       "word": "华为因专利纠纷起诉亚马逊",
@@ -281,14 +297,6 @@
       "onboard_time": 1666675285,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 55499,
-      "num": 26452,
-      "word": "外交部提醒中国公民近期暂勿前往利比亚",
-      "onboard_time": 1666732391,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54509,
@@ -363,18 +371,18 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45314,
+      "num": 45314,
+      "word": "被业内认可的原声台词",
+      "onboard_time": 1666735151,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42475,
       "num": 42475,
       "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
       "onboard_time": 1666689443,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41437,
-      "num": 24478,
-      "word": "14个月宝宝吃饭全家变气氛组",
-      "onboard_time": 1666729032,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -393,6 +401,14 @@
       "onboard_time": 1666695384,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39999,
+      "num": 54595,
+      "word": "世界杯将是莫德里奇国家队谢幕战",
+      "onboard_time": 1666732510,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 37988,
@@ -457,14 +473,6 @@
       "onboard_time": 1666706546,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 11455,
-      "num": 11455,
-      "word": "世界杯将是莫德里奇国家队谢幕战",
-      "onboard_time": 1666732510,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 10002,
