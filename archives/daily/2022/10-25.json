@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666711904309,
+  "endTime": 1666713173508,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139520,
+      "num": 143567,
+      "word": "兰州疫情防控",
+      "onboard_time": 1666711105,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134253,
       "num": 167686,
       "word": "iPhone15将被强制使用USB-C",
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803428,
+      "num": 431095,
+      "word": "删好友前需要告诉对方吗",
+      "onboard_time": 1666709607,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 798280,
       "num": 152414,
       "word": "宣萱回应王宝钏挖野菜",
@@ -169,14 +185,6 @@
       "onboard_time": 1666701809,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 720489,
-      "num": 143567,
-      "word": "兰州疫情防控",
-      "onboard_time": 1666711105,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715687,
@@ -283,14 +291,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 542696,
-      "num": 431095,
-      "word": "删好友前需要告诉对方吗",
-      "onboard_time": 1666709607,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 536600,
       "num": 339183,
       "word": "杨紫热辣滚烫条纹衬衫路透",
@@ -369,6 +369,14 @@
       "onboard_time": 1666687044,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 473609,
+      "num": 473609,
+      "word": "苍兰诀角色号更新微博",
+      "onboard_time": 1666711228,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 471169,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380518,
+      "num": 350470,
+      "word": "福建非绿码考生不得参加考试",
+      "onboard_time": 1666709367,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 369322,
       "num": 87058,
       "word": "娇兰",
@@ -617,14 +633,6 @@
       "onboard_time": 1666678616,
       "rank": 34,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 350470,
-      "num": 350470,
-      "word": "福建非绿码考生不得参加考试",
-      "onboard_time": 1666709367,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 345441,
@@ -811,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278155,
+      "num": 125656,
+      "word": "坂本龙一",
+      "onboard_time": 1666712185,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278129,
       "num": 215212,
       "word": "网剧遇见你之后定档1028",
@@ -975,14 +991,6 @@
       "num": 241052,
       "word": "谁都知道我爱你定档1026",
       "onboard_time": 1666678405,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 236554,
-      "num": 430928,
-      "word": "苍兰诀角色号更新微博",
-      "onboard_time": 1666711228,
       "rank": 6,
       "category": "影视"
     },
@@ -1339,6 +1347,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 154874,
+      "num": 154874,
+      "word": "卡塔尔世界杯亮眼的中国建造",
+      "onboard_time": 1666707747,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154368,
       "num": 126824,
       "word": "王一博街舞5花絮照三宫格",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1666683564,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151756,
-      "num": 151756,
-      "word": "卡塔尔世界杯亮眼的中国建造",
-      "onboard_time": 1666707747,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 149500,
@@ -1755,8 +1763,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89207,
-      "num": 74599,
+      "raw_hot": 90221,
+      "num": 90221,
       "word": "这就是被财神爷吻过的嗓音吧",
       "onboard_time": 1666710268,
       "rank": 40,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1666615403,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78259,
+      "num": 56641,
+      "word": "这就是天选古装bking吧",
+      "onboard_time": 1666712363,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 77026,
@@ -2019,6 +2035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57375,
+      "num": 57375,
+      "word": "段永平六次加仓腾讯",
+      "onboard_time": 1666712606,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56197,
       "num": 30377,
       "word": "中国积极申办2031年女足世界杯",
@@ -2027,12 +2051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55282,
+      "num": 55282,
+      "word": "特拉斯发表告别演说",
+      "onboard_time": 1666711826,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 54644,
       "num": 30356,
       "word": "前任送的礼物该如何处理",
       "onboard_time": 1666615103,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 52928,
+      "word": "武汉全城拉响防空警报",
+      "onboard_time": 1666712306,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52653,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1666711766,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49837,
-      "num": 49837,
-      "word": "特拉斯发表告别演说",
-      "onboard_time": 1666711826,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 49608,
@@ -2147,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24955,
+      "num": 431206,
+      "word": "锚定中心任务开好局起好步",
+      "onboard_time": 1666711228,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 24535,
       "num": 475948,
       "word": "今天发条微博致敬最可爱的人",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1666617387,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 16907,
-      "num": 431206,
-      "word": "锚定中心任务开好局起好步",
-      "onboard_time": 1666711228,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 15271,
