@@ -1,0 +1,410 @@
+{
+  "runTime": 1666698090672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 142730,
+        "num": 385266,
+        "word": "世界技能大赛特别赛中国已获15金",
+        "onboard_time": 1666692684,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90062,
+        "num": 380483,
+        "word": "五星红旗第一次在联合国升起画面",
+        "onboard_time": 1666675043,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17127,
+        "num": 374516,
+        "word": "今天发条微博致敬最可爱的人",
+        "onboard_time": 1666659744,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 587931,
+        "num": 357527,
+        "word": "女子上门为年轻人代厨4菜1汤66元",
+        "onboard_time": 1666693463,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508514,
+        "num": 352574,
+        "word": "老干妈跌出贵州民企前10",
+        "onboard_time": 1666689744,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457932,
+        "num": 338606,
+        "word": "主人用淡水生鱼喂猫遭质疑",
+        "onboard_time": 1666695144,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455213,
+        "num": 337655,
+        "word": "韩国新恋综社内恋爱",
+        "onboard_time": 1666695384,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403574,
+        "num": 319996,
+        "word": "网友分享星汉灿烂剧本",
+        "onboard_time": 1666693463,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318736,
+        "num": 318736,
+        "word": "南忘今萧至今未合体",
+        "onboard_time": 1666691965,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228732,
+        "num": 315011,
+        "word": "上海启动吸入用新冠疫苗接种",
+        "onboard_time": 1666688843,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1950540,
+        "num": 314929,
+        "word": "开封巨响",
+        "onboard_time": 1666695384,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191434,
+        "num": 314380,
+        "word": "新乡",
+        "onboard_time": 1666695625,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313513,
+        "num": 313513,
+        "word": "脱口秀大会",
+        "onboard_time": 1666689323,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278879,
+        "num": 278879,
+        "word": "王一博在洗衣店跳舞",
+        "onboard_time": 1666696944,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2994,
+        "num": 239274,
+        "word": "手机2亿像素值得期待吗",
+        "onboard_time": 1666695625,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228637,
+        "num": 228637,
+        "word": "苏纳克正式成为英国新首相",
+        "onboard_time": 1666695323,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231086,
+        "num": 222460,
+        "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+        "onboard_time": 1666688663,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215578,
+        "num": 215578,
+        "word": "首架C919将于12月交付东航",
+        "onboard_time": 1666693044,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212396,
+        "num": 212396,
+        "word": "杨紫热辣滚烫条纹衬衫路透",
+        "onboard_time": 1666689744,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206978,
+        "num": 206978,
+        "word": "数学好真的可以拿捏一切",
+        "onboard_time": 1666685544,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199705,
+        "num": 199705,
+        "word": "大飞",
+        "onboard_time": 1666679365,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183035,
+        "num": 183035,
+        "word": "杨坤马嘉祺要你管预告",
+        "onboard_time": 1666694305,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173547,
+        "num": 173547,
+        "word": "lightsum",
+        "onboard_time": 1666690226,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156879,
+        "num": 156879,
+        "word": "乍一听没听出是韩国人唱的",
+        "onboard_time": 1666688304,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149500,
+        "num": 149500,
+        "word": "东北皮皮虾锅贴有多豪横",
+        "onboard_time": 1666695503,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134392,
+        "num": 134392,
+        "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+        "onboard_time": 1666689443,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126562,
+        "num": 126562,
+        "word": "杭州一公交为轮椅女孩改路线",
+        "onboard_time": 1666692083,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114085,
+        "num": 114085,
+        "word": "樊振东孙颖莎出席抽签仪式",
+        "onboard_time": 1666690343,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110003,
+        "num": 110003,
+        "word": "俄罗斯称不打算在乌克兰使用核武器",
+        "onboard_time": 1666679064,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104356,
+        "num": 104356,
+        "word": "LPL为米勒澄清",
+        "onboard_time": 1666675585,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264380,
+        "num": 103951,
+        "word": "iPhone15将被强制使用USB-C",
+        "onboard_time": 1666675285,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133153,
+        "num": 103703,
+        "word": "王鹤棣和浮图缘小演员合照",
+        "onboard_time": 1666689803,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120288,
+        "num": 102877,
+        "word": "陈瑶回应离开唐人",
+        "onboard_time": 1666678043,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 102690,
+        "word": "迪丽热巴爆炸头大片",
+        "onboard_time": 1666673006,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102357,
+        "num": 102357,
+        "word": "秦岚说王子异的进步很大",
+        "onboard_time": 1666696643,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100671,
+        "num": 100671,
+        "word": "Crisp选手故事片",
+        "onboard_time": 1666692865,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94818,
+        "num": 94818,
+        "word": "男子昏迷9名90后女护士组团抢救",
+        "onboard_time": 1666683743,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94362,
+        "num": 94362,
+        "word": "能哭湿枕头的小说",
+        "onboard_time": 1666682783,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90576,
+        "num": 90576,
+        "word": "95后硕士基层工作第一天说比读博难",
+        "onboard_time": 1666674083,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 86382,
+        "num": 86382,
+        "word": "淘宝4小时涌现130个千万直播间",
+        "onboard_time": 1666695625,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96887,
+        "num": 86278,
+        "word": "李咏去世四周年",
+        "onboard_time": 1666677145,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 93892,
+        "num": 86273,
+        "word": "女明星古装红色婚服图鉴",
+        "onboard_time": 1666696465,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89927,
+        "num": 86240,
+        "word": "樊振东回应亚洲杯参赛安排",
+        "onboard_time": 1666687044,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86050,
+        "num": 86050,
+        "word": "绝境之王C罗",
+        "onboard_time": 1666684162,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84957,
+        "num": 84957,
+        "word": "瑜伽简直就是酸痛克星",
+        "onboard_time": 1666691063,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84181,
+        "num": 84181,
+        "word": "第五人格策划",
+        "onboard_time": 1666697784,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82812,
+        "num": 82812,
+        "word": "我国将建设15分钟养老服务圈",
+        "onboard_time": 1666685364,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82077,
+        "num": 82077,
+        "word": "90后姑娘辞去村干部全职当农民",
+        "onboard_time": 1666697242,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61335,
+        "num": 80427,
+        "word": "算是把双十一拿捏住了",
+        "onboard_time": 1666691785,
+        "rank": 48,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 56025,
+        "num": 78493,
+        "word": "这里宇航员浓度超过空间站了",
+        "onboard_time": 1666696885,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力实现建军一百年奋斗目标#"
+    }
+  }
+}

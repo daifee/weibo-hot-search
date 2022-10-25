@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666697031405,
+  "endTime": 1666698090672,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1632739,
-      "num": 284596,
+      "raw_hot": 1950540,
+      "num": 314929,
       "word": "开封巨响",
       "onboard_time": 1666695384,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1666673006,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1191434,
+      "num": 314380,
+      "word": "新乡",
+      "onboard_time": 1666695625,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1134253,
@@ -65,14 +73,6 @@
       "onboard_time": 1666656385,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1035066,
-      "num": 283686,
-      "word": "新乡",
-      "onboard_time": 1666695625,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 912060,
@@ -155,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 587931,
+      "num": 357527,
+      "word": "女子上门为年轻人代厨4菜1汤66元",
+      "onboard_time": 1666693463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587820,
       "num": 70197,
       "word": "iPhone全部支持电量百分比",
@@ -177,14 +185,6 @@
       "onboard_time": 1666679064,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 540749,
-      "num": 341453,
-      "word": "女子上门为年轻人代厨4菜1汤66元",
-      "onboard_time": 1666693463,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536600,
@@ -276,11 +276,19 @@
     },
     {
       "raw_hot": 463288,
-      "num": 324624,
+      "num": 337655,
       "word": "韩国新恋综社内恋爱",
       "onboard_time": 1666695384,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457932,
+      "num": 338606,
+      "word": "主人用淡水生鱼喂猫遭质疑",
+      "onboard_time": 1666695144,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453453,
@@ -603,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286689,
-      "num": 286689,
-      "word": "主人用淡水生鱼喂猫遭质疑",
-      "onboard_time": 1666695144,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281955,
       "num": 281955,
       "word": "王一博在洗衣店跳舞",
@@ -825,6 +825,14 @@
       "onboard_time": 1666663764,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228637,
+      "num": 228637,
+      "word": "苏纳克正式成为英国新首相",
+      "onboard_time": 1666695323,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 228582,
@@ -1067,14 +1075,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 157427,
-      "num": 157427,
-      "word": "苏纳克正式成为英国新首相",
-      "onboard_time": 1666695323,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 154258,
       "num": 118944,
       "word": "吴徽妍金池按退队",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1666683564,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149500,
+      "num": 149500,
+      "word": "东北皮皮虾锅贴有多豪横",
+      "onboard_time": 1666695503,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 147198,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1666692865,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142730,
+      "num": 423587,
+      "word": "世界技能大赛特别赛中国已获15金",
+      "onboard_time": 1666692684,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 142515,
@@ -1291,16 +1307,8 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 108096,
-      "num": 423587,
-      "word": "世界技能大赛特别赛中国已获15金",
-      "onboard_time": 1666692684,
-      "rank": 1,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 107483,
-      "num": 99546,
+      "num": 102357,
       "word": "秦岚说王子异的进步很大",
       "onboard_time": 1666696643,
       "rank": 40,
@@ -1355,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98095,
-      "num": 98095,
-      "word": "东北皮皮虾锅贴有多豪横",
-      "onboard_time": 1666695503,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 97843,
       "num": 175925,
       "word": "20岁小伙欲轻生网友报警救下1命",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1666614262,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93892,
+      "num": 86273,
+      "word": "女明星古装红色婚服图鉴",
+      "onboard_time": 1666696465,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93841,
@@ -1435,12 +1443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86382,
+      "num": 100082,
+      "word": "淘宝4小时涌现130个千万直播间",
+      "onboard_time": 1666695625,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86075,
       "num": 86075,
       "word": "这里宇航员浓度超过空间站了",
       "onboard_time": 1666696885,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84181,
+      "num": 84181,
+      "word": "第五人格策划",
+      "onboard_time": 1666697784,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 83680,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1666654341,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82077,
+      "num": 82077,
+      "word": "90后姑娘辞去村干部全职当农民",
+      "onboard_time": 1666697242,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81880,
@@ -1544,14 +1576,6 @@
       "word": "祖国人民不会忘记",
       "onboard_time": 1666655242,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69909,
-      "num": 100082,
-      "word": "淘宝4小时涌现130个千万直播间",
-      "onboard_time": 1666695625,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
