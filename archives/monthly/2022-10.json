@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666702681770,
+  "endTime": 1666704619719,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -995,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1633277,
+      "num": 270087,
+      "word": "阿迪达斯终止与侃爷合作",
+      "onboard_time": 1666700844,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1630781,
       "num": 815973,
       "word": "马龙vs邱党",
@@ -1224,6 +1232,14 @@
       "word": "羊了个羊出逃消防员被迫陪跑追回",
       "onboard_time": 1665731185,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1509374,
+      "num": 154192,
+      "word": "富士康",
+      "onboard_time": 1666701023,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1857,14 +1873,6 @@
       "onboard_time": 1664870004,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1259867,
-      "num": 270087,
-      "word": "阿迪达斯终止与侃爷合作",
-      "onboard_time": 1666700844,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1259762,
@@ -3331,14 +3339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 936846,
-      "num": 146729,
-      "word": "富士康",
-      "onboard_time": 1666701023,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 936728,
       "num": 349906,
       "word": "王俊凯北大路演",
@@ -3947,6 +3947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 839407,
+      "num": 414909,
+      "word": "官方回应开封市区巨响",
+      "onboard_time": 1666701143,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837920,
       "num": 837920,
       "word": "JDG战胜DK",
@@ -4228,7 +4236,7 @@
     },
     {
       "raw_hot": 798280,
-      "num": 145815,
+      "num": 152414,
       "word": "宣萱回应王宝钏挖野菜",
       "onboard_time": 1666699344,
       "rank": 21,
@@ -4873,6 +4881,14 @@
       "onboard_time": 1666072665,
       "rank": 30,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 733084,
+      "num": 459266,
+      "word": "张小厚这次见李宇春没怂",
+      "onboard_time": 1666701809,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 732780,
@@ -6721,14 +6737,6 @@
       "onboard_time": 1665206724,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 595371,
-      "num": 459266,
-      "word": "张小厚这次见李宇春没怂",
-      "onboard_time": 1666701809,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 595349,
@@ -11211,14 +11219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414909,
-      "num": 414909,
-      "word": "官方回应开封市区巨响",
-      "onboard_time": 1666701143,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414878,
       "num": 172424,
       "word": "苏贞昌确诊新冠",
@@ -13289,6 +13289,14 @@
       "onboard_time": 1664847983,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359660,
+      "num": 359660,
+      "word": "听会聊天的人说话是什么体验",
+      "onboard_time": 1666698864,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 359452,
@@ -16323,14 +16331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290795,
-      "num": 290795,
-      "word": "听会聊天的人说话是什么体验",
-      "onboard_time": 1666698864,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290539,
       "num": 67241,
       "word": "英国热水袋销量激增超200%",
@@ -19113,6 +19113,14 @@
       "onboard_time": 1664841981,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246293,
+      "num": 176248,
+      "word": "封宿舍多天女生用瑜伽垫做麻将",
+      "onboard_time": 1666702164,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246142,
@@ -23203,6 +23211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195143,
+      "num": 172091,
+      "word": "女子骑车载孩子抢道被货车撞倒",
+      "onboard_time": 1666699944,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195039,
       "num": 195039,
       "word": "地下1200米的超级充电宝长啥样",
@@ -24369,6 +24385,14 @@
       "onboard_time": 1665982641,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 182487,
+      "num": 182487,
+      "word": "当主人给正在舔毛的猫咪配音",
+      "onboard_time": 1666701264,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 182483,
@@ -25699,6 +25723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167211,
+      "num": 167211,
+      "word": "C罗重回曼联一线队训练",
+      "onboard_time": 1666702704,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167196,
       "num": 49997,
       "word": "从没看过这么清楚的奥特曼",
@@ -26859,6 +26891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154368,
+      "num": 126824,
+      "word": "王一博街舞5花絮照三宫格",
+      "onboard_time": 1666703786,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154275,
       "num": 154275,
       "word": "张若昀秦明六周年",
@@ -27953,14 +27993,6 @@
       "onboard_time": 1665984802,
       "rank": 34,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 143690,
-      "num": 143690,
-      "word": "女子骑车载孩子抢道被货车撞倒",
-      "onboard_time": 1666699944,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143682,
@@ -29433,6 +29465,14 @@
       "onboard_time": 1665544285,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129802,
+      "num": 129802,
+      "word": "gidle新歌nxde一位",
+      "onboard_time": 1666703667,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 129707,
@@ -33619,6 +33659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92123,
+      "num": 92123,
+      "word": "万事要先对得起自己",
+      "onboard_time": 1666698804,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92118,
       "num": 92118,
       "word": "Straykids获音银一位",
@@ -34483,14 +34531,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 84794,
-      "num": 84794,
-      "word": "万事要先对得起自己",
-      "onboard_time": 1666698804,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84762,
       "num": 84762,
       "word": "别为没有发生的事情焦虑",
@@ -34833,14 +34873,6 @@
       "onboard_time": 1665477084,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 82129,
-      "num": 82129,
-      "word": "当主人给正在舔毛的猫咪配音",
-      "onboard_time": 1666701264,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 81986,
@@ -35297,14 +35329,6 @@
       "onboard_time": 1666619965,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77135,
-      "num": 77135,
-      "word": "封宿舍多天女生用瑜伽垫做麻将",
-      "onboard_time": 1666702164,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 77026,
@@ -36937,6 +36961,14 @@
       "onboard_time": 1664603843,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61576,
+      "num": 61576,
+      "word": "出生在武汉的小江豚取名汉宝",
+      "onboard_time": 1666704565,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61568,
@@ -39393,6 +39425,14 @@
       "onboard_time": 1665256631,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13717,
+      "num": 395215,
+      "word": "党的二十大报告有哪些深意",
+      "onboard_time": 1666704325,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 13577,

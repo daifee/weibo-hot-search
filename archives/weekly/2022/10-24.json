@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666702681770,
+  "endTime": 1666704619719,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633277,
+      "num": 270087,
+      "word": "阿迪达斯终止与侃爷合作",
+      "onboard_time": 1666700844,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1549735,
       "num": 285663,
       "word": "真的东方清仓来了",
       "onboard_time": 1666698143,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1509374,
+      "num": 154192,
+      "word": "富士康",
+      "onboard_time": 1666701023,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1376385,
@@ -105,14 +121,6 @@
       "onboard_time": 1666673006,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1259867,
-      "num": 270087,
-      "word": "阿迪达斯终止与侃爷合作",
-      "onboard_time": 1666700844,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1191434,
@@ -211,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 936846,
-      "num": 146729,
-      "word": "富士康",
-      "onboard_time": 1666701023,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 918320,
       "num": 324447,
       "word": "男子双色球中2.19亿捐500万",
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 839407,
+      "num": 414909,
+      "word": "官方回应开封市区巨响",
+      "onboard_time": 1666701143,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801132,
       "num": 82446,
       "word": "特斯拉官宣降价立即引发维权",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 798280,
-      "num": 145815,
+      "num": 152414,
       "word": "宣萱回应王宝钏挖野菜",
       "onboard_time": 1666699344,
       "rank": 21,
@@ -321,6 +329,14 @@
       "onboard_time": 1666617565,
       "rank": 7,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 733084,
+      "num": 459266,
+      "word": "张小厚这次见李宇春没怂",
+      "onboard_time": 1666701809,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 715687,
@@ -401,14 +417,6 @@
       "onboard_time": 1666618644,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595371,
-      "num": 459266,
-      "word": "张小厚这次见李宇春没怂",
-      "onboard_time": 1666701809,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 593572,
@@ -827,14 +835,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 414909,
-      "num": 414909,
-      "word": "官方回应开封市区巨响",
-      "onboard_time": 1666701143,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414588,
       "num": 397947,
       "word": "车银优韩素希李洙赫短剧完整版",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1666612343,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359660,
+      "num": 359660,
+      "word": "听会聊天的人说话是什么体验",
+      "onboard_time": 1666698864,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 358137,
@@ -1291,14 +1299,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 290795,
-      "num": 290795,
-      "word": "听会聊天的人说话是什么体验",
-      "onboard_time": 1666698864,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287890,
       "num": 434248,
       "word": "五星红旗第一次在联合国升起画面",
@@ -1513,6 +1513,14 @@
       "onboard_time": 1666693044,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 246293,
+      "num": 176248,
+      "word": "封宿舍多天女生用瑜伽垫做麻将",
+      "onboard_time": 1666702164,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 243894,
@@ -1867,6 +1875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 195143,
+      "num": 172091,
+      "word": "女子骑车载孩子抢道被货车撞倒",
+      "onboard_time": 1666699944,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194460,
       "num": 70286,
       "word": "王子异新剧追秦岚送水饺",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1666578565,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 182487,
+      "num": 182487,
+      "word": "当主人给正在舔毛的猫咪配音",
+      "onboard_time": 1666701264,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 181189,
@@ -2067,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167211,
+      "num": 167211,
+      "word": "C罗重回曼联一线队训练",
+      "onboard_time": 1666702704,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167196,
       "num": 49997,
       "word": "从没看过这么清楚的奥特曼",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1666539984,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154368,
+      "num": 126824,
+      "word": "王一博街舞5花絮照三宫格",
+      "onboard_time": 1666703786,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 154258,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1666690524,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143690,
-      "num": 143690,
-      "word": "女子骑车载孩子抢道被货车撞倒",
-      "onboard_time": 1666699944,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142959,
@@ -2377,6 +2409,14 @@
       "onboard_time": 1666674026,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129802,
+      "num": 129802,
+      "word": "gidle新歌nxde一位",
+      "onboard_time": 1666703667,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 128874,
@@ -2819,6 +2859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92123,
+      "num": 92123,
+      "word": "万事要先对得起自己",
+      "onboard_time": 1666698804,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89372,
       "num": 49445,
       "word": "程序员的各种皮肤",
@@ -2899,14 +2947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84794,
-      "num": 84794,
-      "word": "万事要先对得起自己",
-      "onboard_time": 1666698804,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83995,
       "num": 11193,
       "word": "层林尽染有多美",
@@ -2955,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82129,
-      "num": 82129,
-      "word": "当主人给正在舔毛的猫咪配音",
-      "onboard_time": 1666701264,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 81880,
       "num": 65839,
       "word": "亨利卡维尔官宣回归出演超人",
@@ -3009,14 +3041,6 @@
       "onboard_time": 1666619965,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77135,
-      "num": 77135,
-      "word": "封宿舍多天女生用瑜伽垫做麻将",
-      "onboard_time": 1666702164,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 77026,
@@ -3203,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61576,
+      "num": 61576,
+      "word": "出生在武汉的小江豚取名汉宝",
+      "onboard_time": 1666704565,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60762,
       "num": 12574,
       "word": "樊振东吃香蕉",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1666613482,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 58221,
+      "num": 58221,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1666704505,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 58204,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1666520001,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 13717,
+      "num": 395215,
+      "word": "党的二十大报告有哪些深意",
+      "onboard_time": 1666704325,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 13577,
