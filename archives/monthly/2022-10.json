@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666674804481,
+  "endTime": 1666679858003,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -409,6 +409,14 @@
       "onboard_time": 1666394297,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2315958,
+      "num": 86572,
+      "word": "李佳琦双11预售首日卖出215亿",
+      "onboard_time": 1666676246,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 2310270,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1665648565,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1134253,
+      "num": 86526,
+      "word": "iPhone15将被强制使用USB-C",
+      "onboard_time": 1666675285,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 1133539,
@@ -4731,6 +4747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 741959,
+      "num": 159955,
+      "word": "LPL为米勒澄清",
+      "onboard_time": 1666675585,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 738926,
       "num": 738926,
       "word": "特警捂枪口与女孩合影细节好戳",
@@ -6201,6 +6225,14 @@
       "onboard_time": 1665632727,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 627274,
+      "num": 276240,
+      "word": "杨群去世",
+      "onboard_time": 1666673365,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 625869,
@@ -8851,6 +8883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484833,
+      "num": 176113,
+      "word": "田中秀和被捕",
+      "onboard_time": 1666675886,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484829,
       "num": 484829,
       "word": "新iPhone上手体验",
@@ -11315,6 +11355,14 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 403183,
+      "num": 198931,
+      "word": "95后硕士基层工作第一天说比读博难",
+      "onboard_time": 1666674083,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 403069,
       "num": 403069,
       "word": "马龙keep fight",
@@ -12065,14 +12113,6 @@
       "onboard_time": 1665727464,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384595,
-      "num": 276240,
-      "word": "杨群去世",
-      "onboard_time": 1666673365,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 384508,
@@ -14315,6 +14355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325665,
+      "num": 242811,
+      "word": "陈瑶回应离开唐人",
+      "onboard_time": 1666678043,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325414,
       "num": 141147,
       "word": "原来被爱的感觉这么好",
@@ -16539,6 +16587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278868,
+      "num": 241646,
+      "word": "邮递员7年为20多位烈士找到家",
+      "onboard_time": 1666674205,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 278765,
       "num": 62621,
       "word": "晚八文学",
@@ -17745,6 +17801,14 @@
       "onboard_time": 1664851102,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259897,
+      "num": 259897,
+      "word": "五星红旗第一次在联合国升起画面",
+      "onboard_time": 1666675043,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259872,
@@ -19075,6 +19139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241052,
+      "num": 241052,
+      "word": "谁都知道我爱你定档1026",
+      "onboard_time": 1666678405,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241022,
       "num": 216668,
       "word": "无名第一个定下的演员是王一博",
@@ -19401,6 +19473,14 @@
       "onboard_time": 1665894568,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235599,
+      "num": 175748,
+      "word": "大飞",
+      "onboard_time": 1666679365,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 235595,
@@ -20649,14 +20729,6 @@
       "onboard_time": 1666621465,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220263,
-      "num": 220263,
-      "word": "邮递员7年为20多位烈士找到家",
-      "onboard_time": 1666674205,
-      "rank": 21,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 220146,
@@ -22051,6 +22123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202849,
+      "num": 202849,
+      "word": "12306又出实用新功能",
+      "onboard_time": 1666674984,
+      "rank": 7,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 202811,
       "num": 202811,
       "word": "吴克群马頔好久不见全程泪点",
@@ -22353,14 +22433,6 @@
       "onboard_time": 1665553765,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198931,
-      "num": 198931,
-      "word": "95后硕士基层工作第一天说比读博难",
-      "onboard_time": 1666674083,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 198816,
@@ -23163,6 +23235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190222,
+      "num": 190222,
+      "word": "俄罗斯称不打算在乌克兰使用核武器",
+      "onboard_time": 1666679064,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 190160,
       "num": 190160,
       "word": "一夜入冬是种什么体验",
@@ -23185,6 +23265,14 @@
       "onboard_time": 1665491544,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189984,
+      "num": 175482,
+      "word": "杨颖心动的信号小香风造型",
+      "onboard_time": 1666679245,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189889,
@@ -25585,6 +25673,14 @@
       "onboard_time": 1664851881,
       "rank": 47,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 162014,
+      "num": 162014,
+      "word": "李承铉认为感情中成熟度比年龄更重要",
+      "onboard_time": 1666677865,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 161894,
@@ -29051,6 +29147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127839,
+      "num": 86464,
+      "word": "李咏去世四周年",
+      "onboard_time": 1666677145,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 127831,
       "num": 127831,
       "word": "国乒女团战胜日本队",
@@ -31089,6 +31193,14 @@
       "onboard_time": 1664686703,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109473,
+      "num": 109473,
+      "word": "养猫人囤猫砂有多硬核",
+      "onboard_time": 1666678646,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 109372,
@@ -33531,6 +33643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86448,
+      "num": 86448,
+      "word": "女环卫工6年捡180多把弃伞送路人",
+      "onboard_time": 1666678616,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 86346,
       "num": 86346,
       "word": "这街数字人撞脸大半个娱乐圈",
@@ -35099,6 +35219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 71829,
+      "num": 71829,
+      "word": "有没有人管管海鸟啊",
+      "onboard_time": 1666679604,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71677,
       "num": 71677,
       "word": "曾没公路没电的牧区如今用无人机放牧",
@@ -35507,6 +35635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67313,
+      "num": 67313,
+      "word": "王安宇说金晨还是一个小女孩",
+      "onboard_time": 1666679783,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67243,
       "num": 67243,
       "word": "值得收藏的50部纪录片",
@@ -35769,6 +35905,14 @@
       "onboard_time": 1664952021,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65052,
+      "num": 65052,
+      "word": "你会手机电量焦虑吗",
+      "onboard_time": 1666678165,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 65033,
@@ -36401,6 +36545,14 @@
       "onboard_time": 1666353981,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 58832,
+      "num": 175925,
+      "word": "20岁小伙欲轻生网友报警救下1命",
+      "onboard_time": 1666677626,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58819,

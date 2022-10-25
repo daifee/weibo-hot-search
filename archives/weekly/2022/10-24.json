@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666674804481,
+  "endTime": 1666679858003,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -33,6 +33,14 @@
       "onboard_time": 1666566857,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2315958,
+      "num": 86572,
+      "word": "李佳琦双11预售首日卖出215亿",
+      "onboard_time": 1666676246,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 2272401,
@@ -97,6 +105,14 @@
       "onboard_time": 1666582643,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1134253,
+      "num": 86526,
+      "word": "iPhone15将被强制使用USB-C",
+      "onboard_time": 1666675285,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 1111104,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741959,
+      "num": 159955,
+      "word": "LPL为米勒澄清",
+      "onboard_time": 1666675585,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 737346,
       "num": 69942,
       "word": "双十一电商平台有多内卷",
@@ -265,6 +289,14 @@
       "onboard_time": 1666597582,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627274,
+      "num": 276240,
+      "word": "杨群去世",
+      "onboard_time": 1666673365,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 624486,
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484833,
+      "num": 176113,
+      "word": "田中秀和被捕",
+      "onboard_time": 1666675886,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481634,
       "num": 481634,
       "word": "新一届中央政治局常委简历",
@@ -595,6 +635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 403183,
+      "num": 198931,
+      "word": "95后硕士基层工作第一天说比读博难",
+      "onboard_time": 1666674083,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 394897,
       "num": 30228,
       "word": "特斯拉Model3及ModelY降价",
@@ -617,14 +665,6 @@
       "onboard_time": 1666576282,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384595,
-      "num": 276240,
-      "word": "杨群去世",
-      "onboard_time": 1666673365,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 383878,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325665,
+      "num": 242811,
+      "word": "陈瑶回应离开唐人",
+      "onboard_time": 1666678043,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323947,
       "num": 282468,
       "word": "北京航空航天大学70周年校庆",
@@ -963,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278868,
+      "num": 241646,
+      "word": "邮递员7年为20多位烈士找到家",
+      "onboard_time": 1666674205,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 278765,
       "num": 62621,
       "word": "晚八文学",
@@ -1051,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259897,
+      "num": 259897,
+      "word": "五星红旗第一次在联合国升起画面",
+      "onboard_time": 1666675043,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259755,
       "num": 85726,
       "word": "成都人昨天短袖今天棉衣",
@@ -1123,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241052,
+      "num": 241052,
+      "word": "谁都知道我爱你定档1026",
+      "onboard_time": 1666678405,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238174,
       "num": 83019,
       "word": "新乡WTT世界杯决赛2022",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1666584923,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235599,
+      "num": 175748,
+      "word": "大飞",
+      "onboard_time": 1666679365,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 235088,
@@ -1235,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220263,
-      "num": 220263,
-      "word": "邮递员7年为20多位烈士找到家",
-      "onboard_time": 1666674205,
-      "rank": 21,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 218789,
       "num": 69369,
       "word": "男子生吞小螃蟹感染寄生虫",
@@ -1331,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202849,
+      "num": 202849,
+      "word": "12306又出实用新功能",
+      "onboard_time": 1666674984,
+      "rank": 7,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 201634,
       "num": 28942,
       "word": "甄嬛不愧是反恋爱脑大师",
@@ -1345,14 +1425,6 @@
       "onboard_time": 1666665263,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198931,
-      "num": 198931,
-      "word": "95后硕士基层工作第一天说比读博难",
-      "onboard_time": 1666674083,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 196224,
@@ -1377,6 +1449,22 @@
       "onboard_time": 1666620506,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190222,
+      "num": 190222,
+      "word": "俄罗斯称不打算在乌克兰使用核武器",
+      "onboard_time": 1666679064,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 189984,
+      "num": 175482,
+      "word": "杨颖心动的信号小香风造型",
+      "onboard_time": 1666679245,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189585,
@@ -1539,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162014,
+      "num": 162014,
+      "word": "李承铉认为感情中成熟度比年龄更重要",
+      "onboard_time": 1666677865,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161804,
       "num": 147061,
       "word": "中国人把饭碗牢牢端在自己手中",
@@ -1675,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139032,
+      "num": 139032,
+      "word": "心动的信号",
+      "onboard_time": 1666674925,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139023,
       "num": 56283,
       "word": "故意不给狗狗说吃饭口令时",
@@ -1769,6 +1873,14 @@
       "onboard_time": 1666668202,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127839,
+      "num": 86464,
+      "word": "李咏去世四周年",
+      "onboard_time": 1666677145,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 126242,
@@ -1905,6 +2017,14 @@
       "onboard_time": 1666603942,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109473,
+      "num": 109473,
+      "word": "养猫人囤猫砂有多硬核",
+      "onboard_time": 1666678646,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 108078,
@@ -2107,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86448,
+      "num": 86448,
+      "word": "女环卫工6年捡180多把弃伞送路人",
+      "onboard_time": 1666678616,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 85239,
       "num": 62001,
       "word": "老人骑车摔倒男子立刻停车冲去救人",
@@ -2243,6 +2371,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 71829,
+      "num": 71829,
+      "word": "有没有人管管海鸟啊",
+      "onboard_time": 1666679604,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71290,
       "num": 49486,
       "word": "新生军训获第一教官送40杯奶茶",
@@ -2275,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67313,
+      "num": 67313,
+      "word": "王安宇说金晨还是一个小女孩",
+      "onboard_time": 1666679783,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66158,
       "num": 12601,
       "word": "女子未回信息朋友飞无人机探查",
@@ -2297,6 +2441,14 @@
       "onboard_time": 1666654941,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65052,
+      "num": 65052,
+      "word": "你会手机电量焦虑吗",
+      "onboard_time": 1666678165,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 64775,
@@ -2392,6 +2544,14 @@
       "word": "重庆300米高空索道桥上跑货车",
       "onboard_time": 1666567338,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58832,
+      "num": 175925,
+      "word": "20岁小伙欲轻生网友报警救下1命",
+      "onboard_time": 1666677626,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
