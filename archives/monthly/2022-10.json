@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666727674828,
+  "endTime": 1666729791698,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -39969,6 +39969,14 @@
       "onboard_time": 1665774852,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9077,
+      "num": 9077,
+      "word": "6岁女孩上网课疯狂举手求答题",
+      "onboard_time": 1666729750,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 9058,

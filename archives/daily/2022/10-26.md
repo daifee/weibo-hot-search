@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/26 00:48:58 ~ 2022/10/26 03:54:34
+本榜单时间：2022/10/26 00:48:58 ~ 2022/10/26 04:29:51
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ gidle新歌nxde一位（热度：54509）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E6%96%B0%E5%89%A7%E5%B7%A6%E5%8F%B3%E4%B8%BA%E7%94%B7%23" target="weibo">
 乔欣新剧左右为男（热度：10002）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8A%E7%BD%91%E8%AF%BE%E7%96%AF%E7%8B%82%E4%B8%BE%E6%89%8B%E6%B1%82%E7%AD%94%E9%A2%98%23" target="weibo">
+6岁女孩上网课疯狂举手求答题（热度：9077）
 </a>
 </li>
 
