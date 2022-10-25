@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666718821763,
+  "endTime": 1666720742097,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -3619,6 +3619,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 47464,
+      "num": 69340,
+      "word": "就没有张雨绮不能拿捏的梗",
+      "onboard_time": 1666717755,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45298,
       "num": 82957,
       "word": "嫦娥一号发射成功15周年",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1666624107,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28600,
+      "num": 28600,
+      "word": "周深演唱过的影视剧歌曲",
+      "onboard_time": 1666719974,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 27797,

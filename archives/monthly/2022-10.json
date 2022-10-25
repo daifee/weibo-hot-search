@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666718821763,
+  "endTime": 1666720742097,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -38339,6 +38339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47464,
+      "num": 69340,
+      "word": "就没有张雨绮不能拿捏的梗",
+      "onboard_time": 1666717755,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47386,
       "num": 47386,
       "word": "尼日利亚考虑买C919",
@@ -39265,6 +39273,14 @@
       "onboard_time": 1665036864,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28600,
+      "num": 28600,
+      "word": "周深演唱过的影视剧歌曲",
+      "onboard_time": 1666719974,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 28216,
