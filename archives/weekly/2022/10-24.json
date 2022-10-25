@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666704619719,
+  "endTime": 1666706858532,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1633277,
-      "num": 270087,
+      "raw_hot": 1878897,
+      "num": 507020,
       "word": "阿迪达斯终止与侃爷合作",
       "onboard_time": 1666700844,
       "rank": 11,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 839407,
-      "num": 414909,
+      "num": 487395,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 7,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637516,
+      "num": 259140,
+      "word": "浮图缘王鹤棣陈钰琪吻戏路透",
+      "onboard_time": 1666705885,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 627274,
       "num": 281983,
       "word": "杨群去世",
@@ -425,6 +433,14 @@
       "onboard_time": 1666625427,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 592654,
+      "num": 258518,
+      "word": "封宿舍多天女生用瑜伽垫做麻将",
+      "onboard_time": 1666702164,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 590686,
@@ -617,6 +633,14 @@
       "onboard_time": 1666598124,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483150,
+      "num": 483150,
+      "word": "刘耀文说三周年后会发新歌",
+      "onboard_time": 1666706304,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 481634,
@@ -843,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409975,
+      "num": 249197,
+      "word": "杨洋会因为健康状况焦虑",
+      "onboard_time": 1666704806,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409522,
       "num": 87229,
       "word": "苹果曾考虑推出塑料版iPad",
@@ -905,6 +937,14 @@
       "onboard_time": 1666622127,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389767,
+      "num": 142628,
+      "word": "梁朝伟王一博程耳智族GQ十月封面",
+      "onboard_time": 1666706726,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 387608,
@@ -1195,6 +1235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 315393,
+      "num": 315393,
+      "word": "华为因专利纠纷起诉亚马逊",
+      "onboard_time": 1666704689,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 313750,
       "num": 30683,
       "word": "研究发现猫和狗也会做梦",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1666684162,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279188,
+      "num": 279188,
+      "word": "当主人给正在舔毛的猫咪配音",
+      "onboard_time": 1666701264,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 278868,
@@ -1484,7 +1540,7 @@
     },
     {
       "raw_hot": 252946,
-      "num": 491209,
+      "num": 565310,
       "word": "音乐电视作品我们的歌",
       "onboard_time": 1666700004,
       "rank": 0,
@@ -1513,14 +1569,6 @@
       "onboard_time": 1666693044,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 246293,
-      "num": 176248,
-      "word": "封宿舍多天女生用瑜伽垫做麻将",
-      "onboard_time": 1666702164,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 243894,
@@ -1771,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212218,
+      "num": 129802,
+      "word": "gidle新歌nxde一位",
+      "onboard_time": 1666703667,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211819,
       "num": 66104,
       "word": "8岁女孩吹葫芦丝遭狗狗一掌拍落",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1666578565,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 182487,
-      "num": 182487,
-      "word": "当主人给正在舔毛的猫咪配音",
-      "onboard_time": 1666701264,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 181189,
@@ -2227,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147109,
+      "num": 117821,
+      "word": "权志龙ELLE Korea内页大片",
+      "onboard_time": 1666706184,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147021,
       "num": 12943,
       "word": "卧龙保护区拍到四只雪豹同框",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1666614022,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145108,
+      "num": 114741,
+      "word": "莲花楼",
+      "onboard_time": 1666623747,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 144677,
@@ -2284,7 +2348,7 @@
     },
     {
       "raw_hot": 142730,
-      "num": 489285,
+      "num": 553014,
       "word": "世界技能大赛特别赛中国已获15金",
       "onboard_time": 1666692684,
       "rank": 1,
@@ -2347,6 +2411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 138436,
+      "num": 138436,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1666704505,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137613,
       "num": 29101,
       "word": "章鱼哥演我上班心情",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1666532363,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134365,
+      "num": 109549,
+      "word": "秦岚蓝盈莹合照",
+      "onboard_time": 1666705946,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133140,
@@ -2411,14 +2491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129802,
-      "num": 129802,
-      "word": "gidle新歌nxde一位",
-      "onboard_time": 1666703667,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128874,
       "num": 128874,
       "word": "ITZY街头随机舞蹈",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1666668202,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128636,
+      "num": 60460,
+      "word": "二十大报告全文",
+      "onboard_time": 1666706845,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 127036,
@@ -2515,12 +2595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122218,
-      "num": 45540,
-      "word": "莲花楼",
-      "onboard_time": 1666623747,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 121172,
+      "num": 121172,
+      "word": "出生在武汉的小江豚取名汉宝",
+      "onboard_time": 1666704565,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119805,
@@ -2651,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107733,
+      "num": 107733,
+      "word": "辽宁男篮vs吉林男篮",
+      "onboard_time": 1666701926,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107483,
       "num": 102357,
       "word": "秦岚说王子异的进步很大",
@@ -2737,6 +2825,14 @@
       "onboard_time": 1666587983,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 100574,
+      "num": 529987,
+      "word": "党的二十大报告有哪些深意",
+      "onboard_time": 1666704325,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 100501,
@@ -3227,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61576,
-      "num": 61576,
-      "word": "出生在武汉的小江豚取名汉宝",
-      "onboard_time": 1666704565,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60762,
       "num": 12574,
       "word": "樊振东吃香蕉",
@@ -3297,14 +3385,6 @@
       "onboard_time": 1666613482,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 58221,
-      "num": 58221,
-      "word": "宝可梦朱紫",
-      "onboard_time": 1666704505,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 58204,
@@ -3571,14 +3651,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 13717,
-      "num": 395215,
-      "word": "党的二十大报告有哪些深意",
-      "onboard_time": 1666704325,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 13577,
       "num": 6670,
       "word": "一代人有一代人的八点回忆",
@@ -3617,6 +3689,14 @@
       "onboard_time": 1666530085,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10901,
+      "num": 251790,
+      "word": "男子溺水4市民先后跳水接力救援",
+      "onboard_time": 1666706486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9230,
@@ -3717,6 +3797,9 @@
     },
     {
       "word": "#奋力实现建军一百年奋斗目标#"
+    },
+    {
+      "word": "#新征程领路人#"
     }
   ]
 }

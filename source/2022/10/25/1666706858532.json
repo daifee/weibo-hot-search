@@ -1,0 +1,410 @@
+{
+  "runTime": 1666706858532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 207505,
+        "num": 565310,
+        "word": "音乐电视作品我们的歌",
+        "onboard_time": 1666700004,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76376,
+        "num": 553014,
+        "word": "世界技能大赛特别赛中国已获15金",
+        "onboard_time": 1666692684,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 529987,
+        "word": "党的二十大报告有哪些深意",
+        "onboard_time": 1666704325,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1878897,
+        "num": 507020,
+        "word": "阿迪达斯终止与侃爷合作",
+        "onboard_time": 1666700844,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 820032,
+        "num": 487395,
+        "word": "官方回应开封市区巨响",
+        "onboard_time": 1666701143,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483150,
+        "num": 483150,
+        "word": "刘耀文说三周年后会发新歌",
+        "onboard_time": 1666706304,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315393,
+        "num": 315393,
+        "word": "华为因专利纠纷起诉亚马逊",
+        "onboard_time": 1666704689,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288818,
+        "num": 288818,
+        "word": "主人用淡水生鱼喂猫遭质疑",
+        "onboard_time": 1666695144,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279188,
+        "num": 279188,
+        "word": "当主人给正在舔毛的猫咪配音",
+        "onboard_time": 1666701264,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260980,
+        "num": 260980,
+        "word": "听会聊天的人说话是什么体验",
+        "onboard_time": 1666698864,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637516,
+        "num": 259140,
+        "word": "浮图缘王鹤棣陈钰琪吻戏路透",
+        "onboard_time": 1666705885,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592654,
+        "num": 258518,
+        "word": "封宿舍多天女生用瑜伽垫做麻将",
+        "onboard_time": 1666702164,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 503986,
+        "num": 255754,
+        "word": "开封巨响",
+        "onboard_time": 1666695384,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447836,
+        "num": 253506,
+        "word": "张小厚这次见李宇春没怂",
+        "onboard_time": 1666701809,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10901,
+        "num": 251790,
+        "word": "男子溺水4市民先后跳水接力救援",
+        "onboard_time": 1666706486,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409975,
+        "num": 249197,
+        "word": "杨洋会因为健康状况焦虑",
+        "onboard_time": 1666704806,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296833,
+        "num": 247027,
+        "word": "新乡",
+        "onboard_time": 1666695625,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245304,
+        "num": 245304,
+        "word": "女子上门为年轻人代厨4菜1汤66元",
+        "onboard_time": 1666693463,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167138,
+        "num": 167138,
+        "word": "女子骑车载孩子抢道被货车撞倒",
+        "onboard_time": 1666699944,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150676,
+        "num": 150676,
+        "word": "C罗重回曼联一线队训练",
+        "onboard_time": 1666702704,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1282540,
+        "num": 150637,
+        "word": "富士康",
+        "onboard_time": 1666701023,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674494,
+        "num": 146261,
+        "word": "宣萱回应王宝钏挖野菜",
+        "onboard_time": 1666699344,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389767,
+        "num": 142628,
+        "word": "梁朝伟王一博程耳智族GQ十月封面",
+        "onboard_time": 1666706726,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335259,
+        "num": 141479,
+        "word": "脱口秀大会",
+        "onboard_time": 1666689323,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138436,
+        "num": 138436,
+        "word": "宝可梦朱紫",
+        "onboard_time": 1666704505,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138140,
+        "num": 138140,
+        "word": "半成品火锅好吃吗",
+        "onboard_time": 1666698324,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130728,
+        "num": 130728,
+        "word": "90后姑娘辞去村干部全职当农民",
+        "onboard_time": 1666697242,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126673,
+        "num": 126673,
+        "word": "上海启动吸入用新冠疫苗接种",
+        "onboard_time": 1666688843,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121172,
+        "num": 121172,
+        "word": "出生在武汉的小江豚取名汉宝",
+        "onboard_time": 1666704565,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121162,
+        "num": 121162,
+        "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+        "onboard_time": 1666688663,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212218,
+        "num": 119706,
+        "word": "gidle新歌nxde一位",
+        "onboard_time": 1666703667,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147109,
+        "num": 117821,
+        "word": "权志龙ELLE Korea内页大片",
+        "onboard_time": 1666706184,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145108,
+        "num": 114741,
+        "word": "莲花楼",
+        "onboard_time": 1666706546,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141709,
+        "num": 113373,
+        "word": "iPhone15将被强制使用USB-C",
+        "onboard_time": 1666675285,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134365,
+        "num": 109549,
+        "word": "秦岚蓝盈莹合照",
+        "onboard_time": 1666705946,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108355,
+        "num": 108355,
+        "word": "老干妈跌出贵州民企前10",
+        "onboard_time": 1666689744,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107733,
+        "num": 107733,
+        "word": "辽宁男篮vs吉林男篮",
+        "onboard_time": 1666701926,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98999,
+        "num": 98999,
+        "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+        "onboard_time": 1666689443,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97859,
+        "num": 97859,
+        "word": "大飞",
+        "onboard_time": 1666679365,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86068,
+        "num": 86068,
+        "word": "苏纳克正式成为英国新首相",
+        "onboard_time": 1666695323,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 115622,
+        "num": 85776,
+        "word": "杨紫热辣滚烫条纹衬衫路透",
+        "onboard_time": 1666689744,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110784,
+        "num": 85426,
+        "word": "韩国新恋综社内恋爱",
+        "onboard_time": 1666695384,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88021,
+        "num": 85199,
+        "word": "南忘今萧至今未合体",
+        "onboard_time": 1666691965,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84943,
+        "num": 84943,
+        "word": "数学好真的可以拿捏一切",
+        "onboard_time": 1666685544,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78160,
+        "num": 78160,
+        "word": "第五人格策划",
+        "onboard_time": 1666697784,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66722,
+        "num": 66722,
+        "word": "万事要先对得起自己",
+        "onboard_time": 1666698804,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61735,
+        "num": 61735,
+        "word": "杭州一公交为轮椅女孩改路线",
+        "onboard_time": 1666692083,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128636,
+        "num": 60460,
+        "word": "二十大报告全文",
+        "onboard_time": 1666706845,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58652,
+        "num": 58652,
+        "word": "樊振东孙颖莎出席抽签仪式",
+        "onboard_time": 1666690343,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58056,
+        "num": 58056,
+        "word": "我国将建设15分钟养老服务圈",
+        "onboard_time": 1666685364,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程领路人#"
+    }
+  }
+}
