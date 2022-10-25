@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666729791698,
+  "endTime": 1666730833333,
   "band_list": [
     {
       "raw_hot": 808856,
@@ -427,12 +427,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 17489,
-      "num": 16802,
+      "raw_hot": 20331,
+      "num": 20331,
       "word": "莲花楼",
       "onboard_time": 1666706546,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13380,
+      "num": 13380,
+      "word": "6岁女孩上网课疯狂举手求答题",
+      "onboard_time": 1666729750,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 10002,
@@ -443,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 9077,
-      "num": 9077,
-      "word": "6岁女孩上网课疯狂举手求答题",
-      "onboard_time": 1666729750,
-      "rank": 42,
-      "category": "教育,社会新闻"
+      "raw_hot": 8715,
+      "num": 9115,
+      "word": "14个月宝宝吃饭全家变气氛组",
+      "onboard_time": 1666729032,
+      "rank": 43,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
