@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666684599996,
+  "endTime": 1666687252243,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1134253,
-      "num": 112240,
+      "num": 139482,
       "word": "iPhone15将被强制使用USB-C",
       "onboard_time": 1666675285,
       "rank": 31,
@@ -291,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 673821,
+      "num": 172061,
+      "word": "樊振东轮空",
+      "onboard_time": 1666684762,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 650886,
       "num": 82418,
       "word": "男子深夜被女子求救声吓醒开窗笑哭",
@@ -337,6 +345,14 @@
       "onboard_time": 1666625427,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 590686,
+      "num": 335305,
+      "word": "奥比岛",
+      "onboard_time": 1666682362,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 588538,
@@ -555,12 +571,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 437049,
-      "num": 335305,
-      "word": "奥比岛",
-      "onboard_time": 1666682362,
-      "rank": 5,
-      "category": "游戏"
+      "raw_hot": 430982,
+      "num": 303011,
+      "word": "不是所有水果都适合在冰箱储存",
+      "onboard_time": 1666680984,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429908,
@@ -633,6 +649,14 @@
       "onboard_time": 1666625364,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 414588,
+      "num": 171548,
+      "word": "车银优韩素希李洙赫短剧完整版",
+      "onboard_time": 1666683923,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 409522,
@@ -899,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339174,
+      "num": 171025,
+      "word": "武汉防空警报",
+      "onboard_time": 1666686624,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336924,
       "num": 89707,
       "word": "Meiko和Deft拥抱",
@@ -987,14 +1019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303011,
-      "num": 303011,
-      "word": "不是所有水果都适合在冰箱储存",
-      "onboard_time": 1666680984,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301919,
       "num": 69382,
       "word": "老乡鸡毛都被薅秃了",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1666602683,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299503,
+      "num": 170960,
+      "word": "苏有朋说披荆斩棘是生存游戏",
+      "onboard_time": 1666686145,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295076,
@@ -1060,11 +1092,19 @@
     },
     {
       "raw_hot": 287890,
-      "num": 356163,
+      "num": 426670,
       "word": "五星红旗第一次在联合国升起画面",
       "onboard_time": 1666675043,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287689,
+      "num": 170307,
+      "word": "长风渡剧组买下广播剧主题曲版权",
+      "onboard_time": 1666685904,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 281339,
@@ -1081,6 +1121,22 @@
       "onboard_time": 1666613722,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280415,
+      "num": 169828,
+      "word": "数学好真的可以拿捏一切",
+      "onboard_time": 1666685544,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 279467,
+      "num": 169561,
+      "word": "绝境之王C罗",
+      "onboard_time": 1666684162,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 278868,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1666667965,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277127,
+      "num": 169532,
+      "word": "新乡WTT男单对阵出炉",
+      "onboard_time": 1666684825,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 275867,
@@ -1395,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220636,
+      "num": 168317,
+      "word": "能哭湿枕头的小说",
+      "onboard_time": 1666682783,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220333,
       "num": 67168,
       "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1666679245,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205662,
+      "num": 167868,
+      "word": "宋仲基财阀家的小儿子新预告",
+      "onboard_time": 1666685004,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 203663,
@@ -1747,20 +1827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153061,
+      "num": 153061,
+      "word": "对电子烟征收消费税",
+      "onboard_time": 1666684644,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151942,
       "num": 45582,
       "word": "王一博firstframe年度推介人",
       "onboard_time": 1666623504,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149801,
-      "num": 149801,
-      "word": "能哭湿枕头的小说",
-      "onboard_time": 1666682783,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 147541,
@@ -1835,12 +1915,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141906,
+      "num": 141906,
+      "word": "妈妈总是找一切借口给钱",
+      "onboard_time": 1666683564,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141781,
+      "num": 133807,
+      "word": "aespa韩版VOGUE黑白大片",
+      "onboard_time": 1666685904,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141163,
       "num": 82541,
       "word": "王凯说今晚见陈宇",
       "onboard_time": 1666611921,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "我国将建设15分钟养老服务圈",
+      "onboard_time": 1666685364,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139539,
@@ -1865,14 +1969,6 @@
       "onboard_time": 1666590862,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 138480,
-      "num": 112141,
-      "word": "车银优韩素希李洙赫短剧完整版",
-      "onboard_time": 1666683923,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 137613,
@@ -1915,6 +2011,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 132061,
+      "num": 132061,
+      "word": "叼着逗猫棒找主人玩的猫咪",
+      "onboard_time": 1666685544,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132058,
       "num": 29146,
       "word": "72岁奶奶1分钟剪出路人侧颜",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1666674026,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130542,
+      "num": 130542,
+      "word": "男子昏迷9名90后女护士组团抢救",
+      "onboard_time": 1666683743,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128874,
@@ -2083,20 +2195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112824,
+      "num": 112824,
+      "word": "陈都灵莲花楼落泪镜头",
+      "onboard_time": 1666683325,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112288,
       "num": 112288,
       "word": "7家非法社会组织网站被关停",
       "onboard_time": 1666680803,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112095,
-      "num": 112095,
-      "word": "陈都灵莲花楼落泪镜头",
-      "onboard_time": 1666683325,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 110728,
@@ -2219,6 +2331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99399,
+      "num": 99399,
+      "word": "樊振东回应亚洲杯参赛安排",
+      "onboard_time": 1666687044,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98863,
       "num": 98863,
       "word": "哈登29分",
@@ -2259,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95665,
+      "num": 95665,
+      "word": "王源灿烂灿烂花絮照",
+      "onboard_time": 1666687103,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93841,
       "num": 93841,
       "word": "梦天实验舱将择机发射",
@@ -2275,20 +2403,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 93189,
+      "num": 93189,
+      "word": "研究揭示为啥成人心脏不能再生",
+      "onboard_time": 1666681285,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 92348,
       "num": 30469,
       "word": "前三季度全国居民人均可支配收入27650元",
       "onboard_time": 1666580963,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90380,
-      "num": 90380,
-      "word": "绝境之王C罗",
-      "onboard_time": 1666684162,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 89372,
@@ -2331,28 +2459,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 87256,
-      "num": 87256,
-      "word": "男子昏迷9名90后女护士组团抢救",
-      "onboard_time": 1666683743,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87193,
       "num": 25192,
       "word": "孙颖莎WTT澳门赛夺冠",
       "onboard_time": 1666523541,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86521,
-      "num": 86521,
-      "word": "研究揭示为啥成人心脏不能再生",
-      "onboard_time": 1666681285,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85239,
@@ -2369,14 +2481,6 @@
       "onboard_time": 1666566919,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83372,
-      "num": 83372,
-      "word": "妈妈总是找一切借口给钱",
-      "onboard_time": 1666683564,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 82623,
@@ -2505,6 +2609,14 @@
       "onboard_time": 1666600102,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 70653,
+      "num": 70653,
+      "word": "黄继光生前留下的一封家书",
+      "onboard_time": 1666686923,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69957,
