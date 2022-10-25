@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666679858003,
+  "endTime": 1666681226433,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1134253,
-      "num": 86526,
+      "num": 88628,
       "word": "iPhone15将被强制使用USB-C",
       "onboard_time": 1666675285,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1099637,
+      "num": 183972,
+      "word": "大飞",
+      "onboard_time": 1666679365,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 1048630,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526114,
+      "num": 193583,
+      "word": "俄罗斯称不打算在乌克兰使用核武器",
+      "onboard_time": 1666679064,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 519861,
       "num": 288543,
       "word": "刘诗雯参选国际乒联运动员委员会",
@@ -147,8 +163,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 484833,
-      "num": 176113,
+      "raw_hot": 497647,
+      "num": 181151,
       "word": "田中秀和被捕",
       "onboard_time": 1666675886,
       "rank": 12,
@@ -267,6 +283,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 344138,
+      "num": 242811,
+      "word": "陈瑶回应离开唐人",
+      "onboard_time": 1666678043,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342498,
       "num": 108537,
       "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
@@ -275,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325665,
-      "num": 242811,
-      "word": "陈瑶回应离开唐人",
-      "onboard_time": 1666678043,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 335834,
+      "num": 193251,
+      "word": "李承铉认为感情中成熟度比年龄更重要",
+      "onboard_time": 1666677865,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 325337,
@@ -355,6 +379,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 287890,
+      "num": 287890,
+      "word": "五星红旗第一次在联合国升起画面",
+      "onboard_time": 1666675043,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278868,
       "num": 241646,
       "word": "邮递员7年为20多位烈士找到家",
@@ -401,14 +433,6 @@
       "onboard_time": 1666619965,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "五星红旗第一次在联合国升起画面",
-      "onboard_time": 1666675043,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257882,
@@ -483,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235599,
-      "num": 175748,
-      "word": "大飞",
-      "onboard_time": 1666679365,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 235088,
       "num": 68081,
       "word": "今晚大家都很成功",
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225389,
+      "num": 202849,
+      "word": "12306又出实用新功能",
+      "onboard_time": 1666674984,
+      "rank": 7,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 214096,
       "num": 33203,
       "word": "新郎回应婚礼现场送新娘1张彩票",
@@ -563,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202849,
-      "num": 202849,
-      "word": "12306又出实用新功能",
-      "onboard_time": 1666674984,
-      "rank": 7,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 201226,
       "num": 85317,
       "word": "莲花楼杀青特辑",
@@ -593,14 +609,6 @@
       "onboard_time": 1666665263,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190222,
-      "num": 190222,
-      "word": "俄罗斯称不打算在乌克兰使用核武器",
-      "onboard_time": 1666679064,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 189984,
@@ -635,6 +643,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 186294,
+      "num": 186294,
+      "word": "女环卫工6年捡180多把弃伞送路人",
+      "onboard_time": 1666678616,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 180447,
       "num": 33080,
       "word": "小说里的清冷女主有脸了",
@@ -667,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174614,
+      "num": 148355,
+      "word": "李咏去世四周年",
+      "onboard_time": 1666677145,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 167880,
       "num": 32989,
       "word": "林莉官宣退役",
       "onboard_time": 1666621225,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164534,
+      "num": 147810,
+      "word": "王安宇说金晨还是一个小女孩",
+      "onboard_time": 1666679783,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163890,
@@ -683,20 +715,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 162014,
-      "num": 162014,
-      "word": "李承铉认为感情中成熟度比年龄更重要",
-      "onboard_time": 1666677865,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158715,
       "num": 133802,
       "word": "双十一推出猜价格新玩法",
       "onboard_time": 1666665382,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 154322,
+      "num": 154322,
+      "word": "养猫人囤猫砂有多硬核",
+      "onboard_time": 1666678646,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147198,
+      "num": 147198,
+      "word": "心动的信号",
+      "onboard_time": 1666674925,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 142515,
@@ -723,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139032,
-      "num": 139032,
-      "word": "心动的信号",
-      "onboard_time": 1666674925,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 136573,
+      "num": 136573,
+      "word": "伸冤56年老人汪康夫因病去世",
+      "onboard_time": 1666680685,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132468,
@@ -761,14 +801,6 @@
       "onboard_time": 1666668202,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127839,
-      "num": 86464,
-      "word": "李咏去世四周年",
-      "onboard_time": 1666677145,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 122982,
@@ -811,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109473,
-      "num": 109473,
-      "word": "养猫人囤猫砂有多硬核",
-      "onboard_time": 1666678646,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106659,
       "num": 106659,
       "word": "在校园里看了场猫和老鼠",
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103676,
+      "num": 103676,
+      "word": "有没有人管管海鸟啊",
+      "onboard_time": 1666679604,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103214,
       "num": 65530,
       "word": "志愿军抗美援朝出国作战72周年",
@@ -865,6 +897,14 @@
       "onboard_time": 1666671082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97843,
+      "num": 175925,
+      "word": "20岁小伙欲轻生网友报警救下1命",
+      "onboard_time": 1666677626,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95287,
@@ -889,14 +929,6 @@
       "onboard_time": 1666656446,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 86448,
-      "num": 86448,
-      "word": "女环卫工6年捡180多把弃伞送路人",
-      "onboard_time": 1666678616,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 83680,
@@ -963,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76995,
+      "num": 76995,
+      "word": "4S店员工集体帮邻居老人剥玉米",
+      "onboard_time": 1666680146,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 76102,
       "num": 76102,
       "word": "志愿军真实战斗场景",
@@ -979,19 +1019,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71829,
-      "num": 71829,
-      "word": "有没有人管管海鸟啊",
-      "onboard_time": 1666679604,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69957,
       "num": 32694,
       "word": "祖国人民不会忘记",
       "onboard_time": 1666655242,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68580,
+      "num": 68580,
+      "word": "7家非法社会组织网站被关停",
+      "onboard_time": 1666680803,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1003,12 +1043,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67313,
-      "num": 67313,
-      "word": "王安宇说金晨还是一个小女孩",
-      "onboard_time": 1666679783,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 67234,
+      "num": 67234,
+      "word": "不是所有水果都适合在冰箱储存",
+      "onboard_time": 1666680984,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66245,
+      "num": 66245,
+      "word": "新兵开学典礼有多燃",
+      "onboard_time": 1666681104,
+      "rank": 46,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 65703,
@@ -1049,14 +1097,6 @@
       "onboard_time": 1666606402,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 58832,
-      "num": 175925,
-      "word": "20岁小伙欲轻生网友报警救下1命",
-      "onboard_time": 1666677626,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57950,
