@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666709720606,
+  "endTime": 1666711904309,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2021522,
+      "num": 159692,
+      "word": "郑州疫情防控",
+      "onboard_time": 1666709129,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1950540,
       "num": 473700,
       "word": "开封巨响",
@@ -33,14 +41,6 @@
       "onboard_time": 1666700844,
       "rank": 11,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1601000,
-      "num": 159692,
-      "word": "郑州疫情防控",
-      "onboard_time": 1666709129,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1549735,
@@ -107,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 924896,
-      "num": 430193,
+      "raw_hot": 931697,
+      "num": 430685,
       "word": "男子中2.19亿不告诉老婆孩子怕其膨胀",
       "onboard_time": 1666707446,
       "rank": 35,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720489,
+      "num": 143567,
+      "word": "兰州疫情防控",
+      "onboard_time": 1666711105,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715687,
       "num": 715687,
       "word": "失散亲兄弟刚相认就牺牲在上甘岭",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 643447,
-      "num": 409358,
+      "num": 430542,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
       "onboard_time": 1666705885,
       "rank": 10,
@@ -273,6 +281,14 @@
       "onboard_time": 1666679064,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 542696,
+      "num": 431095,
+      "word": "删好友前需要告诉对方吗",
+      "onboard_time": 1666709607,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 536600,
@@ -377,6 +393,14 @@
       "onboard_time": 1666695384,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459720,
+      "num": 431004,
+      "word": "全校仅1名老师4名学生每周升国旗",
+      "onboard_time": 1666708348,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 457932,
@@ -593,6 +617,14 @@
       "onboard_time": 1666678616,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 350470,
+      "num": 350470,
+      "word": "福建非绿码考生不得参加考试",
+      "onboard_time": 1666709367,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 345441,
@@ -947,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236554,
+      "num": 430928,
+      "word": "苍兰诀角色号更新微博",
+      "onboard_time": 1666711228,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235088,
       "num": 68081,
       "word": "今晚大家都很成功",
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 193915,
-      "num": 109549,
+      "num": 115674,
       "word": "秦岚蓝盈莹合照",
       "onboard_time": 1666705946,
       "rank": 34,
@@ -1275,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164363,
-      "num": 164363,
-      "word": "全校仅1名老师4名学生每周升国旗",
-      "onboard_time": 1666708348,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 163890,
       "num": 32648,
       "word": "欧诗漫",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1666683564,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151756,
+      "num": 151756,
+      "word": "卡塔尔世界杯亮眼的中国建造",
+      "onboard_time": 1666707747,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 149500,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1666662384,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122912,
+      "num": 122912,
+      "word": "给主人递凳子的小狗",
+      "onboard_time": 1666709607,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 122670,
@@ -1707,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89207,
+      "num": 74599,
+      "word": "这就是被财神爷吻过的嗓音吧",
+      "onboard_time": 1666710268,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88989,
       "num": 77280,
       "word": "宋茜许魏洲新剧演情侣",
@@ -1729,14 +1785,6 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86942,
-      "num": 86942,
-      "word": "卡塔尔世界杯亮眼的中国建造",
-      "onboard_time": 1666707747,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 86382,
@@ -1785,14 +1833,6 @@
       "onboard_time": 1666657586,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 81278,
-      "num": 81278,
-      "word": "福建非绿码考生不得参加考试",
-      "onboard_time": 1666709367,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 79753,
@@ -1849,22 +1889,6 @@
       "onboard_time": 1666613722,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74825,
-      "num": 74825,
-      "word": "给主人递凳子的小狗",
-      "onboard_time": 1666709607,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 72474,
-      "num": 72474,
-      "word": "删好友前需要告诉对方吗",
-      "onboard_time": 1666709607,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 70653,
@@ -2035,6 +2059,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51268,
+      "num": 51268,
+      "word": "究竟该如何处理人际关系",
+      "onboard_time": 1666711766,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 49837,
+      "num": 49837,
+      "word": "特拉斯发表告别演说",
+      "onboard_time": 1666711826,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 49608,
       "num": 405560,
       "word": "学深悟透才能见行见效",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1666617387,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 16907,
+      "num": 431206,
+      "word": "锚定中心任务开好局起好步",
+      "onboard_time": 1666711228,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 15271,
