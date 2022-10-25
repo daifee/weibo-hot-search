@@ -1,0 +1,410 @@
+{
+  "runTime": 1666684599996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 234469,
+        "num": 354649,
+        "word": "五星红旗第一次在联合国升起画面",
+        "onboard_time": 1666675043,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137697,
+        "num": 351192,
+        "word": "失散亲兄弟刚相认就牺牲在上甘岭",
+        "onboard_time": 1666663103,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35934,
+        "num": 346514,
+        "word": "学深悟透才能见行见效",
+        "onboard_time": 1666673545,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 562564,
+        "num": 339385,
+        "word": "俄罗斯称不打算在乌克兰使用核武器",
+        "onboard_time": 1666679064,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 437049,
+        "num": 335305,
+        "word": "奥比岛",
+        "onboard_time": 1666682362,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362128,
+        "num": 328473,
+        "word": "李承铉认为感情中成熟度比年龄更重要",
+        "onboard_time": 1666677865,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326878,
+        "num": 326878,
+        "word": "王安宇说金晨还是一个小女孩",
+        "onboard_time": 1666679783,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320719,
+        "num": 320719,
+        "word": "女环卫工6年捡180多把弃伞送路人",
+        "onboard_time": 1666678616,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 303011,
+        "num": 303011,
+        "word": "不是所有水果都适合在冰箱储存",
+        "onboard_time": 1666680984,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234962,
+        "num": 302816,
+        "word": "李咏去世四周年",
+        "onboard_time": 1666677145,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 832863,
+        "num": 301049,
+        "word": "大飞",
+        "onboard_time": 1666679365,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376415,
+        "num": 299939,
+        "word": "陈瑶回应离开唐人",
+        "onboard_time": 1666678043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317769,
+        "num": 299773,
+        "word": "伸冤56年老人汪康夫因病去世",
+        "onboard_time": 1666680685,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298728,
+        "num": 298728,
+        "word": "迪丽热巴爆炸头大片",
+        "onboard_time": 1666673006,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60789,
+        "num": 291570,
+        "word": "甘宇回忆17个死里逃生的日夜",
+        "onboard_time": 1666681224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286122,
+        "num": 286122,
+        "word": "田中秀和被捕",
+        "onboard_time": 1666675886,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225565,
+        "num": 225565,
+        "word": "养猫人囤猫砂有多硬核",
+        "onboard_time": 1666678646,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224269,
+        "num": 224269,
+        "word": "4S店员工集体帮邻居老人剥玉米",
+        "onboard_time": 1666680146,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 214024,
+        "num": 214024,
+        "word": "梁靖崑被取消国际国内比赛资格",
+        "onboard_time": 1666665322,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179225,
+        "num": 179225,
+        "word": "19岁湖南大学生离世捐器官救5人",
+        "onboard_time": 1666666883,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 356981,
+        "num": 179129,
+        "word": "LPL为米勒澄清",
+        "onboard_time": 1666675585,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236373,
+        "num": 179112,
+        "word": "杨群去世",
+        "onboard_time": 1666673365,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178587,
+        "num": 178587,
+        "word": "杨颖心动的信号小香风造型",
+        "onboard_time": 1666679245,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149801,
+        "num": 149801,
+        "word": "能哭湿枕头的小说",
+        "onboard_time": 1666682783,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "谁都知道我爱你定档1026",
+        "onboard_time": 1666678405,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133164,
+        "num": 133164,
+        "word": "苹果正式允许iOS发行NFT",
+        "onboard_time": 1666672465,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116324,
+        "num": 116324,
+        "word": "有没有人管管海鸟啊",
+        "onboard_time": 1666679604,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112382,
+        "num": 112382,
+        "word": "12306又出实用新功能",
+        "onboard_time": 1666674984,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 112288,
+        "num": 112288,
+        "word": "7家非法社会组织网站被关停",
+        "onboard_time": 1666680803,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97404,
+        "num": 112276,
+        "word": "刘诗雯参选国际乒联运动员委员会",
+        "onboard_time": 1666671745,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515605,
+        "num": 112240,
+        "word": "iPhone15将被强制使用USB-C",
+        "onboard_time": 1666675285,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167579,
+        "num": 112192,
+        "word": "95后硕士基层工作第一天说比读博难",
+        "onboard_time": 1666674083,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138480,
+        "num": 112141,
+        "word": "车银优韩素希李洙赫短剧完整版",
+        "onboard_time": 1666683923,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125107,
+        "num": 112114,
+        "word": "心动的信号",
+        "onboard_time": 1666674925,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112095,
+        "num": 112095,
+        "word": "陈都灵莲花楼落泪镜头",
+        "onboard_time": 1666683325,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101447,
+        "num": 101447,
+        "word": "孔刘金高银韩版ELLE内页大片",
+        "onboard_time": 1666671205,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90380,
+        "num": 90380,
+        "word": "绝境之王C罗",
+        "onboard_time": 1666684162,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86521,
+        "num": 86521,
+        "word": "研究揭示为啥成人心脏不能再生",
+        "onboard_time": 1666681285,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 83372,
+        "num": 83372,
+        "word": "妈妈总是找一切借口给钱",
+        "onboard_time": 1666683564,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77315,
+        "num": 77315,
+        "word": "邮递员7年为20多位烈士找到家",
+        "onboard_time": 1666674205,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84983,
+        "num": 77280,
+        "word": "宋茜许魏洲新剧演情侣",
+        "onboard_time": 1666684104,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79868,
+        "num": 76882,
+        "word": "范丞丞了不起的夜晚抽烟镜头",
+        "onboard_time": 1666673423,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76416,
+        "num": 76416,
+        "word": "双十一推出猜价格新玩法",
+        "onboard_time": 1666665382,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 76353,
+        "num": 76353,
+        "word": "男子昏迷9名90后女护士组团抢救",
+        "onboard_time": 1666683743,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71555,
+        "num": 71555,
+        "word": "男子穿拖鞋爬4楼解救被卡男孩",
+        "onboard_time": 1666670424,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 68291,
+        "num": 68291,
+        "word": "20岁小伙欲轻生网友报警救下1命",
+        "onboard_time": 1666677626,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63808,
+        "num": 63808,
+        "word": "王者七周年皮肤CG",
+        "onboard_time": 1666665382,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60725,
+        "num": 60725,
+        "word": "女生买柚子闲置20多天按压冒灰烟",
+        "onboard_time": 1666655662,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59046,
+        "num": 59046,
+        "word": "当我的猫瘾突然犯了",
+        "onboard_time": 1666664842,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58872,
+        "num": 58872,
+        "word": "张桂梅回到华坪女高后学生热情拥抱",
+        "onboard_time": 1666682544,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告学习笔记#"
+    }
+  }
+}
