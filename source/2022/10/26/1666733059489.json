@@ -1,0 +1,410 @@
+{
+  "runTime": 1666733059489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 41264,
+        "num": 41264,
+        "word": "女子上门为年轻人代厨4菜1汤66元",
+        "onboard_time": 1666693463,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26232,
+        "num": 26232,
+        "word": "全校仅1名老师4名学生每周升国旗",
+        "onboard_time": 1666708348,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 8137,
+        "num": 26119,
+        "word": "锚定中心任务开好局起好步",
+        "onboard_time": 1666711228,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123656,
+        "num": 25022,
+        "word": "坂本龙一",
+        "onboard_time": 1666712185,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56918,
+        "num": 23798,
+        "word": "6岁女孩上网课疯狂举手求答题",
+        "onboard_time": 1666729750,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 37676,
+        "num": 23333,
+        "word": "删好友前需要告诉对方吗",
+        "onboard_time": 1666709607,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34207,
+        "num": 22282,
+        "word": "14个月宝宝吃饭全家变气氛组",
+        "onboard_time": 1666729032,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22163,
+        "num": 22163,
+        "word": "武汉全城拉响防空警报",
+        "onboard_time": 1666712306,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20082,
+        "num": 20082,
+        "word": "听会聊天的人说话是什么体验",
+        "onboard_time": 1666698864,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19291,
+        "num": 19291,
+        "word": "华为因专利纠纷起诉亚马逊",
+        "onboard_time": 1666704689,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 84393,
+        "num": 19240,
+        "word": "阿迪达斯终止与侃爷合作",
+        "onboard_time": 1666700844,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 49120,
+        "num": 19194,
+        "word": "男子中2.19亿不告诉老婆孩子怕其膨胀",
+        "onboard_time": 1666707446,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27554,
+        "num": 19072,
+        "word": "官方回应开封市区巨响",
+        "onboard_time": 1666701143,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24628,
+        "num": 19010,
+        "word": "封宿舍多天女生用瑜伽垫做麻将",
+        "onboard_time": 1666702164,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18982,
+        "num": 18982,
+        "word": "福建非绿码考生不得参加考试",
+        "onboard_time": 1666709367,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15088,
+        "num": 15088,
+        "word": "浮图缘王鹤棣陈钰琪吻戏路透",
+        "onboard_time": 1666705885,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14662,
+        "num": 14662,
+        "word": "主人用淡水生鱼喂猫遭质疑",
+        "onboard_time": 1666695144,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14574,
+        "num": 14574,
+        "word": "杨洋会因为健康状况焦虑",
+        "onboard_time": 1666704806,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14147,
+        "num": 14147,
+        "word": "段永平六次加仓腾讯",
+        "onboard_time": 1666712606,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13936,
+        "num": 13936,
+        "word": "装修的反面教材",
+        "onboard_time": 1666707807,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71244,
+        "num": 13889,
+        "word": "郑州疫情防控",
+        "onboard_time": 1666709129,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28435,
+        "num": 13872,
+        "word": "宣萱回应王宝钏挖野菜",
+        "onboard_time": 1666699344,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28361,
+        "num": 13753,
+        "word": "开封巨响",
+        "onboard_time": 1666695384,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48800,
+        "num": 13693,
+        "word": "富士康",
+        "onboard_time": 1666701023,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16299,
+        "num": 13645,
+        "word": "新乡",
+        "onboard_time": 1666695625,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13630,
+        "num": 13630,
+        "word": "苍兰诀角色号更新微博",
+        "onboard_time": 1666711228,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44875,
+        "num": 13624,
+        "word": "兰州疫情防控",
+        "onboard_time": 1666711105,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13281,
+        "num": 13281,
+        "word": "苏纳克发表就职演讲",
+        "onboard_time": 1666713745,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 12924,
+        "num": 12924,
+        "word": "特拉斯发表告别演说",
+        "onboard_time": 1666711826,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 12782,
+        "num": 12782,
+        "word": "90后姑娘辞去村干部全职当农民",
+        "onboard_time": 1666697242,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12073,
+        "num": 12073,
+        "word": "女子骑车载孩子抢道被货车撞倒",
+        "onboard_time": 1666699944,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11933,
+        "num": 11933,
+        "word": "老干妈跌出贵州民企前10",
+        "onboard_time": 1666689744,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11763,
+        "num": 11763,
+        "word": "上海启动吸入用新冠疫苗接种",
+        "onboard_time": 1666688843,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11556,
+        "num": 11556,
+        "word": "梁朝伟王一博程耳智族GQ十月封面",
+        "onboard_time": 1666706726,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11408,
+        "num": 11408,
+        "word": "卡塔尔世界杯亮眼的中国建造",
+        "onboard_time": 1666707747,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11332,
+        "num": 11332,
+        "word": "外交部提醒中国公民近期暂勿前往利比亚",
+        "onboard_time": 1666732391,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11039,
+        "num": 11039,
+        "word": "周深演唱过的影视剧歌曲",
+        "onboard_time": 1666719974,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10834,
+        "num": 10834,
+        "word": "脱口秀大会",
+        "onboard_time": 1666689323,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10604,
+        "num": 10604,
+        "word": "权志龙ELLE Korea内页大片",
+        "onboard_time": 1666706184,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10560,
+        "num": 10560,
+        "word": "这就是天选古装bking吧",
+        "onboard_time": 1666712363,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10220,
+        "num": 10220,
+        "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+        "onboard_time": 1666689443,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10017,
+        "num": 10017,
+        "word": "莲花楼",
+        "onboard_time": 1666706546,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9332,
+        "num": 9332,
+        "word": "究竟该如何处理人际关系",
+        "onboard_time": 1666711766,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9300,
+        "num": 9300,
+        "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+        "onboard_time": 1666688663,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8863,
+        "num": 9299,
+        "word": "给主人递凳子的小狗",
+        "onboard_time": 1666709607,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8069,
+        "num": 9296,
+        "word": "当主人给正在舔毛的猫咪配音",
+        "onboard_time": 1666701264,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7763,
+        "num": 9294,
+        "word": "刘耀文说三周年后会发新歌",
+        "onboard_time": 1666706304,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 7477,
+        "num": 9292,
+        "word": "世界杯将是莫德里奇国家队谢幕战",
+        "onboard_time": 1666732510,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7438,
+        "num": 9291,
+        "word": "宝可梦朱紫",
+        "onboard_time": 1666704505,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7120,
+        "num": 9287,
+        "word": "齐达内即将复出执教",
+        "onboard_time": 1666732872,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程领路人#"
+    }
+  }
+}

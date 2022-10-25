@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666730833333,
+  "endTime": 1666733059489,
   "band_list": [
     {
       "raw_hot": 808856,
@@ -275,6 +275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 56918,
+      "num": 23798,
+      "word": "6岁女孩上网课疯狂举手求答题",
+      "onboard_time": 1666729750,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 54509,
       "num": 54509,
       "word": "gidle新歌nxde一位",
@@ -379,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34207,
+      "num": 22282,
+      "word": "14个月宝宝吃饭全家变气氛组",
+      "onboard_time": 1666729032,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33518,
       "num": 33518,
       "word": "90后姑娘辞去村干部全职当农民",
@@ -435,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 13380,
-      "num": 13380,
-      "word": "6岁女孩上网课疯狂举手求答题",
-      "onboard_time": 1666729750,
-      "rank": 42,
-      "category": "教育,社会新闻"
+      "raw_hot": 11332,
+      "num": 11332,
+      "word": "外交部提醒中国公民近期暂勿前往利比亚",
+      "onboard_time": 1666732391,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10002,
@@ -451,12 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8715,
-      "num": 9115,
-      "word": "14个月宝宝吃饭全家变气氛组",
-      "onboard_time": 1666729032,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 7477,
+      "num": 9292,
+      "word": "世界杯将是莫德里奇国家队谢幕战",
+      "onboard_time": 1666732510,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7120,
+      "num": 9287,
+      "word": "齐达内即将复出执教",
+      "onboard_time": 1666732872,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
