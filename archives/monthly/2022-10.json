@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666722356539,
+  "endTime": 1666724380741,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -38243,6 +38243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48544,
+      "num": 69340,
+      "word": "就没有张雨绮不能拿捏的梗",
+      "onboard_time": 1666717755,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48403,
       "num": 48403,
       "word": "莱万获2022穆勒奖",
@@ -38337,14 +38345,6 @@
       "onboard_time": 1665698232,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47464,
-      "num": 69340,
-      "word": "就没有张雨绮不能拿捏的梗",
-      "onboard_time": 1666717755,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 47386,

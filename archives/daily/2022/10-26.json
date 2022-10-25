@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666722356539,
+  "endTime": 1666724380741,
   "band_list": [
     {
       "raw_hot": 808856,
@@ -323,7 +323,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47464,
+      "raw_hot": 48544,
       "num": 69340,
       "word": "就没有张雨绮不能拿捏的梗",
       "onboard_time": 1666717755,
@@ -425,6 +425,14 @@
       "onboard_time": 1666711228,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17022,
+      "num": 16802,
+      "word": "莲花楼",
+      "onboard_time": 1666706546,
+      "rank": 30,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
