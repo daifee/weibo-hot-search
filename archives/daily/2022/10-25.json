@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666681226433,
+  "endTime": 1666684140727,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1134253,
-      "num": 88628,
+      "num": 101370,
       "word": "iPhone15将被强制使用USB-C",
       "onboard_time": 1666675285,
       "rank": 31,
@@ -123,7 +123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526114,
+      "raw_hot": 565748,
       "num": 193583,
       "word": "俄罗斯称不打算在乌克兰使用核武器",
       "onboard_time": 1666679064,
@@ -227,12 +227,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407958,
+      "num": 193251,
+      "word": "李承铉认为感情中成熟度比年龄更重要",
+      "onboard_time": 1666677865,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403183,
       "num": 198931,
       "word": "95后硕士基层工作第一天说比读博难",
       "onboard_time": 1666674083,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 399141,
+      "num": 242811,
+      "word": "陈瑶回应离开唐人",
+      "onboard_time": 1666678043,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 383878,
@@ -249,6 +265,14 @@
       "onboard_time": 1666672586,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376745,
+      "num": 135901,
+      "word": "奥比岛",
+      "onboard_time": 1666682362,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 369322,
@@ -275,20 +299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351010,
+      "num": 186294,
+      "word": "女环卫工6年捡180多把弃伞送路人",
+      "onboard_time": 1666678616,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 345441,
       "num": 345441,
       "word": "苹果音乐涨价",
       "onboard_time": 1666665563,
       "rank": 4,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 344138,
-      "num": 242811,
-      "word": "陈瑶回应离开唐人",
-      "onboard_time": 1666678043,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 342498,
@@ -299,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335834,
-      "num": 193251,
-      "word": "李承铉认为感情中成熟度比年龄更重要",
-      "onboard_time": 1666677865,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 328388,
+      "num": 147810,
+      "word": "王安宇说金晨还是一个小女孩",
+      "onboard_time": 1666679783,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325337,
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297126,
+      "num": 136573,
+      "word": "伸冤56年老人汪康夫因病去世",
+      "onboard_time": 1666680685,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295076,
       "num": 174036,
       "word": "管家回应业主被备注为刁民",
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 287890,
-      "num": 287890,
+      "num": 356163,
       "word": "五星红旗第一次在联合国升起画面",
       "onboard_time": 1666675043,
       "rank": 0,
@@ -409,6 +441,14 @@
       "onboard_time": 1666667965,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272431,
+      "num": 135268,
+      "word": "不是所有水果都适合在冰箱储存",
+      "onboard_time": 1666680984,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266590,
@@ -451,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253319,
+      "num": 154322,
+      "word": "养猫人囤猫砂有多硬核",
+      "onboard_time": 1666678646,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252052,
       "num": 76813,
       "word": "理发店给农民工免费理发却被迫涨价",
@@ -465,6 +513,14 @@
       "onboard_time": 1666619364,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249828,
+      "num": 148355,
+      "word": "李咏去世四周年",
+      "onboard_time": 1666677145,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 248745,
@@ -587,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205718,
+      "num": 175482,
+      "word": "杨颖心动的信号小香风造型",
+      "onboard_time": 1666679245,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201226,
       "num": 85317,
       "word": "莲花楼杀青特辑",
@@ -611,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189984,
-      "num": 175482,
-      "word": "杨颖心动的信号小香风造型",
-      "onboard_time": 1666679245,
-      "rank": 17,
-      "category": "作品衍生,时尚"
+      "raw_hot": 192340,
+      "num": 133300,
+      "word": "4S店员工集体帮邻居老人剥玉米",
+      "onboard_time": 1666680146,
+      "rank": 37,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 187995,
@@ -641,14 +705,6 @@
       "onboard_time": 1666657706,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 186294,
-      "num": 186294,
-      "word": "女环卫工6年捡180多把弃伞送路人",
-      "onboard_time": 1666678616,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 180447,
@@ -683,28 +739,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174614,
-      "num": 148355,
-      "word": "李咏去世四周年",
-      "onboard_time": 1666677145,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 167880,
       "num": 32989,
       "word": "林莉官宣退役",
       "onboard_time": 1666621225,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164534,
-      "num": 147810,
-      "word": "王安宇说金晨还是一个小女孩",
-      "onboard_time": 1666679783,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163890,
@@ -721,14 +761,6 @@
       "onboard_time": 1666665382,
       "rank": 28,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 154322,
-      "num": 154322,
-      "word": "养猫人囤猫砂有多硬核",
-      "onboard_time": 1666678646,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 147198,
@@ -760,14 +792,6 @@
       "word": "170斤爸爸陪6岁女儿躲猫猫藏衣柜",
       "onboard_time": 1666612343,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136573,
-      "num": 136573,
-      "word": "伸冤56年老人汪康夫因病去世",
-      "onboard_time": 1666680685,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -803,12 +827,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123919,
+      "num": 123919,
+      "word": "能哭湿枕头的小说",
+      "onboard_time": 1666682783,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122982,
       "num": 122982,
       "word": "秦岚的演技",
       "onboard_time": 1666662384,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118459,
+      "num": 118459,
+      "word": "有没有人管管海鸟啊",
+      "onboard_time": 1666679604,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 115938,
@@ -875,20 +915,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103676,
-      "num": 103676,
-      "word": "有没有人管管海鸟啊",
-      "onboard_time": 1666679604,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103214,
       "num": 65530,
       "word": "志愿军抗美援朝出国作战72周年",
       "onboard_time": 1666654401,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101660,
+      "num": 101660,
+      "word": "7家非法社会组织网站被关停",
+      "onboard_time": 1666680803,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100447,
+      "num": 100447,
+      "word": "车银优韩素希李洙赫短剧完整版",
+      "onboard_time": 1666683923,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 98863,
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94838,
+      "num": 94838,
+      "word": "陈都灵莲花楼落泪镜头",
+      "onboard_time": 1666683325,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93841,
       "num": 93841,
       "word": "梦天实验舱将择机发射",
@@ -923,12 +979,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88989,
+      "num": 59695,
+      "word": "宋茜许魏洲新剧演情侣",
+      "onboard_time": 1666684104,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87485,
       "num": 65983,
       "word": "苹果推送iOS16.1",
       "onboard_time": 1666656446,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 87256,
+      "num": 87256,
+      "word": "男子昏迷9名90后女护士组团抢救",
+      "onboard_time": 1666683743,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84368,
+      "num": 84368,
+      "word": "研究揭示为啥成人心脏不能再生",
+      "onboard_time": 1666681285,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 83680,
@@ -995,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76995,
-      "num": 76995,
-      "word": "4S店员工集体帮邻居老人剥玉米",
-      "onboard_time": 1666680146,
-      "rank": 37,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 76102,
       "num": 76102,
       "word": "志愿军真实战斗场景",
@@ -1019,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72315,
+      "num": 72315,
+      "word": "妈妈总是找一切借口给钱",
+      "onboard_time": 1666683564,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69957,
       "num": 32694,
       "word": "祖国人民不会忘记",
@@ -1027,27 +1107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68580,
-      "num": 68580,
-      "word": "7家非法社会组织网站被关停",
-      "onboard_time": 1666680803,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67313,
       "num": 27821,
       "word": "2023年国考招录应届生占比为近年来最高",
       "onboard_time": 1666611383,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67234,
-      "num": 67234,
-      "word": "不是所有水果都适合在冰箱储存",
-      "onboard_time": 1666680984,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62041,
+      "num": 134150,
+      "word": "甘宇回忆17个死里逃生的日夜",
+      "onboard_time": 1666681224,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61086,
       "num": 32630,
       "word": "Lehends带格里芬重聚",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1666629560,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57638,
+      "num": 57638,
+      "word": "张桂梅回到华坪女高后学生热情拥抱",
+      "onboard_time": 1666682544,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56197,
