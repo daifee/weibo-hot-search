@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666691649845,
+  "endTime": 1666693898505,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1004735,
+      "num": 426706,
+      "word": "老干妈跌出贵州民企前10",
+      "onboard_time": 1666689744,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976671,
       "num": 11637,
       "word": "EDG守家奇迹",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 797788,
-      "num": 402510,
+      "num": 416172,
       "word": "数学好真的可以拿捏一切",
       "onboard_time": 1666685544,
       "rank": 14,
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521066,
+      "num": 424873,
+      "word": "南忘今萧至今未合体",
+      "onboard_time": 1666691965,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519861,
       "num": 288543,
       "word": "刘诗雯参选国际乒联运动员委员会",
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471169,
+      "num": 275380,
+      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+      "onboard_time": 1666688663,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468869,
       "num": 82600,
       "word": "女子回看结婚录像5毛特效仿佛穿越",
@@ -561,6 +585,14 @@
       "onboard_time": 1666623087,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 465177,
+      "num": 422114,
+      "word": "脱口秀大会",
+      "onboard_time": 1666689323,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 462755,
@@ -595,14 +627,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 439156,
-      "num": 377007,
-      "word": "脱口秀大会",
-      "onboard_time": 1666689323,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 433390,
       "num": 399279,
       "word": "武汉防空警报",
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 433051,
-      "num": 367119,
+      "num": 420267,
       "word": "上海启动吸入用新冠疫苗接种",
       "onboard_time": 1666688843,
       "rank": 7,
@@ -651,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 428252,
+      "num": 249135,
+      "word": "lightsum",
+      "onboard_time": 1666690226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427349,
       "num": 85109,
       "word": "苹果又一首席设计师将离职",
@@ -665,14 +697,6 @@
       "onboard_time": 1666664423,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 424473,
-      "num": 275380,
-      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
-      "onboard_time": 1666688663,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423063,
@@ -891,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364578,
-      "num": 364578,
-      "word": "老干妈跌出贵州民企前10",
-      "onboard_time": 1666689744,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358137,
       "num": 358137,
       "word": "长风渡剧组买下广播剧主题曲版权",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1666679783,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325196,
-      "num": 232964,
-      "word": "lightsum",
-      "onboard_time": 1666690226,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 323947,
@@ -1172,11 +1180,19 @@
     },
     {
       "raw_hot": 287890,
-      "num": 426670,
+      "num": 434248,
       "word": "五星红旗第一次在联合国升起画面",
       "onboard_time": 1666675043,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "乍一听没听出是韩国人唱的",
+      "onboard_time": 1666688304,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 281339,
@@ -1315,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258727,
+      "num": 258727,
+      "word": "樊振东孙颖莎出席抽签仪式",
+      "onboard_time": 1666690343,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257882,
       "num": 257882,
       "word": "哪里能买到这种被子",
@@ -1427,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233323,
+      "num": 233323,
+      "word": "网友分享星汉灿烂剧本",
+      "onboard_time": 1666693463,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232840,
       "num": 81784,
       "word": "鬼谷子新皮肤",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1666663764,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 231336,
-      "num": 231336,
-      "word": "乍一听没听出是韩国人唱的",
-      "onboard_time": 1666688304,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 229838,
@@ -1544,6 +1568,14 @@
       "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
       "onboard_time": 1666621465,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220052,
+      "num": 220052,
+      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+      "onboard_time": 1666689443,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1963,14 +1995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148635,
-      "num": 148635,
-      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
-      "onboard_time": 1666689443,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147541,
       "num": 87690,
       "word": "急救人员澡堂遇晕倒老人现场施救",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1666620325,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144177,
+      "num": 144177,
+      "word": "白天咖啡强制开机",
+      "onboard_time": 1666690524,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 142959,
@@ -2147,12 +2179,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131479,
-      "num": 131479,
-      "word": "樊振东孙颖莎出席抽签仪式",
-      "onboard_time": 1666690343,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 130826,
+      "num": 235662,
+      "word": "杭州一公交为轮椅女孩改路线",
+      "onboard_time": 1666692083,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128874,
@@ -2307,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115701,
+      "num": 115701,
+      "word": "首架C919将于12月交付东航",
+      "onboard_time": 1666693044,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 114975,
       "num": 14544,
       "word": "考研人的备考清单有多离谱",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1666683325,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112694,
+      "num": 112694,
+      "word": "Crisp选手故事片",
+      "onboard_time": 1666692865,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 112485,
@@ -2361,6 +2409,14 @@
       "onboard_time": 1666603942,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108300,
+      "num": 108300,
+      "word": "算是把双十一拿捏住了",
+      "onboard_time": 1666691785,
+      "rank": 39,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 108078,
@@ -2515,6 +2571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94330,
+      "num": 94330,
+      "word": "女子上门为年轻人代厨4菜1汤66元",
+      "onboard_time": 1666693463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93841,
       "num": 93841,
       "word": "梦天实验舱将择机发射",
@@ -2617,14 +2681,6 @@
       "onboard_time": 1666620026,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84324,
-      "num": 84324,
-      "word": "白天咖啡强制开机",
-      "onboard_time": 1666690524,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 83995,
@@ -3185,6 +3241,14 @@
       "onboard_time": 1666608862,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17571,
+      "num": 429076,
+      "word": "今天发条微博致敬最可爱的人",
+      "onboard_time": 1666659744,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 16044,
