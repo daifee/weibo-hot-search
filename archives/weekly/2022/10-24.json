@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666713173508,
+  "endTime": 1666716538129,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -305,6 +305,14 @@
       "onboard_time": 1666595122,
       "rank": 10,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 798701,
+      "num": 131397,
+      "word": "坂本龙一",
+      "onboard_time": 1666712185,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 798280,
@@ -1483,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278155,
-      "num": 125656,
-      "word": "坂本龙一",
-      "onboard_time": 1666712185,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278129,
       "num": 215212,
       "word": "网剧遇见你之后定档1028",
@@ -1577,6 +1577,14 @@
       "onboard_time": 1666591463,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259212,
+      "num": 123539,
+      "word": "考研报名今日22时结束",
+      "onboard_time": 1666710748,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 258727,
@@ -2355,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153289,
+      "num": 85072,
+      "word": "段永平六次加仓腾讯",
+      "onboard_time": 1666712606,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153107,
       "num": 153107,
       "word": "妈妈总是找一切借口给钱",
@@ -2955,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99365,
+      "num": 84466,
+      "word": "这就是天选古装bking吧",
+      "onboard_time": 1666712363,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98863,
       "num": 98863,
       "word": "哈登29分",
@@ -3203,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81690,
+      "num": 81690,
+      "word": "特拉斯发表告别演说",
+      "onboard_time": 1666711826,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 80180,
       "num": 12685,
       "word": "人都是一瞬间长大的",
@@ -3225,14 +3257,6 @@
       "onboard_time": 1666576161,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78259,
-      "num": 56641,
-      "word": "这就是天选古装bking吧",
-      "onboard_time": 1666712363,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 77885,
@@ -3273,6 +3297,14 @@
       "onboard_time": 1666558989,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 72833,
+      "num": 72833,
+      "word": "究竟该如何处理人际关系",
+      "onboard_time": 1666711766,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 72666,
@@ -3343,6 +3375,14 @@
       "num": 12601,
       "word": "女子未回信息朋友飞无人机探查",
       "onboard_time": 1666497203,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66004,
+      "num": 66004,
+      "word": "武汉全城拉响防空警报",
+      "onboard_time": 1666712306,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -3531,22 +3571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 57375,
-      "num": 57375,
-      "word": "段永平六次加仓腾讯",
-      "onboard_time": 1666712606,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 55282,
-      "num": 55282,
-      "word": "特拉斯发表告别演说",
-      "onboard_time": 1666711826,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 54311,
       "num": 12511,
       "word": "东北搓澡时的各种暗号",
@@ -3563,28 +3587,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 52928,
-      "num": 52928,
-      "word": "武汉全城拉响防空警报",
-      "onboard_time": 1666712306,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51524,
       "num": 51524,
       "word": "女性健康必修课",
       "onboard_time": 1666609521,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 51268,
-      "num": 51268,
-      "word": "究竟该如何处理人际关系",
-      "onboard_time": 1666711766,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 51129,

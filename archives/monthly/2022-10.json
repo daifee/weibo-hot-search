@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666713173508,
+  "endTime": 1666716538129,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -4257,6 +4257,14 @@
       "onboard_time": 1665266651,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798701,
+      "num": 131397,
+      "word": "坂本龙一",
+      "onboard_time": 1666712185,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 798397,
@@ -17083,14 +17091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278155,
-      "num": 125656,
-      "word": "坂本龙一",
-      "onboard_time": 1666712185,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278145,
       "num": 52395,
       "word": "白发太姥姥教罕见病女孩用勺子",
@@ -18313,6 +18313,14 @@
       "onboard_time": 1664967024,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259212,
+      "num": 123539,
+      "word": "考研报名今日22时结束",
+      "onboard_time": 1666710748,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 259187,
@@ -27163,6 +27171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153289,
+      "num": 85072,
+      "word": "段永平六次加仓腾讯",
+      "onboard_time": 1666712606,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153177,
       "num": 153177,
       "word": "沉默是不是关系结束的开始",
@@ -33099,6 +33115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99365,
+      "num": 84466,
+      "word": "这就是天选古装bking吧",
+      "onboard_time": 1666712363,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99340,
       "num": 99340,
       "word": "段宇成太能哭了",
@@ -35091,6 +35115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81690,
+      "num": 81690,
+      "word": "特拉斯发表告别演说",
+      "onboard_time": 1666711826,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 81576,
       "num": 81576,
       "word": "U17女足世界杯",
@@ -35393,14 +35425,6 @@
       "onboard_time": 1666127831,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78259,
-      "num": 56641,
-      "word": "这就是天选古装bking吧",
-      "onboard_time": 1666712363,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 78114,
@@ -36001,6 +36025,14 @@
       "onboard_time": 1665003550,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72833,
+      "num": 72833,
+      "word": "究竟该如何处理人际关系",
+      "onboard_time": 1666711766,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 72816,
@@ -36648,6 +36680,14 @@
       "word": "世界技能大赛特别赛中国已夺5金",
       "onboard_time": 1665985881,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66004,
+      "num": 66004,
+      "word": "武汉全城拉响防空警报",
+      "onboard_time": 1666712306,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -37587,14 +37627,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 57375,
-      "num": 57375,
-      "word": "段永平六次加仓腾讯",
-      "onboard_time": 1666712606,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57357,
       "num": 317092,
       "word": "老人遗失10万救命钱路人拾金不昧",
@@ -37739,14 +37771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55282,
-      "num": 55282,
-      "word": "特拉斯发表告别演说",
-      "onboard_time": 1666711826,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 55121,
       "num": 252905,
       "word": "原神妮露上线",
@@ -37864,14 +37888,6 @@
       "word": "林俊德院士的遗言让人泪目",
       "onboard_time": 1665217163,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52928,
-      "num": 52928,
-      "word": "武汉全城拉响防空警报",
-      "onboard_time": 1666712306,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -38001,14 +38017,6 @@
       "onboard_time": 1666374255,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 51268,
-      "num": 51268,
-      "word": "究竟该如何处理人际关系",
-      "onboard_time": 1666711766,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 51129,
