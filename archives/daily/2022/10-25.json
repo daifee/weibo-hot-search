@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666694988909,
+  "endTime": 1666697031405,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -17,6 +17,14 @@
       "onboard_time": 1666665322,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1632739,
+      "num": 284596,
+      "word": "开封巨响",
+      "onboard_time": 1666695384,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1304885,
@@ -57,6 +65,14 @@
       "onboard_time": 1666656385,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1035066,
+      "num": 283686,
+      "word": "新乡",
+      "onboard_time": 1666695625,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 912060,
@@ -163,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 540749,
+      "num": 341453,
+      "word": "女子上门为年轻人代厨4菜1汤66元",
+      "onboard_time": 1666693463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536600,
       "num": 339183,
       "word": "杨紫热辣滚烫条纹衬衫路透",
@@ -248,6 +272,14 @@
       "word": "脱口秀大会",
       "onboard_time": 1666689323,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 463288,
+      "num": 324624,
+      "word": "韩国新恋综社内恋爱",
+      "onboard_time": 1666695384,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -571,6 +603,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286689,
+      "num": 286689,
+      "word": "主人用淡水生鱼喂猫遭质疑",
+      "onboard_time": 1666695144,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281955,
+      "num": 281955,
+      "word": "王一博在洗衣店跳舞",
+      "onboard_time": 1666696944,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279467,
       "num": 260647,
       "word": "绝境之王C罗",
@@ -745,14 +793,6 @@
       "onboard_time": 1666678405,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235627,
-      "num": 235627,
-      "word": "女子上门为年轻人代厨4菜1汤66元",
-      "onboard_time": 1666693463,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235088,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 157427,
+      "num": 157427,
+      "word": "苏纳克正式成为英国新首相",
+      "onboard_time": 1666695323,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 154258,
       "num": 118944,
       "word": "吴徽妍金池按退队",
@@ -1139,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124118,
+      "num": 118868,
+      "word": "浮图缘",
+      "onboard_time": 1666696944,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122982,
       "num": 122982,
       "word": "秦岚的演技",
@@ -1235,6 +1291,22 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 108096,
+      "num": 423587,
+      "word": "世界技能大赛特别赛中国已获15金",
+      "onboard_time": 1666692684,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 107483,
+      "num": 99546,
+      "word": "秦岚说王子异的进步很大",
+      "onboard_time": 1666696643,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106659,
       "num": 106659,
       "word": "在校园里看了场猫和老鼠",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1666671082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98095,
+      "num": 98095,
+      "word": "东北皮皮虾锅贴有多豪横",
+      "onboard_time": 1666695503,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 97843,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86075,
+      "num": 86075,
+      "word": "这里宇航员浓度超过空间站了",
+      "onboard_time": 1666696885,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83680,
@@ -1459,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69909,
+      "num": 100082,
+      "word": "淘宝4小时涌现130个千万直播间",
+      "onboard_time": 1666695625,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67313,
       "num": 27821,
       "word": "2023年国考招录应届生占比为近年来最高",
@@ -1513,14 +1609,6 @@
       "onboard_time": 1666681224,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61522,
-      "num": 423587,
-      "word": "世界技能大赛特别赛中国已获15金",
-      "onboard_time": 1666692684,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 61086,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1666639872,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7538,
+      "num": 271322,
+      "word": "手机2亿像素值得期待吗",
+      "onboard_time": 1666695625,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 5940,

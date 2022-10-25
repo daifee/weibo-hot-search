@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666694988909,
+  "endTime": 1666697031405,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -985,6 +985,14 @@
       "onboard_time": 1664611944,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1632739,
+      "num": 284596,
+      "word": "开封巨响",
+      "onboard_time": 1666695384,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1630781,
@@ -2728,6 +2736,14 @@
       "word": "00后中专生每天训练5小时逆袭北大",
       "onboard_time": 1665743303,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035066,
+      "num": 283686,
+      "word": "新乡",
+      "onboard_time": 1666695625,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -7707,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540749,
+      "num": 341453,
+      "word": "女子上门为年轻人代厨4菜1汤66元",
+      "onboard_time": 1666693463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540431,
       "num": 540431,
       "word": "TMA",
@@ -9569,6 +9593,14 @@
       "onboard_time": 1665236727,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463288,
+      "num": 324624,
+      "word": "韩国新恋综社内恋爱",
+      "onboard_time": 1666695384,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 463230,
@@ -16395,6 +16427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286689,
+      "num": 286689,
+      "word": "主人用淡水生鱼喂猫遭质疑",
+      "onboard_time": 1666695144,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286583,
       "num": 153051,
       "word": "在重庆不要过度相信导航",
@@ -16641,6 +16681,14 @@
       "onboard_time": 1666400123,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 281955,
+      "num": 281955,
+      "word": "王一博在洗衣店跳舞",
+      "onboard_time": 1666696944,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 281731,
@@ -19721,14 +19769,6 @@
       "onboard_time": 1665894568,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 235627,
-      "num": 235627,
-      "word": "女子上门为年轻人代厨4菜1汤66元",
-      "onboard_time": 1666693463,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235595,
@@ -26459,6 +26499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157427,
+      "num": 157427,
+      "word": "苏纳克正式成为英国新首相",
+      "onboard_time": 1666695323,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 157351,
       "num": 157351,
       "word": "10月13日新增本土确诊249例",
@@ -31755,6 +31803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108096,
+      "num": 423587,
+      "word": "世界技能大赛特别赛中国已获15金",
+      "onboard_time": 1666692684,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 108086,
       "num": 108086,
       "word": "CBA新赛季揭幕战",
@@ -31833,6 +31889,14 @@
       "onboard_time": 1664810004,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107483,
+      "num": 99546,
+      "word": "秦岚说王子异的进步很大",
+      "onboard_time": 1666696643,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 107287,
@@ -32857,6 +32921,14 @@
       "onboard_time": 1664975065,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98095,
+      "num": 98095,
+      "word": "东北皮皮虾锅贴有多豪横",
+      "onboard_time": 1666695503,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 98068,
@@ -34105,6 +34177,14 @@
       "onboard_time": 1665143481,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86075,
+      "num": 86075,
+      "word": "这里宇航员浓度超过空间站了",
+      "onboard_time": 1666696885,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86005,
@@ -35819,6 +35899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69909,
+      "num": 100082,
+      "word": "淘宝4小时涌现130个千万直播间",
+      "onboard_time": 1666695625,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69862,
       "num": 77879,
       "word": "消防员版腹部燃脂教程",
@@ -36737,14 +36825,6 @@
       "onboard_time": 1666469952,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61522,
-      "num": 423587,
-      "word": "世界技能大赛特别赛中国已获15金",
-      "onboard_time": 1666692684,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 61512,
@@ -39569,6 +39649,14 @@
       "onboard_time": 1666639872,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7538,
+      "num": 271322,
+      "word": "手机2亿像素值得期待吗",
+      "onboard_time": 1666695625,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 7453,
