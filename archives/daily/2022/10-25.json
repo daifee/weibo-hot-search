@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666674048446,
+  "endTime": 1666674804481,
   "band_list": [
     {
       "raw_hot": 2272401,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 425547,
-      "num": 147932,
+      "num": 155758,
       "word": "相宜本草",
       "onboard_time": 1666664423,
       "rank": 25,
@@ -169,6 +169,14 @@
       "onboard_time": 1666665563,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384595,
+      "num": 276240,
+      "word": "杨群去世",
+      "onboard_time": 1666673365,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 383878,
@@ -243,6 +251,30 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 318774,
+      "num": 271860,
+      "word": "苹果正式允许iOS发行NFT",
+      "onboard_time": 1666672465,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 318600,
+      "num": 269422,
+      "word": "范丞丞了不起的夜晚抽烟镜头",
+      "onboard_time": 1666673423,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315570,
+      "num": 278828,
+      "word": "中国海洋大学98周年校庆",
+      "onboard_time": 1666671022,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 300876,
       "num": 279329,
       "word": "杜兰特欧文合砍74分",
@@ -275,14 +307,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 278828,
-      "num": 278828,
-      "word": "中国海洋大学98周年校庆",
-      "onboard_time": 1666671022,
-      "rank": 8,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 278187,
       "num": 215190,
       "word": "女子刘海被理发店剪坏大哭报警",
@@ -296,14 +320,6 @@
       "word": "网剧遇见你之后定档1028",
       "onboard_time": 1666667965,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 266856,
-      "num": 266856,
-      "word": "范丞丞了不起的夜晚抽烟镜头",
-      "onboard_time": 1666673423,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -339,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255730,
+      "num": 255730,
+      "word": "霉霉BejeweledMV",
+      "onboard_time": 1666674148,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252052,
       "num": 76813,
       "word": "理发店给农民工免费理发却被迫涨价",
@@ -363,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247597,
-      "num": 247597,
-      "word": "苹果正式允许iOS发行NFT",
-      "onboard_time": 1666672465,
-      "rank": 17,
-      "category": "科技"
+      "raw_hot": 243816,
+      "num": 243816,
+      "word": "男子穿拖鞋爬4楼解救被卡男孩",
+      "onboard_time": 1666670424,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 243561,
@@ -435,19 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226301,
-      "num": 226301,
-      "word": "杨群去世",
-      "onboard_time": 1666673365,
+      "raw_hot": 220263,
+      "num": 220263,
+      "word": "邮递员7年为20多位烈士找到家",
+      "onboard_time": 1666674205,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 217847,
-      "num": 217847,
-      "word": "男子穿拖鞋爬4楼解救被卡男孩",
-      "onboard_time": 1666670424,
-      "rank": 22,
       "category": "社会正能量"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1666665263,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198931,
+      "num": 198931,
+      "word": "95后硕士基层工作第一天说比读博难",
+      "onboard_time": 1666674083,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 196224,
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142499,
+      "num": 142499,
+      "word": "恋与制作人",
+      "onboard_time": 1666674026,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141479,
       "num": 33059,
       "word": "170斤爸爸陪6岁女儿躲猫猫藏衣柜",
@@ -601,6 +633,14 @@
       "onboard_time": 1666617565,
       "rank": 22,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 131654,
+      "num": 131654,
+      "word": "光与夜之恋",
+      "onboard_time": 1666674026,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128874,
@@ -659,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106659,
+      "num": 106659,
+      "word": "在校园里看了场猫和老鼠",
+      "onboard_time": 1666672826,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 106342,
       "num": 67168,
       "word": "狗狗生日吃蛋糕头顶被蜡烛点燃",
@@ -691,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100277,
-      "num": 75913,
-      "word": "恋与制作人",
-      "onboard_time": 1666674026,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 98863,
       "num": 98863,
       "word": "哈登29分",
@@ -723,28 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92501,
-      "num": 92501,
-      "word": "在校园里看了场猫和老鼠",
-      "onboard_time": 1666672826,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 87485,
       "num": 65983,
       "word": "苹果推送iOS16.1",
       "onboard_time": 1666656446,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 84404,
-      "num": 75356,
-      "word": "光与夜之恋",
-      "onboard_time": 1666674026,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 83680,
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49608,
+      "num": 290821,
+      "word": "学深悟透才能见行见效",
+      "onboard_time": 1666673545,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 45395,
       "num": 27706,
       "word": "晚八文学",
@@ -979,12 +1011,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32933,
-      "num": 290821,
-      "word": "学深悟透才能见行见效",
-      "onboard_time": 1666673545,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 27662,
+      "num": 256714,
+      "word": "购物车分组收纳大赛",
+      "onboard_time": 1666674267,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21031,
