@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666727097230,
+  "endTime": 1666727674828,
   "band_list": [
     {
       "raw_hot": 808856,
@@ -432,6 +432,14 @@
       "word": "莲花楼",
       "onboard_time": 1666706546,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 10002,
+      "num": 10002,
+      "word": "乔欣新剧左右为男",
+      "onboard_time": 1666727111,
+      "rank": 43,
       "category": "影视"
     }
   ],

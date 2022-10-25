@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666727097230,
+  "endTime": 1666727674828,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -39913,6 +39913,14 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10002,
+      "num": 10002,
+      "word": "乔欣新剧左右为男",
+      "onboard_time": 1666727111,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 9729,

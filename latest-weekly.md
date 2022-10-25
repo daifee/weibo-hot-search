@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/24 00:36:33 ~ 2022/10/26 03:44:57
+本榜单时间：2022/10/24 00:36:33 ~ 2022/10/26 03:54:34
 </p>
 </blockquote>
 <p>
@@ -2927,6 +2927,12 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E5%85%91%E6%8D%A2%E7%A0%81%23" target="weibo">
 原神兑换码（热度：12649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E6%96%B0%E5%89%A7%E5%B7%A6%E5%8F%B3%E4%B8%BA%E7%94%B7%23" target="weibo">
+乔欣新剧左右为男（热度：10002）
 </a>
 </li>
 
