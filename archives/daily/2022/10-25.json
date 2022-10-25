@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666688381738,
+  "endTime": 1666690602691,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -57,6 +57,14 @@
       "onboard_time": 1666613158,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 797788,
+      "num": 402510,
+      "word": "数学好真的可以拿捏一切",
+      "onboard_time": 1666685544,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 741959,
@@ -147,20 +155,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 536600,
+      "num": 275407,
+      "word": "杨紫热辣滚烫条纹衬衫路透",
+      "onboard_time": 1666689744,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519861,
       "num": 288543,
       "word": "刘诗雯参选国际乒联运动员委员会",
       "onboard_time": 1666671745,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518218,
-      "num": 402510,
-      "word": "数学好真的可以拿捏一切",
-      "onboard_time": 1666685544,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 510462,
@@ -203,6 +211,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 480818,
+      "num": 381936,
+      "word": "樊振东回应亚洲杯参赛安排",
+      "onboard_time": 1666687044,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453453,
       "num": 32870,
       "word": "优时颜",
@@ -240,6 +256,14 @@
       "word": "不是所有水果都适合在冰箱储存",
       "onboard_time": 1666680984,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430021,
+      "num": 375891,
+      "word": "我国将建设15分钟养老服务圈",
+      "onboard_time": 1666685364,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373908,
+      "num": 373908,
+      "word": "脱口秀大会",
+      "onboard_time": 1666689323,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369322,
       "num": 87058,
       "word": "娇兰",
@@ -368,6 +400,14 @@
       "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
       "onboard_time": 1666626806,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337260,
+      "num": 337260,
+      "word": "上海启动吸入用新冠疫苗接种",
+      "onboard_time": 1666688843,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -435,14 +475,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 311565,
-      "num": 311565,
-      "word": "樊振东回应亚洲杯参赛安排",
-      "onboard_time": 1666687044,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300876,
       "num": 279329,
       "word": "杜兰特欧文合砍74分",
@@ -451,19 +483,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300181,
-      "num": 300181,
-      "word": "我国将建设15分钟养老服务圈",
-      "onboard_time": 1666685364,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295076,
       "num": 174036,
       "word": "管家回应业主被备注为刁民",
       "onboard_time": 1666658726,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292764,
+      "num": 275380,
+      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+      "onboard_time": 1666688663,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -715,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219178,
+      "num": 219178,
+      "word": "lightsum",
+      "onboard_time": 1666690226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214096,
       "num": 33203,
       "word": "新郎回应婚礼现场送新娘1张彩票",
@@ -737,6 +777,14 @@
       "onboard_time": 1666643771,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210111,
+      "num": 210111,
+      "word": "乍一听没听出是韩国人唱的",
+      "onboard_time": 1666688304,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 205718,
@@ -835,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177088,
+      "num": 219182,
+      "word": "LPL纪录片预告",
+      "onboard_time": 1666688603,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176659,
       "num": 80933,
       "word": "小狗每天串门找小猫玩耍",
@@ -849,6 +905,14 @@
       "onboard_time": 1666684644,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172214,
+      "num": 157535,
+      "word": "王鹤棣和浮图缘小演员合照",
+      "onboard_time": 1666689803,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168137,
@@ -875,12 +939,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 163534,
-      "num": 163534,
-      "word": "乍一听没听出是韩国人唱的",
-      "onboard_time": 1666688304,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 163030,
+      "num": 154631,
+      "word": "长风渡",
+      "onboard_time": 1666689865,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 158715,
@@ -939,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137629,
+      "num": 137629,
+      "word": "老干妈跌出贵州民企前10",
+      "onboard_time": 1666689744,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132468,
       "num": 33028,
       "word": "双十一电商平台有多内卷",
@@ -953,6 +1025,14 @@
       "onboard_time": 1666674026,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129351,
+      "num": 129351,
+      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+      "onboard_time": 1666689443,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128874,
@@ -971,12 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127036,
+      "num": 70919,
+      "word": "刘雨昕首登纽约时代广场大屏",
+      "onboard_time": 1666690583,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122982,
       "num": 122982,
       "word": "秦岚的演技",
       "onboard_time": 1666662384,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122670,
+      "num": 122670,
+      "word": "王者千斤饭局",
+      "onboard_time": 1666687765,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 118459,
@@ -1147,20 +1243,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84483,
+      "num": 84483,
+      "word": "新乡wtt世界杯决赛抽签仪式",
+      "onboard_time": 1666688963,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83680,
       "num": 27875,
       "word": "刘宇宁直播",
       "onboard_time": 1666622247,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83598,
-      "num": 83598,
-      "word": "王者千斤饭局",
-      "onboard_time": 1666687765,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 83316,
@@ -1193,6 +1289,14 @@
       "onboard_time": 1666617267,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79582,
+      "num": 79582,
+      "word": "白天咖啡强制开机",
+      "onboard_time": 1666690524,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 79461,

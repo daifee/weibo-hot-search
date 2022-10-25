@@ -1,0 +1,410 @@
+{
+  "runTime": 1666690602691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 159794,
+        "num": 396042,
+        "word": "五星红旗第一次在联合国升起画面",
+        "onboard_time": 1666675043,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121748,
+        "num": 394831,
+        "word": "失散亲兄弟刚相认就牺牲在上甘岭",
+        "onboard_time": 1666663103,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40470,
+        "num": 389555,
+        "word": "学深悟透才能见行见效",
+        "onboard_time": 1666673545,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 797788,
+        "num": 386556,
+        "word": "数学好真的可以拿捏一切",
+        "onboard_time": 1666685544,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480818,
+        "num": 381936,
+        "word": "樊振东回应亚洲杯参赛安排",
+        "onboard_time": 1666687044,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430021,
+        "num": 375891,
+        "word": "我国将建设15分钟养老服务圈",
+        "onboard_time": 1666685364,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373908,
+        "num": 373908,
+        "word": "脱口秀大会",
+        "onboard_time": 1666689323,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337260,
+        "num": 337260,
+        "word": "上海启动吸入用新冠疫苗接种",
+        "onboard_time": 1666688843,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282893,
+        "num": 282893,
+        "word": "武汉防空警报",
+        "onboard_time": 1666686624,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275646,
+        "num": 275646,
+        "word": "樊振东轮空",
+        "onboard_time": 1666684762,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536600,
+        "num": 275407,
+        "word": "杨紫热辣滚烫条纹衬衫路透",
+        "onboard_time": 1666689744,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416131,
+        "num": 275389,
+        "word": "大飞",
+        "onboard_time": 1666679365,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292764,
+        "num": 275380,
+        "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+        "onboard_time": 1666688663,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274433,
+        "num": 274433,
+        "word": "车银优韩素希李洙赫短剧完整版",
+        "onboard_time": 1666683923,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251297,
+        "num": 251297,
+        "word": "苏有朋说披荆斩棘是生存游戏",
+        "onboard_time": 1666686145,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239620,
+        "num": 239620,
+        "word": "长风渡剧组买下广播剧主题曲版权",
+        "onboard_time": 1666685904,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231108,
+        "num": 231108,
+        "word": "陈瑶回应离开唐人",
+        "onboard_time": 1666678043,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221751,
+        "num": 221751,
+        "word": "俄罗斯称不打算在乌克兰使用核武器",
+        "onboard_time": 1666679064,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200632,
+        "num": 219196,
+        "word": "不是所有水果都适合在冰箱储存",
+        "onboard_time": 1666680984,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177088,
+        "num": 219182,
+        "word": "LPL纪录片预告",
+        "onboard_time": 1666688603,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234955,
+        "num": 219182,
+        "word": "LPL为米勒澄清",
+        "onboard_time": 1666675585,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219178,
+        "num": 219178,
+        "word": "lightsum",
+        "onboard_time": 1666690226,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212617,
+        "num": 212617,
+        "word": "杨群去世",
+        "onboard_time": 1666673365,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210111,
+        "num": 210111,
+        "word": "乍一听没听出是韩国人唱的",
+        "onboard_time": 1666688304,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173613,
+        "num": 173613,
+        "word": "奥比岛",
+        "onboard_time": 1666682362,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203913,
+        "num": 172852,
+        "word": "迪丽热巴爆炸头大片",
+        "onboard_time": 1666673006,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171811,
+        "num": 171811,
+        "word": "绝境之王C罗",
+        "onboard_time": 1666684162,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167058,
+        "num": 167058,
+        "word": "男子昏迷9名90后女护士组团抢救",
+        "onboard_time": 1666683743,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166763,
+        "num": 166763,
+        "word": "伸冤56年老人汪康夫因病去世",
+        "onboard_time": 1666680685,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158826,
+        "num": 158826,
+        "word": "叼着逗猫棒找主人玩的猫咪",
+        "onboard_time": 1666685544,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451303,
+        "num": 158667,
+        "word": "iPhone15将被强制使用USB-C",
+        "onboard_time": 1666675285,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172214,
+        "num": 157535,
+        "word": "王鹤棣和浮图缘小演员合照",
+        "onboard_time": 1666689803,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171348,
+        "num": 156531,
+        "word": "宋仲基财阀家的小儿子新预告",
+        "onboard_time": 1666685004,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163030,
+        "num": 154631,
+        "word": "长风渡",
+        "onboard_time": 1666689865,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154317,
+        "num": 154317,
+        "word": "对电子烟征收消费税",
+        "onboard_time": 1666684644,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137629,
+        "num": 137629,
+        "word": "老干妈跌出贵州民企前10",
+        "onboard_time": 1666689744,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129351,
+        "num": 129351,
+        "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+        "onboard_time": 1666689443,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125057,
+        "num": 125057,
+        "word": "能哭湿枕头的小说",
+        "onboard_time": 1666682783,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122670,
+        "num": 122670,
+        "word": "王者千斤饭局",
+        "onboard_time": 1666687765,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120362,
+        "num": 120362,
+        "word": "妈妈总是找一切借口给钱",
+        "onboard_time": 1666683564,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149126,
+        "num": 120019,
+        "word": "李咏去世四周年",
+        "onboard_time": 1666677145,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 118206,
+        "num": 118206,
+        "word": "女环卫工6年捡180多把弃伞送路人",
+        "onboard_time": 1666678616,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110360,
+        "num": 110360,
+        "word": "新乡WTT男单对阵出炉",
+        "onboard_time": 1666684825,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98166,
+        "num": 98166,
+        "word": "95后硕士基层工作第一天说比读博难",
+        "onboard_time": 1666674083,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 84483,
+        "num": 84483,
+        "word": "新乡wtt世界杯决赛抽签仪式",
+        "onboard_time": 1666688963,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79582,
+        "num": 79582,
+        "word": "白天咖啡强制开机",
+        "onboard_time": 1666690524,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72141,
+        "num": 72141,
+        "word": "无期迷途",
+        "onboard_time": 1666688185,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127036,
+        "num": 70919,
+        "word": "刘雨昕首登纽约时代广场大屏",
+        "onboard_time": 1666690583,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69016,
+        "num": 69016,
+        "word": "梁靖崑被取消国际国内比赛资格",
+        "onboard_time": 1666665322,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67070,
+        "num": 67070,
+        "word": "苹果正式允许iOS发行NFT",
+        "onboard_time": 1666672465,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时政微纪录#"
+    }
+  }
+}

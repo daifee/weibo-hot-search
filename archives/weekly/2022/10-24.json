@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666688381738,
+  "endTime": 1666690602691,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -217,6 +217,14 @@
       "onboard_time": 1666595122,
       "rank": 10,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 797788,
+      "num": 402510,
+      "word": "数学好真的可以拿捏一切",
+      "onboard_time": 1666685544,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 778542,
@@ -459,20 +467,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 536600,
+      "num": 275407,
+      "word": "杨紫热辣滚烫条纹衬衫路透",
+      "onboard_time": 1666689744,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519861,
       "num": 288543,
       "word": "刘诗雯参选国际乒联运动员委员会",
       "onboard_time": 1666671745,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518218,
-      "num": 402510,
-      "word": "数学好真的可以拿捏一切",
-      "onboard_time": 1666685544,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 515990,
@@ -529,6 +537,14 @@
       "onboard_time": 1666525462,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 480818,
+      "num": 381936,
+      "word": "樊振东回应亚洲杯参赛安排",
+      "onboard_time": 1666687044,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 468869,
@@ -592,6 +608,14 @@
       "word": "不是所有水果都适合在冰箱储存",
       "onboard_time": 1666680984,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430021,
+      "num": 375891,
+      "word": "我国将建设15分钟养老服务圈",
+      "onboard_time": 1666685364,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -779,6 +803,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 373908,
+      "num": 373908,
+      "word": "脱口秀大会",
+      "onboard_time": 1666689323,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372503,
       "num": 85572,
       "word": "Steam在线人数突破3000万",
@@ -947,6 +979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 337260,
+      "num": 337260,
+      "word": "上海启动吸入用新冠疫苗接种",
+      "onboard_time": 1666688843,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336924,
       "num": 89707,
       "word": "Meiko和Deft拥抱",
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311565,
-      "num": 311565,
-      "word": "樊振东回应亚洲杯参赛安排",
-      "onboard_time": 1666687044,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308480,
       "num": 87300,
       "word": "女生化妆猫咪伸手跃跃欲试",
@@ -1075,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300181,
-      "num": 300181,
-      "word": "我国将建设15分钟养老服务圈",
-      "onboard_time": 1666685364,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295076,
       "num": 174036,
       "word": "管家回应业主被备注为刁民",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1666599502,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292764,
+      "num": 275380,
+      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+      "onboard_time": 1666688663,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292735,
@@ -1491,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219178,
+      "num": 219178,
+      "word": "lightsum",
+      "onboard_time": 1666690226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218789,
       "num": 69369,
       "word": "男子生吞小螃蟹感染寄生虫",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1666643771,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210111,
+      "num": 210111,
+      "word": "乍一听没听出是韩国人唱的",
+      "onboard_time": 1666688304,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 208949,
@@ -1739,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177088,
+      "num": 219182,
+      "word": "LPL纪录片预告",
+      "onboard_time": 1666688603,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176659,
       "num": 80933,
       "word": "小狗每天串门找小猫玩耍",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1666574064,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172214,
+      "num": 157535,
+      "word": "王鹤棣和浮图缘小演员合照",
+      "onboard_time": 1666689803,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170507,
@@ -1819,12 +1883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163534,
-      "num": 163534,
-      "word": "乍一听没听出是韩国人唱的",
-      "onboard_time": 1666688304,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 163030,
+      "num": 154631,
+      "word": "长风渡",
+      "onboard_time": 1666689865,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 161804,
@@ -2003,6 +2067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 137629,
+      "num": 137629,
+      "word": "老干妈跌出贵州民企前10",
+      "onboard_time": 1666689744,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137613,
       "num": 29101,
       "word": "章鱼哥演我上班心情",
@@ -2067,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129351,
+      "num": 129351,
+      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+      "onboard_time": 1666689443,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128874,
       "num": 128874,
       "word": "ITZY街头随机舞蹈",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1666668202,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127036,
+      "num": 70919,
+      "word": "刘雨昕首登纽约时代广场大屏",
+      "onboard_time": 1666690583,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 126242,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1666605202,
       "rank": 33,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 122670,
+      "num": 122670,
+      "word": "王者千斤饭局",
+      "onboard_time": 1666687765,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 122218,
@@ -2491,20 +2587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84483,
+      "num": 84483,
+      "word": "新乡wtt世界杯决赛抽签仪式",
+      "onboard_time": 1666688963,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83995,
       "num": 11193,
       "word": "层林尽染有多美",
       "onboard_time": 1666566919,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83598,
-      "num": 83598,
-      "word": "王者千斤饭局",
-      "onboard_time": 1666687765,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 83316,
@@ -2569,6 +2665,14 @@
       "onboard_time": 1666511481,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 79582,
+      "num": 79582,
+      "word": "白天咖啡强制开机",
+      "onboard_time": 1666690524,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 78797,
