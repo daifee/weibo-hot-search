@@ -1,14 +1,22 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666668240521,
+  "endTime": 1666674048446,
   "band_list": [
     {
       "raw_hot": 2272401,
-      "num": 215548,
+      "num": 266562,
       "word": "梁靖崑被取消国际国内比赛资格",
       "onboard_time": 1666665322,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1304885,
+      "num": 266845,
+      "word": "迪丽热巴爆炸头大片",
+      "onboard_time": 1666673006,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1048630,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 683641,
-      "num": 178500,
+      "num": 179981,
       "word": "浙传将部分卫生间改为女生专用",
       "onboard_time": 1666653497,
       "rank": 18,
@@ -68,10 +76,26 @@
     },
     {
       "raw_hot": 585638,
-      "num": 215468,
+      "num": 266358,
       "word": "女生买柚子闲置20多天按压冒灰烟",
       "onboard_time": 1666655662,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519861,
+      "num": 288543,
+      "word": "刘诗雯参选国际乒联运动员委员会",
+      "onboard_time": 1666671745,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 510462,
+      "num": 285333,
+      "word": "19岁湖南大学生离世捐器官救5人",
+      "onboard_time": 1666666883,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -81,6 +105,14 @@
       "onboard_time": 1666654701,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 505545,
+      "num": 264413,
+      "word": "孔刘金高银韩版ELLE内页大片",
+      "onboard_time": 1666671205,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 484211,
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 425547,
-      "num": 110695,
+      "num": 147932,
       "word": "相宜本草",
       "onboard_time": 1666664423,
       "rank": 25,
@@ -147,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 382588,
+      "num": 284179,
+      "word": "赞多王怡人街舞5官宣",
+      "onboard_time": 1666672586,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369322,
       "num": 87058,
       "word": "娇兰",
@@ -156,7 +196,7 @@
     },
     {
       "raw_hot": 365862,
-      "num": 110522,
+      "num": 114138,
       "word": "王栎鑫直播白到发光",
       "onboard_time": 1666658307,
       "rank": 30,
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 342498,
-      "num": 106726,
+      "num": 108537,
       "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
       "onboard_time": 1666626806,
       "rank": 23,
@@ -193,6 +233,22 @@
       "onboard_time": 1666617686,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 323947,
+      "num": 282468,
+      "word": "北京航空航天大学70周年校庆",
+      "onboard_time": 1666667844,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 279329,
+      "word": "杜兰特欧文合砍74分",
+      "onboard_time": 1666668863,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 295076,
@@ -211,6 +267,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 290914,
+      "num": 290914,
+      "word": "被10岁小朋友演的志愿军战士感动",
+      "onboard_time": 1666669163,
+      "rank": 1,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 278828,
+      "num": 278828,
+      "word": "中国海洋大学98周年校庆",
+      "onboard_time": 1666671022,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 278187,
       "num": 215190,
       "word": "女子刘海被理发店剪坏大哭报警",
@@ -227,12 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266856,
+      "num": 266856,
+      "word": "范丞丞了不起的夜晚抽烟镜头",
+      "onboard_time": 1666673423,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266590,
       "num": 33272,
       "word": "父亲为女儿报仇生吞螃蟹腰背剧痛",
       "onboard_time": 1666603702,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265985,
+      "num": 265985,
+      "word": "王源十七发行五周年",
+      "onboard_time": 1666673905,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 262079,
@@ -267,12 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247683,
-      "num": 247683,
+      "raw_hot": 248745,
+      "num": 248745,
       "word": "萌娃被妈妈寄放派出所后不想走了",
       "onboard_time": 1666662501,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247597,
+      "num": 247597,
+      "word": "苹果正式允许iOS发行NFT",
+      "onboard_time": 1666672465,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 243561,
@@ -281,6 +377,14 @@
       "onboard_time": 1666652961,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241294,
+      "num": 241294,
+      "word": "当我的猫瘾突然犯了",
+      "onboard_time": 1666664842,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 235088,
@@ -315,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228582,
+      "num": 228582,
+      "word": "乔欣新剧角色谐音是挣大钱",
+      "onboard_time": 1666670246,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227798,
       "num": 71150,
       "word": "北京10月24日新增本土确诊18例",
@@ -323,12 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215134,
-      "num": 215134,
-      "word": "当我的猫瘾突然犯了",
-      "onboard_time": 1666664842,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "杨群去世",
+      "onboard_time": 1666673365,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217847,
+      "num": 217847,
+      "word": "男子穿拖鞋爬4楼解救被卡男孩",
+      "onboard_time": 1666670424,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 214096,
@@ -364,7 +484,7 @@
     },
     {
       "raw_hot": 196224,
-      "num": 108741,
+      "num": 120414,
       "word": "早八和晚八的前后差距",
       "onboard_time": 1666653920,
       "rank": 44,
@@ -411,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180099,
+      "num": 180099,
+      "word": "重庆老股民轻信讲师被骗1340万元",
+      "onboard_time": 1666666166,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178637,
       "num": 146303,
       "word": "故宫西华门银杏太好看了",
@@ -425,14 +553,6 @@
       "onboard_time": 1666625845,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171942,
-      "num": 171942,
-      "word": "重庆老股民轻信讲师被骗1340万元",
-      "onboard_time": 1666666166,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167880,
@@ -452,11 +572,19 @@
     },
     {
       "raw_hot": 158715,
-      "num": 128455,
+      "num": 133802,
       "word": "双十一推出猜价格新玩法",
       "onboard_time": 1666665382,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 142515,
+      "num": 142515,
+      "word": "你身边有扫地僧一样的人吗",
+      "onboard_time": 1666665382,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141479,
@@ -467,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137997,
-      "num": 137997,
-      "word": "你身边有扫地僧一样的人吗",
-      "onboard_time": 1666665382,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132468,
       "num": 33028,
       "word": "双十一电商平台有多内卷",
       "onboard_time": 1666617565,
       "rank": 22,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 128874,
+      "num": 128874,
+      "word": "ITZY街头随机舞蹈",
+      "onboard_time": 1666668024,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 128696,
@@ -539,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104994,
+      "num": 104994,
+      "word": "成毅莲花楼是江湖神医",
+      "onboard_time": 1666671984,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104840,
       "num": 32721,
       "word": "男生用湿巾盖自制开门口罩做核酸",
@@ -553,6 +689,22 @@
       "onboard_time": 1666654401,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100277,
+      "num": 75913,
+      "word": "恋与制作人",
+      "onboard_time": 1666674026,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 98863,
+      "num": 98863,
+      "word": "哈登29分",
+      "onboard_time": 1666671082,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 95287,
@@ -571,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92437,
-      "num": 215273,
-      "word": "19岁湖南大学生离世捐器官救5人",
-      "onboard_time": 1666666883,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 92501,
+      "num": 92501,
+      "word": "在校园里看了场猫和老鼠",
+      "onboard_time": 1666672826,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 87485,
@@ -585,6 +737,14 @@
       "onboard_time": 1666656446,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 84404,
+      "num": 75356,
+      "word": "光与夜之恋",
+      "onboard_time": 1666674026,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 83680,
@@ -643,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78597,
-      "num": 78597,
-      "word": "ITZY街头随机舞蹈",
-      "onboard_time": 1666668024,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 77026,
       "num": 77026,
       "word": "莲花楼打戏好多",
@@ -659,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76102,
+      "num": 76102,
+      "word": "志愿军真实战斗场景",
+      "onboard_time": 1666673006,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 75556,
       "num": 27844,
       "word": "2022MAMA最佳女艺人提名",
       "onboard_time": 1666613722,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 73494,
-      "num": 73494,
-      "word": "北京航空航天大学70周年校庆",
-      "onboard_time": 1666667844,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 69957,
@@ -827,6 +979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 32933,
+      "num": 290821,
+      "word": "学深悟透才能见行见效",
+      "onboard_time": 1666673545,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 21031,
       "num": 15405,
       "word": "苏纳克当选英国保守党党首",
@@ -873,6 +1033,14 @@
       "onboard_time": 1666582043,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2560,
+      "num": 228673,
+      "word": "如何实现电车的通勤自由",
+      "onboard_time": 1666670424,
+      "rank": 19,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -881,6 +1049,9 @@
     },
     {
       "word": "#二十大时政微纪录#"
+    },
+    {
+      "word": "#二十大报告学习笔记#"
     }
   ]
 }

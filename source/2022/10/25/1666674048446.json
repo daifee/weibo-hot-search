@@ -1,0 +1,410 @@
+{
+  "runTime": 1666674048446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 513564,
+        "num": 513564,
+        "word": "失散亲兄弟刚相认就牺牲在上甘岭",
+        "onboard_time": 1666663103,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290914,
+        "num": 290914,
+        "word": "被10岁小朋友演的志愿军战士感动",
+        "onboard_time": 1666669163,
+        "rank": 1,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 32933,
+        "num": 290821,
+        "word": "学深悟透才能见行见效",
+        "onboard_time": 1666673545,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 519861,
+        "num": 288543,
+        "word": "刘诗雯参选国际乒联运动员委员会",
+        "onboard_time": 1666671745,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510462,
+        "num": 285333,
+        "word": "19岁湖南大学生离世捐器官救5人",
+        "onboard_time": 1666666883,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 382588,
+        "num": 284179,
+        "word": "赞多王怡人街舞5官宣",
+        "onboard_time": 1666672586,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323947,
+        "num": 282468,
+        "word": "北京航空航天大学70周年校庆",
+        "onboard_time": 1666667844,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 300876,
+        "num": 279329,
+        "word": "杜兰特欧文合砍74分",
+        "onboard_time": 1666668863,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278828,
+        "num": 278828,
+        "word": "中国海洋大学98周年校庆",
+        "onboard_time": 1666671022,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 266856,
+        "num": 266856,
+        "word": "范丞丞了不起的夜晚抽烟镜头",
+        "onboard_time": 1666673423,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1304885,
+        "num": 266845,
+        "word": "迪丽热巴爆炸头大片",
+        "onboard_time": 1666673006,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1102698,
+        "num": 266562,
+        "word": "梁靖崑被取消国际国内比赛资格",
+        "onboard_time": 1666665322,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546602,
+        "num": 266358,
+        "word": "女生买柚子闲置20多天按压冒灰烟",
+        "onboard_time": 1666655662,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265985,
+        "num": 265985,
+        "word": "王源十七发行五周年",
+        "onboard_time": 1666673905,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505545,
+        "num": 264413,
+        "word": "孔刘金高银韩版ELLE内页大片",
+        "onboard_time": 1666671205,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260623,
+        "num": 260623,
+        "word": "男子双色球中2.19亿捐500万",
+        "onboard_time": 1666623386,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248745,
+        "num": 248745,
+        "word": "萌娃被妈妈寄放派出所后不想走了",
+        "onboard_time": 1666662501,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247597,
+        "num": 247597,
+        "word": "苹果正式允许iOS发行NFT",
+        "onboard_time": 1666672465,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241294,
+        "num": 241294,
+        "word": "当我的猫瘾突然犯了",
+        "onboard_time": 1666664842,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2560,
+        "num": 228673,
+        "word": "如何实现电车的通勤自由",
+        "onboard_time": 1666670424,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228582,
+        "num": 228582,
+        "word": "乔欣新剧角色谐音是挣大钱",
+        "onboard_time": 1666670246,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226301,
+        "num": 226301,
+        "word": "杨群去世",
+        "onboard_time": 1666673365,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217847,
+        "num": 217847,
+        "word": "男子穿拖鞋爬4楼解救被卡男孩",
+        "onboard_time": 1666670424,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 204280,
+        "num": 204280,
+        "word": "女子刘海被理发店剪坏大哭报警",
+        "onboard_time": 1666653559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204156,
+        "num": 204156,
+        "word": "gidle新歌Nxde达成PAK",
+        "onboard_time": 1666665563,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180099,
+        "num": 180099,
+        "word": "重庆老股民轻信讲师被骗1340万元",
+        "onboard_time": 1666666166,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179981,
+        "num": 179981,
+        "word": "浙传将部分卫生间改为女生专用",
+        "onboard_time": 1666653497,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175692,
+        "num": 175692,
+        "word": "iOS16.1新增APP粘贴开关",
+        "onboard_time": 1666664123,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164093,
+        "num": 164093,
+        "word": "王者七周年皮肤CG",
+        "onboard_time": 1666665382,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148993,
+        "num": 148993,
+        "word": "苹果音乐涨价",
+        "onboard_time": 1666665563,
+        "rank": 29,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 161327,
+        "num": 147932,
+        "word": "相宜本草",
+        "onboard_time": 1666664423,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "你身边有扫地僧一样的人吗",
+        "onboard_time": 1666665382,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136095,
+        "num": 136095,
+        "word": "网剧遇见你之后定档1028",
+        "onboard_time": 1666667965,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133802,
+        "num": 133802,
+        "word": "双十一推出猜价格新玩法",
+        "onboard_time": 1666665382,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128874,
+        "num": 128874,
+        "word": "ITZY街头随机舞蹈",
+        "onboard_time": 1666668024,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126731,
+        "num": 126731,
+        "word": "管家回应业主被备注为刁民",
+        "onboard_time": 1666658726,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120414,
+        "num": 120414,
+        "word": "早八和晚八的前后差距",
+        "onboard_time": 1666653920,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114138,
+        "num": 114138,
+        "word": "王栎鑫直播白到发光",
+        "onboard_time": 1666658307,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108537,
+        "num": 108537,
+        "word": "16位退休阿姨为圆戏瘾翻拍甄嬛传",
+        "onboard_time": 1666626806,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106433,
+        "num": 106433,
+        "word": "土狗被扔50公里外一星期后跑回家",
+        "onboard_time": 1666625007,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104994,
+        "num": 104994,
+        "word": "成毅莲花楼是江湖神医",
+        "onboard_time": 1666671984,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98863,
+        "num": 98863,
+        "word": "哈登29分",
+        "onboard_time": 1666671082,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93313,
+        "num": 93313,
+        "word": "观察中国经济不能只看一时",
+        "onboard_time": 1666660044,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 92501,
+        "word": "在校园里看了场猫和老鼠",
+        "onboard_time": 1666672826,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 86182,
+        "num": 86182,
+        "word": "英语四六级查分",
+        "onboard_time": 1666654701,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85328,
+        "num": 85328,
+        "word": "故宫西华门银杏太好看了",
+        "onboard_time": 1666661422,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81022,
+        "num": 81022,
+        "word": "陈都灵东邪西毒冯蘅路透",
+        "onboard_time": 1666663764,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 76102,
+        "word": "志愿军真实战斗场景",
+        "onboard_time": 1666673006,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100277,
+        "num": 75913,
+        "word": "恋与制作人",
+        "onboard_time": 1666674026,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84404,
+        "num": 75356,
+        "word": "光与夜之恋",
+        "onboard_time": 1666674026,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告学习笔记#"
+    }
+  }
+}
