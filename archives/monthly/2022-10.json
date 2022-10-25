@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666690602691,
+  "endTime": 1666691649845,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -10403,6 +10403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433051,
+      "num": 367119,
+      "word": "上海启动吸入用新冠疫苗接种",
+      "onboard_time": 1666688843,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432920,
       "num": 432920,
       "word": "妈妈突然昏迷儿子大声呼喊唤醒",
@@ -10673,6 +10681,14 @@
       "onboard_time": 1664684002,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424473,
+      "num": 275380,
+      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+      "onboard_time": 1666688663,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424395,
@@ -12963,6 +12979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364578,
+      "num": 364578,
+      "word": "老干妈跌出贵州民企前10",
+      "onboard_time": 1666689744,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364291,
       "num": 364291,
       "word": "魏大勋父子全国通用跪式压箱法",
@@ -14019,14 +14043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337260,
-      "num": 337260,
-      "word": "上海启动吸入用新冠疫苗接种",
-      "onboard_time": 1666688843,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337189,
       "num": 337189,
       "word": "从校服到婚纱真的存在",
@@ -14497,6 +14513,14 @@
       "onboard_time": 1665965121,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 325196,
+      "num": 232964,
+      "word": "lightsum",
+      "onboard_time": 1666690226,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 324706,
@@ -16033,14 +16057,6 @@
       "onboard_time": 1665371003,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 292764,
-      "num": 275380,
-      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
-      "onboard_time": 1666688663,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292735,
@@ -19987,6 +20003,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 231336,
+      "num": 231336,
+      "word": "乍一听没听出是韩国人唱的",
+      "onboard_time": 1666688304,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231270,
       "num": 17863,
       "word": "LGD止步TI六强",
@@ -21035,14 +21059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219178,
-      "num": 219178,
-      "word": "lightsum",
-      "onboard_time": 1666690226,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218995,
       "num": 218995,
       "word": "做好论文导师也不容易",
@@ -21729,14 +21745,6 @@
       "onboard_time": 1665067044,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210111,
-      "num": 210111,
-      "word": "乍一听没听出是韩国人唱的",
-      "onboard_time": 1666688304,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 209748,
@@ -22449,6 +22457,14 @@
       "onboard_time": 1665023242,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201461,
+      "num": 219182,
+      "word": "LPL纪录片预告",
+      "onboard_time": 1666688603,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 201344,
@@ -24027,6 +24043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184256,
+      "num": 157535,
+      "word": "王鹤棣和浮图缘小演员合照",
+      "onboard_time": 1666689803,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184180,
       "num": 184180,
       "word": "张杰献唱江河奔腾看中国",
@@ -24635,14 +24659,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 177088,
-      "num": 219182,
-      "word": "LPL纪录片预告",
-      "onboard_time": 1666688603,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176659,
       "num": 80933,
       "word": "小狗每天串门找小猫玩耍",
@@ -24993,14 +25009,6 @@
       "onboard_time": 1665087671,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172214,
-      "num": 157535,
-      "word": "王鹤棣和浮图缘小演员合照",
-      "onboard_time": 1666689803,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 172036,
@@ -27219,6 +27227,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 148635,
+      "num": 148635,
+      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+      "onboard_time": 1666689443,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148590,
       "num": 670226,
       "word": "二十大报告中这些举措关乎你我",
@@ -28443,14 +28459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 137629,
-      "num": 137629,
-      "word": "老干妈跌出贵州民企前10",
-      "onboard_time": 1666689744,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137613,
       "num": 29101,
       "word": "章鱼哥演我上班心情",
@@ -29059,6 +29067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131479,
+      "num": 131479,
+      "word": "樊振东孙颖莎出席抽签仪式",
+      "onboard_time": 1666690343,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131470,
       "num": 131470,
       "word": "蒲熠星说在脑力节目里尽情展现了体力",
@@ -29241,14 +29257,6 @@
       "onboard_time": 1665702619,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129351,
-      "num": 129351,
-      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
-      "onboard_time": 1666689443,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129144,
@@ -30307,6 +30315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119626,
+      "num": 113324,
+      "word": "许嵩新歌曼陀山庄",
+      "onboard_time": 1666690945,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119616,
       "num": 119616,
       "word": "每一个兵马俑都有真实原型吗",
@@ -31097,6 +31113,14 @@
       "onboard_time": 1664670021,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112485,
+      "num": 112485,
+      "word": "瑜伽简直就是酸痛克星",
+      "onboard_time": 1666691063,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112321,
@@ -33275,6 +33299,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 92536,
+      "num": 92536,
+      "word": "新乡wtt世界杯决赛抽签仪式",
+      "onboard_time": 1666688963,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92482,
       "num": 92482,
       "word": "曼城5比0哥本哈根",
@@ -34227,12 +34259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84483,
-      "num": 84483,
-      "word": "新乡wtt世界杯决赛抽签仪式",
-      "onboard_time": 1666688963,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 84324,
+      "num": 84324,
+      "word": "白天咖啡强制开机",
+      "onboard_time": 1666690524,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 84318,
@@ -34705,14 +34737,6 @@
       "onboard_time": 1666426342,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79582,
-      "num": 79582,
-      "word": "白天咖啡强制开机",
-      "onboard_time": 1666690524,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 79530,
@@ -36435,6 +36459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63095,
+      "num": 63095,
+      "word": "花亦山指证迷你世界抄袭",
+      "onboard_time": 1666691484,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63074,
       "num": 405494,
       "word": "王昭君星穹之声",
@@ -36960,6 +36992,14 @@
       "word": "节日我在岗",
       "onboard_time": 1664595622,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58204,
+      "num": 58204,
+      "word": "罕见病女孩与疼痛的28年抗争",
+      "onboard_time": 1666691604,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

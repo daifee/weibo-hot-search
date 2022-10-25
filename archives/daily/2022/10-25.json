@@ -1,6 +1,6 @@
 {
   "startTime": 1666629647258,
-  "endTime": 1666690602691,
+  "endTime": 1666691649845,
   "band_list": [
     {
       "raw_hot": 2315958,
@@ -235,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 439156,
+      "num": 377007,
+      "word": "脱口秀大会",
+      "onboard_time": 1666689323,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436971,
       "num": 96237,
       "word": "浙江一学生刮腻子刮成世界冠军",
@@ -248,6 +256,14 @@
       "word": "武汉防空警报",
       "onboard_time": 1666686624,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433051,
+      "num": 367119,
+      "word": "上海启动吸入用新冠疫苗接种",
+      "onboard_time": 1666688843,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -281,6 +297,14 @@
       "onboard_time": 1666664423,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 424473,
+      "num": 275380,
+      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
+      "onboard_time": 1666688663,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414588,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373908,
-      "num": 373908,
-      "word": "脱口秀大会",
-      "onboard_time": 1666689323,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369322,
       "num": 87058,
       "word": "娇兰",
@@ -369,6 +385,14 @@
       "onboard_time": 1666665382,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 364578,
+      "num": 364578,
+      "word": "老干妈跌出贵州民企前10",
+      "onboard_time": 1666689744,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358137,
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337260,
-      "num": 337260,
-      "word": "上海启动吸入用新冠疫苗接种",
-      "onboard_time": 1666688843,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328388,
       "num": 326878,
       "word": "王安宇说金晨还是一个小女孩",
@@ -425,6 +441,14 @@
       "onboard_time": 1666617686,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 325196,
+      "num": 232964,
+      "word": "lightsum",
+      "onboard_time": 1666690226,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 323947,
@@ -488,14 +512,6 @@
       "word": "管家回应业主被备注为刁民",
       "onboard_time": 1666658726,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292764,
-      "num": 275380,
-      "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
-      "onboard_time": 1666688663,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -707,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231336,
+      "num": 231336,
+      "word": "乍一听没听出是韩国人唱的",
+      "onboard_time": 1666688304,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228582,
       "num": 228582,
       "word": "乔欣新剧角色谐音是挣大钱",
@@ -747,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219178,
-      "num": 219178,
-      "word": "lightsum",
-      "onboard_time": 1666690226,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214096,
       "num": 33203,
       "word": "新郎回应婚礼现场送新娘1张彩票",
@@ -779,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210111,
-      "num": 210111,
-      "word": "乍一听没听出是韩国人唱的",
-      "onboard_time": 1666688304,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205718,
       "num": 178587,
       "word": "杨颖心动的信号小香风造型",
@@ -801,6 +809,14 @@
       "onboard_time": 1666685004,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201461,
+      "num": 219182,
+      "word": "LPL纪录片预告",
+      "onboard_time": 1666688603,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 201226,
@@ -859,6 +875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 184256,
+      "num": 157535,
+      "word": "王鹤棣和浮图缘小演员合照",
+      "onboard_time": 1666689803,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180447,
       "num": 33080,
       "word": "小说里的清冷女主有脸了",
@@ -883,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177088,
-      "num": 219182,
-      "word": "LPL纪录片预告",
-      "onboard_time": 1666688603,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176659,
       "num": 80933,
       "word": "小狗每天串门找小猫玩耍",
@@ -905,14 +921,6 @@
       "onboard_time": 1666684644,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172214,
-      "num": 157535,
-      "word": "王鹤棣和浮图缘小演员合照",
-      "onboard_time": 1666689803,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168137,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148635,
+      "num": 148635,
+      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
+      "onboard_time": 1666689443,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147198,
       "num": 147198,
       "word": "心动的信号",
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137629,
-      "num": 137629,
-      "word": "老干妈跌出贵州民企前10",
-      "onboard_time": 1666689744,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132468,
       "num": 33028,
       "word": "双十一电商平台有多内卷",
@@ -1027,12 +1035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129351,
-      "num": 129351,
-      "word": "1岁萌娃给睡着妈妈盖被后转身入睡",
-      "onboard_time": 1666689443,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 131479,
+      "num": 131479,
+      "word": "樊振东孙颖莎出席抽签仪式",
+      "onboard_time": 1666690343,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 128874,
@@ -1075,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119626,
+      "num": 113324,
+      "word": "许嵩新歌曼陀山庄",
+      "onboard_time": 1666690945,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1666683325,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112485,
+      "num": 112485,
+      "word": "瑜伽简直就是酸痛克星",
+      "onboard_time": 1666691063,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112288,
@@ -1219,6 +1243,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 92536,
+      "num": 92536,
+      "word": "新乡wtt世界杯决赛抽签仪式",
+      "onboard_time": 1666688963,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88989,
       "num": 77280,
       "word": "宋茜许魏洲新剧演情侣",
@@ -1243,12 +1275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84483,
-      "num": 84483,
-      "word": "新乡wtt世界杯决赛抽签仪式",
-      "onboard_time": 1666688963,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 84324,
+      "num": 84324,
+      "word": "白天咖啡强制开机",
+      "onboard_time": 1666690524,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 83680,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1666617267,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79582,
-      "num": 79582,
-      "word": "白天咖啡强制开机",
-      "onboard_time": 1666690524,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 79461,
@@ -1395,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63095,
+      "num": 63095,
+      "word": "花亦山指证迷你世界抄袭",
+      "onboard_time": 1666691484,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62992,
       "num": 27806,
       "word": "当然要和爱的人分享晚霞啊",
@@ -1432,6 +1464,14 @@
       "word": "张桂梅回到华坪女高后学生热情拥抱",
       "onboard_time": 1666682544,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58204,
+      "num": 58204,
+      "word": "罕见病女孩与疼痛的28年抗争",
+      "onboard_time": 1666691604,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
