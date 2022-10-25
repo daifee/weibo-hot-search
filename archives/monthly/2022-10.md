@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 06:46:30
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 07:27:47
 </p>
 </blockquote>
 <p>
@@ -5091,6 +5091,12 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E5%88%A9%E6%AF%94%E4%BA%9A%23" target="weibo">
+外交部提醒中国公民近期暂勿前往利比亚（热度：599309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%23" target="weibo">
 关于十九届中央委员会报告的决议通过（热度：598546）
 </a>
@@ -6005,12 +6011,6 @@ AI预测S12冠军（热度：533074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E9%BE%99%E8%91%B5%E5%B0%84%E7%AE%AD%E5%B8%85%E5%88%B0%23" target="weibo">
 真的会被龙葵射箭帅到（热度：532741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%8A%E5%91%98%E9%81%87%E7%99%BD%E8%A1%80%E7%97%85%E5%AE%B6%E5%BA%AD%E5%A4%A7%E5%93%AD%E4%B8%8D%E5%BF%8D%E6%94%B6%E9%92%B1%23" target="weibo">
-陪诊员遇白血病家庭大哭不忍收钱（热度：532635）
 </a>
 </li>
 
