@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666805189907,
+  "endTime": 1666806207894,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 346151,
-      "num": 107702,
+      "num": 142126,
       "word": "RNG被曝将被竞拍解散",
       "onboard_time": 1666802660,
       "rank": 21,
@@ -177,6 +177,14 @@
       "onboard_time": 1666786226,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139553,
+      "num": 89647,
+      "word": "侃爷跌出福布斯亿万富豪榜",
+      "onboard_time": 1666805296,
+      "rank": 11,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 138773,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54972,
+      "num": 54972,
+      "word": "张艺兴面纱提名2022亚洲最佳流行音乐",
+      "onboard_time": 1666805715,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 54641,
       "num": 54641,
       "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
@@ -409,6 +425,14 @@
       "onboard_time": 1666795707,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19788,
+      "num": 19788,
+      "word": "第五人格",
+      "onboard_time": 1666784843,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 10640,
