@@ -1,14 +1,22 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666757615562,
+  "endTime": 1666758779570,
   "band_list": [
     {
       "raw_hot": 2368107,
-      "num": 520642,
+      "num": 898716,
       "word": "全球最脏的人被迫洗澡后去世",
       "onboard_time": 1666750943,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218805,
+      "num": 832727,
+      "word": "王嘉尔疑似出席S12决赛",
+      "onboard_time": 1666755505,
+      "rank": 4,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1185266,
@@ -20,23 +28,23 @@
     },
     {
       "raw_hot": 1130564,
-      "num": 513498,
+      "num": 554844,
       "word": "两千游客因疫情在船上隔离",
       "onboard_time": 1666742724,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1120537,
-      "num": 519977,
-      "word": "王嘉尔疑似出席S12决赛",
-      "onboard_time": 1666755505,
-      "rank": 4,
-      "category": "游戏,艺人"
+      "raw_hot": 1125148,
+      "num": 564894,
+      "word": "颖儿回应千山暮雪时发胖",
+      "onboard_time": 1666757552,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1046744,
-      "num": 514975,
+      "num": 570268,
       "word": "俄罗斯已通知美国即将举行年度军演",
       "onboard_time": 1666748664,
       "rank": 3,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1020803,
-      "num": 518727,
+      "num": 786616,
       "word": "女子鼻子长疙瘩以为黑头竟是癌症",
       "onboard_time": 1666753043,
       "rank": 5,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 1015105,
-      "num": 517415,
+      "num": 772961,
       "word": "快乐回来啦",
       "onboard_time": 1666752445,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 942366,
+      "num": 942366,
+      "word": "汤普森被驱逐",
+      "onboard_time": 1666756645,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 918719,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 749960,
-      "num": 516333,
+      "num": 724166,
       "word": "不知火舞新皮肤",
       "onboard_time": 1666755685,
       "rank": 7,
@@ -132,11 +148,19 @@
     },
     {
       "raw_hot": 573312,
-      "num": 514319,
+      "num": 540751,
       "word": "哈利波特",
       "onboard_time": 1666755023,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 571115,
+      "num": 571115,
+      "word": "法证先锋5今晚开播",
+      "onboard_time": 1666755391,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 567490,
@@ -152,14 +176,6 @@
       "word": "两个人的小森林第二部在筹划中",
       "onboard_time": 1666746805,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 555165,
-      "num": 511783,
-      "word": "法证先锋5今晚开播",
-      "onboard_time": 1666755391,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -219,12 +235,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 483002,
-      "num": 483002,
-      "word": "汤普森被驱逐",
-      "onboard_time": 1666756645,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 487993,
+      "num": 487993,
+      "word": "林徽因大概会爱上这座院子",
+      "onboard_time": 1666754964,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469740,
@@ -291,20 +307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 373577,
-      "num": 373577,
+      "raw_hot": 374037,
+      "num": 374037,
       "word": "很难不被王妃的衣橱惊艳到",
       "onboard_time": 1666754486,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360329,
-      "num": 360329,
-      "word": "林徽因大概会爱上这座院子",
-      "onboard_time": 1666754964,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338345,
@@ -329,6 +337,14 @@
       "onboard_time": 1666699344,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325026,
+      "num": 325026,
+      "word": "台积电发内部信鼓励员工休假",
+      "onboard_time": 1666757188,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 324870,
@@ -411,6 +427,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 261155,
+      "num": 261155,
+      "word": "电影重启2定档",
+      "onboard_time": 1666757552,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259212,
       "num": 123539,
       "word": "考研报名今日22时结束",
@@ -419,20 +443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249461,
-      "num": 174473,
-      "word": "颖儿回应千山暮雪时发胖",
-      "onboard_time": 1666757552,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 247914,
-      "num": 174042,
-      "word": "电影重启2定档",
-      "onboard_time": 1666757552,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 251097,
+      "num": 251097,
+      "word": "孙子见奶奶偷玩游戏眉头紧皱",
+      "onboard_time": 1666756166,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245357,
@@ -475,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210734,
+      "num": 210734,
+      "word": "苹果称将遵守欧盟USB-C充电法",
+      "onboard_time": 1666755926,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207838,
       "num": 207838,
       "word": "封宿舍多天女生用瑜伽垫做麻将",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 197565,
-      "num": 173264,
+      "num": 181250,
       "word": "他从火光中走来",
       "onboard_time": 1666756525,
       "rank": 33,
@@ -507,20 +531,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 181890,
+      "num": 181890,
+      "word": "两不疑第二季动画开播",
+      "onboard_time": 1666757907,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175214,
       "num": 105497,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
       "onboard_time": 1666705885,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174837,
-      "num": 174837,
-      "word": "孙子见奶奶偷玩游戏眉头紧皱",
-      "onboard_time": 1666756166,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167954,
@@ -531,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155710,
+      "num": 155710,
+      "word": "电动车屋内充电2分钟连爆15次",
+      "onboard_time": 1666757547,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153289,
       "num": 85072,
       "word": "段永平六次加仓腾讯",
       "onboard_time": 1666712606,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 150613,
-      "num": 150613,
-      "word": "苹果称将遵守欧盟USB-C充电法",
-      "onboard_time": 1666755926,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 150086,
@@ -611,6 +635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 125037,
+      "num": 125037,
+      "word": "德总统访乌躲入防空洞一个半小时",
+      "onboard_time": 1666758391,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 124444,
       "num": 105751,
       "word": "新乡",
@@ -619,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "台积电发内部信鼓励员工休假",
-      "onboard_time": 1666757188,
-      "rank": 44,
-      "category": "科技,社会新闻"
+      "raw_hot": 124374,
+      "num": 124374,
+      "word": "软噗噗的大熊猫还会一字马",
+      "onboard_time": 1666753645,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116300,
@@ -648,14 +680,6 @@
       "word": "给主人递凳子的小狗",
       "onboard_time": 1666709607,
       "rank": 7,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 109689,
-      "num": 109689,
-      "word": "软噗噗的大熊猫还会一字马",
-      "onboard_time": 1666753645,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -987,8 +1011,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33348,
+      "num": 490170,
+      "word": "受助患者离世捐献器官救其他患者",
+      "onboard_time": 1666756885,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33033,
-      "num": 522515,
+      "num": 919219,
       "word": "锚定中心任务开好局起好步",
       "onboard_time": 1666711228,
       "rank": 2,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1666713745,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 19276,
-      "num": 448511,
-      "word": "受助患者离世捐献器官救其他患者",
-      "onboard_time": 1666756885,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10002,
