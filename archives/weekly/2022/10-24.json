@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666793153071,
+  "endTime": 1666794453399,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -121,6 +121,14 @@
       "onboard_time": 1666701023,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1455833,
+      "num": 929599,
+      "word": "心动的信号5成了四对",
+      "onboard_time": 1666792585,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1423537,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 895530,
+      "num": 517034,
+      "word": "恋与制作人抄袭xxxHOLiC",
+      "onboard_time": 1666790124,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 885489,
       "num": 885489,
       "word": "防止领导干部成为利益集团和权势团体代言人",
@@ -401,14 +417,6 @@
       "onboard_time": 1666606402,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 851008,
-      "num": 517034,
-      "word": "恋与制作人抄袭xxxHOLiC",
-      "onboard_time": 1666790124,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 839407,
@@ -505,14 +513,6 @@
       "onboard_time": 1666704806,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 743041,
-      "num": 929599,
-      "word": "心动的信号5成了四对",
-      "onboard_time": 1666792585,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 741959,
@@ -697,6 +697,14 @@
       "onboard_time": 1666774044,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617564,
+      "num": 359590,
+      "word": "雪球",
+      "onboard_time": 1666793364,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 617354,
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 522142,
-      "num": 337548,
+      "num": 345119,
       "word": "女子晒连续286天晚10点睡觉变化",
       "onboard_time": 1666778304,
       "rank": 21,
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 510227,
-      "num": 510227,
+      "num": 927552,
       "word": "中国共产党章程发布",
       "onboard_time": 1666789765,
       "rank": 13,
@@ -1836,7 +1844,7 @@
     },
     {
       "raw_hot": 338592,
-      "num": 168907,
+      "num": 176574,
       "word": "王一博我的朋友眼镜造型剧照",
       "onboard_time": 1666792585,
       "rank": 20,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1666775244,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325649,
+      "num": 325649,
+      "word": "再便秘就不礼貌了",
+      "onboard_time": 1666791746,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 323947,
@@ -2963,14 +2979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198960,
-      "num": 198960,
-      "word": "再便秘就不礼貌了",
-      "onboard_time": 1666791746,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197565,
       "num": 181250,
       "word": "他从火光中走来",
@@ -3131,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180942,
+      "num": 180942,
+      "word": "外国网友出攻略教学跨国薅羊毛",
+      "onboard_time": 1666789646,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180099,
       "num": 180099,
       "word": "重庆老股民轻信讲师被骗1340万元",
@@ -3243,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171553,
+      "num": 117401,
+      "word": "秦岚王子异二搭好抓马",
+      "onboard_time": 1666791446,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170533,
       "num": 170533,
       "word": "8岁女孩拿出全部积蓄为姥爷治病",
@@ -3315,6 +3339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "该怎么在一段感情里减少内耗",
+      "onboard_time": 1666791565,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163987,
+      "num": 163987,
+      "word": "山西教资",
+      "onboard_time": 1666794026,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 163030,
       "num": 154631,
       "word": "长风渡",
@@ -3339,20 +3379,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 158538,
+      "num": 83669,
+      "word": "心动的信号cp群像芭莎大片",
+      "onboard_time": 1666793728,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158240,
       "num": 30743,
       "word": "男孩手指被卡少年为消防员带路",
       "onboard_time": 1666580483,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157452,
-      "num": 104275,
-      "word": "秦岚王子异二搭好抓马",
-      "onboard_time": 1666791446,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 157157,
@@ -3651,14 +3691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 135837,
-      "num": 135837,
-      "word": "外国网友出攻略教学跨国薅羊毛",
-      "onboard_time": 1666789646,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134916,
       "num": 134916,
       "word": "成毅莲花楼杀青视频",
@@ -3723,6 +3755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131455,
+      "num": 343212,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131234,
       "num": 131234,
       "word": "林高远参加亚洲杯",
@@ -3771,12 +3811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126787,
+      "num": 73013,
+      "word": "薛喆阳抱住王秋怡",
+      "onboard_time": 1666794446,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126242,
       "num": 15165,
       "word": "开拓者准绝杀湖人",
       "onboard_time": 1666571962,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126089,
+      "num": 126089,
+      "word": "我的精神状态靠买东西支撑",
+      "onboard_time": 1666791387,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 125524,
@@ -3891,6 +3947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119358,
+      "num": 109053,
+      "word": "芳心荡漾",
+      "onboard_time": 1666793306,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -4001,14 +4065,6 @@
       "onboard_time": 1666783883,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110962,
-      "num": 110962,
-      "word": "该怎么在一段感情里减少内耗",
-      "onboard_time": 1666791565,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 110728,
@@ -4275,14 +4331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96825,
-      "num": 96825,
-      "word": "我的精神状态靠买东西支撑",
-      "onboard_time": 1666791387,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96245,
       "num": 12824,
       "word": "王楚钦杀疯了",
@@ -4497,6 +4545,14 @@
       "onboard_time": 1666766964,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 84041,
+      "num": 84041,
+      "word": "东北一小区喷泉池里摆满晾晒白菜",
+      "onboard_time": 1666793547,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83995,
@@ -4833,6 +4889,14 @@
       "onboard_time": 1666764444,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66574,
+      "num": 66574,
+      "word": "想谈恋爱但也就想想",
+      "onboard_time": 1666793728,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 66245,
@@ -5331,7 +5395,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 21291,
+      "raw_hot": 21323,
       "num": 522692,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
@@ -5377,14 +5441,6 @@
       "onboard_time": 1666536084,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15680,
-      "num": 343212,
-      "word": "女子患红斑狼疮跑马拉松对抗病魔",
-      "onboard_time": 1666792888,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15468,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1666794453399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 483235,
+        "num": 927552,
+        "word": "中国共产党章程发布",
+        "onboard_time": 1666789765,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 436982,
+        "num": 436982,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 21323,
+        "num": 429636,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2060294,
+        "num": 423665,
+        "word": "芋圆cp官宣",
+        "onboard_time": 1666789703,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 895530,
+        "num": 414848,
+        "word": "恋与制作人抄袭xxxHOLiC",
+        "onboard_time": 1666790124,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1455833,
+        "num": 410980,
+        "word": "心动的信号5成了四对",
+        "onboard_time": 1666792585,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639716,
+        "num": 402898,
+        "word": "C盘一下子就不红了",
+        "onboard_time": 1666788804,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 988841,
+        "num": 392400,
+        "word": "六万cp官宣",
+        "onboard_time": 1666790605,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388025,
+        "num": 388025,
+        "word": "男子意外失忆与家人失联23年",
+        "onboard_time": 1666786226,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359820,
+        "num": 359820,
+        "word": "福州暂停一切聚集性活动",
+        "onboard_time": 1666784124,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617564,
+        "num": 359590,
+        "word": "雪球",
+        "onboard_time": 1666793364,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543794,
+        "num": 359243,
+        "word": "小说里的女将军有脸了",
+        "onboard_time": 1666787424,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456395,
+        "num": 354945,
+        "word": "肉粽cp",
+        "onboard_time": 1666791326,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345119,
+        "num": 345119,
+        "word": "女子晒连续286天晚10点睡觉变化",
+        "onboard_time": 1666778304,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131455,
+        "num": 333384,
+        "word": "女子患红斑狼疮跑马拉松对抗病魔",
+        "onboard_time": 1666792888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325649,
+        "num": 325649,
+        "word": "再便秘就不礼貌了",
+        "onboard_time": 1666791746,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303688,
+        "num": 303688,
+        "word": "越喜欢一个人越想要远离",
+        "onboard_time": 1666787963,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187274,
+        "num": 187274,
+        "word": "公猫和同伴吵架被气翻倒在地",
+        "onboard_time": 1666785683,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180942,
+        "num": 180942,
+        "word": "外国网友出攻略教学跨国薅羊毛",
+        "onboard_time": 1666789646,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176777,
+        "num": 176777,
+        "word": "郑州多区调整疫情防控政策",
+        "onboard_time": 1666778004,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297675,
+        "num": 176574,
+        "word": "王一博我的朋友眼镜造型剧照",
+        "onboard_time": 1666792585,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216770,
+        "num": 175373,
+        "word": "正确打开白衬衫的方式",
+        "onboard_time": 1666788924,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197881,
+        "num": 173708,
+        "word": "西宁回应群众买菜难等问题",
+        "onboard_time": 1666787003,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186752,
+        "num": 173114,
+        "word": "Jennie叼笔盖签名",
+        "onboard_time": 1666781485,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172644,
+        "num": 172644,
+        "word": "大学生隔4个月返校宿舍长出辣椒",
+        "onboard_time": 1666781243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164433,
+        "num": 164433,
+        "word": "该怎么在一段感情里减少内耗",
+        "onboard_time": 1666791565,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163987,
+        "num": 163987,
+        "word": "山西教资",
+        "onboard_time": 1666794026,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 131290,
+        "num": 131290,
+        "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
+        "onboard_time": 1666784545,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 126089,
+        "word": "我的精神状态靠买东西支撑",
+        "onboard_time": 1666791387,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124798,
+        "num": 124798,
+        "word": "男子进店求助食物老板二话没说就给",
+        "onboard_time": 1666783705,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182276,
+        "num": 122698,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1666784363,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171553,
+        "num": 117401,
+        "word": "秦岚王子异二搭好抓马",
+        "onboard_time": 1666791446,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109644,
+        "num": 109644,
+        "word": "14斤猫压塌简易书架主人崩溃",
+        "onboard_time": 1666774044,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119358,
+        "num": 109053,
+        "word": "芳心荡漾",
+        "onboard_time": 1666793306,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "张杰值得更好的发行一周年",
+        "onboard_time": 1666787844,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105704,
+        "num": 105704,
+        "word": "女孩吃假减肥药致精神分裂",
+        "onboard_time": 1666773806,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98433,
+        "num": 98433,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1666773563,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94324,
+        "num": 94324,
+        "word": "律师谈男子中奖2.19亿不告诉老婆",
+        "onboard_time": 1666770086,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92291,
+        "num": 92291,
+        "word": "新郎娶到相恋5年的姑娘哭花脸",
+        "onboard_time": 1666772123,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84041,
+        "num": 84041,
+        "word": "东北一小区喷泉池里摆满晾晒白菜",
+        "onboard_time": 1666793547,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158538,
+        "num": 83669,
+        "word": "心动的信号cp群像芭莎大片",
+        "onboard_time": 1666793728,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80447,
+        "num": 80447,
+        "word": "我为LPL扛大旗",
+        "onboard_time": 1666775244,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80360,
+        "num": 80360,
+        "word": "研究称火星下面或藏着生命",
+        "onboard_time": 1666780163,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 78878,
+        "num": 78878,
+        "word": "步步惊心网飞将上线",
+        "onboard_time": 1666781303,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76618,
+        "num": 76618,
+        "word": "第五人格",
+        "onboard_time": 1666784843,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74524,
+        "num": 74524,
+        "word": "8岁女孩拿出全部积蓄为姥爷治病",
+        "onboard_time": 1666774644,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73228,
+        "num": 73228,
+        "word": "这才是我想要的刘海",
+        "onboard_time": 1666777164,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126787,
+        "num": 73013,
+        "word": "薛喆阳抱住王秋怡",
+        "onboard_time": 1666794446,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71458,
+        "num": 71458,
+        "word": "租房记住这24点就够了",
+        "onboard_time": 1666785383,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 66574,
+        "num": 66574,
+        "word": "想谈恋爱但也就想想",
+        "onboard_time": 1666793728,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻二十大精神有16个字很重要#"
+    }
+  }
+}
