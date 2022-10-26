@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666780988658,
+  "endTime": 1666783206965,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514079,
+      "num": 224713,
+      "word": "女子晒连续286天晚10点睡觉变化",
+      "onboard_time": 1666778304,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511617,
       "num": 511617,
       "word": "父母玩手机10个月宝宝两边刷存在感",
@@ -329,6 +337,14 @@
       "onboard_time": 1666746626,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 492759,
+      "num": 223332,
+      "word": "Jennie叼笔盖签名",
+      "onboard_time": 1666781485,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 487993,
@@ -377,6 +393,22 @@
       "onboard_time": 1666753404,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427206,
+      "num": 286699,
+      "word": "郑州多区调整疫情防控政策",
+      "onboard_time": 1666778004,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424829,
+      "num": 394505,
+      "word": "步步惊心网飞将上线",
+      "onboard_time": 1666781303,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 417493,
@@ -451,6 +483,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 384759,
+      "num": 384759,
+      "word": "苍兰诀全员超话重聚会",
+      "onboard_time": 1666778605,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380667,
       "num": 230719,
       "word": "两只狗用中文交流的原因",
@@ -475,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371038,
-      "num": 286699,
-      "word": "郑州多区调整疫情防控政策",
-      "onboard_time": 1666778004,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368188,
       "num": 368188,
       "word": "重庆拟规定不得遗弃饲养犬只",
@@ -497,14 +529,6 @@
       "onboard_time": 1666776802,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 361722,
-      "num": 178445,
-      "word": "女子晒连续286天晚10点睡觉变化",
-      "onboard_time": 1666778304,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357415,
@@ -699,14 +723,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 268735,
-      "num": 268735,
-      "word": "苍兰诀全员超话重聚会",
-      "onboard_time": 1666778605,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265706,
       "num": 265706,
       "word": "广州海关查获新型毒品听话水",
@@ -729,6 +745,14 @@
       "onboard_time": 1666710748,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256532,
+      "num": 219762,
+      "word": "阿迪终止与侃爷合作预计净利损失2.5亿欧元",
+      "onboard_time": 1666781303,
+      "rank": 15,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 251097,
@@ -761,6 +785,14 @@
       "onboard_time": 1666750524,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241238,
+      "num": 241238,
+      "word": "再给狗子买一个吧",
+      "onboard_time": 1666777942,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 237008,
@@ -803,12 +835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218704,
-      "num": 218704,
-      "word": "再给狗子买一个吧",
-      "onboard_time": 1666777942,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 217610,
+      "num": 217610,
+      "word": "研究称火星下面或藏着生命",
+      "onboard_time": 1666780163,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 214508,
+      "num": 214508,
+      "word": "金晨行为不要上升罗娜",
+      "onboard_time": 1666782444,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 213695,
@@ -905,6 +945,14 @@
       "onboard_time": 1666705885,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174615,
+      "num": 107556,
+      "word": "宋茜新剧暗恋许魏洲八年",
+      "onboard_time": 1666780524,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 172617,
@@ -1059,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121625,
+      "num": 112501,
+      "word": "西宁疫情防控工作新闻发布会",
+      "onboard_time": 1666779324,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121601,
       "num": 121601,
       "word": "王子异新剧演IT天才",
@@ -1123,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105369,
+      "num": 105369,
+      "word": "谢谢平替侠的作业清单",
+      "onboard_time": 1666780584,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 99724,
+      "num": 99724,
+      "word": "三部门联合开展艺考培训专项治理",
+      "onboard_time": 1666778004,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 99676,
       "num": 99676,
       "word": "5岁男童玩魔方1年后创世界纪录",
@@ -1155,22 +1227,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 99168,
-      "num": 99168,
-      "word": "三部门联合开展艺考培训专项治理",
-      "onboard_time": 1666778004,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 98492,
-      "num": 98492,
-      "word": "宋茜新剧暗恋许魏洲八年",
-      "onboard_time": 1666780524,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97507,
       "num": 97507,
       "word": "永远会为落日晚霞心动",
@@ -1179,28 +1235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94641,
-      "num": 94641,
-      "word": "研究称火星下面或藏着生命",
-      "onboard_time": 1666780163,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
       "onboard_time": 1666765045,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 90412,
-      "num": 90412,
-      "word": "西宁疫情防控工作新闻发布会",
-      "onboard_time": 1666779324,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87025,
@@ -1315,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76386,
-      "num": 76386,
-      "word": "谢谢平替侠的作业清单",
-      "onboard_time": 1666780584,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 75997,
       "num": 274846,
       "word": "乡村两元理发店22年不涨价",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1666740621,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 75162,
+      "num": 75162,
+      "word": "83岁伯伯坐公交给侄女送农产品",
+      "onboard_time": 1666782923,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74806,
@@ -1360,6 +1400,14 @@
       "word": "90后姑娘辞去村干部全职当农民",
       "onboard_time": 1666697242,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74236,
+      "num": 74236,
+      "word": "大学生隔4个月返校宿舍长出辣椒",
+      "onboard_time": 1666781243,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1449,6 +1497,14 @@
       "onboard_time": 1666710268,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 63501,
+      "num": 63501,
+      "word": "详解iPadOS16正式版功能",
+      "onboard_time": 1666783163,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 58920,
@@ -1625,6 +1681,22 @@
       "onboard_time": 1666713745,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 21366,
+      "num": 220413,
+      "word": "00后双胞胎兄弟实现军旅梦",
+      "onboard_time": 1666782023,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14929,
+      "num": 399947,
+      "word": "强国之路正扬帆",
+      "onboard_time": 1666782504,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 12599,

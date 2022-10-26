@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666780988658,
+  "endTime": 1666783206965,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -8675,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514079,
+      "num": 224713,
+      "word": "女子晒连续286天晚10点睡觉变化",
+      "onboard_time": 1666778304,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513903,
       "num": 513903,
       "word": "中国男团vs泰国男团",
@@ -9209,6 +9217,14 @@
       "onboard_time": 1665386545,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 492759,
+      "num": 223332,
+      "word": "Jennie叼笔盖签名",
+      "onboard_time": 1666781485,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492553,
@@ -11139,6 +11155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427206,
+      "num": 286699,
+      "word": "郑州多区调整疫情防控政策",
+      "onboard_time": 1666778004,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426975,
       "num": 375604,
       "word": "aespa出镜nylon十月刊",
@@ -11209,6 +11233,14 @@
       "onboard_time": 1664684002,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424829,
+      "num": 394505,
+      "word": "步步惊心网飞将上线",
+      "onboard_time": 1666781303,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 424395,
@@ -12819,6 +12851,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 384759,
+      "num": 384759,
+      "word": "苍兰诀全员超话重聚会",
+      "onboard_time": 1666778605,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384734,
       "num": 384734,
       "word": "CBA要求解说员不要评价吹罚",
@@ -13339,14 +13379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371038,
-      "num": 286699,
-      "word": "郑州多区调整疫情防控政策",
-      "onboard_time": 1666778004,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370911,
       "num": 17414,
       "word": "独行月球票房破31亿",
@@ -13713,14 +13745,6 @@
       "onboard_time": 1666704689,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 361722,
-      "num": 178445,
-      "word": "女子晒连续286天晚10点睡觉变化",
-      "onboard_time": 1666778304,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361719,
@@ -18315,14 +18339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268735,
-      "num": 268735,
-      "word": "苍兰诀全员超话重聚会",
-      "onboard_time": 1666778605,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268591,
       "num": 268591,
       "word": "周深中国国家公园主题曲",
@@ -19113,6 +19129,14 @@
       "onboard_time": 1665399325,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256532,
+      "num": 219762,
+      "word": "阿迪终止与侃爷合作预计净利损失2.5亿欧元",
+      "onboard_time": 1666781303,
+      "rank": 15,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 256339,
@@ -20280,6 +20304,14 @@
       "word": "才知道猫讨厌狗的原因",
       "onboard_time": 1666599562,
       "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241238,
+      "num": 241238,
+      "word": "再给狗子买一个吧",
+      "onboard_time": 1666777942,
+      "rank": 18,
       "category": "幽默"
     },
     {
@@ -22099,14 +22131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218704,
-      "num": 218704,
-      "word": "再给狗子买一个吧",
-      "onboard_time": 1666777942,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218699,
       "num": 17764,
       "word": "我也想要只会捂脚的狗子",
@@ -22161,6 +22185,14 @@
       "onboard_time": 1664895807,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217610,
+      "num": 217610,
+      "word": "研究称火星下面或藏着生命",
+      "onboard_time": 1666780163,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 217460,
@@ -22417,6 +22449,14 @@
       "onboard_time": 1665033142,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214508,
+      "num": 214508,
+      "word": "金晨行为不要上升罗娜",
+      "onboard_time": 1666782444,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 214493,
@@ -25953,6 +25993,14 @@
       "onboard_time": 1666495763,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174615,
+      "num": 107556,
+      "word": "宋茜新剧暗恋许魏洲八年",
+      "onboard_time": 1666780524,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 174567,
@@ -31403,6 +31451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121625,
+      "num": 112501,
+      "word": "西宁疫情防控工作新闻发布会",
+      "onboard_time": 1666779324,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121601,
       "num": 121601,
       "word": "王子异新剧演IT天才",
@@ -33315,6 +33371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105369,
+      "num": 105369,
+      "word": "谢谢平替侠的作业清单",
+      "onboard_time": 1666780584,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105341,
       "num": 92200,
       "word": "檀健次沸腾校园蓝色泼墨造型",
@@ -33971,6 +34035,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 99724,
+      "num": 99724,
+      "word": "三部门联合开展艺考培训专项治理",
+      "onboard_time": 1666778004,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 99676,
       "num": 99676,
       "word": "5岁男童玩魔方1年后创世界纪录",
@@ -34091,14 +34163,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 99168,
-      "num": 99168,
-      "word": "三部门联合开展艺考培训专项治理",
-      "onboard_time": 1666778004,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 99143,
       "num": 99143,
       "word": "山东男篮战胜辽宁男篮",
@@ -34177,14 +34241,6 @@
       "onboard_time": 1665804864,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 98492,
-      "num": 98492,
-      "word": "宋茜新剧暗恋许魏洲八年",
-      "onboard_time": 1666780524,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 98444,
@@ -34569,14 +34625,6 @@
       "onboard_time": 1666274667,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94641,
-      "num": 94641,
-      "word": "研究称火星下面或藏着生命",
-      "onboard_time": 1666780163,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 94490,
@@ -35009,14 +35057,6 @@
       "onboard_time": 1666492103,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 90412,
-      "num": 90412,
-      "word": "西宁疫情防控工作新闻发布会",
-      "onboard_time": 1666779324,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90345,
@@ -36699,14 +36739,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 76386,
-      "num": 76386,
-      "word": "谢谢平替侠的作业清单",
-      "onboard_time": 1666780584,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 76385,
       "num": 87855,
       "word": "百度地图全景变样了",
@@ -36875,6 +36907,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 75162,
+      "num": 75162,
+      "word": "83岁伯伯坐公交给侄女送农产品",
+      "onboard_time": 1666782923,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75021,
       "num": 75021,
       "word": "有你们真是老板的福气",
@@ -36977,6 +37017,14 @@
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 74236,
+      "num": 74236,
+      "word": "大学生隔4个月返校宿舍长出辣椒",
+      "onboard_time": 1666781243,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74141,
@@ -38089,6 +38137,14 @@
       "onboard_time": 1666173625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63501,
+      "num": 63501,
+      "word": "详解iPadOS16正式版功能",
+      "onboard_time": 1666783163,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 63374,
@@ -40627,6 +40683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21366,
+      "num": 220413,
+      "word": "00后双胞胎兄弟实现军旅梦",
+      "onboard_time": 1666782023,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21295,
       "num": 21295,
       "word": "极品飞车不羁",
@@ -40817,6 +40881,14 @@
       "onboard_time": 1666039870,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14929,
+      "num": 399947,
+      "word": "强国之路正扬帆",
+      "onboard_time": 1666782504,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 14858,
