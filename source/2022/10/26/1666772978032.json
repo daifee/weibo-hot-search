@@ -1,0 +1,410 @@
+{
+  "runTime": 1666772978032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1756230,
+        "num": 1756230,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 556527,
+        "num": 556527,
+        "word": "23岁女子敷美白面膜肾脏中毒",
+        "onboard_time": 1666769186,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33104,
+        "num": 535080,
+        "word": "二十大报告双语热词",
+        "onboard_time": 1666742063,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 578261,
+        "num": 534487,
+        "word": "全球最脏的人被迫洗澡后去世",
+        "onboard_time": 1666750943,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528366,
+        "num": 528366,
+        "word": "小说里走出来的贵公子",
+        "onboard_time": 1666765705,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479355,
+        "num": 479355,
+        "word": "律师谈男子中奖2.19亿不告诉老婆",
+        "onboard_time": 1666770086,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437407,
+        "num": 437407,
+        "word": "一病例不顾弹窗绕道进京被立案调查",
+        "onboard_time": 1666770324,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398945,
+        "num": 398945,
+        "word": "王嘉尔疑似出席S12决赛",
+        "onboard_time": 1666755505,
+        "rank": 7,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 353652,
+        "num": 353652,
+        "word": "马龙称没说退役就一直走",
+        "onboard_time": 1666768646,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329071,
+        "num": 329071,
+        "word": "男子爬山遇一洞口走进仿若仙境一般",
+        "onboard_time": 1666768525,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 317888,
+        "num": 317888,
+        "word": "密室大逃脱0713体验版定档",
+        "onboard_time": 1666772905,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305722,
+        "num": 305722,
+        "word": "最高人民检察院依法对田惠宇决定逮捕",
+        "onboard_time": 1666768404,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282832,
+        "num": 282832,
+        "word": "他没有心跳却能像正常人一样生活",
+        "onboard_time": 1666749623,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280640,
+        "num": 280640,
+        "word": "颖儿回应千山暮雪时发胖",
+        "onboard_time": 1666757552,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7783,
+        "num": 279164,
+        "word": "零添加人生真的存在吗",
+        "onboard_time": 1666771224,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278518,
+        "num": 278518,
+        "word": "张艺兴禁止已读不回",
+        "onboard_time": 1666760486,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276557,
+        "num": 276557,
+        "word": "女子鼻子长疙瘩以为黑头竟是癌症",
+        "onboard_time": 1666753043,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245343,
+        "num": 245343,
+        "word": "吴磊赵露思星汉灿烂NetflixTW周榜第一",
+        "onboard_time": 1666768223,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234148,
+        "num": 234148,
+        "word": "广州海关查获新型毒品听话水",
+        "onboard_time": 1666770145,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216250,
+        "num": 216250,
+        "word": "女子抬头猛然发现老人倒悬窗外",
+        "onboard_time": 1666759167,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365485,
+        "num": 209964,
+        "word": "西宁防疫",
+        "onboard_time": 1666763544,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179022,
+        "num": 179022,
+        "word": "苹果回应Mac电脑会否推出触摸屏",
+        "onboard_time": 1666766185,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165464,
+        "num": 165464,
+        "word": "两千游客因疫情在船上隔离",
+        "onboard_time": 1666742724,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340531,
+        "num": 160575,
+        "word": "富士康辟谣",
+        "onboard_time": 1666764564,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155244,
+        "num": 155244,
+        "word": "父母玩手机10个月宝宝两边刷存在感",
+        "onboard_time": 1666751843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144405,
+        "num": 144405,
+        "word": "马龙说不确定巴黎奥运能看到自己",
+        "onboard_time": 1666761565,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142193,
+        "num": 142193,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1666755685,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136386,
+        "num": 136386,
+        "word": "虞书欣今日份舞台",
+        "onboard_time": 1666770685,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136346,
+        "num": 136346,
+        "word": "新郎娶到相恋5年的姑娘哭花脸",
+        "onboard_time": 1666772123,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135987,
+        "num": 135987,
+        "word": "翻篇是一种很重要的能力",
+        "onboard_time": 1666761984,
+        "rank": 29,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 134378,
+        "num": 134378,
+        "word": "德总统访乌躲入防空洞一个半小时",
+        "onboard_time": 1666758391,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124851,
+        "num": 124851,
+        "word": "今年最被低估的一部青春剧",
+        "onboard_time": 1666763424,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121077,
+        "num": 121077,
+        "word": "高薪酬的隐私计算岗是做啥的",
+        "onboard_time": 1666770984,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118022,
+        "num": 118022,
+        "word": "受伤猛禽降落幼儿园被救助",
+        "onboard_time": 1666769364,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112658,
+        "num": 112658,
+        "word": "电动车屋内充电2分钟连爆15次",
+        "onboard_time": 1666757547,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109843,
+        "num": 109843,
+        "word": "狗狗的喜恶真的很明显",
+        "onboard_time": 1666760907,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 107420,
+        "num": 107420,
+        "word": "不吃早饭或晚饭哪个对身体影响更大",
+        "onboard_time": 1666758989,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106250,
+        "num": 106250,
+        "word": "别以为一直坐着腿就休息了",
+        "onboard_time": 1666762164,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104647,
+        "num": 104647,
+        "word": "哈利波特",
+        "onboard_time": 1666755023,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99553,
+        "num": 99553,
+        "word": "在妈妈身边我就不是流浪猫",
+        "onboard_time": 1666771646,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97478,
+        "num": 97478,
+        "word": "台积电发内部信鼓励员工休假",
+        "onboard_time": 1666757188,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 94538,
+        "num": 94538,
+        "word": "女子用柚子皮自制精美茶罐",
+        "onboard_time": 1666763724,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85985,
+        "num": 85985,
+        "word": "法证先锋5今晚开播",
+        "onboard_time": 1666755391,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85235,
+        "num": 85235,
+        "word": "汤普森被驱逐",
+        "onboard_time": 1666756645,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83646,
+        "num": 83646,
+        "word": "Angelababy嘉人十一月刊封面",
+        "onboard_time": 1666762823,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83597,
+        "num": 83597,
+        "word": "俄罗斯已通知美国即将举行年度军演",
+        "onboard_time": 1666748664,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 82796,
+        "num": 82796,
+        "word": "iPhone15Pro或配8G运存",
+        "onboard_time": 1666750404,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 74942,
+        "num": 74942,
+        "word": "林徽因大概会爱上这座院子",
+        "onboard_time": 1666754964,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69528,
+        "num": 69528,
+        "word": "查理苏",
+        "onboard_time": 1666760189,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68631,
+        "num": 68631,
+        "word": "他从火光中走来",
+        "onboard_time": 1666756525,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}
