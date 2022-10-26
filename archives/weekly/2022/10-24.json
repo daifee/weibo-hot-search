@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666772978032,
+  "endTime": 1666773947724,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 790124,
+      "num": 570140,
+      "word": "密室大逃脱0713体验版定档",
+      "onboard_time": 1666772905,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779249,
       "num": 397094,
       "word": "张艺兴禁止已读不回",
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613987,
+      "num": 613987,
+      "word": "23岁女子敷美白面膜肾脏中毒",
+      "onboard_time": 1666769186,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608693,
       "num": 608693,
       "word": "马龙说不确定巴黎奥运能看到自己",
@@ -779,14 +795,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 556527,
-      "num": 556527,
-      "word": "23岁女子敷美白面膜肾脏中毒",
-      "onboard_time": 1666769186,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545102,
       "num": 84743,
       "word": "女孩回应辞职带84岁爷爷游中国",
@@ -801,6 +809,14 @@
       "onboard_time": 1666579824,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 540151,
+      "num": 540151,
+      "word": "律师谈男子中奖2.19亿不告诉老婆",
+      "onboard_time": 1666770086,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536600,
@@ -849,6 +865,14 @@
       "onboard_time": 1666671745,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516259,
+      "num": 516259,
+      "word": "一病例不顾弹窗绕道进京被立案调查",
+      "onboard_time": 1666770324,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515990,
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479355,
-      "num": 479355,
-      "word": "律师谈男子中奖2.19亿不告诉老婆",
-      "onboard_time": 1666770086,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473609,
       "num": 473609,
       "word": "苍兰诀角色号更新微博",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1666661005,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 437407,
-      "num": 437407,
-      "word": "一病例不顾弹窗绕道进京被立案调查",
-      "onboard_time": 1666770324,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436999,
@@ -1419,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 372112,
+      "num": 372112,
+      "word": "马龙称没说退役就一直走",
+      "onboard_time": 1666768646,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370401,
       "num": 30076,
       "word": "芳心荡漾定档1026",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1666581924,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 353652,
-      "num": 353652,
-      "word": "马龙称没说退役就一直走",
-      "onboard_time": 1666768646,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 351248,
@@ -1699,19 +1707,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317888,
-      "num": 317888,
-      "word": "密室大逃脱0713体验版定档",
-      "onboard_time": 1666772905,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317769,
       "num": 299773,
       "word": "伸冤56年老人汪康夫因病去世",
       "onboard_time": 1666680685,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317327,
+      "num": 317327,
+      "word": "新郎娶到相恋5年的姑娘哭花脸",
+      "onboard_time": 1666772123,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2035,6 +2043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265706,
+      "num": 265706,
+      "word": "广州海关查获新型毒品听话水",
+      "onboard_time": 1666770145,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264348,
       "num": 60590,
       "word": "蓝盈莹扮演黄文秀上演隔空对话",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1666766185,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 234148,
-      "num": 234148,
-      "word": "广州海关查获新型毒品听话水",
-      "onboard_time": 1666770145,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232840,
@@ -2851,12 +2859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175878,
+      "num": 175878,
+      "word": "法证先锋5小丑案又双叒叕升级了",
+      "onboard_time": 1666773025,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174814,
       "num": 29698,
       "word": "EDG遗憾",
       "onboard_time": 1666581382,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174776,
+      "num": 174776,
+      "word": "高薪酬的隐私计算岗是做啥的",
+      "onboard_time": 1666770984,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174076,
@@ -3083,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146520,
+      "num": 146520,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1666773563,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145779,
       "num": 82383,
       "word": "牛排还能炒着吃",
@@ -3241,14 +3273,6 @@
       "onboard_time": 1666770685,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136346,
-      "num": 136346,
-      "word": "新郎娶到相恋5年的姑娘哭花脸",
-      "onboard_time": 1666772123,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134436,
@@ -3427,14 +3451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121077,
-      "num": 121077,
-      "word": "高薪酬的隐私计算岗是做啥的",
-      "onboard_time": 1666770984,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119805,
       "num": 12855,
       "word": "姐姐眼里弟弟的形象",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1666603942,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109579,
+      "num": 109579,
+      "word": "在妈妈身边我就不是流浪猫",
+      "onboard_time": 1666771646,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 108300,
@@ -3721,14 +3745,6 @@
       "onboard_time": 1666617565,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 99553,
-      "num": 99553,
-      "word": "在妈妈身边我就不是流浪猫",
-      "onboard_time": 1666771646,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 99465,
@@ -3971,6 +3987,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 84186,
+      "num": 84186,
+      "word": "女孩吃假减肥药致精神分裂",
+      "onboard_time": 1666773806,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83995,
       "num": 11193,
       "word": "层林尽染有多美",
@@ -4009,6 +4033,14 @@
       "onboard_time": 1666616785,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 82511,
+      "num": 82511,
+      "word": "北二外原党委书记顾晓园接受审查调查",
+      "onboard_time": 1666773563,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82340,
