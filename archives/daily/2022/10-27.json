@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666819328451,
+  "endTime": 1666820401763,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -371,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53014,
+      "num": 17570,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49941,
       "num": 49941,
       "word": "男子进店求助食物老板二话没说就给",
       "onboard_time": 1666783705,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 46749,
-      "num": 16257,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46260,
@@ -443,16 +443,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14567,
-      "num": 14567,
+      "raw_hot": 18635,
+      "num": 18635,
       "word": "奶奶为孙女打造三轮车公主房",
       "onboard_time": 1666817110,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14327,
-      "num": 14327,
+      "raw_hot": 15040,
+      "num": 15040,
       "word": "囤货使人快乐",
       "onboard_time": 1666817529,
       "rank": 25,
