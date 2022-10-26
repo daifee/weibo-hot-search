@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666779958814,
+  "endTime": 1666780988658,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1315,6 +1315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 406340,
+      "num": 406340,
+      "word": "卡梅隆批评漫威DC电影",
+      "onboard_time": 1666777344,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403183,
       "num": 198931,
       "word": "95后硕士基层工作第一天说比读博难",
@@ -1451,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371038,
+      "num": 286699,
+      "word": "郑州多区调整疫情防控政策",
+      "onboard_time": 1666778004,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370401,
       "num": 30076,
       "word": "芳心荡漾定档1026",
@@ -1491,6 +1507,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 365904,
+      "num": 365904,
+      "word": "剩米饭竟然还能做出甜品",
+      "onboard_time": 1666776802,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365862,
       "num": 114138,
       "word": "王栎鑫直播白到发光",
@@ -1523,6 +1547,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 361722,
+      "num": 178445,
+      "word": "女子晒连续286天晚10点睡觉变化",
+      "onboard_time": 1666778304,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359660,
       "num": 445449,
       "word": "听会聊天的人说话是什么体验",
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 357415,
-      "num": 275051,
+      "num": 286676,
       "word": "女孩吃假减肥药致精神分裂",
       "onboard_time": 1666773806,
       "rank": 43,
@@ -1585,14 +1617,6 @@
       "onboard_time": 1666678616,
       "rank": 34,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 350509,
-      "num": 350509,
-      "word": "剩米饭竟然还能做出甜品",
-      "onboard_time": 1666776802,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 349129,
@@ -1665,14 +1689,6 @@
       "onboard_time": 1666573581,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 340075,
-      "num": 273712,
-      "word": "卡梅隆批评漫威DC电影",
-      "onboard_time": 1666777344,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 338345,
@@ -1987,20 +2003,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285704,
+      "num": 285704,
+      "word": "再见爱人2定档",
+      "onboard_time": 1666777824,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281413,
       "num": 567923,
       "word": "二十大报告全文",
       "onboard_time": 1666706845,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 281367,
-      "num": 281367,
-      "word": "再见爱人2定档",
-      "onboard_time": 1666777824,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 281339,
@@ -2123,12 +2139,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 266722,
-      "num": 181036,
-      "word": "郑州多区调整疫情防控政策",
-      "onboard_time": 1666778004,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 268735,
+      "num": 268735,
+      "word": "苍兰诀全员超话重聚会",
+      "onboard_time": 1666778605,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 265985,
@@ -2201,14 +2217,6 @@
       "onboard_time": 1666710748,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 259157,
-      "num": 178445,
-      "word": "女子晒连续286天晚10点睡觉变化",
-      "onboard_time": 1666778304,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258727,
@@ -2491,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225534,
-      "num": 225534,
-      "word": "苍兰诀全员超话重聚会",
-      "onboard_time": 1666778605,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225389,
       "num": 202849,
       "word": "12306又出实用新功能",
@@ -2561,6 +2561,14 @@
       "onboard_time": 1666763783,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218704,
+      "num": 218704,
+      "word": "再给狗子买一个吧",
+      "onboard_time": 1666777942,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 215726,
@@ -2881,14 +2889,6 @@
       "onboard_time": 1666757907,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 181198,
-      "num": 181198,
-      "word": "再给狗子买一个吧",
-      "onboard_time": 1666777942,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 181189,
@@ -3723,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109790,
+      "num": 109790,
+      "word": "2023国考首日报名人数超17万",
+      "onboard_time": 1666775364,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 109762,
       "num": 55804,
       "word": "熊猫宝宝为了钻进窝有多拼",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1666691785,
       "rank": 39,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 108271,
-      "num": 108271,
-      "word": "2023国考首日报名人数超17万",
-      "onboard_time": 1666775364,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 108078,
@@ -3947,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98492,
+      "num": 98492,
+      "word": "宋茜新剧暗恋许魏洲八年",
+      "onboard_time": 1666780524,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97843,
       "num": 175925,
       "word": "20岁小伙欲轻生网友报警救下1命",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1666687103,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94641,
+      "num": 94641,
+      "word": "研究称火星下面或藏着生命",
+      "onboard_time": 1666780163,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 93892,
@@ -4331,12 +4347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76386,
+      "num": 76386,
+      "word": "谢谢平替侠的作业清单",
+      "onboard_time": 1666780584,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 76102,
       "num": 76102,
       "word": "志愿军真实战斗场景",
       "onboard_time": 1666673006,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 75997,
+      "num": 274846,
+      "word": "乡村两元理发店22年不涨价",
+      "onboard_time": 1666778423,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75555,
@@ -4360,6 +4392,14 @@
       "word": "女生选华为小折叠还是iPhone14",
       "onboard_time": 1666769006,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73080,
+      "num": 73080,
+      "word": "研究揭示为何有些孩子不午睡",
+      "onboard_time": 1666779742,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4433,14 +4473,6 @@
       "onboard_time": 1666747644,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 69092,
-      "num": 69092,
-      "word": "研究揭示为何有些孩子不午睡",
-      "onboard_time": 1666779742,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68829,
@@ -4728,14 +4760,6 @@
       "word": "你的秋裤啥时候上线",
       "onboard_time": 1666603942,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50885,
-      "num": 246422,
-      "word": "乡村两元理发店22年不涨价",
-      "onboard_time": 1666778423,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
