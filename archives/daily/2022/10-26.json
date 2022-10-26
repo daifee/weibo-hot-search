@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666784205020,
+  "endTime": 1666788867921,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702300,
+      "num": 213287,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1666784363,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 701260,
+      "num": 285994,
+      "word": "福州暂停一切聚集性活动",
+      "onboard_time": 1666784124,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693999,
       "num": 348229,
       "word": "哺乳期女子偷点奶茶被送餐老公抓包",
@@ -193,6 +209,14 @@
       "onboard_time": 1666772123,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629925,
+      "num": 279678,
+      "word": "小说里的女将军有脸了",
+      "onboard_time": 1666787424,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 621728,
@@ -475,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394100,
+      "num": 394100,
+      "word": "男子进店求助食物老板二话没说就给",
+      "onboard_time": 1666783705,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 392854,
       "num": 125630,
       "word": "苍兰诀角色号更新微博",
@@ -489,6 +521,14 @@
       "onboard_time": 1666751484,
       "rank": 9,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 381968,
+      "num": 212730,
+      "word": "男子意外失忆与家人失联23年",
+      "onboard_time": 1666786226,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380667,
@@ -739,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261185,
+      "num": 261185,
+      "word": "心动的信号",
+      "onboard_time": 1666783285,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261155,
       "num": 261155,
       "word": "电影重启2定档",
@@ -819,11 +867,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 231342,
+      "num": 231342,
+      "word": "公猫和同伴吵架被气翻倒在地",
+      "onboard_time": 1666785683,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226555,
       "num": 226555,
       "word": "男子16岁因亲人一句埋怨离家16年",
       "onboard_time": 1666741882,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223101,
+      "num": 212233,
+      "word": "大学生隔4个月返校宿舍长出辣椒",
+      "onboard_time": 1666781243,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1666746923,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213369,
+      "num": 213369,
+      "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
+      "onboard_time": 1666784545,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210734,
@@ -931,14 +1003,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 179770,
-      "num": 179770,
-      "word": "心动的信号",
-      "onboard_time": 1666783285,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178625,
       "num": 178625,
       "word": "狗狗的喜恶真的很明显",
@@ -963,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173787,
+      "num": 173787,
+      "word": "西宁回应群众买菜难等问题",
+      "onboard_time": 1666787003,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172617,
       "num": 172617,
       "word": "心动的信号第五季友情",
@@ -979,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168246,
+      "num": 168246,
+      "word": "越喜欢一个人越想要远离",
+      "onboard_time": 1666787963,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163928,
+      "num": 163928,
+      "word": "张杰值得更好的发行一周年",
+      "onboard_time": 1666787844,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 157157,
@@ -1075,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133470,
+      "num": 133470,
+      "word": "第五人格",
+      "onboard_time": 1666784843,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131234,
       "num": 131234,
       "word": "林高远参加亚洲杯",
@@ -1131,20 +1227,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 122633,
-      "num": 122633,
-      "word": "大学生隔4个月返校宿舍长出辣椒",
-      "onboard_time": 1666781243,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121601,
       "num": 121601,
       "word": "王子异新剧演IT天才",
       "onboard_time": 1666776085,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118681,
+      "num": 118681,
+      "word": "租房记住这24点就够了",
+      "onboard_time": 1666785383,
+      "rank": 29,
+      "category": "其它"
     },
     {
       "raw_hot": 118022,
@@ -1179,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111232,
+      "num": 111232,
+      "word": "gidle新歌获得一位",
+      "onboard_time": 1666783883,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109790,
       "num": 109790,
       "word": "2023国考首日报名人数超17万",
@@ -1193,6 +1297,14 @@
       "onboard_time": 1666771646,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107275,
+      "num": 107275,
+      "word": "详解iPadOS16正式版功能",
+      "onboard_time": 1666783163,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 105811,
@@ -1251,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92245,
+      "num": 212492,
+      "word": "95后女教师获世界技能大赛金牌",
+      "onboard_time": 1666785683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
@@ -1289,14 +1409,6 @@
       "onboard_time": 1666747465,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84419,
-      "num": 84419,
-      "word": "详解iPadOS16正式版功能",
-      "onboard_time": 1666783163,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 84201,
@@ -1339,14 +1451,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 81346,
-      "num": 80980,
-      "word": "gidle新歌获得一位",
-      "onboard_time": 1666783883,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 80607,
       "num": 99991,
       "word": "世界杯将是莫德里奇国家队谢幕战",
@@ -1371,12 +1475,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 78920,
-      "num": 78920,
-      "word": "男子进店求助食物老板二话没说就给",
-      "onboard_time": 1666783705,
-      "rank": 42,
-      "category": "社会正能量"
+      "raw_hot": 78946,
+      "num": 78946,
+      "word": "蔡茂强肖建强被批准为烈士",
+      "onboard_time": 1666787844,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78462,
@@ -1467,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71850,
+      "num": 71850,
+      "word": "宁波男篮vs广东男篮",
+      "onboard_time": 1666786525,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71657,
       "num": 71657,
       "word": "香山红叶把秋日氛围拉满了",
@@ -1481,6 +1593,22 @@
       "onboard_time": 1666747644,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 69424,
+      "num": 69424,
+      "word": "C盘一下子就不红了",
+      "onboard_time": 1666788804,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 68236,
+      "num": 68236,
+      "word": "算是把各大品牌拿捏了",
+      "onboard_time": 1666785445,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 67261,
@@ -1569,14 +1697,6 @@
       "onboard_time": 1666703667,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 54346,
-      "num": 54346,
-      "word": "福州暂停一切聚集性活动",
-      "onboard_time": 1666784124,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54146,
