@@ -1,0 +1,410 @@
+{
+  "runTime": 1666776231601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1692056,
+        "num": 1692056,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 634790,
+        "num": 634790,
+        "word": "律师谈男子中奖2.19亿不告诉老婆",
+        "onboard_time": 1666770086,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26529,
+        "num": 469462,
+        "word": "二十大报告双语热词",
+        "onboard_time": 1666742063,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 664821,
+        "num": 460995,
+        "word": "密室大逃脱0713体验版定档",
+        "onboard_time": 1666772905,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440098,
+        "num": 440098,
+        "word": "小说里走出来的贵公子",
+        "onboard_time": 1666765705,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439901,
+        "num": 439901,
+        "word": "一病例不顾弹窗绕道进京被立案调查",
+        "onboard_time": 1666770324,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423481,
+        "num": 423481,
+        "word": "23岁女子敷美白面膜肾脏中毒",
+        "onboard_time": 1666769186,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305818,
+        "num": 305818,
+        "word": "高薪酬的隐私计算岗是做啥的",
+        "onboard_time": 1666770984,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268364,
+        "num": 268364,
+        "word": "马龙称没说退役就一直走",
+        "onboard_time": 1666768646,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234692,
+        "num": 234692,
+        "word": "法证先锋5小丑案又双叒叕升级了",
+        "onboard_time": 1666773025,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417274,
+        "num": 233145,
+        "word": "全球最脏的人被迫洗澡后去世",
+        "onboard_time": 1666750943,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632714,
+        "num": 232540,
+        "word": "新郎娶到相恋5年的姑娘哭花脸",
+        "onboard_time": 1666772123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473084,
+        "num": 229100,
+        "word": "14斤猫压塌简易书架主人崩溃",
+        "onboard_time": 1666774044,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316885,
+        "num": 228484,
+        "word": "北二外原党委书记顾晓园接受审查调查",
+        "onboard_time": 1666773563,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12599,
+        "num": 225291,
+        "word": "女生必备的小折叠手机",
+        "onboard_time": 1666774823,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308373,
+        "num": 224570,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1666773563,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265140,
+        "num": 221879,
+        "word": "女孩吃假减肥药致精神分裂",
+        "onboard_time": 1666773806,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221426,
+        "num": 221426,
+        "word": "我为LPL扛大旗",
+        "onboard_time": 1666775244,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221091,
+        "num": 221091,
+        "word": "广州海关查获新型毒品听话水",
+        "onboard_time": 1666770145,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195757,
+        "num": 195757,
+        "word": "王嘉尔疑似出席S12决赛",
+        "onboard_time": 1666755505,
+        "rank": 19,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 263897,
+        "num": 195202,
+        "word": "西宁防疫",
+        "onboard_time": 1666763544,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190662,
+        "num": 190662,
+        "word": "男子爬山遇一洞口走进仿若仙境一般",
+        "onboard_time": 1666768525,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 172199,
+        "num": 172199,
+        "word": "女子鼻子长疙瘩以为黑头竟是癌症",
+        "onboard_time": 1666753043,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217973,
+        "num": 169707,
+        "word": "富士康辟谣",
+        "onboard_time": 1666764564,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165000,
+        "num": 165000,
+        "word": "张艺兴禁止已读不回",
+        "onboard_time": 1666760486,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144056,
+        "num": 144056,
+        "word": "女子抬头猛然发现老人倒悬窗外",
+        "onboard_time": 1666759167,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133751,
+        "num": 133751,
+        "word": "翻篇是一种很重要的能力",
+        "onboard_time": 1666761984,
+        "rank": 26,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 132990,
+        "word": "吴磊赵露思星汉灿烂NetflixTW周榜第一",
+        "onboard_time": 1666768223,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124460,
+        "num": 124460,
+        "word": "成毅莲花楼杀青视频",
+        "onboard_time": 1666775725,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114532,
+        "num": 114532,
+        "word": "8岁女孩拿出全部积蓄为姥爷治病",
+        "onboard_time": 1666774644,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112096,
+        "num": 112096,
+        "word": "最高人民检察院依法对田惠宇决定逮捕",
+        "onboard_time": 1666768404,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110917,
+        "num": 110917,
+        "word": "受伤猛禽降落幼儿园被救助",
+        "onboard_time": 1666769364,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107363,
+        "num": 107363,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1666755685,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106909,
+        "num": 106909,
+        "word": "哈利波特",
+        "onboard_time": 1666755023,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103163,
+        "num": 103163,
+        "word": "在妈妈身边我就不是流浪猫",
+        "onboard_time": 1666771646,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102993,
+        "num": 102993,
+        "word": "重庆拟规定不得遗弃饲养犬只",
+        "onboard_time": 1666774585,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101671,
+        "num": 101671,
+        "word": "别以为一直坐着腿就休息了",
+        "onboard_time": 1666762164,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101105,
+        "num": 101105,
+        "word": "苹果回应Mac电脑会否推出触摸屏",
+        "onboard_time": 1666766185,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98545,
+        "num": 98545,
+        "word": "虞书欣今日份舞台",
+        "onboard_time": 1666770685,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95290,
+        "num": 95290,
+        "word": "电动车屋内充电2分钟连爆15次",
+        "onboard_time": 1666757547,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95239,
+        "num": 95239,
+        "word": "德总统访乌躲入防空洞一个半小时",
+        "onboard_time": 1666758391,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 94295,
+        "num": 94295,
+        "word": "8岁男孩圆珠笔画螃蟹惟妙惟肖",
+        "onboard_time": 1666775904,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93659,
+        "num": 93659,
+        "word": "王子异新剧演IT天才",
+        "onboard_time": 1666776085,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93631,
+        "num": 93631,
+        "word": "永远会为落日晚霞心动",
+        "onboard_time": 1666775486,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93462,
+        "num": 93462,
+        "word": "父母玩手机10个月宝宝两边刷存在感",
+        "onboard_time": 1666751843,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91782,
+        "num": 91782,
+        "word": "他没有心跳却能像正常人一样生活",
+        "onboard_time": 1666749623,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91723,
+        "num": 91723,
+        "word": "不吃早饭或晚饭哪个对身体影响更大",
+        "onboard_time": 1666758989,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86956,
+        "num": 86956,
+        "word": "2023国考首日报名人数超17万",
+        "onboard_time": 1666775364,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 83762,
+        "num": 83762,
+        "word": "马龙说不确定巴黎奥运能看到自己",
+        "onboard_time": 1666761565,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74147,
+        "num": 74147,
+        "word": "今年最被低估的一部青春剧",
+        "onboard_time": 1666763424,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}
