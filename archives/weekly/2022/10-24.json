@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666816882954,
+  "endTime": 1666819328451,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -5363,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46749,
+      "num": 16257,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45401,
       "num": 45401,
       "word": "本菲卡4比3尤文图斯",
@@ -5571,14 +5579,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 19017,
-      "num": 16107,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18597,
       "num": 14794,
       "word": "乘客突发癫痫车站员工合力救援",
@@ -5627,6 +5627,30 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 14567,
+      "num": 14567,
+      "word": "奶奶为孙女打造三轮车公主房",
+      "onboard_time": 1666817110,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14327,
+      "num": 14327,
+      "word": "囤货使人快乐",
+      "onboard_time": 1666817529,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13864,
+      "num": 13864,
+      "word": "这是宠物课代表吧",
+      "onboard_time": 1666816630,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13577,
       "num": 6670,
       "word": "一代人有一代人的八点回忆",
@@ -5673,14 +5697,6 @@
       "onboard_time": 1666774823,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10590,
-      "num": 10590,
-      "word": "这是宠物课代表吧",
-      "onboard_time": 1666816630,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 10002,
