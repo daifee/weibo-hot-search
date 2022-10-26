@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666820401763,
+  "endTime": 1666823184070,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -251,6 +251,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102640,
+      "num": 102640,
+      "word": "奶奶为孙女打造三轮车公主房",
+      "onboard_time": 1666817110,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95419,
+      "num": 58291,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "郑州多区调整疫情防控政策",
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53014,
-      "num": 17570,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49941,
       "num": 49941,
       "word": "男子进店求助食物老板二话没说就给",
@@ -435,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31983,
+      "num": 31983,
+      "word": "北京西城新增感染者4例",
+      "onboard_time": 1666822152,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19788,
       "num": 19788,
       "word": "第五人格",
@@ -443,28 +459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18635,
-      "num": 18635,
-      "word": "奶奶为孙女打造三轮车公主房",
-      "onboard_time": 1666817110,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15040,
-      "num": 15040,
-      "word": "囤货使人快乐",
-      "onboard_time": 1666817529,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 13864,
-      "num": 13864,
+      "raw_hot": 18288,
+      "num": 18288,
       "word": "这是宠物课代表吧",
       "onboard_time": 1666816630,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16639,
+      "num": 16639,
+      "word": "囤货使人快乐",
+      "onboard_time": 1666817529,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 10640,
