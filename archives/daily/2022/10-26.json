@@ -1,7 +1,15 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666750318727,
+  "endTime": 1666752774663,
   "band_list": [
+    {
+      "raw_hot": 2112756,
+      "num": 215212,
+      "word": "全球最脏的人被迫洗澡后去世",
+      "onboard_time": 1666750943,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1130564,
       "num": 231918,
@@ -17,6 +25,14 @@
       "onboard_time": 1666748664,
       "rank": 3,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1043068,
+      "num": 1043068,
+      "word": "他没有心跳却能像正常人一样生活",
+      "onboard_time": 1666749623,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918719,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 725523,
-      "num": 165223,
+      "num": 186822,
       "word": "兰州疫情防控",
       "onboard_time": 1666711105,
       "rank": 23,
@@ -83,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567490,
+      "num": 231504,
+      "word": "易烊千玺奇迹笨小孩定妆照花絮",
+      "onboard_time": 1666748004,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 564223,
       "num": 234064,
       "word": "两个人的小森林第二部在筹划中",
@@ -91,12 +115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535692,
+      "num": 214522,
+      "word": "iPhone15Pro或配8G运存",
+      "onboard_time": 1666750404,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 519572,
       "num": 230131,
       "word": "男子中2.19亿不告诉老婆孩子怕其膨胀",
       "onboard_time": 1666707446,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509360,
+      "num": 229143,
+      "word": "他从火光中走来男演员身高",
+      "onboard_time": 1666748486,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496588,
@@ -123,14 +163,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 432916,
-      "num": 231504,
-      "word": "易烊千玺奇迹笨小孩定妆照花絮",
-      "onboard_time": 1666748004,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 411389,
       "num": 283496,
       "word": "6岁女孩上网课疯狂举手求答题",
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 403981,
-      "num": 148855,
+      "num": 172303,
       "word": "富士康",
       "onboard_time": 1666701023,
       "rank": 26,
@@ -153,6 +185,22 @@
       "onboard_time": 1666711228,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384820,
+      "num": 213897,
+      "word": "北京环球影城主题公园暂时关闭",
+      "onboard_time": 1666751484,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 384208,
+      "num": 213126,
+      "word": "快乐回来啦",
+      "onboard_time": 1666752445,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 380667,
@@ -185,14 +233,6 @@
       "onboard_time": 1666693463,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319192,
-      "num": 229143,
-      "word": "他从火光中走来男演员身高",
-      "onboard_time": 1666748486,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310592,
@@ -235,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274092,
+      "num": 212595,
+      "word": "丢失6年狗子找回家蹲门口等主人",
+      "onboard_time": 1666749505,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260914,
+      "num": 211533,
+      "word": "西宁疫情防控",
+      "onboard_time": 1666752264,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259212,
       "num": 123539,
       "word": "考研报名今日22时结束",
@@ -249,6 +305,14 @@
       "onboard_time": 1666695384,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244550,
+      "num": 212062,
+      "word": "年轻人喜欢用什么方式看小说",
+      "onboard_time": 1666750524,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 226555,
@@ -283,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 184493,
+      "num": 184493,
+      "word": "苏纳克与拜登通电话",
+      "onboard_time": 1666748664,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 175214,
       "num": 105497,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
@@ -291,28 +363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174350,
+      "num": 174350,
+      "word": "N刷苍兰诀的理由",
+      "onboard_time": 1666752563,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167656,
-      "num": 167656,
-      "word": "他没有心跳却能像正常人一样生活",
-      "onboard_time": 1666749623,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154432,
-      "num": 154432,
-      "word": "苏纳克与拜登通电话",
-      "onboard_time": 1666748664,
-      "rank": 28,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 153289,
@@ -331,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145774,
+      "num": 145774,
+      "word": "女生举自由拥抱牌被朋友过肩摔",
+      "onboard_time": 1666749203,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138786,
       "num": 138786,
       "word": "被两个小朋友治愈到了",
@@ -345,6 +417,14 @@
       "onboard_time": 1666695144,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132277,
+      "num": 132277,
+      "word": "新款iPadPro及iPad10首销破发",
+      "onboard_time": 1666752264,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 130460,
@@ -368,6 +448,14 @@
       "word": "新乡",
       "onboard_time": 1666695625,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "父母玩手机10个月宝宝两边刷存在感",
+      "onboard_time": 1666751843,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -395,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112418,
-      "num": 112418,
-      "word": "丢失6年狗子找回家蹲门口等主人",
-      "onboard_time": 1666749505,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105811,
       "num": 105811,
       "word": "武汉全城拉响防空警报",
@@ -411,12 +491,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104471,
+      "num": 104471,
+      "word": "林高远参加亚洲杯",
+      "onboard_time": 1666752204,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99465,
+      "num": 99465,
+      "word": "内娱基建工程师王凯",
+      "onboard_time": 1666751304,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99365,
       "num": 84466,
       "word": "这就是天选古装bking吧",
       "onboard_time": 1666712363,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99258,
+      "num": 99258,
+      "word": "阜新一中介仨月售出158套房",
+      "onboard_time": 1666751064,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98022,
+      "num": 98022,
+      "word": "女子自学康复把失聪儿子送入大学",
+      "onboard_time": 1666750702,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 87025,
@@ -441,14 +553,6 @@
       "onboard_time": 1666689323,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85438,
-      "num": 85438,
-      "word": "女生举自由拥抱牌被朋友过肩摔",
-      "onboard_time": 1666749203,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85421,
@@ -783,6 +887,9 @@
     },
     {
       "word": "#二十大报告全文#"
+    },
+    {
+      "word": "#同心向党我来说#"
     }
   ]
 }

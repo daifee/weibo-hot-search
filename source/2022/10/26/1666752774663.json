@@ -1,0 +1,410 @@
+{
+  "runTime": 1666752774663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1043068,
+        "num": 1043068,
+        "word": "他没有心跳却能像正常人一样生活",
+        "onboard_time": 1666749623,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215530,
+        "num": 215530,
+        "word": "全校仅1名老师4名学生每周升国旗",
+        "onboard_time": 1666708348,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26935,
+        "num": 215347,
+        "word": "锚定中心任务开好局起好步",
+        "onboard_time": 1666711228,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2112756,
+        "num": 215212,
+        "word": "全球最脏的人被迫洗澡后去世",
+        "onboard_time": 1666750943,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916035,
+        "num": 214935,
+        "word": "俄罗斯已通知美国即将举行年度军演",
+        "onboard_time": 1666748664,
+        "rank": 4,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 538739,
+        "num": 214804,
+        "word": "哺乳期女子偷点奶茶被送餐老公抓包",
+        "onboard_time": 1666741522,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535692,
+        "num": 214522,
+        "word": "iPhone15Pro或配8G运存",
+        "onboard_time": 1666750404,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 471180,
+        "num": 214314,
+        "word": "两个人的小森林第二部在筹划中",
+        "onboard_time": 1666746805,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422174,
+        "num": 214264,
+        "word": "13岁男孩挤痘引发脑膜炎",
+        "onboard_time": 1666744827,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384820,
+        "num": 213897,
+        "word": "北京环球影城主题公园暂时关闭",
+        "onboard_time": 1666751484,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 967719,
+        "num": 213792,
+        "word": "两千游客因疫情在船上隔离",
+        "onboard_time": 1666742724,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567490,
+        "num": 213555,
+        "word": "易烊千玺奇迹笨小孩定妆照花絮",
+        "onboard_time": 1666748004,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509360,
+        "num": 213370,
+        "word": "他从火光中走来男演员身高",
+        "onboard_time": 1666748486,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384208,
+        "num": 213126,
+        "word": "快乐回来啦",
+        "onboard_time": 1666752445,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346133,
+        "num": 212982,
+        "word": "MAMA出演阵容",
+        "onboard_time": 1666746626,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290567,
+        "num": 212670,
+        "word": "男子每天1包烟4年2次心梗",
+        "onboard_time": 1666742724,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274092,
+        "num": 212595,
+        "word": "丢失6年狗子找回家蹲门口等主人",
+        "onboard_time": 1666749505,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257074,
+        "num": 212365,
+        "word": "男子中2.19亿不告诉老婆孩子怕其膨胀",
+        "onboard_time": 1666707446,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244550,
+        "num": 212062,
+        "word": "年轻人喜欢用什么方式看小说",
+        "onboard_time": 1666750524,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231959,
+        "num": 211970,
+        "word": "坂本龙一",
+        "onboard_time": 1666712185,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 562682,
+        "num": 211616,
+        "word": "郑州疫情防控",
+        "onboard_time": 1666709129,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260914,
+        "num": 211533,
+        "word": "西宁疫情防控",
+        "onboard_time": 1666752264,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211345,
+        "num": 211345,
+        "word": "贪吃狗牛杂店蹭吃一年主人贴纸禁止投喂",
+        "onboard_time": 1666742482,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203911,
+        "num": 203911,
+        "word": "汉阳疫情防控",
+        "onboard_time": 1666743987,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197550,
+        "num": 197550,
+        "word": "北京10月25日新增19例本土确诊",
+        "onboard_time": 1666747226,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188103,
+        "num": 188103,
+        "word": "两只狗用中文交流的原因",
+        "onboard_time": 1666743987,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196769,
+        "num": 186822,
+        "word": "兰州疫情防控",
+        "onboard_time": 1666711105,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184493,
+        "num": 184493,
+        "word": "苏纳克与拜登通电话",
+        "onboard_time": 1666748664,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180954,
+        "num": 180954,
+        "word": "10月25日新增本土无症状944例",
+        "onboard_time": 1666746923,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176611,
+        "num": 176611,
+        "word": "芳心荡漾今日开播",
+        "onboard_time": 1666746923,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174350,
+        "num": 174350,
+        "word": "N刷苍兰诀的理由",
+        "onboard_time": 1666752563,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172303,
+        "num": 172303,
+        "word": "富士康",
+        "onboard_time": 1666701023,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "男子16岁因亲人一句埋怨离家16年",
+        "onboard_time": 1666741882,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145774,
+        "num": 145774,
+        "word": "女生举自由拥抱牌被朋友过肩摔",
+        "onboard_time": 1666749203,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144270,
+        "num": 144270,
+        "word": "阿迪达斯终止与侃爷合作",
+        "onboard_time": 1666700844,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 132277,
+        "num": 132277,
+        "word": "新款iPadPro及iPad10首销破发",
+        "onboard_time": 1666752264,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124999,
+        "num": 124999,
+        "word": "外交部提醒中国公民近期暂勿前往利比亚",
+        "onboard_time": 1666732391,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119809,
+        "num": 119809,
+        "word": "父母玩手机10个月宝宝两边刷存在感",
+        "onboard_time": 1666751843,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112225,
+        "num": 112225,
+        "word": "删好友前需要告诉对方吗",
+        "onboard_time": 1666709607,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104471,
+        "num": 104471,
+        "word": "林高远参加亚洲杯",
+        "onboard_time": 1666752204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103167,
+        "num": 103167,
+        "word": "宣萱回应王宝钏挖野菜",
+        "onboard_time": 1666699344,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99465,
+        "num": 99465,
+        "word": "内娱基建工程师王凯",
+        "onboard_time": 1666751304,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99258,
+        "num": 99258,
+        "word": "阜新一中介仨月售出158套房",
+        "onboard_time": 1666751064,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98022,
+        "num": 98022,
+        "word": "女子自学康复把失聪儿子送入大学",
+        "onboard_time": 1666750702,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 96845,
+        "num": 96845,
+        "word": "6岁女孩上网课疯狂举手求答题",
+        "onboard_time": 1666729750,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96073,
+        "num": 96073,
+        "word": "14个月宝宝吃饭全家变气氛组",
+        "onboard_time": 1666729032,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91097,
+        "num": 91097,
+        "word": "苍兰诀角色号更新微博",
+        "onboard_time": 1666711228,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80481,
+        "num": 80481,
+        "word": "被两个小朋友治愈到了",
+        "onboard_time": 1666745726,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 75588,
+        "num": 75588,
+        "word": "被业内认可的原声台词",
+        "onboard_time": 1666735151,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71042,
+        "num": 71042,
+        "word": "浮图缘王鹤棣陈钰琪吻戏路透",
+        "onboard_time": 1666705885,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}

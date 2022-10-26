@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666750318727,
+  "endTime": 1666752774663,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2112756,
+      "num": 215212,
+      "word": "全球最脏的人被迫洗澡后去世",
+      "onboard_time": 1666750943,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2021522,
       "num": 225914,
       "word": "郑州疫情防控",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1509374,
-      "num": 159112,
+      "num": 172303,
       "word": "富士康",
       "onboard_time": 1666701023,
       "rank": 20,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1139520,
-      "num": 165223,
+      "num": 186822,
       "word": "兰州疫情防控",
       "onboard_time": 1666711105,
       "rank": 22,
@@ -217,6 +225,14 @@
       "onboard_time": 1666748664,
       "rank": 3,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1043068,
+      "num": 1043068,
+      "word": "他没有心跳却能像正常人一样生活",
+      "onboard_time": 1666749623,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034532,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567490,
+      "num": 231504,
+      "word": "易烊千玺奇迹笨小孩定妆照花絮",
+      "onboard_time": 1666748004,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565748,
       "num": 339385,
       "word": "俄罗斯称不打算在乌克兰使用核武器",
@@ -667,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535692,
+      "num": 214522,
+      "word": "iPhone15Pro或配8G运存",
+      "onboard_time": 1666750404,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 521066,
       "num": 424873,
       "word": "南忘今萧至今未合体",
@@ -697,6 +729,14 @@
       "onboard_time": 1666666883,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509360,
+      "num": 229143,
+      "word": "他从火光中走来男演员身高",
+      "onboard_time": 1666748486,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 509040,
@@ -881,14 +921,6 @@
       "onboard_time": 1666688843,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432916,
-      "num": 231504,
-      "word": "易烊千玺奇迹笨小孩定妆照花絮",
-      "onboard_time": 1666748004,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430982,
@@ -1089,6 +1121,22 @@
       "onboard_time": 1666576282,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384820,
+      "num": 213897,
+      "word": "北京环球影城主题公园暂时关闭",
+      "onboard_time": 1666751484,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 384208,
+      "num": 213126,
+      "word": "快乐回来啦",
+      "onboard_time": 1666752445,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 383878,
@@ -1368,14 +1416,6 @@
       "word": "苏有朋说披荆斩棘是生存游戏",
       "onboard_time": 1666686145,
       "rank": 9,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319192,
-      "num": 229143,
-      "word": "他从火光中走来男演员身高",
-      "onboard_time": 1666748486,
-      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -1659,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274092,
+      "num": 212595,
+      "word": "丢失6年狗子找回家蹲门口等主人",
+      "onboard_time": 1666749505,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273328,
       "num": 83107,
       "word": "武磊帽子戏法",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1666573224,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260914,
+      "num": 211533,
+      "word": "西宁疫情防控",
+      "onboard_time": 1666752264,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260234,
@@ -1792,6 +1848,14 @@
       "word": "首架C919将于12月交付东航",
       "onboard_time": 1666693044,
       "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 244550,
+      "num": 212062,
+      "word": "年轻人喜欢用什么方式看小说",
+      "onboard_time": 1666750524,
+      "rank": 18,
       "category": "科技"
     },
     {
@@ -2267,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184493,
+      "num": 184493,
+      "word": "苏纳克与拜登通电话",
+      "onboard_time": 1666748664,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 184256,
       "num": 169682,
       "word": "王鹤棣和浮图缘小演员合照",
@@ -2371,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174350,
+      "num": 174350,
+      "word": "N刷苍兰诀的理由",
+      "onboard_time": 1666752563,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174076,
       "num": 15307,
       "word": "EDG BP",
@@ -2417,14 +2497,6 @@
       "onboard_time": 1666685544,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167656,
-      "num": 167656,
-      "word": "他没有心跳却能像正常人一样生活",
-      "onboard_time": 1666749623,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167211,
@@ -2515,14 +2587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154432,
-      "num": 154432,
-      "word": "苏纳克与拜登通电话",
-      "onboard_time": 1666748664,
-      "rank": 28,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 154368,
       "num": 126824,
       "word": "王一博街舞5花絮照三宫格",
@@ -2609,6 +2673,14 @@
       "onboard_time": 1666614022,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145774,
+      "num": 145774,
+      "word": "女生举自由拥抱牌被朋友过肩摔",
+      "onboard_time": 1666749203,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144677,
@@ -2771,6 +2843,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 132277,
+      "num": 132277,
+      "word": "新款iPadPro及iPad10首销破发",
+      "onboard_time": 1666752264,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132058,
       "num": 29146,
       "word": "72岁奶奶1分钟剪出路人侧颜",
@@ -2899,6 +2979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "父母玩手机10个月宝宝两边刷存在感",
+      "onboard_time": 1666751843,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119805,
       "num": 12855,
       "word": "姐姐眼里弟弟的形象",
@@ -3001,14 +3089,6 @@
       "onboard_time": 1666691063,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112418,
-      "num": 112418,
-      "word": "丢失6年狗子找回家蹲门口等主人",
-      "onboard_time": 1666749505,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112288,
@@ -3131,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104471,
+      "num": 104471,
+      "word": "林高远参加亚洲杯",
+      "onboard_time": 1666752204,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103980,
       "num": 53041,
       "word": "打工不如打电话",
@@ -3187,6 +3275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99465,
+      "num": 99465,
+      "word": "内娱基建工程师王凯",
+      "onboard_time": 1666751304,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99365,
       "num": 84466,
       "word": "这就是天选古装bking吧",
@@ -3195,12 +3291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99258,
+      "num": 99258,
+      "word": "阜新一中介仨月售出158套房",
+      "onboard_time": 1666751064,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98863,
       "num": 98863,
       "word": "哈登29分",
       "onboard_time": 1666671082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98022,
+      "num": 98022,
+      "word": "女子自学康复把失聪儿子送入大学",
+      "onboard_time": 1666750702,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 97843,
@@ -3376,14 +3488,6 @@
       "word": "这里宇航员浓度超过空间站了",
       "onboard_time": 1666696885,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85438,
-      "num": 85438,
-      "word": "女生举自由拥抱牌被朋友过肩摔",
-      "onboard_time": 1666749203,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4331,6 +4435,9 @@
     },
     {
       "word": "#二十大报告全文#"
+    },
+    {
+      "word": "#同心向党我来说#"
     }
   ]
 }
