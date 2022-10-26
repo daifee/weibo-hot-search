@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666826829169,
+  "endTime": 1666827782122,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -9611,6 +9611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482137,
+      "num": 278790,
+      "word": "RNG被曝将被竞拍解散",
+      "onboard_time": 1666802660,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481559,
       "num": 481559,
       "word": "诺贝尔奖奖金为什么越发越多",
@@ -9800,6 +9808,14 @@
       "word": "9位发小全考上博士携手返乡创业",
       "onboard_time": 1665801622,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473980,
+      "num": 668965,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11547,6 +11563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419833,
+      "num": 270773,
+      "word": "主人扫脸打不开门禁但狗子可以",
+      "onboard_time": 1666798225,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419808,
       "num": 419808,
       "word": "网友分享星汉灿烂剧本",
@@ -12145,14 +12169,6 @@
       "onboard_time": 1666355602,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404355,
-      "num": 668965,
-      "word": "女子患红斑狼疮跑马拉松对抗病魔",
-      "onboard_time": 1666792888,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404050,
@@ -14035,14 +14051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359168,
-      "num": 184096,
-      "word": "RNG被曝将被竞拍解散",
-      "onboard_time": 1666802660,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 359032,
       "num": 359032,
       "word": "王鹤棣暖心捡宋丹丹靠垫细节",
@@ -14324,7 +14332,7 @@
     },
     {
       "raw_hot": 351231,
-      "num": 179115,
+      "num": 206888,
       "word": "中方就台大科考船遭日方干扰提出交涉",
       "onboard_time": 1666799364,
       "rank": 20,
@@ -14745,6 +14753,14 @@
       "onboard_time": 1665559223,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341714,
+      "num": 206958,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341131,
@@ -15185,14 +15201,6 @@
       "onboard_time": 1666102285,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 331782,
-      "num": 263835,
-      "word": "主人扫脸打不开门禁但狗子可以",
-      "onboard_time": 1666798225,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331760,
@@ -16801,6 +16809,14 @@
       "onboard_time": 1666793728,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297436,
+      "num": 297436,
+      "word": "巴萨vs拜仁",
+      "onboard_time": 1666826059,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 297245,
@@ -19227,6 +19243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259024,
+      "num": 142613,
+      "word": "北京西城新增感染者4例",
+      "onboard_time": 1666822152,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258889,
       "num": 385627,
       "word": "芋圆cp上线合体发糖",
@@ -20155,6 +20179,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 246507,
+      "num": 246507,
+      "word": "法证先锋5第一案全员恶人",
+      "onboard_time": 1666800202,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246413,
       "num": 246413,
       "word": "王子异想念山西0.5倍速生活",
@@ -20705,14 +20737,6 @@
       "onboard_time": 1664611107,
       "rank": 20,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 238898,
-      "num": 177997,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238775,
@@ -21776,14 +21800,6 @@
       "word": "大一新生回应花式跳绳引热议",
       "onboard_time": 1666505242,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225979,
-      "num": 127424,
-      "word": "北京西城新增感染者4例",
-      "onboard_time": 1666822152,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -23267,14 +23283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208019,
-      "num": 179579,
-      "word": "法证先锋5第一案全员恶人",
-      "onboard_time": 1666800202,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207645,
       "num": 207645,
       "word": "LPL 快乐日",
@@ -23435,6 +23443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206497,
+      "num": 206497,
+      "word": "奶奶为孙女打造三轮车公主房",
+      "onboard_time": 1666817110,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206463,
       "num": 206463,
       "word": "李宇春我怎么能是由你打造的呢",
@@ -23577,6 +23593,14 @@
       "onboard_time": 1664621902,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 204810,
+      "num": 204810,
+      "word": "虞书欣最新翻跳PinkVenom",
+      "onboard_time": 1666825577,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204616,
@@ -24963,14 +24987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189784,
-      "num": 189784,
-      "word": "奶奶为孙女打造三轮车公主房",
-      "onboard_time": 1666817110,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189585,
       "num": 54889,
       "word": "我国建立首个极深地下实验室",
@@ -25851,14 +25867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180848,
-      "num": 180848,
-      "word": "巴萨vs拜仁",
-      "onboard_time": 1666826059,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "该成熟的时候就要成熟",
@@ -25929,6 +25937,14 @@
       "onboard_time": 1666707807,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "赵露思直播",
+      "onboard_time": 1666825639,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 179805,
@@ -28659,6 +28675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150502,
+      "num": 150502,
+      "word": "芋圆cp",
+      "onboard_time": 1666826658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150490,
       "num": 150490,
       "word": "希望工程大眼睛当了二十大代表",
@@ -29916,7 +29940,7 @@
     },
     {
       "raw_hot": 139553,
-      "num": 118039,
+      "num": 129898,
       "word": "侃爷跌出福布斯亿万富豪榜",
       "onboard_time": 1666805296,
       "rank": 11,
@@ -30635,6 +30659,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 133645,
+      "num": 133645,
+      "word": "这就是猫猫祟祟吧",
+      "onboard_time": 1666800383,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133472,
       "num": 133472,
       "word": "C罗金球奖排名第20",
@@ -30761,14 +30793,6 @@
       "onboard_time": 1665577884,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 132244,
-      "num": 132244,
-      "word": "赵露思直播",
-      "onboard_time": 1666825639,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 132232,
@@ -30913,14 +30937,6 @@
       "onboard_time": 1666793306,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130862,
-      "num": 130862,
-      "word": "这就是猫猫祟祟吧",
-      "onboard_time": 1666800383,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 130753,
@@ -31537,14 +31553,6 @@
       "onboard_time": 1665271577,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125380,
-      "num": 125380,
-      "word": "虞书欣最新翻跳PinkVenom",
-      "onboard_time": 1666825577,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125293,
@@ -33011,14 +33019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112533,
-      "num": 112533,
-      "word": "芋圆cp",
-      "onboard_time": 1666826658,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112485,
       "num": 112485,
       "word": "瑜伽简直就是酸痛克星",
@@ -33867,6 +33867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 105666,
+      "num": 105666,
+      "word": "NBA",
+      "onboard_time": 1666822032,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105552,
       "num": 105552,
       "word": "龚俊新歌小小的肩膀",
@@ -34401,6 +34409,14 @@
       "onboard_time": 1665693490,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100990,
+      "num": 100990,
+      "word": "张艺兴演唱会海外好评度",
+      "onboard_time": 1666823353,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 100970,
@@ -35707,6 +35723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89498,
+      "num": 89498,
+      "word": "成毅莲花楼和狗子同步",
+      "onboard_time": 1666826117,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89441,
       "num": 89441,
       "word": "马嘉祺我们的歌最新舞台照",
@@ -36033,6 +36057,14 @@
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86793,
+      "num": 86793,
+      "word": "当重庆女子收到房东给的香橼",
+      "onboard_time": 1666827260,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86684,
@@ -37073,14 +37105,6 @@
       "onboard_time": 1665816201,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78076,
-      "num": 78076,
-      "word": "张艺兴演唱会海外好评度",
-      "onboard_time": 1666823353,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 78051,
@@ -38875,14 +38899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62397,
-      "num": 62397,
-      "word": "NBA",
-      "onboard_time": 1666822032,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62342,
       "num": 367312,
       "word": "两栖发射团队平均年龄仅32岁",
@@ -39233,14 +39249,6 @@
       "onboard_time": 1665617540,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59005,
-      "num": 49722,
-      "word": "成毅莲花楼和狗子同步",
-      "onboard_time": 1666826117,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 58945,
@@ -40576,6 +40584,14 @@
       "word": "她90岁高龄时仍不忘捐资助学",
       "onboard_time": 1664867301,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40260,
+      "num": 40260,
+      "word": "蔡茂强牺牲前正筹办婚礼",
+      "onboard_time": 1666827020,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
