@@ -1,0 +1,410 @@
+{
+  "runTime": 1666784205020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1311332,
+        "num": 1311332,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 379910,
+        "num": 379910,
+        "word": "14斤猫压塌简易书架主人崩溃",
+        "onboard_time": 1666774044,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19450,
+        "num": 290641,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 424079,
+        "num": 288863,
+        "word": "步步惊心网飞将上线",
+        "onboard_time": 1666781303,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400414,
+        "num": 287698,
+        "word": "苍兰诀全员超话重聚会",
+        "onboard_time": 1666778605,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283327,
+        "num": 283327,
+        "word": "律师谈男子中奖2.19亿不告诉老婆",
+        "onboard_time": 1666770086,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266190,
+        "num": 266190,
+        "word": "卡梅隆批评漫威DC电影",
+        "onboard_time": 1666777344,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229948,
+        "num": 229948,
+        "word": "剩米饭竟然还能做出甜品",
+        "onboard_time": 1666776802,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205010,
+        "num": 205010,
+        "word": "再给狗子买一个吧",
+        "onboard_time": 1666777942,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201522,
+        "num": 201522,
+        "word": "重庆拟规定不得遗弃饲养犬只",
+        "onboard_time": 1666774585,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522142,
+        "num": 201187,
+        "word": "女子晒连续286天晚10点睡觉变化",
+        "onboard_time": 1666778304,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413978,
+        "num": 200895,
+        "word": "Jennie叼笔盖签名",
+        "onboard_time": 1666781485,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360651,
+        "num": 200502,
+        "word": "郑州多区调整疫情防控政策",
+        "onboard_time": 1666778004,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342105,
+        "num": 199931,
+        "word": "新郎娶到相恋5年的姑娘哭花脸",
+        "onboard_time": 1666772123,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49819,
+        "num": 199174,
+        "word": "00后双胞胎兄弟实现军旅梦",
+        "onboard_time": 1666782023,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280686,
+        "num": 198460,
+        "word": "研究称火星下面或藏着生命",
+        "onboard_time": 1666780163,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260107,
+        "num": 198175,
+        "word": "阿迪终止与侃爷合作预计净利损失2.5亿欧元",
+        "onboard_time": 1666781303,
+        "rank": 16,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 232214,
+        "num": 197609,
+        "word": "女孩吃假减肥药致精神分裂",
+        "onboard_time": 1666773806,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211334,
+        "num": 197212,
+        "word": "金晨行为不要上升罗娜",
+        "onboard_time": 1666782444,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163563,
+        "num": 196908,
+        "word": "我为LPL扛大旗",
+        "onboard_time": 1666775244,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202716,
+        "num": 196320,
+        "word": "密室大逃脱0713体验版定档",
+        "onboard_time": 1666772905,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195908,
+        "num": 195908,
+        "word": "小说里走出来的贵公子",
+        "onboard_time": 1666765705,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179770,
+        "num": 179770,
+        "word": "心动的信号",
+        "onboard_time": 1666783285,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166021,
+        "num": 166021,
+        "word": "西宁防疫",
+        "onboard_time": 1666763544,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130724,
+        "num": 130724,
+        "word": "这才是我想要的刘海",
+        "onboard_time": 1666777164,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130038,
+        "num": 130038,
+        "word": "23岁女子敷美白面膜肾脏中毒",
+        "onboard_time": 1666769186,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151658,
+        "num": 129978,
+        "word": "西宁疫情防控工作新闻发布会",
+        "onboard_time": 1666779324,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127067,
+        "num": 127067,
+        "word": "8岁女孩拿出全部积蓄为姥爷治病",
+        "onboard_time": 1666774644,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123213,
+        "num": 123213,
+        "word": "谢谢平替侠的作业清单",
+        "onboard_time": 1666780584,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144994,
+        "num": 123154,
+        "word": "富士康辟谣",
+        "onboard_time": 1666764564,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163460,
+        "num": 122998,
+        "word": "法证先锋5小丑案又双叒叕升级了",
+        "onboard_time": 1666773025,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159024,
+        "num": 122898,
+        "word": "宋茜新剧暗恋许魏洲八年",
+        "onboard_time": 1666780524,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140948,
+        "num": 122710,
+        "word": "再见爱人2定档",
+        "onboard_time": 1666777824,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122633,
+        "num": 122633,
+        "word": "大学生隔4个月返校宿舍长出辣椒",
+        "onboard_time": 1666781243,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108139,
+        "num": 108139,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1666773563,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105776,
+        "num": 105776,
+        "word": "北二外原党委书记顾晓园接受审查调查",
+        "onboard_time": 1666773563,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100173,
+        "num": 100173,
+        "word": "秦岚说我叫茱莉亚罗伯茨",
+        "onboard_time": 1666779142,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84419,
+        "num": 84419,
+        "word": "详解iPadOS16正式版功能",
+        "onboard_time": 1666783163,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83849,
+        "num": 83849,
+        "word": "一病例不顾弹窗绕道进京被立案调查",
+        "onboard_time": 1666770324,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81105,
+        "num": 81105,
+        "word": "女子鼻子长疙瘩以为黑头竟是癌症",
+        "onboard_time": 1666753043,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81346,
+        "num": 80980,
+        "word": "gidle新歌获得一位",
+        "onboard_time": 1666783883,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79965,
+        "num": 79965,
+        "word": "三部门联合开展艺考培训专项治理",
+        "onboard_time": 1666778004,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 78920,
+        "num": 78920,
+        "word": "男子进店求助食物老板二话没说就给",
+        "onboard_time": 1666783705,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 78776,
+        "num": 78776,
+        "word": "张艺兴禁止已读不回",
+        "onboard_time": 1666760486,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75533,
+        "num": 75533,
+        "word": "马龙称没说退役就一直走",
+        "onboard_time": 1666768646,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74284,
+        "num": 74284,
+        "word": "8岁男孩圆珠笔画螃蟹惟妙惟肖",
+        "onboard_time": 1666775904,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73131,
+        "num": 73131,
+        "word": "2023国考首日报名人数超17万",
+        "onboard_time": 1666775364,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65060,
+        "num": 65060,
+        "word": "苹果回应Mac电脑会否推出触摸屏",
+        "onboard_time": 1666766185,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 60613,
+        "num": 60613,
+        "word": "高薪酬的隐私计算岗是做啥的",
+        "onboard_time": 1666770984,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54346,
+        "num": 54346,
+        "word": "福州暂停一切聚集性活动",
+        "onboard_time": 1666784124,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻二十大精神有16个字很重要#"
+    }
+  }
+}
