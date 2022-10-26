@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666794453399,
+  "endTime": 1666795445416,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -5075,6 +5075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 735655,
+      "num": 359590,
+      "word": "雪球",
+      "onboard_time": 1666793364,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734239,
       "num": 734239,
       "word": "党的二十大胜利闭幕",
@@ -6753,14 +6761,6 @@
       "onboard_time": 1665453083,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 617564,
-      "num": 359590,
-      "word": "雪球",
-      "onboard_time": 1666793364,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 617354,
@@ -13987,6 +13987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359773,
+      "num": 359773,
+      "word": "再便秘就不礼貌了",
+      "onboard_time": 1666791746,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 359660,
       "num": 445449,
       "word": "听会聊天的人说话是什么体验",
@@ -14844,7 +14852,7 @@
     },
     {
       "raw_hot": 338592,
-      "num": 176574,
+      "num": 199377,
       "word": "王一博我的朋友眼镜造型剧照",
       "onboard_time": 1666792585,
       "rank": 20,
@@ -15001,6 +15009,14 @@
       "onboard_time": 1665740604,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333793,
+      "num": 333793,
+      "word": "山西教资",
+      "onboard_time": 1666794026,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 333651,
@@ -15393,14 +15409,6 @@
       "onboard_time": 1664677160,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325649,
-      "num": 325649,
-      "word": "再便秘就不礼貌了",
-      "onboard_time": 1666791746,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 325414,
@@ -19059,6 +19067,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 260065,
+      "num": 343212,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259872,
       "num": 96765,
       "word": "LESSERAFIM新歌舞台初公开",
@@ -19361,6 +19377,14 @@
       "onboard_time": 1666674148,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255166,
+      "num": 255166,
+      "word": "恋与制作人道歉",
+      "onboard_time": 1666795046,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 254954,
@@ -23643,6 +23667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202689,
+      "num": 202689,
+      "word": "该怎么在一段感情里减少内耗",
+      "onboard_time": 1666791565,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202664,
       "num": 202664,
       "word": "中国女团vs波多黎各女团",
@@ -27171,28 +27203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164433,
-      "num": 164433,
-      "word": "该怎么在一段感情里减少内耗",
-      "onboard_time": 1666791565,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164303,
       "num": 164303,
       "word": "太阳不敌阿德莱德36人",
       "onboard_time": 1664777661,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163987,
-      "num": 163987,
-      "word": "山西教资",
-      "onboard_time": 1666794026,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 163826,
@@ -27425,6 +27441,14 @@
       "onboard_time": 1664760022,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161617,
+      "num": 161617,
+      "word": "我的精神状态靠买东西支撑",
+      "onboard_time": 1666791387,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 161427,
@@ -27665,6 +27689,14 @@
       "onboard_time": 1666166423,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158931,
+      "num": 158931,
+      "word": "东北一小区喷泉池里摆满晾晒白菜",
+      "onboard_time": 1666793547,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158927,
@@ -30371,6 +30403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134342,
+      "num": 110712,
+      "word": "黄宗泽新剧时隔11年还是叫星柏",
+      "onboard_time": 1666795228,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134311,
       "num": 134311,
       "word": "爷爷奶奶们的名字有多好听",
@@ -30683,14 +30723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131455,
-      "num": 343212,
-      "word": "女子患红斑狼疮跑马拉松对抗病魔",
-      "onboard_time": 1666792888,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131234,
       "num": 131234,
       "word": "林高远参加亚洲杯",
@@ -30729,6 +30761,14 @@
       "onboard_time": 1665926543,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130997,
+      "num": 109793,
+      "word": "芳心荡漾",
+      "onboard_time": 1666793306,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 130753,
@@ -31209,14 +31249,6 @@
       "onboard_time": 1666571962,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126089,
-      "num": 126089,
-      "word": "我的精神状态靠买东西支撑",
-      "onboard_time": 1666791387,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 126045,
@@ -32025,14 +32057,6 @@
       "onboard_time": 1665047486,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119358,
-      "num": 109053,
-      "word": "芳心荡漾",
-      "onboard_time": 1666793306,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 119185,
@@ -33131,6 +33155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109965,
+      "num": 108816,
+      "word": "巫师重制版公开",
+      "onboard_time": 1666795287,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109956,
       "num": 109956,
       "word": "中国队第22次夺得世乒赛男团冠军",
@@ -33769,6 +33801,14 @@
       "onboard_time": 1666624947,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104776,
+      "num": 104776,
+      "word": "想谈恋爱但也就想想",
+      "onboard_time": 1666793728,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104694,
@@ -36203,14 +36243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84041,
-      "num": 84041,
-      "word": "东北一小区喷泉池里摆满晾晒白菜",
-      "onboard_time": 1666793547,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84008,
       "num": 55408,
       "word": "8旬老人骑行40里探望5旬女儿",
@@ -37099,6 +37131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 76173,
+      "num": 76173,
+      "word": "我国七地入选世界地质遗产地名录",
+      "onboard_time": 1666794867,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 76172,
       "num": 1289458,
       "word": "太空视角俯瞰祖国大江南北",
@@ -37441,6 +37481,14 @@
       "onboard_time": 1664874862,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73516,
+      "num": 73516,
+      "word": "这才是陕西焖面的扛把子",
+      "onboard_time": 1666795287,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 73384,
@@ -38129,14 +38177,6 @@
       "onboard_time": 1666764444,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66574,
-      "num": 66574,
-      "word": "想谈恋爱但也就想想",
-      "onboard_time": 1666793728,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 66516,
