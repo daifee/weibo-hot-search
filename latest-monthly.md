@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 17:40:55
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 18:25:58
 </p>
 </blockquote>
 <p>
@@ -4977,6 +4977,12 @@ RNG对阵LGD第二场弃赛（热度：625301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E6%96%A4%E7%8C%AB%E5%8E%8B%E5%A1%8C%E7%AE%80%E6%98%93%E4%B9%A6%E6%9E%B6%E4%B8%BB%E4%BA%BA%E5%B4%A9%E6%BA%83%23" target="weibo">
+14斤猫压塌简易书架主人崩溃（热度：621728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%BC%94%E7%9A%84%E9%A6%96%E5%B8%AD%E6%80%80%E5%AD%95%E8%B7%B3%E8%88%9E%23" target="weibo">
 张慧雯演的首席怀孕跳舞（热度：621375）
 </a>
@@ -5621,12 +5627,6 @@ mlxg评价RNG比赛（热度：576050）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%AE%89%E5%85%A8%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80%23" target="weibo">
 中国成为世界最安全国家之一（热度：569715）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E6%96%A4%E7%8C%AB%E5%8E%8B%E5%A1%8C%E7%AE%80%E6%98%93%E4%B9%A6%E6%9E%B6%E4%B8%BB%E4%BA%BA%E5%B4%A9%E6%BA%83%23" target="weibo">
-14斤猫压塌简易书架主人崩溃（热度：569024）
 </a>
 </li>
 
