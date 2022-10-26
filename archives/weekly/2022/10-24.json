@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666766035843,
+  "endTime": 1666767085465,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -89,6 +89,14 @@
       "onboard_time": 1666700844,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1628441,
+      "num": 1628441,
+      "word": "年薪120万你愿意去守塔吗",
+      "onboard_time": 1666764685,
+      "rank": 0,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1549735,
@@ -307,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 943994,
+      "num": 344285,
+      "word": "富士康辟谣",
+      "onboard_time": 1666764564,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942366,
       "num": 942366,
       "word": "汤普森被驱逐",
@@ -376,22 +392,6 @@
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833600,
-      "num": 833600,
-      "word": "年薪120万你愿意去守塔吗",
-      "onboard_time": 1666764685,
-      "rank": 0,
-      "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 814973,
-      "num": 283568,
-      "word": "富士康辟谣",
-      "onboard_time": 1666764564,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 366275,
+      "num": 366275,
+      "word": "小说里走出来的贵公子",
+      "onboard_time": 1666765705,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365862,
       "num": 114138,
       "word": "王栎鑫直播白到发光",
@@ -2035,14 +2043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 253735,
-      "num": 253735,
-      "word": "小说里走出来的贵公子",
-      "onboard_time": 1666765705,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253319,
       "num": 225565,
       "word": "养猫人囤猫砂有多硬核",
@@ -2105,6 +2105,14 @@
       "onboard_time": 1666750524,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 243982,
+      "num": 213397,
+      "word": "今年最被低估的一部青春剧",
+      "onboard_time": 1666763424,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 243894,
@@ -2619,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186100,
+      "num": 186100,
+      "word": "别以为一直坐着腿就休息了",
+      "onboard_time": 1666762164,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185254,
       "num": 185254,
       "word": "文俊辉女友视角氛围大片",
@@ -2747,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176409,
+      "num": 176409,
+      "word": "女子用柚子皮自制精美茶罐",
+      "onboard_time": 1666763724,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174814,
       "num": 29698,
       "word": "EDG遗憾",
@@ -2811,14 +2835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167532,
-      "num": 167532,
-      "word": "今年最被低估的一部青春剧",
-      "onboard_time": 1666763424,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167211,
       "num": 167211,
       "word": "C罗重回曼联一线队训练",
@@ -2841,14 +2857,6 @@
       "onboard_time": 1666535604,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163990,
-      "num": 163990,
-      "word": "别以为一直坐着腿就休息了",
-      "onboard_time": 1666762164,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 163030,
@@ -3249,14 +3257,6 @@
       "onboard_time": 1666617565,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125507,
-      "num": 125507,
-      "word": "女子用柚子皮自制精美茶罐",
-      "onboard_time": 1666763724,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125293,
@@ -3699,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93786,
+      "num": 89414,
+      "word": "苹果回应Mac电脑会否推出触摸屏",
+      "onboard_time": 1666766185,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 93546,
       "num": 93546,
       "word": "二十届中央政治局委员 书记处书记简历",
@@ -3841,6 +3849,14 @@
       "onboard_time": 1666620026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84201,
+      "num": 84201,
+      "word": "熊猫宝宝集体睡觉现场",
+      "onboard_time": 1666766964,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 83995,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1666742364,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66639,
+      "num": 300017,
+      "word": "小伙3个月将废屋改成向往的小院",
+      "onboard_time": 1666764444,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66245,
@@ -4465,14 +4489,6 @@
       "onboard_time": 1666592243,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 38336,
-      "num": 268445,
-      "word": "小伙3个月将废屋改成向往的小院",
-      "onboard_time": 1666764444,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36317,

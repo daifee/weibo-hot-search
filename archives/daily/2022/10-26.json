@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666766035843,
+  "endTime": 1666767085465,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -9,6 +9,14 @@
       "onboard_time": 1666750943,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1628441,
+      "num": 1628441,
+      "word": "年薪120万你愿意去守塔吗",
+      "onboard_time": 1666764685,
+      "rank": 0,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1247378,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 943994,
+      "num": 344285,
+      "word": "富士康辟谣",
+      "onboard_time": 1666764564,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942366,
       "num": 942366,
       "word": "汤普森被驱逐",
@@ -89,22 +105,6 @@
       "onboard_time": 1666712185,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 833600,
-      "num": 833600,
-      "word": "年薪120万你愿意去守塔吗",
-      "onboard_time": 1666764685,
-      "rank": 0,
-      "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 814973,
-      "num": 283568,
-      "word": "富士康辟谣",
-      "onboard_time": 1666764564,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 812609,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366275,
+      "num": 366275,
+      "word": "小说里走出来的贵公子",
+      "onboard_time": 1666765705,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347697,
       "num": 347697,
       "word": "Angelababy嘉人十一月刊封面",
@@ -523,14 +531,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 253735,
-      "num": 253735,
-      "word": "小说里走出来的贵公子",
-      "onboard_time": 1666765705,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 251097,
       "num": 251097,
       "word": "孙子见奶奶偷玩游戏眉头紧皱",
@@ -561,6 +561,14 @@
       "onboard_time": 1666750524,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 243982,
+      "num": 213397,
+      "word": "今年最被低估的一部青春剧",
+      "onboard_time": 1666763424,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 226555,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186100,
+      "num": 186100,
+      "word": "别以为一直坐着腿就休息了",
+      "onboard_time": 1666762164,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185254,
       "num": 185254,
       "word": "文俊辉女友视角氛围大片",
@@ -667,6 +683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 176409,
+      "num": 176409,
+      "word": "女子用柚子皮自制精美茶罐",
+      "onboard_time": 1666763724,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175214,
       "num": 105497,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
@@ -689,22 +713,6 @@
       "onboard_time": 1666701143,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167532,
-      "num": 167532,
-      "word": "今年最被低估的一部青春剧",
-      "onboard_time": 1666763424,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 163990,
-      "num": 163990,
-      "word": "别以为一直坐着腿就休息了",
-      "onboard_time": 1666762164,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 153289,
@@ -779,14 +787,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 125507,
-      "num": 125507,
-      "word": "女子用柚子皮自制精美茶罐",
-      "onboard_time": 1666763724,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124444,
       "num": 105751,
       "word": "新乡",
@@ -859,6 +859,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 93786,
+      "num": 89414,
+      "word": "苹果回应Mac电脑会否推出触摸屏",
+      "onboard_time": 1666766185,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
@@ -897,6 +905,14 @@
       "onboard_time": 1666747465,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84201,
+      "num": 84201,
+      "word": "熊猫宝宝集体睡觉现场",
+      "onboard_time": 1666766964,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 83845,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1666742364,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66639,
+      "num": 300017,
+      "word": "小伙3个月将废屋改成向往的小院",
+      "onboard_time": 1666764444,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65814,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1666695384,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38336,
-      "num": 268445,
-      "word": "小伙3个月将废屋改成向往的小院",
-      "onboard_time": 1666764444,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37988,
