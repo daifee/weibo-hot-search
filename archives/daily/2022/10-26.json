@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666758779570,
+  "endTime": 1666762403419,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -9,6 +9,14 @@
       "onboard_time": 1666750943,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1247378,
+      "num": 564894,
+      "word": "颖儿回应千山暮雪时发胖",
+      "onboard_time": 1666757552,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1218805,
@@ -33,14 +41,6 @@
       "onboard_time": 1666742724,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1125148,
-      "num": 564894,
-      "word": "颖儿回应千山暮雪时发胖",
-      "onboard_time": 1666757552,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1046744,
@@ -137,6 +137,14 @@
       "onboard_time": 1666732391,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619587,
+      "num": 392391,
+      "word": "张艺兴禁止已读不回",
+      "onboard_time": 1666760486,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 573435,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486828,
+      "num": 486828,
+      "word": "台积电发内部信鼓励员工休假",
+      "onboard_time": 1666757188,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 469740,
       "num": 232560,
       "word": "男子每天1包烟4年2次心梗",
@@ -267,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 417493,
+      "num": 417493,
+      "word": "翻篇是一种很重要的能力",
+      "onboard_time": 1666761984,
+      "rank": 7,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 411389,
       "num": 283496,
       "word": "6岁女孩上网课疯狂举手求答题",
@@ -275,12 +299,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 406420,
+      "num": 380526,
+      "word": "德总统访乌躲入防空洞一个半小时",
+      "onboard_time": 1666758391,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 403981,
       "num": 172303,
       "word": "富士康",
       "onboard_time": 1666701023,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400222,
+      "num": 400222,
+      "word": "查理苏",
+      "onboard_time": 1666760189,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 392854,
@@ -315,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360235,
+      "num": 360235,
+      "word": "女子抬头猛然发现老人倒悬窗外",
+      "onboard_time": 1666759167,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338345,
       "num": 338345,
       "word": "新款iPadPro及iPad10首销破发",
@@ -337,14 +385,6 @@
       "onboard_time": 1666699344,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325026,
-      "num": 325026,
-      "word": "台积电发内部信鼓励员工休假",
-      "onboard_time": 1666757188,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 324870,
@@ -475,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222247,
+      "num": 222247,
+      "word": "不吃早饭或晚饭哪个对身体影响更大",
+      "onboard_time": 1666758989,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219715,
       "num": 192440,
       "word": "福建非绿码考生不得参加考试",
@@ -505,6 +553,22 @@
       "onboard_time": 1666702164,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 206808,
+      "num": 206808,
+      "word": "马龙说不确定巴黎奥运能看到自己",
+      "onboard_time": 1666761565,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199598,
+      "num": 199598,
+      "word": "电动车屋内充电2分钟连爆15次",
+      "onboard_time": 1666757547,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197565,
@@ -547,19 +611,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172617,
+      "num": 172617,
+      "word": "心动的信号第五季友情",
+      "onboard_time": 1666759708,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155710,
-      "num": 155710,
-      "word": "电动车屋内充电2分钟连爆15次",
-      "onboard_time": 1666757547,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -603,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135774,
+      "num": 135774,
+      "word": "狗狗的喜恶真的很明显",
+      "onboard_time": 1666760907,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131234,
       "num": 131234,
       "word": "林高远参加亚洲杯",
@@ -633,14 +705,6 @@
       "onboard_time": 1666704689,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 125037,
-      "num": 125037,
-      "word": "德总统访乌躲入防空洞一个半小时",
-      "onboard_time": 1666758391,
-      "rank": 44,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 124444,
@@ -761,6 +825,14 @@
       "onboard_time": 1666741581,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83400,
+      "num": 83400,
+      "word": "别以为一直坐着腿就休息了",
+      "onboard_time": 1666762164,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81690,
@@ -1043,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 26717,
+      "num": 625976,
+      "word": "二十大报告双语热词",
+      "onboard_time": 1666742063,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 22033,
       "num": 24429,
       "word": "苏纳克发表就职演讲",
@@ -1082,6 +1162,9 @@
     },
     {
       "word": "#同心向党我来说#"
+    },
+    {
+      "word": "#二十大报告#"
     }
   ]
 }

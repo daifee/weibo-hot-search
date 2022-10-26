@@ -1,0 +1,410 @@
+{
+  "runTime": 1666762403419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 870714,
+        "num": 870714,
+        "word": "他没有心跳却能像正常人一样生活",
+        "onboard_time": 1666749623,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660112,
+        "num": 660112,
+        "word": "汤普森被驱逐",
+        "onboard_time": 1666756645,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26717,
+        "num": 625976,
+        "word": "二十大报告双语热词",
+        "onboard_time": 1666742063,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1687931,
+        "num": 582836,
+        "word": "全球最脏的人被迫洗澡后去世",
+        "onboard_time": 1666750943,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793734,
+        "num": 566661,
+        "word": "王嘉尔疑似出席S12决赛",
+        "onboard_time": 1666755505,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 690425,
+        "num": 504190,
+        "word": "女子鼻子长疙瘩以为黑头竟是癌症",
+        "onboard_time": 1666753043,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486828,
+        "num": 486828,
+        "word": "台积电发内部信鼓励员工休假",
+        "onboard_time": 1666757188,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 417493,
+        "num": 417493,
+        "word": "翻篇是一种很重要的能力",
+        "onboard_time": 1666761984,
+        "rank": 7,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 415154,
+        "num": 415154,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1666755685,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400222,
+        "num": 400222,
+        "word": "查理苏",
+        "onboard_time": 1666760189,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1247378,
+        "num": 394741,
+        "word": "颖儿回应千山暮雪时发胖",
+        "onboard_time": 1666757552,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 619587,
+        "num": 392391,
+        "word": "张艺兴禁止已读不回",
+        "onboard_time": 1666760486,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487610,
+        "num": 382802,
+        "word": "两千游客因疫情在船上隔离",
+        "onboard_time": 1666742724,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406420,
+        "num": 380526,
+        "word": "德总统访乌躲入防空洞一个半小时",
+        "onboard_time": 1666758391,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 373997,
+        "num": 373997,
+        "word": "林徽因大概会爱上这座院子",
+        "onboard_time": 1666754964,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360235,
+        "num": 360235,
+        "word": "女子抬头猛然发现老人倒悬窗外",
+        "onboard_time": 1666759167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354674,
+        "num": 354674,
+        "word": "父母玩手机10个月宝宝两边刷存在感",
+        "onboard_time": 1666751843,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329583,
+        "num": 329583,
+        "word": "哈利波特",
+        "onboard_time": 1666755023,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321433,
+        "num": 321433,
+        "word": "快乐回来啦",
+        "onboard_time": 1666752445,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296717,
+        "num": 296717,
+        "word": "成龙发文感谢大学生",
+        "onboard_time": 1666755806,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281197,
+        "num": 281197,
+        "word": "俄罗斯已通知美国即将举行年度军演",
+        "onboard_time": 1666748664,
+        "rank": 20,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 276176,
+        "num": 276176,
+        "word": "法证先锋5今晚开播",
+        "onboard_time": 1666755391,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257897,
+        "num": 257897,
+        "word": "郑州疫情防控",
+        "onboard_time": 1666709129,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241558,
+        "num": 241558,
+        "word": "孙子见奶奶偷玩游戏眉头紧皱",
+        "onboard_time": 1666756166,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232950,
+        "num": 232950,
+        "word": "很难不被王妃的衣橱惊艳到",
+        "onboard_time": 1666754486,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222247,
+        "num": 222247,
+        "word": "不吃早饭或晚饭哪个对身体影响更大",
+        "onboard_time": 1666758989,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206808,
+        "num": 206808,
+        "word": "马龙说不确定巴黎奥运能看到自己",
+        "onboard_time": 1666761565,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203168,
+        "num": 203168,
+        "word": "哺乳期女子偷点奶茶被送餐老公抓包",
+        "onboard_time": 1666741522,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199598,
+        "num": 199598,
+        "word": "电动车屋内充电2分钟连爆15次",
+        "onboard_time": 1666757547,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183108,
+        "num": 183108,
+        "word": "苹果称将遵守欧盟USB-C充电法",
+        "onboard_time": 1666755926,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172617,
+        "num": 172617,
+        "word": "心动的信号第五季友情",
+        "onboard_time": 1666759708,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160973,
+        "num": 160973,
+        "word": "易烊千玺奇迹笨小孩定妆照花絮",
+        "onboard_time": 1666748004,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164738,
+        "num": 160848,
+        "word": "iPhone15Pro或配8G运存",
+        "onboard_time": 1666750404,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159616,
+        "num": 159616,
+        "word": "北京环球影城主题公园暂时关闭",
+        "onboard_time": 1666751484,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 152214,
+        "num": 152214,
+        "word": "他从火光中走来",
+        "onboard_time": 1666756525,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150741,
+        "num": 150741,
+        "word": "电影重启2定档",
+        "onboard_time": 1666757552,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143567,
+        "num": 143567,
+        "word": "他从火光中走来男演员身高",
+        "onboard_time": 1666748486,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "新款iPadPro及iPad10首销破发",
+        "onboard_time": 1666752264,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135774,
+        "num": 135774,
+        "word": "狗狗的喜恶真的很明显",
+        "onboard_time": 1666760907,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 131290,
+        "num": 131290,
+        "word": "兰州疫情防控",
+        "onboard_time": 1666711105,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137627,
+        "num": 131280,
+        "word": "BLACKPINK新歌MV播放量破2亿",
+        "onboard_time": 1666754423,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131182,
+        "num": 131182,
+        "word": "丢失6年狗子找回家蹲门口等主人",
+        "onboard_time": 1666749505,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129692,
+        "num": 129692,
+        "word": "13岁男孩挤痘引发脑膜炎",
+        "onboard_time": 1666744827,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127747,
+        "num": 127747,
+        "word": "两个人的小森林第二部在筹划中",
+        "onboard_time": 1666746805,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109501,
+        "num": 109501,
+        "word": "植入人工心脏后他成了中国科技的迷弟",
+        "onboard_time": 1666753285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "汉阳疫情防控",
+        "onboard_time": 1666743987,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104930,
+        "num": 104930,
+        "word": "贪吃狗牛杂店蹭吃一年主人贴纸禁止投喂",
+        "onboard_time": 1666742482,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13913,
+        "num": 99775,
+        "word": "锚定中心任务开好局起好步",
+        "onboard_time": 1666711228,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99288,
+        "num": 99288,
+        "word": "马斯克承诺周五前完成推特收购",
+        "onboard_time": 1666754005,
+        "rank": 48,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 83400,
+        "num": 83400,
+        "word": "别以为一直坐着腿就休息了",
+        "onboard_time": 1666762164,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}
