@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 23:43:28
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 00:35:13
 </p>
 </blockquote>
 <p>
@@ -3117,6 +3117,12 @@ JDG战胜DK（热度：837920）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%9B%98%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E4%B8%8D%E7%BA%A2%E4%BA%86%23" target="weibo">
+C盘一下子就不红了（热度：837150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8D%96%E9%A3%8E%E8%A1%A3%E5%94%AE%E4%BB%B74.45%E4%B8%87%23" target="weibo">
 法拉利在中国卖风衣售价4.45万（热度：836083）
 </a>
@@ -3689,12 +3695,6 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E8%81%8A%E5%A4%A9%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3%E4%B8%BA%E5%96%9C%E6%AC%A2%E5%90%97%23" target="weibo">
 频繁聊天可以理解为喜欢吗（热度：750880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%9B%98%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E4%B8%8D%E7%BA%A2%E4%BA%86%23" target="weibo">
-C盘一下子就不红了（热度：750480）
 </a>
 </li>
 

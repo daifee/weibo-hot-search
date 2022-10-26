@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666799008317,
+  "endTime": 1666802113504,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837150,
+      "num": 608618,
+      "word": "C盘一下子就不红了",
+      "onboard_time": 1666788804,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 803428,
       "num": 431095,
       "word": "删好友前需要告诉对方吗",
@@ -489,14 +497,6 @@
       "onboard_time": 1666575381,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 750480,
-      "num": 608618,
-      "word": "C盘一下子就不红了",
-      "onboard_time": 1666788804,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 749960,
@@ -1779,6 +1779,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 351231,
+      "num": 121577,
+      "word": "中方就台大科考船遭日方干扰提出交涉",
+      "onboard_time": 1666799364,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 351064,
       "num": 305722,
       "word": "最高人民检察院依法对田惠宇决定逮捕",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1666792585,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338544,
+      "num": 273209,
+      "word": "始祖鸟购买经典款将需要配货",
+      "onboard_time": 1666797267,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 338345,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1666595781,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263835,
+      "num": 263835,
+      "word": "主人扫脸打不开门禁但狗子可以",
+      "onboard_time": 1666798225,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263155,
@@ -3331,14 +3355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172023,
-      "num": 172023,
-      "word": "始祖鸟购买经典款将需要配货",
-      "onboard_time": 1666797267,
-      "rank": 36,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 171553,
       "num": 117401,
       "word": "秦岚王子异二搭好抓马",
@@ -3561,6 +3577,14 @@
       "onboard_time": 1666695503,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148325,
+      "num": 148325,
+      "word": "法证先锋5第一案全员恶人",
+      "onboard_time": 1666800202,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 147541,
@@ -3987,6 +4011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122783,
+      "num": 122783,
+      "word": "很担心驿站老板的精神状态",
+      "onboard_time": 1666798406,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122687,
       "num": 82849,
       "word": "怎样实现电车的选择自由",
@@ -4008,6 +4040,14 @@
       "word": "王子异新剧演IT天才",
       "onboard_time": 1666776085,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119813,
+      "num": 119813,
+      "word": "宋茜新剧穿搭",
+      "onboard_time": 1666799243,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4201,6 +4241,14 @@
       "onboard_time": 1666701926,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "这就是猫猫祟祟吧",
+      "onboard_time": 1666800383,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 107483,
@@ -4931,14 +4979,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 69677,
-      "num": 69677,
-      "word": "主人扫脸打不开门禁但狗子可以",
-      "onboard_time": 1666798225,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68829,
       "num": 12723,
       "word": "明日方舟",
@@ -5089,14 +5129,6 @@
       "onboard_time": 1666501287,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62714,
-      "num": 62714,
-      "word": "很担心驿站老板的精神状态",
-      "onboard_time": 1666798406,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 62041,
