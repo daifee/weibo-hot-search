@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666823184070,
+  "endTime": 1666824221372,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -227,12 +227,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 126635,
+      "num": 70126,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125352,
       "num": 125352,
       "word": "山西教资",
       "onboard_time": 1666794026,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "奶奶为孙女打造三轮车公主房",
+      "onboard_time": 1666817110,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119813,
@@ -249,22 +265,6 @@
       "onboard_time": 1666791746,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102640,
-      "num": 102640,
-      "word": "奶奶为孙女打造三轮车公主房",
-      "onboard_time": 1666817110,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95419,
-      "num": 58291,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91148,
@@ -289,6 +289,14 @@
       "onboard_time": 1666781485,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83249,
+      "num": 52978,
+      "word": "北京西城新增感染者4例",
+      "onboard_time": 1666822152,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82856,
@@ -443,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 31983,
-      "num": 31983,
-      "word": "北京西城新增感染者4例",
-      "onboard_time": 1666822152,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 35658,
+      "num": 35658,
+      "word": "张艺兴演唱会海外好评度",
+      "onboard_time": 1666823353,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 19788,
@@ -475,7 +483,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10640,
+      "raw_hot": 11222,
       "num": 300081,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
