@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666803465251,
+  "endTime": 1666805189907,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1666762823,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346151,
+      "num": 107702,
+      "word": "RNG被曝将被竞拍解散",
+      "onboard_time": 1666802660,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 346147,
@@ -3872,14 +3880,6 @@
       "word": "光与夜之恋",
       "onboard_time": 1666674026,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 131396,
-      "num": 90044,
-      "word": "RNG被曝将被竞拍解散",
-      "onboard_time": 1666802660,
-      "rank": 21,
       "category": "游戏"
     },
     {

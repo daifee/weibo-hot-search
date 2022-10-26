@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666803465251,
+  "endTime": 1666805189907,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -14585,6 +14585,14 @@
       "onboard_time": 1665398904,
       "rank": 20,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 346151,
+      "num": 107702,
+      "word": "RNG被曝将被竞拍解散",
+      "onboard_time": 1666802660,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 346147,
@@ -30801,14 +30809,6 @@
       "onboard_time": 1665044905,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131396,
-      "num": 90044,
-      "word": "RNG被曝将被竞拍解散",
-      "onboard_time": 1666802660,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 131234,
