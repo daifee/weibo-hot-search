@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 07:43:27
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/26 10:11:58
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ iPhone15将被强制使用USB-C（热度：1134253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8D%83%E6%B8%B8%E5%AE%A2%E5%9B%A0%E7%96%AB%E6%83%85%E5%9C%A8%E8%88%B9%E4%B8%8A%E9%9A%94%E7%A6%BB%23" target="weibo">
+两千游客因疫情在船上隔离（热度：1130564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
 iPhone14出现首次大幅降价（热度：1129925）
 </a>
@@ -2057,6 +2063,12 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B%E7%94%B7%E5%8F%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
 一年一度喜剧大赛男友来了（热度：1047069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E9%80%9A%E7%9F%A5%E7%BE%8E%E5%9B%BD%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C%E5%B9%B4%E5%BA%A6%E5%86%9B%E6%BC%94%23" target="weibo">
+俄罗斯已通知美国即将举行年度军演（热度：1046744）
 </a>
 </li>
 
@@ -3693,6 +3705,12 @@ LPL为米勒澄清（热度：741959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8C%A4%E7%97%98%E5%BC%95%E5%8F%91%E8%84%91%E8%86%9C%E7%82%8E%23" target="weibo">
+13岁男孩挤痘引发脑膜炎（热度：736988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C%E8%BF%9114%25%23" target="weibo">
 美国芯片巨头一夜暴跌近14%（热度：736056）
 </a>
@@ -4127,6 +4145,12 @@ Viper（热度：705111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%85%BE%E8%AE%AF%E4%BD%8D%E5%88%97%E7%AC%AC%E4%B8%80%23" target="weibo">
 茅台市值超过腾讯位列第一（热度：694447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%BA%E4%B9%B3%E6%9C%9F%E5%A5%B3%E5%AD%90%E5%81%B7%E7%82%B9%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%80%81%E9%A4%90%E8%80%81%E5%85%AC%E6%8A%93%E5%8C%85%23" target="weibo">
+哺乳期女子偷点奶茶被送餐老公抓包（热度：693999）
 </a>
 </li>
 
@@ -5571,6 +5595,12 @@ TTG（热度：568457）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%9C%A8%E7%AD%B9%E5%88%92%E4%B8%AD%23" target="weibo">
+两个人的小森林第二部在筹划中（热度：564223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E9%87%91%E6%AF%9B%E8%A2%AB%E6%8B%B4%E6%B3%A5%E5%9C%B0%E6%B7%8B%E9%9B%A8%E8%A1%A8%E6%83%85%E5%93%80%E6%80%A8%23" target="weibo">
 婚礼上金毛被拴泥地淋雨表情哀怨（热度：563099）
 </a>
@@ -5981,36 +6011,6 @@ TMA（热度：540431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%B1%B92%E6%96%B0%E9%A2%84%E5%91%8A%23" target="weibo">
 黑豹2新预告（热度：534557）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%93%E7%BF%BB%E7%99%BD%E9%85%92%E5%81%B7%E5%B0%9D%E5%90%8E%E9%86%89%E5%80%92%E4%B8%8D%E8%B5%B7%23" target="weibo">
-狗狗打翻白酒偷尝后醉倒不起（热度：533981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8BS12%E5%86%A0%E5%86%9B%23" target="weibo">
-AI预测S12冠军（热度：533074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E5%92%8C%E8%8E%AB%E8%A8%80%E7%9C%8B%E5%AE%8C%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-余华和莫言看完都沉默了（热度：533065）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%8C%E5%8E%9A%E5%8E%9F%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%83%96%23" target="weibo">
-背厚原来不是因为胖（热度：532847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E9%BE%99%E8%91%B5%E5%B0%84%E7%AE%AD%E5%B8%85%E5%88%B0%23" target="weibo">
-真的会被龙葵射箭帅到（热度：532741）
 </a>
 </li>
 
