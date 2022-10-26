@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666802113504,
+  "endTime": 1666803465251,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 351231,
-      "num": 121577,
+      "num": 154736,
       "word": "中方就台大科考船遭日方干扰提出交涉",
       "onboard_time": 1666799364,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169893,
+      "num": 169893,
+      "word": "法证先锋5第一案全员恶人",
+      "onboard_time": 1666800202,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163008,
       "num": 163008,
       "word": "想谈恋爱但也就想想",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148325,
-      "num": 148325,
-      "word": "法证先锋5第一案全员恶人",
-      "onboard_time": 1666800202,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 155550,
+      "num": 155550,
+      "word": "很担心驿站老板的精神状态",
+      "onboard_time": 1666798406,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 141418,
@@ -179,6 +187,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133918,
+      "num": 91860,
+      "word": "有打戏nb症的演员",
+      "onboard_time": 1666802598,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131396,
+      "num": 90044,
+      "word": "RNG被曝将被竞拍解散",
+      "onboard_time": 1666802660,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130862,
+      "num": 130862,
+      "word": "这就是猫猫祟祟吧",
+      "onboard_time": 1666800383,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127197,
       "num": 313116,
       "word": "中国共产党章程发布",
@@ -195,14 +227,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 122783,
-      "num": 122783,
-      "word": "很担心驿站老板的精神状态",
-      "onboard_time": 1666798406,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -217,14 +241,6 @@
       "onboard_time": 1666791746,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107538,
-      "num": 107538,
-      "word": "这就是猫猫祟祟吧",
-      "onboard_time": 1666800383,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 91148,
