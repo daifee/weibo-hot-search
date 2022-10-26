@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666797944063,
+  "endTime": 1666799008317,
   "band_list": [
     {
       "raw_hot": 2799930,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750480,
+      "num": 608618,
+      "word": "C盘一下子就不红了",
+      "onboard_time": 1666788804,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 749960,
       "num": 724166,
       "word": "不知火舞新皮肤",
@@ -201,14 +209,6 @@
       "onboard_time": 1666711105,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718840,
-      "num": 608618,
-      "word": "C盘一下子就不红了",
-      "onboard_time": 1666788804,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 702300,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374937,
+      "num": 668965,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374037,
       "num": 374037,
       "word": "很难不被王妃的衣橱惊艳到",
@@ -819,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304862,
-      "num": 343212,
-      "word": "女子患红斑狼疮跑马拉松对抗病魔",
-      "onboard_time": 1666792888,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 297472,
+      "num": 297472,
+      "word": "想谈恋爱但也就想想",
+      "onboard_time": 1666793728,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 296852,
@@ -867,20 +875,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281241,
+      "num": 281241,
+      "word": "宫胁咲良新歌冠军秀直拍",
+      "onboard_time": 1666796130,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280686,
       "num": 217610,
       "word": "研究称火星下面或藏着生命",
       "onboard_time": 1666780163,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 277943,
-      "num": 277943,
-      "word": "宫胁咲良新歌冠军秀直拍",
-      "onboard_time": 1666796130,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 275044,
@@ -1011,6 +1019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 242055,
+      "num": 219254,
+      "word": "这就是爸妈最社死的瞬间吧",
+      "onboard_time": 1666796490,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241238,
       "num": 241238,
       "word": "再给狗子买一个吧",
@@ -1035,20 +1051,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 230354,
+      "num": 209038,
+      "word": "黄宗泽新剧时隔11年还是叫星柏",
+      "onboard_time": 1666795228,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226555,
       "num": 226555,
       "word": "男子16岁因亲人一句埋怨离家16年",
       "onboard_time": 1666741882,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225269,
-      "num": 225269,
-      "word": "想谈恋爱但也就想想",
-      "onboard_time": 1666793728,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 223122,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1666709367,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 219254,
-      "num": 219254,
-      "word": "这就是爸妈最社死的瞬间吧",
-      "onboard_time": 1666796490,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 218725,
@@ -1121,14 +1129,6 @@
       "onboard_time": 1666755926,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 209038,
-      "num": 209038,
-      "word": "黄宗泽新剧时隔11年还是叫星柏",
-      "onboard_time": 1666795228,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 207838,
@@ -1243,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172023,
+      "num": 172023,
+      "word": "始祖鸟购买经典款将需要配货",
+      "onboard_time": 1666797267,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 171553,
       "num": 117401,
       "word": "秦岚王子异二搭好抓马",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1666779142,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144501,
+      "num": 144501,
+      "word": "我国七地入选世界地质遗产地名录",
+      "onboard_time": 1666794867,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 139472,
@@ -1435,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126342,
+      "num": 126342,
+      "word": "这才是陕西焖面的扛把子",
+      "onboard_time": 1666795287,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124444,
       "num": 105751,
       "word": "新乡",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1666753645,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123397,
-      "num": 123397,
-      "word": "这才是陕西焖面的扛把子",
-      "onboard_time": 1666795287,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 123213,
@@ -1539,14 +1555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108857,
-      "num": 108857,
-      "word": "我国七地入选世界地质遗产地名录",
-      "onboard_time": 1666794867,
-      "rank": 46,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 107275,
       "num": 107275,
       "word": "详解iPadOS16正式版功能",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1666765045,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 90493,
-      "num": 90493,
-      "word": "始祖鸟购买经典款将需要配货",
-      "onboard_time": 1666797267,
-      "rank": 36,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 87025,
@@ -1867,6 +1867,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 69677,
+      "num": 69677,
+      "word": "主人扫脸打不开门禁但狗子可以",
+      "onboard_time": 1666798225,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68236,
       "num": 68236,
       "word": "算是把各大品牌拿捏了",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1666790786,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 62714,
+      "num": 62714,
+      "word": "很担心驿站老板的精神状态",
+      "onboard_time": 1666798406,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 58920,
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 21323,
-      "num": 618832,
+      "num": 622319,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
       "rank": 2,
