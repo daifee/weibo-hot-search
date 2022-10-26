@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666776231601,
+  "endTime": 1666777255938,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 790124,
-      "num": 570140,
+      "num": 583796,
       "word": "密室大逃脱0713体验版定档",
       "onboard_time": 1666772905,
       "rank": 10,
@@ -233,6 +233,14 @@
       "onboard_time": 1666755391,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 569024,
+      "num": 569024,
+      "word": "14斤猫压塌简易书架主人崩溃",
+      "onboard_time": 1666774044,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567490,
@@ -344,14 +352,6 @@
       "word": "女子抬头猛然发现老人倒悬窗外",
       "onboard_time": 1666759167,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473084,
-      "num": 229100,
-      "word": "14斤猫压塌简易书架主人崩溃",
-      "onboard_time": 1666774044,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357415,
+      "num": 252076,
+      "word": "女孩吃假减肥药致精神分裂",
+      "onboard_time": 1666773806,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351064,
       "num": 305722,
       "word": "最高人民检察院依法对田惠宇决定逮捕",
@@ -489,6 +497,14 @@
       "onboard_time": 1666752264,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 333261,
+      "num": 238742,
+      "word": "北二外原党委书记顾晓园接受审查调查",
+      "onboard_time": 1666773563,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330569,
@@ -523,11 +539,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316885,
-      "num": 228484,
-      "word": "北二外原党委书记顾晓园接受审查调查",
+      "raw_hot": 323669,
+      "num": 224628,
+      "word": "石家庄疫情防控",
       "onboard_time": 1666773563,
-      "rank": 45,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -537,6 +553,14 @@
       "onboard_time": 1666755806,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310656,
+      "num": 310656,
+      "word": "法证先锋5小丑案又双叒叕升级了",
+      "onboard_time": 1666773025,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 310592,
@@ -555,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308373,
-      "num": 224570,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1666773563,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305818,
       "num": 305818,
       "word": "高薪酬的隐私计算岗是做啥的",
@@ -577,6 +593,14 @@
       "onboard_time": 1666735151,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294581,
+      "num": 221426,
+      "word": "我为LPL扛大旗",
+      "onboard_time": 1666775244,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 294281,
@@ -632,14 +656,6 @@
       "word": "广州海关查获新型毒品听话水",
       "onboard_time": 1666770145,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265140,
-      "num": 221879,
-      "word": "女孩吃假减肥药致精神分裂",
-      "onboard_time": 1666773806,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234692,
-      "num": 234692,
-      "word": "法证先锋5小丑案又双叒叕升级了",
-      "onboard_time": 1666773025,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234592,
       "num": 234592,
       "word": "苹果回应Mac电脑会否推出触摸屏",
@@ -721,14 +729,6 @@
       "onboard_time": 1666741882,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221426,
-      "num": 221426,
-      "word": "我为LPL扛大旗",
-      "onboard_time": 1666775244,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 219715,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "重庆拟规定不得遗弃饲养犬只",
+      "onboard_time": 1666774585,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
@@ -883,6 +891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140685,
+      "num": 140685,
+      "word": "8岁女孩拿出全部积蓄为姥爷治病",
+      "onboard_time": 1666774644,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139472,
+      "num": 139472,
+      "word": "8岁男孩圆珠笔画螃蟹惟妙惟肖",
+      "onboard_time": 1666775904,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138786,
       "num": 138786,
       "word": "被两个小朋友治愈到了",
@@ -905,6 +929,14 @@
       "onboard_time": 1666770685,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134916,
+      "num": 134916,
+      "word": "成毅莲花楼杀青视频",
+      "onboard_time": 1666775725,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 131234,
@@ -939,14 +971,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 124460,
-      "num": 124460,
-      "word": "成毅莲花楼杀青视频",
-      "onboard_time": 1666775725,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124444,
       "num": 105751,
       "word": "新乡",
@@ -961,6 +985,14 @@
       "onboard_time": 1666753645,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121601,
+      "num": 121601,
+      "word": "王子异新剧演IT天才",
+      "onboard_time": 1666776085,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 118022,
@@ -987,20 +1019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114532,
-      "num": 114532,
-      "word": "8岁女孩拿出全部积蓄为姥爷治病",
-      "onboard_time": 1666774644,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112891,
       "num": 112891,
       "word": "给主人递凳子的小狗",
       "onboard_time": 1666709607,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109693,
+      "num": 109693,
+      "word": "剩米饭竟然还能做出甜品",
+      "onboard_time": 1666776802,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 109579,
@@ -1019,11 +1051,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102993,
-      "num": 102993,
-      "word": "重庆拟规定不得遗弃饲养犬只",
-      "onboard_time": 1666774585,
-      "rank": 35,
+      "raw_hot": 103204,
+      "num": 103204,
+      "word": "2023国考首日报名人数超17万",
+      "onboard_time": 1666775364,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 99676,
+      "num": 99676,
+      "word": "5岁男童玩魔方1年后创世界纪录",
+      "onboard_time": 1666777044,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1051,22 +1091,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 94295,
-      "num": 94295,
-      "word": "8岁男孩圆珠笔画螃蟹惟妙惟肖",
-      "onboard_time": 1666775904,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93659,
-      "num": 93659,
-      "word": "王子异新剧演IT天才",
-      "onboard_time": 1666776085,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 93631,
       "num": 93631,
       "word": "永远会为落日晚霞心动",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1666707807,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86956,
-      "num": 86956,
-      "word": "2023国考首日报名人数超17万",
-      "onboard_time": 1666775364,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 85895,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1666766964,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 84000,
+      "num": 84000,
+      "word": "这才是我想要的刘海",
+      "onboard_time": 1666777164,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 83845,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1666732510,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79778,
+      "num": 79778,
+      "word": "老人成群结队搬走公园内菊花盆景",
+      "onboard_time": 1666776623,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79392,
