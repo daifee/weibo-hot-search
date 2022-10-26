@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666815928674,
+  "endTime": 1666816882954,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19017,
+      "num": 16107,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10640,
       "num": 300081,
       "word": "强国之路正扬帆",
@@ -443,20 +451,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8348,
+      "raw_hot": 10590,
+      "num": 10590,
+      "word": "这是宠物课代表吧",
+      "onboard_time": 1666816630,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 8405,
       "num": 10004,
       "word": "美考虑向乌提供库存十年老式防空导弹",
       "onboard_time": 1666812491,
       "rank": 47,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 7363,
-      "num": 8966,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

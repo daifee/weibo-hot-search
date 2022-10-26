@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/24 00:36:33 ~ 2022/10/27 04:25:28
+本榜单时间：2022/10/24 00:36:33 ~ 2022/10/27 04:41:22
 </p>
 </blockquote>
 <p>
@@ -4191,6 +4191,12 @@ Gemini幸运杯（热度：64707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%84%B1%E9%98%B3%E6%B9%96%E7%8E%B0%E5%B7%A8%E5%9E%8B%E5%9C%B0%E7%AC%BC%E9%98%B5%23" target="weibo">
+官方回应鄱阳湖现巨型地笼阵（热度：19017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E7%AA%81%E5%8F%91%E7%99%AB%E7%97%AB%E8%BD%A6%E7%AB%99%E5%91%98%E5%B7%A5%E5%90%88%E5%8A%9B%E6%95%91%E6%8F%B4%23" target="weibo">
 乘客突发癫痫车站员工合力救援（热度：18597）
 </a>
@@ -4263,6 +4269,12 @@ Gemini幸运杯（热度：64707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%AE%A0%E7%89%A9%E8%AF%BE%E4%BB%A3%E8%A1%A8%E5%90%A7%23" target="weibo">
+这是宠物课代表吧（热度：10590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E6%96%B0%E5%89%A7%E5%B7%A6%E5%8F%B3%E4%B8%BA%E7%94%B7%23" target="weibo">
 乔欣新剧左右为男（热度：10002）
 </a>
@@ -4282,7 +4294,7 @@ Gemini幸运杯（热度：64707）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%80%83%E8%99%91%E5%90%91%E4%B9%8C%E6%8F%90%E4%BE%9B%E5%BA%93%E5%AD%98%E5%8D%81%E5%B9%B4%E8%80%81%E5%BC%8F%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%23" target="weibo">
-美考虑向乌提供库存十年老式防空导弹（热度：8348）
+美考虑向乌提供库存十年老式防空导弹（热度：8405）
 </a>
 </li>
 
@@ -4307,12 +4319,6 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA2035%E5%B9%B4%E7%9A%84%E7%BE%8E%E5%A5%BD%E4%B8%AD%E5%9B%BD%E5%9B%A2%E7%BB%93%E5%A5%8B%E6%96%97%23" target="weibo">
 为2035年的美好中国团结奋斗（热度：7463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%84%B1%E9%98%B3%E6%B9%96%E7%8E%B0%E5%B7%A8%E5%9E%8B%E5%9C%B0%E7%AC%BC%E9%98%B5%23" target="weibo">
-官方回应鄱阳湖现巨型地笼阵（热度：7363）
 </a>
 </li>
 
