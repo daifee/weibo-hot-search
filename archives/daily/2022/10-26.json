@@ -1,7 +1,15 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666788867921,
+  "endTime": 1666790801553,
   "band_list": [
+    {
+      "raw_hot": 2607785,
+      "num": 309883,
+      "word": "芋圆cp官宣",
+      "onboard_time": 1666789703,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2368107,
       "num": 898716,
@@ -163,8 +171,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710935,
+      "num": 304614,
+      "word": "六万cp官宣",
+      "onboard_time": 1666790605,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702300,
-      "num": 213287,
+      "num": 285223,
       "word": "迪丽热巴直播",
       "onboard_time": 1666784363,
       "rank": 10,
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 701260,
-      "num": 285994,
+      "num": 296788,
       "word": "福州暂停一切聚集性活动",
       "onboard_time": 1666784124,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700262,
+      "num": 308229,
+      "word": "小说里的女将军有脸了",
+      "onboard_time": 1666787424,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 693999,
@@ -209,14 +233,6 @@
       "onboard_time": 1666772123,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629925,
-      "num": 279678,
-      "word": "小说里的女将军有脸了",
-      "onboard_time": 1666787424,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 621728,
@@ -291,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563102,
+      "num": 297995,
+      "word": "C盘一下子就不红了",
+      "onboard_time": 1666788804,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 535692,
       "num": 272279,
       "word": "iPhone15Pro或配8G运存",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 522142,
-      "num": 224713,
+      "num": 276976,
       "word": "女子晒连续286天晚10点睡觉变化",
       "onboard_time": 1666778304,
       "rank": 21,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512440,
+      "num": 291380,
+      "word": "男子意外失忆与家人失联23年",
+      "onboard_time": 1666786226,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511617,
       "num": 511617,
       "word": "父母玩手机10个月宝宝两边刷存在感",
@@ -353,6 +385,14 @@
       "onboard_time": 1666748486,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 498062,
+      "num": 280487,
+      "word": "张根源亲了李聂",
+      "onboard_time": 1666789646,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 496588,
@@ -523,14 +563,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 381968,
-      "num": 212730,
-      "word": "男子意外失忆与家人失联23年",
-      "onboard_time": 1666786226,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380667,
       "num": 230719,
       "word": "两只狗用中文交流的原因",
@@ -577,6 +609,14 @@
       "onboard_time": 1666773806,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354954,
+      "num": 290282,
+      "word": "越喜欢一个人越想要远离",
+      "onboard_time": 1666787963,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 351064,
@@ -747,6 +787,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 276480,
+      "num": 276480,
+      "word": "中国共产党章程发布",
+      "onboard_time": 1666789765,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 275044,
+      "num": 275044,
+      "word": "公猫和同伴吵架被气翻倒在地",
+      "onboard_time": 1666785683,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274092,
       "num": 212595,
       "word": "丢失6年狗子找回家蹲门口等主人",
@@ -779,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261185,
-      "num": 261185,
+      "raw_hot": 261194,
+      "num": 261194,
       "word": "心动的信号",
       "onboard_time": 1666783285,
       "rank": 22,
@@ -809,6 +865,14 @@
       "onboard_time": 1666710748,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 251246,
+      "num": 251246,
+      "word": "正确打开白衬衫的方式",
+      "onboard_time": 1666788924,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251097,
@@ -851,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237261,
+      "num": 237261,
+      "word": "西宁回应群众买菜难等问题",
+      "onboard_time": 1666787003,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237008,
       "num": 237008,
       "word": "女子用柚子皮自制精美茶罐",
@@ -867,20 +939,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 231342,
-      "num": 231342,
-      "word": "公猫和同伴吵架被气翻倒在地",
-      "onboard_time": 1666785683,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226555,
       "num": 226555,
       "word": "男子16岁因亲人一句埋怨离家16年",
       "onboard_time": 1666741882,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223122,
+      "num": 223122,
+      "word": "张杰值得更好的发行一周年",
+      "onboard_time": 1666787844,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 223101,
@@ -897,6 +969,14 @@
       "onboard_time": 1666709367,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 219039,
+      "num": 251577,
+      "word": "恋与制作人抄袭xxxHOLiC",
+      "onboard_time": 1666790124,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 218725,
@@ -924,7 +1004,7 @@
     },
     {
       "raw_hot": 213369,
-      "num": 213369,
+      "num": 251307,
       "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
       "onboard_time": 1666784545,
       "rank": 9,
@@ -1027,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173787,
-      "num": 173787,
-      "word": "西宁回应群众买菜难等问题",
-      "onboard_time": 1666787003,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172617,
       "num": 172617,
       "word": "心动的信号第五季友情",
@@ -1051,28 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168246,
-      "num": 168246,
-      "word": "越喜欢一个人越想要远离",
-      "onboard_time": 1666787963,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163928,
-      "num": 163928,
-      "word": "张杰值得更好的发行一周年",
-      "onboard_time": 1666787844,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 157157,
@@ -1179,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130469,
+      "num": 130469,
+      "word": "租房记住这24点就够了",
+      "onboard_time": 1666785383,
+      "rank": 29,
+      "category": "其它"
+    },
+    {
       "raw_hot": 130460,
       "num": 130460,
       "word": "杨洋会因为健康状况焦虑",
@@ -1235,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118681,
-      "num": 118681,
-      "word": "租房记住这24点就够了",
-      "onboard_time": 1666785383,
-      "rank": 29,
-      "category": "其它"
-    },
-    {
       "raw_hot": 118022,
       "num": 118022,
       "word": "受伤猛禽降落幼儿园被救助",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1666771646,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109370,
+      "num": 109370,
+      "word": "外国网友出攻略教学跨国薅羊毛",
+      "onboard_time": 1666789646,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107275,
@@ -1451,6 +1515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 81466,
+      "num": 81466,
+      "word": "宁波男篮vs广东男篮",
+      "onboard_time": 1666786525,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80607,
       "num": 99991,
       "word": "世界杯将是莫德里奇国家队谢幕战",
@@ -1571,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71850,
-      "num": 71850,
-      "word": "宁波男篮vs广东男篮",
-      "onboard_time": 1666786525,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71657,
       "num": 71657,
       "word": "香山红叶把秋日氛围拉满了",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1666747644,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 69424,
-      "num": 69424,
-      "word": "C盘一下子就不红了",
-      "onboard_time": 1666788804,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 68236,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1666710268,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 63600,
+      "num": 63600,
+      "word": "喀纳斯大雪纷飞似水墨仙境",
+      "onboard_time": 1666790786,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 58920,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1666685544,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29730,
+      "num": 275137,
+      "word": "退役军人为4岁患儿捐造血干细胞",
+      "onboard_time": 1666789285,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29404,
