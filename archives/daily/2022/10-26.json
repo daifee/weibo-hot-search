@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666763300568,
+  "endTime": 1666766035843,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113507,
+      "num": 250656,
+      "word": "西宁防疫",
+      "onboard_time": 1666763544,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1046744,
       "num": 570268,
       "word": "俄罗斯已通知美国即将举行年度军演",
@@ -81,6 +89,22 @@
       "onboard_time": 1666712185,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 833600,
+      "num": 833600,
+      "word": "年薪120万你愿意去守塔吗",
+      "onboard_time": 1666764685,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 814973,
+      "num": 283568,
+      "word": "富士康辟谣",
+      "onboard_time": 1666764564,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 812609,
@@ -145,6 +169,14 @@
       "onboard_time": 1666732391,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608693,
+      "num": 608693,
+      "word": "马龙说不确定巴黎奥运能看到自己",
+      "onboard_time": 1666761565,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 573435,
@@ -289,14 +321,6 @@
       "onboard_time": 1666753404,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429156,
-      "num": 429156,
-      "word": "马龙说不确定巴黎奥运能看到自己",
-      "onboard_time": 1666761565,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 417493,
@@ -499,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253735,
+      "num": 253735,
+      "word": "小说里走出来的贵公子",
+      "onboard_time": 1666765705,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251097,
       "num": 251097,
       "word": "孙子见奶奶偷玩游戏眉头紧皱",
@@ -545,6 +577,14 @@
       "onboard_time": 1666709367,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218725,
+      "num": 218725,
+      "word": "马龙说自己属于乒乓球",
+      "onboard_time": 1666763783,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 213695,
@@ -595,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185254,
+      "num": 185254,
+      "word": "文俊辉女友视角氛围大片",
+      "onboard_time": 1666765465,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "苏纳克与拜登通电话",
@@ -609,6 +657,14 @@
       "onboard_time": 1666757907,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178625,
+      "num": 178625,
+      "word": "狗狗的喜恶真的很明显",
+      "onboard_time": 1666760907,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 175214,
@@ -627,20 +683,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170310,
-      "num": 170310,
-      "word": "狗狗的喜恶真的很明显",
-      "onboard_time": 1666760907,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 167954,
       "num": 167954,
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167532,
+      "num": 167532,
+      "word": "今年最被低估的一部青春剧",
+      "onboard_time": 1666763424,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163990,
+      "num": 163990,
+      "word": "别以为一直坐着腿就休息了",
+      "onboard_time": 1666762164,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 153289,
@@ -683,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132241,
-      "num": 132241,
-      "word": "别以为一直坐着腿就休息了",
-      "onboard_time": 1666762164,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131234,
       "num": 131234,
       "word": "林高远参加亚洲杯",
@@ -721,6 +777,14 @@
       "onboard_time": 1666704689,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 125507,
+      "num": 125507,
+      "word": "女子用柚子皮自制精美茶罐",
+      "onboard_time": 1666763724,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124444,
@@ -795,6 +859,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 91004,
+      "num": 91004,
+      "word": "为劝阻朋友酒驾俩男子当街扭打",
+      "onboard_time": 1666765045,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 87025,
       "num": 87025,
       "word": "装修的反面教材",
@@ -843,20 +915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82753,
+      "num": 82753,
+      "word": "太阳战胜金州勇士",
+      "onboard_time": 1666762643,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81690,
       "num": 81690,
       "word": "特拉斯发表告别演说",
       "onboard_time": 1666711826,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 81602,
-      "num": 81602,
-      "word": "太阳战胜金州勇士",
-      "onboard_time": 1666762643,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80607,
@@ -1019,20 +1091,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51275,
+      "num": 642498,
+      "word": "二十大报告双语热词",
+      "onboard_time": 1666742063,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 50162,
       "num": 50162,
       "word": "卡塔尔世界杯亮眼的中国建造",
       "onboard_time": 1666707747,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49816,
-      "num": 625976,
-      "word": "二十大报告双语热词",
-      "onboard_time": 1666742063,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 48943,
@@ -1089,6 +1161,14 @@
       "onboard_time": 1666695384,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38336,
+      "num": 268445,
+      "word": "小伙3个月将废屋改成向往的小院",
+      "onboard_time": 1666764444,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37988,

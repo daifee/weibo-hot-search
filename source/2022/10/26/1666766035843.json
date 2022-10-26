@@ -1,0 +1,410 @@
+{
+  "runTime": 1666766035843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833600,
+        "num": 833600,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 719898,
+        "num": 719898,
+        "word": "他没有心跳却能像正常人一样生活",
+        "onboard_time": 1666749623,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51275,
+        "num": 642498,
+        "word": "二十大报告双语热词",
+        "onboard_time": 1666742063,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1145022,
+        "num": 628346,
+        "word": "全球最脏的人被迫洗澡后去世",
+        "onboard_time": 1666750943,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608693,
+        "num": 608693,
+        "word": "马龙说不确定巴黎奥运能看到自己",
+        "onboard_time": 1666761565,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566684,
+        "num": 566684,
+        "word": "王嘉尔疑似出席S12决赛",
+        "onboard_time": 1666755505,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 491032,
+        "num": 491032,
+        "word": "女子鼻子长疙瘩以为黑头竟是癌症",
+        "onboard_time": 1666753043,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397210,
+        "num": 397210,
+        "word": "女子抬头猛然发现老人倒悬窗外",
+        "onboard_time": 1666759167,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382058,
+        "num": 382058,
+        "word": "查理苏",
+        "onboard_time": 1666760189,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285940,
+        "num": 285940,
+        "word": "德总统访乌躲入防空洞一个半小时",
+        "onboard_time": 1666758391,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 814973,
+        "num": 283568,
+        "word": "富士康辟谣",
+        "onboard_time": 1666764564,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751109,
+        "num": 281306,
+        "word": "张艺兴禁止已读不回",
+        "onboard_time": 1666760486,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643708,
+        "num": 276220,
+        "word": "颖儿回应千山暮雪时发胖",
+        "onboard_time": 1666757552,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404708,
+        "num": 269870,
+        "word": "两千游客因疫情在船上隔离",
+        "onboard_time": 1666742724,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38336,
+        "num": 268445,
+        "word": "小伙3个月将废屋改成向往的小院",
+        "onboard_time": 1666764444,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312503,
+        "num": 262307,
+        "word": "Angelababy嘉人十一月刊封面",
+        "onboard_time": 1666762823,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261137,
+        "num": 261137,
+        "word": "翻篇是一种很重要的能力",
+        "onboard_time": 1666761984,
+        "rank": 16,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 257743,
+        "num": 257743,
+        "word": "台积电发内部信鼓励员工休假",
+        "onboard_time": 1666757188,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 257014,
+        "num": 257014,
+        "word": "父母玩手机10个月宝宝两边刷存在感",
+        "onboard_time": 1666751843,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253735,
+        "num": 253735,
+        "word": "小说里走出来的贵公子",
+        "onboard_time": 1666765705,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1113507,
+        "num": 250656,
+        "word": "西宁防疫",
+        "onboard_time": 1666763544,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247008,
+        "num": 247008,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1666755685,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228712,
+        "num": 228712,
+        "word": "汤普森被驱逐",
+        "onboard_time": 1666756645,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218725,
+        "num": 218725,
+        "word": "马龙说自己属于乒乓球",
+        "onboard_time": 1666763783,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208328,
+        "num": 208328,
+        "word": "不吃早饭或晚饭哪个对身体影响更大",
+        "onboard_time": 1666758989,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185254,
+        "num": 185254,
+        "word": "文俊辉女友视角氛围大片",
+        "onboard_time": 1666765465,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184245,
+        "num": 184245,
+        "word": "电动车屋内充电2分钟连爆15次",
+        "onboard_time": 1666757547,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178625,
+        "num": 178625,
+        "word": "狗狗的喜恶真的很明显",
+        "onboard_time": 1666760907,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176092,
+        "num": 176092,
+        "word": "成龙发文感谢大学生",
+        "onboard_time": 1666755806,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169975,
+        "num": 169975,
+        "word": "哈利波特",
+        "onboard_time": 1666755023,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167532,
+        "num": 167532,
+        "word": "今年最被低估的一部青春剧",
+        "onboard_time": 1666763424,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163990,
+        "num": 163990,
+        "word": "别以为一直坐着腿就休息了",
+        "onboard_time": 1666762164,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157867,
+        "num": 157867,
+        "word": "快乐回来啦",
+        "onboard_time": 1666752445,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156002,
+        "num": 156002,
+        "word": "法证先锋5今晚开播",
+        "onboard_time": 1666755391,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150588,
+        "num": 150588,
+        "word": "俄罗斯已通知美国即将举行年度军演",
+        "onboard_time": 1666748664,
+        "rank": 34,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 143028,
+        "num": 143028,
+        "word": "林徽因大概会爱上这座院子",
+        "onboard_time": 1666754964,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130079,
+        "num": 130079,
+        "word": "郑州疫情防控",
+        "onboard_time": 1666709129,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127937,
+        "num": 127937,
+        "word": "iPhone15Pro或配8G运存",
+        "onboard_time": 1666750404,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125507,
+        "num": 125507,
+        "word": "女子用柚子皮自制精美茶罐",
+        "onboard_time": 1666763724,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116238,
+        "num": 116238,
+        "word": "孙子见奶奶偷玩游戏眉头紧皱",
+        "onboard_time": 1666756166,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113489,
+        "num": 113489,
+        "word": "心动的信号第五季友情",
+        "onboard_time": 1666759708,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113428,
+        "num": 113428,
+        "word": "新款iPadPro及iPad10首销破发",
+        "onboard_time": 1666752264,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104519,
+        "num": 104519,
+        "word": "哺乳期女子偷点奶茶被送餐老公抓包",
+        "onboard_time": 1666741522,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101296,
+        "num": 101296,
+        "word": "电影重启2定档",
+        "onboard_time": 1666757552,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110192,
+        "num": 100936,
+        "word": "苹果称将遵守欧盟USB-C充电法",
+        "onboard_time": 1666755926,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100275,
+        "num": 100275,
+        "word": "BLACKPINK新歌MV播放量破2亿",
+        "onboard_time": 1666754423,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99745,
+        "num": 99745,
+        "word": "他从火光中走来",
+        "onboard_time": 1666756525,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95357,
+        "num": 95357,
+        "word": "北京环球影城主题公园暂时关闭",
+        "onboard_time": 1666751484,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 91004,
+        "num": 91004,
+        "word": "为劝阻朋友酒驾俩男子当街扭打",
+        "onboard_time": 1666765045,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 82753,
+        "num": 82753,
+        "word": "太阳战胜金州勇士",
+        "onboard_time": 1666762643,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻二十大精神有16个字很重要#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666763300568,
+  "endTime": 1666766035843,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113507,
+      "num": 250656,
+      "word": "西宁防疫",
+      "onboard_time": 1666763544,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111104,
       "num": 82727,
       "word": "举重妖精金福珠是甜剧天花板吧",
@@ -368,6 +376,22 @@
       "word": "官方回应开封市区巨响",
       "onboard_time": 1666701143,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833600,
+      "num": 833600,
+      "word": "年薪120万你愿意去守塔吗",
+      "onboard_time": 1666764685,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 814973,
+      "num": 283568,
+      "word": "富士康辟谣",
+      "onboard_time": 1666764564,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -585,6 +609,14 @@
       "onboard_time": 1666618644,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608693,
+      "num": 608693,
+      "word": "马龙说不确定巴黎奥运能看到自己",
+      "onboard_time": 1666761565,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 598254,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1666625007,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429156,
-      "num": 429156,
-      "word": "马龙说不确定巴黎奥运能看到自己",
-      "onboard_time": 1666761565,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 428527,
@@ -2011,6 +2035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253735,
+      "num": 253735,
+      "word": "小说里走出来的贵公子",
+      "onboard_time": 1666765705,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253319,
       "num": 225565,
       "word": "养猫人囤猫砂有多硬核",
@@ -2307,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218725,
+      "num": 218725,
+      "word": "马龙说自己属于乒乓球",
+      "onboard_time": 1666763783,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215726,
       "num": 75677,
       "word": "未定事件簿",
@@ -2579,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185254,
+      "num": 185254,
+      "word": "文俊辉女友视角氛围大片",
+      "onboard_time": 1666765465,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "苏纳克与拜登通电话",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1666661422,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178625,
+      "num": 178625,
+      "word": "狗狗的喜恶真的很明显",
+      "onboard_time": 1666760907,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 178534,
@@ -2723,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170310,
-      "num": 170310,
-      "word": "狗狗的喜恶真的很明显",
-      "onboard_time": 1666760907,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 170303,
       "num": 114741,
       "word": "莲花楼",
@@ -2763,6 +2811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167532,
+      "num": 167532,
+      "word": "今年最被低估的一部青春剧",
+      "onboard_time": 1666763424,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167211,
       "num": 167211,
       "word": "C罗重回曼联一线队训练",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1666535604,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163990,
+      "num": 163990,
+      "word": "别以为一直坐着腿就休息了",
+      "onboard_time": 1666762164,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 163030,
@@ -3107,14 +3171,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 132241,
-      "num": 132241,
-      "word": "别以为一直坐着腿就休息了",
-      "onboard_time": 1666762164,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132058,
       "num": 29146,
       "word": "72岁奶奶1分钟剪出路人侧颜",
@@ -3193,6 +3249,14 @@
       "onboard_time": 1666617565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125507,
+      "num": 125507,
+      "word": "女子用柚子皮自制精美茶罐",
+      "onboard_time": 1666763724,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125293,
@@ -3675,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91004,
+      "num": 91004,
+      "word": "为劝阻朋友酒驾俩男子当街扭打",
+      "onboard_time": 1666765045,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 90221,
       "num": 90221,
       "word": "这就是被财神爷吻过的嗓音吧",
@@ -3795,6 +3867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82753,
+      "num": 82753,
+      "word": "太阳战胜金州勇士",
+      "onboard_time": 1666762643,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82623,
       "num": 68592,
       "word": "小时候有多期待放学",
@@ -3841,14 +3921,6 @@
       "onboard_time": 1666711826,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 81602,
-      "num": 81602,
-      "word": "太阳战胜金州勇士",
-      "onboard_time": 1666762643,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80607,
@@ -4267,6 +4339,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 51275,
+      "num": 642498,
+      "word": "二十大报告双语热词",
+      "onboard_time": 1666742063,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51129,
       "num": 21163,
       "word": "你的秋裤啥时候上线",
@@ -4281,14 +4361,6 @@
       "onboard_time": 1666567999,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49816,
-      "num": 625976,
-      "word": "二十大报告双语热词",
-      "onboard_time": 1666742063,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 49608,
@@ -4393,6 +4465,14 @@
       "onboard_time": 1666592243,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 38336,
+      "num": 268445,
+      "word": "小伙3个月将废屋改成向往的小院",
+      "onboard_time": 1666764444,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36317,
