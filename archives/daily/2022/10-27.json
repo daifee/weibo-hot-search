@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666812882933,
+  "endTime": 1666815928674,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -449,6 +449,14 @@
       "onboard_time": 1666812491,
       "rank": 47,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 7363,
+      "num": 8966,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

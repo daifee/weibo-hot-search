@@ -1,0 +1,410 @@
+{
+  "runTime": 1666815928674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 37416,
+        "num": 37416,
+        "word": "女子患红斑狼疮跑马拉松对抗病魔",
+        "onboard_time": 1666792888,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19071,
+        "num": 19071,
+        "word": "男子进店求助食物老板二话没说就给",
+        "onboard_time": 1666783705,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 5243,
+        "num": 19045,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 49535,
+        "num": 19013,
+        "word": "C盘一下子就不红了",
+        "onboard_time": 1666788804,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 47837,
+        "num": 18943,
+        "word": "RNG被曝将被竞拍解散",
+        "onboard_time": 1666802660,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34172,
+        "num": 18858,
+        "word": "恋与制作人抄袭xxxHOLiC",
+        "onboard_time": 1666790124,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31659,
+        "num": 18836,
+        "word": "主人扫脸打不开门禁但狗子可以",
+        "onboard_time": 1666798225,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30853,
+        "num": 18769,
+        "word": "男子意外失忆与家人失联23年",
+        "onboard_time": 1666786226,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27932,
+        "num": 18734,
+        "word": "法证先锋5第一案全员恶人",
+        "onboard_time": 1666800202,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27421,
+        "num": 18654,
+        "word": "始祖鸟购买经典款将需要配货",
+        "onboard_time": 1666797267,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 18593,
+        "word": "中方就台大科考船遭日方干扰提出交涉",
+        "onboard_time": 1666799364,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28460,
+        "num": 18528,
+        "word": "侃爷跌出福布斯亿万富豪榜",
+        "onboard_time": 1666805296,
+        "rank": 11,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 26502,
+        "num": 18458,
+        "word": "女子晒连续286天晚10点睡觉变化",
+        "onboard_time": 1666778304,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 18405,
+        "word": "越喜欢一个人越想要远离",
+        "onboard_time": 1666787963,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24250,
+        "num": 18365,
+        "word": "东北一小区喷泉池里摆满晾晒白菜",
+        "onboard_time": 1666793547,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23407,
+        "num": 18327,
+        "word": "很担心驿站老板的精神状态",
+        "onboard_time": 1666798406,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20457,
+        "num": 18259,
+        "word": "黄宗泽新剧时隔11年还是叫星柏",
+        "onboard_time": 1666795228,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19270,
+        "num": 18223,
+        "word": "这就是猫猫祟祟吧",
+        "onboard_time": 1666800383,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18177,
+        "num": 18177,
+        "word": "小说里的女将军有脸了",
+        "onboard_time": 1666787424,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16457,
+        "num": 16457,
+        "word": "郑州多区调整疫情防控政策",
+        "onboard_time": 1666778004,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17106,
+        "num": 16423,
+        "word": "有打戏nb症的演员",
+        "onboard_time": 1666802598,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16233,
+        "num": 16233,
+        "word": "恋与制作人道歉",
+        "onboard_time": 1666795046,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16052,
+        "num": 16052,
+        "word": "福州暂停一切聚集性活动",
+        "onboard_time": 1666784124,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15320,
+        "num": 15320,
+        "word": "中国共产党章程发布",
+        "onboard_time": 1666789765,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 14918,
+        "num": 14918,
+        "word": "大学生隔4个月返校宿舍长出辣椒",
+        "onboard_time": 1666781243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14080,
+        "num": 14080,
+        "word": "再便秘就不礼貌了",
+        "onboard_time": 1666791746,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12847,
+        "num": 12847,
+        "word": "西宁回应群众买菜难等问题",
+        "onboard_time": 1666787003,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12569,
+        "num": 12569,
+        "word": "这就是爸妈最社死的瞬间吧",
+        "onboard_time": 1666796490,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11996,
+        "num": 11996,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1666784363,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11718,
+        "num": 11718,
+        "word": "张艺兴面纱提名2022亚洲最佳流行音乐",
+        "onboard_time": 1666805715,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34175,
+        "num": 11570,
+        "word": "芋圆cp官宣",
+        "onboard_time": 1666789703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10994,
+        "num": 10994,
+        "word": "该怎么在一段感情里减少内耗",
+        "onboard_time": 1666791565,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10536,
+        "num": 10536,
+        "word": "我的精神状态靠买东西支撑",
+        "onboard_time": 1666791387,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25628,
+        "num": 10519,
+        "word": "心动的信号5成了四对",
+        "onboard_time": 1666792585,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10409,
+        "num": 10409,
+        "word": "公猫和同伴吵架被气翻倒在地",
+        "onboard_time": 1666785683,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10233,
+        "num": 10233,
+        "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
+        "onboard_time": 1666784545,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20098,
+        "num": 10201,
+        "word": "雪球",
+        "onboard_time": 1666793364,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10072,
+        "num": 10072,
+        "word": "女孩吃假减肥药致精神分裂",
+        "onboard_time": 1666773806,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9010,
+        "num": 9010,
+        "word": "研究称火星下面或藏着生命",
+        "onboard_time": 1666780163,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 14689,
+        "num": 9009,
+        "word": "六万cp官宣",
+        "onboard_time": 1666790605,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11431,
+        "num": 9009,
+        "word": "王一博我的朋友眼镜造型剧照",
+        "onboard_time": 1666792585,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9391,
+        "num": 9009,
+        "word": "宋茜新剧穿搭",
+        "onboard_time": 1666799243,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12614,
+        "num": 9009,
+        "word": "肉粽cp",
+        "onboard_time": 1666791326,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9161,
+        "num": 9008,
+        "word": "宫胁咲良新歌冠军秀直拍",
+        "onboard_time": 1666796130,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9008,
+        "num": 9007,
+        "word": "山西教资",
+        "onboard_time": 1666794026,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 11253,
+        "num": 9004,
+        "word": "想谈恋爱但也就想想",
+        "onboard_time": 1666793728,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8738,
+        "num": 8996,
+        "word": "教大家几个生存技巧",
+        "onboard_time": 1666795707,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8326,
+        "num": 8986,
+        "word": "美考虑向乌提供库存十年老式防空导弹",
+        "onboard_time": 1666812491,
+        "rank": 47,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 7611,
+        "num": 8977,
+        "word": "第五人格",
+        "onboard_time": 1666784843,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7363,
+        "num": 8966,
+        "word": "官方回应鄱阳湖现巨型地笼阵",
+        "onboard_time": 1666815612,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻二十大精神有16个字很重要#"
+    }
+  }
+}
