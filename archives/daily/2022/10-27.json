@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666824221372,
+  "endTime": 1666826829169,
   "band_list": [
     {
       "raw_hot": 1003067,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 477756,
-      "num": 70884,
+      "num": 72179,
       "word": "心动的信号5成了四对",
       "onboard_time": 1666792585,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404355,
+      "num": 404355,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368131,
@@ -35,20 +43,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 351231,
-      "num": 154736,
-      "word": "中方就台大科考船遭日方干扰提出交涉",
-      "onboard_time": 1666799364,
-      "rank": 20,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 346151,
-      "num": 142126,
+      "raw_hot": 359168,
+      "num": 184096,
       "word": "RNG被曝将被竞拍解散",
       "onboard_time": 1666802660,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351231,
+      "num": 179115,
+      "word": "中方就台大科考船遭日方干扰提出交涉",
+      "onboard_time": 1666799364,
+      "rank": 20,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 338544,
@@ -59,11 +67,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 313896,
-      "num": 313896,
-      "word": "女子患红斑狼疮跑马拉松对抗病魔",
-      "onboard_time": 1666792888,
-      "rank": 0,
+      "raw_hot": 331782,
+      "num": 263835,
+      "word": "主人扫脸打不开门禁但狗子可以",
+      "onboard_time": 1666798225,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -75,14 +83,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263835,
-      "num": 263835,
-      "word": "主人扫脸打不开门禁但狗子可以",
-      "onboard_time": 1666798225,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242385,
       "num": 63298,
       "word": "雪球",
@@ -91,20 +91,68 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238898,
+      "num": 177997,
+      "word": "官方回应鄱阳湖现巨型地笼阵",
+      "onboard_time": 1666815612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234017,
+      "num": 177756,
+      "word": "女子晒连续286天晚10点睡觉变化",
+      "onboard_time": 1666778304,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225979,
+      "num": 127424,
+      "word": "北京西城新增感染者4例",
+      "onboard_time": 1666822152,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223138,
+      "num": 180028,
+      "word": "东北一小区喷泉池里摆满晾晒白菜",
+      "onboard_time": 1666793547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208050,
-      "num": 55146,
+      "num": 60982,
       "word": "六万cp官宣",
       "onboard_time": 1666790605,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 203107,
-      "num": 174749,
-      "word": "女子晒连续286天晚10点睡觉变化",
-      "onboard_time": 1666778304,
-      "rank": 10,
+      "raw_hot": 208019,
+      "num": 179579,
+      "word": "法证先锋5第一案全员恶人",
+      "onboard_time": 1666800202,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189784,
+      "num": 189784,
+      "word": "奶奶为孙女打造三轮车公主房",
+      "onboard_time": 1666817110,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180848,
+      "num": 180848,
+      "word": "巴萨vs拜仁",
+      "onboard_time": 1666826059,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 180051,
@@ -131,12 +179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169893,
-      "num": 169893,
-      "word": "法证先锋5第一案全员恶人",
-      "onboard_time": 1666800202,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 177405,
+      "num": 177405,
+      "word": "2022的第300天",
+      "onboard_time": 1666826300,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163129,
+      "num": 163129,
+      "word": "男子意外失忆与家人失联23年",
+      "onboard_time": 1666786226,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163008,
@@ -171,16 +227,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141418,
-      "num": 141418,
-      "word": "男子意外失忆与家人失联23年",
-      "onboard_time": 1666786226,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139553,
-      "num": 89647,
+      "num": 118039,
       "word": "侃爷跌出福布斯亿万富豪榜",
       "onboard_time": 1666805296,
       "rank": 11,
@@ -195,20 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137138,
-      "num": 137138,
-      "word": "东北一小区喷泉池里摆满晾晒白菜",
-      "onboard_time": 1666793547,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133918,
       "num": 91860,
       "word": "有打戏nb症的演员",
       "onboard_time": 1666802598,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132244,
+      "num": 132244,
+      "word": "赵露思直播",
+      "onboard_time": 1666825639,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 130862,
@@ -219,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129772,
+      "num": 129772,
+      "word": "大学生隔4个月返校宿舍长出辣椒",
+      "onboard_time": 1666781243,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127197,
       "num": 313116,
       "word": "中国共产党章程发布",
@@ -227,12 +283,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 126635,
-      "num": 70126,
-      "word": "官方回应鄱阳湖现巨型地笼阵",
-      "onboard_time": 1666815612,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 125380,
+      "num": 125380,
+      "word": "虞书欣最新翻跳PinkVenom",
+      "onboard_time": 1666825577,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125352,
@@ -241,14 +297,6 @@
       "onboard_time": 1666794026,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 122071,
-      "num": 122071,
-      "word": "奶奶为孙女打造三轮车公主房",
-      "onboard_time": 1666817110,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119813,
@@ -265,6 +313,22 @@
       "onboard_time": 1666791746,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112533,
+      "num": 112533,
+      "word": "芋圆cp",
+      "onboard_time": 1666826658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107357,
+      "num": 107357,
+      "word": "王一博我的朋友眼镜造型剧照",
+      "onboard_time": 1666792585,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 91148,
@@ -291,28 +355,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 83249,
-      "num": 52978,
-      "word": "北京西城新增感染者4例",
-      "onboard_time": 1666822152,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82856,
-      "num": 82856,
-      "word": "王一博我的朋友眼镜造型剧照",
-      "onboard_time": 1666792585,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 82566,
       "num": 82566,
       "word": "恋与制作人道歉",
       "onboard_time": 1666795046,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78076,
+      "num": 78076,
+      "word": "张艺兴演唱会海外好评度",
+      "onboard_time": 1666823353,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 72983,
@@ -323,19 +379,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72381,
+      "num": 72381,
+      "word": "女孩吃假减肥药致精神分裂",
+      "onboard_time": 1666773806,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72021,
       "num": 72021,
       "word": "西宁回应群众买菜难等问题",
       "onboard_time": 1666787003,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71130,
-      "num": 71130,
-      "word": "大学生隔4个月返校宿舍长出辣椒",
-      "onboard_time": 1666781243,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -363,6 +419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62397,
+      "num": 62397,
+      "word": "NBA",
+      "onboard_time": 1666822032,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60456,
+      "num": 60456,
+      "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
+      "onboard_time": 1666784545,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60340,
       "num": 60340,
       "word": "公猫和同伴吵架被气翻倒在地",
@@ -371,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55545,
-      "num": 55545,
-      "word": "女孩吃假减肥药致精神分裂",
-      "onboard_time": 1666773806,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 59005,
+      "num": 49722,
+      "word": "成毅莲花楼和狗子同步",
+      "onboard_time": 1666826117,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 54972,
@@ -385,14 +457,6 @@
       "onboard_time": 1666805715,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 54641,
-      "num": 54641,
-      "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
-      "onboard_time": 1666784545,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49941,
@@ -435,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43290,
+      "num": 43290,
+      "word": "阿贾克斯vs利物浦",
+      "onboard_time": 1666826239,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42609,
       "num": 42609,
       "word": "新郎娶到相恋5年的姑娘哭花脸",
@@ -449,14 +521,6 @@
       "onboard_time": 1666795707,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35658,
-      "num": 35658,
-      "word": "张艺兴演唱会海外好评度",
-      "onboard_time": 1666823353,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 19788,
@@ -483,7 +547,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11222,
+      "raw_hot": 16026,
       "num": 300081,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
