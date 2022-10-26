@@ -1,0 +1,410 @@
+{
+  "runTime": 1666793153071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743041,
+        "num": 929599,
+        "word": "心动的信号5成了四对",
+        "onboard_time": 1666792585,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525177,
+        "num": 525177,
+        "word": "年薪120万你愿意去守塔吗",
+        "onboard_time": 1666764685,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 21291,
+        "num": 522692,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2296235,
+        "num": 519775,
+        "word": "芋圆cp官宣",
+        "onboard_time": 1666789703,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851008,
+        "num": 517034,
+        "word": "恋与制作人抄袭xxxHOLiC",
+        "onboard_time": 1666790124,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1261300,
+        "num": 513706,
+        "word": "六万cp官宣",
+        "onboard_time": 1666790605,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718840,
+        "num": 510531,
+        "word": "C盘一下子就不红了",
+        "onboard_time": 1666788804,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 510227,
+        "num": 510227,
+        "word": "中国共产党章程发布",
+        "onboard_time": 1666789765,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 428198,
+        "num": 428198,
+        "word": "男子意外失忆与家人失联23年",
+        "onboard_time": 1666786226,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391343,
+        "num": 391343,
+        "word": "越喜欢一个人越想要远离",
+        "onboard_time": 1666787963,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 693691,
+        "num": 389643,
+        "word": "肉粽cp",
+        "onboard_time": 1666791326,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579981,
+        "num": 384328,
+        "word": "小说里的女将军有脸了",
+        "onboard_time": 1666787424,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377569,
+        "num": 377569,
+        "word": "张根源亲了李聂",
+        "onboard_time": 1666789646,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359410,
+        "num": 359410,
+        "word": "福州暂停一切聚集性活动",
+        "onboard_time": 1666784124,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15680,
+        "num": 343212,
+        "word": "女子患红斑狼疮跑马拉松对抗病魔",
+        "onboard_time": 1666792888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337548,
+        "num": 337548,
+        "word": "女子晒连续286天晚10点睡觉变化",
+        "onboard_time": 1666778304,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203905,
+        "num": 203905,
+        "word": "公猫和同伴吵架被气翻倒在地",
+        "onboard_time": 1666785683,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198960,
+        "num": 198960,
+        "word": "再便秘就不礼貌了",
+        "onboard_time": 1666791746,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186099,
+        "num": 186099,
+        "word": "郑州多区调整疫情防控政策",
+        "onboard_time": 1666778004,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 171014,
+        "word": "男子进店求助食物老板二话没说就给",
+        "onboard_time": 1666783705,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 338592,
+        "num": 168907,
+        "word": "王一博我的朋友眼镜造型剧照",
+        "onboard_time": 1666792585,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241724,
+        "num": 166799,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1666784363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225583,
+        "num": 160853,
+        "word": "正确打开白衬衫的方式",
+        "onboard_time": 1666788924,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217656,
+        "num": 157331,
+        "word": "西宁回应群众买菜难等问题",
+        "onboard_time": 1666787003,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155241,
+        "num": 155241,
+        "word": "大学生隔4个月返校宿舍长出辣椒",
+        "onboard_time": 1666781243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142647,
+        "num": 142647,
+        "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
+        "onboard_time": 1666784545,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135837,
+        "num": 135837,
+        "word": "外国网友出攻略教学跨国薅羊毛",
+        "onboard_time": 1666789646,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116590,
+        "num": 116590,
+        "word": "14斤猫压塌简易书架主人崩溃",
+        "onboard_time": 1666774044,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110962,
+        "num": 110962,
+        "word": "该怎么在一段感情里减少内耗",
+        "onboard_time": 1666791565,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104924,
+        "num": 104924,
+        "word": "律师谈男子中奖2.19亿不告诉老婆",
+        "onboard_time": 1666770086,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186067,
+        "num": 102893,
+        "word": "Jennie叼笔盖签名",
+        "onboard_time": 1666781485,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177801,
+        "num": 101101,
+        "word": "张杰值得更好的发行一周年",
+        "onboard_time": 1666787844,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157452,
+        "num": 100977,
+        "word": "秦岚王子异二搭好抓马",
+        "onboard_time": 1666791446,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99161,
+        "num": 99161,
+        "word": "步步惊心网飞将上线",
+        "onboard_time": 1666781303,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98523,
+        "num": 98523,
+        "word": "租房记住这24点就够了",
+        "onboard_time": 1666785383,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 97760,
+        "num": 97760,
+        "word": "女孩吃假减肥药致精神分裂",
+        "onboard_time": 1666773806,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96825,
+        "num": 96825,
+        "word": "我的精神状态靠买东西支撑",
+        "onboard_time": 1666791387,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94509,
+        "num": 94509,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1666773563,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94359,
+        "num": 94359,
+        "word": "新郎娶到相恋5年的姑娘哭花脸",
+        "onboard_time": 1666772123,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84747,
+        "num": 84747,
+        "word": "高校男生操场舞灯光醒狮引围观",
+        "onboard_time": 1666792467,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 97181,
+        "num": 84604,
+        "word": "密室大逃脱0713体验版定档",
+        "onboard_time": 1666772905,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84359,
+        "num": 84359,
+        "word": "第五人格",
+        "onboard_time": 1666784843,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84060,
+        "num": 84060,
+        "word": "我为LPL扛大旗",
+        "onboard_time": 1666775244,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79926,
+        "num": 79926,
+        "word": "这才是我想要的刘海",
+        "onboard_time": 1666777164,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49935,
+        "num": 78682,
+        "word": "退役军人为4岁患儿捐造血干细胞",
+        "onboard_time": 1666789285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78340,
+        "num": 78340,
+        "word": "研究称火星下面或藏着生命",
+        "onboard_time": 1666780163,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 77587,
+        "num": 77587,
+        "word": "宁波男篮vs广东男篮",
+        "onboard_time": 1666786525,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71242,
+        "num": 71242,
+        "word": "8岁女孩拿出全部积蓄为姥爷治病",
+        "onboard_time": 1666774644,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62806,
+        "num": 70752,
+        "word": "西宁疫情防控工作新闻发布会",
+        "onboard_time": 1666779324,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300701,
+        "num": 70558,
+        "word": "金佳悦选了陈宗伦",
+        "onboard_time": 1666791627,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}

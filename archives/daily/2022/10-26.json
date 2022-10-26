@@ -1,10 +1,10 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666792492975,
+  "endTime": 1666793153071,
   "band_list": [
     {
       "raw_hot": 2799930,
-      "num": 458411,
+      "num": 519775,
       "word": "芋圆cp官宣",
       "onboard_time": 1666789703,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1423537,
-      "num": 444214,
+      "num": 513706,
       "word": "六万cp官宣",
       "onboard_time": 1666790605,
       "rank": 5,
@@ -123,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 833793,
-      "num": 450611,
+      "raw_hot": 851008,
+      "num": 517034,
       "word": "恋与制作人抄袭xxxHOLiC",
       "onboard_time": 1666790124,
       "rank": 18,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 743041,
+      "num": 929599,
+      "word": "心动的信号5成了四对",
+      "onboard_time": 1666792585,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736988,
       "num": 235931,
       "word": "13岁男孩挤痘引发脑膜炎",
@@ -185,6 +193,14 @@
       "onboard_time": 1666711105,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718840,
+      "num": 510531,
+      "word": "C盘一下子就不红了",
+      "onboard_time": 1666788804,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 702300,
@@ -211,20 +227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 696723,
-      "num": 441470,
-      "word": "C盘一下子就不红了",
-      "onboard_time": 1666788804,
-      "rank": 48,
-      "category": "其它"
-    },
-    {
       "raw_hot": 693999,
       "num": 348229,
       "word": "哺乳期女子偷点奶茶被送餐老公抓包",
       "onboard_time": 1666741522,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693691,
+      "num": 389643,
+      "word": "肉粽cp",
+      "onboard_time": 1666791326,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 682412,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 522142,
-      "num": 336959,
+      "num": 337548,
       "word": "女子晒连续286天晚10点睡觉变化",
       "onboard_time": 1666778304,
       "rank": 21,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510227,
+      "num": 510227,
+      "word": "中国共产党章程发布",
+      "onboard_time": 1666789765,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 509360,
       "num": 399529,
       "word": "他从火光中走来男演员身高",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 498062,
-      "num": 370783,
+      "num": 377569,
       "word": "张根源亲了李聂",
       "onboard_time": 1666789646,
       "rank": 11,
@@ -417,14 +441,6 @@
       "onboard_time": 1666781485,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 491480,
-      "num": 387206,
-      "word": "肉粽cp",
-      "onboard_time": 1666791326,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 487993,
@@ -449,14 +465,6 @@
       "onboard_time": 1666759167,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469860,
-      "num": 469860,
-      "word": "中国共产党章程发布",
-      "onboard_time": 1666789765,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 469740,
@@ -579,20 +587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391343,
+      "num": 391343,
+      "word": "越喜欢一个人越想要远离",
+      "onboard_time": 1666787963,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384820,
       "num": 248522,
       "word": "北京环球影城主题公园暂时关闭",
       "onboard_time": 1666751484,
       "rank": 9,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 384648,
-      "num": 384648,
-      "word": "越喜欢一个人越想要远离",
-      "onboard_time": 1666787963,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 380667,
@@ -665,6 +673,14 @@
       "onboard_time": 1666762823,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 338592,
+      "num": 168907,
+      "word": "王一博我的朋友眼镜造型剧照",
+      "onboard_time": 1666792585,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338345,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198960,
+      "num": 198960,
+      "word": "再便秘就不礼貌了",
+      "onboard_time": 1666791746,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197565,
       "num": 181250,
       "word": "他从火光中走来",
@@ -1147,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157452,
+      "num": 104275,
+      "word": "秦岚王子异二搭好抓马",
+      "onboard_time": 1666791446,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157157,
       "num": 157157,
       "word": "这才是我想要的刘海",
@@ -1203,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139393,
-      "num": 104275,
-      "word": "秦岚王子异二搭好抓马",
-      "onboard_time": 1666791446,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 138786,
       "num": 138786,
       "word": "被两个小朋友治愈到了",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1666770685,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135837,
+      "num": 135837,
+      "word": "外国网友出攻略教学跨国薅羊毛",
+      "onboard_time": 1666789646,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134916,
@@ -1289,22 +1321,6 @@
       "onboard_time": 1666704689,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 126079,
-      "num": 126079,
-      "word": "再便秘就不礼貌了",
-      "onboard_time": 1666791746,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 125572,
-      "num": 125572,
-      "word": "外国网友出攻略教学跨国薅羊毛",
-      "onboard_time": 1666789646,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124444,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1666783883,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110962,
+      "num": 110962,
+      "word": "该怎么在一段感情里减少内耗",
+      "onboard_time": 1666791565,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 109790,
@@ -1459,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96825,
+      "num": 96825,
+      "word": "我的精神状态靠买东西支撑",
+      "onboard_time": 1666791387,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92245,
       "num": 212492,
       "word": "95后女教师获世界技能大赛金牌",
@@ -1515,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84747,
+      "num": 84747,
+      "word": "高校男生操场舞灯光醒狮引围观",
+      "onboard_time": 1666792467,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 84201,
       "num": 84201,
       "word": "熊猫宝宝集体睡觉现场",
@@ -1539,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82809,
-      "num": 82809,
-      "word": "我的精神状态靠买东西支撑",
-      "onboard_time": 1666791387,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82753,
       "num": 82753,
       "word": "太阳战胜金州勇士",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1666711826,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 81300,
-      "num": 81300,
-      "word": "该怎么在一段感情里减少内耗",
-      "onboard_time": 1666791565,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 80607,
@@ -1771,14 +1795,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 62076,
-      "num": 62076,
-      "word": "高校男生操场舞灯光醒狮引围观",
-      "onboard_time": 1666792467,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 58920,
       "num": 58920,
       "word": "iPhone15将被强制使用USB-C",
@@ -1843,18 +1859,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49819,
-      "num": 220413,
-      "word": "00后双胞胎兄弟实现军旅梦",
-      "onboard_time": 1666782023,
+      "raw_hot": 49935,
+      "num": 275137,
+      "word": "退役军人为4岁患儿捐造血干细胞",
+      "onboard_time": 1666789285,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49107,
-      "num": 275137,
-      "word": "退役军人为4岁患儿捐造血干细胞",
-      "onboard_time": 1666789285,
+      "raw_hot": 49819,
+      "num": 220413,
+      "word": "00后双胞胎兄弟实现军旅梦",
+      "onboard_time": 1666782023,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1971,12 +1987,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 20222,
-      "num": 468484,
+      "raw_hot": 21291,
+      "num": 522692,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 15680,
+      "num": 343212,
+      "word": "女子患红斑狼疮跑马拉松对抗病魔",
+      "onboard_time": 1666792888,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12599,
