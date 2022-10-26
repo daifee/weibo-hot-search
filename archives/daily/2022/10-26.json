@@ -1,6 +1,6 @@
 {
   "startTime": 1666716538129,
-  "endTime": 1666767085465,
+  "endTime": 1666769031870,
   "band_list": [
     {
       "raw_hot": 2368107,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1628441,
-      "num": 1628441,
+      "raw_hot": 2096883,
+      "num": 2096883,
       "word": "年薪120万你愿意去守塔吗",
       "onboard_time": 1666764685,
       "rank": 0,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 943994,
-      "num": 344285,
+      "num": 444476,
       "word": "富士康辟谣",
       "onboard_time": 1666764564,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461961,
+      "num": 418787,
+      "word": "小说里走出来的贵公子",
+      "onboard_time": 1666765705,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444306,
       "num": 617990,
       "word": "全校仅1名老师4名学生每周升国旗",
@@ -329,6 +337,14 @@
       "onboard_time": 1666761984,
       "rank": 7,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 413860,
+      "num": 413860,
+      "word": "吴磊赵露思星汉灿烂NetflixTW周榜第一",
+      "onboard_time": 1666768223,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 411389,
@@ -395,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366275,
-      "num": 366275,
-      "word": "小说里走出来的贵公子",
-      "onboard_time": 1666765705,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347697,
       "num": 347697,
       "word": "Angelababy嘉人十一月刊封面",
@@ -457,6 +465,14 @@
       "onboard_time": 1666742482,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308713,
+      "num": 277307,
+      "word": "今年最被低估的一部青春剧",
+      "onboard_time": 1666763424,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 296852,
@@ -563,12 +579,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 243982,
-      "num": 213397,
-      "word": "今年最被低估的一部青春剧",
-      "onboard_time": 1666763424,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 237008,
+      "num": 237008,
+      "word": "女子用柚子皮自制精美茶罐",
+      "onboard_time": 1666763724,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226555,
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192696,
+      "num": 188914,
+      "word": "最高人民检察院依法对田惠宇决定逮捕",
+      "onboard_time": 1666768404,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188269,
       "num": 174350,
       "word": "N刷苍兰诀的理由",
@@ -683,14 +707,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 176409,
-      "num": 176409,
-      "word": "女子用柚子皮自制精美茶罐",
-      "onboard_time": 1666763724,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175214,
       "num": 105497,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
@@ -705,6 +721,14 @@
       "onboard_time": 1666759708,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170997,
+      "num": 170997,
+      "word": "苹果回应Mac电脑会否推出触摸屏",
+      "onboard_time": 1666766185,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 167954,
@@ -859,14 +883,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 93786,
-      "num": 89414,
-      "word": "苹果回应Mac电脑会否推出触摸屏",
-      "onboard_time": 1666766185,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
@@ -913,6 +929,14 @@
       "onboard_time": 1666766964,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 84119,
+      "num": 84119,
+      "word": "马龙称没说退役就一直走",
+      "onboard_time": 1666768646,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 83845,
@@ -971,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 77353,
+      "num": 77353,
+      "word": "男子爬山遇一洞口走进仿若仙境一般",
+      "onboard_time": 1666768525,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 76663,
       "num": 76663,
       "word": "90后小伙带全村人翻拍农村版三国",
@@ -985,6 +1017,14 @@
       "onboard_time": 1666740621,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 74806,
+      "num": 74806,
+      "word": "女生选华为小折叠还是iPhone14",
+      "onboard_time": 1666769006,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74728,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1666741160,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44695,
+      "num": 264806,
+      "word": "公司司机为轮椅女孩每天开专线",
+      "onboard_time": 1666767624,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43521,
