@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 06:40:27
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 07:28:22
 </p>
 </blockquote>
 <p>
@@ -3243,6 +3243,12 @@ C盘一下子就不红了（热度：837150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E6%97%A9%E7%9D%A1%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
+坚持早睡身体会有什么变化（热度：823855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%A235%E4%B8%87%E6%89%8B%E9%95%AF2%E5%9C%B0%E9%93%81%E8%AD%A6%E6%8E%A5%E5%8A%9B%E6%89%BE%E5%9B%9E%23" target="weibo">
 女子丢35万手镯2地铁警接力找回（热度：823530）
 </a>
@@ -5027,12 +5033,6 @@ BLACKPINK将参加海德公园音乐节（热度：637621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%89330%E4%B8%87%E5%90%A8%E8%BE%A3%E6%A4%92%23" target="weibo">
 湖南一年吃掉330万吨辣椒（热度：637424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E6%97%A9%E7%9D%A1%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
-坚持早睡身体会有什么变化（热度：637348）
 </a>
 </li>
 
