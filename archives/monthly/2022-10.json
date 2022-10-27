@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666859382096,
+  "endTime": 1666860338032,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -6155,6 +6155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 663130,
+      "num": 663130,
+      "word": "正午阳光四部剧入围飞天奖",
+      "onboard_time": 1666856662,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662982,
       "num": 662982,
       "word": "研究表明猴子或将很快到地面生活",
@@ -6785,14 +6793,6 @@
       "onboard_time": 1665333380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623789,
-      "num": 623789,
-      "word": "正午阳光四部剧入围飞天奖",
-      "onboard_time": 1666856662,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 621956,
@@ -10107,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470932,
+      "num": 338356,
+      "word": "迪丽热巴人形八音盒",
+      "onboard_time": 1666856963,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470810,
       "num": 470810,
       "word": "小伙带父亲花2天帮女友家扒苞米",
@@ -10851,14 +10859,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 448067,
-      "num": 338356,
-      "word": "迪丽热巴人形八音盒",
-      "onboard_time": 1666856963,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 448051,
       "num": 448051,
       "word": "水爷称自己上了乌克兰的死亡名单",
@@ -11065,6 +11065,14 @@
       "onboard_time": 1665318443,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440960,
+      "num": 440960,
+      "word": "成年人就是要看动画片",
+      "onboard_time": 1666855164,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 440822,
@@ -13475,14 +13483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379704,
-      "num": 379704,
-      "word": "成年人就是要看动画片",
-      "onboard_time": 1666855164,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 379524,
       "num": 379524,
       "word": "王鹤棣的片场花絮",
@@ -14824,6 +14824,14 @@
       "word": "女子加价点老虎斑端上来变鲳鱼",
       "onboard_time": 1665225867,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348305,
+      "num": 348305,
+      "word": "全国每9碗米饭就有1碗来自黑龙江",
+      "onboard_time": 1666856483,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -19203,14 +19211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 265646,
-      "num": 265646,
-      "word": "全国每9碗米饭就有1碗来自黑龙江",
-      "onboard_time": 1666856483,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265346,
       "num": 189820,
       "word": "维斯塔潘卫冕F1世界冠军",
@@ -21337,6 +21337,14 @@
       "onboard_time": 1666763724,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236836,
+      "num": 236836,
+      "word": "有一种友谊叫大张伟和张雨绮",
+      "onboard_time": 1666857203,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 236679,
@@ -24947,6 +24955,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "WTT",
+      "onboard_time": 1666167322,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195858,
       "num": 195858,
       "word": "中国共产党又踏上了新的赶考路",
@@ -25201,14 +25217,6 @@
       "onboard_time": 1665467362,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193202,
-      "num": 193202,
-      "word": "有一种友谊叫大张伟和张雨绮",
-      "onboard_time": 1666857203,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 193199,
@@ -25625,14 +25633,6 @@
       "onboard_time": 1666614322,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189095,
-      "num": 132892,
-      "word": "WTT",
-      "onboard_time": 1666167322,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 189051,
@@ -29651,6 +29651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147550,
+      "num": 117440,
+      "word": "周柏豪倒进浴缸好帅",
+      "onboard_time": 1666857262,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147541,
       "num": 87690,
       "word": "急救人员澡堂遇晕倒老人现场施救",
@@ -29921,6 +29929,14 @@
       "onboard_time": 1664803224,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 145248,
+      "num": 116742,
+      "word": "苏醒看密室大逃脱reaction",
+      "onboard_time": 1666859723,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145177,
@@ -30545,14 +30561,6 @@
       "onboard_time": 1664627963,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139799,
-      "num": 94857,
-      "word": "周柏豪倒进浴缸好帅",
-      "onboard_time": 1666857262,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 139757,
@@ -31625,6 +31633,14 @@
       "onboard_time": 1665150445,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131007,
+      "num": 131007,
+      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+      "onboard_time": 1666858164,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131001,
@@ -33441,6 +33457,14 @@
       "onboard_time": 1664812102,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115546,
+      "num": 115546,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115493,
@@ -36347,6 +36371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91393,
+      "num": 91393,
+      "word": "民警凭一棵树定位解救陷传销小伙",
+      "onboard_time": 1666858103,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91332,
       "num": 91332,
       "word": "保安作画300多幅把公园变成动物世界",
@@ -36457,6 +36489,14 @@
       "onboard_time": 1665963259,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90309,
+      "num": 90309,
+      "word": "微博SVIP限量预售",
+      "onboard_time": 1666856843,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 90245,
@@ -36905,6 +36945,14 @@
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86705,
+      "num": 86705,
+      "word": "以家人之名入围飞天奖优秀作品",
+      "onboard_time": 1666860202,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 86684,
@@ -38523,14 +38571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73851,
-      "num": 73851,
-      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
-      "onboard_time": 1666858164,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73775,
       "num": 73775,
       "word": "教大家几个生存技巧",
@@ -38585,14 +38625,6 @@
       "onboard_time": 1665521530,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73352,
-      "num": 73352,
-      "word": "微博SVIP限量预售",
-      "onboard_time": 1666856843,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 73318,
@@ -39107,14 +39139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68309,
-      "num": 68309,
-      "word": "男子炒菜触发消防喷淋被淋1小时",
-      "onboard_time": 1666858463,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68236,
       "num": 68236,
       "word": "算是把各大品牌拿捏了",
@@ -39280,14 +39304,6 @@
       "word": "黄河三角洲震撼心灵的瞬间",
       "onboard_time": 1666270824,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66787,
-      "num": 66787,
-      "word": "民警凭一棵树定位解救陷传销小伙",
-      "onboard_time": 1666858103,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

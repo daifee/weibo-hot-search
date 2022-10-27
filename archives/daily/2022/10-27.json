@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666859382096,
+  "endTime": 1666860338032,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663130,
+      "num": 663130,
+      "word": "正午阳光四部剧入围飞天奖",
+      "onboard_time": 1666856662,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 637424,
       "num": 637424,
       "word": "湖南一年吃掉330万吨辣椒",
@@ -113,14 +121,6 @@
       "onboard_time": 1666848326,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623789,
-      "num": 623789,
-      "word": "正午阳光四部剧入围飞天奖",
-      "onboard_time": 1666856662,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 610780,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470932,
+      "num": 338356,
+      "word": "迪丽热巴人形八音盒",
+      "onboard_time": 1666856963,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470436,
       "num": 347335,
       "word": "印度网民向苏纳克索要英国王冠钻石",
@@ -243,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448067,
-      "num": 338356,
-      "word": "迪丽热巴人形八音盒",
-      "onboard_time": 1666856963,
-      "rank": 10,
-      "category": "作品衍生,时尚"
+      "raw_hot": 440960,
+      "num": 440960,
+      "word": "成年人就是要看动画片",
+      "onboard_time": 1666855164,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 434706,
@@ -305,14 +313,6 @@
       "onboard_time": 1666829784,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379704,
-      "num": 379704,
-      "word": "成年人就是要看动画片",
-      "onboard_time": 1666855164,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 376925,
@@ -377,6 +377,14 @@
       "onboard_time": 1666833266,
       "rank": 20,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 348305,
+      "num": 348305,
+      "word": "全国每9碗米饭就有1碗来自黑龙江",
+      "onboard_time": 1666856483,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345649,
@@ -507,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265646,
-      "num": 265646,
-      "word": "全国每9碗米饭就有1碗来自黑龙江",
-      "onboard_time": 1666856483,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263940,
       "num": 263940,
       "word": "东北一小区喷泉池里摆满晾晒白菜",
@@ -609,6 +609,14 @@
       "onboard_time": 1666844603,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236836,
+      "num": 236836,
+      "word": "有一种友谊叫大张伟和张雨绮",
+      "onboard_time": 1666857203,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 232344,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "WTT",
+      "onboard_time": 1666859545,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194049,
       "num": 160506,
       "word": "秦岚新剧造型是我能免费看的吗",
@@ -721,14 +737,6 @@
       "onboard_time": 1666837522,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193202,
-      "num": 193202,
-      "word": "有一种友谊叫大张伟和张雨绮",
-      "onboard_time": 1666857203,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 192417,
@@ -899,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147550,
+      "num": 117440,
+      "word": "周柏豪倒进浴缸好帅",
+      "onboard_time": 1666857262,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145248,
+      "num": 116742,
+      "word": "苏醒看密室大逃脱reaction",
+      "onboard_time": 1666859723,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143503,
       "num": 143503,
       "word": "居然被松子给难住了",
@@ -921,14 +945,6 @@
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 139799,
-      "num": 94857,
-      "word": "周柏豪倒进浴缸好帅",
-      "onboard_time": 1666857262,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 139553,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1666831885,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131007,
+      "num": 131007,
+      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+      "onboard_time": 1666858164,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128850,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1666792585,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115546,
+      "num": 115546,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112103,
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93614,
+      "num": 93614,
+      "word": "解决台湾问题是中国人自己的事",
+      "onboard_time": 1666859664,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 92448,
       "num": 92448,
       "word": "圆明园银杏最佳观赏期来了",
@@ -1224,6 +1264,14 @@
       "word": "10月26日新增本土无症状924例",
       "onboard_time": 1666833443,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91393,
+      "num": 91393,
+      "word": "民警凭一棵树定位解救陷传销小伙",
+      "onboard_time": 1666858103,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90309,
+      "num": 90309,
+      "word": "微博SVIP限量预售",
+      "onboard_time": 1666856843,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 89498,
       "num": 89498,
       "word": "成毅莲花楼和狗子同步",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1666844548,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86705,
+      "num": 86705,
+      "word": "以家人之名入围飞天奖优秀作品",
+      "onboard_time": 1666860202,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 82862,
@@ -1315,28 +1379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73851,
-      "num": 73851,
-      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
-      "onboard_time": 1666858164,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73506,
       "num": 73506,
       "word": "女孩吃假减肥药致精神分裂",
       "onboard_time": 1666773806,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73352,
-      "num": 73352,
-      "word": "微博SVIP限量预售",
-      "onboard_time": 1666856843,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 72983,
@@ -1379,14 +1427,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 68309,
-      "num": 68309,
-      "word": "男子炒菜触发消防喷淋被淋1小时",
-      "onboard_time": 1666858463,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68142,
       "num": 68142,
       "word": "90后老师为患儿开病房学校",
@@ -1400,14 +1440,6 @@
       "word": "1个动作有效放松肩颈",
       "onboard_time": 1666858644,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66787,
-      "num": 66787,
-      "word": "民警凭一棵树定位解救陷传销小伙",
-      "onboard_time": 1666858103,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

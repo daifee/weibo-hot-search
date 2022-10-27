@@ -1,0 +1,410 @@
+{
+  "runTime": 1666860338032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299803,
+        "num": 1299803,
+        "word": "故天将降大任于是人还是斯人",
+        "onboard_time": 1666842384,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 663130,
+        "num": 663130,
+        "word": "正午阳光四部剧入围飞天奖",
+        "onboard_time": 1666856662,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 537639,
+        "word": "9个高频词看二十大报告",
+        "onboard_time": 1666829544,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 668317,
+        "num": 536590,
+        "word": "张元英2022AAA确定担任MC",
+        "onboard_time": 1666854862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511459,
+        "num": 511459,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 4,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 440960,
+        "num": 440960,
+        "word": "成年人就是要看动画片",
+        "onboard_time": 1666855164,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 404892,
+        "num": 404892,
+        "word": "密室大逃脱",
+        "onboard_time": 1666854862,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369022,
+        "num": 369022,
+        "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+        "onboard_time": 1666845387,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348305,
+        "num": 348305,
+        "word": "全国每9碗米饭就有1碗来自黑龙江",
+        "onboard_time": 1666856483,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336957,
+        "num": 336957,
+        "word": "代驾司机敲诈酒驾车主反转了",
+        "onboard_time": 1666853543,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470932,
+        "num": 325790,
+        "word": "迪丽热巴人形八音盒",
+        "onboard_time": 1666856963,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287978,
+        "num": 287978,
+        "word": "湖南一年吃掉330万吨辣椒",
+        "onboard_time": 1666845566,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271491,
+        "num": 271491,
+        "word": "科学家证明吃土可治疗肠炎",
+        "onboard_time": 1666850724,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251627,
+        "num": 251627,
+        "word": "母猫考察寝室后叼3只幼崽托付",
+        "onboard_time": 1666851083,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237310,
+        "num": 237310,
+        "word": "汶川地震被救少年14年后救火牺牲",
+        "onboard_time": 1666843464,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236836,
+        "num": 236836,
+        "word": "有一种友谊叫大张伟和张雨绮",
+        "onboard_time": 1666857203,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216980,
+        "num": 216980,
+        "word": "赵丽颖说会唱的一起唱",
+        "onboard_time": 1666858883,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205375,
+        "num": 205375,
+        "word": "不按时吃饭和胃癌只隔4步",
+        "onboard_time": 1666847424,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198025,
+        "num": 198025,
+        "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+        "onboard_time": 1666854022,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195940,
+        "num": 195940,
+        "word": "WTT",
+        "onboard_time": 1666859545,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464252,
+        "num": 190993,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173598,
+        "num": 173598,
+        "word": "孙怡晒再见爱人手机壳",
+        "onboard_time": 1666841064,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161439,
+        "num": 161439,
+        "word": "张凌赫他从火光中走来撑伞氛围感路透",
+        "onboard_time": 1666851502,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159156,
+        "num": 159156,
+        "word": "一人一狗对峙了三个小时",
+        "onboard_time": 1666848804,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 158360,
+        "word": "中国哪个省最能吃辣",
+        "onboard_time": 1666846645,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150341,
+        "num": 150341,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144302,
+        "num": 144302,
+        "word": "父母接连重病女外卖员当街崩溃",
+        "onboard_time": 1666847844,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140773,
+        "num": 140773,
+        "word": "居然被松子给难住了",
+        "onboard_time": 1666858823,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131007,
+        "num": 131007,
+        "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+        "onboard_time": 1666858164,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118517,
+        "num": 118517,
+        "word": "印度网民向苏纳克索要英国王冠钻石",
+        "onboard_time": 1666842024,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 154132,
+        "num": 117489,
+        "word": "法医探案团官宣",
+        "onboard_time": 1666854203,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147550,
+        "num": 117440,
+        "word": "周柏豪倒进浴缸好帅",
+        "onboard_time": 1666857262,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145248,
+        "num": 116742,
+        "word": "苏醒看密室大逃脱reaction",
+        "onboard_time": 1666859723,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115546,
+        "num": 115546,
+        "word": "男子炒菜触发消防喷淋被淋1小时",
+        "onboard_time": 1666858463,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "肖战王牌部队入围第33届飞天奖",
+        "onboard_time": 1666842024,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93614,
+        "num": 93614,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1666859664,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 91393,
+        "num": 91393,
+        "word": "民警凭一棵树定位解救陷传销小伙",
+        "onboard_time": 1666858103,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90713,
+        "num": 90713,
+        "word": "双十一你的账单有多长",
+        "onboard_time": 1666853543,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90309,
+        "num": 90309,
+        "word": "微博SVIP限量预售",
+        "onboard_time": 1666856843,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87382,
+        "num": 87382,
+        "word": "詹姆斯19分",
+        "onboard_time": 1666848683,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86705,
+        "num": 86705,
+        "word": "以家人之名入围飞天奖优秀作品",
+        "onboard_time": 1666860202,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85199,
+        "num": 85199,
+        "word": "才知道衣架印如何去除",
+        "onboard_time": 1666850423,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 83485,
+        "num": 83485,
+        "word": "光腿神器已火到欧洲",
+        "onboard_time": 1666838064,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82302,
+        "num": 82302,
+        "word": "陆虎没惹你们任何人",
+        "onboard_time": 1666850062,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75272,
+        "num": 75272,
+        "word": "女孩跳操后腹痛不止险卵巢不保",
+        "onboard_time": 1666837164,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75216,
+        "num": 75216,
+        "word": "TTG是懂自拍的",
+        "onboard_time": 1666855043,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68231,
+        "num": 68231,
+        "word": "民警巡逻遇2只东北虎迎面走来",
+        "onboard_time": 1666842747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67539,
+        "num": 67539,
+        "word": "男子钻研螺蛳粉24年成非遗传承人",
+        "onboard_time": 1666838964,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 62654,
+        "num": 62654,
+        "word": "长期不按时吃饭容易得胆结石",
+        "onboard_time": 1666835482,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56061,
+        "num": 56061,
+        "word": "1个动作有效放松肩颈",
+        "onboard_time": 1666858644,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#马克思主义中国化时代化新篇章#"
+    }
+  }
+}
