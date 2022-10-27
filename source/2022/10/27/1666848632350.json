@@ -1,0 +1,410 @@
+{
+  "runTime": 1666848632350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778670,
+        "num": 1778670,
+        "word": "故天将降大任于是人还是斯人",
+        "onboard_time": 1666842384,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 501469,
+        "num": 501469,
+        "word": "湖南一年吃掉330万吨辣椒",
+        "onboard_time": 1666845566,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38073,
+        "num": 483619,
+        "word": "9个高频词看二十大报告",
+        "onboard_time": 1666829544,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1413956,
+        "num": 478319,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 3,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1097353,
+        "num": 457651,
+        "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+        "onboard_time": 1666845387,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586051,
+        "num": 428719,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423547,
+        "num": 423547,
+        "word": "女孩跳操后腹痛不止险卵巢不保",
+        "onboard_time": 1666837164,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359842,
+        "num": 359842,
+        "word": "宋旻浩妹妹将出演社内恋爱",
+        "onboard_time": 1666845987,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346968,
+        "num": 346968,
+        "word": "长期不按时吃饭容易得胆结石",
+        "onboard_time": 1666835482,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338301,
+        "num": 338301,
+        "word": "王曼昱vs韩莹",
+        "onboard_time": 1666847125,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548037,
+        "num": 338115,
+        "word": "孙怡晒再见爱人手机壳",
+        "onboard_time": 1666841064,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482651,
+        "num": 338065,
+        "word": "汶川地震被救少年14年后救火牺牲",
+        "onboard_time": 1666843464,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337773,
+        "num": 337773,
+        "word": "印度网民向苏纳克索要英国王冠钻石",
+        "onboard_time": 1666842024,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337698,
+        "num": 337698,
+        "word": "老人吃播式向女儿汇报饮食",
+        "onboard_time": 1666843046,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11552,
+        "num": 337646,
+        "word": "原神 纳西妲",
+        "onboard_time": 1666846827,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337643,
+        "num": 337643,
+        "word": "蔡文静彭冠英新剧又薅头发",
+        "onboard_time": 1666842145,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294823,
+        "num": 294823,
+        "word": "郁美净回应产品不合格",
+        "onboard_time": 1666844185,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 290279,
+        "num": 290279,
+        "word": "披荆斩棘",
+        "onboard_time": 1666848144,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289302,
+        "num": 289302,
+        "word": "中国哪个省最能吃辣",
+        "onboard_time": 1666846645,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 285527,
+        "num": 285527,
+        "word": "换乘恋爱2嘉宾出演费",
+        "onboard_time": 1666843944,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274157,
+        "num": 274157,
+        "word": "唐嫣时装明暗双姝大片",
+        "onboard_time": 1666847307,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264219,
+        "num": 264219,
+        "word": "肖战王牌部队入围第33届飞天奖",
+        "onboard_time": 1666842024,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260959,
+        "num": 260959,
+        "word": "赵丽颖欧豪野蛮生长片场欢乐趴",
+        "onboard_time": 1666843824,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243679,
+        "num": 243679,
+        "word": "王一博街舞5整季高光回顾",
+        "onboard_time": 1666848443,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233280,
+        "num": 233280,
+        "word": "三星正式开启李在镕时代",
+        "onboard_time": 1666842985,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222477,
+        "num": 222477,
+        "word": "光腿神器已火到欧洲",
+        "onboard_time": 1666838064,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173398,
+        "num": 173398,
+        "word": "民警巡逻遇2只东北虎迎面走来",
+        "onboard_time": 1666842747,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158882,
+        "num": 158882,
+        "word": "男子钻研螺蛳粉24年成非遗传承人",
+        "onboard_time": 1666838964,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 153985,
+        "word": "临沂教资",
+        "onboard_time": 1666845806,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144222,
+        "num": 144222,
+        "word": "如何看待在学校里公开谈性",
+        "onboard_time": 1666844246,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205508,
+        "num": 143859,
+        "word": "志胜这段话说到了心坎里",
+        "onboard_time": 1666845866,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201702,
+        "num": 143428,
+        "word": "迪丽热巴费加罗10月封面",
+        "onboard_time": 1666840525,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194049,
+        "num": 142896,
+        "word": "秦岚新剧造型是我能免费看的吗",
+        "onboard_time": 1666847482,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176920,
+        "num": 142117,
+        "word": "许嵩新歌里的王语嫣",
+        "onboard_time": 1666844603,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142091,
+        "num": 142091,
+        "word": "湖人vs掘金",
+        "onboard_time": 1666837704,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133879,
+        "num": 133879,
+        "word": "男子退伍2年偶遇自己当护旗手海报",
+        "onboard_time": 1666837043,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131972,
+        "num": 131972,
+        "word": "王曼昱3比1韩莹",
+        "onboard_time": 1666848084,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117120,
+        "num": 117120,
+        "word": "鹤岗回应移居买房热",
+        "onboard_time": 1666836686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116203,
+        "num": 116203,
+        "word": "父母接连重病女外卖员当街崩溃",
+        "onboard_time": 1666847844,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34090,
+        "num": 114893,
+        "word": "天猫将实现家具家电全国免费送装",
+        "onboard_time": 1666846827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161689,
+        "num": 113889,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142693,
+        "num": 111920,
+        "word": "李振宁说很多舞台不让唱自己的歌",
+        "onboard_time": 1666848503,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127692,
+        "num": 110750,
+        "word": "再见爱人",
+        "onboard_time": 1666845506,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109366,
+        "num": 109366,
+        "word": "男子分手后索回给女友23万转账被拒",
+        "onboard_time": 1666830144,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104509,
+        "num": 104509,
+        "word": "不按时吃饭和胃癌只隔4步",
+        "onboard_time": 1666847424,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104450,
+        "num": 104450,
+        "word": "RNG被曝将被竞拍解散",
+        "onboard_time": 1666802660,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100708,
+        "num": 100708,
+        "word": "重庆一大学教授每次上课都给学生带礼物",
+        "onboard_time": 1666835903,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 99332,
+        "num": 99332,
+        "word": "苹果开发16英寸iPad",
+        "onboard_time": 1666833143,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92798,
+        "num": 92798,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1666837522,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 88126,
+        "word": "马斯克称苹果广告抽成过高",
+        "onboard_time": 1666837463,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党章程发布#"
+    }
+  }
+}
