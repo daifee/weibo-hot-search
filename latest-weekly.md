@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/24 00:36:33 ~ 2022/10/27 17:26:25
+本榜单时间：2022/10/24 00:36:33 ~ 2022/10/27 17:42:35
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ gidle新歌Nxde达成PAK（热度：408818）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
+WTT（热度：400754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E5%85%A8%E5%91%98%E8%B6%85%E8%AF%9D%E9%87%8D%E8%81%9A%E4%BC%9A%23" target="weibo">
 苍兰诀全员超话重聚会（热度：400414）
 </a>
@@ -1545,6 +1551,12 @@ iPhone15Ultra或采用钛金属外壳（热度：369195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B64458%E4%BA%BF%23" target="weibo">
+华为前三季度营收4458亿（热度：363538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%A0%E4%B8%93%E5%88%A9%E7%BA%A0%E7%BA%B7%E8%B5%B7%E8%AF%89%E4%BA%9A%E9%A9%AC%E9%80%8A%23" target="weibo">
 华为因专利纠纷起诉亚马逊（热度：362130）
 </a>
@@ -1733,12 +1745,6 @@ Meiko和Deft拥抱（热度：336924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AC%A7%E8%B1%AA%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E7%89%87%E5%9C%BA%E6%AC%A2%E4%B9%90%E8%B6%B4%23" target="weibo">
 赵丽颖欧豪野蛮生长片场欢乐趴（热度：336039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
-WTT（热度：334575）
 </a>
 </li>
 
@@ -2157,6 +2163,12 @@ BLACKPINK新歌MV播放量破2亿（热度：272847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%92%E8%8F%9C%E8%A7%A6%E5%8F%91%E6%B6%88%E9%98%B2%E5%96%B7%E6%B7%8B%E8%A2%AB%E6%B7%8B1%E5%B0%8F%E6%97%B6%23" target="weibo">
+男子炒菜触发消防喷淋被淋1小时（热度：268791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8D%81%E4%B8%83%E5%8F%91%E8%A1%8C%E4%BA%94%E5%91%A8%E5%B9%B4%23" target="weibo">
 王源十七发行五周年（热度：265985）
 </a>
@@ -2237,12 +2249,6 @@ BLACKPINK新歌MV播放量破2亿（热度：272847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E8%83%BD%E4%B9%B0%E5%88%B0%E8%BF%99%E7%A7%8D%E8%A2%AB%E5%AD%90%23" target="weibo">
 哪里能买到这种被子（热度：257882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B64458%E4%BA%BF%23" target="weibo">
-华为前三季度营收4458亿（热度：256513）
 </a>
 </li>
 
@@ -2469,6 +2475,12 @@ BLACKPINK新歌MV播放量破2亿（热度：272847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E7%94%9F%E8%AE%B0%E5%BD%95%E7%8C%AB%E5%92%AA%E9%92%BB%E8%A2%8B%E5%AD%90%E4%B8%80%E4%B8%AA%E6%9C%88%23" target="weibo">
+上海女生记录猫咪钻袋子一个月（热度：234321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E8%B0%B7%E5%AD%90%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
 鬼谷子新皮肤（热度：232840）
 </a>
@@ -2513,12 +2525,6 @@ BLACKPINK新歌MV播放量破2亿（热度：272847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%9B600%E5%A4%9A%E6%96%A4%E6%9C%A8%E6%9D%90%E4%B8%8B%E5%B1%B1%E8%B5%9A%E9%92%B1%E5%85%BB%E5%AE%B6%23" target="weibo">
 男子扛600多斤木材下山赚钱养家（热度：229838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%92%E8%8F%9C%E8%A7%A6%E5%8F%91%E6%B6%88%E9%98%B2%E5%96%B7%E6%B7%8B%E8%A2%AB%E6%B7%8B1%E5%B0%8F%E6%97%B6%23" target="weibo">
-男子炒菜触发消防喷淋被淋1小时（热度：229706）
 </a>
 </li>
 
@@ -2721,12 +2727,6 @@ gidle新歌nxde一位（热度：212218）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E7%94%9F%E8%AE%B0%E5%BD%95%E7%8C%AB%E5%92%AA%E9%92%BB%E8%A2%8B%E5%AD%90%E4%B8%80%E4%B8%AA%E6%9C%88%23" target="weibo">
-上海女生记录猫咪钻袋子一个月（热度：208786）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23S12%E6%B7%98%E6%B1%B0%E8%B5%9B%23" target="weibo">
 S12淘汰赛（热度：208562）
 </a>
@@ -2825,6 +2825,12 @@ LPL纪录片预告（热度：201461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23" target="weibo">
 他从火光中走来（热度：197565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%91%A8%E4%B9%9F%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E5%A3%81%E5%92%9A%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23" target="weibo">
+檀健次周也很想很想你壁咚吻戏路透（热度：196963）
 </a>
 </li>
 
@@ -3891,6 +3897,12 @@ gidle新歌获得一位（热度：111232）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%83%8F%E6%8B%94%E5%AE%8C%E6%99%BA%E9%BD%BF%E7%9A%84%E6%88%91%23" target="weibo">
+像拔完智齿的我（热度：108548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E7%99%BB%E9%9F%A9%E7%89%88ELLE%E5%B0%81%E9%9D%A2%23" target="weibo">
 Jennie登韩版ELLE封面（热度：108540）
 </a>
@@ -4665,6 +4677,12 @@ TTG是懂自拍的（热度：79085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E5%8F%B0%E7%8B%AC%E6%98%AF%E7%BB%9D%E8%B7%AF%E7%BB%9F%E4%B8%80%E6%98%AF%E6%AD%A3%E9%80%94%23" target="weibo">
+国防部称台独是绝路统一是正途（热度：65357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F%E7%84%A6%E8%99%91%E5%90%97%23" target="weibo">
 你会手机电量焦虑吗（热度：65052）
 </a>
@@ -4685,6 +4703,12 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B9%8B%E5%AE%B6%E6%97%8F%23" target="weibo">
 龙之家族（热度：64554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%BE%9E%E8%BE%B1%E5%BC%80%E8%BD%A6%E5%B0%86%E5%85%B6%E6%92%9E%E4%BC%A4%23" target="weibo">
+男子被领导羞辱开车将其撞伤（热度：64294）
 </a>
 </li>
 
@@ -4727,12 +4751,6 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23" target="weibo">
 致9671.2万个你（热度：62894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%83%8F%E6%8B%94%E5%AE%8C%E6%99%BA%E9%BD%BF%E7%9A%84%E6%88%91%23" target="weibo">
-像拔完智齿的我（热度：62699）
 </a>
 </li>
 
@@ -5001,6 +5019,12 @@ NBA新赛季2022（热度：47693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%86%9940%E4%BD%99%E7%AF%87%E6%8A%97%E7%99%8C%E6%89%8B%E8%AE%B0%E6%BF%80%E5%8A%B1%E4%BB%96%E4%BA%BA%23" target="weibo">
+老人写40余篇抗癌手记激励他人（热度：38144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%BE%AE%E5%85%89%E7%94%B7%E5%AD%A9%E8%90%A8%E5%85%8B%E6%96%AF10%E7%BA%A7%E5%B9%B6%E8%87%AA%E5%AD%A6%E8%B0%B1%E6%9B%B2%23" target="weibo">
 14岁微光男孩萨克斯10级并自学谱曲（热度：37109）
 </a>
@@ -5051,12 +5075,6 @@ NBA新赛季2022（热度：47693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%80%E6%88%98%E6%9D%BE%E6%AF%9B%E5%B2%AD%E4%BD%BF%E5%91%BD%E6%84%9F%23" target="weibo">
 血战松毛岭使命感（热度：32648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%86%9940%E4%BD%99%E7%AF%87%E6%8A%97%E7%99%8C%E6%89%8B%E8%AE%B0%E6%BF%80%E5%8A%B1%E4%BB%96%E4%BA%BA%23" target="weibo">
-老人写40余篇抗癌手记激励他人（热度：29558）
 </a>
 </li>
 

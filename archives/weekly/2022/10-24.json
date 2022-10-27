@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666862785966,
+  "endTime": 1666863755938,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 400754,
+      "num": 400754,
+      "word": "WTT",
+      "onboard_time": 1666859545,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400414,
       "num": 384759,
       "word": "苍兰诀全员超话重聚会",
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363538,
+      "num": 363538,
+      "word": "华为前三季度营收4458亿",
+      "onboard_time": 1666861044,
+      "rank": 12,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 362130,
       "num": 482661,
       "word": "华为因专利纠纷起诉亚马逊",
@@ -2297,14 +2313,6 @@
       "onboard_time": 1666843824,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 334575,
-      "num": 334575,
-      "word": "WTT",
-      "onboard_time": 1666859545,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 333261,
@@ -2859,6 +2867,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 268791,
+      "num": 268791,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265985,
       "num": 265985,
       "word": "王源十七发行五周年",
@@ -2969,14 +2985,6 @@
       "onboard_time": 1666661846,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256513,
-      "num": 256513,
-      "word": "华为前三季度营收4458亿",
-      "onboard_time": 1666861044,
-      "rank": 12,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 255730,
@@ -3275,6 +3283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234321,
+      "num": 234321,
+      "word": "上海女生记录猫咪钻袋子一个月",
+      "onboard_time": 1666860443,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232840,
       "num": 81784,
       "word": "鬼谷子新皮肤",
@@ -3336,14 +3352,6 @@
       "word": "男子扛600多斤木材下山赚钱养家",
       "onboard_time": 1666610362,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229706,
-      "num": 229706,
-      "word": "男子炒菜触发消防喷淋被淋1小时",
-      "onboard_time": 1666858463,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3611,14 +3619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208786,
-      "num": 208786,
-      "word": "上海女生记录猫咪钻袋子一个月",
-      "onboard_time": 1666860443,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208562,
       "num": 10150,
       "word": "S12淘汰赛",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1666756525,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196963,
+      "num": 178082,
+      "word": "檀健次周也很想很想你壁咚吻戏路透",
+      "onboard_time": 1666862902,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196224,
@@ -5171,6 +5179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108548,
+      "num": 108548,
+      "word": "像拔完智齿的我",
+      "onboard_time": 1666862603,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108540,
       "num": 108540,
       "word": "Jennie登韩版ELLE封面",
@@ -6203,6 +6219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65357,
+      "num": 65357,
+      "word": "国防部称台独是绝路统一是正途",
+      "onboard_time": 1666863201,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 65052,
       "num": 65052,
       "word": "你会手机电量焦虑吗",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1666589182,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64294,
+      "num": 64294,
+      "word": "男子被领导羞辱开车将其撞伤",
+      "onboard_time": 1666863563,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 63939,
@@ -6289,14 +6321,6 @@
       "onboard_time": 1666501287,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62699,
-      "num": 62699,
-      "word": "像拔完智齿的我",
-      "onboard_time": 1666862603,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 62041,
@@ -6651,6 +6675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 38144,
+      "num": 245600,
+      "word": "老人写40余篇抗癌手记激励他人",
+      "onboard_time": 1666861284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37109,
       "num": 262842,
       "word": "14岁微光男孩萨克斯10级并自学谱曲",
@@ -6721,14 +6753,6 @@
       "onboard_time": 1666861163,
       "rank": 2,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29558,
-      "num": 245600,
-      "word": "老人写40余篇抗癌手记激励他人",
-      "onboard_time": 1666861284,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29312,

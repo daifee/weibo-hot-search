@@ -1,0 +1,410 @@
+{
+  "runTime": 1666863755938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965978,
+        "num": 965978,
+        "word": "故天将降大任于是人还是斯人",
+        "onboard_time": 1666842384,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 458151,
+        "num": 458151,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1666859664,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28788,
+        "num": 408208,
+        "word": "血战松毛岭使命感",
+        "onboard_time": 1666861163,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400754,
+        "num": 400754,
+        "word": "WTT",
+        "onboard_time": 1666859545,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363538,
+        "num": 363538,
+        "word": "华为前三季度营收4458亿",
+        "onboard_time": 1666861044,
+        "rank": 4,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 359395,
+        "num": 359395,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 5,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 340807,
+        "num": 340807,
+        "word": "成年人就是要看动画片",
+        "onboard_time": 1666855164,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 334769,
+        "num": 334769,
+        "word": "正午阳光四部剧入围飞天奖",
+        "onboard_time": 1666856662,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309151,
+        "num": 309151,
+        "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+        "onboard_time": 1666845387,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268791,
+        "num": 268791,
+        "word": "男子炒菜触发消防喷淋被淋1小时",
+        "onboard_time": 1666858463,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411715,
+        "num": 262617,
+        "word": "张元英2022AAA确定担任MC",
+        "onboard_time": 1666854862,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328062,
+        "num": 256181,
+        "word": "迪丽热巴人形八音盒",
+        "onboard_time": 1666856963,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243045,
+        "num": 243045,
+        "word": "全国每9碗米饭就有1碗来自黑龙江",
+        "onboard_time": 1666856483,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238325,
+        "num": 238325,
+        "word": "居然被松子给难住了",
+        "onboard_time": 1666858823,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38144,
+        "num": 236221,
+        "word": "老人写40余篇抗癌手记激励他人",
+        "onboard_time": 1666861284,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234321,
+        "num": 234321,
+        "word": "上海女生记录猫咪钻袋子一个月",
+        "onboard_time": 1666860443,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225420,
+        "num": 225420,
+        "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+        "onboard_time": 1666858164,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217602,
+        "num": 217602,
+        "word": "湖南一年吃掉330万吨辣椒",
+        "onboard_time": 1666845566,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187073,
+        "num": 187073,
+        "word": "密室大逃脱",
+        "onboard_time": 1666854862,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179796,
+        "num": 179796,
+        "word": "有一种友谊叫大张伟和张雨绮",
+        "onboard_time": 1666857203,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1195097,
+        "num": 179737,
+        "word": "Angelababy晒染发vlog",
+        "onboard_time": 1666862725,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459189,
+        "num": 179362,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196963,
+        "num": 178082,
+        "word": "檀健次周也很想很想你壁咚吻戏路透",
+        "onboard_time": 1666862902,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176648,
+        "num": 176648,
+        "word": "汶川地震被救少年14年后救火牺牲",
+        "onboard_time": 1666843464,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172274,
+        "num": 172274,
+        "word": "母猫考察寝室后叼3只幼崽托付",
+        "onboard_time": 1666851083,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161628,
+        "num": 161628,
+        "word": "中国哪个省最能吃辣",
+        "onboard_time": 1666846645,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157331,
+        "num": 157331,
+        "word": "代驾司机敲诈酒驾车主反转了",
+        "onboard_time": 1666853543,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143110,
+        "num": 143110,
+        "word": "不按时吃饭和胃癌只隔4步",
+        "onboard_time": 1666847424,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130191,
+        "num": 130191,
+        "word": "科学家证明吃土可治疗肠炎",
+        "onboard_time": 1666850724,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 124838,
+        "word": "民警凭一棵树定位解救陷传销小伙",
+        "onboard_time": 1666858103,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 122841,
+        "word": "苏醒看密室大逃脱reaction",
+        "onboard_time": 1666859723,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "父母接连重病女外卖员当街崩溃",
+        "onboard_time": 1666847844,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117761,
+        "num": 117761,
+        "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+        "onboard_time": 1666854022,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108548,
+        "num": 108548,
+        "word": "像拔完智齿的我",
+        "onboard_time": 1666862603,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107252,
+        "num": 107252,
+        "word": "一人一狗对峙了三个小时",
+        "onboard_time": 1666848804,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100239,
+        "num": 100239,
+        "word": "周柏豪倒进浴缸好帅",
+        "onboard_time": 1666857262,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95609,
+        "num": 95609,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87412,
+        "num": 87412,
+        "word": "肖战王牌部队入围第33届飞天奖",
+        "onboard_time": 1666842024,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84841,
+        "num": 84841,
+        "word": "女孩跳操后腹痛不止险卵巢不保",
+        "onboard_time": 1666837164,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82930,
+        "num": 82930,
+        "word": "孙怡晒再见爱人手机壳",
+        "onboard_time": 1666841064,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82620,
+        "num": 82620,
+        "word": "微博SVIP限量预售",
+        "onboard_time": 1666856843,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 81355,
+        "word": "赵丽颖说会唱的一起唱",
+        "onboard_time": 1666858883,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77297,
+        "num": 77297,
+        "word": "张凌赫他从火光中走来撑伞氛围感路透",
+        "onboard_time": 1666851502,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67796,
+        "num": 67796,
+        "word": "印度网民向苏纳克索要英国王冠钻石",
+        "onboard_time": 1666842024,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 67206,
+        "num": 67206,
+        "word": "詹姆斯19分",
+        "onboard_time": 1666848683,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65357,
+        "num": 65357,
+        "word": "国防部称台独是绝路统一是正途",
+        "onboard_time": 1666863201,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64294,
+        "num": 64294,
+        "word": "男子被领导羞辱开车将其撞伤",
+        "onboard_time": 1666863563,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 63828,
+        "num": 63828,
+        "word": "才知道衣架印如何去除",
+        "onboard_time": 1666850423,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 61716,
+        "num": 61716,
+        "word": "光腿神器已火到欧洲",
+        "onboard_time": 1666838064,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56889,
+        "num": 56889,
+        "word": "双十一你的账单有多长",
+        "onboard_time": 1666853543,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党章程发布#"
+    }
+  }
+}
