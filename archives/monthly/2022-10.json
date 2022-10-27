@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666892691482,
+  "endTime": 1666895573377,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -37971,6 +37971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84014,
+      "num": 65770,
+      "word": "于和伟四部作品入围飞天奖",
+      "onboard_time": 1666890914,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84008,
       "num": 55408,
       "word": "8旬老人骑行40里探望5旬女儿",
@@ -40137,14 +40145,6 @@
       "onboard_time": 1665504083,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 65770,
-      "num": 65770,
-      "word": "于和伟四部作品入围飞天奖",
-      "onboard_time": 1666890914,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 65703,
@@ -43377,6 +43377,14 @@
       "onboard_time": 1665524711,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 13926,
+      "num": 13926,
+      "word": "学生时期留下的永久印迹",
+      "onboard_time": 1666894211,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13880,
