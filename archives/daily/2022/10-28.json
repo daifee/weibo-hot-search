@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666888514010,
+  "endTime": 1666889972071,
   "band_list": [
     {
       "raw_hot": 872654,
@@ -8,6 +8,14 @@
       "word": "第一批鹤岗买房人已离开大半",
       "onboard_time": 1666880486,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637348,
+      "num": 637348,
+      "word": "坚持早睡身体会有什么变化",
+      "onboard_time": 1666885044,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,15 +43,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 474430,
-      "num": 474430,
-      "word": "坚持早睡身体会有什么变化",
-      "onboard_time": 1666885044,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350603,
+      "raw_hot": 370121,
       "num": 166973,
       "word": "西宁通报一颗白菜49.31元核查情况",
       "onboard_time": 1666885465,
@@ -147,6 +147,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 139180,
+      "num": 139180,
+      "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
+      "onboard_time": 1666886482,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136936,
       "num": 136936,
       "word": "是人还是斯人人教社回应",
@@ -211,20 +219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95857,
-      "num": 95857,
-      "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
-      "onboard_time": 1666886482,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 89620,
       "num": 89620,
       "word": "海克斯科技博主首次回应争议",
       "onboard_time": 1666868365,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 86213,
+      "num": 86213,
+      "word": "曾凡博关键失误",
+      "onboard_time": 1666888579,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 80757,
@@ -235,19 +243,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74500,
+      "num": 74500,
+      "word": "抱娃过斑马线遇不礼让轿车险被撞",
+      "onboard_time": 1666886121,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72916,
       "num": 72916,
       "word": "18岁男子酒驾被查报父亲身份证",
       "onboard_time": 1666876585,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70273,
-      "num": 70273,
-      "word": "抱娃过斑马线遇不礼让轿车险被撞",
-      "onboard_time": 1666886121,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -371,8 +379,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 36944,
-      "num": 36944,
+      "raw_hot": 37246,
+      "num": 37246,
       "word": "哈尔滨疫情防控",
       "onboard_time": 1666867757,
       "rank": 47,
@@ -395,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31555,
+      "num": 31555,
+      "word": "gidle新歌获MCD一位",
+      "onboard_time": 1666889897,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16943,
       "num": 300593,
       "word": "飞天圆梦",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#党的二十大报告提到了这些战略#"
+    },
+    {
+      "word": "#习近平等瞻仰中共七大会址#"
     }
   ]
 }
