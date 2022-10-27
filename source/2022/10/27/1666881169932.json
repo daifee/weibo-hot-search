@@ -1,0 +1,410 @@
+{
+  "runTime": 1666881169932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 733921,
+        "num": 733921,
+        "word": "爸爸给33周胎儿唱歌被一脚踢开",
+        "onboard_time": 1666876406,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 485454,
+        "num": 485454,
+        "word": "95后小伙患白血病2年理赔88次",
+        "onboard_time": 1666872022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42851,
+        "num": 480809,
+        "word": "飞天圆梦",
+        "onboard_time": 1666879165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 748177,
+        "num": 472504,
+        "word": "后天的事明天再说吧",
+        "onboard_time": 1666875684,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613786,
+        "num": 465714,
+        "word": "是我小看iPhone备忘录了",
+        "onboard_time": 1666873704,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 550494,
+        "num": 453162,
+        "word": "丈夫太抠门被妻子告上法庭",
+        "onboard_time": 1666878085,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446062,
+        "num": 446062,
+        "word": "原来生日可以领这么多东西",
+        "onboard_time": 1666871301,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 394758,
+        "num": 394758,
+        "word": "专家称是人斯人两种写法都有",
+        "onboard_time": 1666875383,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339485,
+        "num": 339485,
+        "word": "大爷卖的糖葫芦爬满蜜蜂",
+        "onboard_time": 1666875206,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324956,
+        "num": 324956,
+        "word": "王楚钦vs邱党",
+        "onboard_time": 1666874545,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407109,
+        "num": 323329,
+        "word": "剧方要求下架退休阿姨版甄嬛传",
+        "onboard_time": 1666864582,
+        "rank": 10,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 299272,
+        "num": 299272,
+        "word": "第一批鹤岗买房人已离开大半",
+        "onboard_time": 1666880486,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281531,
+        "num": 281531,
+        "word": "你会谈没结果的恋爱吗",
+        "onboard_time": 1666873042,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245093,
+        "num": 245093,
+        "word": "18岁男子酒驾被查报父亲身份证",
+        "onboard_time": 1666876585,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227083,
+        "num": 227083,
+        "word": "日方不得插手台湾问题",
+        "onboard_time": 1666879646,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 221175,
+        "num": 221175,
+        "word": "海克斯科技博主首次回应争议",
+        "onboard_time": 1666868365,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 198629,
+        "num": 198629,
+        "word": "古早综艺能有多搞笑",
+        "onboard_time": 1666877064,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184909,
+        "num": 184909,
+        "word": "男子被领导羞辱开车将其撞伤",
+        "onboard_time": 1666863563,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164374,
+        "num": 164374,
+        "word": "马龙状态",
+        "onboard_time": 1666872144,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149673,
+        "num": 149673,
+        "word": "迪丽热巴人形八音盒",
+        "onboard_time": 1666856963,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284196,
+        "num": 149076,
+        "word": "Angelababy晒染发vlog",
+        "onboard_time": 1666862725,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170164,
+        "num": 149040,
+        "word": "时代少年团西装珍珠链条造型大片",
+        "onboard_time": 1666875083,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164201,
+        "num": 148772,
+        "word": "王鹤棣说出门溜达溜达",
+        "onboard_time": 1666865965,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147800,
+        "num": 147800,
+        "word": "是人还是斯人人教社回应",
+        "onboard_time": 1666878446,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 141906,
+        "word": "苏有朋电影级舞台创意",
+        "onboard_time": 1666877005,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128787,
+        "num": 128787,
+        "word": "女子6块多网购柚子果肉仅有核桃大小",
+        "onboard_time": 1666865906,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122074,
+        "num": 122074,
+        "word": "男子凌晨遇气肿流浪猫收养送医",
+        "onboard_time": 1666873523,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117857,
+        "num": 117857,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1666867757,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110840,
+        "num": 110840,
+        "word": "郑州要求不得以防疫为由拒诊",
+        "onboard_time": 1666879464,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109253,
+        "num": 109253,
+        "word": "密室大逃脱",
+        "onboard_time": 1666854862,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105677,
+        "num": 105677,
+        "word": "原来狗狗也会落枕",
+        "onboard_time": 1666873883,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105169,
+        "num": 105169,
+        "word": "摊主不在饺子摊老板帮做3倍大饭团",
+        "onboard_time": 1666868964,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 100493,
+        "num": 100493,
+        "word": "林彦俊晒日常随拍",
+        "onboard_time": 1666872382,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95618,
+        "num": 95618,
+        "word": "衣服还能这么买",
+        "onboard_time": 1666864161,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92282,
+        "num": 92282,
+        "word": "陈幸同3比1杨晓欣",
+        "onboard_time": 1666879764,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83509,
+        "num": 83509,
+        "word": "宋茜陈星旭新剧的身高差",
+        "onboard_time": 1666866805,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83496,
+        "num": 83496,
+        "word": "真的很需要的办公用品",
+        "onboard_time": 1666874063,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 83082,
+        "num": 83082,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1666859664,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82449,
+        "num": 82449,
+        "word": "王一博街舞5与舞者花式互动",
+        "onboard_time": 1666869562,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 79210,
+        "num": 79210,
+        "word": "成年人就是要看动画片",
+        "onboard_time": 1666855164,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 78040,
+        "num": 78040,
+        "word": "王楚钦3比1邱党",
+        "onboard_time": 1666876585,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75010,
+        "num": 75010,
+        "word": "赵丽颖龚俊短片对视镜头",
+        "onboard_time": 1666864944,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74184,
+        "num": 74184,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73920,
+        "num": 73920,
+        "word": "华为前三季度营收4458亿",
+        "onboard_time": 1666861044,
+        "rank": 43,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 71141,
+        "num": 71141,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 44,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 66495,
+        "num": 66495,
+        "word": "0卡糖奶茶含糖量不降反增",
+        "onboard_time": 1666876465,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 65607,
+        "num": 65607,
+        "word": "林高远2比3波尔",
+        "onboard_time": 1666867705,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60517,
+        "num": 60517,
+        "word": "全国每9碗米饭就有1碗来自黑龙江",
+        "onboard_time": 1666856483,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55843,
+        "num": 55843,
+        "word": "陈梦vs袁嘉楠",
+        "onboard_time": 1666872503,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55349,
+        "num": 55349,
+        "word": "法证先锋5剧情抓马",
+        "onboard_time": 1666879524,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#前进道路上必须牢牢把握的重大原则#"
+    }
+  }
+}
