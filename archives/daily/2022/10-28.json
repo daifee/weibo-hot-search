@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666891690697,
+  "endTime": 1666892691482,
   "band_list": [
     {
       "raw_hot": 872654,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94363,
+      "num": 94363,
+      "word": "间谍过家家",
+      "onboard_time": 1666889658,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 91749,
       "num": 86213,
       "word": "曾凡博关键失误",
@@ -272,6 +280,14 @@
       "word": "法证先锋5剧情抓马",
       "onboard_time": 1666879524,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65770,
+      "num": 65770,
+      "word": "于和伟四部作品入围飞天奖",
+      "onboard_time": 1666890914,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -379,14 +395,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 42331,
-      "num": 42331,
-      "word": "于和伟四部作品入围飞天奖",
-      "onboard_time": 1666890914,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 37246,
       "num": 37246,
       "word": "哈尔滨疫情防控",
@@ -417,14 +425,6 @@
       "onboard_time": 1666882106,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29721,
-      "num": 29721,
-      "word": "间谍过家家",
-      "onboard_time": 1666889658,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 16943,
