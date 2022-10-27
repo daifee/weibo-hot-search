@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666875199480,
+  "endTime": 1666876860982,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -43,6 +43,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 1019741,
+      "num": 1019741,
+      "word": "王楚钦vs邱党",
+      "onboard_time": 1666874545,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1003067,
       "num": 124347,
       "word": "芋圆cp官宣",
@@ -83,6 +91,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 805180,
+      "num": 636087,
+      "word": "原来生日可以领这么多东西",
+      "onboard_time": 1666871301,
+      "rank": 3,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 787662,
       "num": 787662,
       "word": "科学家证明吃土可治疗肠炎",
@@ -105,14 +121,6 @@
       "onboard_time": 1666868365,
       "rank": 1,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 738821,
-      "num": 516163,
-      "word": "原来生日可以领这么多东西",
-      "onboard_time": 1666871301,
-      "rank": 3,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 729149,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699600,
+      "num": 628009,
+      "word": "是我小看iPhone备忘录了",
+      "onboard_time": 1666873704,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 669058,
       "num": 371065,
       "word": "宋雨琦担任综艺单独MC",
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611803,
+      "num": 611803,
+      "word": "95后小伙患白血病2年理赔88次",
+      "onboard_time": 1666872022,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610780,
       "num": 753345,
       "word": "长期不按时吃饭容易得胆结石",
@@ -203,19 +227,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565726,
+      "num": 565726,
+      "word": "官方回应网传全武汉猪肉停售五天",
+      "onboard_time": 1666871604,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527255,
       "num": 527255,
       "word": "女子6块多网购柚子果肉仅有核桃大小",
       "onboard_time": 1666865906,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497848,
-      "num": 497848,
-      "word": "官方回应网传全武汉猪肉停售五天",
-      "onboard_time": 1666871604,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1666802660,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 479828,
-      "num": 479828,
-      "word": "95后小伙患白血病2年理赔88次",
-      "onboard_time": 1666872022,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478097,
@@ -411,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408924,
-      "num": 408924,
-      "word": "是我小看iPhone备忘录了",
-      "onboard_time": 1666873704,
-      "rank": 6,
-      "category": "科技"
+      "raw_hot": 404344,
+      "num": 404344,
+      "word": "你会谈没结果的恋爱吗",
+      "onboard_time": 1666873042,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 400754,
@@ -651,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298185,
-      "num": 298185,
-      "word": "王楚钦vs邱党",
-      "onboard_time": 1666874545,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297436,
       "num": 297436,
       "word": "巴萨vs拜仁",
@@ -721,14 +729,6 @@
       "onboard_time": 1666858463,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265993,
-      "num": 265993,
-      "word": "你会谈没结果的恋爱吗",
-      "onboard_time": 1666873042,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 263940,
@@ -987,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198294,
+      "num": 198294,
+      "word": "王楚钦3比1邱党",
+      "onboard_time": 1666876585,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196963,
       "num": 178082,
       "word": "檀健次周也很想很想你壁咚吻戏路透",
@@ -1024,6 +1032,14 @@
       "word": "男子退伍2年偶遇自己当护旗手海报",
       "onboard_time": 1666837043,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192362,
+      "num": 192362,
+      "word": "男子凌晨遇气肿流浪猫收养送医",
+      "onboard_time": 1666873523,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1096,6 +1112,14 @@
       "word": "越喜欢一个人越想要远离",
       "onboard_time": 1666787963,
       "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177472,
+      "num": 177472,
+      "word": "后天的事明天再说吧",
+      "onboard_time": 1666875684,
+      "rank": 15,
       "category": "情感"
     },
     {
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155890,
+      "num": 155890,
+      "word": "原来狗狗也会落枕",
+      "onboard_time": 1666873883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "芋圆cp",
@@ -1236,7 +1268,7 @@
     },
     {
       "raw_hot": 142544,
-      "num": 106754,
+      "num": 131349,
       "word": "林彦俊晒日常随拍",
       "onboard_time": 1666872382,
       "rank": 31,
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110902,
+      "num": 110902,
+      "word": "大爷卖的糖葫芦爬满蜜蜂",
+      "onboard_time": 1666875206,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109785,
       "num": 109785,
       "word": "14岁背背篓网球少年说要拿大满贯",
@@ -1523,12 +1563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103194,
-      "num": 103194,
-      "word": "原来狗狗也会落枕",
-      "onboard_time": 1666873883,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 103149,
+      "num": 103149,
+      "word": "真的很需要的办公用品",
+      "onboard_time": 1666874063,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 103068,
@@ -1643,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90863,
+      "num": 90863,
+      "word": "爸爸给33周胎儿唱歌被一脚踢开",
+      "onboard_time": 1666876406,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 90593,
       "num": 90593,
       "word": "迪丽热巴直播",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1666826117,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88108,
-      "num": 88108,
-      "word": "真的很需要的办公用品",
-      "onboard_time": 1666874063,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 87625,
@@ -1747,12 +1787,28 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 77212,
+      "num": 77212,
+      "word": "专家称是人斯人两种写法都有",
+      "onboard_time": 1666875383,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77075,
       "num": 77075,
       "word": "陈梦3比1袁嘉楠",
       "onboard_time": 1666873944,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76108,
+      "num": 76108,
+      "word": "0卡糖奶茶含糖量不降反增",
+      "onboard_time": 1666876465,
+      "rank": 45,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 75811,
@@ -1779,12 +1835,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 72154,
-      "num": 72154,
-      "word": "男子凌晨遇气肿流浪猫收养送医",
-      "onboard_time": 1666873523,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 72429,
+      "num": 72429,
+      "word": "王嘉尔巡演巴黎加场",
+      "onboard_time": 1666876525,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 72021,
@@ -1792,6 +1848,14 @@
       "word": "西宁回应群众买菜难等问题",
       "onboard_time": 1666787003,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72014,
+      "num": 72014,
+      "word": "18岁男子酒驾被查报父亲身份证",
+      "onboard_time": 1666876585,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1900,7 +1964,7 @@
     },
     {
       "raw_hot": 56915,
-      "num": 533540,
+      "num": 641727,
       "word": "湿地秋景每一帧都美如壁纸",
       "onboard_time": 1666855463,
       "rank": 2,
@@ -2065,6 +2129,14 @@
       "onboard_time": 1666861163,
       "rank": 2,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29421,
+      "num": 91411,
+      "word": "双十一上线3D沉浸式购物",
+      "onboard_time": 1666875626,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28731,
