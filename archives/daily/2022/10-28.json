@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666896630777,
+  "endTime": 1666898396284,
   "band_list": [
     {
       "raw_hot": 872654,
@@ -427,8 +427,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21703,
-      "num": 21703,
+      "raw_hot": 29404,
+      "num": 29404,
       "word": "学生时期留下的永久印迹",
       "onboard_time": 1666894211,
       "rank": 46,
@@ -441,6 +441,14 @@
       "onboard_time": 1666879165,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10376,
+      "num": 10376,
+      "word": "林彦俊晒日常随拍",
+      "onboard_time": 1666872382,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

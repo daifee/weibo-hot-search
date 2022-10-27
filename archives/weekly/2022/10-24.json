@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666896630777,
+  "endTime": 1666898396284,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -7451,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29404,
+      "num": 29404,
+      "word": "学生时期留下的永久印迹",
+      "onboard_time": 1666894211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29312,
       "num": 45691,
       "word": "丝塔芙是什么啊",
@@ -7513,14 +7521,6 @@
       "onboard_time": 1666713745,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 21703,
-      "num": 21703,
-      "word": "学生时期留下的永久印迹",
-      "onboard_time": 1666894211,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21323,
