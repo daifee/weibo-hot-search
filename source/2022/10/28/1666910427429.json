@@ -1,0 +1,410 @@
+{
+  "runTime": 1666910427429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 396532,
+        "num": 396532,
+        "word": "坚持早睡身体会有什么变化",
+        "onboard_time": 1666885044,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 128328,
+        "word": "95后小伙患白血病2年理赔88次",
+        "onboard_time": 1666872022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14752,
+        "num": 115492,
+        "word": "飞天圆梦",
+        "onboard_time": 1666879165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188090,
+        "num": 114992,
+        "word": "原来生日可以领这么多东西",
+        "onboard_time": 1666871301,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176463,
+        "num": 114446,
+        "word": "是我小看iPhone备忘录了",
+        "onboard_time": 1666873704,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113882,
+        "num": 113882,
+        "word": "大爷卖的糖葫芦爬满蜜蜂",
+        "onboard_time": 1666875206,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110203,
+        "num": 110203,
+        "word": "金博洋",
+        "onboard_time": 1666882764,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91083,
+        "num": 91083,
+        "word": "爸爸给33周胎儿唱歌被一脚踢开",
+        "onboard_time": 1666876406,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 71949,
+        "num": 71949,
+        "word": "海克斯科技博主首次回应争议",
+        "onboard_time": 1666868365,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 68594,
+        "num": 68594,
+        "word": "抱娃过斑马线遇不礼让轿车险被撞",
+        "onboard_time": 1666886121,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171501,
+        "num": 68344,
+        "word": "西宁通报一颗白菜49.31元核查情况",
+        "onboard_time": 1666885465,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 68023,
+        "word": "双胞胎姐妹同天同医院生娃",
+        "onboard_time": 1666902250,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94369,
+        "num": 67652,
+        "word": "丈夫太抠门被妻子告上法庭",
+        "onboard_time": 1666878085,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89612,
+        "num": 67353,
+        "word": "剧方要求下架退休阿姨版甄嬛传",
+        "onboard_time": 1666864582,
+        "rank": 13,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 80235,
+        "num": 67194,
+        "word": "普京指挥应对大规模核打击训练",
+        "onboard_time": 1666899671,
+        "rank": 14,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 66886,
+        "num": 66886,
+        "word": "日方不得插手台湾问题",
+        "onboard_time": 1666879646,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64585,
+        "num": 64585,
+        "word": "万茜方否认是今年金鹰女神",
+        "onboard_time": 1666882106,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60567,
+        "num": 60567,
+        "word": "是人还是斯人人教社回应",
+        "onboard_time": 1666878446,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48578,
+        "num": 48578,
+        "word": "LPL解说预测S12半决赛",
+        "onboard_time": 1666881265,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45562,
+        "num": 45562,
+        "word": "郑州要求不得以防疫为由拒诊",
+        "onboard_time": 1666879464,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73011,
+        "num": 45433,
+        "word": "王一博眼睛里藏摄影师",
+        "onboard_time": 1666882824,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45300,
+        "num": 45300,
+        "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
+        "onboard_time": 1666886482,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40922,
+        "num": 40922,
+        "word": "长沙岳麓区检出1例阳性感染者",
+        "onboard_time": 1666883665,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38536,
+        "num": 38536,
+        "word": "女明星近期直播生图",
+        "onboard_time": 1666886303,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35987,
+        "num": 35987,
+        "word": "曾凡博关键失误",
+        "onboard_time": 1666888579,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33778,
+        "num": 33778,
+        "word": "女子6块多网购柚子果肉仅有核桃大小",
+        "onboard_time": 1666865906,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33321,
+        "num": 33321,
+        "word": "于和伟四部作品入围飞天奖",
+        "onboard_time": 1666890914,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32791,
+        "num": 32791,
+        "word": "两次跳湖救人出租司机被申报见义勇为",
+        "onboard_time": 1666900510,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 30568,
+        "num": 30568,
+        "word": "18岁男子酒驾被查报父亲身份证",
+        "onboard_time": 1666876585,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29410,
+        "num": 29410,
+        "word": "minji校庆公主切造型",
+        "onboard_time": 1666885883,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28405,
+        "num": 28405,
+        "word": "专家称是人斯人两种写法都有",
+        "onboard_time": 1666875383,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27455,
+        "num": 27455,
+        "word": "摊主不在饺子摊老板帮做3倍大饭团",
+        "onboard_time": 1666868964,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 27107,
+        "num": 27107,
+        "word": "你会谈没结果的恋爱吗",
+        "onboard_time": 1666873042,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27036,
+        "num": 27036,
+        "word": "时代少年团西装珍珠链条造型大片",
+        "onboard_time": 1666875083,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26151,
+        "num": 26151,
+        "word": "男子凌晨遇气肿流浪猫收养送医",
+        "onboard_time": 1666873523,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25826,
+        "num": 25826,
+        "word": "男子被领导羞辱开车将其撞伤",
+        "onboard_time": 1666863563,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 25085,
+        "num": 25085,
+        "word": "后天的事明天再说吧",
+        "onboard_time": 1666875684,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22935,
+        "num": 22935,
+        "word": "马龙状态",
+        "onboard_time": 1666872144,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21310,
+        "num": 21310,
+        "word": "间谍过家家",
+        "onboard_time": 1666889658,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21120,
+        "num": 21120,
+        "word": "Angelababy晒染发vlog",
+        "onboard_time": 1666862725,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20800,
+        "num": 20800,
+        "word": "学生时期留下的永久印迹",
+        "onboard_time": 1666894211,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20206,
+        "num": 20206,
+        "word": "原来被夸真的会很快乐",
+        "onboard_time": 1666882584,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19834,
+        "num": 19834,
+        "word": "法证先锋5剧情抓马",
+        "onboard_time": 1666879524,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19538,
+        "num": 19538,
+        "word": "家装也能这么可爱",
+        "onboard_time": 1666903270,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16962,
+        "num": 16962,
+        "word": "王楚钦vs邱党",
+        "onboard_time": 1666874545,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16592,
+        "num": 16592,
+        "word": "古早综艺能有多搞笑",
+        "onboard_time": 1666877064,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16244,
+        "num": 16244,
+        "word": "林俊杰jj20世界巡回演唱会启动",
+        "onboard_time": 1666885044,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15747,
+        "num": 15747,
+        "word": "王鹤棣说出门溜达溜达",
+        "onboard_time": 1666865965,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14720,
+        "num": 14720,
+        "word": "原来狗狗也会落枕",
+        "onboard_time": 1666873883,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13916,
+        "num": 14716,
+        "word": "谁不爱看帅哥打篮球呢",
+        "onboard_time": 1666887203,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等瞻仰中共七大会址#"
+    }
+  }
+}
