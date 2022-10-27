@@ -1,0 +1,410 @@
+{
+  "runTime": 1666875199480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 708098,
+        "num": 708098,
+        "word": "马龙状态",
+        "onboard_time": 1666872144,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603763,
+        "num": 603763,
+        "word": "海克斯科技博主首次回应争议",
+        "onboard_time": 1666868365,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 53407,
+        "num": 533540,
+        "word": "湿地秋景每一帧都美如壁纸",
+        "onboard_time": 1666855463,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 738821,
+        "num": 516163,
+        "word": "原来生日可以领这么多东西",
+        "onboard_time": 1666871301,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 497848,
+        "num": 497848,
+        "word": "官方回应网传全武汉猪肉停售五天",
+        "onboard_time": 1666871604,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479828,
+        "num": 479828,
+        "word": "95后小伙患白血病2年理赔88次",
+        "onboard_time": 1666872022,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408924,
+        "num": 408924,
+        "word": "是我小看iPhone备忘录了",
+        "onboard_time": 1666873704,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 389989,
+        "num": 389989,
+        "word": "陈梦vs袁嘉楠",
+        "onboard_time": 1666872503,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335158,
+        "num": 335158,
+        "word": "大学城才是平价美食天堂",
+        "onboard_time": 1666867584,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319203,
+        "num": 319203,
+        "word": "摊主不在饺子摊老板帮做3倍大饭团",
+        "onboard_time": 1666868964,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 598179,
+        "num": 317607,
+        "word": "剧方要求下架退休阿姨版甄嬛传",
+        "onboard_time": 1666864582,
+        "rank": 10,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 314587,
+        "num": 314587,
+        "word": "男子被领导羞辱开车将其撞伤",
+        "onboard_time": 1666863563,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 298185,
+        "num": 298185,
+        "word": "王楚钦vs邱党",
+        "onboard_time": 1666874545,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265993,
+        "num": 265993,
+        "word": "你会谈没结果的恋爱吗",
+        "onboard_time": 1666873042,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52396,
+        "num": 252984,
+        "word": "对话抗争罕见病28年的女孩",
+        "onboard_time": 1666872083,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245594,
+        "num": 245594,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1666867757,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198695,
+        "num": 198695,
+        "word": "女子6块多网购柚子果肉仅有核桃大小",
+        "onboard_time": 1666865906,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180633,
+        "num": 180633,
+        "word": "马龙vs约奇克",
+        "onboard_time": 1666869982,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172249,
+        "num": 172249,
+        "word": "迪丽热巴人形八音盒",
+        "onboard_time": 1666856963,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164028,
+        "num": 164028,
+        "word": "何其有幸的爱情买卖只值两块",
+        "onboard_time": 1666870224,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458786,
+        "num": 160930,
+        "word": "时代少年团西装珍珠链条造型大片",
+        "onboard_time": 1666875083,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304356,
+        "num": 160889,
+        "word": "Angelababy晒染发vlog",
+        "onboard_time": 1666862725,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152458,
+        "num": 152458,
+        "word": "王鹤棣说出门溜达溜达",
+        "onboard_time": 1666865965,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148074,
+        "num": 148074,
+        "word": "宋茜陈星旭新剧的身高差",
+        "onboard_time": 1666866805,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144802,
+        "num": 144802,
+        "word": "成年人就是要看动画片",
+        "onboard_time": 1666855164,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143970,
+        "num": 143970,
+        "word": "密室大逃脱",
+        "onboard_time": 1666854862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 136017,
+        "word": "90后考古女孩自创圆规式起立",
+        "onboard_time": 1666870762,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131399,
+        "num": 131399,
+        "word": "林高远2比3波尔",
+        "onboard_time": 1666867705,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116801,
+        "num": 116801,
+        "word": "衣服还能这么买",
+        "onboard_time": 1666864161,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108328,
+        "num": 108328,
+        "word": "全国每9碗米饭就有1碗来自黑龙江",
+        "onboard_time": 1666856483,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139566,
+        "num": 108034,
+        "word": "王一博街舞5与舞者花式互动",
+        "onboard_time": 1666869562,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 142544,
+        "num": 106754,
+        "word": "林彦俊晒日常随拍",
+        "onboard_time": 1666872382,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111817,
+        "num": 105997,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 105131,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1666859664,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 104275,
+        "num": 104275,
+        "word": "华为前三季度营收4458亿",
+        "onboard_time": 1666861044,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 103194,
+        "num": 103194,
+        "word": "原来狗狗也会落枕",
+        "onboard_time": 1666873883,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99533,
+        "num": 99533,
+        "word": "科学家发现可恢复听力的蛋白质",
+        "onboard_time": 1666865243,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 88295,
+        "word": "杜德伟披荆斩棘从头跳到尾",
+        "onboard_time": 1666864703,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88108,
+        "num": 88108,
+        "word": "真的很需要的办公用品",
+        "onboard_time": 1666874063,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 78574,
+        "num": 78574,
+        "word": "每一口狗粮都是辛苦挣的",
+        "onboard_time": 1666866444,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85859,
+        "num": 78258,
+        "word": "赵丽颖龚俊短片对视镜头",
+        "onboard_time": 1666864944,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77075,
+        "num": 77075,
+        "word": "陈梦3比1袁嘉楠",
+        "onboard_time": 1666873944,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76172,
+        "num": 76172,
+        "word": "对儿童手表心动了",
+        "onboard_time": 1666866686,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72938,
+        "num": 72938,
+        "word": "孙颖莎vs米特兰姆",
+        "onboard_time": 1666868004,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72154,
+        "num": 72154,
+        "word": "男子凌晨遇气肿流浪猫收养送医",
+        "onboard_time": 1666873523,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71069,
+        "num": 71069,
+        "word": "国防部称台独是绝路统一是正途",
+        "onboard_time": 1666863201,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 69375,
+        "num": 69375,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 46,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 67271,
+        "num": 67271,
+        "word": "苏醒看密室大逃脱reaction",
+        "onboard_time": 1666859723,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66131,
+        "num": 66131,
+        "word": "兵哥哥救人有多低调",
+        "onboard_time": 1666874303,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65628,
+        "num": 65628,
+        "word": "马龙3比1约奇克",
+        "onboard_time": 1666871844,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大报告提到了这些战略#"
+    }
+  }
+}
