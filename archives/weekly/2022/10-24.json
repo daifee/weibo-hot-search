@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666863755938,
+  "endTime": 1666866370199,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -435,6 +435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 869375,
+      "num": 410365,
+      "word": "男子被领导羞辱开车将其撞伤",
+      "onboard_time": 1666863563,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 862167,
       "num": 86782,
       "word": "男子误吃松鼠过冬板栗后加倍奉还",
@@ -529,6 +537,14 @@
       "onboard_time": 1666850724,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787206,
+      "num": 176983,
+      "word": "剧方要求下架退休阿姨版甄嬛传",
+      "onboard_time": 1666864582,
+      "rank": 20,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 784108,
@@ -1483,6 +1499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 437864,
+      "num": 437864,
+      "word": "林高远vs波尔",
+      "onboard_time": 1666864883,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436999,
       "num": 436999,
       "word": "吴倩李佳航九义人开机路透",
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391482,
+      "num": 391482,
+      "word": "华为前三季度营收4458亿",
+      "onboard_time": 1666861044,
+      "rank": 12,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 391343,
       "num": 391343,
       "word": "越喜欢一个人越想要远离",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1666672586,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382172,
+      "num": 187801,
+      "word": "王鹤棣说出门溜达溜达",
+      "onboard_time": 1666865965,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 381519,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1666612343,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363538,
-      "num": 363538,
-      "word": "华为前三季度营收4458亿",
-      "onboard_time": 1666861044,
-      "rank": 12,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 362130,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1666754005,
       "rank": 25,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 269192,
+      "num": 219492,
+      "word": "衣服还能这么买",
+      "onboard_time": 1666864161,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 268791,
@@ -3707,6 +3747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202548,
+      "num": 202548,
+      "word": "杜德伟披荆斩棘从头跳到尾",
+      "onboard_time": 1666864703,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202431,
       "num": 108260,
       "word": "莲花楼杀青特辑10小时播放破3000万",
@@ -3817,6 +3865,14 @@
       "onboard_time": 1666837043,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190542,
+      "num": 190542,
+      "word": "赵丽颖龚俊短片对视镜头",
+      "onboard_time": 1666864944,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189585,
@@ -4611,6 +4667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138155,
+      "num": 138155,
+      "word": "国防部称台独是绝路统一是正途",
+      "onboard_time": 1666863201,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 137613,
       "num": 29101,
       "word": "章鱼哥演我上班心情",
@@ -4763,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130871,
+      "num": 130871,
+      "word": "像拔完智齿的我",
+      "onboard_time": 1666862603,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "民警凭一棵树定位解救陷传销小伙",
@@ -4865,6 +4937,14 @@
       "onboard_time": 1666598183,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 125065,
+      "num": 125800,
+      "word": "李冰洁短池400自超世界纪录",
+      "onboard_time": 1666865544,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 125005,
@@ -5179,14 +5259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108548,
-      "num": 108548,
-      "word": "像拔完智齿的我",
-      "onboard_time": 1666862603,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108540,
       "num": 108540,
       "word": "Jennie登韩版ELLE封面",
@@ -5315,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104166,
+      "num": 104166,
+      "word": "表情包都要被你们玩坏了",
+      "onboard_time": 1666865604,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103980,
       "num": 53041,
       "word": "打工不如打电话",
@@ -5329,6 +5409,14 @@
       "onboard_time": 1666654401,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102800,
+      "num": 102800,
+      "word": "宋茜说你好林西",
+      "onboard_time": 1666864823,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 102712,
@@ -5689,6 +5777,14 @@
       "onboard_time": 1666656446,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 87466,
+      "num": 87466,
+      "word": "科学家发现可恢复听力的蛋白质",
+      "onboard_time": 1666865243,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87193,
@@ -6059,6 +6155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72719,
+      "num": 72719,
+      "word": "女子6块多网购柚子果肉仅有核桃大小",
+      "onboard_time": 1666865906,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72666,
       "num": 49524,
       "word": "早八人的晚八生活",
@@ -6219,20 +6323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65357,
-      "num": 65357,
-      "word": "国防部称台独是绝路统一是正途",
-      "onboard_time": 1666863201,
-      "rank": 45,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 65052,
       "num": 65052,
       "word": "你会手机电量焦虑吗",
       "onboard_time": 1666678165,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64974,
+      "num": 200742,
+      "word": "山东一货车贴满失踪儿童信息",
+      "onboard_time": 1666864883,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64775,
@@ -6257,14 +6361,6 @@
       "onboard_time": 1666589182,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64294,
-      "num": 64294,
-      "word": "男子被领导羞辱开车将其撞伤",
-      "onboard_time": 1666863563,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 63939,
@@ -6569,6 +6665,14 @@
       "onboard_time": 1666856122,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47500,
+      "num": 411035,
+      "word": "湿地秋景每一帧都美如壁纸",
+      "onboard_time": 1666855463,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 46538,
@@ -7117,6 +7221,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#党的二十大报告提到了这些战略#"
     }
   ]
 }
