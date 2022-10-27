@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666860338032,
+  "endTime": 1666862785966,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -185,6 +185,14 @@
       "onboard_time": 1666673006,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1247510,
+      "num": 209337,
+      "word": "Angelababy晒染发vlog",
+      "onboard_time": 1666862725,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1247378,
@@ -1331,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473109,
+      "num": 473109,
+      "word": "解决台湾问题是中国人自己的事",
+      "onboard_time": 1666859664,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 471169,
       "num": 394465,
       "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
@@ -2283,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334575,
+      "num": 334575,
+      "word": "WTT",
+      "onboard_time": 1666859545,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333261,
       "num": 238742,
       "word": "北二外原党委书记顾晓园接受审查调查",
@@ -2683,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281281,
+      "num": 281281,
+      "word": "有一种友谊叫大张伟和张雨绮",
+      "onboard_time": 1666857203,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281256,
       "num": 82671,
       "word": "2022MAMA最佳女艺人提名",
@@ -2939,6 +2971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256513,
+      "num": 256513,
+      "word": "华为前三季度营收4458亿",
+      "onboard_time": 1666861044,
+      "rank": 12,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 255730,
       "num": 255730,
       "word": "霉霉BejeweledMV",
@@ -2985,6 +3025,14 @@
       "onboard_time": 1666756166,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250499,
+      "num": 250499,
+      "word": "居然被松子给难住了",
+      "onboard_time": 1666858823,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 249828,
@@ -3123,6 +3171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241399,
+      "num": 241399,
+      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+      "onboard_time": 1666858164,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241294,
       "num": 241294,
       "word": "当我的猫瘾突然犯了",
@@ -3193,14 +3249,6 @@
       "onboard_time": 1666763724,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236836,
-      "num": 236836,
-      "word": "有一种友谊叫大张伟和张雨绮",
-      "onboard_time": 1666857203,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 236470,
@@ -3288,6 +3336,14 @@
       "word": "男子扛600多斤木材下山赚钱养家",
       "onboard_time": 1666610362,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229706,
+      "num": 229706,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3555,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208786,
+      "num": 208786,
+      "word": "上海女生记录猫咪钻袋子一个月",
+      "onboard_time": 1666860443,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208562,
       "num": 10150,
       "word": "S12淘汰赛",
@@ -3697,14 +3761,6 @@
       "onboard_time": 1666653920,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 195940,
-      "num": 195940,
-      "word": "WTT",
-      "onboard_time": 1666859545,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 195143,
@@ -4308,7 +4364,7 @@
     },
     {
       "raw_hot": 147550,
-      "num": 117440,
+      "num": 132155,
       "word": "周柏豪倒进浴缸好帅",
       "onboard_time": 1666857262,
       "rank": 31,
@@ -4364,7 +4420,7 @@
     },
     {
       "raw_hot": 145248,
-      "num": 116742,
+      "num": 135469,
       "word": "苏醒看密室大逃脱reaction",
       "onboard_time": 1666859723,
       "rank": 32,
@@ -4400,14 +4456,6 @@
       "word": "白天咖啡强制开机",
       "onboard_time": 1666690524,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 143503,
-      "num": 143503,
-      "word": "居然被松子给难住了",
-      "onboard_time": 1666858823,
-      "rank": 26,
       "category": "幽默"
     },
     {
@@ -4699,20 +4747,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131007,
-      "num": 131007,
-      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
-      "onboard_time": 1666858164,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130997,
       "num": 109793,
       "word": "芳心荡漾",
       "onboard_time": 1666793306,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130487,
+      "num": 130487,
+      "word": "民警凭一棵树定位解救陷传销小伙",
+      "onboard_time": 1666858103,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130469,
@@ -5003,14 +5051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115546,
-      "num": 115546,
-      "word": "男子炒菜触发消防喷淋被淋1小时",
-      "onboard_time": 1666858463,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114975,
       "num": 14544,
       "word": "考研人的备考清单有多离谱",
@@ -5275,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102712,
+      "num": 102712,
+      "word": "微博SVIP限量预售",
+      "onboard_time": 1666856843,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 101422,
       "num": 84962,
       "word": "库克参加F1活动表情麻木遭嘲笑",
@@ -5377,6 +5425,14 @@
       "onboard_time": 1666750702,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 98868,
+      "num": 98868,
+      "word": "龚俊演AI人工智能",
+      "onboard_time": 1666860863,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 98863,
@@ -5483,14 +5539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93614,
-      "num": 93614,
-      "word": "解决台湾问题是中国人自己的事",
-      "onboard_time": 1666859664,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 93546,
       "num": 93546,
       "word": "二十届中央政治局委员 书记处书记简历",
@@ -5555,28 +5603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91393,
-      "num": 91393,
-      "word": "民警凭一棵树定位解救陷传销小伙",
-      "onboard_time": 1666858103,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
       "onboard_time": 1666765045,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 90309,
-      "num": 90309,
-      "word": "微博SVIP限量预售",
-      "onboard_time": 1666856843,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 90221,
@@ -6259,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62699,
+      "num": 62699,
+      "word": "像拔完智齿的我",
+      "onboard_time": 1666862603,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62041,
       "num": 291570,
       "word": "甘宇回忆17个死里逃生的日夜",
@@ -6673,6 +6713,22 @@
       "onboard_time": 1666711228,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 32648,
+      "num": 459577,
+      "word": "血战松毛岭使命感",
+      "onboard_time": 1666861163,
+      "rank": 2,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 29558,
+      "num": 245600,
+      "word": "老人写40余篇抗癌手记激励他人",
+      "onboard_time": 1666861284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29312,
