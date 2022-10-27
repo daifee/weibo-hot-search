@@ -1,10 +1,10 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666855321785,
+  "endTime": 1666856269303,
   "band_list": [
     {
       "raw_hot": 2271493,
-      "num": 624364,
+      "num": 697675,
       "word": "羊了个羊背后公司现清仓式分红",
       "onboard_time": 1666833983,
       "rank": 3,
@@ -59,19 +59,19 @@
       "category": "其它"
     },
     {
+      "raw_hot": 787662,
+      "num": 787662,
+      "word": "科学家证明吃土可治疗肠炎",
+      "onboard_time": 1666850724,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784108,
       "num": 291222,
       "word": "人民日报五问西宁有关部门",
       "onboard_time": 1666839443,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737470,
-      "num": 737470,
-      "word": "科学家证明吃土可治疗肠炎",
-      "onboard_time": 1666850724,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649480,
+      "num": 649480,
+      "word": "张元英2022AAA确定担任MC",
+      "onboard_time": 1666854862,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637424,
       "num": 637424,
       "word": "湖南一年吃掉330万吨辣椒",
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626962,
+      "num": 237359,
+      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+      "onboard_time": 1666848326,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610780,
       "num": 753345,
       "word": "长期不按时吃饭容易得胆结石",
       "onboard_time": 1666835482,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608117,
-      "num": 237359,
-      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
-      "onboard_time": 1666848326,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 604653,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356594,
+      "num": 356594,
+      "word": "密室大逃脱",
+      "onboard_time": 1666854862,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351231,
       "num": 206888,
       "word": "中方就台大科考船遭日方干扰提出交涉",
@@ -379,12 +395,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 325903,
-      "num": 325903,
-      "word": "张元英2022AAA确定担任MC",
-      "onboard_time": 1666854862,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 320667,
+      "num": 191151,
+      "word": "张凌赫他从火光中走来撑伞氛围感路透",
+      "onboard_time": 1666851502,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317361,
+      "num": 317361,
+      "word": "代驾司机敲诈酒驾车主反转了",
+      "onboard_time": 1666853543,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316796,
@@ -627,27 +651,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204230,
-      "num": 190224,
-      "word": "张凌赫他从火光中走来撑伞氛围感路透",
-      "onboard_time": 1666851502,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204064,
       "num": 204064,
       "word": "民警巡逻遇2只东北虎迎面走来",
       "onboard_time": 1666842747,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202917,
-      "num": 202917,
-      "word": "代驾司机敲诈酒驾车主反转了",
-      "onboard_time": 1666853543,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -835,20 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144669,
-      "num": 109921,
-      "word": "密室大逃脱",
-      "onboard_time": 1666854862,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142693,
       "num": 111920,
       "word": "李振宁说很多舞台不让唱自己的歌",
       "onboard_time": 1666848503,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141559,
+      "num": 141559,
+      "word": "成年人就是要看动画片",
+      "onboard_time": 1666855164,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 140653,
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 138998,
-      "num": 105517,
+      "num": 112688,
       "word": "秦岚蓝盈莹新浪扫楼",
       "onboard_time": 1666855043,
       "rank": 31,
@@ -969,6 +977,14 @@
       "onboard_time": 1666794026,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 123960,
+      "num": 123960,
+      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+      "onboard_time": 1666854022,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119813,
@@ -1163,20 +1179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89259,
+      "num": 89259,
+      "word": "双十一你的账单有多长",
+      "onboard_time": 1666853543,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87625,
       "num": 87625,
       "word": "剑网3横刀断浪",
       "onboard_time": 1666844548,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86163,
-      "num": 86163,
-      "word": "双十一你的账单有多长",
-      "onboard_time": 1666853543,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82862,
@@ -1227,12 +1243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74477,
-      "num": 74477,
-      "word": "成年人就是要看动画片",
-      "onboard_time": 1666855164,
-      "rank": 42,
-      "category": "动漫"
+      "raw_hot": 74383,
+      "num": 74383,
+      "word": "TTG是懂自拍的",
+      "onboard_time": 1666855043,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 73506,
@@ -1240,14 +1256,6 @@
       "word": "女孩吃假减肥药致精神分裂",
       "onboard_time": 1666773806,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73353,
-      "num": 73353,
-      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
-      "onboard_time": 1666854022,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1339,14 +1347,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 59775,
-      "num": 59775,
-      "word": "TTG是懂自拍的",
-      "onboard_time": 1666855043,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 54972,
       "num": 54972,
       "word": "张艺兴面纱提名2022亚洲最佳流行音乐",
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 53287,
-      "num": 629409,
+      "num": 736160,
       "word": "9个高频词看二十大报告",
       "onboard_time": 1666829544,
       "rank": 2,
@@ -1377,6 +1377,22 @@
       "onboard_time": 1666783705,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 47693,
+      "num": 60827,
+      "word": "NBA新赛季2022",
+      "onboard_time": 1666856122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46538,
+      "num": 59535,
+      "word": "王曼昱晋级WTT世界杯8强",
+      "onboard_time": 1666856122,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 46260,
@@ -1443,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37109,
+      "num": 262842,
+      "word": "14岁微光男孩萨克斯10级并自学谱曲",
+      "onboard_time": 1666854083,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34294,
       "num": 128274,
       "word": "天猫将实现家具家电全国免费送装",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1666784843,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19411,
-      "num": 261623,
-      "word": "14岁微光男孩萨克斯10级并自学谱曲",
-      "onboard_time": 1666854083,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18288,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 15:22:01
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 15:37:49
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ C盘一下子就不红了（热度：837150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E6%98%8E%E5%90%83%E5%9C%9F%E5%8F%AF%E6%B2%BB%E7%96%97%E8%82%A0%E7%82%8E%23" target="weibo">
+科学家证明吃土可治疗肠炎（热度：787662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AE%AE%E7%A8%8B%23" target="weibo">
 二十大议程（热度：787646）
 </a>
@@ -3839,12 +3845,6 @@ LPL为米勒澄清（热度：741959）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E9%9C%80%E8%A6%81%E8%BF%99%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%A3%B3%23" target="weibo">
 冬天需要这个手机壳（热度：738454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E6%98%8E%E5%90%83%E5%9C%9F%E5%8F%AF%E6%B2%BB%E7%96%97%E8%82%A0%E7%82%8E%23" target="weibo">
-科学家证明吃土可治疗肠炎（热度：737470）
 </a>
 </li>
 
@@ -4779,6 +4779,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B12022AAA%E7%A1%AE%E5%AE%9A%E6%8B%85%E4%BB%BBMC%23" target="weibo">
+张元英2022AAA确定担任MC（热度：649480）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%9C%BC%E5%90%AB%E7%83%AD%E6%B3%AA%E5%90%AC%E5%AE%8C%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%23" target="weibo">
 张桂梅眼含热泪听完二十大报告（热度：649424）
 </a>
@@ -5043,6 +5049,12 @@ iPhone6二手收购价低至100元（热度：632338）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%9C%A8%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
+李承铉在披荆斩棘官宣戚薇二胎生子（热度：626962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%B4%97%E6%BE%A1%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E8%AE%A8%E5%8E%8C%E6%B4%97%E6%BE%A1%23" target="weibo">
 只有洗澡的时候不讨厌洗澡（热度：625869）
 </a>
@@ -5267,12 +5279,6 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E8%83%BD%E7%9C%8B%E5%88%B0%E8%87%AA%E5%B7%B1%23" target="weibo">
 马龙说不确定巴黎奥运能看到自己（热度：608693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%9C%A8%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
-李承铉在披荆斩棘官宣戚薇二胎生子（热度：608117）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ RNG战胜SGB（热度：556732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%8B%E6%83%85%E6%B2%A1%E6%9C%89%E7%9C%9F%E6%AD%A3%E7%9A%84be%23" target="weibo">
 原来友情没有真正的be（热度：552521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A8%83%E7%8E%A9%E8%8D%AF%E7%B2%89%E5%A6%88%E5%A6%88%E5%B8%AE%E6%B8%85%E6%B4%97%E5%85%A8%E8%A2%AB%E6%9F%93%E7%B4%AB%23" target="weibo">
-1岁娃玩药粉妈妈帮清洗全被染紫（热度：552288）
 </a>
 </li>
 
