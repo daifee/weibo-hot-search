@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666856269303,
+  "endTime": 1666859382096,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701043,
+      "num": 649480,
+      "word": "张元英2022AAA确定担任MC",
+      "onboard_time": 1666854862,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700262,
       "num": 431363,
       "word": "小说里的女将军有脸了",
@@ -731,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649480,
-      "num": 649480,
-      "word": "张元英2022AAA确定担任MC",
-      "onboard_time": 1666854862,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 643447,
       "num": 430542,
       "word": "浮图缘王鹤棣陈钰琪吻戏路透",
@@ -793,6 +793,14 @@
       "onboard_time": 1666597641,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 623789,
+      "num": 623789,
+      "word": "正午阳光四部剧入围飞天奖",
+      "onboard_time": 1666856662,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 621728,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477856,
+      "num": 477856,
+      "word": "密室大逃脱",
+      "onboard_time": 1666854862,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475491,
       "num": 346497,
       "word": "肖战王牌部队入围第33届飞天奖",
@@ -1435,6 +1451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 448067,
+      "num": 338356,
+      "word": "迪丽热巴人形八音盒",
+      "onboard_time": 1666856963,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 436999,
       "num": 436999,
       "word": "吴倩李佳航九义人开机路透",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1666567519,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428305,
+      "num": 428305,
+      "word": "代驾司机敲诈酒驾车主反转了",
+      "onboard_time": 1666853543,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428252,
@@ -1851,6 +1883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 379704,
+      "num": 379704,
+      "word": "成年人就是要看动画片",
+      "onboard_time": 1666855164,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 376925,
       "num": 376925,
       "word": "纳什被驱逐",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1666615403,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356594,
-      "num": 356594,
-      "word": "密室大逃脱",
-      "onboard_time": 1666854862,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 355522,
@@ -2352,14 +2384,6 @@
       "word": "伸冤56年老人汪康夫因病去世",
       "onboard_time": 1666680685,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317361,
-      "num": 317361,
-      "word": "代驾司机敲诈酒驾车主反转了",
-      "onboard_time": 1666853543,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2811,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265646,
+      "num": 265646,
+      "word": "全国每9碗米饭就有1碗来自黑龙江",
+      "onboard_time": 1666856483,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264348,
       "num": 60590,
       "word": "蓝盈莹扮演黄文秀上演隔空对话",
@@ -2971,6 +3003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248903,
+      "num": 248903,
+      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+      "onboard_time": 1666854022,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248876,
       "num": 248876,
       "word": "不吃早饭或晚饭哪个对身体影响更大",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1666834162,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241511,
+      "num": 241511,
+      "word": "赵丽颖说会唱的一起唱",
+      "onboard_time": 1666858883,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241294,
@@ -3681,6 +3729,14 @@
       "onboard_time": 1666705946,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193202,
+      "num": 193202,
+      "word": "有一种友谊叫大张伟和张雨绮",
+      "onboard_time": 1666857203,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 192417,
@@ -4323,6 +4379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143503,
+      "num": 143503,
+      "word": "居然被松子给难住了",
+      "onboard_time": 1666858823,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142959,
       "num": 60763,
       "word": "黑猩猩喝牛奶也知道用签签捅盖盖",
@@ -4379,14 +4443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 141559,
-      "num": 141559,
-      "word": "成年人就是要看动画片",
-      "onboard_time": 1666855164,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 141163,
       "num": 82541,
       "word": "王凯说今晚见陈宇",
@@ -4401,6 +4457,14 @@
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139799,
+      "num": 94857,
+      "word": "周柏豪倒进浴缸好帅",
+      "onboard_time": 1666857262,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 139553,
@@ -4755,12 +4819,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123960,
-      "num": 123960,
-      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
-      "onboard_time": 1666854022,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 123664,
+      "num": 93315,
+      "word": "苏醒密室最清醒的玩家",
+      "onboard_time": 1666858103,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 123213,
@@ -4977,6 +5041,14 @@
       "onboard_time": 1666783883,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110951,
+      "num": 110951,
+      "word": "双十一你的账单有多长",
+      "onboard_time": 1666853543,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110728,
@@ -5475,14 +5547,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 89259,
-      "num": 89259,
-      "word": "双十一你的账单有多长",
-      "onboard_time": 1666853543,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88989,
       "num": 77280,
       "word": "宋茜许魏洲新剧演情侣",
@@ -5747,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79085,
+      "num": 79085,
+      "word": "TTG是懂自拍的",
+      "onboard_time": 1666855043,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78946,
       "num": 78946,
       "word": "蔡茂强肖建强被批准为烈士",
@@ -5843,12 +5915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74383,
-      "num": 74383,
-      "word": "TTG是懂自拍的",
-      "onboard_time": 1666855043,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 73851,
+      "num": 73851,
+      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+      "onboard_time": 1666858164,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73775,
@@ -5857,6 +5929,14 @@
       "onboard_time": 1666795707,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73352,
+      "num": 73352,
+      "word": "微博SVIP限量预售",
+      "onboard_time": 1666856843,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 73080,
@@ -5963,6 +6043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68309,
+      "num": 68309,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68236,
       "num": 68236,
       "word": "算是把各大品牌拿捏了",
@@ -5979,6 +6067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 68014,
+      "num": 68014,
+      "word": "1个动作有效放松肩颈",
+      "onboard_time": 1666858644,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67894,
       "num": 58479,
       "word": "妈妈其实也很爱美",
@@ -5993,6 +6089,14 @@
       "onboard_time": 1666742364,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66787,
+      "num": 66787,
+      "word": "民警凭一棵树定位解救陷传销小伙",
+      "onboard_time": 1666858103,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66639,
@@ -6281,6 +6385,14 @@
       "onboard_time": 1666829544,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53042,
+      "num": 59412,
+      "word": "这就是中西文化的碰撞吧",
+      "onboard_time": 1666858344,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 51524,

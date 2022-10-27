@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666856269303,
+  "endTime": 1666859382096,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -83,19 +83,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 701043,
+      "num": 649480,
+      "word": "张元英2022AAA确定担任MC",
+      "onboard_time": 1666854862,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669058,
       "num": 371065,
       "word": "宋雨琦担任综艺单独MC",
       "onboard_time": 1666831525,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 649480,
-      "num": 649480,
-      "word": "张元英2022AAA确定担任MC",
-      "onboard_time": 1666854862,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1666848326,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623789,
+      "num": 623789,
+      "word": "正午阳光四部剧入围飞天奖",
+      "onboard_time": 1666856662,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 610780,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477856,
+      "num": 477856,
+      "word": "密室大逃脱",
+      "onboard_time": 1666854862,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477756,
       "num": 110702,
       "word": "心动的信号5成了四对",
@@ -227,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448067,
+      "num": 338356,
+      "word": "迪丽热巴人形八音盒",
+      "onboard_time": 1666856963,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 434706,
       "num": 434706,
       "word": "一人一狗对峙了三个小时",
       "onboard_time": 1666848804,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428305,
+      "num": 428305,
+      "word": "代驾司机敲诈酒驾车主反转了",
+      "onboard_time": 1666853543,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424770,
@@ -273,6 +305,14 @@
       "onboard_time": 1666829784,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379704,
+      "num": 379704,
+      "word": "成年人就是要看动画片",
+      "onboard_time": 1666855164,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 376925,
@@ -320,14 +360,6 @@
       "word": "宋旻浩妹妹将出演社内恋爱",
       "onboard_time": 1666845987,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 356594,
-      "num": 356594,
-      "word": "密室大逃脱",
-      "onboard_time": 1666854862,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -403,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317361,
-      "num": 317361,
-      "word": "代驾司机敲诈酒驾车主反转了",
-      "onboard_time": 1666853543,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316796,
       "num": 316796,
       "word": "鹤岗回应移居买房热",
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265646,
+      "num": 265646,
+      "word": "全国每9碗米饭就有1碗来自黑龙江",
+      "onboard_time": 1666856483,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263940,
       "num": 263940,
       "word": "东北一小区喷泉池里摆满晾晒白菜",
@@ -515,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248903,
+      "num": 248903,
+      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+      "onboard_time": 1666854022,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246507,
       "num": 246507,
       "word": "法证先锋5第一案全员恶人",
@@ -545,6 +585,14 @@
       "onboard_time": 1666834162,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241511,
+      "num": 241511,
+      "word": "赵丽颖说会唱的一起唱",
+      "onboard_time": 1666858883,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240090,
@@ -673,6 +721,14 @@
       "onboard_time": 1666837522,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193202,
+      "num": 193202,
+      "word": "有一种友谊叫大张伟和张雨绮",
+      "onboard_time": 1666857203,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 192417,
@@ -843,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143503,
+      "num": 143503,
+      "word": "居然被松子给难住了",
+      "onboard_time": 1666858823,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142693,
       "num": 111920,
       "word": "李振宁说很多舞台不让唱自己的歌",
@@ -851,20 +915,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141559,
-      "num": 141559,
-      "word": "成年人就是要看动画片",
-      "onboard_time": 1666855164,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 140653,
       "num": 140653,
       "word": "迪丽热巴封面侧拍花絮",
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139799,
+      "num": 94857,
+      "word": "周柏豪倒进浴缸好帅",
+      "onboard_time": 1666857262,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 139553,
@@ -979,12 +1043,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 123960,
-      "num": 123960,
-      "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
-      "onboard_time": 1666854022,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 123664,
+      "num": 93315,
+      "word": "苏醒密室最清醒的玩家",
+      "onboard_time": 1666858103,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 119813,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1666841484,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110951,
+      "num": 110951,
+      "word": "双十一你的账单有多长",
+      "onboard_time": 1666853543,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109785,
@@ -1179,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89259,
-      "num": 89259,
-      "word": "双十一你的账单有多长",
-      "onboard_time": 1666853543,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87625,
       "num": 87625,
       "word": "剑网3横刀断浪",
@@ -1235,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79085,
+      "num": 79085,
+      "word": "TTG是懂自拍的",
+      "onboard_time": 1666855043,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75811,
       "num": 75811,
       "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
@@ -1243,12 +1315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74383,
-      "num": 74383,
-      "word": "TTG是懂自拍的",
-      "onboard_time": 1666855043,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 73851,
+      "num": 73851,
+      "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+      "onboard_time": 1666858164,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73506,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1666773806,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73352,
+      "num": 73352,
+      "word": "微博SVIP限量预售",
+      "onboard_time": 1666856843,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 72983,
@@ -1299,12 +1379,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 68309,
+      "num": 68309,
+      "word": "男子炒菜触发消防喷淋被淋1小时",
+      "onboard_time": 1666858463,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68142,
       "num": 68142,
       "word": "90后老师为患儿开病房学校",
       "onboard_time": 1666837643,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 68014,
+      "num": 68014,
+      "word": "1个动作有效放松肩颈",
+      "onboard_time": 1666858644,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66787,
+      "num": 66787,
+      "word": "民警凭一棵树定位解救陷传销小伙",
+      "onboard_time": 1666858103,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66227,
@@ -1369,6 +1473,14 @@
       "onboard_time": 1666829544,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53042,
+      "num": 59412,
+      "word": "这就是中西文化的碰撞吧",
+      "onboard_time": 1666858344,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 49941,
