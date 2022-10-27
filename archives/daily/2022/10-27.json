@@ -1,10 +1,10 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666838567567,
+  "endTime": 1666843683385,
   "band_list": [
     {
       "raw_hot": 2271493,
-      "num": 406930,
+      "num": 451422,
       "word": "羊了个羊背后公司现清仓式分红",
       "onboard_time": 1666833983,
       "rank": 3,
@@ -19,6 +19,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855936,
+      "num": 436915,
+      "word": "女子住民宿竟发现透明底浴缸",
+      "onboard_time": 1666836082,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853368,
+      "num": 316793,
+      "word": "孙怡晒再见爱人手机壳",
+      "onboard_time": 1666841064,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 837150,
       "num": 394593,
       "word": "C盘一下子就不红了",
@@ -27,11 +43,11 @@
       "category": "其它"
     },
     {
-      "raw_hot": 803516,
-      "num": 241454,
-      "word": "女子住民宿竟发现透明底浴缸",
-      "onboard_time": 1666836082,
-      "rank": 26,
+      "raw_hot": 784108,
+      "num": 291222,
+      "word": "人民日报五问西宁有关部门",
+      "onboard_time": 1666839443,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -51,8 +67,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502640,
-      "num": 502640,
+      "raw_hot": 596133,
+      "num": 411802,
+      "word": "蔡文静彭冠英新剧又薅头发",
+      "onboard_time": 1666842145,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 594230,
+      "num": 399839,
+      "word": "女孩跳操后腹痛不止险卵巢不保",
+      "onboard_time": 1666837164,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568907,
+      "num": 743305,
       "word": "长期不按时吃饭容易得胆结石",
       "onboard_time": 1666835482,
       "rank": 22,
@@ -64,6 +96,14 @@
       "word": "当重庆女子收到房东给的香橼",
       "onboard_time": 1666827260,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484095,
+      "num": 484095,
+      "word": "光腿神器已火到欧洲",
+      "onboard_time": 1666838064,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -81,6 +121,14 @@
       "onboard_time": 1666792585,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475491,
+      "num": 283750,
+      "word": "肖战王牌部队入围第33届飞天奖",
+      "onboard_time": 1666842024,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 473980,
@@ -115,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385783,
+      "num": 385783,
+      "word": "男子钻研螺蛳粉24年成非遗传承人",
+      "onboard_time": 1666838964,
+      "rank": 7,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 383132,
       "num": 383132,
       "word": "22岁女孩拍下云南版天空之镜",
@@ -129,6 +185,14 @@
       "onboard_time": 1666835844,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370795,
+      "num": 265843,
+      "word": "迪丽热巴费加罗10月封面",
+      "onboard_time": 1666840525,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 368131,
@@ -148,7 +212,7 @@
     },
     {
       "raw_hot": 351097,
-      "num": 191323,
+      "num": 247887,
       "word": "王嘉尔S12决赛开幕式嘉宾",
       "onboard_time": 1666833266,
       "rank": 20,
@@ -171,11 +235,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 313029,
-      "num": 214134,
-      "word": "女孩跳操后腹痛不止险卵巢不保",
-      "onboard_time": 1666837164,
-      "rank": 13,
+      "raw_hot": 316796,
+      "num": 316796,
+      "word": "鹤岗回应移居买房热",
+      "onboard_time": 1666836686,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -185,14 +249,6 @@
       "onboard_time": 1666826059,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295322,
-      "num": 199660,
-      "word": "鹤岗回应移居买房热",
-      "onboard_time": 1666836686,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290312,
@@ -209,6 +265,14 @@
       "onboard_time": 1666787424,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265358,
+      "num": 265358,
+      "word": "印度网民向苏纳克索要英国王冠钻石",
+      "onboard_time": 1666842024,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 263940,
@@ -275,12 +339,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 230964,
+      "num": 230964,
+      "word": "马斯克称苹果广告抽成过高",
+      "onboard_time": 1666837463,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 222743,
       "num": 222743,
       "word": "10月26日新增本土确诊193例",
       "onboard_time": 1666833383,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217603,
+      "num": 217603,
+      "word": "觉醒年代入围飞天奖",
+      "onboard_time": 1666842925,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211120,
+      "num": 211120,
+      "word": "故天将降大任于是人还是斯人",
+      "onboard_time": 1666842384,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 208050,
@@ -315,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192417,
+      "num": 204885,
+      "word": "男子退伍2年偶遇自己当护旗手海报",
+      "onboard_time": 1666837043,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189488,
       "num": 189488,
       "word": "男子意外失忆与家人失联23年",
       "onboard_time": 1666786226,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187462,
+      "num": 187462,
+      "word": "湖人vs掘金",
+      "onboard_time": 1666837704,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 183694,
@@ -435,6 +539,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 139358,
+      "num": 139358,
+      "word": "再见爱人2全员催更",
+      "onboard_time": 1666841003,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138773,
       "num": 52523,
       "word": "肉粽cp",
@@ -465,6 +577,14 @@
       "onboard_time": 1666831885,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "苏有朋阵营正确读法",
+      "onboard_time": 1666839803,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 128839,
@@ -499,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119684,
+      "num": 119684,
+      "word": "光遇",
+      "onboard_time": 1666840884,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119512,
       "num": 119512,
       "word": "再便秘就不礼貌了",
@@ -507,12 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117678,
+      "num": 117678,
+      "word": "黑豹2世界首映礼",
+      "onboard_time": 1666841963,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115809,
       "num": 115809,
       "word": "王一博我的朋友眼镜造型剧照",
       "onboard_time": 1666792585,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112103,
+      "num": 112103,
+      "word": "张本智和3比0弗朗西斯卡",
+      "onboard_time": 1666841484,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 109785,
@@ -531,20 +675,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 106190,
+      "num": 106190,
+      "word": "第33届飞天奖发布会",
+      "onboard_time": 1666839384,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105952,
+      "num": 105952,
+      "word": "老人吃播式向女儿汇报饮食",
+      "onboard_time": 1666843046,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105666,
       "num": 105666,
       "word": "NBA",
       "onboard_time": 1666822032,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102997,
-      "num": 102997,
-      "word": "马斯克称苹果广告抽成过高",
-      "onboard_time": 1666837463,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 100990,
@@ -555,26 +707,26 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98660,
-      "num": 204885,
-      "word": "男子退伍2年偶遇自己当护旗手海报",
-      "onboard_time": 1666837043,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 100773,
+      "num": 100773,
+      "word": "字母哥43分14篮板",
+      "onboard_time": 1666839503,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100289,
+      "num": 100289,
+      "word": "如何成为一位合格的闺蜜",
+      "onboard_time": 1666841364,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 96743,
       "num": 96743,
       "word": "巴萨0比3拜仁",
       "onboard_time": 1666830746,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96282,
-      "num": 96282,
-      "word": "湖人vs掘金",
-      "onboard_time": 1666837704,
       "rank": 37,
       "category": "体育"
     },
@@ -595,11 +747,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94493,
-      "num": 94493,
-      "word": "光腿神器已火到欧洲",
-      "onboard_time": 1666838064,
-      "rank": 38,
+      "raw_hot": 94277,
+      "num": 94277,
+      "word": "抱抱侠抱起阿姨的画面太暖了",
+      "onboard_time": 1666840823,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -643,12 +795,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87831,
+      "num": 87831,
+      "word": "民警巡逻遇2只东北虎迎面走来",
+      "onboard_time": 1666842747,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87144,
+      "num": 87144,
+      "word": "汶川地震被救少年14年后救火牺牲",
+      "onboard_time": 1666843464,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85670,
+      "num": 85670,
+      "word": "三星正式开启李在镕时代",
+      "onboard_time": 1666842985,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82566,
       "num": 82566,
       "word": "恋与制作人道歉",
       "onboard_time": 1666795046,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80359,
+      "num": 80359,
+      "word": "石川佳纯3比1木原美悠",
+      "onboard_time": 1666843284,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79357,
+      "num": 79357,
+      "word": "一到换季就起皮掉屑",
+      "onboard_time": 1666842504,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75811,
@@ -737,6 +929,14 @@
       "onboard_time": 1666805715,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51906,
+      "num": 469244,
+      "word": "9个高频词看二十大报告",
+      "onboard_time": 1666829544,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 49941,
