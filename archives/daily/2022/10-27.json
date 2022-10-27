@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666881169932,
+  "endTime": 1666882079974,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -49,6 +49,14 @@
       "onboard_time": 1666874545,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1014507,
+      "num": 1014507,
+      "word": "第一批鹤岗买房人已离开大半",
+      "onboard_time": 1666880486,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003067,
@@ -243,19 +251,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 578775,
+      "num": 578775,
+      "word": "丈夫太抠门被妻子告上法庭",
+      "onboard_time": 1666878085,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565726,
       "num": 565726,
       "word": "官方回应网传全武汉猪肉停售五天",
       "onboard_time": 1666871604,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550494,
-      "num": 453162,
-      "word": "丈夫太抠门被妻子告上法庭",
-      "onboard_time": 1666878085,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -563,6 +571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 365974,
+      "num": 274864,
+      "word": "日方不得插手台湾问题",
+      "onboard_time": 1666879646,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 360982,
       "num": 360982,
       "word": "宋旻浩妹妹将出演社内恋爱",
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299272,
-      "num": 299272,
-      "word": "第一批鹤岗买房人已离开大半",
-      "onboard_time": 1666880486,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297436,
       "num": 297436,
       "word": "巴萨vs拜仁",
@@ -777,6 +785,14 @@
       "onboard_time": 1666858463,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266483,
+      "num": 151458,
+      "word": "LPL解说预测S12半决赛",
+      "onboard_time": 1666881265,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 263940,
@@ -955,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227083,
-      "num": 227083,
-      "word": "日方不得插手台湾问题",
-      "onboard_time": 1666879646,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 226585,
       "num": 226585,
       "word": "男子凌晨遇气肿流浪猫收养送医",
@@ -1011,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210095,
+      "num": 210095,
+      "word": "古早综艺能有多搞笑",
+      "onboard_time": 1666877064,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208050,
       "num": 69271,
       "word": "六万cp官宣",
@@ -1051,19 +1067,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203019,
+      "num": 203019,
+      "word": "郑州要求不得以防疫为由拒诊",
+      "onboard_time": 1666879464,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202548,
       "num": 202548,
       "word": "杜德伟披荆斩棘从头跳到尾",
       "onboard_time": 1666864703,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198629,
-      "num": 198629,
-      "word": "古早综艺能有多搞笑",
-      "onboard_time": 1666877064,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1113,6 +1129,14 @@
       "onboard_time": 1666837043,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191890,
+      "num": 149052,
+      "word": "LESSERAFIM校庆舞台饭拍",
+      "onboard_time": 1666881207,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 190542,
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156534,
+      "num": 156534,
+      "word": "是人还是斯人人教社回应",
+      "onboard_time": 1666878446,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155890,
       "num": 155890,
       "word": "原来狗狗也会落枕",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1666848683,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147800,
-      "num": 147800,
-      "word": "是人还是斯人人教社回应",
-      "onboard_time": 1666878446,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147550,
@@ -1595,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110840,
-      "num": 110840,
-      "word": "郑州要求不得以防疫为由拒诊",
-      "onboard_time": 1666879464,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109785,
       "num": 109785,
       "word": "14岁背背篓网球少年说要拿大满贯",
@@ -1843,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79492,
+      "num": 79492,
+      "word": "0卡糖奶茶含糖量不降反增",
+      "onboard_time": 1666876465,
+      "rank": 45,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 79357,
       "num": 79357,
       "word": "一到换季就起皮掉屑",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1666873944,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76108,
-      "num": 76108,
-      "word": "0卡糖奶茶含糖量不降反增",
-      "onboard_time": 1666876465,
-      "rank": 45,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 75811,
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 42851,
-      "num": 570104,
+      "num": 605117,
       "word": "飞天圆梦",
       "onboard_time": 1666879165,
       "rank": 2,
