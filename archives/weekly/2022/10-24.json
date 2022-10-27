@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666895573377,
+  "endTime": 1666896630777,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -7515,6 +7515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 21703,
+      "num": 21703,
+      "word": "学生时期留下的永久印迹",
+      "onboard_time": 1666894211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21323,
       "num": 622319,
       "word": "强国之路正扬帆",
@@ -7601,14 +7609,6 @@
       "onboard_time": 1666520001,
       "rank": 15,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 13926,
-      "num": 13926,
-      "word": "学生时期留下的永久印迹",
-      "onboard_time": 1666894211,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13577,
