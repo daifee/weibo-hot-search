@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 13:30:32
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 13:45:26
 </p>
 </blockquote>
 <p>
@@ -1653,6 +1653,12 @@ EDG晋级八强（热度：1223009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%96%82%E7%8C%AA%E5%90%83%E6%9C%A8%E7%93%9C%E6%8D%A2%E7%81%AB%E9%BE%99%E6%9E%9C%E9%81%AD%E7%8C%AA%E7%99%BD%E7%9C%BC%23" target="weibo">
+男子长期喂猪吃木瓜换火龙果遭猪白眼（热度：1192138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%23" target="weibo">
 新乡（热度：1191434）
 </a>
@@ -1901,12 +1907,6 @@ JDG（热度：1126081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%A3%9E%23" target="weibo">
 大飞（热度：1099637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%96%82%E7%8C%AA%E5%90%83%E6%9C%A8%E7%93%9C%E6%8D%A2%E7%81%AB%E9%BE%99%E6%9E%9C%E9%81%AD%E7%8C%AA%E7%99%BD%E7%9C%BC%23" target="weibo">
-男子长期喂猪吃木瓜换火龙果遭猪白眼（热度：1097353）
 </a>
 </li>
 
@@ -4923,6 +4923,12 @@ BLACKPINK将参加海德公园音乐节（热度：637621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%89330%E4%B8%87%E5%90%A8%E8%BE%A3%E6%A4%92%23" target="weibo">
+湖南一年吃掉330万吨辣椒（热度：637424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E6%AC%A1%E6%97%A5%E4%B8%88%E5%A4%AB%E5%98%9A%E7%91%9F%E5%88%9D%E6%81%8B%E6%83%85%E4%B9%A6%E8%A2%AB%E7%BD%9A%E8%B7%AA%23" target="weibo">
 新婚次日丈夫嘚瑟初恋情书被罚跪（热度：636116）
 </a>
@@ -6005,12 +6011,6 @@ iPod之父支持iPhone改用C口（热度：552071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%92%E9%92%A9%23" target="weibo">
 倒钩（热度：551151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%85%89%E8%80%85%E5%AE%9A%E6%A1%A31014%23" target="weibo">
-追光者定档1014（热度：550754）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/27 00:35:13 ~ 2022/10/27 13:30:32
+本榜单时间：2022/10/27 00:35:13 ~ 2022/10/27 13:45:26
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%96%82%E7%8C%AA%E5%90%83%E6%9C%A8%E7%93%9C%E6%8D%A2%E7%81%AB%E9%BE%99%E6%9E%9C%E9%81%AD%E7%8C%AA%E7%99%BD%E7%9C%BC%23" target="weibo">
-男子长期喂猪吃木瓜换火龙果遭猪白眼（热度：1097353）
+男子长期喂猪吃木瓜换火龙果遭猪白眼（热度：1192138）
 </a>
 </li>
 
@@ -75,6 +75,12 @@ C盘一下子就不红了（热度：837150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%89330%E4%B8%87%E5%90%A8%E8%BE%A3%E6%A4%92%23" target="weibo">
+湖南一年吃掉330万吨辣椒（热度：637424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E6%8C%89%E6%97%B6%E5%90%83%E9%A5%AD%E5%AE%B9%E6%98%93%E5%BE%97%E8%83%86%E7%BB%93%E7%9F%B3%23" target="weibo">
 长期不按时吃饭容易得胆结石（热度：610780）
 </a>
@@ -89,12 +95,6 @@ C盘一下子就不红了（热度：837150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%BD%AD%E5%86%A0%E8%8B%B1%E6%96%B0%E5%89%A7%E5%8F%88%E8%96%85%E5%A4%B4%E5%8F%91%23" target="weibo">
 蔡文静彭冠英新剧又薅头发（热度：597322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%89330%E4%B8%87%E5%90%A8%E8%BE%A3%E6%A4%92%23" target="weibo">
-湖南一年吃掉330万吨辣椒（热度：501469）
 </a>
 </li>
 
@@ -249,20 +249,32 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E5%9B%9E%E5%BA%94%E4%BA%A7%E5%93%81%E4%B8%8D%E5%90%88%E6%A0%BC%23" target="weibo">
+郁美净回应产品不合格（热度：329887）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%93%AA%E4%B8%AA%E7%9C%81%E6%9C%80%E8%83%BD%E5%90%83%E8%BE%A3%23" target="weibo">
+中国哪个省最能吃辣（热度：323245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%A4%E5%B2%97%E5%9B%9E%E5%BA%94%E7%A7%BB%E5%B1%85%E4%B9%B0%E6%88%BF%E7%83%AD%23" target="weibo">
 鹤岗回应移居买房热（热度：316796）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A8vs%E6%8B%9C%E4%BB%81%23" target="weibo">
-巴萨vs拜仁（热度：297436）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%97%B6%E8%A3%85%E6%98%8E%E6%9A%97%E5%8F%8C%E5%A7%9D%E5%A4%A7%E7%89%87%23" target="weibo">
+唐嫣时装明暗双姝大片（热度：310535）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E5%9B%9E%E5%BA%94%E4%BA%A7%E5%93%81%E4%B8%8D%E5%90%88%E6%A0%BC%23" target="weibo">
-郁美净回应产品不合格（热度：294823）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A8vs%E6%8B%9C%E4%BB%81%23" target="weibo">
+巴萨vs拜仁（热度：297436）
 </a>
 </li>
 
@@ -275,18 +287,6 @@ RNG被曝将被竞拍解散（热度：482137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23" target="weibo">
 披荆斩棘（热度：290279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%93%AA%E4%B8%AA%E7%9C%81%E6%9C%80%E8%83%BD%E5%90%83%E8%BE%A3%23" target="weibo">
-中国哪个省最能吃辣（热度：289302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%97%B6%E8%A3%85%E6%98%8E%E6%9A%97%E5%8F%8C%E5%A7%9D%E5%A4%A7%E7%89%87%23" target="weibo">
-唐嫣时装明暗双姝大片（热度：274157）
 </a>
 </li>
 
@@ -357,6 +357,12 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%9C%A8%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
+李承铉在披荆斩棘官宣戚薇二胎生子（热度：237359）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%B4%BD%E8%A2%AB%E8%A3%85%E8%A2%8B%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E8%B7%AF%E4%BA%BA%E5%87%BA%E6%89%8B%E8%A7%A3%E6%95%91%23" target="weibo">
 狗崽被装袋扔垃圾桶路人出手解救（热度：232344）
 </a>
@@ -375,6 +381,12 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%8E%A5%E8%BF%9E%E9%87%8D%E7%97%85%E5%A5%B3%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E5%B4%A9%E6%BA%83%23" target="weibo">
+父母接连重病女外卖员当街崩溃（热度：225855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8826%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A193%E4%BE%8B%23" target="weibo">
 10月26日新增本土确诊193例（热度：222743）
 </a>
@@ -383,6 +395,12 @@ RNG被曝将被竞拍解散（热度：482137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E5%85%A5%E5%9B%B4%E9%A3%9E%E5%A4%A9%E5%A5%96%23" target="weibo">
 觉醒年代入围飞天奖（热度：217603）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E8%83%9C%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%AF%B4%E5%88%B0%E4%BA%86%E5%BF%83%E5%9D%8E%E9%87%8C%23" target="weibo">
+志胜这段话说到了心坎里（热度：211150）
 </a>
 </li>
 
@@ -401,12 +419,6 @@ RNG被曝将被竞拍解散（热度：482137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E4%B8%BA%E5%AD%99%E5%A5%B3%E6%89%93%E9%80%A0%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%85%AC%E4%B8%BB%E6%88%BF%23" target="weibo">
 奶奶为孙女打造三轮车公主房（热度：206497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E8%83%9C%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%AF%B4%E5%88%B0%E4%BA%86%E5%BF%83%E5%9D%8E%E9%87%8C%23" target="weibo">
-志胜这段话说到了心坎里（热度：205508）
 </a>
 </li>
 
@@ -489,6 +501,12 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%AF%B9%E5%B3%99%E4%BA%86%E4%B8%89%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
+一人一狗对峙了三个小时（热度：170548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9A%944%E4%B8%AA%E6%9C%88%E8%BF%94%E6%A0%A1%E5%AE%BF%E8%88%8D%E9%95%BF%E5%87%BA%E8%BE%A3%E6%A4%92%23" target="weibo">
 大学生隔4个月返校宿舍长出辣椒（热度：168796）
 </a>
@@ -513,6 +531,18 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B2%82%E6%95%99%E8%B5%84%23" target="weibo">
+临沂教资（热度：162708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%87%8C%E5%85%AC%E5%BC%80%E8%B0%88%E6%80%A7%23" target="weibo">
+如何看待在学校里公开谈性（热度：162237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%83%81%E5%92%B2%E8%89%AF%E6%96%B0%E6%AD%8C%E5%86%A0%E5%86%9B%E7%A7%80%E7%9B%B4%E6%8B%8D%23" target="weibo">
 宫胁咲良新歌冠军秀直拍（热度：161765）
 </a>
@@ -525,26 +555,8 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%9C%A8%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
-李承铉在披荆斩棘官宣戚薇二胎生子（热度：161689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B2%82%E6%95%99%E8%B5%84%23" target="weibo">
-临沂教资（热度：155527）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%8B%E5%9C%86cp%23" target="weibo">
 芋圆cp（热度：150502）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%87%8C%E5%85%AC%E5%BC%80%E8%B0%88%E6%80%A7%23" target="weibo">
-如何看待在学校里公开谈性（热度：144222）
 </a>
 </li>
 
@@ -657,14 +669,14 @@ RNG被曝将被竞拍解散（热度：482137）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%8E%A5%E8%BF%9E%E9%87%8D%E7%97%85%E5%A5%B3%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E5%B4%A9%E6%BA%83%23" target="weibo">
-父母接连重病女外卖员当街崩溃（热度：116203）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%BC%E9%95%9C%E9%80%A0%E5%9E%8B%E5%89%A7%E7%85%A7%23" target="weibo">
+王一博我的朋友眼镜造型剧照（热度：115809）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%BC%E9%95%9C%E9%80%A0%E5%9E%8B%E5%89%A7%E7%85%A7%23" target="weibo">
-王一博我的朋友眼镜造型剧照（热度：115809）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%89%E6%97%B6%E5%90%83%E9%A5%AD%E5%92%8C%E8%83%83%E7%99%8C%E5%8F%AA%E9%9A%944%E6%AD%A5%23" target="weibo">
+不按时吃饭和胃癌只隔4步（热度：114031）
 </a>
 </li>
 
@@ -695,12 +707,6 @@ Jennie登韩版ELLE封面（热度：108540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NBA%23" target="weibo">
 NBA（热度：105666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%89%E6%97%B6%E5%90%83%E9%A5%AD%E5%92%8C%E8%83%83%E7%99%8C%E5%8F%AA%E9%9A%944%E6%AD%A5%23" target="weibo">
-不按时吃饭和胃癌只隔4步（热度：104509）
 </a>
 </li>
 
@@ -789,8 +795,20 @@ Jennie叼笔盖签名（热度：90531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23" target="weibo">
+江苏男篮vs辽宁男篮（热度：82678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%E9%81%93%E6%AD%89%23" target="weibo">
 恋与制作人道歉（热度：82566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF19%E5%88%86%23" target="weibo">
+詹姆斯19分（热度：81918）
 </a>
 </li>
 
@@ -940,7 +958,7 @@ Jennie叼笔盖签名（热度：90531）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%B0%86%E5%AE%9E%E7%8E%B0%E5%AE%B6%E5%85%B7%E5%AE%B6%E7%94%B5%E5%85%A8%E5%9B%BD%E5%85%8D%E8%B4%B9%E9%80%81%E8%A3%85%23" target="weibo">
-天猫将实现家具家电全国免费送装（热度：34090）
+天猫将实现家具家电全国免费送装（热度：34294）
 </a>
 </li>
 
