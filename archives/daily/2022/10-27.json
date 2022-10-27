@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666882079974,
+  "endTime": 1666884313940,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -17,6 +17,14 @@
       "onboard_time": 1666842384,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1707680,
+      "num": 1707680,
+      "word": "第一批鹤岗买房人已离开大半",
+      "onboard_time": 1666880486,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1247510,
@@ -51,20 +59,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1014507,
-      "num": 1014507,
-      "word": "第一批鹤岗买房人已离开大半",
-      "onboard_time": 1666880486,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1003067,
       "num": 124347,
       "word": "芋圆cp官宣",
       "onboard_time": 1666789703,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 876900,
+      "num": 685489,
+      "word": "是我小看iPhone备忘录了",
+      "onboard_time": 1666873704,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 869375,
@@ -99,16 +107,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 819633,
-      "num": 628009,
-      "word": "是我小看iPhone备忘录了",
-      "onboard_time": 1666873704,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 805180,
-      "num": 636087,
+      "num": 673568,
       "word": "原来生日可以领这么多东西",
       "onboard_time": 1666871301,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1666839443,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766274,
+      "num": 766274,
+      "word": "金博洋",
+      "onboard_time": 1666882764,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 748177,
@@ -201,6 +209,14 @@
       "onboard_time": 1666856662,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 639861,
+      "num": 639861,
+      "word": "万茜方否认是今年金鹰女神",
+      "onboard_time": 1666882106,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 637424,
@@ -555,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 370242,
+      "num": 275142,
+      "word": "日方不得插手台湾问题",
+      "onboard_time": 1666879646,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 368131,
       "num": 284300,
       "word": "恋与制作人抄袭xxxHOLiC",
@@ -571,12 +595,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 365974,
-      "num": 274864,
-      "word": "日方不得插手台湾问题",
-      "onboard_time": 1666879646,
-      "rank": 14,
-      "category": "国内要闻"
+      "raw_hot": 361137,
+      "num": 275071,
+      "word": "LPL解说预测S12半决赛",
+      "onboard_time": 1666881265,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 360982,
@@ -585,6 +609,14 @@
       "onboard_time": 1666845987,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357099,
+      "num": 149023,
+      "word": "王一博眼睛里藏摄影师",
+      "onboard_time": 1666882824,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 351231,
@@ -787,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266483,
-      "num": 151458,
-      "word": "LPL解说预测S12半决赛",
-      "onboard_time": 1666881265,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 263940,
       "num": 263940,
       "word": "东北一小区喷泉池里摆满晾晒白菜",
@@ -816,6 +840,14 @@
       "word": "北京西城新增感染者4例",
       "onboard_time": 1666822152,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256395,
+      "num": 256395,
+      "word": "郑州要求不得以防疫为由拒诊",
+      "onboard_time": 1666879464,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215528,
+      "num": 215528,
+      "word": "是人还是斯人人教社回应",
+      "onboard_time": 1666878446,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "志胜这段话说到了心坎里",
@@ -1064,14 +1104,6 @@
       "word": "民警巡逻遇2只东北虎迎面走来",
       "onboard_time": 1666842747,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203019,
-      "num": 203019,
-      "word": "郑州要求不得以防疫为由拒诊",
-      "onboard_time": 1666879464,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165599,
+      "num": 165599,
+      "word": "原来被夸真的会很快乐",
+      "onboard_time": 1666882584,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163143,
       "num": 160768,
       "word": "有打戏nb症的演员",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1666852581,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156534,
-      "num": 156534,
-      "word": "是人还是斯人人教社回应",
-      "onboard_time": 1666878446,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155890,
@@ -1851,20 +1883,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81954,
+      "num": 81954,
+      "word": "0卡糖奶茶含糖量不降反增",
+      "onboard_time": 1666876465,
+      "rank": 45,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 80679,
+      "num": 80679,
+      "word": "法证先锋5剧情抓马",
+      "onboard_time": 1666879524,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 80359,
       "num": 80359,
       "word": "石川佳纯3比1木原美悠",
       "onboard_time": 1666843284,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79492,
-      "num": 79492,
-      "word": "0卡糖奶茶含糖量不降反增",
-      "onboard_time": 1666876465,
-      "rank": 45,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 79357,
@@ -1939,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71130,
+      "num": 71130,
+      "word": "从小就会玩谐音梗",
+      "onboard_time": 1666882106,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70651,
       "num": 70651,
       "word": "围炉煮茶把秋日氛围感拉满了",
@@ -1984,6 +2032,14 @@
       "word": "1个动作有效放松肩颈",
       "onboard_time": 1666858644,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 67971,
+      "word": "长沙岳麓区检出1例阳性感染者",
+      "onboard_time": 1666883665,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2043,14 +2099,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 57031,
-      "num": 57031,
-      "word": "法证先锋5剧情抓马",
-      "onboard_time": 1666879524,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 56915,
       "num": 641727,
       "word": "湿地秋景每一帧都美如壁纸",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1666805715,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54347,
+      "num": 54347,
+      "word": "大学生是懂秀场的",
+      "onboard_time": 1666883244,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 54331,
@@ -2131,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46184,
+      "num": 696261,
+      "word": "飞天圆梦",
+      "onboard_time": 1666879165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 45229,
       "num": 45229,
       "word": "我为LPL扛大旗",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1666826239,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42851,
-      "num": 605117,
-      "word": "飞天圆梦",
-      "onboard_time": 1666879165,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 42609,
