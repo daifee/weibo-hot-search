@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666876860982,
+  "endTime": 1666878684660,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1052825,
-      "num": 317607,
+      "num": 383105,
       "word": "剧方要求下架退休阿姨版甄嬛传",
       "onboard_time": 1666864582,
       "rank": 20,
@@ -505,6 +505,14 @@
       "onboard_time": 1666788804,
       "rank": 48,
       "category": "其它"
+    },
+    {
+      "raw_hot": 819633,
+      "num": 628009,
+      "word": "是我小看iPhone备忘录了",
+      "onboard_time": 1666873704,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 805180,
@@ -745,14 +753,6 @@
       "onboard_time": 1666787424,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 699600,
-      "num": 628009,
-      "word": "是我小看iPhone备忘录了",
-      "onboard_time": 1666873704,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 693999,
@@ -1299,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 495980,
+      "num": 495980,
+      "word": "后天的事明天再说吧",
+      "onboard_time": 1666875684,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492759,
       "num": 223332,
       "word": "Jennie叼笔盖签名",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1666695144,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455703,
+      "num": 455703,
+      "word": "你会谈没结果的恋爱吗",
+      "onboard_time": 1666873042,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 455512,
@@ -1843,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407548,
+      "num": 407548,
+      "word": "爸爸给33周胎儿唱歌被一脚踢开",
+      "onboard_time": 1666876406,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 406869,
       "num": 82363,
       "word": "大龄程序员都去哪儿了",
@@ -1857,14 +1881,6 @@
       "onboard_time": 1666777344,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 404344,
-      "num": 404344,
-      "word": "你会谈没结果的恋爱吗",
-      "onboard_time": 1666873042,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 403183,
@@ -3483,6 +3499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232415,
+      "num": 232415,
+      "word": "大爷卖的糖葫芦爬满蜜蜂",
+      "onboard_time": 1666875206,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232344,
       "num": 232344,
       "word": "狗崽被装袋扔垃圾桶路人出手解救",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1666619605,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226585,
+      "num": 226585,
+      "word": "男子凌晨遇气肿流浪猫收养送医",
+      "onboard_time": 1666873523,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226555,
@@ -4043,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192362,
-      "num": 192362,
-      "word": "男子凌晨遇气肿流浪猫收养送医",
-      "onboard_time": 1666873523,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190542,
       "num": 190542,
       "word": "赵丽颖龚俊短片对视镜头",
@@ -4259,12 +4283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177472,
-      "num": 177472,
-      "word": "后天的事明天再说吧",
-      "onboard_time": 1666875684,
+      "raw_hot": 178292,
+      "num": 178292,
+      "word": "古早综艺能有多搞笑",
+      "onboard_time": 1666877064,
       "rank": 15,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 177460,
@@ -4361,6 +4385,14 @@
       "onboard_time": 1666595723,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170369,
+      "num": 170369,
+      "word": "专家称是人斯人两种写法都有",
+      "onboard_time": 1666875383,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170303,
@@ -5115,6 +5147,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "苏有朋电影级舞台创意",
+      "onboard_time": 1666877005,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127718,
+      "num": 127718,
+      "word": "18岁男子酒驾被查报父亲身份证",
+      "onboard_time": 1666876585,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127036,
       "num": 70919,
       "word": "刘雨昕首登纽约时代广场大屏",
@@ -5440,14 +5488,6 @@
       "word": "双十一你的账单有多长",
       "onboard_time": 1666853543,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110902,
-      "num": 110902,
-      "word": "大爷卖的糖葫芦爬满蜜蜂",
-      "onboard_time": 1666875206,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5979,14 +6019,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 90863,
-      "num": 90863,
-      "word": "爸爸给33周胎儿唱歌被一脚踢开",
-      "onboard_time": 1666876406,
-      "rank": 40,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 90221,
       "num": 90221,
       "word": "这就是被财神爷吻过的嗓音吧",
@@ -6323,14 +6355,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 77212,
-      "num": 77212,
-      "word": "专家称是人斯人两种写法都有",
-      "onboard_time": 1666875383,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77168,
       "num": 59195,
       "word": "1个动作改善腰椎曲度不良",
@@ -6353,6 +6377,14 @@
       "onboard_time": 1666668083,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 76955,
+      "num": 76955,
+      "word": "丈夫太抠门被妻子告上法庭",
+      "onboard_time": 1666878085,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76663,
@@ -6475,14 +6507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 72014,
-      "num": 72014,
-      "word": "18岁男子酒驾被查报父亲身份证",
-      "onboard_time": 1666876585,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71657,
       "num": 71657,
       "word": "香山红叶把秋日氛围拉满了",
@@ -6537,6 +6561,14 @@
       "onboard_time": 1666747644,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 69593,
+      "num": 69593,
+      "word": "是人还是斯人人教社回应",
+      "onboard_time": 1666878446,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68840,
@@ -7187,7 +7219,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 29421,
+      "raw_hot": 32502,
       "num": 91411,
       "word": "双十一上线3D沉浸式购物",
       "onboard_time": 1666875626,
