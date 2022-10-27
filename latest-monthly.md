@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 19:19:52
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 19:36:45
 </p>
 </blockquote>
 <p>
@@ -3855,6 +3855,12 @@ LPL为米勒澄清（热度：741959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80%E5%8D%9A%E4%B8%BB%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+海克斯科技博主首次回应争议（热度：739972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E6%8D%82%E6%9E%AA%E5%8F%A3%E4%B8%8E%E5%A5%B3%E5%AD%A9%E5%90%88%E5%BD%B1%E7%BB%86%E8%8A%82%E5%A5%BD%E6%88%B3%23" target="weibo">
 特警捂枪口与女孩合影细节好戳（热度：738926）
 </a>
@@ -6005,12 +6011,6 @@ RNG战胜SGB（热度：556732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E8%BD%A6%E8%BF%9B%E4%BA%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9D%87%E6%84%9F%E6%9F%93%23" target="weibo">
 拼车进京一家四口均感染（热度：554894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%94%AF%E6%8C%81%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%23" target="weibo">
-多地支持农民进城购房（热度：554849）
 </a>
 </li>
 
