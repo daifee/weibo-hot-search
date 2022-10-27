@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666898396284,
+  "endTime": 1666899310647,
   "band_list": [
     {
       "raw_hot": 872654,
@@ -419,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32207,
+      "num": 29404,
+      "word": "学生时期留下的永久印迹",
+      "onboard_time": 1666894211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31647,
       "num": 31647,
       "word": "从小就会玩谐音梗",
       "onboard_time": 1666882106,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29404,
-      "num": 29404,
-      "word": "学生时期留下的永久印迹",
-      "onboard_time": 1666894211,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16943,
