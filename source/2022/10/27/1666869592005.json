@@ -1,0 +1,410 @@
+{
+  "runTime": 1666869592005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 568653,
+        "num": 568653,
+        "word": "林高远vs波尔",
+        "onboard_time": 1666864883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550890,
+        "num": 550890,
+        "word": "海克斯科技博主首次回应争议",
+        "onboard_time": 1666868365,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 55430,
+        "num": 419821,
+        "word": "湿地秋景每一帧都美如壁纸",
+        "onboard_time": 1666855463,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 415542,
+        "num": 415542,
+        "word": "女子6块多网购柚子果肉仅有核桃大小",
+        "onboard_time": 1666865906,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393725,
+        "num": 393725,
+        "word": "宋茜陈星旭新剧的身高差",
+        "onboard_time": 1666866805,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365359,
+        "num": 365359,
+        "word": "故天将降大任于是人还是斯人",
+        "onboard_time": 1666842384,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324461,
+        "num": 324461,
+        "word": "成年人就是要看动画片",
+        "onboard_time": 1666855164,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 324309,
+        "num": 324309,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1666867757,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314000,
+        "num": 314000,
+        "word": "衣服还能这么买",
+        "onboard_time": 1666864161,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293262,
+        "num": 293262,
+        "word": "大学城才是平价美食天堂",
+        "onboard_time": 1666867584,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1052825,
+        "num": 285164,
+        "word": "剧方要求下架退休阿姨版甄嬛传",
+        "onboard_time": 1666864582,
+        "rank": 10,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 557573,
+        "num": 280034,
+        "word": "男子被领导羞辱开车将其撞伤",
+        "onboard_time": 1666863563,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 268880,
+        "num": 268880,
+        "word": "科学家发现可恢复听力的蛋白质",
+        "onboard_time": 1666865243,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 237213,
+        "num": 237213,
+        "word": "孙颖莎vs米特兰姆",
+        "onboard_time": 1666868004,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234875,
+        "num": 234875,
+        "word": "迪丽热巴人形八音盒",
+        "onboard_time": 1666856963,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224842,
+        "num": 224842,
+        "word": "华为前三季度营收4458亿",
+        "onboard_time": 1666861044,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 205015,
+        "num": 205015,
+        "word": "林高远2比3波尔",
+        "onboard_time": 1666867705,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204739,
+        "num": 204739,
+        "word": "解决台湾问题是中国人自己的事",
+        "onboard_time": 1666859664,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197100,
+        "num": 197100,
+        "word": "杜德伟披荆斩棘从头跳到尾",
+        "onboard_time": 1666864703,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182009,
+        "num": 182009,
+        "word": "国防部称台独是绝路统一是正途",
+        "onboard_time": 1666863201,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 478594,
+        "num": 181368,
+        "word": "Angelababy晒染发vlog",
+        "onboard_time": 1666862725,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289208,
+        "num": 180911,
+        "word": "王鹤棣说出门溜达溜达",
+        "onboard_time": 1666865965,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232622,
+        "num": 180489,
+        "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+        "onboard_time": 1666848326,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179270,
+        "num": 179270,
+        "word": "密室大逃脱",
+        "onboard_time": 1666854862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155751,
+        "num": 155751,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 24,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 133266,
+        "num": 133266,
+        "word": "湖南一年吃掉330万吨辣椒",
+        "onboard_time": 1666845566,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132671,
+        "num": 132671,
+        "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+        "onboard_time": 1666845387,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 120311,
+        "word": "每一口狗粮都是辛苦挣的",
+        "onboard_time": 1666866444,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118051,
+        "num": 118051,
+        "word": "对儿童手表心动了",
+        "onboard_time": 1666866686,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98227,
+        "num": 98227,
+        "word": "上海女生记录猫咪钻袋子一个月",
+        "onboard_time": 1666860443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155496,
+        "num": 98151,
+        "word": "赵丽颖龚俊短片对视镜头",
+        "onboard_time": 1666864944,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98050,
+        "num": 98050,
+        "word": "山东一货车贴满失踪儿童信息",
+        "onboard_time": 1666864883,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97549,
+        "num": 97549,
+        "word": "正午阳光四部剧入围飞天奖",
+        "onboard_time": 1666856662,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94906,
+        "num": 94906,
+        "word": "全国每9碗米饭就有1碗来自黑龙江",
+        "onboard_time": 1666856483,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94534,
+        "num": 94534,
+        "word": "中国哪个省最能吃辣",
+        "onboard_time": 1666846645,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89591,
+        "num": 89591,
+        "word": "母猫考察寝室后叼3只幼崽托付",
+        "onboard_time": 1666851083,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89026,
+        "num": 89026,
+        "word": "WTT",
+        "onboard_time": 1666859545,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87928,
+        "num": 87928,
+        "word": "不按时吃饭和胃癌只隔4步",
+        "onboard_time": 1666847424,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86717,
+        "num": 86717,
+        "word": "摊主不在饺子摊老板帮做3倍大饭团",
+        "onboard_time": 1666868964,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 84705,
+        "num": 84705,
+        "word": "12岁女孩领养猫后捡垃圾赚钱照顾",
+        "onboard_time": 1666854022,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84583,
+        "num": 84583,
+        "word": "苏醒看密室大逃脱reaction",
+        "onboard_time": 1666859723,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81088,
+        "num": 81088,
+        "word": "汶川地震被救少年14年后救火牺牲",
+        "onboard_time": 1666843464,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80737,
+        "num": 80737,
+        "word": "代驾司机敲诈酒驾车主反转了",
+        "onboard_time": 1666853543,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80309,
+        "num": 80309,
+        "word": "像拔完智齿的我",
+        "onboard_time": 1666862603,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77766,
+        "num": 77766,
+        "word": "suho演唱真检胜负OST为都暻秀应援",
+        "onboard_time": 1666867705,
+        "rank": 44,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 76727,
+        "num": 76727,
+        "word": "父母接连重病女外卖员当街崩溃",
+        "onboard_time": 1666847844,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76021,
+        "num": 76021,
+        "word": "男子炒菜触发消防喷淋被淋1小时",
+        "onboard_time": 1666858463,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163816,
+        "num": 75401,
+        "word": "王一博街舞5与舞者花式互动",
+        "onboard_time": 1666869562,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 74176,
+        "num": 74176,
+        "word": "张凌赫他从火光中走来撑伞氛围感路透",
+        "onboard_time": 1666851502,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73675,
+        "num": 73675,
+        "word": "中学生乘扶梯玩手机行李滑落砸伤他人",
+        "onboard_time": 1666858164,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#前进道路上必须牢牢把握的重大原则#"
+    }
+  }
+}

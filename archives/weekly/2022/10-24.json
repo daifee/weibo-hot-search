@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666867395427,
+  "endTime": 1666869592005,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052825,
+      "num": 285164,
+      "word": "剧方要求下架退休阿姨版甄嬛传",
+      "onboard_time": 1666864582,
+      "rank": 20,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1048630,
       "num": 69151,
       "word": "主演都忍不了王宝钏的恋爱脑",
@@ -457,14 +465,6 @@
       "onboard_time": 1666836082,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859587,
-      "num": 176983,
-      "word": "剧方要求下架退休阿姨版甄嬛传",
-      "onboard_time": 1666864582,
-      "rank": 20,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 855042,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1666617387,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 550890,
+      "num": 550890,
+      "word": "海克斯科技博主首次回应争议",
+      "onboard_time": 1666868365,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 545102,
@@ -1699,6 +1707,14 @@
       "category": "综艺,情感"
     },
     {
+      "raw_hot": 415542,
+      "num": 415542,
+      "word": "女子6块多网购柚子果肉仅有核桃大小",
+      "onboard_time": 1666865906,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414588,
       "num": 397947,
       "word": "车银优韩素希李洙赫短剧完整版",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1666783705,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 393725,
+      "num": 393725,
+      "word": "宋茜陈星旭新剧的身高差",
+      "onboard_time": 1666866805,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 392628,
@@ -2403,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324309,
+      "num": 324309,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1666867757,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323947,
       "num": 282468,
       "word": "北京航空航天大学70周年校庆",
@@ -2451,14 +2483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317941,
-      "num": 317941,
-      "word": "宋茜陈星旭新剧的身高差",
-      "onboard_time": 1666866805,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317769,
       "num": 299773,
       "word": "伸冤56年老人汪康夫因病去世",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1666671022,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 314000,
+      "num": 314000,
+      "word": "衣服还能这么买",
+      "onboard_time": 1666864161,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 313750,
@@ -2649,6 +2681,14 @@
       "onboard_time": 1666747226,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293262,
+      "num": 293262,
+      "word": "大学城才是平价美食天堂",
+      "onboard_time": 1666867584,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 292947,
@@ -2907,12 +2947,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 269192,
-      "num": 252325,
-      "word": "衣服还能这么买",
-      "onboard_time": 1666864161,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 268880,
+      "num": 268880,
+      "word": "科学家发现可恢复听力的蛋白质",
+      "onboard_time": 1666865243,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 268791,
@@ -3297,6 +3337,14 @@
       "onboard_time": 1666844603,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 237213,
+      "num": 237213,
+      "word": "孙颖莎vs米特兰姆",
+      "onboard_time": 1666868004,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 237008,
@@ -3707,6 +3755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205015,
+      "num": 205015,
+      "word": "林高远2比3波尔",
+      "onboard_time": 1666867705,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204810,
       "num": 204810,
       "word": "虞书欣最新翻跳PinkVenom",
@@ -3987,6 +4043,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 182009,
+      "num": 182009,
+      "word": "国防部称台独是绝路统一是正途",
+      "onboard_time": 1666863201,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 181890,
       "num": 181890,
       "word": "两不疑第二季动画开播",
@@ -4147,14 +4211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172064,
-      "num": 172064,
-      "word": "国防部称台独是绝路统一是正途",
-      "onboard_time": 1666863201,
-      "rank": 45,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 171553,
       "num": 117401,
       "word": "秦岚王子异二搭好抓马",
@@ -4241,6 +4297,14 @@
       "onboard_time": 1666846526,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163816,
+      "num": 75401,
+      "word": "王一博街舞5与舞者花式互动",
+      "onboard_time": 1666869562,
+      "rank": 47,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 163143,
@@ -4433,14 +4497,6 @@
       "onboard_time": 1666850423,
       "rank": 39,
       "category": "其它"
-    },
-    {
-      "raw_hot": 148079,
-      "num": 148079,
-      "word": "科学家发现可恢复听力的蛋白质",
-      "onboard_time": 1666865243,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 147868,
@@ -4755,14 +4811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133511,
-      "num": 133511,
-      "word": "女子6块多网购柚子果肉仅有核桃大小",
-      "onboard_time": 1666865906,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133470,
       "num": 133470,
       "word": "第五人格",
@@ -5059,6 +5107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120311,
+      "num": 120311,
+      "word": "每一口狗粮都是辛苦挣的",
+      "onboard_time": 1666866444,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -5113,6 +5169,14 @@
       "onboard_time": 1666569802,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118051,
+      "num": 118051,
+      "word": "对儿童手表心动了",
+      "onboard_time": 1666866686,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 118022,
@@ -5747,14 +5811,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 90801,
-      "num": 90801,
-      "word": "对儿童手表心动了",
-      "onboard_time": 1666866686,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90221,
       "num": 90221,
       "word": "这就是被财神爷吻过的嗓音吧",
@@ -5819,14 +5875,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 87242,
-      "num": 87242,
-      "word": "每一口狗粮都是辛苦挣的",
-      "onboard_time": 1666866444,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87193,
       "num": 25192,
       "word": "孙颖莎WTT澳门赛夺冠",
@@ -5841,6 +5889,14 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86717,
+      "num": 86717,
+      "word": "摊主不在饺子摊老板帮做3倍大饭团",
+      "onboard_time": 1666868964,
+      "rank": 38,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 86705,
@@ -6089,6 +6145,14 @@
       "onboard_time": 1666532363,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77766,
+      "num": 77766,
+      "word": "suho演唱真检胜负OST为都暻秀应援",
+      "onboard_time": 1666867705,
+      "rank": 44,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 77168,
@@ -6556,7 +6620,7 @@
     },
     {
       "raw_hot": 56915,
-      "num": 411035,
+      "num": 419821,
       "word": "湿地秋景每一帧都美如壁纸",
       "onboard_time": 1666855463,
       "rank": 2,
