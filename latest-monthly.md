@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 14:48:23
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/27 15:22:01
 </p>
 </blockquote>
 <p>
@@ -3843,6 +3843,12 @@ LPL为米勒澄清（热度：741959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E6%98%8E%E5%90%83%E5%9C%9F%E5%8F%AF%E6%B2%BB%E7%96%97%E8%82%A0%E7%82%8E%23" target="weibo">
+科学家证明吃土可治疗肠炎（热度：737470）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%A4%9A%E5%86%85%E5%8D%B7%23" target="weibo">
 双十一电商平台有多内卷（热度：737346）
 </a>
@@ -5265,6 +5271,12 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%9C%A8%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
+李承铉在披荆斩棘官宣戚薇二胎生子（热度：608117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9D%8750%E5%AE%9E%E7%8E%B0%E5%B9%B3%E4%BB%B7%E6%B3%B0%E9%A4%90%E8%87%AA%E7%94%B1%23" target="weibo">
 人均50实现平价泰餐自由（热度：607641）
 </a>
@@ -5999,18 +6011,6 @@ RNG战胜SGB（热度：556732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A8%83%E7%8E%A9%E8%8D%AF%E7%B2%89%E5%A6%88%E5%A6%88%E5%B8%AE%E6%B8%85%E6%B4%97%E5%85%A8%E8%A2%AB%E6%9F%93%E7%B4%AB%23" target="weibo">
 1岁娃玩药粉妈妈帮清洗全被染紫（热度：552288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPod%E4%B9%8B%E7%88%B6%E6%94%AF%E6%8C%81iPhone%E6%94%B9%E7%94%A8C%E5%8F%A3%23" target="weibo">
-iPod之父支持iPhone改用C口（热度：552071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%92%E9%92%A9%23" target="weibo">
-倒钩（热度：551151）
 </a>
 </li>
 
