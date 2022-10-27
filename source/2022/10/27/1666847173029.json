@@ -1,0 +1,410 @@
+{
+  "runTime": 1666847173029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220417,
+        "num": 1220417,
+        "word": "故天将降大任于是人还是斯人",
+        "onboard_time": 1666842384,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 469471,
+        "num": 469471,
+        "word": "长期不按时吃饭容易得胆结石",
+        "onboard_time": 1666835482,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44456,
+        "num": 458479,
+        "word": "9个高频词看二十大报告",
+        "onboard_time": 1666829544,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1735708,
+        "num": 432089,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 3,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 757240,
+        "num": 428986,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504271,
+        "num": 406668,
+        "word": "女孩跳操后腹痛不止险卵巢不保",
+        "onboard_time": 1666837164,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500534,
+        "num": 387815,
+        "word": "蔡文静彭冠英新剧又薅头发",
+        "onboard_time": 1666842145,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374254,
+        "num": 374254,
+        "word": "老人吃播式向女儿汇报饮食",
+        "onboard_time": 1666843046,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360982,
+        "num": 360982,
+        "word": "宋旻浩妹妹将出演社内恋爱",
+        "onboard_time": 1666845987,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349551,
+        "num": 349551,
+        "word": "光腿神器已火到欧洲",
+        "onboard_time": 1666838064,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856164,
+        "num": 348846,
+        "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+        "onboard_time": 1666845387,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538146,
+        "num": 348053,
+        "word": "孙怡晒再见爱人手机壳",
+        "onboard_time": 1666841064,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470436,
+        "num": 347335,
+        "word": "印度网民向苏纳克索要英国王冠钻石",
+        "onboard_time": 1666842024,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 368393,
+        "num": 346497,
+        "word": "肖战王牌部队入围第33届飞天奖",
+        "onboard_time": 1666842024,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54331,
+        "num": 346247,
+        "word": "原神 纳西妲",
+        "onboard_time": 1666846827,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345649,
+        "num": 345649,
+        "word": "换乘恋爱2嘉宾出演费",
+        "onboard_time": 1666843944,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280752,
+        "num": 280752,
+        "word": "迪丽热巴费加罗10月封面",
+        "onboard_time": 1666840525,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 258330,
+        "num": 258330,
+        "word": "湖南一年吃掉330万吨辣椒",
+        "onboard_time": 1666845566,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249675,
+        "num": 249675,
+        "word": "三星正式开启李在镕时代",
+        "onboard_time": 1666842985,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244743,
+        "num": 244743,
+        "word": "男子钻研螺蛳粉24年成非遗传承人",
+        "onboard_time": 1666838964,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 424494,
+        "num": 244640,
+        "word": "汶川地震被救少年14年后救火牺牲",
+        "onboard_time": 1666843464,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240090,
+        "num": 240090,
+        "word": "再见爱人",
+        "onboard_time": 1666845506,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238108,
+        "num": 238108,
+        "word": "许嵩新歌里的王语嫣",
+        "onboard_time": 1666844603,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234674,
+        "num": 234674,
+        "word": "赵丽颖欧豪野蛮生长片场欢乐趴",
+        "onboard_time": 1666843824,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224342,
+        "num": 224342,
+        "word": "郁美净回应产品不合格",
+        "onboard_time": 1666844185,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 204064,
+        "num": 204064,
+        "word": "民警巡逻遇2只东北虎迎面走来",
+        "onboard_time": 1666842747,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197522,
+        "num": 197522,
+        "word": "湖人vs掘金",
+        "onboard_time": 1666837704,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174605,
+        "num": 174605,
+        "word": "鹤岗回应移居买房热",
+        "onboard_time": 1666836686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164113,
+        "num": 164113,
+        "word": "男子退伍2年偶遇自己当护旗手海报",
+        "onboard_time": 1666837043,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162125,
+        "num": 162125,
+        "word": "重庆一大学教授每次上课都给学生带礼物",
+        "onboard_time": 1666835903,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 180045,
+        "num": 161173,
+        "word": "志胜这段话说到了心坎里",
+        "onboard_time": 1666845866,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165857,
+        "num": 160083,
+        "word": "新神榜杨戬网播定档",
+        "onboard_time": 1666846526,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155527,
+        "num": 155527,
+        "word": "临沂教资",
+        "onboard_time": 1666845806,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153756,
+        "num": 153756,
+        "word": "宋雨琦担任综艺单独MC",
+        "onboard_time": 1666831525,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139511,
+        "num": 139511,
+        "word": "王嘉尔S12决赛开幕式嘉宾",
+        "onboard_time": 1666833266,
+        "rank": 34,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1666837522,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134425,
+        "num": 134425,
+        "word": "男子分手后索回给女友23万转账被拒",
+        "onboard_time": 1666830144,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132530,
+        "num": 132530,
+        "word": "RNG被曝将被竞拍解散",
+        "onboard_time": 1666802660,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131775,
+        "num": 131775,
+        "word": "中国哪个省最能吃辣",
+        "onboard_time": 1666846645,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13217,
+        "num": 128274,
+        "word": "天猫将实现家具家电全国免费送装",
+        "onboard_time": 1666846827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125486,
+        "num": 125486,
+        "word": "如何看待在学校里公开谈性",
+        "onboard_time": 1666844246,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122875,
+        "num": 122875,
+        "word": "苹果开发16英寸iPad",
+        "onboard_time": 1666833143,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116113,
+        "num": 116113,
+        "word": "马斯克称苹果广告抽成过高",
+        "onboard_time": 1666837463,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106850,
+        "num": 106850,
+        "word": "有打戏nb症的演员",
+        "onboard_time": 1666802598,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104731,
+        "num": 104731,
+        "word": "是谁教你们这样养狗的",
+        "onboard_time": 1666833323,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94651,
+        "num": 94651,
+        "word": "烈士蔡茂强最后一条朋友圈",
+        "onboard_time": 1666844666,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98355,
+        "num": 94429,
+        "word": "黑豹2世界首映礼",
+        "onboard_time": 1666841963,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 94350,
+        "word": "王曼昱vs韩莹",
+        "onboard_time": 1666847125,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93593,
+        "num": 93593,
+        "word": "普京指挥俄军战略核演习",
+        "onboard_time": 1666828521,
+        "rank": 48,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 86051,
+        "num": 86051,
+        "word": "张本智和3比0弗朗西斯卡",
+        "onboard_time": 1666841484,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#马克思主义中国化时代化新篇章#"
+    }
+  }
+}

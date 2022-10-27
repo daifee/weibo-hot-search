@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666844908889,
+  "endTime": 1666847173029,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -9,6 +9,14 @@
       "onboard_time": 1666833983,
       "rank": 3,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 1220417,
+      "num": 1220417,
+      "word": "故天将降大任于是人还是斯人",
+      "onboard_time": 1666842384,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1003067,
@@ -27,8 +35,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856164,
+      "num": 348846,
+      "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+      "onboard_time": 1666845387,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853368,
-      "num": 316793,
+      "num": 348053,
       "word": "孙怡晒再见爱人手机壳",
       "onboard_time": 1666841064,
       "rank": 10,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 475491,
-      "num": 283750,
+      "num": 346497,
       "word": "肖战王牌部队入围第33届飞天奖",
       "onboard_time": 1666842024,
       "rank": 12,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470436,
+      "num": 347335,
+      "word": "印度网民向苏纳克索要英国王冠钻石",
+      "onboard_time": 1666842024,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 467590,
       "num": 232260,
       "word": "男子分手后索回给女友23万转账被拒",
@@ -147,28 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455145,
-      "num": 265358,
-      "word": "印度网民向苏纳克索要英国王冠钻石",
-      "onboard_time": 1666842024,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 440450,
-      "num": 440450,
-      "word": "故天将降大任于是人还是斯人",
-      "onboard_time": 1666842384,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 424770,
       "num": 358793,
       "word": "苹果开发16英寸iPad",
       "onboard_time": 1666833143,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 424494,
+      "num": 244640,
+      "word": "汶川地震被救少年14年后救火牺牲",
+      "onboard_time": 1666843464,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419833,
@@ -203,8 +219,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374254,
+      "num": 374254,
+      "word": "老人吃播式向女儿汇报饮食",
+      "onboard_time": 1666843046,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370795,
-      "num": 265843,
+      "num": 280752,
       "word": "迪丽热巴费加罗10月封面",
       "onboard_time": 1666840525,
       "rank": 13,
@@ -217,6 +241,14 @@
       "onboard_time": 1666790124,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 360982,
+      "num": 360982,
+      "word": "宋旻浩妹妹将出演社内恋爱",
+      "onboard_time": 1666845987,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 351231,
@@ -233,6 +265,14 @@
       "onboard_time": 1666833266,
       "rank": 20,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 345649,
+      "num": 345649,
+      "word": "换乘恋爱2嘉宾出演费",
+      "onboard_time": 1666843944,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341714,
@@ -256,14 +296,6 @@
       "word": "赵丽颖欧豪野蛮生长片场欢乐趴",
       "onboard_time": 1666843824,
       "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323770,
-      "num": 258207,
-      "word": "换乘恋爱2嘉宾出演费",
-      "onboard_time": 1666843944,
-      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -299,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268861,
-      "num": 223275,
-      "word": "汶川地震被救少年14年后救火牺牲",
-      "onboard_time": 1666843464,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263940,
       "num": 263940,
       "word": "东北一小区喷泉池里摆满晾晒白菜",
@@ -329,6 +353,22 @@
       "onboard_time": 1666822152,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258330,
+      "num": 258330,
+      "word": "湖南一年吃掉330万吨辣椒",
+      "onboard_time": 1666845566,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249675,
+      "num": 249675,
+      "word": "三星正式开启李在镕时代",
+      "onboard_time": 1666842985,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 246507,
@@ -355,6 +395,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240090,
+      "num": 240090,
+      "word": "再见爱人",
+      "onboard_time": 1666845506,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238108,
+      "num": 238108,
+      "word": "许嵩新歌里的王语嫣",
+      "onboard_time": 1666844603,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232344,
       "num": 232344,
       "word": "狗崽被装袋扔垃圾桶路人出手解救",
@@ -379,12 +435,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 229043,
-      "num": 229043,
-      "word": "老人吃播式向女儿汇报饮食",
-      "onboard_time": 1666843046,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 224342,
+      "num": 224342,
+      "word": "郁美净回应产品不合格",
+      "onboard_time": 1666844185,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 222743,
@@ -435,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204064,
+      "num": 204064,
+      "word": "民警巡逻遇2只东北虎迎面走来",
+      "onboard_time": 1666842747,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193951,
       "num": 193951,
       "word": "新乡WTT世界杯决赛2022",
@@ -483,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180045,
+      "num": 161173,
+      "word": "志胜这段话说到了心坎里",
+      "onboard_time": 1666845866,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178791,
       "num": 178791,
       "word": "黄宗泽新剧时隔11年还是叫星柏",
@@ -523,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165857,
+      "num": 160083,
+      "word": "新神榜杨戬网播定档",
+      "onboard_time": 1666846526,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163143,
       "num": 160768,
       "word": "有打戏nb症的演员",
@@ -555,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155527,
+      "num": 155527,
+      "word": "临沂教资",
+      "onboard_time": 1666845806,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "芋圆cp",
       "onboard_time": 1666826658,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146255,
-      "num": 146255,
-      "word": "许嵩新歌里的王语嫣",
-      "onboard_time": 1666844603,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 139553,
@@ -619,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132106,
-      "num": 132106,
-      "word": "民警巡逻遇2只东北虎迎面走来",
-      "onboard_time": 1666842747,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 131775,
+      "num": 131775,
+      "word": "中国哪个省最能吃辣",
+      "onboard_time": 1666846645,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 131560,
@@ -657,6 +737,14 @@
       "onboard_time": 1666789765,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 125486,
+      "num": 125486,
+      "word": "如何看待在学校里公开谈性",
+      "onboard_time": 1666844246,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125352,
@@ -723,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111341,
+      "num": 94350,
+      "word": "王曼昱vs韩莹",
+      "onboard_time": 1666847125,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109785,
       "num": 109785,
       "word": "14岁背背篓网球少年说要拿大满贯",
@@ -737,14 +833,6 @@
       "onboard_time": 1666830805,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107622,
-      "num": 107622,
-      "word": "三星正式开启李在镕时代",
-      "onboard_time": 1666842985,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 106190,
@@ -803,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94651,
+      "num": 262231,
+      "word": "烈士蔡茂强最后一条朋友圈",
+      "onboard_time": 1666844666,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94541,
       "num": 94541,
       "word": "篮网vs雄鹿",
@@ -817,14 +913,6 @@
       "onboard_time": 1666840823,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92936,
-      "num": 92936,
-      "word": "郁美净回应产品不合格",
-      "onboard_time": 1666844185,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 92448,
@@ -873,14 +961,6 @@
       "onboard_time": 1666844548,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84707,
-      "num": 84707,
-      "word": "如何看待在学校里公开谈性",
-      "onboard_time": 1666844246,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 82566,
@@ -995,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54331,
+      "num": 346247,
+      "word": "原神 纳西妲",
+      "onboard_time": 1666846827,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53287,
       "num": 486822,
       "word": "9个高频词看二十大报告",
@@ -1075,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27197,
-      "num": 262231,
-      "word": "烈士蔡茂强最后一条朋友圈",
-      "onboard_time": 1666844666,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19788,
       "num": 19788,
       "word": "第五人格",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1666817529,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13217,
+      "num": 128274,
+      "word": "天猫将实现家具家电全国免费送装",
+      "onboard_time": 1666846827,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8405,

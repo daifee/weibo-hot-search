@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666844908889,
+  "endTime": 1666847173029,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -185,6 +185,14 @@
       "onboard_time": 1666757552,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1220417,
+      "num": 1220417,
+      "word": "故天将降大任于是人还是斯人",
+      "onboard_time": 1666842384,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1218805,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856164,
+      "num": 348846,
+      "word": "男子长期喂猪吃木瓜换火龙果遭猪白眼",
+      "onboard_time": 1666845387,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855042,
       "num": 82636,
       "word": "2022MAMA提名公布",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 853368,
-      "num": 316793,
+      "num": 348053,
       "word": "孙怡晒再见爱人手机壳",
       "onboard_time": 1666841064,
       "rank": 10,
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 475491,
-      "num": 283750,
+      "num": 346497,
       "word": "肖战王牌部队入围第33届飞天奖",
       "onboard_time": 1666842024,
       "rank": 12,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1666688663,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470436,
+      "num": 347335,
+      "word": "印度网民向苏纳克索要英国王冠钻石",
+      "onboard_time": 1666842024,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 469740,
@@ -1339,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455145,
-      "num": 265358,
-      "word": "印度网民向苏纳克索要英国王冠钻石",
-      "onboard_time": 1666842024,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 454014,
       "num": 56812,
       "word": "iPad评测",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1666661005,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 440450,
-      "num": 440450,
-      "word": "故天将降大任于是人还是斯人",
-      "onboard_time": 1666842384,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 436999,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1666833143,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 424494,
+      "num": 244640,
+      "word": "汶川地震被救少年14年后救火牺牲",
+      "onboard_time": 1666843464,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423063,
@@ -1787,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374254,
+      "num": 374254,
+      "word": "老人吃播式向女儿汇报饮食",
+      "onboard_time": 1666843046,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374037,
       "num": 374037,
       "word": "很难不被王妃的衣橱惊艳到",
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 370795,
-      "num": 265843,
+      "num": 280752,
       "word": "迪丽热巴费加罗10月封面",
       "onboard_time": 1666840525,
       "rank": 13,
@@ -1897,6 +1921,14 @@
       "onboard_time": 1666704689,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 360982,
+      "num": 360982,
+      "word": "宋旻浩妹妹将出演社内恋爱",
+      "onboard_time": 1666845987,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 359773,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1666794026,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 345649,
+      "num": 345649,
+      "word": "换乘恋爱2嘉宾出演费",
+      "onboard_time": 1666843944,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345441,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1666667844,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 323770,
-      "num": 258207,
-      "word": "换乘恋爱2嘉宾出演费",
-      "onboard_time": 1666843944,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323669,
@@ -2611,14 +2643,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 268861,
-      "num": 223275,
-      "word": "汶川地震被救少年14年后救火牺牲",
-      "onboard_time": 1666843464,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265985,
       "num": 265985,
       "word": "王源十七发行五周年",
@@ -2723,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258330,
+      "num": 258330,
+      "word": "湖南一年吃掉330万吨辣椒",
+      "onboard_time": 1666845566,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257882,
       "num": 257882,
       "word": "哪里能买到这种被子",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1666677145,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 249675,
+      "num": 249675,
+      "word": "三星正式开启李在镕时代",
+      "onboard_time": 1666842985,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 248876,
@@ -2923,12 +2963,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240090,
+      "num": 240090,
+      "word": "再见爱人",
+      "onboard_time": 1666845506,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238174,
       "num": 193951,
       "word": "新乡WTT世界杯决赛2022",
       "onboard_time": 1666607422,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238108,
+      "num": 238108,
+      "word": "许嵩新歌里的王语嫣",
+      "onboard_time": 1666844603,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 237008,
@@ -3027,14 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229043,
-      "num": 229043,
-      "word": "老人吃播式向女儿汇报饮食",
-      "onboard_time": 1666843046,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228637,
       "num": 228637,
       "word": "苏纳克正式成为英国新首相",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1666674984,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 224342,
+      "num": 224342,
+      "word": "郁美净回应产品不合格",
+      "onboard_time": 1666844185,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 224269,
@@ -3336,6 +3392,14 @@
       "word": "电动车屋内充电2分钟连爆15次",
       "onboard_time": 1666757547,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204064,
+      "num": 204064,
+      "word": "民警巡逻遇2只东北虎迎面走来",
+      "onboard_time": 1666842747,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3611,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180045,
+      "num": 161173,
+      "word": "志胜这段话说到了心坎里",
+      "onboard_time": 1666845866,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179579,
       "num": 14696,
       "word": "王楚钦说未来还很长继续努力",
@@ -3803,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165857,
+      "num": 160083,
+      "word": "新神榜杨戬网播定档",
+      "onboard_time": 1666846526,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163143,
       "num": 160768,
       "word": "有打戏nb症的演员",
@@ -3865,6 +3945,14 @@
       "onboard_time": 1666777164,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155527,
+      "num": 155527,
+      "word": "临沂教资",
+      "onboard_time": 1666845806,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 155522,
@@ -3985,14 +4073,6 @@
       "onboard_time": 1666506501,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146255,
-      "num": 146255,
-      "word": "许嵩新歌里的王语嫣",
-      "onboard_time": 1666844603,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 145779,
@@ -4259,20 +4339,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132106,
-      "num": 132106,
-      "word": "民警巡逻遇2只东北虎迎面走来",
-      "onboard_time": 1666842747,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132058,
       "num": 29146,
       "word": "72岁奶奶1分钟剪出路人侧颜",
       "onboard_time": 1666578565,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131775,
+      "num": 131775,
+      "word": "中国哪个省最能吃辣",
+      "onboard_time": 1666846645,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 131760,
@@ -4401,6 +4481,14 @@
       "onboard_time": 1666617565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125486,
+      "num": 125486,
+      "word": "如何看待在学校里公开谈性",
+      "onboard_time": 1666844246,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125293,
@@ -4651,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111341,
+      "num": 94350,
+      "word": "王曼昱vs韩莹",
+      "onboard_time": 1666847125,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111232,
       "num": 111232,
       "word": "gidle新歌获得一位",
@@ -4737,14 +4833,6 @@
       "onboard_time": 1666701926,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107622,
-      "num": 107622,
-      "word": "三星正式开启李在镕时代",
-      "onboard_time": 1666842985,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 107483,
@@ -5027,6 +5115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94651,
+      "num": 262231,
+      "word": "烈士蔡茂强最后一条朋友圈",
+      "onboard_time": 1666844666,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94541,
       "num": 94541,
       "word": "篮网vs雄鹿",
@@ -5073,14 +5169,6 @@
       "onboard_time": 1666681285,
       "rank": 38,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 92936,
-      "num": 92936,
-      "word": "郁美净回应产品不合格",
-      "onboard_time": 1666844185,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 92536,
@@ -5265,14 +5353,6 @@
       "onboard_time": 1666792467,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 84707,
-      "num": 84707,
-      "word": "如何看待在学校里公开谈性",
-      "onboard_time": 1666844246,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 84201,
@@ -5891,6 +5971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54331,
+      "num": 346247,
+      "word": "原神 纳西妲",
+      "onboard_time": 1666846827,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54311,
       "num": 12511,
       "word": "东北搓澡时的各种暗号",
@@ -6155,14 +6243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27197,
-      "num": 262231,
-      "word": "烈士蔡茂强最后一条朋友圈",
-      "onboard_time": 1666844666,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24535,
       "num": 475948,
       "word": "今天发条微博致敬最可爱的人",
@@ -6313,6 +6393,14 @@
       "onboard_time": 1666507702,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13217,
+      "num": 128274,
+      "word": "天猫将实现家具家电全国免费送装",
+      "onboard_time": 1666846827,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12649,
