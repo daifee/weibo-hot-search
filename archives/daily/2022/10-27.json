@@ -1,10 +1,18 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666827782122,
+  "endTime": 1666836527613,
   "band_list": [
     {
+      "raw_hot": 2271493,
+      "num": 374731,
+      "word": "羊了个羊背后公司现清仓式分红",
+      "onboard_time": 1666833983,
+      "rank": 3,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 1003067,
-      "num": 93409,
+      "num": 124347,
       "word": "芋圆cp官宣",
       "onboard_time": 1666789703,
       "rank": 30,
@@ -12,15 +20,31 @@
     },
     {
       "raw_hot": 837150,
-      "num": 293208,
+      "num": 363387,
       "word": "C盘一下子就不红了",
       "onboard_time": 1666788804,
       "rank": 3,
       "category": "其它"
     },
     {
+      "raw_hot": 669058,
+      "num": 371065,
+      "word": "宋雨琦担任综艺单独MC",
+      "onboard_time": 1666831525,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 497780,
+      "num": 688032,
+      "word": "当重庆女子收到房东给的香橼",
+      "onboard_time": 1666827260,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482137,
-      "num": 278790,
+      "num": 357826,
       "word": "RNG被曝将被竞拍解散",
       "onboard_time": 1666802660,
       "rank": 21,
@@ -28,7 +52,7 @@
     },
     {
       "raw_hot": 477756,
-      "num": 90631,
+      "num": 110702,
       "word": "心动的信号5成了四对",
       "onboard_time": 1666792585,
       "rank": 33,
@@ -43,11 +67,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467590,
+      "num": 232260,
+      "word": "男子分手后索回给女友23万转账被拒",
+      "onboard_time": 1666830144,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424770,
+      "num": 358793,
+      "word": "苹果开发16英寸iPad",
+      "onboard_time": 1666833143,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 419833,
       "num": 270773,
       "word": "主人扫脸打不开门禁但狗子可以",
       "onboard_time": 1666798225,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383132,
+      "num": 383132,
+      "word": "22岁女孩拍下云南版天空之镜",
+      "onboard_time": 1666829784,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -65,6 +113,14 @@
       "onboard_time": 1666799364,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 351097,
+      "num": 160835,
+      "word": "王嘉尔S12决赛开幕式嘉宾",
+      "onboard_time": 1666833266,
+      "rank": 20,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 341714,
@@ -89,6 +145,14 @@
       "onboard_time": 1666826059,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290312,
+      "num": 290312,
+      "word": "普京指挥俄军战略核演习",
+      "onboard_time": 1666828521,
+      "rank": 8,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 269623,
@@ -137,6 +201,30 @@
       "onboard_time": 1666793364,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232344,
+      "num": 232344,
+      "word": "狗崽被装袋扔垃圾桶路人出手解救",
+      "onboard_time": 1666828943,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 232169,
+      "num": 232169,
+      "word": "马斯克现身推特总部",
+      "onboard_time": 1666832722,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 222743,
+      "num": 222743,
+      "word": "10月26日新增本土确诊193例",
+      "onboard_time": 1666833383,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208050,
@@ -195,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178672,
+      "num": 178672,
+      "word": "很担心驿站老板的精神状态",
+      "onboard_time": 1666798406,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177770,
       "num": 177770,
       "word": "越喜欢一个人越想要远离",
@@ -217,6 +313,14 @@
       "onboard_time": 1666781243,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163143,
+      "num": 160768,
+      "word": "有打戏nb症的演员",
+      "onboard_time": 1666802598,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163008,
@@ -243,12 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155550,
-      "num": 155550,
-      "word": "很担心驿站老板的精神状态",
-      "onboard_time": 1666798406,
-      "rank": 19,
+      "raw_hot": 161606,
+      "num": 161606,
+      "word": "是谁教你们这样养狗的",
+      "onboard_time": 1666833323,
+      "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160455,
+      "num": 160455,
+      "word": "长期不按时吃饭容易得胆结石",
+      "onboard_time": 1666835482,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156804,
+      "num": 156804,
+      "word": "重庆一大学教授每次上课都给学生带礼物",
+      "onboard_time": 1666835903,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 150502,
@@ -267,6 +387,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 139306,
+      "num": 139306,
+      "word": "女子住民宿竟发现透明底浴缸",
+      "onboard_time": 1666836082,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138773,
       "num": 52523,
       "word": "肉粽cp",
@@ -275,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133918,
-      "num": 91860,
-      "word": "有打戏nb症的演员",
-      "onboard_time": 1666802598,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 135401,
+      "num": 135401,
+      "word": "岳云鹏晒工作照",
+      "onboard_time": 1666831223,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 133645,
@@ -289,6 +417,14 @@
       "onboard_time": 1666800383,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131560,
+      "num": 131560,
+      "word": "刘宇宁一念关山化妆路透",
+      "onboard_time": 1666831885,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 127197,
@@ -307,6 +443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 124647,
+      "num": 124647,
+      "word": "郑合惠子新剧演了个烙饼达人",
+      "onboard_time": 1666834162,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -323,12 +467,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119035,
+      "num": 119035,
+      "word": "纳什被驱逐",
+      "onboard_time": 1666835844,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115809,
       "num": 115809,
       "word": "王一博我的朋友眼镜造型剧照",
       "onboard_time": 1666792585,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109785,
+      "num": 109785,
+      "word": "14岁背背篓网球少年说要拿大满贯",
+      "onboard_time": 1666830384,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 108540,
+      "num": 108540,
+      "word": "Jennie登韩版ELLE封面",
+      "onboard_time": 1666830805,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 105666,
@@ -347,11 +515,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96743,
+      "num": 96743,
+      "word": "巴萨0比3拜仁",
+      "onboard_time": 1666830746,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95244,
       "num": 92572,
       "word": "郑州多区调整疫情防控政策",
       "onboard_time": 1666778004,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94541,
+      "num": 94541,
+      "word": "篮网vs雄鹿",
+      "onboard_time": 1666829124,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92008,
+      "num": 92008,
+      "word": "10月26日新增本土无症状924例",
+      "onboard_time": 1666833443,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -377,14 +569,6 @@
       "onboard_time": 1666826117,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86793,
-      "num": 86793,
-      "word": "当重庆女子收到房东给的香橼",
-      "onboard_time": 1666827260,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82566,
@@ -433,6 +617,14 @@
       "onboard_time": 1666788924,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68840,
+      "num": 68840,
+      "word": "热心小哥抱抱侠找到了",
+      "onboard_time": 1666832605,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66227,
@@ -556,7 +748,7 @@
     },
     {
       "raw_hot": 18169,
-      "num": 300081,
+      "num": 382785,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1666836527613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497780,
+        "num": 688032,
+        "word": "当重庆女子收到房东给的香橼",
+        "onboard_time": 1666827260,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383132,
+        "num": 383132,
+        "word": "22岁女孩拍下云南版天空之镜",
+        "onboard_time": 1666829784,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15093,
+        "num": 382785,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2271493,
+        "num": 374731,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 3,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 669058,
+        "num": 371065,
+        "word": "宋雨琦担任综艺单独MC",
+        "onboard_time": 1666831525,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591790,
+        "num": 363387,
+        "word": "C盘一下子就不红了",
+        "onboard_time": 1666788804,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 424770,
+        "num": 358793,
+        "word": "苹果开发16英寸iPad",
+        "onboard_time": 1666833143,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357826,
+        "num": 357826,
+        "word": "RNG被曝将被竞拍解散",
+        "onboard_time": 1666802660,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290312,
+        "num": 290312,
+        "word": "普京指挥俄军战略核演习",
+        "onboard_time": 1666828521,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 232344,
+        "num": 232344,
+        "word": "狗崽被装袋扔垃圾桶路人出手解救",
+        "onboard_time": 1666828943,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 467590,
+        "num": 232260,
+        "word": "男子分手后索回给女友23万转账被拒",
+        "onboard_time": 1666830144,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232169,
+        "num": 232169,
+        "word": "马斯克现身推特总部",
+        "onboard_time": 1666832722,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222743,
+        "num": 222743,
+        "word": "10月26日新增本土确诊193例",
+        "onboard_time": 1666833383,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218529,
+        "num": 218529,
+        "word": "主人扫脸打不开门禁但狗子可以",
+        "onboard_time": 1666798225,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208307,
+        "num": 208307,
+        "word": "女子患红斑狼疮跑马拉松对抗病魔",
+        "onboard_time": 1666792888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184562,
+        "num": 184562,
+        "word": "恋与制作人抄袭xxxHOLiC",
+        "onboard_time": 1666790124,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183174,
+        "num": 183174,
+        "word": "官方回应鄱阳湖现巨型地笼阵",
+        "onboard_time": 1666815612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178672,
+        "num": 178672,
+        "word": "很担心驿站老板的精神状态",
+        "onboard_time": 1666798406,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161606,
+        "num": 161606,
+        "word": "是谁教你们这样养狗的",
+        "onboard_time": 1666833323,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161147,
+        "num": 161147,
+        "word": "中方就台大科考船遭日方干扰提出交涉",
+        "onboard_time": 1666799364,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 351097,
+        "num": 160835,
+        "word": "王嘉尔S12决赛开幕式嘉宾",
+        "onboard_time": 1666833266,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 163143,
+        "num": 160768,
+        "word": "有打戏nb症的演员",
+        "onboard_time": 1666802598,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160455,
+        "num": 160455,
+        "word": "长期不按时吃饭容易得胆结石",
+        "onboard_time": 1666835482,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156804,
+        "num": 156804,
+        "word": "重庆一大学教授每次上课都给学生带礼物",
+        "onboard_time": 1666835903,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 154666,
+        "num": 154666,
+        "word": "赵露思直播",
+        "onboard_time": 1666825639,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151251,
+        "num": 151251,
+        "word": "始祖鸟购买经典款将需要配货",
+        "onboard_time": 1666797267,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139306,
+        "num": 139306,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135401,
+        "num": 135401,
+        "word": "岳云鹏晒工作照",
+        "onboard_time": 1666831223,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131560,
+        "num": 131560,
+        "word": "刘宇宁一念关山化妆路透",
+        "onboard_time": 1666831885,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124647,
+        "num": 124647,
+        "word": "郑合惠子新剧演了个烙饼达人",
+        "onboard_time": 1666834162,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234385,
+        "num": 124347,
+        "word": "芋圆cp官宣",
+        "onboard_time": 1666789703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119035,
+        "num": 119035,
+        "word": "纳什被驱逐",
+        "onboard_time": 1666835844,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110749,
+        "num": 110749,
+        "word": "法证先锋5第一案全员恶人",
+        "onboard_time": 1666800202,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189654,
+        "num": 110702,
+        "word": "心动的信号5成了四对",
+        "onboard_time": 1666792585,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109785,
+        "num": 109785,
+        "word": "14岁背背篓网球少年说要拿大满贯",
+        "onboard_time": 1666830384,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 108540,
+        "num": 108540,
+        "word": "Jennie登韩版ELLE封面",
+        "onboard_time": 1666830805,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105541,
+        "num": 105541,
+        "word": "再便秘就不礼貌了",
+        "onboard_time": 1666791746,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96743,
+        "num": 96743,
+        "word": "巴萨0比3拜仁",
+        "onboard_time": 1666830746,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96322,
+        "num": 96322,
+        "word": "这就是猫猫祟祟吧",
+        "onboard_time": 1666800383,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94541,
+        "num": 94541,
+        "word": "篮网vs雄鹿",
+        "onboard_time": 1666829124,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93954,
+        "num": 93954,
+        "word": "芋圆cp",
+        "onboard_time": 1666826658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92008,
+        "num": 92008,
+        "word": "10月26日新增本土无症状924例",
+        "onboard_time": 1666833443,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87335,
+        "num": 87335,
+        "word": "成毅莲花楼和狗子同步",
+        "onboard_time": 1666826117,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86674,
+        "num": 86674,
+        "word": "北京西城新增感染者4例",
+        "onboard_time": 1666822152,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85335,
+        "num": 85335,
+        "word": "侃爷跌出福布斯亿万富豪榜",
+        "onboard_time": 1666805296,
+        "rank": 44,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 84549,
+        "num": 84549,
+        "word": "黄宗泽新剧时隔11年还是叫星柏",
+        "onboard_time": 1666795228,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75853,
+        "num": 75853,
+        "word": "越喜欢一个人越想要远离",
+        "onboard_time": 1666787963,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73515,
+        "num": 73515,
+        "word": "女子晒连续286天晚10点睡觉变化",
+        "onboard_time": 1666778304,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70063,
+        "num": 70063,
+        "word": "大学生隔4个月返校宿舍长出辣椒",
+        "onboard_time": 1666781243,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68840,
+        "num": 68840,
+        "word": "热心小哥抱抱侠找到了",
+        "onboard_time": 1666832605,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告#"
+    }
+  }
+}
