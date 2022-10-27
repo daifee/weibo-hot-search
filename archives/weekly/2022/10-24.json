@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666889972071,
+  "endTime": 1666891690697,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -4563,6 +4563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167711,
+      "num": 139180,
+      "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
+      "onboard_time": 1666886482,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167211,
       "num": 167211,
       "word": "C罗重回曼联一线队训练",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1666841003,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139180,
-      "num": 139180,
-      "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
-      "onboard_time": 1666886482,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 139023,
@@ -6171,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91749,
+      "num": 86213,
+      "word": "曾凡博关键失误",
+      "onboard_time": 1666888579,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
@@ -6291,14 +6299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86213,
-      "num": 86213,
-      "word": "曾凡博关键失误",
-      "onboard_time": 1666888579,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86075,
       "num": 86075,
       "word": "这里宇航员浓度超过空间站了",
@@ -6320,6 +6320,14 @@
       "word": "老人骑车摔倒男子立刻停车冲去救人",
       "onboard_time": 1666620026,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85057,
+      "num": 85057,
+      "word": "抱娃过斑马线遇不礼让轿车险被撞",
+      "onboard_time": 1666886121,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -6624,14 +6632,6 @@
       "word": "女生选华为小折叠还是iPhone14",
       "onboard_time": 1666769006,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74500,
-      "num": 74500,
-      "word": "抱娃过斑马线遇不礼让轿车险被撞",
-      "onboard_time": 1666886121,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7283,6 +7283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42331,
+      "num": 42331,
+      "word": "于和伟四部作品入围飞天奖",
+      "onboard_time": 1666890914,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 41842,
       "num": 41842,
       "word": "直播解读二十大报告",
@@ -7411,6 +7419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 32956,
+      "num": 31555,
+      "word": "gidle新歌获MCD一位",
+      "onboard_time": 1666889897,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32648,
       "num": 459577,
       "word": "血战松毛岭使命感",
@@ -7427,12 +7443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31555,
-      "num": 31555,
-      "word": "gidle新歌获MCD一位",
-      "onboard_time": 1666889897,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 29721,
+      "num": 29721,
+      "word": "间谍过家家",
+      "onboard_time": 1666889658,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 29312,
