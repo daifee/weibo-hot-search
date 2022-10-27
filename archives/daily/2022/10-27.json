@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666849526066,
+  "endTime": 1666852222330,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 482651,
-      "num": 338065,
+      "num": 416821,
       "word": "汶川地震被救少年14年后救火牺牲",
       "onboard_time": 1666843464,
       "rank": 44,
@@ -185,6 +185,30 @@
       "onboard_time": 1666830144,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460364,
+      "num": 460364,
+      "word": "父母接连重病女外卖员当街崩溃",
+      "onboard_time": 1666847844,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456494,
+      "num": 237359,
+      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+      "onboard_time": 1666848326,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 434706,
+      "num": 434706,
+      "word": "一人一狗对峙了三个小时",
+      "onboard_time": 1666848804,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 424770,
@@ -249,6 +273,14 @@
       "onboard_time": 1666790124,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 367851,
+      "num": 367851,
+      "word": "中国哪个省最能吃辣",
+      "onboard_time": 1666846645,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 360982,
@@ -323,20 +355,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 323245,
-      "num": 323245,
-      "word": "中国哪个省最能吃辣",
-      "onboard_time": 1666846645,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 316796,
       "num": 316796,
       "word": "鹤岗回应移居买房热",
       "onboard_time": 1666836686,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310659,
+      "num": 310659,
+      "word": "赵丽颖许半夏红西装造型",
+      "onboard_time": 1666849582,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310535,
@@ -368,6 +400,14 @@
       "word": "披荆斩棘",
       "onboard_time": 1666848144,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278065,
+      "num": 278065,
+      "word": "陆虎没惹你们任何人",
+      "onboard_time": 1666850062,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -459,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237359,
-      "num": 237359,
-      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
-      "onboard_time": 1666848326,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232344,
       "num": 232344,
       "word": "狗崽被装袋扔垃圾桶路人出手解救",
@@ -491,14 +523,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 225855,
-      "num": 225855,
-      "word": "父母接连重病女外卖员当街崩溃",
-      "onboard_time": 1666847844,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222743,
       "num": 222743,
       "word": "10月26日新增本土确诊193例",
@@ -513,6 +537,14 @@
       "onboard_time": 1666842925,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216383,
+      "num": 216383,
+      "word": "不按时吃饭和胃癌只隔4步",
+      "onboard_time": 1666847424,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211150,
@@ -651,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170548,
-      "num": 170548,
-      "word": "一人一狗对峙了三个小时",
-      "onboard_time": 1666848804,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168796,
       "num": 168796,
       "word": "大学生隔4个月返校宿舍长出辣椒",
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153007,
+      "num": 153007,
+      "word": "科学家证明吃土可治疗肠炎",
+      "onboard_time": 1666850724,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "芋圆cp",
@@ -731,11 +763,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146412,
+      "num": 146412,
+      "word": "詹姆斯19分",
+      "onboard_time": 1666848683,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142693,
       "num": 111920,
       "word": "李振宁说很多舞台不让唱自己的歌",
       "onboard_time": 1666848503,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140653,
+      "num": 140653,
+      "word": "迪丽热巴封面侧拍花絮",
+      "onboard_time": 1666850062,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140079,
+      "num": 140079,
+      "word": "张凌赫他从火光中走来撑伞氛围感路透",
+      "onboard_time": 1666851502,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -777,6 +833,14 @@
       "onboard_time": 1666800383,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132740,
+      "num": 132740,
+      "word": "母猫考察寝室后叼3只幼崽托付",
+      "onboard_time": 1666851083,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132369,
@@ -883,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 114031,
-      "num": 114031,
-      "word": "不按时吃饭和胃癌只隔4步",
-      "onboard_time": 1666847424,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112103,
       "num": 112103,
       "word": "张本智和3比0弗朗西斯卡",
@@ -929,6 +985,14 @@
       "onboard_time": 1666822032,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101458,
+      "num": 101458,
+      "word": "才知道衣架印如何去除",
+      "onboard_time": 1666850423,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 100990,
@@ -1059,14 +1123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81918,
-      "num": 81918,
-      "word": "詹姆斯19分",
-      "onboard_time": 1666848683,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80359,
       "num": 80359,
       "word": "石川佳纯3比1木原美悠",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1666787003,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70190,
+      "num": 70190,
+      "word": "香格里拉日照金山与彩虹同框",
+      "onboard_time": 1666851802,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 69526,
@@ -1264,6 +1328,14 @@
       "word": "天猫将实现家具家电全国免费送装",
       "onboard_time": 1666846827,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23862,
+      "num": 261140,
+      "word": "守护古城40年76岁志愿者编号001",
+      "onboard_time": 1666850483,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
