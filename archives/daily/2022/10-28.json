@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666903245147,
+  "endTime": 1666905642174,
   "band_list": [
     {
       "raw_hot": 872654,
@@ -435,6 +435,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26476,
+      "num": 22181,
+      "word": "双胞胎姐妹同天同医院生娃",
+      "onboard_time": 1666902250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20144,
+      "num": 20144,
+      "word": "两次跳湖救人出租司机被申报见义勇为",
+      "onboard_time": 1666900510,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 16943,
       "num": 300593,
       "word": "飞天圆梦",
@@ -443,12 +459,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 12661,
-      "num": 12661,
-      "word": "两次跳湖救人出租司机被申报见义勇为",
-      "onboard_time": 1666900510,
-      "rank": 37,
-      "category": "社会正能量"
+      "raw_hot": 16755,
+      "num": 16755,
+      "word": "家装也能这么可爱",
+      "onboard_time": 1666903270,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 10376,
@@ -457,14 +473,6 @@
       "onboard_time": 1666872382,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8674,
-      "num": 8674,
-      "word": "双胞胎姐妹同天同医院生娃",
-      "onboard_time": 1666902250,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
