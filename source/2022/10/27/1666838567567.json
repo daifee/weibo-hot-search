@@ -1,0 +1,410 @@
+{
+  "runTime": 1666838567567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 729149,
+        "num": 729149,
+        "word": "重庆一大学教授每次上课都给学生带礼物",
+        "onboard_time": 1666835903,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 502640,
+        "num": 502640,
+        "word": "长期不按时吃饭容易得胆结石",
+        "onboard_time": 1666835482,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11779,
+        "num": 410646,
+        "word": "强国之路正扬帆",
+        "onboard_time": 1666782504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2223787,
+        "num": 406930,
+        "word": "羊了个羊背后公司现清仓式分红",
+        "onboard_time": 1666833983,
+        "rank": 3,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 394593,
+        "num": 394593,
+        "word": "C盘一下子就不红了",
+        "onboard_time": 1666788804,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 376925,
+        "num": 376925,
+        "word": "纳什被驱逐",
+        "onboard_time": 1666835844,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315909,
+        "num": 315909,
+        "word": "当重庆女子收到房东给的香橼",
+        "onboard_time": 1666827260,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310599,
+        "num": 310599,
+        "word": "RNG被曝将被竞拍解散",
+        "onboard_time": 1666802660,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269457,
+        "num": 269457,
+        "word": "22岁女孩拍下云南版天空之镜",
+        "onboard_time": 1666829784,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241759,
+        "num": 241759,
+        "word": "郑合惠子新剧演了个烙饼达人",
+        "onboard_time": 1666834162,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 803516,
+        "num": 241454,
+        "word": "女子住民宿竟发现透明底浴缸",
+        "onboard_time": 1666836082,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449417,
+        "num": 230857,
+        "word": "宋雨琦担任综艺单独MC",
+        "onboard_time": 1666831525,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333899,
+        "num": 225955,
+        "word": "男子分手后索回给女友23万转账被拒",
+        "onboard_time": 1666830144,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313029,
+        "num": 214134,
+        "word": "女孩跳操后腹痛不止险卵巢不保",
+        "onboard_time": 1666837164,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98660,
+        "num": 204885,
+        "word": "男子退伍2年偶遇自己当护旗手海报",
+        "onboard_time": 1666837043,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295322,
+        "num": 199660,
+        "word": "鹤岗回应移居买房热",
+        "onboard_time": 1666836686,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195934,
+        "num": 195934,
+        "word": "10月26日新增本土确诊193例",
+        "onboard_time": 1666833383,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195344,
+        "num": 195344,
+        "word": "普京指挥俄军战略核演习",
+        "onboard_time": 1666828521,
+        "rank": 17,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 193951,
+        "num": 193951,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1666837522,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193425,
+        "num": 193425,
+        "word": "马斯克现身推特总部",
+        "onboard_time": 1666832722,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330987,
+        "num": 193149,
+        "word": "苹果开发16英寸iPad",
+        "onboard_time": 1666833143,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258777,
+        "num": 191323,
+        "word": "王嘉尔S12决赛开幕式嘉宾",
+        "onboard_time": 1666833266,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 183694,
+        "num": 183694,
+        "word": "是谁教你们这样养狗的",
+        "onboard_time": 1666833323,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168225,
+        "num": 168225,
+        "word": "主人扫脸打不开门禁但狗子可以",
+        "onboard_time": 1666798225,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141317,
+        "num": 141317,
+        "word": "有打戏nb症的演员",
+        "onboard_time": 1666802598,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130741,
+        "num": 130741,
+        "word": "恋与制作人抄袭xxxHOLiC",
+        "onboard_time": 1666790124,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128839,
+        "num": 128839,
+        "word": "许佳琪首支原创单曲漫",
+        "onboard_time": 1666837403,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126284,
+        "num": 126284,
+        "word": "狗崽被装袋扔垃圾桶路人出手解救",
+        "onboard_time": 1666828943,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110907,
+        "num": 110907,
+        "word": "很担心驿站老板的精神状态",
+        "onboard_time": 1666798406,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110093,
+        "num": 110093,
+        "word": "中方就台大科考船遭日方干扰提出交涉",
+        "onboard_time": 1666799364,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182284,
+        "num": 109744,
+        "word": "芋圆cp官宣",
+        "onboard_time": 1666789703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109065,
+        "num": 109065,
+        "word": "女子患红斑狼疮跑马拉松对抗病魔",
+        "onboard_time": 1666792888,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 102997,
+        "word": "马斯克称苹果广告抽成过高",
+        "onboard_time": 1666837463,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 102838,
+        "word": "心动的信号5成了四对",
+        "onboard_time": 1666792585,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102146,
+        "num": 102146,
+        "word": "始祖鸟购买经典款将需要配货",
+        "onboard_time": 1666797267,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 99096,
+        "num": 99096,
+        "word": "Jennie登韩版ELLE封面",
+        "onboard_time": 1666830805,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98300,
+        "num": 98300,
+        "word": "岳云鹏晒工作照",
+        "onboard_time": 1666831223,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 96282,
+        "num": 96282,
+        "word": "湖人vs掘金",
+        "onboard_time": 1666837704,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94493,
+        "num": 94493,
+        "word": "光腿神器已火到欧洲",
+        "onboard_time": 1666838064,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92448,
+        "num": 92448,
+        "word": "圆明园银杏最佳观赏期来了",
+        "onboard_time": 1666836803,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 92305,
+        "num": 92305,
+        "word": "官方回应鄱阳湖现巨型地笼阵",
+        "onboard_time": 1666815612,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85765,
+        "num": 85765,
+        "word": "刘宇宁一念关山化妆路透",
+        "onboard_time": 1666831885,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82267,
+        "num": 82267,
+        "word": "成毅莲花楼和狗子同步",
+        "onboard_time": 1666826117,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78862,
+        "num": 78862,
+        "word": "再便秘就不礼貌了",
+        "onboard_time": 1666791746,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74708,
+        "num": 74708,
+        "word": "这就是猫猫祟祟吧",
+        "onboard_time": 1666800383,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70083,
+        "num": 70083,
+        "word": "法证先锋5第一案全员恶人",
+        "onboard_time": 1666800202,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69982,
+        "num": 69982,
+        "word": "篮网vs雄鹿",
+        "onboard_time": 1666829124,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68142,
+        "num": 68142,
+        "word": "90后老师为患儿开病房学校",
+        "onboard_time": 1666837643,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 64064,
+        "num": 64064,
+        "word": "黄宗泽新剧时隔11年还是叫星柏",
+        "onboard_time": 1666795228,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63484,
+        "num": 63484,
+        "word": "六万cp官宣",
+        "onboard_time": 1666790605,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#马克思主义中国化时代化新篇章#"
+    }
+  }
+}

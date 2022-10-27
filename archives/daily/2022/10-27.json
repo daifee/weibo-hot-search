@@ -1,10 +1,10 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666836527613,
+  "endTime": 1666838567567,
   "band_list": [
     {
       "raw_hot": 2271493,
-      "num": 374731,
+      "num": 406930,
       "word": "羊了个羊背后公司现清仓式分红",
       "onboard_time": 1666833983,
       "rank": 3,
@@ -20,11 +20,27 @@
     },
     {
       "raw_hot": 837150,
-      "num": 363387,
+      "num": 394593,
       "word": "C盘一下子就不红了",
       "onboard_time": 1666788804,
       "rank": 3,
       "category": "其它"
+    },
+    {
+      "raw_hot": 803516,
+      "num": 241454,
+      "word": "女子住民宿竟发现透明底浴缸",
+      "onboard_time": 1666836082,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729149,
+      "num": 729149,
+      "word": "重庆一大学教授每次上课都给学生带礼物",
+      "onboard_time": 1666835903,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 669058,
@@ -33,6 +49,14 @@
       "onboard_time": 1666831525,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502640,
+      "num": 502640,
+      "word": "长期不按时吃饭容易得胆结石",
+      "onboard_time": 1666835482,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497780,
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376925,
+      "num": 376925,
+      "word": "纳什被驱逐",
+      "onboard_time": 1666835844,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368131,
       "num": 284300,
       "word": "恋与制作人抄袭xxxHOLiC",
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 351097,
-      "num": 160835,
+      "num": 191323,
       "word": "王嘉尔S12决赛开幕式嘉宾",
       "onboard_time": 1666833266,
       "rank": 20,
@@ -139,12 +171,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 313029,
+      "num": 214134,
+      "word": "女孩跳操后腹痛不止险卵巢不保",
+      "onboard_time": 1666837164,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297436,
       "num": 297436,
       "word": "巴萨vs拜仁",
       "onboard_time": 1666826059,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295322,
+      "num": 199660,
+      "word": "鹤岗回应移居买房热",
+      "onboard_time": 1666836686,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290312,
@@ -203,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241759,
+      "num": 241759,
+      "word": "郑合惠子新剧演了个烙饼达人",
+      "onboard_time": 1666834162,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232344,
       "num": 232344,
       "word": "狗崽被装袋扔垃圾桶路人出手解救",
@@ -251,12 +307,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193951,
+      "num": 193951,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1666837522,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189488,
       "num": 189488,
       "word": "男子意外失忆与家人失联23年",
       "onboard_time": 1666786226,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183694,
+      "num": 183694,
+      "word": "是谁教你们这样养狗的",
+      "onboard_time": 1666833323,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 180056,
@@ -347,30 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161606,
-      "num": 161606,
-      "word": "是谁教你们这样养狗的",
-      "onboard_time": 1666833323,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 160455,
-      "num": 160455,
-      "word": "长期不按时吃饭容易得胆结石",
-      "onboard_time": 1666835482,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156804,
-      "num": 156804,
-      "word": "重庆一大学教授每次上课都给学生带礼物",
-      "onboard_time": 1666835903,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "芋圆cp",
@@ -385,14 +433,6 @@
       "onboard_time": 1666805296,
       "rank": 11,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 139306,
-      "num": 139306,
-      "word": "女子住民宿竟发现透明底浴缸",
-      "onboard_time": 1666836082,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138773,
@@ -427,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128839,
+      "num": 128839,
+      "word": "许佳琪首支原创单曲漫",
+      "onboard_time": 1666837403,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127197,
       "num": 313116,
       "word": "中国共产党章程发布",
@@ -443,14 +491,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 124647,
-      "num": 124647,
-      "word": "郑合惠子新剧演了个烙饼达人",
-      "onboard_time": 1666834162,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -465,14 +505,6 @@
       "onboard_time": 1666791746,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119035,
-      "num": 119035,
-      "word": "纳什被驱逐",
-      "onboard_time": 1666835844,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 115809,
@@ -507,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102997,
+      "num": 102997,
+      "word": "马斯克称苹果广告抽成过高",
+      "onboard_time": 1666837463,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 100990,
       "num": 100990,
       "word": "张艺兴演唱会海外好评度",
@@ -515,10 +555,26 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98660,
+      "num": 204885,
+      "word": "男子退伍2年偶遇自己当护旗手海报",
+      "onboard_time": 1666837043,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96743,
       "num": 96743,
       "word": "巴萨0比3拜仁",
       "onboard_time": 1666830746,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96282,
+      "num": 96282,
+      "word": "湖人vs掘金",
+      "onboard_time": 1666837704,
       "rank": 37,
       "category": "体育"
     },
@@ -537,6 +593,22 @@
       "onboard_time": 1666829124,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94493,
+      "num": 94493,
+      "word": "光腿神器已火到欧洲",
+      "onboard_time": 1666838064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92448,
+      "num": 92448,
+      "word": "圆明园银杏最佳观赏期来了",
+      "onboard_time": 1666836803,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 92008,
@@ -625,6 +697,14 @@
       "onboard_time": 1666832605,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 68142,
+      "num": 68142,
+      "word": "90后老师为患儿开病房学校",
+      "onboard_time": 1666837643,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 66227,
@@ -748,7 +828,7 @@
     },
     {
       "raw_hot": 18169,
-      "num": 382785,
+      "num": 410646,
       "word": "强国之路正扬帆",
       "onboard_time": 1666782504,
       "rank": 2,
@@ -777,6 +857,9 @@
     },
     {
       "word": "#贯彻二十大精神有16个字很重要#"
+    },
+    {
+      "word": "#马克思主义中国化时代化新篇章#"
     }
   ]
 }
