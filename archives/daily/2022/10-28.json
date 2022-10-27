@@ -1,7 +1,15 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666913302921,
+  "endTime": 1666914221687,
   "band_list": [
+    {
+      "raw_hot": 952438,
+      "num": 952438,
+      "word": "坚持早睡身体会有什么变化",
+      "onboard_time": 1666885044,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 872654,
       "num": 52275,
@@ -11,12 +19,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 823855,
-      "num": 823855,
-      "word": "坚持早睡身体会有什么变化",
-      "onboard_time": 1666885044,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 722852,
+      "num": 348760,
+      "word": "原来生日可以领这么多东西",
+      "onboard_time": 1666871301,
+      "rank": 4,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 637088,
@@ -27,40 +35,40 @@
       "category": "体育"
     },
     {
-      "raw_hot": 607771,
-      "num": 288748,
-      "word": "原来生日可以领这么多东西",
-      "onboard_time": 1666871301,
-      "rank": 4,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 584665,
-      "num": 294569,
+      "num": 348719,
       "word": "是我小看iPhone备忘录了",
       "onboard_time": 1666873704,
       "rank": 3,
       "category": "科技"
     },
     {
-      "raw_hot": 370121,
-      "num": 170161,
+      "raw_hot": 431368,
+      "num": 235078,
       "word": "西宁通报一颗白菜49.31元核查情况",
       "onboard_time": 1666885465,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296930,
-      "num": 296930,
+      "raw_hot": 349171,
+      "num": 349171,
+      "word": "双胞胎姐妹同天同医院生娃",
+      "onboard_time": 1666902250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348657,
+      "num": 348657,
       "word": "95后小伙患白血病2年理赔88次",
       "onboard_time": 1666872022,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274778,
-      "num": 274778,
+      "raw_hot": 322534,
+      "num": 322534,
       "word": "大爷卖的糖葫芦爬满蜜蜂",
       "onboard_time": 1666875206,
       "rank": 23,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266902,
+      "num": 234186,
+      "word": "普京指挥应对大规模核打击训练",
+      "onboard_time": 1666899671,
+      "rank": 18,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 263995,
       "num": 164356,
       "word": "长沙岳麓区检出1例阳性感染者",
@@ -83,28 +99,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261091,
-      "num": 261091,
-      "word": "双胞胎姐妹同天同医院生娃",
-      "onboard_time": 1666902250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228051,
-      "num": 228051,
+      "raw_hot": 256808,
+      "num": 256808,
       "word": "爸爸给33周胎儿唱歌被一脚踢开",
       "onboard_time": 1666876406,
       "rank": 22,
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 219316,
-      "num": 165719,
-      "word": "普京指挥应对大规模核打击训练",
-      "onboard_time": 1666899671,
-      "rank": 18,
-      "category": "军事,国外要闻"
+      "raw_hot": 230113,
+      "num": 230113,
+      "word": "丈夫太抠门被妻子告上法庭",
+      "onboard_time": 1666878085,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219257,
+      "num": 219257,
+      "word": "剧方要求下架退休阿姨版甄嬛传",
+      "onboard_time": 1666864582,
+      "rank": 12,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 218710,
@@ -123,20 +139,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196005,
-      "num": 162720,
-      "word": "丈夫太抠门被妻子告上法庭",
-      "onboard_time": 1666878085,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192778,
-      "num": 161408,
-      "word": "剧方要求下架退休阿姨版甄嬛传",
-      "onboard_time": 1666864582,
-      "rank": 12,
-      "category": "社会新闻,影视"
+      "raw_hot": 196056,
+      "num": 196056,
+      "word": "海克斯科技博主首次回应争议",
+      "onboard_time": 1666868365,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 188945,
@@ -155,20 +163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176254,
-      "num": 115047,
+      "raw_hot": 183824,
+      "num": 124823,
       "word": "王一博眼睛里藏摄影师",
       "onboard_time": 1666882824,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174377,
-      "num": 174377,
-      "word": "海克斯科技博主首次回应争议",
-      "onboard_time": 1666868365,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 169105,
@@ -185,6 +185,14 @@
       "onboard_time": 1666886482,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157097,
+      "num": 157097,
+      "word": "是人还是斯人人教社回应",
+      "onboard_time": 1666878446,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154152,
@@ -211,14 +219,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 149475,
-      "num": 149475,
-      "word": "是人还是斯人人教社回应",
-      "onboard_time": 1666878446,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129133,
       "num": 129133,
       "word": "女明星近期直播生图",
@@ -233,6 +233,14 @@
       "onboard_time": 1666875684,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102194,
+      "num": 102194,
+      "word": "曼联3比0谢里夫",
+      "onboard_time": 1666913239,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 97440,
@@ -267,11 +275,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88938,
+      "num": 88938,
+      "word": "18岁男子酒驾被查报父亲身份证",
+      "onboard_time": 1666876585,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84014,
-      "num": 67692,
+      "num": 83439,
       "word": "于和伟四部作品入围飞天奖",
       "onboard_time": 1666890914,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 82037,
+      "num": 82037,
+      "word": "摊主不在饺子摊老板帮做3倍大饭团",
+      "onboard_time": 1666868964,
+      "rank": 45,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 81851,
+      "num": 81851,
+      "word": "当学校请了温太医来开讲座",
+      "onboard_time": 1666913777,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80819,
+      "num": 80819,
+      "word": "法证先锋5剧情抓马",
+      "onboard_time": 1666879524,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -283,28 +323,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76735,
-      "num": 76735,
-      "word": "18岁男子酒驾被查报父亲身份证",
-      "onboard_time": 1666876585,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68667,
-      "num": 68667,
-      "word": "摊主不在饺子摊老板帮做3倍大饭团",
-      "onboard_time": 1666868964,
-      "rank": 45,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 66945,
-      "num": 66945,
+      "raw_hot": 75311,
+      "num": 75311,
       "word": "两次跳湖救人出租司机被申报见义勇为",
       "onboard_time": 1666900510,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 72539,
+      "num": 72539,
+      "word": "日剧silent",
+      "onboard_time": 1666913777,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 69461,
+      "num": 69461,
+      "word": "男子凌晨遇气肿流浪猫收养送医",
+      "onboard_time": 1666873523,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67213,
+      "num": 67213,
+      "word": "鹤岗被确定为中等城市",
+      "onboard_time": 1666913962,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66973,
+      "num": 66973,
+      "word": "男子被领导羞辱开车将其撞伤",
+      "onboard_time": 1666863563,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 66640,
@@ -315,28 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66166,
-      "num": 66166,
-      "word": "法证先锋5剧情抓马",
-      "onboard_time": 1666879524,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 61265,
-      "num": 61265,
+      "raw_hot": 66146,
+      "num": 66146,
       "word": "女子6块多网购柚子果肉仅有核桃大小",
       "onboard_time": 1666865906,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60723,
-      "num": 60723,
-      "word": "男子被领导羞辱开车将其撞伤",
-      "onboard_time": 1666863563,
-      "rank": 34,
-      "category": "社会负面"
+      "raw_hot": 65814,
+      "num": 65814,
+      "word": "学生时期留下的永久印迹",
+      "onboard_time": 1666894211,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60110,
@@ -347,12 +395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59812,
-      "num": 59812,
-      "word": "男子凌晨遇气肿流浪猫收养送医",
-      "onboard_time": 1666873523,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 56395,
+      "num": 56395,
+      "word": "原来狗狗也会落枕",
+      "onboard_time": 1666873883,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 55518,
@@ -363,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54665,
+      "num": 54665,
+      "word": "专家称是人斯人两种写法都有",
+      "onboard_time": 1666875383,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53674,
       "num": 53674,
       "word": "古早综艺能有多搞笑",
@@ -371,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52450,
-      "num": 52450,
-      "word": "原来狗狗也会落枕",
-      "onboard_time": 1666873883,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 53497,
+      "num": 53497,
+      "word": "炽道",
+      "onboard_time": 1666913299,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 50712,
@@ -387,20 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49222,
-      "num": 49222,
-      "word": "曼联3比0谢里夫",
-      "onboard_time": 1666913239,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48123,
-      "num": 48123,
-      "word": "学生时期留下的永久印迹",
-      "onboard_time": 1666894211,
+      "raw_hot": 48454,
+      "num": 48454,
+      "word": "时代少年团西装珍珠链条造型大片",
+      "onboard_time": 1666875083,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 47637,
@@ -425,22 +473,6 @@
       "onboard_time": 1666864161,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44856,
-      "num": 44856,
-      "word": "时代少年团西装珍珠链条造型大片",
-      "onboard_time": 1666875083,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 43282,
-      "num": 43282,
-      "word": "专家称是人斯人两种写法都有",
-      "onboard_time": 1666875383,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37246,
@@ -475,16 +507,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28895,
-      "num": 28895,
-      "word": "炽道",
-      "onboard_time": 1666913299,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24607,
-      "num": 300593,
+      "raw_hot": 25050,
+      "num": 348823,
       "word": "飞天圆梦",
       "onboard_time": 1666879165,
       "rank": 2,
