@@ -1,6 +1,6 @@
 {
   "startTime": 1666802113504,
-  "endTime": 1666852222330,
+  "endTime": 1666853303987,
   "band_list": [
     {
       "raw_hot": 2271493,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546976,
+      "num": 237359,
+      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+      "onboard_time": 1666848326,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497780,
       "num": 688032,
       "word": "当重庆女子收到房东给的香橼",
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456494,
-      "num": 237359,
-      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
-      "onboard_time": 1666848326,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434706,
       "num": 434706,
       "word": "一人一狗对峙了三个小时",
@@ -265,6 +265,14 @@
       "onboard_time": 1666840525,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 368993,
+      "num": 368993,
+      "word": "陆虎没惹你们任何人",
+      "onboard_time": 1666850062,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 368131,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315716,
+      "num": 315716,
+      "word": "科学家证明吃土可治疗肠炎",
+      "onboard_time": 1666850724,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310659,
       "num": 310659,
       "word": "赵丽颖许半夏红西装造型",
@@ -403,12 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278065,
-      "num": 278065,
-      "word": "陆虎没惹你们任何人",
-      "onboard_time": 1666850062,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 273033,
+      "num": 273033,
+      "word": "不按时吃饭和胃癌只隔4步",
+      "onboard_time": 1666847424,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271179,
+      "num": 271179,
+      "word": "母猫考察寝室后叼3只幼崽托付",
+      "onboard_time": 1666851083,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269623,
@@ -539,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216383,
-      "num": 216383,
-      "word": "不按时吃饭和胃癌只隔4步",
-      "onboard_time": 1666847424,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "志胜这段话说到了心坎里",
@@ -584,6 +600,14 @@
       "word": "虞书欣最新翻跳PinkVenom",
       "onboard_time": 1666825577,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204230,
+      "num": 180818,
+      "word": "张凌赫他从火光中走来撑伞氛围感路透",
+      "onboard_time": 1666851502,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -747,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153007,
-      "num": 153007,
-      "word": "科学家证明吃土可治疗肠炎",
-      "onboard_time": 1666850724,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 158067,
+      "num": 158067,
+      "word": "陈楚生让NPC很没有成就感",
+      "onboard_time": 1666852581,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 150502,
@@ -763,8 +787,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146412,
-      "num": 146412,
+      "raw_hot": 147868,
+      "num": 147868,
       "word": "詹姆斯19分",
       "onboard_time": 1666848683,
       "rank": 48,
@@ -785,14 +809,6 @@
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140079,
-      "num": 140079,
-      "word": "张凌赫他从火光中走来撑伞氛围感路透",
-      "onboard_time": 1666851502,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 139553,
@@ -833,14 +849,6 @@
       "onboard_time": 1666800383,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132740,
-      "num": 132740,
-      "word": "母猫考察寝室后叼3只幼崽托付",
-      "onboard_time": 1666851083,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132369,
@@ -923,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119406,
+      "num": 119406,
+      "word": "才知道衣架印如何去除",
+      "onboard_time": 1666850423,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 119316,
       "num": 119316,
       "word": "黑豹2世界首映礼",
@@ -985,14 +1001,6 @@
       "onboard_time": 1666822032,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101458,
-      "num": 101458,
-      "word": "才知道衣架印如何去除",
-      "onboard_time": 1666850423,
-      "rank": 39,
-      "category": "其它"
     },
     {
       "raw_hot": 100990,
@@ -1107,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82862,
+      "num": 82862,
+      "word": "倭蜂猴伤愈回归大围山",
+      "onboard_time": 1666852702,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82678,
       "num": 82678,
       "word": "江苏男篮vs辽宁男篮",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1666791565,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63500,
+      "num": 59838,
+      "word": "羊了个羊背后公司回应清仓式分红",
+      "onboard_time": 1666853062,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 60729,
@@ -1331,8 +1355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23862,
-      "num": 261140,
+      "raw_hot": 28731,
+      "num": 271212,
       "word": "守护古城40年76岁志愿者编号001",
       "onboard_time": 1666850483,
       "rank": 14,

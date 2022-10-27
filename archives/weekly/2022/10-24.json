@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666852222330,
+  "endTime": 1666853303987,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -995,6 +995,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 546976,
+      "num": 237359,
+      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
+      "onboard_time": 1666848326,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545102,
       "num": 84743,
       "word": "女孩回应辞职带84岁爷爷游中国",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1666695144,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456494,
-      "num": 237359,
-      "word": "李承铉在披荆斩棘官宣戚薇二胎生子",
-      "onboard_time": 1666848326,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 455512,
@@ -1891,6 +1891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 368993,
+      "num": 368993,
+      "word": "陆虎没惹你们任何人",
+      "onboard_time": 1666850062,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368823,
       "num": 87098,
       "word": "奶爸带娃加班被弄乱文件崩溃咆哮",
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315716,
+      "num": 315716,
+      "word": "科学家证明吃土可治疗肠炎",
+      "onboard_time": 1666850724,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315570,
       "num": 278828,
       "word": "中国海洋大学98周年校庆",
@@ -2659,14 +2675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278065,
-      "num": 278065,
-      "word": "陆虎没惹你们任何人",
-      "onboard_time": 1666850062,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277127,
       "num": 197633,
       "word": "新乡WTT男单对阵出炉",
@@ -2707,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273033,
+      "num": 273033,
+      "word": "不按时吃饭和胃癌只隔4步",
+      "onboard_time": 1666847424,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272847,
       "num": 272847,
       "word": "BLACKPINK新歌MV播放量破2亿",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1666754005,
       "rank": 25,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 271179,
+      "num": 271179,
+      "word": "母猫考察寝室后叼3只幼崽托付",
+      "onboard_time": 1666851083,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265985,
@@ -3323,14 +3347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216383,
-      "num": 216383,
-      "word": "不按时吃饭和胃癌只隔4步",
-      "onboard_time": 1666847424,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215726,
       "num": 75677,
       "word": "未定事件簿",
@@ -3489,6 +3505,14 @@
       "onboard_time": 1666757547,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204230,
+      "num": 180818,
+      "word": "张凌赫他从火光中走来撑伞氛围感路透",
+      "onboard_time": 1666851502,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204064,
@@ -4051,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158067,
+      "num": 158067,
+      "word": "陈楚生让NPC很没有成就感",
+      "onboard_time": 1666852581,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157157,
       "num": 157157,
       "word": "这才是我想要的刘海",
@@ -4123,14 +4155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153007,
-      "num": 153007,
-      "word": "科学家证明吃土可治疗肠炎",
-      "onboard_time": 1666850724,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151942,
       "num": 45582,
       "word": "王一博firstframe年度推介人",
@@ -4163,6 +4187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147868,
+      "num": 147868,
+      "word": "詹姆斯19分",
+      "onboard_time": 1666848683,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147541,
       "num": 87690,
       "word": "急救人员澡堂遇晕倒老人现场施救",
@@ -4185,14 +4217,6 @@
       "onboard_time": 1666506501,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146412,
-      "num": 146412,
-      "word": "詹姆斯19分",
-      "onboard_time": 1666848683,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 145779,
@@ -4321,14 +4345,6 @@
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140079,
-      "num": 140079,
-      "word": "张凌赫他从火光中走来撑伞氛围感路透",
-      "onboard_time": 1666851502,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 139553,
@@ -4465,14 +4481,6 @@
       "onboard_time": 1666529184,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132740,
-      "num": 132740,
-      "word": "母猫考察寝室后叼3只幼崽托付",
-      "onboard_time": 1666851083,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132692,
@@ -4753,6 +4761,14 @@
       "onboard_time": 1666690945,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119406,
+      "num": 119406,
+      "word": "才知道衣架印如何去除",
+      "onboard_time": 1666850423,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 119316,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1666654401,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101458,
-      "num": 101458,
-      "word": "才知道衣架印如何去除",
-      "onboard_time": 1666850423,
-      "rank": 39,
-      "category": "其它"
     },
     {
       "raw_hot": 101422,
@@ -5529,6 +5537,14 @@
       "onboard_time": 1666688185,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82862,
+      "num": 82862,
+      "word": "倭蜂猴伤愈回归大围山",
+      "onboard_time": 1666852702,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82753,
@@ -5979,6 +5995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 63500,
+      "num": 59838,
+      "word": "羊了个羊背后公司回应清仓式分红",
+      "onboard_time": 1666853062,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 63374,
       "num": 367953,
       "word": "新的远征",
@@ -6395,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28731,
+      "num": 271212,
+      "word": "守护古城40年76岁志愿者编号001",
+      "onboard_time": 1666850483,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27797,
       "num": 27797,
       "word": "新一届中央政治局常委同中外记者见面",
@@ -6425,14 +6457,6 @@
       "onboard_time": 1666575982,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 23862,
-      "num": 261140,
-      "word": "守护古城40年76岁志愿者编号001",
-      "onboard_time": 1666850483,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23298,
