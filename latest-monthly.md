@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 19:20:35
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 19:37:12
 </p>
 </blockquote>
 <p>
@@ -5625,6 +5625,12 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E4%B8%88%E5%A4%AB%E9%99%AA%E7%9D%80%E5%89%83%E5%85%89%E5%A4%B4%23" target="weibo">
+妻子做开颅手术丈夫陪着剃光头（热度：598339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E5%AE%BF%E8%88%8D%E5%A4%9A%E5%A4%A9%E5%A5%B3%E7%94%9F%E7%94%A8%E7%91%9C%E4%BC%BD%E5%9E%AB%E5%81%9A%E9%BA%BB%E5%B0%86%23" target="weibo">
 封宿舍多天女生用瑜伽垫做麻将（热度：598254）
 </a>
@@ -6005,12 +6011,6 @@ mlxg评价RNG比赛（热度：576050）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9F%E5%85%89%E8%AF%B4%E9%B9%A7%E9%B8%AA%E5%93%A8%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 高伟光说鹧鸪哨又回来了（热度：570706）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E6%AD%A2%E6%AD%A5%E6%BE%B3%E9%97%A8%E8%B5%9B16%E5%BC%BA%23" target="weibo">
-陈梦止步澳门赛16强（热度：570425）
 </a>
 </li>
 

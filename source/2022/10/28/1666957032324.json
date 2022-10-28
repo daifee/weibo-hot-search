@@ -1,0 +1,410 @@
+{
+  "runTime": 1666957032324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736899,
+        "num": 736899,
+        "word": "一人带狗独居435平",
+        "onboard_time": 1666949365,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598339,
+        "num": 598339,
+        "word": "妻子做开颅手术丈夫陪着剃光头",
+        "onboard_time": 1666951824,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10183,
+        "num": 567849,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 552595,
+        "num": 552595,
+        "word": "大学不谈恋爱真的会遗憾吗",
+        "onboard_time": 1666947024,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 482274,
+        "num": 482274,
+        "word": "看过后劲最大的剧",
+        "onboard_time": 1666949545,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418669,
+        "num": 418669,
+        "word": "江西财经大学99周年校庆",
+        "onboard_time": 1666952723,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393649,
+        "num": 393649,
+        "word": "樊振东2比3奥恰洛夫",
+        "onboard_time": 1666948226,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296268,
+        "num": 296268,
+        "word": "PDD回应起诉RNG",
+        "onboard_time": 1666947143,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249779,
+        "num": 249779,
+        "word": "大三男生自制防脱洗发水",
+        "onboard_time": 1666952424,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241702,
+        "num": 241702,
+        "word": "男子中近800万彩票后瞒着妻子转移财产",
+        "onboard_time": 1666938743,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523817,
+        "num": 241427,
+        "word": "王栎鑫又吐了",
+        "onboard_time": 1666949305,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382130,
+        "num": 241029,
+        "word": "德国总理朔尔茨将于11月4日访华",
+        "onboard_time": 1666955005,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266525,
+        "num": 240436,
+        "word": "脸蛋天才不是说说而已",
+        "onboard_time": 1666942584,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239530,
+        "num": 239530,
+        "word": "人民币长期走强的趋势不会改变",
+        "onboard_time": 1666949545,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 232371,
+        "word": "男子为捐髓锻炼数月3年配型2次",
+        "onboard_time": 1666954886,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231502,
+        "num": 231502,
+        "word": "7旬夫妻为3岁女儿庆生",
+        "onboard_time": 1666945464,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200886,
+        "num": 200886,
+        "word": "马斯克或将解禁特朗普推特账户",
+        "onboard_time": 1666947444,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 196384,
+        "num": 196384,
+        "word": "无畏伴生皮肤",
+        "onboard_time": 1666951882,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186843,
+        "num": 186843,
+        "word": "小伙网购手机被告知要等30天",
+        "onboard_time": 1666949845,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166308,
+        "num": 166308,
+        "word": "樊振东状态",
+        "onboard_time": 1666949003,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339666,
+        "num": 165472,
+        "word": "胡歌川西古装剧路透",
+        "onboard_time": 1666953865,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164339,
+        "num": 164339,
+        "word": "殷勇任北京市副市长",
+        "onboard_time": 1666947564,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164318,
+        "num": 164318,
+        "word": "美方的核讹诈吓不倒中国",
+        "onboard_time": 1666947326,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159940,
+        "num": 159940,
+        "word": "轩轩竟然长这么大了",
+        "onboard_time": 1666940903,
+        "rank": 23,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 156145,
+        "num": 156145,
+        "word": "法证先锋5好敢拍",
+        "onboard_time": 1666953324,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142809,
+        "num": 142809,
+        "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
+        "onboard_time": 1666946244,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141445,
+        "num": 141445,
+        "word": "伊藤美诚状态",
+        "onboard_time": 1666948645,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111647,
+        "num": 111647,
+        "word": "河南热奶宝有多好吃",
+        "onboard_time": 1666956264,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110889,
+        "num": 110889,
+        "word": "杨幂谢谢你医生骑摩托车路透",
+        "onboard_time": 1666941262,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 102698,
+        "word": "何笑然萧尚麒同居",
+        "onboard_time": 1666955844,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101882,
+        "num": 101882,
+        "word": "英雄联盟S12",
+        "onboard_time": 1666937903,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95884,
+        "num": 95884,
+        "word": "BLACKPINK世巡演唱会亚洲场次",
+        "onboard_time": 1666941445,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94735,
+        "num": 94735,
+        "word": "王源说有点冷",
+        "onboard_time": 1666954523,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93210,
+        "num": 93210,
+        "word": "中餐厅全员分享食材故事",
+        "onboard_time": 1666955663,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92555,
+        "num": 92555,
+        "word": "换乘恋爱2大结局推迟播出",
+        "onboard_time": 1666943304,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92126,
+        "num": 92126,
+        "word": "李冰洁再夺冠",
+        "onboard_time": 1666956025,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89782,
+        "num": 89782,
+        "word": "女大学生遭坠楼男子砸中截瘫",
+        "onboard_time": 1666922364,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89040,
+        "num": 89040,
+        "word": "iPhone14Pro双十一首次优惠",
+        "onboard_time": 1666927703,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87465,
+        "num": 87465,
+        "word": "爸爸3年鼓励助儿子成功逆袭",
+        "onboard_time": 1666943723,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87413,
+        "num": 87413,
+        "word": "王一博街舞5得奖敬礼",
+        "onboard_time": 1666936524,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85101,
+        "num": 85101,
+        "word": "林孝埈即将代表中国短道队首秀",
+        "onboard_time": 1666943124,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83521,
+        "num": 83521,
+        "word": "浙江男篮绝杀山东男篮",
+        "onboard_time": 1666954826,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78497,
+        "num": 78497,
+        "word": "想买这些家电了",
+        "onboard_time": 1666950985,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70067,
+        "num": 70067,
+        "word": "国考河南23个岗位仍无人报考",
+        "onboard_time": 1666956743,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 69455,
+        "num": 69455,
+        "word": "到底是谁教他们这么表演的",
+        "onboard_time": 1666955364,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68909,
+        "num": 68909,
+        "word": "王俊凯呼吁一起保护环境",
+        "onboard_time": 1666953744,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67266,
+        "num": 67266,
+        "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+        "onboard_time": 1666933106,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67179,
+        "num": 67179,
+        "word": "金晨罗娜炽道婚纱造型",
+        "onboard_time": 1666946364,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56866,
+        "num": 56866,
+        "word": "驻呼高校学生将分流返乡",
+        "onboard_time": 1666938084,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51543,
+        "num": 51543,
+        "word": "男子为救白血病儿子一天打两份工",
+        "onboard_time": 1666936765,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬伟大建党精神和延安精神#"
+    }
+  }
+}

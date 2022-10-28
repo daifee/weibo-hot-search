@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666956035881,
+  "endTime": 1666957032324,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -227,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 598339,
+      "num": 598339,
+      "word": "妻子做开颅手术丈夫陪着剃光头",
+      "onboard_time": 1666951824,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584665,
       "num": 348719,
       "word": "是我小看iPhone备忘录了",
@@ -307,14 +315,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 475377,
-      "num": 475377,
-      "word": "妻子做开颅手术丈夫陪着剃光头",
-      "onboard_time": 1666951824,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464594,
       "num": 464594,
       "word": "库克回应iPhone14Pro供不应求",
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418669,
+      "num": 418669,
+      "word": "江西财经大学99周年校庆",
+      "onboard_time": 1666952723,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 415626,
       "num": 415626,
       "word": "樊振东状态",
@@ -435,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 382130,
+      "num": 241029,
+      "word": "德国总理朔尔茨将于11月4日访华",
+      "onboard_time": 1666955005,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 369809,
       "num": 369809,
       "word": "iPhone14全系渠道报价低于官网",
@@ -483,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355228,
-      "num": 355228,
-      "word": "江西财经大学99周年校庆",
-      "onboard_time": 1666952723,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 349572,
       "num": 246177,
       "word": "邓刚手杆钓100斤石斑鱼",
@@ -513,6 +521,14 @@
       "onboard_time": 1666872022,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339666,
+      "num": 192251,
+      "word": "胡歌川西古装剧路透",
+      "onboard_time": 1666953865,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334579,
@@ -577,14 +593,6 @@
       "onboard_time": 1666918585,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 314703,
-      "num": 192251,
-      "word": "胡歌川西古装剧路透",
-      "onboard_time": 1666953865,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 311078,
@@ -715,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249779,
+      "num": 249779,
+      "word": "大三男生自制防脱洗发水",
+      "onboard_time": 1666952424,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249063,
       "num": 249063,
       "word": "周峻纬说是时候遇见我的那束光了",
@@ -843,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213603,
-      "num": 213603,
-      "word": "德国总理朔尔茨将于11月4日访华",
-      "onboard_time": 1666955005,
-      "rank": 18,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 205206,
       "num": 205206,
       "word": "彭冠英预告里摸了蔡文静9次头",
@@ -920,14 +928,6 @@
       "word": "郑州要求不得以防疫为由拒诊",
       "onboard_time": 1666879464,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186879,
-      "num": 186879,
-      "word": "大三男生自制防脱洗发水",
-      "onboard_time": 1666952424,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1227,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111647,
+      "num": 111647,
+      "word": "河南热奶宝有多好吃",
+      "onboard_time": 1666956264,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110191,
       "num": 110191,
       "word": "换乘恋爱",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1666921884,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 102698,
+      "num": 102698,
+      "word": "何笑然萧尚麒同居",
+      "onboard_time": 1666955844,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 102406,
@@ -1371,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92126,
+      "num": 92126,
+      "word": "李冰洁再夺冠",
+      "onboard_time": 1666956025,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91749,
       "num": 86213,
       "word": "曾凡博关键失误",
@@ -1411,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83521,
+      "num": 83521,
+      "word": "浙江男篮绝杀山东男篮",
+      "onboard_time": 1666954826,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82037,
       "num": 82037,
       "word": "摊主不在饺子摊老板帮做3倍大饭团",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1666914983,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81114,
-      "num": 81114,
-      "word": "浙江男篮绝杀山东男篮",
-      "onboard_time": 1666954826,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 80942,
@@ -1499,12 +1523,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 70067,
+      "num": 70067,
+      "word": "国考河南23个岗位仍无人报考",
+      "onboard_time": 1666956743,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 69461,
       "num": 69461,
       "word": "男子凌晨遇气肿流浪猫收养送医",
       "onboard_time": 1666873523,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69455,
+      "num": 69455,
+      "word": "到底是谁教他们这么表演的",
+      "onboard_time": 1666955364,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 66973,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1666883244,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59850,
-      "num": 59850,
-      "word": "到底是谁教他们这么表演的",
-      "onboard_time": 1666955364,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 57552,
@@ -1635,14 +1667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 50434,
-      "num": 50434,
-      "word": "李冰洁再夺冠",
-      "onboard_time": 1666956025,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48454,
       "num": 48454,
       "word": "时代少年团西装珍珠链条造型大片",
@@ -1699,6 +1723,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 39879,
+      "num": 232371,
+      "word": "男子为捐髓锻炼数月3年配型2次",
+      "onboard_time": 1666954886,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37246,
       "num": 37246,
       "word": "哈尔滨疫情防控",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1666879165,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 27757,
-      "num": 224460,
-      "word": "男子为捐髓锻炼数月3年配型2次",
-      "onboard_time": 1666954886,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23848,
