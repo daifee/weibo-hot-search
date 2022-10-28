@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 22:28:05
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 22:43:18
 </p>
 </blockquote>
 <p>
@@ -1341,6 +1341,12 @@ RNG打破TI历史时间记录（热度：1329447）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%23" target="weibo">
+林孝埈（热度：1322990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E6%B2%A1%E9%82%A3%E4%B9%88%E7%84%A6%E8%99%91%E4%BA%86%23" target="weibo">
 好像突然没那么焦虑了（热度：1322075）
 </a>
@@ -1487,6 +1493,12 @@ Scout确诊（热度：1288170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8B%BF%E6%B0%B4%E7%93%B6%E6%8C%87%E7%9D%80%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E5%A4%B4%23" target="weibo">
 吴京拿水瓶指着王俊凯的头（热度：1273632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E4%B8%AD%E9%81%87%E8%A2%AD%23" target="weibo">
+佩洛西丈夫在家中遇袭（热度：1267690）
 </a>
 </li>
 
@@ -1763,12 +1775,6 @@ JackeyLove哭了（热度：1186746）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E5%BC%80%E5%88%869.6%23" target="weibo">
 万里归途开分9.6（热度：1176261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E4%B8%AD%E9%81%87%E8%A2%AD%23" target="weibo">
-佩洛西丈夫在家中遇袭（热度：1174409）
 </a>
 </li>
 
@@ -2063,12 +2069,6 @@ RGE战胜TES（热度：1085972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1700%E4%B9%B0%E8%99%8E%E7%9A%AE%E7%8A%AC%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E6%9F%93%E8%89%B2%E7%8B%97%23" target="weibo">
 花700买虎皮犬回家发现是染色狗（热度：1080994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%23" target="weibo">
-林孝埈（热度：1079727）
 </a>
 </li>
 
@@ -4539,6 +4539,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%88%E4%BC%A0%E6%92%AD%E5%90%8E%E5%87%BA%E9%98%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E9%9A%BE%E5%BA%A6%E5%8A%A0%E5%A4%A7%23" target="weibo">
+乌鲁木齐先传播后出阳疫情防控难度加大（热度：699388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%98%8E%E5%B7%9E%E4%BA%8B%E4%BB%B6%23" target="weibo">
 刘强东回应明州事件（热度：699201）
 </a>
@@ -4865,6 +4871,12 @@ iPhone15Ultra或采用钛金属外壳（热度：669362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E6%88%96%E8%AE%A9%E8%8B%B9%E6%9E%9C%E6%AF%8F%E5%B9%B4%E6%8D%9F%E5%A4%B1%E7%99%BE%E4%BA%BF%23" target="weibo">
 统一充电接口或让苹果每年损失百亿（热度：669006）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD129%E5%88%86%E7%94%B7%E7%94%9F%E8%AF%BE%E4%B8%8A%E8%AF%BB%E5%87%BA%E8%B9%A9%E8%84%9A%E8%8B%B1%E6%96%87%23" target="weibo">
+英语129分男生课上读出蹩脚英文（热度：667511）
 </a>
 </li>
 
@@ -5243,12 +5255,6 @@ BLACKPINK将参加海德公园音乐节（热度：637621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%89330%E4%B8%87%E5%90%A8%E8%BE%A3%E6%A4%92%23" target="weibo">
 湖南一年吃掉330万吨辣椒（热度：637424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%88%E4%BC%A0%E6%92%AD%E5%90%8E%E5%87%BA%E9%98%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E9%9A%BE%E5%BA%A6%E5%8A%A0%E5%A4%A7%23" target="weibo">
-乌鲁木齐先传播后出阳疫情防控难度加大（热度：636174）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ SK（热度：578344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%8B%97%E6%84%A7%E7%96%9A%E4%B8%80%E8%BE%88%E5%AD%90%23" target="weibo">
 让狗愧疚一辈子（热度：577567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%86%AC%E5%85%AB%E4%BB%B6%E5%A5%97%E8%A2%AB%E6%AC%A7%E6%B4%B2%E4%B9%B0%E7%88%86%23" target="weibo">
-中国过冬八件套被欧洲买爆（热度：576898）
 </a>
 </li>
 
