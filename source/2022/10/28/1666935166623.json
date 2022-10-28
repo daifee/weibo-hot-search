@@ -1,0 +1,410 @@
+{
+  "runTime": 1666935166623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631654,
+        "num": 631654,
+        "word": "5岁男孩看店1小时卖100多元香肠",
+        "onboard_time": 1666928125,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472949,
+        "num": 472949,
+        "word": "陈吉宁任上海市委书记",
+        "onboard_time": 1666926564,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45676,
+        "num": 465823,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1433585,
+        "num": 419482,
+        "word": "女大学生遭坠楼男子砸中截瘫",
+        "onboard_time": 1666922364,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671903,
+        "num": 412950,
+        "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+        "onboard_time": 1666931005,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496815,
+        "num": 381486,
+        "word": "iPhone14Pro双十一首次优惠",
+        "onboard_time": 1666927703,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 365257,
+        "num": 365257,
+        "word": "快乐回来啦开播",
+        "onboard_time": 1666931845,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358618,
+        "num": 358618,
+        "word": "原来真的有追星星的人",
+        "onboard_time": 1666929564,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321119,
+        "num": 321119,
+        "word": "鹿晗穿越火线日本播出预告",
+        "onboard_time": 1666931365,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259657,
+        "num": 259657,
+        "word": "女村干部倒挂15米深井救出孩子",
+        "onboard_time": 1666930526,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512248,
+        "num": 259647,
+        "word": "马斯克开除推特CEO和CFO",
+        "onboard_time": 1666922963,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 449606,
+        "num": 259646,
+        "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+        "onboard_time": 1666933106,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445493,
+        "num": 259646,
+        "word": "鹤岗被确定为中等城市",
+        "onboard_time": 1666913962,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259633,
+        "num": 259633,
+        "word": "警方回应8个月女婴当街被抱走",
+        "onboard_time": 1666918165,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238445,
+        "num": 238445,
+        "word": "大学生心脏骤停被同学教科书式救回",
+        "onboard_time": 1666916906,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 237110,
+        "num": 237110,
+        "word": "为什么00后更愿意为兴趣买单",
+        "onboard_time": 1666926384,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 214379,
+        "num": 214379,
+        "word": "李诞解开了我对友谊的困惑",
+        "onboard_time": 1666934545,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213949,
+        "num": 213949,
+        "word": "金硕珍solo单曲MV",
+        "onboard_time": 1666934605,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210403,
+        "num": 210403,
+        "word": "当学校请了温太医来开讲座",
+        "onboard_time": 1666913777,
+        "rank": 18,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 207423,
+        "num": 207423,
+        "word": "国考已有岗位竞争超过1300比1",
+        "onboard_time": 1666924763,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206713,
+        "num": 206713,
+        "word": "周峻纬说是时候遇见我的那束光了",
+        "onboard_time": 1666931787,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178900,
+        "num": 178900,
+        "word": "迪丽热巴撑伞的酷飒瞬间",
+        "onboard_time": 1666923625,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171145,
+        "num": 171145,
+        "word": "库里33分9助攻",
+        "onboard_time": 1666932684,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159197,
+        "num": 159197,
+        "word": "rihanna新歌封面",
+        "onboard_time": 1666922484,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157797,
+        "num": 157797,
+        "word": "RNG多次因合同纠纷被起诉",
+        "onboard_time": 1666920564,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151875,
+        "num": 151875,
+        "word": "白鹿奔跑吧特别季出发路透",
+        "onboard_time": 1666924223,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147375,
+        "num": 147375,
+        "word": "青岛教资",
+        "onboard_time": 1666924283,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144736,
+        "num": 144736,
+        "word": "男子嫌消防出警太吵六楼扔饮料瓶",
+        "onboard_time": 1666934123,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133825,
+        "num": 133825,
+        "word": "库克回应iPhone14Pro供不应求",
+        "onboard_time": 1666919606,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127005,
+        "num": 127005,
+        "word": "这就是公主的造型师吧",
+        "onboard_time": 1666926443,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 137553,
+        "num": 125556,
+        "word": "我们的滚烫人生2定档",
+        "onboard_time": 1666931005,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131282,
+        "num": 124813,
+        "word": "女明星公主切造型大赏",
+        "onboard_time": 1666930106,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123699,
+        "num": 123699,
+        "word": "蕾哈娜新歌LiftMeUp公开",
+        "onboard_time": 1666931548,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 121085,
+        "word": "武汉疾控专家解读当前疫情防控形势",
+        "onboard_time": 1666916784,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120605,
+        "num": 120605,
+        "word": "彭冠英预告里摸了蔡文静9次头",
+        "onboard_time": 1666927343,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117326,
+        "num": 117326,
+        "word": "iPhone14全系渠道报价低于官网",
+        "onboard_time": 1666924343,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110743,
+        "num": 110743,
+        "word": "千万不要让猫猫经常和狗玩",
+        "onboard_time": 1666917325,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96652,
+        "num": 96652,
+        "word": "马斯克任推特CEO",
+        "onboard_time": 1666921223,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93095,
+        "num": 93095,
+        "word": "大熊猫在秦岭秋天的树上又掉凳了",
+        "onboard_time": 1666931787,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23848,
+        "num": 92928,
+        "word": "22家航司在飞猪推出快速升级金卡",
+        "onboard_time": 1666933227,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106096,
+        "num": 92890,
+        "word": "王嘉尔再登新加坡ELLE封面",
+        "onboard_time": 1666933705,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92848,
+        "num": 92848,
+        "word": "常上夜班的人怎么提高睡眠质量",
+        "onboard_time": 1666926264,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "王俊凯万里归途英语喊话名场面",
+        "onboard_time": 1666930284,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85894,
+        "num": 85894,
+        "word": "坚持早睡身体会有什么变化",
+        "onboard_time": 1666885044,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83939,
+        "num": 83939,
+        "word": "马斯克收购推特意味着什么",
+        "onboard_time": 1666923145,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 68619,
+        "num": 68619,
+        "word": "看截图时最在意的东西",
+        "onboard_time": 1666914320,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66473,
+        "num": 66473,
+        "word": "融创偷换与中融信托共管的保险柜锁芯",
+        "onboard_time": 1666918585,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61820,
+        "num": 61820,
+        "word": "趴桌子动作可缓解肩颈疾病",
+        "onboard_time": 1666921163,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61543,
+        "num": 61543,
+        "word": "公交司机半路停车买桂圆边开边吃",
+        "onboard_time": 1666915044,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45574,
+        "num": 60956,
+        "word": "打鼾是一种隐形暴力",
+        "onboard_time": 1666929623,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#延安革命旧址是一本永远读不完的书#"
+    }
+  }
+}
