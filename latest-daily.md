@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/29 00:31:17 ~ 2022/10/29 01:25:51
+本榜单时间：2022/10/29 00:31:17 ~ 2022/10/29 01:43:03
 </p>
 </blockquote>
 <p>
@@ -328,7 +328,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BD%E6%88%98%E5%9C%BA%23" target="weibo">
-美丽战场（热度：31337）
+美丽战场（热度：31410）
 </a>
 </li>
 
@@ -359,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BC%98%E6%89%AC%E4%BC%9F%E5%A4%A7%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%E5%92%8C%E5%BB%B6%E5%AE%89%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
 #弘扬伟大建党精神和延安精神#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%8E%E5%8E%86%E5%8F%B2%E4%B8%AD%E6%B1%B2%E5%8F%96%E6%99%BA%E6%85%A7%E5%92%8C%E5%8A%9B%E9%87%8F%23%23" target="weibo">
+#从历史中汲取智慧和力量#
 </a>
 </li>
 
