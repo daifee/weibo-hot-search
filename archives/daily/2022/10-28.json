@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666952761793,
+  "endTime": 1666953778072,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923044,
+      "num": 411534,
+      "word": "王栎鑫又吐了",
+      "onboard_time": 1666949305,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 907160,
       "num": 907160,
       "word": "手机充电进入个位数时代",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 840080,
-      "num": 577083,
+      "num": 687918,
       "word": "大学不谈恋爱真的会遗憾吗",
       "onboard_time": 1666947024,
       "rank": 49,
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 815305,
-      "num": 411534,
-      "word": "王栎鑫又吐了",
-      "onboard_time": 1666949305,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 814818,
       "num": 814818,
       "word": "5岁男孩看店1小时卖100多元香肠",
       "onboard_time": 1666928125,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783279,
+      "num": 783279,
+      "word": "一人带狗独居435平",
+      "onboard_time": 1666949365,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 766566,
@@ -187,20 +195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 661516,
-      "num": 661516,
-      "word": "一人带狗独居435平",
-      "onboard_time": 1666949365,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 660506,
       "num": 332631,
       "word": "轩轩竟然长这么大了",
       "onboard_time": 1666940903,
       "rank": 11,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 639120,
+      "num": 639120,
+      "word": "看过后劲最大的剧",
+      "onboard_time": 1666949545,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 637088,
@@ -233,14 +241,6 @@
       "onboard_time": 1666933106,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553583,
-      "num": 553583,
-      "word": "看过后劲最大的剧",
-      "onboard_time": 1666949545,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 547401,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363421,
+      "num": 322340,
+      "word": "人民币长期走强的趋势不会改变",
+      "onboard_time": 1666949545,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 358618,
       "num": 358618,
       "word": "原来真的有追星星的人",
@@ -563,20 +571,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 306696,
-      "num": 306696,
-      "word": "人民币长期走强的趋势不会改变",
-      "onboard_time": 1666949545,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 293447,
       "num": 293447,
       "word": "Lisa舞台反应能力",
       "onboard_time": 1666916906,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 291911,
+      "num": 64876,
+      "word": "王俊凯呼吁一起保护环境",
+      "onboard_time": 1666953744,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 291240,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258621,
+      "num": 258621,
+      "word": "小伙网购手机被告知要等30天",
+      "onboard_time": 1666949845,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258136,
       "num": 237130,
       "word": "换乘恋爱2大结局推迟播出",
@@ -683,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244525,
-      "num": 244525,
-      "word": "小伙网购手机被告知要等30天",
-      "onboard_time": 1666949845,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240479,
       "num": 240479,
       "word": "三体我正在想你",
@@ -713,6 +721,14 @@
       "onboard_time": 1666940963,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234718,
+      "num": 234718,
+      "word": "无畏伴生皮肤",
+      "onboard_time": 1666951882,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 230113,
@@ -907,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171275,
-      "num": 171275,
-      "word": "无畏伴生皮肤",
-      "onboard_time": 1666951882,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171145,
       "num": 171145,
       "word": "库里33分9助攻",
@@ -985,6 +993,14 @@
       "onboard_time": 1666940784,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162865,
+      "num": 162865,
+      "word": "妻子做开颅手术丈夫陪着剃光头",
+      "onboard_time": 1666951824,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161228,
@@ -1115,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133052,
+      "num": 133052,
+      "word": "江西财经大学99周年校庆",
+      "onboard_time": 1666952723,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131282,
       "num": 125109,
       "word": "女明星公主切造型大赏",
@@ -1235,6 +1259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 102406,
+      "num": 102406,
+      "word": "王艺迪晋级WTT世界杯四强",
+      "onboard_time": 1666951525,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102194,
       "num": 102194,
       "word": "曼联3比0谢里夫",
@@ -1291,28 +1323,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 94158,
+      "num": 94158,
+      "word": "法证先锋5好敢拍",
+      "onboard_time": 1666953324,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91749,
       "num": 86213,
       "word": "曾凡博关键失误",
       "onboard_time": 1666888579,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91508,
-      "num": 91508,
-      "word": "王艺迪晋级WTT世界杯四强",
-      "onboard_time": 1666951525,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88993,
-      "num": 88993,
-      "word": "妻子做开颅手术丈夫陪着剃光头",
-      "onboard_time": 1666951824,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88938,
@@ -1395,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78915,
+      "num": 78915,
+      "word": "大三男生自制防脱洗发水",
+      "onboard_time": 1666952424,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76951,
       "num": 76951,
       "word": "想买这些家电了",
@@ -1451,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66548,
+      "num": 66548,
+      "word": "三体动画角色图曝光",
+      "onboard_time": 1666953444,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66146,
       "num": 66146,
       "word": "女子6块多网购柚子果肉仅有核桃大小",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1666883244,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59997,
-      "num": 59997,
-      "word": "江西财经大学99周年校庆",
-      "onboard_time": 1666952723,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 57552,
@@ -1588,7 +1620,7 @@
     },
     {
       "raw_hot": 45676,
-      "num": 674975,
+      "num": 725669,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,
