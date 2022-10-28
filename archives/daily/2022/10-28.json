@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666961540164,
+  "endTime": 1666963576045,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1296917,
-      "num": 496316,
+      "num": 605050,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1267188,
-      "num": 496294,
+      "num": 599550,
       "word": "余生请多指教豆瓣开分6",
       "onboard_time": 1666960704,
       "rank": 4,
@@ -97,6 +97,14 @@
       "onboard_time": 1666918165,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 879678,
+      "num": 879678,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1666962267,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 878188,
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716919,
+      "num": 716919,
+      "word": "为什么删了喜欢很久的人",
+      "onboard_time": 1666960643,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 711238,
       "num": 501147,
       "word": "名画戴珍珠耳环的少女遭环保组织袭击",
@@ -241,6 +257,14 @@
       "onboard_time": 1666949545,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 638254,
+      "num": 272066,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1666961243,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637088,
@@ -307,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532351,
+      "num": 532351,
+      "word": "推特将于10月28日起退市",
+      "onboard_time": 1666959804,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 526999,
       "num": 526999,
       "word": "陈小春张智霖浮夸舞台剃头",
@@ -315,12 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523593,
+      "num": 523593,
+      "word": "沈梦辰演王熙凤",
+      "onboard_time": 1666961004,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523331,
       "num": 523331,
       "word": "男子嫌消防出警太吵六楼扔饮料瓶",
       "onboard_time": 1666934123,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518618,
+      "num": 284527,
+      "word": "肖战杨紫余生豆瓣6.0合理吗",
+      "onboard_time": 1666963347,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 502732,
@@ -441,6 +489,14 @@
       "onboard_time": 1666952723,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 417885,
+      "num": 279698,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1666960584,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415626,
@@ -699,22 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279698,
-      "num": 279698,
-      "word": "广州海珠区疫情防控",
-      "onboard_time": 1666960584,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273444,
-      "num": 273444,
-      "word": "沈梦辰演王熙凤",
-      "onboard_time": 1666961004,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268512,
       "num": 268512,
       "word": "万茜方否认是今年金鹰女神",
@@ -811,12 +851,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246483,
-      "num": 246483,
-      "word": "推特将于10月28日起退市",
-      "onboard_time": 1666959804,
-      "rank": 14,
-      "category": "科技"
+      "raw_hot": 243621,
+      "num": 243621,
+      "word": "中国好声音",
+      "onboard_time": 1666961004,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 240479,
@@ -833,6 +873,14 @@
       "onboard_time": 1666944024,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236047,
+      "num": 229325,
+      "word": "秦岚找U盘是在碾压观众智商吗",
+      "onboard_time": 1666961546,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 235736,
@@ -883,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228334,
+      "num": 228334,
+      "word": "佩洛西丈夫在家中遇袭",
+      "onboard_time": 1666963405,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 224858,
       "num": 224858,
       "word": "店主大姐一声声宝贝安慰走失幼童",
@@ -915,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217974,
+      "num": 217974,
+      "word": "泰亦奈言互选",
+      "onboard_time": 1666963465,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215093,
       "num": 215093,
       "word": "我国从地沟油中提炼出航空燃油",
@@ -939,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212477,
+      "num": 175144,
+      "word": "换乘恋爱2终选结果",
+      "onboard_time": 1666963284,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208435,
       "num": 208435,
       "word": "明星唱给粉丝的歌",
@@ -953,14 +1025,6 @@
       "onboard_time": 1666961243,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206959,
-      "num": 200075,
-      "word": "中国好声音",
-      "onboard_time": 1666961004,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 205206,
@@ -1083,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171661,
+      "num": 89028,
+      "word": "英雄联盟",
+      "onboard_time": 1666963524,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171145,
       "num": 171145,
       "word": "库里33分9助攻",
       "onboard_time": 1666932684,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170167,
-      "num": 170167,
-      "word": "为什么删了喜欢很久的人",
-      "onboard_time": 1666960643,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 169105,
@@ -1307,12 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134558,
-      "num": 134558,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1666961243,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 132561,
+      "num": 132561,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 131282,
@@ -1355,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124483,
+      "num": 124483,
+      "word": "长沙马拉松调整为线上赛",
+      "onboard_time": 1666961964,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "日剧silent",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1666959084,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115954,
+      "num": 115954,
+      "word": "赵睿受伤",
+      "onboard_time": 1666960824,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 110191,
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101242,
+      "num": 101242,
+      "word": "共情能力太强是缺点吗",
+      "onboard_time": 1666961483,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101024,
       "num": 101024,
       "word": "白鹿复古摩登风格大片",
@@ -1491,20 +1579,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99857,
+      "num": 99857,
+      "word": "严浩翔夏日运动会pb扫图",
+      "onboard_time": 1666958365,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99531,
       "num": 99531,
       "word": "王源说有点冷",
       "onboard_time": 1666954523,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99331,
-      "num": 99331,
-      "word": "赵睿受伤",
-      "onboard_time": 1666960824,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 97440,
@@ -1539,14 +1627,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 93258,
-      "num": 93258,
-      "word": "严浩翔夏日运动会pb扫图",
-      "onboard_time": 1666958365,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 92126,
       "num": 92126,
       "word": "李冰洁再夺冠",
@@ -1561,6 +1641,14 @@
       "onboard_time": 1666888579,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89443,
+      "num": 89443,
+      "word": "发扬延安精神和红旗渠精神",
+      "onboard_time": 1666963465,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 88938,
@@ -1579,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84636,
-      "num": 84636,
-      "word": "30岁了依然期待爱情",
-      "onboard_time": 1666960885,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 88362,
+      "num": 88362,
+      "word": "女子自称是天使吃饭不买单",
+      "onboard_time": 1666963045,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84014,
@@ -1609,14 +1697,6 @@
       "onboard_time": 1666954826,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82919,
-      "num": 80208,
-      "word": "共情能力太强是缺点吗",
-      "onboard_time": 1666961483,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 82037,
@@ -1904,6 +1984,14 @@
       "word": "哈尔滨疫情防控",
       "onboard_time": 1666867757,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34848,
+      "num": 257746,
+      "word": "76岁守岛人坚守赭岛48年",
+      "onboard_time": 1666962084,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

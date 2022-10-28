@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666961540164,
+  "endTime": 1666963576045,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1296917,
-      "num": 496316,
+      "num": 605050,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
       "rank": 3,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1267188,
-      "num": 496294,
+      "num": 599550,
       "word": "余生请多指教豆瓣开分6",
       "onboard_time": 1666960704,
       "rank": 4,
@@ -561,6 +561,14 @@
       "onboard_time": 1666592720,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 879678,
+      "num": 879678,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1666962267,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 878188,
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716919,
+      "num": 716919,
+      "word": "为什么删了喜欢很久的人",
+      "onboard_time": 1666960643,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 715687,
       "num": 715687,
       "word": "失散亲兄弟刚相认就牺牲在上甘岭",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1666949545,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 638254,
+      "num": 272066,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1666961243,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637424,
@@ -1467,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532351,
+      "num": 532351,
+      "word": "推特将于10月28日起退市",
+      "onboard_time": 1666959804,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 531326,
       "num": 211533,
       "word": "西宁疫情防控",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1666937005,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523593,
+      "num": 523593,
+      "word": "沈梦辰演王熙凤",
+      "onboard_time": 1666961004,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 523331,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1666671745,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518618,
+      "num": 284527,
+      "word": "肖战杨紫余生豆瓣6.0合理吗",
+      "onboard_time": 1666963347,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 516259,
@@ -2241,6 +2289,14 @@
       "onboard_time": 1666850062,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417885,
+      "num": 279698,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1666960584,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417493,
@@ -3643,14 +3699,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 279698,
-      "num": 279698,
-      "word": "广州海珠区疫情防控",
-      "onboard_time": 1666960584,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279467,
       "num": 260647,
       "word": "绝境之王C罗",
@@ -3737,14 +3785,6 @@
       "onboard_time": 1666749505,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273444,
-      "num": 273444,
-      "word": "沈梦辰演王熙凤",
-      "onboard_time": 1666961004,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 273328,
@@ -4107,14 +4147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246483,
-      "num": 246483,
-      "word": "推特将于10月28日起退市",
-      "onboard_time": 1666959804,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 245754,
       "num": 237261,
       "word": "西宁回应群众买菜难等问题",
@@ -4160,6 +4192,14 @@
       "word": "王一博街舞5整季高光回顾",
       "onboard_time": 1666848443,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243621,
+      "num": 243621,
+      "word": "中国好声音",
+      "onboard_time": 1666961004,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4323,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236047,
+      "num": 229325,
+      "word": "秦岚找U盘是在碾压观众智商吗",
+      "onboard_time": 1666961546,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235736,
       "num": 235736,
       "word": "世界杯时间",
@@ -4481,6 +4529,14 @@
       "onboard_time": 1666945583,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228334,
+      "num": 228334,
+      "word": "佩洛西丈夫在家中遇袭",
+      "onboard_time": 1666963405,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 227798,
@@ -4651,6 +4707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217974,
+      "num": 217974,
+      "word": "泰亦奈言互选",
+      "onboard_time": 1666963465,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217603,
       "num": 217603,
       "word": "觉醒年代入围飞天奖",
@@ -4747,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212477,
+      "num": 175144,
+      "word": "换乘恋爱2终选结果",
+      "onboard_time": 1666963284,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212218,
       "num": 129802,
       "word": "gidle新歌nxde一位",
@@ -4833,14 +4905,6 @@
       "onboard_time": 1666587866,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206959,
-      "num": 200075,
-      "word": "中国好声音",
-      "onboard_time": 1666961004,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 206497,
@@ -5435,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171661,
+      "num": 89028,
+      "word": "英雄联盟",
+      "onboard_time": 1666963524,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171553,
       "num": 117401,
       "word": "秦岚王子异二搭好抓马",
@@ -5473,14 +5545,6 @@
       "onboard_time": 1666623747,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170167,
-      "num": 170167,
-      "word": "为什么删了喜欢很久的人",
-      "onboard_time": 1666960643,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 168915,
@@ -6243,14 +6307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134558,
-      "num": 134558,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1666961243,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134436,
       "num": 29050,
       "word": "山东95岁老战士查体发现颈部有子弹",
@@ -6289,6 +6345,14 @@
       "onboard_time": 1666601362,
       "rank": 44,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 132561,
+      "num": 132561,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 132369,
@@ -6523,6 +6587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124483,
+      "num": 124483,
+      "word": "长沙马拉松调整为线上赛",
+      "onboard_time": 1666961964,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 124374,
       "num": 124374,
       "word": "软噗噗的大熊猫还会一字马",
@@ -6720,6 +6792,14 @@
       "word": "巴黎7比2海法马卡比",
       "onboard_time": 1666740260,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115954,
+      "num": 115954,
+      "word": "赵睿受伤",
+      "onboard_time": 1666960824,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -7155,6 +7235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 101242,
+      "num": 101242,
+      "word": "共情能力太强是缺点吗",
+      "onboard_time": 1666961483,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101024,
       "num": 101024,
       "word": "白鹿复古摩登风格大片",
@@ -7219,6 +7307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99857,
+      "num": 99857,
+      "word": "严浩翔夏日运动会pb扫图",
+      "onboard_time": 1666958365,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99724,
       "num": 99724,
       "word": "三部门联合开展艺考培训专项治理",
@@ -7257,14 +7353,6 @@
       "onboard_time": 1666712363,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 99331,
-      "num": 99331,
-      "word": "赵睿受伤",
-      "onboard_time": 1666960824,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 99287,
@@ -7419,14 +7507,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 93258,
-      "num": 93258,
-      "word": "严浩翔夏日运动会pb扫图",
-      "onboard_time": 1666958365,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93189,
       "num": 93189,
       "word": "研究揭示为啥成人心脏不能再生",
@@ -7531,6 +7611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89443,
+      "num": 89443,
+      "word": "发扬延安精神和红旗渠精神",
+      "onboard_time": 1666963465,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 89372,
       "num": 49445,
       "word": "程序员的各种皮肤",
@@ -7560,6 +7648,14 @@
       "word": "丈夫剃光头陪伴妻子做开颅手术",
       "onboard_time": 1666947626,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88362,
+      "num": 88362,
+      "word": "女子自称是天使吃饭不买单",
+      "onboard_time": 1666963045,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7667,14 +7763,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 84636,
-      "num": 84636,
-      "word": "30岁了依然期待爱情",
-      "onboard_time": 1666960885,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84201,
       "num": 84201,
       "word": "熊猫宝宝集体睡觉现场",
@@ -7729,14 +7817,6 @@
       "onboard_time": 1666688185,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82919,
-      "num": 80208,
-      "word": "共情能力太强是缺点吗",
-      "onboard_time": 1666961483,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 82862,
@@ -8881,6 +8961,14 @@
       "onboard_time": 1666739778,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34848,
+      "num": 257746,
+      "word": "76岁守岛人坚守赭岛48年",
+      "onboard_time": 1666962084,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34294,
