@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666978983207,
+  "endTime": 1666981758328,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -44977,6 +44977,14 @@
       "onboard_time": 1665213623,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22306,
+      "num": 22306,
+      "word": "美股六大科技巨头一夜蒸发2万亿",
+      "onboard_time": 1666980974,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 22109,
