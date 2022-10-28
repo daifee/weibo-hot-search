@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 16:50:59
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 17:24:45
 </p>
 </blockquote>
 <p>
@@ -1115,6 +1115,12 @@ C罗（热度：1447248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A1%A8%E6%83%85%23" target="weibo">
 樊振东表情（热度：1429962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%A5%A5%E6%81%B0%E6%B4%9B%E5%A4%AB%23" target="weibo">
+樊振东vs奥恰洛夫（热度：1424603）
 </a>
 </li>
 
@@ -4509,6 +4515,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%B8%E8%9B%8B%E5%A4%A9%E6%89%8D%E4%B8%8D%E6%98%AF%E8%AF%B4%E8%AF%B4%E8%80%8C%E5%B7%B2%23" target="weibo">
+脸蛋天才不是说说而已（热度：693797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%89%E7%B2%BDcp%23" target="weibo">
 肉粽cp（热度：693691）
 </a>
@@ -5577,12 +5589,6 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B8%E8%9B%8B%E5%A4%A9%E6%89%8D%E4%B8%8D%E6%98%AF%E8%AF%B4%E8%AF%B4%E8%80%8C%E5%B7%B2%23" target="weibo">
-脸蛋天才不是说说而已（热度：598629）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%23" target="weibo">
 关于十九届中央委员会报告的决议通过（热度：598546）
 </a>
@@ -6005,12 +6011,6 @@ mlxg评价RNG比赛（热度：576050）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E6%AF%9B%E5%B2%B8%E8%8B%B1%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0%E7%99%BE%E5%B9%B4%23" target="weibo">
 纪念毛岸英同志诞辰百年（热度：568603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TTG%23" target="weibo">
-TTG（热度：568457）
 </a>
 </li>
 

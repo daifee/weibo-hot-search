@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666947059516,
+  "endTime": 1666949085386,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -161,6 +161,14 @@
       "onboard_time": 1666792585,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1424603,
+      "num": 1424603,
+      "word": "樊振东vs奥恰洛夫",
+      "onboard_time": 1666946545,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1423537,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693797,
+      "num": 283973,
+      "word": "脸蛋天才不是说说而已",
+      "onboard_time": 1666942584,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 693691,
       "num": 389643,
       "word": "肉粽cp",
@@ -1123,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598629,
-      "num": 250702,
-      "word": "脸蛋天才不是说说而已",
-      "onboard_time": 1666942584,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 598254,
       "num": 367246,
       "word": "封宿舍多天女生用瑜伽垫做麻将",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1666933106,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546685,
+      "num": 266754,
+      "word": "PDD回应起诉RNG",
+      "onboard_time": 1666947143,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 545102,
@@ -1835,6 +1851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 452828,
+      "num": 260025,
+      "word": "殷勇任北京市副市长",
+      "onboard_time": 1666947564,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 450000,
       "num": 450000,
       "word": "马斯克任推特CEO",
@@ -2041,6 +2065,22 @@
       "onboard_time": 1666924223,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420986,
+      "num": 420986,
+      "word": "7旬夫妻为3岁女儿庆生",
+      "onboard_time": 1666945464,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420780,
+      "num": 420780,
+      "word": "樊振东2比3奥恰洛夫",
+      "onboard_time": 1666948226,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 420324,
@@ -2579,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363833,
+      "num": 241164,
+      "word": "美方的核讹诈吓不倒中国",
+      "onboard_time": 1666947326,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 362130,
       "num": 482661,
       "word": "华为因专利纠纷起诉亚马逊",
@@ -2923,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330159,
+      "num": 330159,
+      "word": "大学不谈恋爱真的会遗憾吗",
+      "onboard_time": 1666947024,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329887,
       "num": 329887,
       "word": "郁美净回应产品不合格",
@@ -3259,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293532,
-      "num": 293532,
-      "word": "樊振东vs奥恰洛夫",
-      "onboard_time": 1666946545,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293447,
       "num": 293447,
       "word": "Lisa舞台反应能力",
@@ -3352,6 +3400,14 @@
       "word": "五星红旗第一次在联合国升起画面",
       "onboard_time": 1666675043,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287721,
+      "num": 287721,
+      "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
+      "onboard_time": 1666946244,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4051,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237121,
+      "num": 226222,
+      "word": "应采儿晒陈小春披荆斩棘九宫格随拍",
+      "onboard_time": 1666944024,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237008,
       "num": 237008,
       "word": "女子用柚子皮自制精美茶罐",
@@ -4169,14 +4233,6 @@
       "onboard_time": 1666795228,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229926,
-      "num": 226222,
-      "word": "应采儿晒陈小春披荆斩棘九宫格随拍",
-      "onboard_time": 1666944024,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229838,
@@ -4353,6 +4409,14 @@
       "onboard_time": 1666621465,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219882,
+      "num": 206871,
+      "word": "刘亦菲婚纱造型拍摄路透",
+      "onboard_time": 1666948525,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218789,
@@ -4635,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202818,
+      "num": 202818,
+      "word": "樊振东状态",
+      "onboard_time": 1666949003,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202689,
       "num": 202689,
       "word": "该怎么在一段感情里减少内耗",
@@ -4785,6 +4857,14 @@
       "onboard_time": 1666705946,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193004,
+      "num": 193004,
+      "word": "金晨罗娜炽道婚纱造型",
+      "onboard_time": 1666946364,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 192417,
@@ -5291,6 +5371,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "马斯克或将解禁特朗普推特账户",
+      "onboard_time": 1666947444,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 162237,
       "num": 162237,
       "word": "如何看待在学校里公开谈性",
@@ -5313,6 +5401,14 @@
       "onboard_time": 1666791387,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "县委大院定档词条",
+      "onboard_time": 1666947503,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 160450,
@@ -5577,14 +5673,6 @@
       "onboard_time": 1666914320,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146218,
-      "num": 146218,
-      "word": "7旬夫妻为3岁女儿庆生",
-      "onboard_time": 1666945464,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145779,
@@ -6043,14 +6131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129789,
-      "num": 129789,
-      "word": "金晨罗娜炽道婚纱造型",
-      "onboard_time": 1666946364,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129486,
       "num": 129486,
       "word": "阜新一中介仨月售出158套房",
@@ -6097,6 +6177,14 @@
       "onboard_time": 1666668202,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127408,
+      "num": 127408,
+      "word": "伊藤美诚状态",
+      "onboard_time": 1666948645,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 127036,
@@ -6433,14 +6521,6 @@
       "onboard_time": 1666841484,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111253,
-      "num": 111253,
-      "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
-      "onboard_time": 1666946244,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111232,
@@ -6785,6 +6865,14 @@
       "onboard_time": 1666587983,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 101024,
+      "num": 101024,
+      "word": "白鹿复古摩登风格大片",
+      "onboard_time": 1666948284,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100990,
@@ -8027,6 +8115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 58247,
+      "num": 256321,
+      "word": "丈夫剃光头陪伴妻子做开颅手术",
+      "onboard_time": 1666947626,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58204,
       "num": 58204,
       "word": "罕见病女孩与疼痛的28年抗争",
@@ -8081,14 +8177,6 @@
       "onboard_time": 1666739237,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55704,
-      "num": 55704,
-      "word": "大学不谈恋爱真的会遗憾吗",
-      "onboard_time": 1666947024,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 54972,

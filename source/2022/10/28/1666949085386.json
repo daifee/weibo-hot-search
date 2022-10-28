@@ -1,0 +1,410 @@
+{
+  "runTime": 1666949085386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424603,
+        "num": 1424603,
+        "word": "樊振东vs奥恰洛夫",
+        "onboard_time": 1666946545,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613801,
+        "num": 613801,
+        "word": "手机充电进入个位数时代",
+        "onboard_time": 1666937903,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28008,
+        "num": 528791,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 507625,
+        "num": 507625,
+        "word": "男子中近800万彩票后瞒着妻子转移财产",
+        "onboard_time": 1666938743,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460369,
+        "num": 460369,
+        "word": "林孝埈即将代表中国短道队首秀",
+        "onboard_time": 1666943124,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420986,
+        "num": 420986,
+        "word": "7旬夫妻为3岁女儿庆生",
+        "onboard_time": 1666945464,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420780,
+        "num": 420780,
+        "word": "樊振东2比3奥恰洛夫",
+        "onboard_time": 1666948226,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330159,
+        "num": 330159,
+        "word": "大学不谈恋爱真的会遗憾吗",
+        "onboard_time": 1666947024,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325355,
+        "num": 325355,
+        "word": "王曼昱3比0伊藤美诚",
+        "onboard_time": 1666945403,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287721,
+        "num": 287721,
+        "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
+        "onboard_time": 1666946244,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693797,
+        "num": 283973,
+        "word": "脸蛋天才不是说说而已",
+        "onboard_time": 1666942584,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 619195,
+        "num": 274257,
+        "word": "轩轩竟然长这么大了",
+        "onboard_time": 1666940903,
+        "rank": 11,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 546685,
+        "num": 266754,
+        "word": "PDD回应起诉RNG",
+        "onboard_time": 1666947143,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 452828,
+        "num": 260025,
+        "word": "殷勇任北京市副市长",
+        "onboard_time": 1666947564,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58247,
+        "num": 256321,
+        "word": "丈夫剃光头陪伴妻子做开颅手术",
+        "onboard_time": 1666947626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397966,
+        "num": 245192,
+        "word": "女大学生遭坠楼男子砸中截瘫",
+        "onboard_time": 1666922364,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363833,
+        "num": 241164,
+        "word": "美方的核讹诈吓不倒中国",
+        "onboard_time": 1666947326,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 236301,
+        "num": 236301,
+        "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+        "onboard_time": 1666933106,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219475,
+        "num": 219475,
+        "word": "邓刚手杆钓100斤石斑鱼",
+        "onboard_time": 1666941924,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 209439,
+        "num": 209439,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1666945464,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237121,
+        "num": 208432,
+        "word": "应采儿晒陈小春披荆斩棘九宫格随拍",
+        "onboard_time": 1666944024,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219882,
+        "num": 206871,
+        "word": "刘亦菲婚纱造型拍摄路透",
+        "onboard_time": 1666948525,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202818,
+        "num": 202818,
+        "word": "樊振东状态",
+        "onboard_time": 1666949003,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202789,
+        "num": 202789,
+        "word": "杨幂谢谢你医生骑摩托车路透",
+        "onboard_time": 1666941262,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194109,
+        "num": 194109,
+        "word": "BLACKPINK世巡演唱会亚洲场次",
+        "onboard_time": 1666941445,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194009,
+        "num": 194009,
+        "word": "英雄联盟S12",
+        "onboard_time": 1666937903,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193004,
+        "num": 193004,
+        "word": "金晨罗娜炽道婚纱造型",
+        "onboard_time": 1666946364,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "李诞解开了我对友谊的困惑",
+        "onboard_time": 1666934545,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "iPhone14Pro双十一首次优惠",
+        "onboard_time": 1666927703,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166044,
+        "num": 166044,
+        "word": "赠台大熊猫团团病情加重",
+        "onboard_time": 1666941445,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162676,
+        "num": 162676,
+        "word": "马斯克或将解禁特朗普推特账户",
+        "onboard_time": 1666947444,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162545,
+        "num": 162545,
+        "word": "换乘恋爱2大结局推迟播出",
+        "onboard_time": 1666943304,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161228,
+        "num": 161228,
+        "word": "县委大院定档词条",
+        "onboard_time": 1666947503,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140876,
+        "num": 140876,
+        "word": "爸爸3年鼓励助儿子成功逆袭",
+        "onboard_time": 1666943723,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129724,
+        "num": 129724,
+        "word": "驻呼高校学生将分流返乡",
+        "onboard_time": 1666938084,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 129694,
+        "num": 129694,
+        "word": "张云龙说参加披荆斩棘没有遗憾",
+        "onboard_time": 1666945583,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127408,
+        "num": 127408,
+        "word": "伊藤美诚状态",
+        "onboard_time": 1666948645,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124063,
+        "num": 124063,
+        "word": "王一博街舞5得奖敬礼",
+        "onboard_time": 1666936524,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 122077,
+        "word": "男子嫌消防出警太吵六楼扔饮料瓶",
+        "onboard_time": 1666934123,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121921,
+        "num": 121921,
+        "word": "再见爱人2夫妻嘉宾",
+        "onboard_time": 1666940124,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120714,
+        "num": 120714,
+        "word": "青岛教资",
+        "onboard_time": 1666924283,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109642,
+        "num": 109642,
+        "word": "工人掉入地下室消防砸地救人",
+        "onboard_time": 1666944083,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104480,
+        "num": 104480,
+        "word": "马斯克开除推特CEO和CFO",
+        "onboard_time": 1666922963,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 101024,
+        "num": 101024,
+        "word": "白鹿复古摩登风格大片",
+        "onboard_time": 1666948284,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98581,
+        "num": 98581,
+        "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+        "onboard_time": 1666931005,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96167,
+        "num": 96167,
+        "word": "店主大姐一声声宝贝安慰走失幼童",
+        "onboard_time": 1666940543,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95458,
+        "num": 95458,
+        "word": "男子为救白血病儿子一天打两份工",
+        "onboard_time": 1666936765,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94354,
+        "num": 94354,
+        "word": "世界杯时间",
+        "onboard_time": 1666940963,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92563,
+        "num": 92563,
+        "word": "保安大叔资助学生17年谎称自己很富",
+        "onboard_time": 1666940784,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84664,
+        "num": 84664,
+        "word": "5岁男孩看店1小时卖100多元香肠",
+        "onboard_time": 1666928125,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬伟大建党精神和延安精神#"
+    }
+  }
+}
