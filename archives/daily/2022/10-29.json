@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666988779178,
+  "endTime": 1666989702566,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71365,
+      "num": 26443,
+      "word": "小伙网恋1年女友竟留络腮胡似李逵",
+      "onboard_time": 1666984931,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71283,
       "num": 71283,
       "word": "古人夏天用的冰块是哪来的",
@@ -377,14 +385,6 @@
       "onboard_time": 1666965867,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 67551,
-      "num": 26443,
-      "word": "小伙网恋1年女友竟留络腮胡似李逵",
-      "onboard_time": 1666984931,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67150,
@@ -451,8 +451,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13521,
-      "num": 13521,
+      "raw_hot": 15963,
+      "num": 15963,
       "word": "段宇成求婚罗娜成功",
       "onboard_time": 1666986491,
       "rank": 37,
