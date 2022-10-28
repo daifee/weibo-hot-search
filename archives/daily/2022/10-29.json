@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666999632981,
+  "endTime": 1667000563364,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 574987,
-      "num": 574987,
+      "raw_hot": 590187,
+      "num": 590187,
       "word": "奶奶被喂嚼过方便面魔性拒绝",
       "onboard_time": 1666973007,
       "rank": 18,
@@ -49,6 +49,14 @@
       "onboard_time": 1666958124,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410145,
+      "num": 410145,
+      "word": "小伙网恋1年女友竟留络腮胡似李逵",
+      "onboard_time": 1666984931,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381011,
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326379,
-      "num": 326379,
-      "word": "小伙网恋1年女友竟留络腮胡似李逵",
-      "onboard_time": 1666984931,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293717,
       "num": 293717,
       "word": "英语129分男生课上读出蹩脚英文",
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265518,
+      "num": 181190,
+      "word": "普京称特拉斯脑子不太正常",
+      "onboard_time": 1666974802,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261102,
       "num": 261102,
       "word": "肖战杨紫余生豆瓣6.0合理吗",
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231653,
+      "num": 231653,
+      "word": "老公天天做美食女子13天胖10斤",
+      "onboard_time": 1666968566,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210856,
       "num": 210856,
       "word": "中国好声音",
       "onboard_time": 1666961004,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210331,
-      "num": 143501,
-      "word": "普京称特拉斯脑子不太正常",
-      "onboard_time": 1666974802,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204416,
@@ -163,11 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201432,
-      "num": 201432,
-      "word": "老公天天做美食女子13天胖10斤",
-      "onboard_time": 1666968566,
-      "rank": 22,
+      "raw_hot": 202276,
+      "num": 202276,
+      "word": "新生宝宝被夸一脸正气抬手敬礼",
+      "onboard_time": 1666991891,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -195,12 +203,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182296,
-      "num": 141636,
-      "word": "新生宝宝被夸一脸正气抬手敬礼",
-      "onboard_time": 1666991891,
-      "rank": 49,
+      "raw_hot": 180807,
+      "num": 180807,
+      "word": "金华一老人幼儿园接错娃",
+      "onboard_time": 1666998316,
+      "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176871,
+      "num": 176871,
+      "word": "国考河南23个岗位仍无人报考",
+      "onboard_time": 1666956743,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 168446,
+      "num": 168446,
+      "word": "美股六大科技巨头一夜蒸发2万亿",
+      "onboard_time": 1666980974,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 168394,
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166211,
+      "num": 166211,
+      "word": "李文龙",
+      "onboard_time": 1666999636,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164447,
       "num": 164447,
       "word": "沈梦辰演王熙凤",
@@ -219,28 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "教资",
+      "onboard_time": 1667000360,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 149186,
       "num": 149186,
       "word": "广州海珠区疫情防控",
       "onboard_time": 1666960584,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147711,
-      "num": 147711,
-      "word": "国考河南23个岗位仍无人报考",
-      "onboard_time": 1666956743,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 139022,
-      "num": 139022,
-      "word": "美股六大科技巨头一夜蒸发2万亿",
-      "onboard_time": 1666980974,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 132273,
@@ -257,6 +281,14 @@
       "onboard_time": 1666968087,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127871,
+      "num": 127871,
+      "word": "王一博这就是街舞5总决赛彩排照",
+      "onboard_time": 1666994290,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125606,
@@ -281,14 +313,6 @@
       "onboard_time": 1666953324,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112641,
-      "num": 101513,
-      "word": "王一博这就是街舞5总决赛彩排照",
-      "onboard_time": 1666994290,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109867,
@@ -363,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87955,
+      "num": 87955,
+      "word": "王者荣耀",
+      "onboard_time": 1666998916,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83237,
       "num": 83237,
       "word": "马嘉祺我们的歌4海报花絮视频",
@@ -385,14 +417,6 @@
       "onboard_time": 1666960704,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 76218,
-      "num": 76218,
-      "word": "金华一老人幼儿园接错娃",
-      "onboard_time": 1666998316,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71283,
@@ -427,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69195,
+      "num": 69195,
+      "word": "段宇成求婚罗娜成功",
+      "onboard_time": 1666986491,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67150,
       "num": 67150,
       "word": "王栎鑫又吐了",
@@ -435,16 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63494,
-      "num": 63494,
-      "word": "段宇成求婚罗娜成功",
-      "onboard_time": 1666986491,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 62876,
-      "num": 62876,
+      "raw_hot": 66812,
+      "num": 66812,
       "word": "社恐为了逃避聚会能有多努力",
       "onboard_time": 1666989791,
       "rank": 36,
@@ -465,14 +489,6 @@
       "onboard_time": 1666975160,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43423,
-      "num": 43423,
-      "word": "王者荣耀",
-      "onboard_time": 1666998916,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 42714,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 07:27:12
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 07:42:43
 </p>
 </blockquote>
 <p>
@@ -5817,6 +5817,12 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%A2%AB%E5%96%82%E5%9A%BC%E8%BF%87%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%AD%94%E6%80%A7%E6%8B%92%E7%BB%9D%23" target="weibo">
+奶奶被喂嚼过方便面魔性拒绝（热度：590187）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%A1%E9%9D%A2%E5%92%8C%E7%95%AA%E8%8C%84%E8%BF%99%E4%B9%88%E9%85%8D%23" target="weibo">
 原来泡面和番茄这么配（热度：590175）
 </a>
@@ -6005,12 +6011,6 @@ iPhone全部支持电量百分比（热度：587820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SK%23" target="weibo">
 SK（热度：578344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%89%B9%E5%87%86%E5%BC%BA%E5%88%B6%E8%8B%B9%E6%9E%9C%E4%BD%BF%E7%94%A8USB%20C%E6%8E%A5%E5%8F%A3%23" target="weibo">
-欧盟批准强制苹果使用USB C接口（热度：577887）
 </a>
 </li>
 
