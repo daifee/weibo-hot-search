@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666985647610,
+  "endTime": 1666988779178,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67551,
+      "num": 26443,
+      "word": "小伙网恋1年女友竟留络腮胡似李逵",
+      "onboard_time": 1666984931,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67150,
       "num": 67150,
       "word": "王栎鑫又吐了",
@@ -443,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11832,
-      "num": 11832,
-      "word": "小伙网恋1年女友竟留络腮胡似李逵",
-      "onboard_time": 1666984931,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 13521,
+      "num": 13521,
+      "word": "段宇成求婚罗娜成功",
+      "onboard_time": 1666986491,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 8595,
+      "num": 9494,
+      "word": "狙击手的伪装术有多厉害",
+      "onboard_time": 1666988350,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 6717,
