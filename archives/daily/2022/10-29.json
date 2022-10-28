@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666974677560,
+  "endTime": 1666976105460,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383578,
+      "num": 208796,
+      "word": "奶奶被喂嚼过方便面魔性拒绝",
+      "onboard_time": 1666973007,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381011,
       "num": 164350,
       "word": "内蒙古工业大学回应",
@@ -65,6 +73,14 @@
       "onboard_time": 1666963405,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 311436,
+      "num": 206375,
+      "word": "海恩贤圭情侣照",
+      "onboard_time": 1666975879,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 293717,
@@ -152,14 +168,6 @@
       "word": "7000年前的首富竟靠吃猪肉排名",
       "onboard_time": 1666969105,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171342,
-      "num": 171342,
-      "word": "奶奶被喂嚼过方便面魔性拒绝",
-      "onboard_time": 1666973007,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -275,12 +283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90345,
-      "num": 90345,
+      "raw_hot": 91876,
+      "num": 91876,
       "word": "艾欧尼亚",
       "onboard_time": 1666965446,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91409,
+      "num": 91409,
+      "word": "直20干出了中国人自己的争气机",
+      "onboard_time": 1666972465,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 89427,
@@ -315,12 +331,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 80258,
-      "num": 80258,
-      "word": "直20干出了中国人自己的争气机",
-      "onboard_time": 1666972465,
-      "rank": 40,
-      "category": "军事"
+      "raw_hot": 79427,
+      "num": 79427,
+      "word": "普京称特拉斯脑子不太正常",
+      "onboard_time": 1666974802,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78890,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52013,
+      "num": 52013,
+      "word": "那英在上一种很新的菜",
+      "onboard_time": 1666975160,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42714,
       "num": 61108,
       "word": "王楚钦vs莫雷加德",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#向着新的奋斗目标出发#"
+    },
+    {
+      "word": "#弘扬伟大建党精神和延安精神#"
     }
   ]
 }
