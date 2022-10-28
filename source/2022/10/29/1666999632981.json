@@ -1,0 +1,410 @@
+{
+  "runTime": 1666999632981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 802706,
+        "num": 802706,
+        "word": "林孝埈",
+        "onboard_time": 1666963884,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574987,
+        "num": 574987,
+        "word": "奶奶被喂嚼过方便面魔性拒绝",
+        "onboard_time": 1666973007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4401,
+        "num": 520595,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 502522,
+        "num": 502522,
+        "word": "武汉本轮毒株平均1人传染18人",
+        "onboard_time": 1666966045,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326379,
+        "num": 326379,
+        "word": "小伙网恋1年女友竟留络腮胡似李逵",
+        "onboard_time": 1666984931,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223061,
+        "num": 223061,
+        "word": "佩洛西丈夫在家中遇袭",
+        "onboard_time": 1666963405,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206500,
+        "num": 206500,
+        "word": "台北故宫3件文物破损照曝光",
+        "onboard_time": 1666967548,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201432,
+        "num": 201432,
+        "word": "老公天天做美食女子13天胖10斤",
+        "onboard_time": 1666968566,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151828,
+        "num": 151828,
+        "word": "女生上课用手机举弹幕求上厕所",
+        "onboard_time": 1666971206,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 147711,
+        "word": "国考河南23个岗位仍无人报考",
+        "onboard_time": 1666956743,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210331,
+        "num": 143501,
+        "word": "普京称特拉斯脑子不太正常",
+        "onboard_time": 1666974802,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193933,
+        "num": 141939,
+        "word": "肖战杨紫余生豆瓣6.0合理吗",
+        "onboard_time": 1666963347,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182296,
+        "num": 141636,
+        "word": "新生宝宝被夸一脸正气抬手敬礼",
+        "onboard_time": 1666991891,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139022,
+        "num": 139022,
+        "word": "美股六大科技巨头一夜蒸发2万亿",
+        "onboard_time": 1666980974,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120156,
+        "num": 120156,
+        "word": "女子自称是天使吃饭不买单",
+        "onboard_time": 1666963045,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119628,
+        "num": 119628,
+        "word": "沈梦辰演王熙凤",
+        "onboard_time": 1666961004,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119546,
+        "num": 119546,
+        "word": "梁静茹发文告别中国好声音",
+        "onboard_time": 1666971086,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111998,
+        "num": 111998,
+        "word": "英语129分男生课上读出蹩脚英文",
+        "onboard_time": 1666965506,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 107624,
+        "num": 107624,
+        "word": "短道速滑",
+        "onboard_time": 1666963587,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102460,
+        "num": 102460,
+        "word": "法证先锋5好敢拍",
+        "onboard_time": 1666953324,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150237,
+        "num": 102423,
+        "word": "内蒙古工业大学回应",
+        "onboard_time": 1666959144,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112641,
+        "num": 101513,
+        "word": "王一博这就是街舞5总决赛彩排照",
+        "onboard_time": 1666994290,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104841,
+        "num": 100156,
+        "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+        "onboard_time": 1666965267,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98371,
+        "num": 98371,
+        "word": "贪便宜买了个电动牙刷",
+        "onboard_time": 1666968448,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85511,
+        "num": 85511,
+        "word": "中国好声音",
+        "onboard_time": 1666961004,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82842,
+        "num": 82842,
+        "word": "为什么删了喜欢很久的人",
+        "onboard_time": 1666960643,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81240,
+        "num": 81240,
+        "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
+        "onboard_time": 1666966226,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76218,
+        "num": 76218,
+        "word": "金华一老人幼儿园接错娃",
+        "onboard_time": 1666998316,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73331,
+        "num": 73331,
+        "word": "7000年前的首富竟靠吃猪肉排名",
+        "onboard_time": 1666969105,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70232,
+        "num": 70232,
+        "word": "余生请多指教豆瓣开分6",
+        "onboard_time": 1666960704,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123141,
+        "num": 69587,
+        "word": "应采儿集齐了9个陈小春",
+        "onboard_time": 1666999458,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68778,
+        "num": 68778,
+        "word": "北京平谷发现2例感染者",
+        "onboard_time": 1666969948,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67243,
+        "num": 67243,
+        "word": "海恩贤圭情侣照",
+        "onboard_time": 1666975879,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63494,
+        "num": 63494,
+        "word": "段宇成求婚罗娜成功",
+        "onboard_time": 1666986491,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62876,
+        "num": 62876,
+        "word": "社恐为了逃避聚会能有多努力",
+        "onboard_time": 1666989791,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58618,
+        "num": 58618,
+        "word": "推特将于10月28日起退市",
+        "onboard_time": 1666959804,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 56626,
+        "num": 56626,
+        "word": "中国空间站的植物都长这么大了",
+        "onboard_time": 1666971327,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 55168,
+        "num": 55168,
+        "word": "北京密云发现两本土感染者",
+        "onboard_time": 1666969826,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51044,
+        "num": 51044,
+        "word": "7旬夫妻为3岁女儿庆生",
+        "onboard_time": 1666945464,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50526,
+        "num": 50526,
+        "word": "直20干出了中国人自己的争气机",
+        "onboard_time": 1666972465,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 48516,
+        "num": 48516,
+        "word": "古人夏天用的冰块是哪来的",
+        "onboard_time": 1666965446,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46079,
+        "num": 46079,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1666961243,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44252,
+        "num": 44252,
+        "word": "看过后劲最大的剧",
+        "onboard_time": 1666949545,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44123,
+        "num": 44123,
+        "word": "长沙马拉松调整为线上赛",
+        "onboard_time": 1666961964,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 43991,
+        "num": 43991,
+        "word": "原来有个饭搭子这么幸福",
+        "onboard_time": 1666968087,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43818,
+        "num": 43818,
+        "word": "英雄联盟",
+        "onboard_time": 1666963524,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43499,
+        "num": 43499,
+        "word": "自律小狗是怎么看电视的",
+        "onboard_time": 1666967188,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43423,
+        "num": 43423,
+        "word": "王者荣耀",
+        "onboard_time": 1666998916,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40998,
+        "num": 40998,
+        "word": "秦岚给蓝盈莹郑合惠子科普挖野菜梗",
+        "onboard_time": 1666965867,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38031,
+        "num": 38031,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1666960584,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从历史中汲取智慧和力量#"
+    }
+  }
+}
