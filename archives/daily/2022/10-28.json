@@ -1,18 +1,18 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666929931205,
+  "endTime": 1666931120283,
   "band_list": [
     {
       "raw_hot": 2003909,
-      "num": 501339,
+      "num": 502410,
       "word": "女大学生遭坠楼男子砸中截瘫",
       "onboard_time": 1666922364,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 963958,
-      "num": 963958,
+      "raw_hot": 1020629,
+      "num": 1020629,
       "word": "陈吉宁任上海市委书记",
       "onboard_time": 1666926564,
       "rank": 0,
@@ -59,19 +59,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766566,
+      "num": 499033,
+      "word": "iPhone14Pro双十一首次优惠",
+      "onboard_time": 1666927703,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 751055,
       "num": 495619,
       "word": "马斯克开除推特CEO和CFO",
       "onboard_time": 1666922963,
       "rank": 25,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 747592,
-      "num": 499033,
-      "word": "iPhone14Pro双十一首次优惠",
-      "onboard_time": 1666927703,
-      "rank": 4,
       "category": "科技"
     },
     {
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 663491,
-      "num": 192292,
+      "num": 204694,
       "word": "迪丽热巴撑伞的酷飒瞬间",
       "onboard_time": 1666923625,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 659477,
+      "num": 659477,
+      "word": "5岁男孩看店1小时卖100多元香肠",
+      "onboard_time": 1666928125,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637088,
@@ -139,6 +147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457877,
+      "num": 457877,
+      "word": "为什么00后更愿意为兴趣买单",
+      "onboard_time": 1666926384,
+      "rank": 8,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 450000,
       "num": 450000,
       "word": "马斯克任推特CEO",
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 421046,
-      "num": 167753,
+      "num": 204912,
       "word": "白鹿奔跑吧特别季出发路透",
       "onboard_time": 1666924223,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 406017,
-      "num": 406017,
-      "word": "为什么00后更愿意为兴趣买单",
-      "onboard_time": 1666926384,
-      "rank": 8,
-      "category": "社会议题"
     },
     {
       "raw_hot": 404294,
@@ -185,14 +193,6 @@
       "onboard_time": 1666922422,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378964,
-      "num": 353588,
-      "word": "5岁男孩看店1小时卖100多元香肠",
-      "onboard_time": 1666928125,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369809,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334579,
+      "num": 334579,
+      "word": "这就是公主的造型师吧",
+      "onboard_time": 1666926443,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 331451,
       "num": 331451,
       "word": "马斯克完成推特私有化交易",
@@ -233,14 +241,6 @@
       "onboard_time": 1666875206,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320530,
-      "num": 320530,
-      "word": "这就是公主的造型师吧",
-      "onboard_time": 1666926443,
-      "rank": 12,
-      "category": "时尚"
     },
     {
       "raw_hot": 316492,
@@ -315,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257551,
+      "num": 257551,
+      "word": "rihanna新歌封面",
+      "onboard_time": 1666922484,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256808,
       "num": 256808,
       "word": "爸爸给33周胎儿唱歌被一脚踢开",
@@ -355,6 +363,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213843,
+      "num": 213843,
+      "word": "王俊凯万里归途英语喊话名场面",
+      "onboard_time": 1666930284,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205206,
+      "num": 205206,
+      "word": "彭冠英预告里摸了蔡文静9次头",
+      "onboard_time": 1666927343,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204358,
+      "num": 204358,
+      "word": "我们的滚烫人生2定档",
+      "onboard_time": 1666931005,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202242,
       "num": 202242,
       "word": "LPL解说预测S12半决赛",
@@ -377,6 +409,14 @@
       "onboard_time": 1666868365,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 191931,
+      "num": 191931,
+      "word": "常上夜班的人怎么提高睡眠质量",
+      "onboard_time": 1666926264,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188945,
@@ -411,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177345,
+      "num": 177345,
+      "word": "原来真的有追星星的人",
+      "onboard_time": 1666929564,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169105,
       "num": 169105,
       "word": "林俊杰jj20世界巡回演唱会启动",
       "onboard_time": 1666885044,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 168629,
-      "num": 162851,
-      "word": "彭冠英预告里摸了蔡文静9次头",
-      "onboard_time": 1666927343,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 167813,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155463,
+      "num": 155463,
+      "word": "吴克群说误解是人生的常态",
+      "onboard_time": 1666927464,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154152,
       "num": 154152,
       "word": "你会谈没结果的恋爱吗",
@@ -515,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153466,
-      "num": 153466,
-      "word": "吴克群说误解是人生的常态",
-      "onboard_time": 1666927464,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149858,
       "num": 149858,
       "word": "日方不得插手台湾问题",
       "onboard_time": 1666879646,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 148780,
-      "num": 148780,
-      "word": "常上夜班的人怎么提高睡眠质量",
-      "onboard_time": 1666926264,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146712,
@@ -579,8 +611,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122461,
-      "num": 122461,
+      "raw_hot": 126601,
+      "num": 126601,
       "word": "法证先锋5出场无路人",
       "onboard_time": 1666927524,
       "rank": 33,
@@ -593,14 +625,6 @@
       "onboard_time": 1666913777,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115551,
-      "num": 115551,
-      "word": "rihanna新歌封面",
-      "onboard_time": 1666922484,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 110150,
@@ -617,6 +641,14 @@
       "onboard_time": 1666923443,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106786,
+      "num": 106786,
+      "word": "女明星公主切造型大赏",
+      "onboard_time": 1666930106,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105844,
@@ -641,6 +673,14 @@
       "onboard_time": 1666913239,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97919,
+      "num": 109831,
+      "word": "打鼾是一种隐形暴力",
+      "onboard_time": 1666929623,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97440,
@@ -681,14 +721,6 @@
       "onboard_time": 1666876585,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85521,
-      "num": 85521,
-      "word": "原来真的有追星星的人",
-      "onboard_time": 1666929564,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 84014,
@@ -737,6 +769,14 @@
       "onboard_time": 1666887203,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77545,
+      "num": 77545,
+      "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+      "onboard_time": 1666931005,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75311,
@@ -915,11 +955,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 15694,
-      "num": 86226,
-      "word": "打鼾是一种隐形暴力",
-      "onboard_time": 1666929623,
-      "rank": 39,
+      "raw_hot": 29157,
+      "num": 254099,
+      "word": "女村干部倒挂15米深井救出孩子",
+      "onboard_time": 1666930526,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

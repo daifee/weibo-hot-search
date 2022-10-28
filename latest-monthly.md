@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 12:05:31
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 12:25:20
 </p>
 </blockquote>
 <p>
@@ -2247,6 +2247,12 @@ iPhone不送充电器被巴西罚款1.4亿（热度：1033845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
+陈吉宁任上海市委书记（热度：1020629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%82%B1%E5%85%9A%23" target="weibo">
 王楚钦vs邱党（热度：1019741）
 </a>
@@ -2519,12 +2525,6 @@ Doinb（热度：969672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E9%87%9C%E6%97%A5%E7%94%B5%E5%BD%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
 汤唯釜日电影奖最佳女主角（热度：964653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
-陈吉宁任上海市委书记（热度：963958）
 </a>
 </li>
 
@@ -3711,6 +3711,12 @@ Mark哭了（热度：767302）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%AC%A1%E4%BC%98%E6%83%A0%23" target="weibo">
+iPhone14Pro双十一首次优惠（热度：766566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E4%BB%A5%E9%9D%99%E9%BB%98%E4%BB%A3%E6%9B%BF%E7%AE%A1%E6%8E%A7%23" target="weibo">
 不能以静默代替管控（热度：766388）
 </a>
@@ -3875,12 +3881,6 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E8%88%9E%E8%B9%88%E5%AE%B6%E7%8E%8B%E8%BF%AA%E5%8E%BB%E4%B8%96%23" target="weibo">
 青年舞蹈家王迪去世（热度：747884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%AC%A1%E4%BC%98%E6%83%A0%23" target="weibo">
-iPhone14Pro双十一首次优惠（热度：747592）
 </a>
 </li>
 
@@ -4823,6 +4823,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%E8%BD%A6%E5%86%85%E7%89%B5%E6%89%8B%23" target="weibo">
 海恩贤圭车内牵手（热度：659616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9C%8B%E5%BA%971%E5%B0%8F%E6%97%B6%E5%8D%96100%E5%A4%9A%E5%85%83%E9%A6%99%E8%82%A0%23" target="weibo">
+5岁男孩看店1小时卖100多元香肠（热度：659477）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TTG（热度：568457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%9C%E5%8C%97%E4%B8%8A%E5%AD%A6%E5%96%9C%E6%8F%90%E9%93%81%E9%94%85%E7%82%96%E7%89%88%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%23" target="weibo">
 女生东北上学喜提铁锅炖版生日蛋糕（热度：565407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%85%AC%E9%A2%86%E5%B7%A5%E8%B5%84%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%85%A8%E5%A1%9E%E7%BB%99%E5%84%BF%E5%AA%B3%23" target="weibo">
-公公领工资第一时间全塞给儿媳（热度：565327）
 </a>
 </li>
 

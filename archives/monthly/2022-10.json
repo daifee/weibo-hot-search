@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666929931205,
+  "endTime": 1666931120283,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 2003909,
-      "num": 501339,
+      "num": 502410,
       "word": "女大学生遭坠楼男子砸中截瘫",
       "onboard_time": 1666922364,
       "rank": 11,
@@ -2979,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020629,
+      "num": 1020629,
+      "word": "陈吉宁任上海市委书记",
+      "onboard_time": 1666926564,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1019741,
       "num": 1019741,
       "word": "王楚钦vs邱党",
@@ -3345,14 +3353,6 @@
       "onboard_time": 1665053783,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 963958,
-      "num": 963958,
-      "word": "陈吉宁任上海市委书记",
-      "onboard_time": 1666926564,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 963062,
@@ -4931,6 +4931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 766566,
+      "num": 499033,
+      "word": "iPhone14Pro双十一首次优惠",
+      "onboard_time": 1666927703,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 766388,
       "num": 379240,
       "word": "不能以静默代替管控",
@@ -5153,14 +5161,6 @@
       "onboard_time": 1666317203,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 747592,
-      "num": 499033,
-      "word": "iPhone14Pro双十一首次优惠",
-      "onboard_time": 1666927703,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 747025,
@@ -6324,7 +6324,7 @@
     },
     {
       "raw_hot": 663491,
-      "num": 192292,
+      "num": 204694,
       "word": "迪丽热巴撑伞的酷飒瞬间",
       "onboard_time": 1666923625,
       "rank": 20,
@@ -6417,6 +6417,14 @@
       "onboard_time": 1665748162,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659477,
+      "num": 659477,
+      "word": "5岁男孩看店1小时卖100多元香肠",
+      "onboard_time": 1666928125,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658735,
@@ -10811,6 +10819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457877,
+      "num": 457877,
+      "word": "为什么00后更愿意为兴趣买单",
+      "onboard_time": 1666926384,
+      "rank": 8,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 457372,
       "num": 394203,
       "word": "云南大学生校内如厕偶遇孔雀学长",
@@ -12076,7 +12092,7 @@
     },
     {
       "raw_hot": 421046,
-      "num": 167753,
+      "num": 204912,
       "word": "白鹿奔跑吧特别季出发路透",
       "onboard_time": 1666924223,
       "rank": 21,
@@ -12665,14 +12681,6 @@
       "onboard_time": 1665584487,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406017,
-      "num": 406017,
-      "word": "为什么00后更愿意为兴趣买单",
-      "onboard_time": 1666926384,
-      "rank": 8,
-      "category": "社会议题"
     },
     {
       "raw_hot": 405975,
@@ -13879,14 +13887,6 @@
       "num": 379292,
       "word": "狗子去邻家蹭饭还把人家桌子掀了",
       "onboard_time": 1665538166,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378964,
-      "num": 353588,
-      "word": "5岁男孩看店1小时卖100多元香肠",
-      "onboard_time": 1666928125,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -15843,6 +15843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334579,
+      "num": 334579,
+      "word": "这就是公主的造型师吧",
+      "onboard_time": 1666926443,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 334354,
       "num": 334354,
       "word": "刘恺威发博告别披荆斩棘",
@@ -16489,14 +16497,6 @@
       "onboard_time": 1664774002,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 320530,
-      "num": 320530,
-      "word": "这就是公主的造型师吧",
-      "onboard_time": 1666926443,
-      "rank": 12,
-      "category": "时尚"
     },
     {
       "raw_hot": 320438,
@@ -20307,6 +20307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257551,
+      "num": 257551,
+      "word": "rihanna新歌封面",
+      "onboard_time": 1666922484,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257445,
       "num": 257445,
       "word": "2男孩公交车上打闹被司机厉声制止",
@@ -24027,6 +24035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213843,
+      "num": 213843,
+      "word": "王俊凯万里归途英语喊话名场面",
+      "onboard_time": 1666930284,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213695,
       "num": 213695,
       "word": "芳心荡漾今日开播",
@@ -24771,6 +24787,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 205206,
+      "num": 205206,
+      "word": "彭冠英预告里摸了蔡文静9次头",
+      "onboard_time": 1666927343,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205015,
       "num": 205015,
       "word": "林高远2比3波尔",
@@ -24808,6 +24832,14 @@
       "word": "王一博的疑问三连",
       "onboard_time": 1665814521,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204358,
+      "num": 204358,
+      "word": "我们的滚烫人生2定档",
+      "onboard_time": 1666931005,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -26041,6 +26073,14 @@
       "onboard_time": 1665832164,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 191931,
+      "num": 191931,
+      "word": "常上夜班的人怎么提高睡眠质量",
+      "onboard_time": 1666926264,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191908,
@@ -27499,6 +27539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177345,
+      "num": 177345,
+      "word": "原来真的有追星星的人",
+      "onboard_time": 1666929564,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177340,
       "num": 201661,
       "word": "蹲久后站起头晕或是中风先兆",
@@ -28329,14 +28377,6 @@
       "onboard_time": 1665155668,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168629,
-      "num": 162851,
-      "word": "彭冠英预告里摸了蔡文静9次头",
-      "onboard_time": 1666927343,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 168518,
@@ -29627,6 +29667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155463,
+      "num": 155463,
+      "word": "吴克群说误解是人生的常态",
+      "onboard_time": 1666927464,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155397,
       "num": 155397,
       "word": "男子为采摘石榴差点飞出房顶",
@@ -29833,14 +29881,6 @@
       "onboard_time": 1666000824,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153466,
-      "num": 153466,
-      "word": "吴克群说误解是人生的常态",
-      "onboard_time": 1666927464,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 153414,
@@ -30353,14 +30393,6 @@
       "onboard_time": 1666441763,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 148780,
-      "num": 148780,
-      "word": "常上夜班的人怎么提高睡眠质量",
-      "onboard_time": 1666926264,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148590,
@@ -33003,6 +33035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126601,
+      "num": 126601,
+      "word": "法证先锋5出场无路人",
+      "onboard_time": 1666927524,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126515,
       "num": 126515,
       "word": "王嘉尔MAGICMAN实体彩胶上线",
@@ -33553,14 +33593,6 @@
       "onboard_time": 1665822742,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122461,
-      "num": 122461,
-      "word": "法证先锋5出场无路人",
-      "onboard_time": 1666927524,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 122439,
@@ -34393,14 +34425,6 @@
       "onboard_time": 1664812102,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115551,
-      "num": 115551,
-      "word": "rihanna新歌封面",
-      "onboard_time": 1666922484,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 115493,
@@ -35505,6 +35529,14 @@
       "onboard_time": 1665806181,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106786,
+      "num": 106786,
+      "word": "女明星公主切造型大赏",
+      "onboard_time": 1666930106,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106777,
@@ -36697,6 +36729,14 @@
       "onboard_time": 1664880863,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 97919,
+      "num": 109831,
+      "word": "打鼾是一种隐形暴力",
+      "onboard_time": 1666929623,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97843,
@@ -38179,14 +38219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85521,
-      "num": 85521,
-      "word": "原来真的有追星星的人",
-      "onboard_time": 1666929564,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85518,
       "num": 94707,
       "word": "关注党的二十大",
@@ -39201,6 +39233,14 @@
       "onboard_time": 1665580344,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77545,
+      "num": 77545,
+      "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+      "onboard_time": 1666931005,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77513,
@@ -43411,6 +43451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29157,
+      "num": 254099,
+      "word": "女村干部倒挂15米深井救出孩子",
+      "onboard_time": 1666930526,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28918,
       "num": 28918,
       "word": "大妈夜里冒雨帮邻居盖好玉米",
@@ -43769,14 +43817,6 @@
       "onboard_time": 1665770955,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15694,
-      "num": 86226,
-      "word": "打鼾是一种隐形暴力",
-      "onboard_time": 1666929623,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15514,
