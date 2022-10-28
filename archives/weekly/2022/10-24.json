@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666968198650,
+  "endTime": 1666970780855,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -41,6 +41,14 @@
       "onboard_time": 1666789703,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2601654,
+      "num": 2601654,
+      "word": "林孝埈",
+      "onboard_time": 1666963884,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2368107,
@@ -211,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1322990,
-      "num": 1322990,
-      "word": "林孝埈",
-      "onboard_time": 1666963884,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 1326292,
+      "num": 677921,
+      "word": "武汉本轮毒株平均1人传染18人",
+      "onboard_time": 1666966045,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1320858,
@@ -1571,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527504,
-      "num": 527504,
-      "word": "武汉本轮毒株平均1人传染18人",
-      "onboard_time": 1666966045,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527255,
       "num": 527255,
       "word": "女子6块多网购柚子果肉仅有核桃大小",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1666964184,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513791,
+      "num": 391134,
+      "word": "贪便宜买了个电动牙刷",
+      "onboard_time": 1666968448,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 512440,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1666781485,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492370,
+      "num": 492370,
+      "word": "台北故宫3件文物破损照曝光",
+      "onboard_time": 1666967548,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492171,
@@ -2691,6 +2707,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 381707,
+      "num": 381707,
+      "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
+      "onboard_time": 1666966226,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381519,
       "num": 53587,
       "word": "女子套圈技术太差老板4次放水",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1666541183,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 380815,
+      "num": 380815,
+      "word": "北京平谷发现2例感染者",
+      "onboard_time": 1666969948,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380667,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1666920142,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 331126,
+      "num": 331126,
+      "word": "中国好声音",
+      "onboard_time": 1666961004,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 330569,
@@ -4155,14 +4195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253244,
-      "num": 253244,
-      "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
-      "onboard_time": 1666966226,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252946,
       "num": 565310,
       "word": "音乐电视作品我们的歌",
@@ -4315,14 +4347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243621,
-      "num": 243621,
-      "word": "中国好声音",
-      "onboard_time": 1666961004,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243561,
       "num": 33378,
       "word": "双11什么手机值得买",
@@ -4424,6 +4448,14 @@
       "word": "再见爱人",
       "onboard_time": 1666845506,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239126,
+      "num": 215570,
+      "word": "马嘉祺我们的歌4海报花絮视频",
+      "onboard_time": 1666969526,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -4577,6 +4609,14 @@
       "onboard_time": 1666832722,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 232011,
+      "num": 232011,
+      "word": "王一博我的朋友演李默",
+      "onboard_time": 1666968749,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 231771,
@@ -5131,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201866,
+      "num": 159566,
+      "word": "北京密云发现两本土感染者",
+      "onboard_time": 1666969826,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201634,
       "num": 28942,
       "word": "甄嬛不愧是反恋爱脑大师",
@@ -5547,6 +5595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177978,
+      "num": 177978,
+      "word": "老公天天做美食女子13天胖10斤",
+      "onboard_time": 1666968566,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177460,
       "num": 30675,
       "word": "程序员节",
@@ -5667,6 +5723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170254,
+      "num": 170254,
+      "word": "猎罪图鉴获亚洲电视奖3项提名",
+      "onboard_time": 1666970366,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168915,
       "num": 82480,
       "word": "秋裤是怎么做到全国统一的",
@@ -5761,6 +5825,14 @@
       "onboard_time": 1666922003,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164616,
+      "num": 164616,
+      "word": "自律小狗是怎么看电视的",
+      "onboard_time": 1666967188,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 164112,
@@ -6595,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129115,
+      "num": 129115,
+      "word": "原来有个饭搭子这么幸福",
+      "onboard_time": 1666968087,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128874,
       "num": 128874,
       "word": "ITZY街头随机舞蹈",
@@ -6827,6 +6907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120085,
+      "num": 115444,
+      "word": "美丽战场",
+      "onboard_time": 1666968448,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -6865,14 +6953,6 @@
       "onboard_time": 1666841963,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119308,
-      "num": 119308,
-      "word": "台北故宫3件文物破损照曝光",
-      "onboard_time": 1666967548,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118606,
@@ -6993,14 +7073,6 @@
       "onboard_time": 1666683325,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112699,
-      "num": 112699,
-      "word": "自律小狗是怎么看电视的",
-      "onboard_time": 1666967188,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 112485,
@@ -7153,6 +7225,14 @@
       "onboard_time": 1666923443,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107778,
+      "num": 107778,
+      "word": "7000年前的首富竟靠吃猪肉排名",
+      "onboard_time": 1666969105,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107733,
@@ -7675,6 +7755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93783,
+      "num": 93783,
+      "word": "一家两代接续修撰80万字汉书",
+      "onboard_time": 1666970247,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93546,
       "num": 93546,
       "word": "二十届中央政治局委员 书记处书记简历",
@@ -7777,6 +7865,14 @@
       "onboard_time": 1666710268,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89854,
+      "num": 89854,
+      "word": "当代学生是懂押韵的",
+      "onboard_time": 1666970127,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 89498,
@@ -7905,14 +8001,6 @@
       "onboard_time": 1666696885,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85631,
-      "num": 85631,
-      "word": "原来有个饭搭子这么幸福",
-      "onboard_time": 1666968087,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 85421,
@@ -8081,6 +8169,14 @@
       "onboard_time": 1666711826,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 81443,
+      "num": 81443,
+      "word": "黄河入海口的传统色调",
+      "onboard_time": 1666970605,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 81369,

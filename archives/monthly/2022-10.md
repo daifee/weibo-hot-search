@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 22:43:18
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 23:26:20
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@ EDG对战DRX（热度：2849044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8E%BF%E7%BA%A7%E5%B8%82%E8%A2%AB%E7%A1%AE%E5%AE%9A%E4%B8%BA%E5%A4%A7%E5%9F%8E%E5%B8%82%23" target="weibo">
 4个县级市被确定为大城市（热度：2646321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%23" target="weibo">
+林孝埈（热度：2601654）
 </a>
 </li>
 
@@ -1335,14 +1341,14 @@ RNG打破TI历史时间记录（热度：1329447）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%82%AF%E5%AE%9A%E8%A7%81%E8%BF%87%E8%BF%99%E4%B8%AA%E5%BA%8A%E5%8D%95%23" target="weibo">
-你肯定见过这个床单（热度：1324287）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9C%AC%E8%BD%AE%E6%AF%92%E6%A0%AA%E5%B9%B3%E5%9D%871%E4%BA%BA%E4%BC%A0%E6%9F%9318%E4%BA%BA%23" target="weibo">
+武汉本轮毒株平均1人传染18人（热度：1326292）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%23" target="weibo">
-林孝埈（热度：1322990）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%82%AF%E5%AE%9A%E8%A7%81%E8%BF%87%E8%BF%99%E4%B8%AA%E5%BA%8A%E5%8D%95%23" target="weibo">
+你肯定见过这个床单（热度：1324287）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ SK（热度：578344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B5%AE%E5%9B%BE%E7%BC%98%E9%A2%84%E7%BA%A6%E7%A0%B4150w%23" target="weibo">
 王鹤棣浮图缘预约破150w（热度：577648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%8B%97%E6%84%A7%E7%96%9A%E4%B8%80%E8%BE%88%E5%AD%90%23" target="weibo">
-让狗愧疚一辈子（热度：577567）
 </a>
 </li>
 
