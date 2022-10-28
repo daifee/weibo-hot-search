@@ -1,0 +1,410 @@
+{
+  "runTime": 1666923728084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885592,
+        "num": 885592,
+        "word": "警方回应8个月女婴当街被抱走",
+        "onboard_time": 1666918165,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878188,
+        "num": 878188,
+        "word": "大学生心脏骤停被同学教科书式救回",
+        "onboard_time": 1666916906,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 30470,
+        "num": 642611,
+        "word": "飞天圆梦",
+        "onboard_time": 1666879165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 534290,
+        "num": 534290,
+        "word": "当学校请了温太医来开讲座",
+        "onboard_time": 1666913777,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464594,
+        "num": 464594,
+        "word": "库克回应iPhone14Pro供不应求",
+        "onboard_time": 1666919606,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 826101,
+        "num": 463315,
+        "word": "鹤岗被确定为中等城市",
+        "onboard_time": 1666913962,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450000,
+        "num": 450000,
+        "word": "马斯克任推特CEO",
+        "onboard_time": 1666921223,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 448505,
+        "num": 448505,
+        "word": "RNG多次因合同纠纷被起诉",
+        "onboard_time": 1666920564,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404294,
+        "num": 404294,
+        "word": "不期而至定档1102",
+        "onboard_time": 1666922422,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331451,
+        "num": 331451,
+        "word": "马斯克完成推特私有化交易",
+        "onboard_time": 1666920142,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 606830,
+        "num": 328528,
+        "word": "长佩文学",
+        "onboard_time": 1666917626,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 748746,
+        "num": 325746,
+        "word": "女大学生遭坠楼男子砸中截瘫",
+        "onboard_time": 1666922364,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316492,
+        "num": 316492,
+        "word": "融创偷换与中融信托共管的保险柜锁芯",
+        "onboard_time": 1666918585,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293447,
+        "num": 293447,
+        "word": "Lisa舞台反应能力",
+        "onboard_time": 1666916906,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280986,
+        "num": 280986,
+        "word": "武汉疾控专家解读当前疫情防控形势",
+        "onboard_time": 1666916784,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266769,
+        "num": 266769,
+        "word": "坚持早睡身体会有什么变化",
+        "onboard_time": 1666885044,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261743,
+        "num": 261743,
+        "word": "千万不要让猫猫经常和狗玩",
+        "onboard_time": 1666917325,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244560,
+        "num": 244560,
+        "word": "原来生日可以领这么多东西",
+        "onboard_time": 1666871301,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 215093,
+        "num": 215093,
+        "word": "我国从地沟油中提炼出航空燃油",
+        "onboard_time": 1666915465,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198099,
+        "num": 198099,
+        "word": "苹果发布2022第四财季财报",
+        "onboard_time": 1666918044,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 663491,
+        "num": 192292,
+        "word": "迪丽热巴撑伞的酷飒瞬间",
+        "onboard_time": 1666923625,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 181376,
+        "word": "公交司机半路停车买桂圆边开边吃",
+        "onboard_time": 1666915044,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165991,
+        "num": 165991,
+        "word": "苍兰诀角色号更新剧照",
+        "onboard_time": 1666914804,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "高伟光周一围新版射雕英雄传",
+        "onboard_time": 1666916186,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157651,
+        "num": 157651,
+        "word": "10月27日新增本土确诊214例",
+        "onboard_time": 1666919963,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156344,
+        "num": 156344,
+        "word": "马斯克开除推特CEO和CFO",
+        "onboard_time": 1666922963,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "看截图时最在意的东西",
+        "onboard_time": 1666914320,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146225,
+        "num": 146225,
+        "word": "趴桌子动作可缓解肩颈疾病",
+        "onboard_time": 1666921163,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132268,
+        "num": 132268,
+        "word": "马斯克收购推特意味着什么",
+        "onboard_time": 1666923145,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126969,
+        "num": 126969,
+        "word": "是我小看iPhone备忘录了",
+        "onboard_time": 1666873704,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121680,
+        "num": 121680,
+        "word": "日剧silent",
+        "onboard_time": 1666913777,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116082,
+        "num": 116082,
+        "word": "王一博眼睛里藏摄影师",
+        "onboard_time": 1666882824,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112260,
+        "num": 112260,
+        "word": "西宁通报一颗白菜49.31元核查情况",
+        "onboard_time": 1666885465,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110863,
+        "num": 110863,
+        "word": "万茜方否认是今年金鹰女神",
+        "onboard_time": 1666882106,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110150,
+        "num": 110150,
+        "word": "北京10月27日新增本土确诊6例",
+        "onboard_time": 1666921403,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105844,
+        "num": 105844,
+        "word": "爷爷奶奶住个养老院学会说绝绝子",
+        "onboard_time": 1666915884,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103853,
+        "num": 103853,
+        "word": "双胞胎姐妹同天同医院生娃",
+        "onboard_time": 1666902250,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103600,
+        "num": 103600,
+        "word": "普京指挥应对大规模核打击训练",
+        "onboard_time": 1666899671,
+        "rank": 37,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 103180,
+        "num": 103180,
+        "word": "推特原CEO和CFO均离职",
+        "onboard_time": 1666921884,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 101351,
+        "num": 101351,
+        "word": "爸爸给33周胎儿唱歌被一脚踢开",
+        "onboard_time": 1666876406,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 99750,
+        "num": 99750,
+        "word": "LPL解说预测S12半决赛",
+        "onboard_time": 1666881265,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95777,
+        "num": 95777,
+        "word": "金博洋",
+        "onboard_time": 1666882764,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95459,
+        "num": 95459,
+        "word": "杜海涛说今日首演大吉大利",
+        "onboard_time": 1666922003,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89728,
+        "num": 89728,
+        "word": "大学教授回应上课给学生带礼物",
+        "onboard_time": 1666922843,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85459,
+        "num": 85459,
+        "word": "rihanna新歌封面",
+        "onboard_time": 1666922484,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82419,
+        "num": 82419,
+        "word": "丈夫太抠门被妻子告上法庭",
+        "onboard_time": 1666878085,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81369,
+        "num": 81369,
+        "word": "派出所晒129面锦旗压塌晾衣杆",
+        "onboard_time": 1666914983,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80949,
+        "num": 80949,
+        "word": "大爷卖的糖葫芦爬满蜜蜂",
+        "onboard_time": 1666875206,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77607,
+        "num": 77607,
+        "word": "中村一叶高踢腿动作",
+        "onboard_time": 1666923443,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76762,
+        "num": 76762,
+        "word": "是人还是斯人人教社回应",
+        "onboard_time": 1666878446,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等瞻仰中共七大会址#"
+    }
+  }
+}
