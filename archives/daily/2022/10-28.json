@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666950079911,
+  "endTime": 1666952761793,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840080,
+      "num": 577083,
+      "word": "大学不谈恋爱真的会遗憾吗",
+      "onboard_time": 1666947024,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 826101,
       "num": 473564,
       "word": "鹤岗被确定为中等城市",
       "onboard_time": 1666913962,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815305,
+      "num": 411534,
+      "word": "王栎鑫又吐了",
+      "onboard_time": 1666949305,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 814818,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 693797,
-      "num": 304789,
+      "num": 401980,
       "word": "脸蛋天才不是说说而已",
       "onboard_time": 1666942584,
       "rank": 47,
@@ -169,6 +185,14 @@
       "onboard_time": 1666923625,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 661516,
+      "num": 661516,
+      "word": "一人带狗独居435平",
+      "onboard_time": 1666949365,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 660506,
@@ -203,20 +227,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 556550,
-      "num": 556550,
-      "word": "大学不谈恋爱真的会遗憾吗",
-      "onboard_time": 1666947024,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 553592,
       "num": 527685,
       "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
       "onboard_time": 1666933106,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553583,
+      "num": 553583,
+      "word": "看过后劲最大的剧",
+      "onboard_time": 1666949545,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 547401,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 502732,
-      "num": 304546,
+      "num": 377579,
       "word": "殷勇任北京市副市长",
       "onboard_time": 1666947564,
       "rank": 13,
@@ -331,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429186,
+      "num": 429186,
+      "word": "马斯克或将解禁特朗普推特账户",
+      "onboard_time": 1666947444,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 421046,
       "num": 204912,
       "word": "白鹿奔跑吧特别季出发路透",
       "onboard_time": 1666924223,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415626,
+      "num": 415626,
+      "word": "樊振东状态",
+      "onboard_time": 1666949003,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 413814,
+      "num": 413814,
+      "word": "伊藤美诚状态",
+      "onboard_time": 1666948645,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 411446,
@@ -348,7 +396,7 @@
     },
     {
       "raw_hot": 409337,
-      "num": 304265,
+      "num": 320118,
       "word": "美方的核讹诈吓不倒中国",
       "onboard_time": 1666947326,
       "rank": 16,
@@ -515,20 +563,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 304871,
-      "num": 304871,
-      "word": "马斯克或将解禁特朗普推特账户",
-      "onboard_time": 1666947444,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 303616,
-      "num": 303616,
-      "word": "樊振东状态",
-      "onboard_time": 1666949003,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 306696,
+      "num": 306696,
+      "word": "人民币长期走强的趋势不会改变",
+      "onboard_time": 1666949545,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 293447,
@@ -635,20 +675,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250240,
-      "num": 250240,
-      "word": "伊藤美诚状态",
-      "onboard_time": 1666948645,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249063,
       "num": 249063,
       "word": "周峻纬说是时候遇见我的那束光了",
       "onboard_time": 1666931787,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244525,
+      "num": 244525,
+      "word": "小伙网购手机被告知要等30天",
+      "onboard_time": 1666949845,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240479,
@@ -755,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213465,
-      "num": 213465,
-      "word": "王栎鑫又吐了",
-      "onboard_time": 1666949305,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205206,
       "num": 205206,
       "word": "彭冠英预告里摸了蔡文静9次头",
@@ -851,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182758,
-      "num": 182758,
-      "word": "看过后劲最大的剧",
-      "onboard_time": 1666949545,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181415,
       "num": 181415,
       "word": "蕾哈娜新歌LiftMeUp公开",
@@ -881,6 +905,14 @@
       "onboard_time": 1666949605,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171275,
+      "num": 171275,
+      "word": "无畏伴生皮肤",
+      "onboard_time": 1666951882,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 171145,
@@ -977,14 +1009,6 @@
       "onboard_time": 1666929623,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158070,
-      "num": 158070,
-      "word": "一人带狗独居435平",
-      "onboard_time": 1666949365,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 157651,
@@ -1139,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117250,
-      "num": 117250,
-      "word": "小伙网购手机被告知要等30天",
-      "onboard_time": 1666949845,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110191,
       "num": 110191,
       "word": "换乘恋爱",
@@ -1267,14 +1283,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 95198,
-      "num": 95198,
-      "word": "人民币长期走强的趋势不会改变",
-      "onboard_time": 1666949545,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "间谍过家家",
@@ -1289,6 +1297,22 @@
       "onboard_time": 1666888579,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91508,
+      "num": 91508,
+      "word": "王艺迪晋级WTT世界杯四强",
+      "onboard_time": 1666951525,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88993,
+      "num": 88993,
+      "word": "妻子做开颅手术丈夫陪着剃光头",
+      "onboard_time": 1666951824,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88938,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76951,
+      "num": 76951,
+      "word": "想买这些家电了",
+      "onboard_time": 1666950985,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75311,
       "num": 75311,
       "word": "两次跳湖救人出租司机被申报见义勇为",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1666883244,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59997,
+      "num": 59997,
+      "word": "江西财经大学99周年校庆",
+      "onboard_time": 1666952723,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 57552,
