@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666963576045,
+  "endTime": 1666965223642,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -1524,7 +1524,7 @@
     },
     {
       "raw_hot": 1414553,
-      "num": 326544,
+      "num": 372298,
       "word": "内蒙古工业大学回应",
       "onboard_time": 1666959144,
       "rank": 10,
@@ -1876,7 +1876,7 @@
     },
     {
       "raw_hot": 1296917,
-      "num": 605050,
+      "num": 751012,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
       "rank": 3,
@@ -1964,7 +1964,7 @@
     },
     {
       "raw_hot": 1267188,
-      "num": 599550,
+      "num": 747121,
       "word": "余生请多指教豆瓣开分6",
       "onboard_time": 1666960704,
       "rank": 4,
@@ -2065,6 +2065,14 @@
       "onboard_time": 1666183164,
       "rank": 11,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1239653,
+      "num": 1239653,
+      "word": "为什么删了喜欢很久的人",
+      "onboard_time": 1666960643,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 1232870,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1665798264,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1002948,
+      "num": 385756,
+      "word": "佩洛西丈夫在家中遇袭",
+      "onboard_time": 1666963405,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1001442,
@@ -5011,6 +5027,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 767858,
+      "num": 767858,
+      "word": "英雄联盟",
+      "onboard_time": 1666963524,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 767302,
       "num": 165699,
       "word": "Mark哭了",
@@ -5305,6 +5329,14 @@
       "onboard_time": 1665801442,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743318,
+      "num": 743318,
+      "word": "林孝埈",
+      "onboard_time": 1666963884,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 743050,
@@ -5665,14 +5697,6 @@
       "onboard_time": 1665811825,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 716919,
-      "num": 716919,
-      "word": "为什么删了喜欢很久的人",
-      "onboard_time": 1666960643,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 715976,
@@ -6331,6 +6355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 676088,
+      "num": 676088,
+      "word": "沈梦辰演王熙凤",
+      "onboard_time": 1666961004,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675293,
       "num": 675293,
       "word": "女篮直播",
@@ -6433,6 +6465,14 @@
       "onboard_time": 1666134496,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 665566,
+      "num": 385284,
+      "word": "肖战杨紫余生豆瓣6.0合理吗",
+      "onboard_time": 1666963347,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 665444,
@@ -6561,6 +6601,14 @@
       "onboard_time": 1666940903,
       "rank": 11,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 660376,
+      "num": 385283,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1666961243,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659616,
@@ -6897,14 +6945,6 @@
       "onboard_time": 1665460465,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 638254,
-      "num": 272066,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1666961243,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637753,
@@ -8803,6 +8843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 534602,
+      "num": 534602,
+      "word": "推特将于10月28日起退市",
+      "onboard_time": 1666959804,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 534557,
       "num": 534557,
       "word": "黑豹2新预告",
@@ -8873,14 +8921,6 @@
       "onboard_time": 1666150821,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 532351,
-      "num": 532351,
-      "word": "推特将于10月28日起退市",
-      "onboard_time": 1666959804,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 532086,
@@ -9091,14 +9131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523593,
-      "num": 523593,
-      "word": "沈梦辰演王熙凤",
-      "onboard_time": 1666961004,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 523465,
       "num": 523465,
       "word": "朝鲜称其导弹发射针对美国",
@@ -9241,14 +9273,6 @@
       "onboard_time": 1666671745,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518618,
-      "num": 284527,
-      "word": "肖战杨紫余生豆瓣6.0合理吗",
-      "onboard_time": 1666963347,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 518392,
@@ -12500,7 +12524,7 @@
     },
     {
       "raw_hot": 417885,
-      "num": 279698,
+      "num": 353262,
       "word": "广州海珠区疫情防控",
       "onboard_time": 1666960584,
       "rank": 12,
@@ -12609,6 +12633,14 @@
       "onboard_time": 1665445100,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 416324,
+      "num": 370154,
+      "word": "换乘恋爱2终选结果",
+      "onboard_time": 1666963284,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 415916,
@@ -13875,6 +13907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386693,
+      "num": 386693,
+      "word": "陈梦vs陈幸同",
+      "onboard_time": 1666964184,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386578,
       "num": 386578,
       "word": "你好二十大",
@@ -14009,6 +14049,14 @@
       "onboard_time": 1664935041,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 383614,
+      "num": 383614,
+      "word": "女子自称是天使吃饭不买单",
+      "onboard_time": 1666963045,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383424,
@@ -15041,6 +15089,14 @@
       "onboard_time": 1666000941,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360631,
+      "num": 360631,
+      "word": "脱口秀大会5下周二三播出",
+      "onboard_time": 1666964366,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 360619,
@@ -16257,6 +16313,14 @@
       "onboard_time": 1665740604,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334146,
+      "num": 334146,
+      "word": "短道速滑",
+      "onboard_time": 1666963587,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 333651,
@@ -18889,6 +18953,14 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284307,
+      "num": 284307,
+      "word": "追光者",
+      "onboard_time": 1665744746,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 284014,
@@ -23115,6 +23187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229425,
+      "num": 229425,
+      "word": "长沙马拉松调整为线上赛",
+      "onboard_time": 1666961964,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 229236,
       "num": 229236,
       "word": "任嘉伦祝福祖国繁荣昌盛",
@@ -23217,14 +23297,6 @@
       "onboard_time": 1666945583,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228334,
-      "num": 228334,
-      "word": "佩洛西丈夫在家中遇袭",
-      "onboard_time": 1666963405,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 228331,
@@ -24739,14 +24811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 212477,
-      "num": 175144,
-      "word": "换乘恋爱2终选结果",
-      "onboard_time": 1666963284,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212218,
       "num": 129802,
       "word": "gidle新歌nxde一位",
@@ -26259,14 +26323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196376,
-      "num": 180115,
-      "word": "追光者",
-      "onboard_time": 1665744746,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196353,
       "num": 35891,
       "word": "33岁男子隔窗陪出租屋萌娃聊天",
@@ -26689,6 +26745,14 @@
       "onboard_time": 1666837043,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192341,
+      "num": 156850,
+      "word": "真的需要一个会拍照的朋友",
+      "onboard_time": 1666963767,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 192327,
@@ -28633,14 +28697,6 @@
       "onboard_time": 1665068724,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 171661,
-      "num": 89028,
-      "word": "英雄联盟",
-      "onboard_time": 1666963524,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 171600,
@@ -30769,6 +30825,14 @@
       "onboard_time": 1665039923,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151849,
+      "num": 151849,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 151670,
@@ -33115,14 +33179,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 132561,
-      "num": 132561,
-      "word": "30岁了依然期待爱情",
-      "onboard_time": 1666960885,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132517,
       "num": 96660,
       "word": "王楚钦晋级澳门赛8强",
@@ -34123,14 +34179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124483,
-      "num": 124483,
-      "word": "长沙马拉松调整为线上赛",
-      "onboard_time": 1666961964,
-      "rank": 34,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 124374,
       "num": 124374,
       "word": "软噗噗的大熊猫还会一字马",
@@ -34145,6 +34193,14 @@
       "onboard_time": 1664609426,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124360,
+      "num": 108447,
+      "word": "万茜一人演了老中青三代班昭",
+      "onboard_time": 1666963884,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 124154,
@@ -34529,6 +34585,14 @@
       "onboard_time": 1664974765,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120879,
+      "num": 120879,
+      "word": "赵睿受伤",
+      "onboard_time": 1665696311,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120719,
@@ -35177,14 +35241,6 @@
       "onboard_time": 1665578964,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115954,
-      "num": 115954,
-      "word": "赵睿受伤",
-      "onboard_time": 1665696311,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 115938,
@@ -38011,6 +38067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94268,
+      "num": 94268,
+      "word": "德国光之堡",
+      "onboard_time": 1666965026,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 94204,
       "num": 94204,
       "word": "高校00后组建养生社团引人围观",
@@ -38727,14 +38791,6 @@
       "num": 56354,
       "word": "5年上千次试验只为让战机心脏妥妥的",
       "onboard_time": 1666433063,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88362,
-      "num": 88362,
-      "word": "女子自称是天使吃饭不买单",
-      "onboard_time": 1666963045,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -42531,6 +42587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57713,
+      "num": 381065,
+      "word": "76岁守岛人坚守赭岛48年",
+      "onboard_time": 1666962084,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57673,
       "num": 280306,
       "word": "用手把钢材叠成纸飞机分几步",
@@ -43524,7 +43588,7 @@
     },
     {
       "raw_hot": 45676,
-      "num": 725669,
+      "num": 754547,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,
@@ -44201,14 +44265,6 @@
       "onboard_time": 1665604450,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34848,
-      "num": 257746,
-      "word": "76岁守岛人坚守赭岛48年",
-      "onboard_time": 1666962084,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34833,
