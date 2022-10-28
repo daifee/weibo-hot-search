@@ -1,0 +1,410 @@
+{
+  "runTime": 1666942610714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907160,
+        "num": 907160,
+        "word": "手机充电进入个位数时代",
+        "onboard_time": 1666937903,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426814,
+        "num": 426814,
+        "word": "义乌厂家50天赶工10万个足球",
+        "onboard_time": 1666935266,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32793,
+        "num": 423396,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1122975,
+        "num": 420388,
+        "word": "男子中近800万彩票后瞒着妻子转移财产",
+        "onboard_time": 1666938743,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501980,
+        "num": 417392,
+        "word": "BLACKPINK世巡演唱会亚洲场次",
+        "onboard_time": 1666941445,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437598,
+        "num": 413456,
+        "word": "李诞解开了我对友谊的困惑",
+        "onboard_time": 1666934545,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411446,
+        "num": 411446,
+        "word": "再见爱人2夫妻嘉宾",
+        "onboard_time": 1666940124,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356967,
+        "num": 356967,
+        "word": "英雄联盟S12",
+        "onboard_time": 1666937903,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346247,
+        "num": 346247,
+        "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+        "onboard_time": 1666933106,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297329,
+        "num": 321698,
+        "word": "iPhone14Pro双十一首次优惠",
+        "onboard_time": 1666927703,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 650004,
+        "num": 321476,
+        "word": "女大学生遭坠楼男子砸中截瘫",
+        "onboard_time": 1666922364,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549997,
+        "num": 321391,
+        "word": "轩轩竟然长这么大了",
+        "onboard_time": 1666940903,
+        "rank": 11,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 320958,
+        "num": 320958,
+        "word": "驻呼高校学生将分流返乡",
+        "onboard_time": 1666938084,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299398,
+        "num": 299398,
+        "word": "陈小春张智霖浮夸舞台剃头",
+        "onboard_time": 1666937005,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43672,
+        "num": 291651,
+        "word": "当黄河石遇见敦煌飞天",
+        "onboard_time": 1666940483,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290634,
+        "num": 290634,
+        "word": "男子嫌消防出警太吵六楼扔饮料瓶",
+        "onboard_time": 1666934123,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242695,
+        "num": 242695,
+        "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+        "onboard_time": 1666931005,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196731,
+        "num": 196731,
+        "word": "青岛教资",
+        "onboard_time": 1666924283,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175069,
+        "num": 175069,
+        "word": "马斯克开除推特CEO和CFO",
+        "onboard_time": 1666922963,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172304,
+        "num": 172304,
+        "word": "5岁男孩看店1小时卖100多元香肠",
+        "onboard_time": 1666928125,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448454,
+        "num": 172185,
+        "word": "杨幂谢谢你医生骑摩托车路透",
+        "onboard_time": 1666941262,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171940,
+        "num": 171940,
+        "word": "王一博街舞5得奖敬礼",
+        "onboard_time": 1666936524,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "张远应援陈楚生翻车",
+        "onboard_time": 1666937304,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154190,
+        "num": 154190,
+        "word": "三体我正在想你",
+        "onboard_time": 1666936585,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141632,
+        "num": 141632,
+        "word": "邓刚手杆钓100斤石斑鱼",
+        "onboard_time": 1666941924,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "男子为救白血病儿子一天打两份工",
+        "onboard_time": 1666936765,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134269,
+        "num": 134269,
+        "word": "陈吉宁任上海市委书记",
+        "onboard_time": 1666926564,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "RedVelvet将11月回归",
+        "onboard_time": 1666936045,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122809,
+        "num": 122809,
+        "word": "保安大叔资助学生17年谎称自己很富",
+        "onboard_time": 1666940784,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 121548,
+        "num": 121548,
+        "word": "店主大姐一声声宝贝安慰走失幼童",
+        "onboard_time": 1666940543,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115649,
+        "num": 115649,
+        "word": "世界杯时间",
+        "onboard_time": 1666940963,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115194,
+        "num": 115194,
+        "word": "王大陆淘汰画风",
+        "onboard_time": 1666938863,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107483,
+        "num": 107483,
+        "word": "快乐回来啦开播",
+        "onboard_time": 1666931845,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104888,
+        "num": 104888,
+        "word": "浮夸舞台",
+        "onboard_time": 1666940784,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103870,
+        "num": 103870,
+        "word": "鹿晗穿越火线日本播出预告",
+        "onboard_time": 1666931365,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103327,
+        "num": 103327,
+        "word": "为什么00后更愿意为兴趣买单",
+        "onboard_time": 1666926384,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 101588,
+        "num": 101588,
+        "word": "乐歌升降台藏摄像头",
+        "onboard_time": 1666939463,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87628,
+        "num": 87628,
+        "word": "女村干部倒挂15米深井救出孩子",
+        "onboard_time": 1666930526,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85707,
+        "num": 85707,
+        "word": "大学生心脏骤停被同学教科书式救回",
+        "onboard_time": 1666916906,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 84076,
+        "num": 84076,
+        "word": "RNG多次因合同纠纷被起诉",
+        "onboard_time": 1666920564,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94068,
+        "num": 83538,
+        "word": "英文版西游记好上头",
+        "onboard_time": 1666940903,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81698,
+        "num": 81698,
+        "word": "鹤岗被确定为中等城市",
+        "onboard_time": 1666913962,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78557,
+        "num": 78557,
+        "word": "国考已有岗位竞争超过1300比1",
+        "onboard_time": 1666924763,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 74595,
+        "num": 74595,
+        "word": "警方回应8个月女婴当街被抱走",
+        "onboard_time": 1666918165,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72446,
+        "num": 72446,
+        "word": "这样教地理的话我可不困了",
+        "onboard_time": 1666939343,
+        "rank": 44,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 69357,
+        "num": 69357,
+        "word": "库克回应iPhone14Pro供不应求",
+        "onboard_time": 1666919606,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 65697,
+        "num": 65697,
+        "word": "赠台大熊猫团团病情加重",
+        "onboard_time": 1666941445,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220965,
+        "num": 65465,
+        "word": "脸蛋天才不是说说而已",
+        "onboard_time": 1666942584,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64651,
+        "num": 64651,
+        "word": "iPhone14全系渠道报价低于官网",
+        "onboard_time": 1666924343,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 57552,
+        "num": 57552,
+        "word": "00后小伙练咏春12年如愿成为刑警",
+        "onboard_time": 1666941743,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#点赞我和我的新时代#"
+    }
+  }
+}
