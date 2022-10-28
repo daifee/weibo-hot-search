@@ -1,7 +1,15 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666923728084,
+  "endTime": 1666925919104,
   "band_list": [
+    {
+      "raw_hot": 1925592,
+      "num": 497195,
+      "word": "女大学生遭坠楼男子砸中截瘫",
+      "onboard_time": 1666922364,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 952438,
       "num": 952438,
@@ -36,19 +44,19 @@
     },
     {
       "raw_hot": 826101,
-      "num": 463315,
+      "num": 473564,
       "word": "鹤岗被确定为中等城市",
       "onboard_time": 1666913962,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 748746,
-      "num": 325746,
-      "word": "女大学生遭坠楼男子砸中截瘫",
-      "onboard_time": 1666922364,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 751055,
+      "num": 490101,
+      "word": "马斯克开除推特CEO和CFO",
+      "onboard_time": 1666922963,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 722852,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421046,
+      "num": 167753,
+      "word": "白鹿奔跑吧特别季出发路透",
+      "onboard_time": 1666924223,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404294,
       "num": 404294,
       "word": "不期而至定档1102",
@@ -179,12 +195,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311078,
+      "num": 265200,
+      "word": "青岛教资",
+      "onboard_time": 1666924283,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 294063,
+      "num": 260047,
+      "word": "iPhone14全系渠道报价低于官网",
+      "onboard_time": 1666924343,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 293447,
       "num": 293447,
       "word": "Lisa舞台反应能力",
       "onboard_time": 1666916906,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283012,
+      "num": 283012,
+      "word": "趴桌子动作可缓解肩颈疾病",
+      "onboard_time": 1666921163,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 280986,
@@ -331,11 +371,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167813,
+      "num": 167813,
+      "word": "大学教授回应上课给学生带礼物",
+      "onboard_time": 1666922843,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167711,
       "num": 139180,
       "word": "杨颖赖冠霖爱情应该有的样子韩国定档",
       "onboard_time": 1666886482,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167614,
+      "num": 167614,
+      "word": "网剧遇见你之后开播",
+      "onboard_time": 1666925844,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -347,12 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165200,
+      "num": 165200,
+      "word": "杜海涛说今日首演大吉大利",
+      "onboard_time": 1666922003,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164112,
       "num": 164112,
       "word": "高伟光周一围新版射雕英雄传",
       "onboard_time": 1666916186,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160450,
+      "num": 72855,
+      "word": "万茜法式卷Lady大片",
+      "onboard_time": 1666925902,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157651,
@@ -369,14 +441,6 @@
       "onboard_time": 1666878446,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156344,
-      "num": 156344,
-      "word": "马斯克开除推特CEO和CFO",
-      "onboard_time": 1666922963,
-      "rank": 25,
-      "category": "科技"
     },
     {
       "raw_hot": 154152,
@@ -411,20 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146225,
-      "num": 146225,
-      "word": "趴桌子动作可缓解肩颈疾病",
-      "onboard_time": 1666921163,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 132268,
-      "num": 132268,
+      "raw_hot": 143994,
+      "num": 143994,
       "word": "马斯克收购推特意味着什么",
       "onboard_time": 1666923145,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 137519,
+      "num": 137519,
+      "word": "国考已有岗位竞争超过1300比1",
+      "onboard_time": 1666924763,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129133,
@@ -457,6 +521,22 @@
       "onboard_time": 1666921403,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109225,
+      "num": 109225,
+      "word": "rihanna新歌封面",
+      "onboard_time": 1666922484,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 107939,
+      "num": 107939,
+      "word": "中村一叶高踢腿动作",
+      "onboard_time": 1666923443,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 105844,
@@ -499,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95459,
-      "num": 95459,
-      "word": "杜海涛说今日首演大吉大利",
-      "onboard_time": 1666922003,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "间谍过家家",
@@ -523,28 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89728,
-      "num": 89728,
-      "word": "大学教授回应上课给学生带礼物",
-      "onboard_time": 1666922843,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 88938,
       "num": 88938,
       "word": "18岁男子酒驾被查报父亲身份证",
       "onboard_time": 1666876585,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85459,
-      "num": 85459,
-      "word": "rihanna新歌封面",
-      "onboard_time": 1666922484,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 84014,
@@ -587,20 +643,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77607,
-      "num": 77607,
-      "word": "中村一叶高踢腿动作",
-      "onboard_time": 1666923443,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 75311,
       "num": 75311,
       "word": "两次跳湖救人出租司机被申报见义勇为",
       "onboard_time": 1666900510,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 69820,
+      "num": 69820,
+      "word": "独行侠加时战胜篮网",
+      "onboard_time": 1666925902,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69461,

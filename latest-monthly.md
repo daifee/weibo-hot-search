@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 10:22:08
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 10:58:39
 </p>
 </blockquote>
 <p>
@@ -563,6 +563,12 @@ RNG战胜GEN（热度：2011028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1%23" target="weibo">
 换乘恋爱（热度：1931883）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E5%9D%A0%E6%A5%BC%E7%94%B7%E5%AD%90%E7%A0%B8%E4%B8%AD%E6%88%AA%E7%98%AB%23" target="weibo">
+女大学生遭坠楼男子砸中截瘫（热度：1925592）
 </a>
 </li>
 
@@ -3807,6 +3813,12 @@ Canyon确诊新冠（热度：752162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E6%8E%A8%E7%89%B9CEO%E5%92%8CCFO%23" target="weibo">
+马斯克开除推特CEO和CFO（热度：751055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E8%81%8A%E5%A4%A9%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3%E4%B8%BA%E5%96%9C%E6%AC%A2%E5%90%97%23" target="weibo">
 频繁聊天可以理解为喜欢吗（热度：750880）
 </a>
@@ -3839,12 +3851,6 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F90%E5%A4%9A%E5%BC%A0%E5%8D%96%E8%90%8C%E8%87%AA%E6%8B%8D%E9%94%99%E5%8F%91%E7%8F%AD%E7%BA%A7%E7%BE%A4%23" target="weibo">
 女生90多张卖萌自拍错发班级群（热度：748782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E5%9D%A0%E6%A5%BC%E7%94%B7%E5%AD%90%E7%A0%B8%E4%B8%AD%E6%88%AA%E7%98%AB%23" target="weibo">
-女大学生遭坠楼男子砸中截瘫（热度：748746）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TTG（热度：568457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%99%8D%E6%B8%A9%E8%AE%A9%E9%A2%84%E6%8A%A5%E5%9B%BE%E5%86%B7%E5%88%B0%E5%8F%91%E7%B4%AB%23" target="weibo">
 南方降温让预报图冷到发紫（热度：564761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%BB%91%E5%A4%A9%E9%B9%85%E5%B0%81%E9%9D%A2%E5%A4%A7%E7%89%87%23" target="weibo">
-刘诗诗黑天鹅封面大片（热度：564515）
 </a>
 </li>
 
