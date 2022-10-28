@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666976105460,
+  "endTime": 1666977951642,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 478579,
+      "num": 478579,
+      "word": "奶奶被喂嚼过方便面魔性拒绝",
+      "onboard_time": 1666973007,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417888,
       "num": 417888,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383578,
-      "num": 208796,
-      "word": "奶奶被喂嚼过方便面魔性拒绝",
-      "onboard_time": 1666973007,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381011,
@@ -75,7 +75,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 311436,
+      "raw_hot": 338641,
       "num": 206375,
       "word": "海恩贤圭情侣照",
       "onboard_time": 1666975879,
@@ -168,6 +168,14 @@
       "word": "7000年前的首富竟靠吃猪肉排名",
       "onboard_time": 1666969105,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181071,
+      "num": 79427,
+      "word": "普京称特拉斯脑子不太正常",
+      "onboard_time": 1666974802,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -331,14 +339,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 79427,
-      "num": 79427,
-      "word": "普京称特拉斯脑子不太正常",
-      "onboard_time": 1666974802,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78890,
       "num": 78890,
       "word": "余生请多指教豆瓣开分6",
@@ -417,6 +417,22 @@
       "onboard_time": 1666970605,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31337,
+      "num": 31337,
+      "word": "美丽战场",
+      "onboard_time": 1666968448,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22425,
+      "num": 28499,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 6717,

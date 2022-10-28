@@ -1,0 +1,410 @@
+{
+  "runTime": 1666977951642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137443,
+        "num": 1137443,
+        "word": "林孝埈",
+        "onboard_time": 1666963884,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478579,
+        "num": 478579,
+        "word": "奶奶被喂嚼过方便面魔性拒绝",
+        "onboard_time": 1666973007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4701,
+        "num": 335443,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 488044,
+        "num": 325564,
+        "word": "武汉本轮毒株平均1人传染18人",
+        "onboard_time": 1666966045,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277762,
+        "num": 277762,
+        "word": "为什么删了喜欢很久的人",
+        "onboard_time": 1666960643,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231801,
+        "num": 231801,
+        "word": "贪便宜买了个电动牙刷",
+        "onboard_time": 1666968448,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199134,
+        "num": 199134,
+        "word": "佩洛西丈夫在家中遇袭",
+        "onboard_time": 1666963405,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 171546,
+        "num": 171546,
+        "word": "台北故宫3件文物破损照曝光",
+        "onboard_time": 1666967548,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149500,
+        "num": 149500,
+        "word": "英语129分男生课上读出蹩脚英文",
+        "onboard_time": 1666965506,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 121933,
+        "num": 121933,
+        "word": "短道速滑",
+        "onboard_time": 1666963587,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338641,
+        "num": 121771,
+        "word": "海恩贤圭情侣照",
+        "onboard_time": 1666975879,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 121580,
+        "word": "肖战杨紫余生豆瓣6.0合理吗",
+        "onboard_time": 1666963347,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121124,
+        "num": 121124,
+        "word": "女生上课用手机举弹幕求上厕所",
+        "onboard_time": 1666971206,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 109508,
+        "word": "女子自称是天使吃饭不买单",
+        "onboard_time": 1666963045,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106385,
+        "num": 106385,
+        "word": "梁静茹发文告别中国好声音",
+        "onboard_time": 1666971086,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105900,
+        "num": 105900,
+        "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
+        "onboard_time": 1666966226,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105848,
+        "num": 105848,
+        "word": "中国好声音",
+        "onboard_time": 1666961004,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86509,
+        "num": 86509,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1666960584,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85635,
+        "num": 85635,
+        "word": "国考河南23个岗位仍无人报考",
+        "onboard_time": 1666956743,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 80051,
+        "num": 80051,
+        "word": "换乘恋爱2终选结果",
+        "onboard_time": 1666963284,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186162,
+        "num": 78118,
+        "word": "内蒙古工业大学回应",
+        "onboard_time": 1666959144,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182386,
+        "num": 76541,
+        "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+        "onboard_time": 1666965267,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89464,
+        "num": 75677,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1666961243,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73697,
+        "num": 73697,
+        "word": "沈梦辰演王熙凤",
+        "onboard_time": 1666961004,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69207,
+        "num": 69207,
+        "word": "法证先锋5好敢拍",
+        "onboard_time": 1666953324,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66389,
+        "num": 66389,
+        "word": "英雄联盟",
+        "onboard_time": 1666963524,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65771,
+        "num": 65771,
+        "word": "7000年前的首富竟靠吃猪肉排名",
+        "onboard_time": 1666969105,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63532,
+        "num": 63532,
+        "word": "推特将于10月28日起退市",
+        "onboard_time": 1666959804,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 63307,
+        "num": 63307,
+        "word": "艾欧尼亚",
+        "onboard_time": 1666965446,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59753,
+        "num": 59753,
+        "word": "北京平谷发现2例感染者",
+        "onboard_time": 1666969948,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181071,
+        "num": 59639,
+        "word": "普京称特拉斯脑子不太正常",
+        "onboard_time": 1666974802,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59522,
+        "num": 59522,
+        "word": "原来有个饭搭子这么幸福",
+        "onboard_time": 1666968087,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58896,
+        "num": 58896,
+        "word": "看过后劲最大的剧",
+        "onboard_time": 1666949545,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57781,
+        "num": 57781,
+        "word": "自律小狗是怎么看电视的",
+        "onboard_time": 1666967188,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57493,
+        "num": 57493,
+        "word": "老公天天做美食女子13天胖10斤",
+        "onboard_time": 1666968566,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51920,
+        "num": 51920,
+        "word": "北京密云发现两本土感染者",
+        "onboard_time": 1666969826,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46535,
+        "num": 46535,
+        "word": "长沙马拉松调整为线上赛",
+        "onboard_time": 1666961964,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 45777,
+        "num": 45777,
+        "word": "河南热奶宝有多好吃",
+        "onboard_time": 1666956264,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 43416,
+        "num": 43416,
+        "word": "余生请多指教豆瓣开分6",
+        "onboard_time": 1666960704,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41684,
+        "num": 41684,
+        "word": "王栎鑫又吐了",
+        "onboard_time": 1666949305,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40707,
+        "num": 40707,
+        "word": "直20干出了中国人自己的争气机",
+        "onboard_time": 1666972465,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 40298,
+        "num": 40298,
+        "word": "猎罪图鉴获亚洲电视奖3项提名",
+        "onboard_time": 1666970366,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39951,
+        "num": 39951,
+        "word": "中国空间站的植物都长这么大了",
+        "onboard_time": 1666971327,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 36017,
+        "num": 36017,
+        "word": "王一博我的朋友演李默",
+        "onboard_time": 1666968749,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35680,
+        "num": 35680,
+        "word": "没想到拿个快递也会社死",
+        "onboard_time": 1666966766,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34863,
+        "num": 34863,
+        "word": "古人夏天用的冰块是哪来的",
+        "onboard_time": 1666965446,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31337,
+        "num": 31337,
+        "word": "美丽战场",
+        "onboard_time": 1666968448,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31171,
+        "num": 31171,
+        "word": "秦岚给蓝盈莹郑合惠子科普挖野菜梗",
+        "onboard_time": 1666965867,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29878,
+        "num": 29878,
+        "word": "7旬夫妻为3岁女儿庆生",
+        "onboard_time": 1666945464,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22425,
+        "num": 28499,
+        "word": "30岁了依然期待爱情",
+        "onboard_time": 1666960885,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬伟大建党精神和延安精神#"
+    }
+  }
+}
