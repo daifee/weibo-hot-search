@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666938607897,
+  "endTime": 1666939683215,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -83,6 +83,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 728224,
+      "num": 528780,
+      "word": "李诞解开了我对友谊的困惑",
+      "onboard_time": 1666934545,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 723702,
+      "num": 723702,
+      "word": "义乌厂家50天赶工10万个足球",
+      "onboard_time": 1666935266,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722852,
       "num": 348760,
       "word": "原来生日可以领这么多东西",
@@ -97,14 +113,6 @@
       "onboard_time": 1666931005,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676834,
-      "num": 528780,
-      "word": "李诞解开了我对友谊的困惑",
-      "onboard_time": 1666934545,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 663491,
@@ -155,14 +163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 532298,
-      "num": 532298,
-      "word": "义乌厂家50天赶工10万个足球",
-      "onboard_time": 1666935266,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526999,
       "num": 526999,
       "word": "陈小春张智霖浮夸舞台剃头",
@@ -177,6 +177,14 @@
       "onboard_time": 1666934123,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500505,
+      "num": 500505,
+      "word": "手机充电进入个位数时代",
+      "onboard_time": 1666937903,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 494684,
@@ -241,6 +249,14 @@
       "onboard_time": 1666922422,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394564,
+      "num": 394564,
+      "word": "英雄联盟S12",
+      "onboard_time": 1666937903,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 369809,
@@ -451,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240479,
+      "num": 240479,
+      "word": "三体我正在想你",
+      "onboard_time": 1666936585,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 230113,
       "num": 230113,
       "word": "丈夫太抠门被妻子告上法庭",
       "onboard_time": 1666878085,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225133,
-      "num": 225133,
-      "word": "英雄联盟S12",
-      "onboard_time": 1666937903,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 219257,
@@ -481,6 +497,14 @@
       "onboard_time": 1666885883,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216339,
+      "num": 216339,
+      "word": "驻呼高校学生将分流返乡",
+      "onboard_time": 1666938084,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 215093,
@@ -507,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210487,
+      "num": 210487,
+      "word": "男子中近800万彩票后瞒着妻子转移财产",
+      "onboard_time": 1666938743,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205206,
       "num": 205206,
       "word": "彭冠英预告里摸了蔡文静9次头",
@@ -531,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198760,
-      "num": 198760,
-      "word": "三体我正在想你",
-      "onboard_time": 1666936585,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 198099,
       "num": 198099,
       "word": "苹果发布2022第四财季财报",
@@ -553,6 +577,14 @@
       "onboard_time": 1666868365,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 195395,
+      "num": 195395,
+      "word": "王大陆淘汰画风",
+      "onboard_time": 1666938863,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 191931,
@@ -577,14 +609,6 @@
       "onboard_time": 1666882584,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184688,
-      "num": 184688,
-      "word": "手机充电进入个位数时代",
-      "onboard_time": 1666937903,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 183824,
@@ -803,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126498,
+      "num": 126498,
+      "word": "男子为救白血病儿子一天打两份工",
+      "onboard_time": 1666936765,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "日剧silent",
@@ -875,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99891,
-      "num": 99891,
-      "word": "驻呼高校学生将分流返乡",
-      "onboard_time": 1666938084,
-      "rank": 33,
-      "category": "教育,社会新闻"
+      "raw_hot": 100314,
+      "num": 100314,
+      "word": "乐歌升降台藏摄像头",
+      "onboard_time": 1666939463,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97440,
@@ -905,14 +937,6 @@
       "onboard_time": 1666889658,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 92302,
-      "num": 92302,
-      "word": "男子为救白血病儿子一天打两份工",
-      "onboard_time": 1666936765,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91749,
@@ -979,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79324,
+      "num": 79324,
+      "word": "解压视频有多上头",
+      "onboard_time": 1666936524,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75311,
       "num": 75311,
       "word": "两次跳湖救人出租司机被申报见义勇为",
@@ -992,14 +1024,6 @@
       "word": "男子凌晨遇气肿流浪猫收养送医",
       "onboard_time": 1666873523,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69380,
-      "num": 69380,
-      "word": "解压视频有多上头",
-      "onboard_time": 1666936524,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1067,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59489,
+      "num": 59489,
+      "word": "这样教地理的话我可不困了",
+      "onboard_time": 1666939343,
+      "rank": 49,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 57370,
+      "num": 278170,
+      "word": "对话刮腻子世界冠军",
+      "onboard_time": 1666936883,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56395,
       "num": 56395,
       "word": "原来狗狗也会落枕",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1666913299,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53201,
-      "num": 278170,
-      "word": "对话刮腻子世界冠军",
-      "onboard_time": 1666936883,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50712,
@@ -1139,7 +1171,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 40358,
+      "raw_hot": 41946,
       "num": 91031,
       "word": "新款iphone14系列产品均参加双11大促",
       "onboard_time": 1666936824,

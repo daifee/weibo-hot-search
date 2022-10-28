@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666938607897,
+  "endTime": 1666939683215,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -5403,6 +5403,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 728224,
+      "num": 528780,
+      "word": "李诞解开了我对友谊的困惑",
+      "onboard_time": 1666934545,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728043,
       "num": 728043,
       "word": "英国一大学课堂全是中国人",
@@ -5448,6 +5456,14 @@
       "word": "三小伙为省钱合租一间房",
       "onboard_time": 1665312502,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723702,
+      "num": 723702,
+      "word": "义乌厂家50天赶工10万个足球",
+      "onboard_time": 1666935266,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6201,14 +6217,6 @@
       "onboard_time": 1665060685,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 676834,
-      "num": 528780,
-      "word": "李诞解开了我对友谊的困惑",
-      "onboard_time": 1666934545,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 675293,
@@ -8707,14 +8715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532298,
-      "num": 532298,
-      "word": "义乌厂家50天赶工10万个足球",
-      "onboard_time": 1666935266,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532086,
       "num": 355316,
       "word": "爸爸吐槽电脑垃圾多2岁女儿帮水洗",
@@ -9585,6 +9585,14 @@
       "onboard_time": 1665853638,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 500505,
+      "num": 500505,
+      "word": "手机充电进入个位数时代",
+      "onboard_time": 1666937903,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 499733,
@@ -13217,6 +13225,14 @@
       "onboard_time": 1666875383,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394564,
+      "num": 394564,
+      "word": "英雄联盟S12",
+      "onboard_time": 1664851102,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 394100,
@@ -20203,14 +20219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 260115,
-      "num": 260115,
-      "word": "英雄联盟S12",
-      "onboard_time": 1664851102,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 260107,
       "num": 219762,
       "word": "阿迪终止与侃爷合作预计净利损失2.5亿欧元",
@@ -21841,6 +21849,14 @@
       "onboard_time": 1665669264,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240479,
+      "num": 240479,
+      "word": "三体我正在想你",
+      "onboard_time": 1666936585,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 240387,
@@ -23891,6 +23907,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 216339,
+      "num": 216339,
+      "word": "驻呼高校学生将分流返乡",
+      "onboard_time": 1666938084,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 216180,
       "num": 216180,
       "word": "增强对当前疫情防控政策的信心和耐心",
@@ -24441,6 +24465,14 @@
       "onboard_time": 1664541924,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210487,
+      "num": 210487,
+      "word": "男子中近800万彩票后瞒着妻子转移财产",
+      "onboard_time": 1666938743,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210483,
@@ -25499,14 +25531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198760,
-      "num": 198760,
-      "word": "三体我正在想你",
-      "onboard_time": 1666936585,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 198755,
       "num": 41374,
       "word": "王一博街舞5户外运动当裁判",
@@ -25857,6 +25881,14 @@
       "onboard_time": 1666446084,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195395,
+      "num": 195395,
+      "word": "王大陆淘汰画风",
+      "onboard_time": 1666938863,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 195255,
@@ -26953,14 +26985,6 @@
       "onboard_time": 1664889805,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184688,
-      "num": 184688,
-      "word": "手机充电进入个位数时代",
-      "onboard_time": 1666937903,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 184639,
@@ -33227,6 +33251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126498,
+      "num": 126498,
+      "word": "男子为救白血病儿子一天打两份工",
+      "onboard_time": 1666936765,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126486,
       "num": 126486,
       "word": "RNG战胜ISG",
@@ -36539,6 +36571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100314,
+      "num": 100314,
+      "word": "乐歌升降台藏摄像头",
+      "onboard_time": 1666939463,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100275,
       "num": 12998,
       "word": "无意中拍到梵高画中的场景",
@@ -36577,14 +36617,6 @@
       "onboard_time": 1665021863,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99891,
-      "num": 99891,
-      "word": "驻呼高校学生将分流返乡",
-      "onboard_time": 1666938084,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 99886,
@@ -37513,14 +37545,6 @@
       "onboard_time": 1666580963,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 92302,
-      "num": 92302,
-      "word": "男子为救白血病儿子一天打两份工",
-      "onboard_time": 1666936765,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92282,
@@ -39195,6 +39219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79324,
+      "num": 79324,
+      "word": "解压视频有多上头",
+      "onboard_time": 1666936524,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79308,
       "num": 56582,
       "word": "福建男篮vs辽宁男篮",
@@ -40403,14 +40435,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 69380,
-      "num": 69380,
-      "word": "解压视频有多上头",
-      "onboard_time": 1666936524,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69372,
       "num": 69372,
       "word": "寒潮速冻南方多地",
@@ -41587,6 +41611,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 59489,
+      "num": 59489,
+      "word": "这样教地理的话我可不困了",
+      "onboard_time": 1666939343,
+      "rank": 49,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 59364,
       "num": 69307,
       "word": "赵继伟三分",
@@ -41785,6 +41817,14 @@
       "onboard_time": 1665276205,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 57370,
+      "num": 278170,
+      "word": "对话刮腻子世界冠军",
+      "onboard_time": 1666936883,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57357,
@@ -42073,14 +42113,6 @@
       "onboard_time": 1666829544,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 53201,
-      "num": 278170,
-      "word": "对话刮腻子世界冠军",
-      "onboard_time": 1666936883,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53057,
@@ -42939,6 +42971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41946,
+      "num": 91031,
+      "word": "新款iphone14系列产品均参加双11大促",
+      "onboard_time": 1666936824,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 41519,
       "num": 301946,
       "word": "男生黑板手绘3米长新中国万岁",
@@ -43041,14 +43081,6 @@
       "onboard_time": 1665316884,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40358,
-      "num": 91031,
-      "word": "新款iphone14系列产品均参加双11大促",
-      "onboard_time": 1666936824,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 40305,
