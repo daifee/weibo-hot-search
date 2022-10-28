@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666957032324,
+  "endTime": 1666961540164,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1414553,
+      "num": 326544,
+      "word": "内蒙古工业大学回应",
+      "onboard_time": 1666959144,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376385,
       "num": 85293,
       "word": "国考",
@@ -217,6 +225,22 @@
       "onboard_time": 1666673006,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1296917,
+      "num": 496316,
+      "word": "海恩贤圭成了",
+      "onboard_time": 1666958124,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1267188,
+      "num": 496294,
+      "word": "余生请多指教豆瓣开分6",
+      "onboard_time": 1666960704,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1247510,
@@ -809,6 +833,14 @@
       "onboard_time": 1666744827,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736161,
+      "num": 736161,
+      "word": "国考河南23个岗位仍无人报考",
+      "onboard_time": 1666956743,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 735655,
@@ -1579,6 +1611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 502431,
+      "num": 502431,
+      "word": "马龙vs林昀儒",
+      "onboard_time": 1666957526,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501980,
       "num": 417392,
       "word": "BLACKPINK世巡演唱会亚洲场次",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1666746626,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 495444,
+      "num": 495444,
+      "word": "河南热奶宝有多好吃",
+      "onboard_time": 1666956264,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 494684,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1666625007,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429214,
+      "num": 429214,
+      "word": "孙颖莎vs石川佳纯",
+      "onboard_time": 1666959264,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 429186,
@@ -3587,6 +3643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 279698,
+      "num": 279698,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1666960584,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279467,
       "num": 260647,
       "word": "绝境之王C罗",
@@ -3673,6 +3737,14 @@
       "onboard_time": 1666749505,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273444,
+      "num": 273444,
+      "word": "沈梦辰演王熙凤",
+      "onboard_time": 1666961004,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 273328,
@@ -4033,6 +4105,14 @@
       "onboard_time": 1666800202,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246483,
+      "num": 246483,
+      "word": "推特将于10月28日起退市",
+      "onboard_time": 1666959804,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 245754,
@@ -4731,12 +4811,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208435,
+      "num": 208435,
+      "word": "明星唱给粉丝的歌",
+      "onboard_time": 1666961126,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 207705,
+      "num": 207705,
+      "word": "孙颖莎3比0石川佳纯",
+      "onboard_time": 1666961243,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207076,
       "num": 86223,
       "word": "孙燕姿 音乐节",
       "onboard_time": 1666587866,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206959,
+      "num": 200075,
+      "word": "中国好声音",
+      "onboard_time": 1666961004,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 206497,
@@ -4881,6 +4985,14 @@
       "onboard_time": 1666683743,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198352,
+      "num": 198352,
+      "word": "樊振东说会对自己有更高要求",
+      "onboard_time": 1666958243,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 198294,
@@ -5363,6 +5475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170167,
+      "num": 170167,
+      "word": "为什么删了喜欢很久的人",
+      "onboard_time": 1666960643,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168915,
       "num": 82480,
       "word": "秋裤是怎么做到全国统一的",
@@ -5673,6 +5793,14 @@
       "onboard_time": 1666886121,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153907,
+      "num": 153907,
+      "word": "这只猫咪好像有点呆",
+      "onboard_time": 1666958844,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 153289,
@@ -6115,6 +6243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134558,
+      "num": 134558,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1666961243,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134436,
       "num": 29050,
       "word": "山东95岁老战士查体发现颈部有子弹",
@@ -6523,6 +6659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118606,
+      "num": 118606,
+      "word": "苏有朋沉浸式变身老爷爷",
+      "onboard_time": 1666959084,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -6643,14 +6787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111647,
-      "num": 111647,
-      "word": "河南热奶宝有多好吃",
-      "onboard_time": 1666956264,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 111232,
       "num": 111232,
       "word": "gidle新歌获得一位",
@@ -6729,6 +6865,14 @@
       "onboard_time": 1666771646,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108632,
+      "num": 108632,
+      "word": "新疆男篮vs广东男篮",
+      "onboard_time": 1666957944,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 108540,
@@ -7115,6 +7259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99331,
+      "num": 99331,
+      "word": "赵睿受伤",
+      "onboard_time": 1666960824,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99287,
       "num": 99287,
       "word": "女子自学康复把失聪儿子送入大学",
@@ -7265,6 +7417,14 @@
       "onboard_time": 1666527082,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 93258,
+      "num": 93258,
+      "word": "严浩翔夏日运动会pb扫图",
+      "onboard_time": 1666958365,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93189,
@@ -7507,6 +7667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 84636,
+      "num": 84636,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84201,
       "num": 84201,
       "word": "熊猫宝宝集体睡觉现场",
@@ -7561,6 +7729,14 @@
       "onboard_time": 1666688185,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82919,
+      "num": 80208,
+      "word": "共情能力太强是缺点吗",
+      "onboard_time": 1666961483,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 82862,
@@ -7985,14 +8161,6 @@
       "onboard_time": 1666851802,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 70067,
-      "num": 70067,
-      "word": "国考河南23个岗位仍无人报考",
-      "onboard_time": 1666956743,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 69957,

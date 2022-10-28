@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1666957032324,
+  "endTime": 1666961540164,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -1523,6 +1523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1414553,
+      "num": 326544,
+      "word": "内蒙古工业大学回应",
+      "onboard_time": 1666959144,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1414130,
       "num": 263489,
       "word": "孙颖莎",
@@ -1867,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296917,
+      "num": 496316,
+      "word": "海恩贤圭成了",
+      "onboard_time": 1666958124,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1294245,
       "num": 102888,
       "word": "印度一病人输血时错输果汁后死亡",
@@ -1944,6 +1960,14 @@
       "word": "吴京拿水瓶指着王俊凯的头",
       "onboard_time": 1665199704,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1267188,
+      "num": 496294,
+      "word": "余生请多指教豆瓣开分6",
+      "onboard_time": 1666960704,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -5337,6 +5361,14 @@
       "onboard_time": 1666744827,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736161,
+      "num": 736161,
+      "word": "国考河南23个岗位仍无人报考",
+      "onboard_time": 1666956743,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 736056,
@@ -9659,6 +9691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502431,
+      "num": 502431,
+      "word": "马龙vs林昀儒",
+      "onboard_time": 1666957526,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502053,
       "num": 96881,
       "word": "老鼠钻进男生宿舍自动售卖机偷吃",
@@ -9849,6 +9889,14 @@
       "onboard_time": 1665314782,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495444,
+      "num": 495444,
+      "word": "河南热奶宝有多好吃",
+      "onboard_time": 1666956264,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 495253,
@@ -11897,6 +11945,14 @@
       "onboard_time": 1665737064,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 429214,
+      "num": 429214,
+      "word": "孙颖莎vs石川佳纯",
+      "onboard_time": 1666959264,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 429198,
@@ -19067,6 +19123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279698,
+      "num": 279698,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1666960584,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279670,
       "num": 496044,
       "word": "这十年追光之夜",
@@ -19537,6 +19601,14 @@
       "onboard_time": 1665840504,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273444,
+      "num": 273444,
+      "word": "沈梦辰演王熙凤",
+      "onboard_time": 1666961004,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 273376,
@@ -21577,6 +21649,14 @@
       "onboard_time": 1666800202,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246483,
+      "num": 246483,
+      "word": "推特将于10月28日起退市",
+      "onboard_time": 1666959804,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 246413,
@@ -24923,6 +25003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208435,
+      "num": 208435,
+      "word": "明星唱给粉丝的歌",
+      "onboard_time": 1666961126,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208312,
       "num": 277840,
       "word": "特斯拉发布2022年第三季度财报",
@@ -24953,6 +25041,14 @@
       "onboard_time": 1664872403,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207705,
+      "num": 207705,
+      "word": "孙颖莎3比0石川佳纯",
+      "onboard_time": 1666961243,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 207645,
@@ -25064,6 +25160,14 @@
       "word": "王一博街舞5舞台鹰眼",
       "onboard_time": 1665483804,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206959,
+      "num": 200075,
+      "word": "中国好声音",
+      "onboard_time": 1666961004,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -25905,6 +26009,14 @@
       "onboard_time": 1666404923,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198352,
+      "num": 198352,
+      "word": "樊振东说会对自己有更高要求",
+      "onboard_time": 1666958243,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 198312,
@@ -28691,6 +28803,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 170167,
+      "num": 170167,
+      "word": "为什么删了喜欢很久的人",
+      "onboard_time": 1666960643,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170145,
       "num": 490999,
       "word": "山东男篮vs广东男篮",
@@ -30353,6 +30473,14 @@
       "onboard_time": 1666886121,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153907,
+      "num": 153907,
+      "word": "这只猫咪好像有点呆",
+      "onboard_time": 1666958844,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 153797,
@@ -32723,6 +32851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134558,
+      "num": 134558,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1666961243,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134409,
       "num": 134409,
       "word": "王一博街舞5幕后随拍vlog",
@@ -34627,6 +34763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118606,
+      "num": 118606,
+      "word": "苏有朋沉浸式变身老爷爷",
+      "onboard_time": 1666959084,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -35443,14 +35587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111647,
-      "num": 111647,
-      "word": "河南热奶宝有多好吃",
-      "onboard_time": 1666956264,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 111637,
       "num": 111637,
       "word": "10月5日新增本土确诊183例",
@@ -35873,6 +36009,14 @@
       "onboard_time": 1665432490,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108632,
+      "num": 108632,
+      "word": "新疆男篮vs广东男篮",
+      "onboard_time": 1666957944,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 108593,
@@ -37203,6 +37347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99331,
+      "num": 99331,
+      "word": "赵睿受伤",
+      "onboard_time": 1665696311,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99287,
       "num": 99287,
       "word": "女子自学康复把失聪儿子送入大学",
@@ -37873,6 +38025,14 @@
       "onboard_time": 1664995692,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93258,
+      "num": 93258,
+      "word": "严浩翔夏日运动会pb扫图",
+      "onboard_time": 1666958365,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93189,
@@ -39019,6 +39179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84636,
+      "num": 84636,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84623,
       "num": 84623,
       "word": "SNH48十周年全家福",
@@ -39241,6 +39409,14 @@
       "onboard_time": 1666499792,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82919,
+      "num": 80208,
+      "word": "共情能力太强是缺点吗",
+      "onboard_time": 1666961483,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 82902,
@@ -40833,14 +41009,6 @@
       "onboard_time": 1666851802,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 70067,
-      "num": 70067,
-      "word": "国考河南23个岗位仍无人报考",
-      "onboard_time": 1666956743,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 69957,
@@ -46296,14 +46464,6 @@
       "word": "字母哥退役后想像邓肯一样消失",
       "onboard_time": 1664746631,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4982,
-      "num": 5117,
-      "word": "赵睿受伤",
-      "onboard_time": 1665696311,
-      "rank": 49,
       "category": "体育"
     },
     {
