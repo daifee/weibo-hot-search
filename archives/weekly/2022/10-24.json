@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1666970780855,
+  "endTime": 1666971862554,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1326292,
-      "num": 677921,
+      "num": 742911,
       "word": "武汉本轮毒株平均1人传染18人",
       "onboard_time": 1666966045,
       "rank": 23,
@@ -1099,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681376,
+      "num": 681376,
+      "word": "贪便宜买了个电动牙刷",
+      "onboard_time": 1666968448,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 673821,
       "num": 403443,
       "word": "樊振东轮空",
@@ -1539,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 537045,
+      "num": 537045,
+      "word": "台北故宫3件文物破损照曝光",
+      "onboard_time": 1666967548,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536600,
       "num": 339183,
       "word": "杨紫热辣滚烫条纹衬衫路透",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1666964184,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513791,
-      "num": 391134,
-      "word": "贪便宜买了个电动牙刷",
-      "onboard_time": 1666968448,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 512440,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1666781485,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 492370,
-      "num": 492370,
-      "word": "台北故宫3件文物破损照曝光",
-      "onboard_time": 1666967548,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492171,
@@ -2195,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430017,
+      "num": 430017,
+      "word": "短道速滑",
+      "onboard_time": 1666963587,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429908,
       "num": 156113,
       "word": "土狗被扔50公里外一星期后跑回家",
@@ -2443,14 +2451,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 410699,
-      "num": 410699,
-      "word": "短道速滑",
-      "onboard_time": 1666963587,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 409522,
       "num": 87229,
       "word": "苹果曾考虑推出塑料版iPad",
@@ -2667,6 +2667,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 384359,
+      "num": 384359,
+      "word": "北京平谷发现2例感染者",
+      "onboard_time": 1666969948,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383878,
       "num": 215352,
       "word": "iOS16.1新增APP粘贴开关",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1666541183,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 380815,
-      "num": 380815,
-      "word": "北京平谷发现2例感染者",
-      "onboard_time": 1666969948,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380667,
@@ -3569,6 +3569,14 @@
       "onboard_time": 1666590141,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302328,
+      "num": 159566,
+      "word": "北京密云发现两本土感染者",
+      "onboard_time": 1666969826,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301919,
@@ -5019,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209814,
+      "num": 209814,
+      "word": "老公天天做美食女子13天胖10斤",
+      "onboard_time": 1666968566,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208949,
       "num": 68155,
       "word": "王凯袁弘新剧开播",
@@ -5169,14 +5185,6 @@
       "onboard_time": 1666707146,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201866,
-      "num": 159566,
-      "word": "北京密云发现两本土感染者",
-      "onboard_time": 1666969826,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201634,
@@ -5595,14 +5603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177978,
-      "num": 177978,
-      "word": "老公天天做美食女子13天胖10斤",
-      "onboard_time": 1666968566,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177460,
       "num": 30675,
       "word": "程序员节",
@@ -5819,20 +5819,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165306,
+      "num": 165306,
+      "word": "自律小狗是怎么看电视的",
+      "onboard_time": 1666967188,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165200,
       "num": 165200,
       "word": "杜海涛说今日首演大吉大利",
       "onboard_time": 1666922003,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164616,
-      "num": 164616,
-      "word": "自律小狗是怎么看电视的",
-      "onboard_time": 1666967188,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 164112,
@@ -6091,6 +6091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151690,
+      "num": 151690,
+      "word": "7000年前的首富竟靠吃猪肉排名",
+      "onboard_time": 1666969105,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151658,
       "num": 129978,
       "word": "西宁疫情防控工作新闻发布会",
@@ -6185,6 +6193,14 @@
       "onboard_time": 1666914320,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146317,
+      "num": 146317,
+      "word": "原来有个饭搭子这么幸福",
+      "onboard_time": 1666968087,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 145779,
@@ -6665,14 +6681,6 @@
       "onboard_time": 1666886303,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129115,
-      "num": 129115,
-      "word": "原来有个饭搭子这么幸福",
-      "onboard_time": 1666968087,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 128874,
@@ -7225,14 +7233,6 @@
       "onboard_time": 1666923443,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107778,
-      "num": 107778,
-      "word": "7000年前的首富竟靠吃猪肉排名",
-      "onboard_time": 1666969105,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107733,
@@ -7819,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92166,
+      "num": 92166,
+      "word": "梁静茹发文告别中国好声音",
+      "onboard_time": 1666971086,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92126,
       "num": 92126,
       "word": "李冰洁再夺冠",
@@ -7969,6 +7977,14 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86766,
+      "num": 86766,
+      "word": "女生上课用手机举弹幕求上厕所",
+      "onboard_time": 1666971206,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86705,
@@ -8137,6 +8153,14 @@
       "onboard_time": 1666622846,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82081,
+      "num": 82081,
+      "word": "中国空间站的植物都长这么大了",
+      "onboard_time": 1666971327,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 81954,

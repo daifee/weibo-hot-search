@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 23:26:20
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 23:44:22
 </p>
 </blockquote>
 <p>
@@ -4761,6 +4761,12 @@ TES（热度：684055）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%23" target="weibo">
+贪便宜买了个电动牙刷（热度：681376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E5%B0%8F%E7%B2%89%E6%8B%96%E8%B7%913000%E7%B1%B3%E8%8E%B7%E9%93%B6%E7%89%8C%23" target="weibo">
 男生穿小粉拖跑3000米获银牌（热度：681100）
 </a>
@@ -6005,12 +6011,6 @@ SK（热度：578344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%89%B9%E5%87%86%E5%BC%BA%E5%88%B6%E8%8B%B9%E6%9E%9C%E4%BD%BF%E7%94%A8USB%20C%E6%8E%A5%E5%8F%A3%23" target="weibo">
 欧盟批准强制苹果使用USB C接口（热度：577887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B5%AE%E5%9B%BE%E7%BC%98%E9%A2%84%E7%BA%A6%E7%A0%B4150w%23" target="weibo">
-王鹤棣浮图缘预约破150w（热度：577648）
 </a>
 </li>
 
