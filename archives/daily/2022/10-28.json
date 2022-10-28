@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666965970496,
+  "endTime": 1666967285366,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1296917,
-      "num": 1061914,
+      "num": 1092238,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1174409,
+      "num": 1174409,
+      "word": "佩洛西丈夫在家中遇袭",
+      "onboard_time": 1666963405,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1122975,
       "num": 626247,
       "word": "男子中近800万彩票后瞒着妻子转移财产",
@@ -67,16 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1069415,
-      "num": 1069415,
-      "word": "佩洛西丈夫在家中遇袭",
-      "onboard_time": 1666963405,
-      "rank": 21,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1061030,
-      "num": 1061030,
+      "raw_hot": 1079727,
+      "num": 1079727,
       "word": "林孝埈",
       "onboard_time": 1666963884,
       "rank": 5,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712094,
+      "num": 712094,
+      "word": "女子自称是天使吃饭不买单",
+      "onboard_time": 1666963045,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711238,
       "num": 501147,
       "word": "名画戴珍珠耳环的少女遭环保组织袭击",
@@ -313,6 +321,14 @@
       "onboard_time": 1666882764,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 636174,
+      "num": 408496,
+      "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+      "onboard_time": 1666965267,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606830,
@@ -395,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514686,
-      "num": 514686,
-      "word": "女子自称是天使吃饭不买单",
-      "onboard_time": 1666963045,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514181,
       "num": 514181,
       "word": "陈梦vs陈幸同",
@@ -465,6 +473,14 @@
       "onboard_time": 1666926384,
       "rank": 8,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 457861,
+      "num": 403917,
+      "word": "英语129分男生课上读出蹩脚英文",
+      "onboard_time": 1666965506,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 450000,
@@ -571,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410699,
+      "num": 410699,
+      "word": "短道速滑",
+      "onboard_time": 1666963587,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409337,
       "num": 320118,
       "word": "美方的核讹诈吓不倒中国",
@@ -609,14 +633,6 @@
       "onboard_time": 1666955005,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 376777,
-      "num": 376777,
-      "word": "短道速滑",
-      "onboard_time": 1666963587,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 369809,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272874,
+      "num": 272874,
+      "word": "长沙马拉松调整为线上赛",
+      "onboard_time": 1666961964,
+      "rank": 34,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 268512,
       "num": 268512,
       "word": "万茜方否认是今年金鹰女神",
@@ -857,14 +881,6 @@
       "onboard_time": 1666917325,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 261106,
-      "num": 261106,
-      "word": "长沙马拉松调整为线上赛",
-      "onboard_time": 1666961964,
-      "rank": 34,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 259657,
@@ -913,6 +929,14 @@
       "onboard_time": 1666936045,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253810,
+      "num": 253810,
+      "word": "艾欧尼亚",
+      "onboard_time": 1666965446,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 249779,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225977,
+      "num": 225977,
+      "word": "武汉本轮毒株平均1人传染18人",
+      "onboard_time": 1666966045,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224858,
       "num": 224858,
       "word": "店主大姐一声声宝贝安慰走失幼童",
@@ -1107,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202788,
-      "num": 202788,
-      "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
-      "onboard_time": 1666965267,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202242,
       "num": 202242,
       "word": "LPL解说预测S12半决赛",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1666918044,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197047,
+      "num": 197047,
+      "word": "古人夏天用的冰块是哪来的",
+      "onboard_time": 1666965446,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196056,
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 164946,
-      "num": 156322,
+      "num": 160399,
       "word": "法证先锋5好敢拍",
       "onboard_time": 1666953324,
       "rank": 35,
@@ -1331,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158096,
+      "num": 158096,
+      "word": "30岁了依然期待爱情",
+      "onboard_time": 1666960885,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157651,
       "num": 157651,
       "word": "10月27日新增本土确诊214例",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1666878446,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156708,
-      "num": 156708,
-      "word": "30岁了依然期待爱情",
-      "onboard_time": 1666960885,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 155463,
@@ -1427,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145726,
-      "num": 145726,
-      "word": "艾欧尼亚",
-      "onboard_time": 1666965446,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143994,
       "num": 143994,
       "word": "马斯克收购推特意味着什么",
@@ -1467,10 +1491,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138064,
-      "num": 138064,
-      "word": "古人夏天用的冰块是哪来的",
-      "onboard_time": 1666965446,
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
+      "onboard_time": 1666966226,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -1489,14 +1513,6 @@
       "onboard_time": 1666925902,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129223,
-      "num": 129223,
-      "word": "英语129分男生课上读出蹩脚英文",
-      "onboard_time": 1666965506,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129133,
@@ -1699,12 +1715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97594,
+      "num": 97594,
+      "word": "服役39载的特级飞行员光荣停飞",
+      "onboard_time": 1666966346,
+      "rank": 43,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 97440,
       "num": 97440,
       "word": "Angelababy晒染发vlog",
       "onboard_time": 1666862725,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96404,
+      "num": 96404,
+      "word": "没想到拿个快递也会社死",
+      "onboard_time": 1666966766,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96082,
@@ -1723,6 +1755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94540,
+      "num": 94540,
+      "word": "万妮达女王发言",
+      "onboard_time": 1666965747,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "间谍过家家",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1666965026,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 94115,
-      "num": 94115,
-      "word": "万妮达女王发言",
-      "onboard_time": 1666965747,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92126,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1666965806,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 80170,
+      "num": 80170,
+      "word": "自律小狗是怎么看电视的",
+      "onboard_time": 1666967188,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79324,
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 45676,
-      "num": 1062103,
+      "num": 1102374,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,
