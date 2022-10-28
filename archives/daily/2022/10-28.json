@@ -1,10 +1,10 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666931120283,
+  "endTime": 1666933507310,
   "band_list": [
     {
       "raw_hot": 2003909,
-      "num": 502410,
+      "num": 674826,
       "word": "女大学生遭坠楼男子砸中截瘫",
       "onboard_time": 1666922364,
       "rank": 11,
@@ -59,8 +59,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814818,
+      "num": 814818,
+      "word": "5岁男孩看店1小时卖100多元香肠",
+      "onboard_time": 1666928125,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766566,
-      "num": 499033,
+      "num": 664905,
       "word": "iPhone14Pro双十一首次优惠",
       "onboard_time": 1666927703,
       "rank": 4,
@@ -89,14 +97,6 @@
       "onboard_time": 1666923625,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 659477,
-      "num": 659477,
-      "word": "5岁男孩看店1小时卖100多元香肠",
-      "onboard_time": 1666928125,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637088,
@@ -129,6 +129,14 @@
       "onboard_time": 1666913777,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501147,
+      "num": 501147,
+      "word": "名画戴珍珠耳环的少女遭环保组织袭击",
+      "onboard_time": 1666931005,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494684,
@@ -203,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 364649,
+      "num": 364649,
+      "word": "鹿晗穿越火线日本播出预告",
+      "onboard_time": 1666931365,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349171,
       "num": 349171,
       "word": "双胞胎姐妹同天同医院生娃",
@@ -219,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337796,
+      "num": 337796,
+      "word": "原来真的有追星星的人",
+      "onboard_time": 1666929564,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334579,
       "num": 334579,
       "word": "这就是公主的造型师吧",
       "onboard_time": 1666926443,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 333362,
+      "num": 333362,
+      "word": "快乐回来啦开播",
+      "onboard_time": 1666931845,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 331451,
@@ -329,6 +361,22 @@
       "onboard_time": 1666876406,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 254738,
+      "num": 254738,
+      "word": "女村干部倒挂15米深井救出孩子",
+      "onboard_time": 1666930526,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249063,
+      "num": 249063,
+      "word": "周峻纬说是时候遇见我的那束光了",
+      "onboard_time": 1666931787,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 230113,
@@ -443,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181415,
+      "num": 181415,
+      "word": "蕾哈娜新歌LiftMeUp公开",
+      "onboard_time": 1666931548,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181376,
       "num": 181376,
       "word": "公交司机半路停车买桂圆边开边吃",
       "onboard_time": 1666915044,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177345,
-      "num": 177345,
-      "word": "原来真的有追星星的人",
-      "onboard_time": 1666929564,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 169105,
@@ -523,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 159934,
+      "num": 159934,
+      "word": "打鼾是一种隐形暴力",
+      "onboard_time": 1666929623,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157651,
       "num": 157651,
       "word": "10月27日新增本土确诊214例",
@@ -587,6 +643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 140996,
+      "num": 140996,
+      "word": "不期而至",
+      "onboard_time": 1666932746,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130047,
       "num": 130047,
       "word": "独行侠加时战胜篮网",
@@ -619,12 +683,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125109,
+      "num": 125109,
+      "word": "女明星公主切造型大赏",
+      "onboard_time": 1666930106,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "日剧silent",
       "onboard_time": 1666913777,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111074,
+      "num": 111074,
+      "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+      "onboard_time": 1666933106,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110191,
+      "num": 110191,
+      "word": "换乘恋爱",
+      "onboard_time": 1666930166,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110150,
@@ -643,20 +731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106786,
-      "num": 106786,
-      "word": "女明星公主切造型大赏",
-      "onboard_time": 1666930106,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 105844,
       "num": 105844,
       "word": "爷爷奶奶住个养老院学会说绝绝子",
       "onboard_time": 1666915884,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104767,
+      "num": 104767,
+      "word": "库里33分9助攻",
+      "onboard_time": 1666932684,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 103180,
@@ -673,14 +761,6 @@
       "onboard_time": 1666913239,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97919,
-      "num": 109831,
-      "word": "打鼾是一种隐形暴力",
-      "onboard_time": 1666929623,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97440,
@@ -720,6 +800,14 @@
       "word": "18岁男子酒驾被查报父亲身份证",
       "onboard_time": 1666876585,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88539,
+      "num": 88539,
+      "word": "大熊猫在秦岭秋天的树上又掉凳了",
+      "onboard_time": 1666931787,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -769,14 +857,6 @@
       "onboard_time": 1666887203,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77545,
-      "num": 77545,
-      "word": "名画戴珍珠耳环的少女遭环保组织袭击",
-      "onboard_time": 1666931005,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75311,
@@ -915,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39581,
+      "num": 674975,
+      "word": "30个知识点带你学习党章",
+      "onboard_time": 1666919424,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 37246,
       "num": 37246,
       "word": "哈尔滨疫情防控",
@@ -955,11 +1043,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 29157,
-      "num": 254099,
-      "word": "女村干部倒挂15米深井救出孩子",
-      "onboard_time": 1666930526,
-      "rank": 14,
+      "raw_hot": 17445,
+      "num": 112162,
+      "word": "22家航司在飞猪推出快速升级金卡",
+      "onboard_time": 1666933227,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -986,6 +1074,9 @@
     },
     {
       "word": "#延安革命旧址是一本永远读不完的书#"
+    },
+    {
+      "word": "#弘扬伟大建党精神和延安精神#"
     }
   ]
 }
