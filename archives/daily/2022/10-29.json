@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666982758119,
+  "endTime": 1666984709175,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62986,
+      "num": 39906,
+      "word": "美股六大科技巨头一夜蒸发2万亿",
+      "onboard_time": 1666980974,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61115,
       "num": 61115,
       "word": "7旬夫妻为3岁女儿庆生",
@@ -417,14 +425,6 @@
       "onboard_time": 1666970605,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 39336,
-      "num": 39336,
-      "word": "美股六大科技巨头一夜蒸发2万亿",
-      "onboard_time": 1666980974,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 31410,
