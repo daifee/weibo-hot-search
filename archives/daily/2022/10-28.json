@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666953778072,
+  "endTime": 1666956035881,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783279,
-      "num": 783279,
+      "raw_hot": 806464,
+      "num": 806464,
       "word": "一人带狗独居435平",
       "onboard_time": 1666949365,
       "rank": 30,
@@ -307,6 +307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 475377,
+      "num": 475377,
+      "word": "妻子做开颅手术丈夫陪着剃光头",
+      "onboard_time": 1666951824,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464594,
       "num": 464594,
       "word": "库克回应iPhone14Pro供不应求",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355228,
+      "num": 355228,
+      "word": "江西财经大学99周年校庆",
+      "onboard_time": 1666952723,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349572,
       "num": 246177,
       "word": "邓刚手杆钓100斤石斑鱼",
@@ -563,6 +579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 314703,
+      "num": 192251,
+      "word": "胡歌川西古装剧路透",
+      "onboard_time": 1666953865,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311078,
       "num": 265505,
       "word": "青岛教资",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 291911,
-      "num": 64876,
+      "num": 72854,
       "word": "王俊凯呼吁一起保护环境",
       "onboard_time": 1666953744,
       "rank": 47,
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232951,
+      "num": 232951,
+      "word": "中餐厅全员分享食材故事",
+      "onboard_time": 1666955663,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230113,
       "num": 230113,
       "word": "丈夫太抠门被妻子告上法庭",
@@ -811,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213603,
+      "num": 213603,
+      "word": "德国总理朔尔茨将于11月4日访华",
+      "onboard_time": 1666955005,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205206,
       "num": 205206,
       "word": "彭冠英预告里摸了蔡文静9次头",
@@ -880,6 +920,14 @@
       "word": "郑州要求不得以防疫为由拒诊",
       "onboard_time": 1666879464,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186879,
+      "num": 186879,
+      "word": "大三男生自制防脱洗发水",
+      "onboard_time": 1666952424,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -995,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162865,
-      "num": 162865,
-      "word": "妻子做开颅手术丈夫陪着剃光头",
-      "onboard_time": 1666951824,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161228,
       "num": 161228,
       "word": "县委大院定档词条",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1666878446,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156322,
+      "num": 156322,
+      "word": "法证先锋5好敢拍",
+      "onboard_time": 1666953324,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 155463,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1666932746,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133052,
-      "num": 133052,
-      "word": "江西财经大学99周年校庆",
-      "onboard_time": 1666952723,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 131282,
@@ -1291,6 +1331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99531,
+      "num": 99531,
+      "word": "王源说有点冷",
+      "onboard_time": 1666954523,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97440,
       "num": 97440,
       "word": "Angelababy晒染发vlog",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1666889658,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94158,
-      "num": 94158,
-      "word": "法证先锋5好敢拍",
-      "onboard_time": 1666953324,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 91749,
@@ -1363,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83717,
+      "num": 83717,
+      "word": "想买这些家电了",
+      "onboard_time": 1666950985,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82037,
       "num": 82037,
       "word": "摊主不在饺子摊老板帮做3倍大饭团",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1666914983,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81114,
+      "num": 81114,
+      "word": "浙江男篮绝杀山东男篮",
+      "onboard_time": 1666954826,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 80942,
@@ -1417,22 +1473,6 @@
       "onboard_time": 1666936524,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78915,
-      "num": 78915,
-      "word": "大三男生自制防脱洗发水",
-      "onboard_time": 1666952424,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76951,
-      "num": 76951,
-      "word": "想买这些家电了",
-      "onboard_time": 1666950985,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 75311,
@@ -1515,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59850,
+      "num": 59850,
+      "word": "到底是谁教他们这么表演的",
+      "onboard_time": 1666955364,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57552,
       "num": 57552,
       "word": "00后小伙练咏春12年如愿成为刑警",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1666881207,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50434,
+      "num": 50434,
+      "word": "李冰洁再夺冠",
+      "onboard_time": 1666956025,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 48454,
@@ -1681,6 +1737,14 @@
       "onboard_time": 1666879165,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 27757,
+      "num": 224460,
+      "word": "男子为捐髓锻炼数月3年配型2次",
+      "onboard_time": 1666954886,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23848,
