@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666993102038,
+  "endTime": 1666995814501,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -323,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83350,
+      "num": 49831,
+      "word": "小伙网恋1年女友竟留络腮胡似李逵",
+      "onboard_time": 1666984931,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83237,
       "num": 83237,
       "word": "马嘉祺我们的歌4海报花絮视频",
@@ -345,14 +353,6 @@
       "onboard_time": 1666960704,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 71365,
-      "num": 31804,
-      "word": "小伙网恋1年女友竟留络腮胡似李逵",
-      "onboard_time": 1666984931,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71283,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 62986,
-      "num": 39906,
+      "num": 49210,
       "word": "美股六大科技巨头一夜蒸发2万亿",
       "onboard_time": 1666980974,
       "rank": 42,
@@ -435,11 +435,43 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 39838,
+      "num": 36011,
+      "word": "王一博这就是街舞5总决赛彩排照",
+      "onboard_time": 1666994290,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37422,
+      "num": 37422,
+      "word": "社恐为了逃避聚会能有多努力",
+      "onboard_time": 1666989791,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31410,
       "num": 31410,
       "word": "美丽战场",
       "onboard_time": 1666968448,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26637,
+      "num": 26637,
+      "word": "新生宝宝被夸一脸正气抬手敬礼",
+      "onboard_time": 1666991891,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26113,
+      "num": 26113,
+      "word": "段宇成求婚罗娜成功",
+      "onboard_time": 1666986491,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -451,24 +483,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20577,
-      "num": 20577,
-      "word": "段宇成求婚罗娜成功",
-      "onboard_time": 1666986491,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 19149,
-      "num": 19149,
-      "word": "社恐为了逃避聚会能有多努力",
-      "onboard_time": 1666989791,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17264,
-      "num": 17264,
+      "raw_hot": 20300,
+      "num": 20300,
       "word": "原来家电还能长这样",
       "onboard_time": 1666989791,
       "rank": 28,
@@ -481,14 +497,6 @@
       "onboard_time": 1666988350,
       "rank": 48,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 7972,
-      "num": 8521,
-      "word": "新生宝宝被夸一脸正气抬手敬礼",
-      "onboard_time": 1666991891,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6717,
