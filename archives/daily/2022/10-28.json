@@ -1,14 +1,22 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666925919104,
+  "endTime": 1666929931205,
   "band_list": [
     {
-      "raw_hot": 1925592,
-      "num": 497195,
+      "raw_hot": 2003909,
+      "num": 501339,
       "word": "女大学生遭坠楼男子砸中截瘫",
       "onboard_time": 1666922364,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 963958,
+      "num": 963958,
+      "word": "陈吉宁任上海市委书记",
+      "onboard_time": 1666926564,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 952438,
@@ -52,10 +60,18 @@
     },
     {
       "raw_hot": 751055,
-      "num": 490101,
+      "num": 495619,
       "word": "马斯克开除推特CEO和CFO",
       "onboard_time": 1666922963,
       "rank": 25,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 747592,
+      "num": 499033,
+      "word": "iPhone14Pro双十一首次优惠",
+      "onboard_time": 1666927703,
+      "rank": 4,
       "category": "科技"
     },
     {
@@ -107,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 494684,
+      "num": 494684,
+      "word": "国考已有岗位竞争超过1300比1",
+      "onboard_time": 1666924763,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 464594,
       "num": 464594,
       "word": "库克回应iPhone14Pro供不应求",
@@ -147,12 +171,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 406017,
+      "num": 406017,
+      "word": "为什么00后更愿意为兴趣买单",
+      "onboard_time": 1666926384,
+      "rank": 8,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 404294,
       "num": 404294,
       "word": "不期而至定档1102",
       "onboard_time": 1666922422,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378964,
+      "num": 353588,
+      "word": "5岁男孩看店1小时卖100多元香肠",
+      "onboard_time": 1666928125,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369809,
+      "num": 369809,
+      "word": "iPhone14全系渠道报价低于官网",
+      "onboard_time": 1666924343,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 349171,
@@ -187,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320530,
+      "num": 320530,
+      "word": "这就是公主的造型师吧",
+      "onboard_time": 1666926443,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 316492,
       "num": 316492,
       "word": "融创偷换与中融信托共管的保险柜锁芯",
@@ -196,19 +252,11 @@
     },
     {
       "raw_hot": 311078,
-      "num": 265200,
+      "num": 265505,
       "word": "青岛教资",
       "onboard_time": 1666924283,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 294063,
-      "num": 260047,
-      "word": "iPhone14全系渠道报价低于官网",
-      "onboard_time": 1666924343,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 293447,
@@ -371,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168629,
+      "num": 162851,
+      "word": "彭冠英预告里摸了蔡文静9次头",
+      "onboard_time": 1666927343,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167813,
       "num": 167813,
       "word": "大学教授回应上课给学生带礼物",
@@ -459,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153466,
+      "num": 153466,
+      "word": "吴克群说误解是人生的常态",
+      "onboard_time": 1666927464,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149858,
       "num": 149858,
       "word": "日方不得插手台湾问题",
       "onboard_time": 1666879646,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 148780,
+      "num": 148780,
+      "word": "常上夜班的人怎么提高睡眠质量",
+      "onboard_time": 1666926264,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146712,
@@ -483,12 +555,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 137519,
-      "num": 137519,
-      "word": "国考已有岗位竞争超过1300比1",
-      "onboard_time": 1666924763,
-      "rank": 28,
-      "category": "教育,社会新闻"
+      "raw_hot": 130047,
+      "num": 130047,
+      "word": "独行侠加时战胜篮网",
+      "onboard_time": 1666925902,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129133,
@@ -507,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122461,
+      "num": 122461,
+      "word": "法证先锋5出场无路人",
+      "onboard_time": 1666927524,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "日剧silent",
@@ -515,20 +595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115551,
+      "num": 115551,
+      "word": "rihanna新歌封面",
+      "onboard_time": 1666922484,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "北京10月27日新增本土确诊6例",
       "onboard_time": 1666921403,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109225,
-      "num": 109225,
-      "word": "rihanna新歌封面",
-      "onboard_time": 1666922484,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 107939,
@@ -603,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85521,
+      "num": 85521,
+      "word": "原来真的有追星星的人",
+      "onboard_time": 1666929564,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84014,
       "num": 83439,
       "word": "于和伟四部作品入围飞天奖",
@@ -627,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80942,
+      "num": 80942,
+      "word": "女生课堂上琵琶弹奏十面埋伏",
+      "onboard_time": 1666928903,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 80819,
       "num": 80819,
       "word": "法证先锋5剧情抓马",
@@ -649,14 +745,6 @@
       "onboard_time": 1666900510,
       "rank": 37,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 69820,
-      "num": 69820,
-      "word": "独行侠加时战胜篮网",
-      "onboard_time": 1666925902,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 69461,
@@ -827,6 +915,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 15694,
+      "num": 86226,
+      "word": "打鼾是一种隐形暴力",
+      "onboard_time": 1666929623,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10376,
       "num": 10376,
       "word": "林彦俊晒日常随拍",
@@ -847,6 +943,9 @@
     },
     {
       "word": "#习近平带领中共中央政治局常委赴延安#"
+    },
+    {
+      "word": "#延安革命旧址是一本永远读不完的书#"
     }
   ]
 }

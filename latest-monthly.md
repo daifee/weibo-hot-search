@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 10:58:39
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/28 12:05:31
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ RNG战胜GEN（热度：2011028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E5%9D%A0%E6%A5%BC%E7%94%B7%E5%AD%90%E7%A0%B8%E4%B8%AD%E6%88%AA%E7%98%AB%23" target="weibo">
+女大学生遭坠楼男子砸中截瘫（热度：2003909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 王楚钦vs张本智和（热度：1992534）
 </a>
@@ -563,12 +569,6 @@ RNG战胜GEN（热度：2011028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1%23" target="weibo">
 换乘恋爱（热度：1931883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E5%9D%A0%E6%A5%BC%E7%94%B7%E5%AD%90%E7%A0%B8%E4%B8%AD%E6%88%AA%E7%98%AB%23" target="weibo">
-女大学生遭坠楼男子砸中截瘫（热度：1925592）
 </a>
 </li>
 
@@ -2523,6 +2523,12 @@ Doinb（热度：969672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
+陈吉宁任上海市委书记（热度：963958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%BD%B1%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%B8%A6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23" target="weibo">
 商场回应影院不让带蜜雪冰城（热度：963062）
 </a>
@@ -3869,6 +3875,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E8%88%9E%E8%B9%88%E5%AE%B6%E7%8E%8B%E8%BF%AA%E5%8E%BB%E4%B8%96%23" target="weibo">
 青年舞蹈家王迪去世（热度：747884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%AC%A1%E4%BC%98%E6%83%A0%23" target="weibo">
+iPhone14Pro双十一首次优惠（热度：747592）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ TTG（热度：568457）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E7%88%B6%E6%AF%8D%E4%BE%9B%E5%85%BB3%E5%A5%B31%E5%84%BF%E5%85%A8%E9%83%A8%E8%AF%BB%E5%A4%A7%E5%AD%A6%23" target="weibo">
-农民父母供养3女1儿全部读大学（热度：564955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%99%8D%E6%B8%A9%E8%AE%A9%E9%A2%84%E6%8A%A5%E5%9B%BE%E5%86%B7%E5%88%B0%E5%8F%91%E7%B4%AB%23" target="weibo">
-南方降温让预报图冷到发紫（热度：564761）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6515,6 +6515,12 @@ TTG（热度：568457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%AD%89%E7%9E%BB%E4%BB%B0%E4%B8%AD%E5%85%B1%E4%B8%83%E5%A4%A7%E4%BC%9A%E5%9D%80%23%23" target="weibo">
 #习近平等瞻仰中共七大会址#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E6%97%A7%E5%9D%80%E6%98%AF%E4%B8%80%E6%9C%AC%E6%B0%B8%E8%BF%9C%E8%AF%BB%E4%B8%8D%E5%AE%8C%E7%9A%84%E4%B9%A6%23%23" target="weibo">
+#延安革命旧址是一本永远读不完的书#
 </a>
 </li>
 
