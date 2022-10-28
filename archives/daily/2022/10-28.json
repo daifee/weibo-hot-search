@@ -1,6 +1,6 @@
 {
   "startTime": 1666888514010,
-  "endTime": 1666936022585,
+  "endTime": 1666938607897,
   "band_list": [
     {
       "raw_hot": 2003909,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676834,
+      "num": 528780,
+      "word": "李诞解开了我对友谊的困惑",
+      "onboard_time": 1666934545,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663491,
       "num": 204694,
       "word": "迪丽热巴撑伞的酷飒瞬间",
@@ -131,6 +139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 553592,
+      "num": 527685,
+      "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
+      "onboard_time": 1666933106,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534290,
       "num": 534290,
       "word": "当学校请了温太医来开讲座",
@@ -139,11 +155,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 533014,
-      "num": 362117,
-      "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
-      "onboard_time": 1666933106,
-      "rank": 41,
+      "raw_hot": 532298,
+      "num": 532298,
+      "word": "义乌厂家50天赶工10万个足球",
+      "onboard_time": 1666935266,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526999,
+      "num": 526999,
+      "word": "陈小春张智霖浮夸舞台剃头",
+      "onboard_time": 1666937005,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 523331,
+      "num": 523331,
+      "word": "男子嫌消防出警太吵六楼扔饮料瓶",
+      "onboard_time": 1666934123,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -275,12 +307,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 323667,
+      "num": 323667,
+      "word": "王一博街舞5得奖敬礼",
+      "onboard_time": 1666936524,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322534,
       "num": 322534,
       "word": "大爷卖的糖葫芦爬满蜜蜂",
       "onboard_time": 1666875206,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317275,
+      "num": 317275,
+      "word": "张远应援陈楚生翻车",
+      "onboard_time": 1666937304,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 316492,
@@ -371,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258232,
-      "num": 243959,
-      "word": "男子嫌消防出警太吵六楼扔饮料瓶",
-      "onboard_time": 1666934123,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257551,
       "num": 257551,
       "word": "rihanna新歌封面",
@@ -395,6 +435,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 256390,
+      "num": 256390,
+      "word": "RedVelvet将11月回归",
+      "onboard_time": 1666936045,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249063,
       "num": 249063,
       "word": "周峻纬说是时候遇见我的那束光了",
@@ -403,20 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232204,
-      "num": 232204,
-      "word": "李诞解开了我对友谊的困惑",
-      "onboard_time": 1666934545,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230113,
       "num": 230113,
       "word": "丈夫太抠门被妻子告上法庭",
       "onboard_time": 1666878085,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225133,
+      "num": 225133,
+      "word": "英雄联盟S12",
+      "onboard_time": 1666937903,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 219257,
@@ -483,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198760,
+      "num": 198760,
+      "word": "三体我正在想你",
+      "onboard_time": 1666936585,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198099,
       "num": 198099,
       "word": "苹果发布2022第四财季财报",
@@ -521,6 +577,14 @@
       "onboard_time": 1666882584,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184688,
+      "num": 184688,
+      "word": "手机充电进入个位数时代",
+      "onboard_time": 1666937903,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 183824,
@@ -811,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99891,
+      "num": 99891,
+      "word": "驻呼高校学生将分流返乡",
+      "onboard_time": 1666938084,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 97440,
       "num": 97440,
       "word": "Angelababy晒染发vlog",
@@ -835,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92302,
+      "num": 92302,
+      "word": "男子为救白血病儿子一天打两份工",
+      "onboard_time": 1666936765,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91749,
       "num": 86213,
       "word": "曾凡博关键失误",
@@ -848,14 +928,6 @@
       "word": "18岁男子酒驾被查报父亲身份证",
       "onboard_time": 1666876585,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85492,
-      "num": 85492,
-      "word": "义乌厂家50天赶工10万个足球",
-      "onboard_time": 1666935266,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -920,6 +992,14 @@
       "word": "男子凌晨遇气肿流浪猫收养送医",
       "onboard_time": 1666873523,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69380,
+      "num": 69380,
+      "word": "解压视频有多上头",
+      "onboard_time": 1666936524,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53201,
+      "num": 278170,
+      "word": "对话刮腻子世界冠军",
+      "onboard_time": 1666936883,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50712,
       "num": 50712,
       "word": "LESSERAFIM校庆舞台饭拍",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1666919424,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 40358,
+      "num": 91031,
+      "word": "新款iphone14系列产品均参加双11大促",
+      "onboard_time": 1666936824,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 37246,

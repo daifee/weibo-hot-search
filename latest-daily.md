@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/28 00:35:14 ~ 2022/10/28 13:47:02
+本榜单时间：2022/10/28 00:35:14 ~ 2022/10/28 14:30:07
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@ iPhone14Pro双十一首次优惠（热度：766566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%E8%A7%A3%E5%BC%80%E4%BA%86%E6%88%91%E5%AF%B9%E5%8F%8B%E8%B0%8A%E7%9A%84%E5%9B%B0%E6%83%91%23" target="weibo">
+李诞解开了我对友谊的困惑（热度：676834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%92%91%E4%BC%9E%E7%9A%84%E9%85%B7%E9%A3%92%E7%9E%AC%E9%97%B4%23" target="weibo">
 迪丽热巴撑伞的酷飒瞬间（热度：663491）
 </a>
@@ -111,14 +117,32 @@ iPhone14Pro双十一首次优惠（热度：766566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8A%8A%E5%8D%8A%E5%B2%81%E5%AE%9D%E5%AE%9D%E9%A1%B6%E5%A4%B4%E4%B8%8A%E5%86%92%E9%9B%A8%E8%B7%91%E9%81%AD%E8%B4%A8%E7%96%91%23" target="weibo">
+爸爸把半岁宝宝顶头上冒雨跑遭质疑（热度：553592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%AD%A6%E6%A0%A1%E8%AF%B7%E4%BA%86%E6%B8%A9%E5%A4%AA%E5%8C%BB%E6%9D%A5%E5%BC%80%E8%AE%B2%E5%BA%A7%23" target="weibo">
 当学校请了温太医来开讲座（热度：534290）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8A%8A%E5%8D%8A%E5%B2%81%E5%AE%9D%E5%AE%9D%E9%A1%B6%E5%A4%B4%E4%B8%8A%E5%86%92%E9%9B%A8%E8%B7%91%E9%81%AD%E8%B4%A8%E7%96%91%23" target="weibo">
-爸爸把半岁宝宝顶头上冒雨跑遭质疑（热度：533014）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E5%8E%82%E5%AE%B650%E5%A4%A9%E8%B5%B6%E5%B7%A510%E4%B8%87%E4%B8%AA%E8%B6%B3%E7%90%83%23" target="weibo">
+义乌厂家50天赶工10万个足球（热度：532298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E5%BC%A0%E6%99%BA%E9%9C%96%E6%B5%AE%E5%A4%B8%E8%88%9E%E5%8F%B0%E5%89%83%E5%A4%B4%23" target="weibo">
+陈小春张智霖浮夸舞台剃头（热度：526999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AB%8C%E6%B6%88%E9%98%B2%E5%87%BA%E8%AD%A6%E5%A4%AA%E5%90%B5%E5%85%AD%E6%A5%BC%E6%89%94%E9%A5%AE%E6%96%99%E7%93%B6%23" target="weibo">
+男子嫌消防出警太吵六楼扔饮料瓶（热度：523331）
 </a>
 </li>
 
@@ -219,8 +243,20 @@ iPhone14全系渠道报价低于官网（热度：369809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A1%97%E8%88%9E5%E5%BE%97%E5%A5%96%E6%95%AC%E7%A4%BC%23" target="weibo">
+王一博街舞5得奖敬礼（热度：323667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%8D%96%E7%9A%84%E7%B3%96%E8%91%AB%E8%8A%A6%E7%88%AC%E6%BB%A1%E8%9C%9C%E8%9C%82%23" target="weibo">
 大爷卖的糖葫芦爬满蜜蜂（热度：322534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%BA%94%E6%8F%B4%E9%99%88%E6%A5%9A%E7%94%9F%E7%BF%BB%E8%BD%A6%23" target="weibo">
+张远应援陈楚生翻车（热度：317275）
 </a>
 </li>
 
@@ -291,12 +327,6 @@ Lisa舞台反应能力（热度：293447）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AB%8C%E6%B6%88%E9%98%B2%E5%87%BA%E8%AD%A6%E5%A4%AA%E5%90%B5%E5%85%AD%E6%A5%BC%E6%89%94%E9%A5%AE%E6%96%99%E7%93%B6%23" target="weibo">
-男子嫌消防出警太吵六楼扔饮料瓶（热度：258232）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23rihanna%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%23" target="weibo">
 rihanna新歌封面（热度：257551）
 </a>
@@ -309,20 +339,26 @@ rihanna新歌封面（热度：257551）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RedVelvet%E5%B0%8611%E6%9C%88%E5%9B%9E%E5%BD%92%23" target="weibo">
+RedVelvet将11月回归（热度：256390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%B3%BB%E7%BA%AC%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E9%81%87%E8%A7%81%E6%88%91%E7%9A%84%E9%82%A3%E6%9D%9F%E5%85%89%E4%BA%86%23" target="weibo">
 周峻纬说是时候遇见我的那束光了（热度：249063）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%E8%A7%A3%E5%BC%80%E4%BA%86%E6%88%91%E5%AF%B9%E5%8F%8B%E8%B0%8A%E7%9A%84%E5%9B%B0%E6%83%91%23" target="weibo">
-李诞解开了我对友谊的困惑（热度：232204）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%A4%AA%E6%8A%A0%E9%97%A8%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23" target="weibo">
+丈夫太抠门被妻子告上法庭（热度：230113）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%A4%AA%E6%8A%A0%E9%97%A8%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23" target="weibo">
-丈夫太抠门被妻子告上法庭（热度：230113）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS12%23" target="weibo">
+英雄联盟S12（热度：225133）
 </a>
 </li>
 
@@ -375,6 +411,12 @@ LPL解说预测S12半决赛（热度：202242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E6%88%91%E6%AD%A3%E5%9C%A8%E6%83%B3%E4%BD%A0%23" target="weibo">
+三体我正在想你（热度：198760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%832022%E7%AC%AC%E5%9B%9B%E8%B4%A2%E5%AD%A3%E8%B4%A2%E6%8A%A5%23" target="weibo">
 苹果发布2022第四财季财报（热度：198099）
 </a>
@@ -401,6 +443,12 @@ LPL解说预测S12半决赛（热度：202242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A2%AB%E5%A4%B8%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BE%88%E5%BF%AB%E4%B9%90%23" target="weibo">
 原来被夸真的会很快乐（热度：185489）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E8%BF%9B%E5%85%A5%E4%B8%AA%E4%BD%8D%E6%95%B0%E6%97%B6%E4%BB%A3%23" target="weibo">
+手机充电进入个位数时代（热度：184688）
 </a>
 </li>
 
@@ -621,6 +669,12 @@ LPL解说预测S12半决赛（热度：202242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E5%91%BC%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%B0%86%E5%88%86%E6%B5%81%E8%BF%94%E4%B9%A1%23" target="weibo">
+驻呼高校学生将分流返乡（热度：99891）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E6%99%92%E6%9F%93%E5%8F%91vlog%23" target="weibo">
 Angelababy晒染发vlog（热度：97440）
 </a>
@@ -639,6 +693,12 @@ Angelababy晒染发vlog（热度：97440）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E6%95%91%E7%99%BD%E8%A1%80%E7%97%85%E5%84%BF%E5%AD%90%E4%B8%80%E5%A4%A9%E6%89%93%E4%B8%A4%E4%BB%BD%E5%B7%A5%23" target="weibo">
+男子为救白血病儿子一天打两份工（热度：92302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%87%A1%E5%8D%9A%E5%85%B3%E9%94%AE%E5%A4%B1%E8%AF%AF%23" target="weibo">
 曾凡博关键失误（热度：91749）
 </a>
@@ -647,12 +707,6 @@ Angelababy晒染发vlog（热度：97440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E6%8A%A5%E7%88%B6%E4%BA%B2%E8%BA%AB%E4%BB%BD%E8%AF%81%23" target="weibo">
 18岁男子酒驾被查报父亲身份证（热度：88938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E5%8E%82%E5%AE%B650%E5%A4%A9%E8%B5%B6%E5%B7%A510%E4%B8%87%E4%B8%AA%E8%B6%B3%E7%90%83%23" target="weibo">
-义乌厂家50天赶工10万个足球（热度：85492）
 </a>
 </li>
 
@@ -701,6 +755,12 @@ Angelababy晒染发vlog（热度：97440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E9%81%87%E6%B0%94%E8%82%BF%E6%B5%81%E6%B5%AA%E7%8C%AB%E6%94%B6%E5%85%BB%E9%80%81%E5%8C%BB%23" target="weibo">
 男子凌晨遇气肿流浪猫收养送医（热度：69461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%8E%8B%E8%A7%86%E9%A2%91%E6%9C%89%E5%A4%9A%E4%B8%8A%E5%A4%B4%23" target="weibo">
+解压视频有多上头（热度：69380）
 </a>
 </li>
 
@@ -765,6 +825,12 @@ Angelababy晒染发vlog（热度：97440）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%AF%9D%E5%88%AE%E8%85%BB%E5%AD%90%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+对话刮腻子世界冠军（热度：53201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LESSERAFIM%E6%A0%A1%E5%BA%86%E8%88%9E%E5%8F%B0%E9%A5%AD%E6%8B%8D%23" target="weibo">
 LESSERAFIM校庆舞台饭拍（热度：50712）
 </a>
@@ -797,6 +863,12 @@ LESSERAFIM校庆舞台饭拍（热度：50712）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2330%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9%E5%B8%A6%E4%BD%A0%E5%AD%A6%E4%B9%A0%E5%85%9A%E7%AB%A0%23" target="weibo">
 30个知识点带你学习党章（热度：45676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiphone14%E7%B3%BB%E5%88%97%E4%BA%A7%E5%93%81%E5%9D%87%E5%8F%82%E5%8A%A0%E5%8F%8C11%E5%A4%A7%E4%BF%83%23" target="weibo">
+新款iphone14系列产品均参加双11大促（热度：40358）
 </a>
 </li>
 
