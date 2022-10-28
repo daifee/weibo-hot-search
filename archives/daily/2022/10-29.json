@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1666981758328,
+  "endTime": 1666982758119,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -419,6 +419,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 39336,
+      "num": 39336,
+      "word": "美股六大科技巨头一夜蒸发2万亿",
+      "onboard_time": 1666980974,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31410,
       "num": 31410,
       "word": "美丽战场",
@@ -433,14 +441,6 @@
       "onboard_time": 1666960885,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22306,
-      "num": 22306,
-      "word": "美股六大科技巨头一夜蒸发2万亿",
-      "onboard_time": 1666980974,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 6717,
