@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 07:42:43
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 10:02:35
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ Apple（热度：868948）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E7%94%B7%E7%94%9F%E5%88%9A%E8%BF%9B%E9%AB%98%E4%B8%AD%E5%B0%B1%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
+长沙一男生刚进高中就被清华录取（热度：855046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022MAMA%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83%23" target="weibo">
 2022MAMA提名公布（热度：855042）
 </a>
@@ -5361,6 +5367,12 @@ iPhone6二手收购价低至100元（热度：632338）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E8%B5%9B%E5%B0%94%E9%82%A6%E8%BE%B0%E4%B8%8E%E5%B8%83%E9%9B%B7%E8%BF%AA%E7%A6%BB%E5%A9%9A%23" target="weibo">
+吉赛尔邦辰与布雷迪离婚（热度：629081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%8E%E5%85%88%E8%BF%9B%E4%B8%8D%E5%AE%9C%E5%B1%95%E7%A4%BA%E7%9A%84%E7%94%BB%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
 过于先进不宜展示的画面来了（热度：628008）
 </a>
@@ -5715,6 +5727,12 @@ LPL小组赛第二日全胜（热度：599733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BD%91%E8%B4%AD%E6%8A%BD%E7%BA%B8%E5%8F%91%E7%8E%B0%E6%AF%8F%E5%8C%85%E5%B0%91%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%23" target="weibo">
+男生网购抽纸发现每包少四分之一（热度：599719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%23" target="weibo">
 关于十九届中央委员会报告的决议通过（热度：598546）
 </a>
@@ -5993,24 +6011,6 @@ iPhone全部支持电量百分比（热度：587820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%BC%82%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%88%9D%E6%81%8B%E5%86%8D%E5%A9%9A%E7%BB%84%E6%88%90%E5%85%AD%E5%8F%A3%E4%B9%8B%E5%AE%B6%23" target="weibo">
 离异女子与初恋再婚组成六口之家（热度：579394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A2%84%E5%94%AE%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%BC%80%E5%90%AF%23" target="weibo">
-双十一预售今晚8点开启（热度：579112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%A4%AA%E6%8A%A0%E9%97%A8%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23" target="weibo">
-丈夫太抠门被妻子告上法庭（热度：578775）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23SK%23" target="weibo">
-SK（热度：578344）
 </a>
 </li>
 

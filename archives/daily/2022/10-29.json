@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667000563364,
+  "endTime": 1667008955233,
   "band_list": [
     {
       "raw_hot": 2002740,
@@ -19,12 +19,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855046,
+      "num": 855046,
+      "word": "长沙一男生刚进高中就被清华录取",
+      "onboard_time": 1667003661,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 629081,
+      "num": 629081,
+      "word": "吉赛尔邦辰与布雷迪离婚",
+      "onboard_time": 1667002401,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 614025,
       "num": 614025,
       "word": "贪便宜买了个电动牙刷",
       "onboard_time": 1666968448,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 599719,
+      "num": 599719,
+      "word": "男生网购抽纸发现每包少四分之一",
+      "onboard_time": 1667004082,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590187,
@@ -41,6 +65,30 @@
       "onboard_time": 1666960643,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 498793,
+      "num": 498793,
+      "word": "网传琅琊榜3双男主",
+      "onboard_time": 1667000779,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 456755,
+      "num": 456755,
+      "word": "林孝埈一过五正面视角",
+      "onboard_time": 1667001198,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420469,
+      "num": 331882,
+      "word": "苹果市值一夜暴涨1761亿美元",
+      "onboard_time": 1667007922,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 417888,
@@ -99,6 +147,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 292451,
+      "num": 292451,
+      "word": "教资",
+      "onboard_time": 1667000360,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 291308,
       "num": 291308,
       "word": "短道速滑",
@@ -108,15 +164,31 @@
     },
     {
       "raw_hot": 285564,
-      "num": 164267,
+      "num": 166769,
       "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
       "onboard_time": 1666965267,
       "rank": 21,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268028,
+      "num": 268028,
+      "word": "经不起诱惑的小狗",
+      "onboard_time": 1667005882,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267468,
+      "num": 267468,
+      "word": "刘德华恭喜李克勤再获冠军导师",
+      "onboard_time": 1667001018,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265518,
-      "num": 181190,
+      "num": 252258,
       "word": "普京称特拉斯脑子不太正常",
       "onboard_time": 1666974802,
       "rank": 33,
@@ -131,12 +203,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242052,
+      "num": 242052,
+      "word": "北京10月28日新增社会面感染者3例",
+      "onboard_time": 1667005162,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239105,
       "num": 239105,
       "word": "女生上课用手机举弹幕求上厕所",
       "onboard_time": 1666971206,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238778,
+      "num": 238778,
+      "word": "王者荣耀",
+      "onboard_time": 1666998916,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 231653,
@@ -219,6 +307,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 172784,
+      "num": 172784,
+      "word": "王一博街舞5黑白四宫格剧照",
+      "onboard_time": 1667007742,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168526,
+      "num": 168526,
+      "word": "应采儿集齐了9个陈小春",
+      "onboard_time": 1666999458,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "美股六大科技巨头一夜蒸发2万亿",
@@ -251,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159825,
-      "num": 159825,
-      "word": "教资",
-      "onboard_time": 1667000360,
-      "rank": 16,
-      "category": "教育,社会新闻"
+      "raw_hot": 158483,
+      "num": 158483,
+      "word": "娜妍熙斗复合",
+      "onboard_time": 1667001921,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 149186,
@@ -265,6 +369,14 @@
       "onboard_time": 1666960584,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "内娱输给了游乐园NPC",
+      "onboard_time": 1667008642,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132273,
@@ -299,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123141,
-      "num": 69587,
-      "word": "应采儿集齐了9个陈小春",
-      "onboard_time": 1666999458,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 121950,
+      "num": 121950,
+      "word": "彩色修复李大钊生前唯一的视频",
+      "onboard_time": 1667005764,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117796,
@@ -313,6 +425,22 @@
       "onboard_time": 1666953324,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114032,
+      "num": 114032,
+      "word": "刘昊然董子健我的朋友安德烈",
+      "onboard_time": 1667001381,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110827,
+      "num": 110827,
+      "word": "张柏芝怼脸视频",
+      "onboard_time": 1667008823,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 109867,
@@ -355,6 +483,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101560,
+      "num": 101560,
+      "word": "对照自测是否为卒中高危人群",
+      "onboard_time": 1667005401,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98623,
+      "num": 98623,
+      "word": "马嘉祺翻唱的想着你",
+      "onboard_time": 1667004143,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93645,
+      "num": 93645,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1667002641,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91885,
+      "num": 91885,
+      "word": "80后宝妈石头画栩栩如生卖上千元",
+      "onboard_time": 1667007083,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91876,
       "num": 91876,
       "word": "艾欧尼亚",
@@ -387,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87955,
-      "num": 87955,
-      "word": "王者荣耀",
-      "onboard_time": 1666998916,
+      "raw_hot": 85352,
+      "num": 85352,
+      "word": "短道速滑世界杯",
+      "onboard_time": 1667001621,
       "rank": 47,
-      "category": "游戏"
+      "category": "体育"
     },
     {
       "raw_hot": 83237,
@@ -416,6 +576,14 @@
       "word": "余生请多指教豆瓣开分6",
       "onboard_time": 1666960704,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 73268,
+      "num": 73268,
+      "word": "金汤匙",
+      "onboard_time": 1667002039,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -540,7 +708,7 @@
     },
     {
       "raw_hot": 6717,
-      "num": 555364,
+      "num": 674752,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,
