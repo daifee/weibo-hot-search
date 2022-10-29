@@ -1,0 +1,410 @@
+{
+  "runTime": 1667036316085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2114631,
+        "num": 2114631,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808585,
+        "num": 808585,
+        "word": "研究发现越上网越不爱生孩子",
+        "onboard_time": 1667030003,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42451,
+        "num": 769037,
+        "word": "深秋里的诗意中国",
+        "onboard_time": 1667025560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735173,
+        "num": 735173,
+        "word": "iPhone15Pro或取消物理按键",
+        "onboard_time": 1667030962,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 712080,
+        "num": 712080,
+        "word": "中国好声音产生首位广西籍冠军",
+        "onboard_time": 1667034684,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373349,
+        "num": 373349,
+        "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+        "onboard_time": 1667027422,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 362094,
+        "num": 362094,
+        "word": "西安辅警执勤中被撞不幸牺牲",
+        "onboard_time": 1667030483,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354394,
+        "num": 354394,
+        "word": "专硕将扩大至研究生招生三分之二",
+        "onboard_time": 1667022378,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340606,
+        "num": 340606,
+        "word": "斯人版的教材被找到了",
+        "onboard_time": 1667025982,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326167,
+        "num": 326167,
+        "word": "教资科二",
+        "onboard_time": 1667026710,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 390460,
+        "num": 316555,
+        "word": "延长专硕学制已成趋势",
+        "onboard_time": 1667033543,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 297339,
+        "num": 297339,
+        "word": "S12半决赛",
+        "onboard_time": 1667032824,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278345,
+        "num": 278345,
+        "word": "南京金盛百货失火浓烟滚滚",
+        "onboard_time": 1667035401,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226159,
+        "num": 226159,
+        "word": "刘学义彭小苒画眉海报",
+        "onboard_time": 1667032641,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225071,
+        "num": 225071,
+        "word": "BamBam我的换乘恋爱嘴替",
+        "onboard_time": 1667031443,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217628,
+        "num": 217628,
+        "word": "5岁男孩获救后忍着疼大声说谢谢",
+        "onboard_time": 1667030721,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214781,
+        "num": 214781,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210570,
+        "num": 210570,
+        "word": "女生用300条纸带5天做出梵高星空",
+        "onboard_time": 1667032762,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163264,
+        "num": 163264,
+        "word": "徐梦洁是你舞台",
+        "onboard_time": 1667033664,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158020,
+        "num": 158020,
+        "word": "专硕将成未来考研主流",
+        "onboard_time": 1667025081,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148980,
+        "num": 148980,
+        "word": "林俊杰7千3百多天于11月1日上架",
+        "onboard_time": 1667023822,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143223,
+        "num": 143223,
+        "word": "人只会嘲笑和自己相近的人",
+        "onboard_time": 1667035043,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135477,
+        "num": 135477,
+        "word": "原相机下的许凯",
+        "onboard_time": 1667032283,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133360,
+        "num": 133360,
+        "word": "女生网购抽纸逐张数后少32抽",
+        "onboard_time": 1667034804,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124551,
+        "num": 124551,
+        "word": "三体",
+        "onboard_time": 1667019983,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121003,
+        "num": 121003,
+        "word": "2岁萌娃砸电视帮葫芦娃救爷爷",
+        "onboard_time": 1667028502,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 115545,
+        "word": "杨超越晒秋天live图",
+        "onboard_time": 1667033664,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114454,
+        "num": 114454,
+        "word": "教资答案",
+        "onboard_time": 1667013382,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "欧文",
+        "onboard_time": 1667018243,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111533,
+        "num": 111533,
+        "word": "班主任在考卷上贴棒棒糖鼓励学生",
+        "onboard_time": 1667032885,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "教资科一",
+        "onboard_time": 1667018901,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107404,
+        "num": 107404,
+        "word": "白鹿奔跑吧特别季蓝色毛衣路透",
+        "onboard_time": 1667024485,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105651,
+        "num": 105651,
+        "word": "阿拉山口海关截获境外土壤3300公斤",
+        "onboard_time": 1667024181,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101779,
+        "num": 101779,
+        "word": "27岁女孩为19岁女孩捐造血干细胞",
+        "onboard_time": 1667017582,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 99957,
+        "num": 99957,
+        "word": "Jennie晒演唱会后台照",
+        "onboard_time": 1667027901,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98633,
+        "num": 98633,
+        "word": "南波万的聚会",
+        "onboard_time": 1667016922,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "苏醒是在踢空气足球吗",
+        "onboard_time": 1667034863,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95456,
+        "num": 95456,
+        "word": "王者荣耀古今物语",
+        "onboard_time": 1667034982,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87248,
+        "num": 87248,
+        "word": "Aster止步TI四强",
+        "onboard_time": 1667030003,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84457,
+        "num": 84457,
+        "word": "林孝埈状态",
+        "onboard_time": 1667018361,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95295,
+        "num": 84349,
+        "word": "刘诗诗烟熏妆侧颜随拍",
+        "onboard_time": 1667023159,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89472,
+        "num": 84277,
+        "word": "陈楚生一剑封喉式接词",
+        "onboard_time": 1667034201,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83881,
+        "num": 83881,
+        "word": "这两只狗狗参加过军训吧",
+        "onboard_time": 1667028922,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79418,
+        "num": 79418,
+        "word": "男子因他人PPT做得好顺走电脑",
+        "onboard_time": 1667015183,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79357,
+        "num": 79357,
+        "word": "黑龙江漠河的跑冰排景象太壮观",
+        "onboard_time": 1667032283,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 78981,
+        "num": 78981,
+        "word": "西安一高校同寝室3女生全保研",
+        "onboard_time": 1667023102,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76950,
+        "num": 76950,
+        "word": "男子水缸种莲藕丰收后砸缸取藕",
+        "onboard_time": 1667018783,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66047,
+        "num": 66047,
+        "word": "道教学生回应上课学中医算八字",
+        "onboard_time": 1667023522,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 54821,
+        "word": "苹果市值一夜暴涨1761亿美元",
+        "onboard_time": 1667007922,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 53900,
+        "num": 53900,
+        "word": "十几岁的心动有多难忘",
+        "onboard_time": 1667036303,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#发扬延安精神和红旗渠精神#"
+    }
+  }
+}

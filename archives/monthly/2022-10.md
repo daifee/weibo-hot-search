@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 17:22:02
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 17:38:36
 </p>
 </blockquote>
 <p>
@@ -4449,6 +4449,12 @@ S12八强没有LPL内战（热度：730041）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%A7%E7%94%9F%E9%A6%96%E4%BD%8D%E5%B9%BF%E8%A5%BF%E7%B1%8D%E5%86%A0%E5%86%9B%23" target="weibo">
+中国好声音产生首位广西籍冠军（热度：712080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 BLACKPINK演唱会（热度：711797）
 </a>
@@ -6005,12 +6011,6 @@ iPhone全部支持电量百分比（热度：587820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9C%A8%E8%B4%9D%E6%8B%89%E8%BA%AB%E4%B8%8A%E5%96%B7%E5%87%BA%E7%A4%BC%E6%9C%8D%23" target="weibo">
 设计师在贝拉身上喷出礼服（热度：586348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%8C%BA%E8%BF%94%E4%BA%AC%E5%90%8E3%E5%A4%A92%E6%A3%80%E5%8F%AF%E8%A7%A3%E9%99%A4%E5%BC%B9%E7%AA%97%23" target="weibo">
-低风险区返京后3天2检可解除弹窗（热度：585861）
 </a>
 </li>
 

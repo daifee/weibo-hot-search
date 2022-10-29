@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667035322017,
+  "endTime": 1667036316085,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -121,6 +121,14 @@
       "onboard_time": 1667030962,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 712080,
+      "num": 712080,
+      "word": "中国好声音产生首位广西籍冠军",
+      "onboard_time": 1667034684,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 694522,
@@ -284,11 +292,19 @@
     },
     {
       "raw_hot": 399728,
-      "num": 300075,
+      "num": 362094,
       "word": "西安辅警执勤中被撞不幸牺牲",
       "onboard_time": 1667030483,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390460,
+      "num": 316555,
+      "word": "延长专硕学制已成趋势",
+      "onboard_time": 1667033543,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 387334,
@@ -337,14 +353,6 @@
       "onboard_time": 1666967548,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356760,
-      "num": 356760,
-      "word": "中国好声音产生首位广西籍冠军",
-      "onboard_time": 1667034684,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 347158,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278345,
+      "num": 278345,
+      "word": "南京金盛百货失火浓烟滚滚",
+      "onboard_time": 1667035401,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 277075,
       "num": 277075,
       "word": "经不起诱惑的小狗",
       "onboard_time": 1667005882,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269619,
-      "num": 269619,
-      "word": "延长专硕学制已成趋势",
-      "onboard_time": 1667033543,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267468,
@@ -555,6 +563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 217628,
+      "num": 217628,
+      "word": "5岁男孩获救后忍着疼大声说谢谢",
+      "onboard_time": 1667030721,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "莱万怀疑加盟巴萨决定",
@@ -585,6 +601,14 @@
       "onboard_time": 1666961004,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210570,
+      "num": 210570,
+      "word": "女生用300条纸带5天做出梵高星空",
+      "onboard_time": 1667032762,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209580,
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184562,
-      "num": 184562,
-      "word": "5岁男孩获救后忍着疼大声说谢谢",
-      "onboard_time": 1667030721,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180807,
       "num": 180807,
       "word": "金华一老人幼儿园接错娃",
@@ -801,14 +817,6 @@
       "onboard_time": 1667017163,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167198,
-      "num": 167198,
-      "word": "女生用300条纸带5天做出梵高星空",
-      "onboard_time": 1667032762,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167116,
@@ -915,6 +923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133360,
+      "num": 133360,
+      "word": "女生网购抽纸逐张数后少32抽",
+      "onboard_time": 1667034804,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "彩色修复李大钊生前唯一的视频",
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 117214,
-      "num": 102376,
+      "num": 115545,
       "word": "杨超越晒秋天live图",
       "onboard_time": 1667033664,
       "rank": 31,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1667001381,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111533,
+      "num": 111533,
+      "word": "班主任在考卷上贴棒棒糖鼓励学生",
+      "onboard_time": 1667032885,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 109867,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 105805,
-      "num": 83282,
+      "num": 97524,
       "word": "苏醒是在踢空气足球吗",
       "onboard_time": 1667034863,
       "rank": 40,
@@ -1131,20 +1155,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95456,
+      "num": 95456,
+      "word": "王者荣耀古今物语",
+      "onboard_time": 1667034982,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93645,
       "num": 93645,
       "word": "湖人vs森林狼",
       "onboard_time": 1667002641,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93153,
-      "num": 93153,
-      "word": "班主任在考卷上贴棒棒糖鼓励学生",
-      "onboard_time": 1667032885,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 91885,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1666972465,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 89472,
+      "num": 84277,
+      "word": "陈楚生一剑封喉式接词",
+      "onboard_time": 1667034201,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 89427,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1667001621,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83599,
-      "num": 83599,
-      "word": "女生网购抽纸逐张数后少32抽",
-      "onboard_time": 1667034804,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83237,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1667010922,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75582,
-      "num": 75582,
-      "word": "王者荣耀古今物语",
-      "onboard_time": 1667034982,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 73325,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1667025560,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53900,
+      "num": 53900,
+      "word": "十几岁的心动有多难忘",
+      "onboard_time": 1667036303,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 52013,
