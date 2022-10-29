@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667051200268,
+  "endTime": 1667053314267,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -75,12 +75,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1182672,
+      "num": 1182672,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1667050224,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1119720,
       "num": 1119720,
       "word": "教资科三",
       "onboard_time": 1667038644,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1115186,
+      "num": 420298,
+      "word": "富士康",
+      "onboard_time": 1667052623,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076107,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1039005,
-      "num": 391492,
+      "num": 408887,
       "word": "迪丽热巴今晚直播生图",
       "onboard_time": 1667048727,
       "rank": 10,
@@ -129,6 +145,14 @@
       "onboard_time": 1667038163,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 887607,
+      "num": 887607,
+      "word": "黑鱼被遗忘洗手间存活11个月掉色",
+      "onboard_time": 1667049504,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885198,
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587530,
+      "num": 587530,
+      "word": "消防通报南京金盛百货失火",
+      "onboard_time": 1667050826,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 579964,
       "num": 579964,
       "word": "央八排播杨幂白宇谢谢你医生",
@@ -411,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451797,
-      "num": 387940,
-      "word": "黑鱼被遗忘洗手间存活11个月掉色",
-      "onboard_time": 1667049504,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442780,
       "num": 442780,
       "word": "27岁女孩为19岁女孩捐造血干细胞",
@@ -427,12 +451,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 442166,
+      "num": 442166,
+      "word": "那奇沃夫",
+      "onboard_time": 1667049865,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430075,
       "num": 430075,
       "word": "欧文",
       "onboard_time": 1667018243,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428234,
+      "num": 428234,
+      "word": "突然从焦虑变得不焦虑了",
+      "onboard_time": 1667047762,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 423745,
@@ -457,14 +497,6 @@
       "onboard_time": 1666958124,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410476,
-      "num": 410476,
-      "word": "突然从焦虑变得不焦虑了",
-      "onboard_time": 1667047762,
-      "rank": 26,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 410145,
@@ -531,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383887,
-      "num": 383887,
-      "word": "马龙vs王楚钦",
-      "onboard_time": 1667050224,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383690,
       "num": 383690,
       "word": "专硕将成未来考研主流",
@@ -553,14 +577,6 @@
       "onboard_time": 1666959144,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380863,
-      "num": 380863,
-      "word": "那奇沃夫",
-      "onboard_time": 1667049865,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 376868,
@@ -795,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260977,
+      "num": 260977,
+      "word": "王鹤棣卡其色毛衣造型路透",
+      "onboard_time": 1667052685,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249420,
       "num": 249420,
       "word": "Aster止步TI四强",
@@ -865,6 +889,14 @@
       "onboard_time": 1667023159,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232977,
+      "num": 232977,
+      "word": "小姨化妆后去接娃外甥没敢认",
+      "onboard_time": 1667052446,
+      "rank": 19,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 232603,
@@ -1019,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199935,
-      "num": 199935,
-      "word": "消防通报南京金盛百货失火",
-      "onboard_time": 1667050826,
-      "rank": 24,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 198357,
       "num": 158358,
       "word": "颖儿分享一个普通女演员的15年",
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 187209,
-      "num": 132789,
+      "num": 143012,
       "word": "宣美翻跳Attention",
       "onboard_time": 1667048244,
       "rank": 41,
@@ -1128,6 +1152,14 @@
       "word": "金华一老人幼儿园接错娃",
       "onboard_time": 1666998316,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180318,
+      "num": 180318,
+      "word": "武汉加强核酸采样操作社会监督",
+      "onboard_time": 1667049623,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1323,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "猫妈妈好爱它的宝宝啊",
+      "onboard_time": 1667049802,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 145217,
       "num": 112215,
       "word": "这就是街舞",
       "onboard_time": 1667038163,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140098,
+      "num": 140098,
+      "word": "陈梦4比1王曼昱",
+      "onboard_time": 1667052326,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 140011,
@@ -1579,12 +1627,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 104561,
-      "num": 104561,
-      "word": "猫妈妈好爱它的宝宝啊",
-      "onboard_time": 1667049802,
-      "rank": 44,
-      "category": "幽默,情感"
+      "raw_hot": 104486,
+      "num": 104486,
+      "word": "刘慈欣说三体动画要来了",
+      "onboard_time": 1667051607,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 104408,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1667013805,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102596,
+      "num": 102596,
+      "word": "王俊凯简约米白色西装造型",
+      "onboard_time": 1667052446,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102468,
@@ -1635,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100798,
+      "num": 100798,
+      "word": "那些年你被名字欺骗过的美食",
+      "onboard_time": 1667048966,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 98991,
       "num": 98991,
       "word": "王者荣耀古今物语",
@@ -1651,20 +1715,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95399,
-      "num": 95399,
-      "word": "那些年你被名字欺骗过的美食",
-      "onboard_time": 1667048966,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 94853,
-      "num": 94853,
-      "word": "武汉加强核酸采样操作社会监督",
-      "onboard_time": 1667049623,
+      "raw_hot": 94477,
+      "num": 94477,
+      "word": "2020的手机有多卷",
+      "onboard_time": 1667051186,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "科技"
     },
     {
       "raw_hot": 93645,
@@ -1716,7 +1772,7 @@
     },
     {
       "raw_hot": 89367,
-      "num": 903187,
+      "num": 984438,
       "word": "党的二十大报告学习工具",
       "onboard_time": 1667043024,
       "rank": 2,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1667031803,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 81553,
+      "num": 81553,
+      "word": "小猫抓到老鼠跳床上送给主人",
+      "onboard_time": 1667052925,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80777,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1667019502,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71607,
+      "num": 71607,
+      "word": "张本智和晋级WTT世界杯决赛",
+      "onboard_time": 1667052146,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71475,
@@ -1929,14 +2001,6 @@
       "onboard_time": 1667037082,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 65520,
-      "num": 65520,
-      "word": "2020的手机有多卷",
-      "onboard_time": 1667051186,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 62321,
@@ -2053,6 +2117,9 @@
     },
     {
       "word": "#红旗渠精神永远震撼人心#"
+    },
+    {
+      "word": "#赓续红色血脉传承奋斗精神#"
     }
   ]
 }
