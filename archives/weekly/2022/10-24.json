@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667064270201,
+  "endTime": 1667065203873,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -10619,6 +10619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61320,
+      "num": 61320,
+      "word": "济南5条地铁同时在建",
+      "onboard_time": 1667062343,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60762,
       "num": 12574,
       "word": "樊振东吃香蕉",
@@ -10769,14 +10777,6 @@
       "onboard_time": 1666739237,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55609,
-      "num": 55609,
-      "word": "济南5条地铁同时在建",
-      "onboard_time": 1667062343,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54972,
@@ -11137,6 +11137,14 @@
       "onboard_time": 1666739778,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35103,
+      "num": 35103,
+      "word": "黄宗泽吐槽假期还要被迫加班",
+      "onboard_time": 1667062883,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 34294,

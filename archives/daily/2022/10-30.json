@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667064270201,
+  "endTime": 1667065203873,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61320,
+      "num": 61320,
+      "word": "济南5条地铁同时在建",
+      "onboard_time": 1667062343,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59859,
       "num": 632704,
       "word": "党的二十大报告学习工具",
@@ -427,20 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55609,
-      "num": 55609,
-      "word": "济南5条地铁同时在建",
-      "onboard_time": 1667062343,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54730,
       "num": 54730,
       "word": "TT做hiphop没有那么不被认同了",
       "onboard_time": 1667063900,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35103,
+      "num": 35103,
+      "word": "黄宗泽吐槽假期还要被迫加班",
+      "onboard_time": 1667062883,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
