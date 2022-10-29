@@ -1,0 +1,410 @@
+{
+  "runTime": 1667069058333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 404084,
+        "num": 404084,
+        "word": "李宇春父亲回应女儿病情",
+        "onboard_time": 1667054249,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290915,
+        "num": 290915,
+        "word": "赣州市公安局通报爆炸事故",
+        "onboard_time": 1667059948,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 17412,
+        "num": 222522,
+        "word": "党的二十大报告学习工具",
+        "onboard_time": 1667043024,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 179958,
+        "num": 179958,
+        "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
+        "onboard_time": 1667059886,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159338,
+        "num": 159338,
+        "word": "路人目睹摊贩脚踩模具压扁糖葫芦",
+        "onboard_time": 1667058866,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859221,
+        "num": 151021,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142350,
+        "num": 142350,
+        "word": "黑鱼被遗忘洗手间存活11个月掉色",
+        "onboard_time": 1667049504,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123310,
+        "num": 123310,
+        "word": "赣州一店面爆炸致1死10余人受伤",
+        "onboard_time": 1667060550,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 118989,
+        "word": "王一博这就是街舞三季三个舞种",
+        "onboard_time": 1667068994,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "武汉明确咽拭子采集至少擦拭6次",
+        "onboard_time": 1667047223,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1474451,
+        "num": 110915,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84874,
+        "num": 84874,
+        "word": "那奇沃夫",
+        "onboard_time": 1667049865,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81381,
+        "num": 81381,
+        "word": "外卖员被打赏1元1角以为求救秒报警",
+        "onboard_time": 1667043805,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654479,
+        "num": 80636,
+        "word": "韩国首尔梨泰院踩踏事故已致2人死亡",
+        "onboard_time": 1667059347,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78395,
+        "num": 78395,
+        "word": "王楚钦4比3马龙",
+        "onboard_time": 1667057372,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71492,
+        "num": 71492,
+        "word": "女子帮朋友婚礼出车在猪圈吃席",
+        "onboard_time": 1667054729,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133821,
+        "num": 70148,
+        "word": "赣州",
+        "onboard_time": 1667055028,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 66576,
+        "num": 66576,
+        "word": "韩国购入刘亦菲金粉世家播出版权",
+        "onboard_time": 1667057134,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55838,
+        "num": 55838,
+        "word": "姥姥带娃3年女儿分文不给",
+        "onboard_time": 1667056650,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55586,
+        "num": 55586,
+        "word": "小白diss",
+        "onboard_time": 1667049444,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83646,
+        "num": 54572,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52406,
+        "num": 52406,
+        "word": "呼市确诊者床品食品按医疗废物处理",
+        "onboard_time": 1667055329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50904,
+        "num": 50904,
+        "word": "突然从焦虑变得不焦虑了",
+        "onboard_time": 1667047762,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 47898,
+        "num": 47898,
+        "word": "女生因病休学2年独自旅行49个城市",
+        "onboard_time": 1667054127,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 44286,
+        "num": 44286,
+        "word": "消防通报南京金盛百货失火",
+        "onboard_time": 1667050826,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42933,
+        "num": 42933,
+        "word": "iPhone15Pro或取消物理按键",
+        "onboard_time": 1667030962,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 41105,
+        "num": 41105,
+        "word": "蔡徐坤沸腾校园舞台胸震",
+        "onboard_time": 1667067435,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41048,
+        "num": 41048,
+        "word": "TT做hiphop没有那么不被认同了",
+        "onboard_time": 1667063900,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40037,
+        "num": 40037,
+        "word": "这个字居然要172笔才能写完",
+        "onboard_time": 1667043443,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39828,
+        "num": 39828,
+        "word": "迪丽热巴今晚直播生图",
+        "onboard_time": 1667048727,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39478,
+        "num": 39478,
+        "word": "多地支持鼓励灵活就业人员买房",
+        "onboard_time": 1667045185,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 36799,
+        "num": 36799,
+        "word": "俄称英国皇家海军官员参与了北溪事件",
+        "onboard_time": 1667044166,
+        "rank": 31,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 36284,
+        "num": 36284,
+        "word": "黄宗泽吐槽假期还要被迫加班",
+        "onboard_time": 1667062883,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35550,
+        "num": 35550,
+        "word": "原来狗狗也会摸头杀",
+        "onboard_time": 1667065277,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34918,
+        "num": 34918,
+        "word": "叶舒华用中文说三流之路台词",
+        "onboard_time": 1667044746,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34771,
+        "num": 34771,
+        "word": "小姨化妆后去接娃外甥没敢认",
+        "onboard_time": 1667052446,
+        "rank": 35,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 33557,
+        "num": 33557,
+        "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+        "onboard_time": 1667067976,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32283,
+        "num": 32283,
+        "word": "S12半决赛",
+        "onboard_time": 1667032824,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31840,
+        "num": 31840,
+        "word": "这就是街舞",
+        "onboard_time": 1667038163,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30090,
+        "num": 30090,
+        "word": "沉香是懂拒绝的",
+        "onboard_time": 1667039964,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 28347,
+        "word": "猫妈妈好爱它的宝宝啊",
+        "onboard_time": 1667049802,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27343,
+        "num": 27343,
+        "word": "四菜一汤68元上门做菜女子开直播",
+        "onboard_time": 1667041763,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 27313,
+        "num": 27313,
+        "word": "济南5条地铁同时在建",
+        "onboard_time": 1667062343,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25574,
+        "num": 25574,
+        "word": "张真源反差live图",
+        "onboard_time": 1667057912,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24552,
+        "num": 24552,
+        "word": "2020的手机有多卷",
+        "onboard_time": 1667051186,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24159,
+        "num": 24159,
+        "word": "猫讨厌狗不是没原因的",
+        "onboard_time": 1667048844,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24082,
+        "num": 24082,
+        "word": "小猫抓到老鼠跳床上送给主人",
+        "onboard_time": 1667052925,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23302,
+        "num": 23302,
+        "word": "王鹤棣卡其色毛衣造型路透",
+        "onboard_time": 1667052685,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23095,
+        "num": 23095,
+        "word": "林孝埈短道速滑世界杯初战告捷",
+        "onboard_time": 1667044943,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19837,
+        "num": 19837,
+        "word": "刘慈欣说三体动画要来了",
+        "onboard_time": 1667051607,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续红色血脉传承奋斗精神#"
+    }
+  }
+}
