@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667053314267,
+  "endTime": 1667054295570,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1985937,
+      "num": 420298,
+      "word": "富士康",
+      "onboard_time": 1666701023,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1985451,
       "num": 180059,
       "word": "双十一",
@@ -203,20 +211,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1509374,
-      "num": 420298,
-      "word": "富士康",
-      "onboard_time": 1666701023,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1455833,
       "num": 929599,
       "word": "心动的信号5成了四对",
       "onboard_time": 1666792585,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1445269,
+      "num": 1445269,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1667050224,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 1424603,
@@ -385,14 +393,6 @@
       "onboard_time": 1666749623,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182672,
-      "num": 1182672,
-      "word": "马龙vs王楚钦",
-      "onboard_time": 1667050224,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 1150166,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1666748004,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 566817,
+      "num": 328092,
+      "word": "小姨化妆后去接娃外甥没敢认",
+      "onboard_time": 1667052446,
+      "rank": 19,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 566522,
@@ -4939,6 +4947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250240,
+      "num": 76672,
+      "word": "李宇春父亲回应女儿病情",
+      "onboard_time": 1667054249,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249828,
       "num": 302816,
       "word": "李咏去世四周年",
@@ -5347,14 +5363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232977,
-      "num": 232977,
-      "word": "小姨化妆后去接娃外甥没敢认",
-      "onboard_time": 1667052446,
-      "rank": 19,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 232951,
       "num": 232951,
       "word": "中餐厅全员分享食材故事",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1666706184,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 226984,
+      "num": 226984,
+      "word": "陈梦4比1王曼昱",
+      "onboard_time": 1667052326,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 226732,
@@ -7235,6 +7251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152541,
+      "num": 152541,
+      "word": "猫妈妈好爱它的宝宝啊",
+      "onboard_time": 1667049802,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 151942,
       "num": 45582,
       "word": "王一博firstframe年度推介人",
@@ -7297,14 +7321,6 @@
       "onboard_time": 1666850423,
       "rank": 39,
       "category": "其它"
-    },
-    {
-      "raw_hot": 148209,
-      "num": 148209,
-      "word": "猫妈妈好爱它的宝宝啊",
-      "onboard_time": 1667049802,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 147868,
@@ -7404,7 +7420,7 @@
     },
     {
       "raw_hot": 145217,
-      "num": 112215,
+      "num": 141044,
       "word": "这就是街舞",
       "onboard_time": 1667038163,
       "rank": 31,
@@ -7561,14 +7577,6 @@
       "onboard_time": 1666850062,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140098,
-      "num": 140098,
-      "word": "陈梦4比1王曼昱",
-      "onboard_time": 1667052326,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 140011,
@@ -8211,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119837,
+      "num": 119837,
+      "word": "2020的手机有多卷",
+      "onboard_time": 1667051186,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "宋茜新剧穿搭",
@@ -8425,6 +8441,14 @@
       "onboard_time": 1667032885,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 111514,
+      "num": 111514,
+      "word": "刘慈欣说三体动画要来了",
+      "onboard_time": 1667051607,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 111232,
@@ -8699,6 +8723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105509,
+      "num": 105509,
+      "word": "小猫抓到老鼠跳床上送给主人",
+      "onboard_time": 1667052925,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105378,
       "num": 105378,
       "word": "柯滢封潇声的烟花不期而至续上了",
@@ -8753,14 +8785,6 @@
       "onboard_time": 1666598001,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104486,
-      "num": 104486,
-      "word": "刘慈欣说三体动画要来了",
-      "onboard_time": 1667051607,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 104408,
@@ -9161,14 +9185,6 @@
       "onboard_time": 1666965747,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 94477,
-      "num": 94477,
-      "word": "2020的手机有多卷",
-      "onboard_time": 1667051186,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 94363,
@@ -9707,14 +9723,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 81553,
-      "num": 81553,
-      "word": "小猫抓到老鼠跳床上送给主人",
-      "onboard_time": 1667052925,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81443,
       "num": 81443,
       "word": "黄河入海口的传统色调",
@@ -9921,6 +9929,14 @@
       "onboard_time": 1666668083,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 76972,
+      "num": 76972,
+      "word": "女生因病休学2年独自旅行49个城市",
+      "onboard_time": 1667054127,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 76663,
@@ -10145,6 +10161,14 @@
       "onboard_time": 1666851802,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 70150,
+      "num": 70150,
+      "word": "一口一只肉松狗",
+      "onboard_time": 1667053946,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 69957,
