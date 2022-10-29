@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667048566827,
+  "endTime": 1667050480433,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1603443,
+      "num": 1603443,
+      "word": "武汉明确咽拭子采集至少擦拭6次",
+      "onboard_time": 1667047223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596698,
       "num": 1596698,
       "word": "抽检发现有的女装致癌物超标20多倍",
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 1337834,
-      "num": 102922,
+      "num": 132226,
       "word": "马龙vs王楚钦",
       "onboard_time": 1666425742,
       "rank": 10,
@@ -3073,6 +3081,14 @@
       "onboard_time": 1665107661,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039005,
+      "num": 368199,
+      "word": "迪丽热巴今晚直播生图",
+      "onboard_time": 1667048727,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1038394,
@@ -4995,6 +5011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783765,
+      "num": 783765,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1667049145,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782989,
       "num": 547682,
       "word": "TouchID不太可能回到iPhone",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1665234987,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 706513,
+      "num": 706513,
+      "word": "小白diss",
+      "onboard_time": 1667049444,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 706415,
@@ -7313,14 +7345,6 @@
       "onboard_time": 1665810924,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 629201,
-      "num": 321175,
-      "word": "武汉明确咽拭子采集至少擦拭6次",
-      "onboard_time": 1667047223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629081,
@@ -9057,6 +9081,14 @@
       "onboard_time": 1665196941,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539822,
+      "num": 539822,
+      "word": "多地支持鼓励灵活就业人员买房",
+      "onboard_time": 1667045185,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 539609,
@@ -13499,6 +13531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405905,
+      "num": 367838,
+      "word": "张帆辞职了",
+      "onboard_time": 1667050045,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405821,
       "num": 155104,
       "word": "大学生2天调制550杯奶茶送新生",
@@ -14121,6 +14161,14 @@
       "onboard_time": 1664786001,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 392756,
+      "num": 392756,
+      "word": "王一博街舞5总决赛小香风造型",
+      "onboard_time": 1667049802,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 392628,
@@ -15377,6 +15425,14 @@
       "onboard_time": 1666658307,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365678,
+      "num": 365678,
+      "word": "突然从焦虑变得不焦虑了",
+      "onboard_time": 1667047762,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 365650,
@@ -17129,14 +17185,6 @@
       "onboard_time": 1666280486,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 329797,
-      "num": 329797,
-      "word": "多地支持鼓励灵活就业人员买房",
-      "onboard_time": 1667045185,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 329778,
@@ -20107,6 +20155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276506,
+      "num": 217851,
+      "word": "那奇沃夫",
+      "onboard_time": 1667049865,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276399,
       "num": 265230,
       "word": "成都疫情防控",
@@ -21257,6 +21313,14 @@
       "onboard_time": 1665561804,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 260553,
+      "num": 260553,
+      "word": "张本智和4比0奥恰洛夫",
+      "onboard_time": 1667047825,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 260503,
@@ -28219,6 +28283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187209,
+      "num": 130988,
+      "word": "宣美翻跳Attention",
+      "onboard_time": 1667048244,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187074,
       "num": 187074,
       "word": "王占山打退38次进攻全身38个弹孔",
@@ -28320,6 +28392,14 @@
       "word": "北京丰台新划定3个高风险区",
       "onboard_time": 1664612242,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186544,
+      "num": 186544,
+      "word": "黑鱼被遗忘洗手间存活11个月掉色",
+      "onboard_time": 1667049504,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -30323,6 +30403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166737,
+      "num": 166737,
+      "word": "猫讨厌狗不是没原因的",
+      "onboard_time": 1667048844,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166734,
       "num": 166734,
       "word": "多地已加入下雪群聊",
@@ -31105,14 +31193,6 @@
       "onboard_time": 1665327688,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159115,
-      "num": 159115,
-      "word": "突然从焦虑变得不焦虑了",
-      "onboard_time": 1667047762,
-      "rank": 26,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 159112,
@@ -37547,14 +37627,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 108360,
-      "num": 97796,
-      "word": "宣美翻跳Attention",
-      "onboard_time": 1667048244,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108340,
       "num": 9482,
       "word": "广东男篮vs天津男篮",
@@ -38273,14 +38345,6 @@
       "onboard_time": 1666921884,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 103172,
-      "num": 103172,
-      "word": "张本智和4比0奥恰洛夫",
-      "onboard_time": 1667047825,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 103079,
@@ -39395,6 +39459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95242,
+      "num": 95242,
+      "word": "那些年你被名字欺骗过的美食",
+      "onboard_time": 1667048966,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 95165,
       "num": 95165,
       "word": "绿皮火车也能有淋浴酒吧KTV",
@@ -39441,6 +39513,14 @@
       "onboard_time": 1666274667,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94678,
+      "num": 94678,
+      "word": "三体动画面壁者披露",
+      "onboard_time": 1667050045,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 94651,
@@ -39729,6 +39809,14 @@
       "onboard_time": 1666187846,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92381,
+      "num": 92381,
+      "word": "猫妈妈好爱它的宝宝啊",
+      "onboard_time": 1667049802,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 92371,
@@ -40180,7 +40268,7 @@
     },
     {
       "raw_hot": 89367,
-      "num": 718485,
+      "num": 878818,
       "word": "党的二十大报告学习工具",
       "onboard_time": 1667043024,
       "rank": 2,
@@ -41419,6 +41507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 80637,
+      "num": 80637,
+      "word": "JDG我们一起冲",
+      "onboard_time": 1667050224,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80607,
       "num": 99991,
       "word": "世界杯将是莫德里奇国家队谢幕战",
@@ -41720,6 +41816,14 @@
       "word": "线上马拉松",
       "onboard_time": 1667010922,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78340,
+      "num": 78340,
+      "word": "莱斯特城vs曼城",
+      "onboard_time": 1667047646,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -42273,6 +42377,14 @@
       "onboard_time": 1665672446,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74135,
+      "num": 74135,
+      "word": "武汉加强核酸采样操作社会监督",
+      "onboard_time": 1667049623,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74041,
@@ -42905,14 +43017,6 @@
       "onboard_time": 1666098742,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68844,
-      "num": 68844,
-      "word": "莱斯特城vs曼城",
-      "onboard_time": 1667047646,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 68840,

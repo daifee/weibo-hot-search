@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667048566827,
+  "endTime": 1667050480433,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -168,6 +168,14 @@
       "word": "第一批鹤岗买房人已离开大半",
       "onboard_time": 1666880486,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1603443,
+      "num": 1603443,
+      "word": "武汉明确咽拭子采集至少擦拭6次",
+      "onboard_time": 1667047223,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1667022378,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1039005,
+      "num": 368199,
+      "word": "迪丽热巴今晚直播生图",
+      "onboard_time": 1667048727,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1034532,
@@ -915,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783765,
+      "num": 783765,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1667049145,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779249,
       "num": 397094,
       "word": "张艺兴禁止已读不回",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1666872144,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 706513,
+      "num": 706513,
+      "word": "小白diss",
+      "onboard_time": 1667049444,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 703451,
@@ -1400,14 +1432,6 @@
       "word": "新郎娶到相恋5年的姑娘哭花脸",
       "onboard_time": 1666772123,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629201,
-      "num": 321175,
-      "word": "武汉明确咽拭子采集至少擦拭6次",
-      "onboard_time": 1667047223,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1809,6 +1833,14 @@
       "onboard_time": 1667033543,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 539822,
+      "num": 539822,
+      "word": "多地支持鼓励灵活就业人员买房",
+      "onboard_time": 1667045185,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 539539,
@@ -2899,6 +2931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405905,
+      "num": 367838,
+      "word": "张帆辞职了",
+      "onboard_time": 1667050045,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404294,
       "num": 404294,
       "word": "不期而至定档1102",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1666866805,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392756,
+      "num": 392756,
+      "word": "王一博街舞5总决赛小香风造型",
+      "onboard_time": 1667049802,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 392628,
@@ -3345,6 +3393,14 @@
       "onboard_time": 1666658307,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365678,
+      "num": 365678,
+      "word": "突然从焦虑变得不焦虑了",
+      "onboard_time": 1667047762,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 365650,
@@ -3803,14 +3859,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 329797,
-      "num": 329797,
-      "word": "多地支持鼓励灵活就业人员买房",
-      "onboard_time": 1667045185,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 329071,
       "num": 329071,
       "word": "男子爬山遇一洞口走进仿若仙境一般",
@@ -3833,6 +3881,14 @@
       "onboard_time": 1666679783,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326978,
+      "num": 326978,
+      "word": "你好星期六",
+      "onboard_time": 1667047944,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 325777,
@@ -4467,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276506,
+      "num": 217851,
+      "word": "那奇沃夫",
+      "onboard_time": 1667049865,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275867,
       "num": 30135,
       "word": "莲花楼杀青",
@@ -4683,6 +4747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260553,
+      "num": 260553,
+      "word": "张本智和4比0奥恰洛夫",
+      "onboard_time": 1667047825,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260234,
       "num": 15536,
       "word": "水晶哥",
@@ -4833,14 +4905,6 @@
       "onboard_time": 1666858823,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250172,
-      "num": 250172,
-      "word": "你好星期六",
-      "onboard_time": 1667047944,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 249828,
@@ -6251,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187209,
+      "num": 130988,
+      "word": "宣美翻跳Attention",
+      "onboard_time": 1667048244,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187000,
       "num": 116818,
       "word": "10月24日新增本土无症状875例",
@@ -6273,6 +6345,14 @@
       "onboard_time": 1667024485,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186544,
+      "num": 186544,
+      "word": "黑鱼被遗忘洗手间存活11个月掉色",
+      "onboard_time": 1667049504,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186460,
@@ -6755,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166737,
+      "num": 166737,
+      "word": "猫讨厌狗不是没原因的",
+      "onboard_time": 1667048844,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166211,
       "num": 166211,
       "word": "李文龙",
@@ -6913,14 +7001,6 @@
       "onboard_time": 1666929623,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159115,
-      "num": 159115,
-      "word": "突然从焦虑变得不焦虑了",
-      "onboard_time": 1667047762,
-      "rank": 26,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 158715,
@@ -7649,6 +7729,14 @@
       "onboard_time": 1666844485,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132226,
+      "num": 132226,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1667050224,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 132058,
@@ -8403,14 +8491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 108360,
-      "num": 97796,
-      "word": "宣美翻跳Attention",
-      "onboard_time": 1667048244,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108300,
       "num": 108300,
       "word": "算是把双十一拿捏住了",
@@ -8665,14 +8745,6 @@
       "onboard_time": 1666921884,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 103172,
-      "num": 103172,
-      "word": "张本智和4比0奥恰洛夫",
-      "onboard_time": 1667047825,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 103068,
@@ -8987,6 +9059,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95242,
+      "num": 95242,
+      "word": "那些年你被名字欺骗过的美食",
+      "onboard_time": 1667048966,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 94678,
+      "num": 94678,
+      "word": "三体动画面壁者披露",
+      "onboard_time": 1667050045,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94651,
       "num": 262231,
       "word": "烈士蔡茂强最后一条朋友圈",
@@ -9097,6 +9185,14 @@
       "onboard_time": 1666836803,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 92381,
+      "num": 92381,
+      "word": "猫妈妈好爱它的宝宝啊",
+      "onboard_time": 1667049802,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 92348,
@@ -9236,7 +9332,7 @@
     },
     {
       "raw_hot": 89367,
-      "num": 718485,
+      "num": 878818,
       "word": "党的二十大报告学习工具",
       "onboard_time": 1667043024,
       "rank": 2,
@@ -9595,6 +9691,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 80637,
+      "num": 80637,
+      "word": "JDG我们一起冲",
+      "onboard_time": 1667050224,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80607,
       "num": 99991,
       "word": "世界杯将是莫德里奇国家队谢幕战",
@@ -9688,6 +9792,14 @@
       "word": "线上马拉松",
       "onboard_time": 1667010922,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78340,
+      "num": 78340,
+      "word": "莱斯特城vs曼城",
+      "onboard_time": 1667047646,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -9799,6 +9911,14 @@
       "num": 74806,
       "word": "女生选华为小折叠还是iPhone14",
       "onboard_time": 1666769006,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74135,
+      "num": 74135,
+      "word": "武汉加强核酸采样操作社会监督",
+      "onboard_time": 1667049623,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -9985,14 +10105,6 @@
       "onboard_time": 1666986491,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 68844,
-      "num": 68844,
-      "word": "莱斯特城vs曼城",
-      "onboard_time": 1667047646,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 68840,
