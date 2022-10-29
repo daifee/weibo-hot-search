@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667015916918,
+  "endTime": 1667016568440,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -203,6 +203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 291519,
+      "num": 291519,
+      "word": "湖人又输了",
+      "onboard_time": 1667013983,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291308,
       "num": 291308,
       "word": "短道速滑",
@@ -217,14 +225,6 @@
       "onboard_time": 1666965267,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285534,
-      "num": 285534,
-      "word": "湖人又输了",
-      "onboard_time": 1667013983,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 277075,
@@ -272,6 +272,14 @@
       "word": "北京10月28日新增社会面感染者3例",
       "onboard_time": 1667005162,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240061,
+      "num": 240061,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -345,6 +353,14 @@
       "onboard_time": 1666991891,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198357,
+      "num": 158358,
+      "word": "颖儿分享一个普通女演员的15年",
+      "onboard_time": 1667014162,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191338,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153508,
+      "num": 153508,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149186,
       "num": 149186,
       "word": "广州海珠区疫情防控",
@@ -467,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147460,
-      "num": 147460,
-      "word": "颖儿分享一个普通女演员的15年",
-      "onboard_time": 1667014162,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144143,
-      "num": 144143,
+      "raw_hot": 148581,
+      "num": 148581,
       "word": "直20试飞员冲进结冰云层获宝贵数据",
       "onboard_time": 1667013564,
       "rank": 23,
@@ -489,6 +505,14 @@
       "onboard_time": 1667005764,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132394,
+      "num": 113287,
+      "word": "你为什么考教资",
+      "onboard_time": 1667016443,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 132273,
@@ -531,11 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119189,
-      "num": 119189,
-      "word": "男子因他人PPT做得好顺走电脑",
-      "onboard_time": 1667015183,
-      "rank": 29,
+      "raw_hot": 123913,
+      "num": 109239,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -619,20 +643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99055,
+      "num": 99055,
+      "word": "国产机器人到底有多牛",
+      "onboard_time": 1667013805,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98623,
       "num": 98623,
       "word": "马嘉祺翻唱的想着你",
       "onboard_time": 1667004143,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97228,
-      "num": 97228,
-      "word": "班主任是表姨来做客男孩吓得躲厕所",
-      "onboard_time": 1667015723,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93645,
@@ -681,14 +705,6 @@
       "onboard_time": 1666963524,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88862,
-      "num": 88862,
-      "word": "国产机器人到底有多牛",
-      "onboard_time": 1667013805,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88219,
@@ -787,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68431,
+      "num": 68431,
+      "word": "4分钟在家做有氧",
+      "onboard_time": 1667016501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67150,
       "num": 67150,
       "word": "王栎鑫又吐了",
@@ -801,14 +825,6 @@
       "onboard_time": 1666989791,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64048,
-      "num": 64048,
-      "word": "患癌妈妈去世前为儿子做最后一餐",
-      "onboard_time": 1667015903,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61115,

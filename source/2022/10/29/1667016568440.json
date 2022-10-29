@@ -1,0 +1,410 @@
+{
+  "runTime": 1667016568440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707364,
+        "num": 2707364,
+        "word": "教资",
+        "onboard_time": 1667000360,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1526817,
+        "num": 1526817,
+        "word": "教资答案",
+        "onboard_time": 1667013382,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5352,
+        "num": 1064116,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 995689,
+        "num": 995689,
+        "word": "教资作文",
+        "onboard_time": 1667013744,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 621084,
+        "num": 621084,
+        "word": "综合素质",
+        "onboard_time": 1667014464,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 608808,
+        "num": 608808,
+        "word": "苹果市值一夜暴涨1761亿美元",
+        "onboard_time": 1667007922,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391500,
+        "num": 391500,
+        "word": "长沙一男生刚进高中就被清华录取",
+        "onboard_time": 1667003661,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 387856,
+        "num": 387856,
+        "word": "林孝埈",
+        "onboard_time": 1666963884,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291519,
+        "num": 291519,
+        "word": "湖人又输了",
+        "onboard_time": 1667013983,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288399,
+        "num": 288399,
+        "word": "奶奶被喂嚼过方便面魔性拒绝",
+        "onboard_time": 1666973007,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638937,
+        "num": 284266,
+        "word": "内娱输给了游乐园NPC",
+        "onboard_time": 1667008642,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349628,
+        "num": 282753,
+        "word": "newjeans出道一百天",
+        "onboard_time": 1667014524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275440,
+        "num": 275440,
+        "word": "吉赛尔邦辰与布雷迪离婚",
+        "onboard_time": 1667002401,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 273635,
+        "num": 273635,
+        "word": "男生网购抽纸发现每包少四分之一",
+        "onboard_time": 1667004082,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240061,
+        "num": 240061,
+        "word": "男子因他人PPT做得好顺走电脑",
+        "onboard_time": 1667015183,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211211,
+        "num": 211211,
+        "word": "网传琅琊榜3双男主",
+        "onboard_time": 1667000779,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184594,
+        "num": 184594,
+        "word": "小伙网恋1年女友竟留络腮胡似李逵",
+        "onboard_time": 1666984931,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176010,
+        "num": 176010,
+        "word": "王者荣耀",
+        "onboard_time": 1666998916,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165783,
+        "num": 165783,
+        "word": "林孝埈一过五正面视角",
+        "onboard_time": 1667001198,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 158588,
+        "word": "被尹浩宇屋顶着火舞台点燃了",
+        "onboard_time": 1667015361,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809908,
+        "num": 158478,
+        "word": "饭圈文化可是被整明白了",
+        "onboard_time": 1667010742,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198357,
+        "num": 158358,
+        "word": "颖儿分享一个普通女演员的15年",
+        "onboard_time": 1667014162,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156241,
+        "num": 156241,
+        "word": "经不起诱惑的小狗",
+        "onboard_time": 1667005882,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153508,
+        "num": 153508,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148581,
+        "num": 148581,
+        "word": "直20试飞员冲进结冰云层获宝贵数据",
+        "onboard_time": 1667013564,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140463,
+        "num": 140463,
+        "word": "贪便宜买了个电动牙刷",
+        "onboard_time": 1666968448,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134856,
+        "num": 134856,
+        "word": "10月28日新增本土无症状1153例",
+        "onboard_time": 1667009902,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125428,
+        "num": 125428,
+        "word": "莱万怀疑加盟巴萨决定",
+        "onboard_time": 1667009183,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115502,
+        "num": 115502,
+        "word": "金鸡奖预计11月12号举办颁奖礼",
+        "onboard_time": 1667009902,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114507,
+        "num": 114507,
+        "word": "逢考必过",
+        "onboard_time": 1667015844,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132394,
+        "num": 113287,
+        "word": "你为什么考教资",
+        "onboard_time": 1667016443,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 109239,
+        "word": "班主任是表姨来做客男孩吓得躲厕所",
+        "onboard_time": 1667015723,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104924,
+        "num": 104924,
+        "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+        "onboard_time": 1666965267,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103404,
+        "num": 103404,
+        "word": "武汉本轮毒株平均1人传染18人",
+        "onboard_time": 1666966045,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100260,
+        "num": 100260,
+        "word": "台北故宫3件文物破损照曝光",
+        "onboard_time": 1666967548,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99055,
+        "num": 99055,
+        "word": "国产机器人到底有多牛",
+        "onboard_time": 1667013805,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97169,
+        "num": 97169,
+        "word": "张柏芝怼脸视频",
+        "onboard_time": 1667008823,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95739,
+        "num": 95739,
+        "word": "普京称特拉斯脑子不太正常",
+        "onboard_time": 1666974802,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94094,
+        "num": 94094,
+        "word": "真接不上0713的脑回路",
+        "onboard_time": 1667012662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80793,
+        "num": 80793,
+        "word": "清融的十九岁答卷",
+        "onboard_time": 1667012902,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79832,
+        "num": 79832,
+        "word": "刘德华恭喜李克勤再获冠军导师",
+        "onboard_time": 1667001018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78080,
+        "num": 78080,
+        "word": "王一博街舞5黑白四宫格剧照",
+        "onboard_time": 1667007742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77820,
+        "num": 77820,
+        "word": "女生上课用手机举弹幕求上厕所",
+        "onboard_time": 1666971206,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74425,
+        "num": 74425,
+        "word": "李文龙",
+        "onboard_time": 1666999636,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71896,
+        "num": 71896,
+        "word": "老公天天做美食女子13天胖10斤",
+        "onboard_time": 1666968566,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71586,
+        "num": 71586,
+        "word": "娜妍熙斗复合",
+        "onboard_time": 1667001921,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70764,
+        "num": 70764,
+        "word": "北京10月28日新增社会面感染者3例",
+        "onboard_time": 1667005162,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68431,
+        "num": 68431,
+        "word": "4分钟在家做有氧",
+        "onboard_time": 1667016501,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65024,
+        "num": 65024,
+        "word": "新生宝宝被夸一脸正气抬手敬礼",
+        "onboard_time": 1666991891,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63247,
+        "num": 63247,
+        "word": "中国空间站的植物都长这么大了",
+        "onboard_time": 1666971327,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬伟大建党精神和延安精神#"
+    }
+  }
+}
