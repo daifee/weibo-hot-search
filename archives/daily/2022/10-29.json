@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667025968454,
+  "endTime": 1667028044749,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -24,6 +24,14 @@
       "word": "教资答案",
       "onboard_time": 1667013382,
       "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1407179,
+      "num": 1407179,
+      "word": "教资科二",
+      "onboard_time": 1667026710,
+      "rank": 0,
       "category": "教育"
     },
     {
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423745,
+      "num": 423745,
+      "word": "林俊杰7千3百多天于11月1日上架",
+      "onboard_time": 1667023822,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417888,
       "num": 417888,
       "word": "海恩贤圭成了",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379358,
+      "num": 379358,
+      "word": "专硕将成未来考研主流",
+      "onboard_time": 1667025081,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 367302,
       "num": 367302,
       "word": "东北大爷摔落轮椅躺地自嘲女子帮扶",
@@ -275,20 +299,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 340251,
-      "num": 340251,
-      "word": "林俊杰7千3百多天于11月1日上架",
-      "onboard_time": 1667023822,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 338641,
       "num": 206375,
       "word": "海恩贤圭情侣照",
       "onboard_time": 1666975879,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306357,
+      "num": 306357,
+      "word": "西安一高校同寝室3女生全保研",
+      "onboard_time": 1667023102,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 293717,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 234810,
-      "num": 161689,
+      "num": 166616,
       "word": "刘诗诗烟熏妆侧颜随拍",
       "onboard_time": 1667023159,
       "rank": 21,
@@ -417,6 +441,22 @@
       "onboard_time": 1666968566,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "斯人版的教材被找到了",
+      "onboard_time": 1667025982,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217734,
+      "num": 217734,
+      "word": "道教学生回应上课学中医算八字",
+      "onboard_time": 1667023522,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 216701,
@@ -523,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190979,
+      "num": 190979,
+      "word": "Jennie晒演唱会后台照",
+      "onboard_time": 1667027901,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189288,
       "num": 189288,
       "word": "梁静茹发文告别中国好声音",
@@ -547,12 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182122,
-      "num": 182122,
-      "word": "西安一高校同寝室3女生全保研",
-      "onboard_time": 1667023102,
-      "rank": 24,
-      "category": "教育,社会新闻"
+      "raw_hot": 185113,
+      "num": 164843,
+      "word": "白鹿奔跑吧特别季蓝色毛衣路透",
+      "onboard_time": 1667024485,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185023,
+      "num": 124052,
+      "word": "阿拉山口海关截获境外土壤3300公斤",
+      "onboard_time": 1667024181,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180807,
@@ -585,6 +641,14 @@
       "onboard_time": 1666956743,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 173167,
+      "num": 173167,
+      "word": "教资科一",
+      "onboard_time": 1667018901,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 172784,
@@ -667,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156311,
-      "num": 156311,
-      "word": "专硕将成未来考研主流",
-      "onboard_time": 1667025081,
-      "rank": 22,
-      "category": "社会新闻,教育"
+      "raw_hot": 157697,
+      "num": 157697,
+      "word": "LPL赛区加油",
+      "onboard_time": 1667025442,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 153802,
@@ -705,14 +769,6 @@
       "onboard_time": 1667016443,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 133369,
-      "num": 133369,
-      "word": "道教学生回应上课学中医算八字",
-      "onboard_time": 1667023522,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133239,
@@ -771,20 +827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125257,
-      "num": 125257,
-      "word": "教资科一",
-      "onboard_time": 1667018901,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 125071,
       "num": 125071,
       "word": "道教学院学生的日常",
       "onboard_time": 1667017643,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123416,
+      "num": 123416,
+      "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+      "onboard_time": 1667027422,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 117796,
@@ -843,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106827,
+      "num": 106827,
+      "word": "考完综合素质发现没素质",
+      "onboard_time": 1667025263,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106809,
       "num": 106809,
       "word": "猎罪图鉴获亚洲电视奖3项提名",
@@ -857,14 +921,6 @@
       "onboard_time": 1666967188,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105517,
-      "num": 98778,
-      "word": "白鹿奔跑吧特别季蓝色毛衣路透",
-      "onboard_time": 1667024485,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 104408,
@@ -913,14 +969,6 @@
       "onboard_time": 1667004143,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95514,
-      "num": 95514,
-      "word": "阿拉山口海关截获境外土壤3300公斤",
-      "onboard_time": 1667024181,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93645,
@@ -979,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86652,
-      "num": 86652,
-      "word": "LPL赛区加油",
-      "onboard_time": 1667025442,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 85352,
       "num": 85352,
       "word": "短道速滑世界杯",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1666971327,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 80857,
-      "num": 80857,
-      "word": "考完综合素质发现没素质",
-      "onboard_time": 1667025263,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 78890,
@@ -1139,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53995,
+      "num": 818563,
+      "word": "深秋里的诗意中国",
+      "onboard_time": 1667025560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52013,
       "num": 52013,
       "word": "那英在上一种很新的菜",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1666989791,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15382,
-      "num": 684038,
-      "word": "深秋里的诗意中国",
-      "onboard_time": 1667025560,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8595,
