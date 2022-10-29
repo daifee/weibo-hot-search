@@ -1,0 +1,410 @@
+{
+  "runTime": 1667047276269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431087,
+        "num": 1431087,
+        "word": "外卖员被打赏1元1角以为求救秒报警",
+        "onboard_time": 1667043805,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879190,
+        "num": 879190,
+        "word": "四菜一汤68元上门做菜女子开直播",
+        "onboard_time": 1667041763,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 86951,
+        "num": 637808,
+        "word": "党的二十大报告学习工具",
+        "onboard_time": 1667043024,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 539539,
+        "num": 539539,
+        "word": "叶舒华用中文说三流之路台词",
+        "onboard_time": 1667044746,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521318,
+        "num": 521318,
+        "word": "这个字居然要172笔才能写完",
+        "onboard_time": 1667043443,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476378,
+        "num": 476378,
+        "word": "奥恰洛夫vs张本智和",
+        "onboard_time": 1667046804,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474207,
+        "num": 474207,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1667043623,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371907,
+        "num": 371907,
+        "word": "iPhone15Pro或取消物理按键",
+        "onboard_time": 1667030962,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347006,
+        "num": 347006,
+        "word": "李一桐公主头录奔跑吧",
+        "onboard_time": 1667038345,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337914,
+        "num": 337914,
+        "word": "沉香是懂拒绝的",
+        "onboard_time": 1667039964,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446072,
+        "num": 328656,
+        "word": "南京金盛百货失火浓烟滚滚",
+        "onboard_time": 1667035401,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 415359,
+        "num": 328428,
+        "word": "林孝埈短道速滑世界杯初战告捷",
+        "onboard_time": 1667044943,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402626,
+        "num": 327154,
+        "word": "俄称英国皇家海军官员参与了北溪事件",
+        "onboard_time": 1667044166,
+        "rank": 12,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 316115,
+        "num": 316115,
+        "word": "教资科三",
+        "onboard_time": 1667038644,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306266,
+        "num": 306266,
+        "word": "赵丽颖片场包饺子",
+        "onboard_time": 1667042182,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293013,
+        "num": 293013,
+        "word": "WTT",
+        "onboard_time": 1667044284,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267141,
+        "num": 267141,
+        "word": "JDG手游赢了",
+        "onboard_time": 1667043562,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250974,
+        "num": 250974,
+        "word": "英王后所乘飞机着陆时遭鸟撞击",
+        "onboard_time": 1667038163,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 235192,
+        "num": 235192,
+        "word": "为什么玉米截面上玉米粒都是偶数",
+        "onboard_time": 1667040923,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225054,
+        "num": 225054,
+        "word": "奔跑吧",
+        "onboard_time": 1667042062,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863036,
+        "num": 224284,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616371,
+        "num": 224045,
+        "word": "王一博讲话一直晃",
+        "onboard_time": 1667037563,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222242,
+        "num": 222242,
+        "word": "研究发现越上网越不爱生孩子",
+        "onboard_time": 1667030003,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219076,
+        "num": 219076,
+        "word": "嗨放派",
+        "onboard_time": 1667046204,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184197,
+        "num": 184197,
+        "word": "90后老师课件插入表情包引质疑",
+        "onboard_time": 1667036784,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "爱豆们的封神cos",
+        "onboard_time": 1667044224,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163825,
+        "num": 163825,
+        "word": "多地支持鼓励灵活就业人员买房",
+        "onboard_time": 1667045185,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 147346,
+        "word": "S12半决赛",
+        "onboard_time": 1667032824,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141252,
+        "num": 141252,
+        "word": "猫咪迷路女子电梯停多层帮忙找家",
+        "onboard_time": 1667045726,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132775,
+        "num": 132775,
+        "word": "如果18岁以后不剪头发能留多长",
+        "onboard_time": 1667038763,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178733,
+        "num": 131177,
+        "word": "中国好声音产生首位广西籍冠军",
+        "onboard_time": 1667034684,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174984,
+        "num": 127919,
+        "word": "Minnie清唱Change",
+        "onboard_time": 1667045005,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161875,
+        "num": 127276,
+        "word": "张真源清唱哪里都是你",
+        "onboard_time": 1667044166,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "孙颖莎4比1王艺迪",
+        "onboard_time": 1667046025,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "陈哲远直播生图",
+        "onboard_time": 1667042124,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 118705,
+        "word": "三体",
+        "onboard_time": 1667019983,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110601,
+        "num": 110601,
+        "word": "教资科二",
+        "onboard_time": 1667026710,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 106034,
+        "word": "斯人版的教材被找到了",
+        "onboard_time": 1667025982,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96008,
+        "num": 96008,
+        "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+        "onboard_time": 1667027422,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 94789,
+        "num": 94789,
+        "word": "主办方回应长沙马拉松改为线上赛",
+        "onboard_time": 1667039245,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 106909,
+        "num": 93755,
+        "word": "蔡徐坤舞蹈力度",
+        "onboard_time": 1667044825,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103795,
+        "num": 93194,
+        "word": "时代少年团2023台历拍摄幕后花絮",
+        "onboard_time": 1667043144,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91292,
+        "num": 91292,
+        "word": "女生网购抽纸逐张数后少32抽",
+        "onboard_time": 1667034804,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90046,
+        "num": 90046,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85943,
+        "num": 85943,
+        "word": "西安辅警执勤中被撞不幸牺牲",
+        "onboard_time": 1667030483,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82295,
+        "num": 82295,
+        "word": "专硕将扩大至研究生招生三分之二",
+        "onboard_time": 1667022378,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 74055,
+        "num": 74055,
+        "word": "5岁男孩获救后忍着疼大声说谢谢",
+        "onboard_time": 1667030721,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72428,
+        "num": 72428,
+        "word": "延长专硕学制已成趋势",
+        "onboard_time": 1667033543,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 69486,
+        "num": 69486,
+        "word": "十几岁的心动有多难忘",
+        "onboard_time": 1667036303,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67339,
+        "num": 67339,
+        "word": "武汉明确咽拭子采集至少擦拭6次",
+        "onboard_time": 1667047223,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#红旗渠精神永远震撼人心#"
+    }
+  }
+}

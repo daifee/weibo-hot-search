@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667043346870,
+  "endTime": 1667047276269,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -41,6 +41,14 @@
       "onboard_time": 1667026710,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1431087,
+      "num": 1431087,
+      "word": "外卖员被打赏1元1角以为求救秒报警",
+      "onboard_time": 1667043805,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1279857,
@@ -113,6 +121,14 @@
       "onboard_time": 1667008642,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 879190,
+      "num": 879190,
+      "word": "四菜一汤68元上门做菜女子开直播",
+      "onboard_time": 1667041763,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 878080,
@@ -251,6 +267,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 539539,
+      "num": 539539,
+      "word": "叶舒华用中文说三流之路台词",
+      "onboard_time": 1667044746,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529727,
       "num": 445733,
       "word": "李一桐公主头录奔跑吧",
@@ -265,6 +289,14 @@
       "onboard_time": 1666960643,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521318,
+      "num": 521318,
+      "word": "这个字居然要172笔才能写完",
+      "onboard_time": 1667043443,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514381,
@@ -297,6 +329,22 @@
       "onboard_time": 1667019983,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 476378,
+      "num": 476378,
+      "word": "奥恰洛夫vs张本智和",
+      "onboard_time": 1667046804,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474207,
+      "num": 474207,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1667043623,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 456755,
@@ -347,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415359,
+      "num": 328428,
+      "word": "林孝埈短道速滑世界杯初战告捷",
+      "onboard_time": 1667044943,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410145,
       "num": 410145,
       "word": "小伙网恋1年女友竟留络腮胡似李逵",
@@ -361,6 +417,14 @@
       "onboard_time": 1667015723,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402626,
+      "num": 327154,
+      "word": "俄称英国皇家海军官员参与了北溪事件",
+      "onboard_time": 1667044166,
+      "rank": 12,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 399728,
@@ -385,14 +449,6 @@
       "onboard_time": 1667037563,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386098,
-      "num": 386098,
-      "word": "四菜一汤68元上门做菜女子开直播",
-      "onboard_time": 1667041763,
-      "rank": 36,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 383690,
@@ -531,6 +587,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 293013,
+      "num": 293013,
+      "word": "WTT",
+      "onboard_time": 1667044284,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291519,
       "num": 291519,
       "word": "湖人又输了",
@@ -587,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267141,
+      "num": 267141,
+      "word": "JDG手游赢了",
+      "onboard_time": 1667043562,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265518,
       "num": 252258,
       "word": "普京称特拉斯脑子不太正常",
@@ -596,7 +668,7 @@
     },
     {
       "raw_hot": 263656,
-      "num": 192007,
+      "num": 225054,
       "word": "奔跑吧",
       "onboard_time": 1667042062,
       "rank": 33,
@@ -712,6 +784,14 @@
       "word": "街舞5开场舞",
       "onboard_time": 1667037383,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219076,
+      "num": 219076,
+      "word": "嗨放派",
+      "onboard_time": 1667046204,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -899,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182482,
+      "num": 182482,
+      "word": "爱豆们的封神cos",
+      "onboard_time": 1667044224,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180807,
       "num": 180807,
       "word": "金华一老人幼儿园接错娃",
@@ -929,6 +1017,14 @@
       "onboard_time": 1666956743,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 174984,
+      "num": 127919,
+      "word": "Minnie清唱Change",
+      "onboard_time": 1667045005,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172784,
@@ -995,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163825,
+      "num": 163825,
+      "word": "多地支持鼓励灵活就业人员买房",
+      "onboard_time": 1667045185,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 162040,
       "num": 162040,
       "word": "人只会嘲笑和自己相近的人",
       "onboard_time": 1667035043,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161875,
+      "num": 127276,
+      "word": "张真源清唱哪里都是你",
+      "onboard_time": 1667044166,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161630,
@@ -1081,6 +1193,14 @@
       "onboard_time": 1667038163,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141252,
+      "num": 141252,
+      "word": "猫咪迷路女子电梯停多层帮忙找家",
+      "onboard_time": 1667045726,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140011,
@@ -1195,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123317,
+      "num": 123317,
+      "word": "孙颖莎4比1王艺迪",
+      "onboard_time": 1667046025,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120737,
       "num": 86249,
       "word": "蔡徐坤沸腾校园毕业大秀",
@@ -1280,6 +1408,14 @@
       "word": "真接不上0713的脑回路",
       "onboard_time": 1667012662,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 93755,
+      "word": "蔡徐坤舞蹈力度",
+      "onboard_time": 1667044825,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1435,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86951,
+      "num": 637808,
+      "word": "党的二十大报告学习工具",
+      "onboard_time": 1667043024,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 85352,
       "num": 85352,
       "word": "短道速滑世界杯",
@@ -1587,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67339,
+      "num": 67339,
+      "word": "武汉明确咽拭子采集至少擦拭6次",
+      "onboard_time": 1667047223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67150,
       "num": 67150,
       "word": "王栎鑫又吐了",
@@ -1641,14 +1793,6 @@
       "onboard_time": 1666975160,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47627,
-      "num": 594005,
-      "word": "党的二十大报告学习工具",
-      "onboard_time": 1667043024,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 42714,
@@ -1730,6 +1874,9 @@
     },
     {
       "word": "#发扬延安精神和红旗渠精神#"
+    },
+    {
+      "word": "#红旗渠精神永远震撼人心#"
     }
   ]
 }
