@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667022089774,
+  "endTime": 1667024915348,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -41,6 +41,14 @@
       "onboard_time": 1667015903,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890874,
+      "num": 890874,
+      "word": "专硕将扩大至研究生招生三分之二",
+      "onboard_time": 1667022378,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 885198,
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476972,
+      "num": 476972,
+      "word": "三体",
+      "onboard_time": 1667019983,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 456755,
       "num": 456755,
       "word": "林孝埈一过五正面视角",
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367302,
+      "num": 367302,
+      "word": "东北大爷摔落轮椅躺地自嘲女子帮扶",
+      "onboard_time": 1667019864,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365650,
       "num": 294433,
       "word": "newjeans出道一百天",
@@ -257,14 +281,6 @@
       "onboard_time": 1666975879,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331727,
-      "num": 331727,
-      "word": "三体",
-      "onboard_time": 1667019983,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 293717,
@@ -339,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248287,
-      "num": 248287,
-      "word": "东北大爷摔落轮椅躺地自嘲女子帮扶",
-      "onboard_time": 1667019864,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 246956,
+      "num": 246956,
+      "word": "林俊杰7千3百多天于11月1日上架",
+      "onboard_time": 1667023822,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 246376,
@@ -385,6 +401,14 @@
       "onboard_time": 1666998916,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234810,
+      "num": 127607,
+      "word": "刘诗诗烟熏妆侧颜随拍",
+      "onboard_time": 1667023159,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231653,
@@ -683,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128291,
+      "num": 99676,
+      "word": "刘些宁奔跑吧粉色运动服路透",
+      "onboard_time": 1667024720,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127871,
       "num": 127871,
       "word": "王一博这就是街舞5总决赛彩排照",
@@ -715,6 +747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123928,
+      "num": 123928,
+      "word": "男子水缸种莲藕丰收后砸缸取藕",
+      "onboard_time": 1667018783,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117796,
       "num": 117796,
       "word": "法证先锋5好敢拍",
@@ -731,12 +771,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116499,
+      "num": 116499,
+      "word": "西安一高校同寝室3女生全保研",
+      "onboard_time": 1667023102,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 114032,
       "num": 114032,
       "word": "刘昊然董子健我的朋友安德烈",
       "onboard_time": 1667001381,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110339,
+      "num": 110339,
+      "word": "道教学生回应上课学中医算八字",
+      "onboard_time": 1667023522,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 109867,
@@ -752,6 +808,14 @@
       "word": "10月28日新增本土确诊324例",
       "onboard_time": 1667010143,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108881,
+      "num": 108881,
+      "word": "乌林鸮的脸也太太太太大了",
+      "onboard_time": 1667020643,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -787,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103737,
+      "num": 96866,
+      "word": "白鹿奔跑吧特别季蓝色毛衣路透",
+      "onboard_time": 1667024485,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102468,
       "num": 102468,
       "word": "看过后劲最大的剧",
@@ -808,14 +880,6 @@
       "word": "对照自测是否为卒中高危人群",
       "onboard_time": 1667005401,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100160,
-      "num": 100160,
-      "word": "乌林鸮的脸也太太太太大了",
-      "onboard_time": 1667020643,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -881,6 +945,14 @@
       "onboard_time": 1667012902,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85618,
+      "num": 236597,
+      "word": "5000多小时特级飞行员光荣停飞",
+      "onboard_time": 1667023281,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85352,
@@ -1024,6 +1096,14 @@
       "word": "7旬夫妻为3岁女儿庆生",
       "onboard_time": 1666945464,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53624,
+      "num": 53624,
+      "word": "阿拉山口海关截获境外土壤3300公斤",
+      "onboard_time": 1667024181,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
