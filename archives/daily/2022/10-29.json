@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667047276269,
+  "endTime": 1667048566827,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -35,20 +35,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1591954,
+      "num": 1591954,
+      "word": "外卖员被打赏1元1角以为求救秒报警",
+      "onboard_time": 1667043805,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1576780,
       "num": 1576780,
       "word": "教资科二",
       "onboard_time": 1667026710,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1431087,
-      "num": 1431087,
-      "word": "外卖员被打赏1元1角以为求救秒报警",
-      "onboard_time": 1667043805,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1279857,
@@ -81,6 +81,14 @@
       "onboard_time": 1667015903,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063420,
+      "num": 1063420,
+      "word": "奥恰洛夫vs张本智和",
+      "onboard_time": 1667046804,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1045330,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629201,
+      "num": 321175,
+      "word": "武汉明确咽拭子采集至少擦拭6次",
+      "onboard_time": 1667047223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629081,
       "num": 629081,
       "word": "吉赛尔邦辰与布雷迪离婚",
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568625,
+      "num": 568625,
+      "word": "这个字居然要172笔才能写完",
+      "onboard_time": 1667043443,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559285,
       "num": 371635,
       "word": "赵丽颖片场包饺子",
@@ -291,20 +315,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 521318,
-      "num": 521318,
-      "word": "这个字居然要172笔才能写完",
-      "onboard_time": 1667043443,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514381,
       "num": 514381,
       "word": "沉香是懂拒绝的",
       "onboard_time": 1667039964,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 513911,
+      "num": 513911,
+      "word": "林孝埈短道速滑世界杯初战告捷",
+      "onboard_time": 1667044943,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 512547,
+      "num": 316415,
+      "word": "王一博刘雨昕韩庚李承铉街舞5工作室出图",
+      "onboard_time": 1667048365,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501317,
@@ -329,14 +361,6 @@
       "onboard_time": 1667019983,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 476378,
-      "num": 476378,
-      "word": "奥恰洛夫vs张本智和",
-      "onboard_time": 1667046804,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 474207,
@@ -395,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415359,
-      "num": 328428,
-      "word": "林孝埈短道速滑世界杯初战告捷",
-      "onboard_time": 1667044943,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 410145,
       "num": 410145,
       "word": "小伙网恋1年女友竟留络腮胡似李逵",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 402626,
-      "num": 327154,
+      "num": 371427,
       "word": "俄称英国皇家海军官员参与了北溪事件",
       "onboard_time": 1667044166,
       "rank": 12,
@@ -529,6 +545,14 @@
       "onboard_time": 1667039245,
       "rank": 36,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 329797,
+      "num": 329797,
+      "word": "多地支持鼓励灵活就业人员买房",
+      "onboard_time": 1667045185,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 317976,
@@ -683,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250172,
+      "num": 250172,
+      "word": "你好星期六",
+      "onboard_time": 1667047944,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249420,
       "num": 249420,
       "word": "Aster止步TI四强",
@@ -755,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232603,
+      "num": 219076,
+      "word": "嗨放派",
+      "onboard_time": 1667046204,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232414,
       "num": 191870,
       "word": "蔡徐坤四个视角的ending",
@@ -784,14 +824,6 @@
       "word": "街舞5开场舞",
       "onboard_time": 1667037383,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219076,
-      "num": 219076,
-      "word": "嗨放派",
-      "onboard_time": 1667046204,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 174984,
-      "num": 127919,
+      "num": 149221,
       "word": "Minnie清唱Change",
       "onboard_time": 1667045005,
       "rank": 31,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1667017402,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171188,
+      "num": 171188,
+      "word": "猫咪迷路女子电梯停多层帮忙找家",
+      "onboard_time": 1667045726,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168446,
@@ -1091,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163825,
-      "num": 163825,
-      "word": "多地支持鼓励灵活就业人员买房",
-      "onboard_time": 1667045185,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 162040,
       "num": 162040,
       "word": "人只会嘲笑和自己相近的人",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 161875,
-      "num": 127276,
+      "num": 146579,
       "word": "张真源清唱哪里都是你",
       "onboard_time": 1667044166,
       "rank": 32,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1667031322,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159115,
+      "num": 159115,
+      "word": "突然从焦虑变得不焦虑了",
+      "onboard_time": 1667047762,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 158541,
@@ -1193,14 +1233,6 @@
       "onboard_time": 1667038163,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141252,
-      "num": 141252,
-      "word": "猫咪迷路女子电梯停多层帮忙找家",
-      "onboard_time": 1667045726,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140011,
@@ -1395,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108360,
+      "num": 97796,
+      "word": "宣美翻跳Attention",
+      "onboard_time": 1667048244,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107685,
       "num": 107685,
       "word": "考完综合素质发现没素质",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1667013805,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103172,
+      "num": 103172,
+      "word": "张本智和4比0奥恰洛夫",
+      "onboard_time": 1667047825,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 102468,
@@ -1555,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89367,
+      "num": 718485,
+      "word": "党的二十大报告学习工具",
+      "onboard_time": 1667043024,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "英雄联盟",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1667012902,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86951,
-      "num": 637808,
-      "word": "党的二十大报告学习工具",
-      "onboard_time": 1667043024,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 85352,
@@ -1723,20 +1771,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68844,
+      "num": 68844,
+      "word": "莱斯特城vs曼城",
+      "onboard_time": 1667047646,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68431,
       "num": 68431,
       "word": "4分钟在家做有氧",
       "onboard_time": 1667016501,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67339,
-      "num": 67339,
-      "word": "武汉明确咽拭子采集至少擦拭6次",
-      "onboard_time": 1667047223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67150,

@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667047276269,
+  "endTime": 1667048566827,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1591954,
+      "num": 1591954,
+      "word": "外卖员被打赏1元1角以为求救秒报警",
+      "onboard_time": 1667043805,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1576780,
       "num": 1576780,
       "word": "教资科二",
@@ -201,14 +209,6 @@
       "onboard_time": 1666792585,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1431087,
-      "num": 1431087,
-      "word": "外卖员被打赏1元1角以为求救秒报警",
-      "onboard_time": 1667043805,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1424603,
@@ -473,6 +473,14 @@
       "onboard_time": 1667015903,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063420,
+      "num": 1063420,
+      "word": "奥恰洛夫vs张本智和",
+      "onboard_time": 1667046804,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1052825,
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629201,
+      "num": 321175,
+      "word": "武汉明确咽拭子采集至少擦拭6次",
+      "onboard_time": 1667047223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629081,
       "num": 629081,
       "word": "吉赛尔邦辰与布雷迪离婚",
@@ -1667,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 568625,
+      "num": 568625,
+      "word": "这个字居然要172笔才能写完",
+      "onboard_time": 1667043443,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568603,
       "num": 87828,
       "word": "纪念毛岸英同志诞辰百年",
@@ -1891,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521318,
-      "num": 521318,
-      "word": "这个字居然要172笔才能写完",
-      "onboard_time": 1667043443,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 521066,
       "num": 424873,
       "word": "南忘今萧至今未合体",
@@ -1945,6 +1961,22 @@
       "onboard_time": 1666964184,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513911,
+      "num": 513911,
+      "word": "林孝埈短道速滑世界杯初战告捷",
+      "onboard_time": 1667044943,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 512547,
+      "num": 316415,
+      "word": "王一博刘雨昕韩庚李承铉街舞5工作室出图",
+      "onboard_time": 1667048365,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 512440,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1667019983,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 476378,
-      "num": 476378,
-      "word": "奥恰洛夫vs张本智和",
-      "onboard_time": 1667046804,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 475491,
@@ -2763,14 +2787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415359,
-      "num": 328428,
-      "word": "林孝埈短道速滑世界杯初战告捷",
-      "onboard_time": 1667044943,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 414588,
       "num": 397947,
       "word": "车银优韩素希李洙赫短剧完整版",
@@ -2908,7 +2924,7 @@
     },
     {
       "raw_hot": 402626,
-      "num": 327154,
+      "num": 371427,
       "word": "俄称英国皇家海军官员参与了北溪事件",
       "onboard_time": 1667044166,
       "rank": 12,
@@ -3785,6 +3801,14 @@
       "onboard_time": 1666844185,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 329797,
+      "num": 329797,
+      "word": "多地支持鼓励灵活就业人员买房",
+      "onboard_time": 1667045185,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 329071,
@@ -4811,6 +4835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250172,
+      "num": 250172,
+      "word": "你好星期六",
+      "onboard_time": 1667047944,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249828,
       "num": 302816,
       "word": "李咏去世四周年",
@@ -5235,6 +5267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232603,
+      "num": 219076,
+      "word": "嗨放派",
+      "onboard_time": 1667046204,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232453,
       "num": 232453,
       "word": "原来被夸真的会很快乐",
@@ -5521,14 +5561,6 @@
       "onboard_time": 1666948525,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219076,
-      "num": 219076,
-      "word": "嗨放派",
-      "onboard_time": 1667046204,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 218789,
@@ -6516,7 +6548,7 @@
     },
     {
       "raw_hot": 174984,
-      "num": 127919,
+      "num": 149221,
       "word": "Minnie清唱Change",
       "onboard_time": 1667045005,
       "rank": 31,
@@ -6577,6 +6609,14 @@
       "onboard_time": 1666791446,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171188,
+      "num": 171188,
+      "word": "猫咪迷路女子电梯停多层帮忙找家",
+      "onboard_time": 1667045726,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171145,
@@ -6763,14 +6803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163825,
-      "num": 163825,
-      "word": "多地支持鼓励灵活就业人员买房",
-      "onboard_time": 1667045185,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 163143,
       "num": 160768,
       "word": "有打戏nb症的演员",
@@ -6820,7 +6852,7 @@
     },
     {
       "raw_hot": 161875,
-      "num": 127276,
+      "num": 146579,
       "word": "张真源清唱哪里都是你",
       "onboard_time": 1667044166,
       "rank": 32,
@@ -6881,6 +6913,14 @@
       "onboard_time": 1666929623,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159115,
+      "num": 159115,
+      "word": "突然从焦虑变得不焦虑了",
+      "onboard_time": 1667047762,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 158715,
@@ -7369,14 +7409,6 @@
       "onboard_time": 1666685904,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141252,
-      "num": 141252,
-      "word": "猫咪迷路女子电梯停多层帮忙找家",
-      "onboard_time": 1667045726,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141163,
@@ -8371,6 +8403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 108360,
+      "num": 97796,
+      "word": "宣美翻跳Attention",
+      "onboard_time": 1667048244,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108300,
       "num": 108300,
       "word": "算是把双十一拿捏住了",
@@ -8625,6 +8665,14 @@
       "onboard_time": 1666921884,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 103172,
+      "num": 103172,
+      "word": "张本智和4比0奥恰洛夫",
+      "onboard_time": 1667047825,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 103068,
@@ -9187,6 +9235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89367,
+      "num": 718485,
+      "word": "党的二十大报告学习工具",
+      "onboard_time": 1667043024,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 88989,
       "num": 77280,
       "word": "宋茜许魏洲新剧演情侣",
@@ -9257,14 +9313,6 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86951,
-      "num": 637808,
-      "word": "党的二十大报告学习工具",
-      "onboard_time": 1667043024,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 86705,
@@ -9939,6 +9987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68844,
+      "num": 68844,
+      "word": "莱斯特城vs曼城",
+      "onboard_time": 1667047646,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68840,
       "num": 68840,
       "word": "热心小哥抱抱侠找到了",
@@ -9993,14 +10049,6 @@
       "onboard_time": 1666618405,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 67339,
-      "num": 67339,
-      "word": "武汉明确咽拭子采集至少擦拭6次",
-      "onboard_time": 1667047223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67261,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1667048566827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1591954,
+        "num": 1591954,
+        "word": "外卖员被打赏1元1角以为求救秒报警",
+        "onboard_time": 1667043805,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063420,
+        "num": 1063420,
+        "word": "奥恰洛夫vs张本智和",
+        "onboard_time": 1667046804,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89367,
+        "num": 718485,
+        "word": "党的二十大报告学习工具",
+        "onboard_time": 1667043024,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 568625,
+        "num": 568625,
+        "word": "这个字居然要172笔才能写完",
+        "onboard_time": 1667043443,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550697,
+        "num": 550697,
+        "word": "四菜一汤68元上门做菜女子开直播",
+        "onboard_time": 1667041763,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 513911,
+        "num": 513911,
+        "word": "林孝埈短道速滑世界杯初战告捷",
+        "onboard_time": 1667044943,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468753,
+        "num": 468753,
+        "word": "叶舒华用中文说三流之路台词",
+        "onboard_time": 1667044746,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371427,
+        "num": 371427,
+        "word": "俄称英国皇家海军官员参与了北溪事件",
+        "onboard_time": 1667044166,
+        "rank": 7,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 338690,
+        "num": 338690,
+        "word": "iPhone15Pro或取消物理按键",
+        "onboard_time": 1667030962,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329797,
+        "num": 329797,
+        "word": "多地支持鼓励灵活就业人员买房",
+        "onboard_time": 1667045185,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 629201,
+        "num": 321175,
+        "word": "武汉明确咽拭子采集至少擦拭6次",
+        "onboard_time": 1667047223,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512547,
+        "num": 316415,
+        "word": "王一博刘雨昕韩庚李承铉街舞5工作室出图",
+        "onboard_time": 1667048365,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299678,
+        "num": 299678,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1667043623,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274372,
+        "num": 274372,
+        "word": "教资科三",
+        "onboard_time": 1667038644,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258875,
+        "num": 258875,
+        "word": "沉香是懂拒绝的",
+        "onboard_time": 1667039964,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 253197,
+        "word": "李一桐公主头录奔跑吧",
+        "onboard_time": 1667038345,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250172,
+        "num": 250172,
+        "word": "你好星期六",
+        "onboard_time": 1667047944,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243806,
+        "num": 243806,
+        "word": "赵丽颖片场包饺子",
+        "onboard_time": 1667042182,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224706,
+        "num": 224706,
+        "word": "研究发现越上网越不爱生孩子",
+        "onboard_time": 1667030003,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215394,
+        "num": 215394,
+        "word": "WTT",
+        "onboard_time": 1667044284,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774411,
+        "num": 210901,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232603,
+        "num": 205997,
+        "word": "嗨放派",
+        "onboard_time": 1667046204,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200265,
+        "num": 200265,
+        "word": "为什么玉米截面上玉米粒都是偶数",
+        "onboard_time": 1667040923,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175185,
+        "num": 175185,
+        "word": "爱豆们的封神cos",
+        "onboard_time": 1667044224,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171188,
+        "num": 171188,
+        "word": "猫咪迷路女子电梯停多层帮忙找家",
+        "onboard_time": 1667045726,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172281,
+        "num": 165406,
+        "word": "奔跑吧",
+        "onboard_time": 1667042062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159115,
+        "num": 159115,
+        "word": "突然从焦虑变得不焦虑了",
+        "onboard_time": 1667047762,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 386962,
+        "num": 156633,
+        "word": "南京金盛百货失火浓烟滚滚",
+        "onboard_time": 1667035401,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150978,
+        "num": 150978,
+        "word": "JDG手游赢了",
+        "onboard_time": 1667043562,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149816,
+        "num": 149816,
+        "word": "英王后所乘飞机着陆时遭鸟撞击",
+        "onboard_time": 1667038163,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163252,
+        "num": 149793,
+        "word": "中国好声音产生首位广西籍冠军",
+        "onboard_time": 1667034684,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 149221,
+        "word": "Minnie清唱Change",
+        "onboard_time": 1667045005,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146579,
+        "num": 146579,
+        "word": "张真源清唱哪里都是你",
+        "onboard_time": 1667044166,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143328,
+        "num": 143328,
+        "word": "S12半决赛",
+        "onboard_time": 1667032824,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143239,
+        "num": 143239,
+        "word": "90后老师课件插入表情包引质疑",
+        "onboard_time": 1667036784,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118665,
+        "num": 118665,
+        "word": "如果18岁以后不剪头发能留多长",
+        "onboard_time": 1667038763,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104495,
+        "num": 104495,
+        "word": "孙颖莎4比1王艺迪",
+        "onboard_time": 1667046025,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103172,
+        "num": 103172,
+        "word": "张本智和4比0奥恰洛夫",
+        "onboard_time": 1667047825,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102605,
+        "num": 102605,
+        "word": "三体",
+        "onboard_time": 1667019983,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99085,
+        "num": 99085,
+        "word": "教资科二",
+        "onboard_time": 1667026710,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 98791,
+        "word": "这就是街舞",
+        "onboard_time": 1667038163,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108360,
+        "num": 97796,
+        "word": "宣美翻跳Attention",
+        "onboard_time": 1667048244,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91971,
+        "num": 91971,
+        "word": "斯人版的教材被找到了",
+        "onboard_time": 1667025982,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84256,
+        "num": 84256,
+        "word": "西安辅警执勤中被撞不幸牺牲",
+        "onboard_time": 1667030483,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82594,
+        "num": 82594,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76809,
+        "num": 76809,
+        "word": "女生网购抽纸逐张数后少32抽",
+        "onboard_time": 1667034804,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73918,
+        "num": 73918,
+        "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+        "onboard_time": 1667027422,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 73313,
+        "num": 73313,
+        "word": "专硕将扩大至研究生招生三分之二",
+        "onboard_time": 1667022378,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 70922,
+        "num": 70922,
+        "word": "十几岁的心动有多难忘",
+        "onboard_time": 1667036303,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68844,
+        "num": 68844,
+        "word": "莱斯特城vs曼城",
+        "onboard_time": 1667047646,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#红旗渠精神永远震撼人心#"
+    }
+  }
+}
