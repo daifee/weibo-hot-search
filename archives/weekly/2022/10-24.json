@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667016568440,
+  "endTime": 1667018680866,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 880619,
-      "num": 301317,
+      "num": 348818,
       "word": "内娱输给了游乐园NPC",
       "onboard_time": 1667008642,
       "rank": 30,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 878080,
-      "num": 165973,
+      "num": 192592,
       "word": "饭圈文化可是被整明白了",
       "onboard_time": 1667010742,
       "rank": 28,
@@ -713,6 +713,14 @@
       "onboard_time": 1666841064,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 849585,
+      "num": 849585,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840080,
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632519,
+      "num": 632519,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629081,
       "num": 629081,
       "word": "吉赛尔邦辰与布雷迪离婚",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1666655662,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583897,
+      "num": 583897,
+      "word": "南波万的聚会",
+      "onboard_time": 1667016922,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 580491,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1666913777,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 534181,
+      "num": 534181,
+      "word": "央八排播杨幂白宇谢谢你医生",
+      "onboard_time": 1667017523,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 531326,
@@ -3467,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328429,
+      "num": 328429,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328388,
       "num": 326878,
       "word": "王安宇说金晨还是一个小女孩",
@@ -4635,14 +4675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240061,
-      "num": 240061,
-      "word": "男子因他人PPT做得好顺走电脑",
-      "onboard_time": 1667015183,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239126,
       "num": 215570,
       "word": "马嘉祺我们的歌4海报花絮视频",
@@ -5291,6 +5323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "0713团打卡吧全员被罚抄",
+      "onboard_time": 1667017462,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206497,
       "num": 206497,
       "word": "奶奶为孙女打造三轮车公主房",
@@ -5579,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192300,
+      "num": 72542,
+      "word": "奔跑吧特别季沙县录制路透",
+      "onboard_time": 1667018662,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191931,
       "num": 191931,
       "word": "常上夜班的人怎么提高睡眠质量",
@@ -5739,6 +5787,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181720,
+      "num": 181720,
+      "word": "祝绪丹新剧被捏脸揪发髻",
+      "onboard_time": 1667017281,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181415,
       "num": 181415,
       "word": "蕾哈娜新歌LiftMeUp公开",
@@ -5777,6 +5833,14 @@
       "onboard_time": 1666998316,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180619,
+      "num": 180619,
+      "word": "27岁女孩为19岁女孩捐造血干细胞",
+      "onboard_time": 1667017582,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 180104,
@@ -5867,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177947,
+      "num": 177947,
+      "word": "中国好声音上新了越剧季",
+      "onboard_time": 1667018062,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177460,
       "num": 30675,
       "word": "程序员节",
@@ -5952,6 +6024,14 @@
       "word": "心动的信号第五季友情",
       "onboard_time": 1666759708,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171771,
+      "num": 161597,
+      "word": "街舞5总决赛节目单",
+      "onboard_time": 1667017402,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -6187,12 +6267,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "直20试飞员冲进结冰云层获宝贵数据",
+      "onboard_time": 1667013564,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161617,
       "num": 161617,
       "word": "我的精神状态靠买东西支撑",
       "onboard_time": 1666791387,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161483,
+      "num": 161483,
+      "word": "欧文",
+      "onboard_time": 1667018243,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 161228,
@@ -6371,14 +6467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153508,
-      "num": 153508,
-      "word": "患癌妈妈去世前为儿子做最后一餐",
-      "onboard_time": 1667015903,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153289,
       "num": 85072,
       "word": "段永平六次加仓腾讯",
@@ -6441,14 +6529,6 @@
       "onboard_time": 1666695503,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 148581,
-      "num": 148581,
-      "word": "直20试飞员冲进结冰云层获宝贵数据",
-      "onboard_time": 1667013564,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148484,
@@ -6747,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139037,
+      "num": 139037,
+      "word": "你为什么考教资",
+      "onboard_time": 1667016443,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139023,
       "num": 56283,
       "word": "故意不给狗狗说吃饭口令时",
@@ -6889,14 +6977,6 @@
       "onboard_time": 1666601362,
       "rank": 44,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 132394,
-      "num": 113287,
-      "word": "你为什么考教资",
-      "onboard_time": 1667016443,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 132369,
@@ -7123,6 +7203,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 125285,
+      "num": 125285,
+      "word": "TI11",
+      "onboard_time": 1667017163,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125065,
       "num": 125800,
       "word": "李冰洁短池400自超世界纪录",
@@ -7169,14 +7257,6 @@
       "onboard_time": 1666696944,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123913,
-      "num": 109239,
-      "word": "班主任是表姨来做客男孩吓得躲厕所",
-      "onboard_time": 1667015723,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123753,
@@ -7297,6 +7377,14 @@
       "onboard_time": 1666536385,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "年轻人为什么热衷于拜财神",
+      "onboard_time": 1667016922,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 119684,
@@ -7763,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104177,
+      "num": 104177,
+      "word": "国产机器人到底有多牛",
+      "onboard_time": 1667013805,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104166,
       "num": 104166,
       "word": "表情包都要被你们玩坏了",
@@ -7987,14 +8083,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 99055,
-      "num": 99055,
-      "word": "国产机器人到底有多牛",
-      "onboard_time": 1667013805,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98868,
       "num": 98868,
       "word": "龚俊演AI人工智能",
@@ -8097,6 +8185,14 @@
       "onboard_time": 1666949482,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94714,
+      "num": 94714,
+      "word": "道教学院学生的日常",
+      "onboard_time": 1667017643,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 94651,
@@ -8899,6 +8995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73061,
+      "num": 73061,
+      "word": "林孝埈状态",
+      "onboard_time": 1667018361,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72877,
       "num": 72877,
       "word": "高清大图看梦天实验舱组合体",
@@ -9257,6 +9361,14 @@
       "onboard_time": 1666501287,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62321,
+      "num": 62321,
+      "word": "一人一个动作为梦天送祝福",
+      "onboard_time": 1667018062,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 62041,
