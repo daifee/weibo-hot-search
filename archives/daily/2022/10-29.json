@@ -1,7 +1,15 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667011046978,
+  "endTime": 1667015916918,
   "band_list": [
+    {
+      "raw_hot": 3546205,
+      "num": 3546205,
+      "word": "教资",
+      "onboard_time": 1667000360,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 2002740,
       "num": 2002740,
@@ -11,8 +19,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1745572,
+      "num": 1745572,
+      "word": "教资答案",
+      "onboard_time": 1667013382,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1199535,
+      "num": 1199535,
+      "word": "教资作文",
+      "onboard_time": 1667013744,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 885198,
-      "num": 526374,
+      "num": 657381,
       "word": "苹果市值一夜暴涨1761亿美元",
       "onboard_time": 1667007922,
       "rank": 10,
@@ -25,6 +49,14 @@
       "onboard_time": 1667008642,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 878080,
+      "num": 165973,
+      "word": "饭圈文化可是被整明白了",
+      "onboard_time": 1667010742,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 859976,
@@ -41,6 +73,14 @@
       "onboard_time": 1667003661,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 639043,
+      "num": 639043,
+      "word": "综合素质",
+      "onboard_time": 1667014464,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 629081,
@@ -123,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365650,
+      "num": 294433,
+      "word": "newjeans出道一百天",
+      "onboard_time": 1667014524,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365283,
       "num": 365283,
       "word": "台北故宫3件文物破损照曝光",
@@ -155,14 +203,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 292451,
-      "num": 292451,
-      "word": "教资",
-      "onboard_time": 1667000360,
-      "rank": 16,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 291308,
       "num": 291308,
       "word": "短道速滑",
@@ -177,6 +217,14 @@
       "onboard_time": 1666965267,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285534,
+      "num": 285534,
+      "word": "湖人又输了",
+      "onboard_time": 1667013983,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 277075,
@@ -264,6 +312,14 @@
       "word": "中国好声音",
       "onboard_time": 1666961004,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "被尹浩宇屋顶着火舞台点燃了",
+      "onboard_time": 1667015361,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -363,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167116,
+      "num": 167116,
+      "word": "10月28日新增本土无症状1153例",
+      "onboard_time": 1667009902,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166211,
       "num": 166211,
       "word": "李文龙",
@@ -403,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147460,
+      "num": 147460,
+      "word": "颖儿分享一个普通女演员的15年",
+      "onboard_time": 1667014162,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144143,
+      "num": 144143,
+      "word": "直20试飞员冲进结冰云层获宝贵数据",
+      "onboard_time": 1667013564,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "彩色修复李大钊生前唯一的视频",
@@ -419,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "逢考必过",
+      "onboard_time": 1667015844,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129174,
       "num": 129174,
       "word": "原来有个饭搭子这么幸福",
       "onboard_time": 1666968087,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129076,
-      "num": 129076,
-      "word": "饭圈文化可是被整明白了",
-      "onboard_time": 1667010742,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 127871,
@@ -448,6 +528,14 @@
       "word": "乌鲁木齐疫情防控",
       "onboard_time": 1666961243,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119189,
+      "num": 119189,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -481,6 +569,14 @@
       "onboard_time": 1667010143,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107493,
+      "num": 107493,
+      "word": "真接不上0713的脑回路",
+      "onboard_time": 1667012662,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 106809,
@@ -531,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97228,
+      "num": 97228,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93645,
       "num": 93645,
       "word": "湖人vs森林狼",
@@ -563,14 +667,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 89762,
-      "num": 89762,
-      "word": "10月28日新增本土无症状1153例",
-      "onboard_time": 1667009902,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89427,
       "num": 89427,
       "word": "河南热奶宝有多好吃",
@@ -584,6 +680,22 @@
       "word": "英雄联盟",
       "onboard_time": 1666963524,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88862,
+      "num": 88862,
+      "word": "国产机器人到底有多牛",
+      "onboard_time": 1667013805,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88219,
+      "num": 88219,
+      "word": "清融的十九岁答卷",
+      "onboard_time": 1667012902,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -691,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64048,
+      "num": 64048,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61115,
       "num": 61115,
       "word": "7旬夫妻为3岁女儿庆生",
@@ -756,7 +876,7 @@
     },
     {
       "raw_hot": 6717,
-      "num": 674752,
+      "num": 1431056,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,

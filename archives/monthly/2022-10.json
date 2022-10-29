@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667011046978,
+  "endTime": 1667015916918,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -89,6 +89,14 @@
       "onboard_time": 1665381425,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3546205,
+      "num": 3546205,
+      "word": "教资",
+      "onboard_time": 1667000360,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 3489698,
@@ -945,6 +953,14 @@
       "onboard_time": 1664869943,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1745572,
+      "num": 1745572,
+      "word": "教资答案",
+      "onboard_time": 1667013382,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1736779,
@@ -2233,6 +2249,14 @@
       "onboard_time": 1664619682,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199535,
+      "num": 1199535,
+      "word": "教资作文",
+      "onboard_time": 1667013744,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1199314,
@@ -4004,7 +4028,7 @@
     },
     {
       "raw_hot": 885198,
-      "num": 526374,
+      "num": 657381,
       "word": "苹果市值一夜暴涨1761亿美元",
       "onboard_time": 1667007922,
       "rank": 10,
@@ -4065,6 +4089,14 @@
       "onboard_time": 1666916906,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 878080,
+      "num": 165973,
+      "word": "饭圈文化可是被整明白了",
+      "onboard_time": 1667010742,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 876900,
@@ -7001,6 +7033,14 @@
       "onboard_time": 1666949545,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 639043,
+      "num": 639043,
+      "word": "综合素质",
+      "onboard_time": 1667014464,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 638709,
@@ -15003,6 +15043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365650,
+      "num": 294433,
+      "word": "newjeans出道一百天",
+      "onboard_time": 1667014524,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365514,
       "num": 365514,
       "word": "王者七周年皮肤CG",
@@ -18667,14 +18715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 292451,
-      "num": 292451,
-      "word": "教资",
-      "onboard_time": 1667000360,
-      "rank": 16,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "StrayKids新歌MV公开",
@@ -19049,6 +19089,14 @@
       "onboard_time": 1665135801,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285534,
+      "num": 285534,
+      "word": "湖人又输了",
+      "onboard_time": 1667013983,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 285506,
@@ -25323,6 +25371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "被尹浩宇屋顶着火舞台点燃了",
+      "onboard_time": 1667015361,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209134,
       "num": 161653,
       "word": "沸腾校园豆瓣8.3分",
@@ -29563,6 +29619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167116,
+      "num": 167116,
+      "word": "10月28日新增本土无症状1153例",
+      "onboard_time": 1667009902,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166994,
       "num": 49258,
       "word": "DOTA2",
@@ -31683,6 +31747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147460,
+      "num": 147460,
+      "word": "颖儿分享一个普通女演员的15年",
+      "onboard_time": 1667014162,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147422,
       "num": 147422,
       "word": "原来编织过程可以这么治愈",
@@ -32097,6 +32169,14 @@
       "onboard_time": 1666690524,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144143,
+      "num": 144143,
+      "word": "直20试飞员冲进结冰云层获宝贵数据",
+      "onboard_time": 1667013564,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144065,
@@ -33707,6 +33787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "逢考必过",
+      "onboard_time": 1667015844,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131282,
       "num": 125109,
       "word": "女明星公主切造型大赏",
@@ -33961,14 +34049,6 @@
       "onboard_time": 1664709444,
       "rank": 30,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 129076,
-      "num": 129076,
-      "word": "饭圈文化可是被整明白了",
-      "onboard_time": 1667010742,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 128926,
@@ -35209,6 +35289,14 @@
       "onboard_time": 1666841963,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119189,
+      "num": 119189,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119185,
@@ -36779,6 +36867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107493,
+      "num": 107493,
+      "word": "真接不上0713的脑回路",
+      "onboard_time": 1667012662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107483,
       "num": 102357,
       "word": "秦岚说王子异的进步很大",
@@ -38187,6 +38283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97228,
+      "num": 97228,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97111,
       "num": 97111,
       "word": "李月汝篮下单打",
@@ -39115,14 +39219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89762,
-      "num": 89762,
-      "word": "10月28日新增本土无症状1153例",
-      "onboard_time": 1667009902,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89668,
       "num": 231075,
       "word": "老人回应连续5年给热心女孩寄特产",
@@ -39251,6 +39347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88862,
+      "num": 88862,
+      "word": "国产机器人到底有多牛",
+      "onboard_time": 1667013805,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88811,
       "num": 88811,
       "word": "独行侠vs太阳",
@@ -39313,6 +39417,14 @@
       "onboard_time": 1666052305,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88219,
+      "num": 88219,
+      "word": "清融的十九岁答卷",
+      "onboard_time": 1667012902,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 88163,
@@ -42443,6 +42555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64048,
+      "num": 64048,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64031,
       "num": 64031,
       "word": "女篮挺进决赛姚明场边笑开花",
@@ -44164,7 +44284,7 @@
     },
     {
       "raw_hot": 45676,
-      "num": 1102374,
+      "num": 1431056,
       "word": "30个知识点带你学习党章",
       "onboard_time": 1666919424,
       "rank": 2,
