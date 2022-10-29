@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667008955233,
+  "endTime": 1667011046978,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -593,6 +593,22 @@
       "onboard_time": 1666592720,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 885198,
+      "num": 526374,
+      "word": "苹果市值一夜暴涨1761亿美元",
+      "onboard_time": 1667007922,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 880619,
+      "num": 301317,
+      "word": "内娱输给了游乐园NPC",
+      "onboard_time": 1667008642,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 879678,
@@ -2371,14 +2387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 420469,
-      "num": 331882,
-      "word": "苹果市值一夜暴涨1761亿美元",
-      "onboard_time": 1667007922,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 420324,
       "num": 84771,
       "word": "莫奈画作博物馆内被泼土豆泥",
@@ -3987,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277075,
+      "num": 277075,
+      "word": "经不起诱惑的小狗",
+      "onboard_time": 1667005882,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275867,
       "num": 30135,
       "word": "莲花楼杀青",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1666858463,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268028,
-      "num": 268028,
-      "word": "经不起诱惑的小狗",
-      "onboard_time": 1667005882,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 267468,
@@ -4449,6 +4457,14 @@
       "onboard_time": 1666670424,
       "rank": 22,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 243772,
+      "num": 243772,
+      "word": "金鸡奖预计11月12号举办颁奖礼",
+      "onboard_time": 1667009902,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 243679,
@@ -5017,6 +5033,14 @@
       "onboard_time": 1666842925,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216701,
+      "num": 216701,
+      "word": "莱万怀疑加盟巴萨决定",
+      "onboard_time": 1667009183,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 215726,
@@ -5683,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180104,
+      "num": 180104,
+      "word": "应采儿集齐了9个陈小春",
+      "onboard_time": 1666999458,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180099,
       "num": 180099,
       "word": "重庆老股民轻信讲师被骗1340万元",
@@ -5913,14 +5945,6 @@
       "onboard_time": 1666594463,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 168526,
-      "num": 168526,
-      "word": "应采儿集齐了9个陈小春",
-      "onboard_time": 1666999458,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168446,
@@ -6257,6 +6281,14 @@
       "onboard_time": 1666958844,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153802,
+      "num": 153802,
+      "word": "张柏芝怼脸视频",
+      "onboard_time": 1667008823,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 153289,
@@ -6723,14 +6755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133970,
-      "num": 133970,
-      "word": "内娱输给了游乐园NPC",
-      "onboard_time": 1667008642,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133645,
       "num": 133645,
       "word": "这就是猫猫祟祟吧",
@@ -6745,6 +6769,14 @@
       "onboard_time": 1666784843,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133239,
+      "num": 133239,
+      "word": "彩色修复李大钊生前唯一的视频",
+      "onboard_time": 1667005764,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133140,
@@ -6881,6 +6913,14 @@
       "onboard_time": 1666886303,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129076,
+      "num": 129076,
+      "word": "饭圈文化可是被整明白了",
+      "onboard_time": 1667010742,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 128874,
@@ -7081,14 +7121,6 @@
       "onboard_time": 1666687765,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121950,
-      "num": 121950,
-      "word": "彩色修复李大钊生前唯一的视频",
-      "onboard_time": 1667005764,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121680,
@@ -7347,14 +7379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110827,
-      "num": 110827,
-      "word": "张柏芝怼脸视频",
-      "onboard_time": 1667008823,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110728,
       "num": 110728,
       "word": "篮网vs灰熊",
@@ -7385,6 +7409,14 @@
       "onboard_time": 1666795287,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109837,
+      "num": 109837,
+      "word": "10月28日新增本土确诊324例",
+      "onboard_time": 1667010143,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109790,
@@ -8147,6 +8179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89762,
+      "num": 89762,
+      "word": "10月28日新增本土无症状1153例",
+      "onboard_time": 1667009902,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89498,
       "num": 89498,
       "word": "成毅莲花楼和狗子同步",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1666576161,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78366,
+      "num": 78366,
+      "word": "线上马拉松",
+      "onboard_time": 1667010922,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 77885,

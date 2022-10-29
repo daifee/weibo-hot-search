@@ -1,0 +1,410 @@
+{
+  "runTime": 1667011046978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060734,
+        "num": 1060734,
+        "word": "林孝埈",
+        "onboard_time": 1666963884,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647674,
+        "num": 647674,
+        "word": "长沙一男生刚进高中就被清华录取",
+        "onboard_time": 1667003661,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 5783,
+        "num": 529288,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 885198,
+        "num": 526374,
+        "word": "苹果市值一夜暴涨1761亿美元",
+        "onboard_time": 1667007922,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 470025,
+        "num": 470025,
+        "word": "吉赛尔邦辰与布雷迪离婚",
+        "onboard_time": 1667002401,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 460034,
+        "num": 460034,
+        "word": "男生网购抽纸发现每包少四分之一",
+        "onboard_time": 1667004082,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439486,
+        "num": 439486,
+        "word": "武汉本轮毒株平均1人传染18人",
+        "onboard_time": 1666966045,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409472,
+        "num": 409472,
+        "word": "奶奶被喂嚼过方便面魔性拒绝",
+        "onboard_time": 1666973007,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384561,
+        "num": 384561,
+        "word": "网传琅琊榜3双男主",
+        "onboard_time": 1667000779,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306443,
+        "num": 306443,
+        "word": "林孝埈一过五正面视角",
+        "onboard_time": 1667001198,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 880619,
+        "num": 301317,
+        "word": "内娱输给了游乐园NPC",
+        "onboard_time": 1667008642,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284186,
+        "num": 284186,
+        "word": "小伙网恋1年女友竟留络腮胡似李逵",
+        "onboard_time": 1666984931,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277075,
+        "num": 277075,
+        "word": "经不起诱惑的小狗",
+        "onboard_time": 1667005882,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259997,
+        "num": 259997,
+        "word": "教资",
+        "onboard_time": 1667000360,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 243772,
+        "num": 243772,
+        "word": "金鸡奖预计11月12号举办颁奖礼",
+        "onboard_time": 1667009902,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240199,
+        "num": 240199,
+        "word": "佩洛西丈夫在家中遇袭",
+        "onboard_time": 1666963405,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228026,
+        "num": 228026,
+        "word": "王者荣耀",
+        "onboard_time": 1666998916,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216701,
+        "num": 216701,
+        "word": "莱万怀疑加盟巴萨决定",
+        "onboard_time": 1667009183,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187743,
+        "num": 187743,
+        "word": "贪便宜买了个电动牙刷",
+        "onboard_time": 1666968448,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185429,
+        "num": 185429,
+        "word": "普京称特拉斯脑子不太正常",
+        "onboard_time": 1666974802,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180104,
+        "num": 180104,
+        "word": "应采儿集齐了9个陈小春",
+        "onboard_time": 1666999458,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180092,
+        "num": 180092,
+        "word": "刘德华恭喜李克勤再获冠军导师",
+        "onboard_time": 1667001018,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 170506,
+        "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+        "onboard_time": 1666965267,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158508,
+        "num": 158508,
+        "word": "北京10月28日新增社会面感染者3例",
+        "onboard_time": 1667005162,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153802,
+        "num": 153802,
+        "word": "张柏芝怼脸视频",
+        "onboard_time": 1667008823,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147327,
+        "num": 147327,
+        "word": "新生宝宝被夸一脸正气抬手敬礼",
+        "onboard_time": 1666991891,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133239,
+        "num": 133239,
+        "word": "彩色修复李大钊生前唯一的视频",
+        "onboard_time": 1667005764,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130451,
+        "num": 130451,
+        "word": "王一博街舞5黑白四宫格剧照",
+        "onboard_time": 1667007742,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129076,
+        "num": 129076,
+        "word": "饭圈文化可是被整明白了",
+        "onboard_time": 1667010742,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123603,
+        "num": 123603,
+        "word": "女生上课用手机举弹幕求上厕所",
+        "onboard_time": 1666971206,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124708,
+        "num": 123215,
+        "word": "肖战杨紫余生豆瓣6.0合理吗",
+        "onboard_time": 1666963347,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120121,
+        "num": 120121,
+        "word": "台北故宫3件文物破损照曝光",
+        "onboard_time": 1666967548,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118703,
+        "num": 118703,
+        "word": "为什么删了喜欢很久的人",
+        "onboard_time": 1666960643,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115402,
+        "num": 115402,
+        "word": "李文龙",
+        "onboard_time": 1666999636,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113601,
+        "num": 113601,
+        "word": "娜妍熙斗复合",
+        "onboard_time": 1667001921,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109837,
+        "num": 109837,
+        "word": "10月28日新增本土确诊324例",
+        "onboard_time": 1667010143,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105973,
+        "num": 105973,
+        "word": "美股六大科技巨头一夜蒸发2万亿",
+        "onboard_time": 1666980974,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101935,
+        "num": 101935,
+        "word": "金华一老人幼儿园接错娃",
+        "onboard_time": 1666998316,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100397,
+        "num": 100397,
+        "word": "对照自测是否为卒中高危人群",
+        "onboard_time": 1667005401,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89762,
+        "num": 89762,
+        "word": "10月28日新增本土无症状1153例",
+        "onboard_time": 1667009902,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88766,
+        "num": 88766,
+        "word": "沈梦辰演王熙凤",
+        "onboard_time": 1666961004,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85986,
+        "num": 85986,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1667002641,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85108,
+        "num": 85108,
+        "word": "内蒙古工业大学回应",
+        "onboard_time": 1666959144,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85094,
+        "num": 85094,
+        "word": "老鼠洞被淹母鼠挨个叼幼崽逃生",
+        "onboard_time": 1666966226,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83074,
+        "num": 83074,
+        "word": "老公天天做美食女子13天胖10斤",
+        "onboard_time": 1666968566,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80373,
+        "num": 80373,
+        "word": "刘昊然董子健我的朋友安德烈",
+        "onboard_time": 1667001381,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79554,
+        "num": 79554,
+        "word": "80后宝妈石头画栩栩如生卖上千元",
+        "onboard_time": 1667007083,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78366,
+        "num": 78366,
+        "word": "线上马拉松",
+        "onboard_time": 1667010922,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76877,
+        "num": 76877,
+        "word": "中国空间站的植物都长这么大了",
+        "onboard_time": 1666971327,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 75215,
+        "num": 75215,
+        "word": "马嘉祺翻唱的想着你",
+        "onboard_time": 1667004143,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬伟大建党精神和延安精神#"
+    }
+  }
+}
