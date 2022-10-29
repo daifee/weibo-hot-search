@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667018680866,
+  "endTime": 1667019519255,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1012988,
+      "num": 1012988,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976671,
       "num": 11637,
       "word": "EDG守家奇迹",
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 878080,
-      "num": 192592,
+      "num": 197925,
       "word": "饭圈文化可是被整明白了",
       "onboard_time": 1667010742,
       "rank": 28,
@@ -713,14 +721,6 @@
       "onboard_time": 1666841064,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 849585,
-      "num": 849585,
-      "word": "患癌妈妈去世前为儿子做最后一餐",
-      "onboard_time": 1667015903,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840080,
@@ -1283,19 +1283,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634591,
+      "num": 634591,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632714,
       "num": 317327,
       "word": "新郎娶到相恋5年的姑娘哭花脸",
       "onboard_time": 1666772123,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632519,
-      "num": 632519,
-      "word": "男子因他人PPT做得好顺走电脑",
-      "onboard_time": 1667015183,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579964,
+      "num": 579964,
+      "word": "央八排播杨幂白宇谢谢你医生",
+      "onboard_time": 1667017523,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579905,
       "num": 579905,
       "word": "中共中央新闻发布会",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1666913777,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 534181,
-      "num": 534181,
-      "word": "央八排播杨幂白宇谢谢你医生",
-      "onboard_time": 1667017523,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 531326,
@@ -3195,6 +3195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354218,
+      "num": 354218,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351248,
       "num": 63355,
       "word": "吃早八的苦享晚八的福",
@@ -3435,6 +3443,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 333517,
+      "num": 333517,
+      "word": "欧文",
+      "onboard_time": 1667018243,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333287,
       "num": 333287,
       "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
@@ -3483,6 +3499,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 329510,
+      "num": 329510,
+      "word": "27岁女孩为19岁女孩捐造血干细胞",
+      "onboard_time": 1667017582,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 329071,
       "num": 329071,
       "word": "男子爬山遇一洞口走进仿若仙境一般",
@@ -3496,14 +3520,6 @@
       "word": "中科院院士彭一刚逝世",
       "onboard_time": 1666605623,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328429,
-      "num": 328429,
-      "word": "班主任是表姨来做客男孩吓得躲厕所",
-      "onboard_time": 1667015723,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3921,6 +3937,14 @@
       "onboard_time": 1666746923,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287901,
+      "num": 287901,
+      "word": "奔跑吧特别季沙县录制路透",
+      "onboard_time": 1667018662,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 287890,
@@ -5531,6 +5555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196454,
+      "num": 196454,
+      "word": "祝绪丹新剧被捏脸揪发髻",
+      "onboard_time": 1667017281,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196224,
       "num": 120414,
       "word": "早八和晚八的前后差距",
@@ -5619,14 +5651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192300,
-      "num": 72542,
-      "word": "奔跑吧特别季沙县录制路透",
-      "onboard_time": 1667018662,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191931,
       "num": 191931,
       "word": "常上夜班的人怎么提高睡眠质量",
@@ -5673,6 +5697,14 @@
       "onboard_time": 1666614322,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189148,
+      "num": 189148,
+      "word": "欧阳娜娜永安梦大婚路透",
+      "onboard_time": 1667018783,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188269,
@@ -5787,14 +5819,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 181720,
-      "num": 181720,
-      "word": "祝绪丹新剧被捏脸揪发髻",
-      "onboard_time": 1667017281,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181415,
       "num": 181415,
       "word": "蕾哈娜新歌LiftMeUp公开",
@@ -5833,14 +5857,6 @@
       "onboard_time": 1666998316,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180619,
-      "num": 180619,
-      "word": "27岁女孩为19岁女孩捐造血干细胞",
-      "onboard_time": 1667017582,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 180104,
@@ -6163,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167076,
+      "num": 120339,
+      "word": "年轻人为什么热衷于拜财神",
+      "onboard_time": 1667016922,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166748,
       "num": 12758,
       "word": "女老师逛街顺便辅导店家孩子功课",
@@ -6281,14 +6305,6 @@
       "onboard_time": 1666791387,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161483,
-      "num": 161483,
-      "word": "欧文",
-      "onboard_time": 1667018243,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 161228,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1666620325,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144646,
+      "num": 144646,
+      "word": "TI11",
+      "onboard_time": 1667017163,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 144501,
@@ -7139,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127921,
+      "num": 127921,
+      "word": "林孝埈状态",
+      "onboard_time": 1667018361,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127871,
       "num": 127871,
       "word": "王一博这就是街舞5总决赛彩排照",
@@ -7203,12 +7235,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 125285,
-      "num": 125285,
-      "word": "TI11",
-      "onboard_time": 1667017163,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 125257,
+      "num": 125257,
+      "word": "教资科一",
+      "onboard_time": 1667018901,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 125065,
@@ -7377,14 +7409,6 @@
       "onboard_time": 1666536385,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119747,
-      "num": 119747,
-      "word": "年轻人为什么热衷于拜财神",
-      "onboard_time": 1667016922,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 119684,
@@ -7689,6 +7713,14 @@
       "onboard_time": 1666613843,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108027,
+      "num": 108027,
+      "word": "道教学院学生的日常",
+      "onboard_time": 1667017643,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 107939,
@@ -8185,14 +8217,6 @@
       "onboard_time": 1666949482,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 94714,
-      "num": 94714,
-      "word": "道教学院学生的日常",
-      "onboard_time": 1667017643,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 94651,
@@ -8979,6 +9003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73325,
+      "num": 73325,
+      "word": "消防员返程告别被群众塞感谢鸭",
+      "onboard_time": 1667019203,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73268,
       "num": 73268,
       "word": "金汤匙",
@@ -8995,14 +9027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73061,
-      "num": 73061,
-      "word": "林孝埈状态",
-      "onboard_time": 1667018361,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72877,
       "num": 72877,
       "word": "高清大图看梦天实验舱组合体",
@@ -9016,6 +9040,14 @@
       "word": "究竟该如何处理人际关系",
       "onboard_time": 1666711766,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 72809,
+      "num": 72809,
+      "word": "这就是关于雨天的浪漫吧",
+      "onboard_time": 1667019502,
+      "rank": 49,
       "category": "情感"
     },
     {

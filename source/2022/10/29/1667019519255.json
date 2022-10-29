@@ -1,0 +1,410 @@
+{
+  "runTime": 1667019519255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443383,
+        "num": 1443383,
+        "word": "教资",
+        "onboard_time": 1667000360,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1012988,
+        "num": 1012988,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5479,
+        "num": 681271,
+        "word": "30个知识点带你学习党章",
+        "onboard_time": 1666919424,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 634591,
+        "num": 634591,
+        "word": "男子因他人PPT做得好顺走电脑",
+        "onboard_time": 1667015183,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579964,
+        "num": 579964,
+        "word": "央八排播杨幂白宇谢谢你医生",
+        "onboard_time": 1667017523,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523386,
+        "num": 523386,
+        "word": "南波万的聚会",
+        "onboard_time": 1667016922,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498924,
+        "num": 498924,
+        "word": "教资答案",
+        "onboard_time": 1667013382,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 492371,
+        "num": 492371,
+        "word": "苹果市值一夜暴涨1761亿美元",
+        "onboard_time": 1667007922,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 364666,
+        "num": 364666,
+        "word": "教资作文",
+        "onboard_time": 1667013744,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354218,
+        "num": 354218,
+        "word": "班主任是表姨来做客男孩吓得躲厕所",
+        "onboard_time": 1667015723,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534583,
+        "num": 347617,
+        "word": "内娱输给了游乐园NPC",
+        "onboard_time": 1667008642,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333517,
+        "num": 333517,
+        "word": "欧文",
+        "onboard_time": 1667018243,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329510,
+        "num": 329510,
+        "word": "27岁女孩为19岁女孩捐造血干细胞",
+        "onboard_time": 1667017582,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 287901,
+        "num": 287901,
+        "word": "奔跑吧特别季沙县录制路透",
+        "onboard_time": 1667018662,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253747,
+        "num": 253747,
+        "word": "林孝埈",
+        "onboard_time": 1666963884,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245431,
+        "num": 245431,
+        "word": "长沙一男生刚进高中就被清华录取",
+        "onboard_time": 1667003661,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 243409,
+        "num": 243409,
+        "word": "综合素质",
+        "onboard_time": 1667014464,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236933,
+        "num": 236933,
+        "word": "newjeans出道一百天",
+        "onboard_time": 1667014524,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211297,
+        "num": 211297,
+        "word": "吉赛尔邦辰与布雷迪离婚",
+        "onboard_time": 1667002401,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "奶奶被喂嚼过方便面魔性拒绝",
+        "onboard_time": 1666973007,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609744,
+        "num": 197925,
+        "word": "饭圈文化可是被整明白了",
+        "onboard_time": 1667010742,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197818,
+        "num": 197818,
+        "word": "湖人又输了",
+        "onboard_time": 1667013983,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 196454,
+        "word": "祝绪丹新剧被捏脸揪发髻",
+        "onboard_time": 1667017281,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189148,
+        "num": 189148,
+        "word": "欧阳娜娜永安梦大婚路透",
+        "onboard_time": 1667018783,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178733,
+        "num": 178733,
+        "word": "男生网购抽纸发现每包少四分之一",
+        "onboard_time": 1667004082,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144646,
+        "num": 144646,
+        "word": "TI11",
+        "onboard_time": 1667017163,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133336,
+        "num": 133336,
+        "word": "直20试飞员冲进结冰云层获宝贵数据",
+        "onboard_time": 1667013564,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127921,
+        "num": 127921,
+        "word": "林孝埈状态",
+        "onboard_time": 1667018361,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125273,
+        "num": 125273,
+        "word": "经不起诱惑的小狗",
+        "onboard_time": 1667005882,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125257,
+        "num": 125257,
+        "word": "教资科一",
+        "onboard_time": 1667018901,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172915,
+        "num": 124971,
+        "word": "0713团打卡吧全员被罚抄",
+        "onboard_time": 1667017462,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167076,
+        "num": 120339,
+        "word": "年轻人为什么热衷于拜财神",
+        "onboard_time": 1667016922,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146869,
+        "num": 117973,
+        "word": "街舞5总决赛节目单",
+        "onboard_time": 1667017402,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146848,
+        "num": 115986,
+        "word": "中国好声音上新了越剧季",
+        "onboard_time": 1667018062,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114787,
+        "num": 114787,
+        "word": "林孝埈一过五正面视角",
+        "onboard_time": 1667001198,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "王者荣耀",
+        "onboard_time": 1666998916,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112646,
+        "num": 112646,
+        "word": "小伙网恋1年女友竟留络腮胡似李逵",
+        "onboard_time": 1666984931,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109332,
+        "num": 109332,
+        "word": "你为什么考教资",
+        "onboard_time": 1667016443,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108027,
+        "num": 108027,
+        "word": "道教学院学生的日常",
+        "onboard_time": 1667017643,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88991,
+        "num": 88991,
+        "word": "莱万怀疑加盟巴萨决定",
+        "onboard_time": 1667009183,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142902,
+        "num": 88183,
+        "word": "网传琅琊榜3双男主",
+        "onboard_time": 1667000779,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113317,
+        "num": 87569,
+        "word": "颖儿分享一个普通女演员的15年",
+        "onboard_time": 1667014162,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85409,
+        "num": 85409,
+        "word": "国产机器人到底有多牛",
+        "onboard_time": 1667013805,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83892,
+        "num": 83892,
+        "word": "乌鲁木齐先传播后出阳疫情防控难度加大",
+        "onboard_time": 1666965267,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79319,
+        "num": 79319,
+        "word": "台北故宫3件文物破损照曝光",
+        "onboard_time": 1666967548,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79024,
+        "num": 79024,
+        "word": "10月28日新增本土无症状1153例",
+        "onboard_time": 1667009902,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78401,
+        "num": 78401,
+        "word": "贪便宜买了个电动牙刷",
+        "onboard_time": 1666968448,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75932,
+        "num": 75932,
+        "word": "武汉本轮毒株平均1人传染18人",
+        "onboard_time": 1666966045,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73325,
+        "num": 73325,
+        "word": "消防员返程告别被群众塞感谢鸭",
+        "onboard_time": 1667019203,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72809,
+        "num": 72809,
+        "word": "这就是关于雨天的浪漫吧",
+        "onboard_time": 1667019502,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#从历史中汲取智慧和力量#"
+    }
+  }
+}

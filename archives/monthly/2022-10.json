@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667018680866,
+  "endTime": 1667019519255,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -3155,6 +3155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1012988,
+      "num": 1012988,
+      "word": "患癌妈妈去世前为儿子做最后一餐",
+      "onboard_time": 1667015903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1010934,
       "num": 1010934,
       "word": "相亲成功上岸是什么体验",
@@ -4092,7 +4100,7 @@
     },
     {
       "raw_hot": 878080,
-      "num": 192592,
+      "num": 197925,
       "word": "饭圈文化可是被整明白了",
       "onboard_time": 1667010742,
       "rank": 28,
@@ -4305,14 +4313,6 @@
       "onboard_time": 1665820703,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 849585,
-      "num": 849585,
-      "word": "患癌妈妈去世前为儿子做最后一餐",
-      "onboard_time": 1667015903,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849390,
@@ -7107,6 +7107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 634591,
+      "num": 634591,
+      "word": "男子因他人PPT做得好顺走电脑",
+      "onboard_time": 1667015183,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634304,
       "num": 333777,
       "word": "3岁男孩偷酸奶被奶奶坚持送派出所",
@@ -7136,14 +7144,6 @@
       "word": "新郎娶到相恋5年的姑娘哭花脸",
       "onboard_time": 1666772123,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632519,
-      "num": 632519,
-      "word": "男子因他人PPT做得好顺走电脑",
-      "onboard_time": 1667015183,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -8057,6 +8057,14 @@
       "onboard_time": 1666584984,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579964,
+      "num": 579964,
+      "word": "央八排播杨幂白宇谢谢你医生",
+      "onboard_time": 1667017523,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 579905,
@@ -9025,14 +9033,6 @@
       "onboard_time": 1666913777,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 534181,
-      "num": 534181,
-      "word": "央八排播杨幂白宇谢谢你医生",
-      "onboard_time": 1667017523,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 533981,
@@ -15579,6 +15579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354218,
+      "num": 354218,
+      "word": "班主任是表姨来做客男孩吓得躲厕所",
+      "onboard_time": 1667015723,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354111,
       "num": 354111,
       "word": "你是倔强式单身吗",
@@ -16547,6 +16555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333517,
+      "num": 333517,
+      "word": "欧文",
+      "onboard_time": 1667018243,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333493,
       "num": 333493,
       "word": "猫猫们要努力熬过早到的冬天",
@@ -16827,6 +16843,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 329510,
+      "num": 329510,
+      "word": "27岁女孩为19岁女孩捐造血干细胞",
+      "onboard_time": 1667017582,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 329364,
       "num": 123776,
       "word": "安宥真lovedive舞台",
@@ -16881,14 +16905,6 @@
       "onboard_time": 1666244543,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328429,
-      "num": 328429,
-      "word": "班主任是表姨来做客男孩吓得躲厕所",
-      "onboard_time": 1667015723,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328388,
@@ -19025,6 +19041,14 @@
       "onboard_time": 1666161862,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287901,
+      "num": 287901,
+      "word": "奔跑吧特别季沙县录制路透",
+      "onboard_time": 1667018662,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 287896,
@@ -26683,6 +26707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196454,
+      "num": 196454,
+      "word": "祝绪丹新剧被捏脸揪发髻",
+      "onboard_time": 1667017281,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196411,
       "num": 161090,
       "word": "一只鸭子能有多欠",
@@ -27139,14 +27171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192300,
-      "num": 72542,
-      "word": "奔跑吧特别季沙县录制路透",
-      "onboard_time": 1667018662,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192238,
       "num": 192238,
       "word": "13岁重庆少年3年升国旗100多次",
@@ -27489,6 +27513,14 @@
       "onboard_time": 1666614322,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189148,
+      "num": 189148,
+      "word": "欧阳娜娜永安梦大婚路透",
+      "onboard_time": 1667018783,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189051,
@@ -28219,14 +28251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181720,
-      "num": 181720,
-      "word": "祝绪丹新剧被捏脸揪发髻",
-      "onboard_time": 1667017281,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181712,
       "num": 157530,
       "word": "克里米亚大桥大火后乌空军账号发文",
@@ -28345,14 +28369,6 @@
       "onboard_time": 1664720846,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 180619,
-      "num": 180619,
-      "word": "27岁女孩为19岁女孩捐造血干细胞",
-      "onboard_time": 1667017582,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 180587,
@@ -29723,6 +29739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167076,
+      "num": 120339,
+      "word": "年轻人为什么热衷于拜财神",
+      "onboard_time": 1667016922,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166994,
       "num": 49258,
       "word": "DOTA2",
@@ -30273,14 +30297,6 @@
       "onboard_time": 1666791387,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161483,
-      "num": 161483,
-      "word": "欧文",
-      "onboard_time": 1667018243,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 161427,
@@ -34307,6 +34323,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 127921,
+      "num": 127921,
+      "word": "林孝埈状态",
+      "onboard_time": 1667018361,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127898,
       "num": 17881,
       "word": "同曦男篮绝杀上海男篮",
@@ -34641,6 +34665,14 @@
       "onboard_time": 1666598183,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 125257,
+      "num": 125257,
+      "word": "教资科一",
+      "onboard_time": 1667018901,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 125092,
@@ -35305,14 +35337,6 @@
       "onboard_time": 1666454362,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119747,
-      "num": 119747,
-      "word": "年轻人为什么热衷于拜财神",
-      "onboard_time": 1667016922,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 119744,
@@ -36889,6 +36913,14 @@
       "onboard_time": 1666613843,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108027,
+      "num": 108027,
+      "word": "道教学院学生的日常",
+      "onboard_time": 1667017643,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 108012,
@@ -38657,14 +38689,6 @@
       "onboard_time": 1666274667,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94714,
-      "num": 94714,
-      "word": "道教学院学生的日常",
-      "onboard_time": 1667017643,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 94651,
@@ -41555,6 +41579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73325,
+      "num": 73325,
+      "word": "消防员返程告别被群众塞感谢鸭",
+      "onboard_time": 1667019203,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73318,
       "num": 73318,
       "word": "徐璐演的木桐自带警犬属性",
@@ -41569,14 +41601,6 @@
       "onboard_time": 1666779742,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73061,
-      "num": 73061,
-      "word": "林孝埈状态",
-      "onboard_time": 1667018361,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 73008,
@@ -41641,6 +41665,14 @@
       "onboard_time": 1666325664,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72809,
+      "num": 72809,
+      "word": "这就是关于雨天的浪漫吧",
+      "onboard_time": 1667019502,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72781,
