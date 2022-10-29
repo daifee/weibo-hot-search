@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667078453913,
+  "endTime": 1667079450530,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -227,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142120,
-      "num": 142120,
+      "raw_hot": 147902,
+      "num": 147902,
       "word": "JDG对战T1",
       "onboard_time": 1667077691,
       "rank": 1,
@@ -475,19 +475,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41712,
+      "num": 41712,
+      "word": "小区内是否可以骑自行车",
+      "onboard_time": 1667074153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40488,
       "num": 35528,
       "word": "男孩卡住脖子姑姑调侃能上新闻",
       "onboard_time": 1667070673,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38508,
-      "num": 38508,
-      "word": "小区内是否可以骑自行车",
-      "onboard_time": 1667074153,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -507,12 +507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 12985,
-      "num": 12985,
+      "raw_hot": 14547,
+      "num": 14547,
       "word": "彭冠英新剧眼神没离开过蔡文静",
       "onboard_time": 1667076791,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10675,
+      "num": 11367,
+      "word": "管泽元预测JDG战胜T1",
+      "onboard_time": 1667079131,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 9752,
