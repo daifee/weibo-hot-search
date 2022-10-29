@@ -1,7 +1,15 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667057056217,
+  "endTime": 1667058077496,
   "band_list": [
+    {
+      "raw_hot": 5592275,
+      "num": 5592275,
+      "word": "梨泰院",
+      "onboard_time": 1667054906,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 5194566,
       "num": 30940,
@@ -11,11 +19,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 4776971,
-      "num": 4776971,
-      "word": "梨泰院",
-      "onboard_time": 1667054906,
-      "rank": 0,
+      "raw_hot": 3728726,
+      "num": 503185,
+      "word": "富士康",
+      "onboard_time": 1666701023,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1666616123,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 3142904,
-      "num": 420298,
-      "word": "富士康",
-      "onboard_time": 1666701023,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3048743,
@@ -227,6 +227,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1526134,
+      "num": 491141,
+      "word": "赣州",
+      "onboard_time": 1667055028,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1455833,
       "num": 929599,
       "word": "心动的信号5成了四对",
@@ -369,14 +377,6 @@
       "onboard_time": 1666757552,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1224627,
-      "num": 407778,
-      "word": "赣州",
-      "onboard_time": 1667055028,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1218805,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1039005,
-      "num": 408887,
+      "num": 455880,
       "word": "迪丽热巴今晚直播生图",
       "onboard_time": 1667048727,
       "rank": 10,
@@ -609,6 +609,14 @@
       "onboard_time": 1666752445,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1015045,
+      "num": 1015045,
+      "word": "韩国发生踩踏事故致50余人心脏骤停",
+      "onboard_time": 1667057009,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 976671,
@@ -1779,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568047,
+      "num": 568047,
+      "word": "呼市确诊者床品食品按医疗废物处理",
+      "onboard_time": 1667055329,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567490,
       "num": 249831,
       "word": "易烊千玺奇迹笨小孩定妆照花絮",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1667044746,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538492,
+      "num": 538492,
+      "word": "韩国购入刘亦菲金粉世家播出版权",
+      "onboard_time": 1667057134,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 537045,
@@ -2731,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426697,
+      "num": 426697,
+      "word": "王一博街舞决赛又来擦地板了",
+      "onboard_time": 1667057791,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425547,
       "num": 155758,
       "word": "相宜本草",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1667023822,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 423135,
+      "num": 423135,
+      "word": "女子帮朋友婚礼出车在猪圈吃席",
+      "onboard_time": 1667054729,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423063,
@@ -2881,6 +2921,14 @@
       "onboard_time": 1666963284,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416074,
+      "num": 416074,
+      "word": "女生因病休学2年独自旅行49个城市",
+      "onboard_time": 1667054127,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 415626,
@@ -3009,14 +3057,6 @@
       "onboard_time": 1667050045,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 405207,
-      "num": 405207,
-      "word": "女生因病休学2年独自旅行49个城市",
-      "onboard_time": 1667054127,
-      "rank": 46,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 404294,
@@ -4003,14 +4043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 322757,
-      "num": 322757,
-      "word": "呼市确诊者床品食品按医疗废物处理",
-      "onboard_time": 1667055329,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320958,
       "num": 320958,
       "word": "驻呼高校学生将分流返乡",
@@ -4183,14 +4215,6 @@
       "num": 87300,
       "word": "女生化妆猫咪伸手跃跃欲试",
       "onboard_time": 1666592062,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307408,
-      "num": 307408,
-      "word": "女子帮朋友婚礼出车在猪圈吃席",
-      "onboard_time": 1667054729,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -4761,6 +4785,14 @@
       "onboard_time": 1666673905,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 265834,
+      "num": 265834,
+      "word": "王楚钦4比3马龙",
+      "onboard_time": 1667057372,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 265706,
@@ -5481,6 +5513,14 @@
       "onboard_time": 1666968749,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231952,
+      "num": 231952,
+      "word": "张真源反差live图",
+      "onboard_time": 1667057912,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 231771,
@@ -6243,6 +6283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 196146,
+      "num": 132248,
+      "word": "姥姥带娃3年女儿分文不给",
+      "onboard_time": 1667056650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195395,
       "num": 195395,
       "word": "王大陆淘汰画风",
@@ -6385,14 +6433,6 @@
       "onboard_time": 1667018783,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189124,
-      "num": 189124,
-      "word": "韩国发生踩踏事故致50余人心脏骤停",
-      "onboard_time": 1667057009,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188269,
@@ -7267,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154034,
+      "num": 141044,
+      "word": "这就是街舞",
+      "onboard_time": 1667038163,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153907,
       "num": 153907,
       "word": "这只猫咪好像有点呆",
@@ -7387,6 +7435,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 148188,
+      "num": 148188,
+      "word": "小猫抓到老鼠跳床上送给主人",
+      "onboard_time": 1667052925,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147868,
       "num": 147868,
       "word": "詹姆斯19分",
@@ -7481,14 +7537,6 @@
       "onboard_time": 1666859723,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145217,
-      "num": 141044,
-      "word": "这就是街舞",
-      "onboard_time": 1667038163,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 144774,
@@ -7617,14 +7665,6 @@
       "onboard_time": 1666685904,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141244,
-      "num": 141244,
-      "word": "小猫抓到老鼠跳床上送给主人",
-      "onboard_time": 1667052925,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141163,
@@ -8955,14 +8995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101982,
-      "num": 101982,
-      "word": "姥姥带娃3年女儿分文不给",
-      "onboard_time": 1667056650,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101661,
       "num": 97499,
       "word": "哪道菜能让你瞬间想起一个城市",
@@ -9793,6 +9825,14 @@
       "onboard_time": 1666711826,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 81569,
+      "num": 81569,
+      "word": "雾山五行第二季全新预告",
+      "onboard_time": 1667057248,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 81443,
