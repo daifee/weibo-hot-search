@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 15:20:44
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 15:36:24
 </p>
 </blockquote>
 <p>
@@ -903,6 +903,12 @@ GAM战胜TES（热度：1582714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
+教资科二（热度：1576780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%91%A8%E4%B8%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E4%B8%89%E5%A4%A9%23" target="weibo">
 原来周一可以有三天（热度：1569350）
 </a>
@@ -1199,12 +1205,6 @@ C罗（热度：1447248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BC%9A%23" target="weibo">
 二十大是个什么会（热度：1408174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
-教资科二（热度：1407179）
 </a>
 </li>
 

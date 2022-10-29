@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/24 00:36:33 ~ 2022/10/29 15:20:44
+本榜单时间：2022/10/24 00:36:33 ~ 2022/10/29 15:36:24
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@ EDG对战DRX（热度：2849044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
+教资科二（热度：1576780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%9C%E6%96%B9%E6%B8%85%E4%BB%93%E6%9D%A5%E4%BA%86%23" target="weibo">
 真的东方清仓来了（热度：1549735）
 </a>
@@ -167,12 +173,6 @@ EDG对战DRX（热度：2849044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23" target="weibo">
 内蒙古工业大学回应（热度：1414553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
-教资科二（热度：1407179）
 </a>
 </li>
 
@@ -1707,6 +1707,12 @@ iPad评测（热度：454014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%88%A0%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%89%80%E6%9C%89%E5%BE%AE%E5%8D%9A%23" target="weibo">
+李玟删除中国好声音所有微博（热度：449139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E5%A4%9A%E6%AC%A1%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
 RNG多次因合同纠纷被起诉（热度：448505）
 </a>
@@ -2181,6 +2187,12 @@ iOS16.1新增APP粘贴开关（热度：383878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E7%A1%95%E5%B0%86%E6%88%90%E6%9C%AA%E6%9D%A5%E8%80%83%E7%A0%94%E4%B8%BB%E6%B5%81%23" target="weibo">
+专硕将成未来考研主流（热度：383690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8B%8D%E4%B8%8B%E4%BA%91%E5%8D%97%E7%89%88%E5%A4%A9%E7%A9%BA%E4%B9%8B%E9%95%9C%23" target="weibo">
 22岁女孩拍下云南版天空之镜（热度：383132）
 </a>
@@ -2237,12 +2249,6 @@ iOS16.1新增APP粘贴开关（热度：383878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%9D%9E%E7%BB%BF%E7%A0%81%E8%80%83%E7%94%9F%E4%B8%8D%E5%BE%97%E5%8F%82%E5%8A%A0%E8%80%83%E8%AF%95%23" target="weibo">
 福建非绿码考生不得参加考试（热度：380518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E7%A1%95%E5%B0%86%E6%88%90%E6%9C%AA%E6%9D%A5%E8%80%83%E7%A0%94%E4%B8%BB%E6%B5%81%23" target="weibo">
-专硕将成未来考研主流（热度：379358）
 </a>
 </li>
 
@@ -2901,6 +2907,12 @@ Meiko和Deft拥抱（热度：336924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E4%BA%BA%E7%89%88%E7%9A%84%E6%95%99%E6%9D%90%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+斯人版的教材被找到了（热度：300352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E6%84%BF%E6%84%8F%E6%94%BEC%E7%BD%97%E5%86%AC%E7%AA%97%E8%87%AA%E7%94%B1%E8%BA%AB%E7%A6%BB%E9%98%9F%23" target="weibo">
 曼联愿意放C罗冬窗自由身离队（热度：300208）
 </a>
@@ -3035,6 +3047,12 @@ Lisa舞台反应能力（热度：293447）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA2%E5%AE%9A%E6%A1%A3%23" target="weibo">
 再见爱人2定档（热度：285704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%88%E5%A4%AB%E9%81%87%E8%A2%AD%E6%97%B6%E5%87%B6%E6%89%8B%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%BD%A9%E6%B4%9B%E8%A5%BF%23" target="weibo">
+外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西（热度：284391）
 </a>
 </li>
 
@@ -3867,6 +3885,12 @@ RedVelvet将11月回归（热度：256390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E6%95%99%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E4%B8%8A%E8%AF%BE%E5%AD%A6%E4%B8%AD%E5%8C%BB%E7%AE%97%E5%85%AB%E5%AD%97%23" target="weibo">
+道教学生回应上课学中医算八字（热度：222938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%8826%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A193%E4%BE%8B%23" target="weibo">
 10月26日新增本土确诊193例（热度：222743）
 </a>
@@ -3903,12 +3927,6 @@ RedVelvet将11月回归（热度：256390）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E4%BA%BA%E7%89%88%E7%9A%84%E6%95%99%E6%9D%90%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-斯人版的教材被找到了（热度：218790）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E5%90%9E%E5%B0%8F%E8%9E%83%E8%9F%B9%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
 男子生吞小螃蟹感染寄生虫（热度：218789）
 </a>
@@ -3929,12 +3947,6 @@ minji校庆公主切造型（热度：218710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E4%BA%A6%E5%A5%88%E8%A8%80%E4%BA%92%E9%80%89%23" target="weibo">
 泰亦奈言互选（热度：217974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E6%95%99%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E4%B8%8A%E8%AF%BE%E5%AD%A6%E4%B8%AD%E5%8C%BB%E7%AE%97%E5%85%AB%E5%AD%97%23" target="weibo">
-道教学生回应上课学中医算八字（热度：217734）
 </a>
 </li>
 
@@ -4061,6 +4073,12 @@ gidle新歌nxde一位（热度：212218）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%97%A9%E7%BB%BC%E8%89%BA%E8%83%BD%E6%9C%89%E5%A4%9A%E6%90%9E%E7%AC%91%23" target="weibo">
 古早综艺能有多搞笑（热度：210095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%B8%80%23" target="weibo">
+教资科一（热度：209580）
 </a>
 </li>
 
@@ -4419,6 +4437,12 @@ N刷苍兰诀的理由（热度：188269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A5%94%E8%B7%91%E5%90%A7%E7%89%B9%E5%88%AB%E5%AD%A3%E8%93%9D%E8%89%B2%E6%AF%9B%E8%A1%A3%E8%B7%AF%E9%80%8F%23" target="weibo">
+白鹿奔跑吧特别季蓝色毛衣路透（热度：186621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81%E6%96%B0%E4%B9%A1WTT%E5%86%B3%E8%B5%9B%23" target="weibo">
 国乒出征新乡WTT决赛（热度：186460）
 </a>
@@ -4433,12 +4457,6 @@ N刷苍兰诀的理由（热度：188269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E6%B0%9B%E5%9B%B4%E5%A4%A7%E7%89%87%23" target="weibo">
 文俊辉女友视角氛围大片（热度：185254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A5%94%E8%B7%91%E5%90%A7%E7%89%B9%E5%88%AB%E5%AD%A3%E8%93%9D%E8%89%B2%E6%AF%9B%E8%A1%A3%E8%B7%AF%E9%80%8F%23" target="weibo">
-白鹿奔跑吧特别季蓝色毛衣路透（热度：185113）
 </a>
 </li>
 
@@ -4637,12 +4655,6 @@ EDG遗憾（热度：174814）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%20BP%23" target="weibo">
 EDG BP（热度：174076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%B8%80%23" target="weibo">
-教资科一（热度：173167）
 </a>
 </li>
 
@@ -4881,6 +4893,12 @@ C罗重回曼联一线队训练（热度：167211）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%E8%B5%9B%E5%8C%BA%E5%8A%A0%E6%B2%B9%23" target="weibo">
+LPL赛区加油（热度：158541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7cp%E7%BE%A4%E5%83%8F%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23" target="weibo">
 心动的信号cp群像芭莎大片（热度：158538）
 </a>
@@ -4907,12 +4925,6 @@ C罗重回曼联一线队训练（热度：167211）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%AE%A9NPC%E5%BE%88%E6%B2%A1%E6%9C%89%E6%88%90%E5%B0%B1%E6%84%9F%23" target="weibo">
 陈楚生让NPC很没有成就感（热度：158067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LPL%E8%B5%9B%E5%8C%BA%E5%8A%A0%E6%B2%B9%23" target="weibo">
-LPL赛区加油（热度：157697）
 </a>
 </li>
 
@@ -5235,6 +5247,12 @@ aespa韩版VOGUE黑白大片（热度：141781）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B0%B4%E7%BC%B8%E7%A7%8D%E8%8E%B2%E8%97%95%E4%B8%B0%E6%94%B6%E5%90%8E%E7%A0%B8%E7%BC%B8%E5%8F%96%E8%97%95%23" target="weibo">
+男子水缸种莲藕丰收后砸缸取藕（热度：140011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%BB%99%E8%93%9D%E7%9B%88%E8%8E%B9%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E7%A7%91%E6%99%AE%E6%8C%96%E9%87%8E%E8%8F%9C%E6%A2%97%23" target="weibo">
 秦岚给蓝盈莹郑合惠子科普挖野菜梗（热度：139821）
 </a>
@@ -5249,12 +5267,6 @@ aespa韩版VOGUE黑白大片（热度：141781）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E9%80%81%E7%9A%84%E7%A4%BC%E7%89%A9%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23" target="weibo">
 前任送的礼物该如何处理（热度：139539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B0%B4%E7%BC%B8%E7%A7%8D%E8%8E%B2%E8%97%95%E4%B8%B0%E6%94%B6%E5%90%8E%E7%A0%B8%E7%BC%B8%E5%8F%96%E8%97%95%23" target="weibo">
-男子水缸种莲藕丰收后砸缸取藕（热度：139517）
 </a>
 </li>
 
@@ -5613,12 +5625,6 @@ ITZY街头随机舞蹈（热度：128874）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%88%E5%A4%AB%E9%81%87%E8%A2%AD%E6%97%B6%E5%87%B6%E6%89%8B%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%BD%A9%E6%B4%9B%E8%A5%BF%23" target="weibo">
-外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西（热度：123416）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E5%B9%B3%E6%9B%BF%E4%BE%A0%E7%9A%84%E4%BD%9C%E4%B8%9A%E6%B8%85%E5%8D%95%23" target="weibo">
 谢谢平替侠的作业清单（热度：123213）
 </a>
@@ -5949,6 +5955,12 @@ Jennie登韩版ELLE封面（热度：108540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
+考完综合素质发现没素质（热度：107685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%8E%A5%E4%B8%8D%E4%B8%8A0713%E7%9A%84%E8%84%91%E5%9B%9E%E8%B7%AF%23" target="weibo">
 真接不上0713的脑回路（热度：107493）
 </a>
@@ -5969,12 +5981,6 @@ Jennie登韩版ELLE封面（热度：108540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%96%87%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%A5%BD%E4%B8%8A%E5%A4%B4%23" target="weibo">
 英文版西游记好上头（热度：107199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
-考完综合素质发现没素质（热度：106827）
 </a>
 </li>
 
@@ -6521,6 +6527,12 @@ LGD止步TI六强（热度：97411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A810%E5%B9%B4%E4%BB%8E%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E6%96%AF%E5%9D%A6%E7%A6%8F%23" target="weibo">
 95后小伙用10年从专科逆袭斯坦福（热度：87929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E8%90%8C%E5%A8%83%E7%A0%B8%E7%94%B5%E8%A7%86%E5%B8%AE%E8%91%AB%E8%8A%A6%E5%A8%83%E6%95%91%E7%88%B7%E7%88%B7%23" target="weibo">
+2岁萌娃砸电视帮葫芦娃救爷爷（热度：87839）
 </a>
 </li>
 
@@ -7373,6 +7385,12 @@ Gemini幸运杯（热度：64707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E8%A5%BF%E6%96%87%E5%8C%96%E7%9A%84%E7%A2%B0%E6%92%9E%E5%90%A7%23" target="weibo">
 这就是中西文化的碰撞吧（热度：53042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%8B%97%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%9B%E8%AE%AD%E5%90%A7%23" target="weibo">
+这两只狗狗参加过军训吧（热度：52723）
 </a>
 </li>
 
