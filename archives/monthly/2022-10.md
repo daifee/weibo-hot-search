@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 15:36:24
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 16:29:10
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@ EDG对战DRX（热度：2849044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%9A%82%E5%81%9C%E5%85%A8%E7%96%86%E7%A6%BB%E7%96%86%E5%AE%A2%E8%BF%90%E5%88%97%E8%BD%A6%23" target="weibo">
 新疆暂停全疆离疆客运列车（热度：2529091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%88%A0%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%89%80%E6%9C%89%E5%BE%AE%E5%8D%9A%23" target="weibo">
+李玟删除中国好声音所有微博（热度：2512088）
 </a>
 </li>
 
@@ -4659,6 +4665,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%88%E5%A4%AB%E9%81%87%E8%A2%AD%E6%97%B6%E5%87%B6%E6%89%8B%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%BD%A9%E6%B4%9B%E8%A5%BF%23" target="weibo">
+外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西（热度：694522）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%85%BE%E8%AE%AF%E4%BD%8D%E5%88%97%E7%AC%AC%E4%B8%80%23" target="weibo">
 茅台市值超过腾讯位列第一（热度：694447）
 </a>
@@ -5679,6 +5691,12 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%B6%8A%E4%B8%8A%E7%BD%91%E8%B6%8A%E4%B8%8D%E7%88%B1%E7%94%9F%E5%AD%A9%E5%AD%90%23" target="weibo">
+研究发现越上网越不爱生孩子（热度：609097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%98%E7%81%AB%E8%BD%A6%E5%8E%BB%E7%85%A7%E9%A1%BE%E6%80%80%E5%AD%95%E5%84%BF%E5%AA%B3%23" target="weibo">
 老人第一次乘火车去照顾怀孕儿媳（热度：608927）
 </a>
@@ -5993,24 +6011,6 @@ iPhone全部支持电量百分比（热度：587820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%BE%99%E5%82%B2%E5%A4%A9%E8%AA%93%E6%AD%BB%E5%AE%88%E6%8A%A4%E5%88%98%E6%B3%A2%23" target="weibo">
 我龙傲天誓死守护刘波（热度：585838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B0%E6%9F%9A%E5%AD%90%E9%97%B2%E7%BD%AE20%E5%A4%9A%E5%A4%A9%E6%8C%89%E5%8E%8B%E5%86%92%E7%81%B0%E7%83%9F%23" target="weibo">
-女生买柚子闲置20多天按压冒灰烟（热度：585638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%941%E9%82%B1%E5%85%9A%23" target="weibo">
-马龙3比1邱党（热度：585285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E5%89%A7%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E7%A0%B4%E4%BA%A7%23" target="weibo">
-檀健次新剧公司面临破产（热度：584982）
 </a>
 </li>
 

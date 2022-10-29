@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667028984263,
+  "endTime": 1667032150536,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -57,6 +57,14 @@
       "onboard_time": 1666963884,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2512088,
+      "num": 2512088,
+      "word": "李玟删除中国好声音所有微博",
+      "onboard_time": 1667028202,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2368107,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694522,
+      "num": 694522,
+      "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+      "onboard_time": 1667027422,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 693999,
       "num": 348229,
       "word": "哺乳期女子偷点奶茶被送餐老公抓包",
@@ -1392,6 +1408,14 @@
       "word": "长期不按时吃饭容易得胆结石",
       "onboard_time": 1666835482,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609097,
+      "num": 609097,
+      "word": "研究发现越上网越不爱生孩子",
+      "onboard_time": 1667030003,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2259,14 +2283,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 449139,
-      "num": 298958,
-      "word": "李玟删除中国好声音所有微博",
-      "onboard_time": 1667028202,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448505,
       "num": 448505,
       "word": "RNG多次因合同纠纷被起诉",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1666848804,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433446,
+      "num": 320682,
+      "word": "iPhone15Pro或取消物理按键",
+      "onboard_time": 1667030962,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 433390,
@@ -2537,6 +2561,14 @@
       "onboard_time": 1666693463,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419659,
+      "num": 419659,
+      "word": "斯人版的教材被找到了",
+      "onboard_time": 1667025982,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419284,
@@ -3635,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322854,
+      "num": 322854,
+      "word": "BamBam我的换乘恋爱嘴替",
+      "onboard_time": 1667031443,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320958,
       "num": 320958,
       "word": "驻呼高校学生将分流返乡",
@@ -3859,14 +3899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300352,
-      "num": 300352,
-      "word": "斯人版的教材被找到了",
-      "onboard_time": 1667025982,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300208,
       "num": 58084,
       "word": "曼联愿意放C罗冬窗自由身离队",
@@ -4049,14 +4081,6 @@
       "onboard_time": 1666777824,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284391,
-      "num": 284391,
-      "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
-      "onboard_time": 1667027422,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 284307,
@@ -4571,6 +4595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249420,
+      "num": 249420,
+      "word": "Aster止步TI四强",
+      "onboard_time": 1667030003,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249063,
       "num": 249063,
       "word": "周峻纬说是时候遇见我的那束光了",
@@ -5075,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227476,
+      "num": 227476,
+      "word": "2岁萌娃砸电视帮葫芦娃救爷爷",
+      "onboard_time": 1667028502,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227129,
       "num": 141787,
       "word": "权志龙ELLE Korea内页大片",
@@ -5339,6 +5379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213647,
+      "num": 213647,
+      "word": "Jennie晒演唱会后台照",
+      "onboard_time": 1667027901,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213599,
       "num": 213599,
       "word": "祝绪丹新剧被捏脸揪发髻",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1666622247,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212309,
+      "num": 212309,
+      "word": "西安辅警执勤中被撞不幸牺牲",
+      "onboard_time": 1667030483,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212218,
@@ -5809,14 +5865,6 @@
       "onboard_time": 1667025205,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190979,
-      "num": 190979,
-      "word": "Jennie晒演唱会后台照",
-      "onboard_time": 1667027901,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190542,
@@ -6473,6 +6521,14 @@
       "onboard_time": 1666791387,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161255,
+      "num": 161255,
+      "word": "蔡徐坤现象舞台照",
+      "onboard_time": 1667031322,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161228,
@@ -7731,6 +7787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113768,
+      "num": 113768,
+      "word": "这两只狗狗参加过军训吧",
+      "onboard_time": 1667028922,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112915,
       "num": 70887,
       "word": "场地被占极限运动玩家与家长起冲突",
@@ -8691,14 +8755,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 87839,
-      "num": 87839,
-      "word": "2岁萌娃砸电视帮葫芦娃救爷爷",
-      "onboard_time": 1667028502,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87699,
       "num": 87699,
       "word": "2023国考共计划招录3.71万人",
@@ -8792,6 +8848,14 @@
       "word": "老人骑车摔倒男子立刻停车冲去救人",
       "onboard_time": 1666620026,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85062,
+      "num": 85062,
+      "word": "5岁男孩获救后忍着疼大声说谢谢",
+      "onboard_time": 1667030721,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -8977,6 +9041,14 @@
       "onboard_time": 1666928903,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 80777,
+      "num": 80777,
+      "word": "汉书是怎样炼成的",
+      "onboard_time": 1667031443,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80757,
@@ -9203,6 +9275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73798,
+      "num": 73798,
+      "word": "考完教资笔试后的心情",
+      "onboard_time": 1667031803,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73775,
       "num": 73775,
       "word": "教大家几个生存技巧",
@@ -9297,6 +9377,14 @@
       "onboard_time": 1666749984,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 71475,
+      "num": 71475,
+      "word": "你心中的恋综天花板是哪部",
+      "onboard_time": 1667030064,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 71290,
@@ -9831,14 +9919,6 @@
       "num": 59412,
       "word": "这就是中西文化的碰撞吧",
       "onboard_time": 1666858344,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 52723,
-      "num": 52723,
-      "word": "这两只狗狗参加过军训吧",
-      "onboard_time": 1667028922,
       "rank": 49,
       "category": "幽默"
     },
