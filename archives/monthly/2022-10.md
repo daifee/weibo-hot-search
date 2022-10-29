@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 00:52:49
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 01:24:30
 </p>
 </blockquote>
 <p>
@@ -1395,6 +1395,12 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+韩国首尔梨泰院踩踏事故已致2人死亡（热度：1337817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E6%89%93%E7%A0%B4TI%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%AE%B0%E5%BD%95%23" target="weibo">
 RNG打破TI历史时间记录（热度：1329447）
 </a>
@@ -1799,12 +1805,6 @@ EDG晋级八强（热度：1223009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%96%82%E7%8C%AA%E5%90%83%E6%9C%A8%E7%93%9C%E6%8D%A2%E7%81%AB%E9%BE%99%E6%9E%9C%E9%81%AD%E7%8C%AA%E7%99%BD%E7%9C%BC%23" target="weibo">
 男子长期喂猪吃木瓜换火龙果遭猪白眼（热度：1192138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-韩国首尔梨泰院踩踏事故已致2人死亡（热度：1191898）
 </a>
 </li>
 

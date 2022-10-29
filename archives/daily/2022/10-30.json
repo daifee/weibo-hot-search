@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667062369126,
+  "endTime": 1667064270201,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -43,7 +43,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1191898,
+      "raw_hot": 1337817,
       "num": 556845,
       "word": "韩国首尔梨泰院踩踏事故已致2人死亡",
       "onboard_time": 1667059347,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528484,
+      "num": 528484,
+      "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
+      "onboard_time": 1667059886,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518342,
       "num": 518342,
       "word": "呼市确诊者床品食品按医疗废物处理",
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426510,
+      "num": 221237,
+      "word": "赣州一店面爆炸致1死10余人受伤",
+      "onboard_time": 1667060550,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 421314,
       "num": 421314,
       "word": "女子帮朋友婚礼出车在猪圈吃席",
@@ -115,19 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391486,
-      "num": 391486,
+      "raw_hot": 395162,
+      "num": 395162,
       "word": "路人目睹摊贩脚踩模具压扁糖葫芦",
       "onboard_time": 1667058866,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329233,
-      "num": 329233,
-      "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
-      "onboard_time": 1667059886,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1667056650,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280471,
-      "num": 117353,
-      "word": "赣州一店面爆炸致1死10余人受伤",
-      "onboard_time": 1667060550,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 252457,
@@ -433,6 +433,14 @@
       "onboard_time": 1667062343,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54730,
+      "num": 54730,
+      "word": "TT做hiphop没有那么不被认同了",
+      "onboard_time": 1667063900,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
