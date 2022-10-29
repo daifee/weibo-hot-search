@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 06:39:24
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 07:26:21
 </p>
 </blockquote>
 <p>
@@ -4989,6 +4989,12 @@ TES（热度：684055）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4149%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+梨泰院踩踏事故已致149人死亡（热度：679397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%A5%B3%E7%94%9F%E5%9B%A0%E6%B0%94%E6%B8%A9%E9%AA%A4%E9%99%8D%E6%8A%AB%E6%A3%89%E8%A2%AB%E5%87%BA%E9%97%A8%23" target="weibo">
 2女生因气温骤降披棉被出门（热度：679127）
 </a>
@@ -6005,12 +6011,6 @@ LPL小组赛第二日全胜（热度：599733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%87%91%E7%9B%9B%E7%99%BE%E8%B4%A7%E5%A4%B1%E7%81%AB%E6%B5%93%E7%83%9F%E6%BB%9A%E6%BB%9A%23" target="weibo">
 南京金盛百货失火浓烟滚滚（热度：594399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E6%99%8B%E7%BA%A7%E4%B8%96%E4%B9%92%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
-国乒男团晋级世乒赛决赛（热度：593714）
 </a>
 </li>
 

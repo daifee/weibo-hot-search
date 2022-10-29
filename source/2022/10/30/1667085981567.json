@@ -1,0 +1,410 @@
+{
+  "runTime": 1667085981567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068808,
+        "num": 1068808,
+        "word": "李宇春父亲回应女儿病情",
+        "onboard_time": 1667054249,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496338,
+        "num": 496338,
+        "word": "JDG对战T1",
+        "onboard_time": 1667077691,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26644,
+        "num": 472035,
+        "word": "党的二十大报告学习工具",
+        "onboard_time": 1667043024,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 457982,
+        "num": 457982,
+        "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
+        "onboard_time": 1667059886,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452645,
+        "num": 452645,
+        "word": "赣州市公安局通报爆炸事故",
+        "onboard_time": 1667059948,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2630683,
+        "num": 447185,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428084,
+        "num": 428084,
+        "word": "369的石头人",
+        "onboard_time": 1667083635,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323044,
+        "num": 323044,
+        "word": "王一博街舞决赛又来擦地板了",
+        "onboard_time": 1667057791,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288981,
+        "num": 288981,
+        "word": "黑鱼被遗忘洗手间存活11个月掉色",
+        "onboard_time": 1667049504,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218713,
+        "num": 218713,
+        "word": "姥姥带娃3年女儿分文不给",
+        "onboard_time": 1667056650,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1625292,
+        "num": 217109,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679397,
+        "num": 216501,
+        "word": "梨泰院踩踏事故已致149人死亡",
+        "onboard_time": 1667084778,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 209478,
+        "num": 209478,
+        "word": "女子帮朋友婚礼出车在猪圈吃席",
+        "onboard_time": 1667054729,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176527,
+        "num": 176527,
+        "word": "男孩卡住脖子姑姑调侃能上新闻",
+        "onboard_time": 1667070673,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166420,
+        "num": 166420,
+        "word": "管泽元预测JDG战胜T1",
+        "onboard_time": 1667079131,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "半决赛质量",
+        "onboard_time": 1667082014,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144226,
+        "num": 144226,
+        "word": "赣州",
+        "onboard_time": 1667055028,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142807,
+        "num": 142807,
+        "word": "王楚钦4比3马龙",
+        "onboard_time": 1667057372,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134573,
+        "num": 134573,
+        "word": "呼市确诊者床品食品按医疗废物处理",
+        "onboard_time": 1667055329,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131969,
+        "num": 131969,
+        "word": "加里奥",
+        "onboard_time": 1667080933,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "武汉明确咽拭子采集至少擦拭6次",
+        "onboard_time": 1667047223,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125415,
+        "num": 125415,
+        "word": "路人目睹摊贩脚踩模具压扁糖葫芦",
+        "onboard_time": 1667058866,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124586,
+        "num": 124586,
+        "word": "女生因病休学2年独自旅行49个城市",
+        "onboard_time": 1667054127,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 120612,
+        "num": 120612,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "热衷考教资的中年人们",
+        "onboard_time": 1667083334,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111897,
+        "num": 111897,
+        "word": "JDG先下一城",
+        "onboard_time": 1667081474,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110552,
+        "num": 110552,
+        "word": "小姨化妆后去接娃外甥没敢认",
+        "onboard_time": 1667052446,
+        "rank": 26,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 105584,
+        "num": 105584,
+        "word": "韩国购入刘亦菲金粉世家播出版权",
+        "onboard_time": 1667057134,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100404,
+        "num": 100404,
+        "word": "外卖员被打赏1元1角以为求救秒报警",
+        "onboard_time": 1667043805,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86837,
+        "num": 86837,
+        "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+        "onboard_time": 1667067976,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87407,
+        "num": 86663,
+        "word": "河南多地致信本地在郑州富士康工作人员",
+        "onboard_time": 1667085920,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86080,
+        "num": 86080,
+        "word": "消防通报南京金盛百货失火",
+        "onboard_time": 1667050826,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 80698,
+        "num": 80698,
+        "word": "T1扳平比分",
+        "onboard_time": 1667084658,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80425,
+        "num": 80425,
+        "word": "突然从焦虑变得不焦虑了",
+        "onboard_time": 1667047762,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 71850,
+        "num": 71850,
+        "word": "林孝埈短道速滑世界杯初战告捷",
+        "onboard_time": 1667044943,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61382,
+        "num": 61382,
+        "word": "小区内是否可以骑自行车",
+        "onboard_time": 1667074153,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58328,
+        "num": 58328,
+        "word": "这就是街舞",
+        "onboard_time": 1667038163,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56548,
+        "num": 56548,
+        "word": "四菜一汤68元上门做菜女子开直播",
+        "onboard_time": 1667041763,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 55863,
+        "num": 55863,
+        "word": "赣州一店面爆炸致1死10余人受伤",
+        "onboard_time": 1667060550,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 53824,
+        "num": 53824,
+        "word": "沉香是懂拒绝的",
+        "onboard_time": 1667039964,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49946,
+        "num": 49946,
+        "word": "小猫抓到老鼠跳床上送给主人",
+        "onboard_time": 1667052925,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47810,
+        "num": 47810,
+        "word": "中国好声音产生首位广西籍冠军",
+        "onboard_time": 1667034684,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46946,
+        "num": 46946,
+        "word": "这个字居然要172笔才能写完",
+        "onboard_time": 1667043443,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45657,
+        "num": 45657,
+        "word": "俄称英国皇家海军官员参与了北溪事件",
+        "onboard_time": 1667044166,
+        "rank": 43,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 43454,
+        "num": 43454,
+        "word": "多地支持鼓励灵活就业人员买房",
+        "onboard_time": 1667045185,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 41479,
+        "num": 41479,
+        "word": "2020的手机有多卷",
+        "onboard_time": 1667051186,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 40264,
+        "num": 40264,
+        "word": "那奇沃夫",
+        "onboard_time": 1667049865,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37879,
+        "num": 37879,
+        "word": "张真源反差live图",
+        "onboard_time": 1667057912,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37803,
+        "num": 37803,
+        "word": "T1阵容",
+        "onboard_time": 1667084476,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37272,
+        "num": 37272,
+        "word": "黄宗泽吐槽假期还要被迫加班",
+        "onboard_time": 1667062883,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#红旗渠精神永远震撼人心#"
+    }
+  }
+}

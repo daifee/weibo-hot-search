@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667083164950,
+  "endTime": 1667085981567,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1057089,
-      "num": 424281,
+      "num": 452645,
       "word": "赣州市公安局通报爆炸事故",
       "onboard_time": 1667059948,
       "rank": 13,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1666968448,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 679397,
+      "num": 216501,
+      "word": "梨泰院踩踏事故已致149人死亡",
+      "onboard_time": 1667084778,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 673821,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1667047762,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 428084,
+      "num": 428084,
+      "word": "369的石头人",
+      "onboard_time": 1667083635,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 427349,
@@ -4588,7 +4604,7 @@
     },
     {
       "raw_hot": 282127,
-      "num": 99909,
+      "num": 111897,
       "word": "JDG先下一城",
       "onboard_time": 1667081474,
       "rank": 11,
@@ -4700,7 +4716,7 @@
     },
     {
       "raw_hot": 278335,
-      "num": 98774,
+      "num": 166420,
       "word": "管泽元预测JDG战胜T1",
       "onboard_time": 1667079131,
       "rank": 49,
@@ -6851,6 +6867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176527,
+      "num": 176527,
+      "word": "男孩卡住脖子姑姑调侃能上新闻",
+      "onboard_time": 1667070673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176452,
       "num": 176452,
       "word": "对电子烟征收消费税",
@@ -7305,6 +7329,14 @@
       "onboard_time": 1666777164,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156562,
+      "num": 156562,
+      "word": "半决赛质量",
+      "onboard_time": 1667082014,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 155890,
@@ -8563,6 +8595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116060,
+      "num": 116060,
+      "word": "热衷考教资的中年人们",
+      "onboard_time": 1667083334,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 115938,
       "num": 32981,
       "word": "妈妈用相机拍下宝宝逛超市视角",
@@ -8825,14 +8865,6 @@
       "onboard_time": 1666696643,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107416,
-      "num": 76479,
-      "word": "半决赛质量",
-      "onboard_time": 1667082014,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 107275,
@@ -9675,6 +9707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 87407,
+      "num": 86663,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87193,
       "num": 25192,
       "word": "孙颖莎WTT澳门赛夺冠",
@@ -9689,6 +9729,14 @@
       "onboard_time": 1666688304,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86837,
+      "num": 86837,
+      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+      "onboard_time": 1667067976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86705,
@@ -9985,6 +10033,14 @@
       "onboard_time": 1666887203,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80698,
+      "num": 80698,
+      "word": "T1扳平比分",
+      "onboard_time": 1667084658,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 80697,
@@ -10355,14 +10411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70999,
-      "num": 70999,
-      "word": "男孩卡住脖子姑姑调侃能上新闻",
-      "onboard_time": 1667070673,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70653,
       "num": 70653,
       "word": "黄继光生前留下的一封家书",
@@ -10683,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61382,
+      "num": 61382,
+      "word": "小区内是否可以骑自行车",
+      "onboard_time": 1667074153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61320,
       "num": 61320,
       "word": "济南5条地铁同时在建",
@@ -10841,14 +10897,6 @@
       "onboard_time": 1666739237,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 56731,
-      "num": 56731,
-      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
-      "onboard_time": 1667067976,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54972,
@@ -11051,14 +11099,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 45634,
-      "num": 45634,
-      "word": "小区内是否可以骑自行车",
-      "onboard_time": 1667074153,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45401,
       "num": 45401,
       "word": "本菲卡4比3尤文图斯",
@@ -11195,6 +11235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37803,
+      "num": 37803,
+      "word": "T1阵容",
+      "onboard_time": 1667084476,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37684,
       "num": 37684,
       "word": "原来狗狗也会摸头杀",
@@ -11203,20 +11251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37272,
+      "num": 37272,
+      "word": "黄宗泽吐槽假期还要被迫加班",
+      "onboard_time": 1667062883,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37109,
       "num": 262842,
       "word": "14岁微光男孩萨克斯10级并自学谱曲",
       "onboard_time": 1666854083,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36585,
-      "num": 36585,
-      "word": "黄宗泽吐槽假期还要被迫加班",
-      "onboard_time": 1667062883,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 36317,
