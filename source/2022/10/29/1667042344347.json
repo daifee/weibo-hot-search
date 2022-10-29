@@ -1,0 +1,410 @@
+{
+  "runTime": 1667042344347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1594257,
+        "num": 1594257,
+        "word": "李玟删除中国好声音所有微博",
+        "onboard_time": 1667028202,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870520,
+        "num": 870520,
+        "word": "教资科三",
+        "onboard_time": 1667038644,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44638,
+        "num": 774046,
+        "word": "深秋里的诗意中国",
+        "onboard_time": 1667025560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278248,
+        "num": 770571,
+        "word": "王一博讲话一直晃",
+        "onboard_time": 1667037563,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686866,
+        "num": 686866,
+        "word": "英王后所乘飞机着陆时遭鸟撞击",
+        "onboard_time": 1667038163,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 501317,
+        "num": 501317,
+        "word": "90后老师课件插入表情包引质疑",
+        "onboard_time": 1667036784,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 491438,
+        "num": 491438,
+        "word": "沉香是懂拒绝的",
+        "onboard_time": 1667039964,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479534,
+        "num": 479534,
+        "word": "iPhone15Pro或取消物理按键",
+        "onboard_time": 1667030962,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424173,
+        "num": 424173,
+        "word": "南京金盛百货失火浓烟滚滚",
+        "onboard_time": 1667035401,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 392955,
+        "num": 392955,
+        "word": "研究发现越上网越不爱生孩子",
+        "onboard_time": 1667030003,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559285,
+        "num": 371635,
+        "word": "赵丽颖片场包饺子",
+        "onboard_time": 1667042182,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438104,
+        "num": 362614,
+        "word": "李一桐公主头录奔跑吧",
+        "onboard_time": 1667038345,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415358,
+        "num": 361283,
+        "word": "中国好声音产生首位广西籍冠军",
+        "onboard_time": 1667034684,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286019,
+        "num": 286019,
+        "word": "主办方回应长沙马拉松改为线上赛",
+        "onboard_time": 1667039245,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 259674,
+        "num": 259674,
+        "word": "如果18岁以后不剪头发能留多长",
+        "onboard_time": 1667038763,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239572,
+        "num": 239572,
+        "word": "S12半决赛",
+        "onboard_time": 1667032824,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "女生网购抽纸逐张数后少32抽",
+        "onboard_time": 1667034804,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227415,
+        "num": 227415,
+        "word": "教资科二",
+        "onboard_time": 1667026710,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199875,
+        "num": 199875,
+        "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
+        "onboard_time": 1667027422,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173137,
+        "num": 173137,
+        "word": "西安辅警执勤中被撞不幸牺牲",
+        "onboard_time": 1667030483,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302132,
+        "num": 172901,
+        "word": "陈哲远直播生图",
+        "onboard_time": 1667042124,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286605,
+        "num": 170314,
+        "word": "王怡人演史湘云",
+        "onboard_time": 1667037563,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205471,
+        "num": 165513,
+        "word": "街舞5开场舞",
+        "onboard_time": 1667037383,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179385,
+        "num": 162873,
+        "word": "蒲熠星南波万的聚会剧照",
+        "onboard_time": 1667038583,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161935,
+        "num": 161935,
+        "word": "延长专硕学制已成趋势",
+        "onboard_time": 1667033543,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 157229,
+        "word": "斯人版的教材被找到了",
+        "onboard_time": 1667025982,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141239,
+        "num": 141239,
+        "word": "专硕将扩大至研究生招生三分之二",
+        "onboard_time": 1667022378,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 122981,
+        "num": 122981,
+        "word": "患癌妈妈去世前为儿子做最后一餐",
+        "onboard_time": 1667015903,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115638,
+        "num": 115638,
+        "word": "十几岁的心动有多难忘",
+        "onboard_time": 1667036303,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115402,
+        "num": 115402,
+        "word": "2300多岁龙脊梯田全是中国人的智慧",
+        "onboard_time": 1667038583,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 168196,
+        "num": 113646,
+        "word": "为什么玉米截面上玉米粒都是偶数",
+        "onboard_time": 1667040923,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134552,
+        "num": 110649,
+        "word": "刘雨昕露腰跳Afro",
+        "onboard_time": 1667041702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 107531,
+        "word": "BLACKPINK巡演合照",
+        "onboard_time": 1667037924,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129722,
+        "num": 103130,
+        "word": "奔跑吧",
+        "onboard_time": 1667042062,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102735,
+        "num": 102735,
+        "word": "教资科一",
+        "onboard_time": 1667018901,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126457,
+        "num": 100604,
+        "word": "Lisa少年感随拍五宫格",
+        "onboard_time": 1667036725,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95883,
+        "num": 95883,
+        "word": "四菜一汤68元上门做菜女子开直播",
+        "onboard_time": 1667041763,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 94815,
+        "num": 94815,
+        "word": "5岁男孩获救后忍着疼大声说谢谢",
+        "onboard_time": 1667030721,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93178,
+        "num": 93178,
+        "word": "三体",
+        "onboard_time": 1667019983,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86793,
+        "num": 86793,
+        "word": "女生用300条纸带5天做出梵高星空",
+        "onboard_time": 1667032762,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120737,
+        "num": 86249,
+        "word": "蔡徐坤沸腾校园毕业大秀",
+        "onboard_time": 1667041043,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118482,
+        "num": 85208,
+        "word": "这就是街舞",
+        "onboard_time": 1667038163,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84119,
+        "num": 84119,
+        "word": "专硕将成未来考研主流",
+        "onboard_time": 1667025081,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 81447,
+        "num": 81447,
+        "word": "欧文",
+        "onboard_time": 1667018243,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69144,
+        "num": 69144,
+        "word": "阿拉山口海关截获境外土壤3300公斤",
+        "onboard_time": 1667024181,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69094,
+        "num": 69094,
+        "word": "教资答案",
+        "onboard_time": 1667013382,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62812,
+        "num": 62812,
+        "word": "这两只狗狗参加过军训吧",
+        "onboard_time": 1667028922,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61607,
+        "num": 61607,
+        "word": "王者荣耀古今物语",
+        "onboard_time": 1667034982,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59731,
+        "num": 59731,
+        "word": "林孝埈状态",
+        "onboard_time": 1667018361,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53095,
+        "num": 53095,
+        "word": "27岁女孩为19岁女孩捐造血干细胞",
+        "onboard_time": 1667017582,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#发扬延安精神和红旗渠精神#"
+    }
+  }
+}
