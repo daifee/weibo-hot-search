@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 21:34:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/29 21:46:40
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@ RNG（热度：1856164）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%98%8E%E7%A1%AE%E5%92%BD%E6%8B%AD%E5%AD%90%E9%87%87%E9%9B%86%E8%87%B3%E5%B0%91%E6%93%A6%E6%8B%AD6%E6%AC%A1%23" target="weibo">
+武汉明确咽拭子采集至少擦拭6次（热度：1673747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%23" target="weibo">
 体检报告上的常见异常（热度：1667232）
 </a>
@@ -869,12 +875,6 @@ RNG（热度：1856164）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9A%B4%E5%8F%91%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A6%BD%E6%B5%81%E6%84%9F%23" target="weibo">
 欧洲暴发史上最大规模禽流感（热度：1609098）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%98%8E%E7%A1%AE%E5%92%BD%E6%8B%AD%E5%AD%90%E9%87%87%E9%9B%86%E8%87%B3%E5%B0%91%E6%93%A6%E6%8B%AD6%E6%AC%A1%23" target="weibo">
-武汉明确咽拭子采集至少擦拭6次（热度：1603443）
 </a>
 </li>
 
@@ -3225,6 +3225,12 @@ Apple（热度：868948）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
+陈梦vs王曼昱（热度：863776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B010%E5%B9%B4%E7%BF%BB66%E5%80%8D%23" target="weibo">
 教资报考人数10年翻66倍（热度：862764）
 </a>
@@ -3771,12 +3777,6 @@ C盘一下子就不红了（热度：837150）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
-陈梦vs王曼昱（热度：783765）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TouchID%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E5%9B%9E%E5%88%B0iPhone%23" target="weibo">
 TouchID不太可能回到iPhone（热度：782989）
 </a>
@@ -4145,6 +4145,12 @@ Canyon确诊新冠（热度：752162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E7%94%A8%E8%80%81%E5%B9%B2%E5%A6%88%E7%BD%90%E5%AD%90%E5%96%9D%E6%B0%B4%23" target="weibo">
 大学老师用老干妈罐子喝水（热度：744779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BDdiss%23" target="weibo">
+小白diss（热度：744229）
 </a>
 </li>
 
@@ -4559,12 +4565,6 @@ BLACKPINK演唱会（热度：711797）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%8C%23" target="weibo">
 黄牌（热度：706727）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BDdiss%23" target="weibo">
-小白diss（热度：706513）
 </a>
 </li>
 
