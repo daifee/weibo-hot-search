@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667079450530,
+  "endTime": 1667082124327,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -4377,6 +4377,14 @@
       "onboard_time": 1666836082,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859735,
+      "num": 859735,
+      "word": "JDG对战T1",
+      "onboard_time": 1667077691,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 859002,
@@ -15571,6 +15579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365939,
+      "num": 365939,
+      "word": "加里奥",
+      "onboard_time": 1667080933,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 365904,
       "num": 365904,
       "word": "剩米饭竟然还能做出甜品",
@@ -19923,6 +19939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282127,
+      "num": 73651,
+      "word": "JDG先下一城",
+      "onboard_time": 1667081474,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282094,
       "num": 115851,
       "word": "外交部回应特拉斯辞职",
@@ -20201,6 +20225,14 @@
       "onboard_time": 1665297922,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278335,
+      "num": 73147,
+      "word": "管泽元预测JDG战胜T1",
+      "onboard_time": 1667079131,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 278328,
@@ -32715,14 +32747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147902,
-      "num": 147902,
-      "word": "JDG对战T1",
-      "onboard_time": 1667077691,
-      "rank": 1,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147868,
       "num": 147868,
       "word": "詹姆斯19分",
@@ -38041,6 +38065,14 @@
       "onboard_time": 1666696643,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107416,
+      "num": 68080,
+      "word": "半决赛质量",
+      "onboard_time": 1667082014,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 107287,
@@ -45099,6 +45131,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 52018,
+      "num": 52018,
+      "word": "男孩卡住脖子姑姑调侃能上新闻",
+      "onboard_time": 1667070673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52013,
       "num": 52013,
       "word": "那英在上一种很新的菜",
@@ -45683,6 +45723,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 45634,
+      "num": 45634,
+      "word": "小区内是否可以骑自行车",
+      "onboard_time": 1667074153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45627,
       "num": 45627,
       "word": "RNG对战SGB",
@@ -45899,14 +45947,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41712,
-      "num": 41712,
-      "word": "小区内是否可以骑自行车",
-      "onboard_time": 1667074153,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41519,
       "num": 301946,
       "word": "男生黑板手绘3米长新中国万岁",
@@ -46008,14 +46048,6 @@
       "word": "交警收到三页纸的手写感谢信",
       "onboard_time": 1665316884,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40488,
-      "num": 35528,
-      "word": "男孩卡住脖子姑姑调侃能上新闻",
-      "onboard_time": 1667070673,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -47329,14 +47361,6 @@
       "onboard_time": 1664832012,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10675,
-      "num": 11367,
-      "word": "管泽元预测JDG战胜T1",
-      "onboard_time": 1667079131,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 10343,

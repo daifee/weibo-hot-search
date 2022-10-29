@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667079450530,
+  "endTime": 1667082124327,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -57,6 +57,14 @@
       "onboard_time": 1667059948,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 859735,
+      "num": 859735,
+      "word": "JDG对战T1",
+      "onboard_time": 1667077691,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 659662,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365939,
+      "num": 365939,
+      "word": "加里奥",
+      "onboard_time": 1667080933,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304269,
       "num": 304269,
       "word": "消防通报南京金盛百货失火",
@@ -161,6 +177,22 @@
       "onboard_time": 1667056650,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282127,
+      "num": 73651,
+      "word": "JDG先下一城",
+      "onboard_time": 1667081474,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 278335,
+      "num": 73147,
+      "word": "管泽元预测JDG战胜T1",
+      "onboard_time": 1667079131,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 252457,
@@ -227,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147902,
-      "num": 147902,
-      "word": "JDG对战T1",
-      "onboard_time": 1667077691,
-      "rank": 1,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "蔡徐坤沸腾校园舞台胸震",
@@ -273,6 +297,14 @@
       "onboard_time": 1667043443,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107416,
+      "num": 68080,
+      "word": "半决赛质量",
+      "onboard_time": 1667082014,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 103227,
@@ -475,19 +507,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41712,
-      "num": 41712,
-      "word": "小区内是否可以骑自行车",
-      "onboard_time": 1667074153,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40488,
-      "num": 35528,
+      "raw_hot": 52018,
+      "num": 52018,
       "word": "男孩卡住脖子姑姑调侃能上新闻",
       "onboard_time": 1667070673,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45634,
+      "num": 45634,
+      "word": "小区内是否可以骑自行车",
+      "onboard_time": 1667074153,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -513,14 +545,6 @@
       "onboard_time": 1667076791,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 10675,
-      "num": 11367,
-      "word": "管泽元预测JDG战胜T1",
-      "onboard_time": 1667079131,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 9752,

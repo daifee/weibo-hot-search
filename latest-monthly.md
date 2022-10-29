@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 05:37:30
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 06:22:04
 </p>
 </blockquote>
 <p>
@@ -3297,6 +3297,12 @@ Apple（热度：868948）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+JDG对战T1（热度：859735）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%AF%84%E6%A1%83%E9%85%A5%E5%A5%B3%E5%84%BF%E6%94%B6%E5%88%B0%E6%97%B6%E7%A2%8E%E6%88%90%E5%9C%9F%23" target="weibo">
 妈妈寄桃酥女儿收到时碎成土（热度：859002）
 </a>
@@ -6005,12 +6011,6 @@ LPL小组赛第二日全胜（热度：599733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E6%99%8B%E7%BA%A7%E4%B8%96%E4%B9%92%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 国乒男团晋级世乒赛决赛（热度：593714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%A4%A7%E7%B4%A7%E6%80%A5%E7%89%B9%E5%88%AB%E4%BC%9A%E8%AE%AE%E5%B0%B1%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%23" target="weibo">
-联大紧急特别会议就乌克兰问题通过决议（热度：593624）
 </a>
 </li>
 
