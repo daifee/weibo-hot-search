@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667085981567,
+  "endTime": 1667086917050,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -537,6 +537,14 @@
       "onboard_time": 1665708087,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2260768,
+      "num": 2260768,
+      "word": "梨泰院踩踏事故已致149人死亡",
+      "onboard_time": 1667084778,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2256725,
@@ -6633,14 +6641,6 @@
       "onboard_time": 1664781680,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 679397,
-      "num": 216501,
-      "word": "梨泰院踩踏事故已致149人死亡",
-      "onboard_time": 1667084778,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 679127,
@@ -13497,6 +13497,14 @@
       "onboard_time": 1665750563,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 411475,
+      "num": 272213,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411446,
@@ -24307,6 +24315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228943,
+      "num": 228943,
+      "word": "男孩卡住脖子姑姑调侃能上新闻",
+      "onboard_time": 1667070673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228924,
       "num": 108102,
       "word": "库里三分",
@@ -29635,14 +29651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176527,
-      "num": 176527,
-      "word": "男孩卡住脖子姑姑调侃能上新闻",
-      "onboard_time": 1667070673,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176486,
       "num": 102638,
       "word": "女足世界杯中国英格兰同组",
@@ -30841,6 +30849,14 @@
       "onboard_time": 1665891329,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "热衷考教资的中年人们",
+      "onboard_time": 1667083334,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 164593,
@@ -36931,14 +36947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116060,
-      "num": 116060,
-      "word": "热衷考教资的中年人们",
-      "onboard_time": 1667083334,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 115977,
       "num": 115977,
       "word": "小学生们跳绳跳出了舞的感觉",
@@ -37145,6 +37153,14 @@
       "onboard_time": 1665704722,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113614,
+      "num": 113614,
+      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+      "onboard_time": 1667067976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113526,
@@ -40867,14 +40883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87407,
-      "num": 86663,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87185,
       "num": 87185,
       "word": "2023女足世界杯抽签",
@@ -40929,14 +40937,6 @@
       "onboard_time": 1665555863,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86837,
-      "num": 86837,
-      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
-      "onboard_time": 1667067976,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86705,
@@ -41025,6 +41025,14 @@
       "onboard_time": 1665143481,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86203,
+      "num": 86203,
+      "word": "zyko这就是街舞5总冠军",
+      "onboard_time": 1667086401,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 86075,
@@ -41667,6 +41675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 82175,
+      "num": 82175,
+      "word": "T1扳平比分",
+      "onboard_time": 1667084658,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82101,
       "num": 82101,
       "word": "黑龙江漠河的跑冰排景象太壮观",
@@ -41851,20 +41867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80698,
-      "num": 80698,
-      "word": "T1扳平比分",
-      "onboard_time": 1667084658,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "大学生帅气上篮后护送小朋友离场",
       "onboard_time": 1666965806,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 80645,
+      "num": 80645,
+      "word": "刘也捡漏丁禹兮",
+      "onboard_time": 1667086521,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 80637,
@@ -43667,6 +43683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66627,
+      "num": 66627,
+      "word": "T1运营",
+      "onboard_time": 1667086099,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66548,
       "num": 66548,
       "word": "三体动画角色图曝光",
@@ -44219,6 +44243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62491,
+      "num": 62491,
+      "word": "小区内是否可以骑自行车",
+      "onboard_time": 1667074153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62408,
       "num": 9758,
       "word": "郑在玹golddust舞台",
@@ -44344,14 +44376,6 @@
       "word": "国庆假期最后一天",
       "onboard_time": 1665098414,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61382,
-      "num": 61382,
-      "word": "小区内是否可以骑自行车",
-      "onboard_time": 1667074153,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -44529,6 +44553,14 @@
       "onboard_time": 1664581280,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60051,
+      "num": 60051,
+      "word": "怎么熬过分手的第一个晚上",
+      "onboard_time": 1667086641,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 59687,

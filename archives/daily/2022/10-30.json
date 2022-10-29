@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667085981567,
+  "endTime": 1667086917050,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -17,6 +17,14 @@
       "onboard_time": 1667052623,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2260768,
+      "num": 2260768,
+      "word": "梨泰院踩踏事故已致149人死亡",
+      "onboard_time": 1667084778,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2059003,
@@ -65,14 +73,6 @@
       "onboard_time": 1667077691,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 679397,
-      "num": 216501,
-      "word": "梨泰院踩踏事故已致149人死亡",
-      "onboard_time": 1667084778,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 659662,
@@ -152,6 +152,14 @@
       "word": "女子帮朋友婚礼出车在猪圈吃席",
       "onboard_time": 1667054729,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411475,
+      "num": 272213,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228943,
+      "num": 228943,
+      "word": "男孩卡住脖子姑姑调侃能上新闻",
+      "onboard_time": 1667070673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221526,
       "num": 221526,
       "word": "那奇沃夫",
@@ -267,12 +283,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 176527,
-      "num": 176527,
-      "word": "男孩卡住脖子姑姑调侃能上新闻",
-      "onboard_time": 1667070673,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "热衷考教资的中年人们",
+      "onboard_time": 1667083334,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 156562,
@@ -323,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116060,
-      "num": 116060,
-      "word": "热衷考教资的中年人们",
-      "onboard_time": 1667083334,
-      "rank": 24,
-      "category": "社会新闻,教育"
+      "raw_hot": 113614,
+      "num": 113614,
+      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+      "onboard_time": 1667067976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109009,
@@ -395,14 +411,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 87407,
-      "num": 86663,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87287,
       "num": 87287,
       "word": "四菜一汤68元上门做菜女子开直播",
@@ -411,12 +419,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 86837,
-      "num": 86837,
-      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
-      "onboard_time": 1667067976,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 86203,
+      "num": 86203,
+      "word": "zyko这就是街舞5总冠军",
+      "onboard_time": 1667086401,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 85641,
@@ -475,6 +483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 82175,
+      "num": 82175,
+      "word": "T1扳平比分",
+      "onboard_time": 1667084658,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80800,
       "num": 80800,
       "word": "黄景瑜今晚直播生图状态",
@@ -483,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80698,
-      "num": 80698,
-      "word": "T1扳平比分",
-      "onboard_time": 1667084658,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 80645,
+      "num": 80645,
+      "word": "刘也捡漏丁禹兮",
+      "onboard_time": 1667086521,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 78134,
@@ -515,8 +531,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61382,
-      "num": 61382,
+      "raw_hot": 66627,
+      "num": 66627,
+      "word": "T1运营",
+      "onboard_time": 1667086099,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 62491,
+      "num": 62491,
       "word": "小区内是否可以骑自行车",
       "onboard_time": 1667074153,
       "rank": 46,
@@ -531,8 +555,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60051,
+      "num": 60051,
+      "word": "怎么熬过分手的第一个晚上",
+      "onboard_time": 1667086641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59859,
-      "num": 632704,
+      "num": 875440,
       "word": "党的二十大报告学习工具",
       "onboard_time": 1667043024,
       "rank": 2,
@@ -563,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47810,
-      "num": 47810,
+      "raw_hot": 53380,
+      "num": 53380,
       "word": "中国好声音产生首位广西籍冠军",
       "onboard_time": 1667034684,
       "rank": 41,
