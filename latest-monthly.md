@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 00:31:00
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 00:52:49
 </p>
 </blockquote>
 <p>
@@ -1803,6 +1803,12 @@ EDG晋级八强（热度：1223009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+韩国首尔梨泰院踩踏事故已致2人死亡（热度：1191898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%23" target="weibo">
 新乡（热度：1191434）
 </a>
@@ -2261,6 +2267,12 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%B2%E5%AE%8C%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%80%81%E5%85%AC%E8%A6%81%E6%B1%82%E5%88%86%E6%88%BF%E7%9D%A1%23" target="weibo">
 女子割完双眼皮老公要求分房睡（热度：1057537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E9%80%9A%E6%8A%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%23" target="weibo">
+赣州市公安局通报爆炸事故（热度：1057089）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LPL小组赛第二日全胜（热度：599733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%A4%A7%E7%B4%A7%E6%80%A5%E7%89%B9%E5%88%AB%E4%BC%9A%E8%AE%AE%E5%B0%B1%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%23" target="weibo">
 联大紧急特别会议就乌克兰问题通过决议（热度：593624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E5%A1%94%E8%8A%99%23" target="weibo">
-丝塔芙（热度：593572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%84%9F%E8%A7%89%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF%23" target="weibo">
-为啥感觉假期越休息越累（热度：593510）
 </a>
 </li>
 
