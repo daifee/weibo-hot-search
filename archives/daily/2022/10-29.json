@@ -1,6 +1,6 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667032150536,
+  "endTime": 1667033093903,
   "band_list": [
     {
       "raw_hot": 3546205,
@@ -67,6 +67,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 904189,
+      "num": 904189,
+      "word": "研究发现越上网越不爱生孩子",
+      "onboard_time": 1667030003,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885198,
       "num": 657381,
       "word": "苹果市值一夜暴涨1761亿美元",
@@ -115,6 +123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 666649,
+      "num": 320682,
+      "word": "iPhone15Pro或取消物理按键",
+      "onboard_time": 1667030962,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 639043,
       "num": 639043,
       "word": "综合素质",
@@ -145,14 +161,6 @@
       "onboard_time": 1666968448,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 609097,
-      "num": 609097,
-      "word": "研究发现越上网越不爱生孩子",
-      "onboard_time": 1667030003,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 605866,
@@ -225,14 +233,6 @@
       "onboard_time": 1667017582,
       "rank": 22,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 433446,
-      "num": 320682,
-      "word": "iPhone15Pro或取消物理按键",
-      "onboard_time": 1667030962,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 430075,
@@ -347,12 +347,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322854,
-      "num": 322854,
+      "raw_hot": 335128,
+      "num": 335128,
       "word": "BamBam我的换乘恋爱嘴替",
       "onboard_time": 1667031443,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327719,
+      "num": 287259,
+      "word": "西安辅警执勤中被撞不幸牺牲",
+      "onboard_time": 1667030483,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317976,
+      "num": 317976,
+      "word": "刘学义彭小苒画眉海报",
+      "onboard_time": 1667032641,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 306357,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238861,
+      "num": 238861,
+      "word": "2岁萌娃砸电视帮葫芦娃救爷爷",
+      "onboard_time": 1667028502,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "王者荣耀",
@@ -496,14 +520,6 @@
       "word": "老公天天做美食女子13天胖10斤",
       "onboard_time": 1666968566,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227476,
-      "num": 227476,
-      "word": "2岁萌娃砸电视帮葫芦娃救爷爷",
-      "onboard_time": 1667028502,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1667017281,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212309,
-      "num": 212309,
-      "word": "西安辅警执勤中被撞不幸牺牲",
-      "onboard_time": 1667030483,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210856,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146028,
+      "num": 146028,
+      "word": "原相机下的许凯",
+      "onboard_time": 1667032283,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140011,
       "num": 140011,
       "word": "男子水缸种莲藕丰收后砸缸取藕",
@@ -907,6 +923,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124022,
+      "num": 124022,
+      "word": "这两只狗狗参加过军训吧",
+      "onboard_time": 1667028922,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119101,
+      "num": 119101,
+      "word": "5岁男孩获救后忍着疼大声说谢谢",
+      "onboard_time": 1667030721,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117796,
       "num": 117796,
       "word": "法证先锋5好敢拍",
@@ -929,14 +961,6 @@
       "onboard_time": 1667001381,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113768,
-      "num": 113768,
-      "word": "这两只狗狗参加过军训吧",
-      "onboard_time": 1667028922,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 109867,
@@ -1107,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85062,
-      "num": 85062,
-      "word": "5岁男孩获救后忍着疼大声说谢谢",
-      "onboard_time": 1667030721,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 84457,
+      "num": 84457,
+      "word": "S12半决赛",
+      "onboard_time": 1667032824,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 83237,
@@ -1131,12 +1155,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 81788,
+      "num": 81788,
+      "word": "考完教资笔试后的心情",
+      "onboard_time": 1667031803,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 80777,
       "num": 80777,
       "word": "汉书是怎样炼成的",
       "onboard_time": 1667031443,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79002,
+      "num": 79002,
+      "word": "班主任在考卷上贴棒棒糖鼓励学生",
+      "onboard_time": 1667032885,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 78890,
@@ -1155,12 +1195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73798,
-      "num": 73798,
-      "word": "考完教资笔试后的心情",
-      "onboard_time": 1667031803,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 77037,
+      "num": 77037,
+      "word": "女生用300条纸带5天做出梵高星空",
+      "onboard_time": 1667032762,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76597,
+      "num": 76597,
+      "word": "黑龙江漠河的跑冰排景象太壮观",
+      "onboard_time": 1667032283,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 73325,
