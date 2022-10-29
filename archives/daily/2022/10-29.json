@@ -1,7 +1,15 @@
 {
   "startTime": 1666974677560,
-  "endTime": 1667054295570,
+  "endTime": 1667057056217,
   "band_list": [
+    {
+      "raw_hot": 4776971,
+      "num": 4776971,
+      "word": "梨泰院",
+      "onboard_time": 1667054906,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3546205,
       "num": 3546205,
@@ -9,6 +17,22 @@
       "onboard_time": 1667000360,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3142904,
+      "num": 420298,
+      "word": "富士康",
+      "onboard_time": 1667052623,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2623641,
+      "num": 2623641,
+      "word": "李宇春父亲回应女儿病情",
+      "onboard_time": 1667054249,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 2512088,
@@ -25,14 +49,6 @@
       "onboard_time": 1666963884,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1985937,
-      "num": 420298,
-      "word": "富士康",
-      "onboard_time": 1667052623,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1745572,
@@ -81,6 +97,14 @@
       "onboard_time": 1667037563,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224627,
+      "num": 407778,
+      "word": "赣州",
+      "onboard_time": 1667055028,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1199535,
@@ -243,6 +267,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 641139,
+      "num": 641139,
+      "word": "小姨化妆后去接娃外甥没敢认",
+      "onboard_time": 1667052446,
+      "rank": 19,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 639043,
       "num": 639043,
       "word": "综合素质",
@@ -329,14 +361,6 @@
       "onboard_time": 1667043443,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566817,
-      "num": 328092,
-      "word": "小姨化妆后去接娃外甥没敢认",
-      "onboard_time": 1667052446,
-      "rank": 19,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 559285,
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405207,
+      "num": 405207,
+      "word": "女生因病休学2年独自旅行49个城市",
+      "onboard_time": 1667054127,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 402666,
       "num": 402666,
       "word": "班主任是表姨来做客男孩吓得躲厕所",
@@ -659,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322757,
+      "num": 322757,
+      "word": "呼市确诊者床品食品按医疗废物处理",
+      "onboard_time": 1667055329,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317976,
       "num": 317976,
       "word": "刘学义彭小苒画眉海报",
       "onboard_time": 1667032641,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307408,
+      "num": 307408,
+      "word": "女子帮朋友婚礼出车在猪圈吃席",
+      "onboard_time": 1667054729,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306357,
@@ -763,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278363,
+      "num": 278363,
+      "word": "舍不得王一博街舞5",
+      "onboard_time": 1667054305,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277075,
       "num": 277075,
       "word": "经不起诱惑的小狗",
@@ -825,14 +881,6 @@
       "onboard_time": 1667052685,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250240,
-      "num": 76672,
-      "word": "李宇春父亲回应女儿病情",
-      "onboard_time": 1667054249,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 249420,
@@ -1107,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189124,
+      "num": 189124,
+      "word": "韩国发生踩踏事故致50余人心脏骤停",
+      "onboard_time": 1667057009,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188157,
       "num": 188157,
       "word": "7000年前的首富竟靠吃猪肉排名",
@@ -1283,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162298,
+      "num": 162298,
+      "word": "刘慈欣说三体动画要来了",
+      "onboard_time": 1667051607,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162040,
       "num": 162040,
       "word": "人只会嘲笑和自己相近的人",
@@ -1387,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141244,
+      "num": 141244,
+      "word": "小猫抓到老鼠跳床上送给主人",
+      "onboard_time": 1667052925,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140011,
       "num": 140011,
       "word": "男子水缸种莲藕丰收后砸缸取藕",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1667016443,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136592,
+      "num": 133916,
+      "word": "2020的手机有多卷",
+      "onboard_time": 1667051186,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 134552,
@@ -1515,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119837,
-      "num": 119837,
-      "word": "2020的手机有多卷",
-      "onboard_time": 1667051186,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 117796,
       "num": 117796,
       "word": "法证先锋5好敢拍",
@@ -1555,20 +1627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112111,
+      "num": 112111,
+      "word": "张艺兴大航海2巡演舞台合集视频",
+      "onboard_time": 1667056471,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111533,
       "num": 111533,
       "word": "班主任在考卷上贴棒棒糖鼓励学生",
       "onboard_time": 1667032885,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 111514,
-      "num": 111514,
-      "word": "刘慈欣说三体动画要来了",
-      "onboard_time": 1667051607,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 109867,
@@ -1643,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105509,
-      "num": 105509,
-      "word": "小猫抓到老鼠跳床上送给主人",
-      "onboard_time": 1667052925,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104992,
       "num": 104992,
       "word": "三体动画面壁者披露",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1666949545,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101982,
+      "num": 101982,
+      "word": "姥姥带娃3年女儿分文不给",
+      "onboard_time": 1667056650,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101661,
@@ -1788,7 +1860,7 @@
     },
     {
       "raw_hot": 89367,
-      "num": 984438,
+      "num": 2017055,
       "word": "党的二十大报告学习工具",
       "onboard_time": 1667043024,
       "rank": 2,
@@ -1897,14 +1969,6 @@
       "onboard_time": 1667037746,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76972,
-      "num": 76972,
-      "word": "女生因病休学2年独自旅行49个城市",
-      "onboard_time": 1667054127,
-      "rank": 46,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 73325,
