@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667036316085,
+  "endTime": 1667039136672,
   "band_list": [
     {
       "raw_hot": 5194566,
@@ -287,6 +287,14 @@
       "num": 1092238,
       "word": "海恩贤圭成了",
       "onboard_time": 1666958124,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1279857,
+      "num": 601417,
+      "word": "王一博讲话一直晃",
+      "onboard_time": 1667037563,
       "rank": 3,
       "category": "综艺"
     },
@@ -1027,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729862,
+      "num": 712080,
+      "word": "中国好声音产生首位广西籍冠军",
+      "onboard_time": 1667034684,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 729149,
       "num": 729149,
       "word": "重庆一大学教授每次上课都给学生带礼物",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1666963045,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712080,
-      "num": 712080,
-      "word": "中国好声音产生首位广西籍冠军",
-      "onboard_time": 1667034684,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 711238,
@@ -1499,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594399,
+      "num": 594399,
+      "word": "南京金盛百货失火浓烟滚滚",
+      "onboard_time": 1667035401,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 593572,
       "num": 45579,
       "word": "丝塔芙",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1666579824,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543191,
+      "num": 543191,
+      "word": "延长专硕学制已成趋势",
+      "onboard_time": 1667033543,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 537045,
@@ -2323,6 +2347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 446190,
+      "num": 446190,
+      "word": "教资科三",
+      "onboard_time": 1667038644,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 445022,
       "num": 445022,
       "word": "哈尔滨疫情防控",
@@ -2352,6 +2384,14 @@
       "word": "吴倩李佳航九义人开机路透",
       "onboard_time": 1666753404,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 435494,
+      "num": 364549,
+      "word": "李一桐公主头录奔跑吧",
+      "onboard_time": 1667038345,
+      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -2883,14 +2923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 390460,
-      "num": 316555,
-      "word": "延长专硕学制已成趋势",
-      "onboard_time": 1667033543,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 389989,
       "num": 389989,
       "word": "陈梦vs袁嘉楠",
@@ -2929,6 +2961,14 @@
       "onboard_time": 1666838964,
       "rank": 7,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 386172,
+      "num": 345090,
+      "word": "王怡人演史湘云",
+      "onboard_time": 1667037563,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 384820,
@@ -3907,6 +3947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304686,
+      "num": 304686,
+      "word": "蒲熠星南波万的聚会剧照",
+      "onboard_time": 1667038583,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302328,
       "num": 159566,
       "word": "北京密云发现两本土感染者",
@@ -4235,14 +4283,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 278345,
-      "num": 278345,
-      "word": "南京金盛百货失火浓烟滚滚",
-      "onboard_time": 1667035401,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 278187,
       "num": 215190,
       "word": "女子刘海被理发店剪坏大哭报警",
@@ -4531,6 +4571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258446,
+      "num": 258446,
+      "word": "女生网购抽纸逐张数后少32抽",
+      "onboard_time": 1667034804,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258136,
       "num": 237130,
       "word": "换乘恋爱2大结局推迟播出",
@@ -4681,6 +4729,14 @@
       "onboard_time": 1666662501,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247067,
+      "num": 247067,
+      "word": "90后老师课件插入表情包引质疑",
+      "onboard_time": 1667036784,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246858,
@@ -5155,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227839,
+      "num": 113688,
+      "word": "英王后所乘飞机着陆时遭鸟撞击",
+      "onboard_time": 1667038163,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 227798,
       "num": 71150,
       "word": "北京10月24日新增本土确诊18例",
@@ -5289,6 +5353,14 @@
       "onboard_time": 1666682783,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220339,
+      "num": 220339,
+      "word": "街舞5开场舞",
+      "onboard_time": 1667037383,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 220333,
@@ -6827,6 +6899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151841,
+      "num": 151841,
+      "word": "Lisa少年感随拍五宫格",
+      "onboard_time": 1667036725,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151658,
       "num": 129978,
       "word": "西宁疫情防控工作新闻发布会",
@@ -6849,6 +6929,14 @@
       "onboard_time": 1666826658,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149909,
+      "num": 149909,
+      "word": "BLACKPINK巡演合照",
+      "onboard_time": 1667037924,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 149500,
@@ -6961,6 +7049,14 @@
       "onboard_time": 1666859723,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145217,
+      "num": 112215,
+      "word": "这就是街舞",
+      "onboard_time": 1667038163,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 144774,
@@ -7289,14 +7385,6 @@
       "onboard_time": 1666784843,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133360,
-      "num": 133360,
-      "word": "女生网购抽纸逐张数后少32抽",
-      "onboard_time": 1667034804,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133239,
@@ -7883,6 +7971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114390,
+      "num": 114390,
+      "word": "十几岁的心动有多难忘",
+      "onboard_time": 1667036303,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114032,
       "num": 114032,
       "word": "刘昊然董子健我的朋友安德烈",
@@ -8347,6 +8443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101661,
+      "num": 97499,
+      "word": "哪道菜能让你瞬间想起一个城市",
+      "onboard_time": 1667038702,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101588,
       "num": 101588,
       "word": "乐歌升降台藏摄像头",
@@ -8491,6 +8595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 98991,
+      "num": 98991,
+      "word": "王者荣耀古今物语",
+      "onboard_time": 1667034982,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98868,
       "num": 98868,
       "word": "龚俊演AI人工智能",
@@ -8587,20 +8699,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95456,
-      "num": 95456,
-      "word": "王者荣耀古今物语",
-      "onboard_time": 1667034982,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95301,
       "num": 95301,
       "word": "紫菜肉卷的做法",
       "onboard_time": 1666949482,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94925,
+      "num": 94925,
+      "word": "如果18岁以后不剪头发能留多长",
+      "onboard_time": 1667038763,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94651,
@@ -9323,6 +9435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77133,
+      "num": 77133,
+      "word": "八音盒没有惹你们任何人",
+      "onboard_time": 1667037746,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77075,
       "num": 77075,
       "word": "陈梦3比1袁嘉楠",
@@ -9417,6 +9537,14 @@
       "onboard_time": 1666795707,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73622,
+      "num": 73622,
+      "word": "2300多岁龙脊梯田全是中国人的智慧",
+      "onboard_time": 1667038583,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 73325,
@@ -9657,6 +9785,14 @@
       "onboard_time": 1666989791,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66645,
+      "num": 66645,
+      "word": "万圣节甜品的正确打开方式",
+      "onboard_time": 1667037082,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 66639,
@@ -10025,14 +10161,6 @@
       "onboard_time": 1667025560,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53900,
-      "num": 53900,
-      "word": "十几岁的心动有多难忘",
-      "onboard_time": 1667036303,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 53497,
