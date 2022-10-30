@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667135061007,
+  "endTime": 1667136942433,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -91,6 +91,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2119867,
+      "num": 2119867,
+      "word": "目击者称有遇难者衣服被挤掉",
+      "onboard_time": 1667127326,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2059003,
       "num": 434786,
       "word": "韩国发生踩踏事故致50余人心脏骤停",
@@ -131,19 +139,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1867920,
+      "num": 1867920,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1843673,
       "num": 1643184,
       "word": "韩国梨泰院踩踏事故最新情况",
       "onboard_time": 1667111545,
       "rank": 26,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 1639222,
-      "num": 1542168,
-      "word": "目击者称有遇难者衣服被挤掉",
-      "onboard_time": 1667127326,
-      "rank": 19,
       "category": "社会负面"
     },
     {
@@ -160,14 +168,6 @@
       "word": "孙颖莎vs陈梦",
       "onboard_time": 1667126126,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1480316,
-      "num": 1480316,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1667122706,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1667123244,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936443,
+      "num": 936443,
+      "word": "易烊千玺四部作品入选五个一工程",
+      "onboard_time": 1667134345,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 896033,
@@ -283,8 +291,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 791725,
-      "num": 668954,
+      "raw_hot": 800692,
+      "num": 800692,
       "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
       "onboard_time": 1667121567,
       "rank": 44,
@@ -307,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 765757,
-      "num": 765757,
-      "word": "易烊千玺四部作品入选五个一工程",
-      "onboard_time": 1667134345,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 720563,
+      "num": 586950,
+      "word": "富士康最新声明",
+      "onboard_time": 1667133507,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708876,
@@ -337,6 +345,14 @@
       "onboard_time": 1667090853,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 673410,
+      "num": 673410,
+      "word": "女子煲汤忘关火排骨炖成灰",
+      "onboard_time": 1667134107,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659662,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595558,
+      "num": 595558,
+      "word": "亲历韩国踩踏事故中国留学生发声",
+      "onboard_time": 1667130807,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 595300,
       "num": 178388,
       "word": "豆瓣",
@@ -419,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 578311,
-      "num": 435416,
-      "word": "亲历韩国踩踏事故中国留学生发声",
-      "onboard_time": 1667130807,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 578148,
       "num": 578148,
       "word": "专四",
@@ -441,6 +457,14 @@
       "onboard_time": 1667113166,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568306,
+      "num": 568306,
+      "word": "孙颖莎一个月收获三冠",
+      "onboard_time": 1667134705,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 554070,
@@ -521,6 +545,14 @@
       "onboard_time": 1667114367,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480228,
+      "num": 480228,
+      "word": "Tundra夺得TI11总冠军",
+      "onboard_time": 1667135067,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 469305,
@@ -763,6 +795,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 295429,
+      "num": 295429,
+      "word": "王楚钦",
+      "onboard_time": 1667136806,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295153,
       "num": 295153,
       "word": "迪丽热巴今晚直播生图",
@@ -811,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279706,
-      "num": 175841,
-      "word": "富士康最新声明",
-      "onboard_time": 1667133507,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278335,
       "num": 166420,
       "word": "管泽元预测JDG战胜T1",
@@ -833,6 +865,14 @@
       "onboard_time": 1667134766,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268350,
+      "num": 217424,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 266512,
@@ -995,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209502,
+      "num": 89733,
+      "word": "张本智和 吵",
+      "onboard_time": 1667136927,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203815,
       "num": 203815,
       "word": "原来社死也可以复活",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1667120067,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197063,
+      "num": 171030,
+      "word": "在韩留学生万幸决定当晚提前离开",
+      "onboard_time": 1667136145,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 193496,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1667091031,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169223,
+      "num": 169223,
+      "word": "95后小伙上门代厨1周赚千元",
+      "onboard_time": 1667132366,
+      "rank": 40,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 167427,
@@ -1275,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132733,
-      "num": 132733,
-      "word": "女子煲汤忘关火排骨炖成灰",
-      "onboard_time": 1667134107,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132406,
       "num": 132406,
       "word": "51岁女环卫每年借书上百本读自考",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1667121626,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128430,
-      "num": 128430,
-      "word": "95后小伙上门代厨1周赚千元",
-      "onboard_time": 1667132366,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 127094,
@@ -1443,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110723,
-      "num": 110723,
-      "word": "孙颖莎一个月收获三冠",
-      "onboard_time": 1667134705,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109009,
       "num": 109009,
       "word": "这个字居然要172笔才能写完",
@@ -1475,12 +1515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106719,
+      "num": 106719,
+      "word": "遭投毒百草枯女孩换肺后身体好转",
+      "onboard_time": 1667136628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105720,
       "num": 105720,
       "word": "晚八点音乐会嘉宾阵容",
       "onboard_time": 1667097810,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104235,
+      "num": 104235,
+      "word": "朱颜曼滋白切黑演技",
+      "onboard_time": 1667135787,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 103227,
@@ -1577,14 +1633,6 @@
       "onboard_time": 1667121805,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92546,
-      "num": 92546,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 92480,
