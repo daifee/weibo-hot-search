@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667114443387,
+  "endTime": 1667115398095,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2691266,
-      "num": 2691266,
+      "raw_hot": 2705987,
+      "num": 2705987,
       "word": "当地政府已向郑州富士康派驻工作组",
       "onboard_time": 1667102487,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890167,
+      "num": 491620,
+      "word": "韩国梨泰院踩踏事故最新情况",
+      "onboard_time": 1667111545,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 872049,
       "num": 872049,
       "word": "网上确认",
@@ -177,14 +185,6 @@
       "onboard_time": 1667107466,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 747367,
-      "num": 239712,
-      "word": "韩国梨泰院踩踏事故最新情况",
-      "onboard_time": 1667111545,
-      "rank": 26,
-      "category": "社会负面"
     },
     {
       "raw_hot": 706701,
@@ -331,6 +331,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 503301,
+      "num": 503301,
+      "word": "王一博对布布的表情好丰富",
+      "onboard_time": 1667114367,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
@@ -368,6 +376,14 @@
       "word": "女子帮朋友婚礼出车在猪圈吃席",
       "onboard_time": 1667054729,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417852,
+      "num": 417852,
+      "word": "外卖员回应收1.10元打赏后报警",
+      "onboard_time": 1667113166,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -451,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335292,
-      "num": 260886,
-      "word": "王一博对布布的表情好丰富",
-      "onboard_time": 1667114367,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331222,
       "num": 331222,
       "word": "马龙说我们都是乒乓大家庭",
@@ -531,11 +539,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269546,
-      "num": 269546,
-      "word": "外卖员回应收1.10元打赏后报警",
-      "onboard_time": 1667113166,
-      "rank": 8,
+      "raw_hot": 273104,
+      "num": 253182,
+      "word": "不得因产假哺乳限制女职工晋职",
+      "onboard_time": 1667112986,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230217,
+      "num": 230217,
+      "word": "蔡文静彭冠英车咚吻害羞到出画",
+      "onboard_time": 1667114725,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228943,
       "num": 228943,
       "word": "男孩卡住脖子姑姑调侃能上新闻",
@@ -601,6 +617,14 @@
       "onboard_time": 1667049865,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220283,
+      "num": 220283,
+      "word": "苏醒脱5牛仔套装路透",
+      "onboard_time": 1667115325,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219710,
@@ -667,8 +691,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185462,
-      "num": 164498,
+      "raw_hot": 185685,
+      "num": 185685,
       "word": "外交部领保中心启动应急机制",
       "onboard_time": 1667110407,
       "rank": 39,
@@ -697,14 +721,6 @@
       "onboard_time": 1667102070,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173023,
-      "num": 173023,
-      "word": "不得因产假哺乳限制女职工晋职",
-      "onboard_time": 1667112986,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170874,
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133785,
+      "num": 133785,
+      "word": "马嘉祺说我们的歌唱给热爱",
+      "onboard_time": 1667115144,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132406,
       "num": 132406,
       "word": "51岁女环卫每年借书上百本读自考",
@@ -857,6 +881,14 @@
       "onboard_time": 1667057912,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123674,
+      "num": 123674,
+      "word": "大张伟在故宫中了探花",
+      "onboard_time": 1667114545,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 121726,
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115016,
+      "num": 115016,
+      "word": "齐思钧反向天气预报",
+      "onboard_time": 1667115207,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114936,
       "num": 114936,
       "word": "马戏团熊表演时疑抱咬工作人员",
@@ -939,8 +979,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 106460,
-      "num": 106460,
+      "raw_hot": 107657,
+      "num": 107657,
       "word": "首尔踩踏事故亲历者述逃生经历",
       "onboard_time": 1667112564,
       "rank": 34,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1667044166,
       "rank": 37,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 93833,
+      "num": 93833,
+      "word": "369尽力了",
+      "onboard_time": 1667114906,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 91080,
@@ -1147,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77442,
+      "num": 67968,
+      "word": "Secret对阵Liquid",
+      "onboard_time": 1667115385,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74474,
       "num": 74474,
       "word": "什么是红旗渠精神",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1667105669,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68199,
+      "num": 68199,
+      "word": "这就是街舞总决赛战报",
+      "onboard_time": 1667113286,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 67652,
@@ -1251,14 +1315,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 58363,
-      "num": 58363,
-      "word": "这就是街舞总决赛战报",
-      "onboard_time": 1667113286,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57378,
       "num": 57378,
       "word": "宣美翻跳Attention",
@@ -1307,7 +1363,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33984,
+      "raw_hot": 35990,
       "num": 1444674,
       "word": "赓续红色血脉传承奋斗精神",
       "onboard_time": 1667110525,
@@ -1315,8 +1371,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 28297,
-      "num": 207165,
+      "raw_hot": 31965,
+      "num": 240636,
       "word": "他说守好黄河是有意义的事情",
       "onboard_time": 1667113224,
       "rank": 14,
