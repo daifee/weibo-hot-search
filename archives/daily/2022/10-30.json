@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667108581747,
+  "endTime": 1667111362409,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -169,6 +169,14 @@
       "onboard_time": 1667077691,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 769164,
+      "num": 769164,
+      "word": "南京工业大学回应一老师索要回扣",
+      "onboard_time": 1667107466,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 706701,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379425,
+      "num": 379425,
+      "word": "53岁大叔把排骨汤做成牧童牛背图",
+      "onboard_time": 1667107345,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373351,
       "num": 373351,
       "word": "独行月球最终票房成绩",
@@ -427,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330342,
-      "num": 144573,
-      "word": "南京工业大学回应一老师索要回扣",
-      "onboard_time": 1667107466,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 310738,
+      "num": 290106,
+      "word": "狗子打针后朝主人鞋撒尿",
+      "onboard_time": 1667108788,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309758,
@@ -457,6 +473,14 @@
       "onboard_time": 1667048727,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292730,
+      "num": 292730,
+      "word": "李雪琴在芳心荡漾结了两次婚",
+      "onboard_time": 1667109865,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 287427,
@@ -523,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233352,
+      "num": 233352,
+      "word": "发生踩踏事件如何自我保护",
+      "onboard_time": 1667107823,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228943,
       "num": 228943,
       "word": "男孩卡住脖子姑姑调侃能上新闻",
       "onboard_time": 1667070673,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225406,
+      "num": 225406,
+      "word": "蒲熠星做隐藏任务打明牌",
+      "onboard_time": 1667108667,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 221526,
@@ -585,6 +625,14 @@
       "onboard_time": 1667047762,
       "rank": 25,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 191813,
+      "num": 191813,
+      "word": "上海地标古建筑将被5.6亿拍卖",
+      "onboard_time": 1667108247,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186072,
@@ -675,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145380,
-      "num": 145380,
-      "word": "53岁大叔把排骨汤做成牧童牛背图",
-      "onboard_time": 1667107345,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "蔡徐坤沸腾校园舞台胸震",
@@ -713,6 +753,14 @@
       "onboard_time": 1667094690,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137117,
+      "num": 137117,
+      "word": "高速行车突遇动物怎么办",
+      "onboard_time": 1667111065,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 134148,
@@ -747,11 +795,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124746,
-      "num": 124746,
-      "word": "发生踩踏事件如何自我保护",
-      "onboard_time": 1667107823,
-      "rank": 33,
+      "raw_hot": 124292,
+      "num": 124292,
+      "word": "51岁女环卫每年借书上百本读自考",
+      "onboard_time": 1667108009,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -883,12 +931,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 92118,
-      "num": 92118,
-      "word": "51岁女环卫每年借书上百本读自考",
-      "onboard_time": 1667108009,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 95188,
+      "num": 95188,
+      "word": "外交部领保中心启动应急机制",
+      "onboard_time": 1667110407,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 91080,
@@ -907,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89534,
-      "num": 89534,
-      "word": "上海地标古建筑将被5.6亿拍卖",
-      "onboard_time": 1667108247,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88398,
       "num": 88398,
       "word": "2020的手机有多卷",
@@ -929,6 +969,14 @@
       "onboard_time": 1667041763,
       "rank": 39,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 85985,
+      "num": 85985,
+      "word": "遇到踩踏事故我们该怎么办",
+      "onboard_time": 1667109208,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85641,
@@ -985,6 +1033,14 @@
       "onboard_time": 1667038644,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 82789,
+      "num": 238120,
+      "word": "重庆90后爸爸捐肝救4岁女儿",
+      "onboard_time": 1667109688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82525,
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60358,
+      "num": 60358,
+      "word": "五月天11月1日发布新歌",
+      "onboard_time": 1667108846,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 59859,
       "num": 2349378,
       "word": "党的二十大报告学习工具",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1667062883,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27101,
+      "num": 1341489,
+      "word": "赓续红色血脉传承奋斗精神",
+      "onboard_time": 1667110525,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 14547,

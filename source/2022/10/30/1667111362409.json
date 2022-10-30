@@ -1,0 +1,410 @@
+{
+  "runTime": 1667111362409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2542171,
+        "num": 2542171,
+        "word": "首尔踩踏事故亲历者",
+        "onboard_time": 1667099308,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2148564,
+        "num": 2148564,
+        "word": "当地政府已向郑州富士康派驻工作组",
+        "onboard_time": 1667102487,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27101,
+        "num": 1341489,
+        "word": "赓续红色血脉传承奋斗精神",
+        "onboard_time": 1667110525,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1185599,
+        "num": 1185599,
+        "word": "韩踩踏事故中已有四名中国公民遇难",
+        "onboard_time": 1667104107,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 769164,
+        "num": 769164,
+        "word": "南京工业大学回应一老师索要回扣",
+        "onboard_time": 1667107466,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 379425,
+        "num": 379425,
+        "word": "53岁大叔把排骨汤做成牧童牛背图",
+        "onboard_time": 1667107345,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034617,
+        "num": 372156,
+        "word": "韩总统宣布进入国家哀悼期",
+        "onboard_time": 1667096847,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 325330,
+        "num": 325330,
+        "word": "Hope",
+        "onboard_time": 1667088145,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292730,
+        "num": 292730,
+        "word": "李雪琴在芳心荡漾结了两次婚",
+        "onboard_time": 1667109865,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740474,
+        "num": 291844,
+        "word": "直击韩国踩踏事故现场",
+        "onboard_time": 1667104471,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420688,
+        "num": 291010,
+        "word": "河南多地致信本地在郑州富士康工作人员",
+        "onboard_time": 1667085920,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310738,
+        "num": 290106,
+        "word": "狗子打针后朝主人鞋撒尿",
+        "onboard_time": 1667108788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119041,
+        "num": 289216,
+        "word": "梨泰院踩踏事故已致151人死亡",
+        "onboard_time": 1667092052,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 288785,
+        "num": 288785,
+        "word": "交警一把抓住300多斤电缆线卷筒",
+        "onboard_time": 1667101767,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 82789,
+        "num": 238120,
+        "word": "重庆90后爸爸捐肝救4岁女儿",
+        "onboard_time": 1667109688,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445846,
+        "num": 235863,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233352,
+        "num": 233352,
+        "word": "发生踩踏事件如何自我保护",
+        "onboard_time": 1667107823,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225406,
+        "num": 225406,
+        "word": "蒲熠星做隐藏任务打明牌",
+        "onboard_time": 1667108667,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343381,
+        "num": 217411,
+        "word": "中国驻韩使馆发布提醒",
+        "onboard_time": 1667102369,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 208851,
+        "num": 208851,
+        "word": "王一博街舞5爆炸头错位图",
+        "onboard_time": 1667099611,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874064,
+        "num": 207734,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296456,
+        "num": 204984,
+        "word": "仙侠剧男主谁婚后出轨可能性最大",
+        "onboard_time": 1667098651,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201333,
+        "num": 201333,
+        "word": "LPL实力差距",
+        "onboard_time": 1667098468,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191813,
+        "num": 191813,
+        "word": "上海地标古建筑将被5.6亿拍卖",
+        "onboard_time": 1667108247,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179324,
+        "num": 179324,
+        "word": "杨坤说最想和马嘉祺合作",
+        "onboard_time": 1667107227,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176978,
+        "num": 176978,
+        "word": "网上确认",
+        "onboard_time": 1667097028,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153210,
+        "num": 153210,
+        "word": "中国天眼已发现脉冲星超过660颗",
+        "onboard_time": 1667103209,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151442,
+        "num": 151442,
+        "word": "Faker",
+        "onboard_time": 1667091990,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142213,
+        "num": 142213,
+        "word": "梨泰院踩踏事故中伤亡者多为年轻人",
+        "onboard_time": 1667088565,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142110,
+        "num": 142110,
+        "word": "李宇春父亲回应女儿病情",
+        "onboard_time": 1667054249,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "高速行车突遇动物怎么办",
+        "onboard_time": 1667111065,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 126957,
+        "num": 126957,
+        "word": "南京小伙修复700岁国宝级古籍",
+        "onboard_time": 1667106448,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124292,
+        "num": 124292,
+        "word": "51岁女环卫每年借书上百本读自考",
+        "onboard_time": 1667108009,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111779,
+        "num": 111779,
+        "word": "专四",
+        "onboard_time": 1667098651,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111426,
+        "num": 111426,
+        "word": "看法证先锋5人菜瘾大",
+        "onboard_time": 1667102070,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111399,
+        "num": 111399,
+        "word": "迪丽热巴素雅至简大片",
+        "onboard_time": 1667103991,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109624,
+        "num": 109624,
+        "word": "林孝埈混合接力摔倒",
+        "onboard_time": 1667090672,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108282,
+        "num": 108282,
+        "word": "S8后LPL首次无缘S赛决赛",
+        "onboard_time": 1667093070,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97046,
+        "num": 97046,
+        "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
+        "onboard_time": 1667059886,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95188,
+        "num": 95188,
+        "word": "外交部领保中心启动应急机制",
+        "onboard_time": 1667110407,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 85985,
+        "num": 85985,
+        "word": "遇到踩踏事故我们该怎么办",
+        "onboard_time": 1667109208,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85863,
+        "num": 85863,
+        "word": "马龙说我们都是乒乓大家庭",
+        "onboard_time": 1667100871,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81914,
+        "num": 81914,
+        "word": "卖力帮忙的小狗",
+        "onboard_time": 1667095351,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69960,
+        "num": 69960,
+        "word": "王楚钦将与张本智和争夺男单冠军",
+        "onboard_time": 1667093969,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67145,
+        "num": 67145,
+        "word": "文旅局局长扮白衣侠客被嘲丑出圈",
+        "onboard_time": 1667087242,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65017,
+        "num": 65017,
+        "word": "广东直达陕西班机走下短袖短裤小伙",
+        "onboard_time": 1667092169,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64107,
+        "num": 64107,
+        "word": "原来社死也可以复活",
+        "onboard_time": 1667090248,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62622,
+        "num": 62622,
+        "word": "独行月球最终票房成绩",
+        "onboard_time": 1667091990,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60358,
+        "num": 60358,
+        "word": "五月天11月1日发布新歌",
+        "onboard_time": 1667108846,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56496,
+        "num": 56496,
+        "word": "杨超越极限挑战宝藏行双马尾路透",
+        "onboard_time": 1667108066,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天圆梦#"
+    }
+  }
+}
