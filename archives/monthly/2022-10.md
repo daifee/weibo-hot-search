@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 14:45:46
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 15:20:43
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ Canyon确诊新冠（热度：752162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23" target="weibo">
+韩国梨泰院踩踏事故最新情况（热度：747367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%B7%9D%20%E5%A5%BD%E7%AC%91%23" target="weibo">
 孟川 好笑（热度：747025）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14个别型号价格已低于13官网价（热度：616726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B3%A2%E4%B8%87%E7%9A%84%E8%81%9A%E4%BC%9A%23" target="weibo">
 南波万的聚会（热度：605866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98EDG%23" target="weibo">
-T1对战EDG（热度：605094）
 </a>
 </li>
 
