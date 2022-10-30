@@ -1,0 +1,410 @@
+{
+  "runTime": 1667157506000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 218065,
+        "num": 218065,
+        "word": "在韩留学生万幸决定当晚提前离开",
+        "onboard_time": 1667136145,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "郑州富士康党委书记苏东霞回应发文",
+        "onboard_time": 1667139394,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9699,
+        "num": 114765,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108879,
+        "num": 108879,
+        "word": "韩国踩踏事故发生在约5米宽斜坡上",
+        "onboard_time": 1667134527,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 75839,
+        "word": "王楚钦",
+        "onboard_time": 1667136806,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59653,
+        "num": 59653,
+        "word": "男女平等基本国策被纳入国民教育体系",
+        "onboard_time": 1667145146,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 56995,
+        "num": 56995,
+        "word": "富士康厂区未发生重症感染现象",
+        "onboard_time": 1667123845,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50702,
+        "num": 50702,
+        "word": "感觉我分手最累的是我朋友",
+        "onboard_time": 1667147063,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50080,
+        "num": 50080,
+        "word": "韩救援力量未能在黄金时间赶到事故现场",
+        "onboard_time": 1667141191,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 46445,
+        "num": 46445,
+        "word": "遭投毒百草枯女孩换肺后身体好转",
+        "onboard_time": 1667136628,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183905,
+        "num": 45616,
+        "word": "李智汉遇难",
+        "onboard_time": 1667137228,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44427,
+        "num": 44427,
+        "word": "韩国踩踏事故亲历者称当时整个人都离地",
+        "onboard_time": 1667124868,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42858,
+        "num": 42858,
+        "word": "某个瞬间突然就放下了",
+        "onboard_time": 1667140952,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40278,
+        "num": 40278,
+        "word": "蓝盈莹潘晓晨分手了",
+        "onboard_time": 1667126966,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38010,
+        "num": 38010,
+        "word": "想保护森林要多吃鹿肉汉堡",
+        "onboard_time": 1667145925,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 37949,
+        "num": 37949,
+        "word": "女子煲汤忘关火排骨炖成灰",
+        "onboard_time": 1667134107,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36719,
+        "num": 36719,
+        "word": "富士康最新声明",
+        "onboard_time": 1667133507,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32723,
+        "num": 32723,
+        "word": "易烊千玺四部作品入选五个一工程",
+        "onboard_time": 1667134345,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31320,
+        "num": 31320,
+        "word": "下周新一轮冷空气无缝衔接",
+        "onboard_time": 1667152335,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27836,
+        "num": 27836,
+        "word": "今冬或现三重拉尼娜事件",
+        "onboard_time": 1667130383,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81753,
+        "num": 27066,
+        "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+        "onboard_time": 1667121567,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 23593,
+        "num": 23593,
+        "word": "她用一条左臂救回一个孩子",
+        "onboard_time": 1667121503,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22881,
+        "num": 22881,
+        "word": "胡明轩 状态",
+        "onboard_time": 1667139212,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40050,
+        "num": 22637,
+        "word": "韩国踩踏事故已致154人遇难",
+        "onboard_time": 1667141731,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 21904,
+        "num": 21904,
+        "word": "郑州富士康员工返乡",
+        "onboard_time": 1667129008,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18982,
+        "num": 18982,
+        "word": "恭喜孙颖莎王楚钦",
+        "onboard_time": 1667139693,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35063,
+        "num": 18904,
+        "word": "亲历者称有夜店老板见死不救拒开门",
+        "onboard_time": 1667116107,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 18783,
+        "num": 18783,
+        "word": "4AM晋级世界赛",
+        "onboard_time": 1667141552,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16795,
+        "num": 16795,
+        "word": "我们的歌",
+        "onboard_time": 1667137953,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27998,
+        "num": 16678,
+        "word": "为什么事故会发生在韩国梨泰院",
+        "onboard_time": 1667122946,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 19660,
+        "num": 16669,
+        "word": "富士康给员工连发三条关爱通知",
+        "onboard_time": 1667123244,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16458,
+        "num": 16458,
+        "word": "张本智和 吵",
+        "onboard_time": 1667136927,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32710,
+        "num": 16421,
+        "word": "梨泰院派出所回应事故是否与毒品有关",
+        "onboard_time": 1667118387,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 16244,
+        "num": 16244,
+        "word": "赵露思挑战可爱鬼脸",
+        "onboard_time": 1667141191,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 16180,
+        "word": "王楚钦世界排名升至第3",
+        "onboard_time": 1667144008,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25360,
+        "num": 16144,
+        "word": "亲历韩国踩踏事故中国留学生发声",
+        "onboard_time": 1667130807,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 15992,
+        "num": 15992,
+        "word": "工作后需明白的十大生存之道",
+        "onboard_time": 1667142272,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15880,
+        "num": 15880,
+        "word": "Tundra夺得TI11总冠军",
+        "onboard_time": 1667135067,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15697,
+        "num": 15697,
+        "word": "只有中国航天才能取出这么绝的名字",
+        "onboard_time": 1667144848,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 15410,
+        "num": 15410,
+        "word": "马嘉祺扔鼓槌",
+        "onboard_time": 1667148800,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14801,
+        "num": 14801,
+        "word": "王楚钦世界杯夺冠",
+        "onboard_time": 1667138553,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 14503,
+        "word": "一条plog告别十月",
+        "onboard_time": 1667151317,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14427,
+        "num": 14427,
+        "word": "分享欲就是无声的告白",
+        "onboard_time": 1667129844,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13131,
+        "num": 13131,
+        "word": "赵粤翻跳NXDE",
+        "onboard_time": 1667142029,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12646,
+        "num": 12646,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12586,
+        "num": 12586,
+        "word": "无畏式高颅顶发型",
+        "onboard_time": 1667129906,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12061,
+        "num": 12061,
+        "word": "TF家族张函瑞翻唱兰亭序",
+        "onboard_time": 1667144070,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11780,
+        "num": 11780,
+        "word": "张彬彬蓝色衬衫造型",
+        "onboard_time": 1667146046,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11219,
+        "num": 11219,
+        "word": "成毅直播模仿emoji",
+        "onboard_time": 1667143111,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10642,
+        "num": 10642,
+        "word": "梨泰院踩踏事故已致153人死亡",
+        "onboard_time": 1667119886,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这次考察立足新的征程#"
+    }
+  }
+}
