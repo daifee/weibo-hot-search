@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667162381435,
+  "endTime": 1667164846220,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -48563,6 +48563,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 21323,
+      "num": 21323,
+      "word": "遛狗没拴绳撞车狗主人负全责",
+      "onboard_time": 1667159170,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21295,
       "num": 21295,
       "word": "极品飞车不羁",
@@ -48587,20 +48595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20445,
+      "num": 20445,
+      "word": "马斯克或对推特裁员50%",
+      "onboard_time": 1667161210,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 20300,
       "num": 20300,
       "word": "原来家电还能长这样",
       "onboard_time": 1666989791,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20247,
-      "num": 14345,
-      "word": "遛狗没拴绳撞车狗主人负全责",
-      "onboard_time": 1667159170,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19873,
@@ -48633,6 +48641,14 @@
       "onboard_time": 1666346483,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18874,
+      "num": 14815,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 18755,
@@ -48793,6 +48809,14 @@
       "onboard_time": 1665091151,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14737,
+      "num": 14737,
+      "word": "小伙用竹子做无人机能飞50米",
+      "onboard_time": 1667161151,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14634,
@@ -49019,14 +49043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11110,
-      "num": 11110,
-      "word": "马斯克或对推特裁员50%",
-      "onboard_time": 1667161210,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 10984,
       "num": 750,
       "word": "永远icon梦幻联动",
@@ -49049,6 +49065,14 @@
       "onboard_time": 1664832012,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10770,
+      "num": 10770,
+      "word": "今冬浙江或有超强寒潮",
+      "onboard_time": 1667163730,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10343,
@@ -49121,14 +49145,6 @@
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9559,
-      "num": 10502,
-      "word": "小伙用竹子做无人机能飞50米",
-      "onboard_time": 1667161151,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9421,
