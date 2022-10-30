@@ -1,0 +1,410 @@
+{
+  "runTime": 1667098933198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2534523,
+        "num": 2534523,
+        "word": "三名中国公民在韩国踩踏事故中遇难",
+        "onboard_time": 1667096847,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2446899,
+        "num": 2446899,
+        "word": "河南多地致信本地在郑州富士康工作人员",
+        "onboard_time": 1667085920,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25114,
+        "num": 1759859,
+        "word": "党的二十大报告学习工具",
+        "onboard_time": 1667043024,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1161365,
+        "num": 1161365,
+        "word": "Hope",
+        "onboard_time": 1667088145,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 872049,
+        "num": 872049,
+        "word": "网上确认",
+        "onboard_time": 1667097028,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 757267,
+        "num": 757267,
+        "word": "李宇春父亲回应女儿病情",
+        "onboard_time": 1667054249,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581900,
+        "num": 581900,
+        "word": "S8后LPL首次无缘S赛决赛",
+        "onboard_time": 1667093070,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 578148,
+        "num": 578148,
+        "word": "专四",
+        "onboard_time": 1667098651,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527538,
+        "num": 527538,
+        "word": "林孝埈混合接力摔倒",
+        "onboard_time": 1667090672,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418348,
+        "num": 418348,
+        "word": "Faker",
+        "onboard_time": 1667091990,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3916487,
+        "num": 414501,
+        "word": "梨泰院踩踏事故已致151人死亡",
+        "onboard_time": 1667092052,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2942571,
+        "num": 389579,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1670072,
+        "num": 389275,
+        "word": "韩总统宣布进入国家哀悼期",
+        "onboard_time": 1667096847,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 670073,
+        "num": 365988,
+        "word": "梨泰院踩踏事故中伤亡者多为年轻人",
+        "onboard_time": 1667088565,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 360414,
+        "num": 360414,
+        "word": "广东直达陕西班机走下短袖短裤小伙",
+        "onboard_time": 1667092169,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354177,
+        "num": 360250,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357757,
+        "num": 357757,
+        "word": "婆婆瞒着儿媳妇花1万5给她买手镯",
+        "onboard_time": 1667059886,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339060,
+        "num": 339060,
+        "word": "文旅局局长扮白衣侠客被嘲丑出圈",
+        "onboard_time": 1667087242,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334425,
+        "num": 334425,
+        "word": "仙侠剧男主谁婚后出轨可能性最大",
+        "onboard_time": 1667098651,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322917,
+        "num": 322917,
+        "word": "JDG止步S12四强",
+        "onboard_time": 1667090853,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305987,
+        "num": 305987,
+        "word": "王楚钦将与张本智和争夺男单冠军",
+        "onboard_time": 1667093969,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293336,
+        "num": 293336,
+        "word": "王一博告别街舞5",
+        "onboard_time": 1667092411,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287865,
+        "num": 287865,
+        "word": "独行月球最终票房成绩",
+        "onboard_time": 1667091990,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256032,
+        "num": 256032,
+        "word": "卖力帮忙的小狗",
+        "onboard_time": 1667095351,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239194,
+        "num": 239194,
+        "word": "2名中国公民在韩踩踏事故中遇难",
+        "onboard_time": 1667096070,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198098,
+        "num": 198098,
+        "word": "尹锡悦下令详细调查首尔踩踏事故",
+        "onboard_time": 1667089948,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188848,
+        "num": 188848,
+        "word": "梅西世界波破门",
+        "onboard_time": 1667093849,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188505,
+        "num": 188505,
+        "word": "女子帮朋友婚礼出车在猪圈吃席",
+        "onboard_time": 1667054729,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185784,
+        "num": 185784,
+        "word": "黑鱼被遗忘洗手间存活11个月掉色",
+        "onboard_time": 1667049504,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 181406,
+        "word": "男孩卡住脖子姑姑调侃能上新闻",
+        "onboard_time": 1667070673,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732279,
+        "num": 180526,
+        "word": "一名中国公民在韩国踩踏事故中遇难",
+        "onboard_time": 1667090969,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 528413,
+        "num": 178388,
+        "word": "豆瓣",
+        "onboard_time": 1667093549,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172652,
+        "num": 172652,
+        "word": "赣州一店面爆炸致1死10余人受伤",
+        "onboard_time": 1667060550,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171735,
+        "num": 171735,
+        "word": "10月29日新增本土无症状1566例",
+        "onboard_time": 1667092831,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170500,
+        "num": 170500,
+        "word": "原来社死也可以复活",
+        "onboard_time": 1667090248,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159642,
+        "num": 159642,
+        "word": "怎么熬过分手的第一个晚上",
+        "onboard_time": 1667086641,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148512,
+        "num": 148512,
+        "word": "路人目睹摊贩脚踩模具压扁糖葫芦",
+        "onboard_time": 1667058866,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130074,
+        "num": 130074,
+        "word": "赣州",
+        "onboard_time": 1667055028,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129885,
+        "num": 129885,
+        "word": "姥姥带娃3年女儿分文不给",
+        "onboard_time": 1667056650,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117501,
+        "num": 117501,
+        "word": "Uzi刘青松解说S12",
+        "onboard_time": 1667091031,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114745,
+        "num": 114745,
+        "word": "女生因病休学2年独自旅行49个城市",
+        "onboard_time": 1667054127,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 110660,
+        "num": 110660,
+        "word": "小姨化妆后去接娃外甥没敢认",
+        "onboard_time": 1667052446,
+        "rank": 41,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 105720,
+        "num": 105720,
+        "word": "晚八点音乐会嘉宾阵容",
+        "onboard_time": 1667097810,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104140,
+        "num": 104140,
+        "word": "韩国购入刘亦菲金粉世家播出版权",
+        "onboard_time": 1667057134,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 102698,
+        "word": "刘也捡漏丁禹兮",
+        "onboard_time": 1667086521,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100540,
+        "num": 100540,
+        "word": "zyko这就是街舞5总冠军",
+        "onboard_time": 1667086401,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95949,
+        "num": 95949,
+        "word": "LPL实力差距",
+        "onboard_time": 1667098468,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89609,
+        "num": 89609,
+        "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+        "onboard_time": 1667067976,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88536,
+        "num": 88536,
+        "word": "刘雨昕队长登三国推特趋势",
+        "onboard_time": 1667089284,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88498,
+        "num": 88498,
+        "word": "这才是穿搭届课代表",
+        "onboard_time": 1667094690,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天圆梦#"
+    }
+  }
+}

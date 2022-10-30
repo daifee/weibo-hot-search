@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667096825785,
+  "endTime": 1667098933198,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -35,6 +35,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2534523,
+      "num": 2534523,
+      "word": "三名中国公民在韩国踩踏事故中遇难",
+      "onboard_time": 1667096847,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 2446899,
+      "num": 2446899,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2260768,
       "num": 2260768,
       "word": "梨泰院踩踏事故已致149人死亡",
@@ -59,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1681880,
-      "num": 1681880,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1670072,
+      "num": 389275,
+      "word": "韩总统宣布进入国家哀悼期",
+      "onboard_time": 1667096847,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1612839,
@@ -91,8 +107,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1154350,
-      "num": 1154350,
+      "raw_hot": 1161365,
+      "num": 1161365,
       "word": "Hope",
       "onboard_time": 1667088145,
       "rank": 5,
@@ -105,6 +121,14 @@
       "onboard_time": 1667059948,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 872049,
+      "num": 872049,
+      "word": "网上确认",
+      "onboard_time": 1667097028,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 859735,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 595300,
-      "num": 175710,
+      "num": 178388,
       "word": "豆瓣",
       "onboard_time": 1667093549,
       "rank": 30,
@@ -163,12 +187,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 581900,
+      "num": 581900,
+      "word": "S8后LPL首次无缘S赛决赛",
+      "onboard_time": 1667093070,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 581863,
       "num": 581863,
       "word": "武汉明确咽拭子采集至少擦拭6次",
       "onboard_time": 1667047223,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578148,
+      "num": 578148,
+      "word": "专四",
+      "onboard_time": 1667098651,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 554070,
@@ -291,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330257,
-      "num": 330257,
-      "word": "S8后LPL首次无缘S赛决赛",
-      "onboard_time": 1667093070,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 334425,
+      "num": 334425,
+      "word": "仙侠剧男主谁婚后出轨可能性最大",
+      "onboard_time": 1667098651,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 309758,
@@ -345,6 +385,14 @@
       "onboard_time": 1667079131,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256032,
+      "num": 256032,
+      "word": "卖力帮忙的小狗",
+      "onboard_time": 1667095351,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 252457,
@@ -467,14 +515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 157022,
-      "num": 157022,
-      "word": "卖力帮忙的小狗",
-      "onboard_time": 1667095351,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156562,
       "num": 156562,
       "word": "半决赛质量",
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105720,
+      "num": 105720,
+      "word": "晚八点音乐会嘉宾阵容",
+      "onboard_time": 1667097810,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103227,
       "num": 103227,
       "word": "马龙vs王楚钦",
@@ -617,6 +665,14 @@
       "onboard_time": 1667051607,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95949,
+      "num": 95949,
+      "word": "LPL实力差距",
+      "onboard_time": 1667098468,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 95364,
@@ -873,6 +929,9 @@
     },
     {
       "word": "#红旗渠精神永远震撼人心#"
+    },
+    {
+      "word": "#飞天圆梦#"
     }
   ]
 }

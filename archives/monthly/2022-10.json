@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667096825785,
+  "endTime": 1667098933198,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2534523,
+      "num": 2534523,
+      "word": "三名中国公民在韩国踩踏事故中遇难",
+      "onboard_time": 1667096847,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2529091,
       "num": 654884,
       "word": "新疆暂停全疆离疆客运列车",
@@ -417,6 +425,14 @@
       "onboard_time": 1665533124,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2446899,
+      "num": 2446899,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2431130,
@@ -1115,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1681880,
-      "num": 1681880,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1674261,
       "num": 1674261,
       "word": "阳性男子隐瞒行程给女儿办婚礼",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1667047223,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1670072,
+      "num": 389275,
+      "word": "韩总统宣布进入国家哀悼期",
+      "onboard_time": 1667096847,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1667232,
@@ -2539,20 +2555,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1161365,
+      "num": 1161365,
+      "word": "Hope",
+      "onboard_time": 1667088145,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1155685,
       "num": 159862,
       "word": "Yagao确诊",
       "onboard_time": 1666101204,
       "rank": 11,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 1154350,
-      "num": 1154350,
-      "word": "Hope",
-      "onboard_time": 1667088145,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 1150166,
@@ -4329,6 +4345,14 @@
       "onboard_time": 1665456803,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 872049,
+      "num": 872049,
+      "word": "网上确认",
+      "onboard_time": 1667097028,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 869375,
@@ -8052,7 +8076,7 @@
     },
     {
       "raw_hot": 595300,
-      "num": 175710,
+      "num": 178388,
       "word": "豆瓣",
       "onboard_time": 1667093549,
       "rank": 30,
@@ -8355,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581900,
+      "num": 581900,
+      "word": "S8后LPL首次无缘S赛决赛",
+      "onboard_time": 1667093070,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 581427,
       "num": 581427,
       "word": "海天味业股价大跌",
@@ -8433,6 +8465,14 @@
       "onboard_time": 1665107363,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 578148,
+      "num": 578148,
+      "word": "专四",
+      "onboard_time": 1667098651,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 577887,
@@ -17203,6 +17243,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 334425,
+      "num": 334425,
+      "word": "仙侠剧男主谁婚后出轨可能性最大",
+      "onboard_time": 1667098651,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334354,
       "num": 334354,
       "word": "刘恺威发博告别披荆斩棘",
@@ -17433,14 +17481,6 @@
       "onboard_time": 1665734785,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330257,
-      "num": 330257,
-      "word": "S8后LPL首次无缘S赛决赛",
-      "onboard_time": 1667093070,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 330230,
@@ -22073,6 +22113,14 @@
       "onboard_time": 1666011203,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256032,
+      "num": 256032,
+      "word": "卖力帮忙的小狗",
+      "onboard_time": 1667095351,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 255867,
@@ -31939,14 +31987,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 157022,
-      "num": 157022,
-      "word": "卖力帮忙的小狗",
-      "onboard_time": 1667095351,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156943,
       "num": 72944,
       "word": "崔秀彬kcon舞台ending",
@@ -38547,6 +38587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105720,
+      "num": 105720,
+      "word": "晚八点音乐会嘉宾阵容",
+      "onboard_time": 1667097810,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105691,
       "num": 105691,
       "word": "武契奇爆料美英1999年曾要求匈牙利进攻南联盟",
@@ -39937,6 +39985,14 @@
       "onboard_time": 1665135442,
       "rank": 42,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 95949,
+      "num": 95949,
+      "word": "LPL实力差距",
+      "onboard_time": 1667098468,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 95921,
@@ -49692,6 +49748,9 @@
     },
     {
       "word": "#赓续红色血脉传承奋斗精神#"
+    },
+    {
+      "word": "#飞天圆梦#"
     }
   ]
 }
