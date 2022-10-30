@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667168534651,
+  "endTime": 1667169581644,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -203,6 +203,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151218,
+      "num": 76615,
+      "word": "今冬浙江或有超强寒潮",
+      "onboard_time": 1667163730,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145226,
+      "num": 145226,
+      "word": "今冬或现三重拉尼娜事件",
+      "onboard_time": 1667130383,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144647,
       "num": 144647,
       "word": "只有中国航天才能取出这么绝的名字",
@@ -259,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117432,
-      "num": 117432,
-      "word": "今冬或现三重拉尼娜事件",
-      "onboard_time": 1667130383,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
@@ -299,12 +307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98480,
-      "num": 49017,
-      "word": "今冬浙江或有超强寒潮",
-      "onboard_time": 1667163730,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 98702,
+      "num": 76362,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 97047,
@@ -337,14 +345,6 @@
       "onboard_time": 1667121503,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84488,
-      "num": 48174,
-      "word": "两男子冒充被推特解雇员工接受采访",
-      "onboard_time": 1667162711,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 83656,
@@ -403,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57861,
+      "num": 57861,
+      "word": "马斯克或对推特裁员50%",
+      "onboard_time": 1667161210,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 55709,
       "num": 55709,
       "word": "王楚钦世界杯夺冠",
@@ -427,20 +435,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52975,
+      "num": 52975,
+      "word": "下周新一轮冷空气无缝衔接",
+      "onboard_time": 1667152335,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51728,
       "num": 51728,
       "word": "马嘉祺扔鼓槌",
       "onboard_time": 1667148800,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44563,
-      "num": 44563,
-      "word": "马斯克或对推特裁员50%",
-      "onboard_time": 1667161210,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 44488,
@@ -451,36 +459,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 36538,
-      "num": 36538,
-      "word": "下周新一轮冷空气无缝衔接",
-      "onboard_time": 1667152335,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27219,
-      "num": 27219,
+      "raw_hot": 42723,
+      "num": 42723,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22900,
-      "num": 22900,
-      "word": "小伙用竹子做无人机能飞50米",
-      "onboard_time": 1667161151,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22803,
-      "num": 22803,
+      "raw_hot": 34359,
+      "num": 34359,
       "word": "新发现挑战了万有引力定律",
       "onboard_time": 1667164870,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 29990,
+      "num": 29990,
+      "word": "小伙用竹子做无人机能飞50米",
+      "onboard_time": 1667161151,
+      "rank": 43,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
