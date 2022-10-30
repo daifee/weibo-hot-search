@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667086917050,
+  "endTime": 1667096825785,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -19,8 +19,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 4287668,
+      "num": 4287668,
+      "word": "梨泰院踩踏事故已致151人死亡",
+      "onboard_time": 1667092052,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 3983886,
-      "num": 503185,
+      "num": 597547,
       "word": "富士康",
       "onboard_time": 1666701023,
       "rank": 20,
@@ -65,6 +73,14 @@
       "onboard_time": 1666789703,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2643049,
+      "num": 2643049,
+      "word": "一名中国公民在韩国踩踏事故中遇难",
+      "onboard_time": 1667090969,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2623641,
@@ -208,6 +224,14 @@
       "word": "第一批鹤岗买房人已离开大半",
       "onboard_time": 1666880486,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1681880,
+      "num": 1681880,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -441,6 +465,22 @@
       "onboard_time": 1666749623,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171972,
+      "num": 1171972,
+      "word": "梨泰院踩踏事故中伤亡者多为年轻人",
+      "onboard_time": 1667088565,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1154350,
+      "num": 1154350,
+      "word": "Hope",
+      "onboard_time": 1667088145,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1150166,
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696693,
+      "num": 696693,
+      "word": "JDG止步S12四强",
+      "onboard_time": 1667090853,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 694522,
       "num": 694522,
       "word": "外媒称佩洛西丈夫遇袭时凶手在寻找佩洛西",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1667014464,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 638247,
+      "num": 638247,
+      "word": "林孝埈混合接力摔倒",
+      "onboard_time": 1667090672,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 637424,
@@ -1683,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595300,
+      "num": 175710,
+      "word": "豆瓣",
+      "onboard_time": 1667093549,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 594399,
       "num": 594399,
       "word": "南京金盛百货失火浓烟滚滚",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1666625427,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 591202,
+      "num": 591202,
+      "word": "Faker",
+      "onboard_time": 1667091990,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 590686,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1667042182,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 554070,
+      "num": 599922,
+      "word": "广东直达陕西班机走下短袖短裤小伙",
+      "onboard_time": 1667092169,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553592,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1666654701,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 508266,
+      "num": 508266,
+      "word": "2名中国公民在韩踩踏事故中遇难",
+      "onboard_time": 1667096070,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 505545,
@@ -3027,14 +3115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411475,
-      "num": 272213,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411446,
       "num": 411446,
       "word": "再见爱人2夫妻嘉宾",
@@ -3105,6 +3185,14 @@
       "onboard_time": 1666677865,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407932,
+      "num": 407932,
+      "word": "尹锡悦下令详细调查首尔踩踏事故",
+      "onboard_time": 1667089948,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 406869,
@@ -3209,6 +3297,14 @@
       "onboard_time": 1667049802,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398341,
+      "num": 398341,
+      "word": "文旅局局长扮白衣侠客被嘲丑出圈",
+      "onboard_time": 1667087242,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395162,
@@ -3483,6 +3579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373351,
+      "num": 373351,
+      "word": "独行月球最终票房成绩",
+      "onboard_time": 1667091990,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372503,
       "num": 85572,
       "word": "Steam在线人数突破3000万",
@@ -3641,6 +3745,14 @@
       "onboard_time": 1666931365,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364075,
+      "num": 364075,
+      "word": "王一博告别街舞5",
+      "onboard_time": 1667092411,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 363421,
@@ -4051,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330257,
+      "num": 330257,
+      "word": "S8后LPL首次无缘S赛决赛",
+      "onboard_time": 1667093070,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329887,
       "num": 329887,
       "word": "郁美净回应产品不合格",
@@ -4281,6 +4401,14 @@
       "onboard_time": 1666847307,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 309758,
+      "num": 309758,
+      "word": "王楚钦将与张本智和争夺男单冠军",
+      "onboard_time": 1667093969,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 308713,
@@ -6027,6 +6155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213496,
+      "num": 213496,
+      "word": "10月29日新增本土无症状1566例",
+      "onboard_time": 1667092831,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213369,
       "num": 251307,
       "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
@@ -6259,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203815,
+      "num": 203815,
+      "word": "原来社死也可以复活",
+      "onboard_time": 1667090248,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203663,
       "num": 12972,
       "word": "南京一市民在路边捡到北极狐",
@@ -6329,6 +6473,14 @@
       "onboard_time": 1666665263,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "梅西世界波破门",
+      "onboard_time": 1667093849,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 199142,
@@ -6627,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186072,
+      "num": 186072,
+      "word": "怎么熬过分手的第一个晚上",
+      "onboard_time": 1667086641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185254,
       "num": 185254,
       "word": "文俊辉女友视角氛围大片",
@@ -6891,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "LPL队伍全部止步S12",
+      "onboard_time": 1667091212,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174984,
       "num": 149221,
       "word": "Minnie清唱Change",
@@ -6985,6 +7153,14 @@
       "onboard_time": 1666595723,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170397,
+      "num": 170397,
+      "word": "Uzi刘青松解说S12",
+      "onboard_time": 1667091031,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 170303,
@@ -7345,6 +7521,14 @@
       "onboard_time": 1666777164,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157022,
+      "num": 157022,
+      "word": "卖力帮忙的小狗",
+      "onboard_time": 1667095351,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 156562,
@@ -7795,6 +7979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141314,
+      "num": 141314,
+      "word": "zyko这就是街舞5总冠军",
+      "onboard_time": 1667086401,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141163,
       "num": 82541,
       "word": "王凯说今晚见陈宇",
@@ -7931,6 +8123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137129,
+      "num": 137129,
+      "word": "这才是穿搭届课代表",
+      "onboard_time": 1667094690,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136652,
       "num": 57004,
       "word": "TF家族恭喜你发现了宝藏最终篇",
@@ -7995,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134148,
+      "num": 134148,
+      "word": "刘雨昕队长登三国推特趋势",
+      "onboard_time": 1667089284,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133645,
       "num": 133645,
       "word": "这就是猫猫祟祟吧",
@@ -8041,6 +8249,22 @@
       "onboard_time": 1666844485,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132290,
+      "num": 132290,
+      "word": "刘也捡漏丁禹兮",
+      "onboard_time": 1667086521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132067,
+      "num": 132067,
+      "word": "不穿秋裤和关节炎没有直接关系",
+      "onboard_time": 1667096189,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132058,
@@ -8523,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118598,
+      "num": 118598,
+      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+      "onboard_time": 1667067976,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -8641,14 +8873,6 @@
       "onboard_time": 1667001381,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113614,
-      "num": 113614,
-      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
-      "onboard_time": 1667067976,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112915,
@@ -9595,12 +9819,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 91080,
+      "num": 91080,
+      "word": "JDG双C",
+      "onboard_time": 1667090186,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
       "onboard_time": 1666765045,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 90682,
+      "num": 90682,
+      "word": "金州勇士不敌黄蜂",
+      "onboard_time": 1667096249,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90221,
@@ -9763,14 +10003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86203,
-      "num": 86203,
-      "word": "zyko这就是街舞5总冠军",
-      "onboard_time": 1667086401,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86075,
       "num": 86075,
       "word": "这里宇航员浓度超过空间站了",
@@ -9809,6 +10041,14 @@
       "onboard_time": 1666792467,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 84618,
+      "num": 84618,
+      "word": "T1晋级S12决赛",
+      "onboard_time": 1667090553,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 84432,
@@ -10057,14 +10297,6 @@
       "onboard_time": 1666965806,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 80645,
-      "num": 80645,
-      "word": "刘也捡漏丁禹兮",
-      "onboard_time": 1667086521,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 80637,
@@ -10824,14 +11056,6 @@
       "word": "大学生是懂秀场的",
       "onboard_time": 1666883244,
       "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 60051,
-      "num": 60051,
-      "word": "怎么熬过分手的第一个晚上",
-      "onboard_time": 1667086641,
-      "rank": 42,
       "category": "情感"
     },
     {

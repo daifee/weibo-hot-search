@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667086917050,
+  "endTime": 1667096825785,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -75,6 +75,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 4287668,
+      "num": 4287668,
+      "word": "梨泰院踩踏事故已致151人死亡",
+      "onboard_time": 1667092052,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4087916,
       "num": 150542,
       "word": "英国首相特拉斯即将辞职",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 3983886,
-      "num": 503185,
+      "num": 597547,
       "word": "富士康",
       "onboard_time": 1666701023,
       "rank": 20,
@@ -321,6 +329,14 @@
       "onboard_time": 1666009161,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2643049,
+      "num": 2643049,
+      "word": "一名中国公民在韩国踩踏事故中遇难",
+      "onboard_time": 1667090969,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2623641,
@@ -1096,6 +1112,14 @@
       "word": "1条没回的信息救了8旬母亲一命",
       "onboard_time": 1666255825,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1681880,
+      "num": 1681880,
+      "word": "河南多地致信本地在郑州富士康工作人员",
+      "onboard_time": 1667085920,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2483,6 +2507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1171972,
+      "num": 1171972,
+      "word": "梨泰院踩踏事故中伤亡者多为年轻人",
+      "onboard_time": 1667088565,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1171697,
       "num": 1171697,
       "word": "摩托车女骑手弯道对撞疑身亡",
@@ -2513,6 +2545,14 @@
       "onboard_time": 1666101204,
       "rank": 11,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1154350,
+      "num": 1154350,
+      "word": "Hope",
+      "onboard_time": 1667088145,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1150166,
@@ -6347,6 +6387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 696693,
+      "num": 696693,
+      "word": "JDG止步S12四强",
+      "onboard_time": 1667090853,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 696681,
       "num": 696681,
       "word": "萧无敌消失了",
@@ -7283,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638247,
+      "num": 638247,
+      "word": "林孝埈混合接力摔倒",
+      "onboard_time": 1667090672,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637753,
       "num": 637753,
       "word": "A股",
@@ -7995,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595300,
+      "num": 175710,
+      "word": "豆瓣",
+      "onboard_time": 1667093549,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 594399,
       "num": 594399,
       "word": "南京金盛百货失火浓烟滚滚",
@@ -8064,6 +8128,14 @@
       "word": "第一个游走位FMVP",
       "onboard_time": 1665068905,
       "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 591202,
+      "num": 591202,
+      "word": "Faker",
+      "onboard_time": 1667091990,
+      "rank": 11,
       "category": "游戏"
     },
     {
@@ -8849,6 +8921,14 @@
       "onboard_time": 1664900005,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 554070,
+      "num": 599922,
+      "word": "广东直达陕西班机走下短袖短裤小伙",
+      "onboard_time": 1667092169,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553592,
@@ -10089,6 +10169,14 @@
       "onboard_time": 1665584906,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 508266,
+      "num": 508266,
+      "word": "2名中国公民在韩踩踏事故中遇难",
+      "onboard_time": 1667096070,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 508099,
@@ -13499,14 +13587,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 411475,
-      "num": 272213,
-      "word": "河南多地致信本地在郑州富士康工作人员",
-      "onboard_time": 1667085920,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411446,
       "num": 411446,
       "word": "再见爱人2夫妻嘉宾",
@@ -13649,6 +13729,14 @@
       "onboard_time": 1666677865,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407932,
+      "num": 407932,
+      "word": "尹锡悦下令详细调查首尔踩踏事故",
+      "onboard_time": 1667089948,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 407364,
@@ -14113,6 +14201,14 @@
       "onboard_time": 1665982284,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 398341,
+      "num": 398341,
+      "word": "文旅局局长扮白衣侠客被嘲丑出圈",
+      "onboard_time": 1667087242,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397547,
@@ -15259,6 +15355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373351,
+      "num": 373351,
+      "word": "独行月球最终票房成绩",
+      "onboard_time": 1667091990,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373282,
       "num": 331690,
       "word": "张彬彬说都别惦记我的化石了",
@@ -15696,6 +15800,14 @@
       "word": "魏大勋父子全国通用跪式压箱法",
       "onboard_time": 1665119003,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364075,
+      "num": 364075,
+      "word": "王一博告别街舞5",
+      "onboard_time": 1667092411,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -17323,6 +17435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330257,
+      "num": 330257,
+      "word": "S8后LPL首次无缘S赛决赛",
+      "onboard_time": 1667093070,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330230,
       "num": 80640,
       "word": "明日方舟",
@@ -18369,6 +18489,14 @@
       "onboard_time": 1666138345,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 309758,
+      "num": 309758,
+      "word": "王楚钦将与张本智和争夺男单冠军",
+      "onboard_time": 1667093969,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 309485,
@@ -25899,6 +26027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213496,
+      "num": 213496,
+      "word": "10月29日新增本土无症状1566例",
+      "onboard_time": 1667092831,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213369,
       "num": 251307,
       "word": "23岁消防员在湖南新田森林火灾扑救中牺牲",
@@ -26795,6 +26931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203815,
+      "num": 203815,
+      "word": "原来社死也可以复活",
+      "onboard_time": 1667090248,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203744,
       "num": 136676,
       "word": "日本三菱电机因数据造假处罚22名高管",
@@ -27208,6 +27352,14 @@
       "word": "林高远锁定WTT总决赛资格",
       "onboard_time": 1666247545,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "梅西世界波破门",
+      "onboard_time": 1667093849,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -28707,6 +28859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186072,
+      "num": 186072,
+      "word": "怎么熬过分手的第一个晚上",
+      "onboard_time": 1667086641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186047,
       "num": 186047,
       "word": "努力有可能超越天赋吗",
@@ -29683,6 +29843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "LPL队伍全部止步S12",
+      "onboard_time": 1667091212,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176158,
       "num": 155742,
       "word": "67岁大爷一个猛子救出溺水者",
@@ -30225,6 +30393,14 @@
       "onboard_time": 1664936182,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 170397,
+      "num": 170397,
+      "word": "Uzi刘青松解说S12",
+      "onboard_time": 1667091031,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 170385,
@@ -31761,6 +31937,14 @@
       "onboard_time": 1666181062,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157022,
+      "num": 157022,
+      "word": "卖力帮忙的小狗",
+      "onboard_time": 1667095351,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 156943,
@@ -33683,6 +33867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141314,
+      "num": 141314,
+      "word": "zyko这就是街舞5总冠军",
+      "onboard_time": 1667086401,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141169,
       "num": 141169,
       "word": "我的秘密室友定档",
@@ -34227,6 +34419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137129,
+      "num": 137129,
+      "word": "这才是穿搭届课代表",
+      "onboard_time": 1667094690,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137117,
       "num": 16741,
       "word": "GEN晋级八强",
@@ -34595,6 +34795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134148,
+      "num": 134148,
+      "word": "刘雨昕队长登三国推特趋势",
+      "onboard_time": 1667089284,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134108,
       "num": 134108,
       "word": "狗狗好像不喜欢过生日",
@@ -34803,6 +35011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132290,
+      "num": 132290,
+      "word": "刘也捡漏丁禹兮",
+      "onboard_time": 1667086521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132232,
       "num": 132232,
       "word": "狗子肉摊前连续作揖讨肉吃",
@@ -34825,6 +35041,14 @@
       "onboard_time": 1664689103,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 132067,
+      "num": 132067,
+      "word": "不穿秋裤和关节炎没有直接关系",
+      "onboard_time": 1667096189,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132058,
@@ -36579,6 +36803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118598,
+      "num": 118598,
+      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
+      "onboard_time": 1667067976,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118459,
       "num": 118459,
       "word": "有没有人管管海鸟啊",
@@ -37153,14 +37385,6 @@
       "onboard_time": 1665704722,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113614,
-      "num": 113614,
-      "word": "海龟被捕上船吃着鳗鱼做背部清洁",
-      "onboard_time": 1667067976,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113526,
@@ -40347,6 +40571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91080,
+      "num": 91080,
+      "word": "JDG双C",
+      "onboard_time": 1667090186,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91004,
       "num": 91004,
       "word": "为劝阻朋友酒驾俩男子当街扭打",
@@ -40377,6 +40609,14 @@
       "onboard_time": 1664947940,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90682,
+      "num": 90682,
+      "word": "金州勇士不敌黄蜂",
+      "onboard_time": 1667096249,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90603,
@@ -41027,14 +41267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86203,
-      "num": 86203,
-      "word": "zyko这就是街舞5总冠军",
-      "onboard_time": 1667086401,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86075,
       "num": 86075,
       "word": "这里宇航员浓度超过空间站了",
@@ -41281,6 +41513,14 @@
       "onboard_time": 1665726803,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84618,
+      "num": 84618,
+      "word": "T1晋级S12决赛",
+      "onboard_time": 1667090553,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 84580,
@@ -41873,14 +42113,6 @@
       "onboard_time": 1666965806,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 80645,
-      "num": 80645,
-      "word": "刘也捡漏丁禹兮",
-      "onboard_time": 1667086521,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 80637,
@@ -44553,14 +44785,6 @@
       "onboard_time": 1664581280,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60051,
-      "num": 60051,
-      "word": "怎么熬过分手的第一个晚上",
-      "onboard_time": 1667086641,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 59687,

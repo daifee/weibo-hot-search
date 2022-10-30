@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 07:41:57
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 10:27:05
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@ DRX战胜EDG（热度：5194566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%94%BF%E5%9F%BA%E5%8E%BB%E4%B8%96%23" target="weibo">
 金政基去世（热度：5104220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4151%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+梨泰院踩踏事故已致151人死亡（热度：4287668）
 </a>
 </li>
 
@@ -251,6 +257,12 @@ EDG对战DRX（热度：2849044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8E%BF%E7%BA%A7%E5%B8%82%E8%A2%AB%E7%A1%AE%E5%AE%9A%E4%B8%BA%E5%A4%A7%E5%9F%8E%E5%B8%82%23" target="weibo">
 4个县级市被确定为大城市（热度：2646321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
+一名中国公民在韩国踩踏事故中遇难（热度：2643049）
 </a>
 </li>
 
@@ -833,6 +845,12 @@ RNG（热度：1856164）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E6%9D%A1%E6%B2%A1%E5%9B%9E%E7%9A%84%E4%BF%A1%E6%81%AF%E6%95%91%E4%BA%868%E6%97%AC%E6%AF%8D%E4%BA%B2%E4%B8%80%E5%91%BD%23" target="weibo">
 1条没回的信息救了8旬母亲一命（热度：1684353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E8%87%B4%E4%BF%A1%E6%9C%AC%E5%9C%B0%E5%9C%A8%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%23" target="weibo">
+河南多地致信本地在郑州富士康工作人员（热度：1681880）
 </a>
 </li>
 
@@ -1875,6 +1893,12 @@ JackeyLove哭了（热度：1186746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E4%B8%AD%E4%BC%A4%E4%BA%A1%E8%80%85%E5%A4%9A%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
+梨泰院踩踏事故中伤亡者多为年轻人（热度：1171972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E5%A5%B3%E9%AA%91%E6%89%8B%E5%BC%AF%E9%81%93%E5%AF%B9%E6%92%9E%E7%96%91%E8%BA%AB%E4%BA%A1%23" target="weibo">
 摩托车女骑手弯道对撞疑身亡（热度：1171697）
 </a>
@@ -1895,6 +1919,12 @@ DRX战胜TES（热度：1162865）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Yagao%E7%A1%AE%E8%AF%8A%23" target="weibo">
 Yagao确诊（热度：1155685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Hope%23" target="weibo">
+Hope（热度：1154350）
 </a>
 </li>
 
@@ -4773,6 +4803,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E6%AD%A2%E6%AD%A5S12%E5%9B%9B%E5%BC%BA%23" target="weibo">
+JDG止步S12四强（热度：696693）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%97%A0%E6%95%8C%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 萧无敌消失了（热度：696681）
 </a>
@@ -5475,6 +5511,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%B7%B7%E5%90%88%E6%8E%A5%E5%8A%9B%E6%91%94%E5%80%92%23" target="weibo">
+林孝埈混合接力摔倒（热度：638247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：637753）
 </a>
@@ -5969,48 +6011,6 @@ LPL小组赛第二日全胜（热度：599733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%23" target="weibo">
 关于十九届中央委员会报告的决议通过（热度：598546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E4%B8%88%E5%A4%AB%E9%99%AA%E7%9D%80%E5%89%83%E5%85%89%E5%A4%B4%23" target="weibo">
-妻子做开颅手术丈夫陪着剃光头（热度：598339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E5%AE%BF%E8%88%8D%E5%A4%9A%E5%A4%A9%E5%A5%B3%E7%94%9F%E7%94%A8%E7%91%9C%E4%BC%BD%E5%9E%AB%E5%81%9A%E9%BA%BB%E5%B0%86%23" target="weibo">
-封宿舍多天女生用瑜伽垫做麻将（热度：598254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A6%88%E5%A6%88%E6%B5%81%E5%88%A9%E8%83%8C%E5%87%BA%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0%E9%9C%87%E6%83%8A%E5%84%BF%E5%AD%90%23" target="weibo">
-90后妈妈流利背出桃花源记震惊儿子（热度：597722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%BD%AD%E5%86%A0%E8%8B%B1%E6%96%B0%E5%89%A7%E5%8F%88%E8%96%85%E5%A4%B4%E5%8F%91%23" target="weibo">
-蔡文静彭冠英新剧又薅头发（热度：597322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%B5%B7%E8%BE%B9%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23" target="weibo">
-赵露思陈哲远偷偷藏不住海边吻戏路透（热度：596188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%8F%82%E4%B8%8E%E8%B5%B7%E8%8D%89%E9%85%B1%E6%B2%B9%E8%A1%8C%E4%B8%9A%E7%8E%B0%E8%A1%8C%E6%A0%87%E5%87%86%23" target="weibo">
-海天味业参与起草酱油行业现行标准（热度：595349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%87%91%E7%9B%9B%E7%99%BE%E8%B4%A7%E5%A4%B1%E7%81%AB%E6%B5%93%E7%83%9F%E6%BB%9A%E6%BB%9A%23" target="weibo">
-南京金盛百货失火浓烟滚滚（热度：594399）
 </a>
 </li>
 
