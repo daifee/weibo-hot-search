@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667169581644,
+  "endTime": 1667172337156,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121541,
+      "num": 1121541,
+      "word": "郑州富士康党委书记苏东霞回应发文",
+      "onboard_time": 1667139394,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894017,
       "num": 666856,
       "word": "韩国踩踏事故已致154人遇难",
       "onboard_time": 1667141731,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 787982,
-      "num": 787982,
-      "word": "郑州富士康党委书记苏东霞回应发文",
-      "onboard_time": 1667139394,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685593,
@@ -49,6 +49,14 @@
       "onboard_time": 1667136806,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 626588,
+      "num": 393222,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 562731,
@@ -75,12 +83,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400835,
-      "num": 309389,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 12,
-      "category": "社会负面"
+      "raw_hot": 412117,
+      "num": 412117,
+      "word": "富士康最新声明",
+      "onboard_time": 1667133507,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383759,
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340753,
+      "num": 340753,
+      "word": "今冬或现三重拉尼娜事件",
+      "onboard_time": 1667130383,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334288,
       "num": 334288,
       "word": "感觉我分手最累的是我朋友",
@@ -112,6 +128,14 @@
       "word": "遭投毒百草枯女孩换肺后身体好转",
       "onboard_time": 1667136628,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255372,
+      "num": 255372,
+      "word": "女子煲汤忘关火排骨炖成灰",
+      "onboard_time": 1667134107,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -139,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223165,
-      "num": 223165,
-      "word": "女子煲汤忘关火排骨炖成灰",
-      "onboard_time": 1667134107,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 223085,
+      "num": 223085,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 219832,
@@ -171,6 +195,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 177723,
+      "num": 177723,
+      "word": "想保护森林要多吃鹿肉汉堡",
+      "onboard_time": 1667145925,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 163973,
       "num": 163973,
       "word": "胡明轩 状态",
@@ -179,20 +211,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162173,
-      "num": 162173,
-      "word": "富士康最新声明",
-      "onboard_time": 1667133507,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 160582,
+      "num": 160582,
+      "word": "GEN对战DRX",
+      "onboard_time": 1667171899,
+      "rank": 14,
+      "category": "游戏"
     },
     {
-      "raw_hot": 154862,
+      "raw_hot": 159070,
       "num": 121414,
       "word": "梨泰院派出所回应事故是否与毒品有关",
       "onboard_time": 1667118387,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 155391,
+      "num": 155391,
+      "word": "马斯克或对推特裁员50%",
+      "onboard_time": 1667161210,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 152929,
@@ -204,23 +244,15 @@
     },
     {
       "raw_hot": 151218,
-      "num": 76615,
+      "num": 141323,
       "word": "今冬浙江或有超强寒潮",
       "onboard_time": 1667163730,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145226,
-      "num": 145226,
-      "word": "今冬或现三重拉尼娜事件",
-      "onboard_time": 1667130383,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144647,
-      "num": 144647,
+      "raw_hot": 148532,
+      "num": 148532,
       "word": "只有中国航天才能取出这么绝的名字",
       "onboard_time": 1667144848,
       "rank": 24,
@@ -243,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139736,
+      "num": 139736,
+      "word": "孙女出嫁88岁奶奶偷偷抹泪",
+      "onboard_time": 1667170276,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138859,
       "num": 138859,
       "word": "4AM晋级世界赛",
@@ -257,6 +297,14 @@
       "onboard_time": 1667141191,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125231,
+      "num": 125231,
+      "word": "10月最后一天",
+      "onboard_time": 1667172260,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122393,
@@ -275,12 +323,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116987,
+      "num": 116987,
+      "word": "富士康员工发声",
+      "onboard_time": 1667171840,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107461,
+      "num": 107461,
+      "word": "遛狗没拴绳撞车狗主人负全责",
+      "onboard_time": 1667159170,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105056,
@@ -307,28 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98702,
-      "num": 76362,
-      "word": "两男子冒充被推特解雇员工接受采访",
-      "onboard_time": 1667162711,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
       "onboard_time": 1667141552,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95700,
-      "num": 95700,
-      "word": "想保护森林要多吃鹿肉汉堡",
-      "onboard_time": 1667145925,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 91777,
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86989,
+      "num": 86989,
+      "word": "下周新一轮冷空气无缝衔接",
+      "onboard_time": 1667152335,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
@@ -360,6 +416,30 @@
       "word": "富士康",
       "onboard_time": 1667052623,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71691,
+      "num": 71691,
+      "word": "重病女孩含泪劝父亲不要借钱手术",
+      "onboard_time": 1667171238,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71682,
+      "num": 71682,
+      "word": "酣睡橘猫与落叶融为一体",
+      "onboard_time": 1667171177,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71629,
+      "num": 71629,
+      "word": "小伙用竹子做无人机能飞50米",
+      "onboard_time": 1667161151,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -387,6 +467,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 61880,
+      "num": 61880,
+      "word": "新发现挑战了万有引力定律",
+      "onboard_time": 1667164870,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 59865,
       "num": 59865,
       "word": "张彬彬蓝色衬衫造型",
@@ -401,14 +489,6 @@
       "onboard_time": 1667135067,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 57861,
-      "num": 57861,
-      "word": "马斯克或对推特裁员50%",
-      "onboard_time": 1667161210,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 55709,
@@ -435,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52975,
-      "num": 52975,
-      "word": "下周新一轮冷空气无缝衔接",
-      "onboard_time": 1667152335,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51728,
       "num": 51728,
       "word": "马嘉祺扔鼓槌",
@@ -451,36 +523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44806,
+      "num": 44806,
+      "word": "王一博李默明晚见",
+      "onboard_time": 1667127925,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 44488,
       "num": 676037,
       "word": "飞天圆梦",
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 42723,
-      "num": 42723,
-      "word": "遛狗没拴绳撞车狗主人负全责",
-      "onboard_time": 1667159170,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34359,
-      "num": 34359,
-      "word": "新发现挑战了万有引力定律",
-      "onboard_time": 1667164870,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 29990,
-      "num": 29990,
-      "word": "小伙用竹子做无人机能飞50米",
-      "onboard_time": 1667161151,
-      "rank": 43,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
