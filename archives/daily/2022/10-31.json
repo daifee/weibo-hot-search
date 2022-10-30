@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667165850384,
+  "endTime": 1667168534651,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -299,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98480,
+      "num": 49017,
+      "word": "今冬浙江或有超强寒潮",
+      "onboard_time": 1667163730,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
@@ -329,6 +337,14 @@
       "onboard_time": 1667121503,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84488,
+      "num": 48174,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 83656,
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44563,
+      "num": 44563,
+      "word": "马斯克或对推特裁员50%",
+      "onboard_time": 1667161210,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 44488,
       "num": 676037,
       "word": "飞天圆梦",
@@ -435,48 +459,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30616,
-      "num": 30616,
-      "word": "马斯克或对推特裁员50%",
-      "onboard_time": 1667161210,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 30048,
-      "num": 15337,
-      "word": "两男子冒充被推特解雇员工接受采访",
-      "onboard_time": 1667162711,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 21323,
-      "num": 21323,
+      "raw_hot": 27219,
+      "num": 27219,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19518,
-      "num": 19518,
-      "word": "今冬浙江或有超强寒潮",
-      "onboard_time": 1667163730,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16571,
-      "num": 16571,
+      "raw_hot": 22900,
+      "num": 22900,
       "word": "小伙用竹子做无人机能飞50米",
       "onboard_time": 1667161151,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10902,
-      "num": 10902,
+      "raw_hot": 22803,
+      "num": 22803,
       "word": "新发现挑战了万有引力定律",
       "onboard_time": 1667164870,
       "rank": 43,
