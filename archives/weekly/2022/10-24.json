@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667125472118,
+  "endTime": 1667126478457,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -235,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1977607,
+      "num": 1977607,
+      "word": "富士康称绝对尊重员工个人意愿",
+      "onboard_time": 1667121446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1975821,
       "num": 652529,
       "word": "韩总统宣布进入国家哀悼期",
@@ -248,14 +256,6 @@
       "word": "开封巨响",
       "onboard_time": 1666695384,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1944741,
-      "num": 1944741,
-      "word": "富士康称绝对尊重员工个人意愿",
-      "onboard_time": 1667121446,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -403,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1351832,
+      "num": 341285,
+      "word": "富士康厂区未发生重症感染现象",
+      "onboard_time": 1667123845,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1345960,
       "num": 1345960,
       "word": "樊振东2比3奥恰洛夫",
       "onboard_time": 1666948226,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1340974,
-      "num": 341285,
-      "word": "富士康厂区未发生重症感染现象",
-      "onboard_time": 1667123845,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1337817,
@@ -1091,11 +1091,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825202,
+      "num": 329192,
+      "word": "网传夏之光出演死亡万花筒",
+      "onboard_time": 1667122764,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 814818,
       "num": 814818,
       "word": "5岁男孩看店1小时卖100多元香肠",
       "onboard_time": 1666928125,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813132,
+      "num": 813132,
+      "word": "她用一条左臂救回一个孩子",
+      "onboard_time": 1667121503,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1187,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 780033,
-      "num": 329192,
-      "word": "网传夏之光出演死亡万花筒",
-      "onboard_time": 1667122764,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 779249,
       "num": 397094,
       "word": "张艺兴禁止已读不回",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1666875684,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 745263,
-      "num": 745263,
-      "word": "她用一条左臂救回一个孩子",
-      "onboard_time": 1667121503,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 744994,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1667057372,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652121,
+      "num": 323278,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 650886,
@@ -2611,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491451,
-      "num": 323278,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 487993,
       "num": 487993,
       "word": "林徽因大概会爱上这座院子",
@@ -3353,6 +3353,14 @@
       "onboard_time": 1666683923,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414451,
+      "num": 414451,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 413860,
@@ -4163,14 +4171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 351677,
-      "num": 351677,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1667122706,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 351248,
       "num": 63355,
       "word": "吃早八的苦享晚八的福",
@@ -4745,6 +4745,14 @@
       "onboard_time": 1666592062,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306557,
+      "num": 230358,
+      "word": "为什么事故会发生在韩国梨泰院",
+      "onboard_time": 1667122946,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 306357,
@@ -5665,14 +5673,6 @@
       "onboard_time": 1666758989,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248823,
-      "num": 211273,
-      "word": "为什么事故会发生在韩国梨泰院",
-      "onboard_time": 1667122946,
-      "rank": 18,
-      "category": "社会负面"
     },
     {
       "raw_hot": 248745,
@@ -7283,6 +7283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182332,
+      "num": 182332,
+      "word": "母亲深夜背娃卖气球男子全部买走",
+      "onboard_time": 1667124084,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "国防部称台独是绝路统一是正途",
@@ -7739,12 +7747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166764,
+      "num": 68859,
+      "word": "芳心荡漾张帆怀孕了",
+      "onboard_time": 1667126426,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166748,
       "num": 12758,
       "word": "女老师逛街顺便辅导店家孩子功课",
       "onboard_time": 1666535604,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166569,
+      "num": 147894,
+      "word": "韩国踩踏事故亲历者称当时整个人都离地",
+      "onboard_time": 1667124868,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 166211,
@@ -8339,6 +8363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144702,
+      "num": 144702,
+      "word": "河南抗疫互助通道",
+      "onboard_time": 1667125105,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144677,
       "num": 58421,
       "word": "把子肉才是下饭届的扛把子",
@@ -8353,14 +8385,6 @@
       "onboard_time": 1666794867,
       "rank": 46,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 144297,
-      "num": 144297,
-      "word": "母亲深夜背娃卖气球男子全部买走",
-      "onboard_time": 1667124084,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144272,
@@ -8833,14 +8857,6 @@
       "onboard_time": 1666674026,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131608,
-      "num": 104097,
-      "word": "韩国踩踏事故亲历者称当时整个人都离地",
-      "onboard_time": 1667124868,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 131560,
@@ -9907,14 +9923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104178,
-      "num": 104178,
-      "word": "河南抗疫互助通道",
-      "onboard_time": 1667125105,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104177,
       "num": 104177,
       "word": "国产机器人到底有多牛",
@@ -10211,6 +10219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98454,
+      "num": 98454,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1667126126,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97843,
       "num": 175925,
       "word": "20岁小伙欲轻生网友报警救下1命",
@@ -10283,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95698,
+      "num": 95698,
+      "word": "这醒酒方式挺特别的",
+      "onboard_time": 1667124746,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95665,
       "num": 95665,
       "word": "王源灿烂灿烂花絮照",
@@ -10297,6 +10321,14 @@
       "onboard_time": 1666949482,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95109,
+      "num": 95109,
+      "word": "女生自制服饰还原七仙女经典动作",
+      "onboard_time": 1667123905,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94651,
@@ -10329,14 +10361,6 @@
       "onboard_time": 1666889658,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94355,
-      "num": 94355,
-      "word": "女生自制服饰还原七仙女经典动作",
-      "onboard_time": 1667123905,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94277,
@@ -10643,6 +10667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87584,
+      "num": 1584961,
+      "word": "飞天圆梦",
+      "onboard_time": 1666879165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 87485,
       "num": 65983,
       "word": "苹果推送iOS16.1",
@@ -10705,14 +10737,6 @@
       "onboard_time": 1667109208,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85915,
-      "num": 85915,
-      "word": "这醒酒方式挺特别的",
-      "onboard_time": 1667124746,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85421,
@@ -11057,6 +11081,14 @@
       "onboard_time": 1666532846,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79965,
+      "num": 79965,
+      "word": "厦门六中合唱团把落花游鱼唱出了画面",
+      "onboard_time": 1667126244,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79803,
@@ -11977,14 +12009,6 @@
       "onboard_time": 1666739237,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55216,
-      "num": 1584961,
-      "word": "飞天圆梦",
-      "onboard_time": 1666879165,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 54972,

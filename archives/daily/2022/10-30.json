@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667125472118,
+  "endTime": 1667126478457,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1977607,
+      "num": 1977607,
+      "word": "富士康称绝对尊重员工个人意愿",
+      "onboard_time": 1667121446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1975821,
       "num": 652529,
       "word": "韩总统宣布进入国家哀悼期",
       "onboard_time": 1667096847,
       "rank": 12,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1944741,
-      "num": 1944741,
-      "word": "富士康称绝对尊重员工个人意愿",
-      "onboard_time": 1667121446,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1910135,
@@ -147,7 +147,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1340974,
+      "raw_hot": 1351832,
       "num": 341285,
       "word": "富士康厂区未发生重症感染现象",
       "onboard_time": 1667123845,
@@ -227,6 +227,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 825202,
+      "num": 329192,
+      "word": "网传夏之光出演死亡万花筒",
+      "onboard_time": 1667122764,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 813132,
+      "num": 813132,
+      "word": "她用一条左臂救回一个孩子",
+      "onboard_time": 1667121503,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805350,
       "num": 117207,
       "word": "梨泰院派出所回应事故是否与毒品有关",
@@ -241,22 +257,6 @@
       "onboard_time": 1667107466,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 780033,
-      "num": 329192,
-      "word": "网传夏之光出演死亡万花筒",
-      "onboard_time": 1667122764,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 745263,
-      "num": 745263,
-      "word": "她用一条左臂救回一个孩子",
-      "onboard_time": 1667121503,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 706701,
@@ -281,6 +281,14 @@
       "onboard_time": 1667057372,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652121,
+      "num": 323278,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 638247,
@@ -435,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491451,
-      "num": 323278,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
@@ -497,6 +497,14 @@
       "onboard_time": 1667112986,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414451,
+      "num": 414451,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 407932,
@@ -587,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351677,
-      "num": 351677,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1667122706,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 340426,
       "num": 340426,
       "word": "蔡文静彭冠英车咚吻害羞到出画",
@@ -617,6 +617,14 @@
       "onboard_time": 1667093969,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306557,
+      "num": 230358,
+      "word": "为什么事故会发生在韩国梨泰院",
+      "onboard_time": 1667122946,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 304269,
@@ -697,14 +705,6 @@
       "onboard_time": 1667052446,
       "rank": 19,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 248823,
-      "num": 211273,
-      "word": "为什么事故会发生在韩国梨泰院",
-      "onboard_time": 1667122946,
-      "rank": 18,
-      "category": "社会负面"
     },
     {
       "raw_hot": 245437,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182332,
+      "num": 182332,
+      "word": "母亲深夜背娃卖气球男子全部买走",
+      "onboard_time": 1667124084,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178327,
       "num": 178327,
       "word": "欧文杜兰特合砍61分",
@@ -929,6 +937,30 @@
       "onboard_time": 1667117547,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166764,
+      "num": 68859,
+      "word": "芳心荡漾张帆怀孕了",
+      "onboard_time": 1667126426,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166569,
+      "num": 147894,
+      "word": "韩国踩踏事故亲历者称当时整个人都离地",
+      "onboard_time": 1667124868,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 165163,
+      "num": 165163,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1667122764,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 164673,
@@ -979,11 +1011,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144297,
-      "num": 144297,
-      "word": "母亲深夜背娃卖气球男子全部买走",
-      "onboard_time": 1667124084,
-      "rank": 26,
+      "raw_hot": 144702,
+      "num": 144702,
+      "word": "河南抗疫互助通道",
+      "onboard_time": 1667125105,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1017,14 +1049,6 @@
       "onboard_time": 1667111726,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 138664,
-      "num": 138664,
-      "word": "新乡WTT世界杯决赛2022",
-      "onboard_time": 1667122764,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 138386,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1667096189,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131608,
-      "num": 104097,
-      "word": "韩国踩踏事故亲历者称当时整个人都离地",
-      "onboard_time": 1667124868,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 131169,
@@ -1227,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104178,
-      "num": 104178,
-      "word": "河南抗疫互助通道",
-      "onboard_time": 1667125105,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103227,
       "num": 103227,
       "word": "马龙vs王楚钦",
@@ -1267,6 +1275,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 98454,
+      "num": 98454,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1667126126,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97510,
       "num": 97510,
       "word": "沉香是懂拒绝的",
@@ -1291,6 +1307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95698,
+      "num": 95698,
+      "word": "这醒酒方式挺特别的",
+      "onboard_time": 1667124746,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95364,
       "num": 95364,
       "word": "俄称英国皇家海军官员参与了北溪事件",
@@ -1299,8 +1323,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 94355,
-      "num": 94355,
+      "raw_hot": 95109,
+      "num": 95109,
       "word": "女生自制服饰还原七仙女经典动作",
       "onboard_time": 1667123905,
       "rank": 37,
@@ -1347,6 +1371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 87584,
+      "num": 1584961,
+      "word": "飞天圆梦",
+      "onboard_time": 1667124987,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 87287,
       "num": 87287,
       "word": "四菜一汤68元上门做菜女子开直播",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1667109208,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85915,
-      "num": 85915,
-      "word": "这醒酒方式挺特别的",
-      "onboard_time": 1667124746,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85641,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1667108066,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79965,
+      "num": 79965,
+      "word": "厦门六中合唱团把落花游鱼唱出了画面",
+      "onboard_time": 1667126244,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78134,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1667048244,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 55216,
-      "num": 1584961,
-      "word": "飞天圆梦",
-      "onboard_time": 1667124987,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 54730,
