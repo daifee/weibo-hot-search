@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667137669805,
+  "endTime": 1667139617603,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -9,6 +9,14 @@
       "onboard_time": 1667054906,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4560930,
+      "num": 4560930,
+      "word": "李智汉遇难",
+      "onboard_time": 1667137228,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4287668,
@@ -33,6 +41,14 @@
       "onboard_time": 1667099308,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3517709,
+      "num": 3517709,
+      "word": "王楚钦",
+      "onboard_time": 1667136806,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 3316848,
@@ -163,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1601487,
+      "num": 1601487,
+      "word": "张本智和 吵",
+      "onboard_time": 1667136927,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1575048,
       "num": 1575048,
       "word": "孙颖莎vs陈梦",
@@ -187,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1254441,
-      "num": 1254441,
-      "word": "王楚钦",
-      "onboard_time": 1667136806,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1171972,
       "num": 1171972,
       "word": "梨泰院踩踏事故中伤亡者多为年轻人",
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1136159,
+      "num": 1136159,
+      "word": "王楚钦世界杯夺冠",
+      "onboard_time": 1667138553,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1057089,
       "num": 452645,
       "word": "赣州市公安局通报爆炸事故",
@@ -219,20 +243,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 996095,
-      "num": 650388,
-      "word": "李智汉遇难",
-      "onboard_time": 1667137228,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1014274,
+      "num": 841478,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 977777,
-      "num": 185045,
+      "num": 213163,
       "word": "富士康给员工连发三条关爱通知",
       "onboard_time": 1667123244,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964033,
+      "num": 648097,
+      "word": "在韩留学生万幸决定当晚提前离开",
+      "onboard_time": 1667136145,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 936443,
@@ -283,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 841478,
-      "num": 841478,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 825202,
       "num": 377203,
       "word": "网传夏之光出演死亡万花筒",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 805350,
-      "num": 163251,
+      "num": 211394,
       "word": "梨泰院派出所回应事故是否与毒品有关",
       "onboard_time": 1667118387,
       "rank": 31,
@@ -339,8 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 739459,
-      "num": 611970,
+      "raw_hot": 764874,
+      "num": 764874,
       "word": "富士康最新声明",
       "onboard_time": 1667133507,
       "rank": 41,
@@ -371,12 +395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 665559,
-      "num": 665559,
-      "word": "张本智和 吵",
-      "onboard_time": 1667136927,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 690455,
+      "num": 690455,
+      "word": "遭投毒百草枯女孩换肺后身体好转",
+      "onboard_time": 1667136628,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659662,
@@ -409,6 +433,14 @@
       "onboard_time": 1667057134,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 602600,
+      "num": 602600,
+      "word": "王楚钦4比2战胜张本智和",
+      "onboard_time": 1667139095,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 596336,
@@ -491,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558437,
+      "num": 558437,
+      "word": "王楚钦心态",
+      "onboard_time": 1667138136,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554070,
       "num": 599922,
       "word": "广东直达陕西班机走下短袖短裤小伙",
@@ -513,6 +553,14 @@
       "onboard_time": 1667098468,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 536353,
+      "num": 536353,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 529588,
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446475,
+      "num": 446475,
+      "word": "时代少年团全员眼中的马嘉祺",
+      "onboard_time": 1667138072,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441031,
       "num": 441031,
       "word": "王一博街舞决赛又来擦地板了",
@@ -673,14 +729,6 @@
       "onboard_time": 1667058866,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390910,
-      "num": 270796,
-      "word": "在韩留学生万幸决定当晚提前离开",
-      "onboard_time": 1667136145,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 388242,
@@ -779,6 +827,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 349915,
+      "num": 349915,
+      "word": "胡明轩 状态",
+      "onboard_time": 1667139212,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349283,
       "num": 349283,
       "word": "王一博李默明晚见",
@@ -793,14 +849,6 @@
       "onboard_time": 1667114725,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337651,
-      "num": 217424,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 332123,
@@ -833,14 +881,6 @@
       "onboard_time": 1667050826,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 304056,
-      "num": 304056,
-      "word": "遭投毒百草枯女孩换肺后身体好转",
-      "onboard_time": 1667136628,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295153,
@@ -899,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273998,
+      "num": 273998,
+      "word": "王楚钦气势",
+      "onboard_time": 1667138254,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270592,
       "num": 270592,
       "word": "王鹤棣灰色卫衣造型路透",
@@ -913,6 +961,14 @@
       "onboard_time": 1667126426,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258005,
+      "num": 211739,
+      "word": "我们的歌",
+      "onboard_time": 1667137953,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 256032,
@@ -1395,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130518,
+      "num": 130518,
+      "word": "郑州富士康党委书记苏东霞回应发文",
+      "onboard_time": 1667139394,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129455,
       "num": 129455,
       "word": "郑钧曾露宿街头三个月",
@@ -1432,6 +1496,14 @@
       "word": "同曦男篮又赢了",
       "onboard_time": 1667126546,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120350,
+      "num": 120350,
+      "word": "王楚钦一个月收获三冠",
+      "onboard_time": 1667138974,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1571,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102553,
+      "num": 2267629,
+      "word": "飞天圆梦",
+      "onboard_time": 1667124987,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 102040,
       "num": 102040,
       "word": "小猫抓到老鼠跳床上送给主人",
@@ -1649,14 +1729,6 @@
       "onboard_time": 1667121805,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92480,
-      "num": 1584961,
-      "word": "飞天圆梦",
-      "onboard_time": 1667124987,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 91080,
