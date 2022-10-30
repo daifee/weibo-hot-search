@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667128722611,
+  "endTime": 1667129741558,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1881522,
+      "num": 1881522,
+      "word": "梨泰院踩踏事故已致153人死亡",
+      "onboard_time": 1667119886,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1843673,
       "num": 1643184,
       "word": "韩国梨泰院踩踏事故最新情况",
@@ -136,14 +144,6 @@
       "word": "赣州",
       "onboard_time": 1667055028,
       "rank": 12,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 1564544,
-      "num": 1468975,
-      "word": "梨泰院踩踏事故已致153人死亡",
-      "onboard_time": 1667119886,
-      "rank": 33,
       "category": "社会负面"
     },
     {
@@ -227,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 854682,
+      "num": 854682,
+      "word": "蓝盈莹潘晓晨分手了",
+      "onboard_time": 1667126966,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 825202,
       "num": 377203,
       "word": "网传夏之光出演死亡万花筒",
@@ -267,14 +275,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 708249,
-      "num": 708249,
-      "word": "蓝盈莹潘晓晨分手了",
-      "onboard_time": 1667126966,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 706701,
       "num": 706701,
       "word": "仙侠剧男主谁婚后出轨可能性最大",
@@ -296,6 +296,14 @@
       "word": "王楚钦4比3马龙",
       "onboard_time": 1667057372,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 642293,
+      "num": 642293,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1667126126,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -337,6 +345,14 @@
       "onboard_time": 1667091990,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 588256,
+      "num": 293082,
+      "word": "目击者称有遇难者衣服被挤掉",
+      "onboard_time": 1667127326,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 581900,
@@ -515,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408534,
-      "num": 408534,
-      "word": "孙颖莎vs陈梦",
-      "onboard_time": 1667126126,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407932,
       "num": 407932,
       "word": "尹锡悦下令详细调查首尔踩踏事故",
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352831,
+      "num": 297835,
+      "word": "韩国踩踏事故亲历者称当时整个人都离地",
+      "onboard_time": 1667124868,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 349283,
       "num": 349283,
       "word": "王一博李默明晚见",
@@ -635,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339368,
-      "num": 297835,
-      "word": "韩国踩踏事故亲历者称当时整个人都离地",
-      "onboard_time": 1667124868,
-      "rank": 34,
-      "category": "社会负面"
+      "raw_hot": 332123,
+      "num": 332123,
+      "word": "母亲深夜背娃卖气球男子全部买走",
+      "onboard_time": 1667124084,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331222,
@@ -649,14 +665,6 @@
       "onboard_time": 1667100871,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320001,
-      "num": 320001,
-      "word": "母亲深夜背娃卖气球男子全部买走",
-      "onboard_time": 1667124084,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309758,
@@ -771,14 +779,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 239822,
-      "num": 208361,
-      "word": "目击者称有遇难者衣服被挤掉",
-      "onboard_time": 1667127326,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 235805,
       "num": 235805,
       "word": "武警用切割机给生鸡蛋剥壳",
@@ -843,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217895,
+      "num": 217895,
+      "word": "好像在剪一种很新的东西",
+      "onboard_time": 1667127864,
+      "rank": 31,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 213496,
       "num": 213496,
       "word": "10月29日新增本土无症状1566例",
@@ -865,14 +873,6 @@
       "onboard_time": 1667103991,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205957,
-      "num": 118962,
-      "word": "好像在剪一种很新的东西",
-      "onboard_time": 1667127864,
-      "rank": 31,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 203815,
@@ -993,6 +993,14 @@
       "onboard_time": 1667091031,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167427,
+      "num": 167427,
+      "word": "脆炸无骨鸡柳",
+      "onboard_time": 1667126484,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 167299,
@@ -1139,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133761,
-      "num": 115479,
-      "word": "脆炸无骨鸡柳",
-      "onboard_time": 1667126484,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132406,
       "num": 132406,
       "word": "51岁女环卫每年借书上百本读自考",
@@ -1283,6 +1283,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 114406,
+      "num": 114406,
+      "word": "郑州富士康员工返乡",
+      "onboard_time": 1667129008,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112057,
       "num": 112057,
       "word": "文韬给院人准备墨镜全家桶",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1667102548,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 107566,
+      "num": 107566,
+      "word": "法证先锋5简直是故事会代餐",
+      "onboard_time": 1667124925,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 105720,
@@ -1403,12 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92672,
-      "num": 92672,
-      "word": "法证先锋5简直是故事会代餐",
-      "onboard_time": 1667124925,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 92480,
+      "num": 1584961,
+      "word": "飞天圆梦",
+      "onboard_time": 1667124987,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 91080,
@@ -1433,14 +1449,6 @@
       "onboard_time": 1667051186,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 87584,
-      "num": 1584961,
-      "word": "飞天圆梦",
-      "onboard_time": 1667124987,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 87287,
