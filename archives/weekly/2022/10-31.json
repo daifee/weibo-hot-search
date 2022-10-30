@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667172337156,
+  "endTime": 1667173282241,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1121541,
-      "num": 1121541,
+      "raw_hot": 1347393,
+      "num": 1347393,
       "word": "郑州富士康党委书记苏东霞回应发文",
       "onboard_time": 1667139394,
       "rank": 1,
@@ -32,6 +32,22 @@
       "word": "韩国踩踏事故已致154人遇难",
       "onboard_time": 1667141731,
       "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 771341,
+      "num": 258286,
+      "word": "富士康员工发声",
+      "onboard_time": 1667171840,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732297,
+      "num": 459182,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 12,
       "category": "社会负面"
     },
     {
@@ -51,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 626588,
-      "num": 393222,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 562731,
       "num": 339026,
       "word": "韩救援力量未能在黄金时间赶到事故现场",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478045,
+      "num": 478045,
+      "word": "富士康最新声明",
+      "onboard_time": 1667133507,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451561,
       "num": 451561,
       "word": "某个瞬间突然就放下了",
       "onboard_time": 1667140952,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 412117,
-      "num": 412117,
-      "word": "富士康最新声明",
-      "onboard_time": 1667133507,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383759,
@@ -99,20 +107,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 377650,
+      "num": 377650,
+      "word": "今冬或现三重拉尼娜事件",
+      "onboard_time": 1667130383,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344919,
       "num": 344919,
       "word": "王楚钦世界排名升至第3",
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340753,
-      "num": 340753,
-      "word": "今冬或现三重拉尼娜事件",
-      "onboard_time": 1667130383,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334288,
@@ -131,11 +139,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255372,
-      "num": 255372,
+      "raw_hot": 280548,
+      "num": 280548,
       "word": "女子煲汤忘关火排骨炖成灰",
       "onboard_time": 1667134107,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258571,
+      "num": 258571,
+      "word": "GEN对战DRX",
+      "onboard_time": 1667171899,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 254580,
+      "num": 254580,
+      "word": "孙女出嫁88岁奶奶偷偷抹泪",
+      "onboard_time": 1667170276,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -147,12 +171,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 242034,
-      "num": 242034,
+      "raw_hot": 248744,
+      "num": 248744,
       "word": "蓝盈莹潘晓晨分手了",
       "onboard_time": 1667126966,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232558,
+      "num": 232558,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 225936,
@@ -161,14 +193,6 @@
       "onboard_time": 1667134345,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223085,
-      "num": 223085,
-      "word": "两男子冒充被推特解雇员工接受采访",
-      "onboard_time": 1667162711,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 219832,
@@ -187,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191604,
+      "num": 177723,
+      "word": "想保护森林要多吃鹿肉汉堡",
+      "onboard_time": 1667145925,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 189774,
       "num": 163636,
       "word": "韩国踩踏事故亲历者称当时整个人都离地",
@@ -195,12 +227,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 177723,
-      "num": 177723,
-      "word": "想保护森林要多吃鹿肉汉堡",
-      "onboard_time": 1667145925,
-      "rank": 37,
-      "category": "其它"
+      "raw_hot": 172300,
+      "num": 172300,
+      "word": "只有中国航天才能取出这么绝的名字",
+      "onboard_time": 1667144848,
+      "rank": 24,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 171383,
+      "num": 121414,
+      "word": "梨泰院派出所回应事故是否与毒品有关",
+      "onboard_time": 1667118387,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 163973,
@@ -211,24 +251,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160582,
-      "num": 160582,
-      "word": "GEN对战DRX",
-      "onboard_time": 1667171899,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 159070,
-      "num": 121414,
-      "word": "梨泰院派出所回应事故是否与毒品有关",
-      "onboard_time": 1667118387,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 155391,
-      "num": 155391,
+      "raw_hot": 162610,
+      "num": 162610,
       "word": "马斯克或对推特裁员50%",
       "onboard_time": 1667161210,
       "rank": 49,
@@ -251,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148532,
-      "num": 148532,
-      "word": "只有中国航天才能取出这么绝的名字",
-      "onboard_time": 1667144848,
-      "rank": 24,
-      "category": "科技,社会新闻"
+      "raw_hot": 150325,
+      "num": 81713,
+      "word": "19岁女孩梨泰院见将服兵役男友遇难",
+      "onboard_time": 1667172802,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143722,
@@ -275,20 +299,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139736,
-      "num": 139736,
-      "word": "孙女出嫁88岁奶奶偷偷抹泪",
-      "onboard_time": 1667170276,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138859,
       "num": 138859,
       "word": "4AM晋级世界赛",
       "onboard_time": 1667141552,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136840,
+      "num": 136840,
+      "word": "酣睡橘猫与落叶融为一体",
+      "onboard_time": 1667171177,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130033,
+      "num": 130033,
+      "word": "重病女孩含泪劝父亲不要借钱手术",
+      "onboard_time": 1667171238,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129299,
@@ -323,14 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116987,
-      "num": 116987,
-      "word": "富士康员工发声",
-      "onboard_time": 1667171840,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
@@ -339,8 +363,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 107461,
-      "num": 107461,
+      "raw_hot": 114955,
+      "num": 80099,
+      "word": "中国留学生称曾收到陌生人糖果没吃",
+      "onboard_time": 1667172860,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110546,
+      "num": 110546,
+      "word": "女孩凌晨走失民警联系家长被拒三次",
+      "onboard_time": 1667172742,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107535,
+      "num": 107535,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
@@ -419,24 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71691,
-      "num": 71691,
-      "word": "重病女孩含泪劝父亲不要借钱手术",
-      "onboard_time": 1667171238,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71682,
-      "num": 71682,
-      "word": "酣睡橘猫与落叶融为一体",
-      "onboard_time": 1667171177,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71629,
-      "num": 71629,
+      "raw_hot": 77483,
+      "num": 77483,
       "word": "小伙用竹子做无人机能飞50米",
       "onboard_time": 1667161151,
       "rank": 43,
@@ -507,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54237,
+      "num": 54237,
+      "word": "王一博李默明晚见",
+      "onboard_time": 1667127925,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 53242,
       "num": 53242,
       "word": "芳心荡漾张帆怀孕了",
@@ -523,16 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44806,
-      "num": 44806,
-      "word": "王一博李默明晚见",
-      "onboard_time": 1667127925,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 44488,
-      "num": 676037,
+      "num": 693290,
       "word": "飞天圆梦",
       "onboard_time": 1667124987,
       "rank": 2,
