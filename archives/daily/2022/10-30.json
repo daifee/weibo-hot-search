@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667133809328,
+  "endTime": 1667135061007,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -139,6 +139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1639222,
+      "num": 1542168,
+      "word": "目击者称有遇难者衣服被挤掉",
+      "onboard_time": 1667127326,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1612839,
       "num": 426416,
       "word": "赣州",
@@ -155,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1542168,
-      "num": 1542168,
-      "word": "目击者称有遇难者衣服被挤掉",
-      "onboard_time": 1667127326,
-      "rank": 19,
-      "category": "社会负面"
+      "raw_hot": 1480316,
+      "num": 1480316,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1444219,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 977777,
-      "num": 167357,
+      "num": 176186,
       "word": "富士康给员工连发三条关爱通知",
       "onboard_time": 1667123244,
       "rank": 30,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 791725,
-      "num": 593374,
+      "num": 668954,
       "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
       "onboard_time": 1667121567,
       "rank": 44,
@@ -291,12 +299,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 747971,
-      "num": 747971,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1667122706,
-      "rank": 49,
+      "raw_hot": 766946,
+      "num": 766946,
+      "word": "孙颖莎夺世界杯冠军",
+      "onboard_time": 1667133565,
+      "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 765757,
+      "num": 765757,
+      "word": "易烊千玺四部作品入选五个一工程",
+      "onboard_time": 1667134345,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 708876,
@@ -355,16 +371,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 598098,
-      "num": 589427,
-      "word": "孙颖莎夺世界杯冠军",
-      "onboard_time": 1667133565,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 596336,
-      "num": 596336,
+      "num": 666337,
       "word": "郑州富士康员工返乡",
       "onboard_time": 1667129008,
       "rank": 29,
@@ -409,6 +417,14 @@
       "onboard_time": 1667131107,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 578311,
+      "num": 435416,
+      "word": "亲历韩国踩踏事故中国留学生发声",
+      "onboard_time": 1667130807,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 578148,
@@ -521,14 +537,6 @@
       "onboard_time": 1667132306,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 450643,
-      "num": 377532,
-      "word": "亲历韩国踩踏事故中国留学生发声",
-      "onboard_time": 1667130807,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 441031,
@@ -683,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359940,
+      "num": 359940,
+      "word": "今冬或现三重拉尼娜事件",
+      "onboard_time": 1667130383,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357182,
       "num": 357182,
       "word": "杨坤说最想和马嘉祺合作",
@@ -787,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283579,
-      "num": 283579,
-      "word": "今冬或现三重拉尼娜事件",
-      "onboard_time": 1667130383,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282127,
       "num": 111897,
       "word": "JDG先下一城",
@@ -803,12 +811,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279706,
+      "num": 175841,
+      "word": "富士康最新声明",
+      "onboard_time": 1667133507,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278335,
       "num": 166420,
       "word": "管泽元预测JDG战胜T1",
       "onboard_time": 1667079131,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "王鹤棣灰色卫衣造型路透",
+      "onboard_time": 1667134766,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266512,
@@ -835,6 +859,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 247546,
+      "num": 247546,
+      "word": "无畏式高颅顶发型",
+      "onboard_time": 1667129906,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245437,
       "num": 245437,
       "word": "小白diss",
@@ -849,6 +881,14 @@
       "onboard_time": 1667054127,
       "rank": 21,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 244521,
+      "num": 244521,
+      "word": "WTT",
+      "onboard_time": 1667134107,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 235805,
@@ -883,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224124,
+      "num": 224124,
+      "word": "分享欲就是无声的告白",
+      "onboard_time": 1667129844,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222217,
       "num": 222217,
       "word": "环卫工捡6万元归还失主扛排骨感谢",
@@ -907,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219873,
-      "num": 219873,
-      "word": "无畏式高颅顶发型",
-      "onboard_time": 1667129906,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219710,
       "num": 219710,
       "word": "李玟删除中国好声音所有微博",
@@ -929,14 +969,6 @@
       "onboard_time": 1667127864,
       "rank": 31,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 217413,
-      "num": 217413,
-      "word": "分享欲就是无声的告白",
-      "onboard_time": 1667129844,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 213496,
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132733,
+      "num": 132733,
+      "word": "女子煲汤忘关火排骨炖成灰",
+      "onboard_time": 1667134107,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132406,
       "num": 132406,
       "word": "51岁女环卫每年借书上百本读自考",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1667121626,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128430,
+      "num": 128430,
+      "word": "95后小伙上门代厨1周赚千元",
+      "onboard_time": 1667132366,
+      "rank": 40,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 127094,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1667120665,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110723,
+      "num": 110723,
+      "word": "孙颖莎一个月收获三冠",
+      "onboard_time": 1667134705,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 109009,
@@ -1523,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92546,
+      "num": 92546,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 92480,
       "num": 1584961,
       "word": "飞天圆梦",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1667090186,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91074,
-      "num": 91074,
-      "word": "95后小伙上门代厨1周赚千元",
-      "onboard_time": 1667132366,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 90682,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1667044746,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83789,
-      "num": 83789,
-      "word": "富士康最新声明",
-      "onboard_time": 1667133507,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83692,
