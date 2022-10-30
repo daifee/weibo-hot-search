@@ -1,0 +1,410 @@
+{
+  "runTime": 1667128722611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643557,
+        "num": 1643557,
+        "word": "亲历者称有夜店老板见死不救拒开门",
+        "onboard_time": 1667116107,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1507561,
+        "num": 1507561,
+        "word": "富士康称绝对尊重员工个人意愿",
+        "onboard_time": 1667121446,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84384,
+        "num": 1470928,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1564544,
+        "num": 1468975,
+        "word": "梨泰院踩踏事故已致153人死亡",
+        "onboard_time": 1667119886,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1444219,
+        "num": 1444219,
+        "word": "富士康厂区未发生重症感染现象",
+        "onboard_time": 1667123845,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708249,
+        "num": 708249,
+        "word": "蓝盈莹潘晓晨分手了",
+        "onboard_time": 1667126966,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 868717,
+        "num": 673493,
+        "word": "韩国梨泰院踩踏事故最新情况",
+        "onboard_time": 1667111545,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 530595,
+        "num": 530595,
+        "word": "她用一条左臂救回一个孩子",
+        "onboard_time": 1667121503,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408534,
+        "num": 408534,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1667126126,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380736,
+        "num": 380736,
+        "word": "当地政府已向郑州富士康派驻工作组",
+        "onboard_time": 1667102487,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791725,
+        "num": 379384,
+        "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+        "onboard_time": 1667121567,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 531967,
+        "num": 377203,
+        "word": "网传夏之光出演死亡万花筒",
+        "onboard_time": 1667122764,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349283,
+        "num": 349283,
+        "word": "王一博李默明晚见",
+        "onboard_time": 1667127925,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375331,
+        "num": 341006,
+        "word": "为什么事故会发生在韩国梨泰院",
+        "onboard_time": 1667122946,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 320001,
+        "num": 320001,
+        "word": "母亲深夜背娃卖气球男子全部买走",
+        "onboard_time": 1667124084,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298319,
+        "num": 298319,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1667122706,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339368,
+        "num": 297835,
+        "word": "韩国踩踏事故亲历者称当时整个人都离地",
+        "onboard_time": 1667124868,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 266512,
+        "num": 266512,
+        "word": "芳心荡漾张帆怀孕了",
+        "onboard_time": 1667126426,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212537,
+        "num": 212537,
+        "word": "369尽力了",
+        "onboard_time": 1667114906,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239822,
+        "num": 208361,
+        "word": "目击者称有遇难者衣服被挤掉",
+        "onboard_time": 1667127326,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269767,
+        "num": 207764,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190662,
+        "num": 190662,
+        "word": "楚乔传将网飞上线",
+        "onboard_time": 1667126667,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229061,
+        "num": 188318,
+        "word": "目击者称韩国警方准备不足",
+        "onboard_time": 1667116464,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160790,
+        "num": 160790,
+        "word": "环卫工捡6万元归还失主扛排骨感谢",
+        "onboard_time": 1667121026,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159062,
+        "num": 159062,
+        "word": "全力以赴确保富士康员工顺利安全返乡",
+        "onboard_time": 1667123668,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 151316,
+        "word": "河南抗疫互助通道",
+        "onboard_time": 1667125105,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149192,
+        "num": 149192,
+        "word": "白鹿王鹤棣以爱为营11月17日开机",
+        "onboard_time": 1667120067,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138549,
+        "num": 138549,
+        "word": "陆虎劝王栎鑫结果逐渐鑫化",
+        "onboard_time": 1667121206,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "韩踩踏事故中已有四名中国公民遇难",
+        "onboard_time": 1667104107,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 120589,
+        "num": 120589,
+        "word": "同曦男篮又赢了",
+        "onboard_time": 1667126546,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756643,
+        "num": 120178,
+        "word": "富士康给员工连发三条关爱通知",
+        "onboard_time": 1667123244,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205957,
+        "num": 118962,
+        "word": "好像在剪一种很新的东西",
+        "onboard_time": 1667127864,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 197273,
+        "num": 116899,
+        "word": "梨泰院派出所回应事故是否与毒品有关",
+        "onboard_time": 1667118387,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133761,
+        "num": 115479,
+        "word": "脆炸无骨鸡柳",
+        "onboard_time": 1667126484,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114923,
+        "num": 114923,
+        "word": "武警用切割机给生鸡蛋剥壳",
+        "onboard_time": 1667120665,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104500,
+        "num": 104500,
+        "word": "首尔踩踏事故亲历者",
+        "onboard_time": 1667099308,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "不得因产假哺乳限制女职工晋职",
+        "onboard_time": 1667112986,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93921,
+        "num": 93921,
+        "word": "这醒酒方式挺特别的",
+        "onboard_time": 1667124746,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 92765,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91806,
+        "num": 91806,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1667122764,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91185,
+        "num": 91185,
+        "word": "郑钧曾露宿街头三个月",
+        "onboard_time": 1667121626,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90427,
+        "num": 90427,
+        "word": "3名暖心男顾客轮流帮女店主哄娃",
+        "onboard_time": 1667116885,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84239,
+        "num": 84239,
+        "word": "女生自制服饰还原七仙女经典动作",
+        "onboard_time": 1667123905,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78228,
+        "num": 78228,
+        "word": "法证先锋5简直是故事会代餐",
+        "onboard_time": 1667124925,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77475,
+        "num": 77475,
+        "word": "买衣课代表",
+        "onboard_time": 1667120067,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 73036,
+        "num": 73036,
+        "word": "那奇沃夫回应小白",
+        "onboard_time": 1667115746,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72940,
+        "num": 72940,
+        "word": "外卖员回应收1.10元打赏后报警",
+        "onboard_time": 1667113166,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68891,
+        "num": 68891,
+        "word": "厦门六中合唱团把落花游鱼唱出了画面",
+        "onboard_time": 1667126244,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67848,
+        "num": 67848,
+        "word": "事故现场部分青年想躲进餐厅酒吧遭拒",
+        "onboard_time": 1667119226,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 54166,
+        "num": 54166,
+        "word": "南京工业大学回应一老师索要回扣",
+        "onboard_time": 1667107466,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是红旗渠精神#"
+    }
+  }
+}
