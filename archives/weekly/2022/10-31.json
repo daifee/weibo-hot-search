@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667151621790,
+  "endTime": 1667154536517,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -425,6 +425,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17616,
+      "num": 17616,
+      "word": "下周新一轮冷空气无缝衔接",
+      "onboard_time": 1667152335,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
