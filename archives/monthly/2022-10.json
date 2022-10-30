@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667148776129,
+  "endTime": 1667150582983,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -15355,6 +15355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 383759,
+      "num": 383759,
+      "word": "男女平等基本国策被纳入国民教育体系",
+      "onboard_time": 1667145146,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 383690,
       "num": 383690,
       "word": "专硕将成未来考研主流",
@@ -16145,14 +16153,6 @@
       "onboard_time": 1665192982,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367345,
-      "num": 367345,
-      "word": "男女平等基本国策被纳入国民教育体系",
-      "onboard_time": 1667145146,
-      "rank": 13,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 367302,
@@ -17785,6 +17785,14 @@
       "onboard_time": 1665740604,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334288,
+      "num": 334288,
+      "word": "感觉我分手最累的是我朋友",
+      "onboard_time": 1667147063,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 333651,
@@ -26793,14 +26801,6 @@
       "onboard_time": 1666581863,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213188,
-      "num": 213188,
-      "word": "感觉我分手最累的是我朋友",
-      "onboard_time": 1667147063,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 213107,
@@ -43771,6 +43771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77437,
+      "num": 77437,
+      "word": "想保护森林要多吃鹿肉汉堡",
+      "onboard_time": 1667145925,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 77380,
       "num": 16680,
       "word": "梅西助攻",
@@ -43849,14 +43857,6 @@
       "onboard_time": 1667115864,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 76800,
-      "num": 76800,
-      "word": "想保护森林要多吃鹿肉汉堡",
-      "onboard_time": 1667145925,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 76738,
@@ -46793,6 +46793,14 @@
       "onboard_time": 1665678139,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51728,
+      "num": 51728,
+      "word": "马嘉祺扔鼓槌",
+      "onboard_time": 1667148800,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 51717,
