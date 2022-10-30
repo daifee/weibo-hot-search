@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667115398095,
+  "endTime": 1667118473019,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1643184,
+      "num": 1643184,
+      "word": "韩国梨泰院踩踏事故最新情况",
+      "onboard_time": 1667111545,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1612839,
       "num": 491141,
       "word": "赣州",
@@ -313,6 +321,14 @@
       "onboard_time": 1666698143,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1517951,
+      "num": 544898,
+      "word": "亲历者称有夜店老板见死不救拒开门",
+      "onboard_time": 1667116107,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1455833,
@@ -849,14 +865,6 @@
       "onboard_time": 1667038163,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 890167,
-      "num": 491620,
-      "word": "韩国梨泰院踩踏事故最新情况",
-      "onboard_time": 1667111545,
-      "rank": 26,
-      "category": "社会负面"
     },
     {
       "raw_hot": 887607,
@@ -1971,6 +1979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 577631,
+      "num": 577631,
+      "word": "外卖员回应收1.10元打赏后报警",
+      "onboard_time": 1667113166,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573312,
       "num": 540751,
       "word": "哈利波特",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1666654701,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 508372,
+      "num": 197814,
+      "word": "369尽力了",
+      "onboard_time": 1667114906,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 508266,
@@ -2891,6 +2915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 437502,
+      "num": 167292,
+      "word": "目击者称韩国警方准备不足",
+      "onboard_time": 1667116464,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436999,
       "num": 436999,
       "word": "吴倩李佳航九义人开机路透",
@@ -3195,14 +3227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417852,
-      "num": 417852,
-      "word": "外卖员回应收1.10元打赏后报警",
-      "onboard_time": 1667113166,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417493,
       "num": 417493,
       "word": "翻篇是一种很重要的能力",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1666949003,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415341,
+      "num": 415341,
+      "word": "不得因产假哺乳限制女职工晋职",
+      "onboard_time": 1667112986,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414588,
@@ -4651,6 +4683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304524,
+      "num": 304524,
+      "word": "蔡文静彭冠英车咚吻害羞到出画",
+      "onboard_time": 1667114725,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302328,
       "num": 159566,
       "word": "北京密云发现两本土感染者",
@@ -5121,14 +5161,6 @@
       "onboard_time": 1666611921,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273104,
-      "num": 253182,
-      "word": "不得因产假哺乳限制女职工晋职",
-      "onboard_time": 1667112986,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273033,
@@ -6000,14 +6032,6 @@
       "word": "黄宗泽新剧时隔11年还是叫星柏",
       "onboard_time": 1666795228,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 230217,
-      "num": 230217,
-      "word": "蔡文静彭冠英车咚吻害羞到出画",
-      "onboard_time": 1667114725,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -7043,6 +7067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 185384,
+      "num": 151971,
+      "word": "首尔踩踏事故亲历者述逃生经历",
+      "onboard_time": 1667112564,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185254,
       "num": 185254,
       "word": "文俊辉女友视角氛围大片",
@@ -7201,6 +7233,14 @@
       "onboard_time": 1666540763,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179508,
+      "num": 179508,
+      "word": "那奇沃夫回应小白",
+      "onboard_time": 1667115746,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 178908,
@@ -7521,6 +7561,14 @@
       "onboard_time": 1667017163,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167299,
+      "num": 167299,
+      "word": "金钟大专辑LastScene将延期发行",
+      "onboard_time": 1667117547,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 167211,
@@ -8619,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "3名暖心男顾客轮流帮女店主哄娃",
+      "onboard_time": 1667116885,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131760,
       "num": 69040,
       "word": "演唱会的彩带能有多浪漫",
@@ -8769,6 +8825,14 @@
       "onboard_time": 1666994290,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127094,
+      "num": 72545,
+      "word": "Secret晋级TI总决赛",
+      "onboard_time": 1667118445,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127036,
@@ -9491,14 +9555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 107657,
-      "num": 107657,
-      "word": "首尔踩踏事故亲历者述逃生经历",
-      "onboard_time": 1667112564,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107493,
       "num": 107493,
       "word": "真接不上0713的脑回路",
@@ -9699,6 +9755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104130,
+      "num": 104130,
+      "word": "梨泰院派出所回应事故是否与毒品有关",
+      "onboard_time": 1667118387,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 103980,
       "num": 53041,
       "word": "打工不如打电话",
@@ -9761,6 +9825,14 @@
       "onboard_time": 1667052446,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102554,
+      "num": 102554,
+      "word": "网传199爱招商项目书",
+      "onboard_time": 1667117665,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 102406,
@@ -10113,14 +10185,6 @@
       "onboard_time": 1666667965,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93833,
-      "num": 93833,
-      "word": "369尽力了",
-      "onboard_time": 1667114906,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 93783,
@@ -10859,6 +10923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78099,
+      "num": 78099,
+      "word": "三体定档PV细节",
+      "onboard_time": 1667117426,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 77885,
       "num": 12474,
       "word": "恭喜孙颖莎王楚钦",
@@ -10915,12 +10987,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76738,
+      "num": 76738,
+      "word": "沈月未来已来明天见",
+      "onboard_time": 1667115864,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76663,
       "num": 76663,
       "word": "90后小伙带全村人翻拍农村版三国",
       "onboard_time": 1666742124,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76317,
+      "num": 76317,
+      "word": "这就是街舞总决赛战报",
+      "onboard_time": 1667113286,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76102,
@@ -11001,6 +11089,14 @@
       "onboard_time": 1666795707,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73528,
+      "num": 73528,
+      "word": "TI11总决赛",
+      "onboard_time": 1667117486,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 73325,
@@ -11225,14 +11321,6 @@
       "onboard_time": 1666785445,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68199,
-      "num": 68199,
-      "word": "这就是街舞总决赛战报",
-      "onboard_time": 1667113286,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 68142,

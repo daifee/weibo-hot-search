@@ -1,0 +1,410 @@
+{
+  "runTime": 1667118473019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2607828,
+        "num": 2607828,
+        "word": "当地政府已向郑州富士康派驻工作组",
+        "onboard_time": 1667102487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1643184,
+        "num": 1643184,
+        "word": "韩国梨泰院踩踏事故最新情况",
+        "onboard_time": 1667111545,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 25337,
+        "num": 878042,
+        "word": "赓续红色血脉传承奋斗精神",
+        "onboard_time": 1667110525,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 577631,
+        "num": 577631,
+        "word": "外卖员回应收1.10元打赏后报警",
+        "onboard_time": 1667113166,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517951,
+        "num": 544898,
+        "word": "亲历者称有夜店老板见死不救拒开门",
+        "onboard_time": 1667116107,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 436192,
+        "num": 436192,
+        "word": "王一博对布布的表情好丰富",
+        "onboard_time": 1667114367,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415341,
+        "num": 415341,
+        "word": "不得因产假哺乳限制女职工晋职",
+        "onboard_time": 1667112986,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445421,
+        "num": 378399,
+        "word": "首尔踩踏事故亲历者",
+        "onboard_time": 1667099308,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 304524,
+        "num": 304524,
+        "word": "蔡文静彭冠英车咚吻害羞到出画",
+        "onboard_time": 1667114725,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216719,
+        "num": 216719,
+        "word": "南京工业大学回应一老师索要回扣",
+        "onboard_time": 1667107466,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 508682,
+        "num": 203480,
+        "word": "梨泰院踩踏事故已致151人死亡",
+        "onboard_time": 1667092052,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 508372,
+        "num": 197814,
+        "word": "369尽力了",
+        "onboard_time": 1667114906,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180279,
+        "num": 180279,
+        "word": "狗子打针后朝主人鞋撒尿",
+        "onboard_time": 1667108788,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471426,
+        "num": 180213,
+        "word": "韩踩踏事故中已有四名中国公民遇难",
+        "onboard_time": 1667104107,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 179508,
+        "num": 179508,
+        "word": "那奇沃夫回应小白",
+        "onboard_time": 1667115746,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 167299,
+        "word": "金钟大专辑LastScene将延期发行",
+        "onboard_time": 1667117547,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437502,
+        "num": 167292,
+        "word": "目击者称韩国警方准备不足",
+        "onboard_time": 1667116464,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166835,
+        "num": 166835,
+        "word": "网上确认",
+        "onboard_time": 1667097028,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 165375,
+        "word": "交警一把抓住300多斤电缆线卷筒",
+        "onboard_time": 1667101767,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 406716,
+        "num": 164579,
+        "word": "韩总统宣布进入国家哀悼期",
+        "onboard_time": 1667096847,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 459142,
+        "num": 163049,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152963,
+        "num": 152963,
+        "word": "河南多地致信本地在郑州富士康工作人员",
+        "onboard_time": 1667085920,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185384,
+        "num": 151971,
+        "word": "首尔踩踏事故亲历者述逃生经历",
+        "onboard_time": 1667112564,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134440,
+        "num": 134440,
+        "word": "53岁大叔把排骨汤做成牧童牛背图",
+        "onboard_time": 1667107345,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131929,
+        "num": 131929,
+        "word": "3名暖心男顾客轮流帮女店主哄娃",
+        "onboard_time": 1667116885,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 131204,
+        "word": "直击韩国踩踏事故现场",
+        "onboard_time": 1667104471,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125461,
+        "num": 125461,
+        "word": "上海地标古建筑将被5.6亿拍卖",
+        "onboard_time": 1667108247,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123181,
+        "num": 123181,
+        "word": "苏醒脱5牛仔套装路透",
+        "onboard_time": 1667115325,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143033,
+        "num": 117179,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110213,
+        "num": 110213,
+        "word": "仙侠剧男主谁婚后出轨可能性最大",
+        "onboard_time": 1667098651,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108519,
+        "num": 108519,
+        "word": "LPL实力差距",
+        "onboard_time": 1667098468,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104130,
+        "num": 104130,
+        "word": "梨泰院派出所回应事故是否与毒品有关",
+        "onboard_time": 1667118387,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 102554,
+        "num": 102554,
+        "word": "网传199爱招商项目书",
+        "onboard_time": 1667117665,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102197,
+        "num": 102197,
+        "word": "大张伟在故宫中了探花",
+        "onboard_time": 1667114545,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97131,
+        "num": 97131,
+        "word": "外交部领保中心启动应急机制",
+        "onboard_time": 1667110407,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90896,
+        "num": 90896,
+        "word": "南京小伙修复700岁国宝级古籍",
+        "onboard_time": 1667106448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84942,
+        "num": 84942,
+        "word": "Faker",
+        "onboard_time": 1667091990,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82984,
+        "num": 82984,
+        "word": "杨坤说最想和马嘉祺合作",
+        "onboard_time": 1667107227,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82663,
+        "num": 82663,
+        "word": "高速行车突遇动物怎么办",
+        "onboard_time": 1667111065,
+        "rank": 38,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 78369,
+        "num": 78369,
+        "word": "51岁女环卫每年借书上百本读自考",
+        "onboard_time": 1667108009,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78099,
+        "num": 78099,
+        "word": "三体定档PV细节",
+        "onboard_time": 1667117426,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77121,
+        "num": 77121,
+        "word": "李雪琴在芳心荡漾结了两次婚",
+        "onboard_time": 1667109865,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76738,
+        "num": 76738,
+        "word": "沈月未来已来明天见",
+        "onboard_time": 1667115864,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76317,
+        "num": 76317,
+        "word": "这就是街舞总决赛战报",
+        "onboard_time": 1667113286,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75605,
+        "num": 75605,
+        "word": "中国驻韩使馆发布提醒",
+        "onboard_time": 1667102369,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 75543,
+        "num": 75543,
+        "word": "发生踩踏事件如何自我保护",
+        "onboard_time": 1667107823,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73528,
+        "num": 73528,
+        "word": "TI11总决赛",
+        "onboard_time": 1667117486,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127094,
+        "num": 72545,
+        "word": "Secret晋级TI总决赛",
+        "onboard_time": 1667118445,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71509,
+        "num": 71509,
+        "word": "齐思钧反向天气预报",
+        "onboard_time": 1667115207,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69628,
+        "num": 69628,
+        "word": "中国天眼已发现脉冲星超过660颗",
+        "onboard_time": 1667103209,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天圆梦#"
+    }
+  }
+}
