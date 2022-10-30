@@ -1,0 +1,410 @@
+{
+  "runTime": 1667119405806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2753750,
+        "num": 2753750,
+        "word": "当地政府已向郑州富士康派驻工作组",
+        "onboard_time": 1667102487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2075558,
+        "num": 2075558,
+        "word": "亲历者称有夜店老板见死不救拒开门",
+        "onboard_time": 1667116107,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 27630,
+        "num": 1183932,
+        "word": "赓续红色血脉传承奋斗精神",
+        "onboard_time": 1667110525,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 498582,
+        "num": 498582,
+        "word": "外卖员回应收1.10元打赏后报警",
+        "onboard_time": 1667113166,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1843673,
+        "num": 493457,
+        "word": "韩国梨泰院踩踏事故最新情况",
+        "onboard_time": 1667111545,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 421015,
+        "num": 421015,
+        "word": "王一博对布布的表情好丰富",
+        "onboard_time": 1667114367,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359354,
+        "num": 359354,
+        "word": "不得因产假哺乳限制女职工晋职",
+        "onboard_time": 1667112986,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083834,
+        "num": 352877,
+        "word": "首尔踩踏事故亲历者",
+        "onboard_time": 1667099308,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 340426,
+        "num": 340426,
+        "word": "蔡文静彭冠英车咚吻害羞到出画",
+        "onboard_time": 1667114725,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218203,
+        "num": 218203,
+        "word": "南京工业大学回应一老师索要回扣",
+        "onboard_time": 1667107466,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 585915,
+        "num": 218142,
+        "word": "目击者称韩国警方准备不足",
+        "onboard_time": 1667116464,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550979,
+        "num": 205120,
+        "word": "369尽力了",
+        "onboard_time": 1667114906,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224734,
+        "num": 200710,
+        "word": "3名暖心男顾客轮流帮女店主哄娃",
+        "onboard_time": 1667116885,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 408553,
+        "num": 189240,
+        "word": "韩踩踏事故中已有四名中国公民遇难",
+        "onboard_time": 1667104107,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 186267,
+        "num": 186267,
+        "word": "那奇沃夫回应小白",
+        "onboard_time": 1667115746,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166835,
+        "num": 166835,
+        "word": "网上确认",
+        "onboard_time": 1667097028,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401614,
+        "num": 165406,
+        "word": "韩总统宣布进入国家哀悼期",
+        "onboard_time": 1667096847,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162598,
+        "num": 162598,
+        "word": "狗子打针后朝主人鞋撒尿",
+        "onboard_time": 1667108788,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160778,
+        "num": 160778,
+        "word": "河南多地致信本地在郑州富士康工作人员",
+        "onboard_time": 1667085920,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246113,
+        "num": 156383,
+        "word": "梨泰院踩踏事故已致151人死亡",
+        "onboard_time": 1667092052,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 577893,
+        "num": 153252,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141772,
+        "num": 141772,
+        "word": "金钟大专辑LastScene将延期发行",
+        "onboard_time": 1667117547,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165587,
+        "num": 138104,
+        "word": "直击韩国踩踏事故现场",
+        "onboard_time": 1667104471,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134179,
+        "num": 134179,
+        "word": "交警一把抓住300多斤电缆线卷筒",
+        "onboard_time": 1667101767,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127867,
+        "num": 127867,
+        "word": "上海地标古建筑将被5.6亿拍卖",
+        "onboard_time": 1667108247,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 127372,
+        "word": "首尔踩踏事故亲历者述逃生经历",
+        "onboard_time": 1667112564,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 122596,
+        "word": "53岁大叔把排骨汤做成牧童牛背图",
+        "onboard_time": 1667107345,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107837,
+        "num": 107837,
+        "word": "苏醒脱5牛仔套装路透",
+        "onboard_time": 1667115325,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131988,
+        "num": 107758,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107119,
+        "num": 107119,
+        "word": "仙侠剧男主谁婚后出轨可能性最大",
+        "onboard_time": 1667098651,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101197,
+        "num": 101197,
+        "word": "LPL实力差距",
+        "onboard_time": 1667098468,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356419,
+        "num": 100595,
+        "word": "梨泰院派出所回应事故是否与毒品有关",
+        "onboard_time": 1667118387,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 98698,
+        "num": 98698,
+        "word": "大张伟在故宫中了探花",
+        "onboard_time": 1667114545,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93261,
+        "num": 93261,
+        "word": "南京小伙修复700岁国宝级古籍",
+        "onboard_time": 1667106448,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90468,
+        "num": 90468,
+        "word": "Secret晋级TI总决赛",
+        "onboard_time": 1667118445,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87797,
+        "num": 87797,
+        "word": "杨坤说最想和马嘉祺合作",
+        "onboard_time": 1667107227,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83571,
+        "num": 83571,
+        "word": "外交部领保中心启动应急机制",
+        "onboard_time": 1667110407,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82818,
+        "num": 82818,
+        "word": "TI11总决赛",
+        "onboard_time": 1667117486,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79709,
+        "num": 79709,
+        "word": "网传199爱招商项目书",
+        "onboard_time": 1667117665,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79274,
+        "num": 79274,
+        "word": "51岁女环卫每年借书上百本读自考",
+        "onboard_time": 1667108009,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78143,
+        "num": 78143,
+        "word": "中国驻韩使馆发布提醒",
+        "onboard_time": 1667102369,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76847,
+        "num": 76847,
+        "word": "沈月未来已来明天见",
+        "onboard_time": 1667115864,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75678,
+        "num": 75678,
+        "word": "Faker",
+        "onboard_time": 1667091990,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75654,
+        "num": 75654,
+        "word": "这就是街舞总决赛战报",
+        "onboard_time": 1667113286,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75603,
+        "num": 75603,
+        "word": "专四",
+        "onboard_time": 1667098651,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71931,
+        "num": 71931,
+        "word": "高速行车突遇动物怎么办",
+        "onboard_time": 1667111065,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 69925,
+        "num": 69925,
+        "word": "事故现场部分青年想躲进餐厅酒吧遭拒",
+        "onboard_time": 1667119226,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 66880,
+        "num": 66880,
+        "word": "李雪琴在芳心荡漾结了两次婚",
+        "onboard_time": 1667109865,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65824,
+        "num": 65824,
+        "word": "齐思钧反向天气预报",
+        "onboard_time": 1667115207,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64038,
+        "num": 64038,
+        "word": "发生踩踏事件如何自我保护",
+        "onboard_time": 1667107823,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#红旗渠精神永远震撼人心#"
+    }
+  }
+}
