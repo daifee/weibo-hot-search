@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667164846220,
+  "endTime": 1667165850384,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -435,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30616,
+      "num": 30616,
+      "word": "马斯克或对推特裁员50%",
+      "onboard_time": 1667161210,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 30048,
+      "num": 15337,
+      "word": "两男子冒充被推特解雇员工接受采访",
+      "onboard_time": 1667162711,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 21323,
       "num": 21323,
       "word": "遛狗没拴绳撞车狗主人负全责",
@@ -443,36 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20445,
-      "num": 20445,
-      "word": "马斯克或对推特裁员50%",
-      "onboard_time": 1667161210,
-      "rank": 49,
-      "category": "科技"
+      "raw_hot": 19518,
+      "num": 19518,
+      "word": "今冬浙江或有超强寒潮",
+      "onboard_time": 1667163730,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 18874,
-      "num": 14815,
-      "word": "两男子冒充被推特解雇员工接受采访",
-      "onboard_time": 1667162711,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 14737,
-      "num": 14737,
+      "raw_hot": 16571,
+      "num": 16571,
       "word": "小伙用竹子做无人机能飞50米",
       "onboard_time": 1667161151,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10770,
-      "num": 10770,
-      "word": "今冬浙江或有超强寒潮",
-      "onboard_time": 1667163730,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 10902,
+      "num": 10902,
+      "word": "新发现挑战了万有引力定律",
+      "onboard_time": 1667164870,
+      "rank": 43,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
