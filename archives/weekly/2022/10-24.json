@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667140643329,
+  "endTime": 1667143425166,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -225,6 +225,14 @@
       "onboard_time": 1666764685,
       "rank": 0,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 2102379,
+      "num": 2102379,
+      "word": "在韩留学生万幸决定当晚提前离开",
+      "onboard_time": 1667136145,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2059003,
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1275434,
-      "num": 677421,
-      "word": "在韩留学生万幸决定当晚提前离开",
-      "onboard_time": 1667136145,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1267690,
       "num": 1174409,
       "word": "佩洛西丈夫在家中遇袭",
@@ -561,6 +561,14 @@
       "onboard_time": 1666757552,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1228689,
+      "num": 984024,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1218805,
@@ -683,14 +691,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1113674,
-      "num": 984024,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1113507,
       "num": 250656,
       "word": "西宁防疫",
@@ -753,6 +753,14 @@
       "onboard_time": 1666864582,
       "rank": 20,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 1049671,
+      "num": 528269,
+      "word": "郑州富士康党委书记苏东霞回应发文",
+      "onboard_time": 1667139394,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1048630,
@@ -1267,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 793317,
+      "num": 568582,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 790124,
       "num": 583796,
       "word": "密室大逃脱0713体验版定档",
@@ -1723,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 680771,
+      "num": 527121,
+      "word": "韩国踩踏事故已致154人遇难",
+      "onboard_time": 1667141731,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 673821,
       "num": 403443,
       "word": "樊振东轮空",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1667052446,
       "rank": 19,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 640774,
-      "num": 536353,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 639861,
@@ -2368,14 +2384,6 @@
       "word": "爸爸把半岁宝宝顶头上冒雨跑遭质疑",
       "onboard_time": 1666933106,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553579,
-      "num": 204935,
-      "word": "郑州富士康党委书记苏东霞回应发文",
-      "onboard_time": 1667139394,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2955,6 +2963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 471711,
+      "num": 471711,
+      "word": "某个瞬间突然就放下了",
+      "onboard_time": 1667140952,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471169,
       "num": 394465,
       "word": "插排掉鱼缸26条兰寿金鱼被煮熟",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1666537765,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460470,
+      "num": 392252,
+      "word": "韩救援力量未能在黄金时间赶到事故现场",
+      "onboard_time": 1667141191,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 460364,
@@ -4931,11 +4955,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313196,
+      "num": 313196,
+      "word": "马嘉祺唱了雪落下的声音",
+      "onboard_time": 1667141552,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312622,
       "num": 312622,
       "word": "成龙发文感谢大学生",
       "onboard_time": 1666755806,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311293,
+      "num": 311293,
+      "word": "成毅直播模仿emoji",
+      "onboard_time": 1667143111,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -5715,6 +5755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261491,
+      "num": 261491,
+      "word": "恭喜孙颖莎王楚钦",
+      "onboard_time": 1666532363,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261194,
       "num": 261194,
       "word": "心动的信号",
@@ -5881,6 +5929,14 @@
       "onboard_time": 1666700004,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251276,
+      "num": 251276,
+      "word": "赵露思挑战可爱鬼脸",
+      "onboard_time": 1667141191,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 251246,
@@ -6073,6 +6129,14 @@
       "onboard_time": 1666689443,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242324,
+      "num": 242324,
+      "word": "4AM晋级世界赛",
+      "onboard_time": 1667141552,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 242055,
@@ -6699,6 +6763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219624,
+      "num": 219624,
+      "word": "赵粤翻跳NXDE",
+      "onboard_time": 1667142029,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218789,
       "num": 69369,
       "word": "男子生吞小螃蟹感染寄生虫",
@@ -7072,14 +7144,6 @@
       "word": "林高远2比3波尔",
       "onboard_time": 1666867705,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204953,
-      "num": 204953,
-      "word": "恭喜孙颖莎王楚钦",
-      "onboard_time": 1666532363,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -8105,6 +8169,14 @@
       "onboard_time": 1666535604,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166582,
+      "num": 166582,
+      "word": "浙江男篮绝杀广东男篮",
+      "onboard_time": 1667139212,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 166211,
@@ -9467,14 +9539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124542,
-      "num": 124542,
-      "word": "浙江男篮绝杀广东男篮",
-      "onboard_time": 1667139212,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124374,
       "num": 124374,
       "word": "软噗噗的大熊猫还会一字马",
@@ -9969,6 +10033,14 @@
       "onboard_time": 1666853543,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110929,
+      "num": 110929,
+      "word": "工作后需明白的十大生存之道",
+      "onboard_time": 1667142272,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 110728,
@@ -10473,6 +10545,14 @@
       "onboard_time": 1666587983,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "浙江男篮vs广东男篮",
+      "onboard_time": 1667143410,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101024,

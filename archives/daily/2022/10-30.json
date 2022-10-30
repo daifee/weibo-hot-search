@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667140643329,
+  "endTime": 1667143425166,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -115,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2102379,
+      "num": 2102379,
+      "word": "在韩留学生万幸决定当晚提前离开",
+      "onboard_time": 1667136145,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2059003,
       "num": 434786,
       "word": "韩国发生踩踏事故致50余人心脏骤停",
@@ -211,11 +219,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1275434,
-      "num": 677421,
-      "word": "在韩留学生万幸决定当晚提前离开",
-      "onboard_time": 1667136145,
-      "rank": 31,
+      "raw_hot": 1228689,
+      "num": 984024,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
       "category": "社会负面"
     },
     {
@@ -243,20 +251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1113674,
-      "num": 984024,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1057089,
       "num": 452645,
       "word": "赣州市公安局通报爆炸事故",
       "onboard_time": 1667059948,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1049671,
+      "num": 528269,
+      "word": "郑州富士康党委书记苏东霞回应发文",
+      "onboard_time": 1667139394,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977777,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793317,
+      "num": 568582,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 788385,
       "num": 788385,
       "word": "南京工业大学回应一老师索要回扣",
@@ -411,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680771,
+      "num": 527121,
+      "word": "韩国踩踏事故已致154人遇难",
+      "onboard_time": 1667141731,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 659662,
       "num": 659662,
       "word": "王楚钦4比3马龙",
       "onboard_time": 1667057372,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 640774,
-      "num": 536353,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 638247,
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553579,
-      "num": 204935,
-      "word": "郑州富士康党委书记苏东霞回应发文",
-      "onboard_time": 1667139394,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550979,
       "num": 422144,
       "word": "369尽力了",
@@ -643,12 +651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 471711,
+      "num": 471711,
+      "word": "某个瞬间突然就放下了",
+      "onboard_time": 1667140952,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
       "onboard_time": 1667103209,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 460470,
+      "num": 392252,
+      "word": "韩救援力量未能在黄金时间赶到事故现场",
+      "onboard_time": 1667141191,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 456779,
@@ -875,6 +899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313196,
+      "num": 313196,
+      "word": "马嘉祺唱了雪落下的声音",
+      "onboard_time": 1667141552,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311293,
+      "num": 311293,
+      "word": "成毅直播模仿emoji",
+      "onboard_time": 1667143111,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309758,
       "num": 309758,
       "word": "王楚钦将与张本智和争夺男单冠军",
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261491,
+      "num": 261491,
+      "word": "恭喜孙颖莎王楚钦",
+      "onboard_time": 1667139693,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258005,
       "num": 211739,
       "word": "我们的歌",
@@ -993,6 +1041,14 @@
       "onboard_time": 1667052446,
       "rank": 19,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 251276,
+      "num": 251276,
+      "word": "赵露思挑战可爱鬼脸",
+      "onboard_time": 1667141191,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 247546,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1667134107,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242324,
+      "num": 242324,
+      "word": "4AM晋级世界赛",
+      "onboard_time": 1667141552,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 235805,
@@ -1099,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219624,
+      "num": 219624,
+      "word": "赵粤翻跳NXDE",
+      "onboard_time": 1667142029,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217895,
       "num": 217895,
       "word": "好像在剪一种很新的东西",
@@ -1129,14 +1201,6 @@
       "onboard_time": 1667103991,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204953,
-      "num": 204953,
-      "word": "恭喜孙颖莎王楚钦",
-      "onboard_time": 1667139693,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 204285,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1667117547,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166582,
+      "num": 166582,
+      "word": "浙江男篮绝杀广东男篮",
+      "onboard_time": 1667139212,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165163,
@@ -1499,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124542,
-      "num": 124542,
-      "word": "浙江男篮绝杀广东男篮",
-      "onboard_time": 1667139212,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123674,
       "num": 123674,
       "word": "大张伟在故宫中了探花",
@@ -1611,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110929,
+      "num": 110929,
+      "word": "工作后需明白的十大生存之道",
+      "onboard_time": 1667142272,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110143,
       "num": 2267629,
       "word": "飞天圆梦",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1667052925,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "浙江男篮vs广东男篮",
+      "onboard_time": 1667143410,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101127,
