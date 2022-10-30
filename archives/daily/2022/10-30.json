@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667107698758,
+  "endTime": 1667108581747,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -147,6 +147,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 896033,
+      "num": 452082,
+      "word": "直击韩国踩踏事故现场",
+      "onboard_time": 1667104471,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872049,
       "num": 872049,
       "word": "网上确认",
@@ -187,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 655942,
-      "num": 452082,
-      "word": "直击韩国踩踏事故现场",
-      "onboard_time": 1667104471,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 638247,
       "num": 638247,
       "word": "林孝埈混合接力摔倒",
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 624818,
-      "num": 400683,
+      "num": 537216,
       "word": "中国驻韩使馆发布提醒",
       "onboard_time": 1667102369,
       "rank": 21,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330342,
+      "num": 144573,
+      "word": "南京工业大学回应一老师索要回扣",
+      "onboard_time": 1667107466,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 309758,
       "num": 309758,
       "word": "王楚钦将与张本智和争夺男单冠军",
@@ -635,6 +643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 161568,
+      "num": 358183,
+      "word": "南京小伙修复700岁国宝级古籍",
+      "onboard_time": 1667106448,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156562,
       "num": 156562,
       "word": "半决赛质量",
@@ -657,6 +673,14 @@
       "onboard_time": 1667098410,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145380,
+      "num": 145380,
+      "word": "53岁大叔把排骨汤做成牧童牛背图",
+      "onboard_time": 1667107345,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141804,
@@ -723,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124746,
+      "num": 124746,
+      "word": "发生踩踏事件如何自我保护",
+      "onboard_time": 1667107823,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121726,
       "num": 121726,
       "word": "iPhone15Pro或取消物理按键",
@@ -755,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118097,
+      "num": 118097,
+      "word": "天猫回应双十一将推拍照新功能",
+      "onboard_time": 1667104048,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 117997,
       "num": 117997,
       "word": "专四答案",
@@ -769,14 +809,6 @@
       "onboard_time": 1667103569,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 113564,
-      "num": 106032,
-      "word": "天猫回应双十一将推拍照新功能",
-      "onboard_time": 1667104048,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 109009,
@@ -809,14 +841,6 @@
       "onboard_time": 1667050224,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102237,
-      "num": 358183,
-      "word": "南京小伙修复700岁国宝级古籍",
-      "onboard_time": 1667106448,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102040,
@@ -859,6 +883,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 92118,
+      "num": 92118,
+      "word": "51岁女环卫每年借书上百本读自考",
+      "onboard_time": 1667108009,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91080,
       "num": 91080,
       "word": "JDG双C",
@@ -873,6 +905,14 @@
       "onboard_time": 1667096249,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89534,
+      "num": 89534,
+      "word": "上海地标古建筑将被5.6亿拍卖",
+      "onboard_time": 1667108247,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88398,
@@ -955,20 +995,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 82430,
-      "num": 82430,
-      "word": "南京工业大学回应一老师索要回扣",
-      "onboard_time": 1667107466,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 82175,
       "num": 82175,
       "word": "T1扳平比分",
       "onboard_time": 1667084658,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81210,
+      "num": 81210,
+      "word": "绝境中能听到这句话太好了",
+      "onboard_time": 1667106208,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80800,
@@ -979,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79597,
-      "num": 79597,
-      "word": "53岁大叔把排骨汤做成牧童牛背图",
-      "onboard_time": 1667107345,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 80657,
+      "num": 80657,
+      "word": "杨超越极限挑战宝藏行双马尾路透",
+      "onboard_time": 1667108066,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78134,
@@ -993,14 +1033,6 @@
       "onboard_time": 1667048844,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77840,
-      "num": 77840,
-      "word": "绝境中能听到这句话太好了",
-      "onboard_time": 1667106208,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73599,
