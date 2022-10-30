@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667121737479,
+  "endTime": 1667122717125,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -196,10 +196,18 @@
     },
     {
       "raw_hot": 805350,
-      "num": 105577,
+      "num": 112143,
       "word": "梨泰院派出所回应事故是否与毒品有关",
       "onboard_time": 1667118387,
       "rank": 31,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 799811,
+      "num": 275323,
+      "word": "梨泰院踩踏事故已致153人死亡",
+      "onboard_time": 1667119886,
+      "rank": 33,
       "category": "社会负面"
     },
     {
@@ -227,20 +235,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 687549,
+      "num": 292752,
+      "word": "富士康称绝对尊重员工个人意愿",
+      "onboard_time": 1667121446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659662,
       "num": 659662,
       "word": "王楚钦4比3马龙",
       "onboard_time": 1667057372,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 652134,
-      "num": 98491,
-      "word": "梨泰院踩踏事故已致153人死亡",
-      "onboard_time": 1667119886,
-      "rank": 33,
-      "category": "社会负面"
     },
     {
       "raw_hot": 638247,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517068,
+      "num": 517068,
+      "word": "白鹿王鹤棣以爱为营11月17日开机",
+      "onboard_time": 1667120067,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508266,
       "num": 508266,
       "word": "2名中国公民在韩踩踏事故中遇难",
@@ -387,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491469,
-      "num": 491469,
-      "word": "白鹿王鹤棣以爱为营11月17日开机",
-      "onboard_time": 1667120067,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
@@ -409,6 +417,14 @@
       "onboard_time": 1667057791,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436850,
+      "num": 259004,
+      "word": "事故现场部分青年想躲进餐厅酒吧遭拒",
+      "onboard_time": 1667119226,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 428084,
@@ -473,14 +489,6 @@
       "onboard_time": 1667058866,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390532,
-      "num": 259004,
-      "word": "事故现场部分青年想躲进餐厅酒吧遭拒",
-      "onboard_time": 1667119226,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 388242,
@@ -587,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288646,
+      "num": 288646,
+      "word": "陆虎劝王栎鑫结果逐渐鑫化",
+      "onboard_time": 1667121206,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287427,
       "num": 287427,
       "word": "姥姥带娃3年女儿分文不给",
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257081,
+      "num": 99038,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 256032,
       "num": 256032,
       "word": "卖力帮忙的小狗",
@@ -633,14 +657,6 @@
       "onboard_time": 1667052446,
       "rank": 19,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 247679,
-      "num": 247679,
-      "word": "陆虎劝王栎鑫结果逐渐鑫化",
-      "onboard_time": 1667121206,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 245437,
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214292,
+      "num": 214292,
+      "word": "她用一条左臂救回一个孩子",
+      "onboard_time": 1667121503,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213496,
       "num": 213496,
       "word": "10月29日新增本土无症状1566例",
@@ -745,6 +769,14 @@
       "onboard_time": 1667093849,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198110,
+      "num": 198110,
+      "word": "买衣课代表",
+      "onboard_time": 1667120067,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 193496,
@@ -792,6 +824,14 @@
       "word": "首尔踩踏事故亲历者述逃生经历",
       "onboard_time": 1667112564,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183688,
+      "num": 183688,
+      "word": "武警用切割机给生鸡蛋剥壳",
+      "onboard_time": 1667120665,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160788,
+      "num": 160788,
+      "word": "环卫工捡6万元归还失主扛排骨感谢",
+      "onboard_time": 1667121026,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156562,
       "num": 156562,
       "word": "半决赛质量",
@@ -889,14 +937,6 @@
       "onboard_time": 1667098410,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144772,
-      "num": 103386,
-      "word": "买衣课代表",
-      "onboard_time": 1667120067,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 141804,
@@ -995,28 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129455,
+      "num": 129455,
+      "word": "郑钧曾露宿街头三个月",
+      "onboard_time": 1667121626,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127094,
       "num": 90468,
       "word": "Secret晋级TI总决赛",
       "onboard_time": 1667118445,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125603,
-      "num": 125603,
-      "word": "武警用切割机给生鸡蛋剥壳",
-      "onboard_time": 1667120665,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125055,
-      "num": 125055,
-      "word": "郑钧曾露宿街头三个月",
-      "onboard_time": 1667121626,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 123674,
@@ -1163,20 +1195,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 98873,
-      "num": 98873,
-      "word": "富士康称绝对尊重员工个人意愿",
-      "onboard_time": 1667121446,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97510,
       "num": 97510,
       "word": "沉香是懂拒绝的",
       "onboard_time": 1667039964,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97360,
+      "num": 97360,
+      "word": "明星校服造型图鉴",
+      "onboard_time": 1667119406,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97330,
@@ -1187,14 +1219,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 96481,
-      "num": 96481,
-      "word": "明星校服造型图鉴",
-      "onboard_time": 1667119406,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95364,
       "num": 95364,
       "word": "俄称英国皇家海军官员参与了北溪事件",
@@ -1203,11 +1227,11 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 92568,
-      "num": 92568,
-      "word": "环卫工捡6万元归还失主扛排骨感谢",
-      "onboard_time": 1667121026,
-      "rank": 39,
+      "raw_hot": 94082,
+      "num": 94082,
+      "word": "三招教你缓解眼干涩",
+      "onboard_time": 1667121805,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1307,14 +1331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 82886,
-      "num": 76323,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 82525,
       "num": 82525,
       "word": "猫妈妈好爱它的宝宝啊",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1667113286,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75130,
-      "num": 75130,
-      "word": "她用一条左臂救回一个孩子",
-      "onboard_time": 1667121503,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74474,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1667057248,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58864,
+      "num": 58864,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57378,
