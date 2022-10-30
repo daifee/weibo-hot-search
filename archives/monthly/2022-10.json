@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667154536517,
+  "endTime": 1667155523769,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -48283,6 +48283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31125,
+      "num": 31125,
+      "word": "下周新一轮冷空气无缝衔接",
+      "onboard_time": 1667152335,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31079,
       "num": 31079,
       "word": "连线二十大",
@@ -48665,14 +48673,6 @@
       "onboard_time": 1665090250,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 17616,
-      "num": 17616,
-      "word": "下周新一轮冷空气无缝衔接",
-      "onboard_time": 1667152335,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17546,
