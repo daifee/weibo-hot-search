@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667103006198,
+  "endTime": 1667104086710,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3559998,
+      "num": 3559998,
+      "word": "首尔踩踏事故亲历者",
+      "onboard_time": 1667099308,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2643049,
       "num": 2643049,
       "word": "一名中国公民在韩国踩踏事故中遇难",
@@ -49,14 +57,6 @@
       "onboard_time": 1667085920,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2398074,
-      "num": 879501,
-      "word": "首尔踩踏事故亲历者",
-      "onboard_time": 1667099308,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2260768,
@@ -121,6 +121,14 @@
       "onboard_time": 1667088145,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1124477,
+      "num": 362889,
+      "word": "当地政府已向郑州富士康派驻工作组",
+      "onboard_time": 1667102487,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1057089,
@@ -203,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 585950,
+      "num": 350734,
+      "word": "中国驻韩使馆发布提醒",
+      "onboard_time": 1667102369,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 581900,
       "num": 581900,
       "word": "S8后LPL首次无缘S赛决赛",
@@ -235,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547146,
-      "num": 547146,
+      "raw_hot": 549446,
+      "num": 549446,
       "word": "LPL实力差距",
       "onboard_time": 1667098468,
       "rank": 46,
@@ -323,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395997,
+      "num": 395997,
+      "word": "王一博街舞5爆炸头错位图",
+      "onboard_time": 1667099611,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395162,
       "num": 395162,
       "word": "路人目睹摊贩脚踩模具压扁糖葫芦",
       "onboard_time": 1667058866,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374166,
-      "num": 374166,
-      "word": "王一博街舞5爆炸头错位图",
-      "onboard_time": 1667099611,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 373351,
@@ -361,6 +377,14 @@
       "onboard_time": 1667092411,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347863,
+      "num": 347863,
+      "word": "交警一把抓住300多斤电缆线卷筒",
+      "onboard_time": 1667101767,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 331222,
@@ -451,14 +475,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 242776,
-      "num": 146431,
-      "word": "当地政府已向郑州富士康派驻工作组",
-      "onboard_time": 1667102487,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234276,
       "num": 234276,
       "word": "外卖员被打赏1元1角以为求救秒报警",
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205103,
-      "num": 205103,
-      "word": "中国驻韩使馆发布提醒",
-      "onboard_time": 1667102369,
-      "rank": 21,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 203815,
       "num": 203815,
       "word": "原来社死也可以复活",
@@ -529,14 +537,6 @@
       "onboard_time": 1667047762,
       "rank": 25,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 190318,
-      "num": 190318,
-      "word": "交警一把抓住300多斤电缆线卷筒",
-      "onboard_time": 1667101767,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 186072,
@@ -579,12 +579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170306,
+      "num": 170306,
+      "word": "迪丽热巴素雅至简大片",
+      "onboard_time": 1667103991,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164673,
       "num": 164673,
       "word": "热衷考教资的中年人们",
       "onboard_time": 1667083334,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 157678,
+      "num": 157678,
+      "word": "中国天眼已发现脉冲星超过660颗",
+      "onboard_time": 1667103209,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 156562,
@@ -603,19 +619,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150685,
+      "num": 150685,
+      "word": "看法证先锋5人菜瘾大",
+      "onboard_time": 1667102070,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145853,
       "num": 145853,
       "word": "今晚芳心荡漾大结局",
       "onboard_time": 1667098410,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 142583,
-      "num": 142583,
-      "word": "看法证先锋5人菜瘾大",
-      "onboard_time": 1667102070,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -715,6 +731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113564,
+      "num": 91296,
+      "word": "天猫回应双十一将推拍照新功能",
+      "onboard_time": 1667104048,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 109009,
       "num": 109009,
       "word": "这个字居然要172笔才能写完",
@@ -737,6 +761,14 @@
       "onboard_time": 1667097810,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105646,
+      "num": 105646,
+      "word": "猎魔人换男主",
+      "onboard_time": 1667103269,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 103227,
@@ -777,6 +809,14 @@
       "onboard_time": 1667051607,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95485,
+      "num": 95485,
+      "word": "马戏团熊表演时疑抱咬工作人员",
+      "onboard_time": 1667103569,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 95364,
