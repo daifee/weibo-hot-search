@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667150582983,
+  "endTime": 1667151621790,
   "band_list": [
     {
       "raw_hot": 1509098,
@@ -219,6 +219,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 140218,
+      "num": 140218,
+      "word": "一条plog告别十月",
+      "onboard_time": 1667151317,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138859,
       "num": 138859,
       "word": "4AM晋级世界赛",
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95700,
+      "num": 95700,
+      "word": "想保护森林要多吃鹿肉汉堡",
+      "onboard_time": 1667145925,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 91777,
       "num": 91777,
       "word": "恭喜孙颖莎王楚钦",
@@ -329,14 +345,6 @@
       "onboard_time": 1667052623,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77437,
-      "num": 77437,
-      "word": "想保护森林要多吃鹿肉汉堡",
-      "onboard_time": 1667145925,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 66859,
