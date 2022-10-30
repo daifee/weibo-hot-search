@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667136942433,
+  "endTime": 1667137669805,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -187,19 +187,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2168764,
+      "num": 2168764,
+      "word": "目击者称有遇难者衣服被挤掉",
+      "onboard_time": 1667127326,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2156931,
       "num": 2156931,
       "word": "韩踩踏事故中已有四名中国公民遇难",
       "onboard_time": 1667104107,
       "rank": 3,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 2119867,
-      "num": 2119867,
-      "word": "目击者称有遇难者衣服被挤掉",
-      "onboard_time": 1667127326,
-      "rank": 19,
       "category": "社会负面"
     },
     {
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1254441,
+      "num": 1254441,
+      "word": "王楚钦",
+      "onboard_time": 1667136806,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1247510,
       "num": 209337,
       "word": "Angelababy晒染发vlog",
@@ -787,8 +795,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 996095,
+      "num": 650388,
+      "word": "李智汉遇难",
+      "onboard_time": 1667137228,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 977777,
-      "num": 176186,
+      "num": 185045,
       "word": "富士康给员工连发三条关爱通知",
       "onboard_time": 1667123244,
       "rank": 30,
@@ -1099,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 841478,
+      "num": 841478,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 840080,
       "num": 687918,
       "word": "大学不谈恋爱真的会遗憾吗",
@@ -1195,14 +1219,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 800692,
-      "num": 800692,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 798280,
       "num": 162539,
       "word": "宣萱回应王宝钏挖野菜",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1667030962,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 768539,
+      "num": 768539,
+      "word": "女子煲汤忘关火排骨炖成灰",
+      "onboard_time": 1667134107,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767858,
@@ -1379,6 +1403,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 739459,
+      "num": 611970,
+      "word": "富士康最新声明",
+      "onboard_time": 1667133507,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737346,
       "num": 69942,
       "word": "双十一电商平台有多内卷",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1666943124,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 720563,
-      "num": 586950,
-      "word": "富士康最新声明",
-      "onboard_time": 1667133507,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715687,
@@ -1667,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 673410,
-      "num": 673410,
-      "word": "女子煲汤忘关火排骨炖成灰",
-      "onboard_time": 1667134107,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 669058,
       "num": 371065,
       "word": "宋雨琦担任综艺单独MC",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1666963347,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 665559,
+      "num": 665559,
+      "word": "张本智和 吵",
+      "onboard_time": 1667136927,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 663491,
@@ -3763,6 +3787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390910,
+      "num": 270796,
+      "word": "在韩留学生万幸决定当晚提前离开",
+      "onboard_time": 1667136145,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 389989,
       "num": 389989,
       "word": "陈梦vs袁嘉楠",
@@ -4555,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337651,
+      "num": 217424,
+      "word": "韩国踩踏事故发生在约5米宽斜坡上",
+      "onboard_time": 1667134527,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 336924,
       "num": 89707,
       "word": "Meiko和Deft拥抱",
@@ -4955,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304056,
+      "num": 304056,
+      "word": "遭投毒百草枯女孩换肺后身体好转",
+      "onboard_time": 1667136628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302328,
       "num": 159566,
       "word": "北京密云发现两本土感染者",
@@ -5041,14 +5089,6 @@
       "onboard_time": 1666735151,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295429,
-      "num": 295429,
-      "word": "王楚钦",
-      "onboard_time": 1667136806,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 295076,
@@ -5513,14 +5553,6 @@
       "onboard_time": 1666858463,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268350,
-      "num": 217424,
-      "word": "韩国踩踏事故发生在约5米宽斜坡上",
-      "onboard_time": 1667134527,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 267468,
@@ -6867,14 +6899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209502,
-      "num": 89733,
-      "word": "张本智和 吵",
-      "onboard_time": 1667136927,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209226,
       "num": 209226,
       "word": "被尹浩宇屋顶着火舞台点燃了",
@@ -7161,14 +7185,6 @@
       "onboard_time": 1666756525,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197063,
-      "num": 171030,
-      "word": "在韩留学生万幸决定当晚提前离开",
-      "onboard_time": 1667136145,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 196963,
@@ -8561,6 +8577,14 @@
       "onboard_time": 1666914320,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146431,
+      "num": 146431,
+      "word": "Secret夺得TI11亚军",
+      "onboard_time": 1667137529,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 146317,
@@ -10049,14 +10073,6 @@
       "onboard_time": 1667044825,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106719,
-      "num": 106719,
-      "word": "遭投毒百草枯女孩换肺后身体好转",
-      "onboard_time": 1667136628,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106659,
