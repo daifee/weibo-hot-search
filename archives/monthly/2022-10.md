@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 12:28:06
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/30 13:03:23
 </p>
 </blockquote>
 <p>
@@ -100,7 +100,7 @@ DRX战胜EDG（热度：5194566）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%23" target="weibo">
-首尔踩踏事故亲历者（热度：3559998）
+首尔踩踏事故亲历者（热度：3681162）
 </a>
 </li>
 
@@ -333,6 +333,12 @@ EDG对战DRX（热度：2849044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%90%91%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%B4%BE%E9%A9%BB%E5%B7%A5%E4%BD%9C%E7%BB%84%23" target="weibo">
+当地政府已向郑州富士康派驻工作组（热度：2463900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD%23" target="weibo">
 突然意识到自己真的很好（热度：2462380）
 </a>
@@ -473,6 +479,12 @@ RNG对战T1（热度：2324975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%BE%88%E5%A5%BD%E5%8D%B4%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
 室友很好却不能成为好朋友（热度：2182574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E4%B8%AD%E5%B7%B2%E6%9C%89%E5%9B%9B%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E9%9A%BE%23" target="weibo">
+韩踩踏事故中已有四名中国公民遇难（热度：2156931）
 </a>
 </li>
 
@@ -2027,12 +2039,6 @@ JDG（热度：1126081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%A9%AC%E9%BE%99%23" target="weibo">
 王楚钦3比2马龙（热度：1125863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%90%91%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%B4%BE%E9%A9%BB%E5%B7%A5%E4%BD%9C%E7%BB%84%23" target="weibo">
-当地政府已向郑州富士康派驻工作组（热度：1124477）
 </a>
 </li>
 
@@ -5733,6 +5739,12 @@ RNG对阵LGD第二场弃赛（热度：625301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23" target="weibo">
+中国驻韩使馆发布提醒（热度：624818）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%809%E6%9C%88%E6%94%B6%E5%85%A51.9%E4%BA%BF%E7%BE%8E%E9%87%91%23" target="weibo">
 王者荣耀9月收入1.9亿美金（热度：624486）
 </a>
@@ -5999,18 +6011,6 @@ T1对战EDG（热度：605094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%93%8D%E5%90%8E%E8%85%B9%E7%97%9B%E4%B8%8D%E6%AD%A2%E9%99%A9%E5%8D%B5%E5%B7%A2%E4%B8%8D%E4%BF%9D%23" target="weibo">
 女孩跳操后腹痛不止险卵巢不保（热度：604653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%96%AF%E8%BE%BE%E5%A7%86%E7%8F%80%23" target="weibo">
-王楚钦vs斯达姆珀（热度：603644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E9%85%92%E6%9E%B6%E7%88%B6%E6%AF%8D%E4%B9%B0%E5%8D%95%E5%B8%A6%E5%9B%9E%E5%96%9D%E4%B8%80%E5%AE%BF%23" target="weibo">
-孩子打翻酒架父母买单带回喝一宿（热度：602833）
 </a>
 </li>
 
