@@ -1,0 +1,410 @@
+{
+  "runTime": 1667125472118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2395480,
+        "num": 2395480,
+        "word": "亲历者称有夜店老板见死不救拒开门",
+        "onboard_time": 1667116107,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1944741,
+        "num": 1944741,
+        "word": "富士康称绝对尊重员工个人意愿",
+        "onboard_time": 1667121446,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55216,
+        "num": 1584961,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1427457,
+        "num": 1427457,
+        "word": "韩国梨泰院踩踏事故最新情况",
+        "onboard_time": 1667111545,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 745263,
+        "num": 745263,
+        "word": "她用一条左臂救回一个孩子",
+        "onboard_time": 1667121503,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728331,
+        "num": 728331,
+        "word": "当地政府已向郑州富士康派驻工作组",
+        "onboard_time": 1667102487,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384276,
+        "num": 698821,
+        "word": "梨泰院踩踏事故已致153人死亡",
+        "onboard_time": 1667119886,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 351677,
+        "num": 351677,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1667122706,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345065,
+        "num": 345065,
+        "word": "白鹿王鹤棣以爱为营11月17日开机",
+        "onboard_time": 1667120067,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341460,
+        "num": 341460,
+        "word": "目击者称韩国警方准备不足",
+        "onboard_time": 1667116464,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340974,
+        "num": 341285,
+        "word": "富士康厂区未发生重症感染现象",
+        "onboard_time": 1667123845,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780033,
+        "num": 329192,
+        "word": "网传夏之光出演死亡万花筒",
+        "onboard_time": 1667122764,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491451,
+        "num": 323278,
+        "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+        "onboard_time": 1667121567,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 315370,
+        "num": 315370,
+        "word": "369尽力了",
+        "onboard_time": 1667114906,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249679,
+        "num": 249679,
+        "word": "王一博对布布的表情好丰富",
+        "onboard_time": 1667114367,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320978,
+        "num": 247752,
+        "word": "首尔踩踏事故亲历者",
+        "onboard_time": 1667099308,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 235805,
+        "num": 235805,
+        "word": "武警用切割机给生鸡蛋剥壳",
+        "onboard_time": 1667120665,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222217,
+        "num": 222217,
+        "word": "环卫工捡6万元归还失主扛排骨感谢",
+        "onboard_time": 1667121026,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248823,
+        "num": 211273,
+        "word": "为什么事故会发生在韩国梨泰院",
+        "onboard_time": 1667122946,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 192090,
+        "num": 192090,
+        "word": "陆虎劝王栎鑫结果逐渐鑫化",
+        "onboard_time": 1667121206,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359346,
+        "num": 188237,
+        "word": "富士康",
+        "onboard_time": 1667052623,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226674,
+        "num": 187036,
+        "word": "事故现场部分青年想躲进餐厅酒吧遭拒",
+        "onboard_time": 1667119226,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 183134,
+        "num": 183134,
+        "word": "3名暖心男顾客轮流帮女店主哄娃",
+        "onboard_time": 1667116885,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 176519,
+        "num": 176519,
+        "word": "不得因产假哺乳限制女职工晋职",
+        "onboard_time": 1667112986,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204466,
+        "num": 174685,
+        "word": "韩踩踏事故中已有四名中国公民遇难",
+        "onboard_time": 1667104107,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168004,
+        "num": 168004,
+        "word": "买衣课代表",
+        "onboard_time": 1667120067,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144297,
+        "num": 144297,
+        "word": "母亲深夜背娃卖气球男子全部买走",
+        "onboard_time": 1667124084,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149503,
+        "num": 142599,
+        "word": "韩总统宣布进入国家哀悼期",
+        "onboard_time": 1667096847,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138664,
+        "num": 138664,
+        "word": "新乡WTT世界杯决赛2022",
+        "onboard_time": 1667122764,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120759,
+        "num": 120759,
+        "word": "郑钧曾露宿街头三个月",
+        "onboard_time": 1667121626,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 977777,
+        "num": 117708,
+        "word": "富士康给员工连发三条关爱通知",
+        "onboard_time": 1667123244,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365681,
+        "num": 117207,
+        "word": "梨泰院派出所回应事故是否与毒品有关",
+        "onboard_time": 1667118387,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 114255,
+        "num": 114255,
+        "word": "外卖员回应收1.10元打赏后报警",
+        "onboard_time": 1667113166,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104178,
+        "num": 104178,
+        "word": "河南抗疫互助通道",
+        "onboard_time": 1667125105,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131608,
+        "num": 104097,
+        "word": "韩国踩踏事故亲历者称当时整个人都离地",
+        "onboard_time": 1667124868,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 95508,
+        "num": 95508,
+        "word": "TI11总决赛",
+        "onboard_time": 1667117486,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94674,
+        "num": 94674,
+        "word": "那奇沃夫回应小白",
+        "onboard_time": 1667115746,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94355,
+        "num": 94355,
+        "word": "女生自制服饰还原七仙女经典动作",
+        "onboard_time": 1667123905,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94265,
+        "num": 94265,
+        "word": "梨泰院",
+        "onboard_time": 1667054906,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92672,
+        "num": 92672,
+        "word": "法证先锋5简直是故事会代餐",
+        "onboard_time": 1667124925,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 91231,
+        "word": "蔡文静彭冠英车咚吻害羞到出画",
+        "onboard_time": 1667114725,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90171,
+        "num": 90171,
+        "word": "上海地标古建筑将被5.6亿拍卖",
+        "onboard_time": 1667108247,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89750,
+        "num": 89750,
+        "word": "南京工业大学回应一老师索要回扣",
+        "onboard_time": 1667107466,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85915,
+        "num": 85915,
+        "word": "这醒酒方式挺特别的",
+        "onboard_time": 1667124746,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83326,
+        "num": 83326,
+        "word": "全力以赴确保富士康员工顺利安全返乡",
+        "onboard_time": 1667123668,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81046,
+        "num": 81046,
+        "word": "狗子打针后朝主人鞋撒尿",
+        "onboard_time": 1667108788,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78844,
+        "num": 78844,
+        "word": "网上确认",
+        "onboard_time": 1667097028,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73811,
+        "num": 73811,
+        "word": "同曦男篮vs新疆男篮",
+        "onboard_time": 1667122644,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71114,
+        "num": 71114,
+        "word": "直击韩国踩踏事故现场",
+        "onboard_time": 1667104471,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66813,
+        "num": 66813,
+        "word": "明星校服造型图鉴",
+        "onboard_time": 1667119406,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这次考察立足新的征程#"
+    }
+  }
+}

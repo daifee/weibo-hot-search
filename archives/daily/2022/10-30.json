@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667122717125,
+  "endTime": 1667125472118,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -107,6 +107,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1944741,
+      "num": 1944741,
+      "word": "富士康称绝对尊重员工个人意愿",
+      "onboard_time": 1667121446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1910135,
       "num": 1910135,
       "word": "李宇春父亲回应女儿病情",
@@ -129,6 +137,22 @@
       "onboard_time": 1667055028,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1384276,
+      "num": 698821,
+      "word": "梨泰院踩踏事故已致153人死亡",
+      "onboard_time": 1667119886,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1340974,
+      "num": 341285,
+      "word": "富士康厂区未发生重症感染现象",
+      "onboard_time": 1667123845,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337817,
@@ -161,6 +185,14 @@
       "onboard_time": 1667059948,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 977777,
+      "num": 117708,
+      "word": "富士康给员工连发三条关爱通知",
+      "onboard_time": 1667123244,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896033,
@@ -196,18 +228,10 @@
     },
     {
       "raw_hot": 805350,
-      "num": 112143,
+      "num": 117207,
       "word": "梨泰院派出所回应事故是否与毒品有关",
       "onboard_time": 1667118387,
       "rank": 31,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 799811,
-      "num": 275323,
-      "word": "梨泰院踩踏事故已致153人死亡",
-      "onboard_time": 1667119886,
-      "rank": 33,
       "category": "社会负面"
     },
     {
@@ -217,6 +241,22 @@
       "onboard_time": 1667107466,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 780033,
+      "num": 329192,
+      "word": "网传夏之光出演死亡万花筒",
+      "onboard_time": 1667122764,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 745263,
+      "num": 745263,
+      "word": "她用一条左臂救回一个孩子",
+      "onboard_time": 1667121503,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706701,
@@ -233,14 +273,6 @@
       "onboard_time": 1667090853,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 687549,
-      "num": 292752,
-      "word": "富士康称绝对尊重员工个人意愿",
-      "onboard_time": 1667121446,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 659662,
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491451,
+      "num": 323278,
+      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+      "onboard_time": 1667121567,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351677,
+      "num": 351677,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1667122706,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340426,
       "num": 340426,
       "word": "蔡文静彭冠英车咚吻害羞到出画",
@@ -635,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257081,
-      "num": 99038,
-      "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
-      "onboard_time": 1667121567,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 256032,
       "num": 256032,
       "word": "卖力帮忙的小狗",
@@ -659,6 +699,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 248823,
+      "num": 211273,
+      "word": "为什么事故会发生在韩国梨泰院",
+      "onboard_time": 1667122946,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 245437,
       "num": 245437,
       "word": "小白diss",
@@ -673,6 +721,14 @@
       "onboard_time": 1667054127,
       "rank": 21,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 235805,
+      "num": 235805,
+      "word": "武警用切割机给生鸡蛋剥壳",
+      "onboard_time": 1667120665,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234276,
@@ -699,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222217,
+      "num": 222217,
+      "word": "环卫工捡6万元归还失主扛排骨感谢",
+      "onboard_time": 1667121026,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221526,
       "num": 221526,
       "word": "那奇沃夫",
@@ -721,14 +785,6 @@
       "onboard_time": 1667028202,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214292,
-      "num": 214292,
-      "word": "她用一条左臂救回一个孩子",
-      "onboard_time": 1667121503,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213496,
@@ -827,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183688,
-      "num": 183688,
-      "word": "武警用切割机给生鸡蛋剥壳",
-      "onboard_time": 1667120665,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178327,
       "num": 178327,
       "word": "欧文杜兰特合砍61分",
@@ -899,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160788,
-      "num": 160788,
-      "word": "环卫工捡6万元归还失主扛排骨感谢",
-      "onboard_time": 1667121026,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156562,
       "num": 156562,
       "word": "半决赛质量",
@@ -939,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144297,
+      "num": 144297,
+      "word": "母亲深夜背娃卖气球男子全部买走",
+      "onboard_time": 1667124084,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "蔡徐坤沸腾校园舞台胸震",
@@ -969,6 +1017,14 @@
       "onboard_time": 1667111726,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138664,
+      "num": 138664,
+      "word": "新乡WTT世界杯决赛2022",
+      "onboard_time": 1667122764,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 138386,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1667096189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131608,
+      "num": 104097,
+      "word": "韩国踩踏事故亲历者称当时整个人都离地",
+      "onboard_time": 1667124868,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 131169,
@@ -1163,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104178,
+      "num": 104178,
+      "word": "河南抗疫互助通道",
+      "onboard_time": 1667125105,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103227,
       "num": 103227,
       "word": "马龙vs王楚钦",
@@ -1227,12 +1299,28 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 94355,
+      "num": 94355,
+      "word": "女生自制服饰还原七仙女经典动作",
+      "onboard_time": 1667123905,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94082,
       "num": 94082,
       "word": "三招教你缓解眼干涩",
       "onboard_time": 1667121805,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92672,
+      "num": 92672,
+      "word": "法证先锋5简直是故事会代餐",
+      "onboard_time": 1667124925,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 91080,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1667109208,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85915,
+      "num": 85915,
+      "word": "这醒酒方式挺特别的",
+      "onboard_time": 1667124746,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 85641,
@@ -1329,6 +1425,14 @@
       "onboard_time": 1667038644,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83326,
+      "num": 83326,
+      "word": "全力以赴确保富士康员工顺利安全返乡",
+      "onboard_time": 1667123668,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82525,
@@ -1417,6 +1521,14 @@
       "onboard_time": 1667114305,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73811,
+      "num": 73811,
+      "word": "同曦男篮vs新疆男篮",
+      "onboard_time": 1667122644,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 73599,
@@ -1523,20 +1635,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 58864,
-      "num": 58864,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1667122706,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57378,
       "num": 57378,
       "word": "宣美翻跳Attention",
       "onboard_time": 1667048244,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55216,
+      "num": 1584961,
+      "word": "飞天圆梦",
+      "onboard_time": 1667124987,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 54730,
@@ -1620,6 +1732,9 @@
     },
     {
       "word": "#飞天圆梦#"
+    },
+    {
+      "word": "#总书记这次考察立足新的征程#"
     }
   ]
 }
