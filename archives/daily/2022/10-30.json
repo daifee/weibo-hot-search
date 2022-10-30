@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667143425166,
+  "endTime": 1667144468463,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1228689,
-      "num": 984024,
+      "num": 1108457,
       "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
       "onboard_time": 1667121567,
       "rank": 44,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733330,
+      "num": 527121,
+      "word": "韩国踩踏事故已致154人遇难",
+      "onboard_time": 1667141731,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 708876,
       "num": 708876,
       "word": "孙颖莎4比3陈梦",
@@ -427,20 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 680771,
-      "num": 527121,
-      "word": "韩国踩踏事故已致154人遇难",
-      "onboard_time": 1667141731,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 659662,
       "num": 659662,
       "word": "王楚钦4比3马龙",
       "onboard_time": 1667057372,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638859,
+      "num": 423805,
+      "word": "韩救援力量未能在黄金时间赶到事故现场",
+      "onboard_time": 1667141191,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 638247,
@@ -587,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543282,
+      "num": 543282,
+      "word": "某个瞬间突然就放下了",
+      "onboard_time": 1667140952,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 529588,
       "num": 529588,
       "word": "黑鱼被遗忘洗手间存活11个月掉色",
@@ -651,28 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 471711,
-      "num": 471711,
-      "word": "某个瞬间突然就放下了",
-      "onboard_time": 1667140952,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469305,
       "num": 469305,
       "word": "中国天眼已发现脉冲星超过660颗",
       "onboard_time": 1667103209,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 460470,
-      "num": 392252,
-      "word": "韩救援力量未能在黄金时间赶到事故现场",
-      "onboard_time": 1667141191,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 456779,
@@ -953,6 +953,14 @@
       "onboard_time": 1667121206,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288220,
+      "num": 288220,
+      "word": "TF家族张函瑞翻唱兰亭序",
+      "onboard_time": 1667144070,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287427,
@@ -1563,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128526,
+      "num": 128526,
+      "word": "工作后需明白的十大生存之道",
+      "onboard_time": 1667142272,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127094,
       "num": 90468,
       "word": "Secret晋级TI总决赛",
@@ -1675,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110929,
-      "num": 110929,
-      "word": "工作后需明白的十大生存之道",
-      "onboard_time": 1667142272,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110143,
       "num": 2267629,
       "word": "飞天圆梦",
@@ -1744,6 +1752,14 @@
       "word": "马龙vs王楚钦",
       "onboard_time": 1667050224,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102762,
+      "num": 102762,
+      "word": "王楚钦世界排名升至第3",
+      "onboard_time": 1667144008,
+      "rank": 43,
       "category": "体育"
     },
     {
