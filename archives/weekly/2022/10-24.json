@@ -1,6 +1,6 @@
 {
   "startTime": 1666542993925,
-  "endTime": 1667098933198,
+  "endTime": 1667103006198,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2604628,
+      "num": 2604628,
+      "word": "三名中国公民在韩国踩踏事故中遇难",
+      "onboard_time": 1667096847,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2601654,
       "num": 2601654,
       "word": "林孝埈",
       "onboard_time": 1666963884,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2534523,
-      "num": 2534523,
-      "word": "三名中国公民在韩国踩踏事故中遇难",
-      "onboard_time": 1667096847,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2512088,
@@ -121,6 +121,14 @@
       "onboard_time": 1667085920,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2398074,
+      "num": 879501,
+      "word": "首尔踩踏事故亲历者",
+      "onboard_time": 1667099308,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2368107,
@@ -203,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1975821,
+      "num": 652529,
+      "word": "韩总统宣布进入国家哀悼期",
+      "onboard_time": 1667096847,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1950540,
       "num": 473700,
       "word": "开封巨响",
@@ -249,14 +265,6 @@
       "onboard_time": 1667047223,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1670072,
-      "num": 389275,
-      "word": "韩总统宣布进入国家哀悼期",
-      "onboard_time": 1667096847,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1612839,
@@ -1331,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 706701,
+      "num": 706701,
+      "word": "仙侠剧男主谁婚后出轨可能性最大",
+      "onboard_time": 1667098651,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703451,
       "num": 62044,
       "word": "谈恋爱真的会快乐吗",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1666945464,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547146,
+      "num": 547146,
+      "word": "LPL实力差距",
+      "onboard_time": 1667098468,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 546685,
@@ -3611,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374166,
+      "num": 374166,
+      "word": "王一博街舞5爆炸头错位图",
+      "onboard_time": 1667099611,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374037,
       "num": 374037,
       "word": "很难不被王妃的衣橱惊艳到",
@@ -4155,14 +4187,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 334425,
-      "num": 334425,
-      "word": "仙侠剧男主谁婚后出轨可能性最大",
-      "onboard_time": 1667098651,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 333287,
       "num": 333287,
       "word": "男生用手电照饮料瓶盖买1瓶中9瓶",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1666920142,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 331222,
+      "num": 331222,
+      "word": "马龙说我们都是乒乓大家庭",
+      "onboard_time": 1667100871,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 331126,
@@ -5475,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242776,
+      "num": 146431,
+      "word": "当地政府已向郑州富士康派驻工作组",
+      "onboard_time": 1667102487,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242055,
       "num": 219254,
       "word": "这就是爸妈最社死的瞬间吧",
@@ -6403,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205103,
+      "num": 205103,
+      "word": "中国驻韩使馆发布提醒",
+      "onboard_time": 1667102369,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 205015,
       "num": 205015,
       "word": "林高远2比3波尔",
@@ -6705,6 +6753,14 @@
       "onboard_time": 1666864944,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "交警一把抓住300多斤电缆线卷筒",
+      "onboard_time": 1667101767,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 189585,
@@ -7043,6 +7099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178327,
+      "num": 178327,
+      "word": "欧文杜兰特合砍61分",
+      "onboard_time": 1667098950,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177947,
       "num": 177947,
       "word": "中国好声音上新了越剧季",
@@ -7185,6 +7249,14 @@
       "onboard_time": 1666932684,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170874,
+      "num": 170874,
+      "word": "粉笔模考",
+      "onboard_time": 1667101767,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 170533,
@@ -7851,6 +7923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145853,
+      "num": 145853,
+      "word": "今晚芳心荡漾大结局",
+      "onboard_time": 1667098410,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145779,
       "num": 82383,
       "word": "牛排还能炒着吃",
@@ -7969,6 +8049,14 @@
       "onboard_time": 1666848503,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142583,
+      "num": 142583,
+      "word": "看法证先锋5人菜瘾大",
+      "onboard_time": 1667102070,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 142544,
@@ -8145,6 +8233,14 @@
       "onboard_time": 1666704505,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138386,
+      "num": 138386,
+      "word": "马嘉祺我们的歌蓝色西装剧照",
+      "onboard_time": 1667099910,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137613,
@@ -8819,6 +8915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "专四答案",
+      "onboard_time": 1667101586,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117718,
       "num": 60617,
       "word": "耄耋老夫妻打造小区绿化景观带",
@@ -9081,6 +9185,14 @@
       "onboard_time": 1666830805,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108342,
+      "num": 108342,
+      "word": "天和问天梦天发射01指挥员都是他",
+      "onboard_time": 1667102548,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 108300,
@@ -9657,14 +9769,6 @@
       "onboard_time": 1666884326,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95949,
-      "num": 95949,
-      "word": "LPL实力差距",
-      "onboard_time": 1667098468,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 95709,

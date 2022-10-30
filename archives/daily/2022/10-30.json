@@ -1,6 +1,6 @@
 {
   "startTime": 1667061060650,
-  "endTime": 1667098933198,
+  "endTime": 1667103006198,
   "band_list": [
     {
       "raw_hot": 5810205,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2534523,
-      "num": 2534523,
+      "raw_hot": 2604628,
+      "num": 2604628,
       "word": "三名中国公民在韩国踩踏事故中遇难",
       "onboard_time": 1667096847,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1667085920,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2398074,
+      "num": 879501,
+      "word": "首尔踩踏事故亲历者",
+      "onboard_time": 1667099308,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2260768,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1975821,
+      "num": 652529,
+      "word": "韩总统宣布进入国家哀悼期",
+      "onboard_time": 1667096847,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1910135,
       "num": 1910135,
       "word": "李宇春父亲回应女儿病情",
       "onboard_time": 1667054249,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670072,
-      "num": 389275,
-      "word": "韩总统宣布进入国家哀悼期",
-      "onboard_time": 1667096847,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1612839,
@@ -137,6 +145,14 @@
       "onboard_time": 1667077691,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 706701,
+      "num": 706701,
+      "word": "仙侠剧男主谁婚后出轨可能性最大",
+      "onboard_time": 1667098651,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 696693,
@@ -217,6 +233,14 @@
       "onboard_time": 1667092169,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547146,
+      "num": 547146,
+      "word": "LPL实力差距",
+      "onboard_time": 1667098468,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 529588,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374166,
+      "num": 374166,
+      "word": "王一博街舞5爆炸头错位图",
+      "onboard_time": 1667099611,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373351,
       "num": 373351,
       "word": "独行月球最终票房成绩",
@@ -331,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334425,
-      "num": 334425,
-      "word": "仙侠剧男主谁婚后出轨可能性最大",
-      "onboard_time": 1667098651,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 331222,
+      "num": 331222,
+      "word": "马龙说我们都是乒乓大家庭",
+      "onboard_time": 1667100871,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 309758,
@@ -419,6 +451,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 242776,
+      "num": 146431,
+      "word": "当地政府已向郑州富士康派驻工作组",
+      "onboard_time": 1667102487,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234276,
       "num": 234276,
       "word": "外卖员被打赏1元1角以为求救秒报警",
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205103,
+      "num": 205103,
+      "word": "中国驻韩使馆发布提醒",
+      "onboard_time": 1667102369,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 203815,
       "num": 203815,
       "word": "原来社死也可以复活",
@@ -483,6 +531,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "交警一把抓住300多斤电缆线卷筒",
+      "onboard_time": 1667101767,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 186072,
       "num": 186072,
       "word": "怎么熬过分手的第一个晚上",
@@ -491,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178327,
+      "num": 178327,
+      "word": "欧文杜兰特合砍61分",
+      "onboard_time": 1667098950,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "LPL队伍全部止步S12",
       "onboard_time": 1667091212,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170874,
+      "num": 170874,
+      "word": "粉笔模考",
+      "onboard_time": 1667101767,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 170397,
@@ -531,6 +603,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145853,
+      "num": 145853,
+      "word": "今晚芳心荡漾大结局",
+      "onboard_time": 1667098410,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142583,
+      "num": 142583,
+      "word": "看法证先锋5人菜瘾大",
+      "onboard_time": 1667102070,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "蔡徐坤沸腾校园舞台胸震",
@@ -545,6 +633,14 @@
       "onboard_time": 1667086401,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138386,
+      "num": 138386,
+      "word": "马嘉祺我们的歌蓝色西装剧照",
+      "onboard_time": 1667099910,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137129,
@@ -611,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "专四答案",
+      "onboard_time": 1667101586,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109009,
       "num": 109009,
       "word": "这个字居然要172笔才能写完",
       "onboard_time": 1667043443,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108342,
+      "num": 108342,
+      "word": "天和问天梦天发射01指挥员都是他",
+      "onboard_time": 1667102548,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 105720,
@@ -665,14 +777,6 @@
       "onboard_time": 1667051607,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 95949,
-      "num": 95949,
-      "word": "LPL实力差距",
-      "onboard_time": 1667098468,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 95364,
