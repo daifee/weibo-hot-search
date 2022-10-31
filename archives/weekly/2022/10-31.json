@@ -1,10 +1,10 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667185204607,
+  "endTime": 1667189138065,
   "band_list": [
     {
-      "raw_hot": 2370218,
-      "num": 2370218,
+      "raw_hot": 2539448,
+      "num": 2539448,
       "word": "3D还原梨泰院踩踏事故过程",
       "onboard_time": 1667174845,
       "rank": 3,
@@ -16,6 +16,14 @@
       "word": "19岁女孩梨泰院见将服兵役男友遇难",
       "onboard_time": 1667172802,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1773204,
+      "num": 710204,
+      "word": "迪士尼",
+      "onboard_time": 1667187265,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1348842,
-      "num": 576805,
+      "num": 846347,
       "word": "韩踩踏事故5米长的斜坡挤了300多人",
       "onboard_time": 1667180126,
       "rank": 9,
@@ -60,10 +68,42 @@
     },
     {
       "raw_hot": 1257999,
-      "num": 696586,
+      "num": 712726,
       "word": "梨泰院",
       "onboard_time": 1667174666,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1176011,
+      "num": 1176011,
+      "word": "安陵容不就是蕾哈娜吗",
+      "onboard_time": 1667186965,
+      "rank": 1,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1063136,
+      "num": 626550,
+      "word": "韩警方已取得现场监控视频",
+      "onboard_time": 1667185523,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 942241,
+      "num": 942241,
+      "word": "去迪士尼千万不要扮灰姑娘",
+      "onboard_time": 1667185345,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 932638,
+      "num": 932638,
+      "word": "重庆32岁美女学霸多次相亲未成功",
+      "onboard_time": 1667184684,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -97,6 +137,14 @@
       "onboard_time": 1667134527,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 722470,
+      "num": 722470,
+      "word": "富士康",
+      "onboard_time": 1667052623,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685593,
@@ -139,14 +187,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 559682,
-      "num": 238362,
-      "word": "富士康",
-      "onboard_time": 1667052623,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558930,
       "num": 558930,
       "word": "chovy",
@@ -171,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485927,
+      "num": 485927,
+      "word": "学信网崩了",
+      "onboard_time": 1667184625,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 478045,
       "num": 478045,
       "word": "富士康最新声明",
       "onboard_time": 1667133507,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472995,
+      "num": 472995,
+      "word": "电影坠落确认引进",
+      "onboard_time": 1667184864,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 451561,
@@ -291,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268531,
+      "num": 268531,
+      "word": "奔跑吧共富篇定档11月4日",
+      "onboard_time": 1667185824,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258571,
       "num": 258571,
       "word": "GEN对战DRX",
@@ -371,14 +435,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 218368,
-      "num": 218368,
-      "word": "电影坠落确认引进",
-      "onboard_time": 1667184864,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217146,
       "num": 217146,
       "word": "北京昨增本土确诊16例",
@@ -393,14 +449,6 @@
       "onboard_time": 1667184864,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204110,
-      "num": 204110,
-      "word": "学信网崩了",
-      "onboard_time": 1667184625,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197002,
@@ -427,6 +475,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194147,
+      "num": 194147,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1667184625,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192877,
+      "num": 192877,
+      "word": "这是可以说的官宣定档",
+      "onboard_time": 1667188767,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191722,
+      "num": 191722,
+      "word": "掘金vs湖人",
+      "onboard_time": 1667180603,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191604,
       "num": 177723,
       "word": "想保护森林要多吃鹿肉汉堡",
@@ -443,19 +515,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 187851,
+      "num": 187851,
+      "word": "中国空间站又要扩容了",
+      "onboard_time": 1667182163,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184147,
       "num": 184147,
       "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
       "onboard_time": 1667179945,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181027,
-      "num": 181027,
-      "word": "中国空间站又要扩容了",
-      "onboard_time": 1667182163,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -531,14 +603,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 142257,
-      "num": 142257,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1667184625,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140218,
       "num": 140218,
       "word": "一条plog告别十月",
@@ -571,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132641,
-      "num": 132641,
-      "word": "重庆32岁美女学霸多次相亲未成功",
-      "onboard_time": 1667184684,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 135581,
+      "num": 135581,
+      "word": "贺峻霖惦记了很久终于能发的图片",
+      "onboard_time": 1667185824,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130033,
@@ -593,14 +657,6 @@
       "onboard_time": 1667180546,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129534,
-      "num": 129534,
-      "word": "掘金vs湖人",
-      "onboard_time": 1667180603,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 129299,
@@ -651,12 +707,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116841,
+      "num": 116841,
+      "word": "王一博反转暖心短片",
+      "onboard_time": 1667186244,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115878,
+      "num": 115878,
+      "word": "SAO发售",
+      "onboard_time": 1667187325,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108526,
+      "num": 108526,
+      "word": "女子高速上用豪车骗现金被摁倒",
+      "onboard_time": 1667188526,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107535,
@@ -723,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87686,
+      "num": 87686,
+      "word": "欧阳震华晒最喜欢的表情包",
+      "onboard_time": 1667186725,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87252,
       "num": 87252,
       "word": "她用一条左臂救回一个孩子",
@@ -739,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86722,
+      "num": 86722,
+      "word": "谭松韵告别李妍",
+      "onboard_time": 1667186725,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
       "onboard_time": 1667129906,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80280,
+      "num": 80280,
+      "word": "在韩留学生爬上商家备用凳子脱险",
+      "onboard_time": 1667189125,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 77762,
@@ -865,6 +969,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13818,
+      "num": 503451,
+      "word": "MateXs2支持北斗卫星消息",
+      "onboard_time": 1667186003,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -873,6 +985,9 @@
     },
     {
       "word": "#什么是红旗渠精神#"
+    },
+    {
+      "word": "#会馆有戏#"
     }
   ]
 }
