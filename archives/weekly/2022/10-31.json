@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667190641221,
+  "endTime": 1667194634021,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -107,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1132027,
+      "num": 563848,
+      "word": "在韩留学生爬上商家备用凳子脱险",
+      "onboard_time": 1667189125,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 932638,
       "num": 932638,
       "word": "重庆32岁美女学霸多次相亲未成功",
@@ -147,6 +155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 700409,
+      "num": 417680,
+      "word": "上海迪士尼10月31日起暂时关闭",
+      "onboard_time": 1667192006,
+      "rank": 11,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 685593,
       "num": 518807,
       "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
@@ -177,6 +193,14 @@
       "onboard_time": 1667172860,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606955,
+      "num": 606955,
+      "word": "杨幂乔振宇新剧be美学",
+      "onboard_time": 1667193930,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 562731,
@@ -219,14 +243,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 484610,
-      "num": 484610,
-      "word": "在韩留学生爬上商家备用凳子脱险",
-      "onboard_time": 1667189125,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 478045,
       "num": 478045,
       "word": "富士康最新声明",
@@ -259,12 +275,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 400092,
+      "num": 400092,
+      "word": "郑州富士康对年底iPhone生产影响不大",
+      "onboard_time": 1667190868,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399404,
+      "num": 399404,
+      "word": "富士康对郑州有多重要",
+      "onboard_time": 1667192486,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395670,
       "num": 348246,
       "word": "日本东京涩谷加强安保谨防踩踏事件发生",
       "onboard_time": 1667181206,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393212,
+      "num": 393212,
+      "word": "女子在父亲生日当天梨泰院遇难",
+      "onboard_time": 1667192666,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 383759,
@@ -275,11 +315,27 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 378802,
+      "num": 378802,
+      "word": "威少杀死比赛",
+      "onboard_time": 1667191769,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377650,
       "num": 377650,
       "word": "今冬或现三重拉尼娜事件",
       "onboard_time": 1667130383,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358147,
+      "num": 358147,
+      "word": "女子高速上用豪车骗现金被摁倒",
+      "onboard_time": 1667188526,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -305,6 +361,14 @@
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342785,
+      "num": 342785,
+      "word": "腾讯会议部分功能开始收费",
+      "onboard_time": 1667192849,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 336770,
@@ -339,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285284,
-      "num": 285284,
-      "word": "女子高速上用豪车骗现金被摁倒",
-      "onboard_time": 1667188526,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 284448,
+      "num": 284448,
+      "word": "印度桥梁坍塌事故已致130人死亡",
+      "onboard_time": 1667193083,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 280548,
@@ -353,6 +417,14 @@
       "onboard_time": 1667134107,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278956,
+      "num": 278956,
+      "word": "鞠婧祎红裙拍摄路透",
+      "onboard_time": 1667193985,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270029,
@@ -427,6 +499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 231258,
+      "num": 231258,
+      "word": "杭州草莓音乐节阵容",
+      "onboard_time": 1667190028,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229644,
       "num": 229644,
       "word": "10月30日新增本土确诊479例",
@@ -499,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "杭州草莓音乐节阵容",
-      "onboard_time": 1667190028,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194147,
       "num": 194147,
       "word": "沈阳疫情防控",
@@ -561,6 +633,14 @@
       "onboard_time": 1667179945,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179802,
+      "num": 179802,
+      "word": "王劲松新剧又演的反派吧",
+      "onboard_time": 1667192068,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 177553,
@@ -699,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128474,
+      "num": 128474,
+      "word": "踩踏现场男子自拍被挤压情况",
+      "onboard_time": 1667194464,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 128321,
+      "num": 128321,
+      "word": "减肥课代表来了",
+      "onboard_time": 1667190507,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "10月最后一天",
@@ -779,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106281,
+      "num": 106281,
+      "word": "王铮亮是谐音梗刺客吧",
+      "onboard_time": 1667193566,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105056,
       "num": 105056,
       "word": "郑州富士康员工返乡",
@@ -819,20 +923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93972,
+      "num": 93972,
+      "word": "敦煌有一片能发电的巨型镜子",
+      "onboard_time": 1667194046,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93161,
       "num": 93161,
       "word": "就喜欢这种有底气的真实",
       "onboard_time": 1667177188,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92720,
-      "num": 92720,
-      "word": "减肥课代表来了",
-      "onboard_time": 1667190507,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 91777,
@@ -867,12 +971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85690,
+      "num": 85690,
+      "word": "4月宝宝睡醒哭喊全家一致起身",
+      "onboard_time": 1667194525,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
       "onboard_time": 1667129906,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82538,
+      "num": 82538,
+      "word": "威少18分",
+      "onboard_time": 1667193926,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77762,
@@ -892,7 +1012,7 @@
     },
     {
       "raw_hot": 76116,
-      "num": 76116,
+      "num": 120731,
       "word": "15位青年学者获百万科研大奖",
       "onboard_time": 1667184205,
       "rank": 47,

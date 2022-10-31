@@ -1,0 +1,410 @@
+{
+  "runTime": 1667194634021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1939279,
+        "num": 1939279,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934682,
+        "num": 934682,
+        "word": "去迪士尼千万不要扮灰姑娘",
+        "onboard_time": 1667185345,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13136,
+        "num": 755987,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1209581,
+        "num": 712508,
+        "word": "韩警方已取得现场监控视频",
+        "onboard_time": 1667185523,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 606955,
+        "num": 606955,
+        "word": "杨幂乔振宇新剧be美学",
+        "onboard_time": 1667193930,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570830,
+        "num": 570830,
+        "word": "安陵容不就是蕾哈娜吗",
+        "onboard_time": 1667186965,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1132027,
+        "num": 563848,
+        "word": "在韩留学生爬上商家备用凳子脱险",
+        "onboard_time": 1667189125,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 490528,
+        "num": 490528,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439691,
+        "num": 439691,
+        "word": "重庆32岁美女学霸多次相亲未成功",
+        "onboard_time": 1667184684,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788112,
+        "num": 438326,
+        "word": "19岁女孩梨泰院见将服兵役男友遇难",
+        "onboard_time": 1667172802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873878,
+        "num": 424785,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700409,
+        "num": 417680,
+        "word": "上海迪士尼10月31日起暂时关闭",
+        "onboard_time": 1667192006,
+        "rank": 11,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 642799,
+        "num": 414885,
+        "word": "迪士尼",
+        "onboard_time": 1667187265,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628002,
+        "num": 400508,
+        "word": "韩踩踏事故5米长的斜坡挤了300多人",
+        "onboard_time": 1667180126,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400092,
+        "num": 400092,
+        "word": "郑州富士康对年底iPhone生产影响不大",
+        "onboard_time": 1667190868,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399404,
+        "num": 399404,
+        "word": "富士康对郑州有多重要",
+        "onboard_time": 1667192486,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393212,
+        "num": 393212,
+        "word": "女子在父亲生日当天梨泰院遇难",
+        "onboard_time": 1667192666,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 378802,
+        "num": 378802,
+        "word": "威少杀死比赛",
+        "onboard_time": 1667191769,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365972,
+        "num": 365972,
+        "word": "富士康员工发声",
+        "onboard_time": 1667171840,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358147,
+        "num": 358147,
+        "word": "女子高速上用豪车骗现金被摁倒",
+        "onboard_time": 1667188526,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342785,
+        "num": 342785,
+        "word": "腾讯会议部分功能开始收费",
+        "onboard_time": 1667192849,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339539,
+        "num": 339539,
+        "word": "梨泰院",
+        "onboard_time": 1667174666,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335079,
+        "num": 335079,
+        "word": "董宇辉山东行直播被陌生女子泼水",
+        "onboard_time": 1667177007,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284448,
+        "num": 284448,
+        "word": "印度桥梁坍塌事故已致130人死亡",
+        "onboard_time": 1667193083,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278956,
+        "num": 278956,
+        "word": "鞠婧祎红裙拍摄路透",
+        "onboard_time": 1667193985,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255668,
+        "num": 255668,
+        "word": "学信网崩了",
+        "onboard_time": 1667184625,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 232242,
+        "num": 232242,
+        "word": "中国留学生称曾收到陌生人糖果没吃",
+        "onboard_time": 1667172860,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231258,
+        "num": 231258,
+        "word": "杭州草莓音乐节阵容",
+        "onboard_time": 1667190028,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "电影坠落确认引进",
+        "onboard_time": 1667184864,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179802,
+        "num": 179802,
+        "word": "王劲松新剧又演的反派吧",
+        "onboard_time": 1667192068,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162756,
+        "num": 162756,
+        "word": "李智汉遇难",
+        "onboard_time": 1667137228,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148911,
+        "num": 148911,
+        "word": "这是可以说的官宣定档",
+        "onboard_time": 1667188767,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148381,
+        "num": 148381,
+        "word": "宝爸睡迷糊错把被子当女儿",
+        "onboard_time": 1667175688,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135160,
+        "num": 135160,
+        "word": "Deft的最后一舞",
+        "onboard_time": 1667178625,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128817,
+        "num": 128817,
+        "word": "chovy",
+        "onboard_time": 1667180963,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "踩踏现场男子自拍被挤压情况",
+        "onboard_time": 1667194464,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 128321,
+        "word": "减肥课代表来了",
+        "onboard_time": 1667190507,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123393,
+        "num": 123393,
+        "word": "妈妈用20本日记唤醒植物人女儿",
+        "onboard_time": 1667181987,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 121689,
+        "word": "日本东京涩谷加强安保谨防踩踏事件发生",
+        "onboard_time": 1667181206,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42337,
+        "num": 120731,
+        "word": "15位青年学者获百万科研大奖",
+        "onboard_time": 1667192428,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119976,
+        "num": 119976,
+        "word": "疯狂动物城衍生剧预告",
+        "onboard_time": 1667182405,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 113376,
+        "num": 113376,
+        "word": "奔跑吧共富篇定档11月4日",
+        "onboard_time": 1667185824,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106281,
+        "num": 106281,
+        "word": "王铮亮是谐音梗刺客吧",
+        "onboard_time": 1667193566,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102267,
+        "num": 102267,
+        "word": "95后小伙花2万装修入住毛坯房",
+        "onboard_time": 1667176588,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95330,
+        "num": 95330,
+        "word": "Faker和Deft决赛相遇",
+        "onboard_time": 1667182585,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 93972,
+        "word": "敦煌有一片能发电的巨型镜子",
+        "onboard_time": 1667194046,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90031,
+        "num": 90031,
+        "word": "女孩凌晨走失民警联系家长被拒三次",
+        "onboard_time": 1667172742,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85690,
+        "num": 85690,
+        "word": "4月宝宝睡醒哭喊全家一致起身",
+        "onboard_time": 1667194525,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84633,
+        "num": 84633,
+        "word": "欧阳震华晒最喜欢的表情包",
+        "onboard_time": 1667186725,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82538,
+        "num": 82538,
+        "word": "威少18分",
+        "onboard_time": 1667193926,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是红旗渠精神#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 12:30:41
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 13:37:14
 </p>
 </blockquote>
 <p>
@@ -2135,6 +2135,12 @@ iPhone15将被强制使用USB-C（热度：1134253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%8C%E9%BE%99%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E8%A2%AB%E7%A7%BB%E9%99%A4%23" target="weibo">
 谌龙世界排名被移除（热度：1133539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E7%95%99%E5%AD%A6%E7%94%9F%E7%88%AC%E4%B8%8A%E5%95%86%E5%AE%B6%E5%A4%87%E7%94%A8%E5%87%B3%E5%AD%90%E8%84%B1%E9%99%A9%23" target="weibo">
+在韩留学生爬上商家备用凳子脱险（热度：1132027）
 </a>
 </li>
 
@@ -5037,6 +5043,12 @@ Viper（热度：705111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC10%E6%9C%8831%E6%97%A5%E8%B5%B7%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%23" target="weibo">
+上海迪士尼10月31日起暂时关闭（热度：700409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E5%A5%B3%E5%B0%86%E5%86%9B%E6%9C%89%E8%84%B8%E4%BA%86%23" target="weibo">
 小说里的女将军有脸了（热度：700262）
 </a>
@@ -5999,18 +6011,6 @@ RNG对阵LGD第二场弃赛（热度：625301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23" target="weibo">
 中国驻韩使馆发布提醒（热度：624818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%809%E6%9C%88%E6%94%B6%E5%85%A51.9%E4%BA%BF%E7%BE%8E%E9%87%91%23" target="weibo">
-王者荣耀9月收入1.9亿美金（热度：624486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%A7%B0%E9%81%87%E7%A5%9E%E4%BB%99%E7%A7%9F%E5%AE%A2%E6%89%93%E6%89%AB%E5%BE%97%E4%B8%80%E5%B0%98%E4%B8%8D%E6%9F%93%23" target="weibo">
-房东称遇神仙租客打扫得一尘不染（热度：623900）
 </a>
 </li>
 
