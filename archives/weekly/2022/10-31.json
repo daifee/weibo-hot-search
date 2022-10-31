@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667212023109,
+  "endTime": 1667213057922,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -41,6 +41,14 @@
       "onboard_time": 1667204065,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1667531,
+      "num": 1667531,
+      "word": "原神",
+      "onboard_time": 1667211506,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1651664,
@@ -131,19 +139,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1088129,
-      "num": 1088129,
-      "word": "原神",
-      "onboard_time": 1667211506,
-      "rank": 0,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1046686,
-      "num": 555390,
+      "num": 584543,
       "word": "英国媒体将首尔踩踏事故报道成香港",
       "onboard_time": 1667206584,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038449,
+      "num": 419633,
+      "word": "广州今日已取消888个航班",
+      "onboard_time": 1667210127,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 945921,
-      "num": 328597,
+      "num": 404054,
       "word": "孙笑川",
       "onboard_time": 1667204604,
       "rank": 10,
@@ -184,14 +192,6 @@
       "word": "重庆32岁美女学霸多次相亲未成功",
       "onboard_time": 1667184684,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 911927,
-      "num": 352343,
-      "word": "广州今日已取消888个航班",
-      "onboard_time": 1667210127,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 662189,
+      "num": 415420,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 650812,
       "num": 650812,
       "word": "王楚钦",
@@ -315,6 +323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 607718,
+      "num": 607718,
+      "word": "散兵",
+      "onboard_time": 1667211927,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 587771,
       "num": 432606,
       "word": "富士康对郑州有多重要",
@@ -324,19 +340,11 @@
     },
     {
       "raw_hot": 567029,
-      "num": 345670,
+      "num": 409118,
       "word": "YG新女团BabyMonster将于明年出道",
       "onboard_time": 1667208265,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564422,
-      "num": 337916,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 562731,
@@ -388,11 +396,27 @@
     },
     {
       "raw_hot": 532169,
-      "num": 290714,
+      "num": 328771,
       "word": "梨泰院踩踏事故大规模伤亡原因何在",
       "onboard_time": 1667198305,
       "rank": 40,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 498190,
+      "num": 393635,
+      "word": "韩国踩踏事故遇难者身份已全部确认",
+      "onboard_time": 1667207605,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 493588,
+      "num": 390448,
+      "word": "郑州今日航班取消率接近100%",
+      "onboard_time": 1667210306,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485927,
@@ -451,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433247,
-      "num": 311175,
-      "word": "郑州今日航班取消率接近100%",
-      "onboard_time": 1667210306,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 441502,
+      "num": 441502,
+      "word": "本色出演穷鬼",
+      "onboard_time": 1667209285,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 421537,
@@ -523,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392294,
-      "num": 249745,
-      "word": "韩国踩踏事故遇难者身份已全部确认",
-      "onboard_time": 1667207605,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 386653,
+      "num": 386653,
+      "word": "带带大师兄离婚",
+      "onboard_time": 1667210843,
+      "rank": 22,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 383759,
@@ -571,14 +595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 356286,
-      "num": 356286,
-      "word": "本色出演穷鬼",
-      "onboard_time": 1667209285,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
@@ -609,6 +625,14 @@
       "onboard_time": 1667147063,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332416,
+      "num": 332416,
+      "word": "特斯拉起诉蔡老板胜诉",
+      "onboard_time": 1667210365,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327582,
@@ -643,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310817,
+      "num": 310817,
+      "word": "被爱的时候早睡也会有奖励",
+      "onboard_time": 1667209705,
+      "rank": 19,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 309778,
+      "num": 309778,
+      "word": "突然就看不懂中文了",
+      "onboard_time": 1667211326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305790,
       "num": 305790,
       "word": "男子因照顾独居老人获得上海一套房",
@@ -665,14 +705,6 @@
       "onboard_time": 1667204244,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285012,
-      "num": 285012,
-      "word": "被爱的时候早睡也会有奖励",
-      "onboard_time": 1667209705,
-      "rank": 19,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 284433,
@@ -795,16 +827,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241681,
-      "num": 241681,
-      "word": "带带大师兄离婚",
-      "onboard_time": 1667210843,
-      "rank": 22,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 239503,
-      "num": 193725,
+      "num": 208745,
       "word": "万圣节",
       "onboard_time": 1667206344,
       "rank": 29,
@@ -825,14 +849,6 @@
       "onboard_time": 1667162711,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 231757,
-      "num": 231757,
-      "word": "散兵",
-      "onboard_time": 1667211927,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 231258,
@@ -995,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185476,
-      "num": 185476,
-      "word": "特斯拉起诉蔡老板胜诉",
-      "onboard_time": 1667210365,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184147,
       "num": 184147,
       "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1667181987,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174587,
-      "num": 174587,
-      "word": "突然就看不懂中文了",
-      "onboard_time": 1667211326,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 172300,
@@ -1091,6 +1091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 160986,
+      "num": 160986,
+      "word": "罗云熙吴倩末日情侣既视感",
+      "onboard_time": 1667212766,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159346,
       "num": 159346,
       "word": "和朋友话最少的一次见面",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1667201662,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140271,
+      "num": 140271,
+      "word": "一下子就精通excel了",
+      "onboard_time": 1667212164,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 140218,
@@ -1644,7 +1660,7 @@
     },
     {
       "raw_hot": 20209,
-      "num": 323133,
+      "num": 398937,
       "word": "今年1111都是晚8点了",
       "onboard_time": 1667211085,
       "rank": 14,
