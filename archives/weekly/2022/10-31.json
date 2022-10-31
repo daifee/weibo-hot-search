@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667194634021,
+  "endTime": 1667195464167,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1132027,
-      "num": 563848,
+      "num": 797750,
       "word": "在韩留学生爬上商家备用凳子脱险",
       "onboard_time": 1667189125,
       "rank": 49,
@@ -139,6 +139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 853810,
+      "num": 853810,
+      "word": "上海迪士尼10月31日起暂时关闭",
+      "onboard_time": 1667192006,
+      "rank": 11,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 771341,
       "num": 727742,
       "word": "富士康员工发声",
@@ -155,20 +163,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 700409,
-      "num": 417680,
-      "word": "上海迪士尼10月31日起暂时关闭",
-      "onboard_time": 1667192006,
-      "rank": 11,
-      "category": "社会新闻,社会新闻"
-    },
-    {
       "raw_hot": 685593,
       "num": 518807,
       "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
       "onboard_time": 1667121567,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 677914,
+      "num": 677914,
+      "word": "杨幂乔振宇新剧be美学",
+      "onboard_time": 1667193930,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 662709,
@@ -193,14 +201,6 @@
       "onboard_time": 1667172860,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606955,
-      "num": 606955,
-      "word": "杨幂乔振宇新剧be美学",
-      "onboard_time": 1667193930,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 562731,
@@ -259,12 +259,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464671,
+      "num": 419165,
+      "word": "女子在父亲生日当天梨泰院遇难",
+      "onboard_time": 1667192666,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 451561,
       "num": 451561,
       "word": "某个瞬间突然就放下了",
       "onboard_time": 1667140952,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 432606,
+      "num": 432606,
+      "word": "富士康对郑州有多重要",
+      "onboard_time": 1667192486,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419821,
+      "num": 419821,
+      "word": "腾讯会议部分功能开始收费",
+      "onboard_time": 1667192849,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 408498,
@@ -283,28 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399404,
-      "num": 399404,
-      "word": "富士康对郑州有多重要",
-      "onboard_time": 1667192486,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395670,
       "num": 348246,
       "word": "日本东京涩谷加强安保谨防踩踏事件发生",
       "onboard_time": 1667181206,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393212,
-      "num": 393212,
-      "word": "女子在父亲生日当天梨泰院遇难",
-      "onboard_time": 1667192666,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 383759,
@@ -347,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353756,
+      "num": 353756,
+      "word": "印度桥梁坍塌事故已致130人死亡",
+      "onboard_time": 1667193083,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
@@ -361,14 +377,6 @@
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342785,
-      "num": 342785,
-      "word": "腾讯会议部分功能开始收费",
-      "onboard_time": 1667192849,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 336770,
@@ -401,14 +409,6 @@
       "onboard_time": 1667175688,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284448,
-      "num": 284448,
-      "word": "印度桥梁坍塌事故已致130人死亡",
-      "onboard_time": 1667193083,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 280548,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193069,
+      "num": 143121,
+      "word": "踩踏现场男子自拍被挤压情况",
+      "onboard_time": 1667194464,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 191722,
       "num": 191722,
       "word": "掘金vs湖人",
@@ -723,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140209,
+      "num": 140209,
+      "word": "减肥课代表来了",
+      "onboard_time": 1667190507,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138902,
       "num": 138902,
       "word": "成毅的直播状态",
@@ -777,22 +793,6 @@
       "onboard_time": 1667141191,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128474,
-      "num": 128474,
-      "word": "踩踏现场男子自拍被挤压情况",
-      "onboard_time": 1667194464,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 128321,
-      "num": 128321,
-      "word": "减肥课代表来了",
-      "onboard_time": 1667190507,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 125231,
@@ -859,6 +859,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "网友万圣节cos安陵容",
+      "onboard_time": 1667194883,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112289,
+      "num": 112289,
+      "word": "王铮亮是谐音梗刺客吧",
+      "onboard_time": 1667193566,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111899,
       "num": 111899,
       "word": "欧阳震华晒最喜欢的表情包",
@@ -867,20 +883,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109330,
+      "num": 109330,
+      "word": "4月宝宝睡醒哭喊全家一致起身",
+      "onboard_time": 1667194525,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107535,
       "num": 107535,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106281,
-      "num": 106281,
-      "word": "王铮亮是谐音梗刺客吧",
-      "onboard_time": 1667193566,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 105056,
@@ -897,6 +913,14 @@
       "onboard_time": 1667123244,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100313,
+      "num": 100313,
+      "word": "当猫咪误入女生宿舍",
+      "onboard_time": 1667195065,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 100185,
@@ -921,6 +945,14 @@
       "onboard_time": 1667141552,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94840,
+      "num": 94840,
+      "word": "遭遇踩踏时坚持三要四不要",
+      "onboard_time": 1667194823,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93972,
@@ -969,14 +1001,6 @@
       "onboard_time": 1667186725,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85690,
-      "num": 85690,
-      "word": "4月宝宝睡醒哭喊全家一致起身",
-      "onboard_time": 1667194525,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83656,
