@@ -1,0 +1,410 @@
+{
+  "runTime": 1667208338599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818786,
+        "num": 818786,
+        "word": "欢乐颂全员为乔欣新剧打call",
+        "onboard_time": 1667204664,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565043,
+        "num": 565043,
+        "word": "老师质问家长因学生不会整体认读音节",
+        "onboard_time": 1667205563,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 15179,
+        "num": 433804,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1626305,
+        "num": 428511,
+        "word": "女孩跪地哭喊男朋友不在了",
+        "onboard_time": 1667204065,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 421699,
+        "num": 421699,
+        "word": "董宇辉回应直播时被女子泼水",
+        "onboard_time": 1667197222,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420294,
+        "num": 420294,
+        "word": "老太误将502胶当滴耳液滴满耳道",
+        "onboard_time": 1667206222,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798923,
+        "num": 393989,
+        "word": "你是踩踏事故中夜店老板会开门吗",
+        "onboard_time": 1667199443,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 324364,
+        "num": 324364,
+        "word": "小伙每天1斤白酒患上精神分裂症",
+        "onboard_time": 1667200826,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316205,
+        "num": 316205,
+        "word": "芒果明年待播剧你最期待哪部",
+        "onboard_time": 1667207965,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281696,
+        "num": 281696,
+        "word": "研究称大脑只剩一半也能识字辨人",
+        "onboard_time": 1667201362,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1246775,
+        "num": 280207,
+        "word": "供销社",
+        "onboard_time": 1667204545,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686654,
+        "num": 276456,
+        "word": "在韩留学生爬上商家备用凳子脱险",
+        "onboard_time": 1667189125,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 654965,
+        "num": 273036,
+        "word": "孙笑川",
+        "onboard_time": 1667204604,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 516299,
+        "num": 271989,
+        "word": "罗志祥新歌",
+        "onboard_time": 1667204126,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541961,
+        "num": 269062,
+        "word": "英国媒体将首尔踩踏事故报道成香港",
+        "onboard_time": 1667206584,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290274,
+        "num": 264051,
+        "word": "富士康对郑州有多重要",
+        "onboard_time": 1667192486,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263729,
+        "num": 263729,
+        "word": "田曦薇万圣节兔子警官造型",
+        "onboard_time": 1667205744,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500991,
+        "num": 259225,
+        "word": "梨泰院踩踏事故大规模伤亡原因何在",
+        "onboard_time": 1667198305,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 251194,
+        "num": 251194,
+        "word": "29岁女科学家发6篇Science获百万大奖",
+        "onboard_time": 1667200223,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240715,
+        "num": 240715,
+        "word": "郭柯宇参加再见爱人后有很多追求者",
+        "onboard_time": 1667207965,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305789,
+        "num": 233269,
+        "word": "踩踏现场男子自拍被挤压情况",
+        "onboard_time": 1667194464,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 219223,
+        "num": 219223,
+        "word": "女子遭黄鼠狼拦路咬裤腿不放",
+        "onboard_time": 1667198780,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201914,
+        "num": 201914,
+        "word": "上海迪士尼10月31日起暂时关闭",
+        "onboard_time": 1667192006,
+        "rank": 22,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 207738,
+        "num": 198704,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193937,
+        "num": 193937,
+        "word": "YG新女团BabyMonster将于明年出道",
+        "onboard_time": 1667208265,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193508,
+        "num": 193508,
+        "word": "男子因照顾独居老人获得上海一套房",
+        "onboard_time": 1667206584,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195079,
+        "num": 190568,
+        "word": "韩国踩踏事故遇难者身份已全部确认",
+        "onboard_time": 1667207605,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181881,
+        "num": 181881,
+        "word": "吴尊刘畊宏万圣节聚会合照",
+        "onboard_time": 1667203824,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179105,
+        "num": 179105,
+        "word": "一眼难忘的浓颜系明星",
+        "onboard_time": 1667195724,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174527,
+        "num": 174527,
+        "word": "万圣节",
+        "onboard_time": 1667206344,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "王一博刘雨昕韩庚街舞总决赛同框生图",
+        "onboard_time": 1667204244,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167134,
+        "num": 167134,
+        "word": "BLACKPINK世巡后台合照",
+        "onboard_time": 1667207305,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161205,
+        "num": 161205,
+        "word": "迪士尼",
+        "onboard_time": 1667187265,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148352,
+        "num": 148352,
+        "word": "王楚钦说冠军不是属于某个人的",
+        "onboard_time": 1667202924,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145294,
+        "num": 145294,
+        "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+        "onboard_time": 1667207785,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143969,
+        "num": 143969,
+        "word": "印度桥梁坍塌事故已致130人死亡",
+        "onboard_time": 1667193083,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142106,
+        "num": 142106,
+        "word": "广汽菲克申请破产",
+        "onboard_time": 1667199564,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141608,
+        "num": 141608,
+        "word": "外交部回应梨泰院踩踏事件",
+        "onboard_time": 1667207066,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132940,
+        "num": 132940,
+        "word": "泷泽秀明辞任杰尼斯副社长",
+        "onboard_time": 1667207364,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128741,
+        "num": 128741,
+        "word": "安陵容不就是蕾哈娜吗",
+        "onboard_time": 1667186965,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 134280,
+        "num": 128549,
+        "word": "女子在父亲生日当天梨泰院遇难",
+        "onboard_time": 1667192666,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 120627,
+        "word": "当猫咪误入女生宿舍",
+        "onboard_time": 1667195065,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115869,
+        "num": 115869,
+        "word": "4月宝宝睡醒哭喊全家一致起身",
+        "onboard_time": 1667194525,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106640,
+        "num": 106640,
+        "word": "杨幂乔振宇新剧be美学",
+        "onboard_time": 1667193930,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103998,
+        "num": 103998,
+        "word": "郑州富士康对年底iPhone生产影响不大",
+        "onboard_time": 1667190868,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101457,
+        "num": 101457,
+        "word": "双十一今晚8点付尾款",
+        "onboard_time": 1667200524,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99982,
+        "num": 99982,
+        "word": "李智汉出演的新剧还没拍摄完",
+        "onboard_time": 1667207725,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 99760,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99451,
+        "num": 99451,
+        "word": "去迪士尼千万不要扮灰姑娘",
+        "onboard_time": 1667185345,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是红旗渠精神#"
+    }
+  }
+}
