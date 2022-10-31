@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667241082899,
+  "endTime": 1667242142241,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -2219,8 +2219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21163,
-      "num": 21163,
+      "raw_hot": 24733,
+      "num": 24733,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22340,
+      "num": 22340,
       "word": "我的四大精神支柱",
       "onboard_time": 1667240292,
       "rank": 39,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1667186003,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13765,
+      "num": 15032,
+      "word": "打翻主人麻薯被训斥的猫咪",
+      "onboard_time": 1667242092,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10081,
