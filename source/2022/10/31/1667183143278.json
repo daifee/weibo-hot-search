@@ -1,0 +1,410 @@
+{
+  "runTime": 1667183143278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2035514,
+        "num": 2035514,
+        "word": "19岁女孩梨泰院见将服兵役男友遇难",
+        "onboard_time": 1667172802,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1651664,
+        "num": 1651664,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22534,
+        "num": 1272802,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1982163,
+        "num": 1226832,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903297,
+        "num": 903297,
+        "word": "董宇辉山东行直播被陌生女子泼水",
+        "onboard_time": 1667177007,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 727742,
+        "num": 727742,
+        "word": "富士康员工发声",
+        "onboard_time": 1667171840,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257999,
+        "num": 696586,
+        "word": "梨泰院",
+        "onboard_time": 1667174666,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662709,
+        "num": 662709,
+        "word": "Deft的最后一舞",
+        "onboard_time": 1667178625,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 558930,
+        "num": 558930,
+        "word": "chovy",
+        "onboard_time": 1667180963,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1207161,
+        "num": 553703,
+        "word": "韩踩踏事故5米长的斜坡挤了300多人",
+        "onboard_time": 1667180126,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601651,
+        "num": 548551,
+        "word": "李智汉遇难",
+        "onboard_time": 1667137228,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536553,
+        "num": 536553,
+        "word": "郑州富士康员工发声厂区现状",
+        "onboard_time": 1667178265,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644980,
+        "num": 513153,
+        "word": "中国留学生称曾收到陌生人糖果没吃",
+        "onboard_time": 1667172860,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408498,
+        "num": 408498,
+        "word": "DRX晋级决赛",
+        "onboard_time": 1667177849,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297690,
+        "num": 297690,
+        "word": "宝爸睡迷糊错把被子当女儿",
+        "onboard_time": 1667175688,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281210,
+        "num": 281210,
+        "word": "日本东京涩谷加强安保谨防踩踏事件发生",
+        "onboard_time": 1667181206,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270029,
+        "num": 270029,
+        "word": "95后小伙花2万装修入住毛坯房",
+        "onboard_time": 1667176588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248429,
+        "num": 248429,
+        "word": "郑州富士康党委书记苏东霞回应发文",
+        "onboard_time": 1667139394,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265285,
+        "num": 248253,
+        "word": "在韩留学生万幸决定当晚提前离开",
+        "onboard_time": 1667136145,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238465,
+        "num": 238465,
+        "word": "女孩凌晨走失民警联系家长被拒三次",
+        "onboard_time": 1667172742,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489067,
+        "num": 238362,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229644,
+        "num": 229644,
+        "word": "10月30日新增本土确诊479例",
+        "onboard_time": 1667179107,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196357,
+        "num": 196357,
+        "word": "怎么会有人又年轻又老成",
+        "onboard_time": 1667175267,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173689,
+        "num": 173689,
+        "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
+        "onboard_time": 1667179945,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159346,
+        "num": 159346,
+        "word": "和朋友话最少的一次见面",
+        "onboard_time": 1667178927,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156189,
+        "num": 156189,
+        "word": "唐朝诡事录收官团建",
+        "onboard_time": 1667181806,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139796,
+        "num": 139796,
+        "word": "疯狂动物城衍生剧预告",
+        "onboard_time": 1667182405,
+        "rank": 26,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 138902,
+        "num": 138902,
+        "word": "成毅的直播状态",
+        "onboard_time": 1667174245,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129978,
+        "num": 129978,
+        "word": "GEN止步S12四强",
+        "onboard_time": 1667180546,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "Faker和Deft决赛相遇",
+        "onboard_time": 1667182585,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 123237,
+        "word": "印度一座拉索桥断裂坍塌",
+        "onboard_time": 1667183006,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121161,
+        "num": 121161,
+        "word": "妈妈用20本日记唤醒植物人女儿",
+        "onboard_time": 1667181987,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120798,
+        "num": 120798,
+        "word": "韩救援力量未能在黄金时间赶到事故现场",
+        "onboard_time": 1667141191,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 119181,
+        "num": 119181,
+        "word": "沈月新剧预告",
+        "onboard_time": 1667175384,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118201,
+        "num": 118201,
+        "word": "10月30日新增本土无症状2220例",
+        "onboard_time": 1667181383,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117997,
+        "num": 117997,
+        "word": "韩国踩踏事故亲历者称出酒吧面对一排尸体",
+        "onboard_time": 1667121567,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 111408,
+        "num": 111408,
+        "word": "酣睡橘猫与落叶融为一体",
+        "onboard_time": 1667171177,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107914,
+        "num": 107914,
+        "word": "掘金vs湖人",
+        "onboard_time": 1667180603,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106033,
+        "num": 106033,
+        "word": "韩国踩踏事故已致154人遇难",
+        "onboard_time": 1667141731,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 96897,
+        "num": 96897,
+        "word": "孙女出嫁88岁奶奶偷偷抹泪",
+        "onboard_time": 1667170276,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95951,
+        "num": 95951,
+        "word": "某个瞬间突然就放下了",
+        "onboard_time": 1667140952,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94057,
+        "num": 94057,
+        "word": "易烊千玺四部作品入选五个一工程",
+        "onboard_time": 1667134345,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93161,
+        "num": 93161,
+        "word": "就喜欢这种有底气的真实",
+        "onboard_time": 1667177188,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90149,
+        "num": 90149,
+        "word": "遭投毒百草枯女孩换肺后身体好转",
+        "onboard_time": 1667136628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89854,
+        "num": 89854,
+        "word": "韩国踩踏事故发生在约5米宽斜坡上",
+        "onboard_time": 1667134527,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 85072,
+        "num": 85072,
+        "word": "中国空间站又要扩容了",
+        "onboard_time": 1667182163,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81791,
+        "num": 81791,
+        "word": "女子煲汤忘关火排骨炖成灰",
+        "onboard_time": 1667134107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80865,
+        "num": 80865,
+        "word": "只有中国航天才能取出这么绝的名字",
+        "onboard_time": 1667144848,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 78430,
+        "num": 78430,
+        "word": "王楚钦世界排名升至第3",
+        "onboard_time": 1667144008,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77762,
+        "num": 77762,
+        "word": "詹雯婷张远合唱嘉宾",
+        "onboard_time": 1667174604,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这次考察立足新的征程#"
+    }
+  }
+}
