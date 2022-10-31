@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667215314487,
+  "endTime": 1667216292512,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -43,6 +43,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1671429,
+      "num": 1671429,
+      "word": "广州今日已取消888个航班",
+      "onboard_time": 1667210127,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1667531,
       "num": 1667531,
       "word": "原神",
@@ -56,14 +64,6 @@
       "word": "广州新增本土确诊232例无症状295例",
       "onboard_time": 1667180726,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1637768,
-      "num": 1637768,
-      "word": "广州今日已取消888个航班",
-      "onboard_time": 1667210127,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -235,12 +235,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 823750,
+      "num": 432740,
+      "word": "带带大师兄离婚",
+      "onboard_time": 1667210843,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 818786,
       "num": 818786,
       "word": "欢乐颂全员为乔欣新剧打call",
       "onboard_time": 1667204664,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 777311,
+      "num": 596366,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 771341,
@@ -275,28 +291,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 685376,
-      "num": 432740,
-      "word": "带带大师兄离婚",
-      "onboard_time": 1667210843,
-      "rank": 22,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 677914,
       "num": 677914,
       "word": "杨幂乔振宇新剧be美学",
       "onboard_time": 1667193930,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 666861,
-      "num": 596366,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 664014,
@@ -419,6 +419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 503553,
+      "num": 503553,
+      "word": "突然就看不懂中文了",
+      "onboard_time": 1667211326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 498696,
       "num": 426117,
       "word": "韩国踩踏事故遇难者身份已全部确认",
@@ -499,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 425998,
-      "num": 425998,
-      "word": "突然就看不懂中文了",
-      "onboard_time": 1667211326,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 421537,
       "num": 359420,
       "word": "易烊千玺怼脸六宫格",
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390776,
+      "num": 390776,
+      "word": "王一博今晚直播截图",
+      "onboard_time": 1667215524,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "男女平等基本国策被纳入国民教育体系",
@@ -593,6 +601,14 @@
       "onboard_time": 1667130383,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359006,
+      "num": 359006,
+      "word": "张庭陶虹等涉嫌网络传销案将开听证会",
+      "onboard_time": 1667215764,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 358147,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235401,
+      "num": 235401,
+      "word": "一下子就精通excel了",
+      "onboard_time": 1667212164,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 232558,
       "num": 232558,
       "word": "两男子冒充被推特解雇员工接受采访",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1667179945,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180308,
-      "num": 180308,
-      "word": "一下子就精通excel了",
-      "onboard_time": 1667212164,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 179802,
@@ -1347,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117210,
+      "num": 114028,
+      "word": "韩国警方打击事故相关网络谣言",
+      "onboard_time": 1667215826,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1667184205,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 75158,
+      "num": 75158,
+      "word": "原神流浪者",
+      "onboard_time": 1667215406,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 66859,
