@@ -1,0 +1,410 @@
+{
+  "runTime": 1667212023109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088129,
+        "num": 1088129,
+        "word": "原神",
+        "onboard_time": 1667211506,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 854895,
+        "num": 854895,
+        "word": "老师质问家长因学生不会整体认读音节",
+        "onboard_time": 1667205563,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 14384,
+        "num": 794746,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1672564,
+        "num": 790900,
+        "word": "女孩跪地哭喊男朋友不在了",
+        "onboard_time": 1667204065,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 759444,
+        "num": 759444,
+        "word": "老太误将502胶当滴耳液滴满耳道",
+        "onboard_time": 1667206222,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562560,
+        "num": 562560,
+        "word": "王鹤棣方坚决抵制一切私生行为",
+        "onboard_time": 1667210784,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046686,
+        "num": 555390,
+        "word": "英国媒体将首尔踩踏事故报道成香港",
+        "onboard_time": 1667206584,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536589,
+        "num": 536589,
+        "word": "网传2022年金鹰女神取消",
+        "onboard_time": 1667209826,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423830,
+        "num": 423830,
+        "word": "欢乐颂全员为乔欣新剧打call",
+        "onboard_time": 1667204664,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356286,
+        "num": 356286,
+        "word": "本色出演穷鬼",
+        "onboard_time": 1667209285,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 911927,
+        "num": 352343,
+        "word": "广州今日已取消888个航班",
+        "onboard_time": 1667210127,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565190,
+        "num": 345670,
+        "word": "YG新女团BabyMonster将于明年出道",
+        "onboard_time": 1667208265,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564422,
+        "num": 337916,
+        "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+        "onboard_time": 1667207785,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 541163,
+        "num": 328597,
+        "word": "孙笑川",
+        "onboard_time": 1667204604,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20209,
+        "num": 323133,
+        "word": "今年1111都是晚8点了",
+        "onboard_time": 1667211085,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550253,
+        "num": 319714,
+        "word": "你是踩踏事故中夜店老板会开门吗",
+        "onboard_time": 1667199443,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 433247,
+        "num": 311175,
+        "word": "郑州今日航班取消率接近100%",
+        "onboard_time": 1667210306,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305790,
+        "num": 305790,
+        "word": "男子因照顾独居老人获得上海一套房",
+        "onboard_time": 1667206584,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399466,
+        "num": 295990,
+        "word": "在韩留学生爬上商家备用凳子脱险",
+        "onboard_time": 1667189125,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285012,
+        "num": 285012,
+        "word": "被爱的时候早睡也会有奖励",
+        "onboard_time": 1667209705,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 255169,
+        "num": 255169,
+        "word": "罗志祥新歌",
+        "onboard_time": 1667204126,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392294,
+        "num": 249745,
+        "word": "韩国踩踏事故遇难者身份已全部确认",
+        "onboard_time": 1667207605,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 241681,
+        "num": 241681,
+        "word": "带带大师兄离婚",
+        "onboard_time": 1667210843,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 231757,
+        "num": 231757,
+        "word": "散兵",
+        "onboard_time": 1667211927,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335154,
+        "num": 228421,
+        "word": "梨泰院踩踏事故大规模伤亡原因何在",
+        "onboard_time": 1667198305,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 223509,
+        "num": 223509,
+        "word": "富士康对郑州有多重要",
+        "onboard_time": 1667192486,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213193,
+        "num": 213193,
+        "word": "郭柯宇参加再见爱人后有很多追求者",
+        "onboard_time": 1667207965,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274868,
+        "num": 213165,
+        "word": "外交部回应梨泰院踩踏事件",
+        "onboard_time": 1667207066,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 212839,
+        "num": 212839,
+        "word": "芒果明年待播剧你最期待哪部",
+        "onboard_time": 1667207965,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204574,
+        "num": 204574,
+        "word": "董宇辉回应直播时被女子泼水",
+        "onboard_time": 1667197222,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444243,
+        "num": 196612,
+        "word": "供销社",
+        "onboard_time": 1667204545,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239503,
+        "num": 193725,
+        "word": "万圣节",
+        "onboard_time": 1667206344,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185476,
+        "num": 185476,
+        "word": "特斯拉起诉蔡老板胜诉",
+        "onboard_time": 1667210365,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181505,
+        "num": 181505,
+        "word": "小伙每天1斤白酒患上精神分裂症",
+        "onboard_time": 1667200826,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196259,
+        "num": 179793,
+        "word": "踩踏现场男子自拍被挤压情况",
+        "onboard_time": 1667194464,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 174587,
+        "num": 174587,
+        "word": "突然就看不懂中文了",
+        "onboard_time": 1667211326,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150107,
+        "num": 150107,
+        "word": "研究称大脑只剩一半也能识字辨人",
+        "onboard_time": 1667201362,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145016,
+        "num": 145016,
+        "word": "田曦薇万圣节兔子警官造型",
+        "onboard_time": 1667205744,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139807,
+        "num": 139807,
+        "word": "一眼难忘的浓颜系明星",
+        "onboard_time": 1667195724,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139445,
+        "num": 139445,
+        "word": "迪士尼",
+        "onboard_time": 1667187265,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138187,
+        "num": 138187,
+        "word": "女子遭黄鼠狼拦路咬裤腿不放",
+        "onboard_time": 1667198780,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123583,
+        "num": 123583,
+        "word": "上海迪士尼10月31日起暂时关闭",
+        "onboard_time": 1667192006,
+        "rank": 41,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "双十一",
+        "onboard_time": 1667211026,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117965,
+        "num": 117965,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114710,
+        "num": 114710,
+        "word": "王一博刘雨昕韩庚街舞总决赛同框生图",
+        "onboard_time": 1667204244,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113695,
+        "num": 113695,
+        "word": "八点之前的我",
+        "onboard_time": 1667210306,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 109918,
+        "num": 109918,
+        "word": "BLACKPINK世巡后台合照",
+        "onboard_time": 1667207305,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104651,
+        "num": 104651,
+        "word": "29岁女科学家发6篇Science获百万大奖",
+        "onboard_time": 1667200223,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96334,
+        "num": 96334,
+        "word": "当猫咪误入女生宿舍",
+        "onboard_time": 1667195065,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93398,
+        "num": 93398,
+        "word": "李智汉出演的新剧还没拍摄完",
+        "onboard_time": 1667207725,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#梦天实验舱发射成功#"
+    }
+  }
+}

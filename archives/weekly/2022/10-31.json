@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667209333902,
+  "endTime": 1667212023109,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -35,20 +35,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1672564,
+      "num": 790900,
+      "word": "女孩跪地哭喊男朋友不在了",
+      "onboard_time": 1667204065,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1651664,
       "num": 1651664,
       "word": "广州新增本土确诊232例无症状295例",
       "onboard_time": 1667180726,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1626305,
-      "num": 641478,
-      "word": "女孩跪地哭喊男朋友不在了",
-      "onboard_time": 1667204065,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1509098,
@@ -131,6 +131,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1088129,
+      "num": 1088129,
+      "word": "原神",
+      "onboard_time": 1667211506,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1046686,
+      "num": 555390,
+      "word": "英国媒体将首尔踩踏事故报道成香港",
+      "onboard_time": 1667206584,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033728,
       "num": 536321,
       "word": "你是踩踏事故中夜店老板会开门吗",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 945921,
-      "num": 294867,
+      "num": 328597,
       "word": "孙笑川",
       "onboard_time": 1667204604,
       "rank": 10,
@@ -168,6 +184,14 @@
       "word": "重庆32岁美女学霸多次相亲未成功",
       "onboard_time": 1667184684,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911927,
+      "num": 352343,
+      "word": "广州今日已取消888个航班",
+      "onboard_time": 1667210127,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -195,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 857971,
-      "num": 315148,
-      "word": "英国媒体将首尔踩踏事故报道成香港",
-      "onboard_time": 1667206584,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 854895,
+      "num": 854895,
+      "word": "老师质问家长因学生不会整体认读音节",
+      "onboard_time": 1667205563,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 818786,
@@ -219,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759444,
+      "num": 759444,
+      "word": "老太误将502胶当滴耳液滴满耳道",
+      "onboard_time": 1667206222,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732297,
       "num": 459182,
       "word": "韩国踩踏事故发生在约5米宽斜坡上",
       "onboard_time": 1667134527,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 727680,
-      "num": 727680,
-      "word": "老师质问家长因学生不会整体认读音节",
-      "onboard_time": 1667205563,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 685593,
@@ -291,14 +315,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 619519,
-      "num": 619519,
-      "word": "老太误将502胶当滴耳液滴满耳道",
-      "onboard_time": 1667206222,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587771,
       "num": 432606,
       "word": "富士康对郑州有多重要",
@@ -308,11 +324,19 @@
     },
     {
       "raw_hot": 567029,
-      "num": 258316,
+      "num": 345670,
       "word": "YG新女团BabyMonster将于明年出道",
       "onboard_time": 1667208265,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564422,
+      "num": 337916,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 562731,
@@ -321,6 +345,14 @@
       "onboard_time": 1667141191,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 562560,
+      "num": 562560,
+      "word": "王鹤棣方坚决抵制一切私生行为",
+      "onboard_time": 1667210784,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 558930,
@@ -337,6 +369,14 @@
       "onboard_time": 1667123845,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536589,
+      "num": 536589,
+      "word": "网传2022年金鹰女神取消",
+      "onboard_time": 1667209826,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 536553,
@@ -411,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 433247,
+      "num": 311175,
+      "word": "郑州今日航班取消率接近100%",
+      "onboard_time": 1667210306,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421537,
       "num": 359420,
       "word": "易烊千玺怼脸六宫格",
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392294,
+      "num": 249745,
+      "word": "韩国踩踏事故遇难者身份已全部确认",
+      "onboard_time": 1667207605,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "男女平等基本国策被纳入国民教育体系",
@@ -513,6 +569,14 @@
       "onboard_time": 1667182585,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 356286,
+      "num": 356286,
+      "word": "本色出演穷鬼",
+      "onboard_time": 1667209285,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 349008,
@@ -579,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305790,
+      "num": 305790,
+      "word": "男子因照顾独居老人获得上海一套房",
+      "onboard_time": 1667206584,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297690,
       "num": 297690,
       "word": "宝爸睡迷糊错把被子当女儿",
@@ -593,6 +665,14 @@
       "onboard_time": 1667204244,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285012,
+      "num": 285012,
+      "word": "被爱的时候早睡也会有奖励",
+      "onboard_time": 1667209705,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 284433,
@@ -611,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279086,
-      "num": 229273,
-      "word": "韩国踩踏事故遇难者身份已全部确认",
-      "onboard_time": 1667207605,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 278956,
       "num": 278956,
       "word": "鞠婧祎红裙拍摄路透",
@@ -633,6 +705,14 @@
       "onboard_time": 1667207965,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274868,
+      "num": 213165,
+      "word": "外交部回应梨泰院踩踏事件",
+      "onboard_time": 1667207066,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 270029,
@@ -657,14 +737,6 @@
       "onboard_time": 1667171899,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256299,
-      "num": 183265,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 254607,
@@ -723,19 +795,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241681,
+      "num": 241681,
+      "word": "带带大师兄离婚",
+      "onboard_time": 1667210843,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 239503,
+      "num": 193725,
+      "word": "万圣节",
+      "onboard_time": 1667206344,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238465,
       "num": 238465,
       "word": "女孩凌晨走失民警联系家长被拒三次",
       "onboard_time": 1667172742,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235585,
-      "num": 235585,
-      "word": "男子因照顾独居老人获得上海一套房",
-      "onboard_time": 1667206584,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -745,6 +825,14 @@
       "onboard_time": 1667162711,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 231757,
+      "word": "散兵",
+      "onboard_time": 1667211927,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 231258,
@@ -811,28 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207638,
-      "num": 163954,
-      "word": "外交部回应梨泰院踩踏事件",
-      "onboard_time": 1667207066,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 206651,
       "num": 206651,
       "word": "严浩翔的低音",
       "onboard_time": 1667184864,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204294,
-      "num": 174527,
-      "word": "万圣节",
-      "onboard_time": 1667206344,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 201490,
@@ -923,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185476,
+      "num": 185476,
+      "word": "特斯拉起诉蔡老板胜诉",
+      "onboard_time": 1667210365,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184147,
       "num": 184147,
       "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
@@ -953,6 +1033,14 @@
       "onboard_time": 1667181987,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174587,
+      "num": 174587,
+      "word": "突然就看不懂中文了",
+      "onboard_time": 1667211326,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 172300,
@@ -1163,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123570,
+      "num": 123570,
+      "word": "双十一",
+      "onboard_time": 1667211026,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122393,
       "num": 122393,
       "word": "成毅直播模仿emoji",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113695,
+      "num": 113695,
+      "word": "八点之前的我",
+      "onboard_time": 1667210306,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 112289,
@@ -1403,14 +1507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83625,
-      "num": 83625,
-      "word": "本色出演穷鬼",
-      "onboard_time": 1667209285,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82538,
       "num": 82538,
       "word": "威少18分",
@@ -1543,6 +1639,14 @@
       "num": 283496,
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
       "onboard_time": 1667199681,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20209,
+      "num": 323133,
+      "word": "今年1111都是晚8点了",
+      "onboard_time": 1667211085,
       "rank": 14,
       "category": "社会新闻"
     },
