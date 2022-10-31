@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667234181969,
+  "endTime": 1667235865441,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246644,
+      "num": 158625,
+      "word": "单依纯姚贝娜跨时空对唱心火",
+      "onboard_time": 1667234361,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234165,
       "num": 234165,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -163,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 171724,
+      "num": 155903,
+      "word": "微信团队就零钱通崩了致歉",
+      "onboard_time": 1667232383,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 166323,
       "num": 151414,
       "word": "这就是民国大小姐本人吧",
@@ -177,14 +193,6 @@
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 154473,
-      "num": 115205,
-      "word": "微信团队就零钱通崩了致歉",
-      "onboard_time": 1667232383,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 144485,
@@ -393,6 +401,22 @@
       "onboard_time": 1667226269,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42693,
+      "num": 42693,
+      "word": "乔欣马思超新剧刚开播就亲上了",
+      "onboard_time": 1667235619,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 38296,
+      "num": 42044,
+      "word": "女生入职第一天被公司要求刷厕所",
+      "onboard_time": 1667235860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6190,
