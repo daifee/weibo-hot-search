@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667216292512,
+  "endTime": 1667220736371,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -8,6 +8,14 @@
       "word": "3D还原梨泰院踩踏事故过程",
       "onboard_time": 1667174845,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2313402,
+      "num": 2313402,
+      "word": "退款",
+      "onboard_time": 1667219243,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1650867,
+      "num": 1650867,
+      "word": "张庭陶虹等涉嫌网络传销案将开听证会",
+      "onboard_time": 1667215764,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1509098,
       "num": 1509098,
       "word": "在韩留学生万幸决定当晚提前离开",
@@ -104,6 +120,14 @@
       "word": "郑州富士康党委书记苏东霞回应发文",
       "onboard_time": 1667139394,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1323644,
+      "num": 1323644,
+      "word": "尾款",
+      "onboard_time": 1667219304,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -523,6 +547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 412253,
+      "num": 412253,
+      "word": "女子走进宿舍床上惊现一头猪",
+      "onboard_time": 1667218103,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410904,
       "num": 410904,
       "word": "一眼难忘的浓颜系明星",
@@ -579,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384511,
+      "num": 313585,
+      "word": "韩国警方打击事故相关网络谣言",
+      "onboard_time": 1667215826,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "男女平等基本国策被纳入国民教育体系",
@@ -601,14 +641,6 @@
       "onboard_time": 1667130383,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359006,
-      "num": 359006,
-      "word": "张庭陶虹等涉嫌网络传销案将开听证会",
-      "onboard_time": 1667215764,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 358147,
@@ -723,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284492,
+      "num": 229551,
+      "word": "踩踏发生有人误认救护车是cosplay",
+      "onboard_time": 1667218764,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 284433,
       "num": 263729,
       "word": "田曦薇万圣节兔子警官造型",
@@ -825,6 +865,14 @@
       "onboard_time": 1667126966,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247131,
+      "num": 247131,
+      "word": "Jennie跳了Lisa的Money",
+      "onboard_time": 1667216366,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 246460,
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196664,
+      "num": 196664,
+      "word": "马斯克成推特唯一董事",
+      "onboard_time": 1667217085,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 196357,
       "num": 196357,
       "word": "怎么会有人又年轻又老成",
@@ -992,6 +1048,14 @@
       "word": "沈阳疫情防控",
       "onboard_time": 1667184625,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193636,
+      "num": 193636,
+      "word": "双十一",
+      "onboard_time": 1667211026,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 144410,
+      "num": 144410,
+      "word": "韩国警方回应防范不力批评",
+      "onboard_time": 1667220145,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 143722,
       "num": 143722,
       "word": "亲历韩国踩踏事故中国留学生发声",
@@ -1299,12 +1371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123570,
-      "num": 123570,
-      "word": "双十一",
-      "onboard_time": 1667211026,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 122470,
+      "num": 122470,
+      "word": "宋茜陈星旭拍戏时被羊驼吐口水",
+      "onboard_time": 1667217204,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122393,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1667214923,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117210,
-      "num": 114028,
-      "word": "韩国警方打击事故相关网络谣言",
-      "onboard_time": 1667215826,
-      "rank": 39,
-      "category": "社会负面"
     },
     {
       "raw_hot": 115723,
@@ -1531,6 +1595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91384,
+      "num": 236859,
+      "word": "六旬父亲听到儿子隔空喊话高兴起舞",
+      "onboard_time": 1667217625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90599,
+      "num": 90599,
+      "word": "男朋友是懂自己找台阶下的",
+      "onboard_time": 1667219966,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87252,
       "num": 87252,
       "word": "她用一条左臂救回一个孩子",
@@ -1555,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85103,
+      "num": 85103,
+      "word": "泡面刺客真的好贵",
+      "onboard_time": 1667220025,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85014,
       "num": 85014,
       "word": "梦天实验舱",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1667193926,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81588,
+      "num": 81588,
+      "word": "犒劳式消费",
+      "onboard_time": 1667218042,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 77762,
@@ -1609,6 +1705,14 @@
       "onboard_time": 1667215406,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70295,
+      "num": 70295,
+      "word": "洗发水",
+      "onboard_time": 1667220025,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 66859,
@@ -1667,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54761,
+      "num": 54761,
+      "word": "脱口秀大会5官宣刘震云加盟",
+      "onboard_time": 1667219725,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54551,
       "num": 54551,
       "word": "谢谢你医生定档1104",
@@ -1700,7 +1812,7 @@
     },
     {
       "raw_hot": 44488,
-      "num": 1272802,
+      "num": 1335448,
       "word": "飞天圆梦",
       "onboard_time": 1667124987,
       "rank": 2,
