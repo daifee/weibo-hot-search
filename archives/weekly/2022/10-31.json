@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667242142241,
+  "endTime": 1667243922898,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -2195,6 +2195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 43877,
+      "num": 31221,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43654,
       "num": 329035,
       "word": "4K升格镜头看梦天发射",
@@ -2216,14 +2224,6 @@
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
       "onboard_time": 1667199681,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24733,
-      "num": 24733,
-      "word": "女子回应背娃卖气球贴补家用",
-      "onboard_time": 1667240593,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2259,20 +2259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15777,
+      "num": 15777,
+      "word": "打翻主人麻薯被训斥的猫咪",
+      "onboard_time": 1667242092,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13818,
       "num": 503451,
       "word": "MateXs2支持北斗卫星消息",
       "onboard_time": 1667186003,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13765,
-      "num": 15032,
-      "word": "打翻主人麻薯被训斥的猫咪",
-      "onboard_time": 1667242092,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 10081,

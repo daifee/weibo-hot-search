@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667242142241,
+  "endTime": 1667243922898,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -427,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43877,
+      "num": 31221,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42693,
       "num": 42693,
       "word": "乔欣马思超新剧刚开播就亲上了",
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24733,
-      "num": 24733,
-      "word": "女子回应背娃卖气球贴补家用",
-      "onboard_time": 1667240593,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22340,
@@ -459,8 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13765,
-      "num": 15032,
+      "raw_hot": 15777,
+      "num": 15777,
       "word": "打翻主人麻薯被训斥的猫咪",
       "onboard_time": 1667242092,
       "rank": 49,
