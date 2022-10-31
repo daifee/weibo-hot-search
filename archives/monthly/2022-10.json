@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667213057922,
+  "endTime": 1667215314487,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1672564,
-      "num": 790900,
+      "num": 862761,
       "word": "女孩跪地哭喊男朋友不在了",
       "onboard_time": 1667204065,
       "rank": 30,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1664611944,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1637768,
+      "num": 1637768,
+      "word": "广州今日已取消888个航班",
+      "onboard_time": 1667210127,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1630781,
@@ -3307,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056629,
+      "num": 1056629,
+      "word": "散兵",
+      "onboard_time": 1667211927,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1056427,
       "num": 1056427,
       "word": "男子打包1份6元面装走半袋大蒜",
@@ -3425,14 +3441,6 @@
       "onboard_time": 1667048727,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1038449,
-      "num": 419633,
-      "word": "广州今日已取消888个航班",
-      "onboard_time": 1667210127,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1038394,
@@ -4052,7 +4060,7 @@
     },
     {
       "raw_hot": 945921,
-      "num": 404054,
+      "num": 428637,
       "word": "孙笑川",
       "onboard_time": 1667204604,
       "rank": 10,
@@ -7059,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685376,
+      "num": 432740,
+      "word": "带带大师兄离婚",
+      "onboard_time": 1667210843,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 684502,
       "num": 684502,
       "word": "女婿给岳父塞5千回家发现1万红包",
@@ -7323,6 +7339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 666861,
+      "num": 596366,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 666663,
       "num": 165418,
       "word": "北溪管道遭破坏处水下实景首次曝光",
@@ -7441,14 +7465,6 @@
       "onboard_time": 1665283584,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 662189,
-      "num": 415420,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 661160,
@@ -7955,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633298,
+      "num": 633298,
+      "word": "郑州今日航班取消率接近100%",
+      "onboard_time": 1667210306,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632962,
       "num": 145138,
       "word": "梁靖崑3比2林高远",
@@ -8401,14 +8425,6 @@
       "onboard_time": 1666761565,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607718,
-      "num": 607718,
-      "word": "散兵",
-      "onboard_time": 1667211927,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 607641,
@@ -9300,7 +9316,7 @@
     },
     {
       "raw_hot": 567029,
-      "num": 409118,
+      "num": 426543,
       "word": "YG新女团BabyMonster将于明年出道",
       "onboard_time": 1667208265,
       "rank": 24,
@@ -11195,8 +11211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 498190,
-      "num": 393635,
+      "raw_hot": 498696,
+      "num": 426117,
       "word": "韩国踩踏事故遇难者身份已全部确认",
       "onboard_time": 1667207605,
       "rank": 26,
@@ -11347,11 +11363,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 493588,
-      "num": 390448,
-      "word": "郑州今日航班取消率接近100%",
-      "onboard_time": 1667210306,
-      "rank": 16,
+      "raw_hot": 493110,
+      "num": 493110,
+      "word": "特斯拉起诉蔡老板胜诉",
+      "onboard_time": 1667210365,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -13699,6 +13715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425998,
+      "num": 425998,
+      "word": "突然就看不懂中文了",
+      "onboard_time": 1667211326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425851,
       "num": 336937,
       "word": "宋雨琦叶舒华泰国杂志画报",
@@ -15641,14 +15665,6 @@
       "onboard_time": 1666315703,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386653,
-      "num": 386653,
-      "word": "带带大师兄离婚",
-      "onboard_time": 1667210843,
-      "rank": 22,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 386578,
@@ -18403,14 +18419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332416,
-      "num": 332416,
-      "word": "特斯拉起诉蔡老板胜诉",
-      "onboard_time": 1667210365,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332195,
       "num": 67036,
       "word": "TI11刀圈春晚",
@@ -19625,14 +19633,6 @@
       "onboard_time": 1666138345,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 309778,
-      "num": 309778,
-      "word": "突然就看不懂中文了",
-      "onboard_time": 1667211326,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 309758,
@@ -31075,6 +31075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180308,
+      "num": 180308,
+      "word": "一下子就精通excel了",
+      "onboard_time": 1667212164,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 180301,
       "num": 180301,
       "word": "内娱国风氛围感大赏",
@@ -32409,6 +32417,14 @@
       "onboard_time": 1665117084,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168184,
+      "num": 168184,
+      "word": "八点之前的我",
+      "onboard_time": 1667210306,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168137,
@@ -35251,6 +35267,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "脑子转最快的一次",
+      "onboard_time": 1667213245,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 144337,
       "num": 144337,
       "word": "郑钧用肚子表演翻江倒海",
@@ -35825,14 +35849,6 @@
       "onboard_time": 1664627903,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140271,
-      "num": 140271,
-      "word": "一下子就精通excel了",
-      "onboard_time": 1667212164,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 140218,
@@ -39043,6 +39059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117438,
+      "num": 117438,
+      "word": "原神珐露珊",
+      "onboard_time": 1667214923,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117405,
       "num": 117405,
       "word": "谁能拒绝爱跳舞的小狗呢",
@@ -39497,14 +39521,6 @@
       "onboard_time": 1665704722,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113695,
-      "num": 113695,
-      "word": "八点之前的我",
-      "onboard_time": 1667210306,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 113526,
@@ -41921,6 +41937,14 @@
       "onboard_time": 1667004143,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98618,
+      "num": 98618,
+      "word": "王一博街舞5合照",
+      "onboard_time": 1667215164,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 98564,
@@ -50609,6 +50633,14 @@
       "onboard_time": 1665610691,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7048,
+      "num": 426135,
+      "word": "双十一被我拿捏了",
+      "onboard_time": 1667214026,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 7038,

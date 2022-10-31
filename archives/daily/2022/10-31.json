@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667213057922,
+  "endTime": 1667215314487,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1672564,
-      "num": 790900,
+      "num": 862761,
       "word": "女孩跪地哭喊男朋友不在了",
       "onboard_time": 1667204065,
       "rank": 30,
@@ -56,6 +56,14 @@
       "word": "广州新增本土确诊232例无症状295例",
       "onboard_time": 1667180726,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1637768,
+      "num": 1637768,
+      "word": "广州今日已取消888个航班",
+      "onboard_time": 1667210127,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -139,19 +147,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1056629,
+      "num": 1056629,
+      "word": "散兵",
+      "onboard_time": 1667211927,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1046686,
       "num": 584543,
       "word": "英国媒体将首尔踩踏事故报道成香港",
       "onboard_time": 1667206584,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038449,
-      "num": 419633,
-      "word": "广州今日已取消888个航班",
-      "onboard_time": 1667210127,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 945921,
-      "num": 404054,
+      "num": 428637,
       "word": "孙笑川",
       "onboard_time": 1667204604,
       "rank": 10,
@@ -267,12 +275,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 685376,
+      "num": 432740,
+      "word": "带带大师兄离婚",
+      "onboard_time": 1667210843,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 677914,
       "num": 677914,
       "word": "杨幂乔振宇新剧be美学",
       "onboard_time": 1667193930,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 666861,
+      "num": 596366,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 664014,
@@ -289,14 +313,6 @@
       "onboard_time": 1667178625,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 662189,
-      "num": 415420,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 650812,
@@ -323,12 +339,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 607718,
-      "num": 607718,
-      "word": "散兵",
-      "onboard_time": 1667211927,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 633298,
+      "num": 633298,
+      "word": "郑州今日航班取消率接近100%",
+      "onboard_time": 1667210306,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587771,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 567029,
-      "num": 409118,
+      "num": 426543,
       "word": "YG新女团BabyMonster将于明年出道",
       "onboard_time": 1667208265,
       "rank": 24,
@@ -403,19 +419,19 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 498190,
-      "num": 393635,
+      "raw_hot": 498696,
+      "num": 426117,
       "word": "韩国踩踏事故遇难者身份已全部确认",
       "onboard_time": 1667207605,
       "rank": 26,
       "category": "社会负面"
     },
     {
-      "raw_hot": 493588,
-      "num": 390448,
-      "word": "郑州今日航班取消率接近100%",
-      "onboard_time": 1667210306,
-      "rank": 16,
+      "raw_hot": 493110,
+      "num": 493110,
+      "word": "特斯拉起诉蔡老板胜诉",
+      "onboard_time": 1667210365,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425998,
+      "num": 425998,
+      "word": "突然就看不懂中文了",
+      "onboard_time": 1667211326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421537,
       "num": 359420,
       "word": "易烊千玺怼脸六宫格",
@@ -545,14 +569,6 @@
       "onboard_time": 1667198780,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386653,
-      "num": 386653,
-      "word": "带带大师兄离婚",
-      "onboard_time": 1667210843,
-      "rank": 22,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 383759,
@@ -627,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 332416,
-      "num": 332416,
-      "word": "特斯拉起诉蔡老板胜诉",
-      "onboard_time": 1667210365,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327582,
       "num": 327582,
       "word": "研究称大脑只剩一半也能识字辨人",
@@ -673,14 +681,6 @@
       "onboard_time": 1667209705,
       "rank": 19,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 309778,
-      "num": 309778,
-      "word": "突然就看不懂中文了",
-      "onboard_time": 1667211326,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 305790,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180308,
+      "num": 180308,
+      "word": "一下子就精通excel了",
+      "onboard_time": 1667212164,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179802,
       "num": 179802,
       "word": "王劲松新剧又演的反派吧",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1667197762,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168184,
+      "num": 168184,
+      "word": "八点之前的我",
+      "onboard_time": 1667210306,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167134,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "脑子转最快的一次",
+      "onboard_time": 1667213245,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143722,
       "num": 143722,
       "word": "亲历韩国踩踏事故中国留学生发声",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1667201662,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140271,
-      "num": 140271,
-      "word": "一下子就精通excel了",
-      "onboard_time": 1667212164,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 140218,
@@ -1323,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117438,
+      "num": 117438,
+      "word": "原神珐露珊",
+      "onboard_time": 1667214923,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113695,
-      "num": 113695,
-      "word": "八点之前的我",
-      "onboard_time": 1667210306,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 112289,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1667198125,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98618,
+      "num": 98618,
+      "word": "王一博街舞5合照",
+      "onboard_time": 1667215164,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97047,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1667186003,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7048,
+      "num": 426135,
+      "word": "双十一被我拿捏了",
+      "onboard_time": 1667214026,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 3531,
