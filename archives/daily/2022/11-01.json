@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667258836852,
+  "endTime": 1667260081462,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1154301,
-      "num": 246313,
+      "num": 317604,
       "word": "退款",
       "onboard_time": 1667219243,
       "rank": 5,
@@ -27,7 +27,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 708867,
+      "raw_hot": 775443,
       "num": 244862,
       "word": "张庭陶虹等涉嫌网络传销案将开听证会",
       "onboard_time": 1667215764,
@@ -35,12 +35,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 636129,
+      "raw_hot": 742909,
+      "num": 742909,
+      "word": "女生入职第一天被公司要求刷厕所",
+      "onboard_time": 1667235860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641467,
       "num": 235079,
       "word": "官方回应一副局长疑戴3万元耳钉",
       "onboard_time": 1667226147,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622822,
+      "num": 622822,
+      "word": "踩踏发生有人误认救护车是cosplay",
+      "onboard_time": 1667218764,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 610682,
@@ -49,22 +65,6 @@
       "onboard_time": 1667228547,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 554596,
-      "num": 554596,
-      "word": "女生入职第一天被公司要求刷厕所",
-      "onboard_time": 1667235860,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524255,
-      "num": 524255,
-      "word": "踩踏发生有人误认救护车是cosplay",
-      "onboard_time": 1667218764,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 508755,
@@ -83,12 +83,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411523,
+      "num": 233697,
+      "word": "云南虫谷腾讯获赔3200万",
+      "onboard_time": 1667226449,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402567,
+      "num": 225583,
+      "word": "郑州要求富士康有序恢复生产生活秩序",
+      "onboard_time": 1667226329,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394635,
       "num": 233773,
       "word": "武汉江岸区疫情防控",
       "onboard_time": 1667230048,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376776,
+      "num": 314845,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 359992,
@@ -99,27 +123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324943,
-      "num": 240575,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 9,
-      "category": "社会负面"
+      "raw_hot": 322454,
+      "num": 322454,
+      "word": "网曝共享充电宝用1小时扣费99元",
+      "onboard_time": 1667244910,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 313863,
-      "num": 233697,
-      "word": "云南虫谷腾讯获赔3200万",
-      "onboard_time": 1667226449,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 312399,
-      "num": 225583,
-      "word": "郑州要求富士康有序恢复生产生活秩序",
-      "onboard_time": 1667226329,
-      "rank": 16,
+      "raw_hot": 260326,
+      "num": 260326,
+      "word": "女子走进宿舍床上惊现一头猪",
+      "onboard_time": 1667218103,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -129,22 +145,6 @@
       "onboard_time": 1667234361,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238660,
-      "num": 238660,
-      "word": "网曝共享充电宝用1小时扣费99元",
-      "onboard_time": 1667244910,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234165,
-      "num": 239929,
-      "word": "女子走进宿舍床上惊现一头猪",
-      "onboard_time": 1667218103,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233672,
@@ -171,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200609,
       "num": 152361,
       "word": "韩国将组建梨泰院事故心理救助组",
@@ -195,6 +203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 175339,
+      "num": 141563,
+      "word": "韩国踩踏事故遇难者身份已全部确认",
+      "onboard_time": 1667207605,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 166323,
       "num": 151414,
       "word": "这就是民国大小姐本人吧",
@@ -203,28 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157514,
-      "num": 94126,
-      "word": "女子回应背娃卖气球贴补家用",
-      "onboard_time": 1667240593,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156452,
       "num": 156452,
       "word": "这是上大学还是上大班",
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 149839,
-      "num": 111660,
-      "word": "韩国踩踏事故遇难者身份已全部确认",
-      "onboard_time": 1667207605,
-      "rank": 32,
-      "category": "社会负面"
     },
     {
       "raw_hot": 144485,
@@ -275,6 +275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126057,
+      "num": 200277,
+      "word": "乔欣马思超新剧刚开播就亲上了",
+      "onboard_time": 1667235619,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124441,
       "num": 124441,
       "word": "突然就看不懂中文了",
@@ -289,6 +297,14 @@
       "onboard_time": 1667226989,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113898,
+      "num": 113898,
+      "word": "西安莲湖区疫情防控",
+      "onboard_time": 1667259861,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113050,
@@ -315,6 +331,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 103367,
+      "num": 103367,
+      "word": "开封一店家讲述徒步返乡人群现状",
+      "onboard_time": 1667250011,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98234,
       "num": 98234,
       "word": "高校女生运动会穿汉服表演舞蹈",
@@ -331,19 +355,19 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 93337,
+      "num": 93337,
+      "word": "老太误将502胶当滴耳液滴满耳道",
+      "onboard_time": 1667206222,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92775,
       "num": 89038,
       "word": "英国媒体将首尔踩踏事故报道成香港",
       "onboard_time": 1667206584,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92031,
-      "num": 92031,
-      "word": "开封一店家讲述徒步返乡人群现状",
-      "onboard_time": 1667250011,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -371,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84058,
-      "num": 84058,
-      "word": "乔欣马思超新剧刚开播就亲上了",
-      "onboard_time": 1667235619,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 85541,
+      "num": 85541,
+      "word": "打翻主人麻薯被训斥的猫咪",
+      "onboard_time": 1667242092,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 81746,
@@ -385,14 +409,6 @@
       "onboard_time": 1667233045,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79814,
-      "num": 79814,
-      "word": "老太误将502胶当滴耳液滴满耳道",
-      "onboard_time": 1667206222,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77872,
@@ -443,12 +459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62145,
-      "num": 62145,
-      "word": "打翻主人麻薯被训斥的猫咪",
-      "onboard_time": 1667242092,
+      "raw_hot": 62826,
+      "num": 62826,
+      "word": "共享充电宝为何成了嫌弃包",
+      "onboard_time": 1667247371,
       "rank": 49,
-      "category": "幽默"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62084,
@@ -483,28 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59703,
+      "num": 59703,
+      "word": "李荣浩登billboard中国十月封面",
+      "onboard_time": 1667259380,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 54919,
+      "num": 54919,
+      "word": "白化浣熊站吃货同伴中摊手等投喂",
+      "onboard_time": 1667248449,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54669,
       "num": 54669,
       "word": "蔡徐坤加盟晚八点音乐会",
       "onboard_time": 1667238013,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46207,
-      "num": 46207,
-      "word": "共享充电宝为何成了嫌弃包",
-      "onboard_time": 1667247371,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42659,
-      "num": 42659,
-      "word": "白化浣熊站吃货同伴中摊手等投喂",
-      "onboard_time": 1667248449,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37086,
@@ -531,8 +547,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7841,
-      "num": 556622,
+      "raw_hot": 11136,
+      "num": 623287,
       "word": "飞天圆梦",
       "onboard_time": 1667124987,
       "rank": 2,
