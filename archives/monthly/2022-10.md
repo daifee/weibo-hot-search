@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 15:22:44
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 15:37:18
 </p>
 </blockquote>
 <p>
@@ -3465,6 +3465,12 @@ eStar七冠王（热度：894969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%B3%BC%E6%B0%B4%23" target="weibo">
+董宇辉回应直播时被女子泼水（热度：873088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%B8%8A%E7%A1%AE%E8%AE%A4%23" target="weibo">
 网上确认（热度：872049）
 </a>
@@ -5579,12 +5585,6 @@ iPhone5C被苹果列入过时产品（热度：662384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%9C%9F%E6%9C%89%E7%94%A8%23" target="weibo">
 突然觉得读书真有用（热度：656133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%B3%BC%E6%B0%B4%23" target="weibo">
-董宇辉回应直播时被女子泼水（热度：655573）
 </a>
 </li>
 

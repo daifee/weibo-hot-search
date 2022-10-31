@@ -1,0 +1,410 @@
+{
+  "runTime": 1667201838390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629352,
+        "num": 1629352,
+        "word": "在韩留学生爬上商家备用凳子脱险",
+        "onboard_time": 1667189125,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 873088,
+        "num": 873088,
+        "word": "董宇辉回应直播时被女子泼水",
+        "onboard_time": 1667197222,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 842547,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 817060,
+        "num": 817060,
+        "word": "踩踏现场男子自拍被挤压情况",
+        "onboard_time": 1667194464,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 461092,
+        "num": 461092,
+        "word": "上海迪士尼10月31日起暂时关闭",
+        "onboard_time": 1667192006,
+        "rank": 4,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 410903,
+        "num": 410903,
+        "word": "腾讯会议部分功能开始收费",
+        "onboard_time": 1667192849,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 674439,
+        "num": 398905,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373956,
+        "num": 373956,
+        "word": "女子遭黄鼠狼拦路咬裤腿不放",
+        "onboard_time": 1667198780,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363892,
+        "num": 363892,
+        "word": "一眼难忘的浓颜系明星",
+        "onboard_time": 1667195724,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374296,
+        "num": 340096,
+        "word": "你是踩踏事故中夜店老板会开门吗",
+        "onboard_time": 1667199443,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 409896,
+        "num": 322400,
+        "word": "富士康对郑州有多重要",
+        "onboard_time": 1667192486,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302104,
+        "num": 302104,
+        "word": "杨幂乔振宇新剧be美学",
+        "onboard_time": 1667193930,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405498,
+        "num": 300572,
+        "word": "韩国发布踩踏事故伤亡人员补助方案",
+        "onboard_time": 1667197463,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 279003,
+        "num": 279003,
+        "word": "去迪士尼千万不要扮灰姑娘",
+        "onboard_time": 1667185345,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40201,
+        "num": 275417,
+        "word": "重庆籍灭火英雄冯坪坪魂归故里",
+        "onboard_time": 1667199681,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282581,
+        "num": 274767,
+        "word": "19岁女孩梨泰院见将服兵役男友遇难",
+        "onboard_time": 1667172802,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273220,
+        "num": 273220,
+        "word": "印度桥梁坍塌事故已致130人死亡",
+        "onboard_time": 1667193083,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 272893,
+        "num": 272893,
+        "word": "29岁女科学家发6篇Science获百万大奖",
+        "onboard_time": 1667200223,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258313,
+        "num": 258313,
+        "word": "安陵容不就是蕾哈娜吗",
+        "onboard_time": 1667186965,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 257444,
+        "num": 257444,
+        "word": "女子在父亲生日当天梨泰院遇难",
+        "onboard_time": 1667192666,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247245,
+        "num": 247245,
+        "word": "广汽菲克申请破产",
+        "onboard_time": 1667199564,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232732,
+        "num": 232732,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229130,
+        "num": 229130,
+        "word": "武大博士每日为父母煎饼店送外卖",
+        "onboard_time": 1667197762,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208733,
+        "num": 208733,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199758,
+        "num": 199758,
+        "word": "梨泰院踩踏事故大规模伤亡原因何在",
+        "onboard_time": 1667198305,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198364,
+        "num": 198364,
+        "word": "4月宝宝睡醒哭喊全家一致起身",
+        "onboard_time": 1667194525,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204703,
+        "num": 194670,
+        "word": "郑州富士康对年底iPhone生产影响不大",
+        "onboard_time": 1667190868,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182809,
+        "num": 182809,
+        "word": "当猫咪误入女生宿舍",
+        "onboard_time": 1667195065,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178364,
+        "num": 178364,
+        "word": "韩踩踏事故5米长的斜坡挤了300多人",
+        "onboard_time": 1667180126,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178198,
+        "num": 178198,
+        "word": "刘诗诗粉色长裙写真",
+        "onboard_time": 1667195485,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176033,
+        "num": 176033,
+        "word": "身体折叠180度的他终于能抬头看天",
+        "onboard_time": 1667196565,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169071,
+        "num": 169071,
+        "word": "法医探案团定档",
+        "onboard_time": 1667197762,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167176,
+        "num": 167176,
+        "word": "迪士尼",
+        "onboard_time": 1667187265,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157839,
+        "num": 157839,
+        "word": "梨泰院",
+        "onboard_time": 1667174666,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144389,
+        "num": 144389,
+        "word": "重庆32岁美女学霸多次相亲未成功",
+        "onboard_time": 1667184684,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140844,
+        "num": 140844,
+        "word": "一起摘星去阵容",
+        "onboard_time": 1667201662,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135705,
+        "num": 135705,
+        "word": "网友万圣节cos安陵容",
+        "onboard_time": 1667194883,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130457,
+        "num": 130457,
+        "word": "韩警方已取得现场监控视频",
+        "onboard_time": 1667185523,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 126349,
+        "num": 126349,
+        "word": "威少杀死比赛",
+        "onboard_time": 1667191769,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124723,
+        "num": 124723,
+        "word": "学信网崩了",
+        "onboard_time": 1667184625,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118675,
+        "num": 118675,
+        "word": "女子高速上用豪车骗现金被摁倒",
+        "onboard_time": 1667188526,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115734,
+        "num": 115734,
+        "word": "小伙每天1斤白酒患上精神分裂症",
+        "onboard_time": 1667200826,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111868,
+        "num": 111868,
+        "word": "双十一今晚8点付尾款",
+        "onboard_time": 1667200524,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100234,
+        "num": 100234,
+        "word": "女子头部摔伤两警车开道7分钟送医",
+        "onboard_time": 1667196805,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91388,
+        "num": 91388,
+        "word": "宋茜许魏洲新剧醉酒吻",
+        "onboard_time": 1667198125,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85014,
+        "num": 85014,
+        "word": "梦天实验舱",
+        "onboard_time": 1667201544,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 82002,
+        "word": "富士康员工发声",
+        "onboard_time": 1667171840,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 79557,
+        "word": "研究称大脑只剩一半也能识字辨人",
+        "onboard_time": 1667201362,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73838,
+        "num": 73838,
+        "word": "Deft的最后一舞",
+        "onboard_time": 1667178625,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73637,
+        "num": 73637,
+        "word": "chovy",
+        "onboard_time": 1667180963,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是红旗渠精神#"
+    }
+  }
+}
