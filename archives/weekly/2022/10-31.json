@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667195464167,
+  "endTime": 1667197825424,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -115,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 976069,
+      "num": 976069,
+      "word": "上海迪士尼10月31日起暂时关闭",
+      "onboard_time": 1667192006,
+      "rank": 11,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 932638,
       "num": 932638,
       "word": "重庆32岁美女学霸多次相亲未成功",
@@ -137,14 +145,6 @@
       "onboard_time": 1667141731,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 853810,
-      "num": 853810,
-      "word": "上海迪士尼10月31日起暂时关闭",
-      "onboard_time": 1667192006,
-      "rank": 11,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 771341,
@@ -203,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644553,
+      "num": 644553,
+      "word": "腾讯会议部分功能开始收费",
+      "onboard_time": 1667192849,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 587771,
+      "num": 432606,
+      "word": "富士康对郑州有多重要",
+      "onboard_time": 1667192486,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562731,
       "num": 339026,
       "word": "韩救援力量未能在黄金时间赶到事故现场",
@@ -217,6 +233,14 @@
       "onboard_time": 1667180963,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 542047,
+      "num": 363041,
+      "word": "踩踏现场男子自拍被挤压情况",
+      "onboard_time": 1667194464,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 536881,
@@ -259,7 +283,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464671,
+      "raw_hot": 470680,
       "num": 419165,
       "word": "女子在父亲生日当天梨泰院遇难",
       "onboard_time": 1667192666,
@@ -275,20 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 432606,
-      "num": 432606,
-      "word": "富士康对郑州有多重要",
-      "onboard_time": 1667192486,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419821,
-      "num": 419821,
-      "word": "腾讯会议部分功能开始收费",
-      "onboard_time": 1667192849,
-      "rank": 20,
-      "category": "科技"
+      "raw_hot": 416634,
+      "num": 363555,
+      "word": "印度桥梁坍塌事故已致130人死亡",
+      "onboard_time": 1667193083,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 408498,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375687,
+      "num": 359420,
+      "word": "易烊千玺怼脸六宫格",
+      "onboard_time": 1667196326,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358147,
       "num": 358147,
       "word": "女子高速上用豪车骗现金被摁倒",
@@ -353,14 +377,6 @@
       "onboard_time": 1667182585,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 353756,
-      "num": 353756,
-      "word": "印度桥梁坍塌事故已致130人死亡",
-      "onboard_time": 1667193083,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 349008,
@@ -409,6 +425,14 @@
       "onboard_time": 1667175688,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292195,
+      "num": 292195,
+      "word": "一眼难忘的浓颜系明星",
+      "onboard_time": 1667195724,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280548,
@@ -483,6 +507,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246460,
+      "num": 246460,
+      "word": "刘诗诗粉色长裙写真",
+      "onboard_time": 1667195485,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242976,
+      "num": 242976,
+      "word": "当猫咪误入女生宿舍",
+      "onboard_time": 1667195065,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238465,
       "num": 238465,
       "word": "女孩凌晨走失民警联系家长被拒三次",
@@ -555,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202292,
+      "num": 202292,
+      "word": "4月宝宝睡醒哭喊全家一致起身",
+      "onboard_time": 1667194525,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197002,
       "num": 197002,
       "word": "张本智和 吵",
@@ -585,14 +633,6 @@
       "onboard_time": 1667184625,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193069,
-      "num": 143121,
-      "word": "踩踏现场男子自拍被挤压情况",
-      "onboard_time": 1667194464,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 191722,
@@ -675,6 +715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 168860,
+      "num": 168860,
+      "word": "网友万圣节cos安陵容",
+      "onboard_time": 1667194883,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163973,
       "num": 163973,
       "word": "胡明轩 状态",
@@ -713,6 +761,14 @@
       "onboard_time": 1667163730,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146339,
+      "num": 146339,
+      "word": "韩国发布踩踏事故伤亡人员补助方案",
+      "onboard_time": 1667197463,
+      "rank": 33,
+      "category": "社会负面"
     },
     {
       "raw_hot": 143722,
@@ -803,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124398,
+      "num": 124398,
+      "word": "董宇辉回应直播时被女子泼水",
+      "onboard_time": 1667197222,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122393,
       "num": 122393,
       "word": "成毅直播模仿emoji",
@@ -825,6 +889,14 @@
       "onboard_time": 1667144070,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121326,
+      "num": 121326,
+      "word": "身体折叠180度的他终于能抬头看天",
+      "onboard_time": 1667196565,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119585,
@@ -859,14 +931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 113735,
-      "num": 113735,
-      "word": "网友万圣节cos安陵容",
-      "onboard_time": 1667194883,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112289,
       "num": 112289,
       "word": "王铮亮是谐音梗刺客吧",
@@ -881,14 +945,6 @@
       "onboard_time": 1667186725,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109330,
-      "num": 109330,
-      "word": "4月宝宝睡醒哭喊全家一致起身",
-      "onboard_time": 1667194525,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107535,
@@ -915,20 +971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100313,
-      "num": 100313,
-      "word": "当猫咪误入女生宿舍",
-      "onboard_time": 1667195065,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100185,
       "num": 100185,
       "word": "分享欲就是无声的告白",
       "onboard_time": 1667129844,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100183,
+      "num": 77934,
+      "word": "法医探案团定档",
+      "onboard_time": 1667197762,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 99385,
@@ -1043,6 +1099,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 69587,
+      "num": 69587,
+      "word": "武大博士每日为父母煎饼店送外卖",
+      "onboard_time": 1667197762,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66859,
       "num": 66859,
       "word": "我们的歌",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1667148800,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47021,
+      "num": 360843,
+      "word": "女子头部摔伤两警车开道7分钟送医",
+      "onboard_time": 1667196805,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44488,
