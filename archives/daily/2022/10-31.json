@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667224491868,
+  "endTime": 1667225285672,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -211,6 +211,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 974714,
+      "num": 463079,
+      "word": "杨紫鞠婧祎直播状态",
+      "onboard_time": 1667223687,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 947456,
       "num": 817060,
       "word": "踩踏现场男子自拍被挤压情况",
@@ -281,14 +289,6 @@
       "onboard_time": 1667204664,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 780964,
-      "num": 413701,
-      "word": "杨紫鞠婧祎直播状态",
-      "onboard_time": 1667223687,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 777311,
@@ -459,6 +459,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 528751,
+      "num": 528751,
+      "word": "洗发水",
+      "onboard_time": 1667220025,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 505207,
+      "num": 505207,
+      "word": "这就是民国大小姐本人吧",
+      "onboard_time": 1667221466,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 503553,
       "num": 503553,
       "word": "突然就看不懂中文了",
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478412,
-      "num": 478412,
-      "word": "洗发水",
-      "onboard_time": 1667220025,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 478045,
       "num": 478045,
       "word": "富士康最新声明",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 466847,
-      "num": 394616,
+      "num": 455473,
       "word": "多款降价iPhone现货被抢空",
       "onboard_time": 1667221824,
       "rank": 37,
@@ -561,14 +569,6 @@
       "onboard_time": 1667140952,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 450910,
-      "num": 450910,
-      "word": "这就是民国大小姐本人吧",
-      "onboard_time": 1667221466,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 441502,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 398678,
-      "num": 291057,
+      "num": 333682,
       "word": "零钱通崩了",
       "onboard_time": 1667220926,
       "rank": 11,
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342111,
+      "num": 342111,
+      "word": "田小娟好有魄力",
+      "onboard_time": 1667224167,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336770,
       "num": 336770,
       "word": "疯狂动物城衍生剧预告",
@@ -779,6 +787,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 307668,
+      "num": 307668,
+      "word": "男朋友是懂自己找台阶下的",
+      "onboard_time": 1667219966,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305790,
       "num": 305790,
       "word": "男子因照顾独居老人获得上海一套房",
@@ -800,14 +816,6 @@
       "word": "王一博刘雨昕韩庚街舞总决赛同框生图",
       "onboard_time": 1667204244,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 286317,
-      "num": 286317,
-      "word": "田小娟好有魄力",
-      "onboard_time": 1667224167,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -859,14 +867,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 274523,
-      "num": 274523,
-      "word": "男朋友是懂自己找台阶下的",
-      "onboard_time": 1667219966,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270029,
       "num": 270029,
       "word": "95后小伙花2万装修入住毛坯房",
@@ -881,6 +881,22 @@
       "onboard_time": 1667185824,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267407,
+      "num": 267407,
+      "word": "这是上大学还是上大班",
+      "onboard_time": 1667221767,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 265078,
+      "num": 265078,
+      "word": "马斯克想把推特改造成海外版微信",
+      "onboard_time": 1667221165,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 258571,
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230165,
-      "num": 230165,
-      "word": "这是上大学还是上大班",
-      "onboard_time": 1667221767,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 229644,
       "num": 229644,
       "word": "10月30日新增本土确诊479例",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1667183543,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215312,
-      "num": 215312,
-      "word": "马斯克想把推特改造成海外版微信",
-      "onboard_time": 1667221165,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 211642,
@@ -1155,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191635,
+      "num": 191635,
+      "word": "我的朋友",
+      "onboard_time": 1667224346,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191604,
       "num": 177723,
       "word": "想保护森林要多吃鹿肉汉堡",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1667124868,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 189517,
+      "num": 189517,
+      "word": "泡面刺客真的好贵",
+      "onboard_time": 1667220025,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 187851,
@@ -1267,14 +1283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164908,
-      "num": 164908,
-      "word": "我的朋友",
-      "onboard_time": 1667224346,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163973,
       "num": 163973,
       "word": "胡明轩 状态",
@@ -1323,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149655,
-      "num": 149655,
-      "word": "泡面刺客真的好贵",
-      "onboard_time": 1667220025,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145174,
       "num": 145174,
       "word": "凑单",
@@ -1369,6 +1369,14 @@
       "onboard_time": 1667202265,
       "rank": 34,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 140891,
+      "num": 140891,
+      "word": "黑猩猩被自己的盛世美颜惊呆了",
+      "onboard_time": 1667222548,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140844,
@@ -1539,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120355,
+      "num": 120355,
+      "word": "洗衣液",
+      "onboard_time": 1667222967,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119585,
       "num": 119585,
       "word": "SAO发售",
@@ -1571,14 +1587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116639,
-      "num": 116639,
-      "word": "黑猩猩被自己的盛世美颜惊呆了",
-      "onboard_time": 1667222548,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1667205685,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109119,
+      "num": 109119,
+      "word": "这街头采访也太真实了",
+      "onboard_time": 1667224767,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 107535,
@@ -1651,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102309,
-      "num": 102309,
-      "word": "洗衣液",
-      "onboard_time": 1667222967,
+      "raw_hot": 102751,
+      "num": 102751,
+      "word": "一个拉伸缓解骨盆前倾",
+      "onboard_time": 1667224767,
       "rank": 41,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 100185,
@@ -1851,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71331,
+      "num": 71331,
+      "word": "爱奇艺起诉快手侵权获赔218万元",
+      "onboard_time": 1667225246,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 66859,
       "num": 66859,
       "word": "我们的歌",
@@ -1968,6 +1992,14 @@
       "word": "今年1111都是晚8点了",
       "onboard_time": 1667211085,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16255,
+      "num": 103920,
+      "word": "在沙滩屋顶看梦天发射有多沉浸",
+      "onboard_time": 1667224828,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

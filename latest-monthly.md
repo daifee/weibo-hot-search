@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 21:54:51
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 22:08:05
 </p>
 </blockquote>
 <p>
@@ -2901,6 +2901,12 @@ EDG守家奇迹（热度：976671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
+杨紫鞠婧祎直播状态（热度：974714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0%E7%A0%B4100%E4%B8%87%E7%9A%84%E5%8F%A4%E5%81%B6%23" target="weibo">
 预约人数破100万的古偶（热度：973617）
 </a>
@@ -4235,12 +4241,6 @@ DK（热度：781704）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23" target="weibo">
 RNG晋级八强（热度：781244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
-杨紫鞠婧祎直播状态（热度：780964）
 </a>
 </li>
 
