@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/01 03:34:50
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/01 04:26:14
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ Jennie跳了Lisa的Money（热度：65079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E7%94%A81%E5%B0%8F%E6%97%B6%E6%89%A3%E8%B4%B999%E5%85%83%23" target="weibo">
+网曝共享充电宝用1小时扣费99元（热度：40873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%9F%B1%23" target="weibo">
 我的四大精神支柱（热度：22340）
 </a>
@@ -359,6 +365,12 @@ Jennie跳了Lisa的Money（热度：65079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9B%BE%E7%BB%8F%E7%9A%84%E4%BD%A0%E8%88%9E%E5%8F%B0%E7%85%A7%23" target="weibo">
 蔡徐坤曾经的你舞台照（热度：19686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E5%AB%8C%E5%BC%83%E5%8C%85%23" target="weibo">
+共享充电宝为何成了嫌弃包（热度：9896）
 </a>
 </li>
 
