@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667255101242,
+  "endTime": 1667256111958,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247516,
+      "num": 247516,
+      "word": "女生入职第一天被公司要求刷厕所",
+      "onboard_time": 1667235860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234165,
       "num": 239929,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -161,14 +169,6 @@
       "onboard_time": 1667229210,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 198418,
-      "num": 198418,
-      "word": "女生入职第一天被公司要求刷厕所",
-      "onboard_time": 1667235860,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196991,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81893,
+      "num": 76083,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81746,
       "num": 81746,
       "word": "这家没猫不行吧",
@@ -345,6 +353,14 @@
       "onboard_time": 1667220025,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 76072,
+      "num": 76072,
+      "word": "网曝共享充电宝用1小时扣费99元",
+      "onboard_time": 1667244910,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75298,
@@ -377,6 +393,14 @@
       "onboard_time": 1667208265,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67446,
+      "num": 67446,
+      "word": "开封一店家讲述徒步返乡人群现状",
+      "onboard_time": 1667250011,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65079,
@@ -419,36 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56349,
-      "num": 52215,
-      "word": "女子回应背娃卖气球贴补家用",
-      "onboard_time": 1667240593,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54669,
       "num": 54669,
       "word": "蔡徐坤加盟晚八点音乐会",
       "onboard_time": 1667238013,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53516,
-      "num": 24148,
-      "word": "开封一店家讲述徒步返乡人群现状",
-      "onboard_time": 1667250011,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51691,
-      "num": 51511,
-      "word": "网曝共享充电宝用1小时扣费99元",
-      "onboard_time": 1667244910,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42693,
@@ -459,10 +459,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24427,
-      "num": 24427,
+      "raw_hot": 26306,
+      "num": 26306,
       "word": "白化浣熊站吃货同伴中摊手等投喂",
       "onboard_time": 1667248449,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24390,
+      "num": 24390,
+      "word": "共享充电宝为何成了嫌弃包",
+      "onboard_time": 1667247371,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -483,11 +491,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20240,
-      "num": 20240,
-      "word": "共享充电宝为何成了嫌弃包",
-      "onboard_time": 1667247371,
-      "rank": 49,
+      "raw_hot": 21763,
+      "num": 21763,
+      "word": "高校女生运动会穿汉服表演舞蹈",
+      "onboard_time": 1667252890,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -497,14 +505,6 @@
       "onboard_time": 1667234181,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14437,
-      "num": 14437,
-      "word": "高校女生运动会穿汉服表演舞蹈",
-      "onboard_time": 1667252890,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6190,
