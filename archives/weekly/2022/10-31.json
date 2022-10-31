@@ -1,21 +1,21 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667220736371,
+  "endTime": 1667222085473,
   "band_list": [
+    {
+      "raw_hot": 3224403,
+      "num": 3224403,
+      "word": "退款",
+      "onboard_time": 1667219243,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2614348,
       "num": 2614348,
       "word": "3D还原梨泰院踩踏事故过程",
       "onboard_time": 1667174845,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2313402,
-      "num": 2313402,
-      "word": "退款",
-      "onboard_time": 1667219243,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 634300,
+      "num": 279503,
+      "word": "踩踏发生有人误认救护车是cosplay",
+      "onboard_time": 1667218764,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 633298,
       "num": 633298,
       "word": "郑州今日航班取消率接近100%",
@@ -507,6 +515,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 462248,
+      "num": 462248,
+      "word": "女子走进宿舍床上惊现一头猪",
+      "onboard_time": 1667218103,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455445,
       "num": 455445,
       "word": "小伙每天1斤白酒患上精神分裂症",
@@ -547,14 +563,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 412253,
-      "num": 412253,
-      "word": "女子走进宿舍床上惊现一头猪",
-      "onboard_time": 1667218103,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410904,
       "num": 410904,
       "word": "一眼难忘的浓颜系明星",
@@ -585,6 +593,14 @@
       "onboard_time": 1667190868,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398678,
+      "num": 279475,
+      "word": "零钱通崩了",
+      "onboard_time": 1667220926,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 395670,
@@ -755,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284492,
-      "num": 229551,
-      "word": "踩踏发生有人误认救护车是cosplay",
-      "onboard_time": 1667218764,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 284433,
       "num": 263729,
       "word": "田曦薇万圣节兔子警官造型",
@@ -777,6 +785,14 @@
       "onboard_time": 1667134107,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279374,
+      "num": 279374,
+      "word": "Jennie跳了Lisa的Money",
+      "onboard_time": 1667216366,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 278956,
@@ -867,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247131,
-      "num": 247131,
-      "word": "Jennie跳了Lisa的Money",
-      "onboard_time": 1667216366,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 246460,
       "num": 246460,
       "word": "刘诗诗粉色长裙写真",
@@ -883,12 +891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245370,
+      "num": 245370,
+      "word": "洗发水",
+      "onboard_time": 1667220025,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "当猫咪误入女生宿舍",
       "onboard_time": 1667195065,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242378,
+      "num": 242378,
+      "word": "马斯克成推特唯一董事",
+      "onboard_time": 1667217085,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 239503,
@@ -995,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204630,
+      "num": 204630,
+      "word": "这就是民国大小姐本人吧",
+      "onboard_time": 1667221466,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201490,
       "num": 201490,
       "word": "吴尊刘畊宏万圣节聚会合照",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1667183006,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196664,
-      "num": 196664,
-      "word": "马斯克成推特唯一董事",
-      "onboard_time": 1667217085,
-      "rank": 18,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 196357,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187112,
+      "num": 187112,
+      "word": "蔡徐坤落日迷雾舞台",
+      "onboard_time": 1667221466,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184147,
       "num": 184147,
       "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1667207305,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167006,
+      "num": 167006,
+      "word": "男朋友是懂自己找台阶下的",
+      "onboard_time": 1667219966,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 163973,
@@ -1307,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133939,
+      "num": 131470,
+      "word": "泡面刺客真的好贵",
+      "onboard_time": 1667220025,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133124,
       "num": 133124,
       "word": "长征五号B遥四运载火箭已完成推进剂加注",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1667207364,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132245,
+      "num": 132245,
+      "word": "沈月新剧哭戏爆发力",
+      "onboard_time": 1667221225,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 131847,
@@ -1547,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98616,
+      "num": 98616,
+      "word": "脱口秀大会5官宣刘震云加盟",
+      "onboard_time": 1667219725,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1667198543,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 95698,
+      "num": 95698,
+      "word": "多款降价iPhone现货被抢空",
+      "onboard_time": 1667221824,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 94840,
@@ -1587,15 +1659,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91777,
-      "num": 91777,
-      "word": "恭喜孙颖莎王楚钦",
-      "onboard_time": 1667139693,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 91384,
+      "raw_hot": 92689,
       "num": 236859,
       "word": "六旬父亲听到儿子隔空喊话高兴起舞",
       "onboard_time": 1667217625,
@@ -1603,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90599,
-      "num": 90599,
-      "word": "男朋友是懂自己找台阶下的",
-      "onboard_time": 1667219966,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 91777,
+      "num": 91777,
+      "word": "恭喜孙颖莎王楚钦",
+      "onboard_time": 1667139693,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 87252,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1667186725,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85103,
-      "num": 85103,
-      "word": "泡面刺客真的好贵",
-      "onboard_time": 1667220025,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 85014,
@@ -1707,12 +1763,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70295,
-      "num": 70295,
-      "word": "洗发水",
-      "onboard_time": 1667220025,
-      "rank": 44,
-      "category": "美妆"
+      "raw_hot": 74278,
+      "num": 74278,
+      "word": "这是上大学还是上大班",
+      "onboard_time": 1667221767,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 71445,
+      "num": 71445,
+      "word": "马斯克想把推特改造成海外版微信",
+      "onboard_time": 1667221165,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 66859,
@@ -1771,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54761,
-      "num": 54761,
-      "word": "脱口秀大会5官宣刘震云加盟",
-      "onboard_time": 1667219725,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54551,
       "num": 54551,
       "word": "谢谢你医生定档1104",
@@ -1831,6 +1887,14 @@
       "num": 398937,
       "word": "今年1111都是晚8点了",
       "onboard_time": 1667211085,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19163,
+      "num": 245818,
+      "word": "4K升格镜头看梦天发射",
+      "onboard_time": 1667221225,
       "rank": 14,
       "category": "社会新闻"
     },
