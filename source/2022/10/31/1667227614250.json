@@ -1,0 +1,410 @@
+{
+  "runTime": 1667227614250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535688,
+        "num": 1535688,
+        "word": "官方回应一副局长疑戴3万元耳钉",
+        "onboard_time": 1667226147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2838685,
+        "num": 1423784,
+        "word": "退款",
+        "onboard_time": 1667219243,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16343,
+        "num": 1222115,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1982259,
+        "num": 1211164,
+        "word": "尾款",
+        "onboard_time": 1667219304,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167721,
+        "num": 1167721,
+        "word": "张庭陶虹等涉嫌网络传销案将开听证会",
+        "onboard_time": 1667215764,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 808014,
+        "num": 808014,
+        "word": "踩踏发生有人误认救护车是cosplay",
+        "onboard_time": 1667218764,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 506430,
+        "num": 506430,
+        "word": "广州今日已取消888个航班",
+        "onboard_time": 1667210127,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399680,
+        "num": 399680,
+        "word": "这就是民国大小姐本人吧",
+        "onboard_time": 1667221466,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649463,
+        "num": 395505,
+        "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+        "onboard_time": 1667207785,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 391110,
+        "num": 391110,
+        "word": "原神",
+        "onboard_time": 1667211506,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 774037,
+        "num": 386634,
+        "word": "杨紫鞠婧祎直播状态",
+        "onboard_time": 1667223687,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 651049,
+        "num": 378681,
+        "word": "云南虫谷腾讯获赔3200万",
+        "onboard_time": 1667226449,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414042,
+        "num": 369422,
+        "word": "女孩跪地哭喊男朋友不在了",
+        "onboard_time": 1667204065,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 412244,
+        "num": 364257,
+        "word": "多款降价iPhone现货被抢空",
+        "onboard_time": 1667221824,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 4518,
+        "num": 360101,
+        "word": "这个音乐会暖哭了",
+        "onboard_time": 1667226027,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354479,
+        "num": 354479,
+        "word": "田小娟好有魄力",
+        "onboard_time": 1667224167,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326263,
+        "num": 326263,
+        "word": "这是上大学还是上大班",
+        "onboard_time": 1667221767,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321732,
+        "num": 321732,
+        "word": "朋友圈设置三天可见的理由",
+        "onboard_time": 1667226207,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321365,
+        "num": 321365,
+        "word": "女子走进宿舍床上惊现一头猪",
+        "onboard_time": 1667218103,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289816,
+        "num": 289816,
+        "word": "零钱通崩了",
+        "onboard_time": 1667220926,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268310,
+        "num": 268310,
+        "word": "洗发水",
+        "onboard_time": 1667220025,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 263338,
+        "num": 263338,
+        "word": "马斯克想把推特改造成海外版微信",
+        "onboard_time": 1667221165,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 238812,
+        "num": 238812,
+        "word": "韩国踩踏事故遇难者身份已全部确认",
+        "onboard_time": 1667207605,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 197990,
+        "num": 197990,
+        "word": "男朋友是懂自己找台阶下的",
+        "onboard_time": 1667219966,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "毛不易连唱三首好稳",
+        "onboard_time": 1667226269,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187778,
+        "num": 187778,
+        "word": "女子求职招聘者称其36岁来碰瓷公司",
+        "onboard_time": 1667225487,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184793,
+        "num": 184793,
+        "word": "就没有苏醒接不了的话",
+        "onboard_time": 1667226748,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182114,
+        "num": 182114,
+        "word": "突然就看不懂中文了",
+        "onboard_time": 1667211326,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167536,
+        "num": 167536,
+        "word": "黑猩猩被自己的盛世美颜惊呆了",
+        "onboard_time": 1667222548,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166239,
+        "num": 166239,
+        "word": "我的朋友",
+        "onboard_time": 1667224346,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254988,
+        "num": 164808,
+        "word": "郑州要求富士康有序恢复生产生活秩序",
+        "onboard_time": 1667226329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156063,
+        "num": 156063,
+        "word": "郑州今日航班取消率接近100%",
+        "onboard_time": 1667210306,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153865,
+        "num": 153865,
+        "word": "泡面刺客真的好贵",
+        "onboard_time": 1667220025,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153818,
+        "num": 153818,
+        "word": "洗衣液",
+        "onboard_time": 1667222967,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148358,
+        "num": 148358,
+        "word": "披荆斩棘",
+        "onboard_time": 1667226989,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146723,
+        "num": 146723,
+        "word": "YG新女团BabyMonster将于明年出道",
+        "onboard_time": 1667208265,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "披荆斩棘1111智趣新潮夜",
+        "onboard_time": 1667227227,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144285,
+        "num": 144285,
+        "word": "陈伟霆说与小狗牵手成功",
+        "onboard_time": 1667224167,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142212,
+        "num": 142212,
+        "word": "英国媒体将首尔踩踏事故报道成香港",
+        "onboard_time": 1667206584,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142120,
+        "num": 142120,
+        "word": "一下子就精通excel了",
+        "onboard_time": 1667212164,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132951,
+        "num": 132951,
+        "word": "Jennie跳了Lisa的Money",
+        "onboard_time": 1667216366,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136567,
+        "num": 132370,
+        "word": "梨泰院踩踏事故大规模伤亡原因何在",
+        "onboard_time": 1667198305,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 122384,
+        "num": 122384,
+        "word": "老太误将502胶当滴耳液滴满耳道",
+        "onboard_time": 1667206222,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121676,
+        "num": 121676,
+        "word": "凑单",
+        "onboard_time": 1667222905,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118967,
+        "num": 118967,
+        "word": "宋亚轩藕片自拍",
+        "onboard_time": 1667224226,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105495,
+        "num": 105495,
+        "word": "韩国警方打击事故相关网络谣言",
+        "onboard_time": 1667215826,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 105026,
+        "num": 105026,
+        "word": "散兵",
+        "onboard_time": 1667211927,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99248,
+        "num": 99248,
+        "word": "这街头采访也太真实了",
+        "onboard_time": 1667224767,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99187,
+        "num": 99187,
+        "word": "脱口秀大会5官宣刘震云加盟",
+        "onboard_time": 1667219725,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85544,
+        "num": 85544,
+        "word": "本色出演穷鬼",
+        "onboard_time": 1667209285,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#会馆有戏#"
+    }
+  }
+}

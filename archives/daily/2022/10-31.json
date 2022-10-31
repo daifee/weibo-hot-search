@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667226659277,
+  "endTime": 1667227614250,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -24,6 +24,14 @@
       "word": "19岁女孩梨泰院见将服兵役男友遇难",
       "onboard_time": 1667172802,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1982259,
+      "num": 1323644,
+      "word": "尾款",
+      "onboard_time": 1667219304,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1535688,
+      "num": 1535688,
+      "word": "官方回应一副局长疑戴3万元耳钉",
+      "onboard_time": 1667226147,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1509098,
       "num": 1509098,
       "word": "在韩留学生万幸决定当晚提前离开",
@@ -120,14 +136,6 @@
       "word": "郑州富士康党委书记苏东霞回应发文",
       "onboard_time": 1667139394,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1323644,
-      "num": 1323644,
-      "word": "尾款",
-      "onboard_time": 1667219304,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -353,6 +361,14 @@
       "onboard_time": 1667178625,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 651049,
+      "num": 378681,
+      "word": "云南虫谷腾讯获赔3200万",
+      "onboard_time": 1667226449,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 650812,
@@ -595,14 +611,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 415184,
-      "num": 374316,
-      "word": "官方回应一副局长疑戴3万元耳钉",
-      "onboard_time": 1667226147,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410904,
       "num": 410904,
       "word": "一眼难忘的浓颜系明星",
@@ -763,6 +771,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 326263,
+      "num": 326263,
+      "word": "这是上大学还是上大班",
+      "onboard_time": 1667221767,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 321732,
+      "num": 321732,
+      "word": "朋友圈设置三天可见的理由",
+      "onboard_time": 1667226207,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320716,
       "num": 320716,
       "word": "马斯克想把推特改造成海外版微信",
@@ -785,14 +809,6 @@
       "onboard_time": 1667207965,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313954,
-      "num": 313954,
-      "word": "这是上大学还是上大班",
-      "onboard_time": 1667221767,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 313809,
@@ -913,6 +929,14 @@
       "onboard_time": 1667171899,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254988,
+      "num": 164808,
+      "word": "郑州要求富士康有序恢复生产生活秩序",
+      "onboard_time": 1667226329,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254607,
@@ -1048,14 +1072,6 @@
       "word": "易烊千玺四部作品入选五个一工程",
       "onboard_time": 1667134345,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 225265,
-      "num": 225265,
-      "word": "云南虫谷腾讯获赔3200万",
-      "onboard_time": 1667226449,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1227,11 +1243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187778,
+      "num": 187778,
+      "word": "女子求职招聘者称其36岁来碰瓷公司",
+      "onboard_time": 1667225487,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187112,
       "num": 187112,
       "word": "蔡徐坤落日迷雾舞台",
       "onboard_time": 1667221466,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184793,
+      "num": 184793,
+      "word": "就没有苏醒接不了的话",
+      "onboard_time": 1667226748,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153818,
+      "num": 153818,
+      "word": "洗衣液",
+      "onboard_time": 1667222967,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 152929,
       "num": 152929,
       "word": "工作后需明白的十大生存之道",
@@ -1363,12 +1403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145337,
-      "num": 145337,
-      "word": "洗衣液",
-      "onboard_time": 1667222967,
-      "rank": 41,
-      "category": "科技"
+      "raw_hot": 148358,
+      "num": 148358,
+      "word": "披荆斩棘",
+      "onboard_time": 1667226989,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145174,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1667222905,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 144522,
+      "num": 144522,
+      "word": "披荆斩棘1111智趣新潮夜",
+      "onboard_time": 1667227227,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144450,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1667204962,
       "rank": 38,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 133057,
-      "num": 133057,
-      "word": "女子求职招聘者称其36岁来碰瓷公司",
-      "onboard_time": 1667225487,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132940,
@@ -1635,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112893,
-      "num": 112893,
-      "word": "朋友圈设置三天可见的理由",
-      "onboard_time": 1667226207,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112289,
       "num": 112289,
       "word": "王铮亮是谐音梗刺客吧",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1667215164,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98613,
-      "num": 98613,
-      "word": "郑州要求富士康有序恢复生产生活秩序",
-      "onboard_time": 1667226329,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97047,
