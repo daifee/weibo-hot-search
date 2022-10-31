@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 10:25:43
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 11:00:04
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ EDG对战DRX（热度：2849044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%BF%87%E7%A8%8B%23" target="weibo">
+3D还原梨泰院踩踏事故过程（热度：2370218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E8%84%8F%E7%9A%84%E4%BA%BA%E8%A2%AB%E8%BF%AB%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 全球最脏的人被迫洗澡后去世（热度：2368107）
 </a>
@@ -647,12 +653,6 @@ RNG战胜GEN（热度：2011028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%94%23" target="weibo">
 三叔（热度：1983897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%BF%87%E7%A8%8B%23" target="weibo">
-3D还原梨泰院踩踏事故过程（热度：1982163）
 </a>
 </li>
 
@@ -1503,6 +1503,12 @@ TFBOYS声乐老师晒新歌歌词本（热度：1366961）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%855%E7%B1%B3%E9%95%BF%E7%9A%84%E6%96%9C%E5%9D%A1%E6%8C%A4%E4%BA%86300%E5%A4%9A%E4%BA%BA%23" target="weibo">
+韩踩踏事故5米长的斜坡挤了300多人（热度：1348842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%8B%8F%E4%B8%9C%E9%9C%9E%E5%9B%9E%E5%BA%94%E5%8F%91%E6%96%87%23" target="weibo">
 郑州富士康党委书记苏东霞回应发文（热度：1347393）
 </a>
@@ -1871,12 +1877,6 @@ EDG晋级八强（热度：1223009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%B7%98%E5%AE%9D%E6%94%AF%E6%8C%81%E5%85%A8%E7%A8%8B%E4%BB%B7%E4%BF%9D%23" target="weibo">
 双十一淘宝支持全程价保（热度：1208269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%855%E7%B1%B3%E9%95%BF%E7%9A%84%E6%96%9C%E5%9D%A1%E6%8C%A4%E4%BA%86300%E5%A4%9A%E4%BA%BA%23" target="weibo">
-韩踩踏事故5米长的斜坡挤了300多人（热度：1207161）
 </a>
 </li>
 

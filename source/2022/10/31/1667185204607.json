@@ -1,0 +1,410 @@
+{
+  "runTime": 1667185204607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2370218,
+        "num": 2370218,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339121,
+        "num": 1339121,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18257,
+        "num": 759513,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1544794,
+        "num": 737952,
+        "word": "19岁女孩梨泰院见将服兵役男友遇难",
+        "onboard_time": 1667172802,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713483,
+        "num": 713483,
+        "word": "董宇辉山东行直播被陌生女子泼水",
+        "onboard_time": 1667177007,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 626568,
+        "num": 626568,
+        "word": "富士康员工发声",
+        "onboard_time": 1667171840,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348842,
+        "num": 576805,
+        "word": "韩踩踏事故5米长的斜坡挤了300多人",
+        "onboard_time": 1667180126,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491346,
+        "num": 491346,
+        "word": "chovy",
+        "onboard_time": 1667180963,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463751,
+        "num": 463751,
+        "word": "郑州富士康员工发声厂区现状",
+        "onboard_time": 1667178265,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002525,
+        "num": 434926,
+        "word": "梨泰院",
+        "onboard_time": 1667174666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515560,
+        "num": 419044,
+        "word": "李智汉遇难",
+        "onboard_time": 1667137228,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393494,
+        "num": 393494,
+        "word": "Deft的最后一舞",
+        "onboard_time": 1667178625,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 503154,
+        "num": 378436,
+        "word": "中国留学生称曾收到陌生人糖果没吃",
+        "onboard_time": 1667172860,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356478,
+        "num": 356478,
+        "word": "Faker和Deft决赛相遇",
+        "onboard_time": 1667182585,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349008,
+        "num": 349008,
+        "word": "杨幂白宇新剧角色适配度",
+        "onboard_time": 1667184323,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395670,
+        "num": 348246,
+        "word": "日本东京涩谷加强安保谨防踩踏事件发生",
+        "onboard_time": 1667181206,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336770,
+        "num": 336770,
+        "word": "疯狂动物城衍生剧预告",
+        "onboard_time": 1667182405,
+        "rank": 16,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 261347,
+        "num": 261347,
+        "word": "宝爸睡迷糊错把被子当女儿",
+        "onboard_time": 1667175688,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254607,
+        "num": 254607,
+        "word": "唐朝诡事录收官团建",
+        "onboard_time": 1667181806,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241769,
+        "num": 241769,
+        "word": "在韩留学生万幸决定当晚提前离开",
+        "onboard_time": 1667136145,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 559682,
+        "num": 236880,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 221259,
+        "word": "95后小伙花2万装修入住毛坯房",
+        "onboard_time": 1667176588,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218368,
+        "num": 218368,
+        "word": "电影坠落确认引进",
+        "onboard_time": 1667184864,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217146,
+        "num": 217146,
+        "word": "北京昨增本土确诊16例",
+        "onboard_time": 1667183543,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206651,
+        "num": 206651,
+        "word": "严浩翔的低音",
+        "onboard_time": 1667184864,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "学信网崩了",
+        "onboard_time": 1667184625,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203997,
+        "num": 203997,
+        "word": "女孩凌晨走失民警联系家长被拒三次",
+        "onboard_time": 1667172742,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196815,
+        "num": 196815,
+        "word": "印度一座拉索桥断裂坍塌",
+        "onboard_time": 1667183006,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185847,
+        "num": 185847,
+        "word": "DRX晋级决赛",
+        "onboard_time": 1667177849,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184822,
+        "num": 184822,
+        "word": "郑州富士康党委书记苏东霞回应发文",
+        "onboard_time": 1667139394,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184147,
+        "num": 184147,
+        "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
+        "onboard_time": 1667179945,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181027,
+        "num": 181027,
+        "word": "中国空间站又要扩容了",
+        "onboard_time": 1667182163,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177553,
+        "num": 177553,
+        "word": "妈妈用20本日记唤醒植物人女儿",
+        "onboard_time": 1667181987,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147564,
+        "num": 147564,
+        "word": "怎么会有人又年轻又老成",
+        "onboard_time": 1667175267,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142257,
+        "num": 142257,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1667184625,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132646,
+        "num": 132646,
+        "word": "10月30日新增本土确诊479例",
+        "onboard_time": 1667179107,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132641,
+        "num": 132641,
+        "word": "重庆32岁美女学霸多次相亲未成功",
+        "onboard_time": 1667184684,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129534,
+        "num": 129534,
+        "word": "掘金vs湖人",
+        "onboard_time": 1667180603,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123273,
+        "num": 123273,
+        "word": "和朋友话最少的一次见面",
+        "onboard_time": 1667178927,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105077,
+        "num": 105077,
+        "word": "10月30日新增本土无症状2220例",
+        "onboard_time": 1667181383,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103497,
+        "num": 103497,
+        "word": "GEN止步S12四强",
+        "onboard_time": 1667180546,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102287,
+        "num": 102287,
+        "word": "酣睡橘猫与落叶融为一体",
+        "onboard_time": 1667171177,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99385,
+        "num": 99385,
+        "word": "蔡文静彭冠英演情侣好危险",
+        "onboard_time": 1667184323,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97097,
+        "num": 97097,
+        "word": "沈月新剧预告",
+        "onboard_time": 1667175384,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94838,
+        "num": 94838,
+        "word": "成毅的直播状态",
+        "onboard_time": 1667174245,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86524,
+        "num": 86524,
+        "word": "韩救援力量未能在黄金时间赶到事故现场",
+        "onboard_time": 1667141191,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 83373,
+        "num": 83373,
+        "word": "孙女出嫁88岁奶奶偷偷抹泪",
+        "onboard_time": 1667170276,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76116,
+        "num": 76116,
+        "word": "15位青年学者获百万科研大奖",
+        "onboard_time": 1667184205,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81583,
+        "num": 74332,
+        "word": "韩国踩踏事故已致154人遇难",
+        "onboard_time": 1667141731,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 71848,
+        "num": 71848,
+        "word": "某个瞬间突然就放下了",
+        "onboard_time": 1667140952,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这次考察立足新的征程#"
+    }
+  }
+}

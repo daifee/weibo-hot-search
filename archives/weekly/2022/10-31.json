@@ -1,21 +1,21 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667183143278,
+  "endTime": 1667185204607,
   "band_list": [
+    {
+      "raw_hot": 2370218,
+      "num": 2370218,
+      "word": "3D还原梨泰院踩踏事故过程",
+      "onboard_time": 1667174845,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2035514,
       "num": 2035514,
       "word": "19岁女孩梨泰院见将服兵役男友遇难",
       "onboard_time": 1667172802,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1982163,
-      "num": 1226832,
-      "word": "3D还原梨泰院踩踏事故过程",
-      "onboard_time": 1667174845,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1348842,
+      "num": 576805,
+      "word": "韩踩踏事故5米长的斜坡挤了300多人",
+      "onboard_time": 1667180126,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1347393,
       "num": 1347393,
       "word": "郑州富士康党委书记苏东霞回应发文",
@@ -56,14 +64,6 @@
       "word": "梨泰院",
       "onboard_time": 1667174666,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1207161,
-      "num": 553703,
-      "word": "韩踩踏事故5米长的斜坡挤了300多人",
-      "onboard_time": 1667180126,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 559682,
+      "num": 238362,
+      "word": "富士康",
+      "onboard_time": 1667052623,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558930,
       "num": 558930,
       "word": "chovy",
@@ -160,14 +168,6 @@
       "word": "郑州富士康员工发声厂区现状",
       "onboard_time": 1667178265,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489067,
-      "num": 238362,
-      "word": "富士康",
-      "onboard_time": 1667052623,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395670,
+      "num": 348246,
+      "word": "日本东京涩谷加强安保谨防踩踏事件发生",
+      "onboard_time": 1667181206,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "男女平等基本国策被纳入国民教育体系",
@@ -211,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356478,
+      "num": 356478,
+      "word": "Faker和Deft决赛相遇",
+      "onboard_time": 1667182585,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 349008,
+      "num": 349008,
+      "word": "杨幂白宇新剧角色适配度",
+      "onboard_time": 1667184323,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344919,
       "num": 344919,
       "word": "王楚钦世界排名升至第3",
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336770,
+      "num": 336770,
+      "word": "疯狂动物城衍生剧预告",
+      "onboard_time": 1667182405,
+      "rank": 26,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 334288,
@@ -243,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281210,
-      "num": 281210,
-      "word": "日本东京涩谷加强安保谨防踩踏事件发生",
-      "onboard_time": 1667181206,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280548,
       "num": 280548,
       "word": "女子煲汤忘关火排骨炖成灰",
@@ -273,6 +297,14 @@
       "onboard_time": 1667171899,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254607,
+      "num": 254607,
+      "word": "唐朝诡事录收官团建",
+      "onboard_time": 1667181806,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 254580,
@@ -339,12 +371,52 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 218368,
+      "num": 218368,
+      "word": "电影坠落确认引进",
+      "onboard_time": 1667184864,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217146,
+      "num": 217146,
+      "word": "北京昨增本土确诊16例",
+      "onboard_time": 1667183543,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206651,
+      "num": 206651,
+      "word": "严浩翔的低音",
+      "onboard_time": 1667184864,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204110,
+      "num": 204110,
+      "word": "学信网崩了",
+      "onboard_time": 1667184625,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 197002,
       "num": 197002,
       "word": "张本智和 吵",
       "onboard_time": 1667136927,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196815,
+      "num": 196815,
+      "word": "印度一座拉索桥断裂坍塌",
+      "onboard_time": 1667183006,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196357,
@@ -371,11 +443,27 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 173689,
-      "num": 173689,
+      "raw_hot": 184147,
+      "num": 184147,
       "word": "醉驾男抢黄灯撞伤闯红灯女子获刑",
       "onboard_time": 1667179945,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181027,
+      "num": 181027,
+      "word": "中国空间站又要扩容了",
+      "onboard_time": 1667182163,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177553,
+      "num": 177553,
+      "word": "妈妈用20本日记唤醒植物人女儿",
+      "onboard_time": 1667181987,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -419,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156189,
-      "num": 156189,
-      "word": "唐朝诡事录收官团建",
-      "onboard_time": 1667181806,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152929,
       "num": 152929,
       "word": "工作后需明白的十大生存之道",
@@ -443,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144042,
-      "num": 123237,
-      "word": "印度一座拉索桥断裂坍塌",
-      "onboard_time": 1667183006,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143722,
       "num": 143722,
       "word": "亲历韩国踩踏事故中国留学生发声",
@@ -459,20 +531,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 142257,
+      "num": 142257,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1667184625,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140218,
       "num": 140218,
       "word": "一条plog告别十月",
       "onboard_time": 1667151317,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139796,
-      "num": 139796,
-      "word": "疯狂动物城衍生剧预告",
-      "onboard_time": 1667182405,
-      "rank": 26,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 138902,
@@ -499,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132641,
+      "num": 132641,
+      "word": "重庆32岁美女学霸多次相亲未成功",
+      "onboard_time": 1667184684,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "重病女孩含泪劝父亲不要借钱手术",
@@ -513,6 +593,14 @@
       "onboard_time": 1667180546,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129534,
+      "num": 129534,
+      "word": "掘金vs湖人",
+      "onboard_time": 1667180603,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 129299,
@@ -531,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125180,
-      "num": 125180,
-      "word": "Faker和Deft决赛相遇",
-      "onboard_time": 1667182585,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122393,
       "num": 122393,
       "word": "成毅直播模仿emoji",
@@ -553,14 +633,6 @@
       "onboard_time": 1667144070,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121161,
-      "num": 121161,
-      "word": "妈妈用20本日记唤醒植物人女儿",
-      "onboard_time": 1667181987,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119181,
@@ -585,14 +657,6 @@
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107914,
-      "num": 107914,
-      "word": "掘金vs湖人",
-      "onboard_time": 1667180603,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 107535,
@@ -625,6 +689,14 @@
       "onboard_time": 1667129844,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99385,
+      "num": 99385,
+      "word": "蔡文静彭冠英演情侣好危险",
+      "onboard_time": 1667184323,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 97047,
@@ -667,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85072,
-      "num": 85072,
-      "word": "中国空间站又要扩容了",
-      "onboard_time": 1667182163,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
@@ -697,6 +761,14 @@
       "onboard_time": 1667161151,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76116,
+      "num": 76116,
+      "word": "15位青年学者获百万科研大奖",
+      "onboard_time": 1667184205,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 66859,
