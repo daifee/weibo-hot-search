@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667208338599,
+  "endTime": 1667209333902,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1626305,
-      "num": 428511,
+      "num": 641478,
       "word": "女孩跪地哭喊男朋友不在了",
       "onboard_time": 1667204065,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857971,
+      "num": 315148,
+      "word": "英国媒体将首尔踩踏事故报道成香港",
+      "onboard_time": 1667206584,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818786,
       "num": 818786,
       "word": "欢乐颂全员为乔欣新剧打call",
@@ -217,6 +225,14 @@
       "onboard_time": 1667134527,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 727680,
+      "num": 727680,
+      "word": "老师质问家长因学生不会整体认读音节",
+      "onboard_time": 1667205563,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 685593,
@@ -275,6 +291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 619519,
+      "num": 619519,
+      "word": "老太误将502胶当滴耳液滴满耳道",
+      "onboard_time": 1667206222,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587771,
       "num": 432606,
       "word": "富士康对郑州有多重要",
@@ -283,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565043,
-      "num": 565043,
-      "word": "老师质问家长因学生不会整体认读音节",
-      "onboard_time": 1667205563,
-      "rank": 33,
-      "category": "教育,社会新闻"
+      "raw_hot": 567029,
+      "num": 258316,
+      "word": "YG新女团BabyMonster将于明年出道",
+      "onboard_time": 1667208265,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 562731,
@@ -305,14 +329,6 @@
       "onboard_time": 1667180963,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 541961,
-      "num": 269062,
-      "word": "英国媒体将首尔踩踏事故报道成香港",
-      "onboard_time": 1667206584,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536881,
@@ -401,14 +417,6 @@
       "onboard_time": 1667196326,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420294,
-      "num": 420294,
-      "word": "老太误将502胶当滴耳液滴满耳道",
-      "onboard_time": 1667206222,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416634,
@@ -603,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279086,
+      "num": 229273,
+      "word": "韩国踩踏事故遇难者身份已全部确认",
+      "onboard_time": 1667207605,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 278956,
       "num": 278956,
       "word": "鞠婧祎红裙拍摄路透",
       "onboard_time": 1667193985,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275309,
+      "num": 275309,
+      "word": "郭柯宇参加再见爱人后有很多追求者",
+      "onboard_time": 1667207965,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 270029,
@@ -633,6 +657,14 @@
       "onboard_time": 1667171899,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256299,
+      "num": 183265,
+      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+      "onboard_time": 1667207785,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 254607,
@@ -691,19 +723,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240715,
-      "num": 240715,
-      "word": "郭柯宇参加再见爱人后有很多追求者",
-      "onboard_time": 1667207965,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238465,
       "num": 238465,
       "word": "女孩凌晨走失民警联系家长被拒三次",
       "onboard_time": 1667172742,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235585,
+      "num": 235585,
+      "word": "男子因照顾独居老人获得上海一套房",
+      "onboard_time": 1667206584,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -779,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207638,
+      "num": 163954,
+      "word": "外交部回应梨泰院踩踏事件",
+      "onboard_time": 1667207066,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 206651,
       "num": 206651,
       "word": "严浩翔的低音",
       "onboard_time": 1667184864,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204294,
+      "num": 174527,
+      "word": "万圣节",
+      "onboard_time": 1667206344,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 201490,
@@ -819,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195079,
-      "num": 190568,
-      "word": "韩国踩踏事故遇难者身份已全部确认",
-      "onboard_time": 1667207605,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "身体折叠180度的他终于能抬头看天",
@@ -840,22 +880,6 @@
       "word": "沈阳疫情防控",
       "onboard_time": 1667184625,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193937,
-      "num": 193937,
-      "word": "YG新女团BabyMonster将于明年出道",
-      "onboard_time": 1667208265,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193508,
-      "num": 193508,
-      "word": "男子因照顾独居老人获得上海一套房",
-      "onboard_time": 1667206584,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -931,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174527,
-      "num": 174527,
-      "word": "万圣节",
-      "onboard_time": 1667206344,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172300,
       "num": 172300,
       "word": "只有中国航天才能取出这么绝的名字",
@@ -1011,28 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145294,
-      "num": 145294,
-      "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
-      "onboard_time": 1667207785,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 143722,
       "num": 143722,
       "word": "亲历韩国踩踏事故中国留学生发声",
       "onboard_time": 1667130807,
       "rank": 25,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 141608,
-      "num": 141608,
-      "word": "外交部回应梨泰院踩踏事件",
-      "onboard_time": 1667207066,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 141096,
@@ -1403,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83625,
+      "num": 83625,
+      "word": "本色出演穷鬼",
+      "onboard_time": 1667209285,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82538,
       "num": 82538,
       "word": "威少18分",
@@ -1567,6 +1575,9 @@
     },
     {
       "word": "#梦天实验舱发射成功#"
+    },
+    {
+      "word": "#踔厉奋发梦天梦圆#"
     }
   ]
 }
