@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667248884456,
+  "endTime": 1667251300937,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -475,16 +475,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 11558,
-      "num": 11558,
+      "raw_hot": 12638,
+      "num": 12638,
+      "word": "开封一店家讲述徒步返乡人群现状",
+      "onboard_time": 1667250011,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12472,
+      "num": 12472,
       "word": "共享充电宝为何成了嫌弃包",
       "onboard_time": 1667247371,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8844,
-      "num": 8844,
+      "raw_hot": 10920,
+      "num": 10920,
       "word": "白化浣熊站吃货同伴中摊手等投喂",
       "onboard_time": 1667248449,
       "rank": 49,
