@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667237912411,
+  "endTime": 1667238967924,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -1011,20 +1011,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253240,
+      "num": 253240,
+      "word": "单依纯姚贝娜跨时空对唱心火",
+      "onboard_time": 1667234361,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253085,
       "num": 238494,
       "word": "亲历者称有夜店老板见死不救拒开门",
       "onboard_time": 1667116107,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 252804,
-      "num": 252804,
-      "word": "单依纯姚贝娜跨时空对唱心火",
-      "onboard_time": 1667234361,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 248808,
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198418,
+      "num": 198418,
+      "word": "女生入职第一天被公司要求刷厕所",
+      "onboard_time": 1667235860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197002,
       "num": 197002,
       "word": "张本智和 吵",
@@ -1392,14 +1400,6 @@
       "word": "妈妈用20本日记唤醒植物人女儿",
       "onboard_time": 1667181987,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172882,
-      "num": 172882,
-      "word": "女生入职第一天被公司要求刷厕所",
-      "onboard_time": 1667235860,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2145,6 +2145,14 @@
       "onboard_time": 1667138553,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54669,
+      "num": 54669,
+      "word": "蔡徐坤加盟晚八点音乐会",
+      "onboard_time": 1667238013,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 54551,

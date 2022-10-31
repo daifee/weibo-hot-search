@@ -1,0 +1,410 @@
+{
+  "runTime": 1667238967924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 454863,
+        "num": 454863,
+        "word": "朋友圈设置三天可见的理由",
+        "onboard_time": 1667226207,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253240,
+        "num": 253240,
+        "word": "单依纯姚贝娜跨时空对唱心火",
+        "onboard_time": 1667234361,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2500,
+        "num": 217538,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 217507,
+        "num": 217507,
+        "word": "女汉子字幕组不再发布中字成品",
+        "onboard_time": 1667230767,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217132,
+        "num": 217132,
+        "word": "踩踏发生有人误认救护车是cosplay",
+        "onboard_time": 1667218764,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 440510,
+        "num": 214912,
+        "word": "退款",
+        "onboard_time": 1667219243,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258957,
+        "num": 211732,
+        "word": "张庭陶虹等涉嫌网络传销案将开听证会",
+        "onboard_time": 1667215764,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 134518,
+        "num": 208055,
+        "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
+        "onboard_time": 1667207785,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 76715,
+        "num": 207536,
+        "word": "女子走进宿舍床上惊现一头猪",
+        "onboard_time": 1667218103,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57821,
+        "num": 202343,
+        "word": "尾款",
+        "onboard_time": 1667219304,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237738,
+        "num": 199712,
+        "word": "官方回应一副局长疑戴3万元耳钉",
+        "onboard_time": 1667226147,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198418,
+        "num": 198418,
+        "word": "女生入职第一天被公司要求刷厕所",
+        "onboard_time": 1667235860,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155235,
+        "num": 155235,
+        "word": "以为看到了李子维黄雨萱",
+        "onboard_time": 1667231485,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136698,
+        "num": 136698,
+        "word": "微信团队就零钱通崩了致歉",
+        "onboard_time": 1667232383,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 133002,
+        "word": "冯小刚否认移民",
+        "onboard_time": 1667228547,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 109995,
+        "word": "云南虫谷腾讯获赔3200万",
+        "onboard_time": 1667226449,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106471,
+        "num": 106471,
+        "word": "郑州要求富士康有序恢复生产生活秩序",
+        "onboard_time": 1667226329,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95360,
+        "num": 95360,
+        "word": "女孩跪地哭喊男朋友不在了",
+        "onboard_time": 1667204065,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 91882,
+        "num": 91882,
+        "word": "武汉江岸区疫情防控",
+        "onboard_time": 1667230048,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63148,
+        "num": 80893,
+        "word": "富士康返乡员工路遇大货车直接被捎上一程",
+        "onboard_time": 1667229985,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78762,
+        "num": 78762,
+        "word": "杨紫鞠婧祎直播状态",
+        "onboard_time": 1667223687,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72018,
+        "num": 72018,
+        "word": "广州今日已取消888个航班",
+        "onboard_time": 1667210127,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60558,
+        "num": 60558,
+        "word": "这就是民国大小姐本人吧",
+        "onboard_time": 1667221466,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59747,
+        "num": 59747,
+        "word": "多款降价iPhone现货被抢空",
+        "onboard_time": 1667221824,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 54669,
+        "num": 54669,
+        "word": "蔡徐坤加盟晚八点音乐会",
+        "onboard_time": 1667238013,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54371,
+        "num": 54371,
+        "word": "这家没猫不行吧",
+        "onboard_time": 1667233045,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51108,
+        "num": 51108,
+        "word": "韩国踩踏事故遇难者身份已全部确认",
+        "onboard_time": 1667207605,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 50040,
+        "num": 50040,
+        "word": "马斯克想把推特改造成海外版微信",
+        "onboard_time": 1667221165,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 46433,
+        "num": 46433,
+        "word": "男朋友是懂自己找台阶下的",
+        "onboard_time": 1667219966,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45711,
+        "num": 45711,
+        "word": "突然就看不懂中文了",
+        "onboard_time": 1667211326,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43793,
+        "num": 43793,
+        "word": "这是上大学还是上大班",
+        "onboard_time": 1667221767,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 41248,
+        "num": 41248,
+        "word": "原神",
+        "onboard_time": 1667211506,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40082,
+        "num": 40082,
+        "word": "韩国将组建梨泰院事故心理救助组",
+        "onboard_time": 1667229210,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 37312,
+        "num": 37312,
+        "word": "老太误将502胶当滴耳液滴满耳道",
+        "onboard_time": 1667206222,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36892,
+        "num": 36892,
+        "word": "VLIVE将于12月31日起停止所有服务",
+        "onboard_time": 1667230048,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39368,
+        "num": 36892,
+        "word": "英国媒体将首尔踩踏事故报道成香港",
+        "onboard_time": 1667206584,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36800,
+        "num": 36800,
+        "word": "泡面刺客真的好贵",
+        "onboard_time": 1667220025,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36737,
+        "num": 36737,
+        "word": "女子求职招聘者称其36岁来碰瓷公司",
+        "onboard_time": 1667225487,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36144,
+        "num": 36144,
+        "word": "张凌赫晒乐高plog告别十月",
+        "onboard_time": 1667233344,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35886,
+        "num": 35886,
+        "word": "乔欣马思超新剧刚开播就亲上了",
+        "onboard_time": 1667235619,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35380,
+        "num": 35380,
+        "word": "零钱通崩了",
+        "onboard_time": 1667220926,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30640,
+        "num": 30640,
+        "word": "傅菁小黑裙套装造型",
+        "onboard_time": 1667232625,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29855,
+        "num": 29855,
+        "word": "披荆斩棘",
+        "onboard_time": 1667226989,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29399,
+        "num": 29399,
+        "word": "年底再不转运就不礼貌了",
+        "onboard_time": 1667229029,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28815,
+        "num": 28815,
+        "word": "一下子就精通excel了",
+        "onboard_time": 1667212164,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28419,
+        "num": 28419,
+        "word": "晚八点音乐会",
+        "onboard_time": 1667237356,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28378,
+        "num": 28378,
+        "word": "沈阳飞芜湖机票低至9元",
+        "onboard_time": 1667228788,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 25425,
+        "word": "凑单",
+        "onboard_time": 1667222905,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24500,
+        "num": 24500,
+        "word": "洗发水",
+        "onboard_time": 1667220025,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 24288,
+        "num": 24288,
+        "word": "梨泰院踩踏事故大规模伤亡原因何在",
+        "onboard_time": 1667198305,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#梦天实验舱发射成功#"
+    }
+  }
+}
