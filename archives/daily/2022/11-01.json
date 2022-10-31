@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667256111958,
+  "endTime": 1667258836852,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -27,12 +27,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632017,
+      "raw_hot": 708867,
       "num": 244862,
       "word": "张庭陶虹等涉嫌网络传销案将开听证会",
       "onboard_time": 1667215764,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 636129,
+      "num": 235079,
+      "word": "官方回应一副局长疑戴3万元耳钉",
+      "onboard_time": 1667226147,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610682,
@@ -43,11 +51,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605047,
-      "num": 235079,
-      "word": "官方回应一副局长疑戴3万元耳钉",
-      "onboard_time": 1667226147,
-      "rank": 10,
+      "raw_hot": 554596,
+      "num": 554596,
+      "word": "女生入职第一天被公司要求刷厕所",
+      "onboard_time": 1667235860,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -123,11 +131,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247516,
-      "num": 247516,
-      "word": "女生入职第一天被公司要求刷厕所",
-      "onboard_time": 1667235860,
-      "rank": 49,
+      "raw_hot": 238660,
+      "num": 238660,
+      "word": "网曝共享充电宝用1小时扣费99元",
+      "onboard_time": 1667244910,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157514,
+      "num": 94126,
+      "word": "女子回应背娃卖气球贴补家用",
+      "onboard_time": 1667240593,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156452,
       "num": 156452,
       "word": "这是上大学还是上大班",
@@ -203,12 +219,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149839,
+      "num": 111660,
+      "word": "韩国踩踏事故遇难者身份已全部确认",
+      "onboard_time": 1667207605,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 144485,
       "num": 144485,
       "word": "沈阳飞芜湖机票低至9元",
       "onboard_time": 1667228788,
       "rank": 23,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 136749,
+      "num": 72102,
+      "word": "梦天舱与空间站组合体完成交会对接",
+      "onboard_time": 1667258239,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 134838,
@@ -275,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111660,
-      "num": 111660,
-      "word": "韩国踩踏事故遇难者身份已全部确认",
-      "onboard_time": 1667207605,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 110071,
       "num": 110071,
       "word": "马斯克想把推特改造成海外版微信",
@@ -291,11 +315,35 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 98234,
+      "num": 98234,
+      "word": "高校女生运动会穿汉服表演舞蹈",
+      "onboard_time": 1667252890,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96670,
+      "num": 71761,
+      "word": "空间站T字基本构型组合体将形成",
+      "onboard_time": 1667258239,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 92775,
       "num": 89038,
       "word": "英国媒体将首尔踩踏事故报道成香港",
       "onboard_time": 1667206584,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92031,
+      "num": 92031,
+      "word": "开封一店家讲述徒步返乡人群现状",
+      "onboard_time": 1667250011,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -323,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81893,
-      "num": 76083,
-      "word": "女子回应背娃卖气球贴补家用",
-      "onboard_time": 1667240593,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 84058,
+      "num": 84058,
+      "word": "乔欣马思超新剧刚开播就亲上了",
+      "onboard_time": 1667235619,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 81746,
@@ -353,14 +401,6 @@
       "onboard_time": 1667220025,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 76072,
-      "num": 76072,
-      "word": "网曝共享充电宝用1小时扣费99元",
-      "onboard_time": 1667244910,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75298,
@@ -395,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67446,
-      "num": 67446,
-      "word": "开封一店家讲述徒步返乡人群现状",
-      "onboard_time": 1667250011,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65079,
       "num": 65079,
       "word": "Jennie跳了Lisa的Money",
       "onboard_time": 1667216366,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62145,
+      "num": 62145,
+      "word": "打翻主人麻薯被训斥的猫咪",
+      "onboard_time": 1667242092,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62084,
@@ -451,36 +491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42693,
-      "num": 42693,
-      "word": "乔欣马思超新剧刚开播就亲上了",
-      "onboard_time": 1667235619,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26306,
-      "num": 26306,
-      "word": "白化浣熊站吃货同伴中摊手等投喂",
-      "onboard_time": 1667248449,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24390,
-      "num": 24390,
+      "raw_hot": 46207,
+      "num": 46207,
       "word": "共享充电宝为何成了嫌弃包",
       "onboard_time": 1667247371,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23801,
-      "num": 23801,
-      "word": "打翻主人麻薯被训斥的猫咪",
-      "onboard_time": 1667242092,
+      "raw_hot": 42659,
+      "num": 42659,
+      "word": "白化浣熊站吃货同伴中摊手等投喂",
+      "onboard_time": 1667248449,
       "rank": 49,
-      "category": "幽默"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37086,
+      "num": 37086,
+      "word": "马嘉祺晒我们的歌花絮大片",
+      "onboard_time": 1667230108,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22340,
@@ -491,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21763,
-      "num": 21763,
-      "word": "高校女生运动会穿汉服表演舞蹈",
-      "onboard_time": 1667252890,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19686,
       "num": 19686,
       "word": "蔡徐坤曾经的你舞台照",
@@ -507,7 +531,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 6190,
+      "raw_hot": 7841,
       "num": 556622,
       "word": "飞天圆梦",
       "onboard_time": 1667124987,
