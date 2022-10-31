@@ -1,0 +1,410 @@
+{
+  "runTime": 1667190641221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2614348,
+        "num": 2614348,
+        "word": "3D还原梨泰院踩踏事故过程",
+        "onboard_time": 1667174845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321961,
+        "num": 1321961,
+        "word": "富士康",
+        "onboard_time": 1667174666,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17751,
+        "num": 1231131,
+        "word": "飞天圆梦",
+        "onboard_time": 1667124987,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1383689,
+        "num": 1215985,
+        "word": "韩警方已取得现场监控视频",
+        "onboard_time": 1667185523,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1161322,
+        "num": 1161322,
+        "word": "去迪士尼千万不要扮灰姑娘",
+        "onboard_time": 1667185345,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1109616,
+        "num": 1109616,
+        "word": "安陵容不就是蕾哈娜吗",
+        "onboard_time": 1667186965,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1006487,
+        "num": 1006487,
+        "word": "韩踩踏事故5米长的斜坡挤了300多人",
+        "onboard_time": 1667180126,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791740,
+        "num": 791740,
+        "word": "重庆32岁美女学霸多次相亲未成功",
+        "onboard_time": 1667184684,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608880,
+        "num": 690246,
+        "word": "广州新增本土确诊232例无症状295例",
+        "onboard_time": 1667180726,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995306,
+        "num": 685983,
+        "word": "19岁女孩梨泰院见将服兵役男友遇难",
+        "onboard_time": 1667172802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701955,
+        "num": 685518,
+        "word": "迪士尼",
+        "onboard_time": 1667187265,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643535,
+        "num": 643535,
+        "word": "富士康员工发声",
+        "onboard_time": 1667171840,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625441,
+        "num": 625441,
+        "word": "梨泰院",
+        "onboard_time": 1667174666,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508370,
+        "num": 508370,
+        "word": "董宇辉山东行直播被陌生女子泼水",
+        "onboard_time": 1667177007,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 4001,
+        "num": 485741,
+        "word": "MateXs2支持北斗卫星消息",
+        "onboard_time": 1667186003,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484610,
+        "num": 484610,
+        "word": "在韩留学生爬上商家备用凳子脱险",
+        "onboard_time": 1667189125,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 431745,
+        "num": 431745,
+        "word": "电影坠落确认引进",
+        "onboard_time": 1667184864,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398262,
+        "num": 398262,
+        "word": "学信网崩了",
+        "onboard_time": 1667184625,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342805,
+        "num": 342805,
+        "word": "中国留学生称曾收到陌生人糖果没吃",
+        "onboard_time": 1667172860,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285284,
+        "num": 285284,
+        "word": "女子高速上用豪车骗现金被摁倒",
+        "onboard_time": 1667188526,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284017,
+        "num": 284017,
+        "word": "李智汉遇难",
+        "onboard_time": 1667137228,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242421,
+        "num": 242421,
+        "word": "Faker和Deft决赛相遇",
+        "onboard_time": 1667182585,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231273,
+        "num": 231273,
+        "word": "奔跑吧共富篇定档11月4日",
+        "onboard_time": 1667185824,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226162,
+        "num": 226162,
+        "word": "Deft的最后一舞",
+        "onboard_time": 1667178625,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211642,
+        "num": 211642,
+        "word": "这是可以说的官宣定档",
+        "onboard_time": 1667188767,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203715,
+        "num": 203715,
+        "word": "杨幂白宇新剧角色适配度",
+        "onboard_time": 1667184323,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198488,
+        "num": 198488,
+        "word": "宝爸睡迷糊错把被子当女儿",
+        "onboard_time": 1667175688,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194502,
+        "num": 194502,
+        "word": "杭州草莓音乐节阵容",
+        "onboard_time": 1667190028,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190488,
+        "num": 190488,
+        "word": "蔡徐坤现象合作舞台播放量破亿",
+        "onboard_time": 1667189847,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 187958,
+        "word": "掘金vs湖人",
+        "onboard_time": 1667180603,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178560,
+        "num": 178560,
+        "word": "chovy",
+        "onboard_time": 1667180963,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177014,
+        "num": 177014,
+        "word": "疯狂动物城衍生剧预告",
+        "onboard_time": 1667182405,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 171503,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1667184625,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157039,
+        "num": 157039,
+        "word": "日本东京涩谷加强安保谨防踩踏事件发生",
+        "onboard_time": 1667181206,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149196,
+        "num": 149196,
+        "word": "中国空间站又要扩容了",
+        "onboard_time": 1667182163,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148488,
+        "num": 148488,
+        "word": "95后小伙花2万装修入住毛坯房",
+        "onboard_time": 1667176588,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138289,
+        "num": 138289,
+        "word": "妈妈用20本日记唤醒植物人女儿",
+        "onboard_time": 1667181987,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135590,
+        "num": 135590,
+        "word": "贺峻霖惦记了很久终于能发的图片",
+        "onboard_time": 1667185824,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134311,
+        "num": 134311,
+        "word": "唐朝诡事录收官团建",
+        "onboard_time": 1667181806,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132395,
+        "num": 132395,
+        "word": "印度一座拉索桥断裂坍塌",
+        "onboard_time": 1667183006,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131103,
+        "num": 131103,
+        "word": "北京昨增本土确诊16例",
+        "onboard_time": 1667183543,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122949,
+        "num": 122949,
+        "word": "郑州富士康党委书记苏东霞回应发文",
+        "onboard_time": 1667139394,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122088,
+        "num": 122088,
+        "word": "王一博反转暖心短片",
+        "onboard_time": 1667186244,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119585,
+        "num": 119585,
+        "word": "SAO发售",
+        "onboard_time": 1667187325,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112432,
+        "num": 112432,
+        "word": "女孩凌晨走失民警联系家长被拒三次",
+        "onboard_time": 1667172742,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 111899,
+        "word": "欧阳震华晒最喜欢的表情包",
+        "onboard_time": 1667186725,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111551,
+        "num": 111551,
+        "word": "GEN止步S12四强",
+        "onboard_time": 1667180546,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101992,
+        "num": 101992,
+        "word": "怎么会有人又年轻又老成",
+        "onboard_time": 1667175267,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100240,
+        "num": 100240,
+        "word": "严浩翔的低音",
+        "onboard_time": 1667184864,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92720,
+        "num": 92720,
+        "word": "减肥课代表来了",
+        "onboard_time": 1667190507,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这次考察立足新的征程#"
+    }
+  }
+}
