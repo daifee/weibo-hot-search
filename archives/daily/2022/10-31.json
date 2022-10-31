@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667198920142,
+  "endTime": 1667200964667,
   "band_list": [
     {
       "raw_hot": 2614348,
@@ -25,6 +25,14 @@
       "onboard_time": 1667187265,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1757914,
+      "num": 1757914,
+      "word": "在韩留学生爬上商家备用凳子脱险",
+      "onboard_time": 1667189125,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1651664,
@@ -107,20 +115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1154430,
-      "num": 1154430,
-      "word": "在韩留学生爬上商家备用凳子脱险",
-      "onboard_time": 1667189125,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 976069,
       "num": 976069,
       "word": "上海迪士尼10月31日起暂时关闭",
       "onboard_time": 1667192006,
       "rank": 11,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 947456,
+      "num": 596349,
+      "word": "踩踏现场男子自拍被挤压情况",
+      "onboard_time": 1667194464,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 932638,
@@ -144,14 +152,6 @@
       "word": "韩国踩踏事故已致154人遇难",
       "onboard_time": 1667141731,
       "rank": 3,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 827632,
-      "num": 446282,
-      "word": "踩踏现场男子自拍被挤压情况",
-      "onboard_time": 1667194464,
-      "rank": 35,
       "category": "社会负面"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1667178625,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 655573,
+      "num": 655573,
+      "word": "董宇辉回应直播时被女子泼水",
+      "onboard_time": 1667197222,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650812,
@@ -315,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 410904,
+      "num": 410904,
+      "word": "一眼难忘的浓颜系明星",
+      "onboard_time": 1667195724,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408498,
       "num": 408498,
       "word": "DRX晋级决赛",
@@ -337,6 +353,14 @@
       "onboard_time": 1667181206,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391997,
+      "num": 302825,
+      "word": "韩国发布踩踏事故伤亡人员补助方案",
+      "onboard_time": 1667197463,
+      "rank": 33,
+      "category": "社会负面"
     },
     {
       "raw_hot": 383759,
@@ -411,28 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325983,
-      "num": 325983,
-      "word": "一眼难忘的浓颜系明星",
-      "onboard_time": 1667195724,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 313809,
       "num": 313809,
       "word": "遭投毒百草枯女孩换肺后身体好转",
       "onboard_time": 1667136628,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299267,
-      "num": 178083,
-      "word": "韩国发布踩踏事故伤亡人员补助方案",
-      "onboard_time": 1667197463,
-      "rank": 33,
-      "category": "社会负面"
     },
     {
       "raw_hot": 297690,
@@ -507,6 +515,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 250042,
+      "num": 250042,
+      "word": "女子遭黄鼠狼拦路咬裤腿不放",
+      "onboard_time": 1667198780,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248808,
+      "num": 248808,
+      "word": "4月宝宝睡醒哭喊全家一致起身",
+      "onboard_time": 1667194525,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248744,
       "num": 248744,
       "word": "蓝盈莹潘晓晨分手了",
@@ -521,6 +545,14 @@
       "onboard_time": 1667195485,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245535,
+      "num": 245535,
+      "word": "你是踩踏事故中夜店老板会开门吗",
+      "onboard_time": 1667199443,
+      "rank": 20,
+      "category": "社会议题"
     },
     {
       "raw_hot": 242976,
@@ -563,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226051,
-      "num": 226051,
-      "word": "4月宝宝睡醒哭喊全家一致起身",
-      "onboard_time": 1667194525,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225936,
       "num": 225936,
       "word": "易烊千玺四部作品入选五个一工程",
@@ -579,11 +603,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221958,
-      "num": 221958,
-      "word": "董宇辉回应直播时被女子泼水",
-      "onboard_time": 1667197222,
-      "rank": 34,
+      "raw_hot": 224499,
+      "num": 224499,
+      "word": "武大博士每日为父母煎饼店送外卖",
+      "onboard_time": 1667197762,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199016,
+      "num": 199016,
+      "word": "广汽菲克申请破产",
+      "onboard_time": 1667199564,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197002,
       "num": 197002,
       "word": "张本智和 吵",
@@ -641,6 +673,14 @@
       "onboard_time": 1667175267,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "身体折叠180度的他终于能抬头看天",
+      "onboard_time": 1667196565,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194147,
@@ -723,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177005,
-      "num": 177005,
-      "word": "身体折叠180度的他终于能抬头看天",
-      "onboard_time": 1667196565,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172300,
       "num": 172300,
       "word": "只有中国航天才能取出这么绝的名字",
@@ -745,6 +777,14 @@
       "onboard_time": 1667118387,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 168088,
+      "num": 168088,
+      "word": "法医探案团定档",
+      "onboard_time": 1667197762,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 163973,
@@ -795,14 +835,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 140734,
-      "num": 140734,
-      "word": "法医探案团定档",
-      "onboard_time": 1667197762,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140218,
       "num": 140218,
       "word": "一条plog告别十月",
@@ -817,6 +849,14 @@
       "onboard_time": 1667190507,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139699,
+      "num": 139699,
+      "word": "29岁女科学家发6篇Science获百万大奖",
+      "onboard_time": 1667200223,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138902,
@@ -851,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133453,
+      "num": 133453,
+      "word": "梨泰院踩踏事故大规模伤亡原因何在",
+      "onboard_time": 1667198305,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "重病女孩含泪劝父亲不要借钱手术",
@@ -873,6 +921,14 @@
       "onboard_time": 1667141191,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126866,
+      "num": 126866,
+      "word": "双十一今晚8点付尾款",
+      "onboard_time": 1667200524,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125231,
@@ -939,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 112456,
-      "num": 112456,
-      "word": "武大博士每日为父母煎饼店送外卖",
-      "onboard_time": 1667197762,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112289,
       "num": 112289,
       "word": "王铮亮是谐音梗刺客吧",
@@ -987,7 +1035,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102762,
+      "raw_hot": 102768,
       "num": 360843,
       "word": "女子头部摔伤两警车开道7分钟送医",
       "onboard_time": 1667196805,
@@ -1003,18 +1051,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100177,
-      "num": 100177,
-      "word": "梨泰院踩踏事故大规模伤亡原因何在",
-      "onboard_time": 1667198305,
-      "rank": 40,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 99385,
       "num": 99385,
       "word": "蔡文静彭冠英演情侣好危险",
       "onboard_time": 1667184323,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 98882,
+      "num": 98882,
+      "word": "宋茜许魏洲新剧醉酒吻",
+      "onboard_time": 1667198125,
       "rank": 42,
       "category": "影视"
     },
@@ -1059,14 +1107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91828,
-      "num": 91828,
-      "word": "宋茜许魏洲新剧醉酒吻",
-      "onboard_time": 1667198125,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 91777,
       "num": 91777,
       "word": "恭喜孙颖莎王楚钦",
@@ -1107,14 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82811,
-      "num": 82811,
-      "word": "女子遭黄鼠狼拦路咬裤腿不放",
-      "onboard_time": 1667198780,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82538,
       "num": 82538,
       "word": "威少18分",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1667184205,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 75119,
+      "num": 75119,
+      "word": "小伙每天1斤白酒患上精神分裂症",
+      "onboard_time": 1667200826,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66859,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 31891,
+      "num": 283496,
+      "word": "重庆籍灭火英雄冯坪坪魂归故里",
+      "onboard_time": 1667199681,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13818,

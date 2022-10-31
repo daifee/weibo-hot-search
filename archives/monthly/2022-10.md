@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 14:48:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/31 15:22:44
 </p>
 </blockquote>
 <p>
@@ -863,6 +863,12 @@ RNG（热度：1856164）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9A%82%E5%81%9C%E5%90%91%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BE%9B%E5%BA%94%E5%A4%A9%E7%84%B6%E6%B0%94%23" target="weibo">
 俄罗斯暂停向意大利供应天然气（热度：1760447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E7%95%99%E5%AD%A6%E7%94%9F%E7%88%AC%E4%B8%8A%E5%95%86%E5%AE%B6%E5%A4%87%E7%94%A8%E5%87%B3%E5%AD%90%E8%84%B1%E9%99%A9%23" target="weibo">
+在韩留学生爬上商家备用凳子脱险（热度：1757914）
 </a>
 </li>
 
@@ -2073,12 +2079,6 @@ Yagao确诊（热度：1155685）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E7%95%99%E5%AD%A6%E7%94%9F%E7%88%AC%E4%B8%8A%E5%95%86%E5%AE%B6%E5%A4%87%E7%94%A8%E5%87%B3%E5%AD%90%E8%84%B1%E9%99%A9%23" target="weibo">
-在韩留学生爬上商家备用凳子脱险（热度：1154430）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%A6%96%E7%9B%B8%23" target="weibo">
 英国迎首位印度裔首相（热度：1150166）
 </a>
@@ -3009,6 +3009,12 @@ RNG被翻盘（热度：947576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B8%A9%E8%B8%8F%E7%8E%B0%E5%9C%BA%E7%94%B7%E5%AD%90%E8%87%AA%E6%8B%8D%E8%A2%AB%E6%8C%A4%E5%8E%8B%E6%83%85%E5%86%B5%23" target="weibo">
+踩踏现场男子自拍被挤压情况（热度：947456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%94%9F%E9%97%B7%E6%B0%94%E7%9A%84%E5%A5%B3%E6%80%A7%E6%9B%B4%E5%AE%B9%E6%98%93%E4%B9%B3%E8%85%BA%E5%A2%9E%E7%94%9F%23" target="weibo">
 常生闷气的女性更容易乳腺增生（热度：944289）
 </a>
@@ -3755,12 +3761,6 @@ C盘一下子就不红了（热度：837150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%BF%90%E5%9F%8E%E5%8F%91%E7%8E%B031%E4%BE%8B%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%E4%BA%BA%E5%91%98%23" target="weibo">
 山西运城发现31例核酸异常人员（热度：829977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B8%A9%E8%B8%8F%E7%8E%B0%E5%9C%BA%E7%94%B7%E5%AD%90%E8%87%AA%E6%8B%8D%E8%A2%AB%E6%8C%A4%E5%8E%8B%E6%83%85%E5%86%B5%23" target="weibo">
-踩踏现场男子自拍被挤压情况（热度：827632）
 </a>
 </li>
 
@@ -5583,6 +5583,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%B3%BC%E6%B0%B4%23" target="weibo">
+董宇辉回应直播时被女子泼水（热度：655573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%882%E6%97%A5%E6%96%B0%E5%A2%9E466%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23" target="weibo">
 10月2日新增466例本土无症状（热度：655185）
 </a>
@@ -6005,12 +6011,6 @@ iPhone6二手收购价低至100元（热度：632338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%23" target="weibo">
 我们的歌（热度：625668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%A5%A5%E6%81%B0%E6%B4%9B%E5%A4%AB%23" target="weibo">
-王楚钦vs奥恰洛夫（热度：625305）
 </a>
 </li>
 
