@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/01 04:26:14
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/01 04:41:24
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ Jennie跳了Lisa的Money（热度：65079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E7%94%A81%E5%B0%8F%E6%97%B6%E6%89%A3%E8%B4%B999%E5%85%83%23" target="weibo">
+网曝共享充电宝用1小时扣费99元（热度：51691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%83%8C%E5%A8%83%E5%8D%96%E6%B0%94%E7%90%83%E8%B4%B4%E8%A1%A5%E5%AE%B6%E7%94%A8%23" target="weibo">
 女子回应背娃卖气球贴补家用（热度：50405）
 </a>
@@ -341,12 +347,6 @@ Jennie跳了Lisa的Money（热度：65079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E9%A9%AC%E6%80%9D%E8%B6%85%E6%96%B0%E5%89%A7%E5%88%9A%E5%BC%80%E6%92%AD%E5%B0%B1%E4%BA%B2%E4%B8%8A%E4%BA%86%23" target="weibo">
 乔欣马思超新剧刚开播就亲上了（热度：42693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E7%94%A81%E5%B0%8F%E6%97%B6%E6%89%A3%E8%B4%B999%E5%85%83%23" target="weibo">
-网曝共享充电宝用1小时扣费99元（热度：40873）
 </a>
 </li>
 
@@ -370,7 +370,13 @@ Jennie跳了Lisa的Money（热度：65079）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E5%AB%8C%E5%BC%83%E5%8C%85%23" target="weibo">
-共享充电宝为何成了嫌弃包（热度：9896）
+共享充电宝为何成了嫌弃包（热度：11558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8C%96%E6%B5%A3%E7%86%8A%E7%AB%99%E5%90%83%E8%B4%A7%E5%90%8C%E4%BC%B4%E4%B8%AD%E6%91%8A%E6%89%8B%E7%AD%89%E6%8A%95%E5%96%82%23" target="weibo">
+白化浣熊站吃货同伴中摊手等投喂（热度：8844）
 </a>
 </li>
 

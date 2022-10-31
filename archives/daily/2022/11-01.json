@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667247974914,
+  "endTime": 1667248884456,
   "band_list": [
     {
       "raw_hot": 1363339,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51691,
+      "num": 23982,
+      "word": "网曝共享充电宝用1小时扣费99元",
+      "onboard_time": 1667244910,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50405,
       "num": 31221,
       "word": "女子回应背娃卖气球贴补家用",
@@ -441,14 +449,6 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 40873,
-      "num": 23642,
-      "word": "网曝共享充电宝用1小时扣费99元",
-      "onboard_time": 1667244910,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22340,
@@ -475,10 +475,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9896,
-      "num": 9896,
+      "raw_hot": 11558,
+      "num": 11558,
       "word": "共享充电宝为何成了嫌弃包",
       "onboard_time": 1667247371,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8844,
+      "num": 8844,
+      "word": "白化浣熊站吃货同伴中摊手等投喂",
+      "onboard_time": 1667248449,
       "rank": 49,
       "category": "社会新闻"
     },
