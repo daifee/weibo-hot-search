@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667222085473,
+  "endTime": 1667224491868,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041022,
+      "num": 1041022,
+      "word": "踩踏发生有人误认救护车是cosplay",
+      "onboard_time": 1667218764,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1033728,
       "num": 536321,
       "word": "你是踩踏事故中夜店老板会开门吗",
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 780964,
+      "num": 413701,
+      "word": "杨紫鞠婧祎直播状态",
+      "onboard_time": 1667223687,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 777311,
       "num": 596366,
       "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
@@ -361,14 +377,6 @@
       "onboard_time": 1667192849,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 634300,
-      "num": 279503,
-      "word": "踩踏发生有人误认救护车是cosplay",
-      "onboard_time": 1667218764,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 633298,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478412,
+      "num": 478412,
+      "word": "洗发水",
+      "onboard_time": 1667220025,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 478045,
       "num": 478045,
       "word": "富士康最新声明",
@@ -515,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 466847,
+      "num": 394616,
+      "word": "多款降价iPhone现货被抢空",
+      "onboard_time": 1667221824,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 462248,
       "num": 462248,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -537,6 +561,14 @@
       "onboard_time": 1667140952,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450910,
+      "num": 450910,
+      "word": "这就是民国大小姐本人吧",
+      "onboard_time": 1667221466,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 441502,
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 398678,
-      "num": 279475,
+      "num": 291057,
       "word": "零钱通崩了",
       "onboard_time": 1667220926,
       "rank": 11,
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286317,
+      "num": 286317,
+      "word": "田小娟好有魄力",
+      "onboard_time": 1667224167,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284433,
       "num": 263729,
       "word": "田曦薇万圣节兔子警官造型",
@@ -817,6 +857,14 @@
       "onboard_time": 1667207066,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 274523,
+      "num": 274523,
+      "word": "男朋友是懂自己找台阶下的",
+      "onboard_time": 1667219966,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 270029,
@@ -891,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245370,
-      "num": 245370,
-      "word": "洗发水",
-      "onboard_time": 1667220025,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "当猫咪误入女生宿舍",
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230165,
+      "num": 230165,
+      "word": "这是上大学还是上大班",
+      "onboard_time": 1667221767,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 229644,
       "num": 229644,
       "word": "10月30日新增本土确诊479例",
@@ -995,12 +1043,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 218964,
+      "num": 218964,
+      "word": "陈伟霆说与小狗牵手成功",
+      "onboard_time": 1667224167,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217146,
       "num": 217146,
       "word": "北京昨增本土确诊16例",
       "onboard_time": 1667183543,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215312,
+      "num": 215312,
+      "word": "马斯克想把推特改造成海外版微信",
+      "onboard_time": 1667221165,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 211642,
@@ -1017,14 +1081,6 @@
       "onboard_time": 1667184864,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204630,
-      "num": 204630,
-      "word": "这就是民国大小姐本人吧",
-      "onboard_time": 1667221466,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 201490,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1667196565,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195032,
+      "num": 147644,
+      "word": "宋亚轩藕片自拍",
+      "onboard_time": 1667224226,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194147,
@@ -1203,12 +1267,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167006,
-      "num": 167006,
-      "word": "男朋友是懂自己找台阶下的",
-      "onboard_time": 1667219966,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 164908,
+      "num": 164908,
+      "word": "我的朋友",
+      "onboard_time": 1667224346,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 163973,
@@ -1257,6 +1321,22 @@
       "onboard_time": 1667163730,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "泡面刺客真的好贵",
+      "onboard_time": 1667220025,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 145174,
+      "num": 145174,
+      "word": "凑单",
+      "onboard_time": 1667222905,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 144450,
@@ -1347,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133939,
-      "num": 131470,
-      "word": "泡面刺客真的好贵",
-      "onboard_time": 1667220025,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 133124,
       "num": 133124,
       "word": "长征五号B遥四运载火箭已完成推进剂加注",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1667207364,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "脱口秀大会5官宣刘震云加盟",
+      "onboard_time": 1667219725,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 132245,
@@ -1491,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116639,
+      "num": 116639,
+      "word": "黑猩猩被自己的盛世美颜惊呆了",
+      "onboard_time": 1667222548,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "赵粤翻跳NXDE",
@@ -1563,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102309,
+      "num": 102309,
+      "word": "洗衣液",
+      "onboard_time": 1667222967,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 100185,
       "num": 100185,
       "word": "分享欲就是无声的告白",
@@ -1603,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98616,
-      "num": 98616,
-      "word": "脱口秀大会5官宣刘震云加盟",
-      "onboard_time": 1667219725,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
@@ -1625,14 +1713,6 @@
       "onboard_time": 1667198543,
       "rank": 41,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 95698,
-      "num": 95698,
-      "word": "多款降价iPhone现货被抢空",
-      "onboard_time": 1667221824,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 94840,
@@ -1699,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86446,
+      "num": 86446,
+      "word": "张远有碎活陆虎有爱情",
+      "onboard_time": 1667223447,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85014,
       "num": 85014,
       "word": "梦天实验舱",
@@ -1761,22 +1849,6 @@
       "onboard_time": 1667215406,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74278,
-      "num": 74278,
-      "word": "这是上大学还是上大班",
-      "onboard_time": 1667221767,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 71445,
-      "num": 71445,
-      "word": "马斯克想把推特改造成海外版微信",
-      "onboard_time": 1667221165,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 66859,
@@ -1875,6 +1947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 43654,
+      "num": 329035,
+      "word": "4K升格镜头看梦天发射",
+      "onboard_time": 1667221225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40201,
       "num": 283496,
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
@@ -1887,14 +1967,6 @@
       "num": 398937,
       "word": "今年1111都是晚8点了",
       "onboard_time": 1667211085,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19163,
-      "num": 245818,
-      "word": "4K升格镜头看梦天发射",
-      "onboard_time": 1667221225,
       "rank": 14,
       "category": "社会新闻"
     },

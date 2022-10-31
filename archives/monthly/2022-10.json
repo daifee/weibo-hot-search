@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1667222085473,
+  "endTime": 1667224491868,
   "band_list": [
     {
       "raw_hot": 9330045,
@@ -3443,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041022,
+      "num": 1041022,
+      "word": "踩踏发生有人误认救护车是cosplay",
+      "onboard_time": 1667218764,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1040827,
       "num": 333695,
       "word": "女博士将百万积蓄交亲姐打理难要回",
@@ -5625,6 +5633,14 @@
       "onboard_time": 1665962477,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 780964,
+      "num": 413701,
+      "word": "杨紫鞠婧祎直播状态",
+      "onboard_time": 1667223687,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 780526,
@@ -7985,14 +8001,6 @@
       "onboard_time": 1666229423,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634300,
-      "num": 279503,
-      "word": "踩踏发生有人误认救护车是cosplay",
-      "onboard_time": 1667218764,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 633973,
@@ -11811,6 +11819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478412,
+      "num": 478412,
+      "word": "洗发水",
+      "onboard_time": 1667220025,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 478135,
       "num": 361451,
       "word": "华春莹连发13张图宣传中国制造",
@@ -12289,6 +12305,14 @@
       "onboard_time": 1665838823,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 466847,
+      "num": 394616,
+      "word": "多款降价iPhone现货被抢空",
+      "onboard_time": 1667221824,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 466478,
@@ -12864,6 +12888,14 @@
       "word": "虞书欣小森林重新定义渣男",
       "onboard_time": 1664709682,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 450910,
+      "num": 450910,
+      "word": "这就是民国大小姐本人吧",
+      "onboard_time": 1667221466,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -15140,7 +15172,7 @@
     },
     {
       "raw_hot": 398678,
-      "num": 279475,
+      "num": 291057,
       "word": "零钱通崩了",
       "onboard_time": 1667220926,
       "rank": 11,
@@ -21115,6 +21147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286317,
+      "num": 286317,
+      "word": "田小娟好有魄力",
+      "onboard_time": 1667224167,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286213,
       "num": 286213,
       "word": "张本智和4比0奥恰洛夫",
@@ -21953,6 +21993,14 @@
       "onboard_time": 1666360824,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 274523,
+      "num": 274523,
+      "word": "男朋友是懂自己找台阶下的",
+      "onboard_time": 1667219966,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 274495,
@@ -24363,14 +24411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245370,
-      "num": 245370,
-      "word": "洗发水",
-      "onboard_time": 1667220025,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 245252,
       "num": 245252,
       "word": "男生经常夸容貌焦虑女友你好漂亮",
@@ -25819,6 +25859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230165,
+      "num": 230165,
+      "word": "这是上大学还是上大班",
+      "onboard_time": 1667221767,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 230089,
       "num": 102827,
       "word": "被小猫文学整破防了",
@@ -27019,6 +27067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218964,
+      "num": 218964,
+      "word": "陈伟霆说与小狗牵手成功",
+      "onboard_time": 1667224167,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "网传赖冠霖宣璐新剧即将开机",
@@ -27377,6 +27433,14 @@
       "onboard_time": 1665802344,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215312,
+      "num": 215312,
+      "word": "马斯克想把推特改造成海外版微信",
+      "onboard_time": 1667221165,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 215260,
@@ -28451,14 +28515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204630,
-      "num": 204630,
-      "word": "这就是民国大小姐本人吧",
-      "onboard_time": 1667221466,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204616,
       "num": 201178,
       "word": "王一博的疑问三连",
@@ -29473,6 +29529,14 @@
       "onboard_time": 1664972905,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 195032,
+      "num": 147644,
+      "word": "宋亚轩藕片自拍",
+      "onboard_time": 1667224226,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194930,
@@ -32659,14 +32723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167006,
-      "num": 167006,
-      "word": "男朋友是懂自己找台阶下的",
-      "onboard_time": 1667219966,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166994,
       "num": 49258,
       "word": "DOTA2",
@@ -32873,6 +32929,14 @@
       "onboard_time": 1664902457,
       "rank": 7,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 164908,
+      "num": 164908,
+      "word": "我的朋友",
+      "onboard_time": 1667224346,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 164847,
@@ -34675,6 +34739,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "泡面刺客真的好贵",
+      "onboard_time": 1667220025,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149509,
       "num": 149509,
       "word": "程潇赞多双人battle默契值拉满",
@@ -35305,6 +35377,14 @@
       "onboard_time": 1665602530,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145174,
+      "num": 145174,
+      "word": "凑单",
+      "onboard_time": 1667222905,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 145085,
@@ -36875,14 +36955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133939,
-      "num": 131470,
-      "word": "泡面刺客真的好贵",
-      "onboard_time": 1667220025,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 133934,
       "num": 81437,
       "word": "三悦年度好哭剧",
@@ -37041,6 +37113,14 @@
       "onboard_time": 1667207364,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "脱口秀大会5官宣刘震云加盟",
+      "onboard_time": 1667219725,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 132786,
@@ -39323,6 +39403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116639,
+      "num": 116639,
+      "word": "黑猩猩被自己的盛世美颜惊呆了",
+      "onboard_time": 1667222548,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116633,
       "num": 116633,
       "word": "原帅11记三分",
@@ -41427,6 +41515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102309,
+      "num": 102309,
+      "word": "洗衣液",
+      "onboard_time": 1667222967,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 102260,
       "num": 102260,
       "word": "张彬彬镜头里的小森林拍摄地",
@@ -42091,14 +42187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98616,
-      "num": 98616,
-      "word": "脱口秀大会5官宣刘震云加盟",
-      "onboard_time": 1667219725,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98564,
       "num": 98564,
       "word": "张艺兴大航海2巡演",
@@ -42465,14 +42553,6 @@
       "onboard_time": 1667124746,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95698,
-      "num": 95698,
-      "word": "多款降价iPhone现货被抢空",
-      "onboard_time": 1667221824,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 95665,
@@ -43777,6 +43857,14 @@
       "onboard_time": 1666417944,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86446,
+      "num": 86446,
+      "word": "张远有碎活陆虎有爱情",
+      "onboard_time": 1667223447,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 86382,
@@ -45651,14 +45739,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 74278,
-      "num": 74278,
-      "word": "这是上大学还是上大班",
-      "onboard_time": 1667221767,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 74141,
       "num": 74141,
       "word": "孙铭徽20分",
@@ -46017,14 +46097,6 @@
       "onboard_time": 1665978085,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71445,
-      "num": 71445,
-      "word": "马斯克想把推特改造成海外版微信",
-      "onboard_time": 1667221165,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 71384,
@@ -48915,6 +48987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43654,
+      "num": 329035,
+      "word": "4K升格镜头看梦天发射",
+      "onboard_time": 1667221225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43521,
       "num": 43521,
       "word": "莱比锡3比2皇马",
@@ -50055,14 +50135,6 @@
       "num": 56098,
       "word": "护飞队队长讲述救助东方白鹳经历",
       "onboard_time": 1666346483,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19163,
-      "num": 245818,
-      "word": "4K升格镜头看梦天发射",
-      "onboard_time": 1667221225,
       "rank": 14,
       "category": "社会新闻"
     },
