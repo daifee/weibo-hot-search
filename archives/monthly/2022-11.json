@@ -1,14 +1,22 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667316415537,
+  "endTime": 1667317464667,
   "band_list": [
     {
-      "raw_hot": 2649781,
-      "num": 2649781,
+      "raw_hot": 2723284,
+      "num": 2723284,
       "word": "兰州七里河通报",
       "onboard_time": 1667309909,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2680849,
+      "num": 2680849,
+      "word": "热依扎获奖孙俪在台下哭了",
+      "onboard_time": 1667317051,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2604244,
@@ -51,12 +59,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1776758,
+      "num": 462521,
+      "word": "兰州疫情防控",
+      "onboard_time": 1667315671,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1698971,
       "num": 977330,
       "word": "3位艺人在梨泰院踩踏事故中丧生",
       "onboard_time": 1667260462,
       "rank": 3,
       "category": "社会负面,艺人"
+    },
+    {
+      "raw_hot": 1586990,
+      "num": 1586990,
+      "word": "福原爱被男友前妻起诉",
+      "onboard_time": 1667314953,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1582799,
@@ -113,14 +137,6 @@
       "onboard_time": 1667226207,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1283640,
-      "num": 473170,
-      "word": "福原爱被男友前妻起诉",
-      "onboard_time": 1667314953,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1207192,
@@ -219,20 +235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1051250,
+      "num": 482283,
+      "word": "富士康回应726房间事件",
+      "onboard_time": 1667314590,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043920,
       "num": 241679,
       "word": "关晓彤发型",
       "onboard_time": 1667309068,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1036743,
-      "num": 468601,
-      "word": "富士康回应726房间事件",
-      "onboard_time": 1667314590,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1010373,
@@ -563,11 +579,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 508698,
-      "num": 462521,
-      "word": "兰州疫情防控",
-      "onboard_time": 1667315671,
-      "rank": 13,
+      "raw_hot": 508625,
+      "num": 508625,
+      "word": "男生疑食堂秤有问题用饮料自测证实",
+      "onboard_time": 1667313270,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -576,6 +592,14 @@
       "word": "尾款",
       "onboard_time": 1667219304,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494422,
+      "num": 494422,
+      "word": "福州地铁",
+      "onboard_time": 1667314052,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -611,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475019,
-      "num": 475019,
-      "word": "福州地铁",
-      "onboard_time": 1667314052,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469845,
       "num": 418347,
       "word": "张雨绮穿了网友为她设计的裙子",
@@ -649,14 +665,6 @@
       "onboard_time": 1667292208,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 442231,
-      "num": 442231,
-      "word": "男生疑食堂秤有问题用饮料自测证实",
-      "onboard_time": 1667313270,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441867,
@@ -963,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275557,
+      "num": 275557,
+      "word": "大件快递员晒双十一工资条日薪过千",
+      "onboard_time": 1667313210,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274293,
       "num": 249446,
       "word": "TaylorSwift空降成绩",
@@ -993,6 +1009,14 @@
       "onboard_time": 1667304625,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263114,
+      "num": 263114,
+      "word": "小狗连吧唧嘴都那么可爱",
+      "onboard_time": 1667313446,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 262980,
@@ -1043,28 +1067,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 242801,
-      "num": 242801,
-      "word": "小狗连吧唧嘴都那么可爱",
-      "onboard_time": 1667313446,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 235595,
-      "num": 235595,
-      "word": "大件快递员晒双十一工资条日薪过千",
-      "onboard_time": 1667313210,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234581,
@@ -1459,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139312,
+      "num": 139312,
+      "word": "pgc",
+      "onboard_time": 1667315850,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137950,
       "num": 106707,
       "word": "水花终于拿奖了",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1667258239,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 136274,
+      "num": 136274,
+      "word": "这减肥操懂我想要什么",
+      "onboard_time": 1667315074,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135807,
@@ -1507,12 +1531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129327,
-      "num": 129327,
-      "word": "pgc",
-      "onboard_time": 1667315850,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 129515,
+      "num": 100180,
+      "word": "刘震云点评",
+      "onboard_time": 1667317292,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 128020,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1667313572,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109267,
-      "num": 109267,
-      "word": "这减肥操懂我想要什么",
-      "onboard_time": 1667315074,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 108870,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1667304443,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83783,
+      "num": 83783,
+      "word": "一身反骨的哈士奇",
+      "onboard_time": 1667317112,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83207,
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 40036,
-      "num": 1426877,
+      "num": 2077381,
       "word": "十年百变",
       "onboard_time": 1667297309,
       "rank": 2,
