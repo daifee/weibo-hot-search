@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667317464667,
+  "endTime": 1667320591924,
   "band_list": [
     {
       "raw_hot": 2723284,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1051250,
-      "num": 482283,
+      "num": 819493,
       "word": "富士康回应726房间事件",
       "onboard_time": 1667314590,
       "rank": 11,
@@ -313,6 +313,14 @@
       "onboard_time": 1667284106,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 871160,
+      "num": 169494,
+      "word": "兰州警方通报七里河事件",
+      "onboard_time": 1667319027,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866964,
@@ -537,6 +545,14 @@
       "onboard_time": 1667305345,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537526,
+      "num": 272359,
+      "word": "婴儿坠楼00后警校生跳3米墙营救",
+      "onboard_time": 1667318425,
+      "rank": 11,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 535868,
@@ -793,6 +809,14 @@
       "onboard_time": 1667303062,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366632,
+      "num": 271372,
+      "word": "顾客漏扫一块猪肉被超市罚2万",
+      "onboard_time": 1667318907,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365099,
@@ -1139,6 +1163,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 210499,
+      "num": 168229,
+      "word": "王一博onelove舞台播放破亿",
+      "onboard_time": 1667318010,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209270,
       "num": 209270,
       "word": "俞敏洪谈年轻人为何容易躺平摆烂",
@@ -1307,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176078,
+      "num": 176078,
+      "word": "pgc",
+      "onboard_time": 1667315850,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175339,
       "num": 141563,
       "word": "韩国踩踏事故遇难者身份已全部确认",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1667305104,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 156517,
+      "num": 156517,
+      "word": "刘震云点评",
+      "onboard_time": 1667317292,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156452,
@@ -1467,14 +1515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139312,
-      "num": 139312,
-      "word": "pgc",
-      "onboard_time": 1667315850,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137950,
       "num": 106707,
       "word": "水花终于拿奖了",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1667258239,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 136594,
+      "num": 136594,
+      "word": "一身反骨的哈士奇",
+      "onboard_time": 1667317112,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136274,
@@ -1531,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129515,
-      "num": 100180,
-      "word": "刘震云点评",
-      "onboard_time": 1667317292,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128020,
       "num": 128020,
       "word": "颜宁将回国协助创建医学科学院",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1667220926,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 127056,
+      "num": 111554,
+      "word": "耀客2部剧获飞天奖",
+      "onboard_time": 1667319923,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 126945,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1667219966,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "原来拆螃蟹这么解压",
+      "onboard_time": 1667318968,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 112092,
@@ -1883,14 +1939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83783,
-      "num": 83783,
-      "word": "一身反骨的哈士奇",
-      "onboard_time": 1667317112,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83207,
       "num": 105279,
       "word": "知情人士透露颜宁回国打算",
@@ -1912,6 +1960,14 @@
       "word": "这家没猫不行吧",
       "onboard_time": 1667233045,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79789,
+      "num": 79789,
+      "word": "当代大学生的神奇宝贝",
+      "onboard_time": 1667319445,
+      "rank": 44,
       "category": "幽默"
     },
     {
