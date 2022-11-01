@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667295888504,
+  "endTime": 1667298451496,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -347,6 +347,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1010373,
+      "num": 667204,
+      "word": "22岁宁波女孩在韩国踩踏事故中遇难",
+      "onboard_time": 1667292628,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745915,
-      "num": 409198,
-      "word": "22岁宁波女孩在韩国踩踏事故中遇难",
-      "onboard_time": 1667292628,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 742909,
       "num": 742909,
       "word": "女生入职第一天被公司要求刷厕所",
@@ -625,6 +625,14 @@
       "onboard_time": 1667204126,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 663185,
+      "num": 663185,
+      "word": "男子逛超市发现西瓜狂呲水",
+      "onboard_time": 1667294487,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662709,
@@ -1003,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444067,
+      "num": 444067,
+      "word": "分手后才意识到对方的付出",
+      "onboard_time": 1667292208,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441502,
       "num": 441502,
       "word": "本色出演穷鬼",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1667224167,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403289,
-      "num": 403289,
-      "word": "分手后才意识到对方的付出",
-      "onboard_time": 1667292208,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 400092,
@@ -1251,12 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350451,
+      "num": 350451,
+      "word": "韩警察厅长承认对踩踏事故处置不力",
+      "onboard_time": 1667296830,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
       "onboard_time": 1667184323,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347091,
+      "num": 347091,
+      "word": "刘备扮演者发文悼念陆树铭",
+      "onboard_time": 1667292628,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 346339,
@@ -1435,20 +1459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284359,
+      "num": 284359,
+      "word": "飞天奖红毯阵容官宣",
+      "onboard_time": 1667296467,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283429,
       "num": 283429,
       "word": "女子求职招聘者称其36岁来碰瓷公司",
       "onboard_time": 1667225487,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282703,
-      "num": 276388,
-      "word": "刘备扮演者发文悼念陆树铭",
-      "onboard_time": 1667292628,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 280891,
@@ -1603,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248605,
+      "num": 248605,
+      "word": "INTO1舞台走位",
+      "onboard_time": 1667298388,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246460,
       "num": 246460,
       "word": "刘诗诗粉色长裙写真",
@@ -1744,6 +1776,22 @@
       "word": "陈伟霆说与小狗牵手成功",
       "onboard_time": 1667224167,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218838,
+      "num": 218838,
+      "word": "中信组团收购腾讯股份的消息不实",
+      "onboard_time": 1667292925,
+      "rank": 26,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 217859,
+      "num": 94399,
+      "word": "takeoff",
+      "onboard_time": 1667298448,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1995,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186243,
-      "num": 186243,
-      "word": "男子逛超市发现西瓜狂呲水",
-      "onboard_time": 1667294487,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184793,
       "num": 184793,
       "word": "就没有苏醒接不了的话",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1667270546,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180380,
+      "num": 180380,
+      "word": "白鹿奔跑吧公主风造型路透",
+      "onboard_time": 1667296047,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180159,
@@ -2073,14 +2121,6 @@
       "onboard_time": 1667181987,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174255,
-      "num": 174255,
-      "word": "中信组团收购腾讯股份的消息不实",
-      "onboard_time": 1667292925,
-      "rank": 26,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 172300,
@@ -2187,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159227,
+      "num": 159227,
+      "word": "学生扮奥特曼宿舍煮饺子被举报",
+      "onboard_time": 1667291967,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153818,
       "num": 153818,
       "word": "洗衣液",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1667142272,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151291,
+      "num": 151291,
+      "word": "发现间谍线索立刻拨打12339",
+      "onboard_time": 1667293647,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151218,
@@ -2475,6 +2531,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129012,
+      "num": 129012,
+      "word": "完全拿捏了女生的购物心理",
+      "onboard_time": 1667297726,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128847,
+      "num": 128847,
+      "word": "西安古代石碑公布标准答案是人也",
+      "onboard_time": 1667297006,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 128020,
+      "num": 128020,
+      "word": "颜宁将回国协助创建医学科学院",
+      "onboard_time": 1667298448,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "西安莲湖区疫情防控",
@@ -2539,6 +2619,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121386,
+      "num": 121386,
+      "word": "梨泰院踩踏事故目击者称有人故意推搡",
+      "onboard_time": 1667297608,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 120231,
+      "num": 120231,
+      "word": "我的朋友导演评价王一博",
+      "onboard_time": 1667297187,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119819,
+      "num": 119819,
+      "word": "易烊千玺奇迹双提金鸡百花最佳男主角",
+      "onboard_time": 1667297666,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119585,
       "num": 119585,
       "word": "SAO发售",
@@ -2553,14 +2657,6 @@
       "onboard_time": 1667175384,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118553,
-      "num": 118553,
-      "word": "学生扮奥特曼宿舍煮饺子被举报",
-      "onboard_time": 1667291967,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118201,
@@ -2803,6 +2899,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 95214,
+      "num": 95214,
+      "word": "打工人酒里藏了多少心事",
+      "onboard_time": 1667298027,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94840,
       "num": 94840,
       "word": "遭遇踩踏时坚持三要四不要",
@@ -2856,14 +2960,6 @@
       "word": "六旬父亲听到儿子隔空喊话高兴起舞",
       "onboard_time": 1667217625,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91902,
-      "num": 91902,
-      "word": "发现间谍线索立刻拨打12339",
-      "onboard_time": 1667293647,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3297,6 +3393,14 @@
       "onboard_time": 1667293228,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25279,
+      "num": 668141,
+      "word": "十年百变",
+      "onboard_time": 1667297309,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 24111,
