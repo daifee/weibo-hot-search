@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667321998629,
+  "endTime": 1667323901986,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234420,
+      "num": 169494,
+      "word": "兰州警方通报七里河事件",
+      "onboard_time": 1667319027,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207192,
       "num": 215460,
       "word": "张大奕 凑单",
@@ -465,14 +473,6 @@
       "onboard_time": 1667292628,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1008982,
-      "num": 169494,
-      "word": "兰州警方通报七里河事件",
-      "onboard_time": 1667319027,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983996,
@@ -3795,6 +3795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64083,
+      "num": 66710,
+      "word": "十一月你好",
+      "onboard_time": 1667322680,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63356,
       "num": 63356,
       "word": "梨泰院踩踏事故已致153人死亡",
@@ -3985,6 +3993,14 @@
       "onboard_time": 1667297309,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 31142,
+      "num": 31142,
+      "word": "11月第一天",
+      "onboard_time": 1667322199,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 27081,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667321998629,
+  "endTime": 1667323901986,
   "band_list": [
     {
       "raw_hot": 2231418,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234420,
+      "num": 169494,
+      "word": "兰州警方通报七里河事件",
+      "onboard_time": 1667319027,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204519,
       "num": 1204519,
       "word": "福原爱被男友前妻起诉",
       "onboard_time": 1667314953,
       "rank": 1,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1008982,
-      "num": 169494,
-      "word": "兰州警方通报七里河事件",
-      "onboard_time": 1667319027,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 819493,
@@ -155,20 +155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207490,
+      "num": 207490,
+      "word": "梨泰院踩踏事故目击者称有人故意推搡",
+      "onboard_time": 1667297608,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 200142,
       "num": 163360,
       "word": "关晓彤发型",
       "onboard_time": 1667309068,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198926,
-      "num": 198926,
-      "word": "梨泰院踩踏事故目击者称有人故意推搡",
-      "onboard_time": 1667297608,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 197910,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64083,
+      "num": 66710,
+      "word": "十一月你好",
+      "onboard_time": 1667322680,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63886,
       "num": 63886,
       "word": "供销社概念股持续发酵",
@@ -409,6 +417,14 @@
       "onboard_time": 1667302584,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31142,
+      "num": 31142,
+      "word": "11月第一天",
+      "onboard_time": 1667322199,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 20824,
