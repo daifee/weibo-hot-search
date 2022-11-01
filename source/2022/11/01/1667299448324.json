@@ -1,0 +1,410 @@
+{
+  "runTime": 1667299448324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640104,
+        "num": 1640104,
+        "word": "颜宁宣布离美归国",
+        "onboard_time": 1667289687,
+        "rank": 0,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 783408,
+        "num": 783408,
+        "word": "张若昀将拍庆余年2",
+        "onboard_time": 1667292867,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29104,
+        "num": 712459,
+        "word": "十年百变",
+        "onboard_time": 1667297309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 947501,
+        "num": 684350,
+        "word": "22岁宁波女孩在韩国踩踏事故中遇难",
+        "onboard_time": 1667292628,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 648438,
+        "num": 648438,
+        "word": "男子逛超市发现西瓜狂呲水",
+        "onboard_time": 1667294487,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539803,
+        "num": 539803,
+        "word": "31岁女子颜值猛下跌竟患库欣综合征",
+        "onboard_time": 1667288907,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562477,
+        "num": 537833,
+        "word": "梨泰院踩踏事故死亡人数升至156人",
+        "onboard_time": 1667284106,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 516919,
+        "num": 516919,
+        "word": "江南 要不别写了",
+        "onboard_time": 1667281466,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 392007,
+        "num": 392007,
+        "word": "分手后才意识到对方的付出",
+        "onboard_time": 1667292208,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372402,
+        "num": 372402,
+        "word": "成都疑现加拿大一枝黄花",
+        "onboard_time": 1667276551,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699995,
+        "num": 371466,
+        "word": "俞敏洪称越来越多大学生成利己主义者",
+        "onboard_time": 1667290288,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 637459,
+        "num": 365809,
+        "word": "takeoff",
+        "onboard_time": 1667298448,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630870,
+        "num": 361053,
+        "word": "韩警察厅长承认对踩踏事故处置不力",
+        "onboard_time": 1667296830,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 388384,
+        "num": 356527,
+        "word": "丁真直播截图状态",
+        "onboard_time": 1667289809,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355475,
+        "num": 355475,
+        "word": "INTO1舞台走位",
+        "onboard_time": 1667298388,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348029,
+        "num": 348029,
+        "word": "孙怡说男人在给你画大饼",
+        "onboard_time": 1667287285,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304644,
+        "num": 304644,
+        "word": "刘备扮演者发文悼念陆树铭",
+        "onboard_time": 1667292628,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235238,
+        "num": 235238,
+        "word": "男孩买水果发现罕见双色柚子",
+        "onboard_time": 1667285485,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223926,
+        "num": 223926,
+        "word": "韩国踩踏事故失物招领处画面曝光",
+        "onboard_time": 1667289207,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210910,
+        "num": 210910,
+        "word": "河南要求今冬明春做好防大疫准备",
+        "onboard_time": 1667285785,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233890,
+        "num": 210292,
+        "word": "飞天奖红毯阵容官宣",
+        "onboard_time": 1667296467,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214795,
+        "num": 209414,
+        "word": "韩国踩踏事故旁酒店系违章建筑",
+        "onboard_time": 1667283085,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200620,
+        "num": 200620,
+        "word": "完全拿捏了女生的购物心理",
+        "onboard_time": 1667297726,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "哪些内容千万别晒朋友圈",
+        "onboard_time": 1667284826,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 186094,
+        "word": "关羽扮演者陆树铭老师去世",
+        "onboard_time": 1667279251,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 180545,
+        "num": 180545,
+        "word": "中信组团收购腾讯股份的消息不实",
+        "onboard_time": 1667292925,
+        "rank": 25,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 176393,
+        "num": 176393,
+        "word": "易烊千玺奇迹双提金鸡百花最佳男主角",
+        "onboard_time": 1667297666,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170678,
+        "num": 170678,
+        "word": "梨泰院踩踏事故目击者称有人故意推搡",
+        "onboard_time": 1667297608,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164332,
+        "num": 164332,
+        "word": "警方通报男子为幼子买奶粉持刀闯卡",
+        "onboard_time": 1667283446,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162517,
+        "num": 162517,
+        "word": "发现间谍线索立刻拨打12339",
+        "onboard_time": 1667293647,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189667,
+        "num": 162416,
+        "word": "张大奕 凑单",
+        "onboard_time": 1667277329,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168277,
+        "num": 161356,
+        "word": "白鹿奔跑吧公主风造型路透",
+        "onboard_time": 1667296047,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150836,
+        "num": 150836,
+        "word": "林允梦回千禧辣妹",
+        "onboard_time": 1667287347,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147265,
+        "num": 147265,
+        "word": "男子50元买的海怪竟是国保中华鲎",
+        "onboard_time": 1667287168,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144786,
+        "num": 144786,
+        "word": "西安古代石碑公布标准答案是人也",
+        "onboard_time": 1667297006,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 142416,
+        "word": "学生扮奥特曼宿舍煮饺子被举报",
+        "onboard_time": 1667291967,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134996,
+        "num": 134996,
+        "word": "颜宁",
+        "onboard_time": 1667281646,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129049,
+        "num": 129049,
+        "word": "妈妈带男童进女浴室遭投诉反不满",
+        "onboard_time": 1667282306,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122226,
+        "num": 122226,
+        "word": "龙族",
+        "onboard_time": 1667277514,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 122043,
+        "num": 122043,
+        "word": "全班43人家长会只来了7位爸爸",
+        "onboard_time": 1667278469,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118844,
+        "num": 118844,
+        "word": "陈飞宇张婧仪打火机与公主裙改名",
+        "onboard_time": 1667285726,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118781,
+        "num": 118781,
+        "word": "我的朋友导演评价王一博",
+        "onboard_time": 1667297187,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110812,
+        "num": 110812,
+        "word": "双十一又带火了这些新词",
+        "onboard_time": 1667288488,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 100347,
+        "num": 100347,
+        "word": "反应迟钝的小猫咪",
+        "onboard_time": 1667291427,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95139,
+        "num": 95139,
+        "word": "斯里兰卡男子路过被卷进人群遇难",
+        "onboard_time": 1667278711,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91462,
+        "num": 91462,
+        "word": "爷爷爸爸辅导孩子数学产生分歧",
+        "onboard_time": 1667289387,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 83203,
+        "num": 83203,
+        "word": "台积电被曝大砍供应链订单",
+        "onboard_time": 1667277450,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 79806,
+        "num": 79806,
+        "word": "张馨予新剧开机状态",
+        "onboard_time": 1667293888,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74692,
+        "num": 74692,
+        "word": "俞敏洪称上大学不仅是为找工作",
+        "onboard_time": 1667298807,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 67354,
+        "num": 67354,
+        "word": "颜宁将回国协助创建医学科学院",
+        "onboard_time": 1667298448,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
