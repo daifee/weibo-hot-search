@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667313038545,
+  "endTime": 1667314074842,
   "band_list": [
     {
       "raw_hot": 2604244,
@@ -16,6 +16,14 @@
       "word": "热依扎获飞天奖优秀女演员",
       "onboard_time": 1667309971,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1935435,
+      "num": 1935435,
+      "word": "于和伟",
+      "onboard_time": 1667312489,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1437072,
-      "num": 1048465,
+      "num": 1105567,
       "word": "飞天奖获奖名单",
       "onboard_time": 1667311528,
       "rank": 3,
@@ -89,6 +97,14 @@
       "onboard_time": 1667290288,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1420645,
+      "num": 1420645,
+      "word": "兰州七里河通报",
+      "onboard_time": 1667309909,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1363339,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1139027,
-      "num": 355076,
+      "num": 378500,
       "word": "杨幂Angelababy唐嫣工作室出图",
       "onboard_time": 1667312849,
       "rank": 10,
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104345,
+      "num": 1104345,
+      "word": "200元存银行15年变88.72元",
+      "onboard_time": 1667309126,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097397,
       "num": 1097397,
       "word": "网友质疑呼和浩特一副局长疑佩戴奢侈品",
@@ -177,14 +201,6 @@
       "onboard_time": 1667287285,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1061305,
-      "num": 996663,
-      "word": "于和伟",
-      "onboard_time": 1667312489,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1053359,
@@ -203,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1021742,
-      "num": 1021742,
-      "word": "200元存银行15年变88.72元",
-      "onboard_time": 1667309126,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1010373,
       "num": 825058,
       "word": "22岁宁波女孩在韩国踩踏事故中遇难",
@@ -225,14 +233,6 @@
       "onboard_time": 1667278170,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 955929,
-      "num": 955929,
-      "word": "兰州七里河通报",
-      "onboard_time": 1667309909,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 948139,
@@ -339,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722208,
-      "num": 722208,
+      "raw_hot": 727433,
+      "num": 727433,
       "word": "家长回应孩子用千元帝王蟹比赛做饭",
       "onboard_time": 1667308528,
       "rank": 34,
@@ -755,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358867,
+      "num": 358867,
+      "word": "你能接受暧昧期多久",
+      "onboard_time": 1667308646,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 355697,
+      "num": 355697,
+      "word": "颜宁37岁攻克50年不解难题",
+      "onboard_time": 1667309606,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355475,
       "num": 355475,
       "word": "INTO1舞台走位",
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320474,
-      "num": 320474,
-      "word": "你能接受暧昧期多久",
-      "onboard_time": 1667308646,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317194,
       "num": 317194,
       "word": "供销社概念股持续发酵",
@@ -841,6 +849,14 @@
       "onboard_time": 1667267904,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309178,
+      "num": 309178,
+      "word": "你的快递自己开车来了",
+      "onboard_time": 1667308046,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 306705,
@@ -875,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289988,
-      "num": 289988,
-      "word": "你的快递自己开车来了",
-      "onboard_time": 1667308046,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 303312,
+      "num": 207186,
+      "word": "李现寸头直播状态",
+      "onboard_time": 1667313150,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 287934,
@@ -929,14 +945,6 @@
       "onboard_time": 1667304625,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271624,
-      "num": 271624,
-      "word": "颜宁37岁攻克50年不解难题",
-      "onboard_time": 1667309606,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262980,
@@ -1195,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179943,
+      "num": 388243,
+      "word": "夫妻连续9年带孩子登山捡垃圾",
+      "onboard_time": 1667311228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178848,
       "num": 178848,
       "word": "西安古代石碑公布标准答案是人也",
@@ -1291,6 +1307,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 155371,
+      "num": 155371,
+      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
+      "onboard_time": 1667310509,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153029,
       "num": 153029,
       "word": "反应迟钝的小猫咪",
@@ -1355,12 +1379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143581,
+      "num": 117067,
+      "word": "闫妮黑色薄纱礼服",
+      "onboard_time": 1667313749,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142421,
       "num": 134551,
       "word": "虞书欣的自由状态",
       "onboard_time": 1667285907,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141672,
+      "num": 141672,
+      "word": "福州地铁",
+      "onboard_time": 1667314052,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136749,
@@ -1467,20 +1507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121597,
-      "num": 121597,
-      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
-      "onboard_time": 1667310509,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
       "onboard_time": 1667297187,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "莎头",
+      "onboard_time": 1667313873,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 118076,
@@ -1547,12 +1587,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105232,
+      "num": 105232,
+      "word": "小狗连吧唧嘴都那么可爱",
+      "onboard_time": 1667313446,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104465,
       "num": 61451,
       "word": "一套动作保护颈椎健康",
       "onboard_time": 1667307266,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104238,
+      "num": 104238,
+      "word": "这个锅巴看起来好好吃",
+      "onboard_time": 1667313572,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 104198,
+      "num": 104198,
+      "word": "大件快递员晒双十一工资条日薪过千",
+      "onboard_time": 1667313210,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103367,
@@ -1563,11 +1627,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102157,
-      "num": 388243,
-      "word": "夫妻连续9年带孩子登山捡垃圾",
-      "onboard_time": 1667311228,
-      "rank": 14,
+      "raw_hot": 103080,
+      "num": 103080,
+      "word": "男生疑食堂秤有问题用饮料自测证实",
+      "onboard_time": 1667313270,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1995,8 +2059,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39100,
-      "num": 1071500,
+      "raw_hot": 39457,
+      "num": 1124097,
       "word": "十年百变",
       "onboard_time": 1667297309,
       "rank": 2,
