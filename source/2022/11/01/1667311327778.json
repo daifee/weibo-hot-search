@@ -1,0 +1,410 @@
+{
+  "runTime": 1667311327778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615669,
+        "num": 1615669,
+        "word": "热依扎获飞天奖优秀女演员",
+        "onboard_time": 1667309971,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1381801,
+        "num": 1381801,
+        "word": "原来生肉不能直接在家冲洗",
+        "onboard_time": 1667302287,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 30390,
+        "num": 1071500,
+        "word": "十年百变",
+        "onboard_time": 1667297309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1048583,
+        "num": 1048583,
+        "word": "美国说唱歌手takeoff被枪杀",
+        "onboard_time": 1667306848,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793544,
+        "num": 793544,
+        "word": "22岁宁波女孩在韩国踩踏事故中遇难",
+        "onboard_time": 1667292628,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 756299,
+        "num": 756299,
+        "word": "200元存银行15年变88.72元",
+        "onboard_time": 1667309126,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755430,
+        "num": 755430,
+        "word": "飞天奖",
+        "onboard_time": 1667305407,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470369,
+        "num": 470369,
+        "word": "澳大利亚残疾女子被迫爬下飞机",
+        "onboard_time": 1667305345,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445455,
+        "num": 445455,
+        "word": "颜宁宣布离美归国",
+        "onboard_time": 1667289687,
+        "rank": 8,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 438514,
+        "num": 438514,
+        "word": "兰州七里河通报",
+        "onboard_time": 1667309909,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 553909,
+        "num": 436213,
+        "word": "家长回应孩子用千元帝王蟹比赛做饭",
+        "onboard_time": 1667308528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421495,
+        "num": 421495,
+        "word": "脱口秀大会",
+        "onboard_time": 1667307387,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415798,
+        "num": 415798,
+        "word": "王雷飞天奖优秀男演员",
+        "onboard_time": 1667310329,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401931,
+        "num": 401931,
+        "word": "杨戬",
+        "onboard_time": 1667304386,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7740,
+        "num": 388243,
+        "word": "夫妻连续9年带孩子登山捡垃圾",
+        "onboard_time": 1667311228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384064,
+        "num": 384064,
+        "word": "你的手机能用一天吗",
+        "onboard_time": 1667305586,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280237,
+        "num": 280237,
+        "word": "供销社概念股持续发酵",
+        "onboard_time": 1667304386,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269400,
+        "num": 269400,
+        "word": "韩警察厅长承认对踩踏事故处置不力",
+        "onboard_time": 1667296830,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247024,
+        "num": 247024,
+        "word": "你的快递自己开车来了",
+        "onboard_time": 1667308046,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232257,
+        "num": 232257,
+        "word": "31岁女子颜值猛下跌竟患库欣综合征",
+        "onboard_time": 1667288907,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975928,
+        "num": 231089,
+        "word": "关晓彤发型",
+        "onboard_time": 1667309068,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354251,
+        "num": 217109,
+        "word": "一个造型就能出圈的美貌",
+        "onboard_time": 1667304506,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266569,
+        "num": 213802,
+        "word": "梨泰院踩踏事故死亡人数升至156人",
+        "onboard_time": 1667284106,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290089,
+        "num": 206171,
+        "word": "肖战黑色深V西装",
+        "onboard_time": 1667303062,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197751,
+        "num": 197751,
+        "word": "你能接受暧昧期多久",
+        "onboard_time": 1667308646,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193174,
+        "num": 193174,
+        "word": "分手后才意识到对方的付出",
+        "onboard_time": 1667292208,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177153,
+        "num": 177153,
+        "word": "马斯克将向推特蓝色认证用户收费",
+        "onboard_time": 1667300306,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 164741,
+        "num": 164741,
+        "word": "俞敏洪称越来越多大学生成利己主义者",
+        "onboard_time": 1667290288,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160685,
+        "num": 160685,
+        "word": "完全拿捏了女生的购物心理",
+        "onboard_time": 1667297726,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160376,
+        "num": 160376,
+        "word": "男子逛超市发现西瓜狂呲水",
+        "onboard_time": 1667294487,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265414,
+        "num": 156419,
+        "word": "觉醒年代剧组飞天奖重聚",
+        "onboard_time": 1667307266,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249849,
+        "num": 154657,
+        "word": "张若昀将拍庆余年2",
+        "onboard_time": 1667292867,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161906,
+        "num": 153114,
+        "word": "11月有望播出的电视剧",
+        "onboard_time": 1667308469,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144298,
+        "num": 144298,
+        "word": "梨泰院踩踏事故目击者称有人故意推搡",
+        "onboard_time": 1667297608,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143028,
+        "num": 143028,
+        "word": "北京海淀社会面筛查2例感染者",
+        "onboard_time": 1667302584,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138366,
+        "num": 138366,
+        "word": "颜宁37岁攻克50年不解难题",
+        "onboard_time": 1667309606,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136055,
+        "num": 136055,
+        "word": "秋季万能叠穿公式",
+        "onboard_time": 1667305104,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 134555,
+        "num": 134555,
+        "word": "苏醒最终的人脉是陆虎",
+        "onboard_time": 1667304625,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118522,
+        "num": 118522,
+        "word": "江南 要不别写了",
+        "onboard_time": 1667281466,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 91078,
+        "num": 91078,
+        "word": "河南要求今冬明春做好防大疫准备",
+        "onboard_time": 1667285785,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120871,
+        "num": 90561,
+        "word": "任嘉伦秋日毛衣造型",
+        "onboard_time": 1667308828,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98846,
+        "num": 89181,
+        "word": "陈飞宇张婧仪新剧校园情侣打闹",
+        "onboard_time": 1667307447,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87342,
+        "num": 87342,
+        "word": "韩国踩踏事故失物招领处画面曝光",
+        "onboard_time": 1667289207,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 83734,
+        "num": 83734,
+        "word": "俞敏洪谈年轻人为何容易躺平摆烂",
+        "onboard_time": 1667310509,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77503,
+        "num": 77503,
+        "word": "警方通报男子为幼子买奶粉持刀闯卡",
+        "onboard_time": 1667283446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74726,
+        "num": 74726,
+        "word": "男孩买水果发现罕见双色柚子",
+        "onboard_time": 1667285485,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 74629,
+        "word": "俞敏洪称上大学不仅是为找工作",
+        "onboard_time": 1667298807,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 73801,
+        "num": 73801,
+        "word": "哪些内容千万别晒朋友圈",
+        "onboard_time": 1667284826,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73173,
+        "num": 73173,
+        "word": "韩国踩踏事故旁酒店系违章建筑",
+        "onboard_time": 1667283085,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68986,
+        "num": 68986,
+        "word": "PCL加油",
+        "onboard_time": 1667304443,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
