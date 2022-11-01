@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667323901986,
+  "endTime": 1667324888637,
   "band_list": [
     {
       "raw_hot": 2231418,
@@ -419,11 +419,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35296,
+      "num": 35296,
+      "word": "河南内蒙古强调不能长期无差别封控",
+      "onboard_time": 1667324237,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
       "onboard_time": 1667322199,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 21112,
+      "num": 24933,
+      "word": "不去参加团建是不合群吗",
+      "onboard_time": 1667323158,
+      "rank": 49,
       "category": "情感"
     },
     {
