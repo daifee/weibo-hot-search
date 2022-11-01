@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667342729508,
+  "endTime": 1667345223820,
   "band_list": [
     {
       "raw_hot": 2231418,
@@ -43,6 +43,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 965313,
+      "num": 965313,
+      "word": "顾客漏扫一块猪肉被超市罚2万",
+      "onboard_time": 1667318907,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819493,
       "num": 819493,
       "word": "富士康回应726房间事件",
@@ -57,14 +65,6 @@
       "onboard_time": 1667312489,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 595691,
-      "num": 595691,
-      "word": "顾客漏扫一块猪肉被超市罚2万",
-      "onboard_time": 1667318907,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591470,
@@ -99,12 +99,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357977,
+      "num": 357977,
+      "word": "河南内蒙古强调不能长期无差别封控",
+      "onboard_time": 1667324237,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334130,
       "num": 271200,
       "word": "美国说唱歌手takeoff被枪杀",
       "onboard_time": 1667306848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332326,
+      "num": 332326,
+      "word": "梨泰院踩踏事故目击者称有人故意推搡",
+      "onboard_time": 1667297608,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 323922,
+      "num": 323922,
+      "word": "起底张庭夫妇陶虹内地资本版图",
+      "onboard_time": 1667327173,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 317215,
@@ -121,6 +145,14 @@
       "onboard_time": 1667313270,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302324,
+      "num": 302324,
+      "word": "纳什不再担任篮网主帅",
+      "onboard_time": 1667344099,
+      "rank": 11,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 273618,
@@ -147,11 +179,19 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 219629,
-      "num": 219629,
-      "word": "河南内蒙古强调不能长期无差别封控",
-      "onboard_time": 1667324237,
-      "rank": 42,
+      "raw_hot": 245484,
+      "num": 245484,
+      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
+      "onboard_time": 1667325794,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217624,
+      "num": 217624,
+      "word": "家长回应孩子用千元帝王蟹比赛做饭",
+      "onboard_time": 1667308528,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -163,28 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207490,
-      "num": 207490,
-      "word": "梨泰院踩踏事故目击者称有人故意推搡",
-      "onboard_time": 1667297608,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 200142,
       "num": 163360,
       "word": "关晓彤发型",
       "onboard_time": 1667309068,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197910,
-      "num": 197910,
-      "word": "家长回应孩子用千元帝王蟹比赛做饭",
-      "onboard_time": 1667308528,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176078,
@@ -201,14 +225,6 @@
       "onboard_time": 1667313210,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159060,
-      "num": 157410,
-      "word": "起底张庭夫妇陶虹内地资本版图",
-      "onboard_time": 1667327173,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156517,
@@ -259,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130808,
+      "num": 130808,
+      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
+      "onboard_time": 1667310509,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129863,
       "num": 129863,
       "word": "你能接受暧昧期多久",
@@ -275,28 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125075,
-      "num": 125075,
-      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
-      "onboard_time": 1667310509,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124393,
       "num": 124393,
       "word": "这减肥操懂我想要什么",
       "onboard_time": 1667315074,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123879,
-      "num": 123879,
-      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
-      "onboard_time": 1667325794,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122369,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119881,
+      "num": 119881,
+      "word": "误以为纸团是玩具的流浪猫",
+      "onboard_time": 1667342175,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118166,
       "num": 83767,
       "word": "一个造型就能出圈的美貌",
@@ -323,8 +339,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115616,
+      "num": 115616,
+      "word": "水花终于拿奖了",
+      "onboard_time": 1667316390,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109082,
-      "num": 83429,
+      "num": 104185,
       "word": "肖战黑色深V西装",
       "onboard_time": 1667303062,
       "rank": 41,
@@ -337,6 +361,14 @@
       "onboard_time": 1667305345,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104367,
+      "num": 104367,
+      "word": "俞敏洪称越来越多大学生成利己主义者",
+      "onboard_time": 1667290288,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 99245,
@@ -355,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94304,
-      "num": 94304,
-      "word": "水花终于拿奖了",
-      "onboard_time": 1667316390,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 93781,
       "num": 93781,
       "word": "你好十一月",
@@ -377,14 +401,6 @@
       "onboard_time": 1667305586,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 82160,
-      "num": 82160,
-      "word": "俞敏洪称越来越多大学生成利己主义者",
-      "onboard_time": 1667290288,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 79789,
@@ -409,6 +425,14 @@
       "onboard_time": 1667294487,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65754,
+      "num": 58881,
+      "word": "飞天奖提名",
+      "onboard_time": 1667345120,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 64083,
@@ -451,6 +475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32073,
+      "num": 32073,
+      "word": "拜仁2比0国米",
+      "onboard_time": 1667344943,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31663,
+      "num": 31663,
+      "word": "不去参加团建是不合群吗",
+      "onboard_time": 1667323158,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
@@ -459,20 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28107,
-      "num": 28107,
-      "word": "不去参加团建是不合群吗",
-      "onboard_time": 1667323158,
+      "raw_hot": 28658,
+      "num": 31658,
+      "word": "特警巧用无人机为1岁宝宝空投奶粉",
+      "onboard_time": 1667344639,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21575,
-      "num": 21575,
-      "word": "误以为纸团是玩具的流浪猫",
-      "onboard_time": 1667342175,
-      "rank": 46,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20824,

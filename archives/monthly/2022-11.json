@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667342729508,
+  "endTime": 1667345223820,
   "band_list": [
     {
       "raw_hot": 2723284,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965313,
+      "num": 965313,
+      "word": "顾客漏扫一块猪肉被超市罚2万",
+      "onboard_time": 1667318907,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948139,
       "num": 948139,
       "word": "楚子航",
@@ -489,14 +497,6 @@
       "onboard_time": 1667277450,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 595691,
-      "num": 595691,
-      "word": "顾客漏扫一块猪肉被超市罚2万",
-      "onboard_time": 1667318907,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591470,
@@ -843,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357977,
+      "num": 357977,
+      "word": "河南内蒙古强调不能长期无差别封控",
+      "onboard_time": 1667324237,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355697,
       "num": 355697,
       "word": "颜宁37岁攻克50年不解难题",
@@ -897,6 +905,14 @@
       "onboard_time": 1667284826,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323922,
+      "num": 323922,
+      "word": "起底张庭夫妇陶虹内地资本版图",
+      "onboard_time": 1667327173,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 323857,
@@ -977,6 +993,14 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302324,
+      "num": 302324,
+      "word": "纳什不再担任篮网主帅",
+      "onboard_time": 1667344099,
+      "rank": 11,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 287934,
@@ -1091,6 +1115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 245484,
+      "num": 245484,
+      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
+      "onboard_time": 1667325794,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 219629,
-      "num": 219629,
-      "word": "河南内蒙古强调不能长期无差别封控",
-      "onboard_time": 1667324237,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218838,
@@ -1419,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159060,
-      "num": 157410,
-      "word": "起底张庭夫妇陶虹内地资本版图",
-      "onboard_time": 1667327173,
-      "rank": 39,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 157619,
       "num": 157619,
       "word": "秋季万能叠穿公式",
@@ -1532,7 +1548,7 @@
     },
     {
       "raw_hot": 137950,
-      "num": 106707,
+      "num": 115616,
       "word": "水花终于拿奖了",
       "onboard_time": 1667316390,
       "rank": 47,
@@ -1659,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123879,
-      "num": 123879,
-      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
-      "onboard_time": 1667325794,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122664,
       "num": 89181,
       "word": "陈飞宇张婧仪新剧校园情侣打闹",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1667297187,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119881,
+      "num": 119881,
+      "word": "误以为纸团是玩具的流浪猫",
+      "onboard_time": 1667342175,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 118076,
@@ -2083,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65754,
+      "num": 58881,
+      "word": "飞天奖提名",
+      "onboard_time": 1667345120,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65079,
       "num": 65079,
       "word": "Jennie跳了Lisa的Money",
@@ -2251,6 +2275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32073,
+      "num": 32073,
+      "word": "拜仁2比0国米",
+      "onboard_time": 1667344943,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31663,
+      "num": 31663,
+      "word": "不去参加团建是不合群吗",
+      "onboard_time": 1667323158,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
@@ -2259,12 +2299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28107,
-      "num": 28107,
-      "word": "不去参加团建是不合群吗",
-      "onboard_time": 1667323158,
+      "raw_hot": 28658,
+      "num": 31658,
+      "word": "特警巧用无人机为1岁宝宝空投奶粉",
+      "onboard_time": 1667344639,
       "rank": 49,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27081,
@@ -2289,14 +2329,6 @@
       "onboard_time": 1667240292,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21575,
-      "num": 21575,
-      "word": "误以为纸团是玩具的流浪猫",
-      "onboard_time": 1667342175,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 19686,
