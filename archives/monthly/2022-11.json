@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667301615068,
+  "endTime": 1667302620785,
   "band_list": [
     {
       "raw_hot": 2604244,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1188695,
+      "num": 365809,
+      "word": "takeoff",
+      "onboard_time": 1667298448,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1154301,
       "num": 482252,
       "word": "退款",
@@ -129,14 +137,6 @@
       "onboard_time": 1667287285,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1084044,
-      "num": 365809,
-      "word": "takeoff",
-      "onboard_time": 1667298448,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 1053359,
@@ -281,6 +281,14 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 670991,
+      "num": 401105,
+      "word": "梨泰院踩踏事故目击者称有人故意推搡",
+      "onboard_time": 1667297608,
+      "rank": 40,
+      "category": "社会负面"
     },
     {
       "raw_hot": 663185,
@@ -449,14 +457,6 @@
       "onboard_time": 1667272165,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472055,
-      "num": 356566,
-      "word": "梨泰院踩踏事故目击者称有人故意推搡",
-      "onboard_time": 1667297608,
-      "rank": 40,
-      "category": "社会负面"
     },
     {
       "raw_hot": 469845,
@@ -747,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249582,
+      "num": 249582,
+      "word": "俞敏洪称上大学不仅是为找工作",
+      "onboard_time": 1667298807,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
@@ -852,11 +860,19 @@
     },
     {
       "raw_hot": 199979,
-      "num": 195673,
+      "num": 197245,
       "word": "易烊千玺奇迹双提金鸡百花最佳男主角",
       "onboard_time": 1667297666,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199703,
+      "num": 199703,
+      "word": "15年前的苏醒有多美",
+      "onboard_time": 1667300187,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 196991,
@@ -897,14 +913,6 @@
       "onboard_time": 1667275647,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187951,
-      "num": 187951,
-      "word": "15年前的苏醒有多美",
-      "onboard_time": 1667300187,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 187784,
@@ -953,6 +961,14 @@
       "onboard_time": 1667268146,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175648,
+      "num": 175648,
+      "word": "马斯克将向推特蓝色认证用户收费",
+      "onboard_time": 1667300306,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 175339,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 154956,
-      "num": 154956,
-      "word": "俞敏洪称上大学不仅是为找工作",
-      "onboard_time": 1667298807,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153029,
@@ -1227,14 +1235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112705,
-      "num": 112705,
-      "word": "马斯克将向推特蓝色认证用户收费",
-      "onboard_time": 1667300306,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 112092,
       "num": 71915,
       "word": "晚八点音乐会",
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94947,
+      "num": 94947,
+      "word": "谁教你们这么配音的",
+      "onboard_time": 1667302466,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94569,
       "num": 94569,
       "word": "周迅王一博对手戏",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1667269046,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90768,
+      "num": 90768,
+      "word": "原来生肉不能直接在家冲洗",
+      "onboard_time": 1667302287,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 89794,
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67440,
+      "num": 67440,
+      "word": "北京海淀社会面筛查2例感染者",
+      "onboard_time": 1667302584,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65079,
       "num": 65079,
       "word": "Jennie跳了Lisa的Money",
@@ -1643,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39100,
+      "num": 712459,
+      "word": "十年百变",
+      "onboard_time": 1667297309,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 37086,
       "num": 37086,
       "word": "马嘉祺晒我们的歌花絮大片",
       "onboard_time": 1667230108,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29104,
-      "num": 712459,
-      "word": "十年百变",
-      "onboard_time": 1667297309,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 27081,
