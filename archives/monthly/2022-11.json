@@ -1,10 +1,10 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667269885272,
+  "endTime": 1667272269014,
   "band_list": [
     {
       "raw_hot": 1698971,
-      "num": 645203,
+      "num": 757702,
       "word": "3位艺人在梨泰院踩踏事故中丧生",
       "onboard_time": 1667260462,
       "rank": 3,
@@ -43,12 +43,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 938117,
-      "num": 938117,
+      "raw_hot": 1105272,
+      "num": 1105272,
       "word": "易烊千玺连续三年提名金鸡奖影帝",
       "onboard_time": 1667268866,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 915679,
+      "num": 915679,
+      "word": "大妈地铁上身体套塑料袋吃香蕉",
+      "onboard_time": 1667267487,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893196,
+      "num": 338981,
+      "word": "胡歌开小车车的反差感",
+      "onboard_time": 1667271085,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 865675,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522648,
+      "num": 327255,
+      "word": "泷泽秀明 退社",
+      "onboard_time": 1667269706,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508755,
       "num": 233833,
       "word": "以为看到了李子维黄雨萱",
@@ -152,14 +176,6 @@
       "word": "日本棋手因比赛时忘戴口罩被判负",
       "onboard_time": 1667264307,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428628,
-      "num": 428628,
-      "word": "大妈地铁上身体套塑料袋吃香蕉",
-      "onboard_time": 1667267487,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310068,
+      "num": 310068,
+      "word": "孙颖莎继续排名世界第一",
+      "onboard_time": 1667267904,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306705,
       "num": 306705,
       "word": "四六级报名",
@@ -281,14 +305,6 @@
       "onboard_time": 1667234361,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234780,
-      "num": 234780,
-      "word": "孙颖莎继续排名世界第一",
-      "onboard_time": 1667267904,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 233672,
@@ -323,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201720,
+      "num": 201720,
+      "word": "10月31日新增本土无症状2221例",
+      "onboard_time": 1667267904,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200609,
       "num": 152361,
       "word": "韩国将组建梨泰院事故心理救助组",
       "onboard_time": 1667229210,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 197635,
-      "num": 197635,
-      "word": "10月31日新增本土无症状2221例",
-      "onboard_time": 1667267904,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196991,
@@ -363,11 +379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188963,
+      "num": 188963,
+      "word": "沈腾提名金鸡奖最佳男主角",
+      "onboard_time": 1667268386,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187784,
       "num": 187784,
       "word": "多款降价iPhone现货被抢空",
       "onboard_time": 1667221824,
       "rank": 18,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 186173,
+      "num": 186173,
+      "word": "推特第一轮将裁员25%",
+      "onboard_time": 1667269706,
+      "rank": 26,
       "category": "科技"
     },
     {
@@ -395,6 +427,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 169595,
+      "num": 169595,
+      "word": "12岁男孩认识上千种昆虫成科普大神",
+      "onboard_time": 1667269466,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166323,
       "num": 151414,
       "word": "这就是民国大小姐本人吧",
@@ -419,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145751,
-      "num": 145751,
-      "word": "沈腾提名金鸡奖最佳男主角",
-      "onboard_time": 1667268386,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 145657,
+      "num": 145657,
+      "word": "76岁老人花55年养珍珠",
+      "onboard_time": 1667269164,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144485,
@@ -433,6 +473,14 @@
       "onboard_time": 1667228788,
       "rank": 23,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139408,
+      "num": 139408,
+      "word": "农村阿姨给孩子换完尿布接着打篮球",
+      "onboard_time": 1667270546,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136749,
@@ -491,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125885,
-      "num": 125885,
-      "word": "泷泽秀明 退社",
-      "onboard_time": 1667269706,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124441,
       "num": 124441,
       "word": "突然就看不懂中文了",
@@ -547,6 +587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108491,
+      "num": 108491,
+      "word": "网友质疑呼和浩特一副局长疑佩戴奢侈品",
+      "onboard_time": 1667271025,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104362,
+      "num": 104362,
+      "word": "郑州调整管控区域有序恢复正常生产生活秩序",
+      "onboard_time": 1667272165,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103367,
       "num": 103367,
       "word": "开封一店家讲述徒步返乡人群现状",
@@ -555,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100068,
+      "num": 100068,
+      "word": "蓝盈莹直播状态",
+      "onboard_time": 1667264666,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98234,
       "num": 98234,
       "word": "高校女生运动会穿汉服表演舞蹈",
       "onboard_time": 1667252890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96924,
+      "num": 90905,
+      "word": "5位好友",
+      "onboard_time": 1667272225,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 96670,
@@ -579,10 +651,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93668,
-      "num": 93668,
-      "word": "76岁老人花55年养珍珠",
-      "onboard_time": 1667269164,
+      "raw_hot": 94073,
+      "num": 94073,
+      "word": "这些群体是境外间谍重点渗透目标",
+      "onboard_time": 1667271264,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -601,6 +673,14 @@
       "onboard_time": 1667206584,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90960,
+      "num": 90960,
+      "word": "步行者vs篮网",
+      "onboard_time": 1667269046,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 89180,
@@ -643,28 +723,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85580,
-      "num": 85580,
-      "word": "步行者vs篮网",
-      "onboard_time": 1667269046,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85565,
-      "num": 85565,
-      "word": "12岁男孩认识上千种昆虫成科普大神",
-      "onboard_time": 1667269466,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81746,
       "num": 81746,
       "word": "这家没猫不行吧",
       "onboard_time": 1667233045,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79632,
+      "num": 790412,
+      "word": "100秒见证中国航天人在太空安家",
+      "onboard_time": 1667271627,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 77872,
@@ -795,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24111,
+      "num": 316716,
+      "word": "太空新房来了",
+      "onboard_time": 1667271687,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22340,
       "num": 22340,
       "word": "我的四大精神支柱",
@@ -828,6 +908,9 @@
     },
     {
       "word": "#梦天实验舱发射成功#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
