@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667288368812,
+  "endTime": 1667291424398,
   "band_list": [
     {
       "raw_hot": 2604244,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096657,
+      "num": 818622,
+      "word": "孙怡说男人在给你画大饼",
+      "onboard_time": 1667287285,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 873895,
-      "num": 605119,
+      "num": 788083,
       "word": "梨泰院踩踏事故死亡人数升至156人",
       "onboard_time": 1667284106,
       "rank": 35,
@@ -193,6 +201,14 @@
       "onboard_time": 1667215764,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 774541,
+      "num": 380036,
+      "word": "颜宁宣布离美归国",
+      "onboard_time": 1667289687,
+      "rank": 10,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 742909,
@@ -259,6 +275,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 589969,
+      "num": 589969,
+      "word": "河南要求今冬明春做好防大疫准备",
+      "onboard_time": 1667285785,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580763,
       "num": 580763,
       "word": "颜宁",
@@ -283,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 552520,
-      "num": 552520,
-      "word": "河南要求今冬明春做好防大疫准备",
-      "onboard_time": 1667285785,
-      "rank": 13,
+      "raw_hot": 557339,
+      "num": 557339,
+      "word": "男孩买水果发现罕见双色柚子",
+      "onboard_time": 1667285485,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1667285726,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543202,
+      "num": 370014,
+      "word": "31岁女子颜值猛下跌竟患库欣综合征",
+      "onboard_time": 1667288907,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535868,
@@ -355,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 481337,
-      "num": 481337,
-      "word": "男孩买水果发现罕见双色柚子",
-      "onboard_time": 1667285485,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 473908,
+      "num": 355558,
+      "word": "丁真直播截图状态",
+      "onboard_time": 1667289809,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 469845,
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378017,
-      "num": 378017,
-      "word": "孙怡说男人在给你画大饼",
-      "onboard_time": 1667287285,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376776,
       "num": 314845,
       "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
@@ -523,19 +547,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331815,
+      "num": 331815,
+      "word": "哪些内容千万别晒朋友圈",
+      "onboard_time": 1667284826,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322454,
       "num": 322454,
       "word": "网曝共享充电宝用1小时扣费99元",
       "onboard_time": 1667244910,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314126,
-      "num": 314126,
-      "word": "哪些内容千万别晒朋友圈",
-      "onboard_time": 1667284826,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -561,6 +585,14 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281028,
+      "num": 281028,
+      "word": "LV成立首只人民币基金",
+      "onboard_time": 1667286506,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 274293,
@@ -611,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240031,
+      "num": 240031,
+      "word": "66国在联大共同发言反对干涉中国内政",
+      "onboard_time": 1667286807,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 234581,
       "num": 234581,
       "word": "林允梦回千禧辣妹",
       "onboard_time": 1667287347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234319,
+      "num": 234319,
+      "word": "男子50元买的海怪竟是国保中华鲎",
+      "onboard_time": 1667287168,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233672,
@@ -627,12 +675,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229323,
+      "num": 229323,
+      "word": "俞敏洪称越来越多大学生成利己主义者",
+      "onboard_time": 1667290288,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 227261,
       "num": 156447,
       "word": "广州今日已取消888个航班",
       "onboard_time": 1667210127,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224237,
+      "num": 224237,
+      "word": "韩国踩踏事故失物招领处画面曝光",
+      "onboard_time": 1667289207,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 222846,
@@ -729,14 +793,6 @@
       "onboard_time": 1667275647,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187871,
-      "num": 187871,
-      "word": "LV成立首只人民币基金",
-      "onboard_time": 1667286506,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 187784,
@@ -899,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131373,
+      "num": 131373,
+      "word": "双十一又带火了这些新词",
+      "onboard_time": 1667288488,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 127166,
       "num": 127166,
       "word": "零钱通崩了",
@@ -921,6 +985,14 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124633,
+      "num": 124633,
+      "word": "张彬彬奔跑吧上班路透",
+      "onboard_time": 1667288967,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124441,
@@ -963,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111876,
+      "num": 111876,
+      "word": "爷爷爸爸辅导孩子数学产生分歧",
+      "onboard_time": 1667289387,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 110548,
       "num": 110548,
       "word": "光与夜之恋",
@@ -977,14 +1057,6 @@
       "onboard_time": 1667221165,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 109226,
-      "num": 109226,
-      "word": "男子50元买的海怪竟是国保中华鲎",
-      "onboard_time": 1667287168,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108870,
@@ -1155,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79730,
-      "num": 79730,
-      "word": "66国在联大共同发言反对干涉中国内政",
-      "onboard_time": 1667286807,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 79632,
       "num": 1241078,
       "word": "100秒见证中国航天人在太空安家",
@@ -1179,12 +1243,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 77619,
+      "num": 77619,
+      "word": "中信财团或收购大量腾讯股票",
+      "onboard_time": 1667290889,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "傅菁小黑裙套装造型",
       "onboard_time": 1667232625,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 74026,
+      "num": 74026,
+      "word": "千年银杏身披金甲有多绝",
+      "onboard_time": 1667291247,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 72423,
@@ -1311,6 +1391,14 @@
       "num": 361634,
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48399,
+      "num": 327322,
+      "word": "两中学生遇走失男孩暖心护送",
+      "onboard_time": 1667289625,
       "rank": 14,
       "category": "社会新闻"
     },
