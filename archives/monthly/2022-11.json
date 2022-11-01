@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667284465649,
+  "endTime": 1667285678032,
   "band_list": [
     {
       "raw_hot": 2604244,
@@ -51,8 +51,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1234257,
-      "num": 1234257,
+      "raw_hot": 1317853,
+      "num": 1317853,
       "word": "江南 要不别写了",
       "onboard_time": 1667281466,
       "rank": 36,
@@ -227,6 +227,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 580763,
+      "num": 580763,
+      "word": "颜宁",
+      "onboard_time": 1667281646,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 579759,
       "num": 421071,
       "word": "富士康混乱现象是怎么造成的",
@@ -243,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543147,
+      "num": 412435,
+      "word": "韩国踩踏事故旁酒店系违章建筑",
+      "onboard_time": 1667283085,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535868,
       "num": 535868,
       "word": "22岁女子按摩后大面积脑梗",
       "onboard_time": 1667261724,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532062,
-      "num": 532062,
-      "word": "颜宁",
-      "onboard_time": 1667281646,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 522648,
@@ -323,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459479,
+      "num": 382536,
+      "word": "梨泰院踩踏事故死亡人数升至156人",
+      "onboard_time": 1667284106,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 458689,
       "num": 458689,
       "word": "倪妮金鸡奖最佳女主角提名",
       "onboard_time": 1667277808,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453725,
+      "num": 453725,
+      "word": "妈妈带男童进女浴室遭投诉反不满",
+      "onboard_time": 1667282306,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439752,
@@ -408,6 +432,14 @@
       "word": "小伙教老人手机买菜中了一辆车",
       "onboard_time": 1667265447,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387481,
+      "num": 387481,
+      "word": "警方通报男子为幼子买奶粉持刀闯卡",
+      "onboard_time": 1667283446,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -531,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254096,
-      "num": 254096,
-      "word": "韩国踩踏事故旁酒店系违章建筑",
-      "onboard_time": 1667283085,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253240,
       "num": 253240,
       "word": "单依纯姚贝娜跨时空对唱心火",
       "onboard_time": 1667234361,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245175,
-      "num": 245175,
-      "word": "妈妈带男童进女浴室遭投诉反不满",
-      "onboard_time": 1667282306,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233672,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169140,
+      "num": 134122,
+      "word": "张远五个版本嘉宾同时在榜",
+      "onboard_time": 1667283806,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166323,
       "num": 151414,
       "word": "这就是民国大小姐本人吧",
@@ -729,14 +753,6 @@
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 153322,
-      "num": 111542,
-      "word": "张远五个版本嘉宾同时在榜",
-      "onboard_time": 1667283806,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 146687,
@@ -771,22 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141377,
-      "num": 141377,
-      "word": "警方通报男子为幼子买奶粉持刀闯卡",
-      "onboard_time": 1667283446,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140194,
-      "num": 140194,
-      "word": "梨泰院踩踏事故死亡人数升至156人",
-      "onboard_time": 1667284106,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 136749,
       "num": 72102,
       "word": "梦天舱与空间站组合体完成交会对接",
@@ -817,6 +817,14 @@
       "onboard_time": 1667229029,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "师傅到男寝开锁不成反被锁",
+      "onboard_time": 1667284525,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127166,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102749,
+      "num": 102749,
+      "word": "日本队世界杯大名单",
+      "onboard_time": 1667283986,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
@@ -921,6 +937,14 @@
       "onboard_time": 1667264666,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99574,
+      "num": 99574,
+      "word": "哪些内容千万别晒朋友圈",
+      "onboard_time": 1667284826,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98234,
@@ -979,12 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91460,
-      "num": 91460,
-      "word": "日本队世界杯大名单",
-      "onboard_time": 1667283986,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 91805,
+      "num": 91805,
+      "word": "新能源车对环保贡献有多大",
+      "onboard_time": 1667285548,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90960,
@@ -993,6 +1017,14 @@
       "onboard_time": 1667269046,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89794,
+      "num": 89794,
+      "word": "8旬老人学习33年顺利完成22门课程",
+      "onboard_time": 1667285307,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 89180,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1667262806,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86491,
+      "num": 86491,
+      "word": "男孩买水果发现罕见双色柚子",
+      "onboard_time": 1667285485,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86206,
@@ -1187,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42157,
+      "num": 133993,
+      "word": "设计师建议带马桶上火星",
+      "onboard_time": 1667282426,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37086,
       "num": 37086,
       "word": "马嘉祺晒我们的歌花絮大片",
       "onboard_time": 1667230108,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33824,
-      "num": 133993,
-      "word": "设计师建议带马桶上火星",
-      "onboard_time": 1667282426,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24111,
