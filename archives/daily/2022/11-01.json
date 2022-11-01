@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667287464420,
+  "endTime": 1667288368812,
   "band_list": [
     {
       "raw_hot": 2604244,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907591,
+      "num": 907591,
+      "word": "韩国踩踏事故旁酒店系违章建筑",
+      "onboard_time": 1667283085,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 893196,
       "num": 454914,
       "word": "胡歌开小车车的反差感",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 884855,
-      "num": 884855,
-      "word": "韩国踩踏事故旁酒店系违章建筑",
-      "onboard_time": 1667283085,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 873895,
+      "num": 605119,
+      "word": "梨泰院踩踏事故死亡人数升至156人",
+      "onboard_time": 1667284106,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 866964,
@@ -179,14 +187,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 778536,
-      "num": 594766,
-      "word": "梨泰院踩踏事故死亡人数升至156人",
-      "onboard_time": 1667284106,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 775443,
       "num": 244862,
       "word": "张庭陶虹等涉嫌网络传销案将开听证会",
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680168,
+      "num": 680168,
+      "word": "警方通报男子为幼子买奶粉持刀闯卡",
+      "onboard_time": 1667283446,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674401,
       "num": 674401,
       "word": "龙族",
@@ -224,14 +232,6 @@
       "word": "官方回应一副局长疑戴3万元耳钉",
       "onboard_time": 1667226147,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629769,
-      "num": 629769,
-      "word": "警方通报男子为幼子买奶粉持刀闯卡",
-      "onboard_time": 1667283446,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -281,6 +281,14 @@
       "onboard_time": 1667278048,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552520,
+      "num": 552520,
+      "word": "河南要求今冬明春做好防大疫准备",
+      "onboard_time": 1667285785,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547311,
@@ -344,6 +352,14 @@
       "word": "郑州调整管控区域有序恢复正常生产生活秩序",
       "onboard_time": 1667272165,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481337,
+      "num": 481337,
+      "word": "男孩买水果发现罕见双色柚子",
+      "onboard_time": 1667285485,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378017,
+      "num": 378017,
+      "word": "孙怡说男人在给你画大饼",
+      "onboard_time": 1667287285,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376776,
       "num": 314845,
       "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
@@ -499,27 +523,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324399,
-      "num": 324399,
-      "word": "河南要求今冬明春做好防大疫准备",
-      "onboard_time": 1667285785,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324064,
-      "num": 324064,
-      "word": "男孩买水果发现罕见双色柚子",
-      "onboard_time": 1667285485,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322454,
       "num": 322454,
       "word": "网曝共享充电宝用1小时扣费99元",
       "onboard_time": 1667244910,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314126,
+      "num": 314126,
+      "word": "哪些内容千万别晒朋友圈",
+      "onboard_time": 1667284826,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -595,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251245,
-      "num": 251245,
-      "word": "哪些内容千万别晒朋友圈",
-      "onboard_time": 1667284826,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 234581,
+      "num": 234581,
+      "word": "林允梦回千禧辣妹",
+      "onboard_time": 1667287347,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 233672,
@@ -627,8 +643,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 212173,
-      "num": 212173,
+      "raw_hot": 217154,
+      "num": 217154,
       "word": "师傅到男寝开锁不成反被锁",
       "onboard_time": 1667284525,
       "rank": 34,
@@ -715,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187871,
+      "num": 187871,
+      "word": "LV成立首只人民币基金",
+      "onboard_time": 1667286506,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187784,
       "num": 187784,
       "word": "多款降价iPhone现货被抢空",
@@ -745,14 +769,6 @@
       "onboard_time": 1667268146,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175381,
-      "num": 175381,
-      "word": "林允梦回千禧辣妹",
-      "onboard_time": 1667287347,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 175339,
@@ -803,10 +819,10 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 153862,
-      "num": 138022,
-      "word": "孙怡说男人在给你画大饼",
-      "onboard_time": 1667287285,
+      "raw_hot": 147963,
+      "num": 111636,
+      "word": "再见爱人",
+      "onboard_time": 1667288067,
       "rank": 32,
       "category": "综艺"
     },
@@ -849,14 +865,6 @@
       "onboard_time": 1667285907,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141317,
-      "num": 141317,
-      "word": "LV成立首只人民币基金",
-      "onboard_time": 1667286506,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 136749,
@@ -969,6 +977,14 @@
       "onboard_time": 1667221165,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 109226,
+      "num": 109226,
+      "word": "男子50元买的海怪竟是国保中华鲎",
+      "onboard_time": 1667287168,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108870,
@@ -1139,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79730,
+      "num": 79730,
+      "word": "66国在联大共同发言反对干涉中国内政",
+      "onboard_time": 1667286807,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 79632,
       "num": 1241078,
       "word": "100秒见证中国航天人在太空安家",
@@ -1171,20 +1195,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 71631,
+      "num": 115216,
+      "word": "双十一支持20个地址合并下单",
+      "onboard_time": 1667286027,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71402,
       "num": 71402,
       "word": "泡面刺客真的好贵",
       "onboard_time": 1667220025,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 68448,
-      "num": 68448,
-      "word": "男子50元买的海怪竟是国保中华鲎",
-      "onboard_time": 1667287168,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67777,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1667216366,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 63028,
-      "num": 115216,
-      "word": "双十一支持20个地址合并下单",
-      "onboard_time": 1667286027,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62826,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1667198305,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 61494,
+      "num": 340997,
+      "word": "太空视角揭秘红旗渠何以称人工天河",
+      "onboard_time": 1667286027,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60474,
@@ -1287,14 +1311,6 @@
       "num": 361634,
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48993,
-      "num": 324080,
-      "word": "太空视角揭秘红旗渠何以称人工天河",
-      "onboard_time": 1667286027,
       "rank": 14,
       "category": "社会新闻"
     },
