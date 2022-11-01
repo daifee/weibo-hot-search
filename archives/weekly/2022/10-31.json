@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667302620785,
+  "endTime": 1667307272898,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -177,6 +177,14 @@
       "onboard_time": 1667137228,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1436846,
+      "num": 1436846,
+      "word": "原来生肉不能直接在家冲洗",
+      "onboard_time": 1667302287,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 1421755,
@@ -523,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 784698,
+      "num": 784698,
+      "word": "杨戬",
+      "onboard_time": 1667304386,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 780566,
       "num": 780566,
       "word": "马斯克要求推特工程师默写代码",
@@ -587,6 +603,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 684572,
+      "num": 205810,
+      "word": "关晓彤飞天奖花朵仙女裙",
+      "onboard_time": 1667304443,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682980,
       "num": 682980,
       "word": "妈妈带男童进女浴室遭投诉反不满",
@@ -633,6 +657,14 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 671993,
+      "num": 305649,
+      "word": "美国说唱歌手takeoff被枪杀",
+      "onboard_time": 1667306848,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 670991,
@@ -1243,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370017,
+      "num": 305380,
+      "word": "肖战黑色深V西装",
+      "onboard_time": 1667303062,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -1299,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347092,
+      "num": 347092,
+      "word": "飞天奖",
+      "onboard_time": 1667305407,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347091,
       "num": 347091,
       "word": "刘备扮演者发文悼念陆树铭",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339165,
+      "num": 100098,
+      "word": "澳大利亚残疾女子被迫爬下飞机",
+      "onboard_time": 1667305345,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336770,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1667221767,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 325986,
+      "num": 305348,
+      "word": "一个造型就能出圈的美貌",
+      "onboard_time": 1667304506,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 323857,
@@ -1443,11 +1507,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 305868,
+      "num": 305868,
+      "word": "马斯克将向推特蓝色认证用户收费",
+      "onboard_time": 1667300306,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 305790,
       "num": 305790,
       "word": "男子因照顾独居老人获得上海一套房",
       "onboard_time": 1667206584,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305004,
+      "num": 305004,
+      "word": "北京海淀社会面筛查2例感染者",
+      "onboard_time": 1667302584,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1561,6 +1641,22 @@
       "onboard_time": 1667280268,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272650,
+      "num": 202699,
+      "word": "朱一龙童瑶飞天奖后台热聊",
+      "onboard_time": 1667304443,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272488,
+      "num": 203058,
+      "word": "苏醒最终的人脉是陆虎",
+      "onboard_time": 1667304625,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 270029,
@@ -1859,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205219,
+      "num": 99866,
+      "word": "Mike有点子中文功夫在身上",
+      "onboard_time": 1667306248,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203260,
       "num": 203260,
       "word": "沈腾提名金鸡奖最佳男主角",
@@ -1953,6 +2057,14 @@
       "onboard_time": 1667232383,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 196960,
+      "num": 196960,
+      "word": "供销社概念股持续发酵",
+      "onboard_time": 1667304386,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 196815,
@@ -2171,12 +2283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175648,
-      "num": 175648,
-      "word": "马斯克将向推特蓝色认证用户收费",
-      "onboard_time": 1667300306,
-      "rank": 39,
-      "category": "科技,社会新闻"
+      "raw_hot": 175724,
+      "num": 175724,
+      "word": "你的手机能用一天吗",
+      "onboard_time": 1667305586,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 172300,
@@ -2723,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113373,
+      "num": 99239,
+      "word": "秋季万能叠穿公式",
+      "onboard_time": 1667305104,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 113180,
       "num": 113180,
       "word": "日本队世界杯大名单",
@@ -2779,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108441,
+      "num": 62168,
+      "word": "觉醒年代剧组飞天奖重聚",
+      "onboard_time": 1667307266,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107535,
       "num": 107535,
       "word": "遛狗没拴绳撞车狗主人负全责",
@@ -2793,6 +2921,14 @@
       "onboard_time": 1667129008,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104465,
+      "num": 61451,
+      "word": "一套动作保护颈椎健康",
+      "onboard_time": 1667307266,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103367,
@@ -2841,6 +2977,14 @@
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100362,
+      "num": 100362,
+      "word": "谁教你们这么配音的",
+      "onboard_time": 1667302466,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 100185,
@@ -2931,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94947,
-      "num": 94947,
-      "word": "谁教你们这么配音的",
-      "onboard_time": 1667302466,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94840,
       "num": 94840,
       "word": "遭遇踩踏时坚持三要四不要",
@@ -3017,14 +3153,6 @@
       "onboard_time": 1667269046,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90768,
-      "num": 90768,
-      "word": "原来生肉不能直接在家冲洗",
-      "onboard_time": 1667302287,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 89794,
@@ -3243,12 +3371,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 67440,
-      "num": 67440,
-      "word": "北京海淀社会面筛查2例感染者",
-      "onboard_time": 1667302584,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 69693,
+      "num": 69693,
+      "word": "PCL加油",
+      "onboard_time": 1667304443,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 66859,
