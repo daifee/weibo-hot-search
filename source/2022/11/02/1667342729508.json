@@ -1,0 +1,410 @@
+{
+  "runTime": 1667342729508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 751100,
+        "num": 751100,
+        "word": "热依扎获奖孙俪在台下哭了",
+        "onboard_time": 1667317051,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481863,
+        "num": 481863,
+        "word": "顾客漏扫一块猪肉被超市罚2万",
+        "onboard_time": 1667318907,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12807,
+        "num": 356742,
+        "word": "十年百变",
+        "onboard_time": 1667297309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 332145,
+        "num": 332145,
+        "word": "富士康回应726房间事件",
+        "onboard_time": 1667314590,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321594,
+        "num": 321594,
+        "word": "婴儿坠楼00后警校生跳3米墙营救",
+        "onboard_time": 1667318425,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 315389,
+        "num": 315389,
+        "word": "福原爱被男友前妻起诉",
+        "onboard_time": 1667314953,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 214554,
+        "num": 214554,
+        "word": "于和伟",
+        "onboard_time": 1667312489,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212052,
+        "num": 212052,
+        "word": "原来生肉不能直接在家冲洗",
+        "onboard_time": 1667302287,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 167830,
+        "num": 167830,
+        "word": "河南内蒙古强调不能长期无差别封控",
+        "onboard_time": 1667324237,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157499,
+        "num": 157499,
+        "word": "梨泰院踩踏事故目击者称有人故意推搡",
+        "onboard_time": 1667297608,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159060,
+        "num": 157410,
+        "word": "起底张庭夫妇陶虹内地资本版图",
+        "onboard_time": 1667327173,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145623,
+        "num": 145623,
+        "word": "飞天奖获奖名单",
+        "onboard_time": 1667311528,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123879,
+        "num": 123879,
+        "word": "大叔顿顿吃肉血管里堵4厘米油脂",
+        "onboard_time": 1667325794,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107724,
+        "num": 107724,
+        "word": "家长回应孩子用千元帝王蟹比赛做饭",
+        "onboard_time": 1667308528,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107000,
+        "num": 107000,
+        "word": "200元存银行15年变88.72元",
+        "onboard_time": 1667309126,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "王一博onelove舞台播放破亿",
+        "onboard_time": 1667318010,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89109,
+        "num": 89109,
+        "word": "男生疑食堂秤有问题用饮料自测证实",
+        "onboard_time": 1667313270,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82630,
+        "num": 82630,
+        "word": "22岁宁波女孩在韩国踩踏事故中遇难",
+        "onboard_time": 1667292628,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 58007,
+        "num": 58007,
+        "word": "大件快递员晒双十一工资条日薪过千",
+        "onboard_time": 1667313210,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54348,
+        "num": 54348,
+        "word": "俞敏洪称越来越多大学生成利己主义者",
+        "onboard_time": 1667290288,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 355796,
+        "num": 54280,
+        "word": "兰州警方通报七里河事件",
+        "onboard_time": 1667319027,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113884,
+        "num": 53435,
+        "word": "兰州七里河通报",
+        "onboard_time": 1667309909,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 98944,
+        "num": 52956,
+        "word": "兰州疫情防控",
+        "onboard_time": 1667315671,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61344,
+        "num": 52379,
+        "word": "肖战黑色深V西装",
+        "onboard_time": 1667303062,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60435,
+        "num": 51861,
+        "word": "美国说唱歌手takeoff被枪杀",
+        "onboard_time": 1667306848,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59435,
+        "num": 51442,
+        "word": "水花终于拿奖了",
+        "onboard_time": 1667316390,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51323,
+        "num": 51323,
+        "word": "莎头",
+        "onboard_time": 1667313873,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49745,
+        "num": 49745,
+        "word": "澳大利亚残疾女子被迫爬下飞机",
+        "onboard_time": 1667305345,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45510,
+        "num": 45510,
+        "word": "俞敏洪谈年轻人为何容易躺平摆烂",
+        "onboard_time": 1667310509,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43652,
+        "num": 43652,
+        "word": "颜宁宣布离美归国",
+        "onboard_time": 1667289687,
+        "rank": 29,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 39731,
+        "num": 39731,
+        "word": "王雷飞天奖优秀男演员",
+        "onboard_time": 1667310329,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 39185,
+        "word": "一身反骨的哈士奇",
+        "onboard_time": 1667317112,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38135,
+        "num": 38135,
+        "word": "李现寸头直播状态",
+        "onboard_time": 1667313150,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36230,
+        "num": 36230,
+        "word": "杨幂Angelababy唐嫣工作室出图",
+        "onboard_time": 1667312849,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35126,
+        "num": 35126,
+        "word": "张若昀将拍庆余年2",
+        "onboard_time": 1667292867,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34081,
+        "num": 34081,
+        "word": "马斯克将向推特蓝色认证用户收费",
+        "onboard_time": 1667300306,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 31356,
+        "num": 31356,
+        "word": "你能接受暧昧期多久",
+        "onboard_time": 1667308646,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31303,
+        "num": 31303,
+        "word": "原来拆螃蟹这么解压",
+        "onboard_time": 1667318968,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31262,
+        "num": 31262,
+        "word": "福州地铁",
+        "onboard_time": 1667314052,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29819,
+        "num": 29819,
+        "word": "小狗连吧唧嘴都那么可爱",
+        "onboard_time": 1667313446,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31291,
+        "num": 29801,
+        "word": "脱口秀大会",
+        "onboard_time": 1667307387,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 29598,
+        "word": "男子逛超市发现西瓜狂呲水",
+        "onboard_time": 1667294487,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28920,
+        "num": 28920,
+        "word": "一个造型就能出圈的美貌",
+        "onboard_time": 1667304506,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28542,
+        "num": 28542,
+        "word": "颜宁37岁攻克50年不解难题",
+        "onboard_time": 1667309606,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24174,
+        "num": 24174,
+        "word": "不去参加团建是不合群吗",
+        "onboard_time": 1667323158,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22007,
+        "num": 22007,
+        "word": "pgc",
+        "onboard_time": 1667315850,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21575,
+        "num": 21575,
+        "word": "误以为纸团是玩具的流浪猫",
+        "onboard_time": 1667342175,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20207,
+        "num": 20207,
+        "word": "当代大学生的神奇宝贝",
+        "onboard_time": 1667319445,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16641,
+        "num": 16641,
+        "word": "十一月第一条微博",
+        "onboard_time": 1667320642,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15511,
+        "num": 16639,
+        "word": "十一月你好",
+        "onboard_time": 1667322680,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天圆梦#"
+    }
+  }
+}
