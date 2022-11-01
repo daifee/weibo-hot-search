@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667277626603,
+  "endTime": 1667278466073,
   "band_list": [
     {
       "raw_hot": 1815034,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1134019,
+      "num": 470557,
+      "word": "吴磊赵露思上线开通微博会员",
+      "onboard_time": 1667277990,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1105272,
       "num": 1105272,
       "word": "易烊千玺连续三年提名金鸡奖影帝",
@@ -65,6 +73,14 @@
       "onboard_time": 1667271025,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983996,
+      "num": 451517,
+      "word": "王一博上线续充微博会员",
+      "onboard_time": 1667278170,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 948139,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 866964,
-      "num": 734002,
+      "num": 748673,
       "word": "踩踏事故前一女子曾疏散小巷人群",
       "onboard_time": 1667263468,
       "rank": 10,
@@ -105,6 +121,22 @@
       "onboard_time": 1667230767,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 791434,
+      "num": 424123,
+      "word": "成都疑现加拿大一枝黄花",
+      "onboard_time": 1667276551,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780566,
+      "num": 780566,
+      "word": "马斯克要求推特工程师默写代码",
+      "onboard_time": 1667274206,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 775443,
@@ -123,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734555,
-      "num": 734555,
-      "word": "马斯克要求推特工程师默写代码",
-      "onboard_time": 1667274206,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 641467,
       "num": 235079,
       "word": "官方回应一副局长疑戴3万元耳钉",
@@ -147,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 617793,
+      "num": 215460,
+      "word": "张大奕 凑单",
+      "onboard_time": 1667277329,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 610682,
       "num": 234058,
       "word": "冯小刚否认移民",
@@ -161,6 +193,14 @@
       "onboard_time": 1667261724,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576357,
+      "num": 373656,
+      "word": "王鹤棣续充微博会员",
+      "onboard_time": 1667278048,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 535868,
@@ -193,6 +233,14 @@
       "onboard_time": 1667219304,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488729,
+      "num": 488729,
+      "word": "12万卖游戏账户后恶意找回获刑3年半",
+      "onboard_time": 1667275584,
+      "rank": 17,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 481352,
@@ -299,14 +347,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 376069,
-      "num": 376069,
-      "word": "12万卖游戏账户后恶意找回获刑3年半",
-      "onboard_time": 1667275584,
-      "rank": 17,
-      "category": "社会新闻,游戏"
-    },
-    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -320,14 +360,6 @@
       "word": "富士康返乡员工路遇大货车直接被捎上一程",
       "onboard_time": 1667229985,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357439,
-      "num": 357439,
-      "word": "成都疑现加拿大一枝黄花",
-      "onboard_time": 1667276551,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -379,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254341,
+      "num": 254341,
+      "word": "这些群体是境外间谍重点渗透目标",
+      "onboard_time": 1667271264,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253240,
       "num": 253240,
       "word": "单依纯姚贝娜跨时空对唱心火",
       "onboard_time": 1667234361,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248441,
-      "num": 248441,
-      "word": "这些群体是境外间谍重点渗透目标",
-      "onboard_time": 1667271264,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233672,
@@ -417,6 +449,14 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 217370,
+      "num": 217370,
+      "word": "龙族",
+      "onboard_time": 1667277514,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 211780,
@@ -483,20 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189107,
+      "num": 189107,
+      "word": "台积电被曝大砍供应链订单",
+      "onboard_time": 1667277450,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 187966,
+      "num": 187966,
+      "word": "彭冠英一把拉过蔡文静猛亲",
+      "onboard_time": 1667275647,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187784,
       "num": 187784,
       "word": "多款降价iPhone现货被抢空",
       "onboard_time": 1667221824,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 185714,
-      "num": 185714,
-      "word": "彭冠英一把拉过蔡文静猛亲",
-      "onboard_time": 1667275647,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 184301,
@@ -507,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181513,
-      "num": 181513,
+      "raw_hot": 183310,
+      "num": 215663,
       "word": "农村阿姨给孩子换完尿布接着打篮球",
       "onboard_time": 1667270546,
       "rank": 32,
@@ -563,6 +611,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 146902,
+      "num": 146902,
+      "word": "倪妮金鸡奖最佳女主角提名",
+      "onboard_time": 1667277808,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146687,
       "num": 146687,
       "word": "胡可被苏醒张远的默契惊到了",
@@ -579,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145577,
-      "num": 145577,
-      "word": "张大奕 凑单",
-      "onboard_time": 1667277329,
-      "rank": 36,
-      "category": "网红"
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "马斯克决定更换推特主页",
+      "onboard_time": 1667276907,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144485,
@@ -659,28 +715,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "为救男童失去左臂的女子说值了",
+      "onboard_time": 1667276850,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124441,
       "num": 124441,
       "word": "突然就看不懂中文了",
       "onboard_time": 1667211326,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123244,
-      "num": 123244,
-      "word": "马斯克决定更换推特主页",
-      "onboard_time": 1667276907,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117836,
-      "num": 117836,
-      "word": "为救男童失去左臂的女子说值了",
-      "onboard_time": 1667276850,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116655,
@@ -713,14 +761,6 @@
       "onboard_time": 1667221165,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 109611,
-      "num": 109611,
-      "word": "龙族",
-      "onboard_time": 1667277514,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 108870,
@@ -833,6 +873,14 @@
       "onboard_time": 1667262806,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86206,
+      "num": 86206,
+      "word": "48岁男子坐酒席偶遇9旬儿时老师",
+      "onboard_time": 1667278411,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86152,
