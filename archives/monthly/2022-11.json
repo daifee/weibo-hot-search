@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667324888637,
+  "endTime": 1667327475960,
   "band_list": [
     {
       "raw_hot": 2723284,
@@ -1139,6 +1139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 219629,
+      "num": 219629,
+      "word": "河南内蒙古强调不能长期无差别封控",
+      "onboard_time": 1667324237,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218838,
       "num": 218838,
       "word": "中信组团收购腾讯股份的消息不实",
@@ -2227,19 +2235,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 35296,
-      "num": 35296,
-      "word": "河南内蒙古强调不能长期无差别封控",
-      "onboard_time": 1667324237,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
       "onboard_time": 1667322199,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28681,
+      "num": 28681,
+      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
+      "onboard_time": 1667325794,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28107,
+      "num": 28107,
+      "word": "不去参加团建是不合群吗",
+      "onboard_time": 1667323158,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -2249,6 +2265,14 @@
       "onboard_time": 1667293228,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26907,
+      "num": 26907,
+      "word": "起底张庭夫妇陶虹内地资本版图",
+      "onboard_time": 1667327173,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 24111,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1667240292,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21112,
-      "num": 24933,
-      "word": "不去参加团建是不合群吗",
-      "onboard_time": 1667323158,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 19686,
