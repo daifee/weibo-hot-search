@@ -1,7 +1,15 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667314074842,
+  "endTime": 1667316415537,
   "band_list": [
+    {
+      "raw_hot": 2649781,
+      "num": 2649781,
+      "word": "兰州七里河通报",
+      "onboard_time": 1667309909,
+      "rank": 25,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 2604244,
       "num": 2604244,
@@ -11,19 +19,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2214611,
+      "num": 2214611,
+      "word": "于和伟",
+      "onboard_time": 1667312489,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1961222,
       "num": 1961222,
       "word": "热依扎获飞天奖优秀女演员",
       "onboard_time": 1667309971,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1935435,
-      "num": 1935435,
-      "word": "于和伟",
-      "onboard_time": 1667312489,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -99,20 +107,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1420645,
-      "num": 1420645,
-      "word": "兰州七里河通报",
-      "onboard_time": 1667309909,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1363339,
       "num": 1363339,
       "word": "朋友圈设置三天可见的理由",
       "onboard_time": 1667226207,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1283640,
+      "num": 473170,
+      "word": "福原爱被男友前妻起诉",
+      "onboard_time": 1667314953,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1207192,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1139027,
-      "num": 378500,
+      "num": 466602,
       "word": "杨幂Angelababy唐嫣工作室出图",
       "onboard_time": 1667312849,
       "rank": 10,
@@ -212,11 +220,19 @@
     },
     {
       "raw_hot": 1043920,
-      "num": 231089,
+      "num": 241679,
       "word": "关晓彤发型",
       "onboard_time": 1667309068,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1036743,
+      "num": 468601,
+      "word": "富士康回应726房间事件",
+      "onboard_time": 1667314590,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010373,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644495,
+      "num": 644495,
+      "word": "莎头",
+      "onboard_time": 1667313873,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644185,
       "num": 644185,
       "word": "31岁女子颜值猛下跌竟患库欣综合征",
@@ -539,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 508698,
+      "num": 462521,
+      "word": "兰州疫情防控",
+      "onboard_time": 1667315671,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498160,
       "num": 238157,
       "word": "尾款",
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475019,
+      "num": 475019,
+      "word": "福州地铁",
+      "onboard_time": 1667314052,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469845,
       "num": 418347,
       "word": "张雨绮穿了网友为她设计的裙子",
@@ -609,6 +649,14 @@
       "onboard_time": 1667292208,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 442231,
+      "num": 442231,
+      "word": "男生疑食堂秤有问题用饮料自测证实",
+      "onboard_time": 1667313270,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441867,
@@ -843,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311530,
+      "num": 241248,
+      "word": "李现寸头直播状态",
+      "onboard_time": 1667313150,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310068,
       "num": 310068,
       "word": "孙颖莎继续排名世界第一",
@@ -889,14 +945,6 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303312,
-      "num": 207186,
-      "word": "李现寸头直播状态",
-      "onboard_time": 1667313150,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 287934,
@@ -995,12 +1043,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 242801,
+      "num": 242801,
+      "word": "小狗连吧唧嘴都那么可爱",
+      "onboard_time": 1667313446,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 235595,
+      "num": 235595,
+      "word": "大件快递员晒双十一工资条日薪过千",
+      "onboard_time": 1667313210,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234581,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1667204065,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 209270,
+      "num": 209270,
+      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
+      "onboard_time": 1667310509,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205219,
@@ -1307,14 +1379,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 155371,
-      "num": 155371,
-      "word": "俞敏洪谈年轻人为何容易躺平摆烂",
-      "onboard_time": 1667310509,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153029,
       "num": 153029,
       "word": "反应迟钝的小猫咪",
@@ -1395,12 +1459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141672,
-      "num": 141672,
-      "word": "福州地铁",
-      "onboard_time": 1667314052,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 137950,
+      "num": 106707,
+      "word": "水花终于拿奖了",
+      "onboard_time": 1667316390,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 136749,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1667229029,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129327,
+      "num": 129327,
+      "word": "pgc",
+      "onboard_time": 1667315850,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 128020,
@@ -1515,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118487,
-      "num": 118487,
-      "word": "莎头",
-      "onboard_time": 1667313873,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118076,
       "num": 118076,
       "word": "中信财团或收购大量腾讯股票",
@@ -1579,20 +1643,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 109789,
+      "num": 109789,
+      "word": "这个锅巴看起来好好吃",
+      "onboard_time": 1667313572,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 109267,
+      "num": 109267,
+      "word": "这减肥操懂我想要什么",
+      "onboard_time": 1667315074,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108870,
       "num": 97047,
       "word": "李荣浩晒自学画画第九天作品",
       "onboard_time": 1667265565,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105232,
-      "num": 105232,
-      "word": "小狗连吧唧嘴都那么可爱",
-      "onboard_time": 1667313446,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 104465,
@@ -1603,35 +1675,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104238,
-      "num": 104238,
-      "word": "这个锅巴看起来好好吃",
-      "onboard_time": 1667313572,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 104198,
-      "num": 104198,
-      "word": "大件快递员晒双十一工资条日薪过千",
-      "onboard_time": 1667313210,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103367,
       "num": 103367,
       "word": "开封一店家讲述徒步返乡人群现状",
       "onboard_time": 1667250011,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103080,
-      "num": 103080,
-      "word": "男生疑食堂秤有问题用饮料自测证实",
-      "onboard_time": 1667313270,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1817,6 +1865,14 @@
       "onboard_time": 1667304443,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83207,
+      "num": 105279,
+      "word": "知情人士透露颜宁回国打算",
+      "onboard_time": 1667315372,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82135,
@@ -2059,8 +2115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39457,
-      "num": 1124097,
+      "raw_hot": 40036,
+      "num": 1426877,
       "word": "十年百变",
       "onboard_time": 1667297309,
       "rank": 2,
