@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667320591924,
+  "endTime": 1667321998629,
   "band_list": [
     {
       "raw_hot": 2723284,
@@ -259,6 +259,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1008982,
+      "num": 169494,
+      "word": "兰州警方通报七里河事件",
+      "onboard_time": 1667319027,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -313,14 +321,6 @@
       "onboard_time": 1667284106,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 871160,
-      "num": 169494,
-      "word": "兰州警方通报七里河事件",
-      "onboard_time": 1667319027,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 866964,
@@ -491,6 +491,22 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 595691,
+      "num": 595691,
+      "word": "顾客漏扫一块猪肉被超市罚2万",
+      "onboard_time": 1667318907,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591470,
+      "num": 591470,
+      "word": "婴儿坠楼00后警校生跳3米墙营救",
+      "onboard_time": 1667318425,
+      "rank": 11,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 589969,
       "num": 589969,
       "word": "河南要求今冬明春做好防大疫准备",
@@ -545,14 +561,6 @@
       "onboard_time": 1667305345,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537526,
-      "num": 272359,
-      "word": "婴儿坠楼00后警校生跳3米墙营救",
-      "onboard_time": 1667318425,
-      "rank": 11,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 535868,
@@ -809,14 +817,6 @@
       "onboard_time": 1667303062,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 366632,
-      "num": 271372,
-      "word": "顾客漏扫一块猪肉被超市罚2万",
-      "onboard_time": 1667318907,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365099,
@@ -1651,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "原来拆螃蟹这么解压",
+      "onboard_time": 1667318968,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1667219966,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112476,
-      "num": 112476,
-      "word": "原来拆螃蟹这么解压",
-      "onboard_time": 1667318968,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 112092,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1667269706,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93781,
+      "num": 93781,
+      "word": "你好十一月",
+      "onboard_time": 1667321120,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 93337,
