@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667278466073,
+  "endTime": 1667281801903,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -17,6 +17,14 @@
       "onboard_time": 1667174845,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2604244,
+      "num": 2604244,
+      "word": "关羽扮演者陆树铭老师去世",
+      "onboard_time": 1667279251,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2035514,
@@ -123,6 +131,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1582799,
+      "num": 1582799,
+      "word": "成都疑现加拿大一枝黄花",
+      "onboard_time": 1667276551,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1555239,
       "num": 505082,
       "word": "李智汉为救被困小女孩遇难",
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1207192,
+      "num": 215460,
+      "word": "张大奕 凑单",
+      "onboard_time": 1667277329,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1181069,
       "num": 1181069,
       "word": "冯小刚否认移民",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 1134019,
-      "num": 470557,
+      "num": 532682,
       "word": "吴磊赵露思上线开通微博会员",
       "onboard_time": 1667277990,
       "rank": 10,
@@ -419,11 +443,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 791434,
-      "num": 424123,
-      "word": "成都疑现加拿大一枝黄花",
-      "onboard_time": 1667276551,
-      "rank": 18,
+      "raw_hot": 814250,
+      "num": 814250,
+      "word": "全班43人家长会只来了7位爸爸",
+      "onboard_time": 1667278469,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617793,
-      "num": 215460,
-      "word": "张大奕 凑单",
-      "onboard_time": 1667277329,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 587771,
       "num": 432606,
       "word": "富士康对郑州有多重要",
@@ -585,6 +601,14 @@
       "onboard_time": 1667278048,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569845,
+      "num": 569845,
+      "word": "台积电被曝大砍供应链订单",
+      "onboard_time": 1667277450,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 567029,
@@ -617,6 +641,14 @@
       "onboard_time": 1667180963,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 539393,
+      "num": 539393,
+      "word": "龙族",
+      "onboard_time": 1667277514,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 536881,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431101,
+      "num": 431101,
+      "word": "倪妮金鸡奖最佳女主角提名",
+      "onboard_time": 1667277808,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421537,
       "num": 359420,
       "word": "易烊千玺怼脸六宫格",
@@ -1043,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350843,
+      "num": 273132,
+      "word": "众星上线续充微博会员",
+      "onboard_time": 1667278830,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
       "onboard_time": 1667184323,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346339,
+      "num": 346339,
+      "word": "马斯克决定更换推特主页",
+      "onboard_time": 1667276907,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344919,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1667221767,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 323731,
+      "num": 323731,
+      "word": "斯里兰卡男子路过被卷进人群遇难",
+      "onboard_time": 1667278711,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322454,
@@ -1347,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245695,
+      "num": 162472,
+      "word": "TaylorSwift空降成绩",
+      "onboard_time": 1667280268,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "当猫咪误入女生宿舍",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1667217085,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 239566,
+      "num": 239566,
+      "word": "为救男童失去左臂的女子说值了",
+      "onboard_time": 1667276850,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239503,
@@ -1457,14 +1537,6 @@
       "onboard_time": 1667224167,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217370,
-      "num": 217370,
-      "word": "龙族",
-      "onboard_time": 1667277514,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 217146,
@@ -1675,14 +1747,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 189107,
-      "num": 189107,
-      "word": "台积电被曝大砍供应链订单",
-      "onboard_time": 1667277450,
-      "rank": 35,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 187966,
       "num": 187966,
       "word": "彭冠英一把拉过蔡文静猛亲",
@@ -1827,12 +1891,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167969,
+      "num": 167969,
+      "word": "网友称今年双11发货速度能擦出火星",
+      "onboard_time": 1667279848,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167134,
       "num": 167134,
       "word": "BLACKPINK世巡后台合照",
       "onboard_time": 1667207305,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164688,
+      "num": 164688,
+      "word": "乔治准绝杀火箭",
+      "onboard_time": 1667280567,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 163973,
@@ -1867,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153944,
+      "num": 153944,
+      "word": "江南 要不别写了",
+      "onboard_time": 1667281466,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
       "raw_hot": 153818,
       "num": 153818,
       "word": "洗衣液",
@@ -1889,14 +1977,6 @@
       "onboard_time": 1667163730,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146902,
-      "num": 146902,
-      "word": "倪妮金鸡奖最佳女主角提名",
-      "onboard_time": 1667277808,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 146687,
@@ -1929,14 +2009,6 @@
       "onboard_time": 1667222905,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 144699,
-      "num": 144699,
-      "word": "马斯克决定更换推特主页",
-      "onboard_time": 1667276907,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144522,
@@ -2152,14 +2224,6 @@
       "word": "10月最后一天",
       "onboard_time": 1667172260,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125012,
-      "num": 125012,
-      "word": "为救男童失去左臂的女子说值了",
-      "onboard_time": 1667276850,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2403,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97260,
+      "num": 97260,
+      "word": "光与夜之恋",
+      "onboard_time": 1667281168,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
@@ -2481,6 +2553,14 @@
       "onboard_time": 1667139693,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91654,
+      "num": 91654,
+      "word": "颜宁",
+      "onboard_time": 1667281646,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 90960,
@@ -2807,6 +2887,14 @@
       "num": 283496,
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
       "onboard_time": 1667199681,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38119,
+      "num": 361634,
+      "word": "没有什么可以挡住山区孩子求学脚步",
+      "onboard_time": 1667279672,
       "rank": 14,
       "category": "社会新闻"
     },
