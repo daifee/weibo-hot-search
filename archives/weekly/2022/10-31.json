@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667281801903,
+  "endTime": 1667282458354,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 892602,
+      "num": 892602,
+      "word": "全班43人家长会只来了7位爸爸",
+      "onboard_time": 1667278469,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873088,
       "num": 873088,
       "word": "董宇辉回应直播时被女子泼水",
@@ -441,14 +449,6 @@
       "onboard_time": 1667204664,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 814250,
-      "num": 814250,
-      "word": "全班43人家长会只来了7位爸爸",
-      "onboard_time": 1667278469,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 780566,
@@ -531,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674401,
+      "num": 674401,
+      "word": "龙族",
+      "onboard_time": 1667277514,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 664014,
       "num": 293638,
       "word": "罗志祥新歌",
@@ -579,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605331,
+      "num": 605331,
+      "word": "台积电被曝大砍供应链订单",
+      "onboard_time": 1667277450,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 588110,
+      "num": 466908,
+      "word": "江南 要不别写了",
+      "onboard_time": 1667281466,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
       "raw_hot": 587771,
       "num": 432606,
       "word": "富士康对郑州有多重要",
@@ -601,14 +625,6 @@
       "onboard_time": 1667278048,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 569845,
-      "num": 569845,
-      "word": "台积电被曝大砍供应链订单",
-      "onboard_time": 1667277450,
-      "rank": 35,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 567029,
@@ -641,14 +657,6 @@
       "onboard_time": 1667180963,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 539393,
-      "num": 539393,
-      "word": "龙族",
-      "onboard_time": 1667277514,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 536881,
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458689,
+      "num": 458689,
+      "word": "倪妮金鸡奖最佳女主角提名",
+      "onboard_time": 1667277808,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455445,
       "num": 455445,
       "word": "小伙每天1斤白酒患上精神分裂症",
@@ -875,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431101,
-      "num": 431101,
-      "word": "倪妮金鸡奖最佳女主角提名",
-      "onboard_time": 1667277808,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 434696,
+      "num": 434696,
+      "word": "吴卓羲 喜爱度",
+      "onboard_time": 1667282365,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421537,
@@ -897,6 +913,14 @@
       "onboard_time": 1667193083,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 416342,
+      "num": 416342,
+      "word": "众星上线续充微博会员",
+      "onboard_time": 1667278830,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 412260,
@@ -1083,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350843,
-      "num": 273132,
-      "word": "众星上线续充微博会员",
-      "onboard_time": 1667278830,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342563,
+      "num": 342563,
+      "word": "斯里兰卡男子路过被卷进人群遇难",
+      "onboard_time": 1667278711,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336770,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1667221767,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 323731,
-      "num": 323731,
-      "word": "斯里兰卡男子路过被卷进人群遇难",
-      "onboard_time": 1667278711,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322454,
@@ -1315,6 +1331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 274293,
+      "num": 249446,
+      "word": "TaylorSwift空降成绩",
+      "onboard_time": 1667280268,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270029,
       "num": 270029,
       "word": "95后小伙花2万装修入住毛坯房",
@@ -1387,6 +1411,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 249865,
+      "num": 249865,
+      "word": "为救男童失去左臂的女子说值了",
+      "onboard_time": 1667276850,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248808,
       "num": 248808,
       "word": "4月宝宝睡醒哭喊全家一致起身",
@@ -1411,14 +1443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245695,
-      "num": 162472,
-      "word": "TaylorSwift空降成绩",
-      "onboard_time": 1667280268,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "当猫咪误入女生宿舍",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1667217085,
       "rank": 18,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 239566,
-      "num": 239566,
-      "word": "为救男童失去左臂的女子说值了",
-      "onboard_time": 1667276850,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239503,
@@ -1619,6 +1635,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 200593,
+      "num": 200593,
+      "word": "颜宁",
+      "onboard_time": 1667281646,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200256,
       "num": 200256,
       "word": "毛不易连唱三首好稳",
@@ -1731,12 +1755,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 190938,
+      "num": 184754,
+      "word": "网友称今年双11发货速度能擦出火星",
+      "onboard_time": 1667279848,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190488,
       "num": 190488,
       "word": "蔡徐坤现象合作舞台播放量破亿",
       "onboard_time": 1667189847,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190407,
+      "num": 190407,
+      "word": "乔治准绝杀火箭",
+      "onboard_time": 1667280567,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 189774,
@@ -1891,28 +1931,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 167969,
-      "num": 167969,
-      "word": "网友称今年双11发货速度能擦出火星",
-      "onboard_time": 1667279848,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167134,
       "num": 167134,
       "word": "BLACKPINK世巡后台合照",
       "onboard_time": 1667207305,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164688,
-      "num": 164688,
-      "word": "乔治准绝杀火箭",
-      "onboard_time": 1667280567,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 163973,
@@ -1945,14 +1969,6 @@
       "onboard_time": 1667178927,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153944,
-      "num": 153944,
-      "word": "江南 要不别写了",
-      "onboard_time": 1667281466,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 153818,
@@ -2339,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110548,
+      "num": 110548,
+      "word": "光与夜之恋",
+      "onboard_time": 1667281168,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108870,
       "num": 97047,
       "word": "李荣浩晒自学画画第九天作品",
@@ -2467,14 +2491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97260,
-      "num": 97260,
-      "word": "光与夜之恋",
-      "onboard_time": 1667281168,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "马嘉祺唱了雪落下的声音",
@@ -2539,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92861,
+      "num": 421653,
+      "word": "一款有游戏皮肤的啤酒",
+      "onboard_time": 1667282426,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92689,
       "num": 236859,
       "word": "六旬父亲听到儿子隔空喊话高兴起舞",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1667139693,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91654,
-      "num": 91654,
-      "word": "颜宁",
-      "onboard_time": 1667281646,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 90960,
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 79632,
-      "num": 980028,
+      "num": 1058113,
       "word": "100秒见证中国航天人在太空安家",
       "onboard_time": 1667271627,
       "rank": 2,
@@ -2867,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49024,
+      "num": 361634,
+      "word": "没有什么可以挡住山区孩子求学脚步",
+      "onboard_time": 1667279672,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44488,
       "num": 1335448,
       "word": "飞天圆梦",
@@ -2887,14 +2911,6 @@
       "num": 283496,
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
       "onboard_time": 1667199681,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38119,
-      "num": 361634,
-      "word": "没有什么可以挡住山区孩子求学脚步",
-      "onboard_time": 1667279672,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2963,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 6802,
+      "num": 133993,
+      "word": "设计师建议带马桶上火星",
+      "onboard_time": 1667282426,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3531,
       "num": 291514,
       "word": "太空厨房让航天员吃好喝好",
@@ -2989,6 +3013,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#祝中越两国人民友谊地久天长#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1667282458354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2324069,
+        "num": 2324069,
+        "word": "关羽扮演者陆树铭老师去世",
+        "onboard_time": 1667279251,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1515043,
+        "num": 1515043,
+        "word": "成都疑现加拿大一枝黄花",
+        "onboard_time": 1667276551,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63390,
+        "num": 1058113,
+        "word": "100秒见证中国航天人在太空安家",
+        "onboard_time": 1667271627,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 892602,
+        "num": 892602,
+        "word": "全班43人家长会只来了7位爸爸",
+        "onboard_time": 1667278469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791161,
+        "num": 791161,
+        "word": "3位艺人在梨泰院踩踏事故中丧生",
+        "onboard_time": 1667260462,
+        "rank": 4,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 684255,
+        "num": 684255,
+        "word": "易烊千玺连续三年提名金鸡奖影帝",
+        "onboard_time": 1667268866,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674401,
+        "num": 674401,
+        "word": "龙族",
+        "onboard_time": 1667277514,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 605331,
+        "num": 605331,
+        "word": "台积电被曝大砍供应链订单",
+        "onboard_time": 1667277450,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 491560,
+        "num": 491560,
+        "word": "踩踏事故前一女子曾疏散小巷人群",
+        "onboard_time": 1667263468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477458,
+        "num": 477458,
+        "word": "5位好友",
+        "onboard_time": 1667272225,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 625411,
+        "num": 468382,
+        "word": "吴磊赵露思上线开通微博会员",
+        "onboard_time": 1667277990,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588110,
+        "num": 466908,
+        "word": "江南 要不别写了",
+        "onboard_time": 1667281466,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 458689,
+        "num": 458689,
+        "word": "倪妮金鸡奖最佳女主角提名",
+        "onboard_time": 1667277808,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434696,
+        "num": 434696,
+        "word": "吴卓羲 喜爱度",
+        "onboard_time": 1667282365,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92861,
+        "num": 421653,
+        "word": "一款有游戏皮肤的啤酒",
+        "onboard_time": 1667282426,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416342,
+        "num": 416342,
+        "word": "众星上线续充微博会员",
+        "onboard_time": 1667278830,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342563,
+        "num": 342563,
+        "word": "斯里兰卡男子路过被卷进人群遇难",
+        "onboard_time": 1667278711,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327605,
+        "num": 327605,
+        "word": "马斯克决定更换推特主页",
+        "onboard_time": 1667276907,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311620,
+        "num": 311620,
+        "word": "马斯克要求推特工程师默写代码",
+        "onboard_time": 1667274206,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49024,
+        "num": 301619,
+        "word": "没有什么可以挡住山区孩子求学脚步",
+        "onboard_time": 1667279672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365616,
+        "num": 301070,
+        "word": "王一博上线续充微博会员",
+        "onboard_time": 1667278170,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330120,
+        "num": 300516,
+        "word": "李智汉为救被困小女孩遇难",
+        "onboard_time": 1667265506,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299071,
+        "num": 299071,
+        "word": "网友质疑呼和浩特一副局长疑佩戴奢侈品",
+        "onboard_time": 1667271025,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275377,
+        "num": 275377,
+        "word": "12万卖游戏账户后恶意找回获刑3年半",
+        "onboard_time": 1667275584,
+        "rank": 23,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 249865,
+        "num": 249865,
+        "word": "为救男童失去左臂的女子说值了",
+        "onboard_time": 1667276850,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274293,
+        "num": 249446,
+        "word": "TaylorSwift空降成绩",
+        "onboard_time": 1667280268,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238129,
+        "num": 238129,
+        "word": "大妈地铁上身体套塑料袋吃香蕉",
+        "onboard_time": 1667267487,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205389,
+        "num": 205389,
+        "word": "当鲁迅付完尾款",
+        "onboard_time": 1667263763,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200593,
+        "num": 200593,
+        "word": "颜宁",
+        "onboard_time": 1667281646,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194389,
+        "num": 194389,
+        "word": "郑州调整管控区域有序恢复正常生产生活秩序",
+        "onboard_time": 1667272165,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119263,
+        "num": 194035,
+        "word": "张大奕 凑单",
+        "onboard_time": 1667277329,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237340,
+        "num": 193948,
+        "word": "王鹤棣续充微博会员",
+        "onboard_time": 1667278048,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190407,
+        "num": 190407,
+        "word": "乔治准绝杀火箭",
+        "onboard_time": 1667280567,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190938,
+        "num": 184754,
+        "word": "网友称今年双11发货速度能擦出火星",
+        "onboard_time": 1667279848,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236111,
+        "num": 178192,
+        "word": "胡歌开小车车的反差感",
+        "onboard_time": 1667271085,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196723,
+        "num": 176898,
+        "word": "85花热门女演员梯队图",
+        "onboard_time": 1667276189,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171255,
+        "num": 171255,
+        "word": "楚子航",
+        "onboard_time": 1667274266,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "官方回应一副局长疑戴3万元耳钉",
+        "onboard_time": 1667226147,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141262,
+        "num": 141262,
+        "word": "朋友圈设置三天可见的理由",
+        "onboard_time": 1667226207,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6802,
+        "num": 133993,
+        "word": "设计师建议带马桶上火星",
+        "onboard_time": 1667282426,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192807,
+        "num": 133730,
+        "word": "张雨绮穿了网友为她设计的裙子",
+        "onboard_time": 1667261004,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133373,
+        "num": 133373,
+        "word": "富士康混乱现象是怎么造成的",
+        "onboard_time": 1667261724,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "三个中国财神爷救了玉皇大帝",
+        "onboard_time": 1667263348,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 126972,
+        "word": "这些群体是境外间谍重点渗透目标",
+        "onboard_time": 1667271264,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115448,
+        "num": 115448,
+        "word": "不内耗的生活有多爽",
+        "onboard_time": 1667266886,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113597,
+        "num": 113597,
+        "word": "22岁女子按摩后大面积脑梗",
+        "onboard_time": 1667261724,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110548,
+        "num": 110548,
+        "word": "光与夜之恋",
+        "onboard_time": 1667281168,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96124,
+        "num": 96124,
+        "word": "农村阿姨给孩子换完尿布接着打篮球",
+        "onboard_time": 1667270546,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95628,
+        "num": 95628,
+        "word": "退款",
+        "onboard_time": 1667219243,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93468,
+        "num": 93468,
+        "word": "12岁男孩认识上千种昆虫成科普大神",
+        "onboard_time": 1667269466,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝中越两国人民友谊地久天长#"
+    }
+  }
+}
