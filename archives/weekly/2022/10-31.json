@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667307272898,
+  "endTime": 1667309107752,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1540619,
+      "num": 1540619,
+      "word": "原来生肉不能直接在家冲洗",
+      "onboard_time": 1667302287,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1509098,
       "num": 1509098,
       "word": "在韩留学生万幸决定当晚提前离开",
@@ -177,14 +185,6 @@
       "onboard_time": 1667137228,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1436846,
-      "num": 1436846,
-      "word": "原来生肉不能直接在家冲洗",
-      "onboard_time": 1667302287,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 1421755,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1057761,
+      "num": 1057761,
+      "word": "美国说唱歌手takeoff被枪杀",
+      "onboard_time": 1667306848,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056629,
       "num": 1056629,
       "word": "散兵",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 1010373,
-      "num": 684350,
+      "num": 825058,
       "word": "22岁宁波女孩在韩国踩踏事故中遇难",
       "onboard_time": 1667292628,
       "rank": 10,
@@ -587,6 +595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 686220,
+      "num": 60602,
+      "word": "关晓彤发型",
+      "onboard_time": 1667309068,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 685881,
       "num": 317225,
       "word": "郑州要求富士康有序恢复生产生活秩序",
@@ -657,14 +673,6 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
-    },
-    {
-      "raw_hot": 671993,
-      "num": 305649,
-      "word": "美国说唱歌手takeoff被枪杀",
-      "onboard_time": 1667306848,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 670991,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548944,
+      "num": 548944,
+      "word": "飞天奖",
+      "onboard_time": 1667305407,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547311,
       "num": 547311,
       "word": "陈飞宇张婧仪打火机与公主裙改名",
@@ -897,6 +913,14 @@
       "onboard_time": 1667269706,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520376,
+      "num": 520376,
+      "word": "澳大利亚残疾女子被迫爬下飞机",
+      "onboard_time": 1667305345,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518571,
@@ -1075,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441867,
+      "num": 310537,
+      "word": "脱口秀大会",
+      "onboard_time": 1667307387,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441502,
       "num": 441502,
       "word": "本色出演穷鬼",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1667224167,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402367,
+      "num": 310327,
+      "word": "一个造型就能出圈的美貌",
+      "onboard_time": 1667304506,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400092,
@@ -1339,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347092,
-      "num": 347092,
-      "word": "飞天奖",
-      "onboard_time": 1667305407,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347091,
       "num": 347091,
       "word": "刘备扮演者发文悼念陆树铭",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1667144008,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339165,
-      "num": 100098,
-      "word": "澳大利亚残疾女子被迫爬下飞机",
-      "onboard_time": 1667305345,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336770,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1667221767,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 325986,
-      "num": 305348,
-      "word": "一个造型就能出圈的美貌",
-      "onboard_time": 1667304506,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323857,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1667209705,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 310785,
+      "num": 310785,
+      "word": "供销社概念股持续发酵",
+      "onboard_time": 1667304386,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 310068,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1667286506,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 287221,
+      "num": 287221,
+      "word": "你的手机能用一天吗",
+      "onboard_time": 1667305586,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 284433,
@@ -1763,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247429,
+      "num": 202424,
+      "word": "觉醒年代剧组飞天奖重聚",
+      "onboard_time": 1667307266,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246460,
       "num": 246460,
       "word": "刘诗诗粉色长裙写真",
@@ -1956,7 +1996,7 @@
     },
     {
       "raw_hot": 205219,
-      "num": 99866,
+      "num": 102582,
       "word": "Mike有点子中文功夫在身上",
       "onboard_time": 1667306248,
       "rank": 31,
@@ -2057,14 +2097,6 @@
       "onboard_time": 1667232383,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 196960,
-      "num": 196960,
-      "word": "供销社概念股持续发酵",
-      "onboard_time": 1667304386,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 196815,
@@ -2169,6 +2201,14 @@
       "onboard_time": 1667124868,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 188625,
+      "num": 102909,
+      "word": "11月有望播出的电视剧",
+      "onboard_time": 1667308469,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 187966,
@@ -2281,14 +2321,6 @@
       "onboard_time": 1667181987,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175724,
-      "num": 175724,
-      "word": "你的手机能用一天吗",
-      "onboard_time": 1667305586,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 172300,
@@ -2411,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157619,
+      "num": 157619,
+      "word": "秋季万能叠穿公式",
+      "onboard_time": 1667305104,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 153818,
       "num": 153818,
       "word": "洗衣液",
@@ -2449,6 +2489,14 @@
       "onboard_time": 1667288067,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147952,
+      "num": 102724,
+      "word": "任嘉伦秋日毛衣造型",
+      "onboard_time": 1667308828,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147814,
@@ -2675,6 +2723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "你的快递自己开车来了",
+      "onboard_time": 1667308046,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "重病女孩含泪劝父亲不要借钱手术",
@@ -2737,6 +2793,14 @@
       "onboard_time": 1667288967,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122664,
+      "num": 86521,
+      "word": "陈飞宇张婧仪新剧校园情侣打闹",
+      "onboard_time": 1667307447,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 122470,
@@ -2835,14 +2899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113373,
-      "num": 99239,
-      "word": "秋季万能叠穿公式",
-      "onboard_time": 1667305104,
-      "rank": 33,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 113180,
       "num": 113180,
       "word": "日本队世界杯大名单",
@@ -2899,19 +2955,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108441,
-      "num": 62168,
-      "word": "觉醒年代剧组飞天奖重聚",
-      "onboard_time": 1667307266,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 107535,
       "num": 107535,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107395,
+      "num": 102464,
+      "word": "家长回应孩子用千元帝王蟹比赛做饭",
+      "onboard_time": 1667308528,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3243,6 +3299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85487,
+      "num": 85487,
+      "word": "PCL加油",
+      "onboard_time": 1667304443,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85014,
       "num": 85014,
       "word": "梦天实验舱",
@@ -3355,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71899,
+      "num": 71899,
+      "word": "你能接受暧昧期多久",
+      "onboard_time": 1667308646,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71631,
       "num": 115216,
       "word": "双十一支持20个地址合并下单",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1667225246,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 69693,
-      "num": 69693,
-      "word": "PCL加油",
-      "onboard_time": 1667304443,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 66859,
@@ -3531,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50053,
+      "num": 60529,
+      "word": "金鱼也盼鸬鹚能给自己个痛快的",
+      "onboard_time": 1667307985,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49024,
       "num": 361634,
       "word": "没有什么可以挡住山区孩子求学脚步",
@@ -3572,7 +3644,7 @@
     },
     {
       "raw_hot": 39100,
-      "num": 712459,
+      "num": 931182,
       "word": "十年百变",
       "onboard_time": 1667297309,
       "rank": 2,
