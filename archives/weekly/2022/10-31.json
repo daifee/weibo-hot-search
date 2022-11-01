@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667327475960,
+  "endTime": 1667328528648,
   "band_list": [
     {
       "raw_hot": 3224403,
@@ -4003,20 +4003,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39072,
+      "num": 39072,
+      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
+      "onboard_time": 1667325794,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36958,
+      "num": 26907,
+      "word": "起底张庭夫妇陶虹内地资本版图",
+      "onboard_time": 1667327173,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
       "onboard_time": 1667322199,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28681,
-      "num": 28681,
-      "word": "大叔顿顿吃肉血管里堵4厘米油脂",
-      "onboard_time": 1667325794,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28107,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1667293228,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26907,
-      "num": 26907,
-      "word": "起底张庭夫妇陶虹内地资本版图",
-      "onboard_time": 1667327173,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 24111,
