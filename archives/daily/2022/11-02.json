@@ -1,7 +1,15 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667357962031,
+  "endTime": 1667362810987,
   "band_list": [
+    {
+      "raw_hot": 3680271,
+      "num": 3680271,
+      "word": "新郑三中老师",
+      "onboard_time": 1667358181,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 2231418,
       "num": 2231418,
@@ -17,6 +25,14 @@
       "onboard_time": 1667309909,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1445435,
+      "num": 1445435,
+      "word": "山西襄垣县委书记翟卫华坠楼去世",
+      "onboard_time": 1667358925,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1302078,
@@ -73,6 +89,14 @@
       "onboard_time": 1667355264,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 724699,
+      "num": 724699,
+      "word": "陈哲远沈月终于合体了",
+      "onboard_time": 1667359587,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 682452,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 386291,
-      "num": 198294,
+      "num": 231161,
       "word": "福原爱被起诉",
       "onboard_time": 1667314953,
       "rank": 21,
@@ -211,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357725,
+      "num": 357725,
+      "word": "奔跑吧",
+      "onboard_time": 1667359587,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351589,
       "num": 351589,
       "word": "王鹤棣摘戒指表情",
       "onboard_time": 1667352684,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350705,
+      "num": 350705,
+      "word": "小偷盗窃留借条事后送上感谢金",
+      "onboard_time": 1667357724,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350369,
@@ -233,6 +273,22 @@
       "onboard_time": 1667306848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332144,
+      "num": 332144,
+      "word": "乔欣新剧的妈是锅姨",
+      "onboard_time": 1667361267,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326824,
+      "num": 326824,
+      "word": "杨幂ELLE十二月刊封面",
+      "onboard_time": 1667361987,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321648,
@@ -275,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277341,
+      "num": 277341,
+      "word": "女子抽中万元奖品开心到当街跳舞",
+      "onboard_time": 1667357243,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273618,
       "num": 270461,
       "word": "杨幂Angelababy唐嫣工作室出图",
@@ -307,12 +371,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264082,
+      "num": 264082,
+      "word": "马布里说中国村BA是他热爱的氛围",
+      "onboard_time": 1667358867,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 236386,
+      "num": 233482,
+      "word": "汪苏泷no拔笛",
+      "onboard_time": 1667360667,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236319,
       "num": 191550,
       "word": "不期而至今晚开播",
       "onboard_time": 1667357006,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233515,
+      "num": 233515,
+      "word": "原神",
+      "onboard_time": 1667358181,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231354,
+      "num": 231354,
+      "word": "中专生苦练木工9年成国家队教练",
+      "onboard_time": 1667357485,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222951,
@@ -347,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194614,
+      "num": 194614,
+      "word": "大湾仔的夜2定档",
+      "onboard_time": 1667360305,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -355,8 +459,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185093,
+      "num": 185093,
+      "word": "蔚来回应整车工厂生产暂停",
+      "onboard_time": 1667360845,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184745,
-      "num": 129791,
+      "num": 174978,
       "word": "脱口秀大会选顺序",
       "onboard_time": 1667356165,
       "rank": 30,
@@ -377,6 +489,14 @@
       "onboard_time": 1667353466,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177744,
+      "num": 177744,
+      "word": "东北搬砖小伙开餐馆实现整容式逆袭",
+      "onboard_time": 1667357905,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176078,
@@ -435,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154450,
+      "num": 154450,
+      "word": "小小沼泽酱",
+      "onboard_time": 1667361086,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154335,
       "num": 151724,
       "word": "ITZY将12月2日回归",
@@ -465,6 +593,14 @@
       "onboard_time": 1667317112,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134139,
+      "num": 134139,
+      "word": "库里三双",
+      "onboard_time": 1667356825,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 133933,
@@ -531,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123625,
+      "num": 123625,
+      "word": "英雄联盟S12",
+      "onboard_time": 1667362166,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122369,
       "num": 122369,
       "word": "原来拆螃蟹这么解压",
@@ -587,22 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 114080,
-      "num": 114080,
-      "word": "东北搬砖小伙开餐馆实现整容式逆袭",
-      "onboard_time": 1667357905,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109792,
-      "num": 109792,
-      "word": "库里三双",
-      "onboard_time": 1667356825,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108361,
       "num": 108361,
       "word": "澳大利亚残疾女子被迫爬下飞机",
@@ -611,18 +739,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105384,
-      "num": 105384,
-      "word": "中专生苦练木工9年成国家队教练",
-      "onboard_time": 1667357485,
-      "rank": 41,
-      "category": "社会新闻,教育"
+      "raw_hot": 108047,
+      "num": 108047,
+      "word": "103岁中医为村民免费看病80载",
+      "onboard_time": 1667359946,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
-      "raw_hot": 100989,
-      "num": 102858,
-      "word": "女子抽中万元奖品开心到当街跳舞",
-      "onboard_time": 1667357243,
+      "raw_hot": 107154,
+      "num": 1029732,
+      "word": "当秋天遇上古诗词有多美",
+      "onboard_time": 1667355807,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 106845,
+      "num": 106845,
+      "word": "70后女子转行整理收纳师找回自信",
+      "onboard_time": 1667358445,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -643,11 +779,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98507,
-      "num": 98507,
-      "word": "小偷盗窃留借条事后送上感谢金",
-      "onboard_time": 1667357724,
-      "rank": 46,
+      "raw_hot": 98704,
+      "num": 98704,
+      "word": "韩总理公布梨泰院踩踏事故原因",
+      "onboard_time": 1667362651,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -825,6 +961,14 @@
       "onboard_time": 1667320642,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11624,
+      "num": 327312,
+      "word": "原神3.2版本更新",
+      "onboard_time": 1667361629,
+      "rank": 14,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
