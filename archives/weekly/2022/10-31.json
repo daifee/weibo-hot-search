@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667385821423,
+  "endTime": 1667388088250,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -257,6 +257,14 @@
       "onboard_time": 1667302287,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1539952,
+      "num": 1539952,
+      "word": "多地通知乘火车飞机不再查核酸",
+      "onboard_time": 1667384545,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1509098,
@@ -779,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 809338,
-      "num": 809338,
-      "word": "多地通知乘火车飞机不再查核酸",
-      "onboard_time": 1667384545,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
@@ -817,6 +817,14 @@
       "onboard_time": 1667207785,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 771560,
+      "num": 771560,
+      "word": "大学生没惹你们任何人",
+      "onboard_time": 1667385087,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 771341,
@@ -1459,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471896,
+      "num": 471896,
+      "word": "老师用反向签到查出逃课学生",
+      "onboard_time": 1667385267,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 470680,
       "num": 419165,
       "word": "女子在父亲生日当天梨泰院遇难",
@@ -1723,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399346,
+      "num": 399346,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 398678,
       "num": 356737,
       "word": "零钱通崩了",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1667278711,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372500,
-      "num": 372500,
-      "word": "请为辽HXY031救护车让行",
-      "onboard_time": 1667381488,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 370017,
@@ -2467,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269018,
+      "num": 269018,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268531,
       "num": 268531,
       "word": "奔跑吧共富篇定档11月4日",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1667372127,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 249917,
+      "num": 249917,
+      "word": "吴磊说祝你做个好梦",
+      "onboard_time": 1667387065,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 249582,
@@ -2875,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216571,
-      "num": 216571,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211690,
       "num": 211690,
       "word": "沈阳飞芜湖机票低至9元",
@@ -3091,14 +3115,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 195940,
-      "num": 195940,
-      "word": "大学生没惹你们任何人",
-      "onboard_time": 1667385087,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "身体折叠180度的他终于能抬头看天",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1667366430,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 160379,
+      "word": "学生称女老师会议号被恶意放网上",
+      "onboard_time": 1667387004,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 191915,
@@ -3225,6 +3249,14 @@
       "onboard_time": 1667349329,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187312,
+      "num": 187312,
+      "word": "小说里走出来的白月光",
+      "onboard_time": 1667386646,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 187112,
@@ -3465,6 +3497,14 @@
       "onboard_time": 1667289387,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166002,
+      "num": 157488,
+      "word": "蔡文静不期而至第一集就开寡",
+      "onboard_time": 1667387605,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 163973,
@@ -4195,14 +4235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113060,
-      "num": 113060,
-      "word": "老师用反向签到查出逃课学生",
-      "onboard_time": 1667385267,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 112289,
       "num": 112289,
       "word": "王铮亮是谐音梗刺客吧",
@@ -4225,6 +4257,14 @@
       "onboard_time": 1667186725,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111764,
+      "num": 111764,
+      "word": "女生运动会扮七仙女惊艳全场",
+      "onboard_time": 1667384303,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 111600,
@@ -4329,6 +4369,14 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104013,
+      "num": 104013,
+      "word": "北京市门头沟新增1例阳性",
+      "onboard_time": 1667386767,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103848,
@@ -4689,6 +4737,14 @@
       "onboard_time": 1667223447,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86294,
+      "num": 86294,
+      "word": "一家五代人守护灯塔百余年",
+      "onboard_time": 1667387546,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86206,
@@ -5337,6 +5393,14 @@
       "onboard_time": 1667214026,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 5581,
+      "num": 358055,
+      "word": "豪华MPV世纪标准",
+      "onboard_time": 1667386828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3531,

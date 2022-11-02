@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667385821423,
+  "endTime": 1667388088250,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -56,6 +56,14 @@
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1539952,
+      "num": 1539952,
+      "word": "多地通知乘火车飞机不再查核酸",
+      "onboard_time": 1667384545,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 809338,
-      "num": 809338,
-      "word": "多地通知乘火车飞机不再查核酸",
-      "onboard_time": 1667384545,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
       "onboard_time": 1667378845,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 771560,
+      "num": 771560,
+      "word": "大学生没惹你们任何人",
+      "onboard_time": 1667385087,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 758544,
@@ -371,6 +379,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 471896,
+      "num": 471896,
+      "word": "老师用反向签到查出逃课学生",
+      "onboard_time": 1667385267,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 458998,
       "num": 458998,
       "word": "地下700米竟能捕捉幽灵粒子",
@@ -451,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 399346,
+      "num": 399346,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 387646,
       "num": 387646,
       "word": "梨泰院踩踏事故目击者称有人故意推搡",
@@ -473,14 +497,6 @@
       "onboard_time": 1667314953,
       "rank": 21,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 372500,
-      "num": 372500,
-      "word": "请为辽HXY031救护车让行",
-      "onboard_time": 1667381488,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 369434,
@@ -731,6 +747,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 269018,
+      "num": 269018,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266710,
       "num": 266710,
       "word": "颜宁发文回应归国",
@@ -785,6 +809,14 @@
       "onboard_time": 1667372127,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 249917,
+      "num": 249917,
+      "word": "吴磊说祝你做个好梦",
+      "onboard_time": 1667387065,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 249376,
@@ -875,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216571,
-      "num": 216571,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210499,
       "num": 168229,
       "word": "王一博onelove舞台播放破亿",
@@ -939,20 +963,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 195940,
-      "num": 195940,
-      "word": "大学生没惹你们任何人",
-      "onboard_time": 1667385087,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 192832,
       "num": 192832,
       "word": "民政部公布10个涉嫌非法社会组织",
       "onboard_time": 1667366430,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 160379,
+      "word": "学生称女老师会议号被恶意放网上",
+      "onboard_time": 1667387004,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 190480,
@@ -969,6 +993,14 @@
       "onboard_time": 1667349329,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187312,
+      "num": 187312,
+      "word": "小说里走出来的白月光",
+      "onboard_time": 1667386646,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 184745,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1667310509,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166002,
+      "num": 157488,
+      "word": "蔡文静不期而至第一集就开寡",
+      "onboard_time": 1667387605,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 163158,
@@ -1331,12 +1371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113060,
-      "num": 113060,
-      "word": "老师用反向签到查出逃课学生",
-      "onboard_time": 1667385267,
-      "rank": 40,
-      "category": "社会新闻,教育"
+      "raw_hot": 111764,
+      "num": 111764,
+      "word": "女生运动会扮七仙女惊艳全场",
+      "onboard_time": 1667384303,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 108678,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104013,
+      "num": 104013,
+      "word": "北京市门头沟新增1例阳性",
+      "onboard_time": 1667386767,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103848,
@@ -1472,6 +1520,14 @@
       "word": "男孩坠入深井救援时淡定提要求",
       "onboard_time": 1667374108,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86294,
+      "num": 86294,
+      "word": "一家五代人守护灯塔百余年",
+      "onboard_time": 1667387546,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1713,6 +1769,14 @@
       "onboard_time": 1667361629,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 5581,
+      "num": 358055,
+      "word": "豪华MPV世纪标准",
+      "onboard_time": 1667386828,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
