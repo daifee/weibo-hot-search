@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667417620544,
+  "endTime": 1667420583230,
   "band_list": [
     {
       "raw_hot": 1231771,
@@ -145,6 +145,14 @@
       "onboard_time": 1667400329,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 220762,
+      "num": 220762,
+      "word": "熬夜后心脏会发生什么变化",
+      "onboard_time": 1667416452,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220461,
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43740,
-      "num": 43740,
-      "word": "熬夜后心脏会发生什么变化",
-      "onboard_time": 1667416452,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42041,
       "num": 42041,
       "word": "广西一14岁初中生被清华录取",
@@ -465,6 +465,14 @@
       "onboard_time": 1667412553,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14197,
+      "num": 14197,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 12873,
