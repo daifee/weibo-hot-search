@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 05:23:19
+本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 05:38:56
 </p>
 </blockquote>
 <p>
@@ -358,13 +358,19 @@ Gemini澄清声明（热度：39311）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%96%9C%E4%BA%8B%23" target="weibo">
-当代人的四大喜事（热度：25423）
+当代人的四大喜事（热度：29196）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%90%8D%E7%9A%84%E8%AF%9D%E6%80%BC%E5%88%B0%E4%BA%86%E6%88%91%E7%9A%84%E5%BF%83%E5%9D%8E%E4%B8%8A%23" target="weibo">
 绿萍的话怼到了我的心坎上（热度：24237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
+英国老人吐槽现在比二战时还糟（热度：14676）
 </a>
 </li>
 
@@ -381,14 +387,20 @@ Gemini澄清声明（热度：39311）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E4%B8%8B%E4%B8%89%E5%BA%A6%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%86%B2%E8%BF%9B%E6%B9%96%E4%B8%AD%E6%95%91%E4%BA%BA%23" target="weibo">
-零下三度退役军人冲进湖中救人（热度：9220）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%85%89%E8%83%BD%E7%A9%BF%E8%BF%87%E9%87%91%E5%B1%9E%23" target="weibo">
+科学家发现光能穿过金属（热度：11852）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E8%81%8C%E4%B8%9A%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23" target="weibo">
-各职业的崩溃瞬间（热度：8465）
+各职业的崩溃瞬间（热度：10009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E4%B8%8B%E4%B8%89%E5%BA%A6%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%86%B2%E8%BF%9B%E6%B9%96%E4%B8%AD%E6%95%91%E4%BA%BA%23" target="weibo">
+零下三度退役军人冲进湖中救人（热度：9220）
 </a>
 </li>
 
