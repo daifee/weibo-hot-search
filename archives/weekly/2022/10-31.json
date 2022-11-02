@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667395531338,
+  "endTime": 1667397331147,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1086769,
+      "num": 422159,
+      "word": "顶级东方神颜",
+      "onboard_time": 1667393608,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056629,
       "num": 1056629,
       "word": "散兵",
@@ -632,14 +640,6 @@
       "word": "王一博上线续充微博会员",
       "onboard_time": 1667278170,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 983177,
-      "num": 422159,
-      "word": "顶级东方神颜",
-      "onboard_time": 1667393608,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478772,
+      "num": 478772,
+      "word": "徐志胜窝里横",
+      "onboard_time": 1667396186,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478045,
       "num": 478045,
       "word": "富士康最新声明",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1667304506,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402088,
+      "num": 402088,
+      "word": "红星评兰州七里河儿童死亡",
+      "onboard_time": 1667389044,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 400092,
@@ -2235,6 +2251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318222,
+      "num": 318222,
+      "word": "北大南开将联合调查直博生涉抄袭",
+      "onboard_time": 1667396068,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 317194,
       "num": 317194,
       "word": "供销社概念股持续发酵",
@@ -2323,14 +2347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307221,
-      "num": 307221,
-      "word": "红星评兰州七里河儿童死亡",
-      "onboard_time": 1667389044,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 306705,
       "num": 306705,
       "word": "四六级报名",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298397,
+      "num": 298397,
+      "word": "徐忠信去世",
+      "onboard_time": 1667393845,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 297690,
@@ -2667,6 +2691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258294,
+      "num": 258294,
+      "word": "余承东称每卖两台折叠屏就有一台是华为",
+      "onboard_time": 1667391506,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 254607,
       "num": 254607,
       "word": "唐朝诡事录收官团建",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1667372906,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 244686,
-      "num": 244686,
-      "word": "余承东称每卖两台折叠屏就有一台是华为",
-      "onboard_time": 1667391506,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 242976,
@@ -3515,20 +3539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177467,
+      "num": 177467,
+      "word": "供销社到底是什么",
+      "onboard_time": 1667390486,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "pgc",
       "onboard_time": 1667315850,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174142,
-      "num": 174142,
-      "word": "徐忠信去世",
-      "onboard_time": 1667393845,
-      "rank": 28,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 174079,
@@ -3699,12 +3723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158278,
-      "num": 158278,
-      "word": "供销社到底是什么",
-      "onboard_time": 1667390486,
-      "rank": 36,
-      "category": "财经,社会新闻"
+      "raw_hot": 159124,
+      "num": 159124,
+      "word": "钉钉回应女教师上网课后去世",
+      "onboard_time": 1667396548,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157953,
@@ -3761,6 +3785,14 @@
       "onboard_time": 1667351184,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154239,
+      "num": 154239,
+      "word": "华为PocketS价格",
+      "onboard_time": 1667392768,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 153818,
@@ -3827,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148698,
+      "num": 148698,
+      "word": "用落叶堆了只小狗",
+      "onboard_time": 1667393425,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147963,
       "num": 111636,
       "word": "再见爱人",
@@ -3881,14 +3921,6 @@
       "onboard_time": 1667269164,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145515,
-      "num": 145515,
-      "word": "华为PocketS价格",
-      "onboard_time": 1667392768,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 145174,
@@ -4523,6 +4555,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 106118,
+      "num": 106118,
+      "word": "华为小折叠六色齐发",
+      "onboard_time": 1667396967,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 105056,
       "num": 105056,
       "word": "郑州富士康员工返乡",
@@ -4609,6 +4649,14 @@
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100608,
+      "num": 100608,
+      "word": "公司恶意用100多斤硬币清偿被罚",
+      "onboard_time": 1667396668,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100362,
@@ -4715,6 +4763,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 95592,
+      "num": 95592,
+      "word": "罗永浩当代塌房cp粉的嘴替",
+      "onboard_time": 1667396668,
+      "rank": 45,
+      "category": "科技,网红"
+    },
+    {
       "raw_hot": 95214,
       "num": 95214,
       "word": "打工人酒里藏了多少心事",
@@ -4800,6 +4856,14 @@
       "word": "真功夫20件商标被裁定无效",
       "onboard_time": 1667351907,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92348,
+      "num": 92348,
+      "word": "一直博北大学生涉嫌论文抄袭",
+      "onboard_time": 1667397209,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5049,14 +5113,6 @@
       "onboard_time": 1667379926,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80628,
-      "num": 80628,
-      "word": "用落叶堆了只小狗",
-      "onboard_time": 1667393425,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 79789,
