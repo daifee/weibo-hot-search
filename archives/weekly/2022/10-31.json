@@ -1,7 +1,15 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667368627523,
+  "endTime": 1667370824452,
   "band_list": [
+    {
+      "raw_hot": 4760713,
+      "num": 4760713,
+      "word": "教育局确认河南女教师上网课后去世",
+      "onboard_time": 1667366487,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 3919420,
       "num": 3919420,
@@ -17,14 +25,6 @@
       "onboard_time": 1667219243,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3017685,
-      "num": 3017685,
-      "word": "教育局确认河南女教师上网课后去世",
-      "onboard_time": 1667366487,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2723284,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1092274,
+      "num": 304845,
+      "word": "梨泰院事故遇难中国女孩家属发声",
+      "onboard_time": 1667369126,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056629,
       "num": 1056629,
       "word": "散兵",
@@ -681,6 +689,14 @@
       "onboard_time": 1667205563,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 830702,
+      "num": 830702,
+      "word": "专家称姐弟恋婚姻比例上升是社会进步",
+      "onboard_time": 1667368285,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 823750,
@@ -1507,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 407802,
+      "num": 407802,
+      "word": "男朋友好会提供情绪价值",
+      "onboard_time": 1667366846,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405498,
       "num": 302825,
       "word": "韩国发布踩踏事故伤亡人员补助方案",
@@ -2043,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291216,
+      "num": 291216,
+      "word": "供销社系统怎么突然火了",
+      "onboard_time": 1667367267,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 287934,
       "num": 287934,
       "word": "LV成立首只人民币基金",
@@ -2355,12 +2387,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 241817,
-      "num": 241817,
-      "word": "男朋友好会提供情绪价值",
-      "onboard_time": 1667366846,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 241629,
+      "num": 241629,
+      "word": "王者七周年返场皮肤",
+      "onboard_time": 1667365352,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 240504,
@@ -2537,14 +2569,6 @@
       "onboard_time": 1667183543,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214077,
-      "num": 214077,
-      "word": "王者七周年返场皮肤",
-      "onboard_time": 1667365352,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 211690,
@@ -2739,14 +2763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195719,
-      "num": 195719,
-      "word": "供销社系统怎么突然火了",
-      "onboard_time": 1667367267,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "身体折叠180度的他终于能抬头看天",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1667356165,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184721,
+      "num": 184721,
+      "word": "民政部公布10个涉嫌非法社会组织",
+      "onboard_time": 1667366430,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184301,
@@ -3027,6 +3051,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 171207,
+      "num": 171207,
+      "word": "贾跃亭因借款纠纷起诉乐视",
+      "onboard_time": 1667366308,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169595,
       "num": 169595,
       "word": "12岁男孩认识上千种昆虫成科普大神",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1667365890,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161898,
+      "num": 161898,
+      "word": "王一博十月刊黑白花絮视频",
+      "onboard_time": 1667369608,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160986,
@@ -3219,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148198,
-      "num": 148198,
-      "word": "贾跃亭因借款纠纷起诉乐视",
-      "onboard_time": 1667366308,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147963,
       "num": 111636,
       "word": "再见爱人",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1667260103,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146553,
-      "num": 146553,
-      "word": "民政部公布10个涉嫌非法社会组织",
-      "onboard_time": 1667366430,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146498,
@@ -3451,6 +3475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134707,
+      "num": 134707,
+      "word": "恶意入侵网课可能涉嫌犯罪",
+      "onboard_time": 1667368886,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 134139,
       "num": 134139,
       "word": "库里三双",
@@ -3545,6 +3577,14 @@
       "onboard_time": 1667350468,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128601,
+      "num": 128601,
+      "word": "张彬彬晒小森林拍摄地",
+      "onboard_time": 1667370028,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 128020,
@@ -3819,11 +3859,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107611,
+      "num": 107611,
+      "word": "秦岚蓝盈莹郑合惠子新剧泰语预告",
+      "onboard_time": 1667368347,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107535,
       "num": 107535,
       "word": "遛狗没拴绳撞车狗主人负全责",
       "onboard_time": 1667159170,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107321,
+      "num": 107321,
+      "word": "中国驻韩大使吊唁踩踏事故遇难同胞",
+      "onboard_time": 1667370087,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3857,6 +3913,14 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103848,
+      "num": 103848,
+      "word": "心动的信号5收官",
+      "onboard_time": 1667365111,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 103367,
@@ -3899,20 +3963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102701,
-      "num": 102701,
-      "word": "心动的信号5收官",
-      "onboard_time": 1667365111,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102026,
-      "num": 102026,
-      "word": "专家称姐弟恋婚姻比例上升是社会进步",
-      "onboard_time": 1667368285,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 102694,
+      "num": 102694,
+      "word": "大学生都听燃了",
+      "onboard_time": 1667367146,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101664,
@@ -3952,14 +4008,6 @@
       "word": "李智汉出演的新剧还没拍摄完",
       "onboard_time": 1667207725,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 99893,
-      "num": 99893,
-      "word": "秦岚蓝盈莹郑合惠子新剧泰语预告",
-      "onboard_time": 1667368347,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -4017,14 +4065,6 @@
       "onboard_time": 1667258239,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 96532,
-      "num": 96532,
-      "word": "大学生都听燃了",
-      "onboard_time": 1667367146,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 96518,
@@ -4267,6 +4307,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 84776,
+      "num": 84776,
+      "word": "这家人可真没把我们当外人",
+      "onboard_time": 1667369245,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
@@ -4401,6 +4449,14 @@
       "onboard_time": 1667225246,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 69576,
+      "num": 69576,
+      "word": "女教师上网课后去世警方已介入调查",
+      "onboard_time": 1667370807,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 69432,
@@ -4656,6 +4712,14 @@
       "word": "设计师建议带马桶上火星",
       "onboard_time": 1667282426,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40939,
+      "num": 261222,
+      "word": "聋哑姐妹开无声咖啡店帮助残疾人",
+      "onboard_time": 1667369608,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
