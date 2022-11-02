@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667421513102,
+  "endTime": 1667424199452,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -4059,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25423,
+      "num": 25423,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24237,
       "num": 24237,
       "word": "绿萍的话怼到了我的心坎上",
@@ -4083,14 +4091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19942,
-      "num": 19942,
-      "word": "当代人的四大喜事",
-      "onboard_time": 1667419989,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 19686,
       "num": 19686,
       "word": "蔡徐坤曾经的你舞台照",
@@ -4107,8 +4107,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12170,
-      "num": 12170,
+      "raw_hot": 13466,
+      "num": 13466,
       "word": "什么都没快递重要",
       "onboard_time": 1667421310,
       "rank": 42,
@@ -4129,6 +4129,22 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9220,
+      "num": 9740,
+      "word": "零下三度退役军人冲进湖中救人",
+      "onboard_time": 1667421910,
+      "rank": 48,
+      "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 8465,
+      "num": 9636,
+      "word": "各职业的崩溃瞬间",
+      "onboard_time": 1667424189,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 5581,
