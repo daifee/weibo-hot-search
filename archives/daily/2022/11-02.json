@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667367926863,
+  "endTime": 1667368627523,
   "band_list": [
     {
       "raw_hot": 3919420,
@@ -8,6 +8,14 @@
       "word": "新郑三中老师",
       "onboard_time": 1667358181,
       "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3017685,
+      "num": 3017685,
+      "word": "教育局确认河南女教师上网课后去世",
+      "onboard_time": 1667366487,
+      "rank": 1,
       "category": "社会新闻,教育"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1667317051,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1748891,
-      "num": 1748891,
-      "word": "教育局确认河南女教师上网课后去世",
-      "onboard_time": 1667366487,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1688117,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 815174,
-      "num": 815174,
+      "raw_hot": 855041,
+      "num": 855041,
       "word": "杭州一公司发布禁止趴桌午睡通知",
       "onboard_time": 1667365650,
       "rank": 3,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285180,
+      "num": 285180,
+      "word": "王者荣耀",
+      "onboard_time": 1667362948,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282797,
       "num": 282797,
       "word": "家长回应孩子用千元帝王蟹比赛做饭",
@@ -483,12 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243922,
-      "num": 243922,
-      "word": "王者荣耀",
-      "onboard_time": 1667362948,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 241817,
+      "num": 241817,
+      "word": "男朋友好会提供情绪价值",
+      "onboard_time": 1667366846,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 236386,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "供销社系统怎么突然火了",
+      "onboard_time": 1667367267,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -601,14 +617,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181405,
-      "num": 181405,
-      "word": "男朋友好会提供情绪价值",
-      "onboard_time": 1667366846,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 180707,
@@ -723,8 +731,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146553,
+      "num": 146553,
+      "word": "民政部公布10个涉嫌非法社会组织",
+      "onboard_time": 1667366430,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138214,
-      "num": 92667,
+      "num": 100924,
       "word": "没见过这么会跳舞的猫咪",
       "onboard_time": 1667367866,
       "rank": 47,
@@ -737,14 +753,6 @@
       "onboard_time": 1667317112,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136012,
-      "num": 136012,
-      "word": "供销社系统怎么突然火了",
-      "onboard_time": 1667367267,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 134139,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 118852,
-      "num": 1029813,
+      "num": 1325015,
       "word": "当秋天遇上古诗词有多美",
       "onboard_time": 1667355807,
       "rank": 2,
@@ -889,14 +897,6 @@
       "onboard_time": 1667290288,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 113395,
-      "num": 113395,
-      "word": "民政部公布10个涉嫌非法社会组织",
-      "onboard_time": 1667366430,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108361,
@@ -931,6 +931,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102026,
+      "num": 102026,
+      "word": "专家称姐弟恋婚姻比例上升是社会进步",
+      "onboard_time": 1667368285,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99893,
+      "num": 99893,
+      "word": "秦岚蓝盈莹郑合惠子新剧泰语预告",
+      "onboard_time": 1667368347,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99757,
       "num": 99757,
       "word": "郑州战疫服务信息指南",
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96532,
+      "num": 96532,
+      "word": "大学生都听燃了",
+      "onboard_time": 1667367146,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 94734,
       "num": 94734,
       "word": "勇士vs热火",
@@ -977,14 +1001,6 @@
       "onboard_time": 1667351907,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92056,
-      "num": 92056,
-      "word": "大学生都听燃了",
-      "onboard_time": 1667367146,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 85574,
