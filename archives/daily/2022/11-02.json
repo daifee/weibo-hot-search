@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667377826349,
+  "endTime": 1667378775515,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1406985,
+      "num": 1406985,
+      "word": "女子戒糖戒奶茶1年后变白变年轻",
+      "onboard_time": 1667376147,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302078,
       "num": 178764,
       "word": "兰州疫情防控",
       "onboard_time": 1667315671,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285265,
+      "num": 553145,
+      "word": "gemini",
+      "onboard_time": 1667375788,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1234420,
@@ -83,14 +99,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1131074,
-      "num": 553145,
-      "word": "gemini",
-      "onboard_time": 1667375788,
-      "rank": 10,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1116856,
       "num": 521044,
       "word": "杨幂在用生发液",
@@ -104,6 +112,14 @@
       "word": "韩总理公布梨泰院踩踏事故原因",
       "onboard_time": 1667362651,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098901,
+      "num": 1098901,
+      "word": "多地通知11月起常态化核酸检测变化",
+      "onboard_time": 1667375665,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 836442,
-      "num": 836442,
-      "word": "女子戒糖戒奶茶1年后变白变年轻",
-      "onboard_time": 1667376147,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 758544,
       "num": 758544,
       "word": "推特员工每天工作12小时防马斯克裁员",
@@ -185,14 +193,6 @@
       "onboard_time": 1667359587,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 712339,
-      "num": 712339,
-      "word": "多地通知11月起常态化核酸检测变化",
-      "onboard_time": 1667375665,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682452,
@@ -267,6 +267,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 574493,
+      "num": 488298,
+      "word": "张韶涵发文悼念自己的狗狗",
+      "onboard_time": 1667376927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565822,
       "num": 565822,
       "word": "甄嬛传屠龙组",
@@ -297,14 +305,6 @@
       "onboard_time": 1667365172,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488298,
-      "num": 488298,
-      "word": "张韶涵发文悼念自己的狗狗",
-      "onboard_time": 1667376927,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 487493,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273881,
+      "num": 273881,
+      "word": "王俊凯重生之门提名第31届金鹰奖",
+      "onboard_time": 1667377948,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273618,
       "num": 270461,
       "word": "杨幂Angelababy唐嫣工作室出图",
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257098,
+      "num": 257098,
+      "word": "12岁男孩在小区用迷你爆米花机摆摊",
+      "onboard_time": 1667375007,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "第一次见猫咪逗人玩",
@@ -657,6 +673,14 @@
       "onboard_time": 1667372127,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 249376,
+      "num": 249376,
+      "word": "官方成立专班处理教师上网课后去世事件",
+      "onboard_time": 1667375606,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 244707,
@@ -707,28 +731,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 224133,
+      "num": 224133,
+      "word": "官方回应老师家中上网课猝死",
+      "onboard_time": 1667378127,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222951,
       "num": 222951,
       "word": "两只猫咪爬墙头悬空打架",
       "onboard_time": 1667355986,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220999,
-      "num": 220999,
-      "word": "12岁男孩在小区用迷你爆米花机摆摊",
-      "onboard_time": 1667375007,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220173,
-      "num": 220173,
-      "word": "官方成立专班处理教师上网课后去世事件",
-      "onboard_time": 1667375606,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 210499,
@@ -779,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196340,
+      "num": 196340,
+      "word": "多巴胺让你自律上瘾",
+      "onboard_time": 1667374047,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 192832,
       "num": 192832,
       "word": "民政部公布10个涉嫌非法社会组织",
@@ -787,12 +811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192387,
-      "num": 192387,
-      "word": "多巴胺让你自律上瘾",
-      "onboard_time": 1667374047,
-      "rank": 41,
-      "category": "情感,幽默"
+      "raw_hot": 190480,
+      "num": 190480,
+      "word": "严浩翔六公主采访安利北电食堂",
+      "onboard_time": 1667378428,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188477,
+      "num": 188477,
+      "word": "3岁女孩连吃8个柿子长胃结石",
+      "onboard_time": 1667377049,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187387,
@@ -800,6 +832,14 @@
       "word": "北京11月1日新增本土确诊28例",
       "onboard_time": 1667349329,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186724,
+      "num": 186724,
+      "word": "男子江边散步捡到雪白球蟒",
+      "onboard_time": 1667376629,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -824,6 +864,14 @@
       "word": "点燃我温暖你定档1103",
       "onboard_time": 1667353466,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178712,
+      "num": 178712,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -865,14 +913,6 @@
       "onboard_time": 1667310509,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169278,
-      "num": 169278,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 163158,
@@ -987,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135260,
+      "num": 135260,
+      "word": "动漫气泡大赛",
+      "onboard_time": 1667378608,
+      "rank": 36,
+      "category": "动漫,科技"
+    },
+    {
       "raw_hot": 134139,
       "num": 134139,
       "word": "库里三双",
@@ -1032,14 +1080,6 @@
       "word": "羽绒服新国标落地",
       "onboard_time": 1667350468,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127771,
-      "num": 127771,
-      "word": "男子江边散步捡到雪白球蟒",
-      "onboard_time": 1667376629,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1129,14 +1169,6 @@
       "onboard_time": 1667304506,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117789,
-      "num": 117789,
-      "word": "3岁女孩连吃8个柿子长胃结石",
-      "onboard_time": 1667377049,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116309,
@@ -1291,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85196,
+      "num": 85196,
+      "word": "科学家发现大脑也会放空",
+      "onboard_time": 1667378608,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 84845,
       "num": 84845,
       "word": "你的手机能用一天吗",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1667377587,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77782,
+      "num": 77782,
+      "word": "这个小学的校牌由学生轮着写",
+      "onboard_time": 1667378729,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 75822,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1667322199,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24427,
+      "num": 1107072,
+      "word": "梦天实验舱超高清发射纪实",
+      "onboard_time": 1667378190,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 23461,
