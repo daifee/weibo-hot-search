@@ -1,0 +1,410 @@
+{
+  "runTime": 1667403819560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138072,
+        "num": 1138072,
+        "word": "弟弟结婚25岁单身哥哥躲后院回避",
+        "onboard_time": 1667399009,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041449,
+        "num": 1041449,
+        "word": "兰州急救中心回应三岁儿童死亡事件",
+        "onboard_time": 1667400550,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 15053,
+        "num": 946770,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 884782,
+        "num": 884782,
+        "word": "多地通知11月起常态化核酸检测变化",
+        "onboard_time": 1667375665,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863911,
+        "num": 863911,
+        "word": "杨笠 尴尬",
+        "onboard_time": 1667402607,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725034,
+        "num": 725034,
+        "word": "宝妈带2岁儿子进女厕被骂没素质",
+        "onboard_time": 1667397446,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619366,
+        "num": 619366,
+        "word": "多地通知乘火车飞机不再查核酸",
+        "onboard_time": 1667384545,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497586,
+        "num": 497586,
+        "word": "脱口秀大会 不好笑",
+        "onboard_time": 1667401224,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489580,
+        "num": 489580,
+        "word": "重建供销社不会走老路",
+        "onboard_time": 1667399134,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441078,
+        "num": 441078,
+        "word": "女子戒糖戒奶茶1年后变白变年轻",
+        "onboard_time": 1667376147,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238847,
+        "num": 428997,
+        "word": "李一桐录跑男时牙崩了",
+        "onboard_time": 1667399970,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 602132,
+        "num": 424071,
+        "word": "顶级东方神颜",
+        "onboard_time": 1667393608,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566216,
+        "num": 420666,
+        "word": "钉钉回应女教师上网课后去世",
+        "onboard_time": 1667396548,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414527,
+        "num": 414527,
+        "word": "俄外交部发布阻止核战争的声明",
+        "onboard_time": 1667400329,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 348422,
+        "num": 348422,
+        "word": "北大南开将联合调查直博生涉抄袭",
+        "onboard_time": 1667396068,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346816,
+        "num": 346816,
+        "word": "公司恶意用100多斤硬币清偿被罚",
+        "onboard_time": 1667396668,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313245,
+        "num": 313245,
+        "word": "男生买15元不限量炒酸奶叠成山",
+        "onboard_time": 1667401888,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 310972,
+        "num": 310972,
+        "word": "红星评兰州七里河儿童死亡",
+        "onboard_time": 1667389044,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 288104,
+        "num": 288104,
+        "word": "月老就差给你俩上钢筋了",
+        "onboard_time": 1667390607,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283774,
+        "num": 283774,
+        "word": "华为",
+        "onboard_time": 1667391029,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 271516,
+        "num": 271516,
+        "word": "一直博北大学生涉嫌论文抄袭",
+        "onboard_time": 1667397209,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247509,
+        "num": 247509,
+        "word": "阿凡达2正式预告",
+        "onboard_time": 1667398410,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244335,
+        "num": 244335,
+        "word": "大学生没惹你们任何人",
+        "onboard_time": 1667385087,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243896,
+        "num": 243896,
+        "word": "鸟鸟 精神走光",
+        "onboard_time": 1667402427,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225129,
+        "num": 225129,
+        "word": "黄鼠狼估计是气死的",
+        "onboard_time": 1667399849,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206949,
+        "num": 206949,
+        "word": "老人离世无继承人遗产归国家",
+        "onboard_time": 1667381245,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206749,
+        "num": 206749,
+        "word": "徐志胜窝里横",
+        "onboard_time": 1667396186,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186495,
+        "num": 186495,
+        "word": "供销社到底是什么",
+        "onboard_time": 1667390486,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 182383,
+        "num": 182383,
+        "word": "奔跑吧全员晒美好生活",
+        "onboard_time": 1667399550,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181979,
+        "num": 181979,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172127,
+        "num": 172127,
+        "word": "医生请假为4岁男孩捐造血干细胞",
+        "onboard_time": 1667401408,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 151857,
+        "word": "庞博的真诚",
+        "onboard_time": 1667398648,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147823,
+        "num": 147823,
+        "word": "老师用反向签到查出逃课学生",
+        "onboard_time": 1667385267,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144225,
+        "num": 144225,
+        "word": "苹果已冻结招聘",
+        "onboard_time": 1667388085,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 142159,
+        "num": 142159,
+        "word": "罗永浩当代塌房cp粉的嘴替",
+        "onboard_time": 1667396668,
+        "rank": 34,
+        "category": "科技,网红"
+      },
+      {
+        "raw_hot": 119883,
+        "num": 119883,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 35,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 115860,
+        "num": 115860,
+        "word": "中国一男子在塞尔维亚殴打女儿被捕",
+        "onboard_time": 1667380887,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108098,
+        "num": 108098,
+        "word": "学生称女老师会议号被恶意放网上",
+        "onboard_time": 1667387004,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 106487,
+        "num": 106487,
+        "word": "迪丽热巴诉网店商家侵权获赔8万",
+        "onboard_time": 1667392167,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105856,
+        "num": 105856,
+        "word": "小说里走出来的白月光",
+        "onboard_time": 1667386646,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105648,
+        "num": 105648,
+        "word": "成毅直播谈新剧莲花楼",
+        "onboard_time": 1667400448,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97505,
+        "num": 97505,
+        "word": "徐忠信去世",
+        "onboard_time": 1667393845,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 93626,
+        "word": "腾讯副总裁已担任中国联通董事",
+        "onboard_time": 1667378845,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91415,
+        "num": 91415,
+        "word": "3岁女孩连吃8个柿子长胃结石",
+        "onboard_time": 1667377049,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87811,
+        "num": 87811,
+        "word": "关晓彤直播蜜橘妆",
+        "onboard_time": 1667395288,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 86299,
+        "num": 86299,
+        "word": "用落叶堆了只小狗",
+        "onboard_time": 1667393425,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79818,
+        "num": 79818,
+        "word": "男子排尿疼痛取出鹅蛋大的结石",
+        "onboard_time": 1667373806,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71941,
+        "num": 71941,
+        "word": "好像知道它为什么流浪了",
+        "onboard_time": 1667402966,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69783,
+        "num": 69783,
+        "word": "多部门联合调查女老师上网课后去世",
+        "onboard_time": 1667388266,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62737,
+        "num": 62737,
+        "word": "女童喝奶茶咳嗽1月医生洗出3管痰絮",
+        "onboard_time": 1667403746,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
