@@ -1,0 +1,410 @@
+{
+  "runTime": 1667397970707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003116,
+        "num": 2003116,
+        "word": "多地通知11月起常态化核酸检测变化",
+        "onboard_time": 1667375665,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073699,
+        "num": 1073699,
+        "word": "多地通知乘火车飞机不再查核酸",
+        "onboard_time": 1667384545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26113,
+        "num": 898643,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 852969,
+        "num": 852969,
+        "word": "女子戒糖戒奶茶1年后变白变年轻",
+        "onboard_time": 1667376147,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817052,
+        "num": 817052,
+        "word": "华为",
+        "onboard_time": 1667391029,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 568957,
+        "num": 568957,
+        "word": "月老就差给你俩上钢筋了",
+        "onboard_time": 1667390607,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558635,
+        "num": 558635,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 6,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 504378,
+        "num": 504378,
+        "word": "老人离世无继承人遗产归国家",
+        "onboard_time": 1667381245,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468021,
+        "num": 468021,
+        "word": "徐志胜窝里横",
+        "onboard_time": 1667396186,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448204,
+        "num": 448204,
+        "word": "红星评兰州七里河儿童死亡",
+        "onboard_time": 1667389044,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1201246,
+        "num": 442676,
+        "word": "顶级东方神颜",
+        "onboard_time": 1667393608,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012371,
+        "num": 434490,
+        "word": "杨紫直播状态",
+        "onboard_time": 1667392467,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510560,
+        "num": 433918,
+        "word": "北大南开将联合调查直博生涉抄袭",
+        "onboard_time": 1667396068,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 407298,
+        "num": 407298,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344221,
+        "num": 344221,
+        "word": "大学生没惹你们任何人",
+        "onboard_time": 1667385087,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 323731,
+        "num": 323731,
+        "word": "钉钉回应女教师上网课后去世",
+        "onboard_time": 1667396548,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309074,
+        "num": 309074,
+        "word": "徐忠信去世",
+        "onboard_time": 1667393845,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 268428,
+        "num": 268428,
+        "word": "学生称女老师会议号被恶意放网上",
+        "onboard_time": 1667387004,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 246243,
+        "num": 246243,
+        "word": "多部门联合调查女老师上网课后去世",
+        "onboard_time": 1667388266,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 229420,
+        "word": "迪丽热巴诉网店商家侵权获赔8万",
+        "onboard_time": 1667392167,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216340,
+        "num": 216340,
+        "word": "中国一男子在塞尔维亚殴打女儿被捕",
+        "onboard_time": 1667380887,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211231,
+        "num": 211231,
+        "word": "余承东称每卖两台折叠屏就有一台是华为",
+        "onboard_time": 1667391506,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208721,
+        "num": 208721,
+        "word": "老师用反向签到查出逃课学生",
+        "onboard_time": 1667385267,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199536,
+        "num": 199536,
+        "word": "供销社到底是什么",
+        "onboard_time": 1667390486,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 199277,
+        "num": 199277,
+        "word": "苹果已冻结招聘",
+        "onboard_time": 1667388085,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 190184,
+        "num": 190184,
+        "word": "3岁女孩连吃8个柿子长胃结石",
+        "onboard_time": 1667377049,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175457,
+        "num": 175457,
+        "word": "男子排尿疼痛取出鹅蛋大的结石",
+        "onboard_time": 1667373806,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 170739,
+        "word": "腾讯副总裁已担任中国联通董事",
+        "onboard_time": 1667378845,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163386,
+        "num": 163386,
+        "word": "关晓彤直播蜜橘妆",
+        "onboard_time": 1667395288,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 159277,
+        "word": "宝妈带2岁儿子进女厕被骂没素质",
+        "onboard_time": 1667397446,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156529,
+        "num": 156529,
+        "word": "公司恶意用100多斤硬币清偿被罚",
+        "onboard_time": 1667396668,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "用落叶堆了只小狗",
+        "onboard_time": 1667393425,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151033,
+        "num": 151033,
+        "word": "华为PocketS价格",
+        "onboard_time": 1667392768,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150160,
+        "num": 150160,
+        "word": "范世錡确信自己在哥哥没wink过",
+        "onboard_time": 1667390667,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140528,
+        "num": 140528,
+        "word": "小说里走出来的白月光",
+        "onboard_time": 1667386646,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132436,
+        "num": 132436,
+        "word": "杭州小哥记录门口快递堆成山",
+        "onboard_time": 1667390367,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125933,
+        "num": 125933,
+        "word": "一直博北大学生涉嫌论文抄袭",
+        "onboard_time": 1667397209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124770,
+        "num": 124770,
+        "word": "杨幂在用生发液",
+        "onboard_time": 1667371647,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118267,
+        "num": 118267,
+        "word": "警校生跳下3米高墙救1岁婴儿",
+        "onboard_time": 1667395167,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116110,
+        "num": 116110,
+        "word": "刘震云 阅读理解",
+        "onboard_time": 1667389286,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108219,
+        "num": 108219,
+        "word": "华为小折叠六色齐发",
+        "onboard_time": 1667396967,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106653,
+        "num": 106653,
+        "word": "重生之门",
+        "onboard_time": 1667381006,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105025,
+        "num": 105025,
+        "word": "合肥机场出港不再查验核酸",
+        "onboard_time": 1667381907,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98326,
+        "num": 98326,
+        "word": "Gemini澄清声明",
+        "onboard_time": 1667380344,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 97425,
+        "num": 97425,
+        "word": "李沁秋意纯白大片",
+        "onboard_time": 1667395228,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92123,
+        "num": 92123,
+        "word": "爷爷去世前给将结婚的孙女塞钱",
+        "onboard_time": 1667371525,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 88029,
+        "num": 88029,
+        "word": "女生运动会扮七仙女惊艳全场",
+        "onboard_time": 1667384303,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 83678,
+        "num": 83678,
+        "word": "罗永浩当代塌房cp粉的嘴替",
+        "onboard_time": 1667396668,
+        "rank": 47,
+        "category": "科技,网红"
+      },
+      {
+        "raw_hot": 78672,
+        "num": 78672,
+        "word": "无人码头自动驾驶已实现L4级",
+        "onboard_time": 1667397805,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 74985,
+        "num": 74985,
+        "word": "第14届金鹰节发布会",
+        "onboard_time": 1667375665,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}

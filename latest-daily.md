@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/02 00:36:31 ~ 2022/11/02 21:55:31
+本榜单时间：2022/11/02 00:36:31 ~ 2022/11/02 22:06:10
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@ gemini（热度：1285265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E7%BA%A7%E4%B8%9C%E6%96%B9%E7%A5%9E%E9%A2%9C%23" target="weibo">
+顶级东方神颜（热度：1201246）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
 杨紫直播状态（热度：1189416）
 </a>
@@ -131,12 +137,6 @@ gemini（热度：1285265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%90%86%E5%85%AC%E5%B8%83%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%23" target="weibo">
 韩总理公布梨泰院踩踏事故原因（热度：1107080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E7%BA%A7%E4%B8%9C%E6%96%B9%E7%A5%9E%E9%A2%9C%23" target="weibo">
-顶级东方神颜（热度：1086769）
 </a>
 </li>
 
@@ -327,6 +327,12 @@ Gemini澄清声明（热度：643192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%97%E5%BC%80%E5%B0%86%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%9B%B4%E5%8D%9A%E7%94%9F%E6%B6%89%E6%8A%84%E8%A2%AD%23" target="weibo">
+北大南开将联合调查直博生涉抄袭（热度：510560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%90%838%E4%B8%AA%E6%9F%BF%E5%AD%90%E9%95%BF%E8%83%83%E7%BB%93%E7%9F%B3%23" target="weibo">
 3岁女孩连吃8个柿子长胃结石（热度：507874）
 </a>
@@ -359,6 +365,12 @@ Gemini澄清声明（热度：643192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S8%E9%BE%99%E9%BE%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
 S8龙龟来了（热度：458716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E8%AF%84%E5%85%B0%E5%B7%9E%E4%B8%83%E9%87%8C%E6%B2%B3%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%23" target="weibo">
+红星评兰州七里河儿童死亡（热度：448204）
 </a>
 </li>
 
@@ -413,12 +425,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%91%A8%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D27%25%23" target="weibo">
 iPhone中国的周销量下降27%（热度：405861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E8%AF%84%E5%85%B0%E5%B7%9E%E4%B8%83%E9%87%8C%E6%B2%B3%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%23" target="weibo">
-红星评兰州七里河儿童死亡（热度：402088）
 </a>
 </li>
 
@@ -537,6 +543,12 @@ iPhone中国的周销量下降27%（热度：405861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%89%E9%92%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
+钉钉回应女教师上网课后去世（热度：323731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E8%A1%80%E7%AE%A1%E9%87%8C%E5%A0%B54%E5%8E%98%E7%B1%B3%E6%B2%B9%E8%84%82%23" target="weibo">
 大叔顿顿吃肉血管里堵4厘米油脂（热度：321648）
 </a>
@@ -545,12 +557,6 @@ iPhone中国的周销量下降27%（热度：405861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%23" target="weibo">
 女教师上网课后去世警方已介入调查（热度：320470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%97%E5%BC%80%E5%B0%86%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%9B%B4%E5%8D%9A%E7%94%9F%E6%B6%89%E6%8A%84%E8%A2%AD%23" target="weibo">
-北大南开将联合调查直博生涉抄袭（热度：318222）
 </a>
 </li>
 
@@ -579,6 +585,12 @@ iPhone中国的周销量下降27%（热度：405861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%A0%E4%BF%A1%E5%8E%BB%E4%B8%96%23" target="weibo">
+徐忠信去世（热度：309074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%96%91%E9%A3%9F%E5%A0%82%E7%A7%A4%E6%9C%89%E9%97%AE%E9%A2%98%E7%94%A8%E9%A5%AE%E6%96%99%E8%87%AA%E6%B5%8B%E8%AF%81%E5%AE%9E%23" target="weibo">
 男生疑食堂秤有问题用饮料自测证实（热度：305476）
 </a>
@@ -587,12 +599,6 @@ iPhone中国的周销量下降27%（热度：405861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E5%AE%B6%E4%B8%AD%E4%B8%8A%E7%BD%91%E8%AF%BE%E7%8C%9D%E6%AD%BB%23" target="weibo">
 官方回应老师家中上网课猝死（热度：303955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%A0%E4%BF%A1%E5%8E%BB%E4%B8%96%23" target="weibo">
-徐忠信去世（热度：298397）
 </a>
 </li>
 
@@ -831,6 +837,12 @@ iPhone中国的周销量下降27%（热度：405861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%9B%E9%94%80%E7%A4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+供销社到底是什么（热度：199536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E7%BA%B8%E5%9B%A2%E6%98%AF%E7%8E%A9%E5%85%B7%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8C%AB%23" target="weibo">
 误以为纸团是玩具的流浪猫（热度：198714）
 </a>
@@ -897,12 +909,6 @@ iPhone中国的周销量下降27%（热度：405861）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%9B%E9%94%80%E7%A4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-供销社到底是什么（热度：177467）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23pgc%23" target="weibo">
 pgc（热度：176078）
 </a>
@@ -957,12 +963,6 @@ pgc（热度：176078）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%89%E9%92%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-钉钉回应女教师上网课后去世（热度：159124）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B0%8F%E5%93%A5%E8%AE%B0%E5%BD%95%E9%97%A8%E5%8F%A3%E5%BF%AB%E9%80%92%E5%A0%86%E6%88%90%E5%B1%B1%23" target="weibo">
 杭州小哥记录门口快递堆成山（热度：157953）
 </a>
@@ -983,6 +983,12 @@ pgc（热度：176078）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E9%97%A8%E5%A4%B4%E6%B2%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E9%98%B3%E6%80%A7%23" target="weibo">
 北京市门头沟新增1例阳性（热度：156910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E6%81%B6%E6%84%8F%E7%94%A8100%E5%A4%9A%E6%96%A4%E7%A1%AC%E5%B8%81%E6%B8%85%E5%81%BF%E8%A2%AB%E7%BD%9A%23" target="weibo">
+公司恶意用100多斤硬币清偿被罚（热度：156529）
 </a>
 </li>
 
@@ -1017,6 +1023,12 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%90%BD%E5%8F%B6%E5%A0%86%E4%BA%86%E5%8F%AA%E5%B0%8F%E7%8B%97%23" target="weibo">
+用落叶堆了只小狗（热度：151081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E5%B7%A7%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BA1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A9%BA%E6%8A%95%E5%A5%B6%E7%B2%89%23" target="weibo">
 特警巧用无人机为1岁宝宝空投奶粉（热度：150893）
 </a>
@@ -1031,12 +1043,6 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E8%8E%B7%E5%9B%A2%E4%BD%93%E7%AC%AC%E5%85%AD%E5%90%8D%23" target="weibo">
 中国体操女队获团体第六名（热度：150463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%90%BD%E5%8F%B6%E5%A0%86%E4%BA%86%E5%8F%AA%E5%B0%8F%E7%8B%97%23" target="weibo">
-用落叶堆了只小狗（热度：148698）
 </a>
 </li>
 
@@ -1125,6 +1131,12 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E5%8D%9A%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%23" target="weibo">
+一直博北大学生涉嫌论文抄袭（热度：125933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%87%8F%E8%82%A5%E6%93%8D%E6%87%82%E6%88%91%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88%23" target="weibo">
 这减肥操懂我想要什么（热度：124393）
 </a>
@@ -1191,6 +1203,12 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A5%B3%E5%8E%95%E8%A2%AB%E9%AA%82%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
+宝妈带2岁儿子进女厕被骂没素质（热度：113904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8C%AB%E4%BA%BA%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%B5%B7%E5%85%8B%E6%96%AF%E5%BC%8F%E7%8C%AB%E7%B2%AE%23" target="weibo">
 养猫人如何避免海克斯式猫粮（热度：113623）
 </a>
@@ -1211,6 +1229,12 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%AE%8B%E7%96%BE%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%BF%AB%E7%88%AC%E4%B8%8B%E9%A3%9E%E6%9C%BA%23" target="weibo">
 澳大利亚残疾女子被迫爬下飞机（热度：108361）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E6%8A%98%E5%8F%A0%E5%85%AD%E8%89%B2%E9%BD%90%E5%8F%91%23" target="weibo">
+华为小折叠六色齐发（热度：108219）
 </a>
 </li>
 
@@ -1239,12 +1263,6 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E6%8A%98%E5%8F%A0%E5%85%AD%E8%89%B2%E9%BD%90%E5%8F%91%23" target="weibo">
-华为小折叠六色齐发（热度：106118）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%80%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%A4%A9%E8%B5%8B%23" target="weibo">
 你最想要什么样的天赋（热度：104290）
 </a>
@@ -1259,12 +1277,6 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%83%BD%E5%90%AC%E7%87%83%E4%BA%86%23" target="weibo">
 大学生都听燃了（热度：102694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E6%81%B6%E6%84%8F%E7%94%A8100%E5%A4%9A%E6%96%A4%E7%A1%AC%E5%B8%81%E6%B8%85%E5%81%BF%E8%A2%AB%E7%BD%9A%23" target="weibo">
-公司恶意用100多斤硬币清偿被罚（热度：100608）
 </a>
 </li>
 
@@ -1313,12 +1325,6 @@ AG率先晋级CFS世界赛（热度：98295）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%8A%9F%E5%A4%AB20%E4%BB%B6%E5%95%86%E6%A0%87%E8%A2%AB%E8%A3%81%E5%AE%9A%E6%97%A0%E6%95%88%23" target="weibo">
 真功夫20件商标被裁定无效（热度：92616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E5%8D%9A%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%23" target="weibo">
-一直博北大学生涉嫌论文抄袭（热度：92348）
 </a>
 </li>
 
@@ -1379,6 +1385,12 @@ AG率先晋级CFS世界赛（热度：98295）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%23" target="weibo">
 当代大学生的神奇宝贝（热度：79789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E7%A0%81%E5%A4%B4%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%B7%B2%E5%AE%9E%E7%8E%B0L4%E7%BA%A7%23" target="weibo">
+无人码头自动驾驶已实现L4级（热度：78672）
 </a>
 </li>
 
