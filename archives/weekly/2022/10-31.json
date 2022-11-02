@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667420583230,
+  "endTime": 1667421513102,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -3147,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223048,
+      "num": 223048,
+      "word": "熬夜后心脏会发生什么变化",
+      "onboard_time": 1667416452,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222951,
       "num": 222951,
       "word": "两只猫咪爬墙头悬空打架",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 220762,
-      "num": 220762,
-      "word": "熬夜后心脏会发生什么变化",
-      "onboard_time": 1667416452,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219832,
@@ -5859,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19942,
+      "num": 19942,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19686,
       "num": 19686,
       "word": "蔡徐坤曾经的你舞台照",
@@ -5883,20 +5891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14197,
-      "num": 14197,
-      "word": "当代人的四大喜事",
-      "onboard_time": 1667419989,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13818,
       "num": 503451,
       "word": "MateXs2支持北斗卫星消息",
       "onboard_time": 1667186003,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12170,
+      "num": 12170,
+      "word": "什么都没快递重要",
+      "onboard_time": 1667421310,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 11624,
