@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667355720025,
+  "endTime": 1667357962031,
   "band_list": [
     {
       "raw_hot": 2723284,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1234420,
-      "num": 697098,
+      "num": 814436,
       "word": "兰州警方通报七里河事件",
       "onboard_time": 1667319027,
       "rank": 21,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959125,
+      "num": 959125,
+      "word": "北下关小学",
+      "onboard_time": 1667353345,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 948139,
       "num": 948139,
       "word": "楚子航",
@@ -355,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 781020,
-      "num": 781020,
-      "word": "北下关小学",
-      "onboard_time": 1667353345,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 780566,
       "num": 780566,
       "word": "马斯克要求推特工程师默写代码",
@@ -385,6 +385,14 @@
       "onboard_time": 1667305407,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 758544,
+      "num": 758544,
+      "word": "推特员工每天工作12小时防马斯克裁员",
+      "onboard_time": 1667355264,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 742909,
@@ -723,6 +731,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 458716,
+      "num": 458716,
+      "word": "S8龙龟来了",
+      "onboard_time": 1667354787,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 458689,
       "num": 458689,
       "word": "倪妮金鸡奖最佳女主角提名",
@@ -771,8 +787,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432811,
+      "num": 432811,
+      "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
+      "onboard_time": 1667354666,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429738,
-      "num": 183275,
+      "num": 217378,
       "word": "谭松韵黑色蕾丝吊带裙",
       "onboard_time": 1667352684,
       "rank": 20,
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 386291,
-      "num": 183052,
+      "num": 198294,
       "word": "福原爱被起诉",
       "onboard_time": 1667314953,
       "rank": 21,
@@ -881,14 +905,6 @@
       "onboard_time": 1667278711,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373156,
-      "num": 373156,
-      "word": "S8龙龟来了",
-      "onboard_time": 1667354787,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 370017,
@@ -1107,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278788,
+      "num": 278788,
+      "word": "11月1日新增本土无症状2346例",
+      "onboard_time": 1667354005,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275557,
       "num": 275557,
       "word": "大件快递员晒双十一工资条日薪过千",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1667304625,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265516,
+      "num": 265516,
+      "word": "陈飞宇张婧仪的吻戏",
+      "onboard_time": 1667357305,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 263114,
@@ -1211,6 +1243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 236319,
+      "num": 191550,
+      "word": "不期而至今晚开播",
+      "onboard_time": 1667357006,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234581,
       "num": 234581,
       "word": "林允梦回千禧辣妹",
@@ -1240,6 +1280,14 @@
       "word": "广州今日已取消888个航班",
       "onboard_time": 1667210127,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222951,
+      "num": 222951,
+      "word": "两只猫咪爬墙头悬空打架",
+      "onboard_time": 1667355986,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1419,19 +1467,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184745,
+      "num": 129791,
+      "word": "脱口秀大会选顺序",
+      "onboard_time": 1667356165,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184301,
       "num": 200896,
       "word": "88岁老人考取驾照所有科目一次过",
       "onboard_time": 1667272345,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183325,
-      "num": 183325,
-      "word": "11月1日新增本土无症状2346例",
-      "onboard_time": 1667354005,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1617,14 +1665,6 @@
       "onboard_time": 1667291427,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151757,
-      "num": 151757,
-      "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
-      "onboard_time": 1667354666,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150893,
@@ -1867,12 +1907,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122307,
+      "num": 122307,
+      "word": "摔跤运动员帮饺子耳队友清理污血",
+      "onboard_time": 1667353884,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
       "onboard_time": 1667297187,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119925,
+      "num": 108792,
+      "word": "曾黎直播状态",
+      "onboard_time": 1667357665,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 118076,
@@ -1891,12 +1947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115601,
-      "num": 115601,
-      "word": "推特员工每天工作12小时防马斯克裁员",
-      "onboard_time": 1667355264,
-      "rank": 38,
-      "category": "科技"
+      "raw_hot": 114080,
+      "num": 114080,
+      "word": "东北搬砖小伙开餐馆实现整容式逆袭",
+      "onboard_time": 1667357905,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113180,
@@ -1939,6 +1995,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 109792,
+      "num": 109792,
+      "word": "库里三双",
+      "onboard_time": 1667356825,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "这个锅巴看起来好好吃",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1667265565,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105384,
+      "num": 105384,
+      "word": "中专生苦练木工9年成国家队教练",
+      "onboard_time": 1667357485,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 104465,
@@ -1971,20 +2043,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102537,
-      "num": 102537,
-      "word": "摔跤运动员帮饺子耳队友清理污血",
-      "onboard_time": 1667353884,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100989,
+      "num": 102858,
+      "word": "女子抽中万元奖品开心到当街跳舞",
+      "onboard_time": 1667357243,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100362,
@@ -2011,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98507,
+      "num": 98507,
+      "word": "小偷盗窃留借条事后送上感谢金",
+      "onboard_time": 1667357724,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98234,
       "num": 98234,
       "word": "高校女生运动会穿汉服表演舞蹈",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1667298027,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94734,
+      "num": 94734,
+      "word": "勇士vs热火",
+      "onboard_time": 1667350408,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 94569,
