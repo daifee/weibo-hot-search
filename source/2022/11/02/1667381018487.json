@@ -1,0 +1,410 @@
+{
+  "runTime": 1667381018487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2522825,
+        "num": 2522825,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 0,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 2059542,
+        "num": 2059542,
+        "word": "女子戒糖戒奶茶1年后变白变年轻",
+        "onboard_time": 1667376147,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49578,
+        "num": 1709906,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1490272,
+        "num": 1490272,
+        "word": "多地通知11月起常态化核酸检测变化",
+        "onboard_time": 1667375665,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830945,
+        "num": 830945,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629973,
+        "num": 629973,
+        "word": "特朗普死了假消息登上推特热搜",
+        "onboard_time": 1667363547,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580234,
+        "num": 580234,
+        "word": "第14届金鹰节发布会",
+        "onboard_time": 1667375665,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523633,
+        "num": 523633,
+        "word": "男子排尿疼痛取出鹅蛋大的结石",
+        "onboard_time": 1667373806,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456486,
+        "num": 456486,
+        "word": "3岁女孩连吃8个柿子长胃结石",
+        "onboard_time": 1667377049,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390880,
+        "num": 390880,
+        "word": "中国联通与腾讯设立混改新公司",
+        "onboard_time": 1667371830,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 927513,
+        "num": 390364,
+        "word": "gemini",
+        "onboard_time": 1667375788,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 731973,
+        "num": 386538,
+        "word": "腾讯副总裁已担任中国联通董事",
+        "onboard_time": 1667378845,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 531746,
+        "num": 385214,
+        "word": "杨幂在用生发液",
+        "onboard_time": 1667371647,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 513727,
+        "num": 382523,
+        "word": "Gemini澄清声明",
+        "onboard_time": 1667380344,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 381498,
+        "num": 381498,
+        "word": "爷爷去世前给将结婚的孙女塞钱",
+        "onboard_time": 1667371525,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 310617,
+        "num": 310617,
+        "word": "严浩翔分享自己大学生活",
+        "onboard_time": 1667379269,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303955,
+        "num": 303955,
+        "word": "官方回应老师家中上网课猝死",
+        "onboard_time": 1667378127,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 280456,
+        "num": 280456,
+        "word": "男子江边散步捡到雪白球蟒",
+        "onboard_time": 1667376629,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279832,
+        "num": 279832,
+        "word": "12岁男孩在小区用迷你爆米花机摆摊",
+        "onboard_time": 1667375007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277338,
+        "num": 277338,
+        "word": "蔡文静新剧欠四千万还被出轨",
+        "onboard_time": 1667372667,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255129,
+        "num": 255129,
+        "word": "iPhone中国的周销量下降27%",
+        "onboard_time": 1667373568,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 237317,
+        "num": 237317,
+        "word": "官方成立专班处理教师上网课后去世事件",
+        "onboard_time": 1667375606,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208573,
+        "num": 208573,
+        "word": "韩总理公布梨泰院踩踏事故原因",
+        "onboard_time": 1667362651,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206067,
+        "num": 206067,
+        "word": "女子打架抡飞自行车误伤小女孩",
+        "onboard_time": 1667373746,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175355,
+        "num": 175355,
+        "word": "专家称姐弟恋婚姻比例上升是社会进步",
+        "onboard_time": 1667368285,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168961,
+        "num": 168961,
+        "word": "杭州一公司发布禁止趴桌午睡通知",
+        "onboard_time": 1667365650,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167604,
+        "num": 167604,
+        "word": "供销社系统怎么突然火了",
+        "onboard_time": 1667367267,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164611,
+        "num": 164611,
+        "word": "多巴胺让你自律上瘾",
+        "onboard_time": 1667374047,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 159988,
+        "num": 159988,
+        "word": "只有老六才能打败老六",
+        "onboard_time": 1667379208,
+        "rank": 28,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 155545,
+        "num": 155545,
+        "word": "韩首尔市长流泪鞠躬道歉",
+        "onboard_time": 1667372187,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 155068,
+        "word": "颖儿11年后再演被家暴妻子",
+        "onboard_time": 1667377168,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151323,
+        "num": 151323,
+        "word": "猫妈妈不厌其烦教小猫爬树",
+        "onboard_time": 1667372906,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 146657,
+        "word": "颜宁发文回应归国",
+        "onboard_time": 1667380408,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144774,
+        "num": 144774,
+        "word": "王一博单手握刀",
+        "onboard_time": 1667373446,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137307,
+        "num": 137307,
+        "word": "热依扎获飞天奖后首发博",
+        "onboard_time": 1667374765,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 135836,
+        "word": "英雄联盟S12",
+        "onboard_time": 1667362166,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135813,
+        "num": 135813,
+        "word": "王俊凯重生之门提名第31届金鹰奖",
+        "onboard_time": 1667377948,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134715,
+        "num": 134715,
+        "word": "五大杂志年内准满女明星",
+        "onboard_time": 1667379087,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126923,
+        "num": 126923,
+        "word": "三星称苹果将在2024推出折叠屏",
+        "onboard_time": 1667372127,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "男朋友好会提供情绪价值",
+        "onboard_time": 1667366846,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113728,
+        "num": 113728,
+        "word": "王者七周年返场皮肤",
+        "onboard_time": 1667365352,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103603,
+        "num": 103603,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1667373446,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101657,
+        "num": 101657,
+        "word": "大爷拎灭火器从满地汽油中救了个人",
+        "onboard_time": 1667380046,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 99752,
+        "num": 99752,
+        "word": "鸟鸟说出了多少人的内心",
+        "onboard_time": 1667379747,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98470,
+        "num": 98470,
+        "word": "兰州强调坚决防止疫情防控简单化一刀切",
+        "onboard_time": 1667363476,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97795,
+        "num": 97795,
+        "word": "青岛疫情防控",
+        "onboard_time": 1667363547,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81082,
+        "num": 81082,
+        "word": "没想到纸盒也能遛",
+        "onboard_time": 1667379926,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85019,
+        "num": 80425,
+        "word": "重生之门",
+        "onboard_time": 1667381006,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79719,
+        "num": 79719,
+        "word": "原神",
+        "onboard_time": 1667358181,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78724,
+        "num": 78724,
+        "word": "新郑三中老师",
+        "onboard_time": 1667358181,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
