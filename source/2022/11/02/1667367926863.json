@@ -1,0 +1,410 @@
+{
+  "runTime": 1667367926863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2614092,
+        "num": 2614092,
+        "word": "特朗普死了假消息登上推特热搜",
+        "onboard_time": 1667363547,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1748891,
+        "num": 1748891,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 110016,
+        "num": 845665,
+        "word": "当秋天遇上古诗词有多美",
+        "onboard_time": 1667355807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 815174,
+        "num": 815174,
+        "word": "杭州一公司发布禁止趴桌午睡通知",
+        "onboard_time": 1667365650,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654608,
+        "num": 654608,
+        "word": "苹果或被强制开放第三方APP",
+        "onboard_time": 1667364031,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2722253,
+        "num": 637487,
+        "word": "新郑三中老师",
+        "onboard_time": 1667358181,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 611272,
+        "num": 611272,
+        "word": "兰州强调坚决防止疫情防控简单化一刀切",
+        "onboard_time": 1667363476,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516709,
+        "num": 516709,
+        "word": "郑州航空港区全域静态管理",
+        "onboard_time": 1667365172,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451971,
+        "num": 451971,
+        "word": "热依扎获奖孙俪在台下哭了",
+        "onboard_time": 1667317051,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387594,
+        "num": 387594,
+        "word": "青岛疫情防控",
+        "onboard_time": 1667363547,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107080,
+        "num": 382398,
+        "word": "韩总理公布梨泰院踩踏事故原因",
+        "onboard_time": 1667362651,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351902,
+        "num": 351902,
+        "word": "杨颖晒奔跑吧黑白合照",
+        "onboard_time": 1667366667,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333554,
+        "num": 333554,
+        "word": "心动的信号全员撒糖局",
+        "onboard_time": 1667362948,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313303,
+        "num": 313303,
+        "word": "陈哲远沈月终于合体了",
+        "onboard_time": 1667359587,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283725,
+        "num": 283725,
+        "word": "兰州警方通报七里河事件",
+        "onboard_time": 1667319027,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272290,
+        "num": 272290,
+        "word": "乔欣新剧的妈是锅姨",
+        "onboard_time": 1667361267,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261495,
+        "num": 261495,
+        "word": "北下关小学",
+        "onboard_time": 1667353345,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260600,
+        "num": 260600,
+        "word": "英雄联盟S12",
+        "onboard_time": 1667362166,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252054,
+        "num": 252054,
+        "word": "第一次见猫咪逗人玩",
+        "onboard_time": 1667363310,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243922,
+        "num": 243922,
+        "word": "王者荣耀",
+        "onboard_time": 1667362948,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214077,
+        "num": 214077,
+        "word": "王者七周年返场皮肤",
+        "onboard_time": 1667365352,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207027,
+        "num": 207027,
+        "word": "推特员工每天工作12小时防马斯克裁员",
+        "onboard_time": 1667355264,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205721,
+        "num": 205721,
+        "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
+        "onboard_time": 1667354666,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199735,
+        "num": 199735,
+        "word": "小小沼泽酱",
+        "onboard_time": 1667361086,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181405,
+        "num": 181405,
+        "word": "男朋友好会提供情绪价值",
+        "onboard_time": 1667366846,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162447,
+        "num": 162447,
+        "word": "刘震云 脱口秀",
+        "onboard_time": 1667365890,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153413,
+        "num": 153413,
+        "word": "顾客漏扫一块猪肉被超市罚2万",
+        "onboard_time": 1667318907,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148198,
+        "num": 148198,
+        "word": "贾跃亭因借款纠纷起诉乐视",
+        "onboard_time": 1667366308,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138127,
+        "num": 138127,
+        "word": "小偷盗窃留借条事后送上感谢金",
+        "onboard_time": 1667357724,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137518,
+        "num": 137518,
+        "word": "富士康回应726房间事件",
+        "onboard_time": 1667314590,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136012,
+        "num": 136012,
+        "word": "供销社系统怎么突然火了",
+        "onboard_time": 1667367267,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130343,
+        "num": 130343,
+        "word": "奔跑吧",
+        "onboard_time": 1667359587,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129888,
+        "num": 129888,
+        "word": "杨幂ELLE十二月刊封面",
+        "onboard_time": 1667361987,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129660,
+        "num": 129660,
+        "word": "原神",
+        "onboard_time": 1667358181,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118021,
+        "num": 118021,
+        "word": "马布里说中国村BA是他热爱的氛围",
+        "onboard_time": 1667358867,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 117422,
+        "num": 117422,
+        "word": "福原爱被起诉",
+        "onboard_time": 1667314953,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 115124,
+        "num": 115124,
+        "word": "甄嬛传屠龙组",
+        "onboard_time": 1667351067,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113588,
+        "num": 113588,
+        "word": "汪苏泷no拔笛",
+        "onboard_time": 1667360667,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113395,
+        "num": 113395,
+        "word": "民政部公布10个涉嫌非法社会组织",
+        "onboard_time": 1667366430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 112286,
+        "word": "婴儿坠楼00后警校生跳3米墙营救",
+        "onboard_time": 1667318425,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109758,
+        "num": 109758,
+        "word": "2岁宝宝模仿爸爸看电视姿势一模一样",
+        "onboard_time": 1667349926,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 104290,
+        "word": "你最想要什么样的天赋",
+        "onboard_time": 1667364811,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103386,
+        "num": 103386,
+        "word": "蔚来回应整车工厂生产暂停",
+        "onboard_time": 1667360845,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102701,
+        "num": 102701,
+        "word": "心动的信号5收官",
+        "onboard_time": 1667365111,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100116,
+        "num": 100116,
+        "word": "东北搬砖小伙开餐馆实现整容式逆袭",
+        "onboard_time": 1667357905,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95884,
+        "num": 95884,
+        "word": "大湾仔的夜2定档",
+        "onboard_time": 1667360305,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92723,
+        "num": 92723,
+        "word": "王鹤棣摘戒指表情",
+        "onboard_time": 1667352684,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138214,
+        "num": 92667,
+        "word": "没见过这么会跳舞的猫咪",
+        "onboard_time": 1667367866,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 92056,
+        "num": 92056,
+        "word": "大学生都听燃了",
+        "onboard_time": 1667367146,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 91201,
+        "word": "S8龙龟来了",
+        "onboard_time": 1667354787,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天圆梦#"
+    }
+  }
+}

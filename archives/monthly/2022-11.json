@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667364124016,
+  "endTime": 1667367926863,
   "band_list": [
     {
       "raw_hot": 3919420,
@@ -25,6 +25,14 @@
       "onboard_time": 1667317051,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2614092,
+      "num": 2614092,
+      "word": "特朗普死了假消息登上推特热搜",
+      "onboard_time": 1667363547,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2604244,
@@ -73,6 +81,14 @@
       "onboard_time": 1667315671,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748891,
+      "num": 1748891,
+      "word": "教育局确认河南女教师上网课后去世",
+      "onboard_time": 1667366487,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1698971,
@@ -217,6 +233,14 @@
       "onboard_time": 1667306848,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1107080,
+      "num": 382398,
+      "word": "韩总理公布梨泰院踩踏事故原因",
+      "onboard_time": 1667362651,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1105272,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815174,
+      "num": 815174,
+      "word": "杭州一公司发布禁止趴桌午睡通知",
+      "onboard_time": 1667365650,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784698,
       "num": 784698,
       "word": "杨戬",
@@ -499,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654608,
+      "num": 654608,
+      "word": "苹果或被强制开放第三方APP",
+      "onboard_time": 1667364031,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 649550,
       "num": 649550,
       "word": "山西首次发现奥密克戎BF.7变异株",
@@ -539,6 +579,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 611272,
+      "num": 611272,
+      "word": "兰州强调坚决防止疫情防控简单化一刀切",
+      "onboard_time": 1667363476,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610682,
       "num": 234058,
       "word": "冯小刚否认移民",
@@ -568,14 +616,6 @@
       "word": "河南要求今冬明春做好防大疫准备",
       "onboard_time": 1667285785,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581657,
-      "num": 179026,
-      "word": "韩总理公布梨泰院踩踏事故原因",
-      "onboard_time": 1667362651,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -673,6 +713,14 @@
       "onboard_time": 1667289207,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 516709,
+      "num": 516709,
+      "word": "郑州航空港区全域静态管理",
+      "onboard_time": 1667365172,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508755,
@@ -785,14 +833,6 @@
       "onboard_time": 1667277808,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448763,
-      "num": 337074,
-      "word": "特朗普死了假消息登上推特热搜",
-      "onboard_time": 1667363547,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444067,
@@ -923,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387594,
+      "num": 387594,
+      "word": "青岛疫情防控",
+      "onboard_time": 1667363547,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386291,
       "num": 234958,
       "word": "福原爱被起诉",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1667357724,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351902,
+      "num": 351902,
+      "word": "杨颖晒奔跑吧黑白合照",
+      "onboard_time": 1667366667,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 351771,
@@ -1267,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265979,
-      "num": 265979,
-      "word": "青岛疫情防控",
-      "onboard_time": 1667363547,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265516,
       "num": 265516,
       "word": "陈飞宇张婧仪的吻戏",
@@ -1347,12 +1395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252054,
+      "num": 252054,
+      "word": "第一次见猫咪逗人玩",
+      "onboard_time": 1667363310,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249582,
       "num": 249582,
       "word": "俞敏洪称上大学不仅是为找工作",
       "onboard_time": 1667298807,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 243922,
+      "num": 243922,
+      "word": "王者荣耀",
+      "onboard_time": 1667362948,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 240504,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1667284525,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214077,
+      "num": 214077,
+      "word": "王者七周年返场皮肤",
+      "onboard_time": 1667365352,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 211780,
@@ -1659,12 +1731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181577,
-      "num": 181577,
-      "word": "兰州强调坚决防止疫情防控简单化一刀切",
-      "onboard_time": 1667363476,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 181405,
+      "num": 181405,
+      "word": "男朋友好会提供情绪价值",
+      "onboard_time": 1667366846,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 180707,
@@ -1779,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162447,
+      "num": 162447,
+      "word": "刘震云 脱口秀",
+      "onboard_time": 1667365890,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "梦奇天降福星新皮肤",
@@ -1859,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148198,
+      "num": 148198,
+      "word": "贾跃亭因借款纠纷起诉乐视",
+      "onboard_time": 1667366308,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147963,
       "num": 111636,
       "word": "再见爱人",
@@ -1931,12 +2019,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138222,
-      "num": 138222,
-      "word": "第一次见猫咪逗人玩",
-      "onboard_time": 1667363310,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 138214,
+      "num": 92667,
+      "word": "没见过这么会跳舞的猫咪",
+      "onboard_time": 1667367866,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 136749,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1667315074,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136012,
+      "num": 136012,
+      "word": "供销社系统怎么突然火了",
+      "onboard_time": 1667367267,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 135807,
@@ -2155,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113395,
+      "num": 113395,
+      "word": "民政部公布10个涉嫌非法社会组织",
+      "onboard_time": 1667366430,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113180,
       "num": 113180,
       "word": "日本队世界杯大名单",
@@ -2227,12 +2331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "你最想要什么样的天赋",
+      "onboard_time": 1667364811,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103367,
       "num": 103367,
       "word": "开封一店家讲述徒步返乡人群现状",
       "onboard_time": 1667250011,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102701,
+      "num": 102701,
+      "word": "心动的信号5收官",
+      "onboard_time": 1667365111,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 101664,
@@ -2265,14 +2385,6 @@
       "onboard_time": 1667346684,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99407,
-      "num": 99407,
-      "word": "苹果或被强制开放第三方APP",
-      "onboard_time": 1667364031,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 98234,
@@ -2361,6 +2473,14 @@
       "onboard_time": 1667351907,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92056,
+      "num": 92056,
+      "word": "大学生都听燃了",
+      "onboard_time": 1667367146,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 91805,
