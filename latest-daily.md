@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 02:29:29
+本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 02:45:14
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85400%E4%BE%8B%23" target="weibo">
+新疆新增无症状感染者400例（热度：286549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E5%B8%83%E9%98%BB%E6%AD%A2%E6%A0%B8%E6%88%98%E4%BA%89%E7%9A%84%E5%A3%B0%E6%98%8E%23" target="weibo">
 俄外交部发布阻止核战争的声明（热度：277316）
 </a>
@@ -155,12 +161,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%83%B9%E4%BD%A0%E4%BB%AC%E4%BB%BB%E4%BD%95%E4%BA%BA%23" target="weibo">
 大学生没惹你们任何人（热度：168474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85400%E4%BE%8B%23" target="weibo">
-新疆新增无症状感染者400例（热度：151802）
 </a>
 </li>
 
@@ -346,7 +346,7 @@ Gemini澄清声明（热度：39311）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%90%8D%E7%9A%84%E8%AF%9D%E6%80%BC%E5%88%B0%E4%BA%86%E6%88%91%E7%9A%84%E5%BF%83%E5%9D%8E%E4%B8%8A%23" target="weibo">
-绿萍的话怼到了我的心坎上（热度：20252）
+绿萍的话怼到了我的心坎上（热度：24237）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667413769482,
+  "endTime": 1667414714080,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -2555,6 +2555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 286549,
+      "num": 286549,
+      "word": "新疆新增无症状感染者400例",
+      "onboard_time": 1667412434,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286225,
       "num": 286225,
       "word": "重生之门",
@@ -4009,14 +4017,6 @@
       "onboard_time": 1667142272,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151802,
-      "num": 151802,
-      "word": "新疆新增无症状感染者400例",
-      "onboard_time": 1667412434,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151218,
@@ -5811,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24237,
+      "num": 24237,
+      "word": "绿萍的话怼到了我的心坎上",
+      "onboard_time": 1667412553,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24111,
       "num": 316716,
       "word": "太空新房来了",
@@ -5825,14 +5833,6 @@
       "onboard_time": 1667240292,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20252,
-      "num": 20252,
-      "word": "绿萍的话怼到了我的心坎上",
-      "onboard_time": 1667412553,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 20209,
