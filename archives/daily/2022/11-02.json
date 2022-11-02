@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667382045990,
+  "endTime": 1667384871734,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208693,
+      "num": 1208693,
+      "word": "老人离世无继承人遗产归国家",
+      "onboard_time": 1667381245,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204519,
       "num": 1204519,
       "word": "福原爱被男友前妻起诉",
@@ -176,6 +184,14 @@
       "word": "杭州一公司发布禁止趴桌午睡通知",
       "onboard_time": 1667365650,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 837647,
+      "num": 837647,
+      "word": "中国一男子在塞尔维亚殴打女儿被捕",
+      "onboard_time": 1667380887,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -403,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 408077,
+      "num": 408077,
+      "word": "合肥机场出港不再查验核酸",
+      "onboard_time": 1667381907,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407802,
       "num": 407802,
       "word": "男朋友好会提供情绪价值",
@@ -432,6 +456,14 @@
       "word": "青岛疫情防控",
       "onboard_time": 1667363547,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386429,
+      "num": 386429,
+      "word": "多地通知乘火车飞机不再查核酸",
+      "onboard_time": 1667384545,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 319520,
+      "num": 178599,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 317215,
       "num": 317215,
       "word": "福州地铁",
@@ -609,6 +649,14 @@
       "onboard_time": 1667378127,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 286225,
+      "num": 286225,
+      "word": "重生之门",
+      "onboard_time": 1667381006,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 285180,
@@ -691,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265245,
+      "num": 265245,
+      "word": "颜宁发文回应归国",
+      "onboard_time": 1667380408,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264082,
       "num": 264082,
       "word": "马布里说中国村BA是他热爱的氛围",
@@ -705,6 +761,14 @@
       "onboard_time": 1667360845,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253228,
+      "num": 253228,
+      "word": "张予曦奔跑吧雨天撑伞路透",
+      "onboard_time": 1667384367,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252054,
@@ -787,12 +851,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 227150,
-      "num": 227150,
-      "word": "颜宁发文回应归国",
-      "onboard_time": 1667380408,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 225880,
+      "num": 225880,
+      "word": "鸟鸟说出了多少人的内心",
+      "onboard_time": 1667379747,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225049,
+      "num": 225049,
+      "word": "如何看待网课入侵",
+      "onboard_time": 1667382086,
+      "rank": 21,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 222951,
@@ -803,28 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215683,
-      "num": 215683,
-      "word": "老人离世无继承人遗产归国家",
-      "onboard_time": 1667381245,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210499,
       "num": 168229,
       "word": "王一博onelove舞台播放破亿",
       "onboard_time": 1667318010,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209139,
-      "num": 156713,
-      "word": "中国一男子在塞尔维亚殴打女儿被捕",
-      "onboard_time": 1667380887,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208614,
@@ -915,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184485,
+      "num": 184485,
+      "word": "只有老六才能打败老六",
+      "onboard_time": 1667379208,
+      "rank": 28,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 182572,
       "num": 182572,
       "word": "王子异说希望和秦岚再合作",
@@ -929,14 +993,6 @@
       "onboard_time": 1667353466,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179309,
-      "num": 179309,
-      "word": "只有老六才能打败老六",
-      "onboard_time": 1667379208,
-      "rank": 28,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 177744,
@@ -977,14 +1033,6 @@
       "onboard_time": 1667310509,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168718,
-      "num": 168718,
-      "word": "鸟鸟说出了多少人的内心",
-      "onboard_time": 1667379747,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 163158,
@@ -1067,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153345,
-      "num": 153345,
-      "word": "重生之门",
-      "onboard_time": 1667381006,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150893,
       "num": 150893,
       "word": "特警巧用无人机为1岁宝宝空投奶粉",
@@ -1107,20 +1147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136161,
+      "num": 136161,
+      "word": "五大杂志年内准满女明星",
+      "onboard_time": 1667379087,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 135260,
       "num": 135260,
       "word": "动漫气泡大赛",
       "onboard_time": 1667378608,
       "rank": 36,
       "category": "动漫,科技"
-    },
-    {
-      "raw_hot": 134715,
-      "num": 134715,
-      "word": "五大杂志年内准满女明星",
-      "onboard_time": 1667379087,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134139,
@@ -1171,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127490,
+      "num": 127490,
+      "word": "大爷拎灭火器从满地汽油中救了个人",
+      "onboard_time": 1667380046,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127056,
       "num": 111554,
       "word": "耀客2部剧获飞天奖",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1667345603,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124750,
-      "num": 124750,
-      "word": "合肥机场出港不再查验核酸",
-      "onboard_time": 1667381907,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124393,
@@ -1275,14 +1315,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 115019,
-      "num": 115019,
-      "word": "大爷拎灭火器从满地汽油中救了个人",
-      "onboard_time": 1667380046,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 113623,
       "num": 113623,
       "word": "养猫人如何避免海克斯式猫粮",
@@ -1291,12 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111932,
-      "num": 111932,
-      "word": "请为辽HXY031救护车让行",
-      "onboard_time": 1667381488,
-      "rank": 45,
-      "category": "社会正能量"
+      "raw_hot": 108678,
+      "num": 108678,
+      "word": "北京门头沟区新增一阳性",
+      "onboard_time": 1667384367,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108361,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1667309606,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98295,
+      "num": 98295,
+      "word": "AG率先晋级CFS世界赛",
+      "onboard_time": 1667384606,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 97828,
@@ -1666,6 +1706,9 @@
     },
     {
       "word": "#习近平会见巴基斯坦总理#"
+    },
+    {
+      "word": "#2022中国有约#"
     }
   ]
 }
