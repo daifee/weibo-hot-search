@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667425136801,
+  "endTime": 1667427748135,
   "band_list": [
     {
       "raw_hot": 1231771,
@@ -211,6 +211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161549,
+      "num": 161549,
+      "word": "英国老人吐槽现在比二战时还糟",
+      "onboard_time": 1667424310,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150387,
       "num": 150387,
       "word": "黄鼠狼估计是气死的",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65278,
+      "num": 65278,
+      "word": "广西一14岁初中生被清华录取",
+      "onboard_time": 1667414891,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 58956,
       "num": 58956,
       "word": "用落叶堆了只小狗",
@@ -443,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42041,
-      "num": 42041,
-      "word": "广西一14岁初中生被清华录取",
-      "onboard_time": 1667414891,
-      "rank": 30,
-      "category": "教育,社会新闻"
+      "raw_hot": 47199,
+      "num": 47199,
+      "word": "科学家发现光能穿过金属",
+      "onboard_time": 1667424552,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 39311,
@@ -459,8 +475,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 29196,
-      "num": 29196,
+      "raw_hot": 30700,
+      "num": 30700,
       "word": "当代人的四大喜事",
       "onboard_time": 1667419989,
       "rank": 37,
@@ -475,19 +491,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 14676,
-      "num": 14676,
-      "word": "英国老人吐槽现在比二战时还糟",
-      "onboard_time": 1667424310,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13466,
-      "num": 13466,
+      "raw_hot": 14818,
+      "num": 14818,
       "word": "什么都没快递重要",
       "onboard_time": 1667421310,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 13711,
+      "num": 14810,
+      "word": "各职业的崩溃瞬间",
+      "onboard_time": 1667424189,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -497,22 +513,6 @@
       "onboard_time": 1667378190,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 11852,
-      "num": 11852,
-      "word": "科学家发现光能穿过金属",
-      "onboard_time": 1667424552,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 10009,
-      "num": 10009,
-      "word": "各职业的崩溃瞬间",
-      "onboard_time": 1667424189,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 9220,
