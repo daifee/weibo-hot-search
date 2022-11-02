@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667370824452,
+  "endTime": 1667371922182,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372127,
+      "num": 1372127,
+      "word": "梨泰院事故遇难中国女孩家属发声",
+      "onboard_time": 1667369126,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302078,
       "num": 178764,
       "word": "兰州疫情防控",
@@ -83,19 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1092274,
-      "num": 304845,
-      "word": "梨泰院事故遇难中国女孩家属发声",
-      "onboard_time": 1667369126,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1036890,
       "num": 1036890,
       "word": "顾客漏扫一块猪肉被超市罚2万",
       "onboard_time": 1667318907,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010286,
+      "num": 1010286,
+      "word": "专家称姐弟恋婚姻比例上升是社会进步",
+      "onboard_time": 1667368285,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -120,14 +128,6 @@
       "word": "杭州一公司发布禁止趴桌午睡通知",
       "onboard_time": 1667365650,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830702,
-      "num": 830702,
-      "word": "专家称姐弟恋婚姻比例上升是社会进步",
-      "onboard_time": 1667368285,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -371,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349802,
+      "num": 349802,
+      "word": "恶意入侵网课可能涉嫌犯罪",
+      "onboard_time": 1667368886,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 348851,
+      "num": 327514,
+      "word": "中国联通与腾讯设立混改新公司",
+      "onboard_time": 1667371830,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 334130,
       "num": 271200,
       "word": "美国说唱歌手takeoff被枪杀",
@@ -419,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310371,
+      "num": 310371,
+      "word": "供销社系统怎么突然火了",
+      "onboard_time": 1667367267,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 305476,
       "num": 305476,
       "word": "男生疑食堂秤有问题用饮料自测证实",
       "onboard_time": 1667313270,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291216,
-      "num": 291216,
-      "word": "供销社系统怎么突然火了",
-      "onboard_time": 1667367267,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 285180,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275377,
+      "num": 275377,
+      "word": "杨幂在用生发液",
+      "onboard_time": 1667371647,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 273618,
       "num": 270461,
       "word": "杨幂Angelababy唐嫣工作室出图",
@@ -489,6 +513,14 @@
       "onboard_time": 1667292628,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 266555,
+      "num": 266555,
+      "word": "女教师上网课后去世警方已介入调查",
+      "onboard_time": 1667370807,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 265516,
@@ -611,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192832,
+      "num": 192832,
+      "word": "民政部公布10个涉嫌非法社会组织",
+      "onboard_time": 1667366430,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -625,14 +665,6 @@
       "onboard_time": 1667356165,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184721,
-      "num": 184721,
-      "word": "民政部公布10个涉嫌非法社会组织",
-      "onboard_time": 1667366430,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182572,
@@ -723,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157154,
+      "num": 157154,
+      "word": "张彬彬晒小森林拍摄地",
+      "onboard_time": 1667370028,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156517,
       "num": 156517,
       "word": "刘震云点评",
@@ -779,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "恶意入侵网课可能涉嫌犯罪",
-      "onboard_time": 1667368886,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 134139,
       "num": 134139,
       "word": "库里三双",
@@ -833,14 +865,6 @@
       "onboard_time": 1667350468,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128601,
-      "num": 128601,
-      "word": "张彬彬晒小森林拍摄地",
-      "onboard_time": 1667370028,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 127056,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 118852,
-      "num": 1325015,
+      "num": 1414116,
       "word": "当秋天遇上古诗词有多美",
       "onboard_time": 1667355807,
       "rank": 2,
@@ -1043,6 +1067,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90164,
+      "num": 90164,
+      "word": "爷爷去世前给将结婚的孙女塞钱",
+      "onboard_time": 1667371525,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 87871,
+      "num": 87871,
+      "word": "桂东铁路坐火车不再查验核酸证明",
+      "onboard_time": 1667371830,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85623,
+      "num": 85623,
+      "word": "这家人可真没把我们当外人",
+      "onboard_time": 1667369245,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85574,
       "num": 85574,
       "word": "这就是反向课堂签到吗",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1667305586,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 84776,
-      "num": 84776,
-      "word": "这家人可真没把我们当外人",
-      "onboard_time": 1667369245,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 79789,
@@ -1083,19 +1123,19 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 69576,
-      "num": 69576,
-      "word": "女教师上网课后去世警方已介入调查",
-      "onboard_time": 1667370807,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 69224,
       "num": 69224,
       "word": "男子逛超市发现西瓜狂呲水",
       "onboard_time": 1667294487,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66138,
+      "num": 274638,
+      "word": "聋哑姐妹开无声咖啡店帮助残疾人",
+      "onboard_time": 1667369608,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1161,14 +1201,6 @@
       "onboard_time": 1667345363,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40939,
-      "num": 261222,
-      "word": "聋哑姐妹开无声咖啡店帮助残疾人",
-      "onboard_time": 1667369608,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35126,
