@@ -1,0 +1,410 @@
+{
+  "runTime": 1667364124016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3919420,
+        "num": 3919420,
+        "word": "新郑三中老师",
+        "onboard_time": 1667358181,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1398256,
+        "num": 1398256,
+        "word": "山西襄垣县委书记翟卫华坠楼去世",
+        "onboard_time": 1667358925,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118852,
+        "num": 1029813,
+        "word": "当秋天遇上古诗词有多美",
+        "onboard_time": 1667355807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 693541,
+        "num": 693541,
+        "word": "热依扎获奖孙俪在台下哭了",
+        "onboard_time": 1667317051,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646181,
+        "num": 646181,
+        "word": "陈哲远沈月终于合体了",
+        "onboard_time": 1667359587,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579593,
+        "num": 579593,
+        "word": "推特员工每天工作12小时防马斯克裁员",
+        "onboard_time": 1667355264,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 562872,
+        "num": 562872,
+        "word": "兰州警方通报七里河事件",
+        "onboard_time": 1667319027,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551555,
+        "num": 551555,
+        "word": "心动的信号全员撒糖局",
+        "onboard_time": 1667362948,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352829,
+        "num": 352829,
+        "word": "小偷盗窃留借条事后送上感谢金",
+        "onboard_time": 1667357724,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338410,
+        "num": 338410,
+        "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
+        "onboard_time": 1667354666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448763,
+        "num": 337074,
+        "word": "特朗普死了假消息登上推特热搜",
+        "onboard_time": 1667363547,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377596,
+        "num": 335004,
+        "word": "北下关小学",
+        "onboard_time": 1667353345,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330100,
+        "num": 330100,
+        "word": "富士康回应726房间事件",
+        "onboard_time": 1667314590,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323926,
+        "num": 323926,
+        "word": "英雄联盟S12",
+        "onboard_time": 1667362166,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3760,
+        "num": 316261,
+        "word": "原神3.2版本更新",
+        "onboard_time": 1667361629,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309891,
+        "num": 309891,
+        "word": "顾客漏扫一块猪肉被超市罚2万",
+        "onboard_time": 1667318907,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303464,
+        "num": 303464,
+        "word": "奔跑吧",
+        "onboard_time": 1667359587,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286681,
+        "num": 286681,
+        "word": "乔欣新剧的妈是锅姨",
+        "onboard_time": 1667361267,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265979,
+        "num": 265979,
+        "word": "青岛疫情防控",
+        "onboard_time": 1667363547,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261013,
+        "num": 261013,
+        "word": "蔚来回应整车工厂生产暂停",
+        "onboard_time": 1667360845,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256388,
+        "num": 256388,
+        "word": "杨幂ELLE十二月刊封面",
+        "onboard_time": 1667361987,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234958,
+        "num": 234958,
+        "word": "福原爱被起诉",
+        "onboard_time": 1667314953,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 219322,
+        "num": 219322,
+        "word": "汪苏泷no拔笛",
+        "onboard_time": 1667360667,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207169,
+        "num": 207169,
+        "word": "小小沼泽酱",
+        "onboard_time": 1667361086,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 205875,
+        "word": "女子抽中万元奖品开心到当街跳舞",
+        "onboard_time": 1667357243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203875,
+        "num": 203875,
+        "word": "马布里说中国村BA是他热爱的氛围",
+        "onboard_time": 1667358867,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 192142,
+        "num": 192142,
+        "word": "S8龙龟来了",
+        "onboard_time": 1667354787,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185364,
+        "num": 185364,
+        "word": "中专生苦练木工9年成国家队教练",
+        "onboard_time": 1667357485,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181577,
+        "num": 181577,
+        "word": "兰州强调坚决防止疫情防控简单化一刀切",
+        "onboard_time": 1667363476,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "原神",
+        "onboard_time": 1667358181,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581657,
+        "num": 179026,
+        "word": "韩总理公布梨泰院踩踏事故原因",
+        "onboard_time": 1667362651,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197971,
+        "num": 178874,
+        "word": "大湾仔的夜2定档",
+        "onboard_time": 1667360305,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174824,
+        "num": 174824,
+        "word": "山西首次发现奥密克戎BF.7变异株",
+        "onboard_time": 1667347645,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "东北搬砖小伙开餐馆实现整容式逆袭",
+        "onboard_time": 1667357905,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "两只猫咪爬墙头悬空打架",
+        "onboard_time": 1667355986,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171576,
+        "num": 171576,
+        "word": "甄嬛传屠龙组",
+        "onboard_time": 1667351067,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162536,
+        "num": 162536,
+        "word": "婴儿坠楼00后警校生跳3米墙营救",
+        "onboard_time": 1667318425,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149535,
+        "num": 149535,
+        "word": "脱口秀大会选顺序",
+        "onboard_time": 1667356165,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147020,
+        "num": 147020,
+        "word": "韩国警方承认未及时处理踩踏事故苗头",
+        "onboard_time": 1667351725,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138222,
+        "num": 138222,
+        "word": "第一次见猫咪逗人玩",
+        "onboard_time": 1667363310,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135340,
+        "num": 135340,
+        "word": "2岁宝宝模仿爸爸看电视姿势一模一样",
+        "onboard_time": 1667349926,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126830,
+        "num": 126830,
+        "word": "地下700米竟能捕捉幽灵粒子",
+        "onboard_time": 1667349265,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 119243,
+        "num": 119243,
+        "word": "103岁中医为村民免费看病80载",
+        "onboard_time": 1667359946,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115304,
+        "num": 115304,
+        "word": "不期而至今晚开播",
+        "onboard_time": 1667357006,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113522,
+        "num": 113522,
+        "word": "王鹤棣摘戒指表情",
+        "onboard_time": 1667352684,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113421,
+        "num": 113421,
+        "word": "兰州疫情防控",
+        "onboard_time": 1667315671,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113006,
+        "num": 113006,
+        "word": "11月1日新增本土无症状2346例",
+        "onboard_time": 1667354005,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112312,
+        "num": 112312,
+        "word": "陈飞宇张婧仪的吻戏",
+        "onboard_time": 1667357305,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103550,
+        "num": 103550,
+        "word": "库里三双",
+        "onboard_time": 1667356825,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99407,
+        "num": 99407,
+        "word": "苹果或被强制开放第三方APP",
+        "onboard_time": 1667364031,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告提到的中国古语#"
+    }
+  }
+}
