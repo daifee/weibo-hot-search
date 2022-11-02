@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667371922182,
+  "endTime": 1667373770817,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -227,6 +227,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1562546,
+      "num": 1562546,
+      "word": "梨泰院事故遇难中国女孩家属发声",
+      "onboard_time": 1667369126,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1555239,
       "num": 505082,
       "word": "李智汉为救被困小女孩遇难",
@@ -289,14 +297,6 @@
       "onboard_time": 1667185523,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1372127,
-      "num": 1372127,
-      "word": "梨泰院事故遇难中国女孩家属发声",
-      "onboard_time": 1667369126,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1348842,
@@ -457,6 +457,14 @@
       "onboard_time": 1667287285,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1085720,
+      "num": 284247,
+      "word": "杨幂在用生发液",
+      "onboard_time": 1667371647,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1056629,
@@ -625,6 +633,14 @@
       "onboard_time": 1667177007,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 896288,
+      "num": 896288,
+      "word": "中国联通与腾讯设立混改新公司",
+      "onboard_time": 1667371830,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 894017,
@@ -921,6 +937,14 @@
       "onboard_time": 1667364031,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 652118,
+      "num": 652118,
+      "word": "恶意入侵网课可能涉嫌犯罪",
+      "onboard_time": 1667368886,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 650812,
@@ -1259,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488767,
+      "num": 275284,
+      "word": "爷爷去世前给将结婚的孙女塞钱",
+      "onboard_time": 1667371525,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 488729,
       "num": 488729,
       "word": "12万卖游戏账户后恶意找回获刑3年半",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1667196326,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420819,
+      "num": 268841,
+      "word": "王一博单手握刀",
+      "onboard_time": 1667373446,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 416634,
@@ -1811,28 +1851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349802,
-      "num": 349802,
-      "word": "恶意入侵网课可能涉嫌犯罪",
-      "onboard_time": 1667368886,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 349008,
       "num": 349008,
       "word": "杨幂白宇新剧角色适配度",
       "onboard_time": 1667184323,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348851,
-      "num": 327514,
-      "word": "中国联通与腾讯设立混改新公司",
-      "onboard_time": 1667371830,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 347091,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1667221165,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 320470,
+      "num": 286091,
+      "word": "女教师上网课后去世警方已介入调查",
+      "onboard_time": 1667370807,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 320212,
@@ -2187,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275377,
-      "num": 275377,
-      "word": "杨幂在用生发液",
-      "onboard_time": 1667371647,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 275309,
       "num": 275309,
       "word": "郭柯宇参加再见爱人后有很多追求者",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1667185824,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266555,
-      "num": 266555,
-      "word": "女教师上网课后去世警方已介入调查",
-      "onboard_time": 1667370807,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 265516,
@@ -2544,6 +2560,14 @@
       "word": "易烊千玺四部作品入选五个一工程",
       "onboard_time": 1667134345,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224404,
+      "num": 224404,
+      "word": "蔡文静新剧欠四千万还被出轨",
+      "onboard_time": 1667372667,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -3011,6 +3035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179410,
+      "num": 179410,
+      "word": "韩首尔市长流泪鞠躬道歉",
+      "onboard_time": 1667372187,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179060,
       "num": 179060,
       "word": "网友万圣节cos安陵容",
@@ -3259,6 +3291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 153524,
+      "num": 153524,
+      "word": "桂东铁路坐火车不再查验核酸证明",
+      "onboard_time": 1667371830,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153029,
       "num": 153029,
       "word": "反应迟钝的小猫咪",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1667142272,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151219,
+      "num": 151219,
+      "word": "三星称苹果将在2024推出折叠屏",
+      "onboard_time": 1667372127,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 151218,
@@ -3827,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113175,
+      "num": 113175,
+      "word": "猫妈妈不厌其烦教小猫爬树",
+      "onboard_time": 1667372906,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 112289,
       "num": 112289,
       "word": "王铮亮是谐音梗刺客吧",
@@ -4219,14 +4275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90164,
-      "num": 90164,
-      "word": "爷爷去世前给将结婚的孙女塞钱",
-      "onboard_time": 1667371525,
-      "rank": 41,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 89794,
       "num": 89794,
       "word": "8旬老人学习33年顺利完成22门课程",
@@ -4243,19 +4291,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87943,
+      "num": 87943,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667373446,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87915,
       "num": 327322,
       "word": "两中学生遇走失男孩暖心护送",
       "onboard_time": 1667289625,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87871,
-      "num": 87871,
-      "word": "桂东铁路坐火车不再查验核酸证明",
-      "onboard_time": 1667371830,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4273,6 +4321,14 @@
       "onboard_time": 1667121503,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87029,
+      "num": 87029,
+      "word": "iPhone中国的周销量下降27%",
+      "onboard_time": 1667373568,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 86989,
@@ -4377,6 +4433,14 @@
       "onboard_time": 1667193926,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82280,
+      "num": 82280,
+      "word": "养猫人如何避免海克斯式猫粮",
+      "onboard_time": 1667372787,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82135,
@@ -4497,6 +4561,14 @@
       "onboard_time": 1667312370,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69218,
+      "num": 69218,
+      "word": "女子打架抡飞自行车误伤小女孩",
+      "onboard_time": 1667373746,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66859,
@@ -4719,6 +4791,14 @@
       "num": 361634,
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48896,
+      "num": 263468,
+      "word": "8旬老人连续15年送救命医生花生",
+      "onboard_time": 1667372428,
       "rank": 14,
       "category": "社会新闻"
     },
