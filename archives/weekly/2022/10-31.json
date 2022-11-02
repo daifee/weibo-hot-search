@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667393575110,
+  "endTime": 1667395531338,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -227,6 +227,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1631039,
+      "num": 1534590,
+      "word": "兰州煤气中毒男童家属发声",
+      "onboard_time": 1667390607,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1586990,
       "num": 1586990,
       "word": "福原爱被男友前妻起诉",
@@ -273,14 +281,6 @@
       "onboard_time": 1667302287,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1534590,
-      "num": 1534590,
-      "word": "兰州煤气中毒男童家属发声",
-      "onboard_time": 1667390607,
-      "rank": 1,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1509098,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1308376,
-      "num": 426172,
+      "num": 427156,
       "word": "北京一女子致2700余人被临时管控",
       "onboard_time": 1667388147,
       "rank": 20,
@@ -409,6 +409,14 @@
       "onboard_time": 1667277329,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1189416,
+      "num": 492909,
+      "word": "杨紫直播状态",
+      "onboard_time": 1667392467,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1188695,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983177,
+      "num": 422159,
+      "word": "顶级东方神颜",
+      "onboard_time": 1667393608,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 976069,
       "num": 976069,
       "word": "上海迪士尼10月31日起暂时关闭",
@@ -817,14 +833,6 @@
       "onboard_time": 1667204664,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 815508,
-      "num": 492909,
-      "word": "杨紫直播状态",
-      "onboard_time": 1667392467,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 793830,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1667380344,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 641549,
+      "num": 641549,
+      "word": "月老就差给你俩上钢筋了",
+      "onboard_time": 1667390607,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 633298,
@@ -1489,14 +1505,6 @@
       "onboard_time": 1667133507,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477888,
-      "num": 477888,
-      "word": "月老就差给你俩上钢筋了",
-      "onboard_time": 1667390607,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 476591,
@@ -2779,6 +2787,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 244686,
+      "num": 244686,
+      "word": "余承东称每卖两台折叠屏就有一台是华为",
+      "onboard_time": 1667391506,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 242976,
       "num": 242976,
       "word": "当猫咪误入女生宿舍",
@@ -3017,6 +3033,14 @@
       "onboard_time": 1667188767,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210933,
+      "num": 210933,
+      "word": "关晓彤直播蜜橘妆",
+      "onboard_time": 1667395288,
+      "rank": 23,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 210499,
@@ -3499,6 +3523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174142,
+      "num": 174142,
+      "word": "徐忠信去世",
+      "onboard_time": 1667393845,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 174079,
       "num": 174079,
       "word": "2022全国乒乓球锦标赛",
@@ -3667,6 +3699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158278,
+      "num": 158278,
+      "word": "供销社到底是什么",
+      "onboard_time": 1667390486,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 157953,
+      "num": 157953,
+      "word": "杭州小哥记录门口快递堆成山",
+      "onboard_time": 1667390367,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157619,
       "num": 157619,
       "word": "秋季万能叠穿公式",
@@ -3763,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150754,
+      "num": 150754,
+      "word": "李沁秋意纯白大片",
+      "onboard_time": 1667395228,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150463,
       "num": 150463,
       "word": "中国体操女队获团体第六名",
@@ -3811,12 +3867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145861,
+      "num": 145861,
+      "word": "警校生跳下3米高墙救1岁婴儿",
+      "onboard_time": 1667395167,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 145657,
       "num": 145657,
       "word": "76岁老人花55年养珍珠",
       "onboard_time": 1667269164,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145515,
+      "num": 145515,
+      "word": "华为PocketS价格",
+      "onboard_time": 1667392768,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 145174,
@@ -3939,14 +4011,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 138014,
-      "num": 138014,
-      "word": "杭州小哥记录门口快递堆成山",
-      "onboard_time": 1667390367,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "酣睡橘猫与落叶融为一体",
@@ -4009,14 +4073,6 @@
       "onboard_time": 1667378608,
       "rank": 36,
       "category": "动漫,科技"
-    },
-    {
-      "raw_hot": 134972,
-      "num": 134972,
-      "word": "余承东称每卖两台折叠屏就有一台是华为",
-      "onboard_time": 1667391506,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 134139,
@@ -4547,28 +4603,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 101954,
-      "num": 101954,
-      "word": "供销社到底是什么",
-      "onboard_time": 1667390486,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101402,
-      "num": 101402,
-      "word": "华为PocketS价格",
-      "onboard_time": 1667392768,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 100362,
@@ -5011,6 +5051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80628,
+      "num": 80628,
+      "word": "用落叶堆了只小狗",
+      "onboard_time": 1667393425,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79789,
       "num": 79789,
       "word": "当代大学生的神奇宝贝",
@@ -5105,14 +5153,6 @@
       "onboard_time": 1667215406,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72555,
-      "num": 72555,
-      "word": "用落叶堆了只小狗",
-      "onboard_time": 1667393425,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 71631,
