@@ -1,0 +1,410 @@
+{
+  "runTime": 1667374720420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4248791,
+        "num": 4248791,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 0,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 1551237,
+        "num": 1551237,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77733,
+        "num": 1342547,
+        "word": "当秋天遇上古诗词有多美",
+        "onboard_time": 1667355807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1151069,
+        "num": 1151069,
+        "word": "特朗普死了假消息登上推特热搜",
+        "onboard_time": 1667363547,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893782,
+        "num": 893782,
+        "word": "中国联通与腾讯设立混改新公司",
+        "onboard_time": 1667371830,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 702617,
+        "num": 702617,
+        "word": "专家称姐弟恋婚姻比例上升是社会进步",
+        "onboard_time": 1667368285,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584735,
+        "num": 584735,
+        "word": "爷爷去世前给将结婚的孙女塞钱",
+        "onboard_time": 1667371525,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 577585,
+        "num": 577585,
+        "word": "恶意入侵网课可能涉嫌犯罪",
+        "onboard_time": 1667368886,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 487493,
+        "num": 487493,
+        "word": "蔡文静新剧欠四千万还被出轨",
+        "onboard_time": 1667372667,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392418,
+        "num": 392418,
+        "word": "杭州一公司发布禁止趴桌午睡通知",
+        "onboard_time": 1667365650,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116856,
+        "num": 388102,
+        "word": "杨幂在用生发液",
+        "onboard_time": 1667371647,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 393521,
+        "num": 387061,
+        "word": "新郑三中老师",
+        "onboard_time": 1667358181,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 380730,
+        "num": 380730,
+        "word": "韩总理公布梨泰院踩踏事故原因",
+        "onboard_time": 1667362651,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339682,
+        "num": 339682,
+        "word": "王一博单手握刀",
+        "onboard_time": 1667373446,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71548,
+        "num": 309956,
+        "word": "8旬老人连续15年送救命医生花生",
+        "onboard_time": 1667372428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300615,
+        "num": 300615,
+        "word": "韩首尔市长流泪鞠躬道歉",
+        "onboard_time": 1667372187,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296919,
+        "num": 296919,
+        "word": "男子排尿疼痛取出鹅蛋大的结石",
+        "onboard_time": 1667373806,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251894,
+        "num": 251894,
+        "word": "三星称苹果将在2024推出折叠屏",
+        "onboard_time": 1667372127,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240453,
+        "num": 240453,
+        "word": "女教师上网课后去世警方已介入调查",
+        "onboard_time": 1667370807,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239483,
+        "num": 239483,
+        "word": "男朋友好会提供情绪价值",
+        "onboard_time": 1667366846,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231792,
+        "num": 231792,
+        "word": "猫妈妈不厌其烦教小猫爬树",
+        "onboard_time": 1667372906,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207796,
+        "num": 207796,
+        "word": "苹果或被强制开放第三方APP",
+        "onboard_time": 1667364031,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198921,
+        "num": 198921,
+        "word": "供销社系统怎么突然火了",
+        "onboard_time": 1667367267,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182591,
+        "num": 182591,
+        "word": "iPhone中国的周销量下降27%",
+        "onboard_time": 1667373568,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182164,
+        "num": 182164,
+        "word": "郑州航空港区全域静态管理",
+        "onboard_time": 1667365172,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "青岛疫情防控",
+        "onboard_time": 1667363547,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172214,
+        "num": 172214,
+        "word": "王者七周年返场皮肤",
+        "onboard_time": 1667365352,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155506,
+        "num": 155506,
+        "word": "英雄联盟S12",
+        "onboard_time": 1667362166,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151789,
+        "num": 151789,
+        "word": "桂东铁路坐火车不再查验核酸证明",
+        "onboard_time": 1667371830,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146720,
+        "num": 146720,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1667373446,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130110,
+        "num": 130110,
+        "word": "杨颖晒奔跑吧黑白合照",
+        "onboard_time": 1667366667,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "兰州强调坚决防止疫情防控简单化一刀切",
+        "onboard_time": 1667363476,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128566,
+        "num": 128566,
+        "word": "张彬彬晒小森林拍摄地",
+        "onboard_time": 1667370028,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121634,
+        "num": 121634,
+        "word": "陈哲远沈月终于合体了",
+        "onboard_time": 1667359587,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "王者荣耀",
+        "onboard_time": 1667362948,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "民政部公布10个涉嫌非法社会组织",
+        "onboard_time": 1667366430,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113623,
+        "num": 113623,
+        "word": "养猫人如何避免海克斯式猫粮",
+        "onboard_time": 1667372787,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111113,
+        "num": 111113,
+        "word": "原神",
+        "onboard_time": 1667358181,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108525,
+        "num": 108525,
+        "word": "女子打架抡飞自行车误伤小女孩",
+        "onboard_time": 1667373746,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104496,
+        "num": 104496,
+        "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
+        "onboard_time": 1667354666,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104437,
+        "num": 104437,
+        "word": "北下关小学",
+        "onboard_time": 1667353345,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94603,
+        "num": 94603,
+        "word": "多巴胺让你自律上瘾",
+        "onboard_time": 1667374047,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 92290,
+        "num": 92290,
+        "word": "第一次见猫咪逗人玩",
+        "onboard_time": 1667363310,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87384,
+        "num": 87384,
+        "word": "男孩坠入深井救援时淡定提要求",
+        "onboard_time": 1667374108,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84158,
+        "num": 84158,
+        "word": "4个动作缓解腰痛",
+        "onboard_time": 1667374526,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82264,
+        "num": 82264,
+        "word": "刘震云 脱口秀",
+        "onboard_time": 1667365890,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81795,
+        "num": 81795,
+        "word": "兰州警方通报七里河事件",
+        "onboard_time": 1667319027,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77827,
+        "num": 77827,
+        "word": "心动的信号5收官",
+        "onboard_time": 1667365111,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71350,
+        "num": 71350,
+        "word": "乔欣新剧的妈是锅姨",
+        "onboard_time": 1667361267,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69734,
+        "num": 69734,
+        "word": "贾跃亭因借款纠纷起诉乐视",
+        "onboard_time": 1667366308,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
