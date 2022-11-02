@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/02 00:36:31 ~ 2022/11/02 15:38:40
+本榜单时间：2022/11/02 00:36:31 ~ 2022/11/02 16:30:26
 </p>
 </blockquote>
 <p>
@@ -75,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23gemini%23" target="weibo">
+gemini（热度：1131074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9C%A8%E7%94%A8%E7%94%9F%E5%8F%91%E6%B6%B2%23" target="weibo">
 杨幂在用生发液（热度：1116856）
 </a>
@@ -105,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%92%E5%B0%BF%E7%96%BC%E7%97%9B%E5%8F%96%E5%87%BA%E9%B9%85%E8%9B%8B%E5%A4%A7%E7%9A%84%E7%BB%93%E7%9F%B3%23" target="weibo">
+男子排尿疼痛取出鹅蛋大的结石（热度：940413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9B%9E%E5%BA%94726%E6%88%BF%E9%97%B4%E4%BA%8B%E4%BB%B6%23" target="weibo">
 富士康回应726房间事件（热度：914102）
 </a>
@@ -123,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%92%E7%B3%96%E6%88%92%E5%A5%B6%E8%8C%B61%E5%B9%B4%E5%90%8E%E5%8F%98%E7%99%BD%E5%8F%98%E5%B9%B4%E8%BD%BB%23" target="weibo">
+女子戒糖戒奶茶1年后变白变年轻（热度：836442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%E5%91%98%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C12%E5%B0%8F%E6%97%B6%E9%98%B2%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A3%81%E5%91%98%23" target="weibo">
 推特员工每天工作12小时防马斯克裁员（热度：758544）
 </a>
@@ -135,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%80%9A%E7%9F%A511%E6%9C%88%E8%B5%B7%E5%B8%B8%E6%80%81%E5%8C%96%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8F%98%E5%8C%96%23" target="weibo">
+多地通知11月起常态化核酸检测变化（热度：712339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E6%9C%AA%E5%8F%8A%E6%97%B6%E5%A4%84%E7%90%86%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%8B%97%E5%A4%B4%23" target="weibo">
 韩国警方承认未及时处理踩踏事故苗头（热度：682452）
 </a>
@@ -143,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%23" target="weibo">
 于和伟（热度：662390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC14%E5%B1%8A%E9%87%91%E9%B9%B0%E8%8A%82%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+第14届金鹰节发布会（热度：662377）
 </a>
 </li>
 
@@ -207,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8B%97%E7%8B%97%23" target="weibo">
+张韶涵发文悼念自己的狗狗（热度：488298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%96%B0%E5%89%A7%E6%AC%A0%E5%9B%9B%E5%8D%83%E4%B8%87%E8%BF%98%E8%A2%AB%E5%87%BA%E8%BD%A8%23" target="weibo">
 蔡文静新剧欠四千万还被出轨（热度：487493）
 </a>
@@ -267,6 +303,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%91%A8%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D27%25%23" target="weibo">
+iPhone中国的周销量下降27%（热度：405861）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8E%A8%E6%90%A1%23" target="weibo">
 梨泰院踩踏事故目击者称有人故意推搡（热度：387646）
 </a>
@@ -321,6 +363,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E6%9E%B6%E6%8A%A1%E9%A3%9E%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
+女子打架抡飞自行车误伤小女孩（热度：350590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%A8%A1%E4%BB%BF%E7%88%B8%E7%88%B8%E7%9C%8B%E7%94%B5%E8%A7%86%E5%A7%BF%E5%8A%BF%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
 2岁宝宝模仿爸爸看电视姿势一模一样（热度：350369）
 </a>
@@ -369,6 +417,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%A6%96%E5%B0%94%E5%B8%82%E9%95%BF%E6%B5%81%E6%B3%AA%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
+韩首尔市长流泪鞠躬道歉（热度：315935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%9B%E9%94%80%E7%A4%BE%E7%B3%BB%E7%BB%9F%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86%23" target="weibo">
 供销社系统怎么突然火了（热度：310371）
 </a>
@@ -377,18 +431,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%96%91%E9%A3%9F%E5%A0%82%E7%A7%A4%E6%9C%89%E9%97%AE%E9%A2%98%E7%94%A8%E9%A5%AE%E6%96%99%E8%87%AA%E6%B5%8B%E8%AF%81%E5%AE%9E%23" target="weibo">
 男生疑食堂秤有问题用饮料自测证实（热度：305476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%A6%96%E5%B0%94%E5%B8%82%E9%95%BF%E6%B5%81%E6%B3%AA%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
-韩首尔市长流泪鞠躬道歉（热度：300615）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%92%E5%B0%BF%E7%96%BC%E7%97%9B%E5%8F%96%E5%87%BA%E9%B9%85%E8%9B%8B%E5%A4%A7%E7%9A%84%E7%BB%93%E7%9F%B3%23" target="weibo">
-男子排尿疼痛取出鹅蛋大的结石（热度：296919）
 </a>
 </li>
 
@@ -465,6 +507,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A6%88%E5%A6%88%E4%B8%8D%E5%8E%8C%E5%85%B6%E7%83%A6%E6%95%99%E5%B0%8F%E7%8C%AB%E7%88%AC%E6%A0%91%23" target="weibo">
+猫妈妈不厌其烦教小猫爬树（热度：244707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%83%E5%91%A8%E5%B9%B4%E8%BF%94%E5%9C%BA%E7%9A%AE%E8%82%A4%23" target="weibo">
 王者七周年返场皮肤（热度：241629）
 </a>
@@ -489,12 +537,6 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A6%88%E5%A6%88%E4%B8%8D%E5%8E%8C%E5%85%B6%E7%83%A6%E6%95%99%E5%B0%8F%E7%8C%AB%E7%88%AC%E6%A0%91%23" target="weibo">
-猫妈妈不厌其烦教小猫爬树（热度：231792）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8B%A6%E7%BB%83%E6%9C%A8%E5%B7%A59%E5%B9%B4%E6%88%90%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%95%99%E7%BB%83%23" target="weibo">
 中专生苦练木工9年成国家队教练（热度：231354）
 </a>
@@ -503,6 +545,18 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8F%AA%E7%8C%AB%E5%92%AA%E7%88%AC%E5%A2%99%E5%A4%B4%E6%82%AC%E7%A9%BA%E6%89%93%E6%9E%B6%23" target="weibo">
 两只猫咪爬墙头悬空打架（热度：222951）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%A8%E8%BF%B7%E4%BD%A0%E7%88%86%E7%B1%B3%E8%8A%B1%E6%9C%BA%E6%91%86%E6%91%8A%23" target="weibo">
+12岁男孩在小区用迷你爆米花机摆摊（热度：220999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD%E5%A4%84%E7%90%86%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%E4%BA%8B%E4%BB%B6%23" target="weibo">
+官方成立专班处理教师上网课后去世事件（热度：220173）
 </a>
 </li>
 
@@ -525,6 +579,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%90%8E%E9%A6%96%E5%8F%91%E5%8D%9A%23" target="weibo">
+热依扎获飞天奖后首发博（热度：199749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E7%BA%B8%E5%9B%A2%E6%98%AF%E7%8E%A9%E5%85%B7%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8C%AB%23" target="weibo">
 误以为纸团是玩具的流浪猫（热度：198714）
 </a>
@@ -543,6 +603,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B7%B4%E8%83%BA%E8%AE%A9%E4%BD%A0%E8%87%AA%E5%BE%8B%E4%B8%8A%E7%98%BE%23" target="weibo">
+多巴胺让你自律上瘾（热度：192387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC11%E6%9C%881%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A28%E4%BE%8B%23" target="weibo">
 北京11月1日新增本土确诊28例（热度：187387）
 </a>
@@ -551,12 +617,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E9%80%89%E9%A1%BA%E5%BA%8F%23" target="weibo">
 脱口秀大会选顺序（热度：184745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%91%A8%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D27%25%23" target="weibo">
-iPhone中国的周销量下降27%（热度：182591）
 </a>
 </li>
 
@@ -585,6 +645,12 @@ pgc（热度：176078）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232022%E5%85%A8%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%23" target="weibo">
+2022全国乒乓球锦标赛（热度：174079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%9B%A0%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E8%B5%B7%E8%AF%89%E4%B9%90%E8%A7%86%23" target="weibo">
 贾跃亭因借款纠纷起诉乐视（热度：171207）
 </a>
@@ -593,6 +659,12 @@ pgc（热度：176078）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E8%BA%BA%E5%B9%B3%E6%91%86%E7%83%82%23" target="weibo">
 俞敏洪谈年轻人为何容易躺平摆烂（热度：170657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF11%E5%B9%B4%E5%90%8E%E5%86%8D%E6%BC%94%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%23" target="weibo">
+颖儿11年后再演被家暴妻子（热度：169278）
 </a>
 </li>
 
@@ -669,12 +741,6 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232022%E5%85%A8%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%23" target="weibo">
-2022全国乒乓球锦标赛（热度：146720）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E4%BC%9A%E8%B7%B3%E8%88%9E%E7%9A%84%E7%8C%AB%E5%92%AA%23" target="weibo">
 没见过这么会跳舞的猫咪（热度：138214）
 </a>
@@ -719,6 +785,12 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%B0%E5%9B%BD%E6%A0%87%E8%90%BD%E5%9C%B0%23" target="weibo">
 羽绒服新国标落地（热度：129144）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%9F%E8%BE%B9%E6%95%A3%E6%AD%A5%E6%8D%A1%E5%88%B0%E9%9B%AA%E7%99%BD%E7%90%83%E8%9F%92%23" target="weibo">
+男子江边散步捡到雪白球蟒（热度：127771）
 </a>
 </li>
 
@@ -789,6 +861,12 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%90%838%E4%B8%AA%E6%9F%BF%E5%AD%90%E9%95%BF%E8%83%83%E7%BB%93%E7%9F%B3%23" target="weibo">
+3岁女孩连吃8个柿子长胃结石（热度：117789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%88%90%E5%88%A9%E5%B7%B1%E4%B8%BB%E4%B9%89%E8%80%85%23" target="weibo">
 俞敏洪称越来越多大学生成利己主义者（热度：116309）
 </a>
@@ -797,12 +875,6 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8C%AB%E4%BA%BA%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%B5%B7%E5%85%8B%E6%96%AF%E5%BC%8F%E7%8C%AB%E7%B2%AE%23" target="weibo">
 养猫人如何避免海克斯式猫粮（热度：113623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E6%9E%B6%E6%8A%A1%E9%A3%9E%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
-女子打架抡飞自行车误伤小女孩（热度：108525）
 </a>
 </li>
 
@@ -827,6 +899,12 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2370%E5%90%8E%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%A1%8C%E6%95%B4%E7%90%86%E6%94%B6%E7%BA%B3%E5%B8%88%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1%23" target="weibo">
 70后女子转行整理收纳师找回自信（热度：106845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%85%BF%E5%A5%B3%E5%AD%A9%E6%8B%84%E6%8B%90%E8%B7%91%E5%AE%8C%E7%99%BE%E7%B1%B3%E6%AF%94%E8%B5%9B%23" target="weibo">
+独腿女孩拄拐跑完百米比赛（热度：106800）
 </a>
 </li>
 
@@ -869,12 +947,6 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%ABvs%E7%83%AD%E7%81%AB%23" target="weibo">
 勇士vs热火（热度：94734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B7%B4%E8%83%BA%E8%AE%A9%E4%BD%A0%E8%87%AA%E5%BE%8B%E4%B8%8A%E7%98%BE%23" target="weibo">
-多巴胺让你自律上瘾（热度：94603）
 </a>
 </li>
 
@@ -923,6 +995,18 @@ ITZY将12月2日回归（热度：154335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%23" target="weibo">
 当代大学生的神奇宝贝（热度：79789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E6%97%A5%E7%9A%84%E6%95%85%E5%AE%AB%E9%93%B6%E6%9D%8F%E9%87%91%E9%BB%84%23" target="weibo">
+秋日的故宫银杏金黄（热度：78461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E7%99%BE%E5%85%BD%E6%98%AF%E6%87%82%E5%90%83%E6%92%AD%E7%9A%84%23" target="weibo">
+小胖百兽是懂吃播的（热度：75822）
 </a>
 </li>
 
