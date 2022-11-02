@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667384871734,
+  "endTime": 1667385821423,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287546,
+      "num": 1287546,
+      "word": "老人离世无继承人遗产归国家",
+      "onboard_time": 1667381245,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285265,
       "num": 553145,
       "word": "gemini",
@@ -96,14 +104,6 @@
       "word": "兰州警方通报七里河事件",
       "onboard_time": 1667319027,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1208693,
-      "num": 1208693,
-      "word": "老人离世无继承人遗产归国家",
-      "onboard_time": 1667381245,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 883869,
+      "num": 883869,
+      "word": "中国一男子在塞尔维亚殴打女儿被捕",
+      "onboard_time": 1667380887,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855041,
       "num": 855041,
       "word": "杭州一公司发布禁止趴桌午睡通知",
@@ -187,11 +195,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 837647,
-      "num": 837647,
-      "word": "中国一男子在塞尔维亚殴打女儿被捕",
-      "onboard_time": 1667380887,
-      "rank": 30,
+      "raw_hot": 809338,
+      "num": 809338,
+      "word": "多地通知乘火车飞机不再查核酸",
+      "onboard_time": 1667384545,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -419,8 +427,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 408077,
-      "num": 408077,
+      "raw_hot": 413742,
+      "num": 413742,
       "word": "合肥机场出港不再查验核酸",
       "onboard_time": 1667381907,
       "rank": 38,
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386429,
-      "num": 386429,
-      "word": "多地通知乘火车飞机不再查核酸",
-      "onboard_time": 1667384545,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386291,
       "num": 234958,
       "word": "福原爱被起诉",
       "onboard_time": 1667314953,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 372500,
+      "num": 372500,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 369434,
@@ -593,14 +601,6 @@
       "onboard_time": 1667370807,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 319520,
-      "num": 178599,
-      "word": "请为辽HXY031救护车让行",
-      "onboard_time": 1667381488,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 317215,
@@ -731,20 +731,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 266710,
+      "num": 266710,
+      "word": "颜宁发文回应归国",
+      "onboard_time": 1667380408,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265516,
       "num": 265516,
       "word": "陈飞宇张婧仪的吻戏",
       "onboard_time": 1667357305,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265245,
-      "num": 265245,
-      "word": "颜宁发文回应归国",
-      "onboard_time": 1667380408,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 264082,
@@ -851,20 +851,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 230826,
+      "num": 230826,
+      "word": "如何看待网课入侵",
+      "onboard_time": 1667382086,
+      "rank": 21,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 225880,
       "num": 225880,
       "word": "鸟鸟说出了多少人的内心",
       "onboard_time": 1667379747,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225049,
-      "num": 225049,
-      "word": "如何看待网课入侵",
-      "onboard_time": 1667382086,
-      "rank": 21,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 222951,
@@ -875,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216571,
+      "num": 216571,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210499,
       "num": 168229,
       "word": "王一博onelove舞台播放破亿",
       "onboard_time": 1667318010,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208614,
-      "num": 208614,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 207169,
@@ -937,6 +937,14 @@
       "onboard_time": 1667374047,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "大学生没惹你们任何人",
+      "onboard_time": 1667385087,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 192832,
@@ -1323,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113060,
+      "num": 113060,
+      "word": "老师用反向签到查出逃课学生",
+      "onboard_time": 1667385267,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 108678,
       "num": 108678,
       "word": "北京门头沟区新增一阳性",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1667374526,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82773,
+      "num": 82773,
+      "word": "走出焦虑我都做了什么",
+      "onboard_time": 1667385386,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81082,
