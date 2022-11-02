@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667410498447,
+  "endTime": 1667411597096,
   "band_list": [
     {
       "raw_hot": 1231771,
@@ -169,6 +169,14 @@
       "onboard_time": 1667407100,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178680,
+      "num": 97469,
+      "word": "韩国踩踏事故前4小时不断有人报警",
+      "onboard_time": 1667409976,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173212,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51050,
+      "num": 51050,
+      "word": "生机郑州全力以复",
+      "onboard_time": 1667410695,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49717,
       "num": 49717,
       "word": "男子排尿疼痛取出鹅蛋大的结石",
@@ -411,12 +427,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 31204,
-      "num": 31204,
-      "word": "韩国踩踏事故前4小时不断有人报警",
-      "onboard_time": 1667409976,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 37271,
+      "num": 37271,
+      "word": "老师电脑故障小学生5分钟修好",
+      "onboard_time": 1667409916,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 12873,
