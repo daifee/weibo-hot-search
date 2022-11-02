@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 01:04:12
+本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 01:34:58
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BB%BA%E5%9B%BD%20%E6%B7%98%E6%B1%B0%23" target="weibo">
+王建国 淘汰（热度：195091）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E5%8D%9A%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%23" target="weibo">
 一直博北大学生涉嫌论文抄袭（热度：173212）
 </a>
@@ -143,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%83%B9%E4%BD%A0%E4%BB%AC%E4%BB%BB%E4%BD%95%E4%BA%BA%23" target="weibo">
 大学生没惹你们任何人（热度：168474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BB%BA%E5%9B%BD%20%E6%B7%98%E6%B1%B0%23" target="weibo">
-王建国 淘汰（热度：159799）
 </a>
 </li>
 
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B7%E5%81%87%E4%B8%BA4%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8D%90%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%23" target="weibo">
 医生请假为4岁男孩捐造血干细胞（热度：140801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E7%8F%AD%E5%BA%94%E8%AF%A5%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%B0%83%E7%9A%AE%E5%90%A7%23" target="weibo">
+这个班应该没有人调皮吧（热度：135353）
 </a>
 </li>
 
@@ -215,12 +221,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%9F%A5%E9%81%93%E5%AE%83%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B5%81%E6%B5%AA%E4%BA%86%23" target="weibo">
 好像知道它为什么流浪了（热度：108768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E7%8F%AD%E5%BA%94%E8%AF%A5%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%B0%83%E7%9A%AE%E5%90%A7%23" target="weibo">
-这个班应该没有人调皮吧（热度：108179）
 </a>
 </li>
 
@@ -317,6 +317,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Gemini%E6%BE%84%E6%B8%85%E5%A3%B0%E6%98%8E%23" target="weibo">
 Gemini澄清声明（热度：39311）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
+韩国踩踏事故前4小时不断有人报警（热度：31204）
 </a>
 </li>
 

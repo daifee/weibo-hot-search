@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667408652941,
+  "endTime": 1667410498447,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "王建国 淘汰",
+      "onboard_time": 1667407100,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192832,
       "num": 192832,
       "word": "民政部公布10个涉嫌非法社会组织",
@@ -2627,14 +2635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159799,
-      "num": 159799,
-      "word": "王建国 淘汰",
-      "onboard_time": 1667407100,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159227,
       "num": 159227,
       "word": "学生扮奥特曼宿舍煮饺子被举报",
@@ -2897,6 +2897,14 @@
       "onboard_time": 1667288488,
       "rank": 34,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "这个班应该没有人调皮吧",
+      "onboard_time": 1667405784,
+      "rank": 45,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 135260,
@@ -3233,14 +3241,6 @@
       "onboard_time": 1667396967,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 108179,
-      "num": 89579,
-      "word": "这个班应该没有人调皮吧",
-      "onboard_time": 1667405784,
-      "rank": 45,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 107611,
@@ -3993,6 +3993,14 @@
       "onboard_time": 1667323158,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31204,
+      "num": 31204,
+      "word": "韩国踩踏事故前4小时不断有人报警",
+      "onboard_time": 1667409976,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31142,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667408652941,
+  "endTime": 1667410498447,
   "band_list": [
     {
       "raw_hot": 1231771,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "王建国 淘汰",
+      "onboard_time": 1667407100,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173212,
       "num": 173212,
       "word": "一直博北大学生涉嫌论文抄袭",
@@ -177,14 +185,6 @@
       "onboard_time": 1667385087,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 159799,
-      "num": 159799,
-      "word": "王建国 淘汰",
-      "onboard_time": 1667407100,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 150387,
@@ -209,6 +209,14 @@
       "onboard_time": 1667401408,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "这个班应该没有人调皮吧",
+      "onboard_time": 1667405784,
+      "rank": 45,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 131607,
@@ -273,14 +281,6 @@
       "onboard_time": 1667402966,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108179,
-      "num": 89579,
-      "word": "这个班应该没有人调皮吧",
-      "onboard_time": 1667405784,
-      "rank": 45,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 105231,
@@ -409,6 +409,14 @@
       "onboard_time": 1667380344,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 31204,
+      "num": 31204,
+      "word": "韩国踩踏事故前4小时不断有人报警",
+      "onboard_time": 1667409976,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12873,
