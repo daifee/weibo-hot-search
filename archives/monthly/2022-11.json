@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667389042955,
+  "endTime": 1667393575110,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -49,6 +49,14 @@
       "onboard_time": 1667279251,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2509070,
+      "num": 2509070,
+      "word": "多地通知11月起常态化核酸检测变化",
+      "onboard_time": 1667375665,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2214611,
@@ -163,12 +171,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1490272,
-      "num": 1490272,
-      "word": "多地通知11月起常态化核酸检测变化",
-      "onboard_time": 1667375665,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 1534590,
+      "num": 1534590,
+      "word": "兰州煤气中毒男童家属发声",
+      "onboard_time": 1667390607,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1445435,
@@ -201,6 +209,14 @@
       "onboard_time": 1667226207,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1308376,
+      "num": 426172,
+      "word": "北京一女子致2700余人被临时管控",
+      "onboard_time": 1667388147,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1287546,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026755,
+      "num": 1026755,
+      "word": "华为",
+      "onboard_time": 1667391029,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1023709,
       "num": 1023709,
       "word": "大学生没惹你们任何人",
@@ -497,6 +521,14 @@
       "onboard_time": 1667365650,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815508,
+      "num": 492909,
+      "word": "杨紫直播状态",
+      "onboard_time": 1667392467,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 793830,
@@ -771,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 580225,
+      "num": 580225,
+      "word": "多部门联合调查女老师上网课后去世",
+      "onboard_time": 1667388266,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579759,
       "num": 421071,
       "word": "富士康混乱现象是怎么造成的",
@@ -947,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477888,
+      "num": 477888,
+      "word": "月老就差给你俩上钢筋了",
+      "onboard_time": 1667390607,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 476591,
       "num": 415798,
       "word": "王雷飞天奖优秀男演员",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1667352684,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429645,
+      "num": 429645,
+      "word": "苹果已冻结招聘",
+      "onboard_time": 1667388085,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 426500,
@@ -1355,6 +1411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339732,
+      "num": 339732,
+      "word": "学生称女老师会议号被恶意放网上",
+      "onboard_time": 1667387004,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 337694,
+      "num": 337694,
+      "word": "迪丽热巴诉网店商家侵权获赔8万",
+      "onboard_time": 1667392167,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332144,
       "num": 332144,
       "word": "乔欣新剧的妈是锅姨",
@@ -1435,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315639,
-      "num": 315639,
-      "word": "学生称女老师会议号被恶意放网上",
-      "onboard_time": 1667387004,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 311530,
       "num": 241248,
       "word": "李现寸头直播状态",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1667308046,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307221,
+      "num": 307221,
+      "word": "红星评兰州七里河儿童死亡",
+      "onboard_time": 1667389044,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 306705,
@@ -1571,12 +1643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277735,
+      "num": 277735,
+      "word": "范世錡确信自己在哥哥没wink过",
+      "onboard_time": 1667390667,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277341,
       "num": 277341,
       "word": "女子抽中万元奖品开心到当街跳舞",
       "onboard_time": 1667357243,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275644,
+      "num": 275644,
+      "word": "小说里走出来的白月光",
+      "onboard_time": 1667386646,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 275557,
@@ -1859,14 +1947,6 @@
       "category": "教育,社会议题"
     },
     {
-      "raw_hot": 228975,
-      "num": 228975,
-      "word": "小说里走出来的白月光",
-      "onboard_time": 1667386646,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 227261,
       "num": 156447,
       "word": "广州今日已取消888个航班",
@@ -1912,14 +1992,6 @@
       "word": "师傅到男寝开锁不成反被锁",
       "onboard_time": 1667284525,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212151,
-      "num": 212151,
-      "word": "北京一女子致2700余人被临时管控",
-      "onboard_time": 1667388147,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1985,6 +2057,14 @@
       "onboard_time": 1667267904,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201188,
+      "num": 201188,
+      "word": "刘震云 阅读理解",
+      "onboard_time": 1667389286,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 200609,
@@ -2161,14 +2241,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181246,
-      "num": 145049,
-      "word": "苹果已冻结招聘",
-      "onboard_time": 1667388085,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 180707,
@@ -2507,6 +2579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 138014,
+      "num": 138014,
+      "word": "杭州小哥记录门口快递堆成山",
+      "onboard_time": 1667390367,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136749,
       "num": 72102,
       "word": "梦天舱与空间站组合体完成交会对接",
@@ -2553,6 +2633,14 @@
       "onboard_time": 1667378608,
       "rank": 36,
       "category": "动漫,科技"
+    },
+    {
+      "raw_hot": 134972,
+      "num": 134972,
+      "word": "余承东称每卖两台折叠屏就有一台是华为",
+      "onboard_time": 1667391506,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 134838,
@@ -2731,14 +2819,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 118913,
-      "num": 118913,
-      "word": "多部门联合调查女老师上网课后去世",
-      "onboard_time": 1667388266,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118852,
       "num": 1414116,
       "word": "当秋天遇上古诗词有多美",
@@ -2915,12 +2995,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 101954,
+      "num": 101954,
+      "word": "供销社到底是什么",
+      "onboard_time": 1667390486,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101402,
+      "num": 101402,
+      "word": "华为PocketS价格",
+      "onboard_time": 1667392768,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 100362,
@@ -3289,6 +3385,14 @@
       "onboard_time": 1667232625,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72555,
+      "num": 72555,
+      "word": "用落叶堆了只小狗",
+      "onboard_time": 1667393425,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72423,
