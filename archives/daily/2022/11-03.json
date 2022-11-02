@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667428726961,
+  "endTime": 1667431548404,
   "band_list": [
     {
       "raw_hot": 1231771,
@@ -9,6 +9,14 @@
       "onboard_time": 1667402607,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1087953,
+      "num": 1087953,
+      "word": "韩国踩踏事故前4小时不断有人报警",
+      "onboard_time": 1667409976,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776559,
@@ -25,6 +33,14 @@
       "onboard_time": 1667399970,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 631900,
+      "num": 631900,
+      "word": "英国老人吐槽现在比二战时还糟",
+      "onboard_time": 1667424310,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592912,
@@ -59,16 +75,16 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 417559,
-      "num": 417559,
-      "word": "韩国踩踏事故前4小时不断有人报警",
-      "onboard_time": 1667409976,
-      "rank": 42,
+      "raw_hot": 527405,
+      "num": 433367,
+      "word": "新疆新增无症状感染者400例",
+      "onboard_time": 1667412434,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387536,
-      "num": 387536,
+      "raw_hot": 413341,
+      "num": 413341,
       "word": "宝妈带2岁儿子进女厕被骂没素质",
       "onboard_time": 1667397446,
       "rank": 6,
@@ -96,6 +112,14 @@
       "word": "钉钉回应女教师上网课后去世",
       "onboard_time": 1667396548,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320235,
+      "num": 320235,
+      "word": "公司恶意用100多斤硬币清偿被罚",
+      "onboard_time": 1667396668,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -131,22 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286549,
-      "num": 286549,
-      "word": "新疆新增无症状感染者400例",
-      "onboard_time": 1667412434,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277843,
-      "num": 277843,
-      "word": "英国老人吐槽现在比二战时还糟",
-      "onboard_time": 1667424310,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277316,
       "num": 277316,
       "word": "俄外交部发布阻止核战争的声明",
@@ -155,19 +163,19 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 238121,
+      "num": 238121,
+      "word": "广西一14岁初中生被清华录取",
+      "onboard_time": 1667414891,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 223048,
       "num": 223048,
       "word": "熬夜后心脏会发生什么变化",
       "onboard_time": 1667416452,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220461,
-      "num": 220461,
-      "word": "公司恶意用100多斤硬币清偿被罚",
-      "onboard_time": 1667396668,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170644,
+      "num": 170644,
+      "word": "老师电脑故障小学生5分钟修好",
+      "onboard_time": 1667409916,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 168474,
       "num": 168474,
       "word": "大学生没惹你们任何人",
@@ -243,12 +259,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 135986,
+      "num": 135986,
+      "word": "科学家发现光能穿过金属",
+      "onboard_time": 1667424552,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 135353,
       "num": 135353,
       "word": "这个班应该没有人调皮吧",
       "onboard_time": 1667405784,
       "rank": 45,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 133881,
+      "num": 133881,
+      "word": "生机郑州全力以复",
+      "onboard_time": 1667410695,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131607,
@@ -323,20 +355,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 97680,
-      "num": 97680,
-      "word": "生机郑州全力以复",
-      "onboard_time": 1667410695,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95853,
-      "num": 95853,
-      "word": "广西一14岁初中生被清华录取",
-      "onboard_time": 1667414891,
-      "rank": 30,
-      "category": "教育,社会新闻"
+      "raw_hot": 102922,
+      "num": 102922,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 94326,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77231,
+      "num": 77231,
+      "word": "刘强东转让所持京东产发股份",
+      "onboard_time": 1667431039,
+      "rank": 35,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 76145,
       "num": 76145,
       "word": "罗永浩当代塌房cp粉的嘴替",
@@ -427,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67972,
-      "num": 67972,
-      "word": "老师电脑故障小学生5分钟修好",
-      "onboard_time": 1667409916,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 61953,
+      "num": 61953,
+      "word": "3岁女孩连吃8个柿子长胃结石",
+      "onboard_time": 1667377049,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58956,
@@ -443,28 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57332,
-      "num": 57332,
-      "word": "3岁女孩连吃8个柿子长胃结石",
-      "onboard_time": 1667377049,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56540,
-      "num": 56540,
-      "word": "科学家发现光能穿过金属",
-      "onboard_time": 1667424552,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
       "raw_hot": 49717,
       "num": 49717,
       "word": "男子排尿疼痛取出鹅蛋大的结石",
       "onboard_time": 1667373806,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42919,
+      "num": 42919,
+      "word": "各职业的崩溃瞬间",
+      "onboard_time": 1667424189,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 39311,
@@ -475,12 +499,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 30700,
-      "num": 30700,
-      "word": "当代人的四大喜事",
-      "onboard_time": 1667419989,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 37244,
+      "num": 37244,
+      "word": "AC米兰4比0萨尔茨堡红牛",
+      "onboard_time": 1667431522,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 24237,
@@ -491,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24057,
-      "num": 24057,
-      "word": "各职业的崩溃瞬间",
-      "onboard_time": 1667424189,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16347,
       "num": 16347,
       "word": "什么都没快递重要",
@@ -507,8 +523,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12873,
-      "num": 533327,
+      "raw_hot": 14191,
+      "num": 553096,
       "word": "梦天实验舱超高清发射纪实",
       "onboard_time": 1667378190,
       "rank": 2,
