@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667346161849,
+  "endTime": 1667355720025,
   "band_list": [
     {
       "raw_hot": 2231418,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1234420,
-      "num": 169494,
+      "num": 697098,
       "word": "兰州警方通报七里河事件",
       "onboard_time": 1667319027,
       "rank": 21,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781020,
+      "num": 781020,
+      "word": "北下关小学",
+      "onboard_time": 1667353345,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 682452,
+      "num": 682452,
+      "word": "韩国警方承认未及时处理踩踏事故苗头",
+      "onboard_time": 1667351725,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 662390,
       "num": 662390,
       "word": "于和伟",
@@ -67,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649550,
+      "num": 649550,
+      "word": "山西首次发现奥密克戎BF.7变异株",
+      "onboard_time": 1667347645,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591470,
       "num": 591470,
       "word": "婴儿坠楼00后警校生跳3米墙营救",
       "onboard_time": 1667318425,
       "rank": 11,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 565822,
+      "num": 565822,
+      "word": "甄嬛传屠龙组",
+      "onboard_time": 1667351067,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 528138,
@@ -89,6 +121,22 @@
       "onboard_time": 1667344099,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 458998,
+      "num": 458998,
+      "word": "地下700米竟能捕捉幽灵粒子",
+      "onboard_time": 1667349265,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 429738,
+      "num": 183275,
+      "word": "谭松韵黑色蕾丝吊带裙",
+      "onboard_time": 1667352684,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 426500,
@@ -115,6 +163,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 386291,
+      "num": 183052,
+      "word": "福原爱被起诉",
+      "onboard_time": 1667314953,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 373156,
+      "num": 373156,
+      "word": "S8龙龟来了",
+      "onboard_time": 1667354787,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369434,
       "num": 369434,
       "word": "起底张庭夫妇陶虹内地资本版图",
@@ -128,6 +192,22 @@
       "word": "200元存银行15年变88.72元",
       "onboard_time": 1667309126,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351589,
+      "num": 351589,
+      "word": "王鹤棣摘戒指表情",
+      "onboard_time": 1667352684,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350369,
+      "num": 350369,
+      "word": "2岁宝宝模仿爸爸看电视姿势一模一样",
+      "onboard_time": 1667349926,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -219,6 +299,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187387,
+      "num": 187387,
+      "word": "北京11月1日新增本土确诊28例",
+      "onboard_time": 1667349329,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183325,
+      "num": 183325,
+      "word": "11月1日新增本土无症状2346例",
+      "onboard_time": 1667354005,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182572,
+      "num": 182572,
+      "word": "王子异说希望和秦岚再合作",
+      "onboard_time": 1667349025,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180707,
+      "num": 180707,
+      "word": "点燃我温暖你定档1103",
+      "onboard_time": 1667353466,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176078,
       "num": 176078,
       "word": "pgc",
@@ -243,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160862,
+      "num": 160862,
+      "word": "梦奇天降福星新皮肤",
+      "onboard_time": 1667353405,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157316,
       "num": 157316,
       "word": "水花终于拿奖了",
@@ -265,6 +385,38 @@
       "onboard_time": 1667310329,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154335,
+      "num": 151724,
+      "word": "ITZY将12月2日回归",
+      "onboard_time": 1667351184,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 151757,
+      "num": 151757,
+      "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
+      "onboard_time": 1667354666,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150893,
+      "num": 150893,
+      "word": "特警巧用无人机为1岁宝宝空投奶粉",
+      "onboard_time": 1667344639,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150463,
+      "num": 150463,
+      "word": "中国体操女队获团体第六名",
+      "onboard_time": 1667351663,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136594,
@@ -305,6 +457,14 @@
       "onboard_time": 1667308646,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "羽绒服新国标落地",
+      "onboard_time": 1667350468,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127056,
@@ -371,11 +531,35 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 115601,
+      "num": 115601,
+      "word": "推特员工每天工作12小时防马斯克裁员",
+      "onboard_time": 1667355264,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108361,
       "num": 108361,
       "word": "澳大利亚残疾女子被迫爬下飞机",
       "onboard_time": 1667305345,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102537,
+      "num": 102537,
+      "word": "摔跤运动员帮饺子耳队友清理污血",
+      "onboard_time": 1667353884,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 99757,
+      "num": 99757,
+      "word": "郑州战疫服务信息指南",
+      "onboard_time": 1667346684,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -401,6 +585,22 @@
       "onboard_time": 1667321120,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92616,
+      "num": 92616,
+      "word": "真功夫20件商标被裁定无效",
+      "onboard_time": 1667351907,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85574,
+      "num": 85574,
+      "word": "这就是反向课堂签到吗",
+      "onboard_time": 1667349448,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 84845,
@@ -489,14 +689,6 @@
       "onboard_time": 1667344943,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52035,
-      "num": 52035,
-      "word": "特警巧用无人机为1岁宝宝空投奶粉",
-      "onboard_time": 1667344639,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43791,
