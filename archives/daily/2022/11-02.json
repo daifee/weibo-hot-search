@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667400279104,
+  "endTime": 1667402767646,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328156,
+      "num": 457651,
+      "word": "李一桐录跑男时牙崩了",
+      "onboard_time": 1667399970,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1308376,
       "num": 427156,
       "word": "北京一女子致2700余人被临时管控",
@@ -161,6 +169,14 @@
       "onboard_time": 1667371647,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1114744,
+      "num": 1114744,
+      "word": "弟弟结婚25岁单身哥哥躲后院回避",
+      "onboard_time": 1667399009,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107080,
@@ -259,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838783,
+      "num": 838783,
+      "word": "宝妈带2岁儿子进女厕被骂没素质",
+      "onboard_time": 1667397446,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836654,
+      "num": 836654,
+      "word": "兰州急救中心回应三岁儿童死亡事件",
+      "onboard_time": 1667400550,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
@@ -313,14 +345,6 @@
       "onboard_time": 1667375665,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660100,
-      "num": 660100,
-      "word": "宝妈带2岁儿子进女厕被骂没素质",
-      "onboard_time": 1667397446,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654608,
@@ -491,6 +515,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 467960,
+      "num": 467960,
+      "word": "脱口秀大会 不好笑",
+      "onboard_time": 1667401224,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458998,
       "num": 458998,
       "word": "地下700米竟能捕捉幽灵粒子",
@@ -505,6 +537,14 @@
       "onboard_time": 1667354787,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 444412,
+      "num": 444412,
+      "word": "重建供销社不会走老路",
+      "onboard_time": 1667399134,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432811,
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413300,
-      "num": 413300,
-      "word": "弟弟结婚25岁单身哥哥躲后院回避",
-      "onboard_time": 1667399009,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407802,
       "num": 407802,
       "word": "男朋友好会提供情绪价值",
@@ -585,14 +617,6 @@
       "onboard_time": 1667373568,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 399632,
-      "num": 399632,
-      "word": "李一桐录跑男时牙崩了",
-      "onboard_time": 1667399970,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399346,
@@ -641,6 +665,14 @@
       "onboard_time": 1667309126,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363412,
+      "num": 363412,
+      "word": "俄外交部发布阻止核战争的声明",
+      "onboard_time": 1667400329,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 357725,
@@ -721,6 +753,14 @@
       "onboard_time": 1667306848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333966,
+      "num": 333966,
+      "word": "一直博北大学生涉嫌论文抄袭",
+      "onboard_time": 1667397209,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332144,
@@ -1027,14 +1067,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 242228,
-      "num": 242228,
-      "word": "一直博北大学生涉嫌论文抄袭",
-      "onboard_time": 1667397209,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "王者七周年返场皮肤",
@@ -1059,12 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235768,
+      "num": 175075,
+      "word": "黄鼠狼估计是气死的",
+      "onboard_time": 1667399849,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235500,
       "num": 235500,
       "word": "王一博刘雨昕韩庚李承铉街舞5之旅",
       "onboard_time": 1667381606,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234359,
+      "num": 234359,
+      "word": "供销社到底是什么",
+      "onboard_time": 1667390486,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 233515,
@@ -1107,6 +1155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221803,
+      "num": 221803,
+      "word": "鸟鸟 精神走光",
+      "onboard_time": 1667402427,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221205,
+      "num": 168357,
+      "word": "杨笠 尴尬",
+      "onboard_time": 1667402607,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210933,
       "num": 210933,
       "word": "关晓彤直播蜜橘妆",
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200435,
+      "num": 200435,
+      "word": "奔跑吧全员晒美好生活",
+      "onboard_time": 1667399550,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200142,
       "num": 163360,
       "word": "关晓彤发型",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1667374765,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199536,
-      "num": 199536,
-      "word": "供销社到底是什么",
-      "onboard_time": 1667390486,
-      "rank": 36,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198714,
@@ -1219,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186320,
+      "num": 186320,
+      "word": "庞博的真诚",
+      "onboard_time": 1667398648,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184745,
       "num": 174978,
       "word": "脱口秀大会选顺序",
@@ -1241,14 +1313,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182152,
-      "num": 182152,
-      "word": "奔跑吧全员晒美好生活",
-      "onboard_time": 1667399550,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 180707,
@@ -1411,6 +1475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 154012,
+      "num": 154012,
+      "word": "罗永浩当代塌房cp粉的嘴替",
+      "onboard_time": 1667396668,
+      "rank": 45,
+      "category": "科技,网红"
+    },
+    {
       "raw_hot": 153524,
       "num": 153524,
       "word": "桂东铁路坐火车不再查验核酸证明",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1667344639,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150787,
-      "num": 150787,
-      "word": "庞博的真诚",
-      "onboard_time": 1667398648,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 150754,
@@ -1457,22 +1521,6 @@
       "onboard_time": 1667395167,
       "rank": 35,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 143713,
-      "num": 143713,
-      "word": "罗永浩当代塌房cp粉的嘴替",
-      "onboard_time": 1667396668,
-      "rank": 45,
-      "category": "科技,网红"
-    },
-    {
-      "raw_hot": 139628,
-      "num": 139628,
-      "word": "黄鼠狼估计是气死的",
-      "onboard_time": 1667399849,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 138214,
@@ -1547,6 +1595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132218,
+      "num": 132218,
+      "word": "成毅直播谈新剧莲花楼",
+      "onboard_time": 1667400448,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129863,
       "num": 129863,
       "word": "你能接受暧昧期多久",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1667345603,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125878,
-      "num": 125878,
-      "word": "重建供销社不会走老路",
-      "onboard_time": 1667399134,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124393,
@@ -1648,6 +1696,14 @@
       "word": "103岁中医为村民免费看病80载",
       "onboard_time": 1667359946,
       "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 119098,
+      "num": 119098,
+      "word": "医生请假为4岁男孩捐造血干细胞",
+      "onboard_time": 1667401408,
+      "rank": 39,
       "category": "社会正能量"
     },
     {
@@ -1777,6 +1833,14 @@
       "onboard_time": 1667367146,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 101196,
+      "num": 101196,
+      "word": "男生买15元不限量炒酸奶叠成山",
+      "onboard_time": 1667401888,
+      "rank": 44,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99757,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1667345120,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64682,
+      "num": 64682,
+      "word": "风叮嘱我要热爱这个世界",
+      "onboard_time": 1667401948,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 64083,

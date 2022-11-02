@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667400279104,
+  "endTime": 1667402767646,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328156,
+      "num": 457651,
+      "word": "李一桐录跑男时牙崩了",
+      "onboard_time": 1667399970,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1321961,
       "num": 1321961,
       "word": "富士康",
@@ -497,6 +505,14 @@
       "onboard_time": 1667306848,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1114744,
+      "num": 1114744,
+      "word": "弟弟结婚25岁单身哥哥躲后院回避",
+      "onboard_time": 1667399009,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107080,
@@ -827,6 +843,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 838783,
+      "num": 838783,
+      "word": "宝妈带2岁儿子进女厕被骂没素质",
+      "onboard_time": 1667397446,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836654,
+      "num": 836654,
+      "word": "兰州急救中心回应三岁儿童死亡事件",
+      "onboard_time": 1667400550,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 823750,
       "num": 432740,
       "word": "带带大师兄离婚",
@@ -1065,14 +1097,6 @@
       "onboard_time": 1667375665,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660100,
-      "num": 660100,
-      "word": "宝妈带2岁儿子进女厕被骂没素质",
-      "onboard_time": 1667397446,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654608,
@@ -1603,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467960,
+      "num": 467960,
+      "word": "脱口秀大会 不好笑",
+      "onboard_time": 1667401224,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462248,
       "num": 462248,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1667140952,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 444412,
+      "num": 444412,
+      "word": "重建供销社不会走老路",
+      "onboard_time": 1667399134,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444067,
@@ -1771,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413300,
-      "num": 413300,
-      "word": "弟弟结婚25岁单身哥哥躲后院回避",
-      "onboard_time": 1667399009,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412260,
       "num": 412260,
       "word": "金鸡奖提名名单",
@@ -1857,14 +1889,6 @@
       "onboard_time": 1667190868,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399632,
-      "num": 399632,
-      "word": "李一桐录跑男时牙崩了",
-      "onboard_time": 1667399970,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399346,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1667265447,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363412,
+      "num": 363412,
+      "word": "俄外交部发布阻止核战争的声明",
+      "onboard_time": 1667400329,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 359992,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1667147063,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333966,
+      "num": 333966,
+      "word": "一直博北大学生涉嫌论文抄袭",
+      "onboard_time": 1667397209,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332144,
@@ -2891,14 +2931,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 242228,
-      "num": 242228,
-      "word": "一直博北大学生涉嫌论文抄袭",
-      "onboard_time": 1667397209,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "王者七周年返场皮肤",
@@ -2947,6 +2979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235768,
+      "num": 175075,
+      "word": "黄鼠狼估计是气死的",
+      "onboard_time": 1667399849,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235500,
       "num": 235500,
       "word": "王一博刘雨昕韩庚李承铉街舞5之旅",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1667287347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234359,
+      "num": 234359,
+      "word": "供销社到底是什么",
+      "onboard_time": 1667390486,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234319,
@@ -3065,6 +3113,22 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 221803,
+      "num": 221803,
+      "word": "鸟鸟 精神走光",
+      "onboard_time": 1667402427,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221205,
+      "num": 168357,
+      "word": "杨笠 尴尬",
+      "onboard_time": 1667402607,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 219832,
@@ -3227,6 +3291,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 200435,
+      "num": 200435,
+      "word": "奔跑吧全员晒美好生活",
+      "onboard_time": 1667399550,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200256,
       "num": 200256,
       "word": "毛不易连唱三首好稳",
@@ -3265,14 +3337,6 @@
       "onboard_time": 1667300187,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199536,
-      "num": 199536,
-      "word": "供销社到底是什么",
-      "onboard_time": 1667390486,
-      "rank": 36,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198714,
@@ -3475,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186320,
+      "num": 186320,
+      "word": "庞博的真诚",
+      "onboard_time": 1667398648,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184793,
       "num": 184793,
       "word": "就没有苏醒接不了的话",
@@ -3529,14 +3601,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182152,
-      "num": 182152,
-      "word": "奔跑吧全员晒美好生活",
-      "onboard_time": 1667399550,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 180707,
@@ -3867,6 +3931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 154012,
+      "num": 154012,
+      "word": "罗永浩当代塌房cp粉的嘴替",
+      "onboard_time": 1667396668,
+      "rank": 45,
+      "category": "科技,网红"
+    },
+    {
       "raw_hot": 153818,
       "num": 153818,
       "word": "洗衣液",
@@ -3913,14 +3985,6 @@
       "onboard_time": 1667344639,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150787,
-      "num": 150787,
-      "word": "庞博的真诚",
-      "onboard_time": 1667398648,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 150754,
@@ -4043,14 +4107,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 143713,
-      "num": 143713,
-      "word": "罗永浩当代塌房cp粉的嘴替",
-      "onboard_time": 1667396668,
-      "rank": 45,
-      "category": "科技,网红"
-    },
-    {
       "raw_hot": 143581,
       "num": 117067,
       "word": "闫妮黑色薄纱礼服",
@@ -4097,14 +4153,6 @@
       "onboard_time": 1667190507,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139628,
-      "num": 139628,
-      "word": "黄鼠狼估计是气死的",
-      "onboard_time": 1667399849,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 138902,
@@ -4243,6 +4291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132218,
+      "num": 132218,
+      "word": "成毅直播谈新剧莲花楼",
+      "onboard_time": 1667400448,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131847,
       "num": 131847,
       "word": "双十一今晚8点付尾款",
@@ -4353,14 +4409,6 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125878,
-      "num": 125878,
-      "word": "重建供销社不会走老路",
-      "onboard_time": 1667399134,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125231,
@@ -4481,6 +4529,14 @@
       "onboard_time": 1667175384,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119098,
+      "num": 119098,
+      "word": "医生请假为4岁男孩捐造血干细胞",
+      "onboard_time": 1667401408,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118852,
@@ -4753,6 +4809,14 @@
       "onboard_time": 1667277269,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101196,
+      "num": 101196,
+      "word": "男生买15元不限量炒酸奶叠成山",
+      "onboard_time": 1667401888,
+      "rank": 44,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 100362,
@@ -5369,6 +5433,14 @@
       "onboard_time": 1667301569,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 64682,
+      "num": 64682,
+      "word": "风叮嘱我要热爱这个世界",
+      "onboard_time": 1667401948,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 64681,
