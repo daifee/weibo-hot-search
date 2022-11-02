@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/03 06:22:28
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/03 06:38:46
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ S8龙龟来了（热度：458716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
+韩国踩踏事故前4小时不断有人报警（热度：417559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E5%B8%83%E9%98%BB%E6%AD%A2%E6%A0%B8%E6%88%98%E4%BA%89%E7%9A%84%E5%A3%B0%E6%98%8E%23" target="weibo">
 俄外交部发布阻止核战争的声明（热度：414527）
 </a>
@@ -1227,12 +1233,6 @@ INTO1舞台走位（热度：355475）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
-韩国踩踏事故前4小时不断有人报警（热度：320525）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%23" target="weibo">
 女教师上网课后去世警方已介入调查（热度：320470）
 </a>
@@ -1367,6 +1367,12 @@ LV成立首只人民币基金（热度：287934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%881%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B62346%E4%BE%8B%23" target="weibo">
 11月1日新增本土无症状2346例（热度：278788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
+英国老人吐槽现在比二战时还糟（热度：277843）
 </a>
 </li>
 
@@ -2001,12 +2007,6 @@ pgc（热度：176078）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
-英国老人吐槽现在比二战时还糟（热度：161549）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%A5%87%E5%A4%A9%E9%99%8D%E7%A6%8F%E6%98%9F%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
 梦奇天降福星新皮肤（热度：160862）
 </a>
@@ -2571,6 +2571,12 @@ AG率先晋级CFS世界赛（热度：98295）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%8014%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
+广西一14岁初中生被清华录取（热度：95853）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E9%85%92%E9%87%8C%E8%97%8F%E4%BA%86%E5%A4%9A%E5%B0%91%E5%BF%83%E4%BA%8B%23" target="weibo">
 打工人酒里藏了多少心事（热度：95214）
 </a>
@@ -2859,6 +2865,12 @@ PCL加油（热度：85487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E5%B0%8F%E5%AD%A6%E7%94%9F5%E5%88%86%E9%92%9F%E4%BF%AE%E5%A5%BD%23" target="weibo">
+老师电脑故障小学生5分钟修好（热度：67972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E6%96%B0%E5%A5%B3%E5%9B%A2BabyMonster%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%87%BA%E9%81%93%23" target="weibo">
 YG新女团BabyMonster将于明年出道（热度：67777）
 </a>
@@ -2873,12 +2885,6 @@ YG新女团BabyMonster将于明年出道（热度：67777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E6%8F%90%E5%90%8D%23" target="weibo">
 飞天奖提名（热度：65754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%8014%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
-广西一14岁初中生被清华录取（热度：65278）
 </a>
 </li>
 
@@ -2979,6 +2985,12 @@ Jennie跳了Lisa的Money（热度：65079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%85%89%E8%83%BD%E7%A9%BF%E8%BF%87%E9%87%91%E5%B1%9E%23" target="weibo">
+科学家发现光能穿过金属（热度：56540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8C%96%E6%B5%A3%E7%86%8A%E7%AB%99%E5%90%83%E8%B4%A7%E5%90%8C%E4%BC%B4%E4%B8%AD%E6%91%8A%E6%89%8B%E7%AD%89%E6%8A%95%E5%96%82%23" target="weibo">
 白化浣熊站吃货同伴中摊手等投喂（热度：54919）
 </a>
@@ -2997,12 +3009,6 @@ Jennie跳了Lisa的Money（热度：65079）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E5%B0%8F%E5%AD%A6%E7%94%9F5%E5%88%86%E9%92%9F%E4%BF%AE%E5%A5%BD%23" target="weibo">
-老师电脑故障小学生5分钟修好（热度：52073）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B1%BC%E4%B9%9F%E7%9B%BC%E9%B8%AC%E9%B9%9A%E8%83%BD%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%AA%E7%97%9B%E5%BF%AB%E7%9A%84%23" target="weibo">
 金鱼也盼鸬鹚能给自己个痛快的（热度：50053）
 </a>
@@ -3017,12 +3023,6 @@ Jennie跳了Lisa的Money（热度：65079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%8C%A1%E4%BD%8F%E5%B1%B1%E5%8C%BA%E5%AD%A9%E5%AD%90%E6%B1%82%E5%AD%A6%E8%84%9A%E6%AD%A5%23" target="weibo">
 没有什么可以挡住山区孩子求学脚步（热度：49024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%85%89%E8%83%BD%E7%A9%BF%E8%BF%87%E9%87%91%E5%B1%9E%23" target="weibo">
-科学家发现光能穿过金属（热度：47199）
 </a>
 </li>
 
@@ -3087,6 +3087,12 @@ Jennie跳了Lisa的Money（热度：65079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E8%81%8C%E4%B8%9A%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23" target="weibo">
+各职业的崩溃瞬间（热度：24057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%9F%B1%23" target="weibo">
 我的四大精神支柱（热度：22340）
 </a>
@@ -3106,13 +3112,7 @@ Jennie跳了Lisa的Money（热度：65079）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%BF%AB%E9%80%92%E9%87%8D%E8%A6%81%23" target="weibo">
-什么都没快递重要（热度：14818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E8%81%8C%E4%B8%9A%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23" target="weibo">
-各职业的崩溃瞬间（热度：13711）
+什么都没快递重要（热度：16347）
 </a>
 </li>
 

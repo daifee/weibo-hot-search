@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 06:22:28
+本榜单时间：2022/11/03 00:37:10 ~ 2022/11/03 06:38:46
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
+韩国踩踏事故前4小时不断有人报警（热度：417559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A5%B3%E5%8E%95%E8%A2%AB%E9%AA%82%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
 宝妈带2岁儿子进女厕被骂没素质（热度：387536）
 </a>
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%89%E9%92%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 钉钉回应女教师上网课后去世（热度：321807）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
-韩国踩踏事故前4小时不断有人报警（热度：320525）
 </a>
 </li>
 
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85400%E4%BE%8B%23" target="weibo">
 新疆新增无症状感染者400例（热度：286549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
+英国老人吐槽现在比二战时还糟（热度：277843）
 </a>
 </li>
 
@@ -167,12 +173,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%83%B9%E4%BD%A0%E4%BB%AC%E4%BB%BB%E4%BD%95%E4%BA%BA%23" target="weibo">
 大学生没惹你们任何人（热度：168474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
-英国老人吐槽现在比二战时还糟（热度：161549）
 </a>
 </li>
 
@@ -261,6 +261,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%8014%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
+广西一14岁初中生被清华录取（热度：95853）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%AE%B4%E6%89%93%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8D%95%23" target="weibo">
 中国一男子在塞尔维亚殴打女儿被捕（热度：94326）
 </a>
@@ -327,8 +333,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%8014%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23" target="weibo">
-广西一14岁初中生被清华录取（热度：65278）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E5%B0%8F%E5%AD%A6%E7%94%9F5%E5%88%86%E9%92%9F%E4%BF%AE%E5%A5%BD%23" target="weibo">
+老师电脑故障小学生5分钟修好（热度：67972）
 </a>
 </li>
 
@@ -345,20 +351,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E5%B0%8F%E5%AD%A6%E7%94%9F5%E5%88%86%E9%92%9F%E4%BF%AE%E5%A5%BD%23" target="weibo">
-老师电脑故障小学生5分钟修好（热度：52073）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%85%89%E8%83%BD%E7%A9%BF%E8%BF%87%E9%87%91%E5%B1%9E%23" target="weibo">
+科学家发现光能穿过金属（热度：56540）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%92%E5%B0%BF%E7%96%BC%E7%97%9B%E5%8F%96%E5%87%BA%E9%B9%85%E8%9B%8B%E5%A4%A7%E7%9A%84%E7%BB%93%E7%9F%B3%23" target="weibo">
 男子排尿疼痛取出鹅蛋大的结石（热度：49717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%85%89%E8%83%BD%E7%A9%BF%E8%BF%87%E9%87%91%E5%B1%9E%23" target="weibo">
-科学家发现光能穿过金属（热度：47199）
 </a>
 </li>
 
@@ -381,14 +381,14 @@ Gemini澄清声明（热度：39311）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%BF%AB%E9%80%92%E9%87%8D%E8%A6%81%23" target="weibo">
-什么都没快递重要（热度：14818）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E8%81%8C%E4%B8%9A%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23" target="weibo">
+各职业的崩溃瞬间（热度：24057）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E8%81%8C%E4%B8%9A%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23" target="weibo">
-各职业的崩溃瞬间（热度：13711）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%BF%AB%E9%80%92%E9%87%8D%E8%A6%81%23" target="weibo">
+什么都没快递重要（热度：16347）
 </a>
 </li>
 
