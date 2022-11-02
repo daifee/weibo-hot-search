@@ -1,0 +1,410 @@
+{
+  "runTime": 1667408652941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 543699,
+        "num": 543699,
+        "word": "女童喝奶茶咳嗽1月医生洗出3管痰絮",
+        "onboard_time": 1667403746,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398897,
+        "num": 398897,
+        "word": "多地通知11月起常态化核酸检测变化",
+        "onboard_time": 1667375665,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11465,
+        "num": 342638,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 787895,
+        "num": 340704,
+        "word": "杨笠 尴尬",
+        "onboard_time": 1667402607,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338239,
+        "num": 338239,
+        "word": "男生买15元不限量炒酸奶叠成山",
+        "onboard_time": 1667401888,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 277509,
+        "num": 277509,
+        "word": "弟弟结婚25岁单身哥哥躲后院回避",
+        "onboard_time": 1667399009,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272953,
+        "num": 272953,
+        "word": "宝妈带2岁儿子进女厕被骂没素质",
+        "onboard_time": 1667397446,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264649,
+        "num": 264649,
+        "word": "鸟鸟 精神走光",
+        "onboard_time": 1667402427,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259523,
+        "num": 259523,
+        "word": "多地通知乘火车飞机不再查核酸",
+        "onboard_time": 1667384545,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252066,
+        "num": 252066,
+        "word": "女子戒糖戒奶茶1年后变白变年轻",
+        "onboard_time": 1667376147,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413773,
+        "num": 243172,
+        "word": "李一桐录跑男时牙崩了",
+        "onboard_time": 1667399970,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227792,
+        "num": 227792,
+        "word": "钉钉回应女教师上网课后去世",
+        "onboard_time": 1667396548,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201868,
+        "num": 201868,
+        "word": "重建供销社不会走老路",
+        "onboard_time": 1667399134,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199793,
+        "num": 199793,
+        "word": "顶级东方神颜",
+        "onboard_time": 1667393608,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "脱口秀大会 不好笑",
+        "onboard_time": 1667401224,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181836,
+        "num": 181836,
+        "word": "公司恶意用100多斤硬币清偿被罚",
+        "onboard_time": 1667396668,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179469,
+        "num": 179469,
+        "word": "俄外交部发布阻止核战争的声明",
+        "onboard_time": 1667400329,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162005,
+        "num": 162005,
+        "word": "北大南开将联合调查直博生涉抄袭",
+        "onboard_time": 1667396068,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 160228,
+        "num": 160228,
+        "word": "华为",
+        "onboard_time": 1667391029,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159799,
+        "num": 159799,
+        "word": "王建国 淘汰",
+        "onboard_time": 1667407100,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442740,
+        "num": 156961,
+        "word": "兰州急救中心回应三岁儿童死亡事件",
+        "onboard_time": 1667400550,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 147345,
+        "num": 147345,
+        "word": "月老就差给你俩上钢筋了",
+        "onboard_time": 1667390607,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127159,
+        "num": 127159,
+        "word": "大学生没惹你们任何人",
+        "onboard_time": 1667385087,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120298,
+        "num": 120298,
+        "word": "一直博北大学生涉嫌论文抄袭",
+        "onboard_time": 1667397209,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "徐志胜的大学生活",
+        "onboard_time": 1667406143,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100020,
+        "num": 100020,
+        "word": "老人离世无继承人遗产归国家",
+        "onboard_time": 1667381245,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98472,
+        "num": 98472,
+        "word": "黄鼠狼估计是气死的",
+        "onboard_time": 1667399849,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93478,
+        "num": 93478,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93293,
+        "num": 93293,
+        "word": "苹果已冻结招聘",
+        "onboard_time": 1667388085,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91056,
+        "num": 91056,
+        "word": "好像知道它为什么流浪了",
+        "onboard_time": 1667402966,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144693,
+        "num": 90521,
+        "word": "原来油腻男不分国界",
+        "onboard_time": 1667404468,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108179,
+        "num": 89579,
+        "word": "这个班应该没有人调皮吧",
+        "onboard_time": 1667405784,
+        "rank": 31,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 86982,
+        "num": 86982,
+        "word": "长相思人物关系预告",
+        "onboard_time": 1667404406,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86784,
+        "num": 86784,
+        "word": "供销社到底是什么",
+        "onboard_time": 1667390486,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 86775,
+        "num": 86775,
+        "word": "阿凡达2正式预告",
+        "onboard_time": 1667398410,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82248,
+        "num": 82248,
+        "word": "张钧甯白色露腰长裙",
+        "onboard_time": 1667405964,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81225,
+        "num": 81225,
+        "word": "老师用反向签到查出逃课学生",
+        "onboard_time": 1667385267,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 75645,
+        "num": 75645,
+        "word": "中国一男子在塞尔维亚殴打女儿被捕",
+        "onboard_time": 1667380887,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71434,
+        "num": 71434,
+        "word": "医生请假为4岁男孩捐造血干细胞",
+        "onboard_time": 1667401408,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 61209,
+        "num": 61209,
+        "word": "学生称女老师会议号被恶意放网上",
+        "onboard_time": 1667387004,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 59622,
+        "num": 59622,
+        "word": "罗永浩当代塌房cp粉的嘴替",
+        "onboard_time": 1667396668,
+        "rank": 40,
+        "category": "科技,网红"
+      },
+      {
+        "raw_hot": 55696,
+        "num": 55696,
+        "word": "腾讯副总裁已担任中国联通董事",
+        "onboard_time": 1667378845,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 51193,
+        "num": 51193,
+        "word": "用落叶堆了只小狗",
+        "onboard_time": 1667393425,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49726,
+        "num": 49726,
+        "word": "奔跑吧全员晒美好生活",
+        "onboard_time": 1667399550,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48602,
+        "num": 48602,
+        "word": "迪丽热巴诉网店商家侵权获赔8万",
+        "onboard_time": 1667392167,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47875,
+        "num": 47875,
+        "word": "教育局确认河南女教师上网课后去世",
+        "onboard_time": 1667366487,
+        "rank": 45,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 46531,
+        "num": 46531,
+        "word": "小说里走出来的白月光",
+        "onboard_time": 1667386646,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40877,
+        "num": 40877,
+        "word": "3岁女孩连吃8个柿子长胃结石",
+        "onboard_time": 1667377049,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39311,
+        "num": 39311,
+        "word": "Gemini澄清声明",
+        "onboard_time": 1667380344,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 37551,
+        "num": 37551,
+        "word": "男子排尿疼痛取出鹅蛋大的结石",
+        "onboard_time": 1667373806,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告提到的中国古语#"
+    }
+  }
+}
