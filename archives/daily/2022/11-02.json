@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667397970707,
+  "endTime": 1667399303503,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1226130,
+      "num": 455663,
+      "word": "顶级东方神颜",
+      "onboard_time": 1667393608,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1204519,
       "num": 1204519,
       "word": "福原爱被男友前妻起诉",
       "onboard_time": 1667314953,
       "rank": 1,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1201246,
-      "num": 442676,
-      "word": "顶级东方神颜",
-      "onboard_time": 1667393608,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1189416,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837302,
+      "num": 454576,
+      "word": "钉钉回应女教师上网课后去世",
+      "onboard_time": 1667396548,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
@@ -331,6 +339,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 642297,
+      "num": 642297,
+      "word": "红星评兰州七里河儿童死亡",
+      "onboard_time": 1667389044,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 641549,
       "num": 641549,
       "word": "月老就差给你俩上钢筋了",
@@ -345,6 +361,14 @@
       "onboard_time": 1667385267,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 615439,
+      "num": 615439,
+      "word": "北大南开将联合调查直博生涉抄袭",
+      "onboard_time": 1667396068,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 611272,
@@ -419,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510560,
-      "num": 433918,
-      "word": "北大南开将联合调查直博生涉抄袭",
-      "onboard_time": 1667396068,
-      "rank": 14,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 507874,
       "num": 507874,
       "word": "3岁女孩连吃8个柿子长胃结石",
@@ -473,14 +489,6 @@
       "onboard_time": 1667354787,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 448204,
-      "num": 448204,
-      "word": "红星评兰州七里河儿童死亡",
-      "onboard_time": 1667389044,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 432811,
@@ -553,6 +561,14 @@
       "onboard_time": 1667373568,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 405711,
+      "num": 405711,
+      "word": "宝妈带2岁儿子进女厕被骂没素质",
+      "onboard_time": 1667397446,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399346,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329340,
+      "num": 329340,
+      "word": "公司恶意用100多斤硬币清偿被罚",
+      "onboard_time": 1667396668,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326824,
       "num": 326824,
       "word": "杨幂ELLE十二月刊封面",
@@ -705,14 +729,6 @@
       "onboard_time": 1667362166,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 323731,
-      "num": 323731,
-      "word": "钉钉回应女教师上网课后去世",
-      "onboard_time": 1667396548,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321648,
@@ -769,6 +785,14 @@
       "onboard_time": 1667393845,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 306955,
+      "num": 306955,
+      "word": "阿凡达2正式预告",
+      "onboard_time": 1667398410,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 305476,
@@ -929,6 +953,14 @@
       "onboard_time": 1667391506,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254781,
+      "num": 254781,
+      "word": "鸟鸟一个人也是可以尴尬的",
+      "onboard_time": 1667398887,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 253228,
@@ -1179,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181676,
+      "num": 181676,
+      "word": "一直博北大学生涉嫌论文抄袭",
+      "onboard_time": 1667397209,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180707,
       "num": 180707,
       "word": "点燃我温暖你定档1103",
@@ -1243,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162979,
+      "num": 162979,
+      "word": "用落叶堆了只小狗",
+      "onboard_time": 1667393425,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162447,
       "num": 162447,
       "word": "刘震云 脱口秀",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1667353405,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159219,
+      "num": 159219,
+      "word": "脱口秀大会",
+      "onboard_time": 1667307387,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 157953,
@@ -1296,14 +1352,6 @@
       "word": "北京市门头沟新增1例阳性",
       "onboard_time": 1667386767,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156529,
-      "num": 156529,
-      "word": "公司恶意用100多斤硬币清偿被罚",
-      "onboard_time": 1667396668,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1345,14 +1393,6 @@
       "onboard_time": 1667371830,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151081,
-      "num": 151081,
-      "word": "用落叶堆了只小狗",
-      "onboard_time": 1667393425,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 150893,
@@ -1491,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125933,
-      "num": 125933,
-      "word": "一直博北大学生涉嫌论文抄袭",
-      "onboard_time": 1667397209,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124393,
       "num": 124393,
       "word": "这减肥操懂我想要什么",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1667353884,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 122076,
+      "num": 122076,
+      "word": "庞博的真诚",
+      "onboard_time": 1667398648,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 120691,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1667290288,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 113904,
-      "num": 159277,
-      "word": "宝妈带2岁儿子进女厕被骂没素质",
-      "onboard_time": 1667397446,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113623,
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103223,
+      "num": 103223,
+      "word": "罗永浩当代塌房cp粉的嘴替",
+      "onboard_time": 1667396668,
+      "rank": 45,
+      "category": "科技,网红"
+    },
+    {
       "raw_hot": 102694,
       "num": 102694,
       "word": "大学生都听燃了",
@@ -1715,20 +1755,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97828,
-      "num": 83385,
-      "word": "脱口秀大会",
-      "onboard_time": 1667307387,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95592,
-      "num": 95592,
-      "word": "罗永浩当代塌房cp粉的嘴替",
-      "onboard_time": 1667396668,
+      "raw_hot": 97498,
+      "num": 97498,
+      "word": "弟弟结婚25岁单身哥哥躲后院回避",
+      "onboard_time": 1667399009,
       "rank": 45,
-      "category": "科技,网红"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94734,
@@ -1760,6 +1792,14 @@
       "word": "男孩坠入深井救援时淡定提要求",
       "onboard_time": 1667374108,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86319,
+      "num": 86319,
+      "word": "重建供销社不会走老路",
+      "onboard_time": 1667399134,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
