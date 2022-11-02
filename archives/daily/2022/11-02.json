@@ -1,6 +1,6 @@
 {
   "startTime": 1667320591924,
-  "endTime": 1667381018487,
+  "endTime": 1667382045990,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -179,19 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793830,
+      "num": 793830,
+      "word": "腾讯副总裁已担任中国联通董事",
+      "onboard_time": 1667378845,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 758544,
       "num": 758544,
       "word": "推特员工每天工作12小时防马斯克裁员",
       "onboard_time": 1667355264,
       "rank": 38,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 731973,
-      "num": 386538,
-      "word": "腾讯副总裁已担任中国联通董事",
-      "onboard_time": 1667378845,
-      "rank": 11,
       "category": "科技"
     },
     {
@@ -249,6 +249,14 @@
       "onboard_time": 1667347645,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643192,
+      "num": 643192,
+      "word": "Gemini澄清声明",
+      "onboard_time": 1667380344,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 611272,
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513727,
-      "num": 382523,
-      "word": "Gemini澄清声明",
-      "onboard_time": 1667380344,
-      "rank": 13,
-      "category": "游戏,网红"
+      "raw_hot": 507874,
+      "num": 507874,
+      "word": "3岁女孩连吃8个柿子长胃结石",
+      "onboard_time": 1667377049,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487493,
@@ -353,14 +361,6 @@
       "onboard_time": 1667354787,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 456486,
-      "num": 456486,
-      "word": "3岁女孩连吃8个柿子长胃结石",
-      "onboard_time": 1667377049,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432811,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340302,
+      "num": 340302,
+      "word": "男子江边散步捡到雪白球蟒",
+      "onboard_time": 1667376629,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334130,
       "num": 271200,
       "word": "美国说唱歌手takeoff被枪杀",
@@ -616,14 +624,6 @@
       "word": "家长回应孩子用千元帝王蟹比赛做饭",
       "onboard_time": 1667308528,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280456,
-      "num": 280456,
-      "word": "男子江边散步捡到雪白球蟒",
-      "onboard_time": 1667376629,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235500,
+      "num": 235500,
+      "word": "王一博刘雨昕韩庚李承铉街舞5之旅",
+      "onboard_time": 1667381606,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233515,
       "num": 233515,
       "word": "原神",
@@ -779,11 +787,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 227150,
+      "num": 227150,
+      "word": "颜宁发文回应归国",
+      "onboard_time": 1667380408,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 222951,
       "num": 222951,
       "word": "两只猫咪爬墙头悬空打架",
       "onboard_time": 1667355986,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215683,
+      "num": 215683,
+      "word": "老人离世无继承人遗产归国家",
+      "onboard_time": 1667381245,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -793,6 +817,22 @@
       "onboard_time": 1667318010,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209139,
+      "num": 156713,
+      "word": "中国一男子在塞尔维亚殴打女儿被捕",
+      "onboard_time": 1667380887,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208614,
+      "num": 208614,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 207169,
@@ -891,12 +931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178712,
-      "num": 178712,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 179309,
+      "num": 179309,
+      "word": "只有老六才能打败老六",
+      "onboard_time": 1667379208,
+      "rank": 28,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 177744,
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168718,
+      "num": 168718,
+      "word": "鸟鸟说出了多少人的内心",
+      "onboard_time": 1667379747,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163158,
       "num": 163158,
       "word": "大件快递员晒双十一工资条日薪过千",
@@ -969,14 +1017,6 @@
       "onboard_time": 1667353405,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159988,
-      "num": 159988,
-      "word": "只有老六才能打败老六",
-      "onboard_time": 1667379208,
-      "rank": 28,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 157316,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153345,
+      "num": 153345,
+      "word": "重生之门",
+      "onboard_time": 1667381006,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150893,
       "num": 150893,
       "word": "特警巧用无人机为1岁宝宝空投奶粉",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1667351663,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146657,
-      "num": 146657,
-      "word": "颜宁发文回应归国",
-      "onboard_time": 1667380408,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 138214,
@@ -1147,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124750,
+      "num": 124750,
+      "word": "合肥机场出港不再查验核酸",
+      "onboard_time": 1667381907,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124393,
       "num": 124393,
       "word": "这减肥操懂我想要什么",
@@ -1227,12 +1275,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "大爷拎灭火器从满地汽油中救了个人",
+      "onboard_time": 1667380046,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 113623,
       "num": 113623,
       "word": "养猫人如何避免海克斯式猫粮",
       "onboard_time": 1667372787,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111932,
+      "num": 111932,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 108361,
@@ -1299,28 +1363,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 101657,
-      "num": 101657,
-      "word": "大爷拎灭火器从满地汽油中救了个人",
-      "onboard_time": 1667380046,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 99757,
       "num": 99757,
       "word": "郑州战疫服务信息指南",
       "onboard_time": 1667346684,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99752,
-      "num": 99752,
-      "word": "鸟鸟说出了多少人的内心",
-      "onboard_time": 1667379747,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 99245,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1667378608,
       "rank": 46,
       "category": "其它"
-    },
-    {
-      "raw_hot": 85019,
-      "num": 80425,
-      "word": "重生之门",
-      "onboard_time": 1667381006,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 84845,

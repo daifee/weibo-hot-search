@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667381018487,
+  "endTime": 1667382045990,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -763,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 793830,
+      "num": 793830,
+      "word": "腾讯副总裁已担任中国联通董事",
+      "onboard_time": 1667378845,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 784698,
       "num": 784698,
       "word": "杨戬",
@@ -833,14 +841,6 @@
       "onboard_time": 1667134527,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 731973,
-      "num": 386538,
-      "word": "腾讯副总裁已担任中国联通董事",
-      "onboard_time": 1667378845,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 727433,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1667288907,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643192,
+      "num": 643192,
+      "word": "Gemini澄清声明",
+      "onboard_time": 1667380344,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 633298,
@@ -1283,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513727,
-      "num": 382523,
-      "word": "Gemini澄清声明",
-      "onboard_time": 1667380344,
-      "rank": 13,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 508755,
       "num": 233833,
       "word": "以为看到了李子维黄雨萱",
@@ -1304,6 +1304,14 @@
       "word": "男生疑食堂秤有问题用饮料自测证实",
       "onboard_time": 1667313270,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507874,
+      "num": 507874,
+      "word": "3岁女孩连吃8个柿子长胃结石",
+      "onboard_time": 1667377049,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1489,14 +1497,6 @@
       "onboard_time": 1667277808,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456486,
-      "num": 456486,
-      "word": "3岁女孩连吃8个柿子长胃结石",
-      "onboard_time": 1667377049,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455445,
@@ -1979,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340302,
+      "num": 340302,
+      "word": "男子江边散步捡到雪白球蟒",
+      "onboard_time": 1667376629,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336770,
       "num": 336770,
       "word": "疯狂动物城衍生剧预告",
@@ -2296,14 +2304,6 @@
       "word": "女子煲汤忘关火排骨炖成灰",
       "onboard_time": 1667134107,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280456,
-      "num": 280456,
-      "word": "男子江边散步捡到雪白球蟒",
-      "onboard_time": 1667376629,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2651,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235500,
+      "num": 235500,
+      "word": "王一博刘雨昕韩庚李承铉街舞5之旅",
+      "onboard_time": 1667381606,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235401,
       "num": 235401,
       "word": "一下子就精通excel了",
@@ -2723,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227150,
+      "num": 227150,
+      "word": "颜宁发文回应归国",
+      "onboard_time": 1667380408,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225936,
       "num": 225936,
       "word": "易烊千玺四部作品入选五个一工程",
@@ -2787,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215683,
+      "num": 215683,
+      "word": "老人离世无继承人遗产归国家",
+      "onboard_time": 1667381245,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211690,
       "num": 211690,
       "word": "沈阳飞芜湖机票低至9元",
@@ -2817,6 +2841,22 @@
       "onboard_time": 1667310509,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209139,
+      "num": 156713,
+      "word": "中国一男子在塞尔维亚殴打女儿被捕",
+      "onboard_time": 1667380887,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208614,
+      "num": 208614,
+      "word": "颖儿11年后再演被家暴妻子",
+      "onboard_time": 1667377168,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 207169,
@@ -3219,6 +3259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179309,
+      "num": 179309,
+      "word": "只有老六才能打败老六",
+      "onboard_time": 1667379208,
+      "rank": 28,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 179060,
       "num": 179060,
       "word": "网友万圣节cos安陵容",
@@ -3233,14 +3281,6 @@
       "onboard_time": 1667297006,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 178712,
-      "num": 178712,
-      "word": "颖儿11年后再演被家暴妻子",
-      "onboard_time": 1667377168,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 178009,
@@ -3339,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168718,
+      "num": 168718,
+      "word": "鸟鸟说出了多少人的内心",
+      "onboard_time": 1667379747,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168184,
       "num": 168184,
       "word": "八点之前的我",
@@ -3419,14 +3467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159988,
-      "num": 159988,
-      "word": "只有老六才能打败老六",
-      "onboard_time": 1667379208,
-      "rank": 28,
-      "category": "游戏,幽默"
-    },
-    {
       "raw_hot": 159346,
       "num": 159346,
       "word": "和朋友话最少的一次见面",
@@ -3499,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153345,
+      "num": 153345,
+      "word": "重生之门",
+      "onboard_time": 1667381006,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153029,
       "num": 153029,
       "word": "反应迟钝的小猫咪",
@@ -3569,14 +3617,6 @@
       "onboard_time": 1667260103,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146657,
-      "num": 146657,
-      "word": "颜宁发文回应归国",
-      "onboard_time": 1667380408,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 146498,
@@ -3931,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124750,
+      "num": 124750,
+      "word": "合肥机场出港不再查验核酸",
+      "onboard_time": 1667381907,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124633,
       "num": 124633,
       "word": "张彬彬奔跑吧上班路透",
@@ -4075,6 +4123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "大爷拎灭火器从满地汽油中救了个人",
+      "onboard_time": 1667380046,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 114307,
       "num": 114307,
       "word": "这街头采访也太真实了",
@@ -4113,6 +4169,14 @@
       "onboard_time": 1667237356,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111932,
+      "num": 111932,
+      "word": "请为辽HXY031救护车让行",
+      "onboard_time": 1667381488,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 111899,
@@ -4283,14 +4347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101657,
-      "num": 101657,
-      "word": "大爷拎灭火器从满地汽油中救了个人",
-      "onboard_time": 1667380046,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 100362,
       "num": 100362,
       "word": "谁教你们这么配音的",
@@ -4329,14 +4385,6 @@
       "onboard_time": 1667346684,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99752,
-      "num": 99752,
-      "word": "鸟鸟说出了多少人的内心",
-      "onboard_time": 1667379747,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 99385,
@@ -4641,14 +4689,6 @@
       "onboard_time": 1667378608,
       "rank": 46,
       "category": "其它"
-    },
-    {
-      "raw_hot": 85019,
-      "num": 80425,
-      "word": "重生之门",
-      "onboard_time": 1667381006,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 85014,
