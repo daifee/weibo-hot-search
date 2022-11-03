@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667486405960,
+  "endTime": 1667489474902,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1199900,
+      "num": 1199900,
+      "word": "陈晓陈妍希幸福三重奏",
+      "onboard_time": 1667484148,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1195896,
       "num": 1195896,
       "word": "男生吃麻辣烫碗边抠出污垢",
@@ -121,14 +129,6 @@
       "onboard_time": 1667443703,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1132989,
-      "num": 1132989,
-      "word": "陈晓陈妍希幸福三重奏",
-      "onboard_time": 1667484148,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1121306,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 752529,
+      "num": 752529,
+      "word": "入睡姿势不对可能睡出毛病",
+      "onboard_time": 1667482826,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750357,
       "num": 750357,
       "word": "2023鹅厂片单",
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623759,
-      "num": 623759,
-      "word": "入睡姿势不对可能睡出毛病",
-      "onboard_time": 1667482826,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 620092,
       "num": 620092,
       "word": "女子无证穿高跟鞋连续2次撞同一车",
@@ -401,6 +401,14 @@
       "onboard_time": 1667451866,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566001,
+      "num": 360870,
+      "word": "阿瑟有几分姿色",
+      "onboard_time": 1667484388,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 563308,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478547,
+      "num": 332033,
+      "word": "主人生娃后猫咪患上抑郁症",
+      "onboard_time": 1667486609,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -577,14 +593,6 @@
       "onboard_time": 1667478204,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 445159,
-      "num": 360870,
-      "word": "阿瑟有几分姿色",
-      "onboard_time": 1667484388,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 444524,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 429945,
-      "num": 345387,
+      "num": 382964,
       "word": "泽连斯基称胜利后想去克里米亚看海",
       "onboard_time": 1667483246,
       "rank": 49,
@@ -771,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359988,
+      "num": 330140,
+      "word": "俞灏明朱梓骁合唱让我为你唱首歌",
+      "onboard_time": 1667487687,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356025,
       "num": 333411,
       "word": "杨紫小夭抚琴六宫格剧照",
@@ -873,6 +889,14 @@
       "onboard_time": 1667481087,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317324,
+      "num": 317324,
+      "word": "加拿大一枝黄花成浙江胡羊口中美味",
+      "onboard_time": 1667487148,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316399,
@@ -1067,6 +1091,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250739,
+      "num": 196672,
+      "word": "李峋 bking",
+      "onboard_time": 1667487268,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250680,
+      "num": 190332,
+      "word": "陈飞宇终于演现偶了",
+      "onboard_time": 1667488886,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246945,
+      "num": 120208,
+      "word": "阿瑟我承认之前对你的声音大了点",
+      "onboard_time": 1667488886,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245156,
       "num": 245156,
       "word": "平顶山巨响",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1667484388,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235287,
+      "num": 235287,
+      "word": "在山东减肥很难吧",
+      "onboard_time": 1667483608,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 232874,
@@ -1195,14 +1251,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 201811,
-      "num": 201811,
-      "word": "在山东减肥很难吧",
-      "onboard_time": 1667483608,
-      "rank": 46,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "新东方烹饪学校直播招生",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1667475325,
       "rank": 19,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 190544,
+      "num": 190544,
+      "word": "人教社回应日语教材插图争议",
+      "onboard_time": 1667488108,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185976,
@@ -1387,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156582,
+      "num": 94582,
+      "word": "朴彩英Lisa唱了Jennie新歌",
+      "onboard_time": 1667489247,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155684,
       "num": 96410,
       "word": "李峋问我有短吗",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1667401408,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 137094,
+      "num": 117129,
+      "word": "许家印7亿港元山顶豪宅被接管",
+      "onboard_time": 1667488529,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 136509,
@@ -1635,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116885,
+      "num": 116885,
+      "word": "住建部官员称大规模兴建国营食堂系误读",
+      "onboard_time": 1667487869,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115951,
       "num": 84609,
       "word": "胡歌新剧沪语台词",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1667432181,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99851,
+      "num": 99851,
+      "word": "米勒娃娃预测S12决赛",
+      "onboard_time": 1667488947,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 98851,
@@ -2064,6 +2152,14 @@
       "word": "男子排尿疼痛取出鹅蛋大的结石",
       "onboard_time": 1667373806,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45885,
+      "num": 308751,
+      "word": "小伙为捐髓救1岁童每天跑1小时",
+      "onboard_time": 1667487687,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
