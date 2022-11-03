@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667441007411,
+  "endTime": 1667442917060,
   "band_list": [
     {
       "raw_hot": 1532856,
@@ -19,12 +19,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 960450,
+      "num": 960450,
+      "word": "多地回应乘火车飞机不再查核酸",
+      "onboard_time": 1667440284,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776559,
       "num": 319658,
       "word": "兰州急救中心回应三岁儿童死亡事件",
       "onboard_time": 1667400550,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 768103,
+      "num": 768103,
+      "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
+      "onboard_time": 1667440702,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 723794,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 684910,
-      "num": 360599,
+      "num": 422736,
       "word": "李一桐录跑男时牙崩了",
       "onboard_time": 1667399970,
       "rank": 11,
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 601176,
-      "num": 361812,
+      "num": 419955,
       "word": "刘强东转让所持京东产发股份",
       "onboard_time": 1667431039,
       "rank": 35,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 593945,
-      "num": 361106,
-      "word": "多地回应乘火车飞机不再查核酸",
-      "onboard_time": 1667440284,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592912,
@@ -89,6 +97,14 @@
       "onboard_time": 1667412434,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556455,
+      "num": 556455,
+      "word": "如何理解新冠肺炎是自限性疾病",
+      "onboard_time": 1667441184,
+      "rank": 5,
+      "category": "社会议题"
     },
     {
       "raw_hot": 553417,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450816,
+      "num": 450816,
+      "word": "人生大事中国台湾网飞2022热度第三",
+      "onboard_time": 1667440524,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394811,
       "num": 360028,
       "word": "苏醒晒和陈楚生合照",
@@ -155,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359649,
-      "num": 359649,
-      "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
-      "onboard_time": 1667440702,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 349671,
       "num": 349671,
       "word": "多地通知乘火车飞机不再查核酸",
@@ -177,6 +193,14 @@
       "onboard_time": 1667396548,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329810,
+      "num": 329810,
+      "word": "乔欣马思超欠观众一个红薯吻",
+      "onboard_time": 1667442203,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 319662,
@@ -211,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300799,
+      "num": 300799,
+      "word": "马斯克拟在推特裁员50%",
+      "onboard_time": 1667439084,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
       "onboard_time": 1667434527,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 280194,
-      "num": 246666,
-      "word": "人生大事中国台湾网飞2022热度第三",
-      "onboard_time": 1667440524,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 277316,
@@ -272,14 +296,6 @@
       "word": "华为",
       "onboard_time": 1667391029,
       "rank": 19,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 207629,
-      "num": 207629,
-      "word": "马斯克拟在推特裁员50%",
-      "onboard_time": 1667439084,
-      "rank": 26,
       "category": "科技"
     },
     {
@@ -339,6 +355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "11月2日新增本土无症状2669例",
+      "onboard_time": 1667441543,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "中国空间站T字基本构型组装完成",
+      "onboard_time": 1667440884,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 150387,
       "num": 150387,
       "word": "黄鼠狼估计是气死的",
@@ -353,14 +385,6 @@
       "onboard_time": 1667404468,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148053,
-      "num": 148053,
-      "word": "中国空间站T字基本构型组装完成",
-      "onboard_time": 1667440884,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 143980,
@@ -379,6 +403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 136308,
+      "num": 136308,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135353,
       "num": 135353,
       "word": "这个班应该没有人调皮吧",
@@ -393,14 +425,6 @@
       "onboard_time": 1667406143,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131506,
-      "num": 131506,
-      "word": "当代人的四大喜事",
-      "onboard_time": 1667419989,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 128750,
@@ -483,6 +507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 100559,
+      "num": 100559,
+      "word": "SEVENTEEN全员黑西装造型",
+      "onboard_time": 1667432181,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "体操世锦赛中国男团获冠军",
@@ -497,14 +529,6 @@
       "onboard_time": 1667380887,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92263,
-      "num": 92263,
-      "word": "SEVENTEEN全员黑西装造型",
-      "onboard_time": 1667432181,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 90994,
@@ -577,6 +601,14 @@
       "onboard_time": 1667378845,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 69548,
+      "num": 69548,
+      "word": "11月2日新增本土确诊531例",
+      "onboard_time": 1667441603,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68701,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 15160,
-      "num": 705559,
+      "num": 786034,
       "word": "梦天实验舱超高清发射纪实",
       "onboard_time": 1667378190,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667441007411,
+  "endTime": 1667442917060,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960450,
+      "num": 960450,
+      "word": "多地回应乘火车飞机不再查核酸",
+      "onboard_time": 1667440284,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959125,
       "num": 959125,
       "word": "北下关小学",
@@ -625,6 +633,14 @@
       "onboard_time": 1667215764,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 768103,
+      "num": 768103,
+      "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
+      "onboard_time": 1667440702,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 760862,
@@ -876,19 +892,11 @@
     },
     {
       "raw_hot": 601176,
-      "num": 361812,
+      "num": 419955,
       "word": "刘强东转让所持京东产发股份",
       "onboard_time": 1667431039,
       "rank": 35,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 593945,
-      "num": 361106,
-      "word": "多地回应乘火车飞机不再查核酸",
-      "onboard_time": 1667440284,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591470,
@@ -977,6 +985,14 @@
       "onboard_time": 1667285485,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556455,
+      "num": 556455,
+      "word": "如何理解新冠肺炎是自限性疾病",
+      "onboard_time": 1667441184,
+      "rank": 5,
+      "category": "社会议题"
     },
     {
       "raw_hot": 551555,
@@ -1224,6 +1240,14 @@
       "word": "倪妮金鸡奖最佳女主角提名",
       "onboard_time": 1667277808,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 450816,
+      "num": 450816,
+      "word": "人生大事中国台湾网飞2022热度第三",
+      "onboard_time": 1667440524,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1499,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359649,
-      "num": 359649,
-      "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
-      "onboard_time": 1667440702,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358867,
       "num": 358867,
       "word": "你能接受暧昧期多久",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1667284826,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329810,
+      "num": 329810,
+      "word": "乔欣马思超欠观众一个红薯吻",
+      "onboard_time": 1667442203,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 326824,
@@ -1827,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300799,
+      "num": 300799,
+      "word": "马斯克拟在推特裁员50%",
+      "onboard_time": 1667439084,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -1864,14 +1896,6 @@
       "word": "飞天奖红毯阵容官宣",
       "onboard_time": 1667296467,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 280194,
-      "num": 246666,
-      "word": "人生大事中国台湾网飞2022热度第三",
-      "onboard_time": 1667440524,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -2329,14 +2353,6 @@
       "onboard_time": 1667310509,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207629,
-      "num": 207629,
-      "word": "马斯克拟在推特裁员50%",
-      "onboard_time": 1667439084,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 207169,
@@ -2851,6 +2867,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "11月2日新增本土无症状2669例",
+      "onboard_time": 1667441543,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154335,
       "num": 151724,
       "word": "ITZY将12月2日回归",
@@ -2891,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "中国空间站T字基本构型组装完成",
+      "onboard_time": 1667440884,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 150893,
       "num": 150893,
       "word": "特警巧用无人机为1岁宝宝空投奶粉",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1667404468,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148053,
-      "num": 148053,
-      "word": "中国空间站T字基本构型组装完成",
-      "onboard_time": 1667440884,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 147963,
@@ -3043,6 +3067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136308,
+      "num": 136308,
+      "word": "当代人的四大喜事",
+      "onboard_time": 1667419989,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136274,
       "num": 136274,
       "word": "这减肥操懂我想要什么",
@@ -3137,14 +3169,6 @@
       "onboard_time": 1667406143,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131506,
-      "num": 131506,
-      "word": "当代人的四大喜事",
-      "onboard_time": 1667419989,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 129144,
@@ -3515,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100559,
+      "num": 100559,
+      "word": "SEVENTEEN全员黑西装造型",
+      "onboard_time": 1667432181,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100362,
       "num": 100362,
       "word": "谁教你们这么配音的",
@@ -3641,14 +3673,6 @@
       "onboard_time": 1667351907,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92263,
-      "num": 92263,
-      "word": "SEVENTEEN全员黑西装造型",
-      "onboard_time": 1667432181,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 91805,
@@ -3961,6 +3985,14 @@
       "onboard_time": 1667220025,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69548,
+      "num": 69548,
+      "word": "11月2日新增本土确诊531例",
+      "onboard_time": 1667441603,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69432,

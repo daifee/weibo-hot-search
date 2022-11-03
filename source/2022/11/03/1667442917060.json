@@ -1,0 +1,410 @@
+{
+  "runTime": 1667442917060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221460,
+        "num": 1221460,
+        "word": "韩国踩踏事故前4小时不断有人报警",
+        "onboard_time": 1667409976,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960450,
+        "num": 960450,
+        "word": "多地回应乘火车飞机不再查核酸",
+        "onboard_time": 1667440284,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9837,
+        "num": 786034,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 768103,
+        "num": 768103,
+        "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
+        "onboard_time": 1667440702,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567404,
+        "num": 567404,
+        "word": "沈月说王鹤棣和小时候长得太像了",
+        "onboard_time": 1667434406,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556455,
+        "num": 556455,
+        "word": "如何理解新冠肺炎是自限性疾病",
+        "onboard_time": 1667441184,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 481147,
+        "num": 481147,
+        "word": "宝妈带2岁儿子进女厕被骂没素质",
+        "onboard_time": 1667397446,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470725,
+        "num": 470725,
+        "word": "山西增本土确诊24例无症状112例",
+        "onboard_time": 1667437765,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450816,
+        "num": 450816,
+        "word": "人生大事中国台湾网飞2022热度第三",
+        "onboard_time": 1667440524,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422928,
+        "num": 422928,
+        "word": "女童喝奶茶咳嗽1月医生洗出3管痰絮",
+        "onboard_time": 1667403746,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493178,
+        "num": 422736,
+        "word": "李一桐录跑男时牙崩了",
+        "onboard_time": 1667399970,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434095,
+        "num": 421858,
+        "word": "杨笠 尴尬",
+        "onboard_time": 1667402607,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419955,
+        "num": 419955,
+        "word": "刘强东转让所持京东产发股份",
+        "onboard_time": 1667431039,
+        "rank": 12,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 354865,
+        "num": 354865,
+        "word": "弟弟结婚25岁单身哥哥躲后院回避",
+        "onboard_time": 1667399009,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329810,
+        "num": 329810,
+        "word": "乔欣马思超欠观众一个红薯吻",
+        "onboard_time": 1667442203,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300799,
+        "num": 300799,
+        "word": "马斯克拟在推特裁员50%",
+        "onboard_time": 1667439084,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294700,
+        "num": 294700,
+        "word": "男生买15元不限量炒酸奶叠成山",
+        "onboard_time": 1667401888,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 277197,
+        "num": 277197,
+        "word": "新疆新增无症状感染者400例",
+        "onboard_time": 1667412434,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250217,
+        "num": 250217,
+        "word": "钉钉回应女教师上网课后去世",
+        "onboard_time": 1667396548,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229433,
+        "num": 229433,
+        "word": "平顶山巨响",
+        "onboard_time": 1667431581,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268688,
+        "num": 229074,
+        "word": "苏醒晒和陈楚生合照",
+        "onboard_time": 1667440342,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239235,
+        "num": 226341,
+        "word": "兰州急救中心回应三岁儿童死亡事件",
+        "onboard_time": 1667400550,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 215958,
+        "num": 215958,
+        "word": "黑亚当",
+        "onboard_time": 1667436086,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211618,
+        "num": 211618,
+        "word": "公司恶意用100多斤硬币清偿被罚",
+        "onboard_time": 1667396668,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194899,
+        "num": 194899,
+        "word": "鸟鸟 精神走光",
+        "onboard_time": 1667402427,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186753,
+        "num": 186753,
+        "word": "广西一14岁初中生被清华录取",
+        "onboard_time": 1667414891,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 186122,
+        "num": 186122,
+        "word": "减法叠穿技巧",
+        "onboard_time": 1667434527,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175542,
+        "num": 175542,
+        "word": "英国老人吐槽现在比二战时还糟",
+        "onboard_time": 1667424310,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155373,
+        "num": 155373,
+        "word": "11月2日新增本土无症状2669例",
+        "onboard_time": 1667441543,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152892,
+        "num": 152892,
+        "word": "中国空间站T字基本构型组装完成",
+        "onboard_time": 1667440884,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 162956,
+        "num": 147460,
+        "word": "顶级东方神颜",
+        "onboard_time": 1667393608,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138673,
+        "num": 138673,
+        "word": "生机郑州全力以复",
+        "onboard_time": 1667410695,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "当代人的四大喜事",
+        "onboard_time": 1667419989,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134928,
+        "num": 134928,
+        "word": "熬夜后心脏会发生什么变化",
+        "onboard_time": 1667416452,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131283,
+        "num": 131283,
+        "word": "老师电脑故障小学生5分钟修好",
+        "onboard_time": 1667409916,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121964,
+        "num": 121964,
+        "word": "一直博北大学生涉嫌论文抄袭",
+        "onboard_time": 1667397209,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121934,
+        "num": 121934,
+        "word": "脱口秀大会 不好笑",
+        "onboard_time": 1667401224,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115892,
+        "num": 115892,
+        "word": "朱婷上场",
+        "onboard_time": 1667431942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112416,
+        "num": 112416,
+        "word": "王建国 淘汰",
+        "onboard_time": 1667407100,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106668,
+        "num": 106668,
+        "word": "重建供销社不会走老路",
+        "onboard_time": 1667399134,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102367,
+        "num": 102367,
+        "word": "黄鼠狼估计是气死的",
+        "onboard_time": 1667399849,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "SEVENTEEN全员黑西装造型",
+        "onboard_time": 1667432181,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99042,
+        "num": 99042,
+        "word": "徐志胜的大学生活",
+        "onboard_time": 1667406143,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98151,
+        "num": 98151,
+        "word": "这位插画师的绝活是捕捉可爱",
+        "onboard_time": 1667432002,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93790,
+        "num": 93790,
+        "word": "好像知道它为什么流浪了",
+        "onboard_time": 1667402966,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87611,
+        "num": 87611,
+        "word": "梨泰院事故遇难中国女孩家属发声",
+        "onboard_time": 1667369126,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87100,
+        "num": 87100,
+        "word": "体操世锦赛中国男团获冠军",
+        "onboard_time": 1667432724,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85901,
+        "num": 85901,
+        "word": "月老就差给你俩上钢筋了",
+        "onboard_time": 1667390607,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73021,
+        "num": 73021,
+        "word": "科学家发现光能穿过金属",
+        "onboard_time": 1667424552,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 69548,
+        "num": 69548,
+        "word": "11月2日新增本土确诊531例",
+        "onboard_time": 1667441603,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
