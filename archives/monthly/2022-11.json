@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667460942807,
+  "endTime": 1667464263605,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1214387,
+      "num": 1214387,
+      "word": "五哈3艺人全阵容",
+      "onboard_time": 1667462304,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1207192,
       "num": 215460,
       "word": "张大奕 凑单",
@@ -456,6 +464,14 @@
       "word": "孙怡说男人在给你画大饼",
       "onboard_time": 1667287285,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1055153,
+      "num": 1055153,
+      "word": "张杰官宣加盟令人心动的offer4",
+      "onboard_time": 1667463324,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1619,6 +1635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401963,
+      "num": 401963,
+      "word": "特警用身体当肉垫接住轻生女子",
+      "onboard_time": 1667459244,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400576,
       "num": 400576,
       "word": "暮色心约导演官宣任嘉伦杨颖主演",
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356025,
+      "num": 333411,
+      "word": "杨紫小夭抚琴六宫格剧照",
+      "onboard_time": 1667462784,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355697,
       "num": 355697,
       "word": "颜宁37岁攻克50年不解难题",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1667298388,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354998,
+      "num": 354998,
+      "word": "已经不想和没狗的说话了",
+      "onboard_time": 1667459545,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 353069,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1667349926,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347371,
+      "num": 327987,
+      "word": "迪丽热巴新剧的原声台词",
+      "onboard_time": 1667461346,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 347091,
@@ -2483,6 +2531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 238960,
+      "num": 234066,
+      "word": "长相思首版人物片花",
+      "onboard_time": 1667460925,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236386,
       "num": 233482,
       "word": "汪苏泷no拔笛",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1667381606,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235306,
+      "num": 235306,
+      "word": "兰州3岁儿童父亲拨打120时间线公布",
+      "onboard_time": 1667461764,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234581,
@@ -2553,6 +2617,14 @@
       "onboard_time": 1667211506,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232874,
+      "num": 232874,
+      "word": "中国首次航天员乘组在轨轮换",
+      "onboard_time": 1667460684,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231354,
@@ -2617,6 +2689,14 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 219724,
+      "num": 219724,
+      "word": "女子长期穿高跟鞋致双脚变形",
+      "onboard_time": 1667462842,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218838,
@@ -2843,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192969,
+      "num": 110904,
+      "word": "陈楚生害王铮亮张远被关小黑屋",
+      "onboard_time": 1667463445,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192832,
       "num": 192832,
       "word": "民政部公布10个涉嫌非法社会组织",
@@ -2873,14 +2961,6 @@
       "onboard_time": 1667308469,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188047,
-      "num": 188047,
-      "word": "特警用身体当肉垫接住轻生女子",
-      "onboard_time": 1667459244,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187966,
@@ -3113,14 +3193,6 @@
       "onboard_time": 1667410695,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167217,
-      "num": 167217,
-      "word": "已经不想和没狗的说话了",
-      "onboard_time": 1667459545,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 166891,
@@ -3385,6 +3457,14 @@
       "onboard_time": 1667293888,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147557,
+      "num": 108483,
+      "word": "郑州新冠肺炎疫情发布会",
+      "onboard_time": 1667463685,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146687,
@@ -3675,14 +3755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126754,
-      "num": 126754,
-      "word": "中国首次航天员乘组在轨轮换",
-      "onboard_time": 1667460684,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126057,
       "num": 200277,
       "word": "乔欣马思超新剧刚开播就亲上了",
@@ -3755,6 +3827,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 122284,
+      "num": 122284,
+      "word": "许昕时隔8个月重返赛场",
+      "onboard_time": 1667459364,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121950,
+      "num": 86335,
+      "word": "繁花预告质感",
+      "onboard_time": 1667463744,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
@@ -3819,19 +3907,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114233,
-      "num": 114233,
-      "word": "许昕时隔8个月重返赛场",
-      "onboard_time": 1667459364,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113855,
-      "num": 61941,
-      "word": "长相思首版人物片花",
-      "onboard_time": 1667460925,
-      "rank": 47,
+      "raw_hot": 115951,
+      "num": 84609,
+      "word": "胡歌新剧沪语台词",
+      "onboard_time": 1667463025,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -3977,6 +4057,14 @@
       "onboard_time": 1667432243,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105569,
+      "num": 105569,
+      "word": "你们是懂翻车的",
+      "onboard_time": 1667460082,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 104465,
@@ -4177,14 +4265,6 @@
       "onboard_time": 1667351907,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92523,
-      "num": 92523,
-      "word": "你们是懂翻车的",
-      "onboard_time": 1667460082,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 91961,
@@ -4531,8 +4611,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69063,
+      "num": 329926,
+      "word": "78岁大爷办瑜伽班免费教数千老人",
+      "onboard_time": 1667462483,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68958,
-      "num": 712670,
+      "num": 1072445,
       "word": "第五届进口博览会",
       "onboard_time": 1667460325,
       "rank": 2,
@@ -4545,6 +4633,14 @@
       "onboard_time": 1667208265,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66501,
+      "num": 66501,
+      "word": "热心群众撑床单接住棚顶坠落宝宝",
+      "onboard_time": 1667462124,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66138,
@@ -4956,6 +5052,9 @@
     },
     {
       "word": "#9组数字了解第五届进博会#"
+    },
+    {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1667464263605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1931362,
+        "num": 1931362,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214387,
+        "num": 1214387,
+        "word": "五哈3艺人全阵容",
+        "onboard_time": 1667462304,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59105,
+        "num": 1072445,
+        "word": "第五届进口博览会",
+        "onboard_time": 1667460325,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1055153,
+        "num": 1055153,
+        "word": "张杰官宣加盟令人心动的offer4",
+        "onboard_time": 1667463324,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554033,
+        "num": 554033,
+        "word": "华胥引又翻拍",
+        "onboard_time": 1667458345,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964473,
+        "num": 479186,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401963,
+        "num": 401963,
+        "word": "特警用身体当肉垫接住轻生女子",
+        "onboard_time": 1667459244,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358683,
+        "num": 358683,
+        "word": "路上遇车祸就地吹蜡烛庆生",
+        "onboard_time": 1667456964,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354998,
+        "num": 354998,
+        "word": "已经不想和没狗的说话了",
+        "onboard_time": 1667459545,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343051,
+        "num": 343051,
+        "word": "齐司礼",
+        "onboard_time": 1667444610,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1124521,
+        "num": 342257,
+        "word": "多家核酸检测企业应收账款超净利润",
+        "onboard_time": 1667456724,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452794,
+        "num": 339439,
+        "word": "今天官宣了好多剧",
+        "onboard_time": 1667455886,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400333,
+        "num": 335608,
+        "word": "IXFORM即将解散",
+        "onboard_time": 1667459663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356025,
+        "num": 333411,
+        "word": "杨紫小夭抚琴六宫格剧照",
+        "onboard_time": 1667462784,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69063,
+        "num": 329926,
+        "word": "78岁大爷办瑜伽班免费教数千老人",
+        "onboard_time": 1667462483,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347371,
+        "num": 327987,
+        "word": "迪丽热巴新剧的原声台词",
+        "onboard_time": 1667461346,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325182,
+        "num": 325182,
+        "word": "许昕打球",
+        "onboard_time": 1667458585,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299425,
+        "num": 299425,
+        "word": "55款侵犯个人信息APP被下架",
+        "onboard_time": 1667455106,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259963,
+        "num": 259963,
+        "word": "男生吃麻辣烫碗边抠出污垢",
+        "onboard_time": 1667445383,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235306,
+        "num": 235306,
+        "word": "兰州3岁儿童父亲拨打120时间线公布",
+        "onboard_time": 1667461764,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241018,
+        "num": 234441,
+        "word": "仙剑首发预告",
+        "onboard_time": 1667448865,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238960,
+        "num": 234066,
+        "word": "长相思首版人物片花",
+        "onboard_time": 1667460925,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232874,
+        "num": 232874,
+        "word": "中国首次航天员乘组在轨轮换",
+        "onboard_time": 1667460684,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227609,
+        "num": 227609,
+        "word": "国家一级保护动物长江鲟现身洞庭湖",
+        "onboard_time": 1667458164,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219724,
+        "num": 219724,
+        "word": "女子长期穿高跟鞋致双脚变形",
+        "onboard_time": 1667462842,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161854,
+        "num": 161854,
+        "word": "直博北大当事人回应论文抄袭",
+        "onboard_time": 1667449825,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 124265,
+        "num": 124265,
+        "word": "员工因午休玩手机音量太大被辞退",
+        "onboard_time": 1667444844,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122284,
+        "num": 122284,
+        "word": "许昕时隔8个月重返赛场",
+        "onboard_time": 1667459364,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121654,
+        "num": 121654,
+        "word": "加拿大要求三家中企剥离在加锂矿资产",
+        "onboard_time": 1667451027,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 111466,
+        "num": 111466,
+        "word": "一管血查20种癌有望成为可能",
+        "onboard_time": 1667451090,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192969,
+        "num": 110904,
+        "word": "陈楚生害王铮亮张远被关小黑屋",
+        "onboard_time": 1667463445,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151740,
+        "num": 109707,
+        "word": "令人心动的offer4建筑师季官宣",
+        "onboard_time": 1667451866,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147557,
+        "num": 108483,
+        "word": "郑州新冠肺炎疫情发布会",
+        "onboard_time": 1667463685,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146654,
+        "num": 106920,
+        "word": "黄晓明张小斐好事成双开机",
+        "onboard_time": 1667445745,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145859,
+        "num": 105762,
+        "word": "繁花",
+        "onboard_time": 1667443703,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "你们是懂翻车的",
+        "onboard_time": 1667460082,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103624,
+        "num": 103624,
+        "word": "九尾无畏双BKing同框",
+        "onboard_time": 1667458883,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 98013,
+        "word": "一团伙猎捕收售小熊猫每只35万",
+        "onboard_time": 1667449348,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89954,
+        "num": 89954,
+        "word": "iG夺冠四周年",
+        "onboard_time": 1667444783,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87140,
+        "num": 87140,
+        "word": "反对养猫的爸爸给猫咪盖被搭窝",
+        "onboard_time": 1667452767,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136952,
+        "num": 86908,
+        "word": "蔡文静自罚挖野菜100斤",
+        "onboard_time": 1667456784,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121950,
+        "num": 86335,
+        "word": "繁花预告质感",
+        "onboard_time": 1667463744,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85759,
+        "num": 85759,
+        "word": "湖人加时战胜鹈鹕",
+        "onboard_time": 1667455764,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115951,
+        "num": 84609,
+        "word": "胡歌新剧沪语台词",
+        "onboard_time": 1667463025,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83181,
+        "num": 83181,
+        "word": "爷爷日记里有孙女20年的成长",
+        "onboard_time": 1667455764,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81746,
+        "num": 81746,
+        "word": "光与夜之恋",
+        "onboard_time": 1667461346,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80248,
+        "num": 80248,
+        "word": "当代年轻人的精神状况",
+        "onboard_time": 1667446526,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74460,
+        "num": 74460,
+        "word": "父亲推脑瘫儿子跑完53次马拉松",
+        "onboard_time": 1667451628,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67396,
+        "num": 67396,
+        "word": "双十一将诞生100万拍照锦鲤",
+        "onboard_time": 1667444963,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66501,
+        "num": 66501,
+        "word": "热心群众撑床单接住棚顶坠落宝宝",
+        "onboard_time": 1667462124,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}
