@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667465165310,
+  "endTime": 1667467358883,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -163,6 +163,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 1839042,
+      "num": 1839042,
+      "word": "郑州新冠肺炎疫情发布会",
+      "onboard_time": 1667463685,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1826354,
       "num": 1535688,
       "word": "官方回应一副局长疑戴3万元耳钉",
@@ -201,6 +209,14 @@
       "onboard_time": 1667189125,
       "rank": 49,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1742179,
+      "num": 1742179,
+      "word": "庆余年2最新海报",
+      "onboard_time": 1667466024,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1698971,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768379,
+      "num": 768379,
+      "word": "iPhone14Pro满电无法开机",
+      "onboard_time": 1667464404,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 768103,
       "num": 768103,
       "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
@@ -1547,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559528,
+      "num": 391519,
+      "word": "唐嫣繁花说上海话",
+      "onboard_time": 1667465365,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558930,
       "num": 558930,
       "word": "chovy",
@@ -1571,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551119,
+      "num": 366669,
+      "word": "星汉灿烂定位是全民爆款",
+      "onboard_time": 1667465544,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547311,
       "num": 547311,
       "word": "陈飞宇张婧仪打火机与公主裙改名",
@@ -1592,14 +1632,6 @@
       "word": "澳大利亚残疾女子被迫爬下飞机",
       "onboard_time": 1667305345,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538694,
-      "num": 538694,
-      "word": "郑州新冠肺炎疫情发布会",
-      "onboard_time": 1667463685,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1632,6 +1664,14 @@
       "word": "22岁女子按摩后大面积脑梗",
       "onboard_time": 1667261724,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533954,
+      "num": 533954,
+      "word": "女子长期穿高跟鞋致双脚变形",
+      "onboard_time": 1667462842,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1824,6 +1864,14 @@
       "word": "蔡文静新剧欠四千万还被出轨",
       "onboard_time": 1667372667,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486580,
+      "num": 331346,
+      "word": "檀健次新剧掐杨紫脖子",
+      "onboard_time": 1667465964,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -2067,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432304,
+      "num": 432304,
+      "word": "杭州一程序员送女友数字口红",
+      "onboard_time": 1667465125,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429738,
       "num": 217378,
       "word": "谭松韵黑色蕾丝吊带裙",
@@ -2217,6 +2273,14 @@
       "onboard_time": 1667224167,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404069,
+      "num": 180024,
+      "word": "杨幂狐妖小红娘现代戏路透",
+      "onboard_time": 1667466262,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 403148,
@@ -2393,14 +2457,6 @@
       "onboard_time": 1667459545,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 380279,
-      "num": 380279,
-      "word": "女子长期穿高跟鞋致双脚变形",
-      "onboard_time": 1667462842,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378802,
@@ -2643,14 +2699,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 338003,
-      "num": 338003,
-      "word": "iPhone14Pro满电无法开机",
-      "onboard_time": 1667464404,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 337694,
       "num": 337694,
       "word": "迪丽热巴诉网店商家侵权获赔8万",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1667361987,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 326609,
+      "num": 326609,
+      "word": "女子无证穿高跟鞋连续2次撞同一车",
+      "onboard_time": 1667465304,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326263,
@@ -2987,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296775,
+      "num": 179217,
+      "word": "张若昀说拍了拍小范大人",
+      "onboard_time": 1667465845,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -3091,12 +3155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279542,
+      "num": 112845,
+      "word": "王鹤棣桃花坞第三季视频ID",
+      "onboard_time": 1667466385,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279374,
       "num": 279374,
       "word": "Jennie跳了Lisa的Money",
       "onboard_time": 1667216366,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 279289,
+      "num": 279289,
+      "word": "兰州3岁儿童父亲拨打120时间线公布",
+      "onboard_time": 1667461764,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278956,
@@ -3217,6 +3297,14 @@
       "onboard_time": 1667304625,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272029,
+      "num": 113165,
+      "word": "庆余年",
+      "onboard_time": 1667465905,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 270029,
@@ -3433,14 +3521,6 @@
       "onboard_time": 1667126966,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248087,
-      "num": 248087,
-      "word": "兰州3岁儿童父亲拨打120时间线公布",
-      "onboard_time": 1667461764,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246460,
@@ -4321,6 +4401,22 @@
       "onboard_time": 1667181987,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177347,
+      "num": 177347,
+      "word": "00后记者跑70公里为白血病宝宝寻药",
+      "onboard_time": 1667464524,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 177126,
+      "num": 82841,
+      "word": "藏海花",
+      "onboard_time": 1667467106,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 176078,
@@ -5315,6 +5411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121483,
+      "num": 121483,
+      "word": "郑州抗疫日记",
+      "onboard_time": 1667466745,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
@@ -5627,14 +5731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103798,
-      "num": 103798,
-      "word": "00后记者跑70公里为白血病宝宝寻药",
-      "onboard_time": 1667464524,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 103367,
       "num": 103367,
       "word": "开封一店家讲述徒步返乡人群现状",
@@ -5792,6 +5888,14 @@
       "word": "高校女生运动会穿汉服表演舞蹈",
       "onboard_time": 1667252890,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98193,
+      "num": 98193,
+      "word": "成功人士在车里躺着卷",
+      "onboard_time": 1667466925,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6139,6 +6243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83736,
+      "num": 83736,
+      "word": "红星评如何避免兰州七里河悲剧重演",
+      "onboard_time": 1667467166,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83656,
       "num": 83656,
       "word": "无畏式高颅顶发型",
@@ -6307,20 +6419,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 75159,
-      "num": 75159,
-      "word": "杭州一程序员送女友数字口红",
-      "onboard_time": 1667465125,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75158,
       "num": 75158,
       "word": "原神流浪者",
       "onboard_time": 1667215406,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75002,
+      "num": 75002,
+      "word": "这是蛋黄蛋清最新的分离方式吗",
+      "onboard_time": 1667466686,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74619,
+      "num": 74619,
+      "word": "男子持刀冲卡买奶粉家属发声",
+      "onboard_time": 1667467346,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71631,
@@ -6364,7 +6484,7 @@
     },
     {
       "raw_hot": 68958,
-      "num": 1072445,
+      "num": 1369670,
       "word": "第五届进口博览会",
       "onboard_time": 1667460325,
       "rank": 2,
