@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667506764898,
+  "endTime": 1667507642966,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -7777,6 +7777,14 @@
       "onboard_time": 1667361629,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10598,
+      "num": 10598,
+      "word": "为什么总会怀念过去",
+      "onboard_time": 1667506871,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 10081,

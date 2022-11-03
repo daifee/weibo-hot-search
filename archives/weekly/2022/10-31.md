@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/31 00:31:23 ~ 2022/11/04 04:19:24
+本榜单时间：2022/10/31 00:31:23 ~ 2022/11/04 04:34:02
 </p>
 </blockquote>
 <p>
@@ -5843,6 +5843,12 @@ MateXs2支持北斗卫星消息（热度：13818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%23" target="weibo">
 原神3.2版本更新（热度：11624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E4%BC%9A%E6%80%80%E5%BF%B5%E8%BF%87%E5%8E%BB%23" target="weibo">
+为什么总会怀念过去（热度：10598）
 </a>
 </li>
 
