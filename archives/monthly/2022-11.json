@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667511191091,
+  "endTime": 1667513962132,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -3203,6 +3203,14 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 228996,
+      "num": 228996,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227261,
       "num": 156447,
       "word": "广州今日已取消888个航班",
@@ -3673,14 +3681,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182105,
-      "num": 182105,
-      "word": "妻子连续1年为夜班丈夫做盲盒便当",
-      "onboard_time": 1667494158,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181342,
@@ -4385,6 +4385,14 @@
       "onboard_time": 1667399789,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132862,
+      "num": 85962,
+      "word": "三名男大学生校内约架被电棍击伤",
+      "onboard_time": 1667511430,
+      "rank": 10,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 132218,
@@ -5771,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52482,
+      "num": 26415,
+      "word": "郑州富士康园区最新进展",
+      "onboard_time": 1667512873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50053,
       "num": 60529,
       "word": "金鱼也盼鸬鹚能给自己个痛快的",
@@ -5867,8 +5883,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32284,
-      "num": 32284,
+      "raw_hot": 32420,
+      "num": 32420,
       "word": "男子让流浪狗点头摇头决定去留",
       "onboard_time": 1667493440,
       "rank": 48,
@@ -5939,6 +5955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21750,
+      "num": 21750,
+      "word": "能怪别人绝不怪自己",
+      "onboard_time": 1667507952,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19691,
       "num": 425141,
       "word": "一家2代7名村医守护村民50年",
@@ -5953,6 +5977,14 @@
       "onboard_time": 1667234181,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19000,
+      "num": 19000,
+      "word": "还是小时候的价格",
+      "onboard_time": 1667507770,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 18971,
@@ -5979,27 +6011,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16143,
-      "num": 16143,
-      "word": "还是小时候的价格",
-      "onboard_time": 1667507770,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 15722,
       "num": 15722,
       "word": "生活中的各种狠人",
       "onboard_time": 1667509991,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 15238,
-      "num": 15238,
-      "word": "能怪别人绝不怪自己",
-      "onboard_time": 1667507952,
-      "rank": 35,
       "category": "幽默"
     },
     {
