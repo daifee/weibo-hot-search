@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667513962132,
+  "endTime": 1667515008582,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309560,
+      "num": 309560,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301507,
       "num": 301507,
       "word": "俞灏明朱梓骁合唱让我为你唱首歌",
@@ -123,19 +131,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 245706,
+      "num": 108636,
+      "word": "三名男大学生校内约架被电棍击伤",
+      "onboard_time": 1667511430,
+      "rank": 10,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 231581,
       "num": 231581,
       "word": "男生树下刚抬头就掉下柿子砸嘴里",
       "onboard_time": 1667489725,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228996,
-      "num": 228996,
-      "word": "妻子连续1年为夜班丈夫做盲盒便当",
-      "onboard_time": 1667494158,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167954,
+      "num": 34369,
+      "word": "郑州富士康园区最新进展",
+      "onboard_time": 1667512873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152148,
       "num": 152148,
       "word": "郑州辟谣封城",
@@ -233,14 +249,6 @@
       "onboard_time": 1667481447,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132862,
-      "num": 85962,
-      "word": "三名男大学生校内约架被电棍击伤",
-      "onboard_time": 1667511430,
-      "rank": 10,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 130223,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61968,
+      "num": 61968,
+      "word": "果农收获两万斤不舍得吃大苹果",
+      "onboard_time": 1667496977,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58499,
       "num": 58499,
       "word": "男子持刀冲卡买奶粉家属发声",
@@ -395,27 +411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54540,
-      "num": 54540,
-      "word": "果农收获两万斤不舍得吃大苹果",
-      "onboard_time": 1667496977,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53354,
       "num": 53354,
       "word": "民警凭卫生纸锁定逃亡19年嫌犯",
       "onboard_time": 1667479828,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52482,
-      "num": 26415,
-      "word": "郑州富士康园区最新进展",
-      "onboard_time": 1667512873,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -451,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40124,
+      "num": 40124,
+      "word": "男子让流浪狗点头摇头决定去留",
+      "onboard_time": 1667493440,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39445,
       "num": 39445,
       "word": "你们歌手是懂超模的",
       "onboard_time": 1667498056,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39252,
+      "num": 39252,
+      "word": "一个人住可以有多爽",
+      "onboard_time": 1667502613,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 33161,
@@ -467,28 +483,20 @@
       "category": "国内要闻,科技"
     },
     {
-      "raw_hot": 32420,
-      "num": 32420,
-      "word": "男子让流浪狗点头摇头决定去留",
-      "onboard_time": 1667493440,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31172,
-      "num": 31172,
-      "word": "一个人住可以有多爽",
-      "onboard_time": 1667502613,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 28461,
       "num": 28461,
       "word": "促醒者女子24小时待机工作导致瘫痪",
       "onboard_time": 1667493561,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22948,
+      "num": 22948,
+      "word": "还是小时候的价格",
+      "onboard_time": 1667507770,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 21750,
@@ -499,28 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19000,
-      "num": 19000,
-      "word": "还是小时候的价格",
-      "onboard_time": 1667507770,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 15722,
-      "num": 15722,
-      "word": "生活中的各种狠人",
-      "onboard_time": 1667509991,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14499,
-      "num": 14499,
+      "raw_hot": 18214,
+      "num": 18214,
       "word": "为什么总会怀念过去",
       "onboard_time": 1667506871,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16623,
+      "num": 16623,
+      "word": "生活中的各种狠人",
+      "onboard_time": 1667509991,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 12309,
