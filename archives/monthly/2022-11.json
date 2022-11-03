@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667448461144,
+  "endTime": 1667450834116,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -291,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1195896,
+      "num": 1195896,
+      "word": "男生吃麻辣烫碗边抠出污垢",
+      "onboard_time": 1667445383,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189416,
       "num": 492909,
       "word": "杨紫直播状态",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045815,
+      "num": 1045815,
+      "word": "仙剑首发预告",
+      "onboard_time": 1667448865,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043920,
       "num": 241679,
       "word": "关晓彤发型",
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 987892,
-      "num": 987892,
-      "word": "男生吃麻辣烫碗边抠出污垢",
-      "onboard_time": 1667445383,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -505,6 +513,14 @@
       "onboard_time": 1667396548,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978409,
+      "num": 978409,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 960450,
@@ -601,14 +617,6 @@
       "onboard_time": 1667284106,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 872475,
-      "num": 872475,
-      "word": "齐司礼",
-      "onboard_time": 1667444610,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 866964,
@@ -801,6 +809,14 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 671276,
+      "num": 393375,
+      "word": "赵丽颖许半夏有350套服装",
+      "onboard_time": 1667448265,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 670991,
@@ -1315,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444524,
+      "num": 386381,
+      "word": "红通人员屈健玲被遣返回国",
+      "onboard_time": 1667448209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444067,
       "num": 444067,
       "word": "分手后才意识到对方的付出",
@@ -1491,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395920,
+      "num": 395920,
+      "word": "双十一将诞生100万拍照锦鲤",
+      "onboard_time": 1667444963,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394811,
       "num": 360028,
       "word": "苏醒晒和陈楚生合照",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1667278711,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370415,
-      "num": 370415,
-      "word": "赵丽颖许半夏有350套服装",
-      "onboard_time": 1667448265,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 370017,
@@ -1731,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336858,
-      "num": 336858,
-      "word": "双十一将诞生100万拍照锦鲤",
-      "onboard_time": 1667444963,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334535,
       "num": 334535,
       "word": "鹈鹕vs湖人",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1667442203,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328116,
+      "num": 328116,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 326824,
@@ -1907,6 +1931,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 307631,
+      "num": 250621,
+      "word": "王嘉尔官宣Lollapalooza音乐节",
+      "onboard_time": 1667449768,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306705,
       "num": 306705,
       "word": "四六级报名",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303329,
+      "num": 249946,
+      "word": "吴磊周雨彤爱情而已网球海报",
+      "onboard_time": 1667449586,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 300799,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1667446287,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274865,
+      "num": 274865,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274293,
@@ -2419,14 +2467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 222314,
-      "num": 222314,
-      "word": "当代年轻人的精神状况",
-      "onboard_time": 1667446526,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218838,
       "num": 218838,
       "word": "中信组团收购腾讯股份的消息不实",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1667310509,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207750,
+      "num": 207750,
+      "word": "中国算力总规模位居世界第二",
+      "onboard_time": 1667447307,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 207169,
@@ -2659,6 +2707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190052,
+      "num": 159438,
+      "word": "原来打火机与公主裙今天开播",
+      "onboard_time": 1667450607,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189976,
+      "num": 189976,
+      "word": "直博北大当事人回应论文抄袭",
+      "onboard_time": 1667449825,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 188625,
       "num": 153114,
       "word": "11月有望播出的电视剧",
@@ -2737,6 +2801,14 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181342,
+      "num": 181342,
+      "word": "萌娃写作业开小差被葡萄表情出卖",
+      "onboard_time": 1667446345,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181062,
@@ -3139,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145420,
+      "num": 145420,
+      "word": "一团伙猎捕收售小熊猫每只35万",
+      "onboard_time": 1667449348,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144485,
       "num": 144485,
       "word": "沈阳飞芜湖机票低至9元",
@@ -3177,14 +3257,6 @@
       "onboard_time": 1667285907,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141441,
-      "num": 141441,
-      "word": "是路漫漫还是路曼曼",
-      "onboard_time": 1667446887,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138214,
@@ -3459,14 +3531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119644,
-      "num": 119644,
-      "word": "萌娃写作业开小差被葡萄表情出卖",
-      "onboard_time": 1667446345,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119243,
       "num": 119243,
       "word": "103岁中医为村民免费看病80载",
@@ -3561,14 +3625,6 @@
       "onboard_time": 1667281168,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110369,
-      "num": 110369,
-      "word": "红通人员屈健玲被遣返回国",
-      "onboard_time": 1667448209,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110071,
@@ -3675,6 +3731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103962,
+      "num": 103962,
+      "word": "KPL百灵鸟齐聚发歌",
+      "onboard_time": 1667450310,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103848,
       "num": 103848,
       "word": "心动的信号5收官",
@@ -3768,14 +3832,6 @@
       "word": "空间站T字基本构型组合体将形成",
       "onboard_time": 1667258239,
       "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 96062,
-      "num": 96062,
-      "word": "中国算力总规模位居世界第二",
-      "onboard_time": 1667447307,
-      "rank": 47,
       "category": "科技,社会新闻"
     },
     {
@@ -3993,6 +4049,14 @@
       "onboard_time": 1667378608,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 84631,
+      "num": 351674,
+      "word": "六旬老农10年写30本种地日记",
+      "onboard_time": 1667448087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84158,
@@ -4497,14 +4561,6 @@
       "onboard_time": 1667421310,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14207,
-      "num": 345035,
-      "word": "六旬老农10年写30本种地日记",
-      "onboard_time": 1667448087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11624,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667448461144,
+  "endTime": 1667450834116,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -451,6 +451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1195896,
+      "num": 1195896,
+      "word": "男生吃麻辣烫碗边抠出污垢",
+      "onboard_time": 1667445383,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189416,
       "num": 492909,
       "word": "杨紫直播状态",
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045815,
+      "num": 1045815,
+      "word": "仙剑首发预告",
+      "onboard_time": 1667448865,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043920,
       "num": 241679,
       "word": "关晓彤发型",
@@ -691,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 987892,
-      "num": 987892,
-      "word": "男生吃麻辣烫碗边抠出污垢",
-      "onboard_time": 1667445383,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -713,6 +721,14 @@
       "onboard_time": 1667396548,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978409,
+      "num": 978409,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 976069,
@@ -873,14 +889,6 @@
       "onboard_time": 1667197222,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872475,
-      "num": 872475,
-      "word": "齐司礼",
-      "onboard_time": 1667444610,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 866964,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 671276,
+      "num": 393375,
+      "word": "赵丽颖许半夏有350套服装",
+      "onboard_time": 1667448265,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 670991,
@@ -1867,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444524,
+      "num": 386381,
+      "word": "红通人员屈健玲被遣返回国",
+      "onboard_time": 1667448209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444067,
       "num": 444067,
       "word": "分手后才意识到对方的付出",
@@ -2099,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395920,
+      "num": 395920,
+      "word": "双十一将诞生100万拍照锦鲤",
+      "onboard_time": 1667444963,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395670,
       "num": 348246,
       "word": "日本东京涩谷加强安保谨防踩踏事件发生",
@@ -2209,14 +2241,6 @@
       "onboard_time": 1667278711,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370415,
-      "num": 370415,
-      "word": "赵丽颖许半夏有350套服装",
-      "onboard_time": 1667448265,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 370017,
@@ -2419,14 +2443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336858,
-      "num": 336858,
-      "word": "双十一将诞生100万拍照锦鲤",
-      "onboard_time": 1667444963,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336770,
       "num": 336770,
       "word": "疯狂动物城衍生剧预告",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1667442203,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328116,
+      "num": 328116,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 327582,
@@ -2675,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307631,
+      "num": 250621,
+      "word": "王嘉尔官宣Lollapalooza音乐节",
+      "onboard_time": 1667449768,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306705,
       "num": 306705,
       "word": "四六级报名",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1667279848,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303329,
+      "num": 249946,
+      "word": "吴磊周雨彤爱情而已网球海报",
+      "onboard_time": 1667449586,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 300799,
@@ -2913,6 +2953,14 @@
       "onboard_time": 1667207066,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 274865,
+      "num": 274865,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274293,
@@ -3403,14 +3451,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 222314,
-      "num": 222314,
-      "word": "当代年轻人的精神状况",
-      "onboard_time": 1667446526,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219832,
       "num": 219832,
       "word": "为什么事故会发生在韩国梨泰院",
@@ -3489,6 +3529,14 @@
       "onboard_time": 1667310509,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207750,
+      "num": 207750,
+      "word": "中国算力总规模位居世界第二",
+      "onboard_time": 1667447307,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 207169,
@@ -3795,6 +3843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190052,
+      "num": 159438,
+      "word": "原来打火机与公主裙今天开播",
+      "onboard_time": 1667450607,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189976,
+      "num": 189976,
+      "word": "直博北大当事人回应论文抄袭",
+      "onboard_time": 1667449825,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 189774,
       "num": 163636,
       "word": "韩国踩踏事故亲历者称当时整个人都离地",
@@ -3905,6 +3969,14 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181342,
+      "num": 181342,
+      "word": "萌娃写作业开小差被葡萄表情出卖",
+      "onboard_time": 1667446345,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181062,
@@ -4419,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145420,
+      "num": 145420,
+      "word": "一团伙猎捕收售小熊猫每只35万",
+      "onboard_time": 1667449348,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145174,
       "num": 145174,
       "word": "凑单",
@@ -4489,14 +4569,6 @@
       "onboard_time": 1667285907,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141441,
-      "num": 141441,
-      "word": "是路漫漫还是路曼曼",
-      "onboard_time": 1667446887,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141096,
@@ -4915,14 +4987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119644,
-      "num": 119644,
-      "word": "萌娃写作业开小差被葡萄表情出卖",
-      "onboard_time": 1667446345,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119585,
       "num": 119585,
       "word": "SAO发售",
@@ -5075,14 +5139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110369,
-      "num": 110369,
-      "word": "红通人员屈健玲被遣返回国",
-      "onboard_time": 1667448209,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "这个锅巴看起来好好吃",
@@ -5193,6 +5249,14 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103962,
+      "num": 103962,
+      "word": "KPL百灵鸟齐聚发歌",
+      "onboard_time": 1667450310,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 103848,
@@ -5377,14 +5441,6 @@
       "onboard_time": 1667198543,
       "rank": 41,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 96062,
-      "num": 96062,
-      "word": "中国算力总规模位居世界第二",
-      "onboard_time": 1667447307,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 95214,
@@ -5665,6 +5721,14 @@
       "onboard_time": 1667201544,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 84631,
+      "num": 351674,
+      "word": "六旬老农10年写30本种地日记",
+      "onboard_time": 1667448087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84158,
@@ -6280,14 +6344,6 @@
       "word": "在沙滩屋顶看梦天发射有多沉浸",
       "onboard_time": 1667224828,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14207,
-      "num": 345035,
-      "word": "六旬老农10年写30本种地日记",
-      "onboard_time": 1667448087,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
