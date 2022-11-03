@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667500446661,
+  "endTime": 1667501377197,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -387,19 +387,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54540,
+      "num": 54540,
+      "word": "果农收获两万斤不舍得吃大苹果",
+      "onboard_time": 1667496977,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53354,
       "num": 53354,
       "word": "民警凭卫生纸锁定逃亡19年嫌犯",
       "onboard_time": 1667479828,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49797,
-      "num": 49797,
-      "word": "果农收获两万斤不舍得吃大苹果",
-      "onboard_time": 1667496977,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38238,
+      "num": 36800,
+      "word": "你们歌手是懂超模的",
+      "onboard_time": 1667498056,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 33161,
       "num": 565080,
       "word": "中国航天让神话照进现实",
@@ -449,14 +457,6 @@
       "onboard_time": 1667493440,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32114,
-      "num": 32114,
-      "word": "你们歌手是懂超模的",
-      "onboard_time": 1667498056,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 28461,
