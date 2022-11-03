@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667493263634,
+  "endTime": 1667494599976,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -25,6 +25,14 @@
       "onboard_time": 1667484148,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505809,
+      "num": 505809,
+      "word": "第一次见睡觉掉床的小狗",
+      "onboard_time": 1667490446,
+      "rank": 8,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 496076,
@@ -57,14 +65,6 @@
       "onboard_time": 1667488529,
       "rank": 7,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 434205,
-      "num": 434205,
-      "word": "第一次见睡觉掉床的小狗",
-      "onboard_time": 1667490446,
-      "rank": 8,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 386596,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 278657,
-      "num": 188001,
+      "num": 217936,
       "word": "陈飞宇终于演现偶了",
       "onboard_time": 1667488886,
       "rank": 20,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210572,
+      "num": 210572,
+      "word": "当恋爱脑女主遇上清醒女主",
+      "onboard_time": 1667492482,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208044,
       "num": 208044,
       "word": "女生收集1年掉发绑成5厘米粗马尾",
@@ -155,12 +163,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197303,
-      "num": 186874,
-      "word": "当恋爱脑女主遇上清醒女主",
-      "onboard_time": 1667492482,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 199330,
+      "num": 199330,
+      "word": "网课爆破1单收费10元以内",
+      "onboard_time": 1667492364,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 197188,
+      "num": 197188,
+      "word": "回老家租房有多爽",
+      "onboard_time": 1667491225,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 188745,
@@ -169,14 +185,6 @@
       "onboard_time": 1667474785,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187555,
-      "num": 92569,
-      "word": "回老家租房有多爽",
-      "onboard_time": 1667491225,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 185264,
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91835,
+      "num": 91835,
+      "word": "传说的裹床单都好看",
+      "onboard_time": 1667481087,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88394,
       "num": 88394,
       "word": "突然间就想通了",
@@ -283,26 +299,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78463,
-      "num": 78463,
-      "word": "网课爆破1单收费10元以内",
-      "onboard_time": 1667492364,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 75240,
-      "num": 75240,
-      "word": "传说的裹床单都好看",
-      "onboard_time": 1667481087,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73387,
       "num": 63190,
       "word": "张晚意一天内官宣两部大剧",
       "onboard_time": 1667467705,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 70805,
+      "num": 49783,
+      "word": "流浪地球2好会整活儿",
+      "onboard_time": 1667494278,
       "rank": 41,
       "category": "影视"
     },
@@ -328,6 +336,14 @@
       "word": "永辉超市包子上现活蟑螂",
       "onboard_time": 1667473109,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62353,
+      "num": 62353,
+      "word": "合肥一公园定位反串纽约意外爆火",
+      "onboard_time": 1667493381,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -395,6 +411,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 41720,
+      "num": 41720,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33161,
       "num": 565080,
       "word": "中国航天让神话照进现实",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#直击第五届进博会#"
+    },
+    {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
     }
   ]
 }
