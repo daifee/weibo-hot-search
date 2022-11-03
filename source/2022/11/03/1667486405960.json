@@ -1,0 +1,410 @@
+{
+  "runTime": 1667486405960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774609,
+        "num": 1774609,
+        "word": "国美停发员工工资",
+        "onboard_time": 1667476825,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1673417,
+        "num": 1673417,
+        "word": "审判阿瑟",
+        "onboard_time": 1667482167,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62988,
+        "num": 1180447,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 1132989,
+        "num": 1132989,
+        "word": "陈晓陈妍希幸福三重奏",
+        "onboard_time": 1667484148,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 850914,
+        "num": 850914,
+        "word": "张若昀欠下的第二季还上一部了",
+        "onboard_time": 1667469503,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623759,
+        "num": 623759,
+        "word": "入睡姿势不对可能睡出毛病",
+        "onboard_time": 1667482826,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558532,
+        "num": 558532,
+        "word": "台湾教授呼吁台湾人要觉醒",
+        "onboard_time": 1667481807,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 543767,
+        "num": 543767,
+        "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
+        "onboard_time": 1667474785,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453094,
+        "num": 453094,
+        "word": "女生收集1年掉发绑成5厘米粗马尾",
+        "onboard_time": 1667477606,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378609,
+        "num": 378609,
+        "word": "郑州辟谣封城",
+        "onboard_time": 1667478985,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445159,
+        "num": 360870,
+        "word": "阿瑟有几分姿色",
+        "onboard_time": 1667484388,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429945,
+        "num": 345387,
+        "word": "泽连斯基称胜利后想去克里米亚看海",
+        "onboard_time": 1667483246,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 414523,
+        "num": 332420,
+        "word": "金瀚金鹰节开幕式明晚见",
+        "onboard_time": 1667485350,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401163,
+        "num": 317680,
+        "word": "张婧仪新剧开播就遇前男友",
+        "onboard_time": 1667481447,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86710,
+        "num": 295345,
+        "word": "男童走失男子守护2小时等家长",
+        "onboard_time": 1667484088,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279415,
+        "num": 279415,
+        "word": "突然间就想通了",
+        "onboard_time": 1667478204,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274280,
+        "num": 274280,
+        "word": "传说的裹床单都好看",
+        "onboard_time": 1667481087,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264436,
+        "num": 264436,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 261459,
+        "num": 261459,
+        "word": "女子不想托运酒机场喝完直接被送医",
+        "onboard_time": 1667482345,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254847,
+        "num": 254847,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380487,
+        "num": 253973,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277030,
+        "num": 253536,
+        "word": "hybe将明年推出泡泡",
+        "onboard_time": 1667479884,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252994,
+        "num": 252994,
+        "word": "王鹤棣苏翊鸣合照",
+        "onboard_time": 1667484629,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 237330,
+        "num": 237330,
+        "word": "张继科预测世界杯冠军",
+        "onboard_time": 1667484388,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215926,
+        "num": 215926,
+        "word": "衢州要求高中生取得急救证书",
+        "onboard_time": 1667482648,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201811,
+        "num": 201811,
+        "word": "在山东减肥很难吧",
+        "onboard_time": 1667483608,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 185887,
+        "num": 185887,
+        "word": "永辉超市包子上现活蟑螂",
+        "onboard_time": 1667473109,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170680,
+        "num": 170680,
+        "word": "民警凭卫生纸锁定逃亡19年嫌犯",
+        "onboard_time": 1667479828,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155811,
+        "num": 155811,
+        "word": "这小夜灯也太哦耶了",
+        "onboard_time": 1667480185,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148141,
+        "num": 148141,
+        "word": "郑州本轮疫情由外地来郑货车司机引发",
+        "onboard_time": 1667469985,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236690,
+        "num": 147293,
+        "word": "扫黑行动定档",
+        "onboard_time": 1667479945,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220585,
+        "num": 143111,
+        "word": "杨紫新剧的原声台词",
+        "onboard_time": 1667481807,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219016,
+        "num": 135947,
+        "word": "网传繁花今晚空降",
+        "onboard_time": 1667477966,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215356,
+        "num": 130693,
+        "word": "迪丽热巴检察官气质",
+        "onboard_time": 1667478025,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129895,
+        "num": 129895,
+        "word": "巴基斯坦前总理伊姆兰汗中弹",
+        "onboard_time": 1667478924,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 125932,
+        "word": "战神轰6K挂弹现身珠海",
+        "onboard_time": 1667478386,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 123609,
+        "num": 123609,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112870,
+        "num": 112870,
+        "word": "女子无证穿高跟鞋连续2次撞同一车",
+        "onboard_time": 1667465304,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86190,
+        "num": 112278,
+        "word": "那些一听就有故事的名字",
+        "onboard_time": 1667484027,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196233,
+        "num": 112075,
+        "word": "马嘉祺我们的歌4要你管直拍",
+        "onboard_time": 1667482886,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169413,
+        "num": 112022,
+        "word": "唐嫣繁花说上海话",
+        "onboard_time": 1667465365,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111869,
+        "num": 111869,
+        "word": "郑州新冠肺炎疫情发布会",
+        "onboard_time": 1667463685,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103468,
+        "num": 103468,
+        "word": "女子长期穿高跟鞋致双脚变形",
+        "onboard_time": 1667462842,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100919,
+        "num": 100919,
+        "word": "女子用铁丝为断腿公鸡制做假肢",
+        "onboard_time": 1667473044,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94950,
+        "num": 94950,
+        "word": "被亲一口会害羞的狗狗",
+        "onboard_time": 1667467827,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94330,
+        "num": 94330,
+        "word": "国美电器员工回应被要求签承诺函",
+        "onboard_time": 1667485589,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85488,
+        "num": 85488,
+        "word": "杭州一程序员送女友数字口红",
+        "onboard_time": 1667465125,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79911,
+        "num": 79911,
+        "word": "当你去旱冰场滑旱冰",
+        "onboard_time": 1667484868,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63663,
+        "num": 63663,
+        "word": "郑州成立20个督导组督导小区解封情况",
+        "onboard_time": 1667474605,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}
