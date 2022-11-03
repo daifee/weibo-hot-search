@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667475287790,
+  "endTime": 1667479800031,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -177,6 +177,14 @@
       "onboard_time": 1667466024,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1832329,
+      "num": 1832329,
+      "word": "国美停发员工工资",
+      "onboard_time": 1667476825,
+      "rank": 0,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1826354,
@@ -811,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 973100,
+      "num": 973100,
+      "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
+      "onboard_time": 1667474785,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960450,
       "num": 960450,
       "word": "多地回应乘火车飞机不再查核酸",
@@ -1168,6 +1184,14 @@
       "word": "英国老人吐槽现在比二战时还糟",
       "onboard_time": 1667424310,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691587,
+      "num": 691587,
+      "word": "永辉超市包子上现活蟑螂",
+      "onboard_time": 1667473109,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2355,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406088,
+      "num": 338451,
+      "word": "女生收集1年掉发绑成5厘米粗马尾",
+      "onboard_time": 1667477606,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405861,
       "num": 405861,
       "word": "iPhone中国的周销量下降27%",
@@ -2595,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369653,
+      "num": 334758,
+      "word": "迪丽热巴检察官气质",
+      "onboard_time": 1667478025,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369434,
       "num": 369434,
       "word": "起底张庭夫妇陶虹内地资本版图",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1667308646,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358227,
+      "num": 334597,
+      "word": "网传繁花今晚空降",
+      "onboard_time": 1667477966,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 358147,
@@ -2883,6 +2931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 325102,
+      "num": 325102,
+      "word": "一口气炫完四集点燃我温暖你",
+      "onboard_time": 1667476526,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323926,
       "num": 323926,
       "word": "英雄联盟S12",
@@ -2904,14 +2960,6 @@
       "word": "网曝共享充电宝用1小时扣费99元",
       "onboard_time": 1667244910,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321661,
-      "num": 321661,
-      "word": "永辉超市包子上现活蟑螂",
-      "onboard_time": 1667473109,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3016,6 +3064,14 @@
       "word": "遭投毒百草枯女孩换肺后身体好转",
       "onboard_time": 1667136628,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312785,
+      "num": 312785,
+      "word": "郑州成立20个督导组督导小区解封情况",
+      "onboard_time": 1667474605,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3432,6 +3488,14 @@
       "word": "95后小伙花2万装修入住毛坯房",
       "onboard_time": 1667176588,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269368,
+      "num": 269368,
+      "word": "女子用铁丝为断腿公鸡制做假肢",
+      "onboard_time": 1667473044,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4307,6 +4371,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 190812,
+      "num": 190812,
+      "word": "阿里张勇说以更先进技术承担更大责任",
+      "onboard_time": 1667475325,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 190488,
       "num": 190488,
       "word": "蔡徐坤现象合作舞台播放量破亿",
@@ -4329,6 +4401,14 @@
       "onboard_time": 1667280567,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190298,
+      "num": 190298,
+      "word": "突然间就想通了",
+      "onboard_time": 1667478204,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 189774,
@@ -4579,6 +4659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173402,
+      "num": 140177,
+      "word": "巴基斯坦前总理伊姆兰汗中弹",
+      "onboard_time": 1667478924,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 173004,
       "num": 160729,
       "word": "鞠婧祎新专辑配置",
@@ -4680,6 +4768,14 @@
       "word": "BLACKPINK世巡后台合照",
       "onboard_time": 1667207305,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 166983,
+      "num": 81054,
+      "word": "邓紫棋檀健次启示录对手戏",
+      "onboard_time": 1667477546,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -5107,6 +5203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142875,
+      "num": 88705,
+      "word": "点燃我温暖你好看吗",
+      "onboard_time": 1667477662,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142421,
       "num": 134551,
       "word": "虞书欣的自由状态",
@@ -5169,6 +5273,14 @@
       "onboard_time": 1667367866,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 137809,
+      "num": 137809,
+      "word": "郑州辟谣封城",
+      "onboard_time": 1667478985,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136840,
@@ -5257,6 +5369,14 @@
       "onboard_time": 1667378608,
       "rank": 36,
       "category": "动漫,科技"
+    },
+    {
+      "raw_hot": 135256,
+      "num": 135256,
+      "word": "11月的第一杯奶茶",
+      "onboard_time": 1667476286,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 135210,
@@ -5435,20 +5555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126890,
-      "num": 126890,
-      "word": "女子用铁丝为断腿公鸡制做假肢",
-      "onboard_time": 1667473044,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126831,
       "num": 126831,
       "word": "山海情",
       "onboard_time": 1667345603,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126235,
+      "num": 126235,
+      "word": "云南一公路6.3公里路有68个弯",
+      "onboard_time": 1667475565,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126057,
@@ -5715,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113227,
+      "num": 113227,
+      "word": "战神轰6K挂弹现身珠海",
+      "onboard_time": 1667478386,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113180,
       "num": 113180,
       "word": "日本队世界杯大名单",
@@ -5785,6 +5913,14 @@
       "onboard_time": 1667313572,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "老一辈的爱情真的好甜",
+      "onboard_time": 1667478565,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 108870,
@@ -6099,14 +6235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96056,
-      "num": 96056,
-      "word": "郑州成立20个督导组督导小区解封情况",
-      "onboard_time": 1667474605,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95214,
       "num": 95214,
       "word": "打工人酒里藏了多少心事",
@@ -6265,6 +6393,14 @@
       "onboard_time": 1667465905,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89078,
+      "num": 89078,
+      "word": "啥别克要68万",
+      "onboard_time": 1667479585,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 88901,
@@ -6587,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76519,
+      "num": 76519,
+      "word": "当新疆雪岭遇上绝美金色夕阳",
+      "onboard_time": 1667477005,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76116,
       "num": 120731,
       "word": "15位青年学者获百万科研大奖",
@@ -6624,6 +6768,14 @@
       "word": "觅食刺猬拖家带口到女子家蹭饭",
       "onboard_time": 1667468245,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72632,
+      "num": 72632,
+      "word": "100秒带你数读进博会",
+      "onboard_time": 1667479525,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6673,14 +6825,6 @@
       "onboard_time": 1667460325,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 68504,
-      "num": 68504,
-      "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
-      "onboard_time": 1667474785,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66859,
@@ -7169,6 +7313,14 @@
       "onboard_time": 1667214026,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6593,
+      "num": 930924,
+      "word": "中国航天让神话照进现实",
+      "onboard_time": 1667479706,
+      "rank": 2,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 5581,
