@@ -1,0 +1,410 @@
+{
+  "runTime": 1667485424084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834895,
+        "num": 1834895,
+        "word": "审判阿瑟",
+        "onboard_time": 1667482167,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1749486,
+        "num": 1749486,
+        "word": "国美停发员工工资",
+        "onboard_time": 1667476825,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 73246,
+        "num": 1229928,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 919124,
+        "num": 919124,
+        "word": "张若昀欠下的第二季还上一部了",
+        "onboard_time": 1667469503,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 812790,
+        "num": 812790,
+        "word": "陈晓陈妍希幸福三重奏",
+        "onboard_time": 1667484148,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571376,
+        "num": 571376,
+        "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
+        "onboard_time": 1667474785,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497057,
+        "num": 497057,
+        "word": "女生收集1年掉发绑成5厘米粗马尾",
+        "onboard_time": 1667477606,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439538,
+        "num": 439538,
+        "word": "郑州辟谣封城",
+        "onboard_time": 1667478985,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399109,
+        "num": 399109,
+        "word": "入睡姿势不对可能睡出毛病",
+        "onboard_time": 1667482826,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303108,
+        "num": 303108,
+        "word": "突然间就想通了",
+        "onboard_time": 1667478204,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568786,
+        "num": 301070,
+        "word": "台湾教授呼吁台湾人要觉醒",
+        "onboard_time": 1667481807,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 426830,
+        "num": 299574,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412435,
+        "num": 296476,
+        "word": "张婧仪新剧开播就遇前男友",
+        "onboard_time": 1667481447,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401454,
+        "num": 293801,
+        "word": "金瀚金鹰节开幕式明晚见",
+        "onboard_time": 1667485350,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48275,
+        "num": 292320,
+        "word": "男童走失男子守护2小时等家长",
+        "onboard_time": 1667484088,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385333,
+        "num": 289086,
+        "word": "hybe将明年推出泡泡",
+        "onboard_time": 1667479884,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317353,
+        "num": 286365,
+        "word": "传说的裹床单都好看",
+        "onboard_time": 1667481087,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284865,
+        "num": 284865,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277953,
+        "num": 277953,
+        "word": "泽连斯基称胜利后想去克里米亚看海",
+        "onboard_time": 1667483246,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 245571,
+        "num": 245571,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 372220,
+        "num": 242564,
+        "word": "阿瑟有几分姿色",
+        "onboard_time": 1667484388,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330796,
+        "num": 240875,
+        "word": "王鹤棣苏翊鸣合照",
+        "onboard_time": 1667484629,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 236610,
+        "num": 236610,
+        "word": "民警凭卫生纸锁定逃亡19年嫌犯",
+        "onboard_time": 1667479828,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223726,
+        "num": 223726,
+        "word": "女子不想托运酒机场喝完直接被送医",
+        "onboard_time": 1667482345,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197329,
+        "num": 197329,
+        "word": "衢州要求高中生取得急救证书",
+        "onboard_time": 1667482648,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 300058,
+        "num": 197280,
+        "word": "扫黑行动定档",
+        "onboard_time": 1667479945,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197228,
+        "num": 197228,
+        "word": "永辉超市包子上现活蟑螂",
+        "onboard_time": 1667473109,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190821,
+        "num": 190821,
+        "word": "张继科预测世界杯冠军",
+        "onboard_time": 1667484388,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179723,
+        "num": 179723,
+        "word": "在山东减肥很难吧",
+        "onboard_time": 1667483608,
+        "rank": 28,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 166631,
+        "num": 166631,
+        "word": "这小夜灯也太哦耶了",
+        "onboard_time": 1667480185,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259090,
+        "num": 166243,
+        "word": "网传繁花今晚空降",
+        "onboard_time": 1667477966,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238633,
+        "num": 166023,
+        "word": "马嘉祺我们的歌4要你管直拍",
+        "onboard_time": 1667482886,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227622,
+        "num": 165943,
+        "word": "迪丽热巴检察官气质",
+        "onboard_time": 1667478025,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165583,
+        "num": 165583,
+        "word": "巴基斯坦前总理伊姆兰汗中弹",
+        "onboard_time": 1667478924,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157364,
+        "num": 157364,
+        "word": "郑州本轮疫情由外地来郑货车司机引发",
+        "onboard_time": 1667469985,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209427,
+        "num": 154495,
+        "word": "杨紫新剧的原声台词",
+        "onboard_time": 1667481807,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141180,
+        "num": 141180,
+        "word": "战神轰6K挂弹现身珠海",
+        "onboard_time": 1667478386,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 133987,
+        "num": 133987,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129881,
+        "num": 129881,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71986,
+        "num": 126399,
+        "word": "那些一听就有故事的名字",
+        "onboard_time": 1667484027,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195319,
+        "num": 125576,
+        "word": "张晚意一天内官宣两部大剧",
+        "onboard_time": 1667467705,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123791,
+        "num": 123791,
+        "word": "女子无证穿高跟鞋连续2次撞同一车",
+        "onboard_time": 1667465304,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112278,
+        "num": 112278,
+        "word": "当你去旱冰场滑旱冰",
+        "onboard_time": 1667484868,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103692,
+        "num": 103692,
+        "word": "女子用铁丝为断腿公鸡制做假肢",
+        "onboard_time": 1667473044,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100900,
+        "num": 100900,
+        "word": "杭州一程序员送女友数字口红",
+        "onboard_time": 1667465125,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96884,
+        "num": 96884,
+        "word": "女子长期穿高跟鞋致双脚变形",
+        "onboard_time": 1667462842,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95564,
+        "num": 95564,
+        "word": "郑州新冠肺炎疫情发布会",
+        "onboard_time": 1667463685,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95328,
+        "num": 95328,
+        "word": "被亲一口会害羞的狗狗",
+        "onboard_time": 1667467827,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74311,
+        "num": 74311,
+        "word": "郑州成立20个督导组督导小区解封情况",
+        "onboard_time": 1667474605,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64072,
+        "num": 64072,
+        "word": "老一辈的爱情真的好甜",
+        "onboard_time": 1667478565,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
