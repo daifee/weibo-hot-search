@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667494599976,
+  "endTime": 1667496281617,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315968,
+      "num": 315968,
+      "word": "网课爆破1单收费10元以内",
+      "onboard_time": 1667492364,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 301507,
       "num": 301507,
       "word": "俞灏明朱梓骁合唱让我为你唱首歌",
@@ -161,14 +169,6 @@
       "onboard_time": 1667488947,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199330,
-      "num": 199330,
-      "word": "网课爆破1单收费10元以内",
-      "onboard_time": 1667492364,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197188,
@@ -299,6 +299,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83436,
+      "num": 83436,
+      "word": "合肥一公园定位反串纽约意外爆火",
+      "onboard_time": 1667493381,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79702,
+      "num": 79702,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73387,
       "num": 63190,
       "word": "张晚意一天内官宣两部大剧",
@@ -336,14 +352,6 @@
       "word": "永辉超市包子上现活蟑螂",
       "onboard_time": 1667473109,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62353,
-      "num": 62353,
-      "word": "合肥一公园定位反串纽约意外爆火",
-      "onboard_time": 1667493381,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -411,12 +419,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 41720,
-      "num": 41720,
-      "word": "妻子连续1年为夜班丈夫做盲盒便当",
-      "onboard_time": 1667494158,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 42424,
+      "num": 39632,
+      "word": "hybe将明年推出泡泡",
+      "onboard_time": 1667479884,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 33161,
@@ -425,6 +433,14 @@
       "onboard_time": 1667479706,
       "rank": 2,
       "category": "国内要闻,科技"
+    },
+    {
+      "raw_hot": 26803,
+      "num": 26803,
+      "word": "男子让流浪狗点头摇头决定去留",
+      "onboard_time": 1667493440,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
