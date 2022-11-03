@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667460045043,
+  "endTime": 1667460942807,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -19,18 +19,18 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2062988,
-      "num": 1798941,
-      "word": "多家核酸检测企业应收账款超净利润",
-      "onboard_time": 1667456724,
+      "raw_hot": 2149296,
+      "num": 2149296,
+      "word": "兰州通报儿童中毒死亡事件",
+      "onboard_time": 1667457744,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1938174,
-      "num": 1938174,
-      "word": "兰州通报儿童中毒死亡事件",
-      "onboard_time": 1667457744,
+      "raw_hot": 2089902,
+      "num": 1798941,
+      "word": "多家核酸检测企业应收账款超净利润",
+      "onboard_time": 1667456724,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -107,8 +107,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 794316,
-      "num": 794316,
+      "raw_hot": 847724,
+      "num": 847724,
       "word": "华胥引又翻拍",
       "onboard_time": 1667458345,
       "rank": 4,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579975,
+      "num": 579975,
+      "word": "IXFORM即将解散",
+      "onboard_time": 1667459663,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566442,
       "num": 566442,
       "word": "令人心动的offer4建筑师季官宣",
@@ -257,6 +265,14 @@
       "onboard_time": 1667401888,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 517259,
+      "num": 517259,
+      "word": "许昕打球",
+      "onboard_time": 1667458585,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 511912,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479930,
-      "num": 479930,
-      "word": "许昕打球",
-      "onboard_time": 1667458585,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428841,
-      "num": 428841,
-      "word": "IXFORM即将解散",
-      "onboard_time": 1667459663,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421387,
       "num": 421387,
       "word": "iG夺冠四周年",
       "onboard_time": 1667444783,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 408995,
+      "num": 408995,
+      "word": "路上遇车祸就地吹蜡烛庆生",
+      "onboard_time": 1667456964,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408928,
@@ -417,14 +425,6 @@
       "onboard_time": 1667436086,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352266,
-      "num": 352266,
-      "word": "路上遇车祸就地吹蜡烛庆生",
-      "onboard_time": 1667456964,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349671,
@@ -523,6 +523,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 291127,
+      "num": 291127,
+      "word": "国家一级保护动物长江鲟现身洞庭湖",
+      "onboard_time": 1667458164,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286233,
       "num": 222714,
       "word": "欢颜全阵容官宣",
@@ -568,14 +576,6 @@
       "word": "平顶山巨响",
       "onboard_time": 1667431581,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237617,
-      "num": 237617,
-      "word": "国家一级保护动物长江鲟现身洞庭湖",
-      "onboard_time": 1667458164,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188047,
+      "num": 188047,
+      "word": "特警用身体当肉垫接住轻生女子",
+      "onboard_time": 1667459244,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185567,
       "num": 182570,
       "word": "蔡文静自罚挖野菜100斤",
@@ -723,6 +731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167217,
+      "num": 167217,
+      "word": "已经不想和没狗的说话了",
+      "onboard_time": 1667459545,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159314,
       "num": 159314,
       "word": "灼灼风流主演阵容官宣",
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 150337,
-      "num": 118099,
+      "num": 126563,
       "word": "长相思",
       "onboard_time": 1667456905,
       "rank": 40,
@@ -859,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126754,
+      "num": 126754,
+      "word": "中国首次航天员乘组在轨轮换",
+      "onboard_time": 1667460684,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124749,
+      "num": 124749,
+      "word": "九尾无畏双BKing同框",
+      "onboard_time": 1667458883,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 124541,
@@ -881,14 +913,6 @@
       "onboard_time": 1667398410,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122388,
-      "num": 122388,
-      "word": "已经不想和没狗的说话了",
-      "onboard_time": 1667459545,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 120399,
@@ -921,6 +945,14 @@
       "onboard_time": 1667459364,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113855,
+      "num": 61941,
+      "word": "长相思首版人物片花",
+      "onboard_time": 1667460925,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 112004,
@@ -963,14 +995,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "九尾无畏双BKing同框",
-      "onboard_time": 1667458883,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -995,14 +1019,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 96237,
-      "num": 96237,
-      "word": "特警用身体当肉垫接住轻生女子",
-      "onboard_time": 1667459244,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1667380887,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92523,
+      "num": 92523,
+      "word": "你们是懂翻车的",
+      "onboard_time": 1667460082,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 91961,
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68958,
+      "num": 712670,
+      "word": "第五届进口博览会",
+      "onboard_time": 1667460325,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 68701,
       "num": 68701,
       "word": "教育局确认河南女教师上网课后去世",
@@ -1187,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40045,
+      "num": 301637,
+      "word": "热心司机高速上清理危险物品",
+      "onboard_time": 1667459185,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39311,
       "num": 39311,
       "word": "Gemini澄清声明",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1667412553,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19146,
-      "num": 282115,
-      "word": "热心司机高速上清理危险物品",
-      "onboard_time": 1667459185,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16347,

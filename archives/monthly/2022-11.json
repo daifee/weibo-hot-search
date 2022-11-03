@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667460045043,
+  "endTime": 1667460942807,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2149296,
+      "num": 2149296,
+      "word": "兰州通报儿童中毒死亡事件",
+      "onboard_time": 1667457744,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2090276,
       "num": 2090276,
       "word": "多地通知乘火车飞机不再查核酸",
@@ -91,7 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2062988,
+      "raw_hot": 2089902,
       "num": 1798941,
       "word": "多家核酸检测企业应收账款超净利润",
       "onboard_time": 1667456724,
@@ -113,14 +121,6 @@
       "onboard_time": 1667309971,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1938174,
-      "num": 1938174,
-      "word": "兰州通报儿童中毒死亡事件",
-      "onboard_time": 1667457744,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1874104,
@@ -675,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847724,
+      "num": 847724,
+      "word": "华胥引又翻拍",
+      "onboard_time": 1667458345,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838783,
       "num": 838783,
       "word": "宝妈带2岁儿子进女厕被骂没素质",
       "onboard_time": 1667397446,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794316,
-      "num": 794316,
-      "word": "华胥引又翻拍",
-      "onboard_time": 1667458345,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 793830,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579975,
+      "num": 579975,
+      "word": "IXFORM即将解散",
+      "onboard_time": 1667459663,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579759,
       "num": 421071,
       "word": "富士康混乱现象是怎么造成的",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1667289207,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 517259,
+      "num": 517259,
+      "word": "许昕打球",
+      "onboard_time": 1667458585,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 516709,
@@ -1339,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479930,
-      "num": 479930,
-      "word": "许昕打球",
-      "onboard_time": 1667458585,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 478772,
       "num": 478772,
       "word": "徐志胜窝里横",
@@ -1491,14 +1499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 428841,
-      "num": 428841,
-      "word": "IXFORM即将解散",
-      "onboard_time": 1667459663,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426500,
       "num": 426500,
       "word": "河南内蒙古强调不能长期无差别封控",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1667266645,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 408995,
+      "num": 408995,
+      "word": "路上遇车祸就地吹蜡烛庆生",
+      "onboard_time": 1667456964,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408928,
@@ -1808,14 +1816,6 @@
       "word": "小偷盗窃留借条事后送上感谢金",
       "onboard_time": 1667357724,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352266,
-      "num": 352266,
-      "word": "路上遇车祸就地吹蜡烛庆生",
-      "onboard_time": 1667456964,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2137,6 +2137,14 @@
       "onboard_time": 1667434527,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 291127,
+      "num": 291127,
+      "word": "国家一级保护动物长江鲟现身洞庭湖",
+      "onboard_time": 1667458164,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287934,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 237617,
-      "num": 237617,
-      "word": "国家一级保护动物长江鲟现身洞庭湖",
-      "onboard_time": 1667458164,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236386,
@@ -2875,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188047,
+      "num": 188047,
+      "word": "特警用身体当肉垫接住轻生女子",
+      "onboard_time": 1667459244,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187966,
       "num": 187966,
       "word": "彭冠英一把拉过蔡文静猛亲",
@@ -3107,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167217,
+      "num": 167217,
+      "word": "已经不想和没狗的说话了",
+      "onboard_time": 1667459545,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166891,
       "num": 166891,
       "word": "爷爷爸爸辅导孩子数学产生分歧",
@@ -3324,7 +3340,7 @@
     },
     {
       "raw_hot": 150337,
-      "num": 118099,
+      "num": 126563,
       "word": "长相思",
       "onboard_time": 1667456905,
       "rank": 40,
@@ -3659,12 +3675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126754,
+      "num": 126754,
+      "word": "中国首次航天员乘组在轨轮换",
+      "onboard_time": 1667460684,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126057,
       "num": 200277,
       "word": "乔欣马思超新剧刚开播就亲上了",
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124749,
+      "num": 124749,
+      "word": "九尾无畏双BKing同框",
+      "onboard_time": 1667458883,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 124633,
@@ -3705,14 +3737,6 @@
       "onboard_time": 1667307447,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122388,
-      "num": 122388,
-      "word": "已经不想和没狗的说话了",
-      "onboard_time": 1667459545,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 122369,
@@ -3801,6 +3825,14 @@
       "onboard_time": 1667459364,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113855,
+      "num": 61941,
+      "word": "长相思首版人物片花",
+      "onboard_time": 1667460925,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 113623,
@@ -3963,14 +3995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "九尾无畏双BKing同框",
-      "onboard_time": 1667458883,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 103848,
       "num": 103848,
       "word": "心动的信号5收官",
@@ -4075,14 +4099,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 96237,
-      "num": 96237,
-      "word": "特警用身体当肉垫接住轻生女子",
-      "onboard_time": 1667459244,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -4161,6 +4177,14 @@
       "onboard_time": 1667351907,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92523,
+      "num": 92523,
+      "word": "你们是懂翻车的",
+      "onboard_time": 1667460082,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 91961,
@@ -4507,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68958,
+      "num": 712670,
+      "word": "第五届进口博览会",
+      "onboard_time": 1667460325,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 67777,
       "num": 67777,
       "word": "YG新女团BabyMonster将于明年出道",
@@ -4755,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40045,
+      "num": 301637,
+      "word": "热心司机高速上清理危险物品",
+      "onboard_time": 1667459185,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40036,
       "num": 2077381,
       "word": "十年百变",
@@ -4833,14 +4873,6 @@
       "onboard_time": 1667234181,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19146,
-      "num": 282115,
-      "word": "热心司机高速上清理危险物品",
-      "onboard_time": 1667459185,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16641,
