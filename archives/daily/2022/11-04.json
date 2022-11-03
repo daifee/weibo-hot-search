@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667501377197,
+  "endTime": 1667503041813,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -435,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38238,
-      "num": 36800,
+      "raw_hot": 39445,
+      "num": 39445,
       "word": "你们歌手是懂超模的",
       "onboard_time": 1667498056,
       "rank": 29,
@@ -465,6 +465,14 @@
       "onboard_time": 1667493561,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11879,
+      "num": 11879,
+      "word": "一个人住可以有多爽",
+      "onboard_time": 1667502613,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

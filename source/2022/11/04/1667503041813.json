@@ -1,0 +1,410 @@
+{
+  "runTime": 1667503041813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 106070,
+        "num": 106070,
+        "word": "妻子连续1年为夜班丈夫做盲盒便当",
+        "onboard_time": 1667494158,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86525,
+        "num": 86525,
+        "word": "入睡姿势不对可能睡出毛病",
+        "onboard_time": 1667482826,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9979,
+        "num": 83961,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 83947,
+        "num": 83947,
+        "word": "国美停发员工工资",
+        "onboard_time": 1667476825,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 76207,
+        "num": 76207,
+        "word": "网课爆破1单收费10元以内",
+        "onboard_time": 1667492364,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 73568,
+        "num": 73568,
+        "word": "陈晓陈妍希幸福三重奏",
+        "onboard_time": 1667484148,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69530,
+        "num": 69530,
+        "word": "阿瑟我承认之前对你的声音大了点",
+        "onboard_time": 1667488886,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59811,
+        "num": 59811,
+        "word": "许家印7亿港元山顶豪宅被接管",
+        "onboard_time": 1667488529,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 61849,
+        "num": 56867,
+        "word": "审判阿瑟",
+        "onboard_time": 1667482167,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50723,
+        "num": 50723,
+        "word": "第一次见睡觉掉床的小狗",
+        "onboard_time": 1667490446,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 53165,
+        "num": 50523,
+        "word": "回老家租房有多爽",
+        "onboard_time": 1667491225,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48288,
+        "num": 48288,
+        "word": "男生树下刚抬头就掉下柿子砸嘴里",
+        "onboard_time": 1667489725,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44965,
+        "num": 44965,
+        "word": "果农收获两万斤不舍得吃大苹果",
+        "onboard_time": 1667496977,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43109,
+        "num": 43109,
+        "word": "男子吃馄饨被拉走餐车变观光巴士",
+        "onboard_time": 1667489487,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40617,
+        "num": 40617,
+        "word": "主人生娃后猫咪患上抑郁症",
+        "onboard_time": 1667486609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40580,
+        "num": 40580,
+        "word": "张若昀欠下的第二季还上一部了",
+        "onboard_time": 1667469503,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39445,
+        "num": 39445,
+        "word": "你们歌手是懂超模的",
+        "onboard_time": 1667498056,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36230,
+        "num": 36230,
+        "word": "陈飞宇终于演现偶了",
+        "onboard_time": 1667488886,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33178,
+        "num": 33178,
+        "word": "泽连斯基称胜利后想去克里米亚看海",
+        "onboard_time": 1667483246,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30295,
+        "num": 30295,
+        "word": "合肥一公园定位反串纽约意外爆火",
+        "onboard_time": 1667493381,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34293,
+        "num": 30094,
+        "word": "当恋爱脑女主遇上清醒女主",
+        "onboard_time": 1667492482,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29775,
+        "num": 29775,
+        "word": "台湾教授呼吁台湾人要觉醒",
+        "onboard_time": 1667481807,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 29314,
+        "num": 29314,
+        "word": "阿瑟有几分姿色",
+        "onboard_time": 1667484388,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25158,
+        "num": 25158,
+        "word": "郑州辟谣封城",
+        "onboard_time": 1667478985,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24623,
+        "num": 24623,
+        "word": "女生收集1年掉发绑成5厘米粗马尾",
+        "onboard_time": 1667477606,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22972,
+        "num": 22972,
+        "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
+        "onboard_time": 1667474785,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22534,
+        "num": 22534,
+        "word": "人教社回应日语教材插图争议",
+        "onboard_time": 1667488108,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 22261,
+        "num": 22261,
+        "word": "米勒娃娃预测S12决赛",
+        "onboard_time": 1667488947,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21950,
+        "num": 21950,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21645,
+        "num": 21645,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21661,
+        "num": 21614,
+        "word": "张婧仪新剧开播就遇前男友",
+        "onboard_time": 1667481447,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20305,
+        "num": 20305,
+        "word": "朴彩英Lisa唱了Jennie新歌",
+        "onboard_time": 1667489247,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19248,
+        "num": 19248,
+        "word": "俞灏明朱梓骁合唱让我为你唱首歌",
+        "onboard_time": 1667487687,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18577,
+        "num": 18577,
+        "word": "突然间就想通了",
+        "onboard_time": 1667478204,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18563,
+        "num": 18563,
+        "word": "郑州本轮疫情由外地来郑货车司机引发",
+        "onboard_time": 1667469985,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18558,
+        "num": 18558,
+        "word": "加拿大一枝黄花成浙江胡羊口中美味",
+        "onboard_time": 1667487148,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17535,
+        "num": 17535,
+        "word": "hybe将明年推出泡泡",
+        "onboard_time": 1667479884,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17203,
+        "num": 17203,
+        "word": "男子让流浪狗点头摇头决定去留",
+        "onboard_time": 1667493440,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15556,
+        "num": 15556,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15183,
+        "num": 15183,
+        "word": "在山东减肥很难吧",
+        "onboard_time": 1667483608,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 14570,
+        "num": 14570,
+        "word": "永辉超市包子上现活蟑螂",
+        "onboard_time": 1667473109,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14199,
+        "num": 14199,
+        "word": "女子不想托运酒机场喝完直接被送医",
+        "onboard_time": 1667482345,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14043,
+        "num": 14043,
+        "word": "住建部官员称大规模兴建国营食堂系误读",
+        "onboard_time": 1667487869,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14006,
+        "num": 14006,
+        "word": "王鹤棣苏翊鸣合照",
+        "onboard_time": 1667484629,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 13861,
+        "num": 13861,
+        "word": "战神轰6K挂弹现身珠海",
+        "onboard_time": 1667478386,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 13588,
+        "num": 13588,
+        "word": "民警凭卫生纸锁定逃亡19年嫌犯",
+        "onboard_time": 1667479828,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13293,
+        "num": 13293,
+        "word": "迪丽热巴检察官气质",
+        "onboard_time": 1667478025,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13215,
+        "num": 13215,
+        "word": "这小夜灯也太哦耶了",
+        "onboard_time": 1667480185,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13062,
+        "num": 13062,
+        "word": "张继科预测世界杯冠军",
+        "onboard_time": 1667484388,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11879,
+        "num": 11879,
+        "word": "一个人住可以有多爽",
+        "onboard_time": 1667502613,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
