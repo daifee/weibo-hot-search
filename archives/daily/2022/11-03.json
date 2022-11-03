@@ -1,7 +1,15 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667442917060,
+  "endTime": 1667447811991,
   "band_list": [
+    {
+      "raw_hot": 1545078,
+      "num": 1545078,
+      "word": "员工因午休玩手机音量太大被辞退",
+      "onboard_time": 1667444844,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1532856,
       "num": 1532856,
@@ -19,11 +27,51 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1188046,
+      "num": 1188046,
+      "word": "繁花",
+      "onboard_time": 1667443703,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960450,
       "num": 960450,
       "word": "多地回应乘火车飞机不再查核酸",
       "onboard_time": 1667440284,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898771,
+      "num": 898771,
+      "word": "黄晓明张小斐好事成双开机",
+      "onboard_time": 1667445745,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 872475,
+      "num": 872475,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 856483,
+      "num": 534663,
+      "word": "于正说很喜欢娜扎很好的女孩",
+      "onboard_time": 1667446406,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 787252,
+      "num": 787252,
+      "word": "男生吃麻辣烫碗边抠出污垢",
+      "onboard_time": 1667445383,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -75,6 +123,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668342,
+      "num": 668342,
+      "word": "如何理解新冠肺炎是自限性疾病",
+      "onboard_time": 1667441184,
+      "rank": 5,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 661238,
+      "num": 661238,
+      "word": "2023鹅厂片单",
+      "onboard_time": 1667446225,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601176,
       "num": 419955,
       "word": "刘强东转让所持京东产发股份",
@@ -97,14 +161,6 @@
       "onboard_time": 1667412434,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556455,
-      "num": 556455,
-      "word": "如何理解新冠肺炎是自限性疾病",
-      "onboard_time": 1667441184,
-      "rank": 5,
-      "category": "社会议题"
     },
     {
       "raw_hot": 553417,
@@ -139,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481676,
+      "num": 481676,
+      "word": "迪丽热巴公诉精英角色适配度",
+      "onboard_time": 1667445804,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
       "onboard_time": 1667440524,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421387,
+      "num": 421387,
+      "word": "iG夺冠四周年",
+      "onboard_time": 1667444783,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 394811,
@@ -185,6 +257,22 @@
       "onboard_time": 1667384545,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336858,
+      "num": 336858,
+      "word": "双十一将诞生100万拍照锦鲤",
+      "onboard_time": 1667444963,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334535,
+      "num": 334535,
+      "word": "鹈鹕vs湖人",
+      "onboard_time": 1667446162,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 331457,
@@ -251,12 +339,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 286233,
+      "num": 196614,
+      "word": "欢颜全阵容官宣",
+      "onboard_time": 1667444605,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277316,
       "num": 277316,
       "word": "俄外交部发布阻止核战争的声明",
       "onboard_time": 1667400329,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 265596,
+      "num": 196192,
+      "word": "蔡徐坤奔跑吧接喜糖",
+      "onboard_time": 1667446287,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 257700,
@@ -307,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197422,
+      "num": 197422,
+      "word": "新东方烹饪学校直播招生",
+      "onboard_time": 1667444243,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195292,
       "num": 195292,
       "word": "老师电脑故障小学生5分钟修好",
@@ -323,11 +435,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181062,
+      "num": 149646,
+      "word": "胡歌繁花单人海报",
+      "onboard_time": 1667447186,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173212,
       "num": 173212,
       "word": "一直博北大学生涉嫌论文抄袭",
       "onboard_time": 1667397209,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171430,
+      "num": 171430,
+      "word": "11月2日新增本土无症状2669例",
+      "onboard_time": 1667441543,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -347,20 +475,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161304,
+      "num": 161304,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "朱婷上场",
       "onboard_time": 1667431942,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155373,
-      "num": 155373,
-      "word": "11月2日新增本土无症状2669例",
-      "onboard_time": 1667441543,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152892,
@@ -491,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107048,
+      "num": 107048,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106406,
       "num": 106406,
       "word": "Edaily",
@@ -515,12 +651,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100094,
+      "num": 100094,
+      "word": "萌娃写作业开小差被葡萄表情出卖",
+      "onboard_time": 1667446345,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "体操世锦赛中国男团获冠军",
       "onboard_time": 1667432724,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96062,
+      "num": 96062,
+      "word": "中国算力总规模位居世界第二",
+      "onboard_time": 1667447307,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 94326,
@@ -545,6 +697,14 @@
       "onboard_time": 1667406682,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88693,
+      "num": 88693,
+      "word": "第五人格",
+      "onboard_time": 1667447727,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 85980,
@@ -692,7 +852,7 @@
     },
     {
       "raw_hot": 15160,
-      "num": 786034,
+      "num": 986595,
       "word": "梦天实验舱超高清发射纪实",
       "onboard_time": 1667378190,
       "rank": 2,
