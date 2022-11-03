@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667450834116,
+  "endTime": 1667451616254,
   "band_list": [
     {
       "raw_hot": 1652903,
@@ -17,6 +17,14 @@
       "onboard_time": 1667409976,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1441545,
+      "num": 1441545,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1231771,
@@ -43,20 +51,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1045815,
-      "num": 1045815,
+      "raw_hot": 1121306,
+      "num": 1121306,
       "word": "仙剑首发预告",
       "onboard_time": 1667448865,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 978409,
-      "num": 978409,
-      "word": "齐司礼",
-      "onboard_time": 1667444610,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 960450,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 671276,
-      "num": 393375,
+      "num": 614342,
       "word": "赵丽颖许半夏有350套服装",
       "onboard_time": 1667448265,
       "rank": 13,
@@ -259,6 +259,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389503,
+      "num": 389503,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 385236,
+      "num": 385236,
+      "word": "直博北大当事人回应论文抄袭",
+      "onboard_time": 1667449825,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 375482,
       "num": 375482,
       "word": "公司恶意用100多斤硬币清偿被罚",
@@ -315,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328116,
-      "num": 328116,
-      "word": "当代年轻人的精神状况",
-      "onboard_time": 1667446526,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 319662,
       "num": 319662,
       "word": "女子戒糖戒奶茶1年后变白变年轻",
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313841,
+      "num": 313841,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311175,
       "num": 311175,
       "word": "顶级东方神颜",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 307631,
-      "num": 250621,
+      "num": 305361,
       "word": "王嘉尔官宣Lollapalooza音乐节",
       "onboard_time": 1667449768,
       "rank": 21,
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283072,
+      "num": 283072,
+      "word": "原来打火机与公主裙今天开播",
+      "onboard_time": 1667450607,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277316,
       "num": 277316,
       "word": "俄外交部发布阻止核战争的声明",
@@ -409,14 +433,6 @@
       "onboard_time": 1667446287,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274865,
-      "num": 274865,
-      "word": "是路漫漫还是路曼曼",
-      "onboard_time": 1667446887,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257700,
@@ -499,20 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190052,
-      "num": 159438,
-      "word": "原来打火机与公主裙今天开播",
-      "onboard_time": 1667450607,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189976,
-      "num": 189976,
-      "word": "直博北大当事人回应论文抄袭",
-      "onboard_time": 1667449825,
-      "rank": 27,
-      "category": "社会新闻,教育"
+      "raw_hot": 193980,
+      "num": 193980,
+      "word": "一团伙猎捕收售小熊猫每只35万",
+      "onboard_time": 1667449348,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181342,
@@ -563,6 +571,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 160729,
+      "num": 160729,
+      "word": "鞠婧祎新专辑配置",
+      "onboard_time": 1667448806,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 159314,
+      "num": 159314,
+      "word": "灼灼风流主演阵容官宣",
+      "onboard_time": 1667450727,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "朱婷上场",
@@ -593,14 +617,6 @@
       "onboard_time": 1667404468,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145420,
-      "num": 145420,
-      "word": "一团伙猎捕收售小熊猫每只35万",
-      "onboard_time": 1667449348,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143980,
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124095,
+      "num": 124095,
+      "word": "一管血查20种癌有望成为可能",
+      "onboard_time": 1667451090,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123396,
       "num": 123396,
       "word": "阿凡达2正式预告",
@@ -707,6 +731,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 111816,
+      "num": 111816,
+      "word": "KPL百灵鸟齐聚发歌",
+      "onboard_time": 1667450310,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108768,
       "num": 108768,
       "word": "好像知道它为什么流浪了",
@@ -731,14 +763,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 103962,
-      "num": 103962,
-      "word": "KPL百灵鸟齐聚发歌",
-      "onboard_time": 1667450310,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -753,6 +777,22 @@
       "onboard_time": 1667432724,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96266,
+      "num": 96266,
+      "word": "加拿大要求三家中企剥离在加锂矿资产",
+      "onboard_time": 1667451027,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 96214,
+      "num": 351674,
+      "word": "六旬老农10年写30本种地日记",
+      "onboard_time": 1667448087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94326,
@@ -785,14 +825,6 @@
       "onboard_time": 1667431641,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84631,
-      "num": 351674,
-      "word": "六旬老农10年写30本种地日记",
-      "onboard_time": 1667448087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82248,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 15160,
-      "num": 1067736,
+      "num": 1273961,
       "word": "梦天实验舱超高清发射纪实",
       "onboard_time": 1667378190,
       "rank": 2,

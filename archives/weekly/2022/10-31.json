@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667450834116,
+  "endTime": 1667451616254,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1441545,
+      "num": 1441545,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1437072,
       "num": 1105567,
       "word": "飞天奖获奖名单",
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121306,
+      "num": 1121306,
+      "word": "仙剑首发预告",
+      "onboard_time": 1667448865,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1116856,
       "num": 521044,
       "word": "杨幂在用生发液",
@@ -627,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1045815,
-      "num": 1045815,
-      "word": "仙剑首发预告",
-      "onboard_time": 1667448865,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1043920,
       "num": 241679,
       "word": "关晓彤发型",
@@ -721,14 +729,6 @@
       "onboard_time": 1667396548,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978409,
-      "num": 978409,
-      "word": "齐司礼",
-      "onboard_time": 1667444610,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 976069,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 671276,
-      "num": 393375,
+      "num": 614342,
       "word": "赵丽颖许半夏有350套服装",
       "onboard_time": 1667448265,
       "rank": 13,
@@ -2171,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389503,
+      "num": 389503,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388782,
       "num": 388782,
       "word": "小伙教老人手机买菜中了一辆车",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1667314953,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 385236,
+      "num": 385236,
+      "word": "直博北大当事人回应论文抄袭",
+      "onboard_time": 1667449825,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 384511,
@@ -2499,14 +2515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328116,
-      "num": 328116,
-      "word": "当代年轻人的精神状况",
-      "onboard_time": 1667446526,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 327582,
       "num": 327582,
       "word": "研究称大脑只剩一半也能识字辨人",
@@ -2627,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313841,
+      "num": 313841,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313809,
       "num": 313809,
       "word": "遭投毒百草枯女孩换肺后身体好转",
@@ -2700,7 +2716,7 @@
     },
     {
       "raw_hot": 307631,
-      "num": 250621,
+      "num": 305361,
       "word": "王嘉尔官宣Lollapalooza音乐节",
       "onboard_time": 1667449768,
       "rank": 21,
@@ -2851,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283072,
+      "num": 283072,
+      "word": "原来打火机与公主裙今天开播",
+      "onboard_time": 1667450607,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280891,
       "num": 208676,
       "word": "VLIVE将于12月31日起停止所有服务",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1667207066,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 274865,
-      "num": 274865,
-      "word": "是路漫漫还是路曼曼",
-      "onboard_time": 1667446887,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274293,
@@ -3779,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193980,
+      "num": 193980,
+      "word": "一团伙猎捕收售小熊猫每只35万",
+      "onboard_time": 1667449348,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193636,
       "num": 193636,
       "word": "双十一",
@@ -3841,22 +3865,6 @@
       "onboard_time": 1667280567,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190052,
-      "num": 159438,
-      "word": "原来打火机与公主裙今天开播",
-      "onboard_time": 1667450607,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189976,
-      "num": 189976,
-      "word": "直博北大当事人回应论文抄袭",
-      "onboard_time": 1667449825,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189774,
@@ -4259,12 +4267,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160729,
+      "num": 160729,
+      "word": "鞠婧祎新专辑配置",
+      "onboard_time": 1667448806,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159346,
       "num": 159346,
       "word": "和朋友话最少的一次见面",
       "onboard_time": 1667178927,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159314,
+      "num": 159314,
+      "word": "灼灼风流主演阵容官宣",
+      "onboard_time": 1667450727,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 159227,
@@ -4488,14 +4512,6 @@
       "word": "76岁老人花55年养珍珠",
       "onboard_time": 1667269164,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145420,
-      "num": 145420,
-      "word": "一团伙猎捕收售小熊猫每只35万",
-      "onboard_time": 1667449348,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4907,6 +4923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124095,
+      "num": 124095,
+      "word": "一管血查20种癌有望成为可能",
+      "onboard_time": 1667451090,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123297,
       "num": 123297,
       "word": "女生运动会扮七仙女惊艳全场",
@@ -5123,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111816,
+      "num": 111816,
+      "word": "KPL百灵鸟齐聚发歌",
+      "onboard_time": 1667450310,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111600,
       "num": 111600,
       "word": "进一步规范明星广告代言活动",
@@ -5249,14 +5281,6 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103962,
-      "num": 103962,
-      "word": "KPL百灵鸟齐聚发歌",
-      "onboard_time": 1667450310,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 103848,
@@ -5441,6 +5465,22 @@
       "onboard_time": 1667198543,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 96266,
+      "num": 96266,
+      "word": "加拿大要求三家中企剥离在加锂矿资产",
+      "onboard_time": 1667451027,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 96214,
+      "num": 351674,
+      "word": "六旬老农10年写30本种地日记",
+      "onboard_time": 1667448087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95214,
@@ -5721,14 +5761,6 @@
       "onboard_time": 1667201544,
       "rank": 45,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 84631,
-      "num": 351674,
-      "word": "六旬老农10年写30本种地日记",
-      "onboard_time": 1667448087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84158,
