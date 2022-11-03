@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667479800031,
+  "endTime": 1667481100480,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2194596,
+      "num": 2194596,
+      "word": "国美停发员工工资",
+      "onboard_time": 1667476825,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2149296,
       "num": 2149296,
       "word": "兰州通报儿童中毒死亡事件",
@@ -145,14 +153,6 @@
       "onboard_time": 1667466024,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1832329,
-      "num": 1832329,
-      "word": "国美停发员工工资",
-      "onboard_time": 1667476825,
-      "rank": 0,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1815034,
@@ -995,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657725,
+      "num": 399307,
+      "word": "hybe将明年推出泡泡",
+      "onboard_time": 1667479884,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654608,
       "num": 654608,
       "word": "苹果或被强制开放第三方APP",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1667218764,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 622692,
+      "num": 622692,
+      "word": "女生收集1年掉发绑成5厘米粗马尾",
+      "onboard_time": 1667477606,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620438,
@@ -1451,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495181,
+      "num": 495181,
+      "word": "郑州辟谣封城",
+      "onboard_time": 1667478985,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494422,
       "num": 494422,
       "word": "福州地铁",
@@ -1731,6 +1755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415559,
+      "num": 415559,
+      "word": "网传繁花今晚空降",
+      "onboard_time": 1667477966,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414527,
       "num": 414527,
       "word": "俄外交部发布阻止核战争的声明",
@@ -1793,14 +1825,6 @@
       "onboard_time": 1667366846,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406088,
-      "num": 338451,
-      "word": "女生收集1年掉发绑成5厘米粗马尾",
-      "onboard_time": 1667477606,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405861,
@@ -1971,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370014,
+      "num": 370014,
+      "word": "一口气炫完四集点燃我温暖你",
+      "onboard_time": 1667476526,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369653,
       "num": 334758,
       "word": "迪丽热巴检察官气质",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1667308646,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 358227,
-      "num": 334597,
-      "word": "网传繁花今晚空降",
-      "onboard_time": 1667477966,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 357725,
@@ -2211,14 +2235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 325102,
-      "num": 325102,
-      "word": "一口气炫完四集点燃我温暖你",
-      "onboard_time": 1667476526,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323926,
       "num": 323926,
       "word": "英雄联盟S12",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1667465845,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 316069,
+      "num": 316069,
+      "word": "巴基斯坦前总理伊姆兰汗中弹",
+      "onboard_time": 1667478924,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 315935,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1667302584,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304743,
+      "num": 304743,
+      "word": "突然间就想通了",
+      "onboard_time": 1667478204,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 303955,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1667266886,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262631,
+      "num": 131871,
+      "word": "扫黑行动定档",
+      "onboard_time": 1667479945,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 261771,
@@ -3267,14 +3307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190298,
-      "num": 190298,
-      "word": "突然间就想通了",
-      "onboard_time": 1667478204,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188625,
       "num": 153114,
       "word": "11月有望播出的电视剧",
@@ -3467,14 +3499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173402,
-      "num": 140177,
-      "word": "巴基斯坦前总理伊姆兰汗中弹",
-      "onboard_time": 1667478924,
-      "rank": 32,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 173004,
       "num": 160729,
       "word": "鞠婧祎新专辑配置",
@@ -3529,6 +3553,14 @@
       "onboard_time": 1667283806,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168485,
+      "num": 127483,
+      "word": "战神轰6K挂弹现身珠海",
+      "onboard_time": 1667478386,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 168475,
@@ -3705,6 +3737,14 @@
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 155684,
+      "num": 96410,
+      "word": "李峋问我有短吗",
+      "onboard_time": 1667480663,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 154335,
@@ -3913,14 +3953,6 @@
       "onboard_time": 1667367866,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 137809,
-      "num": 137809,
-      "word": "郑州辟谣封城",
-      "onboard_time": 1667478985,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136749,
@@ -4339,14 +4371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113227,
-      "num": 113227,
-      "word": "战神轰6K挂弹现身珠海",
-      "onboard_time": 1667478386,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 113180,
       "num": 113180,
       "word": "日本队世界杯大名单",
@@ -4499,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104726,
+      "num": 104726,
+      "word": "永辉超市多次因食品问题被罚",
+      "onboard_time": 1667480427,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104465,
       "num": 61451,
       "word": "一套动作保护颈椎健康",
@@ -4619,11 +4651,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 96242,
+      "num": 96242,
+      "word": "啥别克要68万",
+      "onboard_time": 1667479585,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
       "onboard_time": 1667448087,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95427,
+      "num": 95427,
+      "word": "民警凭卫生纸锁定逃亡19年嫌犯",
+      "onboard_time": 1667479828,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4723,6 +4771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 91133,
+      "num": 91133,
+      "word": "熊猫宝宝学走路第一步是游旱泳",
+      "onboard_time": 1667480006,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90960,
       "num": 90960,
       "word": "步行者vs篮网",
@@ -4763,14 +4819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89078,
-      "num": 89078,
-      "word": "啥别克要68万",
-      "onboard_time": 1667479585,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 88862,
       "num": 329926,
       "word": "78岁大爷办瑜伽班免费教数千老人",
@@ -4801,6 +4849,14 @@
       "onboard_time": 1667262806,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87418,
+      "num": 87418,
+      "word": "美术老师的粉笔画会发光",
+      "onboard_time": 1667480845,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 87384,
@@ -4912,6 +4968,14 @@
       "word": "知情人士透露颜宁回国打算",
       "onboard_time": 1667315372,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82935,
+      "num": 82935,
+      "word": "这小夜灯也太哦耶了",
+      "onboard_time": 1667480185,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5049,6 +5113,14 @@
       "onboard_time": 1667468245,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73267,
+      "num": 73267,
+      "word": "传说的裹床单都好看",
+      "onboard_time": 1667481087,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 72632,
@@ -5331,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51059,
+      "num": 930924,
+      "word": "中国航天让神话照进现实",
+      "onboard_time": 1667479706,
+      "rank": 2,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 50053,
       "num": 60529,
       "word": "金鱼也盼鸬鹚能给自己个痛快的",
@@ -5475,6 +5555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18971,
+      "num": 305712,
+      "word": "那些逢人必推的百科全书",
+      "onboard_time": 1667476825,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16641,
       "num": 16641,
       "word": "十一月第一条微博",
@@ -5513,14 +5601,6 @@
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 6593,
-      "num": 930924,
-      "word": "中国航天让神话照进现实",
-      "onboard_time": 1667479706,
-      "rank": 2,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 5581,
