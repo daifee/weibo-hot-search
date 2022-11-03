@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667457995689,
+  "endTime": 1667460045043,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -17,6 +17,22 @@
       "onboard_time": 1667444610,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2062988,
+      "num": 1798941,
+      "word": "多家核酸检测企业应收账款超净利润",
+      "onboard_time": 1667456724,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1938174,
+      "num": 1938174,
+      "word": "兰州通报儿童中毒死亡事件",
+      "onboard_time": 1667457744,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1652903,
@@ -91,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 794316,
+      "num": 794316,
+      "word": "华胥引又翻拍",
+      "onboard_time": 1667458345,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778360,
       "num": 778360,
       "word": "直博北大当事人回应论文抄袭",
@@ -155,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 677748,
+      "num": 677748,
+      "word": "今天官宣了好多剧",
+      "onboard_time": 1667455886,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671276,
       "num": 614342,
       "word": "赵丽颖许半夏有350套服装",
@@ -169,14 +201,6 @@
       "onboard_time": 1667441184,
       "rank": 5,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 631378,
-      "num": 631378,
-      "word": "今天官宣了好多剧",
-      "onboard_time": 1667455886,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 601176,
@@ -200,14 +224,6 @@
       "word": "新疆新增无症状感染者400例",
       "onboard_time": 1667412434,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579788,
-      "num": 360325,
-      "word": "多家核酸检测企业应收账款超净利润",
-      "onboard_time": 1667456724,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498833,
+      "num": 498833,
+      "word": "55款侵犯个人信息APP被下架",
+      "onboard_time": 1667455106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481676,
       "num": 481676,
       "word": "迪丽热巴公诉精英角色适配度",
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479930,
+      "num": 479930,
+      "word": "许昕打球",
+      "onboard_time": 1667458585,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -289,6 +321,14 @@
       "onboard_time": 1667448209,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428841,
+      "num": 428841,
+      "word": "IXFORM即将解散",
+      "onboard_time": 1667459663,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 421387,
@@ -379,11 +419,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353348,
-      "num": 353348,
-      "word": "55款侵犯个人信息APP被下架",
-      "onboard_time": 1667455106,
-      "rank": 15,
+      "raw_hot": 352266,
+      "num": 352266,
+      "word": "路上遇车祸就地吹蜡烛庆生",
+      "onboard_time": 1667456964,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -409,14 +449,6 @@
       "onboard_time": 1667442203,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 322582,
-      "num": 119269,
-      "word": "兰州通报儿童中毒死亡事件",
-      "onboard_time": 1667457744,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319662,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237617,
+      "num": 237617,
+      "word": "国家一级保护动物长江鲟现身洞庭湖",
+      "onboard_time": 1667458164,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226286,
       "num": 226286,
       "word": "一团伙猎捕收售小熊猫每只35万",
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 185567,
-      "num": 118514,
+      "num": 182570,
       "word": "蔡文静自罚挖野菜100斤",
       "onboard_time": 1667456784,
       "rank": 41,
@@ -715,12 +755,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150337,
+      "num": 118099,
+      "word": "长相思",
+      "onboard_time": 1667456905,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148492,
       "num": 122004,
       "word": "原来油腻男不分国界",
       "onboard_time": 1667404468,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148155,
+      "num": 99710,
+      "word": "周也夸檀健次声音好听",
+      "onboard_time": 1667459902,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145989,
+      "num": 145989,
+      "word": "爷爷日记里有孙女20年的成长",
+      "onboard_time": 1667455764,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143980,
@@ -737,6 +801,14 @@
       "onboard_time": 1667401408,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 136509,
+      "num": 136509,
+      "word": "湖人加时战胜鹈鹕",
+      "onboard_time": 1667455764,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136308,
@@ -787,28 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126250,
-      "num": 126250,
-      "word": "爷爷日记里有孙女20年的成长",
-      "onboard_time": 1667455764,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125576,
-      "num": 125576,
-      "word": "湖人加时战胜鹈鹕",
-      "onboard_time": 1667455764,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 124541,
@@ -827,12 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122104,
-      "num": 122104,
-      "word": "路上遇车祸就地吹蜡烛庆生",
-      "onboard_time": 1667456964,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 122388,
+      "num": 122388,
+      "word": "已经不想和没狗的说话了",
+      "onboard_time": 1667459545,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 120399,
@@ -841,14 +897,6 @@
       "onboard_time": 1667388085,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 118745,
-      "num": 84661,
-      "word": "长相思",
-      "onboard_time": 1667456905,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 118444,
@@ -865,6 +913,14 @@
       "onboard_time": 1667432002,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114233,
+      "num": 114233,
+      "word": "许昕时隔8个月重返赛场",
+      "onboard_time": 1667459364,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112004,
@@ -907,6 +963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 104109,
+      "num": 104109,
+      "word": "九尾无畏双BKing同框",
+      "onboard_time": 1667458883,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -929,6 +993,14 @@
       "onboard_time": 1667457145,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 96237,
+      "num": 96237,
+      "word": "特警用身体当肉垫接住轻生女子",
+      "onboard_time": 1667459244,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96214,
@@ -1059,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65846,
+      "num": 65846,
+      "word": "无畏说我没口音啊",
+      "onboard_time": 1667459067,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65815,
       "num": 65815,
       "word": "3岁女孩连吃8个柿子长胃结石",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1667412553,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19146,
+      "num": 282115,
+      "word": "热心司机高速上清理危险物品",
+      "onboard_time": 1667459185,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16347,

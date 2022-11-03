@@ -1,0 +1,410 @@
+{
+  "runTime": 1667460045043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938174,
+        "num": 1938174,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2062988,
+        "num": 1798941,
+        "word": "多家核酸检测企业应收账款超净利润",
+        "onboard_time": 1667456724,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7488,
+        "num": 1265016,
+        "word": "梦天实验舱超高清发射纪实",
+        "onboard_time": 1667378190,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 900512,
+        "num": 900512,
+        "word": "齐司礼",
+        "onboard_time": 1667444610,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 794316,
+        "num": 794316,
+        "word": "华胥引又翻拍",
+        "onboard_time": 1667458345,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2028363,
+        "num": 763109,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677748,
+        "num": 677748,
+        "word": "今天官宣了好多剧",
+        "onboard_time": 1667455886,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498833,
+        "num": 498833,
+        "word": "55款侵犯个人信息APP被下架",
+        "onboard_time": 1667455106,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479930,
+        "num": 479930,
+        "word": "许昕打球",
+        "onboard_time": 1667458585,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428841,
+        "num": 428841,
+        "word": "IXFORM即将解散",
+        "onboard_time": 1667459663,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383849,
+        "num": 383849,
+        "word": "仙剑首发预告",
+        "onboard_time": 1667448865,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380723,
+        "num": 380723,
+        "word": "男生吃麻辣烫碗边抠出污垢",
+        "onboard_time": 1667445383,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352266,
+        "num": 352266,
+        "word": "路上遇车祸就地吹蜡烛庆生",
+        "onboard_time": 1667456964,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343354,
+        "num": 343354,
+        "word": "令人心动的offer4建筑师季官宣",
+        "onboard_time": 1667451866,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19146,
+        "num": 282115,
+        "word": "热心司机高速上清理危险物品",
+        "onboard_time": 1667459185,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265521,
+        "num": 265521,
+        "word": "直博北大当事人回应论文抄袭",
+        "onboard_time": 1667449825,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244975,
+        "num": 244975,
+        "word": "黄晓明张小斐好事成双开机",
+        "onboard_time": 1667445745,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237617,
+        "num": 237617,
+        "word": "国家一级保护动物长江鲟现身洞庭湖",
+        "onboard_time": 1667458164,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216598,
+        "num": 216598,
+        "word": "员工因午休玩手机音量太大被辞退",
+        "onboard_time": 1667444844,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194845,
+        "num": 194845,
+        "word": "一管血查20种癌有望成为可能",
+        "onboard_time": 1667451090,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242831,
+        "num": 193914,
+        "word": "暮色心约导演官宣任嘉伦杨颖主演",
+        "onboard_time": 1667455284,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197908,
+        "num": 191292,
+        "word": "赵丽颖许半夏有350套服装",
+        "onboard_time": 1667448265,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182570,
+        "num": 182570,
+        "word": "蔡文静自罚挖野菜100斤",
+        "onboard_time": 1667456784,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174157,
+        "num": 174157,
+        "word": "加拿大要求三家中企剥离在加锂矿资产",
+        "onboard_time": 1667451027,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169906,
+        "num": 169906,
+        "word": "反对养猫的爸爸给猫咪盖被搭窝",
+        "onboard_time": 1667452767,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145989,
+        "num": 145989,
+        "word": "爷爷日记里有孙女20年的成长",
+        "onboard_time": 1667455764,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136509,
+        "num": 136509,
+        "word": "湖人加时战胜鹈鹕",
+        "onboard_time": 1667455764,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135259,
+        "num": 135259,
+        "word": "一团伙猎捕收售小熊猫每只35万",
+        "onboard_time": 1667449348,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125625,
+        "num": 125625,
+        "word": "当代年轻人的精神状况",
+        "onboard_time": 1667446526,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122388,
+        "num": 122388,
+        "word": "已经不想和没狗的说话了",
+        "onboard_time": 1667459545,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 122036,
+        "word": "于正说很喜欢娜扎很好的女孩",
+        "onboard_time": 1667446406,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164643,
+        "num": 120998,
+        "word": "繁花",
+        "onboard_time": 1667443703,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156168,
+        "num": 119727,
+        "word": "原来打火机与公主裙今天开播",
+        "onboard_time": 1667450607,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152706,
+        "num": 118789,
+        "word": "王家卫繁花阵容官宣",
+        "onboard_time": 1667453545,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150337,
+        "num": 118099,
+        "word": "长相思",
+        "onboard_time": 1667456905,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117034,
+        "num": 117034,
+        "word": "iG夺冠四周年",
+        "onboard_time": 1667444783,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114233,
+        "num": 114233,
+        "word": "许昕时隔8个月重返赛场",
+        "onboard_time": 1667459364,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109831,
+        "num": 109831,
+        "word": "韩国踩踏事故前4小时不断有人报警",
+        "onboard_time": 1667409976,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104109,
+        "num": 104109,
+        "word": "九尾无畏双BKing同框",
+        "onboard_time": 1667458883,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100154,
+        "num": 100154,
+        "word": "如何理解新冠肺炎是自限性疾病",
+        "onboard_time": 1667441184,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 148155,
+        "num": 99710,
+        "word": "周也夸檀健次声音好听",
+        "onboard_time": 1667459902,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96237,
+        "num": 96237,
+        "word": "特警用身体当肉垫接住轻生女子",
+        "onboard_time": 1667459244,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93797,
+        "num": 93797,
+        "word": "父亲推脑瘫儿子跑完53次马拉松",
+        "onboard_time": 1667451628,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81375,
+        "num": 81375,
+        "word": "双十一将诞生100万拍照锦鲤",
+        "onboard_time": 1667444963,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78672,
+        "num": 78672,
+        "word": "是路漫漫还是路曼曼",
+        "onboard_time": 1667446887,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75284,
+        "num": 75284,
+        "word": "红通人员屈健玲被遣返回国",
+        "onboard_time": 1667448209,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66778,
+        "num": 66778,
+        "word": "中国算力总规模位居世界第二",
+        "onboard_time": 1667447307,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 65846,
+        "num": 65846,
+        "word": "无畏说我没口音啊",
+        "onboard_time": 1667459067,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62057,
+        "num": 62057,
+        "word": "多地回应乘火车飞机不再查核酸",
+        "onboard_time": 1667440284,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61701,
+        "num": 61701,
+        "word": "女童喝奶茶咳嗽1月医生洗出3管痰絮",
+        "onboard_time": 1667403746,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
