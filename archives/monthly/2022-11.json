@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667510294703,
+  "endTime": 1667511191091,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -5979,6 +5979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16143,
+      "num": 16143,
+      "word": "还是小时候的价格",
+      "onboard_time": 1667507770,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15722,
       "num": 15722,
       "word": "生活中的各种狠人",
@@ -5987,24 +5995,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14967,
-      "num": 14967,
-      "word": "还是小时候的价格",
-      "onboard_time": 1667507770,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 13633,
-      "num": 13633,
+      "raw_hot": 15238,
+      "num": 15238,
       "word": "能怪别人绝不怪自己",
       "onboard_time": 1667507952,
       "rank": 35,
       "category": "幽默"
     },
     {
-      "raw_hot": 13207,
-      "num": 13207,
+      "raw_hot": 14499,
+      "num": 14499,
       "word": "为什么总会怀念过去",
       "onboard_time": 1667506871,
       "rank": 46,
