@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667504031543,
+  "endTime": 1667506764898,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -5883,6 +5883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31172,
+      "num": 31172,
+      "word": "一个人住可以有多爽",
+      "onboard_time": 1667502613,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1667476825,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18820,
-      "num": 18820,
-      "word": "一个人住可以有多爽",
-      "onboard_time": 1667502613,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 16641,
