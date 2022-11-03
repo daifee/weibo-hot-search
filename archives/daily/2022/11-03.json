@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667468318815,
+  "endTime": 1667471129421,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923046,
+      "num": 923046,
+      "word": "张晚意一天内官宣两部大剧",
+      "onboard_time": 1667467705,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 898771,
       "num": 898771,
       "word": "黄晓明张小斐好事成双开机",
@@ -144,6 +152,14 @@
       "word": "华胥引又翻拍",
       "onboard_time": 1667458345,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 783778,
+      "num": 783778,
+      "word": "张若昀欠下的第二季还上一部了",
+      "onboard_time": 1667469503,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -219,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 679825,
+      "num": 522905,
+      "word": "鹿晗预测今年世界杯冠军",
+      "onboard_time": 1667468544,
+      "rank": 10,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 677748,
       "num": 677748,
       "word": "今天官宣了好多剧",
@@ -243,12 +267,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 611276,
-      "num": 611276,
-      "word": "张晚意一天内官宣两部大剧",
-      "onboard_time": 1667467705,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 620092,
+      "num": 620092,
+      "word": "女子无证穿高跟鞋连续2次撞同一车",
+      "onboard_time": 1667465304,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601176,
@@ -289,6 +313,14 @@
       "onboard_time": 1667451866,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566001,
+      "num": 522698,
+      "word": "藏海花",
+      "onboard_time": 1667467106,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 559528,
@@ -339,6 +371,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 524089,
+      "num": 524089,
+      "word": "郑州对符合条件而未解封的小区进行调查",
+      "onboard_time": 1667468907,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521639,
+      "num": 521639,
+      "word": "TF家族FanClub被责令限期整改",
+      "onboard_time": 1667468606,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517259,
       "num": 517259,
       "word": "许昕打球",
@@ -376,6 +424,14 @@
       "word": "55款侵犯个人信息APP被下架",
       "onboard_time": 1667455106,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487775,
+      "num": 487775,
+      "word": "男子持刀冲卡买奶粉家属发声",
+      "onboard_time": 1667467346,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -419,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442836,
-      "num": 442836,
-      "word": "女子无证穿高跟鞋连续2次撞同一车",
-      "onboard_time": 1667465304,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433751,
       "num": 206568,
       "word": "杨幂狐妖小红娘现代戏路透",
@@ -443,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 410601,
-      "num": 204663,
-      "word": "藏海花",
-      "onboard_time": 1667467106,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 421362,
+      "num": 421362,
+      "word": "被亲一口会害羞的狗狗",
+      "onboard_time": 1667467827,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 408995,
@@ -577,6 +625,14 @@
       "onboard_time": 1667461346,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331586,
+      "num": 331586,
+      "word": "北京新增25例本土感染者",
+      "onboard_time": 1667468666,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331457,
@@ -755,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248024,
-      "num": 248024,
-      "word": "男子持刀冲卡买奶粉家属发声",
-      "onboard_time": 1667467346,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245156,
       "num": 245156,
       "word": "平顶山巨响",
@@ -883,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192879,
+      "num": 192879,
+      "word": "俩娃走失被狗吸引后获救",
+      "onboard_time": 1667467705,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185976,
       "num": 97106,
       "word": "胡歌繁花转身氛围感",
@@ -913,6 +969,14 @@
       "onboard_time": 1667447186,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173644,
+      "num": 173644,
+      "word": "成功人士在车里躺着卷",
+      "onboard_time": 1667466925,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173212,
@@ -953,6 +1017,14 @@
       "onboard_time": 1667385087,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 162824,
+      "num": 121550,
+      "word": "郑州本轮疫情由外地来郑货车司机引发",
+      "onboard_time": 1667469985,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159314,
@@ -1091,28 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128148,
-      "num": 128148,
-      "word": "成功人士在车里躺着卷",
-      "onboard_time": 1667466925,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124950,
-      "num": 124950,
-      "word": "被亲一口会害羞的狗狗",
-      "onboard_time": 1667467827,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 124749,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1667464344,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122947,
+      "num": 122947,
+      "word": "这是蛋黄蛋清最新的分离方式吗",
+      "onboard_time": 1667466686,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122284,
@@ -1187,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118098,
+      "num": 118098,
+      "word": "台北故宫历年共计359件陶瓷器伤损破裂",
+      "onboard_time": 1667469386,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115951,
       "num": 84609,
       "word": "胡歌新剧沪语台词",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1667450310,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110045,
+      "num": 110045,
+      "word": "北京新增3例社会面筛查人员",
+      "onboard_time": 1667470464,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108768,
@@ -1251,14 +1331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99761,
-      "num": 99761,
-      "word": "这是蛋黄蛋清最新的分离方式吗",
-      "onboard_time": 1667466686,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "体操世锦赛中国男团获冠军",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1667457145,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 96399,
-      "num": 96399,
-      "word": "俩娃走失被狗吸引后获救",
-      "onboard_time": 1667467705,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96214,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1667465905,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89706,
+      "num": 89706,
+      "word": "00后姐妹休学卖画为血癌妈妈治病",
+      "onboard_time": 1667469747,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88862,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1667392167,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73934,
+      "num": 448525,
+      "word": "55岁保洁阿姨自学英语成口语学霸",
+      "onboard_time": 1667469687,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73483,
