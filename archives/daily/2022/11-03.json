@@ -1,10 +1,10 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667447811991,
+  "endTime": 1667448461144,
   "band_list": [
     {
-      "raw_hot": 1545078,
-      "num": 1545078,
+      "raw_hot": 1652903,
+      "num": 1652903,
       "word": "员工因午休玩手机音量太大被辞退",
       "onboard_time": 1667444844,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1667443703,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 987892,
+      "num": 987892,
+      "word": "男生吃麻辣烫碗边抠出污垢",
+      "onboard_time": 1667445383,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960450,
@@ -67,14 +75,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 787252,
-      "num": 787252,
-      "word": "男生吃麻辣烫碗边抠出污垢",
-      "onboard_time": 1667445383,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 776559,
       "num": 319658,
       "word": "兰州急救中心回应三岁儿童死亡事件",
@@ -88,6 +88,14 @@
       "word": "刘亦菲陈晓梦华录获优秀新生代授权IP奖",
       "onboard_time": 1667440702,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 750357,
+      "num": 750357,
+      "word": "2023鹅厂片单",
+      "onboard_time": 1667446225,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1667441184,
       "rank": 5,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 661238,
-      "num": 661238,
-      "word": "2023鹅厂片单",
-      "onboard_time": 1667446225,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 601176,
@@ -233,6 +233,14 @@
       "onboard_time": 1667396668,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370415,
+      "num": 370415,
+      "word": "赵丽颖许半夏有350套服装",
+      "onboard_time": 1667448265,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 363521,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 286233,
-      "num": 196614,
+      "num": 222714,
       "word": "欢颜全阵容官宣",
       "onboard_time": 1667444605,
       "rank": 20,
@@ -355,8 +363,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 265596,
-      "num": 196192,
+      "raw_hot": 274944,
+      "num": 222906,
       "word": "蔡徐坤奔跑吧接喜糖",
       "onboard_time": 1667446287,
       "rank": 21,
@@ -385,6 +393,14 @@
       "onboard_time": 1667416452,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222314,
+      "num": 222314,
+      "word": "当代年轻人的精神状况",
+      "onboard_time": 1667446526,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 217823,
@@ -475,14 +491,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 161304,
-      "num": 161304,
-      "word": "当代年轻人的精神状况",
-      "onboard_time": 1667446526,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "朱婷上场",
@@ -521,6 +529,14 @@
       "onboard_time": 1667424552,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 141441,
+      "num": 141441,
+      "word": "是路漫漫还是路曼曼",
+      "onboard_time": 1667446887,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140801,
@@ -595,6 +611,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 119644,
+      "num": 119644,
+      "word": "萌娃写作业开小差被葡萄表情出卖",
+      "onboard_time": 1667446345,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118444,
+      "num": 118444,
+      "word": "第五人格",
+      "onboard_time": 1667447727,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118130,
       "num": 118130,
       "word": "这位插画师的绝活是捕捉可爱",
@@ -611,20 +643,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 110369,
+      "num": 110369,
+      "word": "红通人员屈健玲被遣返回国",
+      "onboard_time": 1667448209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108768,
       "num": 108768,
       "word": "好像知道它为什么流浪了",
       "onboard_time": 1667402966,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107048,
-      "num": 107048,
-      "word": "是路漫漫还是路曼曼",
-      "onboard_time": 1667446887,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106406,
@@ -649,14 +681,6 @@
       "onboard_time": 1667432181,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100094,
-      "num": 100094,
-      "word": "萌娃写作业开小差被葡萄表情出卖",
-      "onboard_time": 1667446345,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98851,
@@ -697,14 +721,6 @@
       "onboard_time": 1667406682,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 88693,
-      "num": 88693,
-      "word": "第五人格",
-      "onboard_time": 1667447727,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 85980,
@@ -859,6 +875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 14207,
+      "num": 345035,
+      "word": "六旬老农10年写30本种地日记",
+      "onboard_time": 1667448087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9220,
       "num": 9740,
       "word": "零下三度退役军人冲进湖中救人",
@@ -873,6 +897,9 @@
     },
     {
       "word": "#二十大报告提到的中国古语#"
+    },
+    {
+      "word": "#9组数字了解第五届进博会#"
     }
   ]
 }
