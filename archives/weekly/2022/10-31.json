@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667451616254,
+  "endTime": 1667453173893,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -73,6 +73,14 @@
       "onboard_time": 1667375665,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2412598,
+      "num": 2412598,
+      "word": "齐司礼",
+      "onboard_time": 1667444610,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 2214611,
@@ -321,14 +329,6 @@
       "onboard_time": 1667358925,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1441545,
-      "num": 1441545,
-      "word": "齐司礼",
-      "onboard_time": 1667444610,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1437072,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719664,
+      "num": 719664,
+      "word": "直博北大当事人回应论文抄袭",
+      "onboard_time": 1667449825,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 704169,
       "num": 704169,
       "word": "英国老人吐槽现在比二战时还糟",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1667208265,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566442,
+      "num": 566442,
+      "word": "令人心动的offer4建筑师季官宣",
+      "onboard_time": 1667451866,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 565822,
@@ -2203,14 +2219,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 385236,
-      "num": 385236,
-      "word": "直博北大当事人回应论文抄袭",
-      "onboard_time": 1667449825,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 384511,
       "num": 313585,
       "word": "韩国警方打击事故相关网络谣言",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1667130383,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375471,
+      "num": 375471,
+      "word": "鹈鹕vs湖人",
+      "onboard_time": 1667446162,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 373161,
@@ -2291,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360191,
+      "num": 360191,
+      "word": "原来打火机与公主裙今天开播",
+      "onboard_time": 1667450607,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359992,
       "num": 233731,
       "word": "富士康返乡员工路遇大货车直接被捎上一程",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1667359587,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357595,
+      "num": 357595,
+      "word": "一管血查20种癌有望成为可能",
+      "onboard_time": 1667451090,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356478,
@@ -2465,14 +2497,6 @@
       "onboard_time": 1667182405,
       "rank": 26,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 334535,
-      "num": 334535,
-      "word": "鹈鹕vs湖人",
-      "onboard_time": 1667446162,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 334288,
@@ -2867,14 +2891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283072,
-      "num": 283072,
-      "word": "原来打火机与公主裙今天开播",
-      "onboard_time": 1667450607,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280891,
       "num": 208676,
       "word": "VLIVE将于12月31日起停止所有服务",
@@ -3121,6 +3137,14 @@
       "onboard_time": 1667414891,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 255524,
+      "num": 255524,
+      "word": "加拿大要求三家中企剥离在加锂矿资产",
+      "onboard_time": 1667451027,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 254781,
@@ -3441,6 +3465,14 @@
       "onboard_time": 1667379747,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223740,
+      "num": 223740,
+      "word": "一团伙猎捕收售小熊猫每只35万",
+      "onboard_time": 1667449348,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223048,
@@ -3792,14 +3824,6 @@
       "word": "沈阳疫情防控",
       "onboard_time": 1667184625,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193980,
-      "num": 193980,
-      "word": "一团伙猎捕收售小熊猫每只35万",
-      "onboard_time": 1667449348,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4923,14 +4947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124095,
-      "num": 124095,
-      "word": "一管血查20种癌有望成为可能",
-      "onboard_time": 1667451090,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123297,
       "num": 123297,
       "word": "女生运动会扮七仙女惊艳全场",
@@ -5467,14 +5483,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 96266,
-      "num": 96266,
-      "word": "加拿大要求三家中企剥离在加锂矿资产",
-      "onboard_time": 1667451027,
-      "rank": 44,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1667269046,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90293,
+      "num": 357679,
+      "word": "父亲推脑瘫儿子跑完53次马拉松",
+      "onboard_time": 1667451628,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90126,
@@ -5915,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76172,
+      "num": 80940,
+      "word": "反对养猫的爸爸给猫咪盖被搭窝",
+      "onboard_time": 1667452767,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76116,
       "num": 120731,
       "word": "15位青年学者获百万科研大奖",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1667259380,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 59281,
+      "num": 79962,
+      "word": "小县城抗疫情压力有多大",
+      "onboard_time": 1667453125,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58802,
