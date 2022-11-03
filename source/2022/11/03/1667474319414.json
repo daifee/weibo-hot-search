@@ -1,0 +1,410 @@
+{
+  "runTime": 1667474319414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217918,
+        "num": 1217918,
+        "word": "张若昀欠下的第二季还上一部了",
+        "onboard_time": 1667469503,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 907811,
+        "num": 907811,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46678,
+        "num": 764205,
+        "word": "第五届进口博览会",
+        "onboard_time": 1667460325,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1141941,
+        "num": 715471,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658759,
+        "num": 658759,
+        "word": "鹿晗预测今年世界杯冠军",
+        "onboard_time": 1667468544,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 499089,
+        "num": 499089,
+        "word": "郑州对符合条件而未解封的小区进行调查",
+        "onboard_time": 1667468907,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496712,
+        "num": 496712,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486025,
+        "num": 486025,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428208,
+        "num": 428208,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 395024,
+        "num": 395024,
+        "word": "郑州本轮疫情由外地来郑货车司机引发",
+        "onboard_time": 1667469985,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524554,
+        "num": 394528,
+        "word": "张晚意一天内官宣两部大剧",
+        "onboard_time": 1667467705,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398683,
+        "num": 394496,
+        "word": "电子羽绒服",
+        "onboard_time": 1667473286,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394017,
+        "num": 394017,
+        "word": "被亲一口会害羞的狗狗",
+        "onboard_time": 1667467827,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391793,
+        "num": 391793,
+        "word": "藏海花",
+        "onboard_time": 1667467106,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364513,
+        "num": 364513,
+        "word": "女子无证穿高跟鞋连续2次撞同一车",
+        "onboard_time": 1667465304,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291734,
+        "num": 291734,
+        "word": "郑州新冠肺炎疫情发布会",
+        "onboard_time": 1667463685,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261776,
+        "num": 261776,
+        "word": "多家核酸检测企业应收账款超净利润",
+        "onboard_time": 1667456724,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259620,
+        "num": 259620,
+        "word": "杭州一程序员送女友数字口红",
+        "onboard_time": 1667465125,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258245,
+        "num": 258245,
+        "word": "台北故宫历年共计359件陶瓷器伤损破裂",
+        "onboard_time": 1667469386,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237839,
+        "num": 237839,
+        "word": "北京新增25例本土感染者",
+        "onboard_time": 1667468666,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387653,
+        "num": 233369,
+        "word": "TF家族FanClub被责令限期整改",
+        "onboard_time": 1667468606,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316066,
+        "num": 220625,
+        "word": "五哈3艺人全阵容",
+        "onboard_time": 1667462304,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287657,
+        "num": 211742,
+        "word": "檀健次新剧掐杨紫脖子",
+        "onboard_time": 1667465964,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271936,
+        "num": 199058,
+        "word": "迪丽热巴说期待安旎早日与大家相见",
+        "onboard_time": 1667472387,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197247,
+        "num": 197247,
+        "word": "女子长期穿高跟鞋致双脚变形",
+        "onboard_time": 1667462842,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165370,
+        "num": 165370,
+        "word": "00后姐妹休学卖画为血癌妈妈治病",
+        "onboard_time": 1667469747,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153546,
+        "num": 153546,
+        "word": "北京新增3例社会面筛查人员",
+        "onboard_time": 1667470464,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150538,
+        "num": 150538,
+        "word": "永辉超市包子上现活蟑螂",
+        "onboard_time": 1667473109,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148699,
+        "num": 148699,
+        "word": "俩娃走失被狗吸引后获救",
+        "onboard_time": 1667467705,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116239,
+        "num": 116239,
+        "word": "许昕打球",
+        "onboard_time": 1667458585,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261876,
+        "num": 116128,
+        "word": "唐嫣繁花说上海话",
+        "onboard_time": 1667465365,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195631,
+        "num": 116113,
+        "word": "张杰官宣加盟令人心动的offer4",
+        "onboard_time": 1667463324,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160203,
+        "num": 116083,
+        "word": "星汉灿烂定位是全民爆款",
+        "onboard_time": 1667465544,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "55款侵犯个人信息APP被下架",
+        "onboard_time": 1667455106,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112732,
+        "num": 112732,
+        "word": "55岁保洁阿姨自学英语成口语学霸",
+        "onboard_time": 1667469687,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106501,
+        "num": 106501,
+        "word": "已经不想和没狗的说话了",
+        "onboard_time": 1667459545,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100709,
+        "num": 100709,
+        "word": "兰州3岁儿童父亲拨打120时间线公布",
+        "onboard_time": 1667461764,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88168,
+        "num": 88168,
+        "word": "郑州抗疫日记",
+        "onboard_time": 1667466745,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88077,
+        "num": 88077,
+        "word": "这是蛋黄蛋清最新的分离方式吗",
+        "onboard_time": 1667466686,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83637,
+        "num": 83637,
+        "word": "白T的万能穿搭公式",
+        "onboard_time": 1667471966,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148384,
+        "num": 83349,
+        "word": "今天官宣了好多剧",
+        "onboard_time": 1667455886,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145920,
+        "num": 83229,
+        "word": "杨幂狐妖小红娘现代戏路透",
+        "onboard_time": 1667466262,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81949,
+        "num": 81949,
+        "word": "女子用铁丝为断腿公鸡制做假肢",
+        "onboard_time": 1667473044,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81312,
+        "num": 81312,
+        "word": "男生吃麻辣烫碗边抠出污垢",
+        "onboard_time": 1667445383,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75615,
+        "num": 75615,
+        "word": "光与夜之恋",
+        "onboard_time": 1667461346,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70746,
+        "num": 70746,
+        "word": "加拿大要求三家中企剥离在加锂矿资产",
+        "onboard_time": 1667451027,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 62119,
+        "num": 62119,
+        "word": "詹姆斯20分准三双",
+        "onboard_time": 1667474245,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58797,
+        "num": 58797,
+        "word": "中国首次航天员乘组在轨轮换",
+        "onboard_time": 1667460684,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57447,
+        "num": 57447,
+        "word": "直博北大当事人回应论文抄袭",
+        "onboard_time": 1667449825,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 56898,
+        "num": 56898,
+        "word": "特警用身体当肉垫接住轻生女子",
+        "onboard_time": 1667459244,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}
