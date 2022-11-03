@@ -1,9 +1,9 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667456991236,
+  "endTime": 1667457995689,
   "band_list": [
     {
-      "raw_hot": 2673580,
+      "raw_hot": 3067522,
       "num": 2673580,
       "word": "小县城抗疫情压力有多大",
       "onboard_time": 1667453125,
@@ -171,6 +171,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 631378,
+      "num": 631378,
+      "word": "今天官宣了好多剧",
+      "onboard_time": 1667455886,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601176,
       "num": 419955,
       "word": "刘强东转让所持京东产发股份",
@@ -192,6 +200,14 @@
       "word": "新疆新增无症状感染者400例",
       "onboard_time": 1667412434,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579788,
+      "num": 360325,
+      "word": "多家核酸检测企业应收账款超净利润",
+      "onboard_time": 1667456724,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480627,
+      "num": 480627,
+      "word": "日本百元天价葡萄在国内降至40元",
+      "onboard_time": 1667455525,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -273,14 +297,6 @@
       "onboard_time": 1667444783,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 413513,
-      "num": 413513,
-      "word": "今天官宣了好多剧",
-      "onboard_time": 1667455886,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 408928,
@@ -363,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353348,
+      "num": 353348,
+      "word": "55款侵犯个人信息APP被下架",
+      "onboard_time": 1667455106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349671,
       "num": 349671,
       "word": "多地通知乘火车飞机不再查核酸",
@@ -385,6 +409,14 @@
       "onboard_time": 1667442203,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322582,
+      "num": 119269,
+      "word": "兰州通报儿童中毒死亡事件",
+      "onboard_time": 1667457744,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319662,
@@ -451,14 +483,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 299583,
-      "num": 299583,
-      "word": "日本百元天价葡萄在国内降至40元",
-      "onboard_time": 1667455525,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -473,14 +497,6 @@
       "onboard_time": 1667444605,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278830,
-      "num": 278830,
-      "word": "55款侵犯个人信息APP被下架",
-      "onboard_time": 1667455106,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277316,
@@ -579,6 +595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 196804,
+      "num": 172150,
+      "word": "王家卫繁花阵容官宣",
+      "onboard_time": 1667453545,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195292,
       "num": 195292,
       "word": "老师电脑故障小学生5分钟修好",
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185567,
+      "num": 118514,
+      "word": "蔡文静自罚挖野菜100斤",
+      "onboard_time": 1667456784,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181342,
       "num": 181342,
       "word": "萌娃写作业开小差被葡萄表情出卖",
@@ -608,14 +640,6 @@
       "word": "胡歌繁花单人海报",
       "onboard_time": 1667447186,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 174449,
-      "num": 160073,
-      "word": "王家卫繁花阵容官宣",
-      "onboard_time": 1667453545,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -715,14 +739,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 138657,
-      "num": 95590,
-      "word": "多家核酸检测企业应收账款超净利润",
-      "onboard_time": 1667456724,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136308,
       "num": 136308,
       "word": "当代人的四大喜事",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 133871,
-      "num": 95266,
+      "num": 113945,
       "word": "大湾仔的夜",
       "onboard_time": 1667455225,
       "rank": 33,
@@ -771,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126250,
+      "num": 126250,
+      "word": "爷爷日记里有孙女20年的成长",
+      "onboard_time": 1667455764,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125576,
+      "num": 125576,
+      "word": "湖人加时战胜鹈鹕",
+      "onboard_time": 1667455764,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 124541,
@@ -793,6 +825,14 @@
       "onboard_time": 1667398410,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122104,
+      "num": 122104,
+      "word": "路上遇车祸就地吹蜡烛庆生",
+      "onboard_time": 1667456964,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120399,
@@ -825,14 +865,6 @@
       "onboard_time": 1667432002,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112050,
-      "num": 84275,
-      "word": "蔡文静自罚挖野菜100斤",
-      "onboard_time": 1667456784,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 112004,
@@ -891,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98314,
+      "num": 98314,
+      "word": "中国空间站",
+      "onboard_time": 1667457145,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -905,6 +945,14 @@
       "onboard_time": 1667380887,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91961,
+      "num": 91961,
+      "word": "莱恩绝平三分",
+      "onboard_time": 1667457528,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 90994,
@@ -923,20 +971,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89791,
+      "num": 89791,
+      "word": "8个动作自助燃脂训练",
+      "onboard_time": 1667457385,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85980,
       "num": 85980,
       "word": "尤文1比2巴黎",
       "onboard_time": 1667431641,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85738,
-      "num": 85738,
-      "word": "爷爷日记里有孙女20年的成长",
-      "onboard_time": 1667455764,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82248,
@@ -977,14 +1025,6 @@
       "onboard_time": 1667392167,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73903,
-      "num": 73903,
-      "word": "湖人加时战胜鹈鹕",
-      "onboard_time": 1667455764,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 70128,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1667453725,
       "rank": 49,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 54146,
-      "num": 54146,
-      "word": "路上遇车祸就地吹蜡烛庆生",
-      "onboard_time": 1667456964,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49717,

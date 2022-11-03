@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667456991236,
+  "endTime": 1667457995689,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -19,6 +19,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3067522,
+      "num": 2673580,
+      "word": "小县城抗疫情压力有多大",
+      "onboard_time": 1667453125,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2723284,
       "num": 2723284,
       "word": "兰州七里河通报",
@@ -33,14 +41,6 @@
       "onboard_time": 1667317051,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2673580,
-      "num": 2673580,
-      "word": "小县城抗疫情压力有多大",
-      "onboard_time": 1667453125,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2614092,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631378,
+      "num": 631378,
+      "word": "今天官宣了好多剧",
+      "onboard_time": 1667455886,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622822,
       "num": 622822,
       "word": "踩踏发生有人误认救护车是cosplay",
@@ -1040,6 +1048,14 @@
       "word": "多部门联合调查女老师上网课后去世",
       "onboard_time": 1667388266,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579788,
+      "num": 360325,
+      "word": "多家核酸检测企业应收账款超净利润",
+      "onboard_time": 1667456724,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1291,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480627,
+      "num": 480627,
+      "word": "日本百元天价葡萄在国内降至40元",
+      "onboard_time": 1667455525,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478772,
       "num": 478772,
       "word": "徐志胜窝里横",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1667381907,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413513,
-      "num": 413513,
-      "word": "今天官宣了好多剧",
-      "onboard_time": 1667455886,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 412260,
@@ -1739,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353348,
+      "num": 353348,
+      "word": "55款侵犯个人信息APP被下架",
+      "onboard_time": 1667455106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353069,
       "num": 353069,
       "word": "三个中国财神爷救了玉皇大帝",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1667297726,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322582,
+      "num": 119269,
+      "word": "兰州通报儿童中毒死亡事件",
+      "onboard_time": 1667457744,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322454,
@@ -2067,14 +2099,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 299583,
-      "num": 299583,
-      "word": "日本百元天价葡萄在国内降至40元",
-      "onboard_time": 1667455525,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -2128,14 +2152,6 @@
       "word": "12岁男孩在小区用迷你爆米花机摆摊",
       "onboard_time": 1667375007,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278830,
-      "num": 278830,
-      "word": "55款侵犯个人信息APP被下架",
-      "onboard_time": 1667455106,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2739,6 +2755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 196804,
+      "num": 172150,
+      "word": "王家卫繁花阵容官宣",
+      "onboard_time": 1667453545,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196464,
       "num": 196464,
       "word": "盾山航天皮肤CG",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1667398648,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185567,
+      "num": 118514,
+      "word": "蔡文静自罚挖野菜100斤",
+      "onboard_time": 1667456784,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 184745,
@@ -2961,14 +2993,6 @@
       "onboard_time": 1667207605,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 174449,
-      "num": 160073,
-      "word": "王家卫繁花阵容官宣",
-      "onboard_time": 1667453545,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 174079,
@@ -3355,14 +3379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138657,
-      "num": 95590,
-      "word": "多家核酸检测企业应收账款超净利润",
-      "onboard_time": 1667456724,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138214,
       "num": 100924,
       "word": "没见过这么会跳舞的猫咪",
@@ -3460,7 +3476,7 @@
     },
     {
       "raw_hot": 133871,
-      "num": 95266,
+      "num": 113945,
       "word": "大湾仔的夜",
       "onboard_time": 1667455225,
       "rank": 33,
@@ -3571,12 +3587,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126250,
+      "num": 126250,
+      "word": "爷爷日记里有孙女20年的成长",
+      "onboard_time": 1667455764,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126057,
       "num": 200277,
       "word": "乔欣马思超新剧刚开播就亲上了",
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125576,
+      "num": 125576,
+      "word": "湖人加时战胜鹈鹕",
+      "onboard_time": 1667455764,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 124633,
@@ -3633,6 +3665,14 @@
       "onboard_time": 1667353884,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 122104,
+      "num": 122104,
+      "word": "路上遇车祸就地吹蜡烛庆生",
+      "onboard_time": 1667456964,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120231,
@@ -3737,14 +3777,6 @@
       "onboard_time": 1667237356,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112050,
-      "num": 84275,
-      "word": "蔡文静自罚挖野菜100斤",
-      "onboard_time": 1667456784,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 112029,
@@ -3947,6 +3979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98314,
+      "num": 98314,
+      "word": "中国空间站",
+      "onboard_time": 1667457145,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 98295,
       "num": 98295,
       "word": "AG率先晋级CFS世界赛",
@@ -4051,6 +4091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91961,
+      "num": 91961,
+      "word": "莱恩绝平三分",
+      "onboard_time": 1667457528,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91805,
       "num": 91805,
       "word": "新能源车对环保贡献有多大",
@@ -4089,6 +4137,14 @@
       "onboard_time": 1667285307,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 89791,
+      "num": 89791,
+      "word": "8个动作自助燃脂训练",
+      "onboard_time": 1667457385,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88048,
@@ -4153,14 +4209,6 @@
       "onboard_time": 1667431641,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85738,
-      "num": 85738,
-      "word": "爷爷日记里有孙女20年的成长",
-      "onboard_time": 1667455764,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85629,
@@ -4337,14 +4385,6 @@
       "onboard_time": 1667232625,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73903,
-      "num": 73903,
-      "word": "湖人加时战胜鹈鹕",
-      "onboard_time": 1667455764,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 72423,
@@ -4577,14 +4617,6 @@
       "onboard_time": 1667238013,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54146,
-      "num": 54146,
-      "word": "路上遇车祸就地吹蜡烛庆生",
-      "onboard_time": 1667456964,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52996,
