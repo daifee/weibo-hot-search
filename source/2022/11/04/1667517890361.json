@@ -1,0 +1,410 @@
+{
+  "runTime": 1667517890361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810581,
+        "num": 810581,
+        "word": "郑州富士康园区最新进展",
+        "onboard_time": 1667512873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748581,
+        "num": 748581,
+        "word": "妻子连续1年为夜班丈夫做盲盒便当",
+        "onboard_time": 1667494158,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32726,
+        "num": 554509,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 518783,
+        "num": 518783,
+        "word": "国美停发员工工资",
+        "onboard_time": 1667476825,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 445722,
+        "num": 445722,
+        "word": "男子吃馄饨被拉走餐车变观光巴士",
+        "onboard_time": 1667489487,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434015,
+        "num": 434015,
+        "word": "三名男大学生校内约架被电棍击伤",
+        "onboard_time": 1667511430,
+        "rank": 5,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 411896,
+        "num": 411896,
+        "word": "陈晓陈妍希幸福三重奏",
+        "onboard_time": 1667484148,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383844,
+        "num": 383844,
+        "word": "阿瑟我承认之前对你的声音大了点",
+        "onboard_time": 1667488886,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326978,
+        "num": 326978,
+        "word": "男生树下刚抬头就掉下柿子砸嘴里",
+        "onboard_time": 1667489725,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276224,
+        "num": 276224,
+        "word": "入睡姿势不对可能睡出毛病",
+        "onboard_time": 1667482826,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260705,
+        "num": 260705,
+        "word": "主人生娃后猫咪患上抑郁症",
+        "onboard_time": 1667486609,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252259,
+        "num": 252259,
+        "word": "网课爆破1单收费10元以内",
+        "onboard_time": 1667492364,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250957,
+        "num": 250957,
+        "word": "许家印7亿港元山顶豪宅被接管",
+        "onboard_time": 1667488529,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205408,
+        "num": 205408,
+        "word": "第一次见睡觉掉床的小狗",
+        "onboard_time": 1667490446,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170166,
+        "num": 170166,
+        "word": "加拿大一枝黄花成浙江胡羊口中美味",
+        "onboard_time": 1667487148,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166843,
+        "num": 166843,
+        "word": "回老家租房有多爽",
+        "onboard_time": 1667491225,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 146808,
+        "word": "台湾教授呼吁台湾人要觉醒",
+        "onboard_time": 1667481807,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140317,
+        "num": 140317,
+        "word": "审判阿瑟",
+        "onboard_time": 1667482167,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139582,
+        "num": 139582,
+        "word": "果农收获两万斤不舍得吃大苹果",
+        "onboard_time": 1667496977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138187,
+        "num": 138187,
+        "word": "女生收集1年掉发绑成5厘米粗马尾",
+        "onboard_time": 1667477606,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173796,
+        "num": 137878,
+        "word": "人教社回应日语教材插图争议",
+        "onboard_time": 1667488108,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137323,
+        "num": 137323,
+        "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
+        "onboard_time": 1667474785,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136175,
+        "num": 136175,
+        "word": "泽连斯基称胜利后想去克里米亚看海",
+        "onboard_time": 1667483246,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132946,
+        "num": 132946,
+        "word": "张若昀欠下的第二季还上一部了",
+        "onboard_time": 1667469503,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126892,
+        "num": 126892,
+        "word": "陈飞宇终于演现偶了",
+        "onboard_time": 1667488886,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107033,
+        "num": 107033,
+        "word": "王铮亮一个人背了0713所有人的锅",
+        "onboard_time": 1667516238,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103372,
+        "num": 103372,
+        "word": "合肥一公园定位反串纽约意外爆火",
+        "onboard_time": 1667493381,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101643,
+        "num": 101643,
+        "word": "一个人住可以有多爽",
+        "onboard_time": 1667502613,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92221,
+        "num": 92221,
+        "word": "檀健次长相思双角色反差感",
+        "onboard_time": 1667517381,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84083,
+        "num": 84083,
+        "word": "张婧仪新剧开播就遇前男友",
+        "onboard_time": 1667481447,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146307,
+        "num": 83679,
+        "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
+        "onboard_time": 1667517742,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83043,
+        "num": 83043,
+        "word": "住建部官员称大规模兴建国营食堂系误读",
+        "onboard_time": 1667487869,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77665,
+        "num": 77665,
+        "word": "男子让流浪狗点头摇头决定去留",
+        "onboard_time": 1667493440,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74520,
+        "num": 74520,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69085,
+        "num": 69085,
+        "word": "促醒者女子24小时待机工作导致瘫痪",
+        "onboard_time": 1667493561,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65547,
+        "num": 65547,
+        "word": "俞灏明朱梓骁合唱让我为你唱首歌",
+        "onboard_time": 1667487687,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63952,
+        "num": 63952,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 63394,
+        "num": 63394,
+        "word": "米勒娃娃预测S12决赛",
+        "onboard_time": 1667488947,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60607,
+        "num": 60607,
+        "word": "郑州辟谣封城",
+        "onboard_time": 1667478985,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60155,
+        "num": 60155,
+        "word": "当恋爱脑女主遇上清醒女主",
+        "onboard_time": 1667492482,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57639,
+        "num": 57639,
+        "word": "李宇春加盟披荆斩棘总决赛",
+        "onboard_time": 1667515397,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56838,
+        "num": 56838,
+        "word": "皇家社会0比1曼联",
+        "onboard_time": 1667517562,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53594,
+        "num": 53594,
+        "word": "迪丽热巴检察官气质",
+        "onboard_time": 1667478025,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47040,
+        "num": 47040,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46393,
+        "num": 46393,
+        "word": "为什么总会怀念过去",
+        "onboard_time": 1667506871,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39093,
+        "num": 39093,
+        "word": "还是小时候的价格",
+        "onboard_time": 1667507770,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35729,
+        "num": 35729,
+        "word": "突然间就想通了",
+        "onboard_time": 1667478204,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35577,
+        "num": 35577,
+        "word": "永辉超市包子上现活蟑螂",
+        "onboard_time": 1667473109,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30743,
+        "num": 30743,
+        "word": "网课爆破事件各方需担何责",
+        "onboard_time": 1667517200,
+        "rank": 48,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 29747,
+        "num": 29747,
+        "word": "生活中的各种狠人",
+        "onboard_time": 1667509991,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}

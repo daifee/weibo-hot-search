@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667515008582,
+  "endTime": 1667517890361,
   "band_list": [
     {
       "raw_hot": 864815,
@@ -9,6 +9,22 @@
       "onboard_time": 1667476825,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 810581,
+      "num": 810581,
+      "word": "郑州富士康园区最新进展",
+      "onboard_time": 1667512873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748581,
+      "num": 748581,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746177,
@@ -67,6 +83,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 434015,
+      "num": 434015,
+      "word": "三名男大学生校内约架被电棍击伤",
+      "onboard_time": 1667511430,
+      "rank": 10,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 386596,
       "num": 334437,
       "word": "张若昀欠下的第二季还上一部了",
@@ -91,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309560,
-      "num": 309560,
-      "word": "妻子连续1年为夜班丈夫做盲盒便当",
-      "onboard_time": 1667494158,
-      "rank": 46,
+      "raw_hot": 326978,
+      "num": 326978,
+      "word": "男生树下刚抬头就掉下柿子砸嘴里",
+      "onboard_time": 1667489725,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -129,22 +153,6 @@
       "onboard_time": 1667488108,
       "rank": 13,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 245706,
-      "num": 108636,
-      "word": "三名男大学生校内约架被电棍击伤",
-      "onboard_time": 1667511430,
-      "rank": 10,
-      "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 231581,
-      "num": 231581,
-      "word": "男生树下刚抬头就掉下柿子砸嘴里",
-      "onboard_time": 1667489725,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227793,
@@ -219,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167954,
-      "num": 34369,
-      "word": "郑州富士康园区最新进展",
-      "onboard_time": 1667512873,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152148,
       "num": 152148,
       "word": "郑州辟谣封城",
@@ -243,20 +243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146307,
+      "num": 83679,
+      "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
+      "onboard_time": 1667517742,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 139582,
+      "num": 139582,
+      "word": "果农收获两万斤不舍得吃大苹果",
+      "onboard_time": 1667496977,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136175,
+      "num": 136175,
+      "word": "泽连斯基称胜利后想去克里米亚看海",
+      "onboard_time": 1667483246,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 135673,
       "num": 92427,
       "word": "张婧仪新剧开播就遇前男友",
       "onboard_time": 1667481447,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130223,
-      "num": 130223,
-      "word": "泽连斯基称胜利后想去克里米亚看海",
-      "onboard_time": 1667483246,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 127638,
@@ -273,6 +289,30 @@
       "onboard_time": 1667464404,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 107033,
+      "num": 107033,
+      "word": "王铮亮一个人背了0713所有人的锅",
+      "onboard_time": 1667516238,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103372,
+      "num": 103372,
+      "word": "合肥一公园定位反串纽约意外爆火",
+      "onboard_time": 1667493381,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101643,
+      "num": 101643,
+      "word": "一个人住可以有多爽",
+      "onboard_time": 1667502613,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 100911,
@@ -307,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93660,
-      "num": 93660,
-      "word": "合肥一公园定位反串纽约意外爆火",
-      "onboard_time": 1667493381,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 92221,
+      "num": 92221,
+      "word": "檀健次长相思双角色反差感",
+      "onboard_time": 1667517381,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 91835,
@@ -329,6 +369,14 @@
       "onboard_time": 1667478204,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77665,
+      "num": 77665,
+      "word": "男子让流浪狗点头摇头决定去留",
+      "onboard_time": 1667493440,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73387,
@@ -355,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69085,
+      "num": 69085,
+      "word": "促醒者女子24小时待机工作导致瘫痪",
+      "onboard_time": 1667493561,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68004,
       "num": 68004,
       "word": "女子不想托运酒机场喝完直接被送医",
@@ -371,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61968,
-      "num": 61968,
-      "word": "果农收获两万斤不舍得吃大苹果",
-      "onboard_time": 1667496977,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58499,
       "num": 58499,
       "word": "男子持刀冲卡买奶粉家属发声",
@@ -387,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57639,
+      "num": 57639,
+      "word": "李宇春加盟披荆斩棘总决赛",
+      "onboard_time": 1667515397,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56927,
       "num": 56927,
       "word": "战神轰6K挂弹现身珠海",
       "onboard_time": 1667478386,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 56838,
+      "num": 56838,
+      "word": "皇家社会0比1曼联",
+      "onboard_time": 1667517562,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 56237,
@@ -417,6 +481,14 @@
       "onboard_time": 1667479828,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46393,
+      "num": 46393,
+      "word": "为什么总会怀念过去",
+      "onboard_time": 1667506871,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 46071,
@@ -451,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40124,
-      "num": 40124,
-      "word": "男子让流浪狗点头摇头决定去留",
-      "onboard_time": 1667493440,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39445,
       "num": 39445,
       "word": "你们歌手是懂超模的",
@@ -467,11 +531,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39252,
-      "num": 39252,
-      "word": "一个人住可以有多爽",
-      "onboard_time": 1667502613,
-      "rank": 49,
+      "raw_hot": 39093,
+      "num": 39093,
+      "word": "还是小时候的价格",
+      "onboard_time": 1667507770,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -483,20 +547,20 @@
       "category": "国内要闻,科技"
     },
     {
-      "raw_hot": 28461,
-      "num": 28461,
-      "word": "促醒者女子24小时待机工作导致瘫痪",
-      "onboard_time": 1667493561,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 30743,
+      "num": 30743,
+      "word": "网课爆破事件各方需担何责",
+      "onboard_time": 1667517200,
+      "rank": 48,
+      "category": "教育,社会负面"
     },
     {
-      "raw_hot": 22948,
-      "num": 22948,
-      "word": "还是小时候的价格",
-      "onboard_time": 1667507770,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 29747,
+      "num": 29747,
+      "word": "生活中的各种狠人",
+      "onboard_time": 1667509991,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 21750,
@@ -504,22 +568,6 @@
       "word": "能怪别人绝不怪自己",
       "onboard_time": 1667507952,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18214,
-      "num": 18214,
-      "word": "为什么总会怀念过去",
-      "onboard_time": 1667506871,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16623,
-      "num": 16623,
-      "word": "生活中的各种狠人",
-      "onboard_time": 1667509991,
-      "rank": 30,
       "category": "幽默"
     },
     {
