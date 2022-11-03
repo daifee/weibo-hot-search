@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667483257180,
+  "endTime": 1667484024064,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191615,
+      "num": 1191615,
+      "word": "审判阿瑟",
+      "onboard_time": 1667482167,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1188046,
       "num": 1188046,
       "word": "繁花",
@@ -176,14 +184,6 @@
       "word": "华胥引又翻拍",
       "onboard_time": 1667458345,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 781840,
-      "num": 781840,
-      "word": "审判阿瑟",
-      "onboard_time": 1667482167,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351348,
+      "num": 338654,
+      "word": "台湾教授呼吁台湾人要觉醒",
+      "onboard_time": 1667481807,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 349671,
       "num": 349671,
       "word": "多地通知乘火车飞机不再查核酸",
@@ -744,6 +752,14 @@
       "word": "迪丽热巴新剧的原声台词",
       "onboard_time": 1667461346,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338433,
+      "num": 338433,
+      "word": "扫黑行动定档",
+      "onboard_time": 1667479945,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -801,14 +817,6 @@
       "onboard_time": 1667402427,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317829,
-      "num": 180207,
-      "word": "扫黑行动定档",
-      "onboard_time": 1667479945,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 316399,
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290756,
+      "num": 224932,
+      "word": "马嘉祺我们的歌4要你管直拍",
+      "onboard_time": 1667482886,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286233,
       "num": 222714,
       "word": "欢颜全阵容官宣",
@@ -905,14 +921,6 @@
       "onboard_time": 1667469386,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281568,
-      "num": 177627,
-      "word": "马嘉祺我们的歌4要你管直拍",
-      "onboard_time": 1667482886,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 279289,
@@ -937,6 +945,14 @@
       "onboard_time": 1667446287,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274052,
+      "num": 274052,
+      "word": "民警凭卫生纸锁定逃亡19年嫌犯",
+      "onboard_time": 1667479828,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273624,
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261005,
+      "num": 261005,
+      "word": "传说的裹床单都好看",
+      "onboard_time": 1667481087,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257700,
       "num": 257700,
       "word": "广西一14岁初中生被清华录取",
@@ -985,14 +1009,6 @@
       "onboard_time": 1667466745,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248316,
-      "num": 126723,
-      "word": "台湾教授呼吁台湾人要觉醒",
-      "onboard_time": 1667481807,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 245156,
@@ -1011,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234983,
-      "num": 234983,
-      "word": "民警凭卫生纸锁定逃亡19年嫌犯",
-      "onboard_time": 1667479828,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232874,
       "num": 232874,
       "word": "中国首次航天员乘组在轨轮换",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1667449348,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226120,
-      "num": 125778,
-      "word": "传说的裹床单都好看",
-      "onboard_time": 1667481087,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 223048,
@@ -1067,20 +1067,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 210883,
+      "num": 150384,
+      "word": "杨紫新剧的原声台词",
+      "onboard_time": 1667481807,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210872,
       "num": 210872,
       "word": "华为",
       "onboard_time": 1667391029,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 210840,
-      "num": 124948,
-      "word": "杨紫新剧的原声台词",
-      "onboard_time": 1667481807,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 208378,
@@ -1196,7 +1196,7 @@
     },
     {
       "raw_hot": 178982,
-      "num": 112363,
+      "num": 116432,
       "word": "王铮亮陈楚生半边山半边海",
       "onboard_time": 1667481745,
       "rank": 40,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1667448806,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172680,
+      "num": 172680,
+      "word": "这小夜灯也太哦耶了",
+      "onboard_time": 1667480185,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171430,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "入睡姿势不对可能睡出毛病",
+      "onboard_time": 1667482826,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155684,
       "num": 96410,
       "word": "李峋问我有短吗",
@@ -1347,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146237,
+      "num": 146237,
+      "word": "女子不想托运酒机场喝完直接被送医",
+      "onboard_time": 1667482345,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145989,
       "num": 145989,
       "word": "爷爷日记里有孙女20年的成长",
@@ -1371,20 +1395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142692,
-      "num": 142692,
-      "word": "这小夜灯也太哦耶了",
-      "onboard_time": 1667480185,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140801,
       "num": 140801,
       "word": "医生请假为4岁男孩捐造血干细胞",
       "onboard_time": 1667401408,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 138442,
+      "num": 138442,
+      "word": "衢州要求高中生取得急救证书",
+      "onboard_time": 1667482648,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 136509,
@@ -1627,22 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103742,
-      "num": 103742,
-      "word": "衢州要求高中生取得急救证书",
-      "onboard_time": 1667482648,
-      "rank": 42,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 101284,
-      "num": 101284,
-      "word": "女子不想托运酒机场喝完直接被送医",
-      "onboard_time": 1667482345,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1667457145,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 98306,
+      "num": 98306,
+      "word": "在山东减肥很难吧",
+      "onboard_time": 1667483608,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 96214,
@@ -1787,14 +1803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81866,
-      "num": 81866,
-      "word": "入睡姿势不对可能睡出毛病",
-      "onboard_time": 1667482826,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81746,
       "num": 81746,
       "word": "光与夜之恋",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1667387004,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 80377,
+      "num": 80377,
+      "word": "泽连斯基称胜利后想去克里米亚看海",
+      "onboard_time": 1667483246,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 79069,
@@ -1841,6 +1857,14 @@
       "onboard_time": 1667392167,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73595,
+      "num": 73595,
+      "word": "天涯社区创始人已被限制高消费",
+      "onboard_time": 1667483907,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73483,
@@ -1891,20 +1915,20 @@
       "category": "教育,社会负面"
     },
     {
+      "raw_hot": 68561,
+      "num": 1160395,
+      "word": "中国航天让神话照进现实",
+      "onboard_time": 1667479706,
+      "rank": 2,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 68077,
       "num": 68077,
       "word": "小说里走出来的白月光",
       "onboard_time": 1667386646,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 67248,
-      "num": 940494,
-      "word": "中国航天让神话照进现实",
-      "onboard_time": 1667479706,
-      "rank": 2,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 66501,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1667474245,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59523,
-      "num": 59523,
-      "word": "泽连斯基称胜利后想去克里米亚看海",
-      "onboard_time": 1667483246,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 58956,
