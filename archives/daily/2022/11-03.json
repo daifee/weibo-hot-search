@@ -1,6 +1,6 @@
 {
   "startTime": 1667407030432,
-  "endTime": 1667467358883,
+  "endTime": 1667468318815,
   "band_list": [
     {
       "raw_hot": 3067522,
@@ -35,16 +35,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1839042,
-      "num": 1839042,
+      "raw_hot": 1934163,
+      "num": 1934163,
       "word": "郑州新冠肺炎疫情发布会",
       "onboard_time": 1667463685,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1742179,
-      "num": 1742179,
+      "raw_hot": 1833639,
+      "num": 1833639,
       "word": "庆余年2最新海报",
       "onboard_time": 1667466024,
       "rank": 1,
@@ -163,8 +163,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 768379,
-      "num": 768379,
+      "raw_hot": 775953,
+      "num": 775953,
       "word": "iPhone14Pro满电无法开机",
       "onboard_time": 1667464404,
       "rank": 13,
@@ -243,6 +243,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 611276,
+      "num": 611276,
+      "word": "张晚意一天内官宣两部大剧",
+      "onboard_time": 1667467705,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601176,
       "num": 419955,
       "word": "刘强东转让所持京东产发股份",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 559528,
-      "num": 391519,
+      "num": 440200,
       "word": "唐嫣繁花说上海话",
       "onboard_time": 1667465365,
       "rank": 11,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 551119,
-      "num": 366669,
+      "num": 437357,
       "word": "星汉灿烂定位是全民爆款",
       "onboard_time": 1667465544,
       "rank": 12,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503762,
+      "num": 503762,
+      "word": "杭州一程序员送女友数字口红",
+      "onboard_time": 1667465125,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498833,
       "num": 498833,
       "word": "55款侵犯个人信息APP被下架",
@@ -403,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432304,
-      "num": 432304,
-      "word": "杭州一程序员送女友数字口红",
-      "onboard_time": 1667465125,
-      "rank": 47,
+      "raw_hot": 442836,
+      "num": 442836,
+      "word": "女子无证穿高跟鞋连续2次撞同一车",
+      "onboard_time": 1667465304,
+      "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433751,
+      "num": 206568,
+      "word": "杨幂狐妖小红娘现代戏路透",
+      "onboard_time": 1667466262,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421387,
@@ -417,6 +441,14 @@
       "onboard_time": 1667444783,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 410601,
+      "num": 204663,
+      "word": "藏海花",
+      "onboard_time": 1667467106,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 408995,
@@ -433,14 +465,6 @@
       "onboard_time": 1667450607,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 404069,
-      "num": 180024,
-      "word": "杨幂狐妖小红娘现代戏路透",
-      "onboard_time": 1667466262,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 403148,
@@ -571,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326609,
-      "num": 326609,
-      "word": "女子无证穿高跟鞋连续2次撞同一车",
-      "onboard_time": 1667465304,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319662,
       "num": 319662,
       "word": "女子戒糖戒奶茶1年后变白变年轻",
@@ -595,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318972,
+      "num": 127938,
+      "word": "王鹤棣桃花坞第三季视频ID",
+      "onboard_time": 1667466385,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318122,
       "num": 318122,
       "word": "鸟鸟 精神走光",
       "onboard_time": 1667402427,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316399,
+      "num": 179217,
+      "word": "张若昀说拍了拍小范大人",
+      "onboard_time": 1667465845,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 313841,
@@ -643,14 +675,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 296775,
-      "num": 179217,
-      "word": "张若昀说拍了拍小范大人",
-      "onboard_time": 1667465845,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -673,14 +697,6 @@
       "onboard_time": 1667444605,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279542,
-      "num": 112845,
-      "word": "王鹤棣桃花坞第三季视频ID",
-      "onboard_time": 1667466385,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 279289,
@@ -729,6 +745,22 @@
       "onboard_time": 1667414891,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 255539,
+      "num": 255539,
+      "word": "郑州抗疫日记",
+      "onboard_time": 1667466745,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248024,
+      "num": 248024,
+      "word": "男子持刀冲卡买奶粉家属发声",
+      "onboard_time": 1667467346,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245156,
@@ -811,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201900,
+      "num": 201900,
+      "word": "00后记者跑70公里为白血病宝宝寻药",
+      "onboard_time": 1667464524,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "新东方烹饪学校直播招生",
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185976,
+      "num": 97106,
+      "word": "胡歌繁花转身氛围感",
+      "onboard_time": 1667468065,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185567,
       "num": 182570,
       "word": "蔡文静自罚挖野菜100斤",
@@ -864,22 +912,6 @@
       "word": "胡歌繁花单人海报",
       "onboard_time": 1667447186,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177347,
-      "num": 177347,
-      "word": "00后记者跑70公里为白血病宝宝寻药",
-      "onboard_time": 1667464524,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 177126,
-      "num": 82841,
-      "word": "藏海花",
-      "onboard_time": 1667467106,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1059,12 +1091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128148,
+      "num": 128148,
+      "word": "成功人士在车里躺着卷",
+      "onboard_time": 1667466925,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "梨泰院事故遇难中国女孩家属发声",
       "onboard_time": 1667369126,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124950,
+      "num": 124950,
+      "word": "被亲一口会害羞的狗狗",
+      "onboard_time": 1667467827,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 124749,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1667463744,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121483,
-      "num": 121483,
-      "word": "郑州抗疫日记",
-      "onboard_time": 1667466745,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120399,
@@ -1211,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99761,
+      "num": 99761,
+      "word": "这是蛋黄蛋清最新的分离方式吗",
+      "onboard_time": 1667466686,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "体操世锦赛中国男团获冠军",
@@ -1227,11 +1275,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 98193,
-      "num": 98193,
-      "word": "成功人士在车里躺着卷",
-      "onboard_time": 1667466925,
-      "rank": 38,
+      "raw_hot": 96399,
+      "num": 96399,
+      "word": "俩娃走失被狗吸引后获救",
+      "onboard_time": 1667467705,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1280,6 +1328,14 @@
       "word": "8个动作自助燃脂训练",
       "onboard_time": 1667457385,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89718,
+      "num": 89718,
+      "word": "1个动作有效缓解腰部受凉",
+      "onboard_time": 1667465905,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1355,18 +1411,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75002,
-      "num": 75002,
-      "word": "这是蛋黄蛋清最新的分离方式吗",
-      "onboard_time": 1667466686,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74619,
-      "num": 74619,
-      "word": "男子持刀冲卡买奶粉家属发声",
-      "onboard_time": 1667467346,
+      "raw_hot": 73483,
+      "num": 73483,
+      "word": "觅食刺猬拖家带口到女子家蹭饭",
+      "onboard_time": 1667468245,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -1388,7 +1436,7 @@
     },
     {
       "raw_hot": 68958,
-      "num": 1369670,
+      "num": 1415259,
       "word": "第五届进口博览会",
       "onboard_time": 1667460325,
       "rank": 2,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1667412553,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19691,
+      "num": 425141,
+      "word": "一家2代7名村医守护村民50年",
+      "onboard_time": 1667468006,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16347,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1667468318815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1934163,
+        "num": 1934163,
+        "word": "郑州新冠肺炎疫情发布会",
+        "onboard_time": 1667463685,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1833639,
+        "num": 1833639,
+        "word": "庆余年2最新海报",
+        "onboard_time": 1667466024,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64851,
+        "num": 1415259,
+        "word": "第五届进口博览会",
+        "onboard_time": 1667460325,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1012194,
+        "num": 1012194,
+        "word": "兰州通报儿童中毒死亡事件",
+        "onboard_time": 1667457744,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775953,
+        "num": 775953,
+        "word": "iPhone14Pro满电无法开机",
+        "onboard_time": 1667464404,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 827087,
+        "num": 759128,
+        "word": "小县城抗疫情压力有多大",
+        "onboard_time": 1667453125,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699671,
+        "num": 699671,
+        "word": "五哈3艺人全阵容",
+        "onboard_time": 1667462304,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611276,
+        "num": 611276,
+        "word": "张晚意一天内官宣两部大剧",
+        "onboard_time": 1667467705,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503762,
+        "num": 503762,
+        "word": "杭州一程序员送女友数字口红",
+        "onboard_time": 1667465125,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442836,
+        "num": 442836,
+        "word": "女子无证穿高跟鞋连续2次撞同一车",
+        "onboard_time": 1667465304,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606515,
+        "num": 441782,
+        "word": "张杰官宣加盟令人心动的offer4",
+        "onboard_time": 1667463324,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584785,
+        "num": 440948,
+        "word": "多家核酸检测企业应收账款超净利润",
+        "onboard_time": 1667456724,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505217,
+        "num": 440200,
+        "word": "唐嫣繁花说上海话",
+        "onboard_time": 1667465365,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437357,
+        "num": 437357,
+        "word": "星汉灿烂定位是全民爆款",
+        "onboard_time": 1667465544,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19691,
+        "num": 425141,
+        "word": "一家2代7名村医守护村民50年",
+        "onboard_time": 1667468006,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425055,
+        "num": 425055,
+        "word": "女子长期穿高跟鞋致双脚变形",
+        "onboard_time": 1667462842,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255539,
+        "num": 255539,
+        "word": "郑州抗疫日记",
+        "onboard_time": 1667466745,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248024,
+        "num": 248024,
+        "word": "男子持刀冲卡买奶粉家属发声",
+        "onboard_time": 1667467346,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211380,
+        "num": 211380,
+        "word": "兰州3岁儿童父亲拨打120时间线公布",
+        "onboard_time": 1667461764,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210190,
+        "num": 210190,
+        "word": "已经不想和没狗的说话了",
+        "onboard_time": 1667459545,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 433751,
+        "num": 206568,
+        "word": "杨幂狐妖小红娘现代戏路透",
+        "onboard_time": 1667466262,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410601,
+        "num": 204663,
+        "word": "藏海花",
+        "onboard_time": 1667467106,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407869,
+        "num": 204641,
+        "word": "檀健次新剧掐杨紫脖子",
+        "onboard_time": 1667465964,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201900,
+        "num": 201900,
+        "word": "00后记者跑70公里为白血病宝宝寻药",
+        "onboard_time": 1667464524,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170144,
+        "num": 170144,
+        "word": "55款侵犯个人信息APP被下架",
+        "onboard_time": 1667455106,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169782,
+        "num": 169782,
+        "word": "路上遇车祸就地吹蜡烛庆生",
+        "onboard_time": 1667456964,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141512,
+        "num": 141512,
+        "word": "许昕打球",
+        "onboard_time": 1667458585,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133587,
+        "num": 133587,
+        "word": "男生吃麻辣烫碗边抠出污垢",
+        "onboard_time": 1667445383,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 128783,
+        "word": "特警用身体当肉垫接住轻生女子",
+        "onboard_time": 1667459244,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128148,
+        "num": 128148,
+        "word": "成功人士在车里躺着卷",
+        "onboard_time": 1667466925,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318972,
+        "num": 127938,
+        "word": "王鹤棣桃花坞第三季视频ID",
+        "onboard_time": 1667466385,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316399,
+        "num": 127808,
+        "word": "张若昀说拍了拍小范大人",
+        "onboard_time": 1667465845,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310961,
+        "num": 127567,
+        "word": "今天官宣了好多剧",
+        "onboard_time": 1667455886,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212809,
+        "num": 127487,
+        "word": "华胥引又翻拍",
+        "onboard_time": 1667458345,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127297,
+        "num": 127297,
+        "word": "中国首次航天员乘组在轨轮换",
+        "onboard_time": 1667460684,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124950,
+        "num": 124950,
+        "word": "被亲一口会害羞的狗狗",
+        "onboard_time": 1667467827,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100467,
+        "num": 100467,
+        "word": "齐司礼",
+        "onboard_time": 1667444610,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 99761,
+        "word": "这是蛋黄蛋清最新的分离方式吗",
+        "onboard_time": 1667466686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99499,
+        "num": 99499,
+        "word": "直博北大当事人回应论文抄袭",
+        "onboard_time": 1667449825,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "国家一级保护动物长江鲟现身洞庭湖",
+        "onboard_time": 1667458164,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185976,
+        "num": 97106,
+        "word": "胡歌繁花转身氛围感",
+        "onboard_time": 1667468065,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176855,
+        "num": 96987,
+        "word": "IXFORM即将解散",
+        "onboard_time": 1667459663,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96399,
+        "num": 96399,
+        "word": "俩娃走失被狗吸引后获救",
+        "onboard_time": 1667467705,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91824,
+        "num": 91824,
+        "word": "一团伙猎捕收售小熊猫每只35万",
+        "onboard_time": 1667449348,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89718,
+        "num": 89718,
+        "word": "1个动作有效缓解腰部受凉",
+        "onboard_time": 1667465905,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84275,
+        "num": 84275,
+        "word": "加拿大要求三家中企剥离在加锂矿资产",
+        "onboard_time": 1667451027,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 73683,
+        "num": 73683,
+        "word": "爷爷日记里有孙女20年的成长",
+        "onboard_time": 1667455764,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73483,
+        "num": 73483,
+        "word": "觅食刺猬拖家带口到女子家蹭饭",
+        "onboard_time": 1667468245,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73362,
+        "num": 73362,
+        "word": "光与夜之恋",
+        "onboard_time": 1667461346,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68332,
+        "num": 68332,
+        "word": "员工因午休玩手机音量太大被辞退",
+        "onboard_time": 1667444844,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#9组数字了解第五届进博会#"
+    }
+  }
+}
