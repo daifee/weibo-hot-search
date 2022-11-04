@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667550709399,
+  "endTime": 1667551649874,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -1371,6 +1371,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 600943,
+      "num": 218604,
+      "word": "最高检依法对李国华决定逮捕",
+      "onboard_time": 1667547811,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596346,
       "num": 596346,
       "word": "丢烟头引青岛山火男子被判4年半",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1667490446,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 505592,
-      "num": 215363,
-      "word": "最高检依法对李国华决定逮捕",
-      "onboard_time": 1667547811,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505340,
@@ -3795,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216359,
+      "num": 216359,
+      "word": "过了20岁就不能吃得像个小孩子了",
+      "onboard_time": 1667543307,
+      "rank": 49,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "国考报名人数超250万",
@@ -3809,14 +3817,6 @@
       "onboard_time": 1667482648,
       "rank": 42,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 213909,
-      "num": 213909,
-      "word": "过了20岁就不能吃得像个小孩子了",
-      "onboard_time": 1667543307,
-      "rank": 49,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 213527,
@@ -3859,6 +3859,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 210631,
+      "num": 210631,
+      "word": "Gemini侧颜",
+      "onboard_time": 1667549490,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210572,
       "num": 210572,
       "word": "当恋爱脑女主遇上清醒女主",
@@ -3897,6 +3905,14 @@
       "onboard_time": 1667463445,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207811,
+      "num": 177705,
+      "word": "阿瑟文学之我是你爸",
+      "onboard_time": 1667550330,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207750,
@@ -4163,20 +4179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194648,
+      "num": 194648,
+      "word": "浙江省考",
+      "onboard_time": 1667548948,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 192832,
       "num": 192832,
       "word": "民政部公布10个涉嫌非法社会组织",
       "onboard_time": 1667366430,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191780,
-      "num": 191780,
-      "word": "浙江省考",
-      "onboard_time": 1667548948,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 190812,
@@ -4376,6 +4392,14 @@
       "word": "北京10月31日新增本土确诊21例",
       "onboard_time": 1667268146,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177866,
+      "num": 177866,
+      "word": "沙坪坝疫情防控",
+      "onboard_time": 1667551351,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4753,6 +4777,14 @@
       "onboard_time": 1667396668,
       "rank": 45,
       "category": "科技,网红"
+    },
+    {
+      "raw_hot": 153672,
+      "num": 153672,
+      "word": "狗子都穿上羽绒服了",
+      "onboard_time": 1667550089,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 153524,
@@ -5203,14 +5235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130832,
-      "num": 130832,
-      "word": "Gemini侧颜",
-      "onboard_time": 1667549490,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 129779,
       "num": 129779,
       "word": "江苏省考",
@@ -5499,6 +5523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115455,
+      "num": 115455,
+      "word": "披荆斩棘总决赛彩排照",
+      "onboard_time": 1667551351,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
@@ -5635,14 +5667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108729,
-      "num": 93518,
-      "word": "阿瑟文学之我是你爸",
-      "onboard_time": 1667550330,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108678,
       "num": 108678,
       "word": "北京门头沟区新增一阳性",
@@ -5697,6 +5721,14 @@
       "onboard_time": 1667432243,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106397,
+      "num": 106397,
+      "word": "开敞厨房更适合中国家庭",
+      "onboard_time": 1667548708,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106033,
@@ -6019,14 +6051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91806,
-      "num": 91806,
-      "word": "狗子都穿上羽绒服了",
-      "onboard_time": 1667550089,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91805,
       "num": 91805,
       "word": "新能源车对环保贡献有多大",
@@ -6152,14 +6176,6 @@
       "word": "男孩坠入深井救援时淡定提要求",
       "onboard_time": 1667374108,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86753,
-      "num": 86753,
-      "word": "开敞厨房更适合中国家庭",
-      "onboard_time": 1667548708,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6475,6 +6491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75302,
+      "num": 75302,
+      "word": "这钢化膜到底好还是不好",
+      "onboard_time": 1667550268,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "傅菁小黑裙套装造型",
@@ -6489,14 +6513,6 @@
       "onboard_time": 1667547031,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 74625,
-      "num": 74625,
-      "word": "这钢化膜到底好还是不好",
-      "onboard_time": 1667550268,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 73595,
@@ -6595,12 +6611,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 68623,
+      "num": 68623,
+      "word": "为什么喜欢蹲凳子上吃饭",
+      "onboard_time": 1667551528,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68001,
       "num": 68001,
       "word": "个人养老金实施办法出台",
       "onboard_time": 1667548229,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67857,
+      "num": 67857,
+      "word": "科比NBA首秀26周年",
+      "onboard_time": 1667551589,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67777,
