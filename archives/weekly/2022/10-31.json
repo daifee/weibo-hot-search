@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667576582382,
+  "endTime": 1667579494940,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -489,6 +489,14 @@
       "onboard_time": 1667185523,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1351742,
+      "num": 1351742,
+      "word": "广州海珠严格控制人员流动",
+      "onboard_time": 1667575592,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1348842,
@@ -1347,6 +1355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 791639,
+      "num": 272763,
+      "word": "kp 退团",
+      "onboard_time": 1667576551,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784698,
       "num": 784698,
       "word": "杨戬",
@@ -1491,11 +1507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 717556,
-      "num": 717556,
-      "word": "广州海珠严格控制人员流动",
-      "onboard_time": 1667575592,
-      "rank": 3,
+      "raw_hot": 717926,
+      "num": 269792,
+      "word": "呼和浩特疫情防控",
+      "onboard_time": 1667578766,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3259,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395840,
+      "num": 266981,
+      "word": "Lisa成为iTunes最多一位女歌手",
+      "onboard_time": 1667578884,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395701,
       "num": 395701,
       "word": "鄂尔多斯通告称无论何时生命至上",
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334949,
+      "num": 334949,
+      "word": "第一次见有人米饭过敏",
+      "onboard_time": 1667573131,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334288,
       "num": 334288,
       "word": "感觉我分手最累的是我朋友",
@@ -3992,14 +4024,6 @@
       "word": "传说的裹床单都好看",
       "onboard_time": 1667481087,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 317324,
-      "num": 317324,
-      "word": "第一次见有人米饭过敏",
-      "onboard_time": 1667573131,
-      "rank": 26,
       "category": "幽默"
     },
     {
@@ -4763,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255518,
+      "num": 255518,
+      "word": "女生网购维他奶开箱发现爬满蛆",
+      "onboard_time": 1667578410,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254781,
       "num": 254781,
       "word": "鸟鸟一个人也是可以尴尬的",
@@ -4891,6 +4923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245691,
+      "num": 128480,
+      "word": "安徽青企协回应吴某某事件",
+      "onboard_time": 1667577270,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245156,
       "num": 245156,
       "word": "平顶山巨响",
@@ -4921,6 +4961,14 @@
       "onboard_time": 1667217085,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 241983,
+      "num": 202050,
+      "word": "凤毛麟角",
+      "onboard_time": 1667576492,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 241671,
@@ -5147,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227748,
+      "num": 187877,
+      "word": "一口气炫完杨幂新剧5集",
+      "onboard_time": 1667577868,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226286,
       "num": 226286,
       "word": "一团伙猎捕收售小熊猫每只35万",
@@ -5281,6 +5337,14 @@
       "onboard_time": 1667183543,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216885,
+      "num": 216885,
+      "word": "刘诗雯发布竞选宣言",
+      "onboard_time": 1667576790,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 216747,
@@ -6459,14 +6523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160521,
-      "num": 128731,
-      "word": "凤毛麟角",
-      "onboard_time": 1667576492,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160338,
       "num": 102046,
       "word": "斋藤飞鸟即将毕业",
@@ -6529,6 +6585,14 @@
       "onboard_time": 1667390367,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157802,
+      "num": 157802,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1667577689,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 157619,
@@ -6985,14 +7049,6 @@
       "onboard_time": 1667201662,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140291,
-      "num": 113260,
-      "word": "kp 退团",
-      "onboard_time": 1667576551,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 140218,
