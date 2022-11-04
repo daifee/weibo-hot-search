@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667543461324,
+  "endTime": 1667544384240,
   "band_list": [
     {
       "raw_hot": 2552334,
@@ -51,8 +51,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1133610,
-      "num": 1133610,
+      "raw_hot": 1168065,
+      "num": 1168065,
       "word": "为什么叫陈飞宇阿瑟",
       "onboard_time": 1667539409,
       "rank": 12,
@@ -88,6 +88,14 @@
       "word": "老丈人偷女婿91万现金藏房门里",
       "onboard_time": 1667527165,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870755,
+      "num": 870755,
+      "word": "儿子取母亲50万养老钱打赏女主播",
+      "onboard_time": 1667538990,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1667535508,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 716478,
-      "num": 716478,
-      "word": "儿子取母亲50万养老钱打赏女主播",
-      "onboard_time": 1667538990,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677121,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463375,
+      "num": 463375,
+      "word": "世界杯被中国制造包了",
+      "onboard_time": 1667540249,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458081,
       "num": 396631,
       "word": "吸血鬼病是什么",
@@ -331,20 +339,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 425891,
+      "num": 425891,
+      "word": "丢烟头引青岛山火男子被判4年半",
+      "onboard_time": 1667541628,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416881,
       "num": 416881,
       "word": "nikke",
       "onboard_time": 1667536287,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 407508,
-      "num": 407508,
-      "word": "世界杯被中国制造包了",
-      "onboard_time": 1667540249,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 395701,
@@ -451,6 +459,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 322202,
+      "num": 322202,
+      "word": "zlib",
+      "onboard_time": 1667540905,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306292,
       "num": 306292,
       "word": "奔跑吧今晚发布好汉征集令",
@@ -465,14 +481,6 @@
       "onboard_time": 1667487687,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297438,
-      "num": 297438,
-      "word": "zlib",
-      "onboard_time": 1667540905,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295832,
@@ -531,20 +539,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 254812,
-      "num": 254812,
-      "word": "丢烟头引青岛山火男子被判4年半",
-      "onboard_time": 1667541628,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241671,
       "num": 151696,
       "word": "王家卫镜头下的辛芷蕾",
       "onboard_time": 1667530946,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235467,
+      "num": 235467,
+      "word": "感谢陈红",
+      "onboard_time": 1667543489,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231294,
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "被2只细腿腿毛茸茸磕到了",
+      "onboard_time": 1667542345,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176746,
       "num": 176746,
       "word": "金鹰节开幕式主持人汪涵朱迅",
@@ -851,6 +867,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138700,
+      "num": 138700,
+      "word": "前大连足球名宿王涛去世",
+      "onboard_time": 1667543908,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138410,
+      "num": 138410,
+      "word": "成都快递老板娘写段子喊话回收",
+      "onboard_time": 1667540846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136801,
       "num": 136801,
       "word": "11月3日新增本土无症状3167例",
@@ -931,11 +963,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115794,
-      "num": 115794,
-      "word": "被2只细腿腿毛茸茸磕到了",
-      "onboard_time": 1667542345,
-      "rank": 32,
+      "raw_hot": 114710,
+      "num": 114710,
+      "word": "一家四口演戏哄宝宝吃药",
+      "onboard_time": 1667539769,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -955,14 +987,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 113548,
-      "num": 113548,
-      "word": "一家四口演戏哄宝宝吃药",
-      "onboard_time": 1667539769,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111836,
       "num": 111836,
       "word": "勇士vs魔术",
@@ -979,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110150,
-      "num": 110150,
-      "word": "成都快递老板娘写段子喊话回收",
-      "onboard_time": 1667540846,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106033,
       "num": 106033,
       "word": "世界两大空间望远镜cp",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1667519966,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101388,
+      "num": 101388,
+      "word": "过了20岁就不能吃得像个小孩子了",
+      "onboard_time": 1667543307,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 101186,
@@ -1099,12 +1123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83722,
+      "num": 83722,
+      "word": "小王涛",
+      "onboard_time": 1667543908,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83397,
       "num": 83397,
       "word": "杭州小学生教清洁工大爷做数学题",
       "onboard_time": 1667539110,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83342,
+      "num": 83342,
+      "word": "外婆先背会课文气哭一年级外孙",
+      "onboard_time": 1667543066,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 83221,
@@ -1123,12 +1163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81069,
-      "num": 81069,
-      "word": "外婆先背会课文气哭一年级外孙",
-      "onboard_time": 1667543066,
+      "raw_hot": 80257,
+      "num": 80257,
+      "word": "研究称激光能让自动驾驶汽车失明",
+      "onboard_time": 1667544270,
       "rank": 46,
-      "category": "社会新闻,教育"
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 77141,
+      "num": 77141,
+      "word": "舍不得四川的秋天",
+      "onboard_time": 1667544147,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 76174,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1667542614,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 73857,
-      "num": 73857,
-      "word": "过了20岁就不能吃得像个小孩子了",
-      "onboard_time": 1667543307,
-      "rank": 49,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 73387,
