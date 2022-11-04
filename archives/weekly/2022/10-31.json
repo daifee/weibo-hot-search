@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667534553184,
+  "endTime": 1667535255164,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968114,
+      "num": 968114,
+      "word": "第14届金鹰节颁奖晚会阵容官宣",
+      "onboard_time": 1667532024,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960450,
       "num": 960450,
       "word": "多地回应乘火车飞机不再查核酸",
@@ -945,14 +953,6 @@
       "onboard_time": 1667184684,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 932001,
-      "num": 932001,
-      "word": "第14届金鹰节颁奖晚会阵容官宣",
-      "onboard_time": 1667532024,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 923046,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1667424310,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703141,
+      "num": 703141,
+      "word": "阿瑟终于要火了",
+      "onboard_time": 1667533225,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 691587,
@@ -1771,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564687,
+      "num": 564687,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563308,
       "num": 563308,
       "word": "郑州辟谣封城",
@@ -1832,14 +1848,6 @@
       "word": "男孩买水果发现罕见双色柚子",
       "onboard_time": 1667285485,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554943,
-      "num": 438350,
-      "word": "3200多名南侨机工已全部离世",
-      "onboard_time": 1667527586,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2099,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 505340,
+      "num": 491062,
+      "word": "赵露思偷偷藏不住骑自行车路透",
+      "onboard_time": 1667532805,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505207,
       "num": 505207,
       "word": "这就是民国大小姐本人吧",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1667211326,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 501905,
-      "num": 431341,
-      "word": "赵露思偷偷藏不住骑自行车路透",
-      "onboard_time": 1667532805,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 499352,
@@ -2177,6 +2185,14 @@
       "onboard_time": 1667278830,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492187,
+      "num": 492187,
+      "word": "爸爸开粉色小车接送女儿引围观",
+      "onboard_time": 1667531124,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491642,
@@ -2339,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467676,
+      "num": 467676,
+      "word": "校方回应女子在杭州地铁内爬行",
+      "onboard_time": 1667533345,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462248,
       "num": 462248,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1667467827,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 440588,
-      "num": 440588,
-      "word": "爸爸开粉色小车接送女儿引围观",
-      "onboard_time": 1667531124,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439752,
@@ -2841,14 +2857,6 @@
       "onboard_time": 1667230048,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394626,
-      "num": 394626,
-      "word": "阿瑟终于要火了",
-      "onboard_time": 1667533225,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 390776,
@@ -3356,7 +3364,7 @@
     },
     {
       "raw_hot": 322530,
-      "num": 224109,
+      "num": 231203,
       "word": "时代少年团芭次元动画盛典VCR",
       "onboard_time": 1667534064,
       "rank": 21,
@@ -3907,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273448,
+      "num": 273448,
+      "word": "朔尔茨访华随行CEO名单凸显合作",
+      "onboard_time": 1667533165,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 272865,
       "num": 202424,
       "word": "觉醒年代剧组飞天奖重聚",
@@ -4259,6 +4275,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 241671,
+      "num": 146694,
+      "word": "王家卫镜头下的辛芷蕾",
+      "onboard_time": 1667530946,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "王者七周年返场皮肤",
@@ -4307,14 +4331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237132,
-      "num": 237132,
-      "word": "校方回应女子在杭州地铁内爬行",
-      "onboard_time": 1667533345,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236386,
       "num": 233482,
       "word": "汪苏泷no拔笛",
@@ -4361,14 +4377,6 @@
       "onboard_time": 1667483608,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 234638,
-      "num": 146694,
-      "word": "王家卫镜头下的辛芷蕾",
-      "onboard_time": 1667530946,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 234581,
@@ -4697,6 +4705,14 @@
       "onboard_time": 1667184864,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206110,
+      "num": 113640,
+      "word": "gidle新歌NxdeMV点击量破亿",
+      "onboard_time": 1667535086,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 205219,
@@ -5433,14 +5449,6 @@
       "onboard_time": 1667197762,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168946,
-      "num": 168946,
-      "word": "朔尔茨访华随行CEO名单凸显合作",
-      "onboard_time": 1667533165,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 168475,
@@ -6611,6 +6619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118045,
+      "num": 118045,
+      "word": "疑似涉事网课爆破参与者发声",
+      "onboard_time": 1667534906,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117438,
       "num": 117438,
       "word": "原神珐露珊",
@@ -6971,6 +6987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100992,
+      "num": 100992,
+      "word": "水稻在中国空间站里结穗了",
+      "onboard_time": 1667533885,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -7049,14 +7073,6 @@
       "onboard_time": 1667215164,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98318,
-      "num": 98318,
-      "word": "水稻在中国空间站里结穗了",
-      "onboard_time": 1667533885,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 98314,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667534553184,
+  "endTime": 1667535255164,
   "band_list": [
     {
       "raw_hot": 1442926,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968114,
+      "num": 968114,
+      "word": "第14届金鹰节颁奖晚会阵容官宣",
+      "onboard_time": 1667532024,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 959142,
       "num": 959142,
       "word": "老丈人偷女婿91万现金藏房门里",
       "onboard_time": 1667527165,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 932001,
-      "num": 932001,
-      "word": "第14届金鹰节颁奖晚会阵容官宣",
-      "onboard_time": 1667532024,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 864815,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703141,
+      "num": 703141,
+      "word": "阿瑟终于要火了",
+      "onboard_time": 1667533225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675672,
       "num": 675672,
       "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
@@ -107,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554943,
-      "num": 438350,
+      "raw_hot": 564687,
+      "num": 564687,
       "word": "3200多名南侨机工已全部离世",
       "onboard_time": 1667527586,
       "rank": 47,
@@ -171,8 +179,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 501905,
-      "num": 431341,
+      "raw_hot": 505340,
+      "num": 491062,
       "word": "赵露思偷偷藏不住骑自行车路透",
       "onboard_time": 1667532805,
       "rank": 11,
@@ -195,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492187,
+      "num": 492187,
+      "word": "爸爸开粉色小车接送女儿引围观",
+      "onboard_time": 1667531124,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491642,
       "num": 491642,
       "word": "YG否认金智秀患淋巴结肿大",
       "onboard_time": 1667529324,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467676,
+      "num": 467676,
+      "word": "校方回应女子在杭州地铁内爬行",
+      "onboard_time": 1667533345,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458081,
@@ -217,14 +241,6 @@
       "onboard_time": 1667488529,
       "rank": 7,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 440588,
-      "num": 440588,
-      "word": "爸爸开粉色小车接送女儿引围观",
-      "onboard_time": 1667531124,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434015,
@@ -249,14 +265,6 @@
       "onboard_time": 1667520147,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394626,
-      "num": 394626,
-      "word": "阿瑟终于要火了",
-      "onboard_time": 1667533225,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 386596,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 322530,
-      "num": 224109,
+      "num": 231203,
       "word": "时代少年团芭次元动画盛典VCR",
       "onboard_time": 1667534064,
       "rank": 21,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273448,
+      "num": 273448,
+      "word": "朔尔茨访华随行CEO名单凸显合作",
+      "onboard_time": 1667533165,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 270251,
       "num": 270251,
       "word": "为什么00后购物变谨慎了",
@@ -387,15 +403,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 237132,
-      "num": 237132,
-      "word": "校方回应女子在杭州地铁内爬行",
-      "onboard_time": 1667533345,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234638,
+      "raw_hot": 241671,
       "num": 146694,
       "word": "王家卫镜头下的辛芷蕾",
       "onboard_time": 1667530946,
@@ -481,6 +489,14 @@
       "onboard_time": 1667477606,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206110,
+      "num": 113640,
+      "word": "gidle新歌NxdeMV点击量破亿",
+      "onboard_time": 1667535086,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201517,
@@ -577,14 +593,6 @@
       "onboard_time": 1667466024,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168946,
-      "num": 168946,
-      "word": "朔尔茨访华随行CEO名单凸显合作",
-      "onboard_time": 1667533165,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 167044,
@@ -715,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122134,
+      "num": 94556,
+      "word": "披荆斩棘",
+      "onboard_time": 1667535206,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "太空水稻成熟了",
       "onboard_time": 1667529625,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 118045,
+      "num": 118045,
+      "word": "疑似涉事网课爆破参与者发声",
+      "onboard_time": 1667534906,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114309,
@@ -779,20 +803,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100992,
+      "num": 100992,
+      "word": "水稻在中国空间站里结穗了",
+      "onboard_time": 1667533885,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 100911,
       "num": 89095,
       "word": "迪丽热巴检察官气质",
       "onboard_time": 1667478025,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98318,
-      "num": 98318,
-      "word": "水稻在中国空间站里结穗了",
-      "onboard_time": 1667533885,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 96535,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 41660,
-      "num": 934351,
+      "num": 941638,
       "word": "中国航天让神话照进现实",
       "onboard_time": 1667479706,
       "rank": 2,
