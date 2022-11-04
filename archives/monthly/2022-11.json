@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667566061391,
+  "endTime": 1667567565675,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483252,
+      "num": 438830,
+      "word": "武汉为世界首座人口超千万湿地城市",
+      "onboard_time": 1667562448,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482007,
       "num": 482007,
       "word": "公司恶意用100多斤硬币清偿被罚",
@@ -2035,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480241,
+      "num": 480241,
+      "word": "XYG",
+      "onboard_time": 1667564309,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 478772,
       "num": 478772,
       "word": "徐志胜窝里横",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1667261004,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468955,
+      "num": 436781,
+      "word": "工人高空坠落被钢筋贯穿身体",
+      "onboard_time": 1667564249,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 464976,
@@ -2259,6 +2283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433380,
+      "num": 433380,
+      "word": "颈椎一下子就舒服了",
+      "onboard_time": 1667561730,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432811,
       "num": 432811,
       "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1667536287,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416526,
+      "num": 206285,
+      "word": "汪涵金鹰节发型",
+      "onboard_time": 1667567250,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415559,
@@ -2971,14 +3011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330997,
-      "num": 330997,
-      "word": "颈椎一下子就舒服了",
-      "onboard_time": 1667561730,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330796,
       "num": 252994,
       "word": "王鹤棣苏翊鸣合照",
@@ -3081,14 +3113,6 @@
       "onboard_time": 1667402427,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317483,
-      "num": 317483,
-      "word": "XYG",
-      "onboard_time": 1667564309,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 317392,
@@ -3281,14 +3305,6 @@
       "onboard_time": 1667449586,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302185,
-      "num": 302185,
-      "word": "武汉为世界首座人口超千万湿地城市",
-      "onboard_time": 1667562448,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300799,
@@ -3691,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258585,
+      "num": 205987,
+      "word": "陈小春XLeader",
+      "onboard_time": 1667562151,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258294,
       "num": 258294,
       "word": "余承东称每卖两台折叠屏就有一台是华为",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 239328,
-      "num": 141425,
-      "word": "陈小春XLeader",
-      "onboard_time": 1667562151,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 238960,
@@ -4019,6 +4035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225735,
+      "num": 141304,
+      "word": "杨幂白宇谢谢你医生观后感",
+      "onboard_time": 1667564970,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223048,
       "num": 223048,
       "word": "熬夜后心脏会发生什么变化",
@@ -4051,6 +4075,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 221800,
+      "num": 124679,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1667565752,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221465,
       "num": 221465,
       "word": "被2只细腿腿毛茸茸磕到了",
@@ -4073,6 +4105,14 @@
       "onboard_time": 1667292925,
       "rank": 26,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 218746,
+      "num": 124132,
+      "word": "Angelababy奔跑吧依旧是滑冰王者",
+      "onboard_time": 1667567130,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 217154,
@@ -4145,14 +4185,6 @@
       "onboard_time": 1667204065,
       "rank": 17,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 210953,
-      "num": 141304,
-      "word": "杨幂白宇谢谢你医生观后感",
-      "onboard_time": 1667564970,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 210933,
@@ -4555,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186780,
+      "num": 123187,
+      "word": "山东女团无缘全锦赛八强",
+      "onboard_time": 1667565570,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186320,
       "num": 186320,
       "word": "庞博的真诚",
@@ -4731,12 +4771,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 175296,
-      "num": 175296,
-      "word": "工人高空坠落被钢筋贯穿身体",
-      "onboard_time": 1667564249,
-      "rank": 25,
-      "category": "社会负面"
+      "raw_hot": 175187,
+      "num": 175187,
+      "word": "把代码写进了狗狗的衣服里",
+      "onboard_time": 1667563229,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 174079,
@@ -4843,14 +4883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167793,
-      "num": 167793,
-      "word": "把代码写进了狗狗的衣服里",
-      "onboard_time": 1667563229,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 167221,
       "num": 143419,
       "word": "北京顺义社会面筛查2例感染者",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1667221466,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166323,
-      "num": 100054,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1667565752,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 166002,
@@ -4969,6 +4993,14 @@
       "onboard_time": 1667369608,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 161276,
+      "num": 161276,
+      "word": "德国合唱团用中文演唱茉莉花",
+      "onboard_time": 1667562751,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161176,
@@ -5411,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141216,
+      "num": 91172,
+      "word": "谢谢你医生",
+      "onboard_time": 1667566830,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139120,
       "num": 139120,
       "word": "这钢化膜到底好还是不好",
@@ -5465,6 +5505,14 @@
       "onboard_time": 1667455764,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136407,
+      "num": 136407,
+      "word": "成年人的释怀是一种什么感觉",
+      "onboard_time": 1667566169,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 136308,
@@ -5947,12 +5995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115703,
-      "num": 115703,
-      "word": "山东女团无缘全锦赛八强",
-      "onboard_time": 1667565570,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 115586,
+      "num": 115586,
+      "word": "小猫咪没有惹你们任何人",
+      "onboard_time": 1667561971,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 114710,
@@ -6121,14 +6169,6 @@
       "onboard_time": 1667554350,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107761,
-      "num": 107761,
-      "word": "小猫咪没有惹你们任何人",
-      "onboard_time": 1667561971,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 107611,
@@ -6947,14 +6987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77239,
-      "num": 77239,
-      "word": "德国合唱团用中文演唱茉莉花",
-      "onboard_time": 1667562751,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77141,
       "num": 77141,
       "word": "舍不得四川的秋天",
@@ -6977,6 +7009,14 @@
       "onboard_time": 1667542614,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 75823,
+      "num": 75823,
+      "word": "国务院联防联控机制明日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75822,
@@ -7087,6 +7127,14 @@
       "num": 69548,
       "word": "11月2日新增本土确诊531例",
       "onboard_time": 1667441603,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69523,
+      "num": 69523,
+      "word": "网信办印发通知加强网络暴力治理",
+      "onboard_time": 1667566707,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -7553,6 +7601,14 @@
       "onboard_time": 1667230108,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32668,
+      "num": 698617,
+      "word": "2022进博会现场高清大图",
+      "onboard_time": 1667566290,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 31663,
