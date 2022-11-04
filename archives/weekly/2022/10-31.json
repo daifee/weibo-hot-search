@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667529700457,
+  "endTime": 1667534553184,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959142,
+      "num": 959142,
+      "word": "老丈人偷女婿91万现金藏房门里",
+      "onboard_time": 1667527165,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959125,
       "num": 959125,
       "word": "北下关小学",
@@ -937,6 +945,14 @@
       "onboard_time": 1667184684,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 932001,
+      "num": 932001,
+      "word": "第14届金鹰节颁奖晚会阵容官宣",
+      "onboard_time": 1667532024,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 923046,
@@ -1115,11 +1131,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 796553,
-      "num": 796553,
-      "word": "老丈人偷女婿91万现金藏房门里",
-      "onboard_time": 1667527165,
-      "rank": 37,
+      "raw_hot": 813535,
+      "num": 813535,
+      "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
+      "onboard_time": 1667530045,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1819,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554943,
+      "num": 438350,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552499,
       "num": 552499,
       "word": "男子吃馄饨被拉走餐车变观光巴士",
@@ -1843,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550296,
+      "num": 550296,
+      "word": "勇士 累死库里",
+      "onboard_time": 1667530645,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547311,
       "num": 547311,
       "word": "陈飞宇张婧仪打火机与公主裙改名",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1667305345,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537729,
+      "num": 537729,
+      "word": "阿瑟 撕日历",
+      "onboard_time": 1667528424,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 536881,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1667211326,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501905,
+      "num": 431341,
+      "word": "赵露思偷偷藏不住骑自行车路透",
+      "onboard_time": 1667532805,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499352,
@@ -2443,6 +2491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440588,
+      "num": 440588,
+      "word": "爸爸开粉色小车接送女儿引围观",
+      "onboard_time": 1667531124,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439752,
       "num": 439752,
       "word": "85花热门女演员梯队图",
@@ -2488,14 +2544,6 @@
       "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
       "onboard_time": 1667354666,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430370,
-      "num": 430370,
-      "word": "3200多名南侨机工已全部离世",
-      "onboard_time": 1667527586,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2795,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394626,
+      "num": 394626,
+      "word": "阿瑟终于要火了",
+      "onboard_time": 1667533225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390776,
       "num": 390776,
       "word": "王一博今晚直播截图",
@@ -2939,11 +2995,27 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 368987,
+      "num": 368987,
+      "word": "杨幂肖砚哭戏",
+      "onboard_time": 1667533706,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
       "onboard_time": 1667265447,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363850,
+      "num": 363850,
+      "word": "宠物医生给狗做绝育被记仇4年",
+      "onboard_time": 1667530405,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3281,6 +3353,14 @@
       "onboard_time": 1667297726,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322530,
+      "num": 224109,
+      "word": "时代少年团芭次元动画盛典VCR",
+      "onboard_time": 1667534064,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 322454,
@@ -3867,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270251,
+      "num": 270251,
+      "word": "为什么00后购物变谨慎了",
+      "onboard_time": 1667527644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270029,
       "num": 270029,
       "word": "95后小伙花2万装修入住毛坯房",
@@ -4219,6 +4307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237132,
+      "num": 237132,
+      "word": "校方回应女子在杭州地铁内爬行",
+      "onboard_time": 1667533345,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236386,
       "num": 233482,
       "word": "汪苏泷no拔笛",
@@ -4267,6 +4363,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 234638,
+      "num": 146694,
+      "word": "王家卫镜头下的辛芷蕾",
+      "onboard_time": 1667530946,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234581,
       "num": 234581,
       "word": "林允梦回千禧辣妹",
@@ -4313,6 +4417,14 @@
       "onboard_time": 1667357485,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231294,
+      "num": 231294,
+      "word": "苹果研发岗仍在招聘",
+      "onboard_time": 1667529445,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 231258,
@@ -4635,14 +4747,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 201758,
-      "num": 201758,
-      "word": "为什么00后购物变谨慎了",
-      "onboard_time": 1667527644,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201720,
       "num": 201720,
       "word": "10月31日新增本土无症状2221例",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1667491225,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 197163,
+      "num": 197163,
+      "word": "S12最前线",
+      "onboard_time": 1667528186,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 197002,
@@ -5075,19 +5187,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183097,
-      "num": 183097,
-      "word": "阿瑟 撕日历",
-      "onboard_time": 1667528424,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182572,
       "num": 182572,
       "word": "王子异说希望和秦岚再合作",
       "onboard_time": 1667349025,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182370,
+      "num": 146242,
+      "word": "刘涛秦海璐刘宇宁做自己的光杀青",
+      "onboard_time": 1667528186,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5323,6 +5435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168946,
+      "num": 168946,
+      "word": "朔尔茨访华随行CEO名单凸显合作",
+      "onboard_time": 1667533165,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 168475,
       "num": 168475,
       "word": "生机郑州全力以复",
@@ -5345,6 +5465,14 @@
       "onboard_time": 1667207305,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167044,
+      "num": 107552,
+      "word": "仙剑女性角色",
+      "onboard_time": 1667532264,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 166983,
@@ -5681,6 +5809,14 @@
       "onboard_time": 1667404468,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148406,
+      "num": 148406,
+      "word": "秋冬跑步如何避免十跑九伤",
+      "onboard_time": 1667534064,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148155,
@@ -6075,14 +6211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132425,
-      "num": 132425,
-      "word": "苹果研发岗仍在招聘",
-      "onboard_time": 1667529445,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 132245,
       "num": 132245,
       "word": "沈月新剧哭戏爆发力",
@@ -6289,14 +6417,6 @@
       "onboard_time": 1667404406,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123431,
-      "num": 123431,
-      "word": "S12最前线",
-      "onboard_time": 1667528186,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 123340,
@@ -6843,6 +6963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101186,
+      "num": 101186,
+      "word": "王嘉尔现身S12媒体日",
+      "onboard_time": 1667532324,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "SEVENTEEN全员黑西装造型",
@@ -6921,6 +7049,14 @@
       "onboard_time": 1667215164,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98318,
+      "num": 98318,
+      "word": "水稻在中国空间站里结穗了",
+      "onboard_time": 1667533885,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 98314,
@@ -7196,7 +7332,7 @@
     },
     {
       "raw_hot": 87418,
-      "num": 87418,
+      "num": 147704,
       "word": "美术老师的粉笔画会发光",
       "onboard_time": 1667480845,
       "rank": 45,

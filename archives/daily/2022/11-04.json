@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667529700457,
+  "endTime": 1667534553184,
   "band_list": [
     {
       "raw_hot": 1442926,
@@ -43,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959142,
+      "num": 959142,
+      "word": "老丈人偷女婿91万现金藏房门里",
+      "onboard_time": 1667527165,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 932001,
+      "num": 932001,
+      "word": "第14届金鹰节颁奖晚会阵容官宣",
+      "onboard_time": 1667532024,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 864815,
       "num": 864815,
       "word": "国美停发员工工资",
@@ -59,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796553,
-      "num": 796553,
-      "word": "老丈人偷女婿91万现金藏房门里",
-      "onboard_time": 1667527165,
-      "rank": 37,
+      "raw_hot": 813535,
+      "num": 813535,
+      "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
+      "onboard_time": 1667530045,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -91,12 +107,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554943,
+      "num": 438350,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552499,
       "num": 552499,
       "word": "男子吃馄饨被拉走餐车变观光巴士",
       "onboard_time": 1667489487,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550296,
+      "num": 550296,
+      "word": "勇士 累死库里",
+      "onboard_time": 1667530645,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 537729,
+      "num": 537729,
+      "word": "阿瑟 撕日历",
+      "onboard_time": 1667528424,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 532238,
@@ -129,6 +169,14 @@
       "onboard_time": 1667490446,
       "rank": 8,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 501905,
+      "num": 431341,
+      "word": "赵露思偷偷藏不住骑自行车路透",
+      "onboard_time": 1667532805,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499352,
@@ -171,20 +219,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 440588,
+      "num": 440588,
+      "word": "爸爸开粉色小车接送女儿引围观",
+      "onboard_time": 1667531124,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434015,
       "num": 434015,
       "word": "三名男大学生校内约架被电棍击伤",
       "onboard_time": 1667511430,
       "rank": 10,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 430370,
-      "num": 430370,
-      "word": "3200多名南侨机工已全部离世",
-      "onboard_time": 1667527586,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429734,
@@ -203,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394626,
+      "num": 394626,
+      "word": "阿瑟终于要火了",
+      "onboard_time": 1667533225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386596,
       "num": 334437,
       "word": "张若昀欠下的第二季还上一部了",
@@ -215,6 +271,22 @@
       "num": 379196,
       "word": "男生树下刚抬头就掉下柿子砸嘴里",
       "onboard_time": 1667489725,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368987,
+      "num": 368987,
+      "word": "杨幂肖砚哭戏",
+      "onboard_time": 1667533706,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363850,
+      "num": 363850,
+      "word": "宠物医生给狗做绝育被记仇4年",
+      "onboard_time": 1667530405,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -251,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322530,
+      "num": 224109,
+      "word": "时代少年团芭次元动画盛典VCR",
+      "onboard_time": 1667534064,
+      "rank": 21,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 301507,
       "num": 301507,
       "word": "俞灏明朱梓骁合唱让我为你唱首歌",
@@ -283,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270251,
+      "num": 270251,
+      "word": "为什么00后购物变谨慎了",
+      "onboard_time": 1667527644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269617,
       "num": 203646,
       "word": "杨幂谢谢你医生今晚见",
@@ -297,6 +385,30 @@
       "onboard_time": 1667488108,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 237132,
+      "num": 237132,
+      "word": "校方回应女子在杭州地铁内爬行",
+      "onboard_time": 1667533345,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234638,
+      "num": 146694,
+      "word": "王家卫镜头下的辛芷蕾",
+      "onboard_time": 1667530946,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231294,
+      "num": 231294,
+      "word": "苹果研发岗仍在招聘",
+      "onboard_time": 1667529445,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 230248,
@@ -371,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201758,
-      "num": 201758,
-      "word": "为什么00后购物变谨慎了",
-      "onboard_time": 1667527644,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201517,
       "num": 201517,
       "word": "米勒娃娃预测S12决赛",
@@ -401,6 +505,14 @@
       "onboard_time": 1667491225,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 197163,
+      "num": 197163,
+      "word": "S12最前线",
+      "onboard_time": 1667528186,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 195717,
@@ -435,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183097,
-      "num": 183097,
-      "word": "阿瑟 撕日历",
-      "onboard_time": 1667528424,
-      "rank": 26,
+      "raw_hot": 182370,
+      "num": 146242,
+      "word": "刘涛秦海璐刘宇宁做自己的光杀青",
+      "onboard_time": 1667528186,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -464,6 +576,22 @@
       "word": "庆余年2最新海报",
       "onboard_time": 1667466024,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168946,
+      "num": 168946,
+      "word": "朔尔茨访华随行CEO名单凸显合作",
+      "onboard_time": 1667533165,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 167044,
+      "num": 107552,
+      "word": "仙剑女性角色",
+      "onboard_time": 1667532264,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -507,6 +635,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 148406,
+      "num": 148406,
+      "word": "秋冬跑步如何避免十跑九伤",
+      "onboard_time": 1667534064,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146852,
       "num": 146852,
       "word": "住建部官员称大规模兴建国营食堂系误读",
@@ -547,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132425,
-      "num": 132425,
-      "word": "苹果研发岗仍在招聘",
-      "onboard_time": 1667529445,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 131522,
       "num": 131522,
       "word": "硬币大小的心脏起搏器让患者重获新生",
@@ -585,14 +713,6 @@
       "onboard_time": 1667502613,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123431,
-      "num": 123431,
-      "word": "S12最前线",
-      "onboard_time": 1667528186,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 119413,
@@ -651,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101186,
+      "num": 101186,
+      "word": "王嘉尔现身S12媒体日",
+      "onboard_time": 1667532324,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100911,
       "num": 89095,
       "word": "迪丽热巴检察官气质",
       "onboard_time": 1667478025,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98318,
+      "num": 98318,
+      "word": "水稻在中国空间站里结穗了",
+      "onboard_time": 1667533885,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 96535,
@@ -763,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59536,
+      "num": 147704,
+      "word": "美术老师的粉笔画会发光",
+      "onboard_time": 1667480845,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58499,
       "num": 58499,
       "word": "男子持刀冲卡买奶粉家属发声",
@@ -860,7 +1004,7 @@
     },
     {
       "raw_hot": 41660,
-      "num": 881792,
+      "num": 934351,
       "word": "中国航天让神话照进现实",
       "onboard_time": 1667479706,
       "rank": 2,

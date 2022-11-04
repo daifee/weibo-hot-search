@@ -1,0 +1,410 @@
+{
+  "runTime": 1667534553184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1401610,
+        "num": 1401610,
+        "word": "存200张亡妻照片手机丢失男子痛哭",
+        "onboard_time": 1667525967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959142,
+        "num": 959142,
+        "word": "老丈人偷女婿91万现金藏房门里",
+        "onboard_time": 1667527165,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25061,
+        "num": 934351,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 932001,
+        "num": 932001,
+        "word": "第14届金鹰节颁奖晚会阵容官宣",
+        "onboard_time": 1667532024,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 813535,
+        "num": 813535,
+        "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
+        "onboard_time": 1667530045,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655834,
+        "num": 655834,
+        "word": "伊能静说丈夫并不是你的医生",
+        "onboard_time": 1667529324,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550296,
+        "num": 550296,
+        "word": "勇士 累死库里",
+        "onboard_time": 1667530645,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537729,
+        "num": 537729,
+        "word": "阿瑟 撕日历",
+        "onboard_time": 1667528424,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513915,
+        "num": 513915,
+        "word": "女子买5桶过期油超市称恶意购买",
+        "onboard_time": 1667525605,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440588,
+        "num": 440588,
+        "word": "爸爸开粉色小车接送女儿引围观",
+        "onboard_time": 1667531124,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554943,
+        "num": 438350,
+        "word": "3200多名南侨机工已全部离世",
+        "onboard_time": 1667527586,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501905,
+        "num": 431341,
+        "word": "赵露思偷偷藏不住骑自行车路透",
+        "onboard_time": 1667532805,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394626,
+        "num": 394626,
+        "word": "阿瑟终于要火了",
+        "onboard_time": 1667533225,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368987,
+        "num": 368987,
+        "word": "杨幂肖砚哭戏",
+        "onboard_time": 1667533706,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363850,
+        "num": 363850,
+        "word": "宠物医生给狗做绝育被记仇4年",
+        "onboard_time": 1667530405,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314642,
+        "num": 314642,
+        "word": "妻子连续1年为夜班丈夫做盲盒便当",
+        "onboard_time": 1667494158,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290986,
+        "num": 290986,
+        "word": "涉嫌路边猥亵未成年少女的男子被抓",
+        "onboard_time": 1667519485,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270251,
+        "num": 270251,
+        "word": "为什么00后购物变谨慎了",
+        "onboard_time": 1667527644,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237132,
+        "num": 237132,
+        "word": "校方回应女子在杭州地铁内爬行",
+        "onboard_time": 1667533345,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231294,
+        "num": 231294,
+        "word": "苹果研发岗仍在招聘",
+        "onboard_time": 1667529445,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 366376,
+        "num": 229208,
+        "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
+        "onboard_time": 1667517742,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322530,
+        "num": 224109,
+        "word": "时代少年团芭次元动画盛典VCR",
+        "onboard_time": 1667534064,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 307071,
+        "num": 221096,
+        "word": "YG否认金智秀患淋巴结肿大",
+        "onboard_time": 1667529324,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236446,
+        "num": 220043,
+        "word": "陈飞宇李峋金毛掉色了",
+        "onboard_time": 1667522906,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216785,
+        "num": 216785,
+        "word": "夫妻帮邻居喂狗拉布拉多变拉不拉猪",
+        "onboard_time": 1667525243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197163,
+        "num": 197163,
+        "word": "S12最前线",
+        "onboard_time": 1667528186,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 168946,
+        "word": "朔尔茨访华随行CEO名单凸显合作",
+        "onboard_time": 1667533165,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164637,
+        "num": 164637,
+        "word": "推特将从周五起全公司范围裁员",
+        "onboard_time": 1667524825,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "秋冬跑步如何避免十跑九伤",
+        "onboard_time": 1667534064,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 147704,
+        "word": "美术老师的粉笔画会发光",
+        "onboard_time": 1667480845,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234638,
+        "num": 146694,
+        "word": "王家卫镜头下的辛芷蕾",
+        "onboard_time": 1667530946,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182370,
+        "num": 146242,
+        "word": "刘涛秦海璐刘宇宁做自己的光杀青",
+        "onboard_time": 1667528186,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179059,
+        "num": 145217,
+        "word": "阿瑟我承认之前对你的声音大了点",
+        "onboard_time": 1667488886,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144952,
+        "num": 144952,
+        "word": "欧文被篮网禁赛",
+        "onboard_time": 1667520386,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130805,
+        "num": 130805,
+        "word": "轿车失灵男子126码行驶2小时",
+        "onboard_time": 1667518040,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126499,
+        "num": 126499,
+        "word": "江苏省考",
+        "onboard_time": 1667527766,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "5000年前中国就有水泥地",
+        "onboard_time": 1667526025,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123080,
+        "num": 123080,
+        "word": "勇士四连败",
+        "onboard_time": 1667527408,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114857,
+        "num": 114857,
+        "word": "男子吃馄饨被拉走餐车变观光巴士",
+        "onboard_time": 1667489487,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108040,
+        "num": 108040,
+        "word": "合肥一公园定位反串纽约意外爆火",
+        "onboard_time": 1667493381,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167044,
+        "num": 107552,
+        "word": "仙剑女性角色",
+        "onboard_time": 1667532264,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154418,
+        "num": 107545,
+        "word": "金鹰节开幕式主持人汪涵朱迅",
+        "onboard_time": 1667528486,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106482,
+        "num": 106482,
+        "word": "三名男大学生校内约架被电棍击伤",
+        "onboard_time": 1667511430,
+        "rank": 42,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 106013,
+        "num": 106013,
+        "word": "第一次见睡觉掉床的小狗",
+        "onboard_time": 1667490446,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104733,
+        "num": 104733,
+        "word": "主人生娃后猫咪患上抑郁症",
+        "onboard_time": 1667486609,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101186,
+        "num": 101186,
+        "word": "王嘉尔现身S12媒体日",
+        "onboard_time": 1667532324,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100472,
+        "num": 100472,
+        "word": "鄂尔多斯通告称无论何时生命至上",
+        "onboard_time": 1667520147,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99068,
+        "num": 99068,
+        "word": "北京11月3日新增本土确诊32例",
+        "onboard_time": 1667522728,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98318,
+        "num": 98318,
+        "word": "水稻在中国空间站里结穗了",
+        "onboard_time": 1667533885,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 94101,
+        "num": 94101,
+        "word": "男生树下刚抬头就掉下柿子砸嘴里",
+        "onboard_time": 1667489725,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}
