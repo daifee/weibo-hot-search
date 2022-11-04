@@ -1,0 +1,410 @@
+{
+  "runTime": 1667554655639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632766,
+        "num": 1632766,
+        "word": "今年没有金鹰女神了",
+        "onboard_time": 1667552787,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1265197,
+        "num": 1265197,
+        "word": "金鹰女神",
+        "onboard_time": 1667547508,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65999,
+        "num": 882386,
+        "word": "深入学习宣传贯彻二十大精神",
+        "onboard_time": 1667551890,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 770229,
+        "num": 770229,
+        "word": "牛市回来了",
+        "onboard_time": 1667552368,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 769957,
+        "num": 769957,
+        "word": "杨幂说终于挂上肖砚医生的号了",
+        "onboard_time": 1667551708,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492182,
+        "num": 492182,
+        "word": "沙坪坝疫情防控",
+        "onboard_time": 1667551351,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349946,
+        "num": 349946,
+        "word": "Gemini侧颜",
+        "onboard_time": 1667549490,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349676,
+        "num": 349676,
+        "word": "最高检依法对李国华决定逮捕",
+        "onboard_time": 1667547811,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288945,
+        "num": 288945,
+        "word": "1岁宝宝误食安定药昏迷保姆未告知",
+        "onboard_time": 1667544930,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255426,
+        "num": 255426,
+        "word": "男子捡回3只兔子7个月繁殖近百只",
+        "onboard_time": 1667535689,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933688,
+        "num": 247660,
+        "word": "感谢陈红",
+        "onboard_time": 1667543489,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 773287,
+        "num": 233806,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486934,
+        "num": 220206,
+        "word": "男子交不起房租带妻儿住公园4月",
+        "onboard_time": 1667553029,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386306,
+        "num": 208005,
+        "word": "孙怡否认是金鹰女神",
+        "onboard_time": 1667547991,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207050,
+        "num": 207050,
+        "word": "女子当当网买到半印刷半手抄书",
+        "onboard_time": 1667553388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198417,
+        "num": 198417,
+        "word": "狗子都穿上羽绒服了",
+        "onboard_time": 1667550089,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197318,
+        "num": 197318,
+        "word": "外婆先背会课文气哭一年级外孙",
+        "onboard_time": 1667543066,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177681,
+        "num": 177681,
+        "word": "儿子取母亲50万养老钱打赏女主播",
+        "onboard_time": 1667538990,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162166,
+        "num": 162166,
+        "word": "2岁幼童坠楼被街坊们用床单接住",
+        "onboard_time": 1667552910,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 160424,
+        "num": 160424,
+        "word": "3200多名南侨机工已全部离世",
+        "onboard_time": 1667527586,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348228,
+        "num": 158628,
+        "word": "杨迪给街边生病卖唱的大学生转账",
+        "onboard_time": 1667552547,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290490,
+        "num": 158612,
+        "word": "阿瑟终于要火了",
+        "onboard_time": 1667533225,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155839,
+        "num": 155839,
+        "word": "苹果市值一夜蒸发7160亿元",
+        "onboard_time": 1667538149,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 238217,
+        "num": 155119,
+        "word": "为什么叫陈飞宇阿瑟",
+        "onboard_time": 1667539409,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154356,
+        "num": 154356,
+        "word": "丢烟头引青岛山火男子被判4年半",
+        "onboard_time": 1667541628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151787,
+        "num": 151787,
+        "word": "流浪猫在CBD拥有豪华猫舍引关注",
+        "onboard_time": 1667551769,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139335,
+        "num": 139335,
+        "word": "司机因口渴误饮油漆稀释剂",
+        "onboard_time": 1667553268,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135796,
+        "num": 135796,
+        "word": "这钢化膜到底好还是不好",
+        "onboard_time": 1667550268,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130448,
+        "num": 130448,
+        "word": "这小狗怎么长得好像小羊",
+        "onboard_time": 1667552849,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113934,
+        "num": 113934,
+        "word": "浙江省考",
+        "onboard_time": 1667548948,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201170,
+        "num": 113760,
+        "word": "阿瑟文学之我是你爸",
+        "onboard_time": 1667550330,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153863,
+        "num": 113694,
+        "word": "肖战如梦之梦十周年首演变更昆山站",
+        "onboard_time": 1667545709,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130924,
+        "num": 113445,
+        "word": "蔡徐坤白鹿周深上学座位公布",
+        "onboard_time": 1667544448,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116156,
+        "num": 113200,
+        "word": "披荆斩棘总决赛彩排照",
+        "onboard_time": 1667551351,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110100,
+        "num": 113073,
+        "word": "过了20岁就不能吃得像个小孩子了",
+        "onboard_time": 1667543307,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 112923,
+        "num": 112923,
+        "word": "被2只细腿腿毛茸茸磕到了",
+        "onboard_time": 1667542345,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108038,
+        "num": 108038,
+        "word": "内蒙一男子滑冰上班",
+        "onboard_time": 1667554350,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90260,
+        "num": 90260,
+        "word": "元歌无心新皮肤",
+        "onboard_time": 1667545348,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89741,
+        "num": 89741,
+        "word": "欧文道歉",
+        "onboard_time": 1667535508,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88566,
+        "num": 88566,
+        "word": "买羽绒服需要看哪些指标",
+        "onboard_time": 1667554290,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 113313,
+        "num": 88422,
+        "word": "2022MMA最佳新人提名名单",
+        "onboard_time": 1667541748,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87720,
+        "num": 87720,
+        "word": "朔尔茨访华随行CEO名单凸显合作",
+        "onboard_time": 1667533165,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87221,
+        "num": 87221,
+        "word": "年轻人算是把穿搭玩明白了",
+        "onboard_time": 1667552608,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85919,
+        "num": 85919,
+        "word": "存200张亡妻照片手机丢失男子痛哭",
+        "onboard_time": 1667525967,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85916,
+        "num": 85916,
+        "word": "前大连足球名宿王涛去世",
+        "onboard_time": 1667543908,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85462,
+        "num": 85462,
+        "word": "家庭真的比事业重要吗",
+        "onboard_time": 1667537310,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83298,
+        "num": 83298,
+        "word": "这是一窝摆烂猫吧",
+        "onboard_time": 1667535927,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76013,
+        "num": 76013,
+        "word": "不期而至 大哥大嫂",
+        "onboard_time": 1667535988,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75973,
+        "num": 75973,
+        "word": "nikke",
+        "onboard_time": 1667536287,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73983,
+        "num": 73983,
+        "word": "研究表明听力损失或导致阿尔茨海默病",
+        "onboard_time": 1667553868,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
