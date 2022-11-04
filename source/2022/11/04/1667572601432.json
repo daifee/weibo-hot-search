@@ -1,0 +1,410 @@
+{
+  "runTime": 1667572601432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157164,
+        "num": 1157164,
+        "word": "国务院联防联控机制明日召开发布会",
+        "onboard_time": 1667567551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886945,
+        "num": 886945,
+        "word": "今年没有金鹰女神了",
+        "onboard_time": 1667552787,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58009,
+        "num": 849398,
+        "word": "疫情期间可领取补贴系谣言",
+        "onboard_time": 1667563170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844114,
+        "num": 844114,
+        "word": "多家茶饮品牌联合抵制外卖满减",
+        "onboard_time": 1667567910,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667793,
+        "num": 667793,
+        "word": "少爷和我警察篇",
+        "onboard_time": 1667570791,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640811,
+        "num": 640811,
+        "word": "金鹰女神",
+        "onboard_time": 1667547508,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551420,
+        "num": 551420,
+        "word": "工人高空坠落被钢筋贯穿身体",
+        "onboard_time": 1667564249,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 543975,
+        "num": 543975,
+        "word": "林高远",
+        "onboard_time": 1667569350,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508292,
+        "num": 508292,
+        "word": "日本正式加入北约网络防御中心",
+        "onboard_time": 1667560649,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 461836,
+        "num": 461836,
+        "word": "王楚钦2比3郑培锋",
+        "onboard_time": 1667569230,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46659,
+        "num": 436830,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 509356,
+        "num": 432772,
+        "word": "清洁工躺车库被碾亡司机一审被判无罪",
+        "onboard_time": 1667569710,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425473,
+        "num": 425473,
+        "word": "网购馥蕾诗保湿水内有一只虫",
+        "onboard_time": 1667570310,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415317,
+        "num": 415317,
+        "word": "日本拟于2030年前部署高超音速导弹",
+        "onboard_time": 1667568090,
+        "rank": 13,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 413023,
+        "num": 413023,
+        "word": "苏有朋披荆斩棘年度总冠军",
+        "onboard_time": 1667558308,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409372,
+        "num": 409372,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1667569831,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364448,
+        "num": 364448,
+        "word": "赵丽颖发视频告别与凤行沈璃",
+        "onboard_time": 1667560889,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356621,
+        "num": 356621,
+        "word": "颈椎一下子就舒服了",
+        "onboard_time": 1667561730,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310302,
+        "num": 310302,
+        "word": "女子当当网买到半印刷半手抄书",
+        "onboard_time": 1667553388,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292508,
+        "num": 292508,
+        "word": "XYG",
+        "onboard_time": 1667564309,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258793,
+        "num": 258793,
+        "word": "今年或将迎来本世纪首个三重拉尼娜",
+        "onboard_time": 1667557950,
+        "rank": 20,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 253104,
+        "num": 253104,
+        "word": "成年人的释怀是一种什么感觉",
+        "onboard_time": 1667566169,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252119,
+        "num": 252119,
+        "word": "重庆一小区宠物接连死亡",
+        "onboard_time": 1667561128,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239797,
+        "num": 239797,
+        "word": "披荆斩棘总决赛排名",
+        "onboard_time": 1667559870,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207248,
+        "num": 207248,
+        "word": "武汉为世界首座人口超千万湿地城市",
+        "onboard_time": 1667562448,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206715,
+        "num": 206715,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185108,
+        "num": 185108,
+        "word": "中公一次性退款变不定额分期退",
+        "onboard_time": 1667559089,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177095,
+        "num": 177095,
+        "word": "牛市回来了",
+        "onboard_time": 1667552368,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175418,
+        "num": 175418,
+        "word": "张彬彬郭俊辰金瀚金鹰节携手走红毯",
+        "onboard_time": 1667571814,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171037,
+        "num": 171037,
+        "word": "德国总理访华",
+        "onboard_time": 1667561428,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1422610,
+        "num": 170691,
+        "word": "汪涵金鹰节发型",
+        "onboard_time": 1667567250,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174841,
+        "num": 170563,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1667565752,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "孙颖莎22岁生日感言",
+        "onboard_time": 1667568690,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556936,
+        "num": 162528,
+        "word": "孙怡珠光万物生灵刺绣礼裙",
+        "onboard_time": 1667570852,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150972,
+        "num": 150972,
+        "word": "杨幂白宇谢谢你医生观后感",
+        "onboard_time": 1667564970,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146060,
+        "num": 146060,
+        "word": "儿子沉迷游戏父亲怒摔手机让其砸",
+        "onboard_time": 1667557168,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137427,
+        "num": 137427,
+        "word": "网传救护车坐地起价涉事人员被抓",
+        "onboard_time": 1667569949,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128327,
+        "num": 128327,
+        "word": "男子围观车祸下一秒被撞",
+        "onboard_time": 1667571271,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111108,
+        "num": 111108,
+        "word": "深圳校服上新了",
+        "onboard_time": 1667559029,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108608,
+        "num": 108608,
+        "word": "男子生意失败让女友碰瓷挣钱",
+        "onboard_time": 1667555789,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 106628,
+        "word": "点燃我温暖你",
+        "onboard_time": 1667568990,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139421,
+        "num": 105694,
+        "word": "第14届金鹰节开幕式",
+        "onboard_time": 1667564068,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103350,
+        "num": 103350,
+        "word": "把代码写进了狗狗的衣服里",
+        "onboard_time": 1667563229,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92523,
+        "num": 92523,
+        "word": "中国的古人也吃方便面",
+        "onboard_time": 1667571932,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89339,
+        "num": 89339,
+        "word": "女子冰奶茶配油炸小吃致酸中毒",
+        "onboard_time": 1667555430,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84586,
+        "num": 84586,
+        "word": "男童被压车底20多人瞬间冲了上去",
+        "onboard_time": 1667571870,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 83058,
+        "num": 83058,
+        "word": "不是说好不过双十一吗",
+        "onboard_time": 1667559688,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71780,
+        "num": 82967,
+        "word": "王楚钦",
+        "onboard_time": 1667564909,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67061,
+        "num": 82935,
+        "word": "德国合唱团用中文演唱茉莉花",
+        "onboard_time": 1667562751,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64547,
+        "num": 82826,
+        "word": "山东女团无缘全锦赛八强",
+        "onboard_time": 1667565570,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届进博会开幕式#"
+    }
+  }
+}
