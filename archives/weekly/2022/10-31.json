@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667590428736,
+  "endTime": 1667593557140,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -9787,6 +9787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24028,
+      "num": 24028,
+      "word": "鄂尔多斯防疫通告为何刷屏",
+      "onboard_time": 1667591952,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22340,
       "num": 22340,
       "word": "我的四大精神支柱",
@@ -9867,12 +9875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14208,
+      "num": 14208,
+      "word": "武磊6场7球",
+      "onboard_time": 1667590152,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13818,
       "num": 503451,
       "word": "MateXs2支持北斗卫星消息",
       "onboard_time": 1667186003,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12404,
+      "num": 12404,
+      "word": "冬天需要安全感",
+      "onboard_time": 1667593511,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12309,
@@ -9889,14 +9913,6 @@
       "onboard_time": 1667361629,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11136,
-      "num": 13188,
-      "word": "武磊6场7球",
-      "onboard_time": 1667590152,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 10081,
