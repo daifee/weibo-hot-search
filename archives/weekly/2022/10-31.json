@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667538122355,
+  "endTime": 1667539617758,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189956,
+      "num": 1189956,
+      "word": "男子捡回3只兔子7个月繁殖近百只",
+      "onboard_time": 1667535689,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189416,
       "num": 492909,
       "word": "杨紫直播状态",
@@ -856,14 +864,6 @@
       "word": "专家称姐弟恋婚姻比例上升是社会进步",
       "onboard_time": 1667368285,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 993194,
-      "num": 993194,
-      "word": "男子捡回3只兔子7个月繁殖近百只",
-      "onboard_time": 1667535689,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2667,6 +2667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 416881,
+      "num": 416881,
+      "word": "nikke",
+      "onboard_time": 1667536287,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 416634,
       "num": 363555,
       "word": "印度桥梁坍塌事故已致130人死亡",
@@ -3059,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364200,
+      "num": 364200,
+      "word": "为什么叫陈飞宇阿瑟",
+      "onboard_time": 1667539409,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363850,
       "num": 363850,
       "word": "宠物医生给狗做绝育被记仇4年",
@@ -3163,14 +3179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355197,
-      "num": 355197,
-      "word": "nikke",
-      "onboard_time": 1667536287,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 353069,
       "num": 353069,
       "word": "三个中国财神爷救了玉皇大帝",
@@ -3233,6 +3241,14 @@
       "onboard_time": 1667184323,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347652,
+      "num": 347652,
+      "word": "家庭真的比事业重要吗",
+      "onboard_time": 1667537310,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 347371,
@@ -3323,6 +3339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334286,
+      "num": 334286,
+      "word": "这是一窝摆烂猫吧",
+      "onboard_time": 1667535927,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333966,
       "num": 333966,
       "word": "一直博北大学生涉嫌论文抄袭",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1667284826,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331710,
-      "num": 331710,
-      "word": "这是一窝摆烂猫吧",
-      "onboard_time": 1667535927,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 331586,
@@ -4587,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225611,
+      "num": 225611,
+      "word": "苹果市值一夜蒸发7160亿元",
+      "onboard_time": 1667538149,
+      "rank": 20,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 223048,
       "num": 223048,
       "word": "熬夜后心脏会发生什么变化",
@@ -4764,7 +4788,7 @@
     },
     {
       "raw_hot": 207423,
-      "num": 154301,
+      "num": 190367,
       "word": "张雪迎毕雯珺新剧演情侣",
       "onboard_time": 1667536768,
       "rank": 32,
@@ -4788,7 +4812,7 @@
     },
     {
       "raw_hot": 206110,
-      "num": 113640,
+      "num": 133839,
       "word": "gidle新歌NxdeMV点击量破亿",
       "onboard_time": 1667535086,
       "rank": 32,
@@ -4801,6 +4825,14 @@
       "onboard_time": 1667306248,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204499,
+      "num": 204499,
+      "word": "居然被狗妈妈投诉了",
+      "onboard_time": 1667537670,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 203845,
@@ -5441,14 +5473,6 @@
       "onboard_time": 1667466925,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173498,
-      "num": 173498,
-      "word": "家庭真的比事业重要吗",
-      "onboard_time": 1667537310,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 173004,
@@ -6507,14 +6531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124668,
-      "num": 124668,
-      "word": "居然被狗妈妈投诉了",
-      "onboard_time": 1667537670,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124633,
       "num": 124633,
       "word": "张彬彬奔跑吧上班路透",
@@ -6625,6 +6641,14 @@
       "onboard_time": 1667463744,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121431,
+      "num": 121431,
+      "word": "大量网友晒双十一拍拍乐中奖截图",
+      "onboard_time": 1667537371,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120231,
@@ -7067,6 +7091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 102610,
+      "num": 102610,
+      "word": "儿子取母亲50万养老钱打赏女主播",
+      "onboard_time": 1667538990,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
@@ -7081,14 +7113,6 @@
       "onboard_time": 1667532324,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100792,
-      "num": 100792,
-      "word": "大量网友晒双十一拍拍乐中奖截图",
-      "onboard_time": 1667537371,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100559,
@@ -7379,6 +7403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91515,
+      "num": 91515,
+      "word": "车主回应定速巡航失灵126码跑2小时",
+      "onboard_time": 1667538990,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91438,
       "num": 91438,
       "word": "极氪CEO灵魂拷问所有MPV",
@@ -7649,6 +7681,14 @@
       "onboard_time": 1667471966,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 83397,
+      "num": 83397,
+      "word": "杭州小学生教清洁工大爷做数学题",
+      "onboard_time": 1667539110,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83207,
