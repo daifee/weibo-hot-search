@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667560747216,
+  "endTime": 1667561712985,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3169070,
-      "num": 338456,
+      "num": 368011,
       "word": "143",
       "onboard_time": 1667546010,
       "rank": 10,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1225176,
-      "num": 334363,
+      "num": 392556,
       "word": "感谢陈红",
       "onboard_time": 1667543489,
       "rank": 15,
@@ -921,6 +921,14 @@
       "onboard_time": 1667368285,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996487,
+      "num": 996487,
+      "word": "韩国爱豆出身在家吸毒被捕",
+      "onboard_time": 1667560469,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 983996,
@@ -1955,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565592,
+      "num": 565592,
+      "word": "中公一次性退款变不定额分期退",
+      "onboard_time": 1667559089,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563308,
       "num": 563308,
       "word": "郑州辟谣封城",
@@ -2339,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495851,
+      "num": 495851,
+      "word": "今年或将迎来本世纪首个三重拉尼娜",
+      "onboard_time": 1667557950,
+      "rank": 34,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 494422,
       "num": 494422,
       "word": "福州地铁",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1667465964,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486003,
+      "num": 486003,
+      "word": "儿子沉迷游戏父亲怒摔手机让其砸",
+      "onboard_time": 1667557168,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485927,
@@ -2619,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448724,
+      "num": 153789,
+      "word": "赵丽颖发视频告别与凤行沈璃",
+      "onboard_time": 1667560889,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448619,
       "num": 330140,
       "word": "俞灏明朱梓骁合唱让我为你唱首歌",
@@ -2655,14 +2695,6 @@
       "num": 386381,
       "word": "红通人员屈健玲被遣返回国",
       "onboard_time": 1667448209,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444523,
-      "num": 444523,
-      "word": "儿子沉迷游戏父亲怒摔手机让其砸",
-      "onboard_time": 1667557168,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -2803,14 +2835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427002,
-      "num": 156042,
-      "word": "韩国爱豆出身在家吸毒被捕",
-      "onboard_time": 1667560469,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426500,
       "num": 426500,
       "word": "河南内蒙古强调不能长期无差别封控",
@@ -2945,6 +2969,14 @@
       "onboard_time": 1667366846,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 406270,
+      "num": 357520,
+      "word": "日本正式加入北约网络防御中心",
+      "onboard_time": 1667560649,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 405861,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1667446162,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374104,
-      "num": 374104,
-      "word": "今年或将迎来本世纪首个三重拉尼娜",
-      "onboard_time": 1667557950,
-      "rank": 34,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 373161,
@@ -3497,6 +3521,14 @@
       "onboard_time": 1667276907,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345172,
+      "num": 150702,
+      "word": "周深撕毛衣",
+      "onboard_time": 1667560829,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 344919,
@@ -4017,14 +4049,6 @@
       "onboard_time": 1667204244,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293267,
-      "num": 293267,
-      "word": "中公一次性退款变不定额分期退",
-      "onboard_time": 1667559089,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291127,
@@ -5939,6 +5963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167221,
+      "num": 109420,
+      "word": "北京顺义社会面筛查2例感染者",
+      "onboard_time": 1667560231,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167134,
       "num": 167134,
       "word": "BLACKPINK世巡后台合照",
@@ -6059,6 +6091,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 161176,
+      "num": 161176,
+      "word": "北京一宠物店出考题审核领养人",
+      "onboard_time": 1667559268,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161119,
+      "num": 106532,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1667558789,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160986,
       "num": 160986,
       "word": "罗云熙吴倩末日情侣既视感",
@@ -6073,6 +6121,14 @@
       "onboard_time": 1667353405,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160338,
+      "num": 102046,
+      "word": "斋藤飞鸟即将毕业",
+      "onboard_time": 1667561310,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 160187,
@@ -6113,14 +6169,6 @@
       "onboard_time": 1667431942,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158028,
-      "num": 83909,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1667558789,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157953,
@@ -6323,14 +6371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148898,
-      "num": 106348,
-      "word": "北京顺义社会面筛查2例感染者",
-      "onboard_time": 1667560231,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148492,
       "num": 122004,
       "word": "原来油腻男不分国界",
@@ -6449,6 +6489,14 @@
       "onboard_time": 1667222905,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 144752,
+      "num": 144752,
+      "word": "深圳校服上新了",
+      "onboard_time": 1667559029,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 144522,
@@ -6593,14 +6641,6 @@
       "onboard_time": 1667141552,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138696,
-      "num": 138696,
-      "word": "北京一宠物店出考题审核领养人",
-      "onboard_time": 1667559268,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138214,
@@ -6841,6 +6881,14 @@
       "onboard_time": 1667204845,
       "rank": 40,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 131830,
+      "num": 131830,
+      "word": "德国总理访华",
+      "onboard_time": 1667561428,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 131798,
@@ -7131,12 +7179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120809,
-      "num": 120809,
-      "word": "深圳校服上新了",
-      "onboard_time": 1667559029,
-      "rank": 26,
-      "category": "教育,社会新闻"
+      "raw_hot": 120423,
+      "num": 120423,
+      "word": "第一次觉得画画这么简单",
+      "onboard_time": 1667558069,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 120231,
@@ -7273,6 +7321,14 @@
       "onboard_time": 1667539769,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114378,
+      "num": 100689,
+      "word": "不是说好不过双十一吗",
+      "onboard_time": 1667559688,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 114309,
@@ -7425,14 +7481,6 @@
       "onboard_time": 1667384367,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108355,
-      "num": 108355,
-      "word": "第一次觉得画画这么简单",
-      "onboard_time": 1667558069,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 108219,
@@ -7795,14 +7843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95483,
-      "num": 95483,
-      "word": "不是说好不过双十一吗",
-      "onboard_time": 1667559688,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95214,
       "num": 95214,
       "word": "打工人酒里藏了多少心事",
@@ -8009,6 +8049,14 @@
       "onboard_time": 1667406682,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89801,
+      "num": 89801,
+      "word": "重庆一小区宠物接连死亡",
+      "onboard_time": 1667561128,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89794,
@@ -8531,20 +8579,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 74536,
+      "num": 74536,
+      "word": "原来白砂糖的制法是中国发明的",
+      "onboard_time": 1667559388,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 73595,
       "num": 73595,
       "word": "天涯社区创始人已被限制高消费",
       "onboard_time": 1667483907,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73522,
-      "num": 73522,
-      "word": "原来白砂糖的制法是中国发明的",
-      "onboard_time": 1667559388,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 73483,
@@ -8641,14 +8689,6 @@
       "onboard_time": 1667548229,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67998,
-      "num": 67998,
-      "word": "日本正式加入北约网络防御中心",
-      "onboard_time": 1667560649,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 67857,
@@ -9236,7 +9276,7 @@
     },
     {
       "raw_hot": 16975,
-      "num": 304109,
+      "num": 352209,
       "word": "副驾安全测试有多重要",
       "onboard_time": 1667559628,
       "rank": 14,
