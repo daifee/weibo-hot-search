@@ -1,0 +1,410 @@
+{
+  "runTime": 1667529700457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412497,
+        "num": 1412497,
+        "word": "存200张亡妻照片手机丢失男子痛哭",
+        "onboard_time": 1667525967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022514,
+        "num": 1022514,
+        "word": "女子买5桶过期油超市称恶意购买",
+        "onboard_time": 1667525605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41660,
+        "num": 881792,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 1203846,
+        "num": 878548,
+        "word": "伊能静说丈夫并不是你的医生",
+        "onboard_time": 1667529324,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 853546,
+        "num": 853546,
+        "word": "一女子在杭州地铁内爬行",
+        "onboard_time": 1667518642,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796553,
+        "num": 796553,
+        "word": "老丈人偷女婿91万现金藏房门里",
+        "onboard_time": 1667527165,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565838,
+        "num": 565838,
+        "word": "妻子连续1年为夜班丈夫做盲盒便当",
+        "onboard_time": 1667494158,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525835,
+        "num": 525835,
+        "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
+        "onboard_time": 1667517742,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499352,
+        "num": 499352,
+        "word": "夫妻帮邻居喂狗拉布拉多变拉不拉猪",
+        "onboard_time": 1667525243,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495179,
+        "num": 495179,
+        "word": "陈飞宇李峋金毛掉色了",
+        "onboard_time": 1667522906,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491642,
+        "num": 491642,
+        "word": "YG否认金智秀患淋巴结肿大",
+        "onboard_time": 1667529324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430370,
+        "num": 430370,
+        "word": "3200多名南侨机工已全部离世",
+        "onboard_time": 1667527586,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429734,
+        "num": 429734,
+        "word": "三星新广告再次嘲讽苹果",
+        "onboard_time": 1667527706,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418481,
+        "num": 418481,
+        "word": "阿瑟我承认之前对你的声音大了点",
+        "onboard_time": 1667488886,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396631,
+        "num": 396631,
+        "word": "吸血鬼病是什么",
+        "onboard_time": 1667524825,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391621,
+        "num": 391621,
+        "word": "涉嫌路边猥亵未成年少女的男子被抓",
+        "onboard_time": 1667519485,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245065,
+        "num": 245065,
+        "word": "轿车失灵男子126码行驶2小时",
+        "onboard_time": 1667518040,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230248,
+        "num": 230248,
+        "word": "推特将从周五起全公司范围裁员",
+        "onboard_time": 1667524825,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225912,
+        "num": 225912,
+        "word": "勇士四连败",
+        "onboard_time": 1667527408,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205340,
+        "num": 205340,
+        "word": "鄂尔多斯通告称无论何时生命至上",
+        "onboard_time": 1667520147,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269617,
+        "num": 203646,
+        "word": "杨幂谢谢你医生今晚见",
+        "onboard_time": 1667528064,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213527,
+        "num": 202999,
+        "word": "张婧仪朱韵状态",
+        "onboard_time": 1667526744,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201758,
+        "num": 201758,
+        "word": "为什么00后购物变谨慎了",
+        "onboard_time": 1667527644,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200733,
+        "num": 200733,
+        "word": "北京11月3日新增本土确诊32例",
+        "onboard_time": 1667522728,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "欧文被篮网禁赛",
+        "onboard_time": 1667520386,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184373,
+        "num": 184373,
+        "word": "5000年前中国就有水泥地",
+        "onboard_time": 1667526025,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183097,
+        "num": 183097,
+        "word": "阿瑟 撕日历",
+        "onboard_time": 1667528424,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181652,
+        "num": 181652,
+        "word": "三名男大学生校内约架被电棍击伤",
+        "onboard_time": 1667511430,
+        "rank": 27,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 179442,
+        "num": 179442,
+        "word": "主人生娃后猫咪患上抑郁症",
+        "onboard_time": 1667486609,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262585,
+        "num": 179308,
+        "word": "国美停发员工工资",
+        "onboard_time": 1667476825,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177742,
+        "num": 177742,
+        "word": "男子吃馄饨被拉走餐车变观光巴士",
+        "onboard_time": 1667489487,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176746,
+        "num": 176746,
+        "word": "金鹰节开幕式主持人汪涵朱迅",
+        "onboard_time": 1667528486,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176216,
+        "num": 176216,
+        "word": "陈晓陈妍希幸福三重奏",
+        "onboard_time": 1667484148,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167374,
+        "num": 167374,
+        "word": "皮克宣布退役",
+        "onboard_time": 1667518222,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167131,
+        "num": 167131,
+        "word": "第一次见睡觉掉床的小狗",
+        "onboard_time": 1667490446,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162518,
+        "num": 162518,
+        "word": "刘涛说何欢来光速打个下班卡",
+        "onboard_time": 1667529206,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142835,
+        "num": 142835,
+        "word": "男生树下刚抬头就掉下柿子砸嘴里",
+        "onboard_time": 1667489725,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136801,
+        "num": 136801,
+        "word": "11月3日新增本土无症状3167例",
+        "onboard_time": 1667529324,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151500,
+        "num": 136746,
+        "word": "国美内部人士回应工资停发",
+        "onboard_time": 1667526686,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136662,
+        "num": 136662,
+        "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
+        "onboard_time": 1667524526,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135894,
+        "num": 135894,
+        "word": "回老家租房有多爽",
+        "onboard_time": 1667491225,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 134963,
+        "num": 134963,
+        "word": "国考报名人数超250万",
+        "onboard_time": 1667522187,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134509,
+        "num": 134509,
+        "word": "11月3日新增本土确诊704例",
+        "onboard_time": 1667529206,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132425,
+        "num": 132425,
+        "word": "苹果研发岗仍在招聘",
+        "onboard_time": 1667529445,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129779,
+        "num": 129779,
+        "word": "江苏省考",
+        "onboard_time": 1667527766,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124855,
+        "num": 124855,
+        "word": "合肥一公园定位反串纽约意外爆火",
+        "onboard_time": 1667493381,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123431,
+        "num": 123431,
+        "word": "S12最前线",
+        "onboard_time": 1667528186,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121236,
+        "num": 121236,
+        "word": "入睡姿势不对可能睡出毛病",
+        "onboard_time": 1667482826,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119413,
+        "num": 119413,
+        "word": "太空水稻成熟了",
+        "onboard_time": 1667529625,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 108078,
+        "num": 108078,
+        "word": "当恋爱脑女主遇上清醒女主",
+        "onboard_time": 1667492482,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴是好朋友好伙伴好兄弟#"
+    }
+  }
+}

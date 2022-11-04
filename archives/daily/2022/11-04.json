@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667527725659,
+  "endTime": 1667529700457,
   "band_list": [
     {
       "raw_hot": 1442926,
@@ -11,11 +11,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412497,
+      "num": 1412497,
+      "word": "存200张亡妻照片手机丢失男子痛哭",
+      "onboard_time": 1667525967,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203846,
+      "num": 878548,
+      "word": "伊能静说丈夫并不是你的医生",
+      "onboard_time": 1667529324,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1044892,
       "num": 1044892,
       "word": "郑州富士康园区最新进展",
       "onboard_time": 1667512873,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022514,
+      "num": 1022514,
+      "word": "女子买5桶过期油超市称恶意购买",
+      "onboard_time": 1667525605,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -32,6 +56,14 @@
       "word": "妻子连续1年为夜班丈夫做盲盒便当",
       "onboard_time": 1667494158,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796553,
+      "num": 796553,
+      "word": "老丈人偷女婿91万现金藏房门里",
+      "onboard_time": 1667527165,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -57,22 +89,6 @@
       "onboard_time": 1667488886,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 602568,
-      "num": 335884,
-      "word": "存200张亡妻照片手机丢失男子痛哭",
-      "onboard_time": 1667525967,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589839,
-      "num": 589839,
-      "word": "女子买5桶过期油超市称恶意购买",
-      "onboard_time": 1667525605,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552499,
@@ -115,6 +131,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 499352,
+      "num": 499352,
+      "word": "夫妻帮邻居喂狗拉布拉多变拉不拉猪",
+      "onboard_time": 1667525243,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496076,
       "num": 496076,
       "word": "入睡姿势不对可能睡出毛病",
@@ -123,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491642,
+      "num": 491642,
+      "word": "YG否认金智秀患淋巴结肿大",
+      "onboard_time": 1667529324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458081,
-      "num": 331533,
+      "num": 396631,
       "word": "吸血鬼病是什么",
       "onboard_time": 1667524825,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457268,
-      "num": 329578,
-      "word": "夫妻帮邻居喂狗拉布拉多变拉不拉猪",
-      "onboard_time": 1667525243,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447137,
@@ -153,6 +177,22 @@
       "onboard_time": 1667511430,
       "rank": 10,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 430370,
+      "num": 430370,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429734,
+      "num": 429734,
+      "word": "三星新广告再次嘲讽苹果",
+      "onboard_time": 1667527706,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 395701,
@@ -243,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269617,
+      "num": 203646,
+      "word": "杨幂谢谢你医生今晚见",
+      "onboard_time": 1667528064,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255415,
       "num": 255415,
       "word": "人教社回应日语教材插图争议",
@@ -251,12 +299,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 230248,
+      "num": 230248,
+      "word": "推特将从周五起全公司范围裁员",
+      "onboard_time": 1667524825,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227793,
       "num": 227793,
       "word": "台湾教授呼吁台湾人要觉醒",
       "onboard_time": 1667481807,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 225912,
+      "num": 225912,
+      "word": "勇士四连败",
+      "onboard_time": 1667527408,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 215963,
@@ -273,6 +337,14 @@
       "onboard_time": 1667487148,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213527,
+      "num": 202999,
+      "word": "张婧仪朱韵状态",
+      "onboard_time": 1667526744,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 211799,
@@ -296,6 +368,14 @@
       "word": "女生收集1年掉发绑成5厘米粗马尾",
       "onboard_time": 1667477606,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201758,
+      "num": 201758,
+      "word": "为什么00后购物变谨慎了",
+      "onboard_time": 1667527644,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -347,6 +427,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184373,
+      "num": 184373,
+      "word": "5000年前中国就有水泥地",
+      "onboard_time": 1667526025,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183097,
+      "num": 183097,
+      "word": "阿瑟 撕日历",
+      "onboard_time": 1667528424,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176746,
+      "num": 176746,
+      "word": "金鹰节开幕式主持人汪涵朱迅",
+      "onboard_time": 1667528486,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173697,
       "num": 173697,
       "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
@@ -363,20 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153628,
-      "num": 153628,
-      "word": "5000年前中国就有水泥地",
-      "onboard_time": 1667526025,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152673,
-      "num": 152673,
-      "word": "推特将从周五起全公司范围裁员",
-      "onboard_time": 1667524825,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 162518,
+      "num": 162518,
+      "word": "刘涛说何欢来光速打个下班卡",
+      "onboard_time": 1667529206,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 152148,
@@ -392,6 +488,14 @@
       "word": "合肥一公园定位反串纽约意外爆火",
       "onboard_time": 1667493381,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151500,
+      "num": 136746,
+      "word": "国美内部人士回应工资停发",
+      "onboard_time": 1667526686,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -411,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146401,
-      "num": 146401,
-      "word": "为什么00后购物变谨慎了",
-      "onboard_time": 1667527644,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -427,10 +523,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140695,
-      "num": 140695,
-      "word": "老丈人偷女婿91万现金藏房门里",
-      "onboard_time": 1667527165,
+      "raw_hot": 136801,
+      "num": 136801,
+      "word": "11月3日新增本土无症状3167例",
+      "onboard_time": 1667529324,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -443,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134509,
+      "num": 134509,
+      "word": "11月3日新增本土确诊704例",
+      "onboard_time": 1667529206,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132425,
+      "num": 132425,
+      "word": "苹果研发岗仍在招聘",
+      "onboard_time": 1667529445,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 131522,
       "num": 131522,
       "word": "硬币大小的心脏起搏器让患者重获新生",
@@ -451,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128454,
-      "num": 128454,
-      "word": "张婧仪朱韵状态",
-      "onboard_time": 1667526744,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 129779,
+      "num": 129779,
+      "word": "江苏省考",
+      "onboard_time": 1667527766,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 127638,
@@ -473,6 +585,22 @@
       "onboard_time": 1667502613,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123431,
+      "num": 123431,
+      "word": "S12最前线",
+      "onboard_time": 1667528186,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 119413,
+      "num": 119413,
+      "word": "太空水稻成熟了",
+      "onboard_time": 1667529625,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 114309,
@@ -507,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107556,
-      "num": 107556,
-      "word": "国美内部人士回应工资停发",
-      "onboard_time": 1667526686,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106033,
       "num": 106033,
       "word": "世界两大空间望远镜cp",
@@ -537,22 +657,6 @@
       "onboard_time": 1667478025,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98764,
-      "num": 98764,
-      "word": "3200多名南侨机工已全部离世",
-      "onboard_time": 1667527586,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98169,
-      "num": 98169,
-      "word": "三星新广告再次嘲讽苹果",
-      "onboard_time": 1667527706,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 96535,
@@ -755,8 +859,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40677,
-      "num": 708618,
+      "raw_hot": 41660,
+      "num": 881792,
       "word": "中国航天让神话照进现实",
       "onboard_time": 1667479706,
       "rank": 2,
