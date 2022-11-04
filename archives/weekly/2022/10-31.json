@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667535255164,
+  "endTime": 1667538122355,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -75,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2552334,
+      "num": 2552334,
+      "word": "疑似涉事网课爆破参与者发声",
+      "onboard_time": 1667534906,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2545001,
       "num": 2545001,
       "word": "齐司礼",
@@ -113,6 +121,14 @@
       "onboard_time": 1667457744,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2092385,
+      "num": 2092385,
+      "word": "阿瑟终于要火了",
+      "onboard_time": 1667533225,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 2090276,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 993194,
+      "num": 993194,
+      "word": "男子捡回3只兔子7个月繁殖近百只",
+      "onboard_time": 1667535689,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983996,
       "num": 451517,
       "word": "王一博上线续充微博会员",
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838365,
+      "num": 838365,
+      "word": "校方回应女子在杭州地铁内爬行",
+      "onboard_time": 1667533345,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823750,
       "num": 432740,
       "word": "带带大师兄离婚",
@@ -1283,20 +1315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723441,
+      "num": 723441,
+      "word": "欧文道歉",
+      "onboard_time": 1667535508,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704169,
       "num": 704169,
       "word": "英国老人吐槽现在比二战时还糟",
       "onboard_time": 1667424310,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703141,
-      "num": 703141,
-      "word": "阿瑟终于要火了",
-      "onboard_time": 1667533225,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 691587,
@@ -1391,6 +1423,14 @@
       "num": 677748,
       "word": "今天官宣了好多剧",
       "onboard_time": 1667455886,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 677121,
+      "num": 677121,
+      "word": "不期而至 大哥大嫂",
+      "onboard_time": 1667535988,
       "rank": 8,
       "category": "影视"
     },
@@ -1579,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 636312,
+      "num": 636312,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633298,
       "num": 633298,
       "word": "郑州今日航班取消率接近100%",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1667431039,
       "rank": 35,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 592419,
+      "num": 592419,
+      "word": "新郎为恋爱9年女友打造稻田婚礼",
+      "onboard_time": 1667535086,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591470,
@@ -1777,14 +1833,6 @@
       "onboard_time": 1667351067,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 564687,
-      "num": 564687,
-      "word": "3200多名南侨机工已全部离世",
-      "onboard_time": 1667527586,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563308,
@@ -2353,14 +2401,6 @@
       "onboard_time": 1667261004,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467676,
-      "num": 467676,
-      "word": "校方回应女子在杭州地铁内爬行",
-      "onboard_time": 1667533345,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462248,
@@ -3091,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356332,
+      "num": 356332,
+      "word": "朔尔茨访华随行CEO名单凸显合作",
+      "onboard_time": 1667533165,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 356025,
       "num": 333411,
       "word": "杨紫小夭抚琴六宫格剧照",
@@ -3113,6 +3161,14 @@
       "onboard_time": 1667298388,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355197,
+      "num": 355197,
+      "word": "nikke",
+      "onboard_time": 1667536287,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 353069,
@@ -3289,6 +3345,14 @@
       "onboard_time": 1667284826,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331710,
+      "num": 331710,
+      "word": "这是一窝摆烂猫吧",
+      "onboard_time": 1667535927,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 331586,
@@ -3587,6 +3651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 306292,
+      "num": 306292,
+      "word": "奔跑吧今晚发布好汉征集令",
+      "onboard_time": 1667536167,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305868,
       "num": 305868,
       "word": "马斯克将向推特蓝色认证用户收费",
@@ -3657,6 +3729,14 @@
       "onboard_time": 1667175688,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295832,
+      "num": 295832,
+      "word": "赵丽颖林更新与凤行今日即将杀青",
+      "onboard_time": 1667537189,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 295167,
@@ -3913,14 +3993,6 @@
       "onboard_time": 1667452767,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273448,
-      "num": 273448,
-      "word": "朔尔茨访华随行CEO名单凸显合作",
-      "onboard_time": 1667533165,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 272865,
@@ -4691,6 +4763,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 207423,
+      "num": 154301,
+      "word": "张雪迎毕雯珺新剧演情侣",
+      "onboard_time": 1667536768,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207169,
       "num": 207169,
       "word": "小小沼泽酱",
@@ -5363,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173498,
+      "num": 173498,
+      "word": "家庭真的比事业重要吗",
+      "onboard_time": 1667537310,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173004,
       "num": 160729,
       "word": "鞠婧祎新专辑配置",
@@ -5705,6 +5793,14 @@
       "onboard_time": 1667392768,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 154053,
+      "num": 154053,
+      "word": "水稻在中国空间站里结穗了",
+      "onboard_time": 1667533885,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 154012,
@@ -6411,6 +6507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124668,
+      "num": 124668,
+      "word": "居然被狗妈妈投诉了",
+      "onboard_time": 1667537670,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124633,
       "num": 124633,
       "word": "张彬彬奔跑吧上班路透",
@@ -6617,14 +6721,6 @@
       "onboard_time": 1667290889,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118045,
-      "num": 118045,
-      "word": "疑似涉事网课爆破参与者发声",
-      "onboard_time": 1667534906,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117438,
@@ -6987,12 +7083,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100992,
-      "num": 100992,
-      "word": "水稻在中国空间站里结穗了",
-      "onboard_time": 1667533885,
-      "rank": 48,
-      "category": "科技,社会新闻"
+      "raw_hot": 100792,
+      "num": 100792,
+      "word": "大量网友晒双十一拍拍乐中奖截图",
+      "onboard_time": 1667537371,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100559,
@@ -7049,6 +7145,14 @@
       "onboard_time": 1667184323,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99183,
+      "num": 99183,
+      "word": "短道速滑世界杯盐湖城站中国队名单",
+      "onboard_time": 1667537971,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 98882,
@@ -7171,12 +7275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94395,
+      "num": 94395,
+      "word": "王者火鹰船长莱西奥",
+      "onboard_time": 1667536107,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94330,
       "num": 94330,
       "word": "国美电器员工回应被要求签承诺函",
       "onboard_time": 1667485589,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94256,
+      "num": 94256,
+      "word": "电竞选手合唱以光之名",
+      "onboard_time": 1667536768,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 93972,
