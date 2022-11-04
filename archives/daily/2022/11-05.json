@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667601526559,
+  "endTime": 1667604355311,
   "band_list": [
     {
       "raw_hot": 2325477,
@@ -41,6 +41,14 @@
       "onboard_time": 1667576551,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775133,
+      "num": 775133,
+      "word": "福州不再公布无症状感染者流调",
+      "onboard_time": 1667582660,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666706,
@@ -88,14 +96,6 @@
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
       "onboard_time": 1667569710,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347365,
-      "num": 347365,
-      "word": "福州不再公布无症状感染者流调",
-      "onboard_time": 1667582660,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -203,12 +203,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 208205,
+      "num": 208205,
+      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+      "onboard_time": 1667586195,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206642,
       "num": 167083,
       "word": "苏有朋披荆斩棘年度总冠军",
       "onboard_time": 1667558308,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192476,
+      "num": 192476,
+      "word": "这场大火烧光了一车的作业",
+      "onboard_time": 1667581403,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174324,
+      "num": 174324,
+      "word": "呼和浩特星光A9",
+      "onboard_time": 1667604321,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172140,
@@ -219,12 +243,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 171374,
+      "num": 168415,
+      "word": "中国向空客公司采购140架飞机",
+      "onboard_time": 1667599452,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169775,
       "num": 169775,
       "word": "重庆一小区宠物接连死亡",
       "onboard_time": 1667561128,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167665,
+      "num": 167665,
+      "word": "明星金鹰节红毯造型",
+      "onboard_time": 1667572890,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161773,
@@ -275,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139801,
+      "num": 139801,
+      "word": "起不来和睡不着哪个更痛苦",
+      "onboard_time": 1667587093,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132789,
       "num": 132789,
       "word": "女子当当网买到半印刷半手抄书",
       "onboard_time": 1667553388,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125448,
-      "num": 97822,
-      "word": "明星金鹰节红毯造型",
-      "onboard_time": 1667572890,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124271,
@@ -316,18 +356,18 @@
     },
     {
       "raw_hot": 115439,
-      "num": 102287,
+      "num": 113215,
       "word": "离岸人民币创有记录以来最大单日涨幅",
       "onboard_time": 1667576132,
       "rank": 49,
       "category": "财经"
     },
     {
-      "raw_hot": 113140,
-      "num": 86123,
-      "word": "这场大火烧光了一车的作业",
-      "onboard_time": 1667581403,
-      "rank": 37,
+      "raw_hot": 112649,
+      "num": 112649,
+      "word": "鄂尔多斯防疫通告为何刷屏",
+      "onboard_time": 1667591952,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -363,6 +403,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100153,
+      "num": 100153,
+      "word": "国务院联防联控机制今日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100023,
+      "num": 100023,
+      "word": "杨幂新剧开播就被求婚",
+      "onboard_time": 1667599573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93029,
       "num": 93029,
       "word": "pgc",
@@ -379,28 +435,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 85512,
-      "num": 85512,
-      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
-      "onboard_time": 1667586195,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83359,
       "num": 83359,
       "word": "樊振东全锦赛首战告捷",
       "onboard_time": 1667573191,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75371,
-      "num": 75371,
-      "word": "鄂尔多斯防疫通告为何刷屏",
-      "onboard_time": 1667591952,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75361,
@@ -419,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72430,
-      "num": 72430,
-      "word": "起不来和睡不着哪个更痛苦",
-      "onboard_time": 1667587093,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 73018,
+      "num": 73018,
+      "word": "中山女子每天去澳门上班通勤3小时",
+      "onboard_time": 1667603962,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72070,
@@ -433,6 +473,14 @@
       "onboard_time": 1667569350,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70393,
+      "num": 70393,
+      "word": "许允真确诊新冠",
+      "onboard_time": 1667603660,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 65669,
@@ -465,22 +513,6 @@
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 30465,
-      "num": 30984,
-      "word": "杨幂新剧开播就被求婚",
-      "onboard_time": 1667599573,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28113,
-      "num": 28113,
-      "word": "中国向空客公司采购140架飞机",
-      "onboard_time": 1667599452,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26841,
