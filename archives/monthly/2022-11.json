@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667587455907,
+  "endTime": 1667589496684,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -7419,6 +7419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 71262,
+      "num": 45984,
+      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+      "onboard_time": 1667586195,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70805,
       "num": 49783,
       "word": "流浪地球2好会整活儿",
@@ -7497,6 +7505,14 @@
       "onboard_time": 1667556448,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67604,
+      "num": 67604,
+      "word": "起不来和睡不着哪个更痛苦",
+      "onboard_time": 1667587093,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 66872,
@@ -7947,8 +7963,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34684,
-      "num": 34684,
+      "raw_hot": 36085,
+      "num": 36085,
       "word": "杨幂新剧落泪镜头",
       "onboard_time": 1667584037,
       "rank": 38,
@@ -7961,14 +7977,6 @@
       "onboard_time": 1667323158,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31253,
-      "num": 31253,
-      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
-      "onboard_time": 1667586195,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31142,
