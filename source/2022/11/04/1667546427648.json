@@ -1,0 +1,410 @@
+{
+  "runTime": 1667546427648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 870762,
+        "num": 870762,
+        "word": "为什么叫陈飞宇阿瑟",
+        "onboard_time": 1667539409,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535911,
+        "num": 535911,
+        "word": "丢烟头引青岛山火男子被判4年半",
+        "onboard_time": 1667541628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6741,
+        "num": 528161,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 523052,
+        "num": 523052,
+        "word": "儿子取母亲50万养老钱打赏女主播",
+        "onboard_time": 1667538990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482940,
+        "num": 482940,
+        "word": "男子捡回3只兔子7个月繁殖近百只",
+        "onboard_time": 1667535689,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360439,
+        "num": 360439,
+        "word": "蔡徐坤白鹿周深上学座位公布",
+        "onboard_time": 1667544448,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355439,
+        "num": 355439,
+        "word": "存200张亡妻照片手机丢失男子痛哭",
+        "onboard_time": 1667525967,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330610,
+        "num": 330610,
+        "word": "世界杯被中国制造包了",
+        "onboard_time": 1667540249,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329083,
+        "num": 329083,
+        "word": "3200多名南侨机工已全部离世",
+        "onboard_time": 1667527586,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327795,
+        "num": 327795,
+        "word": "肖战如梦之梦十周年首演变更昆山站",
+        "onboard_time": 1667545709,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2776887,
+        "num": 327558,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1014478,
+        "num": 321438,
+        "word": "阿瑟终于要火了",
+        "onboard_time": 1667533225,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1001319,
+        "num": 318691,
+        "word": "感谢陈红",
+        "onboard_time": 1667543489,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315099,
+        "num": 315099,
+        "word": "校方回应女子在杭州地铁内爬行",
+        "onboard_time": 1667533345,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288478,
+        "num": 288478,
+        "word": "zlib",
+        "onboard_time": 1667540905,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276967,
+        "num": 276967,
+        "word": "苹果市值一夜蒸发7160亿元",
+        "onboard_time": 1667538149,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 213923,
+        "num": 213923,
+        "word": "被2只细腿腿毛茸茸磕到了",
+        "onboard_time": 1667542345,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209054,
+        "num": 209054,
+        "word": "前大连足球名宿王涛去世",
+        "onboard_time": 1667543908,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178435,
+        "num": 178435,
+        "word": "欧文道歉",
+        "onboard_time": 1667535508,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173007,
+        "num": 173007,
+        "word": "朔尔茨访华随行CEO名单凸显合作",
+        "onboard_time": 1667533165,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 289426,
+        "num": 172764,
+        "word": "如梦之梦",
+        "onboard_time": 1667541446,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185849,
+        "num": 172703,
+        "word": "不期而至 大哥大嫂",
+        "onboard_time": 1667535988,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172032,
+        "num": 172032,
+        "word": "老丈人偷女婿91万现金藏房门里",
+        "onboard_time": 1667527165,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167923,
+        "num": 167923,
+        "word": "这是一窝摆烂猫吧",
+        "onboard_time": 1667535927,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163447,
+        "num": 163447,
+        "word": "成都快递老板娘写段子喊话回收",
+        "onboard_time": 1667540846,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161486,
+        "num": 161486,
+        "word": "2022MMA最佳新人提名名单",
+        "onboard_time": 1667541748,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157046,
+        "num": 157046,
+        "word": "外婆先背会课文气哭一年级外孙",
+        "onboard_time": 1667543066,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153986,
+        "num": 153986,
+        "word": "新郎为恋爱9年女友打造稻田婚礼",
+        "onboard_time": 1667535086,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 152314,
+        "word": "勇士 累死库里",
+        "onboard_time": 1667530645,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139363,
+        "num": 139363,
+        "word": "家庭真的比事业重要吗",
+        "onboard_time": 1667537310,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140488,
+        "num": 138540,
+        "word": "第14届金鹰节颁奖晚会阵容官宣",
+        "onboard_time": 1667532024,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135782,
+        "num": 135782,
+        "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
+        "onboard_time": 1667530045,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118630,
+        "num": 118630,
+        "word": "过了20岁就不能吃得像个小孩子了",
+        "onboard_time": 1667543307,
+        "rank": 32,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 115363,
+        "num": 115363,
+        "word": "元歌无心新皮肤",
+        "onboard_time": 1667545348,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 102964,
+        "word": "伊能静说丈夫并不是你的医生",
+        "onboard_time": 1667529324,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102891,
+        "num": 102891,
+        "word": "一诺感谢调音师",
+        "onboard_time": 1667544629,
+        "rank": 35,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 102870,
+        "num": 102870,
+        "word": "nikke",
+        "onboard_time": 1667536287,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99788,
+        "num": 99788,
+        "word": "女子买5桶过期油超市称恶意购买",
+        "onboard_time": 1667525605,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 93358,
+        "word": "王家卫镜头下的辛芷蕾",
+        "onboard_time": 1667530946,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91862,
+        "num": 91862,
+        "word": "居然被狗妈妈投诉了",
+        "onboard_time": 1667537670,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90952,
+        "num": 90952,
+        "word": "沃里克狼人登场",
+        "onboard_time": 1667544750,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90250,
+        "num": 90250,
+        "word": "1岁宝宝误食安定药昏迷保姆未告知",
+        "onboard_time": 1667544930,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83632,
+        "num": 83632,
+        "word": "YG否认金智秀患淋巴结肿大",
+        "onboard_time": 1667529324,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80597,
+        "num": 80597,
+        "word": "赵丽颖林更新与凤行今日即将杀青",
+        "onboard_time": 1667537189,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78628,
+        "num": 78628,
+        "word": "为什么00后购物变谨慎了",
+        "onboard_time": 1667527644,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77276,
+        "num": 77276,
+        "word": "一家四口演戏哄宝宝吃药",
+        "onboard_time": 1667539769,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73335,
+        "num": 73335,
+        "word": "S12最前线",
+        "onboard_time": 1667528186,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70101,
+        "num": 70101,
+        "word": "涉嫌路边猥亵未成年少女的男子被抓",
+        "onboard_time": 1667519485,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48057,
+        "num": 59059,
+        "word": "高校回应老鼠在食品架子上乱跑",
+        "onboard_time": 1667545890,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47666,
+        "num": 58890,
+        "word": "宠物医生给狗做绝育被记仇4年",
+        "onboard_time": 1667530405,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击第五届进博会#"
+    }
+  }
+}
