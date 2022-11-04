@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667539617758,
+  "endTime": 1667540477433,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -363,6 +363,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1239559,
+      "num": 1239559,
+      "word": "男子捡回3只兔子7个月繁殖近百只",
+      "onboard_time": 1667535689,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234420,
       "num": 814436,
       "word": "兰州警方通报七里河事件",
@@ -424,14 +432,6 @@
       "word": "男生吃麻辣烫碗边抠出污垢",
       "onboard_time": 1667445383,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189956,
-      "num": 1189956,
-      "word": "男子捡回3只兔子7个月繁殖近百只",
-      "onboard_time": 1667535689,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -873,6 +873,14 @@
       "onboard_time": 1667530045,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800107,
+      "num": 403846,
+      "word": "为什么叫陈飞宇阿瑟",
+      "onboard_time": 1667539409,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 793830,
@@ -2283,6 +2291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391173,
+      "num": 391173,
+      "word": "苹果市值一夜蒸发7160亿元",
+      "onboard_time": 1667538149,
+      "rank": 20,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 391101,
+      "num": 391101,
+      "word": "家庭真的比事业重要吗",
+      "onboard_time": 1667537310,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389503,
       "num": 389503,
       "word": "当代年轻人的精神状况",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1667265447,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364200,
-      "num": 364200,
-      "word": "为什么叫陈飞宇阿瑟",
-      "onboard_time": 1667539409,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 363850,
@@ -2561,14 +2577,6 @@
       "onboard_time": 1667349926,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347652,
-      "num": 347652,
-      "word": "家庭真的比事业重要吗",
-      "onboard_time": 1667537310,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 347371,
@@ -3387,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250168,
+      "num": 250168,
+      "word": "儿子取母亲50万养老钱打赏女主播",
+      "onboard_time": 1667538990,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249917,
       "num": 249917,
       "word": "吴磊说祝你做个好梦",
@@ -3619,14 +3635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225611,
-      "num": 225611,
-      "word": "苹果市值一夜蒸发7160亿元",
-      "onboard_time": 1667538149,
-      "rank": 20,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 223048,
       "num": 223048,
       "word": "熬夜后心脏会发生什么变化",
@@ -3787,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206545,
+      "num": 206545,
+      "word": "居然被狗妈妈投诉了",
+      "onboard_time": 1667537670,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206110,
       "num": 133839,
       "word": "gidle新歌NxdeMV点击量破亿",
@@ -3801,14 +3817,6 @@
       "onboard_time": 1667306248,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204499,
-      "num": 204499,
-      "word": "居然被狗妈妈投诉了",
-      "onboard_time": 1667537670,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 203845,
@@ -4811,6 +4819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141343,
+      "num": 131473,
+      "word": "点燃我温暖你粉丝群简介",
+      "onboard_time": 1667539887,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138214,
       "num": 100924,
       "word": "没见过这么会跳舞的猫咪",
@@ -4961,6 +4977,14 @@
       "onboard_time": 1667399789,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "大量网友晒双十一拍拍乐中奖截图",
+      "onboard_time": 1667537371,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132218,
@@ -5195,14 +5219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121431,
-      "num": 121431,
-      "word": "大量网友晒双十一拍拍乐中奖截图",
-      "onboard_time": 1667537371,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
@@ -5249,6 +5265,14 @@
       "onboard_time": 1667447727,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118175,
+      "num": 80077,
+      "word": "李峋是有点子投资头脑的",
+      "onboard_time": 1667540005,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 118130,
@@ -5537,14 +5561,6 @@
       "onboard_time": 1667367146,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 102610,
-      "num": 102610,
-      "word": "儿子取母亲50万养老钱打赏女主播",
-      "onboard_time": 1667538990,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101664,
@@ -6067,6 +6083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80997,
+      "num": 80997,
+      "word": "一家四口演戏哄宝宝吃药",
+      "onboard_time": 1667539769,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79789,
       "num": 79789,
       "word": "当代大学生的神奇宝贝",
@@ -6403,12 +6427,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 60426,
+      "num": 60426,
+      "word": "这个学步车肯定是独有的",
+      "onboard_time": 1667540367,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60068,
       "num": 310276,
       "word": "抓捕现场遇嫌犯娃警察忙收手铐",
       "onboard_time": 1667294669,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60067,
+      "num": 60067,
+      "word": "世界杯被中国制造包了",
+      "onboard_time": 1667540249,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59893,

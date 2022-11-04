@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667539617758,
+  "endTime": 1667540477433,
   "band_list": [
     {
       "raw_hot": 2552334,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1239559,
+      "num": 1239559,
+      "word": "男子捡回3只兔子7个月繁殖近百只",
+      "onboard_time": 1667535689,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1203846,
       "num": 878548,
       "word": "伊能静说丈夫并不是你的医生",
       "onboard_time": 1667529324,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1189956,
-      "num": 1189956,
-      "word": "男子捡回3只兔子7个月繁殖近百只",
-      "onboard_time": 1667535689,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1044892,
@@ -113,6 +113,14 @@
       "onboard_time": 1667530045,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800107,
+      "num": 403846,
+      "word": "为什么叫陈飞宇阿瑟",
+      "onboard_time": 1667539409,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 746177,
@@ -315,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391173,
+      "num": 391173,
+      "word": "苹果市值一夜蒸发7160亿元",
+      "onboard_time": 1667538149,
+      "rank": 20,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 391101,
+      "num": 391101,
+      "word": "家庭真的比事业重要吗",
+      "onboard_time": 1667537310,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386596,
       "num": 334437,
       "word": "张若昀欠下的第二季还上一部了",
@@ -336,14 +360,6 @@
       "word": "杨幂肖砚哭戏",
       "onboard_time": 1667533706,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 364200,
-      "num": 364200,
-      "word": "为什么叫陈飞宇阿瑟",
-      "onboard_time": 1667539409,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1667486609,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347652,
-      "num": 347652,
-      "word": "家庭真的比事业重要吗",
-      "onboard_time": 1667537310,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 336353,
@@ -491,6 +499,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 250168,
+      "num": 250168,
+      "word": "儿子取母亲50万养老钱打赏女主播",
+      "onboard_time": 1667538990,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241671,
       "num": 146694,
       "word": "王家卫镜头下的辛芷蕾",
@@ -529,14 +545,6 @@
       "onboard_time": 1667527408,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225611,
-      "num": 225611,
-      "word": "苹果市值一夜蒸发7160亿元",
-      "onboard_time": 1667538149,
-      "rank": 20,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 215963,
@@ -595,20 +603,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206545,
+      "num": 206545,
+      "word": "居然被狗妈妈投诉了",
+      "onboard_time": 1667537670,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206110,
       "num": 133839,
       "word": "gidle新歌NxdeMV点击量破亿",
       "onboard_time": 1667535086,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204499,
-      "num": 204499,
-      "word": "居然被狗妈妈投诉了",
-      "onboard_time": 1667537670,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 201517,
@@ -795,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141343,
+      "num": 131473,
+      "word": "点燃我温暖你粉丝群简介",
+      "onboard_time": 1667539887,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136801,
       "num": 136801,
       "word": "11月3日新增本土无症状3167例",
@@ -816,6 +832,14 @@
       "word": "11月3日新增本土确诊704例",
       "onboard_time": 1667529206,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "大量网友晒双十一拍拍乐中奖截图",
+      "onboard_time": 1667537371,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -851,20 +875,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121431,
-      "num": 121431,
-      "word": "大量网友晒双十一拍拍乐中奖截图",
-      "onboard_time": 1667537371,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "太空水稻成熟了",
       "onboard_time": 1667529625,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 118175,
+      "num": 80077,
+      "word": "李峋是有点子投资头脑的",
+      "onboard_time": 1667540005,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 114309,
@@ -913,14 +937,6 @@
       "onboard_time": 1667519966,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102610,
-      "num": 102610,
-      "word": "儿子取母亲50万养老钱打赏女主播",
-      "onboard_time": 1667538990,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101186,
@@ -1035,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80997,
+      "num": 80997,
+      "word": "一家四口演戏哄宝宝吃药",
+      "onboard_time": 1667539769,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73387,
       "num": 63190,
       "word": "张晚意一天内官宣两部大剧",
@@ -1081,6 +1105,22 @@
       "onboard_time": 1667515397,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60426,
+      "num": 60426,
+      "word": "这个学步车肯定是独有的",
+      "onboard_time": 1667540367,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60067,
+      "num": 60067,
+      "word": "世界杯被中国制造包了",
+      "onboard_time": 1667540249,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59536,
