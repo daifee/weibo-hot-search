@@ -1,0 +1,410 @@
+{
+  "runTime": 1667569383233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 983330,
+        "num": 983330,
+        "word": "今年没有金鹰女神了",
+        "onboard_time": 1667552787,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917419,
+        "num": 917419,
+        "word": "工人高空坠落被钢筋贯穿身体",
+        "onboard_time": 1667564249,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 36963,
+        "num": 775022,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 716998,
+        "num": 716998,
+        "word": "金鹰女神",
+        "onboard_time": 1667547508,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705258,
+        "num": 705258,
+        "word": "日本正式加入北约网络防御中心",
+        "onboard_time": 1667560649,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 490971,
+        "num": 490971,
+        "word": "赵丽颖发视频告别与凤行沈璃",
+        "onboard_time": 1667560889,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454278,
+        "num": 454278,
+        "word": "XYG",
+        "onboard_time": 1667564309,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415300,
+        "num": 415300,
+        "word": "武汉为世界首座人口超千万湿地城市",
+        "onboard_time": 1667562448,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414307,
+        "num": 414307,
+        "word": "颈椎一下子就舒服了",
+        "onboard_time": 1667561730,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394761,
+        "num": 394761,
+        "word": "女子当当网买到半印刷半手抄书",
+        "onboard_time": 1667553388,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439952,
+        "num": 387204,
+        "word": "苏有朋披荆斩棘年度总冠军",
+        "onboard_time": 1667558308,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378287,
+        "num": 378287,
+        "word": "国务院联防联控机制明日召开发布会",
+        "onboard_time": 1667567551,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316127,
+        "num": 316127,
+        "word": "中公一次性退款变不定额分期退",
+        "onboard_time": 1667559089,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315863,
+        "num": 315863,
+        "word": "今年或将迎来本世纪首个三重拉尼娜",
+        "onboard_time": 1667557950,
+        "rank": 13,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 310634,
+        "num": 310634,
+        "word": "重庆一小区宠物接连死亡",
+        "onboard_time": 1667561128,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289159,
+        "num": 289159,
+        "word": "第14届金鹰节开幕式",
+        "onboard_time": 1667564068,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260591,
+        "num": 260591,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256170,
+        "num": 256170,
+        "word": "王楚钦",
+        "onboard_time": 1667564909,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246719,
+        "num": 246719,
+        "word": "德国总理访华",
+        "onboard_time": 1667561428,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 233543,
+        "num": 245662,
+        "word": "多家茶饮品牌联合抵制外卖满减",
+        "onboard_time": 1667567910,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1553933,
+        "num": 245354,
+        "word": "汪涵金鹰节发型",
+        "onboard_time": 1667567250,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244917,
+        "num": 244917,
+        "word": "披荆斩棘总决赛排名",
+        "onboard_time": 1667559870,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236698,
+        "num": 236698,
+        "word": "杨幂白宇谢谢你医生观后感",
+        "onboard_time": 1667564970,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231741,
+        "num": 231741,
+        "word": "牛市回来了",
+        "onboard_time": 1667552368,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227912,
+        "num": 227912,
+        "word": "疫情期间可领取补贴系谣言",
+        "onboard_time": 1667563170,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211915,
+        "num": 211915,
+        "word": "成年人的释怀是一种什么感觉",
+        "onboard_time": 1667566169,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195659,
+        "num": 195659,
+        "word": "把代码写进了狗狗的衣服里",
+        "onboard_time": 1667563229,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168465,
+        "num": 168465,
+        "word": "山东女团无缘全锦赛八强",
+        "onboard_time": 1667565570,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163771,
+        "num": 163771,
+        "word": "儿子沉迷游戏父亲怒摔手机让其砸",
+        "onboard_time": 1667557168,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149408,
+        "num": 161055,
+        "word": "德国合唱团用中文演唱茉莉花",
+        "onboard_time": 1667562751,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205051,
+        "num": 160934,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1667565752,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184977,
+        "num": 160725,
+        "word": "陈小春XLeader",
+        "onboard_time": 1667562151,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159748,
+        "num": 159748,
+        "word": "徐海乔晒与凤行杀青图",
+        "onboard_time": 1667562868,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155915,
+        "num": 155915,
+        "word": "点燃我温暖你",
+        "onboard_time": 1667568990,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135249,
+        "num": 135249,
+        "word": "男子生意失败让女友碰瓷挣钱",
+        "onboard_time": 1667555789,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130926,
+        "num": 130926,
+        "word": "陈梦",
+        "onboard_time": 1667562811,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128767,
+        "num": 128767,
+        "word": "日本拟于2030年前部署高超音速导弹",
+        "onboard_time": 1667568090,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 122431,
+        "num": 122431,
+        "word": "深圳校服上新了",
+        "onboard_time": 1667559029,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109399,
+        "num": 109399,
+        "word": "女子冰奶茶配油炸小吃致酸中毒",
+        "onboard_time": 1667555430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100715,
+        "num": 100715,
+        "word": "孙颖莎22岁生日感言",
+        "onboard_time": 1667568690,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149928,
+        "num": 99066,
+        "word": "Angelababy奔跑吧依旧是滑冰王者",
+        "onboard_time": 1667567130,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149537,
+        "num": 98154,
+        "word": "感谢陈红",
+        "onboard_time": 1667543489,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96189,
+        "num": 96189,
+        "word": "不是说好不过双十一吗",
+        "onboard_time": 1667559688,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88168,
+        "num": 88168,
+        "word": "邱贻可说跟孙颖莎既是师徒也是家人",
+        "onboard_time": 1667563949,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85557,
+        "num": 85557,
+        "word": "小猫咪没有惹你们任何人",
+        "onboard_time": 1667561971,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83431,
+        "num": 83431,
+        "word": "王楚钦2比3郑培锋",
+        "onboard_time": 1667569230,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82601,
+        "num": 82601,
+        "word": "这小狗怎么长得好像小羊",
+        "onboard_time": 1667552849,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106439,
+        "num": 82529,
+        "word": "林高远",
+        "onboard_time": 1667569350,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78036,
+        "num": 78036,
+        "word": "北京顺义社会面筛查2例感染者",
+        "onboard_time": 1667560231,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72757,
+        "num": 72757,
+        "word": "为什么国漫越来越受欢迎了",
+        "onboard_time": 1667556688,
+        "rank": 49,
+        "category": "动漫,社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#路就在脚下光明就在前方#"
+    }
+  }
+}
