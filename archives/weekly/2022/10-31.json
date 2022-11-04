@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667600506164,
+  "endTime": 1667601526559,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -8739,6 +8739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85512,
+      "num": 85512,
+      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+      "onboard_time": 1667586195,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85487,
       "num": 85487,
       "word": "PCL加油",
@@ -9035,6 +9043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75371,
+      "num": 75371,
+      "word": "鄂尔多斯防疫通告为何刷屏",
+      "onboard_time": 1667591952,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "傅菁小黑裙套装造型",
@@ -9065,14 +9081,6 @@
       "onboard_time": 1667559388,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 73795,
-      "num": 64819,
-      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
-      "onboard_time": 1667586195,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73595,
@@ -9145,14 +9153,6 @@
       "onboard_time": 1667494278,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69980,
-      "num": 69980,
-      "word": "鄂尔多斯防疫通告为何刷屏",
-      "onboard_time": 1667591952,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69548,
@@ -9771,12 +9771,28 @@
       "category": "教育,社会负面"
     },
     {
+      "raw_hot": 30465,
+      "num": 30984,
+      "word": "杨幂新剧开播就被求婚",
+      "onboard_time": 1667599573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 29747,
       "num": 29747,
       "word": "生活中的各种狠人",
       "onboard_time": 1667509991,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28113,
+      "num": 28113,
+      "word": "中国向空客公司采购140架飞机",
+      "onboard_time": 1667599452,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27081,
@@ -9787,12 +9803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25880,
-      "num": 26889,
-      "word": "杨幂新剧开播就被求婚",
-      "onboard_time": 1667599573,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 24275,
+      "num": 24275,
+      "word": "2022体操世锦赛",
+      "onboard_time": 1667595492,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 24237,
@@ -9825,14 +9841,6 @@
       "onboard_time": 1667507952,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21625,
-      "num": 21625,
-      "word": "2022体操世锦赛",
-      "onboard_time": 1667595492,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 20209,
@@ -9916,7 +9924,7 @@
     },
     {
       "raw_hot": 13691,
-      "num": 13691,
+      "num": 19164,
       "word": "冬天需要安全感",
       "onboard_time": 1667593511,
       "rank": 49,
