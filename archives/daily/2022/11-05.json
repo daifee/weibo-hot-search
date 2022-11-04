@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667580876106,
+  "endTime": 1667582625291,
   "band_list": [
     {
       "raw_hot": 2325477,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1458804,
+      "raw_hot": 1882132,
       "num": 269792,
       "word": "呼和浩特疫情防控",
       "onboard_time": 1667578766,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 637110,
-      "num": 637110,
+      "raw_hot": 666706,
+      "num": 666706,
       "word": "女生网购维他奶开箱发现爬满蛆",
       "onboard_time": 1667578410,
       "rank": 16,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387951,
+      "num": 387951,
+      "word": "一口气炫完杨幂新剧5集",
+      "onboard_time": 1667577868,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375567,
       "num": 375567,
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
       "onboard_time": 1667569710,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371415,
-      "num": 371415,
-      "word": "一口气炫完杨幂新剧5集",
-      "onboard_time": 1667577868,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 339517,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115439,
+      "num": 102287,
+      "word": "离岸人民币创有记录以来最大单日涨幅",
+      "onboard_time": 1667576132,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "王楚钦2比3郑培锋",
@@ -329,14 +337,6 @@
       "onboard_time": 1667561428,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 102287,
-      "num": 102287,
-      "word": "离岸人民币创有记录以来最大单日涨幅",
-      "onboard_time": 1667576132,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 102106,
@@ -401,6 +401,22 @@
       "onboard_time": 1667578884,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 62491,
+      "num": 62491,
+      "word": "这场大火烧光了一车的作业",
+      "onboard_time": 1667581403,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43696,
+      "num": 43696,
+      "word": "点燃我温暖你",
+      "onboard_time": 1667568990,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 26841,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667580876106,
+  "endTime": 1667582625291,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -208,6 +208,14 @@
       "word": "郑州新冠肺炎疫情发布会",
       "onboard_time": 1667463685,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1882132,
+      "num": 269792,
+      "word": "呼和浩特疫情防控",
+      "onboard_time": 1667578766,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -441,14 +449,6 @@
       "onboard_time": 1667469503,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1458804,
-      "num": 269792,
-      "word": "呼和浩特疫情防控",
-      "onboard_time": 1667578766,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1445435,
@@ -1707,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666706,
+      "num": 666706,
+      "word": "女生网购维他奶开箱发现爬满蛆",
+      "onboard_time": 1667578410,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664014,
       "num": 293638,
       "word": "罗志祥新歌",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1667390607,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 637110,
-      "num": 637110,
-      "word": "女生网购维他奶开箱发现爬满蛆",
-      "onboard_time": 1667578410,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 636312,
@@ -3371,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387951,
+      "num": 387951,
+      "word": "一口气炫完杨幂新剧5集",
+      "onboard_time": 1667577868,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386291,
       "num": 234958,
       "word": "福原爱被起诉",
@@ -3473,14 +3481,6 @@
       "onboard_time": 1667549490,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 371415,
-      "num": 371415,
-      "word": "一口气炫完杨幂新剧5集",
-      "onboard_time": 1667577868,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 370017,
@@ -7771,6 +7771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115439,
+      "num": 113213,
+      "word": "离岸人民币创有记录以来最大单日涨幅",
+      "onboard_time": 1667576132,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
@@ -8145,14 +8153,6 @@
       "onboard_time": 1667367146,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 102287,
-      "num": 113213,
-      "word": "离岸人民币创有记录以来最大单日涨幅",
-      "onboard_time": 1667576132,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 101664,
@@ -9312,6 +9312,14 @@
       "word": "共享充电宝为何成了嫌弃包",
       "onboard_time": 1667247371,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62491,
+      "num": 62491,
+      "word": "这场大火烧光了一车的作业",
+      "onboard_time": 1667581403,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
