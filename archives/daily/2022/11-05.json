@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667604355311,
+  "endTime": 1667605229097,
   "band_list": [
     {
       "raw_hot": 2325477,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928389,
+      "num": 928389,
+      "word": "福州不再公布无症状感染者流调",
+      "onboard_time": 1667582660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816145,
       "num": 276811,
       "word": "李承铉戚薇二胎叫seven",
@@ -43,11 +51,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 775133,
-      "num": 775133,
-      "word": "福州不再公布无症状感染者流调",
-      "onboard_time": 1667582660,
-      "rank": 24,
+      "raw_hot": 719281,
+      "num": 719281,
+      "word": "呼和浩特兴光A9",
+      "onboard_time": 1667604321,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249512,
+      "num": 249512,
+      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+      "onboard_time": 1667586195,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245691,
       "num": 183638,
       "word": "安徽青企协回应吴某某事件",
@@ -195,20 +211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211006,
+      "num": 211006,
+      "word": "这场大火烧光了一车的作业",
+      "onboard_time": 1667581403,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208664,
       "num": 208664,
       "word": "日本正式加入北约网络防御中心",
       "onboard_time": 1667560649,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 208205,
-      "num": 208205,
-      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
-      "onboard_time": 1667586195,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206642,
@@ -219,11 +235,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192476,
-      "num": 192476,
-      "word": "这场大火烧光了一车的作业",
-      "onboard_time": 1667581403,
+      "raw_hot": 190767,
+      "num": 190767,
+      "word": "中国向空客公司采购140架飞机",
+      "onboard_time": 1667599452,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188351,
+      "num": 188351,
+      "word": "明星金鹰节红毯造型",
+      "onboard_time": 1667572890,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188285,
+      "num": 188285,
+      "word": "中山女子每天去澳门上班通勤3小时",
+      "onboard_time": 1667603962,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -243,14 +275,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 171374,
-      "num": 168415,
-      "word": "中国向空客公司采购140架飞机",
-      "onboard_time": 1667599452,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169775,
       "num": 169775,
       "word": "重庆一小区宠物接连死亡",
@@ -259,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167665,
-      "num": 167665,
-      "word": "明星金鹰节红毯造型",
-      "onboard_time": 1667572890,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161773,
       "num": 127597,
       "word": "迪丽热巴今晚直播动图",
       "onboard_time": 1667573674,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160147,
+      "num": 160147,
+      "word": "起不来和睡不着哪个更痛苦",
+      "onboard_time": 1667587093,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 157802,
@@ -315,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139801,
-      "num": 139801,
-      "word": "起不来和睡不着哪个更痛苦",
-      "onboard_time": 1667587093,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 135219,
+      "num": 135219,
+      "word": "离岸人民币创有记录以来最大单日涨幅",
+      "onboard_time": 1667576132,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 132789,
@@ -331,12 +355,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130938,
+      "num": 130938,
+      "word": "鄂尔多斯防疫通告为何刷屏",
+      "onboard_time": 1667591952,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130457,
+      "num": 130457,
+      "word": "杨幂新剧开播就被求婚",
+      "onboard_time": 1667599573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124271,
       "num": 124271,
       "word": "成年人的释怀是一种什么感觉",
       "onboard_time": 1667566169,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123115,
+      "num": 123115,
+      "word": "国务院联防联控机制今日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122101,
+      "num": 100840,
+      "word": "这个村是现实版千里江山图吧",
+      "onboard_time": 1667604563,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121732,
@@ -347,27 +403,19 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 119823,
+      "num": 119823,
+      "word": "许允真确诊新冠",
+      "onboard_time": 1667603660,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119037,
       "num": 119037,
       "word": "武汉为世界首座人口超千万湿地城市",
       "onboard_time": 1667562448,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115439,
-      "num": 113215,
-      "word": "离岸人民币创有记录以来最大单日涨幅",
-      "onboard_time": 1667576132,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 112649,
-      "num": 112649,
-      "word": "鄂尔多斯防疫通告为何刷屏",
-      "onboard_time": 1667591952,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -403,20 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100153,
-      "num": 100153,
-      "word": "国务院联防联控机制今日召开发布会",
-      "onboard_time": 1667567551,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100023,
-      "num": 100023,
-      "word": "杨幂新剧开播就被求婚",
-      "onboard_time": 1667599573,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 98778,
+      "num": 98778,
+      "word": "金赛纶因酒驾赔偿花光积蓄",
+      "onboard_time": 1667604740,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 93029,
@@ -459,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73018,
-      "num": 73018,
-      "word": "中山女子每天去澳门上班通勤3小时",
-      "onboard_time": 1667603962,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72070,
       "num": 72070,
       "word": "林高远",
@@ -475,20 +507,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70393,
-      "num": 70393,
-      "word": "许允真确诊新冠",
-      "onboard_time": 1667603660,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65669,
       "num": 65669,
       "word": "原来秋冬保暖可以这么买",
       "onboard_time": 1667578884,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 49299,
+      "num": 49299,
+      "word": "3岁小朋友遛纸壳狗宣传环保",
+      "onboard_time": 1667604862,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48254,
+      "num": 48254,
+      "word": "2个贪玩萌娃拆3桶洗衣液倒满地",
+      "onboard_time": 1667605161,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43696,
