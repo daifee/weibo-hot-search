@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667569383233,
+  "endTime": 1667570013967,
   "band_list": [
     {
       "raw_hot": 3169070,
@@ -43,7 +43,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1553933,
+      "raw_hot": 1560567,
       "num": 245354,
       "word": "汪涵金鹰节发型",
       "onboard_time": 1667567250,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014046,
+      "num": 917419,
+      "word": "工人高空坠落被钢筋贯穿身体",
+      "onboard_time": 1667564249,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1009678,
       "num": 1009678,
       "word": "赵丽颖发视频告别与凤行沈璃",
@@ -169,14 +177,6 @@
       "onboard_time": 1667527165,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 917419,
-      "num": 917419,
-      "word": "工人高空坠落被钢筋贯穿身体",
-      "onboard_time": 1667564249,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 871877,
@@ -257,6 +257,14 @@
       "onboard_time": 1667535508,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688974,
+      "num": 371531,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1667569831,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 688563,
@@ -344,6 +352,14 @@
       "word": "新郎为恋爱9年女友打造稻田婚礼",
       "onboard_time": 1667535086,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568336,
+      "num": 568336,
+      "word": "国务院联防联控机制明日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378287,
-      "num": 378287,
-      "word": "国务院联防联控机制明日召开发布会",
-      "onboard_time": 1667567551,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372389,
       "num": 372389,
       "word": "Gemini侧颜",
@@ -713,6 +721,14 @@
       "onboard_time": 1667545709,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350287,
+      "num": 350287,
+      "word": "多家茶饮品牌联合抵制外卖满减",
+      "onboard_time": 1667567910,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347976,
@@ -915,20 +931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236698,
+      "raw_hot": 240880,
       "num": 236698,
       "word": "杨幂白宇谢谢你医生观后感",
       "onboard_time": 1667564970,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233543,
-      "num": 245662,
-      "word": "多家茶饮品牌联合抵制外卖满减",
-      "onboard_time": 1667567910,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232289,
@@ -937,6 +945,14 @@
       "onboard_time": 1667550330,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231469,
+      "num": 231469,
+      "word": "成年人的释怀是一种什么感觉",
+      "onboard_time": 1667566169,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 231294,
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 221800,
-      "num": 160934,
+      "num": 164836,
       "word": "林俊杰演唱会",
       "onboard_time": 1667565752,
       "rank": 40,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 218746,
-      "num": 124132,
+      "num": 160663,
       "word": "Angelababy奔跑吧依旧是滑冰王者",
       "onboard_time": 1667567130,
       "rank": 33,
@@ -1049,14 +1065,6 @@
       "onboard_time": 1667552849,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211915,
-      "num": 211915,
-      "word": "成年人的释怀是一种什么感觉",
-      "onboard_time": 1667566169,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 211799,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1667535086,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "日本拟于2030年前部署高超音速导弹",
+      "onboard_time": 1667568090,
+      "rank": 36,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 205768,
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176985,
+      "num": 176985,
+      "word": "孙颖莎22岁生日感言",
+      "onboard_time": 1667568690,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176746,
       "num": 176746,
       "word": "金鹰节开幕式主持人汪涵朱迅",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1667524526,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169772,
+      "num": 169772,
+      "word": "林高远",
+      "onboard_time": 1667569350,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 169280,
@@ -1571,14 +1603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128767,
-      "num": 128767,
-      "word": "日本拟于2030年前部署高超音速导弹",
-      "onboard_time": 1667568090,
-      "rank": 36,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 127638,
       "num": 90454,
       "word": "丁真8岁挖松茸细节",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1667502613,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120633,
+      "num": 120633,
+      "word": "王楚钦2比3郑培锋",
+      "onboard_time": 1667569230,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120423,
@@ -1691,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106439,
-      "num": 82529,
-      "word": "林高远",
-      "onboard_time": 1667569350,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106397,
       "num": 106397,
       "word": "开敞厨房更适合中国家庭",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1667478025,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100715,
-      "num": 100715,
-      "word": "孙颖莎22岁生日感言",
-      "onboard_time": 1667568690,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 99183,
@@ -1891,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85473,
+      "num": 85473,
+      "word": "清洁工躺车库被碾亡司机一审被判无罪",
+      "onboard_time": 1667569710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84528,
       "num": 84528,
       "word": "古建筑遇上七彩秋天有多美",
@@ -1904,14 +1928,6 @@
       "word": "小王涛",
       "onboard_time": 1667543908,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83431,
-      "num": 83431,
-      "word": "王楚钦2比3郑培锋",
-      "onboard_time": 1667569230,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1961,6 +1977,14 @@
       "onboard_time": 1667544147,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 76824,
+      "num": 76824,
+      "word": "网传救护车坐地起价涉事人员被抓",
+      "onboard_time": 1667569949,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76174,
@@ -2171,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51800,
+      "num": 775022,
+      "word": "2022进博会现场高清大图",
+      "onboard_time": 1667566290,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51788,
       "num": 51788,
       "word": "为什么总会怀念过去",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1667507770,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36963,
-      "num": 775022,
-      "word": "2022进博会现场高清大图",
-      "onboard_time": 1667566290,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 30743,

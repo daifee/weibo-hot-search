@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667569383233,
+  "endTime": 1667570013967,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -275,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560567,
+      "num": 245354,
+      "word": "汪涵金鹰节发型",
+      "onboard_time": 1667567250,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1555239,
       "num": 505082,
       "word": "李智汉为救被困小女孩遇难",
       "onboard_time": 1667265506,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1553933,
-      "num": 245354,
-      "word": "汪涵金鹰节发型",
-      "onboard_time": 1667567250,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1540619,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014046,
+      "num": 917419,
+      "word": "工人高空坠落被钢筋贯穿身体",
+      "onboard_time": 1667564249,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1010373,
       "num": 825058,
       "word": "22岁宁波女孩在韩国踩踏事故中遇难",
@@ -825,14 +833,6 @@
       "onboard_time": 1667467705,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 917419,
-      "num": 917419,
-      "word": "工人高空坠落被钢筋贯穿身体",
-      "onboard_time": 1667564249,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 915679,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1667434406,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 688974,
+      "num": 371531,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1667569831,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 688563,
@@ -1593,6 +1601,14 @@
       "onboard_time": 1667481807,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 568336,
+      "num": 568336,
+      "word": "国务院联防联控机制明日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566442,
@@ -2643,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378287,
-      "num": 378287,
-      "word": "国务院联防联控机制明日召开发布会",
-      "onboard_time": 1667567551,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376776,
       "num": 314845,
       "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
@@ -2896,6 +2904,14 @@
       "word": "2岁宝宝模仿爸爸看电视姿势一模一样",
       "onboard_time": 1667349926,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350287,
+      "num": 350287,
+      "word": "多家茶饮品牌联合抵制外卖满减",
+      "onboard_time": 1667567910,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3859,6 +3875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240880,
+      "num": 236698,
+      "word": "杨幂白宇谢谢你医生观后感",
+      "onboard_time": 1667564970,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
@@ -3881,14 +3905,6 @@
       "onboard_time": 1667484388,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236698,
-      "num": 236698,
-      "word": "杨幂白宇谢谢你医生观后感",
-      "onboard_time": 1667564970,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 236386,
@@ -3963,14 +3979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233543,
-      "num": 245662,
-      "word": "多家茶饮品牌联合抵制外卖满减",
-      "onboard_time": 1667567910,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233515,
       "num": 233515,
       "word": "原神",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1667550330,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231469,
+      "num": 231469,
+      "word": "成年人的释怀是一种什么感觉",
+      "onboard_time": 1667566169,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 231354,
@@ -4092,7 +4108,7 @@
     },
     {
       "raw_hot": 221800,
-      "num": 160934,
+      "num": 164836,
       "word": "林俊杰演唱会",
       "onboard_time": 1667565752,
       "rank": 40,
@@ -4124,7 +4140,7 @@
     },
     {
       "raw_hot": 218746,
-      "num": 124132,
+      "num": 160663,
       "word": "Angelababy奔跑吧依旧是滑冰王者",
       "onboard_time": 1667567130,
       "rank": 33,
@@ -4185,14 +4201,6 @@
       "onboard_time": 1667552849,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211915,
-      "num": 211915,
-      "word": "成年人的释怀是一种什么感觉",
-      "onboard_time": 1667566169,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 211799,
@@ -4305,6 +4313,14 @@
       "onboard_time": 1667535086,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "日本拟于2030年前部署高超音速导弹",
+      "onboard_time": 1667568090,
+      "rank": 36,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 205768,
@@ -4779,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176985,
+      "num": 176985,
+      "word": "孙颖莎22岁生日感言",
+      "onboard_time": 1667568690,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176746,
       "num": 176746,
       "word": "金鹰节开幕式主持人汪涵朱迅",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1667366308,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169772,
+      "num": 169772,
+      "word": "林高远",
+      "onboard_time": 1667569350,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 169595,
@@ -5739,14 +5771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128767,
-      "num": 128767,
-      "word": "日本拟于2030年前部署高超音速导弹",
-      "onboard_time": 1667568090,
-      "rank": 36,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 128020,
       "num": 128020,
       "word": "颜宁将回国协助创建医学科学院",
@@ -5929,6 +5953,14 @@
       "onboard_time": 1667463744,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120633,
+      "num": 120633,
+      "word": "王楚钦2比3郑培锋",
+      "onboard_time": 1667569230,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120423,
@@ -6243,14 +6275,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 106439,
-      "num": 82529,
-      "word": "林高远",
-      "onboard_time": 1667569350,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106406,
       "num": 106406,
       "word": "Edaily",
@@ -6369,14 +6393,6 @@
       "onboard_time": 1667532324,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100715,
-      "num": 100715,
-      "word": "孙颖莎22岁生日感言",
-      "onboard_time": 1667568690,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 100559,
@@ -6827,6 +6843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85473,
+      "num": 85473,
+      "word": "清洁工躺车库被碾亡司机一审被判无罪",
+      "onboard_time": 1667569710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85196,
       "num": 85196,
       "word": "科学家发现大脑也会放空",
@@ -6881,14 +6905,6 @@
       "onboard_time": 1667471966,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 83431,
-      "num": 83431,
-      "word": "王楚钦2比3郑培锋",
-      "onboard_time": 1667569230,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 83397,
@@ -7049,6 +7065,14 @@
       "onboard_time": 1667544147,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 76824,
+      "num": 76824,
+      "word": "网传救护车坐地起价涉事人员被抓",
+      "onboard_time": 1667569949,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76519,
@@ -7515,6 +7539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51800,
+      "num": 775022,
+      "word": "2022进博会现场高清大图",
+      "onboard_time": 1667566290,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51788,
       "num": 51788,
       "word": "为什么总会怀念过去",
@@ -7649,14 +7681,6 @@
       "onboard_time": 1667230108,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36963,
-      "num": 775022,
-      "word": "2022进博会现场高清大图",
-      "onboard_time": 1667566290,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 31663,
