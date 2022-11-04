@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667518786331,
+  "endTime": 1667527725659,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -272,6 +272,14 @@
       "word": "山西襄垣县委书记翟卫华坠楼去世",
       "onboard_time": 1667358925,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1442926,
+      "num": 1442926,
+      "word": "一女子在杭州地铁内爬行",
+      "onboard_time": 1667518642,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -771,19 +779,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 841193,
+      "num": 841193,
+      "word": "妻子连续1年为夜班丈夫做盲盒便当",
+      "onboard_time": 1667494158,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838783,
       "num": 838783,
       "word": "宝妈带2岁儿子进女厕被骂没素质",
       "onboard_time": 1667397446,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817636,
-      "num": 817636,
-      "word": "妻子连续1年为夜班丈夫做盲盒便当",
-      "onboard_time": 1667494158,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -987,6 +995,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 675672,
+      "num": 675672,
+      "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
+      "onboard_time": 1667517742,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 674401,
       "num": 674401,
       "word": "龙族",
@@ -1179,12 +1195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605467,
+      "num": 605467,
+      "word": "阿瑟我承认之前对你的声音大了点",
+      "onboard_time": 1667488886,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605331,
       "num": 605331,
       "word": "台积电被曝大砍供应链订单",
       "onboard_time": 1667277450,
       "rank": 35,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 602568,
+      "num": 335884,
+      "word": "存200张亡妻照片手机丢失男子痛哭",
+      "onboard_time": 1667525967,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601176,
@@ -1208,6 +1240,14 @@
       "word": "河南要求今冬明春做好防大疫准备",
       "onboard_time": 1667285785,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589839,
+      "num": 589839,
+      "word": "女子买5桶过期油超市称恶意购买",
+      "onboard_time": 1667525605,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1411,12 +1451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532238,
+      "num": 532238,
+      "word": "涉嫌路边猥亵未成年少女的男子被抓",
+      "onboard_time": 1667519485,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530094,
       "num": 530094,
       "word": "男生买15元不限量炒酸奶叠成山",
       "onboard_time": 1667401888,
       "rank": 44,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 530022,
+      "num": 530022,
+      "word": "陈飞宇李峋金毛掉色了",
+      "onboard_time": 1667522906,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 527663,
@@ -1675,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469082,
-      "num": 469082,
-      "word": "阿瑟我承认之前对你的声音大了点",
-      "onboard_time": 1667488886,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 461500,
       "num": 461500,
       "word": "日本棋手因比赛时忘戴口罩被判负",
@@ -1713,6 +1761,22 @@
       "onboard_time": 1667277808,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458081,
+      "num": 331533,
+      "word": "吸血鬼病是什么",
+      "onboard_time": 1667524825,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 457268,
+      "num": 329578,
+      "word": "夫妻帮邻居喂狗拉布拉多变拉不拉猪",
+      "onboard_time": 1667525243,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450816,
@@ -2043,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395701,
+      "num": 395701,
+      "word": "鄂尔多斯通告称无论何时生命至上",
+      "onboard_time": 1667520147,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394811,
       "num": 360028,
       "word": "苏醒晒和陈楚生合照",
@@ -2363,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336353,
+      "num": 336353,
+      "word": "轿车失灵男子126码行驶2小时",
+      "onboard_time": 1667518040,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333966,
       "num": 333966,
       "word": "一直博北大学生涉嫌论文抄袭",
@@ -2425,6 +2505,14 @@
       "onboard_time": 1667362166,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 323922,
+      "num": 323922,
+      "word": "北京11月3日新增本土确诊32例",
+      "onboard_time": 1667522728,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323857,
@@ -2779,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277047,
+      "num": 277047,
+      "word": "欧文被篮网禁赛",
+      "onboard_time": 1667520386,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275644,
       "num": 275644,
       "word": "小说里走出来的白月光",
@@ -3091,14 +3187,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 241953,
-      "num": 241953,
-      "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
-      "onboard_time": 1667517742,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 241629,
       "num": 241629,
       "word": "王者七周年返场皮肤",
@@ -3315,12 +3403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215963,
+      "num": 215963,
+      "word": "国考报名人数超250万",
+      "onboard_time": 1667522187,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215926,
       "num": 215926,
       "word": "衢州要求高中生取得急救证书",
       "onboard_time": 1667482648,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211799,
+      "num": 211799,
+      "word": "李峋歪嘴笑",
+      "onboard_time": 1667519966,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 211780,
@@ -3561,6 +3665,14 @@
       "onboard_time": 1667374047,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 195717,
+      "num": 195717,
+      "word": "皮克宣布退役",
+      "onboard_time": 1667518222,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195589,
@@ -3809,6 +3921,14 @@
       "onboard_time": 1667373446,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173697,
+      "num": 173697,
+      "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
+      "onboard_time": 1667524526,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 173644,
@@ -4099,6 +4219,14 @@
       "category": "科技,网红"
     },
     {
+      "raw_hot": 153628,
+      "num": 153628,
+      "word": "5000年前中国就有水泥地",
+      "onboard_time": 1667526025,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153524,
       "num": 153524,
       "word": "桂东铁路坐火车不再查验核酸证明",
@@ -4121,6 +4249,22 @@
       "onboard_time": 1667440884,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 152673,
+      "num": 152673,
+      "word": "推特将从周五起全公司范围裁员",
+      "onboard_time": 1667524825,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152012,
+      "num": 152012,
+      "word": "合肥一公园定位反串纽约意外爆火",
+      "onboard_time": 1667493381,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150893,
@@ -4211,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146401,
+      "num": 146401,
+      "word": "为什么00后购物变谨慎了",
+      "onboard_time": 1667527644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145989,
       "num": 145989,
       "word": "爷爷日记里有孙女20年的成长",
@@ -4283,20 +4435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142691,
-      "num": 142691,
-      "word": "皮克宣布退役",
-      "onboard_time": 1667518222,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142421,
       "num": 134551,
       "word": "虞书欣的自由状态",
       "onboard_time": 1667285907,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140695,
+      "num": 140695,
+      "word": "老丈人偷女婿91万现金藏房门里",
+      "onboard_time": 1667527165,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138214,
@@ -4435,22 +4587,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132822,
-      "num": 132822,
-      "word": "合肥一公园定位反串纽约意外爆火",
-      "onboard_time": 1667493381,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132600,
-      "num": 132600,
-      "word": "轿车失灵男子126码行驶2小时",
-      "onboard_time": 1667518040,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132218,
       "num": 132218,
       "word": "成毅直播谈新剧莲花楼",
@@ -4475,12 +4611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131522,
+      "num": 131522,
+      "word": "硬币大小的心脏起搏器让患者重获新生",
+      "onboard_time": 1667522246,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129144,
       "num": 129144,
       "word": "羽绒服新国标落地",
       "onboard_time": 1667350468,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128454,
+      "num": 128454,
+      "word": "张婧仪朱韵状态",
+      "onboard_time": 1667526744,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 128020,
@@ -4505,6 +4657,14 @@
       "onboard_time": 1667380046,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 127299,
+      "num": 127299,
+      "word": "一个人住可以有多爽",
+      "onboard_time": 1667502613,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127166,
@@ -4659,14 +4819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120382,
-      "num": 120382,
-      "word": "一个人住可以有多爽",
-      "onboard_time": 1667502613,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120231,
       "num": 120231,
       "word": "我的朋友导演评价王一博",
@@ -4747,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114309,
+      "num": 114309,
+      "word": "宋亚轩翻唱ChangeTheWorld",
+      "onboard_time": 1667521468,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113623,
       "num": 113623,
       "word": "养猫人如何避免海克斯式猫粮",
@@ -4793,6 +4953,14 @@
       "onboard_time": 1667388505,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111836,
+      "num": 111836,
+      "word": "勇士vs魔术",
+      "onboard_time": 1667520088,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 111816,
@@ -4883,6 +5051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107556,
+      "num": 107556,
+      "word": "国美内部人士回应工资停发",
+      "onboard_time": 1667526686,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107321,
       "num": 107321,
       "word": "中国驻韩大使吊唁踩踏事故遇难同胞",
@@ -4913,6 +5089,14 @@
       "onboard_time": 1667432243,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106033,
+      "num": 106033,
+      "word": "世界两大空间望远镜cp",
+      "onboard_time": 1667527644,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105569,
@@ -4952,6 +5136,14 @@
       "word": "心动的信号5收官",
       "onboard_time": 1667365111,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103465,
+      "num": 103465,
+      "word": "蔡徐坤周深奔跑吧收官合照是P上去的",
+      "onboard_time": 1667519966,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -5019,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98764,
+      "num": 98764,
+      "word": "3200多名南侨机工已全部离世",
+      "onboard_time": 1667527586,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98314,
       "num": 98314,
       "word": "中国空间站",
@@ -5041,6 +5241,14 @@
       "onboard_time": 1667252890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98169,
+      "num": 98169,
+      "word": "三星新广告再次嘲讽苹果",
+      "onboard_time": 1667527706,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 96670,
@@ -5896,14 +6104,6 @@
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48022,
-      "num": 48022,
-      "word": "一女子在杭州地铁内爬行",
-      "onboard_time": 1667518642,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
