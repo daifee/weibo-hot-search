@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667575511554,
+  "endTime": 1667576582382,
   "band_list": [
     {
       "raw_hot": 3763812,
@@ -227,6 +227,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 853753,
+      "num": 853753,
+      "word": "青岛疫情防控",
+      "onboard_time": 1667574273,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846815,
       "num": 846815,
       "word": "杨幂说终于挂上肖砚医生的号了",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828335,
+      "num": 410458,
+      "word": "李承铉戚薇二胎叫seven",
+      "onboard_time": 1667574873,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 813535,
       "num": 813535,
       "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
@@ -281,6 +297,14 @@
       "onboard_time": 1667535508,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 717556,
+      "num": 717556,
+      "word": "广州海珠严格控制人员流动",
+      "onboard_time": 1667575592,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688974,
@@ -328,14 +352,6 @@
       "word": "中公一次性退款变不定额分期退",
       "onboard_time": 1667559089,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649807,
-      "num": 649807,
-      "word": "青岛疫情防控",
-      "onboard_time": 1667574273,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393811,
+      "num": 393811,
+      "word": "杰尼斯",
+      "onboard_time": 1667575295,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391101,
       "num": 391101,
       "word": "家庭真的比事业重要吗",
@@ -875,20 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321401,
+      "num": 321401,
+      "word": "朱一龙倪妮消失的她官博开通",
+      "onboard_time": 1667574153,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317324,
+      "num": 317324,
+      "word": "第一次见有人米饭过敏",
+      "onboard_time": 1667573131,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316623,
       "num": 316623,
       "word": "pgc",
       "onboard_time": 1667573731,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315145,
-      "num": 315145,
-      "word": "朱一龙倪妮消失的她官博开通",
-      "onboard_time": 1667574153,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 315133,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1667562811,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273086,
-      "num": 238249,
-      "word": "李承铉戚薇二胎叫seven",
-      "onboard_time": 1667574873,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 270251,
@@ -1195,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211250,
-      "num": 182639,
-      "word": "杰尼斯",
-      "onboard_time": 1667575295,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210572,
       "num": 210572,
       "word": "当恋爱脑女主遇上清醒女主",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1667543908,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208112,
-      "num": 208112,
-      "word": "第一次见有人米饭过敏",
-      "onboard_time": 1667573131,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 208044,
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160521,
+      "num": 128731,
+      "word": "凤毛麟角",
+      "onboard_time": 1667576492,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160338,
       "num": 102046,
       "word": "斋藤飞鸟即将毕业",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1667533885,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 152580,
+      "num": 152580,
+      "word": "现在小孩都玩这么狠吗",
+      "onboard_time": 1667572951,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152148,
@@ -1635,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145938,
-      "num": 145938,
-      "word": "现在小孩都玩这么狠吗",
-      "onboard_time": 1667572951,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1667566830,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 113260,
+      "word": "kp 退团",
+      "onboard_time": 1667576551,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139120,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1667467705,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71084,
+      "num": 113213,
+      "word": "离岸人民币创有记录以来最大单日涨幅",
+      "onboard_time": 1667576132,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 70805,
