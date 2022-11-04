@@ -1,0 +1,410 @@
+{
+  "runTime": 1667550709399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2398078,
+        "num": 2398078,
+        "word": "金鹰女神",
+        "onboard_time": 1667547508,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1153954,
+        "num": 1153954,
+        "word": "孙怡否认是金鹰女神",
+        "onboard_time": 1667547991,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6580,
+        "num": 643206,
+        "word": "中国航天让神话照进现实",
+        "onboard_time": 1667479706,
+        "rank": 2,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 427417,
+        "num": 427417,
+        "word": "1岁宝宝误食安定药昏迷保姆未告知",
+        "onboard_time": 1667544930,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421965,
+        "num": 421965,
+        "word": "为什么叫陈飞宇阿瑟",
+        "onboard_time": 1667539409,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315784,
+        "num": 315784,
+        "word": "男子捡回3只兔子7个月繁殖近百只",
+        "onboard_time": 1667535689,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277154,
+        "num": 277154,
+        "word": "丢烟头引青岛山火男子被判4年半",
+        "onboard_time": 1667541628,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240628,
+        "num": 240628,
+        "word": "儿子取母亲50万养老钱打赏女主播",
+        "onboard_time": 1667538990,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229565,
+        "num": 229565,
+        "word": "3200多名南侨机工已全部离世",
+        "onboard_time": 1667527586,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217759,
+        "num": 217759,
+        "word": "被2只细腿腿毛茸茸磕到了",
+        "onboard_time": 1667542345,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254172,
+        "num": 217640,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1225176,
+        "num": 215861,
+        "word": "感谢陈红",
+        "onboard_time": 1667543489,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505592,
+        "num": 215363,
+        "word": "最高检依法对李国华决定逮捕",
+        "onboard_time": 1667547811,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504938,
+        "num": 214005,
+        "word": "阿瑟终于要火了",
+        "onboard_time": 1667533225,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213909,
+        "num": 213909,
+        "word": "过了20岁就不能吃得像个小孩子了",
+        "onboard_time": 1667543307,
+        "rank": 14,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 212249,
+        "num": 212249,
+        "word": "苹果市值一夜蒸发7160亿元",
+        "onboard_time": 1667538149,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 191780,
+        "num": 191780,
+        "word": "浙江省考",
+        "onboard_time": 1667548948,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 187811,
+        "word": "外婆先背会课文气哭一年级外孙",
+        "onboard_time": 1667543066,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180743,
+        "num": 180743,
+        "word": "存200张亡妻照片手机丢失男子痛哭",
+        "onboard_time": 1667525967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161908,
+        "num": 161908,
+        "word": "元歌无心新皮肤",
+        "onboard_time": 1667545348,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221314,
+        "num": 154298,
+        "word": "肖战如梦之梦十周年首演变更昆山站",
+        "onboard_time": 1667545709,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176012,
+        "num": 152122,
+        "word": "蔡徐坤白鹿周深上学座位公布",
+        "onboard_time": 1667544448,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142898,
+        "num": 142898,
+        "word": "前大连足球名宿王涛去世",
+        "onboard_time": 1667543908,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135434,
+        "num": 135434,
+        "word": "朔尔茨访华随行CEO名单凸显合作",
+        "onboard_time": 1667533165,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 132388,
+        "word": "这是一窝摆烂猫吧",
+        "onboard_time": 1667535927,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131291,
+        "num": 131291,
+        "word": "欧文道歉",
+        "onboard_time": 1667535508,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130968,
+        "num": 130968,
+        "word": "乔欣郑达前父重前行",
+        "onboard_time": 1667550268,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130832,
+        "num": 130832,
+        "word": "Gemini侧颜",
+        "onboard_time": 1667549490,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108283,
+        "num": 123233,
+        "word": "世界杯被中国制造包了",
+        "onboard_time": 1667540249,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107532,
+        "num": 123137,
+        "word": "老丈人偷女婿91万现金藏房门里",
+        "onboard_time": 1667527165,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123113,
+        "num": 123113,
+        "word": "周杰伦这几句话到底有多好用",
+        "onboard_time": 1667546911,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 118101,
+        "num": 118101,
+        "word": "第14届金鹰节颁奖晚会阵容官宣",
+        "onboard_time": 1667532024,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112994,
+        "num": 112994,
+        "word": "2022MMA最佳新人提名名单",
+        "onboard_time": 1667541748,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110256,
+        "num": 110256,
+        "word": "不期而至 大哥大嫂",
+        "onboard_time": 1667535988,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 106947,
+        "word": "家庭真的比事业重要吗",
+        "onboard_time": 1667537310,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105895,
+        "num": 105895,
+        "word": "nikke",
+        "onboard_time": 1667536287,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102055,
+        "num": 102055,
+        "word": "勇士 累死库里",
+        "onboard_time": 1667530645,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98597,
+        "num": 98597,
+        "word": "海宁90后主播带羊群上班引围观",
+        "onboard_time": 1667546851,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95364,
+        "num": 95364,
+        "word": "zlib",
+        "onboard_time": 1667540905,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93734,
+        "num": 93734,
+        "word": "原来AI喜欢这样的猫",
+        "onboard_time": 1667547090,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108729,
+        "num": 93518,
+        "word": "阿瑟文学之我是你爸",
+        "onboard_time": 1667550330,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105343,
+        "num": 93408,
+        "word": "谭松韵说不忘初心",
+        "onboard_time": 1667548171,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91806,
+        "num": 91806,
+        "word": "狗子都穿上羽绒服了",
+        "onboard_time": 1667550089,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88940,
+        "num": 88940,
+        "word": "余承东称鸿蒙最具生命力",
+        "onboard_time": 1667550330,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181954,
+        "num": 87933,
+        "word": "校方回应女子在杭州地铁内爬行",
+        "onboard_time": 1667533345,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86753,
+        "num": 86753,
+        "word": "开敞厨房更适合中国家庭",
+        "onboard_time": 1667548708,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86218,
+        "num": 86218,
+        "word": "新郎为恋爱9年女友打造稻田婚礼",
+        "onboard_time": 1667535086,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80090,
+        "num": 80090,
+        "word": "宁波一夫妻吵架赌气将婴儿独自留家中",
+        "onboard_time": 1667530045,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74625,
+        "num": 74625,
+        "word": "这钢化膜到底好还是不好",
+        "onboard_time": 1667550268,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68001,
+        "num": 68001,
+        "word": "个人养老金实施办法出台",
+        "onboard_time": 1667548229,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在变局乱局中更应携手合作#"
+    }
+  }
+}

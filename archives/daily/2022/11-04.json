@@ -1,6 +1,6 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667547331849,
+  "endTime": 1667550709399,
   "band_list": [
     {
       "raw_hot": 3169070,
@@ -17,6 +17,14 @@
       "onboard_time": 1667534906,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2398078,
+      "num": 2398078,
+      "word": "金鹰女神",
+      "onboard_time": 1667547508,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2092385,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225176,
+      "num": 318691,
+      "word": "感谢陈红",
+      "onboard_time": 1667543489,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1203846,
       "num": 878548,
       "word": "伊能静说丈夫并不是你的医生",
@@ -67,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1102809,
-      "num": 318691,
-      "word": "感谢陈红",
-      "onboard_time": 1667543489,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 1153954,
+      "num": 1153954,
+      "word": "孙怡否认是金鹰女神",
+      "onboard_time": 1667547991,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1044892,
@@ -267,6 +283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 505592,
+      "num": 215363,
+      "word": "最高检依法对李国华决定逮捕",
+      "onboard_time": 1667547811,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505340,
       "num": 491062,
       "word": "赵露思偷偷藏不住骑自行车路透",
@@ -361,6 +385,14 @@
       "onboard_time": 1667527706,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 427417,
+      "num": 427417,
+      "word": "1岁宝宝误食安定药昏迷保姆未告知",
+      "onboard_time": 1667544930,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416881,
@@ -627,6 +659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213909,
+      "num": 213909,
+      "word": "过了20岁就不能吃得像个小孩子了",
+      "onboard_time": 1667543307,
+      "rank": 49,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 213620,
       "num": 213620,
       "word": "加拿大一枝黄花成浙江胡羊口中美味",
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191780,
+      "num": 191780,
+      "word": "浙江省考",
+      "onboard_time": 1667548948,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188745,
       "num": 188745,
       "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
@@ -819,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165903,
-      "num": 165903,
-      "word": "1岁宝宝误食安定药昏迷保姆未告知",
-      "onboard_time": 1667544930,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163447,
       "num": 163447,
       "word": "成都快递老板娘写段子喊话回收",
@@ -841,6 +881,14 @@
       "onboard_time": 1667529206,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161908,
+      "num": 161908,
+      "word": "元歌无心新皮肤",
+      "onboard_time": 1667545348,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 154053,
@@ -915,22 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146725,
-      "num": 146725,
-      "word": "元歌无心新皮肤",
-      "onboard_time": 1667545348,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 144685,
-      "num": 144685,
-      "word": "过了20岁就不能吃得像个小孩子了",
-      "onboard_time": 1667543307,
-      "rank": 49,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -993,6 +1025,22 @@
       "onboard_time": 1667522246,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130968,
+      "num": 130968,
+      "word": "乔欣郑达前父重前行",
+      "onboard_time": 1667550268,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130832,
+      "num": 130832,
+      "word": "Gemini侧颜",
+      "onboard_time": 1667549490,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 129779,
@@ -1075,12 +1123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108729,
+      "num": 93518,
+      "word": "阿瑟文学之我是你爸",
+      "onboard_time": 1667550330,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106033,
       "num": 106033,
       "word": "世界两大空间望远镜cp",
       "onboard_time": 1667527644,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105343,
+      "num": 93408,
+      "word": "谭松韵说不忘初心",
+      "onboard_time": 1667548171,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 103465,
@@ -1171,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93734,
+      "num": 93734,
+      "word": "原来AI喜欢这样的猫",
+      "onboard_time": 1667547090,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92124,
       "num": 92124,
       "word": "男子让流浪狗点头摇头决定去留",
@@ -1187,12 +1259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91806,
+      "num": 91806,
+      "word": "狗子都穿上羽绒服了",
+      "onboard_time": 1667550089,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91515,
       "num": 91515,
       "word": "车主回应定速巡航失灵126码跑2小时",
       "onboard_time": 1667538990,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88940,
+      "num": 88940,
+      "word": "余承东称鸿蒙最具生命力",
+      "onboard_time": 1667550330,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 88394,
@@ -1203,12 +1291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88072,
-      "num": 88072,
-      "word": "原来AI喜欢这样的猫",
-      "onboard_time": 1667547090,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 86753,
+      "num": 86753,
+      "word": "开敞厨房更适合中国家庭",
+      "onboard_time": 1667548708,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83722,
@@ -1283,6 +1371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 74625,
+      "num": 74625,
+      "word": "这钢化膜到底好还是不好",
+      "onboard_time": 1667550268,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73387,
       "num": 63190,
       "word": "张晚意一天内官宣两部大剧",
@@ -1312,6 +1408,14 @@
       "word": "女子不想托运酒机场喝完直接被送医",
       "onboard_time": 1667482345,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68001,
+      "num": 68001,
+      "word": "个人养老金实施办法出台",
+      "onboard_time": 1667548229,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
