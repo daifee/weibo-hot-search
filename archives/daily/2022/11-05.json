@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667583616187,
+  "endTime": 1667586477880,
   "band_list": [
     {
       "raw_hot": 2325477,
@@ -88,6 +88,14 @@
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
       "onboard_time": 1667569710,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346400,
+      "num": 346400,
+      "word": "福州不再公布无症状感染者流调",
+      "onboard_time": 1667582660,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113140,
+      "num": 86123,
+      "word": "这场大火烧光了一车的作业",
+      "onboard_time": 1667581403,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "王楚钦2比3郑培锋",
@@ -361,22 +377,6 @@
       "onboard_time": 1667557950,
       "rank": 44,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 87426,
-      "num": 87426,
-      "word": "福州不再公布无症状感染者流调",
-      "onboard_time": 1667582660,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86123,
-      "num": 86123,
-      "word": "这场大火烧光了一车的作业",
-      "onboard_time": 1667581403,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83359,
@@ -427,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 34684,
+      "num": 34684,
+      "word": "杨幂新剧落泪镜头",
+      "onboard_time": 1667584037,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26841,
       "num": 539456,
       "word": "2022进博会现场高清大图",
       "onboard_time": 1667566290,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 18913,
+      "num": 20018,
+      "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+      "onboard_time": 1667586195,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
