@@ -1,7 +1,15 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667572601432,
+  "endTime": 1667575511554,
   "band_list": [
+    {
+      "raw_hot": 3763812,
+      "num": 3763812,
+      "word": "吴某某已停职配合有关事件调查",
+      "onboard_time": 1667572771,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3169070,
       "num": 370279,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649807,
+      "num": 649807,
+      "word": "青岛疫情防控",
+      "onboard_time": 1667574273,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636312,
       "num": 636312,
       "word": "3200多名南侨机工已全部离世",
@@ -337,6 +353,14 @@
       "onboard_time": 1667559870,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618069,
+      "num": 618069,
+      "word": "网购馥蕾诗保湿水内有一只虫",
+      "onboard_time": 1667570310,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612974,
@@ -385,6 +409,14 @@
       "onboard_time": 1667569350,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 588607,
+      "num": 588607,
+      "word": "清洁工躺车库被碾亡司机一审被判无罪",
+      "onboard_time": 1667569710,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556936,
@@ -441,14 +473,6 @@
       "onboard_time": 1667484148,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 509356,
-      "num": 432772,
-      "word": "清洁工躺车库被碾亡司机一审被判无罪",
-      "onboard_time": 1667569710,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505809,
@@ -643,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 425473,
-      "num": 425473,
-      "word": "网购馥蕾诗保湿水内有一只虫",
-      "onboard_time": 1667570310,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416881,
       "num": 416881,
       "word": "nikke",
@@ -705,6 +721,14 @@
       "onboard_time": 1667555910,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381143,
+      "num": 353120,
+      "word": "迪丽热巴今晚直播动图",
+      "onboard_time": 1667573674,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 379196,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338508,
+      "num": 338508,
+      "word": "男子围观车祸下一秒被撞",
+      "onboard_time": 1667571271,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336353,
       "num": 336353,
       "word": "轿车失灵男子126码行驶2小时",
@@ -841,6 +873,22 @@
       "onboard_time": 1667540905,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316623,
+      "num": 316623,
+      "word": "pgc",
+      "onboard_time": 1667573731,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 315145,
+      "num": 315145,
+      "word": "朱一龙倪妮消失的她官博开通",
+      "onboard_time": 1667574153,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 315133,
@@ -953,6 +1001,14 @@
       "onboard_time": 1667562811,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273086,
+      "num": 238249,
+      "word": "李承铉戚薇二胎叫seven",
+      "onboard_time": 1667574873,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 270251,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216747,
+      "num": 216747,
+      "word": "樊振东全锦赛首战告捷",
+      "onboard_time": 1667573191,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216359,
       "num": 216359,
       "word": "过了20岁就不能吃得像个小孩子了",
@@ -1131,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211250,
+      "num": 182639,
+      "word": "杰尼斯",
+      "onboard_time": 1667575295,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210572,
       "num": 210572,
       "word": "当恋爱脑女主遇上清醒女主",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1667543908,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208112,
+      "num": 208112,
+      "word": "第一次见有人米饭过敏",
+      "onboard_time": 1667573131,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 208044,
@@ -1259,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191087,
+      "num": 177811,
+      "word": "张彬彬郭俊辰金瀚金鹰节携手走红毯",
+      "onboard_time": 1667571814,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188745,
       "num": 188745,
       "word": "新生儿带1.3斤畸胎瘤似松鼠尾巴",
@@ -1315,14 +1403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175418,
-      "num": 175418,
-      "word": "张彬彬郭俊辰金瀚金鹰节携手走红毯",
-      "onboard_time": 1667571814,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173697,
       "num": 173697,
       "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1667532264,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165771,
+      "num": 165771,
+      "word": "男童被压车底20多人瞬间冲了上去",
+      "onboard_time": 1667571870,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163447,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1667558789,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160997,
+      "num": 160997,
+      "word": "网传救护车坐地起价涉事人员被抓",
+      "onboard_time": 1667569949,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160338,
@@ -1465,6 +1561,14 @@
       "onboard_time": 1667493381,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151869,
+      "num": 140440,
+      "word": "明星金鹰节红毯造型",
+      "onboard_time": 1667572890,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151787,
@@ -1531,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145938,
+      "num": 145938,
+      "word": "现在小孩都玩这么狠吗",
+      "onboard_time": 1667572951,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -1563,11 +1675,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137427,
-      "num": 137427,
-      "word": "网传救护车坐地起价涉事人员被抓",
-      "onboard_time": 1667569949,
-      "rank": 48,
+      "raw_hot": 138209,
+      "num": 138209,
+      "word": "中国的古人也吃方便面",
+      "onboard_time": 1667571932,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1657,14 +1769,6 @@
       "onboard_time": 1667527766,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128327,
-      "num": 128327,
-      "word": "男子围观车祸下一秒被撞",
-      "onboard_time": 1667571271,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127638,
@@ -1907,14 +2011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92523,
-      "num": 92523,
-      "word": "中国的古人也吃方便面",
-      "onboard_time": 1667571932,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92124,
       "num": 92124,
       "word": "男子让流浪狗点头摇头决定去留",
@@ -1969,14 +2065,6 @@
       "onboard_time": 1667478204,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84586,
-      "num": 84586,
-      "word": "男童被压车底20多人瞬间冲了上去",
-      "onboard_time": 1667571870,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 84528,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1667473109,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63996,
+      "num": 92967,
+      "word": "当代学生的顶级理解能力",
+      "onboard_time": 1667574512,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62953,
