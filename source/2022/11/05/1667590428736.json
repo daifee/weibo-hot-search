@@ -1,0 +1,410 @@
+{
+  "runTime": 1667590428736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 173753,
+        "num": 173753,
+        "word": "福州不再公布无症状感染者流调",
+        "onboard_time": 1667582660,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125605,
+        "num": 125605,
+        "word": "广州海珠严格控制人员流动",
+        "onboard_time": 1667575592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9413,
+        "num": 100167,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81033,
+        "num": 81033,
+        "word": "女生网购维他奶开箱发现爬满蛆",
+        "onboard_time": 1667578410,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79924,
+        "num": 79924,
+        "word": "多家茶饮品牌联合抵制外卖满减",
+        "onboard_time": 1667567910,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72430,
+        "num": 72430,
+        "word": "起不来和睡不着哪个更痛苦",
+        "onboard_time": 1667587093,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58854,
+        "num": 58854,
+        "word": "国务院联防联控机制明日召开发布会",
+        "onboard_time": 1667567551,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54803,
+        "num": 54803,
+        "word": "一口气炫完杨幂新剧5集",
+        "onboard_time": 1667577868,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51203,
+        "num": 51203,
+        "word": "青岛疫情防控",
+        "onboard_time": 1667574273,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48676,
+        "num": 48676,
+        "word": "清洁工躺车库被碾亡司机一审被判无罪",
+        "onboard_time": 1667569710,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390294,
+        "num": 46778,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667578766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307388,
+        "num": 46541,
+        "word": "吴某某已停职配合有关事件调查",
+        "onboard_time": 1667572771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73795,
+        "num": 43721,
+        "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
+        "onboard_time": 1667586195,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65158,
+        "num": 42564,
+        "word": "kp 退团",
+        "onboard_time": 1667576551,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51005,
+        "num": 40109,
+        "word": "李承铉戚薇二胎叫seven",
+        "onboard_time": 1667574873,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38822,
+        "num": 38822,
+        "word": "重庆一小区宠物接连死亡",
+        "onboard_time": 1667561128,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35384,
+        "num": 35384,
+        "word": "网购馥蕾诗保湿水内有一只虫",
+        "onboard_time": 1667570310,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34083,
+        "num": 34083,
+        "word": "苏有朋披荆斩棘年度总冠军",
+        "onboard_time": 1667558308,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32608,
+        "num": 32608,
+        "word": "杰尼斯",
+        "onboard_time": 1667575295,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32405,
+        "num": 32405,
+        "word": "刘诗雯发布竞选宣言",
+        "onboard_time": 1667576790,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31289,
+        "num": 31289,
+        "word": "这场大火烧光了一车的作业",
+        "onboard_time": 1667581403,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30940,
+        "num": 30940,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1667577689,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30528,
+        "num": 30528,
+        "word": "杨幂新剧落泪镜头",
+        "onboard_time": 1667584037,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30487,
+        "num": 30487,
+        "word": "日本正式加入北约网络防御中心",
+        "onboard_time": 1667560649,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30096,
+        "num": 30096,
+        "word": "少爷和我警察篇",
+        "onboard_time": 1667570791,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28793,
+        "num": 28793,
+        "word": "颈椎一下子就舒服了",
+        "onboard_time": 1667561730,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27201,
+        "num": 27201,
+        "word": "凤毛麟角",
+        "onboard_time": 1667576492,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26835,
+        "num": 26835,
+        "word": "XYG",
+        "onboard_time": 1667564309,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25647,
+        "num": 25647,
+        "word": "第一次见有人米饭过敏",
+        "onboard_time": 1667573131,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22234,
+        "num": 25636,
+        "word": "德国总理访华",
+        "onboard_time": 1667561428,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41716,
+        "num": 25606,
+        "word": "汪涵金鹰节发型",
+        "onboard_time": 1667567250,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29495,
+        "num": 25563,
+        "word": "离岸人民币创有记录以来最大单日涨幅",
+        "onboard_time": 1667576132,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25725,
+        "num": 25535,
+        "word": "Lisa成为iTunes最多一位女歌手",
+        "onboard_time": 1667578884,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25523,
+        "num": 25523,
+        "word": "安徽青企协回应吴某某事件",
+        "onboard_time": 1667577270,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23728,
+        "num": 23728,
+        "word": "点燃我温暖你",
+        "onboard_time": 1667568990,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22809,
+        "num": 22809,
+        "word": "披荆斩棘总决赛排名",
+        "onboard_time": 1667559870,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21889,
+        "num": 21889,
+        "word": "男子围观车祸下一秒被撞",
+        "onboard_time": 1667571271,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20928,
+        "num": 20928,
+        "word": "今年或将迎来本世纪首个三重拉尼娜",
+        "onboard_time": 1667557950,
+        "rank": 37,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 20375,
+        "num": 20375,
+        "word": "成年人的释怀是一种什么感觉",
+        "onboard_time": 1667566169,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19853,
+        "num": 19853,
+        "word": "女子当当网买到半印刷半手抄书",
+        "onboard_time": 1667553388,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22096,
+        "num": 19818,
+        "word": "明星金鹰节红毯造型",
+        "onboard_time": 1667572890,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19735,
+        "num": 19735,
+        "word": "工人高空坠落被钢筋贯穿身体",
+        "onboard_time": 1667564249,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 18229,
+        "word": "日本拟于2030年前部署高超音速导弹",
+        "onboard_time": 1667568090,
+        "rank": 42,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 17978,
+        "word": "孙怡珠光万物生灵刺绣礼裙",
+        "onboard_time": 1667570852,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17971,
+        "num": 17971,
+        "word": "武汉为世界首座人口超千万湿地城市",
+        "onboard_time": 1667562448,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15633,
+        "num": 15633,
+        "word": "牛市回来了",
+        "onboard_time": 1667552368,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15175,
+        "num": 15175,
+        "word": "现在小孩都玩这么狠吗",
+        "onboard_time": 1667572951,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13213,
+        "num": 13213,
+        "word": "王楚钦2比3郑培锋",
+        "onboard_time": 1667569230,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12866,
+        "num": 13206,
+        "word": "中国的古人也吃方便面",
+        "onboard_time": 1667571932,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11136,
+        "num": 13188,
+        "word": "武磊6场7球",
+        "onboard_time": 1667590152,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#路就在脚下光明就在前方#"
+    }
+  }
+}
