@@ -1,10 +1,10 @@
 {
   "startTime": 1667493263634,
-  "endTime": 1667561712985,
+  "endTime": 1667566061391,
   "band_list": [
     {
       "raw_hot": 3169070,
-      "num": 368011,
+      "num": 370279,
       "word": "143",
       "onboard_time": 1667546010,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1164779,
+      "num": 1164779,
+      "word": "日本正式加入北约网络防御中心",
+      "onboard_time": 1667560649,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1153954,
       "num": 1153954,
       "word": "孙怡否认是金鹰女神",
@@ -121,6 +129,14 @@
       "onboard_time": 1667525605,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009678,
+      "num": 1009678,
+      "word": "赵丽颖发视频告别与凤行沈璃",
+      "onboard_time": 1667560889,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 996487,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688563,
+      "num": 688563,
+      "word": "王楚钦",
+      "onboard_time": 1667564909,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 677121,
       "num": 677121,
       "word": "不期而至 大哥大嫂",
@@ -241,6 +265,14 @@
       "onboard_time": 1667517742,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 658396,
+      "num": 658396,
+      "word": "中公一次性退款变不定额分期退",
+      "onboard_time": 1667559089,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636312,
@@ -296,14 +328,6 @@
       "word": "新郎为恋爱9年女友打造稻田婚礼",
       "onboard_time": 1667535086,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565592,
-      "num": 565592,
-      "word": "中公一次性退款变不定额分期退",
-      "onboard_time": 1667559089,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464976,
+      "num": 464976,
+      "word": "重庆一小区宠物接连死亡",
+      "onboard_time": 1667561128,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463375,
       "num": 463375,
       "word": "世界杯被中国制造包了",
@@ -451,20 +483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448724,
-      "num": 153789,
-      "word": "赵丽颖发视频告别与凤行沈璃",
-      "onboard_time": 1667560889,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 447137,
       "num": 447137,
       "word": "许家印7亿港元山顶豪宅被接管",
       "onboard_time": 1667488529,
       "rank": 7,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 442676,
+      "num": 382392,
+      "word": "德国总理访华",
+      "onboard_time": 1667561428,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 434015,
@@ -499,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426189,
+      "num": 373170,
+      "word": "第14届金鹰节开幕式",
+      "onboard_time": 1667564068,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416881,
       "num": 416881,
       "word": "nikke",
       "onboard_time": 1667536287,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 406270,
-      "num": 357520,
-      "word": "日本正式加入北约网络防御中心",
-      "onboard_time": 1667560649,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 399988,
@@ -635,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347976,
+      "num": 785478,
+      "word": "疫情期间可领取补贴系谣言",
+      "onboard_time": 1667563170,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345172,
       "num": 150702,
       "word": "周深撕毛衣",
@@ -657,6 +697,14 @@
       "onboard_time": 1667535927,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330997,
+      "num": 330997,
+      "word": "颈椎一下子就舒服了",
+      "onboard_time": 1667561730,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 323922,
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317483,
+      "num": 317483,
+      "word": "XYG",
+      "onboard_time": 1667564309,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315133,
       "num": 315133,
       "word": "女子冰奶茶配油炸小吃致酸中毒",
@@ -704,6 +760,14 @@
       "word": "司机因口渴误饮油漆稀释剂",
       "onboard_time": 1667553268,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302185,
+      "num": 302185,
+      "word": "武汉为世界首座人口超千万湿地城市",
+      "onboard_time": 1667562448,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -740,7 +804,7 @@
     },
     {
       "raw_hot": 281474,
-      "num": 281474,
+      "num": 391324,
       "word": "2岁幼童坠楼被街坊们用床单接住",
       "onboard_time": 1667552910,
       "rank": 34,
@@ -768,6 +832,22 @@
       "word": "欧文被篮网禁赛",
       "onboard_time": 1667520386,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276109,
+      "num": 250102,
+      "word": "徐海乔晒与凤行杀青图",
+      "onboard_time": 1667562868,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273391,
+      "num": 273391,
+      "word": "陈梦",
+      "onboard_time": 1667562811,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -803,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239328,
+      "num": 141425,
+      "word": "陈小春XLeader",
+      "onboard_time": 1667562151,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232289,
       "num": 177705,
       "word": "阿瑟文学之我是你爸",
@@ -836,7 +924,7 @@
     },
     {
       "raw_hot": 226152,
-      "num": 110971,
+      "num": 139499,
       "word": "奔跑吧",
       "onboard_time": 1667557828,
       "rank": 31,
@@ -912,6 +1000,14 @@
       "word": "李峋歪嘴笑",
       "onboard_time": 1667519966,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210953,
+      "num": 141304,
+      "word": "杨幂白宇谢谢你医生观后感",
+      "onboard_time": 1667564970,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1075,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175296,
+      "num": 175296,
+      "word": "工人高空坠落被钢筋贯穿身体",
+      "onboard_time": 1667564249,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 173697,
       "num": 173697,
       "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
@@ -1099,8 +1203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167793,
+      "num": 167793,
+      "word": "把代码写进了狗狗的衣服里",
+      "onboard_time": 1667563229,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167221,
-      "num": 109420,
+      "num": 143419,
       "word": "北京顺义社会面筛查2例感染者",
       "onboard_time": 1667560231,
       "rank": 35,
@@ -1113,6 +1225,14 @@
       "onboard_time": 1667532264,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166323,
+      "num": 100054,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1667565752,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 163447,
@@ -1161,6 +1281,22 @@
       "onboard_time": 1667561310,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160108,
+      "num": 160108,
+      "word": "邱贻可说跟孙颖莎既是师徒也是家人",
+      "onboard_time": 1667563949,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156723,
+      "num": 156723,
+      "word": "深圳校服上新了",
+      "onboard_time": 1667559029,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154053,
@@ -1251,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144752,
-      "num": 144752,
-      "word": "深圳校服上新了",
-      "onboard_time": 1667559029,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -1339,14 +1467,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 131830,
-      "num": 131830,
-      "word": "德国总理访华",
-      "onboard_time": 1667561428,
-      "rank": 27,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 131522,
       "num": 131522,
       "word": "硬币大小的心脏起搏器让患者重获新生",
@@ -1419,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115703,
+      "num": 115703,
+      "word": "山东女团无缘全锦赛八强",
+      "onboard_time": 1667565570,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
@@ -1473,6 +1601,22 @@
       "onboard_time": 1667554350,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107761,
+      "num": 107761,
+      "word": "小猫咪没有惹你们任何人",
+      "onboard_time": 1667561971,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107307,
+      "num": 107307,
+      "word": "这仓鼠好会滑啊",
+      "onboard_time": 1667565508,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 106397,
@@ -1627,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89801,
-      "num": 89801,
-      "word": "重庆一小区宠物接连死亡",
-      "onboard_time": 1667561128,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "余承东称鸿蒙最具生命力",
@@ -1721,6 +1857,14 @@
       "onboard_time": 1667544270,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 77239,
+      "num": 77239,
+      "word": "德国合唱团用中文演唱茉莉花",
+      "onboard_time": 1667562751,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77141,
@@ -1857,6 +2001,14 @@
       "onboard_time": 1667515397,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61080,
+      "num": 72599,
+      "word": "男孩站5楼窗外玩好心人怒斥喊回",
+      "onboard_time": 1667566049,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60426,

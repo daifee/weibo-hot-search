@@ -1,0 +1,410 @@
+{
+  "runTime": 1667566061391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164779,
+        "num": 1164779,
+        "word": "日本正式加入北约网络防御中心",
+        "onboard_time": 1667560649,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1009678,
+        "num": 1009678,
+        "word": "赵丽颖发视频告别与凤行沈璃",
+        "onboard_time": 1667560889,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347976,
+        "num": 785478,
+        "word": "疫情期间可领取补贴系谣言",
+        "onboard_time": 1667563170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763592,
+        "num": 763592,
+        "word": "今年没有金鹰女神了",
+        "onboard_time": 1667552787,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688563,
+        "num": 688563,
+        "word": "王楚钦",
+        "onboard_time": 1667564909,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658396,
+        "num": 658396,
+        "word": "中公一次性退款变不定额分期退",
+        "onboard_time": 1667559089,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524960,
+        "num": 524960,
+        "word": "苏有朋披荆斩棘年度总冠军",
+        "onboard_time": 1667558308,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464976,
+        "num": 464976,
+        "word": "重庆一小区宠物接连死亡",
+        "onboard_time": 1667561128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394866,
+        "num": 394866,
+        "word": "今年或将迎来本世纪首个三重拉尼娜",
+        "onboard_time": 1667557950,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 112974,
+        "num": 391324,
+        "word": "2岁幼童坠楼被街坊们用床单接住",
+        "onboard_time": 1667552910,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 478311,
+        "num": 384484,
+        "word": "金鹰女神",
+        "onboard_time": 1667547508,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442676,
+        "num": 382392,
+        "word": "德国总理访华",
+        "onboard_time": 1667561428,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 426189,
+        "num": 373170,
+        "word": "第14届金鹰节开幕式",
+        "onboard_time": 1667564068,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370279,
+        "num": 370279,
+        "word": "143",
+        "onboard_time": 1667546010,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359077,
+        "num": 359077,
+        "word": "女子当当网买到半印刷半手抄书",
+        "onboard_time": 1667553388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330997,
+        "num": 330997,
+        "word": "颈椎一下子就舒服了",
+        "onboard_time": 1667561730,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317483,
+        "num": 317483,
+        "word": "XYG",
+        "onboard_time": 1667564309,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302185,
+        "num": 302185,
+        "word": "武汉为世界首座人口超千万湿地城市",
+        "onboard_time": 1667562448,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273391,
+        "num": 273391,
+        "word": "陈梦",
+        "onboard_time": 1667562811,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263957,
+        "num": 263957,
+        "word": "儿子沉迷游戏父亲怒摔手机让其砸",
+        "onboard_time": 1667557168,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304735,
+        "num": 250635,
+        "word": "披荆斩棘总决赛排名",
+        "onboard_time": 1667559870,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286863,
+        "num": 250344,
+        "word": "感谢陈红",
+        "onboard_time": 1667543489,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276109,
+        "num": 250102,
+        "word": "徐海乔晒与凤行杀青图",
+        "onboard_time": 1667562868,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232448,
+        "num": 232448,
+        "word": "牛市回来了",
+        "onboard_time": 1667552368,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194642,
+        "num": 194642,
+        "word": "男子生意失败让女友碰瓷挣钱",
+        "onboard_time": 1667555789,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "工人高空坠落被钢筋贯穿身体",
+        "onboard_time": 1667564249,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 167793,
+        "num": 167793,
+        "word": "把代码写进了狗狗的衣服里",
+        "onboard_time": 1667563229,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160108,
+        "num": 160108,
+        "word": "邱贻可说跟孙颖莎既是师徒也是家人",
+        "onboard_time": 1667563949,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156723,
+        "num": 156723,
+        "word": "深圳校服上新了",
+        "onboard_time": 1667559029,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 143419,
+        "num": 143419,
+        "word": "北京顺义社会面筛查2例感染者",
+        "onboard_time": 1667560231,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240627,
+        "num": 143081,
+        "word": "周深撕毛衣",
+        "onboard_time": 1667560829,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239328,
+        "num": 141425,
+        "word": "陈小春XLeader",
+        "onboard_time": 1667562151,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210953,
+        "num": 141304,
+        "word": "杨幂白宇谢谢你医生观后感",
+        "onboard_time": 1667564970,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174165,
+        "num": 139499,
+        "word": "奔跑吧",
+        "onboard_time": 1667557828,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139387,
+        "num": 139387,
+        "word": "女子冰奶茶配油炸小吃致酸中毒",
+        "onboard_time": 1667555430,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115703,
+        "num": 115703,
+        "word": "山东女团无缘全锦赛八强",
+        "onboard_time": 1667565570,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "小猫咪没有惹你们任何人",
+        "onboard_time": 1667561971,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107307,
+        "num": 107307,
+        "word": "这仓鼠好会滑啊",
+        "onboard_time": 1667565508,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "司机因口渴误饮油漆稀释剂",
+        "onboard_time": 1667553268,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101248,
+        "num": 101248,
+        "word": "这小狗怎么长得好像小羊",
+        "onboard_time": 1667552849,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166323,
+        "num": 100054,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1667565752,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137871,
+        "num": 99536,
+        "word": "斋藤飞鸟即将毕业",
+        "onboard_time": 1667561310,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97414,
+        "num": 97414,
+        "word": "不是说好不过双十一吗",
+        "onboard_time": 1667559688,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95377,
+        "num": 95377,
+        "word": "沙坪坝疫情防控",
+        "onboard_time": 1667551351,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92017,
+        "num": 92017,
+        "word": "第一次觉得画画这么简单",
+        "onboard_time": 1667558069,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82190,
+        "num": 82190,
+        "word": "为什么国漫越来越受欢迎了",
+        "onboard_time": 1667556688,
+        "rank": 45,
+        "category": "动漫,社会议题"
+      },
+      {
+        "raw_hot": 77239,
+        "num": 77239,
+        "word": "德国合唱团用中文演唱茉莉花",
+        "onboard_time": 1667562751,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75632,
+        "num": 75632,
+        "word": "北京一宠物店出考题审核领养人",
+        "onboard_time": 1667559268,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61231,
+        "num": 75019,
+        "word": "Gemini侧颜",
+        "onboard_time": 1667549490,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61080,
+        "num": 72599,
+        "word": "男孩站5楼窗外玩好心人怒斥喊回",
+        "onboard_time": 1667566049,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在变局乱局中更应携手合作#"
+    }
+  }
+}
