@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667655772796,
+  "endTime": 1667657926318,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -1435,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 685738,
+      "num": 685738,
+      "word": "孙怡金鹰节vlog",
+      "onboard_time": 1667652027,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 685552,
       "num": 685552,
       "word": "女佣起诉全球首富贝索斯非人待遇",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1667618366,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623985,
-      "num": 623985,
-      "word": "孙怡金鹰节vlog",
-      "onboard_time": 1667652027,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622822,
@@ -3115,6 +3115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 398525,
+      "num": 398525,
+      "word": "打火机与公主裙 选角",
+      "onboard_time": 1667652326,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395920,
       "num": 395920,
       "word": "双十一将诞生100万拍照锦鲤",
@@ -3177,14 +3185,6 @@
       "onboard_time": 1667537310,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 390802,
-      "num": 375895,
-      "word": "打火机与公主裙 选角",
-      "onboard_time": 1667652326,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 389503,
@@ -3305,6 +3305,14 @@
       "onboard_time": 1667549490,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 370749,
+      "num": 370749,
+      "word": "樊振东球品满分",
+      "onboard_time": 1667653407,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 370017,
@@ -3449,14 +3457,6 @@
       "onboard_time": 1667533165,
       "rank": 26,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 356317,
-      "num": 356317,
-      "word": "樊振东球品满分",
-      "onboard_time": 1667653407,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 356025,
@@ -4483,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269188,
+      "num": 269188,
+      "word": "00后女生榨蔬菜汁将小狗染成绿色",
+      "onboard_time": 1667656108,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269144,
       "num": 269144,
       "word": "黄小蕾女儿杂志首封",
@@ -4507,6 +4515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266207,
+      "num": 266207,
+      "word": "你在上一段感情学到了什么",
+      "onboard_time": 1667654666,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265852,
       "num": 238800,
       "word": "赵丽颖沈璃打戏镜头",
@@ -4529,6 +4545,14 @@
       "onboard_time": 1667636905,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264193,
+      "num": 264193,
+      "word": "男孩反复录作业崩溃大哭又抹泪坚持",
+      "onboard_time": 1667651486,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 264082,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1667460925,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238598,
+      "num": 238598,
+      "word": "一盒薯条养活了全家宠物",
+      "onboard_time": 1667652687,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 237330,
@@ -5187,14 +5219,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 216214,
-      "num": 216214,
-      "word": "男孩反复录作业崩溃大哭又抹泪坚持",
-      "onboard_time": 1667651486,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "国考报名人数超250万",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1667482648,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 215552,
+      "num": 215552,
+      "word": "阿姨吐槽不理解00后消费观",
+      "onboard_time": 1667656406,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214445,
@@ -5355,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206787,
+      "num": 206787,
+      "word": "张云龙你赢的可是李雪琴",
+      "onboard_time": 1667656765,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206545,
       "num": 206545,
       "word": "居然被狗妈妈投诉了",
@@ -5473,14 +5513,6 @@
       "onboard_time": 1667389286,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201027,
-      "num": 191632,
-      "word": "一盒薯条养活了全家宠物",
-      "onboard_time": 1667652687,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 200609,
@@ -5609,6 +5641,14 @@
       "onboard_time": 1667374047,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 196197,
+      "num": 196197,
+      "word": "任嘉伦终于在嗨放派打上了乒乓球",
+      "onboard_time": 1667656108,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195717,
@@ -5979,12 +6019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176534,
+      "num": 176534,
+      "word": "梅西跟腱发炎缺席本轮法甲",
+      "onboard_time": 1667654007,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176156,
       "num": 176156,
       "word": "嗨放派",
       "onboard_time": 1667652806,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175825,
+      "num": 166341,
+      "word": "谭卓获中美电视节最佳女主",
+      "onboard_time": 1667657727,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 175339,
@@ -6209,6 +6265,14 @@
       "onboard_time": 1667613749,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 164667,
+      "num": 164667,
+      "word": "翟潇闻赌上了vocal的尊严",
+      "onboard_time": 1667656648,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 164085,
@@ -6860,7 +6924,7 @@
     },
     {
       "raw_hot": 141216,
-      "num": 91172,
+      "num": 97221,
       "word": "谢谢你医生",
       "onboard_time": 1667566830,
       "rank": 41,
@@ -7027,14 +7091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135071,
-      "num": 135071,
-      "word": "梅西跟腱发炎缺席本轮法甲",
-      "onboard_time": 1667654007,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134838,
       "num": 134838,
       "word": "VLIVE将于12月31日起停止所有服务",
@@ -7081,14 +7137,6 @@
       "onboard_time": 1667225487,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133148,
-      "num": 133148,
-      "word": "你在上一段感情学到了什么",
-      "onboard_time": 1667654666,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 132955,
@@ -7265,6 +7313,14 @@
       "onboard_time": 1667502613,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127295,
+      "num": 127295,
+      "word": "一看就是放假回家的孩子",
+      "onboard_time": 1667655687,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 127248,
@@ -8172,7 +8228,7 @@
     },
     {
       "raw_hot": 94451,
-      "num": 855650,
+      "num": 883699,
       "word": "中国国际进口博览会",
       "onboard_time": 1667269706,
       "rank": 42,
@@ -8355,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90616,
+      "num": 90616,
+      "word": "屁屁上自带爱心的马鹿",
+      "onboard_time": 1667656826,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90126,
       "num": 90126,
       "word": "王源新专辑vlog",
@@ -8465,14 +8529,6 @@
       "onboard_time": 1667289625,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87822,
-      "num": 87822,
-      "word": "一看就是放假回家的孩子",
-      "onboard_time": 1667655687,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 87460,
@@ -9067,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69380,
+      "num": 69380,
+      "word": "樊振东侧身大角度",
+      "onboard_time": 1667657487,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68958,
       "num": 1415259,
       "word": "第五届进口博览会",
@@ -9081,6 +9145,14 @@
       "onboard_time": 1667551528,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68111,
+      "num": 68111,
+      "word": "个人养老金资金账户内资产可继承",
+      "onboard_time": 1667657305,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 68001,
@@ -9113,6 +9185,14 @@
       "onboard_time": 1667556448,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67655,
+      "num": 67655,
+      "word": "鸿蒙无障碍设计有多暖",
+      "onboard_time": 1667657127,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 66872,
