@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667690588381,
+  "endTime": 1667691493369,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 681356,
-      "num": 169578,
+      "num": 170297,
       "word": "孙怡说她第一次网购增高鞋",
       "onboard_time": 1667667021,
       "rank": 10,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 549055,
-      "num": 549055,
+      "raw_hot": 594538,
+      "num": 594538,
       "word": "一年级女孩用手扫描书按进大脑",
       "onboard_time": 1667661929,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265883,
+      "num": 265883,
+      "word": "张婧仪 钝感",
+      "onboard_time": 1667690717,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226081,
       "num": 226081,
       "word": "孙怡金鹰节vlog",
@@ -147,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215572,
+      "num": 215572,
+      "word": "减肥操跳出了一种很新的感觉",
+      "onboard_time": 1667660968,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200618,
+      "num": 167819,
+      "word": "人民网评网课爆破早该被爆破",
+      "onboard_time": 1667670556,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191804,
       "num": 138095,
       "word": "谍战甄嬛传",
@@ -155,12 +179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173826,
-      "num": 173826,
-      "word": "减肥操跳出了一种很新的感觉",
-      "onboard_time": 1667660968,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 159902,
+      "num": 159902,
+      "word": "S12决赛传奇对决",
+      "onboard_time": 1667687232,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 158865,
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138963,
+      "num": 138963,
+      "word": "江苏一教师因学生默不出古诗猛扇其耳光",
+      "onboard_time": 1667651367,
+      "rank": 29,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 133423,
       "num": 133423,
       "word": "范丞丞重新定义剪平头",
@@ -217,14 +249,6 @@
       "onboard_time": 1667644405,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127615,
-      "num": 127615,
-      "word": "人民网评网课爆破早该被爆破",
-      "onboard_time": 1667670556,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 127485,
@@ -259,22 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116351,
-      "num": 116351,
-      "word": "江苏一教师因学生默不出古诗猛扇其耳光",
-      "onboard_time": 1667651367,
-      "rank": 29,
-      "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 111640,
-      "num": 111640,
-      "word": "S12决赛传奇对决",
-      "onboard_time": 1667687232,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111467,
       "num": 111467,
       "word": "石家庄疫情防控",
@@ -289,6 +297,14 @@
       "onboard_time": 1667634868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107664,
+      "num": 107664,
+      "word": "鹤岗线上找房热度上涨近10倍",
+      "onboard_time": 1667683751,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 107355,
@@ -313,14 +329,6 @@
       "onboard_time": 1667645907,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100095,
-      "num": 100095,
-      "word": "鹤岗线上找房热度上涨近10倍",
-      "onboard_time": 1667683751,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 93746,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71450,
+      "num": 71450,
+      "word": "小狗期单恋",
+      "onboard_time": 1667689395,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70035,
       "num": 70035,
       "word": "让你下定决心分手的理由",
@@ -435,20 +451,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46230,
-      "num": 46230,
+      "raw_hot": 47715,
+      "num": 47715,
       "word": "多个平台对网课爆破已有应对措施",
       "onboard_time": 1667673676,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43842,
-      "num": 43842,
-      "word": "小狗期单恋",
-      "onboard_time": 1667689395,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 46305,
+      "num": 46305,
+      "word": "韦筱圆卫冕世锦赛高低杠金牌",
+      "onboard_time": 1667690958,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45169,
+      "num": 45169,
+      "word": "男子将腿伸车底拦亲要红包",
+      "onboard_time": 1667690717,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43961,
+      "num": 43961,
+      "word": "王鹤棣工作室星期六出图",
+      "onboard_time": 1667645546,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36962,
@@ -459,12 +491,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34558,
-      "num": 34558,
-      "word": "王鹤棣工作室星期六出图",
-      "onboard_time": 1667645546,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 35150,
+      "num": 35150,
+      "word": "超5成房东希望专业机构长期管理出租房",
+      "onboard_time": 1667690658,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 33308,
+      "num": 33308,
+      "word": "曼城2比1富勒姆",
+      "onboard_time": 1667691199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32869,
+      "num": 32869,
+      "word": "与凤行",
+      "onboard_time": 1667691320,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 32725,
