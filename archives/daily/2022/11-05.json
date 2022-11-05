@@ -1,7 +1,15 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667648016946,
+  "endTime": 1667651905779,
   "band_list": [
+    {
+      "raw_hot": 3150006,
+      "num": 1681663,
+      "word": "无可奉告",
+      "onboard_time": 1667644766,
+      "rank": 42,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2803500,
       "num": 2803500,
@@ -40,14 +48,6 @@
       "word": "吴某某已停职配合有关事件调查",
       "onboard_time": 1667572771,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2296484,
-      "num": 1681663,
-      "word": "无可奉告",
-      "onboard_time": 1667644766,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709847,
+      "num": 709847,
+      "word": "打火机与公主裙 甜",
+      "onboard_time": 1667649569,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 685552,
       "num": 685552,
       "word": "女佣起诉全球首富贝索斯非人待遇",
@@ -320,6 +328,14 @@
       "word": "警方通报冷水滩餐饮店女子被打事件",
       "onboard_time": 1667609248,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547126,
+      "num": 547126,
+      "word": "港独分子潜伏回港疑策划阴谋被逮捕",
+      "onboard_time": 1667645907,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -451,12 +467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421921,
+      "num": 421921,
+      "word": "开心就好不必正常",
+      "onboard_time": 1667646326,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 395840,
       "num": 266981,
       "word": "Lisa成为iTunes最多一位女歌手",
       "onboard_time": 1667578884,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393920,
+      "num": 387281,
+      "word": "24岁小伙花光积蓄回乡买房入住毛坯",
+      "onboard_time": 1667649327,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391326,
@@ -472,6 +504,14 @@
       "word": "一口气炫完杨幂新剧5集",
       "onboard_time": 1667577868,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382977,
+      "num": 382977,
+      "word": "种田文是真的拍出来了",
+      "onboard_time": 1667644827,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -531,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340029,
-      "num": 340029,
-      "word": "港独分子潜伏回港疑策划阴谋被逮捕",
-      "onboard_time": 1667645907,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339517,
       "num": 130442,
       "word": "汪涵金鹰节发型",
@@ -592,6 +624,14 @@
       "word": "甘肃要求杜绝120打不通无车可派情况",
       "onboard_time": 1667633965,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324491,
+      "num": 324491,
+      "word": "同学父亲送肉酱全班大喊谢谢爸爸",
+      "onboard_time": 1667647707,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -713,14 +753,6 @@
       "onboard_time": 1667614409,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268958,
-      "num": 268958,
-      "word": "种田文是真的拍出来了",
-      "onboard_time": 1667644827,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 265852,
@@ -883,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223316,
+      "num": 223316,
+      "word": "牛熟睡翻白眼被工人2巴掌打醒",
+      "onboard_time": 1667646269,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223044,
       "num": 223044,
       "word": "杨幂新剧开播就被求婚",
@@ -969,6 +1009,14 @@
       "onboard_time": 1667608648,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197969,
+      "num": 197969,
+      "word": "樊振东3比2魏世皓",
+      "onboard_time": 1667650646,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 195701,
@@ -1171,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154002,
+      "num": 154002,
+      "word": "年轻人如何不花钱获得快乐",
+      "onboard_time": 1667647826,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152490,
       "num": 152490,
       "word": "流浪猫蹲办公楼等男子下班投喂",
@@ -1267,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138080,
-      "num": 138080,
-      "word": "开心就好不必正常",
-      "onboard_time": 1667646326,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136911,
       "num": 136911,
       "word": "李峋 爱心代码",
@@ -1315,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131501,
+      "num": 131501,
+      "word": "被主人装进口袋的小狗",
+      "onboard_time": 1667649269,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "2022珠海航展",
@@ -1336,14 +1392,6 @@
       "word": "有一个暖男弟弟是什么体验",
       "onboard_time": 1667622988,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127344,
-      "num": 127344,
-      "word": "牛熟睡翻白眼被工人2巴掌打醒",
-      "onboard_time": 1667646269,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1417,14 @@
       "onboard_time": 1667611770,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124759,
+      "num": 124759,
+      "word": "北京新增本土感染者29例社会面3例",
+      "onboard_time": 1667651665,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124271,
@@ -1459,12 +1515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108167,
-      "num": 108167,
-      "word": "年轻人如何不花钱获得快乐",
-      "onboard_time": 1667647826,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 106475,
+      "num": 106475,
+      "word": "江苏一教师因学生默不出古诗猛扇其耳光",
+      "onboard_time": 1667651367,
+      "rank": 37,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 104374,
@@ -1571,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97375,
+      "num": 97375,
+      "word": "彭冠英新剧冒充高峻接近蔡文静",
+      "onboard_time": 1667645128,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97372,
       "num": 97372,
       "word": "如何避免网课爆破",
@@ -1635,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90059,
+      "num": 90059,
+      "word": "男孩反复录作业崩溃大哭又抹泪坚持",
+      "onboard_time": 1667651486,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 89756,
       "num": 89756,
       "word": "带你一起飞的不一定是朋友",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1667557950,
       "rank": 44,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 88868,
+      "num": 88868,
+      "word": "李峋神级救场",
+      "onboard_time": 1667651607,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 88659,
@@ -1667,6 +1747,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86201,
+      "num": 86201,
+      "word": "朱一龙为武汉湿地打call",
+      "onboard_time": 1667650225,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86013,
+      "num": 86013,
+      "word": "杨幂谢谢你医生四宫格剧照",
+      "onboard_time": 1667651007,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85751,
       "num": 85751,
       "word": "胡兵云走秀",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1667620647,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83896,
+      "num": 83896,
+      "word": "你好星期六",
+      "onboard_time": 1667648547,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 83450,
@@ -1729,14 +1833,6 @@
       "onboard_time": 1667647228,
       "rank": 48,
       "category": "其它"
-    },
-    {
-      "raw_hot": 77093,
-      "num": 77093,
-      "word": "同学父亲送肉酱全班大喊谢谢爸爸",
-      "onboard_time": 1667647707,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76501,
