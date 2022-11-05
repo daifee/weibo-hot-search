@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667637713121,
+  "endTime": 1667640074783,
   "band_list": [
     {
       "raw_hot": 2803500,
@@ -24,6 +24,14 @@
       "word": "国务院联防联控机制发布会",
       "onboard_time": 1667632524,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2509453,
+      "num": 2509453,
+      "word": "郑州被通报随意静默封城代替管控",
+      "onboard_time": 1667636068,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1861596,
+      "num": 1861596,
+      "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
+      "onboard_time": 1667635885,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1692614,
       "num": 1692614,
       "word": "记者卧底网课爆破群",
@@ -75,27 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1314462,
-      "num": 1314462,
-      "word": "郑州被通报随意静默封城代替管控",
-      "onboard_time": 1667636068,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1290369,
-      "num": 1290369,
-      "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
-      "onboard_time": 1667635885,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1277620,
       "num": 1237749,
       "word": "42岁女子离婚后坚持健身年轻20岁",
       "onboard_time": 1667610150,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033042,
+      "num": 1033042,
+      "word": "日本网红下恒河后一小时身体不适",
+      "onboard_time": 1667634868,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898329,
+      "num": 898329,
+      "word": "国家疾控局回应近期是否调整防控政策",
+      "onboard_time": 1667635468,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843466,
       "num": 843466,
       "word": "你好星期六好六街新店开业",
@@ -155,27 +171,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778564,
-      "num": 541861,
-      "word": "日本网红下恒河后一小时身体不适",
-      "onboard_time": 1667634868,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 772764,
       "num": 772764,
       "word": "广州面临三年来最复杂严峻疫情",
       "onboard_time": 1667633487,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 769346,
-      "num": 769346,
-      "word": "国家疾控局回应近期是否调整防控政策",
-      "onboard_time": 1667635468,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522623,
+      "num": 522623,
+      "word": "推特怀孕8个月员工也被裁",
+      "onboard_time": 1667634447,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 511972,
       "num": 511972,
       "word": "拜登回应马斯克买下推特",
@@ -305,14 +313,6 @@
       "onboard_time": 1667621366,
       "rank": 34,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 510301,
-      "num": 492568,
-      "word": "推特怀孕8个月员工也被裁",
-      "onboard_time": 1667634447,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 504901,
@@ -337,6 +337,22 @@
       "onboard_time": 1667613271,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460189,
+      "num": 460189,
+      "word": "陆柯燃官宣签约索尼音乐",
+      "onboard_time": 1667639967,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453829,
+      "num": 160636,
+      "word": "坚持动态清零总方针不动摇",
+      "onboard_time": 1667637446,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451927,
@@ -377,6 +393,14 @@
       "onboard_time": 1667624426,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413528,
+      "num": 413528,
+      "word": "小猫咪暴打救命恩人",
+      "onboard_time": 1667635166,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 395840,
@@ -499,6 +523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 316283,
+      "num": 316283,
+      "word": "羽绒服买大了的好处",
+      "onboard_time": 1667637807,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313766,
       "num": 216885,
       "word": "刘诗雯发布竞选宣言",
@@ -513,14 +545,6 @@
       "onboard_time": 1667631446,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307478,
-      "num": 307478,
-      "word": "小猫咪暴打救命恩人",
-      "onboard_time": 1667635166,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 304290,
@@ -603,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265436,
+      "num": 265436,
+      "word": "詹姆斯谈欧文事件",
+      "onboard_time": 1667636905,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263506,
       "num": 263506,
       "word": "赵丽颖新剧眼神戏",
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245361,
+      "num": 245361,
+      "word": "潘玮柏衣服口袋漏了",
+      "onboard_time": 1667634626,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242957,
       "num": 242957,
       "word": "中科院院士杨叔子逝世",
@@ -713,6 +753,14 @@
       "onboard_time": 1667570791,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224752,
+      "num": 224752,
+      "word": "詹姆斯患上胃病",
+      "onboard_time": 1667638347,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 223044,
@@ -899,6 +947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166712,
+      "num": 166712,
+      "word": "打直球的相亲也太劲爆了吧",
+      "onboard_time": 1667638106,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165477,
+      "num": 165477,
+      "word": "00后女生帮助路人反中万元奖金",
+      "onboard_time": 1667637087,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165073,
       "num": 165073,
       "word": "猫猫有多喜欢躲猫猫",
@@ -944,14 +1008,6 @@
       "word": "起不来和睡不着哪个更痛苦",
       "onboard_time": 1667587093,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 160066,
-      "num": 160066,
-      "word": "潘玮柏衣服口袋漏了",
-      "onboard_time": 1667634626,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1001,6 +1057,14 @@
       "onboard_time": 1667570852,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147662,
+      "num": 147662,
+      "word": "谢谢你医生剧情太上头了",
+      "onboard_time": 1667638707,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 147472,
@@ -1171,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119686,
-      "num": 119686,
-      "word": "詹姆斯谈欧文事件",
-      "onboard_time": 1667636905,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119037,
       "num": 119037,
       "word": "武汉为世界首座人口超千万湿地城市",
@@ -1195,12 +1251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111964,
-      "num": 111964,
-      "word": "00后女生帮助路人反中万元奖金",
-      "onboard_time": 1667637087,
+      "raw_hot": 111061,
+      "num": 111061,
+      "word": "男孩考试从18分进步到60分爸爸摆席庆祝",
+      "onboard_time": 1667639729,
       "rank": 39,
-      "category": "社会新闻"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 108333,
@@ -1251,12 +1307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103544,
-      "num": 103544,
-      "word": "坚持动态清零总方针不动摇",
-      "onboard_time": 1667637446,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 103449,
+      "num": 103449,
+      "word": "英雄志",
+      "onboard_time": 1667639248,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 102723,
@@ -1371,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89756,
+      "num": 89756,
+      "word": "带你一起飞的不一定是朋友",
+      "onboard_time": 1667639847,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88868,
       "num": 88868,
       "word": "今年或将迎来本世纪首个三重拉尼娜",
@@ -1395,12 +1459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85612,
+      "num": 85612,
+      "word": "任贤齐张震岳苏见信开三轮车考驾照",
+      "onboard_time": 1667639484,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84630,
       "num": 84630,
       "word": "世界大赛夺冠打不赢全国锦标赛",
       "onboard_time": 1667620647,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83450,
+      "num": 83450,
+      "word": "高校内黑天鹅排队优雅过马路",
+      "onboard_time": 1667639787,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83359,
@@ -1576,6 +1656,14 @@
       "word": "疫情期间可领取补贴系谣言",
       "onboard_time": 1667563170,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8139,
+      "num": 347642,
+      "word": "原创的就是世界的",
+      "onboard_time": 1667638827,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
