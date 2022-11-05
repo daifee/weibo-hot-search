@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667675853686,
+  "endTime": 1667676815766,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -11787,8 +11787,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18074,
-      "num": 18074,
+      "raw_hot": 18600,
+      "num": 18600,
       "word": "谁是你心目中的冷脸神颜",
       "onboard_time": 1667672235,
       "rank": 47,
@@ -11889,6 +11889,14 @@
       "onboard_time": 1667503931,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9646,
+      "num": 11755,
+      "word": "这就是中华美食的魅力吧",
+      "onboard_time": 1667676193,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 9220,
