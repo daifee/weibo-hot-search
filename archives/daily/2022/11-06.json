@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667684126473,
+  "endTime": 1667686824407,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39831,
+      "num": 39831,
+      "word": "让你下定决心分手的理由",
+      "onboard_time": 1667682671,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36962,
       "num": 52105,
       "word": "一看就是放假回家的孩子",
@@ -435,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28356,
+      "num": 28356,
+      "word": "鹤岗线上找房热度上涨近10倍",
+      "onboard_time": 1667683751,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 20812,
+      "num": 20812,
+      "word": "多个平台对网课爆破已有应对措施",
+      "onboard_time": 1667673676,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18600,
       "num": 18600,
       "word": "谁是你心目中的冷脸神颜",
@@ -443,20 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14714,
-      "num": 15434,
-      "word": "多个平台对网课爆破已有应对措施",
-      "onboard_time": 1667673676,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14020,
-      "num": 14020,
-      "word": "让你下定决心分手的理由",
-      "onboard_time": 1667682671,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 13053,
+      "num": 13053,
+      "word": "中国航展战车方阵即将亮相",
+      "onboard_time": 1667683212,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 12371,
@@ -467,36 +483,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 9646,
-      "num": 11755,
-      "word": "这就是中华美食的魅力吧",
-      "onboard_time": 1667676193,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 9618,
-      "num": 9618,
+      "raw_hot": 10181,
+      "num": 10181,
       "word": "张益唐完成零点猜想论文",
       "onboard_time": 1667676912,
       "rank": 46,
       "category": "教育"
     },
     {
-      "raw_hot": 8774,
-      "num": 8774,
-      "word": "鹤岗线上找房热度上涨近10倍",
-      "onboard_time": 1667683751,
-      "rank": 44,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 8614,
-      "num": 8614,
-      "word": "中国航展战车方阵即将亮相",
-      "onboard_time": 1667683212,
-      "rank": 46,
-      "category": "军事,社会新闻"
+      "raw_hot": 9646,
+      "num": 11755,
+      "word": "这就是中华美食的魅力吧",
+      "onboard_time": 1667676193,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 8136,
