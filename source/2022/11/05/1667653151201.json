@@ -1,0 +1,410 @@
+{
+  "runTime": 1667653151201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115621,
+        "num": 1115621,
+        "word": "郑州被通报随意静默封城代替管控",
+        "onboard_time": 1667636068,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978728,
+        "num": 978728,
+        "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
+        "onboard_time": 1667635885,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67182,
+        "num": 872602,
+        "word": "中国湿地色彩有多美",
+        "onboard_time": 1667631504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 861481,
+        "num": 861481,
+        "word": "打火机与公主裙 甜",
+        "onboard_time": 1667649569,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580097,
+        "num": 580097,
+        "word": "24岁小伙花光积蓄回乡买房入住毛坯",
+        "onboard_time": 1667649327,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420150,
+        "num": 420150,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1667644105,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404831,
+        "num": 404831,
+        "word": "国家疾控局回应近期是否调整防控政策",
+        "onboard_time": 1667635468,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392420,
+        "num": 392420,
+        "word": "韩国女棋手把顶级男棋手直接下崩溃",
+        "onboard_time": 1667644405,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392042,
+        "num": 392042,
+        "word": "港独分子潜伏回港疑策划阴谋被逮捕",
+        "onboard_time": 1667645907,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378289,
+        "num": 378289,
+        "word": "日本网红下恒河后一小时身体不适",
+        "onboard_time": 1667634868,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2930429,
+        "num": 377353,
+        "word": "无可奉告",
+        "onboard_time": 1667644766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986740,
+        "num": 376797,
+        "word": "这张脸帅得很直接",
+        "onboard_time": 1667644466,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402940,
+        "num": 375343,
+        "word": "江苏一教师因学生默不出古诗猛扇其耳光",
+        "onboard_time": 1667651367,
+        "rank": 12,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 379430,
+        "num": 375093,
+        "word": "孙怡金鹰节vlog",
+        "onboard_time": 1667652027,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27573,
+        "num": 373733,
+        "word": "女子跪地10分钟施救晕倒老人",
+        "onboard_time": 1667652266,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373291,
+        "num": 373291,
+        "word": "种田文是真的拍出来了",
+        "onboard_time": 1667644827,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355729,
+        "num": 355729,
+        "word": "王一博周末九宫格剧照",
+        "onboard_time": 1667652207,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311415,
+        "num": 311415,
+        "word": "打火机与公主裙 选角",
+        "onboard_time": 1667652326,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308493,
+        "num": 308493,
+        "word": "同学父亲送肉酱全班大喊谢谢爸爸",
+        "onboard_time": 1667647707,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290301,
+        "num": 290301,
+        "word": "推特怀孕8个月员工也被裁",
+        "onboard_time": 1667634447,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268230,
+        "num": 268230,
+        "word": "开心就好不必正常",
+        "onboard_time": 1667646326,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267181,
+        "num": 267181,
+        "word": "坚持动态清零总方针不动摇",
+        "onboard_time": 1667637446,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245682,
+        "num": 245682,
+        "word": "北京新增本土感染者29例社会面3例",
+        "onboard_time": 1667651665,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229044,
+        "num": 229044,
+        "word": "蔡徐坤摘星大片",
+        "onboard_time": 1667652867,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214445,
+        "num": 214445,
+        "word": "樊振东3比2魏世皓",
+        "onboard_time": 1667650646,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208194,
+        "num": 208194,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204718,
+        "num": 204718,
+        "word": "广州面临三年来最复杂严峻疫情",
+        "onboard_time": 1667633487,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180569,
+        "num": 180569,
+        "word": "牛熟睡翻白眼被工人2巴掌打醒",
+        "onboard_time": 1667646269,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176156,
+        "num": 176156,
+        "word": "嗨放派",
+        "onboard_time": 1667652806,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175882,
+        "num": 175882,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159521,
+        "num": 159521,
+        "word": "年轻人如何不花钱获得快乐",
+        "onboard_time": 1667647826,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154913,
+        "num": 154913,
+        "word": "刘诗诗一念关山婚服造型",
+        "onboard_time": 1667641165,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151630,
+        "num": 151630,
+        "word": "男子请人为孕妇让座被指道德绑架",
+        "onboard_time": 1667632043,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "王鹤棣工作室星期六出图",
+        "onboard_time": 1667645546,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124659,
+        "num": 124659,
+        "word": "陈飞宇叠衣服",
+        "onboard_time": 1667646924,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119224,
+        "num": 119224,
+        "word": "男孩反复录作业崩溃大哭又抹泪坚持",
+        "onboard_time": 1667651486,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119123,
+        "num": 119123,
+        "word": "詹姆斯患上胃病",
+        "onboard_time": 1667638347,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117558,
+        "num": 117558,
+        "word": "男孩考试从18分进步到60分爸爸摆席庆祝",
+        "onboard_time": 1667639729,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 117089,
+        "num": 117089,
+        "word": "被主人装进口袋的小狗",
+        "onboard_time": 1667649269,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116171,
+        "num": 116171,
+        "word": "陈晓苏翊鸣再同框",
+        "onboard_time": 1667644285,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 112745,
+        "num": 112745,
+        "word": "谢谢你医生剧情太上头了",
+        "onboard_time": 1667638707,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104201,
+        "num": 104201,
+        "word": "李峋朱韵小学生打架",
+        "onboard_time": 1667652326,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98317,
+        "num": 98317,
+        "word": "小狗是怎么撒娇的",
+        "onboard_time": 1667645128,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95860,
+        "num": 95860,
+        "word": "羽绒服买大了的好处",
+        "onboard_time": 1667637807,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93369,
+        "num": 93369,
+        "word": "一盒薯条养活了全家宠物",
+        "onboard_time": 1667652687,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92566,
+        "num": 92566,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1667632524,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 89792,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88892,
+        "num": 88892,
+        "word": "打直球的相亲也太劲爆了吧",
+        "onboard_time": 1667638106,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85920,
+        "num": 85920,
+        "word": "小猫咪暴打救命恩人",
+        "onboard_time": 1667635166,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73741,
+        "num": 81195,
+        "word": "中国将建设人与自然和谐共生的现代化",
+        "onboard_time": 1667643806,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会开幕式致辞金句#"
+    }
+  }
+}

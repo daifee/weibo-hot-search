@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667651905779,
+  "endTime": 1667653151201,
   "band_list": [
     {
       "raw_hot": 3150006,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861481,
+      "num": 861481,
+      "word": "打火机与公主裙 甜",
+      "onboard_time": 1667649569,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 857968,
       "num": 857968,
       "word": "男孩考试从18分进步到60分爸爸摆席庆祝",
@@ -227,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 709847,
-      "num": 709847,
-      "word": "打火机与公主裙 甜",
-      "onboard_time": 1667649569,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 685552,
       "num": 685552,
       "word": "女佣起诉全球首富贝索斯非人待遇",
@@ -297,6 +297,14 @@
       "onboard_time": 1667639967,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580097,
+      "num": 580097,
+      "word": "24岁小伙花光积蓄回乡买房入住毛坯",
+      "onboard_time": 1667649327,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577823,
@@ -475,20 +483,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402940,
+      "num": 375343,
+      "word": "江苏一教师因学生默不出古诗猛扇其耳光",
+      "onboard_time": 1667651367,
+      "rank": 37,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 395840,
       "num": 266981,
       "word": "Lisa成为iTunes最多一位女歌手",
       "onboard_time": 1667578884,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393920,
-      "num": 387281,
-      "word": "24岁小伙花光积蓄回乡买房入住毛坯",
-      "onboard_time": 1667649327,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391326,
@@ -523,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379430,
+      "num": 375093,
+      "word": "孙怡金鹰节vlog",
+      "onboard_time": 1667652027,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 375567,
       "num": 375567,
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
@@ -545,6 +561,14 @@
       "onboard_time": 1667627487,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355729,
+      "num": 355729,
+      "word": "王一博周末九宫格剧照",
+      "onboard_time": 1667652207,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 355009,
@@ -673,6 +697,14 @@
       "onboard_time": 1667631446,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311415,
+      "num": 311415,
+      "word": "打火机与公主裙 选角",
+      "onboard_time": 1667652326,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 304290,
@@ -835,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245682,
+      "num": 245682,
+      "word": "北京新增本土感染者29例社会面3例",
+      "onboard_time": 1667651665,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245361,
       "num": 245361,
       "word": "潘玮柏衣服口袋漏了",
@@ -891,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229044,
+      "num": 229044,
+      "word": "蔡徐坤摘星大片",
+      "onboard_time": 1667652867,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225790,
       "num": 225790,
       "word": "国务院联防联控机制今日召开发布会",
@@ -945,6 +993,14 @@
       "onboard_time": 1667631145,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214445,
+      "num": 214445,
+      "word": "樊振东3比2魏世皓",
+      "onboard_time": 1667650646,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 211006,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1667608648,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197969,
-      "num": 197969,
-      "word": "樊振东3比2魏世皓",
-      "onboard_time": 1667650646,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 195701,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1667626408,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176156,
+      "num": 176156,
+      "word": "嗨放派",
+      "onboard_time": 1667652806,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 174324,
@@ -1203,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159521,
+      "num": 159521,
+      "word": "年轻人如何不花钱获得快乐",
+      "onboard_time": 1667647826,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158725,
       "num": 158725,
       "word": "与凤行宿命感",
@@ -1217,14 +1281,6 @@
       "onboard_time": 1667577689,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154002,
-      "num": 154002,
-      "word": "年轻人如何不花钱获得快乐",
-      "onboard_time": 1667647826,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 152490,
@@ -1419,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124759,
-      "num": 124759,
-      "word": "北京新增本土感染者29例社会面3例",
-      "onboard_time": 1667651665,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124271,
       "num": 124271,
       "word": "成年人的释怀是一种什么感觉",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1667603660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119224,
+      "num": 119224,
+      "word": "男孩反复录作业崩溃大哭又抹泪坚持",
+      "onboard_time": 1667651486,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 119037,
@@ -1515,20 +1571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106475,
-      "num": 106475,
-      "word": "江苏一教师因学生默不出古诗猛扇其耳光",
-      "onboard_time": 1667651367,
-      "rank": 37,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 104374,
       "num": 104374,
       "word": "现在小孩都玩这么狠吗",
       "onboard_time": 1667572951,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104201,
+      "num": 104201,
+      "word": "李峋朱韵小学生打架",
+      "onboard_time": 1667652326,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 104060,
@@ -1667,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93369,
+      "num": 93369,
+      "word": "一盒薯条养活了全家宠物",
+      "onboard_time": 1667652687,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93029,
       "num": 93029,
       "word": "pgc",
@@ -1697,14 +1761,6 @@
       "onboard_time": 1667625507,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90059,
-      "num": 90059,
-      "word": "男孩反复录作业崩溃大哭又抹泪坚持",
-      "onboard_time": 1667651486,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 89756,
@@ -1968,6 +2024,14 @@
       "word": "双11推出3D多人实时互动玩法",
       "onboard_time": 1667631625,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27573,
+      "num": 373733,
+      "word": "女子跪地10分钟施救晕倒老人",
+      "onboard_time": 1667652266,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
