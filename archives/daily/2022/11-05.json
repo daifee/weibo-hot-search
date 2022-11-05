@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667658941130,
+  "endTime": 1667661691895,
   "band_list": [
     {
       "raw_hot": 3150006,
@@ -83,11 +83,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1529603,
-      "num": 1529603,
+      "raw_hot": 1584035,
+      "num": 1584035,
       "word": "国家疾控局回应近期是否调整防控政策",
       "onboard_time": 1667635468,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1463908,
+      "num": 1463908,
+      "word": "乌鲁木齐辟谣再封三个月",
+      "onboard_time": 1667658267,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -161,6 +169,30 @@
       "onboard_time": 1667582660,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927035,
+      "num": 927035,
+      "word": "阿姨吐槽不理解00后消费观",
+      "onboard_time": 1667656406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919439,
+      "num": 394204,
+      "word": "赵丽颖林更新 二哈追博美",
+      "onboard_time": 1667659406,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 880547,
+      "num": 880547,
+      "word": "周启豪",
+      "onboard_time": 1667660068,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 861481,
@@ -427,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469942,
+      "num": 469942,
+      "word": "个人养老金资金账户内资产可继承",
+      "onboard_time": 1667657305,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 467434,
       "num": 467434,
       "word": "复仇者联盟4首播收视第一",
       "onboard_time": 1667613271,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466321,
-      "num": 466321,
-      "word": "阿姨吐槽不理解00后消费观",
-      "onboard_time": 1667656406,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453829,
@@ -515,20 +547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420512,
+      "num": 420512,
+      "word": "打火机与公主裙 选角",
+      "onboard_time": 1667652326,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404895,
       "num": 404895,
       "word": "苏有朋披荆斩棘文案首尾呼应",
       "onboard_time": 1667654486,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398525,
-      "num": 398525,
-      "word": "打火机与公主裙 选角",
-      "onboard_time": 1667652326,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 395840,
@@ -577,6 +609,14 @@
       "onboard_time": 1667569710,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371273,
+      "num": 371273,
+      "word": "张云龙你赢的可是李雪琴",
+      "onboard_time": 1667656765,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 370749,
@@ -635,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340513,
+      "num": 340513,
+      "word": "谍战甄嬛传",
+      "onboard_time": 1667658929,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339517,
       "num": 130442,
       "word": "汪涵金鹰节发型",
       "onboard_time": 1667567250,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336474,
-      "num": 322043,
-      "word": "张云龙你赢的可是李雪琴",
-      "onboard_time": 1667656765,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 335744,
@@ -825,14 +865,6 @@
       "onboard_time": 1667622639,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270881,
-      "num": 87631,
-      "word": "谍战甄嬛传",
-      "onboard_time": 1667658929,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 269794,
@@ -1051,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222518,
-      "num": 222518,
-      "word": "乌鲁木齐辟谣再封三个月",
-      "onboard_time": 1667658267,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219076,
       "num": 219076,
       "word": "高校绝美女外教酷似电影女主走红",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1667631145,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216369,
+      "num": 173888,
+      "word": "范丞丞重新定义剪平头",
+      "onboard_time": 1667660489,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 214445,
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173768,
-      "num": 173768,
-      "word": "个人养老金资金账户内资产可继承",
-      "onboard_time": 1667657305,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 172937,
       "num": 336765,
       "word": "10岁男孩摇1米药匾帮父母制药丸",
@@ -1411,6 +1435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156650,
+      "num": 156650,
+      "word": "见证S12最后一舞",
+      "onboard_time": 1667659049,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 155236,
+      "num": 138492,
+      "word": "女生收到男友礼物打开全是拉菲草",
+      "onboard_time": 1667661091,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152490,
       "num": 152490,
       "word": "流浪猫蹲办公楼等男子下班投喂",
@@ -1515,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136081,
+      "num": 136081,
+      "word": "广东男团晋级全锦赛决赛",
+      "onboard_time": 1667661568,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "当猫咪穿上羽绒服后",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1667622988,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127507,
+      "num": 127507,
+      "word": "小狗也会孤独吗",
+      "onboard_time": 1667658086,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 127248,
@@ -1835,6 +1891,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99069,
+      "num": 99069,
+      "word": "保护湿地中国一直在行动",
+      "onboard_time": 1667661449,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98741,
+      "num": 98741,
+      "word": "多关心下室友的精神状态吧",
+      "onboard_time": 1667660489,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98229,
       "num": 98229,
       "word": "一个视频感受故宫之秋",
@@ -1883,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "减肥操跳出了一种很新的感觉",
+      "onboard_time": 1667660968,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94068,
       "num": 94068,
       "word": "MRC第一轮循环全胜",
@@ -1915,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92090,
+      "num": 92090,
+      "word": "林高远2比3薛飞",
+      "onboard_time": 1667660670,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91992,
       "num": 91992,
       "word": "威少连续三分",
@@ -1931,20 +2019,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90508,
+      "num": 90508,
+      "word": "林高远3比0马特",
+      "onboard_time": 1667660547,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89756,
       "num": 89756,
       "word": "带你一起飞的不一定是朋友",
       "onboard_time": 1667639847,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88930,
-      "num": 88930,
-      "word": "小狗也会孤独吗",
-      "onboard_time": 1667658086,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 88868,
@@ -2220,7 +2308,7 @@
     },
     {
       "raw_hot": 36745,
-      "num": 883699,
+      "num": 1029035,
       "word": "中国国际进口博览会",
       "onboard_time": 1667627065,
       "rank": 2,
@@ -2330,6 +2418,9 @@
     },
     {
       "word": "#推进湿地保护事业高质量发展#"
+    },
+    {
+      "word": "#人与自然和谐共生的湿地答案#"
     }
   ]
 }
