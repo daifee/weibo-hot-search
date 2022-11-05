@@ -1,0 +1,410 @@
+{
+  "runTime": 1667633723625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2680014,
+        "num": 2680014,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1667632524,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2607271,
+        "num": 2607271,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128740,
+        "num": 1546438,
+        "word": "中国湿地色彩有多美",
+        "onboard_time": 1667631504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 744929,
+        "num": 744929,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434880,
+        "num": 434880,
+        "word": "记者卧底网课爆破群",
+        "onboard_time": 1667612070,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 891131,
+        "num": 428833,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 414194,
+        "num": 414194,
+        "word": "拜登回应马斯克买下推特",
+        "onboard_time": 1667627907,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 391326,
+        "num": 391326,
+        "word": "陈飞宇张婧仪晋里晋气",
+        "onboard_time": 1667631203,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746052,
+        "num": 386229,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376844,
+        "num": 376844,
+        "word": "刺猬被人用绳绑死结勒脖烂肉",
+        "onboard_time": 1667623829,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318626,
+        "num": 318626,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1667628745,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318619,
+        "num": 318619,
+        "word": "杨幂新剧的演技",
+        "onboard_time": 1667624426,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304290,
+        "num": 304290,
+        "word": "大学男生连破5000米10000米纪录",
+        "onboard_time": 1667630288,
+        "rank": 12,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 290507,
+        "num": 290507,
+        "word": "42岁女子离婚后坚持健身年轻20岁",
+        "onboard_time": 1667610150,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2035,
+        "num": 284465,
+        "word": "MateXs2北斗卫星消息众测开启",
+        "onboard_time": 1667631625,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283866,
+        "num": 283866,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279952,
+        "num": 279952,
+        "word": "男子请人为孕妇让座被指道德绑架",
+        "onboard_time": 1667632043,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273908,
+        "num": 273908,
+        "word": "现在的年轻人为什么爱喝汤",
+        "onboard_time": 1667628206,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271831,
+        "num": 271831,
+        "word": "男子起诉前女友返还95万开销",
+        "onboard_time": 1667631446,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233258,
+        "num": 233258,
+        "word": "举报者谈张庭涉传销案听证会",
+        "onboard_time": 1667621366,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 224874,
+        "num": 224874,
+        "word": "特斯拉市值缩水2.9万亿",
+        "onboard_time": 1667626166,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195912,
+        "num": 195912,
+        "word": "当一个女人决定退鞋",
+        "onboard_time": 1667609849,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183835,
+        "num": 183835,
+        "word": "姑姑陪侄子看病自己晕针睡病床",
+        "onboard_time": 1667631145,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168035,
+        "num": 168035,
+        "word": "警方通报救护车坐地起价",
+        "onboard_time": 1667624367,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167297,
+        "num": 167297,
+        "word": "田耕纪官宣",
+        "onboard_time": 1667627487,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 161804,
+        "word": "25岁小伙长期挖鼻孔形成血管瘤",
+        "onboard_time": 1667606785,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 154749,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "黄晓明离谱式劝架",
+        "onboard_time": 1667630124,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145406,
+        "num": 145406,
+        "word": "刘波er",
+        "onboard_time": 1667612308,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143582,
+        "num": 143582,
+        "word": "中国空间站上的玻璃能有多薄",
+        "onboard_time": 1667628447,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "马斯克现在每天工作17小时",
+        "onboard_time": 1667621307,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 123892,
+        "num": 123892,
+        "word": "北京餐饮行业从业人员一天一检",
+        "onboard_time": 1667625208,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119616,
+        "num": 119616,
+        "word": "呼和浩特兴光A9疫情防控",
+        "onboard_time": 1667604321,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "地铁男子辱骂拳打女子被大哥制止",
+        "onboard_time": 1667620407,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107778,
+        "num": 107778,
+        "word": "复仇者联盟4首播收视第一",
+        "onboard_time": 1667613271,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106881,
+        "num": 106881,
+        "word": "1岁多宝宝内心戏堪比影帝",
+        "onboard_time": 1667626408,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105471,
+        "num": 105471,
+        "word": "酒店工作人员把沙发烫坏处缝成银杏",
+        "onboard_time": 1667613449,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105002,
+        "num": 105002,
+        "word": "95后男孩苦练上万次飞针采血",
+        "onboard_time": 1667618908,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102711,
+        "num": 102711,
+        "word": "10岁男孩摇1米药匾帮父母制药丸",
+        "onboard_time": 1667623046,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29547,
+        "num": 102694,
+        "word": "双11推出3D多人实时互动玩法",
+        "onboard_time": 1667631625,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102689,
+        "num": 102689,
+        "word": "网课入侵群成员00后居多",
+        "onboard_time": 1667632166,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 98401,
+        "num": 98401,
+        "word": "男子因楼上女子剁鸡找上门对骂",
+        "onboard_time": 1667612248,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91633,
+        "num": 91633,
+        "word": "你好星期六好六街新店开业",
+        "onboard_time": 1667619928,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90871,
+        "num": 90871,
+        "word": "赵丽颖新剧眼神戏",
+        "onboard_time": 1667620705,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77749,
+        "num": 77749,
+        "word": "广州面临三年来最复杂严峻疫情",
+        "onboard_time": 1667633487,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76007,
+        "num": 76007,
+        "word": "鹿晗新歌预告",
+        "onboard_time": 1667625268,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70969,
+        "num": 70969,
+        "word": "曾舜晞田曦薇田耕纪种田花絮",
+        "onboard_time": 1667632286,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70002,
+        "num": 70002,
+        "word": "Mike没成团",
+        "onboard_time": 1667622639,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62813,
+        "num": 62813,
+        "word": "蔡文静彭冠英床戏花絮",
+        "onboard_time": 1667616987,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61397,
+        "num": 61397,
+        "word": "清晨的南京燕雀湖有多美",
+        "onboard_time": 1667633367,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届进博会开幕式#"
+    }
+  }
+}
