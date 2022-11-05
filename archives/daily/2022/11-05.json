@@ -1,7 +1,15 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667630622902,
+  "endTime": 1667632786008,
   "band_list": [
+    {
+      "raw_hot": 2803500,
+      "num": 2803500,
+      "word": "羽生结弦",
+      "onboard_time": 1667626226,
+      "rank": 34,
+      "category": "体育"
+    },
     {
       "raw_hot": 2702343,
       "num": 699711,
@@ -33,14 +41,6 @@
       "onboard_time": 1667578766,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1828059,
-      "num": 1828059,
-      "word": "羽生结弦",
-      "onboard_time": 1667626226,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1692614,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663126,
+      "num": 663126,
+      "word": "陈小春听到李承铉感谢戚薇的表情",
+      "onboard_time": 1667629105,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641154,
       "num": 641154,
       "word": "耐克暂停与欧文合作",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511972,
+      "num": 511972,
+      "word": "拜登回应马斯克买下推特",
+      "onboard_time": 1667627907,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 511511,
       "num": 511511,
       "word": "举报者谈张庭涉传销案听证会",
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483829,
-      "num": 483829,
-      "word": "拜登回应马斯克买下推特",
-      "onboard_time": 1667627907,
-      "rank": 10,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 479716,
       "num": 479716,
       "word": "多家茶饮品牌联合抵制外卖满减",
@@ -249,6 +257,14 @@
       "onboard_time": 1667613271,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466861,
+      "num": 466861,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1667632524,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451927,
@@ -273,14 +289,6 @@
       "onboard_time": 1667620407,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432070,
-      "num": 399599,
-      "word": "陈小春听到李承铉感谢戚薇的表情",
-      "onboard_time": 1667629105,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 424081,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321841,
+      "num": 321841,
+      "word": "现在的年轻人为什么爱喝汤",
+      "onboard_time": 1667628206,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 313766,
       "num": 216885,
       "word": "刘诗雯发布竞选宣言",
@@ -409,6 +425,14 @@
       "onboard_time": 1667603962,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289771,
+      "num": 289771,
+      "word": "陈飞宇张婧仪晋里晋气",
+      "onboard_time": 1667631203,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 280769,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261762,
+      "num": 261762,
+      "word": "特斯拉市值缩水2.9万亿",
+      "onboard_time": 1667626166,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 261331,
       "num": 261331,
       "word": "湖人无意为欧文提供长约",
@@ -497,6 +529,14 @@
       "onboard_time": 1667620588,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247711,
+      "num": 247711,
+      "word": "大学男生连破5000米10000米纪录",
+      "onboard_time": 1667630288,
+      "rank": 48,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 245691,
@@ -627,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197659,
-      "num": 197659,
-      "word": "现在的年轻人为什么爱喝汤",
-      "onboard_time": 1667628206,
-      "rank": 29,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 195701,
       "num": 195701,
       "word": "西班牙美女活火山送快递",
@@ -723,6 +755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 171232,
+      "num": 171232,
+      "word": "男子起诉前女友返还95万开销",
+      "onboard_time": 1667631446,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169775,
       "num": 169775,
       "word": "重庆一小区宠物接连死亡",
@@ -745,6 +785,14 @@
       "onboard_time": 1667613749,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 164085,
+      "num": 164085,
+      "word": "黄晓明离谱式劝架",
+      "onboard_time": 1667630124,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 161773,
@@ -819,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147472,
+      "num": 147472,
+      "word": "呼和浩特兴光A9疫情防控",
+      "onboard_time": 1667604321,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147384,
       "num": 104416,
       "word": "赵丽颖发视频告别与凤行沈璃",
@@ -841,6 +897,14 @@
       "onboard_time": 1667591952,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144409,
+      "num": 144409,
+      "word": "中国空间站上的玻璃能有多薄",
+      "onboard_time": 1667628447,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 142962,
@@ -867,14 +931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 133844,
-      "num": 133844,
-      "word": "黄晓明离谱式劝架",
-      "onboard_time": 1667630124,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132789,
       "num": 132789,
       "word": "女子当当网买到半印刷半手抄书",
@@ -883,11 +939,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "曾舜晞田曦薇田耕纪种田花絮",
+      "onboard_time": 1667632286,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128453,
       "num": 128453,
       "word": "有一个暖男弟弟是什么体验",
       "onboard_time": 1667622988,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127845,
+      "num": 127845,
+      "word": "男子请人为孕妇让座被指道德绑架",
+      "onboard_time": 1667632043,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -955,19 +1027,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119294,
-      "num": 119294,
-      "word": "呼和浩特兴光A9疫情防控",
-      "onboard_time": 1667604321,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119037,
       "num": 119037,
       "word": "武汉为世界首座人口超千万湿地城市",
       "onboard_time": 1667562448,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117256,
+      "num": 117256,
+      "word": "姑姑陪侄子看病自己晕针睡病床",
+      "onboard_time": 1667631145,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -977,14 +1049,6 @@
       "onboard_time": 1667626347,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109607,
-      "num": 109607,
-      "word": "特斯拉市值缩水2.9万亿",
-      "onboard_time": 1667626166,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 108333,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1667569230,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104840,
+      "num": 572443,
+      "word": "中国湿地色彩有多美",
+      "onboard_time": 1667631504,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 104374,
@@ -1083,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97372,
+      "num": 97372,
+      "word": "如何避免网课爆破",
+      "onboard_time": 1667632407,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 97349,
       "num": 97349,
       "word": "仿佛看到我的精神状态",
@@ -1097,6 +1177,14 @@
       "onboard_time": 1667613507,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94600,
+      "num": 94600,
+      "word": "网课入侵群成员00后居多",
+      "onboard_time": 1667632166,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 93029,
@@ -1139,12 +1227,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 87860,
-      "num": 87860,
-      "word": "中国空间站上的玻璃能有多薄",
-      "onboard_time": 1667628447,
-      "rank": 49,
-      "category": "科技,社会新闻"
+      "raw_hot": 86516,
+      "num": 86516,
+      "word": "S12决赛观赛宣传片",
+      "onboard_time": 1667632707,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 84630,
@@ -1169,14 +1257,6 @@
       "onboard_time": 1667626286,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76975,
-      "num": 76975,
-      "word": "大学男生连破5000米10000米纪录",
-      "onboard_time": 1667630288,
-      "rank": 48,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 76501,
@@ -1291,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22026,
+      "num": 116230,
+      "word": "双11推出3D多人实时互动玩法",
+      "onboard_time": 1667631625,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14208,
       "num": 14208,
       "word": "武磊6场7球",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1667563170,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4393,
+      "num": 295473,
+      "word": "MateXs2北斗卫星消息众测开启",
+      "onboard_time": 1667631625,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1324,6 +1420,9 @@
     },
     {
       "word": "#第五届进博会开幕式#"
+    },
+    {
+      "word": "#进博会开幕式致辞金句#"
     }
   ]
 }
