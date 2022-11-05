@@ -1,0 +1,410 @@
+{
+  "runTime": 1667637713121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804581,
+        "num": 1804581,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1667632524,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544076,
+        "num": 1544076,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110655,
+        "num": 1387599,
+        "word": "中国湿地色彩有多美",
+        "onboard_time": 1667631504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1314462,
+        "num": 1314462,
+        "word": "郑州被通报随意静默封城代替管控",
+        "onboard_time": 1667636068,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290369,
+        "num": 1290369,
+        "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
+        "onboard_time": 1667635885,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192891,
+        "num": 1192891,
+        "word": "疾控局通报群众反映较多的问题",
+        "onboard_time": 1667634087,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893978,
+        "num": 893978,
+        "word": "男子请人为孕妇让座被指道德绑架",
+        "onboard_time": 1667632043,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772764,
+        "num": 772764,
+        "word": "广州面临三年来最复杂严峻疫情",
+        "onboard_time": 1667633487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769346,
+        "num": 769346,
+        "word": "国家疾控局回应近期是否调整防控政策",
+        "onboard_time": 1667635468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549605,
+        "num": 549605,
+        "word": "刘雨昕首次体重破百",
+        "onboard_time": 1667634327,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778564,
+        "num": 541861,
+        "word": "日本网红下恒河后一小时身体不适",
+        "onboard_time": 1667634868,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492568,
+        "num": 492568,
+        "word": "推特怀孕8个月员工也被裁",
+        "onboard_time": 1667634447,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 383113,
+        "num": 383113,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 358735,
+        "num": 358735,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332157,
+        "num": 332157,
+        "word": "西部世界被取消",
+        "onboard_time": 1667635047,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307478,
+        "num": 307478,
+        "word": "小猫咪暴打救命恩人",
+        "onboard_time": 1667635166,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293979,
+        "num": 293979,
+        "word": "陈飞宇张婧仪晋里晋气",
+        "onboard_time": 1667631203,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284642,
+        "num": 284642,
+        "word": "甘肃要求杜绝120打不通无车可派情况",
+        "onboard_time": 1667633965,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264286,
+        "num": 264286,
+        "word": "网课入侵群成员00后居多",
+        "onboard_time": 1667632166,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 263126,
+        "num": 263126,
+        "word": "男子起诉前女友返还95万开销",
+        "onboard_time": 1667631446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257722,
+        "num": 257722,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214802,
+        "num": 214802,
+        "word": "杨幂新剧的演技",
+        "onboard_time": 1667624426,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185205,
+        "num": 185205,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1667628745,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181897,
+        "num": 181897,
+        "word": "提高科学精准防控水平防止一刀切",
+        "onboard_time": 1667634327,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181440,
+        "num": 181440,
+        "word": "大学男生连破5000米10000米纪录",
+        "onboard_time": 1667630288,
+        "rank": 24,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 177655,
+        "num": 177655,
+        "word": "姑姑陪侄子看病自己晕针睡病床",
+        "onboard_time": 1667631145,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162151,
+        "num": 162151,
+        "word": "点燃我温暖你太上头了",
+        "onboard_time": 1667634806,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160066,
+        "num": 160066,
+        "word": "潘玮柏衣服口袋漏了",
+        "onboard_time": 1667634626,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 147903,
+        "word": "拜登回应马斯克买下推特",
+        "onboard_time": 1667627907,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 147824,
+        "num": 147824,
+        "word": "举报者谈张庭涉传销案听证会",
+        "onboard_time": 1667621366,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 147740,
+        "num": 147740,
+        "word": "记者卧底网课爆破群",
+        "onboard_time": 1667612070,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145459,
+        "num": 145459,
+        "word": "吴卓羲回应未成团",
+        "onboard_time": 1667634685,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143045,
+        "num": 143045,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142006,
+        "num": 142006,
+        "word": "42岁女子离婚后坚持健身年轻20岁",
+        "onboard_time": 1667610150,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141200,
+        "num": 141200,
+        "word": "现在的年轻人为什么爱喝汤",
+        "onboard_time": 1667628206,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 126450,
+        "num": 126450,
+        "word": "刺猬被人用绳绑死结勒脖烂肉",
+        "onboard_time": 1667623829,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125139,
+        "num": 125139,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119686,
+        "num": 119686,
+        "word": "詹姆斯谈欧文事件",
+        "onboard_time": 1667636905,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115412,
+        "num": 115412,
+        "word": "特斯拉市值缩水2.9万亿",
+        "onboard_time": 1667626166,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111964,
+        "num": 111964,
+        "word": "00后女生帮助路人反中万元奖金",
+        "onboard_time": 1667637087,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106850,
+        "num": 106850,
+        "word": "刘波er",
+        "onboard_time": 1667612308,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 106342,
+        "word": "什么都可以凑合但吃饭不行",
+        "onboard_time": 1667635406,
+        "rank": 41,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 103544,
+        "num": 103544,
+        "word": "坚持动态清零总方针不动摇",
+        "onboard_time": 1667637446,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102006,
+        "num": 102006,
+        "word": "当一个女人决定退鞋",
+        "onboard_time": 1667609849,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89487,
+        "num": 89487,
+        "word": "25岁小伙长期挖鼻孔形成血管瘤",
+        "onboard_time": 1667606785,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80533,
+        "num": 80533,
+        "word": "知道如何为人处世的狗狗",
+        "onboard_time": 1667636305,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 74926,
+        "num": 74926,
+        "word": "警方通报救护车坐地起价",
+        "onboard_time": 1667624367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 74888,
+        "word": "曾舜晞田曦薇田耕纪种田花絮",
+        "onboard_time": 1667632286,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73015,
+        "num": 73015,
+        "word": "南京金色日出遇上绝美朝霞",
+        "onboard_time": 1667637626,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 72801,
+        "num": 72801,
+        "word": "黄晓明离谱式劝架",
+        "onboard_time": 1667630124,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会开幕式致辞金句#"
+    }
+  }
+}
