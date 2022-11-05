@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667686824407,
+  "endTime": 1667687854099,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -411,12 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39831,
-      "num": 39831,
+      "raw_hot": 52437,
+      "num": 52437,
       "word": "让你下定决心分手的理由",
       "onboard_time": 1667682671,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48089,
+      "num": 48089,
+      "word": "鹤岗线上找房热度上涨近10倍",
+      "onboard_time": 1667683751,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 36962,
@@ -443,16 +451,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28356,
-      "num": 28356,
-      "word": "鹤岗线上找房热度上涨近10倍",
-      "onboard_time": 1667683751,
-      "rank": 44,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 20812,
-      "num": 20812,
+      "raw_hot": 26485,
+      "num": 26485,
       "word": "多个平台对网课爆破已有应对措施",
       "onboard_time": 1667673676,
       "rank": 49,
@@ -465,6 +465,14 @@
       "onboard_time": 1667672235,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18200,
+      "num": 18200,
+      "word": "S12决赛传奇对决",
+      "onboard_time": 1667687232,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 13053,
