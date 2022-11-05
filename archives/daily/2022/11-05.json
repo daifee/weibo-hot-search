@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667626573489,
+  "endTime": 1667629649738,
   "band_list": [
     {
       "raw_hot": 2702343,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1882132,
-      "num": 314217,
+      "num": 365884,
       "word": "呼和浩特疫情防控",
       "onboard_time": 1667578766,
       "rank": 12,
@@ -41,6 +41,14 @@
       "onboard_time": 1667612070,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1593263,
+      "num": 1593263,
+      "word": "羽生结弦",
+      "onboard_time": 1667626226,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1351742,
@@ -105,6 +113,14 @@
       "onboard_time": 1667576551,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 746216,
+      "num": 473092,
+      "word": "刺猬被人用绳绑死结勒脖烂肉",
+      "onboard_time": 1667623829,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685552,
@@ -203,6 +219,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 504901,
+      "num": 504901,
+      "word": "警方通报救护车坐地起价",
+      "onboard_time": 1667624367,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479716,
       "num": 479716,
       "word": "多家茶饮品牌联合抵制外卖满减",
@@ -243,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426380,
+      "num": 366607,
+      "word": "拜登回应马斯克买下推特",
+      "onboard_time": 1667627907,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 423866,
+      "num": 423866,
+      "word": "杨幂新剧的演技",
+      "onboard_time": 1667624426,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395840,
       "num": 266981,
       "word": "Lisa成为iTunes最多一位女歌手",
@@ -267,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380372,
-      "num": 359166,
-      "word": "刺猬被人用绳绑死结勒脖烂肉",
-      "onboard_time": 1667623829,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375567,
       "num": 375567,
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
@@ -289,6 +321,14 @@
       "onboard_time": 1667612669,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367483,
+      "num": 367483,
+      "word": "田耕纪官宣",
+      "onboard_time": 1667627487,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 339517,
@@ -387,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271036,
+      "num": 143531,
+      "word": "陈小春听到李承铉感谢戚薇的表情",
+      "onboard_time": 1667629105,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269144,
       "num": 269144,
       "word": "黄小蕾女儿杂志首封",
@@ -424,14 +472,6 @@
       "word": "国务院联防联控机制明日召开发布会",
       "onboard_time": 1667567551,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251001,
-      "num": 251001,
-      "word": "警方通报救护车坐地起价",
-      "onboard_time": 1667624367,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -483,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229058,
+      "num": 229058,
+      "word": "北京餐饮行业从业人员一天一检",
+      "onboard_time": 1667625208,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225790,
       "num": 225790,
       "word": "国务院联防联控机制今日召开发布会",
@@ -513,6 +561,14 @@
       "onboard_time": 1667599573,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221200,
+      "num": 221200,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1667628745,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 219076,
@@ -667,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167628,
-      "num": 167628,
-      "word": "杨幂新剧的演技",
-      "onboard_time": 1667624426,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 165109,
+      "num": 165109,
+      "word": "1岁多宝宝内心戏堪比影帝",
+      "onboard_time": 1667626408,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165073,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144174,
+      "num": 144174,
+      "word": "现在的年轻人为什么爱喝汤",
+      "onboard_time": 1667628206,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 142962,
       "num": 142962,
       "word": "鹿晗新歌预告",
@@ -792,22 +856,6 @@
       "word": "篮网42分大胜奇才",
       "onboard_time": 1667613629,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140021,
-      "num": 140021,
-      "word": "北京餐饮行业从业人员一天一检",
-      "onboard_time": 1667625208,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138965,
-      "num": 138965,
-      "word": "羽生结弦",
-      "onboard_time": 1667626226,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1019,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93501,
-      "num": 93501,
-      "word": "1岁多宝宝内心戏堪比影帝",
-      "onboard_time": 1667626408,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93029,
       "num": 93029,
       "word": "pgc",
@@ -1137,6 +1177,22 @@
       "onboard_time": 1667578884,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 65566,
+      "num": 65566,
+      "word": "特斯拉市值缩水2.9万亿",
+      "onboard_time": 1667626166,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 64231,
+      "num": 64231,
+      "word": "中国空间站上的玻璃能有多薄",
+      "onboard_time": 1667628447,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 48254,

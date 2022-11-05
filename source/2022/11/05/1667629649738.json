@@ -1,0 +1,410 @@
+{
+  "runTime": 1667629649738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1593263,
+        "num": 1593263,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 678585,
+        "num": 678585,
+        "word": "记者卧底网课爆破群",
+        "onboard_time": 1667612070,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 504901,
+        "num": 504901,
+        "word": "警方通报救护车坐地起价",
+        "onboard_time": 1667624367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746216,
+        "num": 473092,
+        "word": "刺猬被人用绳绑死结勒脖烂肉",
+        "onboard_time": 1667623829,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517203,
+        "num": 471717,
+        "word": "42岁女子离婚后坚持健身年轻20岁",
+        "onboard_time": 1667610150,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345763,
+        "num": 460074,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 427769,
+        "num": 427769,
+        "word": "举报者谈张庭涉传销案听证会",
+        "onboard_time": 1667621366,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 423866,
+        "num": 423866,
+        "word": "杨幂新剧的演技",
+        "onboard_time": 1667624426,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1045898,
+        "num": 421144,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367483,
+        "num": 367483,
+        "word": "田耕纪官宣",
+        "onboard_time": 1667627487,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426380,
+        "num": 366607,
+        "word": "拜登回应马斯克买下推特",
+        "onboard_time": 1667627907,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 435604,
+        "num": 365884,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8149,
+        "num": 364062,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 362501,
+        "num": 362501,
+        "word": "马斯克现在每天工作17小时",
+        "onboard_time": 1667621307,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 318435,
+        "num": 318435,
+        "word": "当一个女人决定退鞋",
+        "onboard_time": 1667609849,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292130,
+        "num": 292130,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250272,
+        "num": 250272,
+        "word": "25岁小伙长期挖鼻孔形成血管瘤",
+        "onboard_time": 1667606785,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235867,
+        "num": 235867,
+        "word": "王楚钦2比3魏世皓",
+        "onboard_time": 1667622148,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229058,
+        "num": 229058,
+        "word": "北京餐饮行业从业人员一天一检",
+        "onboard_time": 1667625208,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224687,
+        "num": 224687,
+        "word": "刘波er",
+        "onboard_time": 1667612308,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221200,
+        "num": 221200,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1667628745,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188710,
+        "num": 188710,
+        "word": "呼和浩特兴光A9",
+        "onboard_time": 1667604321,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182525,
+        "num": 182525,
+        "word": "地铁男子辱骂拳打女子被大哥制止",
+        "onboard_time": 1667620407,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181655,
+        "num": 181655,
+        "word": "Mike没成团",
+        "onboard_time": 1667622639,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180813,
+        "num": 180813,
+        "word": "95后男孩苦练上万次飞针采血",
+        "onboard_time": 1667618908,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171346,
+        "num": 171346,
+        "word": "复仇者联盟4首播收视第一",
+        "onboard_time": 1667613271,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165109,
+        "num": 165109,
+        "word": "1岁多宝宝内心戏堪比影帝",
+        "onboard_time": 1667626408,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160661,
+        "num": 160661,
+        "word": "男子因楼上女子剁鸡找上门对骂",
+        "onboard_time": 1667612248,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154934,
+        "num": 154934,
+        "word": "酒店工作人员把沙发烫坏处缝成银杏",
+        "onboard_time": 1667613449,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144174,
+        "num": 144174,
+        "word": "现在的年轻人为什么爱喝汤",
+        "onboard_time": 1667628206,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271036,
+        "num": 143531,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141705,
+        "num": 141705,
+        "word": "你好星期六好六街新店开业",
+        "onboard_time": 1667619928,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138385,
+        "num": 138385,
+        "word": "10岁男孩摇1米药匾帮父母制药丸",
+        "onboard_time": 1667623046,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 132688,
+        "word": "成人高考",
+        "onboard_time": 1667625028,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119828,
+        "num": 119828,
+        "word": "西班牙美女活火山送快递",
+        "onboard_time": 1667623589,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116259,
+        "num": 116259,
+        "word": "赵丽颖新剧眼神戏",
+        "onboard_time": 1667620705,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 115578,
+        "word": "蔡文静彭冠英床戏花絮",
+        "onboard_time": 1667616987,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98539,
+        "num": 98539,
+        "word": "央行副行长范一飞被查",
+        "onboard_time": 1667615789,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96250,
+        "num": 96250,
+        "word": "多地中学老师遭网课爆破",
+        "onboard_time": 1667612669,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93144,
+        "num": 93144,
+        "word": "与凤行镜头美学",
+        "onboard_time": 1667622928,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91281,
+        "num": 91281,
+        "word": "耐克暂停与欧文合作",
+        "onboard_time": 1667611050,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86617,
+        "num": 86617,
+        "word": "鹿晗新歌预告",
+        "onboard_time": 1667625268,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86570,
+        "num": 86570,
+        "word": "陈飞宇李峋被专有名词支配",
+        "onboard_time": 1667625507,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86164,
+        "num": 86164,
+        "word": "爵士vs湖人",
+        "onboard_time": 1667618488,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81730,
+        "num": 81730,
+        "word": "路人举着红地毯警示后车有人摔倒",
+        "onboard_time": 1667621487,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 81651,
+        "num": 81651,
+        "word": "流浪猫蹲办公楼等男子下班投喂",
+        "onboard_time": 1667618966,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68417,
+        "num": 68417,
+        "word": "有一个暖男弟弟是什么体验",
+        "onboard_time": 1667622988,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65802,
+        "num": 65802,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1667620588,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65566,
+        "num": 65566,
+        "word": "特斯拉市值缩水2.9万亿",
+        "onboard_time": 1667626166,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64231,
+        "num": 64231,
+        "word": "中国空间站上的玻璃能有多薄",
+        "onboard_time": 1667628447,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届进博会开幕式#"
+    }
+  }
+}
