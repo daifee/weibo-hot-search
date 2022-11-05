@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667615564522,
+  "endTime": 1667620172055,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -51,20 +51,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2702343,
+      "num": 699711,
+      "word": "警方通报呼和浩特一女子坠亡",
+      "onboard_time": 1667605342,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2680849,
       "num": 2680849,
       "word": "热依扎获奖孙俪在台下哭了",
       "onboard_time": 1667317051,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2645456,
-      "num": 675951,
-      "word": "警方通报呼和浩特一女子坠亡",
-      "onboard_time": 1667605342,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2614092,
@@ -465,6 +465,14 @@
       "onboard_time": 1667402607,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1229284,
+      "num": 1229284,
+      "word": "办案民警答物业为何几十分钟后才开门",
+      "onboard_time": 1667616508,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1226130,
@@ -1883,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550894,
+      "num": 550894,
+      "word": "蔡文静彭冠英床戏花絮",
+      "onboard_time": 1667616987,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550296,
       "num": 550296,
       "word": "勇士 累死库里",
@@ -2331,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464671,
+      "num": 464671,
+      "word": "你好星期六好六街新店开业",
+      "onboard_time": 1667619928,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463375,
       "num": 463375,
       "word": "世界杯被中国制造包了",
@@ -2432,6 +2456,14 @@
       "word": "红通人员屈健玲被遣返回国",
       "onboard_time": 1667448209,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444113,
+      "num": 444113,
+      "word": "央行副行长范一飞被查",
+      "onboard_time": 1667615789,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2979,6 +3011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367821,
+      "num": 367821,
+      "word": "多地中学老师遭网课爆破",
+      "onboard_time": 1667612669,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -3057,14 +3097,6 @@
       "onboard_time": 1667359587,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357564,
-      "num": 357564,
-      "word": "多地中学老师遭网课爆破",
-      "onboard_time": 1667612669,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356332,
@@ -3201,6 +3233,14 @@
       "onboard_time": 1667560829,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343853,
+      "num": 343853,
+      "word": "不要乱抠鼻子",
+      "onboard_time": 1667618366,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340302,
@@ -3643,6 +3683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298451,
+      "num": 298451,
+      "word": "酒店工作人员把沙发烫坏处缝成银杏",
+      "onboard_time": 1667613449,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295832,
       "num": 295832,
       "word": "赵丽颖林更新与凤行今日即将杀青",
@@ -3963,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269144,
+      "num": 269144,
+      "word": "黄小蕾女儿杂志首封",
+      "onboard_time": 1667614409,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 269018,
       "num": 269018,
       "word": "颖儿11年后再演被家暴妻子",
@@ -3977,6 +4033,14 @@
       "onboard_time": 1667380408,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 265852,
+      "num": 238800,
+      "word": "赵丽颖沈璃打戏镜头",
+      "onboard_time": 1667617046,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 265516,
@@ -4203,6 +4267,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 242744,
+      "num": 242744,
+      "word": "中科院院士杨叔子逝世",
+      "onboard_time": 1667615430,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241983,
       "num": 206793,
       "word": "凤毛麟角",
@@ -4257,14 +4329,6 @@
       "onboard_time": 1667484388,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236806,
-      "num": 236806,
-      "word": "黄小蕾女儿杂志首封",
-      "onboard_time": 1667614409,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236386,
@@ -4755,6 +4819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202931,
+      "num": 202931,
+      "word": "李峋的第一个绯闻女友是任迪",
+      "onboard_time": 1667615969,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202901,
       "num": 202901,
       "word": "女子回应背娃卖气球贴补家用",
@@ -4969,6 +5041,14 @@
       "onboard_time": 1667548948,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193064,
+      "num": 193064,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192832,
@@ -5291,6 +5371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172945,
+      "num": 166690,
+      "word": "Mike披荆斩棘没有成团",
+      "onboard_time": 1667617468,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172680,
       "num": 172680,
       "word": "这小夜灯也太哦耶了",
@@ -5345,6 +5433,14 @@
       "onboard_time": 1667283806,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "11月4日新增本土无症状3063例",
+      "onboard_time": 1667614409,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168547,
@@ -5827,6 +5923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148258,
+      "num": 148258,
+      "word": "王源说真的有分身",
+      "onboard_time": 1667618668,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148155,
       "num": 99710,
       "word": "周也夸檀健次声音好听",
@@ -6025,6 +6129,14 @@
       "onboard_time": 1667571932,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137062,
+      "num": 137062,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136801,
@@ -6369,14 +6481,6 @@
       "onboard_time": 1667611770,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124752,
-      "num": 124752,
-      "word": "11月4日新增本土无症状3063例",
-      "onboard_time": 1667614409,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124749,
@@ -6875,14 +6979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103870,
-      "num": 103870,
-      "word": "中科院院士杨叔子逝世",
-      "onboard_time": 1667615430,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103848,
       "num": 103848,
       "word": "心动的信号5收官",
@@ -6936,6 +7032,14 @@
       "word": "3岁小朋友遛纸壳狗宣传环保",
       "onboard_time": 1667604862,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101928,
+      "num": 101928,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -7025,6 +7129,14 @@
       "onboard_time": 1667252890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96866,
+      "num": 96866,
+      "word": "陈飞宇张婧仪壁咚花絮视频",
+      "onboard_time": 1667616628,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 96670,

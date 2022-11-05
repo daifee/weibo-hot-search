@@ -1,10 +1,10 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667615564522,
+  "endTime": 1667620172055,
   "band_list": [
     {
-      "raw_hot": 2645456,
-      "num": 675951,
+      "raw_hot": 2702343,
+      "num": 699711,
       "word": "警方通报呼和浩特一女子坠亡",
       "onboard_time": 1667605342,
       "rank": 5,
@@ -48,6 +48,14 @@
       "word": "42岁女子离婚后坚持健身年轻20岁",
       "onboard_time": 1667610150,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1229284,
+      "num": 1229284,
+      "word": "办案民警答物业为何几十分钟后才开门",
+      "onboard_time": 1667616508,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550894,
+      "num": 550894,
+      "word": "蔡文静彭冠英床戏花絮",
+      "onboard_time": 1667616987,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548784,
       "num": 548784,
       "word": "警方通报冷水滩餐饮店女子被打事件",
@@ -163,11 +179,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464671,
+      "num": 464671,
+      "word": "你好星期六好六街新店开业",
+      "onboard_time": 1667619928,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451927,
       "num": 451927,
       "word": "青岛疫情防控",
       "onboard_time": 1667574273,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444113,
+      "num": 444113,
+      "word": "央行副行长范一飞被查",
+      "onboard_time": 1667615789,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -195,11 +227,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357564,
-      "num": 357564,
+      "raw_hot": 367821,
+      "num": 367821,
       "word": "多地中学老师遭网课爆破",
       "onboard_time": 1667612669,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343853,
+      "num": 343853,
+      "word": "不要乱抠鼻子",
+      "onboard_time": 1667618366,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -243,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298451,
+      "num": 298451,
+      "word": "酒店工作人员把沙发烫坏处缝成银杏",
+      "onboard_time": 1667613449,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290502,
       "num": 262417,
       "word": "杰尼斯",
@@ -283,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269144,
+      "num": 269144,
+      "word": "黄小蕾女儿杂志首封",
+      "onboard_time": 1667614409,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265852,
+      "num": 238800,
+      "word": "赵丽颖沈璃打戏镜头",
+      "onboard_time": 1667617046,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261331,
       "num": 261331,
       "word": "湖人无意为欧文提供长约",
@@ -315,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242744,
+      "num": 242744,
+      "word": "中科院院士杨叔子逝世",
+      "onboard_time": 1667615430,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241983,
       "num": 206793,
       "word": "凤毛麟角",
       "onboard_time": 1667576492,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236806,
-      "num": 236806,
-      "word": "黄小蕾女儿杂志首封",
-      "onboard_time": 1667614409,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 234760,
@@ -403,10 +467,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202931,
+      "num": 202931,
+      "word": "李峋的第一个绯闻女友是任迪",
+      "onboard_time": 1667615969,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200514,
       "num": 200514,
       "word": "北京昨增5例社会面筛查人员",
       "onboard_time": 1667608648,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193064,
+      "num": 193064,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -443,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172945,
+      "num": 166690,
+      "word": "Mike披荆斩棘没有成团",
+      "onboard_time": 1667617468,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172140,
       "num": 172140,
       "word": "工人高空坠落被钢筋贯穿身体",
@@ -456,6 +544,14 @@
       "word": "重庆一小区宠物接连死亡",
       "onboard_time": 1667561128,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "11月4日新增本土无症状3063例",
+      "onboard_time": 1667614409,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -499,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148258,
+      "num": 148258,
+      "word": "王源说真的有分身",
+      "onboard_time": 1667618668,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147810,
       "num": 124859,
       "word": "孙怡珠光万物生灵刺绣礼裙",
@@ -539,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137062,
+      "num": 137062,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135219,
       "num": 135219,
       "word": "离岸人民币创有记录以来最大单日涨幅",
@@ -561,14 +673,6 @@
       "onboard_time": 1667611770,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124752,
-      "num": 124752,
-      "word": "11月4日新增本土无症状3063例",
-      "onboard_time": 1667614409,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124271,
@@ -643,14 +747,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 103870,
-      "num": 103870,
-      "word": "中科院院士杨叔子逝世",
-      "onboard_time": 1667615430,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103654,
       "num": 103654,
       "word": "肖砚医生的工作日志",
@@ -673,6 +769,22 @@
       "onboard_time": 1667564309,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101928,
+      "num": 101928,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96866,
+      "num": 96866,
+      "word": "陈飞宇张婧仪壁咚花絮视频",
+      "onboard_time": 1667616628,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 95772,
