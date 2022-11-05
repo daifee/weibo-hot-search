@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/06 00:29:04
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/06 00:49:18
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ IXFORM即将解散（热度：579975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
+一年级女孩用手扫描书按进大脑（热度：549055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%86%B7%E6%B0%B4%E6%BB%A9%E9%A4%90%E9%A5%AE%E5%BA%97%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6%23" target="weibo">
 警方通报冷水滩餐饮店女子被打事件（热度：548784）
 </a>
@@ -2051,12 +2057,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E2022%E7%83%AD%E5%BA%A6%E7%AC%AC%E4%B8%89%23" target="weibo">
 人生大事中国台湾网飞2022热度第三（热度：450816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
-一年级女孩用手扫描书按进大脑（热度：448893）
 </a>
 </li>
 
@@ -2601,6 +2601,12 @@ Gemini侧颜（热度：372389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%91%9F%E6%98%AF%E6%9C%89%E7%82%B9%E6%B8%85%E6%BE%88%E7%9A%84%E6%84%9A%E8%A0%A2%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9A%84%23" target="weibo">
+阿瑟是有点清澈的愚蠢在身上的（热度：367419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E6%B5%81%E6%8A%80%E6%9C%AF%E9%81%AD%E6%8B%92%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E5%81%9A%23" target="weibo">
 交流技术遭拒中国工程师决定自己做（热度：365099）
 </a>
@@ -2969,12 +2975,6 @@ zlib（热度：322202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%80%AA%E5%A6%AE%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%AE%98%E5%8D%9A%E5%BC%80%E9%80%9A%23" target="weibo">
 朱一龙倪妮消失的她官博开通（热度：321401）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%91%9F%E6%98%AF%E6%9C%89%E7%82%B9%E6%B8%85%E6%BE%88%E7%9A%84%E6%84%9A%E8%A0%A2%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9A%84%23" target="weibo">
-阿瑟是有点清澈的愚蠢在身上的（热度：320761）
 </a>
 </li>
 
@@ -5271,6 +5271,12 @@ ITZY将12月2日回归（热度：154335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%82%96%E7%A0%9A%E4%B8%8B%E7%8F%AD%E6%9C%BA%E8%BD%A6%E9%B2%A8%E7%96%AF%E4%BA%86%23" target="weibo">
+杨幂肖砚下班机车鲨疯了（热度：142073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0%E7%B2%89%E4%B8%9D%E7%BE%A4%E7%AE%80%E4%BB%8B%23" target="weibo">
 点燃我温暖你粉丝群简介（热度：141343）
 </a>
@@ -5765,12 +5771,6 @@ VLIVE将于12月31日起停止所有服务（热度：134838）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%81%E7%9C%9F%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23" target="weibo">
 许允真确诊新冠（热度：119823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%82%96%E7%A0%9A%E4%B8%8B%E7%8F%AD%E6%9C%BA%E8%BD%A6%E9%B2%A8%E7%96%AF%E4%BA%86%23" target="weibo">
-杨幂肖砚下班机车鲨疯了（热度：119756）
 </a>
 </li>
 
