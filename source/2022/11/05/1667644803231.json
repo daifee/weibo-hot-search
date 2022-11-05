@@ -1,0 +1,410 @@
+{
+  "runTime": 1667644803231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838654,
+        "num": 1838654,
+        "word": "郑州被通报随意静默封城代替管控",
+        "onboard_time": 1667636068,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487606,
+        "num": 1487606,
+        "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
+        "onboard_time": 1667635885,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81882,
+        "num": 970786,
+        "word": "中国湿地色彩有多美",
+        "onboard_time": 1667631504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 857968,
+        "num": 857968,
+        "word": "男孩考试从18分进步到60分爸爸摆席庆祝",
+        "onboard_time": 1667639729,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 739927,
+        "num": 739927,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1667632524,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680841,
+        "num": 680841,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638071,
+        "num": 638071,
+        "word": "日本网红下恒河后一小时身体不适",
+        "onboard_time": 1667634868,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490590,
+        "num": 490590,
+        "word": "国家疾控局回应近期是否调整防控政策",
+        "onboard_time": 1667635468,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485659,
+        "num": 485659,
+        "word": "推特怀孕8个月员工也被裁",
+        "onboard_time": 1667634447,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 475950,
+        "num": 475950,
+        "word": "陆柯燃官宣签约索尼音乐",
+        "onboard_time": 1667639967,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519998,
+        "num": 460306,
+        "word": "刘诗诗一念关山婚服造型",
+        "onboard_time": 1667641165,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400953,
+        "num": 400953,
+        "word": "坚持动态清零总方针不动摇",
+        "onboard_time": 1667637446,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370773,
+        "num": 370773,
+        "word": "男子请人为孕妇让座被指道德绑架",
+        "onboard_time": 1667632043,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366391,
+        "num": 366391,
+        "word": "广州面临三年来最复杂严峻疫情",
+        "onboard_time": 1667633487,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352006,
+        "num": 352006,
+        "word": "范丞丞嗨放派剧照",
+        "onboard_time": 1667644646,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327030,
+        "num": 327030,
+        "word": "陈晓苏翊鸣再同框",
+        "onboard_time": 1667644285,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 301189,
+        "num": 301189,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1667644105,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285605,
+        "num": 285605,
+        "word": "詹姆斯患上胃病",
+        "onboard_time": 1667638347,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269794,
+        "num": 269794,
+        "word": "歼20飞过中国航展上空",
+        "onboard_time": 1667640205,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 247287,
+        "num": 247287,
+        "word": "羽绒服买大了的好处",
+        "onboard_time": 1667637807,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222284,
+        "num": 222284,
+        "word": "小猫咪暴打救命恩人",
+        "onboard_time": 1667635166,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212838,
+        "num": 212838,
+        "word": "谢谢你医生剧情太上头了",
+        "onboard_time": 1667638707,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208893,
+        "num": 208893,
+        "word": "打直球的相亲也太劲爆了吧",
+        "onboard_time": 1667638106,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166257,
+        "num": 166257,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 147766,
+        "word": "男子起诉前女友返还95万开销",
+        "onboard_time": 1667631446,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147184,
+        "num": 147184,
+        "word": "疾控局通报群众反映较多的问题",
+        "onboard_time": 1667634087,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146294,
+        "num": 146294,
+        "word": "詹姆斯谈欧文事件",
+        "onboard_time": 1667636905,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146264,
+        "num": 146264,
+        "word": "主人海姆立克法救回18岁贪吃狗狗",
+        "onboard_time": 1667642787,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142439,
+        "num": 142439,
+        "word": "刘雨昕首次体重破百",
+        "onboard_time": 1667634327,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142361,
+        "num": 142361,
+        "word": "陈飞宇张婧仪晋里晋气",
+        "onboard_time": 1667631203,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135613,
+        "num": 135613,
+        "word": "当猫咪穿上羽绒服后",
+        "onboard_time": 1667642666,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 130144,
+        "word": "这张脸帅得很直接",
+        "onboard_time": 1667644466,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121419,
+        "num": 121419,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1667628745,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121250,
+        "num": 121250,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119371,
+        "num": 119371,
+        "word": "姑姑陪侄子看病自己晕针睡病床",
+        "onboard_time": 1667631145,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105834,
+        "num": 105834,
+        "word": "西部世界被取消",
+        "onboard_time": 1667635047,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103643,
+        "num": 103643,
+        "word": "00后女生帮助路人反中万元奖金",
+        "onboard_time": 1667637087,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103266,
+        "num": 103266,
+        "word": "与凤行杀青特辑播放量突破3000万",
+        "onboard_time": 1667642484,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101659,
+        "num": 101659,
+        "word": "现在的年轻人为什么爱喝汤",
+        "onboard_time": 1667628206,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 100161,
+        "num": 100161,
+        "word": "中国将建设人与自然和谐共生的现代化",
+        "onboard_time": 1667643806,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99163,
+        "num": 99163,
+        "word": "潘玮柏衣服口袋漏了",
+        "onboard_time": 1667634626,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98332,
+        "num": 98332,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95790,
+        "num": 95790,
+        "word": "无可奉告",
+        "onboard_time": 1667644766,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94885,
+        "num": 94885,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91982,
+        "num": 91982,
+        "word": "杨幂新剧的演技",
+        "onboard_time": 1667624426,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91924,
+        "num": 91924,
+        "word": "韩国女棋手把顶级男棋手直接下崩溃",
+        "onboard_time": 1667644405,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89805,
+        "num": 89805,
+        "word": "点燃我温暖你太上头了",
+        "onboard_time": 1667634806,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83175,
+        "num": 83175,
+        "word": "甘肃要求杜绝120打不通无车可派情况",
+        "onboard_time": 1667633965,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83130,
+        "num": 83130,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 82476,
+        "num": 82476,
+        "word": "任贤齐张震岳苏见信开三轮车考驾照",
+        "onboard_time": 1667639484,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会开幕式致辞金句#"
+    }
+  }
+}
