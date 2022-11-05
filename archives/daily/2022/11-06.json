@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667668782921,
+  "endTime": 1667669819022,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628133,
+      "raw_hot": 681356,
       "num": 169578,
       "word": "孙怡说她第一次网购增高鞋",
       "onboard_time": 1667667021,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81048,
+      "num": 81048,
+      "word": "什么是低成本情绪价值",
+      "onboard_time": 1667668100,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77395,
       "num": 77395,
       "word": "天津人有点英语基础",
@@ -393,14 +401,6 @@
       "onboard_time": 1667647707,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39107,
-      "num": 39107,
-      "word": "什么是低成本情绪价值",
-      "onboard_time": 1667668100,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 36962,
