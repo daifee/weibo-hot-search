@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667647032426,
+  "endTime": 1667648016946,
   "band_list": [
     {
       "raw_hot": 2803500,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2296484,
+      "num": 1681663,
+      "word": "无可奉告",
+      "onboard_time": 1667644766,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2086123,
       "num": 1511110,
       "word": "办案民警答物业为何几十分钟后才开门",
@@ -75,14 +83,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1681663,
-      "num": 1681663,
-      "word": "无可奉告",
-      "onboard_time": 1667644766,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1351742,
       "num": 1351742,
       "word": "广州海珠严格控制人员流动",
@@ -105,6 +105,14 @@
       "onboard_time": 1667610150,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207073,
+      "num": 459839,
+      "word": "这张脸帅得很直接",
+      "onboard_time": 1667644466,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1033042,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817363,
-      "num": 459811,
-      "word": "这张脸帅得很直接",
-      "onboard_time": 1667644466,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 816145,
       "num": 449826,
       "word": "李承铉戚薇二胎叫seven",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746627,
+      "num": 746627,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1667644105,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746216,
       "num": 605833,
       "word": "刺猬被人用绳绑死结勒脖烂肉",
@@ -217,14 +225,6 @@
       "onboard_time": 1667629105,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 705806,
-      "num": 705806,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1667644105,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685552,
@@ -265,6 +265,14 @@
       "onboard_time": 1667621307,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 635427,
+      "num": 635427,
+      "word": "韩国女棋手把顶级男棋手直接下崩溃",
+      "onboard_time": 1667644405,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625714,
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449930,
-      "num": 449930,
-      "word": "韩国女棋手把顶级男棋手直接下崩溃",
-      "onboard_time": 1667644405,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444113,
       "num": 444113,
       "word": "央行副行长范一飞被查",
@@ -507,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355009,
+      "num": 355009,
+      "word": "王鹤棣工作室星期六出图",
+      "onboard_time": 1667645546,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352006,
       "num": 352006,
       "word": "范丞丞嗨放派剧照",
@@ -521,6 +529,14 @@
       "onboard_time": 1667638347,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340029,
+      "num": 340029,
+      "word": "港独分子潜伏回港疑策划阴谋被逮捕",
+      "onboard_time": 1667645907,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339517,
@@ -699,6 +715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 268958,
+      "num": 268958,
+      "word": "种田文是真的拍出来了",
+      "onboard_time": 1667644827,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265852,
       "num": 238800,
       "word": "赵丽颖沈璃打戏镜头",
@@ -771,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245767,
-      "num": 245767,
-      "word": "王鹤棣工作室星期六出图",
-      "onboard_time": 1667645546,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245691,
       "num": 183638,
       "word": "安徽青企协回应吴某某事件",
@@ -817,6 +833,14 @@
       "onboard_time": 1667638707,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236635,
+      "num": 236635,
+      "word": "陈飞宇叠衣服",
+      "onboard_time": 1667646924,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234760,
@@ -883,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213290,
-      "num": 213290,
-      "word": "陈飞宇叠衣服",
-      "onboard_time": 1667646924,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211006,
       "num": 211006,
       "word": "这场大火烧光了一车的作业",
@@ -955,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198941,
-      "num": 198941,
-      "word": "种田文是真的拍出来了",
-      "onboard_time": 1667644827,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195701,
       "num": 195701,
       "word": "西班牙美女活火山送快递",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1667572890,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186508,
+      "num": 186508,
+      "word": "小狗是怎么撒娇的",
+      "onboard_time": 1667645128,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 185007,
@@ -1059,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169647,
+      "num": 169647,
+      "word": "偶遇贺峻霖中传打卡阳光长跑",
+      "onboard_time": 1667645068,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168882,
       "num": 168882,
       "word": "11月4日新增本土无症状3063例",
@@ -1097,22 +1121,6 @@
       "onboard_time": 1667630124,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163938,
-      "num": 163938,
-      "word": "偶遇贺峻霖中传打卡阳光长跑",
-      "onboard_time": 1667645068,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 163923,
-      "num": 163923,
-      "word": "小狗是怎么撒娇的",
-      "onboard_time": 1667645128,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 162151,
@@ -1259,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138080,
+      "num": 138080,
+      "word": "开心就好不必正常",
+      "onboard_time": 1667646326,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136911,
+      "num": 136911,
+      "word": "李峋 爱心代码",
+      "onboard_time": 1667647528,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "当猫咪穿上羽绒服后",
@@ -1312,6 +1336,14 @@
       "word": "有一个暖男弟弟是什么体验",
       "onboard_time": 1667622988,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127344,
+      "num": 127344,
+      "word": "牛熟睡翻白眼被工人2巴掌打醒",
+      "onboard_time": 1667646269,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1395,20 +1427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114269,
+      "num": 114269,
+      "word": "张星特巡演给妈妈唱我只在乎你",
+      "onboard_time": 1667647948,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109985,
       "num": 109985,
       "word": "什么都可以凑合但吃饭不行",
       "onboard_time": 1667635406,
       "rank": 39,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 108706,
-      "num": 108706,
-      "word": "港独分子潜伏回港疑策划阴谋被逮捕",
-      "onboard_time": 1667645907,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108333,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1667569230,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108167,
+      "num": 108167,
+      "word": "年轻人如何不花钱获得快乐",
+      "onboard_time": 1667647826,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 104374,
@@ -1667,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82736,
-      "num": 82736,
-      "word": "开心就好不必正常",
-      "onboard_time": 1667646326,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82441,
       "num": 82441,
       "word": "粘鼠板印满坚果图给老鼠画大饼",
@@ -1691,11 +1723,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78804,
-      "num": 78804,
-      "word": "牛熟睡翻白眼被工人2巴掌打醒",
-      "onboard_time": 1667646269,
+      "raw_hot": 78523,
+      "num": 78523,
+      "word": "装修后才知道的事",
+      "onboard_time": 1667647228,
       "rank": 48,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 77093,
+      "num": 77093,
+      "word": "同学父亲送肉酱全班大喊谢谢爸爸",
+      "onboard_time": 1667647707,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

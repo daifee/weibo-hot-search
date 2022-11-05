@@ -1,0 +1,410 @@
+{
+  "runTime": 1667648016946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1654922,
+        "num": 1654922,
+        "word": "郑州被通报随意静默封城代替管控",
+        "onboard_time": 1667636068,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2296484,
+        "num": 1499660,
+        "word": "无可奉告",
+        "onboard_time": 1667644766,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69904,
+        "num": 1228915,
+        "word": "中国湿地色彩有多美",
+        "onboard_time": 1667631504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1228596,
+        "num": 1228596,
+        "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
+        "onboard_time": 1667635885,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746627,
+        "num": 746627,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1667644105,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716486,
+        "num": 716486,
+        "word": "陈小春听到李承铉感谢戚薇的表情",
+        "onboard_time": 1667629105,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635427,
+        "num": 635427,
+        "word": "韩国女棋手把顶级男棋手直接下崩溃",
+        "onboard_time": 1667644405,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545096,
+        "num": 545096,
+        "word": "日本网红下恒河后一小时身体不适",
+        "onboard_time": 1667634868,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503505,
+        "num": 503505,
+        "word": "羽生结弦",
+        "onboard_time": 1667626226,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466991,
+        "num": 466991,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1667632524,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207073,
+        "num": 459839,
+        "word": "这张脸帅得很直接",
+        "onboard_time": 1667644466,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447655,
+        "num": 447655,
+        "word": "推特怀孕8个月员工也被裁",
+        "onboard_time": 1667634447,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371982,
+        "num": 371982,
+        "word": "刘诗诗一念关山婚服造型",
+        "onboard_time": 1667641165,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355009,
+        "num": 355009,
+        "word": "王鹤棣工作室星期六出图",
+        "onboard_time": 1667645546,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349939,
+        "num": 349939,
+        "word": "坚持动态清零总方针不动摇",
+        "onboard_time": 1667637446,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340029,
+        "num": 340029,
+        "word": "港独分子潜伏回港疑策划阴谋被逮捕",
+        "onboard_time": 1667645907,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309614,
+        "num": 309614,
+        "word": "陈晓苏翊鸣再同框",
+        "onboard_time": 1667644285,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 308993,
+        "num": 308993,
+        "word": "广州面临三年来最复杂严峻疫情",
+        "onboard_time": 1667633487,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290911,
+        "num": 290911,
+        "word": "男子请人为孕妇让座被指道德绑架",
+        "onboard_time": 1667632043,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287218,
+        "num": 287218,
+        "word": "国家疾控局回应近期是否调整防控政策",
+        "onboard_time": 1667635468,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268958,
+        "num": 268958,
+        "word": "种田文是真的拍出来了",
+        "onboard_time": 1667644827,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238417,
+        "num": 238417,
+        "word": "男孩考试从18分进步到60分爸爸摆席庆祝",
+        "onboard_time": 1667639729,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236635,
+        "num": 236635,
+        "word": "陈飞宇叠衣服",
+        "onboard_time": 1667646924,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191910,
+        "num": 191910,
+        "word": "詹姆斯患上胃病",
+        "onboard_time": 1667638347,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186978,
+        "num": 186978,
+        "word": "中国将建设人与自然和谐共生的现代化",
+        "onboard_time": 1667643806,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186508,
+        "num": 186508,
+        "word": "小狗是怎么撒娇的",
+        "onboard_time": 1667645128,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169647,
+        "num": 169647,
+        "word": "偶遇贺峻霖中传打卡阳光长跑",
+        "onboard_time": 1667645068,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161452,
+        "num": 161452,
+        "word": "陆柯燃官宣签约索尼音乐",
+        "onboard_time": 1667639967,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153326,
+        "num": 153326,
+        "word": "主人海姆立克法救回18岁贪吃狗狗",
+        "onboard_time": 1667642787,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138156,
+        "num": 138156,
+        "word": "羽绒服买大了的好处",
+        "onboard_time": 1667637807,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143859,
+        "num": 138124,
+        "word": "谢谢你医生剧情太上头了",
+        "onboard_time": 1667638707,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138080,
+        "num": 138080,
+        "word": "开心就好不必正常",
+        "onboard_time": 1667646326,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136911,
+        "num": 136911,
+        "word": "李峋 爱心代码",
+        "onboard_time": 1667647528,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127344,
+        "num": 127344,
+        "word": "牛熟睡翻白眼被工人2巴掌打醒",
+        "onboard_time": 1667646269,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121929,
+        "num": 121929,
+        "word": "歼20飞过中国航展上空",
+        "onboard_time": 1667640205,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 115723,
+        "num": 115723,
+        "word": "男子起诉前女友返还95万开销",
+        "onboard_time": 1667631446,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 114269,
+        "word": "张星特巡演给妈妈唱我只在乎你",
+        "onboard_time": 1667647948,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112508,
+        "num": 112508,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667626707,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111118,
+        "num": 111118,
+        "word": "小猫咪暴打救命恩人",
+        "onboard_time": 1667635166,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109463,
+        "num": 109463,
+        "word": "打直球的相亲也太劲爆了吧",
+        "onboard_time": 1667638106,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109079,
+        "num": 109079,
+        "word": "当猫咪穿上羽绒服后",
+        "onboard_time": 1667642666,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108167,
+        "num": 108167,
+        "word": "年轻人如何不花钱获得快乐",
+        "onboard_time": 1667647826,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99135,
+        "num": 99135,
+        "word": "詹姆斯谈欧文事件",
+        "onboard_time": 1667636905,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95027,
+        "num": 95027,
+        "word": "姑姑陪侄子看病自己晕针睡病床",
+        "onboard_time": 1667631145,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87977,
+        "num": 87977,
+        "word": "刘雨昕首次体重破百",
+        "onboard_time": 1667634327,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85632,
+        "num": 85632,
+        "word": "疾控局通报群众反映较多的问题",
+        "onboard_time": 1667634087,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84514,
+        "num": 84514,
+        "word": "西部世界被取消",
+        "onboard_time": 1667635047,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83770,
+        "num": 83770,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1667628745,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78523,
+        "num": 78523,
+        "word": "装修后才知道的事",
+        "onboard_time": 1667647228,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 77093,
+        "num": 77093,
+        "word": "同学父亲送肉酱全班大喊谢谢爸爸",
+        "onboard_time": 1667647707,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会开幕式致辞金句#"
+    }
+  }
+}
