@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667623726824,
+  "endTime": 1667625547031,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513718,
+      "num": 513718,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 513235,
       "num": 513235,
       "word": "主人生娃后猫咪患上抑郁症",
@@ -3083,6 +3091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439476,
+      "num": 439476,
+      "word": "地铁男子辱骂拳打女子被大哥制止",
+      "onboard_time": 1667620407,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434950,
       "num": 434950,
       "word": "郑州富士康出勤补贴再翻倍",
@@ -3579,6 +3595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 382521,
+      "num": 382521,
+      "word": "王楚钦2比3魏世皓",
+      "onboard_time": 1667622148,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381143,
       "num": 353120,
       "word": "迪丽热巴今晚直播动图",
@@ -3611,28 +3635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376811,
-      "num": 376811,
-      "word": "王楚钦2比3魏世皓",
-      "onboard_time": 1667622148,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375471,
       "num": 375471,
       "word": "鹈鹕vs湖人",
       "onboard_time": 1667446162,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374286,
-      "num": 374286,
-      "word": "地铁男子辱骂拳打女子被大哥制止",
-      "onboard_time": 1667620407,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373161,
@@ -3721,6 +3729,14 @@
       "onboard_time": 1667436086,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362057,
+      "num": 362057,
+      "word": "举报者谈张庭涉传销案听证会",
+      "onboard_time": 1667621366,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 360439,
@@ -4779,14 +4795,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 274674,
-      "num": 274674,
-      "word": "马斯克现在每天工作17小时",
-      "onboard_time": 1667621307,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 274293,
       "num": 249446,
       "word": "TaylorSwift空降成绩",
@@ -5129,6 +5137,14 @@
       "onboard_time": 1667372127,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 251802,
+      "num": 251802,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 250739,
@@ -5561,6 +5577,14 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 222312,
+      "num": 222312,
+      "word": "刺猬被人用绳绑死结勒脖烂肉",
+      "onboard_time": 1667623829,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222243,
@@ -6283,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190281,
+      "num": 190281,
+      "word": "路人举着红地毯警示后车有人摔倒",
+      "onboard_time": 1667621487,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 189774,
       "num": 163636,
       "word": "韩国踩踏事故亲历者称当时整个人都离地",
@@ -6683,14 +6715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168894,
-      "num": 168894,
-      "word": "Mike没成团",
-      "onboard_time": 1667622639,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168882,
       "num": 168882,
       "word": "11月4日新增本土无症状3063例",
@@ -6761,6 +6785,14 @@
       "onboard_time": 1667289387,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166587,
+      "num": 166587,
+      "word": "西班牙美女活火山送快递",
+      "onboard_time": 1667623589,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166002,
@@ -7339,14 +7371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145939,
-      "num": 145939,
-      "word": "路人举着红地毯警示后车有人摔倒",
-      "onboard_time": 1667621487,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 145861,
       "num": 145861,
       "word": "警校生跳下3米高墙救1岁婴儿",
@@ -7443,6 +7467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142962,
+      "num": 142962,
+      "word": "鹿晗新歌预告",
+      "onboard_time": 1667625268,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142875,
       "num": 88705,
       "word": "点燃我温暖你好看吗",
@@ -7521,6 +7553,14 @@
       "onboard_time": 1667550268,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139001,
+      "num": 139001,
+      "word": "警方通报救护车坐地起价",
+      "onboard_time": 1667624367,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138902,
@@ -7875,12 +7915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128431,
-      "num": 128431,
-      "word": "举报者谈张庭涉传销案听证会",
-      "onboard_time": 1667621366,
-      "rank": 34,
-      "category": "社会新闻,艺人"
+      "raw_hot": 128453,
+      "num": 128453,
+      "word": "有一个暖男弟弟是什么体验",
+      "onboard_time": 1667622988,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128020,
@@ -7928,6 +7968,14 @@
       "word": "耀客2部剧获飞天奖",
       "onboard_time": 1667319923,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126976,
+      "num": 126976,
+      "word": "与凤行镜头美学",
+      "onboard_time": 1667622928,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -8011,6 +8059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124031,
+      "num": 124031,
+      "word": "成人高考",
+      "onboard_time": 1667625028,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123340,
       "num": 88890,
       "word": "欢颜",
@@ -8039,6 +8095,14 @@
       "num": 89181,
       "word": "陈飞宇张婧仪新剧校园情侣打闹",
       "onboard_time": 1667307447,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122479,
+      "num": 122479,
+      "word": "杨幂新剧的演技",
+      "onboard_time": 1667624426,
       "rank": 40,
       "category": "影视"
     },
@@ -8171,6 +8235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 119334,
+      "num": 336765,
+      "word": "10岁男孩摇1米药匾帮父母制药丸",
+      "onboard_time": 1667623046,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119243,
       "num": 119243,
       "word": "103岁中医为村民免费看病80载",
@@ -8279,14 +8351,6 @@
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
       "onboard_time": 1667539769,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114537,
-      "num": 114537,
-      "word": "西班牙美女活火山送快递",
-      "onboard_time": 1667623589,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -8467,6 +8531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108089,
+      "num": 108089,
+      "word": "北京餐饮行业从业人员一天一检",
+      "onboard_time": 1667625208,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108038,
       "num": 108038,
       "word": "内蒙一男子滑冰上班",
@@ -8505,14 +8577,6 @@
       "onboard_time": 1667565508,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107070,
-      "num": 107070,
-      "word": "与凤行镜头美学",
-      "onboard_time": 1667622928,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 106845,
@@ -8584,14 +8648,6 @@
       "word": "永辉超市多次因食品问题被罚",
       "onboard_time": 1667480427,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104527,
-      "num": 108454,
-      "word": "有一个暖男弟弟是什么体验",
-      "onboard_time": 1667622988,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8843,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98229,
+      "num": 98229,
+      "word": "一个视频感受故宫之秋",
+      "onboard_time": 1667624802,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97349,
       "num": 97349,
       "word": "仿佛看到我的精神状态",
@@ -9043,12 +9107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91992,
+      "num": 91992,
+      "word": "威少连续三分",
+      "onboard_time": 1667625146,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91961,
       "num": 91961,
       "word": "莱恩绝平三分",
       "onboard_time": 1667457528,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91870,
+      "num": 91870,
+      "word": "陈飞宇李峋被专有名词支配",
+      "onboard_time": 1667625507,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 91805,
@@ -9641,6 +9721,14 @@
       "onboard_time": 1667559388,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 74012,
+      "num": 123062,
+      "word": "双11快递包装可换鸡蛋",
+      "onboard_time": 1667624426,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73595,
@@ -10259,14 +10347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40999,
-      "num": 336765,
-      "word": "10岁男孩摇1米药匾帮父母制药丸",
-      "onboard_time": 1667623046,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40201,
       "num": 283496,
       "word": "重庆籍灭火英雄冯坪坪魂归故里",
@@ -10321,6 +10401,14 @@
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34852,
+      "num": 343027,
+      "word": "少年遇路人接听诈骗电话果断报警",
+      "onboard_time": 1667624426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31663,

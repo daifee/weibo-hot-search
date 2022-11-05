@@ -1,0 +1,410 @@
+{
+  "runTime": 1667625547031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901663,
+        "num": 901663,
+        "word": "记者卧底网课爆破群",
+        "onboard_time": 1667612070,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 524783,
+        "num": 524783,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11817,
+        "num": 515922,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 742020,
+        "num": 515436,
+        "word": "42岁女子离婚后坚持健身年轻20岁",
+        "onboard_time": 1667610150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513718,
+        "num": 513718,
+        "word": "马斯克现在每天工作17小时",
+        "onboard_time": 1667621307,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2061121,
+        "num": 507156,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1961644,
+        "num": 493729,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476853,
+        "num": 476853,
+        "word": "你好星期六好六街新店开业",
+        "onboard_time": 1667619928,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439476,
+        "num": 439476,
+        "word": "地铁男子辱骂拳打女子被大哥制止",
+        "onboard_time": 1667620407,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423909,
+        "num": 423909,
+        "word": "95后男孩苦练上万次飞针采血",
+        "onboard_time": 1667618908,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419321,
+        "num": 419321,
+        "word": "当一个女人决定退鞋",
+        "onboard_time": 1667609849,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392878,
+        "num": 392878,
+        "word": "呼和浩特兴光A9",
+        "onboard_time": 1667604321,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382521,
+        "num": 382521,
+        "word": "王楚钦2比3魏世皓",
+        "onboard_time": 1667622148,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362057,
+        "num": 362057,
+        "word": "举报者谈张庭涉传销案听证会",
+        "onboard_time": 1667621366,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 34852,
+        "num": 343027,
+        "word": "少年遇路人接听诈骗电话果断报警",
+        "onboard_time": 1667624426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337426,
+        "num": 337426,
+        "word": "25岁小伙长期挖鼻孔形成血管瘤",
+        "onboard_time": 1667606785,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289791,
+        "num": 289791,
+        "word": "男子因楼上女子剁鸡找上门对骂",
+        "onboard_time": 1667612248,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256185,
+        "num": 256185,
+        "word": "刘波er",
+        "onboard_time": 1667612308,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251802,
+        "num": 251802,
+        "word": "Mike没成团",
+        "onboard_time": 1667622639,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249947,
+        "num": 249947,
+        "word": "蔡文静彭冠英床戏花絮",
+        "onboard_time": 1667616987,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241652,
+        "num": 241652,
+        "word": "复仇者联盟4首播收视第一",
+        "onboard_time": 1667613271,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230291,
+        "num": 230291,
+        "word": "酒店工作人员把沙发烫坏处缝成银杏",
+        "onboard_time": 1667613449,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222312,
+        "num": 222312,
+        "word": "刺猬被人用绳绑死结勒脖烂肉",
+        "onboard_time": 1667623829,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196297,
+        "num": 196297,
+        "word": "赵丽颖新剧眼神戏",
+        "onboard_time": 1667620705,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190281,
+        "num": 190281,
+        "word": "路人举着红地毯警示后车有人摔倒",
+        "onboard_time": 1667621487,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 183735,
+        "num": 183735,
+        "word": "央行副行长范一飞被查",
+        "onboard_time": 1667615789,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 166587,
+        "word": "西班牙美女活火山送快递",
+        "onboard_time": 1667623589,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164764,
+        "num": 164764,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667578766,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162126,
+        "num": 162126,
+        "word": "多地中学老师遭网课爆破",
+        "onboard_time": 1667612669,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161273,
+        "num": 161273,
+        "word": "爵士vs湖人",
+        "onboard_time": 1667618488,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142962,
+        "num": 142962,
+        "word": "鹿晗新歌预告",
+        "onboard_time": 1667625268,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 140883,
+        "word": "耐克暂停与欧文合作",
+        "onboard_time": 1667611050,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139383,
+        "num": 139383,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1667620588,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139001,
+        "num": 139001,
+        "word": "警方通报救护车坐地起价",
+        "onboard_time": 1667624367,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "有一个暖男弟弟是什么体验",
+        "onboard_time": 1667622988,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127431,
+        "num": 127431,
+        "word": "警方通报冷水滩餐饮店女子被打事件",
+        "onboard_time": 1667609248,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126976,
+        "num": 126976,
+        "word": "与凤行镜头美学",
+        "onboard_time": 1667622928,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 125276,
+        "word": "流浪猫蹲办公楼等男子下班投喂",
+        "onboard_time": 1667618966,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124031,
+        "num": 124031,
+        "word": "成人高考",
+        "onboard_time": 1667625028,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74012,
+        "num": 123062,
+        "word": "双11快递包装可换鸡蛋",
+        "onboard_time": 1667624426,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122479,
+        "num": 122479,
+        "word": "杨幂新剧的演技",
+        "onboard_time": 1667624426,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119334,
+        "num": 119334,
+        "word": "10岁男孩摇1米药匾帮父母制药丸",
+        "onboard_time": 1667623046,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116829,
+        "num": 116829,
+        "word": "11月4日新增本土无症状3063例",
+        "onboard_time": 1667614409,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108089,
+        "num": 108089,
+        "word": "北京餐饮行业从业人员一天一检",
+        "onboard_time": 1667625208,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102084,
+        "num": 102084,
+        "word": "王源说真的有分身",
+        "onboard_time": 1667618668,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100861,
+        "num": 100861,
+        "word": "福州不再公布无症状感染者流调",
+        "onboard_time": 1667582660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "与凤行宿命感",
+        "onboard_time": 1667620588,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98229,
+        "num": 98229,
+        "word": "一个视频感受故宫之秋",
+        "onboard_time": 1667624802,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91992,
+        "num": 91992,
+        "word": "威少连续三分",
+        "onboard_time": 1667625146,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91870,
+        "num": 91870,
+        "word": "陈飞宇李峋被专有名词支配",
+        "onboard_time": 1667625507,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届进博会开幕式#"
+    }
+  }
+}

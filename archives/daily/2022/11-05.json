@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667623726824,
+  "endTime": 1667625547031,
   "band_list": [
     {
       "raw_hot": 2702343,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513718,
+      "num": 513718,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 479716,
       "num": 479716,
       "word": "多家茶饮品牌联合抵制外卖满减",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439476,
+      "num": 439476,
+      "word": "地铁男子辱骂拳打女子被大哥制止",
+      "onboard_time": 1667620407,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395840,
       "num": 266981,
       "word": "Lisa成为iTunes最多一位女歌手",
@@ -235,8 +251,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376811,
-      "num": 376811,
+      "raw_hot": 382521,
+      "num": 382521,
       "word": "王楚钦2比3魏世皓",
       "onboard_time": 1667622148,
       "rank": 28,
@@ -251,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374286,
-      "num": 374286,
-      "word": "地铁男子辱骂拳打女子被大哥制止",
-      "onboard_time": 1667620407,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367821,
       "num": 367821,
       "word": "多地中学老师遭网课爆破",
       "onboard_time": 1667612669,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362057,
+      "num": 362057,
+      "word": "举报者谈张庭涉传销案听证会",
+      "onboard_time": 1667621366,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 339517,
@@ -355,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274674,
-      "num": 274674,
-      "word": "马斯克现在每天工作17小时",
-      "onboard_time": 1667621307,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 269144,
       "num": 269144,
       "word": "黄小蕾女儿杂志首封",
@@ -401,6 +409,14 @@
       "onboard_time": 1667567551,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251802,
+      "num": 251802,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249512,
@@ -483,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222312,
+      "num": 222312,
+      "word": "刺猬被人用绳绑死结勒脖烂肉",
+      "onboard_time": 1667623829,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219076,
       "num": 219076,
       "word": "高校绝美女外教酷似电影女主走红",
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190281,
+      "num": 190281,
+      "word": "路人举着红地毯警示后车有人摔倒",
+      "onboard_time": 1667621487,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 188351,
       "num": 188351,
       "word": "明星金鹰节红毯造型",
@@ -595,19 +627,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168894,
-      "num": 168894,
-      "word": "Mike没成团",
-      "onboard_time": 1667622639,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168882,
       "num": 168882,
       "word": "11月4日新增本土无症状3063例",
       "onboard_time": 1667614409,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166587,
+      "num": 166587,
+      "word": "西班牙美女活火山送快递",
+      "onboard_time": 1667623589,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145939,
-      "num": 145939,
-      "word": "路人举着红地毯警示后车有人摔倒",
-      "onboard_time": 1667621487,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 145407,
       "num": 145407,
       "word": "鄂尔多斯防疫通告为何刷屏",
@@ -723,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142962,
+      "num": 142962,
+      "word": "鹿晗新歌预告",
+      "onboard_time": 1667625268,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141056,
       "num": 141056,
       "word": "篮网42分大胜奇才",
       "onboard_time": 1667613629,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139001,
+      "num": 139001,
+      "word": "警方通报救护车坐地起价",
+      "onboard_time": 1667624367,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135219,
@@ -747,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128431,
-      "num": 128431,
-      "word": "举报者谈张庭涉传销案听证会",
-      "onboard_time": 1667621366,
-      "rank": 34,
-      "category": "社会新闻,艺人"
+      "raw_hot": 128453,
+      "num": 128453,
+      "word": "有一个暖男弟弟是什么体验",
+      "onboard_time": 1667622988,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127248,
@@ -760,6 +800,14 @@
       "word": "谢谢你医生台词",
       "onboard_time": 1667620288,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126976,
+      "num": 126976,
+      "word": "与凤行镜头美学",
+      "onboard_time": 1667622928,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -777,6 +825,22 @@
       "onboard_time": 1667566169,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124031,
+      "num": 124031,
+      "word": "成人高考",
+      "onboard_time": 1667625028,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 122479,
+      "num": 122479,
+      "word": "杨幂新剧的演技",
+      "onboard_time": 1667624426,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 122101,
@@ -811,19 +875,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119334,
+      "num": 336765,
+      "word": "10岁男孩摇1米药匾帮父母制药丸",
+      "onboard_time": 1667623046,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119037,
       "num": 119037,
       "word": "武汉为世界首座人口超千万湿地城市",
       "onboard_time": 1667562448,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114537,
-      "num": 114537,
-      "word": "西班牙美女活火山送快递",
-      "onboard_time": 1667623589,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -843,19 +907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107070,
-      "num": 107070,
-      "word": "与凤行镜头美学",
-      "onboard_time": 1667622928,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 104527,
-      "num": 108454,
-      "word": "有一个暖男弟弟是什么体验",
-      "onboard_time": 1667622988,
-      "rank": 44,
+      "raw_hot": 108089,
+      "num": 108089,
+      "word": "北京餐饮行业从业人员一天一检",
+      "onboard_time": 1667625208,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -915,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98229,
+      "num": 98229,
+      "word": "一个视频感受故宫之秋",
+      "onboard_time": 1667624802,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97349,
       "num": 97349,
       "word": "仿佛看到我的精神状态",
@@ -945,6 +1009,22 @@
       "onboard_time": 1667614409,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91992,
+      "num": 91992,
+      "word": "威少连续三分",
+      "onboard_time": 1667625146,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91870,
+      "num": 91870,
+      "word": "陈飞宇李峋被专有名词支配",
+      "onboard_time": 1667625507,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 88868,
@@ -984,6 +1064,14 @@
       "word": "中国的古人也吃方便面",
       "onboard_time": 1667571932,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74012,
+      "num": 123062,
+      "word": "双11快递包装可换鸡蛋",
+      "onboard_time": 1667624426,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1035,20 +1123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40999,
-      "num": 336765,
-      "word": "10岁男孩摇1米药匾帮父母制药丸",
-      "onboard_time": 1667623046,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36085,
       "num": 36085,
       "word": "杨幂新剧落泪镜头",
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34852,
+      "num": 343027,
+      "word": "少年遇路人接听诈骗电话果断报警",
+      "onboard_time": 1667624426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32134,
