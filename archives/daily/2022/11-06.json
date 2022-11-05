@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667680759086,
+  "endTime": 1667683114553,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -443,7 +443,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 12740,
+      "raw_hot": 14320,
       "num": 15434,
       "word": "多个平台对网课爆破已有应对措施",
       "onboard_time": 1667673676,
@@ -473,6 +473,14 @@
       "onboard_time": 1667676912,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8844,
+      "num": 8844,
+      "word": "让你下定决心分手的理由",
+      "onboard_time": 1667682671,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 8136,

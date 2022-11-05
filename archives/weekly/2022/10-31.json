@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667680759086,
+  "endTime": 1667683114553,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -11827,6 +11827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14320,
+      "num": 15434,
+      "word": "多个平台对网课爆破已有应对措施",
+      "onboard_time": 1667673676,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14208,
       "num": 14208,
       "word": "武磊6场7球",
@@ -11849,14 +11857,6 @@
       "onboard_time": 1667593511,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12740,
-      "num": 15434,
-      "word": "多个平台对网课爆破已有应对措施",
-      "onboard_time": 1667673676,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12309,
@@ -11913,6 +11913,14 @@
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 8844,
+      "num": 8844,
+      "word": "让你下定决心分手的理由",
+      "onboard_time": 1667682671,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 8139,
