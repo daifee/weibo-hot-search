@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667672760153,
+  "endTime": 1667673709583,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103385,
+      "num": 73539,
+      "word": "人民网评网课爆破早该被爆破",
+      "onboard_time": 1667670556,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 93746,
       "num": 93746,
       "word": "小狗也会孤独吗",
@@ -337,14 +345,6 @@
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82903,
-      "num": 36926,
-      "word": "人民网评网课爆破早该被爆破",
-      "onboard_time": 1667670556,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 77395,
@@ -435,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15474,
+      "num": 15474,
+      "word": "谁是你心目中的冷脸神颜",
+      "onboard_time": 1667672235,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12371,
       "num": 863964,
       "word": "中国国际进口博览会",
       "onboard_time": 1667627065,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11692,
+      "num": 15434,
+      "word": "多个平台对网课爆破已有应对措施",
+      "onboard_time": 1667673676,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
