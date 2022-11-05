@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667620172055,
+  "endTime": 1667620837821,
   "band_list": [
     {
       "raw_hot": 2702343,
@@ -35,6 +35,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1511110,
+      "num": 1511110,
+      "word": "办案民警答物业为何几十分钟后才开门",
+      "onboard_time": 1667616508,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351742,
       "num": 1351742,
       "word": "广州海珠严格控制人员流动",
@@ -48,14 +56,6 @@
       "word": "42岁女子离婚后坚持健身年轻20岁",
       "onboard_time": 1667610150,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229284,
-      "num": 1229284,
-      "word": "办案民警答物业为何几十分钟后才开门",
-      "onboard_time": 1667616508,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -81,6 +81,14 @@
       "onboard_time": 1667582660,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835898,
+      "num": 835898,
+      "word": "你好星期六好六街新店开业",
+      "onboard_time": 1667619928,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 816145,
@@ -139,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550894,
-      "num": 550894,
+      "raw_hot": 556815,
+      "num": 556815,
       "word": "蔡文静彭冠英床戏花絮",
       "onboard_time": 1667616987,
       "rank": 6,
@@ -179,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464671,
-      "num": 464671,
-      "word": "你好星期六好六街新店开业",
-      "onboard_time": 1667619928,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451927,
       "num": 451927,
       "word": "青岛疫情防控",
@@ -200,6 +200,14 @@
       "word": "央行副行长范一飞被查",
       "onboard_time": 1667615789,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408251,
+      "num": 408251,
+      "word": "不要乱抠鼻子",
+      "onboard_time": 1667618366,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343853,
-      "num": 343853,
-      "word": "不要乱抠鼻子",
-      "onboard_time": 1667618366,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339517,
       "num": 130442,
       "word": "汪涵金鹰节发型",
       "onboard_time": 1667567250,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335744,
+      "num": 335744,
+      "word": "酒店工作人员把沙发烫坏处缝成银杏",
+      "onboard_time": 1667613449,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334949,
@@ -283,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298451,
-      "num": 298451,
-      "word": "酒店工作人员把沙发烫坏处缝成银杏",
-      "onboard_time": 1667613449,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290502,
       "num": 262417,
       "word": "杰尼斯",
@@ -304,6 +304,14 @@
       "word": "中山女子每天去澳门上班通勤3小时",
       "onboard_time": 1667603962,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287975,
+      "num": 287975,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252744,
+      "num": 252744,
+      "word": "赵丽颖新剧眼神戏",
+      "onboard_time": 1667620705,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249512,
       "num": 249512,
       "word": "四肢全无半截人靠嘴养鸡养鸭谋生",
@@ -379,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242744,
-      "num": 242744,
+      "raw_hot": 242957,
+      "num": 242957,
       "word": "中科院院士杨叔子逝世",
       "onboard_time": 1667615430,
       "rank": 44,
@@ -483,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193064,
-      "num": 193064,
-      "word": "95后男孩苦练上万次飞针采血",
-      "onboard_time": 1667618908,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 191664,
+      "num": 184850,
+      "word": "Mike披荆斩棘没有成团",
+      "onboard_time": 1667617468,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190767,
@@ -521,14 +537,6 @@
       "onboard_time": 1667604321,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172945,
-      "num": 166690,
-      "word": "Mike披荆斩棘没有成团",
-      "onboard_time": 1667617468,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 172140,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145140,
+      "num": 145140,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141056,
       "num": 141056,
       "word": "篮网42分大胜奇才",
@@ -643,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137062,
-      "num": 137062,
-      "word": "爵士vs湖人",
-      "onboard_time": 1667618488,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 140193,
+      "num": 140193,
+      "word": "与凤行宿命感",
+      "onboard_time": 1667620588,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 135219,
@@ -665,6 +681,14 @@
       "onboard_time": 1667553388,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127248,
+      "num": 106275,
+      "word": "谢谢你医生台词",
+      "onboard_time": 1667620288,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 125587,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109093,
+      "num": 109093,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "王楚钦2比3郑培锋",
@@ -771,16 +803,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101928,
-      "num": 101928,
-      "word": "流浪猫蹲办公楼等男子下班投喂",
-      "onboard_time": 1667618966,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96866,
-      "num": 96866,
+      "raw_hot": 100756,
+      "num": 100756,
       "word": "陈飞宇张婧仪壁咚花絮视频",
       "onboard_time": 1667616628,
       "rank": 41,
@@ -811,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89830,
+      "num": 89830,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667620588,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88868,
       "num": 88868,
       "word": "今年或将迎来本世纪首个三重拉尼娜",
       "onboard_time": 1667557950,
       "rank": 44,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 84630,
+      "num": 84630,
+      "word": "世界大赛夺冠打不赢全国锦标赛",
+      "onboard_time": 1667620647,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 83359,
@@ -849,6 +889,14 @@
       "onboard_time": 1667569350,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71787,
+      "num": 72351,
+      "word": "女子为吸粉马路中间跳舞拍抖音",
+      "onboard_time": 1667620827,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65669,
