@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667679921273,
+  "endTime": 1667680759086,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -10067,19 +10067,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12740,
+      "num": 15434,
+      "word": "多个平台对网课爆破已有应对措施",
+      "onboard_time": 1667673676,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12309,
       "num": 12309,
       "word": "和雪豹对视是什么体验",
       "onboard_time": 1667509151,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11692,
-      "num": 15434,
-      "word": "多个平台对网课爆破已有应对措施",
-      "onboard_time": 1667673676,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -10115,20 +10115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9618,
+      "num": 9618,
+      "word": "张益唐完成零点猜想论文",
+      "onboard_time": 1667676912,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9220,
       "num": 9740,
       "word": "零下三度退役军人冲进湖中救人",
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 8968,
-      "num": 8968,
-      "word": "张益唐完成零点猜想论文",
-      "onboard_time": 1667676912,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 8139,
