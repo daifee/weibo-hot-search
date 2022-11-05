@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667620837821,
+  "endTime": 1667622695984,
   "band_list": [
     {
       "raw_hot": 2702343,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2086123,
+      "num": 1511110,
+      "word": "办案民警答物业为何几十分钟后才开门",
+      "onboard_time": 1667616508,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1882132,
       "num": 294006,
       "word": "呼和浩特疫情防控",
@@ -33,14 +41,6 @@
       "onboard_time": 1667612070,
       "rank": 1,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1511110,
-      "num": 1511110,
-      "word": "办案民警答物业为何几十分钟后才开门",
-      "onboard_time": 1667616508,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351742,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 835898,
-      "num": 835898,
+      "raw_hot": 843466,
+      "num": 843466,
       "word": "你好星期六好六街新店开业",
       "onboard_time": 1667619928,
       "rank": 8,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620617,
+      "num": 620617,
+      "word": "不要乱抠鼻子",
+      "onboard_time": 1667618366,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577823,
       "num": 577823,
       "word": "男子因楼上女子剁鸡找上门对骂",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505150,
+      "num": 505150,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479716,
       "num": 479716,
       "word": "多家茶饮品牌联合抵制外卖满减",
@@ -200,14 +216,6 @@
       "word": "央行副行长范一飞被查",
       "onboard_time": 1667615789,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408251,
-      "num": 408251,
-      "word": "不要乱抠鼻子",
-      "onboard_time": 1667618366,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287975,
-      "num": 287975,
-      "word": "95后男孩苦练上万次飞针采血",
-      "onboard_time": 1667618908,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280769,
       "num": 280769,
       "word": "河南疾控发布健康风险提示",
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263506,
+      "num": 263506,
+      "word": "赵丽颖新剧眼神戏",
+      "onboard_time": 1667620705,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261331,
       "num": 261331,
       "word": "湖人无意为欧文提供长约",
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252744,
-      "num": 252744,
-      "word": "赵丽颖新剧眼神戏",
-      "onboard_time": 1667620705,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 249639,
+      "num": 249639,
+      "word": "地铁男子辱骂拳打女子被大哥制止",
+      "onboard_time": 1667620407,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249512,
@@ -385,6 +393,14 @@
       "onboard_time": 1667586195,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248942,
+      "num": 248942,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667620588,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 245691,
@@ -587,12 +603,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158725,
+      "num": 158725,
+      "word": "与凤行宿命感",
+      "onboard_time": 1667620588,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157802,
       "num": 157802,
       "word": "羽生结弦冰演",
       "onboard_time": 1667577689,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157027,
+      "num": 157027,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156381,
+      "num": 156381,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 149909,
@@ -643,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145140,
-      "num": 145140,
-      "word": "爵士vs湖人",
-      "onboard_time": 1667618488,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141056,
       "num": 141056,
       "word": "篮网42分大胜奇才",
@@ -659,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140193,
-      "num": 140193,
-      "word": "与凤行宿命感",
-      "onboard_time": 1667620588,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "王楚钦2比3魏世皓",
+      "onboard_time": 1667622148,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 135219,
@@ -683,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 127248,
       "num": 106275,
       "word": "谢谢你医生台词",
       "onboard_time": 1667620288,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125828,
+      "num": 125828,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125587,
@@ -747,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109093,
-      "num": 109093,
-      "word": "流浪猫蹲办公楼等男子下班投喂",
-      "onboard_time": 1667618966,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 108333,
+      "num": 108333,
+      "word": "舒淇也没逃过刘波",
+      "onboard_time": 1667621848,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108264,
@@ -803,12 +851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101494,
+      "num": 101494,
+      "word": "医生请假为4岁男童捐造血干细胞",
+      "onboard_time": 1667622568,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100756,
       "num": 100756,
       "word": "陈飞宇张婧仪壁咚花絮视频",
       "onboard_time": 1667616628,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97349,
+      "num": 97349,
+      "word": "仿佛看到我的精神状态",
+      "onboard_time": 1667622628,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 95772,
@@ -835,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89830,
-      "num": 89830,
-      "word": "2022全国乒乓球锦标赛",
-      "onboard_time": 1667620588,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 91903,
+      "num": 91903,
+      "word": "路人举着红地毯警示后车有人摔倒",
+      "onboard_time": 1667621487,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 88868,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667620837821,
+  "endTime": 1667622695984,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -176,6 +176,14 @@
       "word": "多家核酸检测企业应收账款超净利润",
       "onboard_time": 1667456724,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2086123,
+      "num": 1511110,
+      "word": "办案民警答物业为何几十分钟后才开门",
+      "onboard_time": 1667616508,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -440,14 +448,6 @@
       "word": "韩国踩踏事故前4小时不断有人报警",
       "onboard_time": 1667409976,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1511110,
-      "num": 1511110,
-      "word": "办案民警答物业为何几十分钟后才开门",
-      "onboard_time": 1667616508,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843466,
+      "num": 843466,
+      "word": "你好星期六好六街新店开业",
+      "onboard_time": 1667619928,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841193,
       "num": 841193,
       "word": "妻子连续1年为夜班丈夫做盲盒便当",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1667533345,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 835898,
-      "num": 835898,
-      "word": "你好星期六好六街新店开业",
-      "onboard_time": 1667619928,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 828335,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1667559870,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 620617,
+      "num": 620617,
+      "word": "不要乱抠鼻子",
+      "onboard_time": 1667618366,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620438,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1667221466,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505150,
+      "num": 505150,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503762,
@@ -3305,14 +3321,6 @@
       "onboard_time": 1667177849,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 408251,
-      "num": 408251,
-      "word": "不要乱抠鼻子",
-      "onboard_time": 1667618366,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407802,
@@ -4515,14 +4523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287975,
-      "num": 287975,
-      "word": "95后男孩苦练上万次飞针采血",
-      "onboard_time": 1667618908,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287934,
       "num": 287934,
       "word": "LV成立首只人民币基金",
@@ -4931,6 +4931,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 263506,
+      "num": 263506,
+      "word": "赵丽颖新剧眼神戏",
+      "onboard_time": 1667620705,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263114,
       "num": 263114,
       "word": "小狗连吧唧嘴都那么可爱",
@@ -5083,14 +5091,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 252744,
-      "num": 252744,
-      "word": "赵丽颖新剧眼神戏",
-      "onboard_time": 1667620705,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "第一次见猫咪逗人玩",
@@ -5123,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249639,
+      "num": 249639,
+      "word": "地铁男子辱骂拳打女子被大哥制止",
+      "onboard_time": 1667620407,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249582,
       "num": 249582,
       "word": "俞敏洪称上大学不仅是为找工作",
@@ -5145,6 +5153,14 @@
       "onboard_time": 1667375606,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 248942,
+      "num": 248942,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667373446,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 248808,
@@ -6539,14 +6555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174079,
-      "num": 174079,
-      "word": "2022全国乒乓球锦标赛",
-      "onboard_time": 1667373446,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173697,
       "num": 173697,
       "word": "郭晓婷魏哲鸣狐妖小红娘结婚路透",
@@ -6931,6 +6939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158725,
+      "num": 158725,
+      "word": "与凤行宿命感",
+      "onboard_time": 1667620588,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "朱婷上场",
@@ -6987,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157027,
+      "num": 157027,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156910,
       "num": 145022,
       "word": "北京市门头沟新增1例阳性",
@@ -7008,6 +7032,14 @@
       "word": "刘震云点评",
       "onboard_time": 1667317292,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156381,
+      "num": 156381,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -7307,14 +7339,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 145140,
-      "num": 145140,
-      "word": "爵士vs湖人",
-      "onboard_time": 1667618488,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144522,
       "num": 144522,
       "word": "披荆斩棘1111智趣新潮夜",
@@ -7435,6 +7459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "王楚钦2比3魏世皓",
+      "onboard_time": 1667622148,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140218,
       "num": 140218,
       "word": "一条plog告别十月",
@@ -7449,14 +7481,6 @@
       "onboard_time": 1667190507,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140193,
-      "num": 140193,
-      "word": "与凤行宿命感",
-      "onboard_time": 1667620588,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 139120,
@@ -7771,6 +7795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 130058,
       "num": 86314,
       "word": "陈飞宇新剧怼脸镜头",
@@ -7905,6 +7937,14 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125828,
+      "num": 125828,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125587,
@@ -8355,14 +8395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109093,
-      "num": 109093,
-      "word": "流浪猫蹲办公楼等男子下班投喂",
-      "onboard_time": 1667618966,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108870,
       "num": 97047,
       "word": "李荣浩晒自学画画第九天作品",
@@ -8385,6 +8417,14 @@
       "onboard_time": 1667384367,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108333,
+      "num": 108333,
+      "word": "舒淇也没逃过刘波",
+      "onboard_time": 1667621848,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108219,
@@ -8619,6 +8659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101494,
+      "num": 101494,
+      "word": "医生请假为4岁男童捐造血干细胞",
+      "onboard_time": 1667622568,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101186,
       "num": 101186,
       "word": "王嘉尔现身S12媒体日",
@@ -8745,6 +8793,14 @@
       "onboard_time": 1667252890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97349,
+      "num": 97349,
+      "word": "仿佛看到我的精神状态",
+      "onboard_time": 1667622628,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97047,
@@ -8945,6 +9001,14 @@
       "onboard_time": 1667457528,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91903,
+      "num": 91903,
+      "word": "路人举着红地毯警示后车有人摔倒",
+      "onboard_time": 1667621487,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 91805,
