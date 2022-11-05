@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667683114553,
+  "endTime": 1667684126473,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -443,12 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14320,
+      "raw_hot": 14714,
       "num": 15434,
       "word": "多个平台对网课爆破已有应对措施",
       "onboard_time": 1667673676,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14020,
+      "num": 14020,
+      "word": "让你下定决心分手的理由",
+      "onboard_time": 1667682671,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 12371,
@@ -475,12 +483,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 8844,
-      "num": 8844,
-      "word": "让你下定决心分手的理由",
-      "onboard_time": 1667682671,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 8774,
+      "num": 8774,
+      "word": "鹤岗线上找房热度上涨近10倍",
+      "onboard_time": 1667683751,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 8614,
+      "num": 8614,
+      "word": "中国航展战车方阵即将亮相",
+      "onboard_time": 1667683212,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8136,
