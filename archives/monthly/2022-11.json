@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667625547031,
+  "endTime": 1667626573489,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1882132,
-      "num": 294006,
+      "num": 314217,
       "word": "呼和浩特疫情防控",
       "onboard_time": 1667578766,
       "rank": 12,
@@ -1555,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640825,
+      "num": 640825,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 636312,
       "num": 636312,
       "word": "3200多名南侨机工已全部离世",
@@ -2067,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513718,
-      "num": 513718,
-      "word": "马斯克现在每天工作17小时",
-      "onboard_time": 1667621307,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 513235,
       "num": 513235,
       "word": "主人生娃后猫咪患上抑郁症",
@@ -2089,6 +2089,14 @@
       "onboard_time": 1667451090,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511511,
+      "num": 511511,
+      "word": "举报者谈张庭涉传销案听证会",
+      "onboard_time": 1667621366,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 510029,
@@ -2971,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380372,
+      "num": 359166,
+      "word": "刺猬被人用绳绑死结勒脖烂肉",
+      "onboard_time": 1667623829,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379196,
       "num": 379196,
       "word": "男生树下刚抬头就掉下柿子砸嘴里",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1667436086,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362057,
-      "num": 362057,
-      "word": "举报者谈张庭涉传销案听证会",
-      "onboard_time": 1667621366,
-      "rank": 34,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 360439,
@@ -3891,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277871,
+      "num": 277871,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277735,
       "num": 277735,
       "word": "范世錡确信自己在哥哥没wink过",
@@ -4251,12 +4267,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 251802,
-      "num": 251802,
-      "word": "Mike没成团",
-      "onboard_time": 1667622639,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 251001,
+      "num": 251001,
+      "word": "警方通报救护车坐地起价",
+      "onboard_time": 1667624367,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250739,
@@ -4601,14 +4617,6 @@
       "onboard_time": 1667269706,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 222312,
-      "num": 222312,
-      "word": "刺猬被人用绳绑死结勒脖烂肉",
-      "onboard_time": 1667623829,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222243,
@@ -5083,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195701,
+      "num": 195701,
+      "word": "西班牙美女活火山送快递",
+      "onboard_time": 1667623589,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195659,
       "num": 195659,
       "word": "把代码写进了狗狗的衣服里",
@@ -5113,6 +5129,14 @@
       "onboard_time": 1667407100,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194662,
+      "num": 194662,
+      "word": "成人高考",
+      "onboard_time": 1667625028,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 194648,
@@ -5451,6 +5475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172937,
+      "num": 336765,
+      "word": "10岁男孩摇1米药匾帮父母制药丸",
+      "onboard_time": 1667623046,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172680,
       "num": 172680,
       "word": "这小夜灯也太哦耶了",
@@ -5531,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167628,
+      "num": 167628,
+      "word": "杨幂新剧的演技",
+      "onboard_time": 1667624426,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167221,
       "num": 143419,
       "word": "北京顺义社会面筛查2例感染者",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1667289387,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 166587,
-      "num": 166587,
-      "word": "西班牙美女活火山送快递",
-      "onboard_time": 1667623589,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166323,
@@ -6219,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140021,
+      "num": 140021,
+      "word": "北京餐饮行业从业人员一天一检",
+      "onboard_time": 1667625208,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139120,
       "num": 139120,
       "word": "这钢化膜到底好还是不好",
@@ -6227,12 +6267,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139001,
-      "num": 139001,
-      "word": "警方通报救护车坐地起价",
-      "onboard_time": 1667624367,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 138965,
+      "num": 138965,
+      "word": "羽生结弦",
+      "onboard_time": 1667626226,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 138214,
@@ -6651,14 +6691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124031,
-      "num": 124031,
-      "word": "成人高考",
-      "onboard_time": 1667625028,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123340,
       "num": 88890,
       "word": "欢颜",
@@ -6687,14 +6719,6 @@
       "num": 89181,
       "word": "陈飞宇张婧仪新剧校园情侣打闹",
       "onboard_time": 1667307447,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 122479,
-      "num": 122479,
-      "word": "杨幂新剧的演技",
-      "onboard_time": 1667624426,
       "rank": 40,
       "category": "影视"
     },
@@ -6787,14 +6811,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 119334,
-      "num": 336765,
-      "word": "10岁男孩摇1米药匾帮父母制药丸",
-      "onboard_time": 1667623046,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119243,
       "num": 119243,
       "word": "103岁中医为村民免费看病80载",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1667290889,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116245,
+      "num": 116245,
+      "word": "湖人不敌爵士",
+      "onboard_time": 1667626347,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115951,
@@ -7035,14 +7059,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 108089,
-      "num": 108089,
-      "word": "北京餐饮行业从业人员一天一检",
-      "onboard_time": 1667625208,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108038,
       "num": 108038,
       "word": "内蒙一男子滑冰上班",
@@ -7193,6 +7209,14 @@
       "onboard_time": 1667544629,
       "rank": 35,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 102723,
+      "num": 123062,
+      "word": "双11快递包装可换鸡蛋",
+      "onboard_time": 1667624426,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102694,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1667547090,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93501,
+      "num": 93501,
+      "word": "1岁多宝宝内心戏堪比影帝",
+      "onboard_time": 1667626408,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93337,
@@ -7843,6 +7875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82441,
+      "num": 82441,
+      "word": "粘鼠板印满坚果图给老鼠画大饼",
+      "onboard_time": 1667626286,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82329,
       "num": 82329,
       "word": "深秋的湖水边美得像梦境",
@@ -8009,14 +8049,6 @@
       "onboard_time": 1667559388,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 74012,
-      "num": 123062,
-      "word": "双11快递包装可换鸡蛋",
-      "onboard_time": 1667624426,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73595,
@@ -8201,6 +8233,14 @@
       "onboard_time": 1667551890,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 65860,
+      "num": 343027,
+      "word": "少年遇路人接听诈骗电话果断报警",
+      "onboard_time": 1667624426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65846,
@@ -8641,14 +8681,6 @@
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 34852,
-      "num": 343027,
-      "word": "少年遇路人接听诈骗电话果断报警",
-      "onboard_time": 1667624426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31663,
