@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667687854099,
+  "endTime": 1667690588381,
   "band_list": [
     {
       "raw_hot": 934837,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173826,
+      "num": 173826,
+      "word": "减肥操跳出了一种很新的感觉",
+      "onboard_time": 1667660968,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158865,
       "num": 137550,
       "word": "打火机与公主裙 甜",
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134527,
-      "num": 134527,
-      "word": "减肥操跳出了一种很新的感觉",
-      "onboard_time": 1667660968,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133423,
       "num": 133423,
       "word": "范丞丞重新定义剪平头",
@@ -217,6 +217,14 @@
       "onboard_time": 1667644405,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127615,
+      "num": 127615,
+      "word": "人民网评网课爆破早该被爆破",
+      "onboard_time": 1667670556,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 127485,
@@ -243,14 +251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118353,
-      "num": 73539,
-      "word": "人民网评网课爆破早该被爆破",
-      "onboard_time": 1667670556,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 117925,
       "num": 117925,
       "word": "广州面临三年来最复杂严峻疫情",
@@ -259,12 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112920,
-      "num": 112920,
+      "raw_hot": 116351,
+      "num": 116351,
       "word": "江苏一教师因学生默不出古诗猛扇其耳光",
       "onboard_time": 1667651367,
       "rank": 29,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 111640,
+      "num": 111640,
+      "word": "S12决赛传奇对决",
+      "onboard_time": 1667687232,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 111467,
@@ -305,6 +313,14 @@
       "onboard_time": 1667645907,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100095,
+      "num": 100095,
+      "word": "鹤岗线上找房热度上涨近10倍",
+      "onboard_time": 1667683751,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 93746,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70035,
+      "num": 70035,
+      "word": "让你下定决心分手的理由",
+      "onboard_time": 1667682671,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68728,
       "num": 66111,
       "word": "特斯拉人形机器人首次在国内亮相",
@@ -411,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52437,
-      "num": 52437,
-      "word": "让你下定决心分手的理由",
-      "onboard_time": 1667682671,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 46230,
+      "num": 46230,
+      "word": "多个平台对网课爆破已有应对措施",
+      "onboard_time": 1667673676,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 48089,
-      "num": 48089,
-      "word": "鹤岗线上找房热度上涨近10倍",
-      "onboard_time": 1667683751,
-      "rank": 44,
-      "category": "财经,社会新闻"
+      "raw_hot": 43842,
+      "num": 43842,
+      "word": "小狗期单恋",
+      "onboard_time": 1667689395,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 36962,
@@ -433,6 +457,14 @@
       "onboard_time": 1667655687,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34558,
+      "num": 34558,
+      "word": "王鹤棣工作室星期六出图",
+      "onboard_time": 1667645546,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32725,
@@ -451,12 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26485,
-      "num": 26485,
-      "word": "多个平台对网课爆破已有应对措施",
-      "onboard_time": 1667673676,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 28501,
+      "num": 28501,
+      "word": "中国航展战车方阵即将亮相",
+      "onboard_time": 1667683212,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 24965,
+      "num": 24965,
+      "word": "北京校园里的浪漫秋景",
+      "onboard_time": 1667689275,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 24330,
+      "num": 24330,
+      "word": "彩虹家族将首次全谱系亮相中国航展",
+      "onboard_time": 1667689395,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 18600,
@@ -465,22 +513,6 @@
       "onboard_time": 1667672235,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18200,
-      "num": 18200,
-      "word": "S12决赛传奇对决",
-      "onboard_time": 1667687232,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 13053,
-      "num": 13053,
-      "word": "中国航展战车方阵即将亮相",
-      "onboard_time": 1667683212,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 12371,
