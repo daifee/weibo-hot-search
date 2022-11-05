@@ -1,0 +1,410 @@
+{
+  "runTime": 1667623726824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013252,
+        "num": 1013252,
+        "word": "记者卧底网课爆破群",
+        "onboard_time": 1667612070,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 711826,
+        "num": 711826,
+        "word": "你好星期六好六街新店开业",
+        "onboard_time": 1667619928,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 686878,
+        "word": "2022进博会现场高清大图",
+        "onboard_time": 1667566290,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 684833,
+        "num": 684833,
+        "word": "42岁女子离婚后坚持健身年轻20岁",
+        "onboard_time": 1667610150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625714,
+        "num": 625714,
+        "word": "不要乱抠鼻子",
+        "onboard_time": 1667618366,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2327268,
+        "num": 587371,
+        "word": "警方通报呼和浩特一女子坠亡",
+        "onboard_time": 1667605342,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2072702,
+        "num": 581087,
+        "word": "办案民警答物业为何几十分钟后才开门",
+        "onboard_time": 1667616508,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543374,
+        "num": 543374,
+        "word": "95后男孩苦练上万次飞针采血",
+        "onboard_time": 1667618908,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415376,
+        "num": 415376,
+        "word": "当一个女人决定退鞋",
+        "onboard_time": 1667609849,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397331,
+        "num": 397331,
+        "word": "25岁小伙长期挖鼻孔形成血管瘤",
+        "onboard_time": 1667606785,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451474,
+        "num": 392189,
+        "word": "呼和浩特兴光A9",
+        "onboard_time": 1667604321,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376811,
+        "num": 376811,
+        "word": "王楚钦2比3魏世皓",
+        "onboard_time": 1667622148,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374286,
+        "num": 374286,
+        "word": "地铁男子辱骂拳打女子被大哥制止",
+        "onboard_time": 1667620407,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338855,
+        "num": 338855,
+        "word": "男子因楼上女子剁鸡找上门对骂",
+        "onboard_time": 1667612248,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40999,
+        "num": 336765,
+        "word": "10岁男孩摇1米药匾帮父母制药丸",
+        "onboard_time": 1667623046,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336701,
+        "num": 336701,
+        "word": "蔡文静彭冠英床戏花絮",
+        "onboard_time": 1667616987,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284983,
+        "num": 284983,
+        "word": "复仇者联盟4首播收视第一",
+        "onboard_time": 1667613271,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283186,
+        "num": 283186,
+        "word": "酒店工作人员把沙发烫坏处缝成银杏",
+        "onboard_time": 1667613449,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274674,
+        "num": 274674,
+        "word": "马斯克现在每天工作17小时",
+        "onboard_time": 1667621307,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 268689,
+        "num": 268689,
+        "word": "刘波er",
+        "onboard_time": 1667612308,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263226,
+        "num": 263226,
+        "word": "赵丽颖新剧眼神戏",
+        "onboard_time": 1667620705,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247391,
+        "num": 247391,
+        "word": "央行副行长范一飞被查",
+        "onboard_time": 1667615789,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215070,
+        "num": 215070,
+        "word": "多地中学老师遭网课爆破",
+        "onboard_time": 1667612669,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210930,
+        "num": 210930,
+        "word": "杨幂白宇片场打赌台词一条过",
+        "onboard_time": 1667623646,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191738,
+        "num": 191738,
+        "word": "耐克暂停与欧文合作",
+        "onboard_time": 1667611050,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 175850,
+        "word": "呼和浩特疫情防控",
+        "onboard_time": 1667578766,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172180,
+        "num": 172180,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1667620588,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168894,
+        "num": 168894,
+        "word": "Mike没成团",
+        "onboard_time": 1667622639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161309,
+        "num": 161309,
+        "word": "爵士vs湖人",
+        "onboard_time": 1667618488,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "流浪猫蹲办公楼等男子下班投喂",
+        "onboard_time": 1667618966,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145939,
+        "num": 145939,
+        "word": "路人举着红地毯警示后车有人摔倒",
+        "onboard_time": 1667621487,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 142275,
+        "word": "警方通报冷水滩餐饮店女子被打事件",
+        "onboard_time": 1667609248,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133527,
+        "num": 133527,
+        "word": "王源说真的有分身",
+        "onboard_time": 1667618668,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132444,
+        "num": 132444,
+        "word": "与凤行宿命感",
+        "onboard_time": 1667620588,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128431,
+        "num": 128431,
+        "word": "举报者谈张庭涉传销案听证会",
+        "onboard_time": 1667621366,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 118384,
+        "word": "女佣起诉全球首富贝索斯非人待遇",
+        "onboard_time": 1667608888,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116915,
+        "num": 116915,
+        "word": "福州不再公布无症状感染者流调",
+        "onboard_time": 1667582660,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116361,
+        "num": 116361,
+        "word": "李峋的第一个绯闻女友是任迪",
+        "onboard_time": 1667615969,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115548,
+        "num": 115548,
+        "word": "金赛纶因酒驾赔偿花光积蓄",
+        "onboard_time": 1667604740,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 114537,
+        "word": "西班牙美女活火山送快递",
+        "onboard_time": 1667623589,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114593,
+        "num": 114401,
+        "word": "黄小蕾女儿杂志首封",
+        "onboard_time": 1667614409,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110898,
+        "num": 110898,
+        "word": "11月4日新增本土无症状3063例",
+        "onboard_time": 1667614409,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109790,
+        "num": 109790,
+        "word": "李承铉戚薇二胎叫seven",
+        "onboard_time": 1667574873,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109531,
+        "num": 109531,
+        "word": "中科院院士杨叔子逝世",
+        "onboard_time": 1667615430,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104527,
+        "num": 108454,
+        "word": "有一个暖男弟弟是什么体验",
+        "onboard_time": 1667622988,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107787,
+        "num": 107787,
+        "word": "北京昨增5例社会面筛查人员",
+        "onboard_time": 1667608648,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107070,
+        "num": 107070,
+        "word": "与凤行镜头美学",
+        "onboard_time": 1667622928,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105514,
+        "num": 105514,
+        "word": "湖人无意为欧文提供长约",
+        "onboard_time": 1667614049,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100594,
+        "num": 100594,
+        "word": "中山女子每天去澳门上班通勤3小时",
+        "onboard_time": 1667603962,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95434,
+        "num": 95434,
+        "word": "猫猫有多喜欢躲猫猫",
+        "onboard_time": 1667613749,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#在变局乱局中更应携手合作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667622695984,
+  "endTime": 1667623726824,
   "band_list": [
     {
       "raw_hot": 2702343,
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 620617,
-      "num": 620617,
+      "raw_hot": 625714,
+      "num": 625714,
       "word": "不要乱抠鼻子",
       "onboard_time": 1667618366,
       "rank": 13,
@@ -171,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543374,
+      "num": 543374,
+      "word": "95后男孩苦练上万次飞针采血",
+      "onboard_time": 1667618908,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531424,
       "num": 531424,
       "word": "当一个女人决定退鞋",
       "onboard_time": 1667609849,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505150,
-      "num": 505150,
-      "word": "95后男孩苦练上万次飞针采血",
-      "onboard_time": 1667618908,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479716,
@@ -235,11 +235,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376811,
+      "num": 376811,
+      "word": "王楚钦2比3魏世皓",
+      "onboard_time": 1667622148,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375567,
       "num": 375567,
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
       "onboard_time": 1667569710,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374286,
+      "num": 374286,
+      "word": "地铁男子辱骂拳打女子被大哥制止",
+      "onboard_time": 1667620407,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274674,
+      "num": 274674,
+      "word": "马斯克现在每天工作17小时",
+      "onboard_time": 1667621307,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 269144,
       "num": 269144,
       "word": "黄小蕾女儿杂志首封",
@@ -376,14 +400,6 @@
       "word": "国务院联防联控机制明日召开发布会",
       "onboard_time": 1667567551,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249639,
-      "num": 249639,
-      "word": "地铁男子辱骂拳打女子被大哥制止",
-      "onboard_time": 1667620407,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210930,
+      "num": 210930,
+      "word": "杨幂白宇片场打赌台词一条过",
+      "onboard_time": 1667623646,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208664,
       "num": 208664,
       "word": "日本正式加入北约网络防御中心",
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168894,
+      "num": 168894,
+      "word": "Mike没成团",
+      "onboard_time": 1667622639,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168882,
       "num": 168882,
       "word": "11月4日新增本土无症状3063例",
@@ -593,6 +625,14 @@
       "onboard_time": 1667573674,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161309,
+      "num": 161309,
+      "word": "爵士vs湖人",
+      "onboard_time": 1667618488,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 160147,
@@ -619,20 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157027,
-      "num": 157027,
-      "word": "爵士vs湖人",
-      "onboard_time": 1667618488,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156381,
-      "num": 156381,
-      "word": "Mike没成团",
-      "onboard_time": 1667622639,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "流浪猫蹲办公楼等男子下班投喂",
+      "onboard_time": 1667618966,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149909,
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145939,
+      "num": 145939,
+      "word": "路人举着红地毯警示后车有人摔倒",
+      "onboard_time": 1667621487,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 145407,
       "num": 145407,
       "word": "鄂尔多斯防疫通告为何刷屏",
@@ -688,14 +728,6 @@
       "word": "篮网42分大胜奇才",
       "onboard_time": 1667613629,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140837,
-      "num": 140837,
-      "word": "王楚钦2比3魏世皓",
-      "onboard_time": 1667622148,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -715,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130707,
-      "num": 130707,
-      "word": "马斯克现在每天工作17小时",
-      "onboard_time": 1667621307,
-      "rank": 33,
-      "category": "科技,社会新闻"
+      "raw_hot": 128431,
+      "num": 128431,
+      "word": "举报者谈张庭涉传销案听证会",
+      "onboard_time": 1667621366,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 127248,
@@ -729,14 +761,6 @@
       "onboard_time": 1667620288,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125828,
-      "num": 125828,
-      "word": "流浪猫蹲办公楼等男子下班投喂",
-      "onboard_time": 1667618966,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125587,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114537,
+      "num": 114537,
+      "word": "西班牙美女活火山送快递",
+      "onboard_time": 1667623589,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108333,
       "num": 108333,
       "word": "舒淇也没逃过刘波",
@@ -809,6 +841,22 @@
       "onboard_time": 1667569230,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107070,
+      "num": 107070,
+      "word": "与凤行镜头美学",
+      "onboard_time": 1667622928,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104527,
+      "num": 108454,
+      "word": "有一个暖男弟弟是什么体验",
+      "onboard_time": 1667622988,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104374,
@@ -899,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91903,
-      "num": 91903,
-      "word": "路人举着红地毯警示后车有人摔倒",
-      "onboard_time": 1667621487,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 88868,
       "num": 88868,
       "word": "今年或将迎来本世纪首个三重拉尼娜",
@@ -993,6 +1033,14 @@
       "onboard_time": 1667594472,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40999,
+      "num": 336765,
+      "word": "10岁男孩摇1米药匾帮父母制药丸",
+      "onboard_time": 1667623046,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36085,
