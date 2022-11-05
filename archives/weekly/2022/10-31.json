@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667613699047,
+  "endTime": 1667615564522,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -65,6 +65,14 @@
       "onboard_time": 1667317051,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2645456,
+      "num": 675951,
+      "word": "警方通报呼和浩特一女子坠亡",
+      "onboard_time": 1667605342,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2614348,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1882132,
-      "num": 291407,
+      "num": 294006,
       "word": "呼和浩特疫情防控",
       "onboard_time": 1667578766,
       "rank": 12,
@@ -225,14 +233,6 @@
       "onboard_time": 1667289687,
       "rank": 10,
       "category": "教育,科技"
-    },
-    {
-      "raw_hot": 1848795,
-      "num": 675951,
-      "word": "警方通报呼和浩特一女子坠亡",
-      "onboard_time": 1667605342,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1834895,
@@ -297,6 +297,14 @@
       "onboard_time": 1667260462,
       "rank": 3,
       "category": "社会负面,艺人"
+    },
+    {
+      "raw_hot": 1692614,
+      "num": 1692614,
+      "word": "记者卧底网课爆破群",
+      "onboard_time": 1667612070,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1672564,
@@ -571,6 +579,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1277620,
+      "num": 1237749,
+      "word": "42岁女子离婚后坚持健身年轻20岁",
+      "onboard_time": 1667610150,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257999,
       "num": 712726,
       "word": "梨泰院",
@@ -592,14 +608,6 @@
       "word": "男子捡回3只兔子7个月繁殖近百只",
       "onboard_time": 1667535689,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1237749,
-      "num": 1237749,
-      "word": "42岁女子离婚后坚持健身年轻20岁",
-      "onboard_time": 1667610150,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -857,14 +865,6 @@
       "onboard_time": 1667552368,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1062519,
-      "num": 1062519,
-      "word": "记者卧底网课爆破群",
-      "onboard_time": 1667612070,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1056629,
@@ -1372,7 +1372,7 @@
     },
     {
       "raw_hot": 828335,
-      "num": 410458,
+      "num": 449826,
       "word": "李承铉戚薇二胎叫seven",
       "onboard_time": 1667574873,
       "rank": 21,
@@ -1771,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665667,
+      "num": 665667,
+      "word": "刘波er",
+      "onboard_time": 1667612308,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664014,
       "num": 293638,
       "word": "罗志祥新歌",
@@ -2123,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577823,
+      "num": 577823,
+      "word": "男子因楼上女子剁鸡找上门对骂",
+      "onboard_time": 1667612248,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576357,
       "num": 373656,
       "word": "王鹤棣续充微博会员",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1667198305,
       "rank": 40,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 531424,
+      "num": 531424,
+      "word": "当一个女人决定退鞋",
+      "onboard_time": 1667609849,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 530094,
@@ -2699,14 +2723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482501,
-      "num": 482501,
-      "word": "刘波er",
-      "onboard_time": 1667612308,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482007,
       "num": 482007,
       "word": "公司恶意用100多斤硬币清偿被罚",
@@ -2819,12 +2835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467754,
-      "num": 295468,
-      "word": "当一个女人决定退鞋",
-      "onboard_time": 1667609849,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 467434,
+      "num": 467434,
+      "word": "复仇者联盟4首播收视第一",
+      "onboard_time": 1667613271,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 464976,
@@ -3697,6 +3713,14 @@
       "onboard_time": 1667359587,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357564,
+      "num": 357564,
+      "word": "多地中学老师遭网课爆破",
+      "onboard_time": 1667612669,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356478,
@@ -4875,19 +4899,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261331,
+      "num": 261331,
+      "word": "湖人无意为欧文提供长约",
+      "onboard_time": 1667614049,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261013,
       "num": 261013,
       "word": "蔚来回应整车工厂生产暂停",
       "onboard_time": 1667360845,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259361,
-      "num": 259361,
-      "word": "男子因楼上女子剁鸡找上门对骂",
-      "onboard_time": 1667612248,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -5177,6 +5201,14 @@
       "onboard_time": 1667484388,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236806,
+      "num": 236806,
+      "word": "黄小蕾女儿杂志首封",
+      "onboard_time": 1667614409,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236386,
@@ -5731,27 +5763,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203601,
-      "num": 167158,
-      "word": "多地中学老师遭网课爆破",
-      "onboard_time": 1667612669,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203260,
       "num": 203260,
       "word": "沈腾提名金鸡奖最佳男主角",
       "onboard_time": 1667268386,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 203079,
-      "num": 203079,
-      "word": "复仇者联盟4首播收视第一",
-      "onboard_time": 1667613271,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -6627,6 +6643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165073,
+      "num": 165073,
+      "word": "猫猫有多喜欢躲猫猫",
+      "onboard_time": 1667613749,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 163973,
       "num": 163973,
       "word": "胡明轩 状态",
@@ -7275,6 +7299,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 141056,
+      "num": 141056,
+      "word": "篮网42分大胜奇才",
+      "onboard_time": 1667613629,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140844,
       "num": 140844,
       "word": "一起摘星去阵容",
@@ -7739,11 +7771,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125587,
+      "num": 125587,
+      "word": "遇见喜欢的人告白有多难",
+      "onboard_time": 1667611770,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "10月最后一天",
       "onboard_time": 1667172260,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124752,
+      "num": 124752,
+      "word": "11月4日新增本土无症状3063例",
+      "onboard_time": 1667614409,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -7881,14 +7929,6 @@
       "onboard_time": 1667609667,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121272,
-      "num": 121272,
-      "word": "遇见喜欢的人告白有多难",
-      "onboard_time": 1667611770,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 120423,
@@ -8347,6 +8387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103870,
+      "num": 103870,
+      "word": "中科院院士杨叔子逝世",
+      "onboard_time": 1667615430,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103848,
       "num": 103848,
       "word": "心动的信号5收官",
@@ -8587,14 +8635,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 96324,
-      "num": 96324,
-      "word": "篮网42分大胜奇才",
-      "onboard_time": 1667613629,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -8744,6 +8784,14 @@
       "word": "真功夫20件商标被裁定无效",
       "onboard_time": 1667351907,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92281,
+      "num": 92281,
+      "word": "11月4日新增本土确诊596例",
+      "onboard_time": 1667614409,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
