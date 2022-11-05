@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667657926318,
+  "endTime": 1667658941130,
   "band_list": [
     {
       "raw_hot": 3150006,
@@ -83,6 +83,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1529603,
+      "num": 1529603,
+      "word": "国家疾控局回应近期是否调整防控政策",
+      "onboard_time": 1667635468,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351742,
       "num": 1351742,
       "word": "广州海珠严格控制人员流动",
@@ -152,14 +160,6 @@
       "word": "福州不再公布无症状感染者流调",
       "onboard_time": 1667582660,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 923686,
-      "num": 923686,
-      "word": "国家疾控局回应近期是否调整防控政策",
-      "onboard_time": 1667635468,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466321,
+      "num": 466321,
+      "word": "阿姨吐槽不理解00后消费观",
+      "onboard_time": 1667656406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453829,
       "num": 400953,
       "word": "坚持动态清零总方针不动摇",
@@ -448,6 +456,14 @@
       "word": "青岛疫情防控",
       "onboard_time": 1667574273,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448229,
+      "num": 448229,
+      "word": "00后女生榨蔬菜汁将小狗染成绿色",
+      "onboard_time": 1667656108,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -627,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336474,
+      "num": 322043,
+      "word": "张云龙你赢的可是李雪琴",
+      "onboard_time": 1667656765,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335744,
       "num": 335744,
       "word": "酒店工作人员把沙发烫坏处缝成银杏",
@@ -787,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280278,
+      "num": 280278,
+      "word": "你在上一段感情学到了什么",
+      "onboard_time": 1667654666,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277871,
       "num": 277871,
       "word": "Mike没成团",
       "onboard_time": 1667622639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270881,
+      "num": 87631,
+      "word": "谍战甄嬛传",
+      "onboard_time": 1667658929,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 269794,
@@ -803,28 +843,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 269188,
-      "num": 269188,
-      "word": "00后女生榨蔬菜汁将小狗染成绿色",
-      "onboard_time": 1667656108,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269144,
       "num": 269144,
       "word": "黄小蕾女儿杂志首封",
       "onboard_time": 1667614409,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 266207,
-      "num": 266207,
-      "word": "你在上一段感情学到了什么",
-      "onboard_time": 1667654666,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 265852,
@@ -923,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243693,
+      "num": 243693,
+      "word": "一盒薯条养活了全家宠物",
+      "onboard_time": 1667652687,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242957,
       "num": 242957,
       "word": "中科院院士杨叔子逝世",
@@ -945,14 +977,6 @@
       "onboard_time": 1667638707,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238598,
-      "num": 238598,
-      "word": "一盒薯条养活了全家宠物",
-      "onboard_time": 1667652687,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 236635,
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222518,
+      "num": 222518,
+      "word": "乌鲁木齐辟谣再封三个月",
+      "onboard_time": 1667658267,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219076,
       "num": 219076,
       "word": "高校绝美女外教酷似电影女主走红",
@@ -1040,14 +1072,6 @@
       "word": "姑姑陪侄子看病自己晕针睡病床",
       "onboard_time": 1667631145,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215552,
-      "num": 215552,
-      "word": "阿姨吐槽不理解00后消费观",
-      "onboard_time": 1667656406,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1081,14 +1105,6 @@
       "onboard_time": 1667560649,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 206787,
-      "num": 206787,
-      "word": "张云龙你赢的可是李雪琴",
-      "onboard_time": 1667656765,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 206642,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1667604321,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173768,
+      "num": 173768,
+      "word": "个人养老金资金账户内资产可继承",
+      "onboard_time": 1667657305,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 172937,
@@ -1523,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132037,
+      "num": 132037,
+      "word": "一看就是放假回家的孩子",
+      "onboard_time": 1667655687,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131696,
       "num": 130945,
       "word": "杨幂肖砚人设",
@@ -1571,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127295,
-      "num": 127295,
-      "word": "一看就是放假回家的孩子",
-      "onboard_time": 1667655687,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127248,
       "num": 106275,
       "word": "谢谢你医生台词",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1667566169,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123533,
+      "num": 123533,
+      "word": "谢谢你医生",
+      "onboard_time": 1667656648,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 122101,
@@ -1691,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106815,
+      "num": 106815,
+      "word": "屁屁上自带爱心的马鹿",
+      "onboard_time": 1667656826,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104374,
       "num": 104374,
       "word": "现在小孩都玩这么狠吗",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1667624426,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102633,
-      "num": 97221,
-      "word": "谢谢你医生",
-      "onboard_time": 1667656648,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 102515,
@@ -1835,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97316,
+      "num": 97316,
+      "word": "煎饼果子新手入门小细节",
+      "onboard_time": 1667658086,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95772,
       "num": 95772,
       "word": "杜兰特28分11助攻",
@@ -1891,20 +1931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90616,
-      "num": 90616,
-      "word": "屁屁上自带爱心的马鹿",
-      "onboard_time": 1667656826,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89756,
       "num": 89756,
       "word": "带你一起飞的不一定是朋友",
       "onboard_time": 1667639847,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88930,
+      "num": 88930,
+      "word": "小狗也会孤独吗",
+      "onboard_time": 1667658086,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 88868,
@@ -2083,6 +2123,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 73014,
+      "num": 78899,
+      "word": "它是在找自己的后腿吗",
+      "onboard_time": 1667658687,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72070,
       "num": 72070,
       "word": "林高远",
@@ -2105,14 +2153,6 @@
       "onboard_time": 1667657487,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68111,
-      "num": 68111,
-      "word": "个人养老金资金账户内资产可继承",
-      "onboard_time": 1667657305,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 67655,
