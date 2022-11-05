@@ -1,6 +1,6 @@
 {
   "startTime": 1667579494940,
-  "endTime": 1667605229097,
+  "endTime": 1667613699047,
   "band_list": [
     {
       "raw_hot": 2325477,
@@ -12,17 +12,57 @@
     },
     {
       "raw_hot": 1882132,
-      "num": 269792,
+      "num": 291407,
       "word": "呼和浩特疫情防控",
       "onboard_time": 1667578766,
       "rank": 12,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1848795,
+      "num": 675951,
+      "word": "警方通报呼和浩特一女子坠亡",
+      "onboard_time": 1667605342,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1351742,
       "num": 1351742,
       "word": "广州海珠严格控制人员流动",
       "onboard_time": 1667575592,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237749,
+      "num": 1237749,
+      "word": "42岁女子离婚后坚持健身年轻20岁",
+      "onboard_time": 1667610150,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062519,
+      "num": 1062519,
+      "word": "记者卧底网课爆破群",
+      "onboard_time": 1667612070,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 985112,
+      "num": 985112,
+      "word": "25岁小伙长期挖鼻孔形成血管瘤",
+      "onboard_time": 1667606785,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954311,
+      "num": 719281,
+      "word": "呼和浩特兴光A9",
+      "onboard_time": 1667604321,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -36,7 +76,7 @@
     },
     {
       "raw_hot": 816145,
-      "num": 276811,
+      "num": 296313,
       "word": "李承铉戚薇二胎叫seven",
       "onboard_time": 1667574873,
       "rank": 10,
@@ -51,11 +91,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719281,
-      "num": 719281,
-      "word": "呼和浩特兴光A9",
-      "onboard_time": 1667604321,
-      "rank": 1,
+      "raw_hot": 685552,
+      "num": 685552,
+      "word": "女佣起诉全球首富贝索斯非人待遇",
+      "onboard_time": 1667608888,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -67,12 +107,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641154,
+      "num": 641154,
+      "word": "耐克暂停与欧文合作",
+      "onboard_time": 1667611050,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 548784,
+      "num": 548784,
+      "word": "警方通报冷水滩餐饮店女子被打事件",
+      "onboard_time": 1667609248,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482501,
+      "num": 482501,
+      "word": "刘波er",
+      "onboard_time": 1667612308,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479716,
       "num": 479716,
       "word": "多家茶饮品牌联合抵制外卖满减",
       "onboard_time": 1667567910,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467754,
+      "num": 295468,
+      "word": "当一个女人决定退鞋",
+      "onboard_time": 1667609849,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 451927,
@@ -155,12 +227,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290025,
+      "num": 290025,
+      "word": "中山女子每天去澳门上班通勤3小时",
+      "onboard_time": 1667603962,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280769,
+      "num": 280769,
+      "word": "河南疾控发布健康风险提示",
+      "onboard_time": 1667610448,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280540,
+      "num": 280540,
+      "word": "金赛纶因酒驾赔偿花光积蓄",
+      "onboard_time": 1667604740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280477,
       "num": 280477,
       "word": "朱一龙倪妮消失的她官博开通",
       "onboard_time": 1667574153,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259361,
+      "num": 259361,
+      "word": "男子因楼上女子剁鸡找上门对骂",
+      "onboard_time": 1667612248,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258779,
@@ -195,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "李宇春感谢所有爱与见证",
+      "onboard_time": 1667607266,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225790,
+      "num": 225790,
+      "word": "国务院联防联控机制今日召开发布会",
+      "onboard_time": 1667567551,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225719,
       "num": 225719,
       "word": "颈椎一下子就舒服了",
@@ -209,6 +329,22 @@
       "onboard_time": 1667570791,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223044,
+      "num": 223044,
+      "word": "杨幂新剧开播就被求婚",
+      "onboard_time": 1667599573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219076,
+      "num": 219076,
+      "word": "高校绝美女外教酷似电影女主走红",
+      "onboard_time": 1667611468,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211006,
@@ -235,6 +371,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203601,
+      "num": 167158,
+      "word": "多地中学老师遭网课爆破",
+      "onboard_time": 1667612669,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203079,
+      "num": 203079,
+      "word": "复仇者联盟4首播收视第一",
+      "onboard_time": 1667613271,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200514,
+      "num": 200514,
+      "word": "北京昨增5例社会面筛查人员",
+      "onboard_time": 1667608648,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190767,
       "num": 190767,
       "word": "中国向空客公司采购140架飞机",
@@ -251,12 +411,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188285,
-      "num": 188285,
-      "word": "中山女子每天去澳门上班通勤3小时",
-      "onboard_time": 1667603962,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 185007,
+      "num": 185007,
+      "word": "赵丽颖林更新与凤行杀青状态对比",
+      "onboard_time": 1667608346,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 174324,
@@ -339,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145407,
+      "num": 145407,
+      "word": "鄂尔多斯防疫通告为何刷屏",
+      "onboard_time": 1667591952,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135219,
       "num": 135219,
       "word": "离岸人民币创有记录以来最大单日涨幅",
@@ -355,22 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130938,
-      "num": 130938,
-      "word": "鄂尔多斯防疫通告为何刷屏",
-      "onboard_time": 1667591952,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130457,
-      "num": 130457,
-      "word": "杨幂新剧开播就被求婚",
-      "onboard_time": 1667599573,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124271,
       "num": 124271,
       "word": "成年人的释怀是一种什么感觉",
@@ -379,20 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123115,
-      "num": 123115,
-      "word": "国务院联防联控机制今日召开发布会",
-      "onboard_time": 1667567551,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122101,
-      "num": 100840,
+      "num": 115735,
       "word": "这个村是现实版千里江山图吧",
       "onboard_time": 1667604563,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121816,
+      "num": 121816,
+      "word": "金汤匙",
+      "onboard_time": 1667609667,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 121732,
@@ -401,6 +553,14 @@
       "onboard_time": 1667568090,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 121272,
+      "num": 121272,
+      "word": "遇见喜欢的人告白有多难",
+      "onboard_time": 1667611770,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119823,
@@ -443,6 +603,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 103654,
+      "num": 103654,
+      "word": "肖砚医生的工作日志",
+      "onboard_time": 1667613629,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 102515,
+      "num": 102515,
+      "word": "3岁小朋友遛纸壳狗宣传环保",
+      "onboard_time": 1667604862,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102106,
       "num": 102106,
       "word": "XYG",
@@ -451,12 +627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98778,
-      "num": 98778,
-      "word": "金赛纶因酒驾赔偿花光积蓄",
-      "onboard_time": 1667604740,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 96324,
+      "num": 96324,
+      "word": "篮网42分大胜奇才",
+      "onboard_time": 1667613629,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95772,
+      "num": 95772,
+      "word": "杜兰特28分11助攻",
+      "onboard_time": 1667613507,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93029,
@@ -515,14 +699,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 49299,
-      "num": 49299,
-      "word": "3岁小朋友遛纸壳狗宣传环保",
-      "onboard_time": 1667604862,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48254,
       "num": 48254,
       "word": "2个贪玩萌娃拆3桶洗衣液倒满地",
@@ -555,8 +731,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26841,
-      "num": 539456,
+      "raw_hot": 32134,
+      "num": 1005900,
       "word": "2022进博会现场高清大图",
       "onboard_time": 1667566290,
       "rank": 2,
