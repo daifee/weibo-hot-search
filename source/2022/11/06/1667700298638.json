@@ -1,0 +1,410 @@
+{
+  "runTime": 1667700298638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 750959,
+        "num": 750959,
+        "word": "他22年不能露脸工作时怕遇到朋友",
+        "onboard_time": 1667694683,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621536,
+        "num": 621536,
+        "word": "王嘉尔S12决赛开幕式舞台",
+        "onboard_time": 1667694984,
+        "rank": 1,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 595081,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1667627065,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1453568,
+        "num": 592489,
+        "word": "女孩染怪病后腰长出浓密毛发",
+        "onboard_time": 1667692099,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582097,
+        "num": 582097,
+        "word": "贵州彩民一号之差憾失10亿巨奖",
+        "onboard_time": 1667696846,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538833,
+        "num": 538833,
+        "word": "张婧仪 钝感",
+        "onboard_time": 1667690717,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450901,
+        "num": 450901,
+        "word": "六旬奶奶每天化妆坚持40年",
+        "onboard_time": 1667698408,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422693,
+        "num": 422693,
+        "word": "螃蟹的血居然是透明的",
+        "onboard_time": 1667692881,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 421309,
+        "num": 421309,
+        "word": "T1对战DRX",
+        "onboard_time": 1667691739,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397245,
+        "num": 397245,
+        "word": "中国短道速滑2000米混合接力夺冠",
+        "onboard_time": 1667694268,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638136,
+        "num": 397212,
+        "word": "亚伦卡特去世",
+        "onboard_time": 1667695586,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383303,
+        "num": 383303,
+        "word": "一年级女孩用手扫描书按进大脑",
+        "onboard_time": 1667661929,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372213,
+        "num": 372213,
+        "word": "女生收到男友礼物打开全是拉菲草",
+        "onboard_time": 1667661091,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368723,
+        "num": 368723,
+        "word": "疯狂动物城尼克朱迪",
+        "onboard_time": 1667695586,
+        "rank": 13,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 352325,
+        "num": 352325,
+        "word": "老人凑1.5万零钱替去世儿子还债",
+        "onboard_time": 1667693545,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287475,
+        "num": 287475,
+        "word": "七国集团同意帮助乌克兰重建基础设施",
+        "onboard_time": 1667698766,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 258415,
+        "num": 258415,
+        "word": "孙怡说她第一次网购增高鞋",
+        "onboard_time": 1667667021,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237532,
+        "num": 237532,
+        "word": "北京昨新增5例社会面筛查人员",
+        "onboard_time": 1667693843,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218558,
+        "num": 218558,
+        "word": "吴卓羲对仁科粉转黑了",
+        "onboard_time": 1667691619,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210862,
+        "num": 210862,
+        "word": "阿姨吐槽不理解00后消费观",
+        "onboard_time": 1667656406,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194666,
+        "num": 194666,
+        "word": "宝宝趴床上大哭起身后逗笑旁人",
+        "onboard_time": 1667696485,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187399,
+        "num": 187399,
+        "word": "赵丽颖林更新 二哈追博美",
+        "onboard_time": 1667659406,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181195,
+        "num": 181195,
+        "word": "gidle新歌love特别版MV",
+        "onboard_time": 1667696545,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180083,
+        "num": 180083,
+        "word": "乌鲁木齐辟谣再封三个月",
+        "onboard_time": 1667658267,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175908,
+        "num": 175908,
+        "word": "Faker 不给mvp",
+        "onboard_time": 1667699665,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "人民网评网课爆破早该被爆破",
+        "onboard_time": 1667670556,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145382,
+        "num": 145382,
+        "word": "航拍视角看台湾全岛",
+        "onboard_time": 1667691679,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144311,
+        "num": 144311,
+        "word": "男子昏迷交警砸窗喂20粒药抢救",
+        "onboard_time": 1667693545,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137577,
+        "num": 137577,
+        "word": "原来普通人的快乐这么简单",
+        "onboard_time": 1667693902,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124886,
+        "num": 124886,
+        "word": "DRX BP",
+        "onboard_time": 1667698527,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123502,
+        "num": 123502,
+        "word": "减肥操跳出了一种很新的感觉",
+        "onboard_time": 1667660968,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123027,
+        "num": 123027,
+        "word": "超5成房东希望专业机构长期管理出租房",
+        "onboard_time": 1667690658,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 119342,
+        "num": 119342,
+        "word": "小狗期单恋",
+        "onboard_time": 1667689395,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119012,
+        "num": 119012,
+        "word": "什么是低成本情绪价值",
+        "onboard_time": 1667668100,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116874,
+        "num": 116874,
+        "word": "Faker状态太好了",
+        "onboard_time": 1667700146,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116533,
+        "num": 116533,
+        "word": "个人养老金资金账户内资产可继承",
+        "onboard_time": 1667657305,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 111860,
+        "num": 111860,
+        "word": "T1决赛先下一城",
+        "onboard_time": 1667698645,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111486,
+        "num": 111486,
+        "word": "感觉自己不如幼儿园小朋友",
+        "onboard_time": 1667692881,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106070,
+        "num": 106070,
+        "word": "T1 强",
+        "onboard_time": 1667699784,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105098,
+        "num": 105098,
+        "word": "肖砚谈为什么想当医生",
+        "onboard_time": 1667699908,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102305,
+        "num": 102305,
+        "word": "打火机与公主裙 选角",
+        "onboard_time": 1667652326,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97895,
+        "num": 97895,
+        "word": "谍战甄嬛传",
+        "onboard_time": 1667658929,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95950,
+        "num": 95950,
+        "word": "福克斯超远三分绝杀魔术",
+        "onboard_time": 1667694324,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89769,
+        "num": 89769,
+        "word": "00后女生榨蔬菜汁将小狗染成绿色",
+        "onboard_time": 1667656108,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88819,
+        "num": 88819,
+        "word": "原来别墅设计师也是家庭调解员",
+        "onboard_time": 1667695947,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86600,
+        "num": 86600,
+        "word": "推特创始人为马斯克大裁员背锅",
+        "onboard_time": 1667699546,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 76887,
+        "num": 83376,
+        "word": "T1压制",
+        "onboard_time": 1667699784,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81449,
+        "num": 81449,
+        "word": "江苏一教师因学生默不出古诗猛扇其耳光",
+        "onboard_time": 1667651367,
+        "rank": 47,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 81121,
+        "num": 81121,
+        "word": "男子将腿伸车底拦亲要红包",
+        "onboard_time": 1667690717,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77763,
+        "num": 77763,
+        "word": "篮网逆转黄蜂",
+        "onboard_time": 1667700207,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会开幕式致辞金句#"
+    }
+  }
+}

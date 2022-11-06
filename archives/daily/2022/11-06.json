@@ -1,7 +1,15 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667691493369,
+  "endTime": 1667700298638,
   "band_list": [
+    {
+      "raw_hot": 1453568,
+      "num": 592489,
+      "word": "女孩染怪病后腰长出浓密毛发",
+      "onboard_time": 1667692099,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 934837,
       "num": 934837,
@@ -27,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750959,
+      "num": 750959,
+      "word": "他22年不能露脸工作时怕遇到朋友",
+      "onboard_time": 1667694683,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681356,
-      "num": 170297,
+      "num": 258415,
       "word": "孙怡说她第一次网购增高鞋",
       "onboard_time": 1667667021,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 638136,
+      "num": 397212,
+      "word": "亚伦卡特去世",
+      "onboard_time": 1667695586,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 621536,
+      "num": 621536,
+      "word": "王嘉尔S12决赛开幕式舞台",
+      "onboard_time": 1667694984,
+      "rank": 1,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 594538,
@@ -41,6 +73,22 @@
       "onboard_time": 1667661929,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582097,
+      "num": 582097,
+      "word": "贵州彩民一号之差憾失10亿巨奖",
+      "onboard_time": 1667696846,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538833,
+      "num": 538833,
+      "word": "张婧仪 钝感",
+      "onboard_time": 1667690717,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 486967,
@@ -59,12 +107,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450901,
+      "num": 450901,
+      "word": "六旬奶奶每天化妆坚持40年",
+      "onboard_time": 1667698408,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437169,
       "num": 324291,
       "word": "赵丽颖林更新 二哈追博美",
       "onboard_time": 1667659406,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422693,
+      "num": 422693,
+      "word": "螃蟹的血居然是透明的",
+      "onboard_time": 1667692881,
+      "rank": 7,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 421309,
+      "num": 421309,
+      "word": "T1对战DRX",
+      "onboard_time": 1667691739,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 415797,
@@ -83,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397245,
+      "num": 397245,
+      "word": "中国短道速滑2000米混合接力夺冠",
+      "onboard_time": 1667694268,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 368723,
+      "num": 368723,
+      "word": "疯狂动物城尼克朱迪",
+      "onboard_time": 1667695586,
+      "rank": 13,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 367419,
       "num": 320761,
       "word": "阿瑟是有点清澈的愚蠢在身上的",
       "onboard_time": 1667663546,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352325,
+      "num": 352325,
+      "word": "老人凑1.5万零钱替去世儿子还债",
+      "onboard_time": 1667693545,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344465,
@@ -115,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287475,
+      "num": 287475,
+      "word": "七国集团同意帮助乌克兰重建基础设施",
+      "onboard_time": 1667698766,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 287424,
       "num": 287424,
       "word": "打火机与公主裙 选角",
@@ -123,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265883,
-      "num": 265883,
-      "word": "张婧仪 钝感",
-      "onboard_time": 1667690717,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 237532,
+      "num": 237532,
+      "word": "北京昨新增5例社会面筛查人员",
+      "onboard_time": 1667693843,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226081,
@@ -155,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218558,
+      "num": 218558,
+      "word": "吴卓羲对仁科粉转黑了",
+      "onboard_time": 1667691619,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215572,
       "num": 215572,
       "word": "减肥操跳出了一种很新的感觉",
@@ -171,12 +283,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 194666,
+      "num": 194666,
+      "word": "宝宝趴床上大哭起身后逗笑旁人",
+      "onboard_time": 1667696485,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191804,
       "num": 138095,
       "word": "谍战甄嬛传",
       "onboard_time": 1667658929,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181195,
+      "num": 181195,
+      "word": "gidle新歌love特别版MV",
+      "onboard_time": 1667696545,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 175908,
+      "num": 175908,
+      "word": "Faker 不给mvp",
+      "onboard_time": 1667699665,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 159902,
@@ -203,6 +339,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145382,
+      "num": 145382,
+      "word": "航拍视角看台湾全岛",
+      "onboard_time": 1667691679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144311,
+      "num": 144311,
+      "word": "男子昏迷交警砸窗喂20粒药抢救",
+      "onboard_time": 1667693545,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 142073,
       "num": 142073,
       "word": "杨幂肖砚下班机车鲨疯了",
@@ -225,6 +377,14 @@
       "onboard_time": 1667651367,
       "rank": 29,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 137577,
+      "num": 137577,
+      "word": "原来普通人的快乐这么简单",
+      "onboard_time": 1667693902,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 133423,
@@ -267,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124886,
+      "num": 124886,
+      "word": "DRX BP",
+      "onboard_time": 1667698527,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123337,
       "num": 123337,
       "word": "见证S12最后一舞",
@@ -275,12 +443,52 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "超5成房东希望专业机构长期管理出租房",
+      "onboard_time": 1667690658,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 119342,
+      "num": 119342,
+      "word": "小狗期单恋",
+      "onboard_time": 1667689395,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117925,
       "num": 117925,
       "word": "广州面临三年来最复杂严峻疫情",
       "onboard_time": 1667633487,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116874,
+      "num": 116874,
+      "word": "Faker状态太好了",
+      "onboard_time": 1667700146,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111860,
+      "num": 111860,
+      "word": "T1决赛先下一城",
+      "onboard_time": 1667698645,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "感觉自己不如幼儿园小朋友",
+      "onboard_time": 1667692881,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 111467,
@@ -331,6 +539,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106070,
+      "num": 106070,
+      "word": "T1 强",
+      "onboard_time": 1667699784,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105098,
+      "num": 105098,
+      "word": "肖砚谈为什么想当医生",
+      "onboard_time": 1667699908,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95950,
+      "num": 95950,
+      "word": "福克斯超远三分绝杀魔术",
+      "onboard_time": 1667694324,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93746,
       "num": 93746,
       "word": "小狗也会孤独吗",
@@ -363,12 +595,44 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88819,
+      "num": 88819,
+      "word": "原来别墅设计师也是家庭调解员",
+      "onboard_time": 1667695947,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87243,
       "num": 87243,
       "word": "北京新增本土感染者29例社会面3例",
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86600,
+      "num": 86600,
+      "word": "推特创始人为马斯克大裁员背锅",
+      "onboard_time": 1667699546,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 81121,
+      "num": 81121,
+      "word": "男子将腿伸车底拦亲要红包",
+      "onboard_time": 1667690717,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77763,
+      "num": 77763,
+      "word": "篮网逆转黄蜂",
+      "onboard_time": 1667700207,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77395,
@@ -379,20 +643,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76887,
+      "num": 83376,
+      "word": "T1压制",
+      "onboard_time": 1667699784,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76808,
       "num": 76808,
       "word": "樊振东球品满分",
       "onboard_time": 1667653407,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71450,
-      "num": 71450,
-      "word": "小狗期单恋",
-      "onboard_time": 1667689395,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 70035,
@@ -467,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45169,
-      "num": 45169,
-      "word": "男子将腿伸车底拦亲要红包",
-      "onboard_time": 1667690717,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43961,
       "num": 43961,
       "word": "王鹤棣工作室星期六出图",
@@ -489,14 +745,6 @@
       "onboard_time": 1667655687,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35150,
-      "num": 35150,
-      "word": "超5成房东希望专业机构长期管理出租房",
-      "onboard_time": 1667690658,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 33308,
@@ -563,7 +811,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 12371,
+      "raw_hot": 15585,
       "num": 863964,
       "word": "中国国际进口博览会",
       "onboard_time": 1667627065,

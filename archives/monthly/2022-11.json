@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667691493369,
+  "endTime": 1667700298638,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -409,6 +409,14 @@
       "onboard_time": 1667469503,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1453568,
+      "num": 592489,
+      "word": "女孩染怪病后腰长出浓密毛发",
+      "onboard_time": 1667692099,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1445435,
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750959,
+      "num": 750959,
+      "word": "他22年不能露脸工作时怕遇到朋友",
+      "onboard_time": 1667694683,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750357,
       "num": 750357,
       "word": "2023鹅厂片单",
@@ -1516,7 +1532,7 @@
     },
     {
       "raw_hot": 681356,
-      "num": 170297,
+      "num": 258415,
       "word": "孙怡说她第一次网购增高鞋",
       "onboard_time": 1667667021,
       "rank": 10,
@@ -1763,6 +1779,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 638136,
+      "num": 397212,
+      "word": "亚伦卡特去世",
+      "onboard_time": 1667695586,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636312,
       "num": 636312,
       "word": "3200多名南侨机工已全部离世",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1667218764,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 621536,
+      "num": 621536,
+      "word": "王嘉尔S12决赛开幕式舞台",
+      "onboard_time": 1667694984,
+      "rank": 1,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 620438,
@@ -1976,6 +2008,14 @@
       "word": "新疆新增无症状感染者400例",
       "onboard_time": 1667412434,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582097,
+      "num": 582097,
+      "word": "贵州彩民一号之差憾失10亿巨奖",
+      "onboard_time": 1667696846,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2217,6 +2257,14 @@
       "onboard_time": 1667305345,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538833,
+      "num": 538833,
+      "word": "张婧仪 钝感",
+      "onboard_time": 1667690717,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 537729,
@@ -2731,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450901,
+      "num": 450901,
+      "word": "六旬奶奶每天化妆坚持40年",
+      "onboard_time": 1667698408,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -2987,6 +3043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422693,
+      "num": 422693,
+      "word": "螃蟹的血居然是透明的",
+      "onboard_time": 1667692881,
+      "rank": 7,
+      "category": "其它"
+    },
+    {
       "raw_hot": 421921,
       "num": 421921,
       "word": "开心就好不必正常",
@@ -3000,6 +3064,14 @@
       "word": "iG夺冠四周年",
       "onboard_time": 1667444783,
       "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 421309,
+      "num": 421309,
+      "word": "T1对战DRX",
+      "onboard_time": 1667691739,
+      "rank": 8,
       "category": "游戏"
     },
     {
@@ -3201,6 +3273,14 @@
       "onboard_time": 1667275407,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 397245,
+      "num": 397245,
+      "word": "中国短道速滑2000米混合接力夺冠",
+      "onboard_time": 1667694268,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 395920,
@@ -3443,6 +3523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368723,
+      "num": 368723,
+      "word": "疯狂动物城尼克朱迪",
+      "onboard_time": 1667695586,
+      "rank": 13,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 367821,
       "num": 367821,
       "word": "多地中学老师遭网课爆破",
@@ -3617,6 +3705,14 @@
       "onboard_time": 1667545709,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352325,
+      "num": 352325,
+      "word": "老人凑1.5万零钱替去世儿子还债",
+      "onboard_time": 1667693545,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352006,
@@ -4307,6 +4403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 287475,
+      "num": 287475,
+      "word": "七国集团同意帮助乌克兰重建基础设施",
+      "onboard_time": 1667698766,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 286725,
       "num": 153099,
       "word": "罗云熙吴倩新剧婚纱造型剧照",
@@ -4625,14 +4729,6 @@
       "onboard_time": 1667380408,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 265883,
-      "num": 265883,
-      "word": "张婧仪 钝感",
-      "onboard_time": 1667690717,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 265852,
@@ -4995,6 +5091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237532,
+      "num": 237532,
+      "word": "北京昨新增5例社会面筛查人员",
+      "onboard_time": 1667693843,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237330,
       "num": 237330,
       "word": "张继科预测世界杯冠军",
@@ -5296,6 +5400,14 @@
       "word": "Angelababy奔跑吧依旧是滑冰王者",
       "onboard_time": 1667567130,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218558,
+      "num": 218558,
+      "word": "吴卓羲对仁科粉转黑了",
+      "onboard_time": 1667691619,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -5819,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194666,
+      "num": 194666,
+      "word": "宝宝趴床上大哭起身后逗笑旁人",
+      "onboard_time": 1667696485,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194662,
       "num": 194662,
       "word": "成人高考",
@@ -6059,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181195,
+      "num": 181195,
+      "word": "gidle新歌love特别版MV",
+      "onboard_time": 1667696545,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181062,
       "num": 149646,
       "word": "胡歌繁花单人海报",
@@ -6153,6 +6281,14 @@
       "onboard_time": 1667652806,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175908,
+      "num": 175908,
+      "word": "Faker 不给mvp",
+      "onboard_time": 1667699665,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 175825,
@@ -6979,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145382,
+      "num": 145382,
+      "word": "航拍视角看台湾全岛",
+      "onboard_time": 1667691679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144485,
       "num": 144485,
       "word": "沈阳飞芜湖机票低至9元",
@@ -7001,6 +7145,14 @@
       "onboard_time": 1667628447,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 144311,
+      "num": 144311,
+      "word": "男子昏迷交警砸窗喂20粒药抢救",
+      "onboard_time": 1667693545,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 144074,
@@ -7105,6 +7257,14 @@
       "onboard_time": 1667571932,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137577,
+      "num": 137577,
+      "word": "原来普通人的快乐这么简单",
+      "onboard_time": 1667693902,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 136911,
@@ -7579,6 +7739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124886,
+      "num": 124886,
+      "word": "DRX BP",
+      "onboard_time": 1667698527,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124749,
       "num": 124749,
       "word": "九尾无畏双BKing同框",
@@ -7625,6 +7793,14 @@
       "onboard_time": 1667384303,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "超5成房东希望专业机构长期管理出租房",
+      "onboard_time": 1667690658,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 122947,
@@ -7731,6 +7907,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 119342,
+      "num": 119342,
+      "word": "小狗期单恋",
+      "onboard_time": 1667689395,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119243,
       "num": 119243,
       "word": "103岁中医为村民免费看病80载",
@@ -7785,6 +7969,14 @@
       "onboard_time": 1667290889,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116874,
+      "num": 116874,
+      "word": "Faker状态太好了",
+      "onboard_time": 1667700146,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 116245,
@@ -7891,6 +8083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111860,
+      "num": 111860,
+      "word": "T1决赛先下一城",
+      "onboard_time": 1667698645,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111836,
       "num": 111836,
       "word": "勇士vs魔术",
@@ -7905,6 +8105,14 @@
       "onboard_time": 1667450310,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "感觉自己不如幼儿园小朋友",
+      "onboard_time": 1667692881,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 111448,
@@ -8075,6 +8283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106070,
+      "num": 106070,
+      "word": "T1 强",
+      "onboard_time": 1667699784,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106033,
       "num": 106033,
       "word": "世界两大空间望远镜cp",
@@ -8096,6 +8312,14 @@
       "word": "谭松韵说不忘初心",
       "onboard_time": 1667548171,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105098,
+      "num": 105098,
+      "word": "肖砚谈为什么想当医生",
+      "onboard_time": 1667699908,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -8393,6 +8617,14 @@
       "onboard_time": 1667448087,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95950,
+      "num": 95950,
+      "word": "福克斯超远三分绝杀魔术",
+      "onboard_time": 1667694324,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 95772,
@@ -8699,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88819,
+      "num": 88819,
+      "word": "原来别墅设计师也是家庭调解员",
+      "onboard_time": 1667695947,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88659,
       "num": 88659,
       "word": "知道如何为人处世的狗狗",
@@ -8769,6 +9009,14 @@
       "onboard_time": 1667484088,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86600,
+      "num": 86600,
+      "word": "推特创始人为马斯克大裁员背锅",
+      "onboard_time": 1667699546,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 86516,
@@ -9043,6 +9291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81121,
+      "num": 81121,
+      "word": "男子将腿伸车底拦亲要红包",
+      "onboard_time": 1667690717,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81082,
       "num": 81082,
       "word": "没想到纸盒也能遛",
@@ -9131,6 +9387,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 77763,
+      "num": 77763,
+      "word": "篮网逆转黄蜂",
+      "onboard_time": 1667700207,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77723,
       "num": 77723,
       "word": "00后小伙培育出罕见红色睡莲",
@@ -9161,6 +9425,14 @@
       "onboard_time": 1667654906,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76887,
+      "num": 83376,
+      "word": "T1压制",
+      "onboard_time": 1667699784,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 76519,
@@ -9305,14 +9577,6 @@
       "onboard_time": 1667372428,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71450,
-      "num": 71450,
-      "word": "小狗期单恋",
-      "onboard_time": 1667689395,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 71402,
@@ -9835,14 +10099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45169,
-      "num": 45169,
-      "word": "男子将腿伸车底拦亲要红包",
-      "onboard_time": 1667690717,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44078,
       "num": 91758,
       "word": "为什么年轻人沉迷网络集卡",
@@ -9961,14 +10217,6 @@
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35150,
-      "num": 35150,
-      "word": "超5成房东希望专业机构长期管理出租房",
-      "onboard_time": 1667690658,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 33308,
