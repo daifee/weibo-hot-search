@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667738378864,
+  "endTime": 1667739619222,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -72,6 +72,14 @@
       "word": "陈飞宇张婧仪床戏镜头",
       "onboard_time": 1667735010,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1884814,
+      "num": 555990,
+      "word": "陈飞宇张婧仪亲密戏镜头",
+      "onboard_time": 1667735010,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990090,
+      "num": 990090,
+      "word": "刘波打电话约架是真实事件改编",
+      "onboard_time": 1667735066,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 939795,
       "num": 939795,
       "word": "何炅王凯主持金鹰节颁奖晚会",
@@ -201,14 +217,6 @@
       "onboard_time": 1667658267,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872043,
-      "num": 872043,
-      "word": "刘波打电话约架是真实事件改编",
-      "onboard_time": 1667735066,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 869944,
@@ -257,6 +265,14 @@
       "onboard_time": 1667717846,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 755591,
+      "num": 255857,
+      "word": "马丽金鹰奖最佳女配角",
+      "onboard_time": 1667739266,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 752904,
@@ -475,6 +491,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 441981,
+      "num": 276302,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441266,
       "num": 324726,
       "word": "朴彩英LACMAARTFILMGALA红毯",
@@ -491,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437355,
+      "num": 424213,
+      "word": "第31届金鹰奖颁奖典礼节目单",
+      "onboard_time": 1667731947,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437169,
       "num": 324291,
       "word": "赵丽颖林更新 二哈追博美",
@@ -499,28 +531,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426176,
-      "num": 426176,
-      "word": "七国集团同意帮助乌克兰重建基础设施",
-      "onboard_time": 1667698766,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 425496,
-      "num": 425496,
+      "raw_hot": 429834,
+      "num": 429834,
       "word": "爸爸请朋友吃饭让学医女儿扎针练手",
       "onboard_time": 1667733926,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424213,
-      "num": 424213,
-      "word": "第31届金鹰奖颁奖典礼节目单",
-      "onboard_time": 1667731947,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 426176,
+      "num": 426176,
+      "word": "七国集团同意帮助乌克兰重建基础设施",
+      "onboard_time": 1667698766,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 422693,
@@ -576,6 +600,14 @@
       "word": "请回答1988开播七周年了",
       "onboard_time": 1667702669,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383757,
+      "num": 275828,
+      "word": "点燃我温暖你韩国口碑",
+      "onboard_time": 1667735967,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -651,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344247,
+      "num": 253654,
+      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+      "onboard_time": 1667735666,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343356,
       "num": 343356,
       "word": "打火机与公主裙真香",
@@ -673,14 +713,6 @@
       "onboard_time": 1667720964,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331802,
-      "num": 275828,
-      "word": "点燃我温暖你韩国口碑",
-      "onboard_time": 1667735967,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 325220,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300551,
+      "num": 236816,
+      "word": "一架飞机在坦桑尼亚西北部坠湖",
+      "onboard_time": 1667736508,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296428,
       "num": 296428,
       "word": "管泽元同传",
@@ -779,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280985,
-      "num": 276302,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274380,
       "num": 274380,
       "word": "韩政府通报踩踏事故相关指示与汇报情况",
@@ -803,28 +835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272449,
+      "num": 198672,
+      "word": "这就是早期cp粉发言吧",
+      "onboard_time": 1667736686,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254360,
       "num": 254360,
       "word": "一个方法告别抑郁症",
       "onboard_time": 1667718508,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253654,
-      "num": 253654,
-      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
-      "onboard_time": 1667735666,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251920,
-      "num": 140262,
-      "word": "这就是早期cp粉发言吧",
-      "onboard_time": 1667736686,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 248500,
@@ -931,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223860,
+      "num": 223860,
+      "word": "妈妈用垃圾袋给女儿做礼服",
+      "onboard_time": 1667735608,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223649,
       "num": 223649,
       "word": "个人养老金资金账户内资产可继承",
@@ -952,6 +984,14 @@
       "word": "24岁小伙花光积蓄回乡买房入住毛坯",
       "onboard_time": 1667649327,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221001,
+      "num": 221001,
+      "word": "圆明园考古新发现",
+      "onboard_time": 1667738007,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211175,
+      "num": 211175,
+      "word": "广州昨日新增1325名感染者",
+      "onboard_time": 1667737828,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209572,
       "num": 209572,
       "word": "女子练瑜伽式骑车惊呆路人",
@@ -1024,6 +1072,14 @@
       "word": "宝宝趴床上大哭起身后逗笑旁人",
       "onboard_time": 1667696485,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205063,
+      "num": 205063,
+      "word": "呼和浩特要求不准对单元门一锁了之",
+      "onboard_time": 1667738607,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190186,
+      "num": 123624,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "SAO开服",
@@ -1059,12 +1123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184093,
-      "num": 114201,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 188805,
+      "num": 188805,
+      "word": "郑州官方致歉",
+      "onboard_time": 1667739386,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183425,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 177647,
-      "num": 113313,
+      "num": 117739,
       "word": "王鹤棣回顾出道5周年vlog",
       "onboard_time": 1667736204,
       "rank": 31,
@@ -1105,14 +1169,6 @@
       "onboard_time": 1667717067,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "一架飞机在坦桑尼亚西北部坠湖",
-      "onboard_time": 1667736508,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168932,
@@ -1219,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148418,
+      "num": 113390,
+      "word": "周深黄小蕾杨烁情境联唱与光同行",
+      "onboard_time": 1667739148,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147853,
       "num": 96536,
       "word": "白术挺好的医生长了张嘴",
@@ -1265,14 +1329,6 @@
       "onboard_time": 1667664626,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141248,
-      "num": 141248,
-      "word": "妈妈用垃圾袋给女儿做礼服",
-      "onboard_time": 1667735608,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140965,
@@ -1368,14 +1424,6 @@
       "word": "11月5日新增本土确诊526例",
       "onboard_time": 1667701707,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129383,
-      "num": 103356,
-      "word": "广州昨日新增1325名感染者",
-      "onboard_time": 1667737828,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111170,
+      "num": 111170,
+      "word": "樊振东3比0周启豪",
+      "onboard_time": 1667737406,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111054,
       "num": 111054,
       "word": "航拍中国重庆宣传片",
@@ -1659,12 +1715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100883,
-      "num": 100883,
-      "word": "圆明园考古新发现",
-      "onboard_time": 1667738007,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 101927,
+      "num": 101927,
+      "word": "爸爸买的衣服有多离谱",
+      "onboard_time": 1667738729,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 100216,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1667726845,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97232,
-      "num": 97232,
-      "word": "樊振东3比0周启豪",
-      "onboard_time": 1667737406,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 95950,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 85635,
@@ -1880,6 +1936,22 @@
       "word": "秦岭再次拍到三只金钱豹同框",
       "onboard_time": 1667734345,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76174,
+      "num": 76174,
+      "word": "iPhone14中美之外全球涨价",
+      "onboard_time": 1667739450,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 73736,
+      "num": 73736,
+      "word": "天冷养生的正确方式",
+      "onboard_time": 1667739028,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

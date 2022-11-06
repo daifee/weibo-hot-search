@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667738378864,
+  "endTime": 1667739619222,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -297,6 +297,14 @@
       "onboard_time": 1667463685,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1884814,
+      "num": 555990,
+      "word": "陈飞宇张婧仪亲密戏镜头",
+      "onboard_time": 1667735010,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1882132,
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990090,
+      "num": 990090,
+      "word": "刘波打电话约架是真实事件改编",
+      "onboard_time": 1667735066,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985112,
       "num": 985112,
       "word": "25岁小伙长期挖鼻孔形成血管瘤",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1667284106,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 872043,
-      "num": 872043,
-      "word": "刘波打电话约架是真实事件改编",
-      "onboard_time": 1667735066,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 871877,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1667355264,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 755591,
+      "num": 255857,
+      "word": "马丽金鹰奖最佳女配角",
+      "onboard_time": 1667739266,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 752904,
@@ -3235,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441981,
+      "num": 276302,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441867,
       "num": 421495,
       "word": "脱口秀大会",
@@ -3281,6 +3305,14 @@
       "onboard_time": 1667620407,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437355,
+      "num": 424213,
+      "word": "第31届金鹰奖颁奖典礼节目单",
+      "onboard_time": 1667731947,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 434950,
@@ -3355,6 +3387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 429834,
+      "num": 429834,
+      "word": "爸爸请朋友吃饭让学医女儿扎针练手",
+      "onboard_time": 1667733926,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429738,
       "num": 217378,
       "word": "谭松韵黑色蕾丝吊带裙",
@@ -3409,22 +3449,6 @@
       "onboard_time": 1667698766,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 425496,
-      "num": 425496,
-      "word": "爸爸请朋友吃饭让学医女儿扎针练手",
-      "onboard_time": 1667733926,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424213,
-      "num": 424213,
-      "word": "第31届金鹰奖颁奖典礼节目单",
-      "onboard_time": 1667731947,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 424081,
@@ -3809,6 +3833,14 @@
       "onboard_time": 1667305586,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383757,
+      "num": 275828,
+      "word": "点燃我温暖你韩国口碑",
+      "onboard_time": 1667735967,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 383378,
@@ -4267,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344247,
+      "num": 253654,
+      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+      "onboard_time": 1667735666,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343356,
       "num": 343356,
       "word": "打火机与公主裙真香",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1667284826,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331802,
-      "num": 275828,
-      "word": "点燃我温暖你韩国口碑",
-      "onboard_time": 1667735967,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 331586,
@@ -4867,6 +4899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 300551,
+      "num": 236816,
+      "word": "一架飞机在坦桑尼亚西北部坠湖",
+      "onboard_time": 1667736508,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298942,
       "num": 203607,
       "word": "朴彩英Lisa唱了Jennie新歌",
@@ -5025,14 +5065,6 @@
       "onboard_time": 1667552910,
       "rank": 34,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 280985,
-      "num": 276302,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 280769,
@@ -5233,6 +5265,14 @@
       "onboard_time": 1667304625,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272449,
+      "num": 198672,
+      "word": "这就是早期cp粉发言吧",
+      "onboard_time": 1667736686,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 272029,
@@ -5483,14 +5523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253654,
-      "num": 253654,
-      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
-      "onboard_time": 1667735666,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253240,
       "num": 253240,
       "word": "单依纯姚贝娜跨时空对唱心火",
@@ -5513,14 +5545,6 @@
       "onboard_time": 1667363310,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251920,
-      "num": 140262,
-      "word": "这就是早期cp粉发言吧",
-      "onboard_time": 1667736686,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 251894,
@@ -5995,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223860,
+      "num": 223860,
+      "word": "妈妈用垃圾袋给女儿做礼服",
+      "onboard_time": 1667735608,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223316,
       "num": 223316,
       "word": "牛熟睡翻白眼被工人2巴掌打醒",
@@ -6064,6 +6096,14 @@
       "word": "被2只细腿腿毛茸茸磕到了",
       "onboard_time": 1667542345,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221001,
+      "num": 221001,
+      "word": "圆明园考古新发现",
+      "onboard_time": 1667738007,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6259,6 +6299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211175,
+      "num": 211175,
+      "word": "广州昨日新增1325名感染者",
+      "onboard_time": 1667737828,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211006,
       "num": 211006,
       "word": "这场大火烧光了一车的作业",
@@ -6400,6 +6448,14 @@
       "word": "宝宝趴床上大哭起身后逗笑旁人",
       "onboard_time": 1667696485,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205063,
+      "num": 205063,
+      "word": "呼和浩特要求不准对单元门一锁了之",
+      "onboard_time": 1667738607,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6771,12 +6827,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190186,
+      "num": 123624,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "SAO开服",
       "onboard_time": 1667712877,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188805,
+      "num": 188805,
+      "word": "郑州官方致歉",
+      "onboard_time": 1667739386,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188625,
@@ -6907,14 +6979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184093,
-      "num": 114201,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183425,
       "num": 183425,
       "word": "被成都啤酒兔的做法惊艳了",
@@ -7036,7 +7100,7 @@
     },
     {
       "raw_hot": 177647,
-      "num": 113313,
+      "num": 117739,
       "word": "王鹤棣回顾出道5周年vlog",
       "onboard_time": 1667736204,
       "rank": 31,
@@ -7185,14 +7249,6 @@
       "onboard_time": 1667717067,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "一架飞机在坦桑尼亚西北部坠湖",
-      "onboard_time": 1667736508,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169647,
@@ -7867,6 +7923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148418,
+      "num": 113390,
+      "word": "周深黄小蕾杨烁情境联唱与光同行",
+      "onboard_time": 1667739148,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148406,
       "num": 148406,
       "word": "秋冬跑步如何避免十跑九伤",
@@ -8121,14 +8185,6 @@
       "onboard_time": 1667539887,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141248,
-      "num": 141248,
-      "word": "妈妈用垃圾袋给女儿做礼服",
-      "onboard_time": 1667735608,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141216,
@@ -8537,14 +8593,6 @@
       "onboard_time": 1667527766,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129383,
-      "num": 103356,
-      "word": "广州昨日新增1325名感染者",
-      "onboard_time": 1667737828,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129144,
@@ -9203,6 +9251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111170,
+      "num": 111170,
+      "word": "樊振东3比0周启豪",
+      "onboard_time": 1667737406,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111054,
       "num": 111054,
       "word": "航拍中国重庆宣传片",
@@ -9539,6 +9595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101927,
+      "num": 101927,
+      "word": "爸爸买的衣服有多离谱",
+      "onboard_time": 1667738729,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101664,
       "num": 101664,
       "word": "金鸡奖",
@@ -9561,14 +9625,6 @@
       "onboard_time": 1667532324,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100883,
-      "num": 100883,
-      "word": "圆明园考古新发现",
-      "onboard_time": 1667738007,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100756,
@@ -9737,14 +9793,6 @@
       "onboard_time": 1667658086,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 97232,
-      "num": 97232,
-      "word": "樊振东3比0周启豪",
-      "onboard_time": 1667737406,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 96670,
@@ -10185,6 +10233,14 @@
       "onboard_time": 1667632707,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 86294,
@@ -10683,6 +10739,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 76174,
+      "num": 76174,
+      "word": "iPhone14中美之外全球涨价",
+      "onboard_time": 1667739450,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 76037,
       "num": 76037,
       "word": "2女子醉后一起上锁还扔掉钥匙",
@@ -10721,6 +10785,14 @@
       "onboard_time": 1667559388,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73736,
+      "num": 73736,
+      "word": "天冷养生的正确方式",
+      "onboard_time": 1667739028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73595,
