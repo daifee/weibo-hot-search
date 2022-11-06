@@ -1,7 +1,15 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667744359416,
+  "endTime": 1667745365649,
   "band_list": [
+    {
+      "raw_hot": 5275273,
+      "num": 5275273,
+      "word": "殷桃金鹰奖最佳女主角",
+      "onboard_time": 1667743532,
+      "rank": 3,
+      "category": "影视"
+    },
     {
       "raw_hot": 5089125,
       "num": 5089125,
@@ -57,14 +65,6 @@
       "onboard_time": 1667709444,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 3393270,
-      "num": 1028228,
-      "word": "殷桃金鹰奖最佳女主角",
-      "onboard_time": 1667743532,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 3224403,
@@ -697,6 +697,14 @@
       "onboard_time": 1667290288,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1417049,
+      "num": 1417049,
+      "word": "张超",
+      "onboard_time": 1667743292,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1412497,
@@ -2051,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 723202,
+      "num": 723202,
+      "word": "人世间",
+      "onboard_time": 1667744496,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 719232,
       "num": 719232,
       "word": "24岁小伙花光积蓄回乡买房入住毛坯",
@@ -2523,14 +2539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632398,
-      "num": 632398,
-      "word": "张超",
-      "onboard_time": 1667743292,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 627668,
       "num": 627668,
       "word": "披荆斩棘总决赛排名",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1667639967,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615427,
+      "num": 479892,
+      "word": "于和伟 陪跑",
+      "onboard_time": 1667744673,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 612974,
@@ -2899,6 +2915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560359,
+      "num": 460120,
+      "word": "马少骅获金鹰奖最佳男配",
+      "onboard_time": 1667741911,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559528,
       "num": 440200,
       "word": "唐嫣繁花说上海话",
@@ -3059,6 +3083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 541010,
+      "num": 541010,
+      "word": "医生建议1顿饭吃螃蟹不超过2只",
+      "onboard_time": 1667742271,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538934,
       "num": 538934,
       "word": "澳大利亚残疾女子被迫爬下飞机",
@@ -3072,14 +3104,6 @@
       "word": "张婧仪 钝感",
       "onboard_time": 1667690717,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 538293,
-      "num": 336825,
-      "word": "马少骅获金鹰奖最佳男配",
-      "onboard_time": 1667741911,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -3548,7 +3572,7 @@
     },
     {
       "raw_hot": 482514,
-      "num": 325958,
+      "num": 469285,
       "word": "打火机与公主裙 第八集",
       "onboard_time": 1667736747,
       "rank": 30,
@@ -3953,6 +3977,14 @@
       "onboard_time": 1667272465,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434703,
+      "num": 125222,
+      "word": "黄轩 陪跑",
+      "onboard_time": 1667744615,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 434696,
@@ -4707,6 +4739,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 369408,
+      "num": 369408,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368987,
       "num": 368987,
       "word": "杨幂肖砚哭戏",
@@ -4817,6 +4857,14 @@
       "onboard_time": 1667229985,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359234,
+      "num": 255384,
+      "word": "王鹤棣对苍兰诀破万印象深刻",
+      "onboard_time": 1667742630,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358867,
@@ -5755,14 +5803,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 303787,
-      "num": 234658,
-      "word": "王鹤棣对苍兰诀破万印象深刻",
-      "onboard_time": 1667742630,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303413,
       "num": 303413,
       "word": "网友称今年双11发货速度能擦出火星",
@@ -5857,14 +5897,6 @@
       "onboard_time": 1667204244,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294222,
-      "num": 294222,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291127,
@@ -6299,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271754,
+      "num": 271754,
+      "word": "头皮总长小红疙瘩是咋回事",
+      "onboard_time": 1667741309,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270251,
       "num": 270251,
       "word": "为什么00后购物变谨慎了",
@@ -6409,14 +6449,6 @@
       "onboard_time": 1667358867,
       "rank": 17,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 264007,
-      "num": 264007,
-      "word": "医生建议1顿饭吃螃蟹不超过2只",
-      "onboard_time": 1667742271,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263506,
@@ -7043,14 +7075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230240,
-      "num": 230240,
-      "word": "头皮总长小红疙瘩是咋回事",
-      "onboard_time": 1667741309,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -7177,6 +7201,14 @@
       "onboard_time": 1667735608,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223848,
+      "num": 223848,
+      "word": "AG再捧冠军杯",
+      "onboard_time": 1667744017,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 223316,
@@ -7345,6 +7377,14 @@
       "onboard_time": 1667573191,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216644,
+      "num": 111107,
+      "word": "狐妖小红娘月红篇杀青特辑要来了",
+      "onboard_time": 1667745336,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 216492,
@@ -7579,6 +7619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206701,
+      "num": 162393,
+      "word": "金鹰奖直播",
+      "onboard_time": 1667745098,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206651,
       "num": 206651,
       "word": "严浩翔的低音",
@@ -7809,6 +7857,14 @@
       "onboard_time": 1667496977,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199264,
+      "num": 158316,
+      "word": "佟丽娅金鹰节颁奖晚会",
+      "onboard_time": 1667745157,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 198714,
@@ -8331,6 +8387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181128,
+      "num": 181128,
+      "word": "北京新增本土感染者30例社会面1例",
+      "onboard_time": 1667739868,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181062,
       "num": 149646,
       "word": "胡歌繁花单人海报",
@@ -8488,14 +8552,6 @@
       "word": "呼和浩特星光A9",
       "onboard_time": 1667604321,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174077,
-      "num": 174077,
-      "word": "北京新增本土感染者30例社会面1例",
-      "onboard_time": 1667739868,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9443,6 +9499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146774,
+      "num": 146774,
+      "word": "林高远3比2樊振东",
+      "onboard_time": 1667744733,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146687,
       "num": 146687,
       "word": "胡可被苏醒张远的默契惊到了",
@@ -9705,6 +9769,14 @@
       "onboard_time": 1667190507,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139949,
+      "num": 139949,
+      "word": "阿斯顿维拉vs曼联",
+      "onboard_time": 1667745215,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139716,
@@ -10161,6 +10233,14 @@
       "onboard_time": 1667180546,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "知道自己变老的三个理由",
+      "onboard_time": 1667741612,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129779,
@@ -10707,6 +10787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117940,
+      "num": 117940,
+      "word": "摊贩恶意竞争遭学生集体抵制",
+      "onboard_time": 1667744375,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117438,
       "num": 117438,
       "word": "原神珐露珊",
@@ -10769,14 +10857,6 @@
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115652,
-      "num": 115652,
-      "word": "AG再捧冠军杯",
-      "onboard_time": 1667744017,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 115586,
@@ -11155,14 +11235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105923,
-      "num": 105923,
-      "word": "知道自己变老的三个理由",
-      "onboard_time": 1667741612,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105569,
       "num": 105569,
       "word": "你们是懂翻车的",
@@ -11417,6 +11489,14 @@
       "onboard_time": 1667129844,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100166,
+      "num": 100166,
+      "word": "立冬节气的养生指南",
+      "onboard_time": 1667744733,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100136,
