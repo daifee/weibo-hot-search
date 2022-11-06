@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667745365649,
+  "endTime": 1667748239326,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2064328,
+      "num": 1024247,
+      "word": "雷佳音获金鹰奖最佳男主角",
+      "onboard_time": 1667745694,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1977962,
       "num": 1977962,
       "word": "真的建议不要给孩子太多压力",
@@ -171,6 +179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1177631,
+      "num": 967906,
+      "word": "于和伟 陪跑",
+      "onboard_time": 1667744673,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1147625,
       "num": 1147625,
       "word": "Deft Meiko",
@@ -184,6 +200,14 @@
       "word": "谭松韵金鹰节颁奖晚会",
       "onboard_time": 1667733445,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1055247,
+      "num": 357182,
+      "word": "马丽获奖何炅哭了",
+      "onboard_time": 1667745996,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840107,
+      "num": 351907,
+      "word": "金鹰奖奖单",
+      "onboard_time": 1667745575,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 826488,
       "num": 740509,
       "word": "GALA 头像",
@@ -336,6 +368,14 @@
       "word": "新疆多地有序恢复正常生产生活秩序",
       "onboard_time": 1667740167,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729210,
+      "num": 729210,
+      "word": "医生建议1顿饭吃螃蟹不超过2只",
+      "onboard_time": 1667742271,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -435,14 +475,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 615427,
-      "num": 479892,
-      "word": "于和伟 陪跑",
-      "onboard_time": 1667744673,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 597314,
       "num": 597314,
       "word": "男子回应被陌生女子跟踪骚扰1年",
@@ -507,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 541010,
-      "num": 541010,
-      "word": "医生建议1顿饭吃螃蟹不超过2只",
-      "onboard_time": 1667742271,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538833,
       "num": 538833,
       "word": "张婧仪 钝感",
@@ -529,6 +553,14 @@
       "onboard_time": 1667722765,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 530497,
+      "num": 530497,
+      "word": "摊贩恶意竞争遭学生集体抵制",
+      "onboard_time": 1667744375,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520482,
@@ -699,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398516,
+      "num": 398516,
+      "word": "林高远3比2樊振东",
+      "onboard_time": 1667744733,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397245,
       "num": 397245,
       "word": "中国短道速滑2000米混合接力夺冠",
@@ -737,6 +777,14 @@
       "onboard_time": 1667740829,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373021,
+      "num": 255384,
+      "word": "王鹤棣对苍兰诀破万印象深刻",
+      "onboard_time": 1667742630,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369408,
@@ -785,14 +833,6 @@
       "onboard_time": 1667717906,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359234,
-      "num": 255384,
-      "word": "王鹤棣对苍兰诀破万印象深刻",
-      "onboard_time": 1667742630,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 355110,
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273342,
+      "num": 273342,
+      "word": "周恺vs周启豪",
+      "onboard_time": 1667745875,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272569,
       "num": 169313,
       "word": "杨幂白宇新剧公主抱",
@@ -1096,6 +1144,14 @@
       "word": "朱韵跌进了李峋的心里",
       "onboard_time": 1667732788,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229982,
+      "num": 137498,
+      "word": "觉醒年代yyds",
+      "onboard_time": 1667748150,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1220,7 +1276,7 @@
     },
     {
       "raw_hot": 216644,
-      "num": 111107,
+      "num": 133279,
       "word": "狐妖小红娘月红篇杀青特辑要来了",
       "onboard_time": 1667745336,
       "rank": 47,
@@ -1371,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172510,
+      "num": 120714,
+      "word": "觉醒年代",
+      "onboard_time": 1667747549,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170455,
       "num": 170455,
       "word": "鹿晗新歌试听预告",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1667702786,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162102,
+      "num": 162102,
+      "word": "知道自己变老的三个理由",
+      "onboard_time": 1667741612,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 159997,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1667719103,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146774,
-      "num": 146774,
-      "word": "林高远3比2樊振东",
-      "onboard_time": 1667744733,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 145382,
@@ -1611,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137706,
+      "num": 137706,
+      "word": "傍晚人体燃脂效率最高",
+      "onboard_time": 1667742029,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "原来普通人的快乐这么简单",
@@ -1625,6 +1697,14 @@
       "onboard_time": 1667701707,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 134288,
+      "num": 110329,
+      "word": "陈飞宇好欲",
+      "onboard_time": 1667748210,
+      "rank": 47,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 133423,
@@ -1667,12 +1747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129821,
-      "num": 129821,
-      "word": "知道自己变老的三个理由",
-      "onboard_time": 1667741612,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 130909,
+      "num": 130909,
+      "word": "全锦赛",
+      "onboard_time": 1667747190,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 128286,
@@ -1795,11 +1875,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119144,
-      "num": 119144,
-      "word": "傍晚人体燃脂效率最高",
-      "onboard_time": 1667742029,
-      "rank": 48,
+      "raw_hot": 119031,
+      "num": 119031,
+      "word": "武大靖说搭档任子威像沙僧",
+      "onboard_time": 1667746052,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1809,14 +1889,6 @@
       "onboard_time": 1667733266,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117940,
-      "num": 117940,
-      "word": "摊贩恶意竞争遭学生集体抵制",
-      "onboard_time": 1667744375,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117925,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1667743292,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115079,
+      "num": 115079,
+      "word": "上海男团全锦赛夺冠",
+      "onboard_time": 1667747971,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 113879,
@@ -1993,6 +2073,14 @@
       "onboard_time": 1667699908,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103254,
+      "num": 103254,
+      "word": "这是猫咪牌电动剃须刀吗",
+      "onboard_time": 1667748092,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103205,
@@ -2554,6 +2642,9 @@
     },
     {
       "word": "#第五届进口博览会#"
+    },
+    {
+      "word": "#进博会上的中国强音#"
     }
   ]
 }
