@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667769565465,
+  "endTime": 1667770537224,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -12123,6 +12123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29560,
+      "num": 29560,
+      "word": "BLG亏麻了",
+      "onboard_time": 1667766910,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29547,
       "num": 116230,
       "word": "双11推出3D多人实时互动玩法",
@@ -12161,14 +12169,6 @@
       "onboard_time": 1667689275,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24670,
-      "num": 24670,
-      "word": "BLG亏麻了",
-      "onboard_time": 1667766910,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 24330,
@@ -12219,7 +12219,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20909,
+      "raw_hot": 21376,
       "num": 13695,
       "word": "华春莹讲述德企在华合作情况",
       "onboard_time": 1667765891,
@@ -12329,6 +12329,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10538,
+      "num": 10538,
+      "word": "人民网评供销社受关注",
+      "onboard_time": 1667769913,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10181,
