@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667734429259,
+  "endTime": 1667738378864,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1975740,
+      "num": 277886,
+      "word": "陈飞宇张婧仪床戏镜头",
+      "onboard_time": 1667735010,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1632969,
       "num": 1632969,
       "word": "Faker",
@@ -121,6 +129,14 @@
       "onboard_time": 1667714311,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1078148,
+      "num": 1078148,
+      "word": "谭松韵金鹰节颁奖晚会",
+      "onboard_time": 1667733445,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1039357,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872043,
+      "num": 872043,
+      "word": "刘波打电话约架是真实事件改编",
+      "onboard_time": 1667735066,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 869944,
       "num": 869944,
       "word": "Kingen获FMVP",
@@ -235,20 +259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 752904,
+      "num": 263046,
+      "word": "男子火车上半脱裤子躺座椅上",
+      "onboard_time": 1667732664,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750959,
       "num": 750959,
       "word": "他22年不能露脸工作时怕遇到朋友",
       "onboard_time": 1667694683,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726872,
-      "num": 726872,
-      "word": "谭松韵金鹰节颁奖晚会",
-      "onboard_time": 1667733445,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 692544,
@@ -483,6 +507,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 425496,
+      "num": 425496,
+      "word": "爸爸请朋友吃饭让学医女儿扎针练手",
+      "onboard_time": 1667733926,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424213,
+      "num": 424213,
+      "word": "第31届金鹰奖颁奖典礼节目单",
+      "onboard_time": 1667731947,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422693,
       "num": 422693,
       "word": "螃蟹的血居然是透明的",
@@ -547,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373574,
-      "num": 263046,
-      "word": "男子火车上半脱裤子躺座椅上",
-      "onboard_time": 1667732664,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
@@ -585,6 +617,14 @@
       "onboard_time": 1667717906,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355110,
+      "num": 355110,
+      "word": "一诺新发型好奶",
+      "onboard_time": 1667736808,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 352325,
@@ -635,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331802,
+      "num": 275828,
+      "word": "点燃我温暖你韩国口碑",
+      "onboard_time": 1667735967,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325220,
       "num": 325220,
       "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
       "onboard_time": 1667635885,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321853,
-      "num": 321853,
-      "word": "第31届金鹰奖颁奖典礼节目单",
-      "onboard_time": 1667731947,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 318963,
@@ -739,6 +779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280985,
+      "num": 276302,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274380,
+      "num": 274380,
+      "word": "韩政府通报踩踏事故相关指示与汇报情况",
+      "onboard_time": 1667733145,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "篮网向欧文提出六项归队条件",
@@ -753,6 +809,22 @@
       "onboard_time": 1667718508,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253654,
+      "num": 253654,
+      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+      "onboard_time": 1667735666,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251920,
+      "num": 140262,
+      "word": "这就是早期cp粉发言吧",
+      "onboard_time": 1667736686,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 248500,
@@ -793,6 +865,22 @@
       "onboard_time": 1667705907,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231945,
+      "num": 139160,
+      "word": "朱韵跌进了李峋的心里",
+      "onboard_time": 1667732788,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229959,
+      "num": 229959,
+      "word": "19年前女儿被救19年后他救人",
+      "onboard_time": 1667732246,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 229133,
@@ -955,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198334,
-      "num": 198334,
-      "word": "19年前女儿被救19年后他救人",
-      "onboard_time": 1667732246,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 191804,
       "num": 138095,
       "word": "谍战甄嬛传",
@@ -977,6 +1057,14 @@
       "onboard_time": 1667712877,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184093,
+      "num": 114201,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 183425,
@@ -1003,12 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176120,
-      "num": 176120,
-      "word": "韩政府通报踩踏事故相关指示与汇报情况",
-      "onboard_time": 1667733145,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 177647,
+      "num": 113313,
+      "word": "王鹤棣回顾出道5周年vlog",
+      "onboard_time": 1667736204,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 170455,
@@ -1017,6 +1105,14 @@
       "onboard_time": 1667717067,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "一架飞机在坦桑尼亚西北部坠湖",
+      "onboard_time": 1667736508,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168932,
@@ -1043,8 +1139,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167381,
-      "num": 167381,
+      "raw_hot": 167901,
+      "num": 167901,
       "word": "旗舰处理器上市一月价格跳水1500",
       "onboard_time": 1667731886,
       "rank": 34,
@@ -1088,14 +1184,6 @@
       "word": "打火机与公主裙 甜",
       "onboard_time": 1667649569,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 154651,
-      "num": 149094,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1177,6 +1265,14 @@
       "onboard_time": 1667664626,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141248,
+      "num": 141248,
+      "word": "妈妈用垃圾袋给女儿做礼服",
+      "onboard_time": 1667735608,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140965,
@@ -1275,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129383,
+      "num": 103356,
+      "word": "广州昨日新增1325名感染者",
+      "onboard_time": 1667737828,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128286,
       "num": 128286,
       "word": "蒯曼3比0陈幸同",
       "onboard_time": 1667730447,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128107,
+      "num": 128107,
+      "word": "原来古时说的云梦泽在这里",
+      "onboard_time": 1667734767,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 127485,
@@ -1313,14 +1425,6 @@
       "onboard_time": 1667715149,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126012,
-      "num": 126012,
-      "word": "朱韵跌进了李峋的心里",
-      "onboard_time": 1667732788,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 125694,
@@ -1395,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118785,
+      "num": 111067,
+      "word": "蔡文静新剧又被坑100万",
+      "onboard_time": 1667733266,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117925,
       "num": 117925,
       "word": "广州面临三年来最复杂严峻疫情",
@@ -1427,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113879,
+      "num": 85682,
+      "word": "李峋朱韵 购物车拥抱",
+      "onboard_time": 1667737889,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111860,
       "num": 111860,
       "word": "T1决赛先下一城",
@@ -1457,14 +1577,6 @@
       "onboard_time": 1667644105,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111067,
-      "num": 111067,
-      "word": "蔡文静新剧又被坑100万",
-      "onboard_time": 1667733266,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 111054,
@@ -1547,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100883,
+      "num": 100883,
+      "word": "圆明园考古新发现",
+      "onboard_time": 1667738007,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -1563,20 +1683,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98433,
-      "num": 98433,
-      "word": "爸爸请朋友吃饭让学医女儿扎针练手",
-      "onboard_time": 1667733926,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97761,
       "num": 97761,
       "word": "空中视角看山城立体又魔幻",
       "onboard_time": 1667726845,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97232,
+      "num": 97232,
+      "word": "樊振东3比0周启豪",
+      "onboard_time": 1667737406,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 95950,
