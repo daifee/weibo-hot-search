@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667719199379,
+  "endTime": 1667720086086,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -179,6 +179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 759563,
+      "num": 478945,
+      "word": "Rookie发文恭喜DRX",
+      "onboard_time": 1667717846,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 750959,
       "num": 750959,
       "word": "他22年不能露脸工作时怕遇到朋友",
@@ -259,20 +267,20 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 597314,
+      "num": 597314,
+      "word": "男子回应被陌生女子跟踪骚扰1年",
+      "onboard_time": 1667716647,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 594538,
       "num": 594538,
       "word": "一年级女孩用手扫描书按进大脑",
       "onboard_time": 1667661929,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593604,
-      "num": 478945,
-      "word": "Rookie发文恭喜DRX",
-      "onboard_time": 1667717846,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 583763,
@@ -337,14 +345,6 @@
       "onboard_time": 1667660068,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 468298,
-      "num": 468298,
-      "word": "男子回应被陌生女子跟踪骚扰1年",
-      "onboard_time": 1667716647,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 459359,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375511,
+      "num": 375511,
+      "word": "新娘步行40米到婆家结婚",
+      "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
@@ -473,6 +481,14 @@
       "onboard_time": 1667707406,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361462,
+      "num": 361462,
+      "word": "孙颖莎混双搭档王楚钦",
+      "onboard_time": 1667717906,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 352325,
@@ -547,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300989,
+      "num": 300989,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288500,
       "num": 288500,
       "word": "DRX 实力",
@@ -561,22 +585,6 @@
       "onboard_time": 1667652326,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279938,
-      "num": 279938,
-      "word": "孙颖莎混双搭档王楚钦",
-      "onboard_time": 1667717906,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 274269,
-      "num": 300176,
-      "word": "新娘步行40米到婆家结婚",
-      "onboard_time": 1667717426,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -625,6 +633,14 @@
       "onboard_time": 1667705907,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228166,
+      "num": 173278,
+      "word": "青岛一小学校牌由学生轮流写",
+      "onboard_time": 1667716887,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 228024,
@@ -691,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215677,
-      "num": 173278,
-      "word": "青岛一小学校牌由学生轮流写",
-      "onboard_time": 1667716887,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 215572,
       "num": 215572,
       "word": "减肥操跳出了一种很新的感觉",
@@ -739,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204368,
-      "num": 204368,
-      "word": "打火机与公主裙真香",
-      "onboard_time": 1667716766,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -771,8 +771,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181555,
-      "num": 181555,
+      "raw_hot": 187519,
+      "num": 187519,
       "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
       "onboard_time": 1667717966,
       "rank": 28,
@@ -795,7 +795,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165657,
+      "raw_hot": 170455,
+      "num": 170455,
+      "word": "鹿晗新歌试听预告",
+      "onboard_time": 1667717067,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 168602,
       "num": 165657,
       "word": "宋祖儿reaction白宇谢谢你医生",
       "onboard_time": 1667716405,
@@ -841,14 +849,6 @@
       "onboard_time": 1667649569,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158663,
-      "num": 158663,
-      "word": "鹿晗新歌试听预告",
-      "onboard_time": 1667717067,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 154651,
@@ -913,6 +913,14 @@
       "onboard_time": 1667709987,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 142665,
+      "num": 142665,
+      "word": "科学家发现距地球最近黑洞",
+      "onboard_time": 1667717726,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 142073,
@@ -1179,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106316,
-      "num": 106316,
-      "word": "科学家发现距地球最近黑洞",
-      "onboard_time": 1667717726,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 106070,
       "num": 106070,
       "word": "T1 强",
@@ -1275,12 +1275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87994,
+      "num": 87994,
+      "word": "原来颈椎不是越直越好",
+      "onboard_time": 1667719587,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 87243,
       "num": 87243,
       "word": "北京新增本土感染者29例社会面3例",
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85635,
+      "num": 79560,
+      "word": "杨幂肖砚自责",
+      "onboard_time": 1667720065,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 83718,
@@ -1379,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68894,
+      "num": 79665,
+      "word": "LPL的差距",
+      "onboard_time": 1667719946,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68889,
       "num": 68889,
       "word": "心疼Faker",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1667719165,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 62898,
+      "num": 79081,
+      "word": "一个方法告别抑郁症",
+      "onboard_time": 1667718508,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 61101,

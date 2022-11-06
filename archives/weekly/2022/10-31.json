@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667719199379,
+  "endTime": 1667720086086,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -1795,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 759563,
+      "num": 478945,
+      "word": "Rookie发文恭喜DRX",
+      "onboard_time": 1667717846,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 759444,
       "num": 759444,
       "word": "老太误将502胶当滴耳液滴满耳道",
@@ -2499,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597314,
+      "num": 597314,
+      "word": "男子回应被陌生女子跟踪骚扰1年",
+      "onboard_time": 1667716647,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 596346,
       "num": 596346,
       "word": "丢烟头引青岛山火男子被判4年半",
@@ -2513,14 +2529,6 @@
       "onboard_time": 1667661929,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593604,
-      "num": 478945,
-      "word": "Rookie发文恭喜DRX",
-      "onboard_time": 1667717846,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 592419,
@@ -3451,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 468298,
-      "num": 468298,
-      "word": "男子回应被陌生女子跟踪骚扰1年",
-      "onboard_time": 1667716647,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 467434,
       "num": 467434,
       "word": "复仇者联盟4首播收视第一",
@@ -4379,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375511,
+      "num": 375511,
+      "word": "新娘步行40米到婆家结婚",
+      "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375471,
       "num": 375471,
       "word": "鹈鹕vs湖人",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1667707406,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361462,
+      "num": 361462,
+      "word": "孙颖莎混双搭档王楚钦",
+      "onboard_time": 1667717906,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 360439,
@@ -5435,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300989,
+      "num": 300989,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -5651,14 +5675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279938,
-      "num": 279938,
-      "word": "孙颖莎混双搭档王楚钦",
-      "onboard_time": 1667717906,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279832,
       "num": 279832,
       "word": "12岁男孩在小区用迷你爆米花机摆摊",
@@ -5793,14 +5809,6 @@
       "onboard_time": 1667280268,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 274269,
-      "num": 300176,
-      "word": "新娘步行40米到婆家结婚",
-      "onboard_time": 1667717426,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -6635,6 +6643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228166,
+      "num": 173278,
+      "word": "青岛一小学校牌由学生轮流写",
+      "onboard_time": 1667716887,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 228024,
       "num": 206015,
       "word": "YooA新歌LayLow",
@@ -6891,14 +6907,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 215677,
-      "num": 173278,
-      "word": "青岛一小学校牌由学生轮流写",
-      "onboard_time": 1667716887,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 215572,
       "num": 215572,
       "word": "减肥操跳出了一种很新的感觉",
@@ -7145,14 +7153,6 @@
       "onboard_time": 1667550089,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204368,
-      "num": 204368,
-      "word": "打火机与公主裙真香",
-      "onboard_time": 1667716766,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 203845,
@@ -7659,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187519,
+      "num": 187519,
+      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
+      "onboard_time": 1667717966,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -7801,14 +7809,6 @@
       "onboard_time": 1667528186,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181555,
-      "num": 181555,
-      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
-      "onboard_time": 1667717966,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181342,
@@ -8075,6 +8075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170455,
+      "num": 170455,
+      "word": "鹿晗新歌试听预告",
+      "onboard_time": 1667717067,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169647,
       "num": 169647,
       "word": "偶遇贺峻霖中传打卡阳光长跑",
@@ -8113,6 +8121,14 @@
       "onboard_time": 1667614409,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168602,
+      "num": 165657,
+      "word": "宋祖儿reaction白宇谢谢你医生",
+      "onboard_time": 1667716405,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168547,
@@ -8201,14 +8217,6 @@
       "onboard_time": 1667571870,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 165657,
-      "num": 165657,
-      "word": "宋祖儿reaction白宇谢谢你医生",
-      "onboard_time": 1667716405,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165477,
@@ -8497,14 +8505,6 @@
       "onboard_time": 1667620588,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158663,
-      "num": 158663,
-      "word": "鹿晗新歌试听预告",
-      "onboard_time": 1667717067,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 158287,
@@ -9049,6 +9049,14 @@
       "onboard_time": 1667477662,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142665,
+      "num": 142665,
+      "word": "科学家发现距地球最近黑洞",
+      "onboard_time": 1667717726,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 142421,
@@ -10427,14 +10435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106316,
-      "num": 106316,
-      "word": "科学家发现距地球最近黑洞",
-      "onboard_time": 1667717726,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 106070,
       "num": 106070,
       "word": "T1 强",
@@ -11259,6 +11259,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 87994,
+      "num": 87994,
+      "word": "原来颈椎不是越直越好",
+      "onboard_time": 1667719587,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 87985,
       "num": 87985,
       "word": "小尼刘敏涛知道了啥叫枣如雨下",
@@ -11409,6 +11417,14 @@
       "onboard_time": 1667646026,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85635,
+      "num": 79560,
+      "word": "杨幂肖砚自责",
+      "onboard_time": 1667720065,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 85629,
@@ -12059,6 +12075,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 68894,
+      "num": 79665,
+      "word": "LPL的差距",
+      "onboard_time": 1667719946,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68889,
       "num": 68889,
       "word": "心疼Faker",
@@ -12265,6 +12289,14 @@
       "onboard_time": 1667560707,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62898,
+      "num": 79081,
+      "word": "一个方法告别抑郁症",
+      "onboard_time": 1667718508,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 62826,
