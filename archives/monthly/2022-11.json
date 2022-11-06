@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667724091711,
+  "endTime": 1667726516249,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -395,20 +395,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1597017,
+      "num": 1597017,
+      "word": "广州海珠区新增1253名感染者",
+      "onboard_time": 1667720186,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1586990,
       "num": 1586990,
       "word": "福原爱被男友前妻起诉",
       "onboard_time": 1667314953,
       "rank": 10,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1585989,
-      "num": 1585989,
-      "word": "广州海珠区新增1253名感染者",
-      "onboard_time": 1667720186,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1584035,
@@ -544,6 +544,14 @@
       "word": "广州海珠严格控制人员流动",
       "onboard_time": 1667575592,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1329425,
+      "num": 1329425,
+      "word": "女生太瘦被老板要求长胖10斤",
+      "onboard_time": 1667722525,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -953,6 +961,14 @@
       "onboard_time": 1667391029,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1025795,
+      "num": 1025795,
+      "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
+      "onboard_time": 1667723910,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1023709,
@@ -2139,14 +2155,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 601000,
-      "num": 372794,
-      "word": "女生太瘦被老板要求长胖10斤",
-      "onboard_time": 1667722525,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 600943,
       "num": 517425,
       "word": "最高检依法对李国华决定逮捕",
@@ -2531,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536420,
+      "num": 330115,
+      "word": "DRX冠军皮肤选择",
+      "onboard_time": 1667722765,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 535868,
       "num": 535868,
       "word": "22岁女子按摩后大面积脑梗",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1667365172,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515527,
+      "num": 329038,
+      "word": "米勒哭了",
+      "onboard_time": 1667722475,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 513235,
@@ -3099,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448106,
-      "num": 168869,
-      "word": "米勒哭了",
-      "onboard_time": 1667722475,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 447137,
       "num": 447137,
       "word": "许家印7亿港元山顶豪宅被接管",
@@ -3137,14 +3153,6 @@
       "onboard_time": 1667292208,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 443159,
-      "num": 443159,
-      "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
-      "onboard_time": 1667723910,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 442676,
@@ -4203,6 +4211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 339265,
+      "num": 339265,
+      "word": "00后男生随手拍照中3万奖金",
+      "onboard_time": 1667720964,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338508,
       "num": 338508,
       "word": "男子围观车祸下一秒被撞",
@@ -4379,14 +4395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323493,
-      "num": 168772,
-      "word": "DRX冠军皮肤选择",
-      "onboard_time": 1667722765,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 322530,
       "num": 231203,
       "word": "时代少年团芭次元动画盛典VCR",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1667466385,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318963,
+      "num": 318963,
+      "word": "万茜拍救火戏鼻孔都黑了",
+      "onboard_time": 1667722833,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318122,
@@ -4584,14 +4600,6 @@
       "word": "叶舒华周子瑜Nxde舞蹈挑战",
       "onboard_time": 1667712385,
       "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 311650,
-      "num": 311650,
-      "word": "万茜拍救火戏鼻孔都黑了",
-      "onboard_time": 1667722833,
-      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -4739,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301928,
+      "num": 301928,
+      "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
+      "onboard_time": 1667725290,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -4803,12 +4819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288644,
-      "num": 288644,
-      "word": "00后男生随手拍照中3万奖金",
-      "onboard_time": 1667720964,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 289417,
+      "num": 289417,
+      "word": "管泽元同传",
+      "onboard_time": 1667723545,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 288500,
@@ -6291,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200727,
+      "num": 200727,
+      "word": "鹿晗新歌公布歌名",
+      "onboard_time": 1667723426,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -7107,14 +7131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164637,
-      "num": 164637,
-      "word": "鹿晗新歌公布歌名",
-      "onboard_time": 1667723426,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164335,
       "num": 164335,
       "word": "你怎么背十二生肖",
@@ -7697,6 +7713,14 @@
       "onboard_time": 1667604321,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147370,
+      "num": 147370,
+      "word": "管泽元业务能力",
+      "onboard_time": 1667723666,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 146977,
@@ -8323,6 +8347,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 127397,
+      "num": 127397,
+      "word": "随机给一位路人添堵",
+      "onboard_time": 1667721684,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127299,
       "num": 127299,
       "word": "一个人住可以有多爽",
@@ -8763,14 +8795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114145,
-      "num": 114145,
-      "word": "随机给一位路人添堵",
-      "onboard_time": 1667721684,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113623,
       "num": 113623,
       "word": "养猫人如何避免海克斯式猫粮",
@@ -9017,6 +9041,14 @@
       "onboard_time": 1667377647,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 106734,
+      "num": 106734,
+      "word": "张杰音乐节现场排练vlog",
+      "onboard_time": 1667725224,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 106406,
@@ -9387,14 +9419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96126,
-      "num": 96126,
-      "word": "管泽元同传",
-      "onboard_time": 1667723545,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
@@ -9619,6 +9643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 91231,
+      "num": 91231,
+      "word": "被不期而至婆婆气死",
+      "onboard_time": 1667726426,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91133,
       "num": 91133,
       "word": "熊猫宝宝学走路第一步是游旱泳",
@@ -9721,6 +9753,14 @@
       "onboard_time": 1667695947,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88770,
+      "num": 88770,
+      "word": "秋裤到底用不用穿",
+      "onboard_time": 1667725285,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 88659,
@@ -10496,14 +10536,6 @@
       "word": "心疼Faker",
       "onboard_time": 1667718804,
       "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 68785,
-      "num": 84361,
-      "word": "管泽元业务能力",
-      "onboard_time": 1667723666,
-      "rank": 47,
       "category": "游戏"
     },
     {
