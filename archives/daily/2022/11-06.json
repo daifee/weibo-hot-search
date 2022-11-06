@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667730196738,
+  "endTime": 1667731169150,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1749069,
+      "num": 1749069,
+      "word": "痛经的克星终于找到了",
+      "onboard_time": 1667727206,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1632969,
       "num": 1632969,
       "word": "Faker",
@@ -89,14 +97,6 @@
       "onboard_time": 1667722525,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1306560,
-      "num": 1306560,
-      "word": "痛经的克星终于找到了",
-      "onboard_time": 1667727206,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 1238930,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826488,
+      "num": 277395,
+      "word": "GALA 头像",
+      "onboard_time": 1667728950,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 762075,
       "num": 89238,
       "word": "原神哥第一辅助",
@@ -235,14 +243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 692295,
-      "num": 238867,
-      "word": "GALA 头像",
-      "onboard_time": 1667728950,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 681356,
       "num": 258415,
       "word": "孙怡说她第一次网购增高鞋",
@@ -257,6 +257,14 @@
       "onboard_time": 1667698408,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659372,
+      "num": 272023,
+      "word": "黑粉登报向张子枫道歉",
+      "onboard_time": 1667728105,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 658245,
@@ -393,14 +401,6 @@
       "onboard_time": 1667699665,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 490558,
-      "num": 238709,
-      "word": "黑粉登报向张子枫道歉",
-      "onboard_time": 1667728105,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 486967,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303622,
+      "num": 267087,
+      "word": "贵州农村斗牛引8万村民围观",
+      "onboard_time": 1667728105,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302406,
       "num": 302406,
       "word": "陕西村民突然播音腔惊呆尼格买提",
@@ -673,6 +681,14 @@
       "onboard_time": 1667702547,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287986,
+      "num": 287986,
+      "word": "会惊艳我一整个年少的人",
+      "onboard_time": 1667731045,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 287424,
@@ -875,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204613,
-      "num": 204613,
-      "word": "贵州农村斗牛引8万村民围观",
-      "onboard_time": 1667728105,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -969,6 +977,14 @@
       "onboard_time": 1667702786,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161460,
+      "num": 131436,
+      "word": "重庆男子地铁偷拍被发现还不承认",
+      "onboard_time": 1667730086,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159997,
@@ -1107,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137630,
+      "num": 137630,
+      "word": "女子练瑜伽式骑车惊呆路人",
+      "onboard_time": 1667729185,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "原来普通人的快乐这么简单",
@@ -1155,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131902,
+      "num": 131902,
+      "word": "科学家发现抗衰老新机制",
+      "onboard_time": 1667727986,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131228,
       "num": 131228,
       "word": "11月5日新增本土确诊526例",
@@ -1163,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129855,
-      "num": 129855,
-      "word": "科学家发现抗衰老新机制",
-      "onboard_time": 1667727986,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 128286,
+      "num": 128286,
+      "word": "蒯曼3比0陈幸同",
+      "onboard_time": 1667730447,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 127485,
@@ -1291,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113115,
-      "num": 113115,
-      "word": "重庆男子地铁偷拍被发现还不承认",
-      "onboard_time": 1667730086,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111860,
       "num": 111860,
       "word": "T1决赛先下一城",
@@ -1328,6 +1352,14 @@
       "word": "石家庄疫情防控",
       "onboard_time": 1667644105,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111054,
+      "num": 111054,
+      "word": "航拍中国重庆宣传片",
+      "onboard_time": 1667731045,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1467,6 +1499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90552,
+      "num": 90552,
+      "word": "北中医学生操场摆桌交流把脉",
+      "onboard_time": 1667730264,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 90408,
+      "num": 90408,
+      "word": "陈幸同3比2石洵瑶",
+      "onboard_time": 1667730865,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89513,
       "num": 77054,
       "word": "任嘉伦终于在嗨放派打上了乒乓球",
@@ -1499,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85954,
+      "num": 85954,
+      "word": "李峋为朱韵兜底",
+      "onboard_time": 1667729185,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85635,
       "num": 79560,
       "word": "杨幂肖砚自责",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1667718925,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83504,
-      "num": 83504,
-      "word": "女子练瑜伽式骑车惊呆路人",
-      "onboard_time": 1667729185,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82331,
