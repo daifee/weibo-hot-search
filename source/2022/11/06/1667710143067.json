@@ -1,0 +1,410 @@
+{
+  "runTime": 1667710143067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1975827,
+        "num": 1975827,
+        "word": "呼和浩特通报女子坠楼事件",
+        "onboard_time": 1667707584,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1789864,
+        "num": 1789864,
+        "word": "真的建议不要给孩子太多压力",
+        "onboard_time": 1667700687,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23716,
+        "num": 1192512,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1105716,
+        "num": 1105716,
+        "word": "22岁考研女生用眼过度视网膜裂孔",
+        "onboard_time": 1667706327,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858488,
+        "num": 858488,
+        "word": "金鹰奖最佳男女主提名",
+        "onboard_time": 1667706864,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589714,
+        "num": 589714,
+        "word": "女孩染怪病后腰长出浓密毛发",
+        "onboard_time": 1667692099,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691914,
+        "num": 558002,
+        "word": "何炅王凯主持金鹰节颁奖晚会",
+        "onboard_time": 1667704885,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506887,
+        "num": 506887,
+        "word": "T1对战DRX",
+        "onboard_time": 1667691739,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389889,
+        "num": 389889,
+        "word": "六旬奶奶每天化妆坚持40年",
+        "onboard_time": 1667698408,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322462,
+        "num": 322462,
+        "word": "31届金鹰奖最佳女主角提名",
+        "onboard_time": 1667704944,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499430,
+        "num": 298781,
+        "word": "时代峰峻招聘TF家族五代练习生",
+        "onboard_time": 1667706266,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408206,
+        "num": 293672,
+        "word": "DRX翻中翻中翻",
+        "onboard_time": 1667703025,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399823,
+        "num": 292143,
+        "word": "1杯奶茶所含咖啡因超3杯美式",
+        "onboard_time": 1667703807,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 273519,
+        "num": 273519,
+        "word": "请回答1988开播七周年了",
+        "onboard_time": 1667702669,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295162,
+        "num": 267750,
+        "word": "王嘉尔 妆",
+        "onboard_time": 1667700866,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 245697,
+        "num": 245697,
+        "word": "这届00后是懂求婚的",
+        "onboard_time": 1667707406,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216277,
+        "num": 216277,
+        "word": "贵州彩民一号之差憾失10亿巨奖",
+        "onboard_time": 1667696846,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215368,
+        "num": 215368,
+        "word": "Faker 不给mvp",
+        "onboard_time": 1667699665,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210624,
+        "num": 210624,
+        "word": "年轻人算是把方便面玩明白了",
+        "onboard_time": 1667703866,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207092,
+        "num": 207092,
+        "word": "七国集团同意帮助乌克兰重建基础设施",
+        "onboard_time": 1667698766,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228024,
+        "num": 206015,
+        "word": "YooA新歌LayLow",
+        "onboard_time": 1667709507,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212846,
+        "num": 202645,
+        "word": "命韵峋环",
+        "onboard_time": 1667705907,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208791,
+        "num": 202284,
+        "word": "丁禹兮换个姿势上秤少了40斤",
+        "onboard_time": 1667700506,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199112,
+        "num": 199112,
+        "word": "管泽元的嘴",
+        "onboard_time": 1667703567,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196673,
+        "num": 196673,
+        "word": "老人凑1.5万零钱替去世儿子还债",
+        "onboard_time": 1667693545,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207787,
+        "num": 193860,
+        "word": "杨幂电视剧电影收视双破1",
+        "onboard_time": 1667706564,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168830,
+        "num": 168830,
+        "word": "DRX 实力",
+        "onboard_time": 1667702547,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "男孩为拔河同学加油太激动被拖走",
+        "onboard_time": 1667708007,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166923,
+        "num": 166923,
+        "word": "不爱做饭的原因找到了",
+        "onboard_time": 1667708848,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155578,
+        "num": 155578,
+        "word": "他22年不能露脸工作时怕遇到朋友",
+        "onboard_time": 1667694683,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202953,
+        "num": 150622,
+        "word": "张婧仪 钝感",
+        "onboard_time": 1667690717,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181998,
+        "num": 148544,
+        "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+        "onboard_time": 1667709444,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 148024,
+        "word": "疯狂动物城尼克朱迪",
+        "onboard_time": 1667695586,
+        "rank": 32,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 143960,
+        "num": 143960,
+        "word": "中国短道速滑2000米混合接力夺冠",
+        "onboard_time": 1667694268,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139716,
+        "num": 139716,
+        "word": "kingen剑魔天神下凡",
+        "onboard_time": 1667710047,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135471,
+        "num": 135471,
+        "word": "篮网向欧文提出六项归队条件",
+        "onboard_time": 1667701285,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135260,
+        "num": 135260,
+        "word": "推特创始人为马斯克大裁员背锅",
+        "onboard_time": 1667699546,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125803,
+        "num": 125803,
+        "word": "T1拿到赛点",
+        "onboard_time": 1667705907,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113234,
+        "num": 113234,
+        "word": "云南姑娘种的咖啡豆走进联合国",
+        "onboard_time": 1667705066,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 109738,
+        "num": 109738,
+        "word": "呼和浩特女子坠楼事件时间线",
+        "onboard_time": 1667708907,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151807,
+        "num": 109408,
+        "word": "亚伦卡特去世",
+        "onboard_time": 1667695586,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135559,
+        "num": 109374,
+        "word": "马嘉祺我们的歌要你管横版直拍",
+        "onboard_time": 1667707886,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113140,
+        "num": 109332,
+        "word": "金鹰奖最佳男配提名",
+        "onboard_time": 1667705969,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108549,
+        "num": 108549,
+        "word": "女生收到男友礼物打开全是拉菲草",
+        "onboard_time": 1667661091,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 102698,
+        "word": "螃蟹的血居然是透明的",
+        "onboard_time": 1667692881,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 100339,
+        "num": 100339,
+        "word": "11月5日新增本土无症状3894例",
+        "onboard_time": 1667701645,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88860,
+        "num": 88860,
+        "word": "一年级女孩用手扫描书按进大脑",
+        "onboard_time": 1667661929,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84840,
+        "num": 84840,
+        "word": "海南省秋裤销量增速超东北三省",
+        "onboard_time": 1667709987,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108477,
+        "num": 84290,
+        "word": "T1和DRX决胜局",
+        "onboard_time": 1667709444,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82257,
+        "num": 82257,
+        "word": "catti",
+        "onboard_time": 1667706986,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人与自然和谐共生的湿地答案#"
+    }
+  }
+}

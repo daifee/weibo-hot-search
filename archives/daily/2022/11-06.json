@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667709119100,
+  "endTime": 1667710143067,
   "band_list": [
     {
       "raw_hot": 1977962,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1517282,
-      "num": 1517282,
+      "raw_hot": 1975827,
+      "num": 1975827,
       "word": "呼和浩特通报女子坠楼事件",
       "onboard_time": 1667707584,
       "rank": 1,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 858488,
+      "num": 858488,
+      "word": "金鹰奖最佳男女主提名",
+      "onboard_time": 1667706864,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 856554,
       "num": 856554,
       "word": "女生收到男友礼物打开全是拉菲草",
       "onboard_time": 1667661091,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763295,
-      "num": 763295,
-      "word": "金鹰奖最佳男女主提名",
-      "onboard_time": 1667706864,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 750959,
@@ -403,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228024,
+      "num": 206015,
+      "word": "YooA新歌LayLow",
+      "onboard_time": 1667709507,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "推特创始人为马斯克大裁员背锅",
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212846,
+      "num": 202645,
+      "word": "命韵峋环",
+      "onboard_time": 1667705907,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212082,
       "num": 212082,
       "word": "11月5日新增本土无症状3894例",
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181998,
+      "num": 148544,
+      "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+      "onboard_time": 1667709444,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 181195,
       "num": 181195,
       "word": "gidle新歌love特别版MV",
@@ -505,6 +529,22 @@
       "onboard_time": 1667705969,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167159,
+      "num": 167159,
+      "word": "男孩为拔河同学加油太激动被拖走",
+      "onboard_time": 1667708007,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166923,
+      "num": 166923,
+      "word": "不爱做饭的原因找到了",
+      "onboard_time": 1667708848,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 159997,
@@ -547,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149735,
-      "num": 149735,
-      "word": "命韵峋环",
-      "onboard_time": 1667705907,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145382,
       "num": 145382,
       "word": "航拍视角看台湾全岛",
@@ -585,6 +617,14 @@
       "onboard_time": 1667656108,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139716,
+      "num": 139716,
+      "word": "kingen剑魔天神下凡",
+      "onboard_time": 1667710047,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 138963,
@@ -763,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110670,
-      "num": 110670,
-      "word": "男孩为拔河同学加油太激动被拖走",
-      "onboard_time": 1667708007,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 109814,
       "num": 109814,
       "word": "吴卓羲在沙漠独自一个人掉队",
@@ -787,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108477,
+      "num": 84290,
+      "word": "T1和DRX决胜局",
+      "onboard_time": 1667709444,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107664,
       "num": 107664,
       "word": "鹤岗线上找房热度上涨近10倍",
       "onboard_time": 1667683751,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 107372,
-      "num": 107372,
-      "word": "不爱做饭的原因找到了",
-      "onboard_time": 1667708848,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 107355,
@@ -905,6 +937,14 @@
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84840,
+      "num": 84840,
+      "word": "海南省秋裤销量增速超东北三省",
+      "onboard_time": 1667709987,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 82296,
