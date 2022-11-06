@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667748239326,
+  "endTime": 1667749192806,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -2467,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578133,
+      "num": 578133,
+      "word": "摊贩恶意竞争遭学生集体抵制",
+      "onboard_time": 1667744375,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577823,
       "num": 577823,
       "word": "男子因楼上女子剁鸡找上门对骂",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1667609849,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 530497,
-      "num": 530497,
-      "word": "摊贩恶意竞争遭学生集体抵制",
-      "onboard_time": 1667744375,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530094,
@@ -4251,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360024,
+      "num": 167970,
+      "word": "觉醒年代yyds",
+      "onboard_time": 1667748150,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359992,
       "num": 233731,
       "word": "富士康返乡员工路遇大货车直接被捎上一程",
@@ -5105,6 +5113,14 @@
       "onboard_time": 1667439084,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300769,
+      "num": 133288,
+      "word": "陈飞宇好欲",
+      "onboard_time": 1667748210,
+      "rank": 47,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 300551,
@@ -6161,14 +6177,6 @@
       "onboard_time": 1667524825,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229982,
-      "num": 137498,
-      "word": "觉醒年代yyds",
-      "onboard_time": 1667748150,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 229959,
@@ -7476,7 +7484,7 @@
     },
     {
       "raw_hot": 172510,
-      "num": 120714,
+      "num": 132044,
       "word": "觉醒年代",
       "onboard_time": 1667747549,
       "rank": 40,
@@ -7689,6 +7697,14 @@
       "onboard_time": 1667469747,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "上海男团全锦赛夺冠",
+      "onboard_time": 1667747971,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 165073,
@@ -7993,6 +8009,14 @@
       "onboard_time": 1667370028,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156923,
+      "num": 156923,
+      "word": "全锦赛",
+      "onboard_time": 1667747190,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 156910,
@@ -8739,14 +8763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134288,
-      "num": 110329,
-      "word": "陈飞宇好欲",
-      "onboard_time": 1667748210,
-      "rank": 47,
-      "category": "影视,影视"
-    },
-    {
       "raw_hot": 134139,
       "num": 134139,
       "word": "库里三双",
@@ -8889,14 +8905,6 @@
       "onboard_time": 1667550268,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130909,
-      "num": 130909,
-      "word": "全锦赛",
-      "onboard_time": 1667747190,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 130787,
@@ -9457,14 +9465,6 @@
       "onboard_time": 1667561971,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115079,
-      "num": 115079,
-      "word": "上海男团全锦赛夺冠",
-      "onboard_time": 1667747971,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 114710,
@@ -10787,6 +10787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84152,
+      "num": 84152,
+      "word": "中国外交繁忙的一周释放哪些信号",
+      "onboard_time": 1667748569,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 83896,
       "num": 83896,
       "word": "你好星期六",
@@ -11041,6 +11049,14 @@
       "onboard_time": 1667377587,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77973,
+      "num": 77973,
+      "word": "6位闺蜜47年后再同框还原旧合照",
+      "onboard_time": 1667748989,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77872,
