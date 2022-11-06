@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667760138121,
+  "endTime": 1667762238806,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -12265,6 +12265,14 @@
       "onboard_time": 1667421310,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15125,
+      "num": 14363,
+      "word": "打火机与公主裙 小说",
+      "onboard_time": 1667760792,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 14208,
