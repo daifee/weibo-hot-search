@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667755213039,
+  "endTime": 1667756225819,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -11843,6 +11843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54019,
+      "num": 59976,
+      "word": "哈士奇终于找到了对口专业",
+      "onboard_time": 1667749349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52996,
       "num": 52996,
       "word": "拜仁2比0国米",
@@ -11865,6 +11873,14 @@
       "onboard_time": 1667506871,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50490,
+      "num": 48722,
+      "word": "王栎鑫素颜直播状态",
+      "onboard_time": 1667754319,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 50053,
@@ -11891,14 +11907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48722,
-      "num": 48722,
-      "word": "王栎鑫素颜直播状态",
-      "onboard_time": 1667754319,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48254,
       "num": 48254,
       "word": "2个贪玩萌娃拆3桶洗衣液倒满地",
@@ -11913,14 +11921,6 @@
       "onboard_time": 1667545890,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47888,
-      "num": 59976,
-      "word": "哈士奇终于找到了对口专业",
-      "onboard_time": 1667749349,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 47715,
@@ -12177,6 +12177,14 @@
       "onboard_time": 1667271687,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23888,
+      "num": 28889,
+      "word": "花店每日闭店仪式",
+      "onboard_time": 1667755038,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 22340,
