@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667739619222,
+  "endTime": 1667741518417,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -25,6 +25,22 @@
       "onboard_time": 1667709444,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2567115,
+      "num": 2567115,
+      "word": "马丽金鹰奖最佳女配角",
+      "onboard_time": 1667739266,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2552037,
+      "num": 2552037,
+      "word": "郑州官方致歉",
+      "onboard_time": 1667739386,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2535917,
@@ -137,6 +153,14 @@
       "onboard_time": 1667714311,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1097304,
+      "num": 1097304,
+      "word": "雷佳音怎么了",
+      "onboard_time": 1667741252,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1078148,
@@ -267,14 +291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 755591,
-      "num": 255857,
-      "word": "马丽金鹰奖最佳女配角",
-      "onboard_time": 1667739266,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 752904,
       "num": 263046,
       "word": "男子火车上半脱裤子躺座椅上",
@@ -289,6 +305,14 @@
       "onboard_time": 1667694683,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706447,
+      "num": 342574,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 692544,
@@ -361,6 +385,14 @@
       "onboard_time": 1667694984,
       "rank": 1,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 601202,
+      "num": 601202,
+      "word": "iPhone14中美之外全球涨价",
+      "onboard_time": 1667739450,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 597314,
@@ -443,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 516317,
+      "num": 516317,
+      "word": "呼和浩特要求不准对单元门一锁了之",
+      "onboard_time": 1667738607,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493453,
       "num": 493453,
       "word": "Faker 不给mvp",
@@ -489,14 +529,6 @@
       "onboard_time": 1667703807,
       "rank": 13,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 441981,
-      "num": 276302,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 441266,
@@ -619,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376142,
+      "num": 376142,
+      "word": "新疆多地有序恢复正常生产生活秩序",
+      "onboard_time": 1667740167,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
       "onboard_time": 1667700506,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367773,
+      "num": 367773,
+      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+      "onboard_time": 1667735666,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367419,
@@ -683,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 344247,
-      "num": 253654,
-      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
-      "onboard_time": 1667735666,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343356,
       "num": 343356,
       "word": "打火机与公主裙真香",
@@ -721,6 +761,14 @@
       "onboard_time": 1667635885,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322833,
+      "num": 247654,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 318963,
@@ -763,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303661,
+      "num": 303661,
+      "word": "爸爸买的衣服有多离谱",
+      "onboard_time": 1667738729,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302406,
       "num": 302406,
       "word": "陕西村民突然播音腔惊呆尼格买提",
@@ -772,7 +828,7 @@
     },
     {
       "raw_hot": 300551,
-      "num": 236816,
+      "num": 291554,
       "word": "一架飞机在坦桑尼亚西北部坠湖",
       "onboard_time": 1667736508,
       "rank": 17,
@@ -785,6 +841,14 @@
       "onboard_time": 1667723545,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290689,
+      "num": 290689,
+      "word": "广州昨日新增1325名感染者",
+      "onboard_time": 1667737828,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288500,
@@ -819,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282157,
+      "num": 282157,
+      "word": "圆明园考古新发现",
+      "onboard_time": 1667738007,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274380,
       "num": 274380,
       "word": "韩政府通报踩踏事故相关指示与汇报情况",
@@ -836,7 +908,7 @@
     },
     {
       "raw_hot": 272449,
-      "num": 198672,
+      "num": 226048,
       "word": "这就是早期cp粉发言吧",
       "onboard_time": 1667736686,
       "rank": 21,
@@ -987,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221001,
-      "num": 221001,
-      "word": "圆明园考古新发现",
-      "onboard_time": 1667738007,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218558,
       "num": 218558,
       "word": "吴卓羲对仁科粉转黑了",
@@ -1043,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211441,
+      "num": 139488,
+      "word": "罗云熙恭喜罗本求婚成功",
+      "onboard_time": 1667740829,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211207,
       "num": 211207,
       "word": "谢谢你医生2天19个病例",
       "onboard_time": 1667713354,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211175,
-      "num": 211175,
-      "word": "广州昨日新增1325名感染者",
-      "onboard_time": 1667737828,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209572,
@@ -1075,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205063,
-      "num": 205063,
-      "word": "呼和浩特要求不准对单元门一锁了之",
-      "onboard_time": 1667738607,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 204958,
+      "num": 204958,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 200618,
@@ -1107,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190186,
-      "num": 123624,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "SAO开服",
@@ -1123,20 +1179,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188805,
-      "num": 188805,
-      "word": "郑州官方致歉",
-      "onboard_time": 1667739386,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183425,
       "num": 183425,
       "word": "被成都啤酒兔的做法惊艳了",
       "onboard_time": 1667727444,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181325,
+      "num": 135924,
+      "word": "任鲁豫 获奖感言",
+      "onboard_time": 1667740949,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 181195,
@@ -1243,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153973,
+      "num": 128037,
+      "word": "北京新增本土感染者30例社会面1例",
+      "onboard_time": 1667739868,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151154,
       "num": 151154,
       "word": "你在上一段感情学到了什么",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1667664626,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141830,
+      "num": 141830,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140965,
@@ -1459,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127082,
+      "num": 85536,
+      "word": "杨幂白宇新剧公主抱",
+      "onboard_time": 1667741493,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126354,
       "num": 126354,
       "word": "云南姑娘种的咖啡豆走进联合国",
@@ -1587,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115546,
+      "num": 115546,
+      "word": "郑州主城区正在有序解封",
+      "onboard_time": 1667741130,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113879,
       "num": 85682,
       "word": "李峋朱韵 购物车拥抱",
@@ -1649,6 +1737,14 @@
       "onboard_time": 1667706386,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109547,
+      "num": 109547,
+      "word": "头皮总长小红疙瘩是咋回事",
+      "onboard_time": 1667741309,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109292,
@@ -1715,14 +1811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101927,
-      "num": 101927,
-      "word": "爸爸买的衣服有多离谱",
-      "onboard_time": 1667738729,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -1787,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90800,
+      "num": 90800,
+      "word": "天冷养生的正确方式",
+      "onboard_time": 1667739028,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90408,
       "num": 90408,
       "word": "陈幸同3比2石洵瑶",
@@ -1827,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86343,
-      "num": 86343,
-      "word": "电瓶车居然跑不过轮椅",
-      "onboard_time": 1667739386,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85635,
       "num": 79560,
       "word": "杨幂肖砚自责",
@@ -1857,6 +1945,14 @@
       "onboard_time": 1667718925,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83519,
+      "num": 83519,
+      "word": "外地工作孙女监控看小狗陪奶奶日常",
+      "onboard_time": 1667741493,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82331,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1667690717,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80604,
+      "num": 80604,
+      "word": "当陈幸同得知奖杯是金的",
+      "onboard_time": 1667741010,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80431,
@@ -1936,22 +2040,6 @@
       "word": "秦岭再次拍到三只金钱豹同框",
       "onboard_time": 1667734345,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76174,
-      "num": 76174,
-      "word": "iPhone14中美之外全球涨价",
-      "onboard_time": 1667739450,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 73736,
-      "num": 73736,
-      "word": "天冷养生的正确方式",
-      "onboard_time": 1667739028,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
