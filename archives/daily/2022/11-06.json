@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667710143067,
+  "endTime": 1667711958336,
   "band_list": [
     {
       "raw_hot": 1977962,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910456,
+      "num": 910456,
+      "word": "金鹰奖最佳男女主提名",
+      "onboard_time": 1667706864,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 899203,
       "num": 899203,
       "word": "乌鲁木齐辟谣再封三个月",
       "onboard_time": 1667658267,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858488,
-      "num": 858488,
-      "word": "金鹰奖最佳男女主提名",
-      "onboard_time": 1667706864,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 856554,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 684219,
+      "num": 684219,
+      "word": "T1和DRX决胜局",
+      "onboard_time": 1667709444,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 681356,
       "num": 258415,
       "word": "孙怡说她第一次网购增高鞋",
@@ -105,6 +113,14 @@
       "onboard_time": 1667698408,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674299,
+      "num": 674299,
+      "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+      "onboard_time": 1667709444,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 658245,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374408,
+      "num": 374408,
+      "word": "陈飞宇张婧仪bg之光",
+      "onboard_time": 1667710347,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
@@ -283,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367430,
+      "num": 367430,
+      "word": "不爱做饭的原因找到了",
+      "onboard_time": 1667708848,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367419,
       "num": 320761,
       "word": "阿瑟是有点清澈的愚蠢在身上的",
       "onboard_time": 1667663546,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361486,
+      "num": 361486,
+      "word": "这届00后是懂求婚的",
+      "onboard_time": 1667707406,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 352325,
@@ -363,20 +403,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279220,
-      "num": 279220,
-      "word": "这届00后是懂求婚的",
-      "onboard_time": 1667707406,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "篮网向欧文提出六项归队条件",
       "onboard_time": 1667701285,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261010,
+      "num": 158820,
+      "word": "LPL输得不冤",
+      "onboard_time": 1667710647,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 239571,
@@ -393,6 +433,14 @@
       "onboard_time": 1667693843,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235422,
+      "num": 235422,
+      "word": "男孩为拔河同学加油太激动被拖走",
+      "onboard_time": 1667708007,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 233467,
@@ -507,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181998,
-      "num": 148544,
-      "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
-      "onboard_time": 1667709444,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 181195,
       "num": 181195,
       "word": "gidle新歌love特别版MV",
@@ -529,22 +569,6 @@
       "onboard_time": 1667705969,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167159,
-      "num": 167159,
-      "word": "男孩为拔河同学加油太激动被拖走",
-      "onboard_time": 1667708007,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 166923,
-      "num": 166923,
-      "word": "不爱做饭的原因找到了",
-      "onboard_time": 1667708848,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 159997,
@@ -699,6 +723,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 125968,
+      "num": 125968,
+      "word": "海南省秋裤销量增速超东北三省",
+      "onboard_time": 1667709987,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 125694,
       "num": 125694,
       "word": "catti",
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118471,
+      "num": 118471,
+      "word": "呼和浩特女子坠楼事件时间线",
+      "onboard_time": 1667708907,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117925,
       "num": 117925,
       "word": "广州面临三年来最复杂严峻疫情",
@@ -761,14 +801,6 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114745,
-      "num": 114745,
-      "word": "呼和浩特女子坠楼事件时间线",
-      "onboard_time": 1667708907,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111860,
@@ -817,14 +849,6 @@
       "onboard_time": 1667634868,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108477,
-      "num": 84290,
-      "word": "T1和DRX决胜局",
-      "onboard_time": 1667709444,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 107664,
@@ -939,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84840,
-      "num": 84840,
-      "word": "海南省秋裤销量增速超东北三省",
-      "onboard_time": 1667709987,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 82296,
       "num": 82296,
       "word": "T1抢龙",
@@ -1035,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64693,
+      "num": 72908,
+      "word": "1个人吃有点丢人1群人吃就是回忆",
+      "onboard_time": 1667711727,
+      "rank": 46,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 61101,
       "num": 61101,
       "word": "一盒薯条养活了全家宠物",
@@ -1057,6 +1081,22 @@
       "onboard_time": 1667660670,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56734,
+      "num": 72814,
+      "word": "空军公布珠海航展阵容",
+      "onboard_time": 1667711846,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 54656,
+      "num": 72698,
+      "word": "直击第十四届中国航展",
+      "onboard_time": 1667711127,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52596,
