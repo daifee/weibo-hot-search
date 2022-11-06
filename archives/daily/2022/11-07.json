@@ -1,7 +1,15 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667774366121,
+  "endTime": 1667776996968,
   "band_list": [
+    {
+      "raw_hot": 1512942,
+      "num": 1512942,
+      "word": "郑州官方致歉",
+      "onboard_time": 1667739386,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1407378,
       "num": 1407378,
@@ -9,14 +17,6 @@
       "onboard_time": 1667743532,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1027603,
-      "num": 1027603,
-      "word": "郑州官方致歉",
-      "onboard_time": 1667739386,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 749353,
@@ -33,6 +33,14 @@
       "onboard_time": 1667745996,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 542386,
+      "num": 542386,
+      "word": "立冬",
+      "onboard_time": 1667776340,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505451,
@@ -75,6 +83,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 423858,
+      "num": 423858,
+      "word": "北京疫情防控形势更加严峻复杂",
+      "onboard_time": 1667771952,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408203,
       "num": 408203,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
@@ -105,6 +121,14 @@
       "onboard_time": 1667745575,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319646,
+      "num": 319646,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259888,
@@ -163,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198827,
+      "num": 198827,
+      "word": "人民网评供销社受关注",
+      "onboard_time": 1667769913,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185934,
       "num": 185934,
       "word": "广州昨日新增1325名感染者",
@@ -187,12 +219,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149669,
-      "num": 149669,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 19,
+      "raw_hot": 147292,
+      "num": 147292,
+      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+      "onboard_time": 1667735666,
+      "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "BLG亏麻了",
+      "onboard_time": 1667766910,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131549,
@@ -227,14 +267,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 124278,
-      "num": 90033,
-      "word": "人民网评供销社受关注",
-      "onboard_time": 1667769913,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123454,
       "num": 123454,
       "word": "妈妈用垃圾袋给女儿做礼服",
@@ -259,28 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114971,
-      "num": 114971,
-      "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
-      "onboard_time": 1667735666,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110922,
-      "num": 82737,
-      "word": "北京疫情防控形势更加严峻复杂",
-      "onboard_time": 1667771952,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "这是猫咪牌电动剃须刀吗",
       "onboard_time": 1667748092,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102300,
+      "num": 102300,
+      "word": "傍晚人体燃脂效率最高",
+      "onboard_time": 1667742029,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 96746,
@@ -307,11 +331,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85281,
-      "num": 85281,
+      "raw_hot": 93988,
+      "num": 93988,
       "word": "爸爸请朋友吃饭让学医女儿扎针练手",
       "onboard_time": 1667733926,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87377,
+      "num": 73599,
+      "word": "华春莹讲述德企在华合作情况",
+      "onboard_time": 1667765891,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73676,
+      "num": 73676,
+      "word": "哈士奇终于找到了对口专业",
+      "onboard_time": 1667749349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72962,
+      "num": 72962,
+      "word": "圆明园考古新发现",
+      "onboard_time": 1667738007,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72706,
       "num": 72706,
       "word": "电瓶车居然跑不过轮椅",
@@ -363,11 +411,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71497,
-      "num": 71497,
-      "word": "圆明园考古新发现",
-      "onboard_time": 1667738007,
-      "rank": 43,
+      "raw_hot": 70353,
+      "num": 70353,
+      "word": "冬季第一个节气来了",
+      "onboard_time": 1667776098,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -387,36 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64682,
-      "num": 64682,
-      "word": "傍晚人体燃脂效率最高",
-      "onboard_time": 1667742029,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60990,
       "num": 60990,
       "word": "一架飞机在坦桑尼亚西北部坠湖",
       "onboard_time": 1667736508,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60266,
-      "num": 60266,
-      "word": "哈士奇终于找到了对口专业",
-      "onboard_time": 1667749349,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 59749,
-      "num": 59749,
-      "word": "BLG亏麻了",
-      "onboard_time": 1667766910,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 55931,
@@ -432,6 +456,14 @@
       "word": "阿斯顿维拉vs曼联",
       "onboard_time": 1667745215,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54089,
+      "num": 54089,
+      "word": "骑士vs湖人",
+      "onboard_time": 1667776762,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -459,10 +491,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28441,
-      "num": 28441,
-      "word": "华春莹讲述德企在华合作情况",
-      "onboard_time": 1667765891,
+      "raw_hot": 35061,
+      "num": 35061,
+      "word": "冬季进补应该怎么吃",
+      "onboard_time": 1667776521,
       "rank": 49,
       "category": "社会新闻"
     },
