@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667716012170,
+  "endTime": 1667716999256,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -59,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1632969,
+      "num": 1632969,
+      "word": "Faker",
+      "onboard_time": 1667715028,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1453568,
       "num": 778435,
       "word": "女孩染怪病后腰长出浓密毛发",
       "onboard_time": 1667692099,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1242932,
-      "num": 1242932,
-      "word": "Faker",
-      "onboard_time": 1667715028,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1238930,
@@ -91,8 +91,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1116322,
-      "num": 1116322,
+      "raw_hot": 1147625,
+      "num": 1147625,
       "word": "Deft Meiko",
       "onboard_time": 1667714311,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885560,
+      "num": 885560,
+      "word": "陈飞宇李峋抽烟未播片段",
+      "onboard_time": 1667715568,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 869944,
       "num": 869944,
       "word": "Kingen获FMVP",
@@ -161,14 +169,6 @@
       "onboard_time": 1667661091,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 844436,
-      "num": 844436,
-      "word": "陈飞宇李峋抽烟未播片段",
-      "onboard_time": 1667715568,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 762075,
@@ -275,12 +275,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 550424,
+      "num": 550424,
+      "word": "1个人吃有点丢人1群人吃就是回忆",
+      "onboard_time": 1667711727,
+      "rank": 46,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 538833,
       "num": 538833,
       "word": "张婧仪 钝感",
       "onboard_time": 1667690717,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534763,
+      "num": 1118908,
+      "word": "女子连吃十几只螃蟹突发胰腺炎",
+      "onboard_time": 1667713055,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493453,
@@ -321,14 +337,6 @@
       "onboard_time": 1667703807,
       "rank": 13,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 456450,
-      "num": 456450,
-      "word": "1个人吃有点丢人1群人吃就是回忆",
-      "onboard_time": 1667711727,
-      "rank": 46,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 441266,
@@ -377,14 +385,6 @@
       "onboard_time": 1667695586,
       "rank": 13,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 417069,
-      "num": 1118908,
-      "word": "女子连吃十几只螃蟹突发胰腺炎",
-      "onboard_time": 1667713055,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415797,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244395,
+      "num": 244395,
+      "word": "姜贞羽说不想美就好了",
+      "onboard_time": 1667716826,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239571,
       "num": 239571,
       "word": "杨幂电视剧电影收视双破1",
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211207,
+      "num": 211207,
+      "word": "谢谢你医生2天19个病例",
+      "onboard_time": 1667713354,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205093,
       "num": 205093,
       "word": "宝宝趴床上大哭起身后逗笑旁人",
@@ -689,14 +705,6 @@
       "onboard_time": 1667670556,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 192710,
-      "num": 192710,
-      "word": "谢谢你医生2天19个病例",
-      "onboard_time": 1667713354,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 191804,
@@ -731,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170187,
+      "num": 170187,
+      "word": "男子回应被陌生女子跟踪骚扰1年",
+      "onboard_time": 1667716647,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 164112,
       "num": 154243,
       "word": "DRX扳回一城",
       "onboard_time": 1667702786,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163334,
+      "num": 163334,
+      "word": "你怎么背十二生肖",
+      "onboard_time": 1667713294,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159997,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 154651,
-      "num": 138286,
+      "num": 149094,
       "word": "金鹰奖",
       "onboard_time": 1667712993,
       "rank": 30,
@@ -777,6 +801,14 @@
       "onboard_time": 1667654666,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149532,
+      "num": 89367,
+      "word": "T1状态",
+      "onboard_time": 1667716946,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 145382,
@@ -859,6 +891,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 133727,
+      "num": 150433,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133423,
       "num": 133423,
       "word": "范丞丞重新定义剪平头",
@@ -891,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131048,
+      "num": 131048,
+      "word": "宋祖儿reaction白宇谢谢你医生",
+      "onboard_time": 1667716405,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127485,
       "num": 127485,
       "word": "广东男团晋级全锦赛决赛",
@@ -905,6 +953,14 @@
       "onboard_time": 1667705066,
       "rank": 49,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 126317,
+      "num": 144876,
+      "word": "四川贡嘎雪山绝美火烧云",
+      "onboard_time": 1667715149,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 125694,
@@ -963,20 +1019,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117297,
+      "num": 117297,
+      "word": "出现这几种症状或是急性胰腺炎",
+      "onboard_time": 1667716166,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116874,
       "num": 116874,
       "word": "Faker状态太好了",
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113885,
-      "num": 113885,
-      "word": "你怎么背十二生肖",
-      "onboard_time": 1667713294,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111860,
@@ -1083,12 +1139,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99722,
+      "num": 99722,
+      "word": "戴先生值得",
+      "onboard_time": 1667716526,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
       "onboard_time": 1667694324,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95290,
+      "num": 95290,
+      "word": "SKT",
+      "onboard_time": 1667716526,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 93746,
@@ -1131,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88805,
-      "num": 88805,
-      "word": "四川贡嘎雪山绝美火烧云",
-      "onboard_time": 1667715149,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 87243,
       "num": 87243,
       "word": "北京新增本土感染者29例社会面3例",
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87128,
+      "num": 87128,
+      "word": "青岛一小学校牌由学生轮流写",
+      "onboard_time": 1667716887,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 82331,
