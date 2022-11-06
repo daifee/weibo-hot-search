@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667720086086,
+  "endTime": 1667723203838,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -583,6 +583,14 @@
       "num": 1237749,
       "word": "42岁女子离婚后坚持健身年轻20岁",
       "onboard_time": 1667610150,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1277005,
+      "num": 1277005,
+      "word": "广州海珠区新增1253名感染者",
+      "onboard_time": 1667720186,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -2379,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 552970,
+      "num": 552970,
+      "word": "新娘步行40米到婆家结婚",
+      "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552499,
       "num": 552499,
       "word": "男子吃馄饨被拉走餐车变观光巴士",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1667621366,
       "rank": 34,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 510172,
+      "num": 510172,
+      "word": "Uzi",
+      "onboard_time": 1667715209,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 510029,
@@ -3731,14 +3755,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 375511,
-      "num": 375511,
-      "word": "新娘步行40米到婆家结婚",
-      "onboard_time": 1667717426,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375471,
       "num": 375471,
       "word": "鹈鹕vs湖人",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1667638347,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343356,
+      "num": 343356,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 341446,
@@ -4531,14 +4555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311649,
-      "num": 125165,
-      "word": "Uzi",
-      "onboard_time": 1667715209,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 311530,
       "num": 241248,
       "word": "李现寸头直播状态",
@@ -4683,14 +4699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300989,
-      "num": 300989,
-      "word": "打火机与公主裙真香",
-      "onboard_time": 1667716766,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1667434527,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 291780,
+      "num": 291780,
+      "word": "万茜拍救火戏鼻孔都黑了",
+      "onboard_time": 1667722833,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291127,
@@ -5203,6 +5219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261207,
+      "num": 261207,
+      "word": "00后男生随手拍照中3万奖金",
+      "onboard_time": 1667720964,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261013,
       "num": 261013,
       "word": "蔚来回应整车工厂生产暂停",
@@ -5651,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229133,
+      "num": 229133,
+      "word": "科学家发现距地球最近黑洞",
+      "onboard_time": 1667717726,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229058,
       "num": 229058,
       "word": "北京餐饮行业从业人员一天一检",
@@ -5673,6 +5705,14 @@
       "onboard_time": 1667716887,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 228135,
+      "num": 228135,
+      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
+      "onboard_time": 1667717966,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228024,
@@ -5729,6 +5769,14 @@
       "onboard_time": 1667567551,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 224606,
+      "word": "一个方法告别抑郁症",
+      "onboard_time": 1667718508,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 223316,
@@ -6523,14 +6571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 187519,
-      "num": 187519,
-      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
-      "onboard_time": 1667717966,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -7123,6 +7163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 161539,
+      "num": 161539,
+      "word": "女生太瘦被老板要求长胖10斤",
+      "onboard_time": 1667722525,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161309,
       "num": 161309,
       "word": "爵士vs湖人",
@@ -7451,6 +7499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151950,
+      "num": 151950,
+      "word": "米勒哭了",
+      "onboard_time": 1667722475,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151787,
       "num": 151787,
       "word": "流浪猫在CBD拥有豪华猫舍引关注",
@@ -7753,14 +7809,6 @@
       "onboard_time": 1667477662,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142665,
-      "num": 142665,
-      "word": "科学家发现距地球最近黑洞",
-      "onboard_time": 1667717726,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 142421,
@@ -8161,6 +8209,14 @@
       "onboard_time": 1667653826,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130531,
+      "num": 130531,
+      "word": "李峋11月男友",
+      "onboard_time": 1667720246,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 130058,
@@ -8603,6 +8659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116975,
+      "num": 116975,
+      "word": "原来颈椎不是越直越好",
+      "onboard_time": 1667719587,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 116874,
       "num": 116874,
       "word": "Faker状态太好了",
@@ -8689,6 +8753,14 @@
       "onboard_time": 1667219966,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112966,
+      "num": 112966,
+      "word": "DRX冠军皮肤选择",
+      "onboard_time": 1667722765,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 112278,
@@ -8953,6 +9025,14 @@
       "onboard_time": 1667460082,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105562,
+      "num": 105562,
+      "word": "蒲熠星说和院人玩游戏输赢都是赢",
+      "onboard_time": 1667721504,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 105343,
@@ -9299,6 +9379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95646,
+      "num": 95646,
+      "word": "随机给一位路人添堵",
+      "onboard_time": 1667721684,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95290,
       "num": 95290,
       "word": "SKT",
@@ -9635,14 +9723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87994,
-      "num": 87994,
-      "word": "原来颈椎不是越直越好",
-      "onboard_time": 1667719587,
-      "rank": 42,
-      "category": "其它"
-    },
-    {
       "raw_hot": 87985,
       "num": 87985,
       "word": "小尼刘敏涛知道了啥叫枣如雨下",
@@ -9817,6 +9897,14 @@
       "onboard_time": 1667482465,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 84736,
+      "num": 84736,
+      "word": "如何高效消灭家中蟑螂",
+      "onboard_time": 1667723006,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84630,
@@ -10523,6 +10611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 65657,
+      "num": 84574,
+      "word": "付豪随母亲展淑萍进行特训",
+      "onboard_time": 1667723126,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65079,
       "num": 65079,
       "word": "Jennie跳了Lisa的Money",
@@ -10577,14 +10673,6 @@
       "onboard_time": 1667560707,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62898,
-      "num": 79081,
-      "word": "一个方法告别抑郁症",
-      "onboard_time": 1667718508,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 62826,

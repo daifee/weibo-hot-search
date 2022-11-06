@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667720086086,
+  "endTime": 1667723203838,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -72,6 +72,14 @@
       "word": "女孩染怪病后腰长出浓密毛发",
       "onboard_time": 1667692099,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1277005,
+      "num": 1277005,
+      "word": "广州海珠区新增1253名感染者",
+      "onboard_time": 1667720186,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552970,
+      "num": 552970,
+      "word": "新娘步行40米到婆家结婚",
+      "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550424,
       "num": 550424,
       "word": "1个人吃有点丢人1群人吃就是回忆",
@@ -313,6 +329,14 @@
       "onboard_time": 1667690717,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510172,
+      "num": 510172,
+      "word": "Uzi",
+      "onboard_time": 1667715209,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 493453,
@@ -451,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375511,
-      "num": 375511,
-      "word": "新娘步行40米到婆家结婚",
-      "onboard_time": 1667717426,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
@@ -507,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343356,
+      "num": 343356,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339949,
       "num": 339949,
       "word": "年轻人算是把方便面玩明白了",
@@ -547,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311649,
-      "num": 125165,
-      "word": "Uzi",
-      "onboard_time": 1667715209,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 302406,
       "num": 302406,
       "word": "陕西村民突然播音腔惊呆尼格买提",
@@ -563,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300989,
-      "num": 300989,
-      "word": "打火机与公主裙真香",
-      "onboard_time": 1667716766,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 291780,
+      "num": 291780,
+      "word": "万茜拍救火戏鼻孔都黑了",
+      "onboard_time": 1667722833,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288500,
@@ -593,6 +609,14 @@
       "onboard_time": 1667701285,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261207,
+      "num": 261207,
+      "word": "00后男生随手拍照中3万奖金",
+      "onboard_time": 1667720964,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248500,
@@ -635,12 +659,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229133,
+      "num": 229133,
+      "word": "科学家发现距地球最近黑洞",
+      "onboard_time": 1667717726,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 228166,
       "num": 173278,
       "word": "青岛一小学校牌由学生轮流写",
       "onboard_time": 1667716887,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 228135,
+      "num": 228135,
+      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
+      "onboard_time": 1667717966,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228024,
@@ -665,6 +705,14 @@
       "onboard_time": 1667652027,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 224606,
+      "word": "一个方法告别抑郁症",
+      "onboard_time": 1667718508,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 223649,
@@ -771,14 +819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187519,
-      "num": 187519,
-      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
-      "onboard_time": 1667717966,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 181195,
       "num": 181195,
       "word": "gidle新歌love特别版MV",
@@ -827,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161539,
+      "num": 161539,
+      "word": "女生太瘦被老板要求长胖10斤",
+      "onboard_time": 1667722525,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159997,
       "num": 159997,
       "word": "马嘉祺我们的歌要你管横版直拍",
@@ -857,6 +905,14 @@
       "onboard_time": 1667712993,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151950,
+      "num": 151950,
+      "word": "米勒哭了",
+      "onboard_time": 1667722475,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 151154,
@@ -913,14 +969,6 @@
       "onboard_time": 1667709987,
       "rank": 47,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 142665,
-      "num": 142665,
-      "word": "科学家发现距地球最近黑洞",
-      "onboard_time": 1667717726,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 142073,
@@ -1011,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130531,
+      "num": 130531,
+      "word": "李峋11月男友",
+      "onboard_time": 1667720246,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127485,
       "num": 127485,
       "word": "广东男团晋级全锦赛决赛",
@@ -1099,11 +1155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116975,
+      "num": 116975,
+      "word": "原来颈椎不是越直越好",
+      "onboard_time": 1667719587,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 116874,
       "num": 116874,
       "word": "Faker状态太好了",
       "onboard_time": 1667700146,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112966,
+      "num": 112966,
+      "word": "DRX冠军皮肤选择",
+      "onboard_time": 1667722765,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -1195,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105562,
+      "num": 105562,
+      "word": "蒲熠星说和院人玩游戏输赢都是赢",
+      "onboard_time": 1667721504,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105098,
       "num": 105098,
       "word": "肖砚谈为什么想当医生",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1667694324,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95646,
+      "num": 95646,
+      "word": "随机给一位路人添堵",
+      "onboard_time": 1667721684,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 95290,
@@ -1275,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87994,
-      "num": 87994,
-      "word": "原来颈椎不是越直越好",
-      "onboard_time": 1667719587,
-      "rank": 42,
-      "category": "其它"
-    },
-    {
       "raw_hot": 87243,
       "num": 87243,
       "word": "北京新增本土感染者29例社会面3例",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1667720065,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 84736,
+      "num": 84736,
+      "word": "如何高效消灭家中蟑螂",
+      "onboard_time": 1667723006,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83718,
@@ -1435,12 +1523,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 62898,
-      "num": 79081,
-      "word": "一个方法告别抑郁症",
-      "onboard_time": 1667718508,
+      "raw_hot": 65657,
+      "num": 84574,
+      "word": "付豪随母亲展淑萍进行特训",
+      "onboard_time": 1667723126,
       "rank": 49,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 61101,
