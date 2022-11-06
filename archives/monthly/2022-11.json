@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667767070286,
+  "endTime": 1667769565465,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -12163,6 +12163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 24670,
+      "num": 24670,
+      "word": "BLG亏麻了",
+      "onboard_time": 1667766910,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24330,
       "num": 24330,
       "word": "彩虹家族将首次全谱系亮相中国航展",
@@ -12209,6 +12217,14 @@
       "onboard_time": 1667507952,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20909,
+      "num": 13695,
+      "word": "华春莹讲述德企在华合作情况",
+      "onboard_time": 1667765891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19691,
@@ -12315,14 +12331,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 10698,
-      "num": 10698,
-      "word": "华春莹讲述德企在华合作情况",
-      "onboard_time": 1667765891,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10181,
       "num": 10181,
       "word": "张益唐完成零点猜想论文",
@@ -12353,14 +12361,6 @@
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 8251,
-      "num": 10249,
-      "word": "BLG亏麻了",
-      "onboard_time": 1667766910,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 8139,
