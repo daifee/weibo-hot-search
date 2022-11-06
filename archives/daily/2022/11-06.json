@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667706610427,
+  "endTime": 1667707257799,
   "band_list": [
     {
       "raw_hot": 1650399,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1453568,
-      "num": 666798,
+      "num": 778435,
       "word": "女孩染怪病后腰长出浓密毛发",
       "onboard_time": 1667692099,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939795,
+      "num": 939795,
+      "word": "何炅王凯主持金鹰节颁奖晚会",
+      "onboard_time": 1667704885,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 934837,
@@ -41,14 +49,6 @@
       "onboard_time": 1667661091,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806316,
-      "num": 806316,
-      "word": "何炅王凯主持金鹰节颁奖晚会",
-      "onboard_time": 1667704885,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 750959,
@@ -99,20 +99,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 627635,
+      "num": 627635,
+      "word": "31届金鹰奖最佳女主角提名",
+      "onboard_time": 1667704944,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 625581,
+      "num": 422654,
+      "word": "时代峰峻招聘TF家族五代练习生",
+      "onboard_time": 1667706266,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621536,
       "num": 621536,
       "word": "王嘉尔S12决赛开幕式舞台",
       "onboard_time": 1667694984,
       "rank": 1,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 619954,
-      "num": 619954,
-      "word": "31届金鹰奖最佳女主角提名",
-      "onboard_time": 1667704944,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 614301,
@@ -171,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446827,
-      "num": 422654,
-      "word": "时代峰峻招聘TF家族五代练习生",
-      "onboard_time": 1667706266,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437169,
       "num": 324291,
       "word": "赵丽颖林更新 二哈追博美",
@@ -201,6 +201,14 @@
       "onboard_time": 1667692881,
       "rank": 7,
       "category": "其它"
+    },
+    {
+      "raw_hot": 420419,
+      "num": 351941,
+      "word": "1杯奶茶所含咖啡因超3杯美式",
+      "onboard_time": 1667703807,
+      "rank": 13,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 419270,
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397192,
+      "num": 274170,
+      "word": "22岁考研女生用眼过度视网膜裂孔",
+      "onboard_time": 1667706327,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "丁禹兮换个姿势上秤少了40斤",
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351941,
-      "num": 351941,
-      "word": "1杯奶茶所含咖啡因超3杯美式",
-      "onboard_time": 1667703807,
-      "rank": 13,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 344465,
       "num": 322762,
       "word": "这张脸帅得很直接",
@@ -283,12 +291,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336687,
-      "num": 336687,
+      "raw_hot": 339949,
+      "num": 339949,
       "word": "年轻人算是把方便面玩明白了",
       "onboard_time": 1667703866,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 330765,
+      "num": 234127,
+      "word": "金鹰奖最佳男女主提名",
+      "onboard_time": 1667706864,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 325220,
@@ -443,6 +459,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 197921,
+      "num": 174859,
+      "word": "杨幂电视剧电影收视双破1",
+      "onboard_time": 1667706564,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191804,
       "num": 138095,
       "word": "谍战甄嬛传",
@@ -459,20 +483,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180998,
+      "num": 165442,
+      "word": "金鹰奖最佳男配提名",
+      "onboard_time": 1667705969,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159902,
       "num": 159902,
       "word": "S12决赛传奇对决",
       "onboard_time": 1667687232,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159684,
-      "num": 159684,
-      "word": "金鹰奖最佳男配提名",
-      "onboard_time": 1667705969,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 158865,
@@ -635,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119292,
-      "num": 76209,
-      "word": "杨幂电视剧电影收视双破1",
-      "onboard_time": 1667706564,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117925,
       "num": 117925,
       "word": "广州面临三年来最复杂严峻疫情",
@@ -657,6 +673,14 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115442,
+      "num": 115442,
+      "word": "catti",
+      "onboard_time": 1667706986,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 111860,
@@ -755,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 97110,
-      "num": 97110,
-      "word": "22岁考研女生用眼过度视网膜裂孔",
-      "onboard_time": 1667706327,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 100216,
+      "num": 100216,
+      "word": "LOL",
+      "onboard_time": 1667706986,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 95950,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86269,
+      "num": 86269,
+      "word": "云南姑娘种的咖啡豆走进联合国",
+      "onboard_time": 1667705066,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 82296,
       "num": 82296,
       "word": "T1抢龙",
@@ -867,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70744,
+      "num": 76118,
+      "word": "电动车过充危害有多大",
+      "onboard_time": 1667707164,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70626,
       "num": 70626,
       "word": "杨九郎说敖子逸像漫画里出来的人",
@@ -889,14 +929,6 @@
       "onboard_time": 1667662527,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 67517,
-      "num": 67517,
-      "word": "云南姑娘种的咖啡豆走进联合国",
-      "onboard_time": 1667705066,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 66873,
@@ -995,8 +1027,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29606,
-      "num": 666988,
+      "raw_hot": 30933,
+      "num": 820170,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 2,
