@@ -1,0 +1,410 @@
+{
+  "runTime": 1667727435515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1499225,
+        "num": 1499225,
+        "word": "广州海珠区新增1253名感染者",
+        "onboard_time": 1667720186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1397550,
+        "num": 1397550,
+        "word": "女生太瘦被老板要求长胖10斤",
+        "onboard_time": 1667722525,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7885,
+        "num": 921185,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 782714,
+        "num": 782714,
+        "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
+        "onboard_time": 1667723910,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671506,
+        "num": 671506,
+        "word": "呼和浩特通报女子坠楼事件",
+        "onboard_time": 1667707584,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 526366,
+        "num": 526366,
+        "word": "DRX冠军皮肤选择",
+        "onboard_time": 1667722765,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 513960,
+        "num": 513960,
+        "word": "真的建议不要给孩子太多压力",
+        "onboard_time": 1667700687,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437640,
+        "num": 437640,
+        "word": "女子连吃十几只螃蟹突发胰腺炎",
+        "onboard_time": 1667713055,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350563,
+        "num": 350563,
+        "word": "Uzi",
+        "onboard_time": 1667715209,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335303,
+        "num": 335303,
+        "word": "00后男生随手拍照中3万奖金",
+        "onboard_time": 1667720964,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520482,
+        "num": 322935,
+        "word": "米勒哭了",
+        "onboard_time": 1667722475,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306731,
+        "num": 306731,
+        "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
+        "onboard_time": 1667725290,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296428,
+        "num": 296428,
+        "word": "管泽元同传",
+        "onboard_time": 1667723545,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292012,
+        "num": 292012,
+        "word": "万茜拍救火戏鼻孔都黑了",
+        "onboard_time": 1667722833,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284126,
+        "num": 284126,
+        "word": "新娘步行40米到婆家结婚",
+        "onboard_time": 1667717426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258025,
+        "num": 258025,
+        "word": "男子回应被陌生女子跟踪骚扰1年",
+        "onboard_time": 1667716647,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 244425,
+        "num": 244425,
+        "word": "Faker",
+        "onboard_time": 1667715028,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225832,
+        "num": 225832,
+        "word": "22岁考研女生用眼过度视网膜裂孔",
+        "onboard_time": 1667706327,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218439,
+        "num": 218439,
+        "word": "鹿晗新歌公布歌名",
+        "onboard_time": 1667723426,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212023,
+        "num": 212023,
+        "word": "EXO六人合体视频",
+        "onboard_time": 1667712509,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311914,
+        "num": 209568,
+        "word": "陈飞宇李峋抽烟未播片段",
+        "onboard_time": 1667715568,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189269,
+        "num": 189269,
+        "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+        "onboard_time": 1667709444,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 189571,
+        "num": 188303,
+        "word": "打火机与公主裙真香",
+        "onboard_time": 1667716766,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182201,
+        "num": 182201,
+        "word": "Deft Meiko",
+        "onboard_time": 1667714311,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177370,
+        "num": 177370,
+        "word": "1个人吃有点丢人1群人吃就是回忆",
+        "onboard_time": 1667711727,
+        "rank": 24,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 169699,
+        "num": 169699,
+        "word": "孙颖莎混双搭档王楚钦",
+        "onboard_time": 1667717906,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 168885,
+        "word": "管泽元业务能力",
+        "onboard_time": 1667723666,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168404,
+        "num": 168404,
+        "word": "Rookie发文恭喜DRX",
+        "onboard_time": 1667717846,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148647,
+        "num": 148647,
+        "word": "科学家发现距地球最近黑洞",
+        "onboard_time": 1667717726,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138296,
+        "num": 138296,
+        "word": "金鹰奖最佳男女主提名",
+        "onboard_time": 1667706864,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137423,
+        "num": 137423,
+        "word": "一个方法告别抑郁症",
+        "onboard_time": 1667718508,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134209,
+        "num": 134209,
+        "word": "姜贞羽说不想美就好了",
+        "onboard_time": 1667716826,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "1杯奶茶所含咖啡因超3杯美式",
+        "onboard_time": 1667703807,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 119180,
+        "num": 119180,
+        "word": "不爱做饭的原因找到了",
+        "onboard_time": 1667708848,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "叶舒华周子瑜Nxde舞蹈挑战",
+        "onboard_time": 1667712385,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "朴彩英LACMAARTFILMGALA红毯",
+        "onboard_time": 1667712755,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115397,
+        "num": 115397,
+        "word": "keria痛哭",
+        "onboard_time": 1667713354,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113537,
+        "num": 113537,
+        "word": "随机给一位路人添堵",
+        "onboard_time": 1667721684,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112756,
+        "num": 112756,
+        "word": "被不期而至婆婆气死",
+        "onboard_time": 1667726426,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105473,
+        "num": 105473,
+        "word": "DRX夺冠",
+        "onboard_time": 1667712877,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98630,
+        "num": 98630,
+        "word": "张杰音乐节现场排练vlog",
+        "onboard_time": 1667725224,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97761,
+        "num": 97761,
+        "word": "空中视角看山城立体又魔幻",
+        "onboard_time": 1667726845,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95308,
+        "num": 95308,
+        "word": "李峋11月男友",
+        "onboard_time": 1667720246,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93375,
+        "num": 93375,
+        "word": "LPL输得不冤",
+        "onboard_time": 1667710647,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92644,
+        "num": 92644,
+        "word": "秋裤到底用不用穿",
+        "onboard_time": 1667725285,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83002,
+        "num": 83002,
+        "word": "痛经的克星终于找到了",
+        "onboard_time": 1667727206,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82938,
+        "num": 82938,
+        "word": "青岛一小学校牌由学生轮流写",
+        "onboard_time": 1667716887,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 76986,
+        "word": "你怎么背十二生肖",
+        "onboard_time": 1667713294,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72919,
+        "num": 72919,
+        "word": "六旬奶奶每天化妆坚持40年",
+        "onboard_time": 1667698408,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66462,
+        "num": 71459,
+        "word": "中国空间站简笔画攻略上线",
+        "onboard_time": 1667727325,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人与自然和谐共生的湿地答案#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667726516249,
+  "endTime": 1667727435515,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1329425,
-      "num": 1329425,
+      "raw_hot": 1397550,
+      "num": 1397550,
       "word": "女生太瘦被老板要求长胖10斤",
       "onboard_time": 1667722525,
       "rank": 28,
@@ -356,14 +356,14 @@
     },
     {
       "raw_hot": 536420,
-      "num": 330115,
+      "num": 526366,
       "word": "DRX冠军皮肤选择",
       "onboard_time": 1667722765,
       "rank": 38,
       "category": "游戏"
     },
     {
-      "raw_hot": 515527,
+      "raw_hot": 520482,
       "num": 329038,
       "word": "米勒哭了",
       "onboard_time": 1667722475,
@@ -619,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306731,
+      "num": 306731,
+      "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
+      "onboard_time": 1667725290,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302406,
       "num": 302406,
       "word": "陕西村民突然播音腔惊呆尼格买提",
@@ -627,16 +635,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301928,
-      "num": 301928,
-      "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
-      "onboard_time": 1667725290,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 289417,
-      "num": 289417,
+      "raw_hot": 296428,
+      "num": 296428,
       "word": "管泽元同传",
       "onboard_time": 1667723545,
       "rank": 44,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218439,
+      "num": 218439,
+      "word": "鹿晗新歌公布歌名",
+      "onboard_time": 1667723426,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218116,
       "num": 91385,
       "word": "英雄联盟",
@@ -843,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200727,
-      "num": 200727,
-      "word": "鹿晗新歌公布歌名",
-      "onboard_time": 1667723426,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -897,6 +897,14 @@
       "onboard_time": 1667717067,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168885,
+      "num": 168885,
+      "word": "管泽元业务能力",
+      "onboard_time": 1667723666,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 168602,
@@ -993,14 +1001,6 @@
       "onboard_time": 1667719103,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147370,
-      "num": 147370,
-      "word": "管泽元业务能力",
-      "onboard_time": 1667723666,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 145382,
@@ -1235,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112756,
+      "num": 112756,
+      "word": "被不期而至婆婆气死",
+      "onboard_time": 1667726426,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111860,
       "num": 111860,
       "word": "T1决赛先下一城",
@@ -1355,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97761,
+      "num": 97761,
+      "word": "空中视角看山城立体又魔幻",
+      "onboard_time": 1667726845,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
@@ -1387,12 +1403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91231,
-      "num": 91231,
-      "word": "被不期而至婆婆气死",
-      "onboard_time": 1667726426,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 92644,
+      "num": 92644,
+      "word": "秋裤到底用不用穿",
+      "onboard_time": 1667725285,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 89513,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1667695947,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88770,
-      "num": 88770,
-      "word": "秋裤到底用不用穿",
-      "onboard_time": 1667725285,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 87243,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1667718925,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83002,
+      "num": 83002,
+      "word": "痛经的克星终于找到了",
+      "onboard_time": 1667727206,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 82331,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1667719165,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 66462,
+      "num": 71459,
+      "word": "中国空间站简笔画攻略上线",
+      "onboard_time": 1667727325,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65657,

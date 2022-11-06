@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667726516249,
+  "endTime": 1667727435515,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1397550,
+      "num": 1397550,
+      "word": "女生太瘦被老板要求长胖10斤",
+      "onboard_time": 1667722525,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1363339,
       "num": 1363339,
       "word": "朋友圈设置三天可见的理由",
@@ -544,14 +552,6 @@
       "word": "广州海珠严格控制人员流动",
       "onboard_time": 1667575592,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1329425,
-      "num": 1329425,
-      "word": "女生太瘦被老板要求长胖10斤",
-      "onboard_time": 1667722525,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2540,7 +2540,7 @@
     },
     {
       "raw_hot": 536420,
-      "num": 330115,
+      "num": 526366,
       "word": "DRX冠军皮肤选择",
       "onboard_time": 1667722765,
       "rank": 38,
@@ -2627,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520482,
+      "num": 329038,
+      "word": "米勒哭了",
+      "onboard_time": 1667722475,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 518571,
       "num": 448482,
       "word": "韩国踩踏事故失物招领处画面曝光",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1667365172,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515527,
-      "num": 329038,
-      "word": "米勒哭了",
-      "onboard_time": 1667722475,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 513235,
@@ -4667,6 +4667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306731,
+      "num": 306731,
+      "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
+      "onboard_time": 1667725290,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306705,
       "num": 306705,
       "word": "四六级报名",
@@ -4747,14 +4755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301928,
-      "num": 301928,
-      "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
-      "onboard_time": 1667725290,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -4769,6 +4769,14 @@
       "onboard_time": 1667489247,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296428,
+      "num": 296428,
+      "word": "管泽元同传",
+      "onboard_time": 1667723545,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 296081,
@@ -4817,14 +4825,6 @@
       "onboard_time": 1667603962,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289417,
-      "num": 289417,
-      "word": "管泽元同传",
-      "onboard_time": 1667723545,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 288500,
@@ -5939,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218439,
+      "num": 218439,
+      "word": "鹿晗新歌公布歌名",
+      "onboard_time": 1667723426,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218116,
       "num": 91385,
       "word": "英雄联盟",
@@ -6305,14 +6313,6 @@
       "onboard_time": 1667389286,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200727,
-      "num": 200727,
-      "word": "鹿晗新歌公布歌名",
-      "onboard_time": 1667723426,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 200618,
@@ -7001,6 +7001,14 @@
       "onboard_time": 1667283806,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168885,
+      "num": 168885,
+      "word": "管泽元业务能力",
+      "onboard_time": 1667723666,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 168882,
@@ -7713,14 +7721,6 @@
       "onboard_time": 1667604321,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147370,
-      "num": 147370,
-      "word": "管泽元业务能力",
-      "onboard_time": 1667723666,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 146977,
@@ -8819,6 +8819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112756,
+      "num": 112756,
+      "word": "被不期而至婆婆气死",
+      "onboard_time": 1667726426,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112278,
       "num": 112278,
       "word": "当你去旱冰场滑旱冰",
@@ -9371,6 +9379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97761,
+      "num": 97761,
+      "word": "空中视角看山城立体又魔幻",
+      "onboard_time": 1667726845,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97375,
       "num": 97375,
       "word": "彭冠英新剧冒充高峻接近蔡文静",
@@ -9571,6 +9587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92644,
+      "num": 92644,
+      "word": "秋裤到底用不用穿",
+      "onboard_time": 1667725285,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92616,
       "num": 92616,
       "word": "真功夫20件商标被裁定无效",
@@ -9641,14 +9665,6 @@
       "onboard_time": 1667309248,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 91231,
-      "num": 91231,
-      "word": "被不期而至婆婆气死",
-      "onboard_time": 1667726426,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 91133,
@@ -9753,14 +9769,6 @@
       "onboard_time": 1667695947,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88770,
-      "num": 88770,
-      "word": "秋裤到底用不用穿",
-      "onboard_time": 1667725285,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 88659,
@@ -10073,6 +10081,14 @@
       "onboard_time": 1667315372,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83002,
+      "num": 83002,
+      "word": "痛经的克星终于找到了",
+      "onboard_time": 1667727206,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 82790,
@@ -10617,6 +10633,14 @@
       "onboard_time": 1667462124,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 66462,
+      "num": 71459,
+      "word": "中国空间站简笔画攻略上线",
+      "onboard_time": 1667727325,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66246,
