@@ -1,0 +1,410 @@
+{
+  "runTime": 1667730196738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1336664,
+        "num": 1336664,
+        "word": "广州海珠区新增1253名感染者",
+        "onboard_time": 1667720186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306560,
+        "num": 1306560,
+        "word": "痛经的克星终于找到了",
+        "onboard_time": 1667727206,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 6530,
+        "num": 1217388,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1153534,
+        "num": 1153534,
+        "word": "女生太瘦被老板要求长胖10斤",
+        "onboard_time": 1667722525,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551241,
+        "num": 551241,
+        "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
+        "onboard_time": 1667723910,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494405,
+        "num": 494405,
+        "word": "呼和浩特通报女子坠楼事件",
+        "onboard_time": 1667707584,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 367554,
+        "num": 367554,
+        "word": "DRX冠军皮肤选择",
+        "onboard_time": 1667722765,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362022,
+        "num": 362022,
+        "word": "真的建议不要给孩子太多压力",
+        "onboard_time": 1667700687,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321628,
+        "num": 321628,
+        "word": "女子连吃十几只螃蟹突发胰腺炎",
+        "onboard_time": 1667713055,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240392,
+        "num": 240392,
+        "word": "00后男生随手拍照中3万奖金",
+        "onboard_time": 1667720964,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692295,
+        "num": 238867,
+        "word": "GALA 头像",
+        "onboard_time": 1667728950,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490558,
+        "num": 238709,
+        "word": "黑粉登报向张子枫道歉",
+        "onboard_time": 1667728105,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311457,
+        "num": 238430,
+        "word": "米勒哭了",
+        "onboard_time": 1667722475,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236459,
+        "num": 236459,
+        "word": "男子回应被陌生女子跟踪骚扰1年",
+        "onboard_time": 1667716647,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 228836,
+        "num": 228836,
+        "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
+        "onboard_time": 1667725290,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221642,
+        "num": 221642,
+        "word": "Uzi",
+        "onboard_time": 1667715209,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220254,
+        "num": 220254,
+        "word": "Faker",
+        "onboard_time": 1667715028,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208387,
+        "num": 208387,
+        "word": "EXO六人合体视频",
+        "onboard_time": 1667712509,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204613,
+        "num": 204613,
+        "word": "贵州农村斗牛引8万村民围观",
+        "onboard_time": 1667728105,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186074,
+        "num": 186074,
+        "word": "新娘步行40米到婆家结婚",
+        "onboard_time": 1667717426,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213918,
+        "num": 185480,
+        "word": "陈飞宇李峋抽烟未播片段",
+        "onboard_time": 1667715568,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183832,
+        "num": 183832,
+        "word": "管泽元同传",
+        "onboard_time": 1667723545,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183425,
+        "num": 183425,
+        "word": "被成都啤酒兔的做法惊艳了",
+        "onboard_time": 1667727444,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174232,
+        "num": 174232,
+        "word": "万茜拍救火戏鼻孔都黑了",
+        "onboard_time": 1667722833,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169755,
+        "num": 169755,
+        "word": "鹿晗新歌公布歌名",
+        "onboard_time": 1667723426,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167428,
+        "num": 167428,
+        "word": "打火机与公主裙真香",
+        "onboard_time": 1667716766,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 162007,
+        "word": "1个人吃有点丢人1群人吃就是回忆",
+        "onboard_time": 1667711727,
+        "rank": 26,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 149091,
+        "num": 149091,
+        "word": "Deft Meiko",
+        "onboard_time": 1667714311,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148459,
+        "num": 148459,
+        "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+        "onboard_time": 1667709444,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145422,
+        "num": 145422,
+        "word": "22岁考研女生用眼过度视网膜裂孔",
+        "onboard_time": 1667706327,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136687,
+        "num": 136687,
+        "word": "Rookie发文恭喜DRX",
+        "onboard_time": 1667717846,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135755,
+        "num": 135755,
+        "word": "管泽元业务能力",
+        "onboard_time": 1667723666,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131922,
+        "num": 131922,
+        "word": "被不期而至婆婆气死",
+        "onboard_time": 1667726426,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129855,
+        "num": 129855,
+        "word": "科学家发现抗衰老新机制",
+        "onboard_time": 1667727986,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126078,
+        "num": 126078,
+        "word": "孙颖莎混双搭档王楚钦",
+        "onboard_time": 1667717906,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119944,
+        "num": 119944,
+        "word": "科学家发现距地球最近黑洞",
+        "onboard_time": 1667717726,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118470,
+        "num": 118470,
+        "word": "keria痛哭",
+        "onboard_time": 1667713354,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113115,
+        "num": 113115,
+        "word": "重庆男子地铁偷拍被发现还不承认",
+        "onboard_time": 1667730086,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104716,
+        "num": 104716,
+        "word": "一个方法告别抑郁症",
+        "onboard_time": 1667718508,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104039,
+        "num": 104039,
+        "word": "朴彩英LACMAARTFILMGALA红毯",
+        "onboard_time": 1667712755,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98507,
+        "num": 98507,
+        "word": "金鹰奖最佳男女主提名",
+        "onboard_time": 1667706864,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91036,
+        "num": 91036,
+        "word": "秋裤到底用不用穿",
+        "onboard_time": 1667725285,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90545,
+        "num": 90545,
+        "word": "叶舒华周子瑜Nxde舞蹈挑战",
+        "onboard_time": 1667712385,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83504,
+        "num": 83504,
+        "word": "女子练瑜伽式骑车惊呆路人",
+        "onboard_time": 1667729185,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81966,
+        "num": 81966,
+        "word": "LPL输得不冤",
+        "onboard_time": 1667710647,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81556,
+        "num": 81556,
+        "word": "不爱做饭的原因找到了",
+        "onboard_time": 1667708848,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81109,
+        "num": 81109,
+        "word": "张杰音乐节现场排练vlog",
+        "onboard_time": 1667725224,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80581,
+        "num": 80581,
+        "word": "DRX夺冠",
+        "onboard_time": 1667712877,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79810,
+        "num": 79810,
+        "word": "1杯奶茶所含咖啡因超3杯美式",
+        "onboard_time": 1667703807,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 70208,
+        "num": 70208,
+        "word": "姜贞羽说不想美就好了",
+        "onboard_time": 1667716826,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届进口博览会#"
+    }
+  }
+}
