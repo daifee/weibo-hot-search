@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667742213999,
+  "endTime": 1667744359416,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -19,12 +19,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 4011034,
+      "num": 4011034,
+      "word": "雷佳音怎么了",
+      "onboard_time": 1667741252,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3699608,
       "num": 907952,
       "word": "T1和DRX决胜局",
       "onboard_time": 1667709444,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3393270,
+      "num": 1028228,
+      "word": "殷桃金鹰奖最佳女主角",
+      "onboard_time": 1667743532,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2663246,
@@ -49,14 +65,6 @@
       "onboard_time": 1667707584,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2525015,
-      "num": 2525015,
-      "word": "雷佳音怎么了",
-      "onboard_time": 1667741252,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2157819,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935001,
+      "num": 634617,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 934837,
       "num": 934837,
       "word": "国家疾控局回应近期是否调整防控政策",
@@ -241,14 +257,6 @@
       "onboard_time": 1667658267,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872936,
-      "num": 634617,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 869944,
@@ -315,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745913,
+      "num": 745913,
+      "word": "新疆多地有序恢复正常生产生活秩序",
+      "onboard_time": 1667740167,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697049,
+      "num": 697049,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1667742695,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692544,
       "num": 692544,
       "word": "T1对战DRX",
@@ -371,6 +395,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 632398,
+      "num": 632398,
+      "word": "张超",
+      "onboard_time": 1667743292,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 627635,
       "num": 627635,
       "word": "31届金鹰奖最佳女主角提名",
@@ -393,14 +425,6 @@
       "onboard_time": 1667694984,
       "rank": 1,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 607160,
-      "num": 607160,
-      "word": "新疆多地有序恢复正常生产生活秩序",
-      "onboard_time": 1667740167,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597314,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 538293,
+      "num": 336825,
+      "word": "马少骅获金鹰奖最佳男配",
+      "onboard_time": 1667741911,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536420,
       "num": 526366,
       "word": "DRX冠军皮肤选择",
@@ -513,6 +545,14 @@
       "onboard_time": 1667636068,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482514,
+      "num": 325958,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 477045,
@@ -627,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403304,
-      "num": 308511,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 397245,
       "num": 397245,
       "word": "中国短道速滑2000米混合接力夺冠",
@@ -665,6 +697,14 @@
       "onboard_time": 1667716826,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376374,
+      "num": 234877,
+      "word": "罗云熙恭喜罗本求婚成功",
+      "onboard_time": 1667740829,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 368293,
@@ -811,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308151,
+      "num": 308151,
+      "word": "郑州主城区正在有序解封",
+      "onboard_time": 1667741130,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308084,
       "num": 308084,
       "word": "爸爸买的衣服有多离谱",
@@ -825,6 +873,22 @@
       "onboard_time": 1667725290,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304888,
+      "num": 304888,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 303787,
+      "num": 234658,
+      "word": "王鹤棣对苍兰诀破万印象深刻",
+      "onboard_time": 1667742630,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302406,
@@ -849,6 +913,14 @@
       "onboard_time": 1667723545,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294222,
+      "num": 294222,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290689,
@@ -915,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272569,
+      "num": 169313,
+      "word": "杨幂白宇新剧公主抱",
+      "onboard_time": 1667741493,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272449,
       "num": 226048,
       "word": "这就是早期cp粉发言吧",
       "onboard_time": 1667736686,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264007,
+      "num": 264007,
+      "word": "医生建议1顿饭吃螃蟹不超过2只",
+      "onboard_time": 1667742271,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254360,
@@ -979,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230240,
+      "num": 230240,
+      "word": "头皮总长小红疙瘩是咋回事",
+      "onboard_time": 1667741309,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -1019,22 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226714,
-      "num": 226714,
-      "word": "电瓶车居然跑不过轮椅",
-      "onboard_time": 1667739386,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226539,
-      "num": 226539,
-      "word": "马少骅获金鹰奖最佳男配",
-      "onboard_time": 1667741911,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "推特创始人为马斯克大裁员背锅",
@@ -1049,14 +1129,6 @@
       "onboard_time": 1667652027,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225407,
-      "num": 225407,
-      "word": "罗云熙恭喜罗本求婚成功",
-      "onboard_time": 1667740829,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 223860,
@@ -1171,28 +1243,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 199036,
-      "num": 199036,
-      "word": "郑州主城区正在有序解封",
-      "onboard_time": 1667741130,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198593,
       "num": 187514,
       "word": "李峋对朱韵说我可不哄人",
       "onboard_time": 1667732967,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196471,
-      "num": 196471,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191804,
@@ -1251,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174077,
+      "num": 174077,
+      "word": "北京新增本土感染者30例社会面1例",
+      "onboard_time": 1667739868,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170455,
       "num": 170455,
       "word": "鹿晗新歌试听预告",
       "onboard_time": 1667717067,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168972,
+      "num": 168972,
+      "word": "当陈幸同得知奖杯是金的",
+      "onboard_time": 1667741010,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 168932,
@@ -1307,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161635,
-      "num": 161635,
-      "word": "杨幂白宇新剧公主抱",
-      "onboard_time": 1667741493,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159997,
       "num": 159997,
       "word": "马嘉祺我们的歌要你管横版直拍",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1667741792,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153973,
-      "num": 144558,
-      "word": "北京新增本土感染者30例社会面1例",
-      "onboard_time": 1667739868,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151154,
@@ -1611,14 +1667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123790,
-      "num": 118717,
-      "word": "当陈幸同得知奖杯是金的",
-      "onboard_time": 1667741010,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123337,
       "num": 123337,
       "word": "见证S12最后一舞",
@@ -1667,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119144,
+      "num": 119144,
+      "word": "傍晚人体燃脂效率最高",
+      "onboard_time": 1667742029,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118785,
       "num": 111067,
       "word": "蔡文静新剧又被坑100万",
@@ -1691,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117223,
-      "num": 117223,
-      "word": "头皮总长小红疙瘩是咋回事",
-      "onboard_time": 1667741309,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116975,
       "num": 116975,
       "word": "原来颈椎不是越直越好",
@@ -1712,6 +1760,22 @@
       "word": "Faker状态太好了",
       "onboard_time": 1667700146,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116530,
+      "num": 116530,
+      "word": "陈飞宇李峋的绅士手",
+      "onboard_time": 1667743292,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115652,
+      "num": 115652,
+      "word": "AG再捧冠军杯",
+      "onboard_time": 1667744017,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -1779,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109363,
+      "num": 109363,
+      "word": "点燃我温暖你",
+      "onboard_time": 1667743591,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109292,
       "num": 109292,
       "word": "日本网红下恒河后一小时身体不适",
@@ -1835,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105923,
+      "num": 105923,
+      "word": "知道自己变老的三个理由",
+      "onboard_time": 1667741612,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105098,
       "num": 105098,
       "word": "肖砚谈为什么想当医生",
@@ -1849,6 +1929,14 @@
       "onboard_time": 1667740410,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100991,
+      "num": 94329,
+      "word": "李峋嘴硬",
+      "onboard_time": 1667742871,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 100216,
@@ -1923,14 +2011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91892,
-      "num": 91892,
-      "word": "知道自己变老的三个理由",
-      "onboard_time": 1667741612,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 90800,
       "num": 90800,
       "word": "天冷养生的正确方式",
@@ -1961,14 +2041,6 @@
       "onboard_time": 1667741972,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88845,
-      "num": 88845,
-      "word": "傍晚人体燃脂效率最高",
-      "onboard_time": 1667742029,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 88829,

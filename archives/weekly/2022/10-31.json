@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667742213999,
+  "endTime": 1667744359416,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -27,6 +27,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 4011034,
+      "num": 4011034,
+      "word": "雷佳音怎么了",
+      "onboard_time": 1667741252,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3919420,
       "num": 3919420,
       "word": "新郑三中老师",
@@ -49,6 +57,14 @@
       "onboard_time": 1667709444,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3393270,
+      "num": 1028228,
+      "word": "殷桃金鹰奖最佳女主角",
+      "onboard_time": 1667743532,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3224403,
@@ -185,14 +201,6 @@
       "onboard_time": 1667707584,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2525015,
-      "num": 2525015,
-      "word": "雷佳音怎么了",
-      "onboard_time": 1667741252,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2509453,
@@ -1451,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935001,
+      "num": 634617,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 932638,
       "num": 932638,
       "word": "重庆32岁美女学霸多次相亲未成功",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1667197222,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872936,
-      "num": 634617,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 871877,
@@ -1979,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745913,
+      "num": 745913,
+      "word": "新疆多地有序恢复正常生产生活秩序",
+      "onboard_time": 1667740167,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744929,
       "num": 744929,
       "word": "陈小春听到李承铉感谢戚薇的表情",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1667424310,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697049,
+      "num": 697049,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1667742695,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 692544,
@@ -2499,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632398,
+      "num": 632398,
+      "word": "张超",
+      "onboard_time": 1667743292,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 627668,
       "num": 627668,
       "word": "披荆斩棘总决赛排名",
@@ -2600,14 +2632,6 @@
       "word": "兰州强调坚决防止疫情防控简单化一刀切",
       "onboard_time": 1667363476,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607160,
-      "num": 607160,
-      "word": "新疆多地有序恢复正常生产生活秩序",
-      "onboard_time": 1667740167,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -3048,6 +3072,14 @@
       "word": "张婧仪 钝感",
       "onboard_time": 1667690717,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 538293,
+      "num": 336825,
+      "word": "马少骅获金鹰奖最佳男配",
+      "onboard_time": 1667741911,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -3513,6 +3545,14 @@
       "onboard_time": 1667562448,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482514,
+      "num": 325958,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 482007,
@@ -4275,14 +4315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403304,
-      "num": 308511,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403148,
       "num": 403148,
       "word": "加拿大要求三家中企剥离在加锂矿资产",
@@ -4593,6 +4625,14 @@
       "onboard_time": 1667716826,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376374,
+      "num": 234877,
+      "word": "罗云熙恭喜罗本求婚成功",
+      "onboard_time": 1667740829,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 375471,
@@ -5595,6 +5635,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 308151,
+      "num": 308151,
+      "word": "郑州主城区正在有序解封",
+      "onboard_time": 1667741130,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308084,
       "num": 308084,
       "word": "爸爸买的衣服有多离谱",
@@ -5675,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304888,
+      "num": 304888,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304652,
       "num": 304652,
       "word": "司机因口渴误饮油漆稀释剂",
@@ -5697,6 +5753,14 @@
       "onboard_time": 1667378127,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 303787,
+      "num": 234658,
+      "word": "王鹤棣对苍兰诀破万印象深刻",
+      "onboard_time": 1667742630,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303413,
@@ -5793,6 +5857,14 @@
       "onboard_time": 1667204244,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294222,
+      "num": 294222,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291127,
@@ -6187,6 +6259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272569,
+      "num": 169313,
+      "word": "杨幂白宇新剧公主抱",
+      "onboard_time": 1667741493,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272488,
       "num": 203058,
       "word": "苏醒最终的人脉是陆虎",
@@ -6329,6 +6409,14 @@
       "onboard_time": 1667358867,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 264007,
+      "num": 264007,
+      "word": "医生建议1顿饭吃螃蟹不超过2只",
+      "onboard_time": 1667742271,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263506,
@@ -6955,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230240,
+      "num": 230240,
+      "word": "头皮总长小红疙瘩是咋回事",
+      "onboard_time": 1667741309,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -7027,22 +7123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226714,
-      "num": 226714,
-      "word": "电瓶车居然跑不过轮椅",
-      "onboard_time": 1667739386,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226539,
-      "num": 226539,
-      "word": "马少骅获金鹰奖最佳男配",
-      "onboard_time": 1667741911,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226286,
       "num": 226286,
       "word": "一团伙猎捕收售小熊猫每只35万",
@@ -7089,14 +7169,6 @@
       "onboard_time": 1667567551,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225407,
-      "num": 225407,
-      "word": "罗云熙恭喜罗本求婚成功",
-      "onboard_time": 1667740829,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 223860,
@@ -7739,14 +7811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199036,
-      "num": 199036,
-      "word": "郑州主城区正在有序解封",
-      "onboard_time": 1667741130,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198714,
       "num": 198714,
       "word": "误以为纸团是玩具的流浪猫",
@@ -7825,14 +7889,6 @@
       "onboard_time": 1667453545,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196471,
-      "num": 196471,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196464,
@@ -8435,6 +8491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174077,
+      "num": 174077,
+      "word": "北京新增本土感染者30例社会面1例",
+      "onboard_time": 1667739868,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173757,
       "num": 173757,
       "word": "见证S12最后一舞",
@@ -8569,6 +8633,14 @@
       "onboard_time": 1667197762,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168972,
+      "num": 168972,
+      "word": "当陈幸同得知奖杯是金的",
+      "onboard_time": 1667741010,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 168932,
@@ -8833,14 +8905,6 @@
       "onboard_time": 1667369608,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 161635,
-      "num": 161635,
-      "word": "杨幂白宇新剧公主抱",
-      "onboard_time": 1667741493,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 161309,
@@ -9129,14 +9193,6 @@
       "onboard_time": 1667396668,
       "rank": 45,
       "category": "科技,网红"
-    },
-    {
-      "raw_hot": 153973,
-      "num": 144558,
-      "word": "北京新增本土感染者30例社会面1例",
-      "onboard_time": 1667739868,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153818,
@@ -10363,14 +10419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123790,
-      "num": 118717,
-      "word": "当陈幸同得知奖杯是金的",
-      "onboard_time": 1667741010,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123340,
       "num": 88890,
       "word": "欢颜",
@@ -10587,6 +10635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119144,
+      "num": 119144,
+      "word": "傍晚人体燃脂效率最高",
+      "onboard_time": 1667742029,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118852,
       "num": 1414116,
       "word": "当秋天遇上古诗词有多美",
@@ -10667,14 +10723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117223,
-      "num": 117223,
-      "word": "头皮总长小红疙瘩是咋回事",
-      "onboard_time": 1667741309,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116975,
       "num": 116975,
       "word": "原来颈椎不是越直越好",
@@ -10689,6 +10737,14 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116530,
+      "num": 116530,
+      "word": "陈飞宇李峋的绅士手",
+      "onboard_time": 1667743292,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 116245,
@@ -10713,6 +10769,14 @@
       "onboard_time": 1667142029,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115652,
+      "num": 115652,
+      "word": "AG再捧冠军杯",
+      "onboard_time": 1667744017,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 115586,
@@ -11091,6 +11155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105923,
+      "num": 105923,
+      "word": "知道自己变老的三个理由",
+      "onboard_time": 1667741612,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105569,
       "num": 105569,
       "word": "你们是懂翻车的",
@@ -11297,6 +11369,14 @@
       "onboard_time": 1667532324,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100991,
+      "num": 94329,
+      "word": "李峋嘴硬",
+      "onboard_time": 1667742871,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 100756,
@@ -11763,14 +11843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91892,
-      "num": 91892,
-      "word": "知道自己变老的三个理由",
-      "onboard_time": 1667741612,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91870,
       "num": 91870,
       "word": "陈飞宇李峋被专有名词支配",
@@ -11937,14 +12009,6 @@
       "onboard_time": 1667462483,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88845,
-      "num": 88845,
-      "word": "傍晚人体燃脂效率最高",
-      "onboard_time": 1667742029,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 88819,
