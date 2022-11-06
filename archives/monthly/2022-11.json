@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667763223928,
+  "endTime": 1667766172900,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -12345,6 +12345,14 @@
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 8523,
+      "num": 10566,
+      "word": "华春莹讲述德企在华合作情况",
+      "onboard_time": 1667765891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8139,
