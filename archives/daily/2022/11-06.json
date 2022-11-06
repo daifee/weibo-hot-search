@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667741518417,
+  "endTime": 1667742213999,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -27,6 +27,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2663246,
+      "num": 2663246,
+      "word": "郑州官方致歉",
+      "onboard_time": 1667739386,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2567115,
       "num": 2567115,
       "word": "马丽金鹰奖最佳女配角",
@@ -35,20 +43,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2552037,
-      "num": 2552037,
-      "word": "郑州官方致歉",
-      "onboard_time": 1667739386,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2535917,
       "num": 2535917,
       "word": "呼和浩特通报女子坠楼事件",
       "onboard_time": 1667707584,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2525015,
+      "num": 2525015,
+      "word": "雷佳音怎么了",
+      "onboard_time": 1667741252,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2157819,
@@ -155,14 +163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1097304,
-      "num": 1097304,
-      "word": "雷佳音怎么了",
-      "onboard_time": 1667741252,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1078148,
       "num": 1078148,
       "word": "谭松韵金鹰节颁奖晚会",
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872936,
+      "num": 634617,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 869944,
       "num": 869944,
       "word": "Kingen获FMVP",
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 706447,
-      "num": 342574,
-      "word": "金鹰奖",
-      "onboard_time": 1667712993,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 692544,
       "num": 692544,
       "word": "T1对战DRX",
@@ -345,6 +345,14 @@
       "onboard_time": 1667696846,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638215,
+      "num": 638215,
+      "word": "iPhone14中美之外全球涨价",
+      "onboard_time": 1667739450,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 638136,
@@ -387,12 +395,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 601202,
-      "num": 601202,
-      "word": "iPhone14中美之外全球涨价",
-      "onboard_time": 1667739450,
-      "rank": 45,
-      "category": "科技"
+      "raw_hot": 607160,
+      "num": 607160,
+      "word": "新疆多地有序恢复正常生产生活秩序",
+      "onboard_time": 1667740167,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597314,
@@ -619,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403304,
+      "num": 308511,
+      "word": "打火机与公主裙 第八集",
+      "onboard_time": 1667736747,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397245,
       "num": 397245,
       "word": "中国短道速滑2000米混合接力夺冠",
@@ -649,14 +665,6 @@
       "onboard_time": 1667716826,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376142,
-      "num": 376142,
-      "word": "新疆多地有序恢复正常生产生活秩序",
-      "onboard_time": 1667740167,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368293,
@@ -731,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343692,
+      "num": 89258,
+      "word": "陈飞宇张婧仪kswl",
+      "onboard_time": 1667742151,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343356,
       "num": 343356,
       "word": "打火机与公主裙真香",
@@ -761,14 +777,6 @@
       "onboard_time": 1667635885,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322833,
-      "num": 247654,
-      "word": "打火机与公主裙 第八集",
-      "onboard_time": 1667736747,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 318963,
@@ -803,20 +811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308084,
+      "num": 308084,
+      "word": "爸爸买的衣服有多离谱",
+      "onboard_time": 1667738729,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 306731,
       "num": 306731,
       "word": "何炅王鹤棣黄明昊冯禧玩飞盘",
       "onboard_time": 1667725290,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303661,
-      "num": 303661,
-      "word": "爸爸买的衣服有多离谱",
-      "onboard_time": 1667738729,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 302406,
@@ -1011,6 +1019,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226714,
+      "num": 226714,
+      "word": "电瓶车居然跑不过轮椅",
+      "onboard_time": 1667739386,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226539,
+      "num": 226539,
+      "word": "马少骅获金鹰奖最佳男配",
+      "onboard_time": 1667741911,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "推特创始人为马斯克大裁员背锅",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1667652027,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225407,
+      "num": 225407,
+      "word": "罗云熙恭喜罗本求婚成功",
+      "onboard_time": 1667740829,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 223860,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211441,
-      "num": 139488,
-      "word": "罗云熙恭喜罗本求婚成功",
-      "onboard_time": 1667740829,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211207,
       "num": 211207,
       "word": "谢谢你医生2天19个病例",
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204958,
-      "num": 204958,
-      "word": "电瓶车居然跑不过轮椅",
-      "onboard_time": 1667739386,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -1155,12 +1171,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 199036,
+      "num": 199036,
+      "word": "郑州主城区正在有序解封",
+      "onboard_time": 1667741130,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198593,
       "num": 187514,
       "word": "李峋对朱韵说我可不哄人",
       "onboard_time": 1667732967,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196471,
+      "num": 196471,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191804,
@@ -1275,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161635,
+      "num": 161635,
+      "word": "杨幂白宇新剧公主抱",
+      "onboard_time": 1667741493,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159997,
       "num": 159997,
       "word": "马嘉祺我们的歌要你管横版直拍",
@@ -1299,8 +1339,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154624,
+      "num": 118929,
+      "word": "朱韵无条件相信李峋",
+      "onboard_time": 1667741792,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153973,
-      "num": 128037,
+      "num": 144558,
       "word": "北京新增本土感染者30例社会面1例",
       "onboard_time": 1667739868,
       "rank": 33,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1667664626,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141830,
-      "num": 141830,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140965,
@@ -1531,14 +1571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127082,
-      "num": 85536,
-      "word": "杨幂白宇新剧公主抱",
-      "onboard_time": 1667741493,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126354,
       "num": 126354,
       "word": "云南姑娘种的咖啡豆走进联合国",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1667698527,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123790,
+      "num": 118717,
+      "word": "当陈幸同得知奖杯是金的",
+      "onboard_time": 1667741010,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123337,
@@ -1651,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117223,
+      "num": 117223,
+      "word": "头皮总长小红疙瘩是咋回事",
+      "onboard_time": 1667741309,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116975,
       "num": 116975,
       "word": "原来颈椎不是越直越好",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115546,
-      "num": 115546,
-      "word": "郑州主城区正在有序解封",
-      "onboard_time": 1667741130,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113879,
@@ -1739,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109547,
-      "num": 109547,
-      "word": "头皮总长小红疙瘩是咋回事",
-      "onboard_time": 1667741309,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109292,
       "num": 109292,
       "word": "日本网红下恒河后一小时身体不适",
@@ -1811,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103205,
+      "num": 103205,
+      "word": "林高远3比2周恺",
+      "onboard_time": 1667740410,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1667716526,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99389,
+      "num": 99389,
+      "word": "许昕3比1李艺杰",
+      "onboard_time": 1667741792,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 97761,
@@ -1875,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91892,
+      "num": 91892,
+      "word": "知道自己变老的三个理由",
+      "onboard_time": 1667741612,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90800,
       "num": 90800,
       "word": "天冷养生的正确方式",
@@ -1897,6 +1953,22 @@
       "onboard_time": 1667656108,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89335,
+      "num": 89335,
+      "word": "父亲7年推脑瘫儿子跑54场马拉松",
+      "onboard_time": 1667741972,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88845,
+      "num": 88845,
+      "word": "傍晚人体燃脂效率最高",
+      "onboard_time": 1667742029,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88829,
@@ -1985,14 +2057,6 @@
       "onboard_time": 1667690717,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80604,
-      "num": 80604,
-      "word": "当陈幸同得知奖杯是金的",
-      "onboard_time": 1667741010,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80431,
@@ -2236,7 +2300,7 @@
     },
     {
       "raw_hot": 30979,
-      "num": 2005397,
+      "num": 2472229,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 2,

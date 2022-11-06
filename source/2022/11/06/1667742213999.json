@@ -1,0 +1,410 @@
+{
+  "runTime": 1667742213999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2663246,
+        "num": 2663246,
+        "word": "郑州官方致歉",
+        "onboard_time": 1667739386,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2525015,
+        "num": 2525015,
+        "word": "雷佳音怎么了",
+        "onboard_time": 1667741252,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10214,
+        "num": 2472229,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2454363,
+        "num": 2454363,
+        "word": "马丽金鹰奖最佳女配角",
+        "onboard_time": 1667739266,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638215,
+        "num": 638215,
+        "word": "iPhone14中美之外全球涨价",
+        "onboard_time": 1667739450,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 872936,
+        "num": 634617,
+        "word": "金鹰奖",
+        "onboard_time": 1667712993,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607160,
+        "num": 607160,
+        "word": "新疆多地有序恢复正常生产生活秩序",
+        "onboard_time": 1667740167,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514073,
+        "num": 514073,
+        "word": "呼和浩特要求不准对单元门一锁了之",
+        "onboard_time": 1667738607,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330573,
+        "num": 330573,
+        "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+        "onboard_time": 1667735666,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314880,
+        "num": 314880,
+        "word": "广州海珠区新增1253名感染者",
+        "onboard_time": 1667720186,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228824,
+        "num": 313642,
+        "word": "痛经的克星终于找到了",
+        "onboard_time": 1667727206,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 651224,
+        "num": 312127,
+        "word": "谭松韵金鹰节颁奖晚会",
+        "onboard_time": 1667733445,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533223,
+        "num": 309842,
+        "word": "刘波打电话约架是真实事件改编",
+        "onboard_time": 1667735066,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403304,
+        "num": 308511,
+        "word": "打火机与公主裙 第八集",
+        "onboard_time": 1667736747,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308084,
+        "num": 308084,
+        "word": "爸爸买的衣服有多离谱",
+        "onboard_time": 1667738729,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280682,
+        "num": 280682,
+        "word": "GALA 头像",
+        "onboard_time": 1667728950,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276005,
+        "num": 276005,
+        "word": "广州昨日新增1325名感染者",
+        "onboard_time": 1667737828,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272498,
+        "num": 272498,
+        "word": "一架飞机在坦桑尼亚西北部坠湖",
+        "onboard_time": 1667736508,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266635,
+        "num": 266635,
+        "word": "圆明园考古新发现",
+        "onboard_time": 1667738007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243202,
+        "num": 243202,
+        "word": "爸爸请朋友吃饭让学医女儿扎针练手",
+        "onboard_time": 1667733926,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317704,
+        "num": 239022,
+        "word": "第31届金鹰奖颁奖典礼节目单",
+        "onboard_time": 1667731947,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273134,
+        "num": 234553,
+        "word": "点燃我温暖你韩国口碑",
+        "onboard_time": 1667735967,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227163,
+        "num": 227163,
+        "word": "一诺新发型好奶",
+        "onboard_time": 1667736808,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226714,
+        "num": 226714,
+        "word": "电瓶车居然跑不过轮椅",
+        "onboard_time": 1667739386,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226539,
+        "num": 226539,
+        "word": "马少骅获金鹰奖最佳男配",
+        "onboard_time": 1667741911,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225407,
+        "num": 225407,
+        "word": "罗云熙恭喜罗本求婚成功",
+        "onboard_time": 1667740829,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199036,
+        "num": 199036,
+        "word": "郑州主城区正在有序解封",
+        "onboard_time": 1667741130,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196471,
+        "num": 196471,
+        "word": "立冬适合早睡晚起",
+        "onboard_time": 1667740349,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171979,
+        "num": 171979,
+        "word": "妈妈用垃圾袋给女儿做礼服",
+        "onboard_time": 1667735608,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166866,
+        "num": 166866,
+        "word": "女生太瘦被老板要求长胖10斤",
+        "onboard_time": 1667722525,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202638,
+        "num": 166140,
+        "word": "这就是早期cp粉发言吧",
+        "onboard_time": 1667736686,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
+        "onboard_time": 1667723910,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161635,
+        "num": 161635,
+        "word": "杨幂白宇新剧公主抱",
+        "onboard_time": 1667741493,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144558,
+        "num": 144558,
+        "word": "北京新增本土感染者30例社会面1例",
+        "onboard_time": 1667739868,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119209,
+        "num": 119209,
+        "word": "DRX冠军皮肤选择",
+        "onboard_time": 1667722765,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154624,
+        "num": 118929,
+        "word": "朱韵无条件相信李峋",
+        "onboard_time": 1667741792,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 118717,
+        "word": "当陈幸同得知奖杯是金的",
+        "onboard_time": 1667741010,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117223,
+        "num": 117223,
+        "word": "头皮总长小红疙瘩是咋回事",
+        "onboard_time": 1667741309,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115600,
+        "num": 115600,
+        "word": "19年前女儿被救19年后他救人",
+        "onboard_time": 1667732246,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109139,
+        "num": 109139,
+        "word": "Faker",
+        "onboard_time": 1667715028,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103205,
+        "num": 103205,
+        "word": "林高远3比2周恺",
+        "onboard_time": 1667740410,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100649,
+        "num": 100649,
+        "word": "女子连吃十几只螃蟹突发胰腺炎",
+        "onboard_time": 1667713055,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99895,
+        "num": 99895,
+        "word": "重庆男子地铁偷拍被发现还不承认",
+        "onboard_time": 1667730086,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 99389,
+        "word": "许昕3比1李艺杰",
+        "onboard_time": 1667741792,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91892,
+        "num": 91892,
+        "word": "知道自己变老的三个理由",
+        "onboard_time": 1667741612,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90362,
+        "num": 90362,
+        "word": "韩政府通报踩踏事故相关指示与汇报情况",
+        "onboard_time": 1667733145,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "父亲7年推脑瘫儿子跑54场马拉松",
+        "onboard_time": 1667741972,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343692,
+        "num": 89258,
+        "word": "陈飞宇张婧仪kswl",
+        "onboard_time": 1667742151,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88845,
+        "num": 88845,
+        "word": "傍晚人体燃脂效率最高",
+        "onboard_time": 1667742029,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83944,
+        "num": 83944,
+        "word": "天冷养生的正确方式",
+        "onboard_time": 1667739028,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将建设人与自然和谐共生的现代化#"
+    }
+  }
+}
