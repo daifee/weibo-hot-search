@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667776996968,
+  "endTime": 1667778007511,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -2443,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 582535,
+      "num": 582535,
+      "word": "立冬",
+      "onboard_time": 1667776340,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580763,
       "num": 580763,
       "word": "颜宁",
@@ -2712,14 +2720,6 @@
       "word": "95后男孩苦练上万次飞针采血",
       "onboard_time": 1667618908,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542386,
-      "num": 542386,
-      "word": "立冬",
-      "onboard_time": 1667776340,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3136,6 +3136,14 @@
       "word": "儿子沉迷游戏父亲怒摔手机让其砸",
       "onboard_time": 1667557168,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484509,
+      "num": 449656,
+      "word": "北京疫情防控形势更加严峻复杂",
+      "onboard_time": 1667771952,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3643,14 +3651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423858,
-      "num": 423858,
-      "word": "北京疫情防控形势更加严峻复杂",
-      "onboard_time": 1667771952,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422693,
       "num": 422693,
       "word": "螃蟹的血居然是透明的",
@@ -4003,6 +4003,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 385906,
+      "num": 385906,
+      "word": "立冬适合早睡晚起",
+      "onboard_time": 1667740349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385846,
       "num": 385846,
       "word": "赵丽颖与凤行沈璃正式杀青",
@@ -4177,14 +4185,6 @@
       "onboard_time": 1667327173,
       "rank": 39,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 369408,
-      "num": 369408,
-      "word": "立冬适合早睡晚起",
-      "onboard_time": 1667740349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368987,
@@ -5073,6 +5073,14 @@
       "onboard_time": 1667536167,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306255,
+      "num": 97665,
+      "word": "英国伦敦爆发大规模抗议",
+      "onboard_time": 1667777302,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 305868,
@@ -6787,6 +6795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204035,
+      "num": 204035,
+      "word": "人民网评供销社受关注",
+      "onboard_time": 1667769913,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203845,
       "num": 203845,
       "word": "米勒娃娃预测S12决赛",
@@ -6825,6 +6841,14 @@
       "onboard_time": 1667467705,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202428,
+      "num": 202428,
+      "word": "BLG亏麻了",
+      "onboard_time": 1667766910,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 202003,
@@ -6929,14 +6953,6 @@
       "onboard_time": 1667745157,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198827,
-      "num": 198827,
-      "word": "人民网评供销社受关注",
-      "onboard_time": 1667769913,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198714,
@@ -7665,6 +7681,14 @@
       "onboard_time": 1667410695,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168386,
+      "num": 168386,
+      "word": "超越",
+      "onboard_time": 1667777424,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 167901,
@@ -8635,8 +8659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137706,
-      "num": 137706,
+      "raw_hot": 137788,
+      "num": 137788,
       "word": "傍晚人体燃脂效率最高",
       "onboard_time": 1667742029,
       "rank": 48,
@@ -8817,14 +8841,6 @@
       "onboard_time": 1667551351,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134198,
-      "num": 134198,
-      "word": "BLG亏麻了",
-      "onboard_time": 1667766910,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 134139,
@@ -9747,6 +9763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109476,
+      "num": 97130,
+      "word": "华春莹讲述德企在华合作情况",
+      "onboard_time": 1667765891,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108870,
       "num": 97047,
       "word": "李荣浩晒自学画画第九天作品",
@@ -9809,6 +9833,14 @@
       "onboard_time": 1667368347,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107328,
+      "num": 107328,
+      "word": "骑士vs湖人",
+      "onboard_time": 1667776762,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 107321,
@@ -10699,14 +10731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87377,
-      "num": 73599,
-      "word": "华春莹讲述德企在华合作情况",
-      "onboard_time": 1667765891,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86710,
       "num": 295345,
       "word": "男童走失男子守护2小时等家长",
@@ -10721,6 +10745,14 @@
       "onboard_time": 1667632707,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86434,
+      "num": 86434,
+      "word": "朱婷比赛",
+      "onboard_time": 1667777242,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 86294,
@@ -11907,14 +11939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54089,
-      "num": 54089,
-      "word": "骑士vs湖人",
-      "onboard_time": 1667776762,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52996,
       "num": 52996,
       "word": "拜仁2比0国米",
@@ -11947,6 +11971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50888,
+      "num": 46779,
+      "word": "热刺vs利物浦",
+      "onboard_time": 1667777963,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50490,
       "num": 48722,
       "word": "王栎鑫素颜直播状态",
@@ -11976,6 +12008,14 @@
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48633,
+      "num": 48633,
+      "word": "初中女生带满箱偶像周边离家出走",
+      "onboard_time": 1667777905,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
