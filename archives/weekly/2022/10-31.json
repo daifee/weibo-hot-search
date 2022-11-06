@@ -1,6 +1,6 @@
 {
   "startTime": 1667147483439,
-  "endTime": 1667731169150,
+  "endTime": 1667733435141,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -211,6 +211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2157819,
+      "num": 2157819,
+      "word": "痛经的克星终于找到了",
+      "onboard_time": 1667727206,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2149296,
       "num": 2149296,
       "word": "兰州通报儿童中毒死亡事件",
@@ -393,14 +401,6 @@
       "onboard_time": 1667189125,
       "rank": 49,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1749069,
-      "num": 1749069,
-      "word": "痛经的克星终于找到了",
-      "onboard_time": 1667727206,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 1714957,
@@ -1708,7 +1708,7 @@
     },
     {
       "raw_hot": 826488,
-      "num": 277395,
+      "num": 740509,
       "word": "GALA 头像",
       "onboard_time": 1667728950,
       "rank": 10,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1667464404,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 773789,
+      "num": 272023,
+      "word": "黑粉登报向张子枫道歉",
+      "onboard_time": 1667728105,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 772764,
@@ -2241,14 +2249,6 @@
       "onboard_time": 1667375665,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 659372,
-      "num": 272023,
-      "word": "黑粉登报向张子枫道歉",
-      "onboard_time": 1667728105,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 658396,
@@ -4611,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361133,
+      "num": 361133,
+      "word": "陈飞宇回应新剧改名",
+      "onboard_time": 1667732727,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360439,
       "num": 360439,
       "word": "蔡徐坤白鹿周深上学座位公布",
@@ -4841,6 +4849,14 @@
       "onboard_time": 1667292628,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346807,
+      "num": 346807,
+      "word": "贵州农村斗牛引8万村民围观",
+      "onboard_time": 1667728105,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346339,
@@ -5523,14 +5539,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 303622,
-      "num": 267087,
-      "word": "贵州农村斗牛引8万村民围观",
-      "onboard_time": 1667728105,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303413,
       "num": 303413,
       "word": "网友称今年双11发货速度能擦出火星",
@@ -5544,6 +5552,14 @@
       "word": "吴磊周雨彤爱情而已网球海报",
       "onboard_time": 1667449586,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303304,
+      "num": 238815,
+      "word": "第31届金鹰奖颁奖典礼节目单",
+      "onboard_time": 1667731947,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -5721,6 +5737,14 @@
       "onboard_time": 1667296467,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284237,
+      "num": 131436,
+      "word": "重庆男子地铁偷拍被发现还不承认",
+      "onboard_time": 1667730086,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283429,
@@ -7187,6 +7211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209572,
+      "num": 209572,
+      "word": "女子练瑜伽式骑车惊呆路人",
+      "onboard_time": 1667729185,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209270,
       "num": 209270,
       "word": "俞敏洪谈年轻人为何容易躺平摆烂",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1667342175,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198593,
+      "num": 187514,
+      "word": "李峋对朱韵说我可不哄人",
+      "onboard_time": 1667732967,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 197971,
@@ -8507,12 +8547,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 161460,
-      "num": 131436,
-      "word": "重庆男子地铁偷拍被发现还不承认",
-      "onboard_time": 1667730086,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 161498,
+      "num": 161498,
+      "word": "北中医学生操场摆桌交流把脉",
+      "onboard_time": 1667730264,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 161309,
@@ -9203,6 +9243,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 143035,
+      "num": 143035,
+      "word": "科学家发现抗衰老新机制",
+      "onboard_time": 1667727986,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142962,
       "num": 142962,
       "word": "鹿晗新歌预告",
@@ -9265,6 +9313,14 @@
       "onboard_time": 1667613629,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140934,
+      "num": 140934,
+      "word": "李峋为朱韵兜底",
+      "onboard_time": 1667729185,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 140844,
@@ -9343,14 +9399,6 @@
       "num": 138209,
       "word": "中国的古人也吃方便面",
       "onboard_time": 1667571932,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137630,
-      "num": 137630,
-      "word": "女子练瑜伽式骑车惊呆路人",
-      "onboard_time": 1667729185,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -9555,6 +9603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133505,
+      "num": 133505,
+      "word": "男子火车上半脱裤子躺座椅上",
+      "onboard_time": 1667732664,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133124,
       "num": 133124,
       "word": "长征五号B遥四运载火箭已完成推进剂加注",
@@ -9649,14 +9705,6 @@
       "onboard_time": 1667726426,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131902,
-      "num": 131902,
-      "word": "科学家发现抗衰老新机制",
-      "onboard_time": 1667727986,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131847,
@@ -9947,6 +9995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126012,
+      "num": 126012,
+      "word": "朱韵跌进了李峋的心里",
+      "onboard_time": 1667732788,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125694,
       "num": 125694,
       "word": "catti",
@@ -10011,6 +10067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123774,
+      "num": 123774,
+      "word": "韩政府通报踩踏事故相关指示与汇报情况",
+      "onboard_time": 1667733145,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 123340,
       "num": 88890,
       "word": "欢颜",
@@ -10033,6 +10097,14 @@
       "onboard_time": 1667690658,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "旗舰处理器上市一月价格跳水1500",
+      "onboard_time": 1667731886,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 122947,
@@ -10123,12 +10195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121882,
+      "num": 121882,
+      "word": "李峋眼睛长在朱韵身上了",
+      "onboard_time": 1667733026,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121816,
       "num": 121816,
       "word": "金汤匙",
       "onboard_time": 1667609667,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121760,
+      "num": 121760,
+      "word": "辽宁女团全锦赛夺冠",
+      "onboard_time": 1667731646,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 120423,
@@ -10265,6 +10353,14 @@
       "onboard_time": 1667290889,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117825,
+      "num": 117825,
+      "word": "19年前女儿被救19年后他救人",
+      "onboard_time": 1667732246,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 117438,
@@ -11395,14 +11491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90552,
-      "num": 90552,
-      "word": "北中医学生操场摆桌交流把脉",
-      "onboard_time": 1667730264,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "林高远3比0马特",
@@ -11665,14 +11753,6 @@
       "onboard_time": 1667431641,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85954,
-      "num": 85954,
-      "word": "李峋为朱韵兜底",
-      "onboard_time": 1667729185,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 85751,
@@ -11984,6 +12064,14 @@
       "word": "小伙把火龙果田拍成浪漫星海",
       "onboard_time": 1667640145,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80431,
+      "num": 80431,
+      "word": "瓷片粘住手指小姐姐尴尬求助消防",
+      "onboard_time": 1667733387,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667731169150,
+  "endTime": 1667733435141,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2157819,
+      "num": 2157819,
+      "word": "痛经的克星终于找到了",
+      "onboard_time": 1667727206,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2135561,
       "num": 2135561,
       "word": "keria痛哭",
@@ -57,14 +65,6 @@
       "onboard_time": 1667700687,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1749069,
-      "num": 1749069,
-      "word": "痛经的克星终于找到了",
-      "onboard_time": 1667727206,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 1632969,
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 826488,
-      "num": 277395,
+      "num": 740509,
       "word": "GALA 头像",
       "onboard_time": 1667728950,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 773789,
+      "num": 272023,
+      "word": "黑粉登报向张子枫道歉",
+      "onboard_time": 1667728105,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 762075,
@@ -257,14 +265,6 @@
       "onboard_time": 1667698408,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659372,
-      "num": 272023,
-      "word": "黑粉登报向张子枫道歉",
-      "onboard_time": 1667728105,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 658245,
@@ -563,11 +563,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361133,
+      "num": 361133,
+      "word": "陈飞宇回应新剧改名",
+      "onboard_time": 1667732727,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352325,
       "num": 352325,
       "word": "老人凑1.5万零钱替去世儿子还债",
       "onboard_time": 1667693545,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346807,
+      "num": 346807,
+      "word": "贵州农村斗牛引8万村民围观",
+      "onboard_time": 1667728105,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -651,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303622,
-      "num": 267087,
-      "word": "贵州农村斗牛引8万村民围观",
-      "onboard_time": 1667728105,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 303304,
+      "num": 238815,
+      "word": "第31届金鹰奖颁奖典礼节目单",
+      "onboard_time": 1667731947,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 302406,
@@ -697,6 +713,14 @@
       "onboard_time": 1667652326,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284237,
+      "num": 131436,
+      "word": "重庆男子地铁偷拍被发现还不承认",
+      "onboard_time": 1667730086,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -883,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209572,
+      "num": 209572,
+      "word": "女子练瑜伽式骑车惊呆路人",
+      "onboard_time": 1667729185,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205093,
       "num": 205093,
       "word": "宝宝趴床上大哭起身后逗笑旁人",
@@ -897,6 +929,14 @@
       "onboard_time": 1667670556,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198593,
+      "num": 187514,
+      "word": "李峋对朱韵说我可不哄人",
+      "onboard_time": 1667732967,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 191804,
@@ -979,12 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161460,
-      "num": 131436,
-      "word": "重庆男子地铁偷拍被发现还不承认",
-      "onboard_time": 1667730086,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 161498,
+      "num": 161498,
+      "word": "北中医学生操场摆桌交流把脉",
+      "onboard_time": 1667730264,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 159997,
@@ -1083,6 +1123,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 143035,
+      "num": 143035,
+      "word": "科学家发现抗衰老新机制",
+      "onboard_time": 1667727986,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142073,
       "num": 142073,
       "word": "杨幂肖砚下班机车鲨疯了",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1667656108,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140934,
+      "num": 140934,
+      "word": "李峋为朱韵兜底",
+      "onboard_time": 1667729185,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 139716,
@@ -1123,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137630,
-      "num": 137630,
-      "word": "女子练瑜伽式骑车惊呆路人",
-      "onboard_time": 1667729185,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "原来普通人的快乐这么简单",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1667701707,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 133505,
+      "num": 133505,
+      "word": "男子火车上半脱裤子躺座椅上",
+      "onboard_time": 1667732664,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133423,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1667726426,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131902,
-      "num": 131902,
-      "word": "科学家发现抗衰老新机制",
-      "onboard_time": 1667727986,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131228,
@@ -1235,6 +1283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126012,
+      "num": 126012,
+      "word": "朱韵跌进了李峋的心里",
+      "onboard_time": 1667732788,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125694,
       "num": 125694,
       "word": "catti",
@@ -1259,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123774,
+      "num": 123774,
+      "word": "韩政府通报踩踏事故相关指示与汇报情况",
+      "onboard_time": 1667733145,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 123337,
       "num": 123337,
       "word": "见证S12最后一舞",
@@ -1273,6 +1337,30 @@
       "onboard_time": 1667690658,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 123027,
+      "word": "旗舰处理器上市一月价格跳水1500",
+      "onboard_time": 1667731886,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 121882,
+      "num": 121882,
+      "word": "李峋眼睛长在朱韵身上了",
+      "onboard_time": 1667733026,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121760,
+      "num": 121760,
+      "word": "辽宁女团全锦赛夺冠",
+      "onboard_time": 1667731646,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 119583,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1667633487,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117825,
+      "num": 117825,
+      "word": "19年前女儿被救19年后他救人",
+      "onboard_time": 1667732246,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 117297,
@@ -1499,14 +1595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90552,
-      "num": 90552,
-      "word": "北中医学生操场摆桌交流把脉",
-      "onboard_time": 1667730264,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 90408,
       "num": 90408,
       "word": "陈幸同3比2石洵瑶",
@@ -1545,14 +1633,6 @@
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85954,
-      "num": 85954,
-      "word": "李峋为朱韵兜底",
-      "onboard_time": 1667729185,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 85635,
@@ -1608,6 +1688,14 @@
       "word": "男子将腿伸车底拦亲要红包",
       "onboard_time": 1667690717,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80431,
+      "num": 80431,
+      "word": "瓷片粘住手指小姐姐尴尬求助消防",
+      "onboard_time": 1667733387,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
