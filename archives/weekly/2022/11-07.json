@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667759188542,
+  "endTime": 1667760138121,
   "band_list": [
     {
       "raw_hot": 1407378,
@@ -305,6 +305,14 @@
       "onboard_time": 1667747549,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82104,
+      "num": 49049,
+      "word": "何炅马丽梦回超幸福鞋垫",
+      "onboard_time": 1667760014,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 81374,
