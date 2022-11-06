@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667707257799,
+  "endTime": 1667709119100,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1977962,
+      "num": 1977962,
+      "word": "真的建议不要给孩子太多压力",
+      "onboard_time": 1667700687,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1961222,
       "num": 1961222,
       "word": "热依扎获飞天奖优秀女演员",
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1650399,
-      "num": 1650399,
-      "word": "真的建议不要给孩子太多压力",
-      "onboard_time": 1667700687,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1632766,
       "num": 1632766,
       "word": "今年没有金鹰女神了",
@@ -408,6 +408,14 @@
       "word": "韩国踩踏事故前4小时不断有人报警",
       "onboard_time": 1667409976,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1517282,
+      "num": 1517282,
+      "word": "呼和浩特通报女子坠楼事件",
+      "onboard_time": 1667707584,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -536,6 +544,14 @@
       "word": "男子捡回3只兔子7个月繁殖近百只",
       "onboard_time": 1667535689,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1238930,
+      "num": 1238930,
+      "word": "22岁考研女生用眼过度视网膜裂孔",
+      "onboard_time": 1667706327,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763295,
+      "num": 763295,
+      "word": "金鹰奖最佳男女主提名",
+      "onboard_time": 1667706864,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 760862,
       "num": 760862,
       "word": "飞天奖",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1667424310,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692544,
+      "num": 692544,
+      "word": "T1对战DRX",
+      "onboard_time": 1667691739,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 691587,
@@ -1868,7 +1900,7 @@
     },
     {
       "raw_hot": 625581,
-      "num": 422654,
+      "num": 438621,
       "word": "时代峰峻招聘TF家族五代练习生",
       "onboard_time": 1667706266,
       "rank": 10,
@@ -1929,14 +1961,6 @@
       "onboard_time": 1667639967,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 614301,
-      "num": 614301,
-      "word": "T1对战DRX",
-      "onboard_time": 1667691739,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 612974,
@@ -2811,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459359,
+      "num": 436411,
+      "word": "1杯奶茶所含咖啡因超3杯美式",
+      "onboard_time": 1667703807,
+      "rank": 13,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 458998,
       "num": 458998,
       "word": "地下700米竟能捕捉幽灵粒子",
@@ -3155,14 +3187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 420419,
-      "num": 351941,
-      "word": "1杯奶茶所含咖啡因超3杯美式",
-      "onboard_time": 1667703807,
-      "rank": 13,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 419270,
       "num": 419270,
       "word": "疯狂动物城尼克朱迪",
@@ -3363,14 +3387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397192,
-      "num": 274170,
-      "word": "22岁考研女生用眼过度视网膜裂孔",
-      "onboard_time": 1667706327,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395920,
       "num": 395920,
       "word": "双十一将诞生100万拍照锦鲤",
@@ -3472,6 +3488,14 @@
       "word": "赵丽颖与凤行沈璃正式杀青",
       "onboard_time": 1667555910,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385224,
+      "num": 385224,
+      "word": "请回答1988开播七周年了",
+      "onboard_time": 1667702669,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -3641,14 +3665,6 @@
       "onboard_time": 1667663546,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 366498,
-      "num": 366498,
-      "word": "请回答1988开播七周年了",
-      "onboard_time": 1667702669,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 365099,
@@ -4049,14 +4065,6 @@
       "onboard_time": 1667484629,
       "rank": 21,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 330765,
-      "num": 234127,
-      "word": "金鹰奖最佳男女主提名",
-      "onboard_time": 1667706864,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 329810,
@@ -4643,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279220,
+      "num": 279220,
+      "word": "这届00后是懂求婚的",
+      "onboard_time": 1667707406,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278788,
       "num": 278788,
       "word": "11月1日新增本土无症状2346例",
@@ -5219,6 +5235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239571,
+      "num": 239571,
+      "word": "杨幂电视剧电影收视双破1",
+      "onboard_time": 1667706564,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238960,
       "num": 234066,
       "word": "长相思首版人物片花",
@@ -5336,6 +5360,14 @@
       "word": "原神",
       "onboard_time": 1667211506,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 233467,
+      "num": 201225,
+      "word": "T1拿到赛点",
+      "onboard_time": 1667705907,
+      "rank": 29,
       "category": "游戏"
     },
     {
@@ -5899,14 +5931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201225,
-      "num": 201225,
-      "word": "T1拿到赛点",
-      "onboard_time": 1667705907,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201188,
       "num": 201188,
       "word": "刘震云 阅读理解",
@@ -5993,14 +6017,6 @@
       "onboard_time": 1667360305,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197921,
-      "num": 174859,
-      "word": "杨幂电视剧电影收视双破1",
-      "onboard_time": 1667706564,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 197422,
@@ -6867,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159997,
+      "num": 159997,
+      "word": "马嘉祺我们的歌要你管横版直拍",
+      "onboard_time": 1667707886,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159902,
       "num": 159902,
       "word": "S12决赛传奇对决",
@@ -7027,6 +7051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154243,
+      "num": 154243,
+      "word": "DRX扳回一城",
+      "onboard_time": 1667702786,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154239,
       "num": 154239,
       "word": "华为PocketS价格",
@@ -7144,6 +7176,14 @@
       "word": "长相思",
       "onboard_time": 1667456905,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149735,
+      "num": 149735,
+      "word": "命韵峋环",
+      "onboard_time": 1667705907,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -7755,14 +7795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130059,
-      "num": 130059,
-      "word": "DRX扳回一城",
-      "onboard_time": 1667702786,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130058,
       "num": 86314,
       "word": "陈飞宇新剧怼脸镜头",
@@ -7907,6 +7939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126354,
+      "num": 126354,
+      "word": "云南姑娘种的咖啡豆走进联合国",
+      "onboard_time": 1667705066,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 126235,
       "num": 126235,
       "word": "云南一公路6.3公里路有68个弯",
@@ -7921,6 +7961,14 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125694,
+      "num": 125694,
+      "word": "catti",
+      "onboard_time": 1667706986,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 125587,
@@ -8203,12 +8251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115442,
-      "num": 115442,
-      "word": "catti",
-      "onboard_time": 1667706986,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 114745,
+      "num": 114745,
+      "word": "呼和浩特女子坠楼事件时间线",
+      "onboard_time": 1667708907,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114710,
@@ -8339,6 +8387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110670,
+      "num": 110670,
+      "word": "男孩为拔河同学加油太激动被拖走",
+      "onboard_time": 1667708007,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 110548,
       "num": 110548,
       "word": "光与夜之恋",
@@ -8449,6 +8505,14 @@
       "onboard_time": 1667368347,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107372,
+      "num": 107372,
+      "word": "不爱做饭的原因找到了",
+      "onboard_time": 1667708848,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 107321,
@@ -8756,7 +8820,7 @@
     },
     {
       "raw_hot": 99069,
-      "num": 820170,
+      "num": 1305119,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 42,
@@ -9257,14 +9321,6 @@
       "onboard_time": 1667387546,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86269,
-      "num": 86269,
-      "word": "云南姑娘种的咖啡豆走进联合国",
-      "onboard_time": 1667705066,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 86206,
