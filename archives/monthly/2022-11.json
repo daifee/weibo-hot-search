@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667756225819,
+  "endTime": 1667759188542,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -11875,6 +11875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51262,
+      "num": 51262,
+      "word": "花店每日闭店仪式",
+      "onboard_time": 1667755038,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 50490,
       "num": 48722,
       "word": "王栎鑫素颜直播状态",
@@ -12177,14 +12185,6 @@
       "onboard_time": 1667271687,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23888,
-      "num": 28889,
-      "word": "花店每日闭店仪式",
-      "onboard_time": 1667755038,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 22340,
