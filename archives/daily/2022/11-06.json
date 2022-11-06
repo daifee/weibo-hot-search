@@ -1,10 +1,10 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667712954990,
+  "endTime": 1667716012170,
   "band_list": [
     {
-      "raw_hot": 4529177,
-      "num": 4529177,
+      "raw_hot": 5089125,
+      "num": 5089125,
       "word": "DRX战胜T1",
       "onboard_time": 1667712695,
       "rank": 0,
@@ -35,8 +35,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2135561,
+      "num": 2135561,
+      "word": "keria痛哭",
+      "onboard_time": 1667713354,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2073824,
-      "num": 457696,
+      "num": 1389267,
       "word": "LPL输得不冤",
       "onboard_time": 1667710647,
       "rank": 21,
@@ -59,12 +67,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1242932,
+      "num": 1242932,
+      "word": "Faker",
+      "onboard_time": 1667715028,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1238930,
       "num": 1238930,
       "word": "22岁考研女生用眼过度视网膜裂孔",
       "onboard_time": 1667706327,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226043,
+      "num": 1226043,
+      "word": "Deft世界赛首冠",
+      "onboard_time": 1667712993,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1116322,
+      "num": 1116322,
+      "word": "Deft Meiko",
+      "onboard_time": 1667714311,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1005827,
@@ -76,7 +108,7 @@
     },
     {
       "raw_hot": 1003777,
-      "num": 481095,
+      "num": 517532,
       "word": "EXO六人合体视频",
       "onboard_time": 1667712509,
       "rank": 10,
@@ -115,12 +147,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869944,
+      "num": 869944,
+      "word": "Kingen获FMVP",
+      "onboard_time": 1667714311,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 856554,
       "num": 856554,
       "word": "女生收到男友礼物打开全是拉菲草",
       "onboard_time": 1667661091,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844436,
+      "num": 844436,
+      "word": "陈飞宇李峋抽烟未播片段",
+      "onboard_time": 1667715568,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 762075,
+      "num": 89238,
+      "word": "原神哥第一辅助",
+      "onboard_time": 1667714069,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 750959,
@@ -243,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477045,
+      "num": 477045,
+      "word": "郑钧在地球的心脏想念刘芸",
+      "onboard_time": 1667715867,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471965,
       "num": 471965,
       "word": "周启豪",
@@ -257,6 +321,14 @@
       "onboard_time": 1667703807,
       "rank": 13,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 456450,
+      "num": 456450,
+      "word": "1个人吃有点丢人1群人吃就是回忆",
+      "onboard_time": 1667711727,
+      "rank": 46,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 441266,
@@ -305,6 +377,14 @@
       "onboard_time": 1667695586,
       "rank": 13,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 417069,
+      "num": 1118908,
+      "word": "女子连吃十几只螃蟹突发胰腺炎",
+      "onboard_time": 1667713055,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415797,
@@ -417,6 +497,22 @@
       "onboard_time": 1667702488,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312204,
+      "num": 312204,
+      "word": "叶舒华周子瑜Nxde舞蹈挑战",
+      "onboard_time": 1667712385,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311649,
+      "num": 125165,
+      "word": "Uzi",
+      "onboard_time": 1667715209,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 302406,
@@ -539,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220281,
-      "num": 220281,
-      "word": "1个人吃有点丢人1群人吃就是回忆",
-      "onboard_time": 1667711727,
-      "rank": 46,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 218558,
       "num": 218558,
       "word": "吴卓羲对仁科粉转黑了",
@@ -603,12 +691,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 197817,
-      "num": 156668,
-      "word": "叶舒华周子瑜Nxde舞蹈挑战",
-      "onboard_time": 1667712385,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 192710,
+      "num": 192710,
+      "word": "谢谢你医生2天19个病例",
+      "onboard_time": 1667713354,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 191804,
@@ -617,6 +705,14 @@
       "onboard_time": 1667658929,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "SAO开服",
+      "onboard_time": 1667712877,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 181195,
@@ -667,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154651,
+      "num": 138286,
+      "word": "金鹰奖",
+      "onboard_time": 1667712993,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151154,
       "num": 151154,
       "word": "你在上一段感情学到了什么",
@@ -689,6 +793,14 @@
       "onboard_time": 1667693545,
       "rank": 27,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 143250,
+      "num": 143250,
+      "word": "海南省秋裤销量增速超东北三省",
+      "onboard_time": 1667709987,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 142073,
@@ -787,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126687,
-      "num": 126687,
-      "word": "海南省秋裤销量增速超东北三省",
-      "onboard_time": 1667709987,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 126354,
       "num": 126354,
       "word": "云南姑娘种的咖啡豆走进联合国",
@@ -865,6 +969,14 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113885,
+      "num": 113885,
+      "word": "你怎么背十二生肖",
+      "onboard_time": 1667713294,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111860,
@@ -971,14 +1083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96144,
-      "num": 96144,
-      "word": "SAO开服",
-      "onboard_time": 1667712877,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
@@ -1027,11 +1131,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88805,
+      "num": 88805,
+      "word": "四川贡嘎雪山绝美火烧云",
+      "onboard_time": 1667715149,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87243,
       "num": 87243,
       "word": "北京新增本土感染者29例社会面3例",
       "onboard_time": 1667651665,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82331,
+      "num": 82331,
+      "word": "大叔坚持用8根手指制琴成天琴大师",
+      "onboard_time": 1667715927,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1041,6 +1161,14 @@
       "onboard_time": 1667706266,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81398,
+      "num": 81398,
+      "word": "2个适合秋冬的拉伸动作",
+      "onboard_time": 1667715986,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81121,
