@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667716999256,
+  "endTime": 1667719199379,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -99,6 +99,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1039357,
+      "num": 885560,
+      "word": "陈飞宇李峋抽烟未播片段",
+      "onboard_time": 1667715568,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1005827,
       "num": 1005827,
       "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
@@ -145,14 +153,6 @@
       "onboard_time": 1667658267,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885560,
-      "num": 885560,
-      "word": "陈飞宇李峋抽烟未播片段",
-      "onboard_time": 1667715568,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 869944,
@@ -267,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593604,
+      "num": 478945,
+      "word": "Rookie发文恭喜DRX",
+      "onboard_time": 1667717846,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 583763,
       "num": 583763,
       "word": "DRX翻中翻中翻",
       "onboard_time": 1667703025,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 567375,
+      "num": 1118908,
+      "word": "女子连吃十几只螃蟹突发胰腺炎",
+      "onboard_time": 1667713055,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550424,
@@ -289,14 +305,6 @@
       "onboard_time": 1667690717,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534763,
-      "num": 1118908,
-      "word": "女子连吃十几只螃蟹突发胰腺炎",
-      "onboard_time": 1667713055,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493453,
@@ -329,6 +337,14 @@
       "onboard_time": 1667660068,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468298,
+      "num": 468298,
+      "word": "男子回应被陌生女子跟踪骚扰1年",
+      "onboard_time": 1667716647,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 459359,
@@ -425,6 +441,14 @@
       "onboard_time": 1667702669,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377233,
+      "num": 377233,
+      "word": "姜贞羽说不想美就好了",
+      "onboard_time": 1667716826,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 368293,
@@ -539,6 +563,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279938,
+      "num": 279938,
+      "word": "孙颖莎混双搭档王楚钦",
+      "onboard_time": 1667717906,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274269,
+      "num": 300176,
+      "word": "新娘步行40米到婆家结婚",
+      "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "篮网向欧文提出六项归队条件",
@@ -552,14 +592,6 @@
       "word": "南波万的聚会",
       "onboard_time": 1667711966,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 244395,
-      "num": 244395,
-      "word": "姜贞羽说不想美就好了",
-      "onboard_time": 1667716826,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -659,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215677,
+      "num": 173278,
+      "word": "青岛一小学校牌由学生轮流写",
+      "onboard_time": 1667716887,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 215572,
       "num": 215572,
       "word": "减肥操跳出了一种很新的感觉",
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204368,
+      "num": 204368,
+      "word": "打火机与公主裙真香",
+      "onboard_time": 1667716766,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200618,
       "num": 167819,
       "word": "人民网评网课爆破早该被爆破",
@@ -723,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181555,
+      "num": 181555,
+      "word": "刘诗诗刘宇宁一念关山片场拍摄路透",
+      "onboard_time": 1667717966,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181195,
       "num": 181195,
       "word": "gidle新歌love特别版MV",
@@ -739,12 +795,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170187,
-      "num": 170187,
-      "word": "男子回应被陌生女子跟踪骚扰1年",
-      "onboard_time": 1667716647,
-      "rank": 28,
-      "category": "社会负面"
+      "raw_hot": 165657,
+      "num": 165657,
+      "word": "宋祖儿reaction白宇谢谢你医生",
+      "onboard_time": 1667716405,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164335,
+      "num": 164335,
+      "word": "你怎么背十二生肖",
+      "onboard_time": 1667713294,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164112,
@@ -753,14 +817,6 @@
       "onboard_time": 1667702786,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163334,
-      "num": 163334,
-      "word": "你怎么背十二生肖",
-      "onboard_time": 1667713294,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159997,
@@ -787,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158663,
+      "num": 158663,
+      "word": "鹿晗新歌试听预告",
+      "onboard_time": 1667717067,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154651,
       "num": 149094,
       "word": "金鹰奖",
@@ -809,6 +873,22 @@
       "onboard_time": 1667716946,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148818,
+      "num": 96888,
+      "word": "点燃我温暖你舍不得倍速",
+      "onboard_time": 1667718566,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147853,
+      "num": 96536,
+      "word": "白术挺好的医生长了张嘴",
+      "onboard_time": 1667719103,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 145382,
@@ -891,14 +971,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 133727,
-      "num": 150433,
-      "word": "打火机与公主裙真香",
-      "onboard_time": 1667716766,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133423,
       "num": 133423,
       "word": "范丞丞重新定义剪平头",
@@ -929,14 +1001,6 @@
       "onboard_time": 1667701707,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131048,
-      "num": 131048,
-      "word": "宋祖儿reaction白宇谢谢你医生",
-      "onboard_time": 1667716405,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127485,
@@ -1115,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106316,
+      "num": 106316,
+      "word": "科学家发现距地球最近黑洞",
+      "onboard_time": 1667717726,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 106070,
       "num": 106070,
       "word": "T1 强",
@@ -1211,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87128,
-      "num": 87128,
-      "word": "青岛一小学校牌由学生轮流写",
-      "onboard_time": 1667716887,
-      "rank": 48,
-      "category": "教育,社会新闻"
+      "raw_hot": 83718,
+      "num": 83718,
+      "word": "Deft完成大满贯成就",
+      "onboard_time": 1667718925,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 82331,
@@ -1307,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68889,
+      "num": 68889,
+      "word": "心疼Faker",
+      "onboard_time": 1667718804,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68728,
       "num": 66111,
       "word": "特斯拉人形机器人首次在国内亮相",
@@ -1321,6 +1401,14 @@
       "onboard_time": 1667646326,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66740,
+      "num": 66740,
+      "word": "诗词和中国乡村有多配",
+      "onboard_time": 1667719165,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 61101,
