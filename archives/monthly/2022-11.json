@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667702226325,
+  "endTime": 1667706610427,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -313,6 +313,14 @@
       "onboard_time": 1667444844,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1650399,
+      "num": 1650399,
+      "word": "真的建议不要给孩子太多压力",
+      "onboard_time": 1667700687,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 1632766,
@@ -1267,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806316,
+      "num": 806316,
+      "word": "何炅王凯主持金鹰节颁奖晚会",
+      "onboard_time": 1667704885,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
@@ -1875,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619954,
+      "num": 619954,
+      "word": "31届金鹰奖最佳女主角提名",
+      "onboard_time": 1667704944,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 618069,
       "num": 618069,
       "word": "网购馥蕾诗保湿水内有一只虫",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1667639967,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614301,
+      "num": 614301,
+      "word": "T1对战DRX",
+      "onboard_time": 1667691739,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 612974,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1667412434,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583763,
+      "num": 583763,
+      "word": "DRX翻中翻中翻",
+      "onboard_time": 1667703025,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 580763,
@@ -2851,6 +2891,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 446827,
+      "num": 422654,
+      "word": "时代峰峻招聘TF家族五代练习生",
+      "onboard_time": 1667706266,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444524,
       "num": 386381,
       "word": "红通人员屈健玲被遣返回国",
@@ -3088,14 +3136,6 @@
       "word": "iG夺冠四周年",
       "onboard_time": 1667444783,
       "rank": 12,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 421309,
-      "num": 421309,
-      "word": "T1对战DRX",
-      "onboard_time": 1667691739,
-      "rank": 8,
       "category": "游戏"
     },
     {
@@ -3587,6 +3627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366498,
+      "num": 366498,
+      "word": "请回答1988开播七周年了",
+      "onboard_time": 1667702669,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -3755,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351941,
+      "num": 351941,
+      "word": "1杯奶茶所含咖啡因超3杯美式",
+      "onboard_time": 1667703807,
+      "rank": 13,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 351902,
       "num": 351902,
       "word": "杨颖晒奔跑吧黑白合照",
@@ -3891,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336687,
+      "num": 336687,
+      "word": "年轻人算是把方便面玩明白了",
+      "onboard_time": 1667703866,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 336353,
       "num": 336353,
       "word": "轿车失灵男子126码行驶2小时",
@@ -4020,7 +4084,7 @@
     },
     {
       "raw_hot": 323926,
-      "num": 323926,
+      "num": 341956,
       "word": "英雄联盟S12",
       "onboard_time": 1667362166,
       "rank": 41,
@@ -4185,6 +4249,14 @@
       "onboard_time": 1667555430,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315015,
+      "num": 279178,
+      "word": "金鹰奖提名荣誉颁授典礼现场",
+      "onboard_time": 1667702488,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 313841,
@@ -4427,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288500,
+      "num": 288500,
+      "word": "DRX 实力",
+      "onboard_time": 1667702547,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287934,
       "num": 287934,
       "word": "LV成立首只人民币基金",
@@ -4463,6 +4543,14 @@
       "num": 285180,
       "word": "王者荣耀",
       "onboard_time": 1667362948,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 285174,
+      "num": 285174,
+      "word": "管泽元的嘴",
+      "onboard_time": 1667703567,
       "rank": 19,
       "category": "游戏"
     },
@@ -4627,6 +4715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274211,
+      "num": 274211,
+      "word": "篮网向欧文提出六项归队条件",
+      "onboard_time": 1667701285,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274052,
       "num": 274052,
       "word": "民警凭卫生纸锁定逃亡19年嫌犯",
@@ -4697,14 +4793,6 @@
       "onboard_time": 1667472387,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270630,
-      "num": 270630,
-      "word": "真的建议不要给孩子太多压力",
-      "onboard_time": 1667700687,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 270251,
@@ -5315,6 +5403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226283,
+      "num": 226283,
+      "word": "推特创始人为马斯克大裁员背锅",
+      "onboard_time": 1667699546,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 225912,
       "num": 225912,
       "word": "勇士四连败",
@@ -5547,6 +5643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212082,
+      "num": 212082,
+      "word": "11月5日新增本土无症状3894例",
+      "onboard_time": 1667701645,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211799,
       "num": 211799,
       "word": "李峋歪嘴笑",
@@ -5691,14 +5795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205154,
-      "num": 205154,
-      "word": "推特创始人为马斯克大裁员背锅",
-      "onboard_time": 1667699546,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 205093,
       "num": 205093,
       "word": "宝宝趴床上大哭起身后逗笑旁人",
@@ -5785,6 +5881,14 @@
       "onboard_time": 1667267904,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201225,
+      "num": 201225,
+      "word": "T1拿到赛点",
+      "onboard_time": 1667705907,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 201188,
@@ -6747,6 +6851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "金鹰奖最佳男配提名",
+      "onboard_time": 1667705969,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159521,
       "num": 159521,
       "word": "年轻人如何不花钱获得快乐",
@@ -7307,14 +7419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137447,
-      "num": 137447,
-      "word": "篮网向欧文提出六项归队条件",
-      "onboard_time": 1667701285,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137018,
       "num": 137018,
       "word": "90秒俯瞰宝岛台湾",
@@ -7625,6 +7729,14 @@
       "onboard_time": 1667653826,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130059,
+      "num": 130059,
+      "word": "DRX扳回一城",
+      "onboard_time": 1667702786,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 130058,
@@ -7963,14 +8075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119659,
-      "num": 119659,
-      "word": "11月5日新增本土无症状3894例",
-      "onboard_time": 1667701645,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "太空水稻成熟了",
@@ -7984,6 +8088,14 @@
       "word": "小狗期单恋",
       "onboard_time": 1667689395,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119292,
+      "num": 76209,
+      "word": "杨幂电视剧电影收视双破1",
+      "onboard_time": 1667706564,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -8179,6 +8291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111648,
+      "num": 111648,
+      "word": "这是把动物园搬进房间了吧",
+      "onboard_time": 1667701526,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111486,
       "num": 111486,
       "word": "感觉自己不如幼儿园小朋友",
@@ -8217,6 +8337,14 @@
       "onboard_time": 1667635406,
       "rank": 39,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 109814,
+      "num": 109814,
+      "word": "吴卓羲在沙漠独自一个人掉队",
+      "onboard_time": 1667706386,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109789,
@@ -8673,6 +8801,14 @@
       "onboard_time": 1667658086,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97110,
+      "num": 97110,
+      "word": "22岁考研女生用眼过度视网膜裂孔",
+      "onboard_time": 1667706327,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96670,
@@ -9331,6 +9467,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 82296,
+      "num": 82296,
+      "word": "T1抢龙",
+      "onboard_time": 1667706266,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82248,
       "num": 82248,
       "word": "张钧甯白色露腰长裙",
@@ -9771,6 +9915,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67517,
+      "num": 67517,
+      "word": "云南姑娘种的咖啡豆走进联合国",
+      "onboard_time": 1667705066,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 66872,
       "num": 66872,
       "word": "猫咪冬天也会怕冷",
@@ -9873,14 +10025,6 @@
       "onboard_time": 1667312849,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64265,
-      "num": 64265,
-      "word": "这是把动物园搬进房间了吧",
-      "onboard_time": 1667701526,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 64083,

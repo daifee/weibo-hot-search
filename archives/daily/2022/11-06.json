@@ -1,7 +1,15 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667702226325,
+  "endTime": 1667706610427,
   "band_list": [
+    {
+      "raw_hot": 1650399,
+      "num": 1650399,
+      "word": "真的建议不要给孩子太多压力",
+      "onboard_time": 1667700687,
+      "rank": 17,
+      "category": "情感"
+    },
     {
       "raw_hot": 1453568,
       "num": 666798,
@@ -33,6 +41,14 @@
       "onboard_time": 1667661091,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806316,
+      "num": 806316,
+      "word": "何炅王凯主持金鹰节颁奖晚会",
+      "onboard_time": 1667704885,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 750959,
@@ -91,12 +107,36 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 619954,
+      "num": 619954,
+      "word": "31届金鹰奖最佳女主角提名",
+      "onboard_time": 1667704944,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 614301,
+      "num": 614301,
+      "word": "T1对战DRX",
+      "onboard_time": 1667691739,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 594538,
       "num": 594538,
       "word": "一年级女孩用手扫描书按进大脑",
       "onboard_time": 1667661929,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583763,
+      "num": 583763,
+      "word": "DRX翻中翻中翻",
+      "onboard_time": 1667703025,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 538833,
@@ -131,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446827,
+      "num": 422654,
+      "word": "时代峰峻招聘TF家族五代练习生",
+      "onboard_time": 1667706266,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437169,
       "num": 324291,
       "word": "赵丽颖林更新 二哈追博美",
@@ -153,14 +201,6 @@
       "onboard_time": 1667692881,
       "rank": 7,
       "category": "其它"
-    },
-    {
-      "raw_hot": 421309,
-      "num": 421309,
-      "word": "T1对战DRX",
-      "onboard_time": 1667691739,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 419270,
@@ -211,12 +251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366498,
+      "num": 366498,
+      "word": "请回答1988开播七周年了",
+      "onboard_time": 1667702669,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352325,
       "num": 352325,
       "word": "老人凑1.5万零钱替去世儿子还债",
       "onboard_time": 1667693545,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351941,
+      "num": 351941,
+      "word": "1杯奶茶所含咖啡因超3杯美式",
+      "onboard_time": 1667703807,
+      "rank": 13,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 344465,
@@ -227,12 +283,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336687,
+      "num": 336687,
+      "word": "年轻人算是把方便面玩明白了",
+      "onboard_time": 1667703866,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 325220,
       "num": 325220,
       "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
       "onboard_time": 1667635885,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315015,
+      "num": 279178,
+      "word": "金鹰奖提名荣誉颁授典礼现场",
+      "onboard_time": 1667702488,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 302406,
@@ -243,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288500,
+      "num": 288500,
+      "word": "DRX 实力",
+      "onboard_time": 1667702547,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287424,
       "num": 287424,
       "word": "打火机与公主裙 选角",
@@ -251,12 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270630,
-      "num": 270630,
-      "word": "真的建议不要给孩子太多压力",
-      "onboard_time": 1667700687,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 285174,
+      "num": 285174,
+      "word": "管泽元的嘴",
+      "onboard_time": 1667703567,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 274211,
+      "num": 274211,
+      "word": "篮网向欧文提出六项归队条件",
+      "onboard_time": 1667701285,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 237532,
@@ -265,6 +353,14 @@
       "onboard_time": 1667693843,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226283,
+      "num": 226283,
+      "word": "推特创始人为马斯克大裁员背锅",
+      "onboard_time": 1667699546,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 226081,
@@ -315,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205154,
-      "num": 205154,
-      "word": "推特创始人为马斯克大裁员背锅",
-      "onboard_time": 1667699546,
-      "rank": 45,
-      "category": "科技"
+      "raw_hot": 212082,
+      "num": 212082,
+      "word": "11月5日新增本土无症状3894例",
+      "onboard_time": 1667701645,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205093,
@@ -329,6 +425,14 @@
       "onboard_time": 1667696485,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201225,
+      "num": 201225,
+      "word": "T1拿到赛点",
+      "onboard_time": 1667705907,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 200618,
@@ -361,6 +465,14 @@
       "onboard_time": 1667687232,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "金鹰奖最佳男配提名",
+      "onboard_time": 1667705969,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 158865,
@@ -427,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137447,
-      "num": 137447,
-      "word": "篮网向欧文提出六项归队条件",
-      "onboard_time": 1667701285,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137018,
       "num": 137018,
       "word": "90秒俯瞰宝岛台湾",
@@ -473,6 +577,14 @@
       "onboard_time": 1667701707,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130059,
+      "num": 130059,
+      "word": "DRX扳回一城",
+      "onboard_time": 1667702786,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 127485,
@@ -515,19 +627,19 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 119659,
-      "num": 119659,
-      "word": "11月5日新增本土无症状3894例",
-      "onboard_time": 1667701645,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119342,
       "num": 119342,
       "word": "小狗期单恋",
       "onboard_time": 1667689395,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119292,
+      "num": 76209,
+      "word": "杨幂电视剧电影收视双破1",
+      "onboard_time": 1667706564,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -555,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111648,
+      "num": 111648,
+      "word": "这是把动物园搬进房间了吧",
+      "onboard_time": 1667701526,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111486,
       "num": 111486,
       "word": "感觉自己不如幼儿园小朋友",
@@ -569,6 +689,14 @@
       "onboard_time": 1667644105,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109814,
+      "num": 109814,
+      "word": "吴卓羲在沙漠独自一个人掉队",
+      "onboard_time": 1667706386,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109292,
@@ -627,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97110,
+      "num": 97110,
+      "word": "22岁考研女生用眼过度视网膜裂孔",
+      "onboard_time": 1667706327,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
@@ -681,6 +817,14 @@
       "onboard_time": 1667651665,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82296,
+      "num": 82296,
+      "word": "T1抢龙",
+      "onboard_time": 1667706266,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 81121,
@@ -747,20 +891,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67517,
+      "num": 67517,
+      "word": "云南姑娘种的咖啡豆走进联合国",
+      "onboard_time": 1667705066,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 66873,
       "num": 66873,
       "word": "开心就好不必正常",
       "onboard_time": 1667646326,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64265,
-      "num": 64265,
-      "word": "这是把动物园搬进房间了吧",
-      "onboard_time": 1667701526,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 61101,
@@ -851,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29606,
+      "num": 666988,
+      "word": "保护湿地中国一直在行动",
+      "onboard_time": 1667661449,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 28777,
       "num": 51375,
       "word": "林高远3比0马特",
@@ -867,14 +1019,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 27446,
-      "num": 666988,
-      "word": "保护湿地中国一直在行动",
-      "onboard_time": 1667661449,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 24965,
       "num": 24965,
       "word": "北京校园里的浪漫秋景",
@@ -889,6 +1033,14 @@
       "onboard_time": 1667689395,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 22512,
+      "num": 341956,
+      "word": "英雄联盟S12",
+      "onboard_time": 1667704224,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 18600,
