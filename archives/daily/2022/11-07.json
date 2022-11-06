@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667752203580,
+  "endTime": 1667753418622,
   "band_list": [
     {
       "raw_hot": 1407378,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634327,
-      "num": 634327,
+      "raw_hot": 749353,
+      "num": 749353,
       "word": "韩国一列火车在首尔脱轨致31伤",
       "onboard_time": 1667750188,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497722,
+      "num": 497722,
+      "word": "为什么恋爱长跑会容易分手",
+      "onboard_time": 1667750666,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461178,
       "num": 341267,
       "word": "于和伟 陪跑",
@@ -73,14 +81,6 @@
       "onboard_time": 1667742271,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396638,
-      "num": 396638,
-      "word": "为什么恋爱长跑会容易分手",
-      "onboard_time": 1667750666,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 375967,
@@ -123,12 +123,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225281,
+      "num": 225281,
+      "word": "全球首棵现实世界科技树",
+      "onboard_time": 1667750845,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 215933,
       "num": 141967,
       "word": "刘波打电话约架是真实事件改编",
       "onboard_time": 1667735066,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210506,
+      "num": 210506,
+      "word": "樊振东林高远比赛太刺激了",
+      "onboard_time": 1667749766,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 206909,
@@ -147,28 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192984,
-      "num": 192984,
-      "word": "樊振东林高远比赛太刺激了",
-      "onboard_time": 1667749766,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185934,
       "num": 185934,
       "word": "广州昨日新增1325名感染者",
       "onboard_time": 1667737828,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181544,
-      "num": 181544,
-      "word": "全球首棵现实世界科技树",
-      "onboard_time": 1667750845,
-      "rank": 18,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 178899,
@@ -379,8 +379,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55931,
+      "num": 60045,
+      "word": "杨幂白宇新剧公主抱",
+      "onboard_time": 1667741493,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54945,
-      "num": 54945,
+      "num": 59989,
       "word": "阿斯顿维拉vs曼联",
       "onboard_time": 1667745215,
       "rank": 48,
@@ -395,8 +403,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36590,
+      "num": 59976,
+      "word": "哈士奇终于找到了对口专业",
+      "onboard_time": 1667749349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 7197,
-      "num": 692166,
+      "num": 834575,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#进博会上的中国强音#"
+    },
+    {
+      "word": "#中国将建设人与自然和谐共生的现代化#"
     }
   ]
 }

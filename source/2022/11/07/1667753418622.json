@@ -1,0 +1,410 @@
+{
+  "runTime": 1667753418622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 961455,
+        "num": 961455,
+        "word": "郑州官方致歉",
+        "onboard_time": 1667739386,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953818,
+        "num": 953818,
+        "word": "殷桃金鹰奖最佳女主角",
+        "onboard_time": 1667743532,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6050,
+        "num": 834575,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 749353,
+        "num": 749353,
+        "word": "韩国一列火车在首尔脱轨致31伤",
+        "onboard_time": 1667750188,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497722,
+        "num": 497722,
+        "word": "为什么恋爱长跑会容易分手",
+        "onboard_time": 1667750666,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426904,
+        "num": 426904,
+        "word": "马丽获奖何炅哭了",
+        "onboard_time": 1667745996,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331464,
+        "num": 331464,
+        "word": "陈飞宇好欲",
+        "onboard_time": 1667748210,
+        "rank": 6,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 310775,
+        "num": 310775,
+        "word": "医生建议1顿饭吃螃蟹不超过2只",
+        "onboard_time": 1667742271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277085,
+        "num": 277085,
+        "word": "摊贩恶意竞争遭学生集体抵制",
+        "onboard_time": 1667744375,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225281,
+        "num": 225281,
+        "word": "全球首棵现实世界科技树",
+        "onboard_time": 1667750845,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 427831,
+        "num": 225228,
+        "word": "痛经的克星终于找到了",
+        "onboard_time": 1667727206,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310355,
+        "num": 225164,
+        "word": "雷佳音获金鹰奖最佳男主角",
+        "onboard_time": 1667745694,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225060,
+        "num": 225060,
+        "word": "张超",
+        "onboard_time": 1667743292,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303922,
+        "num": 223775,
+        "word": "于和伟 陪跑",
+        "onboard_time": 1667744673,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210506,
+        "num": 210506,
+        "word": "樊振东林高远比赛太刺激了",
+        "onboard_time": 1667749766,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238690,
+        "num": 205535,
+        "word": "金鹰奖奖单",
+        "onboard_time": 1667745575,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190074,
+        "num": 190074,
+        "word": "iPhone14中美之外全球涨价",
+        "onboard_time": 1667739450,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169192,
+        "num": 169192,
+        "word": "新疆多地有序恢复正常生产生活秩序",
+        "onboard_time": 1667740167,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136448,
+        "num": 136448,
+        "word": "广州昨日新增1325名感染者",
+        "onboard_time": 1667737828,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109830,
+        "num": 109830,
+        "word": "立冬适合早睡晚起",
+        "onboard_time": 1667740349,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186038,
+        "num": 109823,
+        "word": "觉醒年代yyds",
+        "onboard_time": 1667748150,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170572,
+        "num": 109065,
+        "word": "刘波打电话约架是真实事件改编",
+        "onboard_time": 1667735066,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144732,
+        "num": 108941,
+        "word": "打火机与公主裙 第八集",
+        "onboard_time": 1667736747,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107564,
+        "num": 107564,
+        "word": "GALA 头像",
+        "onboard_time": 1667728950,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99200,
+        "num": 99200,
+        "word": "妈妈用垃圾袋给女儿做礼服",
+        "onboard_time": 1667735608,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93519,
+        "num": 93519,
+        "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
+        "onboard_time": 1667735666,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88799,
+        "num": 88799,
+        "word": "上海男团全锦赛夺冠",
+        "onboard_time": 1667747971,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86402,
+        "num": 86402,
+        "word": "头皮总长小红疙瘩是咋回事",
+        "onboard_time": 1667741309,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75511,
+        "num": 75511,
+        "word": "这是猫咪牌电动剃须刀吗",
+        "onboard_time": 1667748092,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74565,
+        "num": 74565,
+        "word": "北京新增本土感染者30例社会面1例",
+        "onboard_time": 1667739868,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125135,
+        "num": 74453,
+        "word": "王鹤棣对苍兰诀破万印象深刻",
+        "onboard_time": 1667742630,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121308,
+        "num": 73985,
+        "word": "人世间",
+        "onboard_time": 1667744496,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91788,
+        "num": 73635,
+        "word": "点燃我温暖你韩国口碑",
+        "onboard_time": 1667735967,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81616,
+        "num": 73305,
+        "word": "中国外交繁忙的一周释放哪些信号",
+        "onboard_time": 1667748569,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 73244,
+        "num": 73244,
+        "word": "AG再捧冠军杯",
+        "onboard_time": 1667744017,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72157,
+        "num": 72157,
+        "word": "林高远3比2樊振东",
+        "onboard_time": 1667744733,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71159,
+        "num": 71159,
+        "word": "爸爸请朋友吃饭让学医女儿扎针练手",
+        "onboard_time": 1667733926,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66350,
+        "num": 66350,
+        "word": "林峯潘玮柏加盟我们的滚烫人生2",
+        "onboard_time": 1667751325,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63612,
+        "num": 63612,
+        "word": "广州海珠区新增1253名感染者",
+        "onboard_time": 1667720186,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61100,
+        "num": 61100,
+        "word": "郑州主城区正在有序解封",
+        "onboard_time": 1667741130,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64732,
+        "num": 60873,
+        "word": "觉醒年代",
+        "onboard_time": 1667747549,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60263,
+        "num": 60263,
+        "word": "女生太瘦被老板要求长胖10斤",
+        "onboard_time": 1667722525,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60050,
+        "num": 60050,
+        "word": "圆明园考古新发现",
+        "onboard_time": 1667738007,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55931,
+        "num": 60045,
+        "word": "杨幂白宇新剧公主抱",
+        "onboard_time": 1667741493,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53566,
+        "num": 60039,
+        "word": "傍晚人体燃脂效率最高",
+        "onboard_time": 1667742029,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51534,
+        "num": 60026,
+        "word": "电瓶车居然跑不过轮椅",
+        "onboard_time": 1667739386,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50929,
+        "num": 60012,
+        "word": "知道自己变老的三个理由",
+        "onboard_time": 1667741612,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44324,
+        "num": 59997,
+        "word": "一架飞机在坦桑尼亚西北部坠湖",
+        "onboard_time": 1667736508,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37050,
+        "num": 59989,
+        "word": "阿斯顿维拉vs曼联",
+        "onboard_time": 1667745215,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36590,
+        "num": 59976,
+        "word": "哈士奇终于找到了对口专业",
+        "onboard_time": 1667749349,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将建设人与自然和谐共生的现代化#"
+    }
+  }
+}
