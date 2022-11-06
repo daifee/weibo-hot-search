@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667711958336,
+  "endTime": 1667712954990,
   "band_list": [
     {
       "raw_hot": 4760713,
@@ -9,6 +9,22 @@
       "onboard_time": 1667366487,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 4529177,
+      "num": 4529177,
+      "word": "DRX战胜T1",
+      "onboard_time": 1667712695,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 4027161,
+      "num": 1932321,
+      "word": "DRX夺冠",
+      "onboard_time": 1667712877,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 3919420,
@@ -25,6 +41,14 @@
       "onboard_time": 1667572771,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3699608,
+      "num": 907952,
+      "word": "T1和DRX决胜局",
+      "onboard_time": 1667709444,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 3169070,
@@ -123,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2535917,
+      "num": 2535917,
+      "word": "呼和浩特通报女子坠楼事件",
+      "onboard_time": 1667707584,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2509453,
       "num": 2509453,
       "word": "郑州被通报随意静默封城代替管控",
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2073824,
+      "num": 457696,
+      "word": "LPL输得不冤",
+      "onboard_time": 1667710647,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2059542,
       "num": 2059542,
       "word": "女子戒糖戒奶茶1年后变白变年轻",
@@ -217,14 +257,6 @@
       "onboard_time": 1667700687,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1975827,
-      "num": 1975827,
-      "word": "呼和浩特通报女子坠楼事件",
-      "onboard_time": 1667707584,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1961222,
@@ -923,6 +955,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1005827,
+      "num": 1005827,
+      "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
+      "onboard_time": 1667709444,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1003777,
+      "num": 481095,
+      "word": "EXO六人合体视频",
+      "onboard_time": 1667712509,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996487,
       "num": 996487,
       "word": "韩国爱豆出身在家吸毒被捕",
@@ -1563,14 +1611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 684219,
-      "num": 684219,
-      "word": "T1和DRX决胜局",
-      "onboard_time": 1667709444,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 682980,
       "num": 682980,
       "word": "妈妈带男童进女浴室遭投诉反不满",
@@ -1657,14 +1697,6 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
-    },
-    {
-      "raw_hot": 674299,
-      "num": 674299,
-      "word": "韩国男团演唱会上粉丝推挤致30人晕厥",
-      "onboard_time": 1667709444,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 671276,
@@ -2995,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441266,
+      "num": 324726,
+      "word": "朴彩英LACMAARTFILMGALA红毯",
+      "onboard_time": 1667712755,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 441178,
       "num": 441178,
       "word": "被亲一口会害羞的狗狗",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1667276189,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439513,
+      "num": 439513,
+      "word": "不爱做饭的原因找到了",
+      "onboard_time": 1667708848,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 439476,
@@ -3331,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404265,
+      "num": 404265,
+      "word": "陈飞宇张婧仪bg之光",
+      "onboard_time": 1667710347,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403148,
       "num": 403148,
       "word": "加拿大要求三家中企剥离在加锂矿资产",
@@ -3579,14 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374408,
-      "num": 374408,
-      "word": "陈飞宇张婧仪bg之光",
-      "onboard_time": 1667710347,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373161,
       "num": 373161,
       "word": "斯里兰卡男子路过被卷进人群遇难",
@@ -3681,14 +3729,6 @@
       "onboard_time": 1667627487,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367430,
-      "num": 367430,
-      "word": "不爱做饭的原因找到了",
-      "onboard_time": 1667708848,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 367419,
@@ -4243,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317760,
+      "num": 317760,
+      "word": "管泽元的嘴",
+      "onboard_time": 1667703567,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317392,
       "num": 317392,
       "word": "阿凡达2正式预告",
@@ -4607,14 +4655,6 @@
       "num": 285180,
       "word": "王者荣耀",
       "onboard_time": 1667362948,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 285174,
-      "num": 285174,
-      "word": "管泽元的嘴",
-      "onboard_time": 1667703567,
       "rank": 19,
       "category": "游戏"
     },
@@ -5027,14 +5067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261010,
-      "num": 158820,
-      "word": "LPL输得不冤",
-      "onboard_time": 1667710647,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 260326,
       "num": 260326,
       "word": "女子走进宿舍床上惊现一头猪",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1667373446,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248500,
+      "num": 248500,
+      "word": "南波万的聚会",
+      "onboard_time": 1667711966,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245691,
@@ -5619,6 +5659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220281,
+      "num": 220281,
+      "word": "1个人吃有点丢人1群人吃就是回忆",
+      "onboard_time": 1667711727,
+      "rank": 46,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 219076,
       "num": 219076,
       "word": "高校绝美女外教酷似电影女主走红",
@@ -5649,6 +5697,14 @@
       "onboard_time": 1667691619,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218116,
+      "num": 91385,
+      "word": "英雄联盟",
+      "onboard_time": 1667712936,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 217154,
@@ -6081,6 +6137,14 @@
       "onboard_time": 1667360305,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197817,
+      "num": 156668,
+      "word": "叶舒华周子瑜Nxde舞蹈挑战",
+      "onboard_time": 1667712385,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197422,
@@ -6795,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164112,
+      "num": 154243,
+      "word": "DRX扳回一城",
+      "onboard_time": 1667702786,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164085,
       "num": 164085,
       "word": "黄晓明离谱式劝架",
@@ -7113,14 +7185,6 @@
       "onboard_time": 1667351184,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154243,
-      "num": 154243,
-      "word": "DRX扳回一城",
-      "onboard_time": 1667702786,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 154239,
@@ -7521,6 +7585,14 @@
       "onboard_time": 1667550268,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138242,
+      "num": 138242,
+      "word": "呼和浩特女子坠楼事件时间线",
+      "onboard_time": 1667708907,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138214,
@@ -8003,6 +8075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126687,
+      "num": 126687,
+      "word": "海南省秋裤销量增速超东北三省",
+      "onboard_time": 1667709987,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 126354,
       "num": 126354,
       "word": "云南姑娘种的咖啡豆走进联合国",
@@ -8025,14 +8105,6 @@
       "onboard_time": 1667235619,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125968,
-      "num": 125968,
-      "word": "海南省秋裤销量增速超东北三省",
-      "onboard_time": 1667709987,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 125694,
@@ -8249,14 +8321,6 @@
       "onboard_time": 1667355807,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 118471,
-      "num": 118471,
-      "word": "呼和浩特女子坠楼事件时间线",
-      "onboard_time": 1667708907,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118444,
@@ -8876,7 +8940,7 @@
     },
     {
       "raw_hot": 99069,
-      "num": 1305119,
+      "num": 2005397,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 42,
@@ -8969,6 +9033,14 @@
       "onboard_time": 1667448087,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96144,
+      "num": 96144,
+      "word": "SAO开服",
+      "onboard_time": 1667712877,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 95950,
@@ -10153,14 +10225,6 @@
       "onboard_time": 1667301569,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 64693,
-      "num": 72908,
-      "word": "1个人吃有点丢人1群人吃就是回忆",
-      "onboard_time": 1667711727,
-      "rank": 46,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 64682,
