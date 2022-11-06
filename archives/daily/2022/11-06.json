@@ -1,6 +1,6 @@
 {
   "startTime": 1667665744192,
-  "endTime": 1667723203838,
+  "endTime": 1667724091711,
   "band_list": [
     {
       "raw_hot": 5089125,
@@ -67,19 +67,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1585989,
+      "num": 1585989,
+      "word": "广州海珠区新增1253名感染者",
+      "onboard_time": 1667720186,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1453568,
       "num": 778435,
       "word": "女孩染怪病后腰长出浓密毛发",
       "onboard_time": 1667692099,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1277005,
-      "num": 1277005,
-      "word": "广州海珠区新增1253名感染者",
-      "onboard_time": 1667720186,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 601000,
+      "num": 372794,
+      "word": "女生太瘦被老板要求长胖10斤",
+      "onboard_time": 1667722525,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597314,
       "num": 597314,
       "word": "男子回应被陌生女子跟踪骚扰1年",
@@ -323,20 +331,20 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 545441,
+      "num": 545441,
+      "word": "Uzi",
+      "onboard_time": 1667715209,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 538833,
       "num": 538833,
       "word": "张婧仪 钝感",
       "onboard_time": 1667690717,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510172,
-      "num": 510172,
-      "word": "Uzi",
-      "onboard_time": 1667715209,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 493453,
@@ -377,6 +385,22 @@
       "onboard_time": 1667703807,
       "rank": 13,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 448106,
+      "num": 168869,
+      "word": "米勒哭了",
+      "onboard_time": 1667722475,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 443159,
+      "num": 443159,
+      "word": "任嘉伦白鹿吴磊赵露思获优秀青年演员奖",
+      "onboard_time": 1667723910,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 441266,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323493,
+      "num": 168772,
+      "word": "DRX冠军皮肤选择",
+      "onboard_time": 1667722765,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317760,
       "num": 317760,
       "word": "管泽元的嘴",
@@ -571,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311650,
+      "num": 311650,
+      "word": "万茜拍救火戏鼻孔都黑了",
+      "onboard_time": 1667722833,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302406,
       "num": 302406,
       "word": "陕西村民突然播音腔惊呆尼格买提",
@@ -579,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291780,
-      "num": 291780,
-      "word": "万茜拍救火戏鼻孔都黑了",
-      "onboard_time": 1667722833,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 288644,
+      "num": 288644,
+      "word": "00后男生随手拍照中3万奖金",
+      "onboard_time": 1667720964,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288500,
@@ -611,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261207,
-      "num": 261207,
-      "word": "00后男生随手拍照中3万奖金",
-      "onboard_time": 1667720964,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 254360,
+      "num": 254360,
+      "word": "一个方法告别抑郁症",
+      "onboard_time": 1667718508,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 248500,
@@ -705,14 +745,6 @@
       "onboard_time": 1667652027,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224606,
-      "num": 224606,
-      "word": "一个方法告别抑郁症",
-      "onboard_time": 1667718508,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 223649,
@@ -851,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164637,
+      "num": 164637,
+      "word": "鹿晗新歌公布歌名",
+      "onboard_time": 1667723426,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164335,
       "num": 164335,
       "word": "你怎么背十二生肖",
@@ -865,14 +905,6 @@
       "onboard_time": 1667702786,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161539,
-      "num": 161539,
-      "word": "女生太瘦被老板要求长胖10斤",
-      "onboard_time": 1667722525,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159997,
@@ -907,20 +939,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151950,
-      "num": 151950,
-      "word": "米勒哭了",
-      "onboard_time": 1667722475,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151154,
       "num": 151154,
       "word": "你在上一段感情学到了什么",
       "onboard_time": 1667654666,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150578,
+      "num": 150578,
+      "word": "李峋11月男友",
+      "onboard_time": 1667720246,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 149532,
@@ -1059,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130531,
-      "num": 130531,
-      "word": "李峋11月男友",
-      "onboard_time": 1667720246,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 127485,
       "num": 127485,
       "word": "广东男团晋级全锦赛决赛",
@@ -1131,6 +1155,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 119583,
+      "num": 113303,
+      "word": "蒲熠星说和院人玩游戏输赢都是赢",
+      "onboard_time": 1667721504,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119342,
       "num": 119342,
       "word": "小狗期单恋",
@@ -1171,12 +1203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112966,
-      "num": 112966,
-      "word": "DRX冠军皮肤选择",
-      "onboard_time": 1667722765,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 114145,
+      "num": 114145,
+      "word": "随机给一位路人添堵",
+      "onboard_time": 1667721684,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 111860,
@@ -1267,14 +1299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105562,
-      "num": 105562,
-      "word": "蒲熠星说和院人玩游戏输赢都是赢",
-      "onboard_time": 1667721504,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105098,
       "num": 105098,
       "word": "肖砚谈为什么想当医生",
@@ -1299,20 +1323,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96126,
+      "num": 96126,
+      "word": "管泽元同传",
+      "onboard_time": 1667723545,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
       "onboard_time": 1667694324,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95646,
-      "num": 95646,
-      "word": "随机给一位路人添堵",
-      "onboard_time": 1667721684,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 95290,
@@ -1499,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68785,
+      "num": 84361,
+      "word": "管泽元业务能力",
+      "onboard_time": 1667723666,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68728,
       "num": 66111,
       "word": "特斯拉人形机器人首次在国内亮相",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1667723126,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61521,
+      "num": 83933,
+      "word": "像极了爱看热闹的我本人",
+      "onboard_time": 1667723426,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 61101,
