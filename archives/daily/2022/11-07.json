@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667826677987,
+  "endTime": 1667828902974,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -57,6 +57,14 @@
       "onboard_time": 1667777302,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1431143,
+      "num": 296832,
+      "word": "外卖员下跪求保安归还被扣车钥匙",
+      "onboard_time": 1667824046,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1409871,
@@ -147,14 +155,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 938987,
-      "num": 296832,
-      "word": "外卖员下跪求保安归还被扣车钥匙",
-      "onboard_time": 1667824046,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 919333,
       "num": 841856,
       "word": "苹果发表郑州富士康工厂声明",
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786628,
+      "num": 786628,
+      "word": "史上最凶班主任经证实为网红",
+      "onboard_time": 1667823625,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 771234,
       "num": 771234,
       "word": "醉汉趁情侣吵架上前搭讪被打",
@@ -201,6 +209,14 @@
       "onboard_time": 1667750188,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693076,
+      "num": 693076,
+      "word": "全国近八成地级及以上城市房价不过万",
+      "onboard_time": 1667825426,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 676208,
@@ -297,6 +313,14 @@
       "onboard_time": 1667791888,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541203,
+      "num": 328564,
+      "word": "马斯克解雇了90%的印度推特员工",
+      "onboard_time": 1667824286,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 540803,
@@ -451,12 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460958,
-      "num": 263468,
-      "word": "马斯克解雇了90%的印度推特员工",
-      "onboard_time": 1667824286,
-      "rank": 30,
-      "category": "科技,社会新闻"
+      "raw_hot": 458128,
+      "num": 458128,
+      "word": "李峋吃醋",
+      "onboard_time": 1667824648,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 453107,
@@ -521,14 +545,6 @@
       "onboard_time": 1667793753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 423691,
-      "num": 423691,
-      "word": "史上最凶班主任经证实为网红",
-      "onboard_time": 1667823625,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 421046,
@@ -699,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330569,
+      "num": 330569,
+      "word": "25岁爸爸带娃一年日渐沧桑",
+      "onboard_time": 1667823448,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329545,
       "num": 329545,
       "word": "郑州富士康发布预招工公告",
@@ -737,6 +761,14 @@
       "onboard_time": 1667798251,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 308605,
+      "num": 308605,
+      "word": "台北故宫文物毁损视频首曝光",
+      "onboard_time": 1667825547,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302759,
@@ -851,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272164,
+      "num": 272164,
+      "word": "5男子饭馆吃133元要求少收100元",
+      "onboard_time": 1667826688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
       "onboard_time": 1667784147,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270241,
+      "num": 270241,
+      "word": "脸上流露出自卑和尴尬的猫",
+      "onboard_time": 1667824165,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 266416,
@@ -915,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248085,
+      "num": 248085,
+      "word": "SEVENTEEN新歌Dream初舞台",
+      "onboard_time": 1667827529,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244967,
       "num": 244967,
       "word": "56岁妈妈在80岁姥姥面前也有反骨",
@@ -931,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241892,
-      "num": 241892,
-      "word": "李峋吃醋",
-      "onboard_time": 1667824648,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 239037,
+      "num": 239037,
+      "word": "李峋黑背心",
+      "onboard_time": 1667823266,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237255,
@@ -953,14 +1009,6 @@
       "onboard_time": 1667795377,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235314,
-      "num": 235314,
-      "word": "25岁爸爸带娃一年日渐沧桑",
-      "onboard_time": 1667823448,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234993,
@@ -1003,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227097,
-      "num": 227097,
-      "word": "李峋黑背心",
-      "onboard_time": 1667823266,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226266,
       "num": 226266,
       "word": "爱奇艺11月片单有风吹半夏",
@@ -1027,14 +1067,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 224045,
-      "num": 224045,
-      "word": "全国近八成地级及以上城市房价不过万",
-      "onboard_time": 1667825426,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 223339,
       "num": 223339,
       "word": "张婧仪朱韵被泼水",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1667820327,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219167,
+      "num": 190962,
+      "word": "周也直播动图",
+      "onboard_time": 1667827889,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 217525,
@@ -1259,20 +1299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172248,
-      "num": 172248,
-      "word": "脸上流露出自卑和尴尬的猫",
-      "onboard_time": 1667824165,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "李峋被朱韵反撩的反应",
       "onboard_time": 1667822546,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169301,
+      "num": 169301,
+      "word": "为什么越长大反而越想家",
+      "onboard_time": 1667826207,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 168386,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1667803287,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159079,
+      "num": 159079,
+      "word": "倪妮璀璨粉裙造型",
+      "onboard_time": 1667826626,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152768,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1667751624,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129976,
+      "num": 129976,
+      "word": "欧联抽签",
+      "onboard_time": 1667828308,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 129166,
@@ -1707,12 +1763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106438,
-      "num": 106438,
-      "word": "台北故宫文物毁损视频首曝光",
-      "onboard_time": 1667825547,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 106999,
+      "num": 106999,
+      "word": "给主人暖脚的狗狗",
+      "onboard_time": 1667827767,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 106337,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1667826387,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100275,
-      "num": 100275,
-      "word": "为什么越长大反而越想家",
-      "onboard_time": 1667826207,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 100056,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1667806466,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91360,
+      "num": 91360,
+      "word": "利物浦被芬威集团挂牌出售",
+      "onboard_time": 1667828367,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 90446,
@@ -1955,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84748,
+      "num": 84748,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 84452,
       "num": 84452,
       "word": "阮真真处处对人设防的原因",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1667808927,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82668,
+      "num": 82668,
+      "word": "间谍过家家",
+      "onboard_time": 1667828487,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 82173,
@@ -2089,14 +2161,6 @@
       "onboard_time": 1667739386,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72316,
-      "num": 72316,
-      "word": "倪妮璀璨粉裙造型",
-      "onboard_time": 1667826626,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71856,
@@ -2253,6 +2317,9 @@
     },
     {
       "word": "#微观中国国际进口博览会#"
+    },
+    {
+      "word": "#直击2022中国航展#"
     }
   ]
 }

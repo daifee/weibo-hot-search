@@ -1,0 +1,410 @@
+{
+  "runTime": 1667828902974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191778,
+        "num": 1191778,
+        "word": "乌鲁木齐警情通报",
+        "onboard_time": 1667817626,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889631,
+        "num": 889631,
+        "word": "朱韵真的是公主殿下",
+        "onboard_time": 1667822965,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11271,
+        "num": 813587,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 786628,
+        "num": 786628,
+        "word": "史上最凶班主任经证实为网红",
+        "onboard_time": 1667823625,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 693076,
+        "num": 693076,
+        "word": "全国近八成地级及以上城市房价不过万",
+        "onboard_time": 1667825426,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 485424,
+        "num": 485424,
+        "word": "李峋坠入爱河",
+        "onboard_time": 1667823083,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483355,
+        "num": 483355,
+        "word": "小伙患红斑狼疮近5年爬楼超10万层",
+        "onboard_time": 1667815887,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458128,
+        "num": 458128,
+        "word": "李峋吃醋",
+        "onboard_time": 1667824648,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376037,
+        "num": 376037,
+        "word": "厦门海关截获1只活体黑寡妇",
+        "onboard_time": 1667805806,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330569,
+        "num": 330569,
+        "word": "25岁爸爸带娃一年日渐沧桑",
+        "onboard_time": 1667823448,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541203,
+        "num": 328564,
+        "word": "马斯克解雇了90%的印度推特员工",
+        "onboard_time": 1667824286,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 326314,
+        "num": 326314,
+        "word": "央视曝光双十一新骗术",
+        "onboard_time": 1667817448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308605,
+        "num": 308605,
+        "word": "台北故宫文物毁损视频首曝光",
+        "onboard_time": 1667825547,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278929,
+        "num": 278929,
+        "word": "呼和浩特多名干部疫情期间聚集饮酒",
+        "onboard_time": 1667813368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272164,
+        "num": 272164,
+        "word": "5男子饭馆吃133元要求少收100元",
+        "onboard_time": 1667826688,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270241,
+        "num": 270241,
+        "word": "脸上流露出自卑和尴尬的猫",
+        "onboard_time": 1667824165,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248085,
+        "num": 248085,
+        "word": "SEVENTEEN新歌Dream初舞台",
+        "onboard_time": 1667827529,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1431143,
+        "num": 247559,
+        "word": "外卖员下跪求保安归还被扣车钥匙",
+        "onboard_time": 1667824046,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239037,
+        "num": 239037,
+        "word": "李峋黑背心",
+        "onboard_time": 1667823266,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "明年好多古偶",
+        "onboard_time": 1667818227,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219167,
+        "num": 190962,
+        "word": "周也直播动图",
+        "onboard_time": 1667827889,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184144,
+        "num": 184144,
+        "word": "雷佳音回应感言说一半话筒掉了",
+        "onboard_time": 1667813846,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182461,
+        "num": 182461,
+        "word": "外资开始抄底房地产",
+        "onboard_time": 1667812108,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178689,
+        "num": 178689,
+        "word": "月全食",
+        "onboard_time": 1667816126,
+        "rank": 23,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 169301,
+        "num": 169301,
+        "word": "为什么越长大反而越想家",
+        "onboard_time": 1667826207,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159079,
+        "num": 159079,
+        "word": "倪妮璀璨粉裙造型",
+        "onboard_time": 1667826626,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "梨泰院踩踏事故调查新进展",
+        "onboard_time": 1667808747,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149608,
+        "num": 149608,
+        "word": "宝宝公交上骑玩具车妈妈舌战司机",
+        "onboard_time": 1667821406,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "莎头",
+        "onboard_time": 1667817146,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131524,
+        "num": 131524,
+        "word": "北京回应市民对进返京防疫政策关切",
+        "onboard_time": 1667813068,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129976,
+        "num": 129976,
+        "word": "欧联抽签",
+        "onboard_time": 1667828308,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126942,
+        "num": 126942,
+        "word": "超七成预制菜被中青年群体买走",
+        "onboard_time": 1667825006,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112662,
+        "num": 112662,
+        "word": "立冬三件套",
+        "onboard_time": 1667810428,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111925,
+        "num": 111925,
+        "word": "AJ涵艺爆料LPL转会期",
+        "onboard_time": 1667818167,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108084,
+        "num": 108084,
+        "word": "男子探店要求免单11元遭拒骂难吃",
+        "onboard_time": 1667813247,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106999,
+        "num": 106999,
+        "word": "给主人暖脚的狗狗",
+        "onboard_time": 1667827767,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104537,
+        "num": 104537,
+        "word": "航空工业说不能成为国足",
+        "onboard_time": 1667814867,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 103210,
+        "word": "狐妖小红娘",
+        "onboard_time": 1667815286,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94316,
+        "num": 94316,
+        "word": "邓超要和鹿晗比转音",
+        "onboard_time": 1667820327,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93058,
+        "num": 93058,
+        "word": "女孩过生日陌生男同学鼓掌祝福",
+        "onboard_time": 1667810129,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91360,
+        "num": 91360,
+        "word": "利物浦被芬威集团挂牌出售",
+        "onboard_time": 1667828367,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90382,
+        "num": 90382,
+        "word": "杨幂片场花絮视频",
+        "onboard_time": 1667825905,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90176,
+        "num": 90176,
+        "word": "命韵峋环开虐了",
+        "onboard_time": 1667813726,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88629,
+        "num": 88629,
+        "word": "南京红山动物园开放动物认养",
+        "onboard_time": 1667815227,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88430,
+        "num": 88430,
+        "word": "舞蹈老师改行当陪诊师月入万元",
+        "onboard_time": 1667810368,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 87161,
+        "word": "EXO台历",
+        "onboard_time": 1667807127,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86900,
+        "num": 86900,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84748,
+        "num": 84748,
+        "word": "血月",
+        "onboard_time": 1667828668,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 82980,
+        "num": 82980,
+        "word": "毛雪汪下期有王源",
+        "onboard_time": 1667819846,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82668,
+        "num": 82668,
+        "word": "间谍过家家",
+        "onboard_time": 1667828487,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022中国航展#"
+    }
+  }
+}
