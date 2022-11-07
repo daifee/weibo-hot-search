@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667835641039,
+  "endTime": 1667838688277,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1667353345,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 959019,
+      "num": 338039,
+      "word": "黄婷婷被判与丝芭传媒解约",
+      "onboard_time": 1667835029,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 954967,
@@ -3187,14 +3195,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 522432,
-      "num": 338039,
-      "word": "黄婷婷被判与丝芭传媒解约",
-      "onboard_time": 1667835029,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521639,
       "num": 521639,
       "word": "TF家族FanClub被责令限期整改",
@@ -3705,6 +3705,14 @@
       "onboard_time": 1667261004,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469009,
+      "num": 469009,
+      "word": "手机厂商集体大降价",
+      "onboard_time": 1667835150,
+      "rank": 33,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 467434,
@@ -6595,6 +6603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263234,
+      "num": 221584,
+      "word": "王一博今日直播截图状态",
+      "onboard_time": 1667835628,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263114,
       "num": 263114,
       "word": "小狗连吧唧嘴都那么可爱",
@@ -7164,7 +7180,7 @@
     },
     {
       "raw_hot": 233056,
-      "num": 71714,
+      "num": 218375,
       "word": "赵露思偷偷藏不住杀青视频",
       "onboard_time": 1667835628,
       "rank": 47,
@@ -7659,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213122,
+      "num": 213122,
+      "word": "有些钱真不能省",
+      "onboard_time": 1667833601,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 212846,
       "num": 202645,
       "word": "命韵峋环",
@@ -7753,6 +7777,14 @@
       "onboard_time": 1667318010,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210279,
+      "num": 210279,
+      "word": "江西的早餐有多便宜",
+      "onboard_time": 1667834610,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 209687,
@@ -8107,14 +8139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197149,
-      "num": 197149,
-      "word": "有些钱真不能省",
-      "onboard_time": 1667833601,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 197127,
       "num": 197127,
       "word": "命韵峋环开虐了",
@@ -8299,6 +8323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190233,
+      "num": 190233,
+      "word": "谢谢你医生网红为博流量假受伤",
+      "onboard_time": 1667836168,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "SAO开服",
@@ -8480,6 +8512,14 @@
       "word": "88岁老人考取驾照所有科目一次过",
       "onboard_time": 1667272345,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183480,
+      "num": 183480,
+      "word": "乌鲁木齐收费办通行证嫌疑人被抓",
+      "onboard_time": 1667836168,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -8939,6 +8979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167057,
+      "num": 167057,
+      "word": "终于知道什么是欲言又止了",
+      "onboard_time": 1667833417,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167044,
       "num": 107552,
       "word": "仙剑女性角色",
@@ -9257,14 +9305,6 @@
       "onboard_time": 1667587093,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160146,
-      "num": 160146,
-      "word": "终于知道什么是欲言又止了",
-      "onboard_time": 1667833417,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 160108,
@@ -9593,14 +9633,6 @@
       "onboard_time": 1667344639,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150763,
-      "num": 71447,
-      "word": "王一博今日直播截图状态",
-      "onboard_time": 1667835628,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 150754,
@@ -10923,14 +10955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121556,
-      "num": 121556,
-      "word": "江西的早餐有多便宜",
-      "onboard_time": 1667834610,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 121503,
       "num": 121503,
       "word": "这样减肥有点费爸爸",
@@ -11153,14 +11177,6 @@
       "onboard_time": 1667810668,
       "rank": 41,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 114841,
-      "num": 114841,
-      "word": "手机厂商集体大降价",
-      "onboard_time": 1667835150,
-      "rank": 33,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 114710,
@@ -11608,6 +11624,14 @@
       "word": "肖砚谈为什么想当医生",
       "onboard_time": 1667699908,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104946,
+      "num": 104946,
+      "word": "命韵峋环身高差",
+      "onboard_time": 1667837905,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -12945,6 +12969,14 @@
       "onboard_time": 1667760014,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82093,
+      "num": 82093,
+      "word": "经得起寸头检验的男星",
+      "onboard_time": 1667837366,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82010,
