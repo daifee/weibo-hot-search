@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667828902974,
+  "endTime": 1667829685907,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -163,6 +163,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 843277,
+      "num": 843277,
+      "word": "全国近八成地级及以上城市房价不过万",
+      "onboard_time": 1667825426,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 840310,
       "num": 840310,
       "word": "立冬",
@@ -209,14 +217,6 @@
       "onboard_time": 1667750188,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693076,
-      "num": 693076,
-      "word": "全国近八成地级及以上城市房价不过万",
-      "onboard_time": 1667825426,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 676208,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578415,
+      "num": 578415,
+      "word": "马斯克解雇了90%的印度推特员工",
+      "onboard_time": 1667824286,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 574729,
       "num": 574729,
       "word": "外公地里挖出1万多存款救济外孙",
@@ -313,14 +321,6 @@
       "onboard_time": 1667791888,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541203,
-      "num": 328564,
-      "word": "马斯克解雇了90%的印度推特员工",
-      "onboard_time": 1667824286,
-      "rank": 30,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 540803,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 472432,
+      "num": 458128,
+      "word": "李峋吃醋",
+      "onboard_time": 1667824648,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462116,
       "num": 420132,
       "word": "流调中最勤劳外卖员发声",
@@ -472,14 +480,6 @@
       "word": "于和伟 陪跑",
       "onboard_time": 1667744673,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 458128,
-      "num": 458128,
-      "word": "李峋吃醋",
-      "onboard_time": 1667824648,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383706,
+      "num": 383706,
+      "word": "5男子饭馆吃133元要求少收100元",
+      "onboard_time": 1667826688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349168,
+      "num": 349168,
+      "word": "台北故宫文物毁损视频首曝光",
+      "onboard_time": 1667825547,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348026,
       "num": 348026,
       "word": "张超",
@@ -699,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342092,
+      "num": 342092,
+      "word": "25岁爸爸带娃一年日渐沧桑",
+      "onboard_time": 1667823448,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335273,
       "num": 335273,
       "word": "AJ涵艺爆料LPL转会期",
@@ -713,14 +737,6 @@
       "onboard_time": 1667745575,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330569,
-      "num": 330569,
-      "word": "25岁爸爸带娃一年日渐沧桑",
-      "onboard_time": 1667823448,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329545,
@@ -763,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308605,
-      "num": 308605,
-      "word": "台北故宫文物毁损视频首曝光",
-      "onboard_time": 1667825547,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302759,
       "num": 277600,
       "word": "宋祖儿恭喜半夏小姐下班咯",
@@ -809,6 +817,14 @@
       "onboard_time": 1667813547,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 295011,
+      "num": 295011,
+      "word": "脸上流露出自卑和尴尬的猫",
+      "onboard_time": 1667824165,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 294506,
@@ -883,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272164,
-      "num": 272164,
-      "word": "5男子饭馆吃133元要求少收100元",
-      "onboard_time": 1667826688,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
@@ -899,12 +907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270241,
-      "num": 270241,
-      "word": "脸上流露出自卑和尴尬的猫",
-      "onboard_time": 1667824165,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 267650,
+      "num": 190962,
+      "word": "周也直播动图",
+      "onboard_time": 1667827889,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 266416,
@@ -1067,6 +1075,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 223517,
+      "num": 223517,
+      "word": "为什么越长大反而越想家",
+      "onboard_time": 1667826207,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223339,
       "num": 223339,
       "word": "张婧仪朱韵被泼水",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1667820327,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219167,
-      "num": 190962,
-      "word": "周也直播动图",
-      "onboard_time": 1667827889,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 217525,
@@ -1299,20 +1307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171877,
+      "num": 171877,
+      "word": "超七成预制菜被中青年群体买走",
+      "onboard_time": 1667825006,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "李峋被朱韵反撩的反应",
       "onboard_time": 1667822546,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169301,
-      "num": 169301,
-      "word": "为什么越长大反而越想家",
-      "onboard_time": 1667826207,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 168386,
@@ -1387,20 +1395,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "倪妮璀璨粉裙造型",
+      "onboard_time": 1667826626,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159545,
       "num": 121712,
       "word": "狐妖小红娘月红篇杀青特辑播放量",
       "onboard_time": 1667803287,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159079,
-      "num": 159079,
-      "word": "倪妮璀璨粉裙造型",
-      "onboard_time": 1667826626,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 152768,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1667802748,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144172,
-      "num": 144172,
-      "word": "超七成预制菜被中青年群体买走",
-      "onboard_time": 1667825006,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143588,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133842,
+      "num": 133842,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 132199,
@@ -1675,6 +1683,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 118565,
+      "num": 118565,
+      "word": "给主人暖脚的狗狗",
+      "onboard_time": 1667827767,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 116749,
       "num": 116749,
       "word": "一只会做鬼脸的小猫",
@@ -1763,20 +1779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106999,
-      "num": 106999,
-      "word": "给主人暖脚的狗狗",
-      "onboard_time": 1667827767,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 106337,
       "num": 106337,
       "word": "赵云嘻哈天王优化",
       "onboard_time": 1667809167,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105980,
+      "num": 105980,
+      "word": "间谍过家家",
+      "onboard_time": 1667828487,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 105406,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1667735967,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94467,
+      "num": 94467,
+      "word": "俞敏洪称10年吃了3000片安眠药",
+      "onboard_time": 1667829447,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93536,
@@ -1979,6 +2003,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 86617,
+      "num": 86617,
+      "word": "小朋友是懂吵架的",
+      "onboard_time": 1667829389,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 86572,
       "num": 86572,
       "word": "觉醒年代",
@@ -1995,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86416,
+      "num": 86416,
+      "word": "70岁还能给妈妈付钱多幸福",
+      "onboard_time": 1667829027,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85576,
       "num": 85576,
       "word": "赣州数百人涌进河滩挖宝",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1667781148,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 84748,
-      "num": 84748,
-      "word": "血月",
-      "onboard_time": 1667828668,
-      "rank": 47,
-      "category": "自然"
     },
     {
       "raw_hot": 84452,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1667808927,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82668,
-      "num": 82668,
-      "word": "间谍过家家",
-      "onboard_time": 1667828487,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 82173,
@@ -2096,6 +2120,14 @@
       "word": "林峯潘玮柏加盟我们的滚烫人生2",
       "onboard_time": 1667751325,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79525,
+      "num": 79525,
+      "word": "李荣浩是懂理发的",
+      "onboard_time": 1667829628,
+      "rank": 49,
       "category": "综艺"
     },
     {
