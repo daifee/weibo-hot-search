@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/07 00:30:03 ~ 2022/11/08 02:43:25
+本榜单时间：2022/11/07 00:30:03 ~ 2022/11/08 03:17:56
 </p>
 </blockquote>
 <p>
@@ -1677,6 +1677,12 @@ AG再捧冠军杯（热度：96746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%856%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
+韩国踩踏事故6人被立案调查（热度：90013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%85%89%E7%9B%98%E8%A1%8C%E5%8A%A8%E8%A2%AB%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%E8%AE%B0%E5%BD%95%E8%A1%A8%E7%99%BD%23" target="weibo">
 高校学生光盘行动被食堂阿姨记录表白（热度：89230）
 </a>
@@ -1955,12 +1961,6 @@ eStar有点唱功但不多（热度：82817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%81%AB%E6%9C%BA%E4%B8%8E%E5%85%AC%E4%B8%BB%E8%A3%99%20%E5%B0%8F%E8%AF%B4%23" target="weibo">
 打火机与公主裙 小说（热度：15669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%856%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
-韩国踩踏事故6人被立案调查（热度：12339）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/08 00:31:28 ~ 2022/11/08 02:43:25
+本榜单时间：2022/11/08 00:31:28 ~ 2022/11/08 03:17:56
 </p>
 </blockquote>
 <p>
@@ -249,6 +249,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%856%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
+韩国踩踏事故6人被立案调查（热度：90013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B8%E4%B8%8A%E6%B5%81%E9%9C%B2%E5%87%BA%E8%87%AA%E5%8D%91%E5%92%8C%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%8C%AB%23" target="weibo">
 脸上流露出自卑和尴尬的猫（热度：87037）
 </a>
@@ -323,12 +329,6 @@ SEVENTEEN新歌Dream初舞台（热度：57912）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E9%95%BF%E5%A4%A7%E5%8F%8D%E8%80%8C%E8%B6%8A%E6%83%B3%E5%AE%B6%23" target="weibo">
 为什么越长大反而越想家（热度：47957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%856%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
-韩国踩踏事故6人被立案调查（热度：12339）
 </a>
 </li>
 

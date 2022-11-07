@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667846605707,
+  "endTime": 1667848676897,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -10428,7 +10428,7 @@
     },
     {
       "raw_hot": 132340,
-      "num": 58100,
+      "num": 109118,
       "word": "公主 你当我是豆腐做的",
       "onboard_time": 1667843475,
       "rank": 11,
@@ -12425,6 +12425,14 @@
       "onboard_time": 1667406682,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90013,
+      "num": 42624,
+      "word": "韩国踩踏事故6人被立案调查",
+      "onboard_time": 1667846532,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89794,
@@ -14425,14 +14433,6 @@
       "onboard_time": 1667593511,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12339,
-      "num": 15222,
-      "word": "韩国踩踏事故6人被立案调查",
-      "onboard_time": 1667846532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12309,
