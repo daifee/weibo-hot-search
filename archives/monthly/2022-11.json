@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667819962110,
+  "endTime": 1667820949556,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1332622,
+      "num": 1332622,
+      "word": "小伙患红斑狼疮近5年爬楼超10万层",
+      "onboard_time": 1667815887,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1328156,
       "num": 457651,
       "word": "李一桐录跑男时牙崩了",
@@ -897,14 +905,6 @@
       "onboard_time": 1667560649,
       "rank": 47,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1164075,
-      "num": 1164075,
-      "word": "小伙患红斑狼疮近5年爬楼超10万层",
-      "onboard_time": 1667815887,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1157164,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866063,
+      "num": 866063,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865675,
       "num": 865675,
       "word": "女汉子字幕组不再发布中字成品",
@@ -1904,14 +1912,6 @@
       "word": "女生收集1年掉发绑成5厘米粗马尾",
       "onboard_time": 1667477606,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738954,
-      "num": 738954,
-      "word": "乌鲁木齐警情通报",
-      "onboard_time": 1667817626,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2779,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560686,
+      "num": 560686,
+      "word": "明年好多古偶",
+      "onboard_time": 1667818227,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 560603,
       "num": 560603,
       "word": "月全食",
@@ -3083,6 +3091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520567,
+      "num": 520567,
+      "word": "央视曝光双十一新骗术",
+      "onboard_time": 1667817448,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520482,
       "num": 329038,
       "word": "米勒哭了",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1667551351,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491899,
-      "num": 491899,
-      "word": "明年好多古偶",
-      "onboard_time": 1667818227,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 491642,
@@ -5059,14 +5067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340265,
-      "num": 340265,
-      "word": "央视曝光双十一新骗术",
-      "onboard_time": 1667817448,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339949,
       "num": 339949,
       "word": "年轻人算是把方便面玩明白了",
@@ -5129,6 +5129,14 @@
       "onboard_time": 1667613449,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335273,
+      "num": 335273,
+      "word": "AJ涵艺爆料LPL转会期",
+      "onboard_time": 1667818167,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 334949,
@@ -5507,14 +5515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312085,
-      "num": 312085,
-      "word": "AJ涵艺爆料LPL转会期",
-      "onboard_time": 1667818167,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 311530,
       "num": 241248,
       "word": "李现寸头直播状态",
@@ -5881,6 +5881,14 @@
       "onboard_time": 1667555550,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286267,
+      "num": 286267,
+      "word": "航空工业说不能成为国足",
+      "onboard_time": 1667814867,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 286233,
@@ -6289,14 +6297,6 @@
       "onboard_time": 1667614409,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 269095,
-      "num": 269095,
-      "word": "航空工业说不能成为国足",
-      "onboard_time": 1667814867,
-      "rank": 26,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 269018,
@@ -8059,6 +8059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188487,
+      "num": 188487,
+      "word": "邓超要和鹿晗比转音",
+      "onboard_time": 1667820327,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188351,
       "num": 188351,
       "word": "明星金鹰节红毯造型",
@@ -8304,6 +8312,14 @@
       "word": "夫妻连续9年带孩子登山捡垃圾",
       "onboard_time": 1667311228,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179172,
+      "num": 179172,
+      "word": "女生挑战自己拔智齿鼓励网友",
+      "onboard_time": 1667816906,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -9179,6 +9195,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 152768,
+      "num": 152768,
+      "word": "这玩意儿也太气猫了",
+      "onboard_time": 1667817326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152580,
       "num": 152580,
       "word": "现在小孩都玩这么狠吗",
@@ -9305,14 +9329,6 @@
       "onboard_time": 1667805568,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148527,
-      "num": 148527,
-      "word": "这玩意儿也太气猫了",
-      "onboard_time": 1667817326,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 148496,
@@ -9587,14 +9603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143008,
-      "num": 143008,
-      "word": "女生挑战自己拔智齿鼓励网友",
-      "onboard_time": 1667816906,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142962,
       "num": 142962,
       "word": "鹿晗新歌预告",
@@ -9681,6 +9689,14 @@
       "onboard_time": 1667710047,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139483,
+      "num": 139483,
+      "word": "流调中最勤劳外卖员发声",
+      "onboard_time": 1667819127,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139120,
@@ -10315,6 +10331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125869,
+      "num": 125869,
+      "word": "emoji原型好像被我找到了",
+      "onboard_time": 1667815765,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125725,
       "num": 125725,
       "word": "阮真真什么时候发现高峻身份",
@@ -10515,6 +10539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121503,
+      "num": 121503,
+      "word": "这样减肥有点费爸爸",
+      "onboard_time": 1667819007,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "神州大地美成了壁纸",
@@ -10673,6 +10705,14 @@
       "onboard_time": 1667700146,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116749,
+      "num": 116749,
+      "word": "一只会做鬼脸的小猫",
+      "onboard_time": 1667818347,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116563,
@@ -10923,6 +10963,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 109959,
+      "num": 92416,
+      "word": "长风渡宿命感",
+      "onboard_time": 1667820925,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109814,
       "num": 109814,
       "word": "吴卓羲在沙漠独自一个人掉队",
@@ -10963,14 +11011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108842,
-      "num": 108842,
-      "word": "一只会做鬼脸的小猫",
-      "onboard_time": 1667818347,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 108768,
       "num": 108768,
       "word": "好像知道它为什么流浪了",
@@ -10993,14 +11033,6 @@
       "onboard_time": 1667621848,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108305,
-      "num": 108305,
-      "word": "emoji原型好像被我找到了",
-      "onboard_time": 1667815765,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 108219,
@@ -11371,14 +11403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100274,
-      "num": 100274,
-      "word": "这样减肥有点费爸爸",
-      "onboard_time": 1667819007,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -11595,6 +11619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95615,
+      "num": 95615,
+      "word": "没有生命会拒绝爱",
+      "onboard_time": 1667820508,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95290,
       "num": 95290,
       "word": "SKT",
@@ -11633,14 +11665,6 @@
       "onboard_time": 1667273007,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94560,
-      "num": 94560,
-      "word": "流调中最勤劳外卖员发声",
-      "onboard_time": 1667819127,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94451,
@@ -11713,6 +11737,14 @@
       "onboard_time": 1667785645,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93449,
+      "num": 93449,
+      "word": "第一次见自己抱盆吃饭的猫",
+      "onboard_time": 1667820747,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 93412,

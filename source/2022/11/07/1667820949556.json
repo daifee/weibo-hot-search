@@ -1,0 +1,410 @@
+{
+  "runTime": 1667820949556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332622,
+        "num": 1332622,
+        "word": "小伙患红斑狼疮近5年爬楼超10万层",
+        "onboard_time": 1667815887,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866063,
+        "num": 866063,
+        "word": "乌鲁木齐警情通报",
+        "onboard_time": 1667817626,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19538,
+        "num": 864675,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 864610,
+        "num": 864610,
+        "word": "厦门海关截获1只活体黑寡妇",
+        "onboard_time": 1667805806,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744088,
+        "num": 744088,
+        "word": "呼和浩特多名干部疫情期间聚集饮酒",
+        "onboard_time": 1667813368,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562130,
+        "num": 562130,
+        "word": "莎头",
+        "onboard_time": 1667817146,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560686,
+        "num": 560686,
+        "word": "明年好多古偶",
+        "onboard_time": 1667818227,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523434,
+        "num": 523434,
+        "word": "月全食",
+        "onboard_time": 1667816126,
+        "rank": 7,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 520567,
+        "num": 520567,
+        "word": "央视曝光双十一新骗术",
+        "onboard_time": 1667817448,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451979,
+        "num": 451979,
+        "word": "外资开始抄底房地产",
+        "onboard_time": 1667812108,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382799,
+        "num": 382799,
+        "word": "男子探店要求免单11元遭拒骂难吃",
+        "onboard_time": 1667813247,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335273,
+        "num": 335273,
+        "word": "AJ涵艺爆料LPL转会期",
+        "onboard_time": 1667818167,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308138,
+        "num": 308138,
+        "word": "梨泰院踩踏事故调查新进展",
+        "onboard_time": 1667808747,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301670,
+        "num": 301670,
+        "word": "毛雪汪下期有王源",
+        "onboard_time": 1667819846,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286267,
+        "num": 286267,
+        "word": "航空工业说不能成为国足",
+        "onboard_time": 1667814867,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 275076,
+        "num": 275076,
+        "word": "狐妖小红娘",
+        "onboard_time": 1667815286,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269725,
+        "num": 269725,
+        "word": "雷佳音回应感言说一半话筒掉了",
+        "onboard_time": 1667813846,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240304,
+        "num": 240304,
+        "word": "北京回应市民对进返京防疫政策关切",
+        "onboard_time": 1667813068,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232560,
+        "num": 232560,
+        "word": "女孩过生日陌生男同学鼓掌祝福",
+        "onboard_time": 1667810129,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225030,
+        "num": 225030,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188487,
+        "num": 188487,
+        "word": "邓超要和鹿晗比转音",
+        "onboard_time": 1667820327,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185064,
+        "num": 185064,
+        "word": "命韵峋环开虐了",
+        "onboard_time": 1667813726,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179172,
+        "num": 179172,
+        "word": "女生挑战自己拔智齿鼓励网友",
+        "onboard_time": 1667816906,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 178972,
+        "word": "程序员看李峋代码来上分",
+        "onboard_time": 1667810605,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177362,
+        "num": 177362,
+        "word": "EXO台历",
+        "onboard_time": 1667807127,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176908,
+        "num": 176908,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172467,
+        "num": 172467,
+        "word": "舞蹈老师改行当陪诊师月入万元",
+        "onboard_time": 1667810368,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163052,
+        "num": 163052,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156194,
+        "num": 156194,
+        "word": "官方回应学生跪地唱征服视频",
+        "onboard_time": 1667813547,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153832,
+        "num": 153832,
+        "word": "南京红山动物园开放动物认养",
+        "onboard_time": 1667815227,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152768,
+        "num": 152768,
+        "word": "这玩意儿也太气猫了",
+        "onboard_time": 1667817326,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148936,
+        "num": 148936,
+        "word": "立冬三件套",
+        "onboard_time": 1667810428,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139483,
+        "num": 139483,
+        "word": "流调中最勤劳外卖员发声",
+        "onboard_time": 1667819127,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132156,
+        "num": 132156,
+        "word": "恒星引力东方美学",
+        "onboard_time": 1667817867,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125869,
+        "num": 125869,
+        "word": "emoji原型好像被我找到了",
+        "onboard_time": 1667815765,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124789,
+        "num": 124789,
+        "word": "油条又大又脆一查明矾超标10倍",
+        "onboard_time": 1667808808,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 122636,
+        "word": "殷桃说拿奖前感觉胜算挺高的",
+        "onboard_time": 1667800587,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122056,
+        "num": 122056,
+        "word": "歼-20总师说祖国任何角落都有歼-20",
+        "onboard_time": 1667807187,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121503,
+        "num": 121503,
+        "word": "这样减肥有点费爸爸",
+        "onboard_time": 1667819007,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116749,
+        "num": 116749,
+        "word": "一只会做鬼脸的小猫",
+        "onboard_time": 1667818347,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114659,
+        "num": 114659,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111502,
+        "num": 111502,
+        "word": "杨紫肖战余生请多指教日本播出预告",
+        "onboard_time": 1667801966,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108907,
+        "num": 108907,
+        "word": "外公地里挖出1万多存款救济外孙",
+        "onboard_time": 1667800408,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104691,
+        "num": 104691,
+        "word": "我最近的解压方式",
+        "onboard_time": 1667813188,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 96478,
+        "word": "北京疫情发布会",
+        "onboard_time": 1667810548,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95615,
+        "num": 95615,
+        "word": "没有生命会拒绝爱",
+        "onboard_time": 1667820508,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93449,
+        "num": 93449,
+        "word": "第一次见自己抱盆吃饭的猫",
+        "onboard_time": 1667820747,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109959,
+        "num": 92416,
+        "word": "长风渡宿命感",
+        "onboard_time": 1667820925,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85445,
+        "num": 85445,
+        "word": "拍月亮",
+        "onboard_time": 1667817926,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85125,
+        "num": 85125,
+        "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+        "onboard_time": 1667803229,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
+    }
+  }
+}
