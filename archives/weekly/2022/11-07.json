@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667786334003,
+  "endTime": 1667788381832,
   "band_list": [
     {
       "raw_hot": 2010418,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1784584,
-      "num": 842352,
+      "num": 851527,
       "word": "英国伦敦爆发大规模抗议",
       "onboard_time": 1667777302,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1514175,
+      "num": 488626,
+      "word": "赛琳娜回应捐肾好友取关",
+      "onboard_time": 1667787207,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1407378,
@@ -27,12 +35,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1229293,
-      "num": 1229293,
+      "raw_hot": 1250747,
+      "num": 1250747,
       "word": "雷佳音说太丢人了这是直播",
       "onboard_time": 1667784326,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1093924,
+      "num": 1093924,
+      "word": "广州新增本土感染者1935例",
+      "onboard_time": 1667784386,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919333,
@@ -43,14 +59,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 853924,
-      "num": 853924,
-      "word": "广州新增本土感染者1935例",
-      "onboard_time": 1667784386,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 840310,
       "num": 840310,
       "word": "立冬",
@@ -59,11 +67,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771234,
+      "num": 771234,
+      "word": "醉汉趁情侣吵架上前搭讪被打",
+      "onboard_time": 1667784986,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749353,
       "num": 749353,
       "word": "韩国一列火车在首尔脱轨致31伤",
       "onboard_time": 1667750188,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712379,
+      "num": 712379,
+      "word": "饺子",
+      "onboard_time": 1667786185,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 618130,
+      "num": 618130,
+      "word": "直播间9块9抢五桶泡面仅拇指大",
+      "onboard_time": 1667784628,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -83,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555534,
+      "num": 485132,
+      "word": "一位阳性密接外卖员的一天",
+      "onboard_time": 1667787386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505451,
       "num": 343913,
       "word": "痛经的克星终于找到了",
@@ -97,6 +137,14 @@
       "onboard_time": 1667745694,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501263,
+      "num": 501263,
+      "word": "苹果HeySiri将改为Siri",
+      "onboard_time": 1667783548,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 497722,
@@ -123,6 +171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 475601,
+      "num": 475601,
+      "word": "马斯克让几十名被裁推特员工返岗",
+      "onboard_time": 1667784267,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 461178,
       "num": 341267,
       "word": "于和伟 陪跑",
@@ -131,36 +187,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460965,
-      "num": 460965,
-      "word": "苹果HeySiri将改为Siri",
-      "onboard_time": 1667783548,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 443802,
-      "num": 414956,
-      "word": "马斯克让几十名被裁推特员工返岗",
-      "onboard_time": 1667784267,
-      "rank": 11,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 438792,
-      "num": 413254,
-      "word": "直播间9块9抢五桶泡面仅拇指大",
-      "onboard_time": 1667784628,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434343,
       "num": 340067,
       "word": "陈飞宇好欲",
       "onboard_time": 1667748210,
       "rank": 12,
       "category": "影视,影视"
+    },
+    {
+      "raw_hot": 431644,
+      "num": 431644,
+      "word": "iPhone14Pro收货需要等待更长时间",
+      "onboard_time": 1667786424,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 421046,
@@ -243,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311869,
-      "num": 311869,
-      "word": "醉汉趁情侣吵架上前搭讪被打",
-      "onboard_time": 1667784986,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
@@ -265,6 +297,14 @@
       "onboard_time": 1667748150,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254779,
+      "num": 254779,
+      "word": "为什么年轻人开始回潮传统了",
+      "onboard_time": 1667786424,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242910,
@@ -315,12 +355,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 223339,
+      "num": 223339,
+      "word": "张婧仪朱韵被泼水",
+      "onboard_time": 1667785105,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215933,
       "num": 163480,
       "word": "刘波打电话约架是真实事件改编",
       "onboard_time": 1667735066,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215082,
+      "num": 215082,
+      "word": "立冬意味着什么",
+      "onboard_time": 1667783247,
+      "rank": 28,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 210506,
@@ -353,14 +409,6 @@
       "onboard_time": 1667736747,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198424,
-      "num": 198424,
-      "word": "立冬意味着什么",
-      "onboard_time": 1667783247,
-      "rank": 28,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 185934,
@@ -411,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144749,
+      "num": 144749,
+      "word": "无忧渡",
+      "onboard_time": 1667778565,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137788,
       "num": 137788,
       "word": "傍晚人体燃脂效率最高",
@@ -419,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136568,
-      "num": 136568,
-      "word": "张婧仪朱韵被泼水",
-      "onboard_time": 1667785105,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 135412,
+      "num": 135412,
+      "word": "11月6日新增4961例本土无症状",
+      "onboard_time": 1667787866,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131549,
@@ -449,14 +505,6 @@
       "onboard_time": 1667747971,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128235,
-      "num": 128235,
-      "word": "饺子",
-      "onboard_time": 1667786185,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 124486,
@@ -507,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112592,
+      "num": 112592,
+      "word": "你好冬天",
+      "onboard_time": 1667787627,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109476,
       "num": 97130,
       "word": "华春莹讲述德企在华合作情况",
       "onboard_time": 1667765891,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108539,
-      "num": 108539,
-      "word": "无忧渡",
-      "onboard_time": 1667778565,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 107328,
@@ -579,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88884,
+      "num": 88884,
+      "word": "马斯克回应蓝V付费制",
+      "onboard_time": 1667787686,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 87169,
       "num": 87169,
       "word": "2022全国乒乓球锦标赛",
@@ -611,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82248,
+      "num": 82248,
+      "word": "Meta将启动史上首次大规模裁员",
+      "onboard_time": 1667787987,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 82173,
       "num": 82173,
       "word": "圆明园考古新发现",
@@ -641,6 +705,22 @@
       "onboard_time": 1667751325,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79343,
+      "num": 79343,
+      "word": "今天北京开始试供暖",
+      "onboard_time": 1667788167,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76851,
+      "num": 76851,
+      "word": "11月6日新增本土确诊535例",
+      "onboard_time": 1667787447,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75165,
@@ -772,7 +852,7 @@
     },
     {
       "raw_hot": 8433,
-      "num": 843672,
+      "num": 888266,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 2,
