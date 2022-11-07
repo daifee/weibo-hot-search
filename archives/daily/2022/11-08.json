@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667848676897,
+  "endTime": 1667849626047,
   "band_list": [
     {
       "raw_hot": 1640450,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119429,
+      "num": 42624,
+      "word": "韩国踩踏事故6人被立案调查",
+      "onboard_time": 1667846532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110616,
       "num": 110616,
       "word": "厦门海关截获1只活体黑寡妇",
@@ -312,14 +320,6 @@
       "word": "台北故宫文物毁损视频首曝光",
       "onboard_time": 1667825547,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90013,
-      "num": 42624,
-      "word": "韩国踩踏事故6人被立案调查",
-      "onboard_time": 1667846532,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -425,6 +425,22 @@
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9810,
+      "num": 12604,
+      "word": "韩剧想你首播10周年",
+      "onboard_time": 1667848932,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9739,
+      "num": 12590,
+      "word": "全球人口将达80亿",
+      "onboard_time": 1667849051,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4698,

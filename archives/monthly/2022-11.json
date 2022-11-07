@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667848676897,
+  "endTime": 1667849626047,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -11035,6 +11035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119429,
+      "num": 42624,
+      "word": "韩国踩踏事故6人被立案调查",
+      "onboard_time": 1667846532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "太空水稻成熟了",
@@ -12425,14 +12433,6 @@
       "onboard_time": 1667406682,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90013,
-      "num": 42624,
-      "word": "韩国踩踏事故6人被立案调查",
-      "onboard_time": 1667846532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89794,
@@ -14465,6 +14465,22 @@
       "onboard_time": 1667676912,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9810,
+      "num": 12604,
+      "word": "韩剧想你首播10周年",
+      "onboard_time": 1667848932,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9739,
+      "num": 12590,
+      "word": "全球人口将达80亿",
+      "onboard_time": 1667849051,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9662,

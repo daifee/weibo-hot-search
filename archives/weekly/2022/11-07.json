@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667848676897,
+  "endTime": 1667849626047,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1939,6 +1939,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 119429,
+      "num": 42624,
+      "word": "韩国踩踏事故6人被立案调查",
+      "onboard_time": 1667846532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116749,
       "num": 116749,
       "word": "一只会做鬼脸的小猫",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1667798610,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90013,
-      "num": 42624,
-      "word": "韩国踩踏事故6人被立案调查",
-      "onboard_time": 1667846532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89230,
@@ -2601,6 +2601,22 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9810,
+      "num": 12604,
+      "word": "韩剧想你首播10周年",
+      "onboard_time": 1667848932,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9739,
+      "num": 12590,
+      "word": "全球人口将达80亿",
+      "onboard_time": 1667849051,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8753,
