@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667812954217,
+  "endTime": 1667813981205,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 635351,
+      "num": 635351,
+      "word": "油条又大又脆一查明矾超标10倍",
+      "onboard_time": 1667808808,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618130,
       "num": 618130,
       "word": "直播间9块9抢五桶泡面仅拇指大",
@@ -224,14 +232,6 @@
       "word": "北京疫情发布会",
       "onboard_time": 1667810548,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508238,
-      "num": 508238,
-      "word": "油条又大又脆一查明矾超标10倍",
-      "onboard_time": 1667808808,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 479989,
+      "num": 479989,
+      "word": "外资开始抄底房地产",
+      "onboard_time": 1667812108,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 475601,
       "num": 475601,
       "word": "马斯克让几十名被裁推特员工返岗",
@@ -344,6 +352,14 @@
       "word": "妈妈晒3个高颜值儿子羡煞众人",
       "onboard_time": 1667800949,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443918,
+      "num": 443918,
+      "word": "舞蹈老师改行当陪诊师月入万元",
+      "onboard_time": 1667810368,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -555,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316040,
-      "num": 316040,
-      "word": "舞蹈老师改行当陪诊师月入万元",
-      "onboard_time": 1667810368,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310662,
       "num": 276763,
       "word": "鹿晗keepmealive",
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292324,
+      "num": 292324,
+      "word": "立冬三件套",
+      "onboard_time": 1667810428,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290723,
       "num": 290723,
       "word": "殷桃说拿奖前感觉胜算挺高的",
@@ -625,6 +641,14 @@
       "onboard_time": 1667795856,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285434,
+      "num": 285434,
+      "word": "北京回应市民对进返京防疫政策关切",
+      "onboard_time": 1667813068,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283868,
@@ -689,14 +713,6 @@
       "onboard_time": 1667748150,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258325,
-      "num": 258325,
-      "word": "立冬三件套",
-      "onboard_time": 1667810428,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 256532,
@@ -899,6 +915,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194858,
+      "num": 194858,
+      "word": "女孩过生日陌生男同学鼓掌祝福",
+      "onboard_time": 1667810129,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191961,
+      "num": 191961,
+      "word": "程序员看李峋代码来上分",
+      "onboard_time": 1667810605,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190121,
       "num": 172234,
       "word": "今天好多剧杀青",
@@ -1003,6 +1035,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 164468,
+      "num": 164468,
+      "word": "阿瑟台词老师是魏大勋同学",
+      "onboard_time": 1667811267,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161970,
       "num": 122405,
       "word": "赵丽颖风吹半夏迎风而上剧照",
@@ -1043,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151500,
-      "num": 151500,
-      "word": "外资开始抄底房地产",
-      "onboard_time": 1667812108,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 151059,
       "num": 151059,
       "word": "苹果减产300万部新iPhone",
@@ -1083,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145149,
-      "num": 145149,
-      "word": "程序员看李峋代码来上分",
-      "onboard_time": 1667810605,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144749,
       "num": 144749,
       "word": "无忧渡",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1667798849,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 138600,
-      "num": 138600,
-      "word": "阿瑟台词老师是魏大勋同学",
-      "onboard_time": 1667811267,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 138086,
@@ -1203,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129568,
+      "num": 129568,
+      "word": "呼和浩特多名干部疫情期间聚集饮酒",
+      "onboard_time": 1667813368,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129166,
       "num": 129166,
       "word": "爱心店主10年免费教5000多人做煎饼",
@@ -1219,12 +1243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125446,
-      "num": 147690,
-      "word": "女孩过生日陌生男同学鼓掌祝福",
-      "onboard_time": 1667810129,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 125725,
+      "num": 125725,
+      "word": "阮真真什么时候发现高峻身份",
+      "onboard_time": 1667813368,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "青年大学习",
+      "onboard_time": 1667809588,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 124486,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1667744733,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122513,
+      "num": 122513,
+      "word": "雷佳音回应感言说一半话筒掉了",
+      "onboard_time": 1667813846,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 122505,
@@ -1323,12 +1363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107440,
-      "num": 107440,
-      "word": "青年大学习",
-      "onboard_time": 1667809588,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 109386,
+      "num": 109386,
+      "word": "男子探店要求免单11元遭拒骂难吃",
+      "onboard_time": 1667813247,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107328,
@@ -1369,6 +1409,22 @@
       "onboard_time": 1667793210,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100788,
+      "num": 100788,
+      "word": "命韵峋环开虐了",
+      "onboard_time": 1667813726,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 100424,
+      "num": 100424,
+      "word": "官方回应学生跪地唱征服视频",
+      "onboard_time": 1667813547,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 100056,
@@ -1483,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86832,
+      "num": 86832,
+      "word": "2023海军招飞简章",
+      "onboard_time": 1667813905,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 86572,
       "num": 86572,
       "word": "觉醒年代",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1667777242,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85576,
+      "num": 85576,
+      "word": "赣州数百人涌进河滩挖宝",
+      "onboard_time": 1667813666,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85102,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1667802087,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80424,
+      "num": 80424,
+      "word": "我最近的解压方式",
+      "onboard_time": 1667813188,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80354,

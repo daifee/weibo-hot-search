@@ -1,0 +1,410 @@
+{
+  "runTime": 1667813981205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557787,
+        "num": 1557787,
+        "word": "厦门海关截获1只活体黑寡妇",
+        "onboard_time": 1667805806,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966918,
+        "num": 966918,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39790,
+        "num": 835312,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 782020,
+        "num": 782020,
+        "word": "梨泰院踩踏事故调查新进展",
+        "onboard_time": 1667808747,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635351,
+        "num": 635351,
+        "word": "油条又大又脆一查明矾超标10倍",
+        "onboard_time": 1667808808,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480567,
+        "num": 480567,
+        "word": "北京疫情发布会",
+        "onboard_time": 1667810548,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479989,
+        "num": 479989,
+        "word": "外资开始抄底房地产",
+        "onboard_time": 1667812108,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443918,
+        "num": 443918,
+        "word": "舞蹈老师改行当陪诊师月入万元",
+        "onboard_time": 1667810368,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388566,
+        "num": 388566,
+        "word": "女程序员送男友不可修改的奖状",
+        "onboard_time": 1667807187,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366020,
+        "num": 366020,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 292324,
+        "num": 292324,
+        "word": "立冬三件套",
+        "onboard_time": 1667810428,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285434,
+        "num": 285434,
+        "word": "北京回应市民对进返京防疫政策关切",
+        "onboard_time": 1667813068,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277316,
+        "num": 277316,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269145,
+        "num": 269145,
+        "word": "歼-20总师说祖国任何角落都有歼-20",
+        "onboard_time": 1667807187,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 251544,
+        "num": 251544,
+        "word": "外公地里挖出1万多存款救济外孙",
+        "onboard_time": 1667800408,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213888,
+        "num": 213888,
+        "word": "小伙徒手接3楼坠落孩子",
+        "onboard_time": 1667806886,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 204552,
+        "word": "殷桃说拿奖前感觉胜算挺高的",
+        "onboard_time": 1667800587,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199114,
+        "num": 199114,
+        "word": "秦皇岛疫情防控",
+        "onboard_time": 1667806466,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198849,
+        "num": 198849,
+        "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
+        "onboard_time": 1667804485,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194858,
+        "num": 194858,
+        "word": "女孩过生日陌生男同学鼓掌祝福",
+        "onboard_time": 1667810129,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282020,
+        "num": 193724,
+        "word": "EXO台历",
+        "onboard_time": 1667807127,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191961,
+        "num": 191961,
+        "word": "程序员看李峋代码来上分",
+        "onboard_time": 1667810605,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164468,
+        "num": 164468,
+        "word": "阿瑟台词老师是魏大勋同学",
+        "onboard_time": 1667811267,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167122,
+        "num": 164181,
+        "word": "李峋男友力",
+        "onboard_time": 1667808987,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163429,
+        "num": 163429,
+        "word": "台历",
+        "onboard_time": 1667806527,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166134,
+        "num": 163405,
+        "word": "陈飞宇回复张婧仪我可不哄人",
+        "onboard_time": 1667799089,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163264,
+        "num": 163264,
+        "word": "杨紫肖战余生请多指教日本播出预告",
+        "onboard_time": 1667801966,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159558,
+        "num": 159558,
+        "word": "逃犯到派出所开无犯罪记录证明",
+        "onboard_time": 1667802748,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159337,
+        "num": 159337,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134767,
+        "num": 134767,
+        "word": "郑州富士康发布预招工公告",
+        "onboard_time": 1667799270,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654019,
+        "num": 134024,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142575,
+        "num": 133124,
+        "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+        "onboard_time": 1667803229,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "豆瓣崩了",
+        "onboard_time": 1667809949,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 129568,
+        "word": "呼和浩特多名干部疫情期间聚集饮酒",
+        "onboard_time": 1667813368,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127158,
+        "num": 127158,
+        "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+        "onboard_time": 1667800348,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125725,
+        "num": 125725,
+        "word": "阮真真什么时候发现高峻身份",
+        "onboard_time": 1667813368,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125651,
+        "num": 125651,
+        "word": "青年大学习",
+        "onboard_time": 1667809588,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122513,
+        "num": 122513,
+        "word": "雷佳音回应感言说一半话筒掉了",
+        "onboard_time": 1667813846,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110977,
+        "num": 110977,
+        "word": "minnie音中横板直拍",
+        "onboard_time": 1667810788,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109386,
+        "num": 109386,
+        "word": "男子探店要求免单11元遭拒骂难吃",
+        "onboard_time": 1667813247,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100788,
+        "num": 100788,
+        "word": "命韵峋环开虐了",
+        "onboard_time": 1667813726,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100424,
+        "num": 100424,
+        "word": "官方回应学生跪地唱征服视频",
+        "onboard_time": 1667813547,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 96656,
+        "num": 96656,
+        "word": "宋祖儿恭喜半夏小姐下班咯",
+        "onboard_time": 1667806228,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94608,
+        "num": 94608,
+        "word": "中国男篮世预赛大名单",
+        "onboard_time": 1667806709,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 90358,
+        "word": "网红面馆推8人份生日宴售价2999元引争议",
+        "onboard_time": 1667798969,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86832,
+        "num": 86832,
+        "word": "2023海军招飞简章",
+        "onboard_time": 1667813905,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85966,
+        "num": 85966,
+        "word": "陆军直20抵达珠海",
+        "onboard_time": 1667802867,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85576,
+        "num": 85576,
+        "word": "赣州数百人涌进河滩挖宝",
+        "onboard_time": 1667813666,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84762,
+        "num": 84762,
+        "word": "为什么年轻人不排斥穿秋裤了",
+        "onboard_time": 1667790985,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80424,
+        "num": 80424,
+        "word": "我最近的解压方式",
+        "onboard_time": 1667813188,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
+    }
+  }
+}
