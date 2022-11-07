@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667831996163,
+  "endTime": 1667834616895,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3062238,
+      "num": 3062238,
+      "word": "消费者称李佳琦直播间产品比官方贵",
+      "onboard_time": 1667830050,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 3019963,
       "num": 3019963,
       "word": "饺子",
       "onboard_time": 1667786185,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2534207,
-      "num": 2534207,
-      "word": "消费者称李佳琦直播间产品比官方贵",
-      "onboard_time": 1667830050,
-      "rank": 10,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2010418,
@@ -211,11 +211,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 779341,
+      "num": 779341,
+      "word": "韩国短道选手回应挑衅手势",
+      "onboard_time": 1667831669,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771234,
       "num": 771234,
       "word": "醉汉趁情侣吵架上前搭讪被打",
       "onboard_time": 1667784986,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765565,
+      "num": 765565,
+      "word": "俞敏洪称10年吃了3000片安眠药",
+      "onboard_time": 1667829447,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -280,6 +296,22 @@
       "word": "直播间9块9抢五桶泡面仅拇指大",
       "onboard_time": 1667784628,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606933,
+      "num": 606933,
+      "word": "警方通报收3000办出疆通行证音频",
+      "onboard_time": 1667829689,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595404,
+      "num": 595404,
+      "word": "北京12345回应",
+      "onboard_time": 1667831971,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 458810,
-      "num": 458810,
-      "word": "俞敏洪称10年吃了3000片安眠药",
-      "onboard_time": 1667829447,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453107,
       "num": 453107,
       "word": "妈妈晒3个高颜值儿子羡煞众人",
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409109,
+      "num": 409109,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 408203,
       "num": 408203,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
@@ -632,14 +664,6 @@
       "word": "初中女生带满箱偶像周边离家出走",
       "onboard_time": 1667777905,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402140,
-      "num": 402140,
-      "word": "警方通报收3000办出疆通行证音频",
-      "onboard_time": 1667829689,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -680,6 +704,14 @@
       "word": "摊贩恶意竞争遭学生集体抵制",
       "onboard_time": 1667744375,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373428,
+      "num": 373428,
+      "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
+      "onboard_time": 1667830649,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327998,
+      "num": 327998,
+      "word": "王源被北方澡堂开眼界",
+      "onboard_time": 1667832030,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326890,
       "num": 326890,
       "word": "张桐 守常先生",
@@ -867,6 +907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 298417,
+      "num": 298417,
+      "word": "中方回应日本加入北约网络防御中心",
+      "onboard_time": 1667832811,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 295011,
       "num": 295011,
       "word": "脸上流露出自卑和尴尬的猫",
@@ -923,14 +971,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 283385,
-      "num": 283385,
-      "word": "血月",
-      "onboard_time": 1667828668,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 281364,
       "num": 180257,
       "word": "任嘉伦宋祖儿新剧人设",
@@ -952,6 +992,14 @@
       "word": "狐妖小红娘",
       "onboard_time": 1667815286,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272408,
+      "num": 272408,
+      "word": "李峋排球课后晕倒了",
+      "onboard_time": 1667832282,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1155,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218851,
+      "num": 218851,
+      "word": "周深问点燃我温暖你这就开虐了",
+      "onboard_time": 1667830654,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217525,
       "num": 202838,
       "word": "男团刀群舞有多炸",
@@ -1267,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193824,
-      "num": 193824,
-      "word": "周深问点燃我温暖你这就开虐了",
-      "onboard_time": 1667830654,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190121,
       "num": 172234,
       "word": "今天好多剧杀青",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1667788588,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175006,
+      "num": 175006,
+      "word": "吃不到肉被气哭的猫咪",
+      "onboard_time": 1667831191,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 172903,
@@ -1491,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151379,
+      "num": 151379,
+      "word": "彭冠英高峻摊牌了",
+      "onboard_time": 1667834551,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151059,
       "num": 151059,
       "word": "苹果减产300万部新iPhone",
@@ -1523,20 +1587,28 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 147802,
-      "num": 139823,
-      "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
-      "onboard_time": 1667830649,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "万能卡",
       "onboard_time": 1667790147,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146157,
+      "num": 146157,
+      "word": "苏有朋为Mike新歌打call",
+      "onboard_time": 1667829689,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 144820,
+      "num": 144820,
+      "word": "崔然竣翻跳WeFresh",
+      "onboard_time": 1667834428,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144749,
@@ -1563,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143173,
+      "num": 143173,
+      "word": "70岁还能给妈妈付钱多幸福",
+      "onboard_time": 1667829027,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143023,
       "num": 143023,
       "word": "谁还敢说我笨得像只猪",
       "onboard_time": 1667804367,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142531,
-      "num": 139655,
-      "word": "苏有朋为Mike新歌打call",
-      "onboard_time": 1667829689,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 141873,
@@ -1635,20 +1707,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135898,
+      "num": 135898,
+      "word": "有些钱真不能省",
+      "onboard_time": 1667833601,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 135412,
       "num": 135412,
       "word": "11月6日新增4961例本土无症状",
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134498,
-      "num": 134498,
-      "word": "70岁还能给妈妈付钱多幸福",
-      "onboard_time": 1667829027,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 132199,
@@ -1852,11 +1924,19 @@
     },
     {
       "raw_hot": 109319,
-      "num": 100923,
+      "num": 104943,
       "word": "谁不想拥有一个这样的竹马",
       "onboard_time": 1667831854,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108308,
+      "num": 108308,
+      "word": "终于知道什么是欲言又止了",
+      "onboard_time": 1667833417,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 107758,
@@ -1923,14 +2003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100929,
-      "num": 100929,
-      "word": "韩国短道选手回应挑衅手势",
-      "onboard_time": 1667831669,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100056,
       "num": 100056,
       "word": "萌娃消防站门口大哭不走如愿参观",
@@ -1971,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96149,
+      "num": 96149,
+      "word": "杭州一小学开爬树课教学生爬树",
+      "onboard_time": 1667829868,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95615,
       "num": 95615,
       "word": "没有生命会拒绝爱",
@@ -1985,14 +2065,6 @@
       "onboard_time": 1667735967,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94557,
-      "num": 94557,
-      "word": "吃不到肉被气哭的猫咪",
-      "onboard_time": 1667831191,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 93536,
@@ -2072,6 +2144,14 @@
       "word": "黑救护车乱象何时根除",
       "onboard_time": 1667825188,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87591,
+      "num": 87591,
+      "word": "2022珠海航展双语宣传片",
+      "onboard_time": 1667834369,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2155,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84252,
-      "num": 84252,
-      "word": "北京12345回应",
-      "onboard_time": 1667831971,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82817,
       "num": 82817,
       "word": "eStar有点唱功但不多",
@@ -2219,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80087,
+      "num": 80087,
+      "word": "江西的早餐有多便宜",
+      "onboard_time": 1667834610,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79525,
       "num": 79525,
       "word": "李荣浩是懂理发的",
@@ -2264,14 +2344,6 @@
       "word": "郑州主城区正在有序解封",
       "onboard_time": 1667741130,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74985,
-      "num": 95776,
-      "word": "杭州一小学开爬树课教学生爬树",
-      "onboard_time": 1667829868,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
