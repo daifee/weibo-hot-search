@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667802516798,
+  "endTime": 1667803533261,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -8,6 +8,14 @@
       "word": "一位阳性密接外卖员的一天",
       "onboard_time": 1667787386,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3142659,
+      "num": 1498206,
+      "word": "郑州一社区书记称为防疫错过女儿生日",
+      "onboard_time": 1667801010,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1667777302,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1498206,
-      "num": 1498206,
-      "word": "郑州一社区书记称为防疫错过女儿生日",
-      "onboard_time": 1667801010,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1409871,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413092,
+      "num": 413092,
+      "word": "杨紫肖战余生请多指教日本播出预告",
+      "onboard_time": 1667801966,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408203,
       "num": 408203,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401942,
+      "num": 401942,
+      "word": "雷佳音获奖感言只准备了一半",
+      "onboard_time": 1667800467,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387531,
       "num": 387531,
       "word": "长风渡",
@@ -344,6 +360,14 @@
       "word": "立冬适合早睡晚起",
       "onboard_time": 1667740349,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382648,
+      "num": 382648,
+      "word": "外公地里挖出1万多存款救济外孙",
+      "onboard_time": 1667800408,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -371,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352653,
-      "num": 352653,
-      "word": "雷佳音获奖感言只准备了一半",
-      "onboard_time": 1667800467,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 348026,
       "num": 348026,
       "word": "张超",
@@ -403,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329545,
+      "num": 329545,
+      "word": "郑州富士康发布预招工公告",
+      "onboard_time": 1667799270,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326890,
       "num": 326890,
       "word": "张桐 守常先生",
@@ -419,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312758,
-      "num": 312758,
-      "word": "郑州富士康发布预招工公告",
-      "onboard_time": 1667799270,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310662,
       "num": 276763,
       "word": "鹿晗keepmealive",
@@ -435,12 +451,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308505,
-      "num": 308505,
-      "word": "杨紫肖战余生请多指教日本播出预告",
-      "onboard_time": 1667801966,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 310059,
+      "num": 310059,
+      "word": "妈妈晒3个高颜值儿子羡煞众人",
+      "onboard_time": 1667800949,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301102,
@@ -457,6 +473,14 @@
       "onboard_time": 1667791407,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294506,
+      "num": 294506,
+      "word": "boystory到底有多强",
+      "onboard_time": 1667800828,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 285996,
@@ -491,12 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269446,
-      "num": 231774,
-      "word": "boystory到底有多强",
-      "onboard_time": 1667800828,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 269503,
+      "num": 269503,
+      "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+      "onboard_time": 1667800348,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266416,
@@ -547,11 +571,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247104,
-      "num": 247104,
-      "word": "外公地里挖出1万多存款救济外孙",
-      "onboard_time": 1667800408,
-      "rank": 17,
+      "raw_hot": 244967,
+      "num": 244967,
+      "word": "56岁妈妈在80岁姥姥面前也有反骨",
+      "onboard_time": 1667799390,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -569,6 +593,14 @@
       "onboard_time": 1667739450,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 237117,
+      "num": 237117,
+      "word": "殷桃说拿奖前感觉胜算挺高的",
+      "onboard_time": 1667800587,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 235879,
@@ -603,28 +635,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231991,
-      "num": 231991,
-      "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
-      "onboard_time": 1667800348,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229890,
       "num": 229890,
       "word": "RedVelvet将11月28日回归",
       "onboard_time": 1667782708,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228626,
-      "num": 228626,
-      "word": "56岁妈妈在80岁姥姥面前也有反骨",
-      "onboard_time": 1667799390,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227454,
@@ -649,14 +665,6 @@
       "onboard_time": 1667785105,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219018,
-      "num": 219018,
-      "word": "妈妈晒3个高颜值儿子羡煞众人",
-      "onboard_time": 1667800949,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215933,
@@ -689,14 +697,6 @@
       "onboard_time": 1667740167,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205757,
-      "num": 205757,
-      "word": "殷桃说拿奖前感觉胜算挺高的",
-      "onboard_time": 1667800587,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 205418,
@@ -795,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164866,
+      "num": 164866,
+      "word": "如何看待00后的相亲式租房",
+      "onboard_time": 1667801727,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 161970,
       "num": 122405,
       "word": "赵丽颖风吹半夏迎风而上剧照",
@@ -809,6 +817,14 @@
       "onboard_time": 1667742630,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159545,
+      "num": 121712,
+      "word": "狐妖小红娘月红篇杀青特辑播放量",
+      "onboard_time": 1667803287,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 151059,
@@ -843,11 +859,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144485,
+      "num": 104688,
+      "word": "鹿晗黑白四宫格写真",
+      "onboard_time": 1667802748,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141873,
       "num": 110617,
       "word": "看完点燃我温暖你长恋爱脑了",
       "onboard_time": 1667798849,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 103418,
+      "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+      "onboard_time": 1667803229,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -913,6 +945,14 @@
       "onboard_time": 1667747971,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124864,
+      "num": 124864,
+      "word": "河南发现3千年前商代道路",
+      "onboard_time": 1667800170,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124486,
@@ -995,22 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109996,
-      "num": 109996,
-      "word": "如何看待00后的相亲式租房",
-      "onboard_time": 1667801727,
-      "rank": 39,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 109621,
-      "num": 109621,
-      "word": "河南发现3千年前商代道路",
-      "onboard_time": 1667800170,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109476,
       "num": 97130,
       "word": "华春莹讲述德企在华合作情况",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1667776762,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105718,
+      "num": 105718,
+      "word": "逃犯到派出所开无犯罪记录证明",
+      "onboard_time": 1667802748,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1667793210,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101426,
+      "num": 101426,
+      "word": "爸爸是懂教育小狗的",
+      "onboard_time": 1667802867,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 100056,
@@ -1171,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84352,
+      "num": 84352,
+      "word": "原来狐狸的好奇心这么强",
+      "onboard_time": 1667803466,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82173,
       "num": 82173,
       "word": "圆明园考古新发现",
@@ -1192,6 +1240,14 @@
       "word": "广州海珠区新增1253名感染者",
       "onboard_time": 1667720186,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80874,
+      "num": 320557,
+      "word": "煎饼哥10年免费教5000多人做煎饼",
+      "onboard_time": 1667802087,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1344,14 +1400,6 @@
       "word": "冬季进补应该怎么吃",
       "onboard_time": 1667776521,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30049,
-      "num": 309861,
-      "word": "煎饼哥10年免费教5000多人做煎饼",
-      "onboard_time": 1667802087,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

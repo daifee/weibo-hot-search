@@ -1,0 +1,410 @@
+{
+  "runTime": 1667803533261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632444,
+        "num": 1632444,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1115070,
+        "num": 1115070,
+        "word": "郑州平安街社区的万能的朋友圈",
+        "onboard_time": 1667795975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48856,
+        "num": 803842,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3142659,
+        "num": 718889,
+        "word": "郑州一社区书记称为防疫错过女儿生日",
+        "onboard_time": 1667801010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600198,
+        "num": 600198,
+        "word": "陈飞宇回复张婧仪我可不哄人",
+        "onboard_time": 1667799089,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488423,
+        "num": 488423,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460119,
+        "num": 460119,
+        "word": "网红面馆推8人份生日宴售价2999元引争议",
+        "onboard_time": 1667798969,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413092,
+        "num": 413092,
+        "word": "杨紫肖战余生请多指教日本播出预告",
+        "onboard_time": 1667801966,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401942,
+        "num": 401942,
+        "word": "雷佳音获奖感言只准备了一半",
+        "onboard_time": 1667800467,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320595,
+        "num": 398520,
+        "word": "英国伦敦爆发大规模抗议",
+        "onboard_time": 1667777302,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 519837,
+        "num": 398311,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397334,
+        "num": 397334,
+        "word": "杨幂狐妖抹嘴唇镜头",
+        "onboard_time": 1667793151,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382648,
+        "num": 382648,
+        "word": "外公地里挖出1万多存款救济外孙",
+        "onboard_time": 1667800408,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329545,
+        "num": 329545,
+        "word": "郑州富士康发布预招工公告",
+        "onboard_time": 1667799270,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80874,
+        "num": 320557,
+        "word": "煎饼哥10年免费教5000多人做煎饼",
+        "onboard_time": 1667802087,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313802,
+        "num": 313802,
+        "word": "为什么年轻人不排斥穿秋裤了",
+        "onboard_time": 1667790985,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310059,
+        "num": 310059,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294506,
+        "num": 294506,
+        "word": "boystory到底有多强",
+        "onboard_time": 1667800828,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269503,
+        "num": 269503,
+        "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+        "onboard_time": 1667800348,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244967,
+        "num": 244967,
+        "word": "56岁妈妈在80岁姥姥面前也有反骨",
+        "onboard_time": 1667799390,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263698,
+        "num": 243870,
+        "word": "马丽写小作文感谢何炅",
+        "onboard_time": 1667796157,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237117,
+        "num": 237117,
+        "word": "殷桃说拿奖前感觉胜算挺高的",
+        "onboard_time": 1667800587,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215993,
+        "num": 215993,
+        "word": "防疫不能层层加码要说到做到",
+        "onboard_time": 1667799390,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207209,
+        "num": 207209,
+        "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+        "onboard_time": 1667797832,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188524,
+        "num": 188524,
+        "word": "iPhone14Pro收货需要等待更长时间",
+        "onboard_time": 1667786424,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182810,
+        "num": 182810,
+        "word": "鸡毛飞上天",
+        "onboard_time": 1667792426,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167903,
+        "num": 167903,
+        "word": "广州新增本土感染者1935例",
+        "onboard_time": 1667784386,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164866,
+        "num": 164866,
+        "word": "如何看待00后的相亲式租房",
+        "onboard_time": 1667801727,
+        "rank": 27,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 139114,
+        "num": 139114,
+        "word": "郑州官方致歉",
+        "onboard_time": 1667739386,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124864,
+        "num": 124864,
+        "word": "河南发现3千年前商代道路",
+        "onboard_time": 1667800170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191135,
+        "num": 124692,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 124353,
+        "word": "时代少年团荣耀出题官",
+        "onboard_time": 1667798192,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159981,
+        "num": 124118,
+        "word": "狐妖小红娘用了6种非遗文化",
+        "onboard_time": 1667795856,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158635,
+        "num": 123669,
+        "word": "任嘉伦说杀青了谢谢嘉人们",
+        "onboard_time": 1667800949,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123443,
+        "num": 123443,
+        "word": "苹果减产300万部新iPhone",
+        "onboard_time": 1667796756,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159545,
+        "num": 121712,
+        "word": "狐妖小红娘月红篇杀青特辑播放量",
+        "onboard_time": 1667803287,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118515,
+        "num": 118515,
+        "word": "醉汉趁情侣吵架上前搭讪被打",
+        "onboard_time": 1667784986,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110599,
+        "num": 110599,
+        "word": "大叔卖肉夹馍供出一个博士一个研究生",
+        "onboard_time": 1667793633,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107871,
+        "num": 107871,
+        "word": "十年不涨价商品八成是国货",
+        "onboard_time": 1667791888,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105718,
+        "num": 105718,
+        "word": "逃犯到派出所开无犯罪记录证明",
+        "onboard_time": 1667802748,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144485,
+        "num": 104688,
+        "word": "鹿晗黑白四宫格写真",
+        "onboard_time": 1667802748,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145412,
+        "num": 103562,
+        "word": "长风渡立冬官宣",
+        "onboard_time": 1667793753,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 103418,
+        "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+        "onboard_time": 1667803229,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102361,
+        "num": 102361,
+        "word": "直播间9块9抢五桶泡面仅拇指大",
+        "onboard_time": 1667784628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101426,
+        "num": 101426,
+        "word": "爸爸是懂教育小狗的",
+        "onboard_time": 1667802867,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95785,
+        "num": 95785,
+        "word": "苹果发表郑州富士康工厂声明",
+        "onboard_time": 1667780910,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 87523,
+        "num": 87523,
+        "word": "英国通胀创40年新高",
+        "onboard_time": 1667802505,
+        "rank": 46,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 84352,
+        "num": 84352,
+        "word": "原来狐狸的好奇心这么强",
+        "onboard_time": 1667803466,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82584,
+        "num": 82584,
+        "word": "苹果HeySiri将改为Siri",
+        "onboard_time": 1667783548,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 81598,
+        "num": 81598,
+        "word": "立冬",
+        "onboard_time": 1667776340,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
+    }
+  }
+}
