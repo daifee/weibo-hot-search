@@ -1,0 +1,410 @@
+{
+  "runTime": 1667806561961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443973,
+        "num": 1443973,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 574729,
+        "num": 574729,
+        "word": "外公地里挖出1万多存款救济外孙",
+        "onboard_time": 1667800408,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43012,
+        "num": 475164,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 453107,
+        "num": 453107,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434798,
+        "num": 434798,
+        "word": "陈飞宇回复张婧仪我可不哄人",
+        "onboard_time": 1667799089,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424078,
+        "num": 424078,
+        "word": "逃犯到派出所开无犯罪记录证明",
+        "onboard_time": 1667802748,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408954,
+        "num": 408954,
+        "word": "杨紫肖战余生请多指教日本播出预告",
+        "onboard_time": 1667801966,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407136,
+        "num": 407136,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 364693,
+        "num": 364693,
+        "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+        "onboard_time": 1667803229,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301927,
+        "num": 301927,
+        "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+        "onboard_time": 1667800348,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3039340,
+        "num": 299307,
+        "word": "郑州一社区书记称为防疫错过女儿生日",
+        "onboard_time": 1667801010,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159778,
+        "num": 294300,
+        "word": "郑州平安街社区的万能的朋友圈",
+        "onboard_time": 1667795975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349648,
+        "num": 285637,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302759,
+        "num": 277600,
+        "word": "宋祖儿恭喜半夏小姐下班咯",
+        "onboard_time": 1667806228,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272028,
+        "num": 272028,
+        "word": "雷佳音获奖感言只准备了一半",
+        "onboard_time": 1667800467,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214113,
+        "num": 214113,
+        "word": "郑州富士康发布预招工公告",
+        "onboard_time": 1667799270,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213804,
+        "num": 213804,
+        "word": "陆军直20抵达珠海",
+        "onboard_time": 1667802867,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 207004,
+        "num": 207004,
+        "word": "网红面馆推8人份生日宴售价2999元引争议",
+        "onboard_time": 1667798969,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200469,
+        "num": 200469,
+        "word": "为什么年轻人不排斥穿秋裤了",
+        "onboard_time": 1667790985,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190691,
+        "num": 190691,
+        "word": "56岁妈妈在80岁姥姥面前也有反骨",
+        "onboard_time": 1667799390,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250924,
+        "num": 185090,
+        "word": "殷桃说拿奖前感觉胜算挺高的",
+        "onboard_time": 1667800587,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232641,
+        "num": 183765,
+        "word": "杨幂狐妖抹嘴唇镜头",
+        "onboard_time": 1667793151,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217525,
+        "num": 181645,
+        "word": "男团刀群舞有多炸",
+        "onboard_time": 1667801607,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179470,
+        "num": 179470,
+        "word": "英国伦敦爆发大规模抗议",
+        "onboard_time": 1667777302,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160965,
+        "num": 160965,
+        "word": "爸爸是懂教育小狗的",
+        "onboard_time": 1667802867,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195644,
+        "num": 160937,
+        "word": "boystory到底有多强",
+        "onboard_time": 1667800828,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157587,
+        "num": 157587,
+        "word": "防疫不能层层加码要说到做到",
+        "onboard_time": 1667799390,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128198,
+        "num": 128198,
+        "word": "iPhone14Pro收货需要等待更长时间",
+        "onboard_time": 1667786424,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127565,
+        "num": 127565,
+        "word": "如何看待00后的相亲式租房",
+        "onboard_time": 1667801727,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 126858,
+        "num": 126858,
+        "word": "河南发现3千年前商代道路",
+        "onboard_time": 1667800170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929740,
+        "num": 124675,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 124575,
+        "word": "厦门海关截获1只活体黑寡妇",
+        "onboard_time": 1667805806,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176892,
+        "num": 123404,
+        "word": "马丽写小作文感谢何炅",
+        "onboard_time": 1667796157,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121722,
+        "num": 121722,
+        "word": "时代少年团荣耀出题官",
+        "onboard_time": 1667798192,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114632,
+        "num": 121120,
+        "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+        "onboard_time": 1667797832,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120579,
+        "num": 120579,
+        "word": "鸡毛飞上天",
+        "onboard_time": 1667792426,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "电子减盐勺可减少30%盐分摄入",
+        "onboard_time": 1667804247,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 114387,
+        "num": 114387,
+        "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
+        "onboard_time": 1667804485,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106788,
+        "num": 106788,
+        "word": "广州新增本土感染者1935例",
+        "onboard_time": 1667784386,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105855,
+        "num": 105855,
+        "word": "大叔卖肉夹馍供出一个博士一个研究生",
+        "onboard_time": 1667793633,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116282,
+        "num": 105270,
+        "word": "长风渡立冬官宣",
+        "onboard_time": 1667793753,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96616,
+        "num": 96616,
+        "word": "谁还敢说我笨得像只猪",
+        "onboard_time": 1667804367,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91804,
+        "num": 91804,
+        "word": "谁能拒绝阿瑟叫公主殿下",
+        "onboard_time": 1667806466,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89230,
+        "num": 89230,
+        "word": "高校学生光盘行动被食堂阿姨记录表白",
+        "onboard_time": 1667806228,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87580,
+        "num": 87580,
+        "word": "秦皇岛疫情防控",
+        "onboard_time": 1667806466,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86491,
+        "num": 86491,
+        "word": "苹果减产300万部新iPhone",
+        "onboard_time": 1667796756,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83585,
+        "num": 83585,
+        "word": "直播间9块9抢五桶泡面仅拇指大",
+        "onboard_time": 1667784628,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112766,
+        "num": 82641,
+        "word": "台历",
+        "onboard_time": 1667806527,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80004,
+        "num": 80004,
+        "word": "醉汉趁情侣吵架上前搭讪被打",
+        "onboard_time": 1667784986,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79494,
+        "num": 79494,
+        "word": "流浪猫可以多有灵性",
+        "onboard_time": 1667806047,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
+    }
+  }
+}

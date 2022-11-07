@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667805666680,
+  "endTime": 1667806561961,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -2635,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574729,
+      "num": 574729,
+      "word": "外公地里挖出1万多存款救济外孙",
+      "onboard_time": 1667800408,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574493,
       "num": 488298,
       "word": "张韶涵发文悼念自己的狗狗",
@@ -2953,14 +2961,6 @@
       "onboard_time": 1667289809,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 524812,
-      "num": 524812,
-      "word": "外公地里挖出1万多存款救济外孙",
-      "onboard_time": 1667800408,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522648,
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453107,
+      "num": 453107,
+      "word": "妈妈晒3个高颜值儿子羡煞众人",
+      "onboard_time": 1667800949,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450816,
       "num": 450816,
       "word": "人生大事中国台湾网飞2022热度第三",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1667628745,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424078,
+      "num": 424078,
+      "word": "逃犯到派出所开无犯罪记录证明",
+      "onboard_time": 1667802748,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423866,
@@ -4211,14 +4227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392058,
-      "num": 392058,
-      "word": "妈妈晒3个高颜值儿子羡煞众人",
-      "onboard_time": 1667800949,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391326,
       "num": 391326,
       "word": "陈飞宇张婧仪晋里晋气",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1667265447,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364693,
+      "num": 364693,
+      "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+      "onboard_time": 1667803229,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 363850,
@@ -5419,14 +5435,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 305114,
-      "num": 305114,
-      "word": "张凌赫陈都灵狐妖小红娘对视镜头",
-      "onboard_time": 1667803229,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 305004,
       "num": 305004,
       "word": "北京海淀社会面筛查2例感染者",
@@ -5480,6 +5488,14 @@
       "word": "吴磊周雨彤爱情而已网球海报",
       "onboard_time": 1667449586,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302759,
+      "num": 277600,
+      "word": "宋祖儿恭喜半夏小姐下班咯",
+      "onboard_time": 1667806228,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -5569,14 +5585,6 @@
       "onboard_time": 1667800828,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292612,
-      "num": 292612,
-      "word": "逃犯到派出所开无犯罪记录证明",
-      "onboard_time": 1667802748,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291127,
@@ -6995,6 +7003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217525,
+      "num": 202838,
+      "word": "男团刀群舞有多炸",
+      "onboard_time": 1667801607,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217154,
       "num": 217154,
       "word": "师傅到男寝开锁不成反被锁",
@@ -7089,6 +7105,14 @@
       "onboard_time": 1667543066,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 213804,
+      "num": 213804,
+      "word": "陆军直20抵达珠海",
+      "onboard_time": 1667802867,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 213527,
@@ -7369,14 +7393,6 @@
       "onboard_time": 1667240593,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202838,
-      "num": 202838,
-      "word": "男团刀群舞有多炸",
-      "onboard_time": 1667801607,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 202808,
@@ -7915,14 +7931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181300,
-      "num": 181300,
-      "word": "陆军直20抵达珠海",
-      "onboard_time": 1667802867,
-      "rank": 24,
-      "category": "军事"
-    },
-    {
       "raw_hot": 181195,
       "num": 181195,
       "word": "gidle新歌love特别版MV",
@@ -7993,6 +8001,14 @@
       "onboard_time": 1667297006,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 178509,
+      "num": 124575,
+      "word": "厦门海关截获1只活体黑寡妇",
+      "onboard_time": 1667805806,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178009,
@@ -8537,6 +8553,14 @@
       "onboard_time": 1667569949,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160965,
+      "num": 160965,
+      "word": "爸爸是懂教育小狗的",
+      "onboard_time": 1667802867,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 160862,
@@ -9097,14 +9121,6 @@
       "onboard_time": 1667269164,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145487,
-      "num": 145487,
-      "word": "爸爸是懂教育小狗的",
-      "onboard_time": 1667802867,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 145459,
@@ -10291,11 +10307,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115396,
+      "num": 115396,
+      "word": "电子减盐勺可减少30%盐分摄入",
+      "onboard_time": 1667804247,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
       "onboard_time": 1667539769,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114387,
+      "num": 114387,
+      "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
+      "onboard_time": 1667804485,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10353,6 +10385,14 @@
       "onboard_time": 1667219966,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112766,
+      "num": 82641,
+      "word": "台历",
+      "onboard_time": 1667806527,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112592,
@@ -11083,6 +11123,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 96616,
+      "num": 96616,
+      "word": "谁还敢说我笨得像只猪",
+      "onboard_time": 1667804367,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96585,
       "num": 96585,
       "word": "爵士vs快船",
@@ -11331,6 +11379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91804,
+      "num": 91804,
+      "word": "谁能拒绝阿瑟叫公主殿下",
+      "onboard_time": 1667806466,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91515,
       "num": 91515,
       "word": "车主回应定速巡航失灵126码跑2小时",
@@ -11451,6 +11507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89230,
+      "num": 89230,
+      "word": "高校学生光盘行动被食堂阿姨记录表白",
+      "onboard_time": 1667806228,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "余承东称鸿蒙最具生命力",
@@ -11515,14 +11579,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 88056,
-      "num": 88056,
-      "word": "谁还敢说我笨得像只猪",
-      "onboard_time": 1667804367,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88048,
       "num": 88048,
       "word": "田小娟好有魄力",
@@ -11544,6 +11600,14 @@
       "word": "两中学生遇走失男孩暖心护送",
       "onboard_time": 1667289625,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87580,
+      "num": 87580,
+      "word": "秦皇岛疫情防控",
+      "onboard_time": 1667806466,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -11713,14 +11777,6 @@
       "onboard_time": 1667781148,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 84952,
-      "num": 84952,
-      "word": "电子减盐勺可减少30%盐分摄入",
-      "onboard_time": 1667804247,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 84795,
@@ -12019,19 +12075,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79494,
+      "num": 79494,
+      "word": "流浪猫可以多有灵性",
+      "onboard_time": 1667806047,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 79343,
       "num": 79343,
       "word": "今天北京开始试供暖",
       "onboard_time": 1667788167,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79157,
-      "num": 79157,
-      "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
-      "onboard_time": 1667804485,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
