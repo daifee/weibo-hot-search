@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667842122713,
+  "endTime": 1667843157559,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1859,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124781,
+      "num": 124781,
+      "word": "为什么很多人不愿意恋爱了",
+      "onboard_time": 1667839701,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124486,
       "num": 124486,
       "word": "妈妈用垃圾袋给女儿做礼服",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1667794230,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99030,
-      "num": 99030,
-      "word": "为什么很多人不愿意恋爱了",
-      "onboard_time": 1667839701,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 98709,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667842122713,
+  "endTime": 1667843157559,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -10803,6 +10803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124781,
+      "num": 124781,
+      "word": "为什么很多人不愿意恋爱了",
+      "onboard_time": 1667839701,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124749,
       "num": 124749,
       "word": "九尾无畏双BKing同框",
@@ -11945,14 +11953,6 @@
       "onboard_time": 1667661449,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99030,
-      "num": 99030,
-      "word": "为什么很多人不愿意恋爱了",
-      "onboard_time": 1667839701,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 98851,
