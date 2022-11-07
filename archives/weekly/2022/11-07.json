@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667794342459,
+  "endTime": 1667796490939,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2997759,
-      "num": 2997759,
+      "raw_hot": 3019963,
+      "num": 3019963,
       "word": "饺子",
       "onboard_time": 1667786185,
       "rank": 33,
@@ -43,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1409871,
+      "num": 1409871,
+      "word": "杨幂狐妖抹嘴唇镜头",
+      "onboard_time": 1667793151,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1407378,
       "num": 1407378,
       "word": "殷桃金鹰奖最佳女主角",
@@ -56,14 +64,6 @@
       "word": "雷佳音说太丢人了这是直播",
       "onboard_time": 1667784326,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1135159,
-      "num": 1135159,
-      "word": "杨幂狐妖抹嘴唇镜头",
-      "onboard_time": 1667793151,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808563,
+      "num": 808563,
+      "word": "鸡毛飞上天",
+      "onboard_time": 1667792426,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 771234,
       "num": 771234,
       "word": "醉汉趁情侣吵架上前搭讪被打",
@@ -105,6 +113,14 @@
       "onboard_time": 1667750188,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640032,
+      "num": 640032,
+      "word": "国人买iPhone14Pro需工作22天",
+      "onboard_time": 1667795015,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 618130,
@@ -129,6 +145,14 @@
       "onboard_time": 1667745996,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552506,
+      "num": 552506,
+      "word": "十年不涨价商品八成是国货",
+      "onboard_time": 1667791888,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505451,
@@ -163,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 497552,
-      "num": 497552,
-      "word": "鸡毛飞上天",
-      "onboard_time": 1667792426,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 484509,
       "num": 449656,
       "word": "北京疫情防控形势更加严峻复杂",
@@ -195,6 +211,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 472716,
+      "num": 472716,
+      "word": "为什么年轻人不排斥穿秋裤了",
+      "onboard_time": 1667790985,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461178,
       "num": 341267,
       "word": "于和伟 陪跑",
@@ -217,6 +241,14 @@
       "onboard_time": 1667786424,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 426518,
+      "num": 426518,
+      "word": "长风渡立冬官宣",
+      "onboard_time": 1667793753,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 421046,
@@ -267,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383028,
-      "num": 383028,
-      "word": "十年不涨价商品八成是国货",
-      "onboard_time": 1667791888,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -289,6 +313,14 @@
       "onboard_time": 1667744375,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353616,
+      "num": 353616,
+      "word": "这就是小说里的一眼万年吗",
+      "onboard_time": 1667790266,
+      "rank": 17,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 348026,
@@ -307,12 +339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333153,
-      "num": 333153,
-      "word": "这就是小说里的一眼万年吗",
-      "onboard_time": 1667790266,
-      "rank": 17,
-      "category": "情感,艺人"
+      "raw_hot": 340477,
+      "num": 226740,
+      "word": "马丽写小作文感谢何炅",
+      "onboard_time": 1667796157,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333914,
+      "num": 234579,
+      "word": "郭晓婷涂山雅雅盼重逢",
+      "onboard_time": 1667792665,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 331366,
@@ -339,20 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314080,
-      "num": 314080,
-      "word": "为什么年轻人不排斥穿秋裤了",
-      "onboard_time": 1667790985,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "为什么年轻人开始回潮传统了",
       "onboard_time": 1667786424,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298879,
+      "num": 224068,
+      "word": "殷桃 实至名归",
+      "onboard_time": 1667791407,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 281364,
@@ -419,14 +459,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 234579,
-      "num": 234579,
-      "word": "郭晓婷涂山雅雅盼重逢",
-      "onboard_time": 1667792665,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233332,
       "num": 233332,
       "word": "BLG亏麻了",
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226874,
+      "num": 174645,
+      "word": "狐妖小红娘用了6种非遗文化",
+      "onboard_time": 1667795856,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225281,
       "num": 225281,
       "word": "全球首棵现实世界科技树",
@@ -467,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218222,
-      "num": 183201,
-      "word": "长风渡立冬官宣",
-      "onboard_time": 1667793753,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 216014,
+      "num": 216014,
+      "word": "老人给流浪猫穿亲手做的秋裤",
+      "onboard_time": 1667794114,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 215933,
@@ -515,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204164,
+      "num": 348995,
+      "word": "大叔卖肉夹馍供出一个博士一个研究生",
+      "onboard_time": 1667793633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
@@ -528,6 +576,14 @@
       "word": "打火机与公主裙 第八集",
       "onboard_time": 1667736747,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190121,
+      "num": 172234,
+      "word": "今天好多剧杀青",
+      "onboard_time": 1667795799,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -555,20 +611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177555,
+      "num": 122880,
+      "word": "张继科用手机侧边颠球24下",
+      "onboard_time": 1667795377,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175509,
       "num": 175509,
       "word": "男子熟练搬运16层泡沫箱装车",
       "onboard_time": 1667788588,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175317,
-      "num": 175317,
-      "word": "殷桃 实至名归",
-      "onboard_time": 1667791407,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 172903,
@@ -587,12 +643,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161970,
+      "num": 122405,
+      "word": "赵丽颖风吹半夏迎风而上剧照",
+      "onboard_time": 1667795557,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160497,
       "num": 100707,
       "word": "王鹤棣对苍兰诀破万印象深刻",
       "onboard_time": 1667742630,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "万能卡",
+      "onboard_time": 1667790147,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144749,
@@ -675,6 +747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 123751,
+      "num": 123751,
+      "word": "郑州平安街社区的万能的朋友圈",
+      "onboard_time": 1667795975,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122936,
       "num": 122936,
       "word": "林高远3比2樊振东",
@@ -705,14 +785,6 @@
       "onboard_time": 1667733926,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113521,
-      "num": 113521,
-      "word": "老人给流浪猫穿亲手做的秋裤",
-      "onboard_time": 1667794114,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 112592,
@@ -923,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78308,
-      "num": 327595,
-      "word": "大叔卖肉夹馍供出一个博士一个研究生",
-      "onboard_time": 1667793633,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76851,
       "num": 76851,
       "word": "11月6日新增本土确诊535例",
@@ -1019,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54056,
+      "num": 825502,
+      "word": "携手构建网络空间命运共同体白皮书发布会",
+      "onboard_time": 1667795743,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51262,
       "num": 51262,
       "word": "花店每日闭店仪式",
@@ -1087,6 +1159,9 @@
     },
     {
       "word": "#中国外交繁忙的一周释放哪些信号#"
+    },
+    {
+      "word": "#2022进博会#"
     }
   ]
 }
