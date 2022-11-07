@@ -1,9 +1,9 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667792547004,
+  "endTime": 1667794342459,
   "band_list": [
     {
-      "raw_hot": 4639802,
+      "raw_hot": 5749820,
       "num": 4639802,
       "word": "一位阳性密接外卖员的一天",
       "onboard_time": 1667787386,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2138838,
-      "num": 2138838,
+      "raw_hot": 2997759,
+      "num": 2997759,
       "word": "饺子",
       "onboard_time": 1667786185,
       "rank": 33,
@@ -56,6 +56,14 @@
       "word": "雷佳音说太丢人了这是直播",
       "onboard_time": 1667784326,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1135159,
+      "num": 1135159,
+      "word": "杨幂狐妖抹嘴唇镜头",
+      "onboard_time": 1667793151,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -155,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497552,
+      "num": 497552,
+      "word": "鸡毛飞上天",
+      "onboard_time": 1667792426,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484509,
       "num": 449656,
       "word": "北京疫情防控形势更加严峻复杂",
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383028,
+      "num": 383028,
+      "word": "十年不涨价商品八成是国货",
+      "onboard_time": 1667791888,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -283,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333153,
+      "num": 333153,
+      "word": "这就是小说里的一眼万年吗",
+      "onboard_time": 1667790266,
+      "rank": 17,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 331366,
       "num": 331366,
       "word": "金鹰奖奖单",
@@ -307,12 +339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315079,
-      "num": 315079,
-      "word": "这就是小说里的一眼万年吗",
-      "onboard_time": 1667790266,
-      "rank": 17,
-      "category": "情感,艺人"
+      "raw_hot": 314080,
+      "num": 314080,
+      "word": "为什么年轻人不排斥穿秋裤了",
+      "onboard_time": 1667790985,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 301102,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 281364,
-      "num": 102221,
+      "num": 180257,
       "word": "任嘉伦宋祖儿新剧人设",
       "onboard_time": 1667792486,
       "rank": 47,
@@ -347,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260465,
+      "num": 260465,
+      "word": "马斯克超级高铁启动全面测试",
+      "onboard_time": 1667789187,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 259888,
       "num": 146283,
       "word": "觉醒年代yyds",
@@ -361,14 +401,6 @@
       "onboard_time": 1667787987,
       "rank": 46,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 248109,
-      "num": 248109,
-      "word": "为什么年轻人不排斥穿秋裤了",
-      "onboard_time": 1667790985,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 242910,
@@ -387,12 +419,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 235679,
-      "num": 235679,
-      "word": "马斯克超级高铁启动全面测试",
-      "onboard_time": 1667789187,
-      "rank": 23,
-      "category": "科技"
+      "raw_hot": 234579,
+      "num": 234579,
+      "word": "郭晓婷涂山雅雅盼重逢",
+      "onboard_time": 1667792665,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 233332,
@@ -432,6 +464,14 @@
       "word": "张婧仪朱韵被泼水",
       "onboard_time": 1667785105,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218222,
+      "num": 183201,
+      "word": "长风渡立冬官宣",
+      "onboard_time": 1667793753,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175317,
+      "num": 175317,
+      "word": "殷桃 实至名归",
+      "onboard_time": 1667791407,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "C罗",
@@ -547,28 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151279,
-      "num": 151279,
-      "word": "殷桃 实至名归",
-      "onboard_time": 1667791407,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144749,
       "num": 144749,
       "word": "无忧渡",
       "onboard_time": 1667778565,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142956,
-      "num": 142956,
-      "word": "十年不涨价商品八成是国货",
-      "onboard_time": 1667791888,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138086,
@@ -609,6 +641,14 @@
       "onboard_time": 1667751624,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129166,
+      "num": 129166,
+      "word": "爱心店主10年免费教5000多人做煎饼",
+      "onboard_time": 1667793933,
+      "rank": 37,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 128534,
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113521,
+      "num": 113521,
+      "word": "老人给流浪猫穿亲手做的秋裤",
+      "onboard_time": 1667794114,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 112592,
       "num": 112592,
       "word": "你好冬天",
@@ -715,6 +763,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103320,
+      "num": 103320,
+      "word": "龚俊说月初今日暂别涂山再会",
+      "onboard_time": 1667793210,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 100056,
+      "num": 100056,
+      "word": "萌娃消防站门口大哭不走如愿参观",
+      "onboard_time": 1667794230,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98709,
       "num": 98709,
       "word": "马斯克称除了裁员别无选择",
@@ -737,6 +801,14 @@
       "onboard_time": 1667744017,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96585,
+      "num": 96585,
+      "word": "爵士vs快船",
+      "onboard_time": 1667794295,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95334,
@@ -848,6 +920,14 @@
       "word": "今天北京开始试供暖",
       "onboard_time": 1667788167,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78308,
+      "num": 327595,
+      "word": "大叔卖肉夹馍供出一个博士一个研究生",
+      "onboard_time": 1667793633,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1004,6 +1084,9 @@
     },
     {
       "word": "#第五届进口博览会#"
+    },
+    {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
     }
   ]
 }
