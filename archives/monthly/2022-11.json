@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667797276010,
+  "endTime": 1667799022166,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1051,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1051313,
+      "num": 905998,
+      "word": "国人买iPhone14Pro需工作22天",
+      "onboard_time": 1667795015,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1051250,
       "num": 914102,
       "word": "富士康回应726房间事件",
@@ -1379,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 905998,
-      "num": 905998,
-      "word": "国人买iPhone14Pro需工作22天",
-      "onboard_time": 1667795015,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 898771,
       "num": 898771,
       "word": "黄晓明张小斐好事成双开机",
@@ -1401,6 +1401,14 @@
       "onboard_time": 1667371830,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 895863,
+      "num": 895863,
+      "word": "郑州平安街社区的万能的朋友圈",
+      "onboard_time": 1667795975,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 893196,
@@ -3051,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508121,
+      "num": 508121,
+      "word": "马丽写小作文感谢何炅",
+      "onboard_time": 1667796157,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507874,
       "num": 507874,
       "word": "3岁女孩连吃8个柿子长胃结石",
@@ -3923,14 +3939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 414110,
-      "num": 414110,
-      "word": "郑州平安街社区的万能的朋友圈",
-      "onboard_time": 1667795975,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413742,
       "num": 413742,
       "word": "合肥机场出港不再查验核酸",
@@ -3977,14 +3985,6 @@
       "onboard_time": 1667450607,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 408062,
-      "num": 408062,
-      "word": "马丽写小作文感谢何炅",
-      "onboard_time": 1667796157,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 407802,
@@ -6179,6 +6179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 251736,
+      "num": 190385,
+      "word": "时代少年团荣耀出题官",
+      "onboard_time": 1667798192,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250739,
       "num": 196672,
       "word": "李峋 bking",
@@ -8035,6 +8043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169430,
+      "num": 169430,
+      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+      "onboard_time": 1667797832,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169140,
       "num": 134122,
       "word": "张远五个版本嘉宾同时在榜",
@@ -8715,6 +8731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150305,
+      "num": 138747,
+      "word": "鹿晗keepmealive",
+      "onboard_time": 1667798251,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149532,
       "num": 89367,
       "word": "T1状态",
@@ -9016,6 +9040,14 @@
       "word": "杨幂肖砚下班机车鲨疯了",
       "onboard_time": 1667664626,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141873,
+      "num": 110617,
+      "word": "看完点燃我温暖你长恋爱脑了",
+      "onboard_time": 1667798849,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -10027,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115763,
+      "num": 115763,
+      "word": "苹果减产300万部新iPhone",
+      "onboard_time": 1667796756,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 115586,
       "num": 115586,
       "word": "小猫咪没有惹你们任何人",
@@ -10041,14 +10081,6 @@
       "onboard_time": 1667539769,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114395,
-      "num": 114395,
-      "word": "苹果减产300万部新iPhone",
-      "onboard_time": 1667796756,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 114378,
@@ -10161,6 +10193,14 @@
       "onboard_time": 1667450310,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111767,
+      "num": 111767,
+      "word": "骨科门诊近6成老年病人在家中跌倒",
+      "onboard_time": 1667798732,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111648,
@@ -11137,6 +11177,22 @@
       "onboard_time": 1667730865,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90281,
+      "num": 90281,
+      "word": "是谁教你这么调音的",
+      "onboard_time": 1667798610,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90159,
+      "num": 90159,
+      "word": "网红面馆推8人份生日宴售价2999元引争议",
+      "onboard_time": 1667798969,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90126,
@@ -13065,6 +13121,14 @@
       "onboard_time": 1667679911,
       "rank": 49,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 6935,
+      "num": 275110,
+      "word": "米卢的回忆是球迷的青春",
+      "onboard_time": 1667797475,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5581,

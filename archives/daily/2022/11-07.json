@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667797276010,
+  "endTime": 1667799022166,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051313,
+      "num": 905998,
+      "word": "国人买iPhone14Pro需工作22天",
+      "onboard_time": 1667795015,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 919333,
       "num": 841856,
       "word": "苹果发表郑州富士康工厂声明",
@@ -83,12 +91,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 905998,
-      "num": 905998,
-      "word": "国人买iPhone14Pro需工作22天",
-      "onboard_time": 1667795015,
-      "rank": 5,
-      "category": "科技"
+      "raw_hot": 895863,
+      "num": 895863,
+      "word": "郑州平安街社区的万能的朋友圈",
+      "onboard_time": 1667795975,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840310,
@@ -153,6 +161,14 @@
       "onboard_time": 1667791888,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508121,
+      "num": 508121,
+      "word": "马丽写小作文感谢何炅",
+      "onboard_time": 1667796157,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 505451,
@@ -267,28 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414110,
-      "num": 414110,
-      "word": "郑州平安街社区的万能的朋友圈",
-      "onboard_time": 1667795975,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408203,
       "num": 408203,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
       "onboard_time": 1667742271,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408062,
-      "num": 408062,
-      "word": "马丽写小作文感谢何炅",
-      "onboard_time": 1667796157,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 406332,
@@ -465,6 +465,14 @@
       "onboard_time": 1667787987,
       "rank": 46,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 251736,
+      "num": 190385,
+      "word": "时代少年团荣耀出题官",
+      "onboard_time": 1667798192,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 242910,
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169430,
+      "num": 169430,
+      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+      "onboard_time": 1667797832,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "超越",
@@ -675,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150305,
+      "num": 138747,
+      "word": "鹿晗keepmealive",
+      "onboard_time": 1667798251,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "万能卡",
@@ -688,6 +712,14 @@
       "word": "无忧渡",
       "onboard_time": 1667778565,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141873,
+      "num": 110617,
+      "word": "看完点燃我温暖你长恋爱脑了",
+      "onboard_time": 1667798849,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -795,8 +827,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114395,
-      "num": 114395,
+      "raw_hot": 115763,
+      "num": 115763,
       "word": "苹果减产300万部新iPhone",
       "onboard_time": 1667796756,
       "rank": 43,
@@ -809,6 +841,14 @@
       "onboard_time": 1667787627,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111767,
+      "num": 111767,
+      "word": "骨科门诊近6成老年病人在家中跌倒",
+      "onboard_time": 1667798732,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110346,
@@ -929,6 +969,22 @@
       "onboard_time": 1667784807,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90281,
+      "num": 90281,
+      "word": "是谁教你这么调音的",
+      "onboard_time": 1667798610,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90159,
+      "num": 90159,
+      "word": "网红面馆推8人份生日宴售价2999元引争议",
+      "onboard_time": 1667798969,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88884,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1667661449,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6935,
+      "num": 275110,
+      "word": "米卢的回忆是球迷的青春",
+      "onboard_time": 1667797475,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
