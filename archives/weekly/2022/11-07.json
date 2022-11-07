@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667820949556,
+  "endTime": 1667825395511,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -65,6 +65,14 @@
       "onboard_time": 1667793151,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1409040,
+      "num": 1409040,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1407378,
@@ -139,20 +147,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 866063,
-      "num": 866063,
-      "word": "乌鲁木齐警情通报",
-      "onboard_time": 1667817626,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 840310,
       "num": 840310,
       "word": "立冬",
       "onboard_time": 1667776340,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835196,
+      "num": 835196,
+      "word": "朱韵真的是公主殿下",
+      "onboard_time": 1667822965,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 808563,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462116,
+      "num": 420132,
+      "word": "流调中最勤劳外卖员发声",
+      "onboard_time": 1667819127,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461178,
       "num": 341267,
       "word": "于和伟 陪跑",
@@ -496,6 +512,14 @@
       "word": "杨紫肖战余生请多指教日本播出预告",
       "onboard_time": 1667801966,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 409032,
+      "num": 409032,
+      "word": "李峋坠入爱河",
+      "onboard_time": 1667823083,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -731,6 +755,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 296832,
+      "num": 296832,
+      "word": "外卖员下跪求保安归还被扣车钥匙",
+      "onboard_time": 1667824046,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294506,
       "num": 294506,
       "word": "boystory到底有多强",
@@ -819,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265495,
+      "num": 265495,
+      "word": "宝宝公交上骑玩具车妈妈舌战司机",
+      "onboard_time": 1667821406,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260488,
       "num": 348995,
       "word": "大叔卖肉夹馍供出一个博士一个研究生",
@@ -843,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257369,
+      "num": 257369,
+      "word": "史上最凶班主任经证实为网红",
+      "onboard_time": 1667823625,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 256532,
       "num": 256532,
       "word": "Meta将启动史上首次大规模裁员",
       "onboard_time": 1667787987,
       "rank": 46,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 254229,
+      "num": 143159,
+      "word": "马斯克解雇了90%的印度推特员工",
+      "onboard_time": 1667824286,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 251736,
@@ -947,12 +1003,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 225007,
+      "num": 225007,
+      "word": "李峋黑背心",
+      "onboard_time": 1667823266,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223339,
       "num": 223339,
       "word": "张婧仪朱韵被泼水",
       "onboard_time": 1667785105,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220938,
+      "num": 220938,
+      "word": "邓超要和鹿晗比转音",
+      "onboard_time": 1667820327,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 217525,
@@ -1091,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188487,
-      "num": 188487,
-      "word": "邓超要和鹿晗比转音",
-      "onboard_time": 1667820327,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 186202,
       "num": 144464,
       "word": "任嘉伦说杀青了谢谢嘉人们",
@@ -1171,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170639,
+      "num": 170639,
+      "word": "李峋被朱韵反撩的反应",
+      "onboard_time": 1667822546,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "超越",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1667801727,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 164604,
+      "num": 164604,
+      "word": "25岁爸爸带娃一年日渐沧桑",
+      "onboard_time": 1667823448,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164468,
@@ -1307,6 +1387,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144172,
+      "num": 144172,
+      "word": "超七成预制菜被中青年群体买走",
+      "onboard_time": 1667825006,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143588,
+      "num": 143588,
+      "word": "欧冠淘汰赛抽签",
+      "onboard_time": 1667822127,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143023,
       "num": 143023,
       "word": "谁还敢说我笨得像只猪",
@@ -1321,14 +1417,6 @@
       "onboard_time": 1667798849,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139483,
-      "num": 139483,
-      "word": "流调中最勤劳外卖员发声",
-      "onboard_time": 1667819127,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138086,
@@ -1499,6 +1587,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 118641,
+      "num": 90421,
+      "word": "李峋吃醋",
+      "onboard_time": 1667824648,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116749,
       "num": 116749,
       "word": "一只会做鬼脸的小猫",
@@ -1627,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101175,
+      "num": 101175,
+      "word": "脸上流露出自卑和尴尬的猫",
+      "onboard_time": 1667824165,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100056,
       "num": 100056,
       "word": "萌娃消防站门口大哭不走如愿参观",
@@ -1747,6 +1851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88191,
+      "num": 88191,
+      "word": "黑救护车乱象何时根除",
+      "onboard_time": 1667825188,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87341,
       "num": 87341,
       "word": "蔬菜颜色越深营养价值越高",
@@ -1841,6 +1953,14 @@
       "onboard_time": 1667760014,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82010,
+      "num": 82010,
+      "word": "主人织围脖狗子愁眉苦脸帮撑毛线",
+      "onboard_time": 1667825067,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81374,
@@ -2082,6 +2202,9 @@
     },
     {
       "word": "#2022进博会#"
+    },
+    {
+      "word": "#微观中国国际进口博览会#"
     }
   ]
 }
