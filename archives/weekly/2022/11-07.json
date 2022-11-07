@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667803533261,
+  "endTime": 1667805666680,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3142659,
+      "raw_hot": 3187967,
       "num": 1498206,
       "word": "郑州一社区书记称为防疫错过女儿生日",
       "onboard_time": 1667801010,
@@ -67,7 +67,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1347813,
+      "raw_hot": 1348812,
       "num": 1347813,
       "word": "郑州平安街社区的万能的朋友圈",
       "onboard_time": 1667795975,
@@ -176,6 +176,14 @@
       "word": "十年不涨价商品八成是国货",
       "onboard_time": 1667791888,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524812,
+      "num": 524812,
+      "word": "外公地里挖出1万多存款救济外孙",
+      "onboard_time": 1667800408,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392058,
+      "num": 392058,
+      "word": "妈妈晒3个高颜值儿子羡煞众人",
+      "onboard_time": 1667800949,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387531,
       "num": 387531,
       "word": "长风渡",
@@ -360,14 +376,6 @@
       "word": "立冬适合早睡晚起",
       "onboard_time": 1667740349,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382648,
-      "num": 382648,
-      "word": "外公地里挖出1万多存款救济外孙",
-      "onboard_time": 1667800408,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -393,6 +401,14 @@
       "onboard_time": 1667792665,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349280,
+      "num": 349280,
+      "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+      "onboard_time": 1667800348,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348026,
@@ -451,12 +467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310059,
-      "num": 310059,
-      "word": "妈妈晒3个高颜值儿子羡煞众人",
-      "onboard_time": 1667800949,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 305114,
+      "num": 305114,
+      "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+      "onboard_time": 1667803229,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 301102,
@@ -481,6 +497,22 @@
       "onboard_time": 1667800828,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292612,
+      "num": 292612,
+      "word": "逃犯到派出所开无犯罪记录证明",
+      "onboard_time": 1667802748,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290723,
+      "num": 290723,
+      "word": "殷桃说拿奖前感觉胜算挺高的",
+      "onboard_time": 1667800587,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 285996,
@@ -513,14 +545,6 @@
       "onboard_time": 1667784147,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269503,
-      "num": 269503,
-      "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
-      "onboard_time": 1667800348,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266416,
@@ -593,14 +617,6 @@
       "onboard_time": 1667739450,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 237117,
-      "num": 237117,
-      "word": "殷桃说拿奖前感觉胜算挺高的",
-      "onboard_time": 1667800587,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 235879,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202838,
+      "num": 202838,
+      "word": "男团刀群舞有多炸",
+      "onboard_time": 1667801607,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201021,
       "num": 168584,
       "word": "陈飞宇张婧仪新剧豆瓣7.2",
@@ -753,6 +777,14 @@
       "onboard_time": 1667737828,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181300,
+      "num": 181300,
+      "word": "陆军直20抵达珠海",
+      "onboard_time": 1667802867,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 179279,
@@ -811,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160529,
+      "num": 160529,
+      "word": "河南发现3千年前商代道路",
+      "onboard_time": 1667800170,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160497,
       "num": 100707,
       "word": "王鹤棣对苍兰诀破万印象深刻",
@@ -835,6 +875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148606,
+      "num": 139076,
+      "word": "今日杀青特辑的男主古装造型",
+      "onboard_time": 1667805568,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148496,
       "num": 89942,
       "word": "英国通胀创40年新高",
@@ -849,6 +897,14 @@
       "onboard_time": 1667790147,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145487,
+      "num": 145487,
+      "word": "爸爸是懂教育小狗的",
+      "onboard_time": 1667802867,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 144749,
@@ -872,14 +928,6 @@
       "word": "看完点燃我温暖你长恋爱脑了",
       "onboard_time": 1667798849,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 139348,
-      "num": 103418,
-      "word": "张凌赫陈都灵狐妖小红娘对视镜头",
-      "onboard_time": 1667803229,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -945,14 +993,6 @@
       "onboard_time": 1667747971,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124864,
-      "num": 124864,
-      "word": "河南发现3千年前商代道路",
-      "onboard_time": 1667800170,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124486,
@@ -1051,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105718,
-      "num": 105718,
-      "word": "逃犯到派出所开无犯罪记录证明",
-      "onboard_time": 1667802748,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105406,
       "num": 105406,
       "word": "狐妖小红娘镜头美学",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1667793210,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101426,
-      "num": 101426,
-      "word": "爸爸是懂教育小狗的",
-      "onboard_time": 1667802867,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 100056,
@@ -1179,6 +1203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88056,
+      "num": 88056,
+      "word": "谁还敢说我笨得像只猪",
+      "onboard_time": 1667804367,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87169,
       "num": 87169,
       "word": "2022全国乒乓球锦标赛",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1667781148,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84952,
+      "num": 84952,
+      "word": "电子减盐勺可减少30%盐分摄入",
+      "onboard_time": 1667804247,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 84352,
@@ -1264,6 +1304,14 @@
       "word": "今天北京开始试供暖",
       "onboard_time": 1667788167,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79157,
+      "num": 79157,
+      "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
+      "onboard_time": 1667804485,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
