@@ -1,7 +1,23 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667788381832,
+  "endTime": 1667792547004,
   "band_list": [
+    {
+      "raw_hot": 4639802,
+      "num": 4639802,
+      "word": "一位阳性密接外卖员的一天",
+      "onboard_time": 1667787386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2138838,
+      "num": 2138838,
+      "word": "饺子",
+      "onboard_time": 1667786185,
+      "rank": 33,
+      "category": "美食"
+    },
     {
       "raw_hot": 2010418,
       "num": 2010418,
@@ -11,20 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1784584,
-      "num": 851527,
-      "word": "英国伦敦爆发大规模抗议",
-      "onboard_time": 1667777302,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1514175,
+      "raw_hot": 1911082,
       "num": 488626,
       "word": "赛琳娜回应捐肾好友取关",
       "onboard_time": 1667787207,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1784584,
+      "num": 1091112,
+      "word": "英国伦敦爆发大规模抗议",
+      "onboard_time": 1667777302,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1407378,
@@ -83,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 712379,
-      "num": 712379,
-      "word": "饺子",
-      "onboard_time": 1667786185,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 618130,
       "num": 618130,
       "word": "直播间9块9抢五桶泡面仅拇指大",
@@ -113,14 +121,6 @@
       "onboard_time": 1667745996,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 555534,
-      "num": 485132,
-      "word": "一位阳性密接外卖员的一天",
-      "onboard_time": 1667787386,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505451,
@@ -219,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406332,
+      "num": 406332,
+      "word": "狐妖月红篇杀青大合照",
+      "onboard_time": 1667790566,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404346,
       "num": 404346,
       "word": "初中女生带满箱偶像周边离家出走",
       "onboard_time": 1667777905,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387531,
+      "num": 387531,
+      "word": "长风渡",
+      "onboard_time": 1667790387,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 385906,
@@ -283,6 +299,46 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324384,
+      "num": 324384,
+      "word": "野蛮生长正式更名风吹半夏",
+      "onboard_time": 1667789726,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315079,
+      "num": 315079,
+      "word": "这就是小说里的一眼万年吗",
+      "onboard_time": 1667790266,
+      "rank": 17,
+      "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 301102,
+      "num": 301102,
+      "word": "为什么年轻人开始回潮传统了",
+      "onboard_time": 1667786424,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281364,
+      "num": 102221,
+      "word": "任嘉伦宋祖儿新剧人设",
+      "onboard_time": 1667792486,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281088,
+      "num": 281088,
+      "word": "杨幂狐妖小红娘原声台词",
+      "onboard_time": 1667791706,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
@@ -299,12 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254779,
-      "num": 254779,
-      "word": "为什么年轻人开始回潮传统了",
-      "onboard_time": 1667786424,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 256532,
+      "num": 256532,
+      "word": "Meta将启动史上首次大规模裁员",
+      "onboard_time": 1667787987,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 248109,
+      "num": 248109,
+      "word": "为什么年轻人不排斥穿秋裤了",
+      "onboard_time": 1667790985,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 242910,
@@ -320,6 +384,14 @@
       "word": "iPhone14中美之外全球涨价",
       "onboard_time": 1667739450,
       "rank": 14,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 235679,
+      "num": 235679,
+      "word": "马斯克超级高铁启动全面测试",
+      "onboard_time": 1667789187,
+      "rank": 23,
       "category": "科技"
     },
     {
@@ -395,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205418,
+      "num": 205418,
+      "word": "饿了么",
+      "onboard_time": 1667789726,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
@@ -435,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175509,
+      "num": 175509,
+      "word": "男子熟练搬运16层泡沫箱装车",
+      "onboard_time": 1667788588,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "C罗",
@@ -459,12 +547,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151279,
+      "num": 151279,
+      "word": "殷桃 实至名归",
+      "onboard_time": 1667791407,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144749,
       "num": 144749,
       "word": "无忧渡",
       "onboard_time": 1667778565,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142956,
+      "num": 142956,
+      "word": "十年不涨价商品八成是国货",
+      "onboard_time": 1667791888,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138086,
+      "num": 138086,
+      "word": "当代年轻人把解压整明白了",
+      "onboard_time": 1667790448,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 137788,
@@ -563,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110346,
+      "num": 110346,
+      "word": "田雨新剧给张萌下跪",
+      "onboard_time": 1667790688,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109476,
       "num": 97130,
       "word": "华春莹讲述德企在华合作情况",
@@ -579,12 +699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105406,
+      "num": 105406,
+      "word": "狐妖小红娘镜头美学",
+      "onboard_time": 1667791706,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "这是猫咪牌电动剃须刀吗",
       "onboard_time": 1667748092,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98709,
+      "num": 98709,
+      "word": "马斯克称除了裁员别无选择",
+      "onboard_time": 1667792067,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 97715,
@@ -617,6 +753,14 @@
       "onboard_time": 1667785645,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91845,
+      "num": 333371,
+      "word": "四川人被美食治愈的立冬",
+      "onboard_time": 1667790025,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90446,
@@ -665,14 +809,6 @@
       "onboard_time": 1667781148,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 82248,
-      "num": 82248,
-      "word": "Meta将启动史上首次大规模裁员",
-      "onboard_time": 1667787987,
-      "rank": 46,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 82173,
@@ -851,8 +987,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8433,
-      "num": 888266,
+      "raw_hot": 8753,
+      "num": 1598222,
       "word": "保护湿地中国一直在行动",
       "onboard_time": 1667661449,
       "rank": 2,

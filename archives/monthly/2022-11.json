@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667788381832,
+  "endTime": 1667792547004,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -25,6 +25,14 @@
       "onboard_time": 1667366487,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 4639802,
+      "num": 4639802,
+      "word": "一位阳性密接外卖员的一天",
+      "onboard_time": 1667787386,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4027161,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2138838,
+      "num": 2138838,
+      "word": "饺子",
+      "onboard_time": 1667786185,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2135561,
       "num": 2135561,
       "word": "keria痛哭",
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911082,
+      "num": 488626,
+      "word": "赛琳娜回应捐肾好友取关",
+      "onboard_time": 1667787207,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1884814,
       "num": 555990,
       "word": "陈飞宇张婧仪亲密戏镜头",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 1784584,
-      "num": 851527,
+      "num": 1091112,
       "word": "英国伦敦爆发大规模抗议",
       "onboard_time": 1667777302,
       "rank": 30,
@@ -545,14 +569,6 @@
       "onboard_time": 1667409976,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1514175,
-      "num": 488626,
-      "word": "赛琳娜回应捐肾好友取关",
-      "onboard_time": 1667787207,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1470723,
@@ -1859,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 712379,
-      "num": 712379,
-      "word": "饺子",
-      "onboard_time": 1667786185,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 704169,
       "num": 704169,
       "word": "英国老人吐槽现在比二战时还糟",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1667616987,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 555534,
-      "num": 485132,
-      "word": "一位阳性密接外卖员的一天",
-      "onboard_time": 1667787386,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552970,
@@ -3923,6 +3923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406332,
+      "num": 406332,
+      "word": "狐妖月红篇杀青大合照",
+      "onboard_time": 1667790566,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405861,
       "num": 405861,
       "word": "iPhone中国的周销量下降27%",
@@ -4120,6 +4128,14 @@
       "word": "一口气炫完杨幂新剧5集",
       "onboard_time": 1667577868,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387531,
+      "num": 387531,
+      "word": "长风渡",
+      "onboard_time": 1667790387,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -4891,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324384,
+      "num": 324384,
+      "word": "野蛮生长正式更名风吹半夏",
+      "onboard_time": 1667789726,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323926,
       "num": 341956,
       "word": "英雄联盟S12",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1667555430,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315079,
+      "num": 315079,
+      "word": "这就是小说里的一眼万年吗",
+      "onboard_time": 1667790266,
+      "rank": 17,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 315015,
@@ -5299,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301102,
+      "num": 301102,
+      "word": "为什么年轻人开始回潮传统了",
+      "onboard_time": 1667786424,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -5489,6 +5529,22 @@
       "onboard_time": 1667552910,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 281364,
+      "num": 102221,
+      "word": "任嘉伦宋祖儿新剧人设",
+      "onboard_time": 1667792486,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281088,
+      "num": 281088,
+      "word": "杨幂狐妖小红娘原声台词",
+      "onboard_time": 1667791706,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 280769,
@@ -5947,6 +6003,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 256532,
+      "num": 256532,
+      "word": "Meta将启动史上首次大规模裁员",
+      "onboard_time": 1667787987,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 255539,
       "num": 255539,
       "word": "郑州抗疫日记",
@@ -5961,14 +6025,6 @@
       "onboard_time": 1667398887,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254779,
-      "num": 254779,
-      "word": "为什么年轻人开始回潮传统了",
-      "onboard_time": 1667786424,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254360,
@@ -6081,6 +6137,14 @@
       "onboard_time": 1667711966,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248109,
+      "num": 248109,
+      "word": "为什么年轻人不排斥穿秋裤了",
+      "onboard_time": 1667790985,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 245691,
@@ -6249,6 +6313,14 @@
       "onboard_time": 1667399849,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235679,
+      "num": 235679,
+      "word": "马斯克超级高铁启动全面测试",
+      "onboard_time": 1667789187,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 235500,
@@ -6971,6 +7043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205418,
+      "num": 205418,
+      "word": "饿了么",
+      "onboard_time": 1667789726,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 205219,
       "num": 102582,
       "word": "Mike有点子中文功夫在身上",
@@ -7689,6 +7769,14 @@
       "onboard_time": 1667657727,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175509,
+      "num": 175509,
+      "word": "男子熟练搬运16层泡沫箱装车",
+      "onboard_time": 1667788588,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175339,
@@ -8459,6 +8547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151279,
+      "num": 151279,
+      "word": "殷桃 实至名归",
+      "onboard_time": 1667791407,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150893,
       "num": 150893,
       "word": "特警巧用无人机为1岁宝宝空投奶粉",
@@ -8771,6 +8867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142956,
+      "num": 142956,
+      "word": "十年不涨价商品八成是国货",
+      "onboard_time": 1667791888,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142875,
       "num": 88705,
       "word": "点燃我温暖你好看吗",
@@ -8873,6 +8977,14 @@
       "onboard_time": 1667571932,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138086,
+      "num": 138086,
+      "word": "当代年轻人把解压整明白了",
+      "onboard_time": 1667790448,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 137788,
@@ -9963,6 +10075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110346,
+      "num": 110346,
+      "word": "田雨新剧给张萌下跪",
+      "onboard_time": 1667790688,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110071,
       "num": 110071,
       "word": "马斯克想把推特改造成海外版微信",
@@ -10169,6 +10289,14 @@
       "onboard_time": 1667460082,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105406,
+      "num": 105406,
+      "word": "狐妖小红娘镜头美学",
+      "onboard_time": 1667791706,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 105343,
@@ -10457,6 +10585,14 @@
       "onboard_time": 1667432724,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98709,
+      "num": 98709,
+      "word": "马斯克称除了裁员别无选择",
+      "onboard_time": 1667792067,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 98314,
@@ -10761,6 +10897,14 @@
       "onboard_time": 1667625507,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91845,
+      "num": 333371,
+      "word": "四川人被美食治愈的立冬",
+      "onboard_time": 1667790025,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91805,
@@ -11321,14 +11465,6 @@
       "onboard_time": 1667405964,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 82248,
-      "num": 82248,
-      "word": "Meta将启动史上首次大规模裁员",
-      "onboard_time": 1667787987,
-      "rank": 46,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 82135,

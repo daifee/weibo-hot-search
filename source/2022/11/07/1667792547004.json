@@ -1,0 +1,410 @@
+{
+  "runTime": 1667792547004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4639802,
+        "num": 4639802,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2138838,
+        "num": 2138838,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 8753,
+        "num": 1598222,
+        "word": "保护湿地中国一直在行动",
+        "onboard_time": 1667661449,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1091112,
+        "num": 1091112,
+        "word": "英国伦敦爆发大规模抗议",
+        "onboard_time": 1667777302,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 614036,
+        "num": 614036,
+        "word": "雷佳音说太丢人了这是直播",
+        "onboard_time": 1667784326,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568155,
+        "num": 568155,
+        "word": "广州新增本土感染者1935例",
+        "onboard_time": 1667784386,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502187,
+        "num": 502187,
+        "word": "醉汉趁情侣吵架上前搭讪被打",
+        "onboard_time": 1667784986,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406332,
+        "num": 406332,
+        "word": "狐妖月红篇杀青大合照",
+        "onboard_time": 1667790566,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396247,
+        "num": 396247,
+        "word": "iPhone14Pro收货需要等待更长时间",
+        "onboard_time": 1667786424,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 390402,
+        "num": 390402,
+        "word": "苹果发表郑州富士康工厂声明",
+        "onboard_time": 1667780910,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1911082,
+        "num": 390354,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445234,
+        "num": 390177,
+        "word": "郑州官方致歉",
+        "onboard_time": 1667739386,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387531,
+        "num": 387531,
+        "word": "长风渡",
+        "onboard_time": 1667790387,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353613,
+        "num": 353613,
+        "word": "直播间9块9抢五桶泡面仅拇指大",
+        "onboard_time": 1667784628,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91845,
+        "num": 333371,
+        "word": "四川人被美食治愈的立冬",
+        "onboard_time": 1667790025,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324384,
+        "num": 324384,
+        "word": "野蛮生长正式更名风吹半夏",
+        "onboard_time": 1667789726,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345795,
+        "num": 319922,
+        "word": "立冬",
+        "onboard_time": 1667776340,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315079,
+        "num": 315079,
+        "word": "这就是小说里的一眼万年吗",
+        "onboard_time": 1667790266,
+        "rank": 17,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 312285,
+        "num": 312285,
+        "word": "马斯克让几十名被裁推特员工返岗",
+        "onboard_time": 1667784267,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 301102,
+        "num": 301102,
+        "word": "为什么年轻人开始回潮传统了",
+        "onboard_time": 1667786424,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281088,
+        "num": 281088,
+        "word": "杨幂狐妖小红娘原声台词",
+        "onboard_time": 1667791706,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256532,
+        "num": 256532,
+        "word": "Meta将启动史上首次大规模裁员",
+        "onboard_time": 1667787987,
+        "rank": 21,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 248109,
+        "num": 248109,
+        "word": "为什么年轻人不排斥穿秋裤了",
+        "onboard_time": 1667790985,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235679,
+        "num": 235679,
+        "word": "马斯克超级高铁启动全面测试",
+        "onboard_time": 1667789187,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229732,
+        "num": 229732,
+        "word": "广州疫情防控",
+        "onboard_time": 1667785151,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224157,
+        "num": 224157,
+        "word": "苹果HeySiri将改为Siri",
+        "onboard_time": 1667783548,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220345,
+        "num": 220345,
+        "word": "学霸爸爸每天辅导儿子数学考43分",
+        "onboard_time": 1667778505,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205418,
+        "num": 205418,
+        "word": "饿了么",
+        "onboard_time": 1667789726,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191911,
+        "num": 191911,
+        "word": "马丽获奖何炅哭了",
+        "onboard_time": 1667745996,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143429,
+        "num": 180518,
+        "word": "立冬意味着什么",
+        "onboard_time": 1667783247,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 175509,
+        "num": 175509,
+        "word": "男子熟练搬运16层泡沫箱装车",
+        "onboard_time": 1667788588,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168951,
+        "num": 168951,
+        "word": "初中女生带满箱偶像周边离家出走",
+        "onboard_time": 1667777905,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153220,
+        "num": 153220,
+        "word": "为什么恋爱长跑会容易分手",
+        "onboard_time": 1667750666,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151279,
+        "num": 151279,
+        "word": "殷桃 实至名归",
+        "onboard_time": 1667791407,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142956,
+        "num": 142956,
+        "word": "十年不涨价商品八成是国货",
+        "onboard_time": 1667791888,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139189,
+        "num": 139189,
+        "word": "张婧仪朱韵被泼水",
+        "onboard_time": 1667785105,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "当代年轻人把解压整明白了",
+        "onboard_time": 1667790448,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133631,
+        "num": 133631,
+        "word": "BLG亏麻了",
+        "onboard_time": 1667766910,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133117,
+        "num": 133117,
+        "word": "那些不被爸妈看好的装修有多香",
+        "onboard_time": 1667784147,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124042,
+        "num": 124042,
+        "word": "超七成高收入人群有脱发困扰",
+        "onboard_time": 1667783070,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120003,
+        "num": 120003,
+        "word": "突然想跟自己和解了",
+        "onboard_time": 1667780489,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118293,
+        "num": 118293,
+        "word": "北京疫情防控形势更加严峻复杂",
+        "onboard_time": 1667771952,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110346,
+        "num": 110346,
+        "word": "田雨新剧给张萌下跪",
+        "onboard_time": 1667790688,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109990,
+        "num": 109990,
+        "word": "RedVelvet将11月28日回归",
+        "onboard_time": 1667782708,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105805,
+        "num": 105805,
+        "word": "医生建议1顿饭吃螃蟹不超过2只",
+        "onboard_time": 1667742271,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105406,
+        "num": 105406,
+        "word": "狐妖小红娘镜头美学",
+        "onboard_time": 1667791706,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103059,
+        "num": 103059,
+        "word": "王鹤棣发文庆出道五周年",
+        "onboard_time": 1667783608,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281364,
+        "num": 102221,
+        "word": "任嘉伦宋祖儿新剧人设",
+        "onboard_time": 1667792486,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99951,
+        "num": 99951,
+        "word": "北京11月6日新增41例本土确诊",
+        "onboard_time": 1667780608,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98709,
+        "num": 98709,
+        "word": "马斯克称除了裁员别无选择",
+        "onboard_time": 1667792067,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会上的中国强音#"
+    }
+  }
+}
