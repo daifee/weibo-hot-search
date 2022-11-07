@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667817858377,
+  "endTime": 1667819962110,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -897,6 +897,14 @@
       "onboard_time": 1667560649,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1164075,
+      "num": 1164075,
+      "word": "小伙患红斑狼疮近5年爬楼超10万层",
+      "onboard_time": 1667815887,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1157164,
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738954,
+      "num": 738954,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729210,
       "num": 729210,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1667380344,
       "rank": 13,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 642680,
-      "num": 365856,
-      "word": "小伙患红斑狼疮近5年爬楼超10万层",
-      "onboard_time": 1667815887,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 642297,
@@ -2771,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560603,
+      "num": 560603,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 11,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 560359,
       "num": 460120,
       "word": "马少骅获金鹰奖最佳男配",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1667289809,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526043,
+      "num": 526043,
+      "word": "毛雪汪下期有王源",
+      "onboard_time": 1667819846,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 522648,
@@ -3313,6 +3337,14 @@
       "onboard_time": 1667551351,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491899,
+      "num": 491899,
+      "word": "明年好多古偶",
+      "onboard_time": 1667818227,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 491642,
@@ -3785,14 +3817,6 @@
       "onboard_time": 1667620407,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438467,
-      "num": 438467,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 11,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 437355,
@@ -5035,6 +5059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340265,
+      "num": 340265,
+      "word": "央视曝光双十一新骗术",
+      "onboard_time": 1667817448,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339949,
       "num": 339949,
       "word": "年轻人算是把方便面玩明白了",
@@ -5475,6 +5507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312085,
+      "num": 312085,
+      "word": "AJ涵艺爆料LPL转会期",
+      "onboard_time": 1667818167,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311530,
       "num": 241248,
       "word": "李现寸头直播状态",
@@ -5721,14 +5761,6 @@
       "onboard_time": 1667813547,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 297150,
-      "num": 297150,
-      "word": "乌鲁木齐警情通报",
-      "onboard_time": 1667817626,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296428,
@@ -5995,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278997,
+      "num": 278997,
+      "word": "狐妖小红娘",
+      "onboard_time": 1667815286,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278788,
       "num": 278788,
       "word": "11月1日新增本土无症状2346例",
@@ -6073,14 +6113,6 @@
       "onboard_time": 1667446287,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274839,
-      "num": 274839,
-      "word": "狐妖小红娘",
-      "onboard_time": 1667815286,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 274380,
@@ -6257,6 +6289,14 @@
       "onboard_time": 1667614409,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269095,
+      "num": 269095,
+      "word": "航空工业说不能成为国足",
+      "onboard_time": 1667814867,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 269018,
@@ -7145,14 +7185,6 @@
       "onboard_time": 1667478386,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 221964,
-      "word": "航空工业说不能成为国足",
-      "onboard_time": 1667814867,
-      "rank": 26,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 221800,
@@ -8819,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "恒星引力东方美学",
+      "onboard_time": 1667817867,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161176,
       "num": 161176,
       "word": "北京一宠物店出考题审核领养人",
@@ -9267,6 +9307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148527,
+      "num": 148527,
+      "word": "这玩意儿也太气猫了",
+      "onboard_time": 1667817326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148496,
       "num": 89942,
       "word": "英国通胀创40年新高",
@@ -9537,6 +9585,14 @@
       "onboard_time": 1667804367,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143008,
+      "num": 143008,
+      "word": "女生挑战自己拔智齿鼓励网友",
+      "onboard_time": 1667816906,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142962,
@@ -10459,6 +10515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120447,
+      "num": 120447,
+      "word": "神州大地美成了壁纸",
+      "onboard_time": 1667819485,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 120423,
       "num": 120423,
       "word": "第一次觉得画画这么简单",
@@ -10819,14 +10883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111063,
-      "num": 111063,
-      "word": "这玩意儿也太气猫了",
-      "onboard_time": 1667817326,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111054,
       "num": 111054,
       "word": "航拍中国重庆宣传片",
@@ -10907,6 +10963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108842,
+      "num": 108842,
+      "word": "一只会做鬼脸的小猫",
+      "onboard_time": 1667818347,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 108768,
       "num": 108768,
       "word": "好像知道它为什么流浪了",
@@ -10929,6 +10993,14 @@
       "onboard_time": 1667621848,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108305,
+      "num": 108305,
+      "word": "emoji原型好像被我找到了",
+      "onboard_time": 1667815765,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 108219,
@@ -11115,14 +11187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104420,
-      "num": 104420,
-      "word": "emoji原型好像被我找到了",
-      "onboard_time": 1667815765,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104290,
       "num": 104290,
       "word": "你最想要什么样的天赋",
@@ -11219,6 +11283,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 102859,
+      "num": 102859,
+      "word": "拍月亮",
+      "onboard_time": 1667817926,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102723,
       "num": 123062,
       "word": "双11快递包装可换鸡蛋",
@@ -11240,14 +11312,6 @@
       "word": "3岁小朋友遛纸壳狗宣传环保",
       "onboard_time": 1667604862,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101694,
-      "num": 101694,
-      "word": "央视曝光双十一新骗术",
-      "onboard_time": 1667817448,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -11304,6 +11368,14 @@
       "word": "谁教你们这么配音的",
       "onboard_time": 1667302466,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100274,
+      "num": 100274,
+      "word": "这样减肥有点费爸爸",
+      "onboard_time": 1667819007,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -11369,14 +11441,6 @@
       "onboard_time": 1667741792,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99293,
-      "num": 99293,
-      "word": "女生挑战自己拔智齿鼓励网友",
-      "onboard_time": 1667816906,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99183,
@@ -11569,6 +11633,14 @@
       "onboard_time": 1667273007,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94560,
+      "num": 94560,
+      "word": "流调中最勤劳外卖员发声",
+      "onboard_time": 1667819127,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94451,
@@ -11992,6 +12064,14 @@
       "word": "男孩坠入深井救援时淡定提要求",
       "onboard_time": 1667374108,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87341,
+      "num": 87341,
+      "word": "蔬菜颜色越深营养价值越高",
+      "onboard_time": 1667819366,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

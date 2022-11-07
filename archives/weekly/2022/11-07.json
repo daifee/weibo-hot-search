@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667817858377,
+  "endTime": 1667819962110,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1164075,
+      "num": 1164075,
+      "word": "小伙患红斑狼疮近5年爬楼超10万层",
+      "onboard_time": 1667815887,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093924,
       "num": 1093924,
       "word": "广州新增本土感染者1935例",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738954,
+      "num": 738954,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676208,
       "num": 676208,
       "word": "男子探店要求免单11元遭拒骂难吃",
@@ -185,14 +201,6 @@
       "onboard_time": 1667807127,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 642680,
-      "num": 365856,
-      "word": "小伙患红斑狼疮近5年爬楼超10万层",
-      "onboard_time": 1667815887,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637798,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560603,
+      "num": 560603,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 11,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 552506,
       "num": 552506,
       "word": "十年不涨价商品八成是国货",
@@ -257,6 +273,14 @@
       "onboard_time": 1667807187,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526043,
+      "num": 526043,
+      "word": "毛雪汪下期有王源",
+      "onboard_time": 1667819846,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 513584,
@@ -305,6 +329,14 @@
       "onboard_time": 1667750666,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491899,
+      "num": 491899,
+      "word": "明年好多古偶",
+      "onboard_time": 1667818227,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 489149,
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438467,
-      "num": 438467,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 11,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 434343,
       "num": 340067,
       "word": "陈飞宇好欲",
@@ -449,6 +473,14 @@
       "onboard_time": 1667783070,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415371,
+      "num": 415371,
+      "word": "莎头",
+      "onboard_time": 1667817146,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 413092,
@@ -595,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340265,
+      "num": 340265,
+      "word": "央视曝光双十一新骗术",
+      "onboard_time": 1667817448,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331366,
       "num": 331366,
       "word": "金鹰奖奖单",
@@ -633,6 +673,14 @@
       "onboard_time": 1667810129,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312085,
+      "num": 312085,
+      "word": "AJ涵艺爆料LPL转会期",
+      "onboard_time": 1667818167,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 310662,
@@ -681,14 +729,6 @@
       "onboard_time": 1667813547,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 297150,
-      "num": 297150,
-      "word": "乌鲁木齐警情通报",
-      "onboard_time": 1667817626,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294506,
@@ -747,8 +787,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274839,
-      "num": 274839,
+      "raw_hot": 278997,
+      "num": 278997,
       "word": "狐妖小红娘",
       "onboard_time": 1667815286,
       "rank": 18,
@@ -761,6 +801,14 @@
       "onboard_time": 1667784147,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269095,
+      "num": 269095,
+      "word": "航空工业说不能成为国足",
+      "onboard_time": 1667814867,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 266416,
@@ -905,14 +953,6 @@
       "onboard_time": 1667785105,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 221964,
-      "word": "航空工业说不能成为国足",
-      "onboard_time": 1667814867,
-      "rank": 26,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 217525,
@@ -1147,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "恒星引力东方美学",
+      "onboard_time": 1667817867,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160965,
       "num": 160965,
       "word": "爸爸是懂教育小狗的",
@@ -1187,14 +1235,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 149981,
-      "num": 149981,
-      "word": "莎头",
-      "onboard_time": 1667817146,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149777,
       "num": 149777,
       "word": "电影长津湖纪录片定档",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1667805568,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148527,
+      "num": 148527,
+      "word": "这玩意儿也太气猫了",
+      "onboard_time": 1667817326,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 148496,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1667804367,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143008,
+      "num": 143008,
+      "word": "女生挑战自己拔智齿鼓励网友",
+      "onboard_time": 1667816906,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141873,
@@ -1403,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120447,
+      "num": 120447,
+      "word": "神州大地美成了壁纸",
+      "onboard_time": 1667819485,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 116563,
       "num": 116563,
       "word": "蔡文静彭冠英新剧好像重生文",
@@ -1443,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111063,
-      "num": 111063,
-      "word": "这玩意儿也太气猫了",
-      "onboard_time": 1667817326,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "田雨新剧给张萌下跪",
@@ -1465,6 +1521,22 @@
       "onboard_time": 1667765891,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108842,
+      "num": 108842,
+      "word": "一只会做鬼脸的小猫",
+      "onboard_time": 1667818347,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 108305,
+      "num": 108305,
+      "word": "emoji原型好像被我找到了",
+      "onboard_time": 1667815765,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 107758,
@@ -1499,14 +1571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104420,
-      "num": 104420,
-      "word": "emoji原型好像被我找到了",
-      "onboard_time": 1667815765,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "这是猫咪牌电动剃须刀吗",
@@ -1523,12 +1587,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101694,
-      "num": 101694,
-      "word": "央视曝光双十一新骗术",
-      "onboard_time": 1667817448,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 102859,
+      "num": 102859,
+      "word": "拍月亮",
+      "onboard_time": 1667817926,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100274,
+      "num": 100274,
+      "word": "这样减肥有点费爸爸",
+      "onboard_time": 1667819007,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 100056,
@@ -1536,14 +1608,6 @@
       "word": "萌娃消防站门口大哭不走如愿参观",
       "onboard_time": 1667794230,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99293,
-      "num": 99293,
-      "word": "女生挑战自己拔智齿鼓励网友",
-      "onboard_time": 1667816906,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1585,6 +1649,14 @@
       "onboard_time": 1667735967,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94560,
+      "num": 94560,
+      "word": "流调中最勤劳外卖员发声",
+      "onboard_time": 1667819127,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93536,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1667787686,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 87341,
+      "num": 87341,
+      "word": "蔬菜颜色越深营养价值越高",
+      "onboard_time": 1667819366,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87169,
