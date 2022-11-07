@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667829685907,
+  "endTime": 1667831010708,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135452,
+      "num": 1135452,
+      "word": "全国近八成地级及以上城市房价不过万",
+      "onboard_time": 1667825426,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1097624,
       "num": 1097624,
       "word": "朱韵真的是公主殿下",
@@ -163,14 +171,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 843277,
-      "num": 843277,
-      "word": "全国近八成地级及以上城市房价不过万",
-      "onboard_time": 1667825426,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 840310,
       "num": 840310,
       "word": "立冬",
@@ -217,6 +217,14 @@
       "onboard_time": 1667750188,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727462,
+      "num": 406422,
+      "word": "消费者称李佳琦直播间产品比官方贵",
+      "onboard_time": 1667830050,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 676208,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514135,
+      "num": 514135,
+      "word": "5男子饭馆吃133元要求少收100元",
+      "onboard_time": 1667826688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513584,
       "num": 513584,
       "word": "北京疫情发布会",
@@ -385,6 +401,14 @@
       "onboard_time": 1667783548,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 499527,
+      "num": 402131,
+      "word": "今晚的女明星工作室出图",
+      "onboard_time": 1667830412,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 497722,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437989,
+      "num": 437989,
+      "word": "台北故宫文物毁损视频首曝光",
+      "onboard_time": 1667825547,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434343,
       "num": 340067,
       "word": "陈飞宇好欲",
@@ -595,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396655,
+      "num": 396655,
+      "word": "偷偷藏不住赵露思杀青照",
+      "onboard_time": 1667830770,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387531,
       "num": 387531,
       "word": "长风渡",
@@ -608,14 +648,6 @@
       "word": "立冬适合早睡晚起",
       "onboard_time": 1667740349,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383706,
-      "num": 383706,
-      "word": "5男子饭馆吃133元要求少收100元",
-      "onboard_time": 1667826688,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -672,14 +704,6 @@
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
       "onboard_time": 1667800348,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349168,
-      "num": 349168,
-      "word": "台北故宫文物毁损视频首曝光",
-      "onboard_time": 1667825547,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -768,6 +792,14 @@
       "word": "女孩过生日陌生男同学鼓掌祝福",
       "onboard_time": 1667810129,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312692,
+      "num": 312692,
+      "word": "俞敏洪称10年吃了3000片安眠药",
+      "onboard_time": 1667829447,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -963,12 +995,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 253554,
+      "num": 141120,
+      "word": "警方通报收3000办出疆通行证音频",
+      "onboard_time": 1667829689,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251736,
       "num": 190385,
       "word": "时代少年团荣耀出题官",
       "onboard_time": 1667798192,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249905,
+      "num": 249905,
+      "word": "为什么越长大反而越想家",
+      "onboard_time": 1667826207,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 248085,
@@ -1051,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227709,
+      "num": 227709,
+      "word": "间谍过家家",
+      "onboard_time": 1667828487,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227454,
       "num": 227454,
       "word": "男子江边垂钓捞到猪鼻龟",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1667750845,
       "rank": 18,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 223517,
-      "num": 223517,
-      "word": "为什么越长大反而越想家",
-      "onboard_time": 1667826207,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 223339,
@@ -1195,12 +1243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197925,
+      "num": 197925,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 197127,
       "num": 197127,
       "word": "命韵峋环开虐了",
       "onboard_time": 1667813726,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196269,
+      "num": 196269,
+      "word": "超七成预制菜被中青年群体买走",
+      "onboard_time": 1667825006,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190121,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1667779227,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171877,
-      "num": 171877,
-      "word": "超七成预制菜被中青年群体买走",
-      "onboard_time": 1667825006,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170639,
@@ -1443,6 +1499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148583,
+      "num": 148583,
+      "word": "给主人暖脚的狗狗",
+      "onboard_time": 1667827767,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 148496,
       "num": 89942,
       "word": "英国通胀创40年新高",
@@ -1491,11 +1555,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142531,
+      "num": 139655,
+      "word": "苏有朋为Mike新歌打call",
+      "onboard_time": 1667829689,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141873,
       "num": 110617,
       "word": "看完点燃我温暖你长恋爱脑了",
       "onboard_time": 1667798849,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138089,
+      "num": 138089,
+      "word": "肖砚说白术老气横秋",
+      "onboard_time": 1667830835,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1547,12 +1627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133842,
-      "num": 133842,
-      "word": "血月",
-      "onboard_time": 1667828668,
-      "rank": 47,
-      "category": "自然"
+      "raw_hot": 134572,
+      "num": 103524,
+      "word": "周深问点燃我温暖你这就开虐了",
+      "onboard_time": 1667830654,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 132199,
@@ -1683,12 +1763,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 118565,
-      "num": 118565,
-      "word": "给主人暖脚的狗狗",
-      "onboard_time": 1667827767,
-      "rank": 35,
-      "category": "幽默,情感"
+      "raw_hot": 119175,
+      "num": 119175,
+      "word": "70岁还能给妈妈付钱多幸福",
+      "onboard_time": 1667829027,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 116749,
@@ -1787,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105980,
-      "num": 105980,
-      "word": "间谍过家家",
-      "onboard_time": 1667828487,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 105406,
       "num": 105406,
       "word": "狐妖小红娘镜头美学",
@@ -1889,14 +1961,6 @@
       "onboard_time": 1667735967,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94467,
-      "num": 94467,
-      "word": "俞敏洪称10年吃了3000片安眠药",
-      "onboard_time": 1667829447,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93536,
@@ -2027,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86416,
-      "num": 86416,
-      "word": "70岁还能给妈妈付钱多幸福",
-      "onboard_time": 1667829027,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85576,
       "num": 85576,
       "word": "赣州数百人涌进河滩挖宝",
@@ -2115,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80770,
+      "num": 95864,
+      "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
+      "onboard_time": 1667830649,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80354,
       "num": 73769,
       "word": "林峯潘玮柏加盟我们的滚烫人生2",
@@ -2171,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74985,
+      "num": 95776,
+      "word": "杭州一小学开爬树课教学生爬树",
+      "onboard_time": 1667829868,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74959,
       "num": 74959,
       "word": "简单粗暴的做饭方式",
@@ -2201,6 +2273,14 @@
       "onboard_time": 1667795743,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 71382,
+      "num": 95734,
+      "word": "半夜卧床吸烟烧了整个废品站",
+      "onboard_time": 1667830050,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70531,
