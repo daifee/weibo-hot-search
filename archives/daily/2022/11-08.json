@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667838688277,
+  "endTime": 1667840056747,
   "band_list": [
     {
       "raw_hot": 1640450,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469009,
-      "num": 469009,
+      "raw_hot": 485466,
+      "num": 485466,
       "word": "手机厂商集体大降价",
       "onboard_time": 1667835150,
       "rank": 3,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220836,
+      "num": 220836,
+      "word": "江西的早餐有多便宜",
+      "onboard_time": 1667834610,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 219722,
+      "num": 219722,
+      "word": "乌鲁木齐收费办通行证嫌疑人被抓",
+      "onboard_time": 1667836168,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218375,
       "num": 218375,
       "word": "赵露思偷偷藏不住杀青视频",
@@ -129,14 +145,6 @@
       "onboard_time": 1667823625,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 210279,
-      "num": 210279,
-      "word": "江西的早餐有多便宜",
-      "onboard_time": 1667834610,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 208572,
@@ -179,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183480,
-      "num": 183480,
-      "word": "乌鲁木齐收费办通行证嫌疑人被抓",
-      "onboard_time": 1667836168,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177707,
       "num": 177707,
       "word": "央视曝光双十一新骗术",
@@ -225,6 +225,14 @@
       "onboard_time": 1667824648,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120751,
+      "num": 120751,
+      "word": "家中起火白狗熏成黑狗趴窗求救",
+      "onboard_time": 1667835628,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110616,
@@ -299,12 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 82093,
-      "num": 82093,
+      "raw_hot": 84944,
+      "num": 84944,
       "word": "经得起寸头检验的男星",
       "onboard_time": 1667837366,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77322,
+      "num": 77322,
+      "word": "70岁还能给妈妈付钱多幸福",
+      "onboard_time": 1667829027,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 72699,
@@ -329,22 +345,6 @@
       "onboard_time": 1667831854,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 65433,
-      "num": 65433,
-      "word": "家中起火白狗熏成黑狗趴窗求救",
-      "onboard_time": 1667835628,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65222,
-      "num": 65222,
-      "word": "70岁还能给妈妈付钱多幸福",
-      "onboard_time": 1667829027,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 58090,
@@ -388,10 +388,18 @@
     },
     {
       "raw_hot": 47957,
-      "num": 47957,
+      "num": 52271,
       "word": "为什么越长大反而越想家",
       "onboard_time": 1667826207,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 42056,
+      "num": 52284,
+      "word": "为什么很多人不愿意恋爱了",
+      "onboard_time": 1667839701,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#直击2022中国航展#"
+    },
+    {
+      "word": "#中国外交繁忙的一周释放哪些信号#"
     }
   ]
 }
