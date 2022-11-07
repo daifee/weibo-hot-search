@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667778007511,
+  "endTime": 1667786334003,
   "band_list": [
     {
       "raw_hot": 5275273,
@@ -395,6 +395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1784584,
+      "num": 842352,
+      "word": "英国伦敦爆发大规模抗议",
+      "onboard_time": 1667777302,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1776758,
       "num": 462521,
       "word": "兰州疫情防控",
@@ -705,6 +713,14 @@
       "onboard_time": 1667402607,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1229293,
+      "num": 1229293,
+      "word": "雷佳音说太丢人了这是直播",
+      "onboard_time": 1667784326,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1226130,
@@ -1291,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 919333,
+      "num": 841856,
+      "word": "苹果发表郑州富士康工厂声明",
+      "onboard_time": 1667780910,
+      "rank": 4,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 915679,
       "num": 915679,
       "word": "大妈地铁上身体套塑料袋吃香蕉",
@@ -1459,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853924,
+      "num": 853924,
+      "word": "广州新增本土感染者1935例",
+      "onboard_time": 1667784386,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853753,
       "num": 853753,
       "word": "青岛疫情防控",
@@ -1504,6 +1536,14 @@
       "word": "妻子连续1年为夜班丈夫做盲盒便当",
       "onboard_time": 1667494158,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840310,
+      "num": 840310,
+      "word": "立冬",
+      "onboard_time": 1667776340,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2443,14 +2483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 582535,
-      "num": 582535,
-      "word": "立冬",
-      "onboard_time": 1667776340,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 580763,
       "num": 580763,
       "word": "颜宁",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1667459663,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579803,
+      "num": 579803,
+      "word": "广州疫情防控",
+      "onboard_time": 1667785151,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579759,
@@ -3179,6 +3219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481621,
+      "num": 481621,
+      "word": "学霸爸爸每天辅导儿子数学考43分",
+      "onboard_time": 1667778505,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 481352,
       "num": 481352,
       "word": "郑州调整管控区域有序恢复正常生产生活秩序",
@@ -3289,6 +3337,14 @@
       "onboard_time": 1667264307,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460965,
+      "num": 460965,
+      "word": "苹果HeySiri将改为Siri",
+      "onboard_time": 1667783548,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 459359,
@@ -3411,6 +3467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443802,
+      "num": 414956,
+      "word": "马斯克让几十名被裁推特员工返岗",
+      "onboard_time": 1667784267,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 442676,
       "num": 382392,
       "word": "德国总理访华",
@@ -3472,6 +3536,14 @@
       "word": "地铁男子辱骂拳打女子被大哥制止",
       "onboard_time": 1667620407,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438792,
+      "num": 413254,
+      "word": "直播间9块9抢五桶泡面仅拇指大",
+      "onboard_time": 1667784628,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3675,6 +3747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421046,
+      "num": 421046,
+      "word": "超七成高收入人群有脱发困扰",
+      "onboard_time": 1667783070,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420819,
       "num": 339682,
       "word": "王一博单手握刀",
@@ -3817,6 +3897,14 @@
       "onboard_time": 1667654486,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404346,
+      "num": 404346,
+      "word": "初中女生带满箱偶像周边离家出走",
+      "onboard_time": 1667777905,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404265,
@@ -4072,6 +4160,14 @@
       "word": "迪丽热巴今晚直播动图",
       "onboard_time": 1667573674,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379915,
+      "num": 379915,
+      "word": "王鹤棣发文庆出道五周年",
+      "onboard_time": 1667783608,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4539,6 +4635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343540,
+      "num": 343540,
+      "word": "突然想跟自己和解了",
+      "onboard_time": 1667780489,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343356,
       "num": 343356,
       "word": "打火机与公主裙真香",
@@ -4713,6 +4817,14 @@
       "onboard_time": 1667644285,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 326890,
+      "num": 326890,
+      "word": "张桐 守常先生",
+      "onboard_time": 1667779288,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 326824,
@@ -4971,6 +5083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311869,
+      "num": 311869,
+      "word": "醉汉趁情侣吵架上前搭讪被打",
+      "onboard_time": 1667784986,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311530,
       "num": 241248,
       "word": "李现寸头直播状态",
@@ -5073,14 +5193,6 @@
       "onboard_time": 1667536167,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306255,
-      "num": 97665,
-      "word": "英国伦敦爆发大规模抗议",
-      "onboard_time": 1667777302,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 305868,
@@ -5595,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271531,
+      "num": 271531,
+      "word": "那些不被爸妈看好的装修有多香",
+      "onboard_time": 1667784147,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270251,
       "num": 270251,
       "word": "为什么00后购物变谨慎了",
@@ -5971,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242910,
+      "num": 242910,
+      "word": "北京11月6日新增41例本土确诊",
+      "onboard_time": 1667780608,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241983,
       "num": 206793,
       "word": "凤毛麟角",
@@ -6163,6 +6291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233332,
+      "num": 233332,
+      "word": "BLG亏麻了",
+      "onboard_time": 1667766910,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232874,
       "num": 232874,
       "word": "中国首次航天员乘组在轨轮换",
@@ -6227,6 +6363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 229890,
+      "num": 229890,
+      "word": "RedVelvet将11月28日回归",
+      "onboard_time": 1667782708,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229133,
       "num": 229133,
       "word": "科学家发现距地球最近黑洞",
@@ -6273,6 +6417,14 @@
       "onboard_time": 1667709507,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227454,
+      "num": 227454,
+      "word": "男子江边垂钓捞到猪鼻龟",
+      "onboard_time": 1667779827,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227261,
@@ -6843,14 +6995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202428,
-      "num": 202428,
-      "word": "BLG亏麻了",
-      "onboard_time": 1667766910,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202003,
       "num": 202003,
       "word": "提高科学精准防控水平防止一刀切",
@@ -6969,6 +7113,14 @@
       "onboard_time": 1667732967,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198424,
+      "num": 198424,
+      "word": "立冬意味着什么",
+      "onboard_time": 1667783247,
+      "rank": 28,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 197971,
@@ -7545,6 +7697,14 @@
       "onboard_time": 1667623046,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172903,
+      "num": 172903,
+      "word": "C罗",
+      "onboard_time": 1667779227,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 172680,
@@ -8715,6 +8875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136568,
+      "num": 136568,
+      "word": "张婧仪朱韵被泼水",
+      "onboard_time": 1667785105,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136520,
       "num": 136520,
       "word": "为什么国漫越来越受欢迎了",
@@ -9067,6 +9235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128235,
+      "num": 128235,
+      "word": "饺子",
+      "onboard_time": 1667786185,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128107,
       "num": 128107,
       "word": "原来古时说的云梦泽在这里",
@@ -9353,6 +9529,14 @@
       "onboard_time": 1667463744,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121937,
+      "num": 121937,
+      "word": "这猫怎么神经兮兮的",
+      "onboard_time": 1667779227,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 121882,
@@ -9793,6 +9977,14 @@
       "onboard_time": 1667384367,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108539,
+      "num": 108539,
+      "word": "无忧渡",
+      "onboard_time": 1667778565,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 108333,
@@ -10427,6 +10619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93536,
+      "num": 93536,
+      "word": "谁会不喜欢逛这样的夜市",
+      "onboard_time": 1667785645,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93412,
       "num": 93412,
       "word": "任贤齐张震岳苏见信开三轮车考驾照",
@@ -10569,6 +10769,14 @@
       "onboard_time": 1667660547,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90446,
+      "num": 90446,
+      "word": "立冬文案",
+      "onboard_time": 1667784807,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 90408,
@@ -10865,6 +11073,14 @@
       "onboard_time": 1667378608,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 85102,
+      "num": 85102,
+      "word": "TF家族一起去做的N件事剧照",
+      "onboard_time": 1667781148,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84795,
@@ -11443,6 +11659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70531,
+      "num": 70531,
+      "word": "航拍镜头下的长城有多壮观",
+      "onboard_time": 1667785287,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70353,
       "num": 70353,
       "word": "冬季第一个节气来了",
@@ -12008,14 +12232,6 @@
       "word": "没有什么可以挡住山区孩子求学脚步",
       "onboard_time": 1667279672,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48633,
-      "num": 48633,
-      "word": "初中女生带满箱偶像周边离家出走",
-      "onboard_time": 1667777905,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
