@@ -1,0 +1,410 @@
+{
+  "runTime": 1667817858377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1285708,
+        "num": 1285708,
+        "word": "厦门海关截获1只活体黑寡妇",
+        "onboard_time": 1667805806,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063616,
+        "num": 1063616,
+        "word": "呼和浩特多名干部疫情期间聚集饮酒",
+        "onboard_time": 1667813368,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26346,
+        "num": 938459,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 924571,
+        "num": 924571,
+        "word": "外资开始抄底房地产",
+        "onboard_time": 1667812108,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 676208,
+        "num": 676208,
+        "word": "男子探店要求免单11元遭拒骂难吃",
+        "onboard_time": 1667813247,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591675,
+        "num": 591675,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438467,
+        "num": 438467,
+        "word": "月全食",
+        "onboard_time": 1667816126,
+        "rank": 6,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 416529,
+        "num": 416529,
+        "word": "梨泰院踩踏事故调查新进展",
+        "onboard_time": 1667808747,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401016,
+        "num": 401016,
+        "word": "北京回应市民对进返京防疫政策关切",
+        "onboard_time": 1667813068,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375542,
+        "num": 375542,
+        "word": "程序员看李峋代码来上分",
+        "onboard_time": 1667810605,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642680,
+        "num": 365856,
+        "word": "小伙患红斑狼疮近5年爬楼超10万层",
+        "onboard_time": 1667815887,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346844,
+        "num": 346844,
+        "word": "雷佳音回应感言说一半话筒掉了",
+        "onboard_time": 1667813846,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319661,
+        "num": 319661,
+        "word": "舞蹈老师改行当陪诊师月入万元",
+        "onboard_time": 1667810368,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300958,
+        "num": 300958,
+        "word": "立冬三件套",
+        "onboard_time": 1667810428,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298879,
+        "num": 298879,
+        "word": "官方回应学生跪地唱征服视频",
+        "onboard_time": 1667813547,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 297150,
+        "num": 297150,
+        "word": "乌鲁木齐警情通报",
+        "onboard_time": 1667817626,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291862,
+        "num": 291862,
+        "word": "女孩过生日陌生男同学鼓掌祝福",
+        "onboard_time": 1667810129,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274839,
+        "num": 274839,
+        "word": "狐妖小红娘",
+        "onboard_time": 1667815286,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271944,
+        "num": 271944,
+        "word": "油条又大又脆一查明矾超标10倍",
+        "onboard_time": 1667808808,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239316,
+        "num": 239316,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221964,
+        "num": 221964,
+        "word": "航空工业说不能成为国足",
+        "onboard_time": 1667814867,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 216883,
+        "num": 216883,
+        "word": "EXO台历",
+        "onboard_time": 1667807127,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213429,
+        "num": 213429,
+        "word": "妈妈晒3个高颜值儿子羡煞众人",
+        "onboard_time": 1667800949,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213160,
+        "num": 213160,
+        "word": "南京红山动物园开放动物认养",
+        "onboard_time": 1667815227,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197127,
+        "num": 197127,
+        "word": "命韵峋环开虐了",
+        "onboard_time": 1667813726,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189243,
+        "num": 189243,
+        "word": "我最近的解压方式",
+        "onboard_time": 1667813188,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178653,
+        "num": 178653,
+        "word": "歼-20总师说祖国任何角落都有歼-20",
+        "onboard_time": 1667807187,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 176463,
+        "num": 176463,
+        "word": "外公地里挖出1万多存款救济外孙",
+        "onboard_time": 1667800408,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171192,
+        "num": 171192,
+        "word": "殷桃说拿奖前感觉胜算挺高的",
+        "onboard_time": 1667800587,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153393,
+        "num": 153393,
+        "word": "北京疫情发布会",
+        "onboard_time": 1667810548,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209923,
+        "num": 152875,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149981,
+        "num": 149981,
+        "word": "莎头",
+        "onboard_time": 1667817146,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145680,
+        "num": 145680,
+        "word": "女程序员送男友不可修改的奖状",
+        "onboard_time": 1667807187,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136383,
+        "num": 136383,
+        "word": "杨紫肖战余生请多指教日本播出预告",
+        "onboard_time": 1667801966,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111994,
+        "num": 111994,
+        "word": "1岁宝宝摇摇晃晃奔向回家爸爸",
+        "onboard_time": 1667804485,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111063,
+        "num": 111063,
+        "word": "这玩意儿也太气猫了",
+        "onboard_time": 1667817326,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108126,
+        "num": 108126,
+        "word": "青年大学习",
+        "onboard_time": 1667809588,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104747,
+        "num": 104747,
+        "word": "张凌赫陈都灵狐妖小红娘对视镜头",
+        "onboard_time": 1667803229,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104670,
+        "num": 104670,
+        "word": "秦皇岛疫情防控",
+        "onboard_time": 1667806466,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104420,
+        "num": 104420,
+        "word": "emoji原型好像被我找到了",
+        "onboard_time": 1667815765,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101694,
+        "num": 101694,
+        "word": "央视曝光双十一新骗术",
+        "onboard_time": 1667817448,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99438,
+        "num": 99438,
+        "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
+        "onboard_time": 1667800348,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99293,
+        "num": 99293,
+        "word": "女生挑战自己拔智齿鼓励网友",
+        "onboard_time": 1667816906,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94295,
+        "num": 94295,
+        "word": "郑州富士康发布预招工公告",
+        "onboard_time": 1667799270,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90562,
+        "num": 90562,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89614,
+        "num": 89614,
+        "word": "minnie音中横板直拍",
+        "onboard_time": 1667810788,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88454,
+        "num": 88454,
+        "word": "台历",
+        "onboard_time": 1667806527,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107758,
+        "num": 88301,
+        "word": "陈飞宇新剧社死瞬间",
+        "onboard_time": 1667817807,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87187,
+        "num": 87187,
+        "word": "阿瑟台词老师是魏大勋同学",
+        "onboard_time": 1667811267,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "阮真真处处对人设防的原因",
+        "onboard_time": 1667817807,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022进博会#"
+    }
+  }
+}

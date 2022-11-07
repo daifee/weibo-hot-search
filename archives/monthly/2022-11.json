@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667816820685,
+  "endTime": 1667817858377,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1059,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1063616,
+      "num": 1063616,
+      "word": "呼和浩特多名干部疫情期间聚集饮酒",
+      "onboard_time": 1667813368,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055247,
       "num": 561780,
       "word": "马丽获奖何炅哭了",
@@ -1683,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801818,
-      "num": 801818,
-      "word": "呼和浩特多名干部疫情期间聚集饮酒",
-      "onboard_time": 1667813368,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793830,
       "num": 793830,
       "word": "腾讯副总裁已担任中国联通董事",
@@ -2099,6 +2099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 676208,
+      "num": 676208,
+      "word": "男子探店要求免单11元遭拒骂难吃",
+      "onboard_time": 1667813247,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675672,
       "num": 675672,
       "word": "狐妖小红娘婚纱照是换脸刘诗诗吴奇隆",
@@ -2116,7 +2124,7 @@
     },
     {
       "raw_hot": 673804,
-      "num": 209609,
+      "num": 216883,
       "word": "EXO台历",
       "onboard_time": 1667807127,
       "rank": 20,
@@ -2267,6 +2275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 642680,
+      "num": 365856,
+      "word": "小伙患红斑狼疮近5年爬楼超10万层",
+      "onboard_time": 1667815887,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642297,
       "num": 642297,
       "word": "红星评兰州七里河儿童死亡",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1667706266,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623892,
-      "num": 623892,
-      "word": "男子探店要求免单11元遭拒骂难吃",
-      "onboard_time": 1667813247,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622822,
@@ -3779,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438467,
+      "num": 438467,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 11,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 437355,
       "num": 424213,
       "word": "第31届金鹰奖颁奖典礼节目单",
@@ -4883,14 +4899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350950,
-      "num": 350950,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 11,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 350590,
       "num": 350590,
       "word": "女子打架抡飞自行车误伤小女孩",
@@ -4945,6 +4953,14 @@
       "onboard_time": 1667292628,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346844,
+      "num": 346844,
+      "word": "雷佳音回应感言说一半话筒掉了",
+      "onboard_time": 1667813846,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 346807,
@@ -5659,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300958,
+      "num": 300958,
+      "word": "立冬三件套",
+      "onboard_time": 1667810428,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -5689,6 +5713,22 @@
       "onboard_time": 1667791407,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298879,
+      "num": 298879,
+      "word": "官方回应学生跪地唱征服视频",
+      "onboard_time": 1667813547,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297150,
+      "num": 297150,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296428,
@@ -5729,14 +5769,6 @@
       "onboard_time": 1667800828,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292324,
-      "num": 292324,
-      "word": "立冬三件套",
-      "onboard_time": 1667810428,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 291127,
@@ -5857,14 +5889,6 @@
       "onboard_time": 1667469386,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284840,
-      "num": 284840,
-      "word": "雷佳音回应感言说一半话筒掉了",
-      "onboard_time": 1667813846,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 284359,
@@ -6049,6 +6073,14 @@
       "onboard_time": 1667446287,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274839,
+      "num": 274839,
+      "word": "狐妖小红娘",
+      "onboard_time": 1667815286,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 274380,
@@ -6385,14 +6417,6 @@
       "onboard_time": 1667218103,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259575,
-      "num": 259575,
-      "word": "官方回应学生跪地唱征服视频",
-      "onboard_time": 1667813547,
-      "rank": 41,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258585,
@@ -7123,6 +7147,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 221964,
+      "num": 221964,
+      "word": "航空工业说不能成为国足",
+      "onboard_time": 1667814867,
+      "rank": 26,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 221800,
       "num": 175060,
       "word": "林俊杰演唱会",
@@ -7315,6 +7347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213160,
+      "num": 213160,
+      "word": "南京红山动物园开放动物认养",
+      "onboard_time": 1667815227,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212846,
       "num": 202645,
       "word": "命韵峋环",
@@ -7337,14 +7377,6 @@
       "onboard_time": 1667701645,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211811,
-      "num": 211811,
-      "word": "狐妖小红娘",
-      "onboard_time": 1667815286,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 211799,
@@ -7563,14 +7595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204231,
-      "num": 132954,
-      "word": "小伙患红斑狼疮近5年爬楼超10万层",
-      "onboard_time": 1667815887,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
@@ -7779,6 +7803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197127,
+      "num": 197127,
+      "word": "命韵峋环开虐了",
+      "onboard_time": 1667813726,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196991,
       "num": 196991,
       "word": "微信团队就零钱通崩了致歉",
@@ -7849,14 +7881,6 @@
       "onboard_time": 1667263408,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195398,
-      "num": 195398,
-      "word": "命韵峋环开虐了",
-      "onboard_time": 1667813726,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 195292,
@@ -7987,12 +8011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188765,
-      "num": 130307,
-      "word": "南京红山动物园开放动物认养",
-      "onboard_time": 1667815227,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "我最近的解压方式",
+      "onboard_time": 1667813188,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 188625,
@@ -8515,14 +8539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168847,
-      "num": 168847,
-      "word": "航空工业说不能成为国足",
-      "onboard_time": 1667814867,
-      "rank": 26,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 168602,
       "num": 165657,
       "word": "宋祖儿reaction白宇谢谢你医生",
@@ -8785,14 +8801,6 @@
       "onboard_time": 1667369608,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 161709,
-      "num": 161709,
-      "word": "我最近的解压方式",
-      "onboard_time": 1667813188,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 161309,
@@ -10811,6 +10819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111063,
+      "num": 111063,
+      "word": "这玩意儿也太气猫了",
+      "onboard_time": 1667817326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111054,
       "num": 111054,
       "word": "航拍中国重庆宣传片",
@@ -10929,6 +10945,14 @@
       "onboard_time": 1667554350,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107758,
+      "num": 88301,
+      "word": "陈飞宇新剧社死瞬间",
+      "onboard_time": 1667817807,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 107664,
@@ -11091,6 +11115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104420,
+      "num": 104420,
+      "word": "emoji原型好像被我找到了",
+      "onboard_time": 1667815765,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104290,
       "num": 104290,
       "word": "你最想要什么样的天赋",
@@ -11208,6 +11240,14 @@
       "word": "3岁小朋友遛纸壳狗宣传环保",
       "onboard_time": 1667604862,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101694,
+      "num": 101694,
+      "word": "央视曝光双十一新骗术",
+      "onboard_time": 1667817448,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -11329,6 +11369,14 @@
       "onboard_time": 1667741792,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99293,
+      "num": 99293,
+      "word": "女生挑战自己拔智齿鼓励网友",
+      "onboard_time": 1667816906,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99183,
@@ -11721,14 +11769,6 @@
       "onboard_time": 1667309248,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 91301,
-      "num": 91301,
-      "word": "emoji原型好像被我找到了",
-      "onboard_time": 1667815765,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 91133,
@@ -12145,6 +12185,14 @@
       "onboard_time": 1667553630,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 84452,
+      "num": 84452,
+      "word": "阮真真处处对人设防的原因",
+      "onboard_time": 1667817807,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 84352,

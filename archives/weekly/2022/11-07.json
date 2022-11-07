@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667816820685,
+  "endTime": 1667817858377,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -107,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1063616,
+      "num": 1063616,
+      "word": "呼和浩特多名干部疫情期间聚集饮酒",
+      "onboard_time": 1667813368,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051313,
       "num": 972363,
       "word": "国人买iPhone14Pro需工作22天",
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801818,
-      "num": 801818,
-      "word": "呼和浩特多名干部疫情期间聚集饮酒",
-      "onboard_time": 1667813368,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 771234,
       "num": 771234,
       "word": "醉汉趁情侣吵架上前搭讪被打",
@@ -171,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676208,
+      "num": 676208,
+      "word": "男子探店要求免单11元遭拒骂难吃",
+      "onboard_time": 1667813247,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673804,
-      "num": 209609,
+      "num": 216883,
       "word": "EXO台历",
       "onboard_time": 1667807127,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 642680,
+      "num": 365856,
+      "word": "小伙患红斑狼疮近5年爬楼超10万层",
+      "onboard_time": 1667815887,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637798,
@@ -191,14 +207,6 @@
       "num": 635351,
       "word": "油条又大又脆一查明矾超标10倍",
       "onboard_time": 1667808808,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623892,
-      "num": 623892,
-      "word": "男子探店要求免单11元遭拒骂难吃",
-      "onboard_time": 1667813247,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438467,
+      "num": 438467,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 11,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 434343,
       "num": 340067,
       "word": "陈飞宇好欲",
@@ -539,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350950,
-      "num": 350950,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 11,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 349280,
       "num": 349280,
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
@@ -569,6 +577,14 @@
       "onboard_time": 1667807187,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 346844,
+      "num": 346844,
+      "word": "雷佳音回应感言说一半话筒掉了",
+      "onboard_time": 1667813846,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 343540,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300958,
+      "num": 300958,
+      "word": "立冬三件套",
+      "onboard_time": 1667810428,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298879,
       "num": 224068,
       "word": "殷桃 实至名归",
@@ -651,20 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298879,
+      "num": 298879,
+      "word": "官方回应学生跪地唱征服视频",
+      "onboard_time": 1667813547,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297150,
+      "num": 297150,
+      "word": "乌鲁木齐警情通报",
+      "onboard_time": 1667817626,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294506,
       "num": 294506,
       "word": "boystory到底有多强",
       "onboard_time": 1667800828,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292324,
-      "num": 292324,
-      "word": "立冬三件套",
-      "onboard_time": 1667810428,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 290723,
@@ -691,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284840,
-      "num": 284840,
-      "word": "雷佳音回应感言说一半话筒掉了",
-      "onboard_time": 1667813846,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283868,
       "num": 146683,
       "word": "豆瓣崩了",
@@ -720,6 +744,14 @@
       "word": "杨幂狐妖小红娘原声台词",
       "onboard_time": 1667791706,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274839,
+      "num": 274839,
+      "word": "狐妖小红娘",
+      "onboard_time": 1667815286,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -761,14 +793,6 @@
       "onboard_time": 1667748150,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259575,
-      "num": 259575,
-      "word": "官方回应学生跪地唱征服视频",
-      "onboard_time": 1667813547,
-      "rank": 41,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 256532,
@@ -883,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221964,
+      "num": 221964,
+      "word": "航空工业说不能成为国足",
+      "onboard_time": 1667814867,
+      "rank": 26,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 217525,
       "num": 202838,
       "word": "男团刀群舞有多炸",
@@ -915,12 +947,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 211811,
-      "num": 211811,
-      "word": "狐妖小红娘",
-      "onboard_time": 1667815286,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 213160,
+      "num": 213160,
+      "word": "南京红山动物园开放动物认养",
+      "onboard_time": 1667815227,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210506,
@@ -955,14 +987,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 204231,
-      "num": 132954,
-      "word": "小伙患红斑狼疮近5年爬楼超10万层",
-      "onboard_time": 1667815887,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
@@ -987,8 +1011,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195398,
-      "num": 195398,
+      "raw_hot": 197127,
+      "num": 197127,
       "word": "命韵峋环开虐了",
       "onboard_time": 1667813726,
       "rank": 40,
@@ -1019,12 +1043,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188765,
-      "num": 130307,
-      "word": "南京红山动物园开放动物认养",
-      "onboard_time": 1667815227,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "我最近的解压方式",
+      "onboard_time": 1667813188,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 186202,
@@ -1091,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168847,
-      "num": 168847,
-      "word": "航空工业说不能成为国足",
-      "onboard_time": 1667814867,
-      "rank": 26,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "超越",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1667795557,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161709,
-      "num": 161709,
-      "word": "我最近的解压方式",
-      "onboard_time": 1667813188,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 160965,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1667796756,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 149981,
+      "num": 149981,
+      "word": "莎头",
+      "onboard_time": 1667817146,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 149777,
@@ -1427,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111063,
+      "num": 111063,
+      "word": "这玩意儿也太气猫了",
+      "onboard_time": 1667817326,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "田雨新剧给张萌下跪",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1667765891,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107758,
+      "num": 88301,
+      "word": "陈飞宇新剧社死瞬间",
+      "onboard_time": 1667817807,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 107328,
@@ -1467,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104420,
+      "num": 104420,
+      "word": "emoji原型好像被我找到了",
+      "onboard_time": 1667815765,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "这是猫咪牌电动剃须刀吗",
@@ -1483,11 +1523,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101694,
+      "num": 101694,
+      "word": "央视曝光双十一新骗术",
+      "onboard_time": 1667817448,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100056,
       "num": 100056,
       "word": "萌娃消防站门口大哭不走如愿参观",
       "onboard_time": 1667794230,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99293,
+      "num": 99293,
+      "word": "女生挑战自己拔智齿鼓励网友",
+      "onboard_time": 1667816906,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1553,14 +1609,6 @@
       "onboard_time": 1667806466,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 91301,
-      "num": 91301,
-      "word": "emoji原型好像被我找到了",
-      "onboard_time": 1667815765,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 90446,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1667781148,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84452,
+      "num": 84452,
+      "word": "阮真真处处对人设防的原因",
+      "onboard_time": 1667817807,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 84352,
