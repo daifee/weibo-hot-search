@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667799022166,
+  "endTime": 1667799851959,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1302763,
+      "num": 1302763,
+      "word": "郑州平安街社区的万能的朋友圈",
+      "onboard_time": 1667795975,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250747,
       "num": 1250747,
       "word": "雷佳音说太丢人了这是直播",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1051313,
-      "num": 905998,
+      "num": 972363,
       "word": "国人买iPhone14Pro需工作22天",
       "onboard_time": 1667795015,
       "rank": 5,
@@ -89,14 +97,6 @@
       "onboard_time": 1667780910,
       "rank": 4,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 895863,
-      "num": 895863,
-      "word": "郑州平安街社区的万能的朋友圈",
-      "onboard_time": 1667795975,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840310,
@@ -201,6 +201,14 @@
       "onboard_time": 1667750666,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 487079,
+      "num": 487079,
+      "word": "陈飞宇回复张婧仪我可不哄人",
+      "onboard_time": 1667799089,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 484509,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310662,
+      "num": 276763,
+      "word": "鹿晗keepmealive",
+      "onboard_time": 1667798251,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "为什么年轻人开始回潮传统了",
@@ -491,6 +507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 235879,
+      "num": 164680,
+      "word": "张继科用手机侧边颠球24下",
+      "onboard_time": 1667795377,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233883,
       "num": 233883,
       "word": "老人给流浪猫穿亲手做的秋裤",
@@ -545,6 +569,14 @@
       "onboard_time": 1667735066,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215189,
+      "num": 215189,
+      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+      "onboard_time": 1667797832,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 215082,
@@ -603,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196190,
-      "num": 164680,
-      "word": "张继科用手机侧边颠球24下",
-      "onboard_time": 1667795377,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190121,
       "num": 172234,
       "word": "今天好多剧杀青",
@@ -659,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169430,
-      "num": 169430,
-      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
-      "onboard_time": 1667797832,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "超越",
@@ -691,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150305,
-      "num": 138747,
-      "word": "鹿晗keepmealive",
-      "onboard_time": 1667798251,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "万能卡",
@@ -707,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146993,
+      "num": 146993,
+      "word": "苹果减产300万部新iPhone",
+      "onboard_time": 1667796756,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144749,
       "num": 144749,
       "word": "无忧渡",
       "onboard_time": 1667778565,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143447,
+      "num": 143447,
+      "word": "网红面馆推8人份生日宴售价2999元引争议",
+      "onboard_time": 1667798969,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141873,
@@ -729,6 +753,14 @@
       "onboard_time": 1667790448,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137955,
+      "num": 133590,
+      "word": "男子湖边作画实景与画纸融为一体",
+      "onboard_time": 1667799806,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137788,
@@ -819,20 +851,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116563,
+      "num": 116563,
+      "word": "蔡文静彭冠英新剧好像重生文",
+      "onboard_time": 1667799629,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116170,
       "num": 116170,
       "word": "爸爸请朋友吃饭让学医女儿扎针练手",
       "onboard_time": 1667733926,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115763,
-      "num": 115763,
-      "word": "苹果减产300万部新iPhone",
-      "onboard_time": 1667796756,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 112592,
@@ -881,6 +913,14 @@
       "onboard_time": 1667791706,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "防疫不能层层加码要说到做到",
+      "onboard_time": 1667799390,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103600,
@@ -979,11 +1019,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90159,
-      "num": 90159,
-      "word": "网红面馆推8人份生日宴售价2999元引争议",
-      "onboard_time": 1667798969,
-      "rank": 48,
+      "raw_hot": 89354,
+      "num": 89354,
+      "word": "56岁妈妈在80岁姥姥面前也有反骨",
+      "onboard_time": 1667799390,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1009,6 +1049,14 @@
       "onboard_time": 1667747549,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86507,
+      "num": 86507,
+      "word": "郑州富士康发布预招工公告",
+      "onboard_time": 1667799270,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86434,
@@ -1100,7 +1148,7 @@
     },
     {
       "raw_hot": 71856,
-      "num": 935618,
+      "num": 1057076,
       "word": "携手构建网络空间命运共同体白皮书发布会",
       "onboard_time": 1667795743,
       "rank": 2,

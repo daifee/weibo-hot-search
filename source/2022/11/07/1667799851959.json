@@ -1,0 +1,410 @@
+{
+  "runTime": 1667799851959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2015673,
+        "num": 2015673,
+        "word": "饺子",
+        "onboard_time": 1667786185,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1302763,
+        "num": 1302763,
+        "word": "郑州平安街社区的万能的朋友圈",
+        "onboard_time": 1667795975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48874,
+        "num": 1057076,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 972363,
+        "num": 972363,
+        "word": "国人买iPhone14Pro需工作22天",
+        "onboard_time": 1667795015,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 653442,
+        "num": 653442,
+        "word": "杨幂狐妖抹嘴唇镜头",
+        "onboard_time": 1667793151,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490644,
+        "num": 490644,
+        "word": "马丽写小作文感谢何炅",
+        "onboard_time": 1667796157,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487079,
+        "num": 487079,
+        "word": "陈飞宇回复张婧仪我可不哄人",
+        "onboard_time": 1667799089,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466069,
+        "num": 466069,
+        "word": "英国伦敦爆发大规模抗议",
+        "onboard_time": 1667777302,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 354875,
+        "num": 354875,
+        "word": "广州新增本土感染者1935例",
+        "onboard_time": 1667784386,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284177,
+        "num": 284177,
+        "word": "十年不涨价商品八成是国货",
+        "onboard_time": 1667791888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993250,
+        "num": 281764,
+        "word": "赛琳娜回应捐肾好友取关",
+        "onboard_time": 1667787207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448993,
+        "num": 280852,
+        "word": "鸡毛飞上天",
+        "onboard_time": 1667792426,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310662,
+        "num": 276763,
+        "word": "鹿晗keepmealive",
+        "onboard_time": 1667798251,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272030,
+        "num": 272030,
+        "word": "为什么年轻人不排斥穿秋裤了",
+        "onboard_time": 1667790985,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3382,
+        "num": 239399,
+        "word": "米卢的回忆是球迷的青春",
+        "onboard_time": 1667797475,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222233,
+        "num": 222233,
+        "word": "iPhone14Pro收货需要等待更长时间",
+        "onboard_time": 1667786424,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219442,
+        "num": 219442,
+        "word": "醉汉趁情侣吵架上前搭讪被打",
+        "onboard_time": 1667784986,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215189,
+        "num": 215189,
+        "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+        "onboard_time": 1667797832,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210555,
+        "num": 210555,
+        "word": "郑州官方致歉",
+        "onboard_time": 1667739386,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197446,
+        "num": 197446,
+        "word": "老人给流浪猫穿亲手做的秋裤",
+        "onboard_time": 1667794114,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 270523,
+        "num": 193917,
+        "word": "这就是小说里的一眼万年吗",
+        "onboard_time": 1667790266,
+        "rank": 20,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 267232,
+        "num": 192104,
+        "word": "雷佳音说太丢人了这是直播",
+        "onboard_time": 1667784326,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263164,
+        "num": 186621,
+        "word": "长风渡立冬官宣",
+        "onboard_time": 1667793753,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180877,
+        "num": 180877,
+        "word": "苹果发表郑州富士康工厂声明",
+        "onboard_time": 1667780910,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 180180,
+        "num": 180180,
+        "word": "直播间9块9抢五桶泡面仅拇指大",
+        "onboard_time": 1667784628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244082,
+        "num": 175086,
+        "word": "时代少年团荣耀出题官",
+        "onboard_time": 1667798192,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156274,
+        "num": 156274,
+        "word": "大叔卖肉夹馍供出一个博士一个研究生",
+        "onboard_time": 1667793633,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146993,
+        "num": 146993,
+        "word": "苹果减产300万部新iPhone",
+        "onboard_time": 1667796756,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143447,
+        "num": 143447,
+        "word": "网红面馆推8人份生日宴售价2999元引争议",
+        "onboard_time": 1667798969,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139390,
+        "num": 139390,
+        "word": "广州疫情防控",
+        "onboard_time": 1667785151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1903765,
+        "num": 138835,
+        "word": "一位阳性密接外卖员的一天",
+        "onboard_time": 1667787386,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235879,
+        "num": 138392,
+        "word": "张继科用手机侧边颠球24下",
+        "onboard_time": 1667795377,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188835,
+        "num": 136986,
+        "word": "狐妖小红娘用了6种非遗文化",
+        "onboard_time": 1667795856,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171971,
+        "num": 136558,
+        "word": "任嘉伦宋祖儿新剧人设",
+        "onboard_time": 1667792486,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "马斯克让几十名被裁推特员工返岗",
+        "onboard_time": 1667784267,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 137955,
+        "num": 133590,
+        "word": "男子湖边作画实景与画纸融为一体",
+        "onboard_time": 1667799806,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127464,
+        "num": 127464,
+        "word": "学霸爸爸每天辅导儿子数学考43分",
+        "onboard_time": 1667778505,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125781,
+        "num": 125781,
+        "word": "为什么年轻人开始回潮传统了",
+        "onboard_time": 1667786424,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124413,
+        "num": 124413,
+        "word": "苹果HeySiri将改为Siri",
+        "onboard_time": 1667783548,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117118,
+        "num": 117118,
+        "word": "立冬",
+        "onboard_time": 1667776340,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162387,
+        "num": 116898,
+        "word": "郭晓婷涂山雅雅盼重逢",
+        "onboard_time": 1667792665,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135597,
+        "num": 116874,
+        "word": "殷桃 实至名归",
+        "onboard_time": 1667791407,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116563,
+        "num": 116563,
+        "word": "蔡文静彭冠英新剧好像重生文",
+        "onboard_time": 1667799629,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104205,
+        "num": 104205,
+        "word": "防疫不能层层加码要说到做到",
+        "onboard_time": 1667799390,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100695,
+        "num": 100695,
+        "word": "马斯克超级高铁启动全面测试",
+        "onboard_time": 1667789187,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98268,
+        "num": 98268,
+        "word": "为什么恋爱长跑会容易分手",
+        "onboard_time": 1667750666,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92854,
+        "num": 92854,
+        "word": "当代年轻人把解压整明白了",
+        "onboard_time": 1667790448,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89354,
+        "num": 89354,
+        "word": "56岁妈妈在80岁姥姥面前也有反骨",
+        "onboard_time": 1667799390,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86507,
+        "num": 86507,
+        "word": "郑州富士康发布预招工公告",
+        "onboard_time": 1667799270,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84276,
+        "num": 84276,
+        "word": "Meta将启动史上首次大规模裁员",
+        "onboard_time": 1667787987,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022进博会#"
+    }
+  }
+}

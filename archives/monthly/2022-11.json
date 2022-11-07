@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667799022166,
+  "endTime": 1667799851959,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1302763,
+      "num": 1302763,
+      "word": "郑州平安街社区的万能的朋友圈",
+      "onboard_time": 1667795975,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287546,
       "num": 1287546,
       "word": "老人离世无继承人遗产归国家",
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 1051313,
-      "num": 905998,
+      "num": 972363,
       "word": "国人买iPhone14Pro需工作22天",
       "onboard_time": 1667795015,
       "rank": 5,
@@ -1401,14 +1409,6 @@
       "onboard_time": 1667371830,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 895863,
-      "num": 895863,
-      "word": "郑州平安街社区的万能的朋友圈",
-      "onboard_time": 1667795975,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 893196,
@@ -3256,6 +3256,14 @@
       "word": "蔡文静新剧欠四千万还被出轨",
       "onboard_time": 1667372667,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 487079,
+      "num": 487079,
+      "word": "陈飞宇回复张婧仪我可不哄人",
+      "onboard_time": 1667799089,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -5235,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310662,
+      "num": 276763,
+      "word": "鹿晗keepmealive",
+      "onboard_time": 1667798251,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310617,
       "num": 310617,
       "word": "严浩翔分享自己大学生活",
@@ -6411,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235879,
+      "num": 164680,
+      "word": "张继科用手机侧边颠球24下",
+      "onboard_time": 1667795377,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235768,
       "num": 225129,
       "word": "黄鼠狼估计是气死的",
@@ -6923,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215189,
+      "num": 215189,
+      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
+      "onboard_time": 1667797832,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215082,
       "num": 215082,
       "word": "立冬意味着什么",
@@ -7432,14 +7464,6 @@
       "word": "任嘉伦终于在嗨放派打上了乒乓球",
       "onboard_time": 1667656108,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196190,
-      "num": 164680,
-      "word": "张继科用手机侧边颠球24下",
-      "onboard_time": 1667795377,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -8041,14 +8065,6 @@
       "onboard_time": 1667269466,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169430,
-      "num": 169430,
-      "word": "猫咪抢过主人手中食盆双爪捧碗吃",
-      "onboard_time": 1667797832,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 169140,
@@ -8731,14 +8747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150305,
-      "num": 138747,
-      "word": "鹿晗keepmealive",
-      "onboard_time": 1667798251,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 149532,
       "num": 89367,
       "word": "T1状态",
@@ -8867,6 +8875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146993,
+      "num": 146993,
+      "word": "苹果减产300万部新iPhone",
+      "onboard_time": 1667796756,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 146977,
       "num": 146977,
       "word": "海宁90后主播带羊群上班引围观",
@@ -8993,6 +9009,14 @@
       "onboard_time": 1667313749,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143447,
+      "num": 143447,
+      "word": "网红面馆推8人份生日宴售价2999元引争议",
+      "onboard_time": 1667798969,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143250,
@@ -9137,6 +9161,14 @@
       "onboard_time": 1667790448,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137955,
+      "num": 133590,
+      "word": "男子湖边作画实景与画纸融为一体",
+      "onboard_time": 1667799806,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137788,
@@ -10035,6 +10067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116563,
+      "num": 116563,
+      "word": "蔡文静彭冠英新剧好像重生文",
+      "onboard_time": 1667799629,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116530,
       "num": 116530,
       "word": "陈飞宇李峋的绅士手",
@@ -10057,14 +10097,6 @@
       "onboard_time": 1667463025,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115763,
-      "num": 115763,
-      "word": "苹果减产300万部新iPhone",
-      "onboard_time": 1667796756,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 115586,
@@ -10513,6 +10545,14 @@
       "onboard_time": 1667364811,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "防疫不能层层加码要说到做到",
+      "onboard_time": 1667799390,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104201,
@@ -11187,14 +11227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90159,
-      "num": 90159,
-      "word": "网红面馆推8人份生日宴售价2999元引争议",
-      "onboard_time": 1667798969,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90126,
       "num": 90126,
       "word": "王源新专辑vlog",
@@ -11233,6 +11265,14 @@
       "onboard_time": 1667465905,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89354,
+      "num": 89354,
+      "word": "56岁妈妈在80岁姥姥面前也有反骨",
+      "onboard_time": 1667799390,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89335,
@@ -11369,6 +11409,14 @@
       "onboard_time": 1667632707,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86507,
+      "num": 86507,
+      "word": "郑州富士康发布预招工公告",
+      "onboard_time": 1667799270,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86434,
@@ -12036,7 +12084,7 @@
     },
     {
       "raw_hot": 71856,
-      "num": 935618,
+      "num": 1057076,
       "word": "携手构建网络空间命运共同体白皮书发布会",
       "onboard_time": 1667795743,
       "rank": 2,
