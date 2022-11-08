@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667897184343,
+  "endTime": 1667899375922,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -33,6 +33,14 @@
       "onboard_time": 1667876727,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2045616,
+      "num": 103871,
+      "word": "张元英放弃高考",
+      "onboard_time": 1667899349,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1856736,
@@ -91,6 +99,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1091748,
+      "num": 1091748,
+      "word": "韩国地铁发生大规模人群聚集",
+      "onboard_time": 1667897006,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1067413,
       "num": 1044615,
       "word": "临沂多名防疫人员与居民发生冲突被拘",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1010478,
-      "num": 397528,
+      "num": 404455,
       "word": "陈飞宇被当面叫阿瑟的反应",
       "onboard_time": 1667893588,
       "rank": 10,
@@ -155,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 878258,
+      "num": 878258,
+      "word": "父母用全家姓给娃取名陈皮话梅糖",
+      "onboard_time": 1667894668,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848593,
       "num": 848593,
       "word": "北大食堂放了一架钢琴",
@@ -171,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810956,
+      "num": 810956,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 47,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 800931,
       "num": 800931,
       "word": "广州新增本土感染者2377例",
       "onboard_time": 1667871266,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794834,
+      "num": 794834,
+      "word": "你参加过成人礼吗",
+      "onboard_time": 1667894967,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 732016,
@@ -203,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681686,
+      "num": 681686,
+      "word": "优酷二刷剧集含量过高",
+      "onboard_time": 1667895687,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675661,
       "num": 675661,
       "word": "曝老板为让员工离职将座椅换塑料凳",
       "onboard_time": 1667865386,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632297,
-      "num": 632297,
-      "word": "优酷二刷剧集含量过高",
-      "onboard_time": 1667895687,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 614563,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 582743,
-      "num": 354812,
+      "num": 402325,
       "word": "阿瑟 这未必是护手霜啊",
       "onboard_time": 1667894428,
       "rank": 12,
@@ -289,6 +329,14 @@
       "onboard_time": 1667883690,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 513373,
+      "num": 230876,
+      "word": "杜华回应打造下一个王一博",
+      "onboard_time": 1667897308,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 513085,
@@ -395,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447090,
+      "num": 401569,
+      "word": "唐嫣 繁花",
+      "onboard_time": 1667896885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427106,
       "num": 405996,
       "word": "陈飞宇新浪扫楼",
@@ -443,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 414342,
-      "num": 414342,
-      "word": "父母用全家姓给娃取名陈皮话梅糖",
-      "onboard_time": 1667894668,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407100,
       "num": 407100,
       "word": "林允儿再获青龙影后提名",
@@ -464,6 +512,14 @@
       "word": "新疆新增无症状感染者585例",
       "onboard_time": 1667852952,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400520,
+      "num": 400520,
+      "word": "孟羽童再发文辟谣离职",
+      "onboard_time": 1667895806,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -547,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325678,
+      "num": 325678,
+      "word": "男子拆德芙巧克力发现蠕动活虫",
+      "onboard_time": 1667893405,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325190,
       "num": 325190,
       "word": "鲸整口吞下一群鱼画面太震撼",
@@ -555,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318645,
+      "num": 224454,
+      "word": "马嘉祺宋亚轩话剧万水朝东舞台照",
+      "onboard_time": 1667898149,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311729,
       "num": 311729,
       "word": "猫爪上留有狗狗被打的证据",
       "onboard_time": 1667885967,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306862,
+      "num": 306862,
+      "word": "北京新增本土感染者44例",
+      "onboard_time": 1667897728,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303757,
@@ -577,14 +657,6 @@
       "onboard_time": 1667867910,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 293658,
-      "num": 293658,
-      "word": "男子拆德芙巧克力发现蠕动活虫",
-      "onboard_time": 1667893405,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292402,
@@ -675,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260405,
+      "num": 146147,
+      "word": "点燃我温暖你",
+      "onboard_time": 1667898688,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260281,
       "num": 260281,
       "word": "歼20垂直拉升直插云海",
@@ -683,12 +763,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 256130,
-      "num": 256130,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 47,
-      "category": "自然,社会新闻"
+      "raw_hot": 251254,
+      "num": 175779,
+      "word": "阿瑟别坐了",
+      "onboard_time": 1667896586,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243155,
@@ -696,14 +776,6 @@
       "word": "11月7日新增本土无症状6632例",
       "onboard_time": 1667870069,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230850,
-      "num": 230850,
-      "word": "孟羽童再发文辟谣离职",
-      "onboard_time": 1667895806,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -939,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185675,
-      "num": 175779,
-      "word": "阿瑟别坐了",
-      "onboard_time": 1667896586,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184325,
       "num": 157804,
       "word": "点燃我温暖你评分涨至7.4分",
@@ -995,28 +1059,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 168707,
-      "num": 121499,
-      "word": "唐嫣 繁花",
-      "onboard_time": 1667896885,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
       "onboard_time": 1667876606,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167063,
-      "num": 167063,
-      "word": "你参加过成人礼吗",
-      "onboard_time": 1667894967,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 167057,
@@ -1123,12 +1171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138434,
+      "num": 138434,
+      "word": "地球出现月全食时月球将发生什么",
+      "onboard_time": 1667898806,
+      "rank": 35,
+      "category": "自然"
+    },
+    {
       "raw_hot": 138189,
       "num": 138189,
       "word": "东北幼崽能有多敞亮",
       "onboard_time": 1667882610,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136605,
+      "num": 136605,
+      "word": "女子奔丧请假4天被扣3000元工资",
+      "onboard_time": 1667899110,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134083,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1667824648,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129409,
+      "num": 129409,
+      "word": "月亮",
+      "onboard_time": 1667899227,
+      "rank": 37,
+      "category": "自然"
     },
     {
       "raw_hot": 129228,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1667885306,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119317,
+      "num": 119317,
+      "word": "猫猫是懂私人定制的",
+      "onboard_time": 1667895447,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 118903,
@@ -1339,14 +1419,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 96473,
-      "num": 96473,
-      "word": "猫猫是懂私人定制的",
-      "onboard_time": 1667895447,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94358,
       "num": 94358,
       "word": "这个跑秀像极了下班的我",
@@ -1368,14 +1440,6 @@
       "word": "台北故宫文物毁损视频首曝光",
       "onboard_time": 1667825547,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90256,
-      "num": 90256,
-      "word": "韩国地铁发生大规模人群聚集",
-      "onboard_time": 1667897006,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1425,6 +1489,14 @@
       "onboard_time": 1667824165,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86424,
+      "num": 86424,
+      "word": "小伙帮发小接亲撞门时门牙被撞断",
+      "onboard_time": 1667899286,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85855,
@@ -1601,6 +1673,14 @@
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36699,
+      "num": 401198,
+      "word": "进博的热度上海的温度",
+      "onboard_time": 1667898267,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29639,
