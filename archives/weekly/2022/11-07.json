@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667892959730,
+  "endTime": 1667896296935,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272010,
+      "num": 1272010,
+      "word": "张庭回应涉嫌传销案",
+      "onboard_time": 1667895267,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1250747,
       "num": 1250747,
       "word": "雷佳音说太丢人了这是直播",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051608,
+      "num": 1051608,
+      "word": "特朗普称将宣布重大消息",
+      "onboard_time": 1667891845,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1051313,
       "num": 972363,
       "word": "国人买iPhone14Pro需工作22天",
@@ -273,6 +289,14 @@
       "onboard_time": 1667877506,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 961504,
+      "num": 339355,
+      "word": "陈飞宇被当面叫阿瑟的反应",
+      "onboard_time": 1667893588,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 959019,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 614563,
-      "num": 385787,
+      "num": 419639,
       "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
       "onboard_time": 1667888007,
       "rank": 30,
@@ -521,6 +545,14 @@
       "onboard_time": 1667785151,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578686,
+      "num": 321483,
+      "word": "阿瑟 这未必是护手霜啊",
+      "onboard_time": 1667894428,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 578415,
@@ -723,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496318,
+      "num": 496318,
+      "word": "大叔卖完苹果花4万给老伴买首饰",
+      "onboard_time": 1667889869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495735,
       "num": 349127,
       "word": "赵丽颖呼吁大家多关注消防安全",
@@ -857,6 +897,14 @@
       "onboard_time": 1667886627,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453239,
+      "num": 315210,
+      "word": "优酷二刷剧集含量过高",
+      "onboard_time": 1667895687,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 453107,
@@ -1048,14 +1096,6 @@
       "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
       "onboard_time": 1667830649,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387849,
-      "num": 387849,
-      "word": "大叔卖完苹果花4万给老伴买首饰",
-      "onboard_time": 1667889869,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1371,14 +1411,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 297392,
-      "num": 297392,
-      "word": "特朗普称将宣布重大消息",
-      "onboard_time": 1667891845,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 295011,
       "num": 295011,
       "word": "脸上流露出自卑和尴尬的猫",
@@ -1451,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283472,
+      "num": 225628,
+      "word": "肖战登印尼财经报",
+      "onboard_time": 1667894787,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281364,
       "num": 180257,
       "word": "任嘉伦宋祖儿新剧人设",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1667815286,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278180,
+      "num": 179530,
+      "word": "Lisa扭到我心里了",
+      "onboard_time": 1667893949,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 277000,
@@ -1651,6 +1699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 237190,
+      "num": 237190,
+      "word": "父母用全家姓给娃取名陈皮话梅糖",
+      "onboard_time": 1667894668,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235879,
       "num": 164680,
       "word": "张继科用手机侧边颠球24下",
@@ -1699,12 +1755,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229750,
+      "num": 166832,
+      "word": "被李光洙和李栋旭笑死",
+      "onboard_time": 1667895987,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227454,
       "num": 227454,
       "word": "男子江边垂钓捞到猪鼻龟",
       "onboard_time": 1667779827,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226703,
+      "num": 156107,
+      "word": "王一博炙热的梦新歌预告",
+      "onboard_time": 1667895628,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 226283,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1667884468,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222585,
+      "num": 222585,
+      "word": "男子拆德芙巧克力发现蠕动活虫",
+      "onboard_time": 1667893405,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222225,
@@ -1907,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200828,
+      "num": 152233,
+      "word": "阿瑟把礼貌刻进DNA了吧",
+      "onboard_time": 1667893046,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199333,
       "num": 141152,
       "word": "打火机与公主裙 第八集",
@@ -1947,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194948,
+      "num": 194948,
+      "word": "电梯遇故障姐姐第一反应先护弟弟",
+      "onboard_time": 1667892326,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192811,
       "num": 192811,
       "word": "00后程序员写代码硬核表白女友",
@@ -1969,6 +2065,14 @@
       "onboard_time": 1667889808,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190649,
+      "num": 190649,
+      "word": "男子吃变质腌菜后血变蓝黑色",
+      "onboard_time": 1667891367,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190233,
@@ -2057,6 +2161,14 @@
       "onboard_time": 1667873786,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "如何像世界首富一样花钱",
+      "onboard_time": 1667892566,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182663,
@@ -2683,6 +2795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121259,
+      "num": 121259,
+      "word": "好想穿着羽绒服洗澡",
+      "onboard_time": 1667895267,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "神州大地美成了壁纸",
@@ -2713,6 +2833,14 @@
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117355,
+      "num": 117355,
+      "word": "孟羽童再发文辟谣离职",
+      "onboard_time": 1667895806,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116749,
@@ -2752,14 +2880,6 @@
       "word": "90后小伙包大屏登手写道歉信",
       "onboard_time": 1667880329,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114105,
-      "num": 114105,
-      "word": "男子吃变质腌菜后血变蓝黑色",
-      "onboard_time": 1667891367,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2833,14 +2953,6 @@
       "onboard_time": 1667831854,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108752,
-      "num": 108752,
-      "word": "电梯遇故障姐姐第一反应先护弟弟",
-      "onboard_time": 1667892326,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108008,
@@ -2993,14 +3105,6 @@
       "onboard_time": 1667792067,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 98617,
-      "num": 98617,
-      "word": "如何像世界首富一样花钱",
-      "onboard_time": 1667892566,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98560,
@@ -3275,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83283,
+      "num": 83283,
+      "word": "你参加过成人礼吗",
+      "onboard_time": 1667894967,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82817,
       "num": 82817,
       "word": "eStar有点唱功但不多",
@@ -3315,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80933,
+      "num": 80933,
+      "word": "猫猫是懂私人定制的",
+      "onboard_time": 1667895447,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80874,
       "num": 320557,
       "word": "煎饼哥10年免费教5000多人做煎饼",
@@ -3329,6 +3449,14 @@
       "onboard_time": 1667891786,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80359,
+      "num": 80359,
+      "word": "兵哥哥的一秒消失术",
+      "onboard_time": 1667894908,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80354,
@@ -3475,6 +3603,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 65229,
+      "num": 307369,
+      "word": "媒体人有了一首属于自己的歌",
+      "onboard_time": 1667894487,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64885,
       "num": 64885,
       "word": "航拍中国第四季",
@@ -3561,6 +3697,14 @@
       "onboard_time": 1667745875,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40567,
+      "num": 116925,
+      "word": "双十一猜中夺冠球队退全款",
+      "onboard_time": 1667894428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35061,

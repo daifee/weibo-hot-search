@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667892959730,
+  "endTime": 1667896296935,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272010,
+      "num": 1272010,
+      "word": "张庭回应涉嫌传销案",
+      "onboard_time": 1667895267,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1150744,
       "num": 384080,
       "word": "赛琳娜给新肾脏命名",
@@ -91,6 +99,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1051608,
+      "num": 1051608,
+      "word": "特朗普称将宣布重大消息",
+      "onboard_time": 1667891845,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1029611,
       "num": 1029611,
       "word": "重庆嘉陵江惊现巨大阴沉木",
@@ -113,6 +129,14 @@
       "onboard_time": 1667877506,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 961504,
+      "num": 339355,
+      "word": "陈飞宇被当面叫阿瑟的反应",
+      "onboard_time": 1667893588,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 959019,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 614563,
-      "num": 385787,
+      "num": 419639,
       "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
       "onboard_time": 1667888007,
       "rank": 30,
@@ -209,6 +233,14 @@
       "onboard_time": 1667885367,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578686,
+      "num": 321483,
+      "word": "阿瑟 这未必是护手霜啊",
+      "onboard_time": 1667894428,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 577059,
@@ -283,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496318,
+      "num": 496318,
+      "word": "大叔卖完苹果花4万给老伴买首饰",
+      "onboard_time": 1667889869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495735,
       "num": 349127,
       "word": "赵丽颖呼吁大家多关注消防安全",
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453239,
+      "num": 315210,
+      "word": "优酷二刷剧集含量过高",
+      "onboard_time": 1667895687,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427106,
       "num": 405996,
       "word": "陈飞宇新浪扫楼",
@@ -408,14 +456,6 @@
       "word": "新疆新增无症状感染者585例",
       "onboard_time": 1667852952,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387849,
-      "num": 387849,
-      "word": "大叔卖完苹果花4万给老伴买首饰",
-      "onboard_time": 1667889869,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -523,14 +563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 297392,
-      "num": 297392,
-      "word": "特朗普称将宣布重大消息",
-      "onboard_time": 1667891845,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 292402,
       "num": 292402,
       "word": "李峋朱韵暗恋等于明恋",
@@ -547,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283472,
+      "num": 225628,
+      "word": "肖战登印尼财经报",
+      "onboard_time": 1667894787,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281101,
       "num": 281101,
       "word": "你有肌肤饥渴症吗",
@@ -561,6 +601,14 @@
       "onboard_time": 1667822965,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278180,
+      "num": 179530,
+      "word": "Lisa扭到我心里了",
+      "onboard_time": 1667893949,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 274583,
@@ -619,6 +667,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237190,
+      "num": 237190,
+      "word": "父母用全家姓给娃取名陈皮话梅糖",
+      "onboard_time": 1667894668,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229750,
+      "num": 166832,
+      "word": "被李光洙和李栋旭笑死",
+      "onboard_time": 1667895987,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226703,
+      "num": 156107,
+      "word": "王一博炙热的梦新歌预告",
+      "onboard_time": 1667895628,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "家中起火白狗熏成黑狗趴窗求救",
@@ -649,6 +721,14 @@
       "onboard_time": 1667884468,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222585,
+      "num": 222585,
+      "word": "男子拆德芙巧克力发现蠕动活虫",
+      "onboard_time": 1667893405,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222225,
@@ -723,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200828,
+      "num": 152233,
+      "word": "阿瑟把礼貌刻进DNA了吧",
+      "onboard_time": 1667893046,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198310,
       "num": 198310,
       "word": "广州海珠区社会面疫情防控延长至11日",
@@ -745,6 +833,14 @@
       "onboard_time": 1667869468,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194948,
+      "num": 194948,
+      "word": "电梯遇故障姐姐第一反应先护弟弟",
+      "onboard_time": 1667892326,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193032,
@@ -779,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190649,
+      "num": 190649,
+      "word": "男子吃变质腌菜后血变蓝黑色",
+      "onboard_time": 1667891367,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190233,
       "num": 190233,
       "word": "谢谢你医生网红为博流量假受伤",
@@ -809,6 +913,14 @@
       "onboard_time": 1667873786,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "如何像世界首富一样花钱",
+      "onboard_time": 1667892566,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182663,
@@ -1011,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121259,
+      "num": 121259,
+      "word": "好想穿着羽绒服洗澡",
+      "onboard_time": 1667895267,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119730,
       "num": 119730,
       "word": "白术治好了我的纠结症",
@@ -1035,19 +1155,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117355,
+      "num": 117355,
+      "word": "孟羽童再发文辟谣离职",
+      "onboard_time": 1667895806,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "90后小伙包大屏登手写道歉信",
       "onboard_time": 1667880329,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114105,
-      "num": 114105,
-      "word": "男子吃变质腌菜后血变蓝黑色",
-      "onboard_time": 1667891367,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1089,14 +1209,6 @@
       "onboard_time": 1667830654,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108752,
-      "num": 108752,
-      "word": "电梯遇故障姐姐第一反应先护弟弟",
-      "onboard_time": 1667892326,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108008,
@@ -1177,14 +1289,6 @@
       "onboard_time": 1667871926,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98617,
-      "num": 98617,
-      "word": "如何像世界首富一样花钱",
-      "onboard_time": 1667892566,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98560,
@@ -1275,12 +1379,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 83283,
+      "num": 83283,
+      "word": "你参加过成人礼吗",
+      "onboard_time": 1667894967,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80933,
+      "num": 80933,
+      "word": "猫猫是懂私人定制的",
+      "onboard_time": 1667895447,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80793,
       "num": 80793,
       "word": "没见过这么配合洗澡的猫",
       "onboard_time": 1667891786,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80359,
+      "num": 80359,
+      "word": "兵哥哥的一秒消失术",
+      "onboard_time": 1667894908,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79638,
@@ -1321,6 +1449,14 @@
       "onboard_time": 1667831854,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65229,
+      "num": 307369,
+      "word": "媒体人有了一首属于自己的歌",
+      "onboard_time": 1667894487,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64885,
@@ -1409,6 +1545,14 @@
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40567,
+      "num": 116925,
+      "word": "双十一猜中夺冠球队退全款",
+      "onboard_time": 1667894428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29639,
