@@ -1,0 +1,410 @@
+{
+  "runTime": 1667874677734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962531,
+        "num": 962531,
+        "word": "消费者称李佳琦直播间产品比官方贵",
+        "onboard_time": 1667830050,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 800931,
+        "num": 800931,
+        "word": "广州新增本土感染者2377例",
+        "onboard_time": 1667871266,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6472,
+        "num": 527948,
+        "word": "携手构建网络空间命运共同体白皮书发布会",
+        "onboard_time": 1667795743,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2355748,
+        "num": 516430,
+        "word": "37岁女子流产停胎26次后得女",
+        "onboard_time": 1667870547,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449843,
+        "num": 449843,
+        "word": "曝老板为让员工离职将座椅换塑料凳",
+        "onboard_time": 1667865386,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440069,
+        "num": 440069,
+        "word": "小伙清理舌苔误吞18厘米长牙刷",
+        "onboard_time": 1667863883,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421095,
+        "num": 421095,
+        "word": "外卖员的真实收入有多少",
+        "onboard_time": 1667871747,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416784,
+        "num": 416784,
+        "word": "成都疫情防控",
+        "onboard_time": 1667868450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337690,
+        "num": 337690,
+        "word": "永远不要试探父母的爱",
+        "onboard_time": 1667866593,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 330324,
+        "num": 330324,
+        "word": "韩国踩踏事故6人被立案调查",
+        "onboard_time": 1667846532,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924363,
+        "num": 328695,
+        "word": "内娱现存的男团",
+        "onboard_time": 1667871027,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 824878,
+        "num": 323603,
+        "word": "赛琳娜给新肾脏命名",
+        "onboard_time": 1667865206,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751055,
+        "num": 320575,
+        "word": "司机下车上厕所被要求隔离七天",
+        "onboard_time": 1667864785,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600892,
+        "num": 317671,
+        "word": "北大食堂放了一架钢琴",
+        "onboard_time": 1667872707,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565425,
+        "num": 314331,
+        "word": "蒋依依探班赵露思偷偷藏不住",
+        "onboard_time": 1667870247,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497734,
+        "num": 310102,
+        "word": "限定团解散博",
+        "onboard_time": 1667871627,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495735,
+        "num": 305385,
+        "word": "赵丽颖呼吁大家多关注消防安全",
+        "onboard_time": 1667874207,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 484475,
+        "num": 302132,
+        "word": "第一个总部设在中国的政府间国际组织",
+        "onboard_time": 1667869168,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 352498,
+        "num": 297824,
+        "word": "霍华德加盟台湾联赛",
+        "onboard_time": 1667873667,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295481,
+        "num": 295481,
+        "word": "嫌打篮球太吵老人从7楼扔饮料瓶",
+        "onboard_time": 1667864123,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271814,
+        "num": 271814,
+        "word": "朱韵好爱李峋",
+        "onboard_time": 1667866229,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240547,
+        "num": 240547,
+        "word": "鲸整口吞下一群鱼画面太震撼",
+        "onboard_time": 1667864008,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222225,
+        "num": 222225,
+        "word": "陈都灵下车氛围感神图",
+        "onboard_time": 1667872586,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219437,
+        "num": 219437,
+        "word": "中国运20让外国军人惊叹",
+        "onboard_time": 1667867489,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 192811,
+        "num": 192811,
+        "word": "00后程序员写代码硬核表白女友",
+        "onboard_time": 1667871147,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187117,
+        "num": 187117,
+        "word": "特斯拉股价跌回一年半前",
+        "onboard_time": 1667867910,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185715,
+        "num": 185715,
+        "word": "11月7日新增本土无症状6632例",
+        "onboard_time": 1667870069,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184789,
+        "num": 184789,
+        "word": "IXFORM今天解散了",
+        "onboard_time": 1667870967,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182206,
+        "num": 182206,
+        "word": "北京昨新增1例社会面筛查人员",
+        "onboard_time": 1667867489,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173468,
+        "num": 173468,
+        "word": "成都两名15岁学生被清华录取本硕博连读",
+        "onboard_time": 1667873667,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178943,
+        "num": 171391,
+        "word": "疯狂动物城衍生剧正式预告",
+        "onboard_time": 1667869468,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164396,
+        "num": 164396,
+        "word": "刘宇宁一念关山抢婚造型",
+        "onboard_time": 1667864670,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147335,
+        "num": 147335,
+        "word": "手机厂商集体大降价",
+        "onboard_time": 1667835150,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 144697,
+        "num": 144697,
+        "word": "NCT新官方账号公开",
+        "onboard_time": 1667874566,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140980,
+        "num": 140980,
+        "word": "俞敏洪称10年吃了3000片安眠药",
+        "onboard_time": 1667829447,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 133045,
+        "word": "史上最凶班主任经证实为网红",
+        "onboard_time": 1667823625,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130919,
+        "num": 130919,
+        "word": "家中起火白狗熏成黑狗趴窗求救",
+        "onboard_time": 1667835628,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129140,
+        "num": 129140,
+        "word": "95后女孩瘫痪20年自学捏粘土售卖",
+        "onboard_time": 1667857211,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127100,
+        "num": 127100,
+        "word": "黄婷婷被判与丝芭传媒解约",
+        "onboard_time": 1667835029,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118524,
+        "num": 118524,
+        "word": "新疆新增无症状感染者585例",
+        "onboard_time": 1667852952,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 116184,
+        "word": "利刃出鞘2正式预告",
+        "onboard_time": 1667871207,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123161,
+        "num": 115989,
+        "word": "IVE将出演红白歌会",
+        "onboard_time": 1667872168,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113091,
+        "num": 113091,
+        "word": "公主 你当我是豆腐做的",
+        "onboard_time": 1667843475,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110414,
+        "num": 110414,
+        "word": "为什么很多人不愿意恋爱了",
+        "onboard_time": 1667839701,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104778,
+        "num": 104778,
+        "word": "北京朝阳新增多个高中风险区",
+        "onboard_time": 1667867310,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 104345,
+        "word": "广东新增本土感染者2528例",
+        "onboard_time": 1667873904,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100880,
+        "num": 100880,
+        "word": "山西定襄外卖员回应日送65单",
+        "onboard_time": 1667865331,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92348,
+        "num": 92348,
+        "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
+        "onboard_time": 1667830649,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89431,
+        "num": 89431,
+        "word": "央视曝光双十一新骗术",
+        "onboard_time": 1667817448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88192,
+        "num": 88192,
+        "word": "开发者称苹果追踪用户浏览AppStore",
+        "onboard_time": 1667874507,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022中国航展#"
+    }
+  }
+}

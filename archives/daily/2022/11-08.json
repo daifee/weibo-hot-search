@@ -1,7 +1,15 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667872720703,
+  "endTime": 1667874677734,
   "band_list": [
+    {
+      "raw_hot": 2355748,
+      "num": 573236,
+      "word": "37岁女子流产停胎26次后得女",
+      "onboard_time": 1667870547,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1751138,
       "num": 1751138,
@@ -9,14 +17,6 @@
       "onboard_time": 1667830050,
       "rank": 0,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1733247,
-      "num": 573236,
-      "word": "37岁女子流产停胎26次后得女",
-      "onboard_time": 1667870547,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1318630,
@@ -43,11 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 924363,
+      "num": 379452,
+      "word": "内娱现存的男团",
+      "onboard_time": 1667871027,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 815302,
       "num": 815302,
       "word": "韩国踩踏事故6人被立案调查",
       "onboard_time": 1667846532,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800931,
+      "num": 800931,
+      "word": "广州新增本土感染者2377例",
+      "onboard_time": 1667871266,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -67,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673827,
-      "num": 379452,
-      "word": "内娱现存的男团",
-      "onboard_time": 1667871027,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 600892,
+      "num": 317671,
+      "word": "北大食堂放了一架钢琴",
+      "onboard_time": 1667872707,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589954,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495735,
+      "num": 305385,
+      "word": "赵丽颖呼吁大家多关注消防安全",
+      "onboard_time": 1667874207,
+      "rank": 16,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 485466,
       "num": 485466,
       "word": "手机厂商集体大降价",
@@ -171,19 +195,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 421095,
+      "num": 421095,
+      "word": "外卖员的真实收入有多少",
+      "onboard_time": 1667871747,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401911,
       "num": 401911,
       "word": "新疆新增无症状感染者585例",
       "onboard_time": 1667852952,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401871,
-      "num": 401871,
-      "word": "广州新增本土感染者2377例",
-      "onboard_time": 1667871266,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1667866229,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352498,
+      "num": 297824,
+      "word": "霍华德加盟台湾联赛",
+      "onboard_time": 1667873667,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 337644,
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222225,
+      "num": 222225,
+      "word": "陈都灵下车氛围感神图",
+      "onboard_time": 1667872586,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220836,
       "num": 220836,
       "word": "江西的早餐有多便宜",
@@ -395,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192811,
+      "num": 192811,
+      "word": "00后程序员写代码硬核表白女友",
+      "onboard_time": 1667871147,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191284,
       "num": 191284,
       "word": "IXFORM今天解散了",
@@ -419,11 +467,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183878,
-      "num": 183878,
-      "word": "外卖员的真实收入有多少",
-      "onboard_time": 1667871747,
-      "rank": 27,
+      "raw_hot": 173468,
+      "num": 173468,
+      "word": "成都两名15岁学生被清华录取本硕博连读",
+      "onboard_time": 1667873667,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -459,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163645,
-      "num": 163645,
-      "word": "陈都灵下车氛围感神图",
-      "onboard_time": 1667872586,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161867,
       "num": 161867,
       "word": "山西定襄外卖员回应日送65单",
@@ -481,6 +521,14 @@
       "onboard_time": 1667867310,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144697,
+      "num": 144697,
+      "word": "NCT新官方账号公开",
+      "onboard_time": 1667874566,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 143498,
@@ -515,19 +563,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135663,
-      "num": 135663,
-      "word": "00后程序员写代码硬核表白女友",
-      "onboard_time": 1667871147,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131595,
       "num": 131595,
       "word": "李峋吃醋",
       "onboard_time": 1667824648,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125500,
+      "num": 116184,
+      "word": "利刃出鞘2正式预告",
+      "onboard_time": 1667871207,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -571,20 +619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104345,
+      "num": 104345,
+      "word": "广东新增本土感染者2528例",
+      "onboard_time": 1667873904,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104096,
       "num": 104096,
       "word": "间谍过家家",
       "onboard_time": 1667828487,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 103399,
-      "num": 103399,
-      "word": "北大食堂放了一架钢琴",
-      "onboard_time": 1667872707,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101481,
@@ -617,6 +665,14 @@
       "onboard_time": 1667825547,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88192,
+      "num": 88192,
+      "word": "开发者称苹果追踪用户浏览AppStore",
+      "onboard_time": 1667874507,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 87037,
