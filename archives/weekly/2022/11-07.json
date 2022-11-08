@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667880860569,
+  "endTime": 1667882902252,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2126315,
-      "num": 2126315,
+      "raw_hot": 2209947,
+      "num": 2209947,
       "word": "男子月薪5万试用3天被解雇",
       "onboard_time": 1667876727,
       "rank": 11,
@@ -227,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 979347,
+      "num": 979347,
+      "word": "知名糕点门店老鼠在展柜旁乱窜",
+      "onboard_time": 1667877506,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959019,
       "num": 338039,
       "word": "黄婷婷被判与丝芭传媒解约",
@@ -259,6 +267,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 906518,
+      "num": 906518,
+      "word": "重庆嘉陵江惊现巨大阴沉木",
+      "onboard_time": 1667880029,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848593,
       "num": 848593,
       "word": "北大食堂放了一架钢琴",
@@ -272,14 +288,6 @@
       "word": "立冬",
       "onboard_time": 1667776340,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830837,
-      "num": 830837,
-      "word": "知名糕点门店老鼠在展柜旁乱窜",
-      "onboard_time": 1667877506,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539498,
+      "num": 539498,
+      "word": "钟睒睒再度成为中国首富",
+      "onboard_time": 1667877686,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 526043,
       "num": 526043,
       "word": "毛雪汪下期有王源",
@@ -649,6 +665,14 @@
       "onboard_time": 1667798969,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487929,
+      "num": 367302,
+      "word": "陈铭课堂再提刘雨昕",
+      "onboard_time": 1667881469,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 486865,
@@ -899,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399748,
-      "num": 322828,
-      "word": "钟睒睒再度成为中国首富",
-      "onboard_time": 1667877686,
-      "rank": 29,
-      "category": "财经,社会新闻"
+      "raw_hot": 393922,
+      "num": 393922,
+      "word": "林允儿再获青龙影后提名",
+      "onboard_time": 1667878467,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 392035,
@@ -985,6 +1009,14 @@
       "onboard_time": 1667792665,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359830,
+      "num": 359830,
+      "word": "丹羽孝希退出国际比赛",
+      "onboard_time": 1667880508,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 352498,
@@ -1123,12 +1155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322235,
-      "num": 322235,
-      "word": "林允儿再获青龙影后提名",
-      "onboard_time": 1667878467,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 310822,
+      "num": 310822,
+      "word": "男子嘴馋偷摘农户14个柚子被拘",
+      "onboard_time": 1667879967,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310662,
@@ -1395,14 +1427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 245463,
-      "num": 245463,
-      "word": "重庆嘉陵江惊现巨大阴沉木",
-      "onboard_time": 1667880029,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244967,
       "num": 244967,
       "word": "56岁妈妈在80岁姥姥面前也有反骨",
@@ -1480,6 +1504,14 @@
       "word": "赵露思偷偷藏不住杀青视频",
       "onboard_time": 1667835628,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231387,
+      "num": 231387,
+      "word": "李峋朱韵暗恋等于明恋",
+      "onboard_time": 1667879910,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201830,
-      "num": 145430,
-      "word": "李峋朱韵暗恋等于明恋",
-      "onboard_time": 1667879910,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201021,
       "num": 168584,
       "word": "陈飞宇张婧仪新剧豆瓣7.2",
@@ -1891,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172871,
+      "num": 151853,
+      "word": "三轮司机抢行致公交乘客死亡被判刑",
+      "onboard_time": 1667881410,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "李峋被朱韵反撩的反应",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1667795557,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161926,
+      "num": 161926,
+      "word": "超6成00后不知道光棍节",
+      "onboard_time": 1667880869,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161867,
@@ -2107,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144923,
+      "num": 144923,
+      "word": "狗狗也能听懂好赖话",
+      "onboard_time": 1667880086,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144820,
       "num": 144820,
       "word": "崔然竣翻跳WeFresh",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133044,
+      "num": 133044,
+      "word": "王者姜子牙概念动画",
+      "onboard_time": 1667880388,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 132199,
@@ -2436,7 +2492,7 @@
     },
     {
       "raw_hot": 112101,
-      "num": 1612347,
+      "num": 1651664,
       "word": "今天记者节",
       "onboard_time": 1667877148,
       "rank": 2,
@@ -2515,14 +2571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106031,
-      "num": 106031,
-      "word": "王者姜子牙概念动画",
-      "onboard_time": 1667880388,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105406,
       "num": 105406,
       "word": "狐妖小红娘镜头美学",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1667837905,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104492,
+      "num": 104492,
+      "word": "哈特三分绝杀热火",
+      "onboard_time": 1667881410,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 104345,
@@ -2611,20 +2667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101055,
-      "num": 101055,
-      "word": "狗狗也能听懂好赖话",
-      "onboard_time": 1667880086,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100782,
       "num": 100782,
       "word": "特斯拉卖一辆车比丰田多赚8倍",
       "onboard_time": 1667871926,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100752,
+      "num": 100752,
+      "word": "10款网红奶茶9款含咖啡因",
+      "onboard_time": 1667882190,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100056,
@@ -2707,12 +2763,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92120,
-      "num": 92120,
-      "word": "男子嘴馋偷摘农户14个柚子被拘",
-      "onboard_time": 1667879967,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 92539,
+      "num": 92539,
+      "word": "东北幼崽能有多敞亮",
+      "onboard_time": 1667882610,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91845,
@@ -2929,14 +2985,6 @@
       "onboard_time": 1667720186,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80947,
-      "num": 80947,
-      "word": "丹羽孝希退出国际比赛",
-      "onboard_time": 1667880508,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80874,
