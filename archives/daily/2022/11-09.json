@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667946193127,
+  "endTime": 1667947194622,
   "band_list": [
     {
       "raw_hot": 1502540,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310706,
+      "num": 310706,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277139,
       "num": 277139,
       "word": "韩国地铁发生大规模人群聚集",
@@ -136,14 +144,6 @@
       "word": "郑州社区书记同名公司老总女儿发声",
       "onboard_time": 1667924306,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240469,
-      "num": 240469,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168307,
+      "num": 168307,
+      "word": "95后小伙鹤岗买房后云监工装修",
+      "onboard_time": 1667924965,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168169,
       "num": 168169,
       "word": "王曼昱",
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152890,
+      "num": 88479,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141958,
       "num": 118863,
       "word": "陈飞宇说婧仪拜拜",
       "onboard_time": 1667921610,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140951,
-      "num": 140951,
-      "word": "95后小伙鹤岗买房后云监工装修",
-      "onboard_time": 1667924965,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136602,
@@ -305,14 +313,6 @@
       "onboard_time": 1667928556,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 108981,
-      "num": 58755,
-      "word": "女生裹被子屋外躺平晒太阳",
-      "onboard_time": 1667939412,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108613,
@@ -475,6 +475,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50982,
+      "num": 50982,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 46696,
+      "num": 46696,
+      "word": "泰妍露腰装",
+      "onboard_time": 1667942111,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45638,
+      "num": 45638,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 43939,
+      "num": 43939,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 41981,
       "num": 50212,
       "word": "用狗子头像谱成的曲子",
@@ -499,27 +531,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 32858,
-      "num": 29986,
-      "word": "民警翻垃圾6小时为女孩寻回救命药",
-      "onboard_time": 1667935332,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 30405,
-      "num": 27191,
-      "word": "泽连斯基将参加G20峰会",
-      "onboard_time": 1667937851,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 28594,
-      "num": 28594,
-      "word": "王鹤棣陈钰琪浮图缘预约破250w",
-      "onboard_time": 1667941512,
-      "rank": 45,
+      "raw_hot": 29226,
+      "num": 24368,
+      "word": "国内最成功的的小妞电影是哪部",
+      "onboard_time": 1667936891,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -531,24 +547,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24592,
-      "num": 24592,
-      "word": "泰妍露腰装",
-      "onboard_time": 1667942111,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24026,
-      "num": 24026,
-      "word": "国内最成功的的小妞电影是哪部",
-      "onboard_time": 1667936891,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 17120,
-      "num": 17120,
+      "raw_hot": 24612,
+      "num": 24612,
       "word": "全面加强练兵备战",
       "onboard_time": 1667943132,
       "rank": 49,

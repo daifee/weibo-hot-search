@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667946193127,
+  "endTime": 1667947194622,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1747,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310706,
+      "num": 310706,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310662,
       "num": 276763,
       "word": "鹿晗keepmealive",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1667906428,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240469,
-      "num": 240469,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239037,
@@ -2907,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168307,
+      "num": 168307,
+      "word": "95后小伙鹤岗买房后云监工装修",
+      "onboard_time": 1667924965,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
@@ -3107,6 +3115,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 152890,
+      "num": 88479,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152768,
       "num": 152768,
       "word": "这玩意儿也太气猫了",
@@ -3297,14 +3313,6 @@
       "onboard_time": 1667851992,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 140951,
-      "num": 140951,
-      "word": "95后小伙鹤岗买房后云监工装修",
-      "onboard_time": 1667924965,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139605,
@@ -3769,14 +3777,6 @@
       "onboard_time": 1667831854,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108981,
-      "num": 58755,
-      "word": "女生裹被子屋外躺平晒太阳",
-      "onboard_time": 1667939412,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108613,
@@ -4683,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50982,
+      "num": 50982,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 50888,
       "num": 46779,
       "word": "热刺vs利物浦",
@@ -4723,12 +4731,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46696,
+      "num": 46696,
+      "word": "泰妍露腰装",
+      "onboard_time": 1667942111,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45638,
+      "num": 45638,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 45622,
       "num": 53652,
       "word": "周恺vs周启豪",
       "onboard_time": 1667745875,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43939,
+      "num": 43939,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 43858,
@@ -4763,22 +4795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32858,
-      "num": 29986,
-      "word": "民警翻垃圾6小时为女孩寻回救命药",
-      "onboard_time": 1667935332,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 30405,
-      "num": 27191,
-      "word": "泽连斯基将参加G20峰会",
-      "onboard_time": 1667937851,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 29639,
       "num": 318323,
       "word": "山东96岁老人为烈士守墓36载",
@@ -4787,28 +4803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28594,
-      "num": 28594,
-      "word": "王鹤棣陈钰琪浮图缘预约破250w",
-      "onboard_time": 1667941512,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24592,
-      "num": 24592,
-      "word": "泰妍露腰装",
-      "onboard_time": 1667942111,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24026,
-      "num": 24026,
+      "raw_hot": 29226,
+      "num": 24368,
       "word": "国内最成功的的小妞电影是哪部",
       "onboard_time": 1667936891,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24612,
+      "num": 24612,
+      "word": "全面加强练兵备战",
+      "onboard_time": 1667943132,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 23068,
@@ -4817,14 +4825,6 @@
       "onboard_time": 1667852891,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17120,
-      "num": 17120,
-      "word": "全面加强练兵备战",
-      "onboard_time": 1667943132,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 15669,
