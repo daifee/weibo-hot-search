@@ -1,0 +1,410 @@
+{
+  "runTime": 1667892034263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2243863,
+        "num": 2243863,
+        "word": "张婉婷 让人窒息",
+        "onboard_time": 1667888187,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1495492,
+        "num": 1495492,
+        "word": "南京大学回应",
+        "onboard_time": 1667887110,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74725,
+        "num": 1174627,
+        "word": "今天记者节",
+        "onboard_time": 1667877148,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1060917,
+        "num": 1060917,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1667888426,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 801393,
+        "num": 801393,
+        "word": "男子月薪5万试用3天被解雇",
+        "onboard_time": 1667876727,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730616,
+        "num": 730616,
+        "word": "张庭陶虹等涉嫌传销案听证会结束",
+        "onboard_time": 1667875945,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 548311,
+        "num": 548311,
+        "word": "开设女生自习室被指性别歧视",
+        "onboard_time": 1667885367,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530075,
+        "num": 530075,
+        "word": "王源MV女主黄思瑞",
+        "onboard_time": 1667876064,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 504700,
+        "num": 504700,
+        "word": "女生戒碳水减肥暴瘦后局部秃头",
+        "onboard_time": 1667882969,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324598,
+        "num": 324598,
+        "word": "重庆嘉陵江惊现巨大阴沉木",
+        "onboard_time": 1667880029,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531313,
+        "num": 324435,
+        "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+        "onboard_time": 1667888007,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517126,
+        "num": 321271,
+        "word": "吴宣仪提前一星期被通知参加创造101",
+        "onboard_time": 1667889027,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515964,
+        "num": 319376,
+        "word": "37岁女子流产停胎26次后得女",
+        "onboard_time": 1667870547,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478197,
+        "num": 319113,
+        "word": "临沂多名防疫人员与居民发生冲突被拘",
+        "onboard_time": 1667875466,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 359711,
+        "num": 316232,
+        "word": "白敬亭田曦薇卿卿日常定档11月10日",
+        "onboard_time": 1667891427,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315800,
+        "num": 315800,
+        "word": "陈飞宇新浪扫楼",
+        "onboard_time": 1667888367,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277248,
+        "num": 277248,
+        "word": "这小猫也太油腻了吧",
+        "onboard_time": 1667883690,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274132,
+        "num": 274132,
+        "word": "98斤女生扛180斤男生做力量训练",
+        "onboard_time": 1667887527,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262736,
+        "num": 262736,
+        "word": "大叔卖完苹果花4万给老伴买首饰",
+        "onboard_time": 1667889869,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262659,
+        "num": 262659,
+        "word": "武汉一人工湖中钓起鳄雀鳝",
+        "onboard_time": 1667886506,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260281,
+        "num": 260281,
+        "word": "歼20垂直拉升直插云海",
+        "onboard_time": 1667887646,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 255017,
+        "num": 255017,
+        "word": "胡彦斌再见爱人边哭边吸氧",
+        "onboard_time": 1667885665,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251762,
+        "num": 251762,
+        "word": "库里47分8篮板",
+        "onboard_time": 1667886205,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239195,
+        "num": 239195,
+        "word": "你有肌肤饥渴症吗",
+        "onboard_time": 1667888967,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238389,
+        "num": 238389,
+        "word": "方艺潭MASHIHO退出TREASURE",
+        "onboard_time": 1667886627,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209046,
+        "num": 209046,
+        "word": "快递可以不拿但不能不到",
+        "onboard_time": 1667884408,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197225,
+        "num": 197225,
+        "word": "猫爪上留有狗狗被打的证据",
+        "onboard_time": 1667885967,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 189220,
+        "word": "程潇曾对龙韵竹说乐华未来靠你了",
+        "onboard_time": 1667890286,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182663,
+        "num": 182663,
+        "word": "谁能拒绝好看的赠品啊",
+        "onboard_time": 1667887286,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167361,
+        "num": 167361,
+        "word": "成都两名15岁学生被清华录取本硕博连读",
+        "onboard_time": 1667873667,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166081,
+        "num": 166081,
+        "word": "吴京威名远扬",
+        "onboard_time": 1667889808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152259,
+        "num": 152259,
+        "word": "三轮司机抢行致公交乘客死亡被判刑",
+        "onboard_time": 1667881410,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "宋宁峰脾气真好",
+        "onboard_time": 1667890767,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "鹿晗新歌霸榜",
+        "onboard_time": 1667884468,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124613,
+        "num": 124613,
+        "word": "司机下车上厕所被要求隔离七天",
+        "onboard_time": 1667864785,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118340,
+        "num": 118340,
+        "word": "知名糕点门店老鼠在展柜旁乱窜",
+        "onboard_time": 1667877506,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113449,
+        "num": 113449,
+        "word": "减肥只吃水煮菜更易反弹",
+        "onboard_time": 1667890226,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112724,
+        "num": 112724,
+        "word": "赛琳娜给新肾脏命名",
+        "onboard_time": 1667865206,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111507,
+        "num": 111507,
+        "word": "男子嘴馋偷摘农户14个柚子被拘",
+        "onboard_time": 1667879967,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111278,
+        "num": 111278,
+        "word": "RNG恭喜Tangyuan登顶韩服",
+        "onboard_time": 1667875288,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110189,
+        "num": 110189,
+        "word": "钟睒睒再度成为中国首富",
+        "onboard_time": 1667877686,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 108125,
+        "num": 108125,
+        "word": "再见爱人",
+        "onboard_time": 1667889808,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103849,
+        "num": 103849,
+        "word": "10款网红奶茶9款含咖啡因",
+        "onboard_time": 1667882190,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92340,
+        "num": 92340,
+        "word": "广州新增本土感染者2377例",
+        "onboard_time": 1667871266,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91773,
+        "num": 91773,
+        "word": "内娱现存的男团",
+        "onboard_time": 1667871027,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87394,
+        "num": 87394,
+        "word": "女子分享开店日常上万网友帮改造",
+        "onboard_time": 1667889084,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83104,
+        "num": 83104,
+        "word": "男子吃变质腌菜后血变蓝黑色",
+        "onboard_time": 1667891367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81045,
+        "num": 81045,
+        "word": "北大食堂放了一架钢琴",
+        "onboard_time": 1667872707,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80793,
+        "num": 80793,
+        "word": "没见过这么配合洗澡的猫",
+        "onboard_time": 1667891786,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76791,
+        "num": 76791,
+        "word": "特朗普称将宣布重大消息",
+        "onboard_time": 1667891845,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国国际进口博览会#"
+    }
+  }
+}
