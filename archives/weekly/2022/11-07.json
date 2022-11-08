@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667942418951,
+  "endTime": 1667943427226,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2691,6 +2691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189315,
+      "num": 189315,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189250,
       "num": 189250,
       "word": "中国男篮世预赛大名单",
@@ -3401,14 +3409,6 @@
       "onboard_time": 1667880388,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132434,
-      "num": 132434,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132199,
@@ -4763,6 +4763,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 32439,
+      "num": 14872,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29639,
       "num": 318323,
       "word": "山东96岁老人为烈士守墓36载",
@@ -4771,8 +4779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24958,
-      "num": 13848,
+      "raw_hot": 26244,
+      "num": 14677,
       "word": "泽连斯基将参加G20峰会",
       "onboard_time": 1667937851,
       "rank": 35,
@@ -4785,14 +4793,6 @@
       "onboard_time": 1667936891,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23544,
-      "num": 12937,
-      "word": "女生裹被子屋外躺平晒太阳",
-      "onboard_time": 1667939412,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23068,
@@ -4819,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14404,
+      "num": 14404,
+      "word": "泰妍露腰装",
+      "onboard_time": 1667942111,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 14081,
       "num": 13150,
       "word": "乃万直播状态",
@@ -4835,12 +4843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11399,
-      "num": 11399,
-      "word": "泰妍露腰装",
-      "onboard_time": 1667942111,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 11177,
+      "num": 11177,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 10419,
+      "num": 10615,
+      "word": "全面加强练兵备战",
+      "onboard_time": 1667943132,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 9988,
