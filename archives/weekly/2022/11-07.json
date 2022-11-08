@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667864497212,
+  "endTime": 1667872720703,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -67,6 +67,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1733247,
+      "num": 573236,
+      "word": "37岁女子流产停胎26次后得女",
+      "onboard_time": 1667870547,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1431143,
       "num": 296832,
       "word": "外卖员下跪求保安归还被扣车钥匙",
@@ -115,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318630,
+      "num": 380140,
+      "word": "司机下车上厕所被要求隔离七天",
+      "onboard_time": 1667864785,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250747,
       "num": 1250747,
       "word": "雷佳音说太丢人了这是直播",
       "onboard_time": 1667784326,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1150744,
+      "num": 379940,
+      "word": "赛琳娜给新肾脏命名",
+      "onboard_time": 1667865206,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135452,
@@ -267,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 700846,
+      "num": 379687,
+      "word": "第一个总部设在中国的政府间国际组织",
+      "onboard_time": 1667869168,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 689902,
       "num": 457675,
       "word": "今晚的女明星工作室出图",
@@ -281,6 +313,22 @@
       "onboard_time": 1667813247,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675661,
+      "num": 675661,
+      "word": "曝老板为让员工离职将座椅换塑料凳",
+      "onboard_time": 1667865386,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673827,
+      "num": 379452,
+      "word": "内娱现存的男团",
+      "onboard_time": 1667871027,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 673804,
@@ -329,6 +377,14 @@
       "onboard_time": 1667831971,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589954,
+      "num": 368215,
+      "word": "蒋依依探班赵露思偷偷藏不住",
+      "onboard_time": 1667870247,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 579803,
@@ -387,6 +443,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 559153,
+      "num": 559153,
+      "word": "小伙清理舌苔误吞18厘米长牙刷",
+      "onboard_time": 1667863883,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554434,
       "num": 554434,
       "word": "5男子饭馆吃133元要求少收100元",
@@ -419,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523391,
+      "num": 358120,
+      "word": "限定团解散博",
+      "onboard_time": 1667871627,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520567,
       "num": 520567,
       "word": "央视曝光双十一新骗术",
@@ -432,6 +504,22 @@
       "word": "北京疫情发布会",
       "onboard_time": 1667810548,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512132,
+      "num": 512132,
+      "word": "永远不要试探父母的爱",
+      "onboard_time": 1667866593,
+      "rank": 5,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 508592,
+      "num": 508592,
+      "word": "成都疫情防控",
+      "onboard_time": 1667868450,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -651,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424332,
+      "num": 424332,
+      "word": "嫌打篮球太吵老人从7楼扔饮料瓶",
+      "onboard_time": 1667864123,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421046,
       "num": 421046,
       "word": "超七成高收入人群有脱发困扰",
@@ -715,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401871,
+      "num": 401871,
+      "word": "广州新增本土感染者2377例",
+      "onboard_time": 1667871266,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392035,
       "num": 392035,
       "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
@@ -745,6 +849,14 @@
       "onboard_time": 1667783608,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379270,
+      "num": 379270,
+      "word": "朱韵好爱李峋",
+      "onboard_time": 1667866229,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 375967,
@@ -843,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 333024,
+      "num": 333024,
+      "word": "中国运20让外国军人惊叹",
+      "onboard_time": 1667867489,
+      "rank": 17,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 331366,
       "num": 331366,
       "word": "金鹰奖奖单",
@@ -881,6 +1001,14 @@
       "onboard_time": 1667779288,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325190,
+      "num": 325190,
+      "word": "鲸整口吞下一群鱼画面太震撼",
+      "onboard_time": 1667864008,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324384,
@@ -929,6 +1057,14 @@
       "onboard_time": 1667810428,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300323,
+      "num": 300323,
+      "word": "特斯拉股价跌回一年半前",
+      "onboard_time": 1667867910,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 299099,
@@ -1043,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272051,
+      "num": 272051,
+      "word": "北京昨新增1例社会面筛查人员",
+      "onboard_time": 1667867489,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
@@ -1144,6 +1288,14 @@
       "word": "56岁妈妈在80岁姥姥面前也有反骨",
       "onboard_time": 1667799390,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243155,
+      "num": 243155,
+      "word": "11月7日新增本土无症状6632例",
+      "onboard_time": 1667870069,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1249,6 +1401,14 @@
       "onboard_time": 1667750845,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 225196,
+      "num": 225196,
+      "word": "刘宇宁一念关山抢婚造型",
+      "onboard_time": 1667864670,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 223339,
@@ -1403,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197951,
+      "num": 197951,
+      "word": "疯狂动物城衍生剧正式预告",
+      "onboard_time": 1667869468,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197127,
       "num": 197127,
       "word": "命韵峋环开虐了",
@@ -1417,6 +1585,14 @@
       "onboard_time": 1667825006,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191284,
+      "num": 191284,
+      "word": "IXFORM今天解散了",
+      "onboard_time": 1667870967,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 190233,
@@ -1467,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187261,
+      "num": 179990,
+      "word": "公主 你当我是豆腐做的",
+      "onboard_time": 1667843475,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186202,
       "num": 144464,
       "word": "任嘉伦说杀青了谢谢嘉人们",
@@ -1480,6 +1664,14 @@
       "word": "广州昨日新增1325名感染者",
       "onboard_time": 1667737828,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183878,
+      "num": 183878,
+      "word": "外卖员的真实收入有多少",
+      "onboard_time": 1667871747,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1579,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163645,
+      "num": 163645,
+      "word": "陈都灵下车氛围感神图",
+      "onboard_time": 1667872586,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162578,
       "num": 162578,
       "word": "杨幂片场花絮视频",
@@ -1593,6 +1793,22 @@
       "onboard_time": 1667795557,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161867,
+      "num": 161867,
+      "word": "山西定襄外卖员回应日送65单",
+      "onboard_time": 1667865331,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161785,
+      "num": 161785,
+      "word": "北京朝阳新增多个高中风险区",
+      "onboard_time": 1667867310,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161228,
@@ -1747,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143498,
+      "num": 143498,
+      "word": "为什么很多人不愿意恋爱了",
+      "onboard_time": 1667839701,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143173,
       "num": 143173,
       "word": "70岁还能给妈妈付钱多幸福",
@@ -1769,6 +1993,14 @@
       "onboard_time": 1667798849,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141541,
+      "num": 141541,
+      "word": "IVE将出演红白歌会",
+      "onboard_time": 1667872168,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 141354,
@@ -1835,28 +2067,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135663,
+      "num": 135663,
+      "word": "00后程序员写代码硬核表白女友",
+      "onboard_time": 1667871147,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135412,
       "num": 135412,
       "word": "11月6日新增4961例本土无症状",
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132345,
-      "num": 97958,
-      "word": "嫌打篮球太吵老人从7楼扔饮料瓶",
-      "onboard_time": 1667864123,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132340,
-      "num": 109118,
-      "word": "公主 你当我是豆腐做的",
-      "onboard_time": 1667843475,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 132199,
@@ -1889,14 +2113,6 @@
       "onboard_time": 1667828308,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129652,
-      "num": 129652,
-      "word": "为什么很多人不愿意恋爱了",
-      "onboard_time": 1667839701,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 129166,
@@ -2027,14 +2243,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 114310,
-      "num": 97724,
-      "word": "鲸整口吞下一群鱼画面太震撼",
-      "onboard_time": 1667864008,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112592,
       "num": 112592,
       "word": "你好冬天",
@@ -2081,6 +2289,14 @@
       "onboard_time": 1667831854,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108008,
+      "num": 108008,
+      "word": "直播张益唐讲零点猜想",
+      "onboard_time": 1667872407,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107758,
@@ -2131,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103399,
+      "num": 103399,
+      "word": "北大食堂放了一架钢琴",
+      "onboard_time": 1667872707,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103320,
       "num": 103320,
       "word": "龚俊说月初今日暂别涂山再会",
@@ -2161,6 +2385,22 @@
       "onboard_time": 1667829868,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101481,
+      "num": 101481,
+      "word": "老人患阿兹海默病与镜中自己聊天",
+      "onboard_time": 1667863340,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100782,
+      "num": 100782,
+      "word": "特斯拉卖一辆车比丰田多赚8倍",
+      "onboard_time": 1667871926,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 100056,
@@ -2201,14 +2441,6 @@
       "onboard_time": 1667794295,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95799,
-      "num": 95799,
-      "word": "老人患阿兹海默病与镜中自己聊天",
-      "onboard_time": 1667863340,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95615,
@@ -2361,14 +2593,6 @@
       "onboard_time": 1667747549,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86514,
-      "num": 86514,
-      "word": "小伙清理舌苔误吞18厘米长牙刷",
-      "onboard_time": 1667863883,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86434,
