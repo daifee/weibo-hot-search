@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667882902252,
+  "endTime": 1667883767617,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1318630,
-      "num": 380140,
+      "num": 383282,
       "word": "司机下车上厕所被要求隔离七天",
       "onboard_time": 1667864785,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1150744,
-      "num": 379940,
+      "num": 384080,
       "word": "赛琳娜给新肾脏命名",
       "onboard_time": 1667865206,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1667875466,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1029611,
+      "num": 1029611,
+      "word": "重庆嘉陵江惊现巨大阴沉木",
+      "onboard_time": 1667880029,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979347,
@@ -84,19 +92,11 @@
     },
     {
       "raw_hot": 924363,
-      "num": 379452,
+      "num": 381858,
       "word": "内娱现存的男团",
       "onboard_time": 1667871027,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 906518,
-      "num": 906518,
-      "word": "重庆嘉陵江惊现巨大阴沉木",
-      "onboard_time": 1667880029,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848593,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513085,
+      "num": 384974,
+      "word": "陈铭课堂再提刘雨昕",
+      "onboard_time": 1667881469,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 512132,
       "num": 512132,
       "word": "永远不要试探父母的爱",
@@ -209,14 +217,6 @@
       "onboard_time": 1667874207,
       "rank": 16,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 487929,
-      "num": 367302,
-      "word": "陈铭课堂再提刘雨昕",
-      "onboard_time": 1667881469,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 485466,
@@ -283,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 407100,
+      "num": 407100,
+      "word": "林允儿再获青龙影后提名",
+      "onboard_time": 1667878467,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401911,
       "num": 401911,
       "word": "新疆新增无症状感染者585例",
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393922,
-      "num": 393922,
-      "word": "林允儿再获青龙影后提名",
-      "onboard_time": 1667878467,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 381713,
+      "num": 381713,
+      "word": "男子嘴馋偷摘农户14个柚子被拘",
+      "onboard_time": 1667879967,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379270,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310822,
-      "num": 310822,
-      "word": "男子嘴馋偷摘农户14个柚子被拘",
-      "onboard_time": 1667879967,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300323,
       "num": 300323,
       "word": "特斯拉股价跌回一年半前",
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268749,
+      "num": 268749,
+      "word": "女生戒碳水减肥暴瘦后局部秃头",
+      "onboard_time": 1667882969,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266784,
       "num": 266784,
       "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
@@ -427,20 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257284,
+      "num": 257284,
+      "word": "李峋朱韵暗恋等于明恋",
+      "onboard_time": 1667879910,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250367,
+      "num": 250367,
+      "word": "三轮司机抢行致公交乘客死亡被判刑",
+      "onboard_time": 1667881410,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 243155,
       "num": 243155,
       "word": "11月7日新增本土无症状6632例",
       "onboard_time": 1667870069,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231387,
-      "num": 231387,
-      "word": "李峋朱韵暗恋等于明恋",
-      "onboard_time": 1667879910,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 226283,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188798,
+      "num": 188798,
+      "word": "超6成00后不知道光棍节",
+      "onboard_time": 1667880869,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184325,
       "num": 157804,
       "word": "点燃我温暖你评分涨至7.4分",
@@ -617,14 +641,6 @@
       "onboard_time": 1667828668,
       "rank": 25,
       "category": "自然"
-    },
-    {
-      "raw_hot": 172871,
-      "num": 151853,
-      "word": "三轮司机抢行致公交乘客死亡被判刑",
-      "onboard_time": 1667881410,
-      "rank": 33,
-      "category": "社会负面"
     },
     {
       "raw_hot": 172262,
@@ -651,19 +667,19 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165472,
+      "num": 165472,
+      "word": "狗狗也能听懂好赖话",
+      "onboard_time": 1667880086,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "25岁爸爸带娃一年日渐沧桑",
       "onboard_time": 1667823448,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161926,
-      "num": 161926,
-      "word": "超6成00后不知道光棍节",
-      "onboard_time": 1667880869,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156731,
+      "num": 156731,
+      "word": "10款网红奶茶9款含咖啡因",
+      "onboard_time": 1667882190,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156046,
       "num": 105186,
       "word": "柯南2023年剧场版预告",
@@ -697,14 +721,6 @@
       "onboard_time": 1667874566,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144923,
-      "num": 144923,
-      "word": "狗狗也能听懂好赖话",
-      "onboard_time": 1667880086,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 143498,
@@ -755,12 +771,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129858,
+      "num": 129858,
+      "word": "东北幼崽能有多敞亮",
+      "onboard_time": 1667882610,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125500,
       "num": 116184,
       "word": "利刃出鞘2正式预告",
       "onboard_time": 1667871207,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 118510,
+      "word": "哈特三分绝杀热火",
+      "onboard_time": 1667881410,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 114853,
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108753,
+      "num": 108753,
+      "word": "这小猫也太油腻了吧",
+      "onboard_time": 1667883690,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108008,
       "num": 108008,
       "word": "直播张益唐讲零点猜想",
@@ -817,14 +857,6 @@
       "onboard_time": 1667837905,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104492,
-      "num": 104492,
-      "word": "哈特三分绝杀热火",
-      "onboard_time": 1667881410,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 104345,
@@ -875,28 +907,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 100752,
-      "num": 100752,
-      "word": "10款网红奶茶9款含咖啡因",
-      "onboard_time": 1667882190,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93647,
       "num": 93647,
       "word": "全球人口将达80亿",
       "onboard_time": 1667849051,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92539,
-      "num": 92539,
-      "word": "东北幼崽能有多敞亮",
-      "onboard_time": 1667882610,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 92158,
