@@ -1,0 +1,410 @@
+{
+  "runTime": 1667904268568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8596020,
+        "num": 8596020,
+        "word": "月全食",
+        "onboard_time": 1667896944,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1851411,
+        "num": 1851411,
+        "word": "韩国地铁发生大规模人群聚集",
+        "onboard_time": 1667897006,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49605,
+        "num": 1754116,
+        "word": "今天记者节",
+        "onboard_time": 1667877148,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1706005,
+        "num": 1706005,
+        "word": "女子奔丧请假4天被扣3000元工资",
+        "onboard_time": 1667899110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851071,
+        "num": 851071,
+        "word": "你参加过成人礼吗",
+        "onboard_time": 1667894967,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 710505,
+        "num": 710505,
+        "word": "张婉婷 让人窒息",
+        "onboard_time": 1667888187,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492683,
+        "num": 492683,
+        "word": "月亮",
+        "onboard_time": 1667899227,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 476862,
+        "num": 476862,
+        "word": "优酷二刷剧集含量过高",
+        "onboard_time": 1667895687,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342563,
+        "num": 342563,
+        "word": "父母用全家姓给娃取名陈皮话梅糖",
+        "onboard_time": 1667894668,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342360,
+        "num": 342360,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1667888426,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1571940,
+        "num": 334233,
+        "word": "张元英放弃高考",
+        "onboard_time": 1667899349,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508610,
+        "num": 330520,
+        "word": "张庭回应涉嫌传销案",
+        "onboard_time": 1667895267,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 466341,
+        "num": 321000,
+        "word": "陈飞宇说麻烦别上奇怪的热搜了",
+        "onboard_time": 1667902111,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310062,
+        "num": 310062,
+        "word": "班主任一次早点名救了学生1家3口",
+        "onboard_time": 1667902529,
+        "rank": 13,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 309118,
+        "num": 309118,
+        "word": "南京大学回应",
+        "onboard_time": 1667887110,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284917,
+        "num": 284917,
+        "word": "唐嫣 繁花",
+        "onboard_time": 1667896885,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239145,
+        "num": 239145,
+        "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+        "onboard_time": 1667888007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224087,
+        "num": 224087,
+        "word": "地球出现月全食时月球将发生什么",
+        "onboard_time": 1667898806,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 197535,
+        "num": 197535,
+        "word": "北京新增本土感染者44例",
+        "onboard_time": 1667897728,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 189887,
+        "word": "男子月薪5万试用3天被解雇",
+        "onboard_time": 1667876727,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701152,
+        "num": 187164,
+        "word": "杜华回应打造下一个王一博",
+        "onboard_time": 1667897308,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224456,
+        "num": 186112,
+        "word": "gma",
+        "onboard_time": 1667903490,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180905,
+        "num": 180905,
+        "word": "阿瑟别坐了",
+        "onboard_time": 1667896586,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175545,
+        "num": 175545,
+        "word": "男童见警察就跑民警陪跑1公里",
+        "onboard_time": 1667900849,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169963,
+        "num": 169963,
+        "word": "爸爸给1岁娃装扮出生到70岁穿着",
+        "onboard_time": 1667898149,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157061,
+        "num": 157061,
+        "word": "歼20总师说少说一点让对手worried",
+        "onboard_time": 1667900608,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151394,
+        "num": 151394,
+        "word": "大叔卖完苹果花4万给老伴买首饰",
+        "onboard_time": 1667889869,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147925,
+        "num": 147925,
+        "word": "孟羽童再发文辟谣离职",
+        "onboard_time": 1667895806,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "你有肌肤饥渴症吗",
+        "onboard_time": 1667888967,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142596,
+        "num": 142596,
+        "word": "男子拆德芙巧克力发现蠕动活虫",
+        "onboard_time": 1667893405,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162562,
+        "num": 142298,
+        "word": "金采源崔然竣合跳ANTIFRAGILE",
+        "onboard_time": 1667902227,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159460,
+        "num": 141041,
+        "word": "阿瑟 这未必是护手霜啊",
+        "onboard_time": 1667894428,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156514,
+        "num": 140961,
+        "word": "马嘉祺宋亚轩话剧万水朝东舞台照",
+        "onboard_time": 1667898149,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136993,
+        "num": 136993,
+        "word": "晒出你拍的红月亮",
+        "onboard_time": 1667903672,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 145944,
+        "num": 132112,
+        "word": "命韵峋环直播",
+        "onboard_time": 1667901389,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119125,
+        "num": 119125,
+        "word": "东北人是懂吃席的",
+        "onboard_time": 1667903373,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113357,
+        "num": 113357,
+        "word": "这小猫也太油腻了吧",
+        "onboard_time": 1667883690,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109688,
+        "num": 109688,
+        "word": "开设女生自习室被指性别歧视",
+        "onboard_time": 1667885367,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97160,
+        "num": 97160,
+        "word": "女生戒碳水减肥暴瘦后局部秃头",
+        "onboard_time": 1667882969,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75022,
+        "num": 97041,
+        "word": "脱口秀演员送快递自嘲是菜鸟上门",
+        "onboard_time": 1667901631,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133046,
+        "num": 97037,
+        "word": "王源眼眶湿润",
+        "onboard_time": 1667903611,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96966,
+        "num": 96966,
+        "word": "月全食邂逅月掩天王星一生只能见一次",
+        "onboard_time": 1667903730,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 95889,
+        "num": 95889,
+        "word": "无畏国风遇上古镇",
+        "onboard_time": 1667903851,
+        "rank": 42,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 95119,
+        "num": 95119,
+        "word": "刘国强受贿案一审宣判",
+        "onboard_time": 1667901389,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94052,
+        "num": 94052,
+        "word": "月全食遇上天王星",
+        "onboard_time": 1667902769,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 93321,
+        "num": 93321,
+        "word": "原来小狗也只喜欢听漂亮话",
+        "onboard_time": 1667903969,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91350,
+        "num": 91350,
+        "word": "男子吃变质腌菜后血变蓝黑色",
+        "onboard_time": 1667891367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90543,
+        "num": 90543,
+        "word": "书店卖给孩子言情盗墓书被家长斥责",
+        "onboard_time": 1667904211,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89195,
+        "num": 89195,
+        "word": "98斤女生扛180斤男生做力量训练",
+        "onboard_time": 1667887527,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86312,
+        "num": 86312,
+        "word": "武大靖似化非化妆",
+        "onboard_time": 1667902650,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022珠海航展双语宣传片#"
+    }
+  }
+}

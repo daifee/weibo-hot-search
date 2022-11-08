@@ -1,10 +1,10 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667903240995,
+  "endTime": 1667904268568,
   "band_list": [
     {
-      "raw_hot": 5793257,
-      "num": 5793257,
+      "raw_hot": 8596020,
+      "num": 8596020,
       "word": "月全食",
       "onboard_time": 1667816126,
       "rank": 11,
@@ -131,6 +131,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1706005,
+      "num": 1706005,
+      "word": "女子奔丧请假4天被扣3000元工资",
+      "onboard_time": 1667899110,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1572717,
       "num": 1572717,
       "word": "张庭陶虹等涉嫌传销案听证会结束",
@@ -145,14 +153,6 @@
       "onboard_time": 1667895267,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1541721,
-      "num": 1541721,
-      "word": "女子奔丧请假4天被扣3000元工资",
-      "onboard_time": 1667899110,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1431143,
@@ -1459,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310062,
+      "num": 310062,
+      "word": "班主任一次早点名救了学生1家3口",
+      "onboard_time": 1667902529,
+      "rank": 28,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 303757,
       "num": 303757,
       "word": "98斤女生扛180斤男生做力量训练",
@@ -1764,7 +1772,7 @@
     },
     {
       "raw_hot": 251254,
-      "num": 179489,
+      "num": 180905,
       "word": "阿瑟别坐了",
       "onboard_time": 1667896586,
       "rank": 33,
@@ -1921,6 +1929,22 @@
       "onboard_time": 1667864670,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224456,
+      "num": 186112,
+      "word": "gma",
+      "onboard_time": 1667903490,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224087,
+      "num": 224087,
+      "word": "地球出现月全食时月球将发生什么",
+      "onboard_time": 1667898806,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 223339,
@@ -2267,16 +2291,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187349,
-      "num": 187349,
-      "word": "地球出现月全食时月球将发生什么",
-      "onboard_time": 1667898806,
-      "rank": 35,
-      "category": "自然"
-    },
-    {
       "raw_hot": 187341,
-      "num": 127559,
+      "num": 132112,
       "word": "命韵峋环直播",
       "onboard_time": 1667901389,
       "rank": 32,
@@ -2368,6 +2384,14 @@
       "word": "10款网红奶茶9款含咖啡因",
       "onboard_time": 1667882190,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175545,
+      "num": 175545,
+      "word": "男童见警察就跑民警陪跑1公里",
+      "onboard_time": 1667900849,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2555,6 +2579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 157061,
+      "num": 157061,
+      "word": "歼20总师说少说一点让对手worried",
+      "onboard_time": 1667900608,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 156046,
       "num": 105186,
       "word": "柯南2023年剧场版预告",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1667796756,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 150583,
-      "num": 150583,
-      "word": "歼20总师说少说一点让对手worried",
-      "onboard_time": 1667900608,
-      "rank": 27,
-      "category": "军事"
     },
     {
       "raw_hot": 149777,
@@ -2665,22 +2689,6 @@
       "onboard_time": 1667802748,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143716,
-      "num": 143716,
-      "word": "班主任一次早点名救了学生1家3口",
-      "onboard_time": 1667902529,
-      "rank": 28,
-      "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 143608,
-      "num": 143608,
-      "word": "男童见警察就跑民警陪跑1公里",
-      "onboard_time": 1667900849,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143588,
@@ -2795,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136993,
+      "num": 136993,
+      "word": "晒出你拍的红月亮",
+      "onboard_time": 1667903672,
+      "rank": 33,
+      "category": "自然"
+    },
+    {
       "raw_hot": 136766,
       "num": 116436,
       "word": "龚俊狐妖小红娘杀青照",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1667890226,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133046,
+      "num": 97037,
+      "word": "王源眼眶湿润",
+      "onboard_time": 1667903611,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 133044,
@@ -3003,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "东北人是懂吃席的",
+      "onboard_time": 1667903373,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118903,
       "num": 118903,
       "word": "再见爱人",
@@ -3084,7 +3116,7 @@
     },
     {
       "raw_hot": 112101,
-      "num": 1726823,
+      "num": 1754116,
       "word": "今天记者节",
       "onboard_time": 1667877148,
       "rank": 2,
@@ -3315,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96966,
+      "num": 96966,
+      "word": "月全食邂逅月掩天王星一生只能见一次",
+      "onboard_time": 1667903730,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
       "raw_hot": 96746,
       "num": 96746,
       "word": "AG再捧冠军杯",
@@ -3329,6 +3369,14 @@
       "onboard_time": 1667794295,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95889,
+      "num": 95889,
+      "word": "无畏国风遇上古镇",
+      "onboard_time": 1667903851,
+      "rank": 42,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 95615,
@@ -3379,6 +3427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93321,
+      "num": 93321,
+      "word": "原来小狗也只喜欢听漂亮话",
+      "onboard_time": 1667903969,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91845,
       "num": 333371,
       "word": "四川人被美食治愈的立冬",
@@ -3401,6 +3457,14 @@
       "onboard_time": 1667828367,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90543,
+      "num": 90543,
+      "word": "书店卖给孩子言情盗墓书被家长斥责",
+      "onboard_time": 1667904211,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90446,
@@ -3547,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86312,
+      "num": 86312,
+      "word": "武大靖似化非化妆",
+      "onboard_time": 1667902650,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85855,
       "num": 85855,
       "word": "高校女记者跟拍运动会有多拼",
@@ -3675,14 +3747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79771,
-      "num": 79771,
-      "word": "武大靖似化非化妆",
-      "onboard_time": 1667902650,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79638,
       "num": 79638,
       "word": "国王vs勇士",
@@ -3737,6 +3801,14 @@
       "onboard_time": 1667741130,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75022,
+      "num": 97979,
+      "word": "脱口秀演员送快递自嘲是菜鸟上门",
+      "onboard_time": 1667901631,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 74959,
@@ -3849,14 +3921,6 @@
       "onboard_time": 1667736508,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56731,
-      "num": 97979,
-      "word": "脱口秀演员送快递自嘲是菜鸟上门",
-      "onboard_time": 1667901631,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 55931,
