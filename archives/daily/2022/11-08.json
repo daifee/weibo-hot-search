@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667915909119,
+  "endTime": 1667917575740,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259044,
+      "num": 1259044,
+      "word": "苏醒当年没被淘汰的原因",
+      "onboard_time": 1667913689,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1150744,
       "num": 384080,
       "word": "赛琳娜给新肾脏命名",
@@ -171,14 +179,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1045591,
-      "num": 1045591,
-      "word": "苏醒当年没被淘汰的原因",
-      "onboard_time": 1667913689,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1029611,
       "num": 1029611,
       "word": "重庆嘉陵江惊现巨大阴沉木",
@@ -200,6 +200,14 @@
       "word": "陈飞宇被当面叫阿瑟的反应",
       "onboard_time": 1667893588,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 989979,
+      "num": 348951,
+      "word": "这就是真公主吧",
+      "onboard_time": 1667912609,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 707696,
-      "num": 334641,
-      "word": "这就是真公主吧",
-      "onboard_time": 1667912609,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 700846,
       "num": 379687,
       "word": "第一个总部设在中国的政府间国际组织",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 600910,
-      "num": 342305,
+      "num": 348908,
       "word": "陈飞宇张婧仪涨粉情况",
       "onboard_time": 1667912967,
       "rank": 14,
@@ -515,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478652,
+      "num": 478652,
+      "word": "演员蓝天野名字是当地下党交通员时取的",
+      "onboard_time": 1667915008,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478639,
       "num": 417282,
       "word": "唐嫣 繁花",
@@ -561,6 +569,14 @@
       "onboard_time": 1667904811,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430796,
+      "num": 430796,
+      "word": "王者荣耀新射手英雄",
+      "onboard_time": 1667915311,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 427106,
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374089,
+      "num": 374089,
+      "word": "烤橘子这么管用吗",
+      "onboard_time": 1667914287,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 359830,
       "num": 359830,
       "word": "丹羽孝希退出国际比赛",
@@ -673,6 +697,14 @@
       "onboard_time": 1667873667,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349690,
+      "num": 349690,
+      "word": "seventeen gma",
+      "onboard_time": 1667917048,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 346235,
@@ -699,8 +731,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 342109,
+      "num": 342109,
+      "word": "王楚钦孙颖莎3比1赵钊彦孙铭阳",
+      "onboard_time": 1667915912,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340224,
-      "num": 186434,
+      "num": 314140,
       "word": "脱口秀大会",
       "onboard_time": 1667912069,
       "rank": 30,
@@ -760,6 +800,14 @@
       "word": "鲸整口吞下一群鱼画面太震撼",
       "onboard_time": 1667864008,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324478,
+      "num": 324478,
+      "word": "重庆九龙坡区疫情防控",
+      "onboard_time": 1667913091,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -827,12 +875,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294995,
+      "num": 221070,
+      "word": "张凯丽说雷佳音不是黑脸是太紧张了",
+      "onboard_time": 1667914710,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292965,
+      "num": 120807,
+      "word": "海棠",
+      "onboard_time": 1667916149,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 292402,
       "num": 292402,
       "word": "李峋朱韵暗恋等于明恋",
       "onboard_time": 1667879910,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286421,
+      "num": 216948,
+      "word": "黄觉儿子看再见爱人哭到失声",
+      "onboard_time": 1667916630,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 284984,
@@ -915,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261528,
-      "num": 179531,
-      "word": "张凯丽说雷佳音不是黑脸是太紧张了",
-      "onboard_time": 1667914710,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260405,
       "num": 146147,
       "word": "点燃我温暖你",
@@ -937,6 +1001,14 @@
       "onboard_time": 1667887646,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 251278,
+      "num": 215764,
+      "word": "宋雨琦舞台",
+      "onboard_time": 1667915789,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 251254,
@@ -1115,6 +1187,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 212524,
+      "num": 132007,
+      "word": "杨幂调侃白宇保持信念感",
+      "onboard_time": 1667917470,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211016,
+      "num": 211016,
+      "word": "川外被曝18元盒饭不断出现异物",
+      "onboard_time": 1667916630,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210207,
       "num": 210207,
       "word": "马斯克解雇了90%的印度推特员工",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1667826688,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202907,
+      "num": 131147,
+      "word": "罗渽民黄仁俊双人舞",
+      "onboard_time": 1667916990,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 202173,
@@ -1179,27 +1275,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196972,
-      "num": 196972,
-      "word": "烤橘子这么管用吗",
-      "onboard_time": 1667914287,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 194948,
       "num": 194948,
       "word": "电梯遇故障姐姐第一反应先护弟弟",
       "onboard_time": 1667892326,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194160,
-      "num": 194160,
-      "word": "重庆九龙坡区疫情防控",
-      "onboard_time": 1667913091,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1355,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169473,
-      "num": 169473,
-      "word": "演员蓝天野名字是当地下党交通员时取的",
-      "onboard_time": 1667915008,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
@@ -1483,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147411,
+      "num": 147411,
+      "word": "不要放弃任何一只猫咪",
+      "onboard_time": 1667912967,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146443,
       "num": 135293,
       "word": "飞机略过红月亮",
@@ -1505,14 +1585,6 @@
       "onboard_time": 1667903969,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143595,
-      "num": 143595,
-      "word": "不要放弃任何一只猫咪",
-      "onboard_time": 1667912967,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 143562,
@@ -1651,6 +1723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121334,
+      "num": 121334,
+      "word": "和邻居吵架后发现是老师",
+      "onboard_time": 1667909911,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120782,
+      "num": 120782,
+      "word": "林高远王曼昱vs于子洋王艺迪",
+      "onboard_time": 1667917110,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120343,
       "num": 120343,
       "word": "吃醋的李峋好难哄",
@@ -1689,14 +1777,6 @@
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117781,
-      "num": 117781,
-      "word": "王者荣耀新射手英雄",
-      "onboard_time": 1667915311,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 114853,
@@ -1769,14 +1849,6 @@
       "onboard_time": 1667892270,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 106555,
-      "num": 115812,
-      "word": "和邻居吵架后发现是老师",
-      "onboard_time": 1667909911,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 106497,
@@ -1939,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89576,
+      "num": 89576,
+      "word": "冬奥合唱团山区孩子做梦都在练发音",
+      "onboard_time": 1667917353,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89227,
       "num": 89227,
       "word": "官方回应司机下车上厕所被要求隔离",
@@ -2075,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77554,
+      "num": 77554,
+      "word": "顽固小肚保不住了",
+      "onboard_time": 1667916209,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77322,
       "num": 77322,
       "word": "70岁还能给妈妈付钱多幸福",
@@ -2097,6 +2185,14 @@
       "onboard_time": 1667903127,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72904,
+      "num": 120816,
+      "word": "女大学生半小时搬走仓库四百件货品",
+      "onboard_time": 1667916029,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72699,
