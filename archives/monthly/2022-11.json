@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667921038957,
+  "endTime": 1667922072316,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2015592,
+      "num": 2015592,
+      "word": "IU",
+      "onboard_time": 1667919390,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2014299,
       "num": 2014299,
       "word": "韩国地铁发生大规模人群聚集",
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1750563,
+      "num": 1750563,
+      "word": "川外被曝18元盒饭不断出现异物",
+      "onboard_time": 1667916630,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1714957,
       "num": 1714957,
       "word": "乌鲁木齐辟谣再封三个月",
@@ -593,14 +609,6 @@
       "onboard_time": 1667390607,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1623903,
-      "num": 1623903,
-      "word": "川外被曝18元盒饭不断出现异物",
-      "onboard_time": 1667916630,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1597017,
@@ -721,14 +729,6 @@
       "onboard_time": 1667469503,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1464600,
-      "num": 1464600,
-      "word": "IU",
-      "onboard_time": 1667919390,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1453568,
@@ -1643,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 936756,
+      "num": 246541,
+      "word": "白敬亭拍的月亮",
+      "onboard_time": 1667920289,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 935001,
       "num": 634617,
       "word": "金鹰奖",
@@ -2331,14 +2339,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 698542,
-      "num": 246541,
-      "word": "白敬亭拍的月亮",
-      "onboard_time": 1667920289,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 697049,
       "num": 697049,
       "word": "樊振东vs林高远",
@@ -2633,6 +2633,14 @@
       "onboard_time": 1667375665,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660134,
+      "num": 660134,
+      "word": "再见爱人张婉婷",
+      "onboard_time": 1667921310,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 658396,
@@ -4275,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463352,
+      "num": 436776,
+      "word": "邱瑞 谢谢王涛",
+      "onboard_time": 1667918071,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462116,
       "num": 420132,
       "word": "流调中最勤劳外卖员发声",
@@ -4537,14 +4553,6 @@
       "onboard_time": 1667731947,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 436776,
-      "num": 436776,
-      "word": "邱瑞 谢谢王涛",
-      "onboard_time": 1667918071,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 434950,
@@ -5507,6 +5515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366067,
+      "num": 366067,
+      "word": "牙都快咬碎了还是没忍住",
+      "onboard_time": 1667918129,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -5881,6 +5897,14 @@
       "onboard_time": 1667560829,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345169,
+      "num": 219682,
+      "word": "陈飞宇说婧仪拜拜",
+      "onboard_time": 1667921610,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 344766,
@@ -6259,6 +6283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323519,
+      "num": 216638,
+      "word": "造型师回应虞书欣仙剑六服装问题",
+      "onboard_time": 1667921010,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322530,
       "num": 231203,
       "word": "时代少年团芭次元动画盛典VCR",
@@ -6304,14 +6336,6 @@
       "word": "朱一龙倪妮消失的她官博开通",
       "onboard_time": 1667574153,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 320565,
-      "num": 81969,
-      "word": "造型师回应虞书欣仙剑六服装问题",
-      "onboard_time": 1667921010,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -7483,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264487,
+      "num": 129290,
+      "word": "童漠男杀疯了",
+      "onboard_time": 1667921790,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264193,
       "num": 264193,
       "word": "男孩反复录作业崩溃大哭又抹泪坚持",
@@ -7505,14 +7537,6 @@
       "onboard_time": 1667620705,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263417,
-      "num": 263417,
-      "word": "牙都快咬碎了还是没忍住",
-      "onboard_time": 1667918129,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 263234,
@@ -8257,6 +8281,14 @@
       "onboard_time": 1667782708,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229374,
+      "num": 229374,
+      "word": "重庆警方回应一女子因家暴跳桥",
+      "onboard_time": 1667920229,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229133,
@@ -9115,6 +9147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 201825,
+      "num": 201825,
+      "word": "和邻居吵架后发现是老师",
+      "onboard_time": 1667909911,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201720,
       "num": 201720,
       "word": "10月31日新增本土无症状2221例",
@@ -9177,14 +9217,6 @@
       "onboard_time": 1667399550,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200125,
-      "num": 200125,
-      "word": "和邻居吵架后发现是老师",
-      "onboard_time": 1667909911,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 199979,
@@ -11131,6 +11163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148256,
+      "num": 148256,
+      "word": "学校食堂17元的一顿饭",
+      "onboard_time": 1667920528,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148155,
       "num": 99710,
       "word": "周也夸檀健次声音好听",
@@ -12843,6 +12883,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 112651,
+      "num": 112651,
+      "word": "你的疲劳可能是吃出来的",
+      "onboard_time": 1667920411,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112592,
       "num": 112592,
       "word": "你好冬天",
@@ -12961,6 +13009,14 @@
       "onboard_time": 1667281168,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110358,
+      "num": 110358,
+      "word": "转场算是被他玩明白了",
+      "onboard_time": 1667921729,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 110354,
@@ -13715,14 +13771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97843,
-      "num": 97843,
-      "word": "重庆警方回应一女子因家暴跳桥",
-      "onboard_time": 1667920229,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97761,
       "num": 97761,
       "word": "空中视角看山城立体又魔幻",
@@ -13761,6 +13809,14 @@
       "onboard_time": 1667658086,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96945,
+      "num": 96945,
+      "word": "趴在门缝里的三只小狗",
+      "onboard_time": 1667920710,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 96670,
@@ -13825,14 +13881,6 @@
       "onboard_time": 1667820508,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95550,
-      "num": 95550,
-      "word": "学校食堂17元的一顿饭",
-      "onboard_time": 1667920528,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 95316,
@@ -14267,14 +14315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89012,
-      "num": 89012,
-      "word": "趴在门缝里的三只小狗",
-      "onboard_time": 1667920710,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "余承东称鸿蒙最具生命力",
@@ -14609,14 +14649,6 @@
       "onboard_time": 1667349448,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 85543,
-      "num": 85543,
-      "word": "你的疲劳可能是吃出来的",
-      "onboard_time": 1667920411,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85487,
