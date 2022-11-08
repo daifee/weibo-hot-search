@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667907334219,
+  "endTime": 1667911817639,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -208,6 +208,14 @@
       "word": "小伙患红斑狼疮近5年爬楼超10万层",
       "onboard_time": 1667815887,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1331507,
+      "num": 1331507,
+      "word": "河南辟谣网传刘红英为某社区书记",
+      "onboard_time": 1667909130,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585298,
+      "num": 585298,
+      "word": "宿舍关系不和谐有多可怕",
+      "onboard_time": 1667905949,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582743,
       "num": 402325,
       "word": "阿瑟 这未必是护手霜啊",
@@ -745,6 +761,14 @@
       "onboard_time": 1667819846,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523506,
+      "num": 419410,
+      "word": "EXO会以全新面貌尽快回归",
+      "onboard_time": 1667909068,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 523391,
@@ -1027,6 +1051,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 441362,
+      "num": 441362,
+      "word": "黄觉和麦子是网恋奔现",
+      "onboard_time": 1667907688,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437989,
       "num": 437989,
       "word": "台北故宫文物毁损视频首曝光",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1667777905,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402032,
+      "num": 402032,
+      "word": "王楚钦孙颖莎3比0周启豪何卓佳",
+      "onboard_time": 1667907808,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 401942,
@@ -1467,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311787,
+      "num": 311787,
+      "word": "国产大飞机C919获签300架订单",
+      "onboard_time": 1667907150,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 311729,
       "num": 311729,
       "word": "猫爪上留有狗狗被打的证据",
@@ -1545,6 +1593,22 @@
       "onboard_time": 1667813547,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297596,
+      "num": 225841,
+      "word": "毛不易李雪琴为王源新专魔性宣传",
+      "onboard_time": 1667905710,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296582,
+      "num": 296582,
+      "word": "EDG田野说过山车不是小朋友玩的",
+      "onboard_time": 1667908767,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 295011,
@@ -1859,14 +1923,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 237137,
-      "num": 237137,
-      "word": "宿舍关系不和谐有多可怕",
-      "onboard_time": 1667905949,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235879,
       "num": 164680,
       "word": "张继科用手机侧边颠球24下",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1667904992,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234267,
-      "num": 181171,
-      "word": "毛不易李雪琴为王源新专魔性宣传",
-      "onboard_time": 1667905710,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 233883,
@@ -1947,6 +1995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226514,
+      "num": 226514,
+      "word": "街道办回应环卫大爷在小车前下跪",
+      "onboard_time": 1667905112,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "家中起火白狗熏成黑狗趴窗求救",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1667807666,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226074,
+      "num": 226074,
+      "word": "福建一工厂日薪2千招聘缝纫工",
+      "onboard_time": 1667909188,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225281,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1667749766,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209433,
+      "num": 209433,
+      "word": "突然就治好了我的焦虑",
+      "onboard_time": 1667910869,
+      "rank": 23,
+      "category": "情感,综艺"
     },
     {
       "raw_hot": 206909,
@@ -2403,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180619,
-      "num": 180619,
-      "word": "街道办回应环卫大爷在小车前下跪",
-      "onboard_time": 1667905112,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179279,
       "num": 179279,
       "word": "老人输液从随身布袋掏宠物鹌鹑盘弄",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1667744496,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178309,
+      "num": 139403,
+      "word": "吴京呼吁要保持生命通道畅通",
+      "onboard_time": 1667909490,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 177396,
@@ -2505,6 +2577,14 @@
       "onboard_time": 1667833417,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 166107,
+      "num": 166107,
+      "word": "LBL",
+      "onboard_time": 1667906970,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 165571,
@@ -2763,14 +2843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144450,
-      "num": 135429,
-      "word": "国产大飞机C919获签300架订单",
-      "onboard_time": 1667907150,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 143588,
       "num": 143588,
       "word": "欧冠淘汰赛抽签",
@@ -2928,6 +3000,14 @@
       "word": "减肥只吃水煮菜更易反弹",
       "onboard_time": 1667890226,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133379,
+      "num": 133379,
+      "word": "男子合租上厕所怕脏踩碎坐便器",
+      "onboard_time": 1667911049,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3131,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119432,
+      "num": 119432,
+      "word": "63岁阿姨展示青绿腰",
+      "onboard_time": 1667907929,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119317,
       "num": 119317,
       "word": "猫猫是懂私人定制的",
@@ -3307,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106773,
+      "num": 101939,
+      "word": "点燃我温暖你李峋他急了",
+      "onboard_time": 1667910689,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106497,
       "num": 106497,
       "word": "成都非遗麻辣美食有多绝",
@@ -3403,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102236,
+      "num": 102236,
+      "word": "听到闺蜜复合后的反应",
+      "onboard_time": 1667909368,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101580,
       "num": 101580,
       "word": "杭州一小学开爬树课教学生爬树",
@@ -3433,6 +3537,14 @@
       "onboard_time": 1667794230,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99915,
+      "num": 99915,
+      "word": "哮天又偷吃月亮",
+      "onboard_time": 1667911529,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 98709,
@@ -3529,14 +3641,6 @@
       "onboard_time": 1667820747,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93360,
-      "num": 93360,
-      "word": "LBL",
-      "onboard_time": 1667906970,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 91845,
@@ -3777,6 +3881,14 @@
       "onboard_time": 1667894487,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82819,
+      "num": 82819,
+      "word": "收到快递后的我",
+      "onboard_time": 1667911709,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 82817,
@@ -4121,6 +4233,14 @@
       "onboard_time": 1667776521,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33896,
+      "num": 1369938,
+      "word": "这些工业互联网科技太酷了",
+      "onboard_time": 1667911347,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 29639,

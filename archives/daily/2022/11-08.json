@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667907334219,
+  "endTime": 1667911817639,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -105,6 +105,14 @@
       "onboard_time": 1667828668,
       "rank": 25,
       "category": "自然"
+    },
+    {
+      "raw_hot": 1331507,
+      "num": 1331507,
+      "word": "河南辟谣网传刘红英为某社区书记",
+      "onboard_time": 1667909130,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1318630,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585298,
+      "num": 585298,
+      "word": "宿舍关系不和谐有多可怕",
+      "onboard_time": 1667905949,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582743,
       "num": 402325,
       "word": "阿瑟 这未必是护手霜啊",
@@ -361,6 +377,14 @@
       "onboard_time": 1667877686,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 523506,
+      "num": 419410,
+      "word": "EXO会以全新面貌尽快回归",
+      "onboard_time": 1667909068,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 523391,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441362,
+      "num": 441362,
+      "word": "黄觉和麦子是网恋奔现",
+      "onboard_time": 1667907688,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433447,
       "num": 433447,
       "word": "命韵峋环 二搭",
@@ -553,6 +585,14 @@
       "onboard_time": 1667878467,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402032,
+      "num": 402032,
+      "word": "王楚钦孙颖莎3比0周启豪何卓佳",
+      "onboard_time": 1667907808,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 401911,
@@ -691,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311787,
+      "num": 311787,
+      "word": "国产大飞机C919获签300架订单",
+      "onboard_time": 1667907150,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 311729,
       "num": 311729,
       "word": "猫爪上留有狗狗被打的证据",
@@ -713,6 +761,22 @@
       "onboard_time": 1667867910,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 297596,
+      "num": 225841,
+      "word": "毛不易李雪琴为王源新专魔性宣传",
+      "onboard_time": 1667905710,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296582,
+      "num": 296582,
+      "word": "EDG田野说过山车不是小朋友玩的",
+      "onboard_time": 1667908767,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 292402,
@@ -843,28 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237137,
-      "num": 237137,
-      "word": "宿舍关系不和谐有多可怕",
-      "onboard_time": 1667905949,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234627,
       "num": 234627,
       "word": "世界杯大力神杯被一元拍卖",
       "onboard_time": 1667904992,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234267,
-      "num": 181171,
-      "word": "毛不易李雪琴为王源新专魔性宣传",
-      "onboard_time": 1667905710,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 226703,
@@ -875,11 +923,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226514,
+      "num": 226514,
+      "word": "街道办回应环卫大爷在小车前下跪",
+      "onboard_time": 1667905112,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226283,
       "num": 226283,
       "word": "家中起火白狗熏成黑狗趴窗求救",
       "onboard_time": 1667835628,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226074,
+      "num": 226074,
+      "word": "福建一工厂日薪2千招聘缝纫工",
+      "onboard_time": 1667909188,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1049,14 @@
       "onboard_time": 1667824286,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 209433,
+      "num": 209433,
+      "word": "突然就治好了我的焦虑",
+      "onboard_time": 1667910869,
+      "rank": 23,
+      "category": "情感,综艺"
     },
     {
       "raw_hot": 205283,
@@ -1155,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180619,
-      "num": 180619,
-      "word": "街道办回应环卫大爷在小车前下跪",
-      "onboard_time": 1667905112,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 178309,
+      "num": 139403,
+      "word": "吴京呼吁要保持生命通道畅通",
+      "onboard_time": 1667909490,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 177396,
@@ -1209,6 +1281,14 @@
       "onboard_time": 1667833417,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 166107,
+      "num": 166107,
+      "word": "LBL",
+      "onboard_time": 1667906970,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 165571,
@@ -1299,14 +1379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144450,
-      "num": 135429,
-      "word": "国产大飞机C919获签300架订单",
-      "onboard_time": 1667907150,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 143562,
       "num": 96890,
       "word": "艾热王以太演唱会",
@@ -1376,6 +1448,14 @@
       "word": "减肥只吃水煮菜更易反弹",
       "onboard_time": 1667890226,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133379,
+      "num": 133379,
+      "word": "男子合租上厕所怕脏踩碎坐便器",
+      "onboard_time": 1667911049,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1537,14 @@
       "onboard_time": 1667885306,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119432,
+      "num": 119432,
+      "word": "63岁阿姨展示青绿腰",
+      "onboard_time": 1667907929,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119317,
@@ -1555,6 +1643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106773,
+      "num": 101939,
+      "word": "点燃我温暖你李峋他急了",
+      "onboard_time": 1667910689,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106497,
       "num": 106497,
       "word": "成都非遗麻辣美食有多绝",
@@ -1619,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102236,
+      "num": 102236,
+      "word": "听到闺蜜复合后的反应",
+      "onboard_time": 1667909368,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101481,
       "num": 101481,
       "word": "老人患阿兹海默病与镜中自己聊天",
@@ -1633,6 +1737,14 @@
       "onboard_time": 1667871926,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99915,
+      "num": 99915,
+      "word": "哮天又偷吃月亮",
+      "onboard_time": 1667911529,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 98560,
@@ -1665,14 +1777,6 @@
       "onboard_time": 1667849051,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93360,
-      "num": 93360,
-      "word": "LBL",
-      "onboard_time": 1667906970,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 92158,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1667894487,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82819,
+      "num": 82819,
+      "word": "收到快递后的我",
+      "onboard_time": 1667911709,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80793,
@@ -1961,6 +2073,14 @@
       "onboard_time": 1667898267,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33896,
+      "num": 1369938,
+      "word": "这些工业互联网科技太酷了",
+      "onboard_time": 1667911347,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 29639,
