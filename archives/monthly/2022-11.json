@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667933689104,
+  "endTime": 1667935635096,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -16339,6 +16339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34232,
+      "num": 34232,
+      "word": "11月院线电影",
+      "onboard_time": 1667930835,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33308,
       "num": 33308,
       "word": "曼城2比1富勒姆",
@@ -16352,14 +16360,6 @@
       "word": "与凤行",
       "onboard_time": 1667691320,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 32442,
-      "num": 29153,
-      "word": "11月院线电影",
-      "onboard_time": 1667930835,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -16609,6 +16609,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10358,
+      "num": 12953,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10181,

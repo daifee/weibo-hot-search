@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667933689104,
+  "endTime": 1667935635096,
   "band_list": [
     {
       "raw_hot": 1502540,
@@ -475,8 +475,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32442,
-      "num": 29153,
+      "raw_hot": 34232,
+      "num": 34232,
       "word": "11月院线电影",
       "onboard_time": 1667930835,
       "rank": 33,
@@ -489,6 +489,14 @@
       "onboard_time": 1667921729,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10358,
+      "num": 12953,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
