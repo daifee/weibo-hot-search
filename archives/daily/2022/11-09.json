@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667939139410,
+  "endTime": 1667940021979,
   "band_list": [
     {
       "raw_hot": 1502540,
@@ -499,12 +499,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18437,
-      "num": 18437,
+      "raw_hot": 25852,
+      "num": 25852,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24026,
+      "num": 24026,
       "word": "国内最成功的的小妞电影是哪部",
       "onboard_time": 1667936891,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19885,
+      "num": 13848,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 14673,
@@ -523,28 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12348,
-      "num": 12348,
-      "word": "泽连斯基将参加G20峰会",
-      "onboard_time": 1667937851,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 10655,
-      "num": 10655,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9988,
       "num": 11884,
       "word": "我拍了拍红月亮",
       "onboard_time": 1667936231,
       "rank": 49,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 9468,
+      "num": 10412,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
