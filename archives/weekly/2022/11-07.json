@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667886140906,
+  "endTime": 1667889007528,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -73,6 +73,14 @@
       "onboard_time": 1667787207,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1856736,
+      "num": 1856736,
+      "word": "南京大学回应",
+      "onboard_time": 1667887110,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1843530,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520928,
+      "num": 520928,
+      "word": "这小猫也太油腻了吧",
+      "onboard_time": 1667883690,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520567,
       "num": 520567,
       "word": "央视曝光双十一新骗术",
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482129,
+      "num": 482129,
+      "word": "快递可以不拿但不能不到",
+      "onboard_time": 1667884408,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481621,
       "num": 481621,
       "word": "学霸爸爸每天辅导儿子数学考43分",
@@ -729,6 +753,14 @@
       "onboard_time": 1667784267,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 473087,
+      "num": 473087,
+      "word": "库里47分8篮板",
+      "onboard_time": 1667886205,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 472716,
@@ -747,6 +779,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465187,
+      "num": 465187,
+      "word": "开设女生自习室被指性别歧视",
+      "onboard_time": 1667885367,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463486,
+      "num": 463486,
+      "word": "胡彦斌再见爱人边哭边吸氧",
+      "onboard_time": 1667885665,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462116,
       "num": 420132,
       "word": "流调中最勤劳外卖员发声",
@@ -761,6 +809,14 @@
       "onboard_time": 1667744673,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459054,
+      "num": 459054,
+      "word": "方艺潭MASHIHO退出TREASURE",
+      "onboard_time": 1667886627,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 453107,
@@ -793,14 +849,6 @@
       "onboard_time": 1667832811,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 440483,
-      "num": 440483,
-      "word": "这小猫也太油腻了吧",
-      "onboard_time": 1667883690,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 437989,
@@ -923,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405996,
+      "num": 405996,
+      "word": "陈飞宇新浪扫楼",
+      "onboard_time": 1667888367,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404346,
       "num": 404346,
       "word": "初中女生带满箱偶像周边离家出走",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1667806466,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368832,
+      "num": 368832,
+      "word": "张婉婷 让人窒息",
+      "onboard_time": 1667888187,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 364894,
@@ -1187,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311729,
+      "num": 311729,
+      "word": "猫爪上留有狗狗被打的证据",
+      "onboard_time": 1667885967,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310662,
       "num": 276763,
       "word": "鹿晗keepmealive",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1667806228,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302022,
-      "num": 302022,
-      "word": "胡彦斌再见爱人边哭边吸氧",
-      "onboard_time": 1667885665,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 301102,
@@ -1443,14 +1507,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 252404,
-      "num": 252404,
-      "word": "快递可以不拿但不能不到",
-      "onboard_time": 1667884408,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251736,
       "num": 190385,
       "word": "时代少年团荣耀出题官",
@@ -1568,6 +1624,14 @@
       "word": "男子江边垂钓捞到猪鼻龟",
       "onboard_time": 1667779827,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226535,
+      "num": 226535,
+      "word": "武汉一人工湖中钓起鳄雀鳝",
+      "onboard_time": 1667886506,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1907,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182931,
+      "num": 146561,
+      "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+      "onboard_time": 1667888007,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181627,
       "num": 181627,
       "word": "杨幂白宇新剧每个病例都有不同含义",
@@ -2067,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161400,
+      "num": 146499,
+      "word": "折叠屏iPhoneV正式发布",
+      "onboard_time": 1667888426,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 161228,
       "num": 161228,
       "word": "恒星引力东方美学",
@@ -2225,6 +2305,14 @@
       "onboard_time": 1667802748,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143908,
+      "num": 143908,
+      "word": "歼20垂直拉升直插云海",
+      "onboard_time": 1667887646,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 143588,
@@ -2507,12 +2595,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 119730,
+      "num": 119730,
+      "word": "白术治好了我的纠结症",
+      "onboard_time": 1667885306,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118510,
       "num": 118510,
       "word": "哈特三分绝杀热火",
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117841,
+      "num": 117841,
+      "word": "谁能拒绝好看的赠品啊",
+      "onboard_time": 1667887286,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 116749,
@@ -2587,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111475,
-      "num": 111475,
-      "word": "开设女生自习室被指性别歧视",
-      "onboard_time": 1667885367,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "田雨新剧给张萌下跪",
@@ -2624,14 +2720,6 @@
       "word": "谁不想拥有一个这样的竹马",
       "onboard_time": 1667831854,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 108301,
-      "num": 108301,
-      "word": "白术治好了我的纠结症",
-      "onboard_time": 1667885306,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -2737,6 +2825,14 @@
       "onboard_time": 1667826387,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102224,
+      "num": 102224,
+      "word": "98斤女生扛180斤男生做力量训练",
+      "onboard_time": 1667887527,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101580,
@@ -2856,14 +2952,6 @@
       "word": "第一次见自己抱盆吃饭的猫",
       "onboard_time": 1667820747,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 91861,
-      "num": 91861,
-      "word": "猫爪上留有狗狗被打的证据",
-      "onboard_time": 1667885967,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -3129,6 +3217,14 @@
       "onboard_time": 1667788167,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77960,
+      "num": 77960,
+      "word": "你有肌肤饥渴症吗",
+      "onboard_time": 1667888967,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 77778,

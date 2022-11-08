@@ -1,0 +1,410 @@
+{
+  "runTime": 1667889007528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856736,
+        "num": 1856736,
+        "word": "南京大学回应",
+        "onboard_time": 1667887110,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192003,
+        "num": 1192003,
+        "word": "男子月薪5万试用3天被解雇",
+        "onboard_time": 1667876727,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57537,
+        "num": 1021868,
+        "word": "今天记者节",
+        "onboard_time": 1667877148,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 978712,
+        "num": 978712,
+        "word": "张庭陶虹等涉嫌传销案听证会结束",
+        "onboard_time": 1667875945,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 872719,
+        "num": 872719,
+        "word": "女生戒碳水减肥暴瘦后局部秃头",
+        "onboard_time": 1667882969,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715123,
+        "num": 715123,
+        "word": "王源MV女主黄思瑞",
+        "onboard_time": 1667876064,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536161,
+        "num": 536161,
+        "word": "重庆嘉陵江惊现巨大阴沉木",
+        "onboard_time": 1667880029,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520928,
+        "num": 520928,
+        "word": "这小猫也太油腻了吧",
+        "onboard_time": 1667883690,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482129,
+        "num": 482129,
+        "word": "快递可以不拿但不能不到",
+        "onboard_time": 1667884408,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473087,
+        "num": 473087,
+        "word": "库里47分8篮板",
+        "onboard_time": 1667886205,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826254,
+        "num": 469293,
+        "word": "37岁女子流产停胎26次后得女",
+        "onboard_time": 1667870547,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658692,
+        "num": 467887,
+        "word": "临沂多名防疫人员与居民发生冲突被拘",
+        "onboard_time": 1667875466,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 465187,
+        "num": 465187,
+        "word": "开设女生自习室被指性别歧视",
+        "onboard_time": 1667885367,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463486,
+        "num": 463486,
+        "word": "胡彦斌再见爱人边哭边吸氧",
+        "onboard_time": 1667885665,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459054,
+        "num": 459054,
+        "word": "方艺潭MASHIHO退出TREASURE",
+        "onboard_time": 1667886627,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405996,
+        "num": 405996,
+        "word": "陈飞宇新浪扫楼",
+        "onboard_time": 1667888367,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368832,
+        "num": 368832,
+        "word": "张婉婷 让人窒息",
+        "onboard_time": 1667888187,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311729,
+        "num": 311729,
+        "word": "猫爪上留有狗狗被打的证据",
+        "onboard_time": 1667885967,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252962,
+        "num": 252962,
+        "word": "成都两名15岁学生被清华录取本硕博连读",
+        "onboard_time": 1667873667,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226535,
+        "num": 226535,
+        "word": "武汉一人工湖中钓起鳄雀鳝",
+        "onboard_time": 1667886506,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211208,
+        "num": 211208,
+        "word": "三轮司机抢行致公交乘客死亡被判刑",
+        "onboard_time": 1667881410,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 206964,
+        "num": 206964,
+        "word": "赛琳娜给新肾脏命名",
+        "onboard_time": 1667865206,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204830,
+        "num": 204830,
+        "word": "司机下车上厕所被要求隔离七天",
+        "onboard_time": 1667864785,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200220,
+        "num": 200220,
+        "word": "知名糕点门店老鼠在展柜旁乱窜",
+        "onboard_time": 1667877506,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "鹿晗新歌霸榜",
+        "onboard_time": 1667884468,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171321,
+        "num": 171321,
+        "word": "内娱现存的男团",
+        "onboard_time": 1667871027,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171207,
+        "num": 171207,
+        "word": "陈铭课堂再提刘雨昕",
+        "onboard_time": 1667881469,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 165962,
+        "word": "钟睒睒再度成为中国首富",
+        "onboard_time": 1667877686,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 158093,
+        "num": 158093,
+        "word": "男子嘴馋偷摘农户14个柚子被拘",
+        "onboard_time": 1667879967,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146775,
+        "num": 146775,
+        "word": "10款网红奶茶9款含咖啡因",
+        "onboard_time": 1667882190,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182931,
+        "num": 146561,
+        "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+        "onboard_time": 1667888007,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161400,
+        "num": 146499,
+        "word": "折叠屏iPhoneV正式发布",
+        "onboard_time": 1667888426,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143908,
+        "num": 143908,
+        "word": "歼20垂直拉升直插云海",
+        "onboard_time": 1667887646,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142231,
+        "num": 142231,
+        "word": "RNG恭喜Tangyuan登顶韩服",
+        "onboard_time": 1667875288,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131002,
+        "num": 131002,
+        "word": "广州新增本土感染者2377例",
+        "onboard_time": 1667871266,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119730,
+        "num": 119730,
+        "word": "白术治好了我的纠结症",
+        "onboard_time": 1667885306,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117841,
+        "num": 117841,
+        "word": "谁能拒绝好看的赠品啊",
+        "onboard_time": 1667887286,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 117755,
+        "word": "北大食堂放了一架钢琴",
+        "onboard_time": 1667872707,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117335,
+        "num": 117335,
+        "word": "李峋朱韵暗恋等于明恋",
+        "onboard_time": 1667879910,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115247,
+        "num": 115247,
+        "word": "蔡文静彭冠英拍吻戏嘴忙脚乱",
+        "onboard_time": 1667875412,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108773,
+        "num": 108773,
+        "word": "小伙清理舌苔误吞18厘米长牙刷",
+        "onboard_time": 1667863883,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102224,
+        "num": 102224,
+        "word": "98斤女生扛180斤男生做力量训练",
+        "onboard_time": 1667887527,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98499,
+        "num": 98499,
+        "word": "赵丽颖呼吁大家多关注消防安全",
+        "onboard_time": 1667874207,
+        "rank": 42,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 95736,
+        "num": 95736,
+        "word": "第一个总部设在中国的政府间国际组织",
+        "onboard_time": 1667869168,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 91689,
+        "num": 91689,
+        "word": "陈都灵下车氛围感神图",
+        "onboard_time": 1667872586,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90603,
+        "num": 90603,
+        "word": "东北幼崽能有多敞亮",
+        "onboard_time": 1667882610,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90016,
+        "num": 90016,
+        "word": "外卖员的真实收入有多少",
+        "onboard_time": 1667871747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84586,
+        "num": 84586,
+        "word": "丹羽孝希退出国际比赛",
+        "onboard_time": 1667880508,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78161,
+        "num": 78161,
+        "word": "曝老板为让员工离职将座椅换塑料凳",
+        "onboard_time": 1667865386,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77960,
+        "num": 77960,
+        "word": "你有肌肤饥渴症吗",
+        "onboard_time": 1667888967,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#好记者讲好故事#"
+    }
+  }
+}
