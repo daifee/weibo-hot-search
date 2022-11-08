@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667911817639,
+  "endTime": 1667913089218,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -75,6 +75,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1707819,
+      "num": 1707819,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 25,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1706005,
       "num": 1706005,
       "word": "女子奔丧请假4天被扣3000元工资",
@@ -99,16 +107,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1456124,
-      "num": 1456124,
-      "word": "血月",
-      "onboard_time": 1667828668,
-      "rank": 25,
-      "category": "自然"
-    },
-    {
-      "raw_hot": 1331507,
-      "num": 1331507,
+      "raw_hot": 1496209,
+      "num": 1496209,
       "word": "河南辟谣网传刘红英为某社区书记",
       "onboard_time": 1667909130,
       "rank": 3,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560743,
+      "num": 560743,
+      "word": "黄觉和麦子是网恋奔现",
+      "onboard_time": 1667907688,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559153,
       "num": 559153,
       "word": "小伙清理舌苔误吞18厘米长牙刷",
@@ -515,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441362,
-      "num": 441362,
-      "word": "黄觉和麦子是网恋奔现",
-      "onboard_time": 1667907688,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 455569,
+      "num": 380186,
+      "word": "男子合租上厕所怕脏踩碎坐便器",
+      "onboard_time": 1667911049,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433447,
@@ -659,6 +667,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 342305,
+      "num": 342305,
+      "word": "陈飞宇张婧仪涨粉情况",
+      "onboard_time": 1667912967,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337644,
       "num": 212897,
       "word": "北京12345回应",
@@ -761,6 +777,14 @@
       "onboard_time": 1667867910,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 299378,
+      "num": 299378,
+      "word": "福建一工厂日薪2千招聘缝纫工",
+      "onboard_time": 1667909188,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297596,
@@ -891,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245113,
+      "num": 245113,
+      "word": "吴京呼吁要保持生命通道畅通",
+      "onboard_time": 1667909490,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 243155,
       "num": 243155,
       "word": "11月7日新增本土无症状6632例",
@@ -915,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233485,
+      "num": 233485,
+      "word": "突然就治好了我的焦虑",
+      "onboard_time": 1667910869,
+      "rank": 23,
+      "category": "情感,综艺"
+    },
+    {
       "raw_hot": 226703,
       "num": 156107,
       "word": "王一博炙热的梦新歌预告",
@@ -936,14 +976,6 @@
       "word": "家中起火白狗熏成黑狗趴窗求救",
       "onboard_time": 1667835628,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226074,
-      "num": 226074,
-      "word": "福建一工厂日薪2千招聘缝纫工",
-      "onboard_time": 1667909188,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1051,12 +1083,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 209433,
-      "num": 209433,
-      "word": "突然就治好了我的焦虑",
-      "onboard_time": 1667910869,
-      "rank": 23,
-      "category": "情感,综艺"
+      "raw_hot": 209270,
+      "num": 137016,
+      "word": "脱口秀大会",
+      "onboard_time": 1667912069,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 205283,
@@ -1219,20 +1251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181664,
+      "num": 134555,
+      "word": "点燃我温暖你李峋他急了",
+      "onboard_time": 1667910689,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180711,
       "num": 180711,
       "word": "书店卖给孩子言情盗墓书被家长斥责",
       "onboard_time": 1667904211,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178309,
-      "num": 139403,
-      "word": "吴京呼吁要保持生命通道畅通",
-      "onboard_time": 1667909490,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 177396,
@@ -1363,12 +1395,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153742,
+      "num": 153742,
+      "word": "月全食邂逅月掩天王星一生只能见一次",
+      "onboard_time": 1667903730,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
       "raw_hot": 152541,
       "num": 144697,
       "word": "NCT新官方账号公开",
       "onboard_time": 1667874566,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146443,
+      "num": 135293,
+      "word": "飞机略过红月亮",
+      "onboard_time": 1667912009,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144590,
@@ -1435,27 +1483,11 @@
       "category": "自然"
     },
     {
-      "raw_hot": 136419,
-      "num": 136419,
-      "word": "月全食邂逅月掩天王星一生只能见一次",
-      "onboard_time": 1667903730,
-      "rank": 41,
-      "category": "自然"
-    },
-    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
       "onboard_time": 1667890226,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133379,
-      "num": 133379,
-      "word": "男子合租上厕所怕脏踩碎坐便器",
-      "onboard_time": 1667911049,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1489,6 +1521,14 @@
       "onboard_time": 1667906067,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129493,
+      "num": 129493,
+      "word": "63岁阿姨展示青绿腰",
+      "onboard_time": 1667907929,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129228,
@@ -1537,14 +1577,6 @@
       "onboard_time": 1667885306,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119432,
-      "num": 119432,
-      "word": "63岁阿姨展示青绿腰",
-      "onboard_time": 1667907929,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119317,
@@ -1643,14 +1675,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 106773,
-      "num": 101939,
-      "word": "点燃我温暖你李峋他急了",
-      "onboard_time": 1667910689,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106497,
       "num": 106497,
       "word": "成都非遗麻辣美食有多绝",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1667837905,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104876,
+      "num": 104876,
+      "word": "听到闺蜜复合后的反应",
+      "onboard_time": 1667909368,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 104345,
@@ -1715,12 +1747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102236,
-      "num": 102236,
-      "word": "听到闺蜜复合后的反应",
-      "onboard_time": 1667909368,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 102732,
+      "num": 102732,
+      "word": "不要放弃任何一只猫咪",
+      "onboard_time": 1667912967,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 101481,
@@ -1891,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83002,
+      "num": 83002,
+      "word": "养猫人睡个觉都不容易",
+      "onboard_time": 1667911887,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82819,
       "num": 82819,
       "word": "收到快递后的我",
@@ -1955,12 +1995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72519,
+      "num": 72519,
+      "word": "王者姜子牙皮肤调整",
+      "onboard_time": 1667912787,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72005,
       "num": 72005,
       "word": "AJ涵艺爆料LPL转会期",
       "onboard_time": 1667818167,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68357,
+      "num": 68357,
+      "word": "直20女飞行员徐枫灿亮相珠海航展",
+      "onboard_time": 1667912730,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 67465,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1667905231,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58193,
+      "num": 1579500,
+      "word": "这些工业互联网科技太酷了",
+      "onboard_time": 1667911347,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 58090,
@@ -2073,14 +2137,6 @@
       "onboard_time": 1667898267,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33896,
-      "num": 1369938,
-      "word": "这些工业互联网科技太酷了",
-      "onboard_time": 1667911347,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 29639,
