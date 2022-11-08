@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667892034263,
+  "endTime": 1667892959730,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2243863,
-      "num": 2243863,
+      "raw_hot": 2293413,
+      "num": 2293413,
       "word": "张婉婷 让人窒息",
       "onboard_time": 1667888187,
       "rank": 16,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1140020,
+      "num": 1140020,
+      "word": "iPhone折叠屏",
+      "onboard_time": 1667888426,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1067413,
       "num": 1044615,
       "word": "临沂多名防疫人员与居民发生冲突被拘",
       "onboard_time": 1667875466,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1060917,
-      "num": 1060917,
-      "word": "iPhone折叠屏",
-      "onboard_time": 1667888426,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 1029611,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732016,
+      "num": 732016,
+      "word": "白敬亭田曦薇卿卿日常定档11月10日",
+      "onboard_time": 1667891427,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700846,
       "num": 379687,
       "word": "第一个总部设在中国的政府间国际组织",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614563,
+      "num": 385787,
+      "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+      "onboard_time": 1667888007,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589954,
       "num": 368215,
       "word": "蒋依依探班赵露思偷偷藏不住",
@@ -193,6 +209,14 @@
       "onboard_time": 1667885367,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577059,
+      "num": 363442,
+      "word": "吴宣仪提前一星期被通知参加创造101",
+      "onboard_time": 1667889027,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 559153,
@@ -211,14 +235,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 531313,
-      "num": 324435,
-      "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
-      "onboard_time": 1667888007,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523391,
       "num": 358120,
       "word": "限定团解散博",
@@ -233,14 +249,6 @@
       "onboard_time": 1667883690,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 517126,
-      "num": 321271,
-      "word": "吴宣仪提前一星期被通知参加创造101",
-      "onboard_time": 1667889027,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 513085,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387849,
+      "num": 387849,
+      "word": "大叔卖完苹果花4万给老伴买首饰",
+      "onboard_time": 1667889869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381713,
       "num": 381713,
       "word": "男子嘴馋偷摘农户14个柚子被拘",
@@ -425,14 +441,6 @@
       "onboard_time": 1667880508,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359711,
-      "num": 316232,
-      "word": "白敬亭田曦薇卿卿日常定档11月10日",
-      "onboard_time": 1667891427,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 352498,
@@ -499,12 +507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303757,
+      "num": 303757,
+      "word": "98斤女生扛180斤男生做力量训练",
+      "onboard_time": 1667887527,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300323,
       "num": 300323,
       "word": "特斯拉股价跌回一年半前",
       "onboard_time": 1667867910,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 297392,
+      "num": 297392,
+      "word": "特朗普称将宣布重大消息",
+      "onboard_time": 1667891845,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 292402,
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281101,
+      "num": 281101,
+      "word": "你有肌肤饥渴症吗",
+      "onboard_time": 1667888967,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281069,
       "num": 281069,
       "word": "朱韵真的是公主殿下",
@@ -537,14 +569,6 @@
       "onboard_time": 1667832030,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274132,
-      "num": 274132,
-      "word": "98斤女生扛180斤男生做力量训练",
-      "onboard_time": 1667887527,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272051,
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262736,
-      "num": 262736,
-      "word": "大叔卖完苹果花4万给老伴买首饰",
-      "onboard_time": 1667889869,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "武汉一人工湖中钓起鳄雀鳝",
@@ -601,14 +617,6 @@
       "onboard_time": 1667870069,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239195,
-      "num": 239195,
-      "word": "你有肌肤饥渴症吗",
-      "onboard_time": 1667888967,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 226283,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134083,
+      "num": 134083,
+      "word": "减肥只吃水煮菜更易反弹",
+      "onboard_time": 1667890226,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133044,
       "num": 133044,
       "word": "王者姜子牙概念动画",
@@ -1027,20 +1043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114105,
+      "num": 114105,
+      "word": "男子吃变质腌菜后血变蓝黑色",
+      "onboard_time": 1667891367,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113848,
       "num": 113848,
       "word": "歼20空中连续多个战术动作超震撼",
       "onboard_time": 1667885727,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 113449,
-      "num": 113449,
-      "word": "减肥只吃水煮菜更易反弹",
-      "onboard_time": 1667890226,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112101,
@@ -1075,12 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108752,
+      "num": 108752,
+      "word": "电梯遇故障姐姐第一反应先护弟弟",
+      "onboard_time": 1667892326,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108008,
       "num": 108008,
       "word": "直播张益唐讲零点猜想",
       "onboard_time": 1667872407,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107437,
+      "num": 107437,
+      "word": "超级红人节",
+      "onboard_time": 1667892270,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 106089,
@@ -1147,6 +1179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98617,
+      "num": 98617,
+      "word": "如何像世界首富一样花钱",
+      "onboard_time": 1667892566,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98560,
       "num": 98560,
       "word": "一起感受胖妞的超强音浪",
@@ -1195,6 +1235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 87885,
+      "num": 87885,
+      "word": "徒手接娃男子吃米粉店主加蛋免单",
+      "onboard_time": 1667892808,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87394,
       "num": 87394,
       "word": "女子分享开店日常上万网友帮改造",
@@ -1227,14 +1275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 83104,
-      "num": 83104,
-      "word": "男子吃变质腌菜后血变蓝黑色",
-      "onboard_time": 1667891367,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80793,
       "num": 80793,
       "word": "没见过这么配合洗澡的猫",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1667829027,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76791,
-      "num": 76791,
-      "word": "特朗普称将宣布重大消息",
-      "onboard_time": 1667891845,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 72699,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29639,
+      "num": 318323,
+      "word": "山东96岁老人为烈士守墓36载",
+      "onboard_time": 1667892326,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23068,
