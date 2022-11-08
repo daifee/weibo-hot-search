@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667918510236,
+  "endTime": 1667921038957,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623903,
+      "num": 1623903,
+      "word": "川外被曝18元盒饭不断出现异物",
+      "onboard_time": 1667916630,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1572717,
       "num": 1572717,
       "word": "张庭陶虹等涉嫌传销案听证会结束",
@@ -177,6 +185,14 @@
       "onboard_time": 1667913689,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1464600,
+      "num": 1464600,
+      "word": "IU",
+      "onboard_time": 1667919390,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1431143,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 989979,
-      "num": 433916,
+      "num": 463702,
       "word": "这就是真公主吧",
       "onboard_time": 1667912609,
       "rank": 12,
@@ -529,6 +545,14 @@
       "onboard_time": 1667869168,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 698542,
+      "num": 246541,
+      "word": "白敬亭拍的月亮",
+      "onboard_time": 1667920289,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 695567,
@@ -720,14 +744,6 @@
       "word": "外公地里挖出1万多存款救济外孙",
       "onboard_time": 1667800408,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569039,
-      "num": 569039,
-      "word": "川外被曝18元盒饭不断出现异物",
-      "onboard_time": 1667916630,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436776,
+      "num": 436776,
+      "word": "邱瑞 谢谢王涛",
+      "onboard_time": 1667918071,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434343,
       "num": 340067,
       "word": "陈飞宇好欲",
@@ -1299,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396889,
+      "num": 396889,
+      "word": "王曼昱",
+      "onboard_time": 1667917589,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392035,
       "num": 392035,
       "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1667873667,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349981,
+      "num": 245359,
+      "word": "杨幂白宇是真的笑场了吧",
+      "onboard_time": 1667919211,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 349280,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1667810129,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320565,
+      "num": 81969,
+      "word": "造型师回应虞书欣仙剑六服装问题",
+      "onboard_time": 1667921010,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 318645,
@@ -1915,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263417,
+      "num": 263417,
+      "word": "牙都快咬碎了还是没忍住",
+      "onboard_time": 1667918129,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263234,
       "num": 221584,
       "word": "王一博今日直播截图状态",
@@ -2139,14 +2195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231213,
-      "num": 149206,
-      "word": "邱瑞 谢谢王涛",
-      "onboard_time": 1667918071,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229890,
       "num": 229890,
       "word": "RedVelvet将11月28日回归",
@@ -2193,14 +2241,6 @@
       "onboard_time": 1667807666,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225323,
-      "num": 225323,
-      "word": "王曼昱",
-      "onboard_time": 1667917589,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 225281,
@@ -2441,6 +2481,14 @@
       "onboard_time": 1667893046,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200125,
+      "num": 200125,
+      "word": "和邻居吵架后发现是老师",
+      "onboard_time": 1667909911,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 199333,
@@ -2945,14 +2993,6 @@
       "onboard_time": 1667903373,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 154070,
-      "num": 154070,
-      "word": "和邻居吵架后发现是老师",
-      "onboard_time": 1667909911,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 153742,
@@ -3803,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97843,
+      "num": 97843,
+      "word": "重庆警方回应一女子因家暴跳桥",
+      "onboard_time": 1667920229,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97715,
       "num": 97715,
       "word": "北京新增本土感染者30例社会面1例",
@@ -3827,14 +3875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96541,
-      "num": 96541,
-      "word": "牙都快咬碎了还是没忍住",
-      "onboard_time": 1667918129,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96001,
       "num": 96001,
       "word": "今晚你拍到红月亮了吗",
@@ -3857,6 +3897,14 @@
       "onboard_time": 1667820508,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95550,
+      "num": 95550,
+      "word": "学校食堂17元的一顿饭",
+      "onboard_time": 1667920528,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 95334,
@@ -3995,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89012,
+      "num": 89012,
+      "word": "趴在门缝里的三只小狗",
+      "onboard_time": 1667920710,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88884,
       "num": 88884,
       "word": "马斯克回应蓝V付费制",
@@ -4128,6 +4184,14 @@
       "word": "赣州数百人涌进河滩挖宝",
       "onboard_time": 1667813666,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "你的疲劳可能是吃出来的",
+      "onboard_time": 1667920411,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
