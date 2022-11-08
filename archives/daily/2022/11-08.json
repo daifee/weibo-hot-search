@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667899375922,
+  "endTime": 1667900272044,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -9,6 +9,14 @@
       "onboard_time": 1667876064,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2381567,
+      "num": 435941,
+      "word": "张元英放弃高考",
+      "onboard_time": 1667899349,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 2355748,
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2045616,
-      "num": 103871,
-      "word": "张元英放弃高考",
-      "onboard_time": 1667899349,
+      "raw_hot": 1895467,
+      "num": 1895467,
+      "word": "韩国地铁发生大规模人群聚集",
+      "onboard_time": 1667897006,
       "rank": 47,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1856736,
@@ -75,6 +83,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1382076,
+      "num": 1382076,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 47,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 1318630,
       "num": 383282,
       "word": "司机下车上厕所被要求隔离七天",
@@ -99,12 +115,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1091748,
-      "num": 1091748,
-      "word": "韩国地铁发生大规模人群聚集",
-      "onboard_time": 1667897006,
+      "raw_hot": 1072526,
+      "num": 1072526,
+      "word": "你参加过成人礼吗",
+      "onboard_time": 1667894967,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 1067413,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 1010478,
-      "num": 404455,
+      "num": 433627,
       "word": "陈飞宇被当面叫阿瑟的反应",
       "onboard_time": 1667893588,
       "rank": 10,
@@ -195,28 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 810956,
-      "num": 810956,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 47,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 800931,
       "num": 800931,
       "word": "广州新增本土感染者2377例",
       "onboard_time": 1667871266,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794834,
-      "num": 794834,
-      "word": "你参加过成人礼吗",
-      "onboard_time": 1667894967,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 732016,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565235,
+      "num": 280273,
+      "word": "杜华回应打造下一个王一博",
+      "onboard_time": 1667897308,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559153,
       "num": 559153,
       "word": "小伙清理舌苔误吞18厘米长牙刷",
@@ -329,14 +337,6 @@
       "onboard_time": 1667883690,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 513373,
-      "num": 230876,
-      "word": "杜华回应打造下一个王一博",
-      "onboard_time": 1667897308,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 513085,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478639,
+      "num": 417282,
+      "word": "唐嫣 繁花",
+      "onboard_time": 1667896885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473087,
       "num": 473087,
       "word": "库里47分8篮板",
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447090,
-      "num": 401569,
-      "word": "唐嫣 繁花",
-      "onboard_time": 1667896885,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 442244,
+      "num": 442244,
+      "word": "月亮",
+      "onboard_time": 1667899227,
+      "rank": 37,
+      "category": "自然"
     },
     {
       "raw_hot": 427106,
@@ -520,6 +528,14 @@
       "word": "孟羽童再发文辟谣离职",
       "onboard_time": 1667895806,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399503,
+      "num": 399503,
+      "word": "女子奔丧请假4天被扣3000元工资",
+      "onboard_time": 1667899110,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -620,11 +636,19 @@
     },
     {
       "raw_hot": 318645,
-      "num": 224454,
+      "num": 274954,
       "word": "马嘉祺宋亚轩话剧万水朝东舞台照",
       "onboard_time": 1667898149,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311951,
+      "num": 311951,
+      "word": "北京新增本土感染者44例",
+      "onboard_time": 1667897728,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311729,
@@ -633,14 +657,6 @@
       "onboard_time": 1667885967,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306862,
-      "num": 306862,
-      "word": "北京新增本土感染者44例",
-      "onboard_time": 1667897728,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303757,
@@ -1075,6 +1091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165571,
+      "num": 127014,
+      "word": "田曦薇的新剧角色适配度",
+      "onboard_time": 1667899950,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165472,
       "num": 165472,
       "word": "狗狗也能听懂好赖话",
@@ -1187,14 +1211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136605,
-      "num": 136605,
-      "word": "女子奔丧请假4天被扣3000元工资",
-      "onboard_time": 1667899110,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1667824648,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129409,
-      "num": 129409,
-      "word": "月亮",
-      "onboard_time": 1667899227,
-      "rank": 37,
-      "category": "自然"
     },
     {
       "raw_hot": 129228,
@@ -1555,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79364,
+      "num": 79364,
+      "word": "爸爸给1岁娃装扮出生到70岁穿着",
+      "onboard_time": 1667898149,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77322,
       "num": 77322,
       "word": "70岁还能给妈妈付钱多幸福",
@@ -1675,7 +1691,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36699,
+      "raw_hot": 43858,
       "num": 401198,
       "word": "进博的热度上海的温度",
       "onboard_time": 1667898267,
