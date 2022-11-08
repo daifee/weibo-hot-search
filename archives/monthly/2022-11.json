@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667926872923,
+  "endTime": 1667928462195,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834918,
+      "num": 834918,
+      "word": "官方辟谣错过女儿成人礼书记开公司",
+      "onboard_time": 1667922687,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828335,
       "num": 449826,
       "word": "李承铉戚薇二胎叫seven",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1667704944,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 626621,
-      "num": 626621,
-      "word": "官方辟谣错过女儿成人礼书记开公司",
-      "onboard_time": 1667922687,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625714,
@@ -5001,6 +5001,14 @@
       "onboard_time": 1667790566,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406056,
+      "num": 406056,
+      "word": "睡前2小时进食就算夜宵",
+      "onboard_time": 1667923107,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405861,
@@ -7835,14 +7843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249799,
-      "num": 249799,
-      "word": "睡前2小时进食就算夜宵",
-      "onboard_time": 1667923107,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249582,
       "num": 249582,
       "word": "俞敏洪称上大学不仅是为找工作",
@@ -7875,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248847,
+      "num": 228059,
+      "word": "郑州社区书记同名公司老总女儿发声",
+      "onboard_time": 1667924306,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248732,
       "num": 179489,
       "word": "NCTDREAM获年度艺人奖",
@@ -7897,14 +7905,6 @@
       "onboard_time": 1667827529,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247305,
-      "num": 228059,
-      "word": "郑州社区书记同名公司老总女儿发声",
-      "onboard_time": 1667924306,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245691,
@@ -11731,6 +11731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137494,
+      "num": 137494,
+      "word": "95后小伙鹤岗买房后云监工装修",
+      "onboard_time": 1667924965,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137018,
       "num": 137018,
       "word": "90秒俯瞰宝岛台湾",
@@ -13657,14 +13665,6 @@
       "onboard_time": 1667432181,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100454,
-      "num": 100454,
-      "word": "95后小伙鹤岗买房后云监工装修",
-      "onboard_time": 1667924965,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100362,
@@ -16057,6 +16057,14 @@
       "onboard_time": 1667344943,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52855,
+      "num": 44965,
+      "word": "鹿晗新歌战报",
+      "onboard_time": 1667925861,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 51800,

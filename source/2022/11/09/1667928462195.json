@@ -1,0 +1,410 @@
+{
+  "runTime": 1667928462195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 834918,
+        "num": 834918,
+        "word": "官方辟谣错过女儿成人礼书记开公司",
+        "onboard_time": 1667922687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667101,
+        "num": 667101,
+        "word": "IU",
+        "onboard_time": 1667919390,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24672,
+        "num": 496162,
+        "word": "这些工业互联网科技太酷了",
+        "onboard_time": 1667911347,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 406056,
+        "num": 406056,
+        "word": "睡前2小时进食就算夜宵",
+        "onboard_time": 1667923107,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378702,
+        "num": 378702,
+        "word": "再见爱人张婉婷",
+        "onboard_time": 1667921310,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207731,
+        "num": 207731,
+        "word": "南京大学回应周某被举报",
+        "onboard_time": 1667922089,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189133,
+        "num": 189133,
+        "word": "童漠男杀疯了",
+        "onboard_time": 1667921790,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188640,
+        "num": 188640,
+        "word": "川外被曝18元盒饭不断出现异物",
+        "onboard_time": 1667916630,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151661,
+        "num": 151661,
+        "word": "女子奔丧请假4天被扣3000元工资",
+        "onboard_time": 1667899110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137494,
+        "num": 137494,
+        "word": "95后小伙鹤岗买房后云监工装修",
+        "onboard_time": 1667924965,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325162,
+        "num": 137316,
+        "word": "河南辟谣网传刘红英为某社区书记",
+        "onboard_time": 1667909130,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248847,
+        "num": 136937,
+        "word": "郑州社区书记同名公司老总女儿发声",
+        "onboard_time": 1667924306,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 136861,
+        "word": "卿卿日常 唧唧日常",
+        "onboard_time": 1667926101,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159587,
+        "num": 136538,
+        "word": "苏醒当年没被淘汰的原因",
+        "onboard_time": 1667913689,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136378,
+        "num": 136378,
+        "word": "韩国地铁发生大规模人群聚集",
+        "onboard_time": 1667897006,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136163,
+        "num": 136163,
+        "word": "重庆警方回应一女子因家暴跳桥",
+        "onboard_time": 1667920229,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 121671,
+        "word": "牙都快咬碎了还是没忍住",
+        "onboard_time": 1667918129,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119595,
+        "num": 119595,
+        "word": "这就是真公主吧",
+        "onboard_time": 1667912609,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88239,
+        "num": 88239,
+        "word": "学校食堂17元的一顿饭",
+        "onboard_time": 1667920528,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80992,
+        "num": 80992,
+        "word": "王者荣耀新射手英雄",
+        "onboard_time": 1667915311,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 79551,
+        "word": "白敬亭拍的月亮",
+        "onboard_time": 1667920289,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93563,
+        "num": 77785,
+        "word": "陈飞宇说婧仪拜拜",
+        "onboard_time": 1667921610,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92951,
+        "num": 77219,
+        "word": "GMA获奖名单",
+        "onboard_time": 1667923107,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75520,
+        "num": 75520,
+        "word": "你的疲劳可能是吃出来的",
+        "onboard_time": 1667920411,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66576,
+        "num": 66576,
+        "word": "和邻居吵架后发现是老师",
+        "onboard_time": 1667909911,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65223,
+        "num": 65223,
+        "word": "烤橘子这么管用吗",
+        "onboard_time": 1667914287,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64393,
+        "num": 64393,
+        "word": "重庆九龙坡区疫情防控",
+        "onboard_time": 1667913091,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60538,
+        "num": 60538,
+        "word": "月全食",
+        "onboard_time": 1667896944,
+        "rank": 27,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 58611,
+        "num": 58611,
+        "word": "宿舍关系不和谐有多可怕",
+        "onboard_time": 1667905949,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54785,
+        "num": 54785,
+        "word": "世界杯大力神杯被一元拍卖",
+        "onboard_time": 1667904992,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81012,
+        "num": 54422,
+        "word": "邱瑞 谢谢王涛",
+        "onboard_time": 1667918071,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74819,
+        "num": 53431,
+        "word": "造型师回应虞书欣仙剑六服装问题",
+        "onboard_time": 1667921010,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66313,
+        "num": 52442,
+        "word": "杨幂白宇是真的笑场了吧",
+        "onboard_time": 1667919211,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57800,
+        "num": 51708,
+        "word": "黄觉儿子看再见爱人哭到失声",
+        "onboard_time": 1667916630,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51366,
+        "num": 51366,
+        "word": "王曼昱",
+        "onboard_time": 1667917589,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56015,
+        "num": 51230,
+        "word": "seventeen gma",
+        "onboard_time": 1667917048,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50993,
+        "num": 50993,
+        "word": "趴在门缝里的三只小狗",
+        "onboard_time": 1667920710,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49952,
+        "num": 49952,
+        "word": "班主任一次早点名救了学生1家3口",
+        "onboard_time": 1667902529,
+        "rank": 37,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 47447,
+        "num": 47447,
+        "word": "EDG田野说过山车不是小朋友玩的",
+        "onboard_time": 1667908767,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45195,
+        "num": 45195,
+        "word": "血月",
+        "onboard_time": 1667905048,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 52855,
+        "num": 44965,
+        "word": "鹿晗新歌战报",
+        "onboard_time": 1667925861,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43976,
+        "num": 43976,
+        "word": "国产大飞机C919获签300架订单",
+        "onboard_time": 1667907150,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 39860,
+        "num": 39860,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1667888426,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 39380,
+        "num": 39380,
+        "word": "福建一工厂日薪2千招聘缝纫工",
+        "onboard_time": 1667909188,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37250,
+        "num": 37250,
+        "word": "王楚钦孙颖莎3比1赵钊彦孙铭阳",
+        "onboard_time": 1667915912,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36924,
+        "num": 36924,
+        "word": "不要放弃任何一只猫咪",
+        "onboard_time": 1667912967,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33144,
+        "num": 33144,
+        "word": "故宫红月亮",
+        "onboard_time": 1667913927,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 30432,
+        "num": 33074,
+        "word": "演员蓝天野名字是当地下党交通员时取的",
+        "onboard_time": 1667915008,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26768,
+        "num": 33059,
+        "word": "转场算是被他玩明白了",
+        "onboard_time": 1667921729,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23280,
+        "num": 32957,
+        "word": "第23个中国记者节",
+        "onboard_time": 1667925562,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国国际进口博览会#"
+    }
+  }
+}
