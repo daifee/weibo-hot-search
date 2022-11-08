@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667915204574,
+  "endTime": 1667915909119,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -139,6 +139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1117456,
+      "num": 1117456,
+      "word": "男子合租上厕所怕脏踩碎坐便器",
+      "onboard_time": 1667911049,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072526,
       "num": 1072526,
       "word": "你参加过成人礼吗",
@@ -163,19 +171,19 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1045591,
+      "num": 1045591,
+      "word": "苏醒当年没被淘汰的原因",
+      "onboard_time": 1667913689,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1029611,
       "num": 1029611,
       "word": "重庆嘉陵江惊现巨大阴沉木",
       "onboard_time": 1667880029,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1026756,
-      "num": 1026756,
-      "word": "男子合租上厕所怕脏踩碎坐便器",
-      "onboard_time": 1667911049,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1667835029,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 928025,
-      "num": 928025,
-      "word": "苏醒当年没被淘汰的原因",
-      "onboard_time": 1667913689,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 924363,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707696,
+      "num": 334641,
+      "word": "这就是真公主吧",
+      "onboard_time": 1667912609,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 700846,
       "num": 379687,
       "word": "第一个总部设在中国的政府间国际组织",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600910,
+      "num": 342305,
+      "word": "陈飞宇张婧仪涨粉情况",
+      "onboard_time": 1667912967,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 589954,
       "num": 368215,
       "word": "蒋依依探班赵露思偷偷藏不住",
@@ -369,22 +385,6 @@
       "onboard_time": 1667889027,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 575734,
-      "num": 342305,
-      "word": "陈飞宇张婧仪涨粉情况",
-      "onboard_time": 1667912967,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 560930,
-      "num": 334641,
-      "word": "这就是真公主吧",
-      "onboard_time": 1667912609,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 560743,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261528,
+      "num": 179531,
+      "word": "张凯丽说雷佳音不是黑脸是太紧张了",
+      "onboard_time": 1667914710,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260405,
       "num": 146147,
       "word": "点燃我温暖你",
@@ -953,14 +961,6 @@
       "onboard_time": 1667909490,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 244982,
-      "num": 127199,
-      "word": "张凯丽说雷佳音不是黑脸是太紧张了",
-      "onboard_time": 1667914710,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 243155,
@@ -1179,11 +1179,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196972,
+      "num": 196972,
+      "word": "烤橘子这么管用吗",
+      "onboard_time": 1667914287,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194948,
       "num": 194948,
       "word": "电梯遇故障姐姐第一反应先护弟弟",
       "onboard_time": 1667892326,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194160,
+      "num": 194160,
+      "word": "重庆九龙坡区疫情防控",
+      "onboard_time": 1667913091,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176451,
+      "num": 176451,
+      "word": "故宫红月亮",
+      "onboard_time": 1667913927,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 176103,
       "num": 176103,
       "word": "10款网红奶茶9款含咖啡因",
@@ -1328,6 +1352,14 @@
       "word": "爸爸给1岁娃装扮出生到70岁穿着",
       "onboard_time": 1667898149,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169473,
+      "num": 169473,
+      "word": "演员蓝天野名字是当地下党交通员时取的",
+      "onboard_time": 1667915008,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1451,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147391,
-      "num": 120066,
-      "word": "故宫红月亮",
-      "onboard_time": 1667913927,
-      "rank": 36,
-      "category": "自然"
-    },
-    {
       "raw_hot": 146443,
       "num": 135293,
       "word": "飞机略过红月亮",
@@ -1467,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145188,
-      "num": 145188,
-      "word": "重庆九龙坡区疫情防控",
-      "onboard_time": 1667913091,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "养猫人睡个觉都不容易",
+      "onboard_time": 1667911887,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 144590,
@@ -1523,14 +1547,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 141262,
-      "num": 119321,
-      "word": "烤橘子这么管用吗",
-      "onboard_time": 1667914287,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 139605,
       "num": 139605,
       "word": "小伙网恋被骗后加入对方被判缓刑",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1667903672,
       "rank": 33,
       "category": "自然"
-    },
-    {
-      "raw_hot": 136522,
-      "num": 136522,
-      "word": "养猫人睡个觉都不容易",
-      "onboard_time": 1667911887,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 134083,
@@ -1683,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "王者荣耀新射手英雄",
+      "onboard_time": 1667915311,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "90后小伙包大屏登手写道歉信",
@@ -1755,6 +1771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106555,
+      "num": 115812,
+      "word": "和邻居吵架后发现是老师",
+      "onboard_time": 1667909911,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106497,
       "num": 106497,
       "word": "成都非遗麻辣美食有多绝",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1667909368,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104455,
-      "num": 104455,
-      "word": "演员蓝天野名字是当地下党交通员时取的",
-      "onboard_time": 1667915008,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104345,
@@ -1867,20 +1883,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 98315,
+      "num": 1579500,
+      "word": "这些工业互联网科技太酷了",
+      "onboard_time": 1667911347,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 96001,
       "num": 96001,
       "word": "今晚你拍到红月亮了吗",
       "onboard_time": 1667915008,
       "rank": 45,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 95993,
-      "num": 1579500,
-      "word": "这些工业互联网科技太酷了",
-      "onboard_time": 1667911347,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 95889,
@@ -1915,12 +1931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91167,
-      "num": 91167,
-      "word": "和邻居吵架后发现是老师",
-      "onboard_time": 1667909911,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 91316,
+      "num": 115237,
+      "word": "摄影师揭秘雪豹怼脸照拍摄过程",
+      "onboard_time": 1667915429,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89227,
