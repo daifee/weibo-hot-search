@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667943427226,
+  "endTime": 1667946193127,
   "band_list": [
     {
       "raw_hot": 1502540,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240469,
+      "num": 240469,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227799,
       "num": 227799,
       "word": "卿卿日常 唧唧日常",
@@ -185,14 +193,6 @@
       "onboard_time": 1667921010,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189315,
-      "num": 189315,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178301,
@@ -305,6 +305,14 @@
       "onboard_time": 1667928556,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 108981,
+      "num": 58755,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108613,
@@ -492,19 +500,27 @@
     },
     {
       "raw_hot": 32858,
-      "num": 27795,
+      "num": 29986,
       "word": "民警翻垃圾6小时为女孩寻回救命药",
       "onboard_time": 1667935332,
       "rank": 49,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 32439,
-      "num": 14872,
-      "word": "女生裹被子屋外躺平晒太阳",
-      "onboard_time": 1667939412,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 30405,
+      "num": 27191,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 28594,
+      "num": 28594,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 26768,
@@ -515,12 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26244,
-      "num": 14677,
-      "word": "泽连斯基将参加G20峰会",
-      "onboard_time": 1667937851,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 24592,
+      "num": 24592,
+      "word": "泰妍露腰装",
+      "onboard_time": 1667942111,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24026,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17120,
+      "num": 17120,
+      "word": "全面加强练兵备战",
+      "onboard_time": 1667943132,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 14673,
       "num": 14673,
       "word": "女生酒后购物误买水果模型",
@@ -539,36 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14404,
-      "num": 14404,
-      "word": "泰妍露腰装",
-      "onboard_time": 1667942111,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 14081,
       "num": 13150,
       "word": "乃万直播状态",
       "onboard_time": 1667930294,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11177,
-      "num": 11177,
-      "word": "王鹤棣陈钰琪浮图缘预约破250w",
-      "onboard_time": 1667941512,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 10419,
-      "num": 10615,
-      "word": "全面加强练兵备战",
-      "onboard_time": 1667943132,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 9988,
