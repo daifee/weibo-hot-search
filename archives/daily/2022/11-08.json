@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667896296935,
+  "endTime": 1667897184343,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -59,20 +59,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1542541,
+      "num": 1542541,
+      "word": "张庭回应涉嫌传销案",
+      "onboard_time": 1667895267,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1318630,
       "num": 383282,
       "word": "司机下车上厕所被要求隔离七天",
       "onboard_time": 1667864785,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1272010,
-      "num": 1272010,
-      "word": "张庭回应涉嫌传销案",
-      "onboard_time": 1667895267,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1150744,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010478,
+      "num": 397528,
+      "word": "陈飞宇被当面叫阿瑟的反应",
+      "onboard_time": 1667893588,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 979347,
       "num": 979347,
       "word": "知名糕点门店老鼠在展柜旁乱窜",
       "onboard_time": 1667877506,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961504,
-      "num": 339355,
-      "word": "陈飞宇被当面叫阿瑟的反应",
-      "onboard_time": 1667893588,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 959019,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632297,
+      "num": 632297,
+      "word": "优酷二刷剧集含量过高",
+      "onboard_time": 1667895687,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614563,
       "num": 419639,
       "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
@@ -235,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578686,
-      "num": 321483,
+      "raw_hot": 582743,
+      "num": 354812,
       "word": "阿瑟 这未必是护手霜啊",
       "onboard_time": 1667894428,
       "rank": 12,
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453239,
-      "num": 315210,
-      "word": "优酷二刷剧集含量过高",
-      "onboard_time": 1667895687,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 427106,
       "num": 405996,
       "word": "陈飞宇新浪扫楼",
@@ -441,6 +441,14 @@
       "onboard_time": 1667875288,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 414342,
+      "num": 414342,
+      "word": "父母用全家姓给娃取名陈皮话梅糖",
+      "onboard_time": 1667894668,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407100,
@@ -515,6 +523,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 331873,
+      "num": 255348,
+      "word": "被李光洙和李栋旭笑死",
+      "onboard_time": 1667895987,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330668,
       "num": 330668,
       "word": "95后女孩瘫痪20年自学捏粘土售卖",
@@ -563,6 +579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 293658,
+      "num": 293658,
+      "word": "男子拆德芙巧克力发现蠕动活虫",
+      "onboard_time": 1667893405,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292402,
       "num": 292402,
       "word": "李峋朱韵暗恋等于明恋",
@@ -571,20 +595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284984,
+      "num": 255176,
+      "word": "肖战登印尼财经报",
+      "onboard_time": 1667894787,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283504,
       "num": 266856,
       "word": "汤唯提名青龙影后",
       "onboard_time": 1667874746,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 283472,
-      "num": 225628,
-      "word": "肖战登印尼财经报",
-      "onboard_time": 1667894787,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 281101,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 278180,
-      "num": 179530,
+      "num": 254963,
       "word": "Lisa扭到我心里了",
       "onboard_time": 1667893949,
       "rank": 30,
@@ -659,6 +683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 256130,
+      "num": 256130,
+      "word": "月全食",
+      "onboard_time": 1667816126,
+      "rank": 47,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 243155,
       "num": 243155,
       "word": "11月7日新增本土无症状6632例",
@@ -667,20 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237190,
-      "num": 237190,
-      "word": "父母用全家姓给娃取名陈皮话梅糖",
-      "onboard_time": 1667894668,
-      "rank": 19,
+      "raw_hot": 230850,
+      "num": 230850,
+      "word": "孟羽童再发文辟谣离职",
+      "onboard_time": 1667895806,
+      "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229750,
-      "num": 166832,
-      "word": "被李光洙和李栋旭笑死",
-      "onboard_time": 1667895987,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 226703,
@@ -721,14 +745,6 @@
       "onboard_time": 1667884468,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 222585,
-      "num": 222585,
-      "word": "男子拆德芙巧克力发现蠕动活虫",
-      "onboard_time": 1667893405,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222225,
@@ -795,6 +811,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "如何像世界首富一样花钱",
+      "onboard_time": 1667892566,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203870,
       "num": 203870,
       "word": "5男子饭馆吃133元要求少收100元",
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192194,
+      "num": 177344,
+      "word": "多一个阿瑟怎么了",
+      "onboard_time": 1667897006,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191284,
       "num": 191284,
       "word": "IXFORM今天解散了",
@@ -907,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185675,
+      "num": 175779,
+      "word": "阿瑟别坐了",
+      "onboard_time": 1667896586,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184325,
       "num": 157804,
       "word": "点燃我温暖你评分涨至7.4分",
       "onboard_time": 1667873786,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183202,
-      "num": 183202,
-      "word": "如何像世界首富一样花钱",
-      "onboard_time": 1667892566,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182663,
@@ -963,12 +995,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 168707,
+      "num": 121499,
+      "word": "唐嫣 繁花",
+      "onboard_time": 1667896885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
       "onboard_time": 1667876606,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167063,
+      "num": 167063,
+      "word": "你参加过成人礼吗",
+      "onboard_time": 1667894967,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 167057,
@@ -1123,8 +1171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121259,
-      "num": 121259,
+      "raw_hot": 124461,
+      "num": 124461,
       "word": "好想穿着羽绒服洗澡",
       "onboard_time": 1667895267,
       "rank": 37,
@@ -1153,14 +1201,6 @@
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117355,
-      "num": 117355,
-      "word": "孟羽童再发文辟谣离职",
-      "onboard_time": 1667895806,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114853,
@@ -1299,6 +1339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 96473,
+      "num": 96473,
+      "word": "猫猫是懂私人定制的",
+      "onboard_time": 1667895447,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94358,
       "num": 94358,
       "word": "这个跑秀像极了下班的我",
@@ -1320,6 +1368,22 @@
       "word": "台北故宫文物毁损视频首曝光",
       "onboard_time": 1667825547,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90256,
+      "num": 90256,
+      "word": "韩国地铁发生大规模人群聚集",
+      "onboard_time": 1667897006,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89227,
+      "num": 89227,
+      "word": "官方回应司机下车上厕所被要求隔离",
+      "onboard_time": 1667896472,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85855,
+      "num": 85855,
+      "word": "高校女记者跟拍运动会有多拼",
+      "onboard_time": 1667897128,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85672,
       "num": 85672,
       "word": "明年好多古偶",
@@ -1379,20 +1451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 83283,
-      "num": 83283,
-      "word": "你参加过成人礼吗",
-      "onboard_time": 1667894967,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 80933,
-      "num": 80933,
-      "word": "猫猫是懂私人定制的",
-      "onboard_time": 1667895447,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 83556,
+      "num": 326198,
+      "word": "媒体人有了一首属于自己的歌",
+      "onboard_time": 1667894487,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80793,
@@ -1451,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65229,
-      "num": 307369,
-      "word": "媒体人有了一首属于自己的歌",
-      "onboard_time": 1667894487,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64885,
       "num": 64885,
       "word": "航拍中国第四季",
@@ -1507,14 +1563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 55077,
-      "num": 55077,
-      "word": "月全食",
-      "onboard_time": 1667816126,
-      "rank": 47,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 50785,
       "num": 50785,
       "word": "机器人和消防员合力救下溺海女子",
@@ -1539,20 +1587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48301,
+      "num": 121512,
+      "word": "双十一猜中夺冠球队退全款",
+      "onboard_time": 1667894428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47957,
       "num": 52271,
       "word": "为什么越长大反而越想家",
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40567,
-      "num": 116925,
-      "word": "双十一猜中夺冠球队退全款",
-      "onboard_time": 1667894428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29639,
