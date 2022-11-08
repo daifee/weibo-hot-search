@@ -1,0 +1,410 @@
+{
+  "runTime": 1667915204574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1927620,
+        "num": 1927620,
+        "word": "月全食",
+        "onboard_time": 1667896944,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1662214,
+        "num": 1662214,
+        "word": "血月",
+        "onboard_time": 1667905048,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 95993,
+        "num": 1455783,
+        "word": "这些工业互联网科技太酷了",
+        "onboard_time": 1667911347,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1294762,
+        "num": 1294762,
+        "word": "河南辟谣网传刘红英为某社区书记",
+        "onboard_time": 1667909130,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026756,
+        "num": 1026756,
+        "word": "男子合租上厕所怕脏踩碎坐便器",
+        "onboard_time": 1667911049,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928025,
+        "num": 928025,
+        "word": "苏醒当年没被淘汰的原因",
+        "onboard_time": 1667913689,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 839209,
+        "num": 839209,
+        "word": "女子奔丧请假4天被扣3000元工资",
+        "onboard_time": 1667899110,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677728,
+        "num": 677728,
+        "word": "韩国地铁发生大规模人群聚集",
+        "onboard_time": 1667897006,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461890,
+        "num": 461890,
+        "word": "黄觉和麦子是网恋奔现",
+        "onboard_time": 1667907688,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344766,
+        "num": 344766,
+        "word": "福建一工厂日薪2千招聘缝纫工",
+        "onboard_time": 1667909188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702814,
+        "num": 342112,
+        "word": "张元英放弃高考",
+        "onboard_time": 1667899349,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575734,
+        "num": 339410,
+        "word": "陈飞宇张婧仪涨粉情况",
+        "onboard_time": 1667912967,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560930,
+        "num": 334641,
+        "word": "这就是真公主吧",
+        "onboard_time": 1667912609,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416196,
+        "num": 328008,
+        "word": "张婉婷 让人窒息",
+        "onboard_time": 1667888187,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326513,
+        "num": 326513,
+        "word": "宿舍关系不和谐有多可怕",
+        "onboard_time": 1667905949,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271417,
+        "num": 271417,
+        "word": "班主任一次早点名救了学生1家3口",
+        "onboard_time": 1667902529,
+        "rank": 15,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 223982,
+        "num": 223982,
+        "word": "国产大飞机C919获签300架订单",
+        "onboard_time": 1667907150,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217895,
+        "num": 217895,
+        "word": "王楚钦孙颖莎3比0周启豪何卓佳",
+        "onboard_time": 1667907808,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197227,
+        "num": 197227,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1667888426,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191614,
+        "num": 191614,
+        "word": "EDG田野说过山车不是小朋友玩的",
+        "onboard_time": 1667908767,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340224,
+        "num": 186434,
+        "word": "脱口秀大会",
+        "onboard_time": 1667912069,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271913,
+        "num": 184455,
+        "word": "杜华回应打造下一个王一博",
+        "onboard_time": 1667897308,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248732,
+        "num": 179489,
+        "word": "NCTDREAM获年度艺人奖",
+        "onboard_time": 1667914348,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "飞机掠过红月亮",
+        "onboard_time": 1667912009,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145188,
+        "num": 145188,
+        "word": "重庆九龙坡区疫情防控",
+        "onboard_time": 1667913091,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143595,
+        "num": 143595,
+        "word": "不要放弃任何一只猫咪",
+        "onboard_time": 1667912967,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140822,
+        "num": 140822,
+        "word": "月全食邂逅月掩天王星一生只能见一次",
+        "onboard_time": 1667903730,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 136522,
+        "num": 136522,
+        "word": "养猫人睡个觉都不容易",
+        "onboard_time": 1667911887,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129010,
+        "num": 129010,
+        "word": "街道办回应环卫大爷在小车前下跪",
+        "onboard_time": 1667905112,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127306,
+        "num": 127306,
+        "word": "书店卖给孩子言情盗墓书被家长斥责",
+        "onboard_time": 1667904211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245099,
+        "num": 127305,
+        "word": "EXO会以全新面貌尽快回归",
+        "onboard_time": 1667909068,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244982,
+        "num": 127199,
+        "word": "张凯丽说雷佳音不是黑脸是太紧张了",
+        "onboard_time": 1667914710,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231840,
+        "num": 127141,
+        "word": "命韵峋环 二搭",
+        "onboard_time": 1667904811,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230887,
+        "num": 127019,
+        "word": "gma",
+        "onboard_time": 1667903490,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126995,
+        "num": 126995,
+        "word": "世界杯大力神杯被一元拍卖",
+        "onboard_time": 1667904992,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227904,
+        "num": 124285,
+        "word": "吴京呼吁要保持生命通道畅通",
+        "onboard_time": 1667909490,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 147391,
+        "num": 120066,
+        "word": "故宫红月亮",
+        "onboard_time": 1667913927,
+        "rank": 36,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 141262,
+        "num": 119321,
+        "word": "烤橘子这么管用吗",
+        "onboard_time": 1667914287,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115816,
+        "num": 115816,
+        "word": "大叔卖完苹果花4万给老伴买首饰",
+        "onboard_time": 1667889869,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107815,
+        "num": 107815,
+        "word": "63岁阿姨展示青绿腰",
+        "onboard_time": 1667907929,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194709,
+        "num": 106760,
+        "word": "突然就治好了我的焦虑",
+        "onboard_time": 1667910869,
+        "rank": 40,
+        "category": "情感,综艺"
+      },
+      {
+        "raw_hot": 105110,
+        "num": 105110,
+        "word": "地球出现月全食时月球将发生什么",
+        "onboard_time": 1667898806,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 104455,
+        "num": 104455,
+        "word": "演员蓝天野名字是当地下党交通员时取的",
+        "onboard_time": 1667915008,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97457,
+        "num": 97457,
+        "word": "LBL",
+        "onboard_time": 1667906970,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96920,
+        "num": 96920,
+        "word": "南京大学回应",
+        "onboard_time": 1667887110,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96001,
+        "num": 96001,
+        "word": "今晚你拍到红月亮了吗",
+        "onboard_time": 1667915008,
+        "rank": 45,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 94752,
+        "num": 94752,
+        "word": "男子拆德芙巧克力发现蠕动活虫",
+        "onboard_time": 1667893405,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91167,
+        "num": 91167,
+        "word": "和邻居吵架后发现是老师",
+        "onboard_time": 1667909911,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89239,
+        "num": 89239,
+        "word": "父母用全家姓给娃取名陈皮话梅糖",
+        "onboard_time": 1667894668,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85902,
+        "num": 85902,
+        "word": "听到闺蜜复合后的反应",
+        "onboard_time": 1667909368,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国国际进口博览会#"
+    }
+  }
+}

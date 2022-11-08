@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667913089218,
+  "endTime": 1667915204574,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026756,
+      "num": 1026756,
+      "word": "男子合租上厕所怕脏踩碎坐便器",
+      "onboard_time": 1667911049,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026755,
       "num": 1026755,
       "word": "华为",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1667582660,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928025,
+      "num": 928025,
+      "word": "苏醒当年没被淘汰的原因",
+      "onboard_time": 1667913689,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 927035,
@@ -3147,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575734,
+      "num": 342305,
+      "word": "陈飞宇张婧仪涨粉情况",
+      "onboard_time": 1667912967,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 574729,
       "num": 574729,
       "word": "外公地里挖出1万多存款救济外孙",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1667473286,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 560930,
+      "num": 334641,
+      "word": "这就是真公主吧",
+      "onboard_time": 1667912609,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 560743,
@@ -4265,14 +4297,6 @@
       "onboard_time": 1667524825,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 455569,
-      "num": 380186,
-      "word": "男子合租上厕所怕脏踩碎坐便器",
-      "onboard_time": 1667911049,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453829,
@@ -5771,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344766,
+      "num": 344766,
+      "word": "福建一工厂日薪2千招聘缝纫工",
+      "onboard_time": 1667909188,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344269,
       "num": 344269,
       "word": "詹姆斯患上胃病",
@@ -5809,14 +5841,6 @@
       "onboard_time": 1667881410,
       "rank": 33,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 342305,
-      "num": 342305,
-      "word": "陈飞宇张婧仪涨粉情况",
-      "onboard_time": 1667912967,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 342092,
@@ -6609,14 +6633,6 @@
       "onboard_time": 1667867910,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 299378,
-      "num": 299378,
-      "word": "福建一工厂日薪2千招聘缝纫工",
-      "onboard_time": 1667909188,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299099,
@@ -7651,6 +7667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248732,
+      "num": 179489,
+      "word": "NCTDREAM获年度艺人奖",
+      "onboard_time": 1667914348,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248500,
       "num": 248500,
       "word": "南波万的聚会",
@@ -7697,6 +7721,14 @@
       "onboard_time": 1667909490,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 244982,
+      "num": 127199,
+      "word": "张凯丽说雷佳音不是黑脸是太紧张了",
+      "onboard_time": 1667914710,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 244967,
@@ -10235,6 +10267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162700,
+      "num": 162700,
+      "word": "飞机掠过红月亮",
+      "onboard_time": 1667912009,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162578,
       "num": 162578,
       "word": "杨幂片场花絮视频",
@@ -10979,6 +11019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147391,
+      "num": 120066,
+      "word": "故宫红月亮",
+      "onboard_time": 1667913927,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 146977,
       "num": 146977,
       "word": "海宁90后主播带羊群上班引围观",
@@ -11056,6 +11104,14 @@
       "word": "航拍视角看台湾全岛",
       "onboard_time": 1667691679,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145188,
+      "num": 145188,
+      "word": "重庆九龙坡区疫情防控",
+      "onboard_time": 1667913091,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -11137,6 +11193,14 @@
       "onboard_time": 1667424552,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 143595,
+      "num": 143595,
+      "word": "不要放弃任何一只猫咪",
+      "onboard_time": 1667912967,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 143588,
@@ -11265,6 +11329,14 @@
       "onboard_time": 1667539887,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141262,
+      "num": 119321,
+      "word": "烤橘子这么管用吗",
+      "onboard_time": 1667914287,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 141216,
@@ -11448,6 +11520,14 @@
       "word": "一身反骨的哈士奇",
       "onboard_time": 1667317112,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "养猫人睡个觉都不容易",
+      "onboard_time": 1667911887,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -13067,6 +13147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104455,
+      "num": 104455,
+      "word": "演员蓝天野名字是当地下党交通员时取的",
+      "onboard_time": 1667915008,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104345,
       "num": 104345,
       "word": "广东新增本土感染者2528例",
@@ -13201,14 +13289,6 @@
       "onboard_time": 1667826387,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102732,
-      "num": 102732,
-      "word": "不要放弃任何一只猫咪",
-      "onboard_time": 1667912967,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 102723,
@@ -13531,6 +13611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96001,
+      "num": 96001,
+      "word": "今晚你拍到红月亮了吗",
+      "onboard_time": 1667915008,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 95993,
+      "num": 1579500,
+      "word": "这些工业互联网科技太酷了",
+      "onboard_time": 1667911347,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 95950,
       "num": 95950,
       "word": "福克斯超远三分绝杀魔术",
@@ -13833,6 +13929,14 @@
       "onboard_time": 1667828367,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91167,
+      "num": 91167,
+      "word": "和邻居吵架后发现是老师",
+      "onboard_time": 1667909911,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 91133,
@@ -14481,14 +14585,6 @@
       "onboard_time": 1667315372,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83002,
-      "num": 83002,
-      "word": "养猫人睡个觉都不容易",
-      "onboard_time": 1667911887,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 82819,
@@ -15569,14 +15665,6 @@
       "onboard_time": 1667905231,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58193,
-      "num": 1579500,
-      "word": "这些工业互联网科技太酷了",
-      "onboard_time": 1667911347,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 57197,
