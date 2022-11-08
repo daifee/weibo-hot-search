@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667885280034,
+  "endTime": 1667886140906,
   "band_list": [
     {
       "raw_hot": 2402771,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024059,
+      "num": 1024059,
+      "word": "女生戒碳水减肥暴瘦后局部秃头",
+      "onboard_time": 1667882969,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 979347,
       "num": 979347,
       "word": "知名糕点门店老鼠在展柜旁乱窜",
@@ -97,14 +105,6 @@
       "onboard_time": 1667871027,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 921646,
-      "num": 921646,
-      "word": "女生戒碳水减肥暴瘦后局部秃头",
-      "onboard_time": 1667882969,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848593,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440483,
+      "num": 440483,
+      "word": "这小猫也太油腻了吧",
+      "onboard_time": 1667883690,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 424332,
       "num": 424332,
       "word": "嫌打篮球太吵老人从7楼扔饮料瓶",
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342921,
+      "num": 310561,
+      "word": "三轮司机抢行致公交乘客死亡被判刑",
+      "onboard_time": 1667881410,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 337644,
       "num": 212897,
       "word": "北京12345回应",
@@ -353,14 +369,6 @@
       "onboard_time": 1667867489,
       "rank": 17,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 332256,
-      "num": 332256,
-      "word": "这小猫也太油腻了吧",
-      "onboard_time": 1667883690,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 330668,
@@ -387,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310561,
-      "num": 310561,
-      "word": "三轮司机抢行致公交乘客死亡被判刑",
-      "onboard_time": 1667881410,
-      "rank": 33,
-      "category": "社会负面"
+      "raw_hot": 302022,
+      "num": 302022,
+      "word": "胡彦斌再见爱人边哭边吸氧",
+      "onboard_time": 1667885665,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 300323,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252404,
+      "num": 252404,
+      "word": "快递可以不拿但不能不到",
+      "onboard_time": 1667884408,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243155,
       "num": 243155,
       "word": "11月7日新增本土无症状6632例",
@@ -489,6 +505,14 @@
       "onboard_time": 1667817626,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222760,
+      "num": 222760,
+      "word": "鹿晗新歌霸榜",
+      "onboard_time": 1667884468,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 222225,
@@ -587,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195614,
-      "num": 195614,
-      "word": "鹿晗新歌霸榜",
-      "onboard_time": 1667884468,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 193032,
       "num": 193032,
       "word": "小伙患红斑狼疮近5年爬楼超10万层",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176103,
+      "num": 176103,
+      "word": "10款网红奶茶9款含咖啡因",
+      "onboard_time": 1667882190,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173050,
       "num": 173050,
       "word": "血月",
@@ -665,14 +689,6 @@
       "onboard_time": 1667825426,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 171770,
-      "num": 171770,
-      "word": "10款网红奶茶9款含咖啡因",
-      "onboard_time": 1667882190,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167647,
@@ -705,14 +721,6 @@
       "onboard_time": 1667823448,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163129,
-      "num": 163129,
-      "word": "快递可以不拿但不能不到",
-      "onboard_time": 1667884408,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 161867,
@@ -835,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113848,
+      "num": 113848,
+      "word": "歼20空中连续多个战术动作超震撼",
+      "onboard_time": 1667885727,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 112101,
       "num": 1651664,
       "word": "今天记者节",
       "onboard_time": 1667877148,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 111475,
+      "num": 111475,
+      "word": "开设女生自习室被指性别歧视",
+      "onboard_time": 1667885367,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110616,
@@ -856,6 +880,14 @@
       "word": "周深问点燃我温暖你这就开虐了",
       "onboard_time": 1667830654,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 108301,
+      "num": 108301,
+      "word": "白术治好了我的纠结症",
+      "onboard_time": 1667885306,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -961,6 +993,14 @@
       "onboard_time": 1667825547,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91861,
+      "num": 91861,
+      "word": "猫爪上留有狗狗被打的证据",
+      "onboard_time": 1667885967,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89025,
