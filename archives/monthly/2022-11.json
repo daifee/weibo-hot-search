@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667889007528,
+  "endTime": 1667890028260,
   "band_list": [
     {
       "raw_hot": 5749820,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1667309126,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100290,
+      "num": 1100290,
+      "word": "张婉婷 让人窒息",
+      "onboard_time": 1667888187,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1097624,
@@ -2859,6 +2867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 589285,
+      "num": 589285,
+      "word": "开设女生自习室被指性别歧视",
+      "onboard_time": 1667885367,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588607,
       "num": 588607,
       "word": "清洁工躺车库被碾亡司机一审被判无罪",
@@ -3955,14 +3971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465187,
-      "num": 465187,
-      "word": "开设女生自习室被指性别歧视",
-      "onboard_time": 1667885367,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464976,
       "num": 464976,
       "word": "重庆一小区宠物接连死亡",
@@ -4403,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427106,
+      "num": 405996,
+      "word": "陈飞宇新浪扫楼",
+      "onboard_time": 1667888367,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426518,
       "num": 426518,
       "word": "长风渡立冬官宣",
@@ -4664,14 +4680,6 @@
       "word": "狐妖月红篇杀青大合照",
       "onboard_time": 1667790566,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 405996,
-      "num": 405996,
-      "word": "陈飞宇新浪扫楼",
-      "onboard_time": 1667888367,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -5139,12 +5147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368832,
-      "num": 368832,
-      "word": "张婉婷 让人窒息",
-      "onboard_time": 1667888187,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 368324,
+      "num": 146561,
+      "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+      "onboard_time": 1667888007,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368293,
@@ -6355,6 +6363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 297672,
+      "num": 242520,
+      "word": "吴宣仪提前一星期被通知参加创造101",
+      "onboard_time": 1667889027,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296428,
       "num": 296428,
       "word": "管泽元同传",
@@ -7219,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251062,
+      "num": 251062,
+      "word": "武汉一人工湖中钓起鳄雀鳝",
+      "onboard_time": 1667886506,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250739,
       "num": 196672,
       "word": "李峋 bking",
@@ -7297,6 +7321,14 @@
       "onboard_time": 1667827529,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246322,
+      "num": 138087,
+      "word": "iPhone折叠屏",
+      "onboard_time": 1667888426,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 245691,
@@ -7409,6 +7441,14 @@
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240140,
+      "num": 240140,
+      "word": "歼20垂直拉升直插云海",
+      "onboard_time": 1667887646,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 239974,
@@ -7744,14 +7784,6 @@
       "word": "广州今日已取消888个航班",
       "onboard_time": 1667210127,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226535,
-      "num": 226535,
-      "word": "武汉一人工湖中钓起鳄雀鳝",
-      "onboard_time": 1667886506,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8627,6 +8659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 197190,
+      "num": 197190,
+      "word": "98斤女生扛180斤男生做力量训练",
+      "onboard_time": 1667887527,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197188,
       "num": 197188,
       "word": "回老家租房有多爽",
@@ -8793,6 +8833,14 @@
       "onboard_time": 1667870967,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191119,
+      "num": 191119,
+      "word": "吴京威名远扬",
+      "onboard_time": 1667889808,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 191087,
@@ -9064,14 +9112,6 @@
       "word": "农村阿姨给孩子换完尿布接着打篮球",
       "onboard_time": 1667270546,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182931,
-      "num": 146561,
-      "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
-      "onboard_time": 1667888007,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -10372,7 +10412,7 @@
     },
     {
       "raw_hot": 147963,
-      "num": 111636,
+      "num": 118903,
       "word": "再见爱人",
       "onboard_time": 1667288067,
       "rank": 32,
@@ -10465,6 +10505,14 @@
       "onboard_time": 1667395167,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 145814,
+      "num": 145814,
+      "word": "谁能拒绝好看的赠品啊",
+      "onboard_time": 1667887286,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 145657,
@@ -10569,14 +10617,6 @@
       "onboard_time": 1667424552,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 143908,
-      "num": 143908,
-      "word": "歼20垂直拉升直插云海",
-      "onboard_time": 1667887646,
-      "rank": 32,
-      "category": "军事"
     },
     {
       "raw_hot": 143588,
@@ -11041,6 +11081,14 @@
       "onboard_time": 1667455225,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133863,
+      "num": 133863,
+      "word": "你有肌肤饥渴症吗",
+      "onboard_time": 1667888967,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 133766,
@@ -11795,14 +11843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117841,
-      "num": 117841,
-      "word": "谁能拒绝好看的赠品啊",
-      "onboard_time": 1667887286,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117297,
       "num": 117297,
       "word": "出现这几种症状或是急性胰腺炎",
@@ -12081,6 +12121,14 @@
       "onboard_time": 1667281168,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110354,
+      "num": 110354,
+      "word": "2个动作提升肩关节稳定性",
+      "onboard_time": 1667889446,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 110346,
@@ -12544,14 +12592,6 @@
       "word": "3岁小朋友遛纸壳狗宣传环保",
       "onboard_time": 1667604862,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102224,
-      "num": 102224,
-      "word": "98斤女生扛180斤男生做力量训练",
-      "onboard_time": 1667887527,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -13723,6 +13763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "大叔卖完苹果花4万给老伴买首饰",
+      "onboard_time": 1667889869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82817,
       "num": 82817,
       "word": "eStar有点唱功但不多",
@@ -13859,6 +13907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80836,
+      "num": 80836,
+      "word": "女子分享开店日常上万网友帮改造",
+      "onboard_time": 1667889084,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80431,
       "num": 80431,
       "word": "瓷片粘住手指小姐姐尴尬求助消防",
@@ -13969,14 +14025,6 @@
       "onboard_time": 1667748989,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77960,
-      "num": 77960,
-      "word": "你有肌肤饥渴症吗",
-      "onboard_time": 1667888967,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 77872,
