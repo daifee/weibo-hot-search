@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667947194622,
+  "endTime": 1667950046133,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -232,6 +232,14 @@
       "word": "郑州平安街社区的万能的朋友圈",
       "onboard_time": 1667795975,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344670,
+      "num": 1344670,
+      "word": "官方辟谣错过女儿成人礼书记开公司",
+      "onboard_time": 1667922687,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -467,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834918,
-      "num": 834918,
-      "word": "官方辟谣错过女儿成人礼书记开公司",
-      "onboard_time": 1667922687,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 815302,
       "num": 815302,
       "word": "韩国踩踏事故6人被立案调查",
@@ -536,6 +536,14 @@
       "word": "俞敏洪称10年吃了3000片安眠药",
       "onboard_time": 1667829447,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753222,
+      "num": 753222,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1075,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 475270,
+      "num": 475270,
+      "word": "郑州社区书记同名公司老总女儿发声",
+      "onboard_time": 1667924306,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473087,
       "num": 473087,
       "word": "库里47分8篮板",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1667875288,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 414269,
+      "num": 414269,
+      "word": "女生裹被子屋外躺平晒太阳",
+      "onboard_time": 1667939412,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413092,
@@ -1747,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310706,
-      "num": 310706,
-      "word": "全国核酸检测再降价",
-      "onboard_time": 1667938752,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310662,
       "num": 276763,
       "word": "鹿晗keepmealive",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1667810428,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300508,
+      "num": 300508,
+      "word": "95后小伙鹤岗买房后云监工装修",
+      "onboard_time": 1667924965,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300323,
@@ -2131,14 +2155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248847,
-      "num": 243485,
-      "word": "郑州社区书记同名公司老总女儿发声",
-      "onboard_time": 1667924306,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248732,
       "num": 179489,
       "word": "NCTDREAM获年度艺人奖",
@@ -2184,6 +2200,14 @@
       "word": "北京11月6日新增41例本土确诊",
       "onboard_time": 1667780608,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241986,
+      "num": 241986,
+      "word": "你的疲劳可能是吃出来的",
+      "onboard_time": 1667920411,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2907,14 +2931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168307,
-      "num": 168307,
-      "word": "95后小伙鹤岗买房后云监工装修",
-      "onboard_time": 1667924965,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1667825905,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162441,
-      "num": 162441,
-      "word": "你的疲劳可能是吃出来的",
-      "onboard_time": 1667920411,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161970,
@@ -3091,6 +3099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 156060,
+      "num": 156060,
+      "word": "儿童绘本出现裸身男子按摩画面",
+      "onboard_time": 1667928556,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 156046,
       "num": 105186,
       "word": "柯南2023年剧场版预告",
@@ -3113,14 +3129,6 @@
       "onboard_time": 1667903730,
       "rank": 41,
       "category": "自然"
-    },
-    {
-      "raw_hot": 152890,
-      "num": 88479,
-      "word": "女生裹被子屋外躺平晒太阳",
-      "onboard_time": 1667939412,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152768,
@@ -3393,6 +3401,14 @@
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134490,
+      "num": 134490,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 134083,
@@ -3675,14 +3691,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 115051,
-      "num": 115051,
-      "word": "儿童绘本出现裸身男子按摩画面",
-      "onboard_time": 1667928556,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "90后小伙包大屏登手写道歉信",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1667798732,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111700,
+      "num": 111700,
+      "word": "泰妍露腰装",
+      "onboard_time": 1667942111,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110358,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1667863340,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101446,
+      "num": 101446,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 100782,
@@ -4619,6 +4643,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 65949,
+      "num": 65949,
+      "word": "国内最成功的的小妞电影是哪部",
+      "onboard_time": 1667936891,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 64885,
       "num": 64885,
       "word": "航拍中国第四季",
@@ -4651,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56589,
+      "num": 56589,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 55931,
       "num": 60045,
       "word": "杨幂白宇新剧公主抱",
@@ -4667,12 +4707,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52855,
-      "num": 44965,
+      "raw_hot": 54771,
+      "num": 52399,
       "word": "鹿晗新歌战报",
       "onboard_time": 1667925861,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 53762,
+      "num": 53762,
+      "word": "全面加强练兵备战",
+      "onboard_time": 1667943132,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 51262,
@@ -4681,14 +4729,6 @@
       "onboard_time": 1667755038,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50982,
-      "num": 50982,
-      "word": "民警翻垃圾6小时为女孩寻回救命药",
-      "onboard_time": 1667935332,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50888,
@@ -4731,36 +4771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46696,
-      "num": 46696,
-      "word": "泰妍露腰装",
-      "onboard_time": 1667942111,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45638,
-      "num": 45638,
-      "word": "泽连斯基将参加G20峰会",
-      "onboard_time": 1667937851,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 45622,
       "num": 53652,
       "word": "周恺vs周启豪",
       "onboard_time": 1667745875,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43939,
-      "num": 43939,
-      "word": "王鹤棣陈钰琪浮图缘预约破250w",
-      "onboard_time": 1667941512,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 43858,
@@ -4776,6 +4792,14 @@
       "word": "用狗子头像谱成的曲子",
       "onboard_time": 1667926581,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38873,
+      "num": 38873,
+      "word": "向消防员致敬最好的方式",
+      "onboard_time": 1667949921,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4801,22 +4825,6 @@
       "onboard_time": 1667892326,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29226,
-      "num": 24368,
-      "word": "国内最成功的的小妞电影是哪部",
-      "onboard_time": 1667936891,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24612,
-      "num": 24612,
-      "word": "全面加强练兵备战",
-      "onboard_time": 1667943132,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 23068,
