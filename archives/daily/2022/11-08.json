@@ -1,6 +1,6 @@
 {
   "startTime": 1667838688277,
-  "endTime": 1667904268568,
+  "endTime": 1667906325388,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 983710,
+      "num": 983710,
+      "word": "血月",
+      "onboard_time": 1667828668,
+      "rank": 25,
+      "category": "自然"
+    },
+    {
       "raw_hot": 979347,
       "num": 979347,
       "word": "知名糕点门店老鼠在展柜旁乱窜",
@@ -281,6 +289,14 @@
       "onboard_time": 1667865386,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632115,
+      "num": 632115,
+      "word": "班主任一次早点名救了学生1家3口",
+      "onboard_time": 1667902529,
+      "rank": 28,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 614563,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402924,
+      "num": 402924,
+      "word": "命韵峋环 二搭",
+      "onboard_time": 1667904811,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401911,
       "num": 401911,
       "word": "新疆新增无症状感染者585例",
@@ -577,6 +601,14 @@
       "onboard_time": 1667873667,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346235,
+      "num": 346235,
+      "word": "gma",
+      "onboard_time": 1667903490,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 342921,
@@ -665,14 +697,6 @@
       "onboard_time": 1667885967,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 310062,
-      "num": 310062,
-      "word": "班主任一次早点名救了学生1家3口",
-      "onboard_time": 1667902529,
-      "rank": 28,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 303757,
@@ -835,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224456,
-      "num": 186112,
-      "word": "gma",
-      "onboard_time": 1667903490,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224426,
       "num": 224426,
       "word": "乌鲁木齐警情通报",
@@ -952,6 +968,14 @@
       "word": "5男子饭馆吃133元要求少收100元",
       "onboard_time": 1667826688,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202173,
+      "num": 202173,
+      "word": "男童见警察就跑民警陪跑1公里",
+      "onboard_time": 1667900849,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181850,
+      "num": 137706,
+      "word": "毛不易李雪琴为王源新专魔性宣传",
+      "onboard_time": 1667905710,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177396,
       "num": 177396,
       "word": "两个少年因结伴追星星成挚友",
@@ -1105,22 +1137,6 @@
       "onboard_time": 1667882190,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175545,
-      "num": 175545,
-      "word": "男童见警察就跑民警陪跑1公里",
-      "onboard_time": 1667900849,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173050,
-      "num": 173050,
-      "word": "血月",
-      "onboard_time": 1667828668,
-      "rank": 25,
-      "category": "自然"
     },
     {
       "raw_hot": 172262,
@@ -1219,12 +1235,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 155108,
+      "num": 155108,
+      "word": "东北人是懂吃席的",
+      "onboard_time": 1667903373,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152541,
       "num": 144697,
       "word": "NCT新官方账号公开",
       "onboard_time": 1667874566,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144008,
+      "num": 144008,
+      "word": "世界杯大力神杯被一元拍卖",
+      "onboard_time": 1667904992,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 143562,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1667851992,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 139690,
+      "num": 139690,
+      "word": "原来小狗也只喜欢听漂亮话",
+      "onboard_time": 1667903969,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 139605,
@@ -1307,11 +1347,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132960,
+      "num": 132960,
+      "word": "书店卖给孩子言情盗墓书被家长斥责",
+      "onboard_time": 1667904211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131595,
       "num": 131595,
       "word": "李峋吃醋",
       "onboard_time": 1667824648,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131273,
+      "num": 131273,
+      "word": "马嘉祺宋亚轩首演话剧",
+      "onboard_time": 1667906067,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1339,6 +1395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124456,
+      "num": 124456,
+      "word": "月全食邂逅月掩天王星一生只能见一次",
+      "onboard_time": 1667903730,
+      "rank": 41,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 121596,
+      "num": 121596,
+      "word": "刘国强受贿案一审宣判",
+      "onboard_time": 1667901389,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119730,
       "num": 119730,
       "word": "白术治好了我的纠结症",
@@ -1355,14 +1427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119125,
-      "num": 119125,
-      "word": "东北人是懂吃席的",
-      "onboard_time": 1667903373,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118903,
       "num": 118903,
       "word": "再见爱人",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115304,
+      "num": 115304,
+      "word": "宿舍关系不和谐有多可怕",
+      "onboard_time": 1667905949,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 114853,
@@ -1451,6 +1523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106497,
+      "num": 106497,
+      "word": "成都非遗麻辣美食有多绝",
+      "onboard_time": 1667905411,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106089,
       "num": 106089,
       "word": "吃不到肉被气哭的猫咪",
@@ -1507,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101095,
+      "num": 101095,
+      "word": "街道办回应环卫大爷在小车前下跪",
+      "onboard_time": 1667905112,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100782,
       "num": 100782,
       "word": "特斯拉卖一辆车比丰田多赚8倍",
@@ -1521,22 +1609,6 @@
       "onboard_time": 1667885067,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 97743,
-      "num": 97743,
-      "word": "刘国强受贿案一审宣判",
-      "onboard_time": 1667901389,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96966,
-      "num": 96966,
-      "word": "月全食邂逅月掩天王星一生只能见一次",
-      "onboard_time": 1667903730,
-      "rank": 41,
-      "category": "自然"
     },
     {
       "raw_hot": 95889,
@@ -1563,27 +1635,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93321,
-      "num": 93321,
-      "word": "原来小狗也只喜欢听漂亮话",
-      "onboard_time": 1667903969,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92158,
       "num": 92158,
       "word": "台北故宫文物毁损视频首曝光",
       "onboard_time": 1667825547,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90543,
-      "num": 90543,
-      "word": "书店卖给孩子言情盗墓书被家长斥责",
-      "onboard_time": 1667904211,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1632,6 +1688,14 @@
       "word": "脸上流露出自卑和尴尬的猫",
       "onboard_time": 1667824165,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87008,
+      "num": 87008,
+      "word": "这煎饼老板是懂艺术的",
+      "onboard_time": 1667906251,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1841,6 +1905,14 @@
       "onboard_time": 1667826207,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47135,
+      "num": 266794,
+      "word": "一家3代开工厂守护200余名残疾人",
+      "onboard_time": 1667905231,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43858,

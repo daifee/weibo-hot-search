@@ -1,0 +1,410 @@
+{
+  "runTime": 1667906325388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7786168,
+        "num": 7786168,
+        "word": "月全食",
+        "onboard_time": 1667896944,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1583104,
+        "num": 1583104,
+        "word": "韩国地铁发生大规模人群聚集",
+        "onboard_time": 1667897006,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46700,
+        "num": 1529472,
+        "word": "今天记者节",
+        "onboard_time": 1667877148,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1527328,
+        "num": 1527328,
+        "word": "女子奔丧请假4天被扣3000元工资",
+        "onboard_time": 1667899110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983710,
+        "num": 983710,
+        "word": "血月",
+        "onboard_time": 1667905048,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 903646,
+        "num": 903646,
+        "word": "你参加过成人礼吗",
+        "onboard_time": 1667894967,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 632115,
+        "num": 632115,
+        "word": "班主任一次早点名救了学生1家3口",
+        "onboard_time": 1667902529,
+        "rank": 6,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 627683,
+        "num": 627683,
+        "word": "张婉婷 让人窒息",
+        "onboard_time": 1667888187,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402924,
+        "num": 402924,
+        "word": "命韵峋环 二搭",
+        "onboard_time": 1667904811,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346235,
+        "num": 346235,
+        "word": "gma",
+        "onboard_time": 1667903490,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1228572,
+        "num": 342704,
+        "word": "张元英放弃高考",
+        "onboard_time": 1667899349,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497946,
+        "num": 340407,
+        "word": "陈飞宇说麻烦别上奇怪的热搜了",
+        "onboard_time": 1667902111,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363462,
+        "num": 340205,
+        "word": "张庭回应涉嫌传销案",
+        "onboard_time": 1667895267,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 327963,
+        "num": 327963,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1667888426,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 47135,
+        "num": 266794,
+        "word": "一家3代开工厂守护200余名残疾人",
+        "onboard_time": 1667905231,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246753,
+        "num": 246753,
+        "word": "南京大学回应",
+        "onboard_time": 1667887110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242654,
+        "num": 242654,
+        "word": "父母用全家姓给娃取名陈皮话梅糖",
+        "onboard_time": 1667894668,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226023,
+        "num": 226023,
+        "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
+        "onboard_time": 1667888007,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202173,
+        "num": 202173,
+        "word": "男童见警察就跑民警陪跑1公里",
+        "onboard_time": 1667900849,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201775,
+        "num": 201775,
+        "word": "月亮",
+        "onboard_time": 1667899227,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 604801,
+        "num": 197919,
+        "word": "杜华回应打造下一个王一博",
+        "onboard_time": 1667897308,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317440,
+        "num": 193134,
+        "word": "优酷二刷剧集含量过高",
+        "onboard_time": 1667895687,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215014,
+        "num": 190557,
+        "word": "唐嫣 繁花",
+        "onboard_time": 1667896885,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181446,
+        "num": 181446,
+        "word": "地球出现月全食时月球将发生什么",
+        "onboard_time": 1667898806,
+        "rank": 23,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 155108,
+        "num": 155108,
+        "word": "东北人是懂吃席的",
+        "onboard_time": 1667903373,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152026,
+        "num": 152026,
+        "word": "歼20总师说少说一点让对手worried",
+        "onboard_time": 1667900608,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "世界杯大力神杯被一元拍卖",
+        "onboard_time": 1667904992,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142981,
+        "num": 142981,
+        "word": "北京新增本土感染者44例",
+        "onboard_time": 1667897728,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141159,
+        "num": 141159,
+        "word": "大叔卖完苹果花4万给老伴买首饰",
+        "onboard_time": 1667889869,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139690,
+        "num": 139690,
+        "word": "原来小狗也只喜欢听漂亮话",
+        "onboard_time": 1667903969,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181850,
+        "num": 137706,
+        "word": "毛不易李雪琴为王源新专魔性宣传",
+        "onboard_time": 1667905710,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132960,
+        "num": 132960,
+        "word": "书店卖给孩子言情盗墓书被家长斥责",
+        "onboard_time": 1667904211,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "阿瑟别坐了",
+        "onboard_time": 1667896586,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131273,
+        "num": 131273,
+        "word": "马嘉祺宋亚轩首演话剧",
+        "onboard_time": 1667906067,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130534,
+        "num": 130534,
+        "word": "男子月薪5万试用3天被解雇",
+        "onboard_time": 1667876727,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124456,
+        "num": 124456,
+        "word": "月全食邂逅月掩天王星一生只能见一次",
+        "onboard_time": 1667903730,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 121876,
+        "num": 121876,
+        "word": "爸爸给1岁娃装扮出生到70岁穿着",
+        "onboard_time": 1667898149,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121596,
+        "num": 121596,
+        "word": "刘国强受贿案一审宣判",
+        "onboard_time": 1667901389,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119357,
+        "num": 119357,
+        "word": "男子拆德芙巧克力发现蠕动活虫",
+        "onboard_time": 1667893405,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117555,
+        "num": 117555,
+        "word": "金采源崔然竣合跳ANTIFRAGILE",
+        "onboard_time": 1667902227,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115304,
+        "num": 115304,
+        "word": "宿舍关系不和谐有多可怕",
+        "onboard_time": 1667905949,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114613,
+        "num": 114613,
+        "word": "你有肌肤饥渴症吗",
+        "onboard_time": 1667888967,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109372,
+        "num": 109372,
+        "word": "孟羽童再发文辟谣离职",
+        "onboard_time": 1667895806,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109001,
+        "num": 109001,
+        "word": "吴宣仪提前一星期被通知参加创造101",
+        "onboard_time": 1667889027,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107921,
+        "num": 107921,
+        "word": "阿瑟 这未必是护手霜啊",
+        "onboard_time": 1667894428,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106497,
+        "num": 106497,
+        "word": "成都非遗麻辣美食有多绝",
+        "onboard_time": 1667905411,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101095,
+        "num": 101095,
+        "word": "街道办回应环卫大爷在小车前下跪",
+        "onboard_time": 1667905112,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89111,
+        "num": 89111,
+        "word": "这小猫也太油腻了吧",
+        "onboard_time": 1667883690,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 87098,
+        "word": "开设女生自习室被指性别歧视",
+        "onboard_time": 1667885367,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87008,
+        "num": 87008,
+        "word": "这煎饼老板是懂艺术的",
+        "onboard_time": 1667906251,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#好记者讲好故事#"
+    }
+  }
+}
