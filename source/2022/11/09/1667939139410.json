@@ -1,0 +1,410 @@
+{
+  "runTime": 1667939139410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174683,
+        "num": 174683,
+        "word": "官方辟谣错过女儿成人礼书记开公司",
+        "onboard_time": 1667922687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69183,
+        "num": 69183,
+        "word": "再见爱人张婉婷",
+        "onboard_time": 1667921310,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5827,
+        "num": 61913,
+        "word": "这些工业互联网科技太酷了",
+        "onboard_time": 1667911347,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 59219,
+        "num": 59219,
+        "word": "IU",
+        "onboard_time": 1667919390,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56918,
+        "num": 56918,
+        "word": "郑州社区书记同名公司老总女儿发声",
+        "onboard_time": 1667924306,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41738,
+        "num": 41738,
+        "word": "儿童绘本出现裸身男子按摩画面",
+        "onboard_time": 1667928556,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 39425,
+        "num": 39425,
+        "word": "韩国地铁发生大规模人群聚集",
+        "onboard_time": 1667897006,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35206,
+        "num": 35206,
+        "word": "睡前2小时进食就算夜宵",
+        "onboard_time": 1667923107,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31227,
+        "num": 31227,
+        "word": "女子奔丧请假4天被扣3000元工资",
+        "onboard_time": 1667899110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27833,
+        "num": 27833,
+        "word": "和邻居吵架后发现是老师",
+        "onboard_time": 1667909911,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32858,
+        "num": 27795,
+        "word": "民警翻垃圾6小时为女孩寻回救命药",
+        "onboard_time": 1667935332,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 27723,
+        "num": 27723,
+        "word": "95后小伙鹤岗买房后云监工装修",
+        "onboard_time": 1667924965,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27298,
+        "num": 27298,
+        "word": "河南辟谣网传刘红英为某社区书记",
+        "onboard_time": 1667909130,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27186,
+        "num": 27186,
+        "word": "川外被曝18元盒饭不断出现异物",
+        "onboard_time": 1667916630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25041,
+        "num": 25041,
+        "word": "11月院线电影",
+        "onboard_time": 1667930835,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24538,
+        "num": 24538,
+        "word": "南京大学回应周某被举报",
+        "onboard_time": 1667922089,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 24054,
+        "word": "童漠男杀疯了",
+        "onboard_time": 1667921790,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23523,
+        "num": 23523,
+        "word": "重庆警方回应一女子因家暴跳桥",
+        "onboard_time": 1667920229,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 22190,
+        "word": "邱瑞 谢谢王涛",
+        "onboard_time": 1667918071,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19516,
+        "num": 19516,
+        "word": "血月",
+        "onboard_time": 1667905048,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 21850,
+        "num": 19446,
+        "word": "苏醒当年没被淘汰的原因",
+        "onboard_time": 1667913689,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21236,
+        "num": 19363,
+        "word": "GMA获奖名单",
+        "onboard_time": 1667923107,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19032,
+        "num": 19032,
+        "word": "烤橘子这么管用吗",
+        "onboard_time": 1667914287,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18437,
+        "num": 18437,
+        "word": "国内最成功的的小妞电影是哪部",
+        "onboard_time": 1667936891,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18268,
+        "num": 18268,
+        "word": "seventeen gma",
+        "onboard_time": 1667917048,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17161,
+        "num": 17161,
+        "word": "你的疲劳可能是吃出来的",
+        "onboard_time": 1667920411,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 16443,
+        "word": "王者荣耀新射手英雄",
+        "onboard_time": 1667915311,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15842,
+        "num": 15842,
+        "word": "班主任一次早点名救了学生1家3口",
+        "onboard_time": 1667902529,
+        "rank": 27,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 15083,
+        "num": 15083,
+        "word": "世界杯大力神杯被一元拍卖",
+        "onboard_time": 1667904992,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14673,
+        "num": 14673,
+        "word": "女生酒后购物误买水果模型",
+        "onboard_time": 1667935151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15362,
+        "num": 14501,
+        "word": "这就是真公主吧",
+        "onboard_time": 1667912609,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13844,
+        "num": 13844,
+        "word": "重庆九龙坡区疫情防控",
+        "onboard_time": 1667913091,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12678,
+        "num": 12678,
+        "word": "白敬亭拍的月亮",
+        "onboard_time": 1667920289,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12665,
+        "num": 12665,
+        "word": "国产大飞机C919获签300架订单",
+        "onboard_time": 1667907150,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 12412,
+        "num": 12412,
+        "word": "福建一工厂日薪2千招聘缝纫工",
+        "onboard_time": 1667909188,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12348,
+        "num": 12348,
+        "word": "泽连斯基将参加G20峰会",
+        "onboard_time": 1667937851,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 12308,
+        "num": 12308,
+        "word": "学校食堂17元的一顿饭",
+        "onboard_time": 1667920528,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11740,
+        "num": 11740,
+        "word": "第23个中国记者节",
+        "onboard_time": 1667925562,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11711,
+        "num": 11711,
+        "word": "鹿晗新歌战报",
+        "onboard_time": 1667925861,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11648,
+        "num": 11648,
+        "word": "乃万直播状态",
+        "onboard_time": 1667930294,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11485,
+        "num": 11485,
+        "word": "王曼昱",
+        "onboard_time": 1667917589,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11447,
+        "num": 11447,
+        "word": "EDG田野说过山车不是小朋友玩的",
+        "onboard_time": 1667908767,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11427,
+        "num": 11427,
+        "word": "王楚钦孙颖莎3比1赵钊彦孙铭阳",
+        "onboard_time": 1667915912,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11349,
+        "num": 11349,
+        "word": "不要放弃任何一只猫咪",
+        "onboard_time": 1667912967,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11196,
+        "num": 11196,
+        "word": "宿舍关系不和谐有多可怕",
+        "onboard_time": 1667905949,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10729,
+        "num": 10729,
+        "word": "月全食",
+        "onboard_time": 1667896944,
+        "rank": 45,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 10655,
+        "num": 10655,
+        "word": "全国核酸检测再降价",
+        "onboard_time": 1667938752,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10430,
+        "num": 10430,
+        "word": "牙都快咬碎了还是没忍住",
+        "onboard_time": 1667918129,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9917,
+        "num": 10348,
+        "word": "卿卿日常 唧唧日常",
+        "onboard_time": 1667926101,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9480,
+        "num": 10255,
+        "word": "命韵峋环 二搭",
+        "onboard_time": 1667904811,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022珠海航展双语宣传片#"
+    }
+  }
+}

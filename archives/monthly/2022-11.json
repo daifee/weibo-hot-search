@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667936397962,
+  "endTime": 1667939139410,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -16363,6 +16363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32858,
+      "num": 27795,
+      "word": "民警翻垃圾6小时为女孩寻回救命药",
+      "onboard_time": 1667935332,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 31663,
       "num": 31663,
       "word": "不去参加团建是不合群吗",
@@ -16531,6 +16539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18437,
+      "num": 18437,
+      "word": "国内最成功的的小妞电影是哪部",
+      "onboard_time": 1667936891,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 16975,
       "num": 352209,
       "word": "副驾安全测试有多重要",
@@ -16561,6 +16577,14 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14673,
+      "num": 14673,
+      "word": "女生酒后购物误买水果模型",
+      "onboard_time": 1667935151,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14208,
@@ -16595,20 +16619,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12348,
+      "num": 12348,
+      "word": "泽连斯基将参加G20峰会",
+      "onboard_time": 1667937851,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 12309,
       "num": 12309,
       "word": "和雪豹对视是什么体验",
       "onboard_time": 1667509151,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11668,
-      "num": 12953,
-      "word": "民警翻垃圾6小时为女孩寻回救命药",
-      "onboard_time": 1667935332,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 11624,
@@ -16625,6 +16649,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10655,
+      "num": 10655,
+      "word": "全国核酸检测再降价",
+      "onboard_time": 1667938752,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10181,
