@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668029928666,
+  "endTime": 1668032520281,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116998,
+      "num": 55468,
+      "word": "华北电力大学一学生核酸检测阳性",
+      "onboard_time": 1668029111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114154,
       "num": 114154,
       "word": "孟川 可惜",
@@ -435,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63584,
+      "num": 54869,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52097,
+      "num": 52097,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 47098,
       "num": 47098,
       "word": "终究是贫穷限制了我的想象",
@@ -449,22 +473,6 @@
       "onboard_time": 1668018313,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44874,
-      "num": 30065,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35468,
-      "num": 29793,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 34114,
@@ -507,11 +515,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13540,
-      "num": 13540,
-      "word": "华北电力大学一学生核酸检测阳性",
-      "onboard_time": 1668029111,
-      "rank": 41,
+      "raw_hot": 15664,
+      "num": 15664,
+      "word": "7种失眠类型你属于哪一种",
+      "onboard_time": 1668030072,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
