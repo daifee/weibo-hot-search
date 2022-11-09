@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667971890115,
+  "endTime": 1667972732941,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540696,
+      "num": 436715,
+      "word": "范丞丞章鱼哥造型把自己整吐了",
+      "onboard_time": 1667971108,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 539498,
       "num": 539498,
       "word": "钟睒睒再度成为中国首富",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1667783548,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 498066,
-      "num": 436715,
-      "word": "范丞丞章鱼哥造型把自己整吐了",
-      "onboard_time": 1667971108,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 497722,
@@ -1267,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469233,
+      "num": 388286,
+      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+      "onboard_time": 1667971108,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457563,
+      "num": 372616,
+      "word": "韩剧TV辟谣",
+      "onboard_time": 1667972247,
+      "rank": 13,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 453107,
       "num": 453107,
       "word": "妈妈晒3个高颜值儿子羡煞众人",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1667832811,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 441732,
+      "num": 360078,
+      "word": "骨科医生鲁经纬",
+      "onboard_time": 1667971046,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 437989,
@@ -1491,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410429,
+      "num": 410429,
+      "word": "两男子深夜追赶女子被学生喝止",
+      "onboard_time": 1667968227,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408203,
       "num": 408203,
       "word": "医生建议1顿饭吃螃蟹不超过2只",
@@ -1635,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379549,
-      "num": 379549,
-      "word": "两男子深夜追赶女子被学生喝止",
-      "onboard_time": 1667968227,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379275,
       "num": 379275,
       "word": "什么是119",
@@ -1715,12 +1739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357948,
+      "num": 357948,
+      "word": "推特禁止宣传特斯拉负面广告",
+      "onboard_time": 1667969067,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "95后小伙鹤岗买房后云监工装修",
       "onboard_time": 1667924965,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354899,
+      "num": 354899,
+      "word": "双十一iPhone14全系补货",
+      "onboard_time": 1667970805,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 354822,
@@ -2315,14 +2355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278250,
-      "num": 278250,
-      "word": "推特禁止宣传特斯拉负面广告",
-      "onboard_time": 1667969067,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 278180,
       "num": 254963,
       "word": "Lisa扭到我心里了",
@@ -2403,14 +2435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262059,
-      "num": 262059,
-      "word": "双十一iPhone14全系补货",
-      "onboard_time": 1667970805,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 260488,
       "num": 348995,
       "word": "大叔卖肉夹馍供出一个博士一个研究生",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258037,
-      "num": 258037,
-      "word": "骨科医生鲁经纬",
-      "onboard_time": 1667971046,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 256532,
@@ -2923,20 +2939,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 211426,
+      "num": 211426,
+      "word": "邱瑞 减脂餐",
+      "onboard_time": 1667970987,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210506,
       "num": 210506,
       "word": "樊振东林高远比赛太刺激了",
       "onboard_time": 1667749766,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
-      "onboard_time": 1667971108,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207322,
@@ -3347,14 +3363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177173,
-      "num": 177173,
-      "word": "邱瑞 减脂餐",
-      "onboard_time": 1667970987,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176451,
       "num": 176451,
       "word": "故宫红月亮",
@@ -3563,6 +3571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160905,
+      "num": 160905,
+      "word": "星辰大海",
+      "onboard_time": 1667969246,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160529,
       "num": 160529,
       "word": "河南发现3千年前商代道路",
@@ -3587,14 +3603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159891,
-      "num": 159891,
-      "word": "星辰大海",
-      "onboard_time": 1667969246,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159545,
       "num": 121712,
       "word": "狐妖小红娘月红篇杀青特辑播放量",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1667827767,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 157138,
+      "word": "NEVERLAND改编王一博无感",
+      "onboard_time": 1667972545,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 157061,
@@ -3843,6 +3859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143230,
+      "num": 143230,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667777484,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143173,
       "num": 143173,
       "word": "70岁还能给妈妈付钱多幸福",
@@ -4051,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129926,
+      "num": 129926,
+      "word": "人类幼崽能有多要强",
+      "onboard_time": 1667971465,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "特斯拉CEO马斯克出售特斯拉股票",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1667779227,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121606,
+      "num": 121606,
+      "word": "战神诸神黄昏",
+      "onboard_time": 1667970747,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 121596,
@@ -4347,14 +4387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111598,
-      "num": 111598,
-      "word": "战神诸神黄昏",
-      "onboard_time": 1667970747,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110358,
       "num": 110358,
       "word": "转场算是被他玩明白了",
@@ -4433,14 +4465,6 @@
       "onboard_time": 1667892270,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 107339,
-      "num": 107339,
-      "word": "人类幼崽能有多要强",
-      "onboard_time": 1667971465,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 107328,
@@ -4675,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97695,
+      "num": 97695,
+      "word": "空气炸锅烤苹果干",
+      "onboard_time": 1667972065,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96795,
       "num": 96795,
       "word": "歌尔股份否认被踢出果链",
@@ -4737,6 +4769,14 @@
       "onboard_time": 1667916209,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "在舞台千万不要和朋友对视",
+      "onboard_time": 1667971825,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94358,
@@ -4808,6 +4848,14 @@
       "word": "摄影师揭秘雪豹怼脸照拍摄过程",
       "onboard_time": 1667915429,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90636,
+      "num": 90636,
+      "word": "苏州正德年间一700年古宅寻主",
+      "onboard_time": 1667972186,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4921,14 +4969,6 @@
       "onboard_time": 1667819366,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87169,
-      "num": 87169,
-      "word": "2022全国乒乓球锦标赛",
-      "onboard_time": 1667777484,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 87008,

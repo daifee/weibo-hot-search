@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1667971890115,
+  "endTime": 1667972732941,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -3675,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540696,
+      "num": 436715,
+      "word": "范丞丞章鱼哥造型把自己整吐了",
+      "onboard_time": 1667971108,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 539498,
       "num": 539498,
       "word": "钟睒睒再度成为中国首富",
@@ -4067,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498066,
-      "num": 436715,
-      "word": "范丞丞章鱼哥造型把自己整吐了",
-      "onboard_time": 1667971108,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "为什么恋爱长跑会容易分手",
@@ -4435,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469233,
+      "num": 388286,
+      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+      "onboard_time": 1667971108,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467434,
       "num": 467434,
       "word": "复仇者联盟4首播收视第一",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1667524825,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457563,
+      "num": 372616,
+      "word": "韩剧TV辟谣",
+      "onboard_time": 1667972247,
+      "rank": 13,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 453829,
@@ -4689,6 +4705,14 @@
       "onboard_time": 1667307387,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441732,
+      "num": 360078,
+      "word": "骨科医生鲁经纬",
+      "onboard_time": 1667971046,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 441266,
@@ -5163,6 +5187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410429,
+      "num": 410429,
+      "word": "两男子深夜追赶女子被学生喝止",
+      "onboard_time": 1667968227,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410269,
       "num": 410269,
       "word": "杨幂龚俊狐妖小红娘月红篇横店戏份杀青",
@@ -5595,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379549,
-      "num": 379549,
-      "word": "两男子深夜追赶女子被学生喝止",
-      "onboard_time": 1667968227,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379275,
       "num": 379275,
       "word": "什么是119",
@@ -5915,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357948,
+      "num": 357948,
+      "word": "推特禁止宣传特斯拉负面广告",
+      "onboard_time": 1667969067,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 357938,
       "num": 357938,
       "word": "网课爆破1单收费10元以内",
@@ -5993,6 +6025,14 @@
       "onboard_time": 1667645546,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354899,
+      "num": 354899,
+      "word": "双十一iPhone14全系补货",
+      "onboard_time": 1667970805,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 354822,
@@ -7563,14 +7603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278250,
-      "num": 278250,
-      "word": "推特禁止宣传特斯拉负面广告",
-      "onboard_time": 1667969067,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 278180,
       "num": 254963,
       "word": "Lisa扭到我心里了",
@@ -7971,14 +8003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262059,
-      "num": 262059,
-      "word": "双十一iPhone14全系补货",
-      "onboard_time": 1667970805,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 261771,
       "num": 261771,
       "word": "为救男童失去左臂的女子说值了",
@@ -8089,14 +8113,6 @@
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258037,
-      "num": 258037,
-      "word": "骨科医生鲁经纬",
-      "onboard_time": 1667971046,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 257700,
@@ -9347,6 +9363,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 211426,
+      "num": 211426,
+      "word": "邱瑞 减脂餐",
+      "onboard_time": 1667970987,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211207,
       "num": 211207,
       "word": "谢谢你医生2天19个病例",
@@ -9433,14 +9457,6 @@
       "onboard_time": 1667543908,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
-      "onboard_time": 1667971108,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208378,
@@ -10547,14 +10563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177173,
-      "num": 177173,
-      "word": "邱瑞 减脂餐",
-      "onboard_time": 1667970987,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176746,
       "num": 176746,
       "word": "金鹰节开幕式主持人汪涵朱迅",
@@ -11235,6 +11243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160905,
+      "num": 160905,
+      "word": "星辰大海",
+      "onboard_time": 1667969246,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "梦奇天降福星新皮肤",
@@ -11305,14 +11321,6 @@
       "onboard_time": 1667687232,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159891,
-      "num": 159891,
-      "word": "星辰大海",
-      "onboard_time": 1667969246,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 159721,
@@ -11425,6 +11433,14 @@
       "onboard_time": 1667370028,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 157138,
+      "word": "NEVERLAND改编王一博无感",
+      "onboard_time": 1667972545,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 157061,
@@ -12755,6 +12771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129926,
+      "num": 129926,
+      "word": "人类幼崽能有多要强",
+      "onboard_time": 1667971465,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "特斯拉CEO马斯克出售特斯拉股票",
@@ -13219,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121606,
+      "num": 121606,
+      "word": "战神诸神黄昏",
+      "onboard_time": 1667970747,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121596,
       "num": 121596,
       "word": "刘国强受贿案一审宣判",
@@ -13667,14 +13699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111598,
-      "num": 111598,
-      "word": "战神诸神黄昏",
-      "onboard_time": 1667970747,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111486,
       "num": 111486,
       "word": "感觉自己不如幼儿园小朋友",
@@ -13897,14 +13921,6 @@
       "onboard_time": 1667892270,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 107339,
-      "num": 107339,
-      "word": "人类幼崽能有多要强",
-      "onboard_time": 1667971465,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 107328,
@@ -14539,6 +14555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97695,
+      "num": 97695,
+      "word": "空气炸锅烤苹果干",
+      "onboard_time": 1667972065,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97375,
       "num": 97375,
       "word": "彭冠英新剧冒充高峻接近蔡文静",
@@ -14649,6 +14673,14 @@
       "onboard_time": 1667916209,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "在舞台千万不要和朋友对视",
+      "onboard_time": 1667971825,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 95290,
@@ -14960,6 +14992,14 @@
       "word": "天冷养生的正确方式",
       "onboard_time": 1667739028,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90636,
+      "num": 90636,
+      "word": "苏州正德年间一700年古宅寻主",
+      "onboard_time": 1667972186,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
