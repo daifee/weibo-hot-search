@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668012980642,
+  "endTime": 1668014689420,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -139,20 +139,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202974,
+      "num": 202974,
+      "word": "张超",
+      "onboard_time": 1668009625,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201388,
       "num": 201388,
       "word": "一眼万年的异域公主",
       "onboard_time": 1668006029,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190169,
-      "num": 190169,
-      "word": "张超",
-      "onboard_time": 1668009625,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 182073,
@@ -203,6 +203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "你能接受另一半跟前任做朋友吗",
+      "onboard_time": 1668011962,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134265,
       "num": 134265,
       "word": "体温计碎裂护士打鸡蛋防汞中毒",
@@ -227,20 +235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129487,
-      "num": 89701,
-      "word": "你能接受另一半跟前任做朋友吗",
-      "onboard_time": 1668011962,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129228,
       "num": 114393,
       "word": "原来真的会对一个人移不开眼",
       "onboard_time": 1668007828,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128500,
+      "num": 128500,
+      "word": "毛豆 一灯",
+      "onboard_time": 1668013100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 128052,
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95879,
+      "num": 64728,
+      "word": "张凌赫他从火光中走来红丝绒西装路透",
+      "onboard_time": 1668014119,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93344,
       "num": 93344,
       "word": "女子凌晨外卖被偷坐地崩溃大哭",
@@ -371,8 +387,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78421,
-      "num": 78421,
+      "raw_hot": 79602,
+      "num": 79602,
       "word": "4岁娃当妈妈嘴替萌怼客服",
       "onboard_time": 1668011063,
       "rank": 48,
@@ -401,6 +417,38 @@
       "onboard_time": 1667990728,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54043,
+      "num": 54043,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 46414,
+      "num": 46414,
+      "word": "终究是贫穷限制了我的想象",
+      "onboard_time": 1668013700,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34890,
+      "num": 34890,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34114,
+      "num": 34114,
+      "word": "一下就看出了智商的高低",
+      "onboard_time": 1668014597,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 32819,
