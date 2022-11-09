@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667950963208,
+  "endTime": 1667959795876,
   "band_list": [
     {
       "raw_hot": 1502540,
@@ -19,11 +19,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1331416,
+      "num": 1331416,
+      "word": "价值23万缅因猫坠楼保姆被追责",
+      "onboard_time": 1667952328,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014778,
       "num": 1014778,
       "word": "全国核酸检测再降价",
       "onboard_time": 1667938752,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808634,
+      "num": 808634,
+      "word": "广州新增本土感染者2637例",
+      "onboard_time": 1667956649,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791644,
+      "num": 791644,
+      "word": "美国开出20.4亿美元彩票巨奖",
+      "onboard_time": 1667957368,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -33,6 +57,14 @@
       "onboard_time": 1667921310,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 682612,
+      "num": 682612,
+      "word": "诺言",
+      "onboard_time": 1667953169,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 662598,
@@ -48,6 +80,30 @@
       "word": "川外被曝18元盒饭不断出现异物",
       "onboard_time": 1667916630,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617957,
+      "num": 617957,
+      "word": "同花顺",
+      "onboard_time": 1667959046,
+      "rank": 6,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 611397,
+      "num": 611397,
+      "word": "重庆疫情防控",
+      "onboard_time": 1667957662,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608730,
+      "num": 608730,
+      "word": "老人借房给重孙上学孙子拒还",
+      "onboard_time": 1667956947,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -75,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485647,
+      "num": 485647,
+      "word": "周杰伦线上演唱会定档",
+      "onboard_time": 1667957188,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -89,6 +153,14 @@
       "onboard_time": 1667897006,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412838,
+      "num": 232634,
+      "word": "迪丽热巴小包被晚安视频",
+      "onboard_time": 1667959167,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406056,
@@ -107,11 +179,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 385280,
+      "num": 385280,
+      "word": "儿童绘本出现裸身男子按摩画面",
+      "onboard_time": 1667928556,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 383800,
       "num": 338380,
       "word": "南京大学回应周某被举报",
       "onboard_time": 1667922089,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379275,
+      "num": 379275,
+      "word": "什么是119",
+      "onboard_time": 1667954849,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -147,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327691,
+      "num": 327691,
+      "word": "歌尔股份或暂停生产AirPodsPro2",
+      "onboard_time": 1667953648,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 327255,
       "num": 285727,
       "word": "童漠男杀疯了",
@@ -171,12 +267,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 277240,
-      "num": 277240,
-      "word": "儿童绘本出现裸身男子按摩画面",
-      "onboard_time": 1667928556,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 263810,
+      "num": 263810,
+      "word": "男子野外发现怪石层层挖开似剥洋葱",
+      "onboard_time": 1667951966,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "学校食堂17元的一顿饭",
+      "onboard_time": 1667920528,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 250779,
+      "num": 250779,
+      "word": "扎克伯格承认脸书因失误大规模裁员",
+      "onboard_time": 1667958748,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 249810,
@@ -185,6 +297,14 @@
       "onboard_time": 1667918071,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "女子将家中车库改成流浪猫自助酒店",
+      "onboard_time": 1667952328,
+      "rank": 21,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 227799,
@@ -203,12 +323,28 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 211105,
-      "num": 211105,
-      "word": "学校食堂17元的一顿饭",
-      "onboard_time": 1667920528,
-      "rank": 16,
-      "category": "美食"
+      "raw_hot": 222284,
+      "num": 222284,
+      "word": "下夜班护士车祸现场奋不顾身救人",
+      "onboard_time": 1667956889,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 216190,
+      "num": 216190,
+      "word": "红腹锦鸡飞入工厂被误认为是凤凰",
+      "onboard_time": 1667956707,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207322,
+      "num": 207322,
+      "word": "锦鲤",
+      "onboard_time": 1667958806,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 204044,
@@ -217,6 +353,22 @@
       "onboard_time": 1667912967,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201191,
+      "num": 201191,
+      "word": "新加坡学者回击西方记者污蔑中国",
+      "onboard_time": 1667951184,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199328,
+      "num": 199328,
+      "word": "北京11月8日新增32例本土确诊",
+      "onboard_time": 1667953894,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197629,
@@ -240,6 +392,14 @@
       "word": "造型师回应虞书欣仙剑六服装问题",
       "onboard_time": 1667921010,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179330,
+      "num": 179330,
+      "word": "命韵峋环",
+      "onboard_time": 1667952267,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -275,20 +435,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148564,
-      "num": 148564,
+      "raw_hot": 162179,
+      "num": 162179,
       "word": "民警翻垃圾6小时为女孩寻回救命药",
       "onboard_time": 1667935332,
       "rank": 49,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 142232,
-      "num": 142232,
+      "raw_hot": 156135,
+      "num": 156135,
       "word": "泰妍露腰装",
       "onboard_time": 1667942111,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149423,
+      "num": 149423,
+      "word": "泷泽秀明已成立新公司",
+      "onboard_time": 1667955749,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 141958,
@@ -328,6 +496,14 @@
       "word": "重庆九龙坡区疫情防控",
       "onboard_time": 1667913091,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127401,
+      "num": 127401,
+      "word": "南方城市羽绒服销量为北方2倍",
+      "onboard_time": 1667959587,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -395,6 +571,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102387,
+      "num": 102387,
+      "word": "广东新增本土感染者2808例",
+      "onboard_time": 1667958446,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101128,
+      "num": 101128,
+      "word": "seventeen新歌dreamMV",
+      "onboard_time": 1667957727,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95206,
+      "num": 95206,
+      "word": "警方通报呼和浩特卖高价菜月入40万元",
+      "onboard_time": 1667959347,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92884,
       "num": 92884,
       "word": "演员蓝天野名字是当地下党交通员时取的",
@@ -427,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88161,
+      "num": 88161,
+      "word": "王鹤棣陈钰琪浮图缘预约破250w",
+      "onboard_time": 1667941512,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86093,
       "num": 86093,
       "word": "血月",
@@ -449,14 +657,6 @@
       "onboard_time": 1667907150,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 80192,
-      "num": 80192,
-      "word": "王鹤棣陈钰琪浮图缘预约破250w",
-      "onboard_time": 1667941512,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 78830,
@@ -548,7 +748,7 @@
     },
     {
       "raw_hot": 43919,
-      "num": 650861,
+      "num": 891678,
       "word": "这些工业互联网科技太酷了",
       "onboard_time": 1667911347,
       "rank": 2,
