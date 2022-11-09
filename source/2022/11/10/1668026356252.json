@@ -1,0 +1,410 @@
+{
+  "runTime": 1668026356252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 90938,
+        "num": 90938,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67506,
+        "num": 67506,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668026352,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8377,
+        "num": 45277,
+        "word": "加快建设网络强国数字中国",
+        "onboard_time": 1668000508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45147,
+        "num": 45147,
+        "word": "美国街头惊现狗叼人类断臂",
+        "onboard_time": 1667996065,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44222,
+        "num": 44222,
+        "word": "夫妻仅一墙之隔却要寄信交流",
+        "onboard_time": 1668008728,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 33037,
+        "num": 33037,
+        "word": "学生隔离期下楼开除学籍处分被撤销",
+        "onboard_time": 1668005308,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 32705,
+        "num": 32705,
+        "word": "重庆市中医院不等核酸结果抢救黄码老人",
+        "onboard_time": 1667998109,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29974,
+        "num": 29974,
+        "word": "成都青城山现大量不明线虫",
+        "onboard_time": 1667998648,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29674,
+        "num": 29674,
+        "word": "毛豆 一灯",
+        "onboard_time": 1668013100,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 29067,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153705,
+        "num": 27598,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113937,
+        "num": 26909,
+        "word": "男童母亲称与鲁某某家常串门",
+        "onboard_time": 1668007589,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 55991,
+        "num": 25976,
+        "word": "南京被掌掴男童母亲发声",
+        "onboard_time": 1668004586,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 24965,
+        "num": 24965,
+        "word": "于文文刘恋再见面变尴尬了",
+        "onboard_time": 1667992528,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29688,
+        "num": 24626,
+        "word": "段奥娟经纪公司将上诉",
+        "onboard_time": 1668018313,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28329,
+        "num": 24269,
+        "word": "男子摘柿子树枝插入右眼眶进颅内",
+        "onboard_time": 1668013339,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 23203,
+        "num": 23203,
+        "word": "你能接受另一半跟前任做朋友吗",
+        "onboard_time": 1668011962,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22770,
+        "num": 22770,
+        "word": "网友称被面试官当面撕简历",
+        "onboard_time": 1668014537,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22313,
+        "num": 22313,
+        "word": "张超",
+        "onboard_time": 1668009625,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22281,
+        "num": 22281,
+        "word": "女孩持续高烧就医查出亲吻病毒",
+        "onboard_time": 1668006989,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21619,
+        "num": 21619,
+        "word": "杨超越跳了nxde",
+        "onboard_time": 1668006146,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21200,
+        "num": 21200,
+        "word": "法证先锋5第14集不建议独自观看",
+        "onboard_time": 1667994868,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20590,
+        "num": 20590,
+        "word": "四川阿姨挖出30斤巨无霸红薯",
+        "onboard_time": 1668004349,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 20549,
+        "word": "疯狂动物城",
+        "onboard_time": 1667992106,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19089,
+        "num": 19089,
+        "word": "成都警方回应2男子深夜追赶女子",
+        "onboard_time": 1667995886,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17000,
+        "num": 17000,
+        "word": "压力给到义乌的朋友了",
+        "onboard_time": 1667999488,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16769,
+        "num": 16769,
+        "word": "张艺兴受快船邀请观看NBA比赛",
+        "onboard_time": 1668012320,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 16211,
+        "num": 16211,
+        "word": "体温计碎裂护士打鸡蛋防汞中毒",
+        "onboard_time": 1667992227,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16065,
+        "num": 16065,
+        "word": "鸟鸟文本",
+        "onboard_time": 1668007108,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7527,
+        "num": 15935,
+        "word": "这种稻子种1次可连续收获4年",
+        "onboard_time": 1668008964,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18671,
+        "num": 15935,
+        "word": "西安外来入侵物种普查已展开",
+        "onboard_time": 1668019033,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16702,
+        "num": 15930,
+        "word": "6岁女童被天降螺丝刀砸头重伤",
+        "onboard_time": 1668023052,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 15924,
+        "word": "Jennie演唱会中途脚伤复发",
+        "onboard_time": 1668000990,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15212,
+        "num": 15212,
+        "word": "大娘买衣服试穿被商家猛夸好看",
+        "onboard_time": 1667993848,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15068,
+        "num": 15068,
+        "word": "杭州一女生网购被急哭了",
+        "onboard_time": 1667996487,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14827,
+        "num": 14827,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14783,
+        "num": 14783,
+        "word": "穿搭果然很重要",
+        "onboard_time": 1667999309,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14537,
+        "num": 14537,
+        "word": "广州8个区全面停课",
+        "onboard_time": 1667989349,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 13832,
+        "num": 13832,
+        "word": "古偶眼神戏天花板",
+        "onboard_time": 1668010945,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13294,
+        "num": 13294,
+        "word": "如梦之梦",
+        "onboard_time": 1668006029,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12902,
+        "num": 12902,
+        "word": "原来真的会对一个人移不开眼",
+        "onboard_time": 1668007828,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12807,
+        "num": 12807,
+        "word": "男子离家14天狗子拉满屋狗粪",
+        "onboard_time": 1667993490,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12499,
+        "num": 12499,
+        "word": "一眼万年的异域公主",
+        "onboard_time": 1668006029,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12338,
+        "num": 12338,
+        "word": "4岁娃当妈妈嘴替萌怼客服",
+        "onboard_time": 1668011063,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12185,
+        "num": 12185,
+        "word": "女子凌晨外卖被偷坐地崩溃大哭",
+        "onboard_time": 1667985445,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11786,
+        "num": 11786,
+        "word": "人民文娱对话王嘉尔",
+        "onboard_time": 1668017235,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11518,
+        "num": 11518,
+        "word": "90后夫妇卖杭州500万房子到内蒙当农民",
+        "onboard_time": 1667990728,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11489,
+        "num": 11489,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10613,
+        "num": 10613,
+        "word": "感情之间分享欲重要吗",
+        "onboard_time": 1667998708,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10189,
+        "num": 10189,
+        "word": "孙颖莎王楚钦互戴奖牌",
+        "onboard_time": 1668004710,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络世界共创数字未来#"
+    }
+  }
+}

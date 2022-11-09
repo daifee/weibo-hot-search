@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668025460629,
+  "endTime": 1668026356252,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -18627,6 +18627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16702,
+      "num": 15930,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 16641,
       "num": 16641,
       "word": "十一月第一条微博",
@@ -18651,12 +18659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 14849,
-      "num": 14849,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
+      "raw_hot": 14827,
+      "num": 14827,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14673,
@@ -18777,14 +18785,6 @@
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 8498,
-      "num": 10223,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8139,
