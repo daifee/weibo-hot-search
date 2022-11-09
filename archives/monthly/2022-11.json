@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668003928377,
+  "endTime": 1668004882079,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1602272,
+      "num": 1602272,
+      "word": "疯狂动物城",
+      "onboard_time": 1667992106,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1597017,
       "num": 1597017,
       "word": "广州海珠区新增1253名感染者",
@@ -777,14 +785,6 @@
       "onboard_time": 1667913689,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1474840,
-      "num": 1474840,
-      "word": "疯狂动物城",
-      "onboard_time": 1667992106,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1470723,
@@ -6396,7 +6396,7 @@
     },
     {
       "raw_hot": 354872,
-      "num": 485250,
+      "num": 503379,
       "word": "中方回应美延续特朗普时期对华禁令",
       "onboard_time": 1667989108,
       "rank": 29,
@@ -6825,6 +6825,14 @@
       "onboard_time": 1667397209,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333255,
+      "num": 333255,
+      "word": "老师暂停晚自习带全班看红月亮",
+      "onboard_time": 1668001350,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 333024,
@@ -8715,6 +8723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252746,
+      "num": 252746,
+      "word": "SANA赵美延合跳Nxde",
+      "onboard_time": 1668002786,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "第一次见猫咪逗人玩",
@@ -9499,28 +9515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224530,
-      "num": 224530,
-      "word": "SANA赵美延合跳Nxde",
-      "onboard_time": 1668002786,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224087,
       "num": 224087,
       "word": "地球出现月全食时月球将发生什么",
       "onboard_time": 1667898806,
       "rank": 35,
       "category": "自然"
-    },
-    {
-      "raw_hot": 224080,
-      "num": 224080,
-      "word": "老师暂停晚自习带全班看红月亮",
-      "onboard_time": 1668001350,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 223860,
@@ -9865,6 +9865,14 @@
       "onboard_time": 1667963967,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214088,
+      "num": 214088,
+      "word": "咪咕",
+      "onboard_time": 1668003390,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 213804,
@@ -10627,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192525,
+      "num": 192525,
+      "word": "徐志胜鱼系男孩",
+      "onboard_time": 1668002728,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192194,
       "num": 177344,
       "word": "多一个阿瑟怎么了",
@@ -10817,14 +10833,6 @@
       "onboard_time": 1667308469,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188357,
-      "num": 188357,
-      "word": "徐志胜鱼系男孩",
-      "onboard_time": 1668002728,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188351,
@@ -14075,6 +14083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121851,
+      "num": 111037,
+      "word": "界外",
+      "onboard_time": 1668004831,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121816,
       "num": 121816,
       "word": "金汤匙",
@@ -14105,14 +14121,6 @@
       "onboard_time": 1667819007,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121429,
-      "num": 121429,
-      "word": "咪咕",
-      "onboard_time": 1668003390,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 121313,
@@ -14291,6 +14299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118256,
+      "num": 118256,
+      "word": "孙颖莎王楚钦互戴奖牌",
+      "onboard_time": 1668004710,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118175,
       "num": 80077,
       "word": "李峋是有点子投资头脑的",
@@ -14361,6 +14377,14 @@
       "onboard_time": 1667818347,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 116681,
+      "num": 116681,
+      "word": "四川阿姨挖出30斤巨无霸红薯",
+      "onboard_time": 1668004349,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116563,
@@ -17779,6 +17803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58387,
+      "num": 1205921,
+      "word": "加快建设网络强国数字中国",
+      "onboard_time": 1668000508,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 58354,
       "num": 266794,
       "word": "一家3代开工厂守护200余名残疾人",
@@ -17985,14 +18017,6 @@
       "onboard_time": 1667673676,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47498,
-      "num": 1205921,
-      "word": "加快建设网络强国数字中国",
-      "onboard_time": 1668000508,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 47322,
