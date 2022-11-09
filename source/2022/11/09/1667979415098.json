@@ -1,0 +1,410 @@
+{
+  "runTime": 1667979415098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200482,
+        "num": 1200482,
+        "word": "5名韩剧TV相关负责人获刑",
+        "onboard_time": 1667967566,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 876147,
+        "num": 876147,
+        "word": "内娱清唱天花板",
+        "onboard_time": 1667973807,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59079,
+        "num": 694143,
+        "word": "致敬逆行消防英雄",
+        "onboard_time": 1667965287,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1163896,
+        "num": 691493,
+        "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
+        "onboard_time": 1667973925,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 676247,
+        "num": 676247,
+        "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+        "onboard_time": 1667971108,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645426,
+        "num": 645426,
+        "word": "韩剧TV辟谣",
+        "onboard_time": 1667972247,
+        "rank": 5,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 902395,
+        "num": 635568,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 371945,
+        "num": 371945,
+        "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+        "onboard_time": 1667973626,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311679,
+        "num": 311679,
+        "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+        "onboard_time": 1667960485,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292830,
+        "num": 292830,
+        "word": "法国快递员吐槽7小时工作太累",
+        "onboard_time": 1667963126,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508640,
+        "num": 291051,
+        "word": "羊了个羊改编成历了个史",
+        "onboard_time": 1667977946,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 413221,
+        "num": 283746,
+        "word": "段奥娟解约案胜诉",
+        "onboard_time": 1667978185,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360545,
+        "num": 278249,
+        "word": "朱一龙回应提名金鸡奖",
+        "onboard_time": 1667975544,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333993,
+        "num": 269037,
+        "word": "王源说和黄思瑞二搭是剧情需要",
+        "onboard_time": 1667977105,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268043,
+        "num": 268043,
+        "word": "小学生坠楼后学校先通知了另一家长",
+        "onboard_time": 1667978426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256381,
+        "num": 256381,
+        "word": "推特禁止宣传特斯拉负面广告",
+        "onboard_time": 1667969067,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255920,
+        "num": 255920,
+        "word": "岸田文雄问美军中国航母战力",
+        "onboard_time": 1667966428,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "原来火龙果园一入夜就会变灯光秀",
+        "onboard_time": 1667974405,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 208123,
+        "word": "苏州正德年间一700年古宅寻主",
+        "onboard_time": 1667972186,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186967,
+        "num": 186967,
+        "word": "官方回应检测机构暂停核酸样本接收",
+        "onboard_time": 1667966608,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305964,
+        "num": 186697,
+        "word": "阿瑟别太在意",
+        "onboard_time": 1667976924,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270796,
+        "num": 183291,
+        "word": "致我们单纯的小美好播出五周年",
+        "onboard_time": 1667979267,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266642,
+        "num": 178736,
+        "word": "赵梦原名赵文静",
+        "onboard_time": 1667978125,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172953,
+        "num": 172953,
+        "word": "感觉有没有虫已经不重要了",
+        "onboard_time": 1667978125,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171912,
+        "num": 171912,
+        "word": "空气炸锅烤苹果干",
+        "onboard_time": 1667972065,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170649,
+        "num": 170649,
+        "word": "双十一iPhone14全系补货",
+        "onboard_time": 1667970805,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168959,
+        "num": 168959,
+        "word": "这届00后把颜色玩明白了",
+        "onboard_time": 1667976807,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "男孩考23分给爸妈展示试卷获点赞",
+        "onboard_time": 1667966907,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149606,
+        "num": 149606,
+        "word": "两男子深夜追赶女子被学生喝止",
+        "onboard_time": 1667968227,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145868,
+        "num": 145868,
+        "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
+        "onboard_time": 1667969906,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157728,
+        "num": 145757,
+        "word": "范丞丞章鱼哥造型把自己整吐了",
+        "onboard_time": 1667971108,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 145715,
+        "word": "邱瑞 减脂餐",
+        "onboard_time": 1667970987,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145491,
+        "num": 145491,
+        "word": "电子咖啡不用喝就能提神醒脑",
+        "onboard_time": 1667977644,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "陈飞宇张婧仪点燃我温暖你杀青合照",
+        "onboard_time": 1667974285,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 120001,
+        "word": "柯南最新剧场版定档1118",
+        "onboard_time": 1667976446,
+        "rank": 34,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 118800,
+        "num": 118800,
+        "word": "小朋友对洞洞的执念有多大",
+        "onboard_time": 1667965108,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 115625,
+        "word": "广州新增本土感染者2637例",
+        "onboard_time": 1667956649,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111717,
+        "num": 111717,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667957662,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "00后老板带员工上班玩解谜游戏",
+        "onboard_time": 1667975965,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104207,
+        "num": 104207,
+        "word": "战神诸神黄昏",
+        "onboard_time": 1667970747,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117640,
+        "num": 102950,
+        "word": "李峋朱韵到底什么时候亲",
+        "onboard_time": 1667977105,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 100837,
+        "word": "孙俪当主编出的第二套儿童绘本",
+        "onboard_time": 1667961568,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108687,
+        "num": 100663,
+        "word": "NEVERLAND改编王一博无感",
+        "onboard_time": 1667972545,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96038,
+        "num": 96038,
+        "word": "在舞台千万不要和朋友对视",
+        "onboard_time": 1667971825,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90919,
+        "num": 90919,
+        "word": "美国开出20.4亿美元彩票巨奖",
+        "onboard_time": 1667957368,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88435,
+        "num": 88435,
+        "word": "体育生解剖课上台当教具大秀肌肉",
+        "onboard_time": 1667966668,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 87044,
+        "num": 87044,
+        "word": "邻居称孩子喜欢留纸条拿走KT板",
+        "onboard_time": 1667978968,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86379,
+        "num": 86379,
+        "word": "价值23万缅因猫坠楼保姆被追责",
+        "onboard_time": 1667952328,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86144,
+        "num": 86144,
+        "word": "2个动作改善弓肩驼背",
+        "onboard_time": 1667978665,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84202,
+        "num": 84202,
+        "word": "00后花千元爆改出租房",
+        "onboard_time": 1667965946,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022世界互联网大会乌镇峰会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667978490122,
+  "endTime": 1667979415098,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -67,7 +67,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1139520,
+      "raw_hot": 1163896,
       "num": 837242,
       "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
       "onboard_time": 1667973925,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876147,
+      "num": 876147,
+      "word": "内娱清唱天花板",
+      "onboard_time": 1667973807,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 824752,
       "num": 824752,
       "word": "美国开出20.4亿美元彩票巨奖",
@@ -105,14 +113,6 @@
       "onboard_time": 1667956649,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796544,
-      "num": 796544,
-      "word": "内娱清唱天花板",
-      "onboard_time": 1667973807,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 782313,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508640,
+      "num": 291051,
+      "word": "羊了个羊改编成历了个史",
+      "onboard_time": 1667977946,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413221,
+      "num": 283746,
+      "word": "段奥娟解约案胜诉",
+      "onboard_time": 1667978185,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412838,
       "num": 245995,
       "word": "迪丽热巴小包被晚安视频",
@@ -376,6 +392,14 @@
       "word": "什么是119",
       "onboard_time": 1667954849,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371945,
+      "num": 371945,
+      "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+      "onboard_time": 1667973626,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -443,12 +467,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 332749,
-      "num": 277611,
-      "word": "秸秆恶意被绑5把铁锤农户损失惨重",
-      "onboard_time": 1667973626,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 333993,
+      "num": 269037,
+      "word": "王源说和黄思瑞二搭是剧情需要",
+      "onboard_time": 1667977105,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 330176,
@@ -563,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270796,
+      "num": 183291,
+      "word": "致我们单纯的小美好播出五周年",
+      "onboard_time": 1667979267,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268043,
+      "num": 268043,
+      "word": "小学生坠楼后学校先通知了另一家长",
+      "onboard_time": 1667978426,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263810,
       "num": 263810,
       "word": "男子野外发现怪石层层挖开似剥洋葱",
@@ -595,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252031,
-      "num": 194391,
-      "word": "王源说和黄思瑞二搭是剧情需要",
-      "onboard_time": 1667977105,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249810,
       "num": 211324,
       "word": "邱瑞 谢谢王涛",
@@ -617,14 +649,6 @@
       "onboard_time": 1667965407,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248360,
-      "num": 194271,
-      "word": "段奥娟解约案胜诉",
-      "onboard_time": 1667978185,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 234311,
@@ -867,6 +891,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 172953,
+      "num": 172953,
+      "word": "感觉有没有虫已经不重要了",
+      "onboard_time": 1667978125,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168169,
       "num": 168169,
       "word": "王曼昱",
@@ -889,14 +921,6 @@
       "onboard_time": 1667969246,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160406,
-      "num": 160406,
-      "word": "羊了个羊改编成历了个史",
-      "onboard_time": 1667977946,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157138,
@@ -961,6 +985,14 @@
       "onboard_time": 1667970269,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145491,
+      "num": 145491,
+      "word": "电子咖啡不用喝就能提神醒脑",
+      "onboard_time": 1667977644,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 143377,
@@ -1179,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106001,
-      "num": 106001,
-      "word": "电子咖啡不用喝就能提神醒脑",
-      "onboard_time": 1667977644,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 105870,
       "num": 105870,
       "word": "不得不佩服这狗子的演技",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1667957727,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 98692,
-      "num": 98692,
-      "word": "感觉有没有虫已经不重要了",
-      "onboard_time": 1667978125,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 96795,
@@ -1323,12 +1339,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87543,
-      "num": 87543,
-      "word": "小学生坠楼后学校先通知了另一家长",
-      "onboard_time": 1667978426,
-      "rank": 49,
+      "raw_hot": 87044,
+      "num": 87044,
+      "word": "邻居称孩子喜欢留纸条拿走KT板",
+      "onboard_time": 1667978968,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86144,
+      "num": 86144,
+      "word": "2个动作改善弓肩驼背",
+      "onboard_time": 1667978665,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 86093,
