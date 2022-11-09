@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 18:24:37
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 18:41:22
 </p>
 </blockquote>
 <p>
@@ -903,6 +903,12 @@ Deft Meiko（热度：1147625）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%A4%96%E5%8D%96%E8%A2%AB%E5%81%B7%E5%9D%90%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
+女子凌晨外卖被偷坐地崩溃大哭（热度：1145137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%B2%81%E8%BF%85%E4%BB%98%E5%AE%8C%E5%B0%BE%E6%AC%BE%23" target="weibo">
 当鲁迅付完尾款（热度：1142153）
 </a>
@@ -1199,12 +1205,6 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%85%AD%E4%BA%BA%E5%90%88%E4%BD%93%E8%A7%86%E9%A2%91%23" target="weibo">
 EXO六人合体视频（热度：1003777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%A4%96%E5%8D%96%E8%A2%AB%E5%81%B7%E5%9D%90%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
-女子凌晨外卖被偷坐地崩溃大哭（热度：1000931）
 </a>
 </li>
 
@@ -2307,6 +2307,12 @@ iPhone14中美之外全球涨价（热度：638215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%B8%89%E5%A8%83%E7%88%B9%23" target="weibo">
+李峋三娃爹（热度：622849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B8%A9%E8%B8%8F%E5%8F%91%E7%94%9F%E6%9C%89%E4%BA%BA%E8%AF%AF%E8%AE%A4%E6%95%91%E6%8A%A4%E8%BD%A6%E6%98%AFcosplay%23" target="weibo">
 踩踏发生有人误认救护车是cosplay（热度：622822）
 </a>
@@ -2475,6 +2481,12 @@ iPhone14中美之外全球涨价（热度：638215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E5%85%AB%23" target="weibo">
+肖八（热度：591582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%9D%A0%E6%A5%BC00%E5%90%8E%E8%AD%A6%E6%A0%A1%E7%94%9F%E8%B7%B33%E7%B1%B3%E5%A2%99%E8%90%A5%E6%95%91%23" target="weibo">
 婴儿坠楼00后警校生跳3米墙营救（热度：591470）
 </a>
@@ -2501,12 +2513,6 @@ iPhone14中美之外全球涨价（热度：638215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B4%81%E5%B7%A5%E8%BA%BA%E8%BD%A6%E5%BA%93%E8%A2%AB%E7%A2%BE%E4%BA%A1%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA%23" target="weibo">
 清洁工躺车库被碾亡司机一审被判无罪（热度：588607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%B8%89%E5%A8%83%E7%88%B9%23" target="weibo">
-李峋三娃爹（热度：587478）
 </a>
 </li>
 
@@ -2849,12 +2855,6 @@ Uzi（热度：545441）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%94%B7%E5%AD%A9%E8%8B%A6%E7%BB%83%E4%B8%8A%E4%B8%87%E6%AC%A1%E9%A3%9E%E9%92%88%E9%87%87%E8%A1%80%23" target="weibo">
 95后男孩苦练上万次飞针采血（热度：543374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E5%85%AB%23" target="weibo">
-肖八（热度：542543）
 </a>
 </li>
 
@@ -4371,6 +4371,12 @@ Lisa成为iTunes最多一位女歌手（热度：395840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E8%E4%B8%AA%E5%8C%BA%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE%23" target="weibo">
+广州8个区全面停课（热度：379867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%8557%E4%BE%8B%23" target="weibo">
 北京新增本土感染者57例（热度：379398）
 </a>
@@ -5193,6 +5199,12 @@ AJ涵艺爆料LPL转会期（热度：335273）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E4%BF%9D%E6%B8%A9%E6%9D%AF%E5%80%92%E8%BF%9B%E6%B8%85%E6%B0%B4%E5%8F%98%E7%BB%BF%E6%B0%B4%23" target="weibo">
+女子网购保温杯倒进清水变绿水（热度：322490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E7%94%A81%E5%B0%8F%E6%97%B6%E6%89%A3%E8%B4%B999%E5%85%83%23" target="weibo">
 网曝共享充电宝用1小时扣费99元（热度：322454）
 </a>
@@ -5999,18 +6011,6 @@ TaylorSwift空降成绩（热度：274293）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E5%89%A7%E7%BB%84%E9%A3%9E%E5%A4%A9%E5%A5%96%E9%87%8D%E8%81%9A%23" target="weibo">
 觉醒年代剧组飞天奖重聚（热度：272865）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E7%91%9E%20%E5%87%8F%E8%84%82%E9%A4%90%23" target="weibo">
-邱瑞 减脂餐（热度：272756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%AB%A5%E7%91%B6%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%90%8E%E5%8F%B0%E7%83%AD%E8%81%8A%23" target="weibo">
-朱一龙童瑶飞天奖后台热聊（热度：272650）
 </a>
 </li>
 
