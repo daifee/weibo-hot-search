@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667976741507,
+  "endTime": 1667978490122,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -67,6 +67,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1139520,
+      "num": 837242,
+      "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
+      "onboard_time": 1667973925,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1014778,
       "num": 1014778,
       "word": "全国核酸检测再降价",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796544,
+      "num": 796544,
+      "word": "内娱清唱天花板",
+      "onboard_time": 1667973807,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 782313,
       "num": 782313,
       "word": "再见爱人张婉婷",
@@ -129,14 +145,6 @@
       "onboard_time": 1667953169,
       "rank": 5,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 678600,
-      "num": 678600,
-      "word": "内娱清唱天花板",
-      "onboard_time": 1667973807,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 662598,
@@ -241,14 +249,6 @@
       "onboard_time": 1667971108,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 538039,
-      "num": 538039,
-      "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
-      "onboard_time": 1667973925,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 518590,
@@ -443,6 +443,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 332749,
+      "num": 277611,
+      "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+      "onboard_time": 1667973626,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330176,
       "num": 330176,
       "word": "外国人懂砍价但不多",
@@ -465,6 +473,14 @@
       "onboard_time": 1667920411,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327759,
+      "num": 274891,
+      "word": "阿瑟别太在意",
+      "onboard_time": 1667976924,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 327691,
@@ -539,11 +555,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271471,
+      "num": 271471,
+      "word": "赵梦原名赵文静",
+      "onboard_time": 1667978125,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263810,
       "num": 263810,
       "word": "男子野外发现怪石层层挖开似剥洋葱",
       "onboard_time": 1667951966,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262418,
+      "num": 262418,
+      "word": "苏州正德年间一700年古宅寻主",
+      "onboard_time": 1667972186,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -563,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252393,
-      "num": 252393,
-      "word": "苏州正德年间一700年古宅寻主",
-      "onboard_time": 1667972186,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 252031,
+      "num": 194391,
+      "word": "王源说和黄思瑞二搭是剧情需要",
+      "onboard_time": 1667977105,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 249810,
@@ -585,6 +617,22 @@
       "onboard_time": 1667965407,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248360,
+      "num": 194271,
+      "word": "段奥娟解约案胜诉",
+      "onboard_time": 1667978185,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234311,
+      "num": 234311,
+      "word": "原来火龙果园一入夜就会变灯光秀",
+      "onboard_time": 1667974405,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228683,
@@ -651,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213044,
+      "num": 213044,
+      "word": "空气炸锅烤苹果干",
+      "onboard_time": 1667972065,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 212514,
       "num": 212514,
       "word": "教育部通报违规竞赛问题查处情况",
@@ -699,14 +755,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 197442,
-      "num": 197442,
-      "word": "空气炸锅烤苹果干",
-      "onboard_time": 1667972065,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 193549,
       "num": 163030,
       "word": "GMA获奖名单",
@@ -745,6 +793,14 @@
       "onboard_time": 1667921010,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189799,
+      "num": 189799,
+      "word": "这届00后把颜色玩明白了",
+      "onboard_time": 1667976807,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 187927,
@@ -835,12 +891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159627,
-      "num": 159627,
-      "word": "原来火龙果园一入夜就会变灯光秀",
-      "onboard_time": 1667974405,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 160406,
+      "num": 160406,
+      "word": "羊了个羊改编成历了个史",
+      "onboard_time": 1667977946,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157138,
@@ -867,12 +923,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153628,
-      "num": 153628,
-      "word": "秸秆恶意被绑5把铁锤农户损失惨重",
-      "onboard_time": 1667973626,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 152208,
+      "num": 130508,
+      "word": "忍者神龟崛起定档1119",
+      "onboard_time": 1667978367,
+      "rank": 31,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 150263,
@@ -987,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135691,
+      "num": 130443,
+      "word": "柯南最新剧场版定档1118",
+      "onboard_time": 1667976446,
+      "rank": 35,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 135331,
       "num": 135331,
       "word": "重庆九龙坡区疫情防控",
@@ -1035,12 +1099,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 119690,
-      "num": 119690,
-      "word": "柯南最新剧场版定档1118",
-      "onboard_time": 1667976446,
-      "rank": 35,
-      "category": "动漫,影视"
+      "raw_hot": 122595,
+      "num": 122595,
+      "word": "00后老板带员工上班玩解谜游戏",
+      "onboard_time": 1667975965,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120571,
+      "num": 104705,
+      "word": "李峋朱韵到底什么时候亲",
+      "onboard_time": 1667977105,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 119555,
@@ -1091,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108402,
-      "num": 108402,
-      "word": "00后老板带员工上班玩解谜游戏",
-      "onboard_time": 1667975965,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107649,
       "num": 107649,
       "word": "世界杯大力神杯被一元拍卖",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1667907688,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106001,
+      "num": 106001,
+      "word": "电子咖啡不用喝就能提神醒脑",
+      "onboard_time": 1667977644,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 105870,
@@ -1163,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98692,
+      "num": 98692,
+      "word": "感觉有没有虫已经不重要了",
+      "onboard_time": 1667978125,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96795,
       "num": 96795,
       "word": "歌尔股份否认被踢出果链",
@@ -1203,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92709,
+      "num": 92709,
+      "word": "他们一次次突破极限护你周全",
+      "onboard_time": 1667978367,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92374,
       "num": 92374,
       "word": "EDG田野说过山车不是小朋友玩的",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1667941512,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87543,
+      "num": 87543,
+      "word": "小学生坠楼后学校先通知了另一家长",
+      "onboard_time": 1667978426,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86093,
