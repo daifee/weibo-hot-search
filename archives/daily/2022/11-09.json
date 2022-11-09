@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1668002428188,
+  "endTime": 1668003928377,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2026649,
-      "num": 2026649,
+      "raw_hot": 2188529,
+      "num": 2188529,
       "word": "疯狂小杨哥再回应1亿元买楼",
       "onboard_time": 1667999848,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060723,
+      "num": 1060723,
+      "word": "重庆市中医院不等核酸结果抢救黄码老人",
+      "onboard_time": 1667998109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015664,
       "num": 1015664,
       "word": "于文文刘恋再见面变尴尬了",
@@ -160,14 +168,6 @@
       "word": "美国街头惊现狗叼人类断臂",
       "onboard_time": 1667996065,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891792,
-      "num": 891792,
-      "word": "重庆市中医院不等核酸结果抢救黄码老人",
-      "onboard_time": 1667998109,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711534,
+      "num": 711534,
+      "word": "成都青城山现大量不明线虫",
+      "onboard_time": 1667998648,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691114,
       "num": 691114,
       "word": "王鹤棣入选2022星辰大海",
@@ -307,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654889,
+      "num": 654889,
+      "word": "林高远王曼昱混双夺冠",
+      "onboard_time": 1668001887,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 653003,
       "num": 593722,
       "word": "岸田文雄问美军中国航母战力",
       "onboard_time": 1667966428,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 651905,
-      "num": 651905,
-      "word": "成都青城山现大量不明线虫",
-      "onboard_time": 1667998648,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640252,
@@ -507,12 +515,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 470007,
-      "num": 470007,
-      "word": "林高远王曼昱混双夺冠",
-      "onboard_time": 1668001887,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 475812,
+      "num": 475812,
+      "word": "穿搭果然很重要",
+      "onboard_time": 1667999309,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 466453,
@@ -585,6 +593,14 @@
       "onboard_time": 1667897006,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423255,
+      "num": 423255,
+      "word": "林高远状态",
+      "onboard_time": 1668001707,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 422155,
@@ -715,14 +731,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 360684,
-      "num": 360684,
-      "word": "穿搭果然很重要",
-      "onboard_time": 1667999309,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 359443,
       "num": 359443,
       "word": "苏醒当年没被淘汰的原因",
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330296,
+      "num": 330296,
+      "word": "莎头",
+      "onboard_time": 1668003149,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330176,
       "num": 330176,
       "word": "外国人懂砍价但不多",
@@ -825,14 +841,6 @@
       "onboard_time": 1667920411,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328454,
-      "num": 328454,
-      "word": "林高远状态",
-      "onboard_time": 1668001707,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 327759,
@@ -1011,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265809,
+      "num": 265809,
+      "word": "压力给到义乌的朋友了",
+      "onboard_time": 1667999488,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263810,
       "num": 263810,
       "word": "男子野外发现怪石层层挖开似剥洋葱",
@@ -1153,6 +1169,22 @@
       "onboard_time": 1667956707,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224530,
+      "num": 224530,
+      "word": "SANA赵美延合跳Nxde",
+      "onboard_time": 1668002786,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224080,
+      "num": 224080,
+      "word": "老师暂停晚自习带全班看红月亮",
+      "onboard_time": 1668001350,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 223693,
@@ -1307,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188357,
+      "num": 188357,
+      "word": "徐志胜鱼系男孩",
+      "onboard_time": 1668002728,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187927,
       "num": 187927,
       "word": "李峋朱韵同一类人",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1667992887,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185345,
+      "num": 185345,
+      "word": "感情之间分享欲重要吗",
+      "onboard_time": 1667998708,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 180983,
@@ -1443,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167483,
-      "num": 167483,
-      "word": "压力给到义乌的朋友了",
-      "onboard_time": 1667999488,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167413,
       "num": 322376,
       "word": "初二女生已做了4年故宫讲解员",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1667970269,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148668,
-      "num": 148668,
-      "word": "感情之间分享欲重要吗",
-      "onboard_time": 1667998708,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 146678,
@@ -1723,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124217,
+      "num": 124217,
+      "word": "林高远王曼昱4比2王楚钦孙颖莎",
+      "onboard_time": 1668003452,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124195,
       "num": 124195,
       "word": "趴在门缝里的三只小狗",
@@ -1763,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121429,
+      "num": 121429,
+      "word": "咪咕",
+      "onboard_time": 1668003390,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121313,
       "num": 1117066,
       "word": "世界互联网大会乌镇峰会",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1667977105,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 120395,
-      "num": 120395,
-      "word": "老师暂停晚自习带全班看红月亮",
-      "onboard_time": 1668001350,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 120280,
@@ -1945,6 +1985,14 @@
       "onboard_time": 1667957727,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100959,
+      "num": 100959,
+      "word": "12岁女孩陷入河中漩涡大哥用皮带拉回",
+      "onboard_time": 1668003088,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99154,
@@ -2259,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47498,
+      "num": 1205921,
+      "word": "加快建设网络强国数字中国",
+      "onboard_time": 1668000508,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 47322,
       "num": 302183,
       "word": "汶川哥哥将捐2万公益基金给泸定婴儿",
@@ -2271,14 +2327,6 @@
       "num": 891678,
       "word": "这些工业互联网科技太酷了",
       "onboard_time": 1667911347,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 42843,
-      "num": 1126971,
-      "word": "加快建设网络强国数字中国",
-      "onboard_time": 1668000508,
       "rank": 2,
       "category": "国内要闻"
     },
