@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/10 00:32:20 ~ 2022/11/10 06:22:00
+本榜单时间：2022/11/10 00:32:20 ~ 2022/11/10 06:39:16
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%98%BF%E5%A7%A8%E6%8C%96%E5%87%BA30%E6%96%A4%E5%B7%A8%E6%97%A0%E9%9C%B8%E7%BA%A2%E8%96%AF%23" target="weibo">
 四川阿姨挖出30斤巨无霸红薯（热度：271718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23" target="weibo">
+华北电力大学一学生核酸检测阳性（热度：219618）
 </a>
 </li>
 
@@ -213,12 +219,6 @@ Jennie演唱会中途脚伤复发（热度：207723）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23" target="weibo">
-华北电力大学一学生核酸检测阳性（热度：116998）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%B7%9D%20%E5%8F%AF%E6%83%9C%23" target="weibo">
 孟川 可惜（热度：114154）
 </a>
@@ -309,6 +309,12 @@ SANA赵美延合跳Nxde（热度：99649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A9%E9%99%8D%E8%9E%BA%E4%B8%9D%E5%88%80%E7%A0%B8%E5%A4%B4%E9%87%8D%E4%BC%A4%23" target="weibo">
+6岁女童被天降螺丝刀砸头重伤（热度：82498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%91%98%E6%9F%BF%E5%AD%90%E6%A0%91%E6%9E%9D%E6%8F%92%E5%85%A5%E5%8F%B3%E7%9C%BC%E7%9C%B6%E8%BF%9B%E9%A2%85%E5%86%85%23" target="weibo">
 男子摘柿子树枝插入右眼眶进颅内（热度：81636）
 </a>
@@ -333,6 +339,12 @@ SANA赵美延合跳Nxde（热度：99649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E7%BE%8E%E5%9B%BD%E8%B4%B9%E5%9F%8E%E6%9C%80%E5%8D%B1%E9%99%A9%E8%A1%97%E9%81%93%23" target="weibo">
+实拍美国费城最危险街道（热度：72591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23" target="weibo">
 林高远王曼昱混双夺冠（热度：70765）
 </a>
@@ -341,18 +353,6 @@ SANA赵美延合跳Nxde（热度：99649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%AB%E5%A6%87%E5%8D%96%E6%9D%AD%E5%B7%9E500%E4%B8%87%E6%88%BF%E5%AD%90%E5%88%B0%E5%86%85%E8%92%99%E5%BD%93%E5%86%9C%E6%B0%91%23" target="weibo">
 90后夫妇卖杭州500万房子到内蒙当农民（热度：69925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E7%BE%8E%E5%9B%BD%E8%B4%B9%E5%9F%8E%E6%9C%80%E5%8D%B1%E9%99%A9%E8%A1%97%E9%81%93%23" target="weibo">
-实拍美国费城最危险街道（热度：63584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A9%E9%99%8D%E8%9E%BA%E4%B8%9D%E5%88%80%E7%A0%B8%E5%A4%B4%E9%87%8D%E4%BC%A4%23" target="weibo">
-6岁女童被天降螺丝刀砸头重伤（热度：52097）
 </a>
 </li>
 
@@ -400,7 +400,7 @@ SANA赵美延合跳Nxde（热度：99649）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E7%A7%8D%E5%A4%B1%E7%9C%A0%E7%B1%BB%E5%9E%8B%E4%BD%A0%E5%B1%9E%E4%BA%8E%E5%93%AA%E4%B8%80%E7%A7%8D%23" target="weibo">
-7种失眠类型你属于哪一种（热度：15664）
+7种失眠类型你属于哪一种（热度：22804）
 </a>
 </li>
 
