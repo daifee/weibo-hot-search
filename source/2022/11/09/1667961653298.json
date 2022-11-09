@@ -1,0 +1,410 @@
+{
+  "runTime": 1667961653298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1046468,
+        "num": 1046468,
+        "word": "价值23万缅因猫坠楼保姆被追责",
+        "onboard_time": 1667952328,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924680,
+        "num": 924680,
+        "word": "全国核酸检测再降价",
+        "onboard_time": 1667938752,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21989,
+        "num": 853005,
+        "word": "这些工业互联网科技太酷了",
+        "onboard_time": 1667911347,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 824752,
+        "num": 824752,
+        "word": "美国开出20.4亿美元彩票巨奖",
+        "onboard_time": 1667957368,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746038,
+        "num": 746038,
+        "word": "老人借房给重孙上学孙子拒还",
+        "onboard_time": 1667956947,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639613,
+        "num": 639613,
+        "word": "广州新增本土感染者2637例",
+        "onboard_time": 1667956649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627636,
+        "num": 627636,
+        "word": "扎克伯格承认脸书因失误大规模裁员",
+        "onboard_time": 1667958748,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 571955,
+        "num": 571955,
+        "word": "周杰伦线上演唱会定档",
+        "onboard_time": 1667957188,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 537706,
+        "num": 537706,
+        "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+        "onboard_time": 1667960485,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525612,
+        "num": 525612,
+        "word": "诺言",
+        "onboard_time": 1667953169,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 508284,
+        "num": 508284,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667957662,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500404,
+        "num": 500404,
+        "word": "IU",
+        "onboard_time": 1667919390,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491265,
+        "num": 491265,
+        "word": "同花顺",
+        "onboard_time": 1667959046,
+        "rank": 12,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 422155,
+        "num": 422155,
+        "word": "王一博呼吁大家多关注消防安全",
+        "onboard_time": 1667961324,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344329,
+        "num": 344329,
+        "word": "计算机二级",
+        "onboard_time": 1667960006,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 837329,
+        "num": 343567,
+        "word": "官方辟谣错过女儿成人礼书记开公司",
+        "onboard_time": 1667922687,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342023,
+        "num": 342023,
+        "word": "下夜班护士车祸现场奋不顾身救人",
+        "onboard_time": 1667956889,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 329183,
+        "num": 329183,
+        "word": "警方通报呼和浩特卖高价菜月入40万元",
+        "onboard_time": 1667959347,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254624,
+        "num": 254624,
+        "word": "儿童绘本出现裸身男子按摩画面",
+        "onboard_time": 1667928556,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 248198,
+        "num": 248198,
+        "word": "孙俪当主编出的第二套儿童绘本",
+        "onboard_time": 1667961568,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349874,
+        "num": 245995,
+        "word": "迪丽热巴小包被晚安视频",
+        "onboard_time": 1667959167,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242963,
+        "num": 242963,
+        "word": "什么是119",
+        "onboard_time": 1667954849,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225394,
+        "num": 225394,
+        "word": "南方城市羽绒服销量为北方2倍",
+        "onboard_time": 1667959587,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224649,
+        "num": 224649,
+        "word": "红腹锦鸡飞入工厂被误认为是凤凰",
+        "onboard_time": 1667956707,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219786,
+        "num": 219786,
+        "word": "再见爱人张婉婷",
+        "onboard_time": 1667921310,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 219081,
+        "word": "学校食堂17元的一顿饭",
+        "onboard_time": 1667920528,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204796,
+        "num": 204796,
+        "word": "锦鲤",
+        "onboard_time": 1667958806,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201392,
+        "num": 201392,
+        "word": "歌尔股份或暂停生产AirPodsPro2",
+        "onboard_time": 1667953648,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189647,
+        "num": 189647,
+        "word": "你的疲劳可能是吃出来的",
+        "onboard_time": 1667920411,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187927,
+        "num": 187927,
+        "word": "李峋朱韵同一类人",
+        "onboard_time": 1667960124,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172889,
+        "num": 172889,
+        "word": "卿卿日常 唧唧日常",
+        "onboard_time": 1667926101,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "乐队的海边官宣定档1111",
+        "onboard_time": 1667960847,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147785,
+        "num": 147785,
+        "word": "男子野外发现怪石层层挖开似剥洋葱",
+        "onboard_time": 1667951966,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145201,
+        "num": 145201,
+        "word": "女子将家中车库改成流浪猫自助酒店",
+        "onboard_time": 1667952328,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141142,
+        "num": 141142,
+        "word": "欧文得到NBA总裁谅解",
+        "onboard_time": 1667960906,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137659,
+        "num": 137659,
+        "word": "年轻人初入职场会奖励自己什么",
+        "onboard_time": 1667961324,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133344,
+        "num": 133344,
+        "word": "北京11月8日新增32例本土确诊",
+        "onboard_time": 1667953894,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128718,
+        "num": 128718,
+        "word": "新加坡学者回击西方记者污蔑中国",
+        "onboard_time": 1667951184,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125779,
+        "num": 125779,
+        "word": "民警翻垃圾6小时为女孩寻回救命药",
+        "onboard_time": 1667935332,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 119541,
+        "num": 119541,
+        "word": "邱瑞 谢谢王涛",
+        "onboard_time": 1667918071,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112937,
+        "num": 112937,
+        "word": "广东新增本土感染者2808例",
+        "onboard_time": 1667958446,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112201,
+        "num": 112201,
+        "word": "95后小伙鹤岗买房后云监工装修",
+        "onboard_time": 1667924965,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110988,
+        "num": 110988,
+        "word": "泰妍露腰装",
+        "onboard_time": 1667942111,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109637,
+        "num": 109637,
+        "word": "命韵峋环",
+        "onboard_time": 1667952267,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106731,
+        "num": 106731,
+        "word": "泷泽秀明已成立新公司",
+        "onboard_time": 1667955749,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105780,
+        "num": 105780,
+        "word": "童漠男杀疯了",
+        "onboard_time": 1667921790,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 101288,
+        "word": "11月8日新增本土无症状6882例",
+        "onboard_time": 1667960545,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141436,
+        "num": 100123,
+        "word": "马斯克个人财富较一年前下跌1.2万亿",
+        "onboard_time": 1667961626,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98824,
+        "num": 98824,
+        "word": "睡前2小时进食就算夜宵",
+        "onboard_time": 1667923107,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96929,
+        "num": 96929,
+        "word": "烤橘子这么管用吗",
+        "onboard_time": 1667914287,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#上新啦乌镇峰会#"
+    }
+  }
+}
