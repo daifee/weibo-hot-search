@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668036394493,
+  "endTime": 1668037352498,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -19,15 +19,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010360,
-      "num": 1010360,
+      "raw_hot": 1232364,
+      "num": 1232364,
       "word": "疯狂小杨哥再回应1亿元买楼",
       "onboard_time": 1667999848,
       "rank": 1,
       "category": "网红"
     },
     {
-      "raw_hot": 901522,
+      "raw_hot": 1021990,
       "num": 291935,
       "word": "男童母亲称与鲁某某家常串门",
       "onboard_time": 1668007589,
@@ -43,12 +43,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 519906,
+      "num": 519906,
+      "word": "重庆疫情防控",
+      "onboard_time": 1668011484,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498554,
       "num": 285222,
       "word": "杨超越跳了nxde",
       "onboard_time": 1668006146,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 497706,
+      "num": 356877,
+      "word": "华北电力大学一学生核酸检测阳性",
+      "onboard_time": 1668029111,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497626,
@@ -75,22 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455457,
-      "num": 312412,
-      "word": "华北电力大学一学生核酸检测阳性",
-      "onboard_time": 1668029111,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455270,
-      "num": 455270,
-      "word": "重庆疫情防控",
-      "onboard_time": 1668011484,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406443,
       "num": 406443,
       "word": "鸟鸟文本",
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334632,
-      "num": 334632,
+      "raw_hot": 342771,
+      "num": 342771,
       "word": "夫妻仅一墙之隔却要寄信交流",
       "onboard_time": 1668008728,
       "rank": 15,
@@ -113,6 +113,22 @@
       "onboard_time": 1667998648,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300581,
+      "num": 300581,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280702,
+      "num": 280702,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 280553,
@@ -131,20 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226903,
-      "num": 226903,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 224558,
-      "num": 224558,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 223760,
+      "num": 223760,
+      "word": "毛豆 一灯",
+      "onboard_time": 1668013100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 207723,
@@ -153,14 +161,6 @@
       "onboard_time": 1668000990,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206316,
-      "num": 206316,
-      "word": "毛豆 一灯",
-      "onboard_time": 1668013100,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 205711,
@@ -203,12 +203,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170549,
+      "num": 170549,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162914,
       "num": 162914,
       "word": "穿搭果然很重要",
       "onboard_time": 1667999309,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161415,
+      "num": 161415,
+      "word": "公交被堵路上男乘客翻窗下车引争议",
+      "onboard_time": 1668034877,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156936,
@@ -233,14 +249,6 @@
       "onboard_time": 1668012320,
       "rank": 20,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 140862,
-      "num": 140862,
-      "word": "网友称被面试官当面撕简历",
-      "onboard_time": 1668014537,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136582,
@@ -299,6 +307,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120952,
+      "num": 120952,
+      "word": "大娘买衣服试穿被商家猛夸好看",
+      "onboard_time": 1667993848,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120906,
+      "num": 108560,
+      "word": "医院回应男子多次闯入母婴室接水",
+      "onboard_time": 1668036625,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120329,
+      "num": 120329,
+      "word": "古偶眼神戏天花板",
+      "onboard_time": 1668010945,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117572,
+      "num": 117572,
+      "word": "王鹤棣沈月将合体",
+      "onboard_time": 1668037103,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114154,
       "num": 114154,
       "word": "孟川 可惜",
@@ -323,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108581,
-      "num": 108581,
-      "word": "大娘买衣服试穿被商家猛夸好看",
-      "onboard_time": 1667993848,
+      "raw_hot": 106626,
+      "num": 106626,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
       "rank": 37,
-      "category": "社会新闻"
+      "category": "社会负面"
     },
     {
       "raw_hot": 103565,
@@ -345,14 +385,6 @@
       "onboard_time": 1668002786,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99037,
-      "num": 97663,
-      "word": "古偶眼神戏天花板",
-      "onboard_time": 1668010945,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 97451,
@@ -387,20 +419,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91874,
-      "num": 91874,
-      "word": "男子摘柿子树枝插入右眼眶进颅内",
-      "onboard_time": 1668013339,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 91555,
       "num": 91555,
       "word": "点燃我温暖你校园感",
       "onboard_time": 1668007468,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90621,
+      "num": 90621,
+      "word": "茶杯犬背后的真相",
+      "onboard_time": 1668036803,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 89270,
+      "num": 89270,
+      "word": "谢谢你医生",
+      "onboard_time": 1668036381,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 88323,
+      "num": 88323,
+      "word": "宁晋疫情防控",
+      "onboard_time": 1668036256,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87841,
@@ -411,12 +459,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 83464,
-      "num": 47477,
-      "word": "谢谢你医生",
-      "onboard_time": 1668036381,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 87686,
+      "num": 77297,
+      "word": "段奥娟经纪公司将上诉",
+      "onboard_time": 1668018313,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83034,
@@ -435,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80126,
-      "num": 80126,
-      "word": "公交被堵路上男乘客翻窗下车引争议",
-      "onboard_time": 1668034877,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79602,
       "num": 79602,
       "word": "4岁娃当妈妈嘴替萌怼客服",
@@ -451,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77297,
-      "num": 77297,
-      "word": "段奥娟经纪公司将上诉",
-      "onboard_time": 1668018313,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 76139,
+      "num": 76139,
+      "word": "西安外来入侵物种普查已展开",
+      "onboard_time": 1668019033,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73837,
@@ -467,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72292,
+      "num": 72292,
+      "word": "90后夫妇卖杭州500万房子到内蒙当农民",
+      "onboard_time": 1667990728,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70765,
       "num": 70765,
       "word": "林高远王曼昱混双夺冠",
@@ -475,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69925,
-      "num": 69925,
-      "word": "90后夫妇卖杭州500万房子到内蒙当农民",
-      "onboard_time": 1667990728,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 59807,
+      "num": 59807,
+      "word": "上铺真的忍了很久",
+      "onboard_time": 1668037226,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 56257,
@@ -499,22 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46588,
-      "num": 46588,
-      "word": "西安外来入侵物种普查已展开",
-      "onboard_time": 1668019033,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41846,
-      "num": 41846,
-      "word": "宁晋疫情防控",
-      "onboard_time": 1668036256,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34114,
       "num": 34114,
       "word": "一下就看出了智商的高低",
@@ -531,7 +563,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25436,
+      "raw_hot": 27559,
       "num": 626994,
       "word": "加快建设网络强国数字中国",
       "onboard_time": 1668000508,
