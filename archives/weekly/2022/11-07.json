@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668026356252,
+  "endTime": 1668028971536,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -6787,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37940,
+      "num": 28109,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36567,
       "num": 36567,
       "word": "11月院线电影",
@@ -6851,6 +6859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27377,
+      "num": 27377,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 23735,
       "num": 23735,
       "word": "人民文娱对话王嘉尔",
@@ -6867,28 +6883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16702,
-      "num": 15930,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 15669,
       "num": 14363,
       "word": "打火机与公主裙 小说",
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14827,
-      "num": 14827,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14673,

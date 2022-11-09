@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668026356252,
+  "endTime": 1668028971536,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37940,
+      "num": 28109,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34114,
       "num": 34114,
       "word": "一下就看出了智商的高低",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27377,
+      "num": 27377,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 25436,
       "num": 626994,
       "word": "加快建设网络强国数字中国",
@@ -489,22 +505,6 @@
       "onboard_time": 1668017235,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16702,
-      "num": 15930,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 14827,
-      "num": 14827,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
