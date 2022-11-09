@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 21:20:26
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 21:50:07
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ LPL输得不冤（热度：2073824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%86%8D%E5%9B%9E%E5%BA%941%E4%BA%BF%E5%85%83%E4%B9%B0%E6%A5%BC%23" target="weibo">
+疯狂小杨哥再回应1亿元买楼（热度：2026649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23IU%23" target="weibo">
 IU（热度：2015592）
 </a>
@@ -603,6 +609,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
+疯狂动物城（热度：1446984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%A5%84%E5%9E%A3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%BF%9F%E5%8D%AB%E5%8D%8E%E5%9D%A0%E6%A5%BC%E5%8E%BB%E4%B8%96%23" target="weibo">
 山西襄垣县委书记翟卫华坠楼去世（热度：1445435）
 </a>
@@ -623,12 +635,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8B%E8%B7%AA%E6%B1%82%E4%BF%9D%E5%AE%89%E5%BD%92%E8%BF%98%E8%A2%AB%E6%89%A3%E8%BD%A6%E9%92%A5%E5%8C%99%23" target="weibo">
 外卖员下跪求保安归还被扣车钥匙（热度：1431143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
-疯狂动物城（热度：1431055）
 </a>
 </li>
 
@@ -1677,6 +1683,12 @@ GALA 头像（热度：826488）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B8%8D%E7%AD%89%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E6%8A%A2%E6%95%91%E9%BB%84%E7%A0%81%E8%80%81%E4%BA%BA%23" target="weibo">
+重庆市中医院不等核酸结果抢救黄码老人（热度：795847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%B7%B2%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E8%91%A3%E4%BA%8B%23" target="weibo">
 腾讯副总裁已担任中国联通董事（热度：793830）
 </a>
@@ -1863,6 +1875,12 @@ Rookie发文恭喜DRX（热度：759563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E8%84%9A%E4%BC%A4%E5%A4%8D%E5%8F%91%23" target="weibo">
+Jennie演唱会中途脚伤复发（热度：742614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%94%B6%E9%9B%861%E5%B9%B4%E6%8E%89%E5%8F%91%E7%BB%91%E6%88%905%E5%8E%98%E7%B1%B3%E7%B2%97%E9%A9%AC%E5%B0%BE%23" target="weibo">
 女生收集1年掉发绑成5厘米粗马尾（热度：740107）
 </a>
@@ -1919,12 +1937,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E5%9B%9E%E4%B9%A1%E4%B9%B0%E6%88%BF%E5%85%A5%E4%BD%8F%E6%AF%9B%E5%9D%AF%23" target="weibo">
 24岁小伙花光积蓄回乡买房入住毛坯（热度：719232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%86%8D%E5%9B%9E%E5%BA%941%E4%BA%BF%E5%85%83%E4%B9%B0%E6%A5%BC%23" target="weibo">
-疯狂小杨哥再回应1亿元买楼（热度：717079）
 </a>
 </li>
 
@@ -3009,6 +3021,12 @@ DRX冠军皮肤选择（热度：536420）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%B3%E7%94%9F%E7%BD%91%E8%B4%AD%E8%A2%AB%E6%80%A5%E5%93%AD%E4%BA%86%23" target="weibo">
+杭州一女生网购被急哭了（热度：525406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E4%BC%9A%E4%BB%A5%E5%85%A8%E6%96%B0%E9%9D%A2%E8%B2%8C%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%BD%92%23" target="weibo">
 EXO会以全新面貌尽快回归（热度：523506）
 </a>
@@ -3215,6 +3233,12 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%917160%E4%BA%BF%E5%85%83%23" target="weibo">
 苹果市值一夜蒸发7160亿元（热度：500962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9D%92%E5%9F%8E%E5%B1%B1%E7%8E%B0%E5%A4%A7%E9%87%8F%E4%B8%8D%E6%98%8E%E7%BA%BF%E8%99%AB%23" target="weibo">
+成都青城山现大量不明线虫（热度：500732）
 </a>
 </li>
 
@@ -3629,12 +3653,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%99%923%E4%B8%AA%E9%AB%98%E9%A2%9C%E5%80%BC%E5%84%BF%E5%AD%90%E7%BE%A1%E7%85%9E%E4%BC%97%E4%BA%BA%23" target="weibo">
 妈妈晒3个高颜值儿子羡煞众人（热度：453107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%B3%E7%94%9F%E7%BD%91%E8%B4%AD%E8%A2%AB%E6%80%A5%E5%93%AD%E4%BA%86%23" target="weibo">
-杭州一女生网购被急哭了（热度：452745）
 </a>
 </li>
 
@@ -4487,12 +4505,6 @@ Lisa成为iTunes最多一位女歌手（热度：395840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%B4%9E%E7%BE%BD%E8%AF%B4%E4%B8%8D%E6%83%B3%E7%BE%8E%E5%B0%B1%E5%A5%BD%E4%BA%86%23" target="weibo">
 姜贞羽说不想美就好了（热度：377233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B8%8D%E7%AD%89%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E6%8A%A2%E6%95%91%E9%BB%84%E7%A0%81%E8%80%81%E4%BA%BA%23" target="weibo">
-重庆市中医院不等核酸结果抢救黄码老人（热度：377225）
 </a>
 </li>
 
@@ -5559,6 +5571,12 @@ pgc（热度：316623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%90%AD%E6%9E%9C%E7%84%B6%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
+穿搭果然很重要（热度：306995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%E5%AE%98%E5%AE%A3%E4%B8%96%E5%86%A0KIC%E9%98%B5%E5%AE%B9%23" target="weibo">
 GEN官宣世冠KIC阵容（热度：306955）
 </a>
@@ -5993,24 +6011,6 @@ Haerin洪恩採合跳ANTIFRAGILE（热度：287075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E5%9B%A0%E9%85%92%E9%A9%BE%E8%B5%94%E5%81%BF%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%23" target="weibo">
 金赛纶因酒驾赔偿花光积蓄（热度：280540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E4%B8%8A%E4%B8%80%E6%AE%B5%E6%84%9F%E6%83%85%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
-你在上一段感情学到了什么（热度：280278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%A8%E8%BF%B7%E4%BD%A0%E7%88%86%E7%B1%B3%E8%8A%B1%E6%9C%BA%E6%91%86%E6%91%8A%23" target="weibo">
-12岁男孩在小区用迷你爆米花机摆摊（热度：279832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E3%E5%B2%81%E5%84%BF%E7%AB%A5%E7%88%B6%E4%BA%B2%E6%8B%A8%E6%89%93120%E6%97%B6%E9%97%B4%E7%BA%BF%E5%85%AC%E5%B8%83%23" target="weibo">
-兰州3岁儿童父亲拨打120时间线公布（热度：279289）
 </a>
 </li>
 

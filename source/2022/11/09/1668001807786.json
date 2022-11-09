@@ -1,0 +1,410 @@
+{
+  "runTime": 1668001807786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026649,
+        "num": 2026649,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1446984,
+        "num": 1446984,
+        "word": "疯狂动物城",
+        "onboard_time": 1667992106,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32690,
+        "num": 1126971,
+        "word": "加快建设网络强国数字中国",
+        "onboard_time": 1668000508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 823176,
+        "num": 823176,
+        "word": "美国街头惊现狗叼人类断臂",
+        "onboard_time": 1667996065,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795847,
+        "num": 795847,
+        "word": "重庆市中医院不等核酸结果抢救黄码老人",
+        "onboard_time": 1667998109,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742614,
+        "num": 742614,
+        "word": "Jennie演唱会中途脚伤复发",
+        "onboard_time": 1668000990,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 674313,
+        "num": 674313,
+        "word": "于文文刘恋再见面变尴尬了",
+        "onboard_time": 1667992528,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525406,
+        "num": 525406,
+        "word": "杭州一女生网购被急哭了",
+        "onboard_time": 1667996487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500732,
+        "num": 500732,
+        "word": "成都青城山现大量不明线虫",
+        "onboard_time": 1667998648,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132882,
+        "num": 485250,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2410182,
+        "num": 483389,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478248,
+        "num": 478248,
+        "word": "法证先锋5第14集不建议独自观看",
+        "onboard_time": 1667994868,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459504,
+        "num": 459504,
+        "word": "体温计碎裂护士打鸡蛋防汞中毒",
+        "onboard_time": 1667992227,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404980,
+        "num": 404980,
+        "word": "脱口秀大会5今晚八强出炉",
+        "onboard_time": 1667998648,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362029,
+        "num": 362029,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668001766,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355008,
+        "num": 355008,
+        "word": "王鹤棣入选2022星辰大海",
+        "onboard_time": 1667992528,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306995,
+        "num": 306995,
+        "word": "穿搭果然很重要",
+        "onboard_time": 1667999309,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292802,
+        "num": 292802,
+        "word": "大娘买衣服试穿被商家猛夸好看",
+        "onboard_time": 1667993848,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271524,
+        "num": 271524,
+        "word": "广州8个区全面停课",
+        "onboard_time": 1667989349,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229837,
+        "num": 229837,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311097,
+        "num": 227060,
+        "word": "赵丽颖说最喜欢的动漫人物是哪吒",
+        "onboard_time": 1667998406,
+        "rank": 20,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 291908,
+        "num": 226910,
+        "word": "小学生坠楼后学校先通知了另一家长",
+        "onboard_time": 1667978426,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222894,
+        "num": 222894,
+        "word": "吴谨言古装仙气",
+        "onboard_time": 1667990728,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218274,
+        "num": 218274,
+        "word": "男子离家14天狗子拉满屋狗粪",
+        "onboard_time": 1667993490,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214192,
+        "num": 214192,
+        "word": "羊了个羊改编成历了个史",
+        "onboard_time": 1667977946,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211256,
+        "num": 211256,
+        "word": "成都警方回应2男子深夜追赶女子",
+        "onboard_time": 1667995886,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186626,
+        "num": 186626,
+        "word": "李峋三娃爹",
+        "onboard_time": 1667986886,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "肖八",
+        "onboard_time": 1667986945,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167483,
+        "num": 167483,
+        "word": "压力给到义乌的朋友了",
+        "onboard_time": 1667999488,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46474,
+        "num": 151209,
+        "word": "世界互联网大会乌镇峰会",
+        "onboard_time": 1667981367,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "早八丑关我晚八什么事",
+        "onboard_time": 1667985686,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149119,
+        "num": 149119,
+        "word": "谈姐弟恋可以有多快乐",
+        "onboard_time": 1667992585,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147910,
+        "num": 147910,
+        "word": "女子凌晨外卖被偷坐地崩溃大哭",
+        "onboard_time": 1667985445,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140138,
+        "num": 140138,
+        "word": "感情之间分享欲重要吗",
+        "onboard_time": 1667998708,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137860,
+        "num": 137860,
+        "word": "Meta裁员13%",
+        "onboard_time": 1667997147,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132463,
+        "num": 132463,
+        "word": "库尔勒回应市民从方舱送医后医治无效死亡",
+        "onboard_time": 1667983047,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128890,
+        "num": 128890,
+        "word": "林高远状态",
+        "onboard_time": 1668001707,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "李峋怼过的话朱韵还回去",
+        "onboard_time": 1667996907,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124892,
+        "num": 124892,
+        "word": "童星出身的艺人",
+        "onboard_time": 1667989287,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121454,
+        "num": 121454,
+        "word": "女子为养男友抢金店5万首饰",
+        "onboard_time": 1667987906,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121145,
+        "num": 121145,
+        "word": "李峋新年夜找朱韵",
+        "onboard_time": 1667993490,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119545,
+        "num": 119545,
+        "word": "2022星辰大海青年演员官宣",
+        "onboard_time": 1667994689,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119489,
+        "num": 119489,
+        "word": "脱口秀大会",
+        "onboard_time": 1668001166,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115188,
+        "num": 115188,
+        "word": "90后夫妇卖杭州500万房子到内蒙当农民",
+        "onboard_time": 1667990728,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110553,
+        "num": 110553,
+        "word": "老师暂停晚自习带全班看红月亮",
+        "onboard_time": 1668001350,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 107859,
+        "num": 107859,
+        "word": "弟弟代替去厕所哥哥上网课被发现",
+        "onboard_time": 1667979746,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 105226,
+        "num": 105226,
+        "word": "孙子去世孙媳鼓励照顾住院爷爷",
+        "onboard_time": 1667982327,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102500,
+        "num": 102500,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 90696,
+        "num": 90696,
+        "word": "妈妈做的饭一口就能尝出来",
+        "onboard_time": 1667999727,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 89747,
+        "num": 89747,
+        "word": "羡慕坐在爸爸车前座的小孩",
+        "onboard_time": 1668000809,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022世界互联网大会乌镇峰会#"
+    }
+  }
+}
