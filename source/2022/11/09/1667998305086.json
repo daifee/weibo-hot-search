@@ -1,0 +1,410 @@
+{
+  "runTime": 1667998305086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2275873,
+        "num": 2275873,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425652,
+        "num": 1425652,
+        "word": "疯狂动物城",
+        "onboard_time": 1667992106,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 69725,
+        "num": 1052377,
+        "word": "世界互联网大会乌镇峰会",
+        "onboard_time": 1667981367,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1015664,
+        "num": 1015664,
+        "word": "于文文刘恋再见面变尴尬了",
+        "onboard_time": 1667992528,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818752,
+        "num": 818752,
+        "word": "体温计碎裂护士打鸡蛋防汞中毒",
+        "onboard_time": 1667992227,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691114,
+        "num": 691114,
+        "word": "王鹤棣入选2022星辰大海",
+        "onboard_time": 1667992528,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587553,
+        "num": 587553,
+        "word": "法证先锋5第14集不建议独自观看",
+        "onboard_time": 1667994868,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530547,
+        "num": 530547,
+        "word": "小学生坠楼后学校先通知了另一家长",
+        "onboard_time": 1667978426,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495734,
+        "num": 495734,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667998286,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373973,
+        "num": 373973,
+        "word": "羊了个羊改编成历了个史",
+        "onboard_time": 1667977946,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 725010,
+        "num": 373469,
+        "word": "美国街头惊现狗叼人类断臂",
+        "onboard_time": 1667996065,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365630,
+        "num": 365630,
+        "word": "杭州一女生网购被急哭了",
+        "onboard_time": 1667996487,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348221,
+        "num": 348221,
+        "word": "男子离家14天狗子拉满屋狗粪",
+        "onboard_time": 1667993490,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343459,
+        "num": 343459,
+        "word": "吴谨言古装仙气",
+        "onboard_time": 1667990728,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332976,
+        "num": 332976,
+        "word": "李峋三娃爹",
+        "onboard_time": 1667986886,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304397,
+        "num": 304397,
+        "word": "广州8个区全面停课",
+        "onboard_time": 1667989349,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 295963,
+        "num": 295963,
+        "word": "谈姐弟恋可以有多快乐",
+        "onboard_time": 1667992585,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294608,
+        "num": 294608,
+        "word": "大娘买衣服试穿被商家猛夸好看",
+        "onboard_time": 1667993848,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287733,
+        "num": 287733,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274560,
+        "num": 274560,
+        "word": "成都警方回应2男子深夜追赶女子",
+        "onboard_time": 1667995886,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230850,
+        "num": 230850,
+        "word": "早八丑关我晚八什么事",
+        "onboard_time": 1667985686,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217893,
+        "num": 217893,
+        "word": "何洛洛入选2022星辰大海",
+        "onboard_time": 1667993367,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207259,
+        "num": 207259,
+        "word": "女子凌晨外卖被偷坐地崩溃大哭",
+        "onboard_time": 1667985445,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202112,
+        "num": 202112,
+        "word": "2022星辰大海青年演员官宣",
+        "onboard_time": 1667994689,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191484,
+        "num": 191484,
+        "word": "肖八",
+        "onboard_time": 1667986945,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186748,
+        "num": 186748,
+        "word": "90后夫妇卖杭州500万房子到内蒙当农民",
+        "onboard_time": 1667990728,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184578,
+        "num": 184578,
+        "word": "李峋新年夜找朱韵",
+        "onboard_time": 1667993490,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166974,
+        "num": 166974,
+        "word": "库尔勒回应市民从方舱送医后医治无效死亡",
+        "onboard_time": 1667983047,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171528,
+        "num": 166557,
+        "word": "李峋怼过的话朱韵还回去",
+        "onboard_time": 1667996907,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148707,
+        "num": 162761,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160489,
+        "num": 160489,
+        "word": "女子为养男友抢金店5万首饰",
+        "onboard_time": 1667987906,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153308,
+        "num": 153308,
+        "word": "童星出身的艺人",
+        "onboard_time": 1667989287,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150726,
+        "num": 150726,
+        "word": "弟弟代替去厕所哥哥上网课被发现",
+        "onboard_time": 1667979746,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135313,
+        "num": 135313,
+        "word": "阿古朵顽趣皮肤",
+        "onboard_time": 1667993367,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131108,
+        "num": 131108,
+        "word": "iPhone14银色在沈阳被称为东北银",
+        "onboard_time": 1667984007,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124792,
+        "num": 124792,
+        "word": "孙子去世孙媳鼓励照顾住院爷爷",
+        "onboard_time": 1667982327,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117879,
+        "num": 117879,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 115270,
+        "num": 115270,
+        "word": "北京新增本土感染者57例",
+        "onboard_time": 1667983947,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113828,
+        "num": 113828,
+        "word": "沈月入选2022星辰大海",
+        "onboard_time": 1667994988,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113547,
+        "num": 113547,
+        "word": "业内称今年古偶爆款仅有梦华录",
+        "onboard_time": 1667987546,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108628,
+        "num": 108628,
+        "word": "中国战机配中国风BGM太燃了",
+        "onboard_time": 1667998045,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 107593,
+        "num": 107593,
+        "word": "Meta裁员13%",
+        "onboard_time": 1667997147,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104497,
+        "num": 104497,
+        "word": "朱韵的公主裙是李峋送的",
+        "onboard_time": 1667983826,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101300,
+        "num": 101300,
+        "word": "重庆市中医院不等核酸结果抢救黄码老人",
+        "onboard_time": 1667998109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101129,
+        "num": 101129,
+        "word": "从尾款人变成尾八人",
+        "onboard_time": 1667987244,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99932,
+        "num": 99932,
+        "word": "王源空降超话说我来吃点建议",
+        "onboard_time": 1667992948,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 99154,
+        "word": "四川人对辣的执念",
+        "onboard_time": 1667997990,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 94520,
+        "num": 94520,
+        "word": "南京警方通报男子上门掌掴男童",
+        "onboard_time": 1667986347,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94289,
+        "num": 94289,
+        "word": "女子网购保温杯倒进清水变绿水",
+        "onboard_time": 1667985987,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87665,
+        "num": 87665,
+        "word": "男子上午取保候审晚上再次醉驾",
+        "onboard_time": 1667998286,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络世界共创数字未来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667993753884,
+  "endTime": 1667998305086,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -81,6 +81,14 @@
       "onboard_time": 1667888187,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2275873,
+      "num": 2275873,
+      "word": "鲁某某已被刑事拘留",
+      "onboard_time": 1667994626,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2209947,
@@ -241,6 +249,14 @@
       "onboard_time": 1667824046,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1425652,
+      "num": 1425652,
+      "word": "疯狂动物城",
+      "onboard_time": 1667992106,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1409871,
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015664,
+      "num": 1015664,
+      "word": "于文文刘恋再见面变尴尬了",
+      "onboard_time": 1667992528,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014778,
       "num": 1014778,
       "word": "全国核酸检测再降价",
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818752,
+      "num": 818752,
+      "word": "体温计碎裂护士打鸡蛋防汞中毒",
+      "onboard_time": 1667992227,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815302,
       "num": 815302,
       "word": "韩国踩踏事故6人被立案调查",
@@ -683,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 751227,
-      "num": 751227,
-      "word": "疯狂动物城",
-      "onboard_time": 1667992106,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 749353,
       "num": 749353,
       "word": "韩国一列火车在首尔脱轨致31伤",
@@ -739,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 725010,
+      "num": 373469,
+      "word": "美国街头惊现狗叼人类断臂",
+      "onboard_time": 1667996065,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712744,
       "num": 712744,
       "word": "孙子去世孙媳鼓励照顾住院爷爷",
@@ -761,6 +793,14 @@
       "onboard_time": 1667873667,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691114,
+      "num": 691114,
+      "word": "王鹤棣入选2022星辰大海",
+      "onboard_time": 1667992528,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 689902,
@@ -841,14 +881,6 @@
       "onboard_time": 1667982746,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657686,
-      "num": 657686,
-      "word": "王鹤棣入选2022星辰大海",
-      "onboard_time": 1667992528,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 653003,
@@ -969,6 +1001,14 @@
       "onboard_time": 1667885367,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587553,
+      "num": 587553,
+      "word": "法证先锋5第14集不建议独自观看",
+      "onboard_time": 1667994868,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 585298,
@@ -1176,14 +1216,6 @@
       "word": "毛雪汪下期有王源",
       "onboard_time": 1667819846,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 525407,
-      "num": 486189,
-      "word": "于文文刘恋再见面变尴尬了",
-      "onboard_time": 1667992528,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1963,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365630,
+      "num": 365630,
+      "word": "杭州一女生网购被急哭了",
+      "onboard_time": 1667996487,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365239,
       "num": 365239,
       "word": "小朋友对洞洞的执念有多大",
@@ -2056,6 +2096,14 @@
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
       "onboard_time": 1667800348,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348221,
+      "num": 348221,
+      "word": "男子离家14天狗子拉满屋狗粪",
+      "onboard_time": 1667993490,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2379,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311805,
-      "num": 311805,
-      "word": "体温计碎裂护士打鸡蛋防汞中毒",
-      "onboard_time": 1667992227,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311787,
       "num": 311787,
       "word": "国产大飞机C919获签300架订单",
@@ -2531,12 +2571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295963,
+      "num": 295963,
+      "word": "谈姐弟恋可以有多快乐",
+      "onboard_time": 1667992585,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295011,
       "num": 295011,
       "word": "脸上流露出自卑和尴尬的猫",
       "onboard_time": 1667824165,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294608,
+      "num": 294608,
+      "word": "大娘买衣服试穿被商家猛夸好看",
+      "onboard_time": 1667993848,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294506,
@@ -2705,6 +2761,14 @@
       "onboard_time": 1667832282,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274560,
+      "num": 274560,
+      "word": "成都警方回应2男子深夜追赶女子",
+      "onboard_time": 1667995886,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274163,
@@ -3451,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202112,
+      "num": 202112,
+      "word": "2022星辰大海青年演员官宣",
+      "onboard_time": 1667994689,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201825,
       "num": 201825,
       "word": "和邻居吵架后发现是老师",
@@ -3955,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171528,
+      "num": 166557,
+      "word": "李峋怼过的话朱韵还回去",
+      "onboard_time": 1667996907,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "李峋被朱韵反撩的反应",
@@ -4331,14 +4411,6 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 148341,
-      "num": 148341,
-      "word": "谈姐弟恋可以有多快乐",
-      "onboard_time": 1667992585,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "万能卡",
@@ -4617,6 +4689,14 @@
       "onboard_time": 1667787866,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135313,
+      "num": 135313,
+      "word": "阿古朵顽趣皮肤",
+      "onboard_time": 1667993367,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 134083,
@@ -5011,20 +5091,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114116,
-      "num": 114116,
-      "word": "阿古朵顽趣皮肤",
-      "onboard_time": 1667993367,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 113848,
       "num": 113848,
       "word": "歼20空中连续多个战术动作超震撼",
       "onboard_time": 1667885727,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113828,
+      "num": 113828,
+      "word": "沈月入选2022星辰大海",
+      "onboard_time": 1667994988,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 113461,
@@ -5123,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108628,
+      "num": 108628,
+      "word": "中国战机配中国风BGM太燃了",
+      "onboard_time": 1667998045,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108613,
       "num": 87246,
       "word": "孙怡说张婉婷救过宋宁峰的命吗",
@@ -5145,6 +5233,14 @@
       "onboard_time": 1667817807,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107593,
+      "num": 107593,
+      "word": "Meta裁员13%",
+      "onboard_time": 1667997147,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 107437,
@@ -5185,14 +5281,6 @@
       "onboard_time": 1667970327,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105664,
-      "num": 105664,
-      "word": "男子离家14天狗子拉满屋狗粪",
-      "onboard_time": 1667993490,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -5315,6 +5403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101300,
+      "num": 101300,
+      "word": "重庆市中医院不等核酸结果抢救黄码老人",
+      "onboard_time": 1667998109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101288,
       "num": 101288,
       "word": "11月8日新增本土无症状6882例",
@@ -5353,6 +5449,14 @@
       "onboard_time": 1667911529,
       "rank": 44,
       "category": "自然"
+    },
+    {
+      "raw_hot": 99154,
+      "num": 99154,
+      "word": "四川人对辣的执念",
+      "onboard_time": 1667997990,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 98709,
@@ -5671,6 +5775,14 @@
       "num": 87885,
       "word": "徒手接娃男子吃米粉店主加蛋免单",
       "onboard_time": 1667892808,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87665,
+      "num": 87665,
+      "word": "男子上午取保候审晚上再次醉驾",
+      "onboard_time": 1667998286,
       "rank": 49,
       "category": "社会新闻"
     },

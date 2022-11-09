@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667993753884,
+  "endTime": 1667998305086,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -9,6 +9,14 @@
       "onboard_time": 1667967566,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2275873,
+      "num": 2275873,
+      "word": "鲁某某已被刑事拘留",
+      "onboard_time": 1667994626,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1924673,
@@ -49,6 +57,14 @@
       "onboard_time": 1667919390,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1425652,
+      "num": 1425652,
+      "word": "疯狂动物城",
+      "onboard_time": 1667992106,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1344670,
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015664,
+      "num": 1015664,
+      "word": "于文文刘恋再见面变尴尬了",
+      "onboard_time": 1667992528,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014778,
       "num": 1014778,
       "word": "全国核酸检测再降价",
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818752,
+      "num": 818752,
+      "word": "体温计碎裂护士打鸡蛋防汞中毒",
+      "onboard_time": 1667992227,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808634,
       "num": 808634,
       "word": "广州新增本土感染者2637例",
@@ -169,14 +201,6 @@
       "onboard_time": 1667961568,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 751227,
-      "num": 751227,
-      "word": "疯狂动物城",
-      "onboard_time": 1667992106,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 746038,
@@ -203,12 +227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 725010,
+      "num": 373469,
+      "word": "美国街头惊现狗叼人类断臂",
+      "onboard_time": 1667996065,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712744,
       "num": 712744,
       "word": "孙子去世孙媳鼓励照顾住院爷爷",
       "onboard_time": 1667982327,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691114,
+      "num": 691114,
+      "word": "王鹤棣入选2022星辰大海",
+      "onboard_time": 1667992528,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 686490,
@@ -241,14 +281,6 @@
       "onboard_time": 1667909130,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657686,
-      "num": 657686,
-      "word": "王鹤棣入选2022星辰大海",
-      "onboard_time": 1667992528,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 653003,
@@ -297,6 +329,14 @@
       "onboard_time": 1667986945,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 587553,
+      "num": 587553,
+      "word": "法证先锋5第14集不建议独自观看",
+      "onboard_time": 1667994868,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 579120,
@@ -369,14 +409,6 @@
       "onboard_time": 1667971108,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 525407,
-      "num": 486189,
-      "word": "于文文刘恋再见面变尴尬了",
-      "onboard_time": 1667992528,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 518590,
@@ -611,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365630,
+      "num": 365630,
+      "word": "杭州一女生网购被急哭了",
+      "onboard_time": 1667996487,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365239,
       "num": 365239,
       "word": "小朋友对洞洞的执念有多大",
@@ -649,6 +689,14 @@
       "onboard_time": 1667989108,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 348221,
+      "num": 348221,
+      "word": "男子离家14天狗子拉满屋狗粪",
+      "onboard_time": 1667993490,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346799,
@@ -771,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311805,
-      "num": 311805,
-      "word": "体温计碎裂护士打鸡蛋防汞中毒",
-      "onboard_time": 1667992227,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307427,
       "num": 307427,
       "word": "徐怀钰重回滚石",
@@ -811,6 +851,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295963,
+      "num": 295963,
+      "word": "谈姐弟恋可以有多快乐",
+      "onboard_time": 1667992585,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 294608,
+      "num": 294608,
+      "word": "大娘买衣服试穿被商家猛夸好看",
+      "onboard_time": 1667993848,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291259,
       "num": 291259,
       "word": "从尾款人变成尾八人",
@@ -841,6 +897,14 @@
       "onboard_time": 1667950465,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 274560,
+      "num": 274560,
+      "word": "成都警方回应2男子深夜追赶女子",
+      "onboard_time": 1667995886,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274163,
@@ -1075,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202112,
+      "num": 202112,
+      "word": "2022星辰大海青年演员官宣",
+      "onboard_time": 1667994689,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201191,
       "num": 201191,
       "word": "新加坡学者回击西方记者污蔑中国",
@@ -1283,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171528,
+      "num": 166557,
+      "word": "李峋怼过的话朱韵还回去",
+      "onboard_time": 1667996907,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168169,
       "num": 168169,
       "word": "王曼昱",
@@ -1403,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148341,
-      "num": 148341,
-      "word": "谈姐弟恋可以有多快乐",
-      "onboard_time": 1667992585,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146678,
       "num": 146678,
       "word": "市监回应张庭案证据采集人资质疑造假",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1667913091,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135313,
+      "num": 135313,
+      "word": "阿古朵顽趣皮肤",
+      "onboard_time": 1667993367,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 129926,
@@ -1651,12 +1731,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114116,
-      "num": 114116,
-      "word": "阿古朵顽趣皮肤",
-      "onboard_time": 1667993367,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 113828,
+      "num": 113828,
+      "word": "沈月入选2022星辰大海",
+      "onboard_time": 1667994988,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 113461,
@@ -1675,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108628,
+      "num": 108628,
+      "word": "中国战机配中国风BGM太燃了",
+      "onboard_time": 1667998045,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108613,
       "num": 87246,
       "word": "孙怡说张婉婷救过宋宁峰的命吗",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1667904992,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107593,
+      "num": 107593,
+      "word": "Meta裁员13%",
+      "onboard_time": 1667997147,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 107133,
@@ -1715,14 +1811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105664,
-      "num": 105664,
-      "word": "男子离家14天狗子拉满屋狗粪",
-      "onboard_time": 1667993490,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105258,
       "num": 105258,
       "word": "2022中国航展",
@@ -1736,6 +1824,14 @@
       "word": "航拍俯瞰桂林山水好像诗意画卷",
       "onboard_time": 1667967687,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101300,
+      "num": 101300,
+      "word": "重庆市中医院不等核酸结果抢救黄码老人",
+      "onboard_time": 1667998109,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1753,6 +1849,14 @@
       "onboard_time": 1667957727,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99154,
+      "num": 99154,
+      "word": "四川人对辣的执念",
+      "onboard_time": 1667997990,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 96795,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1667941512,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87665,
+      "num": 87665,
+      "word": "男子上午取保候审晚上再次醉驾",
+      "onboard_time": 1667998286,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87077,
