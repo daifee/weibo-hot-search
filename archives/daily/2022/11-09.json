@@ -1,7 +1,15 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667961653298,
+  "endTime": 1667966632928,
   "band_list": [
+    {
+      "raw_hot": 1618309,
+      "num": 1618309,
+      "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+      "onboard_time": 1667960485,
+      "rank": 8,
+      "category": "体育"
+    },
     {
       "raw_hot": 1502540,
       "num": 1502540,
@@ -9,6 +17,14 @@
       "onboard_time": 1667919390,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1451706,
+      "num": 1451706,
+      "word": "法国快递员吐槽7小时工作太累",
+      "onboard_time": 1667963126,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1344670,
@@ -57,6 +73,14 @@
       "onboard_time": 1667921310,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 776191,
+      "num": 776191,
+      "word": "孙俪当主编出的第二套儿童绘本",
+      "onboard_time": 1667961568,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 746038,
@@ -139,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537706,
-      "num": 537706,
-      "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
-      "onboard_time": 1667960485,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 553402,
+      "num": 553402,
+      "word": "乔杉范丞丞马丽张婧仪新片官宣",
+      "onboard_time": 1667962768,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 511491,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346799,
+      "num": 346799,
+      "word": "马斯克个人财富较一年前下跌1.2万亿",
+      "onboard_time": 1667961626,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 345499,
       "num": 217739,
       "word": "这就是真公主吧",
@@ -265,6 +297,14 @@
       "onboard_time": 1667956889,
       "rank": 22,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 330176,
+      "num": 330176,
+      "word": "外国人懂砍价但不多",
+      "onboard_time": 1667962826,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 329183,
@@ -307,6 +347,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306955,
+      "num": 306955,
+      "word": "GEN官宣世冠KIC阵容",
+      "onboard_time": 1667965227,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 300265,
+      "num": 300265,
+      "word": "四年了姜梓新还是那个明玉小可爱",
+      "onboard_time": 1667961926,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285630,
+      "num": 285630,
+      "word": "命韵峋环360度吻戏",
+      "onboard_time": 1667963605,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279218,
       "num": 279218,
       "word": "知情人称举报者丈夫被张庭公司送入狱",
@@ -331,20 +395,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 258052,
+      "num": 258052,
+      "word": "欧文得到NBA总裁谅解",
+      "onboard_time": 1667960906,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256857,
+      "num": 256857,
+      "word": "小朋友对洞洞的执念有多大",
+      "onboard_time": 1667965108,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249810,
       "num": 211324,
       "word": "邱瑞 谢谢王涛",
       "onboard_time": 1667918071,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248198,
-      "num": 248198,
-      "word": "孙俪当主编出的第二套儿童绘本",
-      "onboard_time": 1667961568,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 228683,
@@ -361,6 +433,14 @@
       "onboard_time": 1667926101,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227124,
+      "num": 227124,
+      "word": "王者荣耀代号破晓",
+      "onboard_time": 1667962886,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 225394,
@@ -385,6 +465,22 @@
       "onboard_time": 1667896944,
       "rank": 9,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 214149,
+      "num": 214149,
+      "word": "任嘉伦杨颖暮色心约开始预约",
+      "onboard_time": 1667963967,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212514,
+      "num": 212514,
+      "word": "教育部通报违规竞赛问题查处情况",
+      "onboard_time": 1667961865,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 207322,
@@ -475,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175537,
+      "num": 175537,
+      "word": "00后花千元爆改出租房",
+      "onboard_time": 1667965946,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174783,
       "num": 174783,
       "word": "泽连斯基将参加G20峰会",
@@ -483,12 +587,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 172184,
+      "num": 172184,
+      "word": "白敬亭田曦薇片场雪中拥抱",
+      "onboard_time": 1667963126,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168169,
       "num": 168169,
       "word": "王曼昱",
       "onboard_time": 1667917589,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164834,
+      "num": 164834,
+      "word": "被小猫打了两个嘴巴子",
+      "onboard_time": 1667965407,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 162179,
@@ -523,28 +643,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146701,
+      "num": 146701,
+      "word": "官方回应检测机构暂停核酸样本接收",
+      "onboard_time": 1667966608,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143505,
+      "num": 143505,
+      "word": "男子盗窃一抬头和店主四目相对",
+      "onboard_time": 1667963847,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143377,
+      "num": 134909,
+      "word": "乔欣说马思超要开启副本了",
+      "onboard_time": 1667966308,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141958,
       "num": 118863,
       "word": "陈飞宇说婧仪拜拜",
       "onboard_time": 1667921610,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141436,
-      "num": 100123,
-      "word": "马斯克个人财富较一年前下跌1.2万亿",
-      "onboard_time": 1667961626,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 141142,
-      "num": 141142,
-      "word": "欧文得到NBA总裁谅解",
-      "onboard_time": 1667960906,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 141110,
@@ -627,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112336,
+      "num": 112336,
+      "word": "特斯拉CEO马斯克出售特斯拉股票",
+      "onboard_time": 1667964507,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108613,
       "num": 87246,
       "word": "孙怡说张婉婷救过宋宁峰的命吗",
@@ -673,6 +809,22 @@
       "onboard_time": 1667957727,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97370,
+      "num": 97370,
+      "word": "时间真的可以淡忘一切",
+      "onboard_time": 1667966608,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96795,
+      "num": 96795,
+      "word": "歌尔股份否认被踢出果链",
+      "onboard_time": 1667966247,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 92884,
@@ -803,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59718,
+      "num": 988279,
+      "word": "致敬逆行消防英雄",
+      "onboard_time": 1667965287,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 54851,
       "num": 59883,
       "word": "书店卖给孩子言情盗墓书被家长斥责",
@@ -905,6 +1065,14 @@
       "onboard_time": 1667936231,
       "rank": 49,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 6573,
+      "num": 309818,
+      "word": "用交响版月亮之上打开航展飞行表演",
+      "onboard_time": 1667966487,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
