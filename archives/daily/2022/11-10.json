@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668028971536,
+  "endTime": 1668029928666,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -451,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37940,
-      "num": 28109,
+      "raw_hot": 44874,
+      "num": 30065,
       "word": "实拍美国费城最危险街道",
       "onboard_time": 1668025150,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35468,
+      "num": 29793,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 34114,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27377,
-      "num": 27377,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 25436,
       "num": 626994,
       "word": "加快建设网络强国数字中国",
@@ -505,6 +505,22 @@
       "onboard_time": 1668017235,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13540,
+      "num": 13540,
+      "word": "华北电力大学一学生核酸检测阳性",
+      "onboard_time": 1668029111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9520,
+      "num": 10373,
+      "word": "范世錡入选2022星辰大海",
+      "onboard_time": 1668029832,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
