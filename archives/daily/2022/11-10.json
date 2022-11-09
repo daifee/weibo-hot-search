@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668014689420,
+  "endTime": 1668015673856,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150949,
+      "num": 150949,
+      "word": "你能接受另一半跟前任做朋友吗",
+      "onboard_time": 1668011962,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150603,
       "num": 150603,
       "word": "张艺兴受快船邀请观看NBA比赛",
@@ -195,20 +203,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 143452,
+      "num": 143452,
+      "word": "毛豆 一灯",
+      "onboard_time": 1668013100,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136582,
       "num": 136582,
       "word": "广州8个区全面停课",
       "onboard_time": 1667989349,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 134990,
-      "num": 134990,
-      "word": "你能接受另一半跟前任做朋友吗",
-      "onboard_time": 1668011962,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 134265,
@@ -241,14 +249,6 @@
       "onboard_time": 1668007828,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128500,
-      "num": 128500,
-      "word": "毛豆 一灯",
-      "onboard_time": 1668013100,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 128052,
@@ -419,24 +419,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54043,
-      "num": 54043,
+      "raw_hot": 67499,
+      "num": 67499,
       "word": "男子摘柿子树枝插入右眼眶进颅内",
       "onboard_time": 1668013339,
       "rank": 37,
       "category": "社会负面"
     },
     {
-      "raw_hot": 46414,
-      "num": 46414,
+      "raw_hot": 47098,
+      "num": 47098,
       "word": "终究是贫穷限制了我的想象",
       "onboard_time": 1668013700,
       "rank": 45,
       "category": "幽默"
     },
     {
-      "raw_hot": 34890,
-      "num": 34890,
+      "raw_hot": 42955,
+      "num": 42955,
       "word": "网友称被面试官当面撕简历",
       "onboard_time": 1668014537,
       "rank": 48,
