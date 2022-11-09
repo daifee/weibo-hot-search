@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668021479544,
+  "endTime": 1668022429534,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -6747,6 +6747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46740,
+      "num": 39317,
+      "word": "段奥娟经纪公司将上诉",
+      "onboard_time": 1668018313,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45622,
       "num": 53652,
       "word": "周恺vs周启豪",
@@ -6769,14 +6777,6 @@
       "onboard_time": 1667926581,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39317,
-      "num": 39317,
-      "word": "段奥娟经纪公司将上诉",
-      "onboard_time": 1668018313,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 38873,
@@ -6843,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29004,
+      "num": 19015,
+      "word": "西安外来入侵物种普查已展开",
+      "onboard_time": 1668019033,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23735,
       "num": 23735,
       "word": "人民文娱对话王嘉尔",
@@ -6856,14 +6864,6 @@
       "word": "网课爆破绝非恶作剧这么简单",
       "onboard_time": 1667852891,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19015,
-      "num": 19015,
-      "word": "西安外来入侵物种普查已展开",
-      "onboard_time": 1668019033,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668021479544,
+  "endTime": 1668022429534,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -443,7 +443,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39317,
+      "raw_hot": 46740,
       "num": 39317,
       "word": "段奥娟经纪公司将上诉",
       "onboard_time": 1668018313,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29004,
+      "num": 19015,
+      "word": "西安外来入侵物种普查已展开",
+      "onboard_time": 1668019033,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25436,
       "num": 626994,
       "word": "加快建设网络强国数字中国",
@@ -481,14 +489,6 @@
       "onboard_time": 1668017235,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19015,
-      "num": 19015,
-      "word": "西安外来入侵物种普查已展开",
-      "onboard_time": 1668019033,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
