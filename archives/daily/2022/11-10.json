@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668011540154,
+  "endTime": 1668012980642,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -35,7 +35,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 501688,
+      "raw_hot": 533586,
       "num": 291935,
       "word": "男童母亲称与鲁某某家常串门",
       "onboard_time": 1668007589,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309259,
+      "num": 278027,
+      "word": "夫妻仅一墙之隔却要寄信交流",
+      "onboard_time": 1668008728,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 280553,
       "num": 280553,
       "word": "于文文刘恋再见面变尴尬了",
       "onboard_time": 1667992528,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278027,
-      "num": 278027,
-      "word": "夫妻仅一墙之隔却要寄信交流",
-      "onboard_time": 1668008728,
-      "rank": 15,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 271718,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190169,
+      "num": 190169,
+      "word": "张超",
+      "onboard_time": 1668009625,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182073,
       "num": 182073,
       "word": "如梦之梦",
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150603,
+      "num": 150603,
+      "word": "张艺兴受快船邀请观看NBA比赛",
+      "onboard_time": 1668012320,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 136582,
       "num": 136582,
       "word": "广州8个区全面停课",
@@ -209,6 +225,14 @@
       "onboard_time": 1667998648,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129487,
+      "num": 89701,
+      "word": "你能接受另一半跟前任做朋友吗",
+      "onboard_time": 1668011962,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 129228,
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99037,
+      "num": 93261,
+      "word": "古偶眼神戏天花板",
+      "onboard_time": 1668010945,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98267,
       "num": 98267,
       "word": "大娘买衣服试穿被商家猛夸好看",
@@ -289,14 +321,6 @@
       "onboard_time": 1668003390,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93443,
-      "num": 93261,
-      "word": "古偶眼神戏天花板",
-      "onboard_time": 1668010945,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 93344,
@@ -347,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78421,
+      "num": 78421,
+      "word": "4岁娃当妈妈嘴替萌怼客服",
+      "onboard_time": 1668011063,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73837,
       "num": 73837,
       "word": "肖八",
@@ -371,23 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68325,
-      "num": 68325,
-      "word": "4岁娃当妈妈嘴替萌怼客服",
-      "onboard_time": 1668011063,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62292,
-      "num": 62292,
-      "word": "张超",
-      "onboard_time": 1668009625,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32396,
+      "raw_hot": 32819,
       "num": 114719,
       "word": "这种稻子种1次可连续收获4年",
       "onboard_time": 1668008964,
