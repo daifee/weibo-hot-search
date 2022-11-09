@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668001807786,
+  "endTime": 1668002428188,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -251,8 +251,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1446984,
-      "num": 1446984,
+      "raw_hot": 1474840,
+      "num": 1474840,
       "word": "疯狂动物城",
       "onboard_time": 1667992106,
       "rank": 18,
@@ -587,6 +587,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 891792,
+      "num": 891792,
+      "word": "重庆市中医院不等核酸结果抢救黄码老人",
+      "onboard_time": 1667998109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888900,
       "num": 888900,
       "word": "河南新增本土感染者1047例",
@@ -688,14 +696,6 @@
       "word": "广州新增本土感染者2377例",
       "onboard_time": 1667871266,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795847,
-      "num": 795847,
-      "word": "重庆市中医院不等核酸结果抢救黄码老人",
-      "onboard_time": 1667998109,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -913,6 +913,14 @@
       "onboard_time": 1667966428,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 651905,
+      "num": 651905,
+      "word": "成都青城山现大量不明线虫",
+      "onboard_time": 1667998648,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638813,
@@ -1379,14 +1387,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 500732,
-      "num": 500732,
-      "word": "成都青城山现大量不明线虫",
-      "onboard_time": 1667998648,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "为什么恋爱长跑会容易分手",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1667824648,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470007,
+      "num": 470007,
+      "word": "林高远王曼昱混双夺冠",
+      "onboard_time": 1668001887,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 466453,
@@ -2083,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360684,
+      "num": 360684,
+      "word": "穿搭果然很重要",
+      "onboard_time": 1667999309,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359830,
       "num": 359830,
       "word": "丹羽孝希退出国际比赛",
@@ -2355,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328454,
+      "num": 328454,
+      "word": "林高远状态",
+      "onboard_time": 1668001707,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327998,
       "num": 327998,
       "word": "王源被北方澡堂开眼界",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1667967628,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306995,
-      "num": 306995,
-      "word": "穿搭果然很重要",
-      "onboard_time": 1667999309,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 306955,
@@ -4411,6 +4427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151290,
+      "num": 151290,
+      "word": "Meta裁员13%",
+      "onboard_time": 1667997147,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 151059,
       "num": 151059,
       "word": "苹果减产300万部新iPhone",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1667970269,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148668,
+      "num": 148668,
+      "word": "感情之间分享欲重要吗",
+      "onboard_time": 1667998708,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 148606,
@@ -4651,14 +4683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140138,
-      "num": 140138,
-      "word": "感情之间分享欲重要吗",
-      "onboard_time": 1667998708,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139605,
       "num": 139605,
       "word": "小伙网恋被骗后加入对方被判缓刑",
@@ -4697,14 +4721,6 @@
       "onboard_time": 1667799806,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137860,
-      "num": 137860,
-      "word": "Meta裁员13%",
-      "onboard_time": 1667997147,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 137788,
@@ -4881,14 +4897,6 @@
       "onboard_time": 1667793933,
       "rank": 37,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 128890,
-      "num": 128890,
-      "word": "林高远状态",
-      "onboard_time": 1668001707,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 128534,
@@ -5075,6 +5083,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 120395,
+      "num": 120395,
+      "word": "老师暂停晚自习带全班看红月亮",
+      "onboard_time": 1668001350,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 120343,
       "num": 120343,
       "word": "吃醋的李峋好难哄",
@@ -5241,14 +5257,6 @@
       "onboard_time": 1667798732,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110553,
-      "num": 110553,
-      "word": "老师暂停晚自习带全班看红月亮",
-      "onboard_time": 1668001350,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 110358,
@@ -5824,6 +5832,14 @@
       "word": "官方回应司机下车上厕所被要求隔离",
       "onboard_time": 1667896472,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89154,
+      "num": 89154,
+      "word": "南京大屠杀有多残暴",
+      "onboard_time": 1668002068,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6483,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42843,
+      "num": 1126971,
+      "word": "加快建设网络强国数字中国",
+      "onboard_time": 1668000508,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 41981,
       "num": 50212,
       "word": "用狗子头像谱成的曲子",
@@ -6529,14 +6553,6 @@
       "onboard_time": 1667950885,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 32690,
-      "num": 1126971,
-      "word": "加快建设网络强国数字中国",
-      "onboard_time": 1668000508,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 29639,
