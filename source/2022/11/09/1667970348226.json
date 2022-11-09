@@ -1,0 +1,410 @@
+{
+  "runTime": 1667970348226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3403058,
+        "num": 3403058,
+        "word": "5名韩剧TV相关负责人获刑",
+        "onboard_time": 1667967566,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1392502,
+        "num": 1392502,
+        "word": "法国快递员吐槽7小时工作太累",
+        "onboard_time": 1667963126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60803,
+        "num": 1168463,
+        "word": "致敬逆行消防英雄",
+        "onboard_time": 1667965287,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1002353,
+        "num": 1002353,
+        "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+        "onboard_time": 1667960485,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711263,
+        "num": 711263,
+        "word": "价值23万缅因猫坠楼保姆被追责",
+        "onboard_time": 1667952328,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545755,
+        "num": 545755,
+        "word": "孙俪当主编出的第二套儿童绘本",
+        "onboard_time": 1667961568,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518590,
+        "num": 518590,
+        "word": "00后花千元爆改出租房",
+        "onboard_time": 1667965946,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517886,
+        "num": 517886,
+        "word": "广州新增本土感染者2637例",
+        "onboard_time": 1667956649,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389690,
+        "num": 389690,
+        "word": "美国开出20.4亿美元彩票巨奖",
+        "onboard_time": 1667957368,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386386,
+        "num": 386386,
+        "word": "男孩考23分给爸妈展示试卷获点赞",
+        "onboard_time": 1667966907,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653003,
+        "num": 381641,
+        "word": "岸田文雄问美军中国航母战力",
+        "onboard_time": 1667966428,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 372007,
+        "num": 372007,
+        "word": "官方回应检测机构暂停核酸样本接收",
+        "onboard_time": 1667966608,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367813,
+        "num": 367813,
+        "word": "乔杉范丞丞马丽张婧仪新片官宣",
+        "onboard_time": 1667962768,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335136,
+        "num": 335136,
+        "word": "小朋友对洞洞的执念有多大",
+        "onboard_time": 1667965108,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332658,
+        "num": 332658,
+        "word": "老人借房给重孙上学孙子拒还",
+        "onboard_time": 1667956947,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 313434,
+        "word": "扎克伯格承认脸书因失误大规模裁员",
+        "onboard_time": 1667958748,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 296011,
+        "num": 296011,
+        "word": "美国中期选举",
+        "onboard_time": 1667969729,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 284494,
+        "num": 284494,
+        "word": "徐怀钰重回滚石",
+        "onboard_time": 1667967628,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265923,
+        "num": 265923,
+        "word": "命韵峋环360度吻戏",
+        "onboard_time": 1667963605,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254890,
+        "num": 254890,
+        "word": "两男子深夜追赶女子被学生喝止",
+        "onboard_time": 1667968227,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241063,
+        "num": 241063,
+        "word": "被小猫打了两个嘴巴子",
+        "onboard_time": 1667965407,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235083,
+        "num": 235083,
+        "word": "IU",
+        "onboard_time": 1667919390,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226414,
+        "num": 226414,
+        "word": "GEN官宣世冠KIC阵容",
+        "onboard_time": 1667965227,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223982,
+        "num": 223982,
+        "word": "诺言",
+        "onboard_time": 1667953169,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 223693,
+        "num": 223693,
+        "word": "命韵峋环是he",
+        "onboard_time": 1667968826,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202013,
+        "num": 202013,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667957662,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199216,
+        "num": 199216,
+        "word": "外国人懂砍价但不多",
+        "onboard_time": 1667962826,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197860,
+        "num": 197860,
+        "word": "马斯克个人财富较一年前下跌1.2万亿",
+        "onboard_time": 1667961626,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193456,
+        "num": 193456,
+        "word": "警方通报呼和浩特卖高价菜月入40万元",
+        "onboard_time": 1667959347,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157315,
+        "num": 180247,
+        "word": "下夜班护士车祸现场奋不顾身救人",
+        "onboard_time": 1667956889,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177249,
+        "num": 177249,
+        "word": "白敬亭田曦薇片场雪中拥抱",
+        "onboard_time": 1667963126,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 172892,
+        "word": "时间真的可以淡忘一切",
+        "onboard_time": 1667966608,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171111,
+        "num": 171111,
+        "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
+        "onboard_time": 1667969906,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168398,
+        "num": 168398,
+        "word": "王一博呼吁大家多关注消防安全",
+        "onboard_time": 1667961324,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160835,
+        "num": 160835,
+        "word": "计算机二级",
+        "onboard_time": 1667960006,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153286,
+        "num": 153286,
+        "word": "四年了姜梓新还是那个明玉小可爱",
+        "onboard_time": 1667961926,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 150822,
+        "word": "体育生解剖课上台当教具大秀肌肉",
+        "onboard_time": 1667966668,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150552,
+        "num": 150552,
+        "word": "学校食堂17元的一顿饭",
+        "onboard_time": 1667920528,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150225,
+        "num": 150225,
+        "word": "再见爱人张婉婷",
+        "onboard_time": 1667921310,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148810,
+        "num": 148810,
+        "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+        "onboard_time": 1667970269,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "推特禁止宣传特斯拉负面广告",
+        "onboard_time": 1667969067,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140633,
+        "num": 140633,
+        "word": "任嘉伦杨颖暮色心约开始预约",
+        "onboard_time": 1667963967,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132224,
+        "num": 132224,
+        "word": "卿卿日常 唧唧日常",
+        "onboard_time": 1667926101,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129918,
+        "num": 129918,
+        "word": "特斯拉CEO马斯克出售特斯拉股票",
+        "onboard_time": 1667964507,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128555,
+        "num": 128555,
+        "word": "王者荣耀代号破晓",
+        "onboard_time": 1667962886,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128543,
+        "num": 128543,
+        "word": "男子盗窃一抬头和店主四目相对",
+        "onboard_time": 1667963847,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123732,
+        "num": 123732,
+        "word": "超高清视频看歼20双机对冲",
+        "onboard_time": 1667970027,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "星辰大海",
+        "onboard_time": 1667969246,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116822,
+        "num": 116822,
+        "word": "这是一条不能燃的视频",
+        "onboard_time": 1667970089,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105870,
+        "num": 105870,
+        "word": "不得不佩服这狗子的演技",
+        "onboard_time": 1667970327,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}

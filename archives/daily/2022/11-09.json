@@ -1,7 +1,15 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667967905254,
+  "endTime": 1667970348226,
   "band_list": [
+    {
+      "raw_hot": 3403058,
+      "num": 3403058,
+      "word": "5名韩剧TV相关负责人获刑",
+      "onboard_time": 1667967566,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 1880614,
       "num": 1880614,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653003,
+      "num": 381641,
+      "word": "岸田文雄问美军中国航母战力",
+      "onboard_time": 1667966428,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 640252,
       "num": 640252,
       "word": "川外被曝18元盒饭不断出现异物",
@@ -171,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518590,
+      "num": 518590,
+      "word": "00后花千元爆改出租房",
+      "onboard_time": 1667965946,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511491,
       "num": 511491,
       "word": "女生裹被子屋外躺平晒太阳",
@@ -219,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394654,
-      "num": 194113,
-      "word": "岸田文雄问美军中国航母战力",
-      "onboard_time": 1667966428,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 388332,
       "num": 388332,
       "word": "牙都快咬碎了还是没忍住",
       "onboard_time": 1667918129,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386386,
+      "num": 386386,
+      "word": "男孩考23分给爸妈展示试卷获点赞",
+      "onboard_time": 1667966907,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385280,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372007,
+      "num": 372007,
+      "word": "官方回应检测机构暂停核酸样本接收",
+      "onboard_time": 1667966608,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365239,
       "num": 365239,
       "word": "小朋友对洞洞的执念有多大",
@@ -281,14 +313,6 @@
       "onboard_time": 1667924965,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354647,
-      "num": 194111,
-      "word": "5名韩剧TV相关负责人获刑",
-      "onboard_time": 1667967566,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 346799,
@@ -379,14 +403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301562,
-      "num": 301562,
-      "word": "00后花千元爆改出租房",
-      "onboard_time": 1667965946,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300265,
       "num": 300265,
       "word": "四年了姜梓新还是那个明玉小可爱",
@@ -401,6 +417,22 @@
       "onboard_time": 1667963605,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296011,
+      "num": 296011,
+      "word": "美国中期选举",
+      "onboard_time": 1667969729,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 284494,
+      "num": 284494,
+      "word": "徐怀钰重回滚石",
+      "onboard_time": 1667967628,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 279218,
@@ -433,6 +465,14 @@
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254890,
+      "num": 254890,
+      "word": "两男子深夜追赶女子被学生喝止",
+      "onboard_time": 1667968227,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249810,
@@ -489,6 +529,14 @@
       "onboard_time": 1667956707,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223693,
+      "num": 223693,
+      "word": "命韵峋环是he",
+      "onboard_time": 1667968826,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 222475,
@@ -603,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177249,
+      "num": 177249,
+      "word": "白敬亭田曦薇片场雪中拥抱",
+      "onboard_time": 1667963126,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174818,
       "num": 194128,
       "word": "男子盗窃一抬头和店主四目相对",
@@ -619,20 +675,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 172184,
-      "num": 172184,
-      "word": "白敬亭田曦薇片场雪中拥抱",
-      "onboard_time": 1667963126,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 172892,
+      "num": 172892,
+      "word": "时间真的可以淡忘一切",
+      "onboard_time": 1667966608,
+      "rank": 47,
+      "category": "情感"
     },
     {
-      "raw_hot": 169403,
-      "num": 169403,
-      "word": "徐怀钰重回滚石",
-      "onboard_time": 1667967628,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 171111,
+      "num": 171111,
+      "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
+      "onboard_time": 1667969906,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 168169,
@@ -659,12 +715,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154255,
-      "num": 154255,
-      "word": "官方回应检测机构暂停核酸样本接收",
-      "onboard_time": 1667966608,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 150822,
+      "num": 150822,
+      "word": "体育生解剖课上台当教具大秀肌肉",
+      "onboard_time": 1667966668,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149653,
@@ -683,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148810,
+      "num": 148810,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1667970269,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143377,
       "num": 134909,
       "word": "乔欣说马思超要开启副本了",
       "onboard_time": 1667966308,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143242,
+      "num": 143242,
+      "word": "推特禁止宣传特斯拉负面广告",
+      "onboard_time": 1667969067,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 141958,
@@ -739,20 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134766,
-      "num": 134766,
-      "word": "男孩考23分给爸妈展示试卷获点赞",
-      "onboard_time": 1667966907,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132866,
-      "num": 132866,
-      "word": "体育生解剖课上台当教具大秀肌肉",
-      "onboard_time": 1667966668,
-      "rank": 40,
-      "category": "社会新闻,教育"
+      "raw_hot": 129918,
+      "num": 129918,
+      "word": "特斯拉CEO马斯克出售特斯拉股票",
+      "onboard_time": 1667964507,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 124984,
@@ -771,12 +835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122375,
-      "num": 122375,
-      "word": "特斯拉CEO马斯克出售特斯拉股票",
-      "onboard_time": 1667964507,
-      "rank": 45,
-      "category": "科技"
+      "raw_hot": 123732,
+      "num": 123732,
+      "word": "超高清视频看歼20双机对冲",
+      "onboard_time": 1667970027,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 122134,
+      "num": 122134,
+      "word": "星辰大海",
+      "onboard_time": 1667969246,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 119555,
@@ -787,12 +859,12 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 119030,
-      "num": 119030,
-      "word": "时间真的可以淡忘一切",
-      "onboard_time": 1667966608,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 116822,
+      "num": 116822,
+      "word": "这是一条不能燃的视频",
+      "onboard_time": 1667970089,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115615,
@@ -833,6 +905,14 @@
       "onboard_time": 1667907688,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105870,
+      "num": 105870,
+      "word": "不得不佩服这狗子的演技",
+      "onboard_time": 1667970327,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105822,
@@ -988,7 +1068,7 @@
     },
     {
       "raw_hot": 62440,
-      "num": 988279,
+      "num": 1168463,
       "word": "致敬逆行消防英雄",
       "onboard_time": 1667965287,
       "rank": 2,
