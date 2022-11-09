@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668015673856,
+  "endTime": 1668018452952,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -6323,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81636,
+      "num": 71583,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 81374,
       "num": 81374,
       "word": "广州海珠区新增1253名感染者",
@@ -6409,6 +6417,14 @@
       "onboard_time": 1667936891,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 78314,
+      "num": 70580,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77778,
@@ -6569,14 +6585,6 @@
       "onboard_time": 1667912730,
       "rank": 49,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 67499,
-      "num": 67499,
-      "word": "男子摘柿子树枝插入右眼眶进颅内",
-      "onboard_time": 1668013339,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 67135,
@@ -6755,14 +6763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42955,
-      "num": 42955,
-      "word": "网友称被面试官当面撕简历",
-      "onboard_time": 1668014537,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41981,
       "num": 50212,
       "word": "用狗子头像谱成的曲子",
@@ -6833,6 +6833,14 @@
       "onboard_time": 1667892326,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23164,
+      "num": 23164,
+      "word": "人民文娱对话王嘉尔",
+      "onboard_time": 1668017235,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23068,

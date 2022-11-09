@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668015673856,
+  "endTime": 1668018452952,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -16939,6 +16939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81636,
+      "num": 71583,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 81398,
       "num": 81398,
       "word": "2个适合秋冬的拉伸动作",
@@ -17113,6 +17121,14 @@
       "onboard_time": 1667377587,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 78314,
+      "num": 70580,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77973,
@@ -17617,14 +17633,6 @@
       "onboard_time": 1667657127,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 67499,
-      "num": 67499,
-      "word": "男子摘柿子树枝插入右眼眶进颅内",
-      "onboard_time": 1668013339,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 67135,
@@ -18251,14 +18259,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 42955,
-      "num": 42955,
-      "word": "网友称被面试官当面撕简历",
-      "onboard_time": 1668014537,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42919,
       "num": 42919,
       "word": "各职业的崩溃瞬间",
@@ -18537,6 +18537,14 @@
       "onboard_time": 1667271687,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23164,
+      "num": 23164,
+      "word": "人民文娱对话王嘉尔",
+      "onboard_time": 1668017235,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23068,
