@@ -1,0 +1,410 @@
+{
+  "runTime": 1668008542096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1603899,
+        "num": 1603899,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1479007,
+        "num": 1479007,
+        "word": "重庆市中医院不等核酸结果抢救黄码老人",
+        "onboard_time": 1667998109,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45791,
+        "num": 1019280,
+        "word": "加快建设网络强国数字中国",
+        "onboard_time": 1668000508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 749929,
+        "num": 749929,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668008489,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669994,
+        "num": 669994,
+        "word": "美国街头惊现狗叼人类断臂",
+        "onboard_time": 1667996065,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560436,
+        "num": 560436,
+        "word": "学生隔离期下楼开除学籍处分被撤销",
+        "onboard_time": 1668005308,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 536481,
+        "num": 536481,
+        "word": "成都青城山现大量不明线虫",
+        "onboard_time": 1667998648,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481762,
+        "num": 481762,
+        "word": "疯狂动物城",
+        "onboard_time": 1667992106,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 453804,
+        "num": 453804,
+        "word": "四川阿姨挖出30斤巨无霸红薯",
+        "onboard_time": 1668004349,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 448432,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1787331,
+        "num": 442760,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1015193,
+        "num": 438607,
+        "word": "南京被掌掴男童母亲发声",
+        "onboard_time": 1668004586,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 830709,
+        "num": 430890,
+        "word": "杨超越跳了nxde",
+        "onboard_time": 1668006146,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426515,
+        "num": 426515,
+        "word": "于文文刘恋再见面变尴尬了",
+        "onboard_time": 1667992528,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373432,
+        "num": 373432,
+        "word": "鸟鸟文本",
+        "onboard_time": 1668007108,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338877,
+        "num": 338877,
+        "word": "如梦之梦",
+        "onboard_time": 1668006029,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329626,
+        "num": 329626,
+        "word": "Jennie演唱会中途脚伤复发",
+        "onboard_time": 1668000990,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300556,
+        "num": 300556,
+        "word": "孙颖莎王楚钦互戴奖牌",
+        "onboard_time": 1668004710,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290004,
+        "num": 290004,
+        "word": "老师暂停晚自习带全班看红月亮",
+        "onboard_time": 1668001350,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 278495,
+        "num": 278495,
+        "word": "穿搭果然很重要",
+        "onboard_time": 1667999309,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287144,
+        "num": 277175,
+        "word": "法证先锋5第14集不建议独自观看",
+        "onboard_time": 1667994868,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284797,
+        "num": 270548,
+        "word": "孟川 可惜",
+        "onboard_time": 1668005427,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258935,
+        "num": 258935,
+        "word": "体温计碎裂护士打鸡蛋防汞中毒",
+        "onboard_time": 1667992227,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257449,
+        "num": 257449,
+        "word": "咪咕",
+        "onboard_time": 1668003390,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244729,
+        "num": 244729,
+        "word": "一眼万年的异域公主",
+        "onboard_time": 1668006029,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202161,
+        "num": 202161,
+        "word": "杭州一女生网购被急哭了",
+        "onboard_time": 1667996487,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186450,
+        "num": 186450,
+        "word": "莎头组合已经很棒了",
+        "onboard_time": 1668006267,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185701,
+        "num": 185701,
+        "word": "广州8个区全面停课",
+        "onboard_time": 1667989349,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184963,
+        "num": 184963,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24197,
+        "num": 177051,
+        "word": "世界互联网大会乌镇峰会",
+        "onboard_time": 1667981367,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 176379,
+        "word": "阿娇是懂有话直说的",
+        "onboard_time": 1668008369,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197279,
+        "num": 176223,
+        "word": "脱口秀大会5今晚八强出炉",
+        "onboard_time": 1667998648,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174984,
+        "num": 174984,
+        "word": "SANA赵美延合跳Nxde",
+        "onboard_time": 1668002786,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170293,
+        "num": 170293,
+        "word": "女孩持续高烧就医查出亲吻病毒",
+        "onboard_time": 1668006989,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168538,
+        "num": 168538,
+        "word": "点燃我温暖你校园感",
+        "onboard_time": 1668007468,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161652,
+        "num": 161652,
+        "word": "林高远王曼昱混双夺冠",
+        "onboard_time": 1668001887,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158812,
+        "num": 158812,
+        "word": "大娘买衣服试穿被商家猛夸好看",
+        "onboard_time": 1667993848,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151783,
+        "num": 151783,
+        "word": "男童母亲称与鲁某某家常串门",
+        "onboard_time": 1668007589,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 141143,
+        "num": 141143,
+        "word": "成都警方回应2男子深夜追赶女子",
+        "onboard_time": 1667995886,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137174,
+        "num": 137174,
+        "word": "男子离家14天狗子拉满屋狗粪",
+        "onboard_time": 1667993490,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159306,
+        "num": 132328,
+        "word": "徐志胜鱼系男孩",
+        "onboard_time": 1668002728,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 129581,
+        "word": "李峋三娃爹",
+        "onboard_time": 1667986886,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "女子凌晨外卖被偷坐地崩溃大哭",
+        "onboard_time": 1667985445,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "感情之间分享欲重要吗",
+        "onboard_time": 1667998708,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117282,
+        "num": 117282,
+        "word": "90后夫妇卖杭州500万房子到内蒙当农民",
+        "onboard_time": 1667990728,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106450,
+        "num": 106450,
+        "word": "压力给到义乌的朋友了",
+        "onboard_time": 1667999488,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104363,
+        "num": 104363,
+        "word": "Meta裁员13%",
+        "onboard_time": 1667997147,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103402,
+        "num": 103402,
+        "word": "肖八",
+        "onboard_time": 1667986945,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101126,
+        "num": 101126,
+        "word": "莎头",
+        "onboard_time": 1668003149,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81495,
+        "num": 81495,
+        "word": "界外",
+        "onboard_time": 1668004831,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络世界共创数字未来#"
+    }
+  }
+}
