@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667983511639,
+  "endTime": 1667985746813,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792749,
+      "num": 792749,
+      "word": "河南新增本土感染者1047例",
+      "onboard_time": 1667982087,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782313,
       "num": 782313,
       "word": "再见爱人张婉婷",
@@ -160,6 +168,14 @@
       "word": "老人借房给重孙上学孙子拒还",
       "onboard_time": 1667956947,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696283,
+      "num": 696283,
+      "word": "孙子去世孙媳鼓励照顾住院爷爷",
+      "onboard_time": 1667982327,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 546726,
+      "num": 546726,
+      "word": "库尔勒回应市民从方舱送医后医治无效死亡",
+      "onboard_time": 1667983047,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540696,
       "num": 436715,
       "word": "范丞丞章鱼哥造型把自己整吐了",
@@ -304,6 +328,14 @@
       "word": "女生裹被子屋外躺平晒太阳",
       "onboard_time": 1667939412,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503804,
+      "num": 503804,
+      "word": "警方回应男子上门掌掴男童",
+      "onboard_time": 1667982746,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -339,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436446,
+      "num": 436446,
+      "word": "iPhone14银色在沈阳被称为东北银",
+      "onboard_time": 1667984007,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 436414,
       "num": 436414,
       "word": "官方回应检测机构暂停核酸样本接收",
@@ -369,14 +409,6 @@
       "onboard_time": 1667961324,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414076,
-      "num": 414076,
-      "word": "河南新增本土感染者1047例",
-      "onboard_time": 1667982087,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413221,
@@ -427,6 +459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 383866,
+      "num": 383866,
+      "word": "马龙背头好帅",
+      "onboard_time": 1667984487,
+      "rank": 13,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 383800,
       "num": 338380,
       "word": "南京大学回应周某被举报",
@@ -435,11 +475,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379398,
+      "num": 379398,
+      "word": "北京新增本土感染者57例",
+      "onboard_time": 1667983947,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379275,
       "num": 379275,
       "word": "什么是119",
       "onboard_time": 1667954849,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379205,
+      "num": 379205,
+      "word": "上海一男子拜佛时顺走他人手机",
+      "onboard_time": 1667980588,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -515,6 +571,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 340127,
+      "num": 340127,
+      "word": "重庆公交司机回应因颜值走红",
+      "onboard_time": 1667981848,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333993,
       "num": 284258,
       "word": "王源说和黄思瑞二搭是剧情需要",
@@ -579,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322386,
-      "num": 322386,
-      "word": "上海一男子拜佛时顺走他人手机",
-      "onboard_time": 1667980588,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307427,
       "num": 307427,
       "word": "徐怀钰重回滚石",
@@ -619,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287075,
+      "num": 287075,
+      "word": "Haerin洪恩採合跳ANTIFRAGILE",
+      "onboard_time": 1667984787,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279218,
       "num": 279218,
       "word": "知情人称举报者丈夫被张庭公司送入狱",
       "onboard_time": 1667950465,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 278522,
+      "num": 278522,
+      "word": "朱韵的公主裙是李峋送的",
+      "onboard_time": 1667983826,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 272756,
@@ -697,22 +769,6 @@
       "onboard_time": 1667965407,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238642,
-      "num": 238642,
-      "word": "孙子去世孙媳鼓励照顾住院爷爷",
-      "onboard_time": 1667982327,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234359,
-      "num": 234359,
-      "word": "重庆公交司机回应因颜值走红",
-      "onboard_time": 1667981848,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234311,
@@ -851,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194841,
+      "num": 194841,
+      "word": "丁程鑫夜归人海报",
+      "onboard_time": 1667984787,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193549,
       "num": 163030,
       "word": "GMA获奖名单",
@@ -979,12 +1043,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 171636,
-      "num": 151837,
-      "word": "库尔勒回应市民从方舱送医后医治无效死亡",
-      "onboard_time": 1667983047,
+      "raw_hot": 174428,
+      "num": 151032,
+      "word": "接下来一个月有多部外片上映",
+      "onboard_time": 1667979926,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 168169,
@@ -1011,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157459,
-      "num": 151032,
-      "word": "接下来一个月有多部外片上映",
-      "onboard_time": 1667979926,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 157138,
       "num": 157138,
       "word": "NEVERLAND改编王一博无感",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1667966668,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156939,
+      "num": 156939,
+      "word": "为什么越长大越不想回家",
+      "onboard_time": 1667984545,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 156135,
@@ -1105,14 +1169,6 @@
       "onboard_time": 1667972545,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142808,
-      "num": 152073,
-      "word": "警方回应男子上门掌掴男童",
-      "onboard_time": 1667982746,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141958,
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133831,
+      "num": 133831,
+      "word": "原神纳西妲",
+      "onboard_time": 1667984666,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129926,
       "num": 129926,
       "word": "人类幼崽能有多要强",
@@ -1267,6 +1331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 121312,
+      "num": 121312,
+      "word": "华为问界M7测试安全遭质疑",
+      "onboard_time": 1667983527,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "11月院线电影上新了",
@@ -1295,6 +1367,14 @@
       "num": 119462,
       "word": "全国每5个火龙果就有1个来自南宁",
       "onboard_time": 1667976145,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117030,
+      "num": 117030,
+      "word": "外卖员送餐拔走民宿房门钥匙",
+      "onboard_time": 1667985267,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -1539,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 77026,
+      "num": 77026,
+      "word": "女子凌晨外卖被偷坐地崩溃大哭",
+      "onboard_time": 1667985445,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76430,
       "num": 76430,
       "word": "第23个中国记者节",
@@ -1547,12 +1635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74107,
+      "num": 74107,
+      "word": "早八丑关我晚八什么事",
+      "onboard_time": 1667985686,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73970,
       "num": 60810,
       "word": "鹿晗新歌战报",
       "onboard_time": 1667925861,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 71952,
+      "num": 71952,
+      "word": "这就是终极社牛吧",
+      "onboard_time": 1667984368,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 66733,
@@ -1705,6 +1809,14 @@
       "onboard_time": 1667930294,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13947,
+      "num": 380968,
+      "word": "5G智能煤矿到底什么样",
+      "onboard_time": 1667981007,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10838,
