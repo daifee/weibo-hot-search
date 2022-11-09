@@ -1,0 +1,410 @@
+{
+  "runTime": 1667989477482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129614,
+        "num": 1129614,
+        "word": "羊了个羊改编成历了个史",
+        "onboard_time": 1667977946,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1000931,
+        "num": 1000931,
+        "word": "女子凌晨外卖被偷坐地崩溃大哭",
+        "onboard_time": 1667985445,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83594,
+        "num": 834007,
+        "word": "世界互联网大会乌镇峰会",
+        "onboard_time": 1667981367,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 751804,
+        "num": 751804,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725174,
+        "num": 725174,
+        "word": "早八丑关我晚八什么事",
+        "onboard_time": 1667985686,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818229,
+        "num": 683297,
+        "word": "小学生坠楼后学校先通知了另一家长",
+        "onboard_time": 1667978426,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587478,
+        "num": 587478,
+        "word": "李峋三娃爹",
+        "onboard_time": 1667986886,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542543,
+        "num": 542543,
+        "word": "肖八",
+        "onboard_time": 1667986945,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 521461,
+        "num": 521461,
+        "word": "孙子去世孙媳鼓励照顾住院爷爷",
+        "onboard_time": 1667982327,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485107,
+        "num": 485107,
+        "word": "警方回应男子上门掌掴男童",
+        "onboard_time": 1667982746,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478610,
+        "num": 478610,
+        "word": "库尔勒回应市民从方舱送医后医治无效死亡",
+        "onboard_time": 1667983047,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443305,
+        "num": 443305,
+        "word": "业内称今年古偶爆款仅有梦华录",
+        "onboard_time": 1667987546,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404841,
+        "num": 404841,
+        "word": "弟弟代替去厕所哥哥上网课被发现",
+        "onboard_time": 1667979746,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 316639,
+        "num": 316639,
+        "word": "北京新增本土感染者57例",
+        "onboard_time": 1667983947,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43852,
+        "num": 316106,
+        "word": "初二女生已做了4年故宫讲解员",
+        "onboard_time": 1667988086,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315991,
+        "num": 315991,
+        "word": "广州番禺区严格控制人员流动",
+        "onboard_time": 1667981547,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315477,
+        "num": 315477,
+        "word": "iPhone14银色在沈阳被称为东北银",
+        "onboard_time": 1667984007,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306795,
+        "num": 306795,
+        "word": "朱韵的公主裙是李峋送的",
+        "onboard_time": 1667983826,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298986,
+        "num": 298986,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290184,
+        "num": 290184,
+        "word": "马龙背头好帅",
+        "onboard_time": 1667984487,
+        "rank": 19,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 276964,
+        "num": 276964,
+        "word": "5名韩剧TV相关负责人获刑",
+        "onboard_time": 1667967566,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 260046,
+        "num": 260046,
+        "word": "女子网购保温杯倒进清水变绿水",
+        "onboard_time": 1667985987,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248000,
+        "num": 248000,
+        "word": "从尾款人变成尾八人",
+        "onboard_time": 1667987244,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235825,
+        "num": 235825,
+        "word": "为什么越长大越不想回家",
+        "onboard_time": 1667984545,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220260,
+        "num": 220260,
+        "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+        "onboard_time": 1667971108,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209207,
+        "num": 209207,
+        "word": "小超梦",
+        "onboard_time": 1667980588,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 199089,
+        "num": 199089,
+        "word": "广州8个区全面停课",
+        "onboard_time": 1667989349,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193474,
+        "num": 193474,
+        "word": "重庆公交司机回应因颜值走红",
+        "onboard_time": 1667981848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193178,
+        "num": 193178,
+        "word": "内娱清唱天花板",
+        "onboard_time": 1667973807,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 188897,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188689,
+        "num": 188689,
+        "word": "外卖员送餐拔走民宿房门钥匙",
+        "onboard_time": 1667985267,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178584,
+        "num": 178584,
+        "word": "南京警方通报男子上门掌掴男童",
+        "onboard_time": 1667986347,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177746,
+        "num": 177746,
+        "word": "感觉有没有虫已经不重要了",
+        "onboard_time": 1667978125,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176565,
+        "num": 176565,
+        "word": "段奥娟解约案胜诉",
+        "onboard_time": 1667978185,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173602,
+        "num": 173602,
+        "word": "上海一男子拜佛时顺走他人手机",
+        "onboard_time": 1667980588,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169191,
+        "num": 169191,
+        "word": "Haerin洪恩採合跳ANTIFRAGILE",
+        "onboard_time": 1667984787,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159933,
+        "num": 159933,
+        "word": "李峋朱韵的约会",
+        "onboard_time": 1667985987,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "华为问界M7测试安全遭质疑",
+        "onboard_time": 1667983527,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 154924,
+        "num": 154924,
+        "word": "原神纳西妲",
+        "onboard_time": 1667984666,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146751,
+        "num": 146751,
+        "word": "女童吃包子被噎民警小姐姐一招救回",
+        "onboard_time": 1667989166,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "韩剧TV辟谣",
+        "onboard_time": 1667972247,
+        "rank": 40,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 144672,
+        "num": 144672,
+        "word": "女子为养男友抢金店5万首饰",
+        "onboard_time": 1667987906,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130839,
+        "num": 130839,
+        "word": "丁程鑫夜归人海报",
+        "onboard_time": 1667984787,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126497,
+        "num": 126497,
+        "word": "市监回应张庭案证据采集人资质疑造假",
+        "onboard_time": 1667988986,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 119196,
+        "num": 119196,
+        "word": "童星出身的艺人",
+        "onboard_time": 1667989287,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105164,
+        "num": 105164,
+        "word": "岸田文雄问美军中国航母战力",
+        "onboard_time": 1667966428,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 95349,
+        "num": 95349,
+        "word": "邻居称孩子喜欢留纸条拿走KT板",
+        "onboard_time": 1667978968,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137489,
+        "num": 95156,
+        "word": "郭敬明说云之羽是颜狗盛宴",
+        "onboard_time": 1667989465,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91197,
+        "num": 91197,
+        "word": "研究揭示细菌如何死而复生",
+        "onboard_time": 1667989287,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85019,
+        "num": 85019,
+        "word": "原来火龙果园一入夜就会变灯光秀",
+        "onboard_time": 1667974405,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022世界互联网大会乌镇峰会#"
+    }
+  }
+}
