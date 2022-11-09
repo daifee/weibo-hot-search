@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1667985746813,
+  "endTime": 1667986736990,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -539,6 +539,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 888900,
+      "num": 888900,
+      "word": "河南新增本土感染者1047例",
+      "onboard_time": 1667982087,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878258,
       "num": 878258,
       "word": "父母用全家姓给娃取名陈皮话梅糖",
@@ -627,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792749,
-      "num": 792749,
-      "word": "河南新增本土感染者1047例",
-      "onboard_time": 1667982087,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786628,
       "num": 786628,
       "word": "史上最凶班主任经证实为网红",
@@ -707,20 +707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712744,
+      "num": 712744,
+      "word": "孙子去世孙媳鼓励照顾住院爷爷",
+      "onboard_time": 1667982327,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700846,
       "num": 379687,
       "word": "第一个总部设在中国的政府间国际组织",
       "onboard_time": 1667869168,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 696283,
-      "num": 696283,
-      "word": "孙子去世孙媳鼓励照顾住院爷爷",
-      "onboard_time": 1667982327,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695567,
@@ -793,6 +793,14 @@
       "onboard_time": 1667807127,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 672826,
+      "num": 672826,
+      "word": "警方回应男子上门掌掴男童",
+      "onboard_time": 1667982746,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653003,
@@ -1219,14 +1227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 503804,
-      "num": 503804,
-      "word": "警方回应男子上门掌掴男童",
-      "onboard_time": 1667982746,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503260,
       "num": 406535,
       "word": "雷佳音获金鹰奖最佳男主角",
@@ -1281,6 +1281,14 @@
       "onboard_time": 1667798969,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488851,
+      "num": 488851,
+      "word": "iPhone14银色在沈阳被称为东北银",
+      "onboard_time": 1667984007,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 486865,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1667969906,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436446,
-      "num": 436446,
-      "word": "iPhone14银色在沈阳被称为东北银",
-      "onboard_time": 1667984007,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 436414,
@@ -1723,12 +1723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400437,
+      "num": 400437,
+      "word": "朱韵的公主裙是李峋送的",
+      "onboard_time": 1667983826,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396889,
       "num": 396889,
       "word": "王曼昱",
       "onboard_time": 1667917589,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392603,
+      "num": 392603,
+      "word": "马龙背头好帅",
+      "onboard_time": 1667984487,
+      "rank": 13,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 392035,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1667928556,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 383866,
-      "num": 383866,
-      "word": "马龙背头好帅",
-      "onboard_time": 1667984487,
-      "rank": 13,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 383800,
@@ -2539,14 +2547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278522,
-      "num": 278522,
-      "word": "朱韵的公主裙是李峋送的",
-      "onboard_time": 1667983826,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278180,
       "num": 254963,
       "word": "Lisa扭到我心里了",
@@ -2616,6 +2616,14 @@
       "word": "猫咪抢过主人手中食盆双爪捧碗吃",
       "onboard_time": 1667797832,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 265518,
+      "num": 265518,
+      "word": "早八丑关我晚八什么事",
+      "onboard_time": 1667985686,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -2891,6 +2899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233134,
+      "num": 233134,
+      "word": "为什么越长大越不想回家",
+      "onboard_time": 1667984545,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233056,
       "num": 218375,
       "word": "赵露思偷偷藏不住杀青视频",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1667962886,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226724,
+      "num": 226724,
+      "word": "女子凌晨外卖被偷坐地崩溃大哭",
+      "onboard_time": 1667985445,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226703,
@@ -3587,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180552,
+      "num": 180552,
+      "word": "原神纳西妲",
+      "onboard_time": 1667984666,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179330,
       "num": 179330,
       "word": "命韵峋环",
@@ -3811,6 +3843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162275,
+      "num": 162275,
+      "word": "华为问界M7测试安全遭质疑",
+      "onboard_time": 1667983527,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 162179,
       "num": 162179,
       "word": "民警翻垃圾6小时为女孩寻回救命药",
@@ -3937,14 +3977,6 @@
       "onboard_time": 1667966668,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 156939,
-      "num": 156939,
-      "word": "为什么越长大越不想回家",
-      "onboard_time": 1667984545,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 156135,
@@ -4187,6 +4219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143342,
+      "num": 143342,
+      "word": "李峋朱韵的约会",
+      "onboard_time": 1667985987,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143230,
       "num": 143230,
       "word": "2022全国乒乓球锦标赛",
@@ -4361,14 +4401,6 @@
       "onboard_time": 1667890226,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133831,
-      "num": 133831,
-      "word": "原神纳西妲",
-      "onboard_time": 1667984666,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 133046,
@@ -4619,14 +4651,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 121312,
-      "num": 121312,
-      "word": "华为问界M7测试安全遭质疑",
-      "onboard_time": 1667983527,
-      "rank": 36,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "11月院线电影上新了",
@@ -4697,6 +4721,14 @@
       "onboard_time": 1667881410,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117665,
+      "num": 117665,
+      "word": "南京警方通报男子上门掌掴男童",
+      "onboard_time": 1667986347,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117030,
@@ -4921,6 +4953,14 @@
       "onboard_time": 1667970327,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105684,
+      "num": 105684,
+      "word": "女子网购保温杯倒进清水变绿水",
+      "onboard_time": 1667985987,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -5667,14 +5707,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 77026,
-      "num": 77026,
-      "word": "女子凌晨外卖被偷坐地崩溃大哭",
-      "onboard_time": 1667985445,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76851,
       "num": 76851,
       "word": "11月6日新增本土确诊535例",
@@ -5712,14 +5744,6 @@
       "word": "简单粗暴的做饭方式",
       "onboard_time": 1667812108,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 74107,
-      "num": 74107,
-      "word": "早八丑关我晚八什么事",
-      "onboard_time": 1667985686,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -6067,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14274,
+      "num": 380968,
+      "word": "5G智能煤矿到底什么样",
+      "onboard_time": 1667981007,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14081,
       "num": 13150,
       "word": "乃万直播状态",
@@ -6081,14 +6113,6 @@
       "onboard_time": 1667849711,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13947,
-      "num": 380968,
-      "word": "5G智能煤矿到底什么样",
-      "onboard_time": 1667981007,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10838,

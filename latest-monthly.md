@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 17:22:26
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/09 17:38:56
 </p>
 </blockquote>
 <p>
@@ -1413,6 +1413,12 @@ EXO六人合体视频（热度：1003777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%851047%E4%BE%8B%23" target="weibo">
+河南新增本土感染者1047例（热度：888900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%AE%B4%E6%89%93%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8D%95%23" target="weibo">
 中国一男子在塞尔维亚殴打女儿被捕（热度：883869）
 </a>
@@ -1637,12 +1643,6 @@ GALA 头像（热度：826488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%B7%B2%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E8%91%A3%E4%BA%8B%23" target="weibo">
 腾讯副总裁已担任中国联通董事（热度：793830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%851047%E4%BE%8B%23" target="weibo">
-河南新增本土感染者1047例（热度：792749）
 </a>
 </li>
 
@@ -1875,6 +1875,12 @@ Rookie发文恭喜DRX（热度：759563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AA%B3%E9%BC%93%E5%8A%B1%E7%85%A7%E9%A1%BE%E4%BD%8F%E9%99%A2%E7%88%B7%E7%88%B7%23" target="weibo">
+孙子去世孙媳鼓励照顾住院爷爷（热度：712744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
 英国老人吐槽现在比二战时还糟（热度：704169）
 </a>
@@ -1889,12 +1895,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
 樊振东vs林高远（热度：697049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AA%B3%E9%BC%93%E5%8A%B1%E7%85%A7%E9%A1%BE%E4%BD%8F%E9%99%A2%E7%88%B7%E7%88%B7%23" target="weibo">
-孙子去世孙媳鼓励照顾住院爷爷（热度：696283）
 </a>
 </li>
 
@@ -2063,6 +2063,12 @@ T1对战DRX（热度：692544）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%8F%B0%E5%8E%86%23" target="weibo">
 EXO台历（热度：673804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E4%B8%8A%E9%97%A8%E6%8E%8C%E6%8E%B4%E7%94%B7%E7%AB%A5%23" target="weibo">
+警方回应男子上门掌掴男童（热度：672826）
 </a>
 </li>
 
@@ -3111,12 +3117,6 @@ TF家族FanClub被责令限期整改（热度：521639）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E4%B8%8A%E9%97%A8%E6%8E%8C%E6%8E%B4%E7%94%B7%E7%AB%A5%23" target="weibo">
-警方回应男子上门掌掴男童（热度：503804）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%A8%8B%E5%BA%8F%E5%91%98%E9%80%81%E5%A5%B3%E5%8F%8B%E6%95%B0%E5%AD%97%E5%8F%A3%E7%BA%A2%23" target="weibo">
 杭州一程序员送女友数字口红（热度：503762）
 </a>
@@ -3239,6 +3239,12 @@ YG否认金智秀患淋巴结肿大（热度：491642）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E6%8E%A88%E4%BA%BA%E4%BB%BD%E7%94%9F%E6%97%A5%E5%AE%B4%E5%94%AE%E4%BB%B72999%E5%85%83%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
 网红面馆推8人份生日宴售价2999元引争议（热度：489149）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E9%93%B6%E8%89%B2%E5%9C%A8%E6%B2%88%E9%98%B3%E8%A2%AB%E7%A7%B0%E4%B8%BA%E4%B8%9C%E5%8C%97%E9%93%B6%23" target="weibo">
+iPhone14银色在沈阳被称为东北银（热度：488851）
 </a>
 </li>
 
@@ -3671,12 +3677,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC31%E5%B1%8A%E9%87%91%E9%B9%B0%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 第31届金鹰奖颁奖典礼节目单（热度：437355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E9%93%B6%E8%89%B2%E5%9C%A8%E6%B2%88%E9%98%B3%E8%A2%AB%E7%A7%B0%E4%B8%BA%E4%B8%9C%E5%8C%97%E9%93%B6%23" target="weibo">
-iPhone14银色在沈阳被称为东北银（热度：436446）
 </a>
 </li>
 
@@ -4125,6 +4125,12 @@ iPhone中国的周销量下降27%（热度：405861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9F%B5%E7%9A%84%E5%85%AC%E4%B8%BB%E8%A3%99%E6%98%AF%E6%9D%8E%E5%B3%8B%E9%80%81%E7%9A%84%23" target="weibo">
+朱韵的公主裙是李峋送的（热度：400437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%BB%99%E8%A1%97%E8%BE%B9%E7%94%9F%E7%97%85%E5%8D%96%E5%94%B1%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AC%E8%B4%A6%23" target="weibo">
 杨迪给街边生病卖唱的大学生转账（热度：399988）
 </a>
@@ -4193,6 +4199,12 @@ Lisa成为iTunes最多一位女歌手（热度：395840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E5%B0%BC%E6%96%AF%23" target="weibo">
 杰尼斯（热度：393811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%83%8C%E5%A4%B4%E5%A5%BD%E5%B8%85%23" target="weibo">
+马龙背头好帅（热度：392603）
 </a>
 </li>
 
@@ -4277,12 +4289,6 @@ Lisa成为iTunes最多一位女歌手（热度：395840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E8%83%BD%E7%94%A8%E4%B8%80%E5%A4%A9%E5%90%97%23" target="weibo">
 你的手机能用一天吗（热度：384064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%83%8C%E5%A4%B4%E5%A5%BD%E5%B8%85%23" target="weibo">
-马龙背头好帅（热度：383866）
 </a>
 </li>
 
@@ -5843,12 +5849,6 @@ Haerin洪恩採合跳ANTIFRAGILE（热度：287075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%881%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B62346%E4%BE%8B%23" target="weibo">
 11月1日新增本土无症状2346例（热度：278788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9F%B5%E7%9A%84%E5%85%AC%E4%B8%BB%E8%A3%99%E6%98%AF%E6%9D%8E%E5%B3%8B%E9%80%81%E7%9A%84%23" target="weibo">
-朱韵的公主裙是李峋送的（热度：278522）
 </a>
 </li>
 
