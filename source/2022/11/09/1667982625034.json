@@ -1,0 +1,410 @@
+{
+  "runTime": 1667982625034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1924673,
+        "num": 1924673,
+        "word": "羊了个羊改编成历了个史",
+        "onboard_time": 1667977946,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1515010,
+        "num": 1515010,
+        "word": "小学生坠楼后学校先通知了另一家长",
+        "onboard_time": 1667978426,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115437,
+        "num": 1092400,
+        "word": "世界互联网大会乌镇峰会",
+        "onboard_time": 1667981367,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 941124,
+        "num": 941124,
+        "word": "弟弟代替去厕所哥哥上网课被发现",
+        "onboard_time": 1667979746,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 710699,
+        "num": 710699,
+        "word": "5名韩剧TV相关负责人获刑",
+        "onboard_time": 1667967566,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 513580,
+        "num": 513580,
+        "word": "感觉有没有虫已经不重要了",
+        "onboard_time": 1667978125,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488234,
+        "num": 488234,
+        "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+        "onboard_time": 1667971108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470245,
+        "num": 470245,
+        "word": "内娱清唱天花板",
+        "onboard_time": 1667973807,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429338,
+        "num": 429338,
+        "word": "小超梦",
+        "onboard_time": 1667980588,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 389877,
+        "num": 389877,
+        "word": "广州番禺区严格控制人员流动",
+        "onboard_time": 1667981547,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638389,
+        "num": 386472,
+        "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
+        "onboard_time": 1667973925,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377600,
+        "num": 377600,
+        "word": "段奥娟解约案胜诉",
+        "onboard_time": 1667978185,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322050,
+        "num": 322050,
+        "word": "韩剧TV辟谣",
+        "onboard_time": 1667972247,
+        "rank": 12,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 608283,
+        "num": 309352,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 40873,
+        "num": 295931,
+        "word": "退伍大学生毕业后圆梦当消防员",
+        "onboard_time": 1667980888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284258,
+        "num": 284258,
+        "word": "王源说和黄思瑞二搭是剧情需要",
+        "onboard_time": 1667977105,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238887,
+        "num": 238887,
+        "word": "上海一男子拜佛时顺走他人手机",
+        "onboard_time": 1667980588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "法国快递员吐槽7小时工作太累",
+        "onboard_time": 1667963126,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198700,
+        "num": 198700,
+        "word": "岸田文雄问美军中国航母战力",
+        "onboard_time": 1667966428,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 183678,
+        "num": 183678,
+        "word": "邻居称孩子喜欢留纸条拿走KT板",
+        "onboard_time": 1667978968,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231295,
+        "num": 183217,
+        "word": "阿瑟别太在意",
+        "onboard_time": 1667976924,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181674,
+        "num": 181674,
+        "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+        "onboard_time": 1667960485,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177090,
+        "num": 177090,
+        "word": "致我们单纯的小美好播出五周年",
+        "onboard_time": 1667979267,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172800,
+        "num": 172800,
+        "word": "推特禁止宣传特斯拉负面广告",
+        "onboard_time": 1667969067,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162936,
+        "num": 162936,
+        "word": "电子咖啡不用喝就能提神醒脑",
+        "onboard_time": 1667977644,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 157692,
+        "num": 157692,
+        "word": "赵梦原名赵文静",
+        "onboard_time": 1667978125,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147937,
+        "num": 147937,
+        "word": "重庆公交司机回应因颜值走红",
+        "onboard_time": 1667981848,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144637,
+        "num": 144637,
+        "word": "原来火龙果园一入夜就会变灯光秀",
+        "onboard_time": 1667974405,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143262,
+        "num": 143262,
+        "word": "这届00后把颜色玩明白了",
+        "onboard_time": 1667976807,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134492,
+        "num": 134492,
+        "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+        "onboard_time": 1667973626,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157459,
+        "num": 133405,
+        "word": "接下来一个月有多部外片上映",
+        "onboard_time": 1667979926,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154029,
+        "num": 132826,
+        "word": "杨丞琳说想跟马嘉祺有音乐上的合作",
+        "onboard_time": 1667981367,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 132596,
+        "word": "朱一龙回应提名金鸡奖",
+        "onboard_time": 1667975544,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131841,
+        "num": 131841,
+        "word": "河南新增本土感染者1047例",
+        "onboard_time": 1667982087,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128096,
+        "num": 128096,
+        "word": "双十一iPhone14全系补货",
+        "onboard_time": 1667970805,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 122636,
+        "word": "陈飞宇张婧仪点燃我温暖你求婚路透",
+        "onboard_time": 1667981065,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 120818,
+        "word": "11月院线电影上新了",
+        "onboard_time": 1667981848,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118212,
+        "num": 118212,
+        "word": "男孩考23分给爸妈展示试卷获点赞",
+        "onboard_time": 1667966907,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104888,
+        "num": 104888,
+        "word": "空气炸锅烤苹果干",
+        "onboard_time": 1667972065,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104293,
+        "num": 104293,
+        "word": "苏州正德年间一700年古宅寻主",
+        "onboard_time": 1667972186,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120603,
+        "num": 104280,
+        "word": "忍者神龟崛起定档1119",
+        "onboard_time": 1667978367,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 104180,
+        "num": 104180,
+        "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
+        "onboard_time": 1667969906,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103775,
+        "num": 103775,
+        "word": "两男子深夜追赶女子被学生喝止",
+        "onboard_time": 1667968227,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98856,
+        "num": 98856,
+        "word": "战神诸神黄昏",
+        "onboard_time": 1667970747,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98768,
+        "num": 98768,
+        "word": "官方回应检测机构暂停核酸样本接收",
+        "onboard_time": 1667966608,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89963,
+        "num": 89963,
+        "word": "孙子去世孙媳鼓励照顾住院爷爷",
+        "onboard_time": 1667982327,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85702,
+        "num": 85702,
+        "word": "广州新增本土感染者2637例",
+        "onboard_time": 1667956649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82038,
+        "num": 82038,
+        "word": "小朋友对洞洞的执念有多大",
+        "onboard_time": 1667965108,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80667,
+        "num": 80667,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667957662,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77345,
+        "num": 77345,
+        "word": "00后老板带员工上班玩解谜游戏",
+        "onboard_time": 1667975965,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络世界共创数字未来#"
+    }
+  }
+}
