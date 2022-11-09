@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668033556058,
+  "endTime": 1668036394493,
   "band_list": [
     {
       "raw_hot": 1278239,
@@ -27,19 +27,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 901522,
+      "num": 291935,
+      "word": "男童母亲称与鲁某某家常串门",
+      "onboard_time": 1668007589,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 773371,
       "num": 305117,
       "word": "南京被掌掴男童母亲发声",
       "onboard_time": 1668004586,
       "rank": 11,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 533586,
-      "num": 291935,
-      "word": "男童母亲称与鲁某某家常串门",
-      "onboard_time": 1668007589,
-      "rank": 12,
       "category": "社会负面"
     },
     {
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455457,
+      "num": 312412,
+      "word": "华北电力大学一学生核酸检测阳性",
+      "onboard_time": 1668029111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455270,
       "num": 455270,
       "word": "重庆疫情防控",
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334632,
+      "num": 334632,
+      "word": "夫妻仅一墙之隔却要寄信交流",
+      "onboard_time": 1668008728,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 325581,
       "num": 325581,
       "word": "成都青城山现大量不明线虫",
       "onboard_time": 1667998648,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309259,
-      "num": 278027,
-      "word": "夫妻仅一墙之隔却要寄信交流",
-      "onboard_time": 1668008728,
-      "rank": 15,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 280553,
@@ -123,11 +131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219618,
-      "num": 75298,
-      "word": "华北电力大学一学生核酸检测阳性",
-      "onboard_time": 1668029111,
-      "rank": 41,
+      "raw_hot": 226903,
+      "num": 226903,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 224558,
+      "num": 224558,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -137,6 +153,14 @@
       "onboard_time": 1668000990,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206316,
+      "num": 206316,
+      "word": "毛豆 一灯",
+      "onboard_time": 1668013100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 205711,
@@ -211,12 +235,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 143452,
-      "num": 143452,
-      "word": "毛豆 一灯",
-      "onboard_time": 1668013100,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 140862,
+      "num": 140862,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136582,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108581,
+      "num": 108581,
+      "word": "大娘买衣服试穿被商家猛夸好看",
+      "onboard_time": 1667993848,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103565,
       "num": 103565,
       "word": "莎头组合已经很棒了",
@@ -316,19 +348,11 @@
     },
     {
       "raw_hot": 99037,
-      "num": 93261,
+      "num": 97663,
       "word": "古偶眼神戏天花板",
       "onboard_time": 1668010945,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98267,
-      "num": 98267,
-      "word": "大娘买衣服试穿被商家猛夸好看",
-      "onboard_time": 1667993848,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97451,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 91555,
       "num": 91555,
       "word": "点燃我温暖你校园感",
@@ -377,6 +409,14 @@
       "onboard_time": 1667989108,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 83464,
+      "num": 47477,
+      "word": "谢谢你医生",
+      "onboard_time": 1668036381,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 83034,
@@ -395,20 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82498,
-      "num": 74247,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 81636,
-      "num": 71583,
-      "word": "男子摘柿子树枝插入右眼眶进颅内",
-      "onboard_time": 1668013339,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 80126,
+      "num": 80126,
+      "word": "公交被堵路上男乘客翻窗下车引争议",
+      "onboard_time": 1668034877,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79602,
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78314,
-      "num": 70580,
-      "word": "网友称被面试官当面撕简历",
-      "onboard_time": 1668014537,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 77297,
+      "num": 77297,
+      "word": "段奥娟经纪公司将上诉",
+      "onboard_time": 1668018313,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 73837,
@@ -433,14 +465,6 @@
       "onboard_time": 1667986945,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 72591,
-      "num": 72591,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70765,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56257,
+      "num": 56257,
+      "word": "范世錡入选2022星辰大海",
+      "onboard_time": 1668029832,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47098,
       "num": 47098,
       "word": "终究是贫穷限制了我的想象",
@@ -467,12 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46740,
-      "num": 39317,
-      "word": "段奥娟经纪公司将上诉",
-      "onboard_time": 1668018313,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 46588,
+      "num": 46588,
+      "word": "西安外来入侵物种普查已展开",
+      "onboard_time": 1668019033,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41846,
+      "num": 41846,
+      "word": "宁晋疫情防控",
+      "onboard_time": 1668036256,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34114,
@@ -488,14 +528,6 @@
       "word": "这种稻子种1次可连续收获4年",
       "onboard_time": 1668008964,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29004,
-      "num": 28984,
-      "word": "西安外来入侵物种普查已展开",
-      "onboard_time": 1668019033,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -521,14 +553,6 @@
       "onboard_time": 1668030072,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9520,
-      "num": 10373,
-      "word": "范世錡入选2022星辰大海",
-      "onboard_time": 1668029832,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

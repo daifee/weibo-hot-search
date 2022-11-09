@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668033556058,
+  "endTime": 1668036394493,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -601,6 +601,14 @@
       "onboard_time": 1667780910,
       "rank": 4,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 901522,
+      "num": 291935,
+      "word": "男童母亲称与鲁某某家常串门",
+      "onboard_time": 1668007589,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 888900,
@@ -1275,14 +1283,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 533586,
-      "num": 291935,
-      "word": "男童母亲称与鲁某某家常串门",
-      "onboard_time": 1668007589,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 526043,
       "num": 526043,
       "word": "毛雪汪下期有王源",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1667886627,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455457,
+      "num": 312412,
+      "word": "华北电力大学一学生核酸检测阳性",
+      "onboard_time": 1668029111,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453804,
@@ -2395,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334632,
+      "num": 334632,
+      "word": "夫妻仅一墙之隔却要寄信交流",
+      "onboard_time": 1668008728,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 333993,
       "num": 284258,
       "word": "王源说和黄思瑞二搭是剧情需要",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1667798251,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 309259,
-      "num": 278027,
-      "word": "夫妻仅一墙之隔却要寄信交流",
-      "onboard_time": 1668008728,
-      "rank": 15,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 307427,
@@ -3411,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226903,
+      "num": 226903,
+      "word": "6岁女童被天降螺丝刀砸头重伤",
+      "onboard_time": 1668023052,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 226703,
       "num": 156107,
       "word": "王一博炙热的梦新歌预告",
@@ -3472,6 +3488,14 @@
       "word": "红腹锦鸡飞入工厂被误认为是凤凰",
       "onboard_time": 1667956707,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224558,
+      "num": 224558,
+      "word": "实拍美国费城最危险街道",
+      "onboard_time": 1668025150,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3544,14 +3568,6 @@
       "word": "乌鲁木齐收费办通行证嫌疑人被抓",
       "onboard_time": 1667836168,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219618,
-      "num": 75298,
-      "word": "华北电力大学一学生核酸检测阳性",
-      "onboard_time": 1668029111,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3688,6 +3704,14 @@
       "word": "minnie音中横板直拍",
       "onboard_time": 1667810788,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206316,
+      "num": 206316,
+      "word": "毛豆 一灯",
+      "onboard_time": 1668013100,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -4795,14 +4819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143452,
-      "num": 143452,
-      "word": "毛豆 一灯",
-      "onboard_time": 1668013100,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143377,
       "num": 134909,
       "word": "乔欣说马思超要开启副本了",
@@ -4865,6 +4881,14 @@
       "onboard_time": 1667971166,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140862,
+      "num": 140862,
+      "word": "网友称被面试官当面撕简历",
+      "onboard_time": 1668014537,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140151,
@@ -5764,7 +5788,7 @@
     },
     {
       "raw_hot": 99037,
-      "num": 93261,
+      "num": 97663,
       "word": "古偶眼神戏天花板",
       "onboard_time": 1668010945,
       "rank": 40,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1667978367,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "男子摘柿子树枝插入右眼眶进颅内",
+      "onboard_time": 1668013339,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 91845,
@@ -6291,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83464,
+      "num": 47477,
+      "word": "谢谢你医生",
+      "onboard_time": 1668036381,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 82819,
       "num": 82819,
       "word": "收到快递后的我",
@@ -6305,14 +6345,6 @@
       "onboard_time": 1667808927,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82498,
-      "num": 74247,
-      "word": "6岁女童被天降螺丝刀砸头重伤",
-      "onboard_time": 1668023052,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 82173,
@@ -6337,14 +6369,6 @@
       "onboard_time": 1667825067,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81636,
-      "num": 71583,
-      "word": "男子摘柿子树枝插入右眼眶进颅内",
-      "onboard_time": 1668013339,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 81374,
@@ -6385,6 +6409,14 @@
       "onboard_time": 1667751325,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80126,
+      "num": 80126,
+      "word": "公交被堵路上男乘客翻窗下车引争议",
+      "onboard_time": 1668034877,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79638,
@@ -6435,20 +6467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78314,
-      "num": 70580,
-      "word": "网友称被面试官当面撕简历",
-      "onboard_time": 1668014537,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77778,
       "num": 77778,
       "word": "歼20还会有2.0版3.0版",
       "onboard_time": 1667812726,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 77297,
+      "num": 77297,
+      "word": "段奥娟经纪公司将上诉",
+      "onboard_time": 1668018313,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 76851,
@@ -6521,14 +6553,6 @@
       "onboard_time": 1667739386,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72591,
-      "num": 72591,
-      "word": "实拍美国费城最危险街道",
-      "onboard_time": 1668025150,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72519,
@@ -6667,6 +6691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56257,
+      "num": 56257,
+      "word": "范世錡入选2022星辰大海",
+      "onboard_time": 1668029832,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55931,
       "num": 60045,
       "word": "杨幂白宇新剧公主抱",
@@ -6771,12 +6803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46740,
-      "num": 39317,
-      "word": "段奥娟经纪公司将上诉",
-      "onboard_time": 1668018313,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 46588,
+      "num": 46588,
+      "word": "西安外来入侵物种普查已展开",
+      "onboard_time": 1668019033,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45622,
@@ -6800,6 +6832,14 @@
       "word": "用狗子头像谱成的曲子",
       "onboard_time": 1667926581,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41846,
+      "num": 41846,
+      "word": "宁晋疫情防控",
+      "onboard_time": 1668036256,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6864,14 +6904,6 @@
       "word": "山东96岁老人为烈士守墓36载",
       "onboard_time": 1667892326,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29004,
-      "num": 28984,
-      "word": "西安外来入侵物种普查已展开",
-      "onboard_time": 1668019033,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6953,14 +6985,6 @@
       "onboard_time": 1667936231,
       "rank": 49,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 9520,
-      "num": 10373,
-      "word": "范世錡入选2022星辰大海",
-      "onboard_time": 1668029832,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 8753,
