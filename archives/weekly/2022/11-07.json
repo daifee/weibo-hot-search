@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668008542096,
+  "endTime": 1668011540154,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1411,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501688,
+      "num": 291935,
+      "word": "男童母亲称与鲁某某家常串门",
+      "onboard_time": 1668007589,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 501263,
       "num": 501263,
       "word": "苹果HeySiri将改为Siri",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1667778505,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 479084,
+      "num": 479084,
+      "word": "女孩持续高烧就医查出亲吻病毒",
+      "onboard_time": 1668006989,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478847,
@@ -1907,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406443,
+      "num": 406443,
+      "word": "鸟鸟文本",
+      "onboard_time": 1668007108,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406332,
       "num": 406332,
       "word": "狐妖月红篇杀青大合照",
@@ -2105,14 +2129,6 @@
       "onboard_time": 1667744375,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373432,
-      "num": 373432,
-      "word": "鸟鸟文本",
-      "onboard_time": 1668007108,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 371945,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1667893949,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278027,
+      "num": 278027,
+      "word": "夫妻仅一墙之隔却要寄信交流",
+      "onboard_time": 1668008728,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 277000,
@@ -4267,14 +4291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170293,
-      "num": 170293,
-      "word": "女孩持续高烧就医查出亲吻病毒",
-      "onboard_time": 1668006989,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "超越",
@@ -4569,14 +4585,6 @@
       "onboard_time": 1667978367,
       "rank": 31,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 151783,
-      "num": 151783,
-      "word": "男童母亲称与鲁某某家常串门",
-      "onboard_time": 1668007589,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 151379,
@@ -5041,6 +5049,14 @@
       "onboard_time": 1667890767,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129228,
+      "num": 114393,
+      "word": "原来真的会对一个人移不开眼",
+      "onboard_time": 1668007828,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129166,
@@ -5867,6 +5883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93443,
+      "num": 93261,
+      "word": "古偶眼神戏天花板",
+      "onboard_time": 1668010945,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93157,
       "num": 93157,
       "word": "哈士奇的正确使用方式",
@@ -6507,6 +6531,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 68325,
+      "num": 68325,
+      "word": "4岁娃当妈妈嘴替萌怼客服",
+      "onboard_time": 1668011063,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67135,
       "num": 67135,
       "word": "我国自主研制的机器狗首度公开",
@@ -6721,6 +6753,14 @@
       "onboard_time": 1667950885,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 32396,
+      "num": 114719,
+      "word": "这种稻子种1次可连续收获4年",
+      "onboard_time": 1668008964,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29639,
