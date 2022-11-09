@@ -1,6 +1,6 @@
 {
   "startTime": 1667925332636,
-  "endTime": 1667972732941,
+  "endTime": 1667975685811,
   "band_list": [
     {
       "raw_hot": 3403058,
@@ -51,11 +51,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251445,
+      "num": 1251445,
+      "word": "韩剧TV辟谣",
+      "onboard_time": 1667972247,
+      "rank": 13,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 1164160,
+      "num": 1164160,
+      "word": "骨科医生鲁经纬",
+      "onboard_time": 1667971046,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1014778,
       "num": 1014778,
       "word": "全国核酸检测再降价",
       "onboard_time": 1667938752,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943148,
+      "num": 943148,
+      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+      "onboard_time": 1667971108,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -211,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 522101,
+      "num": 522101,
+      "word": "内娱清唱天花板",
+      "onboard_time": 1667973807,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518590,
       "num": 518590,
       "word": "00后花千元爆改出租房",
@@ -227,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469233,
-      "num": 388286,
-      "word": "18岁少女全身95%烧伤母亲崩溃大哭",
-      "onboard_time": 1667971108,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -243,20 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457563,
-      "num": 372616,
-      "word": "韩剧TV辟谣",
-      "onboard_time": 1667972247,
-      "rank": 13,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 441732,
-      "num": 360078,
-      "word": "骨科医生鲁经纬",
-      "onboard_time": 1667971046,
-      "rank": 20,
-      "category": "社会负面"
+      "raw_hot": 443856,
+      "num": 443856,
+      "word": "推特禁止宣传特斯拉负面广告",
+      "onboard_time": 1667969067,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 437411,
@@ -273,6 +289,14 @@
       "onboard_time": 1667966608,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433319,
+      "num": 355367,
+      "word": "朱一龙回应提名金鸡奖",
+      "onboard_time": 1667975544,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 429813,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364596,
+      "num": 364596,
+      "word": "双十一iPhone14全系补货",
+      "onboard_time": 1667970805,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 359443,
       "num": 359443,
       "word": "苏醒当年没被淘汰的原因",
@@ -363,28 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357948,
-      "num": 357948,
-      "word": "推特禁止宣传特斯拉负面广告",
-      "onboard_time": 1667969067,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "95后小伙鹤岗买房后云监工装修",
       "onboard_time": 1667924965,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354899,
-      "num": 354899,
-      "word": "双十一iPhone14全系补货",
-      "onboard_time": 1667970805,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 346799,
@@ -499,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284124,
+      "num": 284124,
+      "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
+      "onboard_time": 1667973925,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 279218,
       "num": 279218,
       "word": "知情人称举报者丈夫被张庭公司送入狱",
       "onboard_time": 1667950465,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 272756,
+      "num": 272756,
+      "word": "邱瑞 减脂餐",
+      "onboard_time": 1667970987,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 263810,
@@ -545,6 +577,14 @@
       "onboard_time": 1667965407,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231140,
+      "num": 231140,
+      "word": "苏州正德年间一700年古宅寻主",
+      "onboard_time": 1667972186,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228683,
@@ -619,14 +659,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 211426,
-      "num": 211426,
-      "word": "邱瑞 减脂餐",
-      "onboard_time": 1667970987,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207322,
       "num": 207322,
       "word": "锦鲤",
@@ -680,6 +712,30 @@
       "word": "明月祭君心开播",
       "onboard_time": 1667970928,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191813,
+      "num": 191813,
+      "word": "空气炸锅烤苹果干",
+      "onboard_time": 1667972065,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 191229,
+      "num": 191229,
+      "word": "战神诸神黄昏",
+      "onboard_time": 1667970747,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190993,
+      "num": 190993,
+      "word": "陈飞宇张婧仪点燃我温暖你杀青合照",
+      "onboard_time": 1667974285,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -803,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150263,
+      "num": 150263,
+      "word": "星辰大海艺人活动安排",
+      "onboard_time": 1667974043,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "乐队的海边官宣定档1111",
@@ -891,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136606,
+      "num": 136606,
+      "word": "在舞台千万不要和朋友对视",
+      "onboard_time": 1667971825,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136602,
       "num": 110017,
       "word": "seventeen gma",
@@ -904,6 +976,14 @@
       "word": "重庆九龙坡区疫情防控",
       "onboard_time": 1667913091,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132960,
+      "num": 132960,
+      "word": "原来火龙果园一入夜就会变灯光秀",
+      "onboard_time": 1667974405,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -945,14 +1025,6 @@
       "onboard_time": 1667970027,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 121606,
-      "num": 121606,
-      "word": "战神诸神黄昏",
-      "onboard_time": 1667970747,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 119555,
@@ -1059,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 97695,
-      "num": 97695,
-      "word": "空气炸锅烤苹果干",
-      "onboard_time": 1667972065,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96795,
       "num": 96795,
       "word": "歌尔股份否认被踢出果链",
@@ -1075,12 +1139,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 95313,
-      "num": 95313,
-      "word": "在舞台千万不要和朋友对视",
-      "onboard_time": 1667971825,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 93143,
+      "num": 93143,
+      "word": "罗晋新剧片场1秒出表情包",
+      "onboard_time": 1667975425,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 92884,
@@ -1107,11 +1171,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90636,
-      "num": 90636,
-      "word": "苏州正德年间一700年古宅寻主",
-      "onboard_time": 1667972186,
-      "rank": 49,
+      "raw_hot": 92078,
+      "num": 92078,
+      "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+      "onboard_time": 1667973626,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1201,14 @@
       "onboard_time": 1667905048,
       "rank": 39,
       "category": "自然"
+    },
+    {
+      "raw_hot": 85045,
+      "num": 85045,
+      "word": "盲人大叔卖猪肉切肉过称手摸便知",
+      "onboard_time": 1667975663,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84387,
@@ -1204,7 +1276,7 @@
     },
     {
       "raw_hot": 62440,
-      "num": 1168463,
+      "num": 1183958,
       "word": "致敬逆行消防英雄",
       "onboard_time": 1667965287,
       "rank": 2,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1667950885,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 27613,
+      "num": 302183,
+      "word": "汶川哥哥将捐2万公益基金给泸定婴儿",
+      "onboard_time": 1667974885,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26768,

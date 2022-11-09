@@ -1,0 +1,410 @@
+{
+  "runTime": 1667975685811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838687,
+        "num": 1838687,
+        "word": "5名韩剧TV相关负责人获刑",
+        "onboard_time": 1667967566,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1251445,
+        "num": 1251445,
+        "word": "韩剧TV辟谣",
+        "onboard_time": 1667972247,
+        "rank": 1,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 49942,
+        "num": 1183958,
+        "word": "致敬逆行消防英雄",
+        "onboard_time": 1667965287,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1164160,
+        "num": 1164160,
+        "word": "骨科医生鲁经纬",
+        "onboard_time": 1667971046,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 943148,
+        "num": 943148,
+        "word": "18岁少女全身95%烧伤母亲崩溃大哭",
+        "onboard_time": 1667971108,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522101,
+        "num": 522101,
+        "word": "内娱清唱天花板",
+        "onboard_time": 1667973807,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483009,
+        "num": 483009,
+        "word": "法国快递员吐槽7小时工作太累",
+        "onboard_time": 1667963126,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476580,
+        "num": 476580,
+        "word": "曝短道速滑刘氏兄弟申请变更为中国国籍",
+        "onboard_time": 1667960485,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443856,
+        "num": 443856,
+        "word": "推特禁止宣传特斯拉负面广告",
+        "onboard_time": 1667969067,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 364596,
+        "num": 364596,
+        "word": "双十一iPhone14全系补货",
+        "onboard_time": 1667970805,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 433319,
+        "num": 355367,
+        "word": "朱一龙回应提名金鸡奖",
+        "onboard_time": 1667975544,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324520,
+        "num": 324520,
+        "word": "两男子深夜追赶女子被学生喝止",
+        "onboard_time": 1667968227,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309799,
+        "num": 309799,
+        "word": "范丞丞章鱼哥造型把自己整吐了",
+        "onboard_time": 1667971108,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303583,
+        "num": 303583,
+        "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
+        "onboard_time": 1667969906,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27613,
+        "num": 302183,
+        "word": "汶川哥哥将捐2万公益基金给泸定婴儿",
+        "onboard_time": 1667974885,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301811,
+        "num": 301811,
+        "word": "岸田文雄问美军中国航母战力",
+        "onboard_time": 1667966428,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 284124,
+        "num": 284124,
+        "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
+        "onboard_time": 1667973925,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 272756,
+        "num": 272756,
+        "word": "邱瑞 减脂餐",
+        "onboard_time": 1667970987,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252067,
+        "num": 252067,
+        "word": "男孩考23分给爸妈展示试卷获点赞",
+        "onboard_time": 1667966907,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240844,
+        "num": 240844,
+        "word": "官方回应检测机构暂停核酸样本接收",
+        "onboard_time": 1667966608,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242451,
+        "num": 240774,
+        "word": "孙俪当主编出的第二套儿童绘本",
+        "onboard_time": 1667961568,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231140,
+        "num": 231140,
+        "word": "苏州正德年间一700年古宅寻主",
+        "onboard_time": 1667972186,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213903,
+        "num": 213903,
+        "word": "价值23万缅因猫坠楼保姆被追责",
+        "onboard_time": 1667952328,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191813,
+        "num": 191813,
+        "word": "空气炸锅烤苹果干",
+        "onboard_time": 1667972065,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191229,
+        "num": 191229,
+        "word": "战神诸神黄昏",
+        "onboard_time": 1667970747,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190993,
+        "num": 190993,
+        "word": "陈飞宇张婧仪点燃我温暖你杀青合照",
+        "onboard_time": 1667974285,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181906,
+        "num": 181906,
+        "word": "广州新增本土感染者2637例",
+        "onboard_time": 1667956649,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150263,
+        "num": 150263,
+        "word": "星辰大海艺人活动安排",
+        "onboard_time": 1667974043,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143209,
+        "num": 143209,
+        "word": "小朋友对洞洞的执念有多大",
+        "onboard_time": 1667965108,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 136606,
+        "word": "在舞台千万不要和朋友对视",
+        "onboard_time": 1667971825,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142311,
+        "num": 136482,
+        "word": "NEVERLAND改编王一博无感",
+        "onboard_time": 1667972545,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "重庆疫情防控",
+        "onboard_time": 1667957662,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132960,
+        "num": 132960,
+        "word": "原来火龙果园一入夜就会变灯光秀",
+        "onboard_time": 1667974405,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132949,
+        "num": 132949,
+        "word": "美国开出20.4亿美元彩票巨奖",
+        "onboard_time": 1667957368,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131484,
+        "num": 131484,
+        "word": "00后花千元爆改出租房",
+        "onboard_time": 1667965946,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130595,
+        "num": 130595,
+        "word": "徐怀钰重回滚石",
+        "onboard_time": 1667967628,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124202,
+        "num": 124202,
+        "word": "诺言",
+        "onboard_time": 1667953169,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 118551,
+        "num": 118551,
+        "word": "体育生解剖课上台当教具大秀肌肉",
+        "onboard_time": 1667966668,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "扎克伯格承认脸书因失误大规模裁员",
+        "onboard_time": 1667958748,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 113746,
+        "num": 113746,
+        "word": "老人借房给重孙上学孙子拒还",
+        "onboard_time": 1667956947,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 107536,
+        "word": "GEN官宣世冠KIC阵容",
+        "onboard_time": 1667965227,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107178,
+        "num": 107178,
+        "word": "人类幼崽能有多要强",
+        "onboard_time": 1667971465,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106632,
+        "num": 106632,
+        "word": "被小猫打了两个嘴巴子",
+        "onboard_time": 1667965407,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105257,
+        "num": 105257,
+        "word": "星辰大海",
+        "onboard_time": 1667969246,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104641,
+        "num": 104641,
+        "word": "计算机二级",
+        "onboard_time": 1667960006,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100321,
+        "num": 100321,
+        "word": "下夜班护士车祸现场奋不顾身救人",
+        "onboard_time": 1667956889,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 99549,
+        "num": 99549,
+        "word": "命韵峋环360度吻戏",
+        "onboard_time": 1667963605,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93143,
+        "num": 93143,
+        "word": "罗晋新剧片场1秒出表情包",
+        "onboard_time": 1667975425,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92078,
+        "num": 92078,
+        "word": "秸秆恶意被绑5把铁锤农户损失惨重",
+        "onboard_time": 1667973626,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85045,
+        "num": 85045,
+        "word": "盲人大叔卖猪肉切肉过称手摸便知",
+        "onboard_time": 1667975663,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022世界互联网大会乌镇峰会#"
+    }
+  }
+}
