@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668101044726,
+  "endTime": 1668102059215,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2552,6 +2552,14 @@
       "word": "朱韵的公主裙是李峋送的",
       "onboard_time": 1667983826,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398161,
+      "num": 398161,
+      "word": "战长沙疑似被恶意评分",
+      "onboard_time": 1668101237,
+      "rank": 0,
       "category": "影视"
     },
     {
@@ -7763,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93892,
+      "num": 93892,
+      "word": "你实现睡眠自由了吗",
+      "onboard_time": 1668099021,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93823,
       "num": 93823,
       "word": "罗云熙罗本六宫格剧照",
@@ -8435,14 +8451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77394,
-      "num": 77394,
-      "word": "你实现睡眠自由了吗",
-      "onboard_time": 1668099021,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76851,
       "num": 76851,
       "word": "11月6日新增本土确诊535例",
@@ -8593,6 +8601,14 @@
       "onboard_time": 1668051986,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 71472,
+      "num": 39455,
+      "word": "李峋的审美",
+      "onboard_time": 1668100879,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 71382,
@@ -8976,6 +8992,14 @@
       "word": "山东96岁老人为烈士守墓36载",
       "onboard_time": 1667892326,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28105,
+      "num": 28105,
+      "word": "警方通报女童在幼儿园意外身亡",
+      "onboard_time": 1668101657,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
