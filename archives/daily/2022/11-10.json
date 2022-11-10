@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668089058923,
+  "endTime": 1668090937700,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1107820,
+      "num": 1107820,
+      "word": "肠胃不好的人一定要看看",
+      "onboard_time": 1668086186,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1083566,
       "num": 1083566,
       "word": "宝妈坐月子吃了8只鸡100多个蛋",
@@ -233,6 +241,22 @@
       "onboard_time": 1668067525,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695527,
+      "num": 695527,
+      "word": "点燃我温暖你第14集封神了",
+      "onboard_time": 1668087988,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 694071,
+      "num": 694071,
+      "word": "英国国王查尔斯三世被扔鸡蛋",
+      "onboard_time": 1668088585,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 667561,
@@ -331,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531441,
+      "num": 320570,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529816,
       "num": 529816,
       "word": "广州新增本土感染者2555例",
@@ -371,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499194,
-      "num": 320570,
-      "word": "陈小纭新剧人设好夹",
-      "onboard_time": 1668086966,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 498554,
       "num": 285222,
       "word": "杨超越跳了nxde",
@@ -403,14 +427,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 495665,
-      "num": 495665,
-      "word": "肠胃不好的人一定要看看",
-      "onboard_time": 1668086186,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 493815,
       "num": 493815,
       "word": "吸入用新冠疫苗进北京",
@@ -433,6 +449,14 @@
       "onboard_time": 1668065724,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481203,
+      "num": 381830,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479084,
@@ -491,11 +515,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451345,
-      "num": 381830,
-      "word": "鲁某某家人登门下跪道歉求谅解",
-      "onboard_time": 1668075447,
-      "rank": 41,
+      "raw_hot": 452792,
+      "num": 266331,
+      "word": "杀人犯潜逃29年被抓时成千万富翁",
+      "onboard_time": 1668089368,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -616,14 +640,6 @@
       "word": "国产剧姐弟恋天花板",
       "onboard_time": 1668066144,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 389943,
-      "num": 290035,
-      "word": "点燃我温暖你第14集封神了",
-      "onboard_time": 1668087988,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258877,
+      "num": 164253,
+      "word": "王俊凯万里归途金鸡奖现场连线",
+      "onboard_time": 1668089185,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255195,
       "num": 255195,
       "word": "王鹤棣星辰大海体验捡鸡蛋",
@@ -993,6 +1017,14 @@
       "onboard_time": 1668066445,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249064,
+      "num": 133712,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 244163,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1668070828,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225797,
+      "num": 225797,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223760,
@@ -1155,6 +1195,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 205785,
+      "num": 205785,
+      "word": "广州荔湾区进一步强化管控措施",
+      "onboard_time": 1668089429,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205711,
       "num": 205711,
       "word": "疯狂动物城",
@@ -1172,7 +1220,7 @@
     },
     {
       "raw_hot": 202526,
-      "num": 91657,
+      "num": 104363,
       "word": "周冬雨金鸡奖造型路透",
       "onboard_time": 1668077246,
       "rank": 47,
@@ -1299,12 +1347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182856,
+      "num": 103999,
+      "word": "卿卿日常",
+      "onboard_time": 1668076107,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182758,
       "num": 115104,
       "word": "内娱青春疼痛文学男主",
       "onboard_time": 1668080847,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178044,
+      "num": 178044,
+      "word": "原来猫是通过尾巴表达心情",
+      "onboard_time": 1668087566,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 176095,
@@ -1363,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165802,
+      "num": 165802,
+      "word": "樊振东削球手上线",
+      "onboard_time": 1668088224,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162914,
       "num": 162914,
       "word": "穿搭果然很重要",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1668084926,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160104,
+      "num": 129740,
+      "word": "看嘴型是真爱吃",
+      "onboard_time": 1668089725,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 159998,
@@ -1579,20 +1659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136221,
+      "num": 136221,
+      "word": "FPX对阵OMG",
+      "onboard_time": 1668090746,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136163,
       "num": 123664,
       "word": "李峋眼神里的爱意",
       "onboard_time": 1668079466,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135027,
-      "num": 135027,
-      "word": "原来猫是通过尾巴表达心情",
-      "onboard_time": 1668087566,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 134265,
@@ -1635,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131045,
+      "num": 131045,
+      "word": "90后爸爸在家为女儿搭建一个超市",
+      "onboard_time": 1668090869,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129756,
       "num": 129756,
       "word": "一口山东话的台湾大学教授",
@@ -1673,14 +1761,6 @@
       "onboard_time": 1668074187,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124740,
-      "num": 115925,
-      "word": "英国国王查尔斯三世被扔鸡蛋",
-      "onboard_time": 1668088585,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 124738,
@@ -1755,12 +1835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117210,
-      "num": 117210,
-      "word": "樊振东削球手上线",
-      "onboard_time": 1668088224,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 116242,
+      "num": 116242,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115231,
@@ -1931,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98425,
+      "num": 98425,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98081,
       "num": 98081,
       "word": "50米高抓娃娃机玩起绣花功夫",
@@ -2067,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90700,
+      "num": 90700,
+      "word": "林高远3比1徐晨皓",
+      "onboard_time": 1668089127,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90522,
       "num": 90522,
       "word": "一个抱抱释放了120%的压力",
@@ -2129,6 +2225,14 @@
       "onboard_time": 1668074066,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83894,
+      "num": 90650,
+      "word": "美国10月CPI同比上涨7.7%",
+      "onboard_time": 1668090388,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 83034,
@@ -2273,14 +2377,6 @@
       "onboard_time": 1668001887,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68079,
-      "num": 89896,
-      "word": "母女吵架双双爬上15米高塔被困",
-      "onboard_time": 1668088888,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67776,
