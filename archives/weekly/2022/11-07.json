@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668088397278,
+  "endTime": 1668089058923,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -459,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1173902,
-      "num": 1173902,
+      "raw_hot": 1187677,
+      "num": 1187677,
       "word": "TVB余子明去世",
       "onboard_time": 1668083544,
       "rank": 10,
@@ -1003,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 724831,
+      "num": 724831,
+      "word": "少爷和我吸血鬼篇",
+      "onboard_time": 1668087387,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712744,
       "num": 712744,
       "word": "孙子去世孙媳鼓励照顾住院爷爷",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1667895687,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 679353,
-      "num": 679353,
-      "word": "少爷和我吸血鬼篇",
-      "onboard_time": 1668087387,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 678358,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555528,
+      "num": 555528,
+      "word": "洗发水",
+      "onboard_time": 1668083662,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 554459,
       "num": 554459,
       "word": "广州番禺区严格控制人员流动",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1667877686,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 539447,
-      "num": 539447,
-      "word": "洗发水",
-      "onboard_time": 1668083662,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 529816,
@@ -1739,6 +1739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 499194,
+      "num": 320570,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "为什么恋爱长跑会容易分手",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1667874207,
       "rank": 16,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 495665,
+      "num": 495665,
+      "word": "肠胃不好的人一定要看看",
+      "onboard_time": 1668086186,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 493815,
@@ -1995,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461961,
-      "num": 301803,
-      "word": "陈小纭新剧人设好夹",
-      "onboard_time": 1668086966,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 461178,
       "num": 341267,
       "word": "于和伟 陪跑",
@@ -2064,6 +2072,14 @@
       "word": "妈妈晒3个高颜值儿子羡煞众人",
       "onboard_time": 1667800949,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451345,
+      "num": 381830,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2193,14 +2209,6 @@
       "onboard_time": 1667748210,
       "rank": 12,
       "category": "影视,影视"
-    },
-    {
-      "raw_hot": 434193,
-      "num": 381830,
-      "word": "鲁某某家人登门下跪道歉求谅解",
-      "onboard_time": 1668075447,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433447,
@@ -2528,6 +2536,14 @@
       "word": "国产剧姐弟恋天花板",
       "onboard_time": 1668066144,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 389943,
+      "num": 290035,
+      "word": "点燃我温暖你第14集封神了",
+      "onboard_time": 1668087988,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -3515,14 +3531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291799,
-      "num": 291799,
-      "word": "肠胃不好的人一定要看看",
-      "onboard_time": 1668086186,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 291259,
       "num": 291259,
       "word": "从尾款人变成尾八人",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1668063087,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288032,
+      "num": 288032,
+      "word": "樊振东晋级全锦赛四强",
+      "onboard_time": 1668087145,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 287179,
@@ -4059,6 +4075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244163,
+      "num": 123444,
+      "word": "点燃我温暖你放烟花花絮",
+      "onboard_time": 1668088646,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243623,
       "num": 243623,
       "word": "童星出身的艺人",
@@ -4121,14 +4145,6 @@
       "onboard_time": 1667823266,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238826,
-      "num": 119136,
-      "word": "点燃我温暖你第14集封神了",
-      "onboard_time": 1668087988,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 237255,
@@ -4563,6 +4579,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 213264,
+      "num": 98179,
+      "word": "蓝羽邓超黄渤张小斐主持金鸡奖",
+      "onboard_time": 1668088766,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213160,
       "num": 213160,
       "word": "南京红山动物园开放动物认养",
@@ -4881,14 +4905,6 @@
       "onboard_time": 1667970928,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193260,
-      "num": 193260,
-      "word": "樊振东晋级全锦赛四强",
-      "onboard_time": 1668087145,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 192811,
@@ -5739,20 +5755,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 155983,
+      "num": 155983,
+      "word": "凑单",
+      "onboard_time": 1668084446,
+      "rank": 27,
+      "category": "其它"
+    },
+    {
       "raw_hot": 155108,
       "num": 155108,
       "word": "东北人是懂吃席的",
       "onboard_time": 1667903373,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 154631,
-      "num": 154631,
-      "word": "凑单",
-      "onboard_time": 1668084446,
-      "rank": 27,
-      "category": "其它"
     },
     {
       "raw_hot": 154209,
@@ -6307,6 +6323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135027,
+      "num": 135027,
+      "word": "原来猫是通过尾巴表达心情",
+      "onboard_time": 1668087566,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
@@ -6505,6 +6529,14 @@
       "onboard_time": 1667871207,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124740,
+      "num": 115925,
+      "word": "英国国王查尔斯三世被扔鸡蛋",
+      "onboard_time": 1668088585,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 124738,
@@ -7811,14 +7843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87664,
-      "num": 92245,
-      "word": "原来猫是通过尾巴表达心情",
-      "onboard_time": 1668087566,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87591,
       "num": 87591,
       "word": "2022珠海航展双语宣传片",
@@ -8379,6 +8403,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 68079,
+      "num": 89896,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67776,
       "num": 67776,
       "word": "无畏手绘澜上加澜",
@@ -8668,7 +8700,7 @@
     },
     {
       "raw_hot": 33461,
-      "num": 310140,
+      "num": 350042,
       "word": "冬季室内运动别忘开窗通风",
       "onboard_time": 1668071306,
       "rank": 29,

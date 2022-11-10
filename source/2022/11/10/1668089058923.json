@@ -1,0 +1,410 @@
+{
+  "runTime": 1668089058923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187677,
+        "num": 1187677,
+        "word": "TVB余子明去世",
+        "onboard_time": 1668083544,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 896193,
+        "num": 896193,
+        "word": "疯狂小杨哥称绝不避税",
+        "onboard_time": 1668082404,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28596,
+        "num": 753941,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 724831,
+        "num": 724831,
+        "word": "少爷和我吸血鬼篇",
+        "onboard_time": 1668087387,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636402,
+        "num": 636402,
+        "word": "广州疫情防控",
+        "onboard_time": 1668079226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555528,
+        "num": 555528,
+        "word": "洗发水",
+        "onboard_time": 1668083662,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 495665,
+        "num": 495665,
+        "word": "肠胃不好的人一定要看看",
+        "onboard_time": 1668086186,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383238,
+        "num": 383238,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357222,
+        "num": 357222,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25496,
+        "num": 350042,
+        "word": "冬季室内运动别忘开窗通风",
+        "onboard_time": 1668071306,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609020,
+        "num": 334068,
+        "word": "吴彤一天官宣了15位年轻演员",
+        "onboard_time": 1668077785,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499194,
+        "num": 320570,
+        "word": "陈小纭新剧人设好夹",
+        "onboard_time": 1668086966,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451345,
+        "num": 310818,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389943,
+        "num": 290035,
+        "word": "点燃我温暖你第14集封神了",
+        "onboard_time": 1668087988,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288032,
+        "num": 288032,
+        "word": "樊振东晋级全锦赛四强",
+        "onboard_time": 1668087145,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287028,
+        "num": 287028,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272124,
+        "num": 272124,
+        "word": "台湾之光只有电池里的电是台湾造的",
+        "onboard_time": 1668079764,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221523,
+        "num": 221523,
+        "word": "女子水下偶遇顶级伪装大师",
+        "onboard_time": 1668081627,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172504,
+        "num": 172504,
+        "word": "德国队公布世界杯大名单",
+        "onboard_time": 1668080548,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165104,
+        "num": 165104,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359996,
+        "num": 164759,
+        "word": "全网唯二的观众居然认亲了",
+        "onboard_time": 1668080727,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354076,
+        "num": 164246,
+        "word": "张馨予晒何捷探班vlog",
+        "onboard_time": 1668069746,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351402,
+        "num": 163483,
+        "word": "唐嫣首档常驻综艺官宣",
+        "onboard_time": 1668071666,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323307,
+        "num": 162509,
+        "word": "杨紫张晚意长相思预约人数破100万",
+        "onboard_time": 1668085824,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162218,
+        "num": 162218,
+        "word": "陈幸同3比2陈梦",
+        "onboard_time": 1668085462,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155983,
+        "num": 155983,
+        "word": "凑单",
+        "onboard_time": 1668084446,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 148067,
+        "num": 148067,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135027,
+        "num": 135027,
+        "word": "原来猫是通过尾巴表达心情",
+        "onboard_time": 1668087566,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5758,
+        "num": 133341,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 250082,
+        "num": 129498,
+        "word": "卿卿日常观后感",
+        "onboard_time": 1668084566,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244163,
+        "num": 123444,
+        "word": "点燃我温暖你放烟花花絮",
+        "onboard_time": 1668088646,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236150,
+        "num": 121319,
+        "word": "白敬亭田曦薇新剧醉酒吻",
+        "onboard_time": 1668082163,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117555,
+        "num": 117555,
+        "word": "北京朝阳新增感染者36例无社会面",
+        "onboard_time": 1668076166,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124740,
+        "num": 115925,
+        "word": "英国国王查尔斯三世被扔鸡蛋",
+        "onboard_time": 1668088585,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 113169,
+        "num": 113169,
+        "word": "樊振东削球手上线",
+        "onboard_time": 1668088224,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104445,
+        "num": 104445,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104280,
+        "num": 104280,
+        "word": "GEN官宣ruler离队",
+        "onboard_time": 1668070828,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212027,
+        "num": 102692,
+        "word": "宋丹丹说王鹤棣条件太好了",
+        "onboard_time": 1668073705,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100688,
+        "num": 100688,
+        "word": "王曼昱晋级全锦赛四强",
+        "onboard_time": 1668084926,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213264,
+        "num": 98179,
+        "word": "蓝羽邓超黄渤张小斐主持金鸡奖",
+        "onboard_time": 1668088766,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91289,
+        "num": 91289,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82168,
+        "num": 91241,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75400,
+        "num": 90926,
+        "word": "双十一",
+        "onboard_time": 1668083485,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 74009,
+        "num": 90768,
+        "word": "看得出宝宝很满意这个家",
+        "onboard_time": 1668078865,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73573,
+        "num": 90473,
+        "word": "NBA吐槽大会",
+        "onboard_time": 1668073466,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72508,
+        "num": 90041,
+        "word": "边踩树叶边抖脚的猫咪",
+        "onboard_time": 1668077123,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68079,
+        "num": 89896,
+        "word": "母女吵架双双爬上15米高塔被困",
+        "onboard_time": 1668088888,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65747,
+        "num": 89606,
+        "word": "从来就没有突然消失的爱",
+        "onboard_time": 1668071428,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60658,
+        "num": 89449,
+        "word": "这尾巴真是戳中了我的心巴",
+        "onboard_time": 1668080905,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建网络空间命运共同体#"
+    }
+  }
+}
