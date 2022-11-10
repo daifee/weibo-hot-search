@@ -1,0 +1,410 @@
+{
+  "runTime": 1668122660141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707543,
+        "num": 707543,
+        "word": "肠胃不好的人一定要看看",
+        "onboard_time": 1668086186,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499623,
+        "num": 499623,
+        "word": "警方通报女童在幼儿园意外身亡",
+        "onboard_time": 1668101657,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16823,
+        "num": 373894,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 858819,
+        "num": 370737,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359200,
+        "num": 359200,
+        "word": "战长沙疑似被恶意评分",
+        "onboard_time": 1668101237,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357336,
+        "num": 357336,
+        "word": "杀人犯潜逃29年被抓时成千万富翁",
+        "onboard_time": 1668089368,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329086,
+        "num": 329086,
+        "word": "距离上班地方仅1.8米是啥体验",
+        "onboard_time": 1668095366,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299575,
+        "num": 299575,
+        "word": "广州番禺全区一半镇街出现病例",
+        "onboard_time": 1668092067,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266436,
+        "num": 266436,
+        "word": "匈牙利同意刘氏兄弟更改国籍",
+        "onboard_time": 1668090568,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197404,
+        "num": 197404,
+        "word": "英国国王查尔斯三世被扔鸡蛋",
+        "onboard_time": 1668088585,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 192527,
+        "word": "绒山羊神似慢羊羊",
+        "onboard_time": 1668118453,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179979,
+        "num": 179979,
+        "word": "少爷和我",
+        "onboard_time": 1668093208,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164152,
+        "num": 164152,
+        "word": "陈小纭新剧人设好夹",
+        "onboard_time": 1668086966,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154594,
+        "num": 154594,
+        "word": "全网唯二的观众居然认亲了",
+        "onboard_time": 1668080727,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153011,
+        "num": 153011,
+        "word": "疯狂小杨哥称绝不避税",
+        "onboard_time": 1668082404,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148327,
+        "num": 148327,
+        "word": "林孝埈比赛",
+        "onboard_time": 1668122360,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137808,
+        "num": 137808,
+        "word": "中国首位女战神的战斗力到底有多强",
+        "onboard_time": 1668093927,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137050,
+        "num": 137050,
+        "word": "真的会反反复复爱一个人吗",
+        "onboard_time": 1668093628,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136611,
+        "num": 136611,
+        "word": "新疆新增无症状657例",
+        "onboard_time": 1668103934,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130493,
+        "num": 130493,
+        "word": "广州疫情防控",
+        "onboard_time": 1668079226,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137584,
+        "num": 126990,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123291,
+        "num": 123291,
+        "word": "双十一",
+        "onboard_time": 1668083485,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 108750,
+        "num": 108750,
+        "word": "TVB余子明去世",
+        "onboard_time": 1668083544,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 108585,
+        "num": 108585,
+        "word": "母女吵架双双爬上15米高塔被困",
+        "onboard_time": 1668088888,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99873,
+        "num": 99873,
+        "word": "寻找吉林18岁失联女孩",
+        "onboard_time": 1668090028,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97098,
+        "num": 97098,
+        "word": "你实现睡眠自由了吗",
+        "onboard_time": 1668099021,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92571,
+        "num": 92571,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90849,
+        "num": 90849,
+        "word": "点燃我温暖你第14集封神了",
+        "onboard_time": 1668087988,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88608,
+        "num": 88608,
+        "word": "白敬亭田曦薇新剧醉酒吻",
+        "onboard_time": 1668082163,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88031,
+        "num": 88031,
+        "word": "台湾之光只有电池里的电是台湾造的",
+        "onboard_time": 1668079764,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197924,
+        "num": 83925,
+        "word": "波司登淘宝旗舰店被曝先提价再打折",
+        "onboard_time": 1668121338,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74320,
+        "num": 74320,
+        "word": "吴彤一天官宣了15位年轻演员",
+        "onboard_time": 1668077785,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73664,
+        "num": 73664,
+        "word": "中国街舞盛典",
+        "onboard_time": 1668117012,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73582,
+        "num": 73582,
+        "word": "李峋的审美",
+        "onboard_time": 1668100879,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71511,
+        "num": 71511,
+        "word": "重庆疫情辟谣",
+        "onboard_time": 1668107353,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68226,
+        "num": 68226,
+        "word": "卿卿日常观后感",
+        "onboard_time": 1668084566,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62494,
+        "num": 62494,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61758,
+        "num": 61758,
+        "word": "张小斐去年金鸡影后今年金鸡主持",
+        "onboard_time": 1668090869,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61483,
+        "num": 61483,
+        "word": "广州荔湾区进一步强化管控措施",
+        "onboard_time": 1668089429,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60146,
+        "num": 60146,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58087,
+        "num": 58087,
+        "word": "广东女子自家房子边洗菜边喂鱼",
+        "onboard_time": 1668111614,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56576,
+        "num": 56576,
+        "word": "HYBE艺人明年活动计划",
+        "onboard_time": 1668108493,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55986,
+        "num": 55986,
+        "word": "李薇每道菜只夹三次",
+        "onboard_time": 1668092728,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55950,
+        "num": 55950,
+        "word": "女子水下偶遇顶级伪装大师",
+        "onboard_time": 1668081627,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52325,
+        "num": 52325,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45684,
+        "num": 45684,
+        "word": "美国10月CPI同比上涨7.7%",
+        "onboard_time": 1668090388,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44778,
+        "num": 44778,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39878,
+        "num": 39878,
+        "word": "如何在椅子上改善含胸驼背",
+        "onboard_time": 1668122481,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39494,
+        "num": 39494,
+        "word": "英格兰队公布世界杯大名单",
+        "onboard_time": 1668094045,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35897,
+        "num": 35897,
+        "word": "当代女生为了省钱有多拼",
+        "onboard_time": 1668092968,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建网络空间命运共同体#"
+    }
+  }
+}

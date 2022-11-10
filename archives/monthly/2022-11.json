@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668119963175,
+  "endTime": 1668122660141,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -4729,6 +4729,14 @@
       "onboard_time": 1667538149,
       "rank": 20,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 499623,
+      "num": 499623,
+      "word": "警方通报女童在幼儿园意外身亡",
+      "onboard_time": 1668101657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499352,
@@ -11739,6 +11747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197924,
+      "num": 83925,
+      "word": "波司登淘宝旗舰店被曝先提价再打折",
+      "onboard_time": 1668121338,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197527,
       "num": 197527,
       "word": "看嘴型是真爱吃",
@@ -11971,6 +11987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192527,
+      "num": 192527,
+      "word": "绒山羊神似慢羊羊",
+      "onboard_time": 1668118453,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192245,
       "num": 102321,
       "word": "NCTDREAM将发行首张日文单曲",
@@ -12041,14 +12065,6 @@
       "onboard_time": 1667974285,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190836,
-      "num": 190836,
-      "word": "警方通报女童在幼儿园意外身亡",
-      "onboard_time": 1668101657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190812,
@@ -14224,6 +14240,14 @@
       "word": "秋冬跑步如何避免十跑九伤",
       "onboard_time": 1667534064,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148327,
+      "num": 148327,
+      "word": "林孝埈比赛",
+      "onboard_time": 1668122360,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -17539,6 +17563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97098,
+      "num": 97098,
+      "word": "你实现睡眠自由了吗",
+      "onboard_time": 1668099021,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96795,
       "num": 96795,
       "word": "歌尔股份否认被踢出果链",
@@ -17761,14 +17793,6 @@
       "onboard_time": 1667916029,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93892,
-      "num": 93892,
-      "word": "你实现睡眠自由了吗",
-      "onboard_time": 1668099021,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 93823,
@@ -19371,6 +19395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73664,
+      "num": 73664,
+      "word": "中国街舞盛典",
+      "onboard_time": 1668117012,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73663,
       "num": 77320,
       "word": "这狗子比教练管用多了",
@@ -19385,6 +19417,14 @@
       "onboard_time": 1667483907,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73582,
+      "num": 73582,
+      "word": "李峋的审美",
+      "onboard_time": 1668100879,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 73483,
@@ -19507,12 +19547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71472,
-      "num": 39455,
-      "word": "李峋的审美",
-      "onboard_time": 1668100879,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 71511,
+      "num": 71511,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71402,
@@ -20091,6 +20131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58087,
+      "num": 58087,
+      "word": "广东女子自家房子边洗菜边喂鱼",
+      "onboard_time": 1668111614,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57197,
       "num": 57197,
       "word": "遇到公共场合外放你会怎么办",
@@ -20105,6 +20153,14 @@
       "onboard_time": 1667711846,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 56576,
+      "num": 56576,
+      "word": "HYBE艺人明年活动计划",
+      "onboard_time": 1668108493,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 56257,
@@ -20435,20 +20491,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39878,
+      "num": 39878,
+      "word": "如何在椅子上改善含胸驼背",
+      "onboard_time": 1668122481,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39445,
       "num": 39445,
       "word": "你们歌手是懂超模的",
       "onboard_time": 1667498056,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39415,
-      "num": 39415,
-      "word": "中国街舞盛典",
-      "onboard_time": 1668117012,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 39093,
@@ -20464,14 +20520,6 @@
       "word": "向消防员致敬最好的方式",
       "onboard_time": 1667949921,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37383,
-      "num": 37383,
-      "word": "绒山羊神似慢羊羊",
-      "onboard_time": 1668118453,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -20553,22 +20601,6 @@
       "onboard_time": 1668014597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33917,
-      "num": 33917,
-      "word": "广东女子自家房子边洗菜边喂鱼",
-      "onboard_time": 1668111614,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33751,
-      "num": 33751,
-      "word": "重庆疫情辟谣",
-      "onboard_time": 1668107353,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33527,
@@ -20665,14 +20697,6 @@
       "onboard_time": 1667683212,
       "rank": 46,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 28322,
-      "num": 18670,
-      "word": "HYBE艺人明年活动计划",
-      "onboard_time": 1668108493,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 27573,
