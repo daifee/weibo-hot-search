@@ -1,0 +1,410 @@
+{
+  "runTime": 1668079189060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099355,
+        "num": 1099355,
+        "word": "吴彤一天官宣了15位年轻演员",
+        "onboard_time": 1668077785,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950402,
+        "num": 950402,
+        "word": "唐嫣首档常驻综艺官宣",
+        "onboard_time": 1668071666,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32039,
+        "num": 816041,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 723759,
+        "num": 723759,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667075,
+        "num": 667075,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 649258,
+        "num": 649258,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553343,
+        "num": 553343,
+        "word": "陈飞宇说我和李峋不太像",
+        "onboard_time": 1668076284,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434495,
+        "num": 434495,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351039,
+        "num": 351039,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20354,
+        "num": 348163,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 403738,
+        "num": 348045,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359982,
+        "num": 347970,
+        "word": "青春环游记第四季拟邀阵容",
+        "onboard_time": 1668074246,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346919,
+        "num": 346919,
+        "word": "周冬雨杜江点亮金鸡",
+        "onboard_time": 1668078506,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293108,
+        "num": 293108,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10459,
+        "num": 290005,
+        "word": "今晚大家都是尾8人",
+        "onboard_time": 1668078026,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287504,
+        "num": 287504,
+        "word": "上海身高差40厘米夫妻蜗居23平阁楼",
+        "onboard_time": 1668076405,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282719,
+        "num": 282719,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271338,
+        "num": 271338,
+        "word": "GEN官宣ruler离队",
+        "onboard_time": 1668070828,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242129,
+        "num": 242129,
+        "word": "北京朝阳新增感染者36例无社会面",
+        "onboard_time": 1668076166,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 237100,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530933,
+        "num": 235589,
+        "word": "张馨予晒何捷探班vlog",
+        "onboard_time": 1668069746,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233010,
+        "num": 233010,
+        "word": "张杰KTV唱忽然之间",
+        "onboard_time": 1668072508,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197336,
+        "num": 197336,
+        "word": "我们的客栈",
+        "onboard_time": 1668074367,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181099,
+        "num": 181099,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159998,
+        "num": 159998,
+        "word": "张超回应激情执教风格",
+        "onboard_time": 1668075506,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156014,
+        "num": 156014,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143827,
+        "num": 143827,
+        "word": "武汉小伙发现加拿大一枝黄花",
+        "onboard_time": 1668066445,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142761,
+        "num": 142761,
+        "word": "可以花但不可以多花",
+        "onboard_time": 1668072448,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141216,
+        "num": 141216,
+        "word": "不建议通过拉伸来缓解腰痛",
+        "onboard_time": 1668073645,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30103,
+        "num": 132820,
+        "word": "冬季室内运动别忘开窗通风",
+        "onboard_time": 1668071306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190914,
+        "num": 130233,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150267,
+        "num": 129903,
+        "word": "卿卿日常好像古装恋综",
+        "onboard_time": 1668076885,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127216,
+        "num": 127216,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125586,
+        "num": 125586,
+        "word": "让你消毒没让你给洗澡啊",
+        "onboard_time": 1668074187,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121037,
+        "num": 121037,
+        "word": "NBA吐槽大会",
+        "onboard_time": 1668073466,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118396,
+        "num": 118396,
+        "word": "李薇刚结婚就想把尹峥送走",
+        "onboard_time": 1668068367,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114020,
+        "num": 114020,
+        "word": "这孩子在恐怖片里能活到结局",
+        "onboard_time": 1668073044,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111373,
+        "num": 111373,
+        "word": "大学老师给全班分享家乡的萝卜",
+        "onboard_time": 1668075026,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104742,
+        "num": 104742,
+        "word": "边踩树叶边抖脚的猫咪",
+        "onboard_time": 1668077123,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39683,
+        "num": 104176,
+        "word": "双十一正日子今晚8点开买",
+        "onboard_time": 1668078026,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104121,
+        "num": 104121,
+        "word": "李峋朱韵在雪地里相爱",
+        "onboard_time": 1668063923,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101628,
+        "num": 101628,
+        "word": "丁程鑫舞蹈独白花絮",
+        "onboard_time": 1668077965,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101474,
+        "num": 101474,
+        "word": "周柯宇官宣加盟无限超越班",
+        "onboard_time": 1668074425,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95930,
+        "num": 95930,
+        "word": "从来就没有突然消失的爱",
+        "onboard_time": 1668071428,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92280,
+        "num": 92280,
+        "word": "夫妻帮离世邻居照顾残障儿子41年",
+        "onboard_time": 1668062965,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81287,
+        "num": 81287,
+        "word": "飞机一下空投12吨水太震撼",
+        "onboard_time": 1668063143,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 78516,
+        "num": 78516,
+        "word": "想吃1条魔鬼鱼没点胆量还真不行",
+        "onboard_time": 1668068846,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77145,
+        "num": 77145,
+        "word": "大娘体力不支误把警车当出租车",
+        "onboard_time": 1668063326,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73695,
+        "num": 73695,
+        "word": "看得出宝宝很满意这个家",
+        "onboard_time": 1668078865,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73374,
+        "num": 73374,
+        "word": "殷墟甲骨文直接证实商王朝的存在",
+        "onboard_time": 1668078925,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会乌镇峰会#"
+    }
+  }
+}

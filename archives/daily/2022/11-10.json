@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668076911088,
+  "endTime": 1668079189060,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1545850,
-      "num": 211627,
+      "num": 235589,
       "word": "张馨予晒何捷探班vlog",
       "onboard_time": 1668069746,
       "rank": 20,
@@ -113,6 +113,14 @@
       "onboard_time": 1668061223,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1099355,
+      "num": 1099355,
+      "word": "吴彤一天官宣了15位年轻演员",
+      "onboard_time": 1668077785,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1083566,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553343,
+      "num": 553343,
+      "word": "陈飞宇说我和李峋不太像",
+      "onboard_time": 1668076284,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529816,
       "num": 529816,
       "word": "广州新增本土感染者2555例",
@@ -371,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459803,
-      "num": 249569,
-      "word": "陈飞宇说我和李峋不太像",
-      "onboard_time": 1668076284,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 459096,
       "num": 206267,
       "word": "张艺兴与伦纳德比手掌大小",
@@ -425,6 +433,14 @@
       "onboard_time": 1668060984,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434495,
+      "num": 434495,
+      "word": "EDG转会期",
+      "onboard_time": 1668076046,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 429983,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351039,
+      "num": 351039,
+      "word": "宁波常态化核酸检测频次调整为48小时",
+      "onboard_time": 1668079044,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350143,
       "num": 350143,
       "word": "丁程鑫希望自己保持钝感",
@@ -577,6 +601,14 @@
       "onboard_time": 1668040410,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346919,
+      "num": 346919,
+      "word": "周冬雨杜江点亮金鸡",
+      "onboard_time": 1668078506,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 342771,
@@ -683,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287504,
+      "num": 287504,
+      "word": "上海身高差40厘米夫妻蜗居23平阁楼",
+      "onboard_time": 1668076405,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287062,
       "num": 287062,
       "word": "周震南父亲公司未履行总金额超3亿",
@@ -696,6 +736,14 @@
       "word": "摊主用10年前25分试卷包鸡蛋饼",
       "onboard_time": 1668040590,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282719,
+      "num": 282719,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -779,19 +827,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249990,
-      "num": 249990,
-      "word": "EDG转会期",
-      "onboard_time": 1668076046,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249744,
       "num": 249744,
       "word": "武汉小伙发现加拿大一枝黄花",
       "onboard_time": 1668066445,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242129,
+      "num": 242129,
+      "word": "北京朝阳新增感染者36例无社会面",
+      "onboard_time": 1668076166,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159998,
+      "num": 159998,
+      "word": "张超回应激情执教风格",
+      "onboard_time": 1668075506,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158479,
       "num": 146652,
       "word": "NewJeans将12月19日发行先行曲",
@@ -1195,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150267,
+      "num": 129903,
+      "word": "卿卿日常好像古装恋综",
+      "onboard_time": 1668076885,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147725,
       "num": 147725,
       "word": "哪个瞬间你觉得读书有用",
@@ -1235,20 +1299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141216,
+      "num": 141216,
+      "word": "不建议通过拉伸来缓解腰痛",
+      "onboard_time": 1668073645,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
       "onboard_time": 1668051205,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137904,
-      "num": 119841,
-      "word": "上海身高差40厘米夫妻蜗居23平阁楼",
-      "onboard_time": 1668076405,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 137329,
@@ -1281,14 +1345,6 @@
       "onboard_time": 1668048566,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135887,
-      "num": 135887,
-      "word": "张超回应激情执教风格",
-      "onboard_time": 1668075506,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 134265,
@@ -1363,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125586,
+      "num": 125586,
+      "word": "让你消毒没让你给洗澡啊",
+      "onboard_time": 1668074187,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124738,
       "num": 124738,
       "word": "王曼昱3比0刘斐",
@@ -1427,22 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119057,
-      "num": 119057,
-      "word": "让你消毒没让你给洗澡啊",
-      "onboard_time": 1668074187,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 115503,
-      "num": 115503,
-      "word": "鲁某某家人登门下跪道歉求谅解",
-      "onboard_time": 1668075447,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115231,
       "num": 115231,
       "word": "用韩剧的方式打开点燃我温暖你",
@@ -1459,19 +1507,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113807,
-      "num": 74786,
-      "word": "卿卿日常好像古装恋综",
-      "onboard_time": 1668076885,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 111774,
       "num": 111774,
       "word": "杭州一女生网购被急哭了",
       "onboard_time": 1667996487,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111373,
+      "num": 111373,
+      "word": "大学老师给全班分享家乡的萝卜",
+      "onboard_time": 1668075026,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1515,19 +1563,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104742,
+      "num": 104742,
+      "word": "边踩树叶边抖脚的猫咪",
+      "onboard_time": 1668077123,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103565,
       "num": 103565,
       "word": "莎头组合已经很棒了",
       "onboard_time": 1668006267,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103343,
-      "num": 103343,
-      "word": "不建议通过拉伸来缓解腰痛",
-      "onboard_time": 1668073645,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1539,12 +1587,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 102714,
-      "num": 102714,
-      "word": "北京朝阳新增感染者36例无社会面",
-      "onboard_time": 1668076166,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 101628,
+      "num": 101628,
+      "word": "丁程鑫舞蹈独白花絮",
+      "onboard_time": 1668077965,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 100695,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 93571,
-      "num": 93571,
+      "num": 104176,
       "word": "双十一正日子今晚8点开买",
       "onboard_time": 1668072686,
       "rank": 37,
@@ -1859,14 +1907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 77848,
-      "num": 77848,
-      "word": "大学老师给全班分享家乡的萝卜",
-      "onboard_time": 1668075026,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77570,
       "num": 77570,
       "word": "买东西很快乐的幼崽",
@@ -1905,6 +1945,22 @@
       "onboard_time": 1668074667,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73695,
+      "num": 73695,
+      "word": "看得出宝宝很满意这个家",
+      "onboard_time": 1668078865,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73374,
+      "num": 73374,
+      "word": "殷墟甲骨文直接证实商王朝的存在",
+      "onboard_time": 1668078925,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72292,
@@ -1979,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32039,
+      "num": 816041,
+      "word": "探馆中国航展航空航天馆",
+      "onboard_time": 1668077066,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 31355,
       "num": 744937,
       "word": "加快建设网络强国数字中国",
@@ -2015,6 +2079,14 @@
       "num": 363748,
       "word": "双11一键价保有多香",
       "onboard_time": 1668052828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10459,
+      "num": 290005,
+      "word": "今晚大家都是尾8人",
+      "onboard_time": 1668078026,
       "rank": 14,
       "category": "社会新闻"
     },
