@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668108829896,
+  "endTime": 1668111894205,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -20531,6 +20531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33751,
+      "num": 33751,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33527,
       "num": 45967,
       "word": "养孩子对狗狗不好",
@@ -20665,14 +20673,6 @@
       "onboard_time": 1667689275,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24432,
-      "num": 24432,
-      "word": "重庆疫情辟谣",
-      "onboard_time": 1668107353,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24330,

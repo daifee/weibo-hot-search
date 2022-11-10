@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 03:33:49
+本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 04:24:54
 </p>
 </blockquote>
 <p>
@@ -6747,6 +6747,12 @@ crocs拖鞋包装袋里封存一只蟑螂（热度：58337）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%23" target="weibo">
+重庆疫情辟谣（热度：33751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%AD%A9%E5%AD%90%E5%AF%B9%E7%8B%97%E7%8B%97%E4%B8%8D%E5%A5%BD%23" target="weibo">
 养孩子对狗狗不好（热度：33527）
 </a>
@@ -6779,12 +6785,6 @@ HYBE艺人明年活动计划（热度：28322）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E6%B9%96%E5%8D%97%E5%A7%91%E5%A8%98%E6%88%98%E8%88%B0%E4%B8%8A%E6%93%8D%E4%BD%9C%E5%AF%BC%E5%BC%B9%E8%B6%85%E9%A3%92%23" target="weibo">
 95后湖南姑娘战舰上操作导弹超飒（热度：26158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%23" target="weibo">
-重庆疫情辟谣（热度：24432）
 </a>
 </li>
 
