@@ -1,0 +1,410 @@
+{
+  "runTime": 1668116262937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124451,
+        "num": 124451,
+        "word": "肠胃不好的人一定要看看",
+        "onboard_time": 1668086186,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85514,
+        "num": 85514,
+        "word": "战长沙疑似被恶意评分",
+        "onboard_time": 1668101237,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8204,
+        "num": 67529,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 66920,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63881,
+        "num": 63881,
+        "word": "英国国王查尔斯三世被扔鸡蛋",
+        "onboard_time": 1668088585,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 56732,
+        "num": 56732,
+        "word": "杀人犯潜逃29年被抓时成千万富翁",
+        "onboard_time": 1668089368,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55338,
+        "num": 55338,
+        "word": "广州疫情防控",
+        "onboard_time": 1668079226,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50998,
+        "num": 50998,
+        "word": "匈牙利同意刘氏兄弟更改国籍",
+        "onboard_time": 1668090568,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42378,
+        "num": 42378,
+        "word": "广州番禺全区一半镇街出现病例",
+        "onboard_time": 1668092067,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38483,
+        "num": 38483,
+        "word": "距离上班地方仅1.8米是啥体验",
+        "onboard_time": 1668095366,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67559,
+        "num": 38283,
+        "word": "警方通报女童在幼儿园意外身亡",
+        "onboard_time": 1668101657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37907,
+        "num": 37907,
+        "word": "少爷和我",
+        "onboard_time": 1668093208,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37372,
+        "num": 37372,
+        "word": "你实现睡眠自由了吗",
+        "onboard_time": 1668099021,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36577,
+        "num": 36577,
+        "word": "疯狂小杨哥称绝不避税",
+        "onboard_time": 1668082404,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31692,
+        "num": 31692,
+        "word": "新疆新增无症状657例",
+        "onboard_time": 1668103934,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29240,
+        "num": 29240,
+        "word": "陈小纭新剧人设好夹",
+        "onboard_time": 1668086966,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26284,
+        "num": 26284,
+        "word": "真的会反反复复爱一个人吗",
+        "onboard_time": 1668093628,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25131,
+        "num": 25131,
+        "word": "TVB余子明去世",
+        "onboard_time": 1668083544,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23419,
+        "num": 23419,
+        "word": "全网唯二的观众居然认亲了",
+        "onboard_time": 1668080727,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21266,
+        "num": 21266,
+        "word": "寻找吉林18岁失联女孩",
+        "onboard_time": 1668090028,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30869,
+        "num": 21248,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21195,
+        "num": 21195,
+        "word": "王鹤棣被鸡踹到头",
+        "onboard_time": 1668098303,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20240,
+        "num": 20240,
+        "word": "台湾之光只有电池里的电是台湾造的",
+        "onboard_time": 1668079764,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18654,
+        "num": 18654,
+        "word": "美国10月CPI同比上涨7.7%",
+        "onboard_time": 1668090388,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18609,
+        "num": 18609,
+        "word": "白敬亭田曦薇新剧醉酒吻",
+        "onboard_time": 1668082163,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18232,
+        "num": 18232,
+        "word": "重庆疫情辟谣",
+        "onboard_time": 1668107353,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17957,
+        "num": 17957,
+        "word": "中国首位女战神的战斗力到底有多强",
+        "onboard_time": 1668093927,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17717,
+        "num": 17717,
+        "word": "母女吵架双双爬上15米高塔被困",
+        "onboard_time": 1668088888,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17520,
+        "num": 17520,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17031,
+        "num": 17031,
+        "word": "点燃我温暖你第14集封神了",
+        "onboard_time": 1668087988,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30267,
+        "num": 16984,
+        "word": "广东女子自家房子边洗菜边喂鱼",
+        "onboard_time": 1668111614,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 16789,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16404,
+        "num": 16404,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16371,
+        "num": 16371,
+        "word": "卿卿日常观后感",
+        "onboard_time": 1668084566,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15114,
+        "num": 15114,
+        "word": "广州荔湾区进一步强化管控措施",
+        "onboard_time": 1668089429,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15506,
+        "num": 15082,
+        "word": "卿卿日常",
+        "onboard_time": 1668076107,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14196,
+        "num": 14196,
+        "word": "女子水下偶遇顶级伪装大师",
+        "onboard_time": 1668081627,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13361,
+        "num": 13361,
+        "word": "李峋的审美",
+        "onboard_time": 1668100879,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13142,
+        "num": 13142,
+        "word": "当代女生为了省钱有多拼",
+        "onboard_time": 1668092968,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12691,
+        "num": 12691,
+        "word": "妈妈们是懂套娃的",
+        "onboard_time": 1668096265,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12554,
+        "num": 12554,
+        "word": "李薇每道菜只夹三次",
+        "onboard_time": 1668092728,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12503,
+        "num": 12503,
+        "word": "英格兰队公布世界杯大名单",
+        "onboard_time": 1668094045,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12429,
+        "num": 12429,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11886,
+        "num": 11886,
+        "word": "HYBE艺人明年活动计划",
+        "onboard_time": 1668108493,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11525,
+        "num": 11525,
+        "word": "黑豹2好看吗",
+        "onboard_time": 1668097885,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11306,
+        "num": 11306,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10869,
+        "num": 10869,
+        "word": "看嘴型是真爱吃",
+        "onboard_time": 1668089725,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10140,
+        "num": 10140,
+        "word": "凑单",
+        "onboard_time": 1668084446,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 10032,
+        "num": 10032,
+        "word": "男子几十秒勇救落水男童",
+        "onboard_time": 1668114252,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 8667,
+        "num": 9903,
+        "word": "FPX对阵OMG",
+        "onboard_time": 1668090746,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#直通2022世界互联网大会#"
+    }
+  }
+}

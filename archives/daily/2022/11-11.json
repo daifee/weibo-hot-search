@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668115289127,
+  "endTime": 1668116262937,
   "band_list": [
     {
       "raw_hot": 1107845,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30267,
+      "num": 16984,
+      "word": "广东女子自家房子边洗菜边喂鱼",
+      "onboard_time": 1668111614,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28322,
       "num": 18670,
       "word": "HYBE艺人明年活动计划",
       "onboard_time": 1668108493,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24889,
-      "num": 15803,
-      "word": "广东女子自家房子边洗菜边喂鱼",
-      "onboard_time": 1668111614,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16396,
@@ -491,7 +491,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8376,
+      "raw_hot": 10032,
       "num": 11120,
       "word": "男子几十秒勇救落水男童",
       "onboard_time": 1668114252,
