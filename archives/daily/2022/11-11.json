@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668118947662,
+  "endTime": 1668119963175,
   "band_list": [
     {
       "raw_hot": 1107845,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190836,
+      "num": 190836,
+      "word": "警方通报女童在幼儿园意外身亡",
+      "onboard_time": 1668101657,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185762,
       "num": 129136,
       "word": "全网唯二的观众居然认亲了",
@@ -233,14 +241,6 @@
       "onboard_time": 1668092728,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132341,
-      "num": 91504,
-      "word": "警方通报女童在幼儿园意外身亡",
-      "onboard_time": 1668101657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126465,
@@ -459,19 +459,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39415,
+      "num": 39415,
+      "word": "中国街舞盛典",
+      "onboard_time": 1668117012,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37383,
+      "num": 37383,
+      "word": "绒山羊神似慢羊羊",
+      "onboard_time": 1668118453,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35868,
+      "num": 35868,
+      "word": "男子几十秒勇救落水男童",
+      "onboard_time": 1668114252,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 33917,
+      "num": 33917,
+      "word": "广东女子自家房子边洗菜边喂鱼",
+      "onboard_time": 1668111614,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33751,
       "num": 33751,
       "word": "重庆疫情辟谣",
       "onboard_time": 1668107353,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30267,
-      "num": 21061,
-      "word": "广东女子自家房子边洗菜边喂鱼",
-      "onboard_time": 1668111614,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -483,36 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26754,
-      "num": 25441,
-      "word": "中国街舞盛典",
-      "onboard_time": 1668117012,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25388,
-      "num": 25388,
-      "word": "男子几十秒勇救落水男童",
-      "onboard_time": 1668114252,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 16396,
       "num": 668651,
       "word": "探馆中国航展航空航天馆",
       "onboard_time": 1668077066,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 13729,
-      "num": 13729,
-      "word": "绒山羊神似慢羊羊",
-      "onboard_time": 1668118453,
-      "rank": 46,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
