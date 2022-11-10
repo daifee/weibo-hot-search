@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/11 00:32:19 ~ 2022/11/11 02:27:51
+本榜单时间：2022/11/11 00:32:19 ~ 2022/11/11 02:44:41
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@ TVB余子明去世（热度：211298）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8E%BB%E5%B9%B4%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E4%BB%8A%E5%B9%B4%E9%87%91%E9%B8%A1%E4%B8%BB%E6%8C%81%23" target="weibo">
 张小斐去年金鸡影后今年金鸡主持（热度：149980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23" target="weibo">
+新疆新增无症状657例（热度：137382）
 </a>
 </li>
 
@@ -335,12 +341,6 @@ FPX对阵OMG（热度：68727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BB%AC%E6%98%AF%E6%87%82%E5%A5%97%E5%A8%83%E7%9A%84%23" target="weibo">
 妈妈们是懂套娃的（热度：54798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23" target="weibo">
-新疆新增无症状657例（热度：53976）
 </a>
 </li>
 
