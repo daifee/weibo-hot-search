@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668061717088,
+  "endTime": 1668062730256,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1352000,
+      "num": 1352000,
+      "word": "女子养了1年的多肉是塑料做的",
+      "onboard_time": 1668057448,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1348812,
       "num": 1347813,
       "word": "郑州平安街社区的万能的朋友圈",
@@ -409,14 +417,6 @@
       "onboard_time": 1667865206,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1148816,
-      "num": 1148816,
-      "word": "女子养了1年的多肉是塑料做的",
-      "onboard_time": 1668057448,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1145137,
@@ -739,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 829233,
+      "num": 829233,
+      "word": "叠纸",
+      "onboard_time": 1668060086,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 824752,
       "num": 824752,
       "word": "美国开出20.4亿美元彩票巨奖",
@@ -953,6 +961,14 @@
       "onboard_time": 1667830412,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 686625,
+      "num": 686625,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 686490,
@@ -2123,14 +2139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 411119,
-      "num": 411119,
-      "word": "叠纸",
-      "onboard_time": 1668060086,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 410429,
       "num": 410429,
       "word": "两男子深夜追赶女子被学生喝止",
@@ -2684,7 +2692,7 @@
     },
     {
       "raw_hot": 340661,
-      "num": 242807,
+      "num": 263103,
       "word": "孙俪被孩子打败的日常",
       "onboard_time": 1668057626,
       "rank": 21,
@@ -3387,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267244,
-      "num": 267244,
-      "word": "王俊凯 金鸡奖",
-      "onboard_time": 1668061223,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266416,
       "num": 266416,
       "word": "猫咪抢过主人手中食盆双爪捧碗吃",
@@ -3417,6 +3417,14 @@
       "onboard_time": 1667821406,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264723,
+      "num": 264723,
+      "word": "你同意手机买新不买旧吗",
+      "onboard_time": 1668057988,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 264573,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257626,
+      "num": 257626,
+      "word": "华为工程师回应问界M7安全性质疑",
+      "onboard_time": 1668059786,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 256532,
@@ -4011,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218519,
+      "num": 218519,
+      "word": "怪不得黑龙江这么多冬奥冠军",
+      "onboard_time": 1668057566,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217525,
       "num": 202838,
       "word": "男团刀群舞有多炸",
@@ -4179,28 +4203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205028,
-      "num": 236141,
-      "word": "华为工程师回应问界M7安全性质疑",
-      "onboard_time": 1668059786,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
       "onboard_time": 1667769913,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202932,
-      "num": 202932,
-      "word": "你同意手机买新不买旧吗",
-      "onboard_time": 1668057988,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 202907,
@@ -4452,7 +4460,7 @@
     },
     {
       "raw_hot": 190081,
-      "num": 177269,
+      "num": 179156,
       "word": "李峋的走马灯",
       "onboard_time": 1668059065,
       "rank": 30,
@@ -4481,14 +4489,6 @@
       "onboard_time": 1667808987,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189614,
-      "num": 189614,
-      "word": "怪不得黑龙江这么多冬奥冠军",
-      "onboard_time": 1668057566,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 189250,
@@ -5315,6 +5315,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 147725,
+      "num": 147725,
+      "word": "哪个瞬间你觉得读书有用",
+      "onboard_time": 1668059245,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "万能卡",
@@ -5353,6 +5361,14 @@
       "onboard_time": 1667829689,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145178,
+      "num": 145178,
+      "word": "楼上扔烟头烧了楼下阳台晒的被子",
+      "onboard_time": 1668060984,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144820,
@@ -5481,6 +5497,14 @@
       "onboard_time": 1667971166,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140713,
+      "num": 140713,
+      "word": "吸入用新冠疫苗进北京",
+      "onboard_time": 1668062246,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140151,
@@ -5745,6 +5769,14 @@
       "onboard_time": 1668007828,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129170,
+      "num": 129170,
+      "word": "你有职场二手烟的困扰吗",
+      "onboard_time": 1668062065,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129166,
@@ -6035,6 +6067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119167,
+      "num": 119167,
+      "word": "这就是养狗的好处吧",
+      "onboard_time": 1668057207,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118903,
       "num": 118903,
       "word": "再见爱人",
@@ -6105,14 +6145,6 @@
       "onboard_time": 1667880329,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114105,
-      "num": 114105,
-      "word": "这就是养狗的好处吧",
-      "onboard_time": 1668057207,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 113848,
@@ -6363,14 +6395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104389,
-      "num": 104389,
-      "word": "哪个瞬间你觉得读书有用",
-      "onboard_time": 1668059245,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104345,
       "num": 104345,
       "word": "广东新增本土感染者2528例",
@@ -6491,6 +6515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100695,
+      "num": 100695,
+      "word": "2025年居民拥有功能完备电子健康码",
+      "onboard_time": 1668062724,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100056,
       "num": 100056,
       "word": "萌娃消防站门口大哭不走如愿参观",
@@ -6579,6 +6611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97589,
+      "num": 97589,
+      "word": "詹姆斯30分8篮板",
+      "onboard_time": 1668062365,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97217,
+      "num": 97217,
+      "word": "快船战胜湖人",
+      "onboard_time": 1668059366,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96795,
       "num": 96795,
       "word": "歌尔股份否认被踢出果链",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1667744017,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96731,
+      "num": 96731,
+      "word": "为什么我们要坚定文化自信",
+      "onboard_time": 1668062604,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96635,
@@ -6675,12 +6731,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94047,
-      "num": 94047,
-      "word": "楼上扔烟头烧了楼下阳台晒的被子",
-      "onboard_time": 1668060984,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 94187,
+      "num": 94187,
+      "word": "副总师说需歼20出场时一定物有所值",
+      "onboard_time": 1668062185,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 93904,
@@ -6897,14 +6953,6 @@
       "onboard_time": 1667787686,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 88467,
-      "num": 88467,
-      "word": "快船战胜湖人",
-      "onboard_time": 1668059366,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 88192,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1668062730256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1352000,
+        "num": 1352000,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829233,
+        "num": 829233,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62323,
+        "num": 698132,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 686625,
+        "num": 686625,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442568,
+        "num": 442568,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 371012,
+        "num": 371012,
+        "word": "詹姆斯受伤",
+        "onboard_time": 1668059723,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312590,
+        "num": 312590,
+        "word": "员工躲厕所抽烟起火被辞索赔29万",
+        "onboard_time": 1668055228,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273614,
+        "num": 273614,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273432,
+        "num": 273432,
+        "word": "丈夫凌晨起床给坐月子妻子烧饭",
+        "onboard_time": 1668054147,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264723,
+        "num": 264723,
+        "word": "你同意手机买新不买旧吗",
+        "onboard_time": 1668057988,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1055656,
+        "num": 263982,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302991,
+        "num": 263730,
+        "word": "被掌掴男童母亲讲述事发经过",
+        "onboard_time": 1668053908,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263103,
+        "num": 263103,
+        "word": "孙俪被孩子打败的日常",
+        "onboard_time": 1668057626,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261094,
+        "num": 261094,
+        "word": "云之羽主演是虞书欣张凌赫",
+        "onboard_time": 1668054268,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257626,
+        "num": 257626,
+        "word": "华为工程师回应问界M7安全性质疑",
+        "onboard_time": 1668059786,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242058,
+        "num": 242058,
+        "word": "周深邓紫棋张栋梁时光音乐会2路透",
+        "onboard_time": 1668058826,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238399,
+        "num": 238399,
+        "word": "苹果发布iOS16.1.1正式版",
+        "onboard_time": 1668056547,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 237321,
+        "num": 237321,
+        "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+        "onboard_time": 1668049227,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227085,
+        "num": 227085,
+        "word": "肖战如梦之梦",
+        "onboard_time": 1668047007,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218519,
+        "num": 218519,
+        "word": "怪不得黑龙江这么多冬奥冠军",
+        "onboard_time": 1668057566,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206781,
+        "num": 206781,
+        "word": "母亲半夜发现1岁萌娃偷吃东西",
+        "onboard_time": 1668049524,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 194297,
+        "num": 194297,
+        "word": "时尚芭莎 婚庆公司",
+        "onboard_time": 1668049465,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193967,
+        "num": 193967,
+        "word": "金鸡奖",
+        "onboard_time": 1668054268,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186768,
+        "num": 186768,
+        "word": "房东送租户中秋礼退租时从押金扣",
+        "onboard_time": 1668055470,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181334,
+        "num": 181334,
+        "word": "林孝埈复出",
+        "onboard_time": 1668054509,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180178,
+        "num": 180178,
+        "word": "孙颖莎1比3孙铭阳",
+        "onboard_time": 1668052524,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304739,
+        "num": 179815,
+        "word": "王鹤棣说当队长没问题",
+        "onboard_time": 1668054326,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179156,
+        "num": 179156,
+        "word": "李峋的走马灯",
+        "onboard_time": 1668059065,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 159563,
+        "word": "扎克伯格就万人被裁视频致歉",
+        "onboard_time": 1668050246,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 20271,
+        "num": 158511,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173734,
+        "num": 158248,
+        "word": "鹿晗不插电音乐会定档",
+        "onboard_time": 1668055168,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157795,
+        "num": 157795,
+        "word": "星辰大海",
+        "onboard_time": 1668049346,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156265,
+        "num": 156265,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150695,
+        "num": 150695,
+        "word": "俄罗斯宣布从赫尔松撤军",
+        "onboard_time": 1668046228,
+        "rank": 33,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 147725,
+        "word": "哪个瞬间你觉得读书有用",
+        "onboard_time": 1668059245,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145178,
+        "num": 145178,
+        "word": "楼上扔烟头烧了楼下阳台晒的被子",
+        "onboard_time": 1668060984,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141013,
+        "num": 141013,
+        "word": "半个娱乐圈的人在来厦门的路上了",
+        "onboard_time": 1668037645,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "吸入用新冠疫苗进北京",
+        "onboard_time": 1668062246,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129170,
+        "num": 129170,
+        "word": "你有职场二手烟的困扰吗",
+        "onboard_time": 1668062065,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119167,
+        "num": 119167,
+        "word": "这就是养狗的好处吧",
+        "onboard_time": 1668057207,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114332,
+        "num": 114332,
+        "word": "没事不要随随便便去拆结婚照",
+        "onboard_time": 1668045925,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112114,
+        "num": 112114,
+        "word": "李峋是朱韵人生的第一次冒险",
+        "onboard_time": 1668056248,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102693,
+        "num": 102693,
+        "word": "福布斯发布中国内地富豪榜",
+        "onboard_time": 1668051566,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100695,
+        "num": 100695,
+        "word": "2025年居民拥有功能完备电子健康码",
+        "onboard_time": 1668062724,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97589,
+        "num": 97589,
+        "word": "詹姆斯30分8篮板",
+        "onboard_time": 1668062365,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97232,
+        "num": 97232,
+        "word": "张艺兴观战洛杉矶德比",
+        "onboard_time": 1668054567,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 97217,
+        "num": 97217,
+        "word": "快船战胜湖人",
+        "onboard_time": 1668059366,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96731,
+        "num": 96731,
+        "word": "为什么我们要坚定文化自信",
+        "onboard_time": 1668062604,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94187,
+        "num": 94187,
+        "word": "副总师说需歼20出场时一定物有所值",
+        "onboard_time": 1668062185,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91570,
+        "num": 91570,
+        "word": "119帮110开锁被大波吃瓜群众围观",
+        "onboard_time": 1668052647,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直通2022世界互联网大会#"
+    }
+  }
+}
