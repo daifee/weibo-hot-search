@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668073168396,
+  "endTime": 1668075890923,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1489707,
-      "num": 1489707,
+      "raw_hot": 1503793,
+      "num": 1503793,
       "word": "唐嫣首档常驻综艺官宣",
       "onboard_time": 1668071666,
       "rank": 4,
@@ -131,6 +131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 973402,
+      "num": 973402,
+      "word": "骑手小哥月入2万全款买138平新房",
+      "onboard_time": 1668070588,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944685,
       "num": 944685,
       "word": "GEN官宣ruler离队",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694115,
-      "num": 694115,
-      "word": "骑手小哥月入2万全款买138平新房",
-      "onboard_time": 1668070588,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647681,
       "num": 647681,
       "word": "扎克伯格就万人被裁视频致歉",
       "onboard_time": 1668050246,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 642433,
+      "num": 642433,
+      "word": "宋丹丹说王鹤棣条件太好了",
+      "onboard_time": 1668073705,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 636563,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565443,
+      "num": 565443,
+      "word": "青春环游记第四季拟邀阵容",
+      "onboard_time": 1668074246,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557924,
       "num": 557924,
       "word": "小伙开后备箱求婚戒指瞬间飞走",
@@ -249,6 +265,14 @@
       "onboard_time": 1668046228,
       "rank": 12,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 526386,
+      "num": 383515,
+      "word": "检方介入鲁某某掌掴幼童案",
+      "onboard_time": 1668070766,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519906,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 458754,
-      "num": 313179,
+      "num": 377687,
       "word": "张杰KTV唱忽然之间",
       "onboard_time": 1668072508,
       "rank": 10,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403988,
+      "num": 403988,
+      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+      "onboard_time": 1668069867,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402155,
       "num": 269622,
       "word": "飞机一下空投12吨水太震撼",
@@ -459,27 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 389632,
-      "num": 312443,
-      "word": "检方介入鲁某某掌掴幼童案",
-      "onboard_time": 1668070766,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386351,
       "num": 386351,
       "word": "医院回应男子多次闯入母婴室接水",
       "onboard_time": 1668036625,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384467,
-      "num": 384467,
-      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
-      "onboard_time": 1668069867,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -633,6 +649,14 @@
       "onboard_time": 1668025150,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293839,
+      "num": 293839,
+      "word": "我们的客栈",
+      "onboard_time": 1668074367,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 292495,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207858,
+      "num": 173529,
+      "word": "周柯宇官宣加盟无限超越班",
+      "onboard_time": 1668074425,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207723,
       "num": 207723,
       "word": "Jennie演唱会中途脚伤复发",
@@ -963,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185573,
+      "num": 185573,
+      "word": "从来就没有突然消失的爱",
+      "onboard_time": 1668071428,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184534,
       "num": 184534,
       "word": "如梦之梦",
@@ -977,6 +1017,14 @@
       "onboard_time": 1668069326,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176122,
+      "num": 176122,
+      "word": "可以花但不可以多花",
+      "onboard_time": 1668072448,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 176095,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 169182,
-      "num": 115586,
+      "num": 115843,
       "word": "另一位观众是用了什么优惠券",
       "onboard_time": 1668072087,
       "rank": 40,
@@ -1147,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145893,
+      "num": 145893,
+      "word": "这孩子在恐怖片里能活到结局",
+      "onboard_time": 1668073044,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143406,
       "num": 143406,
       "word": "卿卿日常全员持梗上岗",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1668048566,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "NBA吐槽大会",
+      "onboard_time": 1668073466,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 134265,
@@ -1267,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127116,
-      "num": 127116,
-      "word": "从来就没有突然消失的爱",
-      "onboard_time": 1668071428,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124738,
       "num": 124738,
       "word": "王曼昱3比0刘斐",
@@ -1336,6 +1392,14 @@
       "word": "这就是养狗的好处吧",
       "onboard_time": 1668057207,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116076,
+      "num": 116076,
+      "word": "让你消毒没让你给洗澡啊",
+      "onboard_time": 1668074187,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1411,12 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103343,
+      "num": 103343,
+      "word": "不建议通过拉伸来缓解腰痛",
+      "onboard_time": 1668073645,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103291,
       "num": 103291,
       "word": "贝佐斯财富减少830亿美元",
       "onboard_time": 1668052409,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 102814,
+      "num": 102814,
+      "word": "张超回应激情执教风格",
+      "onboard_time": 1668075506,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 100695,
@@ -1539,14 +1619,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 94079,
-      "num": 94079,
-      "word": "可以花但不可以多花",
-      "onboard_time": 1668072448,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93823,
       "num": 93823,
       "word": "罗云熙罗本六宫格剧照",
@@ -1635,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89601,
+      "num": 89601,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
@@ -1675,12 +1755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84736,
-      "num": 84736,
-      "word": "这孩子在恐怖片里能活到结局",
-      "onboard_time": 1668073044,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 85486,
+      "num": 85486,
+      "word": "喜欢谁就会找谁给自己讲题",
+      "onboard_time": 1668074066,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 83034,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1667998708,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81481,
+      "num": 81481,
+      "word": "拿捏芋泥脑袋的神仙甜品",
+      "onboard_time": 1668075565,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 79873,
@@ -1723,6 +1811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77848,
+      "num": 77848,
+      "word": "大学老师给全班分享家乡的萝卜",
+      "onboard_time": 1668075026,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77570,
+      "num": 77570,
+      "word": "买东西很快乐的幼崽",
+      "onboard_time": 1668074367,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76139,
       "num": 76139,
       "word": "西安外来入侵物种普查已展开",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1667986945,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73737,
+      "num": 73737,
+      "word": "原来这就叫以牙还牙",
+      "onboard_time": 1668074667,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 72292,
@@ -1795,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33121,
+      "num": 140634,
+      "word": "冬季室内运动别忘开窗通风",
+      "onboard_time": 1668071306,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32819,
       "num": 114719,
       "word": "这种稻子种1次可连续收获4年",
@@ -1809,14 +1929,6 @@
       "onboard_time": 1668000508,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 30961,
-      "num": 140634,
-      "word": "冬季室内运动别忘开窗通风",
-      "onboard_time": 1668071306,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26158,

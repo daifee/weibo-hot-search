@@ -1,0 +1,410 @@
+{
+  "runTime": 1668075890923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503793,
+        "num": 1503793,
+        "word": "唐嫣首档常驻综艺官宣",
+        "onboard_time": 1668071666,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985534,
+        "num": 985534,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37130,
+        "num": 974866,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973402,
+        "num": 973402,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706533,
+        "num": 706533,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642433,
+        "num": 642433,
+        "word": "宋丹丹说王鹤棣条件太好了",
+        "onboard_time": 1668073705,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565443,
+        "num": 565443,
+        "word": "青春环游记第四季拟邀阵容",
+        "onboard_time": 1668074246,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538900,
+        "num": 538900,
+        "word": "GEN官宣ruler离队",
+        "onboard_time": 1668070828,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403988,
+        "num": 403988,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288885,
+        "num": 383719,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526386,
+        "num": 383515,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377687,
+        "num": 377687,
+        "word": "张杰KTV唱忽然之间",
+        "onboard_time": 1668072508,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293839,
+        "num": 293839,
+        "word": "我们的客栈",
+        "onboard_time": 1668074367,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266385,
+        "num": 266385,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254697,
+        "num": 254697,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250787,
+        "num": 250787,
+        "word": "北京疫情发布会",
+        "onboard_time": 1668071185,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204813,
+        "num": 204813,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201207,
+        "num": 201207,
+        "word": "武汉小伙发现加拿大一枝黄花",
+        "onboard_time": 1668066445,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185573,
+        "num": 185573,
+        "word": "从来就没有突然消失的爱",
+        "onboard_time": 1668071428,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176122,
+        "num": 176122,
+        "word": "可以花但不可以多花",
+        "onboard_time": 1668072448,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 739855,
+        "num": 175543,
+        "word": "张馨予晒何捷探班vlog",
+        "onboard_time": 1668069746,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207858,
+        "num": 173529,
+        "word": "周柯宇官宣加盟无限超越班",
+        "onboard_time": 1668074425,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168691,
+        "num": 168691,
+        "word": "李峋朱韵在雪地里相爱",
+        "onboard_time": 1668063923,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158667,
+        "num": 158667,
+        "word": "想吃1条魔鬼鱼没点胆量还真不行",
+        "onboard_time": 1668068846,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145893,
+        "num": 145893,
+        "word": "这孩子在恐怖片里能活到结局",
+        "onboard_time": 1668073044,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139573,
+        "num": 139573,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135357,
+        "num": 135357,
+        "word": "NBA吐槽大会",
+        "onboard_time": 1668073466,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134506,
+        "num": 134506,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116659,
+        "num": 116659,
+        "word": "大娘体力不支误把警车当出租车",
+        "onboard_time": 1668063326,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33121,
+        "num": 116620,
+        "word": "冬季室内运动别忘开窗通风",
+        "onboard_time": 1668071306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166616,
+        "num": 116428,
+        "word": "张艺兴与伦纳德比手掌大小",
+        "onboard_time": 1668065424,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 163951,
+        "num": 116392,
+        "word": "李薇刚结婚就想把尹峥送走",
+        "onboard_time": 1668068367,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155150,
+        "num": 116264,
+        "word": "汤唯这是在全球电影节刷脸吧",
+        "onboard_time": 1668065724,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141946,
+        "num": 116179,
+        "word": "杨幂医学台词说得好溜",
+        "onboard_time": 1668070828,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116076,
+        "num": 116076,
+        "word": "让你消毒没让你给洗澡啊",
+        "onboard_time": 1668074187,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129729,
+        "num": 115843,
+        "word": "另一位观众是用了什么优惠券",
+        "onboard_time": 1668072087,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111845,
+        "num": 111845,
+        "word": "夫妻帮离世邻居照顾残障儿子41年",
+        "onboard_time": 1668062965,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103343,
+        "num": 103343,
+        "word": "不建议通过拉伸来缓解腰痛",
+        "onboard_time": 1668073645,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102814,
+        "num": 102814,
+        "word": "张超回应激情执教风格",
+        "onboard_time": 1668075506,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91414,
+        "num": 91414,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 91158,
+        "word": "白敬亭田曦薇新剧见面好抓马",
+        "onboard_time": 1668070167,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89601,
+        "num": 89601,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89083,
+        "num": 89083,
+        "word": "飞机一下空投12吨水太震撼",
+        "onboard_time": 1668063143,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85486,
+        "num": 85486,
+        "word": "喜欢谁就会找谁给自己讲题",
+        "onboard_time": 1668074066,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81481,
+        "num": 81481,
+        "word": "拿捏芋泥脑袋的神仙甜品",
+        "onboard_time": 1668075565,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77848,
+        "num": 77848,
+        "word": "大学老师给全班分享家乡的萝卜",
+        "onboard_time": 1668075026,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77570,
+        "num": 77570,
+        "word": "买东西很快乐的幼崽",
+        "onboard_time": 1668074367,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77052,
+        "num": 77052,
+        "word": "楼上扔烟头烧了楼下阳台晒的被子",
+        "onboard_time": 1668060984,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75239,
+        "num": 75239,
+        "word": "苹果发布iOS16.1.1正式版",
+        "onboard_time": 1668056547,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73737,
+        "num": 73737,
+        "word": "原来这就叫以牙还牙",
+        "onboard_time": 1668074667,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#直通2022世界互联网大会#"
+    }
+  }
+}
