@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668053301337,
+  "endTime": 1668055736345,
   "band_list": [
     {
       "raw_hot": 1908062,
@@ -17,6 +17,14 @@
       "onboard_time": 1668037645,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1535578,
+      "num": 373250,
+      "word": "疑似鲁某某亲属上门致歉",
+      "onboard_time": 1668051747,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1305652,
@@ -83,8 +91,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777059,
-      "num": 777059,
+      "raw_hot": 823264,
+      "num": 823264,
+      "word": "王鹤棣说当队长没问题",
+      "onboard_time": 1668054326,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 779453,
+      "num": 779453,
       "word": "母亲半夜发现1岁萌娃偷吃东西",
       "onboard_time": 1668049524,
       "rank": 4,
@@ -99,11 +115,35 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 647681,
+      "num": 647681,
+      "word": "扎克伯格就万人被裁视频致歉",
+      "onboard_time": 1668050246,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 636563,
+      "num": 636563,
+      "word": "孙颖莎1比3孙铭阳",
+      "onboard_time": 1668052524,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 557924,
       "num": 557924,
       "word": "小伙开后备箱求婚戒指瞬间飞走",
       "onboard_time": 1668042270,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529816,
+      "num": 529816,
+      "word": "广州新增本土感染者2555例",
+      "onboard_time": 1668048686,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -147,28 +187,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 496460,
-      "num": 496460,
-      "word": "孙颖莎1比3孙铭阳",
-      "onboard_time": 1668052524,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 487038,
       "num": 487038,
       "word": "肖战白百何骄阳伴我雨天路透",
       "onboard_time": 1668050966,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 482371,
-      "num": 482371,
-      "word": "广州新增本土感染者2555例",
-      "onboard_time": 1668048686,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479084,
@@ -195,20 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462061,
-      "num": 373250,
-      "word": "疑似鲁某某亲属上门致歉",
-      "onboard_time": 1668051747,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460348,
-      "num": 408573,
-      "word": "扎克伯格就万人被裁视频致歉",
-      "onboard_time": 1668050246,
-      "rank": 11,
-      "category": "科技,社会新闻"
+      "raw_hot": 460307,
+      "num": 460307,
+      "word": "云之羽主演是虞书欣张凌赫",
+      "onboard_time": 1668054268,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 453549,
@@ -235,12 +251,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425628,
+      "num": 357504,
+      "word": "金鸡奖",
+      "onboard_time": 1668054268,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422204,
+      "num": 353267,
+      "word": "肖战如梦之梦",
+      "onboard_time": 1668047007,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406443,
       "num": 406443,
       "word": "鸟鸟文本",
       "onboard_time": 1668007108,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393588,
+      "num": 346131,
+      "word": "被掌掴男童母亲讲述事发经过",
+      "onboard_time": 1668053908,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386351,
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347807,
+      "num": 276745,
+      "word": "鹿晗不插电音乐会定档",
+      "onboard_time": 1668055168,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 347321,
       "num": 347321,
       "word": "FPX世界赛夺冠三周年",
@@ -289,6 +337,14 @@
       "onboard_time": 1668008728,
       "rank": 15,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 330900,
+      "num": 330900,
+      "word": "福布斯发布中国内地富豪榜",
+      "onboard_time": 1668051566,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 325581,
@@ -315,12 +371,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293710,
+      "num": 293710,
+      "word": "中国内地富豪榜仅2人财富增长",
+      "onboard_time": 1668052409,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290991,
+      "num": 271154,
+      "word": "张艺兴观战洛杉矶德比",
+      "onboard_time": 1668054567,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 287062,
       "num": 287062,
       "word": "周震南父亲公司未履行总金额超3亿",
       "onboard_time": 1668038006,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286364,
+      "num": 286364,
+      "word": "林孝埈复出",
+      "onboard_time": 1668054509,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 285502,
@@ -435,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207407,
+      "num": 207407,
+      "word": "掌掴幼童男子家属疑似下跪求谅解",
+      "onboard_time": 1668052107,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206059,
       "num": 206059,
       "word": "广州封控区滞留宠物的守护者",
@@ -449,14 +537,6 @@
       "onboard_time": 1667992106,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 205019,
-      "num": 205019,
-      "word": "福布斯发布中国内地富豪榜",
-      "onboard_time": 1668051566,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 202974,
@@ -500,11 +580,19 @@
     },
     {
       "raw_hot": 194061,
-      "num": 164841,
+      "num": 176623,
       "word": "盘点疯狂小杨哥商业版图",
       "onboard_time": 1668047847,
       "rank": 30,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 185285,
+      "num": 185285,
+      "word": "丈夫凌晨起床给坐月子妻子烧饭",
+      "onboard_time": 1668054147,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184534,
@@ -513,6 +601,14 @@
       "onboard_time": 1668006029,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183169,
+      "num": 183169,
+      "word": "王者荣耀IP新游首次亮相",
+      "onboard_time": 1668051387,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 175663,
@@ -547,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166253,
+      "num": 166253,
+      "word": "119帮110开锁被大波吃瓜群众围观",
+      "onboard_time": 1668052647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165909,
       "num": 165909,
       "word": "导演丁晟推荐张艺上入选星辰大海",
@@ -571,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157837,
-      "num": 157837,
-      "word": "王者荣耀IP新游首次亮相",
-      "onboard_time": 1668051387,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 158479,
+      "num": 146652,
+      "word": "NewJeans将12月19日发行先行曲",
+      "onboard_time": 1668055347,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 156936,
@@ -592,6 +696,14 @@
       "word": "宁晋疫情防控",
       "onboard_time": 1668036256,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153825,
+      "num": 153825,
+      "word": "90后宝妈做陪诊师1天收费298元",
+      "onboard_time": 1668051264,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -619,28 +731,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 149089,
-      "num": 149089,
-      "word": "90后宝妈做陪诊师1天收费298元",
-      "onboard_time": 1668051264,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141111,
-      "num": 141111,
-      "word": "中国内地富豪榜仅2人财富增长",
-      "onboard_time": 1668052409,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
       "onboard_time": 1668051205,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137329,
+      "num": 137329,
+      "word": "点燃我温暖你第14集预告",
+      "onboard_time": 1668053127,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 136895,
@@ -715,11 +819,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125398,
-      "num": 125398,
-      "word": "掌掴幼童男子家属疑似下跪求谅解",
-      "onboard_time": 1668052107,
-      "rank": 40,
+      "raw_hot": 123351,
+      "num": 123351,
+      "word": "员工躲厕所抽烟起火被辞索赔29万",
+      "onboard_time": 1668055228,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -771,20 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113126,
-      "num": 113126,
-      "word": "119帮110开锁被大波吃瓜群众围观",
-      "onboard_time": 1668052647,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111917,
-      "num": 111917,
-      "word": "点燃我温暖你第14集预告",
-      "onboard_time": 1668053127,
+      "raw_hot": 112576,
+      "num": 112576,
+      "word": "房东送租户中秋礼退租时从押金扣",
+      "onboard_time": 1668055470,
       "rank": 47,
-      "category": "影视"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111774,
@@ -809,6 +905,14 @@
       "onboard_time": 1668013339,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "奶奶养猫的真实写照",
+      "onboard_time": 1668055709,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103565,
@@ -940,7 +1044,7 @@
     },
     {
       "raw_hot": 79873,
-      "num": 130468,
+      "num": 147853,
       "word": "中国车获欧洲国际大奖",
       "onboard_time": 1668052828,
       "rank": 39,
@@ -987,8 +1091,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57021,
-      "num": 762610,
+      "raw_hot": 64200,
+      "num": 779465,
       "word": "裸眼3D看中国航展",
       "onboard_time": 1668051986,
       "rank": 2,
