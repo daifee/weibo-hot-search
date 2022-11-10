@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668086156624,
+  "endTime": 1668088397278,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1155357,
-      "num": 1155357,
+      "raw_hot": 1173902,
+      "num": 1173902,
       "word": "TVB余子明去世",
       "onboard_time": 1668083544,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1668045446,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1026333,
+      "num": 1026333,
+      "word": "疯狂小杨哥称绝不避税",
+      "onboard_time": 1668082404,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1021990,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 804462,
-      "num": 804462,
-      "word": "疯狂小杨哥称绝不避税",
-      "onboard_time": 1668082404,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 779453,
       "num": 779453,
       "word": "母亲半夜发现1岁萌娃偷吃东西",
@@ -225,6 +225,14 @@
       "onboard_time": 1668067525,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679353,
+      "num": 679353,
+      "word": "少爷和我吸血鬼篇",
+      "onboard_time": 1668087387,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 667561,
@@ -313,6 +321,14 @@
       "onboard_time": 1668076284,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 539447,
+      "num": 539447,
+      "word": "洗发水",
+      "onboard_time": 1668083662,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 529816,
@@ -425,6 +441,14 @@
       "onboard_time": 1668045925,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461961,
+      "num": 301803,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 460307,
@@ -691,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344409,
-      "num": 344409,
-      "word": "洗发水",
-      "onboard_time": 1668083662,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 342771,
       "num": 342771,
       "word": "夫妻仅一墙之隔却要寄信交流",
@@ -819,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291799,
+      "num": 291799,
+      "word": "肠胃不好的人一定要看看",
+      "onboard_time": 1668086186,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288330,
       "num": 288330,
       "word": "六公主镜头下的翟子路",
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 282326,
-      "num": 116029,
+      "num": 158697,
       "word": "卿卿日常观后感",
       "onboard_time": 1668084566,
       "rank": 40,
@@ -968,6 +992,14 @@
       "word": "周深是命韵峋环的爱情开关",
       "onboard_time": 1668082944,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238826,
+      "num": 119136,
+      "word": "点燃我温暖你第14集封神了",
+      "onboard_time": 1668087988,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1115,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202526,
+      "num": 91657,
+      "word": "周冬雨金鸡奖造型路透",
+      "onboard_time": 1668077246,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "上铺真的忍了很久",
@@ -1163,12 +1203,28 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 193260,
+      "num": 193260,
+      "word": "樊振东晋级全锦赛四强",
+      "onboard_time": 1668087145,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192245,
       "num": 102321,
       "word": "NCTDREAM将发行首张日文单曲",
       "onboard_time": 1668084324,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191477,
+      "num": 191477,
+      "word": "陈幸同3比2陈梦",
+      "onboard_time": 1668085462,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 190081,
@@ -1355,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154631,
+      "num": 154631,
+      "word": "凑单",
+      "onboard_time": 1668084446,
+      "rank": 27,
+      "category": "其它"
+    },
+    {
       "raw_hot": 154209,
       "num": 154209,
       "word": "宁晋疫情防控",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1668069927,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149085,
-      "num": 149085,
-      "word": "凑单",
-      "onboard_time": 1668084446,
-      "rank": 27,
-      "category": "其它"
     },
     {
       "raw_hot": 147725,
@@ -1667,11 +1723,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117169,
-      "num": 117169,
-      "word": "陈幸同3比2陈梦",
-      "onboard_time": 1668085462,
-      "rank": 28,
+      "raw_hot": 117210,
+      "num": 117210,
+      "word": "樊振东削球手上线",
+      "onboard_time": 1668088224,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2027,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87664,
+      "num": 92245,
+      "word": "原来猫是通过尾巴表达心情",
+      "onboard_time": 1668087566,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86313,
       "num": 86313,
       "word": "1面墙1个动作练全身",
@@ -2108,7 +2172,7 @@
     },
     {
       "raw_hot": 76354,
-      "num": 86167,
+      "num": 91545,
       "word": "这尾巴真是戳中了我的心巴",
       "onboard_time": 1668080905,
       "rank": 43,
@@ -2260,7 +2324,7 @@
     },
     {
       "raw_hot": 33461,
-      "num": 140634,
+      "num": 310140,
       "word": "冬季室内运动别忘开窗通风",
       "onboard_time": 1668071306,
       "rank": 29,
