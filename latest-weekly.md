@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 01:40:59
+本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 02:27:51
 </p>
 </blockquote>
 <p>
@@ -5547,6 +5547,12 @@ seventeen记者会新闻图（热度：123221）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方通报女童在幼儿园意外身亡（热度：104196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%23" target="weibo">
 我们是中国记者（热度：103844）
 </a>
@@ -6603,6 +6609,12 @@ crocs拖鞋包装袋里封存一只蟑螂（热度：58337）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23" target="weibo">
+新疆新增无症状657例（热度：53976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E5%8A%A0%E5%BC%BA%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%23" target="weibo">
 全面加强练兵备战（热度：53762）
 </a>
@@ -6755,12 +6767,6 @@ crocs拖鞋包装袋里封存一只蟑螂（热度：58337）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C96%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AE%88%E5%A2%9336%E8%BD%BD%23" target="weibo">
 山东96岁老人为烈士守墓36载（热度：29639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
-警方通报女童在幼儿园意外身亡（热度：28105）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/11 00:32:19 ~ 2022/11/11 01:40:59
+本榜单时间：2022/11/11 00:32:19 ~ 2022/11/11 02:27:51
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ TVB余子明去世（热度：211298）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方通报女童在幼儿园意外身亡（热度：104196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B9%8B%E5%85%89%E5%8F%AA%E6%9C%89%E7%94%B5%E6%B1%A0%E9%87%8C%E7%9A%84%E7%94%B5%E6%98%AF%E5%8F%B0%E6%B9%BE%E9%80%A0%E7%9A%84%23" target="weibo">
 台湾之光只有电池里的电是台湾造的（热度：101816）
 </a>
@@ -333,6 +339,12 @@ FPX对阵OMG（热度：68727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23" target="weibo">
+新疆新增无症状657例（热度：53976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%8536%E4%BE%8B%E6%97%A0%E7%A4%BE%E4%BC%9A%E9%9D%A2%23" target="weibo">
 北京朝阳新增感染者36例无社会面（热度：51640）
 </a>
@@ -341,12 +353,6 @@ FPX对阵OMG（热度：68727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%94%81%E8%BD%A6%E5%86%85%E5%A4%A7%E5%93%AD%E6%BB%A1%E8%BA%AB%E6%B1%97%23" target="weibo">
 夫妻吵架婴儿被锁车内大哭满身汗（热度：48845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
-警方通报女童在幼儿园意外身亡（热度：28105）
 </a>
 </li>
 
