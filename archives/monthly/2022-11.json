@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668070229421,
+  "endTime": 1668072207863,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -321,6 +321,14 @@
       "onboard_time": 1667476825,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2190207,
+      "num": 1541555,
+      "word": "韩国学生流行起梨泰院踩踏游戏",
+      "onboard_time": 1668067886,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2188529,
@@ -785,14 +793,6 @@
       "onboard_time": 1667895267,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1541555,
-      "num": 1541555,
-      "word": "韩国学生流行起梨泰院踩踏游戏",
-      "onboard_time": 1668067886,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1541303,
@@ -1891,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944685,
+      "num": 944685,
+      "word": "GEN官宣ruler离队",
+      "onboard_time": 1668070828,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 940413,
       "num": 940413,
       "word": "男子排尿疼痛取出鹅蛋大的结石",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1667894668,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878154,
+      "num": 878154,
+      "word": "唐嫣首档常驻综艺官宣",
+      "onboard_time": 1668071666,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 876147,
@@ -6043,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401534,
+      "num": 401534,
+      "word": "骑手小哥月入2万全款买138平新房",
+      "onboard_time": 1668070588,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400576,
       "num": 400576,
       "word": "暮色心约导演官宣任嘉伦杨颖主演",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1667446526,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389336,
+      "num": 389336,
+      "word": "河南部分乡镇收到协助富士康招工指标",
+      "onboard_time": 1668068425,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388782,
@@ -7280,14 +7312,6 @@
       "word": "轿车失灵男子126码行驶2小时",
       "onboard_time": 1667518040,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335996,
-      "num": 306679,
-      "word": "河南部分乡镇收到协助富士康招工指标",
-      "onboard_time": 1668068425,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -8667,6 +8691,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 279003,
+      "num": 279003,
+      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+      "onboard_time": 1668069867,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278997,
       "num": 278997,
       "word": "狐妖小红娘",
@@ -8697,6 +8729,22 @@
       "onboard_time": 1667893949,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278109,
+      "num": 278109,
+      "word": "李薇刚结婚就想把尹峥送走",
+      "onboard_time": 1668068367,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277904,
+      "num": 277904,
+      "word": "检方介入鲁某某掌掴幼童案",
+      "onboard_time": 1668070766,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277871,
@@ -9443,6 +9491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249744,
+      "num": 249744,
+      "word": "武汉小伙发现加拿大一枝黄花",
+      "onboard_time": 1668066445,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249582,
       "num": 249582,
       "word": "俞敏洪称上大学不仅是为找工作",
@@ -9505,14 +9561,6 @@
       "onboard_time": 1667827529,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247605,
-      "num": 247605,
-      "word": "武汉小伙发现加拿大一枝黄花",
-      "onboard_time": 1668066445,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245691,
@@ -9753,6 +9801,14 @@
       "onboard_time": 1668044726,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236212,
+      "num": 236212,
+      "word": "人民网评男子上门掌掴男童",
+      "onboard_time": 1668067107,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235879,
@@ -10073,6 +10129,14 @@
       "onboard_time": 1667717966,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228089,
+      "num": 190168,
+      "word": "杨幂医学台词说得好溜",
+      "onboard_time": 1668070828,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 228024,
@@ -11771,14 +11835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186176,
-      "num": 186176,
-      "word": "人民网评男子上门掌掴男童",
-      "onboard_time": 1668067107,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185976,
       "num": 97106,
       "word": "胡歌繁花转身氛围感",
@@ -12163,6 +12219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176095,
+      "num": 133642,
+      "word": "陈哈琳主演金鸡奖宣传片",
+      "onboard_time": 1668071546,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175961,
       "num": 175961,
       "word": "刘雨昕我和我舞台首秀",
@@ -12249,14 +12313,6 @@
       "onboard_time": 1667466925,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173202,
-      "num": 173202,
-      "word": "李薇刚结婚就想把尹峥送走",
-      "onboard_time": 1668068367,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 173004,
@@ -12721,6 +12777,14 @@
       "onboard_time": 1667393425,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162902,
+      "num": 162902,
+      "word": "想吃1条魔鬼鱼没点胆量还真不行",
+      "onboard_time": 1668068846,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162700,
@@ -13467,6 +13531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149665,
+      "num": 127187,
+      "word": "白敬亭田曦薇新剧见面好抓马",
+      "onboard_time": 1668070167,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "乐队的海边官宣定档1111",
@@ -13673,6 +13745,14 @@
       "onboard_time": 1667988986,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 146508,
+      "num": 126384,
+      "word": "卿卿日常提前更新",
+      "onboard_time": 1668070348,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 146443,
@@ -14291,6 +14371,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 135655,
+      "num": 98361,
+      "word": "另一位观众是用了什么优惠券",
+      "onboard_time": 1668072087,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "当猫咪穿上羽绒服后",
@@ -14505,6 +14593,14 @@
       "onboard_time": 1667726426,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131814,
+      "num": 98136,
+      "word": "王鹤棣换装视频",
+      "onboard_time": 1668071007,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131798,
@@ -15353,14 +15449,6 @@
       "onboard_time": 1667746052,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118958,
-      "num": 118958,
-      "word": "想吃1条魔鬼鱼没点胆量还真不行",
-      "onboard_time": 1668068846,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118852,
@@ -16587,6 +16675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98766,
+      "num": 98766,
+      "word": "林高远周启豪3比2孙闻赵子豪",
+      "onboard_time": 1668069386,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98709,
       "num": 98709,
       "word": "马斯克称除了裁员别无选择",
@@ -16875,14 +16971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94455,
-      "num": 94455,
-      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
-      "onboard_time": 1668069867,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94451,
       "num": 1029035,
       "word": "中国国际进口博览会",
@@ -17075,6 +17163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92612,
+      "num": 92612,
+      "word": "浙江广电ZMG浙先行融未来",
+      "onboard_time": 1668071907,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "11月4日新增本土确诊596例",
@@ -17131,6 +17227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91819,
+      "num": 91819,
+      "word": "囤货能有多解压",
+      "onboard_time": 1668071606,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 91805,
       "num": 91805,
       "word": "新能源车对环保贡献有多大",
@@ -17144,14 +17248,6 @@
       "word": "谁能拒绝阿瑟叫公主殿下",
       "onboard_time": 1667806466,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 91691,
-      "num": 91332,
-      "word": "白敬亭田曦薇新剧见面好抓马",
-      "onboard_time": 1668070167,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -17169,6 +17265,14 @@
       "onboard_time": 1667309248,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 91411,
+      "num": 91411,
+      "word": "从来就没有突然消失的爱",
+      "onboard_time": 1668071428,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 91360,
@@ -17232,6 +17336,14 @@
       "word": "天冷养生的正确方式",
       "onboard_time": 1667739028,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90522,
+      "num": 90522,
+      "word": "一个抱抱释放了120%的压力",
+      "onboard_time": 1668071966,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -17449,14 +17561,6 @@
       "onboard_time": 1668068964,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88436,
-      "num": 88436,
-      "word": "林高远周启豪3比2孙闻赵子豪",
-      "onboard_time": 1668069386,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 88192,
@@ -17969,6 +18073,14 @@
       "onboard_time": 1667315372,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83068,
+      "num": 83068,
+      "word": "原来大家都会对暗号",
+      "onboard_time": 1668072147,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 82819,
@@ -19745,6 +19857,14 @@
       "onboard_time": 1667507952,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20679,
+      "num": 140634,
+      "word": "冬季室内运动别忘开窗通风",
+      "onboard_time": 1668071306,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19691,

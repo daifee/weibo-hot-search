@@ -1,7 +1,15 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668070229421,
+  "endTime": 1668072207863,
   "band_list": [
+    {
+      "raw_hot": 2190207,
+      "num": 1541555,
+      "word": "韩国学生流行起梨泰院踩踏游戏",
+      "onboard_time": 1668067886,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1997765,
       "num": 1997765,
@@ -41,14 +49,6 @@
       "onboard_time": 1668069746,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1541555,
-      "num": 1541555,
-      "word": "韩国学生流行起梨泰院踩踏游戏",
-      "onboard_time": 1668067886,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1352000,
@@ -123,6 +123,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 944685,
+      "num": 944685,
+      "word": "GEN官宣ruler离队",
+      "onboard_time": 1668070828,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 936868,
       "num": 936868,
       "word": "王鹤棣说当队长没问题",
@@ -137,6 +145,14 @@
       "onboard_time": 1668049465,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 878154,
+      "num": 878154,
+      "word": "唐嫣首档常驻综艺官宣",
+      "onboard_time": 1668071666,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 870028,
@@ -403,6 +419,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 401534,
+      "num": 401534,
+      "word": "骑手小哥月入2万全款买138平新房",
+      "onboard_time": 1668070588,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392204,
       "num": 392204,
       "word": "詹姆斯受伤",
@@ -417,6 +441,14 @@
       "onboard_time": 1668066144,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389336,
+      "num": 389336,
+      "word": "河南部分乡镇收到协助富士康招工指标",
+      "onboard_time": 1668068425,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386351,
@@ -513,14 +545,6 @@
       "onboard_time": 1668057626,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335996,
-      "num": 306679,
-      "word": "河南部分乡镇收到协助富士康招工指标",
-      "onboard_time": 1668068425,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330926,
@@ -635,6 +659,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279003,
+      "num": 279003,
+      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+      "onboard_time": 1668069867,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278109,
+      "num": 278109,
+      "word": "李薇刚结婚就想把尹峥送走",
+      "onboard_time": 1668068367,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277904,
+      "num": 277904,
+      "word": "检方介入鲁某某掌掴幼童案",
+      "onboard_time": 1668070766,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276576,
       "num": 348667,
       "word": "3岁女童颅内出血铁骑嘶吼开道送医",
@@ -683,8 +731,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247605,
-      "num": 247605,
+      "raw_hot": 249744,
+      "num": 249744,
       "word": "武汉小伙发现加拿大一枝黄花",
       "onboard_time": 1668066445,
       "rank": 21,
@@ -705,6 +753,14 @@
       "onboard_time": 1668044726,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236212,
+      "num": 236212,
+      "word": "人民网评男子上门掌掴男童",
+      "onboard_time": 1668067107,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232560,
@@ -729,6 +785,14 @@
       "onboard_time": 1668038367,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228089,
+      "num": 190168,
+      "word": "杨幂医学台词说得好溜",
+      "onboard_time": 1668070828,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 223760,
@@ -883,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186176,
-      "num": 186176,
-      "word": "人民网评男子上门掌掴男童",
-      "onboard_time": 1668067107,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184534,
       "num": 184534,
       "word": "如梦之梦",
@@ -907,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176095,
+      "num": 133642,
+      "word": "陈哈琳主演金鸡奖宣传片",
+      "onboard_time": 1668071546,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175663,
       "num": 175663,
       "word": "法证先锋5第14集不建议独自观看",
@@ -915,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173202,
-      "num": 173202,
-      "word": "李薇刚结婚就想把尹峥送走",
-      "onboard_time": 1668068367,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 175298,
+      "num": 175298,
+      "word": "北京疫情发布会",
+      "onboard_time": 1668071185,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172826,
@@ -961,6 +1025,14 @@
       "onboard_time": 1667999309,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162902,
+      "num": 162902,
+      "word": "想吃1条魔鬼鱼没点胆量还真不行",
+      "onboard_time": 1668068846,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161415,
@@ -1035,12 +1107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149665,
+      "num": 127187,
+      "word": "白敬亭田曦薇新剧见面好抓马",
+      "onboard_time": 1668070167,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147725,
       "num": 147725,
       "word": "哪个瞬间你觉得读书有用",
       "onboard_time": 1668059245,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146508,
+      "num": 126384,
+      "word": "卿卿日常提前更新",
+      "onboard_time": 1668070348,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 143406,
@@ -1091,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135655,
+      "num": 98361,
+      "word": "另一位观众是用了什么优惠券",
+      "onboard_time": 1668072087,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134265,
       "num": 134265,
       "word": "体温计碎裂护士打鸡蛋防汞中毒",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1667998648,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131814,
+      "num": 98136,
+      "word": "王鹤棣换装视频",
+      "onboard_time": 1668071007,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129756,
@@ -1217,14 +1321,6 @@
       "onboard_time": 1668057207,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118958,
-      "num": 118958,
-      "word": "想吃1条魔鬼鱼没点胆量还真不行",
-      "onboard_time": 1668068846,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115231,
@@ -1347,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98766,
+      "num": 98766,
+      "word": "林高远周启豪3比2孙闻赵子豪",
+      "onboard_time": 1668069386,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98626,
       "num": 98626,
       "word": "不期而至",
@@ -1411,14 +1515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94455,
-      "num": 94455,
-      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
-      "onboard_time": 1668069867,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94187,
       "num": 94187,
       "word": "副总师说需歼20出场时一定物有所值",
@@ -1451,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92612,
+      "num": 92612,
+      "word": "浙江广电ZMG浙先行融未来",
+      "onboard_time": 1668071907,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92177,
       "num": 92177,
       "word": "11月9日新增本土确诊1133例",
@@ -1459,12 +1563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91691,
-      "num": 91332,
-      "word": "白敬亭田曦薇新剧见面好抓马",
-      "onboard_time": 1668070167,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 91819,
+      "num": 91819,
+      "word": "囤货能有多解压",
+      "onboard_time": 1668071606,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 91555,
@@ -1473,6 +1577,22 @@
       "onboard_time": 1668007468,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91411,
+      "num": 91411,
+      "word": "从来就没有突然消失的爱",
+      "onboard_time": 1668071428,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90522,
+      "num": 90522,
+      "word": "一个抱抱释放了120%的压力",
+      "onboard_time": 1668071966,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90280,
@@ -1499,14 +1619,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 88436,
-      "num": 88436,
-      "word": "林高远周启豪3比2孙闻赵子豪",
-      "onboard_time": 1668069386,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87841,
       "num": 322277,
       "word": "中方回应美延续特朗普时期对华禁令",
@@ -1529,6 +1641,14 @@
       "onboard_time": 1668058227,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83068,
+      "num": 83068,
+      "word": "原来大家都会对暗号",
+      "onboard_time": 1668072147,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 83034,
@@ -1672,6 +1792,14 @@
       "word": "7种失眠类型你属于哪一种",
       "onboard_time": 1668030072,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20679,
+      "num": 140634,
+      "word": "冬季室内运动别忘开窗通风",
+      "onboard_time": 1668071306,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
