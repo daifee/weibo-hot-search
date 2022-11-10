@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668105881871,
+  "endTime": 1668107918350,
   "band_list": [
     {
       "raw_hot": 1107845,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "新疆新增无症状657例",
+      "onboard_time": 1668103934,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219260,
       "num": 132460,
       "word": "鲁某某家人登门下跪道歉求谅解",
@@ -209,14 +217,6 @@
       "onboard_time": 1668090869,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137382,
-      "num": 137382,
-      "word": "新疆新增无症状657例",
-      "onboard_time": 1668103934,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132919,
@@ -465,6 +465,14 @@
       "onboard_time": 1668077066,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 15348,
+      "num": 15348,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

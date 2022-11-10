@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668105881871,
+  "endTime": 1668107918350,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -10435,6 +10435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "新疆新增无症状657例",
+      "onboard_time": 1668103934,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -14817,14 +14825,6 @@
       "onboard_time": 1667693902,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137382,
-      "num": 137382,
-      "word": "新疆新增无症状657例",
-      "onboard_time": 1668103934,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137329,
@@ -20793,6 +20793,14 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15348,
+      "num": 15348,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14783,

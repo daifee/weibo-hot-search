@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668105881871,
+  "endTime": 1668107918350,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -4395,6 +4395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "新疆新增无症状657例",
+      "onboard_time": 1668103934,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229890,
       "num": 229890,
       "word": "RedVelvet将11月28日回归",
@@ -6448,14 +6456,6 @@
       "word": "年轻人初入职场会奖励自己什么",
       "onboard_time": 1667961324,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137382,
-      "num": 137382,
-      "word": "新疆新增无症状657例",
-      "onboard_time": 1668103934,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -9049,6 +9049,14 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15348,
+      "num": 15348,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14783,
