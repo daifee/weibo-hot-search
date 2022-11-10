@@ -1,0 +1,410 @@
+{
+  "runTime": 1668070229421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1990457,
+        "num": 1990457,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1541555,
+        "num": 1541555,
+        "word": "韩国学生流行起梨泰院踩踏游戏",
+        "onboard_time": 1668067886,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58093,
+        "num": 1238164,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1188304,
+        "num": 1188304,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708280,
+        "num": 708280,
+        "word": "多地宣布开展全民戴口罩行动",
+        "onboard_time": 1668067525,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566968,
+        "num": 566968,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464343,
+        "num": 464343,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432004,
+        "num": 432004,
+        "word": "汤唯这是在全球电影节刷脸吧",
+        "onboard_time": 1668065724,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341200,
+        "num": 341200,
+        "word": "国产剧姐弟恋天花板",
+        "onboard_time": 1668066144,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308648,
+        "num": 308648,
+        "word": "夫妻帮离世邻居照顾残障儿子41年",
+        "onboard_time": 1668062965,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663028,
+        "num": 308306,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335996,
+        "num": 306679,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285714,
+        "num": 285714,
+        "word": "大娘体力不支误把警车当出租车",
+        "onboard_time": 1668063326,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281729,
+        "num": 281729,
+        "word": "李峋朱韵在雪地里相爱",
+        "onboard_time": 1668063923,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2152,
+        "num": 254228,
+        "word": "沃尔沃纯电旗舰EX90首发",
+        "onboard_time": 1668067224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247894,
+        "num": 247894,
+        "word": "飞机一下空投12吨水太震撼",
+        "onboard_time": 1668063143,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 247605,
+        "num": 247605,
+        "word": "武汉小伙发现加拿大一枝黄花",
+        "onboard_time": 1668066445,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247052,
+        "num": 247052,
+        "word": "吸入用新冠疫苗进北京",
+        "onboard_time": 1668062246,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242120,
+        "num": 242120,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 230028,
+        "num": 230028,
+        "word": "东北一高校女生表演花滑惊艳全场",
+        "onboard_time": 1668064584,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1545850,
+        "num": 211627,
+        "word": "张馨予晒何捷探班vlog",
+        "onboard_time": 1668069746,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295168,
+        "num": 203572,
+        "word": "张艺兴与伦纳德比手掌大小",
+        "onboard_time": 1668065424,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186176,
+        "num": 186176,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183462,
+        "num": 183462,
+        "word": "刘耀文VCR说粤语",
+        "onboard_time": 1668069326,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174449,
+        "num": 174449,
+        "word": "男孩看完牙对牙医又搂又抱",
+        "onboard_time": 1668063505,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173202,
+        "num": 173202,
+        "word": "李薇刚结婚就想把尹峥送走",
+        "onboard_time": 1668068367,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170203,
+        "num": 170203,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162454,
+        "num": 162454,
+        "word": "seventeen将明年上半年回归",
+        "onboard_time": 1668065424,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142728,
+        "num": 142728,
+        "word": "楼上扔烟头烧了楼下阳台晒的被子",
+        "onboard_time": 1668060984,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118958,
+        "num": 118958,
+        "word": "想吃1条魔鬼鱼没点胆量还真不行",
+        "onboard_time": 1668068846,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150314,
+        "num": 118844,
+        "word": "无限超越班",
+        "onboard_time": 1668069927,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143931,
+        "num": 118183,
+        "word": "六公主镜头下的翟子路",
+        "onboard_time": 1668063087,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116086,
+        "num": 116086,
+        "word": "孙颖莎1比3孙铭阳",
+        "onboard_time": 1668052524,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115003,
+        "num": 115003,
+        "word": "你同意手机买新不买旧吗",
+        "onboard_time": 1668057988,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 10389,
+        "num": 114227,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114004,
+        "num": 114004,
+        "word": "詹姆斯受伤",
+        "onboard_time": 1668059723,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112922,
+        "num": 112922,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111119,
+        "num": 111119,
+        "word": "六公主镜头下的王鹤棣",
+        "onboard_time": 1668068723,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 109317,
+        "word": "金鸡奖",
+        "onboard_time": 1668054268,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108655,
+        "num": 108655,
+        "word": "华为工程师回应问界M7安全性质疑",
+        "onboard_time": 1668059786,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106570,
+        "num": 106570,
+        "word": "苹果发布iOS16.1.1正式版",
+        "onboard_time": 1668056547,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102717,
+        "num": 102717,
+        "word": "被掌掴男童母亲讲述事发经过",
+        "onboard_time": 1668053908,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101636,
+        "num": 101636,
+        "word": "星辰大海",
+        "onboard_time": 1668049346,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101630,
+        "num": 101630,
+        "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+        "onboard_time": 1668049227,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94455,
+        "num": 94455,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92792,
+        "num": 92792,
+        "word": "哪个瞬间你觉得读书有用",
+        "onboard_time": 1668059245,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91346,
+        "num": 91346,
+        "word": "丈夫凌晨起床给坐月子妻子烧饭",
+        "onboard_time": 1668054147,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91691,
+        "num": 91332,
+        "word": "白敬亭田曦薇新剧见面好抓马",
+        "onboard_time": 1668070167,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88436,
+        "num": 88436,
+        "word": "林高远周启豪3比2孙闻赵子豪",
+        "onboard_time": 1668069386,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87742,
+        "num": 87742,
+        "word": "母亲半夜发现1岁萌娃偷吃东西",
+        "onboard_time": 1668049524,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#直通2022世界互联网大会#"
+    }
+  }
+}
