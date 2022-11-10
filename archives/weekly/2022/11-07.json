@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668058077579,
+  "endTime": 1668058948990,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605494,
+      "num": 425132,
+      "word": "被掌掴男童母亲讲述事发经过",
+      "onboard_time": 1668053908,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603954,
       "num": 603954,
       "word": "金鸡奖",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1667912967,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 595415,
-      "num": 425132,
-      "word": "被掌掴男童母亲讲述事发经过",
-      "onboard_time": 1668053908,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595404,
@@ -1995,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 429983,
+      "num": 429983,
+      "word": "中国内地富豪榜仅2人财富增长",
+      "onboard_time": 1668052409,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428007,
       "num": 428007,
       "word": "这就是小说里的一眼万年吗",
@@ -2072,14 +2080,6 @@
       "word": "超七成高收入人群有脱发困扰",
       "onboard_time": 1667783070,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419582,
-      "num": 419582,
-      "word": "中国内地富豪榜仅2人财富增长",
-      "onboard_time": 1668052409,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2451,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359117,
+      "num": 359117,
+      "word": "丈夫凌晨起床给坐月子妻子烧饭",
+      "onboard_time": 1668054147,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "95后小伙鹤岗买房后云监工装修",
@@ -2579,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344371,
+      "num": 334926,
+      "word": "女子养了1年的多肉是塑料做的",
+      "onboard_time": 1668057448,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344329,
       "num": 344329,
       "word": "计算机二级",
@@ -2644,7 +2660,7 @@
     },
     {
       "raw_hot": 340661,
-      "num": 241753,
+      "num": 242807,
       "word": "孙俪被孩子打败的日常",
       "onboard_time": 1668057626,
       "rank": 21,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1667962826,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 330151,
-      "num": 330151,
-      "word": "丈夫凌晨起床给坐月子妻子烧饭",
-      "onboard_time": 1668054147,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329545,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1667967628,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307339,
+      "num": 307339,
+      "word": "苹果发布iOS16.1.1正式版",
+      "onboard_time": 1668056547,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 306955,
@@ -3451,12 +3467,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 258716,
+      "num": 188194,
+      "word": "周深邓紫棋张栋梁时光音乐会2路透",
+      "onboard_time": 1668058826,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258052,
       "num": 258052,
       "word": "欧文得到NBA总裁谅解",
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257261,
+      "num": 257261,
+      "word": "员工躲厕所抽烟起火被辞索赔29万",
+      "onboard_time": 1668055228,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256532,
@@ -3585,14 +3617,6 @@
       "onboard_time": 1667780608,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242342,
-      "num": 242342,
-      "word": "苹果发布iOS16.1.1正式版",
-      "onboard_time": 1668056547,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 241431,
@@ -4075,14 +4099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209673,
-      "num": 209673,
-      "word": "员工躲厕所抽烟起火被辞索赔29万",
-      "onboard_time": 1668055228,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209089,
       "num": 209089,
       "word": "真的有让蚊子都嫌弃的皮肤",
@@ -4467,20 +4483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187465,
+      "num": 187465,
+      "word": "李峋是朱韵人生的第一次冒险",
+      "onboard_time": 1668056248,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187462,
       "num": 187462,
       "word": "王者荣耀IP新游首次亮相",
       "onboard_time": 1668051387,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187429,
-      "num": 187429,
-      "word": "李峋是朱韵人生的第一次冒险",
-      "onboard_time": 1668056248,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 187341,
@@ -4553,6 +4569,14 @@
       "onboard_time": 1667887286,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182273,
+      "num": 182273,
+      "word": "房东送租户中秋礼退租时从押金扣",
+      "onboard_time": 1668055470,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181664,
@@ -4779,14 +4803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171565,
-      "num": 171565,
-      "word": "房东送租户中秋礼退租时从押金扣",
-      "onboard_time": 1668055470,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171528,
       "num": 166557,
       "word": "李峋怼过的话朱韵还回去",
@@ -4849,14 +4865,6 @@
       "onboard_time": 1667906970,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165993,
-      "num": 165993,
-      "word": "女子养了1年的多肉是塑料做的",
-      "onboard_time": 1668057448,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165909,
@@ -5571,6 +5579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134462,
+      "num": 134462,
+      "word": "你同意手机买新不买旧吗",
+      "onboard_time": 1668057988,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
@@ -5697,6 +5713,14 @@
       "onboard_time": 1667747971,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126309,
+      "num": 126309,
+      "word": "怪不得黑龙江这么多冬奥冠军",
+      "onboard_time": 1668057566,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 125896,
@@ -6043,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114105,
+      "num": 114105,
+      "word": "这就是养狗的好处吧",
+      "onboard_time": 1668057207,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113848,
       "num": 113848,
       "word": "歼20空中连续多个战术动作超震撼",
@@ -6185,14 +6217,6 @@
       "onboard_time": 1667925981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108271,
-      "num": 108271,
-      "word": "这就是养狗的好处吧",
-      "onboard_time": 1668057207,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 108008,
@@ -6401,14 +6425,6 @@
       "onboard_time": 1667957727,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101088,
-      "num": 101088,
-      "word": "怪不得黑龙江这么多冬奥冠军",
-      "onboard_time": 1668057566,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 100959,
@@ -6929,6 +6945,14 @@
       "onboard_time": 1667899286,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86313,
+      "num": 86313,
+      "word": "1面墙1个动作练全身",
+      "onboard_time": 1668058227,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 86312,
