@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668058948990,
+  "endTime": 1668061717088,
   "band_list": [
     {
       "raw_hot": 1908062,
@@ -57,6 +57,14 @@
       "onboard_time": 1667999848,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1148816,
+      "num": 1148816,
+      "word": "女子养了1年的多肉是塑料做的",
+      "onboard_time": 1668057448,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083566,
@@ -299,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411119,
+      "num": 411119,
+      "word": "叠纸",
+      "onboard_time": 1668060086,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406443,
       "num": 406443,
       "word": "鸟鸟文本",
       "onboard_time": 1668007108,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392204,
+      "num": 392204,
+      "word": "詹姆斯受伤",
+      "onboard_time": 1668059723,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 386351,
@@ -339,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 359138,
+      "num": 359138,
+      "word": "员工躲厕所抽烟起火被辞索赔29万",
+      "onboard_time": 1668055228,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359117,
       "num": 359117,
       "word": "丈夫凌晨起床给坐月子妻子烧饭",
@@ -361,14 +393,6 @@
       "onboard_time": 1668040410,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 344371,
-      "num": 334926,
-      "word": "女子养了1年的多肉是塑料做的",
-      "onboard_time": 1668057448,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342771,
@@ -411,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307339,
-      "num": 307339,
+      "raw_hot": 314934,
+      "num": 314934,
       "word": "苹果发布iOS16.1.1正式版",
       "onboard_time": 1668056547,
       "rank": 19,
@@ -483,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258716,
-      "num": 188194,
+      "raw_hot": 267244,
+      "num": 267244,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264573,
+      "num": 264573,
       "word": "周深邓紫棋张栋梁时光音乐会2路透",
       "onboard_time": 1668058826,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "员工躲厕所抽烟起火被辞索赔29万",
-      "onboard_time": 1668055228,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240753,
@@ -595,12 +619,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205028,
+      "num": 236141,
+      "word": "华为工程师回应问界M7安全性质疑",
+      "onboard_time": 1668059786,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 202974,
       "num": 202974,
       "word": "张超",
       "onboard_time": 1668009625,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "你同意手机买新不买旧吗",
+      "onboard_time": 1668057988,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 201586,
@@ -643,6 +683,30 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 190081,
+      "num": 177269,
+      "word": "李峋的走马灯",
+      "onboard_time": 1668059065,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189976,
+      "num": 189976,
+      "word": "房东送租户中秋礼退租时从押金扣",
+      "onboard_time": 1668055470,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189614,
+      "num": 189614,
+      "word": "怪不得黑龙江这么多冬奥冠军",
+      "onboard_time": 1668057566,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187465,
       "num": 187465,
       "word": "李峋是朱韵人生的第一次冒险",
@@ -665,14 +729,6 @@
       "onboard_time": 1668006029,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182273,
-      "num": 182273,
-      "word": "房东送租户中秋礼退租时从押金扣",
-      "onboard_time": 1668055470,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175663,
@@ -827,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134462,
-      "num": 134462,
-      "word": "你同意手机买新不买旧吗",
-      "onboard_time": 1668057988,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 134265,
       "num": 134265,
       "word": "体温计碎裂护士打鸡蛋防汞中毒",
@@ -881,14 +929,6 @@
       "onboard_time": 1668004710,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126309,
-      "num": 126309,
-      "word": "怪不得黑龙江这么多冬奥冠军",
-      "onboard_time": 1668057566,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 124738,
@@ -1011,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104389,
+      "num": 104389,
+      "word": "哪个瞬间你觉得读书有用",
+      "onboard_time": 1668059245,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103565,
       "num": 103565,
       "word": "莎头组合已经很棒了",
@@ -1051,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98081,
+      "num": 98081,
+      "word": "50米高抓娃娃机玩起绣花功夫",
+      "onboard_time": 1668061646,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97451,
       "num": 97451,
       "word": "咪咕",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1668014119,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94047,
+      "num": 94047,
+      "word": "楼上扔烟头烧了楼下阳台晒的被子",
+      "onboard_time": 1668060984,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93344,
@@ -1107,12 +1171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90280,
+      "num": 90280,
+      "word": "时代少年团三周年三时有声vlog",
+      "onboard_time": 1668059124,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
       "onboard_time": 1668036381,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88467,
+      "num": 88467,
+      "word": "快船战胜湖人",
+      "onboard_time": 1668059366,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 87841,

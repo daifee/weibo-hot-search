@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668058948990,
+  "endTime": 1668061717088,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -409,6 +409,14 @@
       "onboard_time": 1667865206,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148816,
+      "num": 1148816,
+      "word": "女子养了1年的多肉是塑料做的",
+      "onboard_time": 1668057448,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145137,
@@ -2115,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411119,
+      "num": 411119,
+      "word": "叠纸",
+      "onboard_time": 1668060086,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 410429,
       "num": 410429,
       "word": "两男子深夜追赶女子被学生喝止",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1667984487,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 392204,
+      "num": 392204,
+      "word": "詹姆斯受伤",
+      "onboard_time": 1668059723,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 392035,
@@ -2451,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359138,
+      "num": 359138,
+      "word": "员工躲厕所抽烟起火被辞索赔29万",
+      "onboard_time": 1668055228,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359117,
       "num": 359117,
       "word": "丈夫凌晨起床给坐月子妻子烧饭",
@@ -2584,14 +2616,6 @@
       "word": "福建一工厂日薪2千招聘缝纫工",
       "onboard_time": 1667909188,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344371,
-      "num": 334926,
-      "word": "女子养了1年的多肉是塑料做的",
-      "onboard_time": 1668057448,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2891,6 +2915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314934,
+      "num": 314934,
+      "word": "苹果发布iOS16.1.1正式版",
+      "onboard_time": 1668056547,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 311951,
       "num": 311951,
       "word": "北京新增本土感染者44例",
@@ -2929,14 +2961,6 @@
       "onboard_time": 1667967628,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307339,
-      "num": 307339,
-      "word": "苹果发布iOS16.1.1正式版",
-      "onboard_time": 1668056547,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 306955,
@@ -3363,6 +3387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267244,
+      "num": 267244,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266416,
       "num": 266416,
       "word": "猫咪抢过主人手中食盆双爪捧碗吃",
@@ -3385,6 +3417,14 @@
       "onboard_time": 1667821406,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264573,
+      "num": 264573,
+      "word": "周深邓紫棋张栋梁时光音乐会2路透",
+      "onboard_time": 1668058826,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 263810,
@@ -3467,28 +3507,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 258716,
-      "num": 188194,
-      "word": "周深邓紫棋张栋梁时光音乐会2路透",
-      "onboard_time": 1668058826,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258052,
       "num": 258052,
       "word": "欧文得到NBA总裁谅解",
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "员工躲厕所抽烟起火被辞索赔29万",
-      "onboard_time": 1668055228,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256532,
@@ -4155,12 +4179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205028,
+      "num": 236141,
+      "word": "华为工程师回应问界M7安全性质疑",
+      "onboard_time": 1668059786,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 204035,
       "num": 204035,
       "word": "人民网评供销社受关注",
       "onboard_time": 1667769913,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "你同意手机买新不买旧吗",
+      "onboard_time": 1668057988,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 202907,
@@ -4411,6 +4451,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190081,
+      "num": 177269,
+      "word": "李峋的走马灯",
+      "onboard_time": 1668059065,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189976,
+      "num": 189976,
+      "word": "房东送租户中秋礼退租时从押金扣",
+      "onboard_time": 1668055470,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189799,
       "num": 189799,
       "word": "这届00后把颜色玩明白了",
@@ -4425,6 +4481,14 @@
       "onboard_time": 1667808987,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189614,
+      "num": 189614,
+      "word": "怪不得黑龙江这么多冬奥冠军",
+      "onboard_time": 1668057566,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 189250,
@@ -4569,14 +4633,6 @@
       "onboard_time": 1667887286,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182273,
-      "num": 182273,
-      "word": "房东送租户中秋礼退租时从押金扣",
-      "onboard_time": 1668055470,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181664,
@@ -5579,14 +5635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134462,
-      "num": 134462,
-      "word": "你同意手机买新不买旧吗",
-      "onboard_time": 1668057988,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
@@ -5713,14 +5761,6 @@
       "onboard_time": 1667747971,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126309,
-      "num": 126309,
-      "word": "怪不得黑龙江这么多冬奥冠军",
-      "onboard_time": 1668057566,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 125896,
@@ -6323,6 +6363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104389,
+      "num": 104389,
+      "word": "哪个瞬间你觉得读书有用",
+      "onboard_time": 1668059245,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104345,
       "num": 104345,
       "word": "广东新增本土感染者2528例",
@@ -6515,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98081,
+      "num": 98081,
+      "word": "50米高抓娃娃机玩起绣花功夫",
+      "onboard_time": 1668061646,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97715,
       "num": 97715,
       "word": "北京新增本土感染者30例社会面1例",
@@ -6617,6 +6673,14 @@
       "onboard_time": 1667884289,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94047,
+      "num": 94047,
+      "word": "楼上扔烟头烧了楼下阳台晒的被子",
+      "onboard_time": 1668060984,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93904,
@@ -6755,6 +6819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90280,
+      "num": 90280,
+      "word": "时代少年团三周年三时有声vlog",
+      "onboard_time": 1668059124,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89987,
       "num": 89987,
       "word": "马内因伤无缘世界杯",
@@ -6825,6 +6897,14 @@
       "onboard_time": 1667787686,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 88467,
+      "num": 88467,
+      "word": "快船战胜湖人",
+      "onboard_time": 1668059366,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 88192,
