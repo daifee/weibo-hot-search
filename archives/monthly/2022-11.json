@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668094848674,
+  "endTime": 1668097939574,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1715,6 +1715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1021172,
+      "num": 1021172,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1015664,
       "num": 1015664,
       "word": "于文文刘恋再见面变尴尬了",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1667304386,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 782558,
-      "num": 782558,
-      "word": "少爷和我",
-      "onboard_time": 1668093208,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 782313,
@@ -3443,6 +3443,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 630169,
+      "num": 630169,
+      "word": "广州番禺全区一半镇街出现病例",
+      "onboard_time": 1668092067,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627668,
       "num": 627668,
       "word": "披荆斩棘总决赛排名",
@@ -3584,14 +3592,6 @@
       "word": "兰州强调坚决防止疫情防控简单化一刀切",
       "onboard_time": 1667363476,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611090,
-      "num": 611090,
-      "word": "广州番禺全区一半镇街出现病例",
-      "onboard_time": 1668092067,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -7556,7 +7556,7 @@
     },
     {
       "raw_hot": 338353,
-      "num": 210946,
+      "num": 315151,
       "word": "白敬亭田曦薇新剧醉酒吻",
       "onboard_time": 1668082163,
       "rank": 22,
@@ -8019,6 +8019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317962,
+      "num": 317962,
+      "word": "距离上班地方仅1.8米是啥体验",
+      "onboard_time": 1668095366,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317760,
       "num": 317760,
       "word": "管泽元的嘴",
@@ -8153,6 +8161,14 @@
       "onboard_time": 1667474605,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312682,
+      "num": 312682,
+      "word": "真的会反反复复爱一个人吗",
+      "onboard_time": 1668093628,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 312242,
@@ -8425,6 +8441,14 @@
       "onboard_time": 1667662468,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302250,
+      "num": 302250,
+      "word": "中国首位女战神的战斗力到底有多强",
+      "onboard_time": 1668093927,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301986,
@@ -13259,14 +13283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163226,
-      "num": 163226,
-      "word": "真的会反反复复爱一个人吗",
-      "onboard_time": 1668093628,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "用落叶堆了只小狗",
@@ -15099,6 +15115,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132919,
+      "num": 132919,
+      "word": "英格兰队公布世界杯大名单",
+      "onboard_time": 1668094045,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132815,
+      "num": 107477,
+      "word": "李薇每道菜只夹三次",
+      "onboard_time": 1668092728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132736,
       "num": 132736,
       "word": "曾舜晞田曦薇田耕纪种田花絮",
@@ -15217,14 +15249,6 @@
       "onboard_time": 1667751624,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131428,
-      "num": 131428,
-      "word": "中国首位女战神的战斗力到底有多强",
-      "onboard_time": 1668093927,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131273,
@@ -15505,6 +15529,14 @@
       "onboard_time": 1667345603,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126465,
+      "num": 126465,
+      "word": "大家都有在好好读书",
+      "onboard_time": 1668093808,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 126354,
@@ -17411,6 +17443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97645,
+      "num": 68688,
+      "word": "黑豹2好看吗",
+      "onboard_time": 1668097885,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97589,
       "num": 97589,
       "word": "詹姆斯30分8篮板",
@@ -17585,14 +17625,6 @@
       "onboard_time": 1667298027,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94949,
-      "num": 94949,
-      "word": "英格兰队公布世界杯大名单",
-      "onboard_time": 1668094045,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 94925,
@@ -18609,14 +18641,6 @@
       "onboard_time": 1667620647,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84629,
-      "num": 84629,
-      "word": "大家都有在好好读书",
-      "onboard_time": 1668093808,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 84528,
@@ -20241,6 +20265,14 @@
       "onboard_time": 1668013700,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47057,
+      "num": 68659,
+      "word": "妈妈们是懂套娃的",
+      "onboard_time": 1668096265,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 46305,

@@ -1,0 +1,411 @@
+{
+  "startTime": 1668097939574,
+  "endTime": 1668097939574,
+  "band_list": [
+    {
+      "raw_hot": 1107845,
+      "num": 650442,
+      "word": "3周大女婴肚子里取出8个寄生胎",
+      "onboard_time": 1668092247,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021172,
+      "num": 1021172,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 744171,
+      "num": 744171,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 630169,
+      "num": 630169,
+      "word": "广州番禺全区一半镇街出现病例",
+      "onboard_time": 1668092067,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559102,
+      "num": 559102,
+      "word": "肠胃不好的人一定要看看",
+      "onboard_time": 1668086186,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 443305,
+      "num": 443305,
+      "word": "杀人犯潜逃29年被抓时成千万富翁",
+      "onboard_time": 1668089368,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396631,
+      "num": 396631,
+      "word": "点燃我温暖你第14集封神了",
+      "onboard_time": 1668087988,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343066,
+      "num": 343066,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340774,
+      "num": 315577,
+      "word": "吴彤一天官宣了15位年轻演员",
+      "onboard_time": 1668077785,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330515,
+      "num": 315151,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317962,
+      "num": 317962,
+      "word": "距离上班地方仅1.8米是啥体验",
+      "onboard_time": 1668095366,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 312682,
+      "num": 312682,
+      "word": "真的会反反复复爱一个人吗",
+      "onboard_time": 1668093628,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 302250,
+      "num": 302250,
+      "word": "中国首位女战神的战斗力到底有多强",
+      "onboard_time": 1668093927,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289925,
+      "num": 289925,
+      "word": "广州疫情防控",
+      "onboard_time": 1668079226,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284808,
+      "num": 284808,
+      "word": "英国国王查尔斯三世被扔鸡蛋",
+      "onboard_time": 1668088585,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 236210,
+      "num": 236210,
+      "word": "当代女生为了省钱有多拼",
+      "onboard_time": 1668092968,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219260,
+      "num": 132460,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216566,
+      "num": 216566,
+      "word": "疯狂小杨哥称绝不避税",
+      "onboard_time": 1668082404,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 211298,
+      "num": 130497,
+      "word": "TVB余子明去世",
+      "onboard_time": 1668083544,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 198686,
+      "num": 198686,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185762,
+      "num": 129136,
+      "word": "全网唯二的观众居然认亲了",
+      "onboard_time": 1668080727,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153097,
+      "num": 127168,
+      "word": "卿卿日常观后感",
+      "onboard_time": 1668084566,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149980,
+      "num": 125905,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132919,
+      "num": 132919,
+      "word": "英格兰队公布世界杯大名单",
+      "onboard_time": 1668094045,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132815,
+      "num": 107477,
+      "word": "李薇每道菜只夹三次",
+      "onboard_time": 1668092728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126465,
+      "num": 126465,
+      "word": "大家都有在好好读书",
+      "onboard_time": 1668093808,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124277,
+      "num": 124277,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122372,
+      "num": 105130,
+      "word": "宋丹丹说王鹤棣条件太好了",
+      "onboard_time": 1668073705,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121461,
+      "num": 104828,
+      "word": "唐嫣首档常驻综艺官宣",
+      "onboard_time": 1668071666,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118386,
+      "num": 71055,
+      "word": "少爷和我吸血鬼篇",
+      "onboard_time": 1668087387,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "男子抢喝孕妻咖啡边喝边呕",
+      "onboard_time": 1668067464,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113902,
+      "num": 113902,
+      "word": "骑手小哥月入2万全款买138平新房",
+      "onboard_time": 1668070588,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110424,
+      "num": 110424,
+      "word": "广州荔湾区进一步强化管控措施",
+      "onboard_time": 1668089429,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101816,
+      "num": 101816,
+      "word": "台湾之光只有电池里的电是台湾造的",
+      "onboard_time": 1668079764,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97645,
+      "num": 68688,
+      "word": "黑豹2好看吗",
+      "onboard_time": 1668097885,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 94107,
+      "num": 71047,
+      "word": "张馨予晒何捷探班vlog",
+      "onboard_time": 1668069746,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88942,
+      "num": 88942,
+      "word": "EDG转会期",
+      "onboard_time": 1668076046,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 87957,
+      "num": 87957,
+      "word": "宁波常态化核酸检测频次调整为48小时",
+      "onboard_time": 1668079044,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "原来猫是通过尾巴表达心情",
+      "onboard_time": 1668087566,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86288,
+      "num": 86288,
+      "word": "看嘴型是真爱吃",
+      "onboard_time": 1668089725,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74981,
+      "num": 74981,
+      "word": "洗发水",
+      "onboard_time": 1668083662,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 71075,
+      "num": 71075,
+      "word": "美国10月CPI同比上涨7.7%",
+      "onboard_time": 1668090388,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 71025,
+      "num": 71025,
+      "word": "女子水下偶遇顶级伪装大师",
+      "onboard_time": 1668081627,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68952,
+      "num": 68952,
+      "word": "凑单",
+      "onboard_time": 1668084446,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 68727,
+      "num": 68727,
+      "word": "FPX对阵OMG",
+      "onboard_time": 1668090746,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 58247,
+      "num": 68723,
+      "word": "检方介入鲁某某掌掴幼童案",
+      "onboard_time": 1668070766,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51640,
+      "num": 68703,
+      "word": "北京朝阳新增感染者36例无社会面",
+      "onboard_time": 1668076166,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48845,
+      "num": 68680,
+      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+      "onboard_time": 1668069867,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47057,
+      "num": 68659,
+      "word": "妈妈们是懂套娃的",
+      "onboard_time": 1668096265,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 16396,
+      "num": 668651,
+      "word": "探馆中国航展航空航天馆",
+      "onboard_time": 1668077066,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#直通2022世界互联网大会#"
+    }
+  ]
+}
