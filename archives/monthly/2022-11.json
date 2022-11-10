@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668111894205,
+  "endTime": 1668112794690,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -20865,6 +20865,14 @@
       "onboard_time": 1667593511,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12744,
+      "num": 12744,
+      "word": "广东女子自家房子边洗菜边喂鱼",
+      "onboard_time": 1668111614,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12309,
