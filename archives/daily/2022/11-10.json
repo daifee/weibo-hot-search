@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668072207863,
+  "endTime": 1668073168396,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -49,6 +49,14 @@
       "onboard_time": 1668069746,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1489707,
+      "num": 1489707,
+      "word": "唐嫣首档常驻综艺官宣",
+      "onboard_time": 1668071666,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1352000,
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 878154,
-      "num": 878154,
-      "word": "唐嫣首档常驻综艺官宣",
-      "onboard_time": 1668071666,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 870028,
       "num": 870028,
       "word": "机长违规被停飞索赔181万被驳",
@@ -184,6 +184,14 @@
       "word": "多地宣布开展全民戴口罩行动",
       "onboard_time": 1668067525,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694115,
+      "num": 694115,
+      "word": "骑手小哥月入2万全款买138平新房",
+      "onboard_time": 1668070588,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -347,6 +355,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 458754,
+      "num": 313179,
+      "word": "张杰KTV唱忽然之间",
+      "onboard_time": 1668072508,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 453549,
       "num": 453549,
       "word": "肖战如梦之梦昆山站抢票",
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426426,
+      "num": 426426,
+      "word": "河南部分乡镇收到协助富士康招工指标",
+      "onboard_time": 1668068425,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423492,
       "num": 423492,
       "word": "鹿晗不插电音乐会定档",
@@ -419,14 +443,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 401534,
-      "num": 401534,
-      "word": "骑手小哥月入2万全款买138平新房",
-      "onboard_time": 1668070588,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392204,
       "num": 392204,
       "word": "詹姆斯受伤",
@@ -443,11 +459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 389336,
-      "num": 389336,
-      "word": "河南部分乡镇收到协助富士康招工指标",
-      "onboard_time": 1668068425,
-      "rank": 30,
+      "raw_hot": 389632,
+      "num": 312443,
+      "word": "检方介入鲁某某掌掴幼童案",
+      "onboard_time": 1668070766,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -456,6 +472,14 @@
       "word": "医院回应男子多次闯入母婴室接水",
       "onboard_time": 1668036625,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384467,
+      "num": 384467,
+      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+      "onboard_time": 1668069867,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -595,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308354,
+      "num": 308354,
+      "word": "北京疫情发布会",
+      "onboard_time": 1668071185,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300581,
       "num": 361245,
       "word": "实拍美国费城最危险街道",
@@ -659,28 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279003,
-      "num": 279003,
-      "word": "夫妻吵架婴儿被锁车内大哭满身汗",
-      "onboard_time": 1668069867,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278109,
       "num": 278109,
       "word": "李薇刚结婚就想把尹峥送走",
       "onboard_time": 1668068367,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277904,
-      "num": 277904,
-      "word": "检方介入鲁某某掌掴幼童案",
-      "onboard_time": 1668070766,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276576,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 228089,
-      "num": 190168,
+      "num": 225759,
       "word": "杨幂医学台词说得好溜",
       "onboard_time": 1668070828,
       "rank": 22,
@@ -979,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175298,
-      "num": 175298,
-      "word": "北京疫情发布会",
-      "onboard_time": 1668071185,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172826,
       "num": 164831,
       "word": "杨幂律政风造型三宫格",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1668014537,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169182,
+      "num": 115586,
+      "word": "另一位观众是用了什么优惠券",
+      "onboard_time": 1668072087,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 165909,
@@ -1099,20 +1115,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 150405,
+      "num": 127187,
+      "word": "白敬亭田曦薇新剧见面好抓马",
+      "onboard_time": 1668070167,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150314,
       "num": 118844,
       "word": "无限超越班",
       "onboard_time": 1668069927,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149665,
-      "num": 127187,
-      "word": "白敬亭田曦薇新剧见面好抓马",
-      "onboard_time": 1668070167,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 147725,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1668048566,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135655,
-      "num": 98361,
-      "word": "另一位观众是用了什么优惠券",
-      "onboard_time": 1668072087,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 134265,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1668004710,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127116,
+      "num": 127116,
+      "word": "从来就没有突然消失的爱",
+      "onboard_time": 1668071428,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 124738,
@@ -1523,12 +1539,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 94079,
+      "num": 94079,
+      "word": "可以花但不可以多花",
+      "onboard_time": 1668072448,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93823,
       "num": 93823,
       "word": "罗云熙罗本六宫格剧照",
       "onboard_time": 1668065366,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93571,
+      "num": 93571,
+      "word": "双十一正日子今晚8点开买",
+      "onboard_time": 1668072686,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93344,
@@ -1555,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92427,
+      "num": 92427,
+      "word": "原来大家都会对暗号",
+      "onboard_time": 1668072147,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 92177,
       "num": 92177,
       "word": "11月9日新增本土确诊1133例",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1668007468,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 91411,
-      "num": 91411,
-      "word": "从来就没有突然消失的爱",
-      "onboard_time": 1668071428,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 90522,
@@ -1643,12 +1675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83068,
-      "num": 83068,
-      "word": "原来大家都会对暗号",
-      "onboard_time": 1668072147,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 84736,
+      "num": 84736,
+      "word": "这孩子在恐怖片里能活到结局",
+      "onboard_time": 1668073044,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 83034,
@@ -1680,6 +1712,14 @@
       "word": "4岁娃当妈妈嘴替萌怼客服",
       "onboard_time": 1668011063,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79564,
+      "num": 79564,
+      "word": "民警50米高空一把救回轻生男子",
+      "onboard_time": 1668073163,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 30961,
+      "num": 140634,
+      "word": "冬季室内运动别忘开窗通风",
+      "onboard_time": 1668071306,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26158,
       "num": 317978,
       "word": "95后湖南姑娘战舰上操作导弹超飒",
@@ -1792,14 +1840,6 @@
       "word": "7种失眠类型你属于哪一种",
       "onboard_time": 1668030072,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20679,
-      "num": 140634,
-      "word": "冬季室内运动别忘开窗通风",
-      "onboard_time": 1668071306,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
