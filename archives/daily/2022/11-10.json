@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668064835474,
+  "endTime": 1668065770566,
   "band_list": [
     {
       "raw_hot": 1908062,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1148628,
+      "num": 1148628,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1083566,
       "num": 1083566,
       "word": "宝妈坐月子吃了8只鸡100多个蛋",
@@ -81,14 +89,6 @@
       "onboard_time": 1668007589,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1004894,
-      "num": 1004894,
-      "word": "王俊凯 金鸡奖",
-      "onboard_time": 1668061223,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 936868,
@@ -235,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 493815,
+      "num": 493815,
+      "word": "吸入用新冠疫苗进北京",
+      "onboard_time": 1668062246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487038,
       "num": 487038,
       "word": "肖战白百何骄阳伴我雨天路透",
@@ -273,6 +281,14 @@
       "onboard_time": 1668054268,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459096,
+      "num": 206267,
+      "word": "张艺兴与伦纳德比手掌大小",
+      "onboard_time": 1668065424,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 453549,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402155,
+      "num": 263836,
+      "word": "飞机一下空投12吨水太震撼",
+      "onboard_time": 1668063143,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 392204,
       "num": 392204,
       "word": "詹姆斯受伤",
@@ -355,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377244,
-      "num": 377244,
-      "word": "吸入用新冠疫苗进北京",
-      "onboard_time": 1668062246,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372447,
       "num": 372447,
       "word": "茶杯犬背后的真相",
       "onboard_time": 1668036803,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 367901,
+      "num": 93140,
+      "word": "汤唯这是在全球电影节刷脸吧",
+      "onboard_time": 1668065724,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 366491,
@@ -403,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355634,
-      "num": 253657,
-      "word": "飞机一下空投12吨水太震撼",
-      "onboard_time": 1668063143,
-      "rank": 11,
-      "category": "军事"
+      "raw_hot": 351686,
+      "num": 351686,
+      "word": "夫妻帮离世邻居照顾残障儿子41年",
+      "onboard_time": 1668062965,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350143,
@@ -483,12 +507,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 313173,
+      "num": 262737,
+      "word": "seventeen将明年上半年回归",
+      "onboard_time": 1668065424,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300581,
       "num": 361245,
       "word": "实拍美国费城最危险街道",
       "onboard_time": 1668025150,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288330,
+      "num": 288330,
+      "word": "六公主镜头下的翟子路",
+      "onboard_time": 1668063087,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 287062,
@@ -563,19 +603,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248155,
-      "num": 248155,
-      "word": "六公主镜头下的翟子路",
-      "onboard_time": 1668063087,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 245828,
-      "num": 245828,
+      "raw_hot": 255195,
+      "num": 255195,
       "word": "王鹤棣星辰大海体验捡鸡蛋",
       "onboard_time": 1668063025,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247123,
+      "num": 247123,
+      "word": "李峋朱韵在雪地里相爱",
+      "onboard_time": 1668063923,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -656,14 +696,6 @@
       "word": "真的有让蚊子都嫌弃的皮肤",
       "onboard_time": 1668038846,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209041,
-      "num": 209041,
-      "word": "夫妻帮离世邻居照顾残障儿子41年",
-      "onboard_time": 1668062965,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -771,12 +803,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186775,
+      "num": 186775,
+      "word": "大娘体力不支误把警车当出租车",
+      "onboard_time": 1668063326,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184534,
       "num": 184534,
       "word": "如梦之梦",
       "onboard_time": 1668006029,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181775,
+      "num": 181775,
+      "word": "男孩看完牙对牙医又搂又抱",
+      "onboard_time": 1668063505,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175663,
@@ -816,14 +864,6 @@
       "word": "导演丁晟推荐张艺上入选星辰大海",
       "onboard_time": 1668042989,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 165577,
-      "num": 165577,
-      "word": "李峋朱韵在雪地里相爱",
-      "onboard_time": 1668063923,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -923,14 +963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139228,
-      "num": 139228,
-      "word": "大娘体力不支误把警车当出租车",
-      "onboard_time": 1668063326,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137329,
       "num": 137329,
       "word": "点燃我温暖你第14集预告",
@@ -977,14 +1009,6 @@
       "onboard_time": 1667999488,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133455,
-      "num": 133455,
-      "word": "男孩看完牙对牙医又搂又抱",
-      "onboard_time": 1668063505,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132724,
@@ -1139,6 +1163,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 108964,
+      "num": 108964,
+      "word": "东北一高校女生表演花滑惊艳全场",
+      "onboard_time": 1668064584,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107266,
+      "num": 107266,
+      "word": "清清画的猪八戒是粉色的",
+      "onboard_time": 1668064406,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105937,
       "num": 105937,
       "word": "奶奶养猫的真实写照",
@@ -1168,6 +1208,14 @@
       "word": "2025年居民拥有功能完备电子健康码",
       "onboard_time": 1668062724,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100540,
+      "num": 100540,
+      "word": "科学家揭示人为何会恶心呕吐",
+      "onboard_time": 1668064224,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1251,20 +1299,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94627,
-      "num": 94627,
-      "word": "东北一高校女生表演花滑惊艳全场",
-      "onboard_time": 1668064584,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94187,
       "num": 94187,
       "word": "副总师说需歼20出场时一定物有所值",
       "onboard_time": 1668062185,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 93823,
+      "num": 93823,
+      "word": "罗云熙罗本六宫格剧照",
+      "onboard_time": 1668065366,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 93344,
@@ -1307,28 +1355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89375,
-      "num": 89375,
-      "word": "科学家揭示人为何会恶心呕吐",
-      "onboard_time": 1668064224,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
       "onboard_time": 1668036381,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89016,
-      "num": 89016,
-      "word": "清清画的猪八戒是粉色的",
-      "onboard_time": 1668064406,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 87841,
