@@ -1,0 +1,410 @@
+{
+  "runTime": 1668052595100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1083566,
+        "num": 1083566,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 776148,
+        "num": 776148,
+        "word": "半个娱乐圈的人在来厦门的路上了",
+        "onboard_time": 1668037645,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35655,
+        "num": 753831,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1908062,
+        "num": 751818,
+        "word": "江秋莲回应江歌遗体局部照疑泄露",
+        "onboard_time": 1668048566,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742692,
+        "num": 742692,
+        "word": "母亲半夜发现1岁萌娃偷吃东西",
+        "onboard_time": 1668049524,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 528177,
+        "num": 528177,
+        "word": "俄罗斯宣布从赫尔松撤军",
+        "onboard_time": 1668046228,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 465745,
+        "num": 465745,
+        "word": "肖战白百何骄阳伴我雨天路透",
+        "onboard_time": 1668050966,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463871,
+        "num": 463871,
+        "word": "没事不要随随便便去拆结婚照",
+        "onboard_time": 1668045925,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439011,
+        "num": 439011,
+        "word": "王鹤棣星辰大海上班饭拍",
+        "onboard_time": 1668046765,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438503,
+        "num": 438503,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896947,
+        "num": 413287,
+        "word": "时尚芭莎 婚庆公司",
+        "onboard_time": 1668049465,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439503,
+        "num": 408573,
+        "word": "扎克伯格就万人被裁视频致歉",
+        "onboard_time": 1668050246,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 366491,
+        "num": 366491,
+        "word": "马斯克欲在推特上线余额宝功能",
+        "onboard_time": 1668047485,
+        "rank": 12,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 350143,
+        "num": 350143,
+        "word": "丁程鑫希望自己保持钝感",
+        "onboard_time": 1668052227,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266508,
+        "num": 348667,
+        "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+        "onboard_time": 1668049227,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347764,
+        "num": 347764,
+        "word": "女生领第一份工资给闺蜜买手机",
+        "onboard_time": 1668045148,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 341036,
+        "num": 341036,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307446,
+        "num": 307446,
+        "word": "机长违规被停飞索赔181万被驳",
+        "onboard_time": 1668043468,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227099,
+        "num": 283241,
+        "word": "男童母亲称与鲁某某家常串门",
+        "onboard_time": 1668007589,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 215796,
+        "num": 279664,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279284,
+        "num": 279284,
+        "word": "星辰大海",
+        "onboard_time": 1668049346,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231015,
+        "num": 231015,
+        "word": "网传金鸡奖出席明星",
+        "onboard_time": 1668048629,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221159,
+        "num": 221159,
+        "word": "韩素希活动饭拍",
+        "onboard_time": 1668050065,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206644,
+        "num": 206644,
+        "word": "南京被掌掴男童母亲发声",
+        "onboard_time": 1668004586,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 206059,
+        "num": 206059,
+        "word": "广州封控区滞留宠物的守护者",
+        "onboard_time": 1668046346,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194094,
+        "num": 194094,
+        "word": "福布斯发布中国内地富豪榜",
+        "onboard_time": 1668051566,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "小伙开后备箱求婚戒指瞬间飞走",
+        "onboard_time": 1668042270,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157983,
+        "num": 157983,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 147924,
+        "num": 147924,
+        "word": "哈尔滨就是东方小巴黎",
+        "onboard_time": 1668044726,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83229,
+        "num": 147287,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194061,
+        "num": 145551,
+        "word": "盘点疯狂小杨哥商业版图",
+        "onboard_time": 1668047847,
+        "rank": 30,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 172826,
+        "num": 144650,
+        "word": "杨幂律政风造型三宫格",
+        "onboard_time": 1668049227,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154296,
+        "num": 143460,
+        "word": "孙颖莎1比3孙铭阳",
+        "onboard_time": 1668052524,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142047,
+        "num": 142047,
+        "word": "90后宝妈做陪诊师1天收费298元",
+        "onboard_time": 1668051264,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141788,
+        "num": 141788,
+        "word": "王者荣耀IP新游首次亮相",
+        "onboard_time": 1668051387,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139638,
+        "num": 139638,
+        "word": "百面千相",
+        "onboard_time": 1668051205,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136411,
+        "num": 136411,
+        "word": "TXT将2023年1月回归",
+        "onboard_time": 1668048566,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135946,
+        "num": 135946,
+        "word": "周鸿祎称360基本不触碰用户数据",
+        "onboard_time": 1668045085,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 132860,
+        "num": 132860,
+        "word": "庞博的结尾",
+        "onboard_time": 1668041550,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124793,
+        "num": 124793,
+        "word": "茶杯犬背后的真相",
+        "onboard_time": 1668036803,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 118635,
+        "num": 118635,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114719,
+        "num": 114719,
+        "word": "11月9日新增本土无症状7691例",
+        "onboard_time": 1668046886,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114214,
+        "num": 114214,
+        "word": "医院回应男子多次闯入母婴室接水",
+        "onboard_time": 1668036625,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113179,
+        "num": 113179,
+        "word": "上铺真的忍了很久",
+        "onboard_time": 1668037226,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112352,
+        "num": 112352,
+        "word": "中国内地富豪榜仅2人财富增长",
+        "onboard_time": 1668052409,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110256,
+        "num": 110256,
+        "word": "FPX世界赛夺冠三周年",
+        "onboard_time": 1668040410,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108453,
+        "num": 108453,
+        "word": "夫妻仅一墙之隔却要寄信交流",
+        "onboard_time": 1668008728,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 104969,
+        "num": 104969,
+        "word": "摊主用10年前25分试卷包鸡蛋饼",
+        "onboard_time": 1668040590,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103291,
+        "num": 103291,
+        "word": "贝佐斯财富减少830亿美元",
+        "onboard_time": 1668052409,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 100641,
+        "num": 100641,
+        "word": "华北电力大学一学生核酸检测阳性",
+        "onboard_time": 1668029111,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络传播与和平发展论坛#"
+    }
+  }
+}
