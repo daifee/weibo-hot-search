@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668084689038,
+  "endTime": 1668086156624,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1155357,
+      "num": 1155357,
+      "word": "TVB余子明去世",
+      "onboard_time": 1668083544,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1148628,
       "num": 1148628,
       "word": "王俊凯 金鸡奖",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804462,
+      "num": 804462,
+      "word": "疯狂小杨哥称绝不避税",
+      "onboard_time": 1668082404,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 779453,
       "num": 779453,
       "word": "母亲半夜发现1岁萌娃偷吃东西",
@@ -201,14 +217,6 @@
       "onboard_time": 1668004586,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 730771,
-      "num": 348702,
-      "word": "TVB余子明去世",
-      "onboard_time": 1668083544,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 708280,
@@ -329,14 +337,6 @@
       "onboard_time": 1668070766,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526276,
-      "num": 526276,
-      "word": "疯狂小杨哥称绝不避税",
-      "onboard_time": 1668082404,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 519906,
@@ -563,6 +563,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 395786,
+      "num": 329363,
+      "word": "杨紫张晚意长相思预约人数破100万",
+      "onboard_time": 1668085824,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392204,
       "num": 392204,
       "word": "詹姆斯受伤",
@@ -683,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344409,
+      "num": 344409,
+      "word": "洗发水",
+      "onboard_time": 1668083662,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 342771,
       "num": 342771,
       "word": "夫妻仅一墙之隔却要寄信交流",
@@ -729,6 +745,14 @@
       "onboard_time": 1668041550,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319578,
+      "num": 180319,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 319009,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282326,
+      "num": 116029,
+      "word": "卿卿日常观后感",
+      "onboard_time": 1668084566,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280702,
       "num": 280702,
       "word": "6岁女童被天降螺丝刀砸头重伤",
@@ -859,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272697,
-      "num": 174116,
-      "word": "白敬亭田曦薇新剧醉酒吻",
-      "onboard_time": 1668082163,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 274755,
+      "num": 274755,
+      "word": "女子水下偶遇顶级伪装大师",
+      "onboard_time": 1668081627,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272073,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 239619,
-      "num": 103041,
+      "num": 115797,
       "word": "周深是命韵峋环的爱情开关",
       "onboard_time": 1668082944,
       "rank": 30,
@@ -1196,7 +1228,7 @@
     },
     {
       "raw_hot": 182758,
-      "num": 100905,
+      "num": 115104,
       "word": "内娱青春疼痛文学男主",
       "onboard_time": 1668080847,
       "rank": 34,
@@ -1243,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169673,
-      "num": 169673,
-      "word": "女子水下偶遇顶级伪装大师",
-      "onboard_time": 1668081627,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169182,
       "num": 115843,
       "word": "另一位观众是用了什么优惠券",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161019,
+      "num": 161019,
+      "word": "王曼昱晋级全锦赛四强",
+      "onboard_time": 1668084926,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159998,
       "num": 159998,
       "word": "张超回应激情执教风格",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1668055347,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157959,
-      "num": 157959,
-      "word": "洗发水",
-      "onboard_time": 1668083662,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 156936,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1668051264,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153403,
-      "num": 86217,
-      "word": "卿卿日常观后感",
-      "onboard_time": 1668084566,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 153148,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1668069927,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149085,
+      "num": 149085,
+      "word": "凑单",
+      "onboard_time": 1668084446,
+      "rank": 27,
+      "category": "其它"
     },
     {
       "raw_hot": 147725,
@@ -1643,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117169,
+      "num": 117169,
+      "word": "陈幸同3比2陈梦",
+      "onboard_time": 1668085462,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115231,
       "num": 115231,
       "word": "用韩剧的方式打开点燃我温暖你",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1668064406,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106930,
-      "num": 106930,
-      "word": "凑单",
-      "onboard_time": 1668084446,
-      "rank": 27,
-      "category": "其它"
     },
     {
       "raw_hot": 105937,
@@ -2083,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76354,
+      "num": 86167,
+      "word": "这尾巴真是戳中了我的心巴",
+      "onboard_time": 1668080905,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76139,
       "num": 76139,
       "word": "西安外来入侵物种普查已展开",
@@ -2163,12 +2195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66025,
-      "num": 86167,
-      "word": "这尾巴真是戳中了我的心巴",
-      "onboard_time": 1668080905,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 62710,
+      "num": 80551,
+      "word": "陈幸同晋级全锦赛四强",
+      "onboard_time": 1668085944,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58337,
+      "num": 80458,
+      "word": "crocs拖鞋包装袋里封存一只蟑螂",
+      "onboard_time": 1668084803,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56257,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1668029832,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52115,
+      "num": 80418,
+      "word": "王艺迪3比2刘炜珊",
+      "onboard_time": 1668085346,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47098,

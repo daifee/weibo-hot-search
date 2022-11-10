@@ -1,0 +1,410 @@
+{
+  "runTime": 1668086156624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155357,
+        "num": 1155357,
+        "word": "TVB余子明去世",
+        "onboard_time": 1668083544,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 881899,
+        "num": 881899,
+        "word": "吴彤一天官宣了15位年轻演员",
+        "onboard_time": 1668077785,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22727,
+        "num": 819837,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 804462,
+        "num": 804462,
+        "word": "疯狂小杨哥称绝不避税",
+        "onboard_time": 1668082404,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 666908,
+        "num": 666908,
+        "word": "广州疫情防控",
+        "onboard_time": 1668079226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389958,
+        "num": 389958,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386921,
+        "num": 386921,
+        "word": "台湾之光只有电池里的电是台湾造的",
+        "onboard_time": 1668079764,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347348,
+        "num": 347348,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344409,
+        "num": 344409,
+        "word": "洗发水",
+        "onboard_time": 1668083662,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 11707,
+        "num": 342668,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 528625,
+        "num": 338347,
+        "word": "全网唯二的观众居然认亲了",
+        "onboard_time": 1668080727,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502994,
+        "num": 336554,
+        "word": "唐嫣首档常驻综艺官宣",
+        "onboard_time": 1668071666,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406716,
+        "num": 333091,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395786,
+        "num": 329363,
+        "word": "杨紫张晚意长相思预约人数破100万",
+        "onboard_time": 1668085824,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328472,
+        "num": 328472,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327879,
+        "num": 327879,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276887,
+        "num": 276887,
+        "word": "德国队公布世界杯大名单",
+        "onboard_time": 1668080548,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274755,
+        "num": 274755,
+        "word": "女子水下偶遇顶级伪装大师",
+        "onboard_time": 1668081627,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198402,
+        "num": 198402,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185640,
+        "num": 185640,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353153,
+        "num": 184979,
+        "word": "张馨予晒何捷探班vlog",
+        "onboard_time": 1668069746,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319578,
+        "num": 180319,
+        "word": "白敬亭田曦薇新剧醉酒吻",
+        "onboard_time": 1668082163,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303211,
+        "num": 179773,
+        "word": "王鹤棣上树了",
+        "onboard_time": 1668082704,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161019,
+        "num": 161019,
+        "word": "王曼昱晋级全锦赛四强",
+        "onboard_time": 1668084926,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "凑单",
+        "onboard_time": 1668084446,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 137670,
+        "num": 137670,
+        "word": "双十一",
+        "onboard_time": 1668083485,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 125814,
+        "num": 125814,
+        "word": "GEN官宣ruler离队",
+        "onboard_time": 1668070828,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117169,
+        "num": 117169,
+        "word": "陈幸同3比2陈梦",
+        "onboard_time": 1668085462,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22954,
+        "num": 117153,
+        "word": "冬季室内运动别忘开窗通风",
+        "onboard_time": 1668071306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286148,
+        "num": 116407,
+        "word": "罗本得知父母去世真相",
+        "onboard_time": 1668081924,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282326,
+        "num": 116029,
+        "word": "卿卿日常观后感",
+        "onboard_time": 1668084566,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204365,
+        "num": 115797,
+        "word": "周深是命韵峋环的爱情开关",
+        "onboard_time": 1668082944,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 115104,
+        "word": "内娱青春疼痛文学男主",
+        "onboard_time": 1668080847,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165298,
+        "num": 114979,
+        "word": "陈飞宇说我和李峋不太像",
+        "onboard_time": 1668076284,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114601,
+        "num": 114601,
+        "word": "北京朝阳新增感染者36例无社会面",
+        "onboard_time": 1668076166,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96323,
+        "num": 96323,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92378,
+        "num": 92378,
+        "word": "看得出宝宝很满意这个家",
+        "onboard_time": 1668078865,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91679,
+        "num": 91679,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82836,
+        "num": 82836,
+        "word": "NBA吐槽大会",
+        "onboard_time": 1668073466,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156437,
+        "num": 82628,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82233,
+        "num": 82233,
+        "word": "边踩树叶边抖脚的猫咪",
+        "onboard_time": 1668077123,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80634,
+        "num": 80634,
+        "word": "从来就没有突然消失的爱",
+        "onboard_time": 1668071428,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76354,
+        "num": 80611,
+        "word": "这尾巴真是戳中了我的心巴",
+        "onboard_time": 1668080905,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75243,
+        "num": 80593,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62710,
+        "num": 80551,
+        "word": "陈幸同晋级全锦赛四强",
+        "onboard_time": 1668085944,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61631,
+        "num": 80513,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59360,
+        "num": 80494,
+        "word": "可以花但不可以多花",
+        "onboard_time": 1668072448,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58337,
+        "num": 80458,
+        "word": "crocs拖鞋包装袋里封存一只蟑螂",
+        "onboard_time": 1668084803,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52115,
+        "num": 80418,
+        "word": "王艺迪3比2刘炜珊",
+        "onboard_time": 1668085346,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#直通2022世界互联网大会#"
+    }
+  }
+}
