@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668075890923,
+  "endTime": 1668076911088,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -368,6 +368,14 @@
       "word": "云之羽主演是虞书欣张凌赫",
       "onboard_time": 1668054268,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459803,
+      "num": 249569,
+      "word": "陈飞宇说我和李峋不太像",
+      "onboard_time": 1668076284,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -771,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249990,
+      "num": 249990,
+      "word": "EDG转会期",
+      "onboard_time": 1668076046,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249744,
       "num": 249744,
       "word": "武汉小伙发现加拿大一枝黄花",
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212398,
+      "num": 212398,
+      "word": "可以花但不可以多花",
+      "onboard_time": 1668072448,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209089,
       "num": 209089,
       "word": "真的有让蚊子都嫌弃的皮肤",
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 207858,
-      "num": 173529,
+      "num": 179816,
       "word": "周柯宇官宣加盟无限超越班",
       "onboard_time": 1668074425,
       "rank": 21,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1668069326,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176122,
-      "num": 176122,
-      "word": "可以花但不可以多花",
-      "onboard_time": 1668072448,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 176095,
@@ -1211,12 +1227,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142432,
+      "num": 142432,
+      "word": "NBA吐槽大会",
+      "onboard_time": 1668073466,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
       "onboard_time": 1668051205,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137904,
+      "num": 119841,
+      "word": "上海身高差40厘米夫妻蜗居23平阁楼",
+      "onboard_time": 1668076405,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137329,
@@ -1251,11 +1283,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135357,
-      "num": 135357,
-      "word": "NBA吐槽大会",
-      "onboard_time": 1668073466,
-      "rank": 26,
+      "raw_hot": 135887,
+      "num": 135887,
+      "word": "张超回应激情执教风格",
+      "onboard_time": 1668075506,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1395,12 +1427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116076,
-      "num": 116076,
+      "raw_hot": 119057,
+      "num": 119057,
       "word": "让你消毒没让你给洗澡啊",
       "onboard_time": 1668074187,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115503,
+      "num": 115503,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115231,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1668005427,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113807,
+      "num": 74786,
+      "word": "卿卿日常好像古装恋综",
+      "onboard_time": 1668076885,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 111774,
@@ -1491,12 +1539,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 102814,
-      "num": 102814,
-      "word": "张超回应激情执教风格",
-      "onboard_time": 1668075506,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 102714,
+      "num": 102714,
+      "word": "北京朝阳新增感染者36例无社会面",
+      "onboard_time": 1668076166,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100695,
@@ -1707,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89601,
-      "num": 89601,
-      "word": "鲁某某家人登门下跪道歉求谅解",
-      "onboard_time": 1668075447,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
@@ -1811,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78705,
+      "num": 78705,
+      "word": "科学家用音乐操纵梦中情绪",
+      "onboard_time": 1668076466,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 77848,
       "num": 77848,
       "word": "大学老师给全班分享家乡的萝卜",
@@ -1883,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67776,
+      "num": 67776,
+      "word": "无畏手绘澜上加澜",
+      "onboard_time": 1668076885,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56257,
       "num": 56257,
       "word": "范世錡入选2022星辰大海",
@@ -1907,7 +1963,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 33121,
+      "raw_hot": 33461,
       "num": 140634,
       "word": "冬季室内运动别忘开窗通风",
       "onboard_time": 1668071306,
