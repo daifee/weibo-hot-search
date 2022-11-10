@@ -1,0 +1,410 @@
+{
+  "runTime": 1668047713713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429103,
+        "num": 1429103,
+        "word": "半个娱乐圈的人在来厦门的路上了",
+        "onboard_time": 1668037645,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 870028,
+        "num": 870028,
+        "word": "机长违规被停飞索赔181万被驳",
+        "onboard_time": 1668043468,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24561,
+        "num": 744937,
+        "word": "加快建设网络强国数字中国",
+        "onboard_time": 1668000508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 683401,
+        "num": 683401,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 586116,
+        "num": 586116,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 557924,
+        "num": 557924,
+        "word": "小伙开后备箱求婚戒指瞬间飞走",
+        "onboard_time": 1668042270,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453549,
+        "num": 453549,
+        "word": "肖战如梦之梦昆山站抢票",
+        "onboard_time": 1668047007,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439074,
+        "num": 439074,
+        "word": "女生领第一份工资给闺蜜买手机",
+        "onboard_time": 1668045148,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 349054,
+        "num": 349054,
+        "word": "华北电力大学一学生核酸检测阳性",
+        "onboard_time": 1668029111,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135239,
+        "num": 348658,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112353,
+        "num": 345078,
+        "word": "苹果默认不再接受隔空投送",
+        "onboard_time": 1668041370,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 479575,
+        "num": 342405,
+        "word": "男童母亲称与鲁某某家常串门",
+        "onboard_time": 1668007589,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 478229,
+        "num": 337229,
+        "word": "俄罗斯宣布从赫尔松撤军",
+        "onboard_time": 1668046228,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 336498,
+        "num": 336498,
+        "word": "鲁某某已被刑事拘留",
+        "onboard_time": 1667994626,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 317978,
+        "word": "95后湖南姑娘战舰上操作导弹超飒",
+        "onboard_time": 1668047065,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312451,
+        "num": 312451,
+        "word": "庞博的结尾",
+        "onboard_time": 1668041550,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285223,
+        "num": 285223,
+        "word": "茶杯犬背后的真相",
+        "onboard_time": 1668036803,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 278904,
+        "num": 278904,
+        "word": "王鹤棣星辰大海上班饭拍",
+        "onboard_time": 1668046765,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253289,
+        "num": 253289,
+        "word": "医院回应男子多次闯入母婴室接水",
+        "onboard_time": 1668036625,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236257,
+        "num": 236257,
+        "word": "哈尔滨就是东方小巴黎",
+        "onboard_time": 1668044726,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232528,
+        "num": 232528,
+        "word": "没事不要随随便便去拆结婚照",
+        "onboard_time": 1668045925,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221316,
+        "num": 221316,
+        "word": "女孩持续高烧就医查出亲吻病毒",
+        "onboard_time": 1668006989,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216917,
+        "num": 216917,
+        "word": "南京被掌掴男童母亲发声",
+        "onboard_time": 1668004586,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196674,
+        "num": 196674,
+        "word": "周鸿祎称360基本不触碰用户数据",
+        "onboard_time": 1668045085,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 196664,
+        "num": 196664,
+        "word": "FPX世界赛夺冠三周年",
+        "onboard_time": 1668040410,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193616,
+        "num": 193616,
+        "word": "广州封控区滞留宠物的守护者",
+        "onboard_time": 1668046346,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 193177,
+        "num": 193177,
+        "word": "摊主用10年前25分试卷包鸡蛋饼",
+        "onboard_time": 1668040590,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 188655,
+        "word": "四川阿姨挖出30斤巨无霸红薯",
+        "onboard_time": 1668004349,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165909,
+        "num": 165909,
+        "word": "导演丁晟推荐张艺上入选星辰大海",
+        "onboard_time": 1668042989,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24935,
+        "num": 159352,
+        "word": "中方回应美延续特朗普时期对华禁令",
+        "onboard_time": 1667989108,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 155068,
+        "word": "周震南父亲公司未履行总金额超3亿",
+        "onboard_time": 1668038006,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150962,
+        "num": 150962,
+        "word": "第35届金鸡奖开幕式舞台",
+        "onboard_time": 1668038006,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147802,
+        "num": 147802,
+        "word": "真的有让蚊子都嫌弃的皮肤",
+        "onboard_time": 1668038846,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143370,
+        "num": 143370,
+        "word": "小伙叼牙签耍帅差点丢了肾",
+        "onboard_time": 1668038367,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142357,
+        "num": 142357,
+        "word": "学生隔离期下楼开除学籍处分被撤销",
+        "onboard_time": 1668005308,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 141916,
+        "word": "如梦之梦",
+        "onboard_time": 1668006029,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139530,
+        "num": 139530,
+        "word": "上铺真的忍了很久",
+        "onboard_time": 1668037226,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138426,
+        "num": 138426,
+        "word": "杨超越跳了nxde",
+        "onboard_time": 1668006146,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137654,
+        "num": 137654,
+        "word": "6岁女童被天降螺丝刀砸头重伤",
+        "onboard_time": 1668023052,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 137245,
+        "num": 137245,
+        "word": "夫妻仅一墙之隔却要寄信交流",
+        "onboard_time": 1668008728,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 132439,
+        "word": "宁晋疫情防控",
+        "onboard_time": 1668036256,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128288,
+        "num": 128288,
+        "word": "北京11月9日新增34例本土确诊",
+        "onboard_time": 1668040769,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "11月9日新增本土无症状7691例",
+        "onboard_time": 1668046886,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115231,
+        "num": 115231,
+        "word": "用韩剧的方式打开点燃我温暖你",
+        "onboard_time": 1668046708,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113188,
+        "num": 113188,
+        "word": "毛豆 一灯",
+        "onboard_time": 1668013100,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107934,
+        "num": 107934,
+        "word": "李峋朱韵真人版边牧博美",
+        "onboard_time": 1668040289,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98180,
+        "num": 98180,
+        "word": "马斯克欲在推特上线余额宝功能",
+        "onboard_time": 1668047485,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 96052,
+        "num": 96052,
+        "word": "成都青城山现大量不明线虫",
+        "onboard_time": 1667998648,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92177,
+        "num": 92177,
+        "word": "11月9日新增本土确诊1133例",
+        "onboard_time": 1668046826,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89862,
+        "num": 89862,
+        "word": "Jennie演唱会中途脚伤复发",
+        "onboard_time": 1668000990,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络传播与和平发展论坛#"
+    }
+  }
+}
