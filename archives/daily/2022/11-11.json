@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668107918350,
+  "endTime": 1668108829896,
   "band_list": [
     {
       "raw_hot": 1107845,
@@ -459,20 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28322,
+      "num": 18670,
+      "word": "HYBE艺人明年活动计划",
+      "onboard_time": 1668108493,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24432,
+      "num": 24432,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16396,
       "num": 668651,
       "word": "探馆中国航展航空航天馆",
       "onboard_time": 1668077066,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 15348,
-      "word": "重庆疫情辟谣",
-      "onboard_time": 1668107353,
-      "rank": 44,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

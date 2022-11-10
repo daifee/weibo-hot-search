@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668107918350,
+  "endTime": 1668108829896,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -9011,11 +9011,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28322,
+      "num": 18670,
+      "word": "HYBE艺人明年活动计划",
+      "onboard_time": 1668108493,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26158,
       "num": 317978,
       "word": "95后湖南姑娘战舰上操作导弹超飒",
       "onboard_time": 1668047065,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24432,
+      "num": 24432,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -9049,14 +9065,6 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 15348,
-      "word": "重庆疫情辟谣",
-      "onboard_time": 1668107353,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14783,

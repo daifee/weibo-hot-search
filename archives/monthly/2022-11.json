@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668107918350,
+  "endTime": 1668108829896,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -20627,6 +20627,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 28322,
+      "num": 18670,
+      "word": "HYBE艺人明年活动计划",
+      "onboard_time": 1668108493,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27573,
       "num": 373733,
       "word": "女子跪地10分钟施救晕倒老人",
@@ -20657,6 +20665,14 @@
       "onboard_time": 1667689275,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 24432,
+      "num": 24432,
+      "word": "重庆疫情辟谣",
+      "onboard_time": 1668107353,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24330,
@@ -20793,14 +20809,6 @@
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 15348,
-      "word": "重庆疫情辟谣",
-      "onboard_time": 1668107353,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14783,
