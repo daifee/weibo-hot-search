@@ -1,0 +1,410 @@
+{
+  "runTime": 1668056546800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021708,
+        "num": 1021708,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 936868,
+        "num": 936868,
+        "word": "王鹤棣说当队长没问题",
+        "onboard_time": 1668054326,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71809,
+        "num": 720750,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 658467,
+        "num": 658467,
+        "word": "母亲半夜发现1岁萌娃偷吃东西",
+        "onboard_time": 1668049524,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 603954,
+        "num": 603954,
+        "word": "金鸡奖",
+        "onboard_time": 1668054268,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565821,
+        "num": 565821,
+        "word": "孙颖莎1比3孙铭阳",
+        "onboard_time": 1668052524,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580461,
+        "num": 563056,
+        "word": "半个娱乐圈的人在来厦门的路上了",
+        "onboard_time": 1668037645,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550777,
+        "num": 550777,
+        "word": "扎克伯格就万人被裁视频致歉",
+        "onboard_time": 1668050246,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 515468,
+        "num": 515468,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429385,
+        "num": 429385,
+        "word": "林孝埈复出",
+        "onboard_time": 1668054509,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1798773,
+        "num": 428310,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626927,
+        "num": 427849,
+        "word": "时尚芭莎 婚庆公司",
+        "onboard_time": 1668049465,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519779,
+        "num": 425132,
+        "word": "被掌掴男童母亲讲述事发经过",
+        "onboard_time": 1668053908,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429927,
+        "num": 424310,
+        "word": "云之羽主演是虞书欣张凌赫",
+        "onboard_time": 1668054268,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423492,
+        "num": 423492,
+        "word": "鹿晗不插电音乐会定档",
+        "onboard_time": 1668055168,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364045,
+        "num": 364045,
+        "word": "中国内地富豪榜仅2人财富增长",
+        "onboard_time": 1668052409,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362355,
+        "num": 362355,
+        "word": "福布斯发布中国内地富豪榜",
+        "onboard_time": 1668051566,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360622,
+        "num": 360622,
+        "word": "没事不要随随便便去拆结婚照",
+        "onboard_time": 1668045925,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279962,
+        "num": 279962,
+        "word": "俄罗斯宣布从赫尔松撤军",
+        "onboard_time": 1668046228,
+        "rank": 18,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 276576,
+        "num": 276576,
+        "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+        "onboard_time": 1668049227,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395506,
+        "num": 274383,
+        "word": "江秋莲回应江歌遗体局部照疑泄露",
+        "onboard_time": 1668048566,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398783,
+        "num": 272563,
+        "word": "肖战如梦之梦",
+        "onboard_time": 1668047007,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323184,
+        "num": 271668,
+        "word": "张艺兴观战洛杉矶德比",
+        "onboard_time": 1668054567,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 259514,
+        "num": 259514,
+        "word": "星辰大海",
+        "onboard_time": 1668049346,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1403,
+        "num": 250157,
+        "word": "双11一键价保有多香",
+        "onboard_time": 1668052828,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246284,
+        "num": 246284,
+        "word": "女生领第一份工资给闺蜜买手机",
+        "onboard_time": 1668045148,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240753,
+        "num": 240753,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240212,
+        "num": 240212,
+        "word": "丈夫凌晨起床给坐月子妻子烧饭",
+        "onboard_time": 1668054147,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208635,
+        "num": 208635,
+        "word": "119帮110开锁被大波吃瓜群众围观",
+        "onboard_time": 1668052647,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48339,
+        "num": 197691,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187462,
+        "num": 187462,
+        "word": "王者荣耀IP新游首次亮相",
+        "onboard_time": 1668051387,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173517,
+        "num": 173517,
+        "word": "马斯克欲在推特上线余额宝功能",
+        "onboard_time": 1668047485,
+        "rank": 31,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 164512,
+        "num": 164512,
+        "word": "员工躲厕所抽烟起火被辞索赔29万",
+        "onboard_time": 1668055228,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162253,
+        "num": 162253,
+        "word": "南京被掌掴男童母亲发声",
+        "onboard_time": 1668004586,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161341,
+        "num": 161341,
+        "word": "机长违规被停飞索赔181万被驳",
+        "onboard_time": 1668043468,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "盘点疯狂小杨哥商业版图",
+        "onboard_time": 1668047847,
+        "rank": 35,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 153654,
+        "num": 153654,
+        "word": "李峋是朱韵人生的第一次冒险",
+        "onboard_time": 1668056248,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152353,
+        "num": 152353,
+        "word": "疯狂小杨哥再回应1亿元买楼",
+        "onboard_time": 1667999848,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151714,
+        "num": 151714,
+        "word": "90后宝妈做陪诊师1天收费298元",
+        "onboard_time": 1668051264,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150264,
+        "num": 150264,
+        "word": "韩素希活动饭拍",
+        "onboard_time": 1668050065,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135677,
+        "num": 135677,
+        "word": "小伙开后备箱求婚戒指瞬间飞走",
+        "onboard_time": 1668042270,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135589,
+        "num": 135589,
+        "word": "丁程鑫希望自己保持钝感",
+        "onboard_time": 1668052227,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133443,
+        "num": 133443,
+        "word": "房东送租户中秋礼退租时从押金扣",
+        "onboard_time": 1668055470,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128409,
+        "num": 128409,
+        "word": "百面千相",
+        "onboard_time": 1668051205,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126038,
+        "num": 126038,
+        "word": "NewJeans将12月19日发行先行曲",
+        "onboard_time": 1668055347,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116791,
+        "num": 116791,
+        "word": "茶杯犬背后的真相",
+        "onboard_time": 1668036803,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 114465,
+        "num": 114465,
+        "word": "男童母亲称与鲁某某家常串门",
+        "onboard_time": 1668007589,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 114125,
+        "word": "广州封控区滞留宠物的守护者",
+        "onboard_time": 1668046346,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 100032,
+        "num": 113142,
+        "word": "山东人均嗦粉大师",
+        "onboard_time": 1668056487,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57499,
+        "num": 112520,
+        "word": "中国车获欧洲国际大奖",
+        "onboard_time": 1668052828,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络传播与和平发展论坛#"
+    }
+  }
+}

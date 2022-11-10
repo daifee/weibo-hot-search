@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668055736345,
+  "endTime": 1668056546800,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -563,6 +563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1798773,
+      "num": 428310,
+      "word": "疑似鲁某某亲属上门致歉",
+      "onboard_time": 1668051747,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1784584,
       "num": 1091112,
       "word": "英国伦敦爆发大规模抗议",
@@ -777,14 +785,6 @@
       "onboard_time": 1667302287,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1535578,
-      "num": 373250,
-      "word": "疑似鲁某某亲属上门致歉",
-      "onboard_time": 1668051747,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1532856,
@@ -1859,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 936868,
+      "num": 936868,
+      "word": "王鹤棣说当队长没问题",
+      "onboard_time": 1668054326,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936756,
       "num": 246541,
       "word": "白敬亭拍的月亮",
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 905817,
-      "num": 413287,
+      "num": 427849,
       "word": "时尚芭莎 婚庆公司",
       "onboard_time": 1668049465,
       "rank": 10,
@@ -2257,14 +2265,6 @@
       "onboard_time": 1667957368,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 823264,
-      "num": 823264,
-      "word": "王鹤棣说当队长没问题",
-      "onboard_time": 1668054326,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 818752,
@@ -3419,6 +3419,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 603954,
+      "num": 603954,
+      "word": "金鸡奖",
+      "onboard_time": 1667277269,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601926,
       "num": 601926,
       "word": "演员蓝天野名字是当地下党交通员时取的",
@@ -4241,6 +4249,14 @@
       "onboard_time": 1667722475,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 519779,
+      "num": 425132,
+      "word": "被掌掴男童母亲讲述事发经过",
+      "onboard_time": 1668053908,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518590,
@@ -5475,6 +5491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 429385,
+      "num": 429385,
+      "word": "林孝埈复出",
+      "onboard_time": 1668054509,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428007,
       "num": 428007,
       "word": "这就是小说里的一眼万年吗",
@@ -5531,14 +5555,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 425628,
-      "num": 357504,
-      "word": "金鸡奖",
-      "onboard_time": 1667277269,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424332,
       "num": 424332,
       "word": "嫌打篮球太吵老人从7楼扔饮料瓶",
@@ -5561,6 +5577,14 @@
       "onboard_time": 1667624426,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423492,
+      "num": 423492,
+      "word": "鹿晗不插电音乐会定档",
+      "onboard_time": 1668055168,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 423255,
@@ -6035,14 +6059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393588,
-      "num": 346131,
-      "word": "被掌掴男童母亲讲述事发经过",
-      "onboard_time": 1668053908,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392603,
       "num": 392603,
       "word": "马龙背头好帅",
@@ -6507,12 +6523,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 364045,
+      "num": 364045,
+      "word": "中国内地富豪榜仅2人财富增长",
+      "onboard_time": 1668052409,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363850,
       "num": 363850,
       "word": "宠物医生给狗做绝育被记仇4年",
       "onboard_time": 1667530405,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362355,
+      "num": 362355,
+      "word": "福布斯发布中国内地富豪榜",
+      "onboard_time": 1668051566,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 362097,
@@ -6841,14 +6873,6 @@
       "onboard_time": 1667563170,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347807,
-      "num": 276745,
-      "word": "鹿晗不插电音乐会定档",
-      "onboard_time": 1668055168,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 347371,
@@ -7211,14 +7235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330900,
-      "num": 330900,
-      "word": "福布斯发布中国内地富豪榜",
-      "onboard_time": 1668051566,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 330796,
       "num": 252994,
       "word": "王鹤棣苏翊鸣合照",
@@ -7417,6 +7433,14 @@
       "onboard_time": 1667998406,
       "rank": 14,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 323184,
+      "num": 271668,
+      "word": "张艺兴观战洛杉矶德比",
+      "onboard_time": 1668054567,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 322530,
@@ -8099,14 +8123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293710,
-      "num": 293710,
-      "word": "中国内地富豪榜仅2人财富增长",
-      "onboard_time": 1668052409,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292965,
       "num": 120807,
       "word": "海棠",
@@ -8137,14 +8153,6 @@
       "onboard_time": 1667458164,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290991,
-      "num": 271154,
-      "word": "张艺兴观战洛杉矶德比",
-      "onboard_time": 1668054567,
-      "rank": 22,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 290756,
@@ -8249,14 +8257,6 @@
       "onboard_time": 1667916630,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286364,
-      "num": 286364,
-      "word": "林孝埈复出",
-      "onboard_time": 1668054509,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 286267,
@@ -8539,6 +8539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276576,
+      "num": 348667,
+      "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+      "onboard_time": 1668049227,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276109,
       "num": 250102,
       "word": "徐海乔晒与凤行杀青图",
@@ -8801,14 +8809,6 @@
       "onboard_time": 1667827889,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266855,
-      "num": 348667,
-      "word": "3岁女童颅内出血铁骑嘶吼开道送医",
-      "onboard_time": 1668049227,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266710,
@@ -9411,12 +9411,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240753,
+      "num": 240753,
+      "word": "掌掴幼童男子家属疑似下跪求谅解",
+      "onboard_time": 1668052107,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240504,
       "num": 240504,
       "word": "66国在联大共同发言反对干涉中国内政",
       "onboard_time": 1667286807,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240212,
+      "num": 240212,
+      "word": "丈夫凌晨起床给坐月子妻子烧饭",
+      "onboard_time": 1668054147,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239974,
@@ -10539,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208635,
+      "num": 208635,
+      "word": "119帮110开锁被大波吃瓜群众围观",
+      "onboard_time": 1668052647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "陈楚生害王铮亮张远被关小黑屋",
@@ -10561,14 +10585,6 @@
       "onboard_time": 1667536768,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207407,
-      "num": 207407,
-      "word": "掌掴幼童男子家属疑似下跪求谅解",
-      "onboard_time": 1668052107,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207322,
@@ -11403,6 +11419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 187462,
+      "num": 187462,
+      "word": "王者荣耀IP新游首次亮相",
+      "onboard_time": 1668051387,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187387,
       "num": 187387,
       "word": "北京11月1日新增本土确诊28例",
@@ -11507,14 +11531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185285,
-      "num": 185285,
-      "word": "丈夫凌晨起床给坐月子妻子烧饭",
-      "onboard_time": 1668054147,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185007,
       "num": 185007,
       "word": "赵丽颖林更新与凤行杀青状态对比",
@@ -11577,14 +11593,6 @@
       "onboard_time": 1667270546,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183169,
-      "num": 183169,
-      "word": "王者荣耀IP新游首次亮相",
-      "onboard_time": 1668051387,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 182663,
@@ -12267,14 +12275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166253,
-      "num": 166253,
-      "word": "119帮110开锁被大波吃瓜群众围观",
-      "onboard_time": 1668052647,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166107,
       "num": 166107,
       "word": "LBL",
@@ -12369,6 +12369,14 @@
       "onboard_time": 1667656648,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164512,
+      "num": 164512,
+      "word": "员工躲厕所抽烟起火被辞索赔29万",
+      "onboard_time": 1668055228,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164468,
@@ -12969,6 +12977,14 @@
       "onboard_time": 1667903730,
       "rank": 41,
       "category": "自然"
+    },
+    {
+      "raw_hot": 153654,
+      "num": 153654,
+      "word": "李峋是朱韵人生的第一次冒险",
+      "onboard_time": 1668056248,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 153524,
@@ -14091,6 +14107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133443,
+      "num": 133443,
+      "word": "房东送租户中秋礼退租时从押金扣",
+      "onboard_time": 1668055470,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133046,
       "num": 97037,
       "word": "王源眼眶湿润",
@@ -14665,14 +14689,6 @@
       "onboard_time": 1667970027,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 123351,
-      "num": 123351,
-      "word": "员工躲厕所抽烟起火被辞索赔29万",
-      "onboard_time": 1668055228,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123340,
@@ -15273,14 +15289,6 @@
       "onboard_time": 1667787627,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112576,
-      "num": 112576,
-      "word": "房东送租户中秋礼退租时从押金扣",
-      "onboard_time": 1668055470,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112278,
@@ -16105,6 +16113,14 @@
       "onboard_time": 1667794230,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100032,
+      "num": 113142,
+      "word": "山东人均嗦粉大师",
+      "onboard_time": 1668056487,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 99915,
@@ -18051,6 +18067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 71809,
+      "num": 779465,
+      "word": "裸眼3D看中国航展",
+      "onboard_time": 1668051986,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71787,
       "num": 72351,
       "word": "女子为吸粉马路中间跳舞拍抖音",
@@ -18409,14 +18433,6 @@
       "onboard_time": 1667312849,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64200,
-      "num": 779465,
-      "word": "裸眼3D看中国航展",
-      "onboard_time": 1668051986,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64140,
