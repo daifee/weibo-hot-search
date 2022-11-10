@@ -1,7 +1,15 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668065770566,
+  "endTime": 1668069324746,
   "band_list": [
+    {
+      "raw_hot": 1997765,
+      "num": 1997765,
+      "word": "叠纸",
+      "onboard_time": 1668060086,
+      "rank": 4,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1908062,
       "num": 751818,
@@ -99,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923474,
+      "num": 923474,
+      "word": "男子抢喝孕妻咖啡边喝边呕",
+      "onboard_time": 1668067464,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905817,
       "num": 427849,
       "word": "时尚芭莎 婚庆公司",
@@ -115,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829233,
-      "num": 829233,
-      "word": "叠纸",
-      "onboard_time": 1668060086,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 779453,
       "num": 779453,
       "word": "母亲半夜发现1岁萌娃偷吃东西",
       "onboard_time": 1668049524,
       "rank": 4,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 775564,
+      "num": 775564,
+      "word": "韩国学生流行起梨泰院踩踏游戏",
+      "onboard_time": 1668067886,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773371,
@@ -251,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 485346,
+      "num": 485346,
+      "word": "汤唯这是在全球电影节刷脸吧",
+      "onboard_time": 1668065724,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479084,
       "num": 479084,
       "word": "女孩持续高烧就医查出亲吻病毒",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 402155,
-      "num": 263836,
+      "num": 269622,
       "word": "飞机一下空投12吨水太震撼",
       "onboard_time": 1668063143,
       "rank": 11,
@@ -371,11 +395,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390419,
+      "num": 390419,
+      "word": "国产剧姐弟恋天花板",
+      "onboard_time": 1668066144,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386351,
       "num": 386351,
       "word": "医院回应男子多次闯入母婴室接水",
       "onboard_time": 1668036625,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381424,
+      "num": 381424,
+      "word": "多地宣布开展全民戴口罩行动",
+      "onboard_time": 1668067525,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381232,
+      "num": 381232,
+      "word": "夫妻帮离世邻居照顾残障儿子41年",
+      "onboard_time": 1668062965,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -385,14 +433,6 @@
       "onboard_time": 1668036803,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 367901,
-      "num": 93140,
-      "word": "汤唯这是在全球电影节刷脸吧",
-      "onboard_time": 1668065724,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 366491,
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351686,
-      "num": 351686,
-      "word": "夫妻帮离世邻居照顾残障儿子41年",
-      "onboard_time": 1668062965,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350143,
       "num": 350143,
       "word": "丁程鑫希望自己保持钝感",
       "onboard_time": 1668052227,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348800,
+      "num": 348800,
+      "word": "大娘体力不支误把警车当出租车",
+      "onboard_time": 1668063326,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347321,
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292495,
+      "num": 292495,
+      "word": "李峋朱韵在雪地里相爱",
+      "onboard_time": 1668063923,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288330,
       "num": 288330,
       "word": "六公主镜头下的翟子路",
@@ -579,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272073,
+      "num": 272073,
+      "word": "东北一高校女生表演花滑惊艳全场",
+      "onboard_time": 1668064584,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "四川阿姨挖出30斤巨无霸红薯",
@@ -608,14 +664,6 @@
       "word": "王鹤棣星辰大海体验捡鸡蛋",
       "onboard_time": 1668063025,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247123,
-      "num": 247123,
-      "word": "李峋朱韵在雪地里相爱",
-      "onboard_time": 1668063923,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -688,6 +736,14 @@
       "word": "119帮110开锁被大波吃瓜群众围观",
       "onboard_time": 1668052647,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213850,
+      "num": 213850,
+      "word": "男孩看完牙对牙医又搂又抱",
+      "onboard_time": 1668063505,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -771,6 +827,14 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 190583,
+      "num": 128747,
+      "word": "河南部分乡镇收到协助富士康招工指标",
+      "onboard_time": 1668068425,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190081,
       "num": 179156,
       "word": "李峋的走马灯",
@@ -803,11 +867,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186775,
-      "num": 186775,
-      "word": "大娘体力不支误把警车当出租车",
-      "onboard_time": 1668063326,
-      "rank": 34,
+      "raw_hot": 186355,
+      "num": 186355,
+      "word": "武汉小伙发现加拿大一枝黄花",
+      "onboard_time": 1668066445,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -817,14 +881,6 @@
       "onboard_time": 1668006029,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181775,
-      "num": 181775,
-      "word": "男孩看完牙对牙医又搂又抱",
-      "onboard_time": 1668063505,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175663,
@@ -849,6 +905,14 @@
       "onboard_time": 1668037103,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171019,
+      "num": 128725,
+      "word": "人民网评男子上门掌掴男童",
+      "onboard_time": 1668067107,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170549,
@@ -1011,12 +1075,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133372,
+      "num": 131854,
+      "word": "六公主镜头下的王鹤棣",
+      "onboard_time": 1668068723,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132724,
       "num": 114452,
       "word": "脱口秀大会5今晚八强出炉",
       "onboard_time": 1667998648,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130057,
+      "num": 130057,
+      "word": "李薇刚结婚就想把尹峥送走",
+      "onboard_time": 1668068367,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 129756,
@@ -1163,14 +1243,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 108964,
-      "num": 108964,
-      "word": "东北一高校女生表演花滑惊艳全场",
-      "onboard_time": 1668064584,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107266,
       "num": 107266,
       "word": "清清画的猪八戒是粉色的",
@@ -1243,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98626,
+      "num": 98626,
+      "word": "不期而至",
+      "onboard_time": 1668066747,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98081,
       "num": 98081,
       "word": "50米高抓娃娃机玩起绣花功夫",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1668059366,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96970,
+      "num": 96970,
+      "word": "想吃1条魔鬼鱼没点胆量还真不行",
+      "onboard_time": 1668068846,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96731,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1668036381,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88520,
+      "num": 88520,
+      "word": "和丁真一起打卡神秘川西",
+      "onboard_time": 1668068964,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 87841,
@@ -1452,7 +1548,7 @@
     },
     {
       "raw_hot": 71809,
-      "num": 780430,
+      "num": 798090,
       "word": "裸眼3D看中国航展",
       "onboard_time": 1668051986,
       "rank": 2,
@@ -1535,6 +1631,14 @@
       "num": 363748,
       "word": "双11一键价保有多香",
       "onboard_time": 1668052828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4646,
+      "num": 288286,
+      "word": "沃尔沃纯电旗舰EX90首发",
+      "onboard_time": 1668067224,
       "rank": 14,
       "category": "社会新闻"
     }

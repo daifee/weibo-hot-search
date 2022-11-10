@@ -1,0 +1,410 @@
+{
+  "runTime": 1668069324746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1997765,
+        "num": 1997765,
+        "word": "叠纸",
+        "onboard_time": 1668060086,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 923474,
+        "num": 923474,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52859,
+        "num": 798090,
+        "word": "裸眼3D看中国航展",
+        "onboard_time": 1668051986,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 775564,
+        "num": 775564,
+        "word": "韩国学生流行起梨泰院踩踏游戏",
+        "onboard_time": 1668067886,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690056,
+        "num": 690056,
+        "word": "王俊凯 金鸡奖",
+        "onboard_time": 1668061223,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485346,
+        "num": 485346,
+        "word": "汤唯这是在全球电影节刷脸吧",
+        "onboard_time": 1668065724,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476056,
+        "num": 476056,
+        "word": "女子养了1年的多肉是塑料做的",
+        "onboard_time": 1668057448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390419,
+        "num": 390419,
+        "word": "国产剧姐弟恋天花板",
+        "onboard_time": 1668066144,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381424,
+        "num": 381424,
+        "word": "多地宣布开展全民戴口罩行动",
+        "onboard_time": 1668067525,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381232,
+        "num": 381232,
+        "word": "夫妻帮离世邻居照顾残障儿子41年",
+        "onboard_time": 1668062965,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729748,
+        "num": 377752,
+        "word": "疑似鲁某某亲属上门致歉",
+        "onboard_time": 1668051747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355576,
+        "num": 355576,
+        "word": "吸入用新冠疫苗进北京",
+        "onboard_time": 1668062246,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348800,
+        "num": 348800,
+        "word": "大娘体力不支误把警车当出租车",
+        "onboard_time": 1668063326,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292495,
+        "num": 292495,
+        "word": "李峋朱韵在雪地里相爱",
+        "onboard_time": 1668063923,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4646,
+        "num": 288286,
+        "word": "沃尔沃纯电旗舰EX90首发",
+        "onboard_time": 1668067224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286888,
+        "num": 286888,
+        "word": "宝妈坐月子吃了8只鸡100多个蛋",
+        "onboard_time": 1668045446,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 272073,
+        "num": 272073,
+        "word": "东北一高校女生表演花滑惊艳全场",
+        "onboard_time": 1668064584,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269622,
+        "num": 269622,
+        "word": "飞机一下空投12吨水太震撼",
+        "onboard_time": 1668063143,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 213850,
+        "num": 213850,
+        "word": "男孩看完牙对牙医又搂又抱",
+        "onboard_time": 1668063505,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193105,
+        "num": 193105,
+        "word": "seventeen将明年上半年回归",
+        "onboard_time": 1668065424,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313634,
+        "num": 190949,
+        "word": "张艺兴与伦纳德比手掌大小",
+        "onboard_time": 1668065424,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186355,
+        "num": 186355,
+        "word": "武汉小伙发现加拿大一枝黄花",
+        "onboard_time": 1668066445,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174885,
+        "num": 174885,
+        "word": "掌掴幼童男子家属疑似下跪求谅解",
+        "onboard_time": 1668052107,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168652,
+        "num": 168652,
+        "word": "楼上扔烟头烧了楼下阳台晒的被子",
+        "onboard_time": 1668060984,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165825,
+        "num": 165825,
+        "word": "六公主镜头下的翟子路",
+        "onboard_time": 1668063087,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132327,
+        "num": 132327,
+        "word": "你同意手机买新不买旧吗",
+        "onboard_time": 1668057988,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133372,
+        "num": 131854,
+        "word": "六公主镜头下的王鹤棣",
+        "onboard_time": 1668068723,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130948,
+        "num": 130948,
+        "word": "广州新增本土感染者2555例",
+        "onboard_time": 1668048686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "李薇刚结婚就想把尹峥送走",
+        "onboard_time": 1668068367,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11124,
+        "num": 128880,
+        "word": "实拍美国费城最危险街道",
+        "onboard_time": 1668025150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190583,
+        "num": 128747,
+        "word": "河南部分乡镇收到协助富士康招工指标",
+        "onboard_time": 1668068425,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171019,
+        "num": 128725,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128554,
+        "num": 128554,
+        "word": "孙颖莎1比3孙铭阳",
+        "onboard_time": 1668052524,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124040,
+        "num": 124040,
+        "word": "詹姆斯受伤",
+        "onboard_time": 1668059723,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118852,
+        "num": 118852,
+        "word": "华为工程师回应问界M7安全性质疑",
+        "onboard_time": 1668059786,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117612,
+        "num": 117612,
+        "word": "被掌掴男童母亲讲述事发经过",
+        "onboard_time": 1668053908,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110458,
+        "num": 110458,
+        "word": "3岁女童颅内出血铁骑嘶吼开道送医",
+        "onboard_time": 1668049227,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110449,
+        "num": 110449,
+        "word": "云之羽主演是虞书欣张凌赫",
+        "onboard_time": 1668054268,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109968,
+        "num": 109968,
+        "word": "苹果发布iOS16.1.1正式版",
+        "onboard_time": 1668056547,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109216,
+        "num": 109216,
+        "word": "金鸡奖",
+        "onboard_time": 1668054268,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106036,
+        "num": 106036,
+        "word": "丈夫凌晨起床给坐月子妻子烧饭",
+        "onboard_time": 1668054147,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104244,
+        "num": 104244,
+        "word": "哪个瞬间你觉得读书有用",
+        "onboard_time": 1668059245,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103575,
+        "num": 103575,
+        "word": "星辰大海",
+        "onboard_time": 1668049346,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99942,
+        "num": 99942,
+        "word": "俄罗斯宣布从赫尔松撤军",
+        "onboard_time": 1668046228,
+        "rank": 43,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 98626,
+        "num": 98626,
+        "word": "不期而至",
+        "onboard_time": 1668066747,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96970,
+        "num": 96970,
+        "word": "想吃1条魔鬼鱼没点胆量还真不行",
+        "onboard_time": 1668068846,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95399,
+        "num": 95399,
+        "word": "科学家揭示人为何会恶心呕吐",
+        "onboard_time": 1668064224,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95304,
+        "num": 95304,
+        "word": "母亲半夜发现1岁萌娃偷吃东西",
+        "onboard_time": 1668049524,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 88520,
+        "word": "和丁真一起打卡神秘川西",
+        "onboard_time": 1668068964,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 86092,
+        "num": 86092,
+        "word": "清清画的猪八戒是粉色的",
+        "onboard_time": 1668064406,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会乌镇峰会#"
+    }
+  }
+}
