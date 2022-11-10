@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668090937700,
+  "endTime": 1668091808235,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -131,20 +131,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1171499,
+      "num": 1171499,
+      "word": "肠胃不好的人一定要看看",
+      "onboard_time": 1668086186,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1148628,
       "num": 1148628,
       "word": "王俊凯 金鸡奖",
       "onboard_time": 1668061223,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1107820,
-      "num": 1107820,
-      "word": "肠胃不好的人一定要看看",
-      "onboard_time": 1668086186,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 1083566,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 924612,
+      "num": 924612,
+      "word": "英国国王查尔斯三世被扔鸡蛋",
+      "onboard_time": 1668088585,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 905817,
       "num": 427849,
       "word": "时尚芭莎 婚庆公司",
@@ -209,6 +217,14 @@
       "onboard_time": 1668043468,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856893,
+      "num": 856893,
+      "word": "点燃我温暖你第14集封神了",
+      "onboard_time": 1668087988,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 779453,
@@ -243,28 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695527,
-      "num": 695527,
-      "word": "点燃我温暖你第14集封神了",
-      "onboard_time": 1668087988,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 694071,
-      "num": 694071,
-      "word": "英国国王查尔斯三世被扔鸡蛋",
-      "onboard_time": 1668088585,
-      "rank": 34,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 667561,
       "num": 667561,
       "word": "全网唯二的观众居然认亲了",
       "onboard_time": 1668080727,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649167,
+      "num": 303712,
+      "word": "杀人犯潜逃29年被抓时成千万富翁",
+      "onboard_time": 1668089368,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647681,
@@ -280,6 +288,14 @@
       "word": "宋丹丹说王鹤棣条件太好了",
       "onboard_time": 1668073705,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 642034,
+      "num": 320570,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -351,14 +367,6 @@
       "num": 553343,
       "word": "陈飞宇说我和李峋不太像",
       "onboard_time": 1668076284,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 531441,
-      "num": 320570,
-      "word": "陈小纭新剧人设好夹",
-      "onboard_time": 1668086966,
       "rank": 11,
       "category": "影视"
     },
@@ -515,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452792,
-      "num": 266331,
-      "word": "杀人犯潜逃29年被抓时成千万富翁",
-      "onboard_time": 1668089368,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447110,
       "num": 447110,
       "word": "台湾之光只有电池里的电是台湾造的",
@@ -619,6 +619,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 400352,
+      "num": 400352,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395786,
       "num": 329363,
       "word": "杨紫张晚意长相思预约人数破100万",
@@ -681,6 +689,14 @@
       "onboard_time": 1668036803,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 371567,
+      "num": 215978,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 366491,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 319578,
-      "num": 180319,
+      "num": 210946,
       "word": "白敬亭田曦薇新剧醉酒吻",
       "onboard_time": 1668082163,
       "rank": 22,
@@ -832,6 +848,14 @@
       "word": "北京疫情发布会",
       "onboard_time": 1668071185,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305506,
+      "num": 305506,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -987,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260373,
+      "num": 260373,
+      "word": "广州荔湾区进一步强化管控措施",
+      "onboard_time": 1668089429,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258877,
       "num": 164253,
       "word": "王俊凯万里归途金鸡奖现场连线",
       "onboard_time": 1668089185,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257685,
+      "num": 257685,
+      "word": "FPX对阵OMG",
+      "onboard_time": 1668090746,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 255195,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1668066445,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249064,
-      "num": 133712,
-      "word": "张小斐去年金鸡影后今年金鸡主持",
-      "onboard_time": 1668090869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 244163,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1668070828,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225797,
-      "num": 225797,
-      "word": "母女吵架双双爬上15米高塔被困",
-      "onboard_time": 1668088888,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223760,
@@ -1187,6 +1211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207228,
+      "num": 207228,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206059,
       "num": 206059,
       "word": "广州封控区滞留宠物的守护者",
@@ -1195,20 +1227,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 205785,
-      "num": 205785,
-      "word": "广州荔湾区进一步强化管控措施",
-      "onboard_time": 1668089429,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205711,
       "num": 205711,
       "word": "疯狂动物城",
       "onboard_time": 1667992106,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203575,
+      "num": 122650,
+      "word": "卿卿日常",
+      "onboard_time": 1668076107,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 202974,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1668006029,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200611,
+      "num": 200611,
+      "word": "原来猫是通过尾巴表达心情",
+      "onboard_time": 1668087566,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 198814,
@@ -1347,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182856,
-      "num": 103999,
-      "word": "卿卿日常",
-      "onboard_time": 1668076107,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182758,
       "num": 115104,
       "word": "内娱青春疼痛文学男主",
@@ -1363,12 +1395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178044,
-      "num": 178044,
-      "word": "原来猫是通过尾巴表达心情",
-      "onboard_time": 1668087566,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 182170,
+      "num": 129740,
+      "word": "看嘴型是真爱吃",
+      "onboard_time": 1668089725,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 176095,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1668084926,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160104,
-      "num": 129740,
-      "word": "看嘴型是真爱吃",
-      "onboard_time": 1668089725,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 159998,
@@ -1659,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136221,
-      "num": 136221,
-      "word": "FPX对阵OMG",
-      "onboard_time": 1668090746,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136163,
       "num": 123664,
       "word": "李峋眼神里的爱意",
@@ -1835,14 +1851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116242,
-      "num": 116242,
-      "word": "寻找吉林18岁失联女孩",
-      "onboard_time": 1668090028,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115231,
       "num": 115231,
       "word": "用韩剧的方式打开点燃我温暖你",
@@ -1915,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105232,
+      "num": 105232,
+      "word": "震撼视角看海军安徽舰",
+      "onboard_time": 1668091228,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 103692,
       "num": 103692,
       "word": "第五人格演绎之星",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1668077965,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101568,
+      "num": 101568,
+      "word": "美国10月CPI同比上涨7.7%",
+      "onboard_time": 1668090388,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 100695,
@@ -2009,14 +2033,6 @@
       "onboard_time": 1668066747,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98425,
-      "num": 98425,
-      "word": "匈牙利同意刘氏兄弟更改国籍",
-      "onboard_time": 1668090568,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 98081,
@@ -2227,14 +2243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83894,
-      "num": 90650,
-      "word": "美国10月CPI同比上涨7.7%",
-      "onboard_time": 1668090388,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 83034,
       "num": 83034,
       "word": "老师暂停晚自习带全班看红月亮",
@@ -2385,6 +2393,14 @@
       "onboard_time": 1668076885,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66860,
+      "num": 80946,
+      "word": "带你回到20年前",
+      "onboard_time": 1668091767,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 62710,
