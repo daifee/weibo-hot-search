@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 00:54:00
+本榜单时间：2022/11/07 00:30:03 ~ 2022/11/11 01:24:04
 </p>
 </blockquote>
 <p>
@@ -4371,6 +4371,12 @@ LBL（热度：166107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E9%B8%A1%E8%B8%B9%E5%88%B0%E5%A4%B4%23" target="weibo">
+王鹤棣被鸡踹到头（热度：161023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E5%85%A8%E9%94%A6%E8%B5%9B%E5%9B%9B%E5%BC%BA%23" target="weibo">
 王曼昱晋级全锦赛四强（热度：161019）
 </a>
@@ -4487,12 +4493,6 @@ NEVERLAND改编王一博无感（热度：157138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%8F%A3%E9%9F%B3%E4%BC%A0%E6%9F%93%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
 东北口音传染力到底有多强（热度：155105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E9%B8%A1%E8%B8%B9%E5%88%B0%E5%A4%B4%23" target="weibo">
-王鹤棣被鸡踹到头（热度：154610）
 </a>
 </li>
 
@@ -6339,6 +6339,12 @@ eStar有点唱功但不多（热度：82817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%9D%A1%E7%9C%A0%E8%87%AA%E7%94%B1%E4%BA%86%E5%90%97%23" target="weibo">
+你实现睡眠自由了吗（热度：77394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%886%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A535%E4%BE%8B%23" target="weibo">
 11月6日新增本土确诊535例（热度：76851）
 </a>
@@ -6689,12 +6695,6 @@ crocs拖鞋包装袋里封存一只蟑螂（热度：58337）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%88%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%23" target="weibo">
 11月院线电影（热度：36567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%9D%A1%E7%9C%A0%E8%87%AA%E7%94%B1%E4%BA%86%E5%90%97%23" target="weibo">
-你实现睡眠自由了吗（热度：35903）
 </a>
 </li>
 

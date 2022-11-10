@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668099240511,
+  "endTime": 1668101044726,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -5811,6 +5811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161023,
+      "num": 161023,
+      "word": "王鹤棣被鸡踹到头",
+      "onboard_time": 1668098303,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161019,
       "num": 161019,
       "word": "王曼昱晋级全锦赛四强",
@@ -5969,14 +5977,6 @@
       "onboard_time": 1668093748,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154610,
-      "num": 81995,
-      "word": "王鹤棣被鸡踹到头",
-      "onboard_time": 1668098303,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 154209,
@@ -8435,6 +8435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "你实现睡眠自由了吗",
+      "onboard_time": 1668099021,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76851,
       "num": 76851,
       "word": "11月6日新增本土确诊535例",
@@ -8905,14 +8913,6 @@
       "onboard_time": 1667930835,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35903,
-      "num": 52058,
-      "word": "你实现睡眠自由了吗",
-      "onboard_time": 1668099021,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 35078,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668099240511,
+  "endTime": 1668101044726,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -13467,6 +13467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161023,
+      "num": 161023,
+      "word": "王鹤棣被鸡踹到头",
+      "onboard_time": 1668098303,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161019,
       "num": 161019,
       "word": "王曼昱晋级全锦赛四强",
@@ -13832,14 +13840,6 @@
       "word": "朱韵无条件相信李峋",
       "onboard_time": 1667741792,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 154610,
-      "num": 81995,
-      "word": "王鹤棣被鸡踹到头",
-      "onboard_time": 1668098303,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -19163,6 +19163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "你实现睡眠自由了吗",
+      "onboard_time": 1668099021,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77141,
       "num": 77141,
       "word": "舍不得四川的秋天",
@@ -20457,14 +20465,6 @@
       "onboard_time": 1667584037,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35903,
-      "num": 52058,
-      "word": "你实现睡眠自由了吗",
-      "onboard_time": 1668099021,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 35078,
