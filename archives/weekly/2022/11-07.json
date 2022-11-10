@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668093796037,
+  "endTime": 1668094848674,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -363,6 +363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1400156,
+      "num": 1400156,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1354579,
+      "num": 756727,
+      "word": "3周大女婴肚子里取出8个寄生胎",
+      "onboard_time": 1668092247,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1352000,
       "num": 1352000,
       "word": "女子养了1年的多肉是塑料做的",
@@ -385,14 +401,6 @@
       "onboard_time": 1667922687,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1342572,
-      "num": 1342572,
-      "word": "匈牙利同意刘氏兄弟更改国籍",
-      "onboard_time": 1668090568,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 1332622,
@@ -939,6 +947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 782558,
+      "num": 782558,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782313,
       "num": 782313,
       "word": "再见爱人张婉婷",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1668087387,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 721510,
-      "num": 313096,
-      "word": "3周大女婴肚子里取出8个寄生胎",
-      "onboard_time": 1668092247,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712744,
@@ -1288,6 +1296,14 @@
       "word": "女孩截肢又遇肺转移肝癌妈妈痛哭",
       "onboard_time": 1667888007,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611090,
+      "num": 611090,
+      "word": "广州番禺全区一半镇街出现病例",
+      "onboard_time": 1668092067,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1649,14 +1665,6 @@
       "onboard_time": 1667819846,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525614,
-      "num": 313083,
-      "word": "广州番禺全区一半镇街出现病例",
-      "onboard_time": 1668092067,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525406,
@@ -2443,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407755,
+      "num": 407755,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407100,
       "num": 407100,
       "word": "林允儿再获青龙影后提名",
@@ -2521,14 +2537,6 @@
       "onboard_time": 1667852952,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401132,
-      "num": 293227,
-      "word": "张小斐去年金鸡影后今年金鸡主持",
-      "onboard_time": 1668090869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 400520,
@@ -2675,14 +2683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380353,
-      "num": 197511,
-      "word": "少爷和我",
-      "onboard_time": 1668093208,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -2777,6 +2777,14 @@
       "onboard_time": 1668047485,
       "rank": 46,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 366463,
+      "num": 366463,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365239,
@@ -3091,12 +3099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339430,
-      "num": 269840,
-      "word": "寻找吉林18岁失联女孩",
-      "onboard_time": 1668090028,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 338353,
+      "num": 210946,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 335273,
@@ -3145,14 +3153,6 @@
       "onboard_time": 1668059786,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 330817,
-      "num": 210946,
-      "word": "白敬亭田曦薇新剧醉酒吻",
-      "onboard_time": 1668082163,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 330668,
@@ -3841,6 +3841,14 @@
       "onboard_time": 1667970987,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272392,
+      "num": 272392,
+      "word": "当代女生为了省钱有多拼",
+      "onboard_time": 1668092968,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 272073,
@@ -5299,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183649,
+      "num": 137839,
+      "word": "张远詹雯婷合唱荒羽",
+      "onboard_time": 1668093808,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183462,
       "num": 183462,
       "word": "刘耀文VCR说粤语",
@@ -5683,6 +5699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163226,
+      "num": 163226,
+      "word": "真的会反反复复爱一个人吗",
+      "onboard_time": 1668093628,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162902,
       "num": 162902,
       "word": "想吃1条魔鬼鱼没点胆量还真不行",
@@ -5921,14 +5945,6 @@
       "onboard_time": 1668093748,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154418,
-      "num": 154418,
-      "word": "当代女生为了省钱有多拼",
-      "onboard_time": 1668092968,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 154209,
@@ -6545,6 +6561,14 @@
       "onboard_time": 1667751624,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131428,
+      "num": 131428,
+      "word": "中国首位女战神的战斗力到底有多强",
+      "onboard_time": 1668093927,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131273,
@@ -7659,6 +7683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94949,
+      "num": 94949,
+      "word": "英格兰队公布世界杯大名单",
+      "onboard_time": 1668094045,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94358,
       "num": 94358,
       "word": "这个跑秀像极了下班的我",
@@ -8147,6 +8179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84629,
+      "num": 84629,
+      "word": "大家都有在好好读书",
+      "onboard_time": 1668093808,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84452,
       "num": 84452,
       "word": "阮真真处处对人设防的原因",
@@ -8417,14 +8457,6 @@
       "onboard_time": 1667812108,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74593,
-      "num": 74593,
-      "word": "真的会反反复复爱一个人吗",
-      "onboard_time": 1668093628,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 73970,
