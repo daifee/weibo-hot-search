@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668062730256,
+  "endTime": 1668064835474,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -587,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1004894,
+      "num": 1004894,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989979,
       "num": 463702,
       "word": "这就是真公主吧",
@@ -961,14 +969,6 @@
       "onboard_time": 1667830412,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 686625,
-      "num": 686625,
-      "word": "王俊凯 金鸡奖",
-      "onboard_time": 1668061223,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 686490,
@@ -1963,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435710,
+      "num": 435710,
+      "word": "楼上扔烟头烧了楼下阳台晒的被子",
+      "onboard_time": 1668060984,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435357,
       "num": 435357,
       "word": "吴谨言古装仙气",
@@ -2371,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377244,
+      "num": 377244,
+      "word": "吸入用新冠疫苗进北京",
+      "onboard_time": 1668062246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377097,
       "num": 377097,
       "word": "孙颖莎王楚钦互戴奖牌",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1667924965,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355634,
+      "num": 253657,
+      "word": "飞机一下空投12吨水太震撼",
+      "onboard_time": 1668063143,
+      "rank": 11,
+      "category": "军事"
     },
     {
       "raw_hot": 354872,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1667745575,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330926,
+      "num": 330926,
+      "word": "华为工程师回应问界M7安全性质疑",
+      "onboard_time": 1668059786,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 330668,
@@ -3523,14 +3555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257626,
-      "num": 257626,
-      "word": "华为工程师回应问界M7安全性质疑",
-      "onboard_time": 1668059786,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 256532,
       "num": 256532,
       "word": "Meta将启动史上首次大规模裁员",
@@ -3603,12 +3627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248155,
+      "num": 248155,
+      "word": "六公主镜头下的翟子路",
+      "onboard_time": 1668063087,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248085,
       "num": 248085,
       "word": "SEVENTEEN新歌Dream初舞台",
       "onboard_time": 1667827529,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 245828,
+      "word": "王鹤棣星辰大海体验捡鸡蛋",
+      "onboard_time": 1668063025,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 245113,
@@ -4152,6 +4192,14 @@
       "word": "真的有让蚊子都嫌弃的皮肤",
       "onboard_time": 1668038846,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209041,
+      "num": 209041,
+      "word": "夫妻帮离世邻居照顾残障儿子41年",
+      "onboard_time": 1668062965,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4931,6 +4979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165577,
+      "num": 165577,
+      "word": "李峋朱韵在雪地里相爱",
+      "onboard_time": 1668063923,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165571,
       "num": 127014,
       "word": "田曦薇的新剧角色适配度",
@@ -5363,14 +5419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145178,
-      "num": 145178,
-      "word": "楼上扔烟头烧了楼下阳台晒的被子",
-      "onboard_time": 1668060984,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144820,
       "num": 144820,
       "word": "崔然竣翻跳WeFresh",
@@ -5433,6 +5481,14 @@
       "onboard_time": 1667839701,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143406,
+      "num": 143406,
+      "word": "卿卿日常全员持梗上岗",
+      "onboard_time": 1668064584,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 143377,
@@ -5499,14 +5555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140713,
-      "num": 140713,
-      "word": "吸入用新冠疫苗进北京",
-      "onboard_time": 1668062246,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140151,
       "num": 134582,
       "word": "郑秀妍晒乐队的海边合照",
@@ -5528,6 +5576,14 @@
       "word": "小伙网恋被骗后加入对方被判缓刑",
       "onboard_time": 1667852711,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139228,
+      "num": 139228,
+      "word": "大娘体力不支误把警车当出租车",
+      "onboard_time": 1668063326,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -5663,6 +5719,14 @@
       "num": 134083,
       "word": "减肥只吃水煮菜更易反弹",
       "onboard_time": 1667890226,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133455,
+      "num": 133455,
+      "word": "男孩看完牙对牙医又搂又抱",
+      "onboard_time": 1668063505,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -6723,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94627,
+      "num": 94627,
+      "word": "东北一高校女生表演花滑惊艳全场",
+      "onboard_time": 1668064584,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94358,
       "num": 94358,
       "word": "这个跑秀像极了下班的我",
@@ -6907,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89375,
+      "num": 89375,
+      "word": "科学家揭示人为何会恶心呕吐",
+      "onboard_time": 1668064224,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
@@ -6945,6 +7025,14 @@
       "onboard_time": 1667878408,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89016,
+      "num": 89016,
+      "word": "清清画的猪八戒是粉色的",
+      "onboard_time": 1668064406,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 88884,
@@ -7339,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75309,
+      "num": 75309,
+      "word": "一定得去一趟四川",
+      "onboard_time": 1668064826,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 75165,
       "num": 75165,
       "word": "郑州主城区正在有序解封",
@@ -7420,7 +7516,7 @@
     },
     {
       "raw_hot": 71809,
-      "num": 779465,
+      "num": 780430,
       "word": "裸眼3D看中国航展",
       "onboard_time": 1668051986,
       "rank": 2,

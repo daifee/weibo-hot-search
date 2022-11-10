@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668062730256,
+  "endTime": 1668064835474,
   "band_list": [
     {
       "raw_hot": 1908062,
@@ -83,6 +83,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1004894,
+      "num": 1004894,
+      "word": "王俊凯 金鸡奖",
+      "onboard_time": 1668061223,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936868,
       "num": 936868,
       "word": "王鹤棣说当队长没问题",
@@ -129,14 +137,6 @@
       "onboard_time": 1668004586,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 686625,
-      "num": 686625,
-      "word": "王俊凯 金鸡奖",
-      "onboard_time": 1668061223,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 647681,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435710,
+      "num": 435710,
+      "word": "楼上扔烟头烧了楼下阳台晒的被子",
+      "onboard_time": 1668060984,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429983,
       "num": 429983,
       "word": "中国内地富豪榜仅2人财富增长",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377244,
+      "num": 377244,
+      "word": "吸入用新冠疫苗进北京",
+      "onboard_time": 1668062246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372447,
       "num": 372447,
       "word": "茶杯犬背后的真相",
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355634,
+      "num": 253657,
+      "word": "飞机一下空投12吨水太震撼",
+      "onboard_time": 1668063143,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 350143,
       "num": 350143,
       "word": "丁程鑫希望自己保持钝感",
@@ -417,6 +441,14 @@
       "onboard_time": 1668057626,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330926,
+      "num": 330926,
+      "word": "华为工程师回应问界M7安全性质疑",
+      "onboard_time": 1668059786,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 325581,
@@ -531,12 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257626,
-      "num": 257626,
-      "word": "华为工程师回应问界M7安全性质疑",
-      "onboard_time": 1668059786,
-      "rank": 19,
-      "category": "科技"
+      "raw_hot": 248155,
+      "num": 248155,
+      "word": "六公主镜头下的翟子路",
+      "onboard_time": 1668063087,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 245828,
+      "word": "王鹤棣星辰大海体验捡鸡蛋",
+      "onboard_time": 1668063025,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 240753,
@@ -616,6 +656,14 @@
       "word": "真的有让蚊子都嫌弃的皮肤",
       "onboard_time": 1668038846,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209041,
+      "num": 209041,
+      "word": "夫妻帮离世邻居照顾残障儿子41年",
+      "onboard_time": 1668062965,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -771,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165577,
+      "num": 165577,
+      "word": "李峋朱韵在雪地里相爱",
+      "onboard_time": 1668063923,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162914,
       "num": 162914,
       "word": "穿搭果然很重要",
@@ -851,20 +907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145178,
-      "num": 145178,
-      "word": "楼上扔烟头烧了楼下阳台晒的被子",
-      "onboard_time": 1668060984,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140713,
-      "num": 140713,
-      "word": "吸入用新冠疫苗进北京",
-      "onboard_time": 1668062246,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 143406,
+      "num": 143406,
+      "word": "卿卿日常全员持梗上岗",
+      "onboard_time": 1668064584,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 139638,
@@ -873,6 +921,14 @@
       "onboard_time": 1668051205,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139228,
+      "num": 139228,
+      "word": "大娘体力不支误把警车当出租车",
+      "onboard_time": 1668063326,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137329,
@@ -921,6 +977,14 @@
       "onboard_time": 1667999488,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133455,
+      "num": 133455,
+      "word": "男孩看完牙对牙医又搂又抱",
+      "onboard_time": 1668063505,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132724,
@@ -1187,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94627,
+      "num": 94627,
+      "word": "东北一高校女生表演花滑惊艳全场",
+      "onboard_time": 1668064584,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94187,
       "num": 94187,
       "word": "副总师说需歼20出场时一定物有所值",
@@ -1235,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89375,
+      "num": 89375,
+      "word": "科学家揭示人为何会恶心呕吐",
+      "onboard_time": 1668064224,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
       "onboard_time": 1668036381,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89016,
+      "num": 89016,
+      "word": "清清画的猪八戒是粉色的",
+      "onboard_time": 1668064406,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 87841,
@@ -1307,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75309,
+      "num": 75309,
+      "word": "一定得去一趟四川",
+      "onboard_time": 1668064826,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73837,
       "num": 73837,
       "word": "肖八",
@@ -1324,7 +1420,7 @@
     },
     {
       "raw_hot": 71809,
-      "num": 779465,
+      "num": 780430,
       "word": "裸眼3D看中国航展",
       "onboard_time": 1668051986,
       "rank": 2,
