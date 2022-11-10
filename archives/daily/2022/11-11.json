@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668097939574,
+  "endTime": 1668099240511,
   "band_list": [
     {
       "raw_hot": 1107845,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389754,
+      "num": 389754,
+      "word": "距离上班地方仅1.8米是啥体验",
+      "onboard_time": 1668095366,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343066,
       "num": 343066,
       "word": "陈小纭新剧人设好夹",
@@ -81,14 +89,6 @@
       "onboard_time": 1668082163,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317962,
-      "num": 317962,
-      "word": "距离上班地方仅1.8米是啥体验",
-      "onboard_time": 1668095366,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 312682,
@@ -171,6 +171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159705,
+      "num": 98643,
+      "word": "阿瑟含蓄了",
+      "onboard_time": 1668098063,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154610,
+      "num": 81995,
+      "word": "王鹤棣被鸡踹到头",
+      "onboard_time": 1668098303,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153097,
       "num": 127168,
       "word": "卿卿日常观后感",
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119934,
+      "num": 79457,
+      "word": "黑豹2好看吗",
+      "onboard_time": 1668097885,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118386,
       "num": 71055,
       "word": "少爷和我吸血鬼篇",
@@ -273,14 +297,6 @@
       "onboard_time": 1668079764,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97645,
-      "num": 68688,
-      "word": "黑豹2好看吗",
-      "onboard_time": 1668097885,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 94107,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54798,
+      "num": 68659,
+      "word": "妈妈们是懂套娃的",
+      "onboard_time": 1668096265,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 51640,
       "num": 68703,
       "word": "北京朝阳新增感染者36例无社会面",
@@ -387,10 +411,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47057,
-      "num": 68659,
-      "word": "妈妈们是懂套娃的",
-      "onboard_time": 1668096265,
+      "raw_hot": 35903,
+      "num": 52058,
+      "word": "你实现睡眠自由了吗",
+      "onboard_time": 1668099021,
       "rank": 49,
       "category": "情感"
     },
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#直通2022世界互联网大会#"
+    },
+    {
+      "word": "#加快构建网络空间命运共同体#"
     }
   ]
 }
