@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668080162279,
+  "endTime": 1668084689038,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -203,12 +203,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 730771,
+      "num": 348702,
+      "word": "TVB余子明去世",
+      "onboard_time": 1668083544,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 708280,
       "num": 708280,
       "word": "多地宣布开展全民戴口罩行动",
       "onboard_time": 1668067525,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667561,
+      "num": 667561,
+      "word": "全网唯二的观众居然认亲了",
+      "onboard_time": 1668080727,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 647681,
@@ -313,6 +329,14 @@
       "onboard_time": 1668070766,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526276,
+      "num": 526276,
+      "word": "疯狂小杨哥称绝不避税",
+      "onboard_time": 1668082404,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 519906,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447110,
+      "num": 447110,
+      "word": "台湾之光只有电池里的电是台湾造的",
+      "onboard_time": 1668079764,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439074,
       "num": 439074,
       "word": "女生领第一份工资给闺蜜买手机",
@@ -465,6 +497,14 @@
       "onboard_time": 1668076046,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 434193,
+      "num": 381830,
+      "word": "鲁某某家人登门下跪道歉求谅解",
+      "onboard_time": 1668075447,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429983,
@@ -555,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381830,
-      "num": 381830,
-      "word": "鲁某某家人登门下跪道歉求谅解",
-      "onboard_time": 1668075447,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381232,
       "num": 381232,
       "word": "夫妻帮离世邻居照顾残障儿子41年",
       "onboard_time": 1668062965,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377190,
+      "num": 347766,
+      "word": "王鹤棣上树了",
+      "onboard_time": 1668082704,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 372447,
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319009,
+      "num": 319009,
+      "word": "德国队公布世界杯大名单",
+      "onboard_time": 1668080548,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314934,
       "num": 314934,
       "word": "苹果发布iOS16.1.1正式版",
@@ -721,6 +769,14 @@
       "onboard_time": 1668025150,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294511,
+      "num": 176966,
+      "word": "罗本得知父母去世真相",
+      "onboard_time": 1668081924,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 293839,
@@ -803,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272697,
+      "num": 174116,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272073,
       "num": 272073,
       "word": "东北一高校女生表演花滑惊艳全场",
@@ -865,6 +929,14 @@
       "onboard_time": 1668052107,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239619,
+      "num": 103041,
+      "word": "周深是命韵峋环的爱情开关",
+      "onboard_time": 1668082944,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 236257,
@@ -1027,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198814,
+      "num": 198814,
+      "word": "双十一",
+      "onboard_time": 1668083485,
+      "rank": 17,
+      "category": "其它"
+    },
+    {
       "raw_hot": 196674,
       "num": 196674,
       "word": "周鸿祎称360基本不触碰用户数据",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1668047847,
       "rank": 30,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 192245,
+      "num": 102321,
+      "word": "NCTDREAM将发行首张日文单曲",
+      "onboard_time": 1668084324,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 190081,
@@ -1107,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182758,
+      "num": 100905,
+      "word": "内娱青春疼痛文学男主",
+      "onboard_time": 1668080847,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176095,
       "num": 133642,
       "word": "陈哈琳主演金鸡奖宣传片",
@@ -1144,6 +1240,14 @@
       "word": "网友称被面试官当面撕简历",
       "onboard_time": 1668014537,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169673,
+      "num": 169673,
+      "word": "女子水下偶遇顶级伪装大师",
+      "onboard_time": 1668081627,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157959,
+      "num": 157959,
+      "word": "洗发水",
+      "onboard_time": 1668083662,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156936,
       "num": 156936,
       "word": "阿娇是懂有话直说的",
@@ -1233,6 +1345,14 @@
       "onboard_time": 1668051264,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153403,
+      "num": 86217,
+      "word": "卿卿日常观后感",
+      "onboard_time": 1668084566,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 153148,
@@ -1587,12 +1707,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106930,
+      "num": 106930,
+      "word": "凑单",
+      "onboard_time": 1668084446,
+      "rank": 27,
+      "category": "其它"
+    },
+    {
       "raw_hot": 105937,
       "num": 105937,
       "word": "奶奶养猫的真实写照",
       "onboard_time": 1668055709,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103692,
+      "num": 103692,
+      "word": "第五人格演绎之星",
+      "onboard_time": 1668084264,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 103565,
@@ -1633,6 +1769,14 @@
       "onboard_time": 1668064224,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "看得出宝宝很满意这个家",
+      "onboard_time": 1668078865,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 100032,
@@ -1803,14 +1947,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 91720,
-      "num": 91720,
-      "word": "看得出宝宝很满意这个家",
-      "onboard_time": 1668078865,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91555,
       "num": 91555,
       "word": "点燃我温暖你校园感",
@@ -1939,14 +2075,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 78265,
-      "num": 78265,
-      "word": "台湾之光只有电池里的电是台湾造的",
-      "onboard_time": 1668079764,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77570,
       "num": 77570,
       "word": "买东西很快乐的幼崽",
@@ -2035,6 +2163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66025,
+      "num": 86167,
+      "word": "这尾巴真是戳中了我的心巴",
+      "onboard_time": 1668080905,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56257,
       "num": 56257,
       "word": "范世錡入选2022星辰大海",
@@ -2049,6 +2185,14 @@
       "onboard_time": 1668013700,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44840,
+      "num": 86097,
+      "word": "洒水车窄路工作抱娃女子跑车后躲避",
+      "onboard_time": 1668084566,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34648,
@@ -2154,6 +2298,9 @@
     },
     {
       "word": "#世界互联网大会乌镇峰会#"
+    },
+    {
+      "word": "#加快构建网络空间命运共同体#"
     }
   ]
 }
