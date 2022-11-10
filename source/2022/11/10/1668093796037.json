@@ -1,0 +1,410 @@
+{
+  "runTime": 1668093796037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1342572,
+        "num": 1342572,
+        "word": "匈牙利同意刘氏兄弟更改国籍",
+        "onboard_time": 1668090568,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822097,
+        "num": 822097,
+        "word": "肠胃不好的人一定要看看",
+        "onboard_time": 1668086186,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21254,
+        "num": 793578,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 781133,
+        "num": 781133,
+        "word": "英国国王查尔斯三世被扔鸡蛋",
+        "onboard_time": 1668088585,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 777951,
+        "num": 777951,
+        "word": "杀人犯潜逃29年被抓时成千万富翁",
+        "onboard_time": 1668089368,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705522,
+        "num": 705522,
+        "word": "点燃我温暖你第14集封神了",
+        "onboard_time": 1668087988,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663461,
+        "num": 663461,
+        "word": "陈小纭新剧人设好夹",
+        "onboard_time": 1668086966,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644938,
+        "num": 644938,
+        "word": "吴彤一天官宣了15位年轻演员",
+        "onboard_time": 1668077785,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388659,
+        "num": 388659,
+        "word": "广州疫情防控",
+        "onboard_time": 1668079226,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313133,
+        "num": 313133,
+        "word": "母女吵架双双爬上15米高塔被困",
+        "onboard_time": 1668088888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721510,
+        "num": 313096,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525614,
+        "num": 313083,
+        "word": "广州番禺全区一半镇街出现病例",
+        "onboard_time": 1668092067,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502719,
+        "num": 313011,
+        "word": "少爷和我吸血鬼篇",
+        "onboard_time": 1668087387,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466324,
+        "num": 312992,
+        "word": "TVB余子明去世",
+        "onboard_time": 1668083544,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 312952,
+        "num": 312952,
+        "word": "男子抢喝孕妻咖啡边喝边呕",
+        "onboard_time": 1668067464,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401132,
+        "num": 293227,
+        "word": "张小斐去年金鸡影后今年金鸡主持",
+        "onboard_time": 1668090869,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339430,
+        "num": 269840,
+        "word": "寻找吉林18岁失联女孩",
+        "onboard_time": 1668090028,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241428,
+        "num": 241428,
+        "word": "广州荔湾区进一步强化管控措施",
+        "onboard_time": 1668089429,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202997,
+        "num": 202997,
+        "word": "宁波常态化核酸检测频次调整为48小时",
+        "onboard_time": 1668079044,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197527,
+        "num": 197527,
+        "word": "看嘴型是真爱吃",
+        "onboard_time": 1668089725,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380353,
+        "num": 197511,
+        "word": "少爷和我",
+        "onboard_time": 1668093208,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371074,
+        "num": 197436,
+        "word": "疯狂小杨哥称绝不避税",
+        "onboard_time": 1668082404,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330817,
+        "num": 197346,
+        "word": "白敬亭田曦薇新剧醉酒吻",
+        "onboard_time": 1668082163,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328962,
+        "num": 197306,
+        "word": "鲁某某家人登门下跪道歉求谅解",
+        "onboard_time": 1668075447,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197278,
+        "num": 197278,
+        "word": "骑手小哥月入2万全款买138平新房",
+        "onboard_time": 1668070588,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175818,
+        "num": 175818,
+        "word": "FPX对阵OMG",
+        "onboard_time": 1668090746,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167647,
+        "num": 167647,
+        "word": "台湾之光只有电池里的电是台湾造的",
+        "onboard_time": 1668079764,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160125,
+        "num": 160125,
+        "word": "美国10月CPI同比上涨7.7%",
+        "onboard_time": 1668090388,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158559,
+        "num": 158559,
+        "word": "洗发水",
+        "onboard_time": 1668083662,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154418,
+        "num": 154418,
+        "word": "当代女生为了省钱有多拼",
+        "onboard_time": 1668092968,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265030,
+        "num": 153467,
+        "word": "全网唯二的观众居然认亲了",
+        "onboard_time": 1668080727,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207574,
+        "num": 149001,
+        "word": "刘耀文下课了跳舞视频",
+        "onboard_time": 1668092608,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189904,
+        "num": 146188,
+        "word": "宋丹丹说王鹤棣条件太好了",
+        "onboard_time": 1668073705,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187159,
+        "num": 142853,
+        "word": "王俊凯万里归途金鸡奖现场连线",
+        "onboard_time": 1668089185,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 140499,
+        "word": "卿卿日常观后感",
+        "onboard_time": 1668084566,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138880,
+        "num": 138880,
+        "word": "原来猫是通过尾巴表达心情",
+        "onboard_time": 1668087566,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121711,
+        "num": 121711,
+        "word": "90后爸爸在家为女儿搭建一个超市",
+        "onboard_time": 1668090869,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111883,
+        "num": 111883,
+        "word": "EDG转会期",
+        "onboard_time": 1668076046,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108379,
+        "num": 108379,
+        "word": "樊振东削球手上线",
+        "onboard_time": 1668088224,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106886,
+        "num": 106886,
+        "word": "女子水下偶遇顶级伪装大师",
+        "onboard_time": 1668081627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166342,
+        "num": 106500,
+        "word": "卿卿日常",
+        "onboard_time": 1668076107,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "凑单",
+        "onboard_time": 1668084446,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 91955,
+        "num": 91955,
+        "word": "北京朝阳新增感染者36例无社会面",
+        "onboard_time": 1668076166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90342,
+        "num": 90342,
+        "word": "夫妻吵架婴儿被锁车内大哭满身汗",
+        "onboard_time": 1668069867,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83594,
+        "num": 83594,
+        "word": "检方介入鲁某某掌掴幼童案",
+        "onboard_time": 1668070766,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75682,
+        "num": 75682,
+        "word": "德国队公布世界杯大名单",
+        "onboard_time": 1668080548,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74593,
+        "num": 74593,
+        "word": "真的会反反复复爱一个人吗",
+        "onboard_time": 1668093628,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155105,
+        "num": 74331,
+        "word": "东北口音传染力到底有多强",
+        "onboard_time": 1668093748,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72234,
+        "num": 72234,
+        "word": "人民网评男子上门掌掴男童",
+        "onboard_time": 1668067107,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72163,
+        "num": 72163,
+        "word": "GEN官宣ruler离队",
+        "onboard_time": 1668070828,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建网络空间命运共同体#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668091808235,
+  "endTime": 1668093796037,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -385,6 +385,14 @@
       "onboard_time": 1667922687,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1342572,
+      "num": 1342572,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 1332622,
@@ -947,6 +955,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 777951,
+      "num": 777951,
+      "word": "杀人犯潜逃29年被抓时成千万富翁",
+      "onboard_time": 1668089368,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776191,
       "num": 776191,
       "word": "孙俪当主编出的第二套儿童绘本",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1668087387,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721510,
+      "num": 313096,
+      "word": "3周大女婴肚子里取出8个寄生胎",
+      "onboard_time": 1668092247,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712744,
@@ -1171,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663461,
+      "num": 663461,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654889,
       "num": 654889,
       "word": "林高远王曼昱混双夺冠",
@@ -1187,14 +1219,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 649167,
-      "num": 303712,
-      "word": "杀人犯潜逃29年被抓时成千万富翁",
-      "onboard_time": 1668089368,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647681,
       "num": 647681,
       "word": "扎克伯格就万人被裁视频致歉",
@@ -1208,14 +1232,6 @@
       "word": "宋丹丹说王鹤棣条件太好了",
       "onboard_time": 1668073705,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 642034,
-      "num": 320570,
-      "word": "陈小纭新剧人设好夹",
-      "onboard_time": 1668086966,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -1633,6 +1649,14 @@
       "onboard_time": 1667819846,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525614,
+      "num": 313083,
+      "word": "广州番禺全区一半镇街出现病例",
+      "onboard_time": 1668092067,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525406,
@@ -2499,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401132,
+      "num": 293227,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400520,
       "num": 400520,
       "word": "孟羽童再发文辟谣离职",
@@ -2513,14 +2545,6 @@
       "onboard_time": 1667983826,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400352,
-      "num": 400352,
-      "word": "匈牙利同意刘氏兄弟更改国籍",
-      "onboard_time": 1668090568,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 396889,
@@ -2651,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380353,
+      "num": 197511,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1667973626,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371567,
-      "num": 215978,
-      "word": "张小斐去年金鸡影后今年金鸡主持",
-      "onboard_time": 1668090869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 370943,
@@ -3067,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339430,
+      "num": 269840,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335273,
       "num": 335273,
       "word": "AJ涵艺爆料LPL转会期",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1668059786,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 330817,
+      "num": 210946,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 330668,
@@ -3267,14 +3307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319578,
-      "num": 210946,
-      "word": "白敬亭田曦薇新剧醉酒吻",
-      "onboard_time": 1668082163,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319009,
       "num": 319009,
       "word": "德国队公布世界杯大名单",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1668065424,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313133,
+      "num": 313133,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311951,
@@ -3368,14 +3408,6 @@
       "word": "成都警方回应2男子深夜追赶女子",
       "onboard_time": 1667995886,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305506,
-      "num": 305506,
-      "word": "母女吵架双双爬上15米高塔被困",
-      "onboard_time": 1668088888,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4723,20 +4755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207574,
+      "num": 149001,
+      "word": "刘耀文下课了跳舞视频",
+      "onboard_time": 1668092608,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207322,
       "num": 207322,
       "word": "锦鲤",
       "onboard_time": 1667958806,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 207228,
-      "num": 207228,
-      "word": "寻找吉林18岁失联女孩",
-      "onboard_time": 1668090028,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206909,
@@ -4913,6 +4945,14 @@
       "onboard_time": 1667869468,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197527,
+      "num": 197527,
+      "word": "看嘴型是真爱吃",
+      "onboard_time": 1668089725,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 197127,
@@ -5280,14 +5320,6 @@
       "word": "谁能拒绝好看的赠品啊",
       "onboard_time": 1667887286,
       "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 182170,
-      "num": 129740,
-      "word": "看嘴型是真爱吃",
-      "onboard_time": 1668089725,
-      "rank": 35,
       "category": "幽默"
     },
     {
@@ -5779,6 +5811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160125,
+      "num": 160125,
+      "word": "美国10月CPI同比上涨7.7%",
+      "onboard_time": 1668090388,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159998,
       "num": 159998,
       "word": "张超回应激情执教风格",
@@ -5873,6 +5913,22 @@
       "onboard_time": 1667903373,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155105,
+      "num": 74331,
+      "word": "东北口音传染力到底有多强",
+      "onboard_time": 1668093748,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154418,
+      "num": 154418,
+      "word": "当代女生为了省钱有多拼",
+      "onboard_time": 1668092968,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 154209,
@@ -7323,14 +7379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101568,
-      "num": 101568,
-      "word": "美国10月CPI同比上涨7.7%",
-      "onboard_time": 1668090388,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101481,
       "num": 101481,
       "word": "老人患阿兹海默病与镜中自己聊天",
@@ -8369,6 +8417,14 @@
       "onboard_time": 1667812108,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74593,
+      "num": 74593,
+      "word": "真的会反反复复爱一个人吗",
+      "onboard_time": 1668093628,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 73970,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668011540154,
-  "endTime": 1668091808235,
+  "endTime": 1668093796037,
   "band_list": [
     {
       "raw_hot": 2190207,
@@ -73,6 +73,14 @@
       "onboard_time": 1668057448,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1342572,
+      "num": 1342572,
+      "word": "匈牙利同意刘氏兄弟更改国籍",
+      "onboard_time": 1668090568,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 1305652,
@@ -235,6 +243,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 777951,
+      "num": 777951,
+      "word": "杀人犯潜逃29年被抓时成千万富翁",
+      "onboard_time": 1668089368,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773371,
       "num": 305487,
       "word": "南京被掌掴男童母亲发声",
@@ -249,6 +265,14 @@
       "onboard_time": 1668087387,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721510,
+      "num": 313096,
+      "word": "3周大女婴肚子里取出8个寄生胎",
+      "onboard_time": 1668092247,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708280,
@@ -267,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649167,
-      "num": 303712,
-      "word": "杀人犯潜逃29年被抓时成千万富翁",
-      "onboard_time": 1668089368,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 663461,
+      "num": 663461,
+      "word": "陈小纭新剧人设好夹",
+      "onboard_time": 1668086966,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 647681,
@@ -288,14 +312,6 @@
       "word": "宋丹丹说王鹤棣条件太好了",
       "onboard_time": 1668073705,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 642034,
-      "num": 320570,
-      "word": "陈小纭新剧人设好夹",
-      "onboard_time": 1668086966,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -392,6 +408,14 @@
       "word": "检方介入鲁某某掌掴幼童案",
       "onboard_time": 1668070766,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525614,
+      "num": 313083,
+      "word": "广州番禺全区一半镇街出现病例",
+      "onboard_time": 1668092067,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -619,12 +643,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 400352,
-      "num": 400352,
-      "word": "匈牙利同意刘氏兄弟更改国籍",
-      "onboard_time": 1668090568,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 401132,
+      "num": 293227,
+      "word": "张小斐去年金鸡影后今年金鸡主持",
+      "onboard_time": 1668090869,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 395786,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380353,
+      "num": 197511,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377190,
       "num": 347766,
       "word": "王鹤棣上树了",
@@ -689,14 +721,6 @@
       "onboard_time": 1668036803,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 371567,
-      "num": 215978,
-      "word": "张小斐去年金鸡影后今年金鸡主持",
-      "onboard_time": 1668090869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 366491,
@@ -779,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339430,
+      "num": 269840,
+      "word": "寻找吉林18岁失联女孩",
+      "onboard_time": 1668090028,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330926,
       "num": 330926,
       "word": "华为工程师回应问界M7安全性质疑",
       "onboard_time": 1668059786,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 330817,
+      "num": 210946,
+      "word": "白敬亭田曦薇新剧醉酒吻",
+      "onboard_time": 1668082163,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 325581,
@@ -811,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319578,
-      "num": 210946,
-      "word": "白敬亭田曦薇新剧醉酒吻",
-      "onboard_time": 1668082163,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319009,
       "num": 319009,
       "word": "德国队公布世界杯大名单",
@@ -843,19 +875,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313133,
+      "num": 313133,
+      "word": "母女吵架双双爬上15米高塔被困",
+      "onboard_time": 1668088888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308354,
       "num": 308354,
       "word": "北京疫情发布会",
       "onboard_time": 1668071185,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305506,
-      "num": 305506,
-      "word": "母女吵架双双爬上15米高塔被困",
-      "onboard_time": 1668088888,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1211,12 +1243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207228,
-      "num": 207228,
-      "word": "寻找吉林18岁失联女孩",
-      "onboard_time": 1668090028,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 207574,
+      "num": 149001,
+      "word": "刘耀文下课了跳舞视频",
+      "onboard_time": 1668092608,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206059,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1668083485,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 197527,
+      "num": 197527,
+      "word": "看嘴型是真爱吃",
+      "onboard_time": 1668089725,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 196674,
@@ -1395,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182170,
-      "num": 129740,
-      "word": "看嘴型是真爱吃",
-      "onboard_time": 1668089725,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176095,
       "num": 133642,
       "word": "陈哈琳主演金鸡奖宣传片",
@@ -1499,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160125,
+      "num": 160125,
+      "word": "美国10月CPI同比上涨7.7%",
+      "onboard_time": 1668090388,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159998,
       "num": 159998,
       "word": "张超回应激情执教风格",
@@ -1537,6 +1577,22 @@
       "onboard_time": 1668084446,
       "rank": 27,
       "category": "其它"
+    },
+    {
+      "raw_hot": 155105,
+      "num": 74331,
+      "word": "东北口音传染力到底有多强",
+      "onboard_time": 1668093748,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154418,
+      "num": 154418,
+      "word": "当代女生为了省钱有多拼",
+      "onboard_time": 1668092968,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 154209,
@@ -1963,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101568,
-      "num": 101568,
-      "word": "美国10月CPI同比上涨7.7%",
-      "onboard_time": 1668090388,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 100695,
       "num": 100695,
       "word": "2025年居民拥有功能完备电子健康码",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1668064826,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 74593,
+      "num": 74593,
+      "word": "真的会反反复复爱一个人吗",
+      "onboard_time": 1668093628,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 73837,
