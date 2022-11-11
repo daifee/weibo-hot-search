@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668191359186,
+  "endTime": 1668192370248,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -22889,6 +22889,14 @@
       "onboard_time": 1668017235,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23272,
+      "num": 28206,
+      "word": "90后女孩放弃电视台和法院考上供销社",
+      "onboard_time": 1668191836,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23068,
