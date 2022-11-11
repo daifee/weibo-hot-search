@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668171030588,
+  "endTime": 1668172345910,
   "band_list": [
     {
       "raw_hot": 3608962,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957805,
+      "num": 957805,
+      "word": "男生中奖后太激动被人事谈话",
+      "onboard_time": 1668167609,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922407,
       "num": 437772,
       "word": "摆烂 论文",
@@ -185,14 +193,6 @@
       "onboard_time": 1668136706,
       "rank": 4,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 843210,
-      "num": 843210,
-      "word": "男生中奖后太激动被人事谈话",
-      "onboard_time": 1668167609,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 817434,
@@ -539,6 +539,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 415190,
+      "num": 415190,
+      "word": "女子精致出摊日销200盒炒粉走红",
+      "onboard_time": 1668168449,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412612,
       "num": 412612,
       "word": "中餐厅6合伙人全员入戏",
@@ -672,14 +680,6 @@
       "word": "女子第一次下厨把活鱼扔锅里煮",
       "onboard_time": 1668148903,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355454,
-      "num": 355454,
-      "word": "女子精致出摊日销200盒炒粉走红",
-      "onboard_time": 1668168449,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -923,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254174,
+      "num": 254174,
+      "word": "狗子此生见过最投缘的女孩",
+      "onboard_time": 1668169891,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247256,
       "num": 247256,
       "word": "周五奖励一下自己",
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211749,
+      "num": 211749,
+      "word": "天津女子买煎饼老板不在自己动手摊",
+      "onboard_time": 1668170672,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211298,
       "num": 130497,
       "word": "TVB余子明去世",
@@ -1171,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192776,
+      "num": 192776,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1668171691,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190992,
       "num": 190992,
       "word": "卿卿日常首日开播网播第二",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1668133167,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 187634,
+      "num": 187634,
+      "word": "你为什么迟迟还没释怀",
+      "onboard_time": 1668169172,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 186915,
@@ -1283,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175447,
+      "num": 175447,
+      "word": "严浩翔把蜘蛛网穿在身上",
+      "onboard_time": 1668171513,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168837,
       "num": 154690,
       "word": "偷偷藏不住站内预约破50万",
@@ -1339,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158150,
-      "num": 158150,
-      "word": "狗子此生见过最投缘的女孩",
-      "onboard_time": 1668169891,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157731,
       "num": 157731,
       "word": "王濛为解说世界杯提前练嘴",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1668084566,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152761,
+      "num": 152761,
+      "word": "乳腺结节到底是怎么产生的",
+      "onboard_time": 1668170851,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151292,
@@ -1499,14 +1539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134893,
-      "num": 134893,
-      "word": "你为什么迟迟还没释怀",
-      "onboard_time": 1668169172,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134438,
       "num": 134438,
       "word": "gidle新歌Change特别MV",
@@ -1547,6 +1579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131743,
+      "num": 131743,
+      "word": "天下长河今日开播",
+      "onboard_time": 1668169712,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127775,
+      "num": 127775,
+      "word": "超6成榴莲被年轻人买走",
+      "onboard_time": 1668170012,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127489,
       "num": 127489,
       "word": "李薇申请加入三少主受害者联盟",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1668163831,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123277,
+      "num": 123277,
+      "word": "头一次吃这么熟的火龙果",
+      "onboard_time": 1668171811,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122372,
@@ -1683,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112448,
+      "num": 112448,
+      "word": "林高远周启豪4比2向鹏袁励岑",
+      "onboard_time": 1668170189,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112293,
       "num": 112293,
       "word": "李峋对朱韵说以后再敢撒谎后果自负",
@@ -1723,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110140,
-      "num": 110140,
-      "word": "超6成榴莲被年轻人买走",
-      "onboard_time": 1668170012,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109513,
       "num": 109513,
       "word": "光头可以学起来了",
@@ -1761,14 +1817,6 @@
       "onboard_time": 1668149503,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103991,
-      "num": 103991,
-      "word": "天津女子买煎饼老板不在自己动手摊",
-      "onboard_time": 1668170672,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102312,
@@ -1843,14 +1891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95118,
-      "num": 95118,
-      "word": "林高远周启豪4比2向鹏袁励岑",
-      "onboard_time": 1668170189,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94107,
       "num": 71047,
       "word": "张馨予晒何捷探班vlog",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1668122659,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93421,
+      "num": 115033,
+      "word": "双十一iPhone14价格新低",
+      "onboard_time": 1668171631,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93155,
@@ -1905,6 +1953,22 @@
       "onboard_time": 1668150941,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89091,
+      "num": 89091,
+      "word": "你以为的李峋vs实际的李峋",
+      "onboard_time": 1668172232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 89061,
+      "num": 89061,
+      "word": "田曦薇新剧哭戏",
+      "onboard_time": 1668171570,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 88942,
@@ -1955,12 +2019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84864,
-      "num": 84864,
-      "word": "乳腺结节到底是怎么产生的",
-      "onboard_time": 1668170851,
+      "raw_hot": 84978,
+      "num": 84836,
+      "word": "卿卿日常甜度超标",
+      "onboard_time": 1668171391,
       "rank": 48,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 84799,
@@ -2163,7 +2227,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19522,
+      "raw_hot": 24981,
       "num": 650720,
       "word": "天舟四号撤离视角看中国空间站",
       "onboard_time": 1668140910,
