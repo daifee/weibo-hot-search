@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668184301982,
+  "endTime": 1668185588419,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -3763,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629846,
+      "num": 629846,
+      "word": "QQ内测微信登录功能",
+      "onboard_time": 1668182672,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 627668,
       "num": 627668,
       "word": "披荆斩棘总决赛排名",
@@ -6403,6 +6411,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 427933,
+      "num": 427933,
+      "word": "白敬亭尹峥好会亲",
+      "onboard_time": 1668184349,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427417,
       "num": 427417,
       "word": "1岁宝宝误食安定药昏迷保姆未告知",
@@ -6857,14 +6873,6 @@
       "onboard_time": 1667226329,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402380,
-      "num": 402380,
-      "word": "QQ内测微信登录功能",
-      "onboard_time": 1668182672,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 402367,
@@ -11817,6 +11825,14 @@
       "onboard_time": 1668157899,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224557,
+      "num": 224557,
+      "word": "奔跑吧下期全员给周深过生日",
+      "onboard_time": 1668184653,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 224087,
@@ -17425,6 +17441,14 @@
       "onboard_time": 1667920710,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124137,
+      "num": 99721,
+      "word": "郑秀妍上菜反问顾客菜名",
+      "onboard_time": 1668184584,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 123936,

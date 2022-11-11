@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668184301982,
+  "endTime": 1668185588419,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629846,
+      "num": 629846,
+      "word": "QQ内测微信登录功能",
+      "onboard_time": 1668182672,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 627636,
       "num": 627636,
       "word": "扎克伯格承认脸书因失误大规模裁员",
@@ -2899,6 +2907,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 427933,
+      "num": 427933,
+      "word": "白敬亭尹峥好会亲",
+      "onboard_time": 1668184349,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427106,
       "num": 405996,
       "word": "陈飞宇新浪扫楼",
@@ -3121,14 +3137,6 @@
       "onboard_time": 1668069867,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402380,
-      "num": 402380,
-      "word": "QQ内测微信登录功能",
-      "onboard_time": 1668182672,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 402155,
@@ -5689,6 +5697,14 @@
       "onboard_time": 1668157899,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224557,
+      "num": 224557,
+      "word": "奔跑吧下期全员给周深过生日",
+      "onboard_time": 1668184653,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 224087,
@@ -8513,6 +8529,14 @@
       "onboard_time": 1667920710,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124137,
+      "num": 99721,
+      "word": "郑秀妍上菜反问顾客菜名",
+      "onboard_time": 1668184584,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 123936,
