@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/11 18:26:52
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/11 18:44:22
 </p>
 </blockquote>
 <p>
@@ -76,7 +76,7 @@ T1和DRX决胜局（热度：3699608）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E6%9C%8D%E5%8A%A1%E5%91%98%E5%85%88%E8%AF%B4%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E8%A2%AB%E5%B0%81%23" target="weibo">
-奶茶店因服务员先说欢迎光临被封（热度：3525410）
+奶茶店因服务员先说欢迎光临被封（热度：3608962）
 </a>
 </li>
 
@@ -963,6 +963,12 @@ Deft世界赛首冠（热度：1226043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%A8%E9%9A%94%E6%AC%A1%E5%AF%86%E6%8E%A5%E8%A7%A3%E9%99%A4%E9%9A%94%E7%A6%BB%23" target="weibo">
+广州在隔次密接解除隔离（热度：1207612）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 广州疫情防控（热度：1207569）
 </a>
@@ -1247,12 +1253,6 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%A4%9A%E5%90%8D%E5%B9%B2%E9%83%A8%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E8%81%9A%E9%9B%86%E9%A5%AE%E9%85%92%23" target="weibo">
 呼和浩特多名干部疫情期间聚集饮酒（热度：1063616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%A8%E9%9A%94%E6%AC%A1%E5%AF%86%E6%8E%A5%E8%A7%A3%E9%99%A4%E9%9A%94%E7%A6%BB%23" target="weibo">
-广州在隔次密接解除隔离（热度：1056063）
 </a>
 </li>
 
@@ -3407,6 +3407,12 @@ seventeen gma（热度：563781）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%23" target="weibo">
 Uzi（热度：545441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%9C%AA%E5%85%88%E8%AF%B4%E6%89%AB%E7%A0%81%E8%A2%AB%E5%B0%81%23" target="weibo">
+官方回应网传一奶茶店未先说扫码被封（热度：545016）
 </a>
 </li>
 
@@ -5759,12 +5765,6 @@ INTO1舞台走位（热度：355475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B9%9D%E9%BE%99%E5%9D%A1%E5%8C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 重庆九龙坡区疫情防控（热度：354822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%9C%AA%E5%85%88%E8%AF%B4%E6%89%AB%E7%A0%81%E8%A2%AB%E5%B0%81%23" target="weibo">
-官方回应网传一奶茶店未先说扫码被封（热度：354709）
 </a>
 </li>
 
