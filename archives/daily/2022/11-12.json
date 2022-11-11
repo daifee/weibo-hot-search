@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668199143831,
+  "endTime": 1668201619280,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -483,28 +483,44 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16546,
-      "num": 16546,
+      "raw_hot": 29107,
+      "num": 29107,
+      "word": "河南雨雪降温大风同步抵达",
+      "onboard_time": 1668199633,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20886,
+      "num": 20886,
       "word": "第一次见这么懒的猫",
       "onboard_time": 1668196933,
       "rank": 45,
       "category": "幽默"
     },
     {
-      "raw_hot": 13265,
-      "num": 13265,
+      "raw_hot": 15015,
+      "num": 15015,
       "word": "大张伟一开口就是笑点",
       "onboard_time": 1668198614,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 12833,
+      "raw_hot": 14093,
       "num": 14589,
       "word": "第一次见这么稳的狗",
       "onboard_time": 1668197473,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12626,
+      "num": 13280,
+      "word": "男子戴白手套欲撬锁主人敲门回应",
+      "onboard_time": 1668201014,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8674,
