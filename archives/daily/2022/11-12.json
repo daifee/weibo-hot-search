@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668205384005,
+  "endTime": 1668206409059,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186139,
+      "num": 186139,
+      "word": "男子戴白手套欲撬锁主人敲门回应",
+      "onboard_time": 1668201014,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182683,
       "num": 149105,
       "word": "白鹿夹子音输给了周深",
@@ -273,14 +281,6 @@
       "onboard_time": 1668183691,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 117418,
-      "num": 117418,
-      "word": "男子戴白手套欲撬锁主人敲门回应",
-      "onboard_time": 1668201014,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111599,
@@ -403,20 +403,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 82021,
+      "num": 64340,
+      "word": "90后女孩放弃电视台和法院考上供销社",
+      "onboard_time": 1668191836,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76640,
       "num": 99490,
       "word": "差点把大哥打哭了",
       "onboard_time": 1668176913,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71691,
-      "num": 50205,
-      "word": "90后女孩放弃电视台和法院考上供销社",
-      "onboard_time": 1668191836,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69199,
@@ -435,8 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64230,
-      "num": 64230,
+      "raw_hot": 65643,
+      "num": 65643,
       "word": "河南雨雪降温大风同步抵达",
       "onboard_time": 1668199633,
       "rank": 9,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 37994,
-      "num": 24221,
+      "num": 30131,
       "word": "重庆一楼整个屋顶种满菜",
       "onboard_time": 1668193753,
       "rank": 47,
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26469,
+      "num": 26469,
+      "word": "第一次见这么懒的猫",
+      "onboard_time": 1668196933,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22604,
       "num": 22604,
       "word": "大张伟一开口就是笑点",
@@ -507,24 +515,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21753,
-      "num": 21753,
-      "word": "第一次见这么懒的猫",
-      "onboard_time": 1668196933,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 17641,
-      "num": 17641,
+      "raw_hot": 21715,
+      "num": 21715,
       "word": "第一次见这么稳的狗",
       "onboard_time": 1668197473,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 11924,
-      "num": 16221,
+      "raw_hot": 21629,
+      "num": 21629,
+      "word": "朱韵想和李峋一起参加比赛",
+      "onboard_time": 1668206175,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 20106,
+      "num": 20106,
       "word": "辅警为救老人摔骨折忍痛爬行20米",
       "onboard_time": 1668204252,
       "rank": 49,
