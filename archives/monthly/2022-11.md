@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 07:23:42
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 07:39:22
 </p>
 </blockquote>
 <p>
@@ -2361,6 +2361,12 @@ Jennie演唱会中途脚伤复发（热度：742614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E5%B9%BC%E7%AB%A5%E4%BA%8B%E4%BB%B631%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23" target="weibo">
+男子掌掴幼童事件31分钟监控曝光（热度：704560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%81%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E6%AF%94%E4%BA%8C%E6%88%98%E6%97%B6%E8%BF%98%E7%B3%9F%23" target="weibo">
 英国老人吐槽现在比二战时还糟（热度：704169）
 </a>
@@ -2585,12 +2591,6 @@ EXO台历（热度：673804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8E%A8%E6%90%A1%23" target="weibo">
 梨泰院踩踏事故目击者称有人故意推搡（热度：670991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E5%B9%BC%E7%AB%A5%E4%BA%8B%E4%BB%B631%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23" target="weibo">
-男子掌掴幼童事件31分钟监控曝光（热度：670220）
 </a>
 </li>
 

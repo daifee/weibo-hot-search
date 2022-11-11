@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668209022129,
+  "endTime": 1668209962192,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670220,
+      "raw_hot": 704560,
       "num": 670220,
       "word": "男子掌掴幼童事件31分钟监控曝光",
       "onboard_time": 1668177034,
@@ -91,20 +91,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 347658,
+      "num": 347658,
+      "word": "男子戴白手套欲撬锁主人敲门回应",
+      "onboard_time": 1668201014,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331564,
       "num": 281654,
       "word": "吴京刘德华被李雪健发言说泪目了",
       "onboard_time": 1668182070,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301595,
-      "num": 301595,
-      "word": "男子戴白手套欲撬锁主人敲门回应",
-      "onboard_time": 1668201014,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292566,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246254,
+      "num": 246254,
+      "word": "女子精致出摊日销200盒炒粉走红",
+      "onboard_time": 1668168449,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240605,
       "num": 240605,
       "word": "中国男篮vs伊朗男篮",
@@ -145,6 +153,14 @@
       "onboard_time": 1668180632,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "父母给女儿取名龙葵寓意向阳而生",
+      "onboard_time": 1668173735,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224557,
@@ -163,14 +179,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 223181,
-      "num": 223181,
-      "word": "女子精致出摊日销200盒炒粉走红",
-      "onboard_time": 1668168449,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217342,
       "num": 151421,
       "word": "遇人不赎",
@@ -179,11 +187,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210625,
-      "num": 210625,
-      "word": "父母给女儿取名龙葵寓意向阳而生",
-      "onboard_time": 1668173735,
-      "rank": 16,
+      "raw_hot": 186768,
+      "num": 106812,
+      "word": "90后女孩放弃电视台和法院考上供销社",
+      "onboard_time": 1668191836,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 175975,
-      "num": 106812,
-      "word": "90后女孩放弃电视台和法院考上供销社",
-      "onboard_time": 1668191836,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153387,
       "num": 153387,
       "word": "宝可梦小智两连冠",
@@ -225,6 +225,14 @@
       "onboard_time": 1668174451,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149819,
+      "num": 149819,
+      "word": "内娱舞台的双向奔赴",
+      "onboard_time": 1668207742,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 148982,
@@ -248,6 +256,22 @@
       "word": "男生中奖后太激动被人事谈话",
       "onboard_time": 1668167609,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "教师爸爸给5个月宝宝教高中函数",
+      "onboard_time": 1668187401,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 142508,
+      "num": 142508,
+      "word": "辅警为救老人摔骨折忍痛爬行20米",
+      "onboard_time": 1668204252,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109340,
-      "num": 109340,
-      "word": "教师爸爸给5个月宝宝教高中函数",
-      "onboard_time": 1668187401,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 108974,
       "num": 108974,
       "word": "头一次吃这么熟的火龙果",
@@ -323,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102471,
-      "num": 102471,
-      "word": "辅警为救老人摔骨折忍痛爬行20米",
-      "onboard_time": 1668204252,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 103794,
+      "num": 103794,
+      "word": "老婆怀孕后老公在做些什么",
+      "onboard_time": 1668190935,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 102225,
@@ -403,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88264,
+      "num": 88264,
+      "word": "LBL",
+      "onboard_time": 1668191954,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86181,
+      "num": 86181,
+      "word": "中国男篮战胜伊朗男篮",
+      "onboard_time": 1668209241,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86074,
       "num": 99563,
       "word": "小狗狗生气有多可爱",
@@ -411,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84682,
-      "num": 84682,
-      "word": "内娱舞台的双向奔赴",
-      "onboard_time": 1668207742,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 84234,
+      "num": 84234,
+      "word": "第一次见这么懒的猫",
+      "onboard_time": 1668196933,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 83850,
@@ -427,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83757,
-      "num": 83757,
-      "word": "老婆怀孕后老公在做些什么",
-      "onboard_time": 1668190935,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 83250,
       "num": 99607,
       "word": "国家一级演员刘学军逝世",
       "onboard_time": 1668174212,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 82102,
+      "num": 82102,
+      "word": "河南雨雪降温大风同步抵达",
+      "onboard_time": 1668199633,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76640,
@@ -451,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69476,
-      "num": 69476,
-      "word": "LBL",
-      "onboard_time": 1668191954,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 74509,
+      "num": 74509,
+      "word": "大多数人没见过的金色珠穆朗玛峰",
+      "onboard_time": 1668209241,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 69199,
@@ -475,22 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67277,
-      "num": 67277,
-      "word": "河南雨雪降温大风同步抵达",
-      "onboard_time": 1668199633,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66109,
-      "num": 66109,
-      "word": "第一次见这么懒的猫",
-      "onboard_time": 1668196933,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 63972,
       "num": 99500,
       "word": "男生吃杨国福1年发现竟是杨围福",
@@ -499,16 +515,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51435,
-      "num": 51435,
+      "raw_hot": 57790,
+      "num": 57790,
       "word": "第一次见这么稳的狗",
       "onboard_time": 1668197473,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 46400,
-      "num": 46400,
+      "raw_hot": 52927,
+      "num": 52927,
+      "word": "35岁梅西第5次参加世界杯",
+      "onboard_time": 1668209663,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52145,
+      "num": 52145,
       "word": "重庆一楼整个屋顶种满菜",
       "onboard_time": 1668193753,
       "rank": 47,
