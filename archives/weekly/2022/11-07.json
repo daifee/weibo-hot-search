@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668187394092,
+  "endTime": 1668188414147,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -9083,6 +9083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108965,
+      "num": 90074,
+      "word": "蔡徐坤独自演偶像剧",
+      "onboard_time": 1668187938,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "那兔空军特别版",
@@ -11041,6 +11049,14 @@
       "onboard_time": 1668084566,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43942,
+      "num": 43942,
+      "word": "教师爸爸给5个月宝宝教高中函数",
+      "onboard_time": 1668187401,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 43858,
