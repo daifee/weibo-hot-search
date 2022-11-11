@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668175054469,
+  "endTime": 1668176503356,
   "band_list": [
     {
       "raw_hot": 3608962,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1297184,
+      "num": 1297184,
+      "word": "朱一龙领奖嘴瓢太可爱了",
+      "onboard_time": 1668173970,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1283581,
       "num": 1283581,
       "word": "突然就不想乱买东西了",
@@ -145,14 +153,6 @@
       "onboard_time": 1668093208,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 996827,
-      "num": 996827,
-      "word": "朱一龙领奖嘴瓢太可爱了",
-      "onboard_time": 1668173970,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 957805,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469353,
+      "num": 469353,
+      "word": "乳腺结节到底是怎么产生的",
+      "onboard_time": 1668170851,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464717,
       "num": 464717,
       "word": "微信否认可撤回五分钟内消息",
@@ -529,6 +537,14 @@
       "onboard_time": 1668163533,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431444,
+      "num": 165047,
+      "word": "学校回应翻墙男子骑车三天三夜",
+      "onboard_time": 1668173791,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 422826,
@@ -643,12 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388478,
-      "num": 388478,
-      "word": "乳腺结节到底是怎么产生的",
-      "onboard_time": 1668170851,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 387797,
+      "num": 387797,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1668173311,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 386549,
@@ -672,6 +688,14 @@
       "word": "25岁小伙上门做饭三菜一汤收费36元",
       "onboard_time": 1668156938,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374224,
+      "num": 374224,
+      "word": "女子被前男友妈妈甩详单要求还钱",
+      "onboard_time": 1668174451,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -731,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347359,
+      "num": 347359,
+      "word": "张俪印错的100件衣服用上了",
+      "onboard_time": 1668176134,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343066,
       "num": 343066,
       "word": "陈小纭新剧人设好夹",
       "onboard_time": 1668086966,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343050,
+      "num": 343050,
+      "word": "头一次吃这么熟的火龙果",
+      "onboard_time": 1668171811,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340774,
@@ -800,6 +840,14 @@
       "word": "成龙吴京首次同框演对手戏",
       "onboard_time": 1668160835,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317891,
+      "num": 317891,
+      "word": "扫黑行动",
+      "onboard_time": 1668173251,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -923,22 +971,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 279588,
-      "num": 279588,
-      "word": "扫黑行动",
-      "onboard_time": 1668173251,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 277622,
-      "num": 148206,
-      "word": "学校回应翻墙男子骑车三天三夜",
-      "onboard_time": 1668173791,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 272293,
       "num": 272293,
       "word": "你为什么迟迟还没释怀",
@@ -963,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261532,
-      "num": 261532,
-      "word": "中国男篮vs伊朗男篮",
-      "onboard_time": 1668173311,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 262639,
+      "num": 262639,
+      "word": "国家一级演员刘学军逝世",
+      "onboard_time": 1668174212,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 260189,
@@ -995,12 +1027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248333,
-      "num": 248333,
-      "word": "头一次吃这么熟的火龙果",
-      "onboard_time": 1668171811,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 251738,
+      "num": 251738,
+      "word": "新谋女郎林博洋直播状态",
+      "onboard_time": 1668174512,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 247256,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1668144705,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246372,
+      "num": 228218,
+      "word": "白鹿夹子音输给了周深",
+      "onboard_time": 1668176256,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 244517,
@@ -1067,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231290,
-      "num": 231290,
-      "word": "新谋女郎林博洋直播状态",
-      "onboard_time": 1668174512,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230200,
       "num": 230200,
       "word": "陈飞宇演的李峋好会",
@@ -1088,6 +1120,14 @@
       "word": "新疆新增无症状657例",
       "onboard_time": 1668103934,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228450,
+      "num": 228450,
+      "word": "女子抢东西紧张到敲木鱼",
+      "onboard_time": 1668173011,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1139,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220717,
-      "num": 220717,
-      "word": "女子抢东西紧张到敲木鱼",
-      "onboard_time": 1668173011,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 223461,
+      "num": 223461,
+      "word": "王艺迪女单夺冠",
+      "onboard_time": 1668175594,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 219260,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1668144523,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217518,
+      "num": 217518,
+      "word": "父母给女儿取名龙葵寓意向阳而生",
+      "onboard_time": 1668173735,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217108,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1668128008,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211923,
+      "num": 211923,
+      "word": "王鹤棣张凌赫下凡历劫",
+      "onboard_time": 1668176432,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 211298,
@@ -1347,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181327,
+      "num": 167520,
+      "word": "恋爱里谁先表白谁就输了吗",
+      "onboard_time": 1668173670,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179915,
       "num": 179915,
       "word": "广东人比四川人还能买辣椒",
@@ -1360,14 +1424,6 @@
       "word": "液体卫生巾里有液体吗",
       "onboard_time": 1668157479,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179568,
-      "num": 179568,
-      "word": "父母给女儿取名龙葵寓意向阳而生",
-      "onboard_time": 1668173735,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169284,
+      "num": 169284,
+      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+      "onboard_time": 1668174451,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168837,
       "num": 154690,
       "word": "偷偷藏不住站内预约破50万",
@@ -1419,20 +1483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167520,
-      "num": 167520,
-      "word": "恋爱里谁先表白谁就输了吗",
-      "onboard_time": 1668173670,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165961,
       "num": 165961,
       "word": "做好住院床位和重症床位准备",
       "onboard_time": 1668157963,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "一块钱藏出了一亿的感觉",
+      "onboard_time": 1668175654,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 162556,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1668098063,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159284,
-      "num": 143790,
-      "word": "国家一级演员刘学军逝世",
-      "onboard_time": 1668174212,
-      "rank": 37,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 158348,
@@ -1580,7 +1636,7 @@
     },
     {
       "raw_hot": 147574,
-      "num": 147574,
+      "num": 149957,
       "word": "你以为的李峋vs实际的李峋",
       "onboard_time": 1668172232,
       "rank": 45,
@@ -1643,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140964,
-      "num": 140964,
-      "word": "女子被前男友妈妈甩详单要求还钱",
-      "onboard_time": 1668174451,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138233,
       "num": 138233,
       "word": "11月10日新增本土确诊1150例",
@@ -1660,7 +1708,7 @@
     },
     {
       "raw_hot": 136835,
-      "num": 136835,
+      "num": 149052,
       "word": "超6成榴莲被年轻人买走",
       "onboard_time": 1668170012,
       "rank": 37,
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 135453,
-      "num": 135453,
+      "num": 149537,
       "word": "天下长河今日开播",
       "onboard_time": 1668169712,
       "rank": 29,
@@ -1697,14 +1745,6 @@
       "onboard_time": 1668094045,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132885,
-      "num": 132885,
-      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
-      "onboard_time": 1668174451,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132815,
@@ -1832,6 +1872,14 @@
       "word": "饼都画到老鼠身上了",
       "onboard_time": 1668167372,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116200,
+      "num": 150157,
+      "word": "小狗狗生气有多可爱",
+      "onboard_time": 1668174814,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1977,14 +2025,6 @@
       "onboard_time": 1668133286,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98720,
-      "num": 98720,
-      "word": "小狗狗生气有多可爱",
-      "onboard_time": 1668174814,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 98659,

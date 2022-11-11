@@ -1,0 +1,410 @@
+{
+  "runTime": 1668176503356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297184,
+        "num": 1297184,
+        "word": "朱一龙领奖嘴瓢太可爱了",
+        "onboard_time": 1668173970,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683966,
+        "num": 683966,
+        "word": "全员核酸只在疫情底数不清时开展",
+        "onboard_time": 1668152500,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20963,
+        "num": 574139,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 961068,
+        "num": 546935,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469353,
+        "num": 469353,
+        "word": "乳腺结节到底是怎么产生的",
+        "onboard_time": 1668170851,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422912,
+        "num": 422912,
+        "word": "男生中奖后太激动被人事谈话",
+        "onboard_time": 1668167609,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411675,
+        "num": 411675,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1668171691,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406028,
+        "num": 406028,
+        "word": "宝可梦小智两连冠",
+        "onboard_time": 1668164675,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 387797,
+        "num": 387797,
+        "word": "中国男篮vs伊朗男篮",
+        "onboard_time": 1668173311,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374224,
+        "num": 374224,
+        "word": "女子被前男友妈妈甩详单要求还钱",
+        "onboard_time": 1668174451,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347359,
+        "num": 347359,
+        "word": "张俪印错的100件衣服用上了",
+        "onboard_time": 1668176134,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343050,
+        "num": 343050,
+        "word": "头一次吃这么熟的火龙果",
+        "onboard_time": 1668171811,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317891,
+        "num": 317891,
+        "word": "扫黑行动",
+        "onboard_time": 1668173251,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302407,
+        "num": 302407,
+        "word": "倪妮出席金鸡提名者表彰仪式",
+        "onboard_time": 1668168692,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293070,
+        "num": 293070,
+        "word": "女子精致出摊日销200盒炒粉走红",
+        "onboard_time": 1668168449,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281961,
+        "num": 281961,
+        "word": "天津女子买煎饼老板不在自己动手摊",
+        "onboard_time": 1668170672,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262639,
+        "num": 262639,
+        "word": "国家一级演员刘学军逝世",
+        "onboard_time": 1668174212,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 251738,
+        "num": 251738,
+        "word": "新谋女郎林博洋直播状态",
+        "onboard_time": 1668174512,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230568,
+        "num": 230568,
+        "word": "狗子此生见过最投缘的女孩",
+        "onboard_time": 1668169891,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228450,
+        "num": 228450,
+        "word": "女子抢东西紧张到敲木鱼",
+        "onboard_time": 1668173011,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246372,
+        "num": 228218,
+        "word": "白鹿夹子音输给了周深",
+        "onboard_time": 1668176256,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226611,
+        "num": 226611,
+        "word": "广州在隔次密接解除隔离",
+        "onboard_time": 1668159697,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223461,
+        "num": 223461,
+        "word": "王艺迪女单夺冠",
+        "onboard_time": 1668175594,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217518,
+        "num": 217518,
+        "word": "父母给女儿取名龙葵寓意向阳而生",
+        "onboard_time": 1668173735,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211923,
+        "num": 211923,
+        "word": "王鹤棣张凌赫下凡历劫",
+        "onboard_time": 1668176432,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 192521,
+        "word": "陈飞宇演的李峋好会",
+        "onboard_time": 1668173311,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191567,
+        "num": 191567,
+        "word": "你为什么迟迟还没释怀",
+        "onboard_time": 1668169172,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170017,
+        "num": 170017,
+        "word": "男孩溺水心跳停1小时后被奇迹救回",
+        "onboard_time": 1668172650,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169284,
+        "num": 169284,
+        "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+        "onboard_time": 1668174451,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165504,
+        "num": 165504,
+        "word": "男生吃杨国福1年发现竟是杨围福",
+        "onboard_time": 1668153580,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431444,
+        "num": 165047,
+        "word": "学校回应翻墙男子骑车三天三夜",
+        "onboard_time": 1668173791,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181327,
+        "num": 164677,
+        "word": "恋爱里谁先表白谁就输了吗",
+        "onboard_time": 1668173670,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164042,
+        "num": 164042,
+        "word": "一块钱藏出了一亿的感觉",
+        "onboard_time": 1668175654,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156004,
+        "num": 156004,
+        "word": "斗罗大陆宣布将彻底完结",
+        "onboard_time": 1668161253,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153675,
+        "num": 153675,
+        "word": "香港首名侮辱国歌罪犯被判刑",
+        "onboard_time": 1668162935,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151054,
+        "num": 151054,
+        "word": "官方回应网传一奶茶店未先说扫码被封",
+        "onboard_time": 1668159995,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140922,
+        "num": 151054,
+        "word": "逐一排查校园随意封控等问题",
+        "onboard_time": 1668161914,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 150844,
+        "word": "白敬亭宋轶长风渡的吻戏路透",
+        "onboard_time": 1668153459,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132464,
+        "num": 150656,
+        "word": "25岁小伙上门做饭三菜一汤收费36元",
+        "onboard_time": 1668156938,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 150451,
+        "word": "奔跑吧",
+        "onboard_time": 1668170370,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120425,
+        "num": 150410,
+        "word": "歼20已全部换装中国心",
+        "onboard_time": 1668163773,
+        "rank": 40,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 116200,
+        "num": 150157,
+        "word": "小狗狗生气有多可爱",
+        "onboard_time": 1668174814,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111594,
+        "num": 149957,
+        "word": "你以为的李峋vs实际的李峋",
+        "onboard_time": 1668172232,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106817,
+        "num": 149882,
+        "word": "男子袭击英国国王被禁止带蛋出门",
+        "onboard_time": 1668162875,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101533,
+        "num": 149700,
+        "word": "独居女生一定记得反锁家门",
+        "onboard_time": 1668166592,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 100553,
+        "num": 149537,
+        "word": "天下长河今日开播",
+        "onboard_time": 1668169712,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99636,
+        "num": 149318,
+        "word": "北京新增本土感染者70例",
+        "onboard_time": 1668159516,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98644,
+        "num": 149220,
+        "word": "中餐厅6合伙人全员入戏",
+        "onboard_time": 1668163233,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92471,
+        "num": 149052,
+        "word": "超6成榴莲被年轻人买走",
+        "onboard_time": 1668170012,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91291,
+        "num": 148919,
+        "word": "国家卫健委调整防疫措施",
+        "onboard_time": 1668147644,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}

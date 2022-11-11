@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668175054469,
+  "endTime": 1668176503356,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -531,6 +531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1297184,
+      "num": 1297184,
+      "word": "朱一龙领奖嘴瓢太可爱了",
+      "onboard_time": 1668173970,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1283581,
       "num": 1283581,
       "word": "突然就不想乱买东西了",
@@ -825,14 +833,6 @@
       "onboard_time": 1667893588,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 996827,
-      "num": 996827,
-      "word": "朱一龙领奖嘴瓢太可爱了",
-      "onboard_time": 1668173970,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 989979,
@@ -2435,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469353,
+      "num": 469353,
+      "word": "乳腺结节到底是怎么产生的",
+      "onboard_time": 1668170851,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1667786424,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 431444,
+      "num": 165047,
+      "word": "学校回应翻墙男子骑车三天三夜",
+      "onboard_time": 1668173791,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 430796,
@@ -3179,20 +3195,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388478,
-      "num": 388478,
-      "word": "乳腺结节到底是怎么产生的",
-      "onboard_time": 1668170851,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388332,
       "num": 388332,
       "word": "牙都快咬碎了还是没忍住",
       "onboard_time": 1667918129,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387797,
+      "num": 387797,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1668173311,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 387704,
@@ -3344,6 +3360,14 @@
       "word": "摊贩恶意竞争遭学生集体抵制",
       "onboard_time": 1667744375,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374224,
+      "num": 374224,
+      "word": "女子被前男友妈妈甩详单要求还钱",
+      "onboard_time": 1668174451,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3611,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347359,
+      "num": 347359,
+      "word": "张俪印错的100件衣服用上了",
+      "onboard_time": 1668176134,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347321,
       "num": 347321,
       "word": "FPX世界赛夺冠三周年",
@@ -3681,6 +3713,14 @@
       "onboard_time": 1667780489,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343050,
+      "num": 343050,
+      "word": "头一次吃这么熟的火龙果",
+      "onboard_time": 1668171811,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342921,
@@ -4032,6 +4072,14 @@
       "word": "马嘉祺宋亚轩话剧万水朝东舞台照",
       "onboard_time": 1667898149,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317891,
+      "num": 317891,
+      "word": "扫黑行动",
+      "onboard_time": 1668173251,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -4571,14 +4619,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 279588,
-      "num": 279588,
-      "word": "扫黑行动",
-      "onboard_time": 1668173251,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279284,
       "num": 279284,
       "word": "星辰大海",
@@ -4617,14 +4657,6 @@
       "onboard_time": 1668068367,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277622,
-      "num": 148206,
-      "word": "学校回应翻墙男子骑车三天三夜",
-      "onboard_time": 1668173791,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 277000,
@@ -4811,20 +4843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262639,
+      "num": 262639,
+      "word": "国家一级演员刘学军逝世",
+      "onboard_time": 1668174212,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 262418,
       "num": 262418,
       "word": "苏州正德年间一700年古宅寻主",
       "onboard_time": 1667972186,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261532,
-      "num": 261532,
-      "word": "中国男篮vs伊朗男篮",
-      "onboard_time": 1668173311,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 260488,
@@ -4979,6 +5011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251738,
+      "num": 251738,
+      "word": "新谋女郎林博洋直播状态",
+      "onboard_time": 1668174512,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251736,
       "num": 190385,
       "word": "时代少年团荣耀出题官",
@@ -5027,14 +5067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248333,
-      "num": 248333,
-      "word": "头一次吃这么熟的火龙果",
-      "onboard_time": 1668171811,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248085,
       "num": 248085,
       "word": "SEVENTEEN新歌Dream初舞台",
@@ -5057,6 +5089,14 @@
       "onboard_time": 1668144705,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246372,
+      "num": 228218,
+      "word": "白鹿夹子音输给了周深",
+      "onboard_time": 1668176256,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 245113,
@@ -5299,14 +5339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231290,
-      "num": 231290,
-      "word": "新谋女郎林博洋直播状态",
-      "onboard_time": 1668174512,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231015,
       "num": 231015,
       "word": "网传金鸡奖出席明星",
@@ -5361,6 +5393,14 @@
       "onboard_time": 1667952328,
       "rank": 21,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 228450,
+      "num": 228450,
+      "word": "女子抢东西紧张到敲木鱼",
+      "onboard_time": 1668173011,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228315,
@@ -5547,6 +5587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223461,
+      "num": 223461,
+      "word": "王艺迪女单夺冠",
+      "onboard_time": 1668175594,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223339,
       "num": 223339,
       "word": "张婧仪朱韵被泼水",
@@ -5603,14 +5651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220717,
-      "num": 220717,
-      "word": "女子抢东西紧张到敲木鱼",
-      "onboard_time": 1668173011,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219722,
       "num": 219722,
       "word": "乌鲁木齐收费办通行证嫌疑人被抓",
@@ -5649,6 +5689,14 @@
       "onboard_time": 1667801607,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217518,
+      "num": 217518,
+      "word": "父母给女儿取名龙葵寓意向阳而生",
+      "onboard_time": 1668173735,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217374,
@@ -5793,6 +5841,14 @@
       "onboard_time": 1668072448,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211923,
+      "num": 211923,
+      "word": "王鹤棣张凌赫下凡历劫",
+      "onboard_time": 1668176432,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 210506,
@@ -6539,6 +6595,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 181327,
+      "num": 167520,
+      "word": "恋爱里谁先表白谁就输了吗",
+      "onboard_time": 1668173670,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180983,
       "num": 180983,
       "word": "时间真的可以淡忘一切",
@@ -6584,14 +6648,6 @@
       "word": "液体卫生巾里有液体吗",
       "onboard_time": 1668157479,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179568,
-      "num": 179568,
-      "word": "父母给女儿取名龙葵寓意向阳而生",
-      "onboard_time": 1668173735,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -6835,6 +6891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169284,
+      "num": 169284,
+      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+      "onboard_time": 1668174451,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169182,
       "num": 115843,
       "word": "另一位观众是用了什么优惠券",
@@ -6865,14 +6929,6 @@
       "onboard_time": 1667876606,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167520,
-      "num": 167520,
-      "word": "恋爱里谁先表白谁就输了吗",
-      "onboard_time": 1668173670,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 167413,
@@ -6953,6 +7009,14 @@
       "onboard_time": 1667811267,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "一块钱藏出了一亿的感觉",
+      "onboard_time": 1668175654,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 163899,
@@ -7145,14 +7209,6 @@
       "onboard_time": 1667827767,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 159284,
-      "num": 143790,
-      "word": "国家一级演员刘学军逝世",
-      "onboard_time": 1668174212,
-      "rank": 37,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 158479,
@@ -7516,7 +7572,7 @@
     },
     {
       "raw_hot": 147574,
-      "num": 147574,
+      "num": 149957,
       "word": "你以为的李峋vs实际的李峋",
       "onboard_time": 1668172232,
       "rank": 45,
@@ -7763,14 +7819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140964,
-      "num": 140964,
-      "word": "女子被前男友妈妈甩详单要求还钱",
-      "onboard_time": 1668174451,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140151,
       "num": 134582,
       "word": "郑秀妍晒乐队的海边合照",
@@ -7876,7 +7924,7 @@
     },
     {
       "raw_hot": 136835,
-      "num": 136835,
+      "num": 149052,
       "word": "超6成榴莲被年轻人买走",
       "onboard_time": 1668170012,
       "rank": 37,
@@ -7932,7 +7980,7 @@
     },
     {
       "raw_hot": 135453,
-      "num": 135453,
+      "num": 149537,
       "word": "天下长河今日开播",
       "onboard_time": 1668169712,
       "rank": 29,
@@ -8009,14 +8057,6 @@
       "onboard_time": 1668094045,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132885,
-      "num": 132885,
-      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
-      "onboard_time": 1668174451,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132815,
@@ -8585,6 +8625,14 @@
       "onboard_time": 1667799629,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116200,
+      "num": 150157,
+      "word": "小狗狗生气有多可爱",
+      "onboard_time": 1668174814,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116170,
@@ -9209,14 +9257,6 @@
       "onboard_time": 1668069386,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98720,
-      "num": 98720,
-      "word": "小狗狗生气有多可爱",
-      "onboard_time": 1668174814,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 98709,
