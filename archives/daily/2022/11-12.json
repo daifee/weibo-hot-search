@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668206409059,
+  "endTime": 1668209022129,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301595,
+      "num": 301595,
+      "word": "男子戴白手套欲撬锁主人敲门回应",
+      "onboard_time": 1668201014,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292566,
       "num": 292566,
       "word": "女子被前男友妈妈甩详单要求还钱",
@@ -155,6 +163,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 223181,
+      "num": 223181,
+      "word": "女子精致出摊日销200盒炒粉走红",
+      "onboard_time": 1668168449,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217342,
       "num": 151421,
       "word": "遇人不赎",
@@ -168,22 +184,6 @@
       "word": "父母给女儿取名龙葵寓意向阳而生",
       "onboard_time": 1668173735,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203264,
-      "num": 203264,
-      "word": "女子精致出摊日销200盒炒粉走红",
-      "onboard_time": 1668168449,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186139,
-      "num": 186139,
-      "word": "男子戴白手套欲撬锁主人敲门回应",
-      "onboard_time": 1668201014,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1668152500,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 175975,
+      "num": 106812,
+      "word": "90后女孩放弃电视台和法院考上供销社",
+      "onboard_time": 1668191836,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153387,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109340,
+      "num": 109340,
+      "word": "教师爸爸给5个月宝宝教高中函数",
+      "onboard_time": 1668187401,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 108974,
       "num": 108974,
       "word": "头一次吃这么熟的火龙果",
@@ -305,6 +321,14 @@
       "onboard_time": 1668187938,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102471,
+      "num": 102471,
+      "word": "辅警为救老人摔骨折忍痛爬行20米",
+      "onboard_time": 1668204252,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102225,
@@ -387,12 +411,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84682,
+      "num": 84682,
+      "word": "内娱舞台的双向奔赴",
+      "onboard_time": 1668207742,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 83850,
       "num": 99537,
       "word": "官方回应网传一奶茶店未先说扫码被封",
       "onboard_time": 1668159995,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83757,
+      "num": 83757,
+      "word": "老婆怀孕后老公在做些什么",
+      "onboard_time": 1668190935,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 83250,
@@ -403,20 +443,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 82021,
-      "num": 64340,
-      "word": "90后女孩放弃电视台和法院考上供销社",
-      "onboard_time": 1668191836,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76640,
       "num": 99490,
       "word": "差点把大哥打哭了",
       "onboard_time": 1668176913,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69476,
+      "num": 69476,
+      "word": "LBL",
+      "onboard_time": 1668191954,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 69199,
@@ -435,12 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65643,
-      "num": 65643,
+      "raw_hot": 67277,
+      "num": 67277,
       "word": "河南雨雪降温大风同步抵达",
       "onboard_time": 1668199633,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66109,
+      "num": 66109,
+      "word": "第一次见这么懒的猫",
+      "onboard_time": 1668196933,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 63972,
@@ -451,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59038,
-      "num": 59038,
-      "word": "教师爸爸给5个月宝宝教高中函数",
-      "onboard_time": 1668187401,
-      "rank": 46,
-      "category": "教育,社会新闻"
+      "raw_hot": 51435,
+      "num": 51435,
+      "word": "第一次见这么稳的狗",
+      "onboard_time": 1668197473,
+      "rank": 49,
+      "category": "幽默"
     },
     {
-      "raw_hot": 44037,
-      "num": 39064,
-      "word": "老婆怀孕后老公在做些什么",
-      "onboard_time": 1668190935,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 46400,
+      "num": 46400,
+      "word": "重庆一楼整个屋顶种满菜",
+      "onboard_time": 1668193753,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40360,
@@ -475,36 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37994,
-      "num": 30131,
-      "word": "重庆一楼整个屋顶种满菜",
-      "onboard_time": 1668193753,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35824,
-      "num": 32119,
-      "word": "LBL",
-      "onboard_time": 1668191954,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 30607,
       "num": 32032,
       "word": "西湖音乐节",
       "onboard_time": 1668189977,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26469,
-      "num": 26469,
-      "word": "第一次见这么懒的猫",
-      "onboard_time": 1668196933,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 22604,
@@ -515,28 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21715,
-      "num": 21715,
-      "word": "第一次见这么稳的狗",
-      "onboard_time": 1668197473,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21629,
       "num": 21629,
       "word": "朱韵想和李峋一起参加比赛",
       "onboard_time": 1668206175,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20106,
-      "num": 20106,
-      "word": "辅警为救老人摔骨折忍痛爬行20米",
-      "onboard_time": 1668204252,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8674,
