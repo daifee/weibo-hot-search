@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668163462952,
+  "endTime": 1668165570238,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -3068,7 +3068,7 @@
     },
     {
       "raw_hot": 699392,
-      "num": 391152,
+      "num": 393495,
       "word": "白敬亭宋轶长风渡的吻戏路透",
       "onboard_time": 1668153459,
       "rank": 10,
@@ -3715,6 +3715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 621776,
+      "num": 621776,
+      "word": "为爱冲锋的勇士",
+      "onboard_time": 1668164314,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621536,
       "num": 621536,
       "word": "王嘉尔S12决赛开幕式舞台",
@@ -3977,6 +3985,14 @@
       "onboard_time": 1667318425,
       "rank": 11,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 591186,
+      "num": 591186,
+      "word": "官方回应网传一奶茶店未先说扫码被封",
+      "onboard_time": 1668159995,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589969,
@@ -4529,14 +4545,6 @@
       "onboard_time": 1667715209,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 545016,
-      "num": 545016,
-      "word": "官方回应网传一奶茶店未先说扫码被封",
-      "onboard_time": 1668159995,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543699,
@@ -6019,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436483,
+      "num": 436483,
+      "word": "蔡徐坤打小就爱看恋综",
+      "onboard_time": 1668163533,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436414,
       "num": 436414,
       "word": "官方回应检测机构暂停核酸样本接收",
@@ -6315,6 +6331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423392,
+      "num": 147237,
+      "word": "香港首名侮辱国歌罪犯被判刑",
+      "onboard_time": 1668162935,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423255,
       "num": 423255,
       "word": "林高远状态",
@@ -6515,6 +6539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 412612,
+      "num": 412612,
+      "word": "中餐厅6合伙人全员入戏",
+      "onboard_time": 1668163233,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412260,
       "num": 412260,
       "word": "金鸡奖提名名单",
@@ -6617,6 +6649,14 @@
       "onboard_time": 1667373568,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 405201,
+      "num": 405201,
+      "word": "男子袭击英国国王被禁止带蛋出门",
+      "onboard_time": 1668162875,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404895,
@@ -7489,6 +7529,14 @@
       "onboard_time": 1667717906,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 361313,
+      "num": 361313,
+      "word": "宝可梦小智两连冠",
+      "onboard_time": 1668164675,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 361240,
@@ -9971,14 +10019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271570,
-      "num": 271570,
-      "word": "中餐厅6合伙人全员入戏",
-      "onboard_time": 1668163233,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "那些不被爸妈看好的装修有多香",
@@ -10329,6 +10369,14 @@
       "onboard_time": 1668089185,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258720,
+      "num": 258720,
+      "word": "BLACKPINK互跳solo曲",
+      "onboard_time": 1668164973,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 258585,
@@ -10827,6 +10875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239006,
+      "num": 239006,
+      "word": "斗罗大陆宣布将彻底完结",
+      "onboard_time": 1668161253,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238960,
       "num": 234066,
       "word": "长相思首版人物片花",
@@ -11169,14 +11225,6 @@
       "onboard_time": 1667782708,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229707,
-      "num": 229707,
-      "word": "斗罗大陆宣布将彻底完结",
-      "onboard_time": 1668161253,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 229693,
@@ -11873,6 +11921,14 @@
       "onboard_time": 1667802867,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 213562,
+      "num": 213562,
+      "word": "周五奖励一下自己",
+      "onboard_time": 1668162694,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 213527,
@@ -13523,6 +13579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178400,
+      "num": 178400,
+      "word": "逐一排查校园随意封控等问题",
+      "onboard_time": 1668161914,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 178009,
       "num": 178009,
       "word": "北京10月31日新增本土确诊21例",
@@ -13857,14 +13921,6 @@
       "onboard_time": 1667822546,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170565,
-      "num": 170565,
-      "word": "周五奖励一下自己",
-      "onboard_time": 1668162694,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 170549,
@@ -14723,6 +14779,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 156537,
+      "num": 156537,
+      "word": "成熟稳重的橘猫",
+      "onboard_time": 1668161612,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 156517,
       "num": 156517,
       "word": "刘震云点评",
@@ -15129,14 +15193,6 @@
       "onboard_time": 1667955749,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149256,
-      "num": 149256,
-      "word": "成熟稳重的橘猫",
-      "onboard_time": 1668161612,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 149053,
@@ -15755,6 +15811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139944,
+      "num": 139944,
+      "word": "歼20已全部换装中国心",
+      "onboard_time": 1668163773,
+      "rank": 32,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 139716,
       "num": 139716,
       "word": "kingen剑魔天神下凡",
@@ -16033,6 +16097,14 @@
       "onboard_time": 1667288488,
       "rank": 34,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "吕秀才新剧娶了白展堂老婆",
+      "onboard_time": 1668160835,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 135691,
@@ -16755,6 +16827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125334,
+      "num": 125334,
+      "word": "宝可梦旅途决赛篇",
+      "onboard_time": 1668163831,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125077,
       "num": 125077,
       "word": "什么是低成本情绪价值",
@@ -16891,6 +16971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123200,
+      "num": 123200,
+      "word": "陈飞宇李峋脊椎受伤花絮",
+      "onboard_time": 1668163172,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123027,
       "num": 123027,
       "word": "超5成房东希望专业机构长期管理出租房",
@@ -17017,6 +17105,14 @@
       "onboard_time": 1667731646,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121690,
+      "num": 108759,
+      "word": "宝可梦",
+      "onboard_time": 1668165511,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 121596,
@@ -17371,14 +17467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115996,
-      "num": 115996,
-      "word": "香港首名侮辱国歌罪犯被判刑",
-      "onboard_time": 1668162935,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115951,
       "num": 84609,
       "word": "胡歌新剧沪语台词",
@@ -17419,14 +17507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114776,
-      "num": 114776,
-      "word": "吕秀才新剧娶了白展堂老婆",
-      "onboard_time": 1668160835,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
@@ -17457,6 +17537,14 @@
       "onboard_time": 1667647948,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113900,
+      "num": 113900,
+      "word": "原来无畏是隐藏的舞担",
+      "onboard_time": 1668164851,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 113879,
@@ -17545,6 +17633,14 @@
       "onboard_time": 1667902769,
       "rank": 36,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 112672,
+      "num": 112672,
+      "word": "漂亮的年纪要让自己开心",
+      "onboard_time": 1668165151,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 112592,
@@ -18027,14 +18123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106323,
-      "num": 106323,
-      "word": "男子袭击英国国王被禁止带蛋出门",
-      "onboard_time": 1668162875,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106070,
       "num": 106070,
       "word": "T1 强",
@@ -18073,14 +18161,6 @@
       "onboard_time": 1667460082,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105446,
-      "num": 105446,
-      "word": "逐一排查校园随意封控等问题",
-      "onboard_time": 1668161914,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 105406,
@@ -19769,14 +19849,6 @@
       "onboard_time": 1667632707,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86513,
-      "num": 86513,
-      "word": "陈飞宇李峋脊椎受伤花絮",
-      "onboard_time": 1668163172,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 86434,
@@ -22289,6 +22361,14 @@
       "onboard_time": 1667124987,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10972,
+      "num": 271912,
+      "word": "双11热卖王",
+      "onboard_time": 1668164433,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 10838,

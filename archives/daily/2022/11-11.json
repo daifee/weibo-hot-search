@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668163462952,
+  "endTime": 1668165570238,
   "band_list": [
     {
       "raw_hot": 3608962,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 699392,
-      "num": 391152,
+      "num": 393495,
       "word": "白敬亭宋轶长风渡的吻戏路透",
       "onboard_time": 1668153459,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621776,
+      "num": 621776,
+      "word": "为爱冲锋的勇士",
+      "onboard_time": 1668164314,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618219,
       "num": 618219,
       "word": "警方通报女童在幼儿园意外身亡",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591186,
+      "num": 591186,
+      "word": "官方回应网传一奶茶店未先说扫码被封",
+      "onboard_time": 1668159995,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573967,
       "num": 573967,
       "word": "入境人员7加3改为5加3",
@@ -304,14 +320,6 @@
       "word": "生气真的会长乳腺结节",
       "onboard_time": 1668124405,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545016,
-      "num": 545016,
-      "word": "官方回应网传一奶茶店未先说扫码被封",
-      "onboard_time": 1668159995,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -451,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436483,
+      "num": 436483,
+      "word": "蔡徐坤打小就爱看恋综",
+      "onboard_time": 1668163533,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423392,
+      "num": 147237,
+      "word": "香港首名侮辱国歌罪犯被判刑",
+      "onboard_time": 1668162935,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422826,
       "num": 422826,
       "word": "林孝埈比赛",
@@ -473,6 +497,22 @@
       "onboard_time": 1668149743,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 412612,
+      "num": 412612,
+      "word": "中餐厅6合伙人全员入戏",
+      "onboard_time": 1668163233,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 405201,
+      "num": 405201,
+      "word": "男子袭击英国国王被禁止带蛋出门",
+      "onboard_time": 1668162875,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400709,
@@ -593,6 +633,14 @@
       "onboard_time": 1668148903,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361313,
+      "num": 361313,
+      "word": "宝可梦小智两连冠",
+      "onboard_time": 1668164675,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 351363,
@@ -795,14 +843,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 271570,
-      "num": 271570,
-      "word": "中餐厅6合伙人全员入戏",
-      "onboard_time": 1668163233,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
@@ -817,6 +857,14 @@
       "onboard_time": 1668123262,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258720,
+      "num": 258720,
+      "word": "BLACKPINK互跳solo曲",
+      "onboard_time": 1668164973,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 255742,
@@ -841,6 +889,14 @@
       "onboard_time": 1668118453,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239006,
+      "num": 239006,
+      "word": "斗罗大陆宣布将彻底完结",
+      "onboard_time": 1668161253,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 238535,
@@ -881,14 +937,6 @@
       "onboard_time": 1668103934,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229707,
-      "num": 229707,
-      "word": "斗罗大陆宣布将彻底完结",
-      "onboard_time": 1668161253,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 227569,
@@ -977,6 +1025,14 @@
       "onboard_time": 1668128008,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213562,
+      "num": 213562,
+      "word": "周五奖励一下自己",
+      "onboard_time": 1668162694,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 211298,
@@ -1115,20 +1171,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178400,
+      "num": 178400,
+      "word": "逐一排查校园随意封控等问题",
+      "onboard_time": 1668161914,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 175749,
       "num": 175749,
       "word": "东北人是不是人人都会滑冰啊",
       "onboard_time": 1668124645,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170565,
-      "num": 170565,
-      "word": "周五奖励一下自己",
-      "onboard_time": 1668162694,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 168837,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1668152260,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 156537,
+      "num": 156537,
+      "word": "成熟稳重的橘猫",
+      "onboard_time": 1668161612,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 155042,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1668090869,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149256,
-      "num": 149256,
-      "word": "成熟稳重的橘猫",
-      "onboard_time": 1668161612,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 148618,
@@ -1307,12 +1363,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 139944,
+      "num": 139944,
+      "word": "歼20已全部换装中国心",
+      "onboard_time": 1668163773,
+      "rank": 32,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 138233,
       "num": 138233,
       "word": "11月10日新增本土确诊1150例",
       "onboard_time": 1668133646,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "吕秀才新剧娶了白展堂老婆",
+      "onboard_time": 1668160835,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 135098,
@@ -1379,12 +1451,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125334,
+      "num": 125334,
+      "word": "宝可梦旅途决赛篇",
+      "onboard_time": 1668163831,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 123200,
+      "num": 123200,
+      "word": "陈飞宇李峋脊椎受伤花絮",
+      "onboard_time": 1668163172,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122372,
       "num": 105130,
       "word": "宋丹丹说王鹤棣条件太好了",
       "onboard_time": 1668073705,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121690,
+      "num": 108759,
+      "word": "宝可梦",
+      "onboard_time": 1668165511,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 121461,
@@ -1443,22 +1539,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 115996,
-      "num": 115996,
-      "word": "香港首名侮辱国歌罪犯被判刑",
-      "onboard_time": 1668162935,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114776,
-      "num": 114776,
-      "word": "吕秀才新剧娶了白展堂老婆",
-      "onboard_time": 1668160835,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113935,
       "num": 113935,
       "word": "男子抢喝孕妻咖啡边喝边呕",
@@ -1475,12 +1555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113900,
+      "num": 113900,
+      "word": "原来无畏是隐藏的舞担",
+      "onboard_time": 1668164851,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113230,
       "num": 113230,
       "word": "山东一新娘霸气主持自己婚礼",
       "onboard_time": 1668147946,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112672,
+      "num": 112672,
+      "word": "漂亮的年纪要让自己开心",
+      "onboard_time": 1668165151,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 111380,
@@ -1545,22 +1641,6 @@
       "onboard_time": 1668149503,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106323,
-      "num": 106323,
-      "word": "男子袭击英国国王被禁止带蛋出门",
-      "onboard_time": 1668162875,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105446,
-      "num": 105446,
-      "word": "逐一排查校园随意封控等问题",
-      "onboard_time": 1668161914,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 102312,
@@ -1705,14 +1785,6 @@
       "onboard_time": 1668155799,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86513,
-      "num": 86513,
-      "word": "陈飞宇李峋脊椎受伤花絮",
-      "onboard_time": 1668163172,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 86288,
@@ -1921,6 +1993,14 @@
       "onboard_time": 1668077066,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10972,
+      "num": 271912,
+      "word": "双11热卖王",
+      "onboard_time": 1668164433,
+      "rank": 14,
+      "category": "其它"
     }
   ],
   "hotgov_list": [
