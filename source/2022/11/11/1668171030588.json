@@ -1,0 +1,410 @@
+{
+  "runTime": 1668171030588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3208735,
+        "num": 3208735,
+        "word": "山东服装职业学院",
+        "onboard_time": 1668166888,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843210,
+        "num": 843210,
+        "word": "男生中奖后太激动被人事谈话",
+        "onboard_time": 1668167609,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19522,
+        "num": 650720,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1462741,
+        "num": 602624,
+        "word": "为爱冲锋的勇士",
+        "onboard_time": 1668164314,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1424578,
+        "num": 591333,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526062,
+        "num": 526062,
+        "word": "全员核酸只在疫情底数不清时开展",
+        "onboard_time": 1668152500,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 524039,
+        "num": 524039,
+        "word": "宝可梦小智两连冠",
+        "onboard_time": 1668164675,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 501297,
+        "num": 501297,
+        "word": "倪妮出席金鸡提名者表彰仪式",
+        "onboard_time": 1668168692,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355454,
+        "num": 355454,
+        "word": "女子精致出摊日销200盒炒粉走红",
+        "onboard_time": 1668168449,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352740,
+        "num": 352740,
+        "word": "广州在隔次密接解除隔离",
+        "onboard_time": 1668159697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299494,
+        "num": 299494,
+        "word": "男生吃杨国福1年发现竟是杨围福",
+        "onboard_time": 1668153580,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268969,
+        "num": 268969,
+        "word": "独居女生一定记得反锁家门",
+        "onboard_time": 1668166592,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 251738,
+        "num": 251738,
+        "word": "香港首名侮辱国歌罪犯被判刑",
+        "onboard_time": 1668162935,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248911,
+        "num": 248911,
+        "word": "白敬亭宋轶长风渡的吻戏路透",
+        "onboard_time": 1668153459,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239649,
+        "num": 239649,
+        "word": "奔跑吧",
+        "onboard_time": 1668170370,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222901,
+        "num": 222901,
+        "word": "BLACKPINK互跳solo曲",
+        "onboard_time": 1668164973,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215756,
+        "num": 215756,
+        "word": "逐一排查校园随意封控等问题",
+        "onboard_time": 1668161914,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208308,
+        "num": 208308,
+        "word": "男子袭击英国国王被禁止带蛋出门",
+        "onboard_time": 1668162875,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204273,
+        "num": 204273,
+        "word": "2022全国乒乓球锦标赛",
+        "onboard_time": 1668167851,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202654,
+        "num": 202654,
+        "word": "官方回应网传一奶茶店未先说扫码被封",
+        "onboard_time": 1668159995,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179012,
+        "num": 179012,
+        "word": "歼20已全部换装中国心",
+        "onboard_time": 1668163773,
+        "rank": 20,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 178854,
+        "num": 178854,
+        "word": "朱韵眼里只有李峋",
+        "onboard_time": 1668169651,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176806,
+        "num": 176806,
+        "word": "斗罗大陆宣布将彻底完结",
+        "onboard_time": 1668161253,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176636,
+        "num": 176636,
+        "word": "漂亮的年纪要让自己开心",
+        "onboard_time": 1668165151,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158150,
+        "num": 158150,
+        "word": "狗子此生见过最投缘的女孩",
+        "onboard_time": 1668169891,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157731,
+        "num": 157731,
+        "word": "王濛为解说世界杯提前练嘴",
+        "onboard_time": 1668166470,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157401,
+        "num": 157401,
+        "word": "中餐厅6合伙人全员入戏",
+        "onboard_time": 1668163233,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151903,
+        "num": 151903,
+        "word": "25岁小伙上门做饭三菜一汤收费36元",
+        "onboard_time": 1668156938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139964,
+        "num": 139964,
+        "word": "蔡徐坤打小就爱看恋综",
+        "onboard_time": 1668163533,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135758,
+        "num": 135758,
+        "word": "周五奖励一下自己",
+        "onboard_time": 1668162694,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134893,
+        "num": 134893,
+        "word": "你为什么迟迟还没释怀",
+        "onboard_time": 1668169172,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132487,
+        "word": "罗晋新剧1分钟切换3种情绪",
+        "onboard_time": 1668166229,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122834,
+        "num": 122834,
+        "word": "国家卫健委调整防疫措施",
+        "onboard_time": 1668147644,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 120999,
+        "num": 120999,
+        "word": "宝可梦",
+        "onboard_time": 1668165511,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118877,
+        "num": 118877,
+        "word": "北京新增本土感染者70例",
+        "onboard_time": 1668159516,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117255,
+        "num": 117255,
+        "word": "饼都画到老鼠身上了",
+        "onboard_time": 1668167372,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112293,
+        "num": 112293,
+        "word": "李峋对朱韵说以后再敢撒谎后果自负",
+        "onboard_time": 1668166832,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110140,
+        "num": 110140,
+        "word": "超6成榴莲被年轻人买走",
+        "onboard_time": 1668170012,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103991,
+        "num": 103991,
+        "word": "天津女子买煎饼老板不在自己动手摊",
+        "onboard_time": 1668170672,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41860,
+        "num": 101595,
+        "word": "双十一进入最后冲刺阶段",
+        "onboard_time": 1668168030,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100336,
+        "num": 100336,
+        "word": "李峋说自己没有不足",
+        "onboard_time": 1668170491,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97871,
+        "num": 97871,
+        "word": "卿卿日常女孩子就要百花齐放",
+        "onboard_time": 1668170132,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97561,
+        "num": 97561,
+        "word": "严禁随意封校停课",
+        "onboard_time": 1668147644,
+        "rank": 42,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 96552,
+        "num": 96552,
+        "word": "不再是没见过世面的小猫了",
+        "onboard_time": 1668169110,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95118,
+        "num": 95118,
+        "word": "林高远周启豪4比2向鹏袁励岑",
+        "onboard_time": 1668170189,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93779,
+        "num": 93779,
+        "word": "官方通报家长捐款70多万答谢老师",
+        "onboard_time": 1668149743,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91444,
+        "num": 91444,
+        "word": "胡烨韬翻跳Nxde",
+        "onboard_time": 1668160537,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91008,
+        "num": 91008,
+        "word": "脸大的人不适合戴水桶帽",
+        "onboard_time": 1668154301,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 84864,
+        "num": 84864,
+        "word": "乳腺结节到底是怎么产生的",
+        "onboard_time": 1668170851,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83726,
+        "num": 83726,
+        "word": "微信否认可撤回五分钟内消息",
+        "onboard_time": 1668155919,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668166563101,
+  "endTime": 1668171030588,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -33,6 +33,14 @@
       "onboard_time": 1667967566,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3208735,
+      "num": 3208735,
+      "word": "山东服装职业学院",
+      "onboard_time": 1668166888,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3187967,
@@ -1019,6 +1027,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 843210,
+      "num": 843210,
+      "word": "男生中奖后太激动被人事谈话",
+      "onboard_time": 1668167609,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840310,
       "num": 840310,
       "word": "立冬",
@@ -2003,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524039,
+      "num": 524039,
+      "word": "宝可梦小智两连冠",
+      "onboard_time": 1668164675,
+      "rank": 11,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 523506,
       "num": 419410,
       "word": "EXO会以全新面貌尽快回归",
@@ -2163,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501297,
+      "num": 501297,
+      "word": "倪妮出席金鸡提名者表彰仪式",
+      "onboard_time": 1668168692,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501263,
       "num": 501263,
       "word": "苹果HeySiri将改为Siri",
@@ -2185,14 +2217,6 @@
       "onboard_time": 1668029111,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497263,
-      "num": 497263,
-      "word": "宝可梦小智两连冠",
-      "onboard_time": 1668164675,
-      "rank": 11,
-      "category": "动漫"
     },
     {
       "raw_hot": 496318,
@@ -2612,7 +2636,7 @@
     },
     {
       "raw_hot": 438570,
-      "num": 147237,
+      "num": 251738,
       "word": "香港首名侮辱国歌罪犯被判刑",
       "onboard_time": 1668162935,
       "rank": 34,
@@ -3448,6 +3472,14 @@
       "word": "95后小伙鹤岗买房后云监工装修",
       "onboard_time": 1667924965,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355454,
+      "num": 355454,
+      "word": "女子精致出摊日销200盒炒粉走红",
+      "onboard_time": 1668168449,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4627,6 +4659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268969,
+      "num": 268969,
+      "word": "独居女生一定记得反锁家门",
+      "onboard_time": 1668166592,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
@@ -5017,6 +5057,14 @@
       "onboard_time": 1668052107,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239649,
+      "num": 239649,
+      "word": "奔跑吧",
+      "onboard_time": 1668170370,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 239619,
@@ -5539,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215756,
+      "num": 215756,
+      "word": "逐一排查校园随意封控等问题",
+      "onboard_time": 1668161914,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 215082,
       "num": 215082,
       "word": "立冬意味着什么",
@@ -5723,12 +5779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204577,
-      "num": 204577,
-      "word": "逐一排查校园随意封控等问题",
-      "onboard_time": 1668161914,
-      "rank": 45,
-      "category": "社会新闻,教育"
+      "raw_hot": 204273,
+      "num": 204273,
+      "word": "2022全国乒乓球锦标赛",
+      "onboard_time": 1667777484,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 204035,
@@ -6316,7 +6372,7 @@
     },
     {
       "raw_hot": 183401,
-      "num": 139944,
+      "num": 179012,
       "word": "歼20已全部换装中国心",
       "onboard_time": 1668163773,
       "rank": 32,
@@ -6451,6 +6507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178854,
+      "num": 178854,
+      "word": "朱韵眼里只有李峋",
+      "onboard_time": 1668169651,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178502,
       "num": 178502,
       "word": "蔚来三季度净亏损35亿元",
@@ -6489,6 +6553,14 @@
       "onboard_time": 1667963126,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176636,
+      "num": 176636,
+      "word": "漂亮的年纪要让自己开心",
+      "onboard_time": 1668165151,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 176451,
@@ -6961,6 +7033,22 @@
       "onboard_time": 1668160835,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158150,
+      "num": 158150,
+      "word": "狗子此生见过最投缘的女孩",
+      "onboard_time": 1668169891,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157731,
+      "num": 157731,
+      "word": "王濛为解说世界杯提前练嘴",
+      "onboard_time": 1668166470,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 157138,
@@ -7451,14 +7539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143230,
-      "num": 143230,
-      "word": "2022全国乒乓球锦标赛",
-      "onboard_time": 1667777484,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143173,
       "num": 143173,
       "word": "70岁还能给妈妈付钱多幸福",
@@ -7699,6 +7779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134893,
+      "num": 134893,
+      "word": "你为什么迟迟还没释怀",
+      "onboard_time": 1668169172,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134438,
       "num": 134438,
       "word": "gidle新歌Change特别MV",
@@ -7752,6 +7840,14 @@
       "word": "李薇每道菜只夹三次",
       "onboard_time": 1668092728,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "罗晋新剧1分钟切换3种情绪",
+      "onboard_time": 1668166229,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -7851,14 +7947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129472,
-      "num": 129472,
-      "word": "罗晋新剧1分钟切换3种情绪",
-      "onboard_time": 1668166229,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "宋宁峰脾气真好",
@@ -7945,14 +8033,6 @@
       "onboard_time": 1668143074,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125669,
-      "num": 125669,
-      "word": "漂亮的年纪要让自己开心",
-      "onboard_time": 1668165151,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 125651,
@@ -8291,6 +8371,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117255,
+      "num": 117255,
+      "word": "饼都画到老鼠身上了",
+      "onboard_time": 1668167372,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "这是一条不能燃的视频",
@@ -8419,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "李峋对朱韵说以后再敢撒谎后果自负",
+      "onboard_time": 1668166832,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112101,
       "num": 1754116,
       "word": "今天记者节",
@@ -8489,6 +8585,14 @@
       "onboard_time": 1667790688,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110140,
+      "num": 110140,
+      "word": "超6成榴莲被年轻人买走",
+      "onboard_time": 1668170012,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109959,
@@ -8699,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103991,
+      "num": 103991,
+      "word": "天津女子买煎饼老板不在自己动手摊",
+      "onboard_time": 1668170672,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103844,
       "num": 355285,
       "word": "我们是中国记者",
@@ -8843,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100336,
+      "num": 100336,
+      "word": "李峋说自己没有不足",
+      "onboard_time": 1668170491,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 100165,
       "num": 100165,
       "word": "看得出宝宝很满意这个家",
@@ -8971,6 +9091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97871,
+      "num": 97871,
+      "word": "卿卿日常女孩子就要百花齐放",
+      "onboard_time": 1668170132,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97715,
       "num": 97715,
       "word": "北京新增本土感染者30例社会面1例",
@@ -9033,6 +9161,14 @@
       "onboard_time": 1667794295,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "不再是没见过世面的小猫了",
+      "onboard_time": 1668169110,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 96550,
@@ -9105,6 +9241,14 @@
       "onboard_time": 1668132088,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95118,
+      "num": 95118,
+      "word": "林高远周启豪4比2向鹏袁励岑",
+      "onboard_time": 1668170189,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 94358,
@@ -9201,14 +9345,6 @@
       "onboard_time": 1667975425,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92784,
-      "num": 92784,
-      "word": "王濛为解说世界杯提前练嘴",
-      "onboard_time": 1668166470,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 92709,
@@ -9665,6 +9801,14 @@
       "onboard_time": 1667837366,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84864,
+      "num": 84864,
+      "word": "乳腺结节到底是怎么产生的",
+      "onboard_time": 1668170851,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84799,
@@ -10419,6 +10563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41860,
+      "num": 101595,
+      "word": "双十一进入最后冲刺阶段",
+      "onboard_time": 1668168030,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 38873,
       "num": 38873,
       "word": "向消防员致敬最好的方式",
@@ -10553,6 +10705,14 @@
       "onboard_time": 1668030072,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19522,
+      "num": 650720,
+      "word": "天舟四号撤离视角看中国空间站",
+      "onboard_time": 1668140910,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 15669,
