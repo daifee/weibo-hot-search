@@ -1,0 +1,410 @@
+{
+  "runTime": 1668134107754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1668048,
+        "num": 1668048,
+        "word": "上海地铁",
+        "onboard_time": 1668126504,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799043,
+        "num": 799043,
+        "word": "南大举报人母亲称举报信息不实",
+        "onboard_time": 1668128127,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12734,
+        "num": 793346,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 789868,
+        "num": 789868,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740686,
+        "num": 740686,
+        "word": "霍华德抵达中国台湾",
+        "onboard_time": 1668129388,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443039,
+        "num": 443039,
+        "word": "刘氏兄弟父母支持儿子回到中国",
+        "onboard_time": 1668125124,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438621,
+        "num": 438621,
+        "word": "上海地铁启动轨道蓝色预警",
+        "onboard_time": 1668131247,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676858,
+        "num": 425570,
+        "word": "波司登回应先涨后跌仅便宜0.28元",
+        "onboard_time": 1668125488,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400709,
+        "num": 400709,
+        "word": "苹果市值一日飙升1909亿美元",
+        "onboard_time": 1668129927,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 379007,
+        "num": 379007,
+        "word": "家中失火4岁女孩奶声奶气打119",
+        "onboard_time": 1668125787,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393416,
+        "num": 378464,
+        "word": "王俊凯像极了上网课被卡住的我",
+        "onboard_time": 1668130891,
+        "rank": 10,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 376838,
+        "num": 376838,
+        "word": "生气真的会长乳腺结节",
+        "onboard_time": 1668124405,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372071,
+        "num": 372071,
+        "word": "吉吉国王在卿卿日常演了个海王",
+        "onboard_time": 1668126146,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297360,
+        "num": 297360,
+        "word": "马斯克称推特可能破产",
+        "onboard_time": 1668130587,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268475,
+        "num": 268475,
+        "word": "王鹤棣被鸡踹到头",
+        "onboard_time": 1668098303,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251557,
+        "num": 251557,
+        "word": "103岁老人带83岁女儿去重孙百日宴",
+        "onboard_time": 1668127288,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243910,
+        "num": 243910,
+        "word": "郑州一高校给学生免费发放冲锋衣",
+        "onboard_time": 1668132686,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 240892,
+        "num": 240892,
+        "word": "林孝埈比赛",
+        "onboard_time": 1668122360,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240313,
+        "num": 240313,
+        "word": "边牧独自看摊按铃送出50颗鸡蛋",
+        "onboard_time": 1668123262,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231908,
+        "num": 231908,
+        "word": "男子偷网吧的钱用赃款充值上网",
+        "onboard_time": 1668129863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226757,
+        "num": 226757,
+        "word": "杀人犯潜逃29年被抓时成千万富翁",
+        "onboard_time": 1668089368,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193661,
+        "num": 193661,
+        "word": "37岁C罗第五次出征世界杯",
+        "onboard_time": 1668129087,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190362,
+        "num": 190362,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668122780,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "肠胃不好的人一定要看看",
+        "onboard_time": 1668086186,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178502,
+        "num": 178502,
+        "word": "蔚来三季度净亏损35亿元",
+        "onboard_time": 1668130048,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172005,
+        "num": 172005,
+        "word": "NMIXX将于23日发布新歌",
+        "onboard_time": 1668131666,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 168764,
+        "word": "警方通报女童在幼儿园意外身亡",
+        "onboard_time": 1668101657,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167761,
+        "num": 167761,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668128008,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148618,
+        "num": 148618,
+        "word": "卿卿日常电子榨菜",
+        "onboard_time": 1668132088,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146828,
+        "num": 146828,
+        "word": "真的会反反复复爱一个人吗",
+        "onboard_time": 1668093628,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145518,
+        "num": 145518,
+        "word": "老板为奖励员工把美食街搬回家",
+        "onboard_time": 1668132566,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145194,
+        "num": 145194,
+        "word": "波司登淘宝旗舰店被曝先提价再打折",
+        "onboard_time": 1668121338,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140423,
+        "num": 140423,
+        "word": "李峋说公主就是要穿裙子才对",
+        "onboard_time": 1668125967,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138233,
+        "num": 138233,
+        "word": "11月10日新增本土确诊1150例",
+        "onboard_time": 1668133646,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137672,
+        "num": 137672,
+        "word": "少爷和我",
+        "onboard_time": 1668093208,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136491,
+        "num": 136491,
+        "word": "张小斐去年金鸡影后今年金鸡主持",
+        "onboard_time": 1668090869,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135210,
+        "num": 135210,
+        "word": "11月10日新增本土无症状9385例",
+        "onboard_time": 1668133646,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132022,
+        "num": 132022,
+        "word": "张宸逍再演巽风",
+        "onboard_time": 1668133347,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129010,
+        "num": 129010,
+        "word": "战长沙疑似被恶意评分",
+        "onboard_time": 1668101237,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111912,
+        "num": 111912,
+        "word": "距离上班地方仅1.8米是啥体验",
+        "onboard_time": 1668095366,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109272,
+        "num": 109272,
+        "word": "英国国王查尔斯三世被扔鸡蛋",
+        "onboard_time": 1668088585,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 100909,
+        "num": 100909,
+        "word": "东北人是不是人人都会滑冰啊",
+        "onboard_time": 1668124645,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99538,
+        "num": 99538,
+        "word": "卿卿日常第八集有吻戏",
+        "onboard_time": 1668133286,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98215,
+        "num": 98215,
+        "word": "西工大2个学霸宿舍8人全保研",
+        "onboard_time": 1668133167,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 97402,
+        "num": 97402,
+        "word": "广州番禺全区一半镇街出现病例",
+        "onboard_time": 1668092067,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431484,
+        "num": 96520,
+        "word": "供销社的橘子为啥更便宜",
+        "onboard_time": 1668123984,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92965,
+        "num": 92965,
+        "word": "gidle新歌Change特别MV",
+        "onboard_time": 1668125305,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91553,
+        "num": 91553,
+        "word": "李薇每道菜只夹三次",
+        "onboard_time": 1668092728,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90857,
+        "num": 90857,
+        "word": "河南新增本土确诊124例无症状2881例",
+        "onboard_time": 1668134066,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90059,
+        "num": 90059,
+        "word": "李斌回应特斯拉降价影响",
+        "onboard_time": 1668134066,
+        "rank": 49,
+        "category": "财经,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会乌镇峰会#"
+    }
+  }
+}

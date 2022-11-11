@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668132173622,
+  "endTime": 1668134107754,
   "band_list": [
     {
       "raw_hot": 2231994,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1107845,
-      "num": 781496,
+      "num": 789868,
       "word": "3周大女婴肚子里取出8个寄生胎",
       "onboard_time": 1668092247,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 878353,
-      "num": 394321,
+      "num": 425570,
       "word": "波司登回应先涨后跌仅便宜0.28元",
       "onboard_time": 1668125488,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "匈牙利同意刘氏兄弟更改国籍",
       "onboard_time": 1668090568,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 740686,
+      "num": 740686,
+      "word": "霍华德抵达中国台湾",
+      "onboard_time": 1668129388,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -115,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466221,
-      "num": 466221,
-      "word": "霍华德抵达中国台湾",
-      "onboard_time": 1668129388,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 459124,
       "num": 459124,
       "word": "杀人犯潜逃29年被抓时成千万富翁",
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438621,
+      "num": 438621,
+      "word": "上海地铁启动轨道蓝色预警",
+      "onboard_time": 1668131247,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422826,
       "num": 422826,
       "word": "林孝埈比赛",
@@ -147,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398764,
-      "num": 398764,
+      "raw_hot": 400709,
+      "num": 400709,
       "word": "苹果市值一日飙升1909亿美元",
       "onboard_time": 1668129927,
       "rank": 9,
@@ -171,20 +179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393416,
+      "num": 378464,
+      "word": "王俊凯像极了上网课被卡住的我",
+      "onboard_time": 1668130891,
+      "rank": 11,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 389754,
       "num": 389754,
       "word": "距离上班地方仅1.8米是啥体验",
       "onboard_time": 1668095366,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376868,
-      "num": 376868,
-      "word": "王俊凯像极了上网课被卡住的我",
-      "onboard_time": 1668130891,
-      "rank": 11,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 343066,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297360,
+      "num": 297360,
+      "word": "马斯克称推特可能破产",
+      "onboard_time": 1668130587,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 289925,
       "num": 289925,
       "word": "广州疫情防控",
@@ -249,6 +265,14 @@
       "onboard_time": 1668088585,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 268475,
+      "num": 268475,
+      "word": "王鹤棣被鸡踹到头",
+      "onboard_time": 1668098303,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 260189,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243910,
+      "num": 243910,
+      "word": "郑州一高校给学生免费发放冲锋衣",
+      "onboard_time": 1668132686,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 236210,
       "num": 236210,
       "word": "当代女生为了省钱有多拼",
@@ -275,20 +307,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231908,
+      "num": 231908,
+      "word": "男子偷网吧的钱用赃款充值上网",
+      "onboard_time": 1668129863,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230079,
       "num": 230079,
       "word": "新疆新增无症状657例",
       "onboard_time": 1668103934,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228683,
-      "num": 228683,
-      "word": "王鹤棣被鸡踹到头",
-      "onboard_time": 1668098303,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 226114,
@@ -315,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218166,
-      "num": 218166,
-      "word": "上海地铁启动轨道蓝色预警",
-      "onboard_time": 1668131247,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216566,
       "num": 216566,
       "word": "疯狂小杨哥称绝不避税",
@@ -339,28 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211814,
-      "num": 211814,
-      "word": "男子偷网吧的钱用赃款充值上网",
-      "onboard_time": 1668129863,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211298,
       "num": 130497,
       "word": "TVB余子明去世",
       "onboard_time": 1668083544,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 205008,
-      "num": 205008,
-      "word": "马斯克称推特可能破产",
-      "onboard_time": 1668130587,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 203541,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178502,
+      "num": 178502,
+      "word": "蔚来三季度净亏损35亿元",
+      "onboard_time": 1668130048,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175749,
       "num": 175749,
       "word": "东北人是不是人人都会滑冰啊",
@@ -427,20 +443,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151279,
-      "num": 151279,
-      "word": "蔚来三季度净亏损35亿元",
-      "onboard_time": 1668130048,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 149980,
-      "num": 125905,
+      "num": 136491,
       "word": "张小斐去年金鸡影后今年金鸡主持",
       "onboard_time": 1668090869,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148618,
+      "num": 148618,
+      "word": "卿卿日常电子榨菜",
+      "onboard_time": 1668132088,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145518,
+      "num": 145518,
+      "word": "老板为奖励员工把美食街搬回家",
+      "onboard_time": 1668132566,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144320,
@@ -449,6 +473,22 @@
       "onboard_time": 1668083485,
       "rank": 21,
       "category": "其它"
+    },
+    {
+      "raw_hot": 138233,
+      "num": 138233,
+      "word": "11月10日新增本土确诊1150例",
+      "onboard_time": 1668133646,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135210,
+      "num": 135210,
+      "word": "11月10日新增本土无症状9385例",
+      "onboard_time": 1668133646,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134438,
@@ -472,6 +512,14 @@
       "word": "李薇每道菜只夹三次",
       "onboard_time": 1668092728,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132022,
+      "num": 132022,
+      "word": "张宸逍再演巽风",
+      "onboard_time": 1668133347,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -563,20 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99538,
+      "num": 99538,
+      "word": "卿卿日常第八集有吻戏",
+      "onboard_time": 1668133286,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 98215,
+      "num": 98215,
+      "word": "西工大2个学霸宿舍8人全保研",
+      "onboard_time": 1668133167,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 97995,
       "num": 97995,
       "word": "你实现睡眠自由了吗",
       "onboard_time": 1668099021,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97145,
-      "num": 97145,
-      "word": "卿卿日常电子榨菜",
-      "onboard_time": 1668132088,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 95155,
@@ -611,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90857,
+      "num": 90857,
+      "word": "河南新增本土确诊124例无症状2881例",
+      "onboard_time": 1668134066,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90668,
       "num": 90668,
       "word": "广州海珠区强化全域疫情防控措施",
       "onboard_time": 1668123744,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90059,
+      "num": 90059,
+      "word": "李斌回应特斯拉降价影响",
+      "onboard_time": 1668134066,
+      "rank": 49,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 88942,
@@ -788,7 +860,7 @@
     },
     {
       "raw_hot": 17579,
-      "num": 788017,
+      "num": 793346,
       "word": "探馆中国航展航空航天馆",
       "onboard_time": 1668077066,
       "rank": 2,
