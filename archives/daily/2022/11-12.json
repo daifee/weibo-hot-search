@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668195233029,
+  "endTime": 1668198229493,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -403,7 +403,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70297,
+      "raw_hot": 71691,
       "num": 43304,
       "word": "90后女孩放弃电视台和法院考上供销社",
       "onboard_time": 1668191836,
@@ -459,7 +459,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32119,
+      "raw_hot": 37836,
+      "num": 24221,
+      "word": "重庆一楼整个屋顶种满菜",
+      "onboard_time": 1668193753,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35824,
       "num": 32119,
       "word": "LBL",
       "onboard_time": 1668191954,
@@ -475,12 +483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24221,
-      "num": 24221,
-      "word": "重庆一楼整个屋顶种满菜",
-      "onboard_time": 1668193753,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 12547,
+      "num": 14637,
+      "word": "第一次见这么懒的猫",
+      "onboard_time": 1668196933,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11163,
+      "num": 14589,
+      "word": "第一次见这么稳的狗",
+      "onboard_time": 1668197473,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 8674,
