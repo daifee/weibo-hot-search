@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668151274399,
+  "endTime": 1668152190190,
   "band_list": [
     {
       "raw_hot": 2773615,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2286518,
+      "num": 2286518,
+      "word": "国家卫健委调整防疫措施",
+      "onboard_time": 1668147644,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2231994,
       "num": 2231994,
       "word": "上海地铁",
       "onboard_time": 1668126504,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2014337,
-      "num": 2014337,
-      "word": "国家卫健委调整防疫措施",
-      "onboard_time": 1668147644,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1776599,
@@ -49,6 +49,14 @@
       "onboard_time": 1668134546,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1381406,
+      "num": 1381406,
+      "word": "严禁随意封校停课",
+      "onboard_time": 1668147644,
+      "rank": 31,
+      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 1328658,
@@ -81,14 +89,6 @@
       "onboard_time": 1668092247,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095722,
-      "num": 1095722,
-      "word": "严禁随意封校停课",
-      "onboard_time": 1668147644,
-      "rank": 31,
-      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 1021172,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 727799,
+      "num": 727799,
+      "word": "医院回应不等核酸结果抢救七旬黄码老人",
+      "onboard_time": 1668147284,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716032,
       "num": 716032,
       "word": "一般不按行政区域开展全员核酸检测",
@@ -184,14 +192,6 @@
       "word": "风险区高中低调整为高低",
       "onboard_time": 1668146267,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665519,
-      "num": 665519,
-      "word": "医院回应不等核酸结果抢救七旬黄码老人",
-      "onboard_time": 1668147284,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506655,
+      "num": 438567,
+      "word": "加快新冠肺炎治疗相关药物储备",
+      "onboard_time": 1668148603,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460166,
       "num": 460166,
       "word": "东北男生在韩留学课上表演丢手绢",
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420624,
+      "num": 420624,
+      "word": "王曼昱",
+      "onboard_time": 1668150820,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400709,
       "num": 400709,
       "word": "苹果市值一日飙升1909亿美元",
@@ -401,6 +417,14 @@
       "onboard_time": 1668139529,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394538,
+      "num": 394538,
+      "word": "密接者7加3管理措施调整为5加3",
+      "onboard_time": 1668147408,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 393416,
@@ -451,20 +475,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 361654,
+      "num": 361654,
+      "word": "女子第一次下厨把活鱼扔锅里煮",
+      "onboard_time": 1668148903,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351363,
       "num": 351363,
       "word": "郑州一高校给学生免费发放冲锋衣",
       "onboard_time": 1668132686,
       "rank": 16,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 349032,
-      "num": 349032,
-      "word": "加快新冠肺炎治疗相关药物储备",
-      "onboard_time": 1668148603,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343066,
@@ -489,6 +513,14 @@
       "onboard_time": 1668142111,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339475,
+      "num": 339475,
+      "word": "高三家长组织捐款70余万感谢老师",
+      "onboard_time": 1668149743,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 336022,
@@ -521,14 +553,6 @@
       "onboard_time": 1668146503,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321865,
-      "num": 321865,
-      "word": "密接者7加3管理措施调整为5加3",
-      "onboard_time": 1668147408,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 316058,
@@ -603,14 +627,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 279064,
-      "num": 279064,
-      "word": "女子第一次下厨把活鱼扔锅里煮",
-      "onboard_time": 1668148903,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
@@ -665,14 +681,6 @@
       "onboard_time": 1668092968,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233246,
-      "num": 233246,
-      "word": "高三家长组织捐款70余万感谢老师",
-      "onboard_time": 1668149743,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 231908,
@@ -731,8 +739,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 214771,
-      "num": 214771,
+      "raw_hot": 216480,
+      "num": 216480,
       "word": "BOYSTORY自称出道四年仍是新人",
       "onboard_time": 1668148966,
       "rank": 40,
@@ -755,20 +763,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 208029,
+      "num": 208029,
+      "word": "张天爱刘恋拿行李箱买菜",
+      "onboard_time": 1668149441,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203541,
       "num": 203541,
       "word": "李峋说公主就是要穿裙子才对",
       "onboard_time": 1668125967,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199654,
-      "num": 199654,
-      "word": "张天爱刘恋拿行李箱买菜",
-      "onboard_time": 1668149441,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 198686,
@@ -785,14 +793,6 @@
       "onboard_time": 1668136645,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196467,
-      "num": 196467,
-      "word": "王曼昱",
-      "onboard_time": 1668150820,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 194854,
@@ -833,6 +833,14 @@
       "onboard_time": 1668133167,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 187011,
+      "num": 187011,
+      "word": "流浪地球2小小白点发布会",
+      "onboard_time": 1668151122,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 185731,
@@ -889,6 +897,14 @@
       "onboard_time": 1668133347,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160790,
+      "num": 160790,
+      "word": "新版微信可撤回五分钟内消息",
+      "onboard_time": 1668151720,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 159705,
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147009,
+      "num": 147009,
+      "word": "一诺画的公孙离是豆豆眼",
+      "onboard_time": 1668151601,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146438,
       "num": 146438,
       "word": "李峋朱韵用新年快乐说我爱你",
@@ -993,14 +1017,6 @@
       "onboard_time": 1668133646,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136857,
-      "num": 136857,
-      "word": "流浪地球2小小白点发布会",
-      "onboard_time": 1668151122,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 135098,
@@ -1065,6 +1081,22 @@
       "onboard_time": 1668143074,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125423,
+      "num": 125423,
+      "word": "广东人比四川人还能买辣椒",
+      "onboard_time": 1668150522,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125159,
+      "num": 125159,
+      "word": "爸爸1个星期为女儿打造歼15模型",
+      "onboard_time": 1668150222,
+      "rank": 43,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 122372,
@@ -1179,19 +1211,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106659,
+      "num": 106659,
+      "word": "妈妈被锁门外机智投屏喊儿子开门",
+      "onboard_time": 1668151300,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102312,
       "num": 102312,
       "word": "台湾之光只有电池里的电是台湾造的",
       "onboard_time": 1668079764,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100668,
-      "num": 100668,
-      "word": "广东人比四川人还能买辣椒",
-      "onboard_time": 1668150522,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1257,14 +1289,6 @@
       "onboard_time": 1668144943,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91210,
-      "num": 91210,
-      "word": "爸爸1个星期为女儿打造歼15模型",
-      "onboard_time": 1668150222,
-      "rank": 43,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 90668,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1668100879,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82264,
+      "num": 82264,
+      "word": "人民空军从无到有越变越强",
+      "onboard_time": 1668151300,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 80618,
