@@ -1,0 +1,410 @@
+{
+  "runTime": 1668145250992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2773615,
+        "num": 2773615,
+        "word": "长风渡",
+        "onboard_time": 1668143436,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1156807,
+        "num": 1156807,
+        "word": "突然就不想乱买东西了",
+        "onboard_time": 1668138447,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5071,
+        "num": 873304,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 633275,
+        "num": 633275,
+        "word": "泰剧已经这么超前了吗",
+        "onboard_time": 1668134546,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615026,
+        "num": 615026,
+        "word": "田曦薇新剧原型是齐妃",
+        "onboard_time": 1668136106,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486455,
+        "num": 486455,
+        "word": "社区书记同意转卖捐赠物资被免职",
+        "onboard_time": 1668137665,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381365,
+        "num": 381365,
+        "word": "河南新增本土确诊124例无症状2881例",
+        "onboard_time": 1668134066,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328350,
+        "num": 328350,
+        "word": "6岁半狗狗到已故主人墓前趴地流泪",
+        "onboard_time": 1668141691,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326145,
+        "num": 326145,
+        "word": "韩国队带200公斤泡菜征战世界杯",
+        "onboard_time": 1668136706,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 295410,
+        "num": 295410,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597525,
+        "num": 295324,
+        "word": "公司强迫感染新冠男团成员登台",
+        "onboard_time": 1668141510,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922407,
+        "num": 293649,
+        "word": "摆烂 论文",
+        "onboard_time": 1668142583,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437497,
+        "num": 290821,
+        "word": "优酷最近突然很懂bg粉",
+        "onboard_time": 1668142534,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367230,
+        "num": 288956,
+        "word": "张艺兴哈佛专场分享会",
+        "onboard_time": 1668142111,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288758,
+        "num": 288758,
+        "word": "林高远",
+        "onboard_time": 1668142111,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270758,
+        "num": 270758,
+        "word": "东北男生在韩留学课上表演丢手绢",
+        "onboard_time": 1668138929,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239940,
+        "num": 239940,
+        "word": "霍华德抵达中国台湾",
+        "onboard_time": 1668129388,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232783,
+        "num": 232783,
+        "word": "上海地铁",
+        "onboard_time": 1668126504,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176327,
+        "num": 176327,
+        "word": "家中失火4岁女孩奶声奶气打119",
+        "onboard_time": 1668125787,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174522,
+        "num": 174522,
+        "word": "11月11日11时11分11秒的歼20",
+        "onboard_time": 1668143617,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 336804,
+        "num": 167469,
+        "word": "王宝强八角笼中先导预告",
+        "onboard_time": 1668141631,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330089,
+        "num": 164237,
+        "word": "林深时见麓首日票房实际56元",
+        "onboard_time": 1668142714,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290541,
+        "num": 162334,
+        "word": "胡歌霍建华时尚芭莎新花絮",
+        "onboard_time": 1668135026,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156336,
+        "num": 156336,
+        "word": "山东人最后的倔强",
+        "onboard_time": 1668140729,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152024,
+        "num": 152024,
+        "word": "郑州一高校给学生免费发放冲锋衣",
+        "onboard_time": 1668132686,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 149958,
+        "word": "11月10日新增本土无症状9385例",
+        "onboard_time": 1668133646,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144170,
+        "num": 144170,
+        "word": "和狗狗抢窝的人类幼崽",
+        "onboard_time": 1668141631,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143978,
+        "num": 143978,
+        "word": "江苏力压山东登顶考研教材大省",
+        "onboard_time": 1668138207,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "原版微博近期将下线",
+        "onboard_time": 1668144763,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130725,
+        "num": 130725,
+        "word": "终于知道可以送啥礼物了",
+        "onboard_time": 1668136645,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285562,
+        "num": 130410,
+        "word": "脱口秀大会5总决赛官宣鹿晗",
+        "onboard_time": 1668134546,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273662,
+        "num": 129552,
+        "word": "以为魏大勋客串了卿卿日常",
+        "onboard_time": 1668139529,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246703,
+        "num": 129185,
+        "word": "陈飞宇说打火机公主裙是礼物互换",
+        "onboard_time": 1668144705,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238352,
+        "num": 128651,
+        "word": "于正说从小就关注杨紫",
+        "onboard_time": 1668144344,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168480,
+        "num": 127774,
+        "word": "波司登回应先涨后跌仅便宜0.28元",
+        "onboard_time": 1668125488,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127619,
+        "num": 127619,
+        "word": "马斯克称推特可能破产",
+        "onboard_time": 1668130587,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "上海地铁回应11号线故障",
+        "onboard_time": 1668140609,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107488,
+        "num": 107488,
+        "word": "边牧独自看摊按铃送出50颗鸡蛋",
+        "onboard_time": 1668123262,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102690,
+        "num": 102690,
+        "word": "南大举报人母亲称举报信息不实",
+        "onboard_time": 1668128127,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101293,
+        "num": 101293,
+        "word": "刘氏兄弟父母支持儿子回到中国",
+        "onboard_time": 1668125124,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215271,
+        "num": 100757,
+        "word": "陈紫函新剧逼陈小纭下跪",
+        "onboard_time": 1668134186,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217640,
+        "num": 100220,
+        "word": "点燃我温暖你反派出场",
+        "onboard_time": 1668144523,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152864,
+        "num": 100036,
+        "word": "王俊凯像极了上网课被卡住的我",
+        "onboard_time": 1668130891,
+        "rank": 42,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 98972,
+        "num": 98972,
+        "word": "妈妈辅导作业崩溃萌娃一秒化解",
+        "onboard_time": 1668143074,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98041,
+        "num": 98041,
+        "word": "苹果市值一日飙升1909亿美元",
+        "onboard_time": 1668129927,
+        "rank": 44,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 94343,
+        "num": 94343,
+        "word": "103岁老人带83岁女儿去重孙百日宴",
+        "onboard_time": 1668127288,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93741,
+        "num": 93741,
+        "word": "生气真的会长乳腺结节",
+        "onboard_time": 1668124405,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91597,
+        "num": 91597,
+        "word": "萌娃练跆拳道秀超顺滑一字马",
+        "onboard_time": 1668144943,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87038,
+        "num": 87038,
+        "word": "库兹马36分11篮板",
+        "onboard_time": 1668139408,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85021,
+        "num": 85021,
+        "word": "上海地铁启动轨道蓝色预警",
+        "onboard_time": 1668131247,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民空军成立73周年#"
+    }
+  }
+}

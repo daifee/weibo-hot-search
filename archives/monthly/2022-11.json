@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668144340546,
+  "endTime": 1668145250992,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -153,6 +153,14 @@
       "onboard_time": 1667994626,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2773615,
+      "num": 2773615,
+      "word": "长风渡",
+      "onboard_time": 1667790387,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 2723284,
@@ -617,14 +625,6 @@
       "onboard_time": 1667916630,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1732822,
-      "num": 1732822,
-      "word": "长风渡",
-      "onboard_time": 1667790387,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1714957,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1667467705,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 922407,
+      "num": 437772,
+      "word": "摆烂 论文",
+      "onboard_time": 1668142583,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919439,
@@ -3779,6 +3787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 597525,
+      "num": 456750,
+      "word": "公司强迫感染新冠男团成员登台",
+      "onboard_time": 1668141510,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597314,
       "num": 597314,
       "word": "男子回应被陌生女子跟踪骚扰1年",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1667994868,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586897,
-      "num": 456750,
-      "word": "公司强迫感染新冠男团成员登台",
-      "onboard_time": 1668141510,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 585298,
@@ -5795,12 +5803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437772,
-      "num": 437772,
-      "word": "摆烂 论文",
-      "onboard_time": 1668142583,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 437497,
+      "num": 290821,
+      "word": "优酷最近突然很懂bg粉",
+      "onboard_time": 1668142534,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 437411,
@@ -6225,14 +6233,6 @@
       "onboard_time": 1667695586,
       "rank": 13,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 418431,
-      "num": 185834,
-      "word": "优酷最近突然很懂bg粉",
-      "onboard_time": 1668142534,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 416881,
@@ -8019,6 +8019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330089,
+      "num": 164237,
+      "word": "林深时见麓首日票房实际56元",
+      "onboard_time": 1668142714,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329810,
       "num": 329810,
       "word": "乔欣马思超欠观众一个红薯吻",
@@ -8264,14 +8272,6 @@
       "word": "朱一龙倪妮消失的她官博开通",
       "onboard_time": 1667574153,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 321089,
-      "num": 135460,
-      "word": "林深时见麓首日票房实际56元",
-      "onboard_time": 1668142714,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -10291,6 +10291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246703,
+      "num": 129185,
+      "word": "陈飞宇说打火机公主裙是礼物互换",
+      "onboard_time": 1668144705,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245691,
       "num": 183638,
       "word": "安徽青企协回应吴某某事件",
@@ -10513,6 +10521,14 @@
       "onboard_time": 1668138207,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 238352,
+      "num": 128651,
+      "word": "于正说从小就关注杨紫",
+      "onboard_time": 1668144344,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 237532,
@@ -11329,6 +11345,14 @@
       "onboard_time": 1667712936,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217640,
+      "num": 100220,
+      "word": "点燃我温暖你反派出场",
+      "onboard_time": 1668144523,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 217525,
@@ -13257,6 +13281,14 @@
       "onboard_time": 1667937851,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 174522,
+      "num": 174522,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 174428,
@@ -15259,6 +15291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139708,
+      "num": 139708,
+      "word": "原版微博近期将下线",
+      "onboard_time": 1668144763,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
@@ -16137,14 +16177,6 @@
       "onboard_time": 1668093808,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126396,
-      "num": 126396,
-      "word": "11月11日11时11分11秒的歼20",
-      "onboard_time": 1668143617,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 126354,
@@ -18617,6 +18649,14 @@
       "onboard_time": 1667806466,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91597,
+      "num": 91597,
+      "word": "萌娃练跆拳道秀超顺滑一字马",
+      "onboard_time": 1668144943,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91515,

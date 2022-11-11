@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668144340546,
+  "endTime": 1668145250992,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -57,6 +57,14 @@
       "onboard_time": 1667994626,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2773615,
+      "num": 2773615,
+      "word": "长风渡",
+      "onboard_time": 1667790387,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 2402771,
@@ -225,14 +233,6 @@
       "onboard_time": 1667916630,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1732822,
-      "num": 1732822,
-      "word": "长风渡",
-      "onboard_time": 1667790387,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1707819,
@@ -833,6 +833,14 @@
       "onboard_time": 1667871027,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 922407,
+      "num": 437772,
+      "word": "摆烂 论文",
+      "onboard_time": 1668142583,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919333,
@@ -1451,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 597525,
+      "num": 456750,
+      "word": "公司强迫感染新冠男团成员登台",
+      "onboard_time": 1668141510,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "脱口秀大会5总决赛官宣鹿晗",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1667994868,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586897,
-      "num": 456750,
-      "word": "公司强迫感染新冠男团成员登台",
-      "onboard_time": 1668141510,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 585298,
@@ -2411,12 +2419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437772,
-      "num": 437772,
-      "word": "摆烂 论文",
-      "onboard_time": 1668142583,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 437497,
+      "num": 290821,
+      "word": "优酷最近突然很懂bg粉",
+      "onboard_time": 1668142534,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 437411,
@@ -2625,14 +2633,6 @@
       "onboard_time": 1667783070,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418431,
-      "num": 185834,
-      "word": "优酷最近突然很懂bg粉",
-      "onboard_time": 1668142534,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 416876,
@@ -3483,6 +3483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330089,
+      "num": 164237,
+      "word": "林深时见麓首日票房实际56元",
+      "onboard_time": 1668142714,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329545,
       "num": 329545,
       "word": "郑州富士康发布预招工公告",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1668041550,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321089,
-      "num": 135460,
-      "word": "林深时见麓首日票房实际56元",
-      "onboard_time": 1668142714,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 319009,
@@ -4547,6 +4547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246703,
+      "num": 129185,
+      "word": "陈飞宇说打火机公主裙是礼物互换",
+      "onboard_time": 1668144705,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245113,
       "num": 245113,
       "word": "吴京呼吁要保持生命通道畅通",
@@ -4657,6 +4665,14 @@
       "onboard_time": 1668138207,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 238352,
+      "num": 128651,
+      "word": "于正说从小就关注杨紫",
+      "onboard_time": 1668144344,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 237255,
@@ -5049,6 +5065,14 @@
       "onboard_time": 1668057566,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217640,
+      "num": 100220,
+      "word": "点燃我温暖你反派出场",
+      "onboard_time": 1668144523,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 217525,
@@ -6035,6 +6059,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 174522,
+      "num": 174522,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 174428,
       "num": 151032,
       "word": "接下来一个月有多部外片上映",
@@ -6939,6 +6971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139708,
+      "num": 139708,
+      "word": "原版微博近期将下线",
+      "onboard_time": 1668144763,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
@@ -7305,14 +7345,6 @@
       "onboard_time": 1668093808,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126396,
-      "num": 126396,
-      "word": "11月11日11时11分11秒的歼20",
-      "onboard_time": 1668143617,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 125896,
@@ -8537,6 +8569,14 @@
       "onboard_time": 1667806466,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91597,
+      "num": 91597,
+      "word": "萌娃练跆拳道秀超顺滑一字马",
+      "onboard_time": 1668144943,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91360,
