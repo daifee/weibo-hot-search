@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668198229493,
+  "endTime": 1668199143831,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -22619,7 +22619,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37836,
+      "raw_hot": 37994,
       "num": 24221,
       "word": "重庆一楼整个屋顶种满菜",
       "onboard_time": 1668193753,
@@ -22987,6 +22987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16546,
+      "num": 16546,
+      "word": "第一次见这么懒的猫",
+      "onboard_time": 1668196933,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16347,
       "num": 16347,
       "word": "什么都没快递重要",
@@ -23059,11 +23067,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12547,
-      "num": 14637,
-      "word": "第一次见这么懒的猫",
-      "onboard_time": 1668196933,
-      "rank": 45,
+      "raw_hot": 13265,
+      "num": 13265,
+      "word": "大张伟一开口就是笑点",
+      "onboard_time": 1668198614,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12833,
+      "num": 14589,
+      "word": "第一次见这么稳的狗",
+      "onboard_time": 1668197473,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -23081,14 +23097,6 @@
       "onboard_time": 1667361629,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11163,
-      "num": 14589,
-      "word": "第一次见这么稳的狗",
-      "onboard_time": 1668197473,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 11136,
