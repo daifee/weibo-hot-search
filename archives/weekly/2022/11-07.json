@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668165570238,
+  "endTime": 1668166563101,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -336,6 +336,14 @@
       "word": "小学生坠楼后学校先通知了另一家长",
       "onboard_time": 1667978426,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516741,
+      "num": 1516741,
+      "word": "为爱冲锋的勇士",
+      "onboard_time": 1668164314,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1499,14 +1507,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 621776,
-      "num": 621776,
-      "word": "为爱冲锋的勇士",
-      "onboard_time": 1668164314,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 618219,
       "num": 618219,
       "word": "警方通报女童在幼儿园意外身亡",
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524977,
+      "num": 524977,
+      "word": "男子袭击英国国王被禁止带蛋出门",
+      "onboard_time": 1668162875,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523506,
       "num": 419410,
       "word": "EXO会以全新面貌尽快回归",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1668029111,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497263,
+      "num": 497263,
+      "word": "宝可梦小智两连冠",
+      "onboard_time": 1668164675,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 496318,
@@ -2595,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438570,
+      "num": 147237,
+      "word": "香港首名侮辱国歌罪犯被判刑",
+      "onboard_time": 1668162935,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437989,
       "num": 437989,
       "word": "台北故宫文物毁损视频首曝光",
@@ -2779,14 +2803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 423392,
-      "num": 147237,
-      "word": "香港首名侮辱国歌罪犯被判刑",
-      "onboard_time": 1668162935,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423255,
       "num": 423255,
       "word": "林高远状态",
@@ -2944,14 +2960,6 @@
       "word": "睡前2小时进食就算夜宵",
       "onboard_time": 1667923107,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405201,
-      "num": 405201,
-      "word": "男子袭击英国国王被禁止带蛋出门",
-      "onboard_time": 1668162875,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -3363,6 +3371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 364492,
+      "num": 364492,
+      "word": "BLACKPINK互跳solo曲",
+      "onboard_time": 1668164973,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 363374,
       "num": 363374,
       "word": "原版微博近期将下线",
@@ -3385,14 +3401,6 @@
       "onboard_time": 1668051566,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 361313,
-      "num": 361313,
-      "word": "宝可梦小智两连冠",
-      "onboard_time": 1668164675,
-      "rank": 11,
-      "category": "动漫"
     },
     {
       "raw_hot": 361240,
@@ -4763,6 +4771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259674,
+      "num": 259674,
+      "word": "斗罗大陆宣布将彻底完结",
+      "onboard_time": 1668161253,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258895,
       "num": 258895,
       "word": "学校食堂17元的一顿饭",
@@ -4777,14 +4793,6 @@
       "onboard_time": 1668089185,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258720,
-      "num": 258720,
-      "word": "BLACKPINK互跳solo曲",
-      "onboard_time": 1668164973,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 258052,
@@ -4915,6 +4923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247256,
+      "num": 247256,
+      "word": "周五奖励一下自己",
+      "onboard_time": 1668162694,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246703,
       "num": 189761,
       "word": "陈飞宇说打火机公主裙是礼物互换",
@@ -5025,14 +5041,6 @@
       "onboard_time": 1667823266,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239006,
-      "num": 239006,
-      "word": "斗罗大陆宣布将彻底完结",
-      "onboard_time": 1668161253,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 238535,
@@ -5217,6 +5225,14 @@
       "onboard_time": 1667978968,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228315,
+      "num": 228315,
+      "word": "宝可梦",
+      "onboard_time": 1668165511,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 228089,
@@ -5563,14 +5579,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 213562,
-      "num": 213562,
-      "word": "周五奖励一下自己",
-      "onboard_time": 1668162694,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213264,
       "num": 98179,
       "word": "蓝羽邓超黄渤张小斐主持金鸡奖",
@@ -5713,6 +5721,14 @@
       "onboard_time": 1667892566,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204577,
+      "num": 204577,
+      "word": "逐一排查校园随意封控等问题",
+      "onboard_time": 1668161914,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 204035,
@@ -6195,6 +6211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186915,
+      "num": 186915,
+      "word": "陈飞宇李峋脊椎受伤花絮",
+      "onboard_time": 1668163172,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186450,
       "num": 186450,
       "word": "莎头组合已经很棒了",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1668069326,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183401,
+      "num": 139944,
+      "word": "歼20已全部换装中国心",
+      "onboard_time": 1668163773,
+      "rank": 32,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 183298,
@@ -6425,14 +6457,6 @@
       "onboard_time": 1668130048,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178400,
-      "num": 178400,
-      "word": "逐一排查校园随意封控等问题",
-      "onboard_time": 1668161914,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177680,
@@ -6929,6 +6953,14 @@
       "onboard_time": 1668152260,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 158220,
+      "num": 150254,
+      "word": "吕秀才新剧娶了白展堂老婆",
+      "onboard_time": 1668160835,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 157138,
@@ -7499,14 +7531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "歼20已全部换装中国心",
-      "onboard_time": 1668163773,
-      "rank": 32,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "百面千相",
@@ -7640,14 +7664,6 @@
       "word": "李峋眼神里的爱意",
       "onboard_time": 1668079466,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 135741,
-      "num": 135741,
-      "word": "吕秀才新剧娶了白展堂老婆",
-      "onboard_time": 1668160835,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -7835,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129472,
+      "num": 129472,
+      "word": "罗晋新剧1分钟切换3种情绪",
+      "onboard_time": 1668166229,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "宋宁峰脾气真好",
@@ -7921,6 +7945,14 @@
       "onboard_time": 1668143074,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125669,
+      "num": 125669,
+      "word": "漂亮的年纪要让自己开心",
+      "onboard_time": 1668165151,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125651,
@@ -8035,14 +8067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123200,
-      "num": 123200,
-      "word": "陈飞宇李峋脊椎受伤花絮",
-      "onboard_time": 1668163172,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 122936,
       "num": 122936,
       "word": "林高远3比2樊振东",
@@ -8097,14 +8121,6 @@
       "onboard_time": 1668004831,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121690,
-      "num": 108759,
-      "word": "宝可梦",
-      "onboard_time": 1668165511,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 121596,
@@ -8393,14 +8409,6 @@
       "onboard_time": 1667902769,
       "rank": 36,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 112672,
-      "num": 112672,
-      "word": "漂亮的年纪要让自己开心",
-      "onboard_time": 1668165151,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 112592,
@@ -9193,6 +9201,14 @@
       "onboard_time": 1667975425,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92784,
+      "num": 92784,
+      "word": "王濛为解说世界杯提前练嘴",
+      "onboard_time": 1668166470,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92709,

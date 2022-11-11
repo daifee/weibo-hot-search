@@ -1,0 +1,410 @@
+{
+  "runTime": 1668166563101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516741,
+        "num": 1516741,
+        "word": "为爱冲锋的勇士",
+        "onboard_time": 1668164314,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868052,
+        "num": 868052,
+        "word": "广州在隔次密接解除隔离",
+        "onboard_time": 1668159697,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41367,
+        "num": 695508,
+        "word": "73秒致敬人民空军73周年",
+        "onboard_time": 1668154180,
+        "rank": 2,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 2919030,
+        "num": 647705,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572775,
+        "num": 572775,
+        "word": "全员核酸只在疫情底数不清时开展",
+        "onboard_time": 1668152500,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 524977,
+        "num": 524977,
+        "word": "男子袭击英国国王被禁止带蛋出门",
+        "onboard_time": 1668162875,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497263,
+        "num": 497263,
+        "word": "宝可梦小智两连冠",
+        "onboard_time": 1668164675,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 439155,
+        "num": 439155,
+        "word": "官方回应网传一奶茶店未先说扫码被封",
+        "onboard_time": 1668159995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380372,
+        "num": 380372,
+        "word": "蔡徐坤打小就爱看恋综",
+        "onboard_time": 1668163533,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364492,
+        "num": 364492,
+        "word": "BLACKPINK互跳solo曲",
+        "onboard_time": 1668164973,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428114,
+        "num": 361440,
+        "word": "白敬亭宋轶长风渡的吻戏路透",
+        "onboard_time": 1668153459,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355624,
+        "num": 355624,
+        "word": "中餐厅6合伙人全员入戏",
+        "onboard_time": 1668163233,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353642,
+        "num": 353642,
+        "word": "男生吃杨国福1年发现竟是杨围福",
+        "onboard_time": 1668153580,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294875,
+        "num": 294875,
+        "word": "严禁随意封校停课",
+        "onboard_time": 1668147644,
+        "rank": 13,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 5146,
+        "num": 271469,
+        "word": "双11热卖王",
+        "onboard_time": 1668164433,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 259674,
+        "num": 259674,
+        "word": "斗罗大陆宣布将彻底完结",
+        "onboard_time": 1668161253,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247256,
+        "num": 247256,
+        "word": "周五奖励一下自己",
+        "onboard_time": 1668162694,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246661,
+        "num": 246661,
+        "word": "国家卫健委调整防疫措施",
+        "onboard_time": 1668147644,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228315,
+        "num": 228315,
+        "word": "宝可梦",
+        "onboard_time": 1668165511,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224858,
+        "num": 224858,
+        "word": "25岁小伙上门做饭三菜一汤收费36元",
+        "onboard_time": 1668156938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208597,
+        "num": 208597,
+        "word": "微信否认可撤回五分钟内消息",
+        "onboard_time": 1668155919,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207052,
+        "num": 207052,
+        "word": "胡烨韬翻跳Nxde",
+        "onboard_time": 1668160537,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204577,
+        "num": 204577,
+        "word": "逐一排查校园随意封控等问题",
+        "onboard_time": 1668161914,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 186915,
+        "num": 186915,
+        "word": "陈飞宇李峋脊椎受伤花絮",
+        "onboard_time": 1668163172,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185931,
+        "num": 185931,
+        "word": "北京新增本土感染者70例",
+        "onboard_time": 1668159516,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185716,
+        "num": 185716,
+        "word": "脸大的人不适合戴水桶帽",
+        "onboard_time": 1668154301,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170575,
+        "num": 170575,
+        "word": "卿卿日常全员营业好积极",
+        "onboard_time": 1668161434,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153310,
+        "num": 153310,
+        "word": "成龙吴京首次同框演对手戏",
+        "onboard_time": 1668160835,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158220,
+        "num": 150254,
+        "word": "吕秀才新剧娶了白展堂老婆",
+        "onboard_time": 1668160835,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143400,
+        "num": 143400,
+        "word": "成熟稳重的橘猫",
+        "onboard_time": 1668161612,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 438570,
+        "num": 139226,
+        "word": "香港首名侮辱国歌罪犯被判刑",
+        "onboard_time": 1668162935,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183401,
+        "num": 139029,
+        "word": "歼20已全部换装中国心",
+        "onboard_time": 1668163773,
+        "rank": 31,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 129472,
+        "num": 129472,
+        "word": "罗晋新剧1分钟切换3种情绪",
+        "onboard_time": 1668166229,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126840,
+        "num": 126840,
+        "word": "山东一女子网购像进年货",
+        "onboard_time": 1668157899,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "漂亮的年纪要让自己开心",
+        "onboard_time": 1668165151,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125172,
+        "num": 125172,
+        "word": "国际机票瞬时流量达到近一年峰值",
+        "onboard_time": 1668153821,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 119590,
+        "num": 119590,
+        "word": "突然就不想乱买东西了",
+        "onboard_time": 1668138447,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 117478,
+        "word": "刘浩存宋威龙念念相忘晴空之下海报",
+        "onboard_time": 1668158922,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "官方通报家长捐款70多万答谢老师",
+        "onboard_time": 1668149743,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113242,
+        "num": 113242,
+        "word": "做好住院床位和重症床位准备",
+        "onboard_time": 1668157963,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106583,
+        "num": 106583,
+        "word": "你是什么惠",
+        "onboard_time": 1668158199,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105293,
+        "num": 105293,
+        "word": "冬天需要这个猫毯",
+        "onboard_time": 1668161612,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100387,
+        "num": 100387,
+        "word": "洗发水要换着用",
+        "onboard_time": 1668154659,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99189,
+        "num": 99189,
+        "word": "女子第一次下厨把活鱼扔锅里煮",
+        "onboard_time": 1668148903,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95414,
+        "num": 95414,
+        "word": "11月11日11时11分11秒的歼20",
+        "onboard_time": 1668143617,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 94311,
+        "word": "微信支持自定义填写状态词",
+        "onboard_time": 1668158199,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94281,
+        "num": 94281,
+        "word": "李峋也挡不住公主撒娇",
+        "onboard_time": 1668157299,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92784,
+        "num": 92784,
+        "word": "王濛为解说世界杯提前练嘴",
+        "onboard_time": 1668166470,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89093,
+        "num": 89093,
+        "word": "宝可梦旅途决赛篇",
+        "onboard_time": 1668163831,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 83036,
+        "num": 83036,
+        "word": "老人被压车底路人20秒抬车救人",
+        "onboard_time": 1668152678,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}
