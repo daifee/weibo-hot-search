@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668177455143,
+  "endTime": 1668180290406,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -153,6 +153,14 @@
       "onboard_time": 1667999848,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2023536,
+      "num": 2023536,
+      "word": "某某某太强了",
+      "onboard_time": 1668177393,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 2015592,
@@ -1315,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704853,
+      "num": 704853,
+      "word": "女子被前男友妈妈甩详单要求还钱",
+      "onboard_time": 1668174451,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700846,
       "num": 379687,
       "word": "第一个总部设在中国的政府间国际组织",
@@ -1584,6 +1600,14 @@
       "word": "警方通报收3000办出疆通行证音频",
       "onboard_time": 1667829689,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609554,
+      "num": 609554,
+      "word": "重庆9个中心城区实施原则不出小区",
+      "onboard_time": 1668178476,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1912,14 +1936,6 @@
       "word": "生气真的会长乳腺结节",
       "onboard_time": 1668124405,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546980,
-      "num": 546980,
-      "word": "女子被前男友妈妈甩详单要求还钱",
-      "onboard_time": 1668174451,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2451,6 +2467,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 473281,
+      "num": 473281,
+      "word": "男子掌掴幼童事件31分钟监控曝光",
+      "onboard_time": 1668177034,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 473087,
       "num": 473087,
       "word": "库里47分8篮板",
@@ -2811,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433235,
+      "num": 433235,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1668173311,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432718,
       "num": 432718,
       "word": "程序员看李峋代码来上分",
@@ -2825,14 +2857,6 @@
       "onboard_time": 1667786424,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 431297,
-      "num": 431297,
-      "word": "中国男篮vs伊朗男篮",
-      "onboard_time": 1668173311,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 430796,
@@ -2865,14 +2889,6 @@
       "onboard_time": 1667888367,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427105,
-      "num": 134785,
-      "word": "某某某太强了",
-      "onboard_time": 1668177393,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 426518,
@@ -3739,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343285,
+      "num": 343285,
+      "word": "白敬亭田曦薇新剧疯狂上分",
+      "onboard_time": 1668178054,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343050,
       "num": 343050,
       "word": "头一次吃这么熟的火龙果",
@@ -4203,6 +4227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308995,
+      "num": 308995,
+      "word": "乳房是情绪的靶向器官",
+      "onboard_time": 1668179014,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307427,
       "num": 307427,
       "word": "徐怀钰重回滚石",
@@ -4491,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290469,
+      "num": 290469,
+      "word": "一块钱藏出了一亿的感觉",
+      "onboard_time": 1668175654,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290422,
       "num": 290422,
       "word": "王艺迪女单夺冠",
@@ -4521,6 +4561,14 @@
       "onboard_time": 1668087145,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287672,
+      "num": 146333,
+      "word": "黑龙江一客车出车祸致4死",
+      "onboard_time": 1668177933,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 287179,
@@ -4939,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260065,
+      "num": 260065,
+      "word": "父母给女儿取名龙葵寓意向阳而生",
+      "onboard_time": 1668173735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259888,
       "num": 146283,
       "word": "觉醒年代yyds",
@@ -5161,14 +5217,6 @@
       "onboard_time": 1668088646,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244028,
-      "num": 244028,
-      "word": "父母给女儿取名龙葵寓意向阳而生",
-      "onboard_time": 1668173735,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243623,
@@ -5571,6 +5619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224907,
+      "num": 145712,
+      "word": "中美元首巴厘岛会晤",
+      "onboard_time": 1668177756,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 224649,
       "num": 224649,
       "word": "红腹锦鸡飞入工厂被误认为是凤凰",
@@ -5739,6 +5795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+      "onboard_time": 1668174451,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216480,
       "num": 216480,
       "word": "BOYSTORY自称出道四年仍是新人",
@@ -5785,14 +5849,6 @@
       "onboard_time": 1667963967,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213864,
-      "num": 213864,
-      "word": "一块钱藏出了一亿的感觉",
-      "onboard_time": 1668175654,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 213850,
@@ -5867,14 +5923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211654,
-      "num": 211654,
-      "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
-      "onboard_time": 1668174451,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210506,
       "num": 210506,
       "word": "樊振东林高远比赛太刺激了",
@@ -5921,6 +5969,14 @@
       "onboard_time": 1667958806,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 206951,
+      "num": 206951,
+      "word": "孙怡被李晨拽着跑",
+      "onboard_time": 1668178596,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 206909,
@@ -6163,11 +6219,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196090,
+      "num": 196090,
+      "word": "肖砚晕倒了",
+      "onboard_time": 1668179133,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195712,
       "num": 195712,
       "word": "徐志胜鱼系男孩",
       "onboard_time": 1668002728,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195229,
+      "num": 195229,
+      "word": "遇人不赎",
+      "onboard_time": 1668179792,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -6457,6 +6529,14 @@
       "onboard_time": 1667901389,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187101,
+      "num": 143569,
+      "word": "陈飞宇新剧的眼神戏",
+      "onboard_time": 1668179257,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 186915,
@@ -7523,14 +7603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148961,
-      "num": 148961,
-      "word": "男子掌掴幼童事件31分钟监控曝光",
-      "onboard_time": 1668177034,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 148810,
       "num": 148810,
       "word": "王楚钦孙颖莎vs林诗栋蒯曼",
@@ -7664,6 +7736,14 @@
       "word": "这孩子在恐怖片里能活到结局",
       "onboard_time": 1668073044,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145237,
+      "num": 150157,
+      "word": "小狗狗生气有多可爱",
+      "onboard_time": 1668174814,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -7939,14 +8019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136836,
-      "num": 150157,
-      "word": "小狗狗生气有多可爱",
-      "onboard_time": 1668174814,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136835,
       "num": 149052,
       "word": "超6成榴莲被年轻人买走",
@@ -8169,6 +8241,14 @@
       "onboard_time": 1668090869,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130654,
+      "num": 140892,
+      "word": "尹岐上官婧好甜",
+      "onboard_time": 1668178296,
+      "rank": 40,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 129976,
@@ -8571,6 +8651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119804,
+      "num": 140904,
+      "word": "差点把大哥打哭了",
+      "onboard_time": 1668176913,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119730,
       "num": 119730,
       "word": "白术治好了我的纠结症",
@@ -8793,14 +8881,6 @@
       "onboard_time": 1668166832,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112149,
-      "num": 134856,
-      "word": "差点把大哥打哭了",
-      "onboard_time": 1668176913,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 112101,
@@ -9803,6 +9883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90267,
+      "num": 140791,
+      "word": "值得按头安利的减肥操",
+      "onboard_time": 1668180092,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90059,
       "num": 90059,
       "word": "李斌回应特斯拉降价影响",
@@ -10248,6 +10336,14 @@
       "word": "没见过这么配合洗澡的猫",
       "onboard_time": 1667891786,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80678,
+      "num": 140756,
+      "word": "很想要这副猫猫手套了",
+      "onboard_time": 1668179915,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -10988,7 +11084,7 @@
     },
     {
       "raw_hot": 24981,
-      "num": 679696,
+      "num": 708591,
       "word": "天舟四号撤离视角看中国空间站",
       "onboard_time": 1668140910,
       "rank": 2,
