@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668142759153,
+  "endTime": 1668144340546,
   "band_list": [
     {
       "raw_hot": 2231994,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1732822,
+      "num": 1732822,
+      "word": "长风渡",
+      "onboard_time": 1668143436,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1396989,
       "num": 1396989,
       "word": "泰剧已经这么超前了吗",
       "onboard_time": 1668134546,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1283581,
+      "num": 1283581,
+      "word": "突然就不想乱买东西了",
+      "onboard_time": 1668138447,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 1131462,
@@ -33,14 +49,6 @@
       "onboard_time": 1668092247,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063610,
-      "num": 1063610,
-      "word": "突然就不想乱买东西了",
-      "onboard_time": 1668138447,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 1021172,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586897,
+      "num": 456750,
+      "word": "公司强迫感染新冠男团成员登台",
+      "onboard_time": 1668141510,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548155,
       "num": 548155,
       "word": "生气真的会长乳腺结节",
@@ -203,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464357,
-      "num": 456750,
-      "word": "公司强迫感染新冠男团成员登台",
-      "onboard_time": 1668141510,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460166,
       "num": 460166,
       "word": "东北男生在韩留学课上表演丢手绢",
@@ -243,12 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437772,
+      "num": 437772,
+      "word": "摆烂 论文",
+      "onboard_time": 1668142583,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436521,
+      "num": 362845,
+      "word": "张艺兴哈佛专场分享会",
+      "onboard_time": 1668142111,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422826,
       "num": 422826,
       "word": "林孝埈比赛",
       "onboard_time": 1668122360,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418431,
+      "num": 185834,
+      "word": "优酷最近突然很懂bg粉",
+      "onboard_time": 1668142534,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 400709,
@@ -315,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377641,
-      "num": 212317,
-      "word": "张艺兴哈佛专场分享会",
-      "onboard_time": 1668142111,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366404,
       "num": 313304,
       "word": "朱一龙倪妮消失的她官宣",
@@ -355,11 +379,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340476,
+      "num": 340476,
+      "word": "林高远",
+      "onboard_time": 1668142111,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 336022,
+      "num": 336022,
+      "word": "6岁半狗狗到已故主人墓前趴地流泪",
+      "onboard_time": 1668141691,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330515,
       "num": 315151,
       "word": "白敬亭田曦薇新剧醉酒吻",
       "onboard_time": 1668082163,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321089,
+      "num": 135460,
+      "word": "林深时见麓首日票房实际56元",
+      "onboard_time": 1668142714,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -507,22 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221603,
-      "num": 221603,
-      "word": "6岁半狗狗到已故主人墓前趴地流泪",
-      "onboard_time": 1668141691,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221182,
-      "num": 162413,
-      "word": "优酷最近突然很懂bg粉",
-      "onboard_time": 1668142534,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219260,
       "num": 151164,
       "word": "鲁某某家人登门下跪道歉求谅解",
@@ -603,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190025,
-      "num": 190025,
-      "word": "林高远",
-      "onboard_time": 1668142111,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187765,
       "num": 187765,
       "word": "西工大2个学霸宿舍8人全保研",
@@ -627,20 +651,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183991,
+      "num": 135276,
+      "word": "阳光之下欠的吻戏不期而至还上了",
+      "onboard_time": 1668143074,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183298,
       "num": 183298,
       "word": "山东人最后的倔强",
       "onboard_time": 1668140729,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180222,
-      "num": 134107,
-      "word": "林深时见麓首日票房实际56元",
-      "onboard_time": 1668142714,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 178502,
@@ -697,6 +721,14 @@
       "onboard_time": 1668139408,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153760,
+      "num": 153760,
+      "word": "和狗狗抢窝的人类幼崽",
+      "onboard_time": 1668141631,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 153097,
@@ -771,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136841,
-      "num": 136841,
-      "word": "和狗狗抢窝的人类幼崽",
-      "onboard_time": 1668141631,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 135098,
+      "num": 135098,
+      "word": "解说杯S3宣传片",
+      "onboard_time": 1668143680,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 134438,
@@ -817,6 +849,14 @@
       "onboard_time": 1668093808,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126396,
+      "num": 126396,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 122372,
@@ -888,6 +928,14 @@
       "word": "广州荔湾区进一步强化管控措施",
       "onboard_time": 1668089429,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106929,
+      "num": 106929,
+      "word": "妈妈辅导作业崩溃萌娃一秒化解",
+      "onboard_time": 1668143074,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

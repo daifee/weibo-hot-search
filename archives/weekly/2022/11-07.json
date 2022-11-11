@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668142759153,
+  "endTime": 1668144340546,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1732822,
+      "num": 1732822,
+      "word": "长风渡",
+      "onboard_time": 1667790387,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1707819,
       "num": 1707819,
       "word": "血月",
@@ -451,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1283581,
+      "num": 1283581,
+      "word": "突然就不想乱买东西了",
+      "onboard_time": 1668138447,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1251445,
       "num": 1251445,
       "word": "韩剧TV辟谣",
@@ -625,14 +641,6 @@
       "onboard_time": 1667813368,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063610,
-      "num": 1063610,
-      "word": "突然就不想乱买东西了",
-      "onboard_time": 1668138447,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 1051608,
@@ -1491,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586897,
+      "num": 456750,
+      "word": "公司强迫感染新冠男团成员登台",
+      "onboard_time": 1668141510,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585298,
       "num": 585298,
       "word": "宿舍关系不和谐有多可怕",
@@ -2203,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464357,
-      "num": 456750,
-      "word": "公司强迫感染新冠男团成员登台",
-      "onboard_time": 1668141510,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463871,
       "num": 463871,
       "word": "没事不要随随便便去拆结婚照",
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437772,
+      "num": 437772,
+      "word": "摆烂 论文",
+      "onboard_time": 1668142583,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437411,
       "num": 437411,
       "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
@@ -2417,6 +2433,14 @@
       "onboard_time": 1668001350,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 436521,
+      "num": 362845,
+      "word": "张艺兴哈佛专场分享会",
+      "onboard_time": 1668142111,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 436414,
@@ -2601,6 +2625,14 @@
       "onboard_time": 1667783070,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418431,
+      "num": 185834,
+      "word": "优酷最近突然很懂bg粉",
+      "onboard_time": 1668142534,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 416876,
@@ -2859,14 +2891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387531,
-      "num": 387531,
-      "word": "长风渡",
-      "onboard_time": 1667790387,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386549,
       "num": 386549,
       "word": "于正说一口气追了三集卿卿日常",
@@ -2977,14 +3001,6 @@
       "onboard_time": 1667980588,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377641,
-      "num": 212317,
-      "word": "张艺兴哈佛专场分享会",
-      "onboard_time": 1668142111,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 377190,
@@ -3363,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340476,
+      "num": 340476,
+      "word": "林高远",
+      "onboard_time": 1668142111,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340224,
       "num": 314140,
       "word": "脱口秀大会",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1668082163,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336022,
+      "num": 336022,
+      "word": "6岁半狗狗到已故主人墓前趴地流泪",
+      "onboard_time": 1668141691,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335273,
@@ -3585,6 +3617,14 @@
       "onboard_time": 1668041550,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321089,
+      "num": 135460,
+      "word": "林深时见麓首日票房实际56元",
+      "onboard_time": 1668142714,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 319009,
@@ -4963,22 +5003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221603,
-      "num": 221603,
-      "word": "6岁半狗狗到已故主人墓前趴地流泪",
-      "onboard_time": 1668141691,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221182,
-      "num": 162413,
-      "word": "优酷最近突然很懂bg粉",
-      "onboard_time": 1668142534,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221159,
       "num": 221159,
       "word": "韩素希活动饭拍",
@@ -5587,14 +5611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190025,
-      "num": 190025,
-      "word": "林高远",
-      "onboard_time": 1668142111,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189976,
       "num": 189976,
       "word": "房东送租户中秋礼退租时从押金扣",
@@ -5779,6 +5795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183991,
+      "num": 135276,
+      "word": "阳光之下欠的吻戏不期而至还上了",
+      "onboard_time": 1668143074,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183649,
       "num": 137839,
       "word": "张远詹雯婷合唱荒羽",
@@ -5865,14 +5889,6 @@
       "onboard_time": 1667984666,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180222,
-      "num": 134107,
-      "word": "林深时见麓首日票房实际56元",
-      "onboard_time": 1668142714,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 180168,
@@ -6507,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153760,
+      "num": 153760,
+      "word": "和狗狗抢窝的人类幼崽",
+      "onboard_time": 1668141631,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153742,
       "num": 153742,
       "word": "月全食邂逅月掩天王星一生只能见一次",
@@ -7011,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136841,
-      "num": 136841,
-      "word": "和狗狗抢窝的人类幼崽",
-      "onboard_time": 1668141631,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136766,
       "num": 116436,
       "word": "龚俊狐妖小红娘杀青照",
@@ -7080,6 +7096,14 @@
       "word": "阿古朵顽趣皮肤",
       "onboard_time": 1667993367,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135098,
+      "num": 135098,
+      "word": "解说杯S3宣传片",
+      "onboard_time": 1668143680,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -7281,6 +7305,14 @@
       "onboard_time": 1668093808,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126396,
+      "num": 126396,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 125896,
@@ -7865,6 +7897,14 @@
       "onboard_time": 1668064406,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106929,
+      "num": 106929,
+      "word": "妈妈辅导作业崩溃萌娃一秒化解",
+      "onboard_time": 1668143074,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106497,
