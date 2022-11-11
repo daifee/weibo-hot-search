@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668134107754,
+  "endTime": 1668138974731,
   "band_list": [
     {
       "raw_hot": 2231994,
@@ -9,6 +9,14 @@
       "onboard_time": 1668126504,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1386706,
+      "num": 1386706,
+      "word": "泰剧已经这么超前了吗",
+      "onboard_time": 1668134546,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1107845,
@@ -51,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 776322,
+      "num": 776322,
+      "word": "河南新增本土确诊124例无症状2881例",
+      "onboard_time": 1668134066,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744171,
       "num": 744171,
       "word": "匈牙利同意刘氏兄弟更改国籍",
@@ -67,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717411,
+      "num": 717411,
+      "word": "韩国队带200公斤泡菜征战世界杯",
+      "onboard_time": 1668136706,
+      "rank": 4,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 630169,
       "num": 630169,
       "word": "广州番禺全区一半镇街出现病例",
@@ -81,6 +105,14 @@
       "onboard_time": 1668101657,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596942,
+      "num": 596942,
+      "word": "脱口秀大会5总决赛官宣鹿晗",
+      "onboard_time": 1668134546,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 548155,
@@ -107,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527978,
+      "num": 315633,
+      "word": "胡歌霍建华时尚芭莎新花絮",
+      "onboard_time": 1668135026,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 527422,
       "num": 527422,
       "word": "刘氏兄弟父母支持儿子回到中国",
       "onboard_time": 1668125124,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518626,
+      "num": 518626,
+      "word": "田曦薇新剧原型是齐妃",
+      "onboard_time": 1668136106,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 514633,
+      "num": 314445,
+      "word": "陈紫函新剧逼陈小纭下跪",
+      "onboard_time": 1668134186,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 512504,
@@ -195,11 +251,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366404,
+      "num": 313304,
+      "word": "朱一龙倪妮消失的她官宣",
+      "onboard_time": 1668135446,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351363,
+      "num": 351363,
+      "word": "郑州一高校给学生免费发放冲锋衣",
+      "onboard_time": 1668132686,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 343066,
       "num": 343066,
       "word": "陈小纭新剧人设好夹",
       "onboard_time": 1668086966,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340988,
+      "num": 310553,
+      "word": "于正说一口气追了三集卿卿日常",
+      "onboard_time": 1668136768,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -217,6 +297,22 @@
       "onboard_time": 1668082163,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329633,
+      "num": 312722,
+      "word": "社区书记同意转卖捐赠物资被免职",
+      "onboard_time": 1668137665,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316058,
+      "num": 316058,
+      "word": "11月10日新增本土无症状9385例",
+      "onboard_time": 1668133646,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312869,
@@ -243,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297795,
+      "num": 297795,
+      "word": "老板为奖励员工把美食街搬回家",
+      "onboard_time": 1668132566,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297360,
       "num": 297360,
       "word": "马斯克称推特可能破产",
       "onboard_time": 1668130587,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 297090,
+      "num": 241734,
+      "word": "黄宗泽没去披哥的原因找到了",
+      "onboard_time": 1668136586,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 289925,
@@ -289,14 +401,6 @@
       "onboard_time": 1668118453,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243910,
-      "num": 243910,
-      "word": "郑州一高校给学生免费发放冲锋衣",
-      "onboard_time": 1668132686,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 236210,
@@ -403,6 +507,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187765,
+      "num": 187765,
+      "word": "西工大2个学霸宿舍8人全保研",
+      "onboard_time": 1668133167,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 185731,
+      "num": 154890,
+      "word": "张真源侧脸是3的形状",
+      "onboard_time": 1668138267,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179420,
+      "num": 179420,
+      "word": "终于知道可以送啥礼物了",
+      "onboard_time": 1668136645,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178502,
       "num": 178502,
       "word": "蔚来三季度净亏损35亿元",
@@ -419,12 +547,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168837,
+      "num": 154690,
+      "word": "偷偷藏不住站内预约破50万",
+      "onboard_time": 1668138087,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162556,
+      "num": 154544,
+      "word": "张宸逍再演巽风",
+      "onboard_time": 1668133347,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159705,
       "num": 98643,
       "word": "阿瑟含蓄了",
       "onboard_time": 1668098063,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155042,
+      "num": 155042,
+      "word": "这狗自我管理意识挺强",
+      "onboard_time": 1668134307,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154512,
+      "num": 154512,
+      "word": "突然就不想乱买东西了",
+      "onboard_time": 1668138447,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 153097,
@@ -459,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145518,
-      "num": 145518,
-      "word": "老板为奖励员工把美食街搬回家",
-      "onboard_time": 1668132566,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 145051,
+      "num": 137704,
+      "word": "陈飞宇张婧仪片场用方言说台词",
+      "onboard_time": 1668136287,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 144320,
@@ -480,14 +640,6 @@
       "word": "11月10日新增本土确诊1150例",
       "onboard_time": 1668133646,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135210,
-      "num": 135210,
-      "word": "11月10日新增本土无症状9385例",
-      "onboard_time": 1668133646,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -512,14 +664,6 @@
       "word": "李薇每道菜只夹三次",
       "onboard_time": 1668092728,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 132022,
-      "num": 132022,
-      "word": "张宸逍再演巽风",
-      "onboard_time": 1668133347,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -555,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120414,
+      "num": 120414,
+      "word": "民警和儿子齐救马路被撞男子",
+      "onboard_time": 1668134846,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 119934,
       "num": 79457,
       "word": "黑豹2好看吗",
       "onboard_time": 1668097885,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118927,
+      "num": 118927,
+      "word": "江苏力压山东登顶考研教材大省",
+      "onboard_time": 1668138207,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 118386,
@@ -619,20 +779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98215,
-      "num": 98215,
-      "word": "西工大2个学霸宿舍8人全保研",
-      "onboard_time": 1668133167,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 97995,
       "num": 97995,
       "word": "你实现睡眠自由了吗",
       "onboard_time": 1668099021,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95492,
+      "num": 95492,
+      "word": "东北男生在韩留学课上表演丢手绢",
+      "onboard_time": 1668138929,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 95155,
@@ -664,14 +824,6 @@
       "word": "重庆疫情辟谣",
       "onboard_time": 1668107353,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90857,
-      "num": 90857,
-      "word": "河南新增本土确诊124例无症状2881例",
-      "onboard_time": 1668134066,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -860,7 +1012,7 @@
     },
     {
       "raw_hot": 17579,
-      "num": 793346,
+      "num": 811670,
       "word": "探馆中国航展航空航天馆",
       "onboard_time": 1668077066,
       "rank": 2,
