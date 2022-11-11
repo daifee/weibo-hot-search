@@ -1,0 +1,410 @@
+{
+  "runTime": 1668148341654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1776599,
+        "num": 1776599,
+        "word": "优化防控工作的二十条措施",
+        "onboard_time": 1668145664,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420540,
+        "num": 1420540,
+        "word": "入境航班熔断机制取消",
+        "onboard_time": 1668146085,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5471,
+        "num": 1355292,
+        "word": "探馆中国航展航空航天馆",
+        "onboard_time": 1668077066,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1328658,
+        "num": 1328658,
+        "word": "不再判定密接的密接",
+        "onboard_time": 1668146147,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278249,
+        "num": 1278249,
+        "word": "长风渡",
+        "onboard_time": 1668143436,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682229,
+        "num": 682229,
+        "word": "风险区高中低调整为高低",
+        "onboard_time": 1668146267,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603695,
+        "num": 603695,
+        "word": "突然就不想乱买东西了",
+        "onboard_time": 1668138447,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573967,
+        "num": 573967,
+        "word": "入境人员7加3改为5加3",
+        "onboard_time": 1668146147,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406175,
+        "num": 406175,
+        "word": "田曦薇新剧原型是齐妃",
+        "onboard_time": 1668136106,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397985,
+        "num": 397985,
+        "word": "优酷最近突然很懂bg粉",
+        "onboard_time": 1668142534,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564776,
+        "num": 393154,
+        "word": "公司强迫感染新冠男团成员登台",
+        "onboard_time": 1668141510,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563149,
+        "num": 387910,
+        "word": "国家卫健委调整防疫措施",
+        "onboard_time": 1668147644,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 365851,
+        "num": 365851,
+        "word": "11月11日11时11分11秒的歼20",
+        "onboard_time": 1668143617,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 363374,
+        "num": 363374,
+        "word": "原版微博近期将下线",
+        "onboard_time": 1668144763,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313276,
+        "num": 313276,
+        "word": "泰剧已经这么超前了吗",
+        "onboard_time": 1668134546,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311805,
+        "num": 311805,
+        "word": "河南新增本土确诊124例无症状2881例",
+        "onboard_time": 1668134066,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307879,
+        "num": 307879,
+        "word": "一般不按行政区域开展全员核酸检测",
+        "onboard_time": 1668146447,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293947,
+        "num": 293947,
+        "word": "看得出他是真的很遗憾",
+        "onboard_time": 1668146503,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287483,
+        "num": 287483,
+        "word": "密接者7加3管理措施调整为5加3",
+        "onboard_time": 1668147408,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 284994,
+        "num": 284994,
+        "word": "林深时见麓首日票房实际56元",
+        "onboard_time": 1668142714,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284800,
+        "num": 284800,
+        "word": "6岁半狗狗到已故主人墓前趴地流泪",
+        "onboard_time": 1668141691,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272576,
+        "num": 272576,
+        "word": "张艺兴哈佛专场分享会",
+        "onboard_time": 1668142111,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250864,
+        "num": 250864,
+        "word": "社区书记同意转卖捐赠物资被免职",
+        "onboard_time": 1668137665,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222094,
+        "num": 222094,
+        "word": "以为魏大勋客串了卿卿日常",
+        "onboard_time": 1668139529,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216825,
+        "num": 216825,
+        "word": "胡歌霍建华时尚芭莎新花絮",
+        "onboard_time": 1668135026,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198680,
+        "num": 198680,
+        "word": "韩国队带200公斤泡菜征战世界杯",
+        "onboard_time": 1668136706,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 190630,
+        "num": 190630,
+        "word": "3周大女婴肚子里取出8个寄生胎",
+        "onboard_time": 1668092247,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142660,
+        "num": 142660,
+        "word": "医院回应不等核酸结果抢救七旬黄码老人",
+        "onboard_time": 1668147284,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138332,
+        "num": 138332,
+        "word": "霍华德抵达中国台湾",
+        "onboard_time": 1668129388,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129872,
+        "num": 129872,
+        "word": "东北男生在韩留学课上表演丢手绢",
+        "onboard_time": 1668138929,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205358,
+        "num": 128564,
+        "word": "王宝强八角笼中先导预告",
+        "onboard_time": 1668141631,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263393,
+        "num": 126883,
+        "word": "严禁随意封校停课",
+        "onboard_time": 1668147644,
+        "rank": 31,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 204756,
+        "num": 125501,
+        "word": "陈飞宇说打火机公主裙是礼物互换",
+        "onboard_time": 1668144705,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198881,
+        "num": 123915,
+        "word": "脱口秀大会5总决赛官宣鹿晗",
+        "onboard_time": 1668134546,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 122766,
+        "word": "妈妈辅导作业崩溃萌娃一秒化解",
+        "onboard_time": 1668143074,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 120548,
+        "word": "于正说从小就关注杨紫",
+        "onboard_time": 1668144344,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 117732,
+        "word": "八一飞行表演队空中画出超圆大圈圈",
+        "onboard_time": 1668147823,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117538,
+        "num": 117538,
+        "word": "波司登回应先涨后跌仅便宜0.28元",
+        "onboard_time": 1668125488,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 115059,
+        "word": "山东人最后的倔强",
+        "onboard_time": 1668140729,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 113230,
+        "word": "山东一新娘霸气主持自己婚礼",
+        "onboard_time": 1668147946,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168926,
+        "num": 113220,
+        "word": "卿卿日常首日开播网播第二",
+        "onboard_time": 1668146388,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112606,
+        "num": 112606,
+        "word": "解说杯S3宣传片",
+        "onboard_time": 1668143680,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114474,
+        "num": 111503,
+        "word": "陈紫函新剧逼陈小纭下跪",
+        "onboard_time": 1668134186,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106822,
+        "num": 106822,
+        "word": "郑州一高校给学生免费发放冲锋衣",
+        "onboard_time": 1668132686,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 104773,
+        "num": 104773,
+        "word": "家中失火4岁女孩奶声奶气打119",
+        "onboard_time": 1668125787,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 102969,
+        "word": "和狗狗抢窝的人类幼崽",
+        "onboard_time": 1668141631,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96871,
+        "num": 96871,
+        "word": "林高远",
+        "onboard_time": 1668142111,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 96550,
+        "word": "1张纸测试颈椎是否健康",
+        "onboard_time": 1668146571,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93658,
+        "num": 93658,
+        "word": "上海地铁",
+        "onboard_time": 1668126504,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91211,
+        "num": 91211,
+        "word": "王艺迪4比3孙铭阳",
+        "onboard_time": 1668147585,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民空军成立73周年#"
+    }
+  }
+}

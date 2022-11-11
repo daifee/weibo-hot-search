@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668145250992,
+  "endTime": 1668148341654,
   "band_list": [
     {
       "raw_hot": 2773615,
@@ -19,12 +19,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1776599,
+      "num": 1776599,
+      "word": "优化防控工作的二十条措施",
+      "onboard_time": 1668145664,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1420540,
+      "num": 1420540,
+      "word": "入境航班熔断机制取消",
+      "onboard_time": 1668146085,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1396989,
       "num": 1396989,
       "word": "泰剧已经这么超前了吗",
       "onboard_time": 1668134546,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1328658,
+      "num": 1328658,
+      "word": "不再判定密接的密接",
+      "onboard_time": 1668146147,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1283581,
@@ -131,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682229,
+      "num": 682229,
+      "word": "风险区高中低调整为高低",
+      "onboard_time": 1668146267,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642657,
       "num": 642657,
       "word": "田曦薇新剧原型是齐妃",
@@ -169,6 +201,22 @@
       "onboard_time": 1668134546,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573967,
+      "num": 573967,
+      "word": "入境人员7加3改为5加3",
+      "onboard_time": 1668146147,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563149,
+      "num": 387910,
+      "word": "国家卫健委调整防疫措施",
+      "onboard_time": 1668147644,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 548155,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 437497,
-      "num": 290821,
+      "num": 397985,
       "word": "优酷最近突然很懂bg粉",
       "onboard_time": 1668142534,
       "rank": 33,
@@ -355,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365851,
+      "num": 365851,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 363374,
+      "num": 363374,
+      "word": "原版微博近期将下线",
+      "onboard_time": 1668144763,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 351363,
       "num": 351363,
       "word": "郑州一高校给学生免费发放冲锋衣",
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 330089,
-      "num": 164237,
+      "num": 284994,
       "word": "林深时见麓首日票房实际56元",
       "onboard_time": 1668142714,
       "rank": 47,
@@ -433,6 +497,14 @@
       "onboard_time": 1668093628,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307879,
+      "num": 307879,
+      "word": "一般不按行政区域开展全员核酸检测",
+      "onboard_time": 1668146447,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302250,
@@ -467,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293947,
+      "num": 293947,
+      "word": "看得出他是真的很遗憾",
+      "onboard_time": 1668146503,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289925,
       "num": 289925,
       "word": "广州疫情防控",
       "onboard_time": 1668079226,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287483,
+      "num": 287483,
+      "word": "密接者7加3管理措施调整为5加3",
+      "onboard_time": 1668147408,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 284808,
@@ -489,6 +577,14 @@
       "onboard_time": 1668098303,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263393,
+      "num": 126883,
+      "word": "严禁随意封校停课",
+      "onboard_time": 1668147644,
+      "rank": 31,
+      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 260189,
@@ -707,12 +803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174522,
-      "num": 174522,
-      "word": "11月11日11时11分11秒的歼20",
-      "onboard_time": 1668143617,
-      "rank": 39,
-      "category": "军事"
+      "raw_hot": 168926,
+      "num": 113220,
+      "word": "卿卿日常首日开播网播第二",
+      "onboard_time": 1668146388,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168837,
@@ -827,12 +923,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 139708,
-      "num": 139708,
-      "word": "原版微博近期将下线",
-      "onboard_time": 1668144763,
-      "rank": 28,
-      "category": "科技"
+      "raw_hot": 142660,
+      "num": 142660,
+      "word": "医院回应不等核酸结果抢救七旬黄码老人",
+      "onboard_time": 1668147284,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138233,
@@ -891,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "妈妈辅导作业崩溃萌娃一秒化解",
+      "onboard_time": 1668143074,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122372,
       "num": 105130,
       "word": "宋丹丹说王鹤棣条件太好了",
@@ -939,6 +1043,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 117732,
+      "num": 117732,
+      "word": "八一飞行表演队空中画出超圆大圈圈",
+      "onboard_time": 1668147823,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113935,
       "num": 113935,
       "word": "男子抢喝孕妻咖啡边喝边呕",
@@ -955,19 +1067,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113230,
+      "num": 113230,
+      "word": "山东一新娘霸气主持自己婚礼",
+      "onboard_time": 1668147946,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110424,
       "num": 110424,
       "word": "广州荔湾区进一步强化管控措施",
       "onboard_time": 1668089429,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106929,
-      "num": 106929,
-      "word": "妈妈辅导作业崩溃萌娃一秒化解",
-      "onboard_time": 1668143074,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -993,6 +1105,14 @@
       "onboard_time": 1668099021,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96550,
+      "num": 96550,
+      "word": "1张纸测试颈椎是否健康",
+      "onboard_time": 1668146571,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95155,
@@ -1033,6 +1153,14 @@
       "onboard_time": 1668144943,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91211,
+      "num": 91211,
+      "word": "王艺迪4比3孙铭阳",
+      "onboard_time": 1668147585,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90668,
@@ -1236,7 +1364,7 @@
     },
     {
       "raw_hot": 17579,
-      "num": 1068721,
+      "num": 1355292,
       "word": "探馆中国航展航空航天馆",
       "onboard_time": 1668077066,
       "rank": 2,
