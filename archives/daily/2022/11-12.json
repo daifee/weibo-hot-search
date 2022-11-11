@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668202620775,
+  "endTime": 1668205384005,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -275,6 +275,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "男子戴白手套欲撬锁主人敲门回应",
+      "onboard_time": 1668201014,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "男孩溺水心跳停1小时后被奇迹救回",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 71691,
-      "num": 43304,
+      "num": 50205,
       "word": "90后女孩放弃电视台和法院考上供销社",
       "onboard_time": 1668191836,
       "rank": 46,
@@ -425,6 +433,14 @@
       "onboard_time": 1668178832,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64230,
+      "num": 64230,
+      "word": "河南雨雪降温大风同步抵达",
+      "onboard_time": 1668199633,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63972,
@@ -459,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 38994,
-      "num": 38994,
-      "word": "河南雨雪降温大风同步抵达",
-      "onboard_time": 1668199633,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37994,
       "num": 24221,
       "word": "重庆一楼整个屋顶种满菜",
@@ -491,16 +499,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22960,
-      "num": 22960,
-      "word": "男子戴白手套欲撬锁主人敲门回应",
-      "onboard_time": 1668201014,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 22604,
+      "num": 22604,
+      "word": "大张伟一开口就是笑点",
+      "onboard_time": 1668198614,
+      "rank": 44,
+      "category": "综艺"
     },
     {
-      "raw_hot": 20886,
-      "num": 20886,
+      "raw_hot": 21753,
+      "num": 21753,
       "word": "第一次见这么懒的猫",
       "onboard_time": 1668196933,
       "rank": 45,
@@ -515,12 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15015,
-      "num": 15015,
-      "word": "大张伟一开口就是笑点",
-      "onboard_time": 1668198614,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 11924,
+      "num": 16221,
+      "word": "辅警为救老人摔骨折忍痛爬行20米",
+      "onboard_time": 1668204252,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8674,
