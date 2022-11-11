@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668185588419,
+  "endTime": 1668187394092,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2483,6 +2483,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 476375,
+      "num": 476375,
+      "word": "白敬亭尹峥好会亲",
+      "onboard_time": 1668184349,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475812,
       "num": 475812,
       "word": "穿搭果然很重要",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1667790266,
       "rank": 17,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 427933,
-      "num": 427933,
-      "word": "白敬亭尹峥好会亲",
-      "onboard_time": 1668184349,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 427106,
@@ -8403,6 +8403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127617,
+      "num": 103775,
+      "word": "郑秀妍上菜反问顾客菜名",
+      "onboard_time": 1668184584,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127489,
       "num": 127489,
       "word": "李薇申请加入三少主受害者联盟",
@@ -8529,14 +8537,6 @@
       "onboard_time": 1667920710,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124137,
-      "num": 99721,
-      "word": "郑秀妍上菜反问顾客菜名",
-      "onboard_time": 1668184584,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 123936,
