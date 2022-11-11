@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668149468048,
+  "endTime": 1668151274399,
   "band_list": [
     {
       "raw_hot": 2773615,
@@ -17,6 +17,14 @@
       "onboard_time": 1668126504,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2014337,
+      "num": 2014337,
+      "word": "国家卫健委调整防疫措施",
+      "onboard_time": 1668147644,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1776599,
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095722,
+      "num": 1095722,
+      "word": "严禁随意封校停课",
+      "onboard_time": 1668147644,
+      "rank": 31,
+      "category": "国内要闻,教育"
+    },
+    {
       "raw_hot": 1021172,
       "num": 1021172,
       "word": "少爷和我",
       "onboard_time": 1668093208,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 993966,
-      "num": 414032,
-      "word": "国家卫健委调整防疫措施",
-      "onboard_time": 1668147644,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 922407,
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665519,
+      "num": 665519,
+      "word": "医院回应不等核酸结果抢救七旬黄码老人",
+      "onboard_time": 1668147284,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642657,
       "num": 642657,
       "word": "田曦薇新剧原型是齐妃",
       "onboard_time": 1668136106,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 636705,
+      "num": 460490,
+      "word": "纠正一天两检一天三检等不科学做法",
+      "onboard_time": 1668149202,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 630169,
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518921,
+      "num": 518921,
+      "word": "11月11日11时11分11秒的歼20",
+      "onboard_time": 1668143617,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 514633,
       "num": 314445,
       "word": "陈紫函新剧逼陈小纭下跪",
@@ -281,22 +313,6 @@
       "onboard_time": 1668126146,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 508323,
-      "num": 508323,
-      "word": "11月11日11时11分11秒的歼20",
-      "onboard_time": 1668143617,
-      "rank": 39,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 484234,
-      "num": 392086,
-      "word": "严禁随意封校停课",
-      "onboard_time": 1668147644,
-      "rank": 31,
-      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 460166,
@@ -443,6 +459,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 349032,
+      "num": 349032,
+      "word": "加快新冠肺炎治疗相关药物储备",
+      "onboard_time": 1668148603,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343066,
       "num": 343066,
       "word": "陈小纭新剧人设好夹",
@@ -491,12 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321636,
-      "num": 321636,
+      "raw_hot": 329427,
+      "num": 329427,
       "word": "看得出他是真的很遗憾",
       "onboard_time": 1668146503,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321865,
+      "num": 321865,
+      "word": "密接者7加3管理措施调整为5加3",
+      "onboard_time": 1668147408,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 316058,
@@ -521,14 +553,6 @@
       "onboard_time": 1668093628,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304324,
-      "num": 304324,
-      "word": "医院回应不等核酸结果抢救七旬黄码老人",
-      "onboard_time": 1668147284,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302250,
@@ -571,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287483,
-      "num": 287483,
-      "word": "密接者7加3管理措施调整为5加3",
-      "onboard_time": 1668147408,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 284808,
       "num": 284808,
       "word": "英国国王查尔斯三世被扔鸡蛋",
@@ -587,20 +603,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 279064,
+      "num": 279064,
+      "word": "女子第一次下厨把活鱼扔锅里煮",
+      "onboard_time": 1668148903,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
       "onboard_time": 1668098303,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268403,
-      "num": 131891,
-      "word": "加快新冠肺炎治疗相关药物储备",
-      "onboard_time": 1668148603,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260189,
@@ -649,6 +665,14 @@
       "onboard_time": 1668092968,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233246,
+      "num": 233246,
+      "word": "高三家长组织捐款70余万感谢老师",
+      "onboard_time": 1668149743,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 231908,
@@ -707,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 214771,
+      "num": 214771,
+      "word": "BOYSTORY自称出道四年仍是新人",
+      "onboard_time": 1668148966,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213997,
       "num": 213997,
       "word": "重庆疫情防控",
@@ -731,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199654,
+      "num": 199654,
+      "word": "张天爱刘恋拿行李箱买菜",
+      "onboard_time": 1668149441,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198686,
       "num": 198686,
       "word": "寻找吉林18岁失联女孩",
@@ -747,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196467,
+      "num": 196467,
+      "word": "王曼昱",
+      "onboard_time": 1668150820,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194854,
       "num": 194854,
       "word": "NMIXX将于23日发布新歌",
@@ -759,6 +807,14 @@
       "num": 145250,
       "word": "杨幂白宇片场有爱日常花絮",
       "onboard_time": 1668142472,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190992,
+      "num": 190992,
+      "word": "卿卿日常首日开播网播第二",
+      "onboard_time": 1668146388,
       "rank": 40,
       "category": "影视"
     },
@@ -785,14 +841,6 @@
       "onboard_time": 1668138267,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184340,
-      "num": 127975,
-      "word": "卿卿日常首日开播网播第二",
-      "onboard_time": 1668146388,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 183991,
@@ -835,28 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168656,
-      "num": 86687,
-      "word": "张天爱刘恋拿行李箱买菜",
-      "onboard_time": 1668149441,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162556,
       "num": 154544,
       "word": "张宸逍再演巽风",
       "onboard_time": 1668133347,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161228,
-      "num": 111250,
-      "word": "BOYSTORY自称出道四年仍是新人",
-      "onboard_time": 1668148966,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159705,
@@ -955,20 +987,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 138663,
-      "num": 126107,
-      "word": "纠正一天两检一天三检等不科学做法",
-      "onboard_time": 1668149202,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 138233,
       "num": 138233,
       "word": "11月10日新增本土确诊1150例",
       "onboard_time": 1668133646,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136857,
+      "num": 136857,
+      "word": "流浪地球2小小白点发布会",
+      "onboard_time": 1668151122,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 135098,
@@ -1123,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111380,
+      "num": 111380,
+      "word": "可能这就是双十一大醋吧",
+      "onboard_time": 1668149921,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110424,
       "num": 110424,
       "word": "广州荔湾区进一步强化管控措施",
@@ -1131,12 +1171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104981,
-      "num": 104981,
-      "word": "女子第一次下厨把活鱼扔锅里煮",
-      "onboard_time": 1668148903,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 107303,
+      "num": 107303,
+      "word": "孙铭阳第三局11比0王艺迪",
+      "onboard_time": 1668149503,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 102312,
@@ -1144,6 +1184,14 @@
       "word": "台湾之光只有电池里的电是台湾造的",
       "onboard_time": 1668079764,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100668,
+      "num": 100668,
+      "word": "广东人比四川人还能买辣椒",
+      "onboard_time": 1668150522,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91210,
+      "num": 91210,
+      "word": "爸爸1个星期为女儿打造歼15模型",
+      "onboard_time": 1668150222,
+      "rank": 43,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 90668,
       "num": 90668,
       "word": "广州海珠区强化全域疫情防控措施",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1668134066,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 89872,
+      "num": 89872,
+      "word": "一图了解优化疫情防控二十条",
+      "onboard_time": 1668150941,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88942,
