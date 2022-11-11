@@ -1,6 +1,6 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668172345910,
+  "endTime": 1668174403349,
   "band_list": [
     {
       "raw_hot": 3608962,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571176,
+      "num": 571176,
+      "word": "朱一龙领奖嘴瓢太可爱了",
+      "onboard_time": 1668173970,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551720,
       "num": 551720,
       "word": "脸大的人不适合戴水桶帽",
@@ -353,6 +361,14 @@
       "onboard_time": 1668123984,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530685,
+      "num": 530685,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1668171691,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 528382,
@@ -691,6 +707,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 350000,
+      "num": 350000,
+      "word": "乳腺结节到底是怎么产生的",
+      "onboard_time": 1668170851,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348948,
+      "num": 348948,
+      "word": "天津女子买煎饼老板不在自己动手摊",
+      "onboard_time": 1668170672,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347377,
       "num": 347377,
       "word": "北京新增本土感染者70例",
@@ -803,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310678,
+      "num": 310678,
+      "word": "狗子此生见过最投缘的女孩",
+      "onboard_time": 1668169891,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302250,
       "num": 302250,
       "word": "中国首位女战神的战斗力到底有多强",
@@ -883,6 +923,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 272293,
+      "num": 272293,
+      "word": "你为什么迟迟还没释怀",
+      "onboard_time": 1668169172,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268969,
       "num": 268969,
       "word": "独居女生一定记得反锁家门",
@@ -923,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254174,
-      "num": 254174,
-      "word": "狗子此生见过最投缘的女孩",
-      "onboard_time": 1668169891,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247256,
       "num": 247256,
       "word": "周五奖励一下自己",
@@ -953,6 +993,14 @@
       "onboard_time": 1668118453,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239896,
+      "num": 239896,
+      "word": "扫黑行动",
+      "onboard_time": 1668173251,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 239649,
@@ -987,12 +1035,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233944,
+      "num": 233944,
+      "word": "头一次吃这么熟的火龙果",
+      "onboard_time": 1668171811,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231908,
       "num": 231908,
       "word": "男子偷网吧的钱用赃款充值上网",
       "onboard_time": 1668129863,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230200,
+      "num": 230200,
+      "word": "陈飞宇演的李峋好会",
+      "onboard_time": 1668173311,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 230079,
@@ -1107,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211749,
-      "num": 211749,
-      "word": "天津女子买煎饼老板不在自己动手摊",
-      "onboard_time": 1668170672,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211298,
       "num": 130497,
       "word": "TVB余子明去世",
@@ -1136,6 +1192,14 @@
       "word": "2022全国乒乓球锦标赛",
       "onboard_time": 1668167851,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203818,
+      "num": 203818,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1668173311,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1187,20 +1251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192776,
-      "num": 192776,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1668171691,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190992,
       "num": 190992,
       "word": "卿卿日常首日开播网播第二",
       "onboard_time": 1668146388,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190260,
+      "num": 148206,
+      "word": "学校回应翻墙男子骑车三天三夜",
+      "onboard_time": 1668173791,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 190046,
@@ -1211,20 +1275,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188869,
+      "num": 188869,
+      "word": "女子抢东西紧张到敲木鱼",
+      "onboard_time": 1668173011,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187765,
       "num": 187765,
       "word": "西工大2个学霸宿舍8人全保研",
       "onboard_time": 1668133167,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 187634,
-      "num": 187634,
-      "word": "你为什么迟迟还没释怀",
-      "onboard_time": 1668169172,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 186915,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1668140729,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181379,
+      "num": 181379,
+      "word": "男孩溺水心跳停1小时后被奇迹救回",
+      "onboard_time": 1668172650,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179915,
@@ -1435,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152761,
-      "num": 152761,
-      "word": "乳腺结节到底是怎么产生的",
-      "onboard_time": 1668170851,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151292,
       "num": 151292,
       "word": "母女吵架双双爬上15米高塔被困",
@@ -1472,6 +1536,22 @@
       "word": "陈小纭史上最清醒女二",
       "onboard_time": 1668162335,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147574,
+      "num": 147574,
+      "word": "你以为的李峋vs实际的李峋",
+      "onboard_time": 1668172232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147195,
+      "num": 147195,
+      "word": "田曦薇新剧哭戏",
+      "onboard_time": 1668171570,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -1531,6 +1611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136835,
+      "num": 136835,
+      "word": "超6成榴莲被年轻人买走",
+      "onboard_time": 1668170012,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135453,
+      "num": 135453,
+      "word": "天下长河今日开播",
+      "onboard_time": 1668169712,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135098,
       "num": 135098,
       "word": "解说杯S3宣传片",
@@ -1539,12 +1635,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134706,
+      "num": 134706,
+      "word": "父母给女儿取名龙葵寓意向阳而生",
+      "onboard_time": 1668173735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134438,
       "num": 134438,
       "word": "gidle新歌Change特别MV",
       "onboard_time": 1668125305,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134251,
+      "num": 123200,
+      "word": "双十一iPhone14价格新低",
+      "onboard_time": 1668171631,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133944,
+      "num": 133944,
+      "word": "恋爱里谁先表白谁就输了吗",
+      "onboard_time": 1668173670,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 132919,
@@ -1579,20 +1699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131743,
-      "num": 131743,
-      "word": "天下长河今日开播",
-      "onboard_time": 1668169712,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 127775,
-      "num": 127775,
-      "word": "超6成榴莲被年轻人买走",
-      "onboard_time": 1668170012,
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "国家一级演员刘学军逝世",
+      "onboard_time": 1668174212,
       "rank": 37,
-      "category": "社会新闻"
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 127489,
@@ -1625,14 +1737,6 @@
       "onboard_time": 1668163831,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 123277,
-      "num": 123277,
-      "word": "头一次吃这么熟的火龙果",
-      "onboard_time": 1668171811,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122372,
@@ -1705,6 +1809,14 @@
       "onboard_time": 1668167372,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114784,
+      "num": 114784,
+      "word": "这像极了我买东西时的样子",
+      "onboard_time": 1668174090,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113935,
@@ -1867,6 +1979,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97266,
+      "num": 97266,
+      "word": "8旬老太抢购鸡蛋摔伤残超市赔5.8万",
+      "onboard_time": 1668174029,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96696,
+      "num": 96696,
+      "word": "饺子皮做成的煎包有多绝",
+      "onboard_time": 1668174389,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96552,
       "num": 96552,
       "word": "不再是没见过世面的小猫了",
@@ -1880,6 +2008,14 @@
       "word": "1张纸测试颈椎是否健康",
       "onboard_time": 1668146571,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95980,
+      "num": 95980,
+      "word": "中国男篮加油",
+      "onboard_time": 1668173491,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1905,14 +2041,6 @@
       "onboard_time": 1668122659,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93421,
-      "num": 115033,
-      "word": "双十一iPhone14价格新低",
-      "onboard_time": 1668171631,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93155,
@@ -1953,22 +2081,6 @@
       "onboard_time": 1668150941,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89091,
-      "num": 89091,
-      "word": "你以为的李峋vs实际的李峋",
-      "onboard_time": 1668172232,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 89061,
-      "num": 89061,
-      "word": "田曦薇新剧哭戏",
-      "onboard_time": 1668171570,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 88942,
@@ -2266,6 +2378,9 @@
     },
     {
       "word": "#进一步优化防控工作的二十条措施公布#"
+    },
+    {
+      "word": "#新征程再出发#"
     }
   ]
 }
