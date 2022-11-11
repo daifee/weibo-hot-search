@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668194342147,
+  "endTime": 1668195233029,
   "band_list": [
     {
       "raw_hot": 1526048,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70297,
+      "num": 43304,
+      "word": "90后女孩放弃电视台和法院考上供销社",
+      "onboard_time": 1668191836,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69199,
       "num": 99518,
       "word": "王艺迪女单夺冠",
@@ -435,16 +443,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 56639,
-      "num": 43304,
-      "word": "90后女孩放弃电视台和法院考上供销社",
-      "onboard_time": 1668191836,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44037,
-      "num": 32896,
+      "num": 39064,
       "word": "老婆怀孕后老公在做些什么",
       "onboard_time": 1668190935,
       "rank": 40,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32119,
+      "num": 32119,
+      "word": "LBL",
+      "onboard_time": 1668191954,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30607,
       "num": 32032,
       "word": "西湖音乐节",
@@ -467,20 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16939,
-      "num": 20683,
+      "raw_hot": 24221,
+      "num": 24221,
       "word": "重庆一楼整个屋顶种满菜",
       "onboard_time": 1668193753,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15648,
-      "num": 20664,
-      "word": "LBL",
-      "onboard_time": 1668191954,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 8674,

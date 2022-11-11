@@ -1,0 +1,410 @@
+{
+  "runTime": 1668195233029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 147084,
+        "num": 147084,
+        "word": "某某某太强了",
+        "onboard_time": 1668177393,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101773,
+        "num": 101773,
+        "word": "白敬亭尹峥好会亲",
+        "onboard_time": 1668184349,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2441,
+        "num": 95125,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88999,
+        "num": 88999,
+        "word": "乳房是情绪的靶向器官",
+        "onboard_time": 1668179014,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54543,
+        "num": 54543,
+        "word": "QQ内测微信登录功能",
+        "onboard_time": 1668182672,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 89135,
+        "num": 53392,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48623,
+        "num": 48623,
+        "word": "女子精致出摊日销200盒炒粉走红",
+        "onboard_time": 1668168449,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47627,
+        "num": 47627,
+        "word": "张俪印错的100件衣服用上了",
+        "onboard_time": 1668176134,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41608,
+        "num": 41608,
+        "word": "重庆新增本土感染者783例",
+        "onboard_time": 1668180453,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39180,
+        "num": 39180,
+        "word": "你为什么迟迟还没释怀",
+        "onboard_time": 1668169172,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 39150,
+        "word": "男子掌掴幼童事件31分钟监控曝光",
+        "onboard_time": 1668177034,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 70297,
+        "num": 39130,
+        "word": "90后女孩放弃电视台和法院考上供销社",
+        "onboard_time": 1668191836,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43853,
+        "num": 39075,
+        "word": "朱一龙领奖嘴瓢太可爱了",
+        "onboard_time": 1668173970,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43089,
+        "num": 39064,
+        "word": "老婆怀孕后老公在做些什么",
+        "onboard_time": 1668190935,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39035,
+        "num": 39035,
+        "word": "罗伊毕业",
+        "onboard_time": 1668183691,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40047,
+        "num": 38711,
+        "word": "吴京刘德华被李雪健发言说泪目了",
+        "onboard_time": 1668182070,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37426,
+        "num": 37426,
+        "word": "重庆9个中心城区实施原则不出小区",
+        "onboard_time": 1668178476,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37204,
+        "num": 37204,
+        "word": "宝可梦小智两连冠",
+        "onboard_time": 1668164675,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32119,
+        "num": 32119,
+        "word": "LBL",
+        "onboard_time": 1668191954,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31492,
+        "num": 31492,
+        "word": "女子被前男友妈妈甩详单要求还钱",
+        "onboard_time": 1668174451,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33566,
+        "num": 30296,
+        "word": "蔡徐坤独自演偶像剧",
+        "onboard_time": 1668187938,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28588,
+        "num": 28588,
+        "word": "王鹤棣张凌赫下凡历劫",
+        "onboard_time": 1668176432,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27619,
+        "num": 27619,
+        "word": "男生中奖后太激动被人事谈话",
+        "onboard_time": 1668167609,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26809,
+        "num": 26809,
+        "word": "杨幂镜头下的白宇",
+        "onboard_time": 1668181411,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26157,
+        "num": 26157,
+        "word": "广州在隔次密接解除隔离",
+        "onboard_time": 1668159697,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25819,
+        "num": 25819,
+        "word": "父母给女儿取名龙葵寓意向阳而生",
+        "onboard_time": 1668173735,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25446,
+        "num": 25446,
+        "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+        "onboard_time": 1668174451,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24235,
+        "num": 24235,
+        "word": "全员核酸只在疫情底数不清时开展",
+        "onboard_time": 1668152500,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23914,
+        "num": 24223,
+        "word": "香港首名侮辱国歌罪犯被判刑",
+        "onboard_time": 1668162935,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23800,
+        "num": 24222,
+        "word": "教师爸爸给5个月宝宝教高中函数",
+        "onboard_time": 1668187401,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 74275,
+        "num": 24222,
+        "word": "学校回应翻墙男子骑车三天三夜",
+        "onboard_time": 1668173791,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24221,
+        "num": 24221,
+        "word": "重庆一楼整个屋顶种满菜",
+        "onboard_time": 1668193753,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24027,
+        "num": 24027,
+        "word": "郑秀妍上菜反问顾客菜名",
+        "onboard_time": 1668184584,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23906,
+        "num": 23906,
+        "word": "奔跑吧下期全员给周深过生日",
+        "onboard_time": 1668184653,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23511,
+        "num": 23511,
+        "word": "黑龙江一客车出车祸致4死",
+        "onboard_time": 1668177933,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 22107,
+        "num": 22107,
+        "word": "猫咪粘上东西手速有多快",
+        "onboard_time": 1668189078,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21784,
+        "num": 21784,
+        "word": "狗子此生见过最投缘的女孩",
+        "onboard_time": 1668169891,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21364,
+        "num": 21364,
+        "word": "男孩溺水心跳停1小时后被奇迹救回",
+        "onboard_time": 1668172650,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21149,
+        "num": 21149,
+        "word": "中美元首巴厘岛会晤",
+        "onboard_time": 1668177756,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 21025,
+        "word": "西湖音乐节",
+        "onboard_time": 1668189977,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20936,
+        "num": 20936,
+        "word": "中国男篮vs伊朗男篮",
+        "onboard_time": 1668173311,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20693,
+        "num": 20693,
+        "word": "遇人不赎",
+        "onboard_time": 1668179792,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20567,
+        "num": 20567,
+        "word": "官方回应网传一奶茶店未先说扫码被封",
+        "onboard_time": 1668159995,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20422,
+        "num": 20422,
+        "word": "头一次吃这么熟的火龙果",
+        "onboard_time": 1668171811,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18951,
+        "num": 18951,
+        "word": "天津女子买煎饼老板不在自己动手摊",
+        "onboard_time": 1668170672,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18284,
+        "num": 18284,
+        "word": "斗罗大陆宣布将彻底完结",
+        "onboard_time": 1668161253,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17852,
+        "num": 17852,
+        "word": "国家一级演员刘学军逝世",
+        "onboard_time": 1668174212,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 16535,
+        "num": 17852,
+        "word": "中国男篮三分球",
+        "onboard_time": 1668180632,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15163,
+        "num": 17837,
+        "word": "乳腺结节到底是怎么产生的",
+        "onboard_time": 1668170851,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13226,
+        "num": 17831,
+        "word": "倪妮出席金鸡提名者表彰仪式",
+        "onboard_time": 1668168692,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}
