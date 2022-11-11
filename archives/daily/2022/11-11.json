@@ -1,10 +1,10 @@
 {
   "startTime": 1668097939574,
-  "endTime": 1668159560384,
+  "endTime": 1668162412696,
   "band_list": [
     {
-      "raw_hot": 3087768,
-      "num": 577813,
+      "raw_hot": 3525410,
+      "num": 599329,
       "word": "奶茶店因服务员先说欢迎光临被封",
       "onboard_time": 1668155621,
       "rank": 12,
@@ -104,6 +104,14 @@
       "word": "3周大女婴肚子里取出8个寄生胎",
       "onboard_time": 1668092247,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056063,
+      "num": 1056063,
+      "word": "广州在隔次密接解除隔离",
+      "onboard_time": 1668159697,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 397740,
-      "num": 323102,
+      "num": 362988,
       "word": "刘浩存宋威龙念念相忘晴空之下海报",
       "onboard_time": 1668158922,
       "rank": 10,
@@ -515,6 +523,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 389870,
+      "num": 361246,
+      "word": "胡烨韬翻跳Nxde",
+      "onboard_time": 1668160537,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389754,
       "num": 389754,
       "word": "距离上班地方仅1.8米是啥体验",
@@ -537,6 +553,14 @@
       "onboard_time": 1668141631,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377847,
+      "num": 377847,
+      "word": "25岁小伙上门做饭三菜一汤收费36元",
+      "onboard_time": 1668156938,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366404,
@@ -563,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354709,
+      "num": 354709,
+      "word": "官方回应网传一奶茶店未先说扫码被封",
+      "onboard_time": 1668159995,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351363,
       "num": 351363,
       "word": "郑州一高校给学生免费发放冲锋衣",
       "onboard_time": 1668132686,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 347377,
+      "num": 347377,
+      "word": "北京新增本土感染者70例",
+      "onboard_time": 1668159516,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343066,
@@ -635,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329248,
+      "num": 329248,
+      "word": "成龙吴京首次同框演对手戏",
+      "onboard_time": 1668160835,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316058,
       "num": 316058,
       "word": "11月10日新增本土无症状9385例",
@@ -697,6 +745,14 @@
       "onboard_time": 1668136586,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292600,
+      "num": 292600,
+      "word": "你是什么惠",
+      "onboard_time": 1668158199,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 292068,
@@ -891,14 +947,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 211269,
-      "num": 211269,
-      "word": "25岁小伙上门做饭三菜一汤收费36元",
-      "onboard_time": 1668156938,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208029,
       "num": 208029,
       "word": "张天爱刘恋拿行李箱买菜",
@@ -963,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190937,
+      "num": 190937,
+      "word": "微信支持自定义填写状态词",
+      "onboard_time": 1668158199,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 190046,
       "num": 190046,
       "word": "全网唯二的观众居然认亲了",
@@ -985,6 +1041,14 @@
       "onboard_time": 1668133167,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 187096,
+      "num": 187096,
+      "word": "斗罗大陆宣布将彻底完结",
+      "onboard_time": 1668161253,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 185731,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1668138087,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163426,
-      "num": 163426,
-      "word": "微信支持自定义填写状态词",
-      "onboard_time": 1668158199,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 162556,
@@ -1155,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148317,
+      "num": 148317,
+      "word": "陈小纭史上最清醒女二",
+      "onboard_time": 1668162335,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147009,
       "num": 147009,
       "word": "一诺画的公孙离是豆豆眼",
@@ -1203,12 +1267,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 139040,
-      "num": 124406,
-      "word": "北京新增本土感染者70例",
-      "onboard_time": 1668159516,
+      "raw_hot": 143665,
+      "num": 135373,
+      "word": "卿卿日常全员营业好积极",
+      "onboard_time": 1668161434,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 138233,
@@ -1219,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135644,
-      "num": 123363,
-      "word": "你是什么惠",
-      "onboard_time": 1668158199,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 135516,
+      "num": 135516,
+      "word": "做好住院床位和重症床位准备",
+      "onboard_time": 1668157963,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135098,
@@ -1403,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109718,
-      "num": 109718,
-      "word": "做好住院床位和重症床位准备",
-      "onboard_time": 1668157963,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109513,
       "num": 109513,
       "word": "光头可以学起来了",
@@ -1435,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106491,
+      "num": 106491,
+      "word": "吕秀才新剧娶了白展堂老婆",
+      "onboard_time": 1668160835,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102312,
       "num": 102312,
       "word": "台湾之光只有电池里的电是台湾造的",
       "onboard_time": 1668079764,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101483,
+      "num": 101483,
+      "word": "成熟稳重的橘猫",
+      "onboard_time": 1668161612,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 99538,
@@ -1483,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94182,
+      "num": 94182,
+      "word": "图书馆30S照进现实的瞬间",
+      "onboard_time": 1668162157,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94107,
       "num": 71047,
       "word": "张馨予晒何捷探班vlog",
@@ -1507,12 +1587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92675,
+      "num": 92675,
+      "word": "冬天需要这个猫毯",
+      "onboard_time": 1668161612,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91597,
       "num": 91597,
       "word": "萌娃练跆拳道秀超顺滑一字马",
       "onboard_time": 1668144943,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90879,
+      "num": 90879,
+      "word": "逐一排查校园随意封控等问题",
+      "onboard_time": 1668161914,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 90668,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1668123502,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78268,
+      "num": 78268,
+      "word": "金鸡雅集片单",
+      "onboard_time": 1668161975,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 74981,

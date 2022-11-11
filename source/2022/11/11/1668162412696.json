@@ -1,0 +1,410 @@
+{
+  "runTime": 1668162412696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1112632,
+        "num": 1112632,
+        "word": "全员核酸只在疫情底数不清时开展",
+        "onboard_time": 1668152500,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1056063,
+        "num": 1056063,
+        "word": "广州在隔次密接解除隔离",
+        "onboard_time": 1668159697,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47732,
+        "num": 613265,
+        "word": "73秒致敬人民空军73周年",
+        "onboard_time": 1668154180,
+        "rank": 2,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 3525410,
+        "num": 599329,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527196,
+        "num": 527196,
+        "word": "男生吃杨国福1年发现竟是杨围福",
+        "onboard_time": 1668153580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483164,
+        "num": 483164,
+        "word": "国家卫健委调整防疫措施",
+        "onboard_time": 1668147644,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 395339,
+        "num": 395339,
+        "word": "微信否认可撤回五分钟内消息",
+        "onboard_time": 1668155919,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 389240,
+        "num": 389240,
+        "word": "严禁随意封校停课",
+        "onboard_time": 1668147644,
+        "rank": 7,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 377847,
+        "num": 377847,
+        "word": "25岁小伙上门做饭三菜一汤收费36元",
+        "onboard_time": 1668156938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362988,
+        "num": 362988,
+        "word": "刘浩存宋威龙念念相忘晴空之下海报",
+        "onboard_time": 1668158922,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389870,
+        "num": 361246,
+        "word": "胡烨韬翻跳Nxde",
+        "onboard_time": 1668160537,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354709,
+        "num": 354709,
+        "word": "官方回应网传一奶茶店未先说扫码被封",
+        "onboard_time": 1668159995,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347377,
+        "num": 347377,
+        "word": "北京新增本土感染者70例",
+        "onboard_time": 1668159516,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335314,
+        "num": 335314,
+        "word": "脸大的人不适合戴水桶帽",
+        "onboard_time": 1668154301,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 329248,
+        "num": 329248,
+        "word": "成龙吴京首次同框演对手戏",
+        "onboard_time": 1668160835,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314225,
+        "num": 314225,
+        "word": "白敬亭宋轶长风渡的吻戏路透",
+        "onboard_time": 1668153459,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292600,
+        "num": 292600,
+        "word": "你是什么惠",
+        "onboard_time": 1668158199,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252973,
+        "num": 252973,
+        "word": "张艺兴说恭喜快船",
+        "onboard_time": 1668155438,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 210777,
+        "num": 210777,
+        "word": "突然就不想乱买东西了",
+        "onboard_time": 1668138447,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206698,
+        "num": 206698,
+        "word": "官方通报家长捐款70多万答谢老师",
+        "onboard_time": 1668149743,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 193799,
+        "num": 193799,
+        "word": "李峋也挡不住公主撒娇",
+        "onboard_time": 1668157299,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190937,
+        "num": 190937,
+        "word": "微信支持自定义填写状态词",
+        "onboard_time": 1668158199,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187096,
+        "num": 187096,
+        "word": "斗罗大陆宣布将彻底完结",
+        "onboard_time": 1668161253,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183563,
+        "num": 183563,
+        "word": "山东一女子网购像进年货",
+        "onboard_time": 1668157899,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181056,
+        "num": 181056,
+        "word": "洗发水要换着用",
+        "onboard_time": 1668154659,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 180047,
+        "num": 180047,
+        "word": "11月11日11时11分11秒的歼20",
+        "onboard_time": 1668143617,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "国际机票瞬时流量达到近一年峰值",
+        "onboard_time": 1668153821,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148317,
+        "num": 148317,
+        "word": "陈小纭史上最清醒女二",
+        "onboard_time": 1668162335,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143928,
+        "num": 143928,
+        "word": "女子第一次下厨把活鱼扔锅里煮",
+        "onboard_time": 1668148903,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135516,
+        "num": 135516,
+        "word": "做好住院床位和重症床位准备",
+        "onboard_time": 1668157963,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 135373,
+        "word": "卿卿日常全员营业好积极",
+        "onboard_time": 1668161434,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133748,
+        "num": 133748,
+        "word": "纠正一天两检一天三检等不科学做法",
+        "onboard_time": 1668149202,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 122037,
+        "num": 122037,
+        "word": "二十国集团领导人第十七次峰会",
+        "onboard_time": 1668154719,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118016,
+        "num": 118016,
+        "word": "医院回应不等核酸结果抢救七旬黄码老人",
+        "onboard_time": 1668147284,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117213,
+        "num": 117213,
+        "word": "王鹤棣银色迪斯科灯球套装",
+        "onboard_time": 1668157597,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114906,
+        "num": 114906,
+        "word": "流浪地球2小小白点发布会",
+        "onboard_time": 1668151122,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109247,
+        "num": 109247,
+        "word": "入境隔离放宽国际机票搜索量暴增",
+        "onboard_time": 1668153940,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 106494,
+        "num": 106494,
+        "word": "液体卫生巾里有液体吗",
+        "onboard_time": 1668157479,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106491,
+        "num": 106491,
+        "word": "吕秀才新剧娶了白展堂老婆",
+        "onboard_time": 1668160835,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101991,
+        "num": 101991,
+        "word": "林深时见麓首日票房实际56元",
+        "onboard_time": 1668142714,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101483,
+        "num": 101483,
+        "word": "成熟稳重的橘猫",
+        "onboard_time": 1668161612,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 99432,
+        "num": 99432,
+        "word": "老人被压车底路人20秒抬车救人",
+        "onboard_time": 1668152678,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 98207,
+        "num": 98207,
+        "word": "王曼昱",
+        "onboard_time": 1668150820,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94182,
+        "num": 94182,
+        "word": "图书馆30S照进现实的瞬间",
+        "onboard_time": 1668162157,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92675,
+        "num": 92675,
+        "word": "冬天需要这个猫毯",
+        "onboard_time": 1668161612,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90879,
+        "num": 90879,
+        "word": "逐一排查校园随意封控等问题",
+        "onboard_time": 1668161914,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 83098,
+        "num": 83098,
+        "word": "聋哑母亲几十年如一日为家人擀面条",
+        "onboard_time": 1668155739,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78268,
+        "num": 78268,
+        "word": "金鸡雅集片单",
+        "onboard_time": 1668161975,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74988,
+        "num": 74988,
+        "word": "原版微博近期将下线",
+        "onboard_time": 1668144763,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71259,
+        "num": 71259,
+        "word": "BOYSTORY自称出道四年仍是新人",
+        "onboard_time": 1668148966,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}
