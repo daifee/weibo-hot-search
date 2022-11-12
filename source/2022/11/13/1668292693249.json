@@ -1,0 +1,410 @@
+{
+  "runTime": 1668292693249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320234,
+        "num": 320234,
+        "word": "朱一龙获奖倪妮的祝贺词",
+        "onboard_time": 1668269912,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201211,
+        "num": 201211,
+        "word": "29岁博士因社恐1月叫2次救护车",
+        "onboard_time": 1668266555,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3197,
+        "num": 184747,
+        "word": "一镜到底跟随歼20编队巡航",
+        "onboard_time": 1668228091,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 176460,
+        "num": 176460,
+        "word": "邻居称鲁某某是个有素质的人",
+        "onboard_time": 1668287592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94259,
+        "num": 94259,
+        "word": "柳岩蝴蝶结好大",
+        "onboard_time": 1668252809,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94168,
+        "num": 94168,
+        "word": "第一次见这么漂亮的小狗",
+        "onboard_time": 1668272665,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89757,
+        "num": 89757,
+        "word": "男子辞职后在洞穴生活失联近3年",
+        "onboard_time": 1668262477,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "陈妍希 造型",
+        "onboard_time": 1668254192,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61853,
+        "num": 61853,
+        "word": "专家建议大家做全世界没做过的事",
+        "onboard_time": 1668248969,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 61037,
+        "num": 61037,
+        "word": "重庆市卫健委致孕产妇的一封信",
+        "onboard_time": 1668257857,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105351,
+        "num": 60996,
+        "word": "迪丽热巴王楚然同款礼裙",
+        "onboard_time": 1668266675,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80178,
+        "num": 60988,
+        "word": "奚美娟金鸡奖最佳女主角",
+        "onboard_time": 1668260259,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61653,
+        "num": 60984,
+        "word": "关晓彤看看陈采尼",
+        "onboard_time": 1668264996,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60880,
+        "num": 60880,
+        "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
+        "onboard_time": 1668279135,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58770,
+        "num": 58770,
+        "word": "9人凌晨开豪车飙车被刑拘",
+        "onboard_time": 1668259174,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55131,
+        "num": 55131,
+        "word": "所谓24海里线不存在请注意用语",
+        "onboard_time": 1668286151,
+        "rank": 15,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 51802,
+        "num": 51802,
+        "word": "狗狗被送人一周跑50公里找回家",
+        "onboard_time": 1668270570,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50163,
+        "num": 50163,
+        "word": "房产继承因已故妹妹无子女证明被卡",
+        "onboard_time": 1668254491,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47702,
+        "num": 47702,
+        "word": "医生识破患者学医让自己写病历",
+        "onboard_time": 1668258036,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43664,
+        "num": 43664,
+        "word": "女生白俄罗斯留学班级全是中国人",
+        "onboard_time": 1668259842,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50782,
+        "num": 43612,
+        "word": "张小斐 大气",
+        "onboard_time": 1668255934,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50769,
+        "num": 43554,
+        "word": "娄艺潇汉服",
+        "onboard_time": 1668261399,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50659,
+        "num": 43510,
+        "word": "第35届金鸡奖获奖名单",
+        "onboard_time": 1668255873,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43334,
+        "num": 43334,
+        "word": "男子因纠纷赌气把女友锁车内",
+        "onboard_time": 1668256293,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36496,
+        "num": 36496,
+        "word": "中疾控回应是否会逐步取消集中隔离",
+        "onboard_time": 1668246391,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35690,
+        "num": 35690,
+        "word": "这辈子没见过这么多猫",
+        "onboard_time": 1668267214,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34148,
+        "num": 34148,
+        "word": "小妲己今天真高兴",
+        "onboard_time": 1668268234,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33998,
+        "num": 33998,
+        "word": "记者卧底仙女管销售群",
+        "onboard_time": 1668255335,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32849,
+        "num": 32849,
+        "word": "爸爸拿体教资10年教不会儿子跳绳",
+        "onboard_time": 1668253418,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 31007,
+        "num": 31007,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49633,
+        "num": 30880,
+        "word": "沈腾 没来",
+        "onboard_time": 1668257614,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31847,
+        "num": 30816,
+        "word": "杨颖好看",
+        "onboard_time": 1668274100,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30737,
+        "num": 30737,
+        "word": "一看就是女孩的毛孩子",
+        "onboard_time": 1668256174,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29772,
+        "num": 29772,
+        "word": "苏有朋的第三部电影即将开机",
+        "onboard_time": 1668285013,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25883,
+        "num": 25883,
+        "word": "林高远辛苦了",
+        "onboard_time": 1668268170,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24101,
+        "num": 24101,
+        "word": "李庚希 妆",
+        "onboard_time": 1668260019,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23641,
+        "num": 23641,
+        "word": "南昌西站",
+        "onboard_time": 1668266017,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22725,
+        "num": 22725,
+        "word": "王者荣耀",
+        "onboard_time": 1668257134,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 22364,
+        "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+        "onboard_time": 1668247409,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 22040,
+        "num": 22040,
+        "word": "妻子手卡压面机丈夫满眼心疼",
+        "onboard_time": 1668251371,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20875,
+        "num": 20875,
+        "word": "王者荣耀世界实机演示发布",
+        "onboard_time": 1668262118,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19523,
+        "num": 19523,
+        "word": "重庆交大回应学生被公告退学",
+        "onboard_time": 1668258216,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 18056,
+        "num": 18056,
+        "word": "白敬亭说今日解锁新地图",
+        "onboard_time": 1668258336,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17614,
+        "num": 17614,
+        "word": "原来童话里的场景真的存在",
+        "onboard_time": 1668263439,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18016,
+        "num": 17541,
+        "word": "李薇考第一",
+        "onboard_time": 1668276976,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17453,
+        "num": 17453,
+        "word": "樊振东20比18林高远",
+        "onboard_time": 1668261219,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16518,
+        "num": 16518,
+        "word": "伯克利黑帮",
+        "onboard_time": 1668283392,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14949,
+        "num": 14949,
+        "word": "00后学员整顿驾校",
+        "onboard_time": 1668273682,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14830,
+        "num": 14830,
+        "word": "降噪耳机哪个值得买",
+        "onboard_time": 1668270031,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 11846,
+        "num": 14830,
+        "word": "猫和老鼠的新版动画片",
+        "onboard_time": 1668279495,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}
