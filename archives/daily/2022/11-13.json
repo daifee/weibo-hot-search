@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668273655901,
+  "endTime": 1668274674000,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234436,
+      "num": 234436,
+      "word": "狗狗被送人一周跑50公里找回家",
+      "onboard_time": 1668270570,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214472,
       "num": 214472,
       "word": "9人凌晨开豪车飙车被刑拘",
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209390,
-      "num": 154195,
-      "word": "狗狗被送人一周跑50公里找回家",
-      "onboard_time": 1668270570,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 209248,
+      "num": 107684,
+      "word": "杨颖好看",
+      "onboard_time": 1668274100,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201040,
@@ -251,6 +259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 151162,
+      "num": 151162,
+      "word": "第一次见这么漂亮的小狗",
+      "onboard_time": 1668272665,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147137,
       "num": 147137,
       "word": "张大仙被偷家",
@@ -265,6 +281,14 @@
       "onboard_time": 1668255335,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136142,
+      "num": 60061,
+      "word": "爱情神话",
+      "onboard_time": 1668274579,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 130554,
@@ -323,14 +347,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 111648,
-      "num": 111648,
-      "word": "第一次见这么漂亮的小狗",
-      "onboard_time": 1668272665,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109591,
       "num": 109591,
       "word": "中疾控回应是否会逐步取消集中隔离",
@@ -387,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82722,
+      "num": 89308,
+      "word": "谁的学校还没有一个小甜妹呢",
+      "onboard_time": 1668271046,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 82498,
       "num": 101075,
       "word": "张超",
@@ -395,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82394,
-      "num": 89308,
-      "word": "谁的学校还没有一个小甜妹呢",
-      "onboard_time": 1668271046,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 70448,
+      "num": 70448,
+      "word": "00后学员整顿驾校",
+      "onboard_time": 1668273682,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 69347,
