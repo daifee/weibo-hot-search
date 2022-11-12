@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668238529846,
+  "endTime": 1668241650897,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782555,
+      "num": 782555,
+      "word": "颖儿追剧问孕期生病该忍着还是吃药",
+      "onboard_time": 1668237688,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 764379,
       "num": 764379,
       "word": "基金经理网恋被工厂女工骗近30万",
@@ -160,6 +168,14 @@
       "word": "广州新增本土感染者3180例",
       "onboard_time": 1668217770,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760127,
+      "num": 760127,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1668236849,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 699237,
+      "num": 699237,
+      "word": "国家疾控局解读最新防疫措施",
+      "onboard_time": 1668239671,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672271,
       "num": 672271,
       "word": "李峋哄朱韵睡觉",
@@ -217,14 +241,6 @@
       "onboard_time": 1668182672,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 626259,
-      "num": 626259,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1668236849,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580664,
@@ -257,14 +273,6 @@
       "onboard_time": 1668218013,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548359,
-      "num": 548359,
-      "word": "颖儿追剧问孕期生病该忍着还是吃药",
-      "onboard_time": 1668237688,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 490153,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389582,
+      "num": 389582,
+      "word": "饭店狗狗长期跟客人讨肉胖成猪",
+      "onboard_time": 1668235651,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384628,
       "num": 384628,
       "word": "扫黑行动尺度有多大",
@@ -395,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374865,
+      "num": 252084,
+      "word": "男子收邻居孩子蹭网纸条瞬间破防",
+      "onboard_time": 1668237630,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366722,
       "num": 366722,
       "word": "波司登股价一年跌超四成",
       "onboard_time": 1668218370,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 347688,
-      "num": 347688,
-      "word": "饭店狗狗长期跟客人讨肉胖成猪",
-      "onboard_time": 1668235651,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347658,
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292661,
+      "num": 251972,
+      "word": "虞书欣赛车服造型路透",
+      "onboard_time": 1668239068,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292566,
       "num": 292566,
       "word": "女子被前男友妈妈甩详单要求还钱",
@@ -585,6 +609,14 @@
       "onboard_time": 1668233429,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252197,
+      "num": 252197,
+      "word": "官方回应牡丹江一服装店被黄牌警告",
+      "onboard_time": 1668238710,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249381,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227858,
+      "num": 227858,
+      "word": "交通运输部删除中风险区防控内容",
+      "onboard_time": 1668240629,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224730,
       "num": 224730,
       "word": "浙江一女子半年笑晕4次",
@@ -713,6 +753,14 @@
       "onboard_time": 1668228212,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 218422,
+      "num": 218422,
+      "word": "杨颖金鸡奖造型",
+      "onboard_time": 1668237156,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218320,
@@ -836,7 +884,7 @@
     },
     {
       "raw_hot": 177827,
-      "num": 125878,
+      "num": 128617,
       "word": "马嘉祺月亮可以代表我的心横版直拍",
       "onboard_time": 1668238409,
       "rank": 32,
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172253,
+      "num": 129380,
+      "word": "米勒拜师阿Bin",
+      "onboard_time": 1668238529,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
@@ -875,12 +931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162346,
-      "num": 137817,
-      "word": "杨颖金鸡奖造型",
-      "onboard_time": 1668237156,
+      "raw_hot": 161726,
+      "num": 128830,
+      "word": "Gemini挑战周深高音",
+      "onboard_time": 1668239130,
       "rank": 33,
-      "category": "作品衍生"
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 160684,
+      "num": 160684,
+      "word": "青桔单车一员工多次偷松果单车电瓶",
+      "onboard_time": 1668236669,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159046,
@@ -897,6 +961,14 @@
       "onboard_time": 1668225029,
       "rank": 47,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 153749,
+      "num": 153749,
+      "word": "国家卫健委回应二十条优化措施",
+      "onboard_time": 1668240688,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153387,
@@ -1059,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128468,
+      "num": 128468,
+      "word": "因偷吃被发现的黑洞",
+      "onboard_time": 1668238890,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 127617,
       "num": 103775,
       "word": "郑秀妍上菜反问顾客菜名",
@@ -1075,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124165,
+      "num": 124165,
+      "word": "2岁萌娃被妈妈教育哭着找狗狗告状",
+      "onboard_time": 1668240568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122369,
       "num": 122369,
       "word": "十一月的笑帮",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1668183691,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119596,
+      "num": 108654,
+      "word": "第35届金鸡奖红毯",
+      "onboard_time": 1668241468,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 119241,
@@ -1115,20 +1211,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117126,
-      "num": 117126,
-      "word": "青桔单车一员工多次偷松果单车电瓶",
-      "onboard_time": 1668236669,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117098,
       "num": 117098,
       "word": "太空快递小哥再出发",
       "onboard_time": 1668219813,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 116049,
+      "num": 765199,
+      "word": "各色秋叶壁纸上新了",
+      "onboard_time": 1668239308,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114085,
@@ -1313,14 +1409,6 @@
       "onboard_time": 1668161253,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92521,
-      "num": 92521,
-      "word": "男子收邻居孩子蹭网纸条瞬间破防",
-      "onboard_time": 1668237630,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92174,
