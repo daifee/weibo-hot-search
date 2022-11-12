@@ -1,0 +1,410 @@
+{
+  "runTime": 1668224000399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517917,
+        "num": 1517917,
+        "word": "刘氏兄弟母亲确认两人将入籍中国",
+        "onboard_time": 1668219691,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 945903,
+        "num": 945903,
+        "word": "你好星期六全员重现经典角色",
+        "onboard_time": 1668222029,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10355,
+        "num": 850211,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3361288,
+        "num": 848079,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 841925,
+        "num": 841925,
+        "word": "陈飞宇说听到热度破万消息有些恍惚",
+        "onboard_time": 1668223168,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758879,
+        "num": 758879,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 706364,
+        "num": 706364,
+        "word": "郑州在重点文物单位建方舱被叫停",
+        "onboard_time": 1668219871,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685171,
+        "num": 685171,
+        "word": "易烊千玺金鸡奖最佳男主角提名VCR",
+        "onboard_time": 1668215370,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664548,
+        "num": 664548,
+        "word": "广州新增本土感染者3180例",
+        "onboard_time": 1668217770,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566450,
+        "num": 566450,
+        "word": "女子外卖被偷嫌疑人下跪道歉",
+        "onboard_time": 1668218013,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265642,
+        "num": 560741,
+        "word": "王鹤棣假装为沈月提裙子",
+        "onboard_time": 1668222811,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 777672,
+        "num": 547711,
+        "word": "老人遭鲁某推倒后多次冲向厨房",
+        "onboard_time": 1668214227,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 444879,
+        "num": 444879,
+        "word": "银行以防疫为名让客户淋雨排队",
+        "onboard_time": 1668221732,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435491,
+        "num": 435491,
+        "word": "女子发现邻居家果树结十几种水果",
+        "onboard_time": 1668217412,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407937,
+        "num": 407937,
+        "word": "李峋哄朱韵睡觉",
+        "onboard_time": 1668218070,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366722,
+        "num": 366722,
+        "word": "波司登股价一年跌超四成",
+        "onboard_time": 1668218370,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345326,
+        "num": 345326,
+        "word": "重庆新增本土确诊160例无症状1081例",
+        "onboard_time": 1668215247,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335250,
+        "num": 335250,
+        "word": "乳房是情绪的靶向器官",
+        "onboard_time": 1668179014,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319312,
+        "num": 319312,
+        "word": "优酷热度值破万的剧集",
+        "onboard_time": 1668218489,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301136,
+        "num": 301136,
+        "word": "张朝阳称躺着玩手机对颈椎更好",
+        "onboard_time": 1668219214,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301276,
+        "num": 283911,
+        "word": "某某某太强了",
+        "onboard_time": 1668177393,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265660,
+        "num": 265660,
+        "word": "女子回家在楼道发现被遗弃男婴",
+        "onboard_time": 1668220650,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255247,
+        "num": 255247,
+        "word": "商户因体温枪没电被要求停业1天",
+        "onboard_time": 1668215549,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225545,
+        "num": 225545,
+        "word": "艺术类本科专业不得设专业方向",
+        "onboard_time": 1668216570,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223719,
+        "num": 223719,
+        "word": "男子常有饥饿感一查患上胃癌",
+        "onboard_time": 1668214769,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220086,
+        "num": 220086,
+        "word": "11月11日新增本土无症状10351例",
+        "onboard_time": 1668220413,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218756,
+        "num": 218756,
+        "word": "李泳知rap",
+        "onboard_time": 1668223590,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215816,
+        "num": 215816,
+        "word": "宝爸蹭喝宝宝酸奶喝出黑色异物",
+        "onboard_time": 1668213511,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193772,
+        "num": 193772,
+        "word": "爸爸用妻子姓名章为1岁儿子画像",
+        "onboard_time": 1668216810,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182020,
+        "num": 182020,
+        "word": "11月11日新增本土确诊1452例",
+        "onboard_time": 1668220051,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170518,
+        "num": 170518,
+        "word": "苏州尝试二手房直售模式",
+        "onboard_time": 1668217948,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 167145,
+        "num": 167145,
+        "word": "白敬亭尹峥好会亲",
+        "onboard_time": 1668184349,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143338,
+        "num": 143338,
+        "word": "张俪印错的100件衣服用上了",
+        "onboard_time": 1668176134,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "重庆一男子看病就医成社死现场",
+        "onboard_time": 1668210383,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "洞庭湖底现神秘图案",
+        "onboard_time": 1668213266,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135253,
+        "num": 135253,
+        "word": "罗晋新剧开播就立flag",
+        "onboard_time": 1668222090,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121284,
+        "num": 121284,
+        "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+        "onboard_time": 1668174451,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112900,
+        "num": 112900,
+        "word": "QQ内测微信登录功能",
+        "onboard_time": 1668182672,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112871,
+        "num": 112871,
+        "word": "女子租房遇奇葩隔断房电梯在房内",
+        "onboard_time": 1668212967,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108838,
+        "num": 108838,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668212185,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106982,
+        "num": 106982,
+        "word": "黄明昊突然被采访的表情",
+        "onboard_time": 1668217650,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105371,
+        "num": 105371,
+        "word": "命韵峋环狐狸精版吃醋",
+        "onboard_time": 1668223110,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100548,
+        "num": 100548,
+        "word": "骑士vs勇士",
+        "onboard_time": 1668219509,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89959,
+        "num": 89959,
+        "word": "babyincar你用对了吗",
+        "onboard_time": 1668223590,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87053,
+        "num": 87053,
+        "word": "谢可寅金鸡奖红毯彩排整全套",
+        "onboard_time": 1668214348,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86940,
+        "num": 86940,
+        "word": "周深新歌打开了快乐开关",
+        "onboard_time": 1668221732,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82115,
+        "num": 82115,
+        "word": "父母给女儿取名龙葵寓意向阳而生",
+        "onboard_time": 1668173735,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78495,
+        "num": 78495,
+        "word": "流浪狗因治愈系笑容成功被收养",
+        "onboard_time": 1668213869,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77485,
+        "num": 77485,
+        "word": "基金经理网恋被工厂女工骗近30万",
+        "onboard_time": 1668223950,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74715,
+        "num": 74715,
+        "word": "35岁梅西第5次参加世界杯",
+        "onboard_time": 1668209663,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#探寻中国式现代化之路#"
+    }
+  }
+}
