@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668278546510,
+  "endTime": 1668280629448,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -8620,7 +8620,7 @@
     },
     {
       "raw_hot": 168901,
-      "num": 72338,
+      "num": 136158,
       "word": "李薇考第一",
       "onboard_time": 1668276976,
       "rank": 20,
@@ -9625,6 +9625,14 @@
       "onboard_time": 1667829027,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143111,
+      "num": 143111,
+      "word": "人生大事",
+      "onboard_time": 1668280094,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 143023,
@@ -13425,6 +13433,22 @@
       "onboard_time": 1668206175,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18201,
+      "num": 20883,
+      "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
+      "onboard_time": 1668279135,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15988,
+      "num": 20788,
+      "word": "猫和老鼠的新版动画片",
+      "onboard_time": 1668279495,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 15669,
