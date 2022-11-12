@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668295393390,
+  "endTime": 1668296342716,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 405119,
-      "num": 233025,
+      "num": 310318,
       "word": "柳岩蝴蝶结好大",
       "onboard_time": 1668252809,
       "rank": 31,
@@ -137,6 +137,14 @@
       "onboard_time": 1668258336,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343246,
+      "num": 343246,
+      "word": "邻居称鲁某某是个有素质的人",
+      "onboard_time": 1668287592,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335278,
@@ -161,14 +169,6 @@
       "onboard_time": 1668260019,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272840,
-      "num": 272840,
-      "word": "邻居称鲁某某是个有素质的人",
-      "onboard_time": 1668287592,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271453,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231716,
+      "num": 231716,
+      "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
+      "onboard_time": 1668279135,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214472,
       "num": 214472,
       "word": "9人凌晨开豪车飙车被刑拘",
@@ -259,6 +267,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 187873,
+      "num": 77029,
+      "word": "父亲不堪重负杀死网购欠百万女儿",
+      "onboard_time": 1668296180,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 178257,
       "num": 178257,
       "word": "林高远辛苦了",
@@ -281,14 +297,6 @@
       "onboard_time": 1668276976,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158527,
-      "num": 119888,
-      "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
-      "onboard_time": 1668279135,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147724,
@@ -379,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117196,
+      "num": 110480,
+      "word": "王鹤棣对着六公主镜头这么傲娇",
+      "onboard_time": 1668293235,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116347,
       "num": 116347,
       "word": "爸爸拿体教资10年教不会儿子跳绳",
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104327,
+      "num": 104327,
+      "word": "女童爱编发全家老少配合头顶小揪",
+      "onboard_time": 1668291974,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101618,
       "num": 101618,
       "word": "樊振东林高远打球观赏性拉满",
@@ -433,6 +457,14 @@
       "onboard_time": 1668275419,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93946,
+      "num": 93946,
+      "word": "所谓24海里线不存在请注意用语",
+      "onboard_time": 1668286151,
+      "rank": 36,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 91788,
@@ -467,20 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76595,
-      "num": 76595,
-      "word": "所谓24海里线不存在请注意用语",
-      "onboard_time": 1668286151,
-      "rank": 36,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 70752,
-      "num": 70752,
-      "word": "女童爱编发全家老少配合头顶小揪",
-      "onboard_time": 1668291974,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 77198,
+      "num": 77198,
+      "word": "篮网vs快船",
+      "onboard_time": 1668295038,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 69347,
@@ -491,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69052,
-      "num": 61268,
-      "word": "王鹤棣对着六公主镜头这么傲娇",
-      "onboard_time": 1668293235,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 65028,
       "num": 101043,
       "word": "全锦赛男单樊振东夺冠",
@@ -507,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43150,
+      "num": 43150,
+      "word": "点燃我温暖你",
+      "onboard_time": 1668295761,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39735,
       "num": 22964,
       "word": "陈小纭郝葭演我",
       "onboard_time": 1668280633,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38427,
-      "num": 38427,
-      "word": "篮网vs快船",
-      "onboard_time": 1668295038,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 32134,
