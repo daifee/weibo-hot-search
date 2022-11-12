@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668245854068,
+  "endTime": 1668248571294,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -9,6 +9,14 @@
       "onboard_time": 1668216931,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1851315,
+      "num": 1851315,
+      "word": "次密接的阳性感染率",
+      "onboard_time": 1668244290,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1791493,
@@ -51,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1395791,
+      "num": 1395791,
+      "word": "第35届金鸡奖红毯",
+      "onboard_time": 1668241468,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1344742,
       "num": 560741,
       "word": "王鹤棣假装为沈月提裙子",
@@ -65,14 +81,6 @@
       "onboard_time": 1668177393,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1302126,
-      "num": 1302126,
-      "word": "第35届金鸡奖红毯",
-      "onboard_time": 1668241468,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 1295045,
@@ -163,12 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 787717,
+      "num": 272200,
+      "word": "林允胎毛刘海",
+      "onboard_time": 1668246928,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 785618,
       "num": 785618,
       "word": "重庆新增本土确诊160例无症状1081例",
       "onboard_time": 1668215247,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784230,
+      "num": 784230,
+      "word": "李峋在监狱搞防越狱系统",
+      "onboard_time": 1668244590,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 782555,
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 669531,
+      "num": 669531,
+      "word": "1岁男孩餐后过敏肿成可达鸭",
+      "onboard_time": 1668242970,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648667,
       "num": 648667,
       "word": "各地已经成立整治层层加码工作专班",
@@ -273,22 +305,6 @@
       "onboard_time": 1668182672,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 619654,
-      "num": 400620,
-      "word": "李峋在监狱搞防越狱系统",
-      "onboard_time": 1668244590,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 607321,
-      "num": 607321,
-      "word": "1岁男孩餐后过敏肿成可达鸭",
-      "onboard_time": 1668242970,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580664,
@@ -319,14 +335,6 @@
       "num": 566450,
       "word": "女子外卖被偷嫌疑人下跪道歉",
       "onboard_time": 1668218013,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557146,
-      "num": 398333,
-      "word": "次密接的阳性感染率",
-      "onboard_time": 1668244290,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -427,11 +435,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 423644,
+      "num": 272135,
+      "word": "张艺凡仪态",
+      "onboard_time": 1668247769,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408410,
       "num": 408410,
       "word": "女子租房遇奇葩隔断房电梯在房内",
       "onboard_time": 1668212967,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406564,
+      "num": 272114,
+      "word": "北京新增12例社会面",
+      "onboard_time": 1668245730,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -499,6 +523,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 352850,
+      "num": 267326,
+      "word": "中疾控回应是否会逐步取消集中隔离",
+      "onboard_time": 1668246391,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347770,
+      "num": 266008,
+      "word": "Angelababy烟火流光夜海大片",
+      "onboard_time": 1668248130,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347658,
       "num": 347658,
       "word": "男子戴白手套欲撬锁主人敲门回应",
@@ -513,6 +553,14 @@
       "onboard_time": 1668213266,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344328,
+      "num": 264091,
+      "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+      "onboard_time": 1668247409,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 344239,
@@ -595,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305367,
+      "num": 229853,
+      "word": "关晓彤露腰白衬衫造型",
+      "onboard_time": 1668246869,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295948,
       "num": 295948,
       "word": "田曦薇 李薇演谁",
@@ -659,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278165,
+      "num": 227232,
+      "word": "金鸡奖女明星造型大赏",
+      "onboard_time": 1668246276,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278101,
       "num": 278101,
       "word": "李峋给朱韵的早安语音",
@@ -673,6 +737,14 @@
       "onboard_time": 1668237156,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 272046,
+      "num": 272046,
+      "word": "河南入冬第一场雪来了",
+      "onboard_time": 1668245249,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267107,
@@ -803,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231757,
+      "num": 137139,
+      "word": "90后女生下班时间拍电影获金鸡奖",
+      "onboard_time": 1668247295,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229912,
       "num": 229912,
       "word": "点燃我温暖你有领证剧情",
@@ -820,7 +900,7 @@
     },
     {
       "raw_hot": 227487,
-      "num": 108712,
+      "num": 135192,
       "word": "朱韵暗戳戳告白李峋",
       "onboard_time": 1668245188,
       "rank": 30,
@@ -937,6 +1017,14 @@
       "onboard_time": 1668217650,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207954,
+      "num": 136431,
+      "word": "何洛洛金鸡奖红毯生图",
+      "onboard_time": 1668246449,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200946,
@@ -1067,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172631,
+      "num": 172631,
+      "word": "歼20穿云造洞忍不住看亿遍",
+      "onboard_time": 1668245610,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
@@ -1099,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160100,
+      "num": 160100,
+      "word": "北京新增本土感染者98例",
+      "onboard_time": 1668247289,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159046,
       "num": 159046,
       "word": "金汤匙",
@@ -1108,7 +1212,7 @@
     },
     {
       "raw_hot": 155572,
-      "num": 102694,
+      "num": 122546,
       "word": "国家卫健委解释为何取消次密接",
       "onboard_time": 1668244949,
       "rank": 34,
@@ -1211,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144439,
+      "num": 134018,
+      "word": "空气炸锅烤红薯干",
+      "onboard_time": 1668247589,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142952,
       "num": 142952,
       "word": "命韵峋环狐狸精版吃醋",
@@ -1235,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142280,
+      "num": 142280,
+      "word": "00后女孩帮老人线上买菜被赠排骨汤",
+      "onboard_time": 1668244590,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 140025,
       "num": 140025,
       "word": "库里40分",
@@ -1244,7 +1364,7 @@
     },
     {
       "raw_hot": 139463,
-      "num": 1037443,
+      "num": 1071262,
       "word": "各色秋叶壁纸上新了",
       "onboard_time": 1668239308,
       "rank": 2,
@@ -1272,14 +1392,6 @@
       "word": "流浪狗因治愈系笑容成功被收养",
       "onboard_time": 1668213869,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134765,
-      "num": 134765,
-      "word": "河南入冬第一场雪来了",
-      "onboard_time": 1668245249,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1313,6 +1425,14 @@
       "onboard_time": 1668184584,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127433,
+      "num": 127433,
+      "word": "解说杯S3",
+      "onboard_time": 1668247050,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 126915,
@@ -1555,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 93818,
+      "num": 93818,
+      "word": "武大靖模仿任子威沙僧式发言",
+      "onboard_time": 1668246208,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93755,
       "num": 99650,
       "word": "斗罗大陆宣布将彻底完结",
@@ -1643,36 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79885,
-      "num": 79885,
-      "word": "歼20穿云造洞忍不住看亿遍",
-      "onboard_time": 1668245610,
-      "rank": 43,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 77425,
-      "num": 77425,
-      "word": "北京新增12例社会面",
-      "onboard_time": 1668245730,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76640,
       "num": 99490,
       "word": "差点把大哥打哭了",
       "onboard_time": 1668176913,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76277,
-      "num": 76277,
-      "word": "00后女孩帮老人线上买菜被赠排骨汤",
-      "onboard_time": 1668244590,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 76256,
@@ -1713,6 +1817,14 @@
       "onboard_time": 1668153580,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62568,
+      "num": 73166,
+      "word": "毕业生藏200个小煤球给学弟学妹",
+      "onboard_time": 1668248489,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 62542,

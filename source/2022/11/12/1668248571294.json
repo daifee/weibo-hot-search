@@ -1,0 +1,410 @@
+{
+  "runTime": 1668248571294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851315,
+        "num": 1851315,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395791,
+        "num": 1395791,
+        "word": "第35届金鸡奖红毯",
+        "onboard_time": 1668241468,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108734,
+        "num": 1071262,
+        "word": "各色秋叶壁纸上新了",
+        "onboard_time": 1668239308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784230,
+        "num": 784230,
+        "word": "李峋在监狱搞防越狱系统",
+        "onboard_time": 1668244590,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697228,
+        "num": 697228,
+        "word": "王鹤棣领带上有个蘑菇",
+        "onboard_time": 1668243870,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669531,
+        "num": 669531,
+        "word": "1岁男孩餐后过敏肿成可达鸭",
+        "onboard_time": 1668242970,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414354,
+        "num": 414354,
+        "word": "各地已经成立整治层层加码工作专班",
+        "onboard_time": 1668242010,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 339494,
+        "num": 339494,
+        "word": "重庆交大一学生被公告退学",
+        "onboard_time": 1668229531,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283346,
+        "num": 283346,
+        "word": "交通运输部删除中风险区防控内容",
+        "onboard_time": 1668240629,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272206,
+        "num": 272206,
+        "word": "原来上课睡觉是这样的",
+        "onboard_time": 1668243269,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 787717,
+        "num": 272200,
+        "word": "林允胎毛刘海",
+        "onboard_time": 1668246928,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423644,
+        "num": 272135,
+        "word": "张艺凡仪态",
+        "onboard_time": 1668247769,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406564,
+        "num": 272114,
+        "word": "北京新增12例社会面",
+        "onboard_time": 1668245730,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357510,
+        "num": 272052,
+        "word": "卿卿日常",
+        "onboard_time": 1668242908,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272046,
+        "num": 272046,
+        "word": "河南入冬第一场雪来了",
+        "onboard_time": 1668245249,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352850,
+        "num": 267326,
+        "word": "中疾控回应是否会逐步取消集中隔离",
+        "onboard_time": 1668246391,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347770,
+        "num": 266008,
+        "word": "Angelababy烟火流光夜海大片",
+        "onboard_time": 1668248130,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344328,
+        "num": 264091,
+        "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+        "onboard_time": 1668247409,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 258358,
+        "num": 258358,
+        "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+        "onboard_time": 1668230910,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230893,
+        "num": 230893,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 305367,
+        "num": 229853,
+        "word": "关晓彤露腰白衬衫造型",
+        "onboard_time": 1668246869,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278165,
+        "num": 227232,
+        "word": "金鸡奖女明星造型大赏",
+        "onboard_time": 1668246276,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222175,
+        "num": 222175,
+        "word": "男子收邻居孩子蹭网纸条瞬间破防",
+        "onboard_time": 1668237630,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193034,
+        "num": 193034,
+        "word": "国家疾控局解读最新防疫措施",
+        "onboard_time": 1668239671,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180850,
+        "num": 180850,
+        "word": "库里 天神下凡",
+        "onboard_time": 1668232413,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172631,
+        "num": 172631,
+        "word": "歼20穿云造洞忍不住看亿遍",
+        "onboard_time": 1668245610,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160100,
+        "num": 160100,
+        "word": "北京新增本土感染者98例",
+        "onboard_time": 1668247289,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156878,
+        "num": 156878,
+        "word": "饭店狗狗长期跟客人讨肉胖成猪",
+        "onboard_time": 1668235651,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142280,
+        "num": 142280,
+        "word": "00后女孩帮老人线上买菜被赠排骨汤",
+        "onboard_time": 1668244590,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "国家卫健委回应二十条优化措施",
+        "onboard_time": 1668240688,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242293,
+        "num": 140256,
+        "word": "颖儿追剧问孕期生病该忍着还是吃药",
+        "onboard_time": 1668237688,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237665,
+        "num": 138137,
+        "word": "金鸡奖",
+        "onboard_time": 1668226709,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231757,
+        "num": 137139,
+        "word": "90后女生下班时间拍电影获金鸡奖",
+        "onboard_time": 1668247295,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207954,
+        "num": 136431,
+        "word": "何洛洛金鸡奖红毯生图",
+        "onboard_time": 1668246449,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207415,
+        "num": 135192,
+        "word": "朱韵暗戳戳告白李峋",
+        "onboard_time": 1668245188,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 134018,
+        "word": "空气炸锅烤红薯干",
+        "onboard_time": 1668247589,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133162,
+        "num": 133162,
+        "word": "林孝埈再次退赛",
+        "onboard_time": 1668227437,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127433,
+        "num": 127433,
+        "word": "解说杯S3",
+        "onboard_time": 1668247050,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123014,
+        "num": 123014,
+        "word": "米勒拜师阿Bin",
+        "onboard_time": 1668238529,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 122546,
+        "word": "国家卫健委解释为何取消次密接",
+        "onboard_time": 1668244949,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166561,
+        "num": 116506,
+        "word": "张艺兴连说了9个真的很想你们",
+        "onboard_time": 1668236249,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93818,
+        "num": 93818,
+        "word": "武大靖模仿任子威沙僧式发言",
+        "onboard_time": 1668246208,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93116,
+        "num": 93116,
+        "word": "2岁萌娃被妈妈教育哭着找狗狗告状",
+        "onboard_time": 1668240568,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89163,
+        "num": 89163,
+        "word": "官方回应牡丹江一服装店被黄牌警告",
+        "onboard_time": 1668238710,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79751,
+        "num": 79751,
+        "word": "浙江一女子半年笑晕4次",
+        "onboard_time": 1668227431,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78610,
+        "num": 78610,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 74817,
+        "num": 74817,
+        "word": "因偷吃被发现的黑洞",
+        "onboard_time": 1668238890,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73322,
+        "num": 73322,
+        "word": "湖人又输",
+        "onboard_time": 1668233551,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73206,
+        "num": 73206,
+        "word": "官方回应四川现乐山大佛孪生兄弟",
+        "onboard_time": 1668229052,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62568,
+        "num": 73166,
+        "word": "毕业生藏200个小煤球给学弟学妹",
+        "onboard_time": 1668248489,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}
