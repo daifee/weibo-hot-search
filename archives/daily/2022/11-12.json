@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668263779057,
+  "endTime": 1668266596764,
   "band_list": [
     {
       "raw_hot": 4175898,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1615928,
-      "num": 682782,
+      "num": 704284,
       "word": "沈腾 没来",
       "onboard_time": 1668257614,
       "rank": 22,
@@ -203,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082673,
+      "num": 376142,
+      "word": "关晓彤看看陈采尼",
+      "onboard_time": 1668264996,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1080947,
       "num": 1080947,
       "word": "易烊千玺金鸡奖最佳男主角提名VCR",
       "onboard_time": 1668215370,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1036673,
+      "num": 375344,
+      "word": "娄艺潇汉服",
+      "onboard_time": 1668261399,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1035895,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1015305,
+      "num": 1015305,
+      "word": "男子辞职后在洞穴生活失联近3年",
+      "onboard_time": 1668262477,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001074,
       "num": 1025135,
       "word": "银行以防疫为名让客户淋雨排队",
@@ -241,14 +265,6 @@
       "onboard_time": 1668254251,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 987700,
-      "num": 260453,
-      "word": "娄艺潇汉服",
-      "onboard_time": 1668261399,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 965837,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652263,
+      "num": 162470,
+      "word": "刘德华宁静金鸡奖现场握手",
+      "onboard_time": 1668265777,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648667,
       "num": 648667,
       "word": "各地已经成立整治层层加码工作专班",
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503339,
+      "num": 159640,
+      "word": "王鹤棣红色渐变西装造型",
+      "onboard_time": 1668266495,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 496619,
       "num": 174730,
       "word": "倪妮好美",
@@ -624,6 +656,14 @@
       "word": "白敬亭尹峥好会亲",
       "onboard_time": 1668184349,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 470375,
+      "num": 159110,
+      "word": "星辰大海",
+      "onboard_time": 1668263977,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -859,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368088,
+      "num": 135068,
+      "word": "金昇玟唱HYPEBOY",
+      "onboard_time": 1668266318,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366722,
       "num": 366722,
       "word": "波司登股价一年跌超四成",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1668245249,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293226,
-      "num": 293226,
-      "word": "男子辞职后在洞穴生活失联近3年",
-      "onboard_time": 1668262477,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292661,
@@ -1667,12 +1707,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 164553,
+      "num": 164553,
+      "word": "王者荣耀世界实机演示发布",
+      "onboard_time": 1668262118,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164100,
       "num": 159747,
       "word": "罗云熙吴倩发视频告别追光者",
       "onboard_time": 1668228570,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162673,
+      "num": 162673,
+      "word": "南昌西站",
+      "onboard_time": 1668266017,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161726,
@@ -1745,6 +1801,14 @@
       "onboard_time": 1668164675,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150794,
+      "num": 150794,
+      "word": "托尼绝杀",
+      "onboard_time": 1668264936,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 149819,
@@ -2115,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101113,
+      "num": 135021,
+      "word": "曼城1比2布伦特福德",
+      "onboard_time": 1668264638,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100991,
       "num": 100991,
       "word": "一块钱藏出了一亿的感觉",
@@ -2187,12 +2259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97581,
-      "num": 147478,
-      "word": "王者荣耀世界实机演示发布",
-      "onboard_time": 1668262118,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 96544,
+      "num": 146942,
+      "word": "原来童话里的场景真的存在",
+      "onboard_time": 1668263439,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 96380,
@@ -2283,19 +2355,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89452,
-      "num": 146942,
-      "word": "原来童话里的场景真的存在",
-      "onboard_time": 1668263439,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88953,
       "num": 116085,
       "word": "陕西发现夏时期大型中心聚落遗址",
       "onboard_time": 1668250891,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87190,
+      "num": 134966,
+      "word": "29岁博士因社恐1月叫2次救护车",
+      "onboard_time": 1668266555,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
