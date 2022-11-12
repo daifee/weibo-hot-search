@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668259927800,
+  "endTime": 1668260636570,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -41,6 +41,14 @@
       "onboard_time": 1667366487,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 4175898,
+      "num": 4175898,
+      "word": "朱一龙金鸡奖最佳男主角",
+      "onboard_time": 1668259358,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 4027161,
@@ -169,14 +177,6 @@
       "onboard_time": 1667830050,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 3062006,
-      "num": 3062006,
-      "word": "朱一龙金鸡奖最佳男主角",
-      "onboard_time": 1668259358,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 3019963,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1762345,
+      "num": 998685,
+      "word": "陈妍希 造型",
+      "onboard_time": 1668254192,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1750563,
       "num": 1750563,
       "word": "川外被曝18元盒饭不断出现异物",
@@ -873,6 +881,14 @@
       "onboard_time": 1667314953,
       "rank": 10,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1584739,
+      "num": 470144,
+      "word": "奚美娟金鸡奖最佳女主角",
+      "onboard_time": 1668260259,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1584035,
@@ -1027,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1480195,
-      "num": 998685,
-      "word": "陈妍希 造型",
-      "onboard_time": 1668254192,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1479007,
       "num": 1479007,
       "word": "重庆市中医院不等核酸结果抢救黄码老人",
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437519,
+      "num": 1437519,
+      "word": "张超",
+      "onboard_time": 1667743292,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1437072,
       "num": 1105567,
       "word": "飞天奖获奖名单",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1668146085,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1417049,
-      "num": 1417049,
-      "word": "张超",
-      "onboard_time": 1667743292,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1412497,
@@ -3419,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721312,
+      "num": 721312,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1667742695,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719232,
       "num": 719232,
       "word": "24岁小伙花光积蓄回乡买房入住毛坯",
@@ -3513,14 +3529,6 @@
       "onboard_time": 1668153459,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 697049,
-      "num": 697049,
-      "word": "樊振东vs林高远",
-      "onboard_time": 1667742695,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 695567,
@@ -3753,6 +3761,14 @@
       "onboard_time": 1667902529,
       "rank": 28,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 674695,
+      "num": 144168,
+      "word": "李庚希 妆",
+      "onboard_time": 1668260019,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 674401,
@@ -4083,6 +4099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636841,
+      "num": 636841,
+      "word": "重庆市卫健委致孕产妇的一封信",
+      "onboard_time": 1668257857,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636705,
       "num": 498898,
       "word": "纠正一天两检一天三检等不科学做法",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1667694984,
       "rank": 1,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 621075,
+      "num": 144370,
+      "word": "高圆圆状态",
+      "onboard_time": 1668259174,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 620438,
@@ -5635,14 +5667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503219,
-      "num": 503219,
-      "word": "重庆市卫健委致孕产妇的一封信",
-      "onboard_time": 1668257857,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501297,
       "num": 501297,
       "word": "倪妮出席金鸡提名者表彰仪式",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1667824648,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 471085,
-      "num": 144370,
-      "word": "高圆圆状态",
-      "onboard_time": 1668259174,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 469942,
@@ -7339,6 +7355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409941,
+      "num": 108932,
+      "word": "陈飞宇张婧仪片场摸头杀",
+      "onboard_time": 1668260438,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408995,
       "num": 408995,
       "word": "路上遇车祸就地吹蜡烛庆生",
@@ -7409,6 +7433,14 @@
       "onboard_time": 1667790566,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406062,
+      "num": 406062,
+      "word": "一看就是女孩的毛孩子",
+      "onboard_time": 1668256174,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 406056,
@@ -7993,14 +8025,6 @@
       "onboard_time": 1667783608,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379522,
-      "num": 379522,
-      "word": "一看就是女孩的毛孩子",
-      "onboard_time": 1668256174,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 379398,
@@ -9305,6 +9329,14 @@
       "onboard_time": 1668160835,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329242,
+      "num": 329242,
+      "word": "医生识破患者学医让自己写病历",
+      "onboard_time": 1668258036,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329183,
@@ -11939,14 +11971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245481,
-      "num": 245481,
-      "word": "医生识破患者学医让自己写病历",
-      "onboard_time": 1668258036,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245361,
       "num": 245361,
       "word": "潘玮柏衣服口袋漏了",
@@ -13315,6 +13339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215981,
+      "num": 215981,
+      "word": "男子因纠纷赌气把女友锁车内",
+      "onboard_time": 1668256293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "国考报名人数超250万",
@@ -14025,14 +14057,6 @@
       "onboard_time": 1667297666,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199905,
-      "num": 199905,
-      "word": "男子因纠纷赌气把女友锁车内",
-      "onboard_time": 1668256293,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199749,
@@ -16603,6 +16627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 155893,
+      "num": 155893,
+      "word": "养猫后电脑都关不了",
+      "onboard_time": 1668258876,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155684,
       "num": 96410,
       "word": "李峋问我有短吗",
@@ -16825,6 +16857,14 @@
       "onboard_time": 1667618966,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152308,
+      "num": 152308,
+      "word": "重庆交大回应学生被公告退学",
+      "onboard_time": 1668258216,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 152208,
@@ -17723,6 +17763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140962,
+      "num": 140962,
+      "word": "9人凌晨开豪车飙车被刑拘",
+      "onboard_time": 1668259174,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140934,
       "num": 140934,
       "word": "李峋为朱韵兜底",
@@ -18339,14 +18387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132064,
-      "num": 132064,
-      "word": "养猫后电脑都关不了",
-      "onboard_time": 1668258876,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132037,
       "num": 132037,
       "word": "一看就是放假回家的孩子",
@@ -18385,14 +18425,6 @@
       "onboard_time": 1667229029,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131768,
-      "num": 131768,
-      "word": "重庆交大回应学生被公告退学",
-      "onboard_time": 1668258216,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 131696,
@@ -18555,6 +18587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129231,
+      "num": 129231,
+      "word": "永劫无间职业联赛NBPL",
+      "onboard_time": 1668260077,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "宋宁峰脾气真好",
@@ -18656,6 +18696,14 @@
       "word": "颜宁将回国协助创建医学科学院",
       "onboard_time": 1667298448,
       "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 127700,
+      "num": 127700,
+      "word": "女生白俄罗斯留学班级全是中国人",
+      "onboard_time": 1668259842,
+      "rank": 37,
       "category": "社会新闻,教育"
     },
     {
@@ -19033,6 +19081,14 @@
       "onboard_time": 1667991506,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123126,
+      "num": 123126,
+      "word": "4小伙戴假发穿裙子客串伴娘",
+      "onboard_time": 1668257374,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123027,
@@ -20009,14 +20065,6 @@
       "onboard_time": 1667478565,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109545,
-      "num": 109545,
-      "word": "4小伙戴假发穿裙子客串伴娘",
-      "onboard_time": 1668257374,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109513,
@@ -21027,6 +21075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98024,
+      "num": 98024,
+      "word": "你是懂说反话的",
+      "onboard_time": 1668259236,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97995,
       "num": 97995,
       "word": "你实现睡眠自由了吗",
@@ -21259,20 +21315,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95595,
-      "num": 95595,
-      "word": "你是懂说反话的",
-      "onboard_time": 1668259236,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "8K超高清感受运油20的压迫感",
       "onboard_time": 1667976564,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 95441,
+      "num": 95441,
+      "word": "你为什么总是想太多",
+      "onboard_time": 1668260499,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 95316,
@@ -21329,6 +21385,14 @@
       "onboard_time": 1667350408,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94586,
+      "num": 94586,
+      "word": "王者荣耀七周年晚会",
+      "onboard_time": 1668260198,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 94569,
@@ -21568,14 +21632,6 @@
       "word": "浙江广电ZMG浙先行融未来",
       "onboard_time": 1668071907,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92537,
-      "num": 92537,
-      "word": "9人凌晨开豪车飙车被刑拘",
-      "onboard_time": 1668259174,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
