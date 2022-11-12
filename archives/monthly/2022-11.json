@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668274674000,
+  "endTime": 1668277585445,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -11355,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271453,
+      "num": 263788,
+      "word": "杨颖好看",
+      "onboard_time": 1668274100,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270796,
       "num": 183291,
       "word": "致我们单纯的小美好播出五周年",
@@ -13803,14 +13811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209248,
-      "num": 107684,
-      "word": "杨颖好看",
-      "onboard_time": 1668274100,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209089,
       "num": 209089,
       "word": "真的有让蚊子都嫌弃的皮肤",
@@ -14409,6 +14409,14 @@
       "onboard_time": 1667374047,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 196310,
+      "num": 196310,
+      "word": "第一次见这么漂亮的小狗",
+      "onboard_time": 1668272665,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 196269,
@@ -16811,6 +16819,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 156431,
+      "num": 60301,
+      "word": "李薇考第一",
+      "onboard_time": 1668276976,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156189,
       "num": 129903,
       "word": "卿卿日常好像古装恋综",
@@ -17131,14 +17147,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 151162,
-      "num": 151162,
-      "word": "第一次见这么漂亮的小狗",
-      "onboard_time": 1668272665,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151059,
       "num": 151059,
       "word": "苹果减产300万部新iPhone",
@@ -17417,6 +17425,14 @@
       "onboard_time": 1668059245,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147724,
+      "num": 79091,
+      "word": "00后学员整顿驾校",
+      "onboard_time": 1668273682,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 147720,
@@ -21019,6 +21035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100438,
+      "num": 44956,
+      "word": "李薇答应做尹峥的夫人",
+      "onboard_time": 1668275419,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 100362,
       "num": 100362,
       "word": "谁教你们这么配音的",
@@ -23753,14 +23777,6 @@
       "onboard_time": 1667785287,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70448,
-      "num": 70448,
-      "word": "00后学员整顿驾校",
-      "onboard_time": 1668273682,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 70353,
