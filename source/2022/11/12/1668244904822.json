@@ -1,0 +1,410 @@
+{
+  "runTime": 1668244904822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1112452,
+        "num": 1112452,
+        "word": "第35届金鸡奖红毯",
+        "onboard_time": 1668241468,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092492,
+        "num": 1092492,
+        "word": "国家疾控局解读最新防疫措施",
+        "onboard_time": 1668239671,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129227,
+        "num": 1037443,
+        "word": "各色秋叶壁纸上新了",
+        "onboard_time": 1668239308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032218,
+        "num": 1032218,
+        "word": "王鹤棣领带上有个蘑菇",
+        "onboard_time": 1668243870,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603232,
+        "num": 603232,
+        "word": "各地已经成立整治层层加码工作专班",
+        "onboard_time": 1668242010,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 536964,
+        "num": 536964,
+        "word": "重庆交大一学生被公告退学",
+        "onboard_time": 1668229531,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512911,
+        "num": 512911,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 490823,
+        "num": 490823,
+        "word": "颖儿追剧问孕期生病该忍着还是吃药",
+        "onboard_time": 1668237688,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467242,
+        "num": 467242,
+        "word": "交通运输部删除中风险区防控内容",
+        "onboard_time": 1668240629,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341038,
+        "num": 341038,
+        "word": "国家卫健委回应二十条优化措施",
+        "onboard_time": 1668240688,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542888,
+        "num": 340957,
+        "word": "陈飞宇和张婧仪周也都合作了",
+        "onboard_time": 1668241896,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457690,
+        "num": 339468,
+        "word": "卿卿日常",
+        "onboard_time": 1668242908,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411417,
+        "num": 337310,
+        "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+        "onboard_time": 1668230910,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388045,
+        "num": 335443,
+        "word": "1岁男孩餐后过敏肿成可达鸭",
+        "onboard_time": 1668242970,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335431,
+        "num": 335431,
+        "word": "男子收邻居孩子蹭网纸条瞬间破防",
+        "onboard_time": 1668237630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281155,
+        "num": 281155,
+        "word": "官方回应牡丹江一服装店被黄牌警告",
+        "onboard_time": 1668238710,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276117,
+        "num": 276117,
+        "word": "金鸡奖",
+        "onboard_time": 1668226709,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266109,
+        "num": 266109,
+        "word": "库里 天神下凡",
+        "onboard_time": 1668232413,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236762,
+        "num": 236762,
+        "word": "饭店狗狗长期跟客人讨肉胖成猪",
+        "onboard_time": 1668235651,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206004,
+        "num": 206004,
+        "word": "林孝埈再次退赛",
+        "onboard_time": 1668227437,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254467,
+        "num": 205468,
+        "word": "张艺兴连说了9个真的很想你们",
+        "onboard_time": 1668236249,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250278,
+        "num": 205119,
+        "word": "倪妮金鸡奖绿野仙踪造型",
+        "onboard_time": 1668232349,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242376,
+        "num": 204900,
+        "word": "gidle新歌NXDE音乐中心一位",
+        "onboard_time": 1668243630,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204450,
+        "num": 204450,
+        "word": "原来上课睡觉是这样的",
+        "onboard_time": 1668243269,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195915,
+        "num": 195915,
+        "word": "2岁萌娃被妈妈教育哭着找狗狗告状",
+        "onboard_time": 1668240568,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142419,
+        "num": 142419,
+        "word": "因偷吃被发现的黑洞",
+        "onboard_time": 1668238890,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1668236849,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132942,
+        "num": 132942,
+        "word": "浙江一女子半年笑晕4次",
+        "onboard_time": 1668227431,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124562,
+        "num": 124562,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109658,
+        "num": 109658,
+        "word": "官方回应四川现乐山大佛孪生兄弟",
+        "onboard_time": 1668229052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288581,
+        "num": 107169,
+        "word": "李峋在监狱搞防越狱系统",
+        "onboard_time": 1668244590,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223080,
+        "num": 106323,
+        "word": "林峯压水井都不忘健身",
+        "onboard_time": 1668244109,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211634,
+        "num": 103185,
+        "word": "女明星金鸡奖闭幕式造型图",
+        "onboard_time": 1668241649,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194411,
+        "num": 101953,
+        "word": "扫黑行动尺度有多大",
+        "onboard_time": 1668232349,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171544,
+        "num": 97996,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97116,
+        "num": 97116,
+        "word": "米勒拜师阿Bin",
+        "onboard_time": 1668238529,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94525,
+        "num": 94525,
+        "word": "广州新增本土感染者3180例",
+        "onboard_time": 1668217770,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86990,
+        "num": 86990,
+        "word": "湖人又输",
+        "onboard_time": 1668233551,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 85913,
+        "word": "青桔单车一员工多次偷松果单车电瓶",
+        "onboard_time": 1668236669,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85764,
+        "num": 85764,
+        "word": "女子发现邻居家果树结十几种水果",
+        "onboard_time": 1668217412,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189861,
+        "num": 85131,
+        "word": "虞书欣赛车服造型路透",
+        "onboard_time": 1668239068,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163659,
+        "num": 85126,
+        "word": "杨颖金鸡奖造型",
+        "onboard_time": 1668237156,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119611,
+        "num": 84831,
+        "word": "维和防暴队主创阵容官宣",
+        "onboard_time": 1668237267,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83990,
+        "num": 83990,
+        "word": "基金经理网恋被工厂女工骗近30万",
+        "onboard_time": 1668223950,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82571,
+        "num": 82571,
+        "word": "库里随手就是个半场三分",
+        "onboard_time": 1668231751,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80440,
+        "num": 80440,
+        "word": "阿大葱油饼疑似闭店",
+        "onboard_time": 1668230011,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80405,
+        "num": 80405,
+        "word": "男子常有饥饿感一查患上胃癌",
+        "onboard_time": 1668214769,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76277,
+        "num": 76277,
+        "word": "00后女孩帮老人线上买菜被赠排骨汤",
+        "onboard_time": 1668244590,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 73414,
+        "num": 73414,
+        "word": "银行以防疫为名让客户淋雨排队",
+        "onboard_time": 1668221732,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73278,
+        "num": 73278,
+        "word": "郑州在重点文物单位建方舱被叫停",
+        "onboard_time": 1668219871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#探寻中国式现代化之路#"
+    }
+  }
+}
