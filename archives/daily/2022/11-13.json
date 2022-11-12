@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668284560369,
+  "endTime": 1668285476363,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32134,
+      "num": 17328,
+      "word": "苏有朋的第三部电影即将开机",
+      "onboard_time": 1668285013,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27268,
       "num": 22634,
       "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
@@ -491,20 +499,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20138,
+      "num": 15329,
+      "word": "伯克利黑帮",
+      "onboard_time": 1668283392,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 12670,
       "num": 759167,
       "word": "一镜到底跟随歼20编队巡航",
       "onboard_time": 1668228091,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 12014,
-      "num": 13959,
-      "word": "伯克利黑帮",
-      "onboard_time": 1668283392,
-      "rank": 48,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
