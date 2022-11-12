@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668287948845,
+  "endTime": 1668288949481,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 32134,
-      "num": 17328,
+      "num": 17540,
       "word": "苏有朋的第三部电影即将开机",
       "onboard_time": 1668285013,
       "rank": 30,
@@ -484,15 +484,15 @@
     },
     {
       "raw_hot": 31138,
-      "num": 16081,
+      "num": 17947,
       "word": "伯克利黑帮",
       "onboard_time": 1668283392,
       "rank": 48,
       "category": "财经"
     },
     {
-      "raw_hot": 27268,
-      "num": 27018,
+      "raw_hot": 29106,
+      "num": 29106,
       "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
       "onboard_time": 1668279135,
       "rank": 45,
@@ -507,12 +507,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14081,
-      "num": 14081,
+      "raw_hot": 21180,
+      "num": 21180,
       "word": "所谓24海里线不存在请注意用语",
       "onboard_time": 1668286151,
       "rank": 36,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 18076,
+      "num": 18076,
+      "word": "邻居称鲁某某是个有素质的人",
+      "onboard_time": 1668287592,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12670,
@@ -521,14 +529,6 @@
       "onboard_time": 1668228091,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 9628,
-      "num": 12652,
-      "word": "邻居称鲁某某是个有素质的人",
-      "onboard_time": 1668287592,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
