@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668248571294,
+  "endTime": 1668249579951,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -11,12 +11,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1851315,
-      "num": 1851315,
+      "raw_hot": 2064925,
+      "num": 2064925,
       "word": "次密接的阳性感染率",
       "onboard_time": 1668244290,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1820774,
+      "num": 1820774,
+      "word": "第35届金鸡奖红毯",
+      "onboard_time": 1668241468,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1791493,
@@ -57,14 +65,6 @@
       "onboard_time": 1668227437,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1395791,
-      "num": 1395791,
-      "word": "第35届金鸡奖红毯",
-      "onboard_time": 1668241468,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 1344742,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 924422,
+      "num": 272200,
+      "word": "林允胎毛刘海",
+      "onboard_time": 1668246928,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 885201,
       "num": 282272,
       "word": "重庆9个中心城区实施原则不出小区",
@@ -147,11 +155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866990,
+      "num": 261817,
+      "word": "陈飞宇摇头让站姐不要拍了",
+      "onboard_time": 1668248616,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 841925,
       "num": 841925,
       "word": "陈飞宇说听到热度破万消息有些恍惚",
       "onboard_time": 1668223168,
       "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 824114,
+      "num": 824114,
+      "word": "张艺凡仪态",
+      "onboard_time": 1668247769,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -169,14 +193,6 @@
       "onboard_time": 1668232413,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 787717,
-      "num": 272200,
-      "word": "林允胎毛刘海",
-      "onboard_time": 1668246928,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 785618,
@@ -265,6 +281,14 @@
       "onboard_time": 1668177034,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 693189,
+      "num": 264091,
+      "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+      "onboard_time": 1668247409,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 672271,
@@ -435,14 +459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 423644,
-      "num": 272135,
-      "word": "张艺凡仪态",
-      "onboard_time": 1668247769,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 408410,
       "num": 408410,
       "word": "女子租房遇奇葩隔断房电梯在房内",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 406564,
-      "num": 272114,
+      "num": 377584,
       "word": "北京新增12例社会面",
       "onboard_time": 1668245730,
       "rank": 44,
@@ -473,6 +489,14 @@
       "onboard_time": 1668231030,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404404,
+      "num": 267326,
+      "word": "中疾控回应是否会逐步取消集中隔离",
+      "onboard_time": 1668246391,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401782,
@@ -523,12 +547,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 352850,
-      "num": 267326,
-      "word": "中疾控回应是否会逐步取消集中隔离",
-      "onboard_time": 1668246391,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 364790,
+      "num": 203557,
+      "word": "张婧仪晒朱韵高中校服照",
+      "onboard_time": 1668248730,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347770,
@@ -553,14 +577,6 @@
       "onboard_time": 1668213266,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344328,
-      "num": 264091,
-      "word": "长沙女子自制霉豆腐长黑毛仍要吃",
-      "onboard_time": 1668247409,
-      "rank": 17,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 344239,
@@ -617,6 +633,14 @@
       "onboard_time": 1668219214,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319199,
+      "num": 227232,
+      "word": "金鸡奖女明星造型大赏",
+      "onboard_time": 1668246276,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317479,
@@ -713,14 +737,6 @@
       "onboard_time": 1668243269,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 278165,
-      "num": 227232,
-      "word": "金鸡奖女明星造型大赏",
-      "onboard_time": 1668246276,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278101,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245053,
+      "num": 141600,
+      "word": "黄渤邓超夸张小斐素颜好看",
+      "onboard_time": 1668246329,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244457,
       "num": 244457,
       "word": "白宇公主抱杨幂跑错方向",
@@ -875,8 +899,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233320,
+      "num": 140536,
+      "word": "命韵峋环唱的春天花会开",
+      "onboard_time": 1668249209,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231757,
-      "num": 137139,
+      "num": 140366,
       "word": "90后女生下班时间拍电影获金鸡奖",
       "onboard_time": 1668247295,
       "rank": 32,
@@ -1003,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215886,
+      "num": 215886,
+      "word": "歼20穿云造洞忍不住看亿遍",
+      "onboard_time": 1668245610,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 214129,
       "num": 214129,
       "word": "李峋我在哪哪里就是山顶",
@@ -1027,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206508,
+      "num": 206508,
+      "word": "空气炸锅烤红薯干",
+      "onboard_time": 1668247589,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200946,
       "num": 192310,
       "word": "黄明昊走在星辰大海吃瓜一线",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1668238529,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194667,
+      "num": 194667,
+      "word": "北京新增本土感染者98例",
+      "onboard_time": 1668247289,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193919,
@@ -1155,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172631,
-      "num": 172631,
-      "word": "歼20穿云造洞忍不住看亿遍",
-      "onboard_time": 1668245610,
-      "rank": 43,
-      "category": "军事"
-    },
-    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
@@ -1195,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160100,
-      "num": 160100,
-      "word": "北京新增本土感染者98例",
-      "onboard_time": 1668247289,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159046,
       "num": 159046,
       "word": "金汤匙",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 155572,
-      "num": 122546,
+      "num": 136299,
       "word": "国家卫健委解释为何取消次密接",
       "onboard_time": 1668244949,
       "rank": 34,
@@ -1315,12 +1355,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144439,
-      "num": 134018,
-      "word": "空气炸锅烤红薯干",
-      "onboard_time": 1668247589,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 143287,
+      "num": 143287,
+      "word": "毕业生藏200个小煤球给学弟学妹",
+      "onboard_time": 1668248489,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142952,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1668227850,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142672,
+      "num": 142672,
+      "word": "解说杯S3",
+      "onboard_time": 1668247050,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 142508,
@@ -1427,20 +1475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127433,
-      "num": 127433,
-      "word": "解说杯S3",
-      "onboard_time": 1668247050,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 126915,
       "num": 126915,
       "word": "NBA",
       "onboard_time": 1668234148,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124688,
+      "num": 124688,
+      "word": "专家建议大家做全世界没做过的事",
+      "onboard_time": 1668248969,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 122369,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 93818,
-      "num": 93818,
+      "num": 110665,
       "word": "武大靖模仿任子威沙僧式发言",
       "onboard_time": 1668246208,
       "rank": 41,
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76686,
+      "num": 110231,
+      "word": "2022IVL秋季赛",
+      "onboard_time": 1668249450,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76640,
       "num": 99490,
       "word": "差点把大哥打哭了",
@@ -1795,6 +1851,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71208,
+      "num": 109737,
+      "word": "解说杯",
+      "onboard_time": 1668249031,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69199,
       "num": 99518,
       "word": "王艺迪女单夺冠",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1668153580,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62568,
-      "num": 73166,
-      "word": "毕业生藏200个小煤球给学弟学妹",
-      "onboard_time": 1668248489,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 62542,
