@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668252862172,
+  "endTime": 1668256746185,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -9,6 +9,14 @@
       "onboard_time": 1668216931,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2855473,
+      "num": 2855473,
+      "word": "想见你",
+      "onboard_time": 1668253411,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2539061,
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1416843,
+      "num": 998685,
+      "word": "陈妍希 造型",
+      "onboard_time": 1668254192,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1344742,
       "num": 560741,
       "word": "王鹤棣假装为沈月提裙子",
@@ -147,12 +163,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1027314,
+      "num": 1027314,
+      "word": "第35届金鸡奖获奖名单",
+      "onboard_time": 1668255873,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1022800,
+      "num": 346154,
+      "word": "柳岩蝴蝶结好大",
+      "onboard_time": 1668252809,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1001074,
       "num": 1025135,
       "word": "银行以防疫为名让客户淋雨排队",
       "onboard_time": 1668221732,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 998533,
+      "num": 998533,
+      "word": "齐溪金鸡奖最佳女配角",
+      "onboard_time": 1668254251,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 965837,
@@ -177,6 +217,22 @@
       "onboard_time": 1668246928,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 924228,
+      "num": 150583,
+      "word": "张小斐 大气",
+      "onboard_time": 1668255934,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 890229,
+      "num": 152418,
+      "word": "辛柏青金鸡奖最佳男配角",
+      "onboard_time": 1668255034,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 885201,
@@ -387,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538983,
+      "num": 145679,
+      "word": "电影版想见你有金世佳",
+      "onboard_time": 1668255631,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527197,
       "num": 527197,
       "word": "专家建议大家做全世界没做过的事",
@@ -499,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435123,
+      "num": 435123,
+      "word": "妻子手卡压面机丈夫满眼心疼",
+      "onboard_time": 1668251371,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431123,
+      "num": 338245,
+      "word": "房产继承因已故妹妹无子女证明被卡",
+      "onboard_time": 1668254491,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424950,
       "num": 424950,
       "word": "朱一龙领奖嘴瓢太可爱了",
@@ -579,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390813,
+      "num": 390813,
+      "word": "爸爸拿体教资10年教不会儿子跳绳",
+      "onboard_time": 1668253418,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 389582,
       "num": 389582,
       "word": "饭店狗狗长期跟客人讨肉胖成猪",
@@ -609,6 +697,14 @@
       "onboard_time": 1668248730,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364455,
+      "num": 92515,
+      "word": "张艺兴你好星期六预告视频",
+      "onboard_time": 1668256653,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 347770,
@@ -667,12 +763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334191,
+      "num": 92491,
+      "word": "李峋反击方志靖",
+      "onboard_time": 1668256354,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331564,
       "num": 281654,
       "word": "吴京刘德华被李雪健发言说泪目了",
       "onboard_time": 1668182070,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328217,
+      "num": 328217,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1668254552,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 321723,
@@ -739,8 +851,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297388,
-      "num": 297388,
+      "raw_hot": 300131,
+      "num": 300131,
       "word": "大爷把红薯梗卖到韩国变黄金菜",
       "onboard_time": 1668250768,
       "rank": 26,
@@ -1003,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231303,
-      "num": 116183,
-      "word": "柳岩蝴蝶结好大",
-      "onboard_time": 1668252809,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 229912,
       "num": 229912,
       "word": "点燃我温暖你有领证剧情",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1668245610,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 215135,
+      "num": 113205,
+      "word": "记者卧底仙女管销售群",
+      "onboard_time": 1668255335,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214129,
@@ -1331,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163870,
-      "num": 118762,
-      "word": "妻子手卡压面机丈夫满眼心疼",
-      "onboard_time": 1668251371,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161726,
       "num": 128830,
       "word": "Gemini挑战周深高音",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1668225029,
       "rank": 47,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 154292,
+      "num": 154292,
+      "word": "女子用银杏叶自制婚纱",
+      "onboard_time": 1668251907,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153936,
@@ -1571,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128254,
+      "num": 111499,
+      "word": "男生为了增高有多辛苦",
+      "onboard_time": 1668254853,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 127617,
       "num": 103775,
       "word": "郑秀妍上菜反问顾客菜名",
@@ -1579,12 +1699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127508,
+      "num": 127508,
+      "word": "原来土豆也有祖孙三代",
+      "onboard_time": 1668252509,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126915,
       "num": 126915,
       "word": "NBA",
       "onboard_time": 1668234148,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125788,
+      "num": 125788,
+      "word": "老师是懂得签到的",
+      "onboard_time": 1668254073,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 122369,
@@ -1625,6 +1761,14 @@
       "onboard_time": 1668191954,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117625,
+      "num": 109363,
+      "word": "一看就是女孩的毛孩子",
+      "onboard_time": 1668256174,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 117098,
@@ -1811,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94972,
-      "num": 116139,
-      "word": "原来土豆也有祖孙三代",
-      "onboard_time": 1668252509,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94745,
       "num": 94745,
       "word": "洞庭湖底神秘图案并非遗址",
@@ -1955,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75798,
+      "num": 75798,
+      "word": "男子因纠纷赌气把女友锁车内",
+      "onboard_time": 1668256293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74509,
       "num": 74509,
       "word": "大多数人没见过的金色珠穆朗玛峰",
@@ -1963,12 +2107,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 73618,
-      "num": 116054,
-      "word": "女子用银杏叶自制婚纱",
-      "onboard_time": 1668251907,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 72192,
+      "num": 72192,
+      "word": "AG男团王者cos走秀",
+      "onboard_time": 1668255572,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 71208,
