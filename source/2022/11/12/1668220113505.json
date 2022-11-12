@@ -1,0 +1,410 @@
+{
+  "runTime": 1668220113505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3132152,
+        "num": 3132152,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1034195,
+        "num": 1034195,
+        "word": "易烊千玺金鸡奖最佳男主角提名VCR",
+        "onboard_time": 1668215370,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14113,
+        "num": 887977,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1791493,
+        "num": 826493,
+        "word": "老人遭鲁某推倒后多次冲向厨房",
+        "onboard_time": 1668214227,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 760247,
+        "num": 760247,
+        "word": "广州新增本土感染者3180例",
+        "onboard_time": 1668217770,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721653,
+        "num": 721653,
+        "word": "重庆新增本土确诊160例无症状1081例",
+        "onboard_time": 1668215247,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672271,
+        "num": 672271,
+        "word": "李峋哄朱韵睡觉",
+        "onboard_time": 1668218070,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575802,
+        "num": 575802,
+        "word": "乳房是情绪的靶向器官",
+        "onboard_time": 1668179014,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569745,
+        "num": 569745,
+        "word": "商户因体温枪没电被要求停业1天",
+        "onboard_time": 1668215549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465747,
+        "num": 465747,
+        "word": "男子常有饥饿感一查患上胃癌",
+        "onboard_time": 1668214769,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435426,
+        "num": 435426,
+        "word": "女子发现邻居家果树结十几种水果",
+        "onboard_time": 1668217412,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408073,
+        "num": 408073,
+        "word": "女子外卖被偷嫌疑人下跪道歉",
+        "onboard_time": 1668218013,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402294,
+        "num": 402294,
+        "word": "艺术类本科专业不得设专业方向",
+        "onboard_time": 1668216570,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401782,
+        "num": 401782,
+        "word": "优酷热度值破万的剧集",
+        "onboard_time": 1668218489,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397360,
+        "num": 397360,
+        "word": "王鹤棣说争取以后拿金鸡奖",
+        "onboard_time": 1668219990,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392744,
+        "num": 392744,
+        "word": "宝爸蹭喝宝宝酸奶喝出黑色异物",
+        "onboard_time": 1668213511,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385202,
+        "num": 385202,
+        "word": "某某某太强了",
+        "onboard_time": 1668177393,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377065,
+        "num": 377065,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 331617,
+        "num": 331617,
+        "word": "张俪印错的100件衣服用上了",
+        "onboard_time": 1668176134,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282915,
+        "num": 282915,
+        "word": "洞庭湖底现神秘图案",
+        "onboard_time": 1668213266,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279273,
+        "num": 279273,
+        "word": "谢可寅金鸡奖红毯彩排整全套",
+        "onboard_time": 1668214348,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246788,
+        "num": 246788,
+        "word": "爸爸用妻子姓名章为1岁儿子画像",
+        "onboard_time": 1668216810,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246201,
+        "num": 246201,
+        "word": "白敬亭尹峥好会亲",
+        "onboard_time": 1668184349,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244006,
+        "num": 244006,
+        "word": "女子租房遇奇葩隔断房电梯在房内",
+        "onboard_time": 1668212967,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236153,
+        "num": 236153,
+        "word": "波司登股价一年跌超四成",
+        "onboard_time": 1668218370,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210600,
+        "num": 210600,
+        "word": "黄明昊突然被采访的表情",
+        "onboard_time": 1668217650,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202923,
+        "num": 202923,
+        "word": "重庆一男子看病就医成社死现场",
+        "onboard_time": 1668210383,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177134,
+        "num": 177134,
+        "word": "苏州尝试二手房直售模式",
+        "onboard_time": 1668217948,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168883,
+        "num": 168883,
+        "word": "多地优化调整疫情防控措施",
+        "onboard_time": 1668211526,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161916,
+        "num": 161916,
+        "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+        "onboard_time": 1668174451,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159034,
+        "num": 159034,
+        "word": "李峋给朱韵的早安语音",
+        "onboard_time": 1668213387,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149207,
+        "num": 149207,
+        "word": "11月11日新增本土确诊1452例",
+        "onboard_time": 1668220051,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135317,
+        "num": 135317,
+        "word": "金汤匙",
+        "onboard_time": 1668214288,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133349,
+        "num": 133349,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668212185,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131059,
+        "num": 131059,
+        "word": "父母给女儿取名龙葵寓意向阳而生",
+        "onboard_time": 1668173735,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130934,
+        "num": 130934,
+        "word": "QQ内测微信登录功能",
+        "onboard_time": 1668182672,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128907,
+        "num": 128907,
+        "word": "流浪狗因治愈系笑容成功被收养",
+        "onboard_time": 1668213869,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127364,
+        "num": 127364,
+        "word": "张朝阳称躺着玩手机对颈椎更好",
+        "onboard_time": 1668219214,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "太空快递小哥再出发",
+        "onboard_time": 1668219813,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113499,
+        "num": 113499,
+        "word": "杨幂肖砚的格局",
+        "onboard_time": 1668219032,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111501,
+        "num": 111501,
+        "word": "35岁梅西第5次参加世界杯",
+        "onboard_time": 1668209663,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111168,
+        "num": 111168,
+        "word": "蔡徐坤独自演偶像剧",
+        "onboard_time": 1668187938,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109947,
+        "num": 109947,
+        "word": "郑州在重点文物单位建方舱被叫停",
+        "onboard_time": 1668219871,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109146,
+        "num": 109146,
+        "word": "杭州调整认房又认贷",
+        "onboard_time": 1668210923,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "老婆怀孕后老公在做些什么",
+        "onboard_time": 1668190935,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106377,
+        "num": 106377,
+        "word": "男子戴白手套欲撬锁主人敲门回应",
+        "onboard_time": 1668201014,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102931,
+        "num": 102931,
+        "word": "LBL",
+        "onboard_time": 1668191954,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102872,
+        "num": 102872,
+        "word": "刘氏兄弟母亲确认两人将入籍中国",
+        "onboard_time": 1668219691,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101962,
+        "num": 101962,
+        "word": "解读二十条疫情防控优化新措施",
+        "onboard_time": 1668219451,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100073,
+        "num": 100073,
+        "word": "第一次见这么懒的猫",
+        "onboard_time": 1668196933,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#探寻中国式现代化之路#"
+    }
+  }
+}

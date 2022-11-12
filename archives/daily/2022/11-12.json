@@ -1,13 +1,21 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668218291948,
+  "endTime": 1668220113505,
   "band_list": [
     {
-      "raw_hot": 1652635,
-      "num": 392116,
+      "raw_hot": 3132152,
+      "num": 3132152,
       "word": "深圳大学回应",
       "onboard_time": 1668216931,
       "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1791493,
+      "num": 1483909,
+      "word": "老人遭鲁某推倒后多次冲向厨房",
+      "onboard_time": 1668214227,
+      "rank": 0,
       "category": "社会负面"
     },
     {
@@ -17,14 +25,6 @@
       "onboard_time": 1668179014,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1483909,
-      "num": 1483909,
-      "word": "老人遭鲁某推倒后多次冲向厨房",
-      "onboard_time": 1668214227,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1329929,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760247,
+      "num": 760247,
+      "word": "广州新增本土感染者3180例",
+      "onboard_time": 1668217770,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726126,
       "num": 726126,
       "word": "重庆新增本土感染者783例",
@@ -75,12 +83,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 672271,
+      "num": 672271,
+      "word": "李峋哄朱韵睡觉",
+      "onboard_time": 1668218070,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629846,
       "num": 629846,
       "word": "QQ内测微信登录功能",
       "onboard_time": 1668182672,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 569745,
+      "num": 569745,
+      "word": "商户因体温枪没电被要求停业1天",
+      "onboard_time": 1668215549,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490153,
@@ -99,11 +123,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471772,
-      "num": 471772,
-      "word": "商户因体温枪没电被要求停业1天",
-      "onboard_time": 1668215549,
-      "rank": 5,
+      "raw_hot": 465747,
+      "num": 465747,
+      "word": "男子常有饥饿感一查患上胃癌",
+      "onboard_time": 1668214769,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -123,11 +147,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 448062,
-      "num": 448062,
-      "word": "男子常有饥饿感一查患上胃癌",
-      "onboard_time": 1668214769,
-      "rank": 8,
+      "raw_hot": 435426,
+      "num": 435426,
+      "word": "女子发现邻居家果树结十几种水果",
+      "onboard_time": 1668217412,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 424871,
-      "num": 374101,
+      "num": 402294,
       "word": "艺术类本科专业不得设专业方向",
       "onboard_time": 1668216570,
       "rank": 12,
@@ -155,12 +179,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408073,
+      "num": 408073,
+      "word": "女子外卖被偷嫌疑人下跪道歉",
+      "onboard_time": 1668218013,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406253,
       "num": 110751,
       "word": "学校回应翻墙男子骑车三天三夜",
       "onboard_time": 1668173791,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 401782,
+      "num": 401782,
+      "word": "优酷热度值破万的剧集",
+      "onboard_time": 1668218489,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 397360,
+      "num": 397360,
+      "word": "王鹤棣说争取以后拿金鸡奖",
+      "onboard_time": 1668219990,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377065,
+      "num": 377065,
+      "word": "男孩只买1个馒头被店主强留吃饭",
+      "onboard_time": 1668218013,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 347658,
@@ -251,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246788,
+      "num": 246788,
+      "word": "爸爸用妻子姓名章为1岁儿子画像",
+      "onboard_time": 1668216810,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246254,
       "num": 246254,
       "word": "女子精致出摊日销200盒炒粉走红",
@@ -265,6 +329,14 @@
       "onboard_time": 1668173311,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236153,
+      "num": 236153,
+      "word": "波司登股价一年跌超四成",
+      "onboard_time": 1668218370,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 234477,
@@ -307,36 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210600,
+      "num": 210600,
+      "word": "黄明昊突然被采访的表情",
+      "onboard_time": 1668217650,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193356,
       "num": 193356,
       "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
       "onboard_time": 1668174451,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189606,
-      "num": 189606,
-      "word": "女子发现邻居家果树结十几种水果",
-      "onboard_time": 1668217412,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188304,
-      "num": 188304,
-      "word": "广州新增本土感染者3180例",
-      "onboard_time": 1668217770,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187731,
-      "num": 146055,
-      "word": "李峋哄朱韵睡觉",
-      "onboard_time": 1668218070,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 186768,
@@ -363,20 +419,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 177134,
+      "num": 177134,
+      "word": "苏州尝试二手房直售模式",
+      "onboard_time": 1668217948,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
       "onboard_time": 1668210923,
       "rank": 24,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 163288,
-      "num": 158955,
-      "word": "黄明昊突然被采访的表情",
-      "onboard_time": 1668217650,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 159046,
@@ -401,6 +457,14 @@
       "onboard_time": 1668207742,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149207,
+      "num": 149207,
+      "word": "11月11日新增本土确诊1452例",
+      "onboard_time": 1668220051,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148982,
@@ -467,28 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136117,
-      "num": 136117,
-      "word": "女子外卖被偷嫌疑人下跪道歉",
-      "onboard_time": 1668218013,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134500,
       "num": 134500,
       "word": "35岁梅西第5次参加世界杯",
       "onboard_time": 1668209663,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132081,
-      "num": 132081,
-      "word": "爸爸用妻子姓名章为1岁儿子画像",
-      "onboard_time": 1668216810,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131179,
@@ -507,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127364,
+      "num": 127364,
+      "word": "张朝阳称躺着玩手机对颈椎更好",
+      "onboard_time": 1668219214,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122288,
       "num": 122288,
       "word": "罗伊毕业",
       "onboard_time": 1668183691,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 121595,
-      "num": 121595,
-      "word": "苏州尝试二手房直售模式",
-      "onboard_time": 1668217948,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 118256,
@@ -531,12 +579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117098,
+      "num": 117098,
+      "word": "太空快递小哥再出发",
+      "onboard_time": 1668219813,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 114085,
       "num": 114085,
       "word": "蔡徐坤独自演偶像剧",
       "onboard_time": 1668187938,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113499,
+      "num": 113499,
+      "word": "杨幂肖砚的格局",
+      "onboard_time": 1668219032,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 111599,
@@ -555,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109947,
+      "num": 109947,
+      "word": "郑州在重点文物单位建方舱被叫停",
+      "onboard_time": 1668219871,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109465,
       "num": 109465,
       "word": "第一次见这么懒的猫",
@@ -571,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102872,
+      "num": 102872,
+      "word": "刘氏兄弟母亲确认两人将入籍中国",
+      "onboard_time": 1668219691,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102225,
       "num": 102225,
       "word": "狗子此生见过最投缘的女孩",
       "onboard_time": 1668169891,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101962,
+      "num": 101962,
+      "word": "解读二十条疫情防控优化新措施",
+      "onboard_time": 1668219451,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101845,
@@ -633,14 +721,6 @@
       "onboard_time": 1668162935,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94356,
-      "num": 94356,
-      "word": "男孩只买1个馒头被店主强留吃饭",
-      "onboard_time": 1668218013,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 93755,
@@ -787,8 +867,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 9697,
-      "num": 881450,
+      "raw_hot": 14113,
+      "num": 887977,
       "word": "天舟四号撤离视角看中国空间站",
       "onboard_time": 1668140910,
       "rank": 2,
