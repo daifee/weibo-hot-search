@@ -1,0 +1,410 @@
+{
+  "runTime": 1668258009199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3073214,
+        "num": 3073214,
+        "word": "想见你",
+        "onboard_time": 1668253411,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1883928,
+        "num": 1883928,
+        "word": "第35届金鸡奖获奖名单",
+        "onboard_time": 1668255873,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7554,
+        "num": 1629340,
+        "word": "一镜到底跟随歼20编队巡航",
+        "onboard_time": 1668228091,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1495904,
+        "num": 1495904,
+        "word": "张小斐 大气",
+        "onboard_time": 1668255934,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665983,
+        "num": 665983,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541903,
+        "num": 541903,
+        "word": "樊振东vs林高远",
+        "onboard_time": 1668254552,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453889,
+        "num": 453889,
+        "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+        "onboard_time": 1668247409,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 438512,
+        "num": 438512,
+        "word": "爸爸拿体教资10年教不会儿子跳绳",
+        "onboard_time": 1668253418,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 410198,
+        "num": 410198,
+        "word": "专家建议大家做全世界没做过的事",
+        "onboard_time": 1668248969,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 348958,
+        "num": 348958,
+        "word": "王者荣耀",
+        "onboard_time": 1668257134,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1745216,
+        "num": 348947,
+        "word": "关晓彤 造型师",
+        "onboard_time": 1668250288,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1480195,
+        "num": 348632,
+        "word": "陈妍希 造型",
+        "onboard_time": 1668254192,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1452815,
+        "num": 348521,
+        "word": "柳岩蝴蝶结好大",
+        "onboard_time": 1668252809,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598906,
+        "num": 348155,
+        "word": "房产继承因已故妹妹无子女证明被卡",
+        "onboard_time": 1668254491,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940676,
+        "num": 348054,
+        "word": "前国足主帅李铁被带走",
+        "onboard_time": 1668250469,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 347901,
+        "num": 347901,
+        "word": "妻子手卡压面机丈夫满眼心疼",
+        "onboard_time": 1668251371,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422308,
+        "num": 311273,
+        "word": "记者卧底仙女管销售群",
+        "onboard_time": 1668255335,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256996,
+        "num": 256996,
+        "word": "一看就是女孩的毛孩子",
+        "onboard_time": 1668256174,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254141,
+        "num": 254141,
+        "word": "中疾控回应是否会逐步取消集中隔离",
+        "onboard_time": 1668246391,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231376,
+        "num": 231376,
+        "word": "大爷把红薯梗卖到韩国变黄金菜",
+        "onboard_time": 1668250768,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 629338,
+        "num": 222691,
+        "word": "齐溪金鸡奖最佳女配角",
+        "onboard_time": 1668254251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593803,
+        "num": 221997,
+        "word": "辛柏青金鸡奖最佳男配角",
+        "onboard_time": 1668255034,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498637,
+        "num": 219073,
+        "word": "沈腾 没来",
+        "onboard_time": 1668257614,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209419,
+        "num": 209419,
+        "word": "1岁男孩餐后过敏肿成可达鸭",
+        "onboard_time": 1668242970,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167238,
+        "num": 167238,
+        "word": "男生为了增高有多辛苦",
+        "onboard_time": 1668254853,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 474647,
+        "num": 160538,
+        "word": "电影版想见你有金世佳",
+        "onboard_time": 1668255631,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465372,
+        "num": 153202,
+        "word": "徐娇国风造型 大气",
+        "onboard_time": 1668256895,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141667,
+        "num": 141667,
+        "word": "有个爱管你的女朋友什么体验",
+        "onboard_time": 1668250109,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141426,
+        "num": 141426,
+        "word": "女子用银杏叶自制婚纱",
+        "onboard_time": 1668251907,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122912,
+        "num": 122912,
+        "word": "原来土豆也有祖孙三代",
+        "onboard_time": 1668252509,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469595,
+        "num": 120426,
+        "word": "张艺兴你好星期六预告视频",
+        "onboard_time": 1668256653,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434548,
+        "num": 119086,
+        "word": "陈飞宇摇头让站姐不要拍了",
+        "onboard_time": 1668248616,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115711,
+        "num": 115711,
+        "word": "男子因纠纷赌气把女友锁车内",
+        "onboard_time": 1668256293,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114742,
+        "num": 114742,
+        "word": "毕业生藏200个小煤球给学弟学妹",
+        "onboard_time": 1668248489,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 108505,
+        "num": 108505,
+        "word": "老师是懂得签到的",
+        "onboard_time": 1668254073,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108111,
+        "num": 108111,
+        "word": "北京新增12例社会面",
+        "onboard_time": 1668245730,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104545,
+        "num": 104545,
+        "word": "河南入冬第一场雪来了",
+        "onboard_time": 1668245249,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97434,
+        "num": 97434,
+        "word": "国家卫健委解释为何取消次密接",
+        "onboard_time": 1668244949,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "小学生将班主任当银行存零花钱",
+        "onboard_time": 1668249752,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 93035,
+        "num": 93035,
+        "word": "空气炸锅烤红薯干",
+        "onboard_time": 1668247589,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 429127,
+        "num": 91201,
+        "word": "你好星期六王鹤棣hugme舞台",
+        "onboard_time": 1668257675,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350280,
+        "num": 91064,
+        "word": "李峋表白朱韵因为爱",
+        "onboard_time": 1668253770,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88874,
+        "num": 88874,
+        "word": "4小伙戴假发穿裙子客串伴娘",
+        "onboard_time": 1668257374,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87179,
+        "num": 87179,
+        "word": "北京新增本土感染者98例",
+        "onboard_time": 1668247289,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82734,
+        "num": 82734,
+        "word": "重庆交大一学生被公告退学",
+        "onboard_time": 1668229531,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80316,
+        "num": 80316,
+        "word": "歼20穿云造洞忍不住看亿遍",
+        "onboard_time": 1668245610,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 79522,
+        "num": 79522,
+        "word": "库里 天神下凡",
+        "onboard_time": 1668232413,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71006,
+        "num": 77051,
+        "word": "各色秋叶壁纸上新了",
+        "onboard_time": 1668239308,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280043,
+        "num": 76280,
+        "word": "白敬亭尹峥终于表白了",
+        "onboard_time": 1668257974,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75301,
+        "num": 75301,
+        "word": "陕西发现夏时期大型中心聚落遗址",
+        "onboard_time": 1668250891,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}

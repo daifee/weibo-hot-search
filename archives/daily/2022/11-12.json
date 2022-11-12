@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668256746185,
+  "endTime": 1668258009199,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2855473,
-      "num": 2855473,
+      "raw_hot": 3073214,
+      "num": 3073214,
       "word": "想见你",
       "onboard_time": 1668253411,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1668244290,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1883928,
+      "num": 1883928,
+      "word": "第35届金鸡奖获奖名单",
+      "onboard_time": 1668255873,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1820774,
@@ -83,20 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1495904,
+      "num": 1495904,
+      "word": "张小斐 大气",
+      "onboard_time": 1668255934,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1480195,
+      "num": 998685,
+      "word": "陈妍希 造型",
+      "onboard_time": 1668254192,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1452815,
+      "num": 348521,
+      "word": "柳岩蝴蝶结好大",
+      "onboard_time": 1668252809,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1446989,
       "num": 1446989,
       "word": "林孝埈再次退赛",
       "onboard_time": 1668227437,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1416843,
-      "num": 998685,
-      "word": "陈妍希 造型",
-      "onboard_time": 1668254192,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1344742,
@@ -163,22 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1027314,
-      "num": 1027314,
-      "word": "第35届金鸡奖获奖名单",
-      "onboard_time": 1668255873,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1022800,
-      "num": 346154,
-      "word": "柳岩蝴蝶结好大",
-      "onboard_time": 1668252809,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1001074,
       "num": 1025135,
       "word": "银行以防疫为名让客户淋雨排队",
@@ -219,16 +227,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 924228,
-      "num": 150583,
-      "word": "张小斐 大气",
-      "onboard_time": 1668255934,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 890229,
-      "num": 152418,
+      "num": 221997,
       "word": "辛柏青金鸡奖最佳男配角",
       "onboard_time": 1668255034,
       "rank": 20,
@@ -411,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 598906,
+      "num": 348155,
+      "word": "房产继承因已故妹妹无子女证明被卡",
+      "onboard_time": 1668254491,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580664,
       "num": 353513,
       "word": "倪妮金鸡奖绿野仙踪造型",
@@ -443,8 +451,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541903,
+      "num": 541903,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1668254552,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538983,
-      "num": 145679,
+      "num": 160538,
       "word": "电影版想见你有金世佳",
       "onboard_time": 1668255631,
       "rank": 23,
@@ -457,6 +473,14 @@
       "onboard_time": 1668248969,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 498637,
+      "num": 219073,
+      "word": "沈腾 没来",
+      "onboard_time": 1668257614,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 496619,
@@ -499,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469595,
+      "num": 120426,
+      "word": "张艺兴你好星期六预告视频",
+      "onboard_time": 1668256653,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468715,
       "num": 468715,
       "word": "官方回应四川现乐山大佛孪生兄弟",
@@ -513,6 +545,14 @@
       "onboard_time": 1668214769,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465372,
+      "num": 153202,
+      "word": "徐娇国风造型 大气",
+      "onboard_time": 1668256895,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463019,
@@ -555,6 +595,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 438512,
+      "num": 438512,
+      "word": "爸爸拿体教资10年教不会儿子跳绳",
+      "onboard_time": 1668253418,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 435491,
       "num": 435491,
       "word": "女子发现邻居家果树结十几种水果",
@@ -571,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431123,
-      "num": 338245,
-      "word": "房产继承因已故妹妹无子女证明被卡",
-      "onboard_time": 1668254491,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 429127,
+      "num": 91201,
+      "word": "你好星期六王鹤棣hugme舞台",
+      "onboard_time": 1668257675,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 424950,
@@ -593,6 +641,14 @@
       "onboard_time": 1668216570,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 422308,
+      "num": 311273,
+      "word": "记者卧底仙女管销售群",
+      "onboard_time": 1668255335,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408410,
@@ -659,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390813,
-      "num": 390813,
-      "word": "爸爸拿体教资10年教不会儿子跳绳",
-      "onboard_time": 1668253418,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 389582,
       "num": 389582,
       "word": "饭店狗狗长期跟客人讨肉胖成猪",
@@ -699,12 +747,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 364455,
-      "num": 92515,
-      "word": "张艺兴你好星期六预告视频",
-      "onboard_time": 1668256653,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 350280,
+      "num": 91064,
+      "word": "李峋表白朱韵因为爱",
+      "onboard_time": 1668253770,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348958,
+      "num": 348958,
+      "word": "王者荣耀",
+      "onboard_time": 1668257134,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 347770,
@@ -777,14 +833,6 @@
       "onboard_time": 1668182070,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328217,
-      "num": 328217,
-      "word": "樊振东vs林高远",
-      "onboard_time": 1668254552,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 321723,
@@ -923,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280043,
+      "num": 76280,
+      "word": "白敬亭尹峥终于表白了",
+      "onboard_time": 1668257974,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278101,
       "num": 278101,
       "word": "李峋给朱韵的早安语音",
@@ -985,6 +1041,14 @@
       "onboard_time": 1668223590,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256996,
+      "num": 256996,
+      "word": "一看就是女孩的毛孩子",
+      "onboard_time": 1668256174,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 256350,
@@ -1243,14 +1307,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 215135,
-      "num": 113205,
-      "word": "记者卧底仙女管销售群",
-      "onboard_time": 1668255335,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214129,
       "num": 214129,
       "word": "李峋我在哪哪里就是山顶",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1668210923,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 167238,
+      "num": 167238,
+      "word": "男生为了增高有多辛苦",
+      "onboard_time": 1668254853,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 164100,
@@ -1683,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128254,
-      "num": 111499,
-      "word": "男生为了增高有多辛苦",
-      "onboard_time": 1668254853,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 127617,
       "num": 103775,
       "word": "郑秀妍上菜反问顾客菜名",
@@ -1763,20 +1819,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117625,
-      "num": 109363,
-      "word": "一看就是女孩的毛孩子",
-      "onboard_time": 1668256174,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 117098,
       "num": 117098,
       "word": "太空快递小哥再出发",
       "onboard_time": 1668219813,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 115711,
+      "num": 115711,
+      "word": "男子因纠纷赌气把女友锁车内",
+      "onboard_time": 1668256293,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114085,
@@ -1836,7 +1892,7 @@
     },
     {
       "raw_hot": 105042,
-      "num": 105042,
+      "num": 1629340,
       "word": "一镜到底跟随歼20编队巡航",
       "onboard_time": 1668228091,
       "rank": 44,
@@ -2011,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88874,
+      "num": 88874,
+      "word": "4小伙戴假发穿裙子客串伴娘",
+      "onboard_time": 1668257374,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86940,
       "num": 86940,
       "word": "周深新歌打开了快乐开关",
@@ -2088,14 +2152,6 @@
       "word": "女孩用毛线钩出与母亲相处瞬间",
       "onboard_time": 1668236849,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75798,
-      "num": 75798,
-      "word": "男子因纠纷赌气把女友锁车内",
-      "onboard_time": 1668256293,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
