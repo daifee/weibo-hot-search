@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668281629359,
+  "endTime": 1668284560369,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -475,20 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23217,
-      "num": 23217,
-      "word": "猫和老鼠的新版动画片",
-      "onboard_time": 1668279495,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 22634,
+      "raw_hot": 27268,
       "num": 22634,
       "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
       "onboard_time": 1668279135,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26027,
+      "num": 23217,
+      "word": "猫和老鼠的新版动画片",
+      "onboard_time": 1668279495,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 12670,
@@ -497,6 +497,14 @@
       "onboard_time": 1668228091,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 12014,
+      "num": 13959,
+      "word": "伯克利黑帮",
+      "onboard_time": 1668283392,
+      "rank": 48,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

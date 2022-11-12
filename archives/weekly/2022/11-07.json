@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668281629359,
+  "endTime": 1668284560369,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -13387,12 +13387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27268,
+      "num": 22634,
+      "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
+      "onboard_time": 1668279135,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26158,
       "num": 317978,
       "word": "95后湖南姑娘战舰上操作导弹超飒",
       "onboard_time": 1668047065,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26027,
+      "num": 23217,
+      "word": "猫和老鼠的新版动画片",
+      "onboard_time": 1668279495,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 24981,
@@ -13411,14 +13427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23217,
-      "num": 23217,
-      "word": "猫和老鼠的新版动画片",
-      "onboard_time": 1668279495,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 23068,
       "num": 23068,
       "word": "网课爆破绝非恶作剧这么简单",
@@ -13431,14 +13439,6 @@
       "num": 22804,
       "word": "7种失眠类型你属于哪一种",
       "onboard_time": 1668030072,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22634,
-      "num": 22634,
-      "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
-      "onboard_time": 1668279135,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -13505,6 +13505,14 @@
       "onboard_time": 1667849711,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12014,
+      "num": 13959,
+      "word": "伯克利黑帮",
+      "onboard_time": 1668283392,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 10972,
