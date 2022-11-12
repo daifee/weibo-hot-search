@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668277585445,
+  "endTime": 1668278546510,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -7395,6 +7395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207614,
+      "num": 207614,
+      "word": "第一次见这么漂亮的小狗",
+      "onboard_time": 1668272665,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207574,
       "num": 149001,
       "word": "刘耀文下课了跳舞视频",
@@ -7657,14 +7665,6 @@
       "onboard_time": 1668045085,
       "rank": 41,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 196310,
-      "num": 196310,
-      "word": "第一次见这么漂亮的小狗",
-      "onboard_time": 1668272665,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 196269,
@@ -8619,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168901,
+      "num": 72338,
+      "word": "李薇考第一",
+      "onboard_time": 1668276976,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168837,
       "num": 154690,
       "word": "偷偷藏不住站内预约破50万",
@@ -9017,14 +9025,6 @@
       "onboard_time": 1668161612,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 156431,
-      "num": 60301,
-      "word": "李薇考第一",
-      "onboard_time": 1668276976,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 156189,

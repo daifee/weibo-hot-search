@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668277585445,
+  "endTime": 1668278546510,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -13867,6 +13867,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 207614,
+      "num": 207614,
+      "word": "第一次见这么漂亮的小狗",
+      "onboard_time": 1668272665,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207574,
       "num": 149001,
       "word": "刘耀文下课了跳舞视频",
@@ -14409,14 +14417,6 @@
       "onboard_time": 1667374047,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 196310,
-      "num": 196310,
-      "word": "第一次见这么漂亮的小狗",
-      "onboard_time": 1668272665,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 196269,
@@ -15947,6 +15947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 168901,
+      "num": 72338,
+      "word": "李薇考第一",
+      "onboard_time": 1668276976,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168885,
       "num": 168885,
       "word": "管泽元业务能力",
@@ -16817,14 +16825,6 @@
       "onboard_time": 1667221767,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 156431,
-      "num": 60301,
-      "word": "李薇考第一",
-      "onboard_time": 1668276976,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 156189,

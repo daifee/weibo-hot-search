@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/07 00:30:03 ~ 2022/11/13 02:26:25
+本榜单时间：2022/11/07 00:30:03 ~ 2022/11/13 02:42:26
 </p>
 </blockquote>
 <p>
@@ -5559,6 +5559,12 @@ BOYSTORY自称出道四年仍是新人（热度：216480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E6%BC%82%E4%BA%AE%E7%9A%84%E5%B0%8F%E7%8B%97%23" target="weibo">
+第一次见这么漂亮的小狗（热度：207614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%B8%8B%E8%AF%BE%E4%BA%86%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23" target="weibo">
 刘耀文下课了跳舞视频（热度：207574）
 </a>
@@ -5753,12 +5759,6 @@ minnie音中横板直拍（热度：206492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0360%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%A7%A6%E7%A2%B0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%23" target="weibo">
 周鸿祎称360基本不触碰用户数据（热度：196674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E6%BC%82%E4%BA%AE%E7%9A%84%E5%B0%8F%E7%8B%97%23" target="weibo">
-第一次见这么漂亮的小狗（热度：196310）
 </a>
 </li>
 
@@ -6477,6 +6477,12 @@ IVE获GMA新人奖（热度：172324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%80%83%E7%AC%AC%E4%B8%80%23" target="weibo">
+李薇考第一（热度：168901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%AB%99%E5%86%85%E9%A2%84%E7%BA%A6%E7%A0%B450%E4%B8%87%23" target="weibo">
 偷偷藏不住站内预约破50万（热度：168837）
 </a>
@@ -6773,12 +6779,6 @@ NEVERLAND改编王一博无感（热度：157138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%86%9F%E7%A8%B3%E9%87%8D%E7%9A%84%E6%A9%98%E7%8C%AB%23" target="weibo">
 成熟稳重的橘猫（热度：156537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%80%83%E7%AC%AC%E4%B8%80%23" target="weibo">
-李薇考第一（热度：156431）
 </a>
 </li>
 
