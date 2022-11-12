@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668224000399,
+  "endTime": 1668224410559,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1604639,
+      "num": 1604639,
+      "word": "刘氏兄弟母亲确认两人将入籍中国",
+      "onboard_time": 1668219691,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1602272,
       "num": 1602272,
       "word": "疯狂动物城",
@@ -905,14 +913,6 @@
       "onboard_time": 1668179014,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1517917,
-      "num": 1517917,
-      "word": "刘氏兄弟母亲确认两人将入籍中国",
-      "onboard_time": 1668219691,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 1516741,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344742,
+      "num": 560741,
+      "word": "王鹤棣假装为沈月提裙子",
+      "onboard_time": 1668222811,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1344670,
       "num": 1344670,
       "word": "官方辟谣错过女儿成人礼书记开公司",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1667610150,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1265642,
-      "num": 560741,
-      "word": "王鹤棣假装为沈月提裙子",
-      "onboard_time": 1668222811,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1251445,
@@ -4875,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534103,
+      "num": 534103,
+      "word": "银行以防疫为名让客户淋雨排队",
+      "onboard_time": 1668221732,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533954,
       "num": 533954,
       "word": "女子长期穿高跟鞋致双脚变形",
@@ -6112,14 +6120,6 @@
       "word": "家中失火4岁女孩奶声奶气打119",
       "onboard_time": 1668125787,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444879,
-      "num": 444879,
-      "word": "银行以防疫为名让客户淋雨排队",
-      "onboard_time": 1668221732,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9011,6 +9011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 319630,
+      "num": 319630,
+      "word": "张朝阳称躺着玩手机对颈椎更好",
+      "onboard_time": 1668219214,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319009,
       "num": 319009,
       "word": "德国队公布世界杯大名单",
@@ -9539,14 +9547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301136,
-      "num": 301136,
-      "word": "张朝阳称躺着玩手机对颈椎更好",
-      "onboard_time": 1668219214,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "为什么年轻人开始回潮传统了",
@@ -9681,6 +9681,14 @@
       "onboard_time": 1668136586,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296853,
+      "num": 296853,
+      "word": "女子回家在楼道发现被遗弃男婴",
+      "onboard_time": 1668220650,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296582,
@@ -10643,14 +10651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265660,
-      "num": 265660,
-      "word": "女子回家在楼道发现被遗弃男婴",
-      "onboard_time": 1668220650,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265516,
       "num": 265516,
       "word": "陈飞宇张婧仪的吻戏",
@@ -10945,6 +10945,14 @@
       "onboard_time": 1668090746,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257060,
+      "num": 257060,
+      "word": "李泳知rap",
+      "onboard_time": 1668223590,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 256532,
@@ -12313,14 +12321,6 @@
       "onboard_time": 1667292925,
       "rank": 26,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 218756,
-      "num": 218756,
-      "word": "李泳知rap",
-      "onboard_time": 1668223590,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 218746,
@@ -16339,6 +16339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144696,
+      "num": 144696,
+      "word": "罗晋新剧开播就立flag",
+      "onboard_time": 1668222090,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "原来小狗也只喜欢听漂亮话",
@@ -16497,6 +16505,14 @@
       "onboard_time": 1667625268,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "命韵峋环狐狸精版吃醋",
+      "onboard_time": 1668223110,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 142875,
@@ -16993,14 +17009,6 @@
       "onboard_time": 1667476286,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 135253,
-      "num": 135253,
-      "word": "罗晋新剧开播就立flag",
-      "onboard_time": 1668222090,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 135219,
@@ -17779,6 +17787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124512,
+      "num": 124512,
+      "word": "骑士vs勇士",
+      "onboard_time": 1668219509,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124461,
       "num": 124461,
       "word": "好想穿着羽绒服洗澡",
@@ -17913,6 +17929,14 @@
       "onboard_time": 1667318968,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "十一月的笑帮",
+      "onboard_time": 1668224189,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 122307,
@@ -18193,6 +18217,14 @@
       "onboard_time": 1667359946,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 119241,
+      "num": 119241,
+      "word": "贺峻霖光影星播客海报",
+      "onboard_time": 1668224189,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 119167,
@@ -18691,6 +18723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111263,
+      "num": 111263,
+      "word": "基金经理网恋被工厂女工骗近30万",
+      "onboard_time": 1668223950,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111222,
       "num": 111222,
       "word": "冬天需要这个猫毯",
@@ -19123,14 +19163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105371,
-      "num": 105371,
-      "word": "命韵峋环狐狸精版吃醋",
-      "onboard_time": 1668223110,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 105343,
       "num": 93408,
       "word": "谭松韵说不忘初心",
@@ -19505,14 +19537,6 @@
       "onboard_time": 1667432181,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100548,
-      "num": 100548,
-      "word": "骑士vs勇士",
-      "onboard_time": 1668219509,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 100540,
@@ -20227,6 +20251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93327,
+      "num": 93327,
+      "word": "babyincar你用对了吗",
+      "onboard_time": 1668223590,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93157,
       "num": 93157,
       "word": "哈士奇的正确使用方式",
@@ -20571,14 +20603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89959,
-      "num": 89959,
-      "word": "babyincar你用对了吗",
-      "onboard_time": 1668223590,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89872,
       "num": 89872,
       "word": "一图了解优化疫情防控二十条",
@@ -20881,6 +20905,14 @@
       "onboard_time": 1667906251,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87005,
+      "num": 87005,
+      "word": "张凌赫唱星辰大海主题曲",
+      "onboard_time": 1668224370,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 86940,
@@ -21729,14 +21761,6 @@
       "onboard_time": 1668074367,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77485,
-      "num": 77485,
-      "word": "基金经理网恋被工厂女工骗近30万",
-      "onboard_time": 1668223950,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77395,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668224000399,
+  "endTime": 1668224410559,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -19,6 +19,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1604639,
+      "num": 1604639,
+      "word": "刘氏兄弟母亲确认两人将入籍中国",
+      "onboard_time": 1668219691,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1526048,
       "num": 690065,
       "word": "乳房是情绪的靶向器官",
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1517917,
-      "num": 1517917,
-      "word": "刘氏兄弟母亲确认两人将入籍中国",
-      "onboard_time": 1668219691,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 1344742,
+      "num": 560741,
+      "word": "王鹤棣假装为沈月提裙子",
+      "onboard_time": 1668222811,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1329929,
@@ -41,14 +49,6 @@
       "onboard_time": 1668177393,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1265642,
-      "num": 560741,
-      "word": "王鹤棣假装为沈月提裙子",
-      "onboard_time": 1668222811,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1080947,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534103,
+      "num": 534103,
+      "word": "银行以防疫为名让客户淋雨排队",
+      "onboard_time": 1668221732,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490153,
       "num": 490153,
       "word": "奶茶店因服务员先说欢迎光临被封",
@@ -201,14 +209,6 @@
       "onboard_time": 1668176134,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444879,
-      "num": 444879,
-      "word": "银行以防疫为名让客户淋雨排队",
-      "onboard_time": 1668221732,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435491,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319630,
+      "num": 319630,
+      "word": "张朝阳称躺着玩手机对颈椎更好",
+      "onboard_time": 1668219214,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317479,
       "num": 317479,
       "word": "多地优化调整疫情防控措施",
@@ -323,11 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301136,
-      "num": 301136,
-      "word": "张朝阳称躺着玩手机对颈椎更好",
-      "onboard_time": 1668219214,
-      "rank": 37,
+      "raw_hot": 296853,
+      "num": 296853,
+      "word": "女子回家在楼道发现被遗弃男婴",
+      "onboard_time": 1668220650,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -355,20 +363,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265660,
-      "num": 265660,
-      "word": "女子回家在楼道发现被遗弃男婴",
-      "onboard_time": 1668220650,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260452,
       "num": 260452,
       "word": "杨幂镜头下的白宇",
       "onboard_time": 1668181411,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257060,
+      "num": 257060,
+      "word": "李泳知rap",
+      "onboard_time": 1668223590,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 247889,
@@ -441,14 +449,6 @@
       "onboard_time": 1668220413,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218756,
-      "num": 218756,
-      "word": "李泳知rap",
-      "onboard_time": 1668223590,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 217342,
@@ -579,6 +579,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 144696,
+      "num": 144696,
+      "word": "罗晋新剧开播就立flag",
+      "onboard_time": 1668222090,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "命韵峋环狐狸精版吃醋",
+      "onboard_time": 1668223110,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142508,
       "num": 142508,
       "word": "辅警为救老人摔骨折忍痛爬行20米",
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135253,
-      "num": 135253,
-      "word": "罗晋新剧开播就立flag",
-      "onboard_time": 1668222090,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134500,
       "num": 134500,
       "word": "35岁梅西第5次参加世界杯",
@@ -643,12 +651,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124512,
+      "num": 124512,
+      "word": "骑士vs勇士",
+      "onboard_time": 1668219509,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "十一月的笑帮",
+      "onboard_time": 1668224189,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122288,
       "num": 122288,
       "word": "罗伊毕业",
       "onboard_time": 1668183691,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119241,
+      "num": 119241,
+      "word": "贺峻霖光影星播客海报",
+      "onboard_time": 1668224189,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 118256,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111263,
+      "num": 111263,
+      "word": "基金经理网恋被工厂女工骗近30万",
+      "onboard_time": 1668223950,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110011,
       "num": 110011,
       "word": "老婆怀孕后老公在做些什么",
@@ -713,14 +753,6 @@
       "onboard_time": 1668171811,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105371,
-      "num": 105371,
-      "word": "命韵峋环狐狸精版吃醋",
-      "onboard_time": 1668223110,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 102225,
@@ -753,14 +785,6 @@
       "onboard_time": 1668175654,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100548,
-      "num": 100548,
-      "word": "骑士vs勇士",
-      "onboard_time": 1668219509,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 100456,
@@ -811,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93327,
+      "num": 93327,
+      "word": "babyincar你用对了吗",
+      "onboard_time": 1668223590,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91701,
       "num": 99575,
       "word": "扫黑行动",
@@ -819,12 +851,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89959,
-      "num": 89959,
-      "word": "babyincar你用对了吗",
-      "onboard_time": 1668223590,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 87005,
+      "num": 87005,
+      "word": "张凌赫唱星辰大海主题曲",
+      "onboard_time": 1668224370,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 86940,
@@ -872,14 +904,6 @@
       "word": "河南雨雪降温大风同步抵达",
       "onboard_time": 1668199633,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77485,
-      "num": 77485,
-      "word": "基金经理网恋被工厂女工骗近30万",
-      "onboard_time": 1668223950,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
