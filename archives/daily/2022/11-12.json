@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668266596764,
+  "endTime": 1668267574345,
   "band_list": [
     {
       "raw_hot": 4175898,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1615928,
-      "num": 704284,
+      "num": 941342,
       "word": "沈腾 没来",
       "onboard_time": 1668257614,
       "rank": 22,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1073405,
+      "num": 1073405,
+      "word": "男子辞职后在洞穴生活失联近3年",
+      "onboard_time": 1668262477,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036673,
       "num": 375344,
       "word": "娄艺潇汉服",
@@ -241,14 +249,6 @@
       "onboard_time": 1668243870,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1015305,
-      "num": 1015305,
-      "word": "男子辞职后在洞穴生活失联近3年",
-      "onboard_time": 1668262477,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001074,
@@ -287,6 +287,14 @@
       "num": 365727,
       "word": "林允胎毛刘海",
       "onboard_time": 1668246928,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 919628,
+      "num": 331817,
+      "word": "迪丽热巴王楚然同款礼裙",
+      "onboard_time": 1668266675,
       "rank": 10,
       "category": "作品衍生"
     },
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 750234,
+      "num": 231029,
+      "word": "王鹤棣红色渐变西装造型",
+      "onboard_time": 1668266495,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 737452,
       "num": 184744,
       "word": "李庚希 妆",
@@ -499,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 652263,
-      "num": 162470,
+      "raw_hot": 667159,
+      "num": 197770,
       "word": "刘德华宁静金鸡奖现场握手",
       "onboard_time": 1668265777,
       "rank": 30,
@@ -609,14 +625,6 @@
       "onboard_time": 1668258036,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503339,
-      "num": 159640,
-      "word": "王鹤棣红色渐变西装造型",
-      "onboard_time": 1668266495,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 496619,
@@ -745,6 +753,14 @@
       "onboard_time": 1668259842,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 440639,
+      "num": 440639,
+      "word": "南昌西站",
+      "onboard_time": 1668266017,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438512,
@@ -1016,6 +1032,14 @@
       "word": "张朝阳称躺着玩手机对颈椎更好",
       "onboard_time": 1668219214,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318784,
+      "num": 318784,
+      "word": "29岁博士因社恐1月叫2次救护车",
+      "onboard_time": 1668266555,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1659,6 +1683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 178127,
+      "num": 178127,
+      "word": "托尼绝杀",
+      "onboard_time": 1668264936,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177827,
       "num": 128617,
       "word": "马嘉祺月亮可以代表我的心横版直拍",
@@ -1691,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171399,
+      "num": 171399,
+      "word": "王者荣耀世界实机演示发布",
+      "onboard_time": 1668262118,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
@@ -1707,28 +1747,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 164553,
-      "num": 164553,
-      "word": "王者荣耀世界实机演示发布",
-      "onboard_time": 1668262118,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164100,
       "num": 159747,
       "word": "罗云熙吴倩发视频告别追光者",
       "onboard_time": 1668228570,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162673,
-      "num": 162673,
-      "word": "南昌西站",
-      "onboard_time": 1668266017,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161726,
@@ -1801,14 +1825,6 @@
       "onboard_time": 1668164675,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 150794,
-      "num": 150794,
-      "word": "托尼绝杀",
-      "onboard_time": 1668264936,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 149819,
@@ -2123,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106821,
+      "num": 146942,
+      "word": "原来童话里的场景真的存在",
+      "onboard_time": 1668263439,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105747,
       "num": 105747,
       "word": "babyincar你用对了吗",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1668233131,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103691,
+      "num": 132160,
+      "word": "樊振东林高远打球观赏性拉满",
+      "onboard_time": 1668267514,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102225,
@@ -2259,14 +2291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96544,
-      "num": 146942,
-      "word": "原来童话里的场景真的存在",
-      "onboard_time": 1668263439,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96380,
       "num": 96380,
       "word": "学好数学对写作的帮助有多大",
@@ -2347,6 +2371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89771,
+      "num": 132261,
+      "word": "这辈子没见过这么多猫",
+      "onboard_time": 1668267214,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89547,
       "num": 89547,
       "word": "曼城vs布伦特福德",
@@ -2360,14 +2392,6 @@
       "word": "陕西发现夏时期大型中心聚落遗址",
       "onboard_time": 1668250891,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87190,
-      "num": 134966,
-      "word": "29岁博士因社恐1月叫2次救护车",
-      "onboard_time": 1668266555,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
