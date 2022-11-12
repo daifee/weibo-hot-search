@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668258009199,
+  "endTime": 1668259927800,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -17,6 +17,14 @@
       "onboard_time": 1667787386,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3719503,
+      "num": 3719503,
+      "word": "第35届金鸡奖获奖名单",
+      "onboard_time": 1668255873,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 3608962,
@@ -73,6 +81,14 @@
       "onboard_time": 1667830050,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3062006,
+      "num": 3062006,
+      "word": "朱一龙金鸡奖最佳男主角",
+      "onboard_time": 1668259358,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 3019963,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1883928,
-      "num": 1883928,
-      "word": "第35届金鸡奖获奖名单",
-      "onboard_time": 1668255873,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1880614,
       "num": 1880614,
       "word": "法国快递员吐槽7小时工作太累",
@@ -377,6 +385,14 @@
       "onboard_time": 1667960485,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1615928,
+      "num": 682782,
+      "word": "沈腾 没来",
+      "onboard_time": 1668257614,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1604639,
@@ -763,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1169555,
+      "num": 228512,
+      "word": "白敬亭说今日解锁新地图",
+      "onboard_time": 1668258336,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1163896,
       "num": 837242,
       "word": "孩子被同学打伤家长上门掌掴5岁幼儿",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1667893588,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1008486,
+      "num": 1008486,
+      "word": "张超",
+      "onboard_time": 1667743292,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1001074,
@@ -1643,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715897,
+      "num": 715897,
+      "word": "房产继承因已故妹妹无子女证明被卡",
+      "onboard_time": 1668254491,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712744,
       "num": 712744,
       "word": "孙子去世孙媳鼓励照顾住院爷爷",
@@ -1995,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611453,
+      "num": 611453,
+      "word": "记者卧底仙女管销售群",
+      "onboard_time": 1668255335,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610614,
       "num": 610614,
       "word": "警方通报收3000办出疆通行证音频",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1668053908,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604865,
+      "num": 604865,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1668254552,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 603954,
@@ -2033,14 +2089,6 @@
       "onboard_time": 1667912967,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 598906,
-      "num": 348155,
-      "word": "房产继承因已故妹妹无子女证明被卡",
-      "onboard_time": 1668254491,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597525,
@@ -2387,14 +2435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 541903,
-      "num": 541903,
-      "word": "樊振东vs林高远",
-      "onboard_time": 1668254552,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 541339,
       "num": 168636,
       "word": "学校回应翻墙男子骑车三天三夜",
@@ -2707,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503219,
+      "num": 503219,
+      "word": "重庆市卫健委致孕产妇的一封信",
+      "onboard_time": 1668257857,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501297,
       "num": 501297,
       "word": "倪妮出席金鸡提名者表彰仪式",
@@ -2721,14 +2769,6 @@
       "onboard_time": 1667783548,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 498637,
-      "num": 219073,
-      "word": "沈腾 没来",
-      "onboard_time": 1668257614,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 497722,
@@ -2977,6 +3017,14 @@
       "onboard_time": 1667824648,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471085,
+      "num": 144370,
+      "word": "高圆圆状态",
+      "onboard_time": 1668259174,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469595,
@@ -3435,6 +3483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 430766,
+      "num": 430766,
+      "word": "王者荣耀",
+      "onboard_time": 1668257134,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 429983,
       "num": 429983,
       "word": "中国内地富豪榜仅2人财富增长",
@@ -3521,14 +3577,6 @@
       "onboard_time": 1668122360,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422308,
-      "num": 311273,
-      "word": "记者卧底仙女管销售群",
-      "onboard_time": 1668255335,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422204,
@@ -4019,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379522,
+      "num": 379522,
+      "word": "一看就是女孩的毛孩子",
+      "onboard_time": 1668256174,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 379398,
       "num": 379398,
       "word": "北京新增本土感染者57例",
@@ -4323,14 +4379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348958,
-      "num": 348958,
-      "word": "王者荣耀",
-      "onboard_time": 1668257134,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 348948,
       "num": 348948,
       "word": "天津女子买煎饼老板不在自己动手摊",
@@ -4353,14 +4401,6 @@
       "onboard_time": 1667993490,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348026,
-      "num": 348026,
-      "word": "张超",
-      "onboard_time": 1667743292,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 348004,
@@ -5995,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256996,
-      "num": 256996,
-      "word": "一看就是女孩的毛孩子",
-      "onboard_time": 1668256174,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 256532,
       "num": 256532,
       "word": "Meta将启动史上首次大规模裁员",
@@ -6177,6 +6209,14 @@
       "onboard_time": 1668144705,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245481,
+      "num": 245481,
+      "word": "医生识破患者学医让自己写病历",
+      "onboard_time": 1668258036,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245113,
@@ -7337,6 +7377,14 @@
       "onboard_time": 1668150222,
       "rank": 43,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 199905,
+      "num": 199905,
+      "word": "男子因纠纷赌气把女友锁车内",
+      "onboard_time": 1668256293,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199333,
@@ -8947,6 +8995,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 150431,
+      "num": 150431,
+      "word": "原来土豆也有祖孙三代",
+      "onboard_time": 1668252509,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150405,
       "num": 127187,
       "word": "白敬亭田曦薇新剧见面好抓马",
@@ -9001,6 +9057,14 @@
       "onboard_time": 1667955749,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149177,
+      "num": 149177,
+      "word": "王者万象棋",
+      "onboard_time": 1668259538,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 148810,
@@ -9707,6 +9771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132064,
+      "num": 132064,
+      "word": "养猫后电脑都关不了",
+      "onboard_time": 1668258876,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131982,
       "num": 131982,
       "word": "王艺迪4比3孙铭阳",
@@ -9721,6 +9793,14 @@
       "onboard_time": 1668071007,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131768,
+      "num": 131768,
+      "word": "重庆交大回应学生被公告退学",
+      "onboard_time": 1668258216,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 131549,
@@ -9873,14 +9953,6 @@
       "onboard_time": 1668184584,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127508,
-      "num": 127508,
-      "word": "原来土豆也有祖孙三代",
-      "onboard_time": 1668252509,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127489,
@@ -10371,14 +10443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115711,
-      "num": 115711,
-      "word": "男子因纠纷赌气把女友锁车内",
-      "onboard_time": 1668256293,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115435,
       "num": 115435,
       "word": "下次看月全食要到2025年了",
@@ -10611,6 +10675,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 109545,
+      "num": 109545,
+      "word": "4小伙戴假发穿裙子客串伴娘",
+      "onboard_time": 1668257374,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109513,
       "num": 109513,
       "word": "光头可以学起来了",
@@ -10788,7 +10860,7 @@
     },
     {
       "raw_hot": 105042,
-      "num": 1629340,
+      "num": 2877994,
       "word": "一镜到底跟随歼20编队巡航",
       "onboard_time": 1668228091,
       "rank": 44,
@@ -11033,6 +11105,14 @@
       "onboard_time": 1667794230,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100052,
+      "num": 100052,
+      "word": "真人版QQ飞车数码宝贝梦幻联动",
+      "onboard_time": 1668259599,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 100032,
@@ -11331,6 +11411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95595,
+      "num": 95595,
+      "word": "你是懂说反话的",
+      "onboard_time": 1668259236,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "8K超高清感受运油20的压迫感",
@@ -11488,6 +11576,14 @@
       "word": "浙江广电ZMG浙先行融未来",
       "onboard_time": 1668071907,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92537,
+      "num": 92537,
+      "word": "9人凌晨开豪车飙车被刑拘",
+      "onboard_time": 1668259174,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11691,6 +11787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89547,
+      "num": 89547,
+      "word": "曼城vs布伦特福德",
+      "onboard_time": 1668259720,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "谢谢你医生",
@@ -11745,14 +11849,6 @@
       "onboard_time": 1667787686,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 88874,
-      "num": 88874,
-      "word": "4小伙戴假发穿裙子客串伴娘",
-      "onboard_time": 1668257374,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88520,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1668259927800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3719503,
+        "num": 3719503,
+        "word": "第35届金鸡奖获奖名单",
+        "onboard_time": 1668255873,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3062006,
+        "num": 3062006,
+        "word": "朱一龙金鸡奖最佳男主角",
+        "onboard_time": 1668259358,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24407,
+        "num": 2877994,
+        "word": "一镜到底跟随歼20编队巡航",
+        "onboard_time": 1668228091,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2732354,
+        "num": 2732354,
+        "word": "想见你",
+        "onboard_time": 1668253411,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1008486,
+        "num": 1008486,
+        "word": "张超",
+        "onboard_time": 1668258997,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715897,
+        "num": 715897,
+        "word": "房产继承因已故妹妹无子女证明被卡",
+        "onboard_time": 1668254491,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615928,
+        "num": 682782,
+        "word": "沈腾 没来",
+        "onboard_time": 1668257614,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611453,
+        "num": 611453,
+        "word": "记者卧底仙女管销售群",
+        "onboard_time": 1668255335,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604865,
+        "num": 604865,
+        "word": "樊振东vs林高远",
+        "onboard_time": 1668254552,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572571,
+        "num": 572571,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468468,
+        "num": 562124,
+        "word": "陈妍希 造型",
+        "onboard_time": 1668254192,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1338057,
+        "num": 536732,
+        "word": "张小斐 大气",
+        "onboard_time": 1668255934,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503219,
+        "num": 503219,
+        "word": "重庆市卫健委致孕产妇的一封信",
+        "onboard_time": 1668257857,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430766,
+        "num": 430766,
+        "word": "王者荣耀",
+        "onboard_time": 1668257134,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379522,
+        "num": 379522,
+        "word": "一看就是女孩的毛孩子",
+        "onboard_time": 1668256174,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 357439,
+        "num": 357439,
+        "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+        "onboard_time": 1668247409,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 326565,
+        "num": 326565,
+        "word": "专家建议大家做全世界没做过的事",
+        "onboard_time": 1668248969,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 289200,
+        "num": 289200,
+        "word": "爸爸拿体教资10年教不会儿子跳绳",
+        "onboard_time": 1668253418,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256867,
+        "num": 256867,
+        "word": "妻子手卡压面机丈夫满眼心疼",
+        "onboard_time": 1668251371,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245481,
+        "num": 245481,
+        "word": "医生识破患者学医让自己写病历",
+        "onboard_time": 1668258036,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332770,
+        "num": 234199,
+        "word": "关晓彤 造型师",
+        "onboard_time": 1668250288,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1231393,
+        "num": 228657,
+        "word": "柳岩蝴蝶结好大",
+        "onboard_time": 1668252809,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1169555,
+        "num": 228512,
+        "word": "白敬亭说今日解锁新地图",
+        "onboard_time": 1668258336,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222069,
+        "num": 222069,
+        "word": "中疾控回应是否会逐步取消集中隔离",
+        "onboard_time": 1668246391,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199905,
+        "num": 199905,
+        "word": "男子因纠纷赌气把女友锁车内",
+        "onboard_time": 1668256293,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169192,
+        "num": 169192,
+        "word": "1岁男孩餐后过敏肿成可达鸭",
+        "onboard_time": 1668242970,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159143,
+        "num": 159143,
+        "word": "男生为了增高有多辛苦",
+        "onboard_time": 1668254853,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155495,
+        "num": 155495,
+        "word": "大爷把红薯梗卖到韩国变黄金菜",
+        "onboard_time": 1668250768,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 150431,
+        "num": 150431,
+        "word": "原来土豆也有祖孙三代",
+        "onboard_time": 1668252509,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149177,
+        "num": 149177,
+        "word": "王者万象棋",
+        "onboard_time": 1668259538,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537488,
+        "num": 145852,
+        "word": "辛柏青金鸡奖最佳男配角",
+        "onboard_time": 1668255034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471085,
+        "num": 144370,
+        "word": "高圆圆状态",
+        "onboard_time": 1668259174,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402675,
+        "num": 138816,
+        "word": "齐溪金鸡奖最佳女配角",
+        "onboard_time": 1668254251,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382635,
+        "num": 132980,
+        "word": "电影版想见你有金世佳",
+        "onboard_time": 1668255631,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132064,
+        "num": 132064,
+        "word": "养猫后电脑都关不了",
+        "onboard_time": 1668258876,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131768,
+        "num": 131768,
+        "word": "重庆交大回应学生被公告退学",
+        "onboard_time": 1668258216,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 114541,
+        "num": 114541,
+        "word": "女子用银杏叶自制婚纱",
+        "onboard_time": 1668251907,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114451,
+        "num": 114451,
+        "word": "河南入冬第一场雪来了",
+        "onboard_time": 1668245249,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110288,
+        "num": 110288,
+        "word": "有个爱管你的女朋友什么体验",
+        "onboard_time": 1668250109,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109545,
+        "num": 109545,
+        "word": "4小伙戴假发穿裙子客串伴娘",
+        "onboard_time": 1668257374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342832,
+        "num": 108702,
+        "word": "张艺兴你好星期六预告视频",
+        "onboard_time": 1668256653,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351004,
+        "num": 106532,
+        "word": "陈飞宇摇头让站姐不要拍了",
+        "onboard_time": 1668248616,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300695,
+        "num": 106334,
+        "word": "李峋在监狱搞防越狱系统",
+        "onboard_time": 1668244590,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100052,
+        "num": 100052,
+        "word": "真人版QQ飞车数码宝贝梦幻联动",
+        "onboard_time": 1668259599,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97887,
+        "num": 97887,
+        "word": "北京新增12例社会面",
+        "onboard_time": 1668245730,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660527,
+        "num": 97389,
+        "word": "前国足主帅李铁被带走",
+        "onboard_time": 1668250469,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 95595,
+        "word": "你是懂说反话的",
+        "onboard_time": 1668259236,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93243,
+        "num": 93243,
+        "word": "毕业生藏200个小煤球给学弟学妹",
+        "onboard_time": 1668248489,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92537,
+        "num": 92537,
+        "word": "9人凌晨开豪车飙车被刑拘",
+        "onboard_time": 1668259174,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89547,
+        "num": 89547,
+        "word": "曼城vs布伦特福德",
+        "onboard_time": 1668259720,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟五号奔赴太空#"
+    }
+  }
+}
