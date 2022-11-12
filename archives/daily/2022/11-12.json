@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668230455302,
+  "endTime": 1668231441604,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1378974,
-      "num": 1378974,
+      "raw_hot": 1446989,
+      "num": 1446989,
       "word": "林孝埈再次退赛",
       "onboard_time": 1668227437,
       "rank": 49,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1002778,
-      "num": 1002778,
+      "raw_hot": 1035895,
+      "num": 1035895,
       "word": "特朗普将宣布竞选2024年美国总统",
       "onboard_time": 1668226769,
       "rank": 14,
@@ -105,6 +105,14 @@
       "onboard_time": 1668223168,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 789625,
+      "num": 789625,
+      "word": "重庆交大一学生被公告退学",
+      "onboard_time": 1668229531,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785618,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338538,
+      "num": 338538,
+      "word": "苏有朋高圆圆你好星期六同框",
+      "onboard_time": 1668231030,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336542,
       "num": 336542,
       "word": "谢可寅金鸡奖红毯彩排整全套",
@@ -345,6 +361,14 @@
       "onboard_time": 1668182070,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321857,
+      "num": 321857,
+      "word": "官方回应四川现乐山大佛孪生兄弟",
+      "onboard_time": 1668229052,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321723,
@@ -379,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312725,
+      "num": 312725,
+      "word": "赵丽颖林浅播出4周年",
+      "onboard_time": 1668229650,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295948,
       "num": 295948,
       "word": "田曦薇 李薇演谁",
       "onboard_time": 1668226528,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295270,
-      "num": 295270,
-      "word": "重庆交大一学生被公告退学",
-      "onboard_time": 1668229531,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292566,
@@ -408,14 +432,6 @@
       "word": "李峋给朱韵的早安语音",
       "onboard_time": 1668213387,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 277100,
-      "num": 277100,
-      "word": "赵丽颖林浅播出4周年",
-      "onboard_time": 1668229650,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224730,
+      "num": 224730,
+      "word": "浙江一女子半年笑晕4次",
+      "onboard_time": 1668227431,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224557,
       "num": 224557,
       "word": "奔跑吧下期全员给周深过生日",
@@ -539,20 +563,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221453,
-      "num": 221453,
-      "word": "官方回应四川现乐山大佛孪生兄弟",
-      "onboard_time": 1668229052,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220086,
       "num": 220086,
       "word": "11月11日新增本土无症状10351例",
       "onboard_time": 1668220413,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218930,
+      "num": 218930,
+      "word": "中国航天员首次在空间站迎接快递员",
+      "onboard_time": 1668228212,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 218320,
+      "num": 181904,
+      "word": "芒果2023大剧片单",
+      "onboard_time": 1668231030,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217342,
@@ -563,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216001,
-      "num": 216001,
-      "word": "中国航天员首次在空间站迎接快递员",
-      "onboard_time": 1668228212,
+      "raw_hot": 216136,
+      "num": 216136,
+      "word": "骑士vs勇士",
+      "onboard_time": 1668219509,
       "rank": 42,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 214129,
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211829,
+      "num": 178166,
+      "word": "阿大葱油饼疑似闭店",
+      "onboard_time": 1668230011,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210600,
       "num": 210600,
       "word": "黄明昊突然被采访的表情",
@@ -587,19 +627,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204544,
-      "num": 204544,
-      "word": "骑士vs勇士",
-      "onboard_time": 1668219509,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193356,
       "num": 193356,
       "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
       "onboard_time": 1668174451,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "不再甄别次密接对广州疫情防控有何影响",
+      "onboard_time": 1668228631,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -667,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161206,
-      "num": 161206,
-      "word": "不再甄别次密接对广州疫情防控有何影响",
-      "onboard_time": 1668228631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159046,
       "num": 159046,
       "word": "金汤匙",
@@ -689,14 +721,6 @@
       "onboard_time": 1668225029,
       "rank": 47,
       "category": "动漫,幽默"
-    },
-    {
-      "raw_hot": 154791,
-      "num": 154791,
-      "word": "浙江一女子半年笑晕4次",
-      "onboard_time": 1668227431,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153387,
@@ -777,6 +801,14 @@
       "onboard_time": 1668204252,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140873,
+      "num": 140873,
+      "word": "樊振东4比0牛冠凯",
+      "onboard_time": 1668231328,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 139062,
@@ -875,14 +907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 116190,
-      "num": 116190,
-      "word": "阿大葱油饼疑似闭店",
-      "onboard_time": 1668230011,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114085,
       "num": 114085,
       "word": "蔡徐坤独自演偶像剧",
@@ -928,6 +952,14 @@
       "word": "头一次吃这么熟的火龙果",
       "onboard_time": 1668171811,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107176,
+      "num": 107176,
+      "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+      "onboard_time": 1668230910,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

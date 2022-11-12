@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 13:20:55
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 13:37:21
 </p>
 </blockquote>
 <p>
@@ -747,6 +747,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%8D%E6%AC%A1%E9%80%80%E8%B5%9B%23" target="weibo">
+林孝埈再次退赛（热度：1446989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%A5%84%E5%9E%A3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%BF%9F%E5%8D%AB%E5%8D%8E%E5%9D%A0%E6%A5%BC%E5%8E%BB%E4%B8%96%23" target="weibo">
 山西襄垣县委书记翟卫华坠楼去世（热度：1445435）
 </a>
@@ -827,12 +833,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E9%9A%8F%E6%84%8F%E5%B0%81%E6%A0%A1%E5%81%9C%E8%AF%BE%23" target="weibo">
 严禁随意封校停课（热度：1381406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%8D%E6%AC%A1%E9%80%80%E8%B5%9B%23" target="weibo">
-林孝埈再次退赛（热度：1378974）
 </a>
 </li>
 
@@ -1395,6 +1395,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%892024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+特朗普将宣布竞选2024年美国总统（热度：1035895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E4%B8%8B%E6%81%92%E6%B2%B3%E5%90%8E%E4%B8%80%E5%B0%8F%E6%97%B6%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%23" target="weibo">
 日本网红下恒河后一小时身体不适（热度：1033042）
 </a>
@@ -1517,12 +1523,6 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%85%AD%E4%BA%BA%E5%90%88%E4%BD%93%E8%A7%86%E9%A2%91%23" target="weibo">
 EXO六人合体视频（热度：1003777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%892024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
-特朗普将宣布竞选2024年美国总统（热度：1002778）
 </a>
 </li>
 
@@ -2105,6 +2105,12 @@ GALA 头像（热度：826488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kp%20%E9%80%80%E5%9B%A2%23" target="weibo">
 kp 退团（热度：791639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%BA%A4%E5%A4%A7%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%AC%E5%91%8A%E9%80%80%E5%AD%A6%23" target="weibo">
+重庆交大一学生被公告退学（热度：789625）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLACKPINK互跳solo曲（热度：364492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%9A%A7%E6%98%A7%E6%9C%9F%E5%A4%9A%E4%B9%85%23" target="weibo">
 你能接受暧昧期多久（热度：358867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E6%9E%9D%E9%BB%84%E8%8A%B1%E6%88%90%E6%B5%99%E6%B1%9F%E8%83%A1%E7%BE%8A%E5%8F%A3%E4%B8%AD%E7%BE%8E%E5%91%B3%23" target="weibo">
-加拿大一枝黄花成浙江胡羊口中美味（热度：358229）
 </a>
 </li>
 
