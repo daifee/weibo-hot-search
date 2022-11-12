@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 07:39:22
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 09:58:11
 </p>
 </blockquote>
 <p>
@@ -561,6 +561,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23" target="weibo">
+深圳大学回应（热度：1652635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%23" target="weibo">
 Faker（热度：1632969）
 </a>
@@ -701,6 +707,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%BD%93%E5%B9%B4%E6%B2%A1%E8%A2%AB%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 苏醒当年没被淘汰的原因（热度：1487382）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%81%AD%E9%B2%81%E6%9F%90%E6%8E%A8%E5%80%92%E5%90%8E%E5%A4%9A%E6%AC%A1%E5%86%B2%E5%90%91%E5%8E%A8%E6%88%BF%23" target="weibo">
+老人遭鲁某推倒后多次冲向厨房（热度：1483909）
 </a>
 </li>
 
@@ -1253,6 +1265,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%9D%90%E6%9C%88%E5%AD%90%E5%90%83%E4%BA%868%E5%8F%AA%E9%B8%A1100%E5%A4%9A%E4%B8%AA%E8%9B%8B%23" target="weibo">
 宝妈坐月子吃了8只鸡100多个蛋（热度：1083566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8DVCR%23" target="weibo">
+易烊千玺金鸡奖最佳男主角提名VCR（热度：1080947）
 </a>
 </li>
 
@@ -2051,6 +2069,12 @@ kp 退团（热度：791639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%87%B6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%8F%E8%AF%81%E5%AE%9E%E4%B8%BA%E7%BD%91%E7%BA%A2%23" target="weibo">
 史上最凶班主任经证实为网红（热度：786628）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A160%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B61081%E4%BE%8B%23" target="weibo">
+重庆新增本土确诊160例无症状1081例（热度：785618）
 </a>
 </li>
 
@@ -4275,6 +4299,12 @@ XYG（热度：480241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E6%88%B7%E5%9B%A0%E4%BD%93%E6%B8%A9%E6%9E%AA%E6%B2%A1%E7%94%B5%E8%A2%AB%E8%A6%81%E6%B1%82%E5%81%9C%E4%B8%9A1%E5%A4%A9%23" target="weibo">
+商户因体温枪没电被要求停业1天（热度：471772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E8%B5%84%E9%87%91%E8%B4%A6%E6%88%B7%E5%86%85%E8%B5%84%E4%BA%A7%E5%8F%AF%E7%BB%A7%E6%89%BF%23" target="weibo">
 个人养老金资金账户内资产可继承（热度：469942）
 </a>
@@ -4343,6 +4373,12 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E7%91%9E%20%E8%B0%A2%E8%B0%A2%E7%8E%8B%E6%B6%9B%23" target="weibo">
 邱瑞 谢谢王涛（热度：463352）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E8%B9%AD%E5%96%9D%E5%AE%9D%E5%AE%9D%E9%85%B8%E5%A5%B6%E5%96%9D%E5%87%BA%E9%BB%91%E8%89%B2%E5%BC%82%E7%89%A9%23" target="weibo">
+宝爸蹭喝宝宝酸奶喝出黑色异物（热度：463019）
 </a>
 </li>
 
@@ -4481,6 +4517,12 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E6%A6%A8%E8%94%AC%E8%8F%9C%E6%B1%81%E5%B0%86%E5%B0%8F%E7%8B%97%E6%9F%93%E6%88%90%E7%BB%BF%E8%89%B2%23" target="weibo">
 00后女生榨蔬菜汁将小狗染成绿色（热度：448229）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%B8%E6%9C%89%E9%A5%A5%E9%A5%BF%E6%84%9F%E4%B8%80%E6%9F%A5%E6%82%A3%E4%B8%8A%E8%83%83%E7%99%8C%23" target="weibo">
+男子常有饥饿感一查患上胃癌（热度：448062）
 </a>
 </li>
 
@@ -4869,6 +4911,12 @@ iPhone14Pro收货需要等待更长时间（热度：431644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E6%9C%AF%E7%B1%BB%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%BE%97%E8%AE%BE%E4%B8%93%E4%B8%9A%E6%96%B9%E5%90%91%23" target="weibo">
+艺术类本科专业不得设专业方向（热度：424871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%8C%E6%89%93%E7%AF%AE%E7%90%83%E5%A4%AA%E5%90%B5%E8%80%81%E4%BA%BA%E4%BB%8E7%E6%A5%BC%E6%89%94%E9%A5%AE%E6%96%99%E7%93%B6%23" target="weibo">
 嫌打篮球太吵老人从7楼扔饮料瓶（热度：424332）
 </a>
@@ -5087,6 +5135,12 @@ RNG恭喜Tangyuan登顶韩服（热度：416876）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%89%93%E7%81%AB%E6%9C%BA%E4%B8%8E%E5%85%AC%E4%B8%BB%E8%A3%99%E4%BB%8A%E5%A4%A9%E5%BC%80%E6%92%AD%23" target="weibo">
 原来打火机与公主裙今天开播（热度：408928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E9%81%87%E5%A5%87%E8%91%A9%E9%9A%94%E6%96%AD%E6%88%BF%E7%94%B5%E6%A2%AF%E5%9C%A8%E6%88%BF%E5%86%85%23" target="weibo">
+女子租房遇奇葩隔断房电梯在房内（热度：408410）
 </a>
 </li>
 
@@ -5957,60 +6011,6 @@ INTO1舞台走位（热度：355475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%87%911.5%E4%B8%87%E9%9B%B6%E9%92%B1%E6%9B%BF%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E8%BF%98%E5%80%BA%23" target="weibo">
 老人凑1.5万零钱替去世儿子还债（热度：352325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%97%A8%E6%94%BE%E6%B4%BE%E5%89%A7%E7%85%A7%23" target="weibo">
-范丞丞嗨放派剧照（热度：352006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E6%99%92%E5%A5%94%E8%B7%91%E5%90%A7%E9%BB%91%E7%99%BD%E5%90%88%E7%85%A7%23" target="weibo">
-杨颖晒奔跑吧黑白合照（热度：351902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%AF%B4%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%B3%E8%B5%9B%E9%95%BF%E8%BF%99%E6%A0%B7%23" target="weibo">
-苏有朋说披荆斩棘决赛长这样（热度：351771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%91%98%E6%88%92%E6%8C%87%E8%A1%A8%E6%83%85%23" target="weibo">
-王鹤棣摘戒指表情（热度：351589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E7%BB%99%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E5%86%B2%E9%94%8B%E8%A1%A3%23" target="weibo">
-郑州一高校给学生免费发放冲锋衣（热度：351363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E6%9E%B6%E6%8A%A1%E9%A3%9E%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
-女子打架抡飞自行车误伤小女孩（热度：350590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%A8%A1%E4%BB%BF%E7%88%B8%E7%88%B8%E7%9C%8B%E7%94%B5%E8%A7%86%E5%A7%BF%E5%8A%BF%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
-2岁宝宝模仿爸爸看电视姿势一模一样（热度：350369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B8%8C%E6%9C%9B%E8%87%AA%E5%B7%B1%E4%BF%9D%E6%8C%81%E9%92%9D%E6%84%9F%23" target="weibo">
-丁程鑫希望自己保持钝感（热度：350143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%99%BD%E5%AE%87%E6%98%AF%E7%9C%9F%E7%9A%84%E7%AC%91%E5%9C%BA%E4%BA%86%E5%90%A7%23" target="weibo">
-杨幂白宇是真的笑场了吧（热度：349981）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1668218291948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1483909,
+        "num": 1483909,
+        "word": "老人遭鲁某推倒后多次冲向厨房",
+        "onboard_time": 1668214227,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1080947,
+        "num": 1080947,
+        "word": "易烊千玺金鸡奖最佳男主角提名VCR",
+        "onboard_time": 1668215370,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9697,
+        "num": 881450,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 785618,
+        "num": 785618,
+        "word": "重庆新增本土确诊160例无症状1081例",
+        "onboard_time": 1668215247,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626083,
+        "num": 626083,
+        "word": "乳房是情绪的靶向器官",
+        "onboard_time": 1668179014,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471772,
+        "num": 471772,
+        "word": "商户因体温枪没电被要求停业1天",
+        "onboard_time": 1668215549,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463019,
+        "num": 463019,
+        "word": "宝爸蹭喝宝宝酸奶喝出黑色异物",
+        "onboard_time": 1668213511,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452037,
+        "num": 452037,
+        "word": "张俪印错的100件衣服用上了",
+        "onboard_time": 1668176134,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448062,
+        "num": 448062,
+        "word": "男子常有饥饿感一查患上胃癌",
+        "onboard_time": 1668214769,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408410,
+        "num": 408410,
+        "word": "女子租房遇奇葩隔断房电梯在房内",
+        "onboard_time": 1668212967,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1652635,
+        "num": 392116,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 507458,
+        "num": 381242,
+        "word": "男子掌掴幼童事件31分钟监控曝光",
+        "onboard_time": 1668177034,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 424871,
+        "num": 374101,
+        "word": "艺术类本科专业不得设专业方向",
+        "onboard_time": 1668216570,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 353420,
+        "num": 353420,
+        "word": "某某某太强了",
+        "onboard_time": 1668177393,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344546,
+        "num": 344546,
+        "word": "洞庭湖底现神秘图案",
+        "onboard_time": 1668213266,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336542,
+        "num": 336542,
+        "word": "谢可寅金鸡奖红毯彩排整全套",
+        "onboard_time": 1668214348,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321723,
+        "num": 321723,
+        "word": "重庆一男子看病就医成社死现场",
+        "onboard_time": 1668210383,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317479,
+        "num": 317479,
+        "word": "多地优化调整疫情防控措施",
+        "onboard_time": 1668211526,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292223,
+        "num": 292223,
+        "word": "白敬亭尹峥好会亲",
+        "onboard_time": 1668184349,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278101,
+        "num": 278101,
+        "word": "李峋给朱韵的早安语音",
+        "onboard_time": 1668213387,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247889,
+        "num": 247889,
+        "word": "重庆疫情防控",
+        "onboard_time": 1668212185,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193356,
+        "num": 193356,
+        "word": "玲娜贝尔嘴歪眼斜迪士尼不给换",
+        "onboard_time": 1668174451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189606,
+        "num": 189606,
+        "word": "女子发现邻居家果树结十几种水果",
+        "onboard_time": 1668217412,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188304,
+        "num": 188304,
+        "word": "广州新增本土感染者3180例",
+        "onboard_time": 1668217770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 170884,
+        "word": "杭州调整认房又认贷",
+        "onboard_time": 1668210923,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168165,
+        "num": 168165,
+        "word": "王鹤棣张凌赫下凡历劫",
+        "onboard_time": 1668176432,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159046,
+        "num": 159046,
+        "word": "金汤匙",
+        "onboard_time": 1668214288,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163288,
+        "num": 158955,
+        "word": "黄明昊突然被采访的表情",
+        "onboard_time": 1668217650,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158683,
+        "num": 158683,
+        "word": "父母给女儿取名龙葵寓意向阳而生",
+        "onboard_time": 1668173735,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147715,
+        "num": 147715,
+        "word": "QQ内测微信登录功能",
+        "onboard_time": 1668182672,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187731,
+        "num": 146055,
+        "word": "李峋哄朱韵睡觉",
+        "onboard_time": 1668218070,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141704,
+        "num": 141704,
+        "word": "奶茶店因服务员先说欢迎光临被封",
+        "onboard_time": 1668155621,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "男子戴白手套欲撬锁主人敲门回应",
+        "onboard_time": 1668201014,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136763,
+        "num": 136763,
+        "word": "流浪狗因治愈系笑容成功被收养",
+        "onboard_time": 1668213869,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136117,
+        "num": 136117,
+        "word": "女子外卖被偷嫌疑人下跪道歉",
+        "onboard_time": 1668218013,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134500,
+        "num": 134500,
+        "word": "35岁梅西第5次参加世界杯",
+        "onboard_time": 1668209663,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132081,
+        "num": 132081,
+        "word": "爸爸用妻子姓名章为1岁儿子画像",
+        "onboard_time": 1668216810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121595,
+        "num": 121595,
+        "word": "苏州尝试二手房直售模式",
+        "onboard_time": 1668217948,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "LBL",
+        "onboard_time": 1668191954,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114085,
+        "num": 114085,
+        "word": "蔡徐坤独自演偶像剧",
+        "onboard_time": 1668187938,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111490,
+        "num": 111490,
+        "word": "内娱舞台的双向奔赴",
+        "onboard_time": 1668207742,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110011,
+        "num": 110011,
+        "word": "老婆怀孕后老公在做些什么",
+        "onboard_time": 1668190935,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109465,
+        "num": 109465,
+        "word": "第一次见这么懒的猫",
+        "onboard_time": 1668196933,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106804,
+        "num": 106804,
+        "word": "奔跑吧下期全员给周深过生日",
+        "onboard_time": 1668184653,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102929,
+        "num": 102929,
+        "word": "教师爸爸给5个月宝宝教高中函数",
+        "onboard_time": 1668187401,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 99134,
+        "num": 99134,
+        "word": "女子精致出摊日销200盒炒粉走红",
+        "onboard_time": 1668168449,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98112,
+        "num": 98112,
+        "word": "空间站为迎接天舟五号做了哪些准备",
+        "onboard_time": 1668217709,
+        "rank": 46,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 96018,
+        "num": 96018,
+        "word": "女子被前男友妈妈甩详单要求还钱",
+        "onboard_time": 1668174451,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94356,
+        "num": 94356,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 86975,
+        "num": 86975,
+        "word": "吴京刘德华被李雪健发言说泪目了",
+        "onboard_time": 1668182070,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步优化防控工作的二十条措施公布#"
+    }
+  }
+}
