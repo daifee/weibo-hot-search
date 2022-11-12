@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668270614714,
+  "endTime": 1668271858268,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1339,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1295237,
+      "num": 1295237,
+      "word": "朱一龙获奖倪妮的祝贺词",
+      "onboard_time": 1668269912,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1295045,
       "num": 1295045,
       "word": "服装店因老板睡觉没戴口罩被黄牌警告",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1668137665,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1128079,
-      "num": 1128079,
-      "word": "朱一龙获奖倪妮的祝贺词",
-      "onboard_time": 1668269912,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1121306,
@@ -11835,12 +11835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254789,
+      "num": 254789,
+      "word": "这辈子没见过这么多猫",
+      "onboard_time": 1668267214,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254781,
       "num": 254781,
       "word": "鸟鸟一个人也是可以尴尬的",
       "onboard_time": 1667398887,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254533,
+      "num": 254533,
+      "word": "小妲己今天真高兴",
+      "onboard_time": 1668268234,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 254360,
@@ -12265,14 +12281,6 @@
       "onboard_time": 1667906428,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241145,
-      "num": 241145,
-      "word": "这辈子没见过这么多猫",
-      "onboard_time": 1668267214,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 240880,
@@ -12851,6 +12859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227824,
+      "num": 89396,
+      "word": "齐溪首获金鸡奖又哭又笑",
+      "onboard_time": 1668271825,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227799,
       "num": 227799,
       "word": "卿卿日常 唧唧日常",
@@ -13281,14 +13297,6 @@
       "onboard_time": 1668228212,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 218894,
-      "num": 218894,
-      "word": "小妲己今天真高兴",
-      "onboard_time": 1668268234,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 218851,
@@ -15435,6 +15443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178257,
+      "num": 178257,
+      "word": "林高远辛苦了",
+      "onboard_time": 1668268170,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178127,
       "num": 178127,
       "word": "托尼绝杀",
@@ -15601,14 +15617,6 @@
       "onboard_time": 1668124645,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175559,
-      "num": 175559,
-      "word": "林高远辛苦了",
-      "onboard_time": 1668268170,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 175509,
@@ -21147,6 +21155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98823,
+      "num": 101051,
+      "word": "降噪耳机哪个值得买",
+      "onboard_time": 1668270031,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 98766,
       "num": 98766,
       "word": "林高远周启豪3比2孙闻赵子豪",
@@ -21505,6 +21521,14 @@
       "onboard_time": 1668260499,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95437,
+      "num": 101036,
+      "word": "狗狗被送人一周跑50公里找回家",
+      "onboard_time": 1668270570,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95316,
@@ -23787,6 +23811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68538,
+      "num": 89308,
+      "word": "谁的学校还没有一个小甜妹呢",
+      "onboard_time": 1668271046,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 68357,
       "num": 68357,
       "word": "直20女飞行员徐枫灿亮相珠海航展",
@@ -23840,14 +23872,6 @@
       "word": "鸿蒙无障碍设计有多暖",
       "onboard_time": 1667657127,
       "rank": 49,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 67337,
-      "num": 101051,
-      "word": "降噪耳机哪个值得买",
-      "onboard_time": 1668270031,
-      "rank": 47,
       "category": "科技"
     },
     {
@@ -24151,14 +24175,6 @@
       "num": 72599,
       "word": "男孩站5楼窗外玩好心人怒斥喊回",
       "onboard_time": 1667566049,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61064,
-      "num": 101036,
-      "word": "狗狗被送人一周跑50公里找回家",
-      "onboard_time": 1668270570,
       "rank": 49,
       "category": "社会新闻"
     },
