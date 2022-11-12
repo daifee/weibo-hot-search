@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668228697441,
+  "endTime": 1668230455302,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378974,
+      "num": 1378974,
+      "word": "林孝埈再次退赛",
+      "onboard_time": 1668227437,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1344742,
       "num": 560741,
       "word": "王鹤棣假装为沈月提裙子",
@@ -57,6 +65,14 @@
       "onboard_time": 1668215370,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1002778,
+      "num": 1002778,
+      "word": "特朗普将宣布竞选2024年美国总统",
+      "onboard_time": 1668226769,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1001074,
@@ -91,28 +107,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 818926,
-      "num": 818926,
-      "word": "林孝埈再次退赛",
-      "onboard_time": 1668227437,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 785618,
       "num": 785618,
       "word": "重庆新增本土确诊160例无症状1081例",
       "onboard_time": 1668215247,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771492,
-      "num": 771492,
-      "word": "特朗普将宣布竞选2024年美国总统",
-      "onboard_time": 1668226769,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 764379,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568511,
+      "num": 568511,
+      "word": "金鸡奖",
+      "onboard_time": 1668226709,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566450,
       "num": 566450,
       "word": "女子外卖被偷嫌疑人下跪道歉",
       "onboard_time": 1668218013,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541233,
-      "num": 541233,
-      "word": "金鸡奖",
-      "onboard_time": 1668226709,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 490153,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334621,
+      "num": 334621,
+      "word": "赖冠霖导演作品获金鸡推优",
+      "onboard_time": 1668228989,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331564,
       "num": 281654,
       "word": "吴京刘德华被李雪健发言说泪目了",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295270,
+      "num": 295270,
+      "word": "重庆交大一学生被公告退学",
+      "onboard_time": 1668229531,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292566,
       "num": 292566,
       "word": "女子被前男友妈妈甩详单要求还钱",
@@ -392,6 +408,14 @@
       "word": "李峋给朱韵的早安语音",
       "onboard_time": 1668213387,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277100,
+      "num": 277100,
+      "word": "赵丽颖林浅播出4周年",
+      "onboard_time": 1668229650,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -451,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244457,
+      "num": 244457,
+      "word": "白宇公主抱杨幂跑错方向",
+      "onboard_time": 1668228508,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240605,
       "num": 240605,
       "word": "中国男篮vs伊朗男篮",
       "onboard_time": 1668173311,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239106,
-      "num": 239106,
-      "word": "白宇公主抱杨幂跑错方向",
-      "onboard_time": 1668228508,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 234477,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221453,
+      "num": 221453,
+      "word": "官方回应四川现乐山大佛孪生兄弟",
+      "onboard_time": 1668229052,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220086,
       "num": 220086,
       "word": "11月11日新增本土无症状10351例",
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216001,
+      "num": 216001,
+      "word": "中国航天员首次在空间站迎接快递员",
+      "onboard_time": 1668228212,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 214129,
       "num": 214129,
       "word": "李峋我在哪哪里就是山顶",
@@ -545,6 +585,14 @@
       "onboard_time": 1668217650,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204544,
+      "num": 204544,
+      "word": "骑士vs勇士",
+      "onboard_time": 1668219509,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 193356,
@@ -595,6 +643,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 174858,
+      "num": 174858,
+      "word": "93岁妈妈给66岁儿子理发",
+      "onboard_time": 1668224729,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170884,
       "num": 170884,
       "word": "杭州调整认房又认贷",
@@ -603,28 +659,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 170779,
-      "num": 170779,
-      "word": "骑士vs勇士",
-      "onboard_time": 1668219509,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167353,
-      "num": 167353,
-      "word": "93岁妈妈给66岁儿子理发",
-      "onboard_time": 1668224729,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160852,
-      "num": 130239,
+      "raw_hot": 164100,
+      "num": 159747,
       "word": "罗云熙吴倩发视频告别追光者",
       "onboard_time": 1668228570,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161206,
+      "num": 161206,
+      "word": "不再甄别次密接对广州疫情防控有何影响",
+      "onboard_time": 1668228631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159046,
@@ -633,6 +681,22 @@
       "onboard_time": 1668214288,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154948,
+      "num": 154948,
+      "word": "不敢直视以前看过的动漫了",
+      "onboard_time": 1668225029,
+      "rank": 47,
+      "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 154791,
+      "num": 154791,
+      "word": "浙江一女子半年笑晕4次",
+      "onboard_time": 1668227431,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153387,
@@ -771,22 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127607,
-      "num": 127607,
-      "word": "中国航天员首次在空间站迎接快递员",
-      "onboard_time": 1668228212,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 124142,
-      "num": 124142,
-      "word": "不敢直视以前看过的动漫了",
-      "onboard_time": 1668225029,
-      "rank": 47,
-      "category": "动漫,幽默"
-    },
-    {
       "raw_hot": 122369,
       "num": 122369,
       "word": "十一月的笑帮",
@@ -825,6 +873,14 @@
       "onboard_time": 1668219813,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 116190,
+      "num": 116190,
+      "word": "阿大葱油饼疑似闭店",
+      "onboard_time": 1668230011,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114085,
@@ -897,6 +953,14 @@
       "onboard_time": 1668169891,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102027,
+      "num": 102027,
+      "word": "让自己快乐是件了不起的事",
+      "onboard_time": 1668230310,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 101962,
@@ -985,14 +1049,6 @@
       "onboard_time": 1668228631,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92152,
-      "num": 92152,
-      "word": "不再甄别次密接对广州疫情防控有何影响",
-      "onboard_time": 1668228631,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91701,

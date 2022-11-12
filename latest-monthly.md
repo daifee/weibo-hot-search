@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 12:51:37
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/12 13:20:55
 </p>
 </blockquote>
 <p>
@@ -831,6 +831,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%8D%E6%AC%A1%E9%80%80%E8%B5%9B%23" target="weibo">
+林孝埈再次退赛（热度：1378974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%AE%BE%E7%BD%AE%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E7%9A%84%E7%90%86%E7%94%B1%23" target="weibo">
 朋友圈设置三天可见的理由（热度：1363339）
 </a>
@@ -1515,6 +1521,12 @@ EXO六人合体视频（热度：1003777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%892024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+特朗普将宣布竞选2024年美国总统（热度：1002778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E4%BB%A5%E9%98%B2%E7%96%AB%E4%B8%BA%E5%90%8D%E8%AE%A9%E5%AE%A2%E6%88%B7%E6%B7%8B%E9%9B%A8%E6%8E%92%E9%98%9F%23" target="weibo">
 银行以防疫为名让客户淋雨排队（热度：1001074）
 </a>
@@ -2031,12 +2043,6 @@ GALA 头像（热度：826488）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%8D%E6%AC%A1%E9%80%80%E8%B5%9B%23" target="weibo">
-林孝埈再次退赛（热度：818926）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%B8%A9%E8%AE%A1%E7%A2%8E%E8%A3%82%E6%8A%A4%E5%A3%AB%E6%89%93%E9%B8%A1%E8%9B%8B%E9%98%B2%E6%B1%9E%E4%B8%AD%E6%AF%92%23" target="weibo">
 体温计碎裂护士打鸡蛋防汞中毒（热度：818752）
 </a>
@@ -2177,12 +2183,6 @@ iPhone14Pro满电无法开机（热度：775953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%9D%A2%E4%B8%B4%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%8D%E6%9D%82%E4%B8%A5%E5%B3%BB%E7%96%AB%E6%83%85%23" target="weibo">
 广州面临三年来最复杂严峻疫情（热度：772764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%892024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
-特朗普将宣布竞选2024年美国总统（热度：771492）
 </a>
 </li>
 
