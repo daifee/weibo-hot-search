@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668271858268,
+  "endTime": 1668273655901,
   "band_list": [
     {
       "raw_hot": 1521120,
@@ -163,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268656,
+      "num": 268656,
+      "word": "小妲己今天真高兴",
+      "onboard_time": 1668268234,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "这辈子没见过这么多猫",
       "onboard_time": 1668267214,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254533,
-      "num": 254533,
-      "word": "小妲己今天真高兴",
-      "onboard_time": 1668268234,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 251014,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243081,
+      "num": 129233,
+      "word": "齐溪首获金鸡奖又哭又笑",
+      "onboard_time": 1668271825,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238363,
       "num": 238363,
       "word": "房产继承因已故妹妹无子女证明被卡",
@@ -195,19 +203,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227824,
-      "num": 89396,
-      "word": "齐溪首获金鸡奖又哭又笑",
-      "onboard_time": 1668271825,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214472,
       "num": 214472,
       "word": "9人凌晨开豪车飙车被刑拘",
       "onboard_time": 1668259174,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209390,
+      "num": 154195,
+      "word": "狗狗被送人一周跑50公里找回家",
+      "onboard_time": 1668270570,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -315,12 +323,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 111648,
+      "num": 111648,
+      "word": "第一次见这么漂亮的小狗",
+      "onboard_time": 1668272665,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109591,
       "num": 109591,
       "word": "中疾控回应是否会逐步取消集中隔离",
       "onboard_time": 1668246391,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106705,
+      "num": 106705,
+      "word": "降噪耳机哪个值得买",
+      "onboard_time": 1668270031,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 106328,
@@ -347,22 +371,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 98823,
-      "num": 101051,
-      "word": "降噪耳机哪个值得买",
-      "onboard_time": 1668270031,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 95437,
-      "num": 101036,
-      "word": "狗狗被送人一周跑50公里找回家",
-      "onboard_time": 1668270570,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91788,
       "num": 101085,
       "word": "养猫后电脑都关不了",
@@ -387,20 +395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82394,
+      "num": 89308,
+      "word": "谁的学校还没有一个小甜妹呢",
+      "onboard_time": 1668271046,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 69347,
       "num": 101065,
       "word": "王者万象棋",
       "onboard_time": 1668259538,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68538,
-      "num": 89308,
-      "word": "谁的学校还没有一个小甜妹呢",
-      "onboard_time": 1668271046,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 65028,
@@ -422,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#新征程再出发#"
+    },
+    {
+      "word": "#天舟五号奔赴太空#"
     }
   ]
 }
