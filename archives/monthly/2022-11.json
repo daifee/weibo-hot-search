@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668224410559,
+  "endTime": 1668227642002,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2003,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001074,
+      "num": 1001074,
+      "word": "银行以防疫为名让客户淋雨排队",
+      "onboard_time": 1668221732,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996487,
       "num": 996487,
       "word": "韩国爱豆出身在家吸毒被捕",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1668141271,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 734582,
+      "num": 734582,
+      "word": "基金经理网恋被工厂女工骗近30万",
+      "onboard_time": 1668223950,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732016,
@@ -4872,14 +4888,6 @@
       "word": "22岁女子按摩后大面积脑梗",
       "onboard_time": 1667261724,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534103,
-      "num": 534103,
-      "word": "银行以防疫为名让客户淋雨排队",
-      "onboard_time": 1668221732,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9019,6 +9027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319503,
+      "num": 319503,
+      "word": "特朗普将宣布竞选2024年美国总统",
+      "onboard_time": 1668226769,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 319009,
       "num": 319009,
       "word": "德国队公布世界杯大名单",
@@ -9240,6 +9256,14 @@
       "word": "郑州成立20个督导组督导小区解封情况",
       "onboard_time": 1667474605,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312768,
+      "num": 312768,
+      "word": "女子回家在楼道发现被遗弃男婴",
+      "onboard_time": 1668220650,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -9681,14 +9705,6 @@
       "onboard_time": 1668136586,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296853,
-      "num": 296853,
-      "word": "女子回家在楼道发现被遗弃男婴",
-      "onboard_time": 1668220650,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296582,
@@ -11155,6 +11171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249381,
+      "num": 249381,
+      "word": "张凌赫唱星辰大海主题曲",
+      "onboard_time": 1668224370,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249376,
       "num": 249376,
       "word": "官方成立专班处理教师上网课后去世事件",
@@ -11456,6 +11480,14 @@
       "word": "长相思首版人物片花",
       "onboard_time": 1667460925,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238952,
+      "num": 238952,
+      "word": "田曦薇 李薇演谁",
+      "onboard_time": 1668226528,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -11801,6 +11833,14 @@
       "onboard_time": 1667732246,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 229912,
+      "num": 229912,
+      "word": "点燃我温暖你有领证剧情",
+      "onboard_time": 1668224489,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 229890,
@@ -12657,6 +12697,14 @@
       "onboard_time": 1667204065,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 211728,
+      "num": 211728,
+      "word": "郑州二砂不再作为方舱医院建设",
+      "onboard_time": 1668224911,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211207,
@@ -13979,6 +14027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184503,
+      "num": 172200,
+      "word": "李峋我在哪哪里就是山顶",
+      "onboard_time": 1668226651,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184485,
       "num": 184485,
       "word": "只有老六才能打败老六",
@@ -14649,6 +14705,14 @@
       "onboard_time": 1668210923,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 170779,
+      "num": 170779,
+      "word": "骑士vs勇士",
+      "onboard_time": 1668219509,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 170639,
@@ -16627,6 +16691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140267,
+      "num": 140267,
+      "word": "93岁妈妈给66岁儿子理发",
+      "onboard_time": 1668224729,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140151,
       "num": 134582,
       "word": "郑秀妍晒乐队的海边合照",
@@ -17411,6 +17483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129332,
+      "num": 113936,
+      "word": "命韵峋环还没牵手",
+      "onboard_time": 1668227249,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129228,
       "num": 129228,
       "word": "宋宁峰脾气真好",
@@ -17785,14 +17865,6 @@
       "onboard_time": 1667404406,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124512,
-      "num": 124512,
-      "word": "骑士vs勇士",
-      "onboard_time": 1668219509,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 124461,
@@ -18723,14 +18795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111263,
-      "num": 111263,
-      "word": "基金经理网恋被工厂女工骗近30万",
-      "onboard_time": 1668223950,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111222,
       "num": 111222,
       "word": "冬天需要这个猫毯",
@@ -19145,6 +19209,14 @@
       "onboard_time": 1667970327,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105747,
+      "num": 105747,
+      "word": "babyincar你用对了吗",
+      "onboard_time": 1668223590,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105569,
@@ -20075,6 +20147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "不敢直视以前看过的动漫了",
+      "onboard_time": 1668225029,
+      "rank": 47,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 94925,
       "num": 94925,
       "word": "2个动作改善含胸驼背",
@@ -20187,6 +20267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93763,
+      "num": 93763,
+      "word": "中级经济师",
+      "onboard_time": 1668227311,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93734,
       "num": 93734,
       "word": "原来AI喜欢这样的猫",
@@ -20248,14 +20336,6 @@
       "word": "老太误将502胶当滴耳液滴满耳道",
       "onboard_time": 1667206222,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93327,
-      "num": 93327,
-      "word": "babyincar你用对了吗",
-      "onboard_time": 1668223590,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -20536,6 +20616,14 @@
       "word": "林高远3比0马特",
       "onboard_time": 1667660547,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90480,
+      "num": 92466,
+      "word": "林孝埈再次退赛",
+      "onboard_time": 1668227437,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -20905,14 +20993,6 @@
       "onboard_time": 1667906251,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87005,
-      "num": 87005,
-      "word": "张凌赫唱星辰大海主题曲",
-      "onboard_time": 1668224370,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 86940,
