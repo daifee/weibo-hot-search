@@ -1,0 +1,410 @@
+{
+  "runTime": 1668238529846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169928,
+        "num": 1169928,
+        "word": "重庆交大一学生被公告退学",
+        "onboard_time": 1668229531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626259,
+        "num": 626259,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1668236849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8468,
+        "num": 564702,
+        "word": "天舟四号撤离视角看中国空间站",
+        "onboard_time": 1668140910,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 933716,
+        "num": 562178,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 548359,
+        "num": 548359,
+        "word": "颖儿追剧问孕期生病该忍着还是吃药",
+        "onboard_time": 1668237688,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500484,
+        "num": 500484,
+        "word": "库里 天神下凡",
+        "onboard_time": 1668232413,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362565,
+        "num": 362565,
+        "word": "林孝埈再次退赛",
+        "onboard_time": 1668227437,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359399,
+        "num": 359399,
+        "word": "田柾国将在卡塔尔世界杯开幕式表演",
+        "onboard_time": 1668233910,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 347688,
+        "num": 347688,
+        "word": "饭店狗狗长期跟客人讨肉胖成猪",
+        "onboard_time": 1668235651,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336893,
+        "num": 336893,
+        "word": "扫黑行动尺度有多大",
+        "onboard_time": 1668232349,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 875051,
+        "num": 334099,
+        "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+        "onboard_time": 1668230910,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634011,
+        "num": 313630,
+        "word": "张艺兴连说了9个真的很想你们",
+        "onboard_time": 1668236249,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426075,
+        "num": 291885,
+        "word": "倪妮金鸡奖绿野仙踪造型",
+        "onboard_time": 1668232349,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267678,
+        "num": 267678,
+        "word": "官方回应四川现乐山大佛孪生兄弟",
+        "onboard_time": 1668229052,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323657,
+        "num": 267601,
+        "word": "王鹤棣假装为沈月提裙子",
+        "onboard_time": 1668222811,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262505,
+        "num": 262505,
+        "word": "男孩只买1个馒头被店主强留吃饭",
+        "onboard_time": 1668218013,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 216945,
+        "num": 216945,
+        "word": "湖人又输",
+        "onboard_time": 1668233551,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210327,
+        "num": 210327,
+        "word": "阿大葱油饼疑似闭店",
+        "onboard_time": 1668230011,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196088,
+        "num": 196088,
+        "word": "库里随手就是个半场三分",
+        "onboard_time": 1668231751,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194986,
+        "num": 194986,
+        "word": "广州新增本土感染者3180例",
+        "onboard_time": 1668217770,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247527,
+        "num": 192803,
+        "word": "金鸡奖",
+        "onboard_time": 1668226709,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237764,
+        "num": 192703,
+        "word": "维和防暴队主创阵容官宣",
+        "onboard_time": 1668237267,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200946,
+        "num": 192310,
+        "word": "黄明昊走在星辰大海吃瓜一线",
+        "onboard_time": 1668233250,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190344,
+        "num": 190344,
+        "word": "男子接推销电话让对方背诵陋室铭",
+        "onboard_time": 1668235109,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187376,
+        "num": 187376,
+        "word": "女子发现邻居家果树结十几种水果",
+        "onboard_time": 1668217412,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163604,
+        "num": 163604,
+        "word": "浙江一女子半年笑晕4次",
+        "onboard_time": 1668227431,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161280,
+        "num": 161280,
+        "word": "银行以防疫为名让客户淋雨排队",
+        "onboard_time": 1668221732,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142420,
+        "num": 142420,
+        "word": "郑州在重点文物单位建方舱被叫停",
+        "onboard_time": 1668219871,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141025,
+        "num": 141025,
+        "word": "基金经理网恋被工厂女工骗近30万",
+        "onboard_time": 1668223950,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "男子常有饥饿感一查患上胃癌",
+        "onboard_time": 1668214769,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187879,
+        "num": 129728,
+        "word": "苏有朋高圆圆你好星期六同框",
+        "onboard_time": 1668231030,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181452,
+        "num": 126806,
+        "word": "张婧仪唱歌视频",
+        "onboard_time": 1668232049,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 125878,
+        "word": "马嘉祺月亮可以代表我的心横版直拍",
+        "onboard_time": 1668238409,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176302,
+        "num": 122801,
+        "word": "王源说年纪想说小点",
+        "onboard_time": 1668233429,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122116,
+        "num": 122116,
+        "word": "林高远4比1刘丁硕",
+        "onboard_time": 1668234451,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117126,
+        "num": 117126,
+        "word": "青桔单车一员工多次偷松果单车电瓶",
+        "onboard_time": 1668236669,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114871,
+        "num": 114871,
+        "word": "女子回家在楼道发现被遗弃男婴",
+        "onboard_time": 1668220650,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106505,
+        "num": 106505,
+        "word": "刘氏兄弟母亲确认两人将入籍中国",
+        "onboard_time": 1668219691,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105732,
+        "num": 105732,
+        "word": "乳房是情绪的靶向器官",
+        "onboard_time": 1668179014,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102728,
+        "num": 102728,
+        "word": "不再甄别次密接对广州疫情防控有何影响",
+        "onboard_time": 1668228631,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162346,
+        "num": 102284,
+        "word": "杨颖金鸡奖造型",
+        "onboard_time": 1668237156,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100391,
+        "num": 100391,
+        "word": "女子外卖被偷嫌疑人下跪道歉",
+        "onboard_time": 1668218013,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92521,
+        "num": 92521,
+        "word": "男子收邻居孩子蹭网纸条瞬间破防",
+        "onboard_time": 1668237630,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91729,
+        "num": 91729,
+        "word": "学好数学对写作的帮助有多大",
+        "onboard_time": 1668236967,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89686,
+        "num": 89686,
+        "word": "中国航天员首次在空间站迎接快递员",
+        "onboard_time": 1668228212,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 84793,
+        "word": "宝爸蹭喝宝宝酸奶喝出黑色异物",
+        "onboard_time": 1668213511,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226802,
+        "num": 84579,
+        "word": "陈飞宇说李峋就要宠朱韵",
+        "onboard_time": 1668236069,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73118,
+        "num": 84225,
+        "word": "小学生期中考试前组队跪拜孔子像",
+        "onboard_time": 1668237267,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65961,
+        "num": 83807,
+        "word": "樊振东4比0牛冠凯",
+        "onboard_time": 1668231328,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62542,
+        "num": 82944,
+        "word": "久诚灵儿斗嘴现场",
+        "onboard_time": 1668236550,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}

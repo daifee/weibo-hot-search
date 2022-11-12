@@ -1,6 +1,6 @@
 {
   "startTime": 1668184301982,
-  "endTime": 1668237627121,
+  "endTime": 1668238529846,
   "band_list": [
     {
       "raw_hot": 3361288,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 634011,
+      "num": 313630,
+      "word": "张艺兴连说了9个真的很想你们",
+      "onboard_time": 1668236249,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629846,
       "num": 629846,
       "word": "QQ内测微信登录功能",
@@ -211,12 +219,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 593992,
-      "num": 272043,
-      "word": "张艺兴连说了9个真的很想你们",
-      "onboard_time": 1668236249,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 626259,
+      "num": 626259,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1668236849,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580664,
@@ -249,6 +257,14 @@
       "onboard_time": 1668218013,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548359,
+      "num": 548359,
+      "word": "颖儿追剧问孕期生病该忍着还是吃药",
+      "onboard_time": 1668237688,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 490153,
@@ -387,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 347688,
+      "num": 347688,
+      "word": "饭店狗狗长期跟客人讨肉胖成猪",
+      "onboard_time": 1668235651,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347658,
       "num": 347658,
       "word": "男子戴白手套欲撬锁主人敲门回应",
@@ -515,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267790,
-      "num": 267790,
-      "word": "饭店狗狗长期跟客人讨肉胖成猪",
-      "onboard_time": 1668235651,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267107,
       "num": 267107,
       "word": "王鹤棣张凌赫下凡历劫",
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237764,
+      "num": 192703,
+      "word": "维和防暴队主创阵容官宣",
+      "onboard_time": 1668237267,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234477,
       "num": 234477,
       "word": "中国男篮三分球",
@@ -633,14 +657,6 @@
       "onboard_time": 1668224489,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229776,
-      "num": 229776,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1668236849,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228500,
@@ -747,11 +763,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209991,
-      "num": 139499,
-      "word": "维和防暴队主创阵容官宣",
-      "onboard_time": 1668237267,
-      "rank": 30,
+      "raw_hot": 200946,
+      "num": 192310,
+      "word": "黄明昊走在星辰大海吃瓜一线",
+      "onboard_time": 1668233250,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -771,20 +787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191820,
-      "num": 170442,
-      "word": "黄明昊走在星辰大海吃瓜一线",
-      "onboard_time": 1668233250,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191676,
       "num": 191676,
       "word": "樊振东4比0牛冠凯",
       "onboard_time": 1668231328,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190344,
+      "num": 190344,
+      "word": "男子接推销电话让对方背诵陋室铭",
+      "onboard_time": 1668235109,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186768,
@@ -819,12 +835,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 178651,
-      "num": 178651,
-      "word": "男子接推销电话让对方背诵陋室铭",
-      "onboard_time": 1668235109,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 177827,
+      "num": 125878,
+      "word": "马嘉祺月亮可以代表我的心横版直拍",
+      "onboard_time": 1668238409,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 177134,
@@ -859,20 +875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162346,
+      "num": 137817,
+      "word": "杨颖金鸡奖造型",
+      "onboard_time": 1668237156,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159046,
       "num": 159046,
       "word": "金汤匙",
       "onboard_time": 1668214288,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156783,
-      "num": 137817,
-      "word": "杨颖金鸡奖造型",
-      "onboard_time": 1668237156,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154948,
@@ -1099,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117126,
+      "num": 117126,
+      "word": "青桔单车一员工多次偷松果单车电瓶",
+      "onboard_time": 1668236669,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117098,
       "num": 117098,
       "word": "太空快递小哥再出发",
@@ -1291,11 +1315,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92583,
-      "num": 92583,
-      "word": "青桔单车一员工多次偷松果单车电瓶",
-      "onboard_time": 1668236669,
-      "rank": 46,
+      "raw_hot": 92521,
+      "num": 92521,
+      "word": "男子收邻居孩子蹭网纸条瞬间破防",
+      "onboard_time": 1668237630,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1348,7 +1372,7 @@
     },
     {
       "raw_hot": 83917,
-      "num": 83917,
+      "num": 84225,
       "word": "小学生期中考试前组队跪拜孔子像",
       "onboard_time": 1668237267,
       "rank": 47,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1668153580,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62542,
+      "num": 82944,
+      "word": "久诚灵儿斗嘴现场",
+      "onboard_time": 1668236550,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 57790,
