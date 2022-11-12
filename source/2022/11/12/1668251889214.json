@@ -1,0 +1,410 @@
+{
+  "runTime": 1668251889214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614804,
+        "num": 1614804,
+        "word": "次密接的阳性感染率",
+        "onboard_time": 1668244290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465978,
+        "num": 1465978,
+        "word": "第35届金鸡奖红毯",
+        "onboard_time": 1668241468,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77727,
+        "num": 1275447,
+        "word": "各色秋叶壁纸上新了",
+        "onboard_time": 1668239308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144251,
+        "num": 1144251,
+        "word": "前国足主帅李铁被带走",
+        "onboard_time": 1668250469,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 942383,
+        "num": 942383,
+        "word": "长沙女子自制霉豆腐长黑毛仍要吃",
+        "onboard_time": 1668247409,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 749916,
+        "num": 749916,
+        "word": "张艺凡仪态",
+        "onboard_time": 1668247769,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612330,
+        "num": 612330,
+        "word": "王鹤棣说东方青苍是我的代表作",
+        "onboard_time": 1668251429,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 527197,
+        "num": 527197,
+        "word": "专家建议大家做全世界没做过的事",
+        "onboard_time": 1668248969,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 491873,
+        "num": 491873,
+        "word": "中疾控回应是否会逐步取消集中隔离",
+        "onboard_time": 1668246391,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365994,
+        "num": 365994,
+        "word": "毕业生藏200个小煤球给学弟学妹",
+        "onboard_time": 1668248489,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2511758,
+        "num": 365938,
+        "word": "关晓彤 造型师",
+        "onboard_time": 1668250288,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1203821,
+        "num": 365899,
+        "word": "陈飞宇摇头让站姐不要拍了",
+        "onboard_time": 1668248616,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 886272,
+        "num": 365727,
+        "word": "林允胎毛刘海",
+        "onboard_time": 1668246928,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365533,
+        "num": 365533,
+        "word": "1岁男孩餐后过敏肿成可达鸭",
+        "onboard_time": 1668242970,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273134,
+        "num": 273134,
+        "word": "北京新增12例社会面",
+        "onboard_time": 1668245730,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252178,
+        "num": 252178,
+        "word": "空气炸锅烤红薯干",
+        "onboard_time": 1668247589,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204810,
+        "num": 204810,
+        "word": "重庆交大一学生被公告退学",
+        "onboard_time": 1668229531,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186160,
+        "num": 186160,
+        "word": "河南入冬第一场雪来了",
+        "onboard_time": 1668245249,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181412,
+        "num": 181412,
+        "word": "歼20穿云造洞忍不住看亿遍",
+        "onboard_time": 1668245610,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164983,
+        "num": 164983,
+        "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+        "onboard_time": 1668230910,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519451,
+        "num": 164945,
+        "word": "李峋在监狱搞防越狱系统",
+        "onboard_time": 1668244590,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452615,
+        "num": 164793,
+        "word": "金鸡奖女明星造型大赏",
+        "onboard_time": 1668246276,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323383,
+        "num": 164619,
+        "word": "卿卿日常",
+        "onboard_time": 1668242908,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322451,
+        "num": 164282,
+        "word": "倪妮好美",
+        "onboard_time": 1668251251,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "北京新增本土感染者98例",
+        "onboard_time": 1668247289,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162223,
+        "num": 162223,
+        "word": "各地已经成立整治层层加码工作专班",
+        "onboard_time": 1668242010,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 156581,
+        "num": 156581,
+        "word": "大爷把红薯梗卖到韩国变黄金菜",
+        "onboard_time": 1668250768,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 144912,
+        "num": 144912,
+        "word": "小学生将班主任当银行存零花钱",
+        "onboard_time": 1668249752,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 142070,
+        "num": 142070,
+        "word": "原来上课睡觉是这样的",
+        "onboard_time": 1668243269,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141216,
+        "num": 141216,
+        "word": "交通运输部删除中风险区防控内容",
+        "onboard_time": 1668240629,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304640,
+        "num": 137814,
+        "word": "时代少年团麦田乐队",
+        "onboard_time": 1668250649,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275124,
+        "num": 137287,
+        "word": "李峋帮朱韵出头",
+        "onboard_time": 1668251670,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273944,
+        "num": 136798,
+        "word": "金鸡奖",
+        "onboard_time": 1668226709,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134021,
+        "num": 134021,
+        "word": "男子收邻居孩子蹭网纸条瞬间破防",
+        "onboard_time": 1668237630,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131993,
+        "num": 131993,
+        "word": "库里 天神下凡",
+        "onboard_time": 1668232413,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125757,
+        "num": 125757,
+        "word": "国家卫健委解释为何取消次密接",
+        "onboard_time": 1668244949,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124496,
+        "num": 124496,
+        "word": "饭店狗狗长期跟客人讨肉胖成猪",
+        "onboard_time": 1668235651,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115841,
+        "num": 115841,
+        "word": "有个爱管你的女朋友什么体验",
+        "onboard_time": 1668250109,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108326,
+        "num": 115836,
+        "word": "解说杯S3",
+        "onboard_time": 1668247050,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106258,
+        "num": 115802,
+        "word": "林孝埈再次退赛",
+        "onboard_time": 1668227437,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246461,
+        "num": 115788,
+        "word": "张婧仪晒朱韵高中校服照",
+        "onboard_time": 1668248730,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233216,
+        "num": 115780,
+        "word": "严浩翔弹贝斯了",
+        "onboard_time": 1668250109,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 115757,
+        "word": "90后女生下班时间拍电影获金鸡奖",
+        "onboard_time": 1668247295,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85550,
+        "num": 115726,
+        "word": "米勒拜师阿Bin",
+        "onboard_time": 1668238529,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84003,
+        "num": 115710,
+        "word": "陕西发现夏时期大型中心聚落遗址",
+        "onboard_time": 1668250891,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82811,
+        "num": 115685,
+        "word": "00后女孩帮老人线上买菜被赠排骨汤",
+        "onboard_time": 1668244590,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 81725,
+        "num": 115680,
+        "word": "妻子手卡压面机丈夫满眼心疼",
+        "onboard_time": 1668251371,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80880,
+        "num": 115659,
+        "word": "深圳大学回应",
+        "onboard_time": 1668216931,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 79164,
+        "num": 115629,
+        "word": "武大靖模仿任子威沙僧式发言",
+        "onboard_time": 1668246208,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72511,
+        "num": 115604,
+        "word": "2岁萌娃被妈妈教育哭着找狗狗告状",
+        "onboard_time": 1668240568,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟五号奔赴太空#"
+    }
+  }
+}
