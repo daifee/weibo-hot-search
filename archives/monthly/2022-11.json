@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668231441604,
+  "endTime": 1668234439653,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -857,6 +857,14 @@
       "onboard_time": 1667567250,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1560007,
+      "num": 1560007,
+      "word": "重庆交大一学生被公告退学",
+      "onboard_time": 1668229531,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1555239,
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999380,
+      "num": 999380,
+      "word": "服装店因老板睡觉没戴口罩被黄牌警告",
+      "onboard_time": 1668230910,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996487,
       "num": 996487,
       "word": "韩国爱豆出身在家吸毒被捕",
@@ -2787,20 +2803,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 793632,
+      "num": 793632,
+      "word": "库里 天神下凡",
+      "onboard_time": 1668232413,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 791639,
       "num": 272763,
       "word": "kp 退团",
       "onboard_time": 1667576551,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 789625,
-      "num": 789625,
-      "word": "重庆交大一学生被公告退学",
-      "onboard_time": 1668229531,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 786628,
@@ -4075,6 +4091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609216,
+      "num": 353040,
+      "word": "网曝烧烤摊女子深夜扰民遭围殴",
+      "onboard_time": 1668232169,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605494,
       "num": 425132,
       "word": "被掌掴男童母亲讲述事发经过",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1667281646,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 580664,
+      "num": 348692,
+      "word": "倪妮金鸡奖绿野仙踪造型",
+      "onboard_time": 1668232349,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 580225,
@@ -5859,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468715,
+      "num": 468715,
+      "word": "官方回应四川现乐山大佛孪生兄弟",
+      "onboard_time": 1668229052,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467434,
       "num": 467434,
       "word": "复仇者联盟4首播收视第一",
@@ -6961,6 +7001,14 @@
       "onboard_time": 1668212967,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407867,
+      "num": 407867,
+      "word": "田柾国将在卡塔尔世界杯开幕式表演",
+      "onboard_time": 1668233910,
+      "rank": 7,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 407802,
@@ -8091,6 +8139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354996,
+      "num": 354996,
+      "word": "苏有朋高圆圆你好星期六同框",
+      "onboard_time": 1668231030,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354872,
       "num": 503379,
       "word": "中方回应美延续特朗普时期对华禁令",
@@ -8403,6 +8459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344239,
+      "num": 344239,
+      "word": "阿大葱油饼疑似闭店",
+      "onboard_time": 1668230011,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343692,
       "num": 89258,
       "word": "陈飞宇张婧仪kswl",
@@ -8553,14 +8617,6 @@
       "onboard_time": 1667720964,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338538,
-      "num": 338538,
-      "word": "苏有朋高圆圆你好星期六同框",
-      "onboard_time": 1668231030,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 338508,
@@ -9016,14 +9072,6 @@
       "word": "zlib",
       "onboard_time": 1667540905,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321857,
-      "num": 321857,
-      "word": "官方回应四川现乐山大佛孪生兄弟",
-      "onboard_time": 1668229052,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -9641,6 +9689,14 @@
       "onboard_time": 1667439084,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300610,
+      "num": 300610,
+      "word": "扫黑行动尺度有多大",
+      "onboard_time": 1668232349,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 300581,
@@ -11035,6 +11091,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 256350,
+      "num": 233748,
+      "word": "王源说年纪想说小点",
+      "onboard_time": 1668233429,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255742,
       "num": 255742,
       "word": "卿卿日常全员营业好积极",
@@ -11353,6 +11417,14 @@
       "onboard_time": 1667799390,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244934,
+      "num": 233634,
+      "word": "张婧仪唱歌视频",
+      "onboard_time": 1668232049,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 244729,
@@ -11745,6 +11817,14 @@
       "onboard_time": 1667223687,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233521,
+      "num": 233521,
+      "word": "库里随手就是个半场三分",
+      "onboard_time": 1668231751,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 233515,
@@ -12787,14 +12867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211829,
-      "num": 178166,
-      "word": "阿大葱油饼疑似闭店",
-      "onboard_time": 1668230011,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211799,
       "num": 211799,
       "word": "李峋歪嘴笑",
@@ -13619,6 +13691,14 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 193919,
+      "num": 193919,
+      "word": "不再甄别次密接对广州疫情防控有何影响",
+      "onboard_time": 1668228631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193549,
       "num": 163030,
       "word": "GMA获奖名单",
@@ -13659,14 +13739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192601,
-      "num": 192601,
-      "word": "不再甄别次密接对广州疫情防控有何影响",
-      "onboard_time": 1668228631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192245,
       "num": 102321,
       "word": "NCTDREAM将发行首张日文单曲",
@@ -13681,6 +13753,22 @@
       "onboard_time": 1667897006,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191820,
+      "num": 170352,
+      "word": "黄明昊走在星辰大海吃瓜一线",
+      "onboard_time": 1668233250,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191676,
+      "num": 191676,
+      "word": "樊振东4比0牛冠凯",
+      "onboard_time": 1668231328,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 191664,
@@ -15179,6 +15267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164049,
+      "num": 164049,
+      "word": "湖人又输",
+      "onboard_time": 1668233551,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163899,
       "num": 163899,
       "word": "李峋为朱韵开发题库",
@@ -16275,6 +16371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "天舟五号成功对接空间站组合体",
+      "onboard_time": 1668234330,
+      "rank": 38,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 147853,
       "num": 96536,
       "word": "白术挺好的医生长了张嘴",
@@ -16817,14 +16921,6 @@
       "onboard_time": 1667729185,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140873,
-      "num": 140873,
-      "word": "樊振东4比0牛冠凯",
-      "onboard_time": 1668231328,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 140151,
@@ -17817,6 +17913,14 @@
       "onboard_time": 1667310446,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126915,
+      "num": 126915,
+      "word": "NBA",
+      "onboard_time": 1668234148,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126831,
@@ -19243,14 +19347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107176,
-      "num": 107176,
-      "word": "服装店因老板睡觉没戴口罩被黄牌警告",
-      "onboard_time": 1668230910,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106845,
       "num": 106845,
       "word": "70后女子转行整理收纳师找回自信",
@@ -19473,6 +19569,14 @@
       "onboard_time": 1667652326,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103941,
+      "num": 103941,
+      "word": "阴阳师",
+      "onboard_time": 1668233131,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 103848,
