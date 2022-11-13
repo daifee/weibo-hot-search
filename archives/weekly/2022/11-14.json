@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668375354737,
+  "endTime": 1668378112902,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168803,
+      "num": 50494,
+      "word": "多家医院不再向社会提供愿检尽检服务",
+      "onboard_time": 1668370932,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "伊斯坦布尔知名步行街发生爆炸",
@@ -355,14 +363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103575,
-      "num": 32908,
-      "word": "多家医院不再向社会提供愿检尽检服务",
-      "onboard_time": 1668370932,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96992,
       "num": 96992,
       "word": "千万不要养狐狸",
@@ -411,6 +411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 66061,
+      "num": 50140,
+      "word": "上海二手房量价齐跌",
+      "onboard_time": 1668374710,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 63275,
       "num": 63275,
       "word": "陈小纭郝葭会黑化吗",
@@ -427,8 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56065,
-      "num": 35402,
+      "raw_hot": 57659,
+      "num": 49618,
       "word": "女子为减肥绑牙齿让嘴巴闭合",
       "onboard_time": 1668363915,
       "rank": 45,
@@ -441,6 +449,14 @@
       "onboard_time": 1668335731,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52414,
+      "num": 49466,
+      "word": "24头大象偷喝村民自酿酒醉倒大睡",
+      "onboard_time": 1668362416,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50514,
@@ -459,16 +475,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 37435,
-      "num": 33730,
-      "word": "24头大象偷喝村民自酿酒醉倒大睡",
-      "onboard_time": 1668362416,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27018,
-      "num": 27018,
+      "raw_hot": 40514,
+      "num": 40514,
       "word": "小男孩展示自家红薯库惊呆网友",
       "onboard_time": 1668367992,
       "rank": 49,
@@ -483,16 +491,32 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24273,
+      "num": 24273,
+      "word": "罗晋新剧跟奚美娟借钱",
+      "onboard_time": 1668375612,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 20520,
-      "num": 17568,
+      "num": 17838,
       "word": "加密货币价格大跌",
       "onboard_time": 1668368473,
       "rank": 31,
       "category": "财经"
     },
     {
-      "raw_hot": 15197,
-      "num": 15197,
+      "raw_hot": 18124,
+      "num": 18124,
+      "word": "王鹤棣金鸡奖内场大合照",
+      "onboard_time": 1668378014,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15848,
+      "num": 15848,
       "word": "这是天庭运动会吗",
       "onboard_time": 1668371831,
       "rank": 49,
@@ -513,14 +537,6 @@
       "onboard_time": 1668336869,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 12232,
-      "num": 12232,
-      "word": "上海二手房量价齐跌",
-      "onboard_time": 1668374710,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 11042,
