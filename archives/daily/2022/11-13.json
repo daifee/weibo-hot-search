@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668320823257,
+  "endTime": 1668321831729,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105648,
+      "num": 1105648,
+      "word": "河北传媒学院通报一学生不幸离世",
+      "onboard_time": 1668319048,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1015230,
       "num": 1015230,
       "word": "胃不会越撑越大越饿越小",
@@ -97,14 +105,6 @@
       "onboard_time": 1668304168,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 824249,
-      "num": 300877,
-      "word": "河北传媒学院通报一学生不幸离世",
-      "onboard_time": 1668319048,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 798251,
@@ -227,11 +227,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541490,
+      "num": 541490,
+      "word": "警方通报夫妻三环徒手拦车",
+      "onboard_time": 1668318390,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541282,
       "num": 541282,
       "word": "男子辞职后在洞穴生活失联近3年",
       "onboard_time": 1668262477,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505344,
+      "num": 505344,
+      "word": "妻子临产丈夫订花寄语不必为母则刚",
+      "onboard_time": 1668319290,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1668314969,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496580,
-      "num": 300197,
-      "word": "警方通报夫妻三环徒手拦车",
-      "onboard_time": 1668318390,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468275,
@@ -305,6 +313,14 @@
       "onboard_time": 1668255934,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441260,
+      "num": 441260,
+      "word": "杭州一40岁女子坚持不婚不育",
+      "onboard_time": 1668320488,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439364,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 394041,
-      "num": 308065,
+      "num": 366409,
       "word": "杨蓉恭喜朱一龙获金鸡影帝",
       "onboard_time": 1668315990,
       "rank": 21,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 311489,
-      "num": 223094,
+      "num": 237418,
       "word": "原来黄明昊也考古王鹤棣",
       "onboard_time": 1668319647,
       "rank": 20,
@@ -489,14 +505,6 @@
       "onboard_time": 1668317728,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 296221,
-      "num": 296221,
-      "word": "妻子临产丈夫订花寄语不必为母则刚",
-      "onboard_time": 1668319290,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294605,
@@ -587,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261174,
+      "num": 261174,
+      "word": "小猴被压巨石下消防员变唐僧解救",
+      "onboard_time": 1668317789,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "这辈子没见过这么多猫",
@@ -609,6 +625,14 @@
       "onboard_time": 1668258036,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246241,
+      "num": 246241,
+      "word": "黑龙",
+      "onboard_time": 1668320907,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 243081,
@@ -659,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223191,
-      "num": 223191,
-      "word": "小猴被压巨石下消防员变唐僧解救",
-      "onboard_time": 1668317789,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222737,
       "num": 99146,
       "word": "杨幂白宇医学术语表白教学",
@@ -689,6 +705,14 @@
       "onboard_time": 1668307109,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212086,
+      "num": 77623,
+      "word": "IXFORM毕业见面会延期",
+      "onboard_time": 1668321808,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 211527,
@@ -729,6 +753,14 @@
       "onboard_time": 1668259842,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200096,
+      "num": 77594,
+      "word": "周洁琼张艺凡金鸡奖同框",
+      "onboard_time": 1668321808,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196503,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132549,
+      "num": 132549,
+      "word": "狗狗被小老鼠一路追咬",
+      "onboard_time": 1668319888,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130554,
       "num": 130554,
       "word": "长沙女子自制霉豆腐长黑毛仍要吃",
@@ -1043,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109108,
-      "num": 109108,
-      "word": "狗狗被小老鼠一路追咬",
-      "onboard_time": 1668319888,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108002,
       "num": 108002,
       "word": "在游戏里当妈宝是什么体验",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1668313349,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105342,
-      "num": 105342,
-      "word": "杭州一40岁女子坚持不婚不育",
-      "onboard_time": 1668320488,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104327,
@@ -1171,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90003,
+      "num": 90003,
+      "word": "店主上菜滑倒直接跪式服务",
+      "onboard_time": 1668321328,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89845,
       "num": 89845,
       "word": "殉职交警曾狂奔400米截停肇事男子",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1668310108,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87262,
+      "num": 87262,
+      "word": "得物",
+      "onboard_time": 1668321687,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85963,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1668320728,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78571,
+      "num": 78571,
+      "word": "网红扮老人后空翻逗围观老人引担忧",
+      "onboard_time": 1668321089,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77198,
