@@ -1,0 +1,410 @@
+{
+  "runTime": 1668324968889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1558324,
+        "num": 1558324,
+        "word": "张伟丽",
+        "onboard_time": 1668305250,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1352599,
+        "num": 1352599,
+        "word": "河北传媒学院通报一学生不幸离世",
+        "onboard_time": 1668319048,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52424,
+        "num": 1244498,
+        "word": "卫星视角下湿地城市的生态美",
+        "onboard_time": 1668312448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1179631,
+        "num": 1179631,
+        "word": "杭州一40岁女子坚持不婚不育",
+        "onboard_time": 1668320488,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166068,
+        "num": 1166068,
+        "word": "得物",
+        "onboard_time": 1668321687,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 801480,
+        "num": 801480,
+        "word": "妻子临产丈夫订花寄语不必为母则刚",
+        "onboard_time": 1668319290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590023,
+        "num": 590023,
+        "word": "潮州一特斯拉失控致2死3伤",
+        "onboard_time": 1668313950,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 575105,
+        "num": 575105,
+        "word": "胃不会越撑越大越饿越小",
+        "onboard_time": 1668314910,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573296,
+        "num": 573296,
+        "word": "白敬亭终于开始营业了",
+        "onboard_time": 1668308790,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465798,
+        "num": 465798,
+        "word": "音银智利的观众向爱豆乱扔东西",
+        "onboard_time": 1668323248,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548357,
+        "num": 463413,
+        "word": "特斯拉回应潮州撞人事故",
+        "onboard_time": 1668323010,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 460224,
+        "num": 460224,
+        "word": "鞠婧祎红卷发碎花头巾",
+        "onboard_time": 1668324627,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400254,
+        "num": 400254,
+        "word": "陈楚生苏醒王栎鑫俞灏明张远合体啦",
+        "onboard_time": 1668321870,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378006,
+        "num": 378006,
+        "word": "116866警号被永远封存",
+        "onboard_time": 1668305069,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369461,
+        "num": 369461,
+        "word": "叶舒华舞台上摔倒",
+        "onboard_time": 1668309390,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350581,
+        "num": 350581,
+        "word": "张伟丽夺UFC金腰带",
+        "onboard_time": 1668316827,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330119,
+        "num": 330119,
+        "word": "呼和浩特卫健委通报核酸结果错报",
+        "onboard_time": 1668324150,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264552,
+        "num": 264552,
+        "word": "店主上菜滑倒直接跪式服务",
+        "onboard_time": 1668321328,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249427,
+        "num": 249427,
+        "word": "周洁琼张艺凡金鸡奖同框",
+        "onboard_time": 1668321808,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241210,
+        "num": 241210,
+        "word": "警方通报夫妻三环徒手拦车",
+        "onboard_time": 1668318390,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213942,
+        "num": 213942,
+        "word": "杨蓉恭喜朱一龙获金鸡影帝",
+        "onboard_time": 1668315990,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204388,
+        "num": 204388,
+        "word": "恭喜阿瑟他爸",
+        "onboard_time": 1668297986,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196104,
+        "num": 196104,
+        "word": "陈紫函吃螺蛳粉连说12遍太香了",
+        "onboard_time": 1668314128,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194125,
+        "num": 194125,
+        "word": "猫睡了但尾巴没睡",
+        "onboard_time": 1668317369,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194014,
+        "num": 194014,
+        "word": "今天的东北人vs南方人",
+        "onboard_time": 1668323549,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175115,
+        "num": 175115,
+        "word": "小猴被压巨石下消防员变唐僧解救",
+        "onboard_time": 1668317789,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170103,
+        "num": 170103,
+        "word": "网红扮老人后空翻逗围观老人引担忧",
+        "onboard_time": 1668321089,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "山西把小米做成了咖啡",
+        "onboard_time": 1668314308,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151913,
+        "num": 151913,
+        "word": "狗狗被小老鼠一路追咬",
+        "onboard_time": 1668319888,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "广州新增本土感染者3653例",
+        "onboard_time": 1668305670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166249,
+        "num": 151717,
+        "word": "原来黄明昊也考古王鹤棣",
+        "onboard_time": 1668319647,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162819,
+        "num": 151694,
+        "word": "陈瑶加入中视同成",
+        "onboard_time": 1668314969,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152200,
+        "num": 151662,
+        "word": "神隐",
+        "onboard_time": 1668313169,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "男子吃旋转火锅将空签放回托盘",
+        "onboard_time": 1668310649,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149515,
+        "num": 149515,
+        "word": "黑龙",
+        "onboard_time": 1668320907,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147497,
+        "num": 147497,
+        "word": "原来婚纱也可以这么可爱",
+        "onboard_time": 1668308489,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137023,
+        "num": 137023,
+        "word": "才知道Excel可以一次性整理图片",
+        "onboard_time": 1668310588,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 134037,
+        "num": 134037,
+        "word": "大爷偷6000元当场被逮下跪求饶",
+        "onboard_time": 1668307290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129814,
+        "num": 129814,
+        "word": "张婧仪说朱韵有一种包容的强大",
+        "onboard_time": 1668322950,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116793,
+        "num": 116793,
+        "word": "中国短道速滑男子5000米接力金牌",
+        "onboard_time": 1668308549,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115499,
+        "num": 115499,
+        "word": "杨千嬅金鸡奖绿色纱裙",
+        "onboard_time": 1668322408,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107196,
+        "num": 107196,
+        "word": "IXFORM毕业见面会延期",
+        "onboard_time": 1668321808,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105218,
+        "num": 105218,
+        "word": "重庆新增本土确诊158例无症状1662例",
+        "onboard_time": 1668305549,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105130,
+        "num": 105130,
+        "word": "女子将缅因猫毛搓成一只手套",
+        "onboard_time": 1668308069,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104126,
+        "num": 104126,
+        "word": "神农架会疯狂吸水的植物太神奇",
+        "onboard_time": 1668324329,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95156,
+        "num": 95156,
+        "word": "女生的P图手法有多厉害",
+        "onboard_time": 1668315509,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 93686,
+        "num": 93686,
+        "word": "8个月大宝宝轻抚殉职父亲遗像",
+        "onboard_time": 1668322109,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93550,
+        "num": 93550,
+        "word": "美得州两架飞机航展上相撞坠毁",
+        "onboard_time": 1668305549,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 92544,
+        "num": 92544,
+        "word": "挤在门缝里晒太阳的狗狗",
+        "onboard_time": 1668318268,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79515,
+        "num": 89955,
+        "word": "重庆千名师生出征抗疫",
+        "onboard_time": 1668324867,
+        "rank": 49,
+        "category": "社会正能量,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
