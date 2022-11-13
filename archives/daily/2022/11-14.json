@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668367053659,
+  "endTime": 1668368026194,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -473,6 +473,22 @@
       "onboard_time": 1668336869,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11042,
+      "num": 11042,
+      "word": "高校老师肩挑背扛给同学送早餐",
+      "onboard_time": 1668367273,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10752,
+      "num": 10752,
+      "word": "小男孩展示自家红薯库惊呆网友",
+      "onboard_time": 1668367992,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
