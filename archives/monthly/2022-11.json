@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668349145996,
+  "endTime": 1668350182801,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1667292867,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1052495,
+      "num": 1052495,
+      "word": "男子分手后3个月逆袭减肥80斤",
+      "onboard_time": 1668347548,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051608,
@@ -4147,6 +4155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 670839,
+      "num": 670839,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1668349292,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669531,
       "num": 669531,
       "word": "1岁男孩餐后过敏肿成可达鸭",
@@ -4523,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 633958,
-      "num": 317872,
-      "word": "男子分手后3个月逆袭减肥80斤",
-      "onboard_time": 1668347548,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630169,
       "num": 630169,
       "word": "广州番禺全区一半镇街出现病例",
@@ -4873,6 +4881,14 @@
       "onboard_time": 1667661929,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594137,
+      "num": 594137,
+      "word": "尹峥元英大婚",
+      "onboard_time": 1668348208,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 592419,
@@ -5915,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521280,
+      "num": 521280,
+      "word": "Viper",
+      "onboard_time": 1668349170,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 520928,
       "num": 520928,
       "word": "这小猫也太油腻了吧",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1668143617,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 518662,
+      "num": 518662,
+      "word": "千万不要养狐狸",
+      "onboard_time": 1668345870,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 518590,
@@ -7739,14 +7771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423976,
-      "num": 423976,
-      "word": "千万不要养狐狸",
-      "onboard_time": 1668345870,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 423866,
       "num": 423866,
       "word": "杨幂新剧的演技",
@@ -7905,6 +7929,14 @@
       "onboard_time": 1667875288,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416004,
+      "num": 416004,
+      "word": "偷偷藏不住陈哲远杀青",
+      "onboard_time": 1668348571,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 415797,
@@ -8723,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380032,
+      "num": 380032,
+      "word": "苏慎原型是苏培盛",
+      "onboard_time": 1668347429,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -8880,6 +8920,14 @@
       "word": "秸秆恶意被绑5把铁锤农户损失惨重",
       "onboard_time": 1667973626,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371905,
+      "num": 371905,
+      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+      "onboard_time": 1668348989,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9464,14 +9512,6 @@
       "word": "杨幂白宇是真的笑场了吧",
       "onboard_time": 1667919211,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 349896,
-      "num": 311736,
-      "word": "苏慎原型是苏培盛",
-      "onboard_time": 1668347429,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -10179,6 +10219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327089,
+      "num": 327089,
+      "word": "一次收到6.7吨快递是什么感受",
+      "onboard_time": 1668348687,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327030,
       "num": 327030,
       "word": "陈晓苏翊鸣再同框",
@@ -10201,14 +10249,6 @@
       "onboard_time": 1667361987,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 326427,
-      "num": 243993,
-      "word": "尹峥元英大婚",
-      "onboard_time": 1668348208,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 325678,
@@ -11873,14 +11913,6 @@
       "onboard_time": 1667354005,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278546,
-      "num": 131770,
-      "word": "偷偷藏不住陈哲远杀青",
-      "onboard_time": 1668348571,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 278291,
@@ -15331,6 +15363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199953,
+      "num": 153692,
+      "word": "朱一龙金鸡奖后台反差萌",
+      "onboard_time": 1668347306,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -16051,6 +16091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187935,
+      "num": 151183,
+      "word": "檀健次自曝试戏过左耳",
+      "onboard_time": 1668349108,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187927,
       "num": 187927,
       "word": "李峋朱韵同一类人",
@@ -16393,14 +16441,6 @@
       "onboard_time": 1668140729,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183225,
-      "num": 115421,
-      "word": "朱一龙金鸡奖后台反差萌",
-      "onboard_time": 1668347306,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 182989,
@@ -18915,6 +18955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146080,
+      "num": 146080,
+      "word": "2022世界杯了个杯",
+      "onboard_time": 1668346230,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145989,
       "num": 145989,
       "word": "爷爷日记里有孙女20年的成长",
@@ -20051,14 +20099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131925,
-      "num": 95864,
-      "word": "檀健次自曝试戏过左耳",
-      "onboard_time": 1668349108,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131922,
       "num": 131922,
       "word": "被不期而至婆婆气死",
@@ -20169,14 +20209,6 @@
       "onboard_time": 1668178296,
       "rank": 40,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 130084,
-      "num": 130084,
-      "word": "一次收到6.7吨快递是什么感受",
-      "onboard_time": 1668348687,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130058,
@@ -20361,14 +20393,6 @@
       "onboard_time": 1667734767,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 128090,
-      "num": 128090,
-      "word": "2022世界杯了个杯",
-      "onboard_time": 1668346230,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 128020,
@@ -20625,6 +20649,14 @@
       "onboard_time": 1668163831,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125131,
+      "num": 125131,
+      "word": "武汉三镇vs河南嵩山龙门",
+      "onboard_time": 1668347730,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125077,
@@ -21811,14 +21843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109561,
-      "num": 109561,
-      "word": "武汉三镇vs河南嵩山龙门",
-      "onboard_time": 1668347730,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109513,
       "num": 109513,
       "word": "光头可以学起来了",
@@ -22987,14 +23011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97349,
-      "num": 97349,
-      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
-      "onboard_time": 1668348989,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97316,
       "num": 97316,
       "word": "煎饼果子新手入门小细节",
@@ -23017,6 +23033,14 @@
       "onboard_time": 1668059366,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96910,
+      "num": 96910,
+      "word": "目击者讲述潮州特斯拉车祸瞬间",
+      "onboard_time": 1668349650,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96795,
@@ -23099,6 +23123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96319,
+      "num": 96319,
+      "word": "自制了一把樱花味的琴",
+      "onboard_time": 1668350069,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96214,
       "num": 351674,
       "word": "六旬老农10年写30本种地日记",
@@ -23169,6 +23201,14 @@
       "onboard_time": 1667976564,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 95542,
+      "num": 95542,
+      "word": "这不就是梦幻中的场景吗",
+      "onboard_time": 1668349890,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 95441,
