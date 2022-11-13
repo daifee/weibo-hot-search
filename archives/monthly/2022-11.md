@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/13 16:27:22
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/13 16:42:35
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E6%BD%AE%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%23" target="weibo">
+特斯拉回应潮州撞人事故（热度：1009268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%B2%89%E4%B8%9D%E6%8E%A8%E6%8C%A4%E8%87%B430%E4%BA%BA%E6%99%95%E5%8E%A5%23" target="weibo">
 韩国男团演唱会上粉丝推挤致30人晕厥（热度：1005827）
 </a>
@@ -1739,12 +1745,6 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E4%BB%A5%E9%98%B2%E7%96%AB%E4%B8%BA%E5%90%8D%E8%AE%A9%E5%AE%A2%E6%88%B7%E6%B7%8B%E9%9B%A8%E6%8E%92%E9%98%9F%23" target="weibo">
 银行以防疫为名让客户淋雨排队（热度：1001074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E6%BD%AE%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%23" target="weibo">
-特斯拉回应潮州撞人事故（热度：1000912）
 </a>
 </li>
 
@@ -2067,6 +2067,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%9F%9C%E5%A7%90%E6%BF%80%E5%B0%86%E6%B3%95%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
+王源柜姐激将法受害者（热度：881474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AA%23" target="weibo">
 周启豪（热度：880547）
 </a>
@@ -2099,12 +2105,6 @@ GEN官宣ruler离队（热度：944685）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3156%E4%BA%BA%23" target="weibo">
 梨泰院踩踏事故死亡人数升至156人（热度：873895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%9F%9C%E5%A7%90%E6%BF%80%E5%B0%86%E6%B3%95%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
-王源柜姐激将法受害者（热度：873147）
 </a>
 </li>
 
@@ -2727,6 +2727,12 @@ Jennie演唱会中途脚伤复发（热度：742614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E5%81%87%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%8C11%E5%BD%93%E5%A4%A9%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E6%8A%93%23" target="weibo">
+售假女主播双11当天直播时被抓（热度：724896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E5%90%B8%E8%A1%80%E9%AC%BC%E7%AF%87%23" target="weibo">
 少爷和我吸血鬼篇（热度：724831）
 </a>
@@ -2955,6 +2961,12 @@ T1对战DRX（热度：692544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%98%AF%E6%87%82%E9%80%81%E7%A4%BC%E7%9A%84%23" target="weibo">
+张杰是懂送礼的（热度：681312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E4%B8%BA%E5%B9%BC%E5%AD%90%E4%B9%B0%E5%A5%B6%E7%B2%89%E6%8C%81%E5%88%80%E9%97%AF%E5%8D%A1%23" target="weibo">
 警方通报男子为幼子买奶粉持刀闯卡（热度：680168）
 </a>
@@ -3035,6 +3047,12 @@ EXO台历（热度：673804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E4%B8%8A%E9%97%A8%E6%8E%8C%E6%8E%B4%E7%94%B7%E7%AB%A5%23" target="weibo">
 警方回应男子上门掌掴男童（热度：672826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%9D%A8%E6%B4%8B%E6%9D%A8%E9%A2%96%E5%80%AA%E5%A6%AE%E6%97%A9%E6%9C%9F%E6%A8%B1%E8%8A%B1%E5%86%99%E7%9C%9F%23" target="weibo">
+鹿晗杨洋杨颖倪妮早期樱花写真（热度：672384）
 </a>
 </li>
 
@@ -3185,12 +3203,6 @@ hybe将明年推出泡泡（热度：657725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E5%B7%B2%E7%BB%8F%E6%88%90%E7%AB%8B%E6%95%B4%E6%B2%BB%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD%23" target="weibo">
 各地已经成立整治层层加码工作专班（热度：648667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%98%AF%E6%87%82%E9%80%81%E7%A4%BC%E7%9A%84%23" target="weibo">
-张杰是懂送礼的（热度：648323）
 </a>
 </li>
 
@@ -4433,12 +4445,6 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A3%B9%E8%A2%AB%E5%AD%90%E5%B1%8B%E5%A4%96%E8%BA%BA%E5%B9%B3%E6%99%92%E5%A4%AA%E9%98%B3%23" target="weibo">
 女生裹被子屋外躺平晒太阳（热度：511491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E5%81%87%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%8C11%E5%BD%93%E5%A4%A9%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E6%8A%93%23" target="weibo">
-售假女主播双11当天直播时被抓（热度：511367）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone中国的周销量下降27%（热度：405861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%80%E4%B8%8B%E7%A9%BA%E6%8A%9512%E5%90%A8%E6%B0%B4%E5%A4%AA%E9%9C%87%E6%92%BC%23" target="weibo">
 飞机一下空投12吨水太震撼（热度：402155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E5%91%A8%E5%90%AF%E8%B1%AA%E4%BD%95%E5%8D%93%E4%BD%B3%23" target="weibo">
-王楚钦孙颖莎3比0周启豪何卓佳（热度：402032）
 </a>
 </li>
 
