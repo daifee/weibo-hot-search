@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668321831729,
+  "endTime": 1668324005358,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1428414,
+      "num": 1428414,
+      "word": "河北传媒学院通报一学生不幸离世",
+      "onboard_time": 1668319048,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1413316,
       "num": 1126319,
       "word": "白敬亭终于开始营业了",
@@ -83,20 +91,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1105648,
-      "num": 1105648,
-      "word": "河北传媒学院通报一学生不幸离世",
-      "onboard_time": 1668319048,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1015230,
       "num": 1015230,
       "word": "胃不会越撑越大越饿越小",
       "onboard_time": 1668314910,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009535,
+      "num": 1009535,
+      "word": "杭州一40岁女子坚持不婚不育",
+      "onboard_time": 1668320488,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972222,
+      "num": 972222,
+      "word": "得物",
+      "onboard_time": 1668321687,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 949495,
@@ -112,6 +128,14 @@
       "word": "男子吃旋转火锅将空签放回托盘",
       "onboard_time": 1668310649,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794537,
+      "num": 794537,
+      "word": "妻子临产丈夫订花寄语不必为母则刚",
+      "onboard_time": 1668319290,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543027,
+      "num": 543027,
+      "word": "音银智利的观众向爱豆乱扔东西",
+      "onboard_time": 1668323248,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541490,
       "num": 541490,
       "word": "警方通报夫妻三环徒手拦车",
@@ -240,14 +272,6 @@
       "word": "男子辞职后在洞穴生活失联近3年",
       "onboard_time": 1668262477,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505344,
-      "num": 505344,
-      "word": "妻子临产丈夫订花寄语不必为母则刚",
-      "onboard_time": 1668319290,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -315,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441260,
-      "num": 441260,
-      "word": "杭州一40岁女子坚持不婚不育",
-      "onboard_time": 1668320488,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439364,
       "num": 439364,
       "word": "gidle音银智利公演中断",
@@ -369,6 +385,14 @@
       "onboard_time": 1668296844,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419513,
+      "num": 419513,
+      "word": "陈楚生苏醒王栎鑫俞灏明张远合体啦",
+      "onboard_time": 1668321870,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 406072,
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271448,
+      "num": 271448,
+      "word": "周洁琼张艺凡金鸡奖同框",
+      "onboard_time": 1668321808,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268656,
       "num": 268656,
       "word": "小妲己今天真高兴",
@@ -601,6 +633,14 @@
       "onboard_time": 1668317789,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256734,
+      "num": 256734,
+      "word": "特斯拉回应潮州撞人事故",
+      "onboard_time": 1668323010,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 254789,
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 212086,
-      "num": 77623,
+      "num": 112720,
       "word": "IXFORM毕业见面会延期",
       "onboard_time": 1668321808,
       "rank": 47,
@@ -755,20 +795,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200096,
-      "num": 77594,
-      "word": "周洁琼张艺凡金鸡奖同框",
-      "onboard_time": 1668321808,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196503,
       "num": 141097,
       "word": "这居然是玖月奇迹王小玮",
       "onboard_time": 1668306328,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193753,
+      "num": 193753,
+      "word": "店主上菜滑倒直接跪式服务",
+      "onboard_time": 1668321328,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190868,
@@ -843,6 +883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170996,
+      "num": 170996,
+      "word": "狗狗被小老鼠一路追咬",
+      "onboard_time": 1668319888,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170978,
       "num": 149913,
       "word": "何洛洛红毯签名好帅",
@@ -873,6 +921,14 @@
       "onboard_time": 1668304588,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160953,
+      "num": 146125,
+      "word": "张婧仪说朱韵有一种包容的强大",
+      "onboard_time": 1668322950,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 160353,
@@ -939,12 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145594,
+      "num": 145594,
+      "word": "杨千嬅金鸡奖绿色纱裙",
+      "onboard_time": 1668322408,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143111,
       "num": 143111,
       "word": "人生大事",
       "onboard_time": 1668280094,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139742,
+      "num": 139742,
+      "word": "网红扮老人后空翻逗围观老人引担忧",
+      "onboard_time": 1668321089,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139032,
@@ -968,14 +1040,6 @@
       "word": "航拍台湾最美沿海公路",
       "onboard_time": 1668298887,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132549,
-      "num": 132549,
-      "word": "狗狗被小老鼠一路追咬",
-      "onboard_time": 1668319888,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1017,6 +1081,14 @@
       "onboard_time": 1668256293,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123327,
+      "num": 123327,
+      "word": "今天的东北人vs南方人",
+      "onboard_time": 1668323549,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 122710,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1668306869,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112151,
+      "num": 112151,
+      "word": "陈飞宇全能男友花絮",
+      "onboard_time": 1668323368,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 109591,
@@ -1187,6 +1267,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 93379,
+      "num": 93379,
+      "word": "小朋友学得还挺快",
+      "onboard_time": 1668323849,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91788,
       "num": 101085,
       "word": "养猫后电脑都关不了",
@@ -1195,11 +1283,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90003,
-      "num": 90003,
-      "word": "店主上菜滑倒直接跪式服务",
-      "onboard_time": 1668321328,
-      "rank": 41,
+      "raw_hot": 91030,
+      "num": 91030,
+      "word": "网友称得物调用手机权限删投诉视频",
+      "onboard_time": 1668323190,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 90950,
+      "num": 90950,
+      "word": "8个月大宝宝轻抚殉职父亲遗像",
+      "onboard_time": 1668322109,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1233,14 +1329,6 @@
       "onboard_time": 1668310108,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87262,
-      "num": 87262,
-      "word": "得物",
-      "onboard_time": 1668321687,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85963,
@@ -1297,14 +1385,6 @@
       "onboard_time": 1668320728,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78571,
-      "num": 78571,
-      "word": "网红扮老人后空翻逗围观老人引担忧",
-      "onboard_time": 1668321089,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77198,
