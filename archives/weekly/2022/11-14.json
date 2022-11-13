@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668370975902,
+  "endTime": 1668371874001,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -475,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18982,
+      "raw_hot": 20520,
       "num": 17568,
       "word": "加密货币价格大跌",
       "onboard_time": 1668368473,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14359,
+      "num": 14359,
+      "word": "多家医院不再向社会提供愿检尽检服务",
+      "onboard_time": 1668370932,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14033,
@@ -491,28 +499,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 11042,
-      "num": 11042,
-      "word": "高校老师肩挑背扛给同学送早餐",
-      "onboard_time": 1668367273,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10910,
-      "num": 10910,
+      "raw_hot": 12075,
+      "num": 12075,
       "word": "想过离谱但没想过这么离谱",
       "onboard_time": 1668369792,
       "rank": 45,
       "category": "影视"
     },
     {
-      "raw_hot": 8957,
-      "num": 10265,
-      "word": "多家医院不再向社会提供愿检尽检服务",
-      "onboard_time": 1668370932,
-      "rank": 49,
+      "raw_hot": 11042,
+      "num": 11183,
+      "word": "高校老师肩挑背扛给同学送早餐",
+      "onboard_time": 1668367273,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8595,
+      "num": 11179,
+      "word": "这是天庭运动会吗",
+      "onboard_time": 1668371831,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

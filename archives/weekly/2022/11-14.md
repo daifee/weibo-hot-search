@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/14 00:30:04 ~ 2022/11/14 04:22:55
+本榜单时间：2022/11/14 00:30:04 ~ 2022/11/14 04:37:54
 </p>
 </blockquote>
 <p>
@@ -370,7 +370,13 @@ Viper（热度：330030）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C%23" target="weibo">
-加密货币价格大跌（热度：18982）
+加密货币价格大跌（热度：20520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%86%8D%E5%90%91%E7%A4%BE%E4%BC%9A%E6%8F%90%E4%BE%9B%E6%84%BF%E6%A3%80%E5%B0%BD%E6%A3%80%E6%9C%8D%E5%8A%A1%23" target="weibo">
+多家医院不再向社会提供愿检尽检服务（热度：14359）
 </a>
 </li>
 
@@ -381,20 +387,20 @@ Viper（热度：330030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%BF%87%E7%A6%BB%E8%B0%B1%E4%BD%86%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%A6%BB%E8%B0%B1%23" target="weibo">
+想过离谱但没想过这么离谱（热度：12075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E8%82%A9%E6%8C%91%E8%83%8C%E6%89%9B%E7%BB%99%E5%90%8C%E5%AD%A6%E9%80%81%E6%97%A9%E9%A4%90%23" target="weibo">
 高校老师肩挑背扛给同学送早餐（热度：11042）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%BF%87%E7%A6%BB%E8%B0%B1%E4%BD%86%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%A6%BB%E8%B0%B1%23" target="weibo">
-想过离谱但没想过这么离谱（热度：10910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%86%8D%E5%90%91%E7%A4%BE%E4%BC%9A%E6%8F%90%E4%BE%9B%E6%84%BF%E6%A3%80%E5%B0%BD%E6%A3%80%E6%9C%8D%E5%8A%A1%23" target="weibo">
-多家医院不再向社会提供愿检尽检服务（热度：8957）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%A4%A9%E5%BA%AD%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%90%97%23" target="weibo">
+这是天庭运动会吗（热度：8595）
 </a>
 </li>
 
