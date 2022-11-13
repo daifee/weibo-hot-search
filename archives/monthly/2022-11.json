@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668317867700,
+  "endTime": 1668320823257,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2187,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015230,
+      "num": 1015230,
+      "word": "胃不会越撑越大越饿越小",
+      "onboard_time": 1668314910,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015193,
       "num": 438607,
       "word": "南京被掌掴男童母亲发声",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1667560469,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993402,
-      "num": 993402,
-      "word": "胃不会越撑越大越饿越小",
-      "onboard_time": 1668314910,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 990090,
@@ -3009,6 +3009,14 @@
       "onboard_time": 1667957368,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824249,
+      "num": 300877,
+      "word": "河北传媒学院通报一学生不幸离世",
+      "onboard_time": 1668319048,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 824114,
@@ -6009,6 +6017,14 @@
       "onboard_time": 1668251251,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496580,
+      "num": 300197,
+      "word": "警方通报夫妻三环徒手拦车",
+      "onboard_time": 1668318390,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496318,
@@ -10331,6 +10347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311489,
+      "num": 223094,
+      "word": "原来黄明昊也考古王鹤棣",
+      "onboard_time": 1668319647,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310678,
       "num": 310678,
       "word": "狗子此生见过最投缘的女孩",
@@ -10763,6 +10787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296221,
+      "num": 296221,
+      "word": "妻子临产丈夫订花寄语不必为母则刚",
+      "onboard_time": 1668319290,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296081,
       "num": 296081,
       "word": "北京新增本土感染者29例社会面3例",
@@ -10817,6 +10849,14 @@
       "onboard_time": 1668245249,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294605,
+      "num": 294605,
+      "word": "猫睡了但尾巴没睡",
+      "onboard_time": 1668317369,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 294511,
@@ -13555,6 +13595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223191,
+      "num": 223191,
+      "word": "小猴被压巨石下消防员变唐僧解救",
+      "onboard_time": 1668317789,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223107,
       "num": 180975,
       "word": "金采源崔然竣合跳ANTIFRAGILE",
@@ -13620,7 +13668,7 @@
     },
     {
       "raw_hot": 222737,
-      "num": 90708,
+      "num": 99146,
       "word": "杨幂白宇医学术语表白教学",
       "onboard_time": 1668317848,
       "rank": 47,
@@ -14324,7 +14372,7 @@
     },
     {
       "raw_hot": 207203,
-      "num": 142840,
+      "num": 191360,
       "word": "张伟丽出场BGM沧海一声笑",
       "onboard_time": 1668316589,
       "rank": 32,
@@ -16539,20 +16587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167541,
+      "num": 167541,
+      "word": "女生的P图手法有多厉害",
+      "onboard_time": 1668315509,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167413,
       "num": 322376,
       "word": "初二女生已做了4年故宫讲解员",
       "onboard_time": 1667988086,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167253,
-      "num": 167253,
-      "word": "女生的P图手法有多厉害",
-      "onboard_time": 1668315509,
-      "rank": 28,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 167238,
@@ -17449,6 +17497,14 @@
       "onboard_time": 1668139408,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154715,
+      "num": 148740,
+      "word": "宋亚轩话剧排练路透视频",
+      "onboard_time": 1668318328,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154624,
@@ -18811,14 +18867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136595,
-      "num": 136595,
-      "word": "猫睡了但尾巴没睡",
-      "onboard_time": 1668317369,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136594,
       "num": 136594,
       "word": "一身反骨的哈士奇",
@@ -19377,6 +19425,14 @@
       "onboard_time": 1668178832,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129532,
+      "num": 129532,
+      "word": "挤在门缝里晒太阳的狗狗",
+      "onboard_time": 1668318268,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 129493,
@@ -20923,6 +20979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109108,
+      "num": 109108,
+      "word": "狗狗被小老鼠一路追咬",
+      "onboard_time": 1668319888,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "那兔空军特别版",
@@ -21241,6 +21305,14 @@
       "onboard_time": 1667548171,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105342,
+      "num": 105342,
+      "word": "杭州一40岁女子坚持不婚不育",
+      "onboard_time": 1668320488,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105258,
@@ -21625,6 +21697,14 @@
       "onboard_time": 1668003088,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100794,
+      "num": 100794,
+      "word": "张伟丽编6G发型",
+      "onboard_time": 1668320066,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 100782,
@@ -22299,6 +22379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94489,
+      "num": 94489,
+      "word": "张伟丽 牛",
+      "onboard_time": 1668319829,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94451,
       "num": 1029035,
       "word": "中国国际进口博览会",
@@ -22313,6 +22401,14 @@
       "onboard_time": 1667544750,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94434,
+      "num": 94434,
+      "word": "张伟丽夺冠瞬间",
+      "onboard_time": 1668320245,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 94395,
@@ -23777,6 +23873,14 @@
       "onboard_time": 1667825067,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81784,
+      "num": 81784,
+      "word": "阿迪萨亚vs佩雷拉",
+      "onboard_time": 1668320728,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81746,
