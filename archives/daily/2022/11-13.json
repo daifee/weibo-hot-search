@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668346370663,
+  "endTime": 1668347074426,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -147,20 +147,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 956338,
+      "num": 457625,
+      "word": "陈飞宇英语口语水平",
+      "onboard_time": 1668343647,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 949495,
       "num": 726849,
       "word": "高校回应学生夜间集体爬行",
       "onboard_time": 1668304168,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 934908,
-      "num": 457625,
-      "word": "陈飞宇英语口语水平",
-      "onboard_time": 1668343647,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 910561,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699321,
+      "num": 699321,
+      "word": "朱韵亲了李峋左脸",
+      "onboard_time": 1668345268,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 684225,
       "num": 330728,
       "word": "王鹤棣误入婚纱照拍摄现场",
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611986,
-      "num": 611986,
-      "word": "朱韵亲了李峋左脸",
-      "onboard_time": 1668345268,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 609265,
       "num": 572996,
       "word": "北京提倡疫情期间减少非必要外出",
@@ -363,8 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 588302,
-      "num": 588302,
+      "raw_hot": 600622,
+      "num": 600622,
       "word": "卡塔尔为举办世界杯造了一座城",
       "onboard_time": 1668342566,
       "rank": 29,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524379,
+      "num": 398719,
+      "word": "刘令姿说元英这人能处",
+      "onboard_time": 1668345332,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 503818,
       "num": 326296,
       "word": "飞升",
@@ -505,14 +513,6 @@
       "onboard_time": 1668344968,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485987,
-      "num": 398719,
-      "word": "刘令姿说元英这人能处",
-      "onboard_time": 1668345332,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 468275,
@@ -569,6 +569,14 @@
       "onboard_time": 1668255934,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440665,
+      "num": 387786,
+      "word": "特斯拉称警方正寻求第三方鉴定",
+      "onboard_time": 1668342566,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439364,
@@ -665,14 +673,6 @@
       "onboard_time": 1668315990,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387786,
-      "num": 387786,
-      "word": "特斯拉称警方正寻求第三方鉴定",
-      "onboard_time": 1668342566,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383168,
@@ -971,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277810,
+      "num": 233461,
+      "word": "卿卿日常",
+      "onboard_time": 1668340228,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276609,
       "num": 276609,
       "word": "商家瓜子加量三克引质疑",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1668333209,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249239,
-      "num": 233461,
-      "word": "卿卿日常",
-      "onboard_time": 1668340228,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 246890,
@@ -1267,6 +1267,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 207863,
+      "num": 207863,
+      "word": "千万不要养狐狸",
+      "onboard_time": 1668345870,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207203,
       "num": 191360,
       "word": "张伟丽出场BGM沧海一声笑",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1668259842,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 198481,
+      "num": 198481,
+      "word": "全网最全熊出没做核酸",
+      "onboard_time": 1668344487,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196503,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1668327390,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184042,
+      "num": 138942,
+      "word": "李峋送朱韵玫瑰花",
+      "onboard_time": 1668346829,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 183436,
@@ -1635,14 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142443,
-      "num": 142443,
-      "word": "全网最全熊出没做核酸",
-      "onboard_time": 1668344487,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140516,
       "num": 140516,
       "word": "松垮大腿根算是碰到克星了",
@@ -1875,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105589,
-      "num": 105589,
-      "word": "千万不要养狐狸",
-      "onboard_time": 1668345870,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105393,
       "num": 105393,
       "word": "塔图姆43分10篮板",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1668291974,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102502,
+      "num": 102502,
+      "word": "恶魔之眼艾肯泉是如何形成的",
+      "onboard_time": 1668344668,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 101618,
@@ -1961,14 +1977,6 @@
       "onboard_time": 1668286151,
       "rank": 36,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 93571,
-      "num": 93571,
-      "word": "恶魔之眼艾肯泉是如何形成的",
-      "onboard_time": 1668344668,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 93379,
@@ -2051,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84622,
+      "num": 84622,
+      "word": "3个动作有效瘦腿",
+      "onboard_time": 1668346767,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84081,
       "num": 1692289,
       "word": "卫星视角下湿地城市的生态美",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1668334590,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 79198,
+      "num": 79198,
+      "word": "谁会买这样的榨汁机",
+      "onboard_time": 1668346528,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 78417,
