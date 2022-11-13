@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668379147595,
+  "endTime": 1668381857569,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -17,6 +17,14 @@
       "onboard_time": 1668354268,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 875115,
+      "num": 875115,
+      "word": "多家医院不再向社会提供愿检尽检服务",
+      "onboard_time": 1668370932,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702977,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521940,
+      "num": 521940,
+      "word": "多喝热水少喝冰水真的健康吗",
+      "onboard_time": 1668355285,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483868,
       "num": 483868,
       "word": "重庆四区75%新增在社会面发现",
@@ -97,14 +113,6 @@
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 334765,
-      "num": 334765,
-      "word": "多喝热水少喝冰水真的健康吗",
-      "onboard_time": 1668355285,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330030,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260503,
+      "num": 260503,
+      "word": "女子为减肥绑牙齿让嘴巴闭合",
+      "onboard_time": 1668363915,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241625,
       "num": 241625,
       "word": "朱韵亲了李峋左脸",
@@ -155,20 +171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225302,
+      "num": 225302,
+      "word": "上海二手房量价齐跌",
+      "onboard_time": 1668374710,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 215872,
       "num": 210659,
       "word": "尹峥元英大婚",
       "onboard_time": 1668348208,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209855,
-      "num": 75526,
-      "word": "多家医院不再向社会提供愿检尽检服务",
-      "onboard_time": 1668370932,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208556,
@@ -185,6 +201,14 @@
       "onboard_time": 1668334110,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190133,
+      "num": 190133,
+      "word": "24头大象偷喝村民自酿酒醉倒大睡",
+      "onboard_time": 1668362416,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187599,
@@ -232,6 +256,14 @@
       "word": "特斯拉称警方正寻求第三方鉴定",
       "onboard_time": 1668342566,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157890,
+      "num": 157890,
+      "word": "小男孩展示自家红薯库惊呆网友",
+      "onboard_time": 1668367992,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135398,
+      "num": 135398,
+      "word": "陈小纭郝葭会黑化吗",
+      "onboard_time": 1668363314,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133783,
       "num": 133783,
       "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
@@ -331,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109596,
-      "num": 73816,
-      "word": "上海二手房量价齐跌",
-      "onboard_time": 1668374710,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 109587,
       "num": 109587,
       "word": "王鹤棣跳危险派对忘动作",
@@ -371,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100789,
+      "num": 100789,
+      "word": "罗晋新剧跟奚美娟借钱",
+      "onboard_time": 1668375612,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96992,
       "num": 96992,
       "word": "千万不要养狐狸",
@@ -387,28 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87440,
-      "num": 69065,
-      "word": "女子为减肥绑牙齿让嘴巴闭合",
-      "onboard_time": 1668363915,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86453,
       "num": 86453,
       "word": "结婚找不到伴娘怎么办",
       "onboard_time": 1668338310,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77836,
-      "num": 67687,
-      "word": "24头大象偷喝村民自酿酒醉倒大睡",
-      "onboard_time": 1668362416,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77715,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73822,
+      "num": 73822,
+      "word": "王鹤棣金鸡奖内场大合照",
+      "onboard_time": 1668378014,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71308,
       "num": 71308,
       "word": "尹力兼任北京市委书记",
@@ -435,28 +467,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 64250,
-      "num": 64250,
-      "word": "小男孩展示自家红薯库惊呆网友",
-      "onboard_time": 1668367992,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63275,
-      "num": 63275,
-      "word": "陈小纭郝葭会黑化吗",
-      "onboard_time": 1668363314,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "声乐专业遇到都要绕路走",
       "onboard_time": 1668356784,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 54000,
+      "num": 54000,
+      "word": "加密货币价格大跌",
+      "onboard_time": 1668368473,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 52732,
@@ -483,12 +507,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 43614,
-      "num": 43614,
-      "word": "罗晋新剧跟奚美娟借钱",
-      "onboard_time": 1668375612,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 38606,
+      "num": 38606,
+      "word": "男子结婚表弟随礼千枚硬币",
+      "onboard_time": 1668381438,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26208,
@@ -507,22 +531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21496,
-      "num": 21496,
-      "word": "加密货币价格大跌",
-      "onboard_time": 1668368473,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 18978,
-      "num": 18978,
-      "word": "王鹤棣金鸡奖内场大合照",
-      "onboard_time": 1668378014,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 15032,
       "num": 15032,
       "word": "想过离谱但没想过这么离谱",
@@ -531,7 +539,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 14033,
+      "raw_hot": 14241,
       "num": 631438,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
