@@ -1,0 +1,410 @@
+{
+  "runTime": 1668335997426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852897,
+        "num": 1852897,
+        "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
+        "onboard_time": 1668330029,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142871,
+        "num": 1142871,
+        "word": "得物",
+        "onboard_time": 1668321687,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 38225,
+        "num": 1077265,
+        "word": "卫星视角下湿地城市的生态美",
+        "onboard_time": 1668312448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1076713,
+        "num": 1076713,
+        "word": "深圳痛经假经确诊可休1到2天",
+        "onboard_time": 1668333389,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767468,
+        "num": 767468,
+        "word": "尹力兼任北京市委书记",
+        "onboard_time": 1668332550,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 614049,
+        "num": 614049,
+        "word": "女租客失联留下满屋垃圾楼道里都是臭味",
+        "onboard_time": 1668331591,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563134,
+        "num": 563134,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668334110,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534704,
+        "num": 534704,
+        "word": "北京疫情新闻发布会",
+        "onboard_time": 1668332189,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493759,
+        "num": 493759,
+        "word": "突然不认识西游记了",
+        "onboard_time": 1668334110,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447611,
+        "num": 447611,
+        "word": "王源柜姐激将法受害者",
+        "onboard_time": 1668324989,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628514,
+        "num": 443343,
+        "word": "特斯拉称潮州车主全程没有踩刹车动作",
+        "onboard_time": 1668328529,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 410996,
+        "num": 410996,
+        "word": "特斯拉回应潮州撞人事故",
+        "onboard_time": 1668323010,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 373740,
+        "num": 373740,
+        "word": "河北传媒学院通报一学生不幸离世",
+        "onboard_time": 1668319048,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 345823,
+        "num": 345823,
+        "word": "李峋一直站在朱韵身后",
+        "onboard_time": 1668334289,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327781,
+        "num": 327781,
+        "word": "原来好的恋爱是这样的",
+        "onboard_time": 1668332247,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327626,
+        "num": 327626,
+        "word": "命韵峋环枫叶吻",
+        "onboard_time": 1668335670,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319456,
+        "num": 319456,
+        "word": "售假女主播双11当天直播时被抓",
+        "onboard_time": 1668325350,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307519,
+        "num": 307519,
+        "word": "胃不会越撑越大越饿越小",
+        "onboard_time": 1668314910,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270505,
+        "num": 270505,
+        "word": "张杰是懂送礼的",
+        "onboard_time": 1668325949,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 232775,
+        "num": 232775,
+        "word": "倪妮陈道明同框",
+        "onboard_time": 1668334710,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216551,
+        "num": 216551,
+        "word": "妻子临产丈夫订花寄语不必为母则刚",
+        "onboard_time": 1668319290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199123,
+        "num": 199123,
+        "word": "中国公司承包巴西人衣食住行",
+        "onboard_time": 1668327630,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196688,
+        "num": 196688,
+        "word": "呼和浩特卫健委通报核酸结果错报",
+        "onboard_time": 1668324150,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187027,
+        "num": 187027,
+        "word": "萌娃掉茅坑被拉着在全村讨七家饭",
+        "onboard_time": 1668333209,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183780,
+        "num": 183780,
+        "word": "唐九洲成立个人工作室",
+        "onboard_time": 1668332487,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179106,
+        "num": 179106,
+        "word": "刘雨昕被粉丝起哄后的反应",
+        "onboard_time": 1668334889,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175169,
+        "num": 175169,
+        "word": "白敬亭终于开始营业了",
+        "onboard_time": 1668308790,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162228,
+        "num": 162228,
+        "word": "这样走路腿真的会瘦",
+        "onboard_time": 1668326669,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157262,
+        "num": 157262,
+        "word": "潮州一特斯拉失控致2死3伤",
+        "onboard_time": 1668313950,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157224,
+        "num": 157224,
+        "word": "男子乘摩托车多次朝路人泼不明液体",
+        "onboard_time": 1668331710,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167785,
+        "num": 156802,
+        "word": "苏有朋一开口张无忌回来了",
+        "onboard_time": 1668326426,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166398,
+        "num": 156673,
+        "word": "王鹤棣片场打乒乓球",
+        "onboard_time": 1668332189,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155142,
+        "num": 155142,
+        "word": "重庆千名师生出征抗疫",
+        "onboard_time": 1668324867,
+        "rank": 32,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 148378,
+        "num": 148378,
+        "word": "第一次这么心疼一只海龟",
+        "onboard_time": 1668326249,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144625,
+        "num": 144625,
+        "word": "刘亦菲去有风的地方",
+        "onboard_time": 1668335731,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142228,
+        "num": 142228,
+        "word": "北京新增本土感染者170例",
+        "onboard_time": 1668335790,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136043,
+        "num": 136043,
+        "word": "鞠婧祎红卷发碎花头巾",
+        "onboard_time": 1668324627,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132129,
+        "num": 132129,
+        "word": "赠品面包配料表写问号和保密被质疑",
+        "onboard_time": 1668334229,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130993,
+        "num": 130993,
+        "word": "司机突发脑溢血交警嘶吼式抢救",
+        "onboard_time": 1668334289,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125539,
+        "num": 125539,
+        "word": "8个月大宝宝轻抚殉职父亲遗像",
+        "onboard_time": 1668322109,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130221,
+        "num": 125337,
+        "word": "陈飞宇唱无问",
+        "onboard_time": 1668329248,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123420,
+        "num": 123420,
+        "word": "今天的东北人vs南方人",
+        "onboard_time": 1668323549,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119125,
+        "num": 119125,
+        "word": "李峋对公主的定义",
+        "onboard_time": 1668333688,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118958,
+        "num": 118958,
+        "word": "这才是秋冬热饮届的扛把子",
+        "onboard_time": 1668332430,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112421,
+        "num": 112421,
+        "word": "116866警号被永远封存",
+        "onboard_time": 1668305069,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97114,
+        "num": 97114,
+        "word": "松垮大腿根算是碰到克星了",
+        "onboard_time": 1668328950,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88909,
+        "num": 88909,
+        "word": "马龙一心二用挑战",
+        "onboard_time": 1668330448,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86951,
+        "num": 86951,
+        "word": "张伟丽",
+        "onboard_time": 1668305250,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85309,
+        "num": 85309,
+        "word": "猫睡了但尾巴没睡",
+        "onboard_time": 1668317369,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77578,
+        "num": 77578,
+        "word": "男子初中学历7年造出5架飞机",
+        "onboard_time": 1668335547,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}

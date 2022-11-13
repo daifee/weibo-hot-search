@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668335004132,
+  "endTime": 1668335997426,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -111,6 +111,14 @@
       "num": 1109959,
       "word": "116866警号被永远封存",
       "onboard_time": 1668305069,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076713,
+      "num": 1076713,
+      "word": "深圳痛经假经确诊可休1到2天",
+      "onboard_time": 1668333389,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -235,14 +243,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 680055,
-      "num": 680055,
-      "word": "深圳痛经假经确诊可休1到2天",
-      "onboard_time": 1668333389,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 667419,
       "num": 667419,
       "word": "卡拉vs张伟丽",
@@ -275,20 +275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 628514,
+      "num": 466809,
+      "word": "特斯拉称潮州车主全程没有踩刹车动作",
+      "onboard_time": 1668328529,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 614049,
+      "num": 614049,
+      "word": "女租客失联留下满屋垃圾楼道里都是臭味",
+      "onboard_time": 1668331591,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608963,
       "num": 608963,
       "word": "奚美娟金鸡奖最佳女主角",
       "onboard_time": 1668260259,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 594029,
-      "num": 466809,
-      "word": "特斯拉称潮州车主全程没有踩刹车动作",
-      "onboard_time": 1668328529,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 566186,
@@ -304,6 +312,14 @@
       "word": "北京本土昨新增161例确诊74例无症状",
       "onboard_time": 1668301230,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563134,
+      "num": 563134,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1668334110,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -355,11 +371,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512835,
-      "num": 512835,
-      "word": "女租客失联留下满屋垃圾楼道里都是臭味",
-      "onboard_time": 1668331591,
-      "rank": 39,
+      "raw_hot": 534704,
+      "num": 534704,
+      "word": "北京疫情新闻发布会",
+      "onboard_time": 1668332189,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1668314969,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493759,
+      "num": 493759,
+      "word": "突然不认识西游记了",
+      "onboard_time": 1668334110,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 468275,
@@ -499,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 411599,
-      "num": 411599,
-      "word": "北京疫情新闻发布会",
-      "onboard_time": 1668332189,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406072,
       "num": 406072,
       "word": "张伟丽UFC冠军战加油",
@@ -595,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345823,
+      "num": 345823,
+      "word": "李峋一直站在朱韵身后",
+      "onboard_time": 1668334289,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345303,
       "num": 345303,
       "word": "陈飞宇唱无问",
@@ -616,6 +640,22 @@
       "word": "第35届金鸡奖获奖名单",
       "onboard_time": 1668255873,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327781,
+      "num": 327781,
+      "word": "原来好的恋爱是这样的",
+      "onboard_time": 1668332247,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 327626,
+      "num": 327626,
+      "word": "命韵峋环枫叶吻",
+      "onboard_time": 1668335670,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -681,22 +721,6 @@
       "onboard_time": 1668317728,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302992,
-      "num": 302992,
-      "word": "广州海珠区疫情防控",
-      "onboard_time": 1668334110,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295765,
-      "num": 295765,
-      "word": "原来好的恋爱是这样的",
-      "onboard_time": 1668332247,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 294605,
@@ -769,14 +793,6 @@
       "onboard_time": 1668326426,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280641,
-      "num": 280641,
-      "word": "突然不认识西游记了",
-      "onboard_time": 1668334110,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 280484,
@@ -947,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228017,
-      "num": 228017,
-      "word": "李峋一直站在朱韵身后",
-      "onboard_time": 1668334289,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225108,
       "num": 187334,
       "word": "今年颁奖台上的最佳女主角",
@@ -1099,6 +1107,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 187027,
+      "num": 187027,
+      "word": "萌娃掉茅坑被拉着在全村讨七家饭",
+      "onboard_time": 1668333209,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186729,
       "num": 186729,
       "word": "体院学生操场乱斗式硬核打雪仗",
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157224,
+      "num": 157224,
+      "word": "男子乘摩托车多次朝路人泼不明液体",
+      "onboard_time": 1668331710,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154715,
       "num": 148740,
       "word": "宋亚轩话剧排练路透视频",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1668296961,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150255,
-      "num": 150255,
-      "word": "男子乘摩托车多次朝路人泼不明液体",
-      "onboard_time": 1668331710,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147724,
@@ -1299,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144625,
+      "num": 144625,
+      "word": "刘亦菲去有风的地方",
+      "onboard_time": 1668335731,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143111,
       "num": 143111,
       "word": "人生大事",
@@ -1315,11 +1339,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142430,
-      "num": 142430,
-      "word": "萌娃掉茅坑被拉着在全村讨七家饭",
-      "onboard_time": 1668333209,
-      "rank": 36,
+      "raw_hot": 142228,
+      "num": 142228,
+      "word": "北京新增本土感染者170例",
+      "onboard_time": 1668335790,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1393,22 @@
       "onboard_time": 1668332430,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132129,
+      "num": 132129,
+      "word": "赠品面包配料表写问号和保密被质疑",
+      "onboard_time": 1668334229,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130993,
+      "num": 130993,
+      "word": "司机突发脑溢血交警嘶吼式抢救",
+      "onboard_time": 1668334289,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130554,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1668327509,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "李峋对公主的定义",
+      "onboard_time": 1668333688,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 117302,
@@ -1619,28 +1667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93377,
-      "num": 93377,
-      "word": "司机突发脑溢血交警嘶吼式抢救",
-      "onboard_time": 1668334289,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91788,
       "num": 101085,
       "word": "养猫后电脑都关不了",
       "onboard_time": 1668258876,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91509,
-      "num": 91509,
-      "word": "赠品面包配料表写问号和保密被质疑",
-      "onboard_time": 1668334229,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91030,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1668330509,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 77578,
+      "num": 77578,
+      "word": "男子初中学历7年造出5架飞机",
+      "onboard_time": 1668335547,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77198,
