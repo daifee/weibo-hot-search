@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668310561538,
+  "endTime": 1668310989368,
   "band_list": [
     {
       "raw_hot": 1915383,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1850861,
+      "num": 1850861,
+      "word": "叶舒华舞台上摔倒",
+      "onboard_time": 1668309390,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1521120,
       "num": 328708,
       "word": "迪丽热巴王楚然同款礼裙",
       "onboard_time": 1668266675,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1440577,
-      "num": 1440577,
-      "word": "叶舒华舞台上摔倒",
-      "onboard_time": 1668309390,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1413316,
@@ -67,6 +67,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 787794,
+      "num": 448787,
+      "word": "齐溪让王鹤棣拿一下奖杯",
+      "onboard_time": 1668309989,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 715435,
       "num": 715435,
       "word": "陈妍希 造型",
@@ -75,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 699936,
-      "num": 379078,
-      "word": "齐溪让王鹤棣拿一下奖杯",
-      "onboard_time": 1668309989,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 703653,
+      "num": 703653,
+      "word": "大爷偷6000元当场被逮下跪求饶",
+      "onboard_time": 1668307290,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684225,
@@ -91,16 +99,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 661211,
-      "num": 661211,
-      "word": "大爷偷6000元当场被逮下跪求饶",
-      "onboard_time": 1668307290,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648357,
-      "num": 648357,
+      "raw_hot": 650115,
+      "num": 650115,
       "word": "广州新增本土感染者3653例",
       "onboard_time": 1668305670,
       "rank": 12,
@@ -187,12 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462866,
-      "num": 462866,
+      "raw_hot": 468275,
+      "num": 468275,
       "word": "美得州两架飞机航展上相撞坠毁",
       "onboard_time": 1668305549,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 449222,
+      "num": 449222,
+      "word": "女子将缅因猫毛搓成一只手套",
+      "onboard_time": 1668308069,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447182,
@@ -201,6 +209,14 @@
       "onboard_time": 1668255934,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439364,
+      "num": 439364,
+      "word": "gidle音银智利公演中断",
+      "onboard_time": 1668309329,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 437658,
@@ -219,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 429162,
-      "num": 366626,
-      "word": "女子将缅因猫毛搓成一只手套",
-      "onboard_time": 1668308069,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 433224,
+      "num": 433224,
+      "word": "原来婚纱也可以这么可爱",
+      "onboard_time": 1668308489,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 423722,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419614,
-      "num": 360157,
-      "word": "gidle音银智利公演中断",
-      "onboard_time": 1668309329,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 405869,
       "num": 405869,
       "word": "南昌西站",
@@ -267,8 +275,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388600,
+      "num": 388600,
+      "word": "中国短道速滑男子5000米接力金牌",
+      "onboard_time": 1668308549,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382754,
-      "num": 382754,
+      "num": 401638,
       "word": "重庆新增本土确诊158例无症状1662例",
       "onboard_time": 1668305549,
       "rank": 21,
@@ -297,14 +313,6 @@
       "onboard_time": 1668307590,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 355805,
-      "num": 355805,
-      "word": "原来婚纱也可以这么可爱",
-      "onboard_time": 1668308489,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 353616,
@@ -401,14 +409,6 @@
       "onboard_time": 1668274100,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270135,
-      "num": 270135,
-      "word": "中国短道速滑男子5000米接力金牌",
-      "onboard_time": 1668308549,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 268656,
@@ -523,6 +523,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 210633,
+      "num": 210633,
+      "word": "UFC281",
+      "onboard_time": 1668306508,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204420,
       "num": 146498,
       "word": "追光者大结局太好哭了",
@@ -539,6 +547,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 196503,
+      "num": 141097,
+      "word": "这居然是玖月奇迹王小玮",
+      "onboard_time": 1668306328,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187961,
       "num": 187961,
       "word": "专家建议大家做全世界没做过的事",
@@ -553,22 +569,6 @@
       "onboard_time": 1668296180,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 187410,
-      "num": 187410,
-      "word": "UFC281",
-      "onboard_time": 1668306508,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 186364,
-      "num": 138614,
-      "word": "这居然是玖月奇迹王小玮",
-      "onboard_time": 1668306328,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182989,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 177540,
-      "num": 118832,
+      "num": 119087,
       "word": "智利音银雨中舞台",
       "onboard_time": 1668307472,
       "rank": 41,
@@ -683,8 +683,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136750,
-      "num": 136750,
+      "raw_hot": 139032,
+      "num": 139032,
       "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
       "onboard_time": 1668306148,
       "rank": 44,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103499,
+      "num": 103499,
+      "word": "男子吃旋转火锅将空签放回托盘",
+      "onboard_time": 1668310649,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101618,
       "num": 101618,
       "word": "樊振东林高远打球观赏性拉满",
@@ -851,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100347,
+      "num": 100347,
+      "word": "才知道Excel可以一次性整理图片",
+      "onboard_time": 1668310588,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 93946,
       "num": 93946,
       "word": "所谓24海里线不存在请注意用语",
@@ -872,6 +888,14 @@
       "word": "4岁女童现场讲解应对火灾经验",
       "onboard_time": 1668310108,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87788,
+      "num": 87788,
+      "word": "商家瓜子加量三克引质疑",
+      "onboard_time": 1668310710,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -929,6 +953,14 @@
       "onboard_time": 1668259538,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68584,
+      "num": 68584,
+      "word": "李景亮现场助威张伟丽",
+      "onboard_time": 1668310889,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 65028,
