@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668304680104,
+  "endTime": 1668306606913,
   "band_list": [
     {
       "raw_hot": 1915383,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1521120,
-      "num": 298831,
+      "num": 328708,
       "word": "迪丽热巴王楚然同款礼裙",
       "onboard_time": 1668266675,
       "rank": 10,
@@ -35,11 +35,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726849,
+      "num": 726849,
+      "word": "高校回应学生夜间集体爬行",
+      "onboard_time": 1668304168,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 715435,
       "num": 715435,
       "word": "陈妍希 造型",
       "onboard_time": 1668254192,
       "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 684225,
+      "num": 330728,
+      "word": "王鹤棣误入婚纱照拍摄现场",
+      "onboard_time": 1668302791,
+      "rank": 20,
       "category": "作品衍生"
     },
     {
@@ -59,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588061,
+      "num": 588061,
+      "word": "116866警号被永远封存",
+      "onboard_time": 1668305069,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566186,
       "num": 566186,
       "word": "北大韦东奕聆听华人数学家讲座",
@@ -67,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565271,
+      "num": 565271,
+      "word": "北京本土昨新增161例确诊74例无症状",
+      "onboard_time": 1668301230,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561599,
-      "num": 254613,
+      "num": 274252,
       "word": "关晓彤看看陈采尼",
       "onboard_time": 1668264996,
       "rank": 12,
@@ -91,16 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535301,
-      "num": 535301,
-      "word": "北京本土昨新增161例确诊74例无症状",
-      "onboard_time": 1668301230,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503818,
-      "num": 307143,
+      "num": 326296,
       "word": "飞升",
       "onboard_time": 1668298107,
       "rank": 10,
@@ -171,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384491,
+      "num": 384491,
+      "word": "张伟丽",
+      "onboard_time": 1668305250,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378054,
       "num": 125607,
       "word": "刘德华宁静金鸡奖现场握手",
@@ -188,11 +220,19 @@
     },
     {
       "raw_hot": 353616,
-      "num": 294352,
+      "num": 326014,
       "word": "苏有朋为陈妍希整理裙摆",
       "onboard_time": 1668297143,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346543,
+      "num": 327380,
+      "word": "广州新增本土感染者3653例",
+      "onboard_time": 1668305670,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343246,
@@ -211,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324784,
+      "num": 324784,
+      "word": "忍不住说一声这猫真丑",
+      "onboard_time": 1668298829,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323558,
       "num": 323558,
       "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
       "onboard_time": 1668279135,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322711,
-      "num": 219864,
-      "word": "王鹤棣误入婚纱照拍摄现场",
-      "onboard_time": 1668302791,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294019,
@@ -243,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290882,
+      "num": 290882,
+      "word": "男子问95岁外公什么是爱情",
+      "onboard_time": 1668302971,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288725,
       "num": 288725,
       "word": "30岁杭州交警突发疾病不幸去世",
@@ -259,20 +307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279667,
+      "num": 279667,
+      "word": "勇士骑士裁判报告",
+      "onboard_time": 1668303030,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "重庆新增本土确诊158例无症状1662例",
+      "onboard_time": 1668305549,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271453,
       "num": 263788,
       "word": "杨颖好看",
       "onboard_time": 1668274100,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270006,
-      "num": 270006,
-      "word": "忍不住说一声这猫真丑",
-      "onboard_time": 1668298829,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 268656,
@@ -305,14 +361,6 @@
       "onboard_time": 1668258036,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243828,
-      "num": 243828,
-      "word": "勇士骑士裁判报告",
-      "onboard_time": 1668303030,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 243081,
@@ -355,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211527,
+      "num": 211527,
+      "word": "歼20飞行员说感觉像用意念开飞机",
+      "onboard_time": 1668303389,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 201040,
       "num": 201040,
       "word": "女生白俄罗斯留学班级全是中国人",
       "onboard_time": 1668259842,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 193852,
+      "num": 193852,
+      "word": "美得州两架飞机航展上相撞坠毁",
+      "onboard_time": 1668305549,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 187961,
@@ -379,19 +443,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 187334,
+      "num": 187334,
+      "word": "今年颁奖台上的最佳女主角",
+      "onboard_time": 1668305367,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182989,
       "num": 182989,
       "word": "宝妈用快递气袋DIY萌娃防摔气囊",
       "onboard_time": 1668301051,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182519,
-      "num": 182519,
-      "word": "男子问95岁外公什么是爱情",
-      "onboard_time": 1668302971,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -420,7 +484,7 @@
     },
     {
       "raw_hot": 170978,
-      "num": 137642,
+      "num": 149913,
       "word": "何洛洛红毯签名好帅",
       "onboard_time": 1668302609,
       "rank": 32,
@@ -436,11 +500,19 @@
     },
     {
       "raw_hot": 151914,
-      "num": 137026,
+      "num": 139379,
       "word": "杨幂白宇演小狗暧昧尴尬期",
       "onboard_time": 1668296961,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151601,
+      "num": 151601,
+      "word": "40岁果树嫁接出10多种水果",
+      "onboard_time": 1668304588,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147724,
@@ -483,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136058,
-      "num": 136058,
-      "word": "高校回应学生夜间集体爬行",
-      "onboard_time": 1668304168,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 134105,
       "num": 134105,
       "word": "航拍台湾最美沿海公路",
@@ -523,20 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129726,
-      "num": 129726,
-      "word": "歼20飞行员说感觉像用意念开飞机",
-      "onboard_time": 1668303389,
-      "rank": 38,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 129013,
       "num": 129013,
       "word": "男子因纠纷赌气把女友锁车内",
       "onboard_time": 1668256293,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127507,
+      "num": 112049,
+      "word": "这居然是玖月奇迹王小玮",
+      "onboard_time": 1668306328,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122710,
@@ -553,6 +617,14 @@
       "onboard_time": 1668251371,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121235,
+      "num": 111906,
+      "word": "卿卿日常粘土定格动画片头",
+      "onboard_time": 1668305789,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 117302,
@@ -587,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107419,
+      "num": 107419,
+      "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
+      "onboard_time": 1668306148,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106705,
       "num": 106705,
       "word": "降噪耳机哪个值得买",
@@ -609,6 +689,14 @@
       "onboard_time": 1668291974,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103985,
+      "num": 103985,
+      "word": "UFC281",
+      "onboard_time": 1668306508,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 101618,
@@ -649,14 +737,6 @@
       "onboard_time": 1668258876,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89569,
-      "num": 89569,
-      "word": "40岁果树嫁接出10多种水果",
-      "onboard_time": 1668304588,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85963,
@@ -747,7 +827,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 12879,
+      "raw_hot": 13846,
       "num": 815439,
       "word": "一镜到底跟随歼20编队巡航",
       "onboard_time": 1668228091,

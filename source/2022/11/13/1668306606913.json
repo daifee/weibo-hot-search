@@ -1,0 +1,410 @@
+{
+  "runTime": 1668306606913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851887,
+        "num": 1851887,
+        "word": "恭喜阿瑟他爸",
+        "onboard_time": 1668297986,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905446,
+        "num": 905446,
+        "word": "朱一龙获奖倪妮的祝贺词",
+        "onboard_time": 1668269912,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13846,
+        "num": 783342,
+        "word": "一镜到底跟随歼20编队巡航",
+        "onboard_time": 1668228091,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 726849,
+        "num": 726849,
+        "word": "高校回应学生夜间集体爬行",
+        "onboard_time": 1668304168,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 588061,
+        "num": 588061,
+        "word": "116866警号被永远封存",
+        "onboard_time": 1668305069,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580346,
+        "num": 580346,
+        "word": "29岁博士因社恐1月叫2次救护车",
+        "onboard_time": 1668266555,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565271,
+        "num": 565271,
+        "word": "北京本土昨新增161例确诊74例无症状",
+        "onboard_time": 1668301230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384491,
+        "num": 384491,
+        "word": "张伟丽",
+        "onboard_time": 1668305250,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358194,
+        "num": 358194,
+        "word": "北大韦东奕聆听华人数学家讲座",
+        "onboard_time": 1668298406,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331169,
+        "num": 331169,
+        "word": "从30度降温到14度是什么体验",
+        "onboard_time": 1668296844,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684225,
+        "num": 330728,
+        "word": "王鹤棣误入婚纱照拍摄现场",
+        "onboard_time": 1668302791,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392395,
+        "num": 328708,
+        "word": "迪丽热巴王楚然同款礼裙",
+        "onboard_time": 1668266675,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346543,
+        "num": 327380,
+        "word": "广州新增本土感染者3653例",
+        "onboard_time": 1668305670,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337481,
+        "num": 326296,
+        "word": "飞升",
+        "onboard_time": 1668298107,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331277,
+        "num": 326014,
+        "word": "苏有朋为陈妍希整理裙摆",
+        "onboard_time": 1668297143,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324784,
+        "num": 324784,
+        "word": "忍不住说一声这猫真丑",
+        "onboard_time": 1668298829,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290882,
+        "num": 290882,
+        "word": "男子问95岁外公什么是爱情",
+        "onboard_time": 1668302971,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290319,
+        "num": 290319,
+        "word": "北京6例社会面筛查感染者涉三区",
+        "onboard_time": 1668299609,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279667,
+        "num": 279667,
+        "word": "勇士骑士裁判报告",
+        "onboard_time": 1668303030,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275462,
+        "num": 275462,
+        "word": "30岁杭州交警突发疾病不幸去世",
+        "onboard_time": 1668301168,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300384,
+        "num": 274252,
+        "word": "关晓彤看看陈采尼",
+        "onboard_time": 1668264996,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272741,
+        "num": 272741,
+        "word": "重庆新增本土确诊158例无症状1662例",
+        "onboard_time": 1668305549,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261866,
+        "num": 261866,
+        "word": "柳岩蝴蝶结好大",
+        "onboard_time": 1668252809,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249397,
+        "num": 249397,
+        "word": "家长抱娃坐副驾急刹致娃颅脑骨折",
+        "onboard_time": 1668279135,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211527,
+        "num": 211527,
+        "word": "歼20飞行员说感觉像用意念开飞机",
+        "onboard_time": 1668303389,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 204669,
+        "num": 204669,
+        "word": "第一次见这么漂亮的小狗",
+        "onboard_time": 1668272665,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193852,
+        "num": 193852,
+        "word": "美得州两架飞机航展上相撞坠毁",
+        "onboard_time": 1668305549,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 187334,
+        "num": 187334,
+        "word": "今年颁奖台上的最佳女主角",
+        "onboard_time": 1668305367,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174783,
+        "num": 174783,
+        "word": "男子辞职后在洞穴生活失联近3年",
+        "onboard_time": 1668262477,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170367,
+        "num": 170367,
+        "word": "宝妈用快递气袋DIY萌娃防摔气囊",
+        "onboard_time": 1668301051,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165563,
+        "num": 165563,
+        "word": "洗牙能把牙洗白吗",
+        "onboard_time": 1668297024,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153646,
+        "num": 153646,
+        "word": "张小斐 大气",
+        "onboard_time": 1668255934,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153135,
+        "num": 153135,
+        "word": "娄艺潇汉服",
+        "onboard_time": 1668261399,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151601,
+        "num": 151601,
+        "word": "40岁果树嫁接出10多种水果",
+        "onboard_time": 1668304588,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149913,
+        "num": 149913,
+        "word": "何洛洛红毯签名好帅",
+        "onboard_time": 1668302609,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 148566,
+        "word": "医生识破患者学医让自己写病历",
+        "onboard_time": 1668258036,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142431,
+        "num": 142431,
+        "word": "九龙坡区对网传孕妇送医延误开展调查",
+        "onboard_time": 1668297264,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139379,
+        "num": 139379,
+        "word": "杨幂白宇演小狗暧昧尴尬期",
+        "onboard_time": 1668296961,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119019,
+        "num": 119019,
+        "word": "女生白俄罗斯留学班级全是中国人",
+        "onboard_time": 1668259842,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112096,
+        "num": 112096,
+        "word": "房产继承因已故妹妹无子女证明被卡",
+        "onboard_time": 1668254491,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127507,
+        "num": 112049,
+        "word": "这居然是玖月奇迹王小玮",
+        "onboard_time": 1668306328,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 111906,
+        "word": "卿卿日常粘土定格动画片头",
+        "onboard_time": 1668305789,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 111718,
+        "word": "9人凌晨开豪车飙车被刑拘",
+        "onboard_time": 1668259174,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 110804,
+        "word": "狗狗被送人一周跑50公里找回家",
+        "onboard_time": 1668270570,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107419,
+        "num": 107419,
+        "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
+        "onboard_time": 1668306148,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103985,
+        "num": 103985,
+        "word": "UFC281",
+        "onboard_time": 1668306508,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99317,
+        "num": 99317,
+        "word": "小妲己今天真高兴",
+        "onboard_time": 1668268234,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98615,
+        "num": 98615,
+        "word": "这猫是猫界女王吧",
+        "onboard_time": 1668297686,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91447,
+        "num": 91447,
+        "word": "重庆市卫健委致孕产妇的一封信",
+        "onboard_time": 1668257857,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87016,
+        "num": 87016,
+        "word": "航拍台湾最美沿海公路",
+        "onboard_time": 1668298887,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟五号奔赴太空#"
+    }
+  }
+}
