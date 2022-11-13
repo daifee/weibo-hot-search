@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/13 00:30:14 ~ 2022/11/13 23:22:27
+本榜单时间：2022/11/13 00:30:14 ~ 2022/11/13 23:39:11
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+乌鲁木齐疫情防控（热度：1663363）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E5%B7%9E%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A4%B1%E6%8E%A7%E8%87%B42%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 潮州一特斯拉失控致2死3伤（热度：1654472）
 </a>
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
 白敬亭终于开始营业了（热度：1413316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-乌鲁木齐疫情防控（热度：1367809）
 </a>
 </li>
 
@@ -117,14 +117,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23116866%E8%AD%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E8%BF%9C%E5%B0%81%E5%AD%98%23" target="weibo">
-116866警号被永远封存（热度：1109959）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8F%91%E7%8E%B0%E9%A4%90%E6%A1%8C%E7%AB%8B%E7%89%8C%E8%AF%B7%E5%8B%BF%E6%91%84%E5%83%8F%23" target="weibo">
+男子吃自助餐发现餐桌立牌请勿摄像（热度：1120476）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8F%91%E7%8E%B0%E9%A4%90%E6%A1%8C%E7%AB%8B%E7%89%8C%E8%AF%B7%E5%8B%BF%E6%91%84%E5%83%8F%23" target="weibo">
-男子吃自助餐发现餐桌立牌请勿摄像（热度：1107668）
+<a href="https://s.weibo.com/weibo?q=%23116866%E8%AD%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E8%BF%9C%E5%B0%81%E5%AD%98%23" target="weibo">
+116866警号被永远封存（热度：1109959）
 </a>
 </li>
 
@@ -231,14 +231,14 @@ Viper（热度：736593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%80%A0%E5%9E%8B%23" target="weibo">
-陈妍希 造型（热度：715435）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9B%9B%E5%8C%BA75%25%E6%96%B0%E5%A2%9E%E5%9C%A8%E7%A4%BE%E4%BC%9A%E9%9D%A2%E5%8F%91%E7%8E%B0%23" target="weibo">
+重庆四区75%新增在社会面发现（热度：718066）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9B%9B%E5%8C%BA75%25%E6%96%B0%E5%A2%9E%E5%9C%A8%E7%A4%BE%E4%BC%9A%E9%9D%A2%E5%8F%91%E7%8E%B0%23" target="weibo">
-重庆四区75%新增在社会面发现（热度：710951）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%80%A0%E5%9E%8B%23" target="weibo">
+陈妍希 造型（热度：715435）
 </a>
 </li>
 
@@ -477,6 +477,12 @@ Viper（热度：736593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23" target="weibo">
+梅西（热度：449539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E7%BC%85%E5%9B%A0%E7%8C%AB%E6%AF%9B%E6%90%93%E6%88%90%E4%B8%80%E5%8F%AA%E6%89%8B%E5%A5%97%23" target="weibo">
 女子将缅因猫毛搓成一只手套（热度：449222）
 </a>
@@ -633,12 +639,6 @@ gidle音银智利公演中断（热度：439364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23" target="weibo">
-梅西（热度：350826）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%B8%80%E7%9B%B4%E7%AB%99%E5%9C%A8%E6%9C%B1%E9%9F%B5%E8%BA%AB%E5%90%8E%23" target="weibo">
 李峋一直站在朱韵身后（热度：345823）
 </a>
@@ -741,6 +741,12 @@ TREASURE演唱会现场氛围（热度：317463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E8%B5%B7%E6%BA%90%E4%BA%8E%E6%B2%B3%E5%8D%97%23" target="weibo">
+难怪说英语起源于河南（热度：303238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9D%A1%E4%BA%86%E4%BD%86%E5%B0%BE%E5%B7%B4%E6%B2%A1%E7%9D%A1%23" target="weibo">
 猫睡了但尾巴没睡（热度：294605）
 </a>
@@ -791,6 +797,12 @@ KPL首个双辅杂志（热度：292545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%80%E5%BC%80%E5%8F%A3%E5%BC%A0%E6%97%A0%E5%BF%8C%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 苏有朋一开口张无忌回来了（热度：288319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E5%8F%8D%E8%BD%AC%23" target="weibo">
+卿卿日常反转（热度：287291）
 </a>
 </li>
 
@@ -921,12 +933,6 @@ KPL首个双辅杂志（热度：292545）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E8%B5%B7%E6%BA%90%E4%BA%8E%E6%B2%B3%E5%8D%97%23" target="weibo">
-难怪说英语起源于河南（热度：250618）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%8E%89%E8%8C%85%E5%9D%91%E8%A2%AB%E6%8B%89%E7%9D%80%E5%9C%A8%E5%85%A8%E6%9D%91%E8%AE%A8%E4%B8%83%E5%AE%B6%E9%A5%AD%23" target="weibo">
 萌娃掉茅坑被拉着在全村讨七家饭（热度：250166）
 </a>
@@ -959,12 +965,6 @@ KPL首个双辅杂志（热度：292545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BA%A7%E7%BB%A7%E6%89%BF%E5%9B%A0%E5%B7%B2%E6%95%85%E5%A6%B9%E5%A6%B9%E6%97%A0%E5%AD%90%E5%A5%B3%E8%AF%81%E6%98%8E%E8%A2%AB%E5%8D%A1%23" target="weibo">
 房产继承因已故妹妹无子女证明被卡（热度：238363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E5%8F%8D%E8%BD%AC%23" target="weibo">
-卿卿日常反转（热度：238081）
 </a>
 </li>
 
@@ -1131,6 +1131,12 @@ UFC281（热度：210633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+世界杯（热度：188760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%81%9A%E5%85%A8%E4%B8%96%E7%95%8C%E6%B2%A1%E5%81%9A%E8%BF%87%E7%9A%84%E4%BA%8B%23" target="weibo">
 专家建议大家做全世界没做过的事（热度：187961）
 </a>
@@ -1235,6 +1241,12 @@ UFC281（热度：210633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%80%83%E7%AC%AC%E4%B8%80%23" target="weibo">
 李薇考第一（热度：168901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E9%80%90%E4%B8%80%E5%8F%8D%E9%A9%B3%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%23" target="weibo">
+司机家属逐一反驳特斯拉回应（热度：168279）
 </a>
 </li>
 
@@ -1443,12 +1455,6 @@ UFC281（热度：210633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-世界杯（热度：124856）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E4%B8%BA%E4%BD%95%E6%8E%A9%E7%9B%96%E7%BE%8E%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E7%BD%AA%E8%A1%8C%E8%A2%AB%E9%A9%B1%E9%80%90%23" target="weibo">
 记者提问为何掩盖美在阿富汗罪行被驱逐（热度：122710）
 </a>
@@ -1515,12 +1521,6 @@ UFC281（热度：210633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E9%80%90%E4%B8%80%E5%8F%8D%E9%A9%B3%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%23" target="weibo">
-司机家属逐一反驳特斯拉回应（热度：115068）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%85%A8%E8%83%BD%E7%94%B7%E5%8F%8B%E8%8A%B1%E7%B5%AE%23" target="weibo">
 陈飞宇全能男友花絮（热度：112151）
 </a>
@@ -1529,6 +1529,12 @@ UFC281（热度：210633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%96%BE%E6%8E%A7%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E4%BC%9A%E9%80%90%E6%AD%A5%E5%8F%96%E6%B6%88%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%23" target="weibo">
 中疾控回应是否会逐步取消集中隔离（热度：109591）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B012%E5%B9%B4%E5%89%8D%E9%92%B1%E5%8C%85%E6%84%8F%E5%A4%96%E6%89%BE%E5%88%B0%E5%A4%B1%E4%B8%BB%23" target="weibo">
+男子捡到12年前钱包意外找到失主（热度：108427）
 </a>
 </li>
 
@@ -1629,8 +1635,20 @@ UFC281（热度：210633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%90%91%E8%B7%AF%E4%BA%BA%E6%B3%BC%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%23" target="weibo">
+西安警方回应男子向路人泼不明液体（热度：94432）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%9324%E6%B5%B7%E9%87%8C%E7%BA%BF%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%AF%B7%E6%B3%A8%E6%84%8F%E7%94%A8%E8%AF%AD%23" target="weibo">
 所谓24海里线不存在请注意用语（热度：93946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%95%E9%B8%9F%E8%BF%91%E5%8D%83%E5%8F%AA%E7%A7%B0%E7%94%A8%E6%9D%A5%E6%B6%AE%E7%81%AB%E9%94%85%23" target="weibo">
+男子捕鸟近千只称用来涮火锅（热度：93875）
 </a>
 </li>
 
@@ -1655,6 +1673,12 @@ UFC281（热度：210633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%89%E8%81%8C%E4%BA%A4%E8%AD%A6%E6%9B%BE%E7%8B%82%E5%A5%94400%E7%B1%B3%E6%88%AA%E5%81%9C%E8%82%87%E4%BA%8B%E7%94%B7%E5%AD%90%23" target="weibo">
 殉职交警曾狂奔400米截停肇事男子（热度：89845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%BB%91%E7%8C%A9%E7%8C%A9%E4%B8%80%E5%A4%A9%E4%B8%80%E6%A3%B5%E5%A4%A7%E8%91%B1%E4%B8%89%E5%9B%9B%E7%93%A3%E8%92%9C%23" target="weibo">
+山东黑猩猩一天一棵大葱三四瓣蒜（热度：89448）
 </a>
 </li>
 
