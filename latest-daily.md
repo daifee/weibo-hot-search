@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/14 00:30:04 ~ 2022/11/14 02:42:30
+本榜单时间：2022/11/14 00:30:04 ~ 2022/11/14 03:17:33
 </p>
 </blockquote>
 <p>
@@ -315,8 +315,20 @@ Viper（热度：330030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E9%83%9D%E8%91%AD%E4%BC%9A%E9%BB%91%E5%8C%96%E5%90%97%23" target="weibo">
+陈小纭郝葭会黑化吗（热度：63275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E4%B9%90%E4%B8%93%E4%B8%9A%E9%81%87%E5%88%B0%E9%83%BD%E8%A6%81%E7%BB%95%E8%B7%AF%E8%B5%B0%23" target="weibo">
 声乐专业遇到都要绕路走（热度：57867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E7%BB%91%E7%89%99%E9%BD%BF%E8%AE%A9%E5%98%B4%E5%B7%B4%E9%97%AD%E5%90%88%23" target="weibo">
+女子为减肥绑牙齿让嘴巴闭合（热度：56065）
 </a>
 </li>
 
@@ -333,12 +345,6 @@ Viper（热度：330030）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E9%83%9D%E8%91%AD%E4%BC%9A%E9%BB%91%E5%8C%96%E5%90%97%23" target="weibo">
-陈小纭郝葭会黑化吗（热度：48808）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%88%AA%E5%A4%A9%E5%91%98%E6%94%B6%E5%88%B0%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C%23" target="weibo">
 中国空间站航天员收到新鲜水果（热度：44341）
 </a>
@@ -346,13 +352,7 @@ Viper（热度：330030）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%A4%B4%E5%A4%A7%E8%B1%A1%E5%81%B7%E5%96%9D%E6%9D%91%E6%B0%91%E8%87%AA%E9%85%BF%E9%85%92%E9%86%89%E5%80%92%E5%A4%A7%E7%9D%A1%23" target="weibo">
-24头大象偷喝村民自酿酒醉倒大睡（热度：33730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E7%BB%91%E7%89%99%E9%BD%BF%E8%AE%A9%E5%98%B4%E5%B7%B4%E9%97%AD%E5%90%88%23" target="weibo">
-女子为减肥绑牙齿让嘴巴闭合（热度：29733）
+24头大象偷喝村民自酿酒醉倒大睡（热度：37435）
 </a>
 </li>
 
