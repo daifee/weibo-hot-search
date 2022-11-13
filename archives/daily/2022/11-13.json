@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668314152533,
+  "endTime": 1668315196132,
   "band_list": [
     {
       "raw_hot": 1915383,
@@ -67,20 +67,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 889132,
+      "num": 417506,
+      "word": "潮州一特斯拉失控致2死3伤",
+      "onboard_time": 1668313950,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 798251,
+      "num": 798251,
+      "word": "男子吃旋转火锅将空签放回托盘",
+      "onboard_time": 1668310649,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787794,
       "num": 448787,
       "word": "齐溪让王鹤棣拿一下奖杯",
       "onboard_time": 1668309989,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 769481,
-      "num": 769481,
-      "word": "男子吃旋转火锅将空签放回托盘",
-      "onboard_time": 1668310649,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715435,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562976,
+      "num": 428306,
+      "word": "神隐",
+      "onboard_time": 1668313169,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561599,
       "num": 274252,
       "word": "关晓彤看看陈采尼",
@@ -211,14 +227,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 467331,
-      "num": 428306,
-      "word": "神隐",
-      "onboard_time": 1668313169,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 449222,
       "num": 449222,
       "word": "女子将缅因猫毛搓成一只手套",
@@ -233,6 +241,14 @@
       "onboard_time": 1668255934,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443181,
+      "num": 443181,
+      "word": "才知道Excel可以一次性整理图片",
+      "onboard_time": 1668310588,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 439364,
@@ -339,20 +355,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345569,
-      "num": 345569,
-      "word": "才知道Excel可以一次性整理图片",
-      "onboard_time": 1668310588,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
       "raw_hot": 343246,
       "num": 343246,
       "word": "邻居称鲁某某是个有素质的人",
       "onboard_time": 1668287592,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339479,
+      "num": 339479,
+      "word": "陈紫函吃螺蛳粉连说12遍太香了",
+      "onboard_time": 1668314128,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 335278,
@@ -379,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299445,
+      "num": 268841,
+      "word": "泰国粉丝也在追点燃我温暖你",
+      "onboard_time": 1668313407,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294019,
       "num": 294019,
       "word": "次密接的阳性感染率",
       "onboard_time": 1668244290,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292545,
+      "num": 260074,
+      "word": "KPL首个双辅杂志",
+      "onboard_time": 1668314848,
+      "rank": 21,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 291183,
@@ -427,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274028,
-      "num": 274028,
+      "raw_hot": 276609,
+      "num": 276609,
       "word": "商家瓜子加量三克引质疑",
       "onboard_time": 1668310710,
       "rank": 47,
@@ -443,28 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268656,
-      "num": 268656,
-      "word": "小妲己今天真高兴",
-      "onboard_time": 1668268234,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 262690,
-      "num": 262690,
+      "raw_hot": 269520,
+      "num": 269520,
       "word": "卡拉vs张伟丽",
       "onboard_time": 1668308191,
       "rank": 18,
       "category": "体育"
     },
     {
-      "raw_hot": 256078,
-      "num": 128167,
-      "word": "潮州一特斯拉失控致2死3伤",
-      "onboard_time": 1668313950,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 268656,
+      "num": 268656,
+      "word": "小妲己今天真高兴",
+      "onboard_time": 1668268234,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 254789,
@@ -587,14 +611,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 199721,
-      "num": 199721,
-      "word": "泰国粉丝也在追点燃我温暖你",
-      "onboard_time": 1668313407,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196503,
       "num": 141097,
       "word": "这居然是玖月奇迹王小玮",
@@ -667,12 +683,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175411,
+      "num": 175411,
+      "word": "山西把小米做成了咖啡",
+      "onboard_time": 1668314308,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173135,
       "num": 173135,
       "word": "一看就是女孩的毛孩子",
       "onboard_time": 1668256174,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172331,
+      "num": 125907,
+      "word": "陈瑶加入中视同成",
+      "onboard_time": 1668314969,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170978,
@@ -691,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167188,
-      "num": 82622,
-      "word": "陈紫函吃螺蛳粉连说12遍太香了",
-      "onboard_time": 1668314128,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 167109,
+      "num": 167109,
+      "word": "张伟丽UFC冠军战加油",
+      "onboard_time": 1668313109,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 163869,
@@ -867,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113292,
+      "num": 113292,
+      "word": "胃不会越撑越大越饿越小",
+      "onboard_time": 1668314910,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109591,
       "num": 109591,
       "word": "中疾控回应是否会逐步取消集中隔离",
@@ -905,6 +945,14 @@
       "onboard_time": 1668291974,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102356,
+      "num": 102356,
+      "word": "塔图姆43分10篮板",
+      "onboard_time": 1668313349,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101618,
@@ -947,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89845,
+      "num": 89845,
+      "word": "殉职交警曾狂奔400米截停肇事男子",
+      "onboard_time": 1668314848,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87993,
       "num": 87993,
       "word": "4岁女童现场讲解应对火灾经验",
@@ -971,6 +1027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84081,
+      "num": 837668,
+      "word": "卫星视角下湿地城市的生态美",
+      "onboard_time": 1668312448,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 83886,
+      "num": 83886,
+      "word": "奶奶矫健投篮爷爷躺地上为其拍照",
+      "onboard_time": 1668315026,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82722,
       "num": 89308,
       "word": "谁的学校还没有一个小甜妹呢",
@@ -984,22 +1056,6 @@
       "word": "张超",
       "onboard_time": 1668258997,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 82333,
-      "num": 82333,
-      "word": "张伟丽UFC冠军战加油",
-      "onboard_time": 1668313109,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 80433,
-      "num": 80433,
-      "word": "塔图姆43分10篮板",
-      "onboard_time": 1668313349,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1041,14 +1097,6 @@
       "onboard_time": 1668262959,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63776,
-      "num": 818605,
-      "word": "卫星视角下湿地城市的生态美",
-      "onboard_time": 1668312448,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 43150,
@@ -1105,6 +1153,9 @@
     },
     {
       "word": "#天舟五号奔赴太空#"
+    },
+    {
+      "word": "#新时代新征程新伟业#"
     }
   ]
 }
