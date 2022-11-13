@@ -1,0 +1,410 @@
+{
+  "runTime": 1668374361759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108844,
+        "num": 108844,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1668349292,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70977,
+        "num": 70977,
+        "word": "多喝热水少喝冰水真的健康吗",
+        "onboard_time": 1668355285,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5190,
+        "num": 58828,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 53547,
+        "num": 53547,
+        "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+        "onboard_time": 1668348989,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42663,
+        "num": 42663,
+        "word": "南京站",
+        "onboard_time": 1668353969,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41738,
+        "num": 41738,
+        "word": "张元英走台步",
+        "onboard_time": 1668354268,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40645,
+        "num": 40645,
+        "word": "男子分手后3个月逆袭减肥80斤",
+        "onboard_time": 1668347548,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39144,
+        "num": 39144,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668334110,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35468,
+        "num": 35468,
+        "word": "金融16条支持房地产",
+        "onboard_time": 1668356365,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32268,
+        "num": 32268,
+        "word": "男子捡到12年前钱包意外找到失主",
+        "onboard_time": 1668353069,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67576,
+        "num": 31898,
+        "word": "多家医院不再向社会提供愿检尽检服务",
+        "onboard_time": 1668370932,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31435,
+        "num": 31435,
+        "word": "女子为减肥绑牙齿让嘴巴闭合",
+        "onboard_time": 1668363915,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30412,
+        "num": 30412,
+        "word": "重庆四区75%新增在社会面发现",
+        "onboard_time": 1668350972,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28433,
+        "num": 28433,
+        "word": "伊斯坦布尔知名步行街发生爆炸",
+        "onboard_time": 1668355228,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27763,
+        "num": 27763,
+        "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
+        "onboard_time": 1668330029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27383,
+        "num": 27383,
+        "word": "深圳痛经假经确诊可休1到2天",
+        "onboard_time": 1668333389,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24646,
+        "num": 24646,
+        "word": "张婧仪他从火光中走来跳舞路透",
+        "onboard_time": 1668356066,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24610,
+        "num": 24610,
+        "word": "小男孩展示自家红薯库惊呆网友",
+        "onboard_time": 1668367992,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 24078,
+        "word": "西安警方回应男子向路人泼不明液体",
+        "onboard_time": 1668353369,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22895,
+        "num": 22895,
+        "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
+        "onboard_time": 1668353430,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21660,
+        "num": 21660,
+        "word": "卿卿日常",
+        "onboard_time": 1668340228,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18630,
+        "num": 18630,
+        "word": "卡塔尔为举办世界杯造了一座城",
+        "onboard_time": 1668342566,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19032,
+        "num": 18571,
+        "word": "陈小纭郝葭会黑化吗",
+        "onboard_time": 1668363314,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18261,
+        "num": 18261,
+        "word": "Viper",
+        "onboard_time": 1668349170,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18137,
+        "num": 18137,
+        "word": "特斯拉称警方正寻求第三方鉴定",
+        "onboard_time": 1668342566,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17748,
+        "num": 17748,
+        "word": "北京提倡疫情期间减少非必要外出",
+        "onboard_time": 1668339869,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17326,
+        "num": 17326,
+        "word": "世界杯",
+        "onboard_time": 1668352649,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17225,
+        "num": 17225,
+        "word": "司机家属逐一反驳特斯拉回应",
+        "onboard_time": 1668352649,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16800,
+        "num": 16800,
+        "word": "安宥真走台步",
+        "onboard_time": 1668354865,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16342,
+        "num": 16342,
+        "word": "朱韵亲了李峋左脸",
+        "onboard_time": 1668345268,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21397,
+        "num": 16331,
+        "word": "24头大象偷喝村民自酿酒醉倒大睡",
+        "onboard_time": 1668362416,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18340,
+        "num": 16329,
+        "word": "加密货币价格大跌",
+        "onboard_time": 1668368473,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16321,
+        "num": 16321,
+        "word": "陈飞宇英语口语水平",
+        "onboard_time": 1668343647,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16284,
+        "num": 16284,
+        "word": "白敬亭刘令姿新剧结婚变结盟",
+        "onboard_time": 1668356066,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16128,
+        "num": 16128,
+        "word": "北京新增本土感染者170例",
+        "onboard_time": 1668335790,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16083,
+        "num": 16083,
+        "word": "男子捕鸟近千只称用来涮火锅",
+        "onboard_time": 1668353131,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15501,
+        "num": 15501,
+        "word": "特斯拉称潮州车主全程没有踩刹车动作",
+        "onboard_time": 1668328529,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 13973,
+        "num": 13973,
+        "word": "想过离谱但没想过这么离谱",
+        "onboard_time": 1668369792,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13114,
+        "num": 13114,
+        "word": "女租客失联留下满屋垃圾楼道里都是臭味",
+        "onboard_time": 1668331591,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13092,
+        "num": 13092,
+        "word": "梅西",
+        "onboard_time": 1668351453,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12607,
+        "num": 12607,
+        "word": "刘亦菲去有风的地方",
+        "onboard_time": 1668335731,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12456,
+        "num": 12456,
+        "word": "缅因猫因太胖被误当猞猁送到保护站",
+        "onboard_time": 1668339268,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11703,
+        "num": 11703,
+        "word": "原来好的恋爱是这样的",
+        "onboard_time": 1668332247,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11299,
+        "num": 11299,
+        "word": "卿卿日常反转",
+        "onboard_time": 1668351211,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11124,
+        "num": 11124,
+        "word": "兰州一街道干部被曝酒后辱骂志愿者",
+        "onboard_time": 1668339149,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10861,
+        "num": 10861,
+        "word": "李峋快点去洗脸",
+        "onboard_time": 1668356307,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10766,
+        "num": 10766,
+        "word": "突然不认识西游记了",
+        "onboard_time": 1668334110,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10364,
+        "num": 10364,
+        "word": "这是天庭运动会吗",
+        "onboard_time": 1668371831,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9804,
+        "num": 9804,
+        "word": "难怪说英语起源于河南",
+        "onboard_time": 1668350433,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9121,
+        "num": 9800,
+        "word": "高校老师肩挑背扛给同学送早餐",
+        "onboard_time": 1668367273,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
