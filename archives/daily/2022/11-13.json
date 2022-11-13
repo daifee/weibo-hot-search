@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668338299994,
+  "endTime": 1668339268457,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -155,8 +155,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 889933,
-      "num": 889933,
+      "raw_hot": 903776,
+      "num": 903776,
       "word": "突然不认识西游记了",
       "onboard_time": 1668334110,
       "rank": 16,
@@ -299,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 621304,
+      "num": 621304,
+      "word": "刘亦菲去有风的地方",
+      "onboard_time": 1668335731,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614049,
       "num": 614049,
       "word": "女租客失联留下满屋垃圾楼道里都是臭味",
@@ -312,14 +320,6 @@
       "word": "奚美娟金鸡奖最佳女主角",
       "onboard_time": 1668260259,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 592671,
-      "num": 592671,
-      "word": "刘亦菲去有风的地方",
-      "onboard_time": 1668335731,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -723,11 +723,27 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 316603,
+      "num": 316603,
+      "word": "命韵峋环沙发咚",
+      "onboard_time": 1668337829,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316248,
       "num": 316248,
       "word": "山西把小米做成了咖啡",
       "onboard_time": 1668314308,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312265,
+      "num": 312265,
+      "word": "司机突发脑溢血交警嘶吼式抢救",
+      "onboard_time": 1668334289,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270889,
+      "num": 270889,
+      "word": "鹿晗差不多式拼脸挑战",
+      "onboard_time": 1668338968,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269778,
       "num": 269778,
       "word": "店主上菜滑倒直接跪式服务",
@@ -888,6 +912,14 @@
       "word": "小猴被压巨石下消防员变唐僧解救",
       "onboard_time": 1668317789,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259709,
+      "num": 273381,
+      "word": "男子初中学历7年造出5架飞机",
+      "onboard_time": 1668335547,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -915,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253999,
+      "num": 253999,
+      "word": "有人抢先朱韵亲了李峋",
+      "onboard_time": 1668338848,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "九龙坡区对网传孕妇送医延误开展调查",
@@ -928,6 +968,14 @@
       "word": "医生识破患者学医让自己写病历",
       "onboard_time": 1668258036,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250166,
+      "num": 250166,
+      "word": "萌娃掉茅坑被拉着在全村讨七家饭",
+      "onboard_time": 1668333209,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -995,11 +1043,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228601,
-      "num": 228601,
-      "word": "萌娃掉茅坑被拉着在全村讨七家饭",
-      "onboard_time": 1668333209,
-      "rank": 36,
+      "raw_hot": 229897,
+      "num": 229897,
+      "word": "赠品面包配料表写问号和保密被质疑",
+      "onboard_time": 1668334229,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1057,6 @@
       "onboard_time": 1668305367,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224968,
-      "num": 224968,
-      "word": "司机突发脑溢血交警嘶吼式抢救",
-      "onboard_time": 1668334289,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222737,
@@ -1035,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215109,
-      "num": 215109,
-      "word": "赠品面包配料表写问号和保密被质疑",
-      "onboard_time": 1668334229,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 218475,
+      "num": 141012,
+      "word": "你选我吧我绝不背叛你",
+      "onboard_time": 1668337168,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 214472,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1668311428,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190503,
-      "num": 190503,
-      "word": "男子初中学历7年造出5架飞机",
-      "onboard_time": 1668335547,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188997,
@@ -1275,12 +1307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168714,
+      "num": 140467,
+      "word": "结婚找不到伴娘怎么办",
+      "onboard_time": 1668338310,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167541,
       "num": 167541,
       "word": "女生的P图手法有多厉害",
       "onboard_time": 1668315509,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165210,
+      "num": 165210,
+      "word": "呼和浩特要求确保核酸结果准确可靠",
+      "onboard_time": 1668337168,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163869,
@@ -1353,6 +1401,22 @@
       "onboard_time": 1668296961,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148344,
+      "num": 79169,
+      "word": "卿卿日常虐不过1集",
+      "onboard_time": 1668339208,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147979,
+      "num": 147979,
+      "word": "猫有多享受被挠下巴",
+      "onboard_time": 1668336751,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 147724,
@@ -1491,27 +1555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128597,
-      "num": 128597,
-      "word": "猫有多享受被挠下巴",
-      "onboard_time": 1668336751,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125538,
       "num": 120428,
       "word": "满江红工作人员夸易烊千玺入戏快",
       "onboard_time": 1668336990,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 125165,
-      "num": 120417,
-      "word": "你选我吧我绝不背叛你",
-      "onboard_time": 1668337168,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1649,14 +1697,6 @@
       "onboard_time": 1668313349,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104853,
-      "num": 104853,
-      "word": "呼和浩特要求确保核酸结果准确可靠",
-      "onboard_time": 1668337168,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104327,
@@ -1915,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68651,
+      "num": 68651,
+      "word": "兰州一街道干部被曝酒后辱骂志愿者",
+      "onboard_time": 1668339149,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68584,
       "num": 68584,
       "word": "李景亮现场助威张伟丽",
@@ -1971,20 +2019,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30130,
+      "num": 977465,
+      "word": "生态文明与美丽中国实践边会",
+      "onboard_time": 1668336869,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 26027,
       "num": 23217,
       "word": "猫和老鼠的新版动画片",
       "onboard_time": 1668279495,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 25557,
-      "num": 950854,
-      "word": "生态文明与美丽中国实践边会",
-      "onboard_time": 1668336869,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 13846,
