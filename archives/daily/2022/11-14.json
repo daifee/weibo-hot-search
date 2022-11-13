@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668357004606,
+  "endTime": 1668358246636,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1005497,
-      "num": 604879,
+      "num": 622115,
       "word": "张元英走台步",
       "onboard_time": 1668354268,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 691905,
+      "num": 691905,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1668334110,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677610,
@@ -43,12 +51,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 519061,
-      "num": 519061,
-      "word": "广州海珠区疫情防控",
-      "onboard_time": 1668334110,
-      "rank": 6,
+      "raw_hot": 579389,
+      "num": 579389,
+      "word": "南京站",
+      "onboard_time": 1668353969,
+      "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571725,
+      "num": 343752,
+      "word": "张婧仪他从火光中走来跳舞路透",
+      "onboard_time": 1668356066,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 483868,
@@ -56,14 +72,6 @@
       "word": "重庆四区75%新增在社会面发现",
       "onboard_time": 1668350972,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439872,
-      "num": 439872,
-      "word": "南京站",
-      "onboard_time": 1668353969,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -99,19 +107,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 323691,
-      "num": 323691,
-      "word": "张婧仪他从火光中走来跳舞路透",
-      "onboard_time": 1668356066,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
       "onboard_time": 1668353369,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299880,
+      "num": 299880,
+      "word": "多喝热水少喝冰水真的健康吗",
+      "onboard_time": 1668355285,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -155,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210731,
-      "num": 210731,
-      "word": "多喝热水少喝冰水真的健康吗",
-      "onboard_time": 1668355285,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
@@ -176,6 +176,14 @@
       "word": "突然不认识西游记了",
       "onboard_time": 1668334110,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187599,
+      "num": 187599,
+      "word": "白敬亭刘令姿新剧结婚变结盟",
+      "onboard_time": 1668356066,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -227,8 +235,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155245,
-      "num": 155245,
+      "raw_hot": 155272,
+      "num": 155272,
       "word": "男子捕鸟近千只称用来涮火锅",
       "onboard_time": 1668353131,
       "rank": 29,
@@ -243,14 +251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146518,
-      "num": 143573,
-      "word": "白敬亭刘令姿新剧结婚变结盟",
-      "onboard_time": 1668356066,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144010,
       "num": 144010,
       "word": "卡塔尔为举办世界杯造了一座城",
@@ -259,11 +259,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143944,
+      "num": 143944,
+      "word": "林志炫杨丞琳许靖韵黄霄雲破茧",
+      "onboard_time": 1668357923,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140870,
       "num": 140870,
       "word": "缅因猫因太胖被误当猞猁送到保护站",
       "onboard_time": 1668339268,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136107,
+      "num": 136107,
+      "word": "伊斯坦布尔知名步行街发生爆炸",
+      "onboard_time": 1668355228,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109350,
+      "num": 109350,
+      "word": "李峋快点去洗脸",
+      "onboard_time": 1668356307,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108596,
       "num": 102088,
       "word": "檀健次自曝试戏过左耳",
@@ -307,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106819,
-      "num": 101470,
-      "word": "李峋快点去洗脸",
-      "onboard_time": 1668356307,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 105820,
+      "num": 105820,
+      "word": "金融16条支持房地产",
+      "onboard_time": 1668356365,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 104890,
@@ -321,14 +345,6 @@
       "onboard_time": 1668332247,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102971,
-      "num": 102971,
-      "word": "伊斯坦布尔知名步行街发生爆炸",
-      "onboard_time": 1668355228,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96992,
@@ -379,14 +395,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 67738,
-      "num": 67738,
-      "word": "金融16条支持房地产",
-      "onboard_time": 1668356365,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "声乐专业遇到都要绕路走",
@@ -395,8 +403,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44341,
+      "num": 59704,
+      "word": "中国空间站航天员收到新鲜水果",
+      "onboard_time": 1668357323,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 14033,
-      "num": 609899,
+      "num": 631438,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#让探索太空的脚步迈得更稳更远#"
+    },
+    {
+      "word": "#新征程再出发#"
     }
   ]
 }
