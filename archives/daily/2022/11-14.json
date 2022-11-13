@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668358246636,
+  "endTime": 1668360106042,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -19,8 +19,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 691905,
-      "num": 691905,
+      "raw_hot": 702977,
+      "num": 702977,
       "word": "广州海珠区疫情防控",
       "onboard_time": 1668334110,
       "rank": 6,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334765,
+      "num": 334765,
+      "word": "多喝热水少喝冰水真的健康吗",
+      "onboard_time": 1668355285,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330030,
       "num": 330030,
       "word": "Viper",
@@ -112,14 +120,6 @@
       "word": "西安警方回应男子向路人泼不明液体",
       "onboard_time": 1668353369,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299880,
-      "num": 299880,
-      "word": "多喝热水少喝冰水真的健康吗",
-      "onboard_time": 1668355285,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1668352649,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "伊斯坦布尔知名步行街发生爆炸",
+      "onboard_time": 1668355228,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165860,
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136107,
-      "num": 136107,
-      "word": "伊斯坦布尔知名步行街发生爆炸",
-      "onboard_time": 1668355228,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133783,
       "num": 133783,
       "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
@@ -297,6 +297,14 @@
       "onboard_time": 1668328529,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 118146,
+      "num": 118146,
+      "word": "金融16条支持房地产",
+      "onboard_time": 1668356365,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 112646,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109587,
+      "num": 109587,
+      "word": "王鹤棣跳危险派对忘动作",
+      "onboard_time": 1668359539,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109350,
       "num": 109350,
       "word": "李峋快点去洗脸",
@@ -329,14 +345,6 @@
       "onboard_time": 1668349108,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105820,
-      "num": 105820,
-      "word": "金融16条支持房地产",
-      "onboard_time": 1668356365,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 104890,
@@ -400,6 +408,22 @@
       "word": "声乐专业遇到都要绕路走",
       "onboard_time": 1668356784,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52732,
+      "num": 52732,
+      "word": "刘亦菲去有风的地方",
+      "onboard_time": 1668335731,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 50514,
+      "num": 50514,
+      "word": "和狗告状的小朋友",
+      "onboard_time": 1668358341,
+      "rank": 46,
       "category": "幽默"
     },
     {
