@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668328955876,
+  "endTime": 1668331266968,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859213,
+      "num": 742431,
+      "word": "鹿晗杨洋杨颖倪妮早期樱花写真",
+      "onboard_time": 1668328229,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 856893,
       "num": 856893,
       "word": "点燃我温暖你第14集封神了",
@@ -1859,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 727948,
+      "num": 727948,
+      "word": "售假女主播双11当天直播时被抓",
+      "onboard_time": 1668325350,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727799,
       "num": 727799,
       "word": "医院回应不等核酸结果抢救七旬黄码老人",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1667985686,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 724896,
-      "num": 724896,
-      "word": "售假女主播双11当天直播时被抓",
-      "onboard_time": 1668325350,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724831,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1667982746,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672384,
-      "num": 672384,
-      "word": "鹿晗杨洋杨颖倪妮早期樱花写真",
-      "onboard_time": 1668328229,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 672271,
@@ -3587,12 +3587,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457895,
+      "num": 457895,
+      "word": "中国公司承包巴西人衣食住行",
+      "onboard_time": 1668327630,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457690,
       "num": 392292,
       "word": "卿卿日常",
       "onboard_time": 1668076107,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456792,
+      "num": 422062,
+      "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
+      "onboard_time": 1668330029,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453804,
@@ -4123,6 +4139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413411,
+      "num": 413411,
+      "word": "特斯拉称潮州车主全程没有踩刹车动作",
+      "onboard_time": 1668328529,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 413221,
       "num": 377600,
       "word": "段奥娟解约案胜诉",
@@ -4619,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378993,
+      "num": 378993,
+      "word": "第一次这么心疼一只海龟",
+      "onboard_time": 1668326249,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377847,
       "num": 377847,
       "word": "25岁小伙上门做饭三菜一汤收费36元",
@@ -5009,6 +5041,14 @@
       "onboard_time": 1667903490,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345303,
+      "num": 345303,
+      "word": "陈飞宇唱无问",
+      "onboard_time": 1668329248,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 345169,
@@ -6515,14 +6555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269123,
-      "num": 269123,
-      "word": "中国公司承包巴西人衣食住行",
-      "onboard_time": 1668327630,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268969,
       "num": 268969,
       "word": "独居女生一定记得反锁家门",
@@ -6617,6 +6649,14 @@
       "onboard_time": 1667835628,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262896,
+      "num": 262896,
+      "word": "这样走路腿真的会瘦",
+      "onboard_time": 1668326669,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 262659,
@@ -6825,14 +6865,6 @@
       "onboard_time": 1667986347,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253611,
-      "num": 253611,
-      "word": "第一次这么心疼一只海龟",
-      "onboard_time": 1668326249,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 253236,
@@ -7683,6 +7715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222118,
+      "num": 222118,
+      "word": "李峋当众挑衅方志靖",
+      "onboard_time": 1668330088,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221159,
       "num": 221159,
       "word": "韩素希活动饭拍",
@@ -8385,14 +8425,6 @@
       "onboard_time": 1667892326,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194892,
-      "num": 194892,
-      "word": "这样走路腿真的会瘦",
-      "onboard_time": 1668326669,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 194854,
@@ -9163,6 +9195,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 176982,
+      "num": 176982,
+      "word": "体院学生操场乱斗式硬核打雪仗",
+      "onboard_time": 1668327390,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176636,
       "num": 176636,
       "word": "漂亮的年纪要让自己开心",
@@ -9177,6 +9217,14 @@
       "onboard_time": 1667913927,
       "rank": 36,
       "category": "自然"
+    },
+    {
+      "raw_hot": 176340,
+      "num": 134732,
+      "word": "吉克隽逸舞台道具用了60吨沙子",
+      "onboard_time": 1668326011,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 176103,
@@ -10491,14 +10539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142974,
-      "num": 134732,
-      "word": "吉克隽逸舞台道具用了60吨沙子",
-      "onboard_time": 1668326011,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142952,
       "num": 142952,
       "word": "命韵峋环狐狸精版吃醋",
@@ -10857,14 +10897,6 @@
       "onboard_time": 1668125305,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134279,
-      "num": 134279,
-      "word": "特斯拉称潮州车主全程没有踩刹车动作",
-      "onboard_time": 1668328529,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 134105,
@@ -11491,6 +11523,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 119973,
+      "num": 119973,
+      "word": "松垮大腿根算是碰到克星了",
+      "onboard_time": 1668328950,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119934,
       "num": 79457,
       "word": "黑豹2好看吗",
@@ -11609,6 +11649,14 @@
       "onboard_time": 1668219813,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 116961,
+      "num": 116961,
+      "word": "仪式感一定要别人给吗",
+      "onboard_time": 1668330509,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 116822,
@@ -11945,14 +11993,6 @@
       "onboard_time": 1667925981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108515,
-      "num": 108515,
-      "word": "体院学生操场乱斗式硬核打雪仗",
-      "onboard_time": 1668327390,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108008,
@@ -12497,6 +12537,14 @@
       "onboard_time": 1667885067,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98405,
+      "num": 98405,
+      "word": "马龙一心二用挑战",
+      "onboard_time": 1668330448,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 98315,
@@ -13763,6 +13811,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 78417,
+      "num": 78417,
+      "word": "被人类幼崽的眼神可爱到了",
+      "onboard_time": 1668330990,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78284,
+      "num": 78284,
+      "word": "珠海航展1分钟裸眼3D大片",
+      "onboard_time": 1668330509,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 78268,
       "num": 78268,
       "word": "金鸡雅集片单",
@@ -14001,14 +14065,6 @@
       "onboard_time": 1668051986,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 71395,
-      "num": 71395,
-      "word": "松垮大腿根算是碰到克星了",
-      "onboard_time": 1668328950,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 71382,
