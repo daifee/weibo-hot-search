@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668374361759,
+  "endTime": 1668375354737,
   "band_list": [
     {
       "raw_hot": 1078981,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103575,
+      "num": 32908,
+      "word": "多家医院不再向社会提供愿检尽检服务",
+      "onboard_time": 1668370932,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96992,
       "num": 96992,
       "word": "千万不要养狐狸",
@@ -401,14 +409,6 @@
       "onboard_time": 1668332550,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 67576,
-      "num": 31898,
-      "word": "多家医院不再向社会提供愿检尽检服务",
-      "onboard_time": 1668370932,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63275,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27018,
+      "num": 27018,
+      "word": "小男孩展示自家红薯库惊呆网友",
+      "onboard_time": 1668367992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26208,
       "num": 26208,
       "word": "钟楚曦金鸡奖仪态",
       "onboard_time": 1668362356,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24610,
-      "num": 24610,
-      "word": "小男孩展示自家红薯库惊呆网友",
-      "onboard_time": 1668367992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20520,
@@ -491,6 +491,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 15197,
+      "num": 15197,
+      "word": "这是天庭运动会吗",
+      "onboard_time": 1668371831,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15032,
+      "num": 15032,
+      "word": "想过离谱但没想过这么离谱",
+      "onboard_time": 1668369792,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 14033,
       "num": 631438,
       "word": "生态文明与美丽中国实践边会",
@@ -499,12 +515,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 13973,
-      "num": 13973,
-      "word": "想过离谱但没想过这么离谱",
-      "onboard_time": 1668369792,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 12232,
+      "num": 12232,
+      "word": "上海二手房量价齐跌",
+      "onboard_time": 1668374710,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 11042,
@@ -515,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10364,
-      "num": 11179,
-      "word": "这是天庭运动会吗",
-      "onboard_time": 1668371831,
+      "raw_hot": 8754,
+      "num": 11097,
+      "word": "8K超高清纯享20家族震撼瞬间",
+      "onboard_time": 1668373212,
       "rank": 49,
-      "category": "幽默"
+      "category": "军事"
     }
   ],
   "hotgov_list": [
