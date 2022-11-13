@@ -1,0 +1,410 @@
+{
+  "runTime": 1668352947708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367809,
+        "num": 1367809,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1668349292,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1358855,
+        "num": 1358855,
+        "word": "男子分手后3个月逆袭减肥80斤",
+        "onboard_time": 1668347548,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20671,
+        "num": 1180609,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1107668,
+        "num": 1107668,
+        "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+        "onboard_time": 1668348989,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754917,
+        "num": 754917,
+        "word": "尹峥元英大婚",
+        "onboard_time": 1668348208,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736593,
+        "num": 736593,
+        "word": "Viper",
+        "onboard_time": 1668349170,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 710951,
+        "num": 710951,
+        "word": "重庆四区75%新增在社会面发现",
+        "onboard_time": 1668350972,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669066,
+        "num": 669066,
+        "word": "深圳痛经假经确诊可休1到2天",
+        "onboard_time": 1668333389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532240,
+        "num": 532240,
+        "word": "一次收到6.7吨快递是什么感受",
+        "onboard_time": 1668348687,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462201,
+        "num": 462201,
+        "word": "朱韵亲了李峋左脸",
+        "onboard_time": 1668345268,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505870,
+        "num": 458752,
+        "word": "陈飞宇英语口语水平",
+        "onboard_time": 1668343647,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441579,
+        "num": 441579,
+        "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
+        "onboard_time": 1668330029,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431233,
+        "num": 431233,
+        "word": "苏慎原型是苏培盛",
+        "onboard_time": 1668347429,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375261,
+        "num": 375261,
+        "word": "偷偷藏不住陈哲远杀青",
+        "onboard_time": 1668348571,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350826,
+        "num": 350826,
+        "word": "梅西",
+        "onboard_time": 1668351453,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331493,
+        "num": 331493,
+        "word": "突然不认识西游记了",
+        "onboard_time": 1668334110,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323506,
+        "num": 323506,
+        "word": "北京提倡疫情期间减少非必要外出",
+        "onboard_time": 1668339869,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305675,
+        "num": 305675,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668334110,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304688,
+        "num": 304688,
+        "word": "特斯拉称警方正寻求第三方鉴定",
+        "onboard_time": 1668342566,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294630,
+        "num": 294630,
+        "word": "千万不要养狐狸",
+        "onboard_time": 1668345870,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281300,
+        "num": 281300,
+        "word": "檀健次自曝试戏过左耳",
+        "onboard_time": 1668349108,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274208,
+        "num": 274208,
+        "word": "卿卿日常",
+        "onboard_time": 1668340228,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258443,
+        "num": 258443,
+        "word": "卡塔尔为举办世界杯造了一座城",
+        "onboard_time": 1668342566,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255077,
+        "num": 255077,
+        "word": "我们的歌",
+        "onboard_time": 1668351034,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250618,
+        "num": 250618,
+        "word": "难怪说英语起源于河南",
+        "onboard_time": 1668350433,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 221836,
+        "word": "缅因猫因太胖被误当猞猁送到保护站",
+        "onboard_time": 1668339268,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219824,
+        "num": 219824,
+        "word": "特斯拉称潮州车主全程没有踩刹车动作",
+        "onboard_time": 1668328529,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171541,
+        "num": 171541,
+        "word": "北京新增本土感染者170例",
+        "onboard_time": 1668335790,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138126,
+        "num": 138126,
+        "word": "结婚找不到伴娘怎么办",
+        "onboard_time": 1668338310,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134800,
+        "num": 134800,
+        "word": "尹力兼任北京市委书记",
+        "onboard_time": 1668332550,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 238081,
+        "num": 134333,
+        "word": "卿卿日常反转",
+        "onboard_time": 1668351211,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199614,
+        "num": 133940,
+        "word": "李峋无法复制的天才",
+        "onboard_time": 1668352050,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221398,
+        "num": 133743,
+        "word": "刘美含新剧为田曦薇发声",
+        "onboard_time": 1668339988,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184688,
+        "num": 133263,
+        "word": "有人抢先朱韵亲了李峋",
+        "onboard_time": 1668338848,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132935,
+        "num": 132935,
+        "word": "原来好的恋爱是这样的",
+        "onboard_time": 1668332247,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131283,
+        "num": 131283,
+        "word": "兰州一街道干部被曝酒后辱骂志愿者",
+        "onboard_time": 1668339149,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "女租客失联留下满屋垃圾楼道里都是臭味",
+        "onboard_time": 1668331591,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124856,
+        "num": 124856,
+        "word": "世界杯",
+        "onboard_time": 1668352649,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124620,
+        "num": 124620,
+        "word": "2022世界杯了个杯",
+        "onboard_time": 1668346230,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 123600,
+        "word": "全网最全熊出没做核酸",
+        "onboard_time": 1668344487,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182573,
+        "num": 123198,
+        "word": "不期而至",
+        "onboard_time": 1668352770,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174799,
+        "num": 123125,
+        "word": "朱一龙金鸡奖后台反差萌",
+        "onboard_time": 1668347306,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115068,
+        "num": 115068,
+        "word": "司机家属逐一反驳特斯拉回应",
+        "onboard_time": 1668352649,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105250,
+        "num": 105250,
+        "word": "张本美和4比1伊藤美诚",
+        "onboard_time": 1668340228,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96277,
+        "num": 96277,
+        "word": "得物",
+        "onboard_time": 1668321687,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 96208,
+        "word": "宝宝滑倒爸妈神同步伸脚接住",
+        "onboard_time": 1668340708,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92394,
+        "num": 92394,
+        "word": "男子初中学历7年造出5架飞机",
+        "onboard_time": 1668335547,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86926,
+        "num": 86926,
+        "word": "猫有多享受被挠下巴",
+        "onboard_time": 1668336751,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85740,
+        "num": 85740,
+        "word": "特斯拉回应潮州撞人事故",
+        "onboard_time": 1668323010,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 83533,
+        "num": 83533,
+        "word": "世界杯诸神黄昏之战",
+        "onboard_time": 1668351571,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}

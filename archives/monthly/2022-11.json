@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668350182801,
+  "endTime": 1668352947708,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1291,12 +1291,28 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 1367809,
+      "num": 1367809,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1668349292,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1363339,
       "num": 1363339,
       "word": "朋友圈设置三天可见的理由",
       "onboard_time": 1667226207,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1358855,
+      "num": 1358855,
+      "word": "男子分手后3个月逆袭减肥80斤",
+      "onboard_time": 1668347548,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1354579,
@@ -1883,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107668,
+      "num": 1107668,
+      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+      "onboard_time": 1668348989,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107080,
       "num": 382398,
       "word": "韩总理公布梨泰院踩踏事故原因",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1667292867,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1052495,
-      "num": 1052495,
-      "word": "男子分手后3个月逆袭减肥80斤",
-      "onboard_time": 1668347548,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1051608,
@@ -2452,7 +2468,7 @@
     },
     {
       "raw_hot": 959570,
-      "num": 457625,
+      "num": 458752,
       "word": "陈飞宇英语口语水平",
       "onboard_time": 1668343647,
       "rank": 10,
@@ -3499,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 754917,
+      "num": 754917,
+      "word": "尹峥元英大婚",
+      "onboard_time": 1668348208,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 752904,
       "num": 263046,
       "word": "男子火车上半脱裤子躺座椅上",
@@ -3643,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 736593,
+      "num": 736593,
+      "word": "Viper",
+      "onboard_time": 1668349170,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 732016,
       "num": 732016,
       "word": "白敬亭田曦薇卿卿日常定档11月10日",
@@ -3784,6 +3816,14 @@
       "word": "成都青城山现大量不明线虫",
       "onboard_time": 1667998648,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710951,
+      "num": 710951,
+      "word": "重庆四区75%新增在社会面发现",
+      "onboard_time": 1668350972,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -4153,14 +4193,6 @@
       "onboard_time": 1667297608,
       "rank": 40,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 670839,
-      "num": 670839,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1668349292,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669531,
@@ -4881,14 +4913,6 @@
       "onboard_time": 1667661929,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594137,
-      "num": 594137,
-      "word": "尹峥元英大婚",
-      "onboard_time": 1668348208,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 592419,
@@ -5739,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532240,
+      "num": 532240,
+      "word": "一次收到6.7吨快递是什么感受",
+      "onboard_time": 1668348687,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532238,
       "num": 532238,
       "word": "涉嫌路边猥亵未成年少女的男子被抓",
@@ -5929,14 +5961,6 @@
       "onboard_time": 1667468606,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521280,
-      "num": 521280,
-      "word": "Viper",
-      "onboard_time": 1668349170,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 520928,
@@ -7603,6 +7627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 431233,
+      "num": 431233,
+      "word": "苏慎原型是苏培盛",
+      "onboard_time": 1668347429,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430796,
       "num": 430796,
       "word": "王者荣耀新射手英雄",
@@ -8755,14 +8787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380032,
-      "num": 380032,
-      "word": "苏慎原型是苏培盛",
-      "onboard_time": 1668347429,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -8920,14 +8944,6 @@
       "word": "秸秆恶意被绑5把铁锤农户损失惨重",
       "onboard_time": 1667973626,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371905,
-      "num": 371905,
-      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
-      "onboard_time": 1668348989,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9473,6 +9489,14 @@
       "onboard_time": 1668132686,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 350826,
+      "num": 350826,
+      "word": "梅西",
+      "onboard_time": 1668351453,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 350590,
@@ -10217,14 +10241,6 @@
       "onboard_time": 1667921790,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327089,
-      "num": 327089,
-      "word": "一次收到6.7吨快递是什么感受",
-      "onboard_time": 1668348687,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327030,
@@ -11787,6 +11803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281300,
+      "num": 281300,
+      "word": "檀健次自曝试戏过左耳",
+      "onboard_time": 1668349108,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "原来上课睡觉是这样的",
@@ -12811,6 +12835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255077,
+      "num": 255077,
+      "word": "我们的歌",
+      "onboard_time": 1668351034,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "这辈子没见过这么多猫",
@@ -12960,6 +12992,14 @@
       "word": "打直球的相亲也太劲爆了吧",
       "onboard_time": 1667638106,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 250618,
+      "num": 250618,
+      "word": "难怪说英语起源于河南",
+      "onboard_time": 1668350433,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -13401,6 +13441,14 @@
       "onboard_time": 1668144344,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238081,
+      "num": 134333,
+      "word": "卿卿日常反转",
+      "onboard_time": 1668351211,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 237764,
@@ -15387,6 +15435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199614,
+      "num": 133940,
+      "word": "李峋无法复制的天才",
+      "onboard_time": 1668352050,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199481,
       "num": 199481,
       "word": "果农收获两万斤不舍得吃大苹果",
@@ -16091,14 +16147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187935,
-      "num": 151183,
-      "word": "檀健次自曝试戏过左耳",
-      "onboard_time": 1668349108,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187927,
       "num": 187927,
       "word": "李峋朱韵同一类人",
@@ -16465,6 +16513,14 @@
       "onboard_time": 1667887286,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182573,
+      "num": 123198,
+      "word": "不期而至",
+      "onboard_time": 1668066747,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 182572,
@@ -20675,6 +20731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124856,
+      "num": 124856,
+      "word": "世界杯",
+      "onboard_time": 1668352649,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124749,
       "num": 124749,
       "word": "九尾无畏双BKing同框",
@@ -21417,6 +21481,14 @@
       "onboard_time": 1668046708,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 115068,
+      "word": "司机家属逐一反驳特斯拉回应",
+      "onboard_time": 1668352649,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114853,
@@ -22857,14 +22929,6 @@
       "onboard_time": 1668155200,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 98626,
-      "num": 98626,
-      "word": "不期而至",
-      "onboard_time": 1668066747,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 98560,
@@ -24641,6 +24705,14 @@
       "onboard_time": 1667894487,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83533,
+      "num": 83533,
+      "word": "世界杯诸神黄昏之战",
+      "onboard_time": 1668351571,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83519,
@@ -26780,7 +26852,7 @@
     },
     {
       "raw_hot": 30130,
-      "num": 977465,
+      "num": 1180609,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,

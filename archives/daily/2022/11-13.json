@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668350182801,
+  "endTime": 1668352947708,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -91,6 +91,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1367809,
+      "num": 1367809,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1668349292,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1358855,
+      "num": 1358855,
+      "word": "男子分手后3个月逆袭减肥80斤",
+      "onboard_time": 1668347548,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295237,
       "num": 1295237,
       "word": "朱一龙获奖倪妮的祝贺词",
@@ -131,11 +147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1052495,
-      "num": 1052495,
-      "word": "男子分手后3个月逆袭减肥80斤",
-      "onboard_time": 1668347548,
-      "rank": 11,
+      "raw_hot": 1107668,
+      "num": 1107668,
+      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+      "onboard_time": 1668348989,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 959570,
-      "num": 457625,
+      "num": 458752,
       "word": "陈飞宇英语口语水平",
       "onboard_time": 1668343647,
       "rank": 10,
@@ -251,6 +267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 754917,
+      "num": 754917,
+      "word": "尹峥元英大婚",
+      "onboard_time": 1668348208,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 736593,
+      "num": 736593,
+      "word": "Viper",
+      "onboard_time": 1668349170,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 727948,
       "num": 727948,
       "word": "售假女主播双11当天直播时被抓",
@@ -265,6 +297,14 @@
       "onboard_time": 1668254192,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 710951,
+      "num": 710951,
+      "word": "重庆四区75%新增在社会面发现",
+      "onboard_time": 1668350972,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703653,
@@ -289,14 +329,6 @@
       "onboard_time": 1668325949,
       "rank": 11,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 670839,
-      "num": 670839,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1668349292,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 667419,
@@ -385,14 +417,6 @@
       "onboard_time": 1668342566,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 594137,
-      "num": 594137,
-      "word": "尹峥元英大婚",
-      "onboard_time": 1668348208,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 576213,
@@ -499,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532240,
+      "num": 532240,
+      "word": "一次收到6.7吨快递是什么感受",
+      "onboard_time": 1668348687,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524379,
       "num": 398719,
       "word": "刘令姿说元英这人能处",
       "onboard_time": 1668345332,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 521280,
-      "num": 521280,
-      "word": "Viper",
-      "onboard_time": 1668349170,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 518662,
@@ -659,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431233,
+      "num": 431233,
+      "word": "苏慎原型是苏培盛",
+      "onboard_time": 1668347429,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423722,
       "num": 127502,
       "word": "沈腾 没来",
@@ -739,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380032,
-      "num": 380032,
-      "word": "苏慎原型是苏培盛",
-      "onboard_time": 1668347429,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 378993,
       "num": 378993,
       "word": "第一次这么心疼一只海龟",
@@ -779,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371905,
-      "num": 371905,
-      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
-      "onboard_time": 1668348989,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366357,
       "num": 160517,
       "word": "王鹤棣片场打乒乓球",
@@ -809,6 +825,14 @@
       "onboard_time": 1668297143,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350826,
+      "num": 350826,
+      "word": "梅西",
+      "onboard_time": 1668351453,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 345823,
@@ -857,14 +881,6 @@
       "onboard_time": 1668332247,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327089,
-      "num": 327089,
-      "word": "一次收到6.7吨快递是什么感受",
-      "onboard_time": 1668348687,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324784,
@@ -1036,11 +1052,19 @@
     },
     {
       "raw_hot": 285036,
-      "num": 272346,
+      "num": 274208,
       "word": "卿卿日常",
       "onboard_time": 1668340228,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281300,
+      "num": 281300,
+      "word": "檀健次自曝试戏过左耳",
+      "onboard_time": 1668349108,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 280484,
@@ -1147,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255077,
+      "num": 255077,
+      "word": "我们的歌",
+      "onboard_time": 1668351034,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "这辈子没见过这么多猫",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1668258036,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250618,
+      "num": 250618,
+      "word": "难怪说英语起源于河南",
+      "onboard_time": 1668350433,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 250166,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1668254491,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238081,
+      "num": 134333,
+      "word": "卿卿日常反转",
+      "onboard_time": 1668351211,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 235922,
@@ -1387,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199614,
+      "num": 133940,
+      "word": "李峋无法复制的天才",
+      "onboard_time": 1668352050,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196503,
       "num": 141097,
       "word": "这居然是玖月奇迹王小玮",
@@ -1443,14 +1499,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 187935,
-      "num": 151183,
-      "word": "檀健次自曝试戏过左耳",
-      "onboard_time": 1668349108,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187873,
       "num": 77029,
       "word": "父亲不堪重负杀死网购欠百万女儿",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1668301051,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182573,
+      "num": 123198,
+      "word": "不期而至",
+      "onboard_time": 1668352770,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182352,
@@ -1851,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124856,
+      "num": 124856,
+      "word": "世界杯",
+      "onboard_time": 1668352649,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122710,
       "num": 122710,
       "word": "记者提问为何掩盖美在阿富汗罪行被驱逐",
@@ -1937,6 +2001,14 @@
       "onboard_time": 1668306869,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 115068,
+      "word": "司机家属逐一反驳特斯拉回应",
+      "onboard_time": 1668352649,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112151,
@@ -2195,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83533,
+      "num": 83533,
+      "word": "世界杯诸神黄昏之战",
+      "onboard_time": 1668351571,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82722,
       "num": 89308,
       "word": "谁的学校还没有一个小甜妹呢",
@@ -2356,7 +2436,7 @@
     },
     {
       "raw_hot": 30130,
-      "num": 977465,
+      "num": 1180609,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,
