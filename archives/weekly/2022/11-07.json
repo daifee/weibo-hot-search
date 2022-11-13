@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668344500122,
+  "endTime": 1668346370663,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1355,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934908,
+      "num": 457625,
+      "word": "陈飞宇英语口语水平",
+      "onboard_time": 1668343647,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 924612,
       "num": 924612,
       "word": "英国国王查尔斯三世被扔鸡蛋",
@@ -2435,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611986,
+      "num": 611986,
+      "word": "朱韵亲了李峋左脸",
+      "onboard_time": 1668345268,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611453,
       "num": 611453,
       "word": "记者卧底仙女管销售群",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1667885367,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588302,
+      "num": 588302,
+      "word": "卡塔尔为举办世界杯造了一座城",
+      "onboard_time": 1668342566,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 587553,
@@ -3331,12 +3355,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 494484,
-      "num": 457625,
-      "word": "陈飞宇英语口语水平",
-      "onboard_time": 1668343647,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 494621,
+      "num": 398993,
+      "word": "时代少年团直播",
+      "onboard_time": 1668344968,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 493815,
@@ -3393,6 +3417,14 @@
       "onboard_time": 1667806527,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485987,
+      "num": 398719,
+      "word": "刘令姿说元英这人能处",
+      "onboard_time": 1668345332,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 485466,
@@ -3689,14 +3721,6 @@
       "onboard_time": 1668138929,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 459497,
-      "num": 459497,
-      "word": "卡塔尔为举办世界杯造了一座城",
-      "onboard_time": 1668342566,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 459405,
@@ -4641,6 +4665,14 @@
       "onboard_time": 1667918129,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387786,
+      "num": 387786,
+      "word": "特斯拉称警方正寻求第三方鉴定",
+      "onboard_time": 1668342566,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387704,
@@ -5769,6 +5801,14 @@
       "onboard_time": 1668211526,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317463,
+      "num": 220105,
+      "word": "TREASURE演唱会现场氛围",
+      "onboard_time": 1668345987,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 316893,
@@ -8523,6 +8563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201835,
+      "num": 142896,
+      "word": "只有一个字的歌竟然这么好听",
+      "onboard_time": 1668344548,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201825,
       "num": 201825,
       "word": "和邻居吵架后发现是老师",
@@ -8672,14 +8720,6 @@
       "word": "超七成预制菜被中青年群体买走",
       "onboard_time": 1667825006,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196172,
-      "num": 196172,
-      "word": "特斯拉称警方正寻求第三方鉴定",
-      "onboard_time": 1668342566,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -9289,6 +9329,14 @@
       "onboard_time": 1667887286,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182352,
+      "num": 182352,
+      "word": "宝宝滑倒爸妈神同步伸脚接住",
+      "onboard_time": 1668340708,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182020,
@@ -10115,14 +10163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159547,
-      "num": 159547,
-      "word": "宝宝滑倒爸妈神同步伸脚接住",
-      "onboard_time": 1668340708,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159545,
       "num": 121712,
       "word": "狐妖小红娘月红篇杀青特辑播放量",
@@ -10943,6 +10983,14 @@
       "num": 142508,
       "word": "辅警为救老人摔骨折忍痛爬行20米",
       "onboard_time": 1668204252,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142443,
+      "num": 142443,
+      "word": "全网最全熊出没做核酸",
+      "onboard_time": 1668344487,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -12019,6 +12067,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 118177,
+      "num": 118177,
+      "word": "2022世界杯了个杯",
+      "onboard_time": 1668346230,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117732,
       "num": 117732,
       "word": "八一飞行表演队空中画出超圆大圈圈",
@@ -12521,6 +12577,14 @@
       "onboard_time": 1668223590,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105589,
+      "num": 105589,
+      "word": "千万不要养狐狸",
+      "onboard_time": 1668345870,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 105406,
@@ -13297,6 +13361,14 @@
       "onboard_time": 1668072686,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93571,
+      "num": 93571,
+      "word": "恶魔之眼艾肯泉是如何形成的",
+      "onboard_time": 1668344668,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 93536,
@@ -14443,6 +14515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72630,
+      "num": 72630,
+      "word": "被迷你版消防车可爱到了",
+      "onboard_time": 1668345568,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72519,
       "num": 72519,
       "word": "王者姜子牙皮肤调整",
@@ -14585,14 +14665,6 @@
       "onboard_time": 1668091767,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65450,
-      "num": 65450,
-      "word": "全网最全熊出没做核酸",
-      "onboard_time": 1668344487,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64885,
