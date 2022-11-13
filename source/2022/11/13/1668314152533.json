@@ -1,0 +1,410 @@
+{
+  "runTime": 1668314152533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847861,
+        "num": 1847861,
+        "word": "叶舒华舞台上摔倒",
+        "onboard_time": 1668309390,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 952994,
+        "num": 952994,
+        "word": "116866警号被永远封存",
+        "onboard_time": 1668305069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63776,
+        "num": 818605,
+        "word": "卫星视角下湿地城市的生态美",
+        "onboard_time": 1668312448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1087291,
+        "num": 801626,
+        "word": "白敬亭终于开始营业了",
+        "onboard_time": 1668308790,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769481,
+        "num": 769481,
+        "word": "男子吃旋转火锅将空签放回托盘",
+        "onboard_time": 1668310649,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675386,
+        "num": 675386,
+        "word": "恭喜阿瑟他爸",
+        "onboard_time": 1668297986,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635057,
+        "num": 635057,
+        "word": "中国短道速滑男子5000米接力金牌",
+        "onboard_time": 1668308549,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583730,
+        "num": 583730,
+        "word": "大爷偷6000元当场被逮下跪求饶",
+        "onboard_time": 1668307290,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429708,
+        "num": 429708,
+        "word": "原来婚纱也可以这么可爱",
+        "onboard_time": 1668308489,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429127,
+        "num": 429127,
+        "word": "广州新增本土感染者3653例",
+        "onboard_time": 1668305670,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546085,
+        "num": 428534,
+        "word": "齐溪让王鹤棣拿一下奖杯",
+        "onboard_time": 1668309989,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467331,
+        "num": 428306,
+        "word": "神隐",
+        "onboard_time": 1668313169,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424901,
+        "num": 424901,
+        "word": "女子将缅因猫毛搓成一只手套",
+        "onboard_time": 1668308069,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345707,
+        "num": 345707,
+        "word": "张伟丽",
+        "onboard_time": 1668305250,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345569,
+        "num": 345569,
+        "word": "才知道Excel可以一次性整理图片",
+        "onboard_time": 1668310588,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 315532,
+        "num": 315532,
+        "word": "美得州两架飞机航展上相撞坠毁",
+        "onboard_time": 1668305549,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 279399,
+        "num": 279399,
+        "word": "gidle音银智利公演中断",
+        "onboard_time": 1668309329,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274028,
+        "num": 274028,
+        "word": "商家瓜子加量三克引质疑",
+        "onboard_time": 1668310710,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262690,
+        "num": 262690,
+        "word": "卡拉vs张伟丽",
+        "onboard_time": 1668308191,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230440,
+        "num": 230440,
+        "word": "重庆新增本土确诊158例无症状1662例",
+        "onboard_time": 1668305549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260884,
+        "num": 221705,
+        "word": "白鹿晒以爱为营剧本",
+        "onboard_time": 1668307590,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209199,
+        "num": 209199,
+        "word": "朱一龙获奖倪妮的祝贺词",
+        "onboard_time": 1668269912,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199721,
+        "num": 199721,
+        "word": "泰国粉丝也在追点燃我温暖你",
+        "onboard_time": 1668313407,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190868,
+        "num": 190868,
+        "word": "粉笔模考",
+        "onboard_time": 1668311428,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183512,
+        "num": 183512,
+        "word": "UFC281",
+        "onboard_time": 1668306508,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181735,
+        "num": 181735,
+        "word": "29岁博士因社恐1月叫2次救护车",
+        "onboard_time": 1668266555,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164906,
+        "num": 164906,
+        "word": "忍不住说一声这猫真丑",
+        "onboard_time": 1668298829,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 133076,
+        "word": "11月12日新增本土无症状13086例",
+        "onboard_time": 1668307590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 129114,
+        "word": "男子问95岁外公什么是爱情",
+        "onboard_time": 1668302971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128251,
+        "num": 128251,
+        "word": "北京6例社会面筛查感染者涉三区",
+        "onboard_time": 1668299609,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256078,
+        "num": 128167,
+        "word": "潮州一特斯拉失控致2死3伤",
+        "onboard_time": 1668313950,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 188997,
+        "num": 127809,
+        "word": "点燃我温暖你方志靖下头男",
+        "onboard_time": 1668312808,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167796,
+        "num": 127563,
+        "word": "以爱为营",
+        "onboard_time": 1668306809,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167750,
+        "num": 127048,
+        "word": "迪丽热巴王楚然同款礼裙",
+        "onboard_time": 1668266675,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146693,
+        "num": 126783,
+        "word": "这居然是玖月奇迹王小玮",
+        "onboard_time": 1668306328,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126748,
+        "num": 126748,
+        "word": "北京本土昨新增161例确诊74例无症状",
+        "onboard_time": 1668301230,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120123,
+        "num": 120123,
+        "word": "40岁果树嫁接出10多种水果",
+        "onboard_time": 1668304588,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117985,
+        "num": 117985,
+        "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
+        "onboard_time": 1668306148,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108580,
+        "num": 108580,
+        "word": "歼20飞行员说感觉像用意念开飞机",
+        "onboard_time": 1668303389,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 108002,
+        "num": 108002,
+        "word": "在游戏里当妈宝是什么体验",
+        "onboard_time": 1668312927,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145263,
+        "num": 106537,
+        "word": "今年颁奖台上的最佳女主角",
+        "onboard_time": 1668305367,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101371,
+        "num": 101371,
+        "word": "关于优化疫情防控20条措施的解读问答",
+        "onboard_time": 1668307109,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98115,
+        "num": 98115,
+        "word": "北大韦东奕聆听华人数学家讲座",
+        "onboard_time": 1668298406,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93103,
+        "num": 93103,
+        "word": "洗牙能把牙洗白吗",
+        "onboard_time": 1668297024,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91147,
+        "num": 91147,
+        "word": "勇士骑士裁判报告",
+        "onboard_time": 1668303030,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85595,
+        "num": 85595,
+        "word": "第一次见这么漂亮的小狗",
+        "onboard_time": 1668272665,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82704,
+        "num": 82704,
+        "word": "从30度降温到14度是什么体验",
+        "onboard_time": 1668296844,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167188,
+        "num": 82622,
+        "word": "陈紫函吃螺蛳粉连说12遍太香了",
+        "onboard_time": 1668314128,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82333,
+        "num": 82333,
+        "word": "张伟丽UFC冠军战加油",
+        "onboard_time": 1668313109,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80433,
+        "num": 80433,
+        "word": "塔图姆43分10篮板",
+        "onboard_time": 1668313349,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟五号奔赴太空#"
+    }
+  }
+}

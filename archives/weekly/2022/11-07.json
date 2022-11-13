@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668310989368,
+  "endTime": 1668314152533,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769481,
+      "num": 769481,
+      "word": "男子吃旋转火锅将空签放回托盘",
+      "onboard_time": 1668310649,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769396,
       "num": 396976,
       "word": "陈飞宇和张婧仪周也都合作了",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1667808808,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635057,
+      "num": 635057,
+      "word": "中国短道速滑男子5000米接力金牌",
+      "onboard_time": 1668308549,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 634011,
@@ -3283,6 +3299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 467331,
+      "num": 428306,
+      "word": "神隐",
+      "onboard_time": 1668313169,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -4267,14 +4291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388600,
-      "num": 388600,
-      "word": "中国短道速滑男子5000米接力金牌",
-      "onboard_time": 1668308549,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 388332,
       "num": 388332,
       "word": "牙都快咬碎了还是没忍住",
@@ -4809,6 +4825,14 @@
       "onboard_time": 1667903490,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345569,
+      "num": 345569,
+      "word": "才知道Excel可以一次性整理图片",
+      "onboard_time": 1668310588,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 345169,
@@ -6131,6 +6155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274028,
+      "num": 274028,
+      "word": "商家瓜子加量三克引质疑",
+      "onboard_time": 1668310710,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272756,
       "num": 272756,
       "word": "邱瑞 减脂餐",
@@ -6307,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262690,
+      "num": 262690,
+      "word": "卡拉vs张伟丽",
+      "onboard_time": 1668308191,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "武汉一人工湖中钓起鳄雀鳝",
@@ -6465,6 +6505,14 @@
       "onboard_time": 1668233429,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256078,
+      "num": 128167,
+      "word": "潮州一特斯拉失控致2死3伤",
+      "onboard_time": 1668313950,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 255742,
@@ -6777,14 +6825,6 @@
       "onboard_time": 1668052107,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240735,
-      "num": 240735,
-      "word": "卡拉vs张伟丽",
-      "onboard_time": 1668308191,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 239649,
@@ -7899,6 +7939,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 199721,
+      "num": 199721,
+      "word": "泰国粉丝也在追点燃我温暖你",
+      "onboard_time": 1668313407,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199333,
       "num": 141152,
       "word": "打火机与公主裙 第八集",
@@ -8187,6 +8235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190868,
+      "num": 190868,
+      "word": "粉笔模考",
+      "onboard_time": 1668311428,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 190649,
       "num": 190649,
       "word": "男子吃变质腌菜后血变蓝黑色",
@@ -8273,6 +8329,14 @@
       "onboard_time": 1667890286,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188997,
+      "num": 127809,
+      "word": "点燃我温暖你方志靖下头男",
+      "onboard_time": 1668312808,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 188798,
@@ -9017,6 +9081,14 @@
       "onboard_time": 1668254853,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 167188,
+      "num": 82622,
+      "word": "陈紫函吃螺蛳粉连说12遍太香了",
+      "onboard_time": 1668314128,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 167057,
@@ -11435,6 +11507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108002,
+      "num": 108002,
+      "word": "在游戏里当妈宝是什么体验",
+      "onboard_time": 1668312927,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107918,
       "num": 107918,
       "word": "图书馆30S照进现实的瞬间",
@@ -11651,14 +11731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103499,
-      "num": 103499,
-      "word": "男子吃旋转火锅将空签放回托盘",
-      "onboard_time": 1668310649,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103381,
       "num": 103381,
       "word": "快乐永远不需要入场费",
@@ -11825,14 +11897,6 @@
       "onboard_time": 1668275419,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100347,
-      "num": 100347,
-      "word": "才知道Excel可以一次性整理图片",
-      "onboard_time": 1668310588,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 100336,
@@ -12675,14 +12739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87788,
-      "num": 87788,
-      "word": "商家瓜子加量三克引质疑",
-      "onboard_time": 1668310710,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87686,
       "num": 77297,
       "word": "段奥娟经纪公司将上诉",
@@ -12971,6 +13027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 82333,
+      "num": 82333,
+      "word": "张伟丽UFC冠军战加油",
+      "onboard_time": 1668313109,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82264,
       "num": 82264,
       "word": "人民空军从无到有越变越强",
@@ -13057,6 +13121,14 @@
       "onboard_time": 1668123502,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "塔图姆43分10篮板",
+      "onboard_time": 1668313349,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80359,
@@ -13489,6 +13561,14 @@
       "onboard_time": 1667863402,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63776,
+      "num": 818605,
+      "word": "卫星视角下湿地城市的生态美",
+      "onboard_time": 1668312448,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 62710,
