@@ -1,7 +1,15 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668315196132,
+  "endTime": 1668316902528,
   "band_list": [
+    {
+      "raw_hot": 2252832,
+      "num": 2252832,
+      "word": "张伟丽",
+      "onboard_time": 1668305250,
+      "rank": 7,
+      "category": "体育"
+    },
     {
       "raw_hot": 1915383,
       "num": 1915383,
@@ -17,6 +25,14 @@
       "onboard_time": 1668309390,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1637234,
+      "num": 1637234,
+      "word": "潮州一特斯拉失控致2死3伤",
+      "onboard_time": 1668313950,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1521120,
@@ -67,12 +83,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 889132,
-      "num": 417506,
-      "word": "潮州一特斯拉失控致2死3伤",
-      "onboard_time": 1668313950,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 868161,
+      "num": 868161,
+      "word": "胃不会越撑越大越饿越小",
+      "onboard_time": 1668314910,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798251,
@@ -89,6 +105,14 @@
       "onboard_time": 1668309989,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 771364,
+      "num": 524636,
+      "word": "张伟丽夺UFC金腰带",
+      "onboard_time": 1668316827,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 715435,
@@ -113,6 +137,14 @@
       "onboard_time": 1668302791,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 667419,
+      "num": 667419,
+      "word": "卡拉vs张伟丽",
+      "onboard_time": 1668308191,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 650115,
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 562976,
-      "num": 428306,
+      "num": 447229,
       "word": "神隐",
       "onboard_time": 1668313169,
       "rank": 11,
@@ -211,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 499844,
-      "num": 499844,
-      "word": "张伟丽",
-      "onboard_time": 1668305250,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 499995,
+      "num": 499995,
+      "word": "陈瑶加入中视同成",
+      "onboard_time": 1668314969,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 468275,
@@ -225,6 +257,22 @@
       "onboard_time": 1668305549,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 459405,
+      "num": 459405,
+      "word": "才知道Excel可以一次性整理图片",
+      "onboard_time": 1668310588,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 452863,
+      "num": 452863,
+      "word": "陈紫函吃螺蛳粉连说12遍太香了",
+      "onboard_time": 1668314128,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 449222,
@@ -241,14 +289,6 @@
       "onboard_time": 1668255934,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443181,
-      "num": 443181,
-      "word": "才知道Excel可以一次性整理图片",
-      "onboard_time": 1668310588,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 439364,
@@ -315,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390670,
+      "num": 390670,
+      "word": "张伟丽UFC冠军战加油",
+      "onboard_time": 1668313109,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382754,
       "num": 401638,
       "word": "重庆新增本土确诊158例无症状1662例",
@@ -355,20 +403,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346287,
+      "num": 308065,
+      "word": "杨蓉恭喜朱一龙获金鸡影帝",
+      "onboard_time": 1668315990,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343246,
       "num": 343246,
       "word": "邻居称鲁某某是个有素质的人",
       "onboard_time": 1668287592,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339479,
-      "num": 339479,
-      "word": "陈紫函吃螺蛳粉连说12遍太香了",
-      "onboard_time": 1668314128,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 335278,
@@ -395,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299445,
-      "num": 268841,
+      "raw_hot": 320570,
+      "num": 305517,
       "word": "泰国粉丝也在追点燃我温暖你",
       "onboard_time": 1668313407,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300957,
+      "num": 300957,
+      "word": "山西把小米做成了咖啡",
+      "onboard_time": 1668314308,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294019,
@@ -473,14 +529,6 @@
       "onboard_time": 1668274100,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269520,
-      "num": 269520,
-      "word": "卡拉vs张伟丽",
-      "onboard_time": 1668308191,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 268656,
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207203,
+      "num": 139935,
+      "word": "张伟丽出场BGM沧海一声笑",
+      "onboard_time": 1668316589,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204420,
       "num": 146498,
       "word": "追光者大结局太好哭了",
@@ -683,28 +739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175411,
-      "num": 175411,
-      "word": "山西把小米做成了咖啡",
-      "onboard_time": 1668314308,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173135,
       "num": 173135,
       "word": "一看就是女孩的毛孩子",
       "onboard_time": 1668256174,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 172331,
-      "num": 125907,
-      "word": "陈瑶加入中视同成",
-      "onboard_time": 1668314969,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 170978,
@@ -723,20 +763,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167109,
-      "num": 167109,
-      "word": "张伟丽UFC冠军战加油",
-      "onboard_time": 1668313109,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163869,
       "num": 163869,
       "word": "40岁果树嫁接出10多种水果",
       "onboard_time": 1668304588,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157350,
+      "num": 137450,
+      "word": "看卿卿日常的时候我在想什么",
+      "onboard_time": 1668316109,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153590,
+      "num": 153590,
+      "word": "女生的P图手法有多厉害",
+      "onboard_time": 1668315509,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152745,
@@ -793,6 +841,14 @@
       "onboard_time": 1668306148,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136771,
+      "num": 136771,
+      "word": "给妈妈剥栗子的小朋友",
+      "onboard_time": 1668315210,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 136142,
@@ -899,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113292,
-      "num": 113292,
-      "word": "胃不会越撑越大越饿越小",
-      "onboard_time": 1668314910,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109591,
       "num": 109591,
       "word": "中疾控回应是否会逐步取消集中隔离",
@@ -939,20 +987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105393,
+      "num": 105393,
+      "word": "塔图姆43分10篮板",
+      "onboard_time": 1668313349,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104327,
       "num": 104327,
       "word": "女童爱编发全家老少配合头顶小揪",
       "onboard_time": 1668291974,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102356,
-      "num": 102356,
-      "word": "塔图姆43分10篮板",
-      "onboard_time": 1668313349,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 101618,
@@ -979,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95332,
+      "num": 95332,
+      "word": "黄鹤楼最初不叫黄鹤楼",
+      "onboard_time": 1668315270,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93946,
       "num": 93946,
       "word": "所谓24海里线不存在请注意用语",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1668314848,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89275,
+      "num": 89275,
+      "word": "社恐人有多少内心戏",
+      "onboard_time": 1668316712,
+      "rank": 48,
+      "category": "动漫,情感"
     },
     {
       "raw_hot": 87993,
@@ -1028,7 +1092,7 @@
     },
     {
       "raw_hot": 84081,
-      "num": 837668,
+      "num": 1409955,
       "word": "卫星视角下湿地城市的生态美",
       "onboard_time": 1668312448,
       "rank": 2,
