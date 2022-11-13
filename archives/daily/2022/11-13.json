@@ -1,6 +1,6 @@
 {
   "startTime": 1668270614714,
-  "endTime": 1668347074426,
+  "endTime": 1668349145996,
   "band_list": [
     {
       "raw_hot": 3018703,
@@ -147,7 +147,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 956338,
+      "raw_hot": 959570,
       "num": 457625,
       "word": "陈飞宇英语口语水平",
       "onboard_time": 1668343647,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 762939,
+      "num": 762939,
+      "word": "朱韵亲了李峋左脸",
+      "onboard_time": 1668345268,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727948,
       "num": 727948,
       "word": "售假女主播双11当天直播时被抓",
@@ -257,14 +265,6 @@
       "onboard_time": 1668307290,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699321,
-      "num": 699321,
-      "word": "朱韵亲了李峋左脸",
-      "onboard_time": 1668345268,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 684225,
@@ -321,6 +321,14 @@
       "onboard_time": 1668308549,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 633958,
+      "num": 317872,
+      "word": "男子分手后3个月逆袭减肥80斤",
+      "onboard_time": 1668347548,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628514,
@@ -619,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423976,
+      "num": 423976,
+      "word": "千万不要养狐狸",
+      "onboard_time": 1668345870,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423722,
       "num": 127502,
       "word": "沈腾 没来",
@@ -747,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349896,
+      "num": 311736,
+      "word": "苏慎原型是苏培盛",
+      "onboard_time": 1668347429,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345823,
       "num": 345823,
       "word": "李峋一直站在朱韵身后",
@@ -793,6 +817,14 @@
       "onboard_time": 1668332247,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326427,
+      "num": 243993,
+      "word": "尹峥元英大婚",
+      "onboard_time": 1668348208,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 324784,
@@ -955,6 +987,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286976,
+      "num": 286976,
+      "word": "全网最全熊出没做核酸",
+      "onboard_time": 1668344487,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285036,
+      "num": 233461,
+      "word": "卿卿日常",
+      "onboard_time": 1668340228,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280484,
       "num": 280484,
       "word": "第一次见这么漂亮的小狗",
@@ -971,11 +1019,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277810,
-      "num": 233461,
-      "word": "卿卿日常",
-      "onboard_time": 1668340228,
-      "rank": 22,
+      "raw_hot": 278546,
+      "num": 131770,
+      "word": "偷偷藏不住陈哲远杀青",
+      "onboard_time": 1668348571,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1267,14 +1315,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 207863,
-      "num": 207863,
-      "word": "千万不要养狐狸",
-      "onboard_time": 1668345870,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207203,
       "num": 191360,
       "word": "张伟丽出场BGM沧海一声笑",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1668259842,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 198481,
-      "num": 198481,
-      "word": "全网最全熊出没做核酸",
-      "onboard_time": 1668344487,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196503,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1668326011,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183225,
+      "num": 115421,
+      "word": "朱一龙金鸡奖后台反差萌",
+      "onboard_time": 1668347306,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182989,
@@ -1707,6 +1747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131925,
+      "num": 95864,
+      "word": "檀健次自曝试戏过左耳",
+      "onboard_time": 1668349108,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130554,
       "num": 130554,
       "word": "长沙女子自制霉豆腐长黑毛仍要吃",
@@ -1731,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130084,
+      "num": 130084,
+      "word": "一次收到6.7吨快递是什么感受",
+      "onboard_time": 1668348687,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129532,
       "num": 129532,
       "word": "挤在门缝里晒太阳的狗狗",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1668256293,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128090,
+      "num": 128090,
+      "word": "2022世界杯了个杯",
+      "onboard_time": 1668346230,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 125538,
@@ -1793,14 +1857,6 @@
       "onboard_time": 1668333688,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118177,
-      "num": 118177,
-      "word": "2022世界杯了个杯",
-      "onboard_time": 1668346230,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 117302,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1668246391,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109561,
+      "num": 109561,
+      "word": "武汉三镇vs河南嵩山龙门",
+      "onboard_time": 1668347730,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 108002,
@@ -1953,6 +2017,14 @@
       "onboard_time": 1668275419,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97349,
+      "num": 97349,
+      "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+      "onboard_time": 1668348989,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94489,
