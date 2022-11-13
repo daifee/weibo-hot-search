@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/13 10:30:06
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/13 11:36:01
 </p>
 </blockquote>
 <p>
@@ -855,6 +855,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%91%94%E5%80%92%23" target="weibo">
+叶舒华舞台上摔倒（热度：1440577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B6%85%23" target="weibo">
 张超（热度：1437519）
 </a>
@@ -881,6 +887,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%A2%83%E8%88%AA%E7%8F%AD%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6%E5%8F%96%E6%B6%88%23" target="weibo">
 入境航班熔断机制取消（热度：1420540）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
+白敬亭终于开始营业了（热度：1413316）
 </a>
 </li>
 
@@ -1353,6 +1365,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23116866%E8%AD%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E8%BF%9C%E5%B0%81%E5%AD%98%23" target="weibo">
+116866警号被永远封存（热度：1109959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%90%86%E5%85%AC%E5%B8%83%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%23" target="weibo">
 韩总理公布梨泰院踩踏事故原因（热度：1107080）
 </a>
@@ -1805,6 +1823,12 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%89%E6%89%8B%E5%9B%9E%E5%BA%94%E6%8C%91%E8%A1%85%E6%89%8B%E5%8A%BF%23" target="weibo">
 韩国短道选手回应挑衅手势（热度：951225）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%A4%9C%E9%97%B4%E9%9B%86%E4%BD%93%E7%88%AC%E8%A1%8C%23" target="weibo">
+高校回应学生夜间集体爬行（热度：949495）
 </a>
 </li>
 
@@ -2607,12 +2631,6 @@ Jennie演唱会中途脚伤复发（热度：742614）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%A4%9C%E9%97%B4%E9%9B%86%E4%BD%93%E7%88%AC%E8%A1%8C%23" target="weibo">
-高校回应学生夜间集体爬行（热度：726849）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%85783%E4%BE%8B%23" target="weibo">
 重庆新增本土感染者783例（热度：726126）
 </a>
@@ -2723,6 +2741,12 @@ Jennie演唱会中途脚伤复发（热度：742614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%80%BB%E9%83%A8%E8%AE%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E5%BA%9C%E9%97%B4%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87%23" target="weibo">
 第一个总部设在中国的政府间国际组织（热度：700846）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%BA%AA%E8%AE%A9%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%BF%E4%B8%80%E4%B8%8B%E5%A5%96%E6%9D%AF%23" target="weibo">
+齐溪让王鹤棣拿一下奖杯（热度：699936）
 </a>
 </li>
 
@@ -3021,6 +3045,12 @@ EXO台历（热度：673804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%81%B76000%E5%85%83%E5%BD%93%E5%9C%BA%E8%A2%AB%E9%80%AE%E4%B8%8B%E8%B7%AA%E6%B1%82%E9%A5%B6%23" target="weibo">
+大爷偷6000元当场被逮下跪求饶（热度：661211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E4%B8%80%E6%AC%A1%E6%80%A7%E9%80%80%E6%AC%BE%E5%8F%98%E4%B8%8D%E5%AE%9A%E9%A2%9D%E5%88%86%E6%9C%9F%E9%80%80%23" target="weibo">
 中公一次性退款变不定额分期退（热度：658396）
 </a>
@@ -3071,6 +3101,12 @@ hybe将明年推出泡泡（热度：657725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E5%B7%B2%E7%BB%8F%E6%88%90%E7%AB%8B%E6%95%B4%E6%B2%BB%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD%23" target="weibo">
 各地已经成立整治层层加码工作专班（热度：648667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%853653%E4%BE%8B%23" target="weibo">
+广州新增本土感染者3653例（热度：648357）
 </a>
 </li>
 
@@ -3491,12 +3527,6 @@ QQ内测微信登录功能（热度：629846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B4%81%E5%B7%A5%E8%BA%BA%E8%BD%A6%E5%BA%93%E8%A2%AB%E7%A2%BE%E4%BA%A1%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA%23" target="weibo">
 清洁工躺车库被碾亡司机一审被判无罪（热度：588607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23116866%E8%AD%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E8%BF%9C%E5%B0%81%E5%AD%98%23" target="weibo">
-116866警号被永远封存（热度：588061）
 </a>
 </li>
 
@@ -4395,6 +4425,12 @@ TF家族FanClub被责令限期整改（热度：521639）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%9F%E4%B8%BD%23" target="weibo">
+张伟丽（热度：499844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%B8%AE%E9%82%BB%E5%B1%85%E5%96%82%E7%8B%97%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E5%8F%98%E6%8B%89%E4%B8%8D%E6%8B%89%E7%8C%AA%23" target="weibo">
 夫妻帮邻居喂狗拉布拉多变拉不拉猪（热度：499352）
 </a>
@@ -4859,6 +4895,12 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E8%B9%AD%E5%96%9D%E5%AE%9D%E5%AE%9D%E9%85%B8%E5%A5%B6%E5%96%9D%E5%87%BA%E9%BB%91%E8%89%B2%E5%BC%82%E7%89%A9%23" target="weibo">
 宝爸蹭喝宝宝酸奶喝出黑色异物（热度：463019）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%BE%97%E5%B7%9E%E4%B8%A4%E6%9E%B6%E9%A3%9E%E6%9C%BA%E8%88%AA%E5%B1%95%E4%B8%8A%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81%23" target="weibo">
+美得州两架飞机航展上相撞坠毁（热度：462866）
 </a>
 </li>
 
@@ -5397,6 +5439,12 @@ iPhone14Pro收货需要等待更长时间（热度：431644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E7%BC%85%E5%9B%A0%E7%8C%AB%E6%AF%9B%E6%90%93%E6%88%90%E4%B8%80%E5%8F%AA%E6%89%8B%E5%A5%97%23" target="weibo">
+女子将缅因猫毛搓成一只手套（热度：429162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E7%8E%8B%E9%B9%A4%E6%A3%A3hugme%E8%88%9E%E5%8F%B0%23" target="weibo">
 你好星期六王鹤棣hugme舞台（热度：429127）
 </a>
@@ -5561,6 +5609,12 @@ iG夺冠四周年（热度：421387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE70%E5%A4%9A%E4%B8%87%E7%AD%94%E8%B0%A2%E8%80%81%E5%B8%88%23" target="weibo">
 官方通报家长捐款70多万答谢老师（热度：419907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E9%9F%B3%E9%93%B6%E6%99%BA%E5%88%A9%E5%85%AC%E6%BC%94%E4%B8%AD%E6%96%AD%23" target="weibo">
+gidle音银智利公演中断（热度：419614）
 </a>
 </li>
 
@@ -5957,60 +6011,6 @@ Lisa成为iTunes最多一位女歌手（热度：395840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%B1%9F%E5%B2%B8%E5%8C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 武汉江岸区疫情防控（热度：394635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E6%8E%A5%E8%80%857%E5%8A%A03%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD%E8%B0%83%E6%95%B4%E4%B8%BA5%E5%8A%A03%23" target="weibo">
-密接者7加3管理措施调整为5加3（热度：394538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E5%B0%BC%E6%96%AF%23" target="weibo">
-杰尼斯（热度：393811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E7%BD%91%E8%AF%BE%E8%A2%AB%E5%8D%A1%E4%BD%8F%E7%9A%84%E6%88%91%23" target="weibo">
-王俊凯像极了上网课被卡住的我（热度：393416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%83%8C%E5%A4%B4%E5%A5%BD%E5%B8%85%23" target="weibo">
-马龙背头好帅（热度：392603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%97%E4%BC%A4%23" target="weibo">
-詹姆斯受伤（热度：392204）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%96%8A%E9%A5%BF%E8%B6%81%E5%A6%88%E5%A6%88%E7%9D%A1%E8%A7%89%E7%82%B9300%E5%A4%9A%E5%85%83%E5%A4%96%E5%8D%96%23" target="weibo">
-熊孩子喊饿趁妈妈睡觉点300多元外卖（热度：392035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%99%8B%E9%87%8C%E6%99%8B%E6%B0%94%23" target="weibo">
-陈飞宇张婧仪晋里晋气（热度：391326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%BA%AD%E7%9C%9F%E7%9A%84%E6%AF%94%E4%BA%8B%E4%B8%9A%E9%87%8D%E8%A6%81%E5%90%97%23" target="weibo">
-家庭真的比事业重要吗（热度：391101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A7%90%E5%BC%9F%E6%81%8B%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-国产剧姐弟恋天花板（热度：390419）
 </a>
 </li>
 

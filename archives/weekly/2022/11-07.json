@@ -1,6 +1,6 @@
 {
   "startTime": 1667752203580,
-  "endTime": 1668306606913,
+  "endTime": 1668310561538,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1440577,
+      "num": 1440577,
+      "word": "叶舒华舞台上摔倒",
+      "onboard_time": 1668309390,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1437519,
       "num": 1437519,
       "word": "张超",
@@ -585,6 +593,14 @@
       "onboard_time": 1668146085,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1413316,
+      "num": 1126319,
+      "word": "白敬亭终于开始营业了",
+      "onboard_time": 1668308790,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1409871,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109959,
+      "num": 1109959,
+      "word": "116866警号被永远封存",
+      "onboard_time": 1668305069,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097624,
       "num": 1097624,
       "word": "朱韵真的是公主殿下",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1667831669,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 949495,
+      "num": 726849,
+      "word": "高校回应学生夜间集体爬行",
+      "onboard_time": 1668304168,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 946290,
@@ -1731,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726849,
-      "num": 726849,
-      "word": "高校回应学生夜间集体爬行",
-      "onboard_time": 1668304168,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 726126,
       "num": 726126,
       "word": "重庆新增本土感染者783例",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1667869168,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 699936,
+      "num": 379078,
+      "word": "齐溪让王鹤棣拿一下奖杯",
+      "onboard_time": 1668309989,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 699392,
@@ -2019,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661211,
+      "num": 661211,
+      "word": "大爷偷6000元当场被逮下跪求饶",
+      "onboard_time": 1668307290,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654889,
       "num": 654889,
       "word": "林高远王曼昱混双夺冠",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1668242010,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 648357,
+      "num": 648357,
+      "word": "广州新增本土感染者3653例",
+      "onboard_time": 1668305670,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647681,
@@ -2272,14 +2320,6 @@
       "word": "开设女生自习室被指性别歧视",
       "onboard_time": 1667885367,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588061,
-      "num": 588061,
-      "word": "116866警号被永远封存",
-      "onboard_time": 1668305069,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2947,6 +2987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 499844,
+      "num": 499844,
+      "word": "张伟丽",
+      "onboard_time": 1668305250,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "为什么恋爱长跑会容易分手",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1668213511,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462866,
+      "num": 462866,
+      "word": "美得州两架飞机航展上相撞坠毁",
+      "onboard_time": 1668305549,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 462116,
@@ -3699,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429162,
+      "num": 366626,
+      "word": "女子将缅因猫毛搓成一只手套",
+      "onboard_time": 1668308069,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429127,
       "num": 91201,
       "word": "你好星期六王鹤棣hugme舞台",
@@ -3833,6 +3897,14 @@
       "onboard_time": 1668149743,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 419614,
+      "num": 360157,
+      "word": "gidle音银智利公演中断",
+      "onboard_time": 1668309329,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 416876,
@@ -4251,19 +4323,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 384491,
-      "num": 384491,
-      "word": "张伟丽",
-      "onboard_time": 1668305250,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383800,
       "num": 338380,
       "word": "南京大学回应周某被举报",
       "onboard_time": 1667922089,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382754,
+      "num": 382754,
+      "word": "重庆新增本土确诊158例无症状1662例",
+      "onboard_time": 1668305549,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4539,12 +4611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358368,
+      "num": 227182,
+      "word": "白鹿晒以爱为营剧本",
+      "onboard_time": 1668307590,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "95后小伙鹤岗买房后云监工装修",
       "onboard_time": 1667924965,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355805,
+      "num": 355805,
+      "word": "原来婚纱也可以这么可爱",
+      "onboard_time": 1668308489,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 354872,
@@ -4705,14 +4793,6 @@
       "onboard_time": 1667961626,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 346543,
-      "num": 327380,
-      "word": "广州新增本土感染者3653例",
-      "onboard_time": 1668305670,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346235,
@@ -6051,14 +6131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272741,
-      "num": 272741,
-      "word": "重庆新增本土确诊158例无症状1662例",
-      "onboard_time": 1668305549,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272392,
       "num": 272392,
       "word": "当代女生为了省钱有多拼",
@@ -6129,6 +6201,14 @@
       "onboard_time": 1667979267,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270135,
+      "num": 270135,
+      "word": "中国短道速滑男子5000米接力金牌",
+      "onboard_time": 1668308549,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 268969,
@@ -6675,6 +6755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240992,
+      "num": 217681,
+      "word": "以爱为营",
+      "onboard_time": 1668306809,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240873,
       "num": 240873,
       "word": "女明星金鸡奖闭幕式造型图",
@@ -6689,6 +6777,14 @@
       "onboard_time": 1668052107,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240735,
+      "num": 240735,
+      "word": "卡拉vs张伟丽",
+      "onboard_time": 1668308191,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 239649,
@@ -7123,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225108,
+      "num": 187334,
+      "word": "今年颁奖台上的最佳女主角",
+      "onboard_time": 1668305367,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224730,
       "num": 224730,
       "word": "浙江一女子半年笑晕4次",
@@ -7523,6 +7627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212255,
+      "num": 212255,
+      "word": "关于优化疫情防控20条措施的解读问答",
+      "onboard_time": 1668307109,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211527,
       "num": 211527,
       "word": "歼20飞行员说感觉像用意念开飞机",
@@ -7649,6 +7761,14 @@
       "onboard_time": 1667892566,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204420,
+      "num": 146498,
+      "word": "追光者大结局太好哭了",
+      "onboard_time": 1668306989,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 204273,
@@ -7947,14 +8067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193852,
-      "num": 193852,
-      "word": "美得州两架飞机航展上相撞坠毁",
-      "onboard_time": 1668305549,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 193549,
       "num": 163030,
       "word": "GMA获奖名单",
@@ -8219,6 +8331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187410,
+      "num": 187410,
+      "word": "UFC281",
+      "onboard_time": 1668306508,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187349,
       "num": 187349,
       "word": "重庆交大回应学生被公告退学",
@@ -8233,14 +8353,6 @@
       "onboard_time": 1667901389,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187334,
-      "num": 187334,
-      "word": "今年颁奖台上的最佳女主角",
-      "onboard_time": 1668305367,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 187101,
@@ -8273,6 +8385,14 @@
       "onboard_time": 1668006267,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186364,
+      "num": 138614,
+      "word": "这居然是玖月奇迹王小玮",
+      "onboard_time": 1668306328,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186288,
@@ -8601,6 +8721,14 @@
       "onboard_time": 1667977644,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 177540,
+      "num": 118832,
+      "word": "智利音银雨中舞台",
+      "onboard_time": 1668307472,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 177421,
@@ -8977,6 +9105,14 @@
       "onboard_time": 1667992227,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163869,
+      "num": 163869,
+      "word": "40岁果树嫁接出10多种水果",
+      "onboard_time": 1668304588,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162902,
@@ -9419,6 +9555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152745,
+      "num": 152745,
+      "word": "11月12日新增本土无症状13086例",
+      "onboard_time": 1668307590,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152541,
       "num": 144697,
       "word": "NCT新官方账号公开",
@@ -9449,14 +9593,6 @@
       "onboard_time": 1668296961,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151601,
-      "num": 151601,
-      "word": "40岁果树嫁接出10多种水果",
-      "onboard_time": 1668304588,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151379,
@@ -10123,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136750,
+      "num": 136750,
+      "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
+      "onboard_time": 1668306148,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136606,
       "num": 136606,
       "word": "在舞台千万不要和朋友对视",
@@ -10473,14 +10617,6 @@
       "onboard_time": 1668184584,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127507,
-      "num": 112049,
-      "word": "这居然是玖月奇迹王小玮",
-      "onboard_time": 1668306328,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127489,
@@ -10995,6 +11131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115858,
+      "num": 115858,
+      "word": "四大洲赛中国队混合接力摘银",
+      "onboard_time": 1668306869,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115435,
       "num": 115435,
       "word": "下次看月全食要到2025年了",
@@ -11315,14 +11459,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 107419,
-      "num": 107419,
-      "word": "6旬姥姥用旧裤给5岁外孙女做旗袍",
-      "onboard_time": 1668306148,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107328,
       "num": 107328,
       "word": "骑士vs湖人",
@@ -11473,14 +11609,6 @@
       "onboard_time": 1668291974,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103985,
-      "num": 103985,
-      "word": "UFC281",
-      "onboard_time": 1668306508,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 103941,
@@ -12507,6 +12635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87993,
+      "num": 87993,
+      "word": "4岁女童现场讲解应对火灾经验",
+      "onboard_time": 1668310108,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87985,
       "num": 87985,
       "word": "宅家烤红薯的花式吃法",
@@ -12665,6 +12801,14 @@
       "onboard_time": 1667897128,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85713,
+      "num": 85713,
+      "word": "骑士vs勇士裁判",
+      "onboard_time": 1668309210,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85576,
@@ -13161,6 +13305,14 @@
       "onboard_time": 1667739386,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72683,
+      "num": 80003,
+      "word": "最真实的中国航展名场面",
+      "onboard_time": 1668310230,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 72519,
