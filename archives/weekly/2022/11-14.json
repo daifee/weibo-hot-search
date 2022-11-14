@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668454438982,
+  "endTime": 1668457440805,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2563,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43028,
+      "num": 23049,
+      "word": "交大博士晒毕业照男女比例扎心",
+      "onboard_time": 1668452833,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34468,
       "num": 139148,
       "word": "糖尿病患者能买什么保险",
@@ -2585,14 +2593,6 @@
       "onboard_time": 1668362356,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23049,
-      "num": 23049,
-      "word": "交大博士晒毕业照男女比例扎心",
-      "onboard_time": 1668452833,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21951,
@@ -2635,6 +2635,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 12422,
+      "num": 12422,
+      "word": "宝妈买爱他美奶粉开罐遇活虫",
+      "onboard_time": 1668455651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12175,
+      "num": 12175,
+      "word": "小狗可不是好欺负的",
+      "onboard_time": 1668453553,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 11042,
       "num": 11183,
       "word": "高校老师肩挑背扛给同学送早餐",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1668454391,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10220,
+      "num": 10220,
+      "word": "白敬亭六少主肖像簿第五册",
+      "onboard_time": 1668457213,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 8754,
