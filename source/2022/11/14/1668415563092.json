@@ -1,0 +1,410 @@
+{
+  "runTime": 1668415563092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3698851,
+        "num": 3698851,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589053,
+        "num": 1589053,
+        "word": "石家庄致信全体市民",
+        "onboard_time": 1668406889,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4384,
+        "num": 1002287,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 918437,
+        "num": 918437,
+        "word": "原来papi酱说的这个朋友是秦施",
+        "onboard_time": 1668411088,
+        "rank": 3,
+        "category": "影视,网红"
+      },
+      {
+        "raw_hot": 1060621,
+        "num": 806312,
+        "word": "石家庄回应网传取消全员核酸检测",
+        "onboard_time": 1668407127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618293,
+        "num": 618293,
+        "word": "元英的原型是纯元吧",
+        "onboard_time": 1668409950,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555395,
+        "num": 555395,
+        "word": "25岁女子被相亲对象前妻剧透得生儿子",
+        "onboard_time": 1668405507,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527485,
+        "num": 527485,
+        "word": "市民称网红串串店非网红不得入内",
+        "onboard_time": 1668410789,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518822,
+        "num": 518822,
+        "word": "曾黎和赵露思偷偷藏不住再演母女",
+        "onboard_time": 1668410187,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419038,
+        "num": 419038,
+        "word": "大学生在玩一种很新的东西",
+        "onboard_time": 1668409409,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464580,
+        "num": 415273,
+        "word": "老人去世女子没买到票车站5分钟帮上车",
+        "onboard_time": 1668413428,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 462414,
+        "num": 414338,
+        "word": "马伯骞版桑延vs漫画版桑延",
+        "onboard_time": 1668412589,
+        "rank": 11,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 448433,
+        "num": 414290,
+        "word": "卿卿日常史上最好的主母",
+        "onboard_time": 1668412290,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411461,
+        "num": 411461,
+        "word": "中美元首巴厘岛会晤",
+        "onboard_time": 1668410848,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 367729,
+        "num": 367729,
+        "word": "北京疫情防控",
+        "onboard_time": 1668389290,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348281,
+        "num": 348281,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1668382703,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339092,
+        "num": 339092,
+        "word": "34岁男子抱父母三胎被误当抱女儿",
+        "onboard_time": 1668404430,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321639,
+        "num": 321639,
+        "word": "呼吸哥复盘S12",
+        "onboard_time": 1668413248,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316195,
+        "num": 316195,
+        "word": "李峋打电话为什么不叫我公主",
+        "onboard_time": 1668411568,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263773,
+        "num": 263773,
+        "word": "老公应酬酒喝多妻子端来热面",
+        "onboard_time": 1668414449,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230484,
+        "num": 230484,
+        "word": "石家庄新增本土感染544例",
+        "onboard_time": 1668404069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220691,
+        "num": 220691,
+        "word": "中国脱口秀祖师爷黄西去哪儿了",
+        "onboard_time": 1668409765,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212900,
+        "num": 212900,
+        "word": "鹿晗官宣音乐会嘉宾",
+        "onboard_time": 1668401371,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211198,
+        "num": 211198,
+        "word": "女子已生4女儿又怀孕被要求离婚",
+        "onboard_time": 1668386310,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209263,
+        "num": 209263,
+        "word": "朝阳区部分区域划为低风险区",
+        "onboard_time": 1668408208,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206333,
+        "num": 206333,
+        "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+        "onboard_time": 1668396629,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201953,
+        "num": 201953,
+        "word": "陈鹤一和迪丽热巴演过对手戏",
+        "onboard_time": 1668406531,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "疑因就餐起冲突男子疯狂殴打多人",
+        "onboard_time": 1668410307,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 188043,
+        "num": 188043,
+        "word": "恋与深空",
+        "onboard_time": 1668403948,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184952,
+        "num": 184952,
+        "word": "辽宁一单位工作人员被举报是逃犯",
+        "onboard_time": 1668406287,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196906,
+        "num": 184584,
+        "word": "8090后的恋爱脑是有迹可循的",
+        "onboard_time": 1668413126,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184106,
+        "num": 184106,
+        "word": "呼和浩特警方通报赛斯基因核酸结果造假",
+        "onboard_time": 1668408688,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183087,
+        "num": 183087,
+        "word": "张婧仪朱韵跑步演技",
+        "onboard_time": 1668411928,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178647,
+        "num": 178647,
+        "word": "研究表明老鼠天生会跳舞",
+        "onboard_time": 1668411149,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160169,
+        "num": 160169,
+        "word": "你是懂喝奶茶的快乐的",
+        "onboard_time": 1668413712,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158173,
+        "num": 158173,
+        "word": "老父爱子同患重症80后男子崩溃大哭",
+        "onboard_time": 1668402570,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 146961,
+        "word": "梅西与阿根廷国家队会合",
+        "onboard_time": 1668413969,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 134048,
+        "num": 134048,
+        "word": "巴厘岛当地民众夹道欢迎",
+        "onboard_time": 1668415108,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130545,
+        "num": 130545,
+        "word": "赵今麦说二手玫瑰的歌太上头了",
+        "onboard_time": 1668407907,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128937,
+        "num": 128937,
+        "word": "杨幂在播剧角色反差感",
+        "onboard_time": 1668404189,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126938,
+        "num": 126938,
+        "word": "妖猫传里有陈飞宇",
+        "onboard_time": 1668392008,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "武磊重现14年前和梅西勾肩搭背",
+        "onboard_time": 1668411928,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120190,
+        "num": 120190,
+        "word": "倪妮海藻卷发",
+        "onboard_time": 1668397165,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109649,
+        "num": 119303,
+        "word": "华夏红是什么红",
+        "onboard_time": 1668415229,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 116521,
+        "word": "没想到是这么大的包",
+        "onboard_time": 1668412408,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115890,
+        "num": 115890,
+        "word": "世界杯吉祥物被戏称像馄饨皮",
+        "onboard_time": 1668407308,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109314,
+        "num": 109314,
+        "word": "G20巴厘岛峰会",
+        "onboard_time": 1668410009,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107267,
+        "num": 107267,
+        "word": "和不爱的人交往什么体验",
+        "onboard_time": 1668415527,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106528,
+        "num": 106528,
+        "word": "狼队Fly获吉尼斯纪录",
+        "onboard_time": 1668405207,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105604,
+        "num": 105604,
+        "word": "父亲婚礼致辞紧张到全身发抖",
+        "onboard_time": 1668397287,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让探索太空的脚步迈得更稳更远#"
+    }
+  }
+}

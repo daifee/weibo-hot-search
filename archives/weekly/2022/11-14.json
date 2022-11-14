@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668414657342,
+  "endTime": 1668415563092,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -155,8 +155,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 783882,
-      "num": 783882,
+      "raw_hot": 918437,
+      "num": 918437,
       "word": "原来papi酱说的这个朋友是秦施",
       "onboard_time": 1668411088,
       "rank": 41,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527485,
+      "num": 527485,
+      "word": "市民称网红串串店非网红不得入内",
+      "onboard_time": 1668410789,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522673,
       "num": 522673,
       "word": "父亲婚礼致辞紧张到全身发抖",
@@ -337,14 +345,6 @@
       "onboard_time": 1668412589,
       "rank": 10,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 518166,
-      "num": 518166,
-      "word": "市民称网红串串店非网红不得入内",
-      "onboard_time": 1668410789,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514691,
@@ -451,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464580,
+      "num": 415273,
+      "word": "老人去世女子没买到票车站5分钟帮上车",
+      "onboard_time": 1668413428,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 457641,
       "num": 457641,
       "word": "我国每年约28万人因糖尿病足截肢",
       "onboard_time": 1668385167,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448433,
+      "num": 414290,
+      "word": "卿卿日常史上最好的主母",
+      "onboard_time": 1668412290,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 441275,
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374464,
-      "num": 374464,
-      "word": "卿卿日常史上最好的主母",
-      "onboard_time": 1668412290,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 374284,
       "num": 374284,
       "word": "赵露思偷偷藏不住原声片花",
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321639,
+      "num": 321639,
+      "word": "呼吸哥复盘S12",
+      "onboard_time": 1668413248,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318206,
       "num": 318206,
       "word": "中国脱口秀祖师爷黄西去哪儿了",
@@ -643,20 +659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316195,
+      "num": 316195,
+      "word": "李峋打电话为什么不叫我公主",
+      "onboard_time": 1668411568,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314802,
       "num": 314802,
       "word": "苹果混合现实头显或明年发布",
       "onboard_time": 1668392369,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 312817,
-      "num": 312817,
-      "word": "呼吸哥复盘S12",
-      "onboard_time": 1668413248,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 312254,
@@ -673,14 +689,6 @@
       "onboard_time": 1668392967,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307083,
-      "num": 307083,
-      "word": "李峋打电话为什么不叫我公主",
-      "onboard_time": 1668411568,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 298401,
@@ -739,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275916,
-      "num": 275916,
-      "word": "老人去世女子没买到票车站5分钟帮上车",
-      "onboard_time": 1668413428,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -777,6 +777,14 @@
       "onboard_time": 1668400410,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263773,
+      "num": 263773,
+      "word": "老公应酬酒喝多妻子端来热面",
+      "onboard_time": 1668414449,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260913,
@@ -1035,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178647,
+      "num": 178647,
+      "word": "研究表明老鼠天生会跳舞",
+      "onboard_time": 1668411149,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175381,
       "num": 175381,
       "word": "65岁老人救跳河轻生女子不幸牺牲",
@@ -1131,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160169,
+      "num": 160169,
+      "word": "你是懂喝奶茶的快乐的",
+      "onboard_time": 1668413712,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159086,
       "num": 159086,
       "word": "特斯拉称警方正寻求第三方鉴定",
@@ -1203,12 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146745,
-      "num": 146745,
-      "word": "研究表明老鼠天生会跳舞",
-      "onboard_time": 1668411149,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 146961,
+      "num": 146961,
+      "word": "梅西与阿根廷国家队会合",
+      "onboard_time": 1668413969,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 146063,
@@ -1307,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133650,
-      "num": 133650,
-      "word": "你是懂喝奶茶的快乐的",
-      "onboard_time": 1668413712,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 134048,
+      "num": 134048,
+      "word": "巴厘岛当地民众夹道欢迎",
+      "onboard_time": 1668415108,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 132165,
@@ -1371,20 +1395,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116521,
+      "num": 116521,
+      "word": "没想到是这么大的包",
+      "onboard_time": 1668412408,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
       "onboard_time": 1668384566,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114404,
-      "num": 114404,
-      "word": "老公应酬酒喝多妻子端来热面",
-      "onboard_time": 1668414449,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112646,
@@ -1419,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109660,
-      "num": 109660,
-      "word": "没想到是这么大的包",
-      "onboard_time": 1668412408,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 109649,
+      "num": 119303,
+      "word": "华夏红是什么红",
+      "onboard_time": 1668415229,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 109587,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1668349108,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107267,
+      "num": 107267,
+      "word": "和不爱的人交往什么体验",
+      "onboard_time": 1668415527,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 106173,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1668345870,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96939,
-      "num": 96939,
-      "word": "梅西与阿根廷国家队会合",
-      "onboard_time": 1668413969,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90829,
