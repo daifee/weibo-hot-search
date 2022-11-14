@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668424781724,
+  "endTime": 1668425756009,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -27,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2084210,
+      "num": 582970,
+      "word": "石家庄关闭市内免费核酸检测点",
+      "onboard_time": 1668420687,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2009399,
       "num": 2009399,
       "word": "石家庄致信全体市民",
       "onboard_time": 1668406889,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1977549,
-      "num": 582970,
-      "word": "石家庄关闭市内免费核酸检测点",
-      "onboard_time": 1668420687,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,20 +195,20 @@
       "category": "影视,网红"
     },
     {
+      "raw_hot": 823785,
+      "num": 441139,
+      "word": "外交部回应韩国赛场错播中国国歌",
+      "onboard_time": 1668421528,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 820393,
       "num": 698445,
       "word": "200斤女主播同时交往10位男粉丝",
       "onboard_time": 1668419308,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 804629,
-      "num": 311642,
-      "word": "外交部回应韩国赛场错播中国国歌",
-      "onboard_time": 1668421528,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 759975,
@@ -265,6 +265,14 @@
       "onboard_time": 1668419668,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 690127,
+      "num": 427121,
+      "word": "内娱明星头像大户",
+      "onboard_time": 1668423208,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 684919,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 576974,
-      "num": 311219,
-      "word": "内娱明星头像大户",
-      "onboard_time": 1668423208,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 571725,
       "num": 343752,
       "word": "张婧仪他从火光中走来跳舞路透",
@@ -433,6 +433,14 @@
       "onboard_time": 1668388108,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513937,
+      "num": 513937,
+      "word": "中美领导人要起到把舵定向作用",
+      "onboard_time": 1668422909,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 508926,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476802,
+      "num": 476802,
+      "word": "当事人回应已育4女又怀孕被离婚",
+      "onboard_time": 1668422849,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475995,
       "num": 475995,
       "word": "卿卿日常史上最好的主母",
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464940,
+      "num": 383504,
+      "word": "石家庄调整防疫举措决不是全面放开",
+      "onboard_time": 1668421290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459695,
       "num": 459695,
       "word": "李峋说抱抱",
@@ -561,6 +585,14 @@
       "onboard_time": 1668385167,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451141,
+      "num": 348794,
+      "word": "审判阿瑟吻技",
+      "onboard_time": 1668425489,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 441275,
@@ -627,14 +659,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 409704,
-      "num": 309863,
-      "word": "中美领导人要起到把舵定向作用",
-      "onboard_time": 1668422909,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 403247,
       "num": 403247,
       "word": "北京新增本土感染者257例",
@@ -657,14 +681,6 @@
       "onboard_time": 1668384989,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 395031,
-      "num": 309304,
-      "word": "石家庄调整防疫举措决不是全面放开",
-      "onboard_time": 1668421290,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394157,
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 329185,
-      "num": 307940,
+      "num": 313725,
       "word": "杨幂许凯新剧吻戏好上头",
       "onboard_time": 1668423449,
       "rank": 14,
@@ -843,6 +859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 314500,
+      "num": 314500,
+      "word": "男子外卖点麻辣烫吃出1只老鼠",
+      "onboard_time": 1668424407,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
@@ -856,14 +880,6 @@
       "word": "95后宝妈带1岁大宝宝上班",
       "onboard_time": 1668392967,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298968,
-      "num": 298968,
-      "word": "当事人回应已育4女又怀孕被离婚",
-      "onboard_time": 1668422849,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -987,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243068,
+      "num": 243068,
+      "word": "北京朝阳新增73例感染者",
+      "onboard_time": 1668419848,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241625,
       "num": 241625,
       "word": "朱韵亲了李峋左脸",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1668424227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233793,
-      "num": 233793,
-      "word": "北京朝阳新增73例感染者",
-      "onboard_time": 1668419848,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233487,
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209636,
+      "num": 209636,
+      "word": "李峋不能没有朱韵",
+      "onboard_time": 1668425427,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209162,
       "num": 209162,
       "word": "老父爱子同患重症80后男子崩溃大哭",
@@ -1275,12 +1299,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184714,
+      "num": 184714,
+      "word": "迪丽热巴网络侵权案胜诉获赔",
+      "onboard_time": 1668423326,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184495,
       "num": 184495,
       "word": "世界杯",
       "onboard_time": 1668352649,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182695,
+      "num": 182695,
+      "word": "没有刘海的李薇",
+      "onboard_time": 1668425189,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182191,
+      "num": 182191,
+      "word": "你觉得爱的二八定律好看吗",
+      "onboard_time": 1668424768,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 178647,
@@ -1331,14 +1379,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 166873,
-      "num": 162597,
-      "word": "迪丽热巴网络侵权案胜诉获赔",
-      "onboard_time": 1668423326,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166714,
       "num": 166714,
       "word": "白敬亭尹峥遭陷害被关",
@@ -1355,19 +1395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166061,
+      "num": 190071,
+      "word": "武大学子齐唱再见送别窦校长",
+      "onboard_time": 1668420626,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165860,
       "num": 165860,
       "word": "一次收到6.7吨快递是什么感受",
       "onboard_time": 1668348687,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165277,
-      "num": 165277,
-      "word": "武大学子齐唱再见送别窦校长",
-      "onboard_time": 1668420626,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148175,
+      "num": 148175,
+      "word": "这猫是有多困啊",
+      "onboard_time": 1668423326,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147059,
       "num": 97687,
       "word": "时代少年团新歌百忧戒",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1668391587,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143406,
+      "num": 133137,
+      "word": "YooA新歌",
+      "onboard_time": 1668425607,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 143051,
@@ -1595,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141146,
-      "num": 141146,
-      "word": "这猫是有多困啊",
-      "onboard_time": 1668423326,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140347,
       "num": 140347,
       "word": "快乐减肥这样做就够了",
@@ -1619,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138516,
+      "num": 138516,
+      "word": "第一次为两只狗感到尴尬",
+      "onboard_time": 1668423988,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -1633,14 +1689,6 @@
       "onboard_time": 1668416790,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137279,
-      "num": 137279,
-      "word": "男子外卖点麻辣烫吃出1只老鼠",
-      "onboard_time": 1668424407,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136955,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1668411748,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130179,
+      "num": 130179,
+      "word": "班主任出嫁全班男生爬墙堵门",
+      "onboard_time": 1668425189,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129953,
@@ -1729,14 +1785,6 @@
       "onboard_time": 1668410009,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119614,
-      "num": 107148,
-      "word": "你觉得爱的二八定律好看吗",
-      "onboard_time": 1668424768,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 116892,
@@ -1851,14 +1899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105343,
-      "num": 105343,
-      "word": "第一次为两只狗感到尴尬",
-      "onboard_time": 1668423988,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104890,
       "num": 104890,
       "word": "原来好的恋爱是这样的",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1668335790,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103849,
+      "num": 103849,
+      "word": "蒜苔五花肉",
+      "onboard_time": 1668425368,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 103545,
@@ -2057,6 +2105,14 @@
       "onboard_time": 1668373212,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 3907,
+      "num": 570197,
+      "word": "200秒速览G20峰会看点",
+      "onboard_time": 1668395608,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
