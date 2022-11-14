@@ -1,0 +1,410 @@
+{
+  "runTime": 1668434531768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927628,
+        "num": 927628,
+        "word": "中美元首握手合影",
+        "onboard_time": 1668429210,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1453941,
+        "num": 866411,
+        "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
+        "onboard_time": 1668430046,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13106,
+        "num": 601470,
+        "word": "200秒速览G20峰会看点",
+        "onboard_time": 1668395608,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1049176,
+        "num": 598109,
+        "word": "陈飞宇脸上有张婧仪口红印",
+        "onboard_time": 1668432450,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560530,
+        "num": 560530,
+        "word": "易烊千玺谷爱凌冰雪之约米兰获奖",
+        "onboard_time": 1668426328,
+        "rank": 4,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 1633940,
+        "num": 553570,
+        "word": "石家庄关闭市内免费核酸检测点",
+        "onboard_time": 1668420687,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546553,
+        "num": 546553,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522258,
+        "num": 522258,
+        "word": "男生第1次自己买衣服是什么体验",
+        "onboard_time": 1668429505,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418082,
+        "num": 418082,
+        "word": "班主任出嫁全班男生爬墙堵门",
+        "onboard_time": 1668425189,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416893,
+        "num": 416893,
+        "word": "审判阿瑟吻技",
+        "onboard_time": 1668425489,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 911908,
+        "num": 415036,
+        "word": "金泰妍确诊感染新冠",
+        "onboard_time": 1668434433,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411342,
+        "num": 411342,
+        "word": "李峋亲完朱韵夸她真可爱",
+        "onboard_time": 1668426867,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399892,
+        "num": 399892,
+        "word": "网友提名的2022十大爆剧",
+        "onboard_time": 1668430408,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389319,
+        "num": 389319,
+        "word": "中美两国元首致开场白",
+        "onboard_time": 1668430949,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 384502,
+        "num": 384502,
+        "word": "2024年巴黎奥运会吉祥物",
+        "onboard_time": 1668431971,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392394,
+        "num": 382843,
+        "word": "时代峰峻为TF三代大悦城路演道歉",
+        "onboard_time": 1668431128,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334354,
+        "num": 334354,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1668431009,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 305387,
+        "num": 305387,
+        "word": "石家庄致信全体市民",
+        "onboard_time": 1668406889,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273626,
+        "num": 273626,
+        "word": "外交部回应韩国赛场错播中国国歌",
+        "onboard_time": 1668421528,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 271318,
+        "num": 271318,
+        "word": "北京疫情进展呈现上升态势",
+        "onboard_time": 1668425669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009347,
+        "num": 271204,
+        "word": "王源说鹿晗是朋友圈有意思第一名",
+        "onboard_time": 1668420991,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391995,
+        "num": 269745,
+        "word": "秦施阳华无证离婚",
+        "onboard_time": 1668432870,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354482,
+        "num": 268503,
+        "word": "当事人回应已育4女又怀孕被离婚",
+        "onboard_time": 1668422849,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322527,
+        "num": 267946,
+        "word": "男子外卖点麻辣烫吃出1只老鼠",
+        "onboard_time": 1668424407,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267154,
+        "num": 267154,
+        "word": "学校门口买的圆珠笔暗藏真刀",
+        "onboard_time": 1668431850,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307467,
+        "num": 260956,
+        "word": "肖战顾魏V榜角色指数峰值TOP1",
+        "onboard_time": 1668431369,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249118,
+        "num": 249118,
+        "word": "中美领导人要起到把舵定向作用",
+        "onboard_time": 1668422909,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223689,
+        "num": 223689,
+        "word": "石家庄调整防疫举措决不是全面放开",
+        "onboard_time": 1668421290,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213775,
+        "num": 213775,
+        "word": "真正的爱情从来都不会理智",
+        "onboard_time": 1668431668,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195221,
+        "num": 195221,
+        "word": "老鼠惬意趴在猫咪头上休息",
+        "onboard_time": 1668430647,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294997,
+        "num": 194538,
+        "word": "许凯新剧给杨幂跪了",
+        "onboard_time": 1668432090,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281195,
+        "num": 193608,
+        "word": "没有刘海的李薇",
+        "onboard_time": 1668425189,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268754,
+        "num": 191325,
+        "word": "我们的西南联大",
+        "onboard_time": 1668429086,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181539,
+        "num": 181539,
+        "word": "穷和敷衍果然是两码事",
+        "onboard_time": 1668425788,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177363,
+        "num": 177363,
+        "word": "社死还是得看研究生",
+        "onboard_time": 1668418410,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268388,
+        "num": 171350,
+        "word": "檀健次周杰伦同框照",
+        "onboard_time": 1668433590,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156760,
+        "num": 156760,
+        "word": "要不换个城市生活吧",
+        "onboard_time": 1668432870,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154816,
+        "num": 154816,
+        "word": "高校为全校学生发两万个铁饭碗",
+        "onboard_time": 1668426207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145081,
+        "num": 145081,
+        "word": "北京朝阳新增73例感染者",
+        "onboard_time": 1668419848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141003,
+        "num": 141003,
+        "word": "老公应酬酒喝多妻子端来热面",
+        "onboard_time": 1668414449,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251172,
+        "num": 140925,
+        "word": "朱韵朋友圈秀恩爱",
+        "onboard_time": 1668419668,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138551,
+        "num": 138551,
+        "word": "特斯拉潮州失控事故家属视频回应",
+        "onboard_time": 1668417448,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 134673,
+        "word": "第一次为两只狗感到尴尬",
+        "onboard_time": 1668423988,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133601,
+        "num": 133601,
+        "word": "男女之间纯友谊真的存在吗",
+        "onboard_time": 1668428309,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132109,
+        "num": 132109,
+        "word": "和不爱的人交往什么体验",
+        "onboard_time": 1668415527,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127862,
+        "num": 127862,
+        "word": "不要总是提前焦虑",
+        "onboard_time": 1668432570,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127383,
+        "num": 127383,
+        "word": "原来秋冬围巾可以这么系",
+        "onboard_time": 1668433529,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 123267,
+        "word": "蒜苔五花肉",
+        "onboard_time": 1668425368,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109590,
+        "num": 109590,
+        "word": "猫的脑回路竟如此不同",
+        "onboard_time": 1668434009,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105587,
+        "num": 105587,
+        "word": "鸟类的悲欢并不相通",
+        "onboard_time": 1668434132,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首巴厘岛会晤#"
+    }
+  }
+}
