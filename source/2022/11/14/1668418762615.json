@@ -1,0 +1,410 @@
+{
+  "runTime": 1668418762615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3039852,
+        "num": 3039852,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431098,
+        "num": 1431098,
+        "word": "石家庄致信全体市民",
+        "onboard_time": 1668406889,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88189,
+        "num": 1165289,
+        "word": "49件文物讲述何以中国",
+        "onboard_time": 1668417149,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1013245,
+        "num": 1013245,
+        "word": "老人去世女子没买到票车站5分钟帮上车",
+        "onboard_time": 1668413428,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 835824,
+        "num": 835824,
+        "word": "石家庄回应网传取消全员核酸检测",
+        "onboard_time": 1668407127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726367,
+        "num": 726367,
+        "word": "老公应酬酒喝多妻子端来热面",
+        "onboard_time": 1668414449,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629525,
+        "num": 629525,
+        "word": "原来papi酱说的这个朋友是秦施",
+        "onboard_time": 1668411088,
+        "rank": 6,
+        "category": "影视,网红"
+      },
+      {
+        "raw_hot": 459695,
+        "num": 459695,
+        "word": "李峋说抱抱",
+        "onboard_time": 1668417630,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440511,
+        "num": 440511,
+        "word": "元英的原型是纯元吧",
+        "onboard_time": 1668409950,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402339,
+        "num": 402339,
+        "word": "和不爱的人交往什么体验",
+        "onboard_time": 1668415527,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418878,
+        "num": 399510,
+        "word": "巴厘岛当地民众夹道欢迎",
+        "onboard_time": 1668415108,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 395714,
+        "num": 395714,
+        "word": "卿卿日常史上最好的主母",
+        "onboard_time": 1668412290,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385768,
+        "num": 385768,
+        "word": "北京疫情发布会",
+        "onboard_time": 1668417030,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376934,
+        "num": 376934,
+        "word": "25岁女子被相亲对象前妻剧透得生儿子",
+        "onboard_time": 1668405507,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327949,
+        "num": 327949,
+        "word": "马伯骞版桑延vs漫画版桑延",
+        "onboard_time": 1668412589,
+        "rank": 14,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 277489,
+        "num": 277489,
+        "word": "大学生在玩一种很新的东西",
+        "onboard_time": 1668409409,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309613,
+        "num": 275502,
+        "word": "曾黎和赵露思偷偷藏不住再演母女",
+        "onboard_time": 1668410187,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265313,
+        "num": 265313,
+        "word": "中美元首巴厘岛会晤",
+        "onboard_time": 1668410848,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 253780,
+        "num": 253780,
+        "word": "34岁男子抱父母三胎被误当抱女儿",
+        "onboard_time": 1668404430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231823,
+        "num": 231823,
+        "word": "内马尔停下35米高空球",
+        "onboard_time": 1668415887,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278209,
+        "num": 231293,
+        "word": "命韵峋环吻戏来了",
+        "onboard_time": 1668416311,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249447,
+        "num": 230803,
+        "word": "杨幂秦施时装秀",
+        "onboard_time": 1668417870,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230008,
+        "num": 230008,
+        "word": "市民称网红串串店非网红不得入内",
+        "onboard_time": 1668410789,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224686,
+        "num": 224686,
+        "word": "李峋打电话为什么不叫我公主",
+        "onboard_time": 1668411568,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220164,
+        "num": 220164,
+        "word": "呼吸哥复盘S12",
+        "onboard_time": 1668413248,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208662,
+        "num": 208662,
+        "word": "特斯拉潮州失控事故家属视频回应",
+        "onboard_time": 1668417448,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198358,
+        "num": 198358,
+        "word": "石家庄新增本土感染544例",
+        "onboard_time": 1668404069,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191891,
+        "num": 191891,
+        "word": "鄱阳湖缩水80%江豚生存或艰难",
+        "onboard_time": 1668416609,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "恋与深空",
+        "onboard_time": 1668403948,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180096,
+        "num": 171240,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1668382703,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194129,
+        "num": 168950,
+        "word": "李峋说活动活动筋骨",
+        "onboard_time": 1668417808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161730,
+        "num": 161730,
+        "word": "白敬亭尹峥开府宴郝葭也去了",
+        "onboard_time": 1668418169,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160032,
+        "num": 160032,
+        "word": "六公主记录的贺峻霖",
+        "onboard_time": 1668416489,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149059,
+        "num": 149059,
+        "word": "鹿晗官宣音乐会嘉宾",
+        "onboard_time": 1668401371,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149005,
+        "num": 149005,
+        "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+        "onboard_time": 1668396629,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146244,
+        "num": 146244,
+        "word": "北京新增本土感染者257例",
+        "onboard_time": 1668418346,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142868,
+        "word": "梅西与阿根廷国家队会合",
+        "onboard_time": 1668413969,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 127060,
+        "num": 127060,
+        "word": "老父爱子同患重症80后男子崩溃大哭",
+        "onboard_time": 1668402570,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126344,
+        "num": 126344,
+        "word": "辽宁一单位工作人员被举报是逃犯",
+        "onboard_time": 1668406287,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121577,
+        "num": 121577,
+        "word": "你是懂喝奶茶的快乐的",
+        "onboard_time": 1668413712,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146516,
+        "num": 121145,
+        "word": "中国脱口秀祖师爷黄西去哪儿了",
+        "onboard_time": 1668409765,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143448,
+        "num": 120643,
+        "word": "施情华意的儿子两岁半",
+        "onboard_time": 1668415589,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118944,
+        "num": 118944,
+        "word": "社死还是得看研究生",
+        "onboard_time": 1668418410,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113697,
+        "num": 113697,
+        "word": "女子已生4女儿又怀孕被要求离婚",
+        "onboard_time": 1668386310,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112264,
+        "num": 112264,
+        "word": "小猫也会恼羞成怒的",
+        "onboard_time": 1668417748,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108330,
+        "num": 108330,
+        "word": "北京疫情防控",
+        "onboard_time": 1668389290,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98213,
+        "num": 98213,
+        "word": "疑因就餐起冲突男子疯狂殴打多人",
+        "onboard_time": 1668410307,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 147059,
+        "num": 97687,
+        "word": "时代少年团新歌百忧戒",
+        "onboard_time": 1668418707,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95113,
+        "num": 95113,
+        "word": "世界杯吉祥物被戏称像馄饨皮",
+        "onboard_time": 1668407308,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94376,
+        "num": 94376,
+        "word": "研究表明老鼠天生会跳舞",
+        "onboard_time": 1668411149,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}
