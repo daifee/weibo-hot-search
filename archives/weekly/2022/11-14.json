@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668425756009,
+  "endTime": 1668430372167,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -187,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 921048,
+      "num": 583591,
+      "word": "易烊千玺谷爱凌冰雪之约米兰获奖",
+      "onboard_time": 1668426328,
+      "rank": 3,
+      "category": "影视,体育"
+    },
+    {
       "raw_hot": 918437,
       "num": 918437,
       "word": "原来papi酱说的这个朋友是秦施",
@@ -195,8 +203,16 @@
       "category": "影视,网红"
     },
     {
+      "raw_hot": 878261,
+      "num": 878261,
+      "word": "班主任出嫁全班男生爬墙堵门",
+      "onboard_time": 1668425189,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823785,
-      "num": 441139,
+      "num": 599484,
       "word": "外交部回应韩国赛场错播中国国歌",
       "onboard_time": 1668421528,
       "rank": 48,
@@ -281,6 +297,14 @@
       "onboard_time": 1668382644,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683533,
+      "num": 566363,
+      "word": "审判阿瑟吻技",
+      "onboard_time": 1668425489,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 677610,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533970,
+      "num": 533970,
+      "word": "男子外卖点麻辣烫吃出1只老鼠",
+      "onboard_time": 1668424407,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527485,
       "num": 527485,
       "word": "市民称网红串串店非网红不得入内",
@@ -427,6 +459,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 518436,
+      "num": 518436,
+      "word": "当事人回应已育4女又怀孕被离婚",
+      "onboard_time": 1668422849,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514691,
       "num": 456651,
       "word": "黄明昊给王鹤棣沈月拍合影",
@@ -441,6 +481,14 @@
       "onboard_time": 1668422909,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 510595,
+      "num": 510595,
+      "word": "李峋亲完朱韵夸她真可爱",
+      "onboard_time": 1668426867,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 508926,
@@ -507,19 +555,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478722,
+      "num": 478722,
+      "word": "没有刘海的李薇",
+      "onboard_time": 1668425189,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477197,
       "num": 477197,
       "word": "首批新员工抵达郑州富士康",
       "onboard_time": 1668390747,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476802,
-      "num": 476802,
-      "word": "当事人回应已育4女又怀孕被离婚",
-      "onboard_time": 1668422849,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -587,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451141,
-      "num": 348794,
-      "word": "审判阿瑟吻技",
-      "onboard_time": 1668425489,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 441275,
       "num": 441275,
       "word": "老人地铁上不顾劝阻用刀削苹果",
@@ -635,6 +675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 424743,
+      "num": 424743,
+      "word": "中美元首握手合影",
+      "onboard_time": 1668429210,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 423017,
       "num": 423017,
       "word": "巴厘岛当地民众夹道欢迎",
@@ -657,6 +705,14 @@
       "onboard_time": 1668420207,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 405778,
+      "num": 405778,
+      "word": "北京疫情进展呈现上升态势",
+      "onboard_time": 1668425669,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403247,
@@ -723,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380264,
+      "num": 380264,
+      "word": "穷和敷衍果然是两码事",
+      "onboard_time": 1668425788,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376580,
       "num": 376580,
       "word": "女子为减肥绑牙齿让嘴巴闭合",
@@ -737,6 +801,14 @@
       "onboard_time": 1668404789,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364037,
+      "num": 269509,
+      "word": "Meiko看五月天演出",
+      "onboard_time": 1668426207,
+      "rank": 20,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 359101,
@@ -859,20 +931,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 314500,
-      "num": 314500,
-      "word": "男子外卖点麻辣烫吃出1只老鼠",
-      "onboard_time": 1668424407,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
       "onboard_time": 1668353369,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310620,
+      "num": 260523,
+      "word": "我们的西南联大",
+      "onboard_time": 1668429086,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 309898,
@@ -1003,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245787,
+      "num": 245787,
+      "word": "高校为全校学生发两万个铁饭碗",
+      "onboard_time": 1668426207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243068,
       "num": 243068,
       "word": "北京朝阳新增73例感染者",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1668424227,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233607,
+      "num": 126886,
+      "word": "中美元首会晤进入闭门阶段",
+      "onboard_time": 1668427590,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 233487,
@@ -1091,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229556,
+      "num": 126374,
+      "word": "恋爱前的李峋vs恋爱后的李峋",
+      "onboard_time": 1668426448,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229155,
       "num": 229155,
       "word": "篮网vs湖人",
@@ -1120,6 +1216,14 @@
       "word": "这老师是怎么忍住不笑的",
       "onboard_time": 1668396028,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 218706,
+      "num": 218706,
+      "word": "第一次为两只狗感到尴尬",
+      "onboard_time": 1668423988,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1235,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201412,
+      "num": 125059,
+      "word": "命韵峋环沙发打闹不像演的",
+      "onboard_time": 1668429867,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200056,
       "num": 179379,
       "word": "时代少年团新歌与奥特曼适配度",
@@ -1257,6 +1369,14 @@
       "onboard_time": 1668399389,
       "rank": 44,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 192084,
+      "num": 192084,
+      "word": "蒜苔五花肉",
+      "onboard_time": 1668425368,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 191891,
@@ -1313,14 +1433,6 @@
       "onboard_time": 1668352649,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182695,
-      "num": 182695,
-      "word": "没有刘海的李薇",
-      "onboard_time": 1668425189,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 182191,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1668411928,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161139,
+      "num": 114870,
+      "word": "阳华给秦施拉拉链",
+      "onboard_time": 1668430106,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 160696,
@@ -1667,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138516,
-      "num": 138516,
-      "word": "第一次为两只狗感到尴尬",
-      "onboard_time": 1668423988,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -1715,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133258,
+      "num": 125922,
+      "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
+      "onboard_time": 1668430046,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132165,
       "num": 132165,
       "word": "广州番禺区疫情防控",
@@ -1731,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130179,
-      "num": 130179,
-      "word": "班主任出嫁全班男生爬墙堵门",
-      "onboard_time": 1668425189,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129953,
       "num": 129953,
       "word": "湖人战胜篮网",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1668328529,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 128020,
+      "num": 128020,
+      "word": "男女之间纯友谊真的存在吗",
+      "onboard_time": 1668428309,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 125611,
@@ -1899,6 +2019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104893,
+      "num": 104893,
+      "word": "男生第1次自己买衣服是什么体验",
+      "onboard_time": 1668429505,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104890,
       "num": 104890,
       "word": "原来好的恋爱是这样的",
@@ -1913,14 +2041,6 @@
       "onboard_time": 1668335790,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103849,
-      "num": 103849,
-      "word": "蒜苔五花肉",
-      "onboard_time": 1668425368,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 103545,
@@ -2099,20 +2219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10722,
+      "num": 590717,
+      "word": "200秒速览G20峰会看点",
+      "onboard_time": 1668395608,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 8754,
       "num": 11097,
       "word": "8K超高清纯享20家族震撼瞬间",
       "onboard_time": 1668373212,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 3907,
-      "num": 570197,
-      "word": "200秒速览G20峰会看点",
-      "onboard_time": 1668395608,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
