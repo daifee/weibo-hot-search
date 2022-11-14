@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668432167538,
+  "endTime": 1668433892266,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2084210,
-      "num": 582970,
+      "num": 603830,
       "word": "石家庄关闭市内免费核酸检测点",
       "onboard_time": 1668420687,
       "rank": 11,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1315010,
+      "num": 1315010,
+      "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
+      "onboard_time": 1668430046,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254378,
       "num": 1254378,
       "word": "25岁女子被相亲对象前妻剧透得生儿子",
@@ -145,6 +153,22 @@
       "onboard_time": 1668349292,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057132,
+      "num": 654337,
+      "word": "陈飞宇脸上有张婧仪口红印",
+      "onboard_time": 1668432450,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1016659,
+      "num": 1016659,
+      "word": "中美元首握手合影",
+      "onboard_time": 1668429210,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1014339,
@@ -209,14 +233,6 @@
       "onboard_time": 1668425189,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877269,
-      "num": 877269,
-      "word": "中美元首握手合影",
-      "onboard_time": 1668429210,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 823785,
@@ -360,14 +376,6 @@
       "word": "广东新增本土感染者4160例",
       "onboard_time": 1668388949,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605098,
-      "num": 475704,
-      "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
-      "onboard_time": 1668430046,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445388,
+      "num": 445388,
+      "word": "男生第1次自己买衣服是什么体验",
+      "onboard_time": 1668429505,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441275,
       "num": 441275,
       "word": "老人地铁上不顾劝阻用刀削苹果",
@@ -729,6 +745,14 @@
       "onboard_time": 1668418346,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401884,
+      "num": 401884,
+      "word": "时代峰峻为TF三代大悦城路演道歉",
+      "onboard_time": 1668431128,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 397325,
@@ -819,6 +843,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371731,
+      "num": 371731,
+      "word": "网友提名的2022十大爆剧",
+      "onboard_time": 1668430408,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 370088,
+      "num": 370088,
+      "word": "中美两国元首致开场白",
+      "onboard_time": 1668430949,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 366631,
+      "num": 366631,
+      "word": "中美元首会晤结束",
+      "onboard_time": 1668431009,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 364363,
       "num": 364363,
       "word": "肖战顾魏V榜角色指数峰值TOP1",
@@ -883,6 +931,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 339438,
+      "num": 229253,
+      "word": "秦施阳华无证离婚",
+      "onboard_time": 1668432870,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338586,
+      "num": 338586,
+      "word": "2024年巴黎奥运会吉祥物",
+      "onboard_time": 1668431971,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335580,
       "num": 335580,
       "word": "白血病男子术后6年还清70万治病钱",
@@ -931,14 +995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 319449,
-      "num": 256901,
-      "word": "时代峰峻为TF三代大悦城路演道歉",
-      "onboard_time": 1668431128,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318206,
       "num": 318206,
       "word": "中国脱口秀祖师爷黄西去哪儿了",
@@ -979,7 +1035,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299392,
+      "raw_hot": 303950,
       "num": 174840,
       "word": "许凯新剧给杨幂跪了",
       "onboard_time": 1668432090,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1668351453,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283386,
-      "num": 174497,
-      "word": "网友提名的2022十大爆剧",
-      "onboard_time": 1668430408,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 283315,
@@ -1083,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262558,
-      "num": 262558,
-      "word": "中美元首会晤结束",
-      "onboard_time": 1668431009,
-      "rank": 19,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 260913,
       "num": 260913,
       "word": "张震岳被路人叫热狗的反应",
@@ -1099,19 +1139,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258184,
+      "num": 173440,
+      "word": "檀健次周杰伦同框照",
+      "onboard_time": 1668433590,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254267,
       "num": 254267,
       "word": "广州地铁",
       "onboard_time": 1668383667,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252623,
-      "num": 252623,
-      "word": "男生第1次自己买衣服是什么体验",
-      "onboard_time": 1668429505,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1275,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220614,
+      "num": 220614,
+      "word": "学校门口买的圆珠笔暗藏真刀",
+      "onboard_time": 1668431850,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218706,
       "num": 218706,
       "word": "第一次为两只狗感到尴尬",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1668422547,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209926,
-      "num": 209926,
-      "word": "中美两国元首致开场白",
-      "onboard_time": 1668430949,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 209640,
@@ -1483,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186993,
+      "num": 186993,
+      "word": "真正的爱情从来都不会理智",
+      "onboard_time": 1668431668,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "迪丽热巴网络侵权案胜诉获赔",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1668410729,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173449,
+      "num": 173449,
+      "word": "老鼠惬意趴在猫咪头上休息",
+      "onboard_time": 1668430647,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172056,
@@ -1707,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153504,
-      "num": 153504,
-      "word": "老鼠惬意趴在猫咪头上休息",
-      "onboard_time": 1668430647,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153502,
       "num": 153502,
       "word": "施情华意的儿子两岁半",
@@ -1867,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138432,
+      "num": 138432,
+      "word": "要不换个城市生活吧",
+      "onboard_time": 1668432870,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -1947,6 +2003,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "不要总是提前焦虑",
+      "onboard_time": 1668432570,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121475,
       "num": 121475,
       "word": "金融16条支持房地产",
@@ -1969,14 +2033,6 @@
       "onboard_time": 1668410009,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118971,
-      "num": 118971,
-      "word": "2024年巴黎奥运会吉祥物",
-      "onboard_time": 1668431971,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 116892,
@@ -2075,12 +2131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108463,
-      "num": 108463,
-      "word": "学校门口买的圆珠笔暗藏真刀",
-      "onboard_time": 1668431850,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 107422,
+      "num": 107422,
+      "word": "原来秋冬围巾可以这么系",
+      "onboard_time": 1668433529,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 106473,
@@ -2105,14 +2161,6 @@
       "onboard_time": 1668413068,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105803,
-      "num": 105803,
-      "word": "真正的爱情从来都不会理智",
-      "onboard_time": 1668431668,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 104890,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1668422365,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97059,
+      "num": 97059,
+      "word": "马斯克自称一周工作7天",
+      "onboard_time": 1668433652,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 96992,
@@ -2299,20 +2355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 13355,
+      "num": 735089,
+      "word": "200秒速览G20峰会看点",
+      "onboard_time": 1668395608,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 11042,
       "num": 11183,
       "word": "高校老师肩挑背扛给同学送早餐",
       "onboard_time": 1668367273,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10722,
-      "num": 735089,
-      "word": "200秒速览G20峰会看点",
-      "onboard_time": 1668395608,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 8754,
