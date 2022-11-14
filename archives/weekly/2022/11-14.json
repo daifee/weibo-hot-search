@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668397496068,
+  "endTime": 1668400895150,
   "band_list": [
     {
       "raw_hot": 2341915,
@@ -8,6 +8,14 @@
       "word": "女子已生4女儿又怀孕被要求离婚",
       "onboard_time": 1668386310,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2141799,
+      "num": 2141799,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1668382703,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -19,11 +27,11 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1351978,
-      "num": 1351978,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1668382703,
-      "rank": 20,
+      "raw_hot": 1476357,
+      "num": 1476357,
+      "word": "北京朝阳区部分核酸检测点临时关闭",
+      "onboard_time": 1668397769,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1668392008,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1242915,
+      "num": 1242915,
+      "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+      "onboard_time": 1668396629,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1181054,
@@ -89,6 +105,22 @@
       "onboard_time": 1668348989,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738273,
+      "num": 738273,
+      "word": "偷偷藏不住",
+      "onboard_time": 1668398249,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 713623,
+      "num": 713623,
+      "word": "爱的二八定律开播追剧日历",
+      "onboard_time": 1668398127,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 702977,
@@ -195,6 +227,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 508926,
+      "num": 508926,
+      "word": "这锅包肉能全国巡炒吗",
+      "onboard_time": 1668395787,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 507166,
+      "num": 411158,
+      "word": "白敬亭尹峥原型是雍正",
+      "onboard_time": 1668396928,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495505,
+      "num": 403078,
+      "word": "倪妮海藻卷发",
+      "onboard_time": 1668397165,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 495481,
       "num": 375596,
       "word": "赵丽颖欧豪风吹半夏开始预约",
@@ -259,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418409,
+      "num": 418409,
+      "word": "父亲婚礼致辞紧张到全身发抖",
+      "onboard_time": 1668397287,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409880,
+      "num": 409880,
+      "word": "广州新增本土感染者4065例",
+      "onboard_time": 1668392008,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400175,
       "num": 400175,
       "word": "北京疫情防控",
@@ -273,6 +345,14 @@
       "onboard_time": 1668384989,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394157,
+      "num": 361296,
+      "word": "大学寝室被李峋包围",
+      "onboard_time": 1668396147,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388762,
@@ -299,28 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361296,
-      "num": 361296,
-      "word": "大学寝室被李峋包围",
-      "onboard_time": 1668396147,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 353208,
       "num": 353208,
       "word": "陈飞宇英语口语水平",
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 351073,
-      "num": 351073,
-      "word": "小猫叼巨型蟑螂回家躺床抱着玩",
-      "onboard_time": 1668396629,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335580,
@@ -331,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330871,
+      "num": 330871,
+      "word": "乒乓球世界冠军朱雨玲病愈归来",
+      "onboard_time": 1668399690,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330030,
       "num": 330030,
       "word": "Viper",
@@ -339,20 +411,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329825,
+      "num": 310742,
+      "word": "陈采尼金鸡奖点评",
+      "onboard_time": 1668397949,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329425,
       "num": 329425,
       "word": "辽宁一私家车独得大雪恩宠",
       "onboard_time": 1668382945,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315110,
-      "num": 315110,
-      "word": "倪妮海藻卷发",
-      "onboard_time": 1668397165,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314802,
@@ -376,22 +448,6 @@
       "word": "95后宝妈带1岁大宝宝上班",
       "onboard_time": 1668392967,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304393,
-      "num": 304393,
-      "word": "这锅包肉能全国巡炒吗",
-      "onboard_time": 1668395787,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 300687,
-      "num": 300687,
-      "word": "广州新增本土感染者4065例",
-      "onboard_time": 1668392008,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -427,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273163,
+      "num": 200629,
+      "word": "偷偷藏不住全员杀青照",
+      "onboard_time": 1668400712,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -449,6 +513,14 @@
       "onboard_time": 1668393266,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257937,
+      "num": 197885,
+      "word": "杨幂许凯新剧反差感恋爱",
+      "onboard_time": 1668400410,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 254267,
@@ -507,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228578,
-      "num": 228578,
+      "raw_hot": 229862,
+      "num": 229862,
       "word": "恩比德59分",
       "onboard_time": 1668396568,
       "rank": 47,
@@ -539,20 +611,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211967,
-      "num": 211967,
-      "word": "白敬亭尹峥原型是雍正",
-      "onboard_time": 1668396928,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
       "onboard_time": 1668352649,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208229,
+      "num": 208229,
+      "word": "篮网vs湖人",
+      "onboard_time": 1668395907,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 207123,
@@ -587,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202827,
+      "num": 202827,
+      "word": "这老师是怎么忍住不笑的",
+      "onboard_time": 1668396028,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189781,
       "num": 189781,
       "word": "小男孩展示自家红薯库惊呆网友",
@@ -611,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181637,
-      "num": 181637,
-      "word": "篮网vs湖人",
-      "onboard_time": 1668395907,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 183590,
+      "num": 179379,
+      "word": "时代少年团新歌与奥特曼适配度",
+      "onboard_time": 1668397648,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 172056,
@@ -673,6 +753,22 @@
       "onboard_time": 1668342566,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157883,
+      "num": 157883,
+      "word": "橄榄球赛韩国站播错中国国歌",
+      "onboard_time": 1668399389,
+      "rank": 44,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 156441,
+      "num": 156441,
+      "word": "苹果开发搜索引擎",
+      "onboard_time": 1668398848,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 156342,
@@ -747,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143051,
+      "num": 143051,
+      "word": "孤独星球中国版停刊",
+      "onboard_time": 1668400712,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142253,
       "num": 142253,
       "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
@@ -761,14 +865,6 @@
       "onboard_time": 1668390686,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140490,
-      "num": 140490,
-      "word": "这老师是怎么忍住不笑的",
-      "onboard_time": 1668396028,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 140347,
@@ -825,14 +921,6 @@
       "onboard_time": 1668384566,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113517,
-      "num": 113517,
-      "word": "父亲婚礼致辞紧张到全身发抖",
-      "onboard_time": 1668397287,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112646,
@@ -1012,7 +1100,7 @@
     },
     {
       "raw_hot": 18365,
-      "num": 982036,
+      "num": 1292318,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,
