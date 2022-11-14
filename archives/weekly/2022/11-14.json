@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668448319704,
+  "endTime": 1668450471199,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2147,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131452,
+      "num": 131452,
+      "word": "伴侣情绪稳定重不重要",
+      "onboard_time": 1668444263,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131009,
       "num": 131009,
       "word": "陈飞宇演赵氏孤儿的原因",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1668410367,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 124854,
-      "num": 124854,
-      "word": "伴侣情绪稳定重不重要",
-      "onboard_time": 1668444263,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 121475,
@@ -2547,12 +2547,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 38823,
+      "num": 31766,
+      "word": "广东农民工夫妻带娃租7年的房",
+      "onboard_time": 1668448877,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34468,
       "num": 139148,
       "word": "糖尿病患者能买什么保险",
       "onboard_time": 1668409230,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28694,
+      "num": 28694,
+      "word": "元英在结一种很新的婚",
+      "onboard_time": 1668444807,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 26208,
@@ -2577,6 +2593,14 @@
       "onboard_time": 1668336869,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 18138,
+      "num": 20829,
+      "word": "淀粉加伟哥赚200倍暴利团伙被捕",
+      "onboard_time": 1668450314,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15032,
