@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668415563092,
+  "endTime": 1668417792946,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 934413,
+      "num": 934413,
+      "word": "老人去世女子没买到票车站5分钟帮上车",
+      "onboard_time": 1668413428,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 918437,
       "num": 918437,
       "word": "原来papi酱说的这个朋友是秦施",
@@ -185,6 +193,14 @@
       "onboard_time": 1668398249,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 718315,
+      "num": 718315,
+      "word": "老公应酬酒喝多妻子端来热面",
+      "onboard_time": 1668414449,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713623,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475995,
+      "num": 475995,
+      "word": "卿卿日常史上最好的主母",
+      "onboard_time": 1668412290,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471897,
       "num": 471897,
       "word": "赵今麦说二手玫瑰的歌太上头了",
@@ -451,28 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464580,
-      "num": 415273,
-      "word": "老人去世女子没买到票车站5分钟帮上车",
-      "onboard_time": 1668413428,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 457641,
       "num": 457641,
       "word": "我国每年约28万人因糖尿病足截肢",
       "onboard_time": 1668385167,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448433,
-      "num": 414290,
-      "word": "卿卿日常史上最好的主母",
-      "onboard_time": 1668412290,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 441275,
@@ -512,6 +520,14 @@
       "word": "中美元首巴厘岛会晤",
       "onboard_time": 1668410848,
       "rank": 26,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 423017,
+      "num": 423017,
+      "word": "巴厘岛当地民众夹道欢迎",
+      "onboard_time": 1668415108,
+      "rank": 37,
       "category": "国内要闻"
     },
     {
@@ -587,12 +603,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355599,
+      "num": 355599,
+      "word": "命韵峋环吻戏来了",
+      "onboard_time": 1668416311,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355514,
       "num": 355514,
       "word": "朝阳区部分区域划为低风险区",
       "onboard_time": 1668408208,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354869,
+      "num": 354869,
+      "word": "和不爱的人交往什么体验",
+      "onboard_time": 1668415527,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 353208,
@@ -779,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263773,
-      "num": 263773,
-      "word": "老公应酬酒喝多妻子端来热面",
-      "onboard_time": 1668414449,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260913,
       "num": 260913,
       "word": "张震岳被路人叫热狗的反应",
@@ -931,12 +955,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215367,
+      "num": 215367,
+      "word": "李峋说抱抱",
+      "onboard_time": 1668417630,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211088,
       "num": 198518,
       "word": "张婧仪朱韵跑步演技",
       "onboard_time": 1668411928,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209640,
+      "num": 209640,
+      "word": "蒲熠星说不再抗拒徒劳无功的努力",
+      "onboard_time": 1668417569,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209162,
@@ -961,6 +1001,14 @@
       "onboard_time": 1668387691,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206633,
+      "num": 166437,
+      "word": "内马尔停下35米高空球",
+      "onboard_time": 1668415887,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205139,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1668399389,
       "rank": 44,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 191584,
+      "num": 191584,
+      "word": "六公主记录的贺峻霖",
+      "onboard_time": 1668416489,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 189781,
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171759,
+      "num": 171759,
+      "word": "梅西与阿根廷国家队会合",
+      "onboard_time": 1668413969,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "伊斯坦布尔知名步行街发生爆炸",
@@ -1155,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159943,
+      "num": 159943,
+      "word": "北京疫情发布会",
+      "onboard_time": 1668417030,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159086,
       "num": 159086,
       "word": "特斯拉称警方正寻求第三方鉴定",
@@ -1195,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153502,
+      "num": 153502,
+      "word": "施情华意的儿子两岁半",
+      "onboard_time": 1668415589,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153493,
       "num": 153493,
       "word": "刘美含新剧为田曦薇发声",
@@ -1225,14 +1305,6 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146961,
-      "num": 146961,
-      "word": "梅西与阿根廷国家队会合",
-      "onboard_time": 1668413969,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 146063,
@@ -1307,12 +1379,36 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 140203,
+      "num": 99170,
+      "word": "阿蒲的影像日记本",
+      "onboard_time": 1668417748,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140049,
+      "num": 140049,
+      "word": "鄱阳湖缩水80%江豚生存或艰难",
+      "onboard_time": 1668416609,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
       "onboard_time": 1668403169,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137314,
+      "num": 131074,
+      "word": "彭冠英新剧终于表白蔡文静",
+      "onboard_time": 1668416790,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 134948,
@@ -1329,14 +1425,6 @@
       "onboard_time": 1668382162,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134048,
-      "num": 134048,
-      "word": "巴厘岛当地民众夹道欢迎",
-      "onboard_time": 1668415108,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 132165,
@@ -1401,6 +1489,14 @@
       "onboard_time": 1668412408,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115349,
+      "num": 115349,
+      "word": "特斯拉潮州失控事故家属视频回应",
+      "onboard_time": 1668417448,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114606,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1668349108,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107267,
-      "num": 107267,
-      "word": "和不爱的人交往什么体验",
-      "onboard_time": 1668415527,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 106173,
@@ -1563,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83739,
+      "num": 98175,
+      "word": "小猫也会恼羞成怒的",
+      "onboard_time": 1668417748,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77715,
       "num": 77715,
       "word": "兰州一街道干部被曝酒后辱骂志愿者",
@@ -1593,6 +1689,14 @@
       "onboard_time": 1668368473,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57954,
+      "num": 970360,
+      "word": "49件文物讲述何以中国",
+      "onboard_time": 1668417149,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 57867,
@@ -1692,6 +1796,9 @@
     },
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#他们用最硬的鳞为祖国铸飞甲#"
     }
   ]
 }
