@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668411380773,
+  "endTime": 1668414657342,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 783882,
+      "num": 783882,
+      "word": "原来papi酱说的这个朋友是秦施",
+      "onboard_time": 1668411088,
+      "rank": 41,
+      "category": "影视,网红"
+    },
+    {
       "raw_hot": 759975,
       "num": 759975,
       "word": "男子吃自助餐发现餐桌立牌请勿摄像",
@@ -209,6 +217,14 @@
       "onboard_time": 1668347548,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663722,
+      "num": 663722,
+      "word": "元英的原型是纯元吧",
+      "onboard_time": 1668409950,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 657646,
@@ -315,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521212,
+      "num": 513407,
+      "word": "马伯骞版桑延vs漫画版桑延",
+      "onboard_time": 1668412589,
+      "rank": 10,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 518166,
+      "num": 518166,
+      "word": "市民称网红串串店非网红不得入内",
+      "onboard_time": 1668410789,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514691,
       "num": 456651,
       "word": "黄明昊给王鹤棣沈月拍合影",
@@ -329,6 +361,14 @@
       "onboard_time": 1668395787,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 507497,
+      "num": 507497,
+      "word": "大学生在玩一种很新的东西",
+      "onboard_time": 1668409409,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 501285,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425009,
+      "num": 425009,
+      "word": "中美元首巴厘岛会晤",
+      "onboard_time": 1668410848,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 397325,
       "num": 397325,
       "word": "呼和浩特警方通报赛斯基因核酸结果造假",
@@ -507,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374464,
+      "num": 374464,
+      "word": "卿卿日常史上最好的主母",
+      "onboard_time": 1668412290,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374284,
       "num": 374284,
       "word": "赵露思偷偷藏不住原声片花",
@@ -545,14 +601,6 @@
       "onboard_time": 1668410009,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 350830,
-      "num": 350830,
-      "word": "元英的原型是纯元吧",
-      "onboard_time": 1668409950,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 335580,
@@ -603,6 +651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 312817,
+      "num": 312817,
+      "word": "呼吸哥复盘S12",
+      "onboard_time": 1668413248,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
@@ -619,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307083,
+      "num": 307083,
+      "word": "李峋打电话为什么不叫我公主",
+      "onboard_time": 1668411568,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298401,
       "num": 298401,
       "word": "男童受气后牵狗徒步17公里找奶奶",
       "onboard_time": 1668390086,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289017,
-      "num": 289017,
-      "word": "大学生在玩一种很新的东西",
-      "onboard_time": 1668409409,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 285795,
@@ -681,6 +737,14 @@
       "onboard_time": 1668405207,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275916,
+      "num": 275916,
+      "word": "老人去世女子没买到票车站5分钟帮上车",
+      "onboard_time": 1668413428,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 271712,
@@ -819,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224782,
+      "num": 224782,
+      "word": "疑因就餐起冲突男子疯狂殴打多人",
+      "onboard_time": 1668410307,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 223932,
       "num": 223932,
       "word": "这老师是怎么忍住不笑的",
@@ -851,12 +923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215533,
-      "num": 215533,
-      "word": "中美元首巴厘岛会晤",
-      "onboard_time": 1668410848,
-      "rank": 26,
-      "category": "国内要闻"
+      "raw_hot": 211088,
+      "num": 198518,
+      "word": "张婧仪朱韵跑步演技",
+      "onboard_time": 1668411928,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 209162,
@@ -905,6 +977,14 @@
       "onboard_time": 1668385528,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201969,
+      "num": 196518,
+      "word": "8090后的恋爱脑是有迹可循的",
+      "onboard_time": 1668413126,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 200056,
@@ -1027,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161384,
+      "num": 161384,
+      "word": "武磊重现14年前和梅西勾肩搭背",
+      "onboard_time": 1668411928,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160696,
       "num": 160696,
       "word": "每天都会来串门的小奶狗",
@@ -1083,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154573,
-      "num": 128587,
-      "word": "原来papi酱说的这个朋友是秦施",
-      "onboard_time": 1668411088,
-      "rank": 41,
-      "category": "影视,网红"
-    },
-    {
       "raw_hot": 153493,
       "num": 153493,
       "word": "刘美含新剧为田曦薇发声",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146745,
+      "num": 146745,
+      "word": "研究表明老鼠天生会跳舞",
+      "onboard_time": 1668411149,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146063,
@@ -1219,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133650,
+      "num": 133650,
+      "word": "你是懂喝奶茶的快乐的",
+      "onboard_time": 1668413712,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132165,
       "num": 132165,
       "word": "广州番禺区疫情防控",
@@ -1227,12 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131724,
-      "num": 131724,
-      "word": "市民称网红串串店非网红不得入内",
-      "onboard_time": 1668410789,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 131009,
+      "num": 131009,
+      "word": "陈飞宇演赵氏孤儿的原因",
+      "onboard_time": 1668411748,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 129953,
@@ -1275,28 +1371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120893,
-      "num": 120893,
-      "word": "疑因就餐起冲突男子疯狂殴打多人",
-      "onboard_time": 1668410307,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 114773,
-      "num": 114773,
-      "word": "研究表明老鼠天生会跳舞",
-      "onboard_time": 1668411149,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
       "onboard_time": 1668384566,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114404,
+      "num": 114404,
+      "word": "老公应酬酒喝多妻子端来热面",
+      "onboard_time": 1668414449,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112646,
@@ -1331,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109660,
+      "num": 109660,
+      "word": "没想到是这么大的包",
+      "onboard_time": 1668412408,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109587,
       "num": 109587,
       "word": "王鹤棣跳危险派对忘动作",
@@ -1353,6 +1449,22 @@
       "onboard_time": 1668349108,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106173,
+      "num": 106173,
+      "word": "警方回应男子餐馆内打倒多人",
+      "onboard_time": 1668405991,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 105910,
+      "num": 105910,
+      "word": "原神3.2攻略",
+      "onboard_time": 1668413068,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 104890,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1668345870,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96939,
+      "num": 96939,
+      "word": "梅西与阿根廷国家队会合",
+      "onboard_time": 1668413969,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90829,
