@@ -1,0 +1,410 @@
+{
+  "runTime": 1668410468400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3130343,
+        "num": 3130343,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1904793,
+        "num": 1904793,
+        "word": "石家庄致信全体市民",
+        "onboard_time": 1668406889,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5015,
+        "num": 1353127,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1254378,
+        "num": 1254378,
+        "word": "25岁女子被相亲对象前妻剧透得生儿子",
+        "onboard_time": 1668405507,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390793,
+        "num": 1087505,
+        "word": "石家庄回应网传取消全员核酸检测",
+        "onboard_time": 1668407127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745219,
+        "num": 745219,
+        "word": "北京疫情防控",
+        "onboard_time": 1668389290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653600,
+        "num": 653600,
+        "word": "陈鹤一和迪丽热巴演过对手戏",
+        "onboard_time": 1668406531,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533692,
+        "num": 533692,
+        "word": "34岁男子抱父母三胎被误当抱女儿",
+        "onboard_time": 1668404430,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501285,
+        "num": 501285,
+        "word": "河南一男子餐馆内打倒三女性",
+        "onboard_time": 1668405991,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 442663,
+        "num": 442663,
+        "word": "曾黎和赵露思偷偷藏不住再演母女",
+        "onboard_time": 1668410187,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1084748,
+        "num": 441504,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1668382703,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467512,
+        "num": 440683,
+        "word": "辽宁一单位工作人员被举报是逃犯",
+        "onboard_time": 1668406287,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436909,
+        "num": 436909,
+        "word": "女子已生4女儿又怀孕被要求离婚",
+        "onboard_time": 1668386310,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387531,
+        "num": 387531,
+        "word": "鹿晗官宣音乐会嘉宾",
+        "onboard_time": 1668401371,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357667,
+        "num": 357667,
+        "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+        "onboard_time": 1668396629,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327087,
+        "num": 327087,
+        "word": "朝阳区部分区域划为低风险区",
+        "onboard_time": 1668408208,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321908,
+        "num": 321908,
+        "word": "呼和浩特警方通报赛斯基因核酸结果造假",
+        "onboard_time": 1668408688,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315431,
+        "num": 315431,
+        "word": "赵今麦说二手玫瑰的歌太上头了",
+        "onboard_time": 1668407907,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270471,
+        "num": 270471,
+        "word": "狼队Fly获吉尼斯纪录",
+        "onboard_time": 1668405207,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249239,
+        "num": 249239,
+        "word": "妖猫传里有陈飞宇",
+        "onboard_time": 1668392008,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508505,
+        "num": 247462,
+        "word": "石家庄新增本土感染544例",
+        "onboard_time": 1668404069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 228864,
+        "word": "世界杯吉祥物被戏称像馄饨皮",
+        "onboard_time": 1668407308,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209963,
+        "num": 209963,
+        "word": "恋与深空",
+        "onboard_time": 1668403948,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203787,
+        "num": 203787,
+        "word": "中国脱口秀祖师爷黄西去哪儿了",
+        "onboard_time": 1668409765,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202837,
+        "num": 202837,
+        "word": "杨幂在播剧角色反差感",
+        "onboard_time": 1668404189,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195984,
+        "num": 195984,
+        "word": "坤音老板谈杜华给内娱公司排名",
+        "onboard_time": 1668403227,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191368,
+        "num": 191368,
+        "word": "白敬亭尹峥原型是雍正",
+        "onboard_time": 1668396928,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190608,
+        "num": 190608,
+        "word": "大学生在玩一种很新的东西",
+        "onboard_time": 1668409409,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162835,
+        "num": 162835,
+        "word": "老人地铁上不顾劝阻用刀削苹果",
+        "onboard_time": 1668401491,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "老父爱子同患重症80后男子崩溃大哭",
+        "onboard_time": 1668402570,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226457,
+        "num": 158182,
+        "word": "元英的原型是纯元吧",
+        "onboard_time": 1668409950,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187654,
+        "num": 157687,
+        "word": "施情华意要来了",
+        "onboard_time": 1668407429,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173503,
+        "num": 156570,
+        "word": "脱口秀大会5总决赛节目单",
+        "onboard_time": 1668403830,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163973,
+        "num": 155933,
+        "word": "前YG社长杨贤硕有期徒刑3年",
+        "onboard_time": 1668391706,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155290,
+        "num": 155290,
+        "word": "这就是小猫养小猫吧",
+        "onboard_time": 1668404848,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153130,
+        "num": 153130,
+        "word": "经常不吃早饭可能诱发胆囊炎",
+        "onboard_time": 1668404249,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149927,
+        "num": 149927,
+        "word": "广州新增本土感染者4065例",
+        "onboard_time": 1668392008,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143794,
+        "num": 143794,
+        "word": "马斯克突然开除80%推特合同工",
+        "onboard_time": 1668389247,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140798,
+        "num": 140798,
+        "word": "G20巴厘岛峰会",
+        "onboard_time": 1668410009,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28479,
+        "num": 139148,
+        "word": "糖尿病患者能买什么保险",
+        "onboard_time": 1668409230,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141925,
+        "num": 138774,
+        "word": "方志靖命韵峋环最佳助攻",
+        "onboard_time": 1668408390,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138284,
+        "num": 138284,
+        "word": "倪妮海藻卷发",
+        "onboard_time": 1668397165,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134376,
+        "num": 134376,
+        "word": "睡眠不足真的会发胖",
+        "onboard_time": 1668392788,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127135,
+        "num": 127135,
+        "word": "65岁老人救跳河轻生女子不幸牺牲",
+        "onboard_time": 1668402451,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125611,
+        "num": 125611,
+        "word": "航天员在太空拆快递是什么感受",
+        "onboard_time": 1668410367,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 121124,
+        "num": 121124,
+        "word": "当粉扑被狗子咬坏",
+        "onboard_time": 1668410009,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120893,
+        "num": 120893,
+        "word": "疑因就餐起冲突男子疯狂殴打多人",
+        "onboard_time": 1668410307,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118537,
+        "num": 118537,
+        "word": "父亲婚礼致辞紧张到全身发抖",
+        "onboard_time": 1668397287,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112189,
+        "num": 112189,
+        "word": "95后宝妈带1岁大宝宝上班",
+        "onboard_time": 1668392967,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110057,
+        "num": 110057,
+        "word": "小组棕宠物用品店被罚50万元",
+        "onboard_time": 1668408749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
