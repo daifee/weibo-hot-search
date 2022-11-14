@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668392958783,
+  "endTime": 1668397075406,
   "band_list": [
     {
       "raw_hot": 2341915,
@@ -25,6 +25,14 @@
       "onboard_time": 1668382703,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1301871,
+      "num": 1301871,
+      "word": "妖猫传里有陈飞宇",
+      "onboard_time": 1668392008,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1181054,
@@ -57,6 +65,14 @@
       "onboard_time": 1668349292,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014339,
+      "num": 797829,
+      "word": "金韩彬",
+      "onboard_time": 1668394526,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1005497,
@@ -155,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561456,
-      "num": 457628,
-      "word": "妖猫传里有陈飞宇",
-      "onboard_time": 1668392008,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 536254,
+      "num": 536254,
+      "word": "女子老房拆迁挖出千年古墓",
+      "onboard_time": 1668390868,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521940,
@@ -179,11 +195,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495481,
+      "num": 374960,
+      "word": "赵丽颖欧豪风吹半夏开始预约",
+      "onboard_time": 1668395427,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483868,
       "num": 483868,
       "word": "重庆四区75%新增在社会面发现",
       "onboard_time": 1668350972,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477197,
+      "num": 477197,
+      "word": "首批新员工抵达郑州富士康",
+      "onboard_time": 1668390747,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465394,
+      "num": 465394,
+      "word": "睡眠不足真的会发胖",
+      "onboard_time": 1668392788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457641,
       "num": 457641,
       "word": "我国每年约28万人因糖尿病足截肢",
@@ -216,14 +256,6 @@
       "word": "用不明液体泼洒路人2男子被拘",
       "onboard_time": 1668387450,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424604,
-      "num": 424604,
-      "word": "首批新员工抵达郑州富士康",
-      "onboard_time": 1668390747,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314802,
+      "num": 314802,
+      "word": "苹果混合现实头显或明年发布",
+      "onboard_time": 1668392369,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
@@ -299,11 +339,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302849,
-      "num": 302849,
-      "word": "女子老房拆迁挖出千年古墓",
-      "onboard_time": 1668390868,
-      "rank": 46,
+      "raw_hot": 306181,
+      "num": 306181,
+      "word": "白血病男子术后6年还清70万治病钱",
+      "onboard_time": 1668391767,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -313,6 +353,14 @@
       "onboard_time": 1668390086,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293015,
+      "num": 293015,
+      "word": "大学寝室被李峋包围",
+      "onboard_time": 1668396147,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285795,
@@ -339,6 +387,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281282,
+      "num": 281282,
+      "word": "广州新增本土感染者4065例",
+      "onboard_time": 1668392008,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279109,
+      "num": 279109,
+      "word": "95后宝妈带1岁大宝宝上班",
+      "onboard_time": 1668392967,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -353,6 +417,14 @@
       "onboard_time": 1668374710,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 262097,
+      "num": 262097,
+      "word": "这锅包肉能全国巡炒吗",
+      "onboard_time": 1668395787,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 254267,
@@ -371,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246515,
+      "num": 246515,
+      "word": "张震岳被路人叫热狗的反应",
+      "onboard_time": 1668393266,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241625,
       "num": 241625,
       "word": "朱韵亲了李峋左脸",
@@ -387,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233009,
+      "num": 233009,
+      "word": "时代少年团新歌百忧戒歌词",
+      "onboard_time": 1668394766,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231745,
       "num": 231745,
       "word": "白敬亭六少主尹峥的老六行为",
@@ -401,6 +489,14 @@
       "onboard_time": 1668384091,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217109,
+      "num": 217109,
+      "word": "宁艺卓练习室舞蹈视频",
+      "onboard_time": 1668393866,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216657,
@@ -459,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203764,
+      "num": 203764,
+      "word": "白敬亭尹峥原型是雍正",
+      "onboard_time": 1668396928,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201596,
+      "num": 201596,
+      "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+      "onboard_time": 1668396629,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189781,
       "num": 189781,
       "word": "小男孩展示自家红薯库惊呆网友",
@@ -483,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172056,
+      "num": 172056,
+      "word": "严浩翔新歌百忧戒音色",
+      "onboard_time": 1668394827,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171814,
       "num": 171814,
       "word": "男子结婚表弟随礼千枚硬币",
@@ -491,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167987,
-      "num": 167987,
-      "word": "广州新增本土感染者4065例",
-      "onboard_time": 1668392008,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 167371,
+      "num": 167371,
+      "word": "篮网vs湖人",
+      "onboard_time": 1668395907,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 166507,
@@ -579,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144652,
-      "num": 144652,
-      "word": "白血病男子术后6年还清70万治病钱",
-      "onboard_time": 1668391767,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 149390,
+      "num": 149390,
+      "word": "加兰51分",
+      "onboard_time": 1668393385,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 144010,
@@ -627,12 +747,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141524,
-      "num": 141524,
-      "word": "苹果混合现实头显或明年发布",
-      "onboard_time": 1668392369,
-      "rank": 40,
-      "category": "科技"
+      "raw_hot": 140347,
+      "num": 140347,
+      "word": "快乐减肥这样做就够了",
+      "onboard_time": 1668396988,
+      "rank": 41,
+      "category": "体育,情感"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 134948,
+      "word": "点燃我温暖你方志靖被李峋秒打脸",
+      "onboard_time": 1668393989,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 134788,
+      "num": 134788,
+      "word": "这老师是怎么忍住不笑的",
+      "onboard_time": 1668396028,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 134500,
@@ -659,20 +795,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 121664,
+      "num": 121664,
+      "word": "恩比德59分",
+      "onboard_time": 1668396568,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121475,
       "num": 121475,
       "word": "金融16条支持房地产",
       "onboard_time": 1668356365,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117383,
-      "num": 117383,
-      "word": "睡眠不足真的会发胖",
-      "onboard_time": 1668392788,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114606,
@@ -689,6 +825,14 @@
       "onboard_time": 1668351034,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110635,
+      "num": 110635,
+      "word": "苹果隔空投送限制选项将全球推出",
+      "onboard_time": 1668396988,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 110588,

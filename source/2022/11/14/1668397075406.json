@@ -1,0 +1,410 @@
+{
+  "runTime": 1668397075406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301871,
+        "num": 1301871,
+        "word": "妖猫传里有陈飞宇",
+        "onboard_time": 1668392008,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1012211,
+        "num": 1012211,
+        "word": "前YG社长杨贤硕有期徒刑3年",
+        "onboard_time": 1668391706,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 9720,
+        "num": 802654,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1014339,
+        "num": 797829,
+        "word": "金韩彬",
+        "onboard_time": 1668394526,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792826,
+        "num": 792826,
+        "word": "马斯克突然开除80%推特合同工",
+        "onboard_time": 1668389247,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 712446,
+        "num": 712446,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1668382703,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536254,
+        "num": 536254,
+        "word": "女子老房拆迁挖出千年古墓",
+        "onboard_time": 1668390868,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477197,
+        "num": 477197,
+        "word": "首批新员工抵达郑州富士康",
+        "onboard_time": 1668390747,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465394,
+        "num": 465394,
+        "word": "睡眠不足真的会发胖",
+        "onboard_time": 1668392788,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394709,
+        "num": 394709,
+        "word": "广东新增本土感染者4160例",
+        "onboard_time": 1668388949,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1542090,
+        "num": 387334,
+        "word": "女子已生4女儿又怀孕被要求离婚",
+        "onboard_time": 1668386310,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495481,
+        "num": 374960,
+        "word": "赵丽颖欧豪风吹半夏开始预约",
+        "onboard_time": 1668395427,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344191,
+        "num": 344191,
+        "word": "8岁男童右眼感染20多条螨虫",
+        "onboard_time": 1668382644,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314802,
+        "num": 314802,
+        "word": "苹果混合现实头显或明年发布",
+        "onboard_time": 1668392369,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306181,
+        "num": 306181,
+        "word": "白血病男子术后6年还清70万治病钱",
+        "onboard_time": 1668391767,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297631,
+        "num": 297631,
+        "word": "医生飞针采血被赞蚊子投胎",
+        "onboard_time": 1668389127,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294035,
+        "num": 294035,
+        "word": "男童受气后牵狗徒步17公里找奶奶",
+        "onboard_time": 1668390086,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293015,
+        "num": 293015,
+        "word": "大学寝室被李峋包围",
+        "onboard_time": 1668396147,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292368,
+        "num": 292368,
+        "word": "陈玘",
+        "onboard_time": 1668384091,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281282,
+        "num": 281282,
+        "word": "广州新增本土感染者4065例",
+        "onboard_time": 1668392008,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279109,
+        "num": 279109,
+        "word": "95后宝妈带1岁大宝宝上班",
+        "onboard_time": 1668392967,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275116,
+        "num": 275116,
+        "word": "C罗炮轰曼联",
+        "onboard_time": 1668383123,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268376,
+        "num": 268376,
+        "word": "黄明昊给王鹤棣沈月拍合影",
+        "onboard_time": 1668388108,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262097,
+        "num": 262097,
+        "word": "这锅包肉能全国巡炒吗",
+        "onboard_time": 1668395787,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259609,
+        "num": 259609,
+        "word": "北京新增48例社会面",
+        "onboard_time": 1668387028,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250318,
+        "num": 250318,
+        "word": "重庆新增本土确诊150例无症状2147例",
+        "onboard_time": 1668388407,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246515,
+        "num": 246515,
+        "word": "张震岳被路人叫热狗的反应",
+        "onboard_time": 1668393266,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233009,
+        "num": 233009,
+        "word": "时代少年团新歌百忧戒歌词",
+        "onboard_time": 1668394766,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217109,
+        "num": 217109,
+        "word": "宁艺卓练习室舞蹈视频",
+        "onboard_time": 1668393866,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211052,
+        "num": 211052,
+        "word": "用不明液体泼洒路人2男子被拘",
+        "onboard_time": 1668387450,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217044,
+        "num": 210784,
+        "word": "海边的高圆圆",
+        "onboard_time": 1668388169,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208102,
+        "num": 208102,
+        "word": "北京疫情防控",
+        "onboard_time": 1668389290,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203764,
+        "num": 203764,
+        "word": "白敬亭尹峥原型是雍正",
+        "onboard_time": 1668396928,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201596,
+        "num": 201596,
+        "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+        "onboard_time": 1668396629,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186716,
+        "num": 186716,
+        "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+        "onboard_time": 1668348989,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179129,
+        "num": 179129,
+        "word": "这下不想养猫了",
+        "onboard_time": 1668384989,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172970,
+        "num": 172970,
+        "word": "我国每年约28万人因糖尿病足截肢",
+        "onboard_time": 1668385167,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172056,
+        "num": 172056,
+        "word": "严浩翔新歌百忧戒音色",
+        "onboard_time": 1668394827,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167371,
+        "num": 167371,
+        "word": "篮网vs湖人",
+        "onboard_time": 1668395907,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149390,
+        "num": 149390,
+        "word": "加兰51分",
+        "onboard_time": 1668393385,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145334,
+        "num": 145334,
+        "word": "广州地铁",
+        "onboard_time": 1668383667,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140347,
+        "num": 140347,
+        "word": "快乐减肥这样做就够了",
+        "onboard_time": 1668396988,
+        "rank": 41,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 140252,
+        "num": 140252,
+        "word": "Lisa获奖感言视频",
+        "onboard_time": 1668389969,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138358,
+        "num": 138358,
+        "word": "SEVENTEEN首获EMA双冠王",
+        "onboard_time": 1668392847,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134948,
+        "num": 134948,
+        "word": "点燃我温暖你方志靖被李峋秒打脸",
+        "onboard_time": 1668393989,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134788,
+        "num": 134788,
+        "word": "这老师是怎么忍住不笑的",
+        "onboard_time": 1668396028,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134290,
+        "num": 134290,
+        "word": "女子为减肥绑牙齿让嘴巴闭合",
+        "onboard_time": 1668363915,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121664,
+        "num": 121664,
+        "word": "恩比德59分",
+        "onboard_time": 1668396568,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120767,
+        "num": 120767,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1668349292,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110635,
+        "num": 110635,
+        "word": "苹果隔空投送限制选项将全球推出",
+        "onboard_time": 1668396988,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}
