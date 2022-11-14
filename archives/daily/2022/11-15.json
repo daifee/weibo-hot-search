@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668468121585,
+  "endTime": 1668469038545,
   "band_list": [
     {
       "raw_hot": 1909040,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 789881,
-      "num": 789881,
+      "raw_hot": 969346,
+      "num": 969346,
       "word": "90后女子上班坚持12年装50岁大妈",
       "onboard_time": 1668438571,
       "rank": 1,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424115,
+      "num": 424115,
+      "word": "淀粉加伟哥赚200倍暴利团伙被捕",
+      "onboard_time": 1668450314,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385542,
       "num": 160750,
       "word": "陈飞宇拍完吻戏问张婧仪害羞了吗",
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374686,
+      "num": 195946,
+      "word": "中国男篮战胜巴林男篮",
+      "onboard_time": 1668467727,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362796,
       "num": 362796,
       "word": "广州多区延续强化疫情防控措施",
@@ -91,16 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319188,
-      "num": 319188,
-      "word": "淀粉加伟哥赚200倍暴利团伙被捕",
-      "onboard_time": 1668450314,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316181,
-      "num": 316181,
+      "raw_hot": 361426,
+      "num": 361426,
       "word": "大量肥美海肠被大风吹上海滩",
       "onboard_time": 1668459251,
       "rank": 47,
@@ -113,6 +121,14 @@
       "onboard_time": 1668434433,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276393,
+      "num": 276393,
+      "word": "交大博士晒毕业照男女比例扎心",
+      "onboard_time": 1668452833,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274713,
@@ -147,6 +163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 211425,
+      "num": 211425,
+      "word": "8岁女孩带小鸡仔在跑步机上锻炼",
+      "onboard_time": 1668441806,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209729,
       "num": 209729,
       "word": "中美两国元首致开场白",
@@ -155,11 +179,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 208608,
-      "num": 208608,
-      "word": "8岁女孩带小鸡仔在跑步机上锻炼",
-      "onboard_time": 1668441806,
-      "rank": 36,
+      "raw_hot": 209700,
+      "num": 209700,
+      "word": "北京疫情进展呈现上升态势",
+      "onboard_time": 1668425669,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -179,12 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182017,
-      "num": 182017,
+      "raw_hot": 196724,
+      "num": 196724,
       "word": "男生第1次自己买衣服是什么体验",
       "onboard_time": 1668429505,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183921,
+      "num": 183921,
+      "word": "台湾问题是中美关系政治基础中的基础",
+      "onboard_time": 1668460931,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 181360,
@@ -195,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181055,
-      "num": 181055,
-      "word": "北京疫情进展呈现上升态势",
-      "onboard_time": 1668425669,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169914,
       "num": 169914,
       "word": "杨幂秦施进电梯动图",
@@ -211,16 +235,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166270,
-      "num": 166270,
-      "word": "交大博士晒毕业照男女比例扎心",
-      "onboard_time": 1668452833,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164084,
-      "num": 164084,
+      "raw_hot": 166000,
+      "num": 166000,
       "word": "中国高血压诊断界值下调",
       "onboard_time": 1668461170,
       "rank": 16,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160139,
+      "num": 160139,
+      "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
+      "onboard_time": 1668445699,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158488,
       "num": 158488,
       "word": "真正的爱情从来都不会理智",
@@ -267,20 +291,12 @@
       "category": "影视,体育"
     },
     {
-      "raw_hot": 149363,
-      "num": 131246,
+      "raw_hot": 151456,
+      "num": 151456,
       "word": "秦施阳华无证离婚",
       "onboard_time": 1668432870,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148964,
-      "num": 148964,
-      "word": "台湾问题是中美关系政治基础中的基础",
-      "onboard_time": 1668460931,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 143114,
@@ -331,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131225,
+      "num": 131225,
+      "word": "我国首次截获全球新物种",
+      "onboard_time": 1668468501,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -355,20 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117989,
-      "num": 117989,
-      "word": "中国男篮战胜巴林男篮",
-      "onboard_time": 1668467727,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113876,
-      "num": 113876,
-      "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
-      "onboard_time": 1668445699,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 110182,
+      "num": 110182,
+      "word": "肖战顾魏V榜角色指数峰值TOP1",
+      "onboard_time": 1668431369,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106594,
@@ -411,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92866,
-      "num": 92866,
-      "word": "肖战顾魏V榜角色指数峰值TOP1",
-      "onboard_time": 1668431369,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88562,
       "num": 88562,
       "word": "石家庄调整防疫举措决不是全面放开",
@@ -435,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84695,
+      "num": 84695,
+      "word": "广东农民工夫妻带娃租7年的房",
+      "onboard_time": 1668448877,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83991,
       "num": 83991,
       "word": "每个人都是自己健康的第一责任人",
@@ -443,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83157,
-      "num": 83157,
-      "word": "广东农民工夫妻带娃租7年的房",
-      "onboard_time": 1668448877,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 76923,
+      "num": 76923,
+      "word": "哇唧唧哇男团喊话老板涨工资",
+      "onboard_time": 1668447077,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72495,
+      "num": 72495,
+      "word": "男人遭遇背叛有多狠",
+      "onboard_time": 1668468693,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 72310,
@@ -467,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65137,
+      "num": 65137,
+      "word": "宝妈买爱他美奶粉开罐遇活虫",
+      "onboard_time": 1668455651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64786,
       "num": 64786,
       "word": "中美领导人要起到把舵定向作用",
       "onboard_time": 1668422909,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 63709,
+      "num": 63709,
+      "word": "男篮世预赛",
+      "onboard_time": 1668468864,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 61918,
@@ -483,28 +523,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 60305,
-      "num": 60305,
-      "word": "宝妈买爱他美奶粉开罐遇活虫",
-      "onboard_time": 1668455651,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59082,
       "num": 59082,
       "word": "不会点幻术都不敢这样拍",
       "onboard_time": 1668443724,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 54894,
-      "num": 51259,
-      "word": "哇唧唧哇男团喊话老板涨工资",
-      "onboard_time": 1668447077,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 39863,
@@ -555,20 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 8601,
+      "num": 579521,
+      "word": "200秒速览G20峰会看点",
+      "onboard_time": 1668395608,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 8160,
       "num": 9272,
       "word": "朱韵心疼抱住李峋",
       "onboard_time": 1668458111,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 8111,
-      "num": 579521,
-      "word": "200秒速览G20峰会看点",
-      "onboard_time": 1668395608,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 8010,
