@@ -1,21 +1,21 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668400895150,
+  "endTime": 1668401865929,
   "band_list": [
+    {
+      "raw_hot": 3205475,
+      "num": 3205475,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1668382703,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2341915,
       "num": 458537,
       "word": "女子已生4女儿又怀孕被要求离婚",
       "onboard_time": 1668386310,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2141799,
-      "num": 2141799,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1668382703,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -27,7 +27,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1476357,
+      "raw_hot": 1744595,
       "num": 1476357,
       "word": "北京朝阳区部分核酸检测点临时关闭",
       "onboard_time": 1668397769,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673812,
+      "num": 673812,
+      "word": "鹿晗官宣音乐会嘉宾",
+      "onboard_time": 1668401371,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 657646,
       "num": 657646,
       "word": "北京新增48例社会面",
@@ -161,6 +169,14 @@
       "onboard_time": 1668388949,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599212,
+      "num": 411158,
+      "word": "白敬亭尹峥原型是雍正",
+      "onboard_time": 1668396928,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 588005,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522673,
+      "num": 522673,
+      "word": "父亲婚礼致辞紧张到全身发抖",
+      "onboard_time": 1668397287,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521940,
       "num": 521940,
       "word": "多喝热水少喝冰水真的健康吗",
@@ -233,14 +257,6 @@
       "onboard_time": 1668395787,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 507166,
-      "num": 411158,
-      "word": "白敬亭尹峥原型是雍正",
-      "onboard_time": 1668396928,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 495505,
@@ -315,16 +331,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418409,
-      "num": 418409,
-      "word": "父亲婚礼致辞紧张到全身发抖",
-      "onboard_time": 1668397287,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 432219,
+      "num": 330871,
+      "word": "乒乓球世界冠军朱雨玲病愈归来",
+      "onboard_time": 1668399690,
+      "rank": 17,
+      "category": "体育"
     },
     {
-      "raw_hot": 409880,
-      "num": 409880,
+      "raw_hot": 432125,
+      "num": 432125,
       "word": "广州新增本土感染者4065例",
       "onboard_time": 1668392008,
       "rank": 34,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359101,
+      "num": 310742,
+      "word": "陈采尼金鸡奖点评",
+      "onboard_time": 1668397949,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353208,
       "num": 353208,
       "word": "陈飞宇英语口语水平",
@@ -395,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330871,
-      "num": 330871,
-      "word": "乒乓球世界冠军朱雨玲病愈归来",
-      "onboard_time": 1668399690,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 333413,
+      "num": 200629,
+      "word": "偷偷藏不住全员杀青照",
+      "onboard_time": 1668400712,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 330030,
@@ -409,14 +433,6 @@
       "onboard_time": 1668349170,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 329825,
-      "num": 310742,
-      "word": "陈采尼金鸡奖点评",
-      "onboard_time": 1668397949,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 329425,
@@ -443,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304626,
-      "num": 304626,
+      "raw_hot": 309898,
+      "num": 309898,
       "word": "95后宝妈带1岁大宝宝上班",
       "onboard_time": 1668392967,
       "rank": 20,
@@ -483,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273163,
-      "num": 200629,
-      "word": "偷偷藏不住全员杀青照",
-      "onboard_time": 1668400712,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -507,20 +515,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 264165,
+      "num": 197885,
+      "word": "杨幂许凯新剧反差感恋爱",
+      "onboard_time": 1668400410,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260913,
       "num": 260913,
       "word": "张震岳被路人叫热狗的反应",
       "onboard_time": 1668393266,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257937,
-      "num": 197885,
-      "word": "杨幂许凯新剧反差感恋爱",
-      "onboard_time": 1668400410,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 254267,
@@ -587,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229155,
+      "num": 229155,
+      "word": "篮网vs湖人",
+      "onboard_time": 1668395907,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223932,
+      "num": 223932,
+      "word": "这老师是怎么忍住不笑的",
+      "onboard_time": 1668396028,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "宁艺卓练习室舞蹈视频",
@@ -617,14 +641,6 @@
       "onboard_time": 1668352649,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208229,
-      "num": 208229,
-      "word": "篮网vs湖人",
-      "onboard_time": 1668395907,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 207123,
@@ -659,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202827,
-      "num": 202827,
-      "word": "这老师是怎么忍住不笑的",
-      "onboard_time": 1668396028,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 200056,
+      "num": 179379,
+      "word": "时代少年团新歌与奥特曼适配度",
+      "onboard_time": 1668397648,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 189781,
@@ -691,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183590,
-      "num": 179379,
-      "word": "时代少年团新歌与奥特曼适配度",
-      "onboard_time": 1668397648,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 176238,
+      "num": 176238,
+      "word": "橄榄球赛韩国站播错中国国歌",
+      "onboard_time": 1668399389,
+      "rank": 44,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 172056,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164155,
+      "num": 164155,
+      "word": "苹果开发搜索引擎",
+      "onboard_time": 1668398848,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 163353,
       "num": 163353,
       "word": "北京提倡疫情期间减少非必要外出",
@@ -747,28 +771,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160305,
+      "num": 160305,
+      "word": "点燃我温暖你片尾鸣谢后厨组",
+      "onboard_time": 1668400773,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159086,
       "num": 159086,
       "word": "特斯拉称警方正寻求第三方鉴定",
       "onboard_time": 1668342566,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157883,
-      "num": 157883,
-      "word": "橄榄球赛韩国站播错中国国歌",
-      "onboard_time": 1668399389,
-      "rank": 44,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 156441,
-      "num": 156441,
-      "word": "苹果开发搜索引擎",
-      "onboard_time": 1668398848,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 156342,
@@ -865,6 +881,14 @@
       "onboard_time": 1668390686,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141194,
+      "num": 141194,
+      "word": "每天都会来串门的小奶狗",
+      "onboard_time": 1668401371,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 140347,
