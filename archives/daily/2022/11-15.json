@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668458349394,
+  "endTime": 1668460848815,
   "band_list": [
     {
       "raw_hot": 1909040,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 20475,
+      "num": 20475,
+      "word": "宝妈买爱他美奶粉开罐遇活虫",
+      "onboard_time": 1668455651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15491,
       "num": 15491,
       "word": "用吃饭掩饰尴尬的猫咪",
@@ -475,11 +483,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 13717,
-      "num": 13717,
-      "word": "宝妈买爱他美奶粉开罐遇活虫",
-      "onboard_time": 1668455651,
-      "rank": 39,
+      "raw_hot": 13246,
+      "num": 13246,
+      "word": "糖尿病不能根治",
+      "onboard_time": 1668459791,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 8846,
+      "num": 8846,
+      "word": "大量肥美海肠被大风吹上海滩",
+      "onboard_time": 1668459251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8160,
       "num": 9272,
       "word": "朱韵心疼抱住李峋",
@@ -521,6 +537,14 @@
       "onboard_time": 1668395608,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8010,
+      "num": 8838,
+      "word": "预计到15日全球人口将达80亿",
+      "onboard_time": 1668459491,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
