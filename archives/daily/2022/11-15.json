@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668461854037,
+  "endTime": 1668464850018,
   "band_list": [
     {
       "raw_hot": 1909040,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130888,
+      "num": 130888,
+      "word": "大量肥美海肠被大风吹上海滩",
+      "onboard_time": 1668459251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 94691,
-      "num": 38131,
+      "num": 46209,
       "word": "淀粉加伟哥赚200倍暴利团伙被捕",
       "onboard_time": 1668450314,
       "rank": 49,
@@ -435,11 +443,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50403,
+      "num": 27427,
+      "word": "台湾问题是中美关系政治基础中的基础",
+      "onboard_time": 1668460931,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 46235,
       "num": 46235,
       "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
       "onboard_time": 1668445699,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44087,
+      "num": 44087,
+      "word": "交大博士晒毕业照男女比例扎心",
+      "onboard_time": 1668452833,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -451,11 +475,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43028,
-      "num": 23118,
-      "word": "交大博士晒毕业照男女比例扎心",
-      "onboard_time": 1668452833,
-      "rank": 48,
+      "raw_hot": 42079,
+      "num": 42079,
+      "word": "中国高血压诊断界值下调",
+      "onboard_time": 1668461170,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29602,
+      "num": 29602,
+      "word": "糖尿病不能根治",
+      "onboard_time": 1668459791,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -467,27 +499,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 22903,
-      "num": 22903,
+      "raw_hot": 25123,
+      "num": 25123,
       "word": "宝妈买爱他美奶粉开罐遇活虫",
       "onboard_time": 1668455651,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18017,
-      "num": 18017,
-      "word": "大量肥美海肠被大风吹上海滩",
-      "onboard_time": 1668459251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16343,
-      "num": 16343,
-      "word": "糖尿病不能根治",
-      "onboard_time": 1668459791,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -505,14 +521,6 @@
       "onboard_time": 1668453553,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 12250,
-      "num": 12250,
-      "word": "台湾问题是中美关系政治基础中的基础",
-      "onboard_time": 1668460931,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 10271,
