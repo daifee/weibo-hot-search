@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668404602777,
+  "endTime": 1668407358158,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2509438,
-      "num": 2509438,
+      "raw_hot": 3943176,
+      "num": 3943176,
       "word": "多地取消区域全员核酸检测",
       "onboard_time": 1668402750,
       "rank": 1,
@@ -83,6 +83,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1090808,
+      "num": 555322,
+      "word": "北京疫情防控",
+      "onboard_time": 1668389290,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078981,
       "num": 1078981,
       "word": "乌鲁木齐疫情防控",
@@ -113,6 +121,14 @@
       "onboard_time": 1668401371,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 963735,
+      "num": 963735,
+      "word": "石家庄新增本土感染544例",
+      "onboard_time": 1668404069,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759975,
@@ -168,6 +184,14 @@
       "word": "北京新增48例社会面",
       "onboard_time": 1668387028,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617211,
+      "num": 411124,
+      "word": "25岁女子被相亲对象前妻剧透得生儿子",
+      "onboard_time": 1668405507,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -233,6 +257,22 @@
       "onboard_time": 1668390868,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554562,
+      "num": 554562,
+      "word": "34岁男子抱父母三胎被误当抱女儿",
+      "onboard_time": 1668404430,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528528,
+      "num": 528528,
+      "word": "陈鹤一和迪丽热巴演过对手戏",
+      "onboard_time": 1668406531,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 522673,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441275,
+      "num": 441275,
+      "word": "老人地铁上不顾劝阻用刀削苹果",
+      "onboard_time": 1668401491,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437915,
       "num": 437915,
       "word": "用不明液体泼洒路人2男子被拘",
@@ -352,14 +400,6 @@
       "word": "广州新增本土感染者4065例",
       "onboard_time": 1668392008,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400175,
-      "num": 400175,
-      "word": "北京疫情防控",
-      "onboard_time": 1668389290,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375574,
-      "num": 375574,
-      "word": "老人地铁上不顾劝阻用刀削苹果",
-      "onboard_time": 1668401491,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 374284,
+      "num": 374284,
+      "word": "赵露思偷偷藏不住原声片花",
+      "onboard_time": 1668404789,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 359101,
@@ -433,6 +473,14 @@
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338888,
+      "num": 338888,
+      "word": "河南一男子餐馆内打倒三女性",
+      "onboard_time": 1668405991,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 335580,
@@ -523,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281728,
+      "num": 281728,
+      "word": "恋与深空",
+      "onboard_time": 1668403948,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278822,
       "num": 187407,
       "word": "杨幂在播剧角色反差感",
@@ -548,7 +604,7 @@
     },
     {
       "raw_hot": 265747,
-      "num": 171071,
+      "num": 230905,
       "word": "脱口秀大会5总决赛节目单",
       "onboard_time": 1668403830,
       "rank": 32,
@@ -571,11 +627,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257817,
-      "num": 257817,
-      "word": "恋与深空",
-      "onboard_time": 1668403948,
-      "rank": 18,
+      "raw_hot": 256066,
+      "num": 256066,
+      "word": "狼队Fly获吉尼斯纪录",
+      "onboard_time": 1668405207,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -584,6 +640,14 @@
       "word": "广州地铁",
       "onboard_time": 1668383667,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252844,
+      "num": 157839,
+      "word": "辽宁一单位工作人员被举报是逃犯",
+      "onboard_time": 1668406287,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -659,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228141,
+      "num": 204296,
+      "word": "杨幂新剧事业心好强",
+      "onboard_time": 1668406708,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223932,
       "num": 223932,
       "word": "这老师是怎么忍住不笑的",
@@ -689,6 +761,14 @@
       "onboard_time": 1668348208,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214902,
+      "num": 214902,
+      "word": "石家庄致信全体市民",
+      "onboard_time": 1668406889,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209162,
@@ -779,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175381,
+      "num": 175381,
+      "word": "65岁老人救跳河轻生女子不幸牺牲",
+      "onboard_time": 1668402451,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 172056,
       "num": 172056,
       "word": "严浩翔新歌百忧戒音色",
@@ -793,14 +881,6 @@
       "onboard_time": 1668381438,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167548,
-      "num": 167548,
-      "word": "65岁老人救跳河轻生女子不幸牺牲",
-      "onboard_time": 1668402451,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 166507,
@@ -867,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157878,
+      "num": 157878,
+      "word": "石家庄回应网传取消全员核酸检测",
+      "onboard_time": 1668407127,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156342,
       "num": 156342,
       "word": "卿卿日常",
@@ -907,20 +995,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151068,
-      "num": 151068,
-      "word": "石家庄新增本土感染544例",
-      "onboard_time": 1668404069,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "加兰51分",
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 125020,
+      "word": "时代少年团分享戒掉忧愁的办法",
+      "onboard_time": 1668405389,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 144010,
@@ -1019,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130594,
-      "num": 130594,
-      "word": "34岁男子抱父母三胎被误当抱女儿",
-      "onboard_time": 1668404430,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129953,
       "num": 129953,
       "word": "湖人战胜篮网",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1668328529,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 124980,
+      "num": 124980,
+      "word": "这就是小猫养小猫吧",
+      "onboard_time": 1668404848,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 121475,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1668345870,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92638,
+      "num": 92638,
+      "word": "世界杯吉祥物被戏称像馄饨皮",
+      "onboard_time": 1668407308,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86453,
