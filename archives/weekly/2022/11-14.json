@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668434531768,
+  "endTime": 1668435925259,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -105,6 +105,14 @@
       "onboard_time": 1668392008,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1257641,
+      "num": 455016,
+      "word": "金泰妍确诊感染新冠",
+      "onboard_time": 1668434433,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1254378,
@@ -227,14 +235,6 @@
       "category": "影视,网红"
     },
     {
-      "raw_hot": 911908,
-      "num": 415036,
-      "word": "金泰妍确诊感染新冠",
-      "onboard_time": 1668434433,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 878261,
       "num": 878261,
       "word": "班主任出嫁全班男生爬墙堵门",
@@ -256,6 +256,14 @@
       "word": "200斤女主播同时交往10位男粉丝",
       "onboard_time": 1668419308,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806902,
+      "num": 806902,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1668334110,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1668398127,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 702977,
-      "num": 702977,
-      "word": "广州海珠区疫情防控",
-      "onboard_time": 1668334110,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697827,
@@ -353,6 +353,14 @@
       "onboard_time": 1668409950,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 659849,
+      "num": 450372,
+      "word": "中美两国元首致开场白",
+      "onboard_time": 1668430949,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 657646,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470911,
+      "num": 470911,
+      "word": "秦施阳华无证离婚",
+      "onboard_time": 1668432870,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470281,
       "num": 470281,
       "word": "重庆新增本土确诊150例无症状2147例",
@@ -657,6 +673,14 @@
       "onboard_time": 1668421290,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463576,
+      "num": 463576,
+      "word": "2024年巴黎奥运会吉祥物",
+      "onboard_time": 1668431971,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 459695,
@@ -691,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436230,
+      "num": 436230,
+      "word": "网友提名的2022十大爆剧",
+      "onboard_time": 1668430408,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432219,
       "num": 379612,
       "word": "乒乓球世界冠军朱雨玲病愈归来",
@@ -704,6 +736,14 @@
       "word": "广州新增本土感染者4065例",
       "onboard_time": 1668392008,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431977,
+      "num": 431977,
+      "word": "学校门口买的圆珠笔暗藏真刀",
+      "onboard_time": 1668431850,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -763,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399892,
-      "num": 399892,
-      "word": "网友提名的2022十大爆剧",
-      "onboard_time": 1668430408,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 397325,
       "num": 397325,
       "word": "呼和浩特警方通报赛斯基因核酸结果造假",
@@ -803,22 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391995,
-      "num": 269745,
-      "word": "秦施阳华无证离婚",
-      "onboard_time": 1668432870,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 389319,
-      "num": 389319,
-      "word": "中美两国元首致开场白",
-      "onboard_time": 1668430949,
-      "rank": 26,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 388762,
       "num": 388762,
       "word": "深圳痛经假经确诊可休1到2天",
@@ -841,14 +857,6 @@
       "onboard_time": 1668353069,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384502,
-      "num": 384502,
-      "word": "2024年巴黎奥运会吉祥物",
-      "onboard_time": 1668431971,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 381442,
@@ -955,6 +963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 337087,
+      "num": 251785,
+      "word": "许凯新剧给杨幂跪了",
+      "onboard_time": 1668432090,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335580,
       "num": 335580,
       "word": "白血病男子术后6年还清70万治病钱",
@@ -1043,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303950,
-      "num": 194538,
-      "word": "许凯新剧给杨幂跪了",
-      "onboard_time": 1668432090,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298401,
       "num": 298401,
       "word": "男童受气后牵狗徒步17公里找奶奶",
@@ -1123,12 +1131,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267154,
-      "num": 267154,
-      "word": "学校门口买的圆珠笔暗藏真刀",
-      "onboard_time": 1668431850,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 266853,
+      "num": 266853,
+      "word": "真正的爱情从来都不会理智",
+      "onboard_time": 1668431668,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 266705,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1668393266,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258451,
+      "num": 138860,
+      "word": "李峋越来越爱笑了",
+      "onboard_time": 1668435510,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 254267,
@@ -1363,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213775,
-      "num": 213775,
-      "word": "真正的爱情从来都不会理智",
-      "onboard_time": 1668431668,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211088,
       "num": 198518,
       "word": "张婧仪朱韵跑步演技",
@@ -1408,6 +1416,14 @@
       "word": "老父爱子同患重症80后男子崩溃大哭",
       "onboard_time": 1668402570,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209070,
+      "num": 209070,
+      "word": "老鼠惬意趴在猫咪头上休息",
+      "onboard_time": 1668430647,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1473,14 +1489,6 @@
       "onboard_time": 1668397648,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195221,
-      "num": 195221,
-      "word": "老鼠惬意趴在猫咪头上休息",
-      "onboard_time": 1668430647,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194129,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1668424768,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178883,
+      "num": 178883,
+      "word": "要不换个城市生活吧",
+      "onboard_time": 1668432870,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 178647,
@@ -1737,14 +1753,6 @@
       "onboard_time": 1668342566,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156760,
-      "num": 156760,
-      "word": "要不换个城市生活吧",
-      "onboard_time": 1668432870,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 156342,
@@ -1931,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139207,
+      "num": 139207,
+      "word": "不要总是提前焦虑",
+      "onboard_time": 1668432570,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -1971,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132809,
+      "num": 132809,
+      "word": "原来秋冬围巾可以这么系",
+      "onboard_time": 1668433529,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 132165,
       "num": 132165,
       "word": "广州番禺区疫情防控",
@@ -2003,20 +2027,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 127862,
-      "num": 127862,
-      "word": "不要总是提前焦虑",
-      "onboard_time": 1668432570,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 127383,
-      "num": 127383,
-      "word": "原来秋冬围巾可以这么系",
-      "onboard_time": 1668433529,
-      "rank": 47,
-      "category": "时尚"
+      "raw_hot": 127436,
+      "num": 127436,
+      "word": "嘴巴在重庆没歇过",
+      "onboard_time": 1668435689,
+      "rank": 45,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 125611,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1668349108,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108353,
+      "num": 108353,
+      "word": "这猫这床瞬间都不想要了",
+      "onboard_time": 1668435871,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106473,
@@ -2380,7 +2404,7 @@
     },
     {
       "raw_hot": 13355,
-      "num": 735089,
+      "num": 760367,
       "word": "200秒速览G20峰会看点",
       "onboard_time": 1668395608,
       "rank": 2,
