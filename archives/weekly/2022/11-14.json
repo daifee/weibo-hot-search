@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668457440805,
+  "endTime": 1668458349394,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2627,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 13717,
+      "num": 13717,
+      "word": "宝妈买爱他美奶粉开罐遇活虫",
+      "onboard_time": 1668455651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13355,
       "num": 760367,
       "word": "200秒速览G20峰会看点",
@@ -2635,16 +2643,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 12422,
-      "num": 12422,
-      "word": "宝妈买爱他美奶粉开罐遇活虫",
-      "onboard_time": 1668455651,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12175,
-      "num": 12175,
+      "raw_hot": 12971,
+      "num": 12971,
       "word": "小狗可不是好欺负的",
       "onboard_time": 1668453553,
       "rank": 40,
@@ -2681,6 +2681,14 @@
       "onboard_time": 1668373212,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 8160,
+      "num": 9272,
+      "word": "朱韵心疼抱住李峋",
+      "onboard_time": 1668458111,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

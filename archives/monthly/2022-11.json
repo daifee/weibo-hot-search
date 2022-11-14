@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668457440805,
+  "endTime": 1668458349394,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -29443,6 +29443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13717,
+      "num": 13717,
+      "word": "宝妈买爱他美奶粉开罐遇活虫",
+      "onboard_time": 1668455651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13691,
       "num": 19164,
       "word": "冬天需要安全感",
@@ -29459,12 +29467,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 12422,
-      "num": 12422,
-      "word": "宝妈买爱他美奶粉开罐遇活虫",
-      "onboard_time": 1668455651,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 12971,
+      "num": 12971,
+      "word": "小狗可不是好欺负的",
+      "onboard_time": 1668453553,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 12309,
@@ -29473,14 +29481,6 @@
       "onboard_time": 1667509151,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12175,
-      "num": 12175,
-      "word": "小狗可不是好欺负的",
-      "onboard_time": 1668453553,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 11624,
@@ -29593,6 +29593,14 @@
       "onboard_time": 1668373212,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 8160,
+      "num": 9272,
+      "word": "朱韵心疼抱住李峋",
+      "onboard_time": 1668458111,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 8139,
