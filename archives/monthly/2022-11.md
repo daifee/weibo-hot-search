@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/14 20:52:52
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/14 21:22:47
 </p>
 </blockquote>
 <p>
@@ -2295,6 +2295,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23" target="weibo">
+中美元首握手合影（热度：877269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%B8%85%E5%94%B1%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
 内娱清唱天花板（热度：876147）
 </a>
@@ -3867,6 +3873,12 @@ QQ内测微信登录功能（热度：629846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%80%80%E6%8A%B1%E6%82%A3%E5%84%BF%E7%85%A7%E7%89%87%E8%A2%AB%E6%8C%87%E6%A8%A1%E4%BB%BF%E8%B5%AB%E6%9C%AC%23" target="weibo">
+韩第一夫人怀抱患儿照片被指模仿赫本（热度：605098）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
 金鸡奖（热度：603954）
 </a>
@@ -4307,6 +4319,12 @@ seventeen gma（热度：563781）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%E8%AF%B4%E4%B8%8A%E6%B5%B7%E8%AF%9D%23" target="weibo">
 唐嫣繁花说上海话（热度：559528）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%BA%B2%E5%AE%8C%E6%9C%B1%E9%9F%B5%E5%A4%B8%E5%A5%B9%E7%9C%9F%E5%8F%AF%E7%88%B1%23" target="weibo">
+李峋亲完朱韵夸她真可爱（热度：559380）
 </a>
 </li>
 
@@ -4943,12 +4961,6 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A3%B9%E8%A2%AB%E5%AD%90%E5%B1%8B%E5%A4%96%E8%BA%BA%E5%B9%B3%E6%99%92%E5%A4%AA%E9%98%B3%23" target="weibo">
 女生裹被子屋外躺平晒太阳（热度：511491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%BA%B2%E5%AE%8C%E6%9C%B1%E9%9F%B5%E5%A4%B8%E5%A5%B9%E7%9C%9F%E5%8F%AF%E7%88%B1%23" target="weibo">
-李峋亲完朱韵夸她真可爱（热度：510595）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ gidle音银智利公演中断（热度：439364）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%BF%E4%BD%93%E6%95%99%E8%B5%8410%E5%B9%B4%E6%95%99%E4%B8%8D%E4%BC%9A%E5%84%BF%E5%AD%90%E8%B7%B3%E7%BB%B3%23" target="weibo">
-爸爸拿体教资10年教不会儿子跳绳（热度：438512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E6%96%87%E7%89%A9%E6%AF%81%E6%8D%9F%E8%A7%86%E9%A2%91%E9%A6%96%E6%9B%9D%E5%85%89%23" target="weibo">
-台北故宫文物毁损视频首曝光（热度：437989）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6293,6 +6293,12 @@ gidle音银智利公演中断（热度：439364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%ADG20%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%B3%B0%E4%BC%9A%23%23" target="weibo">
 #习近平出席G20巴厘岛峰会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%8E%A8%E5%8A%A8%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E9%87%8D%E5%9B%9E%E5%81%A5%E5%BA%B7%E7%A8%B3%E5%AE%9A%E5%8F%91%E5%B1%95%E8%BD%A8%E9%81%93%23%23" target="weibo">
+#推动中美关系重回健康稳定发展轨道#
 </a>
 </li>
 
