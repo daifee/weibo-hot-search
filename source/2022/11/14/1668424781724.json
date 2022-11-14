@@ -1,0 +1,410 @@
+{
+  "runTime": 1668424781724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1867020,
+        "num": 1867020,
+        "word": "王源说鹿晗是朋友圈有意思第一名",
+        "onboard_time": 1668420991,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1696227,
+        "num": 1696227,
+        "word": "陈飞宇拍完吻戏问张婧仪害羞了吗",
+        "onboard_time": 1668419967,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75213,
+        "num": 1604407,
+        "word": "49件文物讲述何以中国",
+        "onboard_time": 1668417149,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1524992,
+        "num": 1524992,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697827,
+        "num": 697827,
+        "word": "朱韵朋友圈秀恩爱",
+        "onboard_time": 1668419668,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 820393,
+        "num": 602262,
+        "word": "200斤女主播同时交往10位男粉丝",
+        "onboard_time": 1668419308,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1977549,
+        "num": 582970,
+        "word": "石家庄关闭市内免费核酸检测点",
+        "onboard_time": 1668420687,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479671,
+        "num": 479671,
+        "word": "社死还是得看研究生",
+        "onboard_time": 1668418410,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313430,
+        "num": 313430,
+        "word": "老人去世女子没买到票车站5分钟帮上车",
+        "onboard_time": 1668413428,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1563060,
+        "num": 312806,
+        "word": "石家庄致信全体市民",
+        "onboard_time": 1668406889,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804629,
+        "num": 311642,
+        "word": "外交部回应韩国赛场错播中国国歌",
+        "onboard_time": 1668421528,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 576974,
+        "num": 311219,
+        "word": "内娱明星头像大户",
+        "onboard_time": 1668423208,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409704,
+        "num": 309863,
+        "word": "中美领导人要起到把舵定向作用",
+        "onboard_time": 1668422909,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 395031,
+        "num": 309304,
+        "word": "石家庄调整防疫举措决不是全面放开",
+        "onboard_time": 1668421290,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329185,
+        "num": 307940,
+        "word": "杨幂许凯新剧吻戏好上头",
+        "onboard_time": 1668423449,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324100,
+        "num": 307213,
+        "word": "特斯拉潮州失控事故家属视频回应",
+        "onboard_time": 1668417448,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322149,
+        "num": 306602,
+        "word": "中美元首巴厘岛会晤正式开始",
+        "onboard_time": 1668420207,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 305963,
+        "num": 305963,
+        "word": "卿卿日常史上最好的主母",
+        "onboard_time": 1668412290,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298968,
+        "num": 298968,
+        "word": "当事人回应已育4女又怀孕被离婚",
+        "onboard_time": 1668422849,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281712,
+        "num": 281712,
+        "word": "和不爱的人交往什么体验",
+        "onboard_time": 1668415527,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281881,
+        "num": 275384,
+        "word": "石家庄回应网传取消全员核酸检测",
+        "onboard_time": 1668407127,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253651,
+        "num": 253651,
+        "word": "老公应酬酒喝多妻子端来热面",
+        "onboard_time": 1668414449,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236154,
+        "num": 236154,
+        "word": "命韵峋环今天糖点好多",
+        "onboard_time": 1668424227,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233793,
+        "num": 233793,
+        "word": "北京朝阳新增73例感染者",
+        "onboard_time": 1668419848,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220914,
+        "num": 220914,
+        "word": "我们的西南联大预计2022年发行",
+        "onboard_time": 1668421290,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216337,
+        "num": 216337,
+        "word": "25岁女子被相亲对象前妻剧透得生儿子",
+        "onboard_time": 1668405507,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210180,
+        "num": 210180,
+        "word": "命韵峋环同居日常",
+        "onboard_time": 1668422547,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184095,
+        "num": 184095,
+        "word": "北京新增本土感染者257例",
+        "onboard_time": 1668418346,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165277,
+        "num": 165277,
+        "word": "武大学子齐唱再见送别窦校长",
+        "onboard_time": 1668420626,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "大学生在玩一种很新的东西",
+        "onboard_time": 1668409409,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200262,
+        "num": 164441,
+        "word": "元英的原型是纯元吧",
+        "onboard_time": 1668409950,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193223,
+        "num": 163316,
+        "word": "原来papi酱说的这个朋友是秦施",
+        "onboard_time": 1668411088,
+        "rank": 31,
+        "category": "影视,网红"
+      },
+      {
+        "raw_hot": 166873,
+        "num": 162597,
+        "word": "迪丽热巴网络侵权案胜诉获赔",
+        "onboard_time": 1668423326,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161641,
+        "num": 161641,
+        "word": "34岁男子抱父母三胎被误当抱女儿",
+        "onboard_time": 1668404430,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158858,
+        "num": 158858,
+        "word": "巴厘岛当地民众夹道欢迎",
+        "onboard_time": 1668415108,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 154472,
+        "num": 154472,
+        "word": "白敬亭尹峥遭陷害被关",
+        "onboard_time": 1668419908,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142609,
+        "num": 142609,
+        "word": "内马尔停下35米高空球",
+        "onboard_time": 1668415887,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141146,
+        "num": 141146,
+        "word": "这猫是有多困啊",
+        "onboard_time": 1668423326,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 137279,
+        "word": "男子外卖点麻辣烫吃出1只老鼠",
+        "onboard_time": 1668424407,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136955,
+        "num": 136955,
+        "word": "已经开始心疼鱼了",
+        "onboard_time": 1668423087,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144545,
+        "num": 135079,
+        "word": "曾黎和赵露思偷偷藏不住再演母女",
+        "onboard_time": 1668410187,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132435,
+        "num": 132435,
+        "word": "石家庄新增本土感染544例",
+        "onboard_time": 1668404069,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139762,
+        "num": 123513,
+        "word": "马伯骞版桑延vs漫画版桑延",
+        "onboard_time": 1668412589,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 112665,
+        "num": 112665,
+        "word": "中美元首巴厘岛会晤",
+        "onboard_time": 1668410848,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110344,
+        "num": 110344,
+        "word": "呼吸哥复盘S12",
+        "onboard_time": 1668413248,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107420,
+        "num": 107420,
+        "word": "恋与深空",
+        "onboard_time": 1668403948,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107306,
+        "num": 107306,
+        "word": "市民称网红串串店非网红不得入内",
+        "onboard_time": 1668410789,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119614,
+        "num": 107148,
+        "word": "你觉得爱的二八定律好看吗",
+        "onboard_time": 1668424768,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105343,
+        "num": 105343,
+        "word": "第一次为两只狗感到尴尬",
+        "onboard_time": 1668423988,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103485,
+        "num": 103485,
+        "word": "老父爱子同患重症80后男子崩溃大哭",
+        "onboard_time": 1668402570,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程再出发#"
+    }
+  }
+}
