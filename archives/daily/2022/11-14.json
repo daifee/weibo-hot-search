@@ -1,14 +1,22 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668391025088,
+  "endTime": 1668392958783,
   "band_list": [
     {
       "raw_hot": 2341915,
-      "num": 456812,
+      "num": 458537,
       "word": "女子已生4女儿又怀孕被要求离婚",
       "onboard_time": 1668386310,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1834245,
+      "num": 1834245,
+      "word": "前YG社长杨贤硕有期徒刑3年",
+      "onboard_time": 1668391706,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1351978,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1151859,
+      "num": 1151859,
+      "word": "马斯克突然开除80%推特合同工",
+      "onboard_time": 1668389247,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1078981,
       "num": 1078981,
       "word": "乌鲁木齐疫情防控",
@@ -49,14 +65,6 @@
       "onboard_time": 1668354268,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 856251,
-      "num": 856251,
-      "word": "马斯克突然开除80%推特合同工",
-      "onboard_time": 1668389247,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 759975,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616276,
+      "num": 616276,
+      "word": "广东新增本土感染者4160例",
+      "onboard_time": 1668388949,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588005,
       "num": 588005,
       "word": "安宥真走台步",
@@ -131,6 +147,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 562573,
+      "num": 562573,
+      "word": "医生飞针采血被赞蚊子投胎",
+      "onboard_time": 1668389127,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561456,
+      "num": 457628,
+      "word": "妖猫传里有陈飞宇",
+      "onboard_time": 1668392008,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521940,
       "num": 521940,
       "word": "多喝热水少喝冰水真的健康吗",
@@ -155,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460598,
-      "num": 460598,
+      "raw_hot": 470281,
+      "num": 470281,
       "word": "重庆新增本土确诊150例无症状2147例",
       "onboard_time": 1668388407,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465536,
+      "num": 456172,
+      "word": "海边的高圆圆",
+      "onboard_time": 1668388169,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 457641,
@@ -171,27 +211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455939,
-      "num": 455939,
-      "word": "海边的高圆圆",
-      "onboard_time": 1668388169,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 444625,
-      "num": 444625,
-      "word": "广东新增本土感染者4160例",
-      "onboard_time": 1668388949,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437915,
       "num": 437915,
       "word": "用不明液体泼洒路人2男子被拘",
       "onboard_time": 1668387450,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424604,
+      "num": 424604,
+      "word": "首批新员工抵达郑州富士康",
+      "onboard_time": 1668390747,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -243,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331492,
-      "num": 331492,
-      "word": "医生飞针采血被赞蚊子投胎",
-      "onboard_time": 1668389127,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330030,
       "num": 330030,
       "word": "Viper",
@@ -272,6 +296,22 @@
       "word": "西安警方回应男子向路人泼不明液体",
       "onboard_time": 1668353369,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302849,
+      "num": 302849,
+      "word": "女子老房拆迁挖出千年古墓",
+      "onboard_time": 1668390868,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298401,
+      "num": 298401,
+      "word": "男童受气后牵狗徒步17公里找奶奶",
+      "onboard_time": 1668390086,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -347,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231745,
+      "num": 231745,
+      "word": "白敬亭六少主尹峥的老六行为",
+      "onboard_time": 1668391287,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231072,
       "num": 231072,
       "word": "重庆九龙坡通报网传孕妇送医延误情况",
       "onboard_time": 1668384091,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216657,
+      "num": 216657,
+      "word": "SEVENTEEN首获EMA双冠王",
+      "onboard_time": 1668392847,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 215872,
@@ -427,19 +483,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180766,
-      "num": 180766,
-      "word": "男童受气后牵狗徒步17公里找奶奶",
-      "onboard_time": 1668390086,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171814,
       "num": 171814,
       "word": "男子结婚表弟随礼千枚硬币",
       "onboard_time": 1668381438,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167987,
+      "num": 167987,
+      "word": "广州新增本土感染者4065例",
+      "onboard_time": 1668392008,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -523,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144652,
+      "num": 144652,
+      "word": "白血病男子术后6年还清70万治病钱",
+      "onboard_time": 1668391767,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144010,
       "num": 144010,
       "word": "卡塔尔为举办世界杯造了一座城",
@@ -537,6 +601,14 @@
       "onboard_time": 1668357923,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143628,
+      "num": 143628,
+      "word": "郝葭用的是甄嬛的套路",
+      "onboard_time": 1668391587,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 142253,
@@ -555,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141524,
+      "num": 141524,
+      "word": "苹果混合现实头显或明年发布",
+      "onboard_time": 1668392369,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134500,
       "num": 134500,
       "word": "F1",
@@ -568,14 +648,6 @@
       "word": "广州番禺区疫情防控",
       "onboard_time": 1668383004,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "首批新员工抵达郑州富士康",
-      "onboard_time": 1668390747,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -595,11 +667,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117889,
-      "num": 117889,
-      "word": "女子老房拆迁挖出千年古墓",
-      "onboard_time": 1668390868,
-      "rank": 46,
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "睡眠不足真的会发胖",
+      "onboard_time": 1668392788,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -780,7 +852,7 @@
     },
     {
       "raw_hot": 18365,
-      "num": 890203,
+      "num": 982036,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,

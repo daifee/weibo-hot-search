@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668391025088,
+  "endTime": 1668392958783,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 2341915,
-      "num": 456812,
+      "num": 458537,
       "word": "女子已生4女儿又怀孕被要求离婚",
       "onboard_time": 1668386310,
       "rank": 10,
@@ -721,6 +721,14 @@
       "onboard_time": 1667482167,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1834245,
+      "num": 1834245,
+      "word": "前YG社长杨贤硕有期徒刑3年",
+      "onboard_time": 1668391706,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1833639,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1667547991,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1151859,
+      "num": 1151859,
+      "word": "马斯克突然开除80%推特合同工",
+      "onboard_time": 1668389247,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1150744,
@@ -3025,14 +3041,6 @@
       "onboard_time": 1667446406,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 856251,
-      "num": 856251,
-      "word": "马斯克突然开除80%推特合同工",
-      "onboard_time": 1668389247,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 855041,
@@ -4779,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 616276,
+      "num": 616276,
+      "word": "广东新增本土感染者4160例",
+      "onboard_time": 1668388949,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616173,
       "num": 616173,
       "word": "陆柯燃官宣签约索尼音乐",
@@ -5403,10 +5419,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562573,
+      "num": 562573,
+      "word": "医生飞针采血被赞蚊子投胎",
+      "onboard_time": 1668389127,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562157,
       "num": 562157,
       "word": "电子羽绒服",
       "onboard_time": 1667473286,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 561456,
+      "num": 457628,
+      "word": "妖猫传里有陈飞宇",
+      "onboard_time": 1668392008,
       "rank": 11,
       "category": "影视"
     },
@@ -6875,6 +6907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470281,
+      "num": 470281,
+      "word": "重庆新增本土确诊150例无症状2147例",
+      "onboard_time": 1668388407,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469942,
       "num": 469942,
       "word": "个人养老金资金账户内资产可继承",
@@ -6953,6 +6993,14 @@
       "onboard_time": 1668214769,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465536,
+      "num": 456172,
+      "word": "海边的高圆圆",
+      "onboard_time": 1668388169,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 465372,
@@ -7039,14 +7087,6 @@
       "num": 461500,
       "word": "日本棋手因比赛时忘戴口罩被判负",
       "onboard_time": 1667264307,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460598,
-      "num": 460598,
-      "word": "重庆新增本土确诊150例无症状2147例",
-      "onboard_time": 1668388407,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -7169,14 +7209,6 @@
       "onboard_time": 1668385167,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455939,
-      "num": 455939,
-      "word": "海边的高圆圆",
-      "onboard_time": 1668388169,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 453829,
@@ -7336,14 +7368,6 @@
       "word": "北京回应市民对进返京防疫政策关切",
       "onboard_time": 1667813068,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444625,
-      "num": 444625,
-      "word": "广东新增本土感染者4160例",
-      "onboard_time": 1668388949,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -7937,6 +7961,14 @@
       "onboard_time": 1668216570,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424604,
+      "num": 424604,
+      "word": "首批新员工抵达郑州富士康",
+      "onboard_time": 1668390747,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424332,
@@ -10283,14 +10315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331492,
-      "num": 331492,
-      "word": "医生飞针采血被赞蚊子投胎",
-      "onboard_time": 1668389127,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331380,
       "num": 331380,
       "word": "羽绒服买大了的好处",
@@ -11283,6 +11307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302849,
+      "num": 302849,
+      "word": "女子老房拆迁挖出千年古墓",
+      "onboard_time": 1668390868,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302759,
       "num": 277600,
       "word": "宋祖儿恭喜半夏小姐下班咯",
@@ -11417,6 +11449,14 @@
       "onboard_time": 1667915789,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298401,
+      "num": 298401,
+      "word": "男童受气后牵狗徒步17公里找奶奶",
+      "onboard_time": 1668390086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297795,
@@ -14003,6 +14043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231745,
+      "num": 231745,
+      "word": "白敬亭六少主尹峥的老六行为",
+      "onboard_time": 1668391287,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231354,
       "num": 231354,
       "word": "中专生苦练木工9年成国家队教练",
@@ -14801,6 +14849,14 @@
       "onboard_time": 1667573191,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216657,
+      "num": 216657,
+      "word": "SEVENTEEN首获EMA双冠王",
+      "onboard_time": 1668392847,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 216644,
@@ -16955,14 +17011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180766,
-      "num": 180766,
-      "word": "男童受气后牵狗徒步17公里找奶奶",
-      "onboard_time": 1668390086,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180711,
       "num": 180711,
       "word": "书店卖给孩子言情盗墓书被家长斥责",
@@ -17673,6 +17721,14 @@
       "onboard_time": 1667777424,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167987,
+      "num": 167987,
+      "word": "广州新增本土感染者4065例",
+      "onboard_time": 1668392008,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167901,
@@ -19499,6 +19555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144652,
+      "num": 144652,
+      "word": "白血病男子术后6年还清70万治病钱",
+      "onboard_time": 1668391767,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "原来小狗也只喜欢听漂亮话",
@@ -19577,6 +19641,14 @@
       "onboard_time": 1668357923,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143628,
+      "num": 143628,
+      "word": "郝葭用的是甄嬛的套路",
+      "onboard_time": 1668391587,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 143599,
@@ -19793,6 +19865,14 @@
       "onboard_time": 1667872168,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141524,
+      "num": 141524,
+      "word": "苹果混合现实头显或明年发布",
+      "onboard_time": 1668392369,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 141354,
@@ -20616,14 +20696,6 @@
       "word": "11月5日新增本土确诊526例",
       "onboard_time": 1667701707,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "首批新员工抵达郑州富士康",
-      "onboard_time": 1668390747,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -21723,20 +21795,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117889,
-      "num": 117889,
-      "word": "女子老房拆迁挖出千年古墓",
-      "onboard_time": 1668390868,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117732,
       "num": 117732,
       "word": "八一飞行表演队空中画出超圆大圈圈",
       "onboard_time": 1668147823,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "睡眠不足真的会发胖",
+      "onboard_time": 1668392788,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117297,

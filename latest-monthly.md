@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/14 09:57:05
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/14 10:29:18
 </p>
 </blockquote>
 <p>
@@ -551,6 +551,12 @@ IU（热度：2015592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E9%98%BF%E7%91%9F%23" target="weibo">
 审判阿瑟（热度：1834895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8DYG%E7%A4%BE%E9%95%BF%E6%9D%A8%E8%B4%A4%E7%A1%95%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23" target="weibo">
+前YG社长杨贤硕有期徒刑3年（热度：1834245）
 </a>
 </li>
 
@@ -1355,6 +1361,12 @@ TVB余子明去世（热度：1187677）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%90%A6%E8%AE%A4%E6%98%AF%E9%87%91%E9%B9%B0%E5%A5%B3%E7%A5%9E%23" target="weibo">
 孙怡否认是金鹰女神（热度：1153954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%84%B6%E5%BC%80%E9%99%A480%25%E6%8E%A8%E7%89%B9%E5%90%88%E5%90%8C%E5%B7%A5%23" target="weibo">
+马斯克突然开除80%推特合同工（热度：1151859）
 </a>
 </li>
 
@@ -2279,12 +2291,6 @@ Kingen获FMVP（热度：869944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E5%BE%88%E5%96%9C%E6%AC%A2%E5%A8%9C%E6%89%8E%E5%BE%88%E5%A5%BD%E7%9A%84%E5%A5%B3%E5%AD%A9%23" target="weibo">
 于正说很喜欢娜扎很好的女孩（热度：856483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%84%B6%E5%BC%80%E9%99%A480%25%E6%8E%A8%E7%89%B9%E5%90%88%E5%90%8C%E5%B7%A5%23" target="weibo">
-马斯克突然开除80%推特合同工（热度：856251）
 </a>
 </li>
 
@@ -3597,6 +3603,12 @@ QQ内测微信登录功能（热度：629846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%854160%E4%BE%8B%23" target="weibo">
+广东新增本土感染者4160例（热度：616276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%23" target="weibo">
 陆柯燃官宣签约索尼音乐（热度：616173）
 </a>
@@ -4065,8 +4077,20 @@ seventeen gma（热度：563781）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E9%A3%9E%E9%92%88%E9%87%87%E8%A1%80%E8%A2%AB%E8%B5%9E%E8%9A%8A%E5%AD%90%E6%8A%95%E8%83%8E%23" target="weibo">
+医生飞针采血被赞蚊子投胎（热度：562573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
 电子羽绒服（热度：562157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%96%E7%8C%AB%E4%BC%A0%E9%87%8C%E6%9C%89%E9%99%88%E9%A3%9E%E5%AE%87%23" target="weibo">
+妖猫传里有陈飞宇（热度：561456）
 </a>
 </li>
 
@@ -5169,6 +5193,12 @@ XYG（热度：480241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A150%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B62147%E4%BE%8B%23" target="weibo">
+重庆新增本土确诊150例无症状2147例（热度：470281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E8%B5%84%E9%87%91%E8%B4%A6%E6%88%B7%E5%86%85%E8%B5%84%E4%BA%A7%E5%8F%AF%E7%BB%A7%E6%89%BF%23" target="weibo">
 个人养老金资金账户内资产可继承（热度：469942）
 </a>
@@ -5225,6 +5255,12 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%B8%E6%9C%89%E9%A5%A5%E9%A5%BF%E6%84%9F%E4%B8%80%E6%9F%A5%E6%82%A3%E4%B8%8A%E8%83%83%E7%99%8C%23" target="weibo">
 男子常有饥饿感一查患上胃癌（热度：465747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%BE%B9%E7%9A%84%E9%AB%98%E5%9C%86%E5%9C%86%23" target="weibo">
+海边的高圆圆（热度：465536）
 </a>
 </li>
 
@@ -5291,12 +5327,6 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A3%8B%E6%89%8B%E5%9B%A0%E6%AF%94%E8%B5%9B%E6%97%B6%E5%BF%98%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A2%AB%E5%88%A4%E8%B4%9F%23" target="weibo">
 日本棋手因比赛时忘戴口罩被判负（热度：461500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A150%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B62147%E4%BE%8B%23" target="weibo">
-重庆新增本土确诊150例无症状2147例（热度：460598）
 </a>
 </li>
 
@@ -5387,12 +5417,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%AF%8F%E5%B9%B4%E7%BA%A628%E4%B8%87%E4%BA%BA%E5%9B%A0%E7%B3%96%E5%B0%BF%E7%97%85%E8%B6%B3%E6%88%AA%E8%82%A2%23" target="weibo">
 我国每年约28万人因糖尿病足截肢（热度：457641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%BE%B9%E7%9A%84%E9%AB%98%E5%9C%86%E5%9C%86%23" target="weibo">
-海边的高圆圆（热度：455939）
 </a>
 </li>
 
@@ -5513,12 +5537,6 @@ S8龙龟来了（热度：458716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E5%AF%B9%E8%BF%9B%E8%BF%94%E4%BA%AC%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96%E5%85%B3%E5%88%87%23" target="weibo">
 北京回应市民对进返京防疫政策关切（热度：444842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%854160%E4%BE%8B%23" target="weibo">
-广东新增本土感染者4160例（热度：444625）
 </a>
 </li>
 
@@ -5967,6 +5985,12 @@ iPhone14Pro收货需要等待更长时间（热度：431644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E6%96%B0%E5%91%98%E5%B7%A5%E6%8A%B5%E8%BE%BE%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%23" target="weibo">
+首批新员工抵达郑州富士康（热度：424604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%8C%E6%89%93%E7%AF%AE%E7%90%83%E5%A4%AA%E5%90%B5%E8%80%81%E4%BA%BA%E4%BB%8E7%E6%A5%BC%E6%89%94%E9%A5%AE%E6%96%99%E7%93%B6%23" target="weibo">
 嫌打篮球太吵老人从7楼扔饮料瓶（热度：424332）
 </a>
@@ -5987,30 +6011,6 @@ iPhone14Pro收货需要等待更长时间（热度：431644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%8D%E6%8F%92%E7%94%B5%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%AE%9A%E6%A1%A3%23" target="weibo">
 鹿晗不插电音乐会定档（热度：423492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8A%B6%E6%80%81%23" target="weibo">
-林高远状态（热度：423255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%AF%94%E8%B5%9B%23" target="weibo">
-林孝埈比赛（热度：422826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9E%83%E8%9F%B9%E7%9A%84%E8%A1%80%E5%B1%85%E7%84%B6%E6%98%AF%E9%80%8F%E6%98%8E%E7%9A%84%23" target="weibo">
-螃蟹的血居然是透明的（热度：422693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E30%E5%BA%A6%E9%99%8D%E6%B8%A9%E5%88%B014%E5%BA%A6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
-从30度降温到14度是什么体验（热度：422364）
 </a>
 </li>
 
