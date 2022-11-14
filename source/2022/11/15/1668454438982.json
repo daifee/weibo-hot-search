@@ -1,0 +1,410 @@
+{
+  "runTime": 1668454438982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83328,
+        "num": 83328,
+        "word": "90后女子上班坚持12年装50岁大妈",
+        "onboard_time": 1668438571,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37837,
+        "num": 37837,
+        "word": "伴侣情绪稳定重不重要",
+        "onboard_time": 1668444263,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1992,
+        "num": 36439,
+        "word": "200秒速览G20峰会看点",
+        "onboard_time": 1668395608,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 38038,
+        "num": 36406,
+        "word": "广州多区延续强化疫情防控措施",
+        "onboard_time": 1668440128,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36276,
+        "num": 36276,
+        "word": "厦门一公司人事通知引争议",
+        "onboard_time": 1668439051,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121121,
+        "num": 32714,
+        "word": "石家庄关闭市内免费核酸检测点",
+        "onboard_time": 1668420687,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28917,
+        "num": 28917,
+        "word": "中美元首握手合影",
+        "onboard_time": 1668429210,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 27650,
+        "num": 27650,
+        "word": "点燃我温暖你19集大结局吧",
+        "onboard_time": 1668439649,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24718,
+        "num": 24718,
+        "word": "外交部回应韩国赛场错播中国国歌",
+        "onboard_time": 1668421528,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24686,
+        "num": 24686,
+        "word": "网友提名的2022十大爆剧",
+        "onboard_time": 1668430408,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210172,
+        "num": 24607,
+        "word": "感染新冠是什么体验",
+        "onboard_time": 1668442466,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94518,
+        "num": 24539,
+        "word": "淀粉加伟哥赚200倍暴利团伙被捕",
+        "onboard_time": 1668450314,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44833,
+        "num": 24466,
+        "word": "卡米拉",
+        "onboard_time": 1668439770,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31019,
+        "num": 24359,
+        "word": "中美两国元首致开场白",
+        "onboard_time": 1668430949,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28117,
+        "num": 24249,
+        "word": "湖南被霸凌少年刺伤3人被判无罪",
+        "onboard_time": 1668436291,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36147,
+        "num": 24196,
+        "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
+        "onboard_time": 1668430046,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27203,
+        "num": 24023,
+        "word": "金泰妍确诊感染新冠",
+        "onboard_time": 1668434433,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24017,
+        "num": 24017,
+        "word": "男生第1次自己买衣服是什么体验",
+        "onboard_time": 1668429505,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23839,
+        "num": 23839,
+        "word": "中美关系不应是你兴我衰的零和博弈",
+        "onboard_time": 1668439289,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23049,
+        "num": 23049,
+        "word": "交大博士晒毕业照男女比例扎心",
+        "onboard_time": 1668452833,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44755,
+        "num": 22852,
+        "word": "陈飞宇拍完吻戏问张婧仪害羞了吗",
+        "onboard_time": 1668419967,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35838,
+        "num": 22786,
+        "word": "王源说鹿晗是朋友圈有意思第一名",
+        "onboard_time": 1668420991,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21997,
+        "num": 21997,
+        "word": "8岁女孩带小鸡仔在跑步机上锻炼",
+        "onboard_time": 1668441806,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20910,
+        "num": 20910,
+        "word": "要不换个城市生活吧",
+        "onboard_time": 1668432870,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20049,
+        "num": 20049,
+        "word": "秦施阳华无证离婚",
+        "onboard_time": 1668432870,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19407,
+        "num": 19407,
+        "word": "审判阿瑟吻技",
+        "onboard_time": 1668425489,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19962,
+        "num": 19363,
+        "word": "杨幂秦施进电梯动图",
+        "onboard_time": 1668442466,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19164,
+        "num": 19164,
+        "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
+        "onboard_time": 1668445699,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18358,
+        "num": 18358,
+        "word": "每个人都是自己健康的第一责任人",
+        "onboard_time": 1668443963,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17835,
+        "num": 17835,
+        "word": "男子外卖点麻辣烫吃出1只老鼠",
+        "onboard_time": 1668424407,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129867,
+        "num": 17736,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668434793,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26339,
+        "num": 17675,
+        "word": "广东农民工夫妻带娃租7年的房",
+        "onboard_time": 1668448877,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18576,
+        "num": 17633,
+        "word": "学校门口买的圆珠笔暗藏真刀",
+        "onboard_time": 1668431850,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17459,
+        "num": 17459,
+        "word": "真正的爱情从来都不会理智",
+        "onboard_time": 1668431668,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17403,
+        "num": 17403,
+        "word": "时代峰峻为TF三代大悦城路演道歉",
+        "onboard_time": 1668431128,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17176,
+        "num": 17176,
+        "word": "北京疫情进展呈现上升态势",
+        "onboard_time": 1668425669,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16150,
+        "num": 16150,
+        "word": "朱韵朋友圈秀恩爱",
+        "onboard_time": 1668419668,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15667,
+        "num": 15667,
+        "word": "26年前的结婚录像有多惊艳",
+        "onboard_time": 1668441030,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15653,
+        "num": 15653,
+        "word": "哇唧唧哇男团喊话老板涨工资",
+        "onboard_time": 1668447077,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14824,
+        "num": 14824,
+        "word": "石家庄调整防疫举措决不是全面放开",
+        "onboard_time": 1668421290,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14679,
+        "num": 14679,
+        "word": "社死还是得看研究生",
+        "onboard_time": 1668418410,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14190,
+        "num": 14190,
+        "word": "易烊千玺谷爱凌冰雪之约米兰获奖",
+        "onboard_time": 1668426328,
+        "rank": 41,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 14190,
+        "num": 14190,
+        "word": "没有刘海的李薇",
+        "onboard_time": 1668425189,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14149,
+        "num": 14149,
+        "word": "肖战顾魏V榜角色指数峰值TOP1",
+        "onboard_time": 1668431369,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13714,
+        "num": 13714,
+        "word": "狗狗被摸头后的反应",
+        "onboard_time": 1668437130,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 13291,
+        "num": 13291,
+        "word": "元英在结一种很新的婚",
+        "onboard_time": 1668444807,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13214,
+        "num": 13214,
+        "word": "2024年巴黎奥运会吉祥物",
+        "onboard_time": 1668431971,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12626,
+        "num": 12626,
+        "word": "嘴巴在重庆没歇过",
+        "onboard_time": 1668435689,
+        "rank": 47,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 11243,
+        "num": 12619,
+        "word": "多地取消区域全员核酸检测",
+        "onboard_time": 1668402750,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10271,
+        "num": 12603,
+        "word": "一时分不清谁在遛谁",
+        "onboard_time": 1668454391,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席G20巴厘岛峰会#"
+    }
+  }
+}
