@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668397075406,
+  "endTime": 1668397496068,
   "band_list": [
     {
       "raw_hot": 2341915,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1301871,
-      "num": 1301871,
+      "raw_hot": 1317236,
+      "num": 1317236,
       "word": "妖猫传里有陈飞宇",
       "onboard_time": 1668392008,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1014339,
-      "num": 797829,
+      "num": 802248,
       "word": "金韩彬",
       "onboard_time": 1668394526,
       "rank": 3,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536254,
-      "num": 536254,
+      "raw_hot": 557046,
+      "num": 557046,
       "word": "女子老房拆迁挖出千年古墓",
       "onboard_time": 1668390868,
       "rank": 46,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 495481,
-      "num": 374960,
+      "num": 375596,
       "word": "赵丽颖欧豪风吹半夏开始预约",
       "onboard_time": 1668395427,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 491529,
+      "num": 491529,
+      "word": "睡眠不足真的会发胖",
+      "onboard_time": 1668392788,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483868,
@@ -233,14 +241,6 @@
       "onboard_time": 1668388169,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465394,
-      "num": 465394,
-      "word": "睡眠不足真的会发胖",
-      "onboard_time": 1668392788,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457641,
@@ -299,12 +299,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361296,
+      "num": 361296,
+      "word": "大学寝室被李峋包围",
+      "onboard_time": 1668396147,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353208,
       "num": 353208,
       "word": "陈飞宇英语口语水平",
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351073,
+      "num": 351073,
+      "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+      "onboard_time": 1668396629,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335580,
+      "num": 335580,
+      "word": "白血病男子术后6年还清70万治病钱",
+      "onboard_time": 1668391767,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330030,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315110,
+      "num": 315110,
+      "word": "倪妮海藻卷发",
+      "onboard_time": 1668397165,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314802,
       "num": 314802,
       "word": "苹果混合现实头显或明年发布",
@@ -339,11 +371,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306181,
-      "num": 306181,
-      "word": "白血病男子术后6年还清70万治病钱",
-      "onboard_time": 1668391767,
-      "rank": 38,
+      "raw_hot": 304626,
+      "num": 304626,
+      "word": "95后宝妈带1岁大宝宝上班",
+      "onboard_time": 1668392967,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304393,
+      "num": 304393,
+      "word": "这锅包肉能全国巡炒吗",
+      "onboard_time": 1668395787,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 300687,
+      "num": 300687,
+      "word": "广州新增本土感染者4065例",
+      "onboard_time": 1668392008,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -353,14 +401,6 @@
       "onboard_time": 1668390086,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293015,
-      "num": 293015,
-      "word": "大学寝室被李峋包围",
-      "onboard_time": 1668396147,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 285795,
@@ -387,22 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 281282,
-      "num": 281282,
-      "word": "广州新增本土感染者4065例",
-      "onboard_time": 1668392008,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279109,
-      "num": 279109,
-      "word": "95后宝妈带1岁大宝宝上班",
-      "onboard_time": 1668392967,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -419,12 +443,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 262097,
-      "num": 262097,
-      "word": "这锅包肉能全国巡炒吗",
-      "onboard_time": 1668395787,
-      "rank": 23,
-      "category": "美食"
+      "raw_hot": 260913,
+      "num": 260913,
+      "word": "张震岳被路人叫热狗的反应",
+      "onboard_time": 1668393266,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 254267,
@@ -441,14 +465,6 @@
       "onboard_time": 1668362416,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246515,
-      "num": 246515,
-      "word": "张震岳被路人叫热狗的反应",
-      "onboard_time": 1668393266,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 241625,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228578,
+      "num": 228578,
+      "word": "恩比德59分",
+      "onboard_time": 1668396568,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "宁艺卓练习室舞蹈视频",
@@ -512,6 +536,14 @@
       "word": "尹峥元英大婚",
       "onboard_time": 1668348208,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211967,
+      "num": 211967,
+      "word": "白敬亭尹峥原型是雍正",
+      "onboard_time": 1668396928,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -555,22 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203764,
-      "num": 203764,
-      "word": "白敬亭尹峥原型是雍正",
-      "onboard_time": 1668396928,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 201596,
-      "num": 201596,
-      "word": "小猫叼巨型蟑螂回家躺床抱着玩",
-      "onboard_time": 1668396629,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189781,
       "num": 189781,
       "word": "小男孩展示自家红薯库惊呆网友",
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181637,
+      "num": 181637,
+      "word": "篮网vs湖人",
+      "onboard_time": 1668395907,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172056,
       "num": 172056,
       "word": "严浩翔新歌百忧戒音色",
@@ -609,14 +633,6 @@
       "onboard_time": 1668381438,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167371,
-      "num": 167371,
-      "word": "篮网vs湖人",
-      "onboard_time": 1668395907,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 166507,
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140490,
+      "num": 140490,
+      "word": "这老师是怎么忍住不笑的",
+      "onboard_time": 1668396028,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140347,
       "num": 140347,
       "word": "快乐减肥这样做就够了",
@@ -761,14 +785,6 @@
       "onboard_time": 1668393989,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134788,
-      "num": 134788,
-      "word": "这老师是怎么忍住不笑的",
-      "onboard_time": 1668396028,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 134500,
@@ -795,14 +811,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 121664,
-      "num": 121664,
-      "word": "恩比德59分",
-      "onboard_time": 1668396568,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121475,
       "num": 121475,
       "word": "金融16条支持房地产",
@@ -817,6 +825,14 @@
       "onboard_time": 1668384566,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113517,
+      "num": 113517,
+      "word": "父亲婚礼致辞紧张到全身发抖",
+      "onboard_time": 1668397287,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112646,

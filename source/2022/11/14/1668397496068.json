@@ -1,0 +1,410 @@
+{
+  "runTime": 1668397496068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317236,
+        "num": 1317236,
+        "word": "妖猫传里有陈飞宇",
+        "onboard_time": 1668392008,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 947672,
+        "num": 947672,
+        "word": "前YG社长杨贤硕有期徒刑3年",
+        "onboard_time": 1668391706,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 8552,
+        "num": 808501,
+        "word": "生态文明与美丽中国实践边会",
+        "onboard_time": 1668336869,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 968094,
+        "num": 802248,
+        "word": "金韩彬",
+        "onboard_time": 1668394526,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795773,
+        "num": 795773,
+        "word": "马斯克突然开除80%推特合同工",
+        "onboard_time": 1668389247,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 782638,
+        "num": 782638,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1668382703,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557046,
+        "num": 557046,
+        "word": "女子老房拆迁挖出千年古墓",
+        "onboard_time": 1668390868,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491529,
+        "num": 491529,
+        "word": "睡眠不足真的会发胖",
+        "onboard_time": 1668392788,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435694,
+        "num": 435694,
+        "word": "首批新员工抵达郑州富士康",
+        "onboard_time": 1668390747,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386223,
+        "num": 386223,
+        "word": "广东新增本土感染者4160例",
+        "onboard_time": 1668388949,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527623,
+        "num": 382869,
+        "word": "女子已生4女儿又怀孕被要求离婚",
+        "onboard_time": 1668386310,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488963,
+        "num": 375596,
+        "word": "赵丽颖欧豪风吹半夏开始预约",
+        "onboard_time": 1668395427,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361296,
+        "num": 361296,
+        "word": "大学寝室被李峋包围",
+        "onboard_time": 1668396147,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351073,
+        "num": 351073,
+        "word": "小猫叼巨型蟑螂回家躺床抱着玩",
+        "onboard_time": 1668396629,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340468,
+        "num": 340468,
+        "word": "8岁男童右眼感染20多条螨虫",
+        "onboard_time": 1668382644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335580,
+        "num": 335580,
+        "word": "白血病男子术后6年还清70万治病钱",
+        "onboard_time": 1668391767,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315110,
+        "num": 315110,
+        "word": "倪妮海藻卷发",
+        "onboard_time": 1668397165,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 308967,
+        "num": 308967,
+        "word": "苹果混合现实头显或明年发布",
+        "onboard_time": 1668392369,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304626,
+        "num": 304626,
+        "word": "95后宝妈带1岁大宝宝上班",
+        "onboard_time": 1668392967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304393,
+        "num": 304393,
+        "word": "这锅包肉能全国巡炒吗",
+        "onboard_time": 1668395787,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 300687,
+        "num": 300687,
+        "word": "广州新增本土感染者4065例",
+        "onboard_time": 1668392008,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285072,
+        "num": 285072,
+        "word": "陈玘",
+        "onboard_time": 1668384091,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279568,
+        "num": 279568,
+        "word": "医生飞针采血被赞蚊子投胎",
+        "onboard_time": 1668389127,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271765,
+        "num": 271765,
+        "word": "男童受气后牵狗徒步17公里找奶奶",
+        "onboard_time": 1668390086,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268708,
+        "num": 268708,
+        "word": "北京新增48例社会面",
+        "onboard_time": 1668387028,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263353,
+        "num": 263353,
+        "word": "黄明昊给王鹤棣沈月拍合影",
+        "onboard_time": 1668388108,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263229,
+        "num": 263229,
+        "word": "C罗炮轰曼联",
+        "onboard_time": 1668383123,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260913,
+        "num": 260913,
+        "word": "张震岳被路人叫热狗的反应",
+        "onboard_time": 1668393266,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240550,
+        "num": 240550,
+        "word": "重庆新增本土确诊150例无症状2147例",
+        "onboard_time": 1668388407,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228578,
+        "num": 228578,
+        "word": "恩比德59分",
+        "onboard_time": 1668396568,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211967,
+        "num": 211967,
+        "word": "白敬亭尹峥原型是雍正",
+        "onboard_time": 1668396928,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209052,
+        "num": 209052,
+        "word": "宁艺卓练习室舞蹈视频",
+        "onboard_time": 1668393866,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206213,
+        "num": 206213,
+        "word": "海边的高圆圆",
+        "onboard_time": 1668388169,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199129,
+        "num": 199129,
+        "word": "用不明液体泼洒路人2男子被拘",
+        "onboard_time": 1668387450,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196911,
+        "num": 196911,
+        "word": "北京疫情防控",
+        "onboard_time": 1668389290,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183091,
+        "num": 183091,
+        "word": "男子吃自助餐发现餐桌立牌请勿摄像",
+        "onboard_time": 1668348989,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181637,
+        "num": 181637,
+        "word": "篮网vs湖人",
+        "onboard_time": 1668395907,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173352,
+        "num": 173352,
+        "word": "这下不想养猫了",
+        "onboard_time": 1668384989,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172608,
+        "num": 172608,
+        "word": "我国每年约28万人因糖尿病足截肢",
+        "onboard_time": 1668385167,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156456,
+        "num": 156456,
+        "word": "严浩翔新歌百忧戒音色",
+        "onboard_time": 1668394827,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151009,
+        "num": 151009,
+        "word": "广州地铁",
+        "onboard_time": 1668383667,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205065,
+        "num": 149253,
+        "word": "时代少年团新歌百忧戒歌词",
+        "onboard_time": 1668394766,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140490,
+        "num": 140490,
+        "word": "这老师是怎么忍住不笑的",
+        "onboard_time": 1668396028,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136747,
+        "num": 136747,
+        "word": "SEVENTEEN首获EMA双冠王",
+        "onboard_time": 1668392847,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134164,
+        "num": 134164,
+        "word": "加兰51分",
+        "onboard_time": 1668393385,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129851,
+        "num": 129851,
+        "word": "Lisa获奖感言视频",
+        "onboard_time": 1668389969,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128692,
+        "num": 128692,
+        "word": "女子为减肥绑牙齿让嘴巴闭合",
+        "onboard_time": 1668363915,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122719,
+        "num": 122719,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1668349292,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113517,
+        "num": 113517,
+        "word": "父亲婚礼致辞紧张到全身发抖",
+        "onboard_time": 1668397287,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112663,
+        "num": 112663,
+        "word": "快乐减肥这样做就够了",
+        "onboard_time": 1668396988,
+        "rank": 49,
+        "category": "体育,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
