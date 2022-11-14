@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668460848815,
+  "endTime": 1668461854037,
   "band_list": [
     {
       "raw_hot": 1909040,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 43028,
-      "num": 23049,
+      "num": 23118,
       "word": "交大博士晒毕业照男女比例扎心",
       "onboard_time": 1668452833,
       "rank": 48,
@@ -467,11 +467,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20475,
-      "num": 20475,
+      "raw_hot": 22903,
+      "num": 22903,
       "word": "宝妈买爱他美奶粉开罐遇活虫",
       "onboard_time": 1668455651,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18017,
+      "num": 18017,
+      "word": "大量肥美海肠被大风吹上海滩",
+      "onboard_time": 1668459251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16343,
+      "num": 16343,
+      "word": "糖尿病不能根治",
+      "onboard_time": 1668459791,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -483,20 +499,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 13246,
-      "num": 13246,
-      "word": "糖尿病不能根治",
-      "onboard_time": 1668459791,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12971,
       "num": 12971,
       "word": "小狗可不是好欺负的",
       "onboard_time": 1668453553,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 12250,
+      "num": 12250,
+      "word": "台湾问题是中美关系政治基础中的基础",
+      "onboard_time": 1668460931,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 10271,
@@ -513,14 +529,6 @@
       "onboard_time": 1668457213,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 8846,
-      "num": 8846,
-      "word": "大量肥美海肠被大风吹上海滩",
-      "onboard_time": 1668459251,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8160,
@@ -545,6 +553,14 @@
       "onboard_time": 1668459491,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5732,
+      "num": 11941,
+      "word": "小时候的西游记都白看了",
+      "onboard_time": 1668461531,
+      "rank": 40,
+      "category": "影视,幽默"
     }
   ],
   "hotgov_list": [
