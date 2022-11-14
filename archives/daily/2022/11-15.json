@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668447255088,
+  "endTime": 1668448319704,
   "band_list": [
     {
       "raw_hot": 1909040,
@@ -291,20 +291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124854,
+      "num": 124854,
+      "word": "伴侣情绪稳定重不重要",
+      "onboard_time": 1668444263,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118675,
       "num": 118675,
       "word": "北京疫情进展呈现上升态势",
       "onboard_time": 1668425669,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114558,
-      "num": 114558,
-      "word": "伴侣情绪稳定重不重要",
-      "onboard_time": 1668444263,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 106594,
@@ -427,8 +427,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40877,
-      "num": 40877,
+      "raw_hot": 46235,
+      "num": 46235,
       "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
       "onboard_time": 1668445699,
       "rank": 46,
