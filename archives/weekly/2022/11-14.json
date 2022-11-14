@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668450471199,
+  "endTime": 1668451491130,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2547,11 +2547,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 38823,
+      "raw_hot": 43857,
       "num": 31766,
       "word": "广东农民工夫妻带娃租7年的房",
       "onboard_time": 1668448877,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42770,
+      "num": 38131,
+      "word": "淀粉加伟哥赚200倍暴利团伙被捕",
+      "onboard_time": 1668450314,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2595,12 +2603,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 18138,
-      "num": 20829,
-      "word": "淀粉加伟哥赚200倍暴利团伙被捕",
-      "onboard_time": 1668450314,
+      "raw_hot": 15491,
+      "num": 15491,
+      "word": "用吃饭掩饰尴尬的猫咪",
+      "onboard_time": 1668451454,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 15032,
