@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668550820897,
+  "endTime": 1668551839262,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1403,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448103,
+      "num": 448103,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447131,
       "num": 447131,
       "word": "每日优鲜全职员工仅余55人",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1668400712,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331251,
-      "num": 331251,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331052,
@@ -4851,12 +4851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50819,
+      "num": 31710,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 50514,
       "num": 50514,
       "word": "和狗告状的小朋友",
       "onboard_time": 1668358341,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48443,
+      "num": 48443,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 44341,
@@ -4883,20 +4899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36330,
-      "num": 36330,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 35624,
-      "num": 24435,
-      "word": "男子纵身跳湖救下溺水孩子",
-      "onboard_time": 1668547932,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 39136,
+      "num": 31701,
+      "word": "罗晋新剧大婚狂炫花生",
+      "onboard_time": 1668548772,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 34468,
@@ -4907,20 +4915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31710,
+      "num": 31710,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31677,
+      "num": 31677,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28694,
       "num": 28694,
       "word": "元英在结一种很新的婚",
       "onboard_time": 1668444807,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26867,
-      "num": 26867,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26208,
@@ -4955,22 +4971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21802,
-      "num": 21802,
-      "word": "罗晋新剧大婚狂炫花生",
-      "onboard_time": 1668548772,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 21732,
-      "num": 21732,
-      "word": "卿卿日常大少主出场",
-      "onboard_time": 1668547632,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 18365,
       "num": 1462076,
       "word": "生态文明与美丽中国实践边会",
@@ -4993,6 +4993,14 @@
       "onboard_time": 1668451454,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 15108,
+      "num": 17515,
+      "word": "江苏跳跃式降温把花整懵了",
+      "onboard_time": 1668551715,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15032,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668550820897,
+  "endTime": 1668551839262,
   "band_list": [
     {
       "raw_hot": 1270795,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448103,
+      "num": 448103,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381801,
       "num": 314461,
       "word": "毛豆 炸",
@@ -96,14 +104,6 @@
       "word": "欠债4600万大叔认真卖烤肠还债",
       "onboard_time": 1668506488,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331251,
-      "num": 331251,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50819,
+      "num": 31710,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 48443,
+      "num": 48443,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 41849,
       "num": 41849,
       "word": "警犬看到教官怀抱小狗吃醋",
@@ -459,20 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36330,
-      "num": 36330,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 39136,
+      "num": 31701,
+      "word": "罗晋新剧大婚狂炫花生",
+      "onboard_time": 1668548772,
+      "rank": 36,
+      "category": "影视"
     },
     {
-      "raw_hot": 35624,
-      "num": 24435,
-      "word": "男子纵身跳湖救下溺水孩子",
-      "onboard_time": 1668547932,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 31710,
+      "num": 31710,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31677,
+      "num": 31677,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 28282,
@@ -483,14 +507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 26867,
-      "num": 26867,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24528,
       "num": 22284,
       "word": "包装盒上的牛肉面",
@@ -499,28 +515,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 21802,
-      "num": 21802,
-      "word": "罗晋新剧大婚狂炫花生",
-      "onboard_time": 1668548772,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 21732,
-      "num": 21732,
-      "word": "卿卿日常大少主出场",
-      "onboard_time": 1668547632,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 16065,
       "num": 14904,
       "word": "再见爱人终于甜起来了",
       "onboard_time": 1668542292,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15108,
+      "num": 17515,
+      "word": "江苏跳跃式降温把花整懵了",
+      "onboard_time": 1668551715,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

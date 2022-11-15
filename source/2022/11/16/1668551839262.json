@@ -1,0 +1,410 @@
+{
+  "runTime": 1668551839262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 448103,
+        "num": 448103,
+        "word": "张文宏称走出疫情靠的是科技",
+        "onboard_time": 1668543854,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249452,
+        "num": 249452,
+        "word": "银行行长退休后当群演4天赚1200",
+        "onboard_time": 1668523955,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31786,
+        "num": 225138,
+        "word": "巴厘岛G20时间",
+        "onboard_time": 1668513508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 208200,
+        "num": 208200,
+        "word": "重庆面临最严峻疫情形势",
+        "onboard_time": 1668529165,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189162,
+        "num": 189162,
+        "word": "鹿晗 紧张",
+        "onboard_time": 1668527368,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186548,
+        "num": 186548,
+        "word": "女子网购牛仔裤竟在里面发现内裤",
+        "onboard_time": 1668522029,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167431,
+        "num": 167431,
+        "word": "女大学生干保洁在郑州买下两套房两辆车",
+        "onboard_time": 1668526412,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150963,
+        "num": 150963,
+        "word": "谈恋爱要不要在朋友圈公开",
+        "onboard_time": 1668527909,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "邱瑞 直播带货",
+        "onboard_time": 1668527849,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 109233,
+        "word": "欠债4600万大叔认真卖烤肠还债",
+        "onboard_time": 1668506488,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189345,
+        "num": 97796,
+        "word": "请允许国产电视剧里有中女的存在",
+        "onboard_time": 1668520231,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85428,
+        "num": 85428,
+        "word": "河南小伙带15斤油条膨松剂飞赴世界杯",
+        "onboard_time": 1668524434,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78989,
+        "num": 78989,
+        "word": "预测脱口秀大会第五季冠军",
+        "onboard_time": 1668530724,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76286,
+        "num": 76286,
+        "word": "男女街边消费148元开宝马逃单",
+        "onboard_time": 1668519392,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67088,
+        "num": 67088,
+        "word": "给对象连发三条想你了",
+        "onboard_time": 1668529644,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61609,
+        "num": 61609,
+        "word": "猫咪把牙卡在主人耳洞里睡着",
+        "onboard_time": 1668519870,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60186,
+        "num": 60186,
+        "word": "36岁的爱豆和同龄人交流生活",
+        "onboard_time": 1668530244,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59377,
+        "num": 59377,
+        "word": "跨省游客凭48小时核酸证明乘交通工具",
+        "onboard_time": 1668515129,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56365,
+        "num": 56365,
+        "word": "华谊兄弟裁员",
+        "onboard_time": 1668519811,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 54891,
+        "num": 54891,
+        "word": "官方回应兰州核酸只做单采",
+        "onboard_time": 1668515067,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49187,
+        "num": 49187,
+        "word": "孩子玩8小时手机父亲陪罚跪80分钟",
+        "onboard_time": 1668504091,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48443,
+        "num": 48443,
+        "word": "体育老师课上帮解物理题",
+        "onboard_time": 1668546792,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46411,
+        "num": 46411,
+        "word": "等李峋出狱",
+        "onboard_time": 1668514711,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43466,
+        "num": 43466,
+        "word": "GQ总编说会邀请虞书欣王鹤棣",
+        "onboard_time": 1668529165,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43431,
+        "num": 43431,
+        "word": "毛豆 炸",
+        "onboard_time": 1668523592,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39621,
+        "num": 39621,
+        "word": "这样练臀真的会瘦腿",
+        "onboard_time": 1668524971,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39606,
+        "num": 39606,
+        "word": "卡塔尔世界杯冠军可获4200万美元",
+        "onboard_time": 1668520171,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36573,
+        "num": 36573,
+        "word": "警犬看到教官怀抱小狗吃醋",
+        "onboard_time": 1668534197,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31822,
+        "num": 31822,
+        "word": "31只斑海豹在辽河入海口上岸",
+        "onboard_time": 1668528447,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31710,
+        "num": 31710,
+        "word": "80亿人口对世界意味着什么",
+        "onboard_time": 1668537853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50819,
+        "num": 31710,
+        "word": "男子纵身跳湖救下溺水孩子",
+        "onboard_time": 1668547932,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 39136,
+        "num": 31701,
+        "word": "罗晋新剧大婚狂炫花生",
+        "onboard_time": 1668548772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36160,
+        "num": 31687,
+        "word": "点燃我温暖你将在北京举办见面会",
+        "onboard_time": 1668530063,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34051,
+        "num": 31683,
+        "word": "鸟鸟 文本",
+        "onboard_time": 1668516515,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31677,
+        "num": 31677,
+        "word": "卿卿日常大少主出场",
+        "onboard_time": 1668547632,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29353,
+        "num": 29353,
+        "word": "中公教育若未按时退费将卖楼还钱",
+        "onboard_time": 1668509432,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29089,
+        "num": 29089,
+        "word": "北京朝阳新划定29个高风险区",
+        "onboard_time": 1668512847,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26485,
+        "num": 26485,
+        "word": "每日优鲜全职员工仅余55人",
+        "onboard_time": 1668510750,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25462,
+        "num": 25462,
+        "word": "男子疑吃淋巴肉维权遭威胁",
+        "onboard_time": 1668509129,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25028,
+        "num": 25028,
+        "word": "猫咪打完架只剩尴尬",
+        "onboard_time": 1668522932,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25019,
+        "num": 25019,
+        "word": "近期热播剧的三对cp",
+        "onboard_time": 1668526472,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 24765,
+        "word": "957心态",
+        "onboard_time": 1668511169,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24371,
+        "num": 24371,
+        "word": "警方通报银行抢劫案歹徒被击毙",
+        "onboard_time": 1668510572,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 24259,
+        "num": 24259,
+        "word": "继续暂停经营出入境团队游业务",
+        "onboard_time": 1668514468,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20973,
+        "num": 20973,
+        "word": "地球进入80亿人时代",
+        "onboard_time": 1668530006,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20567,
+        "num": 20567,
+        "word": "打算换一个很新的肚子",
+        "onboard_time": 1668526651,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19476,
+        "num": 19476,
+        "word": "背叛的人下地狱",
+        "onboard_time": 1668524852,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19389,
+        "num": 19389,
+        "word": "谈一场直球恋爱有多爽",
+        "onboard_time": 1668525812,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17524,
+        "num": 17524,
+        "word": "原来被爱真的很重要",
+        "onboard_time": 1668509490,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15108,
+        "num": 17515,
+        "word": "江苏跳跃式降温把花整懵了",
+        "onboard_time": 1668551715,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十分钟视频看中美元首巴厘岛会晤#"
+    }
+  }
+}
