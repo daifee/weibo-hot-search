@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668543773678,
+  "endTime": 1668544661428,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -4899,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24556,
+      "num": 24556,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24528,
       "num": 22284,
       "word": "包装盒上的牛肉面",
@@ -4923,20 +4931,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19276,
+      "num": 19276,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18365,
       "num": 1462076,
       "word": "生态文明与美丽中国实践边会",
       "onboard_time": 1668336869,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 15927,
-      "num": 15927,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15641,
