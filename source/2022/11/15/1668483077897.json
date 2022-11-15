@@ -1,0 +1,410 @@
+{
+  "runTime": 1668483077897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286252,
+        "num": 1286252,
+        "word": "广东新增无症状感染者5047例",
+        "onboard_time": 1668477808,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103252,
+        "num": 1103252,
+        "word": "社区电话打不通上门发现话筒被挪开",
+        "onboard_time": 1668477329,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79952,
+        "num": 981895,
+        "word": "G20是个什么样的组织",
+        "onboard_time": 1668442825,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973914,
+        "num": 973914,
+        "word": "全网围观下的石家庄",
+        "onboard_time": 1668475946,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744411,
+        "num": 744411,
+        "word": "母亲给儿子送饺子途中被撞身亡外卖员被公诉",
+        "onboard_time": 1668470785,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701024,
+        "num": 701024,
+        "word": "女子拒签快递被快递员私自代签",
+        "onboard_time": 1668479488,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611041,
+        "num": 611041,
+        "word": "女子饭店吃饭被陌生男子提醒患病",
+        "onboard_time": 1668480324,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603074,
+        "num": 603074,
+        "word": "感染新冠是什么体验",
+        "onboard_time": 1668442466,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451535,
+        "num": 451535,
+        "word": "男子放阳台的死水突然变绿长鱼苗",
+        "onboard_time": 1668469522,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432403,
+        "num": 432403,
+        "word": "Bobby或将离开YG",
+        "onboard_time": 1668480809,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559641,
+        "num": 431903,
+        "word": "以岭药业回应连花清瘟断货",
+        "onboard_time": 1668480569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450847,
+        "num": 431173,
+        "word": "Lami签入原公司演员部",
+        "onboard_time": 1668480156,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429085,
+        "num": 429085,
+        "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
+        "onboard_time": 1668479007,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 362180,
+        "num": 362180,
+        "word": "陈飞宇张婧仪时尚芭莎未公开图",
+        "onboard_time": 1668481829,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 6632,
+        "num": 354883,
+        "word": "民警背病危老人狂奔百米驾车送医",
+        "onboard_time": 1668482906,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349477,
+        "num": 349477,
+        "word": "全球人口达80亿",
+        "onboard_time": 1668480569,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296080,
+        "num": 296080,
+        "word": "陈小纭说又用上了36度恒温围脖",
+        "onboard_time": 1668470063,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296020,
+        "num": 296020,
+        "word": "我国首次截获全球新物种",
+        "onboard_time": 1668468501,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293322,
+        "num": 293322,
+        "word": "合肥倡导婚宴应办尽办",
+        "onboard_time": 1668481473,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281180,
+        "num": 281180,
+        "word": "Angelababy车内大片",
+        "onboard_time": 1668477329,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270411,
+        "num": 270411,
+        "word": "蒲熠星回应高考成绩加分质疑",
+        "onboard_time": 1668482490,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263445,
+        "num": 263445,
+        "word": "爱的二八定律 穿搭",
+        "onboard_time": 1668474750,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250008,
+        "num": 250008,
+        "word": "男孩看电视不睡觉父母罚通宵看",
+        "onboard_time": 1668474151,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227091,
+        "num": 227091,
+        "word": "95后地理老师板书堪比PPT",
+        "onboard_time": 1668476188,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226937,
+        "num": 226937,
+        "word": "王源觉得叫王刚很社死",
+        "onboard_time": 1668479968,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "男生军训剃寸头收获意外的帅气",
+        "onboard_time": 1668476490,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208551,
+        "num": 208551,
+        "word": "半糖奶茶并非只含一半的糖",
+        "onboard_time": 1668471089,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208169,
+        "num": 208169,
+        "word": "郑州一自称社区干部阻止市民正常拍摄",
+        "onboard_time": 1668471757,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192758,
+        "num": 192758,
+        "word": "赵睿最后一投引巴林男篮不满",
+        "onboard_time": 1668476309,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190860,
+        "num": 190860,
+        "word": "马斯克称推特将不再显示设备型号",
+        "onboard_time": 1668477089,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208452,
+        "num": 190822,
+        "word": "石家庄市今日增设免费核酸检测网点",
+        "onboard_time": 1668482369,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189711,
+        "num": 189711,
+        "word": "樊振东无悬念男单第一",
+        "onboard_time": 1668477569,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186824,
+        "num": 186824,
+        "word": "官方回应公司拒录山东服装学院学生",
+        "onboard_time": 1668476550,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184785,
+        "num": 184785,
+        "word": "北京11月14日新增本土确诊303例",
+        "onboard_time": 1668471629,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168505,
+        "num": 168505,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1668434793,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161280,
+        "num": 161280,
+        "word": "90后女子上班坚持12年装50岁大妈",
+        "onboard_time": 1668438571,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150988,
+        "num": 150988,
+        "word": "11月14日新增本土无症状16151例",
+        "onboard_time": 1668479968,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144530,
+        "num": 144530,
+        "word": "别把外来入侵物种当宠物",
+        "onboard_time": 1668470848,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143257,
+        "num": 143257,
+        "word": "乔布斯穿过拖鞋21.8万美元成交",
+        "onboard_time": 1668479305,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139604,
+        "num": 139604,
+        "word": "单身即地狱2将12月13日播出",
+        "onboard_time": 1668477569,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139171,
+        "num": 139171,
+        "word": "RNG转会期",
+        "onboard_time": 1668467660,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131170,
+        "num": 131170,
+        "word": "山峥海薇情头",
+        "onboard_time": 1668481228,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117183,
+        "num": 117183,
+        "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+        "onboard_time": 1668482730,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114608,
+        "num": 114608,
+        "word": "淀粉加伟哥赚200倍暴利团伙被捕",
+        "onboard_time": 1668450314,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110890,
+        "num": 110890,
+        "word": "巴菲特三季度40亿美元建仓台积电",
+        "onboard_time": 1668482608,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 100167,
+        "num": 100167,
+        "word": "石家庄关闭市内免费核酸检测点",
+        "onboard_time": 1668420687,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99705,
+        "num": 99705,
+        "word": "英雄联盟北极星使者皮肤",
+        "onboard_time": 1668473614,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136779,
+        "num": 99580,
+        "word": "特斯拉开卖530元限量玻璃杯",
+        "onboard_time": 1668483036,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98615,
+        "num": 98615,
+        "word": "忍者神龟崛起终极预告",
+        "onboard_time": 1668482849,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94280,
+        "num": 94280,
+        "word": "室友送柚子女生用皮做玫瑰花回赠",
+        "onboard_time": 1668482369,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马克龙#"
+    }
+  }
+}

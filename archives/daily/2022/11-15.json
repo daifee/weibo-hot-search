@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668482309314,
+  "endTime": 1668483077897,
   "band_list": [
     {
       "raw_hot": 3363977,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1525087,
-      "num": 563884,
+      "num": 603074,
       "word": "感染新冠是什么体验",
       "onboard_time": 1668442466,
       "rank": 11,
@@ -32,6 +32,14 @@
       "word": "石家庄连花清瘟胶囊卖断货",
       "onboard_time": 1668471569,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1286252,
+      "num": 1286252,
+      "word": "广东新增无症状感染者5047例",
+      "onboard_time": 1668477808,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -51,18 +59,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1265811,
-      "num": 1265811,
-      "word": "广东新增无症状感染者5047例",
-      "onboard_time": 1668477808,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1108727,
       "num": 1108727,
       "word": "社区电话打不通上门发现话筒被挪开",
       "onboard_time": 1668477329,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973914,
+      "num": 973914,
+      "word": "全网围观下的石家庄",
+      "onboard_time": 1668475946,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -81,14 +89,6 @@
       "onboard_time": 1668478049,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 898557,
-      "num": 898557,
-      "word": "全网围观下的石家庄",
-      "onboard_time": 1668475946,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849606,
@@ -123,11 +123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588647,
-      "num": 588647,
+      "raw_hot": 701024,
+      "num": 701024,
       "word": "女子拒签快递被快递员私自代签",
       "onboard_time": 1668479488,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611041,
+      "num": 611041,
+      "word": "女子饭店吃饭被陌生男子提醒患病",
+      "onboard_time": 1668480324,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -136,6 +144,14 @@
       "word": "我国首次截获全球新物种",
       "onboard_time": 1668468501,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559641,
+      "num": 431903,
+      "word": "以岭药业回应连花清瘟断货",
+      "onboard_time": 1668480569,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1668480156,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507366,
-      "num": 438327,
-      "word": "女子饭店吃饭被陌生男子提醒患病",
-      "onboard_time": 1668480324,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506019,
@@ -211,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431172,
-      "num": 431172,
-      "word": "以岭药业回应连花清瘟断货",
-      "onboard_time": 1668480569,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429183,
       "num": 429183,
       "word": "点燃我温暖你19集大结局吧",
       "onboard_time": 1668439649,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429085,
+      "num": 429085,
+      "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
+      "onboard_time": 1668479007,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 424115,
@@ -275,11 +283,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362180,
+      "num": 362180,
+      "word": "陈飞宇张婧仪时尚芭莎未公开图",
+      "onboard_time": 1668481829,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 361426,
       "num": 361426,
       "word": "大量肥美海肠被大风吹上海滩",
       "onboard_time": 1668459251,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349477,
+      "num": 349477,
+      "word": "全球人口达80亿",
+      "onboard_time": 1668480569,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -291,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333072,
-      "num": 333072,
-      "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
-      "onboard_time": 1668479007,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 298720,
       "num": 212407,
       "word": "金泰妍确诊感染新冠",
       "onboard_time": 1668434433,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293322,
+      "num": 293322,
+      "word": "合肥倡导婚宴应办尽办",
+      "onboard_time": 1668481473,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278687,
@@ -329,6 +353,14 @@
       "onboard_time": 1668430046,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270411,
+      "num": 270411,
+      "word": "蒲熠星回应高考成绩加分质疑",
+      "onboard_time": 1668482490,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 257817,
@@ -371,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 226937,
+      "num": 226937,
+      "word": "王源觉得叫王刚很社死",
+      "onboard_time": 1668479968,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225151,
       "num": 225151,
       "word": "樊振东无悬念男单第一",
@@ -387,28 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221997,
-      "num": 221997,
-      "word": "王源觉得叫王刚很社死",
-      "onboard_time": 1668479968,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219654,
       "num": 219654,
       "word": "英雄联盟北极星使者皮肤",
       "onboard_time": 1668473614,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216991,
-      "num": 216991,
-      "word": "全球人口达80亿",
-      "onboard_time": 1668480569,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215385,
@@ -448,6 +472,14 @@
       "word": "北京疫情进展呈现上升态势",
       "onboard_time": 1668425669,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208452,
+      "num": 190822,
+      "word": "石家庄市今日增设免费核酸检测网点",
+      "onboard_time": 1668482369,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -523,14 +555,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 170742,
-      "num": 170742,
-      "word": "合肥倡导婚宴应办尽办",
-      "onboard_time": 1668481473,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169914,
       "num": 169914,
       "word": "杨幂秦施进电梯动图",
@@ -561,14 +585,6 @@
       "onboard_time": 1668477569,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163962,
-      "num": 163962,
-      "word": "陈飞宇张婧仪时尚芭莎未公开图",
-      "onboard_time": 1668481829,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161704,
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143257,
+      "num": 143257,
+      "word": "乔布斯穿过拖鞋21.8万美元成交",
+      "onboard_time": 1668479305,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 143114,
       "num": 130594,
       "word": "没有刘海的李薇",
@@ -657,6 +681,14 @@
       "onboard_time": 1668431128,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136779,
+      "num": 99580,
+      "word": "特斯拉开卖530元限量玻璃杯",
+      "onboard_time": 1668483036,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 136285,
@@ -691,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131170,
+      "num": 131170,
+      "word": "山峥海薇情头",
+      "onboard_time": 1668481228,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -723,20 +763,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123015,
-      "num": 123015,
-      "word": "山峥海薇情头",
-      "onboard_time": 1668481228,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 117183,
+      "num": 117183,
+      "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+      "onboard_time": 1668482730,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 115611,
-      "num": 115611,
-      "word": "乔布斯穿过拖鞋21.8万美元成交",
-      "onboard_time": 1668479305,
-      "rank": 41,
-      "category": "科技"
+      "raw_hot": 110890,
+      "num": 110890,
+      "word": "巴菲特三季度40亿美元建仓台积电",
+      "onboard_time": 1668482608,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110182,
@@ -787,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98615,
+      "num": 98615,
+      "word": "忍者神龟崛起终极预告",
+      "onboard_time": 1668482849,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95130,
       "num": 95130,
       "word": "白术学学隔壁阳华吧",
@@ -801,6 +849,14 @@
       "onboard_time": 1668482188,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 94280,
+      "num": 94280,
+      "word": "室友送柚子女生用皮做玫瑰花回赠",
+      "onboard_time": 1668482369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92221,
@@ -859,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79952,
+      "num": 981895,
+      "word": "G20是个什么样的组织",
+      "onboard_time": 1668442825,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 76923,
       "num": 76923,
       "word": "哇唧唧哇男团喊话老板涨工资",
@@ -913,14 +977,6 @@
       "onboard_time": 1668468864,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61918,
-      "num": 902104,
-      "word": "G20是个什么样的组织",
-      "onboard_time": 1668442825,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 59082,
@@ -1003,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6632,
+      "num": 354883,
+      "word": "民警背病危老人狂奔百米驾车送医",
+      "onboard_time": 1668482906,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5732,
       "num": 11941,
       "word": "小时候的西游记都白看了",
@@ -1020,6 +1084,9 @@
     },
     {
       "word": "#中美元首巴厘岛会晤#"
+    },
+    {
+      "word": "#习近平会见马克龙#"
     }
   ]
 }
