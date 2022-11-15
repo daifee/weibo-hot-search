@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668496775206,
+  "endTime": 1668497666621,
   "band_list": [
     {
       "raw_hot": 3363977,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2576282,
+      "num": 513089,
+      "word": "泰安银行抢劫案",
+      "onboard_time": 1668495214,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2366964,
       "num": 500786,
       "word": "何律来活了",
       "onboard_time": 1668484829,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2263923,
+      "num": 612584,
+      "word": "金铁霖去世",
+      "onboard_time": 1668496107,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1965522,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1317032,
-      "num": 513089,
-      "word": "泰安银行抢劫案",
-      "onboard_time": 1668495214,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1300770,
       "num": 1300770,
       "word": "女子8年前捡漏买房带130平露台",
@@ -129,14 +137,6 @@
       "onboard_time": 1668439770,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1210653,
-      "num": 612584,
-      "word": "金铁霖去世",
-      "onboard_time": 1668496107,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1148839,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 874085,
+      "num": 579243,
+      "word": "杨幂新剧4集换了15套衣服",
+      "onboard_time": 1668493888,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849606,
       "num": 784388,
       "word": "父母让25岁女儿第4次当姐姐",
@@ -257,14 +265,6 @@
       "onboard_time": 1668469522,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763722,
-      "num": 579243,
-      "word": "杨幂新剧4集换了15套衣服",
-      "onboard_time": 1668493888,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 710578,
@@ -323,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 506038,
+      "num": 506038,
+      "word": "点燃我温暖你22集暂停的原因",
+      "onboard_time": 1668494009,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506019,
       "num": 506019,
       "word": "厦门一公司人事通知引争议",
@@ -337,14 +345,6 @@
       "onboard_time": 1668477329,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 502014,
-      "num": 502014,
-      "word": "点燃我温暖你22集暂停的原因",
-      "onboard_time": 1668494009,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 495043,
@@ -393,6 +393,14 @@
       "onboard_time": 1668491489,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455232,
+      "num": 347434,
+      "word": "疯狂小杨哥多款带货产品被质疑",
+      "onboard_time": 1668495929,
+      "rank": 20,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 453816,
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385007,
+      "num": 245653,
+      "word": "白敬亭把田曦薇鞋抱掉了",
+      "onboard_time": 1668497070,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384956,
       "num": 384956,
       "word": "湖南被霸凌少年刺伤3人被判无罪",
@@ -593,6 +609,14 @@
       "onboard_time": 1668486818,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324733,
+      "num": 324733,
+      "word": "2女孩下班回家被多男子当街殴打",
+      "onboard_time": 1668494853,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 322425,
@@ -691,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253440,
-      "num": 240362,
-      "word": "疯狂小杨哥多款带货产品被质疑",
-      "onboard_time": 1668495929,
-      "rank": 20,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 245209,
       "num": 245209,
       "word": "胡明轩状态",
@@ -737,14 +753,6 @@
       "onboard_time": 1668485671,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231967,
-      "num": 231967,
-      "word": "2女孩下班回家被多男子当街殴打",
-      "onboard_time": 1668494853,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 229834,
@@ -867,6 +875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 205205,
+      "num": 205205,
+      "word": "洛阳乘坐公共交通取消查验48小时核酸",
+      "onboard_time": 1668495747,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203902,
       "num": 203902,
       "word": "中美元首握手合影",
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184153,
+      "num": 184153,
+      "word": "李峋朱韵耳鬓厮磨",
+      "onboard_time": 1668496050,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183921,
       "num": 183921,
       "word": "台湾问题是中美关系政治基础中的基础",
@@ -953,14 +977,6 @@
       "onboard_time": 1668489268,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174330,
-      "num": 174330,
-      "word": "李峋朱韵耳鬓厮磨",
-      "onboard_time": 1668496050,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 173593,
@@ -1123,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142336,
+      "num": 155947,
+      "word": "狗狗被说后吓到直抖腿",
+      "onboard_time": 1668492450,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141159,
       "num": 141159,
       "word": "Redvelvet新专辑预告视频公开",
@@ -1139,11 +1163,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137878,
-      "num": 137878,
-      "word": "狗狗被说后吓到直抖腿",
-      "onboard_time": 1668492450,
-      "rank": 45,
+      "raw_hot": 139600,
+      "num": 139600,
+      "word": "男生为了看球人均800个心眼",
+      "onboard_time": 1668494966,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -1179,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133954,
+      "num": 133954,
+      "word": "爷爷米缸长满小虫淘米飘满盆",
+      "onboard_time": 1668497252,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132647,
       "num": 132647,
       "word": "白敬亭田曦薇卿卿日常逃避回家",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1668495092,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131682,
-      "num": 131682,
-      "word": "男生为了看球人均800个心眼",
-      "onboard_time": 1668494966,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 131570,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1668471932,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 127316,
-      "num": 127316,
-      "word": "洛阳乘坐公共交通取消查验48小时核酸",
-      "onboard_time": 1668495747,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125767,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1668431369,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108030,
+      "num": 108030,
+      "word": "4岁女童被困6楼窗外小伙踩凳救人",
+      "onboard_time": 1668497070,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 106594,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1668476858,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91543,
+      "num": 91543,
+      "word": "C罗神态轻松亮相国家队集训",
+      "onboard_time": 1668497311,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89932,
