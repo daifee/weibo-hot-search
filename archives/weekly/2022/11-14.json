@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668477304511,
+  "endTime": 1668479098775,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3127358,
+      "raw_hot": 3363977,
       "num": 3127358,
       "word": "蒲熠星",
       "onboard_time": 1668474451,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1473991,
-      "num": 909266,
+      "num": 1086741,
       "word": "石家庄连花清瘟胶囊卖断货",
       "onboard_time": 1668471569,
       "rank": 3,
@@ -291,6 +291,14 @@
       "category": "影视,网红"
     },
     {
+      "raw_hot": 908715,
+      "num": 908715,
+      "word": "韩剧cheerup男二上位",
+      "onboard_time": 1668478049,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878261,
       "num": 878261,
       "word": "班主任出嫁全班男生爬墙堵门",
@@ -304,6 +312,22 @@
       "word": "湖南被霸凌少年刺伤3人被判无罪",
       "onboard_time": 1668436291,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849606,
+      "num": 784388,
+      "word": "父母让25岁女儿第4次当姐姐",
+      "onboard_time": 1668470063,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842739,
+      "num": 842739,
+      "word": "全网围观下的石家庄",
+      "onboard_time": 1668475946,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -332,18 +356,10 @@
     },
     {
       "raw_hot": 791672,
-      "num": 791672,
+      "num": 1141534,
       "word": "男子放阳台的死水突然变绿长鱼苗",
       "onboard_time": 1668469522,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784388,
-      "num": 784388,
-      "word": "父母让25岁女儿第4次当姐姐",
-      "onboard_time": 1668470063,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514713,
+      "num": 391959,
+      "word": "广东新增无症状感染者5047例",
+      "onboard_time": 1668477808,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514691,
       "num": 456651,
       "word": "黄明昊给王鹤棣沈月拍合影",
@@ -673,6 +697,14 @@
       "onboard_time": 1668439051,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503100,
+      "num": 391662,
+      "word": "Angelababy车内大片",
+      "onboard_time": 1668477329,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501285,
@@ -808,6 +840,14 @@
       "word": "石家庄调整防疫举措决不是全面放开",
       "onboard_time": 1668421290,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462152,
+      "num": 462152,
+      "word": "男孩看电视不睡觉父母罚通宵看",
+      "onboard_time": 1668474151,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1035,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370866,
-      "num": 370866,
-      "word": "男孩看电视不睡觉父母罚通宵看",
-      "onboard_time": 1668474151,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 372734,
+      "num": 372734,
+      "word": "爱的二八定律 穿搭",
+      "onboard_time": 1668474750,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 366631,
@@ -1091,14 +1131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 356465,
-      "num": 348198,
-      "word": "全网围观下的石家庄",
-      "onboard_time": 1668475946,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355599,
       "num": 355599,
       "word": "命韵峋环吻戏来了",
@@ -1139,12 +1171,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 348318,
-      "num": 348318,
-      "word": "爱的二八定律 穿搭",
-      "onboard_time": 1668474750,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 344214,
+      "num": 344214,
+      "word": "社区电话打不通上门发现话筒被挪开",
+      "onboard_time": 1668477329,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343021,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1668404189,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278687,
+      "num": 278687,
+      "word": "95后地理老师板书堪比PPT",
+      "onboard_time": 1668476188,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 278238,
@@ -1539,12 +1579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228386,
+      "num": 228386,
+      "word": "官方回应公司拒录山东服装学院学生",
+      "onboard_time": 1668476550,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228141,
       "num": 204296,
       "word": "杨幂新剧事业心好强",
       "onboard_time": 1668406708,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225151,
+      "num": 225151,
+      "word": "樊振东无悬念男单第一",
+      "onboard_time": 1668477569,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 224782,
@@ -1555,12 +1611,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 224519,
+      "num": 224519,
+      "word": "男生军训剃寸头收获意外的帅气",
+      "onboard_time": 1668476490,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223932,
       "num": 223932,
       "word": "这老师是怎么忍住不笑的",
       "onboard_time": 1668396028,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222322,
+      "num": 222322,
+      "word": "赵睿最后一投引巴林男篮不满",
+      "onboard_time": 1668476309,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 220929,
@@ -1747,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201680,
+      "num": 201680,
+      "word": "马斯克称推特将不再显示设备型号",
+      "onboard_time": 1668477089,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 201412,
       "num": 125059,
       "word": "命韵峋环沙发打闹不像演的",
@@ -1891,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178515,
-      "num": 178515,
-      "word": "95后地理老师板书堪比PPT",
-      "onboard_time": 1668476188,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 176369,
       "num": 176369,
       "word": "亚马逊计划裁员1万人",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1668348687,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164495,
+      "num": 164495,
+      "word": "单身即地狱2将12月13日播出",
+      "onboard_time": 1668477569,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 164155,
@@ -2169,6 +2249,14 @@
       "onboard_time": 1668423326,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147152,
+      "num": 147152,
+      "word": "刘令姿元英打算盘打出残影",
+      "onboard_time": 1668478417,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 147059,
@@ -2467,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115073,
-      "num": 115073,
-      "word": "赵睿最后一投引巴林男篮不满",
-      "onboard_time": 1668476309,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
@@ -2563,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107337,
-      "num": 107337,
-      "word": "男生军训剃寸头收获意外的帅气",
-      "onboard_time": 1668476490,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "北京疫情防控工作正处于关键时期",
@@ -2635,14 +2707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100698,
-      "num": 100698,
-      "word": "官方回应公司拒录山东服装学院学生",
-      "onboard_time": 1668476550,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 98792,
       "num": 98792,
       "word": "流浪猫再也不用受苦了",
@@ -2683,14 +2747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91015,
-      "num": 91015,
-      "word": "马斯克称推特将不再显示设备型号",
-      "onboard_time": 1668477089,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 90829,
       "num": 90829,
       "word": "有点心机的小猫咪",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1668338310,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85102,
+      "num": 85102,
+      "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
+      "onboard_time": 1668479007,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 84695,
@@ -2924,7 +2988,7 @@
     },
     {
       "raw_hot": 13355,
-      "num": 967905,
+      "num": 1090436,
       "word": "200秒速览G20峰会看点",
       "onboard_time": 1668395608,
       "rank": 2,
