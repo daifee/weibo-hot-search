@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668521947713,
+  "endTime": 1668522984101,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1678859,
+      "num": 834473,
+      "word": "鸟鸟 文本",
+      "onboard_time": 1668516515,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1660356,
       "num": 1660356,
       "word": "欠债4600万大叔认真卖烤肠还债",
       "onboard_time": 1668506488,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1658282,
-      "num": 834473,
-      "word": "鸟鸟 文本",
-      "onboard_time": 1668516515,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1616690,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913622,
+      "num": 913622,
+      "word": "华谊兄弟裁员",
+      "onboard_time": 1668519811,
+      "rank": 31,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 908715,
       "num": 908715,
       "word": "韩剧cheerup男二上位",
@@ -321,14 +329,6 @@
       "onboard_time": 1668470063,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 840360,
-      "num": 840360,
-      "word": "华谊兄弟裁员",
-      "onboard_time": 1668519811,
-      "rank": 31,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 832998,
@@ -377,6 +377,14 @@
       "onboard_time": 1668513089,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724058,
+      "num": 422858,
+      "word": "请允许国产电视剧里有中女的存在",
+      "onboard_time": 1668520231,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 712824,
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490959,
+      "num": 490959,
+      "word": "男女街边消费148元开宝马逃单",
+      "onboard_time": 1668519392,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483655,
       "num": 483655,
       "word": "陈小纭说又用上了36度恒温围脖",
@@ -657,6 +673,14 @@
       "onboard_time": 1668479007,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 427241,
+      "num": 427241,
+      "word": "卡塔尔世界杯冠军可获4200万美元",
+      "onboard_time": 1668520171,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 427003,
@@ -787,14 +811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 397763,
-      "num": 397763,
-      "word": "男女街边消费148元开宝马逃单",
-      "onboard_time": 1668519392,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397689,
       "num": 397689,
       "word": "室友送柚子女生用皮做玫瑰花回赠",
@@ -817,14 +833,6 @@
       "onboard_time": 1668492925,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 387636,
-      "num": 252138,
-      "word": "请允许国产电视剧里有中女的存在",
-      "onboard_time": 1668520231,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 385542,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356036,
+      "num": 356036,
+      "word": "女子网购牛仔裤竟在里面发现内裤",
+      "onboard_time": 1668522029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355792,
       "num": 355792,
       "word": "2023届高校毕业生预计1158万",
@@ -921,6 +937,14 @@
       "onboard_time": 1668508178,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351892,
+      "num": 351892,
+      "word": "猫咪把牙卡在主人耳洞里睡着",
+      "onboard_time": 1668519870,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346200,
@@ -1019,14 +1043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311738,
-      "num": 311738,
-      "word": "卡塔尔世界杯冠军可获4200万美元",
-      "onboard_time": 1668520171,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310330,
       "num": 281734,
       "word": "李峋玩打火机vs阿瑟玩打火机",
@@ -1100,7 +1116,7 @@
     },
     {
       "raw_hot": 282339,
-      "num": 166633,
+      "num": 219802,
       "word": "白术车内吻肖砚",
       "onboard_time": 1668521190,
       "rank": 32,
@@ -1171,16 +1187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272601,
-      "num": 272601,
-      "word": "猫咪把牙卡在主人耳洞里睡着",
-      "onboard_time": 1668519870,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270266,
-      "num": 164132,
+      "num": 183023,
       "word": "60岁李峋",
       "onboard_time": 1668519451,
       "rank": 41,
@@ -1859,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148308,
+      "num": 148308,
+      "word": "中国饭碗必将装得更满",
+      "onboard_time": 1668520891,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148266,
       "num": 148266,
       "word": "这届大学生是懂直播的",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1668509609,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144663,
+      "num": 144663,
+      "word": "英语作业让一家人变得生疏",
+      "onboard_time": 1668522212,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 143257,
@@ -2067,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125916,
+      "num": 125916,
+      "word": "想去这里养老了",
+      "onboard_time": 1668521670,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125767,
       "num": 103836,
       "word": "朱韵朋友圈秀恩爱",
@@ -2131,14 +2163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111950,
-      "num": 111950,
-      "word": "中国饭碗必将装得更满",
-      "onboard_time": 1668520891,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110511,
       "num": 1431695,
       "word": "G20是个什么样的组织",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1668517290,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107076,
-      "num": 107076,
-      "word": "想去这里养老了",
-      "onboard_time": 1668521670,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 106594,
@@ -2259,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99128,
+      "num": 99128,
+      "word": "猫咪打完架只剩尴尬",
+      "onboard_time": 1668522932,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98615,
       "num": 98615,
       "word": "忍者神龟崛起终极预告",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1668494308,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97543,
+      "num": 97543,
+      "word": "聪明的狗能有多聪明",
+      "onboard_time": 1668522872,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97024,
