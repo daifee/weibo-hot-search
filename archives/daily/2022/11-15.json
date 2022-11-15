@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668508775446,
+  "endTime": 1668511049579,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -73,6 +73,14 @@
       "onboard_time": 1668483937,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1658613,
+      "num": 1658613,
+      "word": "欠债4600万大叔认真卖烤肠还债",
+      "onboard_time": 1668506488,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1616690,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1238259,
+      "num": 1238259,
+      "word": "贵州11岁女孩疑被指偷文具后跳楼",
+      "onboard_time": 1668506667,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1148839,
       "num": 746812,
       "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
@@ -251,14 +267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 949390,
-      "num": 422682,
-      "word": "欠债4600万大叔认真卖烤肠还债",
-      "onboard_time": 1668506488,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 931289,
       "num": 555324,
       "word": "12年青海省理科状元不姓文",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841459,
+      "num": 841459,
+      "word": "李峋见朱韵父母是为了分手",
+      "onboard_time": 1668506250,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 832998,
       "num": 832998,
       "word": "爷爷米缸长满小虫淘米飘满盆",
@@ -321,22 +337,6 @@
       "onboard_time": 1668469522,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782519,
-      "num": 782519,
-      "word": "李峋见朱韵父母是为了分手",
-      "onboard_time": 1668506250,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 723369,
-      "num": 413150,
-      "word": "贵州11岁女孩疑被指偷文具后跳楼",
-      "onboard_time": 1668506667,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 710578,
@@ -531,6 +531,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 427003,
+      "num": 335230,
+      "word": "毕节莎莎文具店",
+      "onboard_time": 1668506190,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 424115,
       "num": 424115,
       "word": "淀粉加伟哥赚200倍暴利团伙被捕",
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353173,
+      "num": 353173,
+      "word": "刘诗雯成功解锁新身份",
+      "onboard_time": 1668508178,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346200,
       "num": 346200,
       "word": "蒲熠星回应高考成绩加分质疑",
@@ -763,6 +779,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 326153,
+      "num": 326153,
+      "word": "警方通报银行抢劫案歹徒被击毙",
+      "onboard_time": 1668510572,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 322425,
       "num": 322425,
       "word": "猫的爪爪有啥用",
@@ -777,6 +801,14 @@
       "onboard_time": 1668493235,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306645,
+      "num": 306645,
+      "word": "你介意另一半从不做家务吗",
+      "onboard_time": 1668505470,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 305174,
@@ -801,6 +833,14 @@
       "onboard_time": 1668508228,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295281,
+      "num": 295281,
+      "word": "男子疑吃淋巴肉维权遭威胁",
+      "onboard_time": 1668509129,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294042,
@@ -843,14 +883,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 278183,
-      "num": 278183,
-      "word": "你介意另一半从不做家务吗",
-      "onboard_time": 1668505470,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276393,
       "num": 276393,
       "word": "交大博士晒毕业照男女比例扎心",
@@ -875,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268625,
-      "num": 268625,
-      "word": "毕节莎莎文具店",
-      "onboard_time": 1668506190,
-      "rank": 32,
-      "category": "社会负面"
+      "raw_hot": 260604,
+      "num": 260604,
+      "word": "2023届高校毕业生预计1158万",
+      "onboard_time": 1668507750,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 257817,
@@ -905,6 +937,14 @@
       "onboard_time": 1668503437,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251829,
+      "num": 116622,
+      "word": "张婧仪17岁到23岁荧幕变化",
+      "onboard_time": 1668510990,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249871,
@@ -969,6 +1009,14 @@
       "onboard_time": 1668507270,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231037,
+      "num": 231037,
+      "word": "王源mbti是infp和intp",
+      "onboard_time": 1668510639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 229834,
@@ -1155,6 +1203,38 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192097,
+      "num": 191678,
+      "word": "卿卿日常热度破万全员flag",
+      "onboard_time": 1668510387,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191782,
+      "num": 191782,
+      "word": "陪主人打麻将昏昏欲睡的狗",
+      "onboard_time": 1668505110,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190759,
+      "num": 190759,
+      "word": "命韵峋环拥吻",
+      "onboard_time": 1668509249,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190278,
+      "num": 190278,
+      "word": "脱口秀大会",
+      "onboard_time": 1668510689,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190164,
       "num": 190164,
       "word": "秦施前男友是许幻山",
@@ -1203,20 +1283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181003,
-      "num": 181003,
-      "word": "陪主人打麻将昏昏欲睡的狗",
-      "onboard_time": 1668505110,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 180657,
       "num": 180657,
       "word": "4岁女童被困6楼窗外小伙踩凳救人",
       "onboard_time": 1668497070,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180013,
+      "num": 180013,
+      "word": "男子退货不愿退赠品",
+      "onboard_time": 1668509911,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179614,
@@ -1411,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150744,
+      "num": 150744,
+      "word": "原来被爱真的很重要",
+      "onboard_time": 1668509490,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149878,
       "num": 149878,
       "word": "当南方舍友第一次看到暖气",
@@ -1424,6 +1512,14 @@
       "word": "刘令姿元英打算盘打出残影",
       "onboard_time": 1668478417,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146529,
+      "num": 146529,
+      "word": "命韵峋环玻璃渣里捡糖吃",
+      "onboard_time": 1668509609,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1611,12 +1707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122771,
+      "num": 122771,
+      "word": "办公室里有八百个心眼子",
+      "onboard_time": 1668510091,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118857,
       "num": 118857,
       "word": "马刺vs勇士",
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "每日优鲜全职员工仅余55人",
+      "onboard_time": 1668510750,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114191,
@@ -1635,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113976,
-      "num": 113976,
-      "word": "2023届高校毕业生预计1158万",
-      "onboard_time": 1668507750,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 112391,
       "num": 112391,
       "word": "如果大熊猫玩捉迷藏会怎样",
@@ -1652,7 +1756,7 @@
     },
     {
       "raw_hot": 110511,
-      "num": 1210099,
+      "num": 1431695,
       "word": "G20是个什么样的组织",
       "onboard_time": 1668442825,
       "rank": 49,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1668431369,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107955,
+      "num": 107955,
+      "word": "怎么上课还有举手侠",
+      "onboard_time": 1668510215,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106594,
@@ -1680,14 +1792,6 @@
       "word": "2024年巴黎奥运会吉祥物",
       "onboard_time": 1668431971,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104544,
-      "num": 104544,
-      "word": "刘诗雯成功解锁新身份",
-      "onboard_time": 1668508178,
-      "rank": 44,
       "category": "体育"
     },
     {
