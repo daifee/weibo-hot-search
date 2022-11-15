@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668529902461,
+  "endTime": 1668531110501,
   "band_list": [
     {
       "raw_hot": 1270795,
@@ -17,6 +17,14 @@
       "onboard_time": 1668516515,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 869169,
+      "num": 869169,
+      "word": "谈恋爱要不要在朋友圈公开",
+      "onboard_time": 1668527909,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 835256,
@@ -43,19 +51,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617661,
-      "num": 617661,
-      "word": "谈恋爱要不要在朋友圈公开",
-      "onboard_time": 1668527909,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 606057,
       "num": 606057,
       "word": "女大学生干保洁在郑州买下两套房两辆车",
       "onboard_time": 1668526412,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584987,
+      "num": 584987,
+      "word": "重庆面临最严峻疫情形势",
+      "onboard_time": 1668529165,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329423,
+      "num": 275052,
+      "word": "GQ总编说会邀请虞书欣王鹤棣",
+      "onboard_time": 1668529165,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297081,
       "num": 297081,
       "word": "背叛的人下地狱",
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271096,
-      "num": 175292,
-      "word": "GQ总编说会邀请虞书欣王鹤棣",
-      "onboard_time": 1668529165,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 258972,
+      "num": 147169,
+      "word": "点燃我温暖你将在北京举办见面会",
+      "onboard_time": 1668530063,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 255622,
@@ -137,6 +153,14 @@
       "onboard_time": 1668515067,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220691,
+      "num": 100960,
+      "word": "36岁的爱豆和同龄人交流生活",
+      "onboard_time": 1668530244,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211074,
@@ -203,14 +227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168306,
-      "num": 168306,
-      "word": "重庆面临最严峻疫情形势",
-      "onboard_time": 1668529165,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168244,
       "num": 115709,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -225,6 +241,14 @@
       "onboard_time": 1668519392,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156568,
+      "num": 156568,
+      "word": "给对象连发三条想你了",
+      "onboard_time": 1668529644,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 145919,
@@ -281,6 +305,14 @@
       "onboard_time": 1668509432,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119608,
+      "num": 76696,
+      "word": "预测脱口秀大会第五季冠军",
+      "onboard_time": 1668530724,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 114125,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86614,
+      "num": 86614,
+      "word": "31只斑海豹在辽河入海口上岸",
+      "onboard_time": 1668528447,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85335,
       "num": 85335,
       "word": "北京朝阳新划定29个高风险区",
@@ -387,25 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77598,
-      "num": 77598,
-      "word": "31只斑海豹在辽河入海口上岸",
-      "onboard_time": 1668528447,
-      "rank": 48,
+      "raw_hot": 74474,
+      "num": 74474,
+      "word": "地球进入80亿人时代",
+      "onboard_time": 1668530006,
+      "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64623,
-      "num": 64623,
-      "word": "给对象连发三条想你了",
-      "onboard_time": 1668529644,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
     {
       "word": "#十分钟视频看中美元首巴厘岛会晤#"
+    },
+    {
+      "word": "#G20峰会金句#"
     }
   ]
 }
