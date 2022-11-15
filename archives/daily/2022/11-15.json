@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668494575176,
+  "endTime": 1668496775206,
   "band_list": [
     {
       "raw_hot": 3363977,
@@ -51,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1616690,
+      "num": 1616690,
+      "word": "张雪峰称外卖员职业5-10年内可能消失",
+      "onboard_time": 1668491489,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1528740,
+      "num": 567158,
+      "word": "泰安警方回应银行劫案",
+      "onboard_time": 1668493473,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1525087,
       "num": 603074,
       "word": "感染新冠是什么体验",
@@ -65,6 +81,22 @@
       "onboard_time": 1668471569,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1462695,
+      "num": 622411,
+      "word": "美国变性网红被捕入狱关入男囚",
+      "onboard_time": 1668491914,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1317032,
+      "num": 513089,
+      "word": "泰安银行抢劫案",
+      "onboard_time": 1668495214,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1300770,
@@ -99,11 +131,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1266341,
-      "num": 1266341,
-      "word": "张雪峰称外卖员职业5-10年内可能消失",
-      "onboard_time": 1668491489,
-      "rank": 1,
+      "raw_hot": 1210653,
+      "num": 612584,
+      "word": "金铁霖去世",
+      "onboard_time": 1668496107,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1148839,
+      "num": 746812,
+      "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
+      "onboard_time": 1668492327,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -136,14 +176,6 @@
       "word": "乌鲁木齐被罚50万元宠物店负责人发声",
       "onboard_time": 1668482730,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 998572,
-      "num": 361422,
-      "word": "美国变性网红被捕入狱关入男囚",
-      "onboard_time": 1668491914,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 931289,
-      "num": 358726,
+      "num": 555324,
       "word": "12年青海省理科状元不姓文",
       "onboard_time": 1668490651,
       "rank": 13,
@@ -227,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 746812,
-      "num": 746812,
-      "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
-      "onboard_time": 1668492327,
+      "raw_hot": 763722,
+      "num": 579243,
+      "word": "杨幂新剧4集换了15套衣服",
+      "onboard_time": 1668493888,
       "rank": 16,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 710578,
@@ -305,6 +337,14 @@
       "onboard_time": 1668477329,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502014,
+      "num": 502014,
+      "word": "点燃我温暖你22集暂停的原因",
+      "onboard_time": 1668494009,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 495043,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392338,
+      "num": 392338,
+      "word": "柬埔寨首相新冠检测呈阳性",
+      "onboard_time": 1668492925,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 385542,
       "num": 160750,
       "word": "陈飞宇拍完吻戏问张婧仪害羞了吗",
@@ -587,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280802,
-      "num": 280802,
-      "word": "杨幂新剧4集换了15套衣服",
-      "onboard_time": 1668493888,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280157,
       "num": 280157,
       "word": "潮州特斯拉事故前视频公布",
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274414,
+      "num": 274414,
+      "word": "男子发视频吐槽烤全羊被索赔2万",
+      "onboard_time": 1668491848,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257817,
       "num": 257817,
       "word": "男生军训剃寸头收获意外的帅气",
@@ -641,6 +689,14 @@
       "onboard_time": 1668488612,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253440,
+      "num": 240362,
+      "word": "疯狂小杨哥多款带货产品被质疑",
+      "onboard_time": 1668495929,
+      "rank": 20,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 245209,
@@ -683,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232855,
-      "num": 232855,
-      "word": "点燃我温暖你22集暂停的原因",
-      "onboard_time": 1668494009,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 231967,
+      "num": 231967,
+      "word": "2女孩下班回家被多男子当街殴打",
+      "onboard_time": 1668494853,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 229834,
@@ -763,12 +819,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 211694,
+      "num": 211694,
+      "word": "孙怡再见爱人粉籍反复横跳",
+      "onboard_time": 1668495086,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211425,
       "num": 211425,
       "word": "8岁女孩带小鸡仔在跑步机上锻炼",
       "onboard_time": 1668441806,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211144,
+      "num": 211144,
+      "word": "C罗B费握手画面引热议",
+      "onboard_time": 1668492814,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 209729,
@@ -835,22 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191663,
-      "num": 191663,
-      "word": "C罗B费握手画面引热议",
-      "onboard_time": 1668492814,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190634,
-      "num": 190634,
-      "word": "男子发视频吐槽烤全羊被索赔2万",
-      "onboard_time": 1668491848,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190164,
       "num": 190164,
       "word": "秦施前男友是许幻山",
@@ -899,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174330,
+      "num": 174330,
+      "word": "李峋朱韵耳鬓厮磨",
+      "onboard_time": 1668496050,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173593,
       "num": 173593,
       "word": "巴菲特三季度40亿美元建仓台积电",
@@ -915,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166543,
-      "num": 166543,
-      "word": "柬埔寨首相新冠检测呈阳性",
-      "onboard_time": 1668492925,
-      "rank": 38,
-      "category": "国外要闻"
+      "raw_hot": 169301,
+      "num": 101206,
+      "word": "王奕花仙造型反差感",
+      "onboard_time": 1668496711,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166287,
@@ -977,6 +1041,14 @@
       "onboard_time": 1668431850,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "吴磊齐刘海造型花絮",
+      "onboard_time": 1668495568,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160192,
@@ -1067,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137878,
+      "num": 137878,
+      "word": "狗狗被说后吓到直抖腿",
+      "onboard_time": 1668492450,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -1097,6 +1177,30 @@
       "onboard_time": 1668491489,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132647,
+      "num": 132647,
+      "word": "白敬亭田曦薇卿卿日常逃避回家",
+      "onboard_time": 1668493408,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132626,
+      "num": 132626,
+      "word": "再见爱人",
+      "onboard_time": 1668495092,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131682,
+      "num": 131682,
+      "word": "男生为了看球人均800个心眼",
+      "onboard_time": 1668494966,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 131570,
@@ -1139,6 +1243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 127316,
+      "num": 127316,
+      "word": "洛阳乘坐公共交通取消查验48小时核酸",
+      "onboard_time": 1668495747,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125767,
       "num": 103836,
       "word": "朱韵朋友圈秀恩爱",
@@ -1153,22 +1265,6 @@
       "onboard_time": 1668481707,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122700,
-      "num": 122700,
-      "word": "白敬亭田曦薇卿卿日常逃避回家",
-      "onboard_time": 1668493408,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 122418,
-      "num": 122418,
-      "word": "狗狗被说后吓到直抖腿",
-      "onboard_time": 1668492450,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 118857,
@@ -1257,6 +1353,14 @@
       "onboard_time": 1668494308,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95536,
+      "num": 95536,
+      "word": "C罗已与葡萄牙国家队会合",
+      "onboard_time": 1668496649,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95130,
