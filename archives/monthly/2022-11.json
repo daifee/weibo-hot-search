@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668547143750,
+  "endTime": 1668548111963,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -18787,6 +18787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194348,
+      "num": 194348,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194129,
       "num": 168950,
       "word": "李峋说活动活动筋骨",
@@ -21489,14 +21497,6 @@
       "onboard_time": 1668098063,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159669,
-      "num": 159669,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159545,
@@ -31787,6 +31787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12298,
+      "num": 12298,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 11624,
       "num": 327312,
       "word": "原神3.2版本更新",
@@ -31833,6 +31841,14 @@
       "onboard_time": 1668078026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10313,
+      "num": 11801,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 10271,
@@ -31883,20 +31899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9522,
-      "num": 10634,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 9220,
       "num": 9740,
       "word": "零下三度退役军人冲进湖中救人",
       "onboard_time": 1667421910,
       "rank": 48,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 9084,
+      "num": 11789,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 8754,

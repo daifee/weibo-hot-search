@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668547143750,
+  "endTime": 1668548111963,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -3163,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194348,
+      "num": 194348,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194129,
       "num": 168950,
       "word": "李峋说活动活动筋骨",
@@ -3664,14 +3672,6 @@
       "word": "厨房吊顶流蜜汁铲出30斤蜂蜜",
       "onboard_time": 1668445699,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159669,
-      "num": 159669,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4987,12 +4987,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 12298,
+      "num": 12298,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 11042,
       "num": 11183,
       "word": "高校老师肩挑背扛给同学送早餐",
       "onboard_time": 1668367273,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10313,
+      "num": 11801,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 10271,
@@ -5011,12 +5027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 9522,
-      "num": 10634,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 9084,
+      "num": 11789,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 8754,
