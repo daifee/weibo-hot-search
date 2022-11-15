@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668520087696,
+  "endTime": 1668521947713,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -569,6 +569,14 @@
       "onboard_time": 1668470063,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840360,
+      "num": 840360,
+      "word": "华谊兄弟裁员",
+      "onboard_time": 1668519811,
+      "rank": 31,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 832998,
@@ -1563,6 +1571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397763,
+      "num": 397763,
+      "word": "男女街边消费148元开宝马逃单",
+      "onboard_time": 1668519392,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397689,
       "num": 397689,
       "word": "室友送柚子女生用皮做玫瑰花回赠",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1668333389,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387636,
+      "num": 252138,
+      "word": "请允许国产电视剧里有中女的存在",
+      "onboard_time": 1668520231,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 385768,
@@ -1907,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333629,
+      "num": 249011,
+      "word": "王鹤棣回应被鸡踹了",
+      "onboard_time": 1668517349,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333413,
       "num": 247257,
       "word": "偷偷藏不住全员杀青照",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1668517349,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323255,
-      "num": 215580,
-      "word": "王鹤棣回应被鸡踹了",
-      "onboard_time": 1668517349,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 322425,
@@ -2011,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311738,
+      "num": 311738,
+      "word": "卡塔尔世界杯冠军可获4200万美元",
+      "onboard_time": 1668520171,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310330,
       "num": 281734,
       "word": "李峋玩打火机vs阿瑟玩打火机",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1668392967,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308791,
+      "num": 308791,
+      "word": "十斤的猫有九斤的心眼子",
+      "onboard_time": 1668516632,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 306645,
@@ -2107,20 +2147,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284235,
-      "num": 173785,
-      "word": "华谊兄弟裁员",
-      "onboard_time": 1668519811,
-      "rank": 31,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 283315,
       "num": 283315,
       "word": "Lisa获奖感言视频",
       "onboard_time": 1668389969,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282339,
+      "num": 166633,
+      "word": "白术车内吻肖砚",
+      "onboard_time": 1668521190,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 282335,
@@ -2171,20 +2211,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278176,
+      "num": 278176,
+      "word": "中公教育若未按时退费将卖楼还钱",
+      "onboard_time": 1668509432,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276393,
       "num": 276393,
       "word": "交大博士晒毕业照男女比例扎心",
       "onboard_time": 1668452833,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274952,
-      "num": 274952,
-      "word": "十斤的猫有九斤的心眼子",
-      "onboard_time": 1668516632,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 274414,
@@ -2203,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272601,
+      "num": 272601,
+      "word": "猫咪把牙卡在主人耳洞里睡着",
+      "onboard_time": 1668519870,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -2211,12 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270850,
-      "num": 270850,
-      "word": "中公教育若未按时退费将卖楼还钱",
-      "onboard_time": 1668509432,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 270266,
+      "num": 164132,
+      "word": "60岁李峋",
+      "onboard_time": 1668519451,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 268388,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1668383667,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253052,
-      "num": 123847,
-      "word": "60岁李峋",
-      "onboard_time": 1668519451,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 252215,
@@ -3907,14 +3947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127291,
-      "num": 127291,
-      "word": "男女街边消费148元开宝马逃单",
-      "onboard_time": 1668519392,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126854,
       "num": 126854,
       "word": "办公室里有八百个心眼子",
@@ -3995,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115316,
+      "num": 115316,
+      "word": "被非遗根雕的成品惊艳了",
+      "onboard_time": 1668521372,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
@@ -4033,6 +4073,14 @@
       "onboard_time": 1668489450,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111950,
+      "num": 111950,
+      "word": "中国饭碗必将装得更满",
+      "onboard_time": 1668520891,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110635,
@@ -4139,6 +4187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107076,
+      "num": 107076,
+      "word": "想去这里养老了",
+      "onboard_time": 1668521670,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "北京疫情防控工作正处于关键时期",
@@ -4201,6 +4257,14 @@
       "onboard_time": 1668378014,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101922,
+      "num": 101922,
+      "word": "2个动作缓解腰酸背痛",
+      "onboard_time": 1668521428,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100861,

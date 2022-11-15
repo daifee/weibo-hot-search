@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668520087696,
+  "endTime": 1668521947713,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -3633,6 +3633,14 @@
       "onboard_time": 1667494158,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840360,
+      "num": 840360,
+      "word": "华谊兄弟裁员",
+      "onboard_time": 1668519811,
+      "rank": 31,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 840310,
@@ -9915,6 +9923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397763,
+      "num": 397763,
+      "word": "男女街边消费148元开宝马逃单",
+      "onboard_time": 1668519392,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397740,
       "num": 362988,
       "word": "刘浩存宋威龙念念相忘晴空之下海报",
@@ -10201,6 +10217,14 @@
       "onboard_time": 1668076405,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387636,
+      "num": 252138,
+      "word": "请允许国产电视剧里有中女的存在",
+      "onboard_time": 1668520231,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 386549,
@@ -11867,6 +11891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333629,
+      "num": 249011,
+      "word": "王鹤棣回应被鸡踹了",
+      "onboard_time": 1668517349,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333413,
       "num": 247257,
       "word": "偷偷藏不住全员杀青照",
@@ -12233,14 +12265,6 @@
       "onboard_time": 1667998406,
       "rank": 14,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 323255,
-      "num": 215580,
-      "word": "王鹤棣回应被鸡踹了",
-      "onboard_time": 1668517349,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323184,
@@ -12731,6 +12755,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 311738,
+      "num": 311738,
+      "word": "卡塔尔世界杯冠军可获4200万美元",
+      "onboard_time": 1668520171,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311729,
       "num": 311729,
       "word": "猫爪上留有狗狗被打的证据",
@@ -12825,6 +12857,14 @@
       "onboard_time": 1667393845,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 308791,
+      "num": 308791,
+      "word": "十斤的猫有九斤的心眼子",
+      "onboard_time": 1668516632,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 308151,
@@ -13755,14 +13795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284235,
-      "num": 173785,
-      "word": "华谊兄弟裁员",
-      "onboard_time": 1668519811,
-      "rank": 31,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 283868,
       "num": 146683,
       "word": "豆瓣崩了",
@@ -13793,6 +13825,14 @@
       "onboard_time": 1668262959,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282339,
+      "num": 166633,
+      "word": "白术车内吻肖砚",
+      "onboard_time": 1668521190,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 282335,
@@ -14035,6 +14075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278176,
+      "num": 278176,
+      "word": "中公教育若未按时退费将卖楼还钱",
+      "onboard_time": 1668509432,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278109,
       "num": 278109,
       "word": "李薇刚结婚就想把尹峥送走",
@@ -14145,14 +14193,6 @@
       "onboard_time": 1667313210,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274952,
-      "num": 274952,
-      "word": "十斤的猫有九斤的心眼子",
-      "onboard_time": 1668516632,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 274944,
@@ -14281,6 +14321,14 @@
       "onboard_time": 1667304443,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272601,
+      "num": 272601,
+      "word": "猫咪把牙卡在主人耳洞里睡着",
+      "onboard_time": 1668519870,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272569,
@@ -14419,19 +14467,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270850,
-      "num": 270850,
-      "word": "中公教育若未按时退费将卖楼还钱",
-      "onboard_time": 1668509432,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270796,
       "num": 183291,
       "word": "致我们单纯的小美好播出五周年",
       "onboard_time": 1667979267,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270266,
+      "num": 164132,
+      "word": "60岁李峋",
+      "onboard_time": 1668519451,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -15129,14 +15177,6 @@
       "onboard_time": 1667384367,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253052,
-      "num": 123847,
-      "word": "60岁李峋",
-      "onboard_time": 1668519451,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 252746,
@@ -24179,14 +24219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127291,
-      "num": 127291,
-      "word": "男女街边消费148元开宝马逃单",
-      "onboard_time": 1668519392,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127248,
       "num": 106275,
       "word": "谢谢你医生台词",
@@ -25227,6 +25259,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 115316,
+      "num": 115316,
+      "word": "被非遗根雕的成品惊艳了",
+      "onboard_time": 1668521372,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115231,
       "num": 115231,
       "word": "用韩剧的方式打开点燃我温暖你",
@@ -25489,6 +25529,14 @@
       "onboard_time": 1667388505,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111950,
+      "num": 111950,
+      "word": "中国饭碗必将装得更满",
+      "onboard_time": 1668520891,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111860,
@@ -25977,6 +26025,14 @@
       "onboard_time": 1668517290,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107076,
+      "num": 107076,
+      "word": "想去这里养老了",
+      "onboard_time": 1668521670,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 106845,
@@ -26481,6 +26537,14 @@
       "onboard_time": 1668219451,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101922,
+      "num": 101922,
+      "word": "2个动作缓解腰酸背痛",
+      "onboard_time": 1668521428,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101628,
