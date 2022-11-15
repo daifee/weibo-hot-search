@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668487598715,
+  "endTime": 1668489558949,
   "band_list": [
     {
       "raw_hot": 3363977,
@@ -40,6 +40,14 @@
       "word": "火树",
       "onboard_time": 1668483937,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1654927,
+      "num": 397502,
+      "word": "蒲熠星履历",
+      "onboard_time": 1668488198,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037196,
+      "num": 844678,
+      "word": "卿卿日常高开疯走",
+      "onboard_time": 1668485973,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1014203,
       "num": 1014203,
       "word": "乌鲁木齐被罚50万元宠物店负责人发声",
@@ -147,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844678,
-      "num": 844678,
-      "word": "卿卿日常高开疯走",
-      "onboard_time": 1668485973,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 825141,
+      "num": 676522,
+      "word": "iPhone用户羡慕安卓手机的地方",
+      "onboard_time": 1668487532,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 796913,
@@ -233,6 +249,14 @@
       "onboard_time": 1668477329,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 497783,
+      "num": 384242,
+      "word": "女子8年前捡漏买房带130平露台",
+      "onboard_time": 1668488011,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483655,
@@ -403,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356364,
+      "num": 356364,
+      "word": "马斯克睡在推特总部",
+      "onboard_time": 1668486872,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 353150,
+      "num": 353150,
+      "word": "男子欠70万破产还款记录令人钦佩",
+      "onboard_time": 1668488311,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346200,
       "num": 346200,
       "word": "蒲熠星回应高考成绩加分质疑",
@@ -427,20 +467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322425,
+      "num": 322425,
+      "word": "猫的爪爪有啥用",
+      "onboard_time": 1668485853,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300353,
+      "num": 300353,
+      "word": "女生地铁被老人说教穿太少膝盖疼",
+      "onboard_time": 1668486818,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298720,
       "num": 212407,
       "word": "金泰妍确诊感染新冠",
       "onboard_time": 1668434433,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279373,
-      "num": 279373,
-      "word": "猫的爪爪有啥用",
-      "onboard_time": 1668485853,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 278687,
@@ -473,6 +521,22 @@
       "onboard_time": 1668476490,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257765,
+      "num": 257765,
+      "word": "陈飞宇张婧仪天桥吻戏路透",
+      "onboard_time": 1668488612,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250368,
+      "num": 250368,
+      "word": "排队时不要只顾玩手机",
+      "onboard_time": 1668488073,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 245209,
@@ -627,6 +691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 203078,
+      "num": 203078,
+      "word": "饮品店推300元一杯天价柠檬茶",
+      "onboard_time": 1668488252,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202761,
       "num": 202761,
       "word": "审判阿瑟吻技",
@@ -659,20 +731,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187043,
+      "num": 187043,
+      "word": "老人救患病孙女拉货自扇耳光提神",
+      "onboard_time": 1668486214,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183921,
       "num": 183921,
       "word": "台湾问题是中美关系政治基础中的基础",
       "onboard_time": 1668460931,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 183524,
-      "num": 183524,
-      "word": "老人救患病孙女拉货自扇耳光提神",
-      "onboard_time": 1668486214,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181360,
@@ -779,6 +851,14 @@
       "category": "影视,体育"
     },
     {
+      "raw_hot": 153201,
+      "num": 153201,
+      "word": "王源参演角色MV预告视频",
+      "onboard_time": 1668489028,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151456,
       "num": 151456,
       "word": "秦施阳华无证离婚",
@@ -819,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140246,
-      "num": 140246,
-      "word": "女生地铁被老人说教穿太少膝盖疼",
-      "onboard_time": 1668486818,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139663,
       "num": 129905,
       "word": "时代峰峻为TF三代大悦城路演道歉",
@@ -849,14 +921,6 @@
       "onboard_time": 1668424407,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132902,
-      "num": 132902,
-      "word": "马斯克睡在推特总部",
-      "onboard_time": 1668486872,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 131570,
@@ -883,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129473,
+      "num": 129473,
+      "word": "木子洋告诫坤音二团别想着单飞",
+      "onboard_time": 1668489268,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -899,12 +971,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "张震岳回应被错认成热狗",
+      "onboard_time": 1668488079,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125767,
       "num": 103836,
       "word": "朱韵朋友圈秀恩爱",
       "onboard_time": 1668419668,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124060,
+      "num": 124060,
+      "word": "潮州特斯拉事故前视频公布",
+      "onboard_time": 1668489209,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123148,
@@ -915,20 +1003,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122411,
-      "num": 122411,
-      "word": "iPhone用户羡慕安卓手机的地方",
-      "onboard_time": 1668487532,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 118857,
       "num": 118857,
       "word": "马刺vs勇士",
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112391,
+      "num": 112391,
+      "word": "如果大熊猫玩捉迷藏会怎样",
+      "onboard_time": 1668489450,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110511,

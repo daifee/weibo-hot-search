@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668487598715,
+  "endTime": 1668489558949,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -112,6 +112,14 @@
       "word": "火树",
       "onboard_time": 1668483937,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1654927,
+      "num": 397502,
+      "word": "蒲熠星履历",
+      "onboard_time": 1668488198,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1037196,
+      "num": 844678,
+      "word": "卿卿日常高开疯走",
+      "onboard_time": 1668485973,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1016659,
       "num": 1016659,
       "word": "中美元首握手合影",
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844678,
-      "num": 844678,
-      "word": "卿卿日常高开疯走",
-      "onboard_time": 1668485973,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 825141,
+      "num": 676522,
+      "word": "iPhone用户羡慕安卓手机的地方",
+      "onboard_time": 1668487532,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 823785,
@@ -809,6 +825,14 @@
       "onboard_time": 1668405991,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 497783,
+      "num": 384242,
+      "word": "女子8年前捡漏买房带130平露台",
+      "onboard_time": 1668488011,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495505,
@@ -1299,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356364,
+      "num": 356364,
+      "word": "马斯克睡在推特总部",
+      "onboard_time": 1668486872,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 355599,
       "num": 355599,
       "word": "命韵峋环吻戏来了",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353150,
+      "num": 353150,
+      "word": "男子欠70万破产还款记录令人钦佩",
+      "onboard_time": 1668488311,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350930,
@@ -1403,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322425,
+      "num": 322425,
+      "word": "猫的爪爪有啥用",
+      "onboard_time": 1668485853,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321639,
       "num": 321639,
       "word": "呼吸哥复盘S12",
@@ -1448,6 +1496,14 @@
       "word": "95后宝妈带1岁大宝宝上班",
       "onboard_time": 1668392967,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300353,
+      "num": 300353,
+      "word": "女生地铁被老人说教穿太少膝盖疼",
+      "onboard_time": 1668486818,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1497,14 +1553,6 @@
       "onboard_time": 1668403948,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279373,
-      "num": 279373,
-      "word": "猫的爪爪有啥用",
-      "onboard_time": 1668485853,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 278822,
@@ -1603,12 +1651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257765,
+      "num": 257765,
+      "word": "陈飞宇张婧仪天桥吻戏路透",
+      "onboard_time": 1668488612,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254267,
       "num": 254267,
       "word": "广州地铁",
       "onboard_time": 1668383667,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250368,
+      "num": 250368,
+      "word": "排队时不要只顾玩手机",
+      "onboard_time": 1668488073,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 249447,
@@ -2035,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203078,
+      "num": 203078,
+      "word": "饮品店推300元一杯天价柠檬茶",
+      "onboard_time": 1668488252,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203028,
       "num": 203028,
       "word": "狗狗被摸头后的反应",
@@ -2155,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187043,
+      "num": 187043,
+      "word": "老人救患病孙女拉货自扇耳光提神",
+      "onboard_time": 1668486214,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "迪丽热巴网络侵权案胜诉获赔",
@@ -2177,14 +2257,6 @@
       "onboard_time": 1668460931,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 183524,
-      "num": 183524,
-      "word": "老人救患病孙女拉货自扇耳光提神",
-      "onboard_time": 1668486214,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182191,
@@ -2467,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153201,
+      "num": 153201,
+      "word": "王源参演角色MV预告视频",
+      "onboard_time": 1668489028,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153130,
       "num": 153130,
       "word": "经常不吃早饭可能诱发胆囊炎",
@@ -2643,14 +2723,6 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 140246,
-      "num": 140246,
-      "word": "女生地铁被老人说教穿太少膝盖疼",
-      "onboard_time": 1668486818,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140203,
       "num": 99170,
       "word": "阿蒲的影像日记本",
@@ -2707,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132902,
-      "num": 132902,
-      "word": "马斯克睡在推特总部",
-      "onboard_time": 1668486872,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "原来秋冬围巾可以这么系",
@@ -2763,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129473,
+      "num": 129473,
+      "word": "木子洋告诫坤音二团别想着单飞",
+      "onboard_time": 1668489268,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129348,
       "num": 129348,
       "word": "特斯拉称潮州车主全程没有踩刹车动作",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1668471932,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "张震岳回应被错认成热狗",
+      "onboard_time": 1668488079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 127630,
@@ -2795,20 +2875,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 124060,
+      "num": 124060,
+      "word": "潮州特斯拉事故前视频公布",
+      "onboard_time": 1668489209,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "SNH48丝路新国潮风MV",
       "onboard_time": 1668481707,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122411,
-      "num": 122411,
-      "word": "iPhone用户羡慕安卓手机的地方",
-      "onboard_time": 1668487532,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 121475,
@@ -2873,6 +2953,14 @@
       "onboard_time": 1668351034,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112391,
+      "num": 112391,
+      "word": "如果大熊猫玩捉迷藏会怎样",
+      "onboard_time": 1668489450,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110635,
