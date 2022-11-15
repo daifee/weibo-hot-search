@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668536799181,
+  "endTime": 1668537749245,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -31569,6 +31569,14 @@
       "onboard_time": 1667240292,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22284,
+      "num": 22284,
+      "word": "包装盒上的牛肉面",
+      "onboard_time": 1668536053,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 21951,
