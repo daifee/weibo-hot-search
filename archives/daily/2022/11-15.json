@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668483077897,
+  "endTime": 1668486578093,
   "band_list": [
     {
       "raw_hot": 3363977,
@@ -11,12 +11,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2159944,
+      "num": 469463,
+      "word": "何律来活了",
+      "onboard_time": 1668484829,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1928891,
+      "num": 467759,
+      "word": "广州核酸",
+      "onboard_time": 1668483988,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1909040,
       "num": 179383,
       "word": "广州海珠区疫情防控",
       "onboard_time": 1668434793,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1741704,
+      "num": 926733,
+      "word": "火树",
+      "onboard_time": 1668483937,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1525087,
@@ -67,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060468,
+      "num": 874654,
+      "word": "石家庄市今日增设免费核酸检测网点",
+      "onboard_time": 1668482369,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973914,
       "num": 973914,
       "word": "全网围观下的石家庄",
@@ -80,6 +112,22 @@
       "word": "90后女子上班坚持12年装50岁大妈",
       "onboard_time": 1668438571,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953179,
+      "num": 953179,
+      "word": "女子饭店吃饭被陌生男子提醒患病",
+      "onboard_time": 1668480324,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917663,
+      "num": 917663,
+      "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+      "onboard_time": 1668482730,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -131,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611041,
-      "num": 611041,
-      "word": "女子饭店吃饭被陌生男子提醒患病",
-      "onboard_time": 1668480324,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561047,
       "num": 561047,
       "word": "我国首次截获全球新物种",
@@ -148,7 +188,7 @@
     },
     {
       "raw_hot": 559641,
-      "num": 431903,
+      "num": 470249,
       "word": "以岭药业回应连花清瘟断货",
       "onboard_time": 1668480569,
       "rank": 12,
@@ -219,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449004,
+      "num": 449004,
+      "word": "全球人口达80亿",
+      "onboard_time": 1668480569,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447123,
+      "num": 447123,
+      "word": "想拿影帝坐袁弘前面",
+      "onboard_time": 1668484471,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429183,
       "num": 429183,
       "word": "点燃我温暖你19集大结局吧",
@@ -241,6 +297,38 @@
       "onboard_time": 1668450314,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408183,
+      "num": 408183,
+      "word": "光遇 花环",
+      "onboard_time": 1668485671,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 395537,
+      "num": 395537,
+      "word": "特斯拉开卖530元限量玻璃杯",
+      "onboard_time": 1668483036,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 394331,
+      "num": 394331,
+      "word": "合肥倡导婚宴应办尽办",
+      "onboard_time": 1668481473,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389368,
+      "num": 389368,
+      "word": "卿卿日常高开疯走",
+      "onboard_time": 1668485973,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 385542,
@@ -299,11 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349477,
-      "num": 349477,
-      "word": "全球人口达80亿",
-      "onboard_time": 1668480569,
-      "rank": 24,
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "室友送柚子女生用皮做玫瑰花回赠",
+      "onboard_time": 1668482369,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -315,20 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342464,
+      "num": 342464,
+      "word": "印度最早明年成第一人口大国",
+      "onboard_time": 1668483150,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341031,
+      "num": 341031,
+      "word": "赵丽颖欧豪李光洁风吹半夏最新剧照",
+      "onboard_time": 1668483629,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330908,
+      "num": 330908,
+      "word": "蒲熠星回应高考成绩加分质疑",
+      "onboard_time": 1668482490,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298720,
       "num": 212407,
       "word": "金泰妍确诊感染新冠",
       "onboard_time": 1668434433,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293322,
-      "num": 293322,
-      "word": "合肥倡导婚宴应办尽办",
-      "onboard_time": 1668481473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278687,
@@ -353,14 +457,6 @@
       "onboard_time": 1668430046,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270411,
-      "num": 270411,
-      "word": "蒲熠星回应高考成绩加分质疑",
-      "onboard_time": 1668482490,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 257817,
@@ -393,6 +489,14 @@
       "onboard_time": 1668470848,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235487,
+      "num": 194078,
+      "word": "时代少年团百忧戒首舞台预告",
+      "onboard_time": 1668485671,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 229834,
@@ -435,12 +539,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218353,
+      "num": 190661,
+      "word": "点燃我温暖你崔雨鑫求生欲",
+      "onboard_time": 1668485130,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215385,
       "num": 215385,
       "word": "26年前的结婚录像有多惊艳",
       "onboard_time": 1668441030,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214247,
+      "num": 188319,
+      "word": "元英你舅宠她爸",
+      "onboard_time": 1668484649,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 212830,
@@ -459,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210873,
+      "num": 153247,
+      "word": "朴彩英MASTERMIND封面画报",
+      "onboard_time": 1668486513,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209729,
       "num": 209729,
       "word": "中美两国元首致开场白",
@@ -472,14 +600,6 @@
       "word": "北京疫情进展呈现上升态势",
       "onboard_time": 1668425669,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208452,
-      "num": 190822,
-      "word": "石家庄市今日增设免费核酸检测网点",
-      "onboard_time": 1668482369,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -563,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168754,
+      "num": 168754,
+      "word": "巴菲特三季度40亿美元建仓台积电",
+      "onboard_time": 1668482608,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 166287,
       "num": 166287,
       "word": "11月14日新增本土无症状16151例",
@@ -635,6 +763,14 @@
       "category": "影视,体育"
     },
     {
+      "raw_hot": 153581,
+      "num": 153581,
+      "word": "猫的爪爪有啥用",
+      "onboard_time": 1668485853,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151456,
       "num": 151456,
       "word": "秦施阳华无证离婚",
@@ -667,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142891,
+      "num": 142891,
+      "word": "老人救患病孙女拉货自扇耳光提神",
+      "onboard_time": 1668486214,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141159,
       "num": 141159,
       "word": "Redvelvet新专辑预告视频公开",
@@ -681,14 +825,6 @@
       "onboard_time": 1668431128,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136779,
-      "num": 99580,
-      "word": "特斯拉开卖530元限量玻璃杯",
-      "onboard_time": 1668483036,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 136285,
@@ -763,20 +899,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117183,
-      "num": 117183,
-      "word": "乌鲁木齐被罚50万元宠物店负责人发声",
-      "onboard_time": 1668482730,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110890,
-      "num": 110890,
-      "word": "巴菲特三季度40亿美元建仓台积电",
-      "onboard_time": 1668482608,
-      "rank": 44,
-      "category": "财经,社会新闻"
+      "raw_hot": 118857,
+      "num": 118857,
+      "word": "马刺vs勇士",
+      "onboard_time": 1668486453,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110182,
@@ -827,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98853,
+      "num": 981895,
+      "word": "G20是个什么样的组织",
+      "onboard_time": 1668442825,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 98615,
       "num": 98615,
       "word": "忍者神龟崛起终极预告",
@@ -849,14 +985,6 @@
       "onboard_time": 1668482188,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 94280,
-      "num": 94280,
-      "word": "室友送柚子女生用皮做玫瑰花回赠",
-      "onboard_time": 1668482369,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92221,
@@ -913,14 +1041,6 @@
       "onboard_time": 1668443963,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79952,
-      "num": 981895,
-      "word": "G20是个什么样的组织",
-      "onboard_time": 1668442825,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 76923,
