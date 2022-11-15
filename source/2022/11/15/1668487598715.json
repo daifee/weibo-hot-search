@@ -1,0 +1,410 @@
+{
+  "runTime": 1668487598715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014203,
+        "num": 1014203,
+        "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+        "onboard_time": 1668482730,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962232,
+        "num": 962232,
+        "word": "广东新增无症状感染者5047例",
+        "onboard_time": 1668477808,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110511,
+        "num": 950392,
+        "word": "G20是个什么样的组织",
+        "onboard_time": 1668442825,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1483789,
+        "num": 948265,
+        "word": "火树",
+        "onboard_time": 1668483937,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939895,
+        "num": 939895,
+        "word": "女子饭店吃饭被陌生男子提醒患病",
+        "onboard_time": 1668480324,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1102775,
+        "num": 923586,
+        "word": "石家庄市今日增设免费核酸检测网点",
+        "onboard_time": 1668482369,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844678,
+        "num": 844678,
+        "word": "卿卿日常高开疯走",
+        "onboard_time": 1668485973,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 782236,
+        "num": 782236,
+        "word": "母亲给儿子送饺子途中被撞身亡外卖员被公诉",
+        "onboard_time": 1668470785,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769870,
+        "num": 769870,
+        "word": "全网围观下的石家庄",
+        "onboard_time": 1668475946,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519056,
+        "num": 519056,
+        "word": "女子拒签快递被快递员私自代签",
+        "onboard_time": 1668479488,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2366964,
+        "num": 500786,
+        "word": "何律来活了",
+        "onboard_time": 1668484829,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1965522,
+        "num": 497099,
+        "word": "广州核酸",
+        "onboard_time": 1668483988,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477409,
+        "num": 477409,
+        "word": "想拿影帝坐袁弘前面",
+        "onboard_time": 1668484471,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421759,
+        "num": 421759,
+        "word": "特斯拉开卖530元限量玻璃杯",
+        "onboard_time": 1668483036,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401505,
+        "num": 401505,
+        "word": "印度最早明年成第一人口大国",
+        "onboard_time": 1668483150,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401057,
+        "num": 401057,
+        "word": "合肥倡导婚宴应办尽办",
+        "onboard_time": 1668481473,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397689,
+        "num": 397689,
+        "word": "室友送柚子女生用皮做玫瑰花回赠",
+        "onboard_time": 1668482369,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379016,
+        "num": 379016,
+        "word": "以岭药业回应连花清瘟断货",
+        "onboard_time": 1668480569,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364089,
+        "num": 364089,
+        "word": "感染新冠是什么体验",
+        "onboard_time": 1668442466,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348240,
+        "num": 348240,
+        "word": "社区电话打不通上门发现话筒被挪开",
+        "onboard_time": 1668477329,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346200,
+        "num": 346200,
+        "word": "蒲熠星回应高考成绩加分质疑",
+        "onboard_time": 1668482490,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321341,
+        "num": 321341,
+        "word": "全球人口达80亿",
+        "onboard_time": 1668480569,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301410,
+        "num": 301410,
+        "word": "光遇 花环",
+        "onboard_time": 1668485671,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289096,
+        "num": 289096,
+        "word": "赵丽颖欧豪李光洁风吹半夏最新剧照",
+        "onboard_time": 1668483629,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279373,
+        "num": 279373,
+        "word": "猫的爪爪有啥用",
+        "onboard_time": 1668485853,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268165,
+        "num": 268165,
+        "word": "男子放阳台的死水突然变绿长鱼苗",
+        "onboard_time": 1668469522,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262485,
+        "num": 262485,
+        "word": "陈飞宇张婧仪时尚芭莎未公开图",
+        "onboard_time": 1668481829,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243846,
+        "num": 243846,
+        "word": "朴彩英MASTERMIND封面画报",
+        "onboard_time": 1668486513,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241960,
+        "num": 241960,
+        "word": "Lami签入原公司演员部",
+        "onboard_time": 1668480156,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
+        "onboard_time": 1668479007,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 226824,
+        "num": 201524,
+        "word": "元英你舅宠她爸",
+        "onboard_time": 1668484649,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197879,
+        "num": 197879,
+        "word": "男孩看电视不睡觉父母罚通宵看",
+        "onboard_time": 1668474151,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211691,
+        "num": 197814,
+        "word": "陈小纭说又用上了36度恒温围脖",
+        "onboard_time": 1668470063,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197431,
+        "num": 197431,
+        "word": "Bobby或将离开YG",
+        "onboard_time": 1668480809,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196901,
+        "num": 196901,
+        "word": "时代少年团百忧戒首舞台预告",
+        "onboard_time": 1668485671,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189268,
+        "num": 189268,
+        "word": "我国首次截获全球新物种",
+        "onboard_time": 1668468501,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183524,
+        "num": 183524,
+        "word": "老人救患病孙女拉货自扇耳光提神",
+        "onboard_time": 1668486214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174887,
+        "num": 174887,
+        "word": "半糖奶茶并非只含一半的糖",
+        "onboard_time": 1668471089,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173593,
+        "num": 173593,
+        "word": "巴菲特三季度40亿美元建仓台积电",
+        "onboard_time": 1668482608,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 158194,
+        "num": 158194,
+        "word": "男生军训剃寸头收获意外的帅气",
+        "onboard_time": 1668476490,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193448,
+        "num": 157673,
+        "word": "爱的二八定律 穿搭",
+        "onboard_time": 1668474750,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168360,
+        "num": 157323,
+        "word": "点燃我温暖你崔雨鑫求生欲",
+        "onboard_time": 1668485130,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156866,
+        "num": 156866,
+        "word": "95后地理老师板书堪比PPT",
+        "onboard_time": 1668476188,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145385,
+        "num": 145385,
+        "word": "赵睿最后一投引巴林男篮不满",
+        "onboard_time": 1668476309,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140246,
+        "num": 140246,
+        "word": "女生地铁被老人说教穿太少膝盖疼",
+        "onboard_time": 1668486818,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132902,
+        "num": 132902,
+        "word": "马斯克睡在推特总部",
+        "onboard_time": 1668486872,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 131357,
+        "num": 131357,
+        "word": "90后女子上班坚持12年装50岁大妈",
+        "onboard_time": 1668438571,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129273,
+        "num": 129273,
+        "word": "郑州一自称社区干部阻止市民正常拍摄",
+        "onboard_time": 1668471757,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122411,
+        "num": 122411,
+        "word": "iPhone用户羡慕安卓手机的地方",
+        "onboard_time": 1668487532,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113252,
+        "num": 113252,
+        "word": "樊振东无悬念男单第一",
+        "onboard_time": 1668477569,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十分钟视频看中美元首巴厘岛会晤#"
+    }
+  }
+}
