@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668531110501,
+  "endTime": 1668532842785,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1772,7 +1772,7 @@
     },
     {
       "raw_hot": 1270795,
-      "num": 697982,
+      "num": 700830,
       "word": "鹿晗 紧张",
       "onboard_time": 1668527368,
       "rank": 3,
@@ -3521,6 +3521,14 @@
       "onboard_time": 1667558308,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 868162,
+      "num": 868162,
+      "word": "重庆面临最严峻疫情形势",
+      "onboard_time": 1668529165,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866964,
@@ -5881,14 +5889,6 @@
       "onboard_time": 1667905949,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 584987,
-      "num": 584987,
-      "word": "重庆面临最严峻疫情形势",
-      "onboard_time": 1668529165,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584735,
@@ -14611,6 +14611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269677,
+      "num": 235446,
+      "word": "36岁的爱豆和同龄人交流生活",
+      "onboard_time": 1668530244,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269617,
       "num": 203646,
       "word": "杨幂谢谢你医生今晚见",
@@ -15313,6 +15321,14 @@
       "onboard_time": 1667384367,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252990,
+      "num": 252990,
+      "word": "给对象连发三条想你了",
+      "onboard_time": 1668529644,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 252746,
@@ -17081,14 +17097,6 @@
       "onboard_time": 1667834610,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 220691,
-      "num": 100960,
-      "word": "36岁的爱豆和同龄人交流生活",
-      "onboard_time": 1668530244,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220585,
@@ -20011,6 +20019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177704,
+      "num": 91244,
+      "word": "预测脱口秀大会第五季冠军",
+      "onboard_time": 1668530724,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177680,
       "num": 177680,
       "word": "电子咖啡不用喝就能提神醒脑",
@@ -21713,14 +21729,6 @@
       "onboard_time": 1667559029,
       "rank": 26,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 156568,
-      "num": 156568,
-      "word": "给对象连发三条想你了",
-      "onboard_time": 1668529644,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 156537,
@@ -25161,14 +25169,6 @@
       "onboard_time": 1667885306,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119608,
-      "num": 76696,
-      "word": "预测脱口秀大会第五季冠军",
-      "onboard_time": 1668530724,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 119583,

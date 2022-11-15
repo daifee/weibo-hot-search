@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668531110501,
+  "endTime": 1668532842785,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1270795,
-      "num": 697982,
+      "num": 700830,
       "word": "鹿晗 紧张",
       "onboard_time": 1668527368,
       "rank": 3,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868162,
+      "num": 868162,
+      "word": "重庆面临最严峻疫情形势",
+      "onboard_time": 1668529165,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849606,
       "num": 784388,
       "word": "父母让25岁女儿第4次当姐姐",
@@ -913,14 +921,6 @@
       "onboard_time": 1668354865,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 584987,
-      "num": 584987,
-      "word": "重庆面临最严峻疫情形势",
-      "onboard_time": 1668529165,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579389,
@@ -2371,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269677,
+      "num": 235446,
+      "word": "36岁的爱豆和同龄人交流生活",
+      "onboard_time": 1668530244,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268388,
       "num": 173770,
       "word": "檀健次周杰伦同框照",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1668383667,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252990,
+      "num": 252990,
+      "word": "给对象连发三条想你了",
+      "onboard_time": 1668529644,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 252215,
@@ -2849,14 +2865,6 @@
       "onboard_time": 1668439946,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220691,
-      "num": 100960,
-      "word": "36岁的爱豆和同龄人交流生活",
-      "onboard_time": 1668530244,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220387,
@@ -3355,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177704,
+      "num": 91244,
+      "word": "预测脱口秀大会第五季冠军",
+      "onboard_time": 1668530724,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177234,
       "num": 151792,
       "word": "胡彦斌再见爱人反复cue孙怡",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1668516152,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156568,
-      "num": 156568,
-      "word": "给对象连发三条想你了",
-      "onboard_time": 1668529644,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 156342,
@@ -4241,14 +4249,6 @@
       "onboard_time": 1668511530,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119608,
-      "num": 76696,
-      "word": "预测脱口秀大会第五季冠军",
-      "onboard_time": 1668530724,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 118857,
