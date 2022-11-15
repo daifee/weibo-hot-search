@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668551839262,
+  "endTime": 1668554517450,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -376,6 +376,14 @@
       "word": "女子网购牛仔裤竟在里面发现内裤",
       "onboard_time": 1668522029,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1111825,
+      "num": 1111825,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1400,14 +1408,6 @@
       "word": "全球人口达80亿",
       "onboard_time": 1668480569,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448103,
-      "num": 448103,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3372,7 +3372,7 @@
     },
     {
       "raw_hot": 177704,
-      "num": 100846,
+      "num": 161582,
       "word": "预测脱口秀大会第五季冠军",
       "onboard_time": 1668530724,
       "rank": 40,
@@ -4155,6 +4155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130882,
+      "num": 130882,
+      "word": "江苏跳跃式降温把花整懵了",
+      "onboard_time": 1668551715,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129953,
       "num": 129953,
       "word": "湖人战胜篮网",
@@ -4177,6 +4185,14 @@
       "onboard_time": 1668328529,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 129262,
+      "num": 129262,
+      "word": "警犬看到教官怀抱小狗吃醋",
+      "onboard_time": 1668534197,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128194,
@@ -4265,6 +4281,14 @@
       "onboard_time": 1668511530,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118982,
+      "num": 118982,
+      "word": "罗晋新剧大婚狂炫花生",
+      "onboard_time": 1668548772,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 118857,
@@ -4499,6 +4523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104339,
+      "num": 104339,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 104029,
       "num": 104029,
       "word": "北京新增本土感染者170例",
@@ -4683,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88361,
+      "num": 88361,
+      "word": "杨幂许凯爱的二八定律战报",
+      "onboard_time": 1668553278,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88189,
       "num": 1747359,
       "word": "49件文物讲述何以中国",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1668508050,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85684,
+      "num": 85684,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 84695,
@@ -4811,6 +4859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66828,
+      "num": 66828,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65137,
       "num": 65137,
       "word": "宝妈买爱他美奶粉开罐遇活虫",
@@ -4843,20 +4899,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53227,
+      "num": 53227,
+      "word": "王海回应打假疯狂小杨哥",
+      "onboard_time": 1668554241,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52732,
       "num": 52732,
       "word": "刘亦菲去有风的地方",
       "onboard_time": 1668335731,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50819,
-      "num": 31710,
-      "word": "男子纵身跳湖救下溺水孩子",
-      "onboard_time": 1668547932,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50514,
@@ -4883,14 +4939,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41849,
-      "num": 41849,
-      "word": "警犬看到教官怀抱小狗吃醋",
-      "onboard_time": 1668534197,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39863,
       "num": 39863,
       "word": "糖尿病不能根治",
@@ -4899,12 +4947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39136,
-      "num": 31701,
-      "word": "罗晋新剧大婚狂炫花生",
-      "onboard_time": 1668548772,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 35789,
+      "num": 35789,
+      "word": "新冠居家必备药物指南",
+      "onboard_time": 1668554423,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34468,
@@ -4913,22 +4961,6 @@
       "onboard_time": 1668409230,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31710,
-      "num": 31710,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31677,
-      "num": 31677,
-      "word": "卿卿日常大少主出场",
-      "onboard_time": 1668547632,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 28694,
@@ -4993,14 +5025,6 @@
       "onboard_time": 1668451454,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 15108,
-      "num": 17515,
-      "word": "江苏跳跃式降温把花整懵了",
-      "onboard_time": 1668551715,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15032,
