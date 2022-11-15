@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668537749245,
+  "endTime": 1668539795984,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -4899,20 +4899,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24528,
+      "num": 22284,
+      "word": "包装盒上的牛肉面",
+      "onboard_time": 1668536053,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23301,
       "num": 424063,
       "word": "双十一晒超跑真的慕了",
       "onboard_time": 1668502830,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22284,
-      "num": 22284,
-      "word": "包装盒上的牛肉面",
-      "onboard_time": 1668536053,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 21951,
