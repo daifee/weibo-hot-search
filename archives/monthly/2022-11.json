@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668544661428,
+  "endTime": 1668547143750,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -21491,6 +21491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159669,
+      "num": 159669,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159545,
       "num": 121712,
       "word": "狐妖小红娘月红篇杀青特辑播放量",
@@ -31491,14 +31499,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 24556,
-      "num": 24556,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24528,
       "num": 22284,
       "word": "包装盒上的牛肉面",
@@ -31675,20 +31675,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16065,
+      "num": 14904,
+      "word": "再见爱人终于甜起来了",
+      "onboard_time": 1668542292,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15669,
       "num": 14363,
       "word": "打火机与公主裙 小说",
       "onboard_time": 1667760792,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15641,
-      "num": 14898,
-      "word": "再见爱人终于甜起来了",
-      "onboard_time": 1668542292,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 15491,
@@ -31881,6 +31881,14 @@
       "onboard_time": 1667676193,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9522,
+      "num": 10634,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 9220,
