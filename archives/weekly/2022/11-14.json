@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668507813940,
+  "endTime": 1668508775446,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -467,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 949390,
+      "num": 422682,
+      "word": "欠债4600万大叔认真卖烤肠还债",
+      "onboard_time": 1668506488,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 931289,
       "num": 555324,
       "word": "12年青海省理科状元不姓文",
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782519,
+      "num": 782519,
+      "word": "李峋见朱韵父母是为了分手",
+      "onboard_time": 1668506250,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 759975,
       "num": 759975,
       "word": "男子吃自助餐发现餐桌立牌请勿摄像",
@@ -609,6 +625,14 @@
       "onboard_time": 1668414449,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723369,
+      "num": 413150,
+      "word": "贵州11岁女孩疑被指偷文具后跳楼",
+      "onboard_time": 1668506667,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 713623,
@@ -656,14 +680,6 @@
       "word": "审判阿瑟吻技",
       "onboard_time": 1668425489,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 677621,
-      "num": 677621,
-      "word": "李峋见朱韵父母是为了分手",
-      "onboard_time": 1668506250,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -1027,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 491649,
-      "num": 422682,
-      "word": "欠债4600万大叔认真卖烤肠还债",
-      "onboard_time": 1668506488,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491529,
       "num": 491529,
       "word": "睡眠不足真的会发胖",
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 439304,
-      "num": 421119,
+      "num": 430293,
       "word": "北京新增20例社会面",
       "onboard_time": 1668504150,
       "rank": 22,
@@ -1323,20 +1331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413150,
-      "num": 413150,
-      "word": "贵州11岁女孩疑被指偷文具后跳楼",
-      "onboard_time": 1668506667,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 408183,
       "num": 408183,
       "word": "光遇 花环",
       "onboard_time": 1668485671,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 407053,
+      "num": 407053,
+      "word": "乘风破浪新歌MV上线",
+      "onboard_time": 1668508408,
+      "rank": 13,
+      "category": "作品衍生,音乐"
     },
     {
       "raw_hot": 405778,
@@ -1699,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331052,
+      "num": 331052,
+      "word": "男子脚踹2个月流浪猫致死",
+      "onboard_time": 1668504868,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 330030,
       "num": 330030,
       "word": "Viper",
@@ -1803,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296592,
+      "num": 296592,
+      "word": "王鹤棣新剧围读上班路透",
+      "onboard_time": 1668508228,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294042,
       "num": 294042,
       "word": "排队时不要只顾玩手机",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1668500137,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 288367,
-      "num": 288367,
-      "word": "男子脚踹2个月流浪猫致死",
-      "onboard_time": 1668504868,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 285795,
@@ -1907,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278183,
+      "num": 278183,
+      "word": "你介意另一半从不做家务吗",
+      "onboard_time": 1668505470,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276393,
       "num": 276393,
       "word": "交大博士晒毕业照男女比例扎心",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1668330029,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268625,
+      "num": 268625,
+      "word": "毕节莎莎文具店",
+      "onboard_time": 1668506190,
+      "rank": 32,
+      "category": "社会负面"
     },
     {
       "raw_hot": 268388,
@@ -2185,14 +2217,6 @@
       "onboard_time": 1668384091,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230704,
-      "num": 230704,
-      "word": "你介意另一半从不做家务吗",
-      "onboard_time": 1668505470,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 229862,
@@ -2651,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185691,
-      "num": 174794,
-      "word": "毕节莎莎文具店",
-      "onboard_time": 1668506190,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "迪丽热巴网络侵权案胜诉获赔",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1668424768,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181003,
+      "num": 181003,
+      "word": "陪主人打麻将昏昏欲睡的狗",
+      "onboard_time": 1668505110,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 180657,
@@ -2753,14 +2777,6 @@
       "onboard_time": 1668410729,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174986,
-      "num": 174986,
-      "word": "陪主人打麻将昏昏欲睡的狗",
-      "onboard_time": 1668505110,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 174696,
@@ -3091,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149878,
+      "num": 149878,
+      "word": "当南方舍友第一次看到暖气",
+      "onboard_time": 1668507208,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "加兰51分",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1668470365,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "被吃辣耽误的糯叽叽天堂",
+      "onboard_time": 1668507208,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 140347,
@@ -3491,14 +3523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121024,
-      "num": 121024,
-      "word": "当南方舍友第一次看到暖气",
-      "onboard_time": 1668507208,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118857,
       "num": 118857,
       "word": "马刺vs勇士",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1668501091,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113976,
+      "num": 113976,
+      "word": "2023届高校毕业生预计1158万",
+      "onboard_time": 1668507750,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 112646,
@@ -3643,14 +3675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108266,
-      "num": 108266,
-      "word": "被吃辣耽误的糯叽叽天堂",
-      "onboard_time": 1668507208,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "北京疫情防控工作正处于关键时期",
@@ -3689,6 +3713,14 @@
       "onboard_time": 1668332247,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104544,
+      "num": 104544,
+      "word": "刘诗雯成功解锁新身份",
+      "onboard_time": 1668508178,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 104029,
@@ -3819,14 +3851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91763,
-      "num": 91763,
-      "word": "2023届高校毕业生预计1158万",
-      "onboard_time": 1668507750,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 91543,
       "num": 91543,
       "word": "C罗神态轻松亮相国家队集训",
@@ -3881,6 +3905,14 @@
       "onboard_time": 1668338310,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86252,
+      "num": 86252,
+      "word": "谁的青春没有一场暗恋呢",
+      "onboard_time": 1668508050,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84695,
