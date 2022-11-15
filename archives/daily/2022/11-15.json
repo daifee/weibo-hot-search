@@ -1,7 +1,15 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668469038545,
+  "endTime": 1668477304511,
   "band_list": [
+    {
+      "raw_hot": 3127358,
+      "num": 3127358,
+      "word": "蒲熠星",
+      "onboard_time": 1668474451,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1909040,
       "num": 161638,
@@ -12,10 +20,26 @@
     },
     {
       "raw_hot": 1525087,
-      "num": 211388,
+      "num": 470503,
       "word": "感染新冠是什么体验",
       "onboard_time": 1668442466,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1473991,
+      "num": 909266,
+      "word": "石家庄连花清瘟胶囊卖断货",
+      "onboard_time": 1668471569,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1278402,
+      "num": 1278402,
+      "word": "母亲给儿子送饺子途中被撞身亡外卖员被公诉",
+      "onboard_time": 1668470785,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,11 +59,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796913,
+      "num": 796913,
+      "word": "郑州一自称社区干部阻止市民正常拍摄",
+      "onboard_time": 1668471757,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791672,
+      "num": 791672,
+      "word": "男子放阳台的死水突然变绿长鱼苗",
+      "onboard_time": 1668469522,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784388,
+      "num": 784388,
+      "word": "父母让25岁女儿第4次当姐姐",
+      "onboard_time": 1668470063,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710578,
-      "num": 416733,
+      "num": 443735,
       "word": "石家庄关闭市内免费核酸检测点",
       "onboard_time": 1668420687,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561047,
+      "num": 561047,
+      "word": "我国首次截获全球新物种",
+      "onboard_time": 1668468501,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -48,6 +104,22 @@
       "word": "厦门一公司人事通知引争议",
       "onboard_time": 1668439051,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483655,
+      "num": 483655,
+      "word": "陈小纭说又用上了36度恒温围脖",
+      "onboard_time": 1668470063,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472661,
+      "num": 472661,
+      "word": "北京11月14日新增本土确诊303例",
+      "onboard_time": 1668471629,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -99,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370866,
+      "num": 370866,
+      "word": "男孩看电视不睡觉父母罚通宵看",
+      "onboard_time": 1668474151,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362796,
       "num": 362796,
       "word": "广州多区延续强化疫情防控措施",
@@ -112,6 +192,30 @@
       "word": "大量肥美海肠被大风吹上海滩",
       "onboard_time": 1668459251,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356465,
+      "num": 348198,
+      "word": "全网围观下的石家庄",
+      "onboard_time": 1668475946,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348318,
+      "num": 348318,
+      "word": "爱的二八定律 穿搭",
+      "onboard_time": 1668474750,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343021,
+      "num": 343021,
+      "word": "半糖奶茶并非只含一半的糖",
+      "onboard_time": 1668471089,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -139,12 +243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245209,
+      "num": 245209,
+      "word": "胡明轩状态",
+      "onboard_time": 1668472052,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242752,
       "num": 209854,
       "word": "中美关系不应是你兴我衰的零和博弈",
       "onboard_time": 1668439289,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 238751,
+      "num": 238751,
+      "word": "别把外来入侵物种当宠物",
+      "onboard_time": 1668470848,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219654,
+      "num": 219654,
+      "word": "英雄联盟北极星使者皮肤",
+      "onboard_time": 1668473614,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 215385,
@@ -203,12 +331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200805,
+      "num": 200805,
+      "word": "RNG转会期",
+      "onboard_time": 1668467660,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196724,
       "num": 196724,
       "word": "男生第1次自己买衣服是什么体验",
       "onboard_time": 1668429505,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190164,
+      "num": 190164,
+      "word": "秦施前男友是许幻山",
+      "onboard_time": 1668467721,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 183921,
@@ -225,6 +369,22 @@
       "onboard_time": 1668430408,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178515,
+      "num": 178515,
+      "word": "95后地理老师板书堪比PPT",
+      "onboard_time": 1668476188,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 176369,
+      "num": 176369,
+      "word": "亚马逊计划裁员1万人",
+      "onboard_time": 1668470365,
+      "rank": 25,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 169914,
@@ -307,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141159,
+      "num": 141159,
+      "word": "Redvelvet新专辑预告视频公开",
+      "onboard_time": 1668470365,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139663,
       "num": 129905,
       "word": "时代峰峻为TF三代大悦城路演道歉",
@@ -347,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131225,
-      "num": 131225,
-      "word": "我国首次截获全球新物种",
-      "onboard_time": 1668468501,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -363,12 +523,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 126847,
-      "num": 126847,
-      "word": "秦施前男友是许幻山",
-      "onboard_time": 1668467721,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 128194,
+      "num": 128194,
+      "word": "倒霉事都让你碰上了",
+      "onboard_time": 1668471932,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125767,
@@ -379,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115073,
+      "num": 115073,
+      "word": "赵睿最后一投引巴林男篮不满",
+      "onboard_time": 1668476309,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110182,
       "num": 110182,
       "word": "肖战顾魏V榜角色指数峰值TOP1",
       "onboard_time": 1668431369,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "男生军训剃寸头收获意外的帅气",
+      "onboard_time": 1668476490,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106594,
@@ -411,6 +587,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 100698,
+      "num": 100698,
+      "word": "官方回应公司拒录山东服装学院学生",
+      "onboard_time": 1668476550,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 99629,
       "num": 99629,
       "word": "多地取消区域全员核酸检测",
@@ -425,6 +609,38 @@
       "onboard_time": 1668425189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95130,
+      "num": 95130,
+      "word": "白术学学隔壁阳华吧",
+      "onboard_time": 1668476069,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 92145,
+      "num": 92145,
+      "word": "女子晒雪景被惊呼宛如住宫里",
+      "onboard_time": 1668476858,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91015,
+      "num": 91015,
+      "word": "马斯克称推特将不再显示设备型号",
+      "onboard_time": 1668477089,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 89932,
+      "num": 89932,
+      "word": "许凯新剧台词",
+      "onboard_time": 1668470668,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 88562,
@@ -563,6 +779,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 11700,
+      "num": 967905,
+      "word": "200秒速览G20峰会看点",
+      "onboard_time": 1668395608,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 10271,
       "num": 12603,
       "word": "一时分不清谁在遛谁",
@@ -577,14 +801,6 @@
       "onboard_time": 1668457213,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 8601,
-      "num": 579521,
-      "word": "200秒速览G20峰会看点",
-      "onboard_time": 1668395608,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 8160,
