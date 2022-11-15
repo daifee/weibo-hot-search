@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668533861734,
+  "endTime": 1668536799181,
   "band_list": [
     {
       "raw_hot": 1270795,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 177704,
-      "num": 91244,
+      "num": 100846,
       "word": "预测脱口秀大会第五季冠军",
       "onboard_time": 1668530724,
       "rank": 40,
@@ -305,6 +305,14 @@
       "onboard_time": 1668511169,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127574,
+      "num": 127574,
+      "word": "鸟鸟 你这是傻悲",
+      "onboard_time": 1668536595,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 120925,
@@ -433,6 +441,22 @@
       "onboard_time": 1668530006,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41849,
+      "num": 41849,
+      "word": "警犬看到教官怀抱小狗吃醋",
+      "onboard_time": 1668534197,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28282,
+      "num": 27306,
+      "word": "陈奕迅新歌",
+      "onboard_time": 1668523292,
+      "rank": 41,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
