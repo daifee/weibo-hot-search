@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668512029493,
+  "endTime": 1668516229097,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -699,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661054,
+      "num": 661054,
+      "word": "大米先生",
+      "onboard_time": 1668513089,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659849,
       "num": 450372,
       "word": "中美两国元首致开场白",
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618692,
+      "num": 431105,
+      "word": "警方通报银行抢劫案歹徒被击毙",
+      "onboard_time": 1668510572,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 616276,
       "num": 616276,
       "word": "广东新增本土感染者4160例",
@@ -761,14 +777,6 @@
       "onboard_time": 1668396928,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593983,
-      "num": 353454,
-      "word": "警方通报银行抢劫案歹徒被击毙",
-      "onboard_time": 1668510572,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 590172,
@@ -856,6 +864,14 @@
       "word": "点燃我温暖你19集大结局吧",
       "onboard_time": 1668439649,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 551457,
+      "num": 499815,
+      "word": "等李峋出狱",
+      "onboard_time": 1668514711,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -1011,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501574,
+      "num": 501574,
+      "word": "男子退货不愿退赠品",
+      "onboard_time": 1668509911,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501285,
       "num": 501285,
       "word": "河南一男子餐馆内打倒三女性",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1668497070,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497409,
+      "num": 497409,
+      "word": "957心态",
+      "onboard_time": 1668511169,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 495505,
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447131,
+      "num": 447131,
+      "word": "每日优鲜全职员工仅余55人",
+      "onboard_time": 1668510750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441275,
       "num": 441275,
       "word": "老人地铁上不顾劝阻用刀削苹果",
@@ -1323,6 +1363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 421271,
+      "num": 421271,
+      "word": "李峋的走马灯暗了",
+      "onboard_time": 1668512671,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419831,
       "num": 419831,
       "word": "和不爱的人交往什么体验",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1668503076,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416278,
+      "num": 416278,
+      "word": "人民的名义被韩国买入版权",
+      "onboard_time": 1668512257,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 416167,
@@ -1531,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 379256,
+      "num": 379256,
+      "word": "脱口秀大会",
+      "onboard_time": 1668510689,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378365,
       "num": 378365,
       "word": "福原爱方否认介入他人婚姻",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1668397949,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358486,
+      "num": 249723,
+      "word": "朱韵撕碎的合照被李峋拼好",
+      "onboard_time": 1668515008,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 355792,
@@ -1779,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329380,
-      "num": 329380,
-      "word": "957心态",
-      "onboard_time": 1668511169,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 329185,
       "num": 313725,
       "word": "杨幂许凯新剧吻戏好上头",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1668390086,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297035,
+      "num": 182698,
+      "word": "李峋你早去早回",
+      "onboard_time": 1668515488,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 296592,
@@ -2003,19 +2075,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273457,
+      "num": 180595,
+      "word": "鹿晗脱口秀大会今晚见",
+      "onboard_time": 1668514115,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
       "onboard_time": 1668330029,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269787,
-      "num": 269787,
-      "word": "男子退货不愿退赠品",
-      "onboard_time": 1668509911,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2099,11 +2171,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255315,
+      "num": 255315,
+      "word": "原来被爱真的很重要",
+      "onboard_time": 1668509490,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254267,
       "num": 254267,
       "word": "广州地铁",
       "onboard_time": 1668383667,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252215,
+      "num": 252215,
+      "word": "跨省旅游经营活动不再与风险区实施联动管理",
+      "onboard_time": 1668512968,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2185,6 +2273,14 @@
       "onboard_time": 1668504570,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241928,
+      "num": 241928,
+      "word": "北京朝阳新划定29个高风险区",
+      "onboard_time": 1668512847,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241625,
@@ -2339,14 +2435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227716,
-      "num": 227716,
-      "word": "每日优鲜全职员工仅余55人",
-      "onboard_time": 1668510750,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226937,
       "num": 226937,
       "word": "王源觉得叫王刚很社死",
@@ -2411,12 +2499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219691,
+      "num": 671373,
+      "word": "巴厘岛G20时间",
+      "onboard_time": 1668513508,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 219654,
       "num": 219654,
       "word": "英雄联盟北极星使者皮肤",
       "onboard_time": 1668473614,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219554,
+      "num": 219554,
+      "word": "继续暂停经营出入境团队游业务",
+      "onboard_time": 1668514468,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218706,
@@ -2433,14 +2537,6 @@
       "onboard_time": 1668485130,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218243,
-      "num": 203528,
-      "word": "脱口秀大会",
-      "onboard_time": 1668510689,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 217109,
@@ -2523,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210463,
+      "num": 210463,
+      "word": "官方回应兰州核酸只做单采",
+      "onboard_time": 1668515067,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210180,
       "num": 210180,
       "word": "命韵峋环同居日常",
@@ -2593,14 +2697,6 @@
       "onboard_time": 1668505710,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206240,
-      "num": 206240,
-      "word": "原来被爱真的很重要",
-      "onboard_time": 1668509490,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 205139,
@@ -2689,6 +2785,14 @@
       "onboard_time": 1668397648,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200017,
+      "num": 200017,
+      "word": "糖尿病是吃糖导致的吗",
+      "onboard_time": 1668512071,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196322,
@@ -2792,6 +2896,22 @@
       "word": "老人救患病孙女拉货自扇耳光提神",
       "onboard_time": 1668486214,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186231,
+      "num": 176250,
+      "word": "以爱为营",
+      "onboard_time": 1668513689,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184948,
+      "num": 184948,
+      "word": "中公教育若未按时退费将卖楼还钱",
+      "onboard_time": 1668509432,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2945,6 +3065,14 @@
       "onboard_time": 1668442466,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "王进喜用身体搅拌水泥阻止石油井喷",
+      "onboard_time": 1668512430,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169301,
@@ -3147,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157521,
+      "num": 149471,
+      "word": "阳华脸上有秦施的口红印",
+      "onboard_time": 1668516152,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156342,
       "num": 156342,
       "word": "卿卿日常",
@@ -3233,6 +3369,14 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148266,
+      "num": 148266,
+      "word": "这届大学生是懂直播的",
+      "onboard_time": 1668512129,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 148175,
@@ -3571,6 +3715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130928,
+      "num": 130928,
+      "word": "卖菜老人误收百元假钞伤心痛哭",
+      "onboard_time": 1668515129,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129953,
       "num": 129953,
       "word": "湖人战胜篮网",
@@ -3801,6 +3953,14 @@
       "onboard_time": 1668356307,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108791,
+      "num": 108791,
+      "word": "高校食堂阿姨将散落米饭重新装盘",
+      "onboard_time": 1668515488,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108596,
