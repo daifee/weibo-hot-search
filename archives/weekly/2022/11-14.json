@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668490546549,
+  "endTime": 1668493593196,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -169,6 +169,14 @@
       "onboard_time": 1668392008,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1300770,
+      "num": 1300770,
+      "word": "女子8年前捡漏买房带130平露台",
+      "onboard_time": 1668488011,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1286252,
@@ -364,11 +372,27 @@
     },
     {
       "raw_hot": 951377,
-      "num": 676522,
+      "num": 776713,
       "word": "iPhone用户羡慕安卓手机的地方",
       "onboard_time": 1668487532,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 931289,
+      "num": 351135,
+      "word": "12年青海省理科状元不姓文",
+      "onboard_time": 1668490651,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 921341,
+      "num": 921341,
+      "word": "张雪峰称外卖员职业5-10年内可能消失",
+      "onboard_time": 1668491489,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 921048,
@@ -385,6 +409,14 @@
       "onboard_time": 1668411088,
       "rank": 41,
       "category": "影视,网红"
+    },
+    {
+      "raw_hot": 914737,
+      "num": 914737,
+      "word": "男子欠70万破产还款记录令人钦佩",
+      "onboard_time": 1668488311,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 908715,
@@ -416,14 +448,6 @@
       "word": "父母让25岁女儿第4次当姐姐",
       "onboard_time": 1668470063,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 841931,
-      "num": 384242,
-      "word": "女子8年前捡漏买房带130平露台",
-      "onboard_time": 1668488011,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -592,14 +616,6 @@
       "word": "特斯拉潮州失控事故家属视频回应",
       "onboard_time": 1668417448,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616446,
-      "num": 353150,
-      "word": "男子欠70万破产还款记录令人钦佩",
-      "onboard_time": 1668488311,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487476,
+      "num": 356940,
+      "word": "美国变性网红被捕入狱关入男囚",
+      "onboard_time": 1668491914,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483868,
       "num": 483868,
       "word": "重庆四区75%新增在社会面发现",
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456543,
+      "num": 456543,
+      "word": "火树 哪壶开了提哪壶",
+      "onboard_time": 1668491489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449004,
       "num": 449004,
       "word": "全球人口达80亿",
@@ -1107,6 +1139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 415402,
+      "num": 349232,
+      "word": "肖战告黑胜诉",
+      "onboard_time": 1668490468,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408183,
       "num": 408183,
       "word": "光遇 花环",
@@ -1187,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394532,
+      "num": 394532,
+      "word": "陈紫函亲手撕碎反派剧本",
+      "onboard_time": 1668490048,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394157,
       "num": 361296,
       "word": "大学寝室被李峋包围",
@@ -1235,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382815,
+      "num": 349174,
+      "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
+      "onboard_time": 1668492327,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381442,
       "num": 364428,
       "word": "坤音老板谈杜华给内娱公司排名",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1668474750,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367849,
+      "num": 367849,
+      "word": "东南大学扫地大爷反向清扫梧桐落叶",
+      "onboard_time": 1668489987,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366631,
@@ -1451,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328021,
-      "num": 328021,
-      "word": "肖战告黑胜诉",
-      "onboard_time": 1668490468,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322425,
       "num": 322425,
       "word": "猫的爪爪有啥用",
@@ -1507,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310330,
+      "num": 281734,
+      "word": "李峋玩打火机vs阿瑟玩打火机",
+      "onboard_time": 1668493235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309898,
       "num": 309898,
       "word": "95后宝妈带1岁大宝宝上班",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1668390086,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294042,
+      "num": 294042,
+      "word": "排队时不要只顾玩手机",
+      "onboard_time": 1668488073,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 291187,
@@ -1547,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284922,
-      "num": 284922,
-      "word": "排队时不要只顾玩手机",
-      "onboard_time": 1668488073,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283315,
       "num": 283315,
       "word": "Lisa获奖感言视频",
@@ -1563,12 +1627,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282335,
+      "num": 282335,
+      "word": "饮品店推300元一杯天价柠檬茶",
+      "onboard_time": 1668488252,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281728,
       "num": 281728,
       "word": "恋与深空",
       "onboard_time": 1668403948,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280157,
+      "num": 280157,
+      "word": "潮州特斯拉事故前视频公布",
+      "onboard_time": 1668489209,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278822,
@@ -1721,14 +1801,6 @@
       "onboard_time": 1668486513,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243598,
-      "num": 243598,
-      "word": "饮品店推300元一杯天价柠檬茶",
-      "onboard_time": 1668488252,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243068,
@@ -2067,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208834,
+      "num": 208834,
+      "word": "泰安",
+      "onboard_time": 1668493473,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
@@ -2355,14 +2435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168573,
-      "num": 168573,
-      "word": "陈紫函亲手撕碎反派剧本",
-      "onboard_time": 1668490048,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "男女之间纯友谊真的存在吗",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1668339869,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163178,
+      "num": 163178,
+      "word": "辛吉飞开通微博",
+      "onboard_time": 1668492392,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 161730,
@@ -2601,6 +2681,14 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148935,
+      "num": 148935,
+      "word": "男子发视频吐槽烤全羊被索赔2万",
+      "onboard_time": 1668491848,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148175,
@@ -2795,20 +2883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135980,
-      "num": 135980,
-      "word": "东南大学扫地大爷反向清扫梧桐落叶",
-      "onboard_time": 1668489987,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135944,
       "num": 135944,
       "word": "张震岳回应被错认成热狗",
       "onboard_time": 1668488079,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135652,
+      "num": 135652,
+      "word": "陈飞宇李峋热度周榜冠军",
+      "onboard_time": 1668491489,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 134948,
@@ -2825,14 +2913,6 @@
       "onboard_time": 1668382162,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134397,
-      "num": 134397,
-      "word": "潮州特斯拉事故前视频公布",
-      "onboard_time": 1668489209,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132809,
@@ -2915,6 +2995,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 124770,
+      "num": 124770,
+      "word": "柬埔寨首相新冠检测呈阳性",
+      "onboard_time": 1668492925,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "SNH48丝路新国潮风MV",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1668412408,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115757,
+      "num": 115757,
+      "word": "C罗B费握手画面引热议",
+      "onboard_time": 1668492814,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 114606,
@@ -3131,6 +3227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101115,
+      "num": 101115,
+      "word": "狗狗被说后吓到直抖腿",
+      "onboard_time": 1668492450,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100789,
       "num": 100789,
       "word": "罗晋新剧跟奚美娟借钱",
@@ -3185,6 +3289,14 @@
       "onboard_time": 1668482188,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 94556,
+      "num": 94556,
+      "word": "江苏医惠保为江苏人报销超5亿",
+      "onboard_time": 1668493228,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92221,
