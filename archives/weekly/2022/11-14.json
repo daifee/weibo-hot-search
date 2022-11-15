@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668501839513,
+  "endTime": 1668504074480,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -209,6 +209,14 @@
       "onboard_time": 1668389290,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1327315,
+      "num": 1327315,
+      "word": "长得胖却漂亮的女孩子",
+      "onboard_time": 1668501271,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 1317236,
@@ -424,6 +432,14 @@
       "word": "90后女子上班坚持12年装50岁大妈",
       "onboard_time": 1668438571,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968585,
+      "num": 968585,
+      "word": "河南多地要求基层带队去富士康务工",
+      "onboard_time": 1668500852,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -803,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534959,
+      "num": 500280,
+      "word": "方志靖把李峋姐姐害死",
+      "onboard_time": 1668502171,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534661,
       "num": 439996,
       "word": "Lami签入原公司演员部",
@@ -985,6 +1009,14 @@
       "onboard_time": 1668392788,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491369,
+      "num": 148440,
+      "word": "泰安警方称已处置完银行劫案",
+      "onboard_time": 1668503549,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 483868,
@@ -1411,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378365,
+      "num": 378365,
+      "word": "福原爱方否认介入他人婚姻",
+      "onboard_time": 1668499836,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 376580,
       "num": 376580,
       "word": "女子为减肥绑牙齿让嘴巴闭合",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1668404789,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374232,
+      "num": 374232,
+      "word": "火锅店回应奶茶汤底中加三花淡奶",
+      "onboard_time": 1668501571,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372734,
@@ -1571,14 +1619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340235,
-      "num": 279730,
-      "word": "福原爱方否认介入他人婚姻",
-      "onboard_time": 1668499836,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 339078,
       "num": 339078,
       "word": "女生地铁被老人说教穿太少膝盖疼",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1668349170,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 329904,
+      "num": 329904,
+      "word": "樊振东登上巴黎奥运会官方海报",
+      "onboard_time": 1668503076,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 329425,
@@ -1715,14 +1763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293942,
-      "num": 293942,
-      "word": "河南多地要求基层带队去富士康务工",
-      "onboard_time": 1668500852,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291187,
       "num": 291187,
       "word": "真正的爱情从来都不会理智",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1668403948,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281235,
+      "num": 281235,
+      "word": "拉夫罗夫说他戴的手表是华为的",
+      "onboard_time": 1668500137,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 280157,
@@ -1891,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256441,
+      "num": 256441,
+      "word": "刘亦菲陈晓梦华录明年日本播出",
+      "onboard_time": 1668503437,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254267,
       "num": 254267,
       "word": "广州地铁",
@@ -1995,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238213,
-      "num": 238213,
-      "word": "拉夫罗夫说他戴的手表是华为的",
-      "onboard_time": 1668500137,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 236154,
       "num": 236154,
       "word": "命韵峋环今天糖点好多",
@@ -2017,14 +2065,6 @@
       "onboard_time": 1668485671,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234153,
-      "num": 234153,
-      "word": "长得胖却漂亮的女孩子",
-      "onboard_time": 1668501271,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 233607,
@@ -2355,11 +2395,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204093,
+      "num": 144205,
+      "word": "李峋说朱韵和我在一起会很幸福",
+      "onboard_time": 1668502470,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204090,
       "num": 204090,
       "word": "吃得多却一直掉秤要警惕糖尿病",
       "onboard_time": 1668385528,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "爸爸为锻炼2岁儿子将其独自扔下",
+      "onboard_time": 1668501992,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2835,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156357,
+      "num": 156357,
+      "word": "当代年轻人的入冬五件套",
+      "onboard_time": 1668500671,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156342,
       "num": 156342,
       "word": "卿卿日常",
@@ -3107,14 +3171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138672,
-      "num": 138672,
-      "word": "当代年轻人的入冬五件套",
-      "onboard_time": 1668500671,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -3243,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129569,
+      "num": 125733,
+      "word": "李峋朱韵雪中相拥",
+      "onboard_time": 1668503730,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129348,
       "num": 129348,
       "word": "特斯拉称潮州车主全程没有踩刹车动作",
@@ -3265,14 +3329,6 @@
       "onboard_time": 1668439531,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125888,
-      "num": 125888,
-      "word": "火锅店回应奶茶汤底中加三花淡奶",
-      "onboard_time": 1668501571,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125611,
@@ -3385,6 +3441,14 @@
       "onboard_time": 1668348571,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110580,
+      "num": 110580,
+      "word": "研究显示蜜蜂寿命比50年前短一半",
+      "onboard_time": 1668503374,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 110511,
@@ -3513,6 +3577,14 @@
       "onboard_time": 1668375612,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99526,
+      "num": 99526,
+      "word": "原来坐着也能改善富贵包",
+      "onboard_time": 1668502171,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98792,
@@ -3817,6 +3889,14 @@
       "onboard_time": 1668362356,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23301,
+      "num": 375227,
+      "word": "双十一晒超跑真的慕了",
+      "onboard_time": 1668502830,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21951,

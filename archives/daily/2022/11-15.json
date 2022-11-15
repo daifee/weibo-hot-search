@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668501839513,
+  "endTime": 1668504074480,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1327315,
+      "num": 1327315,
+      "word": "长得胖却漂亮的女孩子",
+      "onboard_time": 1668501271,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1300770,
       "num": 1300770,
       "word": "女子8年前捡漏买房带130平露台",
@@ -208,6 +216,14 @@
       "word": "90后女子上班坚持12年装50岁大妈",
       "onboard_time": 1668438571,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968585,
+      "num": 968585,
+      "word": "河南多地要求基层带队去富士康务工",
+      "onboard_time": 1668500852,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534959,
+      "num": 500280,
+      "word": "方志靖把李峋姐姐害死",
+      "onboard_time": 1668502171,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534661,
       "num": 439996,
       "word": "Lami签入原公司演员部",
@@ -385,6 +409,14 @@
       "onboard_time": 1668490048,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 491369,
+      "num": 148440,
+      "word": "泰安警方称已处置完银行劫案",
+      "onboard_time": 1668503549,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 483655,
@@ -563,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378365,
+      "num": 378365,
+      "word": "福原爱方否认介入他人婚姻",
+      "onboard_time": 1668499836,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 376363,
       "num": 376363,
       "word": "东南大学扫地大爷反向清扫梧桐落叶",
@@ -577,6 +617,14 @@
       "onboard_time": 1668467727,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374232,
+      "num": 374232,
+      "word": "火锅店回应奶茶汤底中加三花淡奶",
+      "onboard_time": 1668501571,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372734,
@@ -635,20 +683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340235,
-      "num": 279730,
-      "word": "福原爱方否认介入他人婚姻",
-      "onboard_time": 1668499836,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 339078,
       "num": 339078,
       "word": "女生地铁被老人说教穿太少膝盖疼",
       "onboard_time": 1668486818,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329904,
+      "num": 329904,
+      "word": "樊振东登上巴黎奥运会官方海报",
+      "onboard_time": 1668503076,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 322425,
@@ -691,20 +739,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293942,
-      "num": 293942,
-      "word": "河南多地要求基层带队去富士康务工",
-      "onboard_time": 1668500852,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282335,
       "num": 282335,
       "word": "饮品店推300元一杯天价柠檬茶",
       "onboard_time": 1668488252,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281235,
+      "num": 281235,
+      "word": "拉夫罗夫说他戴的手表是华为的",
+      "onboard_time": 1668500137,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 280157,
@@ -763,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256441,
+      "num": 256441,
+      "word": "刘亦菲陈晓梦华录明年日本播出",
+      "onboard_time": 1668503437,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249871,
       "num": 197898,
       "word": "院人是懂团建的",
@@ -803,28 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238213,
-      "num": 238213,
-      "word": "拉夫罗夫说他戴的手表是华为的",
-      "onboard_time": 1668500137,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 235487,
       "num": 196901,
       "word": "时代少年团百忧戒首舞台预告",
       "onboard_time": 1668485671,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234153,
-      "num": 234153,
-      "word": "长得胖却漂亮的女孩子",
-      "onboard_time": 1668501271,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 229834,
@@ -947,12 +987,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204093,
+      "num": 144205,
+      "word": "李峋说朱韵和我在一起会很幸福",
+      "onboard_time": 1668502470,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203902,
       "num": 203902,
       "word": "中美元首握手合影",
       "onboard_time": 1668429210,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "爸爸为锻炼2岁儿子将其独自扔下",
+      "onboard_time": 1668501992,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202761,
@@ -1195,6 +1251,14 @@
       "category": "影视,体育"
     },
     {
+      "raw_hot": 156357,
+      "num": 156357,
+      "word": "当代年轻人的入冬五件套",
+      "onboard_time": 1668500671,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153201,
       "num": 153201,
       "word": "王源参演角色MV预告视频",
@@ -1283,14 +1347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138672,
-      "num": 138672,
-      "word": "当代年轻人的入冬五件套",
-      "onboard_time": 1668500671,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -1363,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129569,
+      "num": 125733,
+      "word": "李峋朱韵雪中相拥",
+      "onboard_time": 1668503730,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129237,
       "num": 129237,
       "word": "外交部回应韩国赛场错播中国国歌",
@@ -1377,14 +1441,6 @@
       "onboard_time": 1668471932,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 125888,
-      "num": 125888,
-      "word": "火锅店回应奶茶汤底中加三花淡奶",
-      "onboard_time": 1668501571,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125767,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1668489450,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110580,
+      "num": 110580,
+      "word": "研究显示蜜蜂寿命比50年前短一半",
+      "onboard_time": 1668503374,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 110511,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1668402750,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99526,
+      "num": 99526,
+      "word": "原来坐着也能改善富贵包",
+      "onboard_time": 1668502171,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 99409,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1668444807,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23301,
+      "num": 375227,
+      "word": "双十一晒超跑真的慕了",
+      "onboard_time": 1668502830,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15491,
