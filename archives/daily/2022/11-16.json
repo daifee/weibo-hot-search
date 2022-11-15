@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668532842785,
+  "endTime": 1668533861734,
   "band_list": [
     {
       "raw_hot": 1270795,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872532,
+      "num": 872532,
+      "word": "重庆面临最严峻疫情形势",
+      "onboard_time": 1668529165,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869169,
       "num": 869169,
       "word": "谈恋爱要不要在朋友圈公开",
       "onboard_time": 1668527909,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 868162,
-      "num": 868162,
-      "word": "重庆面临最严峻疫情形势",
-      "onboard_time": 1668529165,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 835256,
@@ -123,20 +123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285759,
+      "num": 285759,
+      "word": "给对象连发三条想你了",
+      "onboard_time": 1668529644,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277928,
+      "num": 235446,
+      "word": "36岁的爱豆和同龄人交流生活",
+      "onboard_time": 1668530244,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277232,
       "num": 277232,
       "word": "跨省游客凭48小时核酸证明乘交通工具",
       "onboard_time": 1668515129,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269677,
-      "num": 235446,
-      "word": "36岁的爱豆和同龄人交流生活",
-      "onboard_time": 1668530244,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258972,
@@ -153,14 +161,6 @@
       "onboard_time": 1668526472,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252990,
-      "num": 252990,
-      "word": "给对象连发三条想你了",
-      "onboard_time": 1668529644,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 250952,

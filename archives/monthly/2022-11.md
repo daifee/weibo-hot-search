@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/16 01:20:42
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/16 01:37:41
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%9D%A2%E4%B8%B4%E6%9C%80%E4%B8%A5%E5%B3%BB%E7%96%AB%E6%83%85%E5%BD%A2%E5%8A%BF%23" target="weibo">
+重庆面临最严峻疫情形势（热度：872532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A4%E4%B8%8D%E8%B5%B7%E6%88%BF%E7%A7%9F%E5%B8%A6%E5%A6%BB%E5%84%BF%E4%BD%8F%E5%85%AC%E5%9B%AD4%E6%9C%88%23" target="weibo">
 男子交不起房租带妻儿住公园4月（热度：871877）
 </a>
@@ -2651,12 +2657,6 @@ Kingen获FMVP（热度：869944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B%23" target="weibo">
 苏有朋披荆斩棘年度总冠军（热度：868532）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%9D%A2%E4%B8%B4%E6%9C%80%E4%B8%A5%E5%B3%BB%E7%96%AB%E6%83%85%E5%BD%A2%E5%8A%BF%23" target="weibo">
-重庆面临最严峻疫情形势（热度：868162）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668532842785,
+  "endTime": 1668533861734,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -3459,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 872532,
+      "num": 872532,
+      "word": "重庆面临最严峻疫情形势",
+      "onboard_time": 1668529165,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871877,
       "num": 871877,
       "word": "男子交不起房租带妻儿住公园4月",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1667558308,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 868162,
-      "num": 868162,
-      "word": "重庆面临最严峻疫情形势",
-      "onboard_time": 1668529165,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 866964,
@@ -13843,6 +13843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285759,
+      "num": 285759,
+      "word": "给对象连发三条想你了",
+      "onboard_time": 1668529644,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285502,
       "num": 285502,
       "word": "摊主用10年前25分试卷包鸡蛋饼",
@@ -14209,6 +14217,14 @@
       "onboard_time": 1668213387,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277928,
+      "num": 235446,
+      "word": "36岁的爱豆和同龄人交流生活",
+      "onboard_time": 1668530244,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277871,
@@ -14609,14 +14625,6 @@
       "onboard_time": 1668321328,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269677,
-      "num": 235446,
-      "word": "36岁的爱豆和同龄人交流生活",
-      "onboard_time": 1668530244,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269617,
@@ -15321,14 +15329,6 @@
       "onboard_time": 1667384367,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252990,
-      "num": 252990,
-      "word": "给对象连发三条想你了",
-      "onboard_time": 1668529644,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 252746,
