@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668516229097,
+  "endTime": 1668517751060,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1073988,
+      "num": 769456,
+      "word": "鸟鸟 文本",
+      "onboard_time": 1668516515,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1037196,
       "num": 844678,
       "word": "卿卿日常高开疯走",
@@ -339,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750953,
+      "num": 750953,
+      "word": "大米先生",
+      "onboard_time": 1668513089,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712824,
+      "num": 712824,
+      "word": "等李峋出狱",
+      "onboard_time": 1668514711,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 710578,
       "num": 443735,
       "word": "石家庄关闭市内免费核酸检测点",
@@ -352,14 +376,6 @@
       "word": "女子拒签快递被快递员私自代签",
       "onboard_time": 1668479488,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661054,
-      "num": 661054,
-      "word": "大米先生",
-      "onboard_time": 1668513089,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551457,
-      "num": 499815,
-      "word": "等李峋出狱",
-      "onboard_time": 1668514711,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 553354,
+      "num": 553354,
+      "word": "官方回应兰州核酸只做单采",
+      "onboard_time": 1668515067,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544076,
@@ -547,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450571,
+      "num": 416278,
+      "word": "人民的名义被韩国买入版权",
+      "onboard_time": 1668512257,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449004,
       "num": 449004,
       "word": "全球人口达80亿",
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423950,
+      "num": 423950,
+      "word": "继续暂停经营出入境团队游业务",
+      "onboard_time": 1668514468,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421885,
       "num": 421885,
       "word": "张婉婷哭着自我反省",
@@ -635,20 +667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416278,
-      "num": 416278,
-      "word": "人民的名义被韩国买入版权",
-      "onboard_time": 1668512257,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 415402,
       "num": 349232,
       "word": "肖战告黑胜诉",
       "onboard_time": 1668490468,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411634,
+      "num": 352179,
+      "word": "朱韵撕碎的合照被李峋拼好",
+      "onboard_time": 1668515008,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 408183,
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395488,
+      "num": 348034,
+      "word": "徐志胜说吾与鹿晗孰美",
+      "onboard_time": 1668516750,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395221,
       "num": 395221,
       "word": "2女孩下班回家被多男子当街殴打",
@@ -737,6 +777,14 @@
       "onboard_time": 1668436291,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384161,
+      "num": 227002,
+      "word": "白敬亭田曦薇新剧酒后吻又上一分",
+      "onboard_time": 1668517590,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 379256,
@@ -801,14 +849,6 @@
       "onboard_time": 1668459251,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358486,
-      "num": 249723,
-      "word": "朱韵撕碎的合照被李峋拼好",
-      "onboard_time": 1668515008,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 355792,
@@ -883,6 +923,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 327341,
+      "num": 226103,
+      "word": "李蓝下线李峋就没亲人了",
+      "onboard_time": 1668517349,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322425,
       "num": 322425,
       "word": "猫的爪爪有啥用",
@@ -905,6 +953,14 @@
       "onboard_time": 1668505470,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305579,
+      "num": 187025,
+      "word": "内娱现存男团的舞台有多绝",
+      "onboard_time": 1668516690,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 305174,
@@ -1011,12 +1067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264797,
+      "num": 264797,
+      "word": "原来被爱真的很重要",
+      "onboard_time": 1668509490,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263949,
       "num": 263949,
       "word": "王源mbti是infp和intp",
       "onboard_time": 1668510639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259255,
+      "num": 182401,
+      "word": "王鹤棣回应被鸡踹了",
+      "onboard_time": 1668517349,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257817,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1668503437,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255315,
-      "num": 255315,
-      "word": "原来被爱真的很重要",
-      "onboard_time": 1668509490,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 252215,
@@ -1155,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228810,
+      "num": 775406,
+      "word": "巴厘岛G20时间",
+      "onboard_time": 1668513508,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 226937,
       "num": 226937,
       "word": "王源觉得叫王刚很社死",
@@ -1179,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224140,
+      "num": 224140,
+      "word": "中公教育若未按时退费将卖楼还钱",
+      "onboard_time": 1668509432,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222322,
       "num": 222322,
       "word": "赵睿最后一投引巴林男篮不满",
@@ -1195,28 +1275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219691,
-      "num": 671373,
-      "word": "巴厘岛G20时间",
-      "onboard_time": 1668513508,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 219654,
       "num": 219654,
       "word": "英雄联盟北极星使者皮肤",
       "onboard_time": 1668473614,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219554,
-      "num": 219554,
-      "word": "继续暂停经营出入境团队游业务",
-      "onboard_time": 1668514468,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218353,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1668441030,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213405,
+      "num": 213405,
+      "word": "跨省游客凭48小时核酸证明乘交通工具",
+      "onboard_time": 1668515129,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212830,
@@ -1267,11 +1339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210463,
-      "num": 210463,
-      "word": "官方回应兰州核酸只做单采",
-      "onboard_time": 1668515067,
-      "rank": 27,
+      "raw_hot": 211133,
+      "num": 211133,
+      "word": "糖尿病是吃糖导致的吗",
+      "onboard_time": 1668512071,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203925,
+      "num": 203925,
+      "word": "卖菜老人误收百元假钞伤心痛哭",
+      "onboard_time": 1668515129,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203902,
       "num": 203902,
       "word": "中美元首握手合影",
@@ -1345,14 +1425,6 @@
       "onboard_time": 1668467660,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200017,
-      "num": 200017,
-      "word": "糖尿病是吃糖导致的吗",
-      "onboard_time": 1668512071,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196724,
@@ -1409,14 +1481,6 @@
       "onboard_time": 1668513689,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184948,
-      "num": 184948,
-      "word": "中公教育若未按时退费将卖楼还钱",
-      "onboard_time": 1668509432,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184153,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1668482608,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 170434,
+      "num": 147513,
+      "word": "这才是红楼梦售后天花板吧",
+      "onboard_time": 1668516267,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 169914,
@@ -1771,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138152,
+      "num": 138152,
+      "word": "十斤的猫有九斤的心眼子",
+      "onboard_time": 1668516632,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1668481228,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130928,
-      "num": 130928,
-      "word": "卖菜老人误收百元假钞伤心痛哭",
-      "onboard_time": 1668515129,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129569,
@@ -1971,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107210,
+      "num": 107210,
+      "word": "减肥时的这不行那不行",
+      "onboard_time": 1668517290,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106594,
       "num": 106594,
       "word": "嘴巴在重庆没歇过",
@@ -1993,6 +2073,14 @@
       "onboard_time": 1668437130,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 100861,
+      "num": 100861,
+      "word": "松花江畔雾凇太梦幻了",
+      "onboard_time": 1668517531,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 99629,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1668517751060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1363109,
+        "num": 1363109,
+        "word": "欠债4600万大叔认真卖烤肠还债",
+        "onboard_time": 1668506488,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821745,
+        "num": 821745,
+        "word": "我是8000000000分之一",
+        "onboard_time": 1668497851,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228810,
+        "num": 775406,
+        "word": "巴厘岛G20时间",
+        "onboard_time": 1668513508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1073988,
+        "num": 769456,
+        "word": "鸟鸟 文本",
+        "onboard_time": 1668516515,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750953,
+        "num": 750953,
+        "word": "大米先生",
+        "onboard_time": 1668513089,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712824,
+        "num": 712824,
+        "word": "等李峋出狱",
+        "onboard_time": 1668514711,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553354,
+        "num": 553354,
+        "word": "官方回应兰州核酸只做单采",
+        "onboard_time": 1668515067,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516000,
+        "num": 516000,
+        "word": "李峋见朱韵父母是为了分手",
+        "onboard_time": 1668506250,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423950,
+        "num": 423950,
+        "word": "继续暂停经营出入境团队游业务",
+        "onboard_time": 1668514468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357259,
+        "num": 357259,
+        "word": "男子退货不愿退赠品",
+        "onboard_time": 1668509911,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450571,
+        "num": 356635,
+        "word": "人民的名义被韩国买入版权",
+        "onboard_time": 1668512257,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449647,
+        "num": 353291,
+        "word": "警方通报银行抢劫案歹徒被击毙",
+        "onboard_time": 1668510572,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 411634,
+        "num": 352179,
+        "word": "朱韵撕碎的合照被李峋拼好",
+        "onboard_time": 1668515008,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395488,
+        "num": 348034,
+        "word": "徐志胜说吾与鹿晗孰美",
+        "onboard_time": 1668516750,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347558,
+        "num": 347558,
+        "word": "男子疑吃淋巴肉维权遭威胁",
+        "onboard_time": 1668509129,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332839,
+        "num": 332839,
+        "word": "每日优鲜全职员工仅余55人",
+        "onboard_time": 1668510750,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314869,
+        "num": 314869,
+        "word": "957心态",
+        "onboard_time": 1668511169,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271432,
+        "num": 271432,
+        "word": "张雪峰称外卖员职业5-10年内可能消失",
+        "onboard_time": 1668491489,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264797,
+        "num": 264797,
+        "word": "原来被爱真的很重要",
+        "onboard_time": 1668509490,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229288,
+        "num": 229288,
+        "word": "北京朝阳新划定29个高风险区",
+        "onboard_time": 1668512847,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384161,
+        "num": 227002,
+        "word": "白敬亭田曦薇新剧酒后吻又上一分",
+        "onboard_time": 1668517590,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327341,
+        "num": 226103,
+        "word": "李蓝下线李峋就没亲人了",
+        "onboard_time": 1668517349,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224140,
+        "num": 224140,
+        "word": "中公教育若未按时退费将卖楼还钱",
+        "onboard_time": 1668509432,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316726,
+        "num": 220108,
+        "word": "李峋的走马灯暗了",
+        "onboard_time": 1668512671,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213405,
+        "num": 213405,
+        "word": "跨省游客凭48小时核酸证明乘交通工具",
+        "onboard_time": 1668515129,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211133,
+        "num": 211133,
+        "word": "糖尿病是吃糖导致的吗",
+        "onboard_time": 1668512071,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203925,
+        "num": 203925,
+        "word": "卖菜老人误收百元假钞伤心痛哭",
+        "onboard_time": 1668515129,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201267,
+        "num": 201267,
+        "word": "泰安警方称已处置完银行劫案",
+        "onboard_time": 1668503549,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 192831,
+        "num": 192831,
+        "word": "跨省旅游经营活动不再与风险区实施联动管理",
+        "onboard_time": 1668512968,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "2023届高校毕业生预计1158万",
+        "onboard_time": 1668507750,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305579,
+        "num": 187025,
+        "word": "内娱现存男团的舞台有多绝",
+        "onboard_time": 1668516690,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259255,
+        "num": 182401,
+        "word": "王鹤棣回应被鸡踹了",
+        "onboard_time": 1668517349,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244694,
+        "num": 178893,
+        "word": "杨幂新剧4集换了15套衣服",
+        "onboard_time": 1668493888,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242627,
+        "num": 174840,
+        "word": "脱口秀大会",
+        "onboard_time": 1668510689,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241471,
+        "num": 169956,
+        "word": "金铁霖去世",
+        "onboard_time": 1668496107,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166479,
+        "num": 166479,
+        "word": "爷爷米缸长满小虫淘米飘满盆",
+        "onboard_time": 1668497252,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165837,
+        "num": 165837,
+        "word": "河南多地要求基层带队去富士康务工",
+        "onboard_time": 1668500852,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "孩子玩8小时手机父亲陪罚跪80分钟",
+        "onboard_time": 1668504091,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151514,
+        "num": 151514,
+        "word": "爸爸为锻炼2岁儿子将其独自扔下",
+        "onboard_time": 1668501992,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 147965,
+        "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
+        "onboard_time": 1668492327,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170434,
+        "num": 147513,
+        "word": "这才是红楼梦售后天花板吧",
+        "onboard_time": 1668516267,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146878,
+        "num": 146878,
+        "word": "王进喜用身体搅拌水泥阻止石油井喷",
+        "onboard_time": 1668512430,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144621,
+        "num": 144621,
+        "word": "男子脚踹2个月流浪猫致死",
+        "onboard_time": 1668504868,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 144417,
+        "num": 144417,
+        "word": "这届大学生是懂直播的",
+        "onboard_time": 1668512129,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143188,
+        "num": 143188,
+        "word": "火锅店回应奶茶汤底中加三花淡奶",
+        "onboard_time": 1668501571,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138152,
+        "num": 138152,
+        "word": "十斤的猫有九斤的心眼子",
+        "onboard_time": 1668516632,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122742,
+        "num": 122742,
+        "word": "刘诗雯成功解锁新身份",
+        "onboard_time": 1668508178,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114095,
+        "num": 114095,
+        "word": "美国变性网红被捕入狱关入男囚",
+        "onboard_time": 1668491914,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107210,
+        "num": 107210,
+        "word": "减肥时的这不行那不行",
+        "onboard_time": 1668517290,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100861,
+        "num": 100861,
+        "word": "松花江畔雾凇太梦幻了",
+        "onboard_time": 1668517531,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十分钟视频看中美元首巴厘岛会晤#"
+    }
+  }
+}
