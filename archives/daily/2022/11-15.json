@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668517751060,
+  "endTime": 1668519452807,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -89,6 +89,14 @@
       "onboard_time": 1668491489,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561305,
+      "num": 810775,
+      "word": "鸟鸟 文本",
+      "onboard_time": 1668516515,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1528740,
@@ -209,14 +217,6 @@
       "onboard_time": 1668482369,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1073988,
-      "num": 769456,
-      "word": "鸟鸟 文本",
-      "onboard_time": 1668516515,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1037196,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768701,
+      "num": 768701,
+      "word": "官方回应兰州核酸只做单采",
+      "onboard_time": 1668515067,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750953,
       "num": 750953,
       "word": "大米先生",
@@ -379,12 +387,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653915,
+      "num": 653915,
+      "word": "继续暂停经营出入境团队游业务",
+      "onboard_time": 1668514468,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653032,
+      "num": 653032,
+      "word": "白敬亭田曦薇新剧酒后吻又上一分",
+      "onboard_time": 1668517590,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 650478,
       "num": 650478,
       "word": "方志靖把李峋姐姐害死",
       "onboard_time": 1668502171,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 644810,
+      "num": 644810,
+      "word": "跨省游客凭48小时核酸证明乘交通工具",
+      "onboard_time": 1668515129,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618692,
@@ -411,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553354,
-      "num": 553354,
-      "word": "官方回应兰州核酸只做单采",
-      "onboard_time": 1668515067,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 546816,
+      "num": 518096,
+      "word": "张婧仪曝光朱韵朋友圈内容",
+      "onboard_time": 1668517890,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 544076,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423950,
-      "num": 423950,
-      "word": "继续暂停经营出入境团队游业务",
-      "onboard_time": 1668514468,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421885,
       "num": 421885,
       "word": "张婉婷哭着自我反省",
@@ -731,20 +755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400159,
+      "num": 400159,
+      "word": "徐志胜说吾与鹿晗孰美",
+      "onboard_time": 1668516750,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397689,
       "num": 397689,
       "word": "室友送柚子女生用皮做玫瑰花回赠",
       "onboard_time": 1668482369,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395488,
-      "num": 348034,
-      "word": "徐志胜说吾与鹿晗孰美",
-      "onboard_time": 1668516750,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 395221,
@@ -777,14 +801,6 @@
       "onboard_time": 1668436291,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384161,
-      "num": 227002,
-      "word": "白敬亭田曦薇新剧酒后吻又上一分",
-      "onboard_time": 1668517590,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 379256,
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356212,
+      "num": 240631,
+      "word": "内娱现存男团的舞台有多绝",
+      "onboard_time": 1668516690,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355792,
       "num": 355792,
       "word": "2023届高校毕业生预计1158万",
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335622,
+      "num": 238611,
+      "word": "朱韵等了李峋六年",
+      "onboard_time": 1668518129,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335376,
       "num": 246095,
       "word": "网传GQ盛典王一博龚俊王鹤棣出席",
@@ -939,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318800,
+      "num": 182401,
+      "word": "王鹤棣回应被鸡踹了",
+      "onboard_time": 1668517349,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310330,
       "num": 281734,
       "word": "李峋玩打火机vs阿瑟玩打火机",
@@ -953,14 +993,6 @@
       "onboard_time": 1668505470,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305579,
-      "num": 187025,
-      "word": "内娱现存男团的舞台有多绝",
-      "onboard_time": 1668516690,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 305174,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1668500137,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 282890,
+      "num": 282890,
+      "word": "卖菜老人误收百元假钞伤心痛哭",
+      "onboard_time": 1668515129,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282335,
@@ -1083,12 +1123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259255,
-      "num": 182401,
-      "word": "王鹤棣回应被鸡踹了",
-      "onboard_time": 1668517349,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 259124,
+      "num": 259124,
+      "word": "中公教育若未按时退费将卖楼还钱",
+      "onboard_time": 1668509432,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257817,
@@ -1137,6 +1177,22 @@
       "onboard_time": 1668499770,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249443,
+      "num": 249443,
+      "word": "十斤的猫有九斤的心眼子",
+      "onboard_time": 1668516632,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 249355,
+      "num": 158256,
+      "word": "朱一龙与人生大事人戏双保",
+      "onboard_time": 1668518852,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 245209,
@@ -1220,7 +1276,7 @@
     },
     {
       "raw_hot": 228810,
-      "num": 775406,
+      "num": 817153,
       "word": "巴厘岛G20时间",
       "onboard_time": 1668513508,
       "rank": 2,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1668477569,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224140,
-      "num": 224140,
-      "word": "中公教育若未按时退费将卖楼还钱",
-      "onboard_time": 1668509432,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222322,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1668441030,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213405,
-      "num": 213405,
-      "word": "跨省游客凭48小时核酸证明乘交通工具",
-      "onboard_time": 1668515129,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212830,
@@ -1387,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203925,
-      "num": 203925,
-      "word": "卖菜老人误收百元假钞伤心痛哭",
-      "onboard_time": 1668515129,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203902,
       "num": 203902,
       "word": "中美元首握手合影",
@@ -1459,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189546,
+      "num": 152376,
+      "word": "白鹿以爱为营收工视频",
+      "onboard_time": 1668518731,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189219,
       "num": 165209,
       "word": "鹿晗脱口秀说谐音梗",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1668497070,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 179671,
+      "num": 128322,
+      "word": "SuperM最新练习室公开",
+      "onboard_time": 1668517831,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179614,
@@ -1843,14 +1891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138152,
-      "num": 138152,
-      "word": "十斤的猫有九斤的心眼子",
-      "onboard_time": 1668516632,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -2059,6 +2099,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 105617,
+      "num": 105617,
+      "word": "这色感也太绝了",
+      "onboard_time": 1668518191,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104654,
       "num": 104654,
       "word": "2024年巴黎奥运会吉祥物",
@@ -2240,6 +2288,14 @@
       "word": "每个人都是自己健康的第一责任人",
       "onboard_time": 1668443963,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82470,
+      "num": 82470,
+      "word": "男女街边消费148元开宝马逃单",
+      "onboard_time": 1668519392,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2429,6 +2485,9 @@
     },
     {
       "word": "#G20巴厘岛峰会#"
+    },
+    {
+      "word": "#G20峰会金句#"
     }
   ]
 }
