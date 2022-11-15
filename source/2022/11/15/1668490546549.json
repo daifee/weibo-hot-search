@@ -1,0 +1,410 @@
+{
+  "runTime": 1668490546549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777090,
+        "num": 777090,
+        "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+        "onboard_time": 1668482730,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646049,
+        "num": 646049,
+        "word": "女子饭店吃饭被陌生男子提醒患病",
+        "onboard_time": 1668480324,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68903,
+        "num": 641537,
+        "word": "G20是个什么样的组织",
+        "onboard_time": 1668442825,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 951377,
+        "num": 614998,
+        "word": "iPhone用户羡慕安卓手机的地方",
+        "onboard_time": 1668487532,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 892683,
+        "num": 588198,
+        "word": "卿卿日常高开疯走",
+        "onboard_time": 1668485973,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 709433,
+        "num": 577019,
+        "word": "石家庄市今日增设免费核酸检测网点",
+        "onboard_time": 1668482369,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564497,
+        "num": 564497,
+        "word": "母亲给儿子送饺子途中被撞身亡外卖员被公诉",
+        "onboard_time": 1668470785,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457766,
+        "num": 457766,
+        "word": "全网围观下的石家庄",
+        "onboard_time": 1668475946,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421638,
+        "num": 421638,
+        "word": "广东新增无症状感染者5047例",
+        "onboard_time": 1668477808,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405371,
+        "num": 405371,
+        "word": "马斯克睡在推特总部",
+        "onboard_time": 1668486872,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1870828,
+        "num": 403004,
+        "word": "蒲熠星履历",
+        "onboard_time": 1668488198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1264518,
+        "num": 375670,
+        "word": "广州核酸",
+        "onboard_time": 1668483988,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841931,
+        "num": 372662,
+        "word": "女子8年前捡漏买房带130平露台",
+        "onboard_time": 1668488011,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616446,
+        "num": 350732,
+        "word": "男子欠70万破产还款记录令人钦佩",
+        "onboard_time": 1668488311,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341713,
+        "num": 341713,
+        "word": "想拿影帝坐袁弘前面",
+        "onboard_time": 1668484471,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339078,
+        "num": 339078,
+        "word": "女生地铁被老人说教穿太少膝盖疼",
+        "onboard_time": 1668486818,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328021,
+        "num": 328021,
+        "word": "肖战告黑胜诉",
+        "onboard_time": 1668490468,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308035,
+        "num": 308035,
+        "word": "女子拒签快递被快递员私自代签",
+        "onboard_time": 1668479488,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307185,
+        "num": 307185,
+        "word": "猫的爪爪有啥用",
+        "onboard_time": 1668485853,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303565,
+        "num": 303565,
+        "word": "印度最早明年成第一人口大国",
+        "onboard_time": 1668483150,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284922,
+        "num": 284922,
+        "word": "排队时不要只顾玩手机",
+        "onboard_time": 1668488073,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243768,
+        "num": 243768,
+        "word": "特斯拉开卖530元限量玻璃杯",
+        "onboard_time": 1668483036,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243598,
+        "num": 243598,
+        "word": "饮品店推300元一杯天价柠檬茶",
+        "onboard_time": 1668488252,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220872,
+        "num": 220872,
+        "word": "感染新冠是什么体验",
+        "onboard_time": 1668442466,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219856,
+        "num": 219856,
+        "word": "以岭药业回应连花清瘟断货",
+        "onboard_time": 1668480569,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206535,
+        "num": 206535,
+        "word": "合肥倡导婚宴应办尽办",
+        "onboard_time": 1668481473,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194262,
+        "num": 194262,
+        "word": "陈飞宇张婧仪天桥吻戏路透",
+        "onboard_time": 1668488612,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184966,
+        "num": 184966,
+        "word": "元英你舅宠她爸",
+        "onboard_time": 1668484649,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174696,
+        "num": 174696,
+        "word": "木子洋告诫坤音二团别想着单飞",
+        "onboard_time": 1668489268,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171815,
+        "num": 171815,
+        "word": "社区电话打不通上门发现话筒被挪开",
+        "onboard_time": 1668477329,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169471,
+        "num": 169471,
+        "word": "老人救患病孙女拉货自扇耳光提神",
+        "onboard_time": 1668486214,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168573,
+        "num": 168573,
+        "word": "陈紫函亲手撕碎反派剧本",
+        "onboard_time": 1668490048,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167986,
+        "num": 167986,
+        "word": "室友送柚子女生用皮做玫瑰花回赠",
+        "onboard_time": 1668482369,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165986,
+        "num": 165986,
+        "word": "沈梦瑶女神造型眼神杀",
+        "onboard_time": 1668490288,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153584,
+        "num": 153584,
+        "word": "男子放阳台的死水突然变绿长鱼苗",
+        "onboard_time": 1668469522,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141389,
+        "num": 141389,
+        "word": "朴彩英MASTERMIND封面画报",
+        "onboard_time": 1668486513,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "东南大学扫地大爷反向清扫梧桐落叶",
+        "onboard_time": 1668489987,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135944,
+        "num": 135944,
+        "word": "张震岳回应被错认成热狗",
+        "onboard_time": 1668488079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134813,
+        "num": 134813,
+        "word": "全球人口达80亿",
+        "onboard_time": 1668480569,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "95后地理老师板书堪比PPT",
+        "onboard_time": 1668476188,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134397,
+        "num": 134397,
+        "word": "潮州特斯拉事故前视频公布",
+        "onboard_time": 1668489209,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134207,
+        "num": 134207,
+        "word": "陈小纭说又用上了36度恒温围脖",
+        "onboard_time": 1668470063,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132690,
+        "num": 132690,
+        "word": "Lami签入原公司演员部",
+        "onboard_time": 1668480156,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 127459,
+        "word": "赵丽颖欧豪李光洁风吹半夏最新剧照",
+        "onboard_time": 1668483629,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126188,
+        "num": 126188,
+        "word": "爱的二八定律 穿搭",
+        "onboard_time": 1668474750,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121631,
+        "num": 121631,
+        "word": "我国首次截获全球新物种",
+        "onboard_time": 1668468501,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113801,
+        "num": 113801,
+        "word": "光遇 花环",
+        "onboard_time": 1668485671,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111666,
+        "num": 111666,
+        "word": "男生军训剃寸头收获意外的帅气",
+        "onboard_time": 1668476490,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111474,
+        "num": 111474,
+        "word": "男孩看电视不睡觉父母罚通宵看",
+        "onboard_time": 1668474151,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107441,
+        "num": 107441,
+        "word": "土耳其不接受美就伊斯坦布尔爆炸事件哀悼",
+        "onboard_time": 1668479007,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#G20巴厘岛峰会#"
+    }
+  }
+}
