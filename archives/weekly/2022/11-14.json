@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668548111963,
+  "endTime": 1668550820897,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2043,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331251,
+      "num": 331251,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331052,
       "num": 331052,
       "word": "男子脚踹2个月流浪猫致死",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1668524971,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194348,
-      "num": 194348,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194129,
@@ -4883,6 +4883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36330,
+      "num": 36330,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 35624,
+      "num": 24435,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 34468,
       "num": 139148,
       "word": "糖尿病患者能买什么保险",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1668444807,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26867,
+      "num": 26867,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26208,
@@ -4931,12 +4955,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19276,
-      "num": 19276,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 21802,
+      "num": 21802,
+      "word": "罗晋新剧大婚狂炫花生",
+      "onboard_time": 1668548772,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 21732,
+      "num": 21732,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 18365,
@@ -4987,28 +5019,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 12298,
-      "num": 12298,
-      "word": "卿卿日常大少主出场",
-      "onboard_time": 1668547632,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 11042,
       "num": 11183,
       "word": "高校老师肩挑背扛给同学送早餐",
       "onboard_time": 1668367273,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10313,
-      "num": 11801,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 10271,
@@ -5025,14 +5041,6 @@
       "onboard_time": 1668457213,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 9084,
-      "num": 11789,
-      "word": "男子纵身跳湖救下溺水孩子",
-      "onboard_time": 1668547932,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 8754,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668548111963,
+  "endTime": 1668550820897,
   "band_list": [
     {
       "raw_hot": 1270795,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331251,
+      "num": 331251,
+      "word": "张文宏称走出疫情靠的是科技",
+      "onboard_time": 1668543854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329423,
       "num": 275052,
       "word": "GQ总编说会邀请虞书欣王鹤棣",
@@ -193,14 +201,6 @@
       "onboard_time": 1668525751,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194348,
-      "num": 194348,
-      "word": "张文宏称走出疫情靠的是科技",
-      "onboard_time": 1668543854,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188037,
@@ -459,12 +459,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36330,
+      "num": 36330,
+      "word": "体育老师课上帮解物理题",
+      "onboard_time": 1668546792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 35624,
+      "num": 24435,
+      "word": "男子纵身跳湖救下溺水孩子",
+      "onboard_time": 1668547932,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 28282,
       "num": 27306,
       "word": "陈奕迅新歌",
       "onboard_time": 1668523292,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26867,
+      "num": 26867,
+      "word": "80亿人口对世界意味着什么",
+      "onboard_time": 1668537853,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24528,
@@ -475,12 +499,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 19276,
-      "num": 19276,
-      "word": "80亿人口对世界意味着什么",
-      "onboard_time": 1668537853,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 21802,
+      "num": 21802,
+      "word": "罗晋新剧大婚狂炫花生",
+      "onboard_time": 1668548772,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 21732,
+      "num": 21732,
+      "word": "卿卿日常大少主出场",
+      "onboard_time": 1668547632,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 16065,
@@ -489,30 +521,6 @@
       "onboard_time": 1668542292,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12298,
-      "num": 12298,
-      "word": "卿卿日常大少主出场",
-      "onboard_time": 1668547632,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 10313,
-      "num": 11801,
-      "word": "体育老师课上帮解物理题",
-      "onboard_time": 1668546792,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 9084,
-      "num": 11789,
-      "word": "男子纵身跳湖救下溺水孩子",
-      "onboard_time": 1668547932,
-      "rank": 49,
-      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
