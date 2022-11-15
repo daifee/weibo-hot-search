@@ -1,0 +1,410 @@
+{
+  "runTime": 1668500965886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2135076,
+        "num": 2135076,
+        "word": "我是8000000000分之一",
+        "onboard_time": 1668497851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078973,
+        "num": 1078973,
+        "word": "张雪峰称外卖员职业5-10年内可能消失",
+        "onboard_time": 1668491489,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23158,
+        "num": 1048244,
+        "word": "G20是个什么样的组织",
+        "onboard_time": 1668442825,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1533174,
+        "num": 1042630,
+        "word": "金铁霖去世",
+        "onboard_time": 1668496107,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1022258,
+        "num": 1022258,
+        "word": "疯狂小杨哥多款带货产品被质疑",
+        "onboard_time": 1668495929,
+        "rank": 4,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 706490,
+        "num": 706490,
+        "word": "美国变性网红被捕入狱关入男囚",
+        "onboard_time": 1668491914,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691238,
+        "num": 691238,
+        "word": "婆家不满彩礼娘家霸气倒陪嫁20万",
+        "onboard_time": 1668492327,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690766,
+        "num": 690766,
+        "word": "爷爷米缸长满小虫淘米飘满盆",
+        "onboard_time": 1668497252,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663653,
+        "num": 663653,
+        "word": "杨幂新剧4集换了15套衣服",
+        "onboard_time": 1668493888,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438213,
+        "num": 529701,
+        "word": "iPhone用户羡慕安卓手机的地方",
+        "onboard_time": 1668487532,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3940076,
+        "num": 529653,
+        "word": "泰安银行抢劫案",
+        "onboard_time": 1668495214,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1368350,
+        "num": 529450,
+        "word": "泰安警方回应银行劫案",
+        "onboard_time": 1668493473,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 499852,
+        "num": 499852,
+        "word": "白敬亭把田曦薇鞋抱掉了",
+        "onboard_time": 1668497070,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487850,
+        "num": 487850,
+        "word": "点燃我温暖你22集暂停的原因",
+        "onboard_time": 1668494009,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444009,
+        "num": 444009,
+        "word": "广州核酸",
+        "onboard_time": 1668483988,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421885,
+        "num": 421885,
+        "word": "张婉婷哭着自我反省",
+        "onboard_time": 1668498336,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395221,
+        "num": 395221,
+        "word": "2女孩下班回家被多男子当街殴打",
+        "onboard_time": 1668494853,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377359,
+        "num": 377359,
+        "word": "女子8年前捡漏买房带130平露台",
+        "onboard_time": 1668488011,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310065,
+        "num": 310065,
+        "word": "男子欠70万破产还款记录令人钦佩",
+        "onboard_time": 1668488311,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305174,
+        "num": 305174,
+        "word": "洛阳乘坐公共交通取消查验48小时核酸",
+        "onboard_time": 1668495747,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319550,
+        "num": 302209,
+        "word": "12年青海省理科状元不姓文",
+        "onboard_time": 1668490651,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274073,
+        "num": 274073,
+        "word": "卿卿日常高开疯走",
+        "onboard_time": 1668485973,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204988,
+        "num": 204988,
+        "word": "石家庄市今日增设免费核酸检测网点",
+        "onboard_time": 1668482369,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249871,
+        "num": 197898,
+        "word": "院人是懂团建的",
+        "onboard_time": 1668499770,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184301,
+        "num": 184301,
+        "word": "猫的爪爪有啥用",
+        "onboard_time": 1668485853,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170994,
+        "num": 170994,
+        "word": "4岁女童被困6楼窗外小伙踩凳救人",
+        "onboard_time": 1668497070,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170534,
+        "num": 170534,
+        "word": "柬埔寨首相新冠检测呈阳性",
+        "onboard_time": 1668492925,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165297,
+        "num": 165297,
+        "word": "男子发视频吐槽烤全羊被索赔2万",
+        "onboard_time": 1668491848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157915,
+        "num": 157915,
+        "word": "带着全家七口北漂是种什么体验",
+        "onboard_time": 1668499292,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151809,
+        "num": 151809,
+        "word": "排队时不要只顾玩手机",
+        "onboard_time": 1668488073,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268811,
+        "num": 151803,
+        "word": "福原爱方否认介入他人婚姻",
+        "onboard_time": 1668499836,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 189219,
+        "num": 151802,
+        "word": "鹿晗脱口秀说谐音梗",
+        "onboard_time": 1668497851,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177234,
+        "num": 151792,
+        "word": "胡彦斌再见爱人反复cue孙怡",
+        "onboard_time": 1668499175,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158075,
+        "num": 151786,
+        "word": "李峋朱韵耳鬓厮磨",
+        "onboard_time": 1668496050,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151784,
+        "num": 151784,
+        "word": "拉夫罗夫说他戴的手表是华为的",
+        "onboard_time": 1668500137,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143099,
+        "num": 143099,
+        "word": "C罗B费握手画面引热议",
+        "onboard_time": 1668492814,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127014,
+        "num": 127014,
+        "word": "东南大学扫地大爷反向清扫梧桐落叶",
+        "onboard_time": 1668489987,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123760,
+        "num": 123760,
+        "word": "广东新增无症状感染者5047例",
+        "onboard_time": 1668477808,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "河南多地要求基层带队去富士康务工",
+        "onboard_time": 1668500852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117454,
+        "num": 117454,
+        "word": "乌鲁木齐被罚50万元宠物店负责人发声",
+        "onboard_time": 1668482730,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142032,
+        "num": 116277,
+        "word": "方舒苗演我追星的心态",
+        "onboard_time": 1668498277,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "母亲给儿子送饺子途中被撞身亡外卖员被公诉",
+        "onboard_time": 1668470785,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 114730,
+        "word": "吴磊齐刘海造型花絮",
+        "onboard_time": 1668495568,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "女生地铁被老人说教穿太少膝盖疼",
+        "onboard_time": 1668486818,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112053,
+        "num": 112053,
+        "word": "男生为了看球人均800个心眼",
+        "onboard_time": 1668494966,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104809,
+        "num": 104809,
+        "word": "全网围观下的石家庄",
+        "onboard_time": 1668475946,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 103286,
+        "word": "潮州特斯拉事故前视频公布",
+        "onboard_time": 1668489209,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103034,
+        "num": 103034,
+        "word": "当代年轻人的入冬五件套",
+        "onboard_time": 1668500671,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101396,
+        "num": 101396,
+        "word": "女子饭店吃饭被陌生男子提醒患病",
+        "onboard_time": 1668480324,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "饮品店推300元一杯天价柠檬茶",
+        "onboard_time": 1668488252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中美关系重回健康稳定发展轨道#"
+    }
+  }
+}
