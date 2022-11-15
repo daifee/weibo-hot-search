@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/15 19:17:29
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/15 19:33:49
 </p>
 </blockquote>
 <p>
@@ -778,7 +778,7 @@ IU（热度：2015592）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A0%E5%80%BA4600%E4%B8%87%E5%A4%A7%E5%8F%94%E8%AE%A4%E7%9C%9F%E5%8D%96%E7%83%A4%E8%82%A0%E8%BF%98%E5%80%BA%23" target="weibo">
-欠债4600万大叔认真卖烤肠还债（热度：1658613）
+欠债4600万大叔认真卖烤肠还债（热度：1660356）
 </a>
 </li>
 
@@ -2517,6 +2517,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E8%A7%81%E6%9C%B1%E9%9F%B5%E7%88%B6%E6%AF%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%88%86%E6%89%8B%23" target="weibo">
+李峋见朱韵父母是为了分手（热度：879465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E5%85%88%E6%B6%A8%E5%90%8E%E8%B7%8C%E4%BB%85%E4%BE%BF%E5%AE%9C0.28%E5%85%83%23" target="weibo">
 波司登回应先涨后跌仅便宜0.28元（热度：878353）
 </a>
@@ -2717,12 +2723,6 @@ Kingen获FMVP（热度：869944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E5%90%AC%E5%88%B0%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%E6%B6%88%E6%81%AF%E6%9C%89%E4%BA%9B%E6%81%8D%E6%83%9A%23" target="weibo">
 陈飞宇说听到热度破万消息有些恍惚（热度：841925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E8%A7%81%E6%9C%B1%E9%9F%B5%E7%88%B6%E6%AF%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%88%86%E6%89%8B%23" target="weibo">
-李峋见朱韵父母是为了分手（热度：841459）
 </a>
 </li>
 
@@ -4241,6 +4241,12 @@ QQ内测微信登录功能（热度：629846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
 一年级女孩用手扫描书按进大脑（热度：594538）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%93%B6%E8%A1%8C%E6%8A%A2%E5%8A%AB%E6%A1%88%E6%AD%B9%E5%BE%92%E8%A2%AB%E5%87%BB%E6%AF%99%23" target="weibo">
+警方通报银行抢劫案歹徒被击毙（热度：593983）
 </a>
 </li>
 
@@ -5769,6 +5775,12 @@ XYG（热度：480241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%91%E5%90%83%E6%B7%8B%E5%B7%B4%E8%82%89%E7%BB%B4%E6%9D%83%E9%81%AD%E5%A8%81%E8%83%81%23" target="weibo">
+男子疑吃淋巴肉维权遭威胁（热度：479197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8C%81%E7%BB%AD%E9%AB%98%E7%83%A7%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E4%BA%B2%E5%90%BB%E7%97%85%E6%AF%92%23" target="weibo">
 女孩持续高烧就医查出亲吻病毒（热度：479084）
 </a>
@@ -5999,18 +6011,6 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%90%A6%E8%AE%A4%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%BA%94%E5%88%86%E9%92%9F%E5%86%85%E6%B6%88%E6%81%AF%23" target="weibo">
 微信否认可撤回五分钟内消息（热度：464717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%A6%81%E9%9A%8F%E9%9A%8F%E4%BE%BF%E4%BE%BF%E5%8E%BB%E6%8B%86%E7%BB%93%E5%A9%9A%E7%85%A7%23" target="weibo">
-没事不要随随便便去拆结婚照（热度：463871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E8%BE%B9%E5%93%AD%E8%BE%B9%E5%90%B8%E6%B0%A7%23" target="weibo">
-胡彦斌再见爱人边哭边吸氧（热度：463486）
 </a>
 </li>
 

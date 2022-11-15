@@ -1,6 +1,6 @@
 {
   "startTime": 1668443559814,
-  "endTime": 1668511049579,
+  "endTime": 1668512029493,
   "band_list": [
     {
       "raw_hot": 3940076,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1658613,
-      "num": 1658613,
+      "raw_hot": 1660356,
+      "num": 1660356,
       "word": "欠债4600万大叔认真卖烤肠还债",
       "onboard_time": 1668506488,
       "rank": 11,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 879465,
+      "num": 879465,
+      "word": "李峋见朱韵父母是为了分手",
+      "onboard_time": 1668506250,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 874085,
       "num": 663653,
       "word": "杨幂新剧4集换了15套衣服",
@@ -305,14 +313,6 @@
       "onboard_time": 1668470063,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 841459,
-      "num": 841459,
-      "word": "李峋见朱韵父母是为了分手",
-      "onboard_time": 1668506250,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 832998,
@@ -361,6 +361,14 @@
       "onboard_time": 1668502171,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593983,
+      "num": 353454,
+      "word": "警方通报银行抢劫案歹徒被击毙",
+      "onboard_time": 1668510572,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 561047,
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479197,
+      "num": 479197,
+      "word": "男子疑吃淋巴肉维权遭威胁",
+      "onboard_time": 1668509129,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477409,
       "num": 477409,
       "word": "想拿影帝坐袁弘前面",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 427003,
-      "num": 335230,
+      "num": 353437,
       "word": "毕节莎莎文具店",
       "onboard_time": 1668506190,
       "rank": 32,
@@ -609,6 +625,14 @@
       "onboard_time": 1668483150,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401495,
+      "num": 401495,
+      "word": "白敬亭新剧打麻将连胡15局",
+      "onboard_time": 1668511291,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 401057,
@@ -715,8 +739,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353173,
-      "num": 353173,
+      "raw_hot": 355792,
+      "num": 355792,
+      "word": "2023届高校毕业生预计1158万",
+      "onboard_time": 1668507750,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 353390,
+      "num": 353390,
       "word": "刘诗雯成功解锁新身份",
       "onboard_time": 1668508178,
       "rank": 44,
@@ -779,12 +811,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 326153,
-      "num": 326153,
-      "word": "警方通报银行抢劫案歹徒被击毙",
-      "onboard_time": 1668510572,
-      "rank": 13,
-      "category": "社会负面"
+      "raw_hot": 329380,
+      "num": 329380,
+      "word": "957心态",
+      "onboard_time": 1668511169,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 322425,
@@ -833,14 +865,6 @@
       "onboard_time": 1668508228,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295281,
-      "num": 295281,
-      "word": "男子疑吃淋巴肉维权遭威胁",
-      "onboard_time": 1668509129,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294042,
@@ -907,12 +931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260604,
-      "num": 260604,
-      "word": "2023届高校毕业生预计1158万",
-      "onboard_time": 1668507750,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 269787,
+      "num": 269787,
+      "word": "男子退货不愿退赠品",
+      "onboard_time": 1668509911,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263949,
+      "num": 263949,
+      "word": "王源mbti是infp和intp",
+      "onboard_time": 1668510639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257817,
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 251829,
-      "num": 116622,
+      "num": 204782,
       "word": "张婧仪17岁到23岁荧幕变化",
       "onboard_time": 1668510990,
       "rank": 47,
@@ -1011,14 +1043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231037,
-      "num": 231037,
-      "word": "王源mbti是infp和intp",
-      "onboard_time": 1668510639,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229834,
       "num": 229834,
       "word": "官方回应公司拒录山东服装学院学生",
@@ -1032,6 +1056,14 @@
       "word": "爸爸为锻炼2岁儿子将其独自扔下",
       "onboard_time": 1668501992,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227716,
+      "num": 227716,
+      "word": "每日优鲜全职员工仅余55人",
+      "onboard_time": 1668510750,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220387,
+      "num": 203551,
+      "word": "卿卿日常热度破万全员flag",
+      "onboard_time": 1668510387,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219654,
       "num": 219654,
       "word": "英雄联盟北极星使者皮肤",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1668485130,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218243,
+      "num": 203528,
+      "word": "脱口秀大会",
+      "onboard_time": 1668510689,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 215385,
@@ -1155,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206240,
+      "num": 206240,
+      "word": "原来被爱真的很重要",
+      "onboard_time": 1668509490,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204093,
       "num": 184840,
       "word": "李峋说朱韵和我在一起会很幸福",
@@ -1176,6 +1232,14 @@
       "word": "审判阿瑟吻技",
       "onboard_time": 1668425489,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201457,
+      "num": 190759,
+      "word": "命韵峋环拥吻",
+      "onboard_time": 1668509249,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1203,36 +1267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192097,
-      "num": 191678,
-      "word": "卿卿日常热度破万全员flag",
-      "onboard_time": 1668510387,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191782,
       "num": 191782,
       "word": "陪主人打麻将昏昏欲睡的狗",
       "onboard_time": 1668505110,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190759,
-      "num": 190759,
-      "word": "命韵峋环拥吻",
-      "onboard_time": 1668509249,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190278,
-      "num": 190278,
-      "word": "脱口秀大会",
-      "onboard_time": 1668510689,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 190164,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1668497070,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 180013,
-      "num": 180013,
-      "word": "男子退货不愿退赠品",
-      "onboard_time": 1668509911,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179614,
@@ -1491,14 +1523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150744,
-      "num": 150744,
-      "word": "原来被爱真的很重要",
-      "onboard_time": 1668509490,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149878,
       "num": 149878,
       "word": "当南方舍友第一次看到暖气",
@@ -1512,6 +1536,14 @@
       "word": "刘令姿元英打算盘打出残影",
       "onboard_time": 1668478417,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146697,
+      "num": 143102,
+      "word": "爱的二八定律秦施人设",
+      "onboard_time": 1668511955,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1691,6 +1723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126854,
+      "num": 126854,
+      "word": "办公室里有八百个心眼子",
+      "onboard_time": 1668510091,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125767,
       "num": 103836,
       "word": "朱韵朋友圈秀恩爱",
@@ -1707,12 +1747,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122771,
-      "num": 122771,
-      "word": "办公室里有八百个心眼子",
-      "onboard_time": 1668510091,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 120329,
+      "num": 120329,
+      "word": "长江大桥云海翻涌似仙境",
+      "onboard_time": 1668511530,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118857,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117781,
-      "num": 117781,
-      "word": "每日优鲜全职员工仅余55人",
-      "onboard_time": 1668510750,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114191,
