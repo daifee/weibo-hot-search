@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668569654202,
+  "endTime": 1668572954206,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1667423,
-      "num": 1667423,
+      "raw_hot": 1818704,
+      "num": 1818704,
       "word": "疯狂小杨哥陷带货产品质量问题漩涡",
       "onboard_time": 1668565708,
       "rank": 1,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1323768,
+      "num": 1323768,
+      "word": "大学生打麻将被罚画600个幺鸡",
+      "onboard_time": 1668568409,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1270795,
       "num": 700830,
       "word": "鹿晗 紧张",
@@ -49,6 +57,14 @@
       "onboard_time": 1668516515,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1017802,
+      "num": 613110,
+      "word": "韩剧cheerup男二未上位",
+      "onboard_time": 1668568528,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 908437,
@@ -81,6 +97,14 @@
       "onboard_time": 1668527909,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 844473,
+      "num": 844473,
+      "word": "央媒评头部带货主播遭打假",
+      "onboard_time": 1668570507,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 835796,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612086,
+      "num": 612086,
+      "word": "易立竞提问张婉婷",
+      "onboard_time": 1668571169,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609678,
       "num": 609678,
       "word": "王海回应打假疯狂小杨哥",
@@ -177,6 +209,14 @@
       "onboard_time": 1668568109,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 546345,
+      "num": 546345,
+      "word": "卿卿日常是卿卿草原吧",
+      "onboard_time": 1668566667,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 529658,
@@ -219,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475948,
-      "num": 475948,
-      "word": "韩剧cheerup男二未上位",
-      "onboard_time": 1668568528,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470101,
       "num": 470101,
       "word": "邱瑞 直播带货",
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 464930,
-      "num": 452955,
-      "word": "大学生打麻将被罚画600个幺鸡",
-      "onboard_time": 1668568409,
-      "rank": 41,
-      "category": "社会新闻,教育"
+      "raw_hot": 462853,
+      "num": 462853,
+      "word": "拜登称波兰爆炸导弹可能不是从俄发射",
+      "onboard_time": 1668571528,
+      "rank": 11,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 458195,
@@ -251,11 +283,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445111,
-      "num": 445111,
-      "word": "卿卿日常是卿卿草原吧",
-      "onboard_time": 1668566667,
-      "rank": 9,
+      "raw_hot": 433426,
+      "num": 433426,
+      "word": "李峋唯独没想到公主没有他会发疯",
+      "onboard_time": 1668572487,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -265,6 +297,22 @@
       "onboard_time": 1668557551,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 409876,
+      "num": 409876,
+      "word": "校方回应阿姨徒手装回散落米饭",
+      "onboard_time": 1668568589,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 383813,
+      "num": 383813,
+      "word": "刘雨昕林一张凌赫智族GQ十一月封面",
+      "onboard_time": 1668570507,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 381801,
@@ -283,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373685,
+      "num": 373685,
+      "word": "北京大爷公交怒怼占座男",
+      "onboard_time": 1668570087,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367767,
       "num": 367767,
       "word": "杨幂肖砚再见了",
@@ -296,6 +352,14 @@
       "word": "高见鸿透露李峋的软肋给方志靖",
       "onboard_time": 1668568348,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 362929,
+      "num": 362929,
+      "word": "你后悔把时间全部交给事业吗",
+      "onboard_time": 1668568889,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297683,
+      "num": 297683,
+      "word": "辽宁研考",
+      "onboard_time": 1668571649,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 297081,
       "num": 297081,
       "word": "背叛的人下地狱",
@@ -377,6 +449,14 @@
       "onboard_time": 1668514711,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289070,
+      "num": 289070,
+      "word": "女孩哭着卖气球路人以为被拐卖",
+      "onboard_time": 1668570087,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285759,
@@ -443,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253880,
+      "num": 206240,
+      "word": "公主日记将拍第三部",
+      "onboard_time": 1668569485,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "猫咪把牙卡在主人耳洞里睡着",
@@ -465,14 +553,6 @@
       "onboard_time": 1668562290,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245921,
-      "num": 245921,
-      "word": "你后悔把时间全部交给事业吗",
-      "onboard_time": 1668568889,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 229783,
@@ -531,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203836,
+      "num": 168877,
+      "word": "马嘉祺宋亚轩万水朝东宣传预告视频",
+      "onboard_time": 1668570868,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199249,
       "num": 199249,
       "word": "新冠居家必备药物指南",
       "onboard_time": 1668554423,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198131,
+      "num": 198131,
+      "word": "深大校长称要培养出10位马化腾级校友",
+      "onboard_time": 1668571886,
+      "rank": 34,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 195509,
@@ -561,14 +657,6 @@
       "onboard_time": 1668563669,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192132,
-      "num": 192132,
-      "word": "校方回应阿姨徒手装回散落米饭",
-      "onboard_time": 1668568589,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192101,
@@ -643,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176081,
-      "num": 165943,
-      "word": "公主日记将拍第三部",
-      "onboard_time": 1668569485,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168244,
       "num": 115709,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -723,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140951,
+      "num": 140951,
+      "word": "梅里雪山日照金山",
+      "onboard_time": 1668572068,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 137894,
       "num": 137894,
       "word": "杨幂许凯爱的二八定律战报",
@@ -747,6 +835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132264,
+      "num": 132264,
+      "word": "孩子坐不住是一种病吗",
+      "onboard_time": 1668570927,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 132171,
+      "num": 132171,
+      "word": "厂家回应工人徒手抓水果放罐头里",
+      "onboard_time": 1668571768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "原来被爱真的很重要",
@@ -769,6 +873,14 @@
       "onboard_time": 1668536595,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127075,
+      "num": 127075,
+      "word": "15岁高中生离开宿舍后失踪一月",
+      "onboard_time": 1668572729,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 123720,
@@ -931,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67485,
+      "num": 1045439,
+      "word": "坚决打赢关键核心技术攻坚战",
+      "onboard_time": 1668571110,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 48443,
       "num": 48443,
       "word": "体育老师课上帮解物理题",
@@ -972,6 +1092,9 @@
     },
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#习近平出席G20巴厘岛峰会#"
     }
   ]
 }
