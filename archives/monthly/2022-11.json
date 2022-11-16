@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668584055751,
+  "endTime": 1668587410237,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -440,6 +440,14 @@
       "word": "北京大学1名学生核酸阳性",
       "onboard_time": 1668563126,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2298539,
+      "num": 2298539,
+      "word": "郑州一核酸采样点推出VIP服务",
+      "onboard_time": 1668584429,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3491,6 +3499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 881111,
+      "num": 881111,
+      "word": "疯狂小杨哥回应被打假",
+      "onboard_time": 1668581428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880547,
       "num": 880547,
       "word": "周启豪",
@@ -4275,6 +4291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 762329,
+      "num": 762329,
+      "word": "微信新增删除声音锁功能",
+      "onboard_time": 1668585029,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 762075,
       "num": 89238,
       "word": "原神哥第一辅助",
@@ -4593,6 +4617,14 @@
       "onboard_time": 1667359587,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 724474,
+      "num": 724474,
+      "word": "女生聘发模被剃光后脑勺还录像",
+      "onboard_time": 1668581727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723441,
@@ -5329,14 +5361,6 @@
       "onboard_time": 1667368886,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 650551,
-      "num": 400692,
-      "word": "疯狂小杨哥回应被打假",
-      "onboard_time": 1668581428,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650478,
@@ -6171,6 +6195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582105,
+      "num": 383173,
+      "word": "46岁妈妈订立遗嘱财产只留给儿子",
+      "onboard_time": 1668585867,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580763,
       "num": 580763,
       "word": "颜宁",
@@ -6267,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577440,
+      "num": 577440,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 577059,
       "num": 363442,
       "word": "吴宣仪提前一星期被通知参加创造101",
@@ -6313,14 +6353,6 @@
       "onboard_time": 1668146147,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573238,
-      "num": 573238,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 572029,
@@ -10347,14 +10379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398512,
-      "num": 362010,
-      "word": "女生聘发模被剃光后脑勺还录像",
-      "onboard_time": 1668581727,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398161,
       "num": 398161,
       "word": "战长沙疑似被恶意评分",
@@ -12296,6 +12320,14 @@
       "word": "白敬亭田曦薇新剧醉酒吻",
       "onboard_time": 1668082163,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338071,
+      "num": 338071,
+      "word": "李薇今晚解锁新皮肤",
+      "onboard_time": 1668584968,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -14449,6 +14481,22 @@
       "onboard_time": 1667469386,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284650,
+      "num": 284650,
+      "word": "aespa没有年末舞台",
+      "onboard_time": 1668584009,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284607,
+      "num": 284607,
+      "word": "苹果将从美国亚利桑那州工厂采购芯片",
+      "onboard_time": 1668584547,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 284359,
@@ -16651,6 +16699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237584,
+      "num": 237584,
+      "word": "谢可寅可可西里捡垃圾",
+      "onboard_time": 1668584547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237532,
       "num": 237532,
       "word": "北京昨新增5例社会面筛查人员",
@@ -16673,6 +16729,14 @@
       "onboard_time": 1667646924,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236621,
+      "num": 236621,
+      "word": "宁波女教师勇救交警获一等功",
+      "onboard_time": 1668585389,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 236386,
@@ -17091,6 +17155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "小象鼻子rua人类",
+      "onboard_time": 1668582630,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -17209,14 +17281,6 @@
       "onboard_time": 1668513508,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 228778,
-      "num": 102828,
-      "word": "aespa没有年末舞台",
-      "onboard_time": 1668584009,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 228683,
@@ -17561,14 +17625,6 @@
       "onboard_time": 1668129087,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223954,
-      "num": 158546,
-      "word": "小象鼻子rua人类",
-      "onboard_time": 1668582630,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 223949,
@@ -18491,6 +18547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210306,
+      "num": 173964,
+      "word": "白敬亭冬天穿搭技巧就是叠中叠",
+      "onboard_time": 1668584247,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210180,
       "num": 210180,
       "word": "命韵峋环同居日常",
@@ -18643,6 +18707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207467,
+      "num": 173710,
+      "word": "县委大院下证",
+      "onboard_time": 1668586109,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207423,
       "num": 190367,
       "word": "张雪迎毕雯珺新剧演情侣",
@@ -18761,6 +18833,14 @@
       "onboard_time": 1668046346,
       "rank": 25,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 173510,
+      "word": "李峋朱韵的孩子",
+      "onboard_time": 1668587068,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205768,
@@ -19600,6 +19680,14 @@
       "word": "明月祭君心开播",
       "onboard_time": 1667970928,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193110,
+      "num": 171795,
+      "word": "高见鸿两次把李峋推进深渊",
+      "onboard_time": 1668584908,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -20483,6 +20571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182308,
+      "num": 182308,
+      "word": "女子深夜扰民被提醒后上门开骂",
+      "onboard_time": 1668582328,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182191,
       "num": 182191,
       "word": "你觉得爱的二八定律好看吗",
@@ -21073,6 +21169,14 @@
       "onboard_time": 1667604321,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 173757,
@@ -21955,6 +22059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162075,
+      "num": 141494,
+      "word": "鹿晗音乐会再唱橘子汽水",
+      "onboard_time": 1668587307,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161970,
       "num": 122405,
       "word": "赵丽颖风吹半夏迎风而上剧照",
@@ -22771,14 +22883,6 @@
       "category": "科技,网红"
     },
     {
-      "raw_hot": 153942,
-      "num": 153942,
-      "word": "女子深夜扰民被提醒后上门开骂",
-      "onboard_time": 1668582328,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153936,
       "num": 153936,
       "word": "因偷吃被发现的黑洞",
@@ -22976,6 +23080,14 @@
       "word": "国美内部人士回应工资停发",
       "onboard_time": 1667526686,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151487,
+      "num": 151487,
+      "word": "货拉拉司机抗议停运3天",
+      "onboard_time": 1668586888,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -26203,6 +26315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 119201,
+      "num": 119201,
+      "word": "被他不经意的动作帅到了",
+      "onboard_time": 1668586048,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119167,
       "num": 119167,
       "word": "这就是养狗的好处吧",
@@ -26337,6 +26457,14 @@
       "onboard_time": 1668167372,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117198,
+      "num": 117198,
+      "word": "iPhone14卫星紧急求救正式上线",
+      "onboard_time": 1668586528,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 117196,
@@ -26897,6 +27025,14 @@
       "onboard_time": 1667889446,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110352,
+      "num": 110352,
+      "word": "湖南一高校上课教学生砌墙",
+      "onboard_time": 1668585508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110346,
@@ -29179,6 +29315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90699,
+      "num": 354098,
+      "word": "男子带队30年捕9万猛禽装环后放飞",
+      "onboard_time": 1668582388,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90668,
       "num": 90668,
       "word": "广州海珠区强化全域疫情防控措施",
@@ -29465,6 +29609,14 @@
       "onboard_time": 1668525694,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88703,
+      "num": 88703,
+      "word": "第一次见这么豪华的三轮车",
+      "onboard_time": 1668587367,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88659,
@@ -30345,14 +30497,6 @@
       "onboard_time": 1667233045,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81617,
-      "num": 354098,
-      "word": "男子带队30年捕9万猛禽装环后放飞",
-      "onboard_time": 1668582388,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81481,

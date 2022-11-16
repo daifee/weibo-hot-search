@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668584055751,
+  "endTime": 1668587410237,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -8,6 +8,14 @@
       "word": "北京大学1名学生核酸阳性",
       "onboard_time": 1668563126,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2298539,
+      "num": 2298539,
+      "word": "郑州一核酸采样点推出VIP服务",
+      "onboard_time": 1668584429,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 881111,
+      "num": 881111,
+      "word": "疯狂小杨哥回应被打假",
+      "onboard_time": 1668581428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872532,
       "num": 872532,
       "word": "重庆面临最严峻疫情形势",
@@ -179,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762329,
+      "num": 762329,
+      "word": "微信新增删除声音锁功能",
+      "onboard_time": 1668585029,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 728761,
       "num": 547792,
       "word": "请允许国产电视剧里有中女的存在",
       "onboard_time": 1668520231,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724474,
+      "num": 724474,
+      "word": "女生聘发模被剃光后脑勺还录像",
+      "onboard_time": 1668581727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720150,
@@ -216,14 +248,6 @@
       "word": "广东新增无症状感染者6215例",
       "onboard_time": 1668562228,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650551,
-      "num": 400692,
-      "word": "疯狂小杨哥回应被打假",
-      "onboard_time": 1668581428,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -299,8 +323,16 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 573238,
-      "num": 573238,
+      "raw_hot": 582105,
+      "num": 383173,
+      "word": "46岁妈妈订立遗嘱财产只留给儿子",
+      "onboard_time": 1668585867,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577440,
+      "num": 577440,
       "word": "流浪猫爬十楼复仇家猫",
       "onboard_time": 1668576505,
       "rank": 46,
@@ -427,14 +459,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 398512,
-      "num": 362010,
-      "word": "女生聘发模被剃光后脑勺还录像",
-      "onboard_time": 1668581727,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395562,
       "num": 395562,
       "word": "辽宁研考",
@@ -537,6 +561,14 @@
       "onboard_time": 1668506488,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338071,
+      "num": 338071,
+      "word": "李薇今晚解锁新皮肤",
+      "onboard_time": 1668584968,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 333542,
@@ -691,6 +723,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284650,
+      "num": 284650,
+      "word": "aespa没有年末舞台",
+      "onboard_time": 1668584009,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284607,
+      "num": 284607,
+      "word": "苹果将从美国亚利桑那州工厂采购芯片",
+      "onboard_time": 1668584547,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 284345,
       "num": 284345,
       "word": "村民不出村仨月把石榴卖出上千万",
@@ -835,6 +883,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237584,
+      "num": 237584,
+      "word": "谢可寅可可西里捡垃圾",
+      "onboard_time": 1668584547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236621,
+      "num": 236621,
+      "word": "宁波女教师勇救交警获一等功",
+      "onboard_time": 1668585389,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "小象鼻子rua人类",
+      "onboard_time": 1668582630,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229783,
       "num": 229783,
       "word": "男女街边消费148元开宝马逃单",
@@ -843,27 +915,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228778,
-      "num": 102828,
-      "word": "aespa没有年末舞台",
-      "onboard_time": 1668584009,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227526,
       "num": 227526,
       "word": "原来迟到的还是同一批人",
       "onboard_time": 1668561809,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223954,
-      "num": 158546,
-      "word": "小象鼻子rua人类",
-      "onboard_time": 1668582630,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -907,12 +963,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210306,
+      "num": 173964,
+      "word": "白敬亭冬天穿搭技巧就是叠中叠",
+      "onboard_time": 1668584247,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207467,
+      "num": 173710,
+      "word": "县委大院下证",
+      "onboard_time": 1668586109,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207385,
       "num": 207385,
       "word": "11月15日新增本土无症状18491例",
       "onboard_time": 1668563427,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 173510,
+      "word": "李峋朱韵的孩子",
+      "onboard_time": 1668587068,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204581,
@@ -955,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193110,
+      "num": 171795,
+      "word": "高见鸿两次把李峋推进深渊",
+      "onboard_time": 1668584908,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192354,
       "num": 192354,
       "word": "杨丞琳庆祝出道22周年",
@@ -993,6 +1081,14 @@
       "onboard_time": 1668565346,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182308,
+      "num": 182308,
+      "word": "女子深夜扰民被提醒后上门开骂",
+      "onboard_time": 1668582328,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180777,
@@ -1051,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 168244,
       "num": 115709,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -1073,6 +1177,14 @@
       "onboard_time": 1668559713,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162075,
+      "num": 141494,
+      "word": "鹿晗音乐会再唱橘子汽水",
+      "onboard_time": 1668587307,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 161767,
@@ -1099,20 +1211,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153942,
-      "num": 153942,
-      "word": "女子深夜扰民被提醒后上门开骂",
-      "onboard_time": 1668582328,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153799,
       "num": 138715,
       "word": "刀我别用命韵峋环分手",
       "onboard_time": 1668576744,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151487,
+      "num": 151487,
+      "word": "货拉拉司机抗议停运3天",
+      "onboard_time": 1668586888,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149679,
@@ -1299,6 +1411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119201,
+      "num": 119201,
+      "word": "被他不经意的动作帅到了",
+      "onboard_time": 1668586048,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117198,
+      "num": 117198,
+      "word": "iPhone14卫星紧急求救正式上线",
+      "onboard_time": 1668586528,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 115492,
       "num": 115492,
       "word": "阿尔忒弥斯1号再次准备发射",
@@ -1328,6 +1456,14 @@
       "word": "每日优鲜全职员工仅余55人",
       "onboard_time": 1668510750,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110352,
+      "num": 110352,
+      "word": "湖南一高校上课教学生砌墙",
+      "onboard_time": 1668585508,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1403,6 +1539,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 90699,
+      "num": 354098,
+      "word": "男子带队30年捕9万猛禽装环后放飞",
+      "onboard_time": 1668582388,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88703,
+      "num": 88703,
+      "word": "第一次见这么豪华的三轮车",
+      "onboard_time": 1668587367,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86614,
       "num": 86614,
       "word": "31只斑海豹在辽河入海口上岸",
@@ -1432,14 +1584,6 @@
       "word": "80亿人口对世界意味着什么",
       "onboard_time": 1668537853,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81617,
-      "num": 354098,
-      "word": "男子带队30年捕9万猛禽装环后放飞",
-      "onboard_time": 1668582388,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

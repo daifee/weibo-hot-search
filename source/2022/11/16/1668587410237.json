@@ -1,0 +1,410 @@
+{
+  "runTime": 1668587410237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2298539,
+        "num": 2298539,
+        "word": "郑州一核酸采样点推出VIP服务",
+        "onboard_time": 1668584429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881111,
+        "num": 881111,
+        "word": "疯狂小杨哥回应被打假",
+        "onboard_time": 1668581428,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36177,
+        "num": 792954,
+        "word": "坚决打赢关键核心技术攻坚战",
+        "onboard_time": 1668571110,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 762329,
+        "num": 762329,
+        "word": "微信新增删除声音锁功能",
+        "onboard_time": 1668585029,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 724474,
+        "num": 724474,
+        "word": "女生聘发模被剃光后脑勺还录像",
+        "onboard_time": 1668581727,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636984,
+        "num": 636984,
+        "word": "霍建华在演一种很新的东西",
+        "onboard_time": 1668578486,
+        "rank": 5,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 594707,
+        "num": 594707,
+        "word": "建行",
+        "onboard_time": 1668573089,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 577440,
+        "num": 577440,
+        "word": "流浪猫爬十楼复仇家猫",
+        "onboard_time": 1668576505,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475537,
+        "num": 475537,
+        "word": "芭莎工作人员说沈腾真没咋P图",
+        "onboard_time": 1668579506,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395607,
+        "num": 395607,
+        "word": "iPhone14Pro息屏可不显示壁纸",
+        "onboard_time": 1668579689,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1346736,
+        "num": 388945,
+        "word": "刘强东捐赠149亿首次成为中国首善",
+        "onboard_time": 1668577588,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 582105,
+        "num": 383173,
+        "word": "46岁妈妈订立遗嘱财产只留给儿子",
+        "onboard_time": 1668585867,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373181,
+        "num": 373181,
+        "word": "李峋唯独没想到公主没有他会发疯",
+        "onboard_time": 1668572487,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338071,
+        "num": 338071,
+        "word": "李薇今晚解锁新皮肤",
+        "onboard_time": 1668584968,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323586,
+        "num": 323586,
+        "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+        "onboard_time": 1668565708,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304555,
+        "num": 304555,
+        "word": "4岁女童患癌症之王近3年花百万遇复发",
+        "onboard_time": 1668574530,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293643,
+        "num": 293643,
+        "word": "cheerup 弃剧",
+        "onboard_time": 1668573570,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286549,
+        "num": 286549,
+        "word": "二胎宝妈2个半月减20斤年轻20岁",
+        "onboard_time": 1668575728,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284650,
+        "num": 284650,
+        "word": "aespa没有年末舞台",
+        "onboard_time": 1668584009,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284607,
+        "num": 284607,
+        "word": "苹果将从美国亚利桑那州工厂采购芯片",
+        "onboard_time": 1668584547,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247550,
+        "num": 247550,
+        "word": "易立竞 你在拿孩子绑架他",
+        "onboard_time": 1668575547,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240315,
+        "num": 240315,
+        "word": "Uzi 投票",
+        "onboard_time": 1668575968,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237584,
+        "num": 237584,
+        "word": "谢可寅可可西里捡垃圾",
+        "onboard_time": 1668584547,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236621,
+        "num": 236621,
+        "word": "宁波女教师勇救交警获一等功",
+        "onboard_time": 1668585389,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 230079,
+        "num": 230079,
+        "word": "小象鼻子rua人类",
+        "onboard_time": 1668582630,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229548,
+        "num": 229548,
+        "word": "刘令姿真的跳了元英同款八段锦",
+        "onboard_time": 1668582689,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225162,
+        "num": 225162,
+        "word": "央媒评头部带货主播遭打假",
+        "onboard_time": 1668570507,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "美官员称击中波兰的导弹为乌克兰发射",
+        "onboard_time": 1668578367,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 182308,
+        "num": 182308,
+        "word": "女子深夜扰民被提醒后上门开骂",
+        "onboard_time": 1668582328,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174219,
+        "num": 174219,
+        "word": "美国登月火箭发射升空",
+        "onboard_time": 1668586287,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223634,
+        "num": 174108,
+        "word": "陈飞宇张婧仪点燃我温暖你在韩国将播出",
+        "onboard_time": 1668581487,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210306,
+        "num": 173964,
+        "word": "白敬亭冬天穿搭技巧就是叠中叠",
+        "onboard_time": 1668584247,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207467,
+        "num": 173710,
+        "word": "县委大院下证",
+        "onboard_time": 1668586109,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205885,
+        "num": 173510,
+        "word": "李峋朱韵的孩子",
+        "onboard_time": 1668587068,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173297,
+        "num": 173297,
+        "word": "DK官宣Nuguri离队",
+        "onboard_time": 1668579388,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 171795,
+        "word": "高见鸿两次把李峋推进深渊",
+        "onboard_time": 1668584908,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169444,
+        "num": 169444,
+        "word": "萧逸",
+        "onboard_time": 1668581548,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153225,
+        "num": 153225,
+        "word": "15岁高中生离开宿舍后失踪一月",
+        "onboard_time": 1668572729,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 151487,
+        "num": 151487,
+        "word": "货拉拉司机抗议停运3天",
+        "onboard_time": 1668586888,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145570,
+        "num": 145570,
+        "word": "巴西队想堵住管泽元的嘴",
+        "onboard_time": 1668578967,
+        "rank": 39,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 162075,
+        "num": 141494,
+        "word": "鹿晗音乐会再唱橘子汽水",
+        "onboard_time": 1668587307,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121649,
+        "num": 121649,
+        "word": "大学生打麻将被罚画600个幺鸡",
+        "onboard_time": 1668568409,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119201,
+        "num": 119201,
+        "word": "被他不经意的动作帅到了",
+        "onboard_time": 1668586048,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117198,
+        "num": 117198,
+        "word": "iPhone14卫星紧急求救正式上线",
+        "onboard_time": 1668586528,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 116266,
+        "word": "女孩接诈骗电话声音夸张吓退骗子",
+        "onboard_time": 1668578009,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114444,
+        "num": 114444,
+        "word": "特朗普正式宣布参选",
+        "onboard_time": 1668565826,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110352,
+        "num": 110352,
+        "word": "湖南一高校上课教学生砌墙",
+        "onboard_time": 1668585508,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "拜登称美将向波兰提供全力支持调查爆炸",
+        "onboard_time": 1668576149,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 90699,
+        "num": 90699,
+        "word": "男子带队30年捕9万猛禽装环后放飞",
+        "onboard_time": 1668582388,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88703,
+        "num": 88703,
+        "word": "第一次见这么豪华的三轮车",
+        "onboard_time": 1668587367,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#G20峰会金句#"
+    }
+  }
+}
