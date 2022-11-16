@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668583161826,
+  "endTime": 1668584055751,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683542,
+      "num": 661872,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 680375,
       "num": 680375,
       "word": "广东新增无症状感染者6215例",
@@ -211,15 +219,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661872,
-      "num": 661872,
-      "word": "芭莎工作人员说沈腾真没咋P图",
-      "onboard_time": 1668579506,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 649324,
+      "raw_hot": 650551,
       "num": 400692,
       "word": "疯狂小杨哥回应被打假",
       "onboard_time": 1668581428,
@@ -241,6 +241,14 @@
       "onboard_time": 1668522029,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625106,
+      "num": 625106,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 609678,
@@ -283,14 +291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 598015,
-      "num": 598015,
-      "word": "iPhone14Pro息屏可不显示壁纸",
-      "onboard_time": 1668579689,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 592973,
       "num": 575032,
       "word": "拜登称波兰爆炸导弹可能不是从俄发射",
@@ -299,8 +299,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 568871,
-      "num": 568871,
+      "raw_hot": 573238,
+      "num": 573238,
       "word": "流浪猫爬十楼复仇家猫",
       "onboard_time": 1668576505,
       "rank": 46,
@@ -425,6 +425,14 @@
       "onboard_time": 1668568589,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 398512,
+      "num": 362010,
+      "word": "女生聘发模被剃光后脑勺还录像",
+      "onboard_time": 1668581727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395562,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 323925,
-      "num": 293271,
+      "num": 314706,
       "word": "易立竞 你在拿孩子绑架他",
       "onboard_time": 1668575547,
       "rank": 20,
@@ -739,14 +747,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 269871,
-      "num": 269871,
-      "word": "女生聘发模被剃光后脑勺还录像",
-      "onboard_time": 1668581727,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268419,
       "num": 268419,
       "word": "买羽绒服要看吊牌上的绒子含量",
@@ -827,12 +827,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 245559,
+      "num": 245559,
+      "word": "刘令姿真的跳了元英同款八段锦",
+      "onboard_time": 1668582689,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229783,
       "num": 229783,
       "word": "男女街边消费148元开宝马逃单",
       "onboard_time": 1668519392,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228778,
+      "num": 102828,
+      "word": "aespa没有年末舞台",
+      "onboard_time": 1668584009,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 227526,
@@ -843,12 +859,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223954,
+      "num": 158546,
+      "word": "小象鼻子rua人类",
+      "onboard_time": 1668582630,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223949,
       "num": 223949,
       "word": "江苏跳跃式降温把花整懵了",
       "onboard_time": 1668551715,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222542,
+      "num": 222542,
+      "word": "萧逸",
+      "onboard_time": 1668581548,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 220424,
@@ -897,14 +929,6 @@
       "onboard_time": 1668570868,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202133,
-      "num": 202133,
-      "word": "刘令姿真的跳了元英同款八段锦",
-      "onboard_time": 1668582689,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199249,
@@ -1027,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174753,
-      "num": 174753,
-      "word": "萧逸",
-      "onboard_time": 1668581548,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168244,
       "num": 115709,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1668574169,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153942,
+      "num": 153942,
+      "word": "女子深夜扰民被提醒后上门开骂",
+      "onboard_time": 1668582328,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153799,
@@ -1187,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136651,
+      "num": 128247,
+      "word": "椰树女郎穿羽绒服直播跳拉货操",
+      "onboard_time": 1668582027,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135783,
       "num": 135783,
       "word": "打算换一个很新的肚子",
@@ -1227,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128172,
-      "num": 128172,
-      "word": "女子深夜扰民被提醒后上门开骂",
-      "onboard_time": 1668582328,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127574,
       "num": 127574,
       "word": "鸟鸟 你这是傻悲",
@@ -1243,12 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124919,
-      "num": 124919,
-      "word": "小象鼻子rua人类",
-      "onboard_time": 1668582630,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 123815,
+      "num": 123815,
+      "word": "李峋说感情用事对大家来说都是负担",
+      "onboard_time": 1668583107,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 123720,
@@ -1275,12 +1299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119218,
-      "num": 119218,
-      "word": "李峋说感情用事对大家来说都是负担",
-      "onboard_time": 1668583107,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 115492,
+      "num": 115492,
+      "word": "阿尔忒弥斯1号再次准备发射",
+      "onboard_time": 1668582867,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 114125,
@@ -1339,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99094,
-      "num": 99094,
-      "word": "阿尔忒弥斯1号再次准备发射",
-      "onboard_time": 1668582867,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 97015,
       "num": 97015,
       "word": "大米先生",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1668509129,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92647,
+      "num": 92647,
+      "word": "原来猫咪也有自尊心",
+      "onboard_time": 1668583227,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91472,
@@ -1387,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85995,
-      "num": 128247,
-      "word": "椰树女郎穿羽绒服直播跳拉货操",
-      "onboard_time": 1668582027,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85335,
       "num": 85335,
       "word": "北京朝阳新划定29个高风险区",
@@ -1416,6 +1432,14 @@
       "word": "80亿人口对世界意味着什么",
       "onboard_time": 1668537853,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81617,
+      "num": 354098,
+      "word": "男子带队30年捕9万猛禽装环后放飞",
+      "onboard_time": 1668582388,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1489,6 @@
       "onboard_time": 1668546792,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 40850,
-      "num": 351404,
-      "word": "男子带队30年捕9万猛禽装环后放飞",
-      "onboard_time": 1668582388,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28282,

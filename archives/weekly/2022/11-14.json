@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668583161826,
+  "endTime": 1668584055751,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683542,
+      "num": 661872,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683533,
       "num": 566363,
       "word": "审判阿瑟吻技",
@@ -969,14 +977,6 @@
       "onboard_time": 1668409950,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 661872,
-      "num": 661872,
-      "word": "芭莎工作人员说沈腾真没咋P图",
-      "onboard_time": 1668579506,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 659849,
@@ -1019,20 +1019,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650551,
+      "num": 400692,
+      "word": "疯狂小杨哥回应被打假",
+      "onboard_time": 1668581428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650478,
       "num": 650478,
       "word": "方志靖把李峋姐姐害死",
       "onboard_time": 1668502171,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649324,
-      "num": 400692,
-      "word": "疯狂小杨哥回应被打假",
-      "onboard_time": 1668581428,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647450,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1668417448,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625106,
+      "num": 625106,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 618692,
@@ -1123,14 +1131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 598015,
-      "num": 598015,
-      "word": "iPhone14Pro息屏可不显示壁纸",
-      "onboard_time": 1668579689,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 592973,
       "num": 575032,
       "word": "拜登称波兰爆炸导弹可能不是从俄发射",
@@ -1171,20 +1171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 573238,
+      "num": 573238,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571725,
       "num": 343752,
       "word": "张婧仪他从火光中走来跳舞路透",
       "onboard_time": 1668356066,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 568871,
-      "num": 568871,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 567625,
@@ -2003,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398512,
+      "num": 362010,
+      "word": "女生聘发模被剃光后脑勺还录像",
+      "onboard_time": 1668581727,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397817,
       "num": 397817,
       "word": "内娱现存男团的舞台有多绝",
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 323925,
-      "num": 293271,
+      "num": 314706,
       "word": "易立竞 你在拿孩子绑架他",
       "onboard_time": 1668575547,
       "rank": 20,
@@ -2979,14 +2987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269871,
-      "num": 269871,
-      "word": "女生聘发模被剃光后脑勺还录像",
-      "onboard_time": 1668581727,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268419,
       "num": 268419,
       "word": "买羽绒服要看吊牌上的绒子含量",
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245559,
+      "num": 245559,
+      "word": "刘令姿真的跳了元英同款八段锦",
+      "onboard_time": 1668582689,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245209,
       "num": 245209,
       "word": "胡明轩状态",
@@ -3435,6 +3443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228778,
+      "num": 102828,
+      "word": "aespa没有年末舞台",
+      "onboard_time": 1668584009,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228141,
       "num": 204296,
       "word": "杨幂新剧事业心好强",
@@ -3499,6 +3515,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 223954,
+      "num": 158546,
+      "word": "小象鼻子rua人类",
+      "onboard_time": 1668582630,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223949,
       "num": 223949,
       "word": "江苏跳跃式降温把花整懵了",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1668396028,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222542,
+      "num": 222542,
+      "word": "萧逸",
+      "onboard_time": 1668581548,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 222322,
@@ -3809,14 +3841,6 @@
       "onboard_time": 1668437130,
       "rank": 26,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 202133,
-      "num": 202133,
-      "word": "刘令姿真的跳了元英同款八段锦",
-      "onboard_time": 1668582689,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201969,
@@ -4171,14 +4195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174753,
-      "num": 174753,
-      "word": "萧逸",
-      "onboard_time": 1668581548,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174696,
       "num": 174696,
       "word": "木子洋告诫坤音二团别想着单飞",
@@ -4528,6 +4544,14 @@
       "word": "男子捕鸟近千只称用来涮火锅",
       "onboard_time": 1668353131,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153942,
+      "num": 153942,
+      "word": "女子深夜扰民被提醒后上门开骂",
+      "onboard_time": 1668582328,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4939,6 +4963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136651,
+      "num": 128247,
+      "word": "椰树女郎穿羽绒服直播跳拉货操",
+      "onboard_time": 1668582027,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -5091,14 +5123,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 128172,
-      "num": 128172,
-      "word": "女子深夜扰民被提醒后上门开骂",
-      "onboard_time": 1668582328,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127630,
       "num": 127630,
       "word": "卿卿日常里的冷知识",
@@ -5139,12 +5163,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 124919,
-      "num": 124919,
-      "word": "小象鼻子rua人类",
-      "onboard_time": 1668582630,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 123815,
+      "num": 123815,
+      "word": "李峋说感情用事对大家来说都是负担",
+      "onboard_time": 1668583107,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 123148,
@@ -5195,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119218,
-      "num": 119218,
-      "word": "李峋说感情用事对大家来说都是负担",
-      "onboard_time": 1668583107,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118857,
       "num": 118857,
       "word": "马刺vs勇士",
@@ -5225,6 +5241,14 @@
       "onboard_time": 1668412408,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115492,
+      "num": 115492,
+      "word": "阿尔忒弥斯1号再次准备发射",
+      "onboard_time": 1668582867,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 115316,
@@ -5507,14 +5531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99094,
-      "num": 99094,
-      "word": "阿尔忒弥斯1号再次准备发射",
-      "onboard_time": 1668582867,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 98792,
       "num": 98792,
       "word": "流浪猫再也不用受苦了",
@@ -5601,6 +5617,14 @@
       "onboard_time": 1668493228,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92647,
+      "num": 92647,
+      "word": "原来猫咪也有自尊心",
+      "onboard_time": 1668583227,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92221,
@@ -5699,14 +5723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85995,
-      "num": 128247,
-      "word": "椰树女郎穿羽绒服直播跳拉货操",
-      "onboard_time": 1668582027,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84801,
       "num": 1103088,
       "word": "坚决打赢关键核心技术攻坚战",
@@ -5736,6 +5752,14 @@
       "word": "80亿人口对世界意味着什么",
       "onboard_time": 1668537853,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81617,
+      "num": 354098,
+      "word": "男子带队30年捕9万猛禽装环后放飞",
+      "onboard_time": 1668582388,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5873,14 +5897,6 @@
       "onboard_time": 1668357323,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 40850,
-      "num": 351404,
-      "word": "男子带队30年捕9万猛禽装环后放飞",
-      "onboard_time": 1668582388,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39863,
