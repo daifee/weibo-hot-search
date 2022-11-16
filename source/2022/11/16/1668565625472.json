@@ -1,0 +1,410 @@
+{
+  "runTime": 1668565625472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2327722,
+        "num": 2327722,
+        "word": "北京大学1名学生核酸阳性",
+        "onboard_time": 1668563126,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936670,
+        "num": 936670,
+        "word": "张文宏称走出疫情靠的是科技",
+        "onboard_time": 1668543854,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58436,
+        "num": 870847,
+        "word": "巴厘岛G20时间",
+        "onboard_time": 1668513508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 810039,
+        "num": 810039,
+        "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+        "onboard_time": 1668562469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680375,
+        "num": 680375,
+        "word": "广东新增无症状感染者6215例",
+        "onboard_time": 1668562228,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636296,
+        "num": 636296,
+        "word": "C罗已被移出曼联群聊",
+        "onboard_time": 1668555264,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632907,
+        "num": 632907,
+        "word": "大脸猫确实不适合戴帽子",
+        "onboard_time": 1668560250,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572466,
+        "num": 572466,
+        "word": "工作人员否认陈道明演庆余年2",
+        "onboard_time": 1668555325,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518594,
+        "num": 518594,
+        "word": "广州男子边抽烟边跑马拉松火到国外",
+        "onboard_time": 1668557731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473683,
+        "num": 473683,
+        "word": "王海回应打假疯狂小杨哥",
+        "onboard_time": 1668554241,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475841,
+        "num": 468542,
+        "word": "请允许国产电视剧里有中女的存在",
+        "onboard_time": 1668520231,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462470,
+        "num": 462470,
+        "word": "王一栩晒苍兰诀新剧照",
+        "onboard_time": 1668560912,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458195,
+        "num": 458195,
+        "word": "广州新增无症状感染者6138例",
+        "onboard_time": 1668562410,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437618,
+        "num": 437618,
+        "word": "谈恋爱要不要在朋友圈公开",
+        "onboard_time": 1668527909,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432137,
+        "num": 432137,
+        "word": "银行行长退休后当群演4天赚1200",
+        "onboard_time": 1668523955,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388362,
+        "num": 388362,
+        "word": "鹿晗 紧张",
+        "onboard_time": 1668527368,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386361,
+        "num": 386361,
+        "word": "成都多地连发毒狗事件",
+        "onboard_time": 1668556710,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 367558,
+        "num": 367558,
+        "word": "cheerup编剧是懂观众的",
+        "onboard_time": 1668564027,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366707,
+        "num": 366707,
+        "word": "波兰政府确认爆炸致两人死亡",
+        "onboard_time": 1668556710,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 346425,
+        "num": 346425,
+        "word": "北京新增本土确诊197例",
+        "onboard_time": 1668558681,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 342195,
+        "word": "女子网购牛仔裤竟在里面发现内裤",
+        "onboard_time": 1668522029,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316660,
+        "num": 316660,
+        "word": "重庆面临最严峻疫情形势",
+        "onboard_time": 1668529165,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302848,
+        "num": 302848,
+        "word": "男子在井盖下为儿子建秘密基地",
+        "onboard_time": 1668560912,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264790,
+        "num": 264790,
+        "word": "田曦薇时尚先生红毯造型",
+        "onboard_time": 1668563487,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254957,
+        "num": 254957,
+        "word": "买羽绒服要看吊牌上的绒子含量",
+        "onboard_time": 1668562949,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254035,
+        "num": 254035,
+        "word": "格莱美",
+        "onboard_time": 1668557551,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253218,
+        "num": 253218,
+        "word": "给对象连发三条想你了",
+        "onboard_time": 1668529644,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245942,
+        "num": 245942,
+        "word": "1型糖尿病一般青少年期发病",
+        "onboard_time": 1668559891,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243651,
+        "num": 243651,
+        "word": "广州抗疫进行时",
+        "onboard_time": 1668560912,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236635,
+        "num": 236635,
+        "word": "女大学生干保洁在郑州买下两套房两辆车",
+        "onboard_time": 1668526412,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227526,
+        "num": 227526,
+        "word": "原来迟到的还是同一批人",
+        "onboard_time": 1668561809,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224801,
+        "num": 224801,
+        "word": "女子买小吃被套路一小条变半袋",
+        "onboard_time": 1668564390,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214422,
+        "num": 214422,
+        "word": "波兰提高战备等级",
+        "onboard_time": 1668561447,
+        "rank": 32,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 207385,
+        "num": 207385,
+        "word": "11月15日新增本土无症状18491例",
+        "onboard_time": 1668563427,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 204581,
+        "word": "中国女排首夺世界冠军41周年",
+        "onboard_time": 1668554782,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192354,
+        "num": 192354,
+        "word": "杨丞琳庆祝出道22周年",
+        "onboard_time": 1668563669,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 183542,
+        "word": "没想到外卖被一只狗偷了",
+        "onboard_time": 1668558092,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174787,
+        "num": 174787,
+        "word": "twice将出演红白歌会",
+        "onboard_time": 1668562290,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173267,
+        "num": 173267,
+        "word": "我国慢阻肺病患者近1亿人",
+        "onboard_time": 1668563609,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173193,
+        "num": 173193,
+        "word": "预测脱口秀大会第五季冠军",
+        "onboard_time": 1668530724,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146473,
+        "num": 146473,
+        "word": "命韵峋环39秒对话语录",
+        "onboard_time": 1668562768,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 145390,
+        "word": "邱瑞 直播带货",
+        "onboard_time": 1668527849,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139463,
+        "num": 139463,
+        "word": "男女街边消费148元开宝马逃单",
+        "onboard_time": 1668519392,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136928,
+        "num": 136928,
+        "word": "新冠居家必备药物指南",
+        "onboard_time": 1668554423,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135825,
+        "num": 135825,
+        "word": "男子为姥姥用树叶制作秋色床单",
+        "onboard_time": 1668559713,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127985,
+        "num": 127985,
+        "word": "河南小伙带15斤油条膨松剂飞赴世界杯",
+        "onboard_time": 1668524434,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126589,
+        "num": 126589,
+        "word": "曼联高层认为没有C罗会更好",
+        "onboard_time": 1668565346,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126254,
+        "num": 126254,
+        "word": "猫咪把牙卡在主人耳洞里睡着",
+        "onboard_time": 1668519870,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122454,
+        "num": 122454,
+        "word": "陈飞宇现场被夸天使的反应",
+        "onboard_time": 1668558812,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 116062,
+        "word": "警犬看到教官怀抱小狗吃醋",
+        "onboard_time": 1668534197,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#G20峰会金句#"
+    }
+  }
+}
