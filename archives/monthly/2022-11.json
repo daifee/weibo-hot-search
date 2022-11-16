@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668590457189,
+  "endTime": 1668591468963,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -8931,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446612,
+      "num": 335896,
+      "word": "买NIKE不合适客服称鞋盒破损拒退款",
+      "onboard_time": 1668589348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446498,
       "num": 446498,
       "word": "家中失火4岁女孩奶声奶气打119",
@@ -9131,6 +9139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438862,
+      "num": 438862,
+      "word": "北京新增社会面32例",
+      "onboard_time": 1668588810,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438621,
       "num": 438621,
       "word": "上海地铁启动轨道蓝色预警",
@@ -9256,14 +9272,6 @@
       "word": "女子发现邻居家果树结十几种水果",
       "onboard_time": 1668217412,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435412,
-      "num": 324006,
-      "word": "北京新增社会面32例",
-      "onboard_time": 1668588810,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9817,6 +9825,14 @@
       "onboard_time": 1668321870,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 419309,
+      "num": 419309,
+      "word": "朱韵与全世界为敌",
+      "onboard_time": 1668589890,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 419270,
@@ -13011,6 +13027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321253,
+      "num": 321253,
+      "word": "元英和袁善见好配",
+      "onboard_time": 1668588810,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320570,
       "num": 305517,
       "word": "泰国粉丝也在追点燃我温暖你",
@@ -13457,6 +13481,14 @@
       "onboard_time": 1668319647,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310793,
+      "num": 310793,
+      "word": "BeryL直播原神",
+      "onboard_time": 1668590009,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 310678,
@@ -14035,6 +14067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295644,
+      "num": 295644,
+      "word": "白敬亭说看看老六吧",
+      "onboard_time": 1668587668,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295167,
       "num": 295167,
       "word": "减法叠穿技巧",
@@ -14089,14 +14129,6 @@
       "onboard_time": 1668326249,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294118,
-      "num": 294118,
-      "word": "白敬亭说看看老六吧",
-      "onboard_time": 1668587668,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294042,
@@ -14529,14 +14561,6 @@
       "onboard_time": 1667469386,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284909,
-      "num": 231799,
-      "word": "朱韵与全世界为敌",
-      "onboard_time": 1668589890,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 284650,
@@ -15323,6 +15347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269747,
+      "num": 269747,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 269617,
       "num": 203646,
       "word": "杨幂谢谢你医生今晚见",
@@ -15400,14 +15432,6 @@
       "word": "命运关上了李峋所有的窗",
       "onboard_time": 1668567629,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 267716,
-      "num": 231760,
-      "word": "元英和袁善见好配",
-      "onboard_time": 1668588810,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -15681,6 +15705,14 @@
       "onboard_time": 1667482345,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261442,
+      "num": 261442,
+      "word": "这谁舍得吃啊",
+      "onboard_time": 1668587727,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 261331,
@@ -16059,14 +16091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253468,
-      "num": 253468,
-      "word": "美国登月火箭发射升空",
-      "onboard_time": 1668586287,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 253240,
       "num": 253240,
       "word": "单依纯姚贝娜跨时空对唱心火",
@@ -16417,6 +16441,14 @@
       "onboard_time": 1667634626,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245356,
+      "num": 245356,
+      "word": "广州一抗疫志愿者被网约车司机免单",
+      "onboard_time": 1668588750,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 245209,
@@ -17107,6 +17139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232068,
+      "num": 232068,
+      "word": "落花时节又逢君获得发行许可证",
+      "onboard_time": 1668591030,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231945,
       "num": 139160,
       "word": "朱韵跌进了李峋的心里",
@@ -17129,14 +17169,6 @@
       "onboard_time": 1668415887,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231821,
-      "num": 231821,
-      "word": "这谁舍得吃啊",
-      "onboard_time": 1668587727,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 231757,
@@ -17433,14 +17465,6 @@
       "onboard_time": 1667926101,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227616,
-      "num": 179607,
-      "word": "买NIKE不合适客服称鞋盒破损拒退款",
-      "onboard_time": 1668589348,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227569,
@@ -18531,6 +18555,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 211466,
+      "num": 211466,
+      "word": "山东省考",
+      "onboard_time": 1668588449,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211425,
       "num": 211425,
       "word": "8岁女孩带小鸡仔在跑步机上锻炼",
@@ -19424,6 +19456,14 @@
       "word": "广州海珠区社会面疫情防控延长至11日",
       "onboard_time": 1667843175,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198276,
+      "num": 198276,
+      "word": "女子炒股亏百万花4万转运后又亏",
+      "onboard_time": 1668590430,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -20691,14 +20731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181897,
-      "num": 181897,
-      "word": "山东省考",
-      "onboard_time": 1668588449,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 181664,
       "num": 134555,
       "word": "点燃我温暖你李峋他急了",
@@ -20873,6 +20905,14 @@
       "onboard_time": 1668150522,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179884,
+      "num": 179884,
+      "word": "性别教育到底有多重要",
+      "onboard_time": 1668589529,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 179819,
@@ -21659,14 +21699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168546,
-      "num": 168546,
-      "word": "广州一抗疫志愿者被网约车司机免单",
-      "onboard_time": 1668588750,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 168475,
       "num": 168475,
       "word": "生机郑州全力以复",
@@ -21953,6 +21985,14 @@
       "onboard_time": 1667613749,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165047,
+      "num": 165047,
+      "word": "李峋说有些事情必须要做",
+      "onboard_time": 1668590969,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 164866,
@@ -23483,14 +23523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147982,
-      "num": 147982,
-      "word": "性别教育到底有多重要",
-      "onboard_time": 1668589529,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 147963,
       "num": 132626,
       "word": "再见爱人",
@@ -24001,6 +24033,14 @@
       "onboard_time": 1667839701,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143453,
+      "num": 143453,
+      "word": "吃麻辣烫还得看小区阿姨",
+      "onboard_time": 1668591149,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 143406,
@@ -25275,6 +25315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131487,
+      "num": 131487,
+      "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+      "onboard_time": 1668590909,
+      "rank": 42,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 131452,
       "num": 131452,
       "word": "伴侣情绪稳定重不重要",
@@ -26473,14 +26521,6 @@
       "onboard_time": 1667733266,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118754,
-      "num": 118754,
-      "word": "BeryL直播原神",
-      "onboard_time": 1668590009,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 118510,
@@ -27921,6 +27961,14 @@
       "onboard_time": 1667740410,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103177,
+      "num": 103177,
+      "word": "男子疑当街猥亵女子路人挺身制止",
+      "onboard_time": 1668591447,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102891,
@@ -30625,14 +30673,6 @@
       "onboard_time": 1667715986,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81309,
-      "num": 81309,
-      "word": "女子炒股亏百万花4万转运后又亏",
-      "onboard_time": 1668590430,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81121,

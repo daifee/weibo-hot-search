@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668590457189,
+  "endTime": 1668591468963,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446612,
+      "num": 335896,
+      "word": "买NIKE不合适客服称鞋盒破损拒退款",
+      "onboard_time": 1668589348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441275,
       "num": 441275,
       "word": "老人地铁上不顾劝阻用刀削苹果",
@@ -1800,6 +1808,14 @@
       "word": "北京新增20例社会面",
       "onboard_time": 1668504150,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438862,
+      "num": 438862,
+      "word": "北京新增社会面32例",
+      "onboard_time": 1668588810,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1817,14 +1833,6 @@
       "onboard_time": 1668430408,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 435412,
-      "num": 324006,
-      "word": "北京新增社会面32例",
-      "onboard_time": 1668588810,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432219,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1668415527,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419309,
+      "num": 419309,
+      "word": "朱韵与全世界为敌",
+      "onboard_time": 1668589890,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 417451,
@@ -2643,6 +2659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321253,
+      "num": 321253,
+      "word": "元英和袁善见好配",
+      "onboard_time": 1668588810,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319444,
       "num": 319444,
       "word": "世界杯",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1668573389,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310793,
+      "num": 310793,
+      "word": "BeryL直播原神",
+      "onboard_time": 1668590009,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 310330,
@@ -2819,8 +2851,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294118,
-      "num": 294118,
+      "raw_hot": 295644,
+      "num": 295644,
       "word": "白敬亭说看看老六吧",
       "onboard_time": 1668587668,
       "rank": 16,
@@ -2905,14 +2937,6 @@
       "onboard_time": 1668351453,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284909,
-      "num": 231799,
-      "word": "朱韵与全世界为敌",
-      "onboard_time": 1668589890,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 284650,
@@ -3083,6 +3107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269747,
+      "num": 269747,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 268419,
       "num": 268419,
       "word": "买羽绒服要看吊牌上的绒子含量",
@@ -3104,14 +3136,6 @@
       "word": "命运关上了李峋所有的窗",
       "onboard_time": 1668567629,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 267716,
-      "num": 231760,
-      "word": "元英和袁善见好配",
-      "onboard_time": 1668588810,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -3185,6 +3209,14 @@
       "onboard_time": 1668510639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261442,
+      "num": 261442,
+      "word": "这谁舍得吃啊",
+      "onboard_time": 1668587727,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 260913,
@@ -3275,14 +3307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253468,
-      "num": 253468,
-      "word": "美国登月火箭发射升空",
-      "onboard_time": 1668586287,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 252215,
       "num": 252215,
       "word": "跨省旅游经营活动不再与风险区实施联动管理",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1668582689,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245356,
+      "num": 245356,
+      "word": "广州一抗疫志愿者被网约车司机免单",
+      "onboard_time": 1668588750,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 245209,
@@ -3499,20 +3531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232068,
+      "num": 232068,
+      "word": "落花时节又逢君获得发行许可证",
+      "onboard_time": 1668591030,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231823,
       "num": 231823,
       "word": "内马尔停下35米高空球",
       "onboard_time": 1668415887,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231821,
-      "num": 231821,
-      "word": "这谁舍得吃啊",
-      "onboard_time": 1668587727,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 231745,
@@ -3593,14 +3625,6 @@
       "onboard_time": 1668406708,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227616,
-      "num": 179607,
-      "word": "买NIKE不合适客服称鞋盒破损拒退款",
-      "onboard_time": 1668589348,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227526,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1668495086,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211466,
+      "num": 211466,
+      "word": "山东省考",
+      "onboard_time": 1668588449,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 211425,
@@ -4067,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198276,
+      "num": 198276,
+      "word": "女子炒股亏百万花4万转运后又亏",
+      "onboard_time": 1668590430,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196322,
       "num": 183706,
       "word": "张婧仪摇花手",
@@ -4291,14 +4331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181897,
-      "num": 181897,
-      "word": "山东省考",
-      "onboard_time": 1668588449,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180777,
       "num": 151888,
       "word": "命韵峋环的爱情戛然而止",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1668525812,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179884,
+      "num": 179884,
+      "word": "性别教育到底有多重要",
+      "onboard_time": 1668589529,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 179671,
@@ -4475,14 +4515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168546,
-      "num": 168546,
-      "word": "广州一抗疫志愿者被网约车司机免单",
-      "onboard_time": 1668588750,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 167864,
       "num": 167864,
       "word": "带着全家七口北漂是种什么体验",
@@ -4561,6 +4593,14 @@
       "onboard_time": 1668348687,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165047,
+      "num": 165047,
+      "word": "李峋说有些事情必须要做",
+      "onboard_time": 1668590969,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 164851,
@@ -4859,14 +4899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147982,
-      "num": 147982,
-      "word": "性别教育到底有多重要",
-      "onboard_time": 1668589529,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "刘令姿元英打算盘打出残影",
@@ -4953,6 +4985,14 @@
       "onboard_time": 1668391587,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143453,
+      "num": 143453,
+      "word": "吃麻辣烫还得看小区阿姨",
+      "onboard_time": 1668591149,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 143406,
@@ -5283,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131487,
+      "num": 131487,
+      "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+      "onboard_time": 1668590909,
+      "rank": 42,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 131452,
       "num": 131452,
       "word": "伴侣情绪稳定重不重要",
@@ -5441,14 +5489,6 @@
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118754,
-      "num": 118754,
-      "word": "BeryL直播原神",
-      "onboard_time": 1668590009,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 117092,
@@ -5731,6 +5771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103177,
+      "num": 103177,
+      "word": "男子疑当街猥亵女子路人挺身制止",
+      "onboard_time": 1668591447,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101922,
       "num": 101922,
       "word": "2个动作缓解腰酸背痛",
@@ -6008,14 +6056,6 @@
       "word": "80亿人口对世界意味着什么",
       "onboard_time": 1668537853,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81309,
-      "num": 81309,
-      "word": "女子炒股亏百万花4万转运后又亏",
-      "onboard_time": 1668590430,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

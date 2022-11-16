@@ -1,0 +1,410 @@
+{
+  "runTime": 1668591468963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1872725,
+        "num": 1872725,
+        "word": "郑州一核酸采样点推出VIP服务",
+        "onboard_time": 1668584429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035773,
+        "num": 1035773,
+        "word": "微信新增删除声音锁功能",
+        "onboard_time": 1668585029,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29714,
+        "num": 977789,
+        "word": "坚决打赢关键核心技术攻坚战",
+        "onboard_time": 1668571110,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 942458,
+        "num": 942458,
+        "word": "46岁妈妈订立遗嘱财产只留给儿子",
+        "onboard_time": 1668585867,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466029,
+        "num": 466029,
+        "word": "霍建华在演一种很新的东西",
+        "onboard_time": 1668578486,
+        "rank": 4,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 449617,
+        "num": 449617,
+        "word": "流浪猫爬十楼复仇家猫",
+        "onboard_time": 1668576505,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438862,
+        "num": 438862,
+        "word": "北京新增社会面32例",
+        "onboard_time": 1668588810,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419309,
+        "num": 419309,
+        "word": "朱韵与全世界为敌",
+        "onboard_time": 1668589890,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399395,
+        "num": 399395,
+        "word": "疯狂小杨哥回应被打假",
+        "onboard_time": 1668581428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343890,
+        "num": 343890,
+        "word": "女生聘发模被剃光后脑勺还录像",
+        "onboard_time": 1668581727,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099202,
+        "num": 338375,
+        "word": "刘强东捐赠149亿首次成为中国首善",
+        "onboard_time": 1668577588,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 697775,
+        "num": 337782,
+        "word": "李峋朱韵的孩子",
+        "onboard_time": 1668587068,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446612,
+        "num": 335896,
+        "word": "买NIKE不合适客服称鞋盒破损拒退款",
+        "onboard_time": 1668589348,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329619,
+        "num": 329619,
+        "word": "宁波女教师勇救交警获一等功",
+        "onboard_time": 1668585389,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 321253,
+        "num": 321253,
+        "word": "元英和袁善见好配",
+        "onboard_time": 1668588810,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310793,
+        "num": 310793,
+        "word": "BeryL直播原神",
+        "onboard_time": 1668590009,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295644,
+        "num": 295644,
+        "word": "白敬亭说看看老六吧",
+        "onboard_time": 1668587668,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288138,
+        "num": 288138,
+        "word": "建行",
+        "onboard_time": 1668573089,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278690,
+        "num": 278690,
+        "word": "李峋唯独没想到公主没有他会发疯",
+        "onboard_time": 1668572487,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269747,
+        "num": 269747,
+        "word": "美国登月火箭发射升空",
+        "onboard_time": 1668586287,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265149,
+        "num": 265149,
+        "word": "吴卓羲向食客道歉",
+        "onboard_time": 1668588148,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261442,
+        "num": 261442,
+        "word": "这谁舍得吃啊",
+        "onboard_time": 1668587727,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258379,
+        "num": 258379,
+        "word": "芭莎工作人员说沈腾真没咋P图",
+        "onboard_time": 1668579506,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245356,
+        "num": 245356,
+        "word": "广州一抗疫志愿者被网约车司机免单",
+        "onboard_time": 1668588750,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 232068,
+        "num": 232068,
+        "word": "落花时节又逢君获得发行许可证",
+        "onboard_time": 1668591030,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220449,
+        "num": 220449,
+        "word": "cheerup 弃剧",
+        "onboard_time": 1668573570,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211466,
+        "num": 211466,
+        "word": "山东省考",
+        "onboard_time": 1668588449,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198276,
+        "num": 198276,
+        "word": "女子炒股亏百万花4万转运后又亏",
+        "onboard_time": 1668590430,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196639,
+        "num": 196639,
+        "word": "iPhone14卫星紧急求救正式上线",
+        "onboard_time": 1668586528,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194855,
+        "num": 194855,
+        "word": "4岁女童患癌症之王近3年花百万遇复发",
+        "onboard_time": 1668574530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195075,
+        "num": 192728,
+        "word": "李薇今晚解锁新皮肤",
+        "onboard_time": 1668584968,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190030,
+        "num": 190030,
+        "word": "iPhone14Pro息屏可不显示壁纸",
+        "onboard_time": 1668579689,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188207,
+        "num": 188207,
+        "word": "二胎宝妈2个半月减20斤年轻20岁",
+        "onboard_time": 1668575728,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179884,
+        "num": 179884,
+        "word": "性别教育到底有多重要",
+        "onboard_time": 1668589529,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 178509,
+        "word": "Uzi 投票",
+        "onboard_time": 1668575968,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171307,
+        "num": 171307,
+        "word": "aespa没有年末舞台",
+        "onboard_time": 1668584009,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165047,
+        "num": 165047,
+        "word": "李峋说有些事情必须要做",
+        "onboard_time": 1668590969,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162250,
+        "num": 162250,
+        "word": "苹果将从美国亚利桑那州工厂采购芯片",
+        "onboard_time": 1668584547,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144297,
+        "num": 144297,
+        "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+        "onboard_time": 1668565708,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 143453,
+        "word": "吃麻辣烫还得看小区阿姨",
+        "onboard_time": 1668591149,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158349,
+        "num": 142379,
+        "word": "鹿晗音乐会再唱橘子汽水",
+        "onboard_time": 1668587307,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153322,
+        "num": 137506,
+        "word": "心疼张婧仪朱韵",
+        "onboard_time": 1668590308,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131487,
+        "num": 131487,
+        "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+        "onboard_time": 1668590909,
+        "rank": 42,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "美官员称击中波兰的导弹为乌克兰发射",
+        "onboard_time": 1668578367,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122278,
+        "num": 122278,
+        "word": "DK官宣Nuguri离队",
+        "onboard_time": 1668579388,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117941,
+        "num": 117941,
+        "word": "小象鼻子rua人类",
+        "onboard_time": 1668582630,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 112423,
+        "word": "萧逸",
+        "onboard_time": 1668581548,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112370,
+        "num": 112370,
+        "word": "15岁高中生离开宿舍后失踪一月",
+        "onboard_time": 1668572729,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 109687,
+        "num": 109687,
+        "word": "被他不经意的动作帅到了",
+        "onboard_time": 1668586048,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103177,
+        "num": 103177,
+        "word": "男子疑当街猥亵女子路人挺身制止",
+        "onboard_time": 1668591447,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
