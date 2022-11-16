@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668574063991,
+  "endTime": 1668575948807,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121585,
+      "num": 1121585,
+      "word": "李峋唯独没想到公主没有他会发疯",
+      "onboard_time": 1668572487,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1121148,
       "num": 747016,
       "word": "女子网购牛仔裤竟在里面发现内裤",
@@ -433,6 +441,14 @@
       "onboard_time": 1668482369,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1094041,
+      "num": 1094041,
+      "word": "央媒评头部带货主播遭打假",
+      "onboard_time": 1668570507,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1078981,
@@ -563,22 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969228,
-      "num": 969228,
-      "word": "央媒评头部带货主播遭打假",
-      "onboard_time": 1668570507,
-      "rank": 3,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 959623,
-      "num": 959623,
-      "word": "李峋唯独没想到公主没有他会发疯",
-      "onboard_time": 1668572487,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 953179,
       "num": 953179,
       "word": "女子饭店吃饭被陌生男子提醒患病",
@@ -601,6 +601,14 @@
       "onboard_time": 1668490651,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 926617,
+      "num": 926617,
+      "word": "建行",
+      "onboard_time": 1668573089,
+      "rank": 23,
+      "category": "财经,教育"
     },
     {
       "raw_hot": 921048,
@@ -752,6 +760,14 @@
       "word": "工作人员否认陈道明演庆余年2",
       "onboard_time": 1668555325,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 808616,
+      "num": 808616,
+      "word": "cheerup 弃剧",
+      "onboard_time": 1668573570,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 592973,
-      "num": 475041,
+      "num": 575032,
       "word": "拜登称波兰爆炸导弹可能不是从俄发射",
       "onboard_time": 1668571528,
       "rank": 11,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1668439649,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551949,
+      "num": 327110,
+      "word": "95后四小生推荐",
+      "onboard_time": 1668573928,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 546816,
@@ -1459,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482963,
+      "num": 453538,
+      "word": "4岁女童患癌症之王近3年花百万遇复发",
+      "onboard_time": 1668574530,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479671,
       "num": 479671,
       "word": "社死还是得看研究生",
@@ -1611,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452322,
+      "num": 452322,
+      "word": "陈飞宇读周京泽台词",
+      "onboard_time": 1668573389,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 450571,
       "num": 416278,
       "word": "人民的名义被韩国买入版权",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1668401491,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440957,
+      "num": 440957,
+      "word": "15岁高中生离开宿舍后失踪一月",
+      "onboard_time": 1668572729,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 439304,
@@ -1792,14 +1840,6 @@
       "word": "肖战告黑胜诉",
       "onboard_time": 1668490468,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 411769,
-      "num": 327110,
-      "word": "95后四小生推荐",
-      "onboard_time": 1668573928,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2155,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362203,
+      "num": 362203,
+      "word": "深大校长称要培养出10位马化腾级校友",
+      "onboard_time": 1668571886,
+      "rank": 34,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 362180,
       "num": 362180,
       "word": "陈飞宇张婧仪时尚芭莎未公开图",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1668524434,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348989,
+      "num": 292483,
+      "word": "95后四小花推荐",
+      "onboard_time": 1668574949,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 346200,
@@ -2395,22 +2451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327189,
-      "num": 327189,
-      "word": "cheerup 弃剧",
-      "onboard_time": 1668573570,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 326024,
-      "num": 326024,
-      "word": "陈飞宇读周京泽台词",
-      "onboard_time": 1668573389,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 323273,
       "num": 323273,
       "word": "广州抗疫进行时",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1668392369,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 314162,
-      "num": 314162,
-      "word": "建行",
-      "onboard_time": 1668573089,
-      "rank": 23,
-      "category": "财经,教育"
     },
     {
       "raw_hot": 312254,
@@ -2587,20 +2619,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295190,
-      "num": 295190,
-      "word": "深大校长称要培养出10位马化腾级校友",
-      "onboard_time": 1668571886,
-      "rank": 34,
-      "category": "教育,科技"
-    },
-    {
       "raw_hot": 294042,
       "num": 294042,
       "word": "排队时不要只顾玩手机",
       "onboard_time": 1668488073,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "易立竟 你在拿孩子绑架他",
+      "onboard_time": 1668575547,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 291413,
@@ -2747,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275822,
+      "num": 256347,
+      "word": "想看赵丽颖许半夏搞事业",
+      "onboard_time": 1668574830,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274414,
       "num": 274414,
       "word": "男子发视频吐槽烤全羊被索赔2万",
@@ -2883,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258566,
+      "num": 258566,
+      "word": "拜登称特朗普辜负了美国",
+      "onboard_time": 1668573570,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 258451,
       "num": 138860,
       "word": "李峋越来越爱笑了",
@@ -3009,6 +3057,14 @@
       "onboard_time": 1668426207,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245585,
+      "num": 128068,
+      "word": "张婧仪说LP收复进度表快收好",
+      "onboard_time": 1668575908,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 245209,
@@ -3417,14 +3473,6 @@
       "onboard_time": 1668495086,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211690,
-      "num": 223050,
-      "word": "15岁高中生离开宿舍后失踪一月",
-      "onboard_time": 1668572729,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 211425,
@@ -3851,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180777,
+      "num": 151888,
+      "word": "命韵峋环的爱情戛然而止",
+      "onboard_time": 1668574109,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180657,
       "num": 180657,
       "word": "4岁女童被困6楼窗外小伙踩凳救人",
@@ -3913,14 +3969,6 @@
       "onboard_time": 1668470365,
       "rank": 25,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 176234,
-      "num": 176234,
-      "word": "拜登称特朗普辜负了美国",
-      "onboard_time": 1668573570,
-      "rank": 41,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 175381,
@@ -4257,6 +4305,14 @@
       "onboard_time": 1668340228,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155999,
+      "num": 155999,
+      "word": "光与夜之恋",
+      "onboard_time": 1668574169,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 155565,
@@ -4611,6 +4667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138665,
+      "num": 138665,
+      "word": "乔尔杰维奇担任中国男篮主教练",
+      "onboard_time": 1668575547,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138225,
       "num": 138225,
       "word": "为什么患了糖尿病可能消瘦",
@@ -4835,12 +4899,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 124214,
+      "num": 124214,
+      "word": "二胎宝妈2个半月减20斤年轻20岁",
+      "onboard_time": 1668575728,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "SNH48丝路新国潮风MV",
       "onboard_time": 1668481707,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121812,
+      "num": 121812,
+      "word": "波兰东部边境发生爆炸2人死亡",
+      "onboard_time": 1668575190,
+      "rank": 49,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 121475,
@@ -5364,7 +5444,7 @@
     },
     {
       "raw_hot": 84801,
-      "num": 1045439,
+      "num": 1103088,
       "word": "坚决打赢关键核心技术攻坚战",
       "onboard_time": 1668571110,
       "rank": 2,
