@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668627233570,
+  "endTime": 1668630144140,
   "band_list": [
     {
       "raw_hot": 1486624,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98412,
+      "num": 98412,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93233,
       "num": 93233,
       "word": "如何进入一段健康的恋爱",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41923,
-      "num": 41923,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 35474,
       "num": 44679,
       "word": "靠边停车不熟练被驾校教练打伤",
@@ -497,6 +497,14 @@
       "onboard_time": 1668616941,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11290,
+      "num": 11290,
+      "word": "云南农大免费给学生发10多种水果",
+      "onboard_time": 1668628453,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

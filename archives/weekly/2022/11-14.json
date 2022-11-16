@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668627233570,
+  "endTime": 1668630144140,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -6691,6 +6691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98412,
+      "num": 98412,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98402,
       "num": 98402,
       "word": "航拍中国第四季",
@@ -7115,14 +7123,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41923,
-      "num": 41923,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 39863,
       "num": 39863,
       "word": "糖尿病不能根治",
@@ -7241,6 +7241,14 @@
       "onboard_time": 1668453553,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 11290,
+      "num": 11290,
+      "word": "云南农大免费给学生发10多种水果",
+      "onboard_time": 1668628453,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11042,
