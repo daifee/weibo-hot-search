@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/16 23:38:59
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 00:30:00
 </p>
 </blockquote>
 <p>
@@ -4695,6 +4695,12 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8A%E6%97%B6%E6%B7%98%E6%B1%B0%E4%B8%8D%E9%80%82%E5%BA%94%E7%A4%BE%E4%BC%9A%E9%9C%80%E8%A6%81%E7%9A%84%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%23" target="weibo">
+及时淘汰不适应社会需要的学科专业（热度：593309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%B3%A2%E5%85%B0%E7%88%86%E7%82%B8%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E4%BB%8E%E4%BF%84%E5%8F%91%E5%B0%84%23" target="weibo">
 拜登称波兰爆炸导弹可能不是从俄发射（热度：592973）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy车内大片（热度：503100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%81%8B%E7%88%B1%E9%95%BF%E8%B7%91%E4%BC%9A%E5%AE%B9%E6%98%93%E5%88%86%E6%89%8B%23" target="weibo">
 为什么恋爱长跑会容易分手（热度：497722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23" target="weibo">
-华北电力大学一学生核酸检测阳性（热度：497706）
 </a>
 </li>
 
