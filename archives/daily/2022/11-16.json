@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668606014507,
+  "endTime": 1668606701079,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735963,
+      "num": 735963,
+      "word": "李诞让小佳念广告",
+      "onboard_time": 1668604828,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732796,
       "num": 472920,
       "word": "田曦薇早期旧照",
@@ -355,20 +363,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 680554,
-      "num": 680554,
-      "word": "李诞让小佳念广告",
-      "onboard_time": 1668604828,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 680375,
       "num": 680375,
       "word": "广东新增无症状感染者6215例",
       "onboard_time": 1668562228,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673557,
+      "num": 673557,
+      "word": "情侣分手前都有什么征兆",
+      "onboard_time": 1668601411,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 669779,
@@ -393,14 +401,6 @@
       "onboard_time": 1668560250,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 632710,
-      "num": 632710,
-      "word": "情侣分手前都有什么征兆",
-      "onboard_time": 1668601411,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 629271,
@@ -505,6 +505,14 @@
       "onboard_time": 1668573928,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549770,
+      "num": 410305,
+      "word": "鸟鸟脱5年度第二",
+      "onboard_time": 1668605489,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 546345,
@@ -627,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449505,
+      "num": 449505,
+      "word": "郑大商户帮学生带物品进校被罚",
+      "onboard_time": 1668602489,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443264,
       "num": 443264,
       "word": "卿卿日常",
@@ -649,14 +665,6 @@
       "onboard_time": 1668602370,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422464,
-      "num": 288407,
-      "word": "鸟鸟脱5年度第二",
-      "onboard_time": 1668605489,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 419309,
@@ -691,6 +699,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409208,
+      "num": 409208,
+      "word": "新娘婚礼被上课式祝福一脸无奈",
+      "onboard_time": 1668603211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403931,
+      "num": 245185,
+      "word": "高见鸿的结局是癌症去世",
+      "onboard_time": 1668605970,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399478,
       "num": 399478,
       "word": "李峋找徐黎娜刺激朱韵分手",
@@ -699,20 +723,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399084,
-      "num": 399084,
-      "word": "郑大商户帮学生带物品进校被罚",
-      "onboard_time": 1668602489,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395562,
       "num": 395562,
       "word": "辽宁研考",
       "onboard_time": 1668571649,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 390874,
+      "num": 234129,
+      "word": "李峋最后的疼爱是放开朱韵的手",
+      "onboard_time": 1668605612,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 386351,
@@ -827,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351500,
+      "num": 187733,
+      "word": "鹿晗大张伟庆祝动作",
+      "onboard_time": 1668605970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350314,
       "num": 350314,
       "word": "河南小伙带15斤油条膨松剂飞赴世界杯",
@@ -880,14 +912,6 @@
       "word": "元英和袁善见好配",
       "onboard_time": 1668588810,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 335126,
-      "num": 198564,
-      "word": "李峋最后的疼爱是放开朱韵的手",
-      "onboard_time": 1668605612,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1075,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295534,
-      "num": 295534,
-      "word": "新娘婚礼被上课式祝福一脸无奈",
-      "onboard_time": 1668603211,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292983,
       "num": 292983,
       "word": "易立竟 你在拿孩子绑架他",
@@ -1227,14 +1243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 266319,
-      "num": 115407,
-      "word": "鹿晗大张伟庆祝动作",
-      "onboard_time": 1668605970,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265508,
       "num": 265508,
       "word": "巴西队想堵住管泽元的嘴",
@@ -1299,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251348,
-      "num": 115381,
-      "word": "高见鸿的结局是癌症去世",
-      "onboard_time": 1668605970,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "猫咪把牙卡在主人耳洞里睡着",
@@ -1353,6 +1353,14 @@
       "onboard_time": 1668588750,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 241656,
+      "num": 148436,
+      "word": "童漠男脱5年度第七",
+      "onboard_time": 1668606572,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 238652,
@@ -1419,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224761,
+      "num": 224761,
+      "word": "这长得也太迪士尼了",
+      "onboard_time": 1668603749,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224120,
       "num": 198845,
       "word": "陈飞宇李峋爆发力",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1668587307,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 216572,
-      "num": 216572,
-      "word": "这长得也太迪士尼了",
-      "onboard_time": 1668603749,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 214422,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1668584247,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208734,
+      "num": 208734,
+      "word": "再赚不到钱就不礼貌了",
+      "onboard_time": 1668603930,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 207513,
@@ -1641,14 +1657,6 @@
       "onboard_time": 1668530724,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190681,
-      "num": 190681,
-      "word": "再赚不到钱就不礼貌了",
-      "onboard_time": 1668603930,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 189852,
@@ -2161,6 +2169,14 @@
       "onboard_time": 1668523529,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99383,
+      "num": 106465,
+      "word": "腾讯分红式减持美团1594亿港元",
+      "onboard_time": 1668606030,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 97015,
