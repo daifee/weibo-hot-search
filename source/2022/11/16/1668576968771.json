@@ -1,0 +1,410 @@
+{
+  "runTime": 1668576968771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243914,
+        "num": 1243914,
+        "word": "建行",
+        "onboard_time": 1668573089,
+        "rank": 0,
+        "category": "财经,教育"
+      },
+      {
+        "raw_hot": 992743,
+        "num": 992743,
+        "word": "央媒评头部带货主播遭打假",
+        "onboard_time": 1668570507,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 76876,
+        "num": 837271,
+        "word": "坚决打赢关键核心技术攻坚战",
+        "onboard_time": 1668571110,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1006706,
+        "num": 835627,
+        "word": "李峋唯独没想到公主没有他会发疯",
+        "onboard_time": 1668572487,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1426866,
+        "num": 831248,
+        "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+        "onboard_time": 1668565708,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822139,
+        "num": 822139,
+        "word": "cheerup 弃剧",
+        "onboard_time": 1668573570,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562064,
+        "num": 562064,
+        "word": "大学生打麻将被罚画600个幺鸡",
+        "onboard_time": 1668568409,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 530360,
+        "num": 530360,
+        "word": "易立竞提问张婉婷",
+        "onboard_time": 1668571169,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520675,
+        "num": 520675,
+        "word": "拜登称波兰爆炸导弹可能不是从俄发射",
+        "onboard_time": 1668571528,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 394109,
+        "num": 394109,
+        "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+        "onboard_time": 1668562469,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686558,
+        "num": 392864,
+        "word": "4岁女童患癌症之王近3年花百万遇复发",
+        "onboard_time": 1668574530,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510753,
+        "num": 392364,
+        "word": "15岁高中生离开宿舍后失踪一月",
+        "onboard_time": 1668572729,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 380006,
+        "num": 380006,
+        "word": "深大校长称要培养出10位马化腾级校友",
+        "onboard_time": 1668571886,
+        "rank": 12,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 365982,
+        "num": 365982,
+        "word": "陈飞宇读周京泽台词",
+        "onboard_time": 1668573389,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307793,
+        "num": 307793,
+        "word": "张婧仪说LP收复进度表快收好",
+        "onboard_time": 1668575908,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306062,
+        "num": 306062,
+        "word": "Uzi 投票",
+        "onboard_time": 1668575968,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286722,
+        "num": 286722,
+        "word": "卿卿日常是卿卿草原吧",
+        "onboard_time": 1668566667,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279513,
+        "num": 279513,
+        "word": "广东新增无症状感染者6215例",
+        "onboard_time": 1668562228,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271660,
+        "num": 271660,
+        "word": "拜登称特朗普辜负了美国",
+        "onboard_time": 1668573570,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270132,
+        "num": 270132,
+        "word": "辽宁研考",
+        "onboard_time": 1668571649,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 470168,
+        "num": 268301,
+        "word": "95后四小生推荐",
+        "onboard_time": 1668573928,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265750,
+        "num": 265750,
+        "word": "2022LPL全明星",
+        "onboard_time": 1668568109,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264447,
+        "num": 264447,
+        "word": "新人LIN官宣",
+        "onboard_time": 1668573389,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339754,
+        "num": 262864,
+        "word": "95后四小花推荐",
+        "onboard_time": 1668574949,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257575,
+        "num": 257575,
+        "word": "特朗普正式宣布参选",
+        "onboard_time": 1668565826,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 241287,
+        "num": 241287,
+        "word": "C罗已被移出曼联群聊",
+        "onboard_time": 1668555264,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229311,
+        "num": 229311,
+        "word": "二胎宝妈2个半月减20斤年轻20岁",
+        "onboard_time": 1668575728,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188114,
+        "num": 188114,
+        "word": "女子买小吃被套路一小条变半袋",
+        "onboard_time": 1668564390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180426,
+        "num": 180426,
+        "word": "女孩哭着卖气球路人以为被拐卖",
+        "onboard_time": 1668570087,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166395,
+        "num": 166395,
+        "word": "广州新增无症状感染者6138例",
+        "onboard_time": 1668562410,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237515,
+        "num": 165747,
+        "word": "想看赵丽颖许半夏搞事业",
+        "onboard_time": 1668574830,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210011,
+        "num": 165538,
+        "word": "韩剧cheerup女主没选男二",
+        "onboard_time": 1668573450,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204073,
+        "num": 165416,
+        "word": "你后悔把时间全部交给事业吗",
+        "onboard_time": 1668568889,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 163670,
+        "word": "MAMA舞台剧透",
+        "onboard_time": 1668566247,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159896,
+        "num": 159896,
+        "word": "厂家回应工人徒手抓水果放罐头里",
+        "onboard_time": 1668571768,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158927,
+        "num": 158927,
+        "word": "校方回应阿姨徒手装回散落米饭",
+        "onboard_time": 1668568589,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154380,
+        "num": 154380,
+        "word": "张文宏称走出疫情靠的是科技",
+        "onboard_time": 1668543854,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148552,
+        "num": 148552,
+        "word": "谈恋爱要不要在朋友圈公开",
+        "onboard_time": 1668527909,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145741,
+        "num": 145741,
+        "word": "男子在井盖下为儿子建秘密基地",
+        "onboard_time": 1668560912,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140236,
+        "num": 140236,
+        "word": "拜登称美将向波兰提供全力支持调查爆炸",
+        "onboard_time": 1668576149,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 158308,
+        "num": 139173,
+        "word": "王一栩晒苍兰诀新剧照",
+        "onboard_time": 1668560912,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153799,
+        "num": 138715,
+        "word": "刀我别用命韵峋环分手",
+        "onboard_time": 1668576744,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137352,
+        "num": 137352,
+        "word": "成都多地连发毒狗事件",
+        "onboard_time": 1668556710,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 132704,
+        "num": 132704,
+        "word": "给对象连发三条想你了",
+        "onboard_time": 1668529644,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131050,
+        "num": 131050,
+        "word": "村民不出村仨月把石榴卖出上千万",
+        "onboard_time": 1668576744,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130847,
+        "num": 130847,
+        "word": "广州男子边抽烟边跑马拉松火到国外",
+        "onboard_time": 1668557731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122538,
+        "num": 122538,
+        "word": "流浪猫爬十楼复仇家猫",
+        "onboard_time": 1668576505,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116404,
+        "num": 116404,
+        "word": "世界杯",
+        "onboard_time": 1668566187,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111692,
+        "num": 111692,
+        "word": "银行行长退休后当群演4天赚1200",
+        "onboard_time": 1668523955,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108948,
+        "num": 108948,
+        "word": "光与夜之恋",
+        "onboard_time": 1668574169,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#G20峰会金句#"
+    }
+  }
+}

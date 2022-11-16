@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668575948807,
+  "endTime": 1668576968771,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1243914,
+      "num": 1243914,
+      "word": "建行",
+      "onboard_time": 1668573089,
+      "rank": 23,
+      "category": "财经,教育"
+    },
+    {
       "raw_hot": 1242915,
       "num": 1242915,
       "word": "小猫叼巨型蟑螂回家躺床抱着玩",
@@ -603,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 926617,
-      "num": 926617,
-      "word": "建行",
-      "onboard_time": 1668573089,
-      "rank": 23,
-      "category": "财经,教育"
-    },
-    {
       "raw_hot": 921048,
       "num": 729790,
       "word": "易烊千玺谷爱凌冰雪之约米兰获奖",
@@ -747,6 +747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 822139,
+      "num": 822139,
+      "word": "cheerup 弃剧",
+      "onboard_time": 1668573570,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 820393,
       "num": 698445,
       "word": "200斤女主播同时交往10位男粉丝",
@@ -760,14 +768,6 @@
       "word": "工作人员否认陈道明演庆余年2",
       "onboard_time": 1668555325,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 808616,
-      "num": 808616,
-      "word": "cheerup 弃剧",
-      "onboard_time": 1668573570,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -897,6 +897,14 @@
       "onboard_time": 1668571169,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686558,
+      "num": 453538,
+      "word": "4岁女童患癌症之王近3年花百万遇复发",
+      "onboard_time": 1668574530,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685773,
@@ -1323,6 +1331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 510753,
+      "num": 440957,
+      "word": "15岁高中生离开宿舍后失踪一月",
+      "onboard_time": 1668572729,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 508926,
       "num": 508926,
       "word": "这锅包肉能全国巡炒吗",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1668470063,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 482963,
-      "num": 453538,
-      "word": "4岁女童患癌症之王近3年花百万遇复发",
-      "onboard_time": 1668574530,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479671,
@@ -1681,14 +1689,6 @@
       "onboard_time": 1668401491,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440957,
-      "num": 440957,
-      "word": "15岁高中生离开宿舍后失踪一月",
-      "onboard_time": 1668572729,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 439304,
@@ -2067,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 380006,
+      "num": 380006,
+      "word": "深大校长称要培养出10位马化腾级校友",
+      "onboard_time": 1668571886,
+      "rank": 34,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 379256,
       "num": 379256,
       "word": "脱口秀大会",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1668440128,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362203,
-      "num": 362203,
-      "word": "深大校长称要培养出10位马化腾级校友",
-      "onboard_time": 1668571886,
-      "rank": 34,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 362180,
@@ -2563,12 +2563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307793,
+      "num": 307793,
+      "word": "张婧仪说LP收复进度表快收好",
+      "onboard_time": 1668575908,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306645,
       "num": 306645,
       "word": "你介意另一半从不做家务吗",
       "onboard_time": 1668505470,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306062,
+      "num": 306062,
+      "word": "Uzi 投票",
+      "onboard_time": 1668575968,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 305174,
@@ -2811,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271660,
+      "num": 271660,
+      "word": "拜登称特朗普辜负了美国",
+      "onboard_time": 1668573570,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 270266,
       "num": 183023,
       "word": "60岁李峋",
@@ -2921,14 +2945,6 @@
       "onboard_time": 1668530063,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258566,
-      "num": 258566,
-      "word": "拜登称特朗普辜负了美国",
-      "onboard_time": 1668573570,
-      "rank": 41,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 258451,
@@ -3057,14 +3073,6 @@
       "onboard_time": 1668426207,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245585,
-      "num": 128068,
-      "word": "张婧仪说LP收复进度表快收好",
-      "onboard_time": 1668575908,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 245209,
@@ -3249,6 +3257,14 @@
       "onboard_time": 1668426448,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229311,
+      "num": 229311,
+      "word": "二胎宝妈2个半月减20斤年轻20岁",
+      "onboard_time": 1668575728,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229303,
@@ -4275,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159896,
+      "num": 159896,
+      "word": "厂家回应工人徒手抓水果放罐头里",
+      "onboard_time": 1668571768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159086,
       "num": 159086,
       "word": "特斯拉称警方正寻求第三方鉴定",
@@ -4289,14 +4313,6 @@
       "onboard_time": 1668516152,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157252,
-      "num": 157252,
-      "word": "厂家回应工人徒手抓水果放罐头里",
-      "onboard_time": 1668571768,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156342,
@@ -4337,6 +4353,14 @@
       "onboard_time": 1668353131,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153799,
+      "num": 138715,
+      "word": "刀我别用命韵峋环分手",
+      "onboard_time": 1668576744,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 153502,
@@ -4635,6 +4659,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 140236,
+      "num": 140236,
+      "word": "拜登称美将向波兰提供全力支持调查爆炸",
+      "onboard_time": 1668576149,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 140203,
       "num": 99170,
       "word": "阿蒲的影像日记本",
@@ -4819,6 +4851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131050,
+      "num": 131050,
+      "word": "村民不出村仨月把石榴卖出上千万",
+      "onboard_time": 1668576744,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131009,
       "num": 131009,
       "word": "陈飞宇演赵氏孤儿的原因",
@@ -4899,20 +4939,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 124214,
-      "num": 124214,
-      "word": "二胎宝妈2个半月减20斤年轻20岁",
-      "onboard_time": 1668575728,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "SNH48丝路新国潮风MV",
       "onboard_time": 1668481707,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122538,
+      "num": 122538,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121812,
