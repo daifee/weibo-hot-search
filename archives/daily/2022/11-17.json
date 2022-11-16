@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668637218720,
+  "endTime": 1668638249869,
   "band_list": [
     {
       "raw_hot": 1486624,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313231,
+      "num": 313231,
+      "word": "真实的石家庄到底是什么样",
+      "onboard_time": 1668618558,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304095,
       "num": 263827,
       "word": "白敬亭晒自拍庆祝卿卿日常破万",
@@ -169,14 +177,6 @@
       "onboard_time": 1668605970,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 245112,
-      "num": 245112,
-      "word": "真实的石家庄到底是什么样",
-      "onboard_time": 1668618558,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239391,
@@ -291,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141808,
+      "num": 141808,
+      "word": "马斯克称人口崩溃已是必然",
+      "onboard_time": 1668630791,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 128964,
       "num": 128964,
       "word": "狗狗腿瘸主人花400元确认是装的",
       "onboard_time": 1668595289,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124902,
-      "num": 62901,
-      "word": "马斯克称人口崩溃已是必然",
-      "onboard_time": 1668630791,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 123186,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86991,
+      "num": 86991,
+      "word": "重庆落实离渝审批制度",
+      "onboard_time": 1668632652,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85570,
       "num": 85570,
       "word": "流浪狗咬伤人长期投喂者被判担责",
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59856,
-      "num": 59856,
-      "word": "重庆落实离渝审批制度",
-      "onboard_time": 1668632652,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49187,
       "num": 33744,
       "word": "田曦薇早期旧照",
@@ -499,10 +499,34 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30442,
+      "num": 25250,
+      "word": "井胧说中国帅哥千千万嘉尚占一半",
+      "onboard_time": 1668632772,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27210,
       "num": 595063,
       "word": "一次看尽中国铁路发展有多快",
       "onboard_time": 1668598109,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 24954,
+      "num": 24954,
+      "word": "六公主镜头下的男女明星",
+      "onboard_time": 1668630431,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22249,
+      "num": 514434,
+      "word": "沉浸式看神十四航天员工作",
+      "onboard_time": 1668616941,
       "rank": 2,
       "category": "国内要闻"
     },
@@ -513,30 +537,6 @@
       "onboard_time": 1668628453,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19166,
-      "num": 514434,
-      "word": "沉浸式看神十四航天员工作",
-      "onboard_time": 1668616941,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 18381,
-      "num": 18381,
-      "word": "井胧说中国帅哥千千万嘉尚占一半",
-      "onboard_time": 1668632772,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 17928,
-      "num": 17928,
-      "word": "六公主镜头下的男女明星",
-      "onboard_time": 1668630431,
-      "rank": 44,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
