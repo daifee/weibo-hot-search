@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668624139454,
+  "endTime": 1668626230998,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -33904,6 +33904,14 @@
       "word": "什么都没快递重要",
       "onboard_time": 1667421310,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16146,
+      "num": 16146,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
       "category": "幽默"
     },
     {
