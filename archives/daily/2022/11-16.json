@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668555428922,
+  "endTime": 1668563762483,
   "band_list": [
     {
       "raw_hot": 1437599,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 890456,
+      "num": 890456,
+      "word": "C罗已被移出曼联群聊",
+      "onboard_time": 1668555264,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872532,
       "num": 872532,
       "word": "重庆面临最严峻疫情形势",
@@ -51,8 +59,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699659,
-      "num": 323135,
+      "raw_hot": 813430,
+      "num": 813430,
+      "word": "工作人员否认陈道明演庆余年2",
+      "onboard_time": 1668555325,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 763194,
+      "num": 763194,
+      "word": "广州男子边抽烟边跑马拉松火到国外",
+      "onboard_time": 1668557731,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728761,
+      "num": 547792,
       "word": "请允许国产电视剧里有中女的存在",
       "onboard_time": 1668520231,
       "rank": 10,
@@ -67,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609678,
+      "num": 609678,
+      "word": "王海回应打假疯狂小杨哥",
+      "onboard_time": 1668554241,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606057,
       "num": 606057,
       "word": "女大学生干保洁在郑州买下两套房两辆车",
@@ -75,12 +107,84 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603064,
+      "num": 603064,
+      "word": "北京新增本土确诊197例",
+      "onboard_time": 1668558681,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589592,
+      "num": 589592,
+      "word": "大脸猫确实不适合戴帽子",
+      "onboard_time": 1668560250,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 554093,
+      "num": 554093,
+      "word": "广东新增无症状感染者6215例",
+      "onboard_time": 1668562228,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529658,
+      "num": 529658,
+      "word": "成都多地连发毒狗事件",
+      "onboard_time": 1668556710,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 511027,
+      "num": 511027,
+      "word": "波兰政府确认爆炸致两人死亡",
+      "onboard_time": 1668556710,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 485795,
+      "num": 485795,
+      "word": "王一栩晒苍兰诀新剧照",
+      "onboard_time": 1668560912,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470101,
       "num": 470101,
       "word": "邱瑞 直播带货",
       "onboard_time": 1668527849,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465863,
+      "num": 465863,
+      "word": "北京大学1名学生核酸阳性",
+      "onboard_time": 1668563126,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417451,
+      "num": 417451,
+      "word": "格莱美",
+      "onboard_time": 1668557551,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 388189,
+      "num": 388189,
+      "word": "广州新增无症状感染者6138例",
+      "onboard_time": 1668562410,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381801,
@@ -107,12 +211,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340079,
+      "num": 340079,
+      "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+      "onboard_time": 1668562469,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329423,
       "num": 275052,
       "word": "GQ总编说会邀请虞书欣王鹤棣",
       "onboard_time": 1668529165,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323273,
+      "num": 323273,
+      "word": "广州抗疫进行时",
+      "onboard_time": 1668560912,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316351,
+      "num": 316351,
+      "word": "没想到外卖被一只狗偷了",
+      "onboard_time": 1668558092,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 308289,
+      "num": 308289,
+      "word": "1型糖尿病一般青少年期发病",
+      "onboard_time": 1668559891,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297081,
@@ -137,6 +273,14 @@
       "onboard_time": 1668529644,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285677,
+      "num": 285677,
+      "word": "男子在井盖下为儿子建秘密基地",
+      "onboard_time": 1668560912,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277928,
@@ -187,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248529,
-      "num": 108310,
-      "word": "王海回应打假疯狂小杨哥",
-      "onboard_time": 1668554241,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 247642,
+      "num": 247642,
+      "word": "twice将出演红白歌会",
+      "onboard_time": 1668562290,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 229783,
@@ -207,6 +351,30 @@
       "num": 223949,
       "word": "江苏跳跃式降温把花整懵了",
       "onboard_time": 1668551715,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202518,
+      "num": 202518,
+      "word": "中国女排首夺世界冠军41周年",
+      "onboard_time": 1668554782,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201792,
+      "num": 201792,
+      "word": "波兰提高战备等级",
+      "onboard_time": 1668561447,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 199249,
+      "num": 199249,
+      "word": "新冠居家必备药物指南",
+      "onboard_time": 1668554423,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -227,12 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190303,
-      "num": 190303,
-      "word": "新冠居家必备药物指南",
-      "onboard_time": 1668554423,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 192101,
+      "num": 189792,
+      "word": "预测脱口秀大会第五季冠军",
+      "onboard_time": 1668530724,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190236,
+      "num": 190236,
+      "word": "原来迟到的还是同一批人",
+      "onboard_time": 1668561809,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 188037,
@@ -241,14 +417,6 @@
       "onboard_time": 1668497851,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181934,
-      "num": 181934,
-      "word": "预测脱口秀大会第五季冠军",
-      "onboard_time": 1668530724,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 180540,
@@ -299,12 +467,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163866,
-      "num": 163866,
-      "word": "工作人员否认陈道明演庆余年2",
-      "onboard_time": 1668555325,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 166884,
+      "num": 166884,
+      "word": "陈飞宇现场被夸天使的反应",
+      "onboard_time": 1668558812,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164851,
+      "num": 164851,
+      "word": "男子为姥姥用树叶制作秋色床单",
+      "onboard_time": 1668559713,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160461,
+      "num": 160461,
+      "word": "杨丞琳庆祝出道22周年",
+      "onboard_time": 1668563669,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156028,
+      "num": 156028,
+      "word": "买羽绒服要看吊牌上的绒子含量",
+      "onboard_time": 1668562949,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149679,
@@ -324,7 +516,7 @@
     },
     {
       "raw_hot": 144420,
-      "num": 49951,
+      "num": 116185,
       "word": "刘令姿说热度破万我就浅跳一下",
       "onboard_time": 1668555385,
       "rank": 47,
@@ -363,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131800,
-      "num": 107733,
-      "word": "中国女排首夺世界冠军41周年",
-      "onboard_time": 1668554782,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "原来被爱真的很重要",
@@ -403,11 +587,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122372,
+      "num": 122372,
+      "word": "我国慢阻肺病患者近1亿人",
+      "onboard_time": 1668563609,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120925,
       "num": 120925,
       "word": "中公教育若未按时退费将卖楼还钱",
       "onboard_time": 1668509432,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114272,
+      "num": 114272,
+      "word": "11月15日新增本土无症状18491例",
+      "onboard_time": 1668563427,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -524,7 +724,7 @@
     },
     {
       "raw_hot": 80409,
-      "num": 759953,
+      "num": 848934,
       "word": "巴厘岛G20时间",
       "onboard_time": 1668513508,
       "rank": 2,
@@ -553,14 +753,6 @@
       "onboard_time": 1668555264,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56989,
-      "num": 56989,
-      "word": "C罗已被移出曼联群聊",
-      "onboard_time": 1668555264,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 48443,
