@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668626230998,
+  "endTime": 1668627233570,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -7115,6 +7115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 41923,
+      "num": 41923,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39863,
       "num": 39863,
       "word": "糖尿病不能根治",
@@ -7193,14 +7201,6 @@
       "onboard_time": 1668336869,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 16146,
-      "num": 16146,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 16065,

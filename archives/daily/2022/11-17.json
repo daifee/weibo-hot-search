@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668626230998,
+  "endTime": 1668627233570,
   "band_list": [
     {
       "raw_hot": 1486624,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41923,
+      "num": 41923,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35474,
       "num": 44679,
       "word": "靠边停车不熟练被驾校教练打伤",
@@ -489,14 +497,6 @@
       "onboard_time": 1668616941,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 16146,
-      "num": 16146,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
