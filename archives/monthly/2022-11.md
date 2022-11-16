@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 00:30:00
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 00:48:41
 </p>
 </blockquote>
 <p>
@@ -4425,6 +4425,12 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8A%E6%97%B6%E6%B7%98%E6%B1%B0%E4%B8%8D%E9%80%82%E5%BA%94%E7%A4%BE%E4%BC%9A%E9%9C%80%E8%A6%81%E7%9A%84%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%23" target="weibo">
+及时淘汰不适应社会需要的学科专业（热度：624507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B8%A9%E8%B8%8F%E5%8F%91%E7%94%9F%E6%9C%89%E4%BA%BA%E8%AF%AF%E8%AE%A4%E6%95%91%E6%8A%A4%E8%BD%A6%E6%98%AFcosplay%23" target="weibo">
 踩踏发生有人误认救护车是cosplay（热度：622822）
 </a>
@@ -4691,12 +4697,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
 一年级女孩用手扫描书按进大脑（热度：594538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8A%E6%97%B6%E6%B7%98%E6%B1%B0%E4%B8%8D%E9%80%82%E5%BA%94%E7%A4%BE%E4%BC%9A%E9%9C%80%E8%A6%81%E7%9A%84%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%23" target="weibo">
-及时淘汰不适应社会需要的学科专业（热度：593309）
 </a>
 </li>
 
