@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/16 10:27:05
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/16 11:20:54
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%23" target="weibo">
+特朗普正式宣布参选（热度：1534093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
 韩国踩踏事故前4小时不断有人报警（热度：1532856）
 </a>
@@ -1037,6 +1043,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%BA%8615%E4%BD%8D%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%23" target="weibo">
 吴彤一天官宣了15位年轻演员（热度：1459077）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E9%99%B7%E5%B8%A6%E8%B4%A7%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98%E6%BC%A9%E6%B6%A1%23" target="weibo">
+疯狂小杨哥陷带货产品质量问题漩涡（热度：1458637）
 </a>
 </li>
 
@@ -2481,6 +2493,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%9B%B4%E6%92%AD%E5%8A%A9%E5%86%9C%E8%A2%AB%E5%98%B2%E5%8F%88%E9%BB%91%E5%8F%88%E8%83%963%E5%B9%B4%E5%90%8E%E9%80%86%E8%A2%AD%23" target="weibo">
+女孩直播助农被嘲又黑又胖3年后逆袭（热度：908437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E6%97%81%E9%85%92%E5%BA%97%E7%B3%BB%E8%BF%9D%E7%AB%A0%E5%BB%BA%E7%AD%91%23" target="weibo">
 韩国踩踏事故旁酒店系违章建筑（热度：907591）
 </a>
@@ -2915,12 +2933,6 @@ GALA 头像（热度：826488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%A6%E8%AE%A4%E9%99%88%E9%81%93%E6%98%8E%E6%BC%94%E5%BA%86%E4%BD%99%E5%B9%B42%23" target="weibo">
 工作人员否认陈道明演庆余年2（热度：813430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%9B%B4%E6%92%AD%E5%8A%A9%E5%86%9C%E8%A2%AB%E5%98%B2%E5%8F%88%E9%BB%91%E5%8F%88%E8%83%963%E5%B9%B4%E5%90%8E%E9%80%86%E8%A2%AD%23" target="weibo">
-女孩直播助农被嘲又黑又胖3年后逆袭（热度：810039）
 </a>
 </li>
 
@@ -4689,6 +4701,12 @@ C罗炮轰曼联（热度：578960）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%B0%8F%E5%90%83%E8%A2%AB%E5%A5%97%E8%B7%AF%E4%B8%80%E5%B0%8F%E6%9D%A1%E5%8F%98%E5%8D%8A%E8%A2%8B%23" target="weibo">
+女子买小吃被套路一小条变半袋（热度：566190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%81%86%E5%90%AC%E5%8D%8E%E4%BA%BA%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%AE%B2%E5%BA%A7%23" target="weibo">
 北大韦东奕聆听华人数学家讲座（热度：566186）
 </a>
@@ -5691,6 +5709,12 @@ Angelababy车内大片（热度：503100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%BC%9A%E7%90%864.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川凉山会理4.3级地震（热度：496563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%8D%96%E5%AE%8C%E8%8B%B9%E6%9E%9C%E8%8A%B14%E4%B8%87%E7%BB%99%E8%80%81%E4%BC%B4%E4%B9%B0%E9%A6%96%E9%A5%B0%23" target="weibo">
 大叔卖完苹果花4万给老伴买首饰（热度：496318）
 </a>
@@ -5741,6 +5765,12 @@ Angelababy车内大片（热度：503100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81%23" target="weibo">
 福州地铁（热度：494422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23cheerup%E7%BC%96%E5%89%A7%E6%98%AF%E6%87%82%E8%A7%82%E4%BC%97%E7%9A%84%23" target="weibo">
+cheerup编剧是懂观众的（热度：494354）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ XYG（热度：480241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%91%E5%90%83%E6%B7%8B%E5%B7%B4%E8%82%89%E7%BB%B4%E6%9D%83%E9%81%AD%E5%A8%81%E8%83%81%23" target="weibo">
 男子疑吃淋巴肉维权遭威胁（热度：479197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8C%81%E7%BB%AD%E9%AB%98%E7%83%A7%E5%B0%B1%E5%8C%BB%E6%9F%A5%E5%87%BA%E4%BA%B2%E5%90%BB%E7%97%85%E6%AF%92%23" target="weibo">
-女孩持续高烧就医查出亲吻病毒（热度：479084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%A4%E6%A9%98%E5%AD%90%E8%BF%99%E4%B9%88%E7%AE%A1%E7%94%A8%E5%90%97%23" target="weibo">
-烤橘子这么管用吗（热度：478847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%AA%9D%E9%87%8C%E6%A8%AA%23" target="weibo">
-徐志胜窝里横（热度：478772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E6%9D%8E%E8%96%87%23" target="weibo">
-没有刘海的李薇（热度：478722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%20%E7%B9%81%E8%8A%B1%23" target="weibo">
-唐嫣 繁花（热度：478639）
 </a>
 </li>
 

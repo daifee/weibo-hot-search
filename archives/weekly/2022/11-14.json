@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668565625472,
+  "endTime": 1668568854573,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1534093,
+      "num": 1534093,
+      "word": "特朗普正式宣布参选",
+      "onboard_time": 1668565826,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1528740,
       "num": 567158,
       "word": "泰安警方回应银行劫案",
@@ -224,6 +232,14 @@
       "word": "美国变性网红被捕入狱关入男囚",
       "onboard_time": 1668491914,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458637,
+      "num": 1458637,
+      "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+      "onboard_time": 1668565708,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -587,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 908437,
+      "num": 908437,
+      "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+      "onboard_time": 1668562469,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890456,
       "num": 890456,
       "word": "C罗已被移出曼联群聊",
@@ -689,14 +713,6 @@
       "onboard_time": 1668555325,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 810039,
-      "num": 810039,
-      "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
-      "onboard_time": 1668562469,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796913,
@@ -1027,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566190,
+      "num": 566190,
+      "word": "女子买小吃被套路一小条变半袋",
+      "onboard_time": 1668564390,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562573,
       "num": 562573,
       "word": "医生飞针采血被赞蚊子投胎",
@@ -1283,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 496563,
+      "num": 409675,
+      "word": "四川凉山会理4.3级地震",
+      "onboard_time": 1668567808,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495505,
       "num": 403078,
       "word": "倪妮海藻卷发",
@@ -1304,6 +1336,14 @@
       "word": "陈紫函亲手撕碎反派剧本",
       "onboard_time": 1668490048,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 494354,
+      "num": 494354,
+      "word": "cheerup编剧是懂观众的",
+      "onboard_time": 1668564027,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -1691,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410939,
+      "num": 410939,
+      "word": "卿卿日常是卿卿草原吧",
+      "onboard_time": 1668566667,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408183,
       "num": 408183,
       "word": "光遇 花环",
@@ -1907,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376519,
+      "num": 376519,
+      "word": "MAMA舞台剧透",
+      "onboard_time": 1668566247,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376363,
       "num": 376363,
       "word": "东南大学扫地大爷反向清扫梧桐落叶",
@@ -1936,14 +1992,6 @@
       "word": "爱的二八定律 穿搭",
       "onboard_time": 1668474750,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 367558,
-      "num": 367558,
-      "word": "cheerup编剧是懂观众的",
-      "onboard_time": 1668564027,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -2025,6 +2073,14 @@
       "onboard_time": 1668408208,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355116,
+      "num": 355116,
+      "word": "高见鸿透露李峋的软肋给方志靖",
+      "onboard_time": 1668568348,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 354920,
@@ -2123,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338419,
+      "num": 338419,
+      "word": "杨幂肖砚再见了",
+      "onboard_time": 1668568166,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335622,
       "num": 238611,
       "word": "朱韵等了李峋六年",
@@ -2217,6 +2281,14 @@
       "onboard_time": 1668517349,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326398,
+      "num": 326398,
+      "word": "2022LPL全明星",
+      "onboard_time": 1668568109,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 323273,
@@ -2547,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268419,
+      "num": 268419,
+      "word": "买羽绒服要看吊牌上的绒子含量",
+      "onboard_time": 1668562949,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268388,
       "num": 173770,
       "word": "檀健次周杰伦同框照",
@@ -2555,12 +2635,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267001,
+      "num": 267001,
+      "word": "田曦薇时尚先生红毯造型",
+      "onboard_time": 1668563487,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 266705,
       "num": 266705,
       "word": "上海二手房量价齐跌",
       "onboard_time": 1668374710,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 265895,
+      "num": 225585,
+      "word": "命运关上了李峋所有的窗",
+      "onboard_time": 1668567629,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 265747,
@@ -2577,14 +2673,6 @@
       "onboard_time": 1668509490,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264790,
-      "num": 264790,
-      "word": "田曦薇时尚先生红毯造型",
-      "onboard_time": 1668563487,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264254,
@@ -2609,6 +2697,14 @@
       "onboard_time": 1668510639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261178,
+      "num": 261178,
+      "word": "世界杯",
+      "onboard_time": 1668352649,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 260913,
@@ -2681,14 +2777,6 @@
       "onboard_time": 1668526472,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254957,
-      "num": 254957,
-      "word": "买羽绒服要看吊牌上的绒子含量",
-      "onboard_time": 1668562949,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254267,
@@ -2899,6 +2987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232450,
+      "num": 225459,
+      "word": "韩剧cheerup男二未上位",
+      "onboard_time": 1668568528,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231823,
       "num": 231823,
       "word": "内马尔停下35米高空球",
@@ -2964,7 +3060,7 @@
     },
     {
       "raw_hot": 228810,
-      "num": 870847,
+      "num": 1032646,
       "word": "巴厘岛G20时间",
       "onboard_time": 1668513508,
       "rank": 2,
@@ -3027,14 +3123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224801,
-      "num": 224801,
-      "word": "女子买小吃被套路一小条变半袋",
-      "onboard_time": 1668564390,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224782,
       "num": 224782,
       "word": "疑因就餐起冲突男子疯狂殴打多人",
@@ -3072,6 +3160,14 @@
       "word": "朱韵离家出走",
       "onboard_time": 1668439946,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220424,
+      "num": 220424,
+      "word": "您好北京九城联动人间温暖",
+      "onboard_time": 1668568409,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3483,6 +3579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189852,
+      "num": 189852,
+      "word": "我国慢阻肺病患者近1亿人",
+      "onboard_time": 1668563609,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189781,
       "num": 189781,
       "word": "小男孩展示自家红薯库惊呆网友",
@@ -3547,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184495,
-      "num": 184495,
-      "word": "世界杯",
-      "onboard_time": 1668352649,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184153,
       "num": 184153,
       "word": "李峋朱韵耳鬓厮磨",
@@ -3569,6 +3665,14 @@
       "onboard_time": 1668460931,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 182773,
+      "num": 182773,
+      "word": "曼联高层认为没有C罗会更好",
+      "onboard_time": 1668565346,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 182191,
@@ -3617,6 +3721,14 @@
       "onboard_time": 1668411149,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177904,
+      "num": 177904,
+      "word": "大学生打麻将被罚画600个幺鸡",
+      "onboard_time": 1668568409,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177234,
@@ -3681,14 +3793,6 @@
       "onboard_time": 1668482608,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 173267,
-      "num": 173267,
-      "word": "我国慢阻肺病患者近1亿人",
-      "onboard_time": 1668563609,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172056,
@@ -3865,6 +3969,14 @@
       "onboard_time": 1668492392,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 161767,
+      "num": 161767,
+      "word": "马嘉祺我们的歌唱月亮预告",
+      "onboard_time": 1668566428,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 161730,
@@ -4515,12 +4627,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126589,
-      "num": 126589,
-      "word": "曼联高层认为没有C罗会更好",
-      "onboard_time": 1668565346,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 125932,
+      "num": 134188,
+      "word": "校方回应阿姨徒手装回散落米饭",
+      "onboard_time": 1668568589,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125916,

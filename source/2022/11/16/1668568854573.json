@@ -1,0 +1,410 @@
+{
+  "runTime": 1668568854573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1534093,
+        "num": 1534093,
+        "word": "特朗普正式宣布参选",
+        "onboard_time": 1668565826,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1458637,
+        "num": 1458637,
+        "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+        "onboard_time": 1668565708,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46169,
+        "num": 1032646,
+        "word": "巴厘岛G20时间",
+        "onboard_time": 1668513508,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 908437,
+        "num": 908437,
+        "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+        "onboard_time": 1668562469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566190,
+        "num": 566190,
+        "word": "女子买小吃被套路一小条变半袋",
+        "onboard_time": 1668564390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1817368,
+        "num": 559787,
+        "word": "北京大学1名学生核酸阳性",
+        "onboard_time": 1668563126,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494354,
+        "num": 494354,
+        "word": "cheerup编剧是懂观众的",
+        "onboard_time": 1668564027,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479533,
+        "num": 479533,
+        "word": "张文宏称走出疫情靠的是科技",
+        "onboard_time": 1668543854,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474410,
+        "num": 474410,
+        "word": "广东新增无症状感染者6215例",
+        "onboard_time": 1668562228,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410939,
+        "num": 410939,
+        "word": "卿卿日常是卿卿草原吧",
+        "onboard_time": 1668566667,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496563,
+        "num": 409675,
+        "word": "四川凉山会理4.3级地震",
+        "onboard_time": 1668567808,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385330,
+        "num": 385330,
+        "word": "谈恋爱要不要在朋友圈公开",
+        "onboard_time": 1668527909,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378335,
+        "num": 378335,
+        "word": "王一栩晒苍兰诀新剧照",
+        "onboard_time": 1668560912,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376519,
+        "num": 376519,
+        "word": "MAMA舞台剧透",
+        "onboard_time": 1668566247,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367837,
+        "num": 367837,
+        "word": "C罗已被移出曼联群聊",
+        "onboard_time": 1668555264,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358242,
+        "num": 358242,
+        "word": "王海回应打假疯狂小杨哥",
+        "onboard_time": 1668554241,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355116,
+        "num": 355116,
+        "word": "高见鸿透露李峋的软肋给方志靖",
+        "onboard_time": 1668568348,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338419,
+        "num": 338419,
+        "word": "杨幂肖砚再见了",
+        "onboard_time": 1668568166,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326398,
+        "num": 326398,
+        "word": "2022LPL全明星",
+        "onboard_time": 1668568109,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303160,
+        "num": 303160,
+        "word": "成都多地连发毒狗事件",
+        "onboard_time": 1668556710,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 301261,
+        "num": 301261,
+        "word": "广州男子边抽烟边跑马拉松火到国外",
+        "onboard_time": 1668557731,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295077,
+        "num": 295077,
+        "word": "广州新增无症状感染者6138例",
+        "onboard_time": 1668562410,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279378,
+        "num": 279378,
+        "word": "工作人员否认陈道明演庆余年2",
+        "onboard_time": 1668555325,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269120,
+        "num": 269120,
+        "word": "银行行长退休后当群演4天赚1200",
+        "onboard_time": 1668523955,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268954,
+        "num": 268954,
+        "word": "鹿晗 紧张",
+        "onboard_time": 1668527368,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268419,
+        "num": 268419,
+        "word": "买羽绒服要看吊牌上的绒子含量",
+        "onboard_time": 1668562949,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267001,
+        "num": 267001,
+        "word": "田曦薇时尚先生红毯造型",
+        "onboard_time": 1668563487,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264045,
+        "num": 264045,
+        "word": "大脸猫确实不适合戴帽子",
+        "onboard_time": 1668560250,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261178,
+        "num": 261178,
+        "word": "世界杯",
+        "onboard_time": 1668566187,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225608,
+        "num": 225608,
+        "word": "波兰政府确认爆炸致两人死亡",
+        "onboard_time": 1668556710,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 265895,
+        "num": 225585,
+        "word": "命运关上了李峋所有的窗",
+        "onboard_time": 1668567629,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232450,
+        "num": 225459,
+        "word": "韩剧cheerup男二未上位",
+        "onboard_time": 1668568528,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225169,
+        "num": 225169,
+        "word": "女子网购牛仔裤竟在里面发现内裤",
+        "onboard_time": 1668522029,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220424,
+        "num": 220424,
+        "word": "您好北京九城联动人间温暖",
+        "onboard_time": 1668568409,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210094,
+        "num": 210094,
+        "word": "男子在井盖下为儿子建秘密基地",
+        "onboard_time": 1668560912,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209342,
+        "num": 209342,
+        "word": "给对象连发三条想你了",
+        "onboard_time": 1668529644,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 199955,
+        "word": "请允许国产电视剧里有中女的存在",
+        "onboard_time": 1668520231,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189852,
+        "num": 189852,
+        "word": "我国慢阻肺病患者近1亿人",
+        "onboard_time": 1668563609,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182773,
+        "num": 182773,
+        "word": "曼联高层认为没有C罗会更好",
+        "onboard_time": 1668565346,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182369,
+        "num": 182369,
+        "word": "原来迟到的还是同一批人",
+        "onboard_time": 1668561809,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180855,
+        "num": 180855,
+        "word": "重庆面临最严峻疫情形势",
+        "onboard_time": 1668529165,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177904,
+        "num": 177904,
+        "word": "大学生打麻将被罚画600个幺鸡",
+        "onboard_time": 1668568409,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176739,
+        "num": 176739,
+        "word": "女大学生干保洁在郑州买下两套房两辆车",
+        "onboard_time": 1668526412,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173780,
+        "num": 173780,
+        "word": "11月15日新增本土无症状18491例",
+        "onboard_time": 1668563427,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 169431,
+        "word": "预测脱口秀大会第五季冠军",
+        "onboard_time": 1668530724,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161767,
+        "num": 161767,
+        "word": "马嘉祺我们的歌唱月亮预告",
+        "onboard_time": 1668566428,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145104,
+        "num": 145104,
+        "word": "1型糖尿病一般青少年期发病",
+        "onboard_time": 1668559891,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144821,
+        "num": 144821,
+        "word": "北京新增本土确诊197例",
+        "onboard_time": 1668558681,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135160,
+        "num": 135160,
+        "word": "中国女排首夺世界冠军41周年",
+        "onboard_time": 1668554782,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 134188,
+        "word": "校方回应阿姨徒手装回散落米饭",
+        "onboard_time": 1668568589,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#G20峰会金句#"
+    }
+  }
+}
