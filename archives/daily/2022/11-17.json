@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668638249869,
+  "endTime": 1668640891879,
   "band_list": [
     {
       "raw_hot": 1486624,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647578,
-      "num": 647578,
+      "raw_hot": 964098,
+      "num": 964098,
       "word": "北京部分感染者出现症状仍参加社会活动",
       "onboard_time": 1668591927,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806648,
+      "num": 806648,
+      "word": "真实的石家庄到底是什么样",
+      "onboard_time": 1668618558,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1668601228,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447441,
+      "num": 447441,
+      "word": "90后双胞胎同框如相差30岁的母女",
+      "onboard_time": 1668612991,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404301,
@@ -83,14 +99,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 352996,
-      "num": 352996,
-      "word": "90后双胞胎同框如相差30岁的母女",
-      "onboard_time": 1668612991,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "肖砚白术be了",
@@ -107,20 +115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324992,
+      "num": 324992,
+      "word": "马斯克称人口崩溃已是必然",
+      "onboard_time": 1668630791,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 322640,
       "num": 277009,
       "word": "命韵峋环两个疯子天生一对",
       "onboard_time": 1668613171,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313231,
-      "num": 313231,
-      "word": "真实的石家庄到底是什么样",
-      "onboard_time": 1668618558,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304095,
@@ -139,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277917,
-      "num": 277917,
+      "raw_hot": 294899,
+      "num": 294899,
       "word": "女子独居农村月入1千称很快乐",
       "onboard_time": 1668607772,
       "rank": 9,
@@ -220,19 +228,35 @@
     },
     {
       "raw_hot": 207716,
-      "num": 105226,
+      "num": 174017,
       "word": "王一博的舞台后劲有多大",
       "onboard_time": 1668614787,
       "rank": 32,
       "category": "综艺"
     },
     {
+      "raw_hot": 205089,
+      "num": 205089,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204832,
-      "num": 104314,
+      "num": 128059,
       "word": "纽约中餐厅为张伟丽延迟关门",
       "onboard_time": 1668613349,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204612,
+      "num": 204612,
+      "word": "江母诉刘鑫案22日二审第二次开庭",
+      "onboard_time": 1668619217,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193454,
@@ -283,20 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157588,
-      "num": 157588,
-      "word": "江母诉刘鑫案22日二审第二次开庭",
-      "onboard_time": 1668619217,
-      "rank": 43,
+      "raw_hot": 138553,
+      "num": 138553,
+      "word": "2岁幼童被卡邻家男孩钻墙缝救出",
+      "onboard_time": 1668616283,
+      "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141808,
-      "num": 141808,
-      "word": "马斯克称人口崩溃已是必然",
-      "onboard_time": 1668630791,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 128964,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 118574,
-      "num": 68363,
+      "num": 107728,
       "word": "吴磊说散个消食步",
       "onboard_time": 1668618438,
       "rank": 34,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104270,
+      "num": 104270,
+      "word": "吉吉国王脸盲不是演的",
+      "onboard_time": 1668599850,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103524,
       "num": 103524,
       "word": "微信新增删除声音锁功能",
@@ -363,11 +387,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98412,
-      "num": 98412,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
+      "raw_hot": 97608,
+      "num": 97608,
+      "word": "养仓鼠这件事仓鼠最不值钱",
+      "onboard_time": 1668617361,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -393,14 +417,6 @@
       "onboard_time": 1668590909,
       "rank": 39,
       "category": "财经,时尚"
-    },
-    {
-      "raw_hot": 87353,
-      "num": 87353,
-      "word": "养仓鼠这件事仓鼠最不值钱",
-      "onboard_time": 1668617361,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 86991,
@@ -443,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76880,
-      "num": 76880,
-      "word": "2岁幼童被卡邻家男孩钻墙缝救出",
-      "onboard_time": 1668616283,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 77826,
+      "num": 77826,
+      "word": "舔狗有多能舔",
+      "onboard_time": 1668638355,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 73098,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57754,
+      "num": 57754,
+      "word": "井胧说中国帅哥千千万嘉尚占一半",
+      "onboard_time": 1668632772,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49187,
       "num": 33744,
       "word": "田曦薇早期旧照",
@@ -499,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30442,
-      "num": 25250,
-      "word": "井胧说中国帅哥千千万嘉尚占一半",
-      "onboard_time": 1668632772,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 33024,
+      "num": 537100,
+      "word": "沉浸式看神十四航天员工作",
+      "onboard_time": 1668616941,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 27210,
@@ -521,14 +545,6 @@
       "onboard_time": 1668630431,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22249,
-      "num": 514434,
-      "word": "沉浸式看神十四航天员工作",
-      "onboard_time": 1668616941,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 21690,
