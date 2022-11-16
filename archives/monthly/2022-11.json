@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668588252817,
+  "endTime": 1668590457189,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -2307,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121190,
+      "num": 1121190,
+      "word": "微信新增删除声音锁功能",
+      "onboard_time": 1668585029,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1121148,
       "num": 747016,
       "word": "女子网购牛仔裤竟在里面发现内裤",
@@ -2651,6 +2659,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1035827,
+      "num": 1035827,
+      "word": "46岁妈妈订立遗嘱财产只留给儿子",
+      "onboard_time": 1668585867,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033042,
       "num": 1033042,
       "word": "日本网红下恒河后一小时身体不适",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1667880029,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1028425,
-      "num": 1028425,
-      "word": "微信新增删除声音锁功能",
-      "onboard_time": 1668585029,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 1028366,
@@ -3536,14 +3544,6 @@
       "word": "波司登回应先涨后跌仅便宜0.28元",
       "onboard_time": 1668125488,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 878335,
-      "num": 878335,
-      "word": "46岁妈妈订立遗嘱财产只留给儿子",
-      "onboard_time": 1668585867,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -4528,6 +4528,14 @@
       "word": "李庚希 妆",
       "onboard_time": 1668260019,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 737015,
+      "num": 402845,
+      "word": "李峋朱韵的孩子",
+      "onboard_time": 1668587068,
+      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -7011,14 +7019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535149,
-      "num": 402845,
-      "word": "李峋朱韵的孩子",
-      "onboard_time": 1668587068,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 534704,
       "num": 534704,
       "word": "北京疫情新闻发布会",
@@ -9259,6 +9259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435412,
+      "num": 324006,
+      "word": "北京新增社会面32例",
+      "onboard_time": 1668588810,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435357,
       "num": 435357,
       "word": "吴谨言古装仙气",
@@ -11315,6 +11323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366274,
+      "num": 366274,
+      "word": "宁波女教师勇救交警获一等功",
+      "onboard_time": 1668585389,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 365239,
       "num": 365239,
       "word": "小朋友对洞洞的执念有多大",
@@ -13251,6 +13267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314957,
+      "num": 314957,
+      "word": "吴卓羲向食客道歉",
+      "onboard_time": 1668588148,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314934,
       "num": 314934,
       "word": "苹果发布iOS16.1.1正式版",
@@ -14507,6 +14531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284909,
+      "num": 231799,
+      "word": "朱韵与全世界为敌",
+      "onboard_time": 1668589890,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284650,
       "num": 284650,
       "word": "aespa没有年末舞台",
@@ -14657,14 +14689,6 @@
       "onboard_time": 1668243269,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281120,
-      "num": 281120,
-      "word": "宁波女教师勇救交警获一等功",
-      "onboard_time": 1668585389,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 281101,
@@ -15379,6 +15403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267716,
+      "num": 231760,
+      "word": "元英和袁善见好配",
+      "onboard_time": 1668588810,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267650,
       "num": 190962,
       "word": "周也直播动图",
@@ -16025,6 +16057,14 @@
       "onboard_time": 1667986347,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253468,
+      "num": 253468,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 253240,
@@ -17091,6 +17131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231821,
+      "num": 231821,
+      "word": "这谁舍得吃啊",
+      "onboard_time": 1668587727,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231757,
       "num": 140366,
       "word": "90后女生下班时间拍电影获金鸡奖",
@@ -17385,6 +17433,14 @@
       "onboard_time": 1667926101,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227616,
+      "num": 179607,
+      "word": "买NIKE不合适客服称鞋盒破损拒退款",
+      "onboard_time": 1668589348,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227569,
@@ -18643,14 +18699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209169,
-      "num": 209169,
-      "word": "美国登月火箭发射升空",
-      "onboard_time": 1668586287,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 209162,
       "num": 209162,
       "word": "老父爱子同患重症80后男子崩溃大哭",
@@ -18929,6 +18977,14 @@
       "onboard_time": 1667643806,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 205032,
+      "num": 205032,
+      "word": "iPhone14卫星紧急求救正式上线",
+      "onboard_time": 1668586528,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 205031,
@@ -20395,6 +20451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184925,
+      "num": 173396,
+      "word": "心疼张婧仪朱韵",
+      "onboard_time": 1668590308,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184745,
       "num": 174978,
       "word": "脱口秀大会选顺序",
@@ -20625,6 +20689,14 @@
       "onboard_time": 1668220051,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181897,
+      "num": 181897,
+      "word": "山东省考",
+      "onboard_time": 1668588449,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 181664,
@@ -21587,6 +21659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168546,
+      "num": 168546,
+      "word": "广州一抗疫志愿者被网约车司机免单",
+      "onboard_time": 1668588750,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 168475,
       "num": 168475,
       "word": "生机郑州全力以复",
@@ -21673,14 +21753,6 @@
       "onboard_time": 1667560231,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167070,
-      "num": 167070,
-      "word": "iPhone14卫星紧急求救正式上线",
-      "onboard_time": 1668586528,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 167057,
@@ -23411,6 +23483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147982,
+      "num": 147982,
+      "word": "性别教育到底有多重要",
+      "onboard_time": 1668589529,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147963,
       "num": 132626,
       "word": "再见爱人",
@@ -24593,14 +24673,6 @@
       "onboard_time": 1667529324,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136779,
-      "num": 136779,
-      "word": "这谁舍得吃啊",
-      "onboard_time": 1668587727,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 136766,
@@ -26401,6 +26473,14 @@
       "onboard_time": 1667733266,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "BeryL直播原神",
+      "onboard_time": 1668590009,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 118510,
@@ -30545,6 +30625,14 @@
       "onboard_time": 1667715986,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81309,
+      "num": 81309,
+      "word": "女子炒股亏百万花4万转运后又亏",
+      "onboard_time": 1668590430,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81121,

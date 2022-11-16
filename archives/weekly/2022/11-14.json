@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668588252817,
+  "endTime": 1668590457189,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121190,
+      "num": 1121190,
+      "word": "微信新增删除声音锁功能",
+      "onboard_time": 1668585029,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1121148,
       "num": 747016,
       "word": "女子网购牛仔裤竟在里面发现内裤",
@@ -499,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1028425,
-      "num": 1028425,
-      "word": "微信新增删除声音锁功能",
-      "onboard_time": 1668585029,
-      "rank": 3,
-      "category": "科技"
+      "raw_hot": 1035827,
+      "num": 1035827,
+      "word": "46岁妈妈订立遗嘱财产只留给儿子",
+      "onboard_time": 1668585867,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1028366,
@@ -715,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 878335,
-      "num": 878335,
-      "word": "46岁妈妈订立遗嘱财产只留给儿子",
-      "onboard_time": 1668585867,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 878261,
       "num": 878261,
       "word": "班主任出嫁全班男生爬墙堵门",
@@ -889,6 +889,14 @@
       "onboard_time": 1668398249,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 737015,
+      "num": 402845,
+      "word": "李峋朱韵的孩子",
+      "onboard_time": 1668587068,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 726367,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1668480809,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535149,
-      "num": 402845,
-      "word": "李峋朱韵的孩子",
-      "onboard_time": 1668587068,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 534661,
@@ -1819,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435412,
+      "num": 324006,
+      "word": "北京新增社会面32例",
+      "onboard_time": 1668588810,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432219,
       "num": 379612,
       "word": "乒乓球世界冠军朱雨玲病愈归来",
@@ -2283,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366274,
+      "num": 366274,
+      "word": "宁波女教师勇救交警获一等功",
+      "onboard_time": 1668585389,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 364363,
       "num": 364363,
       "word": "肖战顾魏V榜角色指数峰值TOP1",
@@ -2667,6 +2683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 314957,
+      "num": 314957,
+      "word": "吴卓羲向食客道歉",
+      "onboard_time": 1668588148,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314802,
       "num": 314802,
       "word": "苹果混合现实头显或明年发布",
@@ -2883,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284909,
+      "num": 231799,
+      "word": "朱韵与全世界为敌",
+      "onboard_time": 1668589890,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284650,
       "num": 284650,
       "word": "aespa没有年末舞台",
@@ -2929,14 +2961,6 @@
       "onboard_time": 1668403948,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281120,
-      "num": 281120,
-      "word": "宁波女教师勇救交警获一等功",
-      "onboard_time": 1668585389,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 280157,
@@ -3080,6 +3104,14 @@
       "word": "命运关上了李峋所有的窗",
       "onboard_time": 1668567629,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 267716,
+      "num": 231760,
+      "word": "元英和袁善见好配",
+      "onboard_time": 1668588810,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -3241,6 +3273,14 @@
       "onboard_time": 1668569485,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253468,
+      "num": 253468,
+      "word": "美国登月火箭发射升空",
+      "onboard_time": 1668586287,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 252215,
@@ -3467,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231821,
+      "num": 231821,
+      "word": "这谁舍得吃啊",
+      "onboard_time": 1668587727,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231745,
       "num": 231745,
       "word": "白敬亭六少主尹峥的老六行为",
@@ -3545,6 +3593,14 @@
       "onboard_time": 1668406708,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227616,
+      "num": 179607,
+      "word": "买NIKE不合适客服称鞋盒破损拒退款",
+      "onboard_time": 1668589348,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227526,
@@ -3827,14 +3883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209169,
-      "num": 209169,
-      "word": "美国登月火箭发射升空",
-      "onboard_time": 1668586287,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 209162,
       "num": 209162,
       "word": "老父爱子同患重症80后男子崩溃大哭",
@@ -3905,6 +3953,14 @@
       "onboard_time": 1668363314,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205032,
+      "num": 205032,
+      "word": "iPhone14卫星紧急求救正式上线",
+      "onboard_time": 1668586528,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 204591,
@@ -4179,6 +4235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184925,
+      "num": 173396,
+      "word": "心疼张婧仪朱韵",
+      "onboard_time": 1668590308,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "迪丽热巴网络侵权案胜诉获赔",
@@ -4225,6 +4289,14 @@
       "onboard_time": 1668424768,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181897,
+      "num": 181897,
+      "word": "山东省考",
+      "onboard_time": 1668588449,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 180777,
@@ -4403,6 +4475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168546,
+      "num": 168546,
+      "word": "广州一抗疫志愿者被网约车司机免单",
+      "onboard_time": 1668588750,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 167864,
       "num": 167864,
       "word": "带着全家七口北漂是种什么体验",
@@ -4417,14 +4497,6 @@
       "onboard_time": 1668428309,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167070,
-      "num": 167070,
-      "word": "iPhone14卫星紧急求救正式上线",
-      "onboard_time": 1668586528,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 166884,
@@ -4787,6 +4859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147982,
+      "num": 147982,
+      "word": "性别教育到底有多重要",
+      "onboard_time": 1668589529,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "刘令姿元英打算盘打出残影",
@@ -5099,14 +5179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136779,
-      "num": 136779,
-      "word": "这谁舍得吃啊",
-      "onboard_time": 1668587727,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 136651,
       "num": 128247,
       "word": "椰树女郎穿羽绒服直播跳拉货操",
@@ -5369,6 +5441,14 @@
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "BeryL直播原神",
+      "onboard_time": 1668590009,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 117092,
@@ -5928,6 +6008,14 @@
       "word": "80亿人口对世界意味着什么",
       "onboard_time": 1668537853,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81309,
+      "num": 81309,
+      "word": "女子炒股亏百万花4万转运后又亏",
+      "onboard_time": 1668590430,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
