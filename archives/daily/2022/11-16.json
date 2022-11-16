@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668572954206,
+  "endTime": 1668574063991,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -59,11 +59,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1028366,
+      "num": 599476,
+      "word": "韩剧cheerup女主没选男二",
+      "onboard_time": 1668573450,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1017802,
       "num": 613110,
       "word": "韩剧cheerup男二未上位",
       "onboard_time": 1668568528,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 969228,
+      "num": 969228,
+      "word": "央媒评头部带货主播遭打假",
+      "onboard_time": 1668570507,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 959623,
+      "num": 959623,
+      "word": "李峋唯独没想到公主没有他会发疯",
+      "onboard_time": 1668572487,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -99,14 +123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 844473,
-      "num": 844473,
-      "word": "央媒评头部带货主播遭打假",
-      "onboard_time": 1668570507,
-      "rank": 3,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 835796,
       "num": 835796,
       "word": "银行行长退休后当群演4天赚1200",
@@ -139,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688534,
+      "num": 688534,
+      "word": "易立竞提问张婉婷",
+      "onboard_time": 1668571169,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 680375,
       "num": 680375,
       "word": "广东新增无症状感染者6215例",
@@ -161,14 +185,6 @@
       "onboard_time": 1668522029,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612086,
-      "num": 612086,
-      "word": "易立竞提问张婉婷",
-      "onboard_time": 1668571169,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 609678,
@@ -209,6 +225,14 @@
       "onboard_time": 1668568109,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 592973,
+      "num": 475041,
+      "word": "拜登称波兰爆炸导弹可能不是从俄发射",
+      "onboard_time": 1668571528,
+      "rank": 11,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 546345,
@@ -267,28 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462853,
-      "num": 462853,
-      "word": "拜登称波兰爆炸导弹可能不是从俄发射",
-      "onboard_time": 1668571528,
-      "rank": 11,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 458195,
       "num": 458195,
       "word": "广州新增无症状感染者6138例",
       "onboard_time": 1668562410,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433426,
-      "num": 433426,
-      "word": "李峋唯独没想到公主没有他会发疯",
-      "onboard_time": 1668572487,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 417451,
@@ -299,12 +307,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411769,
+      "num": 327110,
+      "word": "95后四小生推荐",
+      "onboard_time": 1668573928,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409876,
       "num": 409876,
       "word": "校方回应阿姨徒手装回散落米饭",
       "onboard_time": 1668568589,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 395562,
+      "num": 395562,
+      "word": "辽宁研考",
+      "onboard_time": 1668571649,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 383813,
@@ -387,6 +411,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327189,
+      "num": 327189,
+      "word": "cheerup 弃剧",
+      "onboard_time": 1668573570,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326024,
+      "num": 326024,
+      "word": "陈飞宇读周京泽台词",
+      "onboard_time": 1668573389,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323273,
       "num": 323273,
       "word": "广州抗疫进行时",
@@ -411,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314162,
+      "num": 314162,
+      "word": "建行",
+      "onboard_time": 1668573089,
+      "rank": 23,
+      "category": "财经,教育"
+    },
+    {
+      "raw_hot": 311702,
+      "num": 311702,
+      "word": "新人LIN官宣",
+      "onboard_time": 1668573389,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308289,
       "num": 308289,
       "word": "1型糖尿病一般青少年期发病",
@@ -427,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297683,
-      "num": 297683,
-      "word": "辽宁研考",
-      "onboard_time": 1668571649,
-      "rank": 21,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 297081,
       "num": 297081,
       "word": "背叛的人下地狱",
       "onboard_time": 1668524852,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295190,
+      "num": 295190,
+      "word": "深大校长称要培养出10位马化腾级校友",
+      "onboard_time": 1668571886,
+      "rank": 34,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 289988,
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 253880,
-      "num": 206240,
+      "num": 215850,
       "word": "公主日记将拍第三部",
       "onboard_time": 1668569485,
       "rank": 40,
@@ -595,6 +651,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 211690,
+      "num": 223050,
+      "word": "15岁高中生离开宿舍后失踪一月",
+      "onboard_time": 1668572729,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 207385,
       "num": 207385,
       "word": "11月15日新增本土无症状18491例",
@@ -625,14 +689,6 @@
       "onboard_time": 1668554423,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198131,
-      "num": 198131,
-      "word": "深大校长称要培养出10位马化腾级校友",
-      "onboard_time": 1668571886,
-      "rank": 34,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 195509,
@@ -723,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176234,
+      "num": 176234,
+      "word": "拜登称特朗普辜负了美国",
+      "onboard_time": 1668573570,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 176158,
       "num": 117195,
       "word": "这就是在逃公主本人吧",
@@ -761,6 +825,14 @@
       "onboard_time": 1668566428,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157252,
+      "num": 157252,
+      "word": "厂家回应工人徒手抓水果放罐头里",
+      "onboard_time": 1668571768,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149679,
@@ -843,14 +915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132171,
-      "num": 132171,
-      "word": "厂家回应工人徒手抓水果放罐头里",
-      "onboard_time": 1668571768,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "原来被爱真的很重要",
@@ -873,14 +937,6 @@
       "onboard_time": 1668536595,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127075,
-      "num": 127075,
-      "word": "15岁高中生离开宿舍后失踪一月",
-      "onboard_time": 1668572729,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 123720,
@@ -939,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104194,
+      "num": 113435,
+      "word": "女子晒香飘飘果茶发霉长木耳",
+      "onboard_time": 1668574050,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100322,
       "num": 100322,
       "word": "原来猪朋狗友是这样来的",
@@ -995,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84801,
+      "num": 1045439,
+      "word": "坚决打赢关键核心技术攻坚战",
+      "onboard_time": 1668571110,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 82463,
       "num": 82463,
       "word": "80亿人口对世界意味着什么",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1668555264,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67485,
-      "num": 1045439,
-      "word": "坚决打赢关键核心技术攻坚战",
-      "onboard_time": 1668571110,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 48443,
