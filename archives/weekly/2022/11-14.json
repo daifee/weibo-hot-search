@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668580010036,
+  "endTime": 1668580984302,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544707,
+      "num": 426539,
+      "word": "刘强东捐赠149亿首次成为中国首善",
+      "onboard_time": 1668577588,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1534093,
       "num": 1534093,
       "word": "特朗普正式宣布参选",
@@ -297,14 +305,6 @@
       "onboard_time": 1668568409,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1318753,
-      "num": 426539,
-      "word": "刘强东捐赠149亿首次成为中国首善",
-      "onboard_time": 1668577588,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1317236,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779861,
+      "num": 645659,
+      "word": "霍建华在演一种很新的东西",
+      "onboard_time": 1668578486,
+      "rank": 7,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 768951,
       "num": 768951,
       "word": "跨省游客凭48小时核酸证明乘交通工具",
@@ -1027,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 631846,
+      "num": 631846,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 625743,
       "num": 487297,
       "word": "特斯拉潮州失控事故家属视频回应",
@@ -1147,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567625,
+      "num": 567625,
+      "word": "二胎宝妈2个半月减20斤年轻20岁",
+      "onboard_time": 1668575728,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562573,
       "num": 562573,
       "word": "医生飞针采血被赞蚊子投胎",
@@ -1201,22 +1225,6 @@
       "onboard_time": 1668573928,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 550942,
-      "num": 550942,
-      "word": "二胎宝妈2个半月减20斤年轻20岁",
-      "onboard_time": 1668575728,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549902,
-      "num": 549902,
-      "word": "霍建华在演一种很新的东西",
-      "onboard_time": 1668578486,
-      "rank": 7,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 546816,
@@ -1811,6 +1819,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 422285,
+      "num": 422285,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 421885,
       "num": 421885,
       "word": "张婉婷哭着自我反省",
@@ -1963,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400605,
-      "num": 400605,
-      "word": "芭莎工作人员说沈腾真没咋P图",
-      "onboard_time": 1668579506,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 400159,
       "num": 400159,
       "word": "徐志胜说吾与鹿晗孰美",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1668396147,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 393949,
-      "num": 393949,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 393624,
@@ -2451,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332309,
+      "num": 332309,
+      "word": "美官员称击中波兰的导弹为乌克兰发射",
+      "onboard_time": 1668578367,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 331052,
       "num": 331052,
       "word": "男子脚踹2个月流浪猫致死",
@@ -2563,14 +2571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 314588,
-      "num": 314588,
-      "word": "美官员称击中波兰的导弹为乌克兰发射",
-      "onboard_time": 1668578367,
-      "rank": 15,
-      "category": "军事"
-    },
-    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
@@ -2627,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307586,
+      "num": 307586,
+      "word": "点燃我温暖你12月6日收官",
+      "onboard_time": 1668577106,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306645,
       "num": 306645,
       "word": "你介意另一半从不做家务吗",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1668560912,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299398,
-      "num": 299398,
-      "word": "点燃我温暖你12月6日收官",
-      "onboard_time": 1668577106,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 298401,
@@ -2689,6 +2689,14 @@
       "onboard_time": 1668508228,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294139,
+      "num": 294139,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 294042,
@@ -2739,6 +2747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 287474,
+      "num": 287474,
+      "word": "DK官宣Nuguri离队",
+      "onboard_time": 1668579388,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285795,
       "num": 285795,
       "word": "卿卿日常反转",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1668351453,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284345,
+      "num": 284345,
+      "word": "村民不出村仨月把石榴卖出上千万",
+      "onboard_time": 1668576744,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283315,
@@ -2955,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265508,
+      "num": 265508,
+      "word": "巴西队想堵住管泽元的嘴",
+      "onboard_time": 1668578967,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264797,
       "num": 264797,
       "word": "原来被爱真的很重要",
@@ -3091,14 +3123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250688,
-      "num": 250688,
-      "word": "村民不出村仨月把石榴卖出上千万",
-      "onboard_time": 1668576744,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249871,
       "num": 197898,
       "word": "院人是懂团建的",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1668470848,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237600,
+      "num": 237600,
+      "word": "建行客服回应转账失败",
+      "onboard_time": 1668580107,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 236154,
@@ -3537,14 +3569,6 @@
       "onboard_time": 1668432870,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213128,
-      "num": 213128,
-      "word": "巴西队想堵住管泽元的嘴",
-      "onboard_time": 1668578967,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 212830,
@@ -4011,6 +4035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180188,
+      "num": 180188,
+      "word": "女孩接诈骗电话声音夸张吓退骗子",
+      "onboard_time": 1668578009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179671,
       "num": 128322,
       "word": "SuperM最新练习室公开",
@@ -4089,6 +4121,14 @@
       "onboard_time": 1668505170,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174118,
+      "num": 162205,
+      "word": "周柏豪吃土笋冻的反应演我",
+      "onboard_time": 1668580827,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 173593,
@@ -4467,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152343,
-      "num": 152343,
-      "word": "DK官宣Nuguri离队",
-      "onboard_time": 1668579388,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152220,
       "num": 152220,
       "word": "缅因猫因太胖被误当猞猁送到保护站",
@@ -4585,14 +4617,6 @@
       "onboard_time": 1668562768,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146226,
-      "num": 146226,
-      "word": "女孩接诈骗电话声音夸张吓退骗子",
-      "onboard_time": 1668578009,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146063,
@@ -4729,6 +4753,14 @@
       "onboard_time": 1668435871,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "sls",
+      "onboard_time": 1668579267,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 141159,
@@ -4891,20 +4923,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133993,
-      "num": 133993,
-      "word": "iPhone14Pro息屏可不显示壁纸",
-      "onboard_time": 1668579689,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "原来秋冬围巾可以这么系",
       "onboard_time": 1668433529,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 132706,
+      "num": 132706,
+      "word": "熊猫亲自演示如何rua熊猫",
+      "onboard_time": 1668579629,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132647,
@@ -5131,14 +5163,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 114017,
-      "num": 114017,
-      "word": "熊猫亲自演示如何rua熊猫",
-      "onboard_time": 1668579629,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114010,
       "num": 114010,
       "word": "找工作看重工资还是成长空间",
@@ -5153,14 +5177,6 @@
       "onboard_time": 1668547932,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 113186,
-      "num": 113186,
-      "word": "sls",
-      "onboard_time": 1668579267,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 112646,

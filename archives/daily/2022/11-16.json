@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668580010036,
+  "endTime": 1668580984302,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -17,6 +17,14 @@
       "onboard_time": 1668565708,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1544707,
+      "num": 426539,
+      "word": "刘强东捐赠149亿首次成为中国首善",
+      "onboard_time": 1668577588,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1534093,
@@ -49,14 +57,6 @@
       "onboard_time": 1668568409,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1318753,
-      "num": 426539,
-      "word": "刘强东捐赠149亿首次成为中国首善",
-      "onboard_time": 1668577588,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1270795,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779861,
+      "num": 645659,
+      "word": "霍建华在演一种很新的东西",
+      "onboard_time": 1668578486,
+      "rank": 7,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 763194,
       "num": 763194,
       "word": "广州男子边抽烟边跑马拉松火到国外",
@@ -209,6 +217,14 @@
       "onboard_time": 1668560250,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 631846,
+      "num": 631846,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 629271,
@@ -267,28 +283,20 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 551949,
-      "num": 327110,
-      "word": "95后四小生推荐",
-      "onboard_time": 1668573928,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 550942,
-      "num": 550942,
+      "raw_hot": 567625,
+      "num": 567625,
       "word": "二胎宝妈2个半月减20斤年轻20岁",
       "onboard_time": 1668575728,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549902,
-      "num": 549902,
-      "word": "霍建华在演一种很新的东西",
-      "onboard_time": 1668578486,
-      "rank": 7,
-      "category": "影视,幽默"
+      "raw_hot": 551949,
+      "num": 327110,
+      "word": "95后四小生推荐",
+      "onboard_time": 1668573928,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 546345,
@@ -379,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422285,
+      "num": 422285,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 417451,
       "num": 417451,
       "word": "格莱美",
@@ -395,28 +411,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 400605,
-      "num": 400605,
-      "word": "芭莎工作人员说沈腾真没咋P图",
-      "onboard_time": 1668579506,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 395562,
       "num": 395562,
       "word": "辽宁研考",
       "onboard_time": 1668571649,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 393949,
-      "num": 393949,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 383813,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332309,
+      "num": 332309,
+      "word": "美官员称击中波兰的导弹为乌克兰发射",
+      "onboard_time": 1668578367,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 329423,
       "num": 275052,
       "word": "GQ总编说会邀请虞书欣王鹤棣",
@@ -539,14 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314588,
-      "num": 314588,
-      "word": "美官员称击中波兰的导弹为乌克兰发射",
-      "onboard_time": 1668578367,
-      "rank": 15,
-      "category": "军事"
-    },
-    {
       "raw_hot": 311702,
       "num": 311702,
       "word": "新人LIN官宣",
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307586,
+      "num": 307586,
+      "word": "点燃我温暖你12月6日收官",
+      "onboard_time": 1668577106,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302848,
       "num": 302848,
       "word": "男子在井盖下为儿子建秘密基地",
@@ -579,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299398,
-      "num": 299398,
-      "word": "点燃我温暖你12月6日收官",
-      "onboard_time": 1668577106,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 297081,
       "num": 297081,
       "word": "背叛的人下地狱",
       "onboard_time": 1668524852,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294139,
+      "num": 294139,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 292983,
@@ -619,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287474,
+      "num": 287474,
+      "word": "DK官宣Nuguri离队",
+      "onboard_time": 1668579388,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285759,
       "num": 285759,
       "word": "给对象连发三条想你了",
       "onboard_time": 1668529644,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284345,
+      "num": 284345,
+      "word": "村民不出村仨月把石榴卖出上千万",
+      "onboard_time": 1668576744,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277928,
@@ -691,6 +715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 265508,
+      "num": 265508,
+      "word": "巴西队想堵住管泽元的嘴",
+      "onboard_time": 1668578967,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258972,
       "num": 147169,
       "word": "点燃我温暖你将在北京举办见面会",
@@ -731,20 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250688,
-      "num": 250688,
-      "word": "村民不出村仨月把石榴卖出上千万",
-      "onboard_time": 1668576744,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247642,
       "num": 247642,
       "word": "twice将出演红白歌会",
       "onboard_time": 1668562290,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 237600,
+      "num": 237600,
+      "word": "建行客服回应转账失败",
+      "onboard_time": 1668580107,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 229783,
@@ -785,14 +817,6 @@
       "onboard_time": 1668561447,
       "rank": 30,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 213128,
-      "num": 213128,
-      "word": "巴西队想堵住管泽元的嘴",
-      "onboard_time": 1668578967,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 207385,
@@ -899,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180188,
+      "num": 180188,
+      "word": "女孩接诈骗电话声音夸张吓退骗子",
+      "onboard_time": 1668578009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178085,
       "num": 178085,
       "word": "卡塔尔世界杯冠军可获4200万美元",
@@ -929,6 +961,14 @@
       "onboard_time": 1668524073,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174118,
+      "num": 162205,
+      "word": "周柏豪吃土笋冻的反应演我",
+      "onboard_time": 1668580827,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 168244,
@@ -987,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152343,
-      "num": 152343,
-      "word": "DK官宣Nuguri离队",
-      "onboard_time": 1668579388,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149679,
       "num": 149679,
       "word": "罗晋新剧大婚狂炫花生",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1668562768,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146226,
-      "num": 146226,
-      "word": "女孩接诈骗电话声音夸张吓退骗子",
-      "onboard_time": 1668578009,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145919,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1668525155,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "sls",
+      "onboard_time": 1668579267,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 140951,
@@ -1099,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133993,
-      "num": 133993,
-      "word": "iPhone14Pro息屏可不显示壁纸",
-      "onboard_time": 1668579689,
-      "rank": 38,
-      "category": "科技"
+      "raw_hot": 132706,
+      "num": 132706,
+      "word": "熊猫亲自演示如何rua熊猫",
+      "onboard_time": 1668579629,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132264,
@@ -1171,28 +1203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114017,
-      "num": 114017,
-      "word": "熊猫亲自演示如何rua熊猫",
-      "onboard_time": 1668579629,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113890,
       "num": 113890,
       "word": "男子纵身跳湖救下溺水孩子",
       "onboard_time": 1668547932,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 113186,
-      "num": 113186,
-      "word": "sls",
-      "onboard_time": 1668579267,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 112013,
