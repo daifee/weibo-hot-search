@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668594176479,
+  "endTime": 1668595171746,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1277086,
+      "num": 403259,
+      "word": "张婉婷发文",
+      "onboard_time": 1668592829,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1270795,
       "num": 700830,
       "word": "鹿晗 紧张",
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1001076,
+      "num": 1001076,
+      "word": "北京部分感染者出现症状仍参加社会活动",
+      "onboard_time": 1668591927,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993081,
       "num": 993081,
       "word": "石家庄新增本土感染544例",
@@ -667,6 +683,14 @@
       "category": "影视,网红"
     },
     {
+      "raw_hot": 916053,
+      "num": 916053,
+      "word": "新研究称生育永久改变女性骨骼",
+      "onboard_time": 1668592408,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914737,
       "num": 914737,
       "word": "男子欠70万破产还款记录令人钦佩",
@@ -705,14 +729,6 @@
       "onboard_time": 1668555264,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 882677,
-      "num": 882677,
-      "word": "北京部分感染者出现症状仍参加社会活动",
-      "onboard_time": 1668591927,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 881111,
@@ -769,14 +785,6 @@
       "onboard_time": 1668436291,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849676,
-      "num": 370846,
-      "word": "张婉婷发文",
-      "onboard_time": 1668592829,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 849606,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 752301,
-      "num": 368027,
+      "num": 375250,
       "word": "张子枫头发好蓬松",
       "onboard_time": 1668592950,
       "rank": 12,
@@ -1115,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647356,
+      "num": 647356,
+      "word": "男子疑当街猥亵女子路人挺身制止",
+      "onboard_time": 1668591447,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632907,
       "num": 632907,
       "word": "大脸猫确实不适合戴帽子",
@@ -1160,14 +1176,6 @@
       "word": "王海回应打假疯狂小杨哥",
       "onboard_time": 1668554241,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609227,
-      "num": 357695,
-      "word": "新研究称生育永久改变女性骨骼",
-      "onboard_time": 1668592408,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1235,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 587947,
-      "num": 587947,
-      "word": "男子疑当街猥亵女子路人挺身制止",
-      "onboard_time": 1668591447,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579389,
       "num": 579389,
       "word": "南京站",
@@ -1273,6 +1273,14 @@
       "onboard_time": 1668356066,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 568947,
+      "num": 365875,
+      "word": "毕节官方通报一女孩坠楼身亡",
+      "onboard_time": 1668593429,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 567625,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1668590430,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524033,
+      "num": 346002,
+      "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+      "onboard_time": 1668590909,
+      "rank": 42,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 522673,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1668508408,
       "rank": 13,
       "category": "作品衍生,音乐"
-    },
-    {
-      "raw_hot": 406827,
-      "num": 346002,
-      "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
-      "onboard_time": 1668590909,
-      "rank": 42,
-      "category": "财经,时尚"
     },
     {
       "raw_hot": 405778,
@@ -3011,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284023,
+      "num": 284023,
+      "word": "腾讯发布2022年三季度财报",
+      "onboard_time": 1668591628,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 283315,
       "num": 283315,
       "word": "Lisa获奖感言视频",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1668476188,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 278402,
+      "num": 278402,
+      "word": "李峋找徐黎娜刺激朱韵分手",
+      "onboard_time": 1668594508,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 278238,
@@ -3145,6 +3169,14 @@
       "onboard_time": 1668514115,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272880,
+      "num": 272880,
+      "word": "自带饭勺的小鸟全球仅剩600多只",
+      "onboard_time": 1668593309,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271712,
@@ -3387,20 +3419,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250661,
-      "num": 250661,
-      "word": "毕节官方通报一女孩坠楼身亡",
-      "onboard_time": 1668593429,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 249871,
       "num": 197898,
       "word": "院人是懂团建的",
       "onboard_time": 1668499770,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249736,
+      "num": 249736,
+      "word": "凉山3名民辅警抓捕毒贩途中坠崖",
+      "onboard_time": 1668590847,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249447,
@@ -3473,14 +3505,6 @@
       "onboard_time": 1668486513,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243103,
-      "num": 243103,
-      "word": "腾讯发布2022年三季度财报",
-      "onboard_time": 1668591628,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 243068,
@@ -3787,6 +3811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222416,
+      "num": 222416,
+      "word": "点燃方志靖温暖我",
+      "onboard_time": 1668591869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222322,
       "num": 222322,
       "word": "赵睿最后一投引巴林男篮不满",
@@ -3825,14 +3857,6 @@
       "onboard_time": 1668587307,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219805,
-      "num": 219805,
-      "word": "自带饭勺的小鸟全球仅剩600多只",
-      "onboard_time": 1668593309,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219654,
@@ -4027,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207513,
+      "num": 207513,
+      "word": "杨幂秦施醉酒行为大赏",
+      "onboard_time": 1668594328,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207467,
       "num": 173710,
       "word": "县委大院下证",
@@ -4113,14 +4145,6 @@
       "onboard_time": 1668385528,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204075,
-      "num": 204075,
-      "word": "点燃方志靖温暖我",
-      "onboard_time": 1668591869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 203836,
@@ -4363,14 +4387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186538,
-      "num": 186538,
-      "word": "凉山3名民辅警抓捕毒贩途中坠崖",
-      "onboard_time": 1668590847,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186231,
       "num": 176250,
       "word": "以爱为营",
@@ -4603,6 +4619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "沈腾说感谢芭莎拍的好修的也好",
+      "onboard_time": 1668594928,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169655,
       "num": 169655,
       "word": "王进喜用身体搅拌水泥阻止石油井喷",
@@ -4768,6 +4792,14 @@
       "word": "白敬亭尹峥开府宴郝葭也去了",
       "onboard_time": 1668418169,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161597,
+      "num": 161597,
+      "word": "白敬亭田曦薇厨房偷吃花絮",
+      "onboard_time": 1668594449,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -5387,6 +5419,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 132742,
+      "num": 132742,
+      "word": "山东大姨种出半人高白菜",
+      "onboard_time": 1668592829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132706,
       "num": 132706,
       "word": "熊猫亲自演示如何rua熊猫",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1668417748,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121141,
-      "num": 121141,
-      "word": "山东大姨种出半人高白菜",
-      "onboard_time": 1668592829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121124,
@@ -5961,6 +5993,14 @@
       "onboard_time": 1668345870,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96433,
+      "num": 96433,
+      "word": "电车续航多少能取代燃油车",
+      "onboard_time": 1668594631,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 95536,
