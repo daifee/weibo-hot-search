@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668597469635,
+  "endTime": 1668598436623,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -65,6 +65,14 @@
       "onboard_time": 1668568409,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1313623,
+      "num": 1313623,
+      "word": "腾讯员工平均月薪近83888元",
+      "onboard_time": 1668596010,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 1294250,
@@ -235,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 776118,
-      "num": 776118,
-      "word": "腾讯员工平均月薪近83888元",
-      "onboard_time": 1668596010,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 763194,
       "num": 763194,
       "word": "广州男子边抽烟边跑马拉松火到国外",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 752301,
-      "num": 375250,
+      "num": 376979,
       "word": "张子枫头发好蓬松",
       "onboard_time": 1668592950,
       "rank": 12,
@@ -267,20 +267,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 732796,
+      "num": 383334,
+      "word": "田曦薇早期旧照",
+      "onboard_time": 1668596369,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728761,
       "num": 547792,
       "word": "请允许国产电视剧里有中女的存在",
       "onboard_time": 1668520231,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 726477,
-      "num": 383334,
-      "word": "田曦薇早期旧照",
-      "onboard_time": 1668596369,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 724474,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 524033,
-      "num": 346002,
+      "num": 355527,
       "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
       "onboard_time": 1668590909,
       "rank": 42,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 473886,
-      "num": 348483,
+      "num": 371099,
       "word": "张艺兴吃热狗",
       "onboard_time": 1668597269,
       "rank": 15,
@@ -603,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385406,
+      "num": 385406,
+      "word": "狗狗腿瘸主人花400元确认是装的",
+      "onboard_time": 1668595289,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383813,
       "num": 383813,
       "word": "刘雨昕林一张凌赫智族GQ十一月封面",
@@ -683,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355147,
+      "num": 355147,
+      "word": "点燃我温暖你22集观后感",
+      "onboard_time": 1668597629,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350314,
       "num": 350314,
       "word": "河南小伙带15斤油条膨松剂飞赴世界杯",
@@ -707,19 +723,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342622,
+      "num": 342622,
+      "word": "自带饭勺的小鸟全球仅剩600多只",
+      "onboard_time": 1668593309,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342308,
       "num": 342308,
       "word": "欠债4600万大叔认真卖烤肠还债",
       "onboard_time": 1668506488,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342282,
-      "num": 342282,
-      "word": "狗狗腿瘸主人花400元确认是装的",
-      "onboard_time": 1668595289,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -729,14 +745,6 @@
       "onboard_time": 1668588810,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 334249,
-      "num": 334249,
-      "word": "自带饭勺的小鸟全球仅剩600多只",
-      "onboard_time": 1668593309,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333542,
@@ -763,12 +771,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 329669,
+      "num": 329669,
+      "word": "腾讯将宣派9.58亿股美团股份作为特别股息",
+      "onboard_time": 1668596547,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 329423,
       "num": 275052,
       "word": "GQ总编说会邀请虞书欣王鹤棣",
       "onboard_time": 1668529165,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324015,
+      "num": 319994,
+      "word": "命韵峋环生三孩的原因",
+      "onboard_time": 1668597029,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 323925,
@@ -1099,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252550,
-      "num": 252550,
-      "word": "腾讯将宣派9.58亿股美团股份作为特别股息",
-      "onboard_time": 1668596547,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "猫咪把牙卡在主人耳洞里睡着",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1668588750,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 243043,
+      "num": 243043,
+      "word": "教授储殷发文硬刚董宇辉粉丝",
+      "onboard_time": 1668597989,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 237584,
@@ -1187,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228366,
-      "num": 161114,
-      "word": "命韵峋环生三孩的原因",
-      "onboard_time": 1668597029,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 227526,
       "num": 227526,
       "word": "原来迟到的还是同一批人",
       "onboard_time": 1668561809,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224120,
+      "num": 198845,
+      "word": "陈飞宇李峋爆发力",
+      "onboard_time": 1668598109,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223949,
@@ -1315,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199641,
+      "num": 199641,
+      "word": "山东大姨种出半人高白菜",
+      "onboard_time": 1668592829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199249,
       "num": 199249,
       "word": "新冠居家必备药物指南",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1668530724,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189899,
-      "num": 189899,
-      "word": "山东大姨种出半人高白菜",
-      "onboard_time": 1668592829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189852,
@@ -1523,8 +1547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162051,
-      "num": 162051,
+      "raw_hot": 162839,
+      "num": 162839,
       "word": "狄仁杰神器传说皮肤",
       "onboard_time": 1668596010,
       "rank": 33,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1668574169,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "流浪狗咬伤人长期投喂者被判担责",
+      "onboard_time": 1668595651,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153799,
@@ -1611,12 +1643,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142639,
+      "num": 142639,
+      "word": "老师为什么能忍住不笑",
+      "onboard_time": 1668596310,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142193,
+      "num": 142193,
+      "word": "如果你是一个自卑的人",
+      "onboard_time": 1668597811,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141745,
       "num": 141745,
       "word": "一诺喜欢啤酒肚",
       "onboard_time": 1668581068,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141672,
+      "num": 141672,
+      "word": "北京提醒市民科学规范佩戴口罩",
+      "onboard_time": 1668597931,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141649,
@@ -1691,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135203,
+      "num": 135203,
+      "word": "blue露脸",
+      "onboard_time": 1668598290,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132706,
       "num": 132706,
       "word": "熊猫亲自演示如何rua熊猫",
@@ -1715,14 +1779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130849,
-      "num": 130849,
-      "word": "老师为什么能忍住不笑",
-      "onboard_time": 1668596310,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129083,
       "num": 129083,
       "word": "957心态",
@@ -1739,12 +1795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126688,
-      "num": 126688,
-      "word": "流浪狗咬伤人长期投喂者被判担责",
-      "onboard_time": 1668595651,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 126240,
+      "num": 126240,
+      "word": "2022王者世冠KIC赛程公布",
+      "onboard_time": 1668598049,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 123815,
@@ -1779,11 +1835,27 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 121165,
+      "num": 121165,
+      "word": "游戏已摆脱娱乐产品的单一属性",
+      "onboard_time": 1668598049,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120925,
       "num": 120925,
       "word": "中公教育若未按时退费将卖楼还钱",
       "onboard_time": 1668509432,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119421,
+      "num": 119421,
+      "word": "济南烧饼店月薪1万2招本科生",
+      "onboard_time": 1668598290,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2041,6 +2113,14 @@
       "onboard_time": 1668542292,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14145,
+      "num": 1041424,
+      "word": "一次看尽中国铁路发展有多快",
+      "onboard_time": 1668598109,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
