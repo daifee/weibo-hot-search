@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668580984302,
+  "endTime": 1668583161826,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -187,7 +187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1544707,
+      "raw_hot": 1545517,
       "num": 426539,
       "word": "刘强东捐赠149亿首次成为中国首善",
       "onboard_time": 1668577588,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973782,
+      "num": 664329,
+      "word": "霍建华在演一种很新的东西",
+      "onboard_time": 1668578486,
+      "rank": 7,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 972388,
       "num": 972388,
       "word": "鹿晗官宣音乐会嘉宾",
@@ -803,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779861,
-      "num": 645659,
-      "word": "霍建华在演一种很新的东西",
-      "onboard_time": 1668578486,
-      "rank": 7,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 768951,
       "num": 768951,
       "word": "跨省游客凭48小时核酸证明乘交通工具",
@@ -971,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661872,
+      "num": 661872,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 659849,
       "num": 450372,
       "word": "中美两国元首致开场白",
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649324,
+      "num": 400692,
+      "word": "疯狂小杨哥回应被打假",
+      "onboard_time": 1668581428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647450,
       "num": 647450,
       "word": "曾黎和赵露思偷偷藏不住再演母女",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1668560250,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 631846,
-      "num": 631846,
-      "word": "芭莎工作人员说沈腾真没咋P图",
-      "onboard_time": 1668579506,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 625743,
@@ -1115,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 598015,
+      "num": 598015,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 592973,
       "num": 575032,
       "word": "拜登称波兰爆炸导弹可能不是从俄发射",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1668356066,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 568871,
+      "num": 568871,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 567625,
@@ -1819,14 +1843,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 422285,
-      "num": 422285,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421885,
       "num": 421885,
       "word": "张婉婷哭着自我反省",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1668333389,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386351,
+      "num": 386351,
+      "word": "陈飞宇张婧仪点燃我温暖你在韩国将播出",
+      "onboard_time": 1668581487,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 385768,
@@ -2443,11 +2467,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333542,
+      "num": 333542,
+      "word": "建行客服回应转账失败",
+      "onboard_time": 1668580107,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 333413,
       "num": 247257,
       "word": "偷偷藏不住全员杀青照",
       "onboard_time": 1668400712,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332756,
+      "num": 332756,
+      "word": "白敬亭说尹峥的爱情观是一生只爱一人",
+      "onboard_time": 1668581667,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -2505,6 +2545,14 @@
       "onboard_time": 1668517349,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323925,
+      "num": 293271,
+      "word": "易立竞 你在拿孩子绑架他",
+      "onboard_time": 1668575547,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 323273,
@@ -2691,14 +2739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294139,
-      "num": 294139,
-      "word": "iPhone14Pro息屏可不显示壁纸",
-      "onboard_time": 1668579689,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 294042,
       "num": 294042,
       "word": "排队时不要只顾玩手机",
@@ -2883,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275680,
+      "num": 275680,
+      "word": "sls",
+      "onboard_time": 1668579267,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 275138,
       "num": 275138,
       "word": "拜登称美将向波兰提供全力支持调查爆炸",
@@ -2929,6 +2977,14 @@
       "onboard_time": 1668519451,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269871,
+      "num": 269871,
+      "word": "女生聘发模被剃光后脑勺还录像",
+      "onboard_time": 1668581727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268419,
@@ -3259,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237600,
-      "num": 237600,
-      "word": "建行客服回应转账失败",
-      "onboard_time": 1668580107,
-      "rank": 24,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 236154,
       "num": 236154,
       "word": "命韵峋环今天糖点好多",
@@ -3563,6 +3611,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 214359,
+      "num": 214359,
+      "word": "女孩接诈骗电话声音夸张吓退骗子",
+      "onboard_time": 1668578009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213656,
       "num": 213656,
       "word": "要不换个城市生活吧",
@@ -3753,6 +3809,14 @@
       "onboard_time": 1668437130,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 202133,
+      "num": 202133,
+      "word": "刘令姿真的跳了元英同款八段锦",
+      "onboard_time": 1668582689,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201969,
@@ -4035,14 +4099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180188,
-      "num": 180188,
-      "word": "女孩接诈骗电话声音夸张吓退骗子",
-      "onboard_time": 1668578009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179671,
       "num": 128322,
       "word": "SuperM最新练习室公开",
@@ -4057,6 +4113,14 @@
       "onboard_time": 1668504510,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179238,
+      "num": 179238,
+      "word": "周柏豪吃土笋冻的反应演我",
+      "onboard_time": 1668580827,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 178647,
@@ -4107,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174753,
+      "num": 174753,
+      "word": "萧逸",
+      "onboard_time": 1668581548,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174696,
       "num": 174696,
       "word": "木子洋告诫坤音二团别想着单飞",
@@ -4121,14 +4193,6 @@
       "onboard_time": 1668505170,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174118,
-      "num": 162205,
-      "word": "周柏豪吃土笋冻的反应演我",
-      "onboard_time": 1668580827,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 173593,
@@ -4723,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141745,
+      "num": 141745,
+      "word": "一诺喜欢啤酒肚",
+      "onboard_time": 1668581068,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141649,
       "num": 123328,
       "word": "龚俊告黑成功",
@@ -4753,14 +4825,6 @@
       "onboard_time": 1668435871,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141190,
-      "num": 141190,
-      "word": "sls",
-      "onboard_time": 1668579267,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 141159,
@@ -5027,6 +5091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128172,
+      "num": 128172,
+      "word": "女子深夜扰民被提醒后上门开骂",
+      "onboard_time": 1668582328,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127630,
       "num": 127630,
       "word": "卿卿日常里的冷知识",
@@ -5065,6 +5137,14 @@
       "onboard_time": 1668410367,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 124919,
+      "num": 124919,
+      "word": "小象鼻子rua人类",
+      "onboard_time": 1668582630,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 123148,
@@ -5113,6 +5193,14 @@
       "onboard_time": 1668511530,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119218,
+      "num": 119218,
+      "word": "李峋说感情用事对大家来说都是负担",
+      "onboard_time": 1668583107,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 118857,
@@ -5419,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99094,
+      "num": 99094,
+      "word": "阿尔忒弥斯1号再次准备发射",
+      "onboard_time": 1668582867,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 98792,
       "num": 98792,
       "word": "流浪猫再也不用受苦了",
@@ -5603,6 +5699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85995,
+      "num": 128247,
+      "word": "椰树女郎穿羽绒服直播跳拉货操",
+      "onboard_time": 1668582027,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84801,
       "num": 1103088,
       "word": "坚决打赢关键核心技术攻坚战",
@@ -5769,6 +5873,14 @@
       "onboard_time": 1668357323,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 40850,
+      "num": 351404,
+      "word": "男子带队30年捕9万猛禽装环后放飞",
+      "onboard_time": 1668582388,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39863,

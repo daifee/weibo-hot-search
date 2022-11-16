@@ -1,0 +1,410 @@
+{
+  "runTime": 1668583161826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1000719,
+        "num": 1000719,
+        "word": "建行",
+        "onboard_time": 1668573089,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 697144,
+        "num": 697144,
+        "word": "央媒评头部带货主播遭打假",
+        "onboard_time": 1668570507,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 45142,
+        "num": 666048,
+        "word": "坚决打赢关键核心技术攻坚战",
+        "onboard_time": 1668571110,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973782,
+        "num": 664329,
+        "word": "霍建华在演一种很新的东西",
+        "onboard_time": 1668578486,
+        "rank": 3,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 661872,
+        "num": 661872,
+        "word": "芭莎工作人员说沈腾真没咋P图",
+        "onboard_time": 1668579506,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598015,
+        "num": 598015,
+        "word": "iPhone14Pro息屏可不显示壁纸",
+        "onboard_time": 1668579689,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 568871,
+        "num": 568871,
+        "word": "流浪猫爬十楼复仇家猫",
+        "onboard_time": 1668576505,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 522807,
+        "num": 522807,
+        "word": "李峋唯独没想到公主没有他会发疯",
+        "onboard_time": 1668572487,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454081,
+        "num": 454081,
+        "word": "4岁女童患癌症之王近3年花百万遇复发",
+        "onboard_time": 1668574530,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401275,
+        "num": 401275,
+        "word": "二胎宝妈2个半月减20斤年轻20岁",
+        "onboard_time": 1668575728,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1545517,
+        "num": 401249,
+        "word": "刘强东捐赠149亿首次成为中国首善",
+        "onboard_time": 1668577588,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 649324,
+        "num": 400692,
+        "word": "疯狂小杨哥回应被打假",
+        "onboard_time": 1668581428,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400031,
+        "num": 400031,
+        "word": "cheerup 弃剧",
+        "onboard_time": 1668573570,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386351,
+        "num": 386351,
+        "word": "陈飞宇张婧仪点燃我温暖你在韩国将播出",
+        "onboard_time": 1668581487,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40850,
+        "num": 351404,
+        "word": "男子带队30年捕9万猛禽装环后放飞",
+        "onboard_time": 1668582388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333542,
+        "num": 333542,
+        "word": "建行客服回应转账失败",
+        "onboard_time": 1668580107,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 332756,
+        "num": 332756,
+        "word": "白敬亭说尹峥的爱情观是一生只爱一人",
+        "onboard_time": 1668581667,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316872,
+        "num": 316872,
+        "word": "美官员称击中波兰的导弹为乌克兰发射",
+        "onboard_time": 1668578367,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 307311,
+        "num": 307311,
+        "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+        "onboard_time": 1668565708,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300763,
+        "num": 300763,
+        "word": "Uzi 投票",
+        "onboard_time": 1668575968,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323925,
+        "num": 293271,
+        "word": "易立竞 你在拿孩子绑架他",
+        "onboard_time": 1668575547,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275680,
+        "num": 275680,
+        "word": "sls",
+        "onboard_time": 1668579267,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 269871,
+        "num": 269871,
+        "word": "女生聘发模被剃光后脑勺还录像",
+        "onboard_time": 1668581727,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247131,
+        "num": 247131,
+        "word": "DK官宣Nuguri离队",
+        "onboard_time": 1668579388,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234398,
+        "num": 234398,
+        "word": "15岁高中生离开宿舍后失踪一月",
+        "onboard_time": 1668572729,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 217142,
+        "num": 217142,
+        "word": "巴西队想堵住管泽元的嘴",
+        "onboard_time": 1668578967,
+        "rank": 25,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 214359,
+        "num": 214359,
+        "word": "女孩接诈骗电话声音夸张吓退骗子",
+        "onboard_time": 1668578009,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202133,
+        "num": 202133,
+        "word": "刘令姿真的跳了元英同款八段锦",
+        "onboard_time": 1668582689,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196981,
+        "num": 196981,
+        "word": "点燃我温暖你12月6日收官",
+        "onboard_time": 1668577106,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192612,
+        "num": 192612,
+        "word": "大学生打麻将被罚画600个幺鸡",
+        "onboard_time": 1668568409,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184179,
+        "num": 184179,
+        "word": "韩剧cheerup女主没选男二",
+        "onboard_time": 1668573450,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179238,
+        "num": 179238,
+        "word": "周柏豪吃土笋冻的反应演我",
+        "onboard_time": 1668580827,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178428,
+        "num": 178428,
+        "word": "95后四小生推荐",
+        "onboard_time": 1668573928,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175969,
+        "num": 175969,
+        "word": "村民不出村仨月把石榴卖出上千万",
+        "onboard_time": 1668576744,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174753,
+        "num": 174753,
+        "word": "萧逸",
+        "onboard_time": 1668581548,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165105,
+        "num": 165105,
+        "word": "拜登称美将向波兰提供全力支持调查爆炸",
+        "onboard_time": 1668576149,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "一诺喜欢啤酒肚",
+        "onboard_time": 1668581068,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135569,
+        "num": 135569,
+        "word": "95后四小花推荐",
+        "onboard_time": 1668574949,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128354,
+        "num": 128354,
+        "word": "深大校长称要培养出10位马化腾级校友",
+        "onboard_time": 1668571886,
+        "rank": 38,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 85995,
+        "num": 128247,
+        "word": "椰树女郎穿羽绒服直播跳拉货操",
+        "onboard_time": 1668582027,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128172,
+        "num": 128172,
+        "word": "女子深夜扰民被提醒后上门开骂",
+        "onboard_time": 1668582328,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127456,
+        "num": 127456,
+        "word": "熊猫亲自演示如何rua熊猫",
+        "onboard_time": 1668579629,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126735,
+        "num": 126735,
+        "word": "卿卿日常是卿卿草原吧",
+        "onboard_time": 1668566667,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124919,
+        "num": 124919,
+        "word": "小象鼻子rua人类",
+        "onboard_time": 1668582630,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123915,
+        "num": 123915,
+        "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
+        "onboard_time": 1668562469,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123669,
+        "num": 123669,
+        "word": "特朗普正式宣布参选",
+        "onboard_time": 1668565826,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119383,
+        "num": 119383,
+        "word": "辽宁研考",
+        "onboard_time": 1668571649,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 119218,
+        "num": 119218,
+        "word": "李峋说感情用事对大家来说都是负担",
+        "onboard_time": 1668583107,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99094,
+        "num": 99094,
+        "word": "阿尔忒弥斯1号再次准备发射",
+        "onboard_time": 1668582867,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93908,
+        "num": 93908,
+        "word": "2022LPL全明星",
+        "onboard_time": 1668568109,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席G20巴厘岛峰会#"
+    }
+  }
+}
