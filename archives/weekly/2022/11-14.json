@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668603994417,
+  "endTime": 1668606014507,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1880252,
+      "num": 1880252,
+      "word": "呼兰总冠军",
+      "onboard_time": 1668601228,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1870828,
       "num": 403004,
       "word": "蒲熠星履历",
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1864400,
-      "num": 1864400,
-      "word": "呼兰总冠军",
-      "onboard_time": 1668601228,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1834245,
       "num": 1834245,
       "word": "前YG社长杨贤硕有期徒刑3年",
@@ -160,6 +160,14 @@
       "word": "疯狂小杨哥陷带货产品质量问题漩涡",
       "onboard_time": 1668565708,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1786939,
+      "num": 1677019,
+      "word": "卫健委回应郑州女婴遭拒诊去世",
+      "onboard_time": 1668600211,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1668483937,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1677019,
-      "num": 1677019,
-      "word": "卫健委回应郑州女婴遭拒诊去世",
-      "onboard_time": 1668600211,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1660356,
@@ -1099,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 680554,
+      "num": 680554,
+      "word": "李诞让小佳念广告",
+      "onboard_time": 1668604828,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 680375,
       "num": 680375,
       "word": "广东新增无症状感染者6215例",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1668560250,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 632710,
+      "num": 632710,
+      "word": "情侣分手前都有什么征兆",
+      "onboard_time": 1668601411,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 625743,
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488745,
+      "num": 488745,
+      "word": "以岭药业急招短期工逾千人",
+      "onboard_time": 1668600632,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485940,
       "num": 485940,
       "word": "Uzi 投票",
@@ -2059,6 +2083,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 422464,
+      "num": 288407,
+      "word": "鸟鸟脱5年度第二",
+      "onboard_time": 1668605489,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421885,
       "num": 421885,
       "word": "张婉婷哭着自我反省",
@@ -2163,14 +2195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 407736,
-      "num": 407736,
-      "word": "情侣分手前都有什么征兆",
-      "onboard_time": 1668601411,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 407053,
       "num": 407053,
       "word": "乘风破浪新歌MV上线",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1668594508,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399084,
+      "num": 399084,
+      "word": "郑大商户帮学生带物品进校被罚",
+      "onboard_time": 1668602489,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397817,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1668510689,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379147,
+      "num": 277820,
+      "word": "白敬亭尹峥你最好醒来记得亲了",
+      "onboard_time": 1668605129,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 378365,
@@ -2667,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347196,
-      "num": 347196,
-      "word": "以岭药业急招短期工逾千人",
-      "onboard_time": 1668600632,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346200,
       "num": 346200,
       "word": "蒲熠星回应高考成绩加分质疑",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1668525751,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343615,
+      "num": 202925,
+      "word": "卿卿日常爱奇艺热度破万",
+      "onboard_time": 1668604530,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 343481,
@@ -2761,6 +2801,14 @@
       "onboard_time": 1668504989,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335126,
+      "num": 198564,
+      "word": "李峋最后的疼爱是放开朱韵的手",
+      "onboard_time": 1668605612,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 334656,
@@ -3123,6 +3171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295534,
+      "num": 295534,
+      "word": "新娘婚礼被上课式祝福一脸无奈",
+      "onboard_time": 1668603211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294042,
       "num": 294042,
       "word": "排队时不要只顾玩手机",
@@ -3427,6 +3483,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 266319,
+      "num": 115407,
+      "word": "鹿晗大张伟庆祝动作",
+      "onboard_time": 1668605970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265747,
       "num": 230905,
       "word": "脱口秀大会5总决赛节目单",
@@ -3611,6 +3675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251348,
+      "num": 115381,
+      "word": "高见鸿的结局是癌症去世",
+      "onboard_time": 1668605970,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249871,
       "num": 197898,
       "word": "院人是懂团建的",
@@ -3625,6 +3697,14 @@
       "onboard_time": 1668417870,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248441,
+      "num": 248441,
+      "word": "猫咪不停抓被子被吵醒发现孩子生病",
+      "onboard_time": 1668600270,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248325,
@@ -3737,14 +3817,6 @@
       "onboard_time": 1668402928,
       "rank": 32,
       "category": "影视,情感"
-    },
-    {
-      "raw_hot": 239870,
-      "num": 239870,
-      "word": "猫咪不停抓被子被吵醒发现孩子生病",
-      "onboard_time": 1668600270,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239523,
@@ -4107,20 +4179,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216686,
-      "num": 216686,
-      "word": "郑大商户帮学生带物品进校被罚",
-      "onboard_time": 1668602489,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216657,
       "num": 216657,
       "word": "SEVENTEEN首获EMA双冠王",
       "onboard_time": 1668392847,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216572,
+      "num": 216572,
+      "word": "这长得也太迪士尼了",
+      "onboard_time": 1668603749,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 215872,
@@ -4155,12 +4227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214297,
+      "num": 160112,
+      "word": "吉吉国王脸盲不是演的",
+      "onboard_time": 1668599850,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213656,
       "num": 213656,
       "word": "要不换个城市生活吧",
       "onboard_time": 1668432870,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213590,
+      "num": 213590,
+      "word": "考研健康上报注意事项",
+      "onboard_time": 1668600691,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 212830,
@@ -4177,14 +4265,6 @@
       "onboard_time": 1668495086,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211561,
-      "num": 211561,
-      "word": "考研健康上报注意事项",
-      "onboard_time": 1668600691,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 211466,
@@ -4363,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204433,
+      "num": 204433,
+      "word": "C罗搂头安慰愤怒队友",
+      "onboard_time": 1668602250,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204093,
       "num": 184840,
       "word": "李峋说朱韵和我在一起会很幸福",
@@ -4457,14 +4545,6 @@
       "onboard_time": 1668554423,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198292,
-      "num": 198292,
-      "word": "C罗搂头安慰愤怒队友",
-      "onboard_time": 1668602250,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 197681,
@@ -4577,6 +4657,14 @@
       "onboard_time": 1668520048,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190681,
+      "num": 190681,
+      "word": "再赚不到钱就不礼貌了",
+      "onboard_time": 1668603930,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 190164,
@@ -4849,14 +4937,6 @@
       "onboard_time": 1668482608,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 172832,
-      "num": 160112,
-      "word": "吉吉国王脸盲不是演的",
-      "onboard_time": 1668599850,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 172056,
@@ -6203,22 +6283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103926,
-      "num": 103926,
-      "word": "这长得也太迪士尼了",
-      "onboard_time": 1668603749,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 103719,
-      "num": 103719,
-      "word": "新娘婚礼被上课式祝福一脸无奈",
-      "onboard_time": 1668603211,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103545,
       "num": 103545,
       "word": "王鹤棣金鸡奖内场大合照",
@@ -6273,14 +6337,6 @@
       "onboard_time": 1668482849,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98467,
-      "num": 98467,
-      "word": "再赚不到钱就不礼貌了",
-      "onboard_time": 1668603930,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 98402,
