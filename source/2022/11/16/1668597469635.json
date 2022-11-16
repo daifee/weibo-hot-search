@@ -1,0 +1,410 @@
+{
+  "runTime": 1668597469635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288880,
+        "num": 1288880,
+        "word": "郑州一核酸采样点推出VIP服务",
+        "onboard_time": 1668584429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197179,
+        "num": 1197179,
+        "word": "新研究称生育永久改变女性骨骼",
+        "onboard_time": 1668592408,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18194,
+        "num": 1047165,
+        "word": "坚决打赢关键核心技术攻坚战",
+        "onboard_time": 1668571110,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 923549,
+        "num": 923549,
+        "word": "北京部分感染者出现症状仍参加社会活动",
+        "onboard_time": 1668591927,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893397,
+        "num": 893397,
+        "word": "毕节官方通报一女孩坠楼身亡",
+        "onboard_time": 1668593429,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 776118,
+        "num": 776118,
+        "word": "腾讯员工平均月薪近83888元",
+        "onboard_time": 1668596010,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 583595,
+        "num": 583595,
+        "word": "微信新增删除声音锁功能",
+        "onboard_time": 1668585029,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 578753,
+        "num": 578753,
+        "word": "男子疑当街猥亵女子路人挺身制止",
+        "onboard_time": 1668591447,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412679,
+        "num": 412679,
+        "word": "46岁妈妈订立遗嘱财产只留给儿子",
+        "onboard_time": 1668585867,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399478,
+        "num": 399478,
+        "word": "李峋找徐黎娜刺激朱韵分手",
+        "onboard_time": 1668594508,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1294250,
+        "num": 398197,
+        "word": "张婉婷发文",
+        "onboard_time": 1668592829,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 726477,
+        "num": 383334,
+        "word": "田曦薇早期旧照",
+        "onboard_time": 1668596369,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586687,
+        "num": 364287,
+        "word": "张子枫头发好蓬松",
+        "onboard_time": 1668592950,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526792,
+        "num": 361041,
+        "word": "刘强东捐赠149亿首次成为中国首善",
+        "onboard_time": 1668577588,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 348716,
+        "num": 348716,
+        "word": "凉山3名民辅警抓捕毒贩途中坠崖",
+        "onboard_time": 1668590847,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473886,
+        "num": 348483,
+        "word": "张艺兴吃热狗",
+        "onboard_time": 1668597269,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404315,
+        "num": 345623,
+        "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+        "onboard_time": 1668590909,
+        "rank": 16,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 367830,
+        "num": 345216,
+        "word": "李峋朱韵的孩子",
+        "onboard_time": 1668587068,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342282,
+        "num": 342282,
+        "word": "狗狗腿瘸主人花400元确认是装的",
+        "onboard_time": 1668595289,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334249,
+        "num": 334249,
+        "word": "自带饭勺的小鸟全球仅剩600多只",
+        "onboard_time": 1668593309,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319468,
+        "num": 319468,
+        "word": "腾讯发布2022年三季度财报",
+        "onboard_time": 1668591628,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 317786,
+        "num": 317786,
+        "word": "朝阳打歌中心官宣MC",
+        "onboard_time": 1668596849,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288916,
+        "num": 288916,
+        "word": "女子炒股亏百万花4万转运后又亏",
+        "onboard_time": 1668590430,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280477,
+        "num": 280477,
+        "word": "买NIKE不合适客服称鞋盒破损拒退款",
+        "onboard_time": 1668589348,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265422,
+        "num": 265422,
+        "word": "沈腾说感谢芭莎拍的好修的也好",
+        "onboard_time": 1668594928,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252550,
+        "num": 252550,
+        "word": "腾讯将宣派9.58亿股美团股份作为特别股息",
+        "onboard_time": 1668596547,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 249963,
+        "num": 249963,
+        "word": "元英和袁善见好配",
+        "onboard_time": 1668588810,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229070,
+        "num": 229070,
+        "word": "疯狂小杨哥回应被打假",
+        "onboard_time": 1668581428,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "吃麻辣烫还得看小区阿姨",
+        "onboard_time": 1668591149,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189899,
+        "num": 189899,
+        "word": "山东大姨种出半人高白菜",
+        "onboard_time": 1668592829,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231509,
+        "num": 183903,
+        "word": "朱韵与全世界为敌",
+        "onboard_time": 1668589890,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223841,
+        "num": 180673,
+        "word": "霍建华在演一种很新的东西",
+        "onboard_time": 1668578486,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 230101,
+        "num": 171530,
+        "word": "点燃方志靖温暖我",
+        "onboard_time": 1668591869,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162051,
+        "num": 162051,
+        "word": "狄仁杰神器传说皮肤",
+        "onboard_time": 1668596010,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228366,
+        "num": 161114,
+        "word": "命韵峋环生三孩的原因",
+        "onboard_time": 1668597029,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153845,
+        "num": 153845,
+        "word": "女生聘发模被剃光后脑勺还录像",
+        "onboard_time": 1668581727,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152578,
+        "num": 152578,
+        "word": "BeryL直播原神",
+        "onboard_time": 1668590009,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131780,
+        "num": 131780,
+        "word": "Uzi 投票",
+        "onboard_time": 1668575968,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 130849,
+        "word": "老师为什么能忍住不笑",
+        "onboard_time": 1668596310,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126688,
+        "num": 126688,
+        "word": "流浪狗咬伤人长期投喂者被判担责",
+        "onboard_time": 1668595651,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190601,
+        "num": 124656,
+        "word": "杨幂秦施醉酒行为大赏",
+        "onboard_time": 1668594328,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161777,
+        "num": 124102,
+        "word": "落花时节又逢君获得发行许可证",
+        "onboard_time": 1668591030,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122498,
+        "num": 122498,
+        "word": "腹式呼吸法增强心肺功能",
+        "onboard_time": 1668596729,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120730,
+        "num": 120730,
+        "word": "美国登月火箭发射升空",
+        "onboard_time": 1668586287,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118772,
+        "num": 118772,
+        "word": "广州一抗疫志愿者被网约车司机免单",
+        "onboard_time": 1668588750,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 192452,
+        "num": 117126,
+        "word": "李峋唯独没想到公主没有他会发疯",
+        "onboard_time": 1668572487,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115328,
+        "num": 115328,
+        "word": "流浪猫爬十楼复仇家猫",
+        "onboard_time": 1668576505,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113282,
+        "num": 113282,
+        "word": "WRL2",
+        "onboard_time": 1668597150,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109595,
+        "num": 109595,
+        "word": "北京新增社会面32例",
+        "onboard_time": 1668588810,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105153,
+        "num": 105153,
+        "word": "山东省考",
+        "onboard_time": 1668588449,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席G20巴厘岛峰会#"
+    }
+  }
+}

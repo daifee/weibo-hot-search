@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668595171746,
+  "endTime": 1668597469635,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -67,7 +67,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1277086,
+      "raw_hot": 1294250,
       "num": 403259,
       "word": "张婉婷发文",
       "onboard_time": 1668592829,
@@ -81,6 +81,14 @@
       "onboard_time": 1668527368,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197179,
+      "num": 1197179,
+      "word": "新研究称生育永久改变女性骨骼",
+      "onboard_time": 1668592408,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1121585,
@@ -155,20 +163,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 916053,
-      "num": 916053,
-      "word": "新研究称生育永久改变女性骨骼",
-      "onboard_time": 1668592408,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 908437,
       "num": 908437,
       "word": "女孩直播助农被嘲又黑又胖3年后逆袭",
       "onboard_time": 1668562469,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893397,
+      "num": 893397,
+      "word": "毕节官方通报一女孩坠楼身亡",
+      "onboard_time": 1668593429,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 890456,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 776118,
+      "num": 776118,
+      "word": "腾讯员工平均月薪近83888元",
+      "onboard_time": 1668596010,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 763194,
       "num": 763194,
       "word": "广州男子边抽烟边跑马拉松火到国外",
@@ -257,6 +273,14 @@
       "onboard_time": 1668520231,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726477,
+      "num": 383334,
+      "word": "田曦薇早期旧照",
+      "onboard_time": 1668596369,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 724474,
@@ -395,14 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 568947,
-      "num": 365875,
-      "word": "毕节官方通报一女孩坠楼身亡",
-      "onboard_time": 1668593429,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 567625,
       "num": 567625,
       "word": "二胎宝妈2个半月减20斤年轻20岁",
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473886,
+      "num": 348483,
+      "word": "张艺兴吃热狗",
+      "onboard_time": 1668597269,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470101,
       "num": 470101,
       "word": "邱瑞 直播带货",
@@ -553,6 +577,14 @@
       "onboard_time": 1668568589,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 399478,
+      "num": 399478,
+      "word": "李峋找徐黎娜刺激朱韵分手",
+      "onboard_time": 1668594508,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 395562,
@@ -667,11 +699,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348716,
+      "num": 348716,
+      "word": "凉山3名民辅警抓捕毒贩途中坠崖",
+      "onboard_time": 1668590847,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342308,
       "num": 342308,
       "word": "欠债4600万大叔认真卖烤肠还债",
       "onboard_time": 1668506488,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342282,
+      "num": 342282,
+      "word": "狗狗腿瘸主人花400元确认是装的",
+      "onboard_time": 1668595289,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -681,6 +729,14 @@
       "onboard_time": 1668588810,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334249,
+      "num": 334249,
+      "word": "自带饭勺的小鸟全球仅剩600多只",
+      "onboard_time": 1668593309,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333542,
@@ -731,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319468,
+      "num": 319468,
+      "word": "腾讯发布2022年三季度财报",
+      "onboard_time": 1668591628,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 319444,
       "num": 319444,
       "word": "世界杯",
@@ -745,6 +809,14 @@
       "onboard_time": 1668590009,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317786,
+      "num": 317786,
+      "word": "朝阳打歌中心官宣MC",
+      "onboard_time": 1668596849,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 316351,
@@ -883,28 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284023,
-      "num": 284023,
-      "word": "腾讯发布2022年三季度财报",
-      "onboard_time": 1668591628,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 282846,
       "num": 282846,
       "word": "吃麻辣烫还得看小区阿姨",
       "onboard_time": 1668591149,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 278402,
-      "num": 278402,
-      "word": "李峋找徐黎娜刺激朱韵分手",
-      "onboard_time": 1668594508,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 277928,
@@ -945,14 +1001,6 @@
       "onboard_time": 1668576149,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 272880,
-      "num": 272880,
-      "word": "自带饭勺的小鸟全球仅剩600多只",
-      "onboard_time": 1668593309,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271660,
@@ -1003,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265422,
+      "num": 265422,
+      "word": "沈腾说感谢芭莎拍的好修的也好",
+      "onboard_time": 1668594928,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264324,
       "num": 264324,
       "word": "货拉拉司机抗议停运3天",
@@ -1043,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252550,
+      "num": 252550,
+      "word": "腾讯将宣派9.58亿股美团股份作为特别股息",
+      "onboard_time": 1668596547,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 251278,
       "num": 251278,
       "word": "猫咪把牙卡在主人耳洞里睡着",
@@ -1056,14 +1120,6 @@
       "word": "官方回应兰州核酸只做单采",
       "onboard_time": 1668515067,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249736,
-      "num": 249736,
-      "word": "凉山3名民辅警抓捕毒贩途中坠崖",
-      "onboard_time": 1668590847,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230101,
+      "num": 222416,
+      "word": "点燃方志靖温暖我",
+      "onboard_time": 1668591869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230079,
       "num": 230079,
       "word": "小象鼻子rua人类",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1668519392,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228366,
+      "num": 161114,
+      "word": "命韵峋环生三孩的原因",
+      "onboard_time": 1668597029,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 227526,
@@ -1145,14 +1217,6 @@
       "onboard_time": 1668581548,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222416,
-      "num": 222416,
-      "word": "点燃方志靖温暖我",
-      "onboard_time": 1668591869,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 220424,
@@ -1307,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189899,
+      "num": 189899,
+      "word": "山东大姨种出半人高白菜",
+      "onboard_time": 1668592829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189852,
       "num": 189852,
       "word": "我国慢阻肺病患者近1亿人",
@@ -1411,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169853,
-      "num": 169853,
-      "word": "沈腾说感谢芭莎拍的好修的也好",
-      "onboard_time": 1668594928,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168244,
       "num": 115709,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1668559713,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162051,
+      "num": 162051,
+      "word": "狄仁杰神器传说皮肤",
+      "onboard_time": 1668596010,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 161767,
@@ -1619,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132742,
-      "num": 132742,
-      "word": "山东大姨种出半人高白菜",
-      "onboard_time": 1668592829,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132706,
       "num": 132706,
       "word": "熊猫亲自演示如何rua熊猫",
@@ -1651,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130849,
+      "num": 130849,
+      "word": "老师为什么能忍住不笑",
+      "onboard_time": 1668596310,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129083,
       "num": 129083,
       "word": "957心态",
@@ -1667,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "流浪狗咬伤人长期投喂者被判担责",
+      "onboard_time": 1668595651,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123815,
       "num": 123815,
       "word": "李峋说感情用事对大家来说都是负担",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1668504091,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122498,
+      "num": 122498,
+      "word": "腹式呼吸法增强心肺功能",
+      "onboard_time": 1668596729,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121812,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1668547932,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 113282,
+      "num": 113282,
+      "word": "WRL2",
+      "onboard_time": 1668597150,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 112013,
