@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668576968771,
+  "endTime": 1668580010036,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -267,6 +267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1417012,
+      "num": 1417012,
+      "word": "建行",
+      "onboard_time": 1668573089,
+      "rank": 23,
+      "category": "财经,教育"
+    },
+    {
       "raw_hot": 1404769,
       "num": 1404769,
       "word": "长得胖却漂亮的女孩子",
@@ -289,6 +297,14 @@
       "onboard_time": 1668568409,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1318753,
+      "num": 426539,
+      "word": "刘强东捐赠149亿首次成为中国首善",
+      "onboard_time": 1668577588,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1317236,
@@ -353,14 +369,6 @@
       "onboard_time": 1668405507,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1243914,
-      "num": 1243914,
-      "word": "建行",
-      "onboard_time": 1668573089,
-      "rank": 23,
-      "category": "财经,教育"
     },
     {
       "raw_hot": 1242915,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720150,
+      "num": 720150,
+      "word": "4岁女童患癌症之王近3年花百万遇复发",
+      "onboard_time": 1668574530,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713623,
       "num": 713623,
       "word": "爱的二八定律开播追剧日历",
@@ -897,14 +913,6 @@
       "onboard_time": 1668571169,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 686558,
-      "num": 453538,
-      "word": "4岁女童患癌症之王近3年花百万遇复发",
-      "onboard_time": 1668574530,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685773,
@@ -1195,6 +1203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550942,
+      "num": 550942,
+      "word": "二胎宝妈2个半月减20斤年轻20岁",
+      "onboard_time": 1668575728,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549902,
+      "num": 549902,
+      "word": "霍建华在演一种很新的东西",
+      "onboard_time": 1668578486,
+      "rank": 7,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 546816,
       "num": 518096,
       "word": "张婧仪曝光朱韵朋友圈内容",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1668519392,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485940,
+      "num": 485940,
+      "word": "Uzi 投票",
+      "onboard_time": 1668575968,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 485795,
@@ -1931,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400605,
+      "num": 400605,
+      "word": "芭莎工作人员说沈腾真没咋P图",
+      "onboard_time": 1668579506,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400159,
       "num": 400159,
       "word": "徐志胜说吾与鹿晗孰美",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1668396147,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393949,
+      "num": 393949,
+      "word": "流浪猫爬十楼复仇家猫",
+      "onboard_time": 1668576505,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 393624,
@@ -2515,6 +2563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 314588,
+      "num": 314588,
+      "word": "美官员称击中波兰的导弹为乌克兰发射",
+      "onboard_time": 1668578367,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "西安警方回应男子向路人泼不明液体",
@@ -2579,14 +2635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306062,
-      "num": 306062,
-      "word": "Uzi 投票",
-      "onboard_time": 1668575968,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 305174,
       "num": 305174,
       "word": "洛阳乘坐公共交通取消查验48小时核酸",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1668560912,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299398,
+      "num": 299398,
+      "word": "点燃我温暖你12月6日收官",
+      "onboard_time": 1668577106,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 298401,
@@ -2801,6 +2857,14 @@
       "onboard_time": 1668574830,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275138,
+      "num": 275138,
+      "word": "拜登称美将向波兰提供全力支持调查爆炸",
+      "onboard_time": 1668576149,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 274414,
@@ -3025,6 +3089,14 @@
       "onboard_time": 1668510990,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250688,
+      "num": 250688,
+      "word": "村民不出村仨月把石榴卖出上千万",
+      "onboard_time": 1668576744,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249871,
@@ -3259,14 +3331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229311,
-      "num": 229311,
-      "word": "二胎宝妈2个半月减20斤年轻20岁",
-      "onboard_time": 1668575728,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229303,
       "num": 229303,
       "word": "爸爸为锻炼2岁儿子将其独自扔下",
@@ -3473,6 +3537,14 @@
       "onboard_time": 1668432870,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213128,
+      "num": 213128,
+      "word": "巴西队想堵住管泽元的嘴",
+      "onboard_time": 1668578967,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 212830,
@@ -4395,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152343,
+      "num": 152343,
+      "word": "DK官宣Nuguri离队",
+      "onboard_time": 1668579388,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152220,
       "num": 152220,
       "word": "缅因猫因太胖被误当猞猁送到保护站",
@@ -4425,6 +4505,14 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148581,
+      "num": 148581,
+      "word": "再就业男团为王铮亮新专辑打call",
+      "onboard_time": 1668579569,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 148308,
@@ -4497,6 +4585,14 @@
       "onboard_time": 1668562768,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146226,
+      "num": 146226,
+      "word": "女孩接诈骗电话声音夸张吓退骗子",
+      "onboard_time": 1668578009,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146063,
@@ -4603,6 +4699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141649,
+      "num": 123328,
+      "word": "龚俊告黑成功",
+      "onboard_time": 1668579569,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141583,
       "num": 141583,
       "word": "李峋给公司起名打火机与公主裙",
@@ -4657,14 +4761,6 @@
       "onboard_time": 1668396988,
       "rank": 41,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 140236,
-      "num": 140236,
-      "word": "拜登称美将向波兰提供全力支持调查爆炸",
-      "onboard_time": 1668576149,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 140203,
@@ -4795,6 +4891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "iPhone14Pro息屏可不显示壁纸",
+      "onboard_time": 1668579689,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "原来秋冬围巾可以这么系",
@@ -4849,14 +4953,6 @@
       "onboard_time": 1668481228,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131050,
-      "num": 131050,
-      "word": "村民不出村仨月把石榴卖出上千万",
-      "onboard_time": 1668576744,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131009,
@@ -4947,14 +5043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122538,
-      "num": 122538,
-      "word": "流浪猫爬十楼复仇家猫",
-      "onboard_time": 1668576505,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121812,
       "num": 121812,
       "word": "波兰东部边境发生爆炸2人死亡",
@@ -5043,6 +5131,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 114017,
+      "num": 114017,
+      "word": "熊猫亲自演示如何rua熊猫",
+      "onboard_time": 1668579629,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114010,
       "num": 114010,
       "word": "找工作看重工资还是成长空间",
@@ -5057,6 +5153,14 @@
       "onboard_time": 1668547932,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 113186,
+      "num": 113186,
+      "word": "sls",
+      "onboard_time": 1668579267,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 112646,
