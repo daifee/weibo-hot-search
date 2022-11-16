@@ -1,0 +1,410 @@
+{
+  "runTime": 1668602627201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747178,
+        "num": 1747178,
+        "word": "blue露脸",
+        "onboard_time": 1668598290,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1486134,
+        "num": 1486134,
+        "word": "腾讯员工平均月薪近83888元",
+        "onboard_time": 1668596010,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 80312,
+        "num": 1363555,
+        "word": "一次看尽中国铁路发展有多快",
+        "onboard_time": 1668598109,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1523505,
+        "num": 1354465,
+        "word": "呼兰总冠军",
+        "onboard_time": 1668601228,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1269742,
+        "num": 1269742,
+        "word": "卫健委回应郑州女婴遭拒诊去世",
+        "onboard_time": 1668600211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166380,
+        "num": 1166380,
+        "word": "脱口秀大会5总冠军之战",
+        "onboard_time": 1668600091,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778511,
+        "num": 778511,
+        "word": "李峋朱韵重逢",
+        "onboard_time": 1668598710,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652639,
+        "num": 652639,
+        "word": "北京部分感染者出现症状仍参加社会活动",
+        "onboard_time": 1668591927,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610858,
+        "num": 610858,
+        "word": "郑州一核酸采样点推出VIP服务",
+        "onboard_time": 1668584429,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560661,
+        "num": 560661,
+        "word": "微信月活比QQ高一倍",
+        "onboard_time": 1668599309,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 689063,
+        "num": 547718,
+        "word": "张婉婷发文",
+        "onboard_time": 1668592829,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 610551,
+        "num": 532876,
+        "word": "沈腾有腰了",
+        "onboard_time": 1668599611,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472920,
+        "num": 472920,
+        "word": "田曦薇早期旧照",
+        "onboard_time": 1668596369,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427565,
+        "num": 427565,
+        "word": "新研究称生育永久改变女性骨骼",
+        "onboard_time": 1668592408,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386354,
+        "num": 386354,
+        "word": "毕节官方通报一女孩坠楼身亡",
+        "onboard_time": 1668593429,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 369513,
+        "num": 369513,
+        "word": "狗狗腿瘸主人花400元确认是装的",
+        "onboard_time": 1668595289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341834,
+        "num": 341834,
+        "word": "微信新增删除声音锁功能",
+        "onboard_time": 1668585029,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 305398,
+        "num": 305398,
+        "word": "刘强东捐赠149亿首次成为中国首善",
+        "onboard_time": 1668577588,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 275007,
+        "num": 275007,
+        "word": "男子疑当街猥亵女子路人挺身制止",
+        "onboard_time": 1668591447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257678,
+        "num": 257678,
+        "word": "情侣分手前都有什么征兆",
+        "onboard_time": 1668601411,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425627,
+        "num": 256983,
+        "word": "白敬亭兄友弟恭四宫格",
+        "onboard_time": 1668602370,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415412,
+        "num": 256215,
+        "word": "李峋的三年我们的四天",
+        "onboard_time": 1668600989,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348758,
+        "num": 254285,
+        "word": "张艺兴吃热狗",
+        "onboard_time": 1668597269,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250043,
+        "num": 250043,
+        "word": "腾讯将宣派9.58亿股美团股份作为特别股息",
+        "onboard_time": 1668596547,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242455,
+        "num": 242455,
+        "word": "济南烧饼店月薪1万2招本科生",
+        "onboard_time": 1668598290,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238652,
+        "num": 238652,
+        "word": "北京提醒市民科学规范佩戴口罩",
+        "onboard_time": 1668597931,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237448,
+        "num": 237448,
+        "word": "46岁妈妈订立遗嘱财产只留给儿子",
+        "onboard_time": 1668585867,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203023,
+        "num": 203023,
+        "word": "凉山3名民辅警抓捕毒贩途中坠崖",
+        "onboard_time": 1668590847,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197681,
+        "num": 197681,
+        "word": "如果你是一个自卑的人",
+        "onboard_time": 1668597811,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194343,
+        "num": 194343,
+        "word": "以岭药业急招短期工逾千人",
+        "onboard_time": 1668600632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301457,
+        "num": 189009,
+        "word": "教授储殷发文硬刚董宇辉粉丝",
+        "onboard_time": 1668597989,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 225663,
+        "num": 186880,
+        "word": "张艺兴说因为我的粉丝保护着我",
+        "onboard_time": 1668600930,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222123,
+        "num": 186578,
+        "word": "李峋朱韵的孩子",
+        "onboard_time": 1668587068,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183577,
+        "num": 183577,
+        "word": "猫咪不停抓被子被吵醒发现孩子生病",
+        "onboard_time": 1668600270,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "自带饭勺的小鸟全球仅剩600多只",
+        "onboard_time": 1668593309,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201157,
+        "num": 182610,
+        "word": "命韵峋环生三孩的原因",
+        "onboard_time": 1668597029,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177111,
+        "num": 177111,
+        "word": "考研健康上报注意事项",
+        "onboard_time": 1668600691,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173603,
+        "num": 173603,
+        "word": "流浪狗咬伤人长期投喂者被判担责",
+        "onboard_time": 1668595651,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164684,
+        "num": 164684,
+        "word": "女子炒股亏百万花4万转运后又亏",
+        "onboard_time": 1668590430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160789,
+        "num": 160789,
+        "word": "买NIKE不合适客服称鞋盒破损拒退款",
+        "onboard_time": 1668589348,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194628,
+        "num": 159749,
+        "word": "点燃我温暖你22集观后感",
+        "onboard_time": 1668597629,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158131,
+        "num": 158131,
+        "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
+        "onboard_time": 1668590909,
+        "rank": 41,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 144567,
+        "num": 144567,
+        "word": "郑大商户帮学生带物品进校被罚",
+        "onboard_time": 1668602489,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140852,
+        "num": 140852,
+        "word": "疯狂小杨哥回应被打假",
+        "onboard_time": 1668581428,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127372,
+        "num": 127372,
+        "word": "老师为什么能忍住不笑",
+        "onboard_time": 1668596310,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111809,
+        "num": 111809,
+        "word": "狄仁杰神器传说皮肤",
+        "onboard_time": 1668596010,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94993,
+        "num": 94993,
+        "word": "女生聘发模被剃光后脑勺还录像",
+        "onboard_time": 1668581727,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238112,
+        "num": 94071,
+        "word": "卿卿日常",
+        "onboard_time": 1668602608,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92049,
+        "num": 92049,
+        "word": "C罗搂头安慰愤怒队友",
+        "onboard_time": 1668602250,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84344,
+        "num": 92032,
+        "word": "适合秋天招待朋友的菜",
+        "onboard_time": 1668602070,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
