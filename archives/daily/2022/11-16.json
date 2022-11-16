@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668568854573,
+  "endTime": 1668569654202,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1667423,
+      "num": 1667423,
+      "word": "疯狂小杨哥陷带货产品质量问题漩涡",
+      "onboard_time": 1668565708,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1534093,
       "num": 1534093,
       "word": "特朗普正式宣布参选",
       "onboard_time": 1668565826,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1458637,
-      "num": 1458637,
-      "word": "疯狂小杨哥陷带货产品质量问题漩涡",
-      "onboard_time": 1668565708,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1437599,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606920,
+      "num": 606920,
+      "word": "女子买小吃被套路一小条变半袋",
+      "onboard_time": 1668564390,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606057,
       "num": 606057,
       "word": "女大学生干保洁在郑州买下两套房两辆车",
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566190,
-      "num": 566190,
-      "word": "女子买小吃被套路一小条变半袋",
-      "onboard_time": 1668564390,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 599160,
+      "num": 599160,
+      "word": "2022LPL全明星",
+      "onboard_time": 1668568109,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 529658,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 496563,
-      "num": 409675,
+      "num": 466022,
       "word": "四川凉山会理4.3级地震",
       "onboard_time": 1668567808,
       "rank": 10,
@@ -211,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475948,
+      "num": 475948,
+      "word": "韩剧cheerup男二未上位",
+      "onboard_time": 1668568528,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470101,
       "num": 470101,
       "word": "邱瑞 直播带货",
       "onboard_time": 1668527849,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464930,
+      "num": 452955,
+      "word": "大学生打麻将被罚画600个幺鸡",
+      "onboard_time": 1668568409,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 458195,
@@ -227,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445111,
+      "num": 445111,
+      "word": "卿卿日常是卿卿草原吧",
+      "onboard_time": 1668566667,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417451,
       "num": 417451,
       "word": "格莱美",
       "onboard_time": 1668557551,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 410939,
-      "num": 410939,
-      "word": "卿卿日常是卿卿草原吧",
-      "onboard_time": 1668566667,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 381801,
@@ -259,8 +283,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 355116,
-      "num": 355116,
+      "raw_hot": 367767,
+      "num": 367767,
+      "word": "杨幂肖砚再见了",
+      "onboard_time": 1668568166,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363473,
+      "num": 363473,
       "word": "高见鸿透露李峋的软肋给方志靖",
       "onboard_time": 1668568348,
       "rank": 16,
@@ -283,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338419,
-      "num": 338419,
-      "word": "杨幂肖砚再见了",
-      "onboard_time": 1668568166,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329423,
       "num": 275052,
       "word": "GQ总编说会邀请虞书欣王鹤棣",
@@ -299,20 +323,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326398,
-      "num": 326398,
-      "word": "2022LPL全明星",
-      "onboard_time": 1668568109,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 323273,
       "num": 323273,
       "word": "广州抗疫进行时",
       "onboard_time": 1668560912,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319444,
+      "num": 319444,
+      "word": "世界杯",
+      "onboard_time": 1668566187,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 316351,
@@ -387,28 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267001,
-      "num": 267001,
-      "word": "田曦薇时尚先生红毯造型",
-      "onboard_time": 1668563487,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 265895,
-      "num": 225585,
+      "raw_hot": 268226,
+      "num": 268226,
       "word": "命运关上了李峋所有的窗",
       "onboard_time": 1668567629,
       "rank": 30,
       "category": "影视"
     },
     {
-      "raw_hot": 261178,
-      "num": 261178,
-      "word": "世界杯",
-      "onboard_time": 1668566187,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 267001,
+      "num": 267001,
+      "word": "田曦薇时尚先生红毯造型",
+      "onboard_time": 1668563487,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 258972,
@@ -451,11 +467,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232450,
-      "num": 225459,
-      "word": "韩剧cheerup男二未上位",
-      "onboard_time": 1668568528,
-      "rank": 31,
+      "raw_hot": 245921,
+      "num": 245921,
+      "word": "你后悔把时间全部交给事业吗",
+      "onboard_time": 1668568889,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192132,
+      "num": 192132,
+      "word": "校方回应阿姨徒手装回散落米饭",
+      "onboard_time": 1668568589,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 192101,
       "num": 189792,
       "word": "预测脱口秀大会第五季冠军",
@@ -595,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177904,
-      "num": 177904,
-      "word": "大学生打麻将被罚画600个幺鸡",
-      "onboard_time": 1668568409,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 177549,
       "num": 133104,
       "word": "华谊兄弟裁员",
@@ -625,6 +641,14 @@
       "onboard_time": 1668524073,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176081,
+      "num": 165943,
+      "word": "公主日记将拍第三部",
+      "onboard_time": 1668569485,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168244,
@@ -745,14 +769,6 @@
       "onboard_time": 1668536595,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125932,
-      "num": 134188,
-      "word": "校方回应阿姨徒手装回散落米饭",
-      "onboard_time": 1668568589,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123720,
@@ -953,6 +969,9 @@
     },
     {
       "word": "#G20峰会金句#"
+    },
+    {
+      "word": "#新时代新征程新伟业#"
     }
   ]
 }
