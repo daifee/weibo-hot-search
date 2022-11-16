@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668640891879,
+  "endTime": 1668641816837,
   "band_list": [
     {
       "raw_hot": 1486624,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964098,
-      "num": 964098,
+      "raw_hot": 1137831,
+      "num": 1137831,
       "word": "北京部分感染者出现症状仍参加社会活动",
       "onboard_time": 1668591927,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 806648,
-      "num": 806648,
+      "raw_hot": 1070282,
+      "num": 1070282,
       "word": "真实的石家庄到底是什么样",
       "onboard_time": 1668618558,
       "rank": 48,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 534459,
+      "num": 534459,
+      "word": "90后双胞胎同框如相差30岁的母女",
+      "onboard_time": 1668612991,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506174,
       "num": 506174,
       "word": "呼兰总冠军",
@@ -51,12 +59,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447441,
-      "num": 447441,
-      "word": "90后双胞胎同框如相差30岁的母女",
-      "onboard_time": 1668612991,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 454210,
+      "num": 454210,
+      "word": "马斯克称人口崩溃已是必然",
+      "onboard_time": 1668630791,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 404301,
@@ -99,6 +107,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 356259,
+      "num": 356259,
+      "word": "女子独居农村月入1千称很快乐",
+      "onboard_time": 1668607772,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "肖砚白术be了",
@@ -113,14 +129,6 @@
       "onboard_time": 1668592829,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324992,
-      "num": 324992,
-      "word": "马斯克称人口崩溃已是必然",
-      "onboard_time": 1668630791,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 322640,
@@ -147,12 +155,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294899,
-      "num": 294899,
-      "word": "女子独居农村月入1千称很快乐",
-      "onboard_time": 1668607772,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 273870,
+      "num": 273870,
+      "word": "男朋友的朋友圈都发什么",
+      "onboard_time": 1668625392,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267648,
+      "num": 267648,
+      "word": "朱韵靠回忆活着",
+      "onboard_time": 1668615027,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 263187,
@@ -171,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253030,
-      "num": 253030,
-      "word": "朱韵靠回忆活着",
-      "onboard_time": 1668615027,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246108,
       "num": 171613,
       "word": "高见鸿的结局是癌症去世",
@@ -193,6 +201,14 @@
       "onboard_time": 1668610174,
       "rank": 17,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 238187,
+      "num": 238187,
+      "word": "江母诉刘鑫案22日二审第二次开庭",
+      "onboard_time": 1668619217,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235820,
@@ -228,35 +244,19 @@
     },
     {
       "raw_hot": 207716,
-      "num": 174017,
+      "num": 199013,
       "word": "王一博的舞台后劲有多大",
       "onboard_time": 1668614787,
       "rank": 32,
       "category": "综艺"
     },
     {
-      "raw_hot": 205089,
-      "num": 205089,
-      "word": "男朋友的朋友圈都发什么",
-      "onboard_time": 1668625392,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204832,
-      "num": 128059,
+      "num": 171339,
       "word": "纽约中餐厅为张伟丽延迟关门",
       "onboard_time": 1668613349,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204612,
-      "num": 204612,
-      "word": "江母诉刘鑫案22日二审第二次开庭",
-      "onboard_time": 1668619217,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193454,
@@ -307,12 +307,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138553,
-      "num": 138553,
+      "raw_hot": 144469,
+      "num": 144469,
+      "word": "吉吉国王脸盲不是演的",
+      "onboard_time": 1668599850,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143309,
+      "num": 143309,
       "word": "2岁幼童被卡邻家男孩钻墙缝救出",
       "onboard_time": 1668616283,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "赵丽颖幸福到万家天津卫视开播",
+      "onboard_time": 1668641723,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135768,
+      "num": 135768,
+      "word": "梅西",
+      "onboard_time": 1668641183,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 128964,
@@ -331,20 +355,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118574,
-      "num": 107728,
-      "word": "吴磊说散个消食步",
-      "onboard_time": 1668618438,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 119321,
+      "num": 119321,
+      "word": "舔狗有多能舔",
+      "onboard_time": 1668638355,
+      "rank": 35,
+      "category": "幽默"
     },
     {
-      "raw_hot": 116068,
-      "num": 116068,
+      "raw_hot": 119204,
+      "num": 119204,
       "word": "猫咪不停抓被子被吵醒发现孩子生病",
       "onboard_time": 1668600270,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118574,
+      "num": 114931,
+      "word": "吴磊说散个消食步",
+      "onboard_time": 1668618438,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 109116,
@@ -355,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107357,
+      "num": 107357,
+      "word": "养仓鼠这件事仓鼠最不值钱",
+      "onboard_time": 1668617361,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107198,
       "num": 107198,
       "word": "摩根说C罗谈梅西的话将成为惊天头条",
@@ -363,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104270,
-      "num": 104270,
-      "word": "吉吉国王脸盲不是演的",
-      "onboard_time": 1668599850,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 107080,
+      "num": 107080,
+      "word": "张艺兴在格莱美博物馆跳krump",
+      "onboard_time": 1668639981,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103524,
@@ -379,20 +419,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 100919,
+      "num": 100919,
+      "word": "重庆落实离渝审批制度",
+      "onboard_time": 1668632652,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100053,
       "num": 55385,
       "word": "谁是你今年最喜欢的男性角色",
       "onboard_time": 1668618318,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97608,
-      "num": 97608,
-      "word": "养仓鼠这件事仓鼠最不值钱",
-      "onboard_time": 1668617361,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 93233,
@@ -419,20 +459,28 @@
       "category": "财经,时尚"
     },
     {
-      "raw_hot": 86991,
-      "num": 86991,
-      "word": "重庆落实离渝审批制度",
-      "onboard_time": 1668632652,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85570,
       "num": 85570,
       "word": "流浪狗咬伤人长期投喂者被判担责",
       "onboard_time": 1668595651,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84838,
+      "num": 84838,
+      "word": "鸟鸟无冕之王",
+      "onboard_time": 1668641422,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83974,
+      "num": 83974,
+      "word": "Uzi",
+      "onboard_time": 1668641422,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 83734,
@@ -451,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79338,
-      "num": 79338,
+      "raw_hot": 80155,
+      "num": 80155,
       "word": "新娘婚礼被上课式祝福一脸无奈",
       "onboard_time": 1668603211,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77826,
-      "num": 77826,
-      "word": "舔狗有多能舔",
-      "onboard_time": 1668638355,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 73098,
@@ -473,6 +513,14 @@
       "onboard_time": 1668615265,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 70716,
+      "num": 70716,
+      "word": "阿联酋vs阿根廷",
+      "onboard_time": 1668640942,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65302,
@@ -523,8 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33024,
-      "num": 537100,
+      "raw_hot": 35399,
+      "num": 680626,
       "word": "沉浸式看神十四航天员工作",
       "onboard_time": 1668616941,
       "rank": 2,
