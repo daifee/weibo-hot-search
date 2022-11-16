@@ -1,6 +1,6 @@
 {
   "startTime": 1668529902461,
-  "endTime": 1668608361956,
+  "endTime": 1668609400074,
   "band_list": [
     {
       "raw_hot": 2327722,
@@ -51,6 +51,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1608917,
+      "num": 1608917,
+      "word": "北京部分感染者出现症状仍参加社会活动",
+      "onboard_time": 1668591927,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1545517,
       "num": 426648,
       "word": "刘强东捐赠149亿首次成为中国首善",
@@ -80,14 +88,6 @@
       "word": "张文宏称走出疫情靠的是科技",
       "onboard_time": 1668543854,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1432903,
-      "num": 1432903,
-      "word": "北京部分感染者出现症状仍参加社会活动",
-      "onboard_time": 1668591927,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824010,
+      "num": 824010,
+      "word": "高见鸿的结局是癌症去世",
+      "onboard_time": 1668605970,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 822139,
       "num": 822139,
       "word": "cheerup 弃剧",
@@ -272,14 +280,6 @@
       "word": "工作人员否认陈道明演庆余年2",
       "onboard_time": 1668555325,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 792931,
-      "num": 792931,
-      "word": "高见鸿的结局是癌症去世",
-      "onboard_time": 1668605970,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713246,
+      "num": 713246,
+      "word": "鸟鸟脱5年度第二",
+      "onboard_time": 1668605489,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688534,
       "num": 688534,
       "word": "易立竞提问张婉婷",
@@ -393,14 +401,6 @@
       "onboard_time": 1668589348,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666998,
-      "num": 666998,
-      "word": "鸟鸟脱5年度第二",
-      "onboard_time": 1668605489,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 647356,
@@ -667,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441827,
+      "num": 441827,
+      "word": "女子以为发胖肚中取出16斤囊肿",
+      "onboard_time": 1668607648,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438862,
       "num": 438862,
       "word": "北京新增社会面32例",
@@ -723,12 +731,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398168,
+      "num": 229322,
+      "word": "网传阿凡达2内地12月15日上映",
+      "onboard_time": 1668608378,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395562,
       "num": 395562,
       "word": "辽宁研考",
       "onboard_time": 1668571649,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 392282,
+      "num": 228141,
+      "word": "谢谢王涛 我是邱瑞",
+      "onboard_time": 1668608131,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 390874,
@@ -915,11 +939,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342139,
+      "num": 342139,
+      "word": "这长得也太迪士尼了",
+      "onboard_time": 1668603749,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339492,
       "num": 339492,
       "word": "元英和袁善见好配",
       "onboard_time": 1668588810,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334160,
+      "num": 177233,
+      "word": "谢谢你医生结局是HE还是BE",
+      "onboard_time": 1668608849,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -937,6 +977,14 @@
       "onboard_time": 1668581667,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332556,
+      "num": 332556,
+      "word": "女子独居农村月入1千称很快乐",
+      "onboard_time": 1668607772,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332309,
@@ -1027,12 +1075,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 316002,
-      "num": 316002,
-      "word": "这长得也太迪士尼了",
-      "onboard_time": 1668603749,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 316194,
+      "num": 168450,
+      "word": "爱奇艺站内热度值破万剧集",
+      "onboard_time": 1668608911,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 315872,
@@ -1123,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291614,
+      "num": 139715,
+      "word": "看李峋爆打方志靖好爽",
+      "onboard_time": 1668609273,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289988,
       "num": 176151,
       "word": "等李峋出狱",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1668591149,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 282188,
-      "num": 177494,
-      "word": "谢谢王涛 我是邱瑞",
-      "onboard_time": 1668608131,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 277928,
@@ -1411,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231354,
+      "num": 231354,
+      "word": "再赚不到钱就不礼貌了",
+      "onboard_time": 1668603930,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230101,
       "num": 222416,
       "word": "点燃方志靖温暖我",
@@ -1539,14 +1595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208734,
-      "num": 208734,
-      "word": "再赚不到钱就不礼貌了",
-      "onboard_time": 1668603930,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207513,
       "num": 207513,
       "word": "杨幂秦施醉酒行为大赏",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1668593129,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196924,
-      "num": 196924,
-      "word": "女子以为发胖肚中取出16斤囊肿",
-      "onboard_time": 1668607648,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195509,
@@ -1923,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145783,
-      "num": 145783,
-      "word": "女子独居农村月入1千称很快乐",
-      "onboard_time": 1668607772,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144420,
       "num": 116185,
       "word": "刘令姿说热度破万我就浅跳一下",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1668572068,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139701,
+      "num": 139701,
+      "word": "广州超3万感染者无一重型危重型患者",
+      "onboard_time": 1668609091,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138665,
@@ -2201,6 +2241,22 @@
       "onboard_time": 1668507750,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 109967,
+      "num": 109967,
+      "word": "70岁老妈开车接喝酒女儿回家",
+      "onboard_time": 1668608911,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109281,
+      "num": 109281,
+      "word": "送奶工灭火救一家人被记一等功",
+      "onboard_time": 1668609391,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 106134,
