@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668663388817,
+  "endTime": 1668666409190,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 838605,
+      "num": 838605,
+      "word": "餐厅帮考研生无偿带资料被罚",
+      "onboard_time": 1668662611,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830231,
       "num": 830231,
       "word": "蒲熠星晒出南京大学招生办分数确认文件",
@@ -128,6 +136,14 @@
       "word": "女生欲搭讪男生遇到女友闪现",
       "onboard_time": 1668654507,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799068,
+      "num": 799068,
+      "word": "睡眠超10小时小心引发心血管疾病",
+      "onboard_time": 1668661530,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -153,6 +169,14 @@
       "onboard_time": 1668644611,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 680035,
+      "num": 680035,
+      "word": "米哈游",
+      "onboard_time": 1668663030,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 672286,
@@ -211,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571317,
+      "num": 477484,
+      "word": "陈飞宇拍完吻戏摸张婧仪的头",
+      "onboard_time": 1668663866,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534459,
       "num": 534459,
       "word": "90后双胞胎同框如相差30岁的母女",
@@ -256,6 +288,14 @@
       "word": "白敬亭田曦薇卿卿日常断更三天",
       "onboard_time": 1668654629,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 493780,
+      "num": 493780,
+      "word": "彭冠英想和蔡文静三搭五搭",
+      "onboard_time": 1668665607,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -403,14 +443,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 358332,
-      "num": 358332,
-      "word": "睡眠超10小时小心引发心血管疾病",
-      "onboard_time": 1668661530,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356259,
       "num": 356259,
       "word": "女子独居农村月入1千称很快乐",
@@ -481,6 +513,14 @@
       "onboard_time": 1668613171,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313852,
+      "num": 313852,
+      "word": "库里50分",
+      "onboard_time": 1668664708,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 312390,
@@ -595,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264611,
+      "num": 264611,
+      "word": "吴磊你好星期六录制路透",
+      "onboard_time": 1668666269,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263187,
       "num": 263187,
       "word": "情侣分手前都有什么征兆",
@@ -617,6 +665,22 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259206,
+      "num": 259206,
+      "word": "暴雪被爆料想让网易打白工",
+      "onboard_time": 1668665187,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 251227,
+      "num": 251227,
+      "word": "网易发表暴雪游戏运营到期声明",
+      "onboard_time": 1668665909,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 250088,
@@ -652,7 +716,7 @@
     },
     {
       "raw_hot": 242799,
-      "num": 166910,
+      "num": 179176,
       "word": "成毅被泰媒称为戏剧之神",
       "onboard_time": 1668660991,
       "rank": 40,
@@ -712,6 +776,22 @@
       "word": "新研究称生育永久改变女性骨骼",
       "onboard_time": 1668592408,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214306,
+      "num": 214306,
+      "word": "10斤的猫20斤的反骨",
+      "onboard_time": 1668664407,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213590,
+      "num": 213590,
+      "word": "美国典当店老板将二战相册无偿捐出",
+      "onboard_time": 1668664889,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -787,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197700,
+      "num": 197700,
+      "word": "白鹿王鹤棣以爱为营同框氛围感",
+      "onboard_time": 1668664708,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196904,
       "num": 196904,
       "word": "女孩不慎落水教科书式等待救援",
@@ -796,7 +884,7 @@
     },
     {
       "raw_hot": 194233,
-      "num": 131055,
+      "num": 187820,
       "word": "原来惊鸿舞是这么拍的",
       "onboard_time": 1668662849,
       "rank": 41,
@@ -817,14 +905,6 @@
       "onboard_time": 1668655408,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 182794,
-      "num": 164155,
-      "word": "餐厅帮考研生无偿带资料被罚",
-      "onboard_time": 1668662611,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182673,
@@ -849,6 +929,22 @@
       "onboard_time": 1668598290,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177285,
+      "num": 177285,
+      "word": "为领鸡蛋80岁奶奶带四代人跳操",
+      "onboard_time": 1668661772,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176074,
+      "num": 176074,
+      "word": "孟美岐新歌Alien舞蹈版MV",
+      "onboard_time": 1668664227,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 175438,
@@ -881,14 +977,6 @@
       "onboard_time": 1668660630,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161782,
-      "num": 161782,
-      "word": "为领鸡蛋80岁奶奶带四代人跳操",
-      "onboard_time": 1668661772,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160357,
@@ -931,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150314,
+      "num": 150314,
+      "word": "学校回应男生穿背心做核酸被通报",
+      "onboard_time": 1668665849,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149404,
       "num": 149404,
       "word": "重庆落实离渝审批制度",
@@ -971,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142707,
-      "num": 142707,
-      "word": "米哈游",
-      "onboard_time": 1668663030,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "夸大产品功效致消费者身体受损要担责吗",
@@ -995,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141743,
+      "num": 141743,
+      "word": "太阳战胜勇士",
+      "onboard_time": 1668666269,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139495,
       "num": 139495,
       "word": "赵丽颖幸福到万家天津卫视开播",
       "onboard_time": 1668641723,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139387,
+      "num": 134903,
+      "word": "宋亚轩新歌百忧戒花絮照",
+      "onboard_time": 1668665729,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138706,
@@ -1025,6 +1129,14 @@
       "onboard_time": 1668659851,
       "rank": 45,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 132361,
+      "num": 132361,
+      "word": "卡塔尔世界杯",
+      "onboard_time": 1668663568,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 128964,
@@ -1067,6 +1179,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123022,
+      "num": 123022,
+      "word": "网易将继续为玩家服务到最后一刻",
+      "onboard_time": 1668665785,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122195,
+      "num": 122195,
+      "word": "幼童被卡墙缝6岁男孩挺身救援",
+      "onboard_time": 1668663389,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 121710,
       "num": 121710,
       "word": "这些小动物都是青训过的吧",
@@ -1091,12 +1219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114175,
+      "num": 114175,
+      "word": "狗狗玩气球把自己玩尴尬了",
+      "onboard_time": 1668665607,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113804,
+      "num": 113804,
+      "word": "日本沙雕冰淇淋广告能有多好笑",
+      "onboard_time": 1668664468,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109590,
       "num": 109590,
       "word": "阿根廷队抵达卡塔尔",
       "onboard_time": 1668651565,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109434,
+      "num": 109434,
+      "word": "男子在女子身旁徘徊趁机偷摸大腿",
+      "onboard_time": 1668664288,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109116,
