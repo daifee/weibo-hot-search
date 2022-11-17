@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668684838067,
+  "endTime": 1668689177895,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -129,6 +129,14 @@
       "onboard_time": 1668496107,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2241406,
+      "num": 2241406,
+      "word": "付国豪",
+      "onboard_time": 1668687266,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2084393,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876160,
+      "num": 876160,
+      "word": "华为疑似暂缓2023届校招",
+      "onboard_time": 1668683969,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 874085,
       "num": 663653,
       "word": "杨幂新剧4集换了15套衣服",
@@ -1595,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 613268,
+      "num": 613268,
+      "word": "172在山东的现状",
+      "onboard_time": 1668684210,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 610551,
       "num": 532876,
       "word": "沈腾有腰了",
@@ -1947,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525339,
+      "num": 525339,
+      "word": "李峋朱韵36集造娃",
+      "onboard_time": 1668686729,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524033,
       "num": 355527,
       "word": "雅诗兰黛宣布将以约28亿美元收购Tom Ford",
@@ -2283,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480621,
+      "num": 457633,
+      "word": "许凯说杨幂特别好看",
+      "onboard_time": 1668687389,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479671,
       "num": 479671,
       "word": "社死还是得看研究生",
@@ -2385,6 +2425,14 @@
       "onboard_time": 1668527849,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469085,
+      "num": 469085,
+      "word": "31省人口出生率公布",
+      "onboard_time": 1668685109,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468724,
@@ -2563,8 +2611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443264,
-      "num": 443264,
+      "raw_hot": 446495,
+      "num": 446495,
       "word": "卿卿日常",
       "onboard_time": 1668340228,
       "rank": 27,
@@ -3107,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380618,
+      "num": 380618,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1668683969,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 380504,
       "num": 268107,
       "word": "30岁俄罗斯姑娘捐器官救4广西患者",
@@ -3483,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347107,
+      "num": 347107,
+      "word": "男子地铁上脱鞋被人扔出车厢",
+      "onboard_time": 1668684809,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346200,
       "num": 346200,
       "word": "蒲熠星回应高考成绩加分质疑",
@@ -3609,6 +3673,14 @@
       "onboard_time": 1668504989,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334932,
+      "num": 334932,
+      "word": "13岁少女秃顶疑似是拔毛癖",
+      "onboard_time": 1668687989,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334727,
@@ -4147,14 +4219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 289619,
-      "num": 289619,
-      "word": "华为疑似暂缓2023届校招",
-      "onboard_time": 1668683969,
-      "rank": 19,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 289070,
       "num": 289070,
       "word": "女孩哭着卖气球路人以为被拐卖",
@@ -4219,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284936,
+      "num": 284936,
+      "word": "网传苏州多名城管殴打商贩并踹头",
+      "onboard_time": 1668686368,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 284650,
       "num": 284650,
       "word": "aespa没有年末舞台",
@@ -4233,6 +4305,14 @@
       "onboard_time": 1668576744,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283316,
+      "num": 283316,
+      "word": "aespa特效躺播",
+      "onboard_time": 1668688830,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 283315,
@@ -4505,6 +4585,14 @@
       "onboard_time": 1668563487,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266866,
+      "num": 161720,
+      "word": "李诞称之前没人愿为脱口秀大会买单",
+      "onboard_time": 1668687328,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266705,
@@ -5163,6 +5251,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228467,
+      "num": 161619,
+      "word": "任贤齐骑行路上偶遇寻子的父亲",
+      "onboard_time": 1668684868,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228141,
       "num": 204296,
       "word": "杨幂新剧事业心好强",
@@ -5288,6 +5384,14 @@
       "word": "朱韵离家出走",
       "onboard_time": 1668439946,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220428,
+      "num": 161568,
+      "word": "命韵峋环没有拍毕业照",
+      "onboard_time": 1668687989,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6267,14 +6371,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 176182,
-      "num": 176182,
-      "word": "172在山东的现状",
-      "onboard_time": 1668684210,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176074,
       "num": 176074,
       "word": "孟美岐新歌Alien舞蹈版MV",
@@ -6571,6 +6667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161847,
+      "num": 161847,
+      "word": "华为招聘热线回应暂缓招聘",
+      "onboard_time": 1668685950,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161767,
       "num": 161767,
       "word": "马嘉祺我们的歌唱月亮预告",
@@ -6609,6 +6713,14 @@
       "onboard_time": 1668411928,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161293,
+      "num": 161293,
+      "word": "网易称以最大程度保障中国玩家利益",
+      "onboard_time": 1668682888,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 161139,
@@ -7059,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142260,
+      "num": 142260,
+      "word": "这跳绳非学不可吗",
+      "onboard_time": 1668688647,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142253,
       "num": 142253,
       "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
@@ -7147,6 +7267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141208,
+      "num": 141208,
+      "word": "陈幸同vs巴特拉",
+      "onboard_time": 1668689008,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141159,
       "num": 141159,
       "word": "Redvelvet新专辑预告视频公开",
@@ -7185,6 +7313,14 @@
       "onboard_time": 1668417748,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140182,
+      "num": 140182,
+      "word": "原来小鸟吵架是这样的",
+      "onboard_time": 1668687508,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 140087,
@@ -7241,14 +7377,6 @@
       "onboard_time": 1668663389,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 139238,
-      "num": 139238,
-      "word": "网易称以最大程度保障中国玩家利益",
-      "onboard_time": 1668682888,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 138706,
@@ -7625,6 +7753,14 @@
       "onboard_time": 1668583107,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123754,
+      "num": 123754,
+      "word": "00后女孩晒守墓工作惹网友羡慕",
+      "onboard_time": 1668689008,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123346,
@@ -8155,14 +8291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102103,
-      "num": 102103,
-      "word": "男子地铁上脱鞋被人扔出车厢",
-      "onboard_time": 1668684809,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102100,
       "num": 102100,
       "word": "卿卿日常李薇喂尹峥吃糖",
@@ -8193,14 +8321,6 @@
       "onboard_time": 1668517531,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 100810,
-      "num": 100810,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1668683969,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 100789,
