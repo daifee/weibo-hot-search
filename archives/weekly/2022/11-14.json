@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668706677562,
+  "endTime": 1668709565758,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -7003,6 +7003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161902,
+      "num": 62525,
+      "word": "暴雪游戏主播集体发声",
+      "onboard_time": 1668705857,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161767,
       "num": 161767,
       "word": "马嘉祺我们的歌唱月亮预告",
@@ -9233,14 +9241,6 @@
       "onboard_time": 1668443724,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58598,
-      "num": 58598,
-      "word": "暴雪游戏主播集体发声",
-      "onboard_time": 1668705857,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 57867,

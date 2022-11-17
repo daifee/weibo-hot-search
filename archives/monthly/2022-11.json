@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668706677562,
+  "endTime": 1668709565758,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -24539,6 +24539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161902,
+      "num": 62525,
+      "word": "暴雪游戏主播集体发声",
+      "onboard_time": 1668705857,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161898,
       "num": 161898,
       "word": "王一博十月刊黑白花絮视频",
@@ -35033,14 +35041,6 @@
       "onboard_time": 1667266106,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 58598,
-      "num": 58598,
-      "word": "暴雪游戏主播集体发声",
-      "onboard_time": 1668705857,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 58493,
