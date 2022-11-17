@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668716548457,
+  "endTime": 1668717431580,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -33667,6 +33667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80968,
+      "num": 80968,
+      "word": "警惕电竞酒店成变相网吧",
+      "onboard_time": 1668713713,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80877,
       "num": 80877,
       "word": "小伙把火龙果田拍成浪漫星海",
@@ -34449,14 +34457,6 @@
       "onboard_time": 1668249031,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71094,
-      "num": 71094,
-      "word": "警惕电竞酒店成变相网吧",
-      "onboard_time": 1668713713,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70805,
@@ -36083,6 +36083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19397,
+      "num": 19397,
+      "word": "这不就是刚睡醒的我",
+      "onboard_time": 1668715632,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18971,
       "num": 305712,
       "word": "那些逢人必推的百科全书",
@@ -36107,11 +36115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17270,
-      "num": 17270,
-      "word": "这不就是刚睡醒的我",
-      "onboard_time": 1668715632,
-      "rank": 30,
+      "raw_hot": 17959,
+      "num": 17959,
+      "word": "它还以为自己在喝水",
+      "onboard_time": 1668715872,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -36169,14 +36177,6 @@
       "onboard_time": 1668369792,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14843,
-      "num": 14843,
-      "word": "它还以为自己在喝水",
-      "onboard_time": 1668715872,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 14783,
@@ -36305,6 +36305,14 @@
       "onboard_time": 1668078026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10396,
+      "num": 10396,
+      "word": "成龙蓝心妍搭肩合照",
+      "onboard_time": 1668717370,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10271,
