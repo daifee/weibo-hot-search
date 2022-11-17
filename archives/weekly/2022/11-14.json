@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668698550920,
+  "endTime": 1668699539546,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2349310,
+      "num": 2349310,
+      "word": "付国豪因抑郁症病故",
+      "onboard_time": 1668696751,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2341915,
       "num": 570197,
       "word": "女子已生4女儿又怀孕被要求离婚",
@@ -168,14 +176,6 @@
       "word": "广州核酸",
       "onboard_time": 1668483988,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1948186,
-      "num": 1948186,
-      "word": "付国豪因抑郁症病故",
-      "onboard_time": 1668696751,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1668483937,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1697063,
+      "num": 419968,
+      "word": "马航MH17坠机案宣判",
+      "onboard_time": 1668697590,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1690140,
@@ -1163,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794904,
+      "num": 794904,
+      "word": "林高远",
+      "onboard_time": 1668698611,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 794584,
       "num": 697349,
       "word": "毛豆 炸",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1668672448,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 730286,
-      "num": 419968,
-      "word": "马航MH17坠机案宣判",
-      "onboard_time": 1668697590,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726367,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1668568109,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 596149,
+      "num": 596149,
+      "word": "返聘教师多次在教室猥亵女童",
+      "onboard_time": 1668696450,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592973,
@@ -2267,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498273,
+      "num": 376474,
+      "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
+      "onboard_time": 1668696571,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498025,
       "num": 498025,
       "word": "河北一银行窗台洒豆油防老人坐",
@@ -2555,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466052,
+      "num": 466052,
+      "word": "广州天河堂食",
+      "onboard_time": 1668696450,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465536,
       "num": 456172,
       "word": "海边的高圆圆",
@@ -2584,14 +2616,6 @@
       "word": "男孩看电视不睡觉父母罚通宵看",
       "onboard_time": 1668474151,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461062,
-      "num": 461062,
-      "word": "广州天河堂食",
-      "onboard_time": 1668696450,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3243,14 +3267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385402,
-      "num": 385402,
-      "word": "返聘教师多次在教室猥亵女童",
-      "onboard_time": 1668696450,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385196,
       "num": 385196,
       "word": "男子捡到12年前钱包意外找到失主",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1668566247,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376474,
-      "num": 376474,
-      "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
-      "onboard_time": 1668696571,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376363,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1668596547,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 329434,
+      "num": 329434,
+      "word": "网易失去暴雪会损失多少",
+      "onboard_time": 1668697350,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 329425,
@@ -6067,6 +6083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201006,
+      "num": 201006,
+      "word": "什么样的爱情不长久",
+      "onboard_time": 1668698432,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200805,
       "num": 200805,
       "word": "RNG转会期",
@@ -6337,14 +6361,6 @@
       "onboard_time": 1668518731,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189305,
-      "num": 189305,
-      "word": "网易失去暴雪会损失多少",
-      "onboard_time": 1668697350,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 189219,
@@ -7931,6 +7947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127945,
+      "num": 127945,
+      "word": "张伯礼称奥密克戎难以彻底消灭",
+      "onboard_time": 1668699093,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127827,
       "num": 127827,
       "word": "Fallingyou一响命韵峋环上场",
@@ -8283,14 +8307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112174,
-      "num": 112174,
-      "word": "什么样的爱情不长久",
-      "onboard_time": 1668698432,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111927,
       "num": 111927,
       "word": "等主人上楼梯的小狗",
@@ -8592,6 +8608,14 @@
       "word": "北京新增本土感染者170例",
       "onboard_time": 1668335790,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103808,
+      "num": 103808,
+      "word": "6岁哥哥见妹妹哭一把揽入怀中",
+      "onboard_time": 1668699208,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
