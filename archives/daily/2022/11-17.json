@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668676856021,
+  "endTime": 1668677809439,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -67,19 +67,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1576437,
+      "num": 1576437,
+      "word": "广州重症1例危重症1例",
+      "onboard_time": 1668674307,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1486624,
       "num": 1486624,
       "word": "广州超3万感染者无一重型危重型患者",
       "onboard_time": 1668609091,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1157916,
-      "num": 1157916,
-      "word": "广州重症1例危重症1例",
-      "onboard_time": 1668674307,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1668649348,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889039,
+      "num": 889039,
+      "word": "韩国今天高考数学第一道题",
+      "onboard_time": 1668676588,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 855141,
@@ -595,6 +603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 362366,
+      "num": 362366,
+      "word": "3岁以下婴幼儿免查核酸阴性证明",
+      "onboard_time": 1668674069,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356259,
       "num": 356259,
       "word": "女子独居农村月入1千称很快乐",
@@ -635,11 +651,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342559,
-      "num": 342559,
-      "word": "3岁以下婴幼儿免查核酸阴性证明",
-      "onboard_time": 1668674069,
-      "rank": 37,
+      "raw_hot": 344879,
+      "num": 344879,
+      "word": "武汉一餐馆大白上门顾客集体跑单",
+      "onboard_time": 1668675089,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309086,
+      "num": 309086,
+      "word": "卿卿日常断更第一天大家在想什么",
+      "onboard_time": 1668673529,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304095,
       "num": 263827,
       "word": "白敬亭晒自拍庆祝卿卿日常破万",
@@ -753,6 +777,14 @@
       "onboard_time": 1668641422,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293134,
+      "num": 293134,
+      "word": "1899",
+      "onboard_time": 1668676889,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 286673,
@@ -785,14 +817,6 @@
       "onboard_time": 1668643470,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275990,
-      "num": 275990,
-      "word": "卿卿日常断更第一天大家在想什么",
-      "onboard_time": 1668673529,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273870,
@@ -865,14 +889,6 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253578,
-      "num": 253578,
-      "word": "武汉一餐馆大白上门顾客集体跑单",
-      "onboard_time": 1668675089,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251227,
@@ -995,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219499,
+      "num": 219499,
+      "word": "曼谷街头布满中泰两种文字欢迎标语",
+      "onboard_time": 1668673890,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 217063,
       "num": 217063,
       "word": "新研究称生育永久改变女性骨骼",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1668613349,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204054,
+      "num": 204054,
+      "word": "爱的二八定律直播",
+      "onboard_time": 1668676769,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 201469,
@@ -1139,14 +1171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186082,
-      "num": 186082,
-      "word": "曼谷街头布满中泰两种文字欢迎标语",
-      "onboard_time": 1668673890,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 182673,
       "num": 182673,
       "word": "11月16日新增本土无症状20804例",
@@ -1219,12 +1243,12 @@
       "category": "体育,游戏"
     },
     {
-      "raw_hot": 171331,
-      "num": 171331,
-      "word": "韩国今天高考数学第一道题",
-      "onboard_time": 1668676588,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 167714,
+      "num": 167714,
+      "word": "米哈游将接手暴雪中国区运营系谣言",
+      "onboard_time": 1668677248,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 166234,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1668671848,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165568,
+      "num": 165568,
+      "word": "家中着火猫咪灰头土脸叫醒主人",
+      "onboard_time": 1668676948,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165100,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1668666928,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145882,
+      "num": 145882,
+      "word": "取消对密接的密接的判定和管理",
+      "onboard_time": 1668677668,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 144469,
@@ -1467,12 +1507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128218,
+      "num": 128218,
+      "word": "北京新增23例社会面详情",
+      "onboard_time": 1668677370,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128190,
       "num": 128190,
       "word": "焦裕禄亲手栽下的泡桐已枝繁叶茂",
       "onboard_time": 1668648869,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128188,
+      "num": 128188,
+      "word": "李峋吃醋语录",
+      "onboard_time": 1668677430,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 127827,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1668669506,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 115069,
-      "num": 115069,
-      "word": "爱的二八定律直播",
-      "onboard_time": 1668676769,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 113804,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1668674430,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101598,
+      "num": 101598,
+      "word": "晨光与晨雾下的泸沽湖美如仙境",
+      "onboard_time": 1668677788,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 100053,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1668630431,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23512,
+      "num": 1115622,
+      "word": "APEC第29次领导人非正式会议",
+      "onboard_time": 1668677487,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21690,
