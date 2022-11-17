@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668667394618,
+  "endTime": 1668669533932,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -48,6 +48,14 @@
       "word": "广州超3万感染者无一重型危重型患者",
       "onboard_time": 1668609091,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438232,
+      "num": 1438232,
+      "word": "石家庄新增感染者3天下降近80%",
+      "onboard_time": 1668667887,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667808,
+      "num": 453878,
+      "word": "疯狂小杨哥公布质检报告",
+      "onboard_time": 1668668427,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 649125,
       "num": 500966,
       "word": "武汉快递",
@@ -249,6 +265,14 @@
       "onboard_time": 1668665607,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 561836,
+      "num": 561836,
+      "word": "暴雪被爆料想让网易打白工",
+      "onboard_time": 1668665187,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 534459,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457519,
+      "num": 457519,
+      "word": "美国典当店老板将二战相册无偿捐出",
+      "onboard_time": 1668664889,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454210,
       "num": 454210,
       "word": "马斯克称人口崩溃已是必然",
@@ -363,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 412789,
-      "num": 412789,
-      "word": "暴雪被爆料想让网易打白工",
-      "onboard_time": 1668665187,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 410070,
       "num": 410070,
       "word": "小细胞肺癌是中国烟民头号夺命癌",
@@ -379,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407916,
+      "num": 407916,
+      "word": "阳华 奶茶狗",
+      "onboard_time": 1668668127,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405216,
       "num": 405216,
       "word": "命韵峋环第35集复合",
       "onboard_time": 1668650188,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404981,
+      "num": 404981,
+      "word": "学校回应男生穿背心做核酸被通报",
+      "onboard_time": 1668665849,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404301,
@@ -459,12 +499,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 358890,
-      "num": 358890,
-      "word": "美国典当店老板将二战相册无偿捐出",
-      "onboard_time": 1668664889,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 359324,
+      "num": 359324,
+      "word": "网易将继续为玩家服务到最后一刻",
+      "onboard_time": 1668665785,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 356259,
@@ -603,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284536,
-      "num": 284536,
-      "word": "学校回应男生穿背心做核酸被通报",
-      "onboard_time": 1668665849,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282777,
       "num": 282777,
       "word": "退钱哥前往卡塔尔看世界杯",
@@ -649,6 +681,14 @@
       "onboard_time": 1668647009,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268929,
+      "num": 268929,
+      "word": "10斤的猫20斤的反骨",
+      "onboard_time": 1668664407,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 267855,
@@ -747,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240312,
+      "num": 240312,
+      "word": "原来惊鸿舞是这么拍的",
+      "onboard_time": 1668662849,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239391,
       "num": 239391,
       "word": "第一次看着烧烤没有胃口",
@@ -763,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237569,
-      "num": 237569,
-      "word": "10斤的猫20斤的反骨",
-      "onboard_time": 1668664407,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235820,
       "num": 192201,
       "word": "谢谢王涛 我是邱瑞",
@@ -785,6 +825,14 @@
       "onboard_time": 1668652827,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232800,
+      "num": 232800,
+      "word": "95后女孩产后偏瘫竟是烟雾病",
+      "onboard_time": 1668668605,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224380,
@@ -833,14 +881,6 @@
       "onboard_time": 1668610531,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209455,
-      "num": 209455,
-      "word": "网易将继续为玩家服务到最后一刻",
-      "onboard_time": 1668665785,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 207716,
@@ -905,14 +945,6 @@
       "onboard_time": 1668653007,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194233,
-      "num": 187820,
-      "word": "原来惊鸿舞是这么拍的",
-      "onboard_time": 1668662849,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 193454,
@@ -987,6 +1019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 169041,
+      "num": 169041,
+      "word": "女生请假3天被开除再遭索赔11万",
+      "onboard_time": 1668668787,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1668593429,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 158897,
+      "num": 158897,
+      "word": "鲁豫是懂脱口秀的",
+      "onboard_time": 1668667708,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 158348,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1668663568,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155067,
+      "num": 155067,
+      "word": "命韵峋环海外疯狂上分",
+      "onboard_time": 1668669029,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 154735,
@@ -1139,20 +1195,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139366,
+      "num": 139366,
+      "word": "幼童被卡墙缝6岁男孩挺身救援",
+      "onboard_time": 1668663389,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 138706,
       "num": 138706,
       "word": "吴磊说散个消食步",
       "onboard_time": 1668618438,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138187,
-      "num": 138187,
-      "word": "幼童被卡墙缝6岁男孩挺身救援",
-      "onboard_time": 1668663389,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 137307,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1668617361,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126504,
+      "num": 126504,
+      "word": "郑州东站回应出站换乘被赋黄码",
+      "onboard_time": 1668669149,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125176,
@@ -1281,6 +1345,22 @@
       "onboard_time": 1668609574,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108543,
+      "num": 108543,
+      "word": "女子质疑月嫂带娃玩手机被打伤",
+      "onboard_time": 1668669448,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108198,
+      "num": 108198,
+      "word": "3名司机神同步停车救人",
+      "onboard_time": 1668669506,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107198,
@@ -1488,6 +1568,14 @@
       "word": "云南农大免费给学生发10多种水果",
       "onboard_time": 1668628453,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18234,
+      "num": 117853,
+      "word": "民警跳入刺骨湖水托举落水老人",
+      "onboard_time": 1668669089,
+      "rank": 44,
       "category": "社会新闻"
     }
   ],

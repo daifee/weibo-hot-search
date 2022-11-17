@@ -1,0 +1,410 @@
+{
+  "runTime": 1668669533932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2062573,
+        "num": 2062573,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1438232,
+        "num": 1438232,
+        "word": "石家庄新增感染者3天下降近80%",
+        "onboard_time": 1668667887,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42702,
+        "num": 1043733,
+        "word": "团结共生同舟共济才是正确之道",
+        "onboard_time": 1668655165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 940441,
+        "num": 940441,
+        "word": "研究称男性生育能力断崖式下跌",
+        "onboard_time": 1668648089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773293,
+        "num": 773293,
+        "word": "暴雪将在中国大陆暂停多数游戏服务",
+        "onboard_time": 1668653127,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 651250,
+        "num": 651250,
+        "word": "睡眠超10小时小心引发心血管疾病",
+        "onboard_time": 1668661530,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561836,
+        "num": 561836,
+        "word": "暴雪被爆料想让网易打白工",
+        "onboard_time": 1668665187,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490275,
+        "num": 490275,
+        "word": "餐厅帮考研生无偿带资料被罚",
+        "onboard_time": 1668662611,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473163,
+        "num": 473163,
+        "word": "彭冠英想和蔡文静三搭五搭",
+        "onboard_time": 1668665607,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457519,
+        "num": 457519,
+        "word": "美国典当店老板将二战相册无偿捐出",
+        "onboard_time": 1668664889,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667808,
+        "num": 453878,
+        "word": "疯狂小杨哥公布质检报告",
+        "onboard_time": 1668668427,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 494209,
+        "num": 444354,
+        "word": "陈飞宇拍完吻戏摸张婧仪的头",
+        "onboard_time": 1668663866,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416630,
+        "num": 416630,
+        "word": "米哈游",
+        "onboard_time": 1668663030,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407916,
+        "num": 407916,
+        "word": "阳华 奶茶狗",
+        "onboard_time": 1668668127,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404981,
+        "num": 404981,
+        "word": "学校回应男生穿背心做核酸被通报",
+        "onboard_time": 1668665849,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359324,
+        "num": 359324,
+        "word": "网易将继续为玩家服务到最后一刻",
+        "onboard_time": 1668665785,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317033,
+        "num": 317033,
+        "word": "吴磊你好星期六录制路透",
+        "onboard_time": 1668666269,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316834,
+        "num": 316834,
+        "word": "李宇春以强直患者视角写的歌",
+        "onboard_time": 1668657031,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315461,
+        "num": 315461,
+        "word": "西安一幼儿园教成人口水歌黑桃A",
+        "onboard_time": 1668659432,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285951,
+        "num": 285951,
+        "word": "库里50分",
+        "onboard_time": 1668664708,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268929,
+        "num": 268929,
+        "word": "10斤的猫20斤的反骨",
+        "onboard_time": 1668664407,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240312,
+        "num": 240312,
+        "word": "原来惊鸿舞是这么拍的",
+        "onboard_time": 1668662849,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232800,
+        "num": 232800,
+        "word": "95后女孩产后偏瘫竟是烟雾病",
+        "onboard_time": 1668668605,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231258,
+        "num": 231258,
+        "word": "早期肺癌有多隐蔽",
+        "onboard_time": 1668652528,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198759,
+        "num": 198759,
+        "word": "newjeans登Wkorea12月刊封面",
+        "onboard_time": 1668666628,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193460,
+        "num": 193460,
+        "word": "保姆回老家4岁女孩不舍大哭",
+        "onboard_time": 1668655707,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187736,
+        "num": 187736,
+        "word": "网易发表暴雪游戏运营到期声明",
+        "onboard_time": 1668665909,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169041,
+        "num": 169041,
+        "word": "女生请假3天被开除再遭索赔11万",
+        "onboard_time": 1668668787,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168246,
+        "num": 168246,
+        "word": "白敬亭田曦薇卿卿日常断更三天",
+        "onboard_time": 1668654629,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166445,
+        "num": 166445,
+        "word": "他的名字曾是我国最高机密之一",
+        "onboard_time": 1668644908,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161435,
+        "num": 161435,
+        "word": "白鹿王鹤棣以爱为营同框氛围感",
+        "onboard_time": 1668664708,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158897,
+        "num": 158897,
+        "word": "鲁豫是懂脱口秀的",
+        "onboard_time": 1668667708,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 157727,
+        "word": "重庆新增本土感染者4072例",
+        "onboard_time": 1668654088,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155067,
+        "num": 155067,
+        "word": "命韵峋环海外疯狂上分",
+        "onboard_time": 1668669029,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153310,
+        "num": 153310,
+        "word": "广州新增无症状感染者8486例",
+        "onboard_time": 1668646950,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "公主变朱小姐",
+        "onboard_time": 1668660572,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147188,
+        "num": 147188,
+        "word": "市监局回应疯狂小杨哥被打假",
+        "onboard_time": 1668649348,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139366,
+        "num": 139366,
+        "word": "幼童被卡墙缝6岁男孩挺身救援",
+        "onboard_time": 1668663389,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133246,
+        "num": 133246,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1668663568,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126504,
+        "num": 126504,
+        "word": "郑州东站回应出站换乘被赋黄码",
+        "onboard_time": 1668669149,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127377,
+        "num": 126293,
+        "word": "点燃我温暖你韩语OST",
+        "onboard_time": 1668660691,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122116,
+        "num": 122116,
+        "word": "为领鸡蛋80岁奶奶带四代人跳操",
+        "onboard_time": 1668661772,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "女生欲搭讪男生遇到女友闪现",
+        "onboard_time": 1668654507,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117934,
+        "num": 117934,
+        "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+        "onboard_time": 1668661831,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18234,
+        "num": 117853,
+        "word": "民警跳入刺骨湖水托举落水老人",
+        "onboard_time": 1668669089,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117816,
+        "num": 117816,
+        "word": "武汉快递",
+        "onboard_time": 1668653249,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113181,
+        "num": 113181,
+        "word": "狗狗玩气球把自己玩尴尬了",
+        "onboard_time": 1668665607,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111513,
+        "num": 111513,
+        "word": "三亚飞杭州机票低至30多元",
+        "onboard_time": 1668656547,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 108543,
+        "num": 108543,
+        "word": "女子质疑月嫂带娃玩手机被打伤",
+        "onboard_time": 1668669448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108198,
+        "num": 108198,
+        "word": "3名司机神同步停车救人",
+        "onboard_time": 1668669506,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦G20巴厘岛峰会#"
+    }
+  }
+}
