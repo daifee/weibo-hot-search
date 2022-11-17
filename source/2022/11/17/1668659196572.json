@@ -1,0 +1,410 @@
+{
+  "runTime": 1668659196572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2859888,
+        "num": 2859888,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1466270,
+        "num": 1466270,
+        "word": "暴雪将在中国大陆暂停多数游戏服务",
+        "onboard_time": 1668653127,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64821,
+        "num": 964781,
+        "word": "团结共生同舟共济才是正确之道",
+        "onboard_time": 1668655165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2445740,
+        "num": 944507,
+        "word": "研究称男性生育能力断崖式下跌",
+        "onboard_time": 1668648089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1705276,
+        "num": 933412,
+        "word": "男生穿背心做核酸被学校通报批评",
+        "onboard_time": 1668651987,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919086,
+        "num": 919086,
+        "word": "三亚飞杭州机票低至30多元",
+        "onboard_time": 1668656547,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 802871,
+        "num": 802871,
+        "word": "女生欲搭讪男生遇到女友闪现",
+        "onboard_time": 1668654507,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694413,
+        "num": 694413,
+        "word": "网易回应暴雪单方面停止合作",
+        "onboard_time": 1668656006,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 676979,
+        "num": 676979,
+        "word": "李宇春以强直患者视角写的歌",
+        "onboard_time": 1668657031,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601091,
+        "num": 601091,
+        "word": "早期肺癌有多隐蔽",
+        "onboard_time": 1668652528,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572151,
+        "num": 572151,
+        "word": "他的名字曾是我国最高机密之一",
+        "onboard_time": 1668644908,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564322,
+        "num": 564322,
+        "word": "蒲熠星晒出南京大学招生办分数确认文件",
+        "onboard_time": 1668650126,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556532,
+        "num": 556532,
+        "word": "保姆回老家4岁女孩不舍大哭",
+        "onboard_time": 1668655707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505115,
+        "num": 505115,
+        "word": "广州新增无症状感染者8486例",
+        "onboard_time": 1668646950,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497736,
+        "num": 497736,
+        "word": "武汉快递",
+        "onboard_time": 1668653249,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491340,
+        "num": 491340,
+        "word": "白敬亭田曦薇卿卿日常断更三天",
+        "onboard_time": 1668654629,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452094,
+        "num": 452094,
+        "word": "重庆新增本土感染者4072例",
+        "onboard_time": 1668654088,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433824,
+        "num": 433824,
+        "word": "王鹤棣白鹿以爱为营今日开机",
+        "onboard_time": 1668647788,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415625,
+        "num": 415625,
+        "word": "市监局回应疯狂小杨哥被打假",
+        "onboard_time": 1668649348,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397996,
+        "num": 397996,
+        "word": "杨幂汤晶媚新剧相爱相杀",
+        "onboard_time": 1668656306,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384714,
+        "num": 384714,
+        "word": "陈飞宇回应网友考古",
+        "onboard_time": 1668658591,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378105,
+        "num": 378105,
+        "word": "全资进组全阵容官宣",
+        "onboard_time": 1668650549,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317231,
+        "num": 317231,
+        "word": "小佳 李诞你可以吗",
+        "onboard_time": 1668650488,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316291,
+        "num": 316291,
+        "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
+        "onboard_time": 1668655165,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247570,
+        "num": 247570,
+        "word": "小细胞肺癌是中国烟民头号夺命癌",
+        "onboard_time": 1668652348,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313067,
+        "num": 239165,
+        "word": "阮思思竟然是凌翔茜",
+        "onboard_time": 1668654927,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229856,
+        "num": 229856,
+        "word": "女子网恋被骗百万后把骗子骗回国",
+        "onboard_time": 1668649288,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207128,
+        "num": 207128,
+        "word": "妈妈为女儿手缝十多件嫁衣",
+        "onboard_time": 1668656848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206838,
+        "num": 206838,
+        "word": "退钱哥前往卡塔尔看世界杯",
+        "onboard_time": 1668651748,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204479,
+        "num": 204479,
+        "word": "C罗说长得帅也是受欢迎的原因",
+        "onboard_time": 1668651267,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274921,
+        "num": 197859,
+        "word": "卿卿日常又名欢天喜地七少主",
+        "onboard_time": 1668657206,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261960,
+        "num": 196932,
+        "word": "庄嫂摔碗",
+        "onboard_time": 1668658407,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227158,
+        "num": 196519,
+        "word": "如果朱韵没有梦到李峋",
+        "onboard_time": 1668656006,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190816,
+        "num": 190816,
+        "word": "男子酒后遛狗被卡电梯致狗死亡",
+        "onboard_time": 1668642145,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186621,
+        "num": 186621,
+        "word": "马斯克考虑卸任特斯拉CEO",
+        "onboard_time": 1668647430,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 186044,
+        "word": "老赖住4层别墅拒还3万欠款",
+        "onboard_time": 1668642687,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176579,
+        "num": 176579,
+        "word": "马斯克警告推特员工不能加班就走人",
+        "onboard_time": 1668647069,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171022,
+        "num": 171022,
+        "word": "潮州特斯拉事故车第三方鉴定现场",
+        "onboard_time": 1668644551,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169831,
+        "num": 169831,
+        "word": "暴雪与网易授权协议明年1月到期",
+        "onboard_time": 1668655228,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159795,
+        "num": 159795,
+        "word": "两千年前的冲水马桶长什么样",
+        "onboard_time": 1668650488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222746,
+        "num": 159764,
+        "word": "命韵峋环第35集复合",
+        "onboard_time": 1668650188,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168777,
+        "num": 159764,
+        "word": "马嘉祺宋亚轩万水朝东明天公演见",
+        "onboard_time": 1668656189,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159669,
+        "num": 159669,
+        "word": "真实的石家庄到底是什么样",
+        "onboard_time": 1668618558,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155871,
+        "num": 155871,
+        "word": "勇士vs太阳",
+        "onboard_time": 1668658291,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146393,
+        "num": 146393,
+        "word": "女孩不慎落水教科书式等待救援",
+        "onboard_time": 1668653007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143433,
+        "num": 143433,
+        "word": "我叫MT归来",
+        "onboard_time": 1668658709,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137308,
+        "num": 137308,
+        "word": "Uzi",
+        "onboard_time": 1668641422,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135948,
+        "num": 135948,
+        "word": "江母诉刘鑫案22日二审第二次开庭",
+        "onboard_time": 1668619217,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127808,
+        "num": 127808,
+        "word": "被大学生的手写笔记惊艳到了",
+        "onboard_time": 1668643470,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "11月16日新增本土无症状20804例",
+        "onboard_time": 1668652107,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦G20巴厘岛峰会#"
+    }
+  }
+}

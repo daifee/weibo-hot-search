@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668657219622,
+  "endTime": 1668659196572,
   "band_list": [
     {
       "raw_hot": 2880089,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1341637,
-      "num": 1341637,
+      "raw_hot": 1466270,
+      "num": 1466270,
       "word": "暴雪将在中国大陆暂停多数游戏服务",
       "onboard_time": 1668653127,
       "rank": 4,
@@ -73,6 +73,14 @@
       "onboard_time": 1668644908,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919086,
+      "num": 919086,
+      "word": "三亚飞杭州机票低至30多元",
+      "onboard_time": 1668656547,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 901857,
@@ -107,8 +115,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802871,
+      "num": 802871,
+      "word": "女生欲搭讪男生遇到女友闪现",
+      "onboard_time": 1668654507,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738089,
-      "num": 499307,
+      "num": 694413,
       "word": "网易回应暴雪单方面停止合作",
       "onboard_time": 1668656006,
       "rank": 10,
@@ -121,6 +137,14 @@
       "onboard_time": 1668644611,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 676979,
+      "num": 676979,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 672286,
@@ -147,14 +171,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 611751,
-      "num": 497764,
-      "word": "女生欲搭讪男生遇到女友闪现",
-      "onboard_time": 1668654507,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608609,
       "num": 275954,
       "word": "腾讯员工平均月薪近83888元",
@@ -168,6 +184,14 @@
       "word": "女子网恋被骗百万后把骗子骗回国",
       "onboard_time": 1668649288,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556532,
+      "num": 556532,
+      "word": "保姆回老家4岁女孩不舍大哭",
+      "onboard_time": 1668655707,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -235,6 +259,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 452094,
+      "num": 452094,
+      "word": "重庆新增本土感染者4072例",
+      "onboard_time": 1668654088,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439211,
       "num": 337285,
       "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
@@ -248,14 +280,6 @@
       "word": "小细胞肺癌是中国烟民头号夺命癌",
       "onboard_time": 1668652348,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408361,
-      "num": 408361,
-      "word": "重庆新增本土感染者4072例",
-      "onboard_time": 1668654088,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -281,6 +305,14 @@
       "onboard_time": 1668642145,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397996,
+      "num": 397996,
+      "word": "杨幂汤晶媚新剧相爱相杀",
+      "onboard_time": 1668656306,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 397632,
@@ -313,6 +345,14 @@
       "onboard_time": 1668647069,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 384714,
+      "num": 384714,
+      "word": "陈飞宇回应网友考古",
+      "onboard_time": 1668658591,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 380504,
@@ -387,27 +427,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322712,
-      "num": 322712,
-      "word": "保姆回老家4岁女孩不舍大哭",
-      "onboard_time": 1668655707,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322640,
       "num": 277009,
       "word": "命韵峋环两个疯子天生一对",
       "onboard_time": 1668613171,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 314676,
-      "num": 314676,
-      "word": "杨幂汤晶媚新剧相爱相杀",
-      "onboard_time": 1668656306,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274921,
+      "num": 197859,
+      "word": "卿卿日常又名欢天喜地七少主",
+      "onboard_time": 1668657206,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273870,
       "num": 273870,
       "word": "男朋友的朋友圈都发什么",
@@ -515,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261960,
+      "num": 196932,
+      "word": "庄嫂摔碗",
+      "onboard_time": 1668658407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260413,
       "num": 200928,
       "word": "高见鸿好贱",
@@ -529,14 +569,6 @@
       "onboard_time": 1668656006,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250061,
-      "num": 250061,
-      "word": "三亚飞杭州机票低至30多元",
-      "onboard_time": 1668656547,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 248540,
@@ -595,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222159,
-      "num": 222159,
-      "word": "李宇春以强直患者视角写的歌",
-      "onboard_time": 1668657031,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 220347,
       "num": 107519,
       "word": "陈奕迅新歌是李荣浩编的曲",
@@ -641,6 +665,14 @@
       "onboard_time": 1668614787,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207128,
+      "num": 207128,
+      "word": "妈妈为女儿手缝十多件嫁衣",
+      "onboard_time": 1668656848,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206816,
@@ -747,14 +779,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 167030,
-      "num": 142812,
-      "word": "卿卿日常又名欢天喜地七少主",
-      "onboard_time": 1668657206,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
@@ -785,6 +809,14 @@
       "onboard_time": 1668648746,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155871,
+      "num": 155871,
+      "word": "勇士vs太阳",
+      "onboard_time": 1668658291,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 154735,
@@ -819,19 +851,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 143433,
+      "num": 143433,
+      "word": "我叫MT归来",
+      "onboard_time": 1668658709,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143309,
       "num": 143309,
       "word": "2岁幼童被卡邻家男孩钻墙缝救出",
       "onboard_time": 1668616283,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143162,
-      "num": 143162,
-      "word": "妈妈为女儿手缝十多件嫁衣",
-      "onboard_time": 1668656848,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64821,
+      "num": 2161817,
+      "word": "团结共生同舟共济才是正确之道",
+      "onboard_time": 1668655165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 64495,
       "num": 64495,
       "word": "最高法女法官当选联合国上诉法庭法官",
@@ -1079,14 +1119,6 @@
       "num": 1336763,
       "word": "沉浸式看神十四航天员工作",
       "onboard_time": 1668616941,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 53988,
-      "num": 2161817,
-      "word": "团结共生同舟共济才是正确之道",
-      "onboard_time": 1668655165,
       "rank": 2,
       "category": "国内要闻"
     },
