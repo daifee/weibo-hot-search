@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 12:43:29
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 13:20:09
 </p>
 </blockquote>
 <p>
@@ -885,6 +885,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E5%A4%9A%E6%95%B0%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%23" target="weibo">
+暴雪将在中国大陆暂停多数游戏服务（热度：1623207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%88%98%E6%B0%8F%E5%85%84%E5%BC%9F%E7%94%B3%E8%AF%B7%E5%8F%98%E6%9B%B4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23" target="weibo">
 曝短道速滑刘氏兄弟申请变更为中国国籍（热度：1618309）
 </a>
@@ -1109,12 +1115,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%AC%A0%E4%B8%8B%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%BF%98%E4%B8%8A%E4%B8%80%E9%83%A8%E4%BA%86%23" target="weibo">
 张若昀欠下的第二季还上一部了（热度：1470723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E5%A4%9A%E6%95%B0%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%23" target="weibo">
-暴雪将在中国大陆暂停多数游戏服务（热度：1466270）
 </a>
 </li>
 
@@ -2553,6 +2553,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E4%BB%A5%E5%BC%BA%E7%9B%B4%E6%82%A3%E8%80%85%E8%A7%86%E8%A7%92%E5%86%99%E7%9A%84%E6%AD%8C%23" target="weibo">
+李宇春以强直患者视角写的歌（热度：932483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E5%B9%B4%E9%9D%92%E6%B5%B7%E7%9C%81%E7%90%86%E7%A7%91%E7%8A%B6%E5%85%83%E4%B8%8D%E5%A7%93%E6%96%87%23" target="weibo">
 12年青海省理科状元不姓文（热度：931289）
 </a>
@@ -3267,12 +3273,6 @@ kp 退团（热度：791639）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E4%BB%A5%E5%BC%BA%E7%9B%B4%E6%82%A3%E8%80%85%E8%A7%86%E8%A7%92%E5%86%99%E7%9A%84%E6%AD%8C%23" target="weibo">
-李宇春以强直患者视角写的歌（热度：785046）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%88%AC%23" target="weibo">
 杨戬（热度：784698）
 </a>
@@ -3833,6 +3833,12 @@ Viper（热度：736593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%A4%E5%90%8D15%E5%B2%81%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%23" target="weibo">
 成都两名15岁学生被清华录取本硕博连读（热度：695567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%95%99%E6%88%90%E4%BA%BA%E5%8F%A3%E6%B0%B4%E6%AD%8C%E9%BB%91%E6%A1%83A%23" target="weibo">
+西安一幼儿园教成人口水歌黑桃A（热度：693335）
 </a>
 </li>
 
@@ -4889,6 +4895,12 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%AE%A5%E7%9C%9F%E8%B5%B0%E5%8F%B0%E6%AD%A5%23" target="weibo">
 安宥真走台步（热度：588005）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0%E9%9F%A9%E8%AF%ADOST%23" target="weibo">
+点燃我温暖你韩语OST（热度：587651）
 </a>
 </li>
 
@@ -5979,6 +5991,12 @@ TF家族FanClub被责令限期整改（热度：521639）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%B8%BB%E5%8F%98%E6%9C%B1%E5%B0%8F%E5%A7%90%23" target="weibo">
+公主变朱小姐（热度：509963）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%94%85%E5%8C%85%E8%82%89%E8%83%BD%E5%85%A8%E5%9B%BD%E5%B7%A1%E7%82%92%E5%90%97%23" target="weibo">
 这锅包肉能全国巡炒吗（热度：508926）
 </a>
@@ -5993,24 +6011,6 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%96%91%E9%A3%9F%E5%A0%82%E7%A7%A4%E6%9C%89%E9%97%AE%E9%A2%98%E7%94%A8%E9%A5%AE%E6%96%99%E8%87%AA%E6%B5%8B%E8%AF%81%E5%AE%9E%23" target="weibo">
 男生疑食堂秤有问题用饮料自测证实（热度：508625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-成都疫情防控（热度：508592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A5%E4%BB%8A%E6%99%9A%E5%85%AB%E5%BC%BA%E5%87%BA%E7%82%89%23" target="weibo">
-脱口秀大会5今晚八强出炉（热度：508277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E5%86%99%E5%B0%8F%E4%BD%9C%E6%96%87%E6%84%9F%E8%B0%A2%E4%BD%95%E7%82%85%23" target="weibo">
-马丽写小作文感谢何炅（热度：508121）
 </a>
 </li>
 

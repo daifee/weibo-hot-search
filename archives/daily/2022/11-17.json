@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668660209099,
+  "endTime": 1668662409940,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623207,
+      "num": 1623207,
+      "word": "暴雪将在中国大陆暂停多数游戏服务",
+      "onboard_time": 1668653127,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1486624,
       "num": 1486624,
       "word": "广州超3万感染者无一重型危重型患者",
       "onboard_time": 1668609091,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1466270,
-      "num": 1466270,
-      "word": "暴雪将在中国大陆暂停多数游戏服务",
-      "onboard_time": 1668653127,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1137831,
@@ -81,6 +81,14 @@
       "onboard_time": 1668656547,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 932483,
+      "num": 932483,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 901857,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785046,
-      "num": 785046,
-      "word": "李宇春以强直患者视角写的歌",
-      "onboard_time": 1668657031,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 738089,
       "num": 694413,
       "word": "网易回应暴雪单方面停止合作",
       "onboard_time": 1668656006,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 693335,
+      "num": 693335,
+      "word": "西安一幼儿园教成人口水歌黑桃A",
+      "onboard_time": 1668659432,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689003,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587651,
+      "num": 587651,
+      "word": "点燃我温暖你韩语OST",
+      "onboard_time": 1668660691,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534459,
       "num": 534459,
       "word": "90后双胞胎同框如相差30岁的母女",
@@ -217,6 +233,14 @@
       "onboard_time": 1668642687,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509963,
+      "num": 467432,
+      "word": "公主变朱小姐",
+      "onboard_time": 1668660572,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 506174,
@@ -344,6 +368,14 @@
       "word": "卫健委回应郑州女婴遭拒诊去世",
       "onboard_time": 1668600211,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386963,
+      "num": 386963,
+      "word": "失踪男孩与妈妈最后通话内容曝光",
+      "onboard_time": 1668660213,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -491,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284698,
+      "num": 167819,
+      "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+      "onboard_time": 1668661831,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282777,
       "num": 282777,
       "word": "退钱哥前往卡塔尔看世界杯",
@@ -563,14 +603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260979,
-      "num": 260979,
-      "word": "西安一幼儿园教成人口水歌黑桃A",
-      "onboard_time": 1668659432,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260413,
       "num": 200928,
       "word": "高见鸿好贱",
@@ -641,6 +673,14 @@
       "onboard_time": 1668652827,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226578,
+      "num": 134824,
+      "word": "成毅被泰媒称为戏剧之神",
+      "onboard_time": 1668660991,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 224380,
@@ -803,6 +843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168022,
+      "num": 168022,
+      "word": "睡眠超10小时小心引发心血管疾病",
+      "onboard_time": 1668661530,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
@@ -833,6 +881,22 @@
       "onboard_time": 1668648746,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155840,
+      "num": 155840,
+      "word": "用食堂阿姨打饭方式喂狗子",
+      "onboard_time": 1668660630,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155812,
+      "num": 124373,
+      "word": "如何评价鸟鸟脱口秀大会表现",
+      "onboard_time": 1668662371,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154735,
@@ -883,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "夸大产品功效致消费者身体受损要担责吗",
+      "onboard_time": 1668662071,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141857,
       "num": 141857,
       "word": "谢天华被周柏豪气到发飙",
@@ -913,6 +985,14 @@
       "onboard_time": 1668650069,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "为领鸡蛋80岁奶奶带四代人跳操",
+      "onboard_time": 1668661772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134436,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1668596369,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47125,
+      "num": 411903,
+      "word": "快充真的有改变生活吗",
+      "onboard_time": 1668662190,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35474,

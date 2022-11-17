@@ -1,0 +1,410 @@
+{
+  "runTime": 1668662409940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2661370,
+        "num": 2661370,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1623207,
+        "num": 1623207,
+        "word": "暴雪将在中国大陆暂停多数游戏服务",
+        "onboard_time": 1668653127,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55381,
+        "num": 1089118,
+        "word": "团结共生同舟共济才是正确之道",
+        "onboard_time": 1668655165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2257050,
+        "num": 1075118,
+        "word": "研究称男性生育能力断崖式下跌",
+        "onboard_time": 1668648089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932483,
+        "num": 932483,
+        "word": "李宇春以强直患者视角写的歌",
+        "onboard_time": 1668657031,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 720284,
+        "num": 720284,
+        "word": "三亚飞杭州机票低至30多元",
+        "onboard_time": 1668656547,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 693335,
+        "num": 693335,
+        "word": "西安一幼儿园教成人口水歌黑桃A",
+        "onboard_time": 1668659432,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587651,
+        "num": 587651,
+        "word": "点燃我温暖你韩语OST",
+        "onboard_time": 1668660691,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469883,
+        "num": 469883,
+        "word": "网易回应暴雪单方面停止合作",
+        "onboard_time": 1668656006,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 509963,
+        "num": 467432,
+        "word": "公主变朱小姐",
+        "onboard_time": 1668660572,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447915,
+        "num": 447915,
+        "word": "女生欲搭讪男生遇到女友闪现",
+        "onboard_time": 1668654507,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467113,
+        "num": 440015,
+        "word": "陈飞宇回应网友考古",
+        "onboard_time": 1668658591,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430908,
+        "num": 430908,
+        "word": "保姆回老家4岁女孩不舍大哭",
+        "onboard_time": 1668655707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416903,
+        "num": 416903,
+        "word": "广州新增无症状感染者8486例",
+        "onboard_time": 1668646950,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47125,
+        "num": 411903,
+        "word": "快充真的有改变生活吗",
+        "onboard_time": 1668662190,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409718,
+        "num": 409718,
+        "word": "他的名字曾是我国最高机密之一",
+        "onboard_time": 1668644908,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386963,
+        "num": 386963,
+        "word": "失踪男孩与妈妈最后通话内容曝光",
+        "onboard_time": 1668660213,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384029,
+        "num": 384029,
+        "word": "早期肺癌有多隐蔽",
+        "onboard_time": 1668652528,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365973,
+        "num": 365973,
+        "word": "蒲熠星晒出南京大学招生办分数确认文件",
+        "onboard_time": 1668650126,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319356,
+        "num": 319356,
+        "word": "重庆新增本土感染者4072例",
+        "onboard_time": 1668654088,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004373,
+        "num": 317194,
+        "word": "男生穿背心做核酸被学校通报批评",
+        "onboard_time": 1668651987,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314731,
+        "num": 314731,
+        "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
+        "onboard_time": 1668655165,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298642,
+        "num": 298642,
+        "word": "王鹤棣白鹿以爱为营今日开机",
+        "onboard_time": 1668647788,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289356,
+        "num": 289356,
+        "word": "卿卿日常又名欢天喜地七少主",
+        "onboard_time": 1668657206,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288753,
+        "num": 288753,
+        "word": "杨幂汤晶媚新剧相爱相杀",
+        "onboard_time": 1668656306,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256623,
+        "num": 256623,
+        "word": "市监局回应疯狂小杨哥被打假",
+        "onboard_time": 1668649348,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220452,
+        "num": 220452,
+        "word": "武汉快递",
+        "onboard_time": 1668653249,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198797,
+        "num": 198797,
+        "word": "女子网恋被骗百万后把骗子骗回国",
+        "onboard_time": 1668649288,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189701,
+        "num": 189701,
+        "word": "妈妈为女儿手缝十多件嫁衣",
+        "onboard_time": 1668656848,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168022,
+        "num": 168022,
+        "word": "睡眠超10小时小心引发心血管疾病",
+        "onboard_time": 1668661530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284698,
+        "num": 167819,
+        "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+        "onboard_time": 1668661831,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283409,
+        "num": 167530,
+        "word": "庄嫂摔碗",
+        "onboard_time": 1668658407,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258863,
+        "num": 167163,
+        "word": "白敬亭田曦薇卿卿日常断更三天",
+        "onboard_time": 1668654629,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248311,
+        "num": 166647,
+        "word": "小佳 李诞你可以吗",
+        "onboard_time": 1668650488,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163836,
+        "num": 166419,
+        "word": "男子酒后遛狗被卡电梯致狗死亡",
+        "onboard_time": 1668642145,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166270,
+        "num": 166270,
+        "word": "勇士vs太阳",
+        "onboard_time": 1668658291,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155840,
+        "num": 155840,
+        "word": "用食堂阿姨打饭方式喂狗子",
+        "onboard_time": 1668660630,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149613,
+        "num": 149613,
+        "word": "小细胞肺癌是中国烟民头号夺命癌",
+        "onboard_time": 1668652348,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141997,
+        "num": 141997,
+        "word": "夸大产品功效致消费者身体受损要担责吗",
+        "onboard_time": 1668662071,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 134990,
+        "word": "为领鸡蛋80岁奶奶带四代人跳操",
+        "onboard_time": 1668661772,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226578,
+        "num": 134824,
+        "word": "成毅被泰媒称为戏剧之神",
+        "onboard_time": 1668660991,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194554,
+        "num": 134697,
+        "word": "全资进组全阵容官宣",
+        "onboard_time": 1668650549,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134541,
+        "num": 134541,
+        "word": "马斯克警告推特员工不能加班就走人",
+        "onboard_time": 1668647069,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 131686,
+        "num": 131686,
+        "word": "C罗说长得帅也是受欢迎的原因",
+        "onboard_time": 1668651267,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129205,
+        "num": 129205,
+        "word": "真实的石家庄到底是什么样",
+        "onboard_time": 1668618558,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126735,
+        "num": 126735,
+        "word": "马斯克考虑卸任特斯拉CEO",
+        "onboard_time": 1668647430,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124628,
+        "num": 124628,
+        "word": "退钱哥前往卡塔尔看世界杯",
+        "onboard_time": 1668651748,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155812,
+        "num": 124373,
+        "word": "如何评价鸟鸟脱口秀大会表现",
+        "onboard_time": 1668662371,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 122138,
+        "word": "老赖住4层别墅拒还3万欠款",
+        "onboard_time": 1668642687,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120883,
+        "num": 120883,
+        "word": "潮州特斯拉事故车第三方鉴定现场",
+        "onboard_time": 1668644551,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦G20巴厘岛峰会#"
+    }
+  }
+}

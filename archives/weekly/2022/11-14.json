@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668660209099,
+  "endTime": 1668662409940,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623207,
+      "num": 1623207,
+      "word": "暴雪将在中国大陆暂停多数游戏服务",
+      "onboard_time": 1668653127,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1616690,
       "num": 1616690,
       "word": "张雪峰称外卖员职业5-10年内可能消失",
@@ -329,14 +337,6 @@
       "onboard_time": 1668471569,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1466270,
-      "num": 1466270,
-      "word": "暴雪将在中国大陆暂停多数游戏服务",
-      "onboard_time": 1668653127,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1462695,
@@ -779,6 +779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 932483,
+      "num": 932483,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 931289,
       "num": 555324,
       "word": "12年青海省理科状元不姓文",
@@ -1043,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785046,
-      "num": 785046,
-      "word": "李宇春以强直患者视角写的歌",
-      "onboard_time": 1668657031,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 782729,
       "num": 782729,
       "word": "肖砚白术be了",
@@ -1217,6 +1217,14 @@
       "onboard_time": 1668419668,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 693335,
+      "num": 693335,
+      "word": "西安一幼儿园教成人口水歌黑桃A",
+      "onboard_time": 1668659432,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690127,
@@ -1555,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 587651,
+      "num": 587651,
+      "word": "点燃我温暖你韩语OST",
+      "onboard_time": 1668660691,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579389,
       "num": 579389,
       "word": "南京站",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1668572729,
       "rank": 49,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 509963,
+      "num": 467432,
+      "word": "公主变朱小姐",
+      "onboard_time": 1668660572,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 508926,
@@ -2728,6 +2752,14 @@
       "word": "深圳痛经假经确诊可休1到2天",
       "onboard_time": 1668333389,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386963,
+      "num": 386963,
+      "word": "失踪男孩与妈妈最后通话内容曝光",
+      "onboard_time": 1668660213,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3795,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284698,
+      "num": 167819,
+      "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+      "onboard_time": 1668661831,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284650,
       "num": 284650,
       "word": "aespa没有年末舞台",
@@ -4153,14 +4193,6 @@
       "onboard_time": 1668659732,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260979,
-      "num": 260979,
-      "word": "西安一幼儿园教成人口水歌黑桃A",
-      "onboard_time": 1668659432,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260913,
@@ -4689,6 +4721,14 @@
       "onboard_time": 1668484649,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226578,
+      "num": 134824,
+      "word": "成毅被泰媒称为戏剧之神",
+      "onboard_time": 1668660991,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 225715,
@@ -5779,6 +5819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168022,
+      "num": 168022,
+      "word": "睡眠超10小时小心引发心血管疾病",
+      "onboard_time": 1668661530,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167864,
       "num": 167864,
       "word": "带着全家七口北漂是种什么体验",
@@ -6073,6 +6121,22 @@
       "onboard_time": 1668574169,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155840,
+      "num": 155840,
+      "word": "用食堂阿姨打饭方式喂狗子",
+      "onboard_time": 1668660630,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155812,
+      "num": 124373,
+      "word": "如何评价鸟鸟脱口秀大会表现",
+      "onboard_time": 1668662371,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 155565,
@@ -6387,6 +6451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "夸大产品功效致消费者身体受损要担责吗",
+      "onboard_time": 1668662071,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141925,
       "num": 138774,
       "word": "方志靖命韵峋环最佳助攻",
@@ -6625,6 +6697,14 @@
       "onboard_time": 1668491489,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "为领鸡蛋80岁奶奶带四代人跳操",
+      "onboard_time": 1668661772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134948,
@@ -7785,6 +7865,14 @@
       "onboard_time": 1668546792,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 47125,
+      "num": 411903,
+      "word": "快充真的有改变生活吗",
+      "onboard_time": 1668662190,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44341,
