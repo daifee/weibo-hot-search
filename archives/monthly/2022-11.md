@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 18:39:29
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 19:17:20
 </p>
 </blockquote>
 <p>
@@ -52,7 +52,7 @@ DRX战胜T1（热度：5089125）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-王冰冰要回来了（热度：4427124）
+王冰冰要回来了（热度：4620109）
 </a>
 </li>
 
@@ -1421,6 +1421,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%BB%98%E8%AE%A4%E4%B8%8D%E5%86%8D%E6%8E%A5%E5%8F%97%E9%9A%94%E7%A9%BA%E6%8A%95%E9%80%81%23" target="weibo">
 苹果默认不再接受隔空投送（热度：1305652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E7%A1%AE%E8%AF%8A%23" target="weibo">
+TheShy确诊（热度：1303284）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%A4%8D%E5%87%BA%23" target="weibo">
 林孝埈复出（热度：517958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%B8%8A%E8%AF%BE%E5%BC%8F%E7%A5%9D%E7%A6%8F%E4%B8%80%E8%84%B8%E6%97%A0%E5%A5%88%23" target="weibo">
-新娘婚礼被上课式祝福一脸无奈（热度：517601）
 </a>
 </li>
 

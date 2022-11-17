@@ -1,10 +1,10 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668681569131,
+  "endTime": 1668683840648,
   "band_list": [
     {
-      "raw_hot": 4427124,
-      "num": 4427124,
+      "raw_hot": 4620109,
+      "num": 4620109,
       "word": "王冰冰要回来了",
       "onboard_time": 1668680188,
       "rank": 6,
@@ -97,6 +97,14 @@
       "onboard_time": 1668609091,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303284,
+      "num": 1303284,
+      "word": "TheShy确诊",
+      "onboard_time": 1668682050,
+      "rank": 3,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 1137831,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 515127,
-      "num": 442797,
+      "num": 501079,
       "word": "取消对密接的密接的判定和管理",
       "onboard_time": 1668677668,
       "rank": 37,
@@ -619,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388533,
+      "num": 388533,
+      "word": "网易公布致暴雪游戏玩家的一封信",
+      "onboard_time": 1668681391,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 387319,
       "num": 315137,
       "word": "卫健委回应郑州女婴遭拒诊去世",
@@ -729,6 +745,14 @@
       "onboard_time": 1668651267,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332057,
+      "num": 332057,
+      "word": "托运行李内藏199只活龟7条活蛇",
+      "onboard_time": 1668681208,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329735,
@@ -843,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284537,
+      "num": 284537,
+      "word": "白敬亭是懂挑剧本的",
+      "onboard_time": 1668682353,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282777,
       "num": 282777,
       "word": "退钱哥前往卡塔尔看世界杯",
@@ -873,6 +905,14 @@
       "onboard_time": 1668625392,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271124,
+      "num": 271124,
+      "word": "山东女子帮离世闺蜜照顾父母孩子",
+      "onboard_time": 1668681747,
+      "rank": 21,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 269850,
@@ -915,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263867,
+      "num": 263867,
+      "word": "婚礼前一晚父亲喝醉抱女儿痛哭",
+      "onboard_time": 1668681811,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263187,
       "num": 263187,
       "word": "情侣分手前都有什么征兆",
@@ -945,6 +993,14 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255305,
+      "num": 255305,
+      "word": "女子吐槽商场卫生间显示坑位有多臭",
+      "onboard_time": 1668681090,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251227,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1668619217,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237678,
+      "num": 237678,
+      "word": "王鹤棣现代装",
+      "onboard_time": 1668680790,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235820,
@@ -1112,6 +1176,14 @@
       "word": "时空伴随者三天两检排查管理即可",
       "onboard_time": 1668610531,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207855,
+      "num": 207855,
+      "word": "公共场所查验核酸有何要求",
+      "onboard_time": 1668680970,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1203,14 +1275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194442,
-      "num": 194442,
-      "word": "王鹤棣现代装",
-      "onboard_time": 1668680790,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1668674248,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189966,
+      "num": 189966,
+      "word": "NCTDREAM将回归",
+      "onboard_time": 1668682589,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182673,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1668660630,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160440,
+      "num": 160440,
+      "word": "金钟大唱中文歌",
+      "onboard_time": 1668681930,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160357,
@@ -1475,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140167,
-      "num": 140167,
-      "word": "公共场所查验核酸有何要求",
-      "onboard_time": 1668680970,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140087,
       "num": 140087,
       "word": "阿凡达2台湾再提档",
@@ -1515,6 +1587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 139238,
+      "num": 139238,
+      "word": "网易称以最大程度保障中国玩家利益",
+      "onboard_time": 1668682888,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138706,
       "num": 138706,
       "word": "吴磊说散个消食步",
@@ -1539,6 +1619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134676,
+      "num": 134676,
+      "word": "疯狂小杨哥遭打假两地市监部门已介入",
+      "onboard_time": 1668683609,
+      "rank": 40,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 134436,
       "num": 134436,
       "word": "网游变更运营单位游戏需重新审批",
@@ -1553,14 +1641,6 @@
       "onboard_time": 1668665607,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131820,
-      "num": 131820,
-      "word": "网易公布致暴雪游戏玩家的一封信",
-      "onboard_time": 1668681391,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 128964,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1668617361,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126926,
+      "num": 126926,
+      "word": "曾可妮商场偶遇命韵峋环",
+      "onboard_time": 1668683249,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125176,
@@ -1697,14 +1785,6 @@
       "onboard_time": 1668667167,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 111568,
-      "num": 111568,
-      "word": "托运行李内藏199只活龟7条活蛇",
-      "onboard_time": 1668681208,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111230,
@@ -1819,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99153,
-      "num": 99153,
-      "word": "女子吐槽商场卫生间显示坑位有多臭",
-      "onboard_time": 1668681090,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98879,
       "num": 98879,
       "word": "北纬38度线延时拍摄有多绝",
@@ -1849,6 +1921,14 @@
       "onboard_time": 1668681328,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94126,
+      "num": 94126,
+      "word": "2022卡塔尔世界杯",
+      "onboard_time": 1668683788,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93233,
@@ -1932,7 +2012,7 @@
     },
     {
       "raw_hot": 71350,
-      "num": 1294835,
+      "num": 1370579,
       "word": "APEC第29次领导人非正式会议",
       "onboard_time": 1668677487,
       "rank": 2,
