@@ -1,14 +1,30 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668651796612,
+  "endTime": 1668654940738,
   "band_list": [
     {
       "raw_hot": 2502588,
-      "num": 799181,
+      "num": 1334480,
       "word": "研究称男性生育能力断崖式下跌",
       "onboard_time": 1668648089,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1862817,
+      "num": 1862817,
+      "word": "男生穿背心做核酸被学校通报批评",
+      "onboard_time": 1668651987,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1790023,
+      "num": 1790023,
+      "word": "暴雪",
+      "onboard_time": 1668653366,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1654952,
@@ -25,6 +41,14 @@
       "onboard_time": 1668609091,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1304823,
+      "num": 1304823,
+      "word": "暴雪将在中国大陆暂停多数游戏服务",
+      "onboard_time": 1668653127,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1137831,
@@ -51,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 901857,
+      "num": 901857,
+      "word": "市监局回应疯狂小杨哥被打假",
+      "onboard_time": 1668649348,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855141,
       "num": 704381,
       "word": "王鹤棣白鹿以爱为营今日开机",
@@ -59,20 +91,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 830231,
+      "num": 830231,
+      "word": "蒲熠星晒出南京大学招生办分数确认文件",
+      "onboard_time": 1668650126,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817172,
+      "num": 817172,
+      "word": "早期肺癌有多隐蔽",
+      "onboard_time": 1668652528,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689003,
       "num": 689003,
       "word": "朱韵口型",
       "onboard_time": 1668644611,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 674360,
-      "num": 674360,
-      "word": "蒲熠星晒出南京大学招生办分数确认文件",
-      "onboard_time": 1668650126,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 672286,
@@ -123,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510058,
-      "num": 380952,
-      "word": "市监局回应疯狂小杨哥被打假",
-      "onboard_time": 1668649348,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506174,
       "num": 506174,
       "word": "呼兰总冠军",
@@ -147,12 +179,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455553,
+      "num": 455553,
+      "word": "全资进组全阵容官宣",
+      "onboard_time": 1668650549,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454210,
       "num": 454210,
       "word": "马斯克称人口崩溃已是必然",
       "onboard_time": 1668630791,
       "rank": 10,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 421110,
+      "num": 421110,
+      "word": "小佳 李诞你可以吗",
+      "onboard_time": 1668650488,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408755,
+      "num": 408755,
+      "word": "武汉快递",
+      "onboard_time": 1668653249,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405216,
+      "num": 405216,
+      "word": "命韵峋环第35集复合",
+      "onboard_time": 1668650188,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 404301,
@@ -179,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394130,
-      "num": 374998,
-      "word": "命韵峋环第35集复合",
-      "onboard_time": 1668650188,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 395204,
+      "num": 395204,
+      "word": "小细胞肺癌是中国烟民头号夺命癌",
+      "onboard_time": 1668652348,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392990,
@@ -251,6 +315,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335608,
+      "num": 335608,
+      "word": "C罗说长得帅也是受欢迎的原因",
+      "onboard_time": 1668651267,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328782,
+      "num": 328782,
+      "word": "两千年前的冲水马桶长什么样",
+      "onboard_time": 1668650488,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326225,
       "num": 326225,
       "word": "鹿晗说又被徐志胜撞了",
@@ -289,14 +369,6 @@
       "onboard_time": 1668612389,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300161,
-      "num": 300161,
-      "word": "两千年前的冲水马桶长什么样",
-      "onboard_time": 1668650488,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297486,
@@ -363,20 +435,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261298,
-      "num": 261298,
-      "word": "全资进组全阵容官宣",
-      "onboard_time": 1668650549,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260413,
       "num": 200928,
       "word": "高见鸿好贱",
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254242,
+      "num": 254242,
+      "word": "退钱哥前往卡塔尔看世界杯",
+      "onboard_time": 1668651748,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 248540,
@@ -417,6 +489,22 @@
       "onboard_time": 1668608131,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235793,
+      "num": 235793,
+      "word": "白敬亭田曦薇卿卿日常断更三天",
+      "onboard_time": 1668654629,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235669,
+      "num": 235669,
+      "word": "爱情犟种",
+      "onboard_time": 1668652827,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 220347,
@@ -467,6 +555,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206238,
+      "num": 206238,
+      "word": "重庆新增本土感染者4072例",
+      "onboard_time": 1668654088,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204895,
+      "num": 204895,
+      "word": "李钟硕金宇彬聚餐照",
+      "onboard_time": 1668651926,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204832,
       "num": 171339,
       "word": "纽约中餐厅为张伟丽延迟关门",
@@ -475,20 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202081,
-      "num": 200671,
-      "word": "小佳 李诞你可以吗",
-      "onboard_time": 1668650488,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201469,
       "num": 201469,
       "word": "Irene新专预告照",
       "onboard_time": 1668645510,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197788,
+      "num": 197788,
+      "word": "点燃我温暖你断更的日子",
+      "onboard_time": 1668651627,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 193454,
@@ -523,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174967,
+      "num": 174967,
+      "word": "11月16日新增本土无症状20804例",
+      "onboard_time": 1668652107,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172311,
       "num": 172311,
       "word": "微信月活比QQ高一倍",
       "onboard_time": 1668599309,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 170484,
+      "num": 121527,
+      "word": "阮思思竟然是凌翔茜",
+      "onboard_time": 1668654927,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 165100,
@@ -545,6 +665,14 @@
       "onboard_time": 1668593429,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 159406,
+      "num": 159406,
+      "word": "女孩不慎落水教科书式等待救援",
+      "onboard_time": 1668653007,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158348,
@@ -571,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153258,
-      "num": 153258,
-      "word": "C罗说长得帅也是受欢迎的原因",
-      "onboard_time": 1668651267,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 151766,
+      "num": 151766,
+      "word": "女生欲搭讪男生遇到女友闪现",
+      "onboard_time": 1668654507,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149404,
@@ -585,14 +713,6 @@
       "onboard_time": 1668632652,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144618,
-      "num": 144618,
-      "word": "点燃我温暖你断更的日子",
-      "onboard_time": 1668651627,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 144469,
@@ -609,6 +729,14 @@
       "onboard_time": 1668616283,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141857,
+      "num": 141857,
+      "word": "谢天华被周柏豪气到发飙",
+      "onboard_time": 1668654327,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 139495,
@@ -667,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121710,
+      "num": 121710,
+      "word": "这些小动物都是青训过的吧",
+      "onboard_time": 1668654567,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119321,
       "num": 119321,
       "word": "舔狗有多能舔",
@@ -721,14 +857,6 @@
       "onboard_time": 1668585029,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 100912,
-      "num": 100912,
-      "word": "退钱哥前往卡塔尔看世界杯",
-      "onboard_time": 1668651748,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 100053,
@@ -844,7 +972,7 @@
     },
     {
       "raw_hot": 54655,
-      "num": 810816,
+      "num": 1336763,
       "word": "沉浸式看神十四航天员工作",
       "onboard_time": 1668616941,
       "rank": 2,
@@ -900,6 +1028,9 @@
     },
     {
       "word": "#中方发起建设数字丝绸之路倡议#"
+    },
+    {
+      "word": "#中国愿同印尼相携相助结伴同行#"
     }
   ]
 }
