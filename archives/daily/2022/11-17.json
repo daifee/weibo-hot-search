@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668673761573,
+  "endTime": 1668674660586,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777461,
+      "num": 777461,
+      "word": "只有密接人员才会集中隔离",
+      "onboard_time": 1668671367,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769653,
       "num": 769653,
       "word": "西安一幼儿园教成人口水歌黑桃A",
@@ -185,14 +193,6 @@
       "onboard_time": 1668656006,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 733481,
-      "num": 733481,
-      "word": "只有密接人员才会集中隔离",
-      "onboard_time": 1668671367,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690086,
@@ -305,6 +305,14 @@
       "onboard_time": 1668665187,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 546370,
+      "num": 546370,
+      "word": "iPhone15仅Pro的C口支持高速传输",
+      "onboard_time": 1668672448,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 534891,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428095,
+      "num": 428095,
+      "word": "宁波拟推出教师退出机制",
+      "onboard_time": 1668671968,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 415280,
       "num": 415280,
       "word": "吴磊你好星期六录制路透",
@@ -473,14 +489,6 @@
       "onboard_time": 1668615445,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 403941,
-      "num": 403941,
-      "word": "iPhone15仅Pro的C口支持高速传输",
-      "onboard_time": 1668672448,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 399705,
@@ -587,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345093,
+      "num": 104775,
+      "word": "外滩偶遇吴磊",
+      "onboard_time": 1668674609,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340629,
       "num": 271142,
       "word": "张婉婷发文",
@@ -611,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329735,
+      "num": 329735,
+      "word": "女子质疑月嫂带娃玩手机被打伤",
+      "onboard_time": 1668669448,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328782,
       "num": 328782,
       "word": "两千年前的冲水马桶长什么样",
       "onboard_time": 1668650488,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327075,
+      "num": 327075,
+      "word": "不想上破班的有福了",
+      "onboard_time": 1668671549,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 326225,
@@ -641,14 +673,6 @@
       "onboard_time": 1668670888,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317504,
-      "num": 317504,
-      "word": "女子质疑月嫂带娃玩手机被打伤",
-      "onboard_time": 1668669448,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312390,
@@ -681,14 +705,6 @@
       "onboard_time": 1668614548,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302351,
-      "num": 302351,
-      "word": "宁波拟推出教师退出机制",
-      "onboard_time": 1668671968,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 301042,
@@ -819,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250739,
+      "num": 250739,
+      "word": "甘肃农业大学否认让所有学生写检讨",
+      "onboard_time": 1668673168,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 250088,
       "num": 225476,
       "word": "如果朱韵没有梦到李峋",
@@ -905,14 +929,6 @@
       "onboard_time": 1668669689,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231088,
-      "num": 231088,
-      "word": "不想上破班的有福了",
-      "onboard_time": 1668671549,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 224380,
@@ -1035,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195191,
+      "num": 195191,
+      "word": "卿卿日常断更第一天大家在想什么",
+      "onboard_time": 1668673529,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -1123,6 +1147,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 171362,
+      "num": 171362,
+      "word": "马龙玩王者的反差感",
+      "onboard_time": 1668671308,
+      "rank": 32,
+      "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 166234,
+      "num": 166234,
+      "word": "爸爸多少有点自讨没趣",
+      "onboard_time": 1668671848,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1668660630,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160769,
-      "num": 160769,
-      "word": "爸爸多少有点自讨没趣",
-      "onboard_time": 1668671848,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 160357,
@@ -1211,12 +1243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153437,
-      "num": 153437,
-      "word": "马龙玩王者的反差感",
-      "onboard_time": 1668671308,
-      "rank": 32,
-      "category": "体育,游戏"
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "广州重症1例危重症1例",
+      "onboard_time": 1668674307,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149404,
@@ -1291,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140333,
+      "num": 140333,
+      "word": "需要一个拉耳兔手机壳",
+      "onboard_time": 1668674248,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139495,
       "num": 139495,
       "word": "赵丽颖幸福到万家天津卫视开播",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1668659851,
       "rank": 45,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 132409,
+      "num": 132409,
+      "word": "3岁以下婴幼儿免查核酸阴性证明",
+      "onboard_time": 1668674069,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132213,
@@ -1403,14 +1451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119519,
-      "num": 119519,
-      "word": "甘肃农业大学否认让所有学生写检讨",
-      "onboard_time": 1668673168,
-      "rank": 41,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 119321,
       "num": 119321,
       "word": "舔狗有多能舔",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1668600270,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116932,
-      "num": 116932,
-      "word": "卿卿日常断更第一天大家在想什么",
-      "onboard_time": 1668673529,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116375,
@@ -1507,12 +1539,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104201,
+      "num": 104201,
+      "word": "曼谷街头布满中泰两种文字欢迎标语",
+      "onboard_time": 1668673890,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 103524,
       "num": 103524,
       "word": "微信新增删除声音锁功能",
       "onboard_time": 1668585029,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 102100,
+      "num": 102100,
+      "word": "卿卿日常李薇喂尹峥吃糖",
+      "onboard_time": 1668674430,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 100053,
@@ -1724,7 +1772,7 @@
     },
     {
       "raw_hot": 4438,
-      "num": 323604,
+      "num": 327154,
       "word": "中国女足金色梦想",
       "onboard_time": 1668672029,
       "rank": 14,
