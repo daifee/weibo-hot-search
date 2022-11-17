@@ -1,0 +1,410 @@
+{
+  "runTime": 1668698550920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1948186,
+        "num": 1948186,
+        "word": "付国豪因抑郁症病故",
+        "onboard_time": 1668696751,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653031,
+        "num": 1653031,
+        "word": "王冰冰要回来了",
+        "onboard_time": 1668680188,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34074,
+        "num": 1232236,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1030609,
+        "num": 1030609,
+        "word": "广州规划方舱及隔离点床位24万张",
+        "onboard_time": 1668695851,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828138,
+        "num": 828138,
+        "word": "妈妈网购一支6色口红送女儿",
+        "onboard_time": 1668694110,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584419,
+        "num": 584419,
+        "word": "韩国今天高考数学第一道题",
+        "onboard_time": 1668676588,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461062,
+        "num": 461062,
+        "word": "广州天河堂食",
+        "onboard_time": 1668696450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448061,
+        "num": 448061,
+        "word": "内马尔 帅",
+        "onboard_time": 1668692549,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426446,
+        "num": 426446,
+        "word": "网曝银行窗台洒豆油不让老人坐",
+        "onboard_time": 1668693389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425648,
+        "num": 425648,
+        "word": "英雄联盟",
+        "onboard_time": 1668695251,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 730286,
+        "num": 419968,
+        "word": "马航MH17坠机案宣判",
+        "onboard_time": 1668697590,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559146,
+        "num": 417234,
+        "word": "刘美含说破万了停更了我炸了",
+        "onboard_time": 1668692247,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385402,
+        "num": 385402,
+        "word": "返聘教师多次在教室猥亵女童",
+        "onboard_time": 1668696450,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376474,
+        "num": 376474,
+        "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
+        "onboard_time": 1668696571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361367,
+        "num": 361367,
+        "word": "李峋朱韵36集造娃",
+        "onboard_time": 1668686729,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344408,
+        "num": 344408,
+        "word": "13岁少女秃顶疑似是拔毛癖",
+        "onboard_time": 1668687989,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335533,
+        "num": 335533,
+        "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
+        "onboard_time": 1668693270,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294631,
+        "num": 294631,
+        "word": "华为疑似暂缓2023届校招",
+        "onboard_time": 1668683969,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 285965,
+        "num": 285965,
+        "word": "丁磊回应暴雪中止合作",
+        "onboard_time": 1668690870,
+        "rank": 18,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 270715,
+        "num": 270715,
+        "word": "卿卿日常",
+        "onboard_time": 1668685950,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266416,
+        "num": 266416,
+        "word": "李栋旭确认出演哈尔滨",
+        "onboard_time": 1668674969,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262586,
+        "num": 262586,
+        "word": "TheShy确诊",
+        "onboard_time": 1668682050,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 258937,
+        "num": 258937,
+        "word": "00后女孩晒守墓工作惹网友羡慕",
+        "onboard_time": 1668689008,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256559,
+        "num": 256559,
+        "word": "许凯说杨幂特别好看",
+        "onboard_time": 1668687389,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221429,
+        "num": 221429,
+        "word": "疯狂小杨哥公布质检报告",
+        "onboard_time": 1668668427,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 215711,
+        "num": 215711,
+        "word": "172在山东的现状",
+        "onboard_time": 1668684210,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200176,
+        "num": 200176,
+        "word": "石家庄新增感染者3天下降近80%",
+        "onboard_time": 1668667887,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197614,
+        "num": 197614,
+        "word": "31省人口出生率公布",
+        "onboard_time": 1668685109,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190992,
+        "num": 190992,
+        "word": "李诞称之前没人愿为脱口秀大会买单",
+        "onboard_time": 1668687328,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189305,
+        "num": 189305,
+        "word": "网易失去暴雪会损失多少",
+        "onboard_time": 1668697350,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190105,
+        "num": 189048,
+        "word": "徐志胜的话缓解了我的焦虑",
+        "onboard_time": 1668689727,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188483,
+        "num": 188483,
+        "word": "男子拍到白凤凰飞翔宛若仙境神鸟",
+        "onboard_time": 1668689845,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185418,
+        "num": 185418,
+        "word": "网易公布致暴雪游戏玩家的一封信",
+        "onboard_time": 1668681391,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182897,
+        "num": 182897,
+        "word": "王鹤棣翻唱的私奔到月球",
+        "onboard_time": 1668690927,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181355,
+        "num": 181355,
+        "word": "付国豪父亲披露付国豪去世",
+        "onboard_time": 1668697410,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168915,
+        "num": 168915,
+        "word": "广州重症1例危重症1例",
+        "onboard_time": 1668674307,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162027,
+        "num": 162027,
+        "word": "济南历山路",
+        "onboard_time": 1668690509,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156490,
+        "num": 156490,
+        "word": "婚礼前一晚父亲喝醉抱女儿痛哭",
+        "onboard_time": 1668681811,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153437,
+        "num": 153437,
+        "word": "卿卿日常刘萌萌flag立住了",
+        "onboard_time": 1668698252,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145034,
+        "num": 145034,
+        "word": "原来我看了这么多偶像剧啊",
+        "onboard_time": 1668694587,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144641,
+        "num": 144641,
+        "word": "中东地区迎来的首对大熊猫",
+        "onboard_time": 1668692729,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138123,
+        "num": 138123,
+        "word": "网传苏州多名城管殴打商贩并踹头",
+        "onboard_time": 1668686368,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 127199,
+        "num": 127199,
+        "word": "李峋在狱中朱韵在郁中",
+        "onboard_time": 1668690750,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126868,
+        "num": 126868,
+        "word": "男子地铁上脱鞋被人扔出车厢",
+        "onboard_time": 1668684809,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125263,
+        "num": 125263,
+        "word": "取消对密接的密接的判定和管理",
+        "onboard_time": 1668677668,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "阿里发布2023财年第二季度财报",
+        "onboard_time": 1668692131,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112174,
+        "num": 112174,
+        "word": "什么样的爱情不长久",
+        "onboard_time": 1668698432,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110002,
+        "num": 110002,
+        "word": "许昕最喜欢球员是哈兰德",
+        "onboard_time": 1668698190,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "杨紫公益直播幕后花絮视频",
+        "onboard_time": 1668695251,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107248,
+        "num": 107248,
+        "word": "中戏教师说朱一龙获奖实至名归",
+        "onboard_time": 1668684270,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022APEC#"
+    }
+  }
+}
