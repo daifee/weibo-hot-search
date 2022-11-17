@@ -1,0 +1,410 @@
+{
+  "runTime": 1668670444820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2346102,
+        "num": 2346102,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1914237,
+        "num": 1914237,
+        "word": "石家庄新增感染者3天下降近80%",
+        "onboard_time": 1668667887,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40771,
+        "num": 1246669,
+        "word": "团结共生同舟共济才是正确之道",
+        "onboard_time": 1668655165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 979070,
+        "num": 979070,
+        "word": "疯狂小杨哥公布质检报告",
+        "onboard_time": 1668668427,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 693149,
+        "num": 693149,
+        "word": "暴雪将在中国大陆暂停多数游戏服务",
+        "onboard_time": 1668653127,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 562411,
+        "num": 562411,
+        "word": "暴雪被爆料想让网易打白工",
+        "onboard_time": 1668665187,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 534891,
+        "num": 534891,
+        "word": "阳华 奶茶狗",
+        "onboard_time": 1668668127,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509939,
+        "num": 509939,
+        "word": "睡眠超10小时小心引发心血管疾病",
+        "onboard_time": 1668661530,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443911,
+        "num": 443911,
+        "word": "美国典当店老板将二战相册无偿捐出",
+        "onboard_time": 1668664889,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411370,
+        "num": 411370,
+        "word": "彭冠英想和蔡文静三搭五搭",
+        "onboard_time": 1668665607,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790966,
+        "num": 405455,
+        "word": "研究称男性生育能力断崖式下跌",
+        "onboard_time": 1668648089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475895,
+        "num": 400538,
+        "word": "95后女孩产后偏瘫竟是烟雾病",
+        "onboard_time": 1668668605,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470091,
+        "num": 399423,
+        "word": "陈飞宇拍完吻戏摸张婧仪的头",
+        "onboard_time": 1668663866,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392104,
+        "num": 392104,
+        "word": "网易将继续为玩家服务到最后一刻",
+        "onboard_time": 1668665785,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366,
+        "num": 391533,
+        "word": "女足底色明日金",
+        "onboard_time": 1668656189,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391200,
+        "num": 391200,
+        "word": "女生请假3天被开除再遭索赔11万",
+        "onboard_time": 1668668787,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378053,
+        "num": 378053,
+        "word": "学校回应男生穿背心做核酸被通报",
+        "onboard_time": 1668665849,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373540,
+        "num": 373540,
+        "word": "米哈游",
+        "onboard_time": 1668663030,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305826,
+        "num": 305826,
+        "word": "郑州东站回应出站换乘被赋黄码",
+        "onboard_time": 1668669149,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355436,
+        "num": 298061,
+        "word": "餐厅帮考研生无偿带资料被罚",
+        "onboard_time": 1668662611,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286280,
+        "num": 286280,
+        "word": "吴磊你好星期六录制路透",
+        "onboard_time": 1668666269,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277730,
+        "num": 277730,
+        "word": "西安一幼儿园教成人口水歌黑桃A",
+        "onboard_time": 1668659432,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255703,
+        "num": 255703,
+        "word": "李宇春以强直患者视角写的歌",
+        "onboard_time": 1668657031,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231033,
+        "num": 231033,
+        "word": "库里50分",
+        "onboard_time": 1668664708,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230122,
+        "num": 230122,
+        "word": "10斤的猫20斤的反骨",
+        "onboard_time": 1668664407,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205142,
+        "num": 205142,
+        "word": "早期肺癌有多隐蔽",
+        "onboard_time": 1668652528,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191358,
+        "num": 191358,
+        "word": "命韵峋环海外疯狂上分",
+        "onboard_time": 1668669029,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185168,
+        "num": 185168,
+        "word": "newjeans登Wkorea12月刊封面",
+        "onboard_time": 1668666628,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175772,
+        "num": 175772,
+        "word": "白敬亭田曦薇卿卿日常断更三天",
+        "onboard_time": 1668654629,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161476,
+        "num": 161476,
+        "word": "网易发表暴雪游戏运营到期声明",
+        "onboard_time": 1668665909,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167880,
+        "num": 161312,
+        "word": "白鹿王鹤棣以爱为营同框氛围感",
+        "onboard_time": 1668664708,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "保姆回老家4岁女孩不舍大哭",
+        "onboard_time": 1668655707,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "他的名字曾是我国最高机密之一",
+        "onboard_time": 1668644908,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145641,
+        "num": 145641,
+        "word": "鲁豫是懂脱口秀的",
+        "onboard_time": 1668667708,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142320,
+        "num": 142320,
+        "word": "女子质疑月嫂带娃玩手机被打伤",
+        "onboard_time": 1668669448,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141941,
+        "num": 141941,
+        "word": "重庆新增本土感染者4072例",
+        "onboard_time": 1668654088,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139432,
+        "num": 139432,
+        "word": "广州新增无症状感染者8486例",
+        "onboard_time": 1668646950,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132714,
+        "num": 132714,
+        "word": "市监局回应疯狂小杨哥被打假",
+        "onboard_time": 1668649348,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131845,
+        "num": 131845,
+        "word": "公主变朱小姐",
+        "onboard_time": 1668660572,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131234,
+        "num": 131234,
+        "word": "原来惊鸿舞是这么拍的",
+        "onboard_time": 1668662849,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130262,
+        "num": 130262,
+        "word": "点燃我温暖你韩语OST",
+        "onboard_time": 1668660691,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128058,
+        "num": 128058,
+        "word": "妇联督促将生第5胎女子的丈夫回家",
+        "onboard_time": 1668669689,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116375,
+        "num": 116375,
+        "word": "3名司机神同步停车救人",
+        "onboard_time": 1668669506,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116209,
+        "num": 116209,
+        "word": "狗狗玩气球把自己玩尴尬了",
+        "onboard_time": 1668665607,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113719,
+        "num": 113719,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1668663568,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113187,
+        "num": 113187,
+        "word": "暴雪中国回应",
+        "onboard_time": 1668670167,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112967,
+        "num": 112967,
+        "word": "幼童被卡墙缝6岁男孩挺身救援",
+        "onboard_time": 1668663389,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 139320,
+        "num": 112592,
+        "word": "原来猫也会睡迷糊",
+        "onboard_time": 1668670408,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112061,
+        "num": 112061,
+        "word": "武汉快递",
+        "onboard_time": 1668653249,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106343,
+        "num": 106343,
+        "word": "真的不能穿拖鞋跳舞",
+        "onboard_time": 1668670167,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方发起建设数字丝绸之路倡议#"
+    }
+  }
+}

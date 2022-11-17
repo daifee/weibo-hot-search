@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668669533932,
+  "endTime": 1668670444820,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -144,6 +144,14 @@
       "word": "广州核酸",
       "onboard_time": 1668483988,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1914237,
+      "num": 1914237,
+      "word": "石家庄新增感染者3天下降近80%",
+      "onboard_time": 1668667887,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -352,14 +360,6 @@
       "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
       "onboard_time": 1668430046,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1438232,
-      "num": 1438232,
-      "word": "石家庄新增感染者3天下降近80%",
-      "onboard_time": 1668667887,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -729,6 +729,14 @@
       "onboard_time": 1668404069,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979070,
+      "num": 979070,
+      "word": "疯狂小杨哥公布质检报告",
+      "onboard_time": 1668668427,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 973914,
@@ -1355,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 667808,
-      "num": 453878,
-      "word": "疯狂小杨哥公布质检报告",
-      "onboard_time": 1668668427,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 663722,
       "num": 663722,
       "word": "元英的原型是纯元吧",
@@ -1675,8 +1675,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561836,
-      "num": 561836,
+      "raw_hot": 562411,
+      "num": 562411,
       "word": "暴雪被爆料想让网易打白工",
       "onboard_time": 1668665187,
       "rank": 15,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1668480809,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534891,
+      "num": 534891,
+      "word": "阳华 奶茶狗",
+      "onboard_time": 1668668127,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 534661,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1668412290,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475895,
+      "num": 400538,
+      "word": "95后女孩产后偏瘫竟是烟雾病",
+      "onboard_time": 1668668605,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475370,
@@ -2635,14 +2651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 407916,
-      "num": 407916,
-      "word": "阳华 奶茶狗",
-      "onboard_time": 1668668127,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407053,
       "num": 407053,
       "word": "乘风破浪新歌MV上线",
@@ -2841,6 +2849,22 @@
       "onboard_time": 1668492925,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 392104,
+      "num": 392104,
+      "word": "网易将继续为玩家服务到最后一刻",
+      "onboard_time": 1668665785,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 391200,
+      "num": 391200,
+      "word": "女生请假3天被开除再遭索赔11万",
+      "onboard_time": 1668668787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390874,
@@ -3137,14 +3161,6 @@
       "onboard_time": 1668459251,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359324,
-      "num": 359324,
-      "word": "网易将继续为玩家服务到最后一刻",
-      "onboard_time": 1668665785,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 359101,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1668505470,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305826,
+      "num": 305826,
+      "word": "郑州东站回应出站换乘被赋黄码",
+      "onboard_time": 1668669149,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305174,
@@ -4739,14 +4763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232800,
-      "num": 232800,
-      "word": "95后女孩产后偏瘫竟是烟雾病",
-      "onboard_time": 1668668605,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232068,
       "num": 232068,
       "word": "落花时节又逢君获得发行许可证",
@@ -5619,6 +5635,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 191358,
+      "num": 191358,
+      "word": "命韵峋环海外疯狂上分",
+      "onboard_time": 1668669029,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190895,
       "num": 95846,
       "word": "李峋让朱韵做的事是离开他",
@@ -5995,14 +6019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169041,
-      "num": 169041,
-      "word": "女生请假3天被开除再遭索赔11万",
-      "onboard_time": 1668668787,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167864,
       "num": 167864,
       "word": "带着全家七口北漂是种什么体验",
@@ -6355,14 +6371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155067,
-      "num": 155067,
-      "word": "命韵峋环海外疯狂上分",
-      "onboard_time": 1668669029,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 153799,
       "num": 138715,
       "word": "刀我别用命韵峋环分手",
@@ -6643,6 +6651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142320,
+      "num": 142320,
+      "word": "女子质疑月嫂带娃玩手机被打伤",
+      "onboard_time": 1668669448,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142253,
       "num": 142253,
       "word": "山东黑猩猩一天一棵大葱三四瓣蒜",
@@ -6817,6 +6833,14 @@
       "onboard_time": 1668663389,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 139320,
+      "num": 112592,
+      "word": "原来猫也会睡迷糊",
+      "onboard_time": 1668670408,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 138706,
@@ -7083,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128058,
+      "num": 128058,
+      "word": "妇联督促将生第5胎女子的丈夫回家",
+      "onboard_time": 1668669689,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127630,
       "num": 127630,
       "word": "卿卿日常里的冷知识",
@@ -7113,14 +7145,6 @@
       "onboard_time": 1668510091,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126504,
-      "num": 126504,
-      "word": "郑州东站回应出站换乘被赋黄码",
-      "onboard_time": 1668669149,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126240,
@@ -7291,6 +7315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116375,
+      "num": 116375,
+      "word": "3名司机神同步停车救人",
+      "onboard_time": 1668669506,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 115492,
       "num": 115492,
       "word": "阿尔忒弥斯1号再次准备发射",
@@ -7352,6 +7384,14 @@
       "word": "WRL2",
       "onboard_time": 1668597150,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113187,
+      "num": 113187,
+      "word": "暴雪中国回应",
+      "onboard_time": 1668670167,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -7499,28 +7539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108543,
-      "num": 108543,
-      "word": "女子质疑月嫂带娃玩手机被打伤",
-      "onboard_time": 1668669448,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108303,
       "num": 108303,
       "word": "高风险区外溢7天居家该从哪天算",
       "onboard_time": 1668611731,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108198,
-      "num": 108198,
-      "word": "3名司机神同步停车救人",
-      "onboard_time": 1668669506,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 107955,
@@ -7569,6 +7593,14 @@
       "onboard_time": 1668418888,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106343,
+      "num": 106343,
+      "word": "真的不能穿拖鞋跳舞",
+      "onboard_time": 1668670167,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106173,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1668461531,
       "rank": 40,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 366,
+      "num": 391533,
+      "word": "女足底色明日金",
+      "onboard_time": 1668656189,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
