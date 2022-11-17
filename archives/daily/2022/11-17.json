@@ -1,10 +1,10 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668659196572,
+  "endTime": 1668660209099,
   "band_list": [
     {
-      "raw_hot": 2880089,
-      "num": 2880089,
+      "raw_hot": 3219907,
+      "num": 3219907,
       "word": "暴雪",
       "onboard_time": 1668653366,
       "rank": 1,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 919086,
-      "num": 919086,
+      "raw_hot": 968786,
+      "num": 968786,
       "word": "三亚飞杭州机票低至30多元",
       "onboard_time": 1668656547,
       "rank": 27,
@@ -115,12 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802871,
-      "num": 802871,
+      "raw_hot": 815385,
+      "num": 815385,
       "word": "女生欲搭讪男生遇到女友闪现",
       "onboard_time": 1668654507,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785046,
+      "num": 785046,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 738089,
@@ -139,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676979,
-      "num": 676979,
-      "word": "李宇春以强直患者视角写的歌",
-      "onboard_time": 1668657031,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 672286,
       "num": 262777,
       "word": "高一男生校内失踪一月警方仍在搜寻",
@@ -160,6 +160,14 @@
       "word": "武汉快递",
       "onboard_time": 1668653249,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628965,
+      "num": 628965,
+      "word": "保姆回老家4岁女孩不舍大哭",
+      "onboard_time": 1668655707,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556532,
-      "num": 556532,
-      "word": "保姆回老家4岁女孩不舍大哭",
-      "onboard_time": 1668655707,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534459,
       "num": 534459,
       "word": "90后双胞胎同框如相差30岁的母女",
       "onboard_time": 1668612991,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533672,
+      "num": 533672,
+      "word": "陈飞宇回应网友考古",
+      "onboard_time": 1668658591,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 523929,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 439211,
-      "num": 337285,
+      "num": 368624,
       "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
       "onboard_time": 1668655165,
       "rank": 20,
@@ -347,14 +355,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 384714,
-      "num": 384714,
-      "word": "陈飞宇回应网友考古",
-      "onboard_time": 1668658591,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 380504,
       "num": 268107,
       "word": "30岁俄罗斯姑娘捐器官救4广西患者",
@@ -377,6 +377,14 @@
       "onboard_time": 1668607772,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352483,
+      "num": 352483,
+      "word": "卿卿日常又名欢天喜地七少主",
+      "onboard_time": 1668657206,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 347051,
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286673,
+      "num": 286673,
+      "word": "庄嫂摔碗",
+      "onboard_time": 1668658407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282777,
       "num": 282777,
       "word": "退钱哥前往卡塔尔看世界杯",
@@ -497,14 +513,6 @@
       "onboard_time": 1668643470,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274921,
-      "num": 197859,
-      "word": "卿卿日常又名欢天喜地七少主",
-      "onboard_time": 1668657206,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 273870,
@@ -547,12 +555,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261960,
-      "num": 196932,
-      "word": "庄嫂摔碗",
-      "onboard_time": 1668658407,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 261146,
+      "num": 201798,
+      "word": "徐明浩街头跳DREAM",
+      "onboard_time": 1668659732,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260979,
+      "num": 260979,
+      "word": "西安一幼儿园教成人口水歌黑桃A",
+      "onboard_time": 1668659432,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260413,
@@ -585,6 +601,14 @@
       "onboard_time": 1668605970,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244356,
+      "num": 244356,
+      "word": "妈妈为女儿手缝十多件嫁衣",
+      "onboard_time": 1668656848,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239391,
@@ -667,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207128,
-      "num": 207128,
-      "word": "妈妈为女儿手缝十多件嫁衣",
-      "onboard_time": 1668656848,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206816,
       "num": 201353,
       "word": "天塌下来还有李峋的嘴顶着",
@@ -696,6 +712,14 @@
       "word": "纽约中餐厅为张伟丽延迟关门",
       "onboard_time": 1668613349,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201937,
+      "num": 201937,
+      "word": "勇士vs太阳",
+      "onboard_time": 1668658291,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -811,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155871,
-      "num": 155871,
-      "word": "勇士vs太阳",
-      "onboard_time": 1668658291,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154735,
       "num": 154735,
       "word": "梅西",
@@ -899,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134436,
+      "num": 134436,
+      "word": "网游变更运营单位游戏需重新审批",
+      "onboard_time": 1668659851,
+      "rank": 45,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 128964,
       "num": 128964,
       "word": "狗狗腿瘸主人花400元确认是装的",
@@ -921,6 +945,14 @@
       "onboard_time": 1668617361,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125176,
+      "num": 125176,
+      "word": "北斗卫星定位可手机实时查看",
+      "onboard_time": 1668659492,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 123186,
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76497,
+      "num": 2161817,
+      "word": "团结共生同舟共济才是正确之道",
+      "onboard_time": 1668655165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 73098,
       "num": 73098,
       "word": "千方百计促进高校毕业生多渠道就业创业",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1668593309,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64821,
-      "num": 2161817,
-      "word": "团结共生同舟共济才是正确之道",
-      "onboard_time": 1668655165,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64495,

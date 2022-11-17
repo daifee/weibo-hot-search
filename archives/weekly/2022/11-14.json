@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668659196572,
+  "endTime": 1668660209099,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2880089,
-      "num": 2880089,
+      "raw_hot": 3219907,
+      "num": 3219907,
       "word": "暴雪",
       "onboard_time": 1668653366,
       "rank": 1,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968786,
+      "num": 968786,
+      "word": "三亚飞杭州机票低至30多元",
+      "onboard_time": 1668656547,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 953179,
       "num": 953179,
       "word": "女子饭店吃饭被陌生男子提醒患病",
@@ -785,14 +793,6 @@
       "onboard_time": 1668426328,
       "rank": 3,
       "category": "影视,体育"
-    },
-    {
-      "raw_hot": 919086,
-      "num": 919086,
-      "word": "三亚飞杭州机票低至30多元",
-      "onboard_time": 1668656547,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 918437,
@@ -1003,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815385,
+      "num": 815385,
+      "word": "女生欲搭讪男生遇到女友闪现",
+      "onboard_time": 1668654507,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813430,
       "num": 813430,
       "word": "工作人员否认陈道明演庆余年2",
       "onboard_time": 1668555325,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 802871,
-      "num": 802871,
-      "word": "女生欲搭讪男生遇到女友闪现",
-      "onboard_time": 1668654507,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796913,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1668469522,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785046,
+      "num": 785046,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 782729,
@@ -1283,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 676979,
-      "num": 676979,
-      "word": "李宇春以强直患者视角写的歌",
-      "onboard_time": 1668657031,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 673557,
       "num": 673557,
       "word": "情侣分手前都有什么征兆",
@@ -1409,6 +1409,14 @@
       "onboard_time": 1668560250,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628965,
+      "num": 628965,
+      "word": "保姆回老家4岁女孩不舍大哭",
+      "onboard_time": 1668655707,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625743,
@@ -1635,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556532,
-      "num": 556532,
-      "word": "保姆回老家4岁女孩不舍大哭",
-      "onboard_time": 1668655707,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555063,
       "num": 429183,
       "word": "点燃我温暖你19集大结局吧",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1668424407,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533672,
+      "num": 533672,
+      "word": "陈飞宇回应网友考古",
+      "onboard_time": 1668658591,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 532280,
@@ -2300,7 +2308,7 @@
     },
     {
       "raw_hot": 439211,
-      "num": 337285,
+      "num": 368624,
       "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
       "onboard_time": 1668655165,
       "rank": 20,
@@ -2763,14 +2771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384714,
-      "num": 384714,
-      "word": "陈飞宇回应网友考古",
-      "onboard_time": 1668658591,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 383813,
       "num": 383813,
       "word": "刘雨昕林一张凌赫智族GQ十一月封面",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1668343647,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352483,
+      "num": 352483,
+      "word": "卿卿日常又名欢天喜地七少主",
+      "onboard_time": 1668657206,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 351892,
@@ -3755,6 +3763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286673,
+      "num": 286673,
+      "word": "庄嫂摔碗",
+      "onboard_time": 1668658407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285795,
       "num": 285795,
       "word": "卿卿日常反转",
@@ -3937,14 +3953,6 @@
       "onboard_time": 1668576149,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 274921,
-      "num": 197859,
-      "word": "卿卿日常又名欢天喜地七少主",
-      "onboard_time": 1668657206,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 274414,
@@ -4131,20 +4139,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261960,
-      "num": 196932,
-      "word": "庄嫂摔碗",
-      "onboard_time": 1668658407,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "这谁舍得吃啊",
       "onboard_time": 1668587727,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261146,
+      "num": 201798,
+      "word": "徐明浩街头跳DREAM",
+      "onboard_time": 1668659732,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260979,
+      "num": 260979,
+      "word": "西安一幼儿园教成人口水歌黑桃A",
+      "onboard_time": 1668659432,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260913,
@@ -4361,6 +4377,14 @@
       "onboard_time": 1668472052,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244356,
+      "num": 244356,
+      "word": "妈妈为女儿手缝十多件嫁衣",
+      "onboard_time": 1668656848,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243846,
@@ -5059,14 +5083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207128,
-      "num": 207128,
-      "word": "妈妈为女儿手缝十多件嫁衣",
-      "onboard_time": 1668656848,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207123,
       "num": 207123,
       "word": "宝宝百天家人备101个烧饼撑腰",
@@ -5193,6 +5209,14 @@
       "onboard_time": 1668413126,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201937,
+      "num": 201937,
+      "word": "勇士vs太阳",
+      "onboard_time": 1668658291,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 201469,
@@ -6051,14 +6075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155871,
-      "num": 155871,
-      "word": "勇士vs太阳",
-      "onboard_time": 1668658291,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155565,
       "num": 155565,
       "word": "难怪说英语起源于河南",
@@ -6627,6 +6643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134436,
+      "num": 134436,
+      "word": "网游变更运营单位游戏需重新审批",
+      "onboard_time": 1668659851,
+      "rank": 45,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "原来秋冬围巾可以这么系",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1668410367,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 125176,
+      "num": 125176,
+      "word": "北斗卫星定位可手机实时查看",
+      "onboard_time": 1668659492,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 124472,
@@ -7611,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76497,
+      "num": 2161817,
+      "word": "团结共生同舟共济才是正确之道",
+      "onboard_time": 1668655165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 74474,
       "num": 74474,
       "word": "地球进入80亿人时代",
@@ -7673,14 +7713,6 @@
       "onboard_time": 1668455651,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64821,
-      "num": 2161817,
-      "word": "团结共生同舟共济才是正确之道",
-      "onboard_time": 1668655165,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64495,
