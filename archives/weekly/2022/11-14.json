@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668713628932,
+  "endTime": 1668716548457,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -9179,6 +9179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 71094,
+      "num": 71094,
+      "word": "警惕电竞酒店成变相网吧",
+      "onboard_time": 1668713713,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70716,
       "num": 70716,
       "word": "阿联酋vs阿根廷",
@@ -9419,8 +9427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18960,
-      "num": 18960,
+      "raw_hot": 19650,
+      "num": 19650,
       "word": "小狗叼坐垫躺追悬疑剧",
       "onboard_time": 1668711192,
       "rank": 43,
@@ -9441,6 +9449,14 @@
       "onboard_time": 1668669089,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17270,
+      "num": 17270,
+      "word": "这不就是刚睡醒的我",
+      "onboard_time": 1668715632,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 16065,
@@ -9465,6 +9481,14 @@
       "onboard_time": 1668369792,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14843,
+      "num": 14843,
+      "word": "它还以为自己在喝水",
+      "onboard_time": 1668715872,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 13355,

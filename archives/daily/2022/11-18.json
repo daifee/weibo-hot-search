@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668713628932,
+  "endTime": 1668716548457,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71094,
+      "num": 71094,
+      "word": "警惕电竞酒店成变相网吧",
+      "onboard_time": 1668713713,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66999,
       "num": 66999,
       "word": "学会拒绝导购有多爽",
@@ -443,12 +451,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 18960,
-      "num": 18960,
+      "raw_hot": 19650,
+      "num": 19650,
       "word": "小狗叼坐垫躺追悬疑剧",
       "onboard_time": 1668711192,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17270,
+      "num": 17270,
+      "word": "这不就是刚睡醒的我",
+      "onboard_time": 1668715632,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 14843,
+      "num": 14843,
+      "word": "它还以为自己在喝水",
+      "onboard_time": 1668715872,
+      "rank": 42,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
@@ -457,6 +481,9 @@
     },
     {
       "word": "#中国智慧闪耀G20#"
+    },
+    {
+      "word": "#2022APEC#"
     }
   ]
 }
