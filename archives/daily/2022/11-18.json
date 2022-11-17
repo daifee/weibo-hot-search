@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668719929003,
+  "endTime": 1668720904728,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -467,20 +467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18446,
+      "num": 18446,
+      "word": "聋哑小伙跳4米深化粪池救男童",
+      "onboard_time": 1668718391,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 17959,
       "num": 17959,
       "word": "它还以为自己在喝水",
       "onboard_time": 1668715872,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13100,
-      "num": 13100,
-      "word": "聋哑小伙跳4米深化粪池救男童",
-      "onboard_time": 1668718391,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 10396,
