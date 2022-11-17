@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668674660586,
+  "endTime": 1668676856021,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -265,6 +265,14 @@
       "onboard_time": 1668646950,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1639721,
+      "num": 1152287,
+      "word": "李栋旭确认出演哈尔滨",
+      "onboard_time": 1668674969,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1623207,
@@ -536,6 +544,14 @@
       "word": "多家医院不再向社会提供愿检尽检服务",
       "onboard_time": 1668370932,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157916,
+      "num": 1157916,
+      "word": "广州重症1例危重症1例",
+      "onboard_time": 1668674307,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732221,
+      "num": 732221,
+      "word": "iPhone15仅Pro的C口支持高速传输",
+      "onboard_time": 1668672448,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 726367,
       "num": 726367,
       "word": "老公应酬酒喝多妻子端来热面",
@@ -1747,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557994,
+      "num": 557994,
+      "word": "宁波拟推出教师退出机制",
+      "onboard_time": 1668671968,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 557046,
       "num": 557046,
       "word": "女子老房拆迁挖出千年古墓",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1668517890,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 546370,
-      "num": 546370,
-      "word": "iPhone15仅Pro的C口支持高速传输",
-      "onboard_time": 1668672448,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 546345,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1668501571,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503321,
+      "num": 503321,
+      "word": "不想上破班的有福了",
+      "onboard_time": 1668671549,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 503100,
@@ -2521,14 +2553,6 @@
       "onboard_time": 1668479007,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 428095,
-      "num": 428095,
-      "word": "宁波拟推出教师退出机制",
-      "onboard_time": 1668671968,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 427241,
@@ -3107,6 +3131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368699,
+      "num": 368699,
+      "word": "网易无法接受暴雪的续约条件",
+      "onboard_time": 1668670888,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367767,
       "num": 367767,
       "word": "杨幂肖砚再见了",
@@ -3340,7 +3372,7 @@
     },
     {
       "raw_hot": 345093,
-      "num": 104775,
+      "num": 318651,
       "word": "外滩偶遇吴磊",
       "onboard_time": 1668674609,
       "rank": 47,
@@ -3384,6 +3416,14 @@
       "word": "自带饭勺的小鸟全球仅剩600多只",
       "onboard_time": 1668593309,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342559,
+      "num": 342559,
+      "word": "3岁以下婴幼儿免查核酸阴性证明",
+      "onboard_time": 1668674069,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3587,14 +3627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327075,
-      "num": 327075,
-      "word": "不想上破班的有福了",
-      "onboard_time": 1668671549,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 326225,
       "num": 326225,
       "word": "鹿晗说又被徐志胜撞了",
@@ -3643,19 +3675,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322239,
+      "num": 322239,
+      "word": "甘肃农业大学否认让所有学生写检讨",
+      "onboard_time": 1668673168,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 321639,
       "num": 321639,
       "word": "呼吸哥复盘S12",
       "onboard_time": 1668413248,
       "rank": 16,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 320411,
-      "num": 320411,
-      "word": "网易无法接受暴雪的续约条件",
-      "onboard_time": 1668670888,
-      "rank": 15,
       "category": "游戏"
     },
     {
@@ -4171,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275990,
+      "num": 275990,
+      "word": "卿卿日常断更第一天大家在想什么",
+      "onboard_time": 1668673529,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275822,
       "num": 256347,
       "word": "想看赵丽颖许半夏搞事业",
@@ -4499,6 +4539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253578,
+      "num": 253578,
+      "word": "武汉一餐馆大白上门顾客集体跑单",
+      "onboard_time": 1668675089,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252215,
       "num": 252215,
       "word": "跨省旅游经营活动不再与风险区实施联动管理",
@@ -4529,14 +4577,6 @@
       "onboard_time": 1668665909,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250739,
-      "num": 250739,
-      "word": "甘肃农业大学否认让所有学生写检讨",
-      "onboard_time": 1668673168,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 250088,
@@ -4921,6 +4961,14 @@
       "onboard_time": 1668426448,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229463,
+      "num": 229463,
+      "word": "陈飞宇李峋打台球花絮",
+      "onboard_time": 1668675447,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229303,
@@ -5395,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206797,
+      "num": 206797,
+      "word": "王楚钦vs格拉斯门科",
+      "onboard_time": 1668675213,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206737,
       "num": 206737,
       "word": "马斯克称推特将不再显示设备型号",
@@ -5635,14 +5691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195191,
-      "num": 195191,
-      "word": "卿卿日常断更第一天大家在想什么",
-      "onboard_time": 1668673529,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 194129,
       "num": 168950,
       "word": "李峋说活动活动筋骨",
@@ -5747,6 +5795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190286,
+      "num": 190286,
+      "word": "需要一个拉耳兔手机壳",
+      "onboard_time": 1668674248,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190164,
       "num": 190164,
       "word": "秦施前男友是许幻山",
@@ -5833,6 +5889,14 @@
       "onboard_time": 1668513689,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186082,
+      "num": 186082,
+      "word": "曼谷街头布满中泰两种文字欢迎标语",
+      "onboard_time": 1668673890,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 184925,
@@ -6097,6 +6161,14 @@
       "onboard_time": 1668671308,
       "rank": 32,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 171331,
+      "num": 171331,
+      "word": "韩国今天高考数学第一道题",
+      "onboard_time": 1668676588,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 170434,
@@ -6496,14 +6568,6 @@
       "word": "男子捕鸟近千只称用来涮火锅",
       "onboard_time": 1668353131,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "广州重症1例危重症1例",
-      "onboard_time": 1668674307,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -6907,14 +6971,6 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 140333,
-      "num": 140333,
-      "word": "需要一个拉耳兔手机壳",
-      "onboard_time": 1668674248,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140203,
       "num": 99170,
       "word": "阿蒲的影像日记本",
@@ -7025,6 +7081,14 @@
       "onboard_time": 1668650069,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137141,
+      "num": 137141,
+      "word": "五脏六腑放映会",
+      "onboard_time": 1668676470,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 137061,
@@ -7139,14 +7203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132409,
-      "num": 132409,
-      "word": "3岁以下婴幼儿免查核酸阴性证明",
-      "onboard_time": 1668674069,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132264,
       "num": 132264,
       "word": "孩子坐不住是一种病吗",
@@ -7241,6 +7297,14 @@
       "onboard_time": 1668648869,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "Fallingyou一响命韵峋环上场",
+      "onboard_time": 1668675510,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 127630,
@@ -7465,6 +7529,14 @@
       "onboard_time": 1668521372,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115069,
+      "num": 115069,
+      "word": "爱的二八定律直播",
+      "onboard_time": 1668676769,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 114606,
@@ -7779,12 +7851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104201,
-      "num": 104201,
-      "word": "曼谷街头布满中泰两种文字欢迎标语",
-      "onboard_time": 1668673890,
-      "rank": 48,
-      "category": "国内要闻"
+      "raw_hot": 104530,
+      "num": 104530,
+      "word": "阳华扮猪吃老虎",
+      "onboard_time": 1668675809,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 104194,
@@ -7881,6 +7953,14 @@
       "onboard_time": 1668606030,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 99219,
+      "num": 99219,
+      "word": "持续整治层层加码",
+      "onboard_time": 1668676047,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98879,
@@ -8443,6 +8523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19858,
+      "num": 348652,
+      "word": "不要再给吃货制造焦虑了",
+      "onboard_time": 1668675633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18365,
       "num": 1462076,
       "word": "生态文明与美丽中国实践边会",
@@ -8624,6 +8712,9 @@
     },
     {
       "word": "#聚焦G20巴厘岛峰会#"
+    },
+    {
+      "word": "#中国智慧闪耀G20#"
     }
   ]
 }

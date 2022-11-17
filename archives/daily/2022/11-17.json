@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668674660586,
+  "endTime": 1668676856021,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1639721,
+      "num": 1152287,
+      "word": "李栋旭确认出演哈尔滨",
+      "onboard_time": 1668674969,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1623207,
       "num": 1623207,
       "word": "暴雪将在中国大陆暂停多数游戏服务",
@@ -64,6 +72,14 @@
       "word": "广州超3万感染者无一重型危重型患者",
       "onboard_time": 1668609091,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157916,
+      "num": 1157916,
+      "word": "广州重症1例危重症1例",
+      "onboard_time": 1668674307,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 732221,
+      "num": 732221,
+      "word": "iPhone15仅Pro的C口支持高速传输",
+      "onboard_time": 1668672448,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 690086,
       "num": 690086,
       "word": "米哈游",
@@ -307,12 +331,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 546370,
-      "num": 546370,
-      "word": "iPhone15仅Pro的C口支持高速传输",
-      "onboard_time": 1668672448,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 557994,
+      "num": 557994,
+      "word": "宁波拟推出教师退出机制",
+      "onboard_time": 1668671968,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 534891,
@@ -369,6 +393,14 @@
       "onboard_time": 1668601228,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503321,
+      "num": 503321,
+      "word": "不想上破班的有福了",
+      "onboard_time": 1668671549,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 502013,
@@ -441,14 +473,6 @@
       "onboard_time": 1668660213,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428095,
-      "num": 428095,
-      "word": "宁波拟推出教师退出机制",
-      "onboard_time": 1668671968,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 415280,
@@ -555,6 +579,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 368699,
+      "num": 368699,
+      "word": "网易无法接受暴雪的续约条件",
+      "onboard_time": 1668670888,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367601,
       "num": 367601,
       "word": "马斯克考虑卸任特斯拉CEO",
@@ -596,11 +628,19 @@
     },
     {
       "raw_hot": 345093,
-      "num": 104775,
+      "num": 318651,
       "word": "外滩偶遇吴磊",
       "onboard_time": 1668674609,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342559,
+      "num": 342559,
+      "word": "3岁以下婴幼儿免查核酸阴性证明",
+      "onboard_time": 1668674069,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340629,
@@ -643,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327075,
-      "num": 327075,
-      "word": "不想上破班的有福了",
-      "onboard_time": 1668671549,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 326225,
       "num": 326225,
       "word": "鹿晗说又被徐志胜撞了",
@@ -667,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320411,
-      "num": 320411,
-      "word": "网易无法接受暴雪的续约条件",
-      "onboard_time": 1668670888,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 322239,
+      "num": 322239,
+      "word": "甘肃农业大学否认让所有学生写检讨",
+      "onboard_time": 1668673168,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 312390,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275990,
+      "num": 275990,
+      "word": "卿卿日常断更第一天大家在想什么",
+      "onboard_time": 1668673529,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273870,
       "num": 273870,
       "word": "男朋友的朋友圈都发什么",
@@ -827,20 +867,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253578,
+      "num": 253578,
+      "word": "武汉一餐馆大白上门顾客集体跑单",
+      "onboard_time": 1668675089,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251227,
       "num": 251227,
       "word": "网易发表暴雪游戏运营到期声明",
       "onboard_time": 1668665909,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250739,
-      "num": 250739,
-      "word": "甘肃农业大学否认让所有学生写检讨",
-      "onboard_time": 1668673168,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 250088,
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229463,
+      "num": 229463,
+      "word": "陈飞宇李峋打台球花絮",
+      "onboard_time": 1668675447,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224380,
       "num": 224380,
       "word": "马嘉祺宋亚轩万水朝东明天公演见",
@@ -995,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206797,
+      "num": 206797,
+      "word": "王楚钦vs格拉斯门科",
+      "onboard_time": 1668675213,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204895,
       "num": 204895,
       "word": "李钟硕金宇彬聚餐照",
@@ -1051,14 +1107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195191,
-      "num": 195191,
-      "word": "卿卿日常断更第一天大家在想什么",
-      "onboard_time": 1668673529,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -1081,6 +1129,22 @@
       "onboard_time": 1668669029,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190286,
+      "num": 190286,
+      "word": "需要一个拉耳兔手机壳",
+      "onboard_time": 1668674248,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186082,
+      "num": 186082,
+      "word": "曼谷街头布满中泰两种文字欢迎标语",
+      "onboard_time": 1668673890,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 182673,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1668671308,
       "rank": 32,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 171331,
+      "num": 171331,
+      "word": "韩国今天高考数学第一道题",
+      "onboard_time": 1668676588,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 166234,
@@ -1243,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "广州重症1例危重症1例",
-      "onboard_time": 1668674307,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149404,
       "num": 149404,
       "word": "重庆落实离渝审批制度",
@@ -1323,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140333,
-      "num": 140333,
-      "word": "需要一个拉耳兔手机壳",
-      "onboard_time": 1668674248,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139495,
       "num": 139495,
       "word": "赵丽颖幸福到万家天津卫视开播",
@@ -1371,20 +1427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137141,
+      "num": 137141,
+      "word": "五脏六腑放映会",
+      "onboard_time": 1668676470,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134436,
       "num": 134436,
       "word": "网游变更运营单位游戏需重新审批",
       "onboard_time": 1668659851,
       "rank": 45,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 132409,
-      "num": 132409,
-      "word": "3岁以下婴幼儿免查核酸阴性证明",
-      "onboard_time": 1668674069,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132213,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1668648869,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "Fallingyou一响命韵峋环上场",
+      "onboard_time": 1668675510,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 127308,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1668669506,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 115069,
+      "num": 115069,
+      "word": "爱的二八定律直播",
+      "onboard_time": 1668676769,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 113804,
@@ -1539,12 +1611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104201,
-      "num": 104201,
-      "word": "曼谷街头布满中泰两种文字欢迎标语",
-      "onboard_time": 1668673890,
-      "rank": 48,
-      "category": "国内要闻"
+      "raw_hot": 104530,
+      "num": 104530,
+      "word": "阳华扮猪吃老虎",
+      "onboard_time": 1668675809,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 103524,
@@ -1577,6 +1649,14 @@
       "onboard_time": 1668673046,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99219,
+      "num": 99219,
+      "word": "持续整治层层加码",
+      "onboard_time": 1668676047,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98879,
@@ -1763,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19858,
+      "num": 348652,
+      "word": "不要再给吃货制造焦虑了",
+      "onboard_time": 1668675633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18234,
       "num": 117853,
       "word": "民警跳入刺骨湖水托举落水老人",
@@ -1802,6 +1890,9 @@
     },
     {
       "word": "#聚焦G20巴厘岛峰会#"
+    },
+    {
+      "word": "#中国智慧闪耀G20#"
     }
   ]
 }
