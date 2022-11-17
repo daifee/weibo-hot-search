@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668662409940,
+  "endTime": 1668663388817,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769653,
+      "num": 769653,
+      "word": "西安一幼儿园教成人口水歌黑桃A",
+      "onboard_time": 1668659432,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738089,
       "num": 694413,
       "word": "网易回应暴雪单方面停止合作",
       "onboard_time": 1668656006,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 693335,
-      "num": 693335,
-      "word": "西安一幼儿园教成人口水歌黑桃A",
-      "onboard_time": 1668659432,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689003,
@@ -235,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509963,
-      "num": 467432,
+      "raw_hot": 516586,
+      "num": 488273,
       "word": "公主变朱小姐",
       "onboard_time": 1668660572,
       "rank": 9,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439138,
+      "num": 439138,
+      "word": "失踪男孩与妈妈最后通话内容曝光",
+      "onboard_time": 1668660213,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410070,
       "num": 410070,
       "word": "小细胞肺癌是中国烟民头号夺命癌",
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386963,
-      "num": 386963,
-      "word": "失踪男孩与妈妈最后通话内容曝光",
-      "onboard_time": 1668660213,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385988,
       "num": 385988,
       "word": "马斯克警告推特员工不能加班就走人",
@@ -401,6 +401,14 @@
       "onboard_time": 1668647430,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 358332,
+      "num": 358332,
+      "word": "睡眠超10小时小心引发心血管疾病",
+      "onboard_time": 1668661530,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356259,
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312390,
+      "num": 312390,
+      "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+      "onboard_time": 1668661831,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310958,
       "num": 310958,
       "word": "暴雪与网易授权协议明年1月到期",
@@ -520,14 +536,6 @@
       "word": "庄嫂摔碗",
       "onboard_time": 1668658407,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 284698,
-      "num": 167819,
-      "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
-      "onboard_time": 1668661831,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242799,
+      "num": 166910,
+      "word": "成毅被泰媒称为戏剧之神",
+      "onboard_time": 1668660991,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239391,
       "num": 239391,
       "word": "第一次看着烧烤没有胃口",
@@ -675,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226578,
-      "num": 134824,
-      "word": "成毅被泰媒称为戏剧之神",
-      "onboard_time": 1668660991,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224380,
       "num": 224380,
       "word": "马嘉祺宋亚轩万水朝东明天公演见",
@@ -705,6 +713,14 @@
       "onboard_time": 1668592408,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212809,
+      "num": 212809,
+      "word": "勇士vs太阳",
+      "onboard_time": 1668658291,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 210311,
@@ -755,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201937,
-      "num": 201937,
-      "word": "勇士vs太阳",
-      "onboard_time": 1668658291,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201469,
       "num": 201469,
       "word": "Irene新专预告照",
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194233,
+      "num": 131055,
+      "word": "原来惊鸿舞是这么拍的",
+      "onboard_time": 1668662849,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -801,6 +817,14 @@
       "onboard_time": 1668655408,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 182794,
+      "num": 164155,
+      "word": "餐厅帮考研生无偿带资料被罚",
+      "onboard_time": 1668662611,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182673,
@@ -843,20 +867,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 168022,
-      "num": 168022,
-      "word": "睡眠超10小时小心引发心血管疾病",
-      "onboard_time": 1668661530,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
       "onboard_time": 1668648026,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163125,
+      "num": 163125,
+      "word": "用食堂阿姨打饭方式喂狗子",
+      "onboard_time": 1668660630,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161782,
+      "num": 161782,
+      "word": "为领鸡蛋80岁奶奶带四代人跳操",
+      "onboard_time": 1668661772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160357,
@@ -881,14 +913,6 @@
       "onboard_time": 1668648746,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155840,
-      "num": 155840,
-      "word": "用食堂阿姨打饭方式喂狗子",
-      "onboard_time": 1668660630,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 155812,
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142707,
+      "num": 142707,
+      "word": "米哈游",
+      "onboard_time": 1668663030,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "夸大产品功效致消费者身体受损要担责吗",
@@ -985,14 +1017,6 @@
       "onboard_time": 1668650069,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134990,
-      "num": 134990,
-      "word": "为领鸡蛋80岁奶奶带四代人跳操",
-      "onboard_time": 1668661772,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134436,
@@ -1243,7 +1267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47125,
+      "raw_hot": 47860,
       "num": 411903,
       "word": "快充真的有改变生活吗",
       "onboard_time": 1668662190,
