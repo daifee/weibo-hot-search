@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668720904728,
+  "endTime": 1668723686931,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -435,12 +435,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45321,
+      "num": 45321,
+      "word": "聋哑小伙跳4米深化粪池救男童",
+      "onboard_time": 1668718391,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 40185,
+      "num": 40185,
+      "word": "新研究发现地球可自我调节温度",
+      "onboard_time": 1668722534,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34499,
       "num": 34499,
       "word": "技能点全加在了移动上",
       "onboard_time": 1668704959,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25436,
+      "num": 25436,
+      "word": "小狗叼坐垫躺追悬疑剧",
+      "onboard_time": 1668711192,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23490,
@@ -451,12 +475,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 19650,
-      "num": 19650,
-      "word": "小狗叼坐垫躺追悬疑剧",
-      "onboard_time": 1668711192,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 20947,
+      "num": 20947,
+      "word": "老年痴呆症10大征兆",
+      "onboard_time": 1668721932,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 19397,
@@ -467,20 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18446,
-      "num": 18446,
-      "word": "聋哑小伙跳4米深化粪池救男童",
-      "onboard_time": 1668718391,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 17959,
       "num": 17959,
       "word": "它还以为自己在喝水",
       "onboard_time": 1668715872,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13052,
+      "num": 13052,
+      "word": "神十四航天员第三次出舱圆满成功",
+      "onboard_time": 1668722952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10396,
