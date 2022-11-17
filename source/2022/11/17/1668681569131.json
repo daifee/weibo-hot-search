@@ -1,0 +1,410 @@
+{
+  "runTime": 1668681569131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4427124,
+        "num": 4427124,
+        "word": "王冰冰要回来了",
+        "onboard_time": 1668680188,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2389975,
+        "num": 2389975,
+        "word": "韩国今天高考数学第一道题",
+        "onboard_time": 1668676588,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 1294835,
+        "word": "APEC第29次领导人非正式会议",
+        "onboard_time": 1668677487,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1198059,
+        "num": 1198059,
+        "word": "广州重症1例危重症1例",
+        "onboard_time": 1668674307,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160456,
+        "num": 1160456,
+        "word": "李栋旭确认出演哈尔滨",
+        "onboard_time": 1668674969,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854565,
+        "num": 854565,
+        "word": "疯狂小杨哥公布质检报告",
+        "onboard_time": 1668668427,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 737597,
+        "num": 737597,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 531767,
+        "num": 531767,
+        "word": "米哈游将接手暴雪中国区运营系谣言",
+        "onboard_time": 1668677248,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456265,
+        "num": 456265,
+        "word": "武汉一餐馆大白上门顾客集体跑单",
+        "onboard_time": 1668675089,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444995,
+        "num": 444995,
+        "word": "石家庄新增感染者3天下降近80%",
+        "onboard_time": 1668667887,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522613,
+        "num": 444707,
+        "word": "1899",
+        "onboard_time": 1668676889,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515127,
+        "num": 442797,
+        "word": "取消对密接的密接的判定和管理",
+        "onboard_time": 1668677668,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 485524,
+        "num": 442363,
+        "word": "杨幂爱的二八定律直播状态",
+        "onboard_time": 1668679588,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425750,
+        "num": 425750,
+        "word": "蔡徐坤做MBTI测试发现要付钱立马放弃",
+        "onboard_time": 1668678329,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412774,
+        "num": 412774,
+        "word": "女生请假3天被开除再遭索赔11万",
+        "onboard_time": 1668668787,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388753,
+        "num": 388753,
+        "word": "暴雪中国回应",
+        "onboard_time": 1668670167,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376781,
+        "num": 376781,
+        "word": "不想上破班的有福了",
+        "onboard_time": 1668671549,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360899,
+        "num": 360899,
+        "word": "iPhone15仅Pro的C口支持高速传输",
+        "onboard_time": 1668672448,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 310927,
+        "num": 310927,
+        "word": "家中着火猫咪灰头土脸叫醒主人",
+        "onboard_time": 1668676948,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266257,
+        "num": 266257,
+        "word": "3岁以下婴幼儿免查核酸阴性证明",
+        "onboard_time": 1668674069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262065,
+        "num": 262065,
+        "word": "网易无法接受暴雪的续约条件",
+        "onboard_time": 1668670888,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259713,
+        "num": 259713,
+        "word": "95后女孩产后偏瘫竟是烟雾病",
+        "onboard_time": 1668668605,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243377,
+        "num": 243377,
+        "word": "北京新增23例社会面详情",
+        "onboard_time": 1668677370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238636,
+        "num": 238636,
+        "word": "卿卿日常断更第一天大家在想什么",
+        "onboard_time": 1668673529,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235120,
+        "num": 235120,
+        "word": "全是反骨的两只狗",
+        "onboard_time": 1668678808,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221460,
+        "num": 221460,
+        "word": "宁波拟推出教师退出机制",
+        "onboard_time": 1668671968,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 200569,
+        "num": 200569,
+        "word": "陈飞宇拍完吻戏摸张婧仪的头",
+        "onboard_time": 1668663866,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194442,
+        "num": 194442,
+        "word": "王鹤棣现代装",
+        "onboard_time": 1668680790,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169470,
+        "num": 169470,
+        "word": "妇联督促将生第5胎女子的丈夫回家",
+        "onboard_time": 1668669689,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160045,
+        "num": 160045,
+        "word": "女子质疑月嫂带娃玩手机被打伤",
+        "onboard_time": 1668669448,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 157002,
+        "word": "外滩偶遇吴磊",
+        "onboard_time": 1668674609,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153156,
+        "num": 153156,
+        "word": "爱的二八定律直播",
+        "onboard_time": 1668676769,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151962,
+        "num": 151962,
+        "word": "曼谷街头布满中泰两种文字欢迎标语",
+        "onboard_time": 1668673890,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "米哈游",
+        "onboard_time": 1668663030,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140167,
+        "num": 140167,
+        "word": "公共场所查验核酸有何要求",
+        "onboard_time": 1668680970,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 134065,
+        "word": "甘肃农业大学否认让所有学生写检讨",
+        "onboard_time": 1668673168,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133035,
+        "num": 133035,
+        "word": "阿凡达2台湾再提档",
+        "onboard_time": 1668679231,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "睡眠超10小时小心引发心血管疾病",
+        "onboard_time": 1668661530,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131820,
+        "num": 131820,
+        "word": "网易公布致暴雪游戏玩家的一封信",
+        "onboard_time": 1668681391,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126728,
+        "num": 126728,
+        "word": "郑州东站回应出站换乘被赋黄码",
+        "onboard_time": 1668669149,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 123790,
+        "word": "李峋吃醋语录",
+        "onboard_time": 1668677430,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111568,
+        "num": 111568,
+        "word": "托运行李内藏199只活龟7条活蛇",
+        "onboard_time": 1668681208,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109010,
+        "num": 109010,
+        "word": "北京新增本土感染者218例",
+        "onboard_time": 1668677909,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "暴雪被爆料想让网易打白工",
+        "onboard_time": 1668665187,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104896,
+        "num": 104896,
+        "word": "只有密接人员才会集中隔离",
+        "onboard_time": 1668671367,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99262,
+        "num": 99262,
+        "word": "西安一幼儿园教成人口水歌黑桃A",
+        "onboard_time": 1668659432,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99153,
+        "num": 99153,
+        "word": "女子吐槽商场卫生间显示坑位有多臭",
+        "onboard_time": 1668681090,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98550,
+        "num": 98550,
+        "word": "刘耀文新歌百忧戒花絮随拍",
+        "onboard_time": 1668679348,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95529,
+        "num": 95529,
+        "word": "北京疫情发布会",
+        "onboard_time": 1668681328,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94708,
+        "num": 94708,
+        "word": "需要一个拉耳兔手机壳",
+        "onboard_time": 1668674248,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧闪耀G20#"
+    }
+  }
+}
