@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668717431580,
+  "endTime": 1668719929003,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -36241,6 +36241,14 @@
       "onboard_time": 1668395608,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13100,
+      "num": 13100,
+      "word": "聋哑小伙跳4米深化粪池救男童",
+      "onboard_time": 1668718391,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 12971,
