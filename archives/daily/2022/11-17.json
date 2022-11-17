@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668666409190,
+  "endTime": 1668667394618,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 909188,
+      "num": 838605,
+      "word": "餐厅帮考研生无偿带资料被罚",
+      "onboard_time": 1668662611,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901857,
       "num": 901857,
       "word": "市监局回应疯狂小杨哥被打假",
@@ -107,20 +115,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 838605,
-      "num": 838605,
-      "word": "餐厅帮考研生无偿带资料被罚",
-      "onboard_time": 1668662611,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 830231,
       "num": 830231,
       "word": "蒲熠星晒出南京大学招生办分数确认文件",
       "onboard_time": 1668650126,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829505,
+      "num": 829505,
+      "word": "睡眠超10小时小心引发心血管疾病",
+      "onboard_time": 1668661530,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827168,
@@ -136,14 +144,6 @@
       "word": "女生欲搭讪男生遇到女友闪现",
       "onboard_time": 1668654507,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799068,
-      "num": 799068,
-      "word": "睡眠超10小时小心引发心血管疾病",
-      "onboard_time": 1668661530,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -163,20 +163,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 690086,
+      "num": 690086,
+      "word": "米哈游",
+      "onboard_time": 1668663030,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 689003,
       "num": 689003,
       "word": "朱韵口型",
       "onboard_time": 1668644611,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 680035,
-      "num": 680035,
-      "word": "米哈游",
-      "onboard_time": 1668663030,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 672286,
@@ -235,11 +235,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571317,
+      "raw_hot": 583589,
       "num": 477484,
       "word": "陈飞宇拍完吻戏摸张婧仪的头",
       "onboard_time": 1668663866,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 574646,
+      "num": 574646,
+      "word": "彭冠英想和蔡文静三搭五搭",
+      "onboard_time": 1668665607,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -288,14 +296,6 @@
       "word": "白敬亭田曦薇卿卿日常断更三天",
       "onboard_time": 1668654629,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 493780,
-      "num": 493780,
-      "word": "彭冠英想和蔡文静三搭五搭",
-      "onboard_time": 1668665607,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -353,6 +353,22 @@
       "onboard_time": 1668660213,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415280,
+      "num": 415280,
+      "word": "吴磊你好星期六录制路透",
+      "onboard_time": 1668666269,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412789,
+      "num": 412789,
+      "word": "暴雪被爆料想让网易打白工",
+      "onboard_time": 1668665187,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 410070,
@@ -443,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 358890,
+      "num": 358890,
+      "word": "美国典当店老板将二战相册无偿捐出",
+      "onboard_time": 1668664889,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356259,
       "num": 356259,
       "word": "女子独居农村月入1千称很快乐",
@@ -457,6 +481,14 @@
       "onboard_time": 1668657206,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349749,
+      "num": 349749,
+      "word": "库里50分",
+      "onboard_time": 1668664708,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 347051,
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313852,
-      "num": 313852,
-      "word": "库里50分",
-      "onboard_time": 1668664708,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312390,
       "num": 312390,
       "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
@@ -577,6 +601,14 @@
       "onboard_time": 1668658407,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284536,
+      "num": 284536,
+      "word": "学校回应男生穿背心做核酸被通报",
+      "onboard_time": 1668665849,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282777,
@@ -635,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264611,
-      "num": 264611,
-      "word": "吴磊你好星期六录制路透",
-      "onboard_time": 1668666269,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 264129,
+      "num": 264129,
+      "word": "newjeans登Wkorea12月刊封面",
+      "onboard_time": 1668666628,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263187,
@@ -665,14 +697,6 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259206,
-      "num": 259206,
-      "word": "暴雪被爆料想让网易打白工",
-      "onboard_time": 1668665187,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 251227,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237569,
+      "num": 237569,
+      "word": "10斤的猫20斤的反骨",
+      "onboard_time": 1668664407,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235820,
       "num": 192201,
       "word": "谢谢王涛 我是邱瑞",
@@ -779,22 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214306,
-      "num": 214306,
-      "word": "10斤的猫20斤的反骨",
-      "onboard_time": 1668664407,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 213590,
-      "num": 213590,
-      "word": "美国典当店老板将二战相册无偿捐出",
-      "onboard_time": 1668664889,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212809,
       "num": 212809,
       "word": "勇士vs太阳",
@@ -817,6 +833,14 @@
       "onboard_time": 1668610531,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209455,
+      "num": 209455,
+      "word": "网易将继续为玩家服务到最后一刻",
+      "onboard_time": 1668665785,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 207716,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155604,
+      "num": 155604,
+      "word": "卡塔尔世界杯",
+      "onboard_time": 1668663568,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154735,
       "num": 154735,
       "word": "梅西",
@@ -1019,20 +1051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150314,
-      "num": 150314,
-      "word": "学校回应男生穿背心做核酸被通报",
-      "onboard_time": 1668665849,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149404,
       "num": 149404,
       "word": "重庆落实离渝审批制度",
       "onboard_time": 1668632652,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149232,
+      "num": 149232,
+      "word": "倪妮顾香兰排练花絮图",
+      "onboard_time": 1668666928,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 144469,
@@ -1115,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "幼童被卡墙缝6岁男孩挺身救援",
+      "onboard_time": 1668663389,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 137307,
       "num": 128149,
       "word": "世界杯倒计时3天",
@@ -1131,12 +1171,12 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 132361,
-      "num": 132361,
-      "word": "卡塔尔世界杯",
-      "onboard_time": 1668663568,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 132213,
+      "num": 132213,
+      "word": "狗狗玩气球把自己玩尴尬了",
+      "onboard_time": 1668665607,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128964,
@@ -1144,6 +1184,14 @@
       "word": "狗狗腿瘸主人花400元确认是装的",
       "onboard_time": 1668595289,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128447,
+      "num": 128447,
+      "word": "男子在女子身旁徘徊趁机偷摸大腿",
+      "onboard_time": 1668664288,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1179,22 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123022,
-      "num": 123022,
-      "word": "网易将继续为玩家服务到最后一刻",
-      "onboard_time": 1668665785,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 122195,
-      "num": 122195,
-      "word": "幼童被卡墙缝6岁男孩挺身救援",
-      "onboard_time": 1668663389,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 121710,
       "num": 121710,
       "word": "这些小动物都是青训过的吧",
@@ -1219,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114175,
-      "num": 114175,
-      "word": "狗狗玩气球把自己玩尴尬了",
-      "onboard_time": 1668665607,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113804,
       "num": 113804,
       "word": "日本沙雕冰淇淋广告能有多好笑",
@@ -1235,20 +1259,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "航天员出舱后做什么",
+      "onboard_time": 1668667167,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 109590,
       "num": 109590,
       "word": "阿根廷队抵达卡塔尔",
       "onboard_time": 1668651565,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109434,
-      "num": 109434,
-      "word": "男子在女子身旁徘徊趁机偷摸大腿",
-      "onboard_time": 1668664288,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109116,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1668606869,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91411,
+      "num": 104026,
+      "word": "库里生涯总得分升至历史第45",
+      "onboard_time": 1668666807,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90267,

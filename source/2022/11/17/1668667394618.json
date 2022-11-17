@@ -1,0 +1,410 @@
+{
+  "runTime": 1668667394618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2632397,
+        "num": 2632397,
+        "word": "暴雪",
+        "onboard_time": 1668653366,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 829505,
+        "num": 829505,
+        "word": "睡眠超10小时小心引发心血管疾病",
+        "onboard_time": 1668661530,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 800275,
+        "word": "团结共生同舟共济才是正确之道",
+        "onboard_time": 1668655165,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1052003,
+        "num": 792795,
+        "word": "研究称男性生育能力断崖式下跌",
+        "onboard_time": 1668648089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915949,
+        "num": 732132,
+        "word": "暴雪将在中国大陆暂停多数游戏服务",
+        "onboard_time": 1668653127,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 909188,
+        "num": 722512,
+        "word": "餐厅帮考研生无偿带资料被罚",
+        "onboard_time": 1668662611,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690086,
+        "num": 690086,
+        "word": "米哈游",
+        "onboard_time": 1668663030,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 574646,
+        "num": 574646,
+        "word": "彭冠英想和蔡文静三搭五搭",
+        "onboard_time": 1668665607,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487590,
+        "num": 487590,
+        "word": "西安一幼儿园教成人口水歌黑桃A",
+        "onboard_time": 1668659432,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483394,
+        "num": 483394,
+        "word": "李宇春以强直患者视角写的歌",
+        "onboard_time": 1668657031,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 583589,
+        "num": 463083,
+        "word": "陈飞宇拍完吻戏摸张婧仪的头",
+        "onboard_time": 1668663866,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415280,
+        "num": 415280,
+        "word": "吴磊你好星期六录制路透",
+        "onboard_time": 1668666269,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412789,
+        "num": 412789,
+        "word": "暴雪被爆料想让网易打白工",
+        "onboard_time": 1668665187,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358890,
+        "num": 358890,
+        "word": "美国典当店老板将二战相册无偿捐出",
+        "onboard_time": 1668664889,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349749,
+        "num": 349749,
+        "word": "库里50分",
+        "onboard_time": 1668664708,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292156,
+        "num": 292156,
+        "word": "早期肺癌有多隐蔽",
+        "onboard_time": 1668652528,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284536,
+        "num": 284536,
+        "word": "学校回应男生穿背心做核酸被通报",
+        "onboard_time": 1668665849,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264129,
+        "num": 264129,
+        "word": "newjeans登Wkorea12月刊封面",
+        "onboard_time": 1668666628,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261022,
+        "num": 261022,
+        "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
+        "onboard_time": 1668661831,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251601,
+        "num": 251601,
+        "word": "保姆回老家4岁女孩不舍大哭",
+        "onboard_time": 1668655707,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237569,
+        "num": 237569,
+        "word": "10斤的猫20斤的反骨",
+        "onboard_time": 1668664407,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217299,
+        "num": 217299,
+        "word": "他的名字曾是我国最高机密之一",
+        "onboard_time": 1668644908,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210342,
+        "num": 210342,
+        "word": "网易发表暴雪游戏运营到期声明",
+        "onboard_time": 1668665909,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209455,
+        "num": 209455,
+        "word": "网易将继续为玩家服务到最后一刻",
+        "onboard_time": 1668665785,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206266,
+        "num": 206266,
+        "word": "网易回应暴雪单方面停止合作",
+        "onboard_time": 1668656006,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197835,
+        "num": 197835,
+        "word": "公主变朱小姐",
+        "onboard_time": 1668660572,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189606,
+        "num": 189606,
+        "word": "重庆新增本土感染者4072例",
+        "onboard_time": 1668654088,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188315,
+        "num": 188315,
+        "word": "点燃我温暖你韩语OST",
+        "onboard_time": 1668660691,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187609,
+        "num": 187609,
+        "word": "广州新增无症状感染者8486例",
+        "onboard_time": 1668646950,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185552,
+        "num": 185552,
+        "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
+        "onboard_time": 1668655165,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184775,
+        "num": 184775,
+        "word": "白鹿王鹤棣以爱为营同框氛围感",
+        "onboard_time": 1668664708,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183999,
+        "num": 183999,
+        "word": "市监局回应疯狂小杨哥被打假",
+        "onboard_time": 1668649348,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 180430,
+        "word": "白敬亭田曦薇卿卿日常断更三天",
+        "onboard_time": 1668654629,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178527,
+        "num": 178527,
+        "word": "三亚飞杭州机票低至30多元",
+        "onboard_time": 1668656547,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 175415,
+        "num": 175415,
+        "word": "为领鸡蛋80岁奶奶带四代人跳操",
+        "onboard_time": 1668661772,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162476,
+        "num": 162476,
+        "word": "原来惊鸿舞是这么拍的",
+        "onboard_time": 1668662849,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155604,
+        "num": 155604,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1668663568,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155307,
+        "num": 155307,
+        "word": "女生欲搭讪男生遇到女友闪现",
+        "onboard_time": 1668654507,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149232,
+        "num": 149232,
+        "word": "倪妮顾香兰排练花絮图",
+        "onboard_time": 1668666928,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141302,
+        "num": 147719,
+        "word": "武汉快递",
+        "onboard_time": 1668653249,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146659,
+        "num": 146659,
+        "word": "蒲熠星晒出南京大学招生办分数确认文件",
+        "onboard_time": 1668650126,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146528,
+        "num": 146528,
+        "word": "成毅被泰媒称为戏剧之神",
+        "onboard_time": 1668660991,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138187,
+        "num": 138187,
+        "word": "幼童被卡墙缝6岁男孩挺身救援",
+        "onboard_time": 1668663389,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132213,
+        "num": 132213,
+        "word": "狗狗玩气球把自己玩尴尬了",
+        "onboard_time": 1668665607,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131875,
+        "num": 131875,
+        "word": "女子网恋被骗百万后把骗子骗回国",
+        "onboard_time": 1668649288,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128447,
+        "num": 128447,
+        "word": "男子在女子身旁徘徊趁机偷摸大腿",
+        "onboard_time": 1668664288,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111726,
+        "num": 111726,
+        "word": "航天员出舱后做什么",
+        "onboard_time": 1668667167,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 111271,
+        "num": 111271,
+        "word": "日本沙雕冰淇淋广告能有多好笑",
+        "onboard_time": 1668664468,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104155,
+        "num": 104155,
+        "word": "小细胞肺癌是中国烟民头号夺命癌",
+        "onboard_time": 1668652348,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91411,
+        "num": 104026,
+        "word": "库里生涯总得分升至历史第45",
+        "onboard_time": 1668666807,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦G20巴厘岛峰会#"
+    }
+  }
+}
