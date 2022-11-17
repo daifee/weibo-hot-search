@@ -1,6 +1,6 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668670444820,
+  "endTime": 1668673761573,
   "band_list": [
     {
       "raw_hot": 3219907,
@@ -33,6 +33,14 @@
       "onboard_time": 1668667887,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1690140,
+      "num": 1690140,
+      "word": "疯狂小杨哥公布质检报告",
+      "onboard_time": 1668668427,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1654952,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 979070,
-      "num": 979070,
-      "word": "疯狂小杨哥公布质检报告",
-      "onboard_time": 1668668427,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 968786,
       "num": 968786,
       "word": "三亚飞杭州机票低至30多元",
@@ -105,6 +105,14 @@
       "onboard_time": 1668657031,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 912762,
+      "num": 912762,
+      "word": "女生请假3天被开除再遭索赔11万",
+      "onboard_time": 1668668787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 909188,
@@ -179,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 733481,
+      "num": 733481,
+      "word": "只有密接人员才会集中隔离",
+      "onboard_time": 1668671367,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690086,
       "num": 690086,
       "word": "米哈游",
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644035,
+      "num": 644035,
+      "word": "95后女孩产后偏瘫竟是烟雾病",
+      "onboard_time": 1668668605,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628965,
       "num": 628965,
       "word": "保姆回老家4岁女孩不舍大哭",
@@ -225,6 +249,14 @@
       "onboard_time": 1668611789,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 615465,
+      "num": 615465,
+      "word": "暴雪中国回应",
+      "onboard_time": 1668670167,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 608609,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520484,
+      "num": 520484,
+      "word": "郑州东站回应出站换乘被赋黄码",
+      "onboard_time": 1668669149,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516586,
       "num": 488273,
       "word": "公主变朱小姐",
@@ -329,14 +369,6 @@
       "onboard_time": 1668654629,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 475895,
-      "num": 400538,
-      "word": "95后女孩产后偏瘫竟是烟雾病",
-      "onboard_time": 1668668605,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475370,
@@ -443,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403941,
+      "num": 403941,
+      "word": "iPhone15仅Pro的C口支持高速传输",
+      "onboard_time": 1668672448,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 399705,
       "num": 399705,
       "word": "男子酒后遛狗被卡电梯致狗死亡",
@@ -481,14 +521,6 @@
       "onboard_time": 1668665785,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 391200,
-      "num": 391200,
-      "word": "女生请假3天被开除再遭索赔11万",
-      "onboard_time": 1668668787,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387319,
@@ -603,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320411,
+      "num": 320411,
+      "word": "网易无法接受暴雪的续约条件",
+      "onboard_time": 1668670888,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 317504,
+      "num": 317504,
+      "word": "女子质疑月嫂带娃玩手机被打伤",
+      "onboard_time": 1668669448,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312390,
       "num": 312390,
       "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
@@ -627,20 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305826,
-      "num": 305826,
-      "word": "郑州东站回应出站换乘被赋黄码",
-      "onboard_time": 1668669149,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304095,
       "num": 263827,
       "word": "白敬亭晒自拍庆祝卿卿日常破万",
       "onboard_time": 1668614548,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302351,
+      "num": 302351,
+      "word": "宁波拟推出教师退出机制",
+      "onboard_time": 1668671968,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 301042,
@@ -851,6 +899,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234500,
+      "num": 234500,
+      "word": "妇联督促将生第5胎女子的丈夫回家",
+      "onboard_time": 1668669689,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231088,
+      "num": 231088,
+      "word": "不想上破班的有福了",
+      "onboard_time": 1668671549,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224380,
       "num": 224380,
       "word": "马嘉祺宋亚轩万水朝东明天公演见",
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196285,
+      "num": 196285,
+      "word": "原来猫也会睡迷糊",
+      "onboard_time": 1668670408,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1668651267,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 181163,
+      "num": 181163,
+      "word": "张若昀鸣龙少年杀青",
+      "onboard_time": 1668672748,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 180282,
@@ -1059,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "爸爸多少有点自讨没趣",
+      "onboard_time": 1668671848,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 160357,
       "num": 160357,
       "word": "毕节官方通报一女孩坠楼身亡",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1668667708,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158708,
+      "num": 158708,
+      "word": "鹿晗不插电音乐会乐队全阵容",
+      "onboard_time": 1668671009,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 158348,
@@ -1113,6 +1209,14 @@
       "onboard_time": 1668641183,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153437,
+      "num": 153437,
+      "word": "马龙玩王者的反差感",
+      "onboard_time": 1668671308,
+      "rank": 32,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 149404,
@@ -1163,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142320,
-      "num": 142320,
-      "word": "女子质疑月嫂带娃玩手机被打伤",
-      "onboard_time": 1668669448,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "夸大产品功效致消费者身体受损要担责吗",
@@ -1217,14 +1313,6 @@
       "onboard_time": 1668663389,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 139320,
-      "num": 112592,
-      "word": "原来猫也会睡迷糊",
-      "onboard_time": 1668670408,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 138706,
@@ -1283,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128058,
-      "num": 128058,
-      "word": "妇联督促将生第5胎女子的丈夫回家",
-      "onboard_time": 1668669689,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127308,
       "num": 127308,
       "word": "养仓鼠这件事仓鼠最不值钱",
@@ -1323,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119519,
+      "num": 119519,
+      "word": "甘肃农业大学否认让所有学生写检讨",
+      "onboard_time": 1668673168,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 119321,
       "num": 119321,
       "word": "舔狗有多能舔",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1668600270,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116932,
+      "num": 116932,
+      "word": "卿卿日常断更第一天大家在想什么",
+      "onboard_time": 1668673529,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116375,
@@ -1355,12 +1451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113187,
-      "num": 113187,
-      "word": "暴雪中国回应",
-      "onboard_time": 1668670167,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 112945,
+      "num": 110049,
+      "word": "李薇说尹峥长相朦胧",
+      "onboard_time": 1668671606,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 111726,
@@ -1425,6 +1521,22 @@
       "onboard_time": 1668618318,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99625,
+      "num": 99625,
+      "word": "网易暴雪终止合作或因价格未谈妥",
+      "onboard_time": 1668673046,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 98879,
+      "num": 98879,
+      "word": "北纬38度线延时拍摄有多绝",
+      "onboard_time": 1668672990,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 93233,
@@ -1608,6 +1720,14 @@
       "word": "民警跳入刺骨湖水托举落水老人",
       "onboard_time": 1668669089,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4438,
+      "num": 323604,
+      "word": "中国女足金色梦想",
+      "onboard_time": 1668672029,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
