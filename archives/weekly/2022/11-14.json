@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668677809439,
+  "endTime": 1668680563755,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -73,6 +73,14 @@
       "onboard_time": 1668648089,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2385354,
+      "num": 2385354,
+      "word": "韩国今天高考数学第一道题",
+      "onboard_time": 1668676588,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 2366964,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1639721,
-      "num": 1152287,
+      "num": 1269135,
       "word": "李栋旭确认出演哈尔滨",
       "onboard_time": 1668674969,
       "rank": 3,
@@ -915,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 889039,
-      "num": 889039,
-      "word": "韩国今天高考数学第一道题",
-      "onboard_time": 1668676588,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 881111,
       "num": 881111,
       "word": "疯狂小杨哥回应被打假",
@@ -1243,6 +1243,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 727543,
+      "num": 727543,
+      "word": "王冰冰要回来了",
+      "onboard_time": 1668680188,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 726367,
       "num": 726367,
       "word": "老公应酬酒喝多妻子端来热面",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1668430949,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 658886,
+      "num": 481512,
+      "word": "1899",
+      "onboard_time": 1668676889,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 657646,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1668571528,
       "rank": 11,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 591126,
+      "num": 591126,
+      "word": "武汉一餐馆大白上门顾客集体跑单",
+      "onboard_time": 1668675089,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590172,
@@ -2107,6 +2131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 499894,
+      "num": 499894,
+      "word": "米哈游将接手暴雪中国区运营系谣言",
+      "onboard_time": 1668677248,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 499852,
       "num": 499852,
       "word": "白敬亭把田曦薇鞋抱掉了",
@@ -2377,6 +2409,22 @@
       "onboard_time": 1668474151,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461106,
+      "num": 461106,
+      "word": "杨幂爱的二八定律直播状态",
+      "onboard_time": 1668679588,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 460861,
+      "num": 460861,
+      "word": "蔡徐坤做MBTI测试发现要付钱立马放弃",
+      "onboard_time": 1668678329,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 459695,
@@ -2721,6 +2769,14 @@
       "onboard_time": 1668568589,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 409031,
+      "num": 409031,
+      "word": "取消对密接的密接的判定和管理",
+      "onboard_time": 1668677668,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 408183,
@@ -3395,14 +3451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344879,
-      "num": 344879,
-      "word": "武汉一餐馆大白上门顾客集体跑单",
-      "onboard_time": 1668675089,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344271,
       "num": 344271,
       "word": "李秀满在演唱会前的集体总动员",
@@ -3915,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304895,
+      "num": 304895,
+      "word": "家中着火猫咪灰头土脸叫醒主人",
+      "onboard_time": 1668676948,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304095,
       "num": 263827,
       "word": "白敬亭晒自拍庆祝卿卿日常破万",
@@ -4001,14 +4057,6 @@
       "onboard_time": 1668488073,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293134,
-      "num": 293134,
-      "word": "1899",
-      "onboard_time": 1668676889,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 292983,
@@ -4459,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262309,
+      "num": 262309,
+      "word": "北京新增23例社会面详情",
+      "onboard_time": 1668677370,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "这谁舍得吃啊",
@@ -4817,6 +4873,14 @@
       "onboard_time": 1668597931,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238587,
+      "num": 238587,
+      "word": "全是反骨的两只狗",
+      "onboard_time": 1668678808,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 238187,
@@ -5515,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204865,
+      "num": 204054,
+      "word": "爱的二八定律直播",
+      "onboard_time": 1668676769,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204832,
       "num": 171339,
       "word": "纽约中餐厅为张伟丽延迟关门",
@@ -5561,14 +5633,6 @@
       "onboard_time": 1668385528,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204054,
-      "num": 204054,
-      "word": "爱的二八定律直播",
-      "onboard_time": 1668676769,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 203836,
@@ -6235,14 +6299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167714,
-      "num": 167714,
-      "word": "米哈游将接手暴雪中国区运营系谣言",
-      "onboard_time": 1668677248,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167312,
       "num": 167312,
       "word": "张艺兴面纱MV彩蛋",
@@ -6320,14 +6376,6 @@
       "word": "一次收到6.7吨快递是什么感受",
       "onboard_time": 1668348687,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165568,
-      "num": 165568,
-      "word": "家中着火猫咪灰头土脸叫醒主人",
-      "onboard_time": 1668676948,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -6779,14 +6827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145882,
-      "num": 145882,
-      "word": "取消对密接的密接的判定和管理",
-      "onboard_time": 1668677668,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 144420,
       "num": 116185,
       "word": "刘令姿说热度破万我就浅跳一下",
@@ -7017,6 +7057,14 @@
       "onboard_time": 1668417748,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140087,
+      "num": 140087,
+      "word": "阿凡达2台湾再提档",
+      "onboard_time": 1668679231,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 139714,
@@ -7315,19 +7363,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 128713,
+      "num": 128713,
+      "word": "李峋吃醋语录",
+      "onboard_time": 1668677430,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128447,
       "num": 128447,
       "word": "男子在女子身旁徘徊趁机偷摸大腿",
       "onboard_time": 1668664288,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128218,
-      "num": 128218,
-      "word": "北京新增23例社会面详情",
-      "onboard_time": 1668677370,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7345,14 +7393,6 @@
       "onboard_time": 1668648869,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128188,
-      "num": 128188,
-      "word": "李峋吃醋语录",
-      "onboard_time": 1668677430,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 127827,
@@ -7440,6 +7480,14 @@
       "word": "李峋说感情用事对大家来说都是负担",
       "onboard_time": 1668583107,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "施情华意今晚上分",
+      "onboard_time": 1668680127,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -7587,6 +7635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "北京新增本土感染者218例",
+      "onboard_time": 1668677909,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
@@ -7673,6 +7729,14 @@
       "onboard_time": 1668667167,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111230,
+      "num": 111230,
+      "word": "刘耀文新歌百忧戒花絮随拍",
+      "onboard_time": 1668679348,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110635,
@@ -7907,6 +7971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104477,
+      "num": 104477,
+      "word": "刘彦平受贿案一审开庭",
+      "onboard_time": 1668679287,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104194,
       "num": 113435,
       "word": "女子晒香飘飘果茶发霉长木耳",
@@ -8089,6 +8161,14 @@
       "onboard_time": 1668594631,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 95914,
+      "num": 95914,
+      "word": "群众自发组团到拉面哥饭馆吃面",
+      "onboard_time": 1668680070,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95536,
@@ -8379,6 +8459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71350,
+      "num": 1285840,
+      "word": "APEC第29次领导人非正式会议",
+      "onboard_time": 1668677487,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71308,
       "num": 71308,
       "word": "尹力兼任北京市委书记",
@@ -8553,14 +8641,6 @@
       "onboard_time": 1668536053,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23512,
-      "num": 1115622,
-      "word": "APEC第29次领导人非正式会议",
-      "onboard_time": 1668677487,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 23301,
