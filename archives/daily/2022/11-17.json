@@ -1,29 +1,29 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668655653998,
+  "endTime": 1668657219622,
   "band_list": [
     {
-      "raw_hot": 2502588,
-      "num": 1552830,
-      "word": "研究称男性生育能力断崖式下跌",
-      "onboard_time": 1668648089,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2494348,
-      "num": 2494348,
+      "raw_hot": 2880089,
+      "num": 2880089,
       "word": "暴雪",
       "onboard_time": 1668653366,
       "rank": 1,
       "category": "游戏"
     },
     {
-      "raw_hot": 2141054,
-      "num": 2141054,
+      "raw_hot": 2567263,
+      "num": 2567263,
       "word": "男生穿背心做核酸被学校通报批评",
       "onboard_time": 1668651987,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2502588,
+      "num": 2141489,
+      "word": "研究称男性生育能力断崖式下跌",
+      "onboard_time": 1668648089,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1319489,
-      "num": 1319489,
+      "raw_hot": 1341637,
+      "num": 1341637,
       "word": "暴雪将在中国大陆暂停多数游戏服务",
       "onboard_time": 1668653127,
       "rank": 4,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738089,
+      "num": 499307,
+      "word": "网易回应暴雪单方面停止合作",
+      "onboard_time": 1668656006,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 689003,
       "num": 689003,
       "word": "朱韵口型",
@@ -123,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649125,
+      "num": 500966,
+      "word": "武汉快递",
+      "onboard_time": 1668653249,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624507,
       "num": 624507,
       "word": "及时淘汰不适应社会需要的学科专业",
       "onboard_time": 1668611789,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 611751,
+      "num": 497764,
+      "word": "女生欲搭讪男生遇到女友闪现",
+      "onboard_time": 1668654507,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608609,
@@ -171,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 500966,
-      "num": 500966,
-      "word": "武汉快递",
-      "onboard_time": 1668653249,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 502013,
+      "num": 502013,
+      "word": "白敬亭田曦薇卿卿日常断更三天",
+      "onboard_time": 1668654629,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 475370,
@@ -211,11 +235,27 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 439211,
+      "num": 337285,
+      "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
+      "onboard_time": 1668655165,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410070,
       "num": 410070,
       "word": "小细胞肺癌是中国烟民头号夺命癌",
       "onboard_time": 1668652348,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408361,
+      "num": 408361,
+      "word": "重庆新增本土感染者4072例",
+      "onboard_time": 1668654088,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -299,22 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352429,
-      "num": 308064,
-      "word": "徐冬冬回应椰奶我只喝鼻孔喷出来的",
-      "onboard_time": 1668655165,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 350201,
-      "num": 350201,
-      "word": "白敬亭田曦薇卿卿日常断更三天",
-      "onboard_time": 1668654629,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "肖砚白术be了",
@@ -329,6 +353,14 @@
       "onboard_time": 1668592829,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338858,
+      "num": 338858,
+      "word": "阮思思竟然是凌翔茜",
+      "onboard_time": 1668654927,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 335608,
@@ -355,11 +387,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322712,
+      "num": 322712,
+      "word": "保姆回老家4岁女孩不舍大哭",
+      "onboard_time": 1668655707,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322640,
       "num": 277009,
       "word": "命韵峋环两个疯子天生一对",
       "onboard_time": 1668613171,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314676,
+      "num": 314676,
+      "word": "杨幂汤晶媚新剧相爱相杀",
+      "onboard_time": 1668656306,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -401,22 +449,6 @@
       "onboard_time": 1668641422,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291448,
-      "num": 291448,
-      "word": "阮思思竟然是凌翔茜",
-      "onboard_time": 1668654927,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 288239,
-      "num": 288239,
-      "word": "重庆新增本土感染者4072例",
-      "onboard_time": 1668654088,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282777,
@@ -475,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265174,
-      "num": 265174,
-      "word": "女生欲搭讪男生遇到女友闪现",
-      "onboard_time": 1668654507,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263187,
       "num": 263187,
       "word": "情侣分手前都有什么征兆",
@@ -497,6 +521,22 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250088,
+      "num": 225476,
+      "word": "如果朱韵没有梦到李峋",
+      "onboard_time": 1668656006,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250061,
+      "num": 250061,
+      "word": "三亚飞杭州机票低至30多元",
+      "onboard_time": 1668656547,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 248540,
@@ -545,6 +585,22 @@
       "onboard_time": 1668652827,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224380,
+      "num": 224380,
+      "word": "马嘉祺宋亚轩万水朝东明天公演见",
+      "onboard_time": 1668656189,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222159,
+      "num": 222159,
+      "word": "李宇春以强直患者视角写的歌",
+      "onboard_time": 1668657031,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 220347,
@@ -627,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196904,
+      "num": 196904,
+      "word": "女孩不慎落水教科书式等待救援",
+      "onboard_time": 1668653007,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
@@ -667,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179731,
-      "num": 179731,
-      "word": "女孩不慎落水教科书式等待救援",
-      "onboard_time": 1668653007,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175438,
       "num": 88257,
       "word": "鸟鸟脱5年度第二",
@@ -689,6 +745,14 @@
       "onboard_time": 1668599309,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 167030,
+      "num": 142812,
+      "word": "卿卿日常又名欢天喜地七少主",
+      "onboard_time": 1668657206,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 165100,
@@ -747,11 +811,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143639,
+      "num": 143639,
+      "word": "二十条优化措施热点问答",
+      "onboard_time": 1668657149,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 143309,
       "num": 143309,
       "word": "2岁幼童被卡邻家男孩钻墙缝救出",
       "onboard_time": 1668616283,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143162,
+      "num": 143162,
+      "word": "妈妈为女儿手缝十多件嫁衣",
+      "onboard_time": 1668656848,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1083,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 53988,
+      "num": 2161817,
+      "word": "团结共生同舟共济才是正确之道",
+      "onboard_time": 1668655165,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 49187,
       "num": 33744,
       "word": "田曦薇早期旧照",
@@ -1033,14 +1121,6 @@
       "onboard_time": 1668630431,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23287,
-      "num": 1563518,
-      "word": "团结共生同舟共济才是正确之道",
-      "onboard_time": 1668655165,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 21690,
