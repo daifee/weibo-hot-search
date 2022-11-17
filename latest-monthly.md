@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 21:05:55
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/17 21:38:17
 </p>
 </blockquote>
 <p>
@@ -3219,6 +3219,12 @@ cheerup 弃剧（热度：822139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%91%E5%A5%B3%E7%A7%83%E9%A1%B6%E7%96%91%E4%BC%BC%E6%98%AF%E6%8B%94%E6%AF%9B%E7%99%96%23" target="weibo">
+13岁少女秃顶疑似是拔毛癖（热度：816732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AC%B2%E6%90%AD%E8%AE%AA%E7%94%B7%E7%94%9F%E9%81%87%E5%88%B0%E5%A5%B3%E5%8F%8B%E9%97%AA%E7%8E%B0%23" target="weibo">
 女生欲搭讪男生遇到女友闪现（热度：815385）
 </a>
@@ -4815,12 +4821,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%91%E5%A5%B3%E7%A7%83%E9%A1%B6%E7%96%91%E4%BC%BC%E6%98%AF%E6%8B%94%E6%AF%9B%E7%99%96%23" target="weibo">
-13岁少女秃顶疑似是拔毛癖（热度：607532）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%B0%8F%E5%90%83%E8%A2%AB%E5%A5%97%E8%B7%AF%E4%B8%80%E5%B0%8F%E6%9D%A1%E5%8F%98%E5%8D%8A%E8%A2%8B%23" target="weibo">
 女子买小吃被套路一小条变半袋（热度：606920）
 </a>
@@ -6359,6 +6359,12 @@ TF家族FanClub被责令限期整改（热度：521639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%E9%97%AA%E8%80%80G20%23%23" target="weibo">
 #中国智慧闪耀G20#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%AE%BF%E9%97%AE%E6%B3%B0%E5%9B%BD%23%23" target="weibo">
+#习主席访问泰国#
 </a>
 </li>
 
