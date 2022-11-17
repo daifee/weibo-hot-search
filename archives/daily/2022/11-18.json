@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668727377471,
+  "endTime": 1668728274099,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772362,
+      "num": 547507,
+      "word": "返聘教师多次在教室猥亵女童",
+      "onboard_time": 1668696450,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620921,
       "num": 620921,
       "word": "林高远",
@@ -43,12 +51,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586063,
-      "num": 547507,
-      "word": "返聘教师多次在教室猥亵女童",
-      "onboard_time": 1668696450,
-      "rank": 5,
+      "raw_hot": 506961,
+      "num": 506961,
+      "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
+      "onboard_time": 1668696571,
+      "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493671,
+      "num": 493671,
+      "word": "新研究发现地球可自我调节温度",
+      "onboard_time": 1668722534,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 472810,
@@ -67,22 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431379,
-      "num": 431379,
-      "word": "新研究发现地球可自我调节温度",
-      "onboard_time": 1668722534,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 418317,
-      "num": 418317,
-      "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
-      "onboard_time": 1668696571,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406915,
       "num": 406915,
       "word": "广州规划方舱及隔离点床位24万张",
@@ -91,11 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389903,
-      "num": 389903,
+      "raw_hot": 400821,
+      "num": 400821,
       "word": "妈妈网购一支6色口红送女儿",
       "onboard_time": 1668694110,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398676,
+      "num": 398676,
+      "word": "司机路边开车门撞死外卖员被公诉",
+      "onboard_time": 1668701965,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -107,12 +115,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 369260,
-      "num": 369260,
-      "word": "司机路边开车门撞死外卖员被公诉",
-      "onboard_time": 1668701965,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 380437,
+      "num": 380437,
+      "word": "暴雪游戏主播集体发声",
+      "onboard_time": 1668705857,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 306843,
@@ -131,11 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285193,
-      "num": 285193,
-      "word": "暴雪游戏主播集体发声",
-      "onboard_time": 1668705857,
-      "rank": 34,
+      "raw_hot": 267283,
+      "num": 267283,
+      "word": "朱紫",
+      "onboard_time": 1668727160,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -163,6 +171,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212652,
+      "num": 212652,
+      "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
+      "onboard_time": 1668693270,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205964,
+      "num": 205964,
+      "word": "疯狂小杨哥遭打假两地市监部门已介入",
+      "onboard_time": 1668683609,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 202904,
+      "num": 202904,
+      "word": "警惕电竞酒店成变相网吧",
+      "onboard_time": 1668713713,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202393,
+      "num": 202393,
+      "word": "张本智和",
+      "onboard_time": 1668727461,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202382,
       "num": 202382,
       "word": "李峋朱韵36集造娃",
@@ -187,14 +227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178215,
-      "num": 178215,
-      "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
-      "onboard_time": 1668693270,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174911,
       "num": 174911,
       "word": "内马尔 帅",
@@ -209,6 +241,14 @@
       "onboard_time": 1668682050,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 172665,
+      "num": 172665,
+      "word": "网曝银行窗台洒豆油不让老人坐",
+      "onboard_time": 1668693389,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172009,
@@ -227,20 +267,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165212,
+      "num": 165212,
+      "word": "31省人口出生率公布",
+      "onboard_time": 1668685109,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
       "onboard_time": 1668701364,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157947,
-      "num": 157947,
-      "word": "疯狂小杨哥遭打假两地市监部门已介入",
-      "onboard_time": 1668683609,
-      "rank": 14,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 157214,
@@ -267,19 +307,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154659,
-      "num": 154659,
-      "word": "网曝银行窗台洒豆油不让老人坐",
-      "onboard_time": 1668693389,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146120,
-      "num": 146120,
-      "word": "警惕电竞酒店成变相网吧",
-      "onboard_time": 1668713713,
-      "rank": 1,
+      "raw_hot": 144296,
+      "num": 144296,
+      "word": "复刻乐高玩具涉案17亿元",
+      "onboard_time": 1668724996,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -299,11 +331,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134729,
-      "num": 134729,
-      "word": "31省人口出生率公布",
-      "onboard_time": 1668685109,
-      "rank": 31,
+      "raw_hot": 134607,
+      "num": 134607,
+      "word": "00后女孩晒守墓工作惹网友羡慕",
+      "onboard_time": 1668689008,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -315,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129775,
+      "num": 129775,
+      "word": "老年痴呆症10大征兆",
+      "onboard_time": 1668721932,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119076,
       "num": 119076,
       "word": "网易公布致暴雪游戏玩家的一封信",
@@ -323,20 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118837,
-      "num": 118837,
-      "word": "老年痴呆症10大征兆",
-      "onboard_time": 1668721932,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 113917,
-      "num": 113917,
-      "word": "朱紫",
-      "onboard_time": 1668727160,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 118657,
+      "num": 118657,
+      "word": "聋哑小伙跳4米深化粪池救男童",
+      "onboard_time": 1668718391,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 110396,
@@ -355,19 +387,27 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 107083,
-      "num": 107083,
-      "word": "00后女孩晒守墓工作惹网友羡慕",
-      "onboard_time": 1668689008,
-      "rank": 38,
+      "raw_hot": 104264,
+      "num": 104264,
+      "word": "济南历山路",
+      "onboard_time": 1668690509,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103342,
-      "num": 103342,
+      "raw_hot": 103820,
+      "num": 103820,
       "word": "男子拍到白凤凰飞翔宛若仙境神鸟",
       "onboard_time": 1668689845,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99860,
+      "num": 99860,
+      "word": "婚礼前一晚父亲喝醉抱女儿痛哭",
+      "onboard_time": 1668681811,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -379,36 +419,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 97546,
-      "num": 97546,
-      "word": "婚礼前一晚父亲喝醉抱女儿痛哭",
-      "onboard_time": 1668681811,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96368,
-      "num": 96368,
-      "word": "聋哑小伙跳4米深化粪池救男童",
-      "onboard_time": 1668718391,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 93920,
-      "num": 93920,
-      "word": "济南历山路",
-      "onboard_time": 1668690509,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92965,
       "num": 92965,
       "word": "王鹤棣翻唱的私奔到月球",
       "onboard_time": 1668690927,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90787,
+      "num": 90787,
+      "word": "小狗叼坐垫躺追悬疑剧",
+      "onboard_time": 1668711192,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90007,
@@ -424,22 +448,6 @@
       "word": "男子地铁上脱鞋被人扔出车厢",
       "onboard_time": 1668684809,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83199,
-      "num": 83199,
-      "word": "复刻乐高玩具涉案17亿元",
-      "onboard_time": 1668724996,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79750,
-      "num": 79750,
-      "word": "小狗叼坐垫躺追悬疑剧",
-      "onboard_time": 1668711192,
-      "rank": 43,
       "category": "社会新闻"
     },
     {

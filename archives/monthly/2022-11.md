@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/18 07:22:57
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/18 07:37:54
 </p>
 </blockquote>
 <p>
@@ -3483,6 +3483,12 @@ iPhone14Pro满电无法开机（热度：775953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E8%81%98%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E5%9C%A8%E6%95%99%E5%AE%A4%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%AB%A5%23" target="weibo">
+返聘教师多次在教室猥亵女童（热度：772362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E8%B6%81%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E4%B8%8A%E5%89%8D%E6%90%AD%E8%AE%AA%E8%A2%AB%E6%89%93%23" target="weibo">
 醉汉趁情侣吵架上前搭讪被打（热度：771234）
 </a>
@@ -4973,12 +4979,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A2%E7%83%9F%E5%A4%B4%E5%BC%95%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%81%AB%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A44%E5%B9%B4%E5%8D%8A%23" target="weibo">
 丢烟头引青岛山火男子被判4年半（热度：596346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%94%E8%81%98%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E5%9C%A8%E6%95%99%E5%AE%A4%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%AB%A5%23" target="weibo">
-返聘教师多次在教室猥亵女童（热度：596149）
 </a>
 </li>
 
