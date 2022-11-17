@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668641816837,
+  "endTime": 1668650095654,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1654952,
+      "num": 1654952,
+      "word": "广州新增无症状感染者8486例",
+      "onboard_time": 1668646950,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616690,
       "num": 1616690,
       "word": "张雪峰称外卖员职业5-10年内可能消失",
@@ -232,6 +240,14 @@
       "word": "北京部分感染者出现症状仍参加社会活动",
       "onboard_time": 1668591927,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1605999,
+      "num": 799181,
+      "word": "研究称男性生育能力断崖式下跌",
+      "onboard_time": 1668648089,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -608,6 +624,14 @@
       "word": "银行行长退休后当群演4天赚1200",
       "onboard_time": 1668523955,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022962,
+      "num": 1022962,
+      "word": "他的名字曾是我国最高机密之一",
+      "onboard_time": 1668644908,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1107,12 +1131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 694917,
+      "num": 694917,
+      "word": "王鹤棣白鹿以爱为营今日开机",
+      "onboard_time": 1668647788,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690127,
       "num": 427121,
       "word": "内娱明星头像大户",
       "onboard_time": 1668423208,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 689003,
+      "num": 689003,
+      "word": "朱韵口型",
+      "onboard_time": 1668644611,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 688534,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1668601411,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 672286,
+      "num": 262777,
+      "word": "高一男生校内失踪一月警方仍在搜寻",
+      "onboard_time": 1668641844,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669779,
@@ -1595,6 +1643,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 523929,
+      "num": 523929,
+      "word": "老赖住4层别墅拒还3万欠款",
+      "onboard_time": 1668642687,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522673,
       "num": 522673,
       "word": "父亲婚礼致辞紧张到全身发抖",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1668527849,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467742,
+      "num": 396101,
+      "word": "潮州特斯拉事故车第三方鉴定现场",
+      "onboard_time": 1668644551,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467512,
@@ -2379,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399705,
+      "num": 399705,
+      "word": "男子酒后遛狗被卡电梯致狗死亡",
+      "onboard_time": 1668642145,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399478,
       "num": 399478,
       "word": "李峋找徐黎娜刺激朱韵分手",
@@ -2489,6 +2561,14 @@
       "onboard_time": 1668581487,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385988,
+      "num": 385988,
+      "word": "马斯克警告推特员工不能加班就走人",
+      "onboard_time": 1668647069,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 385768,
@@ -2753,6 +2833,14 @@
       "onboard_time": 1668397949,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357366,
+      "num": 357366,
+      "word": "马斯克考虑卸任特斯拉CEO",
+      "onboard_time": 1668647430,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 355792,
@@ -3075,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326225,
+      "num": 326225,
+      "word": "鹿晗说又被徐志胜撞了",
+      "onboard_time": 1668646229,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324015,
       "num": 319994,
       "word": "命韵峋环生三孩的原因",
@@ -3243,6 +3339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310095,
+      "num": 310095,
+      "word": "北京昨增本土确诊172例",
+      "onboard_time": 1668644731,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309898,
       "num": 309898,
       "word": "95后宝妈带1岁大宝宝上班",
@@ -3337,6 +3441,14 @@
       "onboard_time": 1668610174,
       "rank": 16,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 297486,
+      "num": 297486,
+      "word": "Uzi",
+      "onboard_time": 1668641422,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 297081,
@@ -3515,6 +3627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281171,
+      "num": 281171,
+      "word": "鸟鸟无冕之王",
+      "onboard_time": 1668641422,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280157,
       "num": 280157,
       "word": "潮州特斯拉事故前视频公布",
@@ -3568,6 +3688,14 @@
       "word": "交大博士晒毕业照男女比例扎心",
       "onboard_time": 1668452833,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276049,
+      "num": 276049,
+      "word": "被大学生的手写笔记惊艳到了",
+      "onboard_time": 1668643470,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -3641,6 +3769,14 @@
       "onboard_time": 1668519451,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269850,
+      "num": 269850,
+      "word": "马思纯为冠军呼兰打call",
+      "onboard_time": 1668647009,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 269747,
@@ -3881,6 +4017,14 @@
       "onboard_time": 1668510990,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251744,
+      "num": 251744,
+      "word": "女子网恋被骗百万后把骗子骗回国",
+      "onboard_time": 1668649288,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249871,
@@ -4411,6 +4555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218663,
+      "num": 199129,
+      "word": "市监局回应疯狂小杨哥被打假",
+      "onboard_time": 1668649348,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218353,
       "num": 190661,
       "word": "点燃我温暖你崔雨鑫求生欲",
@@ -4507,6 +4659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 212145,
+      "num": 212145,
+      "word": "男孩放学上错车后蒙头就睡",
+      "onboard_time": 1668648687,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211694,
       "num": 211694,
       "word": "孙怡再见爱人粉籍反复横跳",
@@ -4553,6 +4713,14 @@
       "onboard_time": 1668411928,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210311,
+      "num": 196629,
+      "word": "失联高中生曾说自己有点想哭",
+      "onboard_time": 1668647908,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210306,
@@ -4753,6 +4921,14 @@
       "onboard_time": 1668413126,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201469,
+      "num": 201469,
+      "word": "Irene新专预告照",
+      "onboard_time": 1668645510,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201457,
@@ -5403,6 +5579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162948,
+      "num": 162948,
+      "word": "C罗说曼联任命朗尼克很荒谬",
+      "onboard_time": 1668648026,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162839,
       "num": 162839,
       "word": "狄仁杰神器传说皮肤",
@@ -5539,6 +5723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156373,
+      "num": 156373,
+      "word": "广东新增无症状感染者8576例",
+      "onboard_time": 1668648746,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155999,
       "num": 155999,
       "word": "光与夜之恋",
@@ -5633,6 +5825,14 @@
       "onboard_time": 1668548772,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "重庆落实离渝审批制度",
+      "onboard_time": 1668632652,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149390,
@@ -5947,6 +6147,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139495,
+      "num": 139495,
+      "word": "赵丽颖幸福到万家天津卫视开播",
+      "onboard_time": 1668641723,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138706,
+      "num": 138706,
+      "word": "吴磊说散个消食步",
+      "onboard_time": 1668618438,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138665,
       "num": 138665,
       "word": "乔尔杰维奇担任中国男篮主教练",
@@ -5979,20 +6195,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137735,
-      "num": 137735,
-      "word": "赵丽颖幸福到万家天津卫视开播",
-      "onboard_time": 1668641723,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137314,
       "num": 131074,
       "word": "彭冠英新剧终于表白蔡文静",
       "onboard_time": 1668416790,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137307,
+      "num": 128149,
+      "word": "世界杯倒计时3天",
+      "onboard_time": 1668650069,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137061,
@@ -6171,6 +6387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128190,
+      "num": 128190,
+      "word": "焦裕禄亲手栽下的泡桐已枝繁叶茂",
+      "onboard_time": 1668648869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127630,
       "num": 127630,
       "word": "卿卿日常里的冷知识",
@@ -6185,6 +6409,14 @@
       "onboard_time": 1668536595,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127308,
+      "num": 127308,
+      "word": "养仓鼠这件事仓鼠最不值钱",
+      "onboard_time": 1668617361,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 126854,
@@ -6321,14 +6553,6 @@
       "onboard_time": 1668486453,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118574,
-      "num": 114931,
-      "word": "吴磊说散个消食步",
-      "onboard_time": 1668618438,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 117092,
@@ -6555,14 +6779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107357,
-      "num": 107357,
-      "word": "养仓鼠这件事仓鼠最不值钱",
-      "onboard_time": 1668617361,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107210,
       "num": 107210,
       "word": "减肥时的这不行那不行",
@@ -6689,14 +6905,6 @@
       "onboard_time": 1668521428,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100919,
-      "num": 100919,
-      "word": "重庆落实离渝审批制度",
-      "onboard_time": 1668632652,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100861,
@@ -6963,14 +7171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 84838,
-      "num": 84838,
-      "word": "鸟鸟无冕之王",
-      "onboard_time": 1668641422,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84801,
       "num": 1103088,
       "word": "坚决打赢关键核心技术攻坚战",
@@ -7001,14 +7201,6 @@
       "onboard_time": 1668443963,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83974,
-      "num": 83974,
-      "word": "Uzi",
-      "onboard_time": 1668641422,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 82463,
@@ -7163,6 +7355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54655,
+      "num": 810816,
+      "word": "沉浸式看神十四航天员工作",
+      "onboard_time": 1668616941,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52732,
       "num": 52732,
       "word": "刘亦菲去有风的地方",
@@ -7209,14 +7409,6 @@
       "onboard_time": 1668618977,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35399,
-      "num": 680626,
-      "word": "沉浸式看神十四航天员工作",
-      "onboard_time": 1668616941,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 34468,

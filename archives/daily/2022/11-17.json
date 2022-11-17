@@ -1,7 +1,23 @@
 {
   "startTime": 1668616200484,
-  "endTime": 1668641816837,
+  "endTime": 1668650095654,
   "band_list": [
+    {
+      "raw_hot": 1654952,
+      "num": 1654952,
+      "word": "广州新增无症状感染者8486例",
+      "onboard_time": 1668646950,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1605999,
+      "num": 799181,
+      "word": "研究称男性生育能力断崖式下跌",
+      "onboard_time": 1668648089,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1486624,
       "num": 1486624,
@@ -24,6 +40,38 @@
       "word": "真实的石家庄到底是什么样",
       "onboard_time": 1668618558,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022962,
+      "num": 1022962,
+      "word": "他的名字曾是我国最高机密之一",
+      "onboard_time": 1668644908,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694917,
+      "num": 694917,
+      "word": "王鹤棣白鹿以爱为营今日开机",
+      "onboard_time": 1668647788,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 689003,
+      "num": 689003,
+      "word": "朱韵口型",
+      "onboard_time": 1668644611,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 672286,
+      "num": 262777,
+      "word": "高一男生校内失踪一月警方仍在搜寻",
+      "onboard_time": 1668641844,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -51,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523929,
+      "num": 523929,
+      "word": "老赖住4层别墅拒还3万欠款",
+      "onboard_time": 1668642687,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506174,
       "num": 506174,
       "word": "呼兰总冠军",
       "onboard_time": 1668601228,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467742,
+      "num": 396101,
+      "word": "潮州特斯拉事故车第三方鉴定现场",
+      "onboard_time": 1668644551,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454210,
@@ -73,6 +137,14 @@
       "onboard_time": 1668615445,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 399705,
+      "num": 399705,
+      "word": "男子酒后遛狗被卡电梯致狗死亡",
+      "onboard_time": 1668642145,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397632,
@@ -92,11 +164,19 @@
     },
     {
       "raw_hot": 387319,
-      "num": 273781,
+      "num": 315137,
       "word": "卫健委回应郑州女婴遭拒诊去世",
       "onboard_time": 1668600211,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385988,
+      "num": 385988,
+      "word": "马斯克警告推特员工不能加班就走人",
+      "onboard_time": 1668647069,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 380504,
@@ -105,6 +185,14 @@
       "onboard_time": 1668613646,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 357366,
+      "num": 357366,
+      "word": "马斯克考虑卸任特斯拉CEO",
+      "onboard_time": 1668647430,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 356259,
@@ -131,12 +219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326225,
+      "num": 326225,
+      "word": "鹿晗说又被徐志胜撞了",
+      "onboard_time": 1668646229,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322640,
       "num": 277009,
       "word": "命韵峋环两个疯子天生一对",
       "onboard_time": 1668613171,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310095,
+      "num": 310095,
+      "word": "北京昨增本土确诊172例",
+      "onboard_time": 1668644731,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304095,
@@ -155,12 +259,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297486,
+      "num": 297486,
+      "word": "Uzi",
+      "onboard_time": 1668641422,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 281171,
+      "num": 281171,
+      "word": "鸟鸟无冕之王",
+      "onboard_time": 1668641422,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276049,
+      "num": 276049,
+      "word": "被大学生的手写笔记惊艳到了",
+      "onboard_time": 1668643470,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273870,
       "num": 273870,
       "word": "男朋友的朋友圈都发什么",
       "onboard_time": 1668625392,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269850,
+      "num": 269850,
+      "word": "马思纯为冠军呼兰打call",
+      "onboard_time": 1668647009,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 267648,
@@ -185,6 +321,14 @@
       "onboard_time": 1668611910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251744,
+      "num": 251744,
+      "word": "女子网恋被骗百万后把骗子骗回国",
+      "onboard_time": 1668649288,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246108,
@@ -227,11 +371,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218663,
+      "num": 199129,
+      "word": "市监局回应疯狂小杨哥被打假",
+      "onboard_time": 1668649348,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217063,
       "num": 217063,
       "word": "新研究称生育永久改变女性骨骼",
       "onboard_time": 1668592408,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212145,
+      "num": 212145,
+      "word": "男孩放学上错车后蒙头就睡",
+      "onboard_time": 1668648687,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210311,
+      "num": 196629,
+      "word": "失联高中生曾说自己有点想哭",
+      "onboard_time": 1668647908,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -257,6 +425,14 @@
       "onboard_time": 1668613349,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201469,
+      "num": 201469,
+      "word": "Irene新专预告照",
+      "onboard_time": 1668645510,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193454,
@@ -291,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 162948,
+      "num": 162948,
+      "word": "C罗说曼联任命朗尼克很荒谬",
+      "onboard_time": 1668648026,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160357,
       "num": 160357,
       "word": "毕节官方通报一女孩坠楼身亡",
@@ -305,6 +489,30 @@
       "onboard_time": 1668608378,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156373,
+      "num": 156373,
+      "word": "广东新增无症状感染者8576例",
+      "onboard_time": 1668648746,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154735,
+      "num": 154735,
+      "word": "梅西",
+      "onboard_time": 1668641183,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "重庆落实离渝审批制度",
+      "onboard_time": 1668632652,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144469,
@@ -323,19 +531,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137735,
-      "num": 137735,
+      "raw_hot": 139495,
+      "num": 139495,
       "word": "赵丽颖幸福到万家天津卫视开播",
       "onboard_time": 1668641723,
       "rank": 23,
       "category": "影视"
     },
     {
-      "raw_hot": 135768,
-      "num": 135768,
-      "word": "梅西",
-      "onboard_time": 1668641183,
-      "rank": 24,
+      "raw_hot": 138706,
+      "num": 138706,
+      "word": "吴磊说散个消食步",
+      "onboard_time": 1668618438,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137307,
+      "num": 128149,
+      "word": "世界杯倒计时3天",
+      "onboard_time": 1668650069,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -345,6 +561,22 @@
       "onboard_time": 1668595289,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128190,
+      "num": 128190,
+      "word": "焦裕禄亲手栽下的泡桐已枝繁叶茂",
+      "onboard_time": 1668648869,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127308,
+      "num": 127308,
+      "word": "养仓鼠这件事仓鼠最不值钱",
+      "onboard_time": 1668617361,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 123186,
@@ -371,28 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118574,
-      "num": 114931,
-      "word": "吴磊说散个消食步",
-      "onboard_time": 1668618438,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109116,
       "num": 109116,
       "word": "当方便面不方便",
       "onboard_time": 1668609574,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 107357,
-      "num": 107357,
-      "word": "养仓鼠这件事仓鼠最不值钱",
-      "onboard_time": 1668617361,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 107198,
@@ -417,14 +633,6 @@
       "onboard_time": 1668585029,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 100919,
-      "num": 100919,
-      "word": "重庆落实离渝审批制度",
-      "onboard_time": 1668632652,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100053,
@@ -465,22 +673,6 @@
       "onboard_time": 1668595651,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84838,
-      "num": 84838,
-      "word": "鸟鸟无冕之王",
-      "onboard_time": 1668641422,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 83974,
-      "num": 83974,
-      "word": "Uzi",
-      "onboard_time": 1668641422,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 83734,
@@ -555,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54655,
+      "num": 810816,
+      "word": "沉浸式看神十四航天员工作",
+      "onboard_time": 1668616941,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 49187,
       "num": 33744,
       "word": "田曦薇早期旧照",
@@ -569,14 +769,6 @@
       "onboard_time": 1668618977,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35399,
-      "num": 680626,
-      "word": "沉浸式看神十四航天员工作",
-      "onboard_time": 1668616941,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 27210,
