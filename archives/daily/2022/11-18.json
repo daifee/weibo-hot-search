@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668705647674,
+  "endTime": 1668706677562,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -409,6 +409,14 @@
       "onboard_time": 1668702743,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 58598,
+      "num": 58598,
+      "word": "暴雪游戏主播集体发声",
+      "onboard_time": 1668705857,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 51147,

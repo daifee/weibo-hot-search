@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/18 00:30:39 ~ 2022/11/18 01:20:47
+本榜单时间：2022/11/18 00:30:39 ~ 2022/11/18 01:37:57
 </p>
 </blockquote>
 <p>
@@ -317,6 +317,12 @@ TheShy确诊（热度：172860）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%8D%8E%E5%9C%9F%E5%91%B3%E8%A1%A8%E7%99%BD%E7%A7%A6%E6%96%BD%23" target="weibo">
 阳华土味表白秦施（热度：66865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0%23" target="weibo">
+暴雪游戏主播集体发声（热度：58598）
 </a>
 </li>
 
