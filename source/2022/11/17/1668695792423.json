@@ -1,0 +1,410 @@
+{
+  "runTime": 1668695792423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807974,
+        "num": 1807974,
+        "word": "王冰冰要回来了",
+        "onboard_time": 1668680188,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784616,
+        "num": 784616,
+        "word": "韩国今天高考数学第一道题",
+        "onboard_time": 1668676588,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51568,
+        "num": 576127,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 517683,
+        "num": 517683,
+        "word": "13岁少女秃顶疑似是拔毛癖",
+        "onboard_time": 1668687989,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498025,
+        "num": 498025,
+        "word": "河北一银行窗台洒豆油防老人坐",
+        "onboard_time": 1668693389,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487857,
+        "num": 487857,
+        "word": "丁磊回应暴雪中止合作",
+        "onboard_time": 1668690870,
+        "rank": 5,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 439674,
+        "num": 439674,
+        "word": "00后女孩晒守墓工作惹网友羡慕",
+        "onboard_time": 1668689008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438989,
+        "num": 438989,
+        "word": "李峋朱韵36集造娃",
+        "onboard_time": 1668686729,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428474,
+        "num": 428474,
+        "word": "华为疑似暂缓2023届校招",
+        "onboard_time": 1668683969,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 407850,
+        "num": 407850,
+        "word": "内马尔 帅",
+        "onboard_time": 1668692549,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720139,
+        "num": 407587,
+        "word": "刘美含说破万了停更了我炸了",
+        "onboard_time": 1668692247,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408819,
+        "num": 406601,
+        "word": "李栋旭确认出演哈尔滨",
+        "onboard_time": 1668674969,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404845,
+        "num": 404845,
+        "word": "妈妈网购一支6色口红送女儿",
+        "onboard_time": 1668694110,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382328,
+        "num": 382328,
+        "word": "王鹤棣翻唱的私奔到月球",
+        "onboard_time": 1668690927,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354590,
+        "num": 354590,
+        "word": "男子拍到白凤凰飞翔宛若仙境神鸟",
+        "onboard_time": 1668689845,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336622,
+        "num": 336622,
+        "word": "疯狂小杨哥公布质检报告",
+        "onboard_time": 1668668427,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 326554,
+        "num": 326554,
+        "word": "TheShy确诊",
+        "onboard_time": 1668682050,
+        "rank": 16,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 324484,
+        "num": 324484,
+        "word": "石家庄新增感染者3天下降近80%",
+        "onboard_time": 1668667887,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321803,
+        "num": 321803,
+        "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
+        "onboard_time": 1668693270,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289552,
+        "num": 289552,
+        "word": "济南历山路",
+        "onboard_time": 1668690509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295914,
+        "num": 287115,
+        "word": "许凯说杨幂特别好看",
+        "onboard_time": 1668687389,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281372,
+        "num": 281372,
+        "word": "31省人口出生率公布",
+        "onboard_time": 1668685109,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277551,
+        "num": 277551,
+        "word": "172在山东的现状",
+        "onboard_time": 1668684210,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243860,
+        "num": 243860,
+        "word": "徐志胜的话缓解了我的焦虑",
+        "onboard_time": 1668689727,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236073,
+        "num": 236073,
+        "word": "杨紫公益直播幕后花絮视频",
+        "onboard_time": 1668695251,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229075,
+        "num": 229075,
+        "word": "婚礼前一晚父亲喝醉抱女儿痛哭",
+        "onboard_time": 1668681811,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201969,
+        "num": 201969,
+        "word": "网易公布致暴雪游戏玩家的一封信",
+        "onboard_time": 1668681391,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196780,
+        "num": 196780,
+        "word": "网传苏州多名城管殴打商贩并踹头",
+        "onboard_time": 1668686368,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193746,
+        "num": 193746,
+        "word": "广州重症1例危重症1例",
+        "onboard_time": 1668674307,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193372,
+        "num": 193372,
+        "word": "英雄联盟",
+        "onboard_time": 1668695251,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219466,
+        "num": 191500,
+        "word": "李峋在狱中朱韵在郁中",
+        "onboard_time": 1668690750,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201778,
+        "num": 189668,
+        "word": "李诞称之前没人愿为脱口秀大会买单",
+        "onboard_time": 1668687328,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187661,
+        "num": 187661,
+        "word": "白敬亭新剧表情戏",
+        "onboard_time": 1668695010,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186155,
+        "num": 186155,
+        "word": "李峋离开后朱韵被思念包裹",
+        "onboard_time": 1668692310,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172769,
+        "num": 172769,
+        "word": "中东地区迎来的首对大熊猫",
+        "onboard_time": 1668692729,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 167085,
+        "num": 167085,
+        "word": "阿里发布2023财年第二季度财报",
+        "onboard_time": 1668692131,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164505,
+        "num": 164505,
+        "word": "取消对密接的密接的判定和管理",
+        "onboard_time": 1668677668,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 154051,
+        "num": 154051,
+        "word": "男子地铁上脱鞋被人扔出车厢",
+        "onboard_time": 1668684809,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149040,
+        "num": 149040,
+        "word": "托运行李内藏199只活龟7条活蛇",
+        "onboard_time": 1668681208,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141930,
+        "num": 141930,
+        "word": "原来我看了这么多偶像剧啊",
+        "onboard_time": 1668694587,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173808,
+        "num": 141127,
+        "word": "NMIXX翻跳VERYNICE视频",
+        "onboard_time": 1668694768,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168680,
+        "num": 140662,
+        "word": "查询火军精神状态",
+        "onboard_time": 1668694409,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139593,
+        "num": 139593,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1668683969,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 134191,
+        "num": 134191,
+        "word": "3岁以下婴幼儿免查核酸阴性证明",
+        "onboard_time": 1668674069,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131875,
+        "num": 131875,
+        "word": "山东女子帮离世闺蜜照顾父母孩子",
+        "onboard_time": 1668681747,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 128201,
+        "num": 128201,
+        "word": "米哈游将接手暴雪中国区运营系谣言",
+        "onboard_time": 1668677248,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 124838,
+        "word": "暴雪中国回应",
+        "onboard_time": 1668670167,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119214,
+        "num": 119214,
+        "word": "这跳绳非学不可吗",
+        "onboard_time": 1668688647,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115584,
+        "num": 115584,
+        "word": "不被理解的那一瞬间",
+        "onboard_time": 1668695370,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111266,
+        "num": 111266,
+        "word": "人类幼崽的耐心程度",
+        "onboard_time": 1668695669,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧闪耀G20#"
+    }
+  }
+}
