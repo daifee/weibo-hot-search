@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668710517951,
+  "endTime": 1668712638462,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 161902,
-      "num": 62525,
+      "num": 103254,
       "word": "暴雪游戏主播集体发声",
       "onboard_time": 1668705857,
       "rank": 34,
@@ -441,6 +441,14 @@
       "onboard_time": 1668691646,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17452,
+      "num": 17452,
+      "word": "小狗叼坐垫躺追悬疑剧",
+      "onboard_time": 1668711192,
+      "rank": 43,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
