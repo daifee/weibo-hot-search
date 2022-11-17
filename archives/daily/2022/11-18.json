@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668703920312,
+  "endTime": 1668705647674,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188998,
+      "num": 157142,
+      "word": "司机路边开车门撞死外卖员被公诉",
+      "onboard_time": 1668701965,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184660,
       "num": 184660,
       "word": "什么样的爱情不长久",
@@ -209,14 +217,6 @@
       "onboard_time": 1668687328,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157142,
-      "num": 157142,
-      "word": "司机路边开车门撞死外卖员被公诉",
-      "onboard_time": 1668701965,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157047,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73740,
+      "num": 73740,
+      "word": "陈紫函炫一碗螺蛳粉给大家助助兴",
+      "onboard_time": 1668705319,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66999,
       "num": 66999,
       "word": "学会拒绝导购有多爽",
@@ -409,6 +417,14 @@
       "onboard_time": 1668703820,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34499,
+      "num": 34499,
+      "word": "技能点全加在了移动上",
+      "onboard_time": 1668704959,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 23490,
