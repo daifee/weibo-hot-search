@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668771231964,
+  "endTime": 1668775193287,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 914528,
+      "num": 914528,
+      "word": "已经不希望老鼠死那么快了",
+      "onboard_time": 1668772464,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 913622,
       "num": 913622,
       "word": "华谊兄弟裁员",
@@ -1955,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607764,
+      "num": 607764,
+      "word": "5秒一个梗",
+      "onboard_time": 1668770308,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 606920,
       "num": 606920,
       "word": "女子买小吃被套路一小条变半袋",
@@ -2179,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560995,
+      "num": 560995,
+      "word": "FPX 冰岛",
+      "onboard_time": 1668771088,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560661,
       "num": 560661,
       "word": "微信月活比QQ高一倍",
@@ -2371,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532854,
+      "num": 532854,
+      "word": "甘肃县级队足协杯淘汰北京国安",
+      "onboard_time": 1668769048,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532280,
       "num": 325154,
       "word": "泰安",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1668669149,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519264,
+      "num": 447274,
+      "word": "姜贞羽蚊子包",
+      "onboard_time": 1668773906,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519193,
@@ -3051,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468267,
+      "num": 468267,
+      "word": "女生在校遭霸凌致精神失常",
+      "onboard_time": 1668773546,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467817,
       "num": 467817,
       "word": "网易公布致暴雪游戏玩家的一封信",
@@ -3201,6 +3249,14 @@
       "onboard_time": 1668630791,
       "rank": 10,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 453609,
+      "num": 453609,
+      "word": "广州防疫人员耐心对话被管控居民",
+      "onboard_time": 1668771507,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452322,
@@ -3569,6 +3625,14 @@
       "onboard_time": 1668485671,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 407922,
+      "num": 407922,
+      "word": "朝阳区倡导市民非必要不离开朝阳区",
+      "onboard_time": 1668770067,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407053,
@@ -4819,6 +4883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317670,
+      "num": 317670,
+      "word": "苏醒分享快乐再出发第二季vlog",
+      "onboard_time": 1668775046,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317087,
       "num": 200928,
       "word": "高见鸿好贱",
@@ -5211,6 +5283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 287828,
+      "num": 287828,
+      "word": "警方回应鹤壁16岁女生遭霸凌",
+      "onboard_time": 1668770187,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287474,
       "num": 287474,
       "word": "DK官宣Nuguri离队",
@@ -5409,6 +5489,14 @@
       "onboard_time": 1668530244,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277355,
+      "num": 277355,
+      "word": "TES",
+      "onboard_time": 1668772587,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 276393,
@@ -5763,6 +5851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258713,
+      "num": 258713,
+      "word": "原来多大的孩子都得平分",
+      "onboard_time": 1668768868,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258451,
       "num": 138860,
       "word": "李峋越来越爱笑了",
@@ -5817,14 +5913,6 @@
       "onboard_time": 1668526472,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255202,
-      "num": 255202,
-      "word": "原来多大的孩子都得平分",
-      "onboard_time": 1668768868,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 254267,
@@ -5963,14 +6051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246574,
-      "num": 246574,
-      "word": "朝阳区倡导市民非必要不离开朝阳区",
-      "onboard_time": 1668770067,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246020,
       "num": 158488,
       "word": "庞博开场",
@@ -6059,14 +6139,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 241943,
-      "num": 241943,
-      "word": "5秒一个梗",
-      "onboard_time": 1668770308,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241928,
       "num": 241928,
       "word": "北京朝阳新划定29个高风险区",
@@ -6091,14 +6163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241392,
-      "num": 241392,
-      "word": "警方回应鹤壁16岁女生遭霸凌",
-      "onboard_time": 1668770187,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240312,
       "num": 240312,
       "word": "原来惊鸿舞是这么拍的",
@@ -6121,6 +6185,14 @@
       "onboard_time": 1668386730,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239005,
+      "num": 239005,
+      "word": "网传我的大叔翻拍阵容是陈建斌沈月",
+      "onboard_time": 1668774564,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 238902,
@@ -6307,6 +6379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231785,
+      "num": 231785,
+      "word": "张艺兴旧金山演唱会1120见",
+      "onboard_time": 1668773246,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231745,
       "num": 231745,
       "word": "白敬亭六少主尹峥的老六行为",
@@ -6491,20 +6571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225041,
+      "num": 225041,
+      "word": "杨幂白宇谢谢你医生豆瓣开分6.3分",
+      "onboard_time": 1668773969,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224782,
       "num": 224782,
       "word": "疑因就餐起冲突男子疯狂殴打多人",
       "onboard_time": 1668410307,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 224392,
-      "num": 224392,
-      "word": "甘肃县级队足协杯淘汰北京国安",
-      "onboard_time": 1668769048,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 224380,
@@ -7699,6 +7779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181826,
+      "num": 181826,
+      "word": "涵艺",
+      "onboard_time": 1668771687,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181355,
       "num": 181355,
       "word": "付国豪父亲披露付国豪去世",
@@ -8163,6 +8251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164922,
+      "num": 164922,
+      "word": "女孩街头难过徘徊获赠一束向日葵",
+      "onboard_time": 1668770727,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 164851,
       "num": 164851,
       "word": "男子为姥姥用树叶制作秋色床单",
@@ -8249,6 +8345,14 @@
       "onboard_time": 1668418169,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161623,
+      "num": 94353,
+      "word": "乐华娱乐营收增长80%以上来自王一博",
+      "onboard_time": 1668775165,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 161597,
@@ -8553,6 +8657,22 @@
       "onboard_time": 1668761248,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151074,
+      "num": 92480,
+      "word": "一年一度喜剧大赛",
+      "onboard_time": 1668775165,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150735,
+      "num": 150735,
+      "word": "奔跑吧",
+      "onboard_time": 1668774266,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 149982,
@@ -9195,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136344,
+      "num": 121243,
+      "word": "马嘉祺在话剧万水朝东演机要员",
+      "onboard_time": 1668774687,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136285,
       "num": 129365,
       "word": "鸟鸟说出了女孩们的心声",
@@ -9225,6 +9353,14 @@
       "onboard_time": 1668491489,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135637,
+      "num": 135637,
+      "word": "是谁教小朋友这样用脸的",
+      "onboard_time": 1668774024,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 135491,
@@ -9571,6 +9707,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 124007,
+      "num": 124007,
+      "word": "上大学就一定要谈恋爱吗",
+      "onboard_time": 1668773785,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123815,
       "num": 123815,
       "word": "李峋说感情用事对大家来说都是负担",
@@ -9803,14 +9947,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 115955,
-      "num": 115955,
-      "word": "FPX 冰岛",
-      "onboard_time": 1668771088,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115584,
       "num": 115584,
       "word": "不被理解的那一瞬间",
@@ -9833,14 +9969,6 @@
       "onboard_time": 1668582867,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115424,
-      "num": 115424,
-      "word": "女孩街头难过徘徊获赠一束向日葵",
-      "onboard_time": 1668770727,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 115316,
@@ -10099,6 +10227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109357,
+      "num": 109357,
+      "word": "这就是双开门冰箱吗",
+      "onboard_time": 1668774386,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109350,
       "num": 109350,
       "word": "李峋快点去洗脸",
@@ -10305,6 +10441,14 @@
       "onboard_time": 1668521428,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101792,
+      "num": 101792,
+      "word": "这个宿舍终究还是选对了",
+      "onboard_time": 1668774086,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 101598,

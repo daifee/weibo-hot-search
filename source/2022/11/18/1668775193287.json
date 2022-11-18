@@ -1,0 +1,410 @@
+{
+  "runTime": 1668775193287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582195,
+        "num": 1582195,
+        "word": "无疫情地区原则不限制演唱会人数",
+        "onboard_time": 1668761186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914528,
+        "num": 914528,
+        "word": "已经不希望老鼠死那么快了",
+        "onboard_time": 1668772464,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47459,
+        "num": 748883,
+        "word": "探秘雅万高铁动车组",
+        "onboard_time": 1668762807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 607764,
+        "num": 607764,
+        "word": "5秒一个梗",
+        "onboard_time": 1668770308,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 587210,
+        "num": 587210,
+        "word": "Doinb",
+        "onboard_time": 1668769289,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 619014,
+        "num": 577153,
+        "word": "教育局回应网传鹤壁一女生遭霸凌",
+        "onboard_time": 1668766288,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560995,
+        "num": 560995,
+        "word": "FPX 冰岛",
+        "onboard_time": 1668771088,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532854,
+        "num": 532854,
+        "word": "甘肃县级队足协杯淘汰北京国安",
+        "onboard_time": 1668769048,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468267,
+        "num": 468267,
+        "word": "女生在校遭霸凌致精神失常",
+        "onboard_time": 1668773546,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453609,
+        "num": 453609,
+        "word": "广州防疫人员耐心对话被管控居民",
+        "onboard_time": 1668771507,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519264,
+        "num": 447274,
+        "word": "姜贞羽蚊子包",
+        "onboard_time": 1668773906,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426516,
+        "num": 426516,
+        "word": "32岁女子北漂10年存400万买90平房",
+        "onboard_time": 1668764786,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407922,
+        "num": 407922,
+        "word": "朝阳区倡导市民非必要不离开朝阳区",
+        "onboard_time": 1668770067,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385745,
+        "num": 385745,
+        "word": "罗晋新剧老婆被群嘲",
+        "onboard_time": 1668768627,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364441,
+        "num": 364441,
+        "word": "田曦薇开吃播",
+        "onboard_time": 1668769948,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333644,
+        "num": 333644,
+        "word": "法证先锋5尺度有多大",
+        "onboard_time": 1668765325,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317670,
+        "num": 317670,
+        "word": "苏醒分享快乐再出发第二季vlog",
+        "onboard_time": 1668775046,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314654,
+        "num": 314654,
+        "word": "亚洲杯国乒男单无缘四强",
+        "onboard_time": 1668764965,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313984,
+        "num": 313984,
+        "word": "武汉14岁失踪男童父亲发声",
+        "onboard_time": 1668762207,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287828,
+        "num": 287828,
+        "word": "警方回应鹤壁16岁女生遭霸凌",
+        "onboard_time": 1668770187,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277355,
+        "num": 277355,
+        "word": "TES",
+        "onboard_time": 1668772587,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258713,
+        "num": 258713,
+        "word": "原来多大的孩子都得平分",
+        "onboard_time": 1668768868,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247327,
+        "num": 247327,
+        "word": "北京朝阳新增71例感染者",
+        "onboard_time": 1668767067,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239005,
+        "num": 239005,
+        "word": "网传我的大叔翻拍阵容是陈建斌沈月",
+        "onboard_time": 1668774564,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231785,
+        "num": 231785,
+        "word": "张艺兴旧金山演唱会1120见",
+        "onboard_time": 1668773246,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225041,
+        "num": 225041,
+        "word": "杨幂白宇谢谢你医生豆瓣开分6.3分",
+        "onboard_time": 1668773969,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209459,
+        "num": 209459,
+        "word": "白鹿加入奔跑吧大家庭一周年了",
+        "onboard_time": 1668768868,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204927,
+        "num": 204927,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196206,
+        "num": 196206,
+        "word": "女生到底介不介意男友矮",
+        "onboard_time": 1668754645,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181826,
+        "num": 181826,
+        "word": "涵艺",
+        "onboard_time": 1668771687,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164922,
+        "num": 164922,
+        "word": "女孩街头难过徘徊获赠一束向日葵",
+        "onboard_time": 1668770727,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 160977,
+        "num": 160977,
+        "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
+        "onboard_time": 1668762026,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156914,
+        "num": 156914,
+        "word": "李薇宋舞身高差",
+        "onboard_time": 1668767548,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150735,
+        "num": 150735,
+        "word": "奔跑吧",
+        "onboard_time": 1668774266,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146491,
+        "num": 146491,
+        "word": "北京疫情防控",
+        "onboard_time": 1668765747,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144515,
+        "num": 144515,
+        "word": "外交部回应所谓中国威胁论",
+        "onboard_time": 1668767667,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142195,
+        "num": 142195,
+        "word": "王鹤棣时宴黑色高领毛衣造型",
+        "onboard_time": 1668766466,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135637,
+        "num": 135637,
+        "word": "是谁教小朋友这样用脸的",
+        "onboard_time": 1668774024,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124366,
+        "num": 124366,
+        "word": "完美世界回应是否接洽暴雪",
+        "onboard_time": 1668767788,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124007,
+        "num": 124007,
+        "word": "上大学就一定要谈恋爱吗",
+        "onboard_time": 1668773785,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136344,
+        "num": 121243,
+        "word": "马嘉祺在话剧万水朝东演机要员",
+        "onboard_time": 1668774687,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117007,
+        "num": 117007,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114727,
+        "num": 114727,
+        "word": "第一次舔冰棍的小猫",
+        "onboard_time": 1668761668,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109357,
+        "num": 109357,
+        "word": "这就是双开门冰箱吗",
+        "onboard_time": 1668774386,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 103529,
+        "word": "等待11年西安网红楼盘交房",
+        "onboard_time": 1668768148,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101792,
+        "num": 101792,
+        "word": "这个宿舍终究还是选对了",
+        "onboard_time": 1668774086,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96024,
+        "num": 96024,
+        "word": "小狗夭折狗妈妈死死含住不让埋",
+        "onboard_time": 1668750928,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 94353,
+        "word": "乐华娱乐营收增长80%以上来自王一博",
+        "onboard_time": 1668775165,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151074,
+        "num": 92480,
+        "word": "一年一度喜剧大赛",
+        "onboard_time": 1668775165,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88686,
+        "num": 88686,
+        "word": "暴雪想要中国百万玩家数据",
+        "onboard_time": 1668751709,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放包容合作共赢才是人间正道#"
+    }
+  }
+}
