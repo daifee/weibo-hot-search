@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/18 15:19:20
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/18 15:34:16
 </p>
 </blockquote>
 <p>
@@ -5883,6 +5883,12 @@ Bobby或将离开YG（热度：544076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B4%A8%E6%A3%80%E6%8A%A5%E5%91%8A%E4%BB%85%E8%83%BD%E8%AF%81%E6%98%8E%E6%A0%B7%E5%93%81%E5%90%88%E6%A0%BC%23" target="weibo">
+专家称小杨哥质检报告仅能证明样品合格（热度：539648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92%E5%86%8D%E5%BA%A6%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C%23" target="weibo">
 钟睒睒再度成为中国首富（热度：539498）
 </a>
@@ -6005,12 +6011,6 @@ Lami签入原公司演员部（热度：534661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%BA%BA%E5%86%B3%E5%AE%9A%E9%80%80%E9%9E%8B%23" target="weibo">
 当一个女人决定退鞋（热度：531424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B9%B015%E5%85%83%E4%B8%8D%E9%99%90%E9%87%8F%E7%82%92%E9%85%B8%E5%A5%B6%E5%8F%A0%E6%88%90%E5%B1%B1%23" target="weibo">
-男生买15元不限量炒酸奶叠成山（热度：530094）
 </a>
 </li>
 
