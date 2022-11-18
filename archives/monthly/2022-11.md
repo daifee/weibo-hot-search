@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/18 23:38:44
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 00:29:40
 </p>
 </blockquote>
 <p>
@@ -1185,6 +1185,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BB%BB%E8%B4%A4%E9%BD%90%E8%BD%AC%E5%8F%91%E7%9A%84%E7%94%B7%E7%AB%A5%E5%A4%B1%E8%B8%AA%E6%A1%88%23" target="weibo">
+警方回应任贤齐转发的男童失踪案（热度：1494722）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%BD%93%E5%B9%B4%E6%B2%A1%E8%A2%AB%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 苏醒当年没被淘汰的原因（热度：1487382）
 </a>
@@ -2003,12 +2009,6 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8Btakeoff%E8%A2%AB%E6%9E%AA%E6%9D%80%23" target="weibo">
 美国说唱歌手takeoff被枪杀（热度：1116315）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BB%BB%E8%B4%A4%E9%BD%90%E8%BD%AC%E5%8F%91%E7%9A%84%E7%94%B7%E7%AB%A5%E5%A4%B1%E8%B8%AA%E6%A1%88%23" target="weibo">
-警方回应任贤齐转发的男童失踪案（热度：1110248）
 </a>
 </li>
 
@@ -5943,6 +5943,12 @@ FPX 冰岛（热度：560995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%BD%A9%E7%A4%BC%E8%A2%AB%E8%AF%AF%E8%A7%A3%E5%A5%BD%E5%A4%9A%E5%B9%B4%23" target="weibo">
+江西彩礼被误解好多年（热度：548652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B0%94%E7%9C%9F%E7%9A%84%E4%BC%9A%E9%95%BF%E4%B9%B3%E8%85%BA%E7%BB%93%E8%8A%82%23" target="weibo">
 生气真的会长乳腺结节（热度：548155）
 </a>
@@ -6005,12 +6011,6 @@ FPX 冰岛（热度：560995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%23" target="weibo">
 Uzi（热度：545441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bobby%E6%88%96%E5%B0%86%E7%A6%BB%E5%BC%80YG%23" target="weibo">
-Bobby或将离开YG（热度：544076）
 </a>
 </li>
 
