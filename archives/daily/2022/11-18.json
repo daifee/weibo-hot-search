@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668760890053,
+  "endTime": 1668763248405,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -56,6 +56,14 @@
       "word": "付国豪因抑郁症病故",
       "onboard_time": 1668696751,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447309,
+      "num": 1447309,
+      "word": "无疫情地区原则不限制演唱会人数",
+      "onboard_time": 1668761186,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 940656,
-      "num": 405129,
+      "num": 413433,
       "word": "消费者质疑淘宝88VIP会员杀熟",
       "onboard_time": 1668755068,
       "rank": 21,
@@ -169,6 +177,14 @@
       "onboard_time": 1668756567,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 844786,
+      "num": 844786,
+      "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
+      "onboard_time": 1668762026,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 839251,
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 469555,
+      "num": 469555,
+      "word": "边牧跑丢5个小时溜进派出所求助",
+      "onboard_time": 1668757646,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466164,
       "num": 466164,
       "word": "他被刺多刀仍拼死抵挡歹徒",
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418123,
+      "num": 418123,
+      "word": "更换电池会提升手机的体验感吗",
+      "onboard_time": 1668758968,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 417790,
       "num": 417790,
       "word": "推特公司员工大规模辞职",
@@ -497,6 +529,14 @@
       "onboard_time": 1668695851,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400951,
+      "num": 400951,
+      "word": "寻子父亲回应任贤齐等众星发声相助",
+      "onboard_time": 1668760647,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 400821,
@@ -539,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382329,
-      "num": 382329,
-      "word": "边牧跑丢5个小时溜进派出所求助",
-      "onboard_time": 1668757646,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380437,
       "num": 380437,
       "word": "暴雪游戏主播集体发声",
@@ -561,6 +593,14 @@
       "onboard_time": 1668749130,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379815,
+      "num": 379815,
+      "word": "宋亚轩说我是演员宋亚轩",
+      "onboard_time": 1668762386,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 365861,
@@ -617,6 +657,14 @@
       "onboard_time": 1668739167,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340114,
+      "num": 340114,
+      "word": "林仲勋4比3王楚钦",
+      "onboard_time": 1668759927,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 327058,
@@ -771,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255302,
-      "num": 255302,
-      "word": "更换电池会提升手机的体验感吗",
-      "onboard_time": 1668758968,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 253890,
       "num": 253890,
       "word": "上海迪士尼辟谣将正式停止运营",
@@ -808,6 +848,14 @@
       "word": "上万年轻人变身植系青年",
       "onboard_time": 1668742406,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243472,
+      "num": 175635,
+      "word": "武汉14岁失踪男童父亲发声",
+      "onboard_time": 1668762207,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -891,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211649,
-      "num": 211649,
-      "word": "林仲勋4比3王楚钦",
-      "onboard_time": 1668759927,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 210668,
+      "num": 210668,
+      "word": "第一次舔冰棍的小猫",
+      "onboard_time": 1668761668,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 206515,
@@ -931,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "柴犬散步遭到猫咪围堵",
+      "onboard_time": 1668761848,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202393,
       "num": 202393,
       "word": "张本智和",
@@ -945,6 +1001,14 @@
       "onboard_time": 1668686729,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202022,
+      "num": 202022,
+      "word": "小学生犯错轻拍老师胳膊求原谅",
+      "onboard_time": 1668760826,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201989,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1668754346,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192324,
+      "num": 192324,
+      "word": "王楚钦 下个赛场见",
+      "onboard_time": 1668761549,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 187751,
@@ -1155,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161915,
-      "num": 161915,
-      "word": "寻子父亲回应任贤齐等众星发声相助",
-      "onboard_time": 1668760647,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 160681,
       "num": 153691,
       "word": "袁娅维ALin万妮达套娃宣传新歌",
@@ -1203,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155958,
+      "num": 155958,
+      "word": "阿根廷球星阿圭罗遇到巴西球迷",
+      "onboard_time": 1668762144,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151714,
       "num": 151714,
       "word": "买隐形眼镜要关注透氧量",
@@ -1233,6 +1305,30 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 141796,
+      "num": 141796,
+      "word": "8旬退休教师辅导孙子气到敲桌",
+      "onboard_time": 1668761248,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140458,
+      "num": 140458,
+      "word": "被衣服封印的小猫",
+      "onboard_time": 1668755726,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140421,
+      "num": 140421,
+      "word": "爱的二八定律",
+      "onboard_time": 1668763107,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 139761,
@@ -1291,20 +1387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135491,
+      "num": 135491,
+      "word": "王一博新歌白衬衫造型",
+      "onboard_time": 1668760888,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "这狗子是有点演技在身上的",
+      "onboard_time": 1668762925,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134607,
       "num": 134607,
       "word": "00后女孩晒守墓工作惹网友羡慕",
       "onboard_time": 1668689008,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133552,
-      "num": 133552,
-      "word": "被衣服封印的小猫",
-      "onboard_time": 1668755726,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 132229,
@@ -1379,6 +1483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "这推拿手法把猫咪拿捏住了",
+      "onboard_time": 1668762986,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120611,
       "num": 120611,
       "word": "nest",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1668749190,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116129,
+      "num": 116129,
+      "word": "酥到掉渣的手工蛋卷有多绝",
+      "onboard_time": 1668763226,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 115552,
@@ -1547,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93314,
-      "num": 93314,
-      "word": "小学生犯错轻拍老师胳膊求原谅",
-      "onboard_time": 1668760826,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92965,
       "num": 92965,
       "word": "王鹤棣翻唱的私奔到月球",
@@ -1633,6 +1745,14 @@
       "onboard_time": 1668703820,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 48831,
+      "num": 976525,
+      "word": "探秘雅万高铁动车组",
+      "onboard_time": 1668762807,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 34499,
