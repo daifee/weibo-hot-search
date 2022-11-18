@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668800040013,
+  "endTime": 1668802932370,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -11683,12 +11683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33710,
+      "num": 33710,
+      "word": "12岁男孩不慎被弓箭射中鼻梁",
+      "onboard_time": 1668799393,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28694,
       "num": 28694,
       "word": "元英在结一种很新的婚",
       "onboard_time": 1668444807,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28302,
+      "num": 28302,
+      "word": "云南红河5.0级地震",
+      "onboard_time": 1668798255,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26208,
@@ -11705,14 +11721,6 @@
       "onboard_time": 1668630431,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24749,
-      "num": 24749,
-      "word": "云南红河5.0级地震",
-      "onboard_time": 1668798255,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24528,
@@ -11825,14 +11833,6 @@
       "onboard_time": 1668369792,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14783,
-      "num": 14783,
-      "word": "12岁男孩不慎被弓箭射中鼻梁",
-      "onboard_time": 1668799393,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13355,
