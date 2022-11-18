@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668796093802,
+  "endTime": 1668797008938,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -11611,6 +11611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50130,
+      "num": 50130,
+      "word": "梅西刚下飞机就被围了",
+      "onboard_time": 1668795135,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49200,
       "num": 53137,
       "word": "在家办公的尴尬瞬间",
@@ -11633,14 +11641,6 @@
       "onboard_time": 1668662190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44803,
-      "num": 44803,
-      "word": "梅西刚下飞机就被围了",
-      "onboard_time": 1668795135,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 44341,
