@@ -1,0 +1,410 @@
+{
+  "runTime": 1668755960129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314720,
+        "num": 1314720,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148172,
+        "num": 1148172,
+        "word": "暴雪想要中国百万玩家数据",
+        "onboard_time": 1668751709,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6795,
+        "num": 728743,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 606076,
+        "num": 606076,
+        "word": "小狗夭折狗妈妈死死含住不让埋",
+        "onboard_time": 1668750928,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547774,
+        "num": 547774,
+        "word": "女子发现老公手机藏初恋女友视频",
+        "onboard_time": 1668740906,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610609,
+        "num": 543187,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513123,
+        "num": 513123,
+        "word": "DK官宣deokdam离队",
+        "onboard_time": 1668753866,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 491662,
+        "num": 491662,
+        "word": "刘氏兄弟公开回应更改国籍",
+        "onboard_time": 1668744869,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490543,
+        "num": 490543,
+        "word": "老公和狗都不能要了",
+        "onboard_time": 1668752067,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449421,
+        "num": 449421,
+        "word": "专家称小杨哥质检报告仅能证明样品合格",
+        "onboard_time": 1668752488,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350040,
+        "num": 350040,
+        "word": "南湖大学表白墙",
+        "onboard_time": 1668749970,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322583,
+        "num": 322583,
+        "word": "易烊千玺个十百千万纪录片",
+        "onboard_time": 1668750092,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337949,
+        "num": 321012,
+        "word": "李峋是去备孕了吧",
+        "onboard_time": 1668744750,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311676,
+        "num": 311676,
+        "word": "女生为男友做蛋炒饭半碗都是油",
+        "onboard_time": 1668748111,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289199,
+        "num": 289199,
+        "word": "泸定地震免费送7000碗面拉面哥去世",
+        "onboard_time": 1668750748,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286442,
+        "num": 286442,
+        "word": "卡塔尔回应世界杯花费2000亿美元",
+        "onboard_time": 1668749130,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274332,
+        "num": 274332,
+        "word": "卿卿日常为什么能火",
+        "onboard_time": 1668745589,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268183,
+        "num": 268183,
+        "word": "10岁女孩手绘付款码成功扫出信息",
+        "onboard_time": 1668754107,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272343,
+        "num": 265259,
+        "word": "尹峥指甲劈了",
+        "onboard_time": 1668752728,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250616,
+        "num": 250616,
+        "word": "女生到底介不介意男友矮",
+        "onboard_time": 1668754645,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249788,
+        "num": 249788,
+        "word": "快乐再出发哈尔滨录制",
+        "onboard_time": 1668750748,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248901,
+        "num": 248901,
+        "word": "消费者质疑淘宝88VIP会员杀熟",
+        "onboard_time": 1668755068,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228598,
+        "num": 228598,
+        "word": "金韩彬 Tangerine",
+        "onboard_time": 1668755547,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217649,
+        "num": 217649,
+        "word": "CPA",
+        "onboard_time": 1668748828,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215683,
+        "num": 215683,
+        "word": "女子称清晨在家遭无人机持续偷窥",
+        "onboard_time": 1668742891,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196600,
+        "num": 196600,
+        "word": "1只黑天鹅混进白天鹅群被孤立",
+        "onboard_time": 1668751348,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196035,
+        "num": 196035,
+        "word": "暴雪停服后账号咋办",
+        "onboard_time": 1668754888,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193853,
+        "num": 193853,
+        "word": "奥尼尔绝杀开拓者",
+        "onboard_time": 1668751589,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193277,
+        "num": 193277,
+        "word": "卿卿日常连更三条花絮",
+        "onboard_time": 1668754346,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188507,
+        "num": 188507,
+        "word": "饿了么免单",
+        "onboard_time": 1668741206,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180285,
+        "num": 180285,
+        "word": "重庆籍歌手舞台大赏",
+        "onboard_time": 1668755246,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176142,
+        "num": 176142,
+        "word": "刘亦菲陈晓梦华录2022年剧集四榜榜首",
+        "onboard_time": 1668746912,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174772,
+        "num": 174772,
+        "word": "于文文刘恋赵梦合唱唯一",
+        "onboard_time": 1668754947,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173709,
+        "num": 173709,
+        "word": "蔡文静新剧老公竟然没死",
+        "onboard_time": 1668752910,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169097,
+        "num": 169097,
+        "word": "上海迪士尼辟谣将正式停止运营",
+        "onboard_time": 1668749549,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165906,
+        "num": 165906,
+        "word": "71岁大爷称老年婚恋就是一场交易",
+        "onboard_time": 1668744206,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155702,
+        "num": 155702,
+        "word": "厂家回应牛奶摇晃变色",
+        "onboard_time": 1668749428,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153691,
+        "num": 153691,
+        "word": "袁娅维ALin万妮达套娃宣传新歌",
+        "onboard_time": 1668753508,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135366,
+        "num": 135366,
+        "word": "宝可梦朱紫bug有多离谱",
+        "onboard_time": 1668752009,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133249,
+        "num": 133249,
+        "word": "美国超100家星巴克员工罢工",
+        "onboard_time": 1668746072,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132229,
+        "num": 132229,
+        "word": "六公主视角下的贺峻霖",
+        "onboard_time": 1668753866,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132131,
+        "num": 132131,
+        "word": "卿卿日常梗图",
+        "onboard_time": 1668755788,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129066,
+        "num": 129066,
+        "word": "蜡笔小新妈妈的配音去世",
+        "onboard_time": 1668744691,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119721,
+        "num": 119721,
+        "word": "他被刺多刀仍拼死抵挡歹徒",
+        "onboard_time": 1668742708,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 118579,
+        "num": 118579,
+        "word": "厄风琉斯",
+        "onboard_time": 1668739826,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117529,
+        "num": 117529,
+        "word": "TheShy",
+        "onboard_time": 1668748350,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113932,
+        "num": 113932,
+        "word": "重庆新增本土感染者4666例",
+        "onboard_time": 1668735986,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110122,
+        "num": 110122,
+        "word": "迪士尼",
+        "onboard_time": 1668743248,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109764,
+        "num": 109764,
+        "word": "被衣服封印的小猫",
+        "onboard_time": 1668755726,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108898,
+        "num": 108898,
+        "word": "武汉14岁男孩出门扔垃圾后失踪",
+        "onboard_time": 1668755788,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问泰国#"
+    }
+  }
+}

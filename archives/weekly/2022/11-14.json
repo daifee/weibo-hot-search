@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668753811358,
+  "endTime": 1668755960129,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -681,6 +681,14 @@
       "onboard_time": 1668492327,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148172,
+      "num": 1148172,
+      "word": "暴雪想要中国百万玩家数据",
+      "onboard_time": 1668751709,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1134423,
@@ -1635,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 668189,
-      "num": 668189,
-      "word": "暴雪想要中国百万玩家数据",
-      "onboard_time": 1668751709,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 663722,
       "num": 663722,
       "word": "元英的原型是纯元吧",
@@ -1867,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606076,
+      "num": 606076,
+      "word": "小狗夭折狗妈妈死死含住不让埋",
+      "onboard_time": 1668750928,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606057,
       "num": 606057,
       "word": "女大学生干保洁在郑州买下两套房两辆车",
@@ -2032,14 +2040,6 @@
       "word": "医生飞针采血被赞蚊子投胎",
       "onboard_time": 1668389127,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562541,
-      "num": 386680,
-      "word": "小狗夭折狗妈妈死死含住不让埋",
-      "onboard_time": 1668750928,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2427,6 +2427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 513123,
+      "num": 513123,
+      "word": "DK官宣deokdam离队",
+      "onboard_time": 1668753866,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 511027,
       "num": 511027,
       "word": "波兰政府确认爆炸致两人死亡",
@@ -2625,6 +2633,14 @@
       "onboard_time": 1668519392,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490543,
+      "num": 490543,
+      "word": "老公和狗都不能要了",
+      "onboard_time": 1668752067,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 488745,
@@ -3040,6 +3056,14 @@
       "word": "郑大商户帮学生带物品进校被罚",
       "onboard_time": 1668602489,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449421,
+      "num": 449421,
+      "word": "专家称小杨哥质检报告仅能证明样品合格",
+      "onboard_time": 1668752488,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4915,14 +4939,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 287870,
-      "num": 287870,
-      "word": "老公和狗都不能要了",
-      "onboard_time": 1668752067,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 287474,
       "num": 287474,
       "word": "DK官宣Nuguri离队",
@@ -5187,6 +5203,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 272343,
+      "num": 265259,
+      "word": "尹峥指甲劈了",
+      "onboard_time": 1668752728,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271712,
       "num": 271712,
       "word": "女子制生腌蟹3小时后螃蟹越狱乱爬",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1668567629,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268183,
+      "num": 268183,
+      "word": "10岁女孩手绘付款码成功扫出信息",
+      "onboard_time": 1668754107,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267855,
@@ -5459,14 +5491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257165,
-      "num": 230557,
-      "word": "尹峥指甲劈了",
-      "onboard_time": 1668752728,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
@@ -5563,6 +5587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250616,
+      "num": 250616,
+      "word": "女生到底介不介意男友矮",
+      "onboard_time": 1668754645,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250088,
       "num": 225476,
       "word": "如果朱韵没有梦到李峋",
@@ -5593,6 +5625,14 @@
       "onboard_time": 1668610412,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248901,
+      "num": 248901,
+      "word": "消费者质疑淘宝88VIP会员杀熟",
+      "onboard_time": 1668755068,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248540,
@@ -6059,6 +6099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228598,
+      "num": 228598,
+      "word": "金韩彬 Tangerine",
+      "onboard_time": 1668755547,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228467,
       "num": 171971,
       "word": "任贤齐骑行路上偶遇寻子的父亲",
@@ -6345,14 +6393,6 @@
       "onboard_time": 1668441030,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214941,
-      "num": 214941,
-      "word": "专家称小杨哥质检报告仅能证明样品合格",
-      "onboard_time": 1668752488,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214422,
@@ -6859,6 +6899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196600,
+      "num": 196600,
+      "word": "1只黑天鹅混进白天鹅群被孤立",
+      "onboard_time": 1668751348,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196322,
       "num": 183706,
       "word": "张婧仪摇花手",
@@ -6873,6 +6921,14 @@
       "onboard_time": 1668670408,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196035,
+      "num": 196035,
+      "word": "暴雪停服后账号咋办",
+      "onboard_time": 1668754888,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 195994,
@@ -6931,12 +6987,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193853,
+      "num": 193853,
+      "word": "奥尼尔绝杀开拓者",
+      "onboard_time": 1668751589,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193454,
       "num": 144591,
       "word": "五月天美国演唱会致敬科比",
       "onboard_time": 1668617002,
       "rank": 40,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 193277,
+      "num": 193277,
+      "word": "卿卿日常连更三条花絮",
+      "onboard_time": 1668754346,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 193110,
@@ -7267,6 +7339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180285,
+      "num": 180285,
+      "word": "重庆籍歌手舞台大赏",
+      "onboard_time": 1668755246,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179884,
       "num": 179884,
       "word": "性别教育到底有多重要",
@@ -7361,6 +7441,14 @@
       "onboard_time": 1668410729,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174772,
+      "num": 174772,
+      "word": "于文文刘恋赵梦合唱唯一",
+      "onboard_time": 1668754947,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 174696,
@@ -7788,7 +7876,7 @@
     },
     {
       "raw_hot": 160681,
-      "num": 138399,
+      "num": 153691,
       "word": "袁娅维ALin万妮达套娃宣传新歌",
       "onboard_time": 1668753508,
       "rank": 40,
@@ -8147,14 +8235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145914,
-      "num": 145914,
-      "word": "1只黑天鹅混进白天鹅群被孤立",
-      "onboard_time": 1668751348,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145282,
       "num": 145282,
       "word": "点燃我温暖你新剧照",
@@ -8459,14 +8539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139381,
-      "num": 139381,
-      "word": "奥尼尔绝杀开拓者",
-      "onboard_time": 1668751589,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139366,
       "num": 139366,
       "word": "幼童被卡墙缝6岁男孩挺身救援",
@@ -8707,6 +8779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132229,
+      "num": 132229,
+      "word": "六公主视角下的贺峻霖",
+      "onboard_time": 1668753866,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132213,
       "num": 132213,
       "word": "狗狗玩气球把自己玩尴尬了",
@@ -8721,6 +8801,14 @@
       "onboard_time": 1668383004,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132131,
+      "num": 132131,
+      "word": "卿卿日常梗图",
+      "onboard_time": 1668755788,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 131452,
@@ -9371,6 +9459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109764,
+      "num": 109764,
+      "word": "被衣服封印的小猫",
+      "onboard_time": 1668755726,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109649,
       "num": 119303,
       "word": "华夏红是什么红",
@@ -9409,6 +9505,14 @@
       "onboard_time": 1668356307,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108898,
+      "num": 108898,
+      "word": "武汉14岁男孩出门扔垃圾后失踪",
+      "onboard_time": 1668755788,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108791,
