@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668775193287,
+  "endTime": 1668776492238,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -115,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030309,
+      "num": 1030309,
+      "word": "已经不希望老鼠死那么快了",
+      "onboard_time": 1668772464,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1026664,
       "num": 1026664,
       "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
       "onboard_time": 1668762026,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1024316,
+      "num": 1024316,
+      "word": "女生在校遭霸凌致精神失常",
+      "onboard_time": 1668773546,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990581,
@@ -161,14 +177,6 @@
       "onboard_time": 1668739826,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 914528,
-      "num": 914528,
-      "word": "已经不希望老鼠死那么快了",
-      "onboard_time": 1668772464,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 888976,
@@ -305,6 +313,22 @@
       "onboard_time": 1668698611,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608888,
+      "num": 608888,
+      "word": "罗晋新剧老婆被群嘲",
+      "onboard_time": 1668768627,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 608221,
+      "num": 447274,
+      "word": "姜贞羽蚊子包",
+      "onboard_time": 1668773906,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 607764,
@@ -451,20 +475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522561,
+      "num": 285675,
+      "word": "鹿晗今天直播状态",
+      "onboard_time": 1668775524,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 521123,
       "num": 521123,
       "word": "富士康招工预报名已超10万",
       "onboard_time": 1668733112,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519264,
-      "num": 447274,
-      "word": "姜贞羽蚊子包",
-      "onboard_time": 1668773906,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 518458,
@@ -488,6 +512,14 @@
       "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
       "onboard_time": 1668696571,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495503,
+      "num": 495503,
+      "word": "广州防疫人员耐心对话被管控居民",
+      "onboard_time": 1668771507,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468267,
-      "num": 468267,
-      "word": "女生在校遭霸凌致精神失常",
-      "onboard_time": 1668773546,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466164,
       "num": 466164,
       "word": "他被刺多刀仍拼死抵挡歹徒",
@@ -632,22 +656,6 @@
       "word": "易烊千玺个十百千万纪录片",
       "onboard_time": 1668750092,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 453609,
-      "num": 453609,
-      "word": "广州防疫人员耐心对话被管控居民",
-      "onboard_time": 1668771507,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438731,
-      "num": 438731,
-      "word": "罗晋新剧老婆被群嘲",
-      "onboard_time": 1668768627,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -721,6 +729,14 @@
       "onboard_time": 1668701965,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395490,
+      "num": 395490,
+      "word": "乐华娱乐营收增长80%以上来自王一博",
+      "onboard_time": 1668775165,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 393569,
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287004,
+      "num": 287004,
+      "word": "网传我的大叔翻拍阵容是陈建斌沈月",
+      "onboard_time": 1668774564,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286431,
       "num": 286431,
       "word": "赵露思镂空连衣裙生图",
@@ -1115,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239005,
-      "num": 239005,
-      "word": "网传我的大叔翻拍阵容是陈建斌沈月",
-      "onboard_time": 1668774564,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 239157,
+      "num": 108498,
+      "word": "孙怡喂羊驼被吓到模糊",
+      "onboard_time": 1668776427,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236418,
@@ -1539,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171608,
+      "num": 171608,
+      "word": "上大学就一定要谈恋爱吗",
+      "onboard_time": 1668773785,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171302,
       "num": 171302,
       "word": "张婧仪曾可妮片场互动",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1668749670,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166600,
+      "num": 164126,
+      "word": "一年一度喜剧大赛",
+      "onboard_time": 1668775165,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 165212,
@@ -1587,12 +1627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161623,
-      "num": 94353,
-      "word": "乐华娱乐营收增长80%以上来自王一博",
-      "onboard_time": 1668775165,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 161312,
+      "num": 161312,
+      "word": "为什么越来越难喜欢上一个人",
+      "onboard_time": 1668775407,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 160681,
@@ -1667,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151074,
-      "num": 92480,
-      "word": "一年一度喜剧大赛",
-      "onboard_time": 1668775165,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150735,
       "num": 150735,
       "word": "奔跑吧",
       "onboard_time": 1668774266,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "是谁教小朋友这样用脸的",
+      "onboard_time": 1668774024,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 149982,
@@ -1763,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138948,
+      "num": 138948,
+      "word": "一看就是男孩的毛孩子",
+      "onboard_time": 1668775707,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138676,
       "num": 138676,
       "word": "宝可梦朱紫bug有多离谱",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1668774687,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135637,
-      "num": 135637,
-      "word": "是谁教小朋友这样用脸的",
-      "onboard_time": 1668774024,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 135491,
@@ -1931,20 +1971,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124007,
-      "num": 124007,
-      "word": "上大学就一定要谈恋爱吗",
-      "onboard_time": 1668773785,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123449,
       "num": 123449,
       "word": "杨芸晴说冬天不宜谈恋爱",
       "onboard_time": 1668738688,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122965,
+      "num": 122965,
+      "word": "新郎接亲遇22个小孩楼梯口要红包",
+      "onboard_time": 1668776068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "名侦探柯南",
+      "onboard_time": 1668776246,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 121547,
@@ -2131,6 +2179,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 99212,
+      "num": 99212,
+      "word": "2个扩胸动作预防弓肩驼背",
+      "onboard_time": 1668775888,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96541,
       "num": 96541,
       "word": "夏朝或许已有文字出现",
@@ -2180,7 +2236,7 @@
     },
     {
       "raw_hot": 83579,
-      "num": 999259,
+      "num": 1024380,
       "word": "探秘雅万高铁动车组",
       "onboard_time": 1668762807,
       "rank": 2,
@@ -2257,6 +2313,14 @@
       "onboard_time": 1668691646,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 22567,
+      "num": 345923,
+      "word": "大众最后一款燃油车上市",
+      "onboard_time": 1668776427,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19397,

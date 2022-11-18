@@ -1,0 +1,410 @@
+{
+  "runTime": 1668776492238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1184427,
+        "num": 1184427,
+        "word": "无疫情地区原则不限制演唱会人数",
+        "onboard_time": 1668761186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030309,
+        "num": 1030309,
+        "word": "已经不希望老鼠死那么快了",
+        "onboard_time": 1668772464,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 1024380,
+        "word": "探秘雅万高铁动车组",
+        "onboard_time": 1668762807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1024316,
+        "num": 1024316,
+        "word": "女生在校遭霸凌致精神失常",
+        "onboard_time": 1668773546,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608888,
+        "num": 608888,
+        "word": "罗晋新剧老婆被群嘲",
+        "onboard_time": 1668768627,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548480,
+        "num": 548480,
+        "word": "教育局回应网传鹤壁一女生遭霸凌",
+        "onboard_time": 1668766288,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515845,
+        "num": 515845,
+        "word": "FPX 冰岛",
+        "onboard_time": 1668771088,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495503,
+        "num": 495503,
+        "word": "广州防疫人员耐心对话被管控居民",
+        "onboard_time": 1668771507,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468515,
+        "num": 468515,
+        "word": "甘肃县级队足协杯淘汰北京国安",
+        "onboard_time": 1668769048,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422895,
+        "num": 422895,
+        "word": "5秒一个梗",
+        "onboard_time": 1668770308,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608221,
+        "num": 418453,
+        "word": "姜贞羽蚊子包",
+        "onboard_time": 1668773906,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399270,
+        "num": 399270,
+        "word": "32岁女子北漂10年存400万买90平房",
+        "onboard_time": 1668764786,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395490,
+        "num": 395490,
+        "word": "乐华娱乐营收增长80%以上来自王一博",
+        "onboard_time": 1668775165,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375724,
+        "num": 375724,
+        "word": "Doinb",
+        "onboard_time": 1668769289,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22567,
+        "num": 345923,
+        "word": "大众最后一款燃油车上市",
+        "onboard_time": 1668776427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341215,
+        "num": 341215,
+        "word": "法证先锋5尺度有多大",
+        "onboard_time": 1668765325,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306677,
+        "num": 306677,
+        "word": "朝阳区倡导市民非必要不离开朝阳区",
+        "onboard_time": 1668770067,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301124,
+        "num": 301124,
+        "word": "武汉14岁失踪男童父亲发声",
+        "onboard_time": 1668762207,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287881,
+        "num": 287881,
+        "word": "亚洲杯国乒男单无缘四强",
+        "onboard_time": 1668764965,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287004,
+        "num": 287004,
+        "word": "网传我的大叔翻拍阵容是陈建斌沈月",
+        "onboard_time": 1668774564,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522561,
+        "num": 285675,
+        "word": "鹿晗今天直播状态",
+        "onboard_time": 1668775524,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282768,
+        "num": 282768,
+        "word": "苏醒分享快乐再出发第二季vlog",
+        "onboard_time": 1668775046,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277408,
+        "num": 277408,
+        "word": "警方回应鹤壁16岁女生遭霸凌",
+        "onboard_time": 1668770187,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273110,
+        "num": 273110,
+        "word": "田曦薇开吃播",
+        "onboard_time": 1668769948,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247386,
+        "num": 247386,
+        "word": "TES",
+        "onboard_time": 1668772587,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193270,
+        "num": 193270,
+        "word": "杨幂白宇谢谢你医生豆瓣开分6.3分",
+        "onboard_time": 1668773969,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190957,
+        "num": 190957,
+        "word": "北京朝阳新增71例感染者",
+        "onboard_time": 1668767067,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188634,
+        "num": 188634,
+        "word": "原来多大的孩子都得平分",
+        "onboard_time": 1668768868,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171608,
+        "num": 171608,
+        "word": "上大学就一定要谈恋爱吗",
+        "onboard_time": 1668773785,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164681,
+        "num": 164681,
+        "word": "涵艺",
+        "onboard_time": 1668771687,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176054,
+        "num": 164427,
+        "word": "张艺兴旧金山演唱会1120见",
+        "onboard_time": 1668773246,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166600,
+        "num": 164126,
+        "word": "一年一度喜剧大赛",
+        "onboard_time": 1668775165,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161312,
+        "num": 161312,
+        "word": "为什么越来越难喜欢上一个人",
+        "onboard_time": 1668775407,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153412,
+        "num": 153412,
+        "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
+        "onboard_time": 1668762026,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150054,
+        "num": 150054,
+        "word": "是谁教小朋友这样用脸的",
+        "onboard_time": 1668774024,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149440,
+        "num": 149440,
+        "word": "女生到底介不介意男友矮",
+        "onboard_time": 1668754645,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 140691,
+        "word": "女孩街头难过徘徊获赠一束向日葵",
+        "onboard_time": 1668770727,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 138948,
+        "num": 138948,
+        "word": "一看就是男孩的毛孩子",
+        "onboard_time": 1668775707,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135962,
+        "num": 135962,
+        "word": "外交部回应所谓中国威胁论",
+        "onboard_time": 1668767667,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 134123,
+        "num": 134123,
+        "word": "北京疫情防控",
+        "onboard_time": 1668765747,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127151,
+        "num": 127151,
+        "word": "李薇宋舞身高差",
+        "onboard_time": 1668767548,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "白鹿加入奔跑吧大家庭一周年了",
+        "onboard_time": 1668768868,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122965,
+        "num": 122965,
+        "word": "新郎接亲遇22个小孩楼梯口要红包",
+        "onboard_time": 1668776068,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122916,
+        "num": 122916,
+        "word": "名侦探柯南",
+        "onboard_time": 1668776246,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113620,
+        "num": 113620,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109103,
+        "num": 109103,
+        "word": "这就是双开门冰箱吗",
+        "onboard_time": 1668774386,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239157,
+        "num": 108498,
+        "word": "孙怡喂羊驼被吓到模糊",
+        "onboard_time": 1668776427,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107787,
+        "num": 107787,
+        "word": "完美世界回应是否接洽暴雪",
+        "onboard_time": 1668767788,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99212,
+        "num": 99212,
+        "word": "2个扩胸动作预防弓肩驼背",
+        "onboard_time": 1668775888,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022APEC#"
+    }
+  }
+}
