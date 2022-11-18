@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668741520058,
+  "endTime": 1668742083819,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1169178,
+      "num": 1169178,
+      "word": "想见你一响李子维黄雨萱上场",
+      "onboard_time": 1668737787,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1166380,
       "num": 1166380,
       "word": "脱口秀大会5总冠军之战",
@@ -993,14 +1001,6 @@
       "onboard_time": 1668555264,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 881619,
-      "num": 881619,
-      "word": "想见你一响李子维黄雨萱上场",
-      "onboard_time": 1668737787,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 881111,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647025,
+      "num": 647025,
+      "word": "厄风琉斯",
+      "onboard_time": 1668739826,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 644035,
       "num": 644035,
       "word": "95后女孩产后偏瘫竟是烟雾病",
@@ -2004,7 +2012,7 @@
     },
     {
       "raw_hot": 556215,
-      "num": 476023,
+      "num": 531567,
       "word": "朱韵活成了李峋的样子",
       "onboard_time": 1668738624,
       "rank": 10,
@@ -2419,14 +2427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 496983,
-      "num": 475763,
-      "word": "厄风琉斯",
-      "onboard_time": 1668739826,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 496563,
       "num": 466022,
       "word": "四川凉山会理4.3级地震",
@@ -2553,6 +2553,14 @@
       "onboard_time": 1668470063,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482107,
+      "num": 406193,
+      "word": "女子从7楼扔石膏板怼民警被刑拘",
+      "onboard_time": 1668737967,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480621,
@@ -2819,14 +2827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456066,
-      "num": 406193,
-      "word": "女子从7楼扔石膏板怼民警被刑拘",
-      "onboard_time": 1668737967,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454210,
       "num": 454210,
       "word": "马斯克称人口崩溃已是必然",
@@ -2897,6 +2897,14 @@
       "onboard_time": 1668340228,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443302,
+      "num": 181135,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441275,
@@ -4395,6 +4403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 313162,
+      "num": 313162,
+      "word": "饿了么免单",
+      "onboard_time": 1668741206,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312390,
       "num": 312390,
       "word": "许凯虞书欣仙剑六片场拥抱转圈路透",
@@ -4571,6 +4587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297203,
+      "num": 297203,
+      "word": "C罗称赞梅西是伟大的球员",
+      "onboard_time": 1668739289,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297081,
       "num": 297081,
       "word": "背叛的人下地狱",
@@ -4609,6 +4633,14 @@
       "onboard_time": 1668488073,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293910,
+      "num": 293910,
+      "word": "藏族父亲带4岁女儿爬山学本草纲目",
+      "onboard_time": 1668737308,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292983,
@@ -4771,14 +4803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282245,
-      "num": 282245,
-      "word": "藏族父亲带4岁女儿爬山学本草纲目",
-      "onboard_time": 1668737308,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281728,
       "num": 281728,
       "word": "恋与深空",
@@ -4857,14 +4881,6 @@
       "onboard_time": 1668643470,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276018,
-      "num": 276018,
-      "word": "C罗称赞梅西是伟大的球员",
-      "onboard_time": 1668739289,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 275822,
@@ -5859,6 +5875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222782,
+      "num": 222782,
+      "word": "马斯克改口称推特员工可远程办公",
+      "onboard_time": 1668739585,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 222542,
       "num": 222542,
       "word": "萧逸",
@@ -6073,14 +6097,6 @@
       "onboard_time": 1668658291,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212469,
-      "num": 181135,
-      "word": "女子发现老公手机藏初恋女友视频",
-      "onboard_time": 1668740906,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211694,
@@ -6369,14 +6385,6 @@
       "onboard_time": 1668570868,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203373,
-      "num": 203373,
-      "word": "马斯克改口称推特员工可远程办公",
-      "onboard_time": 1668739585,
-      "rank": 25,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 203028,
@@ -7283,6 +7291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 163850,
+      "num": 163850,
+      "word": "河道剑魔来了",
+      "onboard_time": 1668741446,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163353,
       "num": 163353,
       "word": "北京提倡疫情期间减少非必要外出",
@@ -7305,14 +7321,6 @@
       "onboard_time": 1668660630,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163071,
-      "num": 163071,
-      "word": "饿了么免单",
-      "onboard_time": 1668741206,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162839,
@@ -8419,12 +8427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126855,
+      "num": 126855,
+      "word": "陈飞宇李峋的眼神变化",
+      "onboard_time": 1668741567,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126854,
       "num": 126854,
       "word": "办公室里有八百个心眼子",
       "onboard_time": 1668510091,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126458,
+      "num": 126458,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126240,
@@ -9081,14 +9105,6 @@
       "onboard_time": 1668378014,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102265,
-      "num": 102265,
-      "word": "河道剑魔来了",
-      "onboard_time": 1668741446,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 102100,

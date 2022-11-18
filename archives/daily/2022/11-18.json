@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668741520058,
+  "endTime": 1668742083819,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1169178,
+      "num": 1169178,
+      "word": "想见你一响李子维黄雨萱上场",
+      "onboard_time": 1668737787,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 990581,
       "num": 990581,
       "word": "女生发现牛奶反常不料摇晃后变色",
@@ -41,14 +49,6 @@
       "onboard_time": 1668733467,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 881619,
-      "num": 881619,
-      "word": "想见你一响李子维黄雨萱上场",
-      "onboard_time": 1668737787,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 862355,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647025,
+      "num": 647025,
+      "word": "厄风琉斯",
+      "onboard_time": 1668739826,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 620921,
       "num": 620921,
       "word": "林高远",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 556215,
-      "num": 476023,
+      "num": 531567,
       "word": "朱韵活成了李峋的样子",
       "onboard_time": 1668738624,
       "rank": 10,
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496983,
-      "num": 475763,
-      "word": "厄风琉斯",
-      "onboard_time": 1668739826,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 493671,
       "num": 493671,
       "word": "新研究发现地球可自我调节温度",
       "onboard_time": 1668722534,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 482107,
+      "num": 406193,
+      "word": "女子从7楼扔石膏板怼民警被刑拘",
+      "onboard_time": 1668737967,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473990,
@@ -203,11 +211,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456066,
-      "num": 406193,
-      "word": "女子从7楼扔石膏板怼民警被刑拘",
-      "onboard_time": 1668737967,
-      "rank": 39,
+      "raw_hot": 443302,
+      "num": 181135,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313162,
+      "num": 313162,
+      "word": "饿了么免单",
+      "onboard_time": 1668741206,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306843,
       "num": 306843,
       "word": "刘美含说破万了停更了我炸了",
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282245,
-      "num": 282245,
-      "word": "藏族父亲带4岁女儿爬山学本草纲目",
-      "onboard_time": 1668737308,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276018,
-      "num": 276018,
+      "raw_hot": 297203,
+      "num": 297203,
       "word": "C罗称赞梅西是伟大的球员",
       "onboard_time": 1668739289,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293910,
+      "num": 293910,
+      "word": "藏族父亲带4岁女儿爬山学本草纲目",
+      "onboard_time": 1668737308,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267283,
@@ -411,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222782,
+      "num": 222782,
+      "word": "马斯克改口称推特员工可远程办公",
+      "onboard_time": 1668739585,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "英雄联盟",
@@ -424,14 +448,6 @@
       "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
       "onboard_time": 1668693270,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212469,
-      "num": 181135,
-      "word": "女子发现老公手机藏初恋女友视频",
-      "onboard_time": 1668740906,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -449,14 +465,6 @@
       "onboard_time": 1668730169,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203373,
-      "num": 203373,
-      "word": "马斯克改口称推特员工可远程办公",
-      "onboard_time": 1668739585,
-      "rank": 25,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 202393,
@@ -555,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163071,
-      "num": 163071,
-      "word": "饿了么免单",
-      "onboard_time": 1668741206,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 163850,
+      "num": 163850,
+      "word": "河道剑魔来了",
+      "onboard_time": 1668741446,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 162351,
@@ -675,6 +683,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126855,
+      "num": 126855,
+      "word": "陈飞宇李峋的眼神变化",
+      "onboard_time": 1668741567,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126458,
+      "num": 126458,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123449,
       "num": 123449,
       "word": "杨芸晴说冬天不宜谈恋爱",
@@ -745,14 +769,6 @@
       "onboard_time": 1668689845,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102265,
-      "num": 102265,
-      "word": "河道剑魔来了",
-      "onboard_time": 1668741446,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 99860,
