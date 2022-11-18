@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668770251064,
+  "endTime": 1668771231964,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -107,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1079773,
+      "num": 1079773,
+      "word": "教育局回应网传鹤壁一女生遭霸凌",
+      "onboard_time": 1668766288,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026664,
       "num": 1026664,
       "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
@@ -136,14 +144,6 @@
       "word": "消费者质疑淘宝88VIP会员杀熟",
       "onboard_time": 1668755068,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 939570,
-      "num": 939570,
-      "word": "教育局回应网传鹤壁一女生遭霸凌",
-      "onboard_time": 1668766288,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -225,6 +225,14 @@
       "onboard_time": 1668730708,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 828666,
+      "num": 828666,
+      "word": "Doinb",
+      "onboard_time": 1668769289,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 772362,
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 539992,
-      "num": 539992,
-      "word": "Doinb",
-      "onboard_time": 1668769289,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 539648,
       "num": 539648,
       "word": "专家称小杨哥质检报告仅能证明样品合格",
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518458,
+      "num": 518458,
+      "word": "北京朝阳新增71例感染者",
+      "onboard_time": 1668767067,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513123,
       "num": 513123,
       "word": "DK官宣deokdam离队",
@@ -440,14 +448,6 @@
       "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
       "onboard_time": 1668696571,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499937,
-      "num": 499937,
-      "word": "北京朝阳新增71例感染者",
-      "onboard_time": 1668767067,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -465,6 +465,14 @@
       "onboard_time": 1668752067,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 489449,
+      "num": 413472,
+      "word": "田曦薇开吃播",
+      "onboard_time": 1668769948,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 487046,
@@ -576,6 +584,14 @@
       "word": "易烊千玺个十百千万纪录片",
       "onboard_time": 1668750092,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 438731,
+      "num": 438731,
+      "word": "罗晋新剧老婆被群嘲",
+      "onboard_time": 1668768627,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -715,20 +731,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360131,
+      "num": 360131,
+      "word": "白鹿加入奔跑吧大家庭一周年了",
+      "onboard_time": 1668768868,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358744,
       "num": 358744,
       "word": "CPA",
       "onboard_time": 1668748828,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 355840,
-      "num": 355840,
-      "word": "白鹿加入奔跑吧大家庭一周年了",
-      "onboard_time": 1668768868,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 355035,
@@ -769,14 +785,6 @@
       "onboard_time": 1668759927,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332678,
-      "num": 332678,
-      "word": "罗晋新剧老婆被群嘲",
-      "onboard_time": 1668768627,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 327058,
@@ -835,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307429,
-      "num": 307429,
-      "word": "田曦薇开吃播",
-      "onboard_time": 1668769948,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306843,
       "num": 306843,
       "word": "刘美含说破万了停更了我炸了",
@@ -873,6 +873,14 @@
       "onboard_time": 1668696450,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296847,
+      "num": 296847,
+      "word": "外交部回应所谓中国威胁论",
+      "onboard_time": 1668767667,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 293910,
@@ -939,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270511,
-      "num": 270511,
-      "word": "外交部回应所谓中国威胁论",
-      "onboard_time": 1668767667,
-      "rank": 41,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "朱紫",
@@ -987,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255202,
+      "num": 255202,
+      "word": "原来多大的孩子都得平分",
+      "onboard_time": 1668768868,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253890,
       "num": 253890,
       "word": "上海迪士尼辟谣将正式停止运营",
@@ -1016,6 +1024,30 @@
       "word": "上万年轻人变身植系青年",
       "onboard_time": 1668742406,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246574,
+      "num": 246574,
+      "word": "朝阳区倡导市民非必要不离开朝阳区",
+      "onboard_time": 1668770067,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241943,
+      "num": 241943,
+      "word": "5秒一个梗",
+      "onboard_time": 1668770308,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241392,
+      "num": 241392,
+      "word": "警方回应鹤壁16岁女生遭霸凌",
+      "onboard_time": 1668770187,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1065,6 +1097,14 @@
       "onboard_time": 1668743969,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224392,
+      "num": 224392,
+      "word": "甘肃县级队足协杯淘汰北京国安",
+      "onboard_time": 1668769048,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 223456,
@@ -1211,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196756,
-      "num": 196756,
-      "word": "原来多大的孩子都得平分",
-      "onboard_time": 1668768868,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196600,
       "num": 196600,
       "word": "1只黑天鹅混进白天鹅群被孤立",
@@ -1355,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177915,
+      "num": 177915,
+      "word": "完美世界回应是否接洽暴雪",
+      "onboard_time": 1668767788,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175076,
       "num": 173704,
       "word": "杨紫胡同自行车随拍",
@@ -1451,20 +1491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161086,
-      "num": 161086,
-      "word": "完美世界回应是否接洽暴雪",
-      "onboard_time": 1668767788,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160681,
       "num": 153691,
       "word": "袁娅维ALin万妮达套娃宣传新歌",
       "onboard_time": 1668753508,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160630,
+      "num": 160630,
+      "word": "万水朝东",
+      "onboard_time": 1668770369,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159854,
+      "num": 159854,
+      "word": "等待11年西安网红楼盘交房",
+      "onboard_time": 1668768148,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159615,
@@ -1507,20 +1555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151183,
-      "num": 151183,
-      "word": "等待11年西安网红楼盘交房",
-      "onboard_time": 1668768148,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151146,
       "num": 151146,
       "word": "8旬退休教师辅导孙子气到敲桌",
       "onboard_time": 1668761248,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149982,
+      "num": 149982,
+      "word": "又被再就业男团的兄弟情暖到",
+      "onboard_time": 1668768506,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 147503,
@@ -1667,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134345,
-      "num": 134345,
-      "word": "朝阳区倡导市民非必要不离开朝阳区",
-      "onboard_time": 1668770067,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132229,
       "num": 132229,
       "word": "六公主视角下的贺峻霖",
@@ -1744,6 +1784,14 @@
       "word": "不组团前往高风险区旅游",
       "onboard_time": 1668767366,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128576,
+      "num": 128576,
+      "word": "故宫银杏雨",
+      "onboard_time": 1668771026,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1819,12 +1867,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115955,
+      "num": 115955,
+      "word": "FPX 冰岛",
+      "onboard_time": 1668771088,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115552,
       "num": 115552,
       "word": "刘氏兄弟将自行承担赔偿费用",
       "onboard_time": 1668750028,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115424,
+      "num": 115424,
+      "word": "女孩街头难过徘徊获赠一束向日葵",
+      "onboard_time": 1668770727,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115240,
@@ -1883,28 +1947,12 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 107181,
-      "num": 107181,
-      "word": "警方回应鹤壁16岁女生遭霸凌",
-      "onboard_time": 1668770187,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105516,
       "num": 105516,
       "word": "冬天喝茶的正确打开方式",
       "onboard_time": 1668753747,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 104984,
-      "num": 104984,
-      "word": "甘肃县级队足协杯淘汰北京国安",
-      "onboard_time": 1668769048,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 104264,
@@ -2035,20 +2083,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 66059,
+      "num": 150380,
+      "word": "小米回应小米13取消系谣言",
+      "onboard_time": 1668769228,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 51147,
       "num": 51147,
       "word": "秋冬慵懒高级感大衣",
       "onboard_time": 1668703820,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 41630,
-      "num": 135594,
-      "word": "小米回应小米13取消系谣言",
-      "onboard_time": 1668769228,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 34499,
