@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668792029250,
+  "endTime": 1668793058998,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -7587,6 +7587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199917,
+      "num": 199917,
+      "word": "女子称扫地机器人把狗屎抹满屋",
+      "onboard_time": 1668788664,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199641,
       "num": 199641,
       "word": "山东大姨种出半人高白菜",
@@ -7841,14 +7849,6 @@
       "onboard_time": 1668669029,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190929,
-      "num": 190929,
-      "word": "女子称扫地机器人把狗屎抹满屋",
-      "onboard_time": 1668788664,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190895,
@@ -11611,6 +11611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49200,
+      "num": 53137,
+      "word": "在家办公的尴尬瞬间",
+      "onboard_time": 1668791899,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48443,
       "num": 48443,
       "word": "体育老师课上帮解物理题",
@@ -11625,14 +11633,6 @@
       "onboard_time": 1668662190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44494,
-      "num": 53137,
-      "word": "在家办公的尴尬瞬间",
-      "onboard_time": 1668791899,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 44341,
