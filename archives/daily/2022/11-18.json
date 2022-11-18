@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668738535964,
+  "endTime": 1668741520058,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881619,
+      "num": 881619,
+      "word": "想见你一响李子维黄雨萱上场",
+      "onboard_time": 1668737787,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 862355,
       "num": 862355,
       "word": "王冰冰要回来了",
@@ -83,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 652558,
+      "num": 652558,
+      "word": "重庆新增本土感染者4666例",
+      "onboard_time": 1668735986,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620921,
       "num": 620921,
       "word": "林高远",
@@ -91,20 +107,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 587834,
-      "num": 587834,
-      "word": "想见你一响李子维黄雨萱上场",
-      "onboard_time": 1668737787,
+      "raw_hot": 573659,
+      "num": 573659,
+      "word": "白敬亭田曦薇新剧9次抱9种甜",
+      "onboard_time": 1668738624,
       "rank": 6,
       "category": "影视"
     },
     {
-      "raw_hot": 552401,
-      "num": 552401,
-      "word": "重庆新增本土感染者4666例",
-      "onboard_time": 1668735986,
-      "rank": 30,
+      "raw_hot": 559602,
+      "num": 559602,
+      "word": "顾客吐槽烤全羊烤糊遭索赔2万",
+      "onboard_time": 1668736826,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556215,
+      "num": 476023,
+      "word": "朱韵活成了李峋的样子",
+      "onboard_time": 1668738624,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 550777,
@@ -139,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496983,
+      "num": 475763,
+      "word": "厄风琉斯",
+      "onboard_time": 1668739826,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 493671,
       "num": 493671,
       "word": "新研究发现地球可自我调节温度",
       "onboard_time": 1668722534,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 473990,
+      "num": 473990,
+      "word": "想见你",
+      "onboard_time": 1668737426,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 472810,
@@ -163,12 +203,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456066,
+      "num": 406193,
+      "word": "女子从7楼扔石膏板怼民警被刑拘",
+      "onboard_time": 1668737967,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437038,
+      "num": 437038,
+      "word": "退钱哥卡塔尔街头大秀球技",
+      "onboard_time": 1668736165,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420274,
       "num": 420274,
       "word": "电影想见你首支预告",
       "onboard_time": 1668735567,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417790,
+      "num": 417790,
+      "word": "推特公司员工大规模辞职",
+      "onboard_time": 1668737187,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 406915,
@@ -219,14 +283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 375206,
-      "num": 375206,
-      "word": "想见你",
-      "onboard_time": 1668737426,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 365861,
       "num": 365861,
       "word": "北京昨增本土确诊100例",
@@ -243,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340471,
-      "num": 340471,
-      "word": "退钱哥卡塔尔街头大秀球技",
-      "onboard_time": 1668736165,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 340761,
+      "num": 340761,
+      "word": "黑洞king",
+      "onboard_time": 1668739167,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 306843,
@@ -275,12 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281253,
-      "num": 281253,
-      "word": "顾客吐槽烤全羊烤糊遭索赔2万",
-      "onboard_time": 1668736826,
-      "rank": 19,
+      "raw_hot": 282245,
+      "num": 282245,
+      "word": "藏族父亲带4岁女儿爬山学本草纲目",
+      "onboard_time": 1668737308,
+      "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276018,
+      "num": 276018,
+      "word": "C罗称赞梅西是伟大的球员",
+      "onboard_time": 1668739289,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 267283,
@@ -315,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251597,
-      "num": 251597,
-      "word": "推特公司员工大规模辞职",
-      "onboard_time": 1668737187,
-      "rank": 23,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 248577,
       "num": 248577,
       "word": "韩国今天高考数学第一道题",
@@ -347,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234226,
+      "num": 234226,
+      "word": "方文山说青花瓷写完一字未改",
+      "onboard_time": 1668737845,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "英雄联盟",
@@ -363,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208743,
-      "num": 208743,
-      "word": "藏族父亲带4岁女儿爬山学本草纲目",
-      "onboard_time": 1668737308,
-      "rank": 26,
+      "raw_hot": 212469,
+      "num": 181135,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208529,
-      "num": 208529,
-      "word": "方文山说青花瓷写完一字未改",
-      "onboard_time": 1668737845,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205964,
@@ -393,6 +449,14 @@
       "onboard_time": 1668730169,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203373,
+      "num": 203373,
+      "word": "马斯克改口称推特员工可远程办公",
+      "onboard_time": 1668739585,
+      "rank": 25,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 202393,
@@ -433,6 +497,14 @@
       "onboard_time": 1668698432,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179953,
+      "num": 179953,
+      "word": "世界杯",
+      "onboard_time": 1668739526,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 174911,
@@ -483,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163071,
+      "num": 163071,
+      "word": "饿了么免单",
+      "onboard_time": 1668741206,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162351,
+      "num": 162351,
+      "word": "11月17日新增本土无症状22853例",
+      "onboard_time": 1668738148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
@@ -529,22 +617,6 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 139738,
-      "num": 139738,
-      "word": "11月17日新增本土无症状22853例",
-      "onboard_time": 1668738148,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137552,
-      "num": 137552,
-      "word": "女子从7楼扔石膏板怼民警被刑拘",
-      "onboard_time": 1668737967,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137414,
@@ -601,6 +673,14 @@
       "onboard_time": 1668721932,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123449,
+      "num": 123449,
+      "word": "杨芸晴说冬天不宜谈恋爱",
+      "onboard_time": 1668738688,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 119170,
@@ -665,6 +745,14 @@
       "onboard_time": 1668689845,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102265,
+      "num": 102265,
+      "word": "河道剑魔来了",
+      "onboard_time": 1668741446,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99860,
