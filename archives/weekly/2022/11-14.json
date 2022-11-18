@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668779322848,
+  "endTime": 1668781259975,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -441,6 +441,14 @@
       "onboard_time": 1668520231,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1504108,
+      "num": 1504108,
+      "word": "考研成功率低于本科录取率",
+      "onboard_time": 1668778109,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1486134,
@@ -923,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 996596,
+      "num": 908398,
+      "word": "罗晋新剧老婆被群嘲",
+      "onboard_time": 1668768627,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 993081,
       "num": 993081,
       "word": "石家庄新增本土感染544例",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1668562469,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 908398,
-      "num": 908398,
-      "word": "罗晋新剧老婆被群嘲",
-      "onboard_time": 1668768627,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 901857,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1668694110,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827212,
+      "num": 827212,
+      "word": "陈飞宇为角色找哥哥借编程书",
+      "onboard_time": 1668778350,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 827168,
@@ -1627,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706583,
+      "num": 631074,
+      "word": "广州警方通报女子反绑跪地事件",
+      "onboard_time": 1668778589,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701024,
       "num": 701024,
       "word": "女子拒签快递被快递员私自代签",
@@ -1843,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651639,
+      "num": 651639,
+      "word": "新郎接亲遇22个小孩楼梯口要红包",
+      "onboard_time": 1668776068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650478,
       "num": 650478,
       "word": "方志靖把李峋姐姐害死",
@@ -2019,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606452,
-      "num": 606452,
-      "word": "新郎接亲遇22个小孩楼梯口要红包",
-      "onboard_time": 1668776068,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 606076,
       "num": 606076,
       "word": "小狗夭折狗妈妈死死含住不让埋",
@@ -2131,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586804,
+      "num": 586804,
+      "word": "名侦探柯南",
+      "onboard_time": 1668776246,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 583589,
       "num": 477484,
       "word": "陈飞宇拍完吻戏摸张婧仪的头",
@@ -2179,14 +2211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573984,
-      "num": 437146,
-      "word": "陈飞宇为角色找哥哥借编程书",
-      "onboard_time": 1668778350,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 573659,
       "num": 573659,
       "word": "白敬亭田曦薇新剧9次抱9种甜",
@@ -2217,22 +2241,6 @@
       "onboard_time": 1668575728,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566628,
-      "num": 566628,
-      "word": "考研成功率低于本科录取率",
-      "onboard_time": 1668778109,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 566254,
-      "num": 566254,
-      "word": "名侦探柯南",
-      "onboard_time": 1668776246,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 564071,
@@ -2473,6 +2481,14 @@
       "onboard_time": 1668658591,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 533605,
+      "num": 533605,
+      "word": "这订婚宴的菜也太硬了",
+      "onboard_time": 1668776907,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 532854,
@@ -3915,6 +3931,22 @@
       "category": "体育,旅游"
     },
     {
+      "raw_hot": 393421,
+      "num": 393421,
+      "word": "警方回应鹤壁16岁女生遭霸凌",
+      "onboard_time": 1668770187,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393288,
+      "num": 393288,
+      "word": "曼联告知C罗不要归队",
+      "onboard_time": 1668777927,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392338,
       "num": 392338,
       "word": "柬埔寨首相新冠检测呈阳性",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1668665785,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 391145,
-      "num": 391145,
-      "word": "这订婚宴的菜也太硬了",
-      "onboard_time": 1668776907,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 390874,
@@ -4537,6 +4561,14 @@
       "onboard_time": 1668674609,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344863,
+      "num": 344863,
+      "word": "邢菲活动好甜",
+      "onboard_time": 1668780688,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 344271,
@@ -5195,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301932,
+      "num": 301932,
+      "word": "为什么越来越难喜欢上一个人",
+      "onboard_time": 1668775407,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301457,
       "num": 243043,
       "word": "教授储殷发文硬刚董宇辉粉丝",
@@ -5347,28 +5387,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 287828,
-      "num": 287828,
-      "word": "警方回应鹤壁16岁女生遭霸凌",
-      "onboard_time": 1668770187,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287474,
       "num": 287474,
       "word": "DK官宣Nuguri离队",
       "onboard_time": 1668579388,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287410,
-      "num": 287410,
-      "word": "为什么越来越难喜欢上一个人",
-      "onboard_time": 1668775407,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 287004,
@@ -5963,6 +5987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256965,
+      "num": 256965,
+      "word": "微信支持自定义表情包",
+      "onboard_time": 1668777685,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
@@ -6131,12 +6163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246635,
-      "num": 246635,
-      "word": "曼联告知C罗不要归队",
-      "onboard_time": 1668777927,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 246393,
+      "num": 246393,
+      "word": "田曦薇说拍卿卿日常很开心",
+      "onboard_time": 1668778828,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 246020,
@@ -6851,6 +6883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217698,
+      "num": 217698,
+      "word": "林加德谈到C罗梅西时被吓坏",
+      "onboard_time": 1668779668,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "宁艺卓练习室舞蹈视频",
@@ -7073,14 +7113,6 @@
       "onboard_time": 1668352649,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208091,
-      "num": 208091,
-      "word": "田曦薇说拍卿卿日常很开心",
-      "onboard_time": 1668778828,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 207716,
@@ -7403,6 +7435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198311,
+      "num": 198311,
+      "word": "杨颖喊白鹿应援口号",
+      "onboard_time": 1668780751,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197788,
       "num": 197788,
       "word": "点燃我温暖你断更的日子",
@@ -7433,14 +7473,6 @@
       "onboard_time": 1668744691,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197293,
-      "num": 197293,
-      "word": "广州警方通报女子反绑跪地事件",
-      "onboard_time": 1668778589,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196989,
@@ -7521,6 +7553,14 @@
       "onboard_time": 1668417808,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194033,
+      "num": 194033,
+      "word": "男子嫌网购假币难用自学PS造假币",
+      "onboard_time": 1668778289,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193899,
@@ -7771,6 +7811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187252,
+      "num": 187252,
+      "word": "年轻人是懂看斗罗大陆的",
+      "onboard_time": 1668780391,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187043,
       "num": 187043,
       "word": "老人救患病孙女拉货自扇耳光提神",
@@ -7793,14 +7841,6 @@
       "onboard_time": 1668692310,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185149,
-      "num": 185149,
-      "word": "微信支持自定义表情包",
-      "onboard_time": 1668777685,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 184925,
@@ -8363,6 +8403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165956,
+      "num": 165956,
+      "word": "玫珂菲赠品刷子被投诉掉毛褪色",
+      "onboard_time": 1668779789,
+      "rank": 34,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 165860,
       "num": 165860,
       "word": "一次收到6.7吨快递是什么感受",
@@ -8385,6 +8433,14 @@
       "onboard_time": 1668590969,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164953,
+      "num": 164953,
+      "word": "涵艺爆料冰岛事件",
+      "onboard_time": 1668780449,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 164922,
@@ -8651,6 +8707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157001,
+      "num": 157001,
+      "word": "小学的语文我能不懂吗",
+      "onboard_time": 1668779188,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156532,
       "num": 156532,
       "word": "如何进入一段健康的恋爱",
@@ -8665,6 +8729,14 @@
       "onboard_time": 1668648746,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156169,
+      "num": 156169,
+      "word": "GMA",
+      "onboard_time": 1668777567,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 155999,
@@ -8745,6 +8817,14 @@
       "onboard_time": 1668698252,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153334,
+      "num": 153334,
+      "word": "男孩文具店换现金被老板婉拒",
+      "onboard_time": 1668779668,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153201,
@@ -9547,6 +9627,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 133252,
+      "num": 133252,
+      "word": "首届湖南旅游发展大会",
+      "onboard_time": 1668780809,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132809,
       "num": 132809,
       "word": "原来秋冬围巾可以这么系",
@@ -9617,6 +9705,14 @@
       "onboard_time": 1668755788,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132125,
+      "num": 132125,
+      "word": "近8成校园霸凌不为人知",
+      "onboard_time": 1668779970,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131452,
@@ -9817,14 +9913,6 @@
       "onboard_time": 1668617361,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126909,
-      "num": 126909,
-      "word": "男子嫌网购假币难用自学PS造假币",
-      "onboard_time": 1668778289,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126854,
@@ -10427,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108018,
+      "num": 108018,
+      "word": "被周深尴尬的样子笑死",
+      "onboard_time": 1668780869,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107955,
       "num": 107955,
       "word": "怎么上课还有举手侠",
@@ -10577,14 +10673,6 @@
       "onboard_time": 1668335790,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103821,
-      "num": 103821,
-      "word": "小学的语文我能不懂吗",
-      "onboard_time": 1668779188,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 103545,
@@ -10971,6 +11059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86032,
+      "num": 674891,
+      "word": "那些被平凡暖意感动的瞬间",
+      "onboard_time": 1668777988,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 85107,
       "num": 85107,
       "word": "北京糖油饼做法",
@@ -11161,14 +11257,6 @@
       "onboard_time": 1668702743,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 66783,
-      "num": 651215,
-      "word": "那些被平凡暖意感动的瞬间",
-      "onboard_time": 1668777988,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 66059,
