@@ -1,0 +1,410 @@
+{
+  "runTime": 1668738535964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146182,
+        "num": 1146182,
+        "word": "伊藤美诚11比0",
+        "onboard_time": 1668729084,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901711,
+        "num": 901711,
+        "word": "女生发现牛奶反常不料摇晃后变色",
+        "onboard_time": 1668729626,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27156,
+        "num": 869425,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 840647,
+        "num": 840647,
+        "word": "广州新增无症状感染者8989例",
+        "onboard_time": 1668733467,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759941,
+        "num": 759941,
+        "word": "马航MH17坠机案宣判",
+        "onboard_time": 1668697590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689796,
+        "num": 689796,
+        "word": "网传难哄主演张凌赫王楚然",
+        "onboard_time": 1668730708,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587834,
+        "num": 587834,
+        "word": "想见你一响李子维黄雨萱上场",
+        "onboard_time": 1668737787,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552401,
+        "num": 552401,
+        "word": "重庆新增本土感染者4666例",
+        "onboard_time": 1668735986,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493656,
+        "num": 493656,
+        "word": "富士康招工预报名已超10万",
+        "onboard_time": 1668733112,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400203,
+        "num": 400203,
+        "word": "卡塔尔世界杯最贵10支球队",
+        "onboard_time": 1668731910,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636705,
+        "num": 399368,
+        "word": "赵露思书模时期封面图",
+        "onboard_time": 1668733529,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397612,
+        "num": 397612,
+        "word": "电影想见你首支预告",
+        "onboard_time": 1668735567,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393569,
+        "num": 393569,
+        "word": "原来真有人给地球装了空调",
+        "onboard_time": 1668734128,
+        "rank": 12,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 375206,
+        "num": 375206,
+        "word": "想见你",
+        "onboard_time": 1668737426,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355035,
+        "num": 355035,
+        "word": "马嘉祺宋亚轩谈首登话剧舞台感受",
+        "onboard_time": 1668738030,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347780,
+        "num": 347780,
+        "word": "90后小伙辞职花光积蓄去看世界杯",
+        "onboard_time": 1668730049,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 340471,
+        "num": 340471,
+        "word": "退钱哥卡塔尔街头大秀球技",
+        "onboard_time": 1668736165,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304858,
+        "num": 304858,
+        "word": "返聘教师多次在教室猥亵女童",
+        "onboard_time": 1668696450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297946,
+        "num": 297946,
+        "word": "暴雪游戏主播集体发声",
+        "onboard_time": 1668705857,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281253,
+        "num": 281253,
+        "word": "顾客吐槽烤全羊烤糊遭索赔2万",
+        "onboard_time": 1668736826,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258443,
+        "num": 258443,
+        "word": "妈妈网购一支6色口红送女儿",
+        "onboard_time": 1668694110,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257546,
+        "num": 257546,
+        "word": "北京昨增本土确诊100例",
+        "onboard_time": 1668730647,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253297,
+        "num": 253297,
+        "word": "许凯在仙剑六剧组追新剧",
+        "onboard_time": 1668736887,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251597,
+        "num": 251597,
+        "word": "推特公司员工大规模辞职",
+        "onboard_time": 1668737187,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 244319,
+        "num": 244319,
+        "word": "广东新增无症状感染者9110例",
+        "onboard_time": 1668733650,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223545,
+        "num": 223545,
+        "word": "国家邮政局公布快递满意度排名",
+        "onboard_time": 1668700410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208743,
+        "num": 208743,
+        "word": "藏族父亲带4岁女儿爬山学本草纲目",
+        "onboard_time": 1668737308,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208529,
+        "num": 208529,
+        "word": "方文山说青花瓷写完一字未改",
+        "onboard_time": 1668737845,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201668,
+        "num": 201668,
+        "word": "秦施阳华未婚已爱",
+        "onboard_time": 1668733228,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193347,
+        "num": 193347,
+        "word": "警惕电竞酒店成变相网吧",
+        "onboard_time": 1668713713,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183012,
+        "num": 183012,
+        "word": "小伙肚子一堆脂肪体重却暴跌至48公斤",
+        "onboard_time": 1668696571,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178163,
+        "num": 178163,
+        "word": "张伯礼称奥密克戎难以彻底消灭",
+        "onboard_time": 1668699093,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172761,
+        "num": 172761,
+        "word": "非法捕捞长江鲟嫌疑人供述吃了几条",
+        "onboard_time": 1668730169,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164750,
+        "num": 164750,
+        "word": "6岁男孩从墙缝里救出2岁男孩",
+        "onboard_time": 1668732391,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 156736,
+        "num": 156736,
+        "word": "刘美含说破万了停更了我炸了",
+        "onboard_time": 1668692247,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151633,
+        "num": 151633,
+        "word": "一辈子只做了2件事的院士",
+        "onboard_time": 1668731970,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148989,
+        "num": 148989,
+        "word": "司机路边开车门撞死外卖员被公诉",
+        "onboard_time": 1668701965,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144100,
+        "num": 144100,
+        "word": "网易失去暴雪会损失多少",
+        "onboard_time": 1668697350,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139738,
+        "num": 139738,
+        "word": "11月17日新增本土无症状22853例",
+        "onboard_time": 1668738148,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137552,
+        "num": 137552,
+        "word": "女子从7楼扔石膏板怼民警被刑拘",
+        "onboard_time": 1668737967,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137414,
+        "num": 137414,
+        "word": "11月17日新增本土确诊2276例",
+        "onboard_time": 1668738148,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 136138,
+        "word": "疯狂小杨哥遭打假两地市监部门已介入",
+        "onboard_time": 1668683609,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 125411,
+        "num": 125411,
+        "word": "小学生送警察2束花获赠50束向日葵",
+        "onboard_time": 1668734729,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119573,
+        "num": 119573,
+        "word": "广州天河堂食",
+        "onboard_time": 1668696450,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117400,
+        "num": 117400,
+        "word": "关于我和鬼变成家人的那件事首映",
+        "onboard_time": 1668729868,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114270,
+        "num": 114270,
+        "word": "佛祖看了都得愣一下",
+        "onboard_time": 1668701364,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113813,
+        "num": 113813,
+        "word": "韩素希说最爱艺人是BLACKPINK",
+        "onboard_time": 1668700292,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109095,
+        "num": 109095,
+        "word": "王冰冰要回来了",
+        "onboard_time": 1668680188,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103533,
+        "num": 103533,
+        "word": "新研究发现地球可自我调节温度",
+        "onboard_time": 1668722534,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94458,
+        "num": 94458,
+        "word": "陈飞宇说以后会拍音乐短片",
+        "onboard_time": 1668699811,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问泰国#"
+    }
+  }
+}
