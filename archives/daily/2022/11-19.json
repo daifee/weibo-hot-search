@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668813694111,
+  "endTime": 1668814612988,
   "band_list": [
     {
       "raw_hot": 1494722,
@@ -19,6 +19,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 719822,
+      "num": 719822,
+      "word": "睡觉时猛抖一下究竟是什么原因",
+      "onboard_time": 1668806472,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622098,
       "num": 622098,
       "word": "名侦探柯南",
@@ -33,14 +41,6 @@
       "onboard_time": 1668787468,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586326,
-      "num": 586326,
-      "word": "睡觉时猛抖一下究竟是什么原因",
-      "onboard_time": 1668806472,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 578495,
@@ -91,11 +91,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344542,
+      "num": 344542,
+      "word": "22点前入睡有助于长个儿",
+      "onboard_time": 1668812658,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331353,
       "num": 331353,
       "word": "广州警方通报女子反绑跪地事件",
       "onboard_time": 1668778589,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "女子称扫地机器人把狗屎抹满屋",
+      "onboard_time": 1668788664,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -115,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274767,
+      "num": 175537,
+      "word": "部分电竞酒店存在未成年男女混住情况",
+      "onboard_time": 1668803231,
+      "rank": 38,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 266252,
       "num": 266252,
       "word": "男子投喂鳄鱼即兴唱歌引发踩踏",
       "onboard_time": 1668784537,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260678,
-      "num": 131346,
-      "word": "部分电竞酒店存在未成年男女混住情况",
-      "onboard_time": 1668803231,
-      "rank": 38,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 258135,
@@ -155,11 +171,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 229055,
-      "num": 229055,
-      "word": "女子称扫地机器人把狗屎抹满屋",
-      "onboard_time": 1668788664,
-      "rank": 49,
+      "raw_hot": 231728,
+      "num": 231728,
+      "word": "新郎接亲遇22个小孩楼梯口要红包",
+      "onboard_time": 1668776068,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -195,12 +211,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198293,
-      "num": 198293,
-      "word": "新郎接亲遇22个小孩楼梯口要红包",
-      "onboard_time": 1668776068,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 184162,
+      "num": 184162,
+      "word": "梅西刚下飞机就被围了",
+      "onboard_time": 1668795135,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 182962,
@@ -299,12 +315,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 131455,
-      "num": 131455,
-      "word": "梅西刚下飞机就被围了",
-      "onboard_time": 1668795135,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 131382,
+      "num": 131382,
+      "word": "12岁男孩不慎被弓箭射中鼻梁",
+      "onboard_time": 1668799393,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126169,
@@ -321,14 +337,6 @@
       "onboard_time": 1668780449,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119058,
-      "num": 119058,
-      "word": "22点前入睡有助于长个儿",
-      "onboard_time": 1668812658,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115342,
@@ -379,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100323,
+      "num": 100323,
+      "word": "原神",
+      "onboard_time": 1668813679,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100225,
+      "num": 73613,
+      "word": "烂尾8年交房业主被通知交续建费",
+      "onboard_time": 1668814160,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98131,
       "num": 98131,
       "word": "亚洲杯国乒男单无缘四强",
@@ -393,14 +417,6 @@
       "onboard_time": 1668773906,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97621,
-      "num": 97621,
-      "word": "12岁男孩不慎被弓箭射中鼻梁",
-      "onboard_time": 1668799393,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93710,
@@ -475,12 +491,20 @@
       "category": "自然"
     },
     {
-      "raw_hot": 62804,
-      "num": 38583,
-      "word": "原神",
-      "onboard_time": 1668813679,
+      "raw_hot": 60487,
+      "num": 60487,
+      "word": "限高杆被货车撞飞击中过路老人",
+      "onboard_time": 1668805091,
       "rank": 47,
-      "category": "游戏"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60077,
+      "num": 60077,
+      "word": "赵丽颖林更新与凤行雨中撑伞路透",
+      "onboard_time": 1668810854,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 59373,
@@ -499,14 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55927,
-      "num": 55927,
-      "word": "限高杆被货车撞飞击中过路老人",
-      "onboard_time": 1668805091,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49200,
       "num": 53137,
       "word": "在家办公的尴尬瞬间",
@@ -515,20 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45993,
-      "num": 45993,
+      "raw_hot": 47962,
+      "num": 47962,
       "word": "云南红河5.0级地震",
       "onboard_time": 1668798255,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38099,
-      "num": 38099,
-      "word": "赵丽颖林更新与凤行雨中撑伞路透",
-      "onboard_time": 1668810854,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 13032,
