@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668781259975,
+  "endTime": 1668782240101,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -59,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1654907,
+      "num": 1654907,
+      "word": "考研成功率低于本科录取率",
+      "onboard_time": 1668778109,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1586771,
       "num": 1586771,
       "word": "女子戴隐形10年角膜长满新生血管",
       "onboard_time": 1668745531,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1504108,
-      "num": 1504108,
-      "word": "考研成功率低于本科录取率",
-      "onboard_time": 1668778109,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1461613,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 792165,
+      "num": 657452,
+      "word": "广州警方通报女子反绑跪地事件",
+      "onboard_time": 1668778589,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772362,
       "num": 547507,
       "word": "返聘教师多次在教室猥亵女童",
@@ -299,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 706583,
-      "num": 631074,
-      "word": "广州警方通报女子反绑跪地事件",
-      "onboard_time": 1668778589,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 696918,
       "num": 399368,
       "word": "赵露思书模时期封面图",
       "onboard_time": 1668733529,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 673576,
+      "num": 673576,
+      "word": "名侦探柯南",
+      "onboard_time": 1668776246,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 654071,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600713,
+      "num": 600713,
+      "word": "这订婚宴的菜也太硬了",
+      "onboard_time": 1668776907,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 599843,
       "num": 599843,
       "word": "张碧晨爱的二八定律主题曲MV",
@@ -409,14 +425,6 @@
       "onboard_time": 1668775165,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586804,
-      "num": 586804,
-      "word": "名侦探柯南",
-      "onboard_time": 1668776246,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 578318,
@@ -513,14 +521,6 @@
       "onboard_time": 1668741206,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533605,
-      "num": 533605,
-      "word": "这订婚宴的菜也太硬了",
-      "onboard_time": 1668776907,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 532854,
@@ -755,6 +755,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 416203,
+      "num": 416203,
+      "word": "曼联告知C罗不要归队",
+      "onboard_time": 1668777927,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 412976,
+      "num": 412976,
+      "word": "警方回应鹤壁16岁女生遭霸凌",
+      "onboard_time": 1668770187,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407922,
       "num": 407922,
       "word": "朝阳区倡导市民非必要不离开朝阳区",
@@ -801,22 +817,6 @@
       "onboard_time": 1668734128,
       "rank": 17,
       "category": "体育,旅游"
-    },
-    {
-      "raw_hot": 393421,
-      "num": 393421,
-      "word": "警方回应鹤壁16岁女生遭霸凌",
-      "onboard_time": 1668770187,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393288,
-      "num": 393288,
-      "word": "曼联告知C罗不要归队",
-      "onboard_time": 1668777927,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 387007,
@@ -1003,12 +1003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313344,
+      "num": 313344,
+      "word": "为什么越来越难喜欢上一个人",
+      "onboard_time": 1668775407,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312671,
       "num": 312671,
       "word": "泸定地震免费送7000碗面拉面哥去世",
       "onboard_time": 1668750748,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309621,
+      "num": 309621,
+      "word": "杨颖喊白鹿应援口号",
+      "onboard_time": 1668780751,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 306843,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1668733650,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301932,
-      "num": 301932,
-      "word": "为什么越来越难喜欢上一个人",
-      "onboard_time": 1668775407,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 300166,
@@ -1115,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277072,
+      "num": 277072,
+      "word": "微信支持自定义表情包",
+      "onboard_time": 1668777685,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 275951,
       "num": 275951,
       "word": "马斯克改口称推特员工可远程办公",
@@ -1171,20 +1187,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259748,
+      "num": 259748,
+      "word": "涵艺爆料冰岛事件",
+      "onboard_time": 1668780449,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258713,
       "num": 258713,
       "word": "原来多大的孩子都得平分",
       "onboard_time": 1668768868,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256965,
-      "num": 256965,
-      "word": "微信支持自定义表情包",
-      "onboard_time": 1668777685,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 256848,
@@ -1363,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212695,
+      "num": 212695,
+      "word": "李峋的走马灯画面",
+      "onboard_time": 1668781891,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212652,
       "num": 212652,
       "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1668683609,
       "rank": 14,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 205831,
+      "num": 205831,
+      "word": "男子嫌网购假币难用自学PS造假币",
+      "onboard_time": 1668778289,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203891,
@@ -1451,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198311,
-      "num": 198311,
-      "word": "杨颖喊白鹿应援口号",
-      "onboard_time": 1668780751,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197469,
       "num": 197469,
       "word": "南来北往",
@@ -1507,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194033,
-      "num": 194033,
-      "word": "男子嫌网购假币难用自学PS造假币",
-      "onboard_time": 1668778289,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193853,
       "num": 193853,
       "word": "奥尼尔绝杀开拓者",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1668766885,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188752,
+      "num": 188752,
+      "word": "男孩文具店换现金被老板婉拒",
+      "onboard_time": 1668779668,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187751,
@@ -1627,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179052,
+      "num": 179052,
+      "word": "玫珂菲赠品刷子被投诉掉毛褪色",
+      "onboard_time": 1668779789,
+      "rank": 34,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 177915,
       "num": 177915,
       "word": "完美世界回应是否接洽暴雪",
@@ -1707,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171481,
+      "num": 171481,
+      "word": "被周深尴尬的样子笑死",
+      "onboard_time": 1668780869,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171302,
       "num": 171302,
       "word": "张婧仪曾可妮片场互动",
@@ -1731,28 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165956,
-      "num": 165956,
-      "word": "玫珂菲赠品刷子被投诉掉毛褪色",
-      "onboard_time": 1668779789,
-      "rank": 34,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 165212,
       "num": 165212,
       "word": "31省人口出生率公布",
       "onboard_time": 1668685109,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164953,
-      "num": 164953,
-      "word": "涵艺爆料冰岛事件",
-      "onboard_time": 1668780449,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 164922,
@@ -1811,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157217,
+      "num": 157217,
+      "word": "小学的语文我能不懂吗",
+      "onboard_time": 1668779188,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157214,
       "num": 157214,
       "word": "李诞称之前没人愿为脱口秀大会买单",
@@ -1827,14 +1859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157001,
-      "num": 157001,
-      "word": "小学的语文我能不懂吗",
-      "onboard_time": 1668779188,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156442,
       "num": 156442,
       "word": "172在山东的现状",
@@ -1849,14 +1873,6 @@
       "onboard_time": 1668777567,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153334,
-      "num": 153334,
-      "word": "男孩文具店换现金被老板婉拒",
-      "onboard_time": 1668779668,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151714,
@@ -2083,6 +2099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133103,
+      "num": 133103,
+      "word": "阿云嘎的基督山之旅",
+      "onboard_time": 1668781770,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132229,
       "num": 132229,
       "word": "六公主视角下的贺峻霖",
@@ -2171,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129373,
+      "num": 125728,
+      "word": "苏醒陆虎走到哪儿把歌打到哪儿",
+      "onboard_time": 1668782191,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128576,
       "num": 128576,
       "word": "故宫银杏雨",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1668776728,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128153,
+      "num": 128153,
+      "word": "寻找孙泽莀",
+      "onboard_time": 1668781708,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126519,
@@ -2323,14 +2363,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 108018,
-      "num": 108018,
-      "word": "被周深尴尬的样子笑死",
-      "onboard_time": 1668780869,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107862,
       "num": 107862,
       "word": "丁磊回应暴雪中止合作",
@@ -2444,7 +2476,7 @@
     },
     {
       "raw_hot": 86032,
-      "num": 674891,
+      "num": 727986,
       "word": "那些被平凡暖意感动的瞬间",
       "onboard_time": 1668777988,
       "rank": 2,
