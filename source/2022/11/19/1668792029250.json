@@ -1,0 +1,410 @@
+{
+  "runTime": 1668792029250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 799830,
+        "num": 799830,
+        "word": "警方回应任贤齐转发的男童失踪案",
+        "onboard_time": 1668782670,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 610617,
+        "num": 610617,
+        "word": "女生一个人住民宿有多危险",
+        "onboard_time": 1668787468,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34994,
+        "num": 504549,
+        "word": "那些被平凡暖意感动的瞬间",
+        "onboard_time": 1668777988,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 476776,
+        "num": 476776,
+        "word": "考研成功率低于本科录取率",
+        "onboard_time": 1668778109,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 398186,
+        "num": 398186,
+        "word": "爱过的人可以做朋友吗",
+        "onboard_time": 1668788185,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342307,
+        "num": 342307,
+        "word": "名侦探柯南",
+        "onboard_time": 1668776246,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 254720,
+        "num": 254720,
+        "word": "江西彩礼被误解好多年",
+        "onboard_time": 1668783693,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232365,
+        "num": 232365,
+        "word": "月薪6000猫保姆回应质疑",
+        "onboard_time": 1668783150,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226995,
+        "num": 226995,
+        "word": "广州警方通报女子反绑跪地事件",
+        "onboard_time": 1668778589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213423,
+        "num": 213423,
+        "word": "警方回应鹤壁16岁女生遭霸凌",
+        "onboard_time": 1668770187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222484,
+        "num": 212309,
+        "word": "白鹿镜头下的杨颖",
+        "onboard_time": 1668788424,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210282,
+        "num": 210282,
+        "word": "宁艺卓untouchable挑战",
+        "onboard_time": 1668788246,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209951,
+        "num": 209951,
+        "word": "选对裤子能有多显瘦",
+        "onboard_time": 1668786570,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 204841,
+        "num": 204841,
+        "word": "罗晋新剧老婆被群嘲",
+        "onboard_time": 1668768627,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204764,
+        "num": 204764,
+        "word": "原神哥抽卡欧爆了",
+        "onboard_time": 1668785670,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190929,
+        "num": 190929,
+        "word": "女子称扫地机器人把狗屎抹满屋",
+        "onboard_time": 1668788664,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176349,
+        "num": 176349,
+        "word": "丁俊晖",
+        "onboard_time": 1668783628,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166743,
+        "num": 166743,
+        "word": "FPX 冰岛",
+        "onboard_time": 1668771088,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 161839,
+        "word": "考研比高考还难吗",
+        "onboard_time": 1668785011,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 134829,
+        "word": "这订婚宴的菜也太硬了",
+        "onboard_time": 1668776907,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176773,
+        "num": 134822,
+        "word": "尹峥坚定选择李薇",
+        "onboard_time": 1668789984,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133865,
+        "num": 133865,
+        "word": "男子投喂鳄鱼即兴唱歌引发踩踏",
+        "onboard_time": 1668784537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131218,
+        "num": 131218,
+        "word": "Doinb",
+        "onboard_time": 1668769289,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120199,
+        "num": 120199,
+        "word": "黄晓明手写信告别中餐厅",
+        "onboard_time": 1668786392,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116624,
+        "num": 116624,
+        "word": "陈飞宇为角色找哥哥借编程书",
+        "onboard_time": 1668778350,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106026,
+        "num": 106026,
+        "word": "为什么越来越难喜欢上一个人",
+        "onboard_time": 1668775407,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103567,
+        "num": 103567,
+        "word": "曼联告知C罗不要归队",
+        "onboard_time": 1668777927,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102439,
+        "num": 102439,
+        "word": "新郎接亲遇22个小孩楼梯口要红包",
+        "onboard_time": 1668776068,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98350,
+        "num": 98350,
+        "word": "甘肃县级队足协杯淘汰北京国安",
+        "onboard_time": 1668769048,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97819,
+        "num": 97819,
+        "word": "北京疫情防控",
+        "onboard_time": 1668765747,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95641,
+        "num": 95641,
+        "word": "只有周深做93道题的世界达成了",
+        "onboard_time": 1668786510,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93710,
+        "num": 93710,
+        "word": "脱5爆梗名场面大赏",
+        "onboard_time": 1668790821,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77003,
+        "num": 77003,
+        "word": "乐华娱乐营收增长80%以上来自王一博",
+        "onboard_time": 1668775165,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76574,
+        "num": 76574,
+        "word": "26岁小伙为看C罗骑行穿越3个国家",
+        "onboard_time": 1668785493,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 76227,
+        "num": 76227,
+        "word": "TES",
+        "onboard_time": 1668772587,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74228,
+        "num": 74228,
+        "word": "武汉14岁失踪男童父亲发声",
+        "onboard_time": 1668762207,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73932,
+        "num": 73932,
+        "word": "教育局回应网传鹤壁一女生遭霸凌",
+        "onboard_time": 1668766288,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72359,
+        "num": 72359,
+        "word": "法证先锋5尺度有多大",
+        "onboard_time": 1668765325,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69611,
+        "num": 69611,
+        "word": "涵艺爆料冰岛事件",
+        "onboard_time": 1668780449,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62676,
+        "num": 62676,
+        "word": "男孩文具店换现金被老板婉拒",
+        "onboard_time": 1668779668,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67069,
+        "num": 62593,
+        "word": "命韵峋环新花絮",
+        "onboard_time": 1668783928,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61980,
+        "num": 61980,
+        "word": "广州防疫人员耐心对话被管控居民",
+        "onboard_time": 1668771507,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59484,
+        "num": 59484,
+        "word": "李峋的走马灯画面",
+        "onboard_time": 1668781891,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59373,
+        "num": 59373,
+        "word": "初次录入小主人气味的狗狗",
+        "onboard_time": 1668791182,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59005,
+        "num": 59005,
+        "word": "亚洲杯国乒男单无缘四强",
+        "onboard_time": 1668764965,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58326,
+        "num": 58326,
+        "word": "流星雨一颗颗划过星空的绝美瞬间",
+        "onboard_time": 1668789383,
+        "rank": 45,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 57520,
+        "num": 57520,
+        "word": "32岁女子北漂10年存400万买90平房",
+        "onboard_time": 1668764786,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57181,
+        "num": 57181,
+        "word": "玫珂菲赠品刷子被投诉掉毛褪色",
+        "onboard_time": 1668779789,
+        "rank": 47,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 54908,
+        "num": 54908,
+        "word": "微信支持自定义表情包",
+        "onboard_time": 1668777685,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 44494,
+        "num": 53137,
+        "word": "在家办公的尴尬瞬间",
+        "onboard_time": 1668791899,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放包容合作共赢才是人间正道#"
+    }
+  }
+}

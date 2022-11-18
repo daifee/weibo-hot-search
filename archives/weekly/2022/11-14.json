@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668790198463,
+  "endTime": 1668792029250,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2035,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 610617,
+      "num": 610617,
+      "word": "女生一个人住民宿有多危险",
+      "onboard_time": 1668787468,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610551,
       "num": 532876,
       "word": "沈腾有腰了",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1668480809,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543137,
-      "num": 543137,
-      "word": "女生一个人住民宿有多危险",
-      "onboard_time": 1668787468,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 542351,
@@ -3899,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398186,
+      "num": 398186,
+      "word": "爱过的人可以做朋友吗",
+      "onboard_time": 1668788185,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398168,
       "num": 229322,
       "word": "网传阿凡达2内地12月15日上映",
@@ -4897,14 +4905,6 @@
       "onboard_time": 1668650488,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328397,
-      "num": 328397,
-      "word": "爱过的人可以做朋友吗",
-      "onboard_time": 1668788185,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 327341,
@@ -6891,6 +6891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222484,
+      "num": 215350,
+      "word": "白鹿镜头下的杨颖",
+      "onboard_time": 1668788424,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222322,
       "num": 222322,
       "word": "赵睿最后一投引巴林男篮不满",
@@ -7081,14 +7089,6 @@
       "onboard_time": 1668441030,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215350,
-      "num": 215350,
-      "word": "白鹿镜头下的杨颖",
-      "onboard_time": 1668788424,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 214567,
@@ -7843,6 +7843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190929,
+      "num": 190929,
+      "word": "女子称扫地机器人把狗屎抹满屋",
+      "onboard_time": 1668788664,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190895,
       "num": 95846,
       "word": "李峋让朱韵做的事是离开他",
@@ -8232,6 +8240,14 @@
       "word": "命韵峋环名场面合集",
       "onboard_time": 1668784474,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176773,
+      "num": 162370,
+      "word": "尹峥坚定选择李薇",
+      "onboard_time": 1668789984,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -8681,14 +8697,6 @@
       "onboard_time": 1668596010,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162370,
-      "num": 162370,
-      "word": "尹峥坚定选择李薇",
-      "onboard_time": 1668789984,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 162351,
@@ -10075,14 +10083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128292,
-      "num": 106428,
-      "word": "女子称扫地机器人把狗屎抹满屋",
-      "onboard_time": 1668788664,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128194,
       "num": 128194,
       "word": "倒霉事都让你碰上了",
@@ -11163,6 +11163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93710,
+      "num": 93710,
+      "word": "脱5爆梗名场面大赏",
+      "onboard_time": 1668790821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92647,
       "num": 92647,
       "word": "原来猫咪也有自尊心",
@@ -11531,6 +11539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59373,
+      "num": 59373,
+      "word": "初次录入小主人气味的狗狗",
+      "onboard_time": 1668791182,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59082,
       "num": 59082,
       "word": "不会点幻术都不敢这样拍",
@@ -11609,6 +11625,14 @@
       "onboard_time": 1668662190,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44494,
+      "num": 53137,
+      "word": "在家办公的尴尬瞬间",
+      "onboard_time": 1668791899,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 44341,
