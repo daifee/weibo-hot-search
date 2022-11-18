@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668782240101,
+  "endTime": 1668784929724,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -123,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1142777,
+      "num": 1142777,
+      "word": "名侦探柯南",
+      "onboard_time": 1668776246,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1079773,
       "num": 1079773,
       "word": "教育局回应网传鹤壁一女生遭霸凌",
@@ -169,6 +177,14 @@
       "onboard_time": 1668744869,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 943988,
+      "num": 424672,
+      "word": "警方回应任贤齐转发的男童失踪案",
+      "onboard_time": 1668782670,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 940656,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729919,
+      "num": 729919,
+      "word": "丁俊晖",
+      "onboard_time": 1668783628,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708470,
       "num": 708470,
       "word": "法证先锋5尺度有多大",
@@ -313,14 +337,6 @@
       "onboard_time": 1668733529,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 673576,
-      "num": 673576,
-      "word": "名侦探柯南",
-      "onboard_time": 1668776246,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 654071,
@@ -377,6 +393,14 @@
       "onboard_time": 1668698611,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 613550,
+      "num": 613550,
+      "word": "月薪6000猫保姆回应质疑",
+      "onboard_time": 1668783150,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608221,
@@ -715,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461957,
+      "num": 461957,
+      "word": "警方回应鹤壁16岁女生遭霸凌",
+      "onboard_time": 1668770187,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458591,
       "num": 458591,
       "word": "易烊千玺个十百千万纪录片",
@@ -763,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 412976,
-      "num": 412976,
-      "word": "警方回应鹤壁16岁女生遭霸凌",
-      "onboard_time": 1668770187,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407922,
       "num": 407922,
       "word": "朝阳区倡导市民非必要不离开朝阳区",
@@ -817,6 +841,14 @@
       "onboard_time": 1668734128,
       "rank": 17,
       "category": "体育,旅游"
+    },
+    {
+      "raw_hot": 391373,
+      "num": 391373,
+      "word": "李峋的走马灯画面",
+      "onboard_time": 1668781891,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 387007,
@@ -961,6 +993,22 @@
       "onboard_time": 1668744691,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 322783,
+      "num": 322783,
+      "word": "江西彩礼被误解好多年",
+      "onboard_time": 1668783693,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318037,
+      "num": 318037,
+      "word": "涵艺爆料冰岛事件",
+      "onboard_time": 1668780449,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 317670,
@@ -1187,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259748,
-      "num": 259748,
-      "word": "涵艺爆料冰岛事件",
-      "onboard_time": 1668780449,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 258713,
       "num": 258713,
       "word": "原来多大的孩子都得平分",
@@ -1208,6 +1248,22 @@
       "word": "秦施阳华未婚已爱",
       "onboard_time": 1668733228,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256243,
+      "num": 252387,
+      "word": "命韵峋环新花絮",
+      "onboard_time": 1668783928,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254509,
+      "num": 251813,
+      "word": "马嘉祺万水朝东舞台照",
+      "onboard_time": 1668784596,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1257,6 +1313,14 @@
       "onboard_time": 1668776427,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237929,
+      "num": 237929,
+      "word": "男孩文具店换现金被老板婉拒",
+      "onboard_time": 1668779668,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236418,
@@ -1339,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219309,
+      "num": 219309,
+      "word": "玫珂菲赠品刷子被投诉掉毛褪色",
+      "onboard_time": 1668779789,
+      "rank": 34,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "英雄联盟",
@@ -1379,14 +1451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212695,
-      "num": 212695,
-      "word": "李峋的走马灯画面",
-      "onboard_time": 1668781891,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212652,
       "num": 212652,
       "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1668730169,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203876,
+      "num": 203876,
+      "word": "柿子瀑布有多壮观",
+      "onboard_time": 1668782732,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 202956,
@@ -1563,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188752,
-      "num": 188752,
-      "word": "男孩文具店换现金被老板婉拒",
-      "onboard_time": 1668779668,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187751,
       "num": 187751,
       "word": "白举纲李承铉新歌MV",
@@ -1651,20 +1715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179052,
-      "num": 179052,
-      "word": "玫珂菲赠品刷子被投诉掉毛褪色",
-      "onboard_time": 1668779789,
-      "rank": 34,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 177915,
       "num": 177915,
       "word": "完美世界回应是否接洽暴雪",
       "onboard_time": 1668767788,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176917,
+      "num": 176917,
+      "word": "命韵峋环名场面合集",
+      "onboard_time": 1668784474,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 175406,
@@ -1816,6 +1880,14 @@
       "word": "万水朝东",
       "onboard_time": 1668770369,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160329,
+      "num": 144726,
+      "word": "宋亚轩万水朝东台词功底",
+      "onboard_time": 1668782429,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -2339,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110653,
+      "num": 110653,
+      "word": "男子投喂鳄鱼即兴唱歌引发踩踏",
+      "onboard_time": 1668784537,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110396,
       "num": 110396,
       "word": "李栋旭确认出演哈尔滨",
@@ -2377,6 +2457,14 @@
       "onboard_time": 1668753747,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 105128,
+      "num": 105128,
+      "word": "哥哥会带娃是什么体验",
+      "onboard_time": 1668784774,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104264,
@@ -2476,7 +2564,7 @@
     },
     {
       "raw_hot": 86032,
-      "num": 727986,
+      "num": 837611,
       "word": "那些被平凡暖意感动的瞬间",
       "onboard_time": 1668777988,
       "rank": 2,
