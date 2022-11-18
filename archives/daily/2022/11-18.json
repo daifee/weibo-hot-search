@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668764213045,
+  "endTime": 1668767011962,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -155,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 888976,
+      "num": 621872,
+      "word": "北京朝阳区疫情防控",
+      "onboard_time": 1668763827,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871750,
       "num": 871750,
       "word": "南来北往官宣白敬亭",
@@ -169,6 +177,14 @@
       "onboard_time": 1668680188,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 854512,
+      "num": 854512,
+      "word": "武汉14岁失踪男童父亲发声",
+      "onboard_time": 1668762207,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849008,
@@ -203,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727987,
+      "num": 727987,
+      "word": "北京疫情防控",
+      "onboard_time": 1668765747,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696918,
       "num": 399368,
       "word": "赵露思书模时期封面图",
       "onboard_time": 1668733529,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 656631,
+      "num": 656631,
+      "word": "法证先锋5尺度有多大",
+      "onboard_time": 1668765325,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 654071,
@@ -243,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619371,
+      "num": 619371,
+      "word": "32岁女子北漂10年存400万买90平房",
+      "onboard_time": 1668764786,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606076,
       "num": 606076,
       "word": "小狗夭折狗妈妈死死含住不让埋",
@@ -273,6 +313,14 @@
       "onboard_time": 1668738624,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 564071,
+      "num": 506008,
+      "word": "王鹤棣时宴黑色高领毛衣造型",
+      "onboard_time": 1668766466,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 562074,
@@ -419,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479790,
+      "num": 479790,
+      "word": "mlxg称会继续上诉RNG",
+      "onboard_time": 1668763467,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 478550,
       "num": 478550,
       "word": "刘亦菲陈晓梦华录2022年剧集四榜榜首",
@@ -475,14 +531,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 462519,
-      "num": 373699,
-      "word": "武汉14岁失踪男童父亲发声",
-      "onboard_time": 1668762207,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462282,
       "num": 462282,
       "word": "张伯礼称奥密克戎难以彻底消灭",
@@ -537,6 +585,14 @@
       "onboard_time": 1668695851,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401405,
+      "num": 401405,
+      "word": "亚洲杯国乒男单无缘四强",
+      "onboard_time": 1668764965,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 400951,
@@ -611,20 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378855,
-      "num": 378855,
-      "word": "北京朝阳区疫情防控",
-      "onboard_time": 1668763827,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365861,
       "num": 365861,
       "word": "北京昨增本土确诊100例",
       "onboard_time": 1668730647,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363764,
+      "num": 363764,
+      "word": "朴振英跳HypeBoy",
+      "onboard_time": 1668765747,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 361140,
@@ -707,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315351,
+      "num": 315351,
+      "word": "第一次舔冰棍的小猫",
+      "onboard_time": 1668761668,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315014,
       "num": 315014,
       "word": "C罗称赞梅西是伟大的球员",
@@ -771,6 +835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291707,
+      "num": 291707,
+      "word": "马嘉祺又在递麦",
+      "onboard_time": 1668764245,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286431,
+      "num": 286431,
+      "word": "赵露思镂空连衣裙生图",
+      "onboard_time": 1668764667,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282792,
       "num": 247729,
       "word": "朝阳打歌中心",
@@ -785,14 +865,6 @@
       "onboard_time": 1668739585,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 275411,
-      "num": 275411,
-      "word": "mlxg称会继续上诉RNG",
-      "onboard_time": 1668763467,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 272343,
@@ -859,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249253,
+      "num": 181046,
+      "word": "教育局回应网传鹤壁一女生遭霸凌",
+      "onboard_time": 1668766288,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248577,
       "num": 248577,
       "word": "韩国今天高考数学第一道题",
@@ -872,6 +952,14 @@
       "word": "上万年轻人变身植系青年",
       "onboard_time": 1668742406,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238016,
+      "num": 238016,
+      "word": "不随意关停剧本娱乐经营场所",
+      "onboard_time": 1668765148,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -915,20 +1003,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230653,
-      "num": 230653,
-      "word": "第一次舔冰棍的小猫",
-      "onboard_time": 1668761668,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227602,
       "num": 227602,
       "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
       "onboard_time": 1668743969,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223456,
+      "num": 223456,
+      "word": "穆里尼奥称C罗需排梅西之后",
+      "onboard_time": 1668765567,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221379,
+      "num": 221379,
+      "word": "98年女孩3次世界比赛夺18个冠军",
+      "onboard_time": 1668764004,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 219977,
@@ -1139,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184789,
+      "num": 176373,
+      "word": "六公主发的和贺峻霖对视合集",
+      "onboard_time": 1668764187,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184660,
       "num": 184660,
       "word": "什么样的爱情不长久",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1668747512,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173704,
+      "num": 173704,
+      "word": "杨紫胡同自行车随拍",
+      "onboard_time": 1668766165,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 172860,
@@ -1259,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159728,
+      "num": 154153,
+      "word": "命韵峋环战歌是曾可妮唱的",
+      "onboard_time": 1668766885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
@@ -1305,6 +1425,14 @@
       "onboard_time": 1668761248,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149312,
+      "num": 149312,
+      "word": "LESSERAFIM新歌音银初舞台视频",
+      "onboard_time": 1668766949,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 147503,
@@ -1409,14 +1537,6 @@
       "onboard_time": 1668734729,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136177,
-      "num": 115725,
-      "word": "六公主发的和贺峻霖对视合集",
-      "onboard_time": 1668764187,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 135491,
@@ -1587,12 +1707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113897,
-      "num": 113897,
-      "word": "98年女孩3次世界比赛夺18个冠军",
-      "onboard_time": 1668764004,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 115240,
+      "num": 115240,
+      "word": "被衣服封印住的小猫",
+      "onboard_time": 1668766826,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112326,
@@ -1609,6 +1729,14 @@
       "onboard_time": 1668752667,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110737,
+      "num": 369216,
+      "word": "原神 公子 八重神子复刻",
+      "onboard_time": 1668765626,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 110396,

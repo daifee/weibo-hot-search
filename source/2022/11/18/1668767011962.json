@@ -1,0 +1,410 @@
+{
+  "runTime": 1668767011962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487440,
+        "num": 1487440,
+        "word": "无疫情地区原则不限制演唱会人数",
+        "onboard_time": 1668761186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879110,
+        "num": 879110,
+        "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
+        "onboard_time": 1668762026,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69047,
+        "num": 857076,
+        "word": "探秘雅万高铁动车组",
+        "onboard_time": 1668762807,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 854512,
+        "num": 854512,
+        "word": "武汉14岁失踪男童父亲发声",
+        "onboard_time": 1668762207,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727987,
+        "num": 727987,
+        "word": "北京疫情防控",
+        "onboard_time": 1668765747,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656631,
+        "num": 656631,
+        "word": "法证先锋5尺度有多大",
+        "onboard_time": 1668765325,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623810,
+        "num": 623810,
+        "word": "女生到底介不介意男友矮",
+        "onboard_time": 1668754645,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 888976,
+        "num": 621872,
+        "word": "北京朝阳区疫情防控",
+        "onboard_time": 1668763827,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619371,
+        "num": 619371,
+        "word": "32岁女子北漂10年存400万买90平房",
+        "onboard_time": 1668764786,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514429,
+        "num": 514429,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564071,
+        "num": 506008,
+        "word": "王鹤棣时宴黑色高领毛衣造型",
+        "onboard_time": 1668766466,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479790,
+        "num": 479790,
+        "word": "mlxg称会继续上诉RNG",
+        "onboard_time": 1668763467,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401405,
+        "num": 401405,
+        "word": "亚洲杯国乒男单无缘四强",
+        "onboard_time": 1668764965,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382679,
+        "num": 382679,
+        "word": "消费者质疑淘宝88VIP会员杀熟",
+        "onboard_time": 1668755068,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110737,
+        "num": 369216,
+        "word": "原神 公子 八重神子复刻",
+        "onboard_time": 1668765626,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363764,
+        "num": 363764,
+        "word": "朴振英跳HypeBoy",
+        "onboard_time": 1668765747,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348043,
+        "num": 348043,
+        "word": "暴雪想要中国百万玩家数据",
+        "onboard_time": 1668751709,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320083,
+        "num": 320083,
+        "word": "bibi",
+        "onboard_time": 1668756567,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315351,
+        "num": 315351,
+        "word": "第一次舔冰棍的小猫",
+        "onboard_time": 1668761668,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291707,
+        "num": 291707,
+        "word": "马嘉祺又在递麦",
+        "onboard_time": 1668764245,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295092,
+        "num": 289479,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286431,
+        "num": 286431,
+        "word": "赵露思镂空连衣裙生图",
+        "onboard_time": 1668764667,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259898,
+        "num": 259898,
+        "word": "寻子父亲回应任贤齐等众星发声相助",
+        "onboard_time": 1668760647,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238016,
+        "num": 238016,
+        "word": "不随意关停剧本娱乐经营场所",
+        "onboard_time": 1668765148,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227017,
+        "num": 227017,
+        "word": "宋亚轩说我是演员宋亚轩",
+        "onboard_time": 1668762386,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226230,
+        "num": 226230,
+        "word": "老公和狗都不能要了",
+        "onboard_time": 1668752067,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223456,
+        "num": 223456,
+        "word": "穆里尼奥称C罗需排梅西之后",
+        "onboard_time": 1668765567,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221379,
+        "num": 221379,
+        "word": "98年女孩3次世界比赛夺18个冠军",
+        "onboard_time": 1668764004,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189674,
+        "num": 189674,
+        "word": "小狗夭折狗妈妈死死含住不让埋",
+        "onboard_time": 1668750928,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181341,
+        "num": 181341,
+        "word": "阿根廷球星阿圭罗遇到巴西球迷",
+        "onboard_time": 1668762144,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249253,
+        "num": 181046,
+        "word": "教育局回应网传鹤壁一女生遭霸凌",
+        "onboard_time": 1668766288,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200381,
+        "num": 178832,
+        "word": "金韩彬 Tangerine",
+        "onboard_time": 1668755547,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184789,
+        "num": 176373,
+        "word": "六公主发的和贺峻霖对视合集",
+        "onboard_time": 1668764187,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181781,
+        "num": 175282,
+        "word": "李峋是去备孕了吧",
+        "onboard_time": 1668744750,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173704,
+        "num": 173704,
+        "word": "杨紫胡同自行车随拍",
+        "onboard_time": 1668766165,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171171,
+        "num": 171171,
+        "word": "边牧跑丢5个小时溜进派出所求助",
+        "onboard_time": 1668757646,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163897,
+        "num": 163897,
+        "word": "Viper",
+        "onboard_time": 1668756985,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157213,
+        "num": 157213,
+        "word": "林仲勋4比3王楚钦",
+        "onboard_time": 1668759927,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157002,
+        "num": 157002,
+        "word": "更换电池会提升手机的体验感吗",
+        "onboard_time": 1668758968,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "女子发现老公手机藏初恋女友视频",
+        "onboard_time": 1668740906,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159728,
+        "num": 154153,
+        "word": "命韵峋环战歌是曾可妮唱的",
+        "onboard_time": 1668766885,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149312,
+        "num": 149312,
+        "word": "LESSERAFIM新歌音银初舞台视频",
+        "onboard_time": 1668766949,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146253,
+        "num": 146253,
+        "word": "柴犬散步遭到猫咪围堵",
+        "onboard_time": 1668761848,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142719,
+        "num": 142719,
+        "word": "泸定地震免费送7000碗面拉面哥去世",
+        "onboard_time": 1668750748,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139300,
+        "num": 139300,
+        "word": "小学生犯错轻拍老师胳膊求原谅",
+        "onboard_time": 1668760826,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137209,
+        "num": 137209,
+        "word": "8旬退休教师辅导孙子气到敲桌",
+        "onboard_time": 1668761248,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131765,
+        "num": 131765,
+        "word": "10岁女孩手绘付款码成功扫出信息",
+        "onboard_time": 1668754107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124577,
+        "num": 124577,
+        "word": "刘氏兄弟公开回应更改国籍",
+        "onboard_time": 1668744869,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118427,
+        "num": 118427,
+        "word": "卡塔尔回应世界杯花费2000亿美元",
+        "onboard_time": 1668749130,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115240,
+        "num": 115240,
+        "word": "被衣服封印住的小猫",
+        "onboard_time": 1668766826,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022APEC#"
+    }
+  }
+}

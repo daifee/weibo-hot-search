@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668764213045,
+  "endTime": 1668767011962,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 888976,
+      "num": 621872,
+      "word": "北京朝阳区疫情防控",
+      "onboard_time": 1668763827,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881111,
       "num": 881111,
       "word": "疯狂小杨哥回应被打假",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1668647788,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 854512,
+      "num": 854512,
+      "word": "武汉14岁失踪男童父亲发声",
+      "onboard_time": 1668762207,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849606,
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656631,
+      "num": 656631,
+      "word": "法证先锋5尺度有多大",
+      "onboard_time": 1668765325,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655025,
       "num": 517157,
       "word": "学校门口买的圆珠笔暗藏真刀",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1668611789,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 619371,
+      "num": 619371,
+      "word": "32岁女子北漂10年存400万买90平房",
+      "onboard_time": 1668764786,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618692,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1668575728,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564071,
+      "num": 506008,
+      "word": "王鹤棣时宴黑色高领毛衣造型",
+      "onboard_time": 1668766466,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 562573,
@@ -2803,6 +2843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479790,
+      "num": 479790,
+      "word": "mlxg称会继续上诉RNG",
+      "onboard_time": 1668763467,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 479671,
       "num": 479671,
       "word": "社死还是得看研究生",
@@ -3032,14 +3080,6 @@
       "word": "石家庄调整防疫举措决不是全面放开",
       "onboard_time": 1668421290,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462519,
-      "num": 373699,
-      "word": "武汉14岁失踪男童父亲发声",
-      "onboard_time": 1668762207,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3571,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401405,
+      "num": 401405,
+      "word": "亚洲杯国乒男单无缘四强",
+      "onboard_time": 1668764965,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401057,
       "num": 401057,
       "word": "合肥倡导婚宴应办尽办",
@@ -3915,14 +3963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378855,
-      "num": 378855,
-      "word": "北京朝阳区疫情防控",
-      "onboard_time": 1668763827,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378531,
       "num": 201478,
       "word": "陈飞宇说张婧仪非常会关心人",
@@ -4073,6 +4113,14 @@
       "onboard_time": 1668426207,
       "rank": 20,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 363764,
+      "num": 363764,
+      "word": "朴振英跳HypeBoy",
+      "onboard_time": 1668765747,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 363473,
@@ -4771,6 +4819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315351,
+      "num": 315351,
+      "word": "第一次舔冰棍的小猫",
+      "onboard_time": 1668761668,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315014,
       "num": 315014,
       "word": "C罗称赞梅西是伟大的球员",
@@ -5051,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291707,
+      "num": 291707,
+      "word": "马嘉祺又在递麦",
+      "onboard_time": 1668764245,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291614,
       "num": 139715,
       "word": "看李峋爆打方志靖好爽",
@@ -5105,6 +5169,14 @@
       "onboard_time": 1668658407,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286431,
+      "num": 286431,
+      "word": "赵露思镂空连衣裙生图",
+      "onboard_time": 1668764667,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285795,
@@ -5313,14 +5385,6 @@
       "onboard_time": 1668579267,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 275411,
-      "num": 275411,
-      "word": "mlxg称会继续上诉RNG",
-      "onboard_time": 1668763467,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 275138,
@@ -5771,6 +5835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249253,
+      "num": 181046,
+      "word": "教育局回应网传鹤壁一女生遭霸凌",
+      "onboard_time": 1668766288,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249190,
       "num": 156525,
       "word": "田曦薇晒live图庆热度破万",
@@ -5995,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238016,
+      "num": 238016,
+      "word": "不随意关停剧本娱乐经营场所",
+      "onboard_time": 1668765148,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237678,
       "num": 237678,
       "word": "王鹤棣现代装",
@@ -6161,14 +6241,6 @@
       "onboard_time": 1668384091,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230653,
-      "num": 230653,
-      "word": "第一次舔冰棍的小猫",
-      "onboard_time": 1668761668,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 230447,
@@ -6371,6 +6443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223456,
+      "num": 223456,
+      "word": "穆里尼奥称C罗需排梅西之后",
+      "onboard_time": 1668765567,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222542,
       "num": 222542,
       "word": "萧逸",
@@ -6384,6 +6464,14 @@
       "word": "赵睿最后一投引巴林男篮不满",
       "onboard_time": 1668476309,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221379,
+      "num": 221379,
+      "word": "98年女孩3次世界比赛夺18个冠军",
+      "onboard_time": 1668764004,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -7427,6 +7515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184789,
+      "num": 176373,
+      "word": "六公主发的和贺峻霖对视合集",
+      "onboard_time": 1668764187,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "迪丽热巴网络侵权案胜诉获赔",
@@ -7681,6 +7777,14 @@
       "onboard_time": 1668694768,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173704,
+      "num": 173704,
+      "word": "杨紫胡同自行车随拍",
+      "onboard_time": 1668766165,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 173603,
@@ -8131,6 +8235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159728,
+      "num": 154153,
+      "word": "命韵峋环战歌是曾可妮唱的",
+      "onboard_time": 1668766885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
@@ -8337,6 +8449,14 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149312,
+      "num": 149312,
+      "word": "LESSERAFIM新歌音银初舞台视频",
+      "onboard_time": 1668766949,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 149232,
@@ -8929,14 +9049,6 @@
       "onboard_time": 1668443005,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136177,
-      "num": 115725,
-      "word": "六公主发的和贺峻霖对视合集",
-      "onboard_time": 1668764187,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 135944,
@@ -9563,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115240,
+      "num": 115240,
+      "word": "被衣服封印住的小猫",
+      "onboard_time": 1668766826,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
@@ -9585,14 +9705,6 @@
       "onboard_time": 1668501091,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113897,
-      "num": 113897,
-      "word": "98年女孩3次世界比赛夺18个冠军",
-      "onboard_time": 1668764004,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113890,
@@ -9689,6 +9801,14 @@
       "onboard_time": 1668679348,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110737,
+      "num": 369216,
+      "word": "原神 公子 八重神子复刻",
+      "onboard_time": 1668765626,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 110635,
