@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668752830530,
+  "endTime": 1668753811358,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668189,
+      "num": 668189,
+      "word": "暴雪想要中国百万玩家数据",
+      "onboard_time": 1668751709,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 652558,
       "num": 652558,
       "word": "重庆新增本土感染者4666例",
@@ -209,6 +217,14 @@
       "onboard_time": 1668738624,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562541,
+      "num": 386680,
+      "word": "小狗夭折狗妈妈死死含住不让埋",
+      "onboard_time": 1668750928,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559602,
@@ -347,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 467813,
-      "num": 346544,
-      "word": "小狗夭折狗妈妈死死含住不让埋",
-      "onboard_time": 1668750928,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466164,
       "num": 466164,
       "word": "他被刺多刀仍拼死抵挡歹徒",
@@ -371,8 +379,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445274,
-      "num": 445274,
+      "raw_hot": 458591,
+      "num": 458591,
       "word": "易烊千玺个十百千万纪录片",
       "onboard_time": 1668750092,
       "rank": 7,
@@ -459,20 +467,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380337,
+      "num": 380337,
+      "word": "卡塔尔回应世界杯花费2000亿美元",
+      "onboard_time": 1668749130,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365861,
       "num": 365861,
       "word": "北京昨增本土确诊100例",
       "onboard_time": 1668730647,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365239,
-      "num": 314574,
-      "word": "卡塔尔回应世界杯花费2000亿美元",
-      "onboard_time": 1668749130,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 358744,
@@ -515,6 +523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 315806,
+      "num": 315806,
+      "word": "快乐再出发哈尔滨录制",
+      "onboard_time": 1668750748,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315014,
       "num": 315014,
       "word": "C罗称赞梅西是伟大的球员",
@@ -537,14 +553,6 @@
       "onboard_time": 1668692247,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304573,
-      "num": 304573,
-      "word": "快乐再出发哈尔滨录制",
-      "onboard_time": 1668750748,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 304276,
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297058,
-      "num": 297058,
-      "word": "暴雪想要中国百万玩家数据",
-      "onboard_time": 1668751709,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 293910,
       "num": 293910,
       "word": "藏族父亲带4岁女儿爬山学本草纲目",
       "onboard_time": 1668737308,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287870,
+      "num": 287870,
+      "word": "老公和狗都不能要了",
+      "onboard_time": 1668752067,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282792,
@@ -627,12 +635,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257165,
+      "num": 230557,
+      "word": "尹峥指甲劈了",
+      "onboard_time": 1668752728,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253890,
+      "num": 253890,
+      "word": "上海迪士尼辟谣将正式停止运营",
+      "onboard_time": 1668749549,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253297,
@@ -699,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232849,
-      "num": 232849,
-      "word": "上海迪士尼辟谣将正式停止运营",
-      "onboard_time": 1668749549,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227602,
       "num": 227602,
       "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
@@ -731,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214941,
+      "num": 214941,
+      "word": "专家称小杨哥质检报告仅能证明样品合格",
+      "onboard_time": 1668752488,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212702,
       "num": 169632,
       "word": "鹿晗音乐会预告",
@@ -747,20 +771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206515,
+      "num": 206515,
+      "word": "厂家回应牛奶摇晃变色",
+      "onboard_time": 1668749428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205964,
       "num": 205964,
       "word": "疯狂小杨哥遭打假两地市监部门已介入",
       "onboard_time": 1668683609,
       "rank": 14,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 205855,
-      "num": 205855,
-      "word": "厂家回应牛奶摇晃变色",
-      "onboard_time": 1668749428,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203891,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194831,
+      "num": 194831,
+      "word": "蔡文静新剧老公竟然没死",
+      "onboard_time": 1668752910,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187751,
       "num": 187751,
       "word": "白举纲李承铉新歌MV",
@@ -865,14 +897,6 @@
       "onboard_time": 1668747512,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173196,
-      "num": 173196,
-      "word": "老公和狗都不能要了",
-      "onboard_time": 1668752067,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 172860,
@@ -923,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164456,
+      "num": 164456,
+      "word": "白敬亭尹峥是懂双标的",
+      "onboard_time": 1668752968,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162351,
       "num": 162351,
       "word": "11月17日新增本土无症状22853例",
       "onboard_time": 1668738148,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160681,
+      "num": 138399,
+      "word": "袁娅维ALin万妮达套娃宣传新歌",
+      "onboard_time": 1668753508,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 159615,
@@ -963,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145914,
+      "num": 145914,
+      "word": "1只黑天鹅混进白天鹅群被孤立",
+      "onboard_time": 1668751348,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145282,
       "num": 145282,
       "word": "点燃我温暖你新剧照",
@@ -979,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143382,
-      "num": 143382,
-      "word": "专家称小杨哥质检报告仅能证明样品合格",
-      "onboard_time": 1668752488,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142988,
       "num": 142988,
       "word": "华为疑似暂缓2023届校招",
@@ -995,12 +1035,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 139381,
+      "num": 139381,
+      "word": "奥尼尔绝杀开拓者",
+      "onboard_time": 1668751589,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139321,
       "num": 139321,
       "word": "通过照片就能看出精神状态",
       "onboard_time": 1668747152,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138676,
+      "num": 138676,
+      "word": "宝可梦朱紫bug有多离谱",
+      "onboard_time": 1668752009,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 137477,
@@ -1139,20 +1195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115144,
-      "num": 115144,
-      "word": "尹峥指甲劈了",
-      "onboard_time": 1668752728,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 112533,
-      "num": 112533,
-      "word": "宝可梦朱紫bug有多离谱",
-      "onboard_time": 1668752009,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 115552,
+      "num": 115552,
+      "word": "刘氏兄弟将自行承担赔偿费用",
+      "onboard_time": 1668750028,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112043,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1668752667,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111989,
-      "num": 111989,
-      "word": "刘氏兄弟将自行承担赔偿费用",
-      "onboard_time": 1668750028,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110396,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1668690870,
       "rank": 37,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 105516,
+      "num": 105516,
+      "word": "冬天喝茶的正确打开方式",
+      "onboard_time": 1668753747,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 104264,
