@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668746637648,
+  "endTime": 1668748780875,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -675,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2061260,
+      "num": 2061260,
+      "word": "李峋是去备孕了吧",
+      "onboard_time": 1668744750,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2059542,
       "num": 2059542,
       "word": "女子戒糖戒奶茶1年后变白变年轻",
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 1870760,
-      "num": 922991,
+      "num": 1248097,
       "word": "女子发现老公手机藏初恋女友视频",
       "onboard_time": 1668740906,
       "rank": 30,
@@ -1603,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1447843,
+      "num": 1447843,
+      "word": "女子戴隐形10年角膜长满新生血管",
+      "onboard_time": 1668745531,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1446989,
       "num": 1446989,
       "word": "林孝埈再次退赛",
@@ -1987,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285540,
+      "num": 1285540,
+      "word": "迪士尼",
+      "onboard_time": 1667263408,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285265,
       "num": 553145,
       "word": "gemini",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1667744673,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1176765,
-      "num": 1176765,
-      "word": "迪士尼",
-      "onboard_time": 1667263408,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1171499,
@@ -2665,6 +2681,14 @@
       "onboard_time": 1667552368,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1095887,
+      "num": 1095887,
+      "word": "广州警方回应2名女子手被反绑跪地",
+      "onboard_time": 1668746254,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1094041,
@@ -3257,6 +3281,14 @@
       "onboard_time": 1667278170,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983656,
+      "num": 983656,
+      "word": "刘氏兄弟公开回应更改国籍",
+      "onboard_time": 1668744869,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 979983,
@@ -3865,14 +3897,6 @@
       "onboard_time": 1668506250,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 878565,
-      "num": 878565,
-      "word": "刘氏兄弟公开回应更改国籍",
-      "onboard_time": 1668744869,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 878353,
@@ -4872,14 +4896,6 @@
       "word": "入睡姿势不对可能睡出毛病",
       "onboard_time": 1667482826,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752467,
-      "num": 752467,
-      "word": "女子戴隐形10年角膜长满新生血管",
-      "onboard_time": 1668745531,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7739,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542351,
+      "num": 542351,
+      "word": "吴昕推荐赵晓卉上恋综",
+      "onboard_time": 1668747571,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541744,
       "num": 472844,
       "word": "刘诗诗一念关山婚服造型",
@@ -8129,6 +8153,14 @@
       "onboard_time": 1667909068,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523457,
+      "num": 523457,
+      "word": "卿卿日常为什么能火",
+      "onboard_time": 1668745589,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 523391,
@@ -8705,14 +8737,6 @@
       "onboard_time": 1668314969,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499961,
-      "num": 499961,
-      "word": "卿卿日常为什么能火",
-      "onboard_time": 1668745589,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 499852,
@@ -9953,6 +9977,14 @@
       "onboard_time": 1667800949,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453088,
+      "num": 453088,
+      "word": "刘亦菲陈晓梦华录2022年剧集四榜榜首",
+      "onboard_time": 1668746912,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 452863,
@@ -15643,6 +15675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301890,
+      "num": 263011,
+      "word": "HYBE将2023年6月举办家族演唱会",
+      "onboard_time": 1668748650,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301457,
       "num": 243043,
       "word": "教授储殷发文硬刚董宇辉粉丝",
@@ -18155,6 +18195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252272,
+      "num": 252272,
+      "word": "美国超100家星巴克员工罢工",
+      "onboard_time": 1668746072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252215,
       "num": 252215,
       "word": "跨省旅游经营活动不再与风险区实施联动管理",
@@ -20435,6 +20483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217848,
+      "num": 170865,
+      "word": "周深要和迪士尼合作",
+      "onboard_time": 1668746671,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217640,
       "num": 100220,
       "word": "点燃我温暖你反派出场",
@@ -20809,6 +20865,14 @@
       "onboard_time": 1668658291,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212702,
+      "num": 169632,
+      "word": "鹿晗音乐会预告",
+      "onboard_time": 1668748471,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 212524,
@@ -21465,6 +21529,14 @@
       "onboard_time": 1668306989,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204160,
+      "num": 168262,
+      "word": "女生为男友做蛋炒饭半碗都是油",
+      "onboard_time": 1668748111,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204093,
@@ -22289,6 +22361,14 @@
       "onboard_time": 1668047847,
       "rank": 30,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 194050,
+      "num": 130407,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1668748412,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193919,
@@ -23987,6 +24067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174325,
+      "num": 129807,
+      "word": "没有陈飞宇征服不了的道具",
+      "onboard_time": 1668747512,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174324,
       "num": 174324,
       "word": "呼和浩特星光A9",
@@ -25353,14 +25441,6 @@
       "onboard_time": 1667707886,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159930,
-      "num": 159930,
-      "word": "广州警方回应2名女子手被反绑跪地",
-      "onboard_time": 1668746254,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159902,
@@ -27363,14 +27443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140702,
-      "num": 140702,
-      "word": "美国超100家星巴克员工罢工",
-      "onboard_time": 1668746072,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140516,
       "num": 140516,
       "word": "松垮大腿根算是碰到克星了",
@@ -27529,6 +27601,14 @@
       "onboard_time": 1668306148,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "TheShy",
+      "onboard_time": 1668748350,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 138706,
@@ -28785,6 +28865,14 @@
       "onboard_time": 1668184584,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127588,
+      "num": 127588,
+      "word": "通过照片就能看出精神状态",
+      "onboard_time": 1668747152,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 127574,
@@ -35828,7 +35916,7 @@
     },
     {
       "raw_hot": 53379,
-      "num": 1232236,
+      "num": 1296646,
       "word": "3分钟了解APEC领导人非正式会议",
       "onboard_time": 1668691646,
       "rank": 2,

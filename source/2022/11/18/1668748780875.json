@@ -1,0 +1,410 @@
+{
+  "runTime": 1668748780875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2061260,
+        "num": 2061260,
+        "word": "李峋是去备孕了吧",
+        "onboard_time": 1668744750,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1447843,
+        "num": 1447843,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13523,
+        "num": 1296646,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1285540,
+        "num": 1285540,
+        "word": "迪士尼",
+        "onboard_time": 1668743248,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1248097,
+        "num": 1248097,
+        "word": "女子发现老公手机藏初恋女友视频",
+        "onboard_time": 1668740906,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095887,
+        "num": 1095887,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983656,
+        "num": 983656,
+        "word": "刘氏兄弟公开回应更改国籍",
+        "onboard_time": 1668744869,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563354,
+        "num": 563354,
+        "word": "想见你一响李子维黄雨萱上场",
+        "onboard_time": 1668737787,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542351,
+        "num": 542351,
+        "word": "吴昕推荐赵晓卉上恋综",
+        "onboard_time": 1668747571,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430072,
+        "num": 525800,
+        "word": "女子称清晨在家遭无人机持续偷窥",
+        "onboard_time": 1668742891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523457,
+        "num": 523457,
+        "word": "卿卿日常为什么能火",
+        "onboard_time": 1668745589,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453088,
+        "num": 453088,
+        "word": "刘亦菲陈晓梦华录2022年剧集四榜榜首",
+        "onboard_time": 1668746912,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347013,
+        "num": 347013,
+        "word": "南来北往官宣白敬亭",
+        "onboard_time": 1668742708,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325954,
+        "num": 325954,
+        "word": "他被刺多刀仍拼死抵挡歹徒",
+        "onboard_time": 1668742708,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 320922,
+        "num": 320922,
+        "word": "厄风琉斯",
+        "onboard_time": 1668739826,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316441,
+        "num": 316441,
+        "word": "广州新增无症状感染者8989例",
+        "onboard_time": 1668733467,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301880,
+        "num": 301880,
+        "word": "卡塔尔",
+        "onboard_time": 1668741747,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283881,
+        "num": 283881,
+        "word": "伊藤美诚11比0",
+        "onboard_time": 1668729084,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272972,
+        "num": 272972,
+        "word": "女生发现牛奶反常不料摇晃后变色",
+        "onboard_time": 1668729626,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263189,
+        "num": 263189,
+        "word": "71岁大爷称老年婚恋就是一场交易",
+        "onboard_time": 1668744206,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301890,
+        "num": 263011,
+        "word": "HYBE将2023年6月举办家族演唱会",
+        "onboard_time": 1668748650,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262424,
+        "num": 262424,
+        "word": "张碧晨爱的二八定律主题曲MV",
+        "onboard_time": 1668743127,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261414,
+        "num": 261414,
+        "word": "推特公司员工大规模辞职",
+        "onboard_time": 1668737187,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 257055,
+        "num": 257055,
+        "word": "重庆新增本土感染者4666例",
+        "onboard_time": 1668735986,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252272,
+        "num": 252272,
+        "word": "美国超100家星巴克员工罢工",
+        "onboard_time": 1668746072,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250651,
+        "num": 250651,
+        "word": "想见你",
+        "onboard_time": 1668737426,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236760,
+        "num": 236760,
+        "word": "蜡笔小新妈妈的配音去世",
+        "onboard_time": 1668744691,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182182,
+        "num": 182182,
+        "word": "马航MH17坠机案宣判",
+        "onboard_time": 1668697590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173839,
+        "num": 173839,
+        "word": "顾客吐槽烤全羊烤糊遭索赔2万",
+        "onboard_time": 1668736826,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173130,
+        "num": 173130,
+        "word": "90后小伙辞职花光积蓄去看世界杯",
+        "onboard_time": 1668730049,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 229493,
+        "num": 172660,
+        "word": "朱韵活成了李峋的样子",
+        "onboard_time": 1668738624,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 170865,
+        "word": "周深要和迪士尼合作",
+        "onboard_time": 1668746671,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212702,
+        "num": 169632,
+        "word": "鹿晗音乐会预告",
+        "onboard_time": 1668748471,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204160,
+        "num": 168262,
+        "word": "女生为男友做蛋炒饭半碗都是油",
+        "onboard_time": 1668748111,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201335,
+        "num": 166203,
+        "word": "王鹤棣抢镜是和沈腾学的吧",
+        "onboard_time": 1668742106,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165302,
+        "num": 165302,
+        "word": "饿了么免单",
+        "onboard_time": 1668741206,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148081,
+        "num": 148081,
+        "word": "马斯克改口称推特员工可远程办公",
+        "onboard_time": 1668739585,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 146216,
+        "num": 146216,
+        "word": "C罗称赞梅西是伟大的球员",
+        "onboard_time": 1668739289,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 138846,
+        "word": "TheShy",
+        "onboard_time": 1668748350,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 136590,
+        "word": "柯南新电影今日上映",
+        "onboard_time": 1668745468,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180401,
+        "num": 132439,
+        "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
+        "onboard_time": 1668743969,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194050,
+        "num": 130407,
+        "word": "朝阳打歌中心",
+        "onboard_time": 1668748412,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174325,
+        "num": 129807,
+        "word": "没有陈飞宇征服不了的道具",
+        "onboard_time": 1668747512,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127588,
+        "num": 127588,
+        "word": "通过照片就能看出精神状态",
+        "onboard_time": 1668747152,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126555,
+        "num": 126555,
+        "word": "卡塔尔世界杯最贵10支球队",
+        "onboard_time": 1668731910,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122164,
+        "num": 122164,
+        "word": "藏族父亲带4岁女儿爬山学本草纲目",
+        "onboard_time": 1668737308,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120081,
+        "num": 120081,
+        "word": "黑洞king",
+        "onboard_time": 1668739167,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119271,
+        "num": 119271,
+        "word": "世界杯",
+        "onboard_time": 1668739526,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117361,
+        "num": 117361,
+        "word": "原来真有人给地球装了空调",
+        "onboard_time": 1668734128,
+        "rank": 48,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 114185,
+        "num": 114185,
+        "word": "富士康招工预报名已超10万",
+        "onboard_time": 1668733112,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022APEC#"
+    }
+  }
+}
