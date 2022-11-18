@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668756856727,
+  "endTime": 1668759984042,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -33,6 +33,14 @@
       "onboard_time": 1668697590,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1594044,
+      "num": 1594044,
+      "word": "女生到底介不介意男友矮",
+      "onboard_time": 1668754645,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1586771,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 940656,
+      "num": 405129,
+      "word": "消费者质疑淘宝88VIP会员杀熟",
+      "onboard_time": 1668755068,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929095,
       "num": 929095,
       "word": "广州新增无症状感染者8989例",
@@ -145,6 +161,14 @@
       "onboard_time": 1668700410,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846431,
+      "num": 846431,
+      "word": "bibi",
+      "onboard_time": 1668756567,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 839251,
@@ -192,6 +216,14 @@
       "word": "林高远",
       "onboard_time": 1668698611,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 614244,
+      "num": 614244,
+      "word": "王楚钦vs林钟勋",
+      "onboard_time": 1668759206,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -249,6 +281,14 @@
       "onboard_time": 1668731910,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 550196,
+      "num": 550196,
+      "word": "Viper",
+      "onboard_time": 1668756985,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 542351,
@@ -339,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486511,
+      "num": 486511,
+      "word": "金韩彬 Tangerine",
+      "onboard_time": 1668755547,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 482107,
       "num": 406193,
       "word": "女子从7楼扔石膏板怼民警被刑拘",
@@ -363,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 477332,
-      "num": 477332,
-      "word": "女生到底介不介意男友矮",
-      "onboard_time": 1668754645,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 477790,
+      "num": 205583,
+      "word": "武汉14岁男孩出门扔垃圾后失踪",
+      "onboard_time": 1668755788,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473990,
@@ -401,14 +449,6 @@
       "onboard_time": 1668742708,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 463081,
-      "num": 463081,
-      "word": "金韩彬 Tangerine",
-      "onboard_time": 1668755547,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 462282,
@@ -456,14 +496,6 @@
       "word": "广州规划方舱及隔离点床位24万张",
       "onboard_time": 1668695851,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405129,
-      "num": 405129,
-      "word": "消费者质疑淘宝88VIP会员杀熟",
-      "onboard_time": 1668755068,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349186,
+      "num": 299846,
+      "word": "暴雪停服后账号咋办",
+      "onboard_time": 1668754888,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 340761,
       "num": 340761,
       "word": "黑洞king",
@@ -627,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304608,
-      "num": 304608,
-      "word": "bibi",
-      "onboard_time": 1668756567,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 304276,
       "num": 304276,
       "word": "广东新增无症状感染者9110例",
@@ -649,14 +681,6 @@
       "onboard_time": 1668744206,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299846,
-      "num": 299846,
-      "word": "暴雪停服后账号咋办",
-      "onboard_time": 1668754888,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 297505,
@@ -697,6 +721,14 @@
       "onboard_time": 1668752728,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267905,
+      "num": 267905,
+      "word": "边牧跑丢5个小时溜进派出所求助",
+      "onboard_time": 1668757646,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267283,
@@ -867,20 +899,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 204432,
-      "num": 204432,
-      "word": "武汉14岁男孩出门扔垃圾后失踪",
-      "onboard_time": 1668755788,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203891,
       "num": 203891,
       "word": "非法捕捞长江鲟嫌疑人供述吃了几条",
       "onboard_time": 1668730169,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202956,
+      "num": 202956,
+      "word": "白敬亭在卿卿日常里学划拳",
+      "onboard_time": 1668758548,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 202393,
@@ -905,6 +937,14 @@
       "onboard_time": 1668756209,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198447,
+      "num": 198447,
+      "word": "于文文刘恋赵梦合唱唯一",
+      "onboard_time": 1668754947,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 197469,
@@ -947,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195212,
+      "num": 195212,
+      "word": "这么欠的羊吃起来应该很香吧",
+      "onboard_time": 1668758188,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193853,
       "num": 193853,
       "word": "奥尼尔绝杀开拓者",
@@ -969,6 +1017,14 @@
       "onboard_time": 1668745229,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186605,
+      "num": 186605,
+      "word": "刘宇宁拍戏间隙唱歌视频",
+      "onboard_time": 1668759627,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184660,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1668692549,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174772,
-      "num": 174772,
-      "word": "于文文刘恋赵梦合唱唯一",
-      "onboard_time": 1668754947,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 174325,
@@ -1129,6 +1177,22 @@
       "onboard_time": 1668684210,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "更换电池会提升手机的体验感吗",
+      "onboard_time": 1668758968,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "买隐形眼镜要关注透氧量",
+      "onboard_time": 1668757166,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145282,
@@ -1283,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120611,
+      "num": 120611,
+      "word": "nest",
+      "onboard_time": 1668757949,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120303,
       "num": 120303,
       "word": "你好卡塔尔",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1668750028,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112326,
+      "num": 112326,
+      "word": "没想被孤勇者听哭了",
+      "onboard_time": 1668758788,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 112043,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1668735807,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94180,
+      "num": 109839,
+      "word": "林仲勋4比3王楚钦",
+      "onboard_time": 1668759927,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92965,

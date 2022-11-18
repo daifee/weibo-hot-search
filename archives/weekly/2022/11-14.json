@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668756856727,
+  "endTime": 1668759984042,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -361,6 +361,14 @@
       "onboard_time": 1668591927,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1594044,
+      "num": 1594044,
+      "word": "女生到底介不介意男友矮",
+      "onboard_time": 1668754645,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1586771,
@@ -955,6 +963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 940656,
+      "num": 405129,
+      "word": "消费者质疑淘宝88VIP会员杀熟",
+      "onboard_time": 1668755068,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932483,
       "num": 932483,
       "word": "李宇春以强直患者视角写的歌",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1668700410,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846431,
+      "num": 846431,
+      "word": "bibi",
+      "onboard_time": 1668756567,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 839251,
@@ -1827,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 614244,
+      "num": 614244,
+      "word": "王楚钦vs林钟勋",
+      "onboard_time": 1668759206,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 613268,
       "num": 613268,
       "word": "172在山东的现状",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1668685109,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550196,
+      "num": 550196,
+      "word": "Viper",
+      "onboard_time": 1668349170,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 546816,
@@ -2675,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486511,
+      "num": 486511,
+      "word": "金韩彬 Tangerine",
+      "onboard_time": 1668755547,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485940,
       "num": 485940,
       "word": "Uzi 投票",
@@ -2771,20 +2819,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477790,
+      "num": 205583,
+      "word": "武汉14岁男孩出门扔垃圾后失踪",
+      "onboard_time": 1668755788,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477409,
       "num": 477409,
       "word": "想拿影帝坐袁弘前面",
       "onboard_time": 1668484471,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 477332,
-      "num": 477332,
-      "word": "女生到底介不介意男友矮",
-      "onboard_time": 1668754645,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 477197,
@@ -2961,14 +3009,6 @@
       "onboard_time": 1668421290,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463081,
-      "num": 463081,
-      "word": "金韩彬 Tangerine",
-      "onboard_time": 1668755547,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 462282,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1668650188,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 405129,
-      "num": 405129,
-      "word": "消费者质疑淘宝88VIP会员杀熟",
-      "onboard_time": 1668755068,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404981,
@@ -4179,6 +4211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349186,
+      "num": 299846,
+      "word": "暴雪停服后账号咋办",
+      "onboard_time": 1668754888,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 348989,
       "num": 292483,
       "word": "95后四小花推荐",
@@ -4425,14 +4465,6 @@
       "onboard_time": 1668504868,
       "rank": 20,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 330030,
-      "num": 330030,
-      "word": "Viper",
-      "onboard_time": 1668349170,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 329735,
@@ -4827,14 +4859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304608,
-      "num": 304608,
-      "word": "bibi",
-      "onboard_time": 1668756567,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 304276,
       "num": 304276,
       "word": "广东新增无症状感染者9110例",
@@ -4873,14 +4897,6 @@
       "onboard_time": 1668744206,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299846,
-      "num": 299846,
-      "word": "暴雪停服后账号咋办",
-      "onboard_time": 1668754888,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 298401,
@@ -5345,6 +5361,14 @@
       "onboard_time": 1668567629,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267905,
+      "num": 267905,
+      "word": "边牧跑丢5个小时溜进派出所求助",
+      "onboard_time": 1668757646,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267855,
@@ -6763,14 +6787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204432,
-      "num": 204432,
-      "word": "武汉14岁男孩出门扔垃圾后失踪",
-      "onboard_time": 1668755788,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204093,
       "num": 184840,
       "word": "李峋说朱韵和我在一起会很幸福",
@@ -6809,6 +6825,14 @@
       "onboard_time": 1668437130,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 202956,
+      "num": 202956,
+      "word": "白敬亭在卿卿日常里学划拳",
+      "onboard_time": 1668758548,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 202393,
@@ -6907,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198447,
+      "num": 198447,
+      "word": "于文文刘恋赵梦合唱唯一",
+      "onboard_time": 1668754947,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197788,
       "num": 197788,
       "word": "点燃我温暖你断更的日子",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1668731970,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195212,
+      "num": 195212,
+      "word": "这么欠的羊吃起来应该很香吧",
+      "onboard_time": 1668758188,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 194129,
@@ -7251,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186605,
+      "num": 186605,
+      "word": "刘宇宁拍戏间隙唱歌视频",
+      "onboard_time": 1668759627,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186155,
       "num": 186155,
       "word": "李峋离开后朱韵被思念包裹",
@@ -7481,14 +7529,6 @@
       "onboard_time": 1668410729,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174772,
-      "num": 174772,
-      "word": "于文文刘恋赵梦合唱唯一",
-      "onboard_time": 1668754947,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 174696,
@@ -8083,6 +8123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "更换电池会提升手机的体验感吗",
+      "onboard_time": 1668758968,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153799,
       "num": 138715,
       "word": "刀我别用命韵峋环分手",
@@ -8136,6 +8184,14 @@
       "word": "缅因猫因太胖被误当猞猁送到保护站",
       "onboard_time": 1668339268,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "买隐形眼镜要关注透氧量",
+      "onboard_time": 1668757166,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9163,6 +9219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120611,
+      "num": 120611,
+      "word": "nest",
+      "onboard_time": 1668757949,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120329,
       "num": 120329,
       "word": "长江大桥云海翻涌似仙境",
@@ -9392,6 +9456,14 @@
       "word": "如果大熊猫玩捉迷藏会怎样",
       "onboard_time": 1668489450,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112326,
+      "num": 112326,
+      "word": "没想被孤勇者听哭了",
+      "onboard_time": 1668758788,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -9953,6 +10025,14 @@
       "onboard_time": 1668493228,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94180,
+      "num": 109839,
+      "word": "林仲勋4比3王楚钦",
+      "onboard_time": 1668759927,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94126,
