@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668742083819,
+  "endTime": 1668743691105,
   "band_list": [
     {
       "raw_hot": 1786912,
@@ -8,6 +8,14 @@
       "word": "马航MH17坠机案宣判",
       "onboard_time": 1668697590,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1482561,
+      "num": 879230,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1668733467,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919310,
+      "num": 919310,
+      "word": "厄风琉斯",
+      "onboard_time": 1668739826,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 871750,
+      "num": 871750,
+      "word": "南来北往官宣白敬亭",
+      "onboard_time": 1668742708,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 862355,
@@ -99,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647025,
-      "num": 647025,
-      "word": "厄风琉斯",
-      "onboard_time": 1668739826,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 620921,
       "num": 620921,
       "word": "林高远",
       "onboard_time": 1668698611,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 599843,
+      "num": 599843,
+      "word": "张碧晨爱的二八定律主题曲MV",
+      "onboard_time": 1668743127,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 573659,
@@ -145,6 +169,14 @@
       "onboard_time": 1668731910,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539239,
+      "num": 539239,
+      "word": "饿了么免单",
+      "onboard_time": 1668741206,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528100,
@@ -195,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473502,
+      "num": 473502,
+      "word": "王鹤棣抢镜是和沈腾学的吧",
+      "onboard_time": 1668742106,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472810,
       "num": 389371,
       "word": "韩素希说最爱艺人是BLACKPINK",
@@ -208,14 +248,6 @@
       "word": "张伯礼称奥密克戎难以彻底消灭",
       "onboard_time": 1668699093,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443302,
-      "num": 181135,
-      "word": "女子发现老公手机藏初恋女友视频",
-      "onboard_time": 1668740906,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -315,12 +347,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313162,
-      "num": 313162,
-      "word": "饿了么免单",
-      "onboard_time": 1668741206,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 335938,
+      "num": 335938,
+      "word": "迪士尼",
+      "onboard_time": 1668743248,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 315014,
+      "num": 315014,
+      "word": "C罗称赞梅西是伟大的球员",
+      "onboard_time": 1668739289,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 306843,
@@ -347,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297203,
-      "num": 297203,
-      "word": "C罗称赞梅西是伟大的球员",
-      "onboard_time": 1668739289,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293910,
       "num": 293910,
       "word": "藏族父亲带4岁女儿爬山学本草纲目",
@@ -363,11 +395,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275951,
+      "num": 275951,
+      "word": "马斯克改口称推特员工可远程办公",
+      "onboard_time": 1668739585,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 269259,
+      "num": 269259,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "朱紫",
       "onboard_time": 1668727160,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 264363,
+      "num": 264363,
+      "word": "河道剑魔来了",
+      "onboard_time": 1668741446,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -403,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236418,
+      "num": 236418,
+      "word": "张雪迎毕雯珺新剧墨白双人海报",
+      "onboard_time": 1668742646,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234784,
       "num": 234784,
       "word": "6岁男孩从墙缝里救出2岁男孩",
@@ -427,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222782,
-      "num": 222782,
-      "word": "马斯克改口称推特员工可远程办公",
-      "onboard_time": 1668739585,
-      "rank": 25,
-      "category": "科技,社会新闻"
+      "raw_hot": 219880,
+      "num": 219880,
+      "word": "他被刺多刀仍拼死抵挡歹徒",
+      "onboard_time": 1668742708,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 218861,
@@ -448,6 +512,14 @@
       "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
       "onboard_time": 1668693270,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210083,
+      "num": 210083,
+      "word": "女子称清晨在家遭无人机持续偷窥",
+      "onboard_time": 1668742891,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -507,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180316,
+      "num": 180316,
+      "word": "陈飞宇李峋的眼神变化",
+      "onboard_time": 1668741567,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179953,
       "num": 179953,
       "word": "世界杯",
@@ -561,14 +641,6 @@
       "onboard_time": 1668685109,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163850,
-      "num": 163850,
-      "word": "河道剑魔来了",
-      "onboard_time": 1668741446,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 162351,
@@ -627,6 +699,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "上万年轻人变身植系青年",
+      "onboard_time": 1668742406,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137477,
+      "num": 137477,
+      "word": "今天没有爱的二八定律了",
+      "onboard_time": 1668743307,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137414,
       "num": 137414,
       "word": "11月17日新增本土确诊2276例",
@@ -681,22 +769,6 @@
       "onboard_time": 1668721932,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126855,
-      "num": 126855,
-      "word": "陈飞宇李峋的眼神变化",
-      "onboard_time": 1668741567,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 126458,
-      "num": 126458,
-      "word": "卡塔尔",
-      "onboard_time": 1668741747,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 123449,
@@ -769,6 +841,14 @@
       "onboard_time": 1668689845,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102536,
+      "num": 102536,
+      "word": "点燃我温暖你新剧照",
+      "onboard_time": 1668743667,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 99860,

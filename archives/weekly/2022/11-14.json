@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668742083819,
+  "endTime": 1668743691105,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -400,6 +400,14 @@
       "word": "石家庄回应网传取消全员核酸检测",
       "onboard_time": 1668407127,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1482561,
+      "num": 879230,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -923,6 +931,14 @@
       "category": "影视,体育"
     },
     {
+      "raw_hot": 919310,
+      "num": 919310,
+      "word": "厄风琉斯",
+      "onboard_time": 1668739826,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 918437,
       "num": 918437,
       "word": "原来papi酱说的这个朋友是秦施",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1668529165,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871750,
+      "num": 871750,
+      "word": "南来北往官宣白敬亭",
+      "onboard_time": 1668742708,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 869507,
@@ -1667,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647025,
-      "num": 647025,
-      "word": "厄风琉斯",
-      "onboard_time": 1668739826,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 644035,
       "num": 644035,
       "word": "95后女孩产后偏瘫竟是烟雾病",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1668649288,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599843,
+      "num": 599843,
+      "word": "张碧晨爱的二八定律主题曲MV",
+      "onboard_time": 1668743127,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 599212,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1668480809,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539239,
+      "num": 539239,
+      "word": "饿了么免单",
+      "onboard_time": 1668741206,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534891,
@@ -2651,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473502,
+      "num": 473502,
+      "word": "王鹤棣抢镜是和沈腾学的吧",
+      "onboard_time": 1668742106,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472810,
       "num": 389371,
       "word": "韩素希说最爱艺人是BLACKPINK",
@@ -2897,14 +2937,6 @@
       "onboard_time": 1668340228,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443302,
-      "num": 181135,
-      "word": "女子发现老公手机藏初恋女友视频",
-      "onboard_time": 1668740906,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441275,
@@ -4059,6 +4091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335938,
+      "num": 335938,
+      "word": "迪士尼",
+      "onboard_time": 1668743248,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 335622,
       "num": 238611,
       "word": "朱韵等了李峋六年",
@@ -4387,6 +4427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 315014,
+      "num": 315014,
+      "word": "C罗称赞梅西是伟大的球员",
+      "onboard_time": 1668739289,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314957,
       "num": 314957,
       "word": "吴卓羲向食客道歉",
@@ -4401,14 +4449,6 @@
       "onboard_time": 1668392369,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 313162,
-      "num": 313162,
-      "word": "饿了么免单",
-      "onboard_time": 1668741206,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312390,
@@ -4585,14 +4625,6 @@
       "onboard_time": 1668641422,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297203,
-      "num": 297203,
-      "word": "C罗称赞梅西是伟大的球员",
-      "onboard_time": 1668739289,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 297081,
@@ -4883,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275951,
+      "num": 275951,
+      "word": "马斯克改口称推特员工可远程办公",
+      "onboard_time": 1668739585,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 275822,
       "num": 256347,
       "word": "想看赵丽颖许半夏搞事业",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1668586287,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 269259,
+      "num": 269259,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 268929,
@@ -5081,6 +5129,14 @@
       "onboard_time": 1668509490,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264363,
+      "num": 264363,
+      "word": "河道剑魔来了",
+      "onboard_time": 1668741446,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 264324,
@@ -5547,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236418,
+      "num": 236418,
+      "word": "张雪迎毕雯珺新剧墨白双人海报",
+      "onboard_time": 1668742646,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236154,
       "num": 236154,
       "word": "命韵峋环今天糖点好多",
@@ -5875,14 +5939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222782,
-      "num": 222782,
-      "word": "马斯克改口称推特员工可远程办公",
-      "onboard_time": 1668739585,
-      "rank": 25,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 222542,
       "num": 222542,
       "word": "萧逸",
@@ -5945,6 +6001,14 @@
       "onboard_time": 1668587307,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219880,
+      "num": 219880,
+      "word": "他被刺多刀仍拼死抵挡歹徒",
+      "onboard_time": 1668742708,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 219774,
@@ -6169,6 +6233,14 @@
       "onboard_time": 1668422547,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210083,
+      "num": 210083,
+      "word": "女子称清晨在家遭无人机持续偷窥",
+      "onboard_time": 1668742891,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209640,
@@ -6899,6 +6971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180316,
+      "num": 180316,
+      "word": "陈飞宇李峋的眼神变化",
+      "onboard_time": 1668741567,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179884,
       "num": 179884,
       "word": "性别教育到底有多重要",
@@ -7289,14 +7369,6 @@
       "onboard_time": 1668398848,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 163850,
-      "num": 163850,
-      "word": "河道剑魔来了",
-      "onboard_time": 1668741446,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 163353,
@@ -8059,6 +8131,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "上万年轻人变身植系青年",
+      "onboard_time": 1668742406,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138706,
       "num": 138706,
       "word": "吴磊说散个消食步",
@@ -8097,6 +8177,14 @@
       "onboard_time": 1668586048,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137477,
+      "num": 137477,
+      "word": "今天没有爱的二八定律了",
+      "onboard_time": 1668743307,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 137414,
@@ -8427,28 +8515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126855,
-      "num": 126855,
-      "word": "陈飞宇李峋的眼神变化",
-      "onboard_time": 1668741567,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126854,
       "num": 126854,
       "word": "办公室里有八百个心眼子",
       "onboard_time": 1668510091,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126458,
-      "num": 126458,
-      "word": "卡塔尔",
-      "onboard_time": 1668741747,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 126240,
@@ -9105,6 +9177,14 @@
       "onboard_time": 1668378014,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102536,
+      "num": 102536,
+      "word": "点燃我温暖你新剧照",
+      "onboard_time": 1668743667,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 102100,
