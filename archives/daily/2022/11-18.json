@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668763248405,
+  "endTime": 1668764213045,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1747183,
+      "num": 1747183,
+      "word": "无疫情地区原则不限制演唱会人数",
+      "onboard_time": 1668761186,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1688362,
       "num": 1688362,
       "word": "女生到底介不介意男友矮",
@@ -56,14 +64,6 @@
       "word": "付国豪因抑郁症病故",
       "onboard_time": 1668696751,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1447309,
-      "num": 1447309,
-      "word": "无疫情地区原则不限制演唱会人数",
-      "onboard_time": 1668761186,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1668751709,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1026664,
+      "num": 1026664,
+      "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
+      "onboard_time": 1668762026,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 990581,
@@ -177,14 +185,6 @@
       "onboard_time": 1668756567,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 844786,
-      "num": 844786,
-      "word": "爱奇艺8月苍兰诀播出期新增用户近1亿",
-      "onboard_time": 1668762026,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 839251,
@@ -475,6 +475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 462519,
+      "num": 373699,
+      "word": "武汉14岁失踪男童父亲发声",
+      "onboard_time": 1668762207,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462282,
       "num": 462282,
       "word": "张伯礼称奥密克戎难以彻底消灭",
@@ -601,6 +609,14 @@
       "onboard_time": 1668762386,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378855,
+      "num": 378855,
+      "word": "北京朝阳区疫情防控",
+      "onboard_time": 1668763827,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365861,
@@ -771,6 +787,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 275411,
+      "num": 275411,
+      "word": "mlxg称会继续上诉RNG",
+      "onboard_time": 1668763467,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272343,
       "num": 266028,
       "word": "尹峥指甲劈了",
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243472,
-      "num": 175635,
-      "word": "武汉14岁失踪男童父亲发声",
-      "onboard_time": 1668762207,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236418,
       "num": 236418,
       "word": "张雪迎毕雯珺新剧墨白双人海报",
@@ -899,12 +915,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230653,
+      "num": 230653,
+      "word": "第一次舔冰棍的小猫",
+      "onboard_time": 1668761668,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227602,
       "num": 227602,
       "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
       "onboard_time": 1668743969,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219977,
+      "num": 219977,
+      "word": "阿根廷球星阿圭罗遇到巴西球迷",
+      "onboard_time": 1668762144,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 218861,
@@ -937,14 +969,6 @@
       "onboard_time": 1668693270,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210668,
-      "num": 210668,
-      "word": "第一次舔冰棍的小猫",
-      "onboard_time": 1668761668,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 206515,
@@ -1267,20 +1291,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155958,
-      "num": 155958,
-      "word": "阿根廷球星阿圭罗遇到巴西球迷",
-      "onboard_time": 1668762144,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151714,
       "num": 151714,
       "word": "买隐形眼镜要关注透氧量",
       "onboard_time": 1668757166,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151146,
+      "num": 151146,
+      "word": "8旬退休教师辅导孙子气到敲桌",
+      "onboard_time": 1668761248,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147503,
+      "num": 147503,
+      "word": "酥到掉渣的手工蛋卷有多绝",
+      "onboard_time": 1668763226,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145282,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 141796,
-      "num": 141796,
-      "word": "8旬退休教师辅导孙子气到敲桌",
-      "onboard_time": 1668761248,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140458,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1668734729,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136177,
+      "num": 115725,
+      "word": "六公主发的和贺峻霖对视合集",
+      "onboard_time": 1668764187,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 135491,
@@ -1547,19 +1579,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116129,
-      "num": 116129,
-      "word": "酥到掉渣的手工蛋卷有多绝",
-      "onboard_time": 1668763226,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 115552,
       "num": 115552,
       "word": "刘氏兄弟将自行承担赔偿费用",
       "onboard_time": 1668750028,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113897,
+      "num": 113897,
+      "word": "98年女孩3次世界比赛夺18个冠军",
+      "onboard_time": 1668764004,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1699,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83579,
+      "num": 999259,
+      "word": "探秘雅万高铁动车组",
+      "onboard_time": 1668762807,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 77190,
       "num": 77190,
       "word": "原来我看了这么多偶像剧啊",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1668703820,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 48831,
-      "num": 976525,
-      "word": "探秘雅万高铁动车组",
-      "onboard_time": 1668762807,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 34499,
@@ -1812,6 +1844,9 @@
     },
     {
       "word": "#2022APEC#"
+    },
+    {
+      "word": "#开放包容合作共赢才是人间正道#"
     }
   ]
 }
