@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668802932370,
+  "endTime": 1668803823647,
   "band_list": [
     {
       "raw_hot": 1494722,
@@ -451,7 +451,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 33710,
+      "raw_hot": 39335,
       "num": 33710,
       "word": "12岁男孩不慎被弓箭射中鼻梁",
       "onboard_time": 1668799393,
@@ -465,6 +465,22 @@
       "onboard_time": 1668798255,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15909,
+      "num": 15909,
+      "word": "部分电竞酒店存在未成年男女混住情况",
+      "onboard_time": 1668803231,
+      "rank": 38,
+      "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 12578,
+      "num": 12578,
+      "word": "世界杯赛程",
+      "onboard_time": 1668801132,
+      "rank": 44,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
