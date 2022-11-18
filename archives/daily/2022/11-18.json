@@ -1,6 +1,6 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668759984042,
+  "endTime": 1668760890053,
   "band_list": [
     {
       "raw_hot": 2061260,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1594044,
-      "num": 1594044,
+      "raw_hot": 1688362,
+      "num": 1688362,
       "word": "女生到底介不介意男友矮",
       "onboard_time": 1668754645,
       "rank": 19,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 654071,
+      "num": 654071,
+      "word": "王楚钦vs林钟勋",
+      "onboard_time": 1668759206,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652558,
       "num": 652558,
       "word": "重庆新增本土感染者4666例",
@@ -216,14 +224,6 @@
       "word": "林高远",
       "onboard_time": 1668698611,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 614244,
-      "num": 614244,
-      "word": "王楚钦vs林钟勋",
-      "onboard_time": 1668759206,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562074,
+      "num": 562074,
+      "word": "Viper",
+      "onboard_time": 1668756985,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 559602,
       "num": 559602,
       "word": "顾客吐槽烤全羊烤糊遭索赔2万",
@@ -281,14 +289,6 @@
       "onboard_time": 1668731910,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550196,
-      "num": 550196,
-      "word": "Viper",
-      "onboard_time": 1668756985,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 542351,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382329,
+      "num": 382329,
+      "word": "边牧跑丢5个小时溜进派出所求助",
+      "onboard_time": 1668757646,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380437,
       "num": 380437,
       "word": "暴雪游戏主播集体发声",
@@ -723,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267905,
-      "num": 267905,
-      "word": "边牧跑丢5个小时溜进派出所求助",
-      "onboard_time": 1668757646,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "朱紫",
@@ -769,6 +769,14 @@
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255302,
+      "num": 255302,
+      "word": "更换电池会提升手机的体验感吗",
+      "onboard_time": 1668758968,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 253890,
@@ -881,6 +889,14 @@
       "onboard_time": 1668693270,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211649,
+      "num": 211649,
+      "word": "林仲勋4比3王楚钦",
+      "onboard_time": 1668759927,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 206515,
@@ -1139,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161915,
+      "num": 161915,
+      "word": "寻子父亲回应任贤齐等众星发声相助",
+      "onboard_time": 1668760647,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 160681,
       "num": 153691,
       "word": "袁娅维ALin万妮达套娃宣传新歌",
@@ -1179,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153833,
-      "num": 153833,
-      "word": "更换电池会提升手机的体验感吗",
-      "onboard_time": 1668758968,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 151714,
       "num": 151714,
       "word": "买隐形眼镜要关注透氧量",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 139761,
+      "num": 133834,
+      "word": "山峥海薇情侣装",
+      "onboard_time": 1668760347,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 139321,
@@ -1328,6 +1352,14 @@
       "word": "老年痴呆症10大征兆",
       "onboard_time": 1668721932,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129660,
+      "num": 129660,
+      "word": "田曦薇李薇眼神戏",
+      "onboard_time": 1668760167,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1515,12 +1547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94180,
-      "num": 109839,
-      "word": "林仲勋4比3王楚钦",
-      "onboard_time": 1668759927,
+      "raw_hot": 93314,
+      "num": 93314,
+      "word": "小学生犯错轻拍老师胳膊求原谅",
+      "onboard_time": 1668760826,
       "rank": 49,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92965,
