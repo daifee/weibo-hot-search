@@ -1,21 +1,21 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668743691105,
+  "endTime": 1668745620519,
   "band_list": [
+    {
+      "raw_hot": 1870760,
+      "num": 879230,
+      "word": "女子发现老公手机藏初恋女友视频",
+      "onboard_time": 1668740906,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1786912,
       "num": 1786912,
       "word": "马航MH17坠机案宣判",
       "onboard_time": 1668697590,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1482561,
-      "num": 879230,
-      "word": "女子发现老公手机藏初恋女友视频",
-      "onboard_time": 1668740906,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -33,6 +33,14 @@
       "onboard_time": 1668729084,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1176765,
+      "num": 1176765,
+      "word": "迪士尼",
+      "onboard_time": 1668743248,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 1169178,
@@ -105,6 +113,14 @@
       "onboard_time": 1668696450,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721949,
+      "num": 721949,
+      "word": "李峋入狱是备孕",
+      "onboard_time": 1668744750,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 696918,
@@ -211,6 +227,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 487811,
+      "num": 487811,
+      "word": "女子称清晨在家遭无人机持续偷窥",
+      "onboard_time": 1668742891,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484525,
+      "num": 484525,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482107,
       "num": 406193,
       "word": "女子从7楼扔石膏板怼民警被刑拘",
@@ -273,6 +305,14 @@
       "onboard_time": 1668737187,
       "rank": 23,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 412196,
+      "num": 412196,
+      "word": "他被刺多刀仍拼死抵挡歹徒",
+      "onboard_time": 1668742708,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 406915,
@@ -347,14 +387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 335938,
-      "num": 335938,
-      "word": "迪士尼",
-      "onboard_time": 1668743248,
-      "rank": 16,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 315014,
       "num": 315014,
       "word": "C罗称赞梅西是伟大的球员",
@@ -369,6 +401,14 @@
       "onboard_time": 1668692247,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306538,
+      "num": 306538,
+      "word": "刘氏兄弟公开回应更改国籍",
+      "onboard_time": 1668744869,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 304276,
@@ -403,14 +443,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 269259,
-      "num": 269259,
-      "word": "卡塔尔",
-      "onboard_time": 1668741747,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "朱紫",
@@ -435,12 +467,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259845,
+      "num": 259845,
+      "word": "蜡笔小新妈妈的配音去世",
+      "onboard_time": 1668744691,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 257739,
+      "num": 111469,
+      "word": "卿卿日常为什么能火",
+      "onboard_time": 1668745589,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254168,
+      "num": 254168,
+      "word": "71岁大爷称老年婚恋就是一场交易",
+      "onboard_time": 1668744206,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253297,
@@ -457,6 +513,14 @@
       "onboard_time": 1668676588,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 247516,
+      "num": 247516,
+      "word": "上万年轻人变身植系青年",
+      "onboard_time": 1668742406,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236418,
@@ -491,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219880,
-      "num": 219880,
-      "word": "他被刺多刀仍拼死抵挡歹徒",
-      "onboard_time": 1668742708,
-      "rank": 29,
-      "category": "社会正能量"
+      "raw_hot": 227602,
+      "num": 227602,
+      "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
+      "onboard_time": 1668743969,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218861,
@@ -512,14 +576,6 @@
       "word": "12岁男孩跳只此青绿遭质疑妈妈发声",
       "onboard_time": 1668693270,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210083,
-      "num": 210083,
-      "word": "女子称清晨在家遭无人机持续偷窥",
-      "onboard_time": 1668742891,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -569,6 +625,22 @@
       "onboard_time": 1668731970,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189756,
+      "num": 189756,
+      "word": "南来北往",
+      "onboard_time": 1668744691,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187751,
+      "num": 187751,
+      "word": "白举纲李承铉新歌MV",
+      "onboard_time": 1668745229,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 184660,
@@ -683,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145282,
+      "num": 145282,
+      "word": "点燃我温暖你新剧照",
+      "onboard_time": 1668743667,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144296,
       "num": 144296,
       "word": "复刻乐高玩具涉案17亿元",
@@ -697,14 +777,6 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 138953,
-      "num": 138953,
-      "word": "上万年轻人变身植系青年",
-      "onboard_time": 1668742406,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137477,
@@ -803,6 +875,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 110700,
+      "num": 110700,
+      "word": "女子戴隐形10年角膜长满新生血管",
+      "onboard_time": 1668745531,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110396,
       "num": 110396,
       "word": "李栋旭确认出演哈尔滨",
@@ -817,6 +897,14 @@
       "onboard_time": 1668736407,
       "rank": 42,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 110170,
+      "num": 110170,
+      "word": "柯南新电影今日上映",
+      "onboard_time": 1668745468,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 107862,
@@ -841,14 +929,6 @@
       "onboard_time": 1668689845,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102536,
-      "num": 102536,
-      "word": "点燃我温暖你新剧照",
-      "onboard_time": 1668743667,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 99860,
