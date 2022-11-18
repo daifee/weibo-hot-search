@@ -1,0 +1,410 @@
+{
+  "runTime": 1668746637648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1892295,
+        "num": 1892295,
+        "word": "李峋入狱是备孕",
+        "onboard_time": 1668744750,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1165918,
+        "num": 1165918,
+        "word": "迪士尼",
+        "onboard_time": 1668743248,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15416,
+        "num": 949669,
+        "word": "3分钟了解APEC领导人非正式会议",
+        "onboard_time": 1668691646,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1720613,
+        "num": 922991,
+        "word": "女子发现老公手机藏初恋女友视频",
+        "onboard_time": 1668740906,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878565,
+        "num": 878565,
+        "word": "刘氏兄弟公开回应更改国籍",
+        "onboard_time": 1668744869,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802940,
+        "num": 802940,
+        "word": "想见你一响李子维黄雨萱上场",
+        "onboard_time": 1668737787,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 752467,
+        "num": 752467,
+        "word": "女子戴隐形10年角膜长满新生血管",
+        "onboard_time": 1668745531,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651788,
+        "num": 651788,
+        "word": "卡塔尔",
+        "onboard_time": 1668741747,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634508,
+        "num": 634508,
+        "word": "南来北往官宣白敬亭",
+        "onboard_time": 1668742708,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578318,
+        "num": 578318,
+        "word": "女子称清晨在家遭无人机持续偷窥",
+        "onboard_time": 1668742891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529009,
+        "num": 529009,
+        "word": "厄风琉斯",
+        "onboard_time": 1668739826,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 499961,
+        "num": 499961,
+        "word": "卿卿日常为什么能火",
+        "onboard_time": 1668745589,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466164,
+        "num": 466164,
+        "word": "他被刺多刀仍拼死抵挡歹徒",
+        "onboard_time": 1668742708,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 443132,
+        "num": 443132,
+        "word": "张碧晨爱的二八定律主题曲MV",
+        "onboard_time": 1668743127,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422463,
+        "num": 422463,
+        "word": "女生发现牛奶反常不料摇晃后变色",
+        "onboard_time": 1668729626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421450,
+        "num": 421450,
+        "word": "广州新增无症状感染者8989例",
+        "onboard_time": 1668733467,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390105,
+        "num": 390105,
+        "word": "伊藤美诚11比0",
+        "onboard_time": 1668729084,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382455,
+        "num": 382455,
+        "word": "马航MH17坠机案宣判",
+        "onboard_time": 1668697590,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374971,
+        "num": 374971,
+        "word": "重庆新增本土感染者4666例",
+        "onboard_time": 1668735986,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365757,
+        "num": 365757,
+        "word": "推特公司员工大规模辞职",
+        "onboard_time": 1668737187,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 357709,
+        "num": 357709,
+        "word": "王鹤棣抢镜是和沈腾学的吧",
+        "onboard_time": 1668742106,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300166,
+        "num": 300166,
+        "word": "71岁大爷称老年婚恋就是一场交易",
+        "onboard_time": 1668744206,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295968,
+        "num": 295968,
+        "word": "朱韵活成了李峋的样子",
+        "onboard_time": 1668738624,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278572,
+        "num": 278572,
+        "word": "蜡笔小新妈妈的配音去世",
+        "onboard_time": 1668744691,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 265760,
+        "num": 265760,
+        "word": "顾客吐槽烤全羊烤糊遭索赔2万",
+        "onboard_time": 1668736826,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250141,
+        "num": 250141,
+        "word": "饿了么免单",
+        "onboard_time": 1668741206,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243023,
+        "num": 243023,
+        "word": "想见你",
+        "onboard_time": 1668737426,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231227,
+        "num": 231227,
+        "word": "90后小伙辞职花光积蓄去看世界杯",
+        "onboard_time": 1668730049,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 222553,
+        "num": 222553,
+        "word": "马斯克改口称推特员工可远程办公",
+        "onboard_time": 1668739585,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 220034,
+        "num": 220034,
+        "word": "赵露思书模时期封面图",
+        "onboard_time": 1668733529,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212468,
+        "num": 212468,
+        "word": "C罗称赞梅西是伟大的球员",
+        "onboard_time": 1668739289,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205491,
+        "num": 205491,
+        "word": "上万年轻人变身植系青年",
+        "onboard_time": 1668742406,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205334,
+        "num": 205334,
+        "word": "原来真有人给地球装了空调",
+        "onboard_time": 1668734128,
+        "rank": 32,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 197469,
+        "num": 197469,
+        "word": "南来北往",
+        "onboard_time": 1668744691,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195994,
+        "num": 195994,
+        "word": "柯南新电影今日上映",
+        "onboard_time": 1668745468,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184951,
+        "num": 184951,
+        "word": "网传难哄主演张凌赫王楚然",
+        "onboard_time": 1668730708,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174797,
+        "num": 174797,
+        "word": "田曦薇说希望那是一个我喜欢也喜欢我的人",
+        "onboard_time": 1668743969,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173148,
+        "num": 173148,
+        "word": "富士康招工预报名已超10万",
+        "onboard_time": 1668733112,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167803,
+        "num": 167803,
+        "word": "白举纲李承铉新歌MV",
+        "onboard_time": 1668745229,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165726,
+        "num": 165726,
+        "word": "黑洞king",
+        "onboard_time": 1668739167,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159930,
+        "num": 159930,
+        "word": "广州警方回应2名女子手被反绑跪地",
+        "onboard_time": 1668746254,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "河道剑魔来了",
+        "onboard_time": 1668741446,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148294,
+        "num": 148294,
+        "word": "卡塔尔世界杯最贵10支球队",
+        "onboard_time": 1668731910,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146621,
+        "num": 146621,
+        "word": "世界杯",
+        "onboard_time": 1668739526,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146368,
+        "num": 146368,
+        "word": "退钱哥卡塔尔街头大秀球技",
+        "onboard_time": 1668736165,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145189,
+        "num": 145189,
+        "word": "张雪迎毕雯珺新剧墨白双人海报",
+        "onboard_time": 1668742646,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142272,
+        "num": 142272,
+        "word": "藏族父亲带4岁女儿爬山学本草纲目",
+        "onboard_time": 1668737308,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140702,
+        "num": 140702,
+        "word": "美国超100家星巴克员工罢工",
+        "onboard_time": 1668746072,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120085,
+        "num": 120085,
+        "word": "命韵峋环海报细节",
+        "onboard_time": 1668746612,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 119891,
+        "word": "国家邮政局公布快递满意度排名",
+        "onboard_time": 1668700410,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问泰国#"
+    }
+  }
+}

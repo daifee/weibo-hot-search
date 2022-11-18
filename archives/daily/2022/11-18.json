@@ -1,10 +1,18 @@
 {
   "startTime": 1668702639251,
-  "endTime": 1668745620519,
+  "endTime": 1668746637648,
   "band_list": [
     {
+      "raw_hot": 1892295,
+      "num": 1892295,
+      "word": "李峋入狱是备孕",
+      "onboard_time": 1668744750,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1870760,
-      "num": 879230,
+      "num": 922991,
       "word": "女子发现老公手机藏初恋女友视频",
       "onboard_time": 1668740906,
       "rank": 30,
@@ -75,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 878565,
+      "num": 878565,
+      "word": "刘氏兄弟公开回应更改国籍",
+      "onboard_time": 1668744869,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871750,
       "num": 871750,
       "word": "南来北往官宣白敬亭",
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721949,
-      "num": 721949,
-      "word": "李峋入狱是备孕",
-      "onboard_time": 1668744750,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 752467,
+      "num": 752467,
+      "word": "女子戴隐形10年角膜长满新生血管",
+      "onboard_time": 1668745531,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696918,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651788,
+      "num": 651788,
+      "word": "卡塔尔",
+      "onboard_time": 1668741747,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620921,
       "num": 620921,
       "word": "林高远",
@@ -153,6 +177,14 @@
       "onboard_time": 1668743127,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578318,
+      "num": 578318,
+      "word": "女子称清晨在家遭无人机持续偷窥",
+      "onboard_time": 1668742891,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573659,
@@ -219,28 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499961,
+      "num": 499961,
+      "word": "卿卿日常为什么能火",
+      "onboard_time": 1668745589,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 493671,
       "num": 493671,
       "word": "新研究发现地球可自我调节温度",
       "onboard_time": 1668722534,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 487811,
-      "num": 487811,
-      "word": "女子称清晨在家遭无人机持续偷窥",
-      "onboard_time": 1668742891,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484525,
-      "num": 484525,
-      "word": "卡塔尔",
-      "onboard_time": 1668741747,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 482107,
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466164,
+      "num": 466164,
+      "word": "他被刺多刀仍拼死抵挡歹徒",
+      "onboard_time": 1668742708,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 462282,
       "num": 462282,
       "word": "张伯礼称奥密克戎难以彻底消灭",
@@ -305,14 +337,6 @@
       "onboard_time": 1668737187,
       "rank": 23,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 412196,
-      "num": 412196,
-      "word": "他被刺多刀仍拼死抵挡歹徒",
-      "onboard_time": 1668742708,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 406915,
@@ -403,19 +427,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306538,
-      "num": 306538,
-      "word": "刘氏兄弟公开回应更改国籍",
-      "onboard_time": 1668744869,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304276,
       "num": 304276,
       "word": "广东新增无症状感染者9110例",
       "onboard_time": 1668733650,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300166,
+      "num": 300166,
+      "word": "71岁大爷称老年婚恋就是一场交易",
+      "onboard_time": 1668744206,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -433,6 +457,14 @@
       "onboard_time": 1668737308,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278572,
+      "num": 278572,
+      "word": "蜡笔小新妈妈的配音去世",
+      "onboard_time": 1668744691,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 275951,
@@ -467,36 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259845,
-      "num": 259845,
-      "word": "蜡笔小新妈妈的配音去世",
-      "onboard_time": 1668744691,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 257739,
-      "num": 111469,
-      "word": "卿卿日常为什么能火",
-      "onboard_time": 1668745589,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254168,
-      "num": 254168,
-      "word": "71岁大爷称老年婚恋就是一场交易",
-      "onboard_time": 1668744206,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253297,
@@ -611,6 +619,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197469,
+      "num": 197469,
+      "word": "南来北往",
+      "onboard_time": 1668744691,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195994,
+      "num": 195994,
+      "word": "柯南新电影今日上映",
+      "onboard_time": 1668745468,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 195633,
       "num": 195633,
       "word": "13岁少女秃顶疑似是拔毛癖",
@@ -625,14 +649,6 @@
       "onboard_time": 1668731970,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189756,
-      "num": 189756,
-      "word": "南来北往",
-      "onboard_time": 1668744691,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 187751,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159930,
+      "num": 159930,
+      "word": "广州警方回应2名女子手被反绑跪地",
+      "onboard_time": 1668746254,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
@@ -777,6 +801,14 @@
       "onboard_time": 1668683969,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 140702,
+      "num": 140702,
+      "word": "美国超100家星巴克员工罢工",
+      "onboard_time": 1668746072,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137477,
@@ -851,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120085,
+      "num": 120085,
+      "word": "命韵峋环海报细节",
+      "onboard_time": 1668746612,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119170,
       "num": 119170,
       "word": "神隐",
@@ -875,14 +915,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 110700,
-      "num": 110700,
-      "word": "女子戴隐形10年角膜长满新生血管",
-      "onboard_time": 1668745531,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110396,
       "num": 110396,
       "word": "李栋旭确认出演哈尔滨",
@@ -897,14 +929,6 @@
       "onboard_time": 1668736407,
       "rank": 42,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 110170,
-      "num": 110170,
-      "word": "柯南新电影今日上映",
-      "onboard_time": 1668745468,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 107862,
