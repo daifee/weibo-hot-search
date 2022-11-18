@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668767011962,
+  "endTime": 1668767993833,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1195,20 +1195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868220,
+      "num": 868220,
+      "word": "武汉14岁失踪男童父亲发声",
+      "onboard_time": 1668762207,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855141,
       "num": 704381,
       "word": "王鹤棣白鹿以爱为营今日开机",
       "onboard_time": 1668647788,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 854512,
-      "num": 854512,
-      "word": "武汉14岁失踪男童父亲发声",
-      "onboard_time": 1668762207,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849606,
@@ -1515,6 +1515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 730507,
+      "num": 730507,
+      "word": "32岁女子北漂10年存400万买90平房",
+      "onboard_time": 1668764786,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726367,
       "num": 726367,
       "word": "老公应酬酒喝多妻子端来热面",
@@ -1568,6 +1576,14 @@
       "word": "等李峋出狱",
       "onboard_time": 1668514711,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 708470,
+      "num": 708470,
+      "word": "法证先锋5尺度有多大",
+      "onboard_time": 1668765325,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -1731,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656631,
-      "num": 656631,
-      "word": "法证先锋5尺度有多大",
-      "onboard_time": 1668765325,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 655025,
       "num": 517157,
       "word": "学校门口买的圆珠笔暗藏真刀",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1668611789,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 619371,
-      "num": 619371,
-      "word": "32岁女子北漂10年存400万买90平房",
-      "onboard_time": 1668764786,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618692,
@@ -2315,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534823,
+      "num": 534823,
+      "word": "亚洲杯国乒男单无缘四强",
+      "onboard_time": 1668764965,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534661,
       "num": 439996,
       "word": "Lami签入原公司演员部",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1668677248,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 529921,
+      "num": 448200,
+      "word": "教育局回应网传鹤壁一女生遭霸凌",
+      "onboard_time": 1668766288,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529658,
@@ -3609,14 +3625,6 @@
       "onboard_time": 1668511291,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401405,
-      "num": 401405,
-      "word": "亚洲杯国乒男单无缘四强",
-      "onboard_time": 1668764965,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 401057,
@@ -5203,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285339,
+      "num": 285339,
+      "word": "不随意关停剧本娱乐经营场所",
+      "onboard_time": 1668765148,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285180,
       "num": 285180,
       "word": "女子吐槽商场卫生间显示坑位有多臭",
@@ -5395,6 +5411,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 274882,
+      "num": 274882,
+      "word": "98年女孩3次世界比赛夺18个冠军",
+      "onboard_time": 1668764004,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274414,
       "num": 274414,
       "word": "男子发视频吐槽烤全羊被索赔2万",
@@ -5449,6 +5473,14 @@
       "onboard_time": 1668573570,
       "rank": 41,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 271594,
+      "num": 271594,
+      "word": "北京朝阳新增71例感染者",
+      "onboard_time": 1668767067,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270266,
@@ -5835,14 +5867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249253,
-      "num": 181046,
-      "word": "教育局回应网传鹤壁一女生遭霸凌",
-      "onboard_time": 1668766288,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249190,
       "num": 156525,
       "word": "田曦薇晒live图庆热度破万",
@@ -6064,14 +6088,6 @@
       "word": "江母诉刘鑫案22日二审第二次开庭",
       "onboard_time": 1668619217,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238016,
-      "num": 238016,
-      "word": "不随意关停剧本娱乐经营场所",
-      "onboard_time": 1668765148,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -6464,14 +6480,6 @@
       "word": "赵睿最后一投引巴林男篮不满",
       "onboard_time": 1668476309,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 221379,
-      "num": 221379,
-      "word": "98年女孩3次世界比赛夺18个冠军",
-      "onboard_time": 1668764004,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -6896,6 +6904,14 @@
       "word": "点燃我温暖你今晚好虐",
       "onboard_time": 1668505710,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205254,
+      "num": 173364,
+      "word": "李薇宋舞身高差",
+      "onboard_time": 1668767548,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -7507,6 +7523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185755,
+      "num": 185755,
+      "word": "命韵峋环战歌是曾可妮唱的",
+      "onboard_time": 1668766885,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184925,
       "num": 173396,
       "word": "心疼张婧仪朱韵",
@@ -7761,6 +7785,14 @@
       "onboard_time": 1668683249,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174483,
+      "num": 164798,
+      "word": "LESSERAFIM新歌音银初舞台视频",
+      "onboard_time": 1668766949,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174325,
@@ -8235,14 +8267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159728,
-      "num": 154153,
-      "word": "命韵峋环战歌是曾可妮唱的",
-      "onboard_time": 1668766885,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159615,
       "num": 159615,
       "word": "佛祖看了都得愣一下",
@@ -8449,14 +8473,6 @@
       "onboard_time": 1668393385,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149312,
-      "num": 149312,
-      "word": "LESSERAFIM新歌音银初舞台视频",
-      "onboard_time": 1668766949,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 149232,
@@ -8955,6 +8971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137881,
+      "num": 369216,
+      "word": "原神 公子 八重神子复刻",
+      "onboard_time": 1668765626,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137753,
       "num": 137753,
       "word": "被他不经意的动作帅到了",
@@ -9041,6 +9065,14 @@
       "onboard_time": 1668582027,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "外交部回应所谓中国威胁论",
+      "onboard_time": 1668767667,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 136285,
@@ -9273,6 +9305,14 @@
       "onboard_time": 1668751226,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129610,
+      "num": 129610,
+      "word": "不组团前往高风险区旅游",
+      "onboard_time": 1668767366,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129569,
@@ -9587,6 +9627,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 118577,
+      "num": 118577,
+      "word": "完美世界回应是否接洽暴雪",
+      "onboard_time": 1668767788,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118176,
       "num": 118176,
       "word": "空间站看地球像极了青花瓷",
@@ -9801,14 +9849,6 @@
       "onboard_time": 1668679348,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110737,
-      "num": 369216,
-      "word": "原神 公子 八重神子复刻",
-      "onboard_time": 1668765626,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 110635,
