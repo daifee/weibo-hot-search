@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668832966538,
+  "endTime": 1668835123040,
   "band_list": [
     {
       "raw_hot": 1859297,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912619,
+      "num": 912619,
+      "word": "云南小伙回应撞脸周杰伦",
+      "onboard_time": 1668833008,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 864755,
       "num": 864755,
       "word": "考研成功率低于本科录取率",
@@ -75,12 +83,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754953,
+      "num": 754953,
+      "word": "滴血验癌公司创始人被判11年",
+      "onboard_time": 1668831265,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719822,
       "num": 719822,
       "word": "睡觉时猛抖一下究竟是什么原因",
       "onboard_time": 1668806472,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693871,
+      "num": 693871,
+      "word": "雷神有阿尔茨海默氏症倾向决定息影",
+      "onboard_time": 1668830546,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 644165,
+      "num": 260642,
+      "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
+      "onboard_time": 1668834148,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 622098,
@@ -105,14 +137,6 @@
       "onboard_time": 1668787468,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 598341,
-      "num": 598341,
-      "word": "雷神有阿尔茨海默氏症倾向决定息影",
-      "onboard_time": 1668830546,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 587623,
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553218,
+      "num": 553218,
+      "word": "知情人士称国产新冠口服药药店将下架",
+      "onboard_time": 1668831626,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548652,
       "num": 548652,
       "word": "江西彩礼被误解好多年",
@@ -169,6 +201,14 @@
       "onboard_time": 1668827008,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524288,
+      "num": 524288,
+      "word": "女生遭霸凌涉案人被采取刑事强制措施",
+      "onboard_time": 1668831926,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 501009,
@@ -243,20 +283,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 385671,
-      "num": 385671,
-      "word": "滴血验癌公司创始人被判11年",
-      "onboard_time": 1668831265,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381265,
       "num": 303704,
       "word": "罗晋新剧老婆被群嘲",
       "onboard_time": 1668768627,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375261,
+      "num": 375261,
+      "word": "阿兹夫定片每瓶卖到350元",
+      "onboard_time": 1668831507,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366007,
@@ -363,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289416,
+      "num": 289416,
+      "word": "电影坠落太刺激了",
+      "onboard_time": 1668833726,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284993,
       "num": 284993,
       "word": "税务师",
       "onboard_time": 1668829947,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 281406,
-      "num": 281406,
-      "word": "知情人士称国产新冠口服药药店将下架",
-      "onboard_time": 1668831626,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271922,
@@ -419,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261670,
+      "num": 261670,
+      "word": "重庆新增本土确诊145例无症状4599例",
+      "onboard_time": 1668832224,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258135,
       "num": 258135,
       "word": "宁艺卓untouchable挑战",
       "onboard_time": 1668788246,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249140,
+      "num": 249140,
+      "word": "致重庆市民的一封信",
+      "onboard_time": 1668833126,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247037,
@@ -481,14 +537,6 @@
       "onboard_time": 1668778350,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223456,
-      "num": 173511,
-      "word": "阿兹夫定片每瓶卖到350元",
-      "onboard_time": 1668831507,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222484,
@@ -555,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185287,
-      "num": 185287,
-      "word": "女生遭霸凌涉案人被采取刑事强制措施",
-      "onboard_time": 1668831926,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 182962,
       "num": 181255,
       "word": "黄晓明手写信告别中餐厅",
@@ -611,6 +651,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174364,
+      "num": 174364,
+      "word": "美貌是她们最不值一提的优点吧",
+      "onboard_time": 1668834748,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171706,
+      "num": 167399,
+      "word": "王鹤棣武大靖即兴杂技舞蹈",
+      "onboard_time": 1668834207,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170399,
       "num": 170399,
       "word": "张艺兴你好星期六比心",
@@ -641,6 +697,14 @@
       "onboard_time": 1668781891,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158521,
+      "num": 158521,
+      "word": "鹅承诺的演唱会终于开了",
+      "onboard_time": 1668833788,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 157561,
@@ -721,6 +785,30 @@
       "onboard_time": 1668827127,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "恋与闪暖联动",
+      "onboard_time": 1668834507,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143926,
+      "num": 143926,
+      "word": "男生刚染发遇下雨白短袖被染红",
+      "onboard_time": 1668833907,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143304,
+      "num": 143304,
+      "word": "李润祺连唱5首live舞台",
+      "onboard_time": 1668834866,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 143173,
@@ -867,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113840,
+      "num": 113840,
+      "word": "活塞vs湖人",
+      "onboard_time": 1668833367,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111552,
       "num": 111552,
       "word": "刘令姿说争取下月回金川",
@@ -883,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110492,
-      "num": 110492,
-      "word": "重庆新增本土确诊145例无症状4599例",
-      "onboard_time": 1668832224,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109267,
       "num": 109267,
       "word": "TES",
@@ -905,6 +993,14 @@
       "onboard_time": 1668826706,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108149,
+      "num": 108149,
+      "word": "老人顺走别人家门口快递被抓现行",
+      "onboard_time": 1668834687,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108021,

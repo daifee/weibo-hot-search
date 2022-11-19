@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 12:42:46
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 13:18:43
 </p>
 </blockquote>
 <p>
@@ -2889,6 +2889,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E5%91%A8%E6%9D%B0%E4%BC%A6%23" target="weibo">
+云南小伙回应撞脸周杰伦（热度：912619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%9D%A8%E6%B4%8B%E6%9D%A8%E9%A2%96%E5%80%AA%E5%A6%AE%E6%97%A9%E6%9C%9F%E6%A8%B1%E8%8A%B1%E5%86%99%E7%9C%9F%23" target="weibo">
 鹿晗杨洋杨颖倪妮早期樱花写真（热度：910561）
 </a>
@@ -3831,6 +3837,12 @@ Rookie发文恭喜DRX（热度：759563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E8%A1%80%E9%AA%8C%E7%99%8C%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E5%88%A411%E5%B9%B4%23" target="weibo">
+滴血验癌公司创始人被判11年（热度：754953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B3%A5%E5%85%83%E8%8B%B1%E5%A4%A7%E5%A9%9A%23" target="weibo">
 尹峥元英大婚（热度：754917）
 </a>
@@ -4247,6 +4259,12 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%A4%E5%90%8D15%E5%B2%81%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%23" target="weibo">
 成都两名15岁学生被清华录取本硕博连读（热度：695567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E7%A5%9E%E6%9C%89%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E6%B0%8F%E7%97%87%E5%80%BE%E5%90%91%E5%86%B3%E5%AE%9A%E6%81%AF%E5%BD%B1%23" target="weibo">
+雷神有阿尔茨海默氏症倾向决定息影（热度：693871）
 </a>
 </li>
 
@@ -4797,6 +4815,12 @@ hybe将明年推出泡泡（热度：657725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8E%8B%E6%A0%8E%E9%91%AB%E9%99%86%E8%99%8E%E5%BC%A0%E8%BF%9C%E5%94%B1%E6%80%9D%E5%BF%B5%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%23" target="weibo">
+陈楚生王栎鑫陆虎张远唱思念是一种病（热度：644165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E4%BA%A7%E5%90%8E%E5%81%8F%E7%98%AB%E7%AB%9F%E6%98%AF%E7%83%9F%E9%9B%BE%E7%97%85%23" target="weibo">
 95后女孩产后偏瘫竟是烟雾病（热度：644035）
 </a>
@@ -5303,12 +5327,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022LPL%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
 2022LPL全明星（热度：599160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E7%A5%9E%E6%9C%89%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E6%B0%8F%E7%97%87%E5%80%BE%E5%90%91%E5%86%B3%E5%AE%9A%E6%81%AF%E5%BD%B1%23" target="weibo">
-雷神有阿尔茨海默氏症倾向决定息影（热度：598341）
 </a>
 </li>
 
@@ -5943,6 +5961,12 @@ FPX 冰岛（热度：560995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%9B%BD%E4%BA%A7%E6%96%B0%E5%86%A0%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%8D%AF%E5%BA%97%E5%B0%86%E4%B8%8B%E6%9E%B6%23" target="weibo">
+知情人士称国产新冠口服药药店将下架（热度：553218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E6%AD%A5%E8%A1%8C40%E7%B1%B3%E5%88%B0%E5%A9%86%E5%AE%B6%E7%BB%93%E5%A9%9A%23" target="weibo">
 新娘步行40米到婆家结婚（热度：552970）
 </a>
@@ -5987,30 +6011,6 @@ FPX 冰岛（热度：560995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E5%AE%9A%E4%BD%8D%E6%98%AF%E5%85%A8%E6%B0%91%E7%88%86%E6%AC%BE%23" target="weibo">
 星汉灿烂定位是全民爆款（热度：551119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E8%B4%B510%E6%94%AF%E7%90%83%E9%98%9F%23" target="weibo">
-卡塔尔世界杯最贵10支球队（热度：550777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%85170%E4%BE%8B%23" target="weibo">
-北京新增本土感染者170例（热度：550638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E5%85%AC%E5%B8%83%23" target="weibo">
-31省人口出生率公布（热度：550609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E4%B8%AA%E4%BA%BA%E5%90%83%E6%9C%89%E7%82%B9%E4%B8%A2%E4%BA%BA1%E7%BE%A4%E4%BA%BA%E5%90%83%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%BF%86%23" target="weibo">
-1个人吃有点丢人1群人吃就是回忆（热度：550424）
 </a>
 </li>
 
