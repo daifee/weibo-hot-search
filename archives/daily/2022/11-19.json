@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668827557588,
+  "endTime": 1668828371225,
   "band_list": [
     {
       "raw_hot": 1859297,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487784,
+      "num": 335651,
+      "word": "家长罚考56分娃独上学孕狗坚持接送",
+      "onboard_time": 1668826348,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470719,
       "num": 470719,
       "word": "美国男篮不是世界第一了",
@@ -176,6 +184,14 @@
       "word": "考研比高考还难吗",
       "onboard_time": 1668785011,
       "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 381723,
+      "num": 381723,
+      "word": "专八",
+      "onboard_time": 1668827187,
+      "rank": 25,
       "category": "教育"
     },
     {
@@ -259,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289991,
-      "num": 289991,
-      "word": "家长罚考56分娃独上学孕狗坚持接送",
-      "onboard_time": 1668826348,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 287331,
+      "num": 287331,
+      "word": "刘建宏指出中国足球最大问题",
+      "onboard_time": 1668825447,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 271922,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221801,
+      "num": 221801,
+      "word": "两男子天冷嘴馋偷柴犬炖肉吃",
+      "onboard_time": 1668827008,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220706,
       "num": 220706,
       "word": "丁俊晖6比0奥沙利文",
@@ -363,11 +387,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214858,
-      "num": 214858,
-      "word": "刘建宏指出中国足球最大问题",
-      "onboard_time": 1668825447,
-      "rank": 19,
+      "raw_hot": 214708,
+      "num": 214708,
+      "word": "C罗抵达卡塔尔",
+      "onboard_time": 1668823108,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213480,
+      "num": 213480,
+      "word": "甘肃县级队领队回应淘汰北京国安",
+      "onboard_time": 1668826167,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -403,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183880,
-      "num": 183880,
-      "word": "C罗抵达卡塔尔",
-      "onboard_time": 1668823108,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182962,
       "num": 181255,
       "word": "黄晓明手写信告别中餐厅",
@@ -425,6 +449,14 @@
       "onboard_time": 1668813679,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179697,
+      "num": 179697,
+      "word": "男孩扣开关触点为外婆买蛋糕",
+      "onboard_time": 1668825566,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179499,
@@ -451,22 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174845,
-      "num": 174845,
-      "word": "专八",
-      "onboard_time": 1668827187,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 172293,
-      "num": 172293,
-      "word": "男孩扣开关触点为外婆买蛋糕",
-      "onboard_time": 1668825566,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170232,
       "num": 170232,
       "word": "王鹤棣星期六剧照",
@@ -475,12 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162250,
-      "num": 162250,
-      "word": "甘肃县级队领队回应淘汰北京国安",
-      "onboard_time": 1668826167,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 167762,
+      "num": 167762,
+      "word": "义乌一厂家每天组装4000套大力神杯",
+      "onboard_time": 1668827665,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 165595,
+      "num": 165595,
+      "word": "带着作品走红毯的明星们",
+      "onboard_time": 1668826885,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159080,
@@ -555,12 +579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "2岁娃网购买童车到货家长才发现",
+      "onboard_time": 1668827606,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143173,
       "num": 143173,
       "word": "文星伊跳twit",
       "onboard_time": 1668822506,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142776,
+      "num": 142776,
+      "word": "卿卿日常首周开播战报",
+      "onboard_time": 1668827788,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 142217,
@@ -587,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135799,
-      "num": 135799,
-      "word": "带着作品走红毯的明星们",
-      "onboard_time": 1668826885,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 135320,
+      "num": 135320,
+      "word": "应急管理局回应比亚迪惠州工厂着火",
+      "onboard_time": 1668823587,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 133371,
@@ -603,14 +643,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 132475,
-      "num": 132475,
-      "word": "两男子天冷嘴馋偷柴犬炖肉吃",
-      "onboard_time": 1668827008,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "12岁男孩不慎被弓箭射中鼻梁",
@@ -619,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130856,
-      "num": 130856,
-      "word": "应急管理局回应比亚迪惠州工厂着火",
-      "onboard_time": 1668823587,
-      "rank": 46,
-      "category": "社会负面"
+      "raw_hot": 130112,
+      "num": 130112,
+      "word": "暧昧期过长是什么体验",
+      "onboard_time": 1668827966,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 128156,
@@ -737,6 +769,14 @@
       "onboard_time": 1668771507,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105346,
+      "num": 105346,
+      "word": "尼克斯vs勇士",
+      "onboard_time": 1668828267,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101785,
