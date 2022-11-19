@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668831959952,
+  "endTime": 1668832966538,
   "band_list": [
     {
       "raw_hot": 1859297,
@@ -91,12 +91,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 615982,
+      "num": 615982,
+      "word": "柯南全员婚礼造型",
+      "onboard_time": 1668828447,
+      "rank": 8,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 610617,
       "num": 610617,
       "word": "女生一个人住民宿有多危险",
       "onboard_time": 1668787468,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598341,
+      "num": 598341,
+      "word": "雷神有阿尔茨海默氏症倾向决定息影",
+      "onboard_time": 1668830546,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 587623,
@@ -131,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 562769,
-      "num": 562769,
-      "word": "柯南全员婚礼造型",
-      "onboard_time": 1668828447,
-      "rank": 8,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 555955,
       "num": 555955,
       "word": "你好星期六全员组队嗨唱",
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544043,
-      "num": 376006,
-      "word": "雷神有阿尔茨海默氏症倾向决定息影",
-      "onboard_time": 1668830546,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 501009,
+      "num": 501009,
+      "word": "中南大学一寝室4人全员保研名校",
+      "onboard_time": 1668828567,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 497540,
@@ -211,14 +219,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 454533,
-      "num": 454533,
-      "word": "中南大学一寝室4人全员保研名校",
-      "onboard_time": 1668828567,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 408935,
       "num": 408935,
       "word": "赵又廷毛晓彤赤子之心杀青照",
@@ -241,6 +241,14 @@
       "onboard_time": 1668785011,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 385671,
+      "num": 385671,
+      "word": "滴血验癌公司创始人被判11年",
+      "onboard_time": 1668831265,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381265,
@@ -275,6 +283,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 338160,
+      "num": 338160,
+      "word": "甘肃县级队领队回应淘汰北京国安",
+      "onboard_time": 1668826167,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338085,
       "num": 338085,
       "word": "义乌一厂家每天组装4000套大力神杯",
@@ -297,14 +313,6 @@
       "onboard_time": 1668778589,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327600,
-      "num": 327600,
-      "word": "甘肃县级队领队回应淘汰北京国安",
-      "onboard_time": 1668826167,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 317922,
@@ -363,6 +371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 281406,
+      "num": 281406,
+      "word": "知情人士称国产新冠口服药药店将下架",
+      "onboard_time": 1668831626,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271922,
       "num": 271922,
       "word": "男子称母亲网购10卷纸收到却变1卷",
@@ -377,6 +393,14 @@
       "onboard_time": 1668816446,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 270450,
+      "num": 270450,
+      "word": "张婧仪彩虹屁夸陈飞宇",
+      "onboard_time": 1668832046,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 268306,
@@ -409,6 +433,14 @@
       "onboard_time": 1668771088,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246192,
+      "num": 246192,
+      "word": "LESSERAFIM新歌舞蹈接力视频",
+      "onboard_time": 1668832648,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 238121,
@@ -449,6 +481,14 @@
       "onboard_time": 1668778350,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223456,
+      "num": 173511,
+      "word": "阿兹夫定片每瓶卖到350元",
+      "onboard_time": 1668831507,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222484,
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185287,
+      "num": 185287,
+      "word": "女生遭霸凌涉案人被采取刑事强制措施",
+      "onboard_time": 1668831926,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 182962,
       "num": 181255,
       "word": "黄晓明手写信告别中餐厅",
@@ -563,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170399,
+      "num": 170399,
+      "word": "张艺兴你好星期六比心",
+      "onboard_time": 1668830968,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170232,
       "num": 170232,
       "word": "王鹤棣星期六剧照",
@@ -571,28 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168741,
-      "num": 168741,
-      "word": "滴血验癌公司创始人被判11年",
-      "onboard_time": 1668831265,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167231,
       "num": 167231,
       "word": "带着作品走红毯的明星们",
       "onboard_time": 1668826885,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163883,
-      "num": 163883,
-      "word": "张艺兴你好星期六比心",
-      "onboard_time": 1668830968,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 159080,
@@ -625,6 +665,14 @@
       "onboard_time": 1668815064,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154059,
+      "num": 154059,
+      "word": "章若楠电影抚慰了抑郁症粉丝",
+      "onboard_time": 1668832408,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150391,
@@ -779,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122334,
+      "num": 119546,
+      "word": "房东的猫成立九周年",
+      "onboard_time": 1668832046,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "赵丽颖林更新与凤行雨中撑伞路透",
       "onboard_time": 1668810854,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119976,
+      "num": 119212,
+      "word": "欧阳娜娜上海游vlog",
+      "onboard_time": 1668832528,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115443,
@@ -803,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111642,
-      "num": 111642,
-      "word": "知情人士称国产新冠口服药药店将下架",
-      "onboard_time": 1668831626,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111552,
       "num": 111552,
       "word": "刘令姿说争取下月回金川",
@@ -825,6 +881,14 @@
       "onboard_time": 1668778828,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110492,
+      "num": 110492,
+      "word": "重庆新增本土确诊145例无症状4599例",
+      "onboard_time": 1668832224,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109267,
@@ -875,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104093,
-      "num": 104093,
-      "word": "阿兹夫定片每瓶卖到350元",
-      "onboard_time": 1668831507,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "男孩文具店换现金被老板婉拒",
@@ -931,12 +987,12 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 93238,
-      "num": 93238,
-      "word": "女生遭霸凌涉案人被采取刑事强制措施",
-      "onboard_time": 1668831926,
+      "raw_hot": 87803,
+      "num": 87803,
+      "word": "被世界杯主题曲洗脑了",
+      "onboard_time": 1668832947,
       "rank": 49,
-      "category": "社会负面"
+      "category": "体育"
     },
     {
       "raw_hot": 86605,
