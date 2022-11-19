@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668850541461,
+  "endTime": 1668853307670,
   "band_list": [
     {
       "raw_hot": 3136297,
@@ -25,6 +25,14 @@
       "onboard_time": 1668823049,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1814616,
+      "num": 324114,
+      "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
+      "onboard_time": 1668852327,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1781082,
@@ -57,6 +65,14 @@
       "onboard_time": 1668782670,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1399119,
+      "num": 1399119,
+      "word": "女生卖热奶宝7元1个15元俩",
+      "onboard_time": 1668849208,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1390938,
@@ -203,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674189,
+      "num": 674189,
+      "word": "暴雪中国最新发声",
+      "onboard_time": 1668850346,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 644165,
       "num": 260642,
       "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
@@ -241,14 +265,6 @@
       "onboard_time": 1668828447,
       "rank": 8,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 610765,
-      "num": 403126,
-      "word": "女生卖热奶宝7元1个15元俩",
-      "onboard_time": 1668849208,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610617,
@@ -579,6 +595,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325192,
+      "num": 325192,
+      "word": "衡水中学启动教学改革破除超限内卷",
+      "onboard_time": 1668849567,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 320961,
+      "num": 320961,
+      "word": "周杰伦官宣世界杯彩蛋",
+      "onboard_time": 1668852627,
+      "rank": 13,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 318787,
+      "num": 318787,
+      "word": "网传陈飞宇张婧仪会合体录制番外",
+      "onboard_time": 1668851188,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317922,
       "num": 317922,
       "word": "刘建宏指出中国足球最大问题",
@@ -657,6 +697,14 @@
       "onboard_time": 1668829947,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 284811,
+      "num": 284811,
+      "word": "霍华德 首秀",
+      "onboard_time": 1668851787,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 284230,
@@ -819,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225022,
+      "num": 134152,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1668850528,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224501,
       "num": 224501,
       "word": "陈飞宇为角色找哥哥借编程书",
@@ -931,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182499,
+      "num": 182499,
+      "word": "北京召开第418场疫情防控新闻发布会",
+      "onboard_time": 1668851015,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181507,
       "num": 181507,
       "word": "原神",
@@ -995,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176428,
+      "num": 176428,
+      "word": "张本智和4比1庄智渊",
+      "onboard_time": 1668849689,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171706,
       "num": 167399,
       "word": "王鹤棣武大靖即兴杂技舞蹈",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1668826885,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165348,
+      "num": 165348,
+      "word": "动物园称将团团遗体作为标本保留",
+      "onboard_time": 1668849987,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162201,
@@ -1203,12 +1283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140324,
+      "num": 140324,
+      "word": "边牧与哈士奇的区别",
+      "onboard_time": 1668848008,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 139348,
       "num": 104693,
       "word": "世界杯主题曲",
       "onboard_time": 1668841407,
       "rank": 40,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 139102,
+      "num": 139102,
+      "word": "社恐还没有一条狗认识的人多",
+      "onboard_time": 1668851248,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 139009,
@@ -1243,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136284,
-      "num": 136284,
-      "word": "暴雪中国最新发声",
-      "onboard_time": 1668850346,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135577,
       "num": 135577,
       "word": "活塞vs湖人",
@@ -1265,14 +1353,6 @@
       "onboard_time": 1668823587,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 134579,
-      "num": 111061,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1668850528,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 133584,
@@ -1307,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130858,
-      "num": 130858,
-      "word": "张本智和4比1庄智渊",
-      "onboard_time": 1668849689,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128160,
       "num": 128160,
       "word": "00后女生用漫画寻回宠物猫",
@@ -1347,20 +1419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125676,
-      "num": 125676,
-      "word": "动物园称将团团遗体作为标本保留",
-      "onboard_time": 1668849987,
-      "rank": 38,
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
+      "onboard_time": 1668848187,
+      "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125572,
-      "num": 125572,
-      "word": "边牧与哈士奇的区别",
-      "onboard_time": 1668848008,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 125037,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1668780449,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122754,
-      "num": 122754,
-      "word": "衡水中学启动教学改革破除超限内卷",
-      "onboard_time": 1668849567,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 122512,
@@ -1449,14 +1505,6 @@
       "onboard_time": 1668845787,
       "rank": 42,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 116566,
-      "num": 116566,
-      "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
-      "onboard_time": 1668848187,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115443,
@@ -1547,12 +1595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105299,
+      "num": 105299,
+      "word": "教小孩学会尊重真的很重要",
+      "onboard_time": 1668852809,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "男孩文具店换现金被老板婉拒",
       "onboard_time": 1668779668,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98265,
+      "num": 98265,
+      "word": "越狱失败还被抱住的小猫",
+      "onboard_time": 1668852928,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 98131,
@@ -1617,6 +1681,14 @@
       "onboard_time": 1668838408,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90024,
+      "num": 90024,
+      "word": "班主任给44人每人奖励1根甘蔗",
+      "onboard_time": 1668853227,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 87803,
