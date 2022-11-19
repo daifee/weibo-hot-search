@@ -1,7 +1,23 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668836129977,
+  "endTime": 1668839160648,
   "band_list": [
+    {
+      "raw_hot": 3006503,
+      "num": 3006503,
+      "word": "大熊猫团团不幸离世",
+      "onboard_time": 1668837266,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2006829,
+      "num": 2006829,
+      "word": "柯南自曝想娶小兰",
+      "onboard_time": 1668835708,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
     {
       "raw_hot": 1859297,
       "num": 1859297,
@@ -41,6 +57,14 @@
       "onboard_time": 1668814701,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161786,
+      "num": 1161786,
+      "word": "柯南删吻戏",
+      "onboard_time": 1668835888,
+      "rank": 22,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 1122845,
@@ -115,20 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 684388,
-      "num": 684388,
-      "word": "柯南自曝想娶小兰",
-      "onboard_time": 1668835708,
-      "rank": 5,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 644165,
       "num": 260642,
       "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
       "onboard_time": 1668834148,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 636024,
+      "num": 402578,
+      "word": "王鹤棣改眉毛",
+      "onboard_time": 1668838587,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 622098,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477635,
+      "num": 477635,
+      "word": "致重庆市民的一封信",
+      "onboard_time": 1668833126,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470719,
       "num": 470719,
       "word": "美国男篮不是世界第一了",
@@ -273,6 +305,14 @@
       "onboard_time": 1668819508,
       "rank": 9,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 422332,
+      "num": 422332,
+      "word": "女生辞职到卡塔尔看梅西最后一届世界杯",
+      "onboard_time": 1668836246,
+      "rank": 8,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 408935,
@@ -339,14 +379,6 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 340529,
-      "num": 340529,
-      "word": "致重庆市民的一封信",
-      "onboard_time": 1668833126,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338160,
       "num": 338160,
       "word": "甘肃县级队领队回应淘汰北京国安",
@@ -409,6 +441,14 @@
       "onboard_time": 1668788664,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306349,
+      "num": 306349,
+      "word": "美貌是她们最不值一提的优点吧",
+      "onboard_time": 1668834748,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305960,
@@ -499,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253266,
+      "num": 253266,
+      "word": "男生刚染发遇下雨白短袖被染红",
+      "onboard_time": 1668833907,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247037,
       "num": 247037,
       "word": "FPX 冰岛",
@@ -513,6 +561,14 @@
       "onboard_time": 1668832648,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241187,
+      "num": 241187,
+      "word": "齐达内称巴西是夺冠大热",
+      "onboard_time": 1668835647,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 238121,
@@ -531,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231076,
-      "num": 231076,
-      "word": "美貌是她们最不值一提的优点吧",
-      "onboard_time": 1668834748,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 228454,
+      "num": 228454,
+      "word": "老人顺走别人家门口快递被抓现行",
+      "onboard_time": 1668834687,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226805,
@@ -603,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208902,
-      "num": 208902,
-      "word": "柯南删吻戏",
-      "onboard_time": 1668835888,
-      "rank": 22,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 208542,
       "num": 208542,
       "word": "为什么越来越难喜欢上一个人",
@@ -625,6 +673,22 @@
       "onboard_time": 1668816804,
       "rank": 21,
       "category": "自然"
+    },
+    {
+      "raw_hot": 207904,
+      "num": 207904,
+      "word": "陈飞宇片场被吓到表情包",
+      "onboard_time": 1668836846,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199206,
+      "num": 199206,
+      "word": "盛一伦新剧古装",
+      "onboard_time": 1668836368,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 195283,
@@ -707,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167617,
+      "num": 167617,
+      "word": "大妈不戴口罩穿鞋踩腌制酸菜土坑",
+      "onboard_time": 1668836606,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167231,
       "num": 167231,
       "word": "带着作品走红毯的明星们",
       "onboard_time": 1668826885,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161410,
-      "num": 143926,
-      "word": "男生刚染发遇下雨白短袖被染红",
-      "onboard_time": 1668833907,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159080,
@@ -777,6 +841,22 @@
       "onboard_time": 1668832408,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153159,
+      "num": 153159,
+      "word": "原来狗狗也怕医生",
+      "onboard_time": 1668837447,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "罗一舟演话剧10秒切换3种情绪",
+      "onboard_time": 1668838167,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 150391,
@@ -875,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136137,
-      "num": 136137,
-      "word": "老人顺走别人家门口快递被抓现行",
-      "onboard_time": 1668834687,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 135577,
+      "num": 135577,
+      "word": "活塞vs湖人",
+      "onboard_time": 1668833367,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135320,
@@ -987,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113840,
-      "num": 113840,
-      "word": "活塞vs湖人",
-      "onboard_time": 1668833367,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111552,
       "num": 111552,
       "word": "刘令姿说争取下月回金川",
@@ -1003,12 +1075,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111481,
+      "num": 111481,
+      "word": "王艺迪4比1早田希娜",
+      "onboard_time": 1668838408,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111216,
+      "num": 111216,
+      "word": "檀健次说汪东城一起来嗨",
+      "onboard_time": 1668838587,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110967,
       "num": 106361,
       "word": "田曦薇说拍卿卿日常很开心",
       "onboard_time": 1668778828,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109372,
+      "num": 109372,
+      "word": "女子称饭店被4男子暴力催收卫生费",
+      "onboard_time": 1668838708,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 109267,
@@ -1059,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101909,
+      "num": 101909,
+      "word": "这猫咪上辈子是修车的吧",
+      "onboard_time": 1668838826,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "男孩文具店换现金被老板婉拒",
@@ -1107,19 +1211,19 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 90352,
+      "num": 90352,
+      "word": "勇士战胜尼克斯",
+      "onboard_time": 1668838408,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87803,
       "num": 87803,
       "word": "被世界杯主题曲洗脑了",
       "onboard_time": 1668832947,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86851,
-      "num": 86851,
-      "word": "齐达内称巴西是夺冠大热",
-      "onboard_time": 1668835647,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1156,7 +1260,7 @@
     },
     {
       "raw_hot": 75953,
-      "num": 944568,
+      "num": 1318127,
       "word": "那些被平凡暖意感动的瞬间",
       "onboard_time": 1668777988,
       "rank": 2,

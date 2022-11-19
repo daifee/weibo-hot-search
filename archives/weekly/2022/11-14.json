@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668836129977,
+  "endTime": 1668839160648,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -57,6 +57,14 @@
       "onboard_time": 1668653366,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3006503,
+      "num": 3006503,
+      "word": "大熊猫团团不幸离世",
+      "onboard_time": 1668837266,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2567263,
@@ -177,6 +185,14 @@
       "onboard_time": 1668406889,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2006829,
+      "num": 2006829,
+      "word": "柯南自曝想娶小兰",
+      "onboard_time": 1668835708,
+      "rank": 5,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 1965522,
@@ -729,6 +745,14 @@
       "onboard_time": 1668600091,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1161786,
+      "num": 1161786,
+      "word": "柯南删吻戏",
+      "onboard_time": 1668835888,
+      "rank": 22,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 1160847,
@@ -1851,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684388,
-      "num": 684388,
-      "word": "柯南自曝想娶小兰",
-      "onboard_time": 1668835708,
-      "rank": 5,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 683542,
       "num": 661872,
       "word": "芭莎工作人员说沈腾真没咋P图",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1668668605,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636024,
+      "num": 402578,
+      "word": "王鹤棣改眉毛",
+      "onboard_time": 1668838587,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 632907,
@@ -3291,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477635,
+      "num": 477635,
+      "word": "致重庆市民的一封信",
+      "onboard_time": 1668833126,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477409,
       "num": 477409,
       "word": "想拿影帝坐袁弘前面",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1668415108,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 422332,
+      "num": 422332,
+      "word": "女生辞职到卡塔尔看梅西最后一届世界杯",
+      "onboard_time": 1668836246,
+      "rank": 8,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 421885,
@@ -4963,14 +5003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 340529,
-      "num": 340529,
-      "word": "致重庆市民的一封信",
-      "onboard_time": 1668833126,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340114,
       "num": 340114,
       "word": "林仲勋4比3王楚钦",
@@ -5601,6 +5633,14 @@
       "onboard_time": 1668505470,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306349,
+      "num": 306349,
+      "word": "美貌是她们最不值一提的优点吧",
+      "onboard_time": 1668834748,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305960,
@@ -6555,6 +6595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253266,
+      "num": 253266,
+      "word": "男生刚染发遇下雨白短袖被染红",
+      "onboard_time": 1668833907,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252215,
       "num": 252215,
       "word": "跨省旅游经营活动不再与风险区实施联动管理",
@@ -6785,6 +6833,14 @@
       "onboard_time": 1668345268,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241187,
+      "num": 241187,
+      "word": "齐达内称巴西是夺冠大热",
+      "onboard_time": 1668835647,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 240312,
@@ -7043,14 +7099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231076,
-      "num": 231076,
-      "word": "美貌是她们最不值一提的优点吧",
-      "onboard_time": 1668834748,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 231072,
       "num": 231072,
       "word": "重庆九龙坡通报网传孕妇送医延误情况",
@@ -7145,6 +7193,14 @@
       "onboard_time": 1668684868,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228454,
+      "num": 228454,
+      "word": "老人顺走别人家门口快递被抓现行",
+      "onboard_time": 1668834687,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228141,
@@ -7699,14 +7755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208902,
-      "num": 208902,
-      "word": "柯南删吻戏",
-      "onboard_time": 1668835888,
-      "rank": 22,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
@@ -7721,6 +7769,14 @@
       "onboard_time": 1668816804,
       "rank": 21,
       "category": "自然"
+    },
+    {
+      "raw_hot": 207904,
+      "num": 207904,
+      "word": "陈飞宇片场被吓到表情包",
+      "onboard_time": 1668836846,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 207716,
@@ -8049,6 +8105,14 @@
       "onboard_time": 1668554423,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199206,
+      "num": 199206,
+      "word": "盛一伦新剧古装",
+      "onboard_time": 1668836368,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 198447,
@@ -9003,6 +9067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167617,
+      "num": 167617,
+      "word": "大妈不戴口罩穿鞋踩腌制酸菜土坑",
+      "onboard_time": 1668836606,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167312,
       "num": 167312,
       "word": "张艺兴面纱MV彩蛋",
@@ -9233,14 +9305,6 @@
       "onboard_time": 1668384508,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161410,
-      "num": 143926,
-      "word": "男生刚染发遇下雨白短袖被染红",
-      "onboard_time": 1668833907,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161384,
@@ -9555,6 +9619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153159,
+      "num": 153159,
+      "word": "原来狗狗也怕医生",
+      "onboard_time": 1668837447,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153130,
       "num": 153130,
       "word": "经常不吃早饭可能诱发胆囊炎",
@@ -9569,6 +9641,14 @@
       "onboard_time": 1668339268,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "罗一舟演话剧10秒切换3种情绪",
+      "onboard_time": 1668838167,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 151714,
@@ -10363,14 +10443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136137,
-      "num": 136137,
-      "word": "老人顺走别人家门口快递被抓现行",
-      "onboard_time": 1668834687,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135944,
       "num": 135944,
       "word": "张震岳回应被错认成热狗",
@@ -10393,6 +10465,14 @@
       "onboard_time": 1668491489,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135577,
+      "num": 135577,
+      "word": "活塞vs湖人",
+      "onboard_time": 1668833367,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135491,
@@ -11195,14 +11275,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 113840,
-      "num": 113840,
-      "word": "活塞vs湖人",
-      "onboard_time": 1668833367,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113804,
       "num": 113804,
       "word": "日本沙雕冰淇淋广告能有多好笑",
@@ -11283,6 +11355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111481,
+      "num": 111481,
+      "word": "王艺迪4比1早田希娜",
+      "onboard_time": 1668838408,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111266,
       "num": 111266,
       "word": "人类幼崽的耐心程度",
@@ -11297,6 +11377,14 @@
       "onboard_time": 1668679348,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111216,
+      "num": 111216,
+      "word": "檀健次说汪东城一起来嗨",
+      "onboard_time": 1668838587,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110635,
@@ -11409,6 +11497,14 @@
       "onboard_time": 1668359539,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109372,
+      "num": 109372,
+      "word": "女子称饭店被4男子暴力催收卫生费",
+      "onboard_time": 1668838708,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 109350,
@@ -11564,7 +11660,7 @@
     },
     {
       "raw_hot": 105418,
-      "num": 944568,
+      "num": 1318127,
       "word": "那些被平凡暖意感动的瞬间",
       "onboard_time": 1668777988,
       "rank": 2,
@@ -11657,6 +11753,14 @@
       "onboard_time": 1668521428,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101909,
+      "num": 101909,
+      "word": "这猫咪上辈子是修车的吧",
+      "onboard_time": 1668838826,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 101792,
@@ -11955,6 +12059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90352,
+      "num": 90352,
+      "word": "勇士战胜尼克斯",
+      "onboard_time": 1668838408,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90007,
       "num": 90007,
       "word": "杨洋电影援军明日到达骑马路透",
@@ -12000,14 +12112,6 @@
       "word": "被世界杯主题曲洗脑了",
       "onboard_time": 1668832947,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86851,
-      "num": 86851,
-      "word": "齐达内称巴西是夺冠大热",
-      "onboard_time": 1668835647,
-      "rank": 45,
       "category": "体育"
     },
     {
