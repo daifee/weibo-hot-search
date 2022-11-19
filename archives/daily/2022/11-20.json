@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668890174583,
+  "endTime": 1668892676341,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -476,10 +476,34 @@
     },
     {
       "raw_hot": 26064,
-      "num": 18618,
+      "num": 22007,
       "word": "津秦高铁行车中断",
       "onboard_time": 1668886631,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22917,
+      "num": 15963,
+      "word": "世界杯离美军基地只有20多公里",
+      "onboard_time": 1668891432,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 19383,
+      "num": 19383,
+      "word": "剧组拍摄后未清干净人造雪惹怒商户",
+      "onboard_time": 1668891012,
+      "rank": 24,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 13155,
+      "num": 13155,
+      "word": "西安一医院ICU门口设陪护睡眠仓",
+      "onboard_time": 1668892152,
+      "rank": 45,
       "category": "社会新闻"
     }
   ],
