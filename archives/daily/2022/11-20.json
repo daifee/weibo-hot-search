@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668882316147,
+  "endTime": 1668883233201,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438201,
+      "num": 370153,
+      "word": "男子当街暴打边牧还跳起双脚踩头",
+      "onboard_time": 1668878958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401359,
       "num": 166458,
       "word": "王一栩评论TF家族三代版诀爱",
       "onboard_time": 1668873090,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370153,
-      "num": 370153,
-      "word": "男子当街暴打边牧还跳起双脚踩头",
-      "onboard_time": 1668878958,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363119,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55628,
+      "num": 36923,
+      "word": "你有坚持了十年的事情吗",
+      "onboard_time": 1668881176,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49665,
       "num": 91581,
       "word": "北京堂食",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44087,
-      "num": 34833,
-      "word": "你有坚持了十年的事情吗",
-      "onboard_time": 1668881176,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 44591,
+      "num": 44591,
+      "word": "女子6200元变卖闺蜜手机报警称被抢",
+      "onboard_time": 1668882316,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32047,

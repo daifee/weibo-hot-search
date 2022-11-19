@@ -1,0 +1,410 @@
+{
+  "runTime": 1668883233201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376180,
+        "num": 376180,
+        "word": "王冰冰更博了",
+        "onboard_time": 1668867276,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368061,
+        "num": 368061,
+        "word": "鹿晗回来内娱开门",
+        "onboard_time": 1668865109,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11626,
+        "num": 305101,
+        "word": "高清回顾神十四第3次出舱任务",
+        "onboard_time": 1668863912,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 438201,
+        "num": 304605,
+        "word": "男子当街暴打边牧还跳起双脚踩头",
+        "onboard_time": 1668878958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299936,
+        "num": 299936,
+        "word": "重庆市民可免费观看世界杯",
+        "onboard_time": 1668873090,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 106488,
+        "num": 106488,
+        "word": "女子认为被全家嫌弃带儿子跳河",
+        "onboard_time": 1668870453,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 97934,
+        "num": 97934,
+        "word": "晴天yyds",
+        "onboard_time": 1668870993,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85297,
+        "num": 85297,
+        "word": "女生卖热奶宝7元1个15元俩",
+        "onboard_time": 1668849208,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73874,
+        "num": 73874,
+        "word": "成都马拉松",
+        "onboard_time": 1668872612,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72829,
+        "num": 72829,
+        "word": "世界杯预言家已上线",
+        "onboard_time": 1668876443,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298419,
+        "num": 71610,
+        "word": "痞幼和陈飞宇合拍视频",
+        "onboard_time": 1668867452,
+        "rank": 10,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 100702,
+        "num": 71027,
+        "word": "女子攒20年硬币欲买房",
+        "onboard_time": 1668877040,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69540,
+        "num": 69540,
+        "word": "王鹤棣被何炅占便宜了",
+        "onboard_time": 1668875006,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68837,
+        "num": 68837,
+        "word": "秦施暴击阳华",
+        "onboard_time": 1668874887,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68212,
+        "num": 68212,
+        "word": "13岁女孩每天1杯奶茶患糖尿病",
+        "onboard_time": 1668860429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67173,
+        "num": 67173,
+        "word": "北京朝阳说希望明天大家继续宅一宅",
+        "onboard_time": 1668853826,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66791,
+        "num": 66791,
+        "word": "大学生已经开始过年了",
+        "onboard_time": 1668864929,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57834,
+        "num": 57834,
+        "word": "热奶宝",
+        "onboard_time": 1668854487,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49569,
+        "num": 49569,
+        "word": "新冠口服药被要求即刻下架",
+        "onboard_time": 1668846266,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64363,
+        "num": 49360,
+        "word": "最近的广州大学生",
+        "onboard_time": 1668863190,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208693,
+        "num": 48580,
+        "word": "华晨宇 假发",
+        "onboard_time": 1668863490,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66902,
+        "num": 48080,
+        "word": "赵丽颖黄磊为张艺兴打call",
+        "onboard_time": 1668869672,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58777,
+        "num": 47177,
+        "word": "无尽夏",
+        "onboard_time": 1668870813,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 58312,
+        "num": 46720,
+        "word": "周杰伦哥友会",
+        "onboard_time": 1668858447,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46550,
+        "num": 46550,
+        "word": "卡塔尔民众点赞中国大巴",
+        "onboard_time": 1668866432,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44591,
+        "num": 44591,
+        "word": "女子6200元变卖闺蜜手机报警称被抢",
+        "onboard_time": 1668882316,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40047,
+        "num": 40047,
+        "word": "官方回应合肥步行街现尸体",
+        "onboard_time": 1668841465,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 37992,
+        "num": 37992,
+        "word": "女子称荒地露营1天内被村民收费4次",
+        "onboard_time": 1668856410,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37040,
+        "num": 37040,
+        "word": "慢热和不喜欢的区别是什么",
+        "onboard_time": 1668859589,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34522,
+        "num": 37016,
+        "word": "国台办称对团团病逝感到痛心和惋惜",
+        "onboard_time": 1668869430,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56548,
+        "num": 36990,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1668850528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55628,
+        "num": 36923,
+        "word": "你有坚持了十年的事情吗",
+        "onboard_time": 1668881176,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51237,
+        "num": 36885,
+        "word": "王一栩评论TF家族三代版诀爱",
+        "onboard_time": 1668873090,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50432,
+        "num": 36846,
+        "word": "今晚真的爷青回",
+        "onboard_time": 1668869493,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50396,
+        "num": 36787,
+        "word": "羡慕王勉",
+        "onboard_time": 1668863850,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36774,
+        "num": 36774,
+        "word": "护士成功从冒烟微波炉掏出红薯炸弹",
+        "onboard_time": 1668867817,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36529,
+        "num": 36529,
+        "word": "KPL",
+        "onboard_time": 1668868892,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34033,
+        "num": 34033,
+        "word": "哪家手机系统广告多",
+        "onboard_time": 1668858691,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 33442,
+        "num": 33442,
+        "word": "被传白天救狗晚上卖狗当事人发声",
+        "onboard_time": 1668859293,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31989,
+        "num": 31989,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1668856890,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45202,
+        "num": 31525,
+        "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
+        "onboard_time": 1668852327,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30560,
+        "num": 30560,
+        "word": "猫猫教的入教仪式",
+        "onboard_time": 1668872013,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30445,
+        "num": 30445,
+        "word": "北京新增56例社会面感染者",
+        "onboard_time": 1668861149,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29281,
+        "num": 29281,
+        "word": "男生买鸡公煲商家忘放鸡肉闹乌龙",
+        "onboard_time": 1668856648,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28198,
+        "num": 28198,
+        "word": "竟然被一只猫咪鄙视了",
+        "onboard_time": 1668869912,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25244,
+        "num": 25244,
+        "word": "北京多家商场目前暂停堂食服务",
+        "onboard_time": 1668865295,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25106,
+        "num": 25106,
+        "word": "2022斯诺克英锦赛",
+        "onboard_time": 1668874767,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25016,
+        "num": 25016,
+        "word": "霍华德38分25篮板",
+        "onboard_time": 1668858447,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23726,
+        "num": 24959,
+        "word": "你还有随时可以打扰的人吗",
+        "onboard_time": 1668862708,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19164,
+        "num": 24852,
+        "word": "龙傲天ber丝地瓜",
+        "onboard_time": 1668862410,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国方案续写亚太奇迹#"
+    }
+  }
+}
