@@ -1,0 +1,410 @@
+{
+  "runTime": 1668854302005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1579617,
+        "num": 1579617,
+        "word": "女生卖热奶宝7元1个15元俩",
+        "onboard_time": 1668849208,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992399,
+        "num": 992399,
+        "word": "新冠口服药被要求即刻下架",
+        "onboard_time": 1668846266,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98428,
+        "num": 902072,
+        "word": "太空视角版黄河入海流",
+        "onboard_time": 1668848246,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1194486,
+        "num": 900306,
+        "word": "女子怀孕被嫌事多老公放言不要孩子",
+        "onboard_time": 1668843086,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858822,
+        "num": 858822,
+        "word": "央视频之夜阵容官宣王冰冰",
+        "onboard_time": 1668844409,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781464,
+        "num": 781464,
+        "word": "大熊猫团团不幸离世",
+        "onboard_time": 1668837266,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715595,
+        "num": 715595,
+        "word": "暴雪中国最新发声",
+        "onboard_time": 1668850346,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 583149,
+        "num": 583149,
+        "word": "柯南自曝想娶小兰",
+        "onboard_time": 1668835708,
+        "rank": 7,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 500507,
+        "num": 500507,
+        "word": "宋仲基财阀家的小儿子开播",
+        "onboard_time": 1668848126,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378354,
+        "num": 378354,
+        "word": "霍华德 首秀",
+        "onboard_time": 1668851787,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1579242,
+        "num": 377743,
+        "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
+        "onboard_time": 1668852327,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817257,
+        "num": 372098,
+        "word": "官方回应合肥步行街现尸体",
+        "onboard_time": 1668841465,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 442157,
+        "num": 369767,
+        "word": "网传陈飞宇张婧仪会合体录制番外",
+        "onboard_time": 1668851188,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394091,
+        "num": 362808,
+        "word": "柯南删吻戏",
+        "onboard_time": 1668835888,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 361711,
+        "num": 361711,
+        "word": "衡水中学启动教学改革破除超限内卷",
+        "onboard_time": 1668849567,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 323738,
+        "num": 323738,
+        "word": "宝宝剃胎毛后局部毛囊闭合难长头发",
+        "onboard_time": 1668839606,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246471,
+        "num": 246471,
+        "word": "第一次觉得猫好可怕",
+        "onboard_time": 1668842307,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 220803,
+        "num": 220803,
+        "word": "北京召开第418场疫情防控新闻发布会",
+        "onboard_time": 1668851015,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213703,
+        "num": 213703,
+        "word": "再见了团团",
+        "onboard_time": 1668842126,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211985,
+        "num": 211985,
+        "word": "卡塔尔世界杯中国元素如满天繁星",
+        "onboard_time": 1668845609,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 325225,
+        "num": 207432,
+        "word": "周杰伦官宣世界杯彩蛋",
+        "onboard_time": 1668852627,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 240079,
+        "num": 201835,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1668850528,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222127,
+        "num": 194994,
+        "word": "王鹤棣虞书欣湖南旅游发展大会ID",
+        "onboard_time": 1668842006,
+        "rank": 22,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 181956,
+        "num": 181956,
+        "word": "浙江奶奶13年养大非洲孙子",
+        "onboard_time": 1668844586,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160437,
+        "num": 160437,
+        "word": "社恐还没有一条狗认识的人多",
+        "onboard_time": 1668851248,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220633,
+        "num": 160049,
+        "word": "道枝骏佑荧屏初吻",
+        "onboard_time": 1668845009,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159416,
+        "num": 159416,
+        "word": "动物园称将团团遗体作为标本保留",
+        "onboard_time": 1668849987,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157297,
+        "num": 157297,
+        "word": "班主任给44人每人奖励1根甘蔗",
+        "onboard_time": 1668853227,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154034,
+        "num": 154034,
+        "word": "张本智和4比1庄智渊",
+        "onboard_time": 1668849689,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149497,
+        "num": 149497,
+        "word": "女生遭霸凌涉案人被采取刑事强制措施",
+        "onboard_time": 1668831926,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196202,
+        "num": 148516,
+        "word": "爱的二八定律演我",
+        "onboard_time": 1668852387,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192244,
+        "num": 145784,
+        "word": "张碧晨去了小鬼人生第一场演唱会",
+        "onboard_time": 1668840986,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 144181,
+        "word": "苏醒玩了15年的名字梗再听还很好笑",
+        "onboard_time": 1668850587,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129039,
+        "num": 140394,
+        "word": "想减肥真的不能熬夜",
+        "onboard_time": 1668844286,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129488,
+        "num": 139539,
+        "word": "女生辞职到卡塔尔看梅西最后一届世界杯",
+        "onboard_time": 1668836246,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 165542,
+        "num": 136592,
+        "word": "刘恋被张天爱夹子音攻击",
+        "onboard_time": 1668847289,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135531,
+        "num": 135531,
+        "word": "北京朝阳说希望明天大家继续宅一宅",
+        "onboard_time": 1668853826,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132113,
+        "num": 132113,
+        "word": "越狱失败还被抱住的小猫",
+        "onboard_time": 1668852928,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115944,
+        "num": 115944,
+        "word": "男足世界杯首次出现6名女裁判",
+        "onboard_time": 1668847586,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114599,
+        "num": 114599,
+        "word": "教小孩学会尊重真的很重要",
+        "onboard_time": 1668852809,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 161428,
+        "num": 114471,
+        "word": "吴磊大侦探8录制路透",
+        "onboard_time": 1668844648,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114108,
+        "num": 114108,
+        "word": "边牧与哈士奇的区别",
+        "onboard_time": 1668848008,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 112357,
+        "num": 113408,
+        "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
+        "onboard_time": 1668848187,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "女子称饭店被4男子暴力催收卫生费",
+        "onboard_time": 1668838708,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 109851,
+        "num": 109851,
+        "word": "平凉市体育局发贺电",
+        "onboard_time": 1668848726,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109722,
+        "num": 109722,
+        "word": "致重庆市民的一封信",
+        "onboard_time": 1668833126,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106787,
+        "num": 106787,
+        "word": "张文宏表示新冠病毒逐渐进入稳定期",
+        "onboard_time": 1668823049,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105121,
+        "num": 105121,
+        "word": "甘肃泾川县足协主席发声",
+        "onboard_time": 1668847886,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92657,
+        "num": 92657,
+        "word": "中国最能吃辣的地方",
+        "onboard_time": 1668854189,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91322,
+        "num": 91322,
+        "word": "疫情歼灭战重庆山火骑士又聚首",
+        "onboard_time": 1668848425,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国方案续写亚太奇迹#"
+    }
+  }
+}
