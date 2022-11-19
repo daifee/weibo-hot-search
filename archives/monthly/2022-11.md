@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 20:57:26
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 21:29:04
 </p>
 </blockquote>
 <p>
@@ -849,6 +849,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E5%81%87%E5%8F%91%23" target="weibo">
+华晨宇 假发（热度：1778176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 兰州疫情防控（热度：1776758）
 </a>
@@ -1281,6 +1287,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%AA%E6%8A%A5%E5%A4%87%E8%A1%8C%E7%A8%8B%E8%87%B4183%E4%BA%BA%E6%84%9F%E6%9F%93%E8%8E%B7%E5%88%914%E5%B9%B4%23" target="weibo">
+两货车司机未报备行程致183人感染获刑4年（热度：1474978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E8%83%B6%E5%9B%8A%E5%8D%96%E6%96%AD%E8%B4%A7%23" target="weibo">
 石家庄连花清瘟胶囊卖断货（热度：1473991）
 </a>
@@ -1505,6 +1517,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%94%99%E8%BF%87%E5%A5%B3%E5%84%BF%E6%88%90%E4%BA%BA%E7%A4%BC%E4%B9%A6%E8%AE%B0%E5%BC%80%E5%85%AC%E5%8F%B8%23" target="weibo">
 官方辟谣错过女儿成人礼书记开公司（热度：1344670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%B2%9B%E9%93%81%E7%9B%92%23" target="weibo">
+半岛铁盒（热度：1336038）
 </a>
 </li>
 
@@ -2597,12 +2615,6 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%B1%E8%B1%86%E5%87%BA%E8%BA%AB%E5%9C%A8%E5%AE%B6%E5%90%B8%E6%AF%92%E8%A2%AB%E6%8D%95%23" target="weibo">
 韩国爱豆出身在家吸毒被捕（热度：996487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%AA%E6%8A%A5%E5%A4%87%E8%A1%8C%E7%A8%8B%E8%87%B4183%E4%BA%BA%E6%84%9F%E6%9F%93%E8%8E%B7%E5%88%914%E5%B9%B4%23" target="weibo">
-两货车司机未报备行程致183人感染获刑4年（热度：993634）
 </a>
 </li>
 
@@ -4629,6 +4641,12 @@ T1对战DRX（热度：692544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AF%8F%E5%A4%A91%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%23" target="weibo">
+13岁女孩每天1杯奶茶患糖尿病（热度：674644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E6%97%8F%23" target="weibo">
 龙族（热度：674401）
 </a>
@@ -5993,24 +6011,6 @@ FPX 冰岛（热度：560995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%BA%B2%E5%AE%8C%E6%9C%B1%E9%9F%B5%E5%A4%B8%E5%A5%B9%E7%9C%9F%E5%8F%AF%E7%88%B1%23" target="weibo">
 李峋亲完朱韵夸她真可爱（热度：559380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%B8%85%E7%90%86%E8%88%8C%E8%8B%94%E8%AF%AF%E5%90%9E18%E5%8E%98%E7%B1%B3%E9%95%BF%E7%89%99%E5%88%B7%23" target="weibo">
-小伙清理舌苔误吞18厘米长牙刷（热度：559153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E6%8B%9F%E6%8E%A8%E5%87%BA%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6%23" target="weibo">
-宁波拟推出教师退出机制（热度：557994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%BC%80%E5%90%8E%E5%A4%87%E7%AE%B1%E6%B1%82%E5%A9%9A%E6%88%92%E6%8C%87%E7%9E%AC%E9%97%B4%E9%A3%9E%E8%B5%B0%23" target="weibo">
-小伙开后备箱求婚戒指瞬间飞走（热度：557924）
 </a>
 </li>
 

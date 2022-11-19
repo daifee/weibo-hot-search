@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668862646221,
+  "endTime": 1668864544079,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1778176,
+      "num": 236887,
+      "word": "华晨宇 假发",
+      "onboard_time": 1668863490,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1776758,
       "num": 462521,
       "word": "兰州疫情防控",
@@ -1691,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1474978,
+      "num": 661386,
+      "word": "两货车司机未报备行程致183人感染获刑4年",
+      "onboard_time": 1668857907,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473991,
       "num": 1086741,
       "word": "石家庄连花清瘟胶囊卖断货",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1667922687,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336038,
+      "num": 1336038,
+      "word": "半岛铁盒",
+      "onboard_time": 1668862410,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 1332622,
@@ -3449,14 +3473,6 @@
       "onboard_time": 1667560469,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993634,
-      "num": 661386,
-      "word": "两货车司机未报备行程致183人感染获刑4年",
-      "onboard_time": 1668857907,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 993081,
@@ -6153,6 +6169,14 @@
       "onboard_time": 1667902529,
       "rank": 28,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 674644,
+      "num": 674644,
+      "word": "13岁女孩每天1杯奶茶患糖尿病",
+      "onboard_time": 1668860429,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674401,
@@ -9771,14 +9795,6 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 488079,
-      "num": 488079,
-      "word": "13岁女孩每天1杯奶茶患糖尿病",
-      "onboard_time": 1668860429,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487857,
       "num": 487857,
       "word": "丁磊回应暴雪中止合作",
@@ -11697,6 +11713,14 @@
       "onboard_time": 1668506190,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 426687,
+      "num": 303582,
+      "word": "羡慕王勉",
+      "onboard_time": 1668863850,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 426518,
@@ -15483,6 +15507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331147,
+      "num": 326645,
+      "word": "2022TVB台庆红毯",
+      "onboard_time": 1668861328,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331052,
       "num": 331052,
       "word": "男子脚踹2个月流浪猫致死",
@@ -15713,14 +15745,6 @@
       "onboard_time": 1667361987,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 326645,
-      "num": 326645,
-      "word": "2022TVB台庆红毯",
-      "onboard_time": 1668861328,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 326225,
@@ -17145,6 +17169,14 @@
       "onboard_time": 1668610174,
       "rank": 16,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 298221,
+      "num": 298221,
+      "word": "慢热和不喜欢的区别是什么",
+      "onboard_time": 1668859589,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 297795,
@@ -18875,14 +18907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268496,
-      "num": 268496,
-      "word": "半岛铁盒",
-      "onboard_time": 1668862410,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
@@ -19913,14 +19937,6 @@
       "onboard_time": 1667638106,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250559,
-      "num": 250559,
-      "word": "慢热和不喜欢的区别是什么",
-      "onboard_time": 1668859589,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 250166,
@@ -20977,6 +20993,14 @@
       "onboard_time": 1668427590,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 233581,
+      "num": 233581,
+      "word": "哪家手机系统广告多",
+      "onboard_time": 1668858691,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 233515,
@@ -22499,6 +22523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215167,
+      "num": 215167,
+      "word": "北京新增56例社会面感染者",
+      "onboard_time": 1668861149,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215082,
       "num": 215082,
       "word": "立冬意味着什么",
@@ -22857,6 +22889,14 @@
       "onboard_time": 1667623646,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210806,
+      "num": 210806,
+      "word": "最近的广州大学生",
+      "onboard_time": 1668863190,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 210633,
@@ -23457,14 +23497,6 @@
       "onboard_time": 1668125967,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203319,
-      "num": 203319,
-      "word": "哪家手机系统广告多",
-      "onboard_time": 1668858691,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 203260,
@@ -24481,14 +24513,6 @@
       "onboard_time": 1668530724,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191983,
-      "num": 160401,
-      "word": "北京新增56例社会面感染者",
-      "onboard_time": 1668861149,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191891,
@@ -27371,6 +27395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161957,
+      "num": 161957,
+      "word": "龙傲天ber丝地瓜",
+      "onboard_time": 1668862410,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161908,
       "num": 161908,
       "word": "元歌无心新皮肤",
@@ -28745,6 +28777,14 @@
       "onboard_time": 1668768506,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149941,
+      "num": 149941,
+      "word": "你还有随时可以打扰的人吗",
+      "onboard_time": 1668862708,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 149878,
@@ -35659,14 +35699,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 95001,
-      "num": 95001,
-      "word": "龙傲天ber丝地瓜",
-      "onboard_time": 1668862410,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 94925,
       "num": 94925,
       "word": "2个动作改善含胸驼背",
@@ -39243,6 +39275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50435,
+      "num": 301653,
+      "word": "甘宇与罗永终于见面",
+      "onboard_time": 1668863309,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50223,
       "num": 327616,
       "word": "退伍大学生毕业后圆梦当消防员",
@@ -39497,6 +39537,14 @@
       "onboard_time": 1668459791,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39780,
+      "num": 1800753,
+      "word": "高清回顾神十四第3次出舱任务",
+      "onboard_time": 1668863912,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 39735,
