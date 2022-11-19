@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668885368990,
+  "endTime": 1668886440070,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -427,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 77527,
+      "num": 77527,
+      "word": "于文文弹唱唯一",
+      "onboard_time": 1668885375,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74529,
       "num": 91632,
       "word": "北京多家商场目前暂停堂食服务",
@@ -457,6 +465,14 @@
       "onboard_time": 1668863912,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 31496,
+      "num": 19819,
+      "word": "假如能和周杰伦连麦",
+      "onboard_time": 1668886392,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

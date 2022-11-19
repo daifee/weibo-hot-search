@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668885368990,
+  "endTime": 1668886440070,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -13371,6 +13371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77527,
+      "num": 77527,
+      "word": "于文文弹唱唯一",
+      "onboard_time": 1668885375,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77163,
       "num": 77163,
       "word": "女租客失联留下满屋垃圾楼道里都是臭味",
@@ -13697,6 +13705,14 @@
       "onboard_time": 1668409230,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31496,
+      "num": 19819,
+      "word": "假如能和周杰伦连麦",
+      "onboard_time": 1668886392,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 28694,

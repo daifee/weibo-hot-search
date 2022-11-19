@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668885368990,
+  "endTime": 1668886440070,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -38179,6 +38179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77527,
+      "num": 77527,
+      "word": "于文文弹唱唯一",
+      "onboard_time": 1668885375,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77395,
       "num": 77395,
       "word": "天津人有点英语基础",
@@ -40065,6 +40073,14 @@
       "onboard_time": 1667323158,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31496,
+      "num": 19819,
+      "word": "假如能和周杰伦连麦",
+      "onboard_time": 1668886392,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 31142,
