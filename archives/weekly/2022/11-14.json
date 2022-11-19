@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668876490157,
+  "endTime": 1668878294355,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -6196,7 +6196,7 @@
     },
     {
       "raw_hot": 303910,
-      "num": 141486,
+      "num": 153384,
       "word": "王鹤棣被何炅占便宜了",
       "onboard_time": 1668875006,
       "rank": 32,
@@ -6425,6 +6425,14 @@
       "onboard_time": 1668764667,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285844,
+      "num": 285844,
+      "word": "成都马拉松",
+      "onboard_time": 1668872612,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 285795,
@@ -7235,14 +7243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251894,
-      "num": 251894,
-      "word": "成都马拉松",
-      "onboard_time": 1668872612,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251829,
       "num": 204782,
       "word": "张婧仪17岁到23岁荧幕变化",
@@ -7609,6 +7609,14 @@
       "onboard_time": 1668695251,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235688,
+      "num": 186235,
+      "word": "女子认为被全家嫌弃带儿子跳河",
+      "onboard_time": 1668870453,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 235669,
@@ -9273,14 +9281,6 @@
       "onboard_time": 1668759627,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186235,
-      "num": 186235,
-      "word": "女子认为被全家嫌弃带儿子跳河",
-      "onboard_time": 1668870453,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 186155,
@@ -11675,6 +11675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130521,
+      "num": 55322,
+      "word": "你好星期六",
+      "onboard_time": 1668878242,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130476,
       "num": 130476,
       "word": "卡塔尔熊猫饲养员得先学四川话",
@@ -12273,6 +12281,14 @@
       "onboard_time": 1668814643,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 115318,
+      "num": 115318,
+      "word": "世界杯预言家已上线",
+      "onboard_time": 1668876443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115316,
@@ -13323,6 +13339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 79507,
+      "num": 79507,
+      "word": "女子攒20年硬币欲买房",
+      "onboard_time": 1668877040,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77715,
       "num": 77715,
       "word": "兰州一街道干部被曝酒后辱骂志愿者",
@@ -13617,14 +13641,6 @@
       "onboard_time": 1668357323,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41430,
-      "num": 78150,
-      "word": "世界杯预言家已上线",
-      "onboard_time": 1668876443,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 39863,
