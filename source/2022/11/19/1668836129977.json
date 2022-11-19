@@ -1,0 +1,410 @@
+{
+  "runTime": 1668836129977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317836,
+        "num": 1317836,
+        "word": "张文宏表示新冠病毒逐渐进入稳定期",
+        "onboard_time": 1668823049,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122845,
+        "num": 1122845,
+        "word": "陈楚生龙丹妮世纪拥抱",
+        "onboard_time": 1668835466,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24149,
+        "num": 944568,
+        "word": "那些被平凡暖意感动的瞬间",
+        "onboard_time": 1668777988,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 913185,
+        "num": 913185,
+        "word": "云南小伙回应撞脸周杰伦",
+        "onboard_time": 1668833008,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 720176,
+        "num": 720176,
+        "word": "滴血验癌公司创始人被判11年",
+        "onboard_time": 1668831265,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684388,
+        "num": 684388,
+        "word": "柯南自曝想娶小兰",
+        "onboard_time": 1668835708,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 555107,
+        "num": 555107,
+        "word": "女生遭霸凌涉案人被采取刑事强制措施",
+        "onboard_time": 1668831926,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 547214,
+        "num": 547214,
+        "word": "知情人士称国产新冠口服药药店将下架",
+        "onboard_time": 1668831626,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511642,
+        "num": 511642,
+        "word": "女孩右眼天生蓝色曾一度自卑",
+        "onboard_time": 1668818127,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388155,
+        "num": 388155,
+        "word": "阿兹夫定片每瓶卖到350元",
+        "onboard_time": 1668831507,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546136,
+        "num": 383925,
+        "word": "雷神有阿尔茨海默氏症倾向决定息影",
+        "onboard_time": 1668830546,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391574,
+        "num": 364291,
+        "word": "柯南全员婚礼造型",
+        "onboard_time": 1668828447,
+        "rank": 11,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 340529,
+        "num": 340529,
+        "word": "致重庆市民的一封信",
+        "onboard_time": 1668833126,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333772,
+        "num": 333772,
+        "word": "重庆新增本土确诊145例无症状4599例",
+        "onboard_time": 1668832224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319285,
+        "num": 319285,
+        "word": "两男子天冷嘴馋偷柴犬炖肉吃",
+        "onboard_time": 1668827008,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311198,
+        "num": 311198,
+        "word": "家长罚考56分娃独上学孕狗坚持接送",
+        "onboard_time": 1668826348,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294692,
+        "num": 294692,
+        "word": "男子吵架要离婚假装找1小时身份证",
+        "onboard_time": 1668814701,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294376,
+        "num": 294376,
+        "word": "中南大学一寝室4人全员保研名校",
+        "onboard_time": 1668828567,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272943,
+        "num": 272943,
+        "word": "电影坠落太刺激了",
+        "onboard_time": 1668833726,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265084,
+        "num": 265084,
+        "word": "暧昧期过长是什么体验",
+        "onboard_time": 1668827966,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231076,
+        "num": 231076,
+        "word": "美貌是她们最不值一提的优点吧",
+        "onboard_time": 1668834748,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211569,
+        "num": 211569,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1668820950,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208902,
+        "num": 208902,
+        "word": "柯南删吻戏",
+        "onboard_time": 1668835888,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 208546,
+        "num": 208546,
+        "word": "甘肃县级队领队回应淘汰北京国安",
+        "onboard_time": 1668826167,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196750,
+        "num": 196750,
+        "word": "张婧仪彩虹屁夸陈飞宇",
+        "onboard_time": 1668832046,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192452,
+        "num": 192452,
+        "word": "义乌一厂家每天组装4000套大力神杯",
+        "onboard_time": 1668827665,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 176751,
+        "num": 176751,
+        "word": "2岁娃网购买童车到货家长才发现",
+        "onboard_time": 1668827606,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154939,
+        "num": 154939,
+        "word": "恋与闪暖联动",
+        "onboard_time": 1668834507,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151197,
+        "num": 151197,
+        "word": "北京新增515例本土感染者",
+        "onboard_time": 1668819989,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137472,
+        "num": 137472,
+        "word": "烂尾8年交房业主被通知交续建费",
+        "onboard_time": 1668814160,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161410,
+        "num": 136822,
+        "word": "男生刚染发遇下雨白短袖被染红",
+        "onboard_time": 1668833907,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145034,
+        "num": 136627,
+        "word": "张艺兴你好星期六比心",
+        "onboard_time": 1668830968,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136137,
+        "num": 136137,
+        "word": "老人顺走别人家门口快递被抓现行",
+        "onboard_time": 1668834687,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134728,
+        "num": 134728,
+        "word": "税务师",
+        "onboard_time": 1668829947,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131696,
+        "num": 131696,
+        "word": "王鹤棣武大靖即兴杂技舞蹈",
+        "onboard_time": 1668834207,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130218,
+        "num": 130218,
+        "word": "LESSERAFIM新歌舞蹈接力视频",
+        "onboard_time": 1668832648,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128597,
+        "num": 128597,
+        "word": "专八",
+        "onboard_time": 1668827187,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125826,
+        "num": 125826,
+        "word": "鹅承诺的演唱会终于开了",
+        "onboard_time": 1668833788,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117794,
+        "num": 117794,
+        "word": "女孩独自吃自助取菜时被收餐",
+        "onboard_time": 1668815484,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104522,
+        "num": 104522,
+        "word": "刘建宏指出中国足球最大问题",
+        "onboard_time": 1668825447,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124386,
+        "num": 103706,
+        "word": "肖战疾冲开播2周年",
+        "onboard_time": 1668828866,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121681,
+        "num": 103053,
+        "word": "赵又廷毛晓彤赤子之心杀青照",
+        "onboard_time": 1668829048,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101114,
+        "num": 101114,
+        "word": "美国男篮不是世界第一了",
+        "onboard_time": 1668818428,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100564,
+        "num": 100564,
+        "word": "活塞vs湖人",
+        "onboard_time": 1668833367,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97475,
+        "num": 97475,
+        "word": "航天员在空间站拍到黄河入海流",
+        "onboard_time": 1668829345,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 86851,
+        "num": 86851,
+        "word": "齐达内称巴西是夺冠大热",
+        "onboard_time": 1668835647,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82638,
+        "num": 82638,
+        "word": "11月18日新增本土无症状22208例",
+        "onboard_time": 1668822506,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81585,
+        "num": 81585,
+        "word": "大学生爬墙围观祝福新人被扔喜糖",
+        "onboard_time": 1668835827,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79469,
+        "num": 79469,
+        "word": "原神",
+        "onboard_time": 1668813679,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76240,
+        "num": 76240,
+        "word": "部分电竞酒店存在未成年男女混住情况",
+        "onboard_time": 1668803231,
+        "rank": 49,
+        "category": "社会新闻,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC第29次领导人非正式会议#"
+    }
+  }
+}
