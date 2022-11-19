@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668878294355,
+  "endTime": 1668879346873,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 303910,
-      "num": 153384,
+      "num": 191975,
       "word": "王鹤棣被何炅占便宜了",
       "onboard_time": 1668875006,
       "rank": 32,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 235688,
-      "num": 186235,
+      "num": 219006,
       "word": "女子认为被全家嫌弃带儿子跳河",
       "onboard_time": 1668870453,
       "rank": 37,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164547,
+      "num": 164547,
+      "word": "世界杯预言家已上线",
+      "onboard_time": 1668876443,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163018,
       "num": 163018,
       "word": "官方回应合肥步行街现尸体",
@@ -265,6 +273,14 @@
       "onboard_time": 1668872013,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149934,
+      "num": 149934,
+      "word": "女子攒20年硬币欲买房",
+      "onboard_time": 1668877040,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145822,
@@ -299,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115318,
-      "num": 115318,
-      "word": "世界杯预言家已上线",
-      "onboard_time": 1668876443,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110601,
       "num": 110601,
       "word": "2022斯诺克英锦赛",
       "onboard_time": 1668874767,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110151,
+      "num": 67429,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1668850528,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 108657,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79507,
-      "num": 79507,
-      "word": "女子攒20年硬币欲买房",
-      "onboard_time": 1668877040,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77849,
       "num": 91746,
       "word": "龙傲天ber丝地瓜",
@@ -416,6 +424,14 @@
       "word": "北京堂食",
       "onboard_time": 1668855926,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42065,
+      "num": 44274,
+      "word": "男子当街暴打边牧还跳起双脚踩头",
+      "onboard_time": 1668878958,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
