@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668889280488,
+  "endTime": 1668890174583,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -40195,6 +40195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26064,
+      "num": 18618,
+      "word": "津秦高铁行车中断",
+      "onboard_time": 1668886631,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26027,
       "num": 23217,
       "word": "猫和老鼠的新版动画片",
@@ -40353,14 +40361,6 @@
       "onboard_time": 1668206175,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20747,
-      "num": 18618,
-      "word": "津秦高铁行车中断",
-      "onboard_time": 1668886631,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19858,

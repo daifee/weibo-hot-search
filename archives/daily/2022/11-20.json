@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668889280488,
+  "endTime": 1668890174583,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -475,7 +475,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20747,
+      "raw_hot": 26064,
       "num": 18618,
       "word": "津秦高铁行车中断",
       "onboard_time": 1668886631,
