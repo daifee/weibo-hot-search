@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668871243777,
+  "endTime": 1668872240379,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620452,
+      "num": 191549,
+      "word": "晴天yyds",
+      "onboard_time": 1668870993,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 619620,
       "num": 336019,
       "word": "吴世勋说不懂换乘恋爱",
@@ -2824,6 +2832,14 @@
       "word": "知情人士称国产新冠口服药药店将下架",
       "onboard_time": 1668831626,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552954,
+      "num": 552954,
+      "word": "郑州市中原区疫情防控",
+      "onboard_time": 1668870513,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4059,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437459,
+      "num": 122391,
+      "word": "你好星期六下期致敬中国动画百年",
+      "onboard_time": 1668872192,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437038,
       "num": 437038,
       "word": "退钱哥卡塔尔街头大秀球技",
@@ -4851,6 +4875,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 377052,
+      "num": 377052,
+      "word": "护士成功从冒烟微波炉掏出红薯炸弹",
+      "onboard_time": 1668867817,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376580,
       "num": 376580,
       "word": "女子为减肥绑牙齿让嘴巴闭合",
@@ -4931,14 +4963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 367871,
-      "num": 367871,
-      "word": "护士成功从冒烟微波炉掏出红薯炸弹",
-      "onboard_time": 1668867817,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367806,
       "num": 367806,
       "word": "北京朝阳除高风险区外全域划为低风险区",
@@ -5001,6 +5025,14 @@
       "onboard_time": 1668730647,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364733,
+      "num": 188740,
+      "word": "无尽夏",
+      "onboard_time": 1668870813,
+      "rank": 42,
+      "category": "其它"
     },
     {
       "raw_hot": 364363,
@@ -5779,6 +5811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 319699,
+      "num": 143392,
+      "word": "王鹤棣最大的优点",
+      "onboard_time": 1668869734,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319468,
       "num": 319468,
       "word": "腾讯发布2022年三季度财报",
@@ -6129,14 +6169,6 @@
       "onboard_time": 1668614548,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 303944,
-      "num": 141385,
-      "word": "王鹤棣最大的优点",
-      "onboard_time": 1668869734,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 302848,
@@ -6739,14 +6771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270004,
-      "num": 139126,
-      "word": "晴天yyds",
-      "onboard_time": 1668870993,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269850,
       "num": 269850,
       "word": "马思纯为冠军呼兰打call",
@@ -7049,14 +7073,6 @@
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256810,
-      "num": 256810,
-      "word": "郑州市中原区疫情防控",
-      "onboard_time": 1668870513,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256441,
@@ -9155,6 +9171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "女子给母亲取心脏病药被防疫大爷抢走",
+      "onboard_time": 1668871290,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187688,
       "num": 187688,
       "word": "谢谢你医生",
@@ -9217,6 +9241,14 @@
       "onboard_time": 1668692310,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185043,
+      "num": 185043,
+      "word": "竟然被一只猫咪鄙视了",
+      "onboard_time": 1668869912,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 184925,
@@ -9545,6 +9577,14 @@
       "onboard_time": 1668470365,
       "rank": 25,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 176237,
+      "num": 141467,
+      "word": "国台办称对团团病逝感到痛心和惋惜",
+      "onboard_time": 1668869430,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176074,
@@ -10241,14 +10281,6 @@
       "onboard_time": 1668342566,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158982,
-      "num": 158982,
-      "word": "竟然被一只猫咪鄙视了",
-      "onboard_time": 1668869912,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 158897,
@@ -11947,14 +11979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121700,
-      "num": 121700,
-      "word": "国台办称对团团病逝感到痛心和惋惜",
-      "onboard_time": 1668869430,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121695,
       "num": 120875,
       "word": "我最闪亮全场大合唱梦回快男",
@@ -12217,14 +12241,6 @@
       "onboard_time": 1668766826,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115222,
-      "num": 115222,
-      "word": "无尽夏",
-      "onboard_time": 1668870813,
-      "rank": 42,
-      "category": "其它"
     },
     {
       "raw_hot": 114606,
@@ -13185,6 +13201,14 @@
       "onboard_time": 1668448877,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84346,
+      "num": 122505,
+      "word": "猫猫教的入教仪式",
+      "onboard_time": 1668872013,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 84344,

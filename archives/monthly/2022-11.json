@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668871243777,
+  "endTime": 1668872240379,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -6971,6 +6971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620452,
+      "num": 191549,
+      "word": "晴天yyds",
+      "onboard_time": 1668870993,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 620438,
       "num": 620438,
       "word": "老师用反向签到查出逃课学生",
@@ -8231,6 +8239,14 @@
       "num": 552970,
       "word": "新娘步行40米到婆家结婚",
       "onboard_time": 1667717426,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552954,
+      "num": 552954,
+      "word": "郑州市中原区疫情防控",
+      "onboard_time": 1668870513,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -11403,6 +11419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437459,
+      "num": 122391,
+      "word": "你好星期六下期致敬中国动画百年",
+      "onboard_time": 1668872192,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437411,
       "num": 437411,
       "word": "王楚钦孙颖莎4比0林诗栋蒯曼",
@@ -13619,6 +13643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377052,
+      "num": 377052,
+      "word": "护士成功从冒烟微波炉掏出红薯炸弹",
+      "onboard_time": 1668867817,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376776,
       "num": 314845,
       "word": "梨泰院斜坡上人群像多米诺骨牌倒下",
@@ -13851,14 +13883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367871,
-      "num": 367871,
-      "word": "护士成功从冒烟微波炉掏出红薯炸弹",
-      "onboard_time": 1668867817,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367821,
       "num": 367821,
       "word": "多地中学老师遭网课爆破",
@@ -14025,6 +14049,14 @@
       "onboard_time": 1668248730,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364733,
+      "num": 188740,
+      "word": "无尽夏",
+      "onboard_time": 1668870813,
+      "rank": 42,
+      "category": "其它"
     },
     {
       "raw_hot": 364693,
@@ -16139,6 +16171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319699,
+      "num": 143392,
+      "word": "王鹤棣最大的优点",
+      "onboard_time": 1668869734,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319630,
       "num": 319630,
       "word": "张朝阳称躺着玩手机对颈椎更好",
@@ -17049,14 +17089,6 @@
       "onboard_time": 1667378127,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 303944,
-      "num": 141385,
-      "word": "王鹤棣最大的优点",
-      "onboard_time": 1668869734,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 303757,
@@ -18923,14 +18955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270004,
-      "num": 139126,
-      "word": "晴天yyds",
-      "onboard_time": 1668870993,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269850,
       "num": 269850,
       "word": "马思纯为冠军呼兰打call",
@@ -19697,14 +19721,6 @@
       "onboard_time": 1668733228,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256810,
-      "num": 256810,
-      "word": "郑州市中原区疫情防控",
-      "onboard_time": 1668870513,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256532,
@@ -25123,6 +25139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "女子给母亲取心脏病药被防疫大爷抢走",
+      "onboard_time": 1668871290,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187688,
       "num": 187688,
       "word": "谢谢你医生",
@@ -25369,6 +25393,14 @@
       "onboard_time": 1668007468,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185043,
+      "num": 185043,
+      "word": "竟然被一只猫咪鄙视了",
+      "onboard_time": 1668869912,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 185007,
@@ -26233,6 +26265,14 @@
       "onboard_time": 1668470365,
       "rank": 25,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 176237,
+      "num": 141467,
+      "word": "国台办称对团团病逝感到痛心和惋惜",
+      "onboard_time": 1668869430,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176156,
@@ -28041,14 +28081,6 @@
       "onboard_time": 1667609667,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158982,
-      "num": 158982,
-      "word": "竟然被一只猫咪鄙视了",
-      "onboard_time": 1668869912,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 158897,
@@ -32635,14 +32667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121700,
-      "num": 121700,
-      "word": "国台办称对团团病逝感到痛心和惋惜",
-      "onboard_time": 1668869430,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121695,
       "num": 120875,
       "word": "我最闪亮全场大合唱梦回快男",
@@ -33377,14 +33401,6 @@
       "onboard_time": 1668046708,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115222,
-      "num": 115222,
-      "word": "无尽夏",
-      "onboard_time": 1668870813,
-      "rank": 42,
-      "category": "其它"
     },
     {
       "raw_hot": 114853,
@@ -37417,6 +37433,14 @@
       "onboard_time": 1667803466,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84346,
+      "num": 122505,
+      "word": "猫猫教的入教仪式",
+      "onboard_time": 1668872013,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 84344,
