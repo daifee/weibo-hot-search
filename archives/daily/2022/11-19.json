@@ -1,7 +1,15 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668814612988,
+  "endTime": 1668822725627,
   "band_list": [
+    {
+      "raw_hot": 1525768,
+      "num": 1525768,
+      "word": "女孩右眼天生蓝色曾一度自卑",
+      "onboard_time": 1668818127,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1494722,
       "num": 1494722,
@@ -11,12 +19,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1390938,
+      "num": 802941,
+      "word": "谁能理解老年人的性生活需求",
+      "onboard_time": 1668818127,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1232324,
+      "num": 1232324,
+      "word": "男子吵架要离婚假装找1小时身份证",
+      "onboard_time": 1668814701,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 864755,
       "num": 864755,
       "word": "考研成功率低于本科录取率",
       "onboard_time": 1668778109,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 759979,
+      "num": 759979,
+      "word": "北京新增515例本土感染者",
+      "onboard_time": 1668819989,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719822,
@@ -59,12 +91,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569250,
+      "num": 569250,
+      "word": "为什么十四亿人里挑不出好球员",
+      "onboard_time": 1668817828,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548652,
       "num": 548652,
       "word": "江西彩礼被误解好多年",
       "onboard_time": 1668783693,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470719,
+      "num": 470719,
+      "word": "美国男篮不是世界第一了",
+      "onboard_time": 1668818428,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 457708,
+      "num": 457708,
+      "word": "女孩独自吃自助取菜时被收餐",
+      "onboard_time": 1668815484,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444929,
+      "num": 444929,
+      "word": "上厕所玩手机容易引发多种疾病",
+      "onboard_time": 1668820950,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437570,
+      "num": 437570,
+      "word": "合肥市监调查疯狂小杨哥涉虚假宣传",
+      "onboard_time": 1668819508,
+      "rank": 9,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 398186,
@@ -91,12 +163,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344542,
-      "num": 344542,
+      "raw_hot": 366007,
+      "num": 366007,
+      "word": "烂尾8年交房业主被通知交续建费",
+      "onboard_time": 1668814160,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363537,
+      "num": 363537,
       "word": "22点前入睡有助于长个儿",
       "onboard_time": 1668812658,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354640,
+      "num": 354640,
+      "word": "部分电竞酒店存在未成年男女混住情况",
+      "onboard_time": 1668803231,
+      "rank": 38,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 331353,
@@ -131,12 +219,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274767,
-      "num": 175537,
-      "word": "部分电竞酒店存在未成年男女混住情况",
-      "onboard_time": 1668803231,
-      "rank": 38,
-      "category": "社会新闻,社会新闻"
+      "raw_hot": 290802,
+      "num": 290802,
+      "word": "田曦薇说热度破11000要跳女团舞",
+      "onboard_time": 1668813439,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271922,
+      "num": 271922,
+      "word": "男子称母亲网购10卷纸收到却变1卷",
+      "onboard_time": 1668816086,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270612,
+      "num": 270612,
+      "word": "比亚迪惠州工厂着火",
+      "onboard_time": 1668816446,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 266252,
@@ -211,8 +315,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184162,
-      "num": 184162,
+      "raw_hot": 208363,
+      "num": 208363,
+      "word": "极光不仅有声音还有臭味",
+      "onboard_time": 1668816804,
+      "rank": 21,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 195283,
+      "num": 195283,
       "word": "梅西刚下飞机就被围了",
       "onboard_time": 1668795135,
       "rank": 27,
@@ -225,6 +337,14 @@
       "onboard_time": 1668786392,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181507,
+      "num": 181507,
+      "word": "原神",
+      "onboard_time": 1668813679,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 179499,
@@ -275,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154820,
+      "num": 154820,
+      "word": "女子买香菇包装占总重三分之二",
+      "onboard_time": 1668815064,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149010,
       "num": 149010,
       "word": "甘肃县级队足协杯淘汰北京国安",
@@ -289,6 +417,22 @@
       "onboard_time": 1668765747,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145586,
+      "num": 145586,
+      "word": "把猫咪都饿老了",
+      "onboard_time": 1668817828,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143173,
+      "num": 143173,
+      "word": "文星伊跳twit",
+      "onboard_time": 1668822506,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 142217,
@@ -307,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134275,
+      "num": 134275,
+      "word": "警校弟弟打视频串宿给姐介绍帅哥",
+      "onboard_time": 1668821968,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133371,
       "num": 133371,
       "word": "26岁小伙为看C罗骑行穿越3个国家",
@@ -315,8 +467,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 131382,
-      "num": 131382,
+      "raw_hot": 131927,
+      "num": 131927,
       "word": "12岁男孩不慎被弓箭射中鼻梁",
       "onboard_time": 1668799393,
       "rank": 49,
@@ -339,12 +491,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "赵丽颖林更新与凤行雨中撑伞路透",
+      "onboard_time": 1668810854,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115443,
+      "num": 115443,
+      "word": "狗狗咬坏心爱玩具主人边缝边安慰",
+      "onboard_time": 1668814643,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 115342,
       "num": 115342,
       "word": "教育局回应网传鹤壁一女生遭霸凌",
       "onboard_time": 1668766288,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111552,
+      "num": 111552,
+      "word": "刘令姿说争取下月回金川",
+      "onboard_time": 1668813260,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110967,
@@ -371,6 +547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 107790,
+      "num": 107790,
+      "word": "宋亚轩万水朝东演出repo",
+      "onboard_time": 1668822266,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107292,
       "num": 107292,
       "word": "广州防疫人员耐心对话被管控居民",
@@ -379,27 +563,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102425,
+      "num": 102425,
+      "word": "11月18日新增本土无症状22208例",
+      "onboard_time": 1668822506,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "男孩文具店换现金被老板婉拒",
       "onboard_time": 1668779668,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100323,
-      "num": 100323,
-      "word": "原神",
-      "onboard_time": 1668813679,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 100225,
-      "num": 73613,
-      "word": "烂尾8年交房业主被通知交续建费",
-      "onboard_time": 1668814160,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -443,6 +619,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 91594,
+      "num": 91594,
+      "word": "张颜齐在朝阳打歌中心颜面尽失",
+      "onboard_time": 1668821367,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86605,
       "num": 86605,
       "word": "32岁女子北漂10年存400万买90平房",
@@ -467,20 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69301,
-      "num": 706946,
+      "raw_hot": 75953,
+      "num": 816162,
       "word": "那些被平凡暖意感动的瞬间",
       "onboard_time": 1668777988,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 67112,
-      "num": 67112,
-      "word": "田曦薇说热度破11000要跳女团舞",
-      "onboard_time": 1668813439,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 65976,
@@ -499,28 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60077,
-      "num": 60077,
-      "word": "赵丽颖林更新与凤行雨中撑伞路透",
-      "onboard_time": 1668810854,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 59373,
       "num": 59373,
       "word": "初次录入小主人气味的狗狗",
       "onboard_time": 1668791182,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56444,
-      "num": 56444,
-      "word": "刘令姿说争取下月回金川",
-      "onboard_time": 1668813260,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49200,
