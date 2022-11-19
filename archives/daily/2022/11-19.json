@@ -1,7 +1,15 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668867477660,
+  "endTime": 1668868510997,
   "band_list": [
+    {
+      "raw_hot": 4058434,
+      "num": 4058434,
+      "word": "王冰冰更博了",
+      "onboard_time": 1668867276,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4029891,
       "num": 4029891,
@@ -41,6 +49,14 @@
       "onboard_time": 1668857426,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2386026,
+      "num": 377680,
+      "word": "痞幼和陈飞宇合拍视频",
+      "onboard_time": 1668867452,
+      "rank": 47,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 2130282,
@@ -145,14 +161,6 @@
       "onboard_time": 1668818127,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1326872,
-      "num": 389000,
-      "word": "王冰冰更博了",
-      "onboard_time": 1668867276,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1281400,
@@ -323,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649248,
-      "num": 108161,
-      "word": "痞幼和陈飞宇合拍视频",
-      "onboard_time": 1668867452,
-      "rank": 47,
-      "category": "网红,艺人"
-    },
-    {
       "raw_hot": 644165,
       "num": 260642,
       "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
@@ -465,6 +465,14 @@
       "onboard_time": 1668827008,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509348,
+      "num": 480526,
+      "word": "大学生已经开始过年了",
+      "onboard_time": 1668864929,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 509208,
@@ -657,14 +665,6 @@
       "onboard_time": 1668847289,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371098,
-      "num": 371098,
-      "word": "大学生已经开始过年了",
-      "onboard_time": 1668864929,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 368357,
@@ -875,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304518,
+      "num": 304518,
+      "word": "安室透",
+      "onboard_time": 1668867452,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 294840,
       "num": 294840,
       "word": "警方回应鹤壁16岁女生遭霸凌",
@@ -979,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267504,
+      "num": 267504,
+      "word": "卡塔尔民众点赞中国大巴",
+      "onboard_time": 1668866432,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266252,
       "num": 266252,
       "word": "男子投喂鳄鱼即兴唱歌引发踩踏",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1668832648,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244887,
+      "num": 244887,
+      "word": "成绩进步班主任请全班62人吃鸡腿",
+      "onboard_time": 1668866914,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241187,
@@ -1235,6 +1259,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 208118,
+      "num": 157996,
+      "word": "晴天前奏一响",
+      "onboard_time": 1668866311,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207904,
       "num": 207904,
       "word": "陈飞宇片场被吓到表情包",
@@ -1291,8 +1323,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189545,
+      "num": 157897,
+      "word": "gidle唱的谎言",
+      "onboard_time": 1668867933,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188506,
-      "num": 152764,
+      "num": 188207,
       "word": "当有纹身的人去澡堂",
       "onboard_time": 1668865711,
       "rank": 30,
@@ -1395,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172993,
-      "num": 149160,
-      "word": "晴天前奏一响",
-      "onboard_time": 1668866311,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 172619,
       "num": 144181,
       "word": "苏醒玩了15年的名字梗再听还很好笑",
@@ -1483,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159319,
+      "num": 159319,
+      "word": "北京多家商场目前暂停堂食服务",
+      "onboard_time": 1668865295,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159080,
       "num": 159080,
       "word": "李峋的走马灯画面",
@@ -1505,14 +1545,6 @@
       "onboard_time": 1668775165,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155745,
-      "num": 155745,
-      "word": "北京多家商场目前暂停堂食服务",
-      "onboard_time": 1668865295,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155262,
@@ -1691,14 +1723,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 140126,
-      "num": 140126,
-      "word": "成绩进步班主任请全班62人吃鸡腿",
-      "onboard_time": 1668866914,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 139348,
       "num": 104693,
       "word": "世界杯主题曲",
@@ -1755,14 +1779,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 134692,
-      "num": 107198,
-      "word": "安室透",
-      "onboard_time": 1668867452,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 133584,
       "num": 133584,
       "word": "一建",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1668799393,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128449,
-      "num": 128449,
-      "word": "卡塔尔民众点赞中国大巴",
-      "onboard_time": 1668866432,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 128160,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1668855567,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113634,
+      "num": 113634,
+      "word": "护士成功从冒烟微波炉掏出红薯炸弹",
+      "onboard_time": 1668867817,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111552,
@@ -2147,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87489,
+      "num": 98689,
+      "word": "F1",
+      "onboard_time": 1668868053,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86871,
       "num": 86871,
       "word": "王亚平儿时爬树被爸爸说你咋不上天呢",
@@ -2196,7 +2220,7 @@
     },
     {
       "raw_hot": 68004,
-      "num": 1883333,
+      "num": 2072479,
       "word": "高清回顾神十四第3次出舱任务",
       "onboard_time": 1668863912,
       "rank": 2,
