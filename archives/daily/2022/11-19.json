@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668854302005,
+  "endTime": 1668856606019,
   "band_list": [
     {
       "raw_hot": 3136297,
@@ -9,6 +9,14 @@
       "onboard_time": 1668837266,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2114508,
+      "num": 2114508,
+      "word": "热奶宝",
+      "onboard_time": 1668854487,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 2006829,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1814616,
-      "num": 377743,
+      "num": 453859,
       "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
       "onboard_time": 1668852327,
       "rank": 10,
@@ -211,6 +219,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 701107,
+      "num": 701107,
+      "word": "北京朝阳说希望明天大家继续宅一宅",
+      "onboard_time": 1668853826,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693871,
       "num": 693871,
       "word": "雷神有阿尔茨海默氏症倾向决定息影",
@@ -387,6 +403,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 477887,
+      "num": 477887,
+      "word": "网传陈飞宇张婧仪会合体录制番外",
+      "onboard_time": 1668851188,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477635,
       "num": 477635,
       "word": "致重庆市民的一封信",
@@ -427,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457053,
+      "num": 457053,
+      "word": "霍华德 首秀",
+      "onboard_time": 1668851787,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455317,
       "num": 455317,
       "word": "合肥市监调查疯狂小杨哥涉虚假宣传",
       "onboard_time": 1668819508,
       "rank": 9,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 442157,
-      "num": 369767,
-      "word": "网传陈飞宇张婧仪会合体录制番外",
-      "onboard_time": 1668851188,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 434289,
@@ -457,6 +481,14 @@
       "onboard_time": 1668829048,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405702,
+      "num": 405702,
+      "word": "王艺迪vs伊藤美诚",
+      "onboard_time": 1668855447,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 398186,
@@ -491,20 +523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378354,
-      "num": 378354,
-      "word": "霍华德 首秀",
-      "onboard_time": 1668851787,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376381,
       "num": 376381,
       "word": "刘恋被张天爱夹子音攻击",
       "onboard_time": 1668847289,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373306,
+      "num": 373306,
+      "word": "班主任给44人每人奖励1根甘蔗",
+      "onboard_time": 1668853227,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 368357,
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283180,
+      "num": 283180,
+      "word": "北京朝阳区全域划为低风险",
+      "onboard_time": 1668855208,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278472,
       "num": 233202,
       "word": "成龙金鸡奖后台祝贺朱一龙",
@@ -891,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221968,
+      "num": 176779,
+      "word": "爱的二八定律演我",
+      "onboard_time": 1668852387,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220803,
       "num": 220803,
       "word": "北京召开第418场疫情防控新闻发布会",
@@ -921,6 +969,14 @@
       "onboard_time": 1668823108,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213630,
+      "num": 213630,
+      "word": "中国最能吃辣的地方",
+      "onboard_time": 1668854189,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 211120,
@@ -963,19 +1019,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203173,
+      "num": 141624,
+      "word": "王栎鑫为演唱会推了戏和直播",
+      "onboard_time": 1668854788,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199206,
       "num": 199206,
       "word": "盛一伦新剧古装",
       "onboard_time": 1668836368,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 196202,
-      "num": 148516,
-      "word": "爱的二八定律演我",
-      "onboard_time": 1668852387,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1171,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157297,
-      "num": 157297,
-      "word": "班主任给44人每人奖励1根甘蔗",
-      "onboard_time": 1668853227,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 155262,
       "num": 136908,
       "word": "命韵峋环新花絮",
@@ -1363,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136966,
+      "num": 136966,
+      "word": "北京堂食",
+      "onboard_time": 1668855926,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135577,
       "num": 135577,
       "word": "活塞vs湖人",
@@ -1371,20 +1427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135531,
-      "num": 135531,
-      "word": "北京朝阳说希望明天大家继续宅一宅",
-      "onboard_time": 1668853826,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135320,
       "num": 135320,
       "word": "应急管理局回应比亚迪惠州工厂着火",
       "onboard_time": 1668823587,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 134484,
+      "num": 134484,
+      "word": "越狱失败还被抱住的小猫",
+      "onboard_time": 1668852928,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 133584,
@@ -1411,20 +1467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132113,
-      "num": 132113,
-      "word": "越狱失败还被抱住的小猫",
-      "onboard_time": 1668852928,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "12岁男孩不慎被弓箭射中鼻梁",
       "onboard_time": 1668799393,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130890,
+      "num": 130890,
+      "word": "教小孩学会尊重真的很重要",
+      "onboard_time": 1668852809,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128160,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1668780449,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123335,
+      "num": 122455,
+      "word": "李永钦Birthday初舞台",
+      "onboard_time": 1668855332,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122512,
@@ -1563,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114599,
-      "num": 114599,
-      "word": "教小孩学会尊重真的很重要",
-      "onboard_time": 1668852809,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 111552,
       "num": 111552,
       "word": "刘令姿说争取下月回金川",
@@ -1600,6 +1656,14 @@
       "word": "TES",
       "onboard_time": 1668772587,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109199,
+      "num": 109199,
+      "word": "解说杯",
+      "onboard_time": 1668855567,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -1635,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106900,
+      "num": 106900,
+      "word": "女子称荒地露营1天内被村民收费4次",
+      "onboard_time": 1668856410,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105346,
       "num": 105346,
       "word": "尼克斯vs勇士",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1668779668,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "圣诞老人开始热身了",
+      "onboard_time": 1668856287,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 98131,
@@ -1689,14 +1769,6 @@
       "onboard_time": 1668779789,
       "rank": 45,
       "category": "美妆,社会新闻"
-    },
-    {
-      "raw_hot": 92657,
-      "num": 92657,
-      "word": "中国最能吃辣的地方",
-      "onboard_time": 1668854189,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 90964,

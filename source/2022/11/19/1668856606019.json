@@ -1,0 +1,410 @@
+{
+  "runTime": 1668856606019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2114508,
+        "num": 2114508,
+        "word": "热奶宝",
+        "onboard_time": 1668854487,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1449032,
+        "num": 1449032,
+        "word": "女生卖热奶宝7元1个15元俩",
+        "onboard_time": 1668849208,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80887,
+        "num": 849454,
+        "word": "太空视角版黄河入海流",
+        "onboard_time": 1668848246,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 796000,
+        "num": 796000,
+        "word": "新冠口服药被要求即刻下架",
+        "onboard_time": 1668846266,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718984,
+        "num": 718984,
+        "word": "央视频之夜阵容官宣王冰冰",
+        "onboard_time": 1668844409,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701107,
+        "num": 701107,
+        "word": "北京朝阳说希望明天大家继续宅一宅",
+        "onboard_time": 1668853826,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655264,
+        "num": 655264,
+        "word": "大熊猫团团不幸离世",
+        "onboard_time": 1668837266,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477887,
+        "num": 477887,
+        "word": "网传陈飞宇张婧仪会合体录制番外",
+        "onboard_time": 1668851188,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464713,
+        "num": 464713,
+        "word": "柯南自曝想娶小兰",
+        "onboard_time": 1668835708,
+        "rank": 8,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 457053,
+        "num": 457053,
+        "word": "霍华德 首秀",
+        "onboard_time": 1668851787,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1216502,
+        "num": 453859,
+        "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
+        "onboard_time": 1668852327,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713148,
+        "num": 436072,
+        "word": "官方回应合肥步行街现尸体",
+        "onboard_time": 1668841465,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 405702,
+        "num": 405702,
+        "word": "王艺迪vs伊藤美诚",
+        "onboard_time": 1668855447,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373306,
+        "num": 373306,
+        "word": "班主任给44人每人奖励1根甘蔗",
+        "onboard_time": 1668853227,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 347447,
+        "num": 347447,
+        "word": "柯南删吻戏",
+        "onboard_time": 1668835888,
+        "rank": 14,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 321989,
+        "num": 321989,
+        "word": "宋仲基财阀家的小儿子开播",
+        "onboard_time": 1668848126,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283180,
+        "num": 283180,
+        "word": "北京朝阳区全域划为低风险",
+        "onboard_time": 1668855208,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277791,
+        "num": 277791,
+        "word": "宝宝剃胎毛后局部毛囊闭合难长头发",
+        "onboard_time": 1668839606,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213630,
+        "num": 213630,
+        "word": "中国最能吃辣的地方",
+        "onboard_time": 1668854189,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193327,
+        "num": 193327,
+        "word": "衡水中学启动教学改革破除超限内卷",
+        "onboard_time": 1668849567,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 956667,
+        "num": 192076,
+        "word": "女子怀孕被嫌事多老公放言不要孩子",
+        "onboard_time": 1668843086,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226405,
+        "num": 185254,
+        "word": "王鹤棣虞书欣湖南旅游发展大会ID",
+        "onboard_time": 1668842006,
+        "rank": 21,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 221968,
+        "num": 176779,
+        "word": "爱的二八定律演我",
+        "onboard_time": 1668852387,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211008,
+        "num": 172614,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1668850528,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168673,
+        "num": 168673,
+        "word": "卡塔尔世界杯中国元素如满天繁星",
+        "onboard_time": 1668845609,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 625750,
+        "num": 167631,
+        "word": "暴雪中国最新发声",
+        "onboard_time": 1668850346,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164410,
+        "num": 164410,
+        "word": "第一次觉得猫好可怕",
+        "onboard_time": 1668842307,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144016,
+        "num": 144016,
+        "word": "再见了团团",
+        "onboard_time": 1668842126,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142212,
+        "num": 142212,
+        "word": "社恐还没有一条狗认识的人多",
+        "onboard_time": 1668851248,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141649,
+        "num": 141649,
+        "word": "浙江奶奶13年养大非洲孙子",
+        "onboard_time": 1668844586,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203173,
+        "num": 141624,
+        "word": "王栎鑫为演唱会推了戏和直播",
+        "onboard_time": 1668854788,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194585,
+        "num": 141423,
+        "word": "周杰伦官宣世界杯彩蛋",
+        "onboard_time": 1668852627,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 180508,
+        "num": 141122,
+        "word": "道枝骏佑荧屏初吻",
+        "onboard_time": 1668845009,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140780,
+        "num": 140780,
+        "word": "张碧晨去了小鬼人生第一场演唱会",
+        "onboard_time": 1668840986,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136966,
+        "num": 136966,
+        "word": "北京堂食",
+        "onboard_time": 1668855926,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134484,
+        "num": 134484,
+        "word": "越狱失败还被抱住的小猫",
+        "onboard_time": 1668852928,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 131557,
+        "num": 131557,
+        "word": "女生遭霸凌涉案人被采取刑事强制措施",
+        "onboard_time": 1668831926,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130890,
+        "num": 130890,
+        "word": "教小孩学会尊重真的很重要",
+        "onboard_time": 1668852809,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 129396,
+        "num": 129396,
+        "word": "北京召开第418场疫情防控新闻发布会",
+        "onboard_time": 1668851015,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122478,
+        "num": 122478,
+        "word": "想减肥真的不能熬夜",
+        "onboard_time": 1668844286,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123335,
+        "num": 122455,
+        "word": "李永钦Birthday初舞台",
+        "onboard_time": 1668855332,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121931,
+        "num": 121931,
+        "word": "陈楚生龙丹妮世纪拥抱",
+        "onboard_time": 1668835466,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120745,
+        "num": 120745,
+        "word": "动物园称将团团遗体作为标本保留",
+        "onboard_time": 1668849987,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109199,
+        "num": 109199,
+        "word": "解说杯",
+        "onboard_time": 1668855567,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106900,
+        "num": 106900,
+        "word": "女子称荒地露营1天内被村民收费4次",
+        "onboard_time": 1668856410,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101466,
+        "num": 101466,
+        "word": "圣诞老人开始热身了",
+        "onboard_time": 1668856287,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96945,
+        "num": 96945,
+        "word": "女子称饭店被4男子暴力催收卫生费",
+        "onboard_time": 1668838708,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 96912,
+        "word": "女生辞职到卡塔尔看梅西最后一届世界杯",
+        "onboard_time": 1668836246,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 92967,
+        "num": 92967,
+        "word": "甘肃泾川县足协主席发声",
+        "onboard_time": 1668847886,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84645,
+        "num": 84645,
+        "word": "致重庆市民的一封信",
+        "onboard_time": 1668833126,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC第29次领导人非正式会议#"
+    }
+  }
+}
