@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668875307469,
+  "endTime": 1668876490157,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1979,6 +1979,14 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 1372431,
+      "num": 1372431,
+      "word": "重庆市民可免费观看世界杯",
+      "onboard_time": 1668873090,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1370567,
       "num": 873394,
       "word": "北京疫情防控",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1668389247,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1151427,
-      "num": 1151427,
-      "word": "重庆市民可免费观看世界杯",
-      "onboard_time": 1668873090,
-      "rank": 3,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1150744,
@@ -17115,6 +17115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 303910,
+      "num": 141486,
+      "word": "王鹤棣被何炅占便宜了",
+      "onboard_time": 1668875006,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303757,
       "num": 303757,
       "word": "98斤女生扛180斤男生做力量训练",
@@ -19731,14 +19739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257299,
-      "num": 117207,
-      "word": "王鹤棣被何炅占便宜了",
-      "onboard_time": 1668875006,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257060,
       "num": 257060,
       "word": "李泳知rap",
@@ -20033,6 +20033,14 @@
       "onboard_time": 1667372127,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 251894,
+      "num": 251894,
+      "word": "成都马拉松",
+      "onboard_time": 1668872612,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 251847,
@@ -21681,6 +21689,14 @@
       "onboard_time": 1667779827,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227408,
+      "num": 96348,
+      "word": "秦施暴击阳华",
+      "onboard_time": 1668874887,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 227367,
@@ -24099,14 +24115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198870,
-      "num": 198870,
-      "word": "成都马拉松",
-      "onboard_time": 1668872612,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198814,
       "num": 198814,
       "word": "双十一",
@@ -25361,6 +25369,14 @@
       "onboard_time": 1668172650,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186235,
+      "num": 186235,
+      "word": "女子认为被全家嫌弃带儿子跳河",
+      "onboard_time": 1668870453,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 186202,
@@ -27841,14 +27857,6 @@
       "onboard_time": 1668151720,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 160742,
-      "num": 93740,
-      "word": "秦施暴击阳华",
-      "onboard_time": 1668874887,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 160696,
@@ -35163,14 +35171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100658,
-      "num": 100658,
-      "word": "女子认为被全家嫌弃带儿子跳河",
-      "onboard_time": 1668870453,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 100574,
       "num": 100574,
       "word": "黄鹤楼最初不叫黄鹤楼",
@@ -39777,6 +39777,14 @@
       "onboard_time": 1668168030,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41430,
+      "num": 78150,
+      "word": "世界杯预言家已上线",
+      "onboard_time": 1668876443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41233,

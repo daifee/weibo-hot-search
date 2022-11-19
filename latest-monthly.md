@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 00:28:27
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 00:48:10
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E6%B0%91%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+重庆市民可免费观看世界杯（热度：1372431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 北京疫情防控（热度：1370567）
 </a>
@@ -1997,12 +2003,6 @@ TVB余子明去世（热度：1187677）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%84%B6%E5%BC%80%E9%99%A480%25%E6%8E%A8%E7%89%B9%E5%90%88%E5%90%8C%E5%B7%A5%23" target="weibo">
 马斯克突然开除80%推特合同工（热度：1151859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E6%B0%91%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-重庆市民可免费观看世界杯（热度：1151427）
 </a>
 </li>
 

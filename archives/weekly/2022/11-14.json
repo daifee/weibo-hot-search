@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668875307469,
+  "endTime": 1668876490157,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372431,
+      "num": 1372431,
+      "word": "重庆市民可免费观看世界杯",
+      "onboard_time": 1668873090,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1370567,
       "num": 873394,
       "word": "北京疫情防控",
@@ -889,14 +897,6 @@
       "onboard_time": 1668389247,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1151427,
-      "num": 1151427,
-      "word": "重庆市民可免费观看世界杯",
-      "onboard_time": 1668873090,
-      "rank": 3,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1148839,
@@ -6195,6 +6195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303910,
+      "num": 141486,
+      "word": "王鹤棣被何炅占便宜了",
+      "onboard_time": 1668875006,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302848,
       "num": 302848,
       "word": "男子在井盖下为儿子建秘密基地",
@@ -7091,14 +7099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257299,
-      "num": 117207,
-      "word": "王鹤棣被何炅占便宜了",
-      "onboard_time": 1668875006,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256848,
       "num": 256848,
       "word": "秦施阳华未婚已爱",
@@ -7233,6 +7233,14 @@
       "onboard_time": 1668834687,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251894,
+      "num": 251894,
+      "word": "成都马拉松",
+      "onboard_time": 1668872612,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 251829,
@@ -7865,6 +7873,14 @@
       "onboard_time": 1668561809,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227408,
+      "num": 96348,
+      "word": "秦施暴击阳华",
+      "onboard_time": 1668874887,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 226937,
@@ -8835,14 +8851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198870,
-      "num": 198870,
-      "word": "成都马拉松",
-      "onboard_time": 1668872612,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198447,
       "num": 198447,
       "word": "于文文刘恋赵梦合唱唯一",
@@ -9265,6 +9273,14 @@
       "onboard_time": 1668759627,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186235,
+      "num": 186235,
+      "word": "女子认为被全家嫌弃带儿子跳河",
+      "onboard_time": 1668870453,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 186155,
@@ -10192,14 +10208,6 @@
       "word": "阳华给秦施拉拉链",
       "onboard_time": 1668430106,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 160742,
-      "num": 93740,
-      "word": "秦施暴击阳华",
-      "onboard_time": 1668874887,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -12851,14 +12859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100658,
-      "num": 100658,
-      "word": "女子认为被全家嫌弃带儿子跳河",
-      "onboard_time": 1668870453,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 100053,
       "num": 55385,
       "word": "谁是你今年最喜欢的男性角色",
@@ -13617,6 +13617,14 @@
       "onboard_time": 1668357323,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41430,
+      "num": 78150,
+      "word": "世界杯预言家已上线",
+      "onboard_time": 1668876443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 39863,
