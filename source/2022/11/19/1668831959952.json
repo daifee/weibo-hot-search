@@ -1,0 +1,410 @@
+{
+  "runTime": 1668831959952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1513102,
+        "num": 1513102,
+        "word": "张文宏表示新冠病毒逐渐进入稳定期",
+        "onboard_time": 1668823049,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848765,
+        "num": 848765,
+        "word": "家长罚考56分娃独上学孕狗坚持接送",
+        "onboard_time": 1668826348,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29184,
+        "num": 746284,
+        "word": "那些被平凡暖意感动的瞬间",
+        "onboard_time": 1668777988,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 691977,
+        "num": 691977,
+        "word": "女孩右眼天生蓝色曾一度自卑",
+        "onboard_time": 1668818127,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587623,
+        "num": 587623,
+        "word": "暧昧期过长是什么体验",
+        "onboard_time": 1668827966,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562769,
+        "num": 562769,
+        "word": "柯南全员婚礼造型",
+        "onboard_time": 1668828447,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 546874,
+        "num": 546874,
+        "word": "两男子天冷嘴馋偷柴犬炖肉吃",
+        "onboard_time": 1668827008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483981,
+        "num": 483981,
+        "word": "男子吵架要离婚假装找1小时身份证",
+        "onboard_time": 1668814701,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454533,
+        "num": 454533,
+        "word": "中南大学一寝室4人全员保研名校",
+        "onboard_time": 1668828567,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 376828,
+        "num": 376828,
+        "word": "赵又廷毛晓彤赤子之心杀青照",
+        "onboard_time": 1668829048,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544043,
+        "num": 376006,
+        "word": "雷神有阿尔茨海默氏症倾向决定息影",
+        "onboard_time": 1668830546,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369004,
+        "num": 369004,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1668820950,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338085,
+        "num": 338085,
+        "word": "义乌一厂家每天组装4000套大力神杯",
+        "onboard_time": 1668827665,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 327600,
+        "num": 327600,
+        "word": "甘肃县级队领队回应淘汰北京国安",
+        "onboard_time": 1668826167,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313488,
+        "num": 313488,
+        "word": "2岁娃网购买童车到货家长才发现",
+        "onboard_time": 1668827606,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307614,
+        "num": 307614,
+        "word": "专八",
+        "onboard_time": 1668827187,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287212,
+        "num": 287212,
+        "word": "警方回应任贤齐转发的男童失踪案",
+        "onboard_time": 1668782670,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284993,
+        "num": 284993,
+        "word": "税务师",
+        "onboard_time": 1668829947,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265396,
+        "num": 265396,
+        "word": "北京新增515例本土感染者",
+        "onboard_time": 1668819989,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240793,
+        "num": 240793,
+        "word": "你好星期六全员组队嗨唱",
+        "onboard_time": 1668824967,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228962,
+        "num": 228962,
+        "word": "刘建宏指出中国足球最大问题",
+        "onboard_time": 1668825447,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217498,
+        "num": 217498,
+        "word": "马嘉祺我们的歌自己横版直拍",
+        "onboard_time": 1668831507,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215794,
+        "num": 215794,
+        "word": "烂尾8年交房业主被通知交续建费",
+        "onboard_time": 1668814160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214583,
+        "num": 214583,
+        "word": "女孩独自吃自助取菜时被收餐",
+        "onboard_time": 1668815484,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201114,
+        "num": 201114,
+        "word": "11月18日新增本土无症状22208例",
+        "onboard_time": 1668822506,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181936,
+        "num": 181936,
+        "word": "肖战疾冲开播2周年",
+        "onboard_time": 1668828866,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168741,
+        "num": 168741,
+        "word": "滴血验癌公司创始人被判11年",
+        "onboard_time": 1668831265,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163883,
+        "num": 163883,
+        "word": "张艺兴你好星期六比心",
+        "onboard_time": 1668830968,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161646,
+        "num": 161646,
+        "word": "部分电竞酒店存在未成年男女混住情况",
+        "onboard_time": 1668803231,
+        "rank": 28,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 158746,
+        "num": 158746,
+        "word": "美国男篮不是世界第一了",
+        "onboard_time": 1668818428,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154253,
+        "num": 154253,
+        "word": "带着作品走红毯的明星们",
+        "onboard_time": 1668826885,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "C罗抵达卡塔尔",
+        "onboard_time": 1668823108,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142376,
+        "num": 142376,
+        "word": "卿卿日常首周开播战报",
+        "onboard_time": 1668827788,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139009,
+        "num": 139009,
+        "word": "航天员在空间站拍到黄河入海流",
+        "onboard_time": 1668829345,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 133584,
+        "num": 133584,
+        "word": "一建",
+        "onboard_time": 1668830065,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "威神V回国机场图",
+        "onboard_time": 1668822867,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124350,
+        "num": 124350,
+        "word": "男孩扣开关触点为外婆买蛋糕",
+        "onboard_time": 1668825566,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115473,
+        "num": 115473,
+        "word": "田曦薇说热度破11000要跳女团舞",
+        "onboard_time": 1668813439,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115198,
+        "num": 115198,
+        "word": "原神",
+        "onboard_time": 1668813679,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 111967,
+        "word": "22点前入睡有助于长个儿",
+        "onboard_time": 1668812658,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111642,
+        "num": 111642,
+        "word": "知情人士称国产新冠口服药药店将下架",
+        "onboard_time": 1668831626,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111372,
+        "num": 111372,
+        "word": "白鹿镜头下的杨颖",
+        "onboard_time": 1668788424,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105339,
+        "num": 105339,
+        "word": "丁俊晖6比0奥沙利文",
+        "onboard_time": 1668822927,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104093,
+        "num": 104093,
+        "word": "阿兹夫定片每瓶卖到350元",
+        "onboard_time": 1668831507,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102027,
+        "num": 102027,
+        "word": "男子称母亲网购10卷纸收到却变1卷",
+        "onboard_time": 1668816086,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97911,
+        "num": 97911,
+        "word": "睡觉时猛抖一下究竟是什么原因",
+        "onboard_time": 1668806472,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96361,
+        "num": 96361,
+        "word": "考研成功率低于本科录取率",
+        "onboard_time": 1668778109,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 94502,
+        "num": 94502,
+        "word": "警校弟弟打视频串宿给姐介绍帅哥",
+        "onboard_time": 1668821968,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94101,
+        "num": 94101,
+        "word": "月薪6000猫保姆回应质疑",
+        "onboard_time": 1668783150,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93238,
+        "num": 93238,
+        "word": "女生遭霸凌涉案人被采取刑事强制措施",
+        "onboard_time": 1668831926,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚太是全球经济增长动力之源#"
+    }
+  }
+}
