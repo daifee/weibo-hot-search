@@ -1,7 +1,15 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668824398061,
+  "endTime": 1668827557588,
   "band_list": [
+    {
+      "raw_hot": 1859297,
+      "num": 1859297,
+      "word": "张文宏表示新冠病毒逐渐进入稳定期",
+      "onboard_time": 1668823049,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1682989,
       "num": 1682989,
@@ -41,14 +49,6 @@
       "onboard_time": 1668778109,
       "rank": 1,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 813504,
-      "num": 813504,
-      "word": "张文宏表示新冠病毒逐渐进入稳定期",
-      "onboard_time": 1668823049,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759979,
@@ -113,6 +113,14 @@
       "onboard_time": 1668817828,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555955,
+      "num": 555955,
+      "word": "你好星期六全员组队嗨唱",
+      "onboard_time": 1668824967,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 548652,
@@ -203,6 +211,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 337000,
+      "num": 337000,
+      "word": "警校弟弟打视频串宿给姐介绍帅哥",
+      "onboard_time": 1668821968,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331353,
       "num": 331353,
       "word": "广州警方通报女子反绑跪地事件",
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289991,
+      "num": 289991,
+      "word": "家长罚考56分娃独上学孕狗坚持接送",
+      "onboard_time": 1668826348,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271922,
       "num": 271922,
       "word": "男子称母亲网购10卷纸收到却变1卷",
@@ -257,14 +281,6 @@
       "onboard_time": 1668816446,
       "rank": 18,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 269445,
-      "num": 269445,
-      "word": "警校弟弟打视频串宿给姐介绍帅哥",
-      "onboard_time": 1668821968,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268306,
@@ -339,6 +355,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220706,
+      "num": 220706,
+      "word": "丁俊晖6比0奥沙利文",
+      "onboard_time": 1668822927,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214858,
+      "num": 214858,
+      "word": "刘建宏指出中国足球最大问题",
+      "onboard_time": 1668825447,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209388,
+      "num": 209388,
+      "word": "鹿晗侧颜随拍五宫格",
+      "onboard_time": 1668824248,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208542,
       "num": 208542,
       "word": "为什么越来越难喜欢上一个人",
@@ -360,6 +400,14 @@
       "word": "梅西刚下飞机就被围了",
       "onboard_time": 1668795135,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183880,
+      "num": 183880,
+      "word": "C罗抵达卡塔尔",
+      "onboard_time": 1668823108,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -403,19 +451,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170735,
-      "num": 170735,
-      "word": "C罗抵达卡塔尔",
-      "onboard_time": 1668823108,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 174845,
+      "num": 174845,
+      "word": "专八",
+      "onboard_time": 1668827187,
+      "rank": 25,
+      "category": "教育"
     },
     {
-      "raw_hot": 164267,
-      "num": 164267,
-      "word": "丁俊晖6比0奥沙利文",
-      "onboard_time": 1668822927,
+      "raw_hot": 172293,
+      "num": 172293,
+      "word": "男孩扣开关触点为外婆买蛋糕",
+      "onboard_time": 1668825566,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170232,
+      "num": 170232,
+      "word": "王鹤棣星期六剧照",
+      "onboard_time": 1668827306,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162250,
+      "num": 162250,
+      "word": "甘肃县级队领队回应淘汰北京国安",
+      "onboard_time": 1668826167,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -451,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150391,
+      "num": 150391,
+      "word": "周梅森说万茜是唯一的例外",
+      "onboard_time": 1668825986,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149010,
       "num": 149010,
       "word": "甘肃县级队足协杯淘汰北京国安",
@@ -473,6 +545,14 @@
       "onboard_time": 1668817828,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145049,
+      "num": 145049,
+      "word": "11月18日新增本土确诊2055例",
+      "onboard_time": 1668827127,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143173,
@@ -507,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135799,
+      "num": 135799,
+      "word": "带着作品走红毯的明星们",
+      "onboard_time": 1668826885,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133371,
       "num": 133371,
       "word": "26岁小伙为看C罗骑行穿越3个国家",
@@ -515,12 +603,36 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 132475,
+      "num": 132475,
+      "word": "两男子天冷嘴馋偷柴犬炖肉吃",
+      "onboard_time": 1668827008,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "12岁男孩不慎被弓箭射中鼻梁",
       "onboard_time": 1668799393,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130856,
+      "num": 130856,
+      "word": "应急管理局回应比亚迪惠州工厂着火",
+      "onboard_time": 1668823587,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 128156,
+      "num": 128156,
+      "word": "大理寺日志第2季动画",
+      "onboard_time": 1668827486,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 126169,
@@ -545,14 +657,6 @@
       "onboard_time": 1668824187,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121938,
-      "num": 121938,
-      "word": "鹿晗侧颜随拍五宫格",
-      "onboard_time": 1668824248,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 121292,
@@ -603,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108405,
+      "num": 108405,
+      "word": "李薇助攻节气姑娘们做生意",
+      "onboard_time": 1668826706,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "柿子瀑布有多壮观",
@@ -625,14 +737,6 @@
       "onboard_time": 1668771507,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103342,
-      "num": 103342,
-      "word": "应急管理局回应比亚迪惠州工厂着火",
-      "onboard_time": 1668823587,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 101785,

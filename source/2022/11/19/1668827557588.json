@@ -1,0 +1,410 @@
+{
+  "runTime": 1668827557588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1859297,
+        "num": 1859297,
+        "word": "张文宏表示新冠病毒逐渐进入稳定期",
+        "onboard_time": 1668823049,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214697,
+        "num": 1214697,
+        "word": "女孩右眼天生蓝色曾一度自卑",
+        "onboard_time": 1668818127,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51921,
+        "num": 796645,
+        "word": "那些被平凡暖意感动的瞬间",
+        "onboard_time": 1668777988,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 632510,
+        "num": 632510,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1668820950,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555955,
+        "num": 555955,
+        "word": "你好星期六全员组队嗨唱",
+        "onboard_time": 1668824967,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504611,
+        "num": 504611,
+        "word": "男子吵架要离婚假装找1小时身份证",
+        "onboard_time": 1668814701,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477638,
+        "num": 477638,
+        "word": "11月18日新增本土无症状22208例",
+        "onboard_time": 1668822506,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397517,
+        "num": 397517,
+        "word": "北京新增515例本土感染者",
+        "onboard_time": 1668819989,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377641,
+        "num": 377641,
+        "word": "女孩独自吃自助取菜时被收餐",
+        "onboard_time": 1668815484,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337000,
+        "num": 337000,
+        "word": "警校弟弟打视频串宿给姐介绍帅哥",
+        "onboard_time": 1668821968,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423229,
+        "num": 333679,
+        "word": "警方回应任贤齐转发的男童失踪案",
+        "onboard_time": 1668782670,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 289991,
+        "num": 289991,
+        "word": "家长罚考56分娃独上学孕狗坚持接送",
+        "onboard_time": 1668826348,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266652,
+        "num": 266652,
+        "word": "部分电竞酒店存在未成年男女混住情况",
+        "onboard_time": 1668803231,
+        "rank": 12,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 253658,
+        "num": 253658,
+        "word": "威神V回国机场图",
+        "onboard_time": 1668822867,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236714,
+        "num": 236714,
+        "word": "田曦薇说热度破11000要跳女团舞",
+        "onboard_time": 1668813439,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233820,
+        "num": 233820,
+        "word": "美国男篮不是世界第一了",
+        "onboard_time": 1668818428,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233369,
+        "num": 233369,
+        "word": "烂尾8年交房业主被通知交续建费",
+        "onboard_time": 1668814160,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220706,
+        "num": 220706,
+        "word": "丁俊晖6比0奥沙利文",
+        "onboard_time": 1668822927,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218298,
+        "num": 218298,
+        "word": "22点前入睡有助于长个儿",
+        "onboard_time": 1668812658,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214858,
+        "num": 214858,
+        "word": "刘建宏指出中国足球最大问题",
+        "onboard_time": 1668825447,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214856,
+        "num": 214856,
+        "word": "合肥市监调查疯狂小杨哥涉虚假宣传",
+        "onboard_time": 1668819508,
+        "rank": 20,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 209388,
+        "num": 209388,
+        "word": "鹿晗侧颜随拍五宫格",
+        "onboard_time": 1668824248,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195963,
+        "num": 195963,
+        "word": "白鹿镜头下的杨颖",
+        "onboard_time": 1668788424,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183880,
+        "num": 183880,
+        "word": "C罗抵达卡塔尔",
+        "onboard_time": 1668823108,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182824,
+        "num": 182824,
+        "word": "睡觉时猛抖一下究竟是什么原因",
+        "onboard_time": 1668806472,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "专八",
+        "onboard_time": 1668827187,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172293,
+        "num": 172293,
+        "word": "男孩扣开关触点为外婆买蛋糕",
+        "onboard_time": 1668825566,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170232,
+        "num": 170232,
+        "word": "王鹤棣星期六剧照",
+        "onboard_time": 1668827306,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164472,
+        "num": 164472,
+        "word": "原神",
+        "onboard_time": 1668813679,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162250,
+        "num": 162250,
+        "word": "甘肃县级队领队回应淘汰北京国安",
+        "onboard_time": 1668826167,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161914,
+        "num": 161914,
+        "word": "为什么十四亿人里挑不出好球员",
+        "onboard_time": 1668817828,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 847649,
+        "num": 160504,
+        "word": "谁能理解老年人的性生活需求",
+        "onboard_time": 1668818127,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158332,
+        "num": 158332,
+        "word": "考研成功率低于本科录取率",
+        "onboard_time": 1668778109,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 156852,
+        "num": 156852,
+        "word": "女生一个人住民宿有多危险",
+        "onboard_time": 1668787468,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151256,
+        "num": 151256,
+        "word": "男子称母亲网购10卷纸收到却变1卷",
+        "onboard_time": 1668816086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150391,
+        "num": 150391,
+        "word": "周梅森说万茜是唯一的例外",
+        "onboard_time": 1668825986,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146617,
+        "num": 146617,
+        "word": "江西彩礼被误解好多年",
+        "onboard_time": 1668783693,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145189,
+        "num": 145189,
+        "word": "月薪6000猫保姆回应质疑",
+        "onboard_time": 1668783150,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145049,
+        "num": 145049,
+        "word": "11月18日新增本土确诊2055例",
+        "onboard_time": 1668827127,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140469,
+        "num": 140469,
+        "word": "比亚迪惠州工厂着火",
+        "onboard_time": 1668816446,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135799,
+        "num": 135799,
+        "word": "带着作品走红毯的明星们",
+        "onboard_time": 1668826885,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132475,
+        "num": 132475,
+        "word": "两男子天冷嘴馋偷柴犬炖肉吃",
+        "onboard_time": 1668827008,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130856,
+        "num": 130856,
+        "word": "应急管理局回应比亚迪惠州工厂着火",
+        "onboard_time": 1668823587,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 128156,
+        "num": 128156,
+        "word": "大理寺日志第2季动画",
+        "onboard_time": 1668827486,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126266,
+        "num": 126266,
+        "word": "选对裤子能有多显瘦",
+        "onboard_time": 1668786570,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121352,
+        "num": 121352,
+        "word": "考研比高考还难吗",
+        "onboard_time": 1668785011,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119211,
+        "num": 119211,
+        "word": "警方回应鹤壁16岁女生遭霸凌",
+        "onboard_time": 1668770187,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114467,
+        "num": 114467,
+        "word": "张颜齐在朝阳打歌中心颜面尽失",
+        "onboard_time": 1668821367,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108405,
+        "num": 108405,
+        "word": "李薇助攻节气姑娘们做生意",
+        "onboard_time": 1668826706,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108027,
+        "num": 108027,
+        "word": "名侦探柯南",
+        "onboard_time": 1668776246,
+        "rank": 49,
+        "category": "影视,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC第29次领导人非正式会议#"
+    }
+  }
+}
