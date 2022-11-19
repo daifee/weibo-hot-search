@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668892676341,
+  "endTime": 1668893653012,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -40075,6 +40075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31607,
+      "num": 18134,
+      "word": "世界杯离美军基地只有20多公里",
+      "onboard_time": 1668891432,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 31496,
       "num": 19819,
       "word": "假如能和周杰伦连麦",
@@ -40097,6 +40105,14 @@
       "onboard_time": 1668283392,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31129,
+      "num": 26834,
+      "word": "剧组拍摄后未清干净人造雪惹怒商户",
+      "onboard_time": 1668891012,
+      "rank": 24,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 30743,
@@ -40235,6 +40251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24728,
+      "num": 24728,
+      "word": "西安一医院ICU门口设陪护睡眠仓",
+      "onboard_time": 1668892152,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24528,
       "num": 22284,
       "word": "包装盒上的牛肉面",
@@ -40297,14 +40321,6 @@
       "onboard_time": 1667852891,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22917,
-      "num": 15963,
-      "word": "世界杯离美军基地只有20多公里",
-      "onboard_time": 1668891432,
-      "rank": 31,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 22804,
@@ -40401,14 +40417,6 @@
       "onboard_time": 1668715632,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19383,
-      "num": 19383,
-      "word": "剧组拍摄后未清干净人造雪惹怒商户",
-      "onboard_time": 1668891012,
-      "rank": 24,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 18971,
@@ -40569,14 +40577,6 @@
       "onboard_time": 1668395608,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 13155,
-      "num": 13155,
-      "word": "西安一医院ICU门口设陪护睡眠仓",
-      "onboard_time": 1668892152,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13032,
