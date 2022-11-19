@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668893653012,
+  "endTime": 1668896379592,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -324,10 +324,18 @@
     },
     {
       "raw_hot": 119318,
-      "num": 48852,
+      "num": 68048,
       "word": "女子6200元变卖闺蜜手机报警称被抢",
       "onboard_time": 1668882316,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115142,
+      "num": 38993,
+      "word": "西安一医院ICU门口设陪护睡眠仓",
+      "onboard_time": 1668892152,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -443,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64560,
+      "num": 38364,
+      "word": "剧组拍摄后未清干净人造雪惹怒商户",
+      "onboard_time": 1668891012,
+      "rank": 24,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 62065,
+      "num": 20796,
+      "word": "世界杯离美军基地只有20多公里",
+      "onboard_time": 1668891432,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 56869,
       "num": 47813,
       "word": "你有坚持了十年的事情吗",
@@ -467,14 +491,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 31607,
-      "num": 18134,
-      "word": "世界杯离美军基地只有20多公里",
-      "onboard_time": 1668891432,
-      "rank": 31,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 31496,
       "num": 19819,
       "word": "假如能和周杰伦连麦",
@@ -483,28 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 31129,
-      "num": 26834,
-      "word": "剧组拍摄后未清干净人造雪惹怒商户",
-      "onboard_time": 1668891012,
-      "rank": 24,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 26064,
-      "num": 22007,
+      "raw_hot": 29559,
+      "num": 29559,
       "word": "津秦高铁行车中断",
       "onboard_time": 1668886631,
       "rank": 34,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24728,
-      "num": 24728,
-      "word": "西安一医院ICU门口设陪护睡眠仓",
-      "onboard_time": 1668892152,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 23222,
+      "num": 18573,
+      "word": "尹峥李薇害怕元英训导不敢进家门",
+      "onboard_time": 1668894852,
+      "rank": 40,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
