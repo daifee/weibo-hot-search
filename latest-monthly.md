@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 20:37:12
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/19 20:57:26
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@ T1和DRX决胜局（热度：3699608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23" target="weibo">
 深圳大学回应（热度：3361288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%93%A5%E5%8F%8B%E4%BC%9A%23" target="weibo">
+周杰伦哥友会（热度：3343958）
 </a>
 </li>
 
@@ -479,12 +485,6 @@ keria痛哭（热度：2135561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%A5%B6%E5%AE%9D%23" target="weibo">
 热奶宝（热度：2130282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%93%A5%E5%8F%8B%E4%BC%9A%23" target="weibo">
-周杰伦哥友会（热度：2121392）
 </a>
 </li>
 
@@ -2597,6 +2597,12 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%B1%E8%B1%86%E5%87%BA%E8%BA%AB%E5%9C%A8%E5%AE%B6%E5%90%B8%E6%AF%92%E8%A2%AB%E6%8D%95%23" target="weibo">
 韩国爱豆出身在家吸毒被捕（热度：996487）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%AA%E6%8A%A5%E5%A4%87%E8%A1%8C%E7%A8%8B%E8%87%B4183%E4%BA%BA%E6%84%9F%E6%9F%93%E8%8E%B7%E5%88%914%E5%B9%B4%23" target="weibo">
+两货车司机未报备行程致183人感染获刑4年（热度：993634）
 </a>
 </li>
 
@@ -5459,12 +5465,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022LPL%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
 2022LPL全明星（热度：599160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%AA%E6%8A%A5%E5%A4%87%E8%A1%8C%E7%A8%8B%E8%87%B4183%E4%BA%BA%E6%84%9F%E6%9F%93%E8%8E%B7%E5%88%914%E5%B9%B4%23" target="weibo">
-两货车司机未报备行程致183人感染获刑4年（热度：597836）
 </a>
 </li>
 

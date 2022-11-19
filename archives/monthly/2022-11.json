@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668861432213,
+  "endTime": 1668862646221,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -177,6 +177,14 @@
       "onboard_time": 1668216931,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3343958,
+      "num": 3343958,
+      "word": "周杰伦哥友会",
+      "onboard_time": 1668858447,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 3219907,
@@ -625,14 +633,6 @@
       "onboard_time": 1668854487,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2121392,
-      "num": 2121392,
-      "word": "周杰伦哥友会",
-      "onboard_time": 1668858447,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 2092385,
@@ -3449,6 +3449,14 @@
       "onboard_time": 1667560469,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 993634,
+      "num": 661386,
+      "word": "两货车司机未报备行程致183人感染获刑4年",
+      "onboard_time": 1668857907,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993081,
@@ -7267,14 +7275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 597836,
-      "num": 597836,
-      "word": "两货车司机未报备行程致183人感染获刑4年",
-      "onboard_time": 1668857907,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 597525,
       "num": 456750,
       "word": "公司强迫感染新冠男团成员登台",
@@ -9769,6 +9769,14 @@
       "onboard_time": 1667275584,
       "rank": 17,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 488079,
+      "num": 488079,
+      "word": "13岁女孩每天1杯奶茶患糖尿病",
+      "onboard_time": 1668860429,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487857,
@@ -14571,6 +14579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349738,
+      "num": 349738,
+      "word": "陈飞宇张婧仪点燃我温暖你海报拍摄花絮",
+      "onboard_time": 1668860489,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349280,
       "num": 349280,
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
@@ -15435,14 +15451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331853,
-      "num": 331853,
-      "word": "陈飞宇张婧仪点燃我温暖你海报拍摄花絮",
-      "onboard_time": 1668860489,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 331815,
       "num": 331815,
       "word": "哪些内容千万别晒朋友圈",
@@ -15705,6 +15713,14 @@
       "onboard_time": 1667361987,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 326645,
+      "num": 326645,
+      "word": "2022TVB台庆红毯",
+      "onboard_time": 1668861328,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 326225,
@@ -18859,6 +18875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268496,
+      "num": 268496,
+      "word": "半岛铁盒",
+      "onboard_time": 1668862410,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268475,
       "num": 268475,
       "word": "王鹤棣被鸡踹到头",
@@ -19659,6 +19683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254395,
+      "num": 254395,
+      "word": "陈小纭郝葭古风舞",
+      "onboard_time": 1668859827,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254360,
       "num": 254360,
       "word": "一个方法告别抑郁症",
@@ -19881,6 +19913,14 @@
       "onboard_time": 1667638106,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250559,
+      "num": 250559,
+      "word": "慢热和不喜欢的区别是什么",
+      "onboard_time": 1668859589,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 250166,
@@ -20993,14 +21033,6 @@
       "onboard_time": 1668250109,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233138,
-      "num": 233138,
-      "word": "慢热和不喜欢的区别是什么",
-      "onboard_time": 1668859589,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 233098,
@@ -22371,14 +22403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216436,
-      "num": 216436,
-      "word": "13岁女孩每天1杯奶茶患糖尿病",
-      "onboard_time": 1668860429,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216369,
       "num": 184961,
       "word": "范丞丞重新定义剪平头",
@@ -23435,6 +23459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203319,
+      "num": 203319,
+      "word": "哪家手机系统广告多",
+      "onboard_time": 1668858691,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203260,
       "num": 203260,
       "word": "沈腾提名金鸡奖最佳男主角",
@@ -24449,6 +24481,14 @@
       "onboard_time": 1668530724,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191983,
+      "num": 160401,
+      "word": "北京新增56例社会面感染者",
+      "onboard_time": 1668861149,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191891,
@@ -27091,14 +27131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164588,
-      "num": 164588,
-      "word": "2022TVB台庆红毯",
-      "onboard_time": 1668861328,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164495,
       "num": 164495,
       "word": "单身即地狱2将12月13日播出",
@@ -27865,14 +27897,6 @@
       "onboard_time": 1668152260,
       "rank": 36,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 158332,
-      "num": 158332,
-      "word": "哪家手机系统广告多",
-      "onboard_time": 1668858691,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 158287,
@@ -28801,14 +28825,6 @@
       "onboard_time": 1668666928,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149065,
-      "num": 149065,
-      "word": "北京新增56例社会面感染者",
-      "onboard_time": 1668861149,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149053,
@@ -32091,6 +32107,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 124386,
+      "num": 124386,
+      "word": "橘猫的体重没有虚的",
+      "onboard_time": 1668859169,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124217,
       "num": 124217,
       "word": "林高远王曼昱4比2王楚钦孙颖莎",
@@ -32313,14 +32337,6 @@
       "onboard_time": 1667459364,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122160,
-      "num": 122160,
-      "word": "橘猫的体重没有虚的",
-      "onboard_time": 1668859169,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 122101,
@@ -34355,6 +34371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104955,
+      "num": 104955,
+      "word": "霍华德绝平盖帽",
+      "onboard_time": 1668861328,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104946,
       "num": 104946,
       "word": "命韵峋环身高差",
@@ -35347,6 +35371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96985,
+      "num": 96985,
+      "word": "像极了半夜饿肚子的我",
+      "onboard_time": 1668861928,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96910,
       "num": 96910,
       "word": "目击者讲述潮州特斯拉车祸瞬间",
@@ -35625,6 +35657,14 @@
       "onboard_time": 1668482188,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 95001,
+      "num": 95001,
+      "word": "龙傲天ber丝地瓜",
+      "onboard_time": 1668862410,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 94925,
@@ -36569,14 +36609,6 @@
       "onboard_time": 1668068964,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88301,
-      "num": 102055,
-      "word": "霍华德绝平盖帽",
-      "onboard_time": 1668861328,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 88192,

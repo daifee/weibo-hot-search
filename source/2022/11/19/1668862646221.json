@@ -1,0 +1,410 @@
+{
+  "runTime": 1668862646221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3343958,
+        "num": 3343958,
+        "word": "周杰伦哥友会",
+        "onboard_time": 1668858447,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2128797,
+        "num": 2128797,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1668857426,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90966,
+        "num": 1195126,
+        "word": "太空视角版黄河入海流",
+        "onboard_time": 1668848246,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 951162,
+        "num": 951162,
+        "word": "女生卖热奶宝7元1个15元俩",
+        "onboard_time": 1668849208,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728724,
+        "num": 728724,
+        "word": "热奶宝",
+        "onboard_time": 1668854487,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 993634,
+        "num": 661386,
+        "word": "两货车司机未报备行程致183人感染获刑4年",
+        "onboard_time": 1668857907,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521159,
+        "num": 521159,
+        "word": "新冠口服药被要求即刻下架",
+        "onboard_time": 1668846266,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488079,
+        "num": 488079,
+        "word": "13岁女孩每天1杯奶茶患糖尿病",
+        "onboard_time": 1668860429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478915,
+        "num": 478915,
+        "word": "央视频之夜阵容官宣王冰冰",
+        "onboard_time": 1668844409,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473633,
+        "num": 473633,
+        "word": "北京朝阳说希望明天大家继续宅一宅",
+        "onboard_time": 1668853826,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667716,
+        "num": 450923,
+        "word": "官方回应合肥步行街现尸体",
+        "onboard_time": 1668841465,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 659455,
+        "num": 434786,
+        "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
+        "onboard_time": 1668852327,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405710,
+        "num": 405710,
+        "word": "男生买鸡公煲商家忘放鸡肉闹乌龙",
+        "onboard_time": 1668856648,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382338,
+        "num": 382338,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1668856890,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364837,
+        "num": 364837,
+        "word": "霍华德38分25篮板",
+        "onboard_time": 1668858447,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349738,
+        "num": 349738,
+        "word": "陈飞宇张婧仪点燃我温暖你海报拍摄花絮",
+        "onboard_time": 1668860489,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326645,
+        "num": 326645,
+        "word": "2022TVB台庆红毯",
+        "onboard_time": 1668861328,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305065,
+        "num": 305065,
+        "word": "大熊猫团团不幸离世",
+        "onboard_time": 1668837266,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302983,
+        "num": 302983,
+        "word": "北京堂食",
+        "onboard_time": 1668855926,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276375,
+        "num": 276375,
+        "word": "女子称荒地露营1天内被村民收费4次",
+        "onboard_time": 1668856410,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268496,
+        "num": 268496,
+        "word": "半岛铁盒",
+        "onboard_time": 1668862410,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254395,
+        "num": 254395,
+        "word": "陈小纭郝葭古风舞",
+        "onboard_time": 1668859827,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253478,
+        "num": 253478,
+        "word": "被传白天救狗晚上卖狗当事人发声",
+        "onboard_time": 1668859293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250559,
+        "num": 250559,
+        "word": "慢热和不喜欢的区别是什么",
+        "onboard_time": 1668859589,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246966,
+        "num": 246966,
+        "word": "柯南自曝想娶小兰",
+        "onboard_time": 1668835708,
+        "rank": 24,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 207604,
+        "num": 207604,
+        "word": "班主任给44人每人奖励1根甘蔗",
+        "onboard_time": 1668853227,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203319,
+        "num": 203319,
+        "word": "哪家手机系统广告多",
+        "onboard_time": 1668858691,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176461,
+        "num": 176461,
+        "word": "宝宝剃胎毛后局部毛囊闭合难长头发",
+        "onboard_time": 1668839606,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167897,
+        "num": 167897,
+        "word": "2022乒乓球亚洲杯",
+        "onboard_time": 1668859110,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149116,
+        "num": 167883,
+        "word": "王艺迪亚洲杯女单冠军",
+        "onboard_time": 1668857308,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206639,
+        "num": 167810,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1668850528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201739,
+        "num": 167789,
+        "word": "seventeen演唱会现场氛围",
+        "onboard_time": 1668859949,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199709,
+        "num": 167731,
+        "word": "网传落花时节又逢君12月播出",
+        "onboard_time": 1668858747,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167682,
+        "num": 167682,
+        "word": "第一次觉得猫好可怕",
+        "onboard_time": 1668842307,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191983,
+        "num": 160401,
+        "word": "北京新增56例社会面感染者",
+        "onboard_time": 1668861149,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183204,
+        "num": 160168,
+        "word": "和高情商的人相处有多舒服",
+        "onboard_time": 1668860369,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151738,
+        "num": 151738,
+        "word": "王艺迪vs伊藤美诚",
+        "onboard_time": 1668855447,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139302,
+        "num": 139302,
+        "word": "北京朝阳除高风险区外全域划为低风险区",
+        "onboard_time": 1668855208,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124855,
+        "num": 124855,
+        "word": "卡塔尔世界杯中国元素如满天繁星",
+        "onboard_time": 1668845609,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 124386,
+        "num": 124386,
+        "word": "橘猫的体重没有虚的",
+        "onboard_time": 1668859169,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153601,
+        "num": 120355,
+        "word": "王鹤棣虞书欣湖南旅游发展大会ID",
+        "onboard_time": 1668842006,
+        "rank": 40,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 153480,
+        "num": 118597,
+        "word": "柯南删吻戏",
+        "onboard_time": 1668835888,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 115565,
+        "num": 115565,
+        "word": "中国最能吃辣的地方",
+        "onboard_time": 1668854189,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "再见了团团",
+        "onboard_time": 1668842126,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 104955,
+        "word": "霍华德绝平盖帽",
+        "onboard_time": 1668861328,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104042,
+        "num": 104042,
+        "word": "浙江奶奶13年养大非洲孙子",
+        "onboard_time": 1668844586,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96985,
+        "num": 96985,
+        "word": "像极了半夜饿肚子的我",
+        "onboard_time": 1668861928,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95954,
+        "num": 95954,
+        "word": "越狱失败还被抱住的小猫",
+        "onboard_time": 1668852928,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95282,
+        "num": 95282,
+        "word": "教小孩学会尊重真的很重要",
+        "onboard_time": 1668852809,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 95001,
+        "num": 95001,
+        "word": "龙傲天ber丝地瓜",
+        "onboard_time": 1668862410,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC第29次领导人非正式会议#"
+    }
+  }
+}
