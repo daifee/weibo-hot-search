@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668879346873,
+  "endTime": 1668882316147,
   "band_list": [
     {
       "raw_hot": 1814816,
@@ -89,6 +89,14 @@
       "onboard_time": 1668873090,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370153,
+      "num": 370153,
+      "word": "男子当街暴打边牧还跳起双脚踩头",
+      "onboard_time": 1668878958,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363119,
@@ -427,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42065,
-      "num": 44274,
-      "word": "男子当街暴打边牧还跳起双脚踩头",
-      "onboard_time": 1668878958,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 44087,
+      "num": 34833,
+      "word": "你有坚持了十年的事情吗",
+      "onboard_time": 1668881176,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 32047,
