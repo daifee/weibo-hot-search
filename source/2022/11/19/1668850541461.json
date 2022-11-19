@@ -1,0 +1,410 @@
+{
+  "runTime": 1668850541461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540582,
+        "num": 1540582,
+        "word": "央视频之夜阵容官宣王冰冰",
+        "onboard_time": 1668844409,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1285935,
+        "num": 1285935,
+        "word": "大熊猫团团不幸离世",
+        "onboard_time": 1668837266,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117489,
+        "num": 1283115,
+        "word": "太空视角版黄河入海流",
+        "onboard_time": 1668848246,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1548993,
+        "num": 1282764,
+        "word": "女子怀孕被嫌事多老公放言不要孩子",
+        "onboard_time": 1668843086,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281400,
+        "num": 1281400,
+        "word": "新冠口服药被要求即刻下架",
+        "onboard_time": 1668846266,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921447,
+        "num": 921447,
+        "word": "柯南自曝想娶小兰",
+        "onboard_time": 1668835708,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 683204,
+        "num": 683204,
+        "word": "宋仲基财阀家的小儿子开播",
+        "onboard_time": 1668848126,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482197,
+        "num": 482197,
+        "word": "卡塔尔世界杯中国元素如满天繁星",
+        "onboard_time": 1668845609,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 423588,
+        "num": 423588,
+        "word": "宝宝剃胎毛后局部毛囊闭合难长头发",
+        "onboard_time": 1668839606,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414996,
+        "num": 414996,
+        "word": "第一次觉得猫好可怕",
+        "onboard_time": 1668842307,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 927321,
+        "num": 406340,
+        "word": "官方回应合肥步行街现尸体",
+        "onboard_time": 1668841465,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 610765,
+        "num": 403126,
+        "word": "女生卖热奶宝7元1个15元俩",
+        "onboard_time": 1668849208,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446157,
+        "num": 400376,
+        "word": "柯南删吻戏",
+        "onboard_time": 1668835888,
+        "rank": 12,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 374885,
+        "num": 374885,
+        "word": "道枝骏佑荧屏初吻",
+        "onboard_time": 1668845009,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126821,
+        "num": 363501,
+        "word": "疫情歼灭战重庆山火骑士又聚首",
+        "onboard_time": 1668848425,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363348,
+        "num": 363348,
+        "word": "刘恋被张天爱夹子音攻击",
+        "onboard_time": 1668847289,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299580,
+        "num": 299580,
+        "word": "浙江奶奶13年养大非洲孙子",
+        "onboard_time": 1668844586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294512,
+        "num": 294512,
+        "word": "张文宏表示新冠病毒逐渐进入稳定期",
+        "onboard_time": 1668823049,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237352,
+        "num": 237352,
+        "word": "年轻人是懂刻晴的",
+        "onboard_time": 1668846149,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 225554,
+        "num": 225554,
+        "word": "再见了团团",
+        "onboard_time": 1668842126,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248966,
+        "num": 220539,
+        "word": "张碧晨去了小鬼人生第一场演唱会",
+        "onboard_time": 1668840986,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247840,
+        "num": 218661,
+        "word": "王鹤棣虞书欣湖南旅游发展大会ID",
+        "onboard_time": 1668842006,
+        "rank": 21,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 228835,
+        "num": 216548,
+        "word": "吴磊大侦探8录制路透",
+        "onboard_time": 1668844648,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210970,
+        "num": 210970,
+        "word": "字母哥愤怒推倒修理工梯子",
+        "onboard_time": 1668840207,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195940,
+        "num": 195940,
+        "word": "平凉市体育局发贺电",
+        "onboard_time": 1668848726,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193629,
+        "num": 193629,
+        "word": "想减肥真的不能熬夜",
+        "onboard_time": 1668844286,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180444,
+        "num": 180444,
+        "word": "男足世界杯首次出现6名女裁判",
+        "onboard_time": 1668847586,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177581,
+        "num": 177581,
+        "word": "女生遭霸凌涉案人被采取刑事强制措施",
+        "onboard_time": 1668831926,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 148227,
+        "num": 148227,
+        "word": "体育生餐厅狂摇米饭4碗变2碗",
+        "onboard_time": 1668843868,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139318,
+        "num": 139318,
+        "word": "致重庆市民的一封信",
+        "onboard_time": 1668833126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219559,
+        "num": 139111,
+        "word": "命韵峋环终于要合体了",
+        "onboard_time": 1668841948,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208919,
+        "num": 138790,
+        "word": "朴振英曺柔理合作舞台",
+        "onboard_time": 1668847707,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169163,
+        "num": 138541,
+        "word": "陈楚生龙丹妮世纪拥抱",
+        "onboard_time": 1668835466,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167387,
+        "num": 138176,
+        "word": "吴世勋说不懂换乘恋爱",
+        "onboard_time": 1668839484,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137977,
+        "num": 137977,
+        "word": "甘肃泾川县足协主席发声",
+        "onboard_time": 1668847886,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "暴雪中国最新发声",
+        "onboard_time": 1668850346,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130858,
+        "num": 130858,
+        "word": "张本智和4比1庄智渊",
+        "onboard_time": 1668849689,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128160,
+        "num": 128160,
+        "word": "00后女生用漫画寻回宠物猫",
+        "onboard_time": 1668850048,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125676,
+        "num": 125676,
+        "word": "动物园称将团团遗体作为标本保留",
+        "onboard_time": 1668849987,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "边牧与哈士奇的区别",
+        "onboard_time": 1668848008,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144535,
+        "num": 123539,
+        "word": "成龙金鸡奖后台祝贺朱一龙",
+        "onboard_time": 1668842787,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122754,
+        "num": 122754,
+        "word": "衡水中学启动教学改革破除超限内卷",
+        "onboard_time": 1668849567,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 118003,
+        "num": 118003,
+        "word": "滴血验癌公司创始人被判11年",
+        "onboard_time": 1668831265,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117553,
+        "num": 117553,
+        "word": "女子称饭店被4男子暴力催收卫生费",
+        "onboard_time": 1668838708,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 116566,
+        "num": 116566,
+        "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
+        "onboard_time": 1668848187,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112027,
+        "num": 112027,
+        "word": "女生辞职到卡塔尔看梅西最后一届世界杯",
+        "onboard_time": 1668836246,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 111689,
+        "num": 111689,
+        "word": "学校给优秀学生奖励1人2斤猪肉",
+        "onboard_time": 1668846687,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134579,
+        "num": 111061,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1668850528,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 108502,
+        "word": "知情人士称国产新冠口服药药店将下架",
+        "onboard_time": 1668831626,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90964,
+        "num": 108502,
+        "word": "2022年澳大利亚羽毛球公开赛",
+        "onboard_time": 1668850528,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC第29次领导人非正式会议#"
+    }
+  }
+}

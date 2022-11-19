@@ -1,6 +1,6 @@
 {
   "startTime": 1668788980511,
-  "endTime": 1668849575518,
+  "endTime": 1668850541461,
   "band_list": [
     {
       "raw_hot": 3136297,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1781082,
-      "num": 1191165,
+      "num": 1282764,
       "word": "女子怀孕被嫌事多老公放言不要孩子",
       "onboard_time": 1668843086,
       "rank": 43,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540582,
+      "num": 1540582,
+      "word": "央视频之夜阵容官宣王冰冰",
+      "onboard_time": 1668844409,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1494722,
       "num": 1494722,
       "word": "警方回应任贤齐转发的男童失踪案",
@@ -51,19 +59,19 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1414533,
-      "num": 1414533,
-      "word": "央视频之夜阵容官宣王冰冰",
-      "onboard_time": 1668844409,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1390938,
       "num": 836485,
       "word": "谁能理解老年人的性生活需求",
       "onboard_time": 1668818127,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281400,
+      "num": 1281400,
+      "word": "新冠口服药被要求即刻下架",
+      "onboard_time": 1668846266,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1668835466,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1081691,
-      "num": 1081691,
-      "word": "新冠口服药被要求即刻下架",
-      "onboard_time": 1668846266,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 990283,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683204,
+      "num": 683204,
+      "word": "宋仲基财阀家的小儿子开播",
+      "onboard_time": 1668848126,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644165,
       "num": 260642,
       "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
@@ -233,6 +241,14 @@
       "onboard_time": 1668828447,
       "rank": 8,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 610765,
+      "num": 403126,
+      "word": "女生卖热奶宝7元1个15元俩",
+      "onboard_time": 1668849208,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610617,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545922,
-      "num": 545922,
-      "word": "宋仲基财阀家的小儿子开播",
-      "onboard_time": 1668848126,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509208,
       "num": 509208,
       "word": "道枝骏佑荧屏初吻",
@@ -353,6 +361,14 @@
       "onboard_time": 1668822506,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482197,
+      "num": 482197,
+      "word": "卡塔尔世界杯中国元素如满天繁星",
+      "onboard_time": 1668845609,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 477635,
@@ -401,14 +417,6 @@
       "onboard_time": 1668819508,
       "rank": 9,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 448358,
-      "num": 448358,
-      "word": "卡塔尔世界杯中国元素如满天繁星",
-      "onboard_time": 1668845609,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 434289,
@@ -779,6 +787,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 237352,
+      "num": 237352,
+      "word": "年轻人是懂刻晴的",
+      "onboard_time": 1668846149,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 231728,
       "num": 231728,
       "word": "新郎接亲遇22个小孩楼梯口要红包",
@@ -825,14 +841,6 @@
       "onboard_time": 1668822927,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219807,
-      "num": 219807,
-      "word": "年轻人是懂刻晴的",
-      "onboard_time": 1668846149,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 217498,
@@ -899,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "平凉市体育局发贺电",
+      "onboard_time": 1668848726,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195283,
       "num": 195283,
       "word": "梅西刚下飞机就被围了",
@@ -929,6 +945,14 @@
       "onboard_time": 1668843868,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180444,
+      "num": 180444,
+      "word": "男足世界杯首次出现6名女裁判",
+      "onboard_time": 1668847586,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 179697,
@@ -1011,28 +1035,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165922,
-      "num": 127501,
-      "word": "平凉市体育局发贺电",
-      "onboard_time": 1668848726,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162201,
       "num": 162201,
       "word": "浓眉38分16篮板",
       "onboard_time": 1668840145,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161753,
-      "num": 127111,
-      "word": "女生卖热奶宝7元1个15元俩",
-      "onboard_time": 1668849208,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159080,
@@ -1211,11 +1219,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 138036,
-      "num": 138036,
-      "word": "男足世界杯首次出现6名女裁判",
-      "onboard_time": 1668847586,
-      "rank": 28,
+      "raw_hot": 137977,
+      "num": 137977,
+      "word": "甘肃泾川县足协主席发声",
+      "onboard_time": 1668847886,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1235,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136284,
+      "num": 136284,
+      "word": "暴雪中国最新发声",
+      "onboard_time": 1668850346,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135577,
       "num": 135577,
       "word": "活塞vs湖人",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1668823587,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 134579,
+      "num": 111061,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1668850528,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 133584,
@@ -1283,6 +1307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130858,
+      "num": 130858,
+      "word": "张本智和4比1庄智渊",
+      "onboard_time": 1668849689,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128160,
+      "num": 128160,
+      "word": "00后女生用漫画寻回宠物猫",
+      "onboard_time": 1668850048,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "大理寺日志第2季动画",
@@ -1291,12 +1331,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126821,
+      "num": 377072,
+      "word": "疫情歼灭战重庆山火骑士又聚首",
+      "onboard_time": 1668848425,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126169,
       "num": 126169,
       "word": "法证先锋5尺度有多大",
       "onboard_time": 1668765325,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125676,
+      "num": 125676,
+      "word": "动物园称将团团遗体作为标本保留",
+      "onboard_time": 1668849987,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125572,
@@ -1323,12 +1379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124008,
-      "num": 124008,
-      "word": "甘肃泾川县足协主席发声",
-      "onboard_time": 1668847886,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 122754,
+      "num": 122754,
+      "word": "衡水中学启动教学改革破除超限内卷",
+      "onboard_time": 1668849567,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 122512,
@@ -1379,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117489,
+      "num": 1283115,
+      "word": "太空视角版黄河入海流",
+      "onboard_time": 1668848246,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 117443,
       "num": 91436,
       "word": "柯南剧场版有多甜",
       "onboard_time": 1668845787,
       "rank": 42,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 116566,
+      "num": 116566,
+      "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
+      "onboard_time": 1668848187,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115443,
@@ -1475,28 +1547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102508,
-      "num": 102508,
-      "word": "国家药监局已通知阿兹夫定不允许线上线下零售",
-      "onboard_time": 1668848187,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "男孩文具店换现金被老板婉拒",
       "onboard_time": 1668779668,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99278,
-      "num": 1171267,
-      "word": "太空视角版黄河入海流",
-      "onboard_time": 1668848246,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 98131,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1668779789,
       "rank": 45,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 90964,
+      "num": 108502,
+      "word": "2022年澳大利亚羽毛球公开赛",
+      "onboard_time": 1668850528,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90799,
@@ -1603,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78506,
-      "num": 78506,
-      "word": "衡水中学启动教学改革破除超限内卷",
-      "onboard_time": 1668849567,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 75953,
       "num": 1318127,
       "word": "那些被平凡暖意感动的瞬间",
@@ -1625,14 +1681,6 @@
       "onboard_time": 1668789383,
       "rank": 48,
       "category": "自然"
-    },
-    {
-      "raw_hot": 62535,
-      "num": 377072,
-      "word": "疫情歼灭战重庆山火骑士又聚首",
-      "onboard_time": 1668848425,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60487,
