@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668951655887,
+  "endTime": 1668953890857,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -25,6 +25,14 @@
       "onboard_time": 1668928105,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2175710,
+      "num": 2175710,
+      "word": "世界杯开幕式",
+      "onboard_time": 1668950128,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2128843,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1603100,
-      "num": 1603100,
+      "num": 2224537,
       "word": "郑州通报4个月大女婴夭折",
       "onboard_time": 1668938367,
       "rank": 10,
@@ -171,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1094400,
+      "num": 1094400,
+      "word": "内马尔 帅",
+      "onboard_time": 1668949229,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1015572,
+      "num": 1015572,
+      "word": "财阀家的小儿子 重生爽文",
+      "onboard_time": 1668950190,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 926164,
       "num": 200211,
       "word": "华晨宇 假发",
@@ -209,14 +233,6 @@
       "onboard_time": 1668871290,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854037,
-      "num": 854037,
-      "word": "内马尔 帅",
-      "onboard_time": 1668949229,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 820645,
@@ -491,14 +507,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 569777,
-      "num": 569777,
-      "word": "财阀家的小儿子 重生爽文",
-      "onboard_time": 1668950190,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 565099,
       "num": 565099,
       "word": "北方女子南方点外卖遇巴掌大炒饭",
@@ -745,6 +753,14 @@
       "onboard_time": 1668914546,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409898,
+      "num": 409898,
+      "word": "父母为什么理解不了我们的累",
+      "onboard_time": 1668950369,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 404660,
@@ -1035,6 +1051,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 314397,
+      "num": 314397,
+      "word": "卡塔尔世界杯上的中国制造如满天繁星",
+      "onboard_time": 1668948569,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 312182,
       "num": 312182,
       "word": "时代少年团有你的季节海报",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1668938607,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294447,
+      "num": 294447,
+      "word": "世界杯彩票",
+      "onboard_time": 1668950911,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 294110,
@@ -1196,10 +1228,26 @@
     },
     {
       "raw_hot": 271367,
-      "num": 205814,
+      "num": 208838,
       "word": "我们的歌",
       "onboard_time": 1668949828,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269813,
+      "num": 269813,
+      "word": "朱韵说晚安",
+      "onboard_time": 1668953189,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265832,
+      "num": 209052,
+      "word": "你可以永远相信鸟鸟的文本",
+      "onboard_time": 1668953072,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1217,6 +1265,22 @@
       "onboard_time": 1668863850,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 249374,
+      "num": 249374,
+      "word": "本泽马已离开卡塔尔",
+      "onboard_time": 1668948627,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248698,
+      "num": 2200069,
+      "word": "卡塔尔世界杯有哪些中国元素",
+      "onboard_time": 1668952761,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 248137,
@@ -1347,14 +1411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220830,
-      "num": 220830,
-      "word": "父母为什么理解不了我们的累",
-      "onboard_time": 1668950369,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219383,
       "num": 219383,
       "word": "当emoji学会跳kpop",
@@ -1475,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199468,
+      "num": 199468,
+      "word": "卡塔尔vs厄瓜多尔",
+      "onboard_time": 1668949769,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198879,
       "num": 140122,
       "word": "王俊凯致敬大国重器音频",
@@ -1531,12 +1595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190930,
-      "num": 190930,
-      "word": "本泽马已离开卡塔尔",
-      "onboard_time": 1668948627,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 193773,
+      "num": 157375,
+      "word": "叶舒华PinkQUEEN随拍",
+      "onboard_time": 1668952170,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190723,
@@ -1545,14 +1609,6 @@
       "onboard_time": 1668921927,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187749,
-      "num": 187749,
-      "word": "卡塔尔世界杯上的中国制造如满天繁星",
-      "onboard_time": 1668948569,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 186980,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1668869430,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169696,
-      "num": 169696,
-      "word": "卡塔尔vs厄瓜多尔",
-      "onboard_time": 1668949769,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 165338,
@@ -1883,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133600,
+      "num": 133600,
+      "word": "重庆30元蔬菜包里有什么",
+      "onboard_time": 1668953369,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132412,
       "num": 132412,
       "word": "花得最开心的一块钱",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1668946470,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131097,
+      "num": 131097,
+      "word": "怎样提升你的表达能力",
+      "onboard_time": 1668952290,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 130705,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1668856410,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125130,
+      "num": 125130,
+      "word": "这嘴在南京还没闲下来过",
+      "onboard_time": 1668952709,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 121503,
@@ -2025,14 +2097,6 @@
       "onboard_time": 1668858691,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 106908,
-      "num": 122483,
-      "word": "世界杯彩票",
-      "onboard_time": 1668950911,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 105536,
